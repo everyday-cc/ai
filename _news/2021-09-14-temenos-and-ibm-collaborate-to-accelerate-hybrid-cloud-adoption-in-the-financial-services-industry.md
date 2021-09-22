@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Temenos and IBM Collaborate to Accelerate Hybrid Cloud Adoption in the Financial Services Industry"
-excerpt: "Temenos (SIX: TEMN), the banking software company, today announced the availability of Temenos Transact next-generation core banking with Red Hat OpenShift on IBM Cloud, to accelerate hybrid cloud adoption within the financial services industry."
-publishedDateTime: 2021-09-14T06:43:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-financial-services-3695e2ebdce54251b44a14855d39400c"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-financial-services-3695e2ebdce54251b44a14855d39400c"
+excerpt: "Temenos (SIX: TEMN), the banking software company, today announced the availability of Temenos Transact next-generation core banking with Red Hat Open"
+publishedDateTime: 2021-09-14T10:43:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210913005942/en/Temenos-and-IBM-Collaborate-to-Accelerate-Hybrid-Cloud-Adoption-in-the-Financial-Services-Industry"
+webUrl: "https://www.businesswire.com/news/home/20210913005942/en/Temenos-and-IBM-Collaborate-to-Accelerate-Hybrid-Cloud-Adoption-in-the-Financial-Services-Industry"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "S2oloYuJZyliT+1JJCgyqST7EBKahDfNBlCRCwf6pSft6Kfc7wXj3N1UNtWic15bjZPscHCIkKdRbcAfXpwV8t+EWi9zbkAF3ibGUq1j3uCm+00rJlpH23WZarQKIsXSncsBt80eZFMnmK0GB2beJ6LZ0YhaQwON49nZAKSOouRa6wDwoG2IaZcLqN1p4d6t4V2MnkfzWoglLUbba3hTY4/SjUAqbYyeRF/tnnZM+o3BteLGZ3crIMYjg/Kr1Hs990v7xvXaYaGvY/PHV9YrgToBCicaQVXPB1crhYbggSMHE4xN8zPXsuTbHdtyPjPm806RvP7hkEpIYYuX/fuCDlD8pYzHuFUliVZl4IWFecc=;CeVCUOVecQOfefuTWXylDg=="
+secured: "nGviVgc2mu12CPa0Ex5m740GG37SFf59Ixpa+NSXf68Q7ZOJuJyb8/mG8IpeMYlSl6eNB6WTPHKvebkhxBxJdPsk+amSaJAXN191vYMLf2aacGPDtIGyJWrrCOBQ96l/rJarQkQWJiqKVAIiueVu0ryhO0cVsq0oWL1f8xfZEEeGNKDoDWCfYM9efs1dUbHHqvnGLL+Bj7ERe7dmRwoJ3rYRkaUqoEjH7cNmqhgH80GdRvrRGfJW4wmBYZ/N7Ftz86JueES+8Hnb2LeMdrvP9OqNT7oLCe2pDDX7oKCoE1zVsof0M73y+32G7oKtJKfoCshC8Q2/o6/qW4BgCh50fIcVIO9D5HLTfnP2ynMkI8M=;Z/XJZGJM0gNdCWWObb/Exg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.globalbankingandfinance.com/rpa-and-ai-in-banking-mark
 webUrl: "https://www.globalbankingandfinance.com/rpa-and-ai-in-banking-market-likely-to-boost-future-growth-by-2027-cognizant-capgemini-accenture-fintech-singapore-the-lab-consulting/"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Fintech, telehealth firms top LinkedIn's list of emerging Singapore start-ups"
+    excerpt: "The list was compiled based on several metrics such as employment growth and attraction of top talent.. Read more at straitstimes.com."
+    publishedDateTime: 2021-09-22T06:15:00Z
+    webUrl: "https://www.straitstimes.com/business/companies-markets/fintech-telehealth-firms-top-linkedins-list-of-emerging-singapore-start"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 21
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/09/22/fhstartups220921.jpg?itok=AsgQ6SbW"
+        width: 763
+        height: 509
+        isCached: true
 
 secured: "oTYsvQ9c6ZiVcDJbA22UZQi3+4zZm3IaK7jYMbHYdES1U4FK0zi4q+Xw6QeCtkunErPs54ReHkrIFmzQj9JFTnxLpUwBj7mQIYcetFqeVUEPbL1cOk8nzAxWKQP0fs7lcILSqTMx/PDE6y3mMKHdOgaCHvrR2liJMsHzd/ZuXfSSgXj6PkbSn85t4uH94yTWFUDytFj/qHH1NWWghiwAt4H/0UU8SV8kDmByp430G6yvTlM9s+wJZ4JoBQSy7M0NOvnenyGdV40aJEUmU2p1GdwVYUkvSdgMR6+3Rxsg7PiqVN0AaM+dIG/wqsh1uPhZ7et5DR/+YoOu1bF9YUklG8kd+2IPONdOzeBMUWrrAiM=;NCJUTH69IL62LICsqfjPGg=="
 ---

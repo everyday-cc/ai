@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sharecast.com/amp/news/market_reports/press-release-deep
 cdnAmpWebUrl: "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/market_reports/press-release-deepspatial-inc-files-patent-for-artificial-intelligence-driven-retail-management-software--8108547.html"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Deepspatial Inc. Files Patent for Artificial Intelligence Driven Retail Management Software"
+    excerpt: "Deepspatial Inc. (CSE:DSAI) (“Deepspatial” or the “Company”) is pleased to announce that it has filed patent application number 63244524 - Computer Implemented Method and System for Retail Management and Optimization with the United States Patent and Trademark Office (USPTO) for its proprietary methods of retail management with enhanced user experience for dynamic planning and decision making."
+    publishedDateTime: 2021-09-21T16:32:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210921005098/en/Deepspatial-Inc.-Files-Patent-for-Artificial-Intelligence-Driven-Retail-Management-Software"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 22
 
 secured: "LrlBpglKsyIYMDba51aLC5zFIQ5eHpWWCEci0h/XTf0JyKWyICwu+cGsOhm0OBsmgtcapsp9knozbdbofSdThYF5w8q9zM6Tr2jE5OnNYW0vedG0ClWi1w1+Eu3G/yHGokX9c/ttT1NegDZNek/PKvkfNKO0ss81bg+tp7xz8Gbrjx+WYvY7eFmtvUCBOBaOFBVaoXSmAdMUOhM3Cn/+PtT4nluJI20W+uPoT3s5tUNY7myXeotJZlaGTHpkrYfLQobq8FYAug4vSwJNIzmEtIYrdktLVWrORq06RIQZcuKLEd1yoV09Z8yOhM1fAoydejnqgUF8WAxkMCuU9+MTXAE529xhJzmfC1uSl5CU440=;6CRwJiAmK5EAGkSlXl8Ufg=="
 ---

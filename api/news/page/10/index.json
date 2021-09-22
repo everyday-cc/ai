@@ -2,6 +2,240 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-09-13-nfl-and-aws-unveil-new-4th-down-metric-to-judge-whether-your-favorite-coach-made-the-right-call.md",
+      "title": "NFL and AWS unveil new 4th down metric to judge whether your favorite coach made the right call",
+      "excerpt": "The NFL noted that some coaches, like the Cowboys' Mike McCarthy, made a few bad 4th down calls while the Browns' Kevin Stefanksi and Bengals' Zac Taylor made the right decisions down the stretch.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nfl-and-aws-unveil-new-4th-down-metric-to-judge-whether-your-favorite-coach-made-the-right-call/",
+      "originalUrl": "https://www.zdnet.com/article/nfl-and-aws-unveil-new-4th-down-metric-to-judge-whether-your-favorite-coach-made-the-right-call/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/13/8bce6146-33fa-449d-aed3-c8bca9b6b0cb/resize/1200xauto/1570385f36251bb981a51328b1d4d19f/screen-shot-2021-09-06-at-10-35-49-pm-1.png",
+          "width": 1200,
+          "height": 713,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nfl-and-aws-unveil-new-4th-down-metric-to-judge-whether-your-favorite-coach-made-the-right-call/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nfl-and-aws-unveil-new-4th-down-metric-to-judge-whether-your-favorite-coach-made-the-right-call/",
+      "publishedDateTime": "2021-09-12T20:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-nuix-to-pay-34m-for-us-based-natural-language-processing-vendor-topos-labs.md",
+      "title": "Nuix to pay $34m for US-based natural language processing vendor Topos Labs",
+      "excerpt": "Australian data management vendor Nuix is set to acquire US-based natural language processing (NLP) software vendor Topos Labs for up to US$25 million (approx. AU$34 million). The terms of the acquisition will see an initial cost of US$5 million with up to US$18.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/nuix-to-pay-34m-for-us-based-natural-language-processing-vendor-topos-labs-569736",
+      "originalUrl": "https://www.crn.com.au/news/nuix-to-pay-34m-for-us-based-natural-language-processing-vendor-topos-labs-569736",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/iStock-1073831676.jpg",
+          "width": 1433,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-12T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai.md",
+      "title": "Chinese tech giant Baidu begins publicly testing Apollo Go robotaxis in Shanghai",
+      "excerpt": "The 10,000 square meter space will house the 200 AVs Baidu hopes to bring to the city, which would make it the site of the largest self-driving fleet in East China. Baidu’s long game is to ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/13/chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai/",
+      "originalUrl": "https://techcrunch.com/2021/09/13/chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/image001-2.jpg?w=1024",
+          "width": 1024,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/13/chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/13/chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai/amp/",
+      "publishedDateTime": "2021-09-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-12-nuix-asxnxl-acquires-natural-language-processing-company-topos.md",
+      "title": "Nuix (ASX:NXL) acquires natural language processing company, Topos",
+      "excerpt": "Global software company, Nuix (ASX:NXL) is set to take over natural language processing developer, Topos Labs.",
+      "sourceUrl": null,
+      "webUrl": "https://themarketherald.com.au/nuix-asxnxl-acquires-natural-language-processing-company-topos-2021-09-13/",
+      "originalUrl": "https://themarketherald.com.au/nuix-asxnxl-acquires-natural-language-processing-company-topos-2021-09-13/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://themarketherald.com.au/wp-content/uploads/2021/09/Screen-Shot-2021-09-13-at-9.55.06-am.png",
+          "width": 516,
+          "height": 272,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://themarketherald.com.au/nuix-asxnxl-acquires-natural-language-processing-company-topos-2021-09-13/amp/",
+      "cdnAmpWebUrl": "https://themarketherald-com-au.cdn.ampproject.org/c/s/themarketherald.com.au/nuix-asxnxl-acquires-natural-language-processing-company-topos-2021-09-13/amp/",
+      "publishedDateTime": "2021-09-12T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Market Herald",
+        "domain": "themarketherald.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-12-zillow-zillow-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise-fintech-zoom.md",
+      "title": "Zillow – Zillow – Leading MLOps Tools Are The Next Frontier Of Scaling AI In The Enterprise | Fintech Zoom",
+      "excerpt": "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom.",
+      "sourceUrl": null,
+      "webUrl": "https://fintechzoom.com/fintech_news_zillow/zillow-zillow-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise-fintech-zoom/",
+      "originalUrl": "https://fintechzoom.com/fintech_news_zillow/zillow-zillow-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise-fintech-zoom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fintechzoom.com/wp-content/uploads/2021/09/1631318839_0x0.jpg",
+          "width": 1200,
+          "height": 754,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-12T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechzoom",
+        "domain": "fintechzoom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-12-are-bots-and-robots-the-answer-to-worker-shortages.md",
       "title": "Are Bots and Robots the Answer to Worker Shortages?",
       "excerpt": "Using software bots has become commonplace in many workplaces around the world, but with worker shortages, will robots start filling more roles soon?",
@@ -368,6 +602,49 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-11-dubai-eyes-the-future-with-self-driving-cabs.md",
+      "title": "Dubai eyes the future with self-driving cabs",
+      "excerpt": "Hamdan Mohammed announces RTA Dubai has signed an agreement with General Motors Co’s Cruise self-driving car subsidiary to operate its autonomous vehicles in Dubai starting in 2023, adding that the self-driving fleet will reach 4,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/saudi-arabia/en/business/story/Dubai_eyes_the_future_with_selfdriving_cabs-SNG_241845934/",
+      "originalUrl": "https://www.zawya.com/saudi-arabia/en/business/story/Dubai_eyes_the_future_with_selfdriving_cabs-SNG_241845934/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/images/cia/zAmp/210412111336ZRVZ.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/saudi-arabia/en/story/amp/SNG_241845934/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/SNG_241845934/",
+      "publishedDateTime": "2021-09-10T22:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -843,302 +1120,6 @@
         "name": "openpr.com",
         "domain": "openpr.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-communism-and-sitcoms-inspire-ai-ethics-at-salesforce.md",
-      "title": "Communism and sitcoms inspire AI ethics at Salesforce",
-      "excerpt": "Salesforce VP Yakaira Núñez's experiences taught her that it's important to consider your non-target audience in your AI roadmap.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/",
-      "originalUrl": "https://venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Women-in-AI-Awards-1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/amp/",
-      "publishedDateTime": "2021-09-10T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-why-the-next-big-ai-accuracy-breakthrough-wont-come-from-algorithms-or-computing-power.md",
-      "title": "Why The Next Big AI Accuracy Breakthrough Won’t Come From Algorithms Or Computing Power",
-      "excerpt": "Just as we swung from championing algorithms to data to infrastructure, we'll shift our focus back to data — more specifically, acquiring the right data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/why-the-next-big-ai-accuracy-breakthrough-wont-come-from-algorithms-or-computing-power/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/why-the-next-big-ai-accuracy-breakthrough-wont-come-from-algorithms-or-computing-power/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613a216d46e0d2616c5039f8%2F0x0.jpg",
-          "width": 1200,
-          "height": 878,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/why-the-next-big-ai-accuracy-breakthrough-wont-come-from-algorithms-or-computing-power/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/10/why-the-next-big-ai-accuracy-breakthrough-wont-come-from-algorithms-or-computing-power/amp/",
-      "publishedDateTime": "2021-09-10T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-security-risk-quantification-empowering-better-business-decision-making-to-address-security-risks.md",
-      "title": "Security Risk Quantification: Empowering Better Business Decision Making to Address Security Risks",
-      "excerpt": "IBM is modernizing its entire portfolio, strategy, and execution, from software to hardware to consulting and managed services, to leverage cognitive and cloud technologies and engage clients ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/resources/223847/security-risk-quantification-empowering-better-business-decision-making-to-address-security-risks",
-      "originalUrl": "https://www.computerworld.com/resources/223847/security-risk-quantification-empowering-better-business-decision-making-to-address-security-risks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-10T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise.md",
-      "title": "Leading MLOps Tools Are The Next Frontier Of Scaling AI In The Enterprise",
-      "excerpt": "Machine Learning Operations (MLOps) is on the rise as a critical technology to help to scale machine learning in the enterprise. Leading companies have emerged as top machine learning operations tool enablers for the industry to handle these challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2021/09/10/leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/09/10/leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613b4f87a07dff77c5cd4264%2F0x0.jpg",
-          "width": 1200,
-          "height": 754,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/09/10/leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/09/10/leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise/amp/",
-      "publishedDateTime": "2021-09-10T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "IBM AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-lantheus-announces-presentation-at-the-2021-american-urological-association-aua-annual-meeting.md",
-      "title": "Lantheus Announces Presentation at the 2021 American Urological Association (AUA) Annual Meeting",
-      "excerpt": "Lantheus Holdings, Inc. (the “Company”) (NASDAQ: LNTH), an established leader and fully integrated provider committed to innovative imaging diagnostics, targeted therapeutics and artificial intelligence solutions to find,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-health-cancer-artificial-intelligence-1668c512fcbaea63debb5036c6b071af",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-health-cancer-artificial-intelligence-1668c512fcbaea63debb5036c6b071af",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-10T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-how-ai-will-drive-the-precision-health-research-revolution-through-2030.md",
-      "title": "How AI Will Drive The Precision Health Research Revolution Through 2030",
-      "excerpt": "Ethical AI will be critical to widespread AI adoption. Algorithms used in care delivery must perform well across diverse patient populations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-ai-will-drive-the-precision-health-research-revolution-through-2030/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-ai-will-drive-the-precision-health-research-revolution-through-2030/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aebd253bb898555bf94d92%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-ai-will-drive-the-precision-health-research-revolution-through-2030/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/10/how-ai-will-drive-the-precision-health-research-revolution-through-2030/amp/",
-      "publishedDateTime": "2021-09-10T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

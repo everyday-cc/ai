@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-16-ai-chip-startups-axelera-ai-and-deep-vision-raise-new-funding.md",
+      "title": "AI chip startups Axelera AI and Deep Vision raise new funding",
+      "excerpt": "Two artificial intelligence chip startups, Netherlands-based Axelera AI B.V. and Los Altos, California-based Deep Vision Inc., today announced that they’ve raised new funding to support their respective product development efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/09/15/ai-chip-startup-axelera-ai-raises-12m-funding/",
+      "originalUrl": "https://siliconangle.com/2021/09/15/ai-chip-startup-axelera-ai-raises-12m-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/chip.png",
+          "width": 800,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T11:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-16-easiloan-an-ai-enabled-fintech-platform-for-home-loans-raises-inr-80-million-from-tomorrow-capital.md",
       "title": "Easiloan, an AI-enabled fintech platform for home loans, raises INR 80 million from Tomorrow Capital",
       "excerpt": "Easiloan.com, India's first AI-enabled fintech solution for home loans has raised its maiden round of INR 80 million from Tomorrow",
@@ -122,6 +165,58 @@
       ]
     },
     {
+      "path": "_news/2021-09-16-global-face-recognition-device-market-challenges-business-overview-and-forecast-research-study-to-2025.md",
+      "title": "Global Face Recognition Device Market Challenges, Business Overview and Forecast Research Study to 2025",
+      "excerpt": "According to this study, over the next five years the Face Recognition Device market will register a 18.2% CAGR in terms of revenue, the global market size will reach $ 2054.8 million by 2025, from $ 1054.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-face-recognition-device-market-challenges-business-overview-and-forecast-research-study-to-2025-2021-09-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-face-recognition-device-market-challenges-business-overview-and-forecast-research-study-to-2025-2021-09-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-16-dutch-ai-semiconductor-startup-axelera-ai-launches-with-12-million-seed-round.md",
       "title": "Dutch AI Semiconductor Startup Axelera AI Launches With $12 Million Seed Round",
       "excerpt": "AI semiconductor startup Axelera AI announced today that it has successfully closed a seed investment round of $12 million. The round was led by emerg",
@@ -191,19 +286,19 @@
     {
       "path": "_news/2021-09-15-nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data.md",
       "title": "NHS Artificial Intelligence provider reports 160% growth, promising to transform healthcare with better data",
-      "excerpt": "RwHealth, the leading provider of Artificial Intelligence to the healthcare industry, has reported 160% year-on-year growth as its",
+      "excerpt": "RwHealth, the leading provider of Artificial Intelligence to the healthcare industry, has reported 160% year-on-year growth as its data-led solutions are increasingly embraced by NHS trusts, private healthcare providers and pharmaceutical companies.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data-807973216.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data-807973216.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/-nhs-artificial-intelligence-provider-reports-160-growth-promising-/2021/09/15/9450012.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-nhs-artificial-intelligence-provider-reports-160-growth-promising-/2021/09/15/9450012.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1626850/Orlando_Agrippa.jpg?p=facebook",
-          "width": 5157,
-          "height": 2699,
+          "url": "https://mma.prnewswire.com/media/1626850/Orlando_Agrippa.jpg",
+          "width": 267,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -213,11 +308,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T08:59:00-07:00",
+      "publishedDateTime": "2021-09-15T09:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -741,6 +836,48 @@
       ]
     },
     {
+      "path": "_news/2021-09-15-dutch-ai-semiconductor-startup-axelera-ai-launches-with-12-million-seed-round.md",
+      "title": "Dutch AI Semiconductor Startup Axelera AI Launches With $12 Million Seed Round",
+      "excerpt": "AI semiconductor startup Axelera AI announced today that it has successfully closed a seed investment round of $12 million. The round was led by emerging technologies leader Bitfury and joined by global nanoelectronics R&D center imec and deep-tech venture capital funds Innovation Industries and imec.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-europe-business-netherlands-123a2f7a911344e799e85745067b2cb8",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-europe-business-netherlands-123a2f7a911344e799e85745067b2cb8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-why-even-marketers-should-understand-the-value-of-machine-learning.md",
       "title": "Why Even Marketers Should Understand the Value of Machine Learning",
       "excerpt": "In this contributed article, Dr. Peter Day, Chief Technology Officer at Quantcast, discusses how leading marketers are making use of widely available machine learning and AI-powered solutions that can do the hard work of spotting signals in the noise.",
@@ -902,126 +1039,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-fintech-startup-pagaya-could-go-public-in-9b-spac-deal.md",
-      "title": "FinTech Startup Pagaya Could Go Public in $9B SPAC Deal",
-      "excerpt": "FinTech Pagaya Technologies is mulling a public offering via a merger with the SPAC EJF Acquisition Corp that would value the startup at roughly $9 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/ipo/2021/fintech-startup-pagaya-could-go-public-in-9b-spac-deal/",
-      "originalUrl": "https://www.pymnts.com/news/ipo/2021/fintech-startup-pagaya-could-go-public-in-9b-spac-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/09/shutterstock_1501769132-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/ipo/2021/fintech-startup-pagaya-could-go-public-in-9b-spac-deal/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/fintech-startup-pagaya-could-go-public-in-9b-spac-deal/amp/",
-      "publishedDateTime": "2021-09-15T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-china-roundup-softbank-leads-200m-round-of-robotics-company.md",
-      "title": "China roundup: SoftBank leads $200m round of robotics company",
-      "excerpt": "Foxconn has also put its electric vehicle collaboration with Byton on hold, while JD.com is set to open its first offline shopping center.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/china-roundup-keenon-series-d-funding",
-      "originalUrl": "https://www.techinasia.com/china-roundup-keenon-series-d-funding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences.md",
-      "title": "Former BigHand Head of Product joins Wilson Allen as Director of Data Sciences",
-      "excerpt": "Wilson Allen today announced the addition of James Baldassarra as Director of Data Sciences. In his new role at the company, Baldassarra will be responsible for rolling out Wilson’s Managed Analytics Services,",
-      "sourceUrl": null,
-      "webUrl": "https://www.legalitprofessionals.com/global-news/12672-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences",
-      "originalUrl": "https://www.legalitprofessionals.com/global-news/12672-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "legalitprofessionals.com",
-        "domain": "legalitprofessionals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-21-blackbirdai-grabs-10m-to-help-brands-counter-disinformation.md",
+      "title": "Blackbird.AI grabs $10M to help brands counter disinformation",
+      "excerpt": "New York-based Blackbird.AI has closed a $10 million Series A as it prepares to launched the next version of its disinformation intelligence platform this fall. The Series A is led by Dorilton Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/21/blackbird-ai-grabs-10m-to-help-brands-counter-disinformation/",
+      "originalUrl": "https://techcrunch.com/2021/09/21/blackbird-ai-grabs-10m-to-help-brands-counter-disinformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/26400512912_b3ff16ccf0_k.jpg?w=1024",
+          "width": 1024,
+          "height": 496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/21/blackbird-ai-grabs-10m-to-help-brands-counter-disinformation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/21/blackbird-ai-grabs-10m-to-help-brands-counter-disinformation/amp/",
+      "publishedDateTime": "2021-09-21T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-21-digital-freight-startup-transfix-going-public-in-spac-deal.md",
       "title": "Digital Freight Startup Transfix Going Public in SPAC Deal",
       "excerpt": "The blank-check merger would help Transfix, which competes with bigger rivals including Uber Freight, expand its business of connecting shippers with truckers.",
@@ -268,7 +320,7 @@
       "originalUrl": "https://thenextweb.com/news/deepmind-tells-google-no-idea-make-ai-less-toxic",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -621,7 +673,7 @@
       "originalUrl": "https://venturebeat.com/2021/09/20/improved-algorithms-may-be-more-important-for-ai-performance-than-faster-hardware/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1227,50 +1279,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-german-gpu-sales-point-to-more-price-hikes-and-a-drop-in-availability-this-year.md",
-      "title": "German GPU sales point to more price hikes and a drop in availability this year",
-      "excerpt": "As we move into the later part of 2021, trends and evil rumours point to a worsening of both price and availability for GPU stock. That means it could be a while longer before the GPU shortage finally subsides and the ridiculous pricing we've been subject to fully balances out.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamer.com/gpu-price-availability-trends-mean-GPU-shortage-unlikely-to-subside/",
-      "originalUrl": "https://www.pcgamer.com/gpu-price-availability-trends-mean-GPU-shortage-unlikely-to-subside/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/TDUwJZywerjBr9g65GBRJR-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/amp/gpu-price-availability-trends-mean-GPU-shortage-unlikely-to-subside/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/gpu-price-availability-trends-mean-GPU-shortage-unlikely-to-subside/",
-      "publishedDateTime": "2021-09-20T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

@@ -20,6 +20,19 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "Deep Learning in Machine Vision Market Worth Observing Strong Growth by Cognex Corporation, MVTec Software GmbH, Cyth Systems"
+    excerpt: "A2Z Market Research announces the release of Deep Learning in Machine Vision Market research report. The market is predictable to grow at a healthy pace in the coming years. Deep Learning in Machine Vision Market 2021 research report presents analysis of market size,"
+    publishedDateTime: 2021-09-22T06:01:00Z
+    webUrl: "https://www.globalbankingandfinance.com/deep-learning-in-machine-vision-market-worth-observing-strong-growth-by-cognex-corporation-mvtec-software-gmbh-cyth-systems/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/deep-learning-in-machine-vision-market-worth-observing-strong-growth-by-cognex-corporation-mvtec-software-gmbh-cyth-systems/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/deep-learning-in-machine-vision-market-worth-observing-strong-growth-by-cognex-corporation-mvtec-software-gmbh-cyth-systems/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 12
+
 secured: "SLtnxmJI6m/au+TSxfWCIECksimvnjizO9b/UnKJ5W4o9Wjik8ccX53jGL99x0OcLFACk6tN63PrfaZenop76ANlfOC9hk4BBq3v8f1Bcq0vxgGfhY6Cy9vxwG4fieNwNZLUXxCUrCeJVjw4lwf2CIa3R818OCfzv+Jk6ZGt6duBrsKuEJjS+aCccbKwYQneSQRHHx1RpPhZgSm1iPVxdksD5ynh4xW8XMhX1sRZbb5CXC+uER83hfFpKEZ638EoXpLNwc0ik2vo5Yu6pyIGf65OCj3ubXC2p3pyZ10A9OLTukJmaKRqTRCLPIkUhT/ZrvwtiOYUbhKnDGwK2Cos5IERDciim6stIhMuW93LDD0=;DQUwIsy3Ac/ZTb+fxBJbuw=="
 ---
 

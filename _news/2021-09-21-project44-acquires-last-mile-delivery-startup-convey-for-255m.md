@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/21/project44-acquires-last-mile-deli
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/21/project44-acquires-last-mile-delivery-startup-convey-for-255m/amp/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

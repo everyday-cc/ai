@@ -291,33 +291,24 @@
     {
       "path": "_news/2021-09-17-hinge-health-acquires-the-most-advanced-computer-vision-technology-for-tracking-human-motion.md",
       "title": "Hinge Health Acquires the Most Advanced Computer Vision Technology for Tracking Human Motion",
-      "excerpt": "Hinge Health, the world’s #1 Digital Musculoskeletal Clinic™, has acquired wrnch, developer of the leading computer vision platform for measuring human motion. wrnch’s three-dimensional motion-tracking technology enables the same precise tracking of full-body movement used by elite athletes and the motion picture industry.",
+      "excerpt": "Hinge Health, the world's #1 Digital Musculoskeletal Clinic™, has acquired wrnch, developer of the leading computer vision platform for measuring human motion. wrnch's three-dimensional motion-tracking technology enables the same precise tracking of full-body movement used by elite athletes and the motion picture industry.",
       "sourceUrl": null,
-      "webUrl": "https://www.valdostadailytimes.com/news/business/hinge-health-acquires-the-most-advanced-computer-vision-technology-for-tracking-human-motion/article_0ae2d9e3-a0ff-5c30-beda-db3fd09d11ef.html",
-      "originalUrl": "https://www.valdostadailytimes.com/news/business/hinge-health-acquires-the-most-advanced-computer-vision-technology-for-tracking-human-motion/article_0ae2d9e3-a0ff-5c30-beda-db3fd09d11ef.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/-hinge-health-acquires-most-advanced-computer-vision-technology-/2021/09/17/9451376.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-hinge-health-acquires-most-advanced-computer-vision-technology-/2021/09/17/9451376.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/8/a7/8a781877-c4e2-5795-bc6a-f62b66a436ce/6144795823a4b.image.jpg?resize=1120%2C630",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-17T04:02:00-07:00",
+      "publishedDateTime": "2021-09-17T04:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "valdostadailytimes.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -639,6 +630,58 @@
         "name": "Hackster",
         "domain": "hackster.io",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-global-face-recognition-device-market-challenges-business-overview-and-forecast-research-study-to-2025.md",
+      "title": "Global Face Recognition Device Market Challenges, Business Overview and Forecast Research Study to 2025",
+      "excerpt": "According to this study, over the next five years the Face Recognition Device market will register a 18.2% CAGR in terms of revenue, the global market size will reach $ 2054.8 million by 2025, from $ 1054.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-face-recognition-device-market-challenges-business-overview-and-forecast-research-study-to-2025-2021-09-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-face-recognition-device-market-challenges-business-overview-and-forecast-research-study-to-2025-2021-09-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1287,40 +1330,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-computer-and-human-vision-perspectives.md",
-      "title": "Computer and Human Vision Perspectives",
-      "excerpt": "The result of a series of four highly successful workshops on the topic, the book gathers many of the most distinguished researchers from both computer and human vision to reflect on their experience, identify open problems, and foster a cross-disciplinary ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/ax/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/object-categorization-computer-and-human-vision-perspectives?format=HB&isbn=9780521887380",
-      "originalUrl": "https://www.cambridge.org/ax/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/object-categorization-computer-and-human-vision-perspectives?format=HB&isbn=9780521887380",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-07T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],
