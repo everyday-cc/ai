@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-21T14:12:00Z
 originalUrl: "https://www.broadwayworld.com/article/Science-In-Theatre-Festival-Will-Focus-On-AI-Mixed-Reality-and-Smartwear-20210921"
 webUrl: "https://www.broadwayworld.com/article/Science-In-Theatre-Festival-Will-Focus-On-AI-Mixed-Reality-and-Smartwear-20210921"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: BroadwayWorld

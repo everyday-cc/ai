@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-21T21:23:00Z
 originalUrl: "https://www.forbes.com/sites/davidteich/2021/09/21/your-whit-is-my-command-read-it-for-the-wit-not-for-the-artificial-intelligence/"
 webUrl: "https://www.forbes.com/sites/davidteich/2021/09/21/your-whit-is-my-command-read-it-for-the-wit-not-for-the-artificial-intelligence/"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: Forbes

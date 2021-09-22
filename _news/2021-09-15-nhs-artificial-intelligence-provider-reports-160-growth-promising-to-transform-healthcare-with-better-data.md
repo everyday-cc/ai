@@ -1,20 +1,26 @@
 ---
 category: news
 title: "NHS Artificial Intelligence provider reports 160% growth, promising to transform healthcare with better data"
-excerpt: "RwHealth, the leading provider of Artificial Intelligence to the healthcare industry, has reported 160% year-on-year growth as its data-led solutions are increasingly embraced by NHS trusts, private healthcare providers and pharmaceutical companies."
-publishedDateTime: 2021-09-15T16:04:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-nhs-artificial-intelligence-provider-reports-160-growth-promising-/2021/09/15/9450012.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-nhs-artificial-intelligence-provider-reports-160-growth-promising-/2021/09/15/9450012.htm"
+excerpt: "RwHealth, the leading provider of Artificial Intelligence to the healthcare industry, has reported 160% year-on-year growth as its"
+publishedDateTime: 2021-09-15T15:59:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data-807973216.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data-807973216.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "FBUKenHt10DtK5yVHJKL+EdWnx58+F2He8ryCusqSBn8QsYrMZF4T7ugBP08kBOoZyr+qWngctY1fsi7Rgk3Ki5TrlMn7iSZc+y47WeYufnh6e6WC944uQ5q4Ur/f7rdLwTR3JlXG+QH5GcCDMeO/l3DT3QzJlKFl2UGdW9ubvZ+Sa4Ckejvn8p2cdoRoXvuhND8Bs+/11tWsQnJY4jIGIUQPduRxNURHF5hZ636ov4pbO4ETv2Gb6NUH9/ldFciciR1gxdFBfkj9CuqdPRK9dQLzR8rPZwiq83H241CaTwPF3JdhvhSqyU1ciCeU7ovY4SjYnEMwA2ksnoyeo0DpJWrNRocsNjj6W2rf6a2g3UoYWv+GGvfOU7lH92ycF88xx6hERoSs3gBYmAR16Xa7YGYJh+pD+BLMbtV64JtRwrkkAMypHaizqAAxJTzjnqYz/+R9hG/s60WBctK0ro7xHm/E9dpc6hS54pLvCZKmLUERb2XrF6DoLjYrQ2+TNkhky6zvytA8rdM+6koOW7RXw==;PLThwDT+FTp4I065pLKuVQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1626850/Orlando_Agrippa.jpg?p=facebook"
+    width: 5157
+    height: 2699
+    isCached: true
+
+secured: "oRUL2Bt4KJGfts9zw1erop5BSIyllw5MAN/X+0KAFdnalGtx4wnpd+dnYsediJfR3muS/5p86uBpzm4/oqAAOno0vIA9yxBb0b44z4NXnzRyVmn87VEOqaZHEKu/2bFvR+x0lO9h/cXCWFDUqa6gXlKqxLEanRuIoT8OO/k5/RqO9ZCsC5Sk4gpaNT9FDJQSqGK6ForOhFTicoj6Zgm3STzju2m+4eHuVQgQA2+U5T+SfzfmLYR0XK2bMjN29WmNsgJ0N6I7i1euAHDgeTRMx/tWlAQzbch4IV40h6+wagq2NKWBT8ukQkcoTkvE4NL1PWli5VrEXq3Y+24UCW4mFZK4LRsElgUhvRHMvJYCbJw=;WEWLHQrKDgWuLG9xOCCUSQ=="
 ---
 

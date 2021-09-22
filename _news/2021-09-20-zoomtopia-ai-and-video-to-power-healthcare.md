@@ -37,7 +37,7 @@ related:
     provider:
       name: MassDevice
       domain: massdevice.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.massdevice.com/wp-content/uploads/2021/09/revolution_ascend_ge_healthcare.jpg"
         width: 770

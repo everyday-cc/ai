@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-21T21:57:00Z
 originalUrl: "https://redmondmag.com/articles/2021/09/21/enable-voice-typing-in-windows-11.aspx"
 webUrl: "https://redmondmag.com/articles/2021/09/21/enable-voice-typing-in-windows-11.aspx"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Redmond Magazine

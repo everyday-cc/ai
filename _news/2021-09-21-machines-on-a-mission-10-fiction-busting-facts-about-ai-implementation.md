@@ -56,20 +56,6 @@ related:
         width: 780
         height: 470
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Evaluation, Competition Tracking, And Regional Analysis 2027"
-    excerpt: "The report titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed over"
-    publishedDateTime: 2021-09-17T05:12:00Z
-    webUrl: "https://menafn.com/1102813531/Artificial-Intelligence-In-Healthcare-Market-Evaluation-Competition-Tracking-And-Regional-Analysis-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?555569"
-        width: 444
-        height: 250
-        isCached: true
 
 secured: "PuxQKjJ1S41oVZ6Th27K2+Da+bkNuutfjkx8mOJUIKwItHR1GUAjjZsBH9/xnqrn7SH8+YuZrMvKUCyoUNhf4nOnonf7a/5Nw4w0vJfcwNFRsCbq26r2H3NmQ/xSV59lFqxPfx9RqLM0W4ap8j4CKGZDdfK0HErOHD49JNROyJ/xPYxoGpzQE/hA5685H26duWNlcXaKEjfz+AHNxBNJO1uYqeRKMNXGm+mHcBA+PzWEcH3KxoJUiZi4IqbtjLH1gJZxHIwBPP9BNzwq3ZjrnpGyt13i6fRfXvksAN1ewF78tX849/UEa2nfaw4UTxSwReCO5QoVGfXHt+ub+7WCL4JNVyqCaV9f+rPaTK73fp9zNEVpXhI2sgKUZVfbthq414YURGuibHwiM8L/I1n5pQuFqbptrbeHjSa1PnhVxlQiJMPQkj2TEe9SwY634B+DoD+mXbBqonKAjUUaDZEOhGNC5U3OcHutbJZb0RqBx0/+uuVxuxj+VYzsB3IT1yav2wcm6E0flB6aptp2SWNnsw==;JBV73Bn4khUwNGCKn6HktQ=="
 ---

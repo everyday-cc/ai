@@ -6,7 +6,7 @@ publishedDateTime: 2021-09-21T18:39:00Z
 originalUrl: "https://www.massdevice.com/ge-healthcare-unveils-new-ai-powered-ct-system/"
 webUrl: "https://www.massdevice.com/ge-healthcare-unveils-new-ai-powered-ct-system/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 

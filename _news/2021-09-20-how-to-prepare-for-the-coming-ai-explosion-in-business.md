@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/20/how-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/09/20/how-to-prepare-for-the-coming-ai-explosion-in-business/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 79
+  - title: "Preparing for a future pandemic with artificial intelligence"
+    excerpt: "When the novel coronavirus led to a global pandemic last year, doctors and researchers rushed to learn as much as possible about the virus and how our bodies respond to it."
+    publishedDateTime: 2021-09-21T20:07:00Z
+    webUrl: "https://phys.org/news/2021-09-future-pandemic-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 19
 
 secured: "aOBJA5vAobTXEUpcJpfFs6TnIS83som3r5gTdIVjwjfV1eWp/uW+3CxQvtsCsoKoexQioLAjoMOR+8ImhfT6qY+rXBbM6vmwh+vGz+CL4M+Gj8Z/0TIrUeusp7ZQp8Sr6HaS1I7dJQYHRqHAgArk5sJBmZsmkkbbsbsoCnqE3nMCGm/Zyh6fRtxrlwPiXB5gu+bugWSx8U4ZHqDJQ03E9IYPi7ukjprWzRpJzRQzf83B3IgP33sByN5mspUTKY9pQ+n8ThR/hk92CEAvqaP10wg6bWiFbPvN6B7HxArKvXKGF0tKI294wW45T3vVIY5JBMLV6h0q6td2a4LtBUDEkQLgZjuZ9Hfc7GR0zEM7J9odejRD2ijMPONZKNRDZ4KnM55UYyvK5crHJT+QTqq2AHs9LSqvatXu1U9ErRoJE+zJTR9JgnZZzXTIz5TwihpjWAGS0iQVkWQ8CmjEJbxHI5DQS45e2Tboxhzc+7ECBGX6ISxXbHF5flkRm3ECjUVQl/ax2W+jONU5FU+fS45EYQ==;qUjTVeC0JgozzCC57UlASg=="
 ---

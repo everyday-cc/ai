@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-21T22:07:00Z
 originalUrl: "https://www.sunjournal.com/2021/09/21/pow-mia-recognition-day-remembered-in-farmington-jay/"
 webUrl: "https://www.sunjournal.com/2021/09/21/pow-mia-recognition-day-remembered-in-farmington-jay/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Sun Journal

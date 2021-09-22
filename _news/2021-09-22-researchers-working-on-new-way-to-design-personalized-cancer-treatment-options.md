@@ -2,17 +2,17 @@
 category: news
 title: "Researchers working on new way to design personalized cancer treatment options"
 excerpt: "Researchers are using AI and data to create virtual replicas of cancer patients' DNA, RNA, protein and other information. These virtual replicas are known as \"molecular twins.\" They will be used to help identify the most effective approach to treating each individual's disease."
-publishedDateTime: 2021-09-21T18:44:00Z
-originalUrl: "https://www.katc.com/news/national/researchers-working-on-new-way-to-design-personalized-cancer-treatment-options"
-webUrl: "https://www.katc.com/news/national/researchers-working-on-new-way-to-design-personalized-cancer-treatment-options"
+publishedDateTime: 2021-09-21T17:38:00Z
+originalUrl: "https://www.wxyz.com/news/national/researchers-working-on-new-way-to-design-personalized-cancer-treatment-options"
+webUrl: "https://www.wxyz.com/news/national/researchers-working-on-new-way-to-design-personalized-cancer-treatment-options"
 type: article
 quality: 20
 heat: 20
 published: false
 
 provider:
-  name: KATC
-  domain: katc.com
+  name: WXYZ Detroit
+  domain: wxyz.com
 
 topics:
   - AI in Healthcare
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "26kfVuFGBn3gY/X89GM4qKyx8yYtlDPM951SxdZ2rAZ4Udn5LSb+zRklWBiyKtSpKCKdFlHGyGRqPVbngldZdTQ0nE0bbYm6crCxy2L8fY6NJ2nn3ouGuHxxKSU9NYn49uqVQ+4+KcUBd6EUdfu+A05Ew9kZ8iDr4VowzeHnbKClBVxuLFRLFQ6wdBvFxb3AR3xMFq0FTmhEwTofnc28woIpgw0gwwdveR1IH6SQaNbZvxFa66JI+8vb1AmVx9D6GVWcGVXFpG1mHUFoic1vFDWMUeonfMHVAuVhxTCPw+8yn/nQ/YnLslYRHhNvbUt9MQ0LihmvpyThFEvS5ZcIUDXrZB0NYS5ZSJq+d/VGbqo=;tQuqrJ5M8h+oYdfKURFT1Q=="
+secured: "KzGOg72CC64z9hyTtdlWStkFkartbFrO2ptHdQVrwKpnHg8/VoHSHNywHpsrvD59SRwC9xCCJVO578ulDevKEpzmdcn8mGTQc/bjLak2hjqPAQFqMQICS/hpdYDOhN4pWaKMVbCKaCKI3AH5kBSm00NrV5IAGyh+++YkT+ADNIyRFBC0Kn1YNlo+CBdCAnlQw6pj7A7ldr57Zi7xCszPdN+vUWg9ob/IerQ+iGLBP/Z9M2jsts4+YW4RkCrTLMRa62gnUx/kameCSrLBb80+mFimxHHcbLegVypm+dfAt1xrYozDYsspOqRxqzzUcOsqCIbxRgaxMc/XR34IC084qgtt7jUetuDZrg4/hg1qla4=;RU9Y9yTmAvkaK6XuQoOMrw=="
 ---
 

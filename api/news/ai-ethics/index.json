@@ -10,7 +10,7 @@
       "originalUrl": "https://www.business2community.com/business-innovation/5-ways-that-ai-is-shaping-analytics-in-2021-02432043",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -53,7 +53,7 @@
       "originalUrl": "https://www.ndtv.com/world-news/f-in-ethics-un-chief-antonio-guterres-grades-world-on-vaccine-rollout-2548827",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -148,7 +148,7 @@
       "originalUrl": "https://thedailytexan.com/2021/09/20/new-robotics-program-focuses-on-ethics-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -342,6 +342,40 @@
       "provider": {
         "name": "The Straits Times",
         "domain": "straitstimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-with-intels-help-community-college-students-can-earn-degree-in-ai.md",
+      "title": "With Intel’s Help, Community College Students Can Earn Degree in AI",
+      "excerpt": "The need for AI technology in the workforce, across several industries, is critical for U.S. economic growth,” Pat Gelsinger, Intel CEO said announcing a program expansion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.industryweek.com/talent/article/21175122/with-intels-help-community-college-students-can-earn-degree-in-ai",
+      "originalUrl": "https://www.industryweek.com/talent/article/21175122/with-intels-help-community-college-students-can-earn-degree-in-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IndustryWeek",
+        "domain": "industryweek.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1341,49 +1375,6 @@
       "provider": {
         "name": "accountantsdaily.com.au",
         "domain": "accountantsdaily.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-wpp-acquires-ai-technology-company-satalia.md",
-      "title": "WPP acquires AI-technology company Satalia",
-      "excerpt": "WPP has announced the acquisition of Satalia, a technology company offering AI solutions for clients. The full announcement is below.The announcement:Satalia is a global leader in enterprise AI and one of the UK’s fastest-growing tech companies,",
-      "sourceUrl": null,
-      "webUrl": "https://mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700",
-      "originalUrl": "https://mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mumbrella.com.au/wp-content/uploads/2021/08/WPP-1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700/amp",
-      "cdnAmpWebUrl": "https://mumbrella-com-au.cdn.ampproject.org/c/s/mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700/amp",
-      "publishedDateTime": "2021-08-23T15:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mumbrella",
-        "domain": "mumbrella.com.au",
         "images": null,
         "publishers": null,
         "authors": null

@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-21T15:54:00Z
 originalUrl: "https://www.newindianexpress.com/cities/bengaluru/2021/sep/21/in-a-first-bengalurus-ksr-railway-station-adopts-facial-recognition-system-2361901.html"
 webUrl: "https://www.newindianexpress.com/cities/bengaluru/2021/sep/21/in-a-first-bengalurus-ksr-railway-station-adopts-facial-recognition-system-2361901.html"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: The New Indian Express

@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/google-deep-learning-radiology-syndica
 webUrl: "https://thenextweb.com/news/google-deep-learning-radiology-syndication"
 type: article
 quality: 68
-heat: -1
-published: false
+heat: 78
+published: true
 
 provider:
   name: The Next Web
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s new deep learning system can give a boost to radiologists"
-    excerpt: "The deep learning system can help radiologists prioritize chest x-rays, and it can serve as a first response tool in emergency settings."
-    publishedDateTime: 2021-09-17T04:20:00Z
-    webUrl: "https://venturebeat.com/2021/09/16/googles-new-deep-learning-system-can-give-a-boost-to-radiologists/"
-    ampWebUrl: "https://venturebeat.com/2021/09/16/googles-new-deep-learning-system-can-give-a-boost-to-radiologists/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/16/googles-new-deep-learning-system-can-give-a-boost-to-radiologists/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/Deep-learning-chest-radiography1.jpg?w=1200&strip=all"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Google’s New Deep Learning System To Distinguish Abnormal Chest Radiographs"
     excerpt: "Google’s new deep learning system detects chest scan and provides clinically actionable findings analyzing it."
     publishedDateTime: 2021-09-20T08:20:00Z

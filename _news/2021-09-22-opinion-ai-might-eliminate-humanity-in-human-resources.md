@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-21T21:52:00Z
 originalUrl: "https://www.govtech.com/workforce/opinion-ai-might-eliminate-humanity-in-human-resources"
 webUrl: "https://www.govtech.com/workforce/opinion-ai-might-eliminate-humanity-in-human-resources"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Government Technology

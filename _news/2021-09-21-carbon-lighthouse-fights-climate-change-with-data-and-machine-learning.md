@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/amazonwebservices/2021/09/21/carbon-lighth
 ampWebUrl: "https://www.forbes.com/sites/amazonwebservices/2021/09/21/carbon-lighthouse-fights-climate-change-with-data-and-machine-learning/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/09/21/carbon-lighthouse-fights-climate-change-with-data-and-machine-learning/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:

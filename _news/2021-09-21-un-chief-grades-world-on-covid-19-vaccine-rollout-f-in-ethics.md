@@ -55,6 +55,15 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "UN chief grades world on vaccine rollout: ‘F in Ethics’"
+    excerpt: "United Nations Secretary-General Antonio Guterres reprimanded the world on Tuesday for the inequitable distribution of COVID-19 vaccines, describing it as an “obscenity” and giving the"
+    publishedDateTime: 2021-09-21T20:38:00Z
+    webUrl: "https://nypost.com/2021/09/21/un-chief-grades-world-on-vaccine-rollout-f-in-ethics/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 19
 
 secured: "UiXp1ALD22tpA7svFLbwGxsfpXUH7KS7FcpC+Mvq5T2HjvIEa1R6thzQ0hnWsxp5wtIgSqHgE+SkiNibFYRVP+eE51DMC4JqnrqVIYqUe+Blzyw6x5DprLxzg5Te9756MQZEPufuwYX6BvP1PGiXevCvHTnx18U1/H735p9FX7mbu5qiEkShsO7DYW/NbDyAVs6kj7mBnk2/w5WMrOFVqgGC9KSc/EkPWVElYUyeGLVHJmMMO6i7S1JCGYGcNrN4QRE7lC8d+Zku+1aYk+iLGhPORf8y6iN9A8vy6lpOSql+4s5eeSsVQSgyCHq101EwPRTWMooRAN/Q4NstEcewp70+M+Fr4w0r8KLrWnKPFEo=;6KvxuaxolgNp+8oOEtI8dQ=="
 ---

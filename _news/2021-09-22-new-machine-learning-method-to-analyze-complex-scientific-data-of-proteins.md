@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-21T20:04:00Z
 originalUrl: "https://phys.org/news/2021-09-machine-method-complex-scientific-proteins.html"
 webUrl: "https://phys.org/news/2021-09-machine-method-complex-scientific-proteins.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Phys.org

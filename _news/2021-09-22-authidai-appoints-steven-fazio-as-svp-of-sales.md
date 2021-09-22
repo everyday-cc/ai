@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-21T21:00:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/21/09/g23041982/authid-ai-appoints-steven-fazio-as-svp-of-sales"
 webUrl: "https://www.benzinga.com/pressreleases/21/09/g23041982/authid-ai-appoints-steven-fazio-as-svp-of-sales"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Benzinga.com

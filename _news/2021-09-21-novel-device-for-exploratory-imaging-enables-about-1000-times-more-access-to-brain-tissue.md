@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-20T20:15:00Z
 originalUrl: "https://medicalxpress.com/news/2021-09-device-exploratory-imaging-enables-access.html"
 webUrl: "https://medicalxpress.com/news/2021-09-device-exploratory-imaging-enables-access.html"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: Medical Xpress

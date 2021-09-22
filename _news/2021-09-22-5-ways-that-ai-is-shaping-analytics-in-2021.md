@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business2community.com/business-innovation/5-ways-that-a
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/5-ways-that-ai-is-shaping-analytics-in-2021-02432043/amp"
 type: article
 quality: 59
-heat: 109
+heat: 112
 published: true
 
 provider:

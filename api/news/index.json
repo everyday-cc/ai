@@ -2,6 +2,103 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-21-model-and-data-lineage-in-machine-learning-experimentation.md",
+      "title": "Model and data lineage in machine learning experimentation",
+      "excerpt": "Modern quantitative finance is based around the approach of pattern recognition in historical data. This approach requires teams of scientists to work in a collaborative and regulated setting in order to develop models that can be used to make trading predictions. With the growing influence of this field,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/model-and-data-lineage-in-machine-learning-experimentation/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/model-and-data-lineage-in-machine-learning-experimentation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T16:42:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-calculate-inference-units-for-an-amazon-rekognition-custom-labels-model.md",
+      "title": "Calculate inference units for an Amazon Rekognition Custom Labels model",
+      "excerpt": "Amazon Rekognition Custom Labels allows you to extend the object and scene detection capabilities of Amazon Rekognition to extract information from images that is uniquely helpful to your business. For example, you can find your logo in social media posts, identify your products on store shelves, classify",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/calculate-inference-units-for-an-amazon-rekognition-custom-labels-model/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/calculate-inference-units-for-an-amazon-rekognition-custom-labels-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T14:11:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-researchers-develop-ai-algorithm-to-diagnose-deep-vein-thrombois.md",
       "title": "Researchers Develop AI Algorithm To Diagnose Deep Vein Thrombois",
       "excerpt": "Researchers worked with a UK healthtech startup to develop an AI algorithm that could diagnose Deep Vein Thrombsis faster and more accurately.",
@@ -61,7 +158,7 @@
       "originalUrl": "https://www.business2community.com/business-innovation/5-ways-that-ai-is-shaping-analytics-in-2021-02432043",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -156,7 +253,7 @@
       "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2021/09/21/carbon-lighthouse-fights-climate-change-with-data-and-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -196,7 +293,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -208,7 +306,7 @@
       "originalUrl": "https://www.ndtv.com/world-news/f-in-ethics-un-chief-antonio-guterres-grades-world-on-vaccine-rollout-2548827",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -251,7 +349,7 @@
       "originalUrl": "https://www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -294,7 +392,7 @@
       "originalUrl": "https://venturebeat.com/2021/09/21/project44-acquires-last-mile-delivery-startup-convey-for-255m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -739,7 +837,7 @@
       "originalUrl": "https://www.newsweek.com/technology-double-edged-sword-face-repressive-regimes-opinion-1630225",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -895,7 +993,7 @@
       "originalUrl": "https://www.wsj.com/articles/digital-freight-startup-transfix-going-public-in-spac-deal-11632218400",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1049,7 +1147,7 @@
       "originalUrl": "https://www.zdnet.com/article/5-unexpectedly-hot-industries-for-robotics-jobs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -1141,109 +1239,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-deepmind-tells-google-it-has-no-idea-how-to-make-ai-less-toxic.md",
-      "title": "DeepMind tells Google it has no idea how to make AI less toxic",
-      "excerpt": "Everybody's talking about toxic AI, but nobody's doing anything about. But not for lack of trying. Just why can't AI researchers fix AI's potty mouth?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/deepmind-tells-google-no-idea-make-ai-less-toxic",
-      "originalUrl": "https://thenextweb.com/news/deepmind-tells-google-no-idea-make-ai-less-toxic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FtoxicAI.jpg&signature=e7bc668b862740a7b43f83ab582e267b",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-20T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-putting-the-human-back-into-the-equation-personalization-and-ai-driven-digital-banking-experiences.md",
-      "title": "Putting the human back into the equation: Personalization and AI-driven digital banking experiences",
-      "excerpt": "As more consumers turn to digital tools to manage their finances, banks must be proactive ini creating contextually-relevant experiences .",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/20/putting-the-human-back-into-the-equation-personalization-and-ai-driven-digital-banking-experiences/",
-      "originalUrl": "https://venturebeat.com/2021/09/20/putting-the-human-back-into-the-equation-personalization-and-ai-driven-digital-banking-experiences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-597064809.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/20/putting-the-human-back-into-the-equation-personalization-and-ai-driven-digital-banking-experiences/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/20/putting-the-human-back-into-the-equation-personalization-and-ai-driven-digital-banking-experiences/amp/",
-      "publishedDateTime": "2021-09-20T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

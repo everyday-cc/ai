@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-21T21:24:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/hayden-ai-raises-20m-in-series-a-funding-led-by-tyh-ventures-to-scale-their-autonomous-traffic-management-platform-1030814283"
 webUrl: "https://markets.businessinsider.com/news/stocks/hayden-ai-raises-20m-in-series-a-funding-led-by-tyh-ventures-to-scale-their-autonomous-traffic-management-platform-1030814283"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: Business Insider

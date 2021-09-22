@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-01-global-investment-bank-capital-trust-announce-68-mn-investment-fund-in-ai.md",
+      "title": "Global Investment Bank, Capital Trust announce $68 mn investment fund in AI",
+      "excerpt": "Global Investment Bank and Capital Trust announced the establishment of the GIB Ventures AI Fund, which will invest up to $68 million in startups transforming artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/global-investment-bank-capital-trust-announce-68-mn-investment-fund-in-ai-121090101282_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/global-investment-bank-capital-trust-announce-68-mn-investment-fund-in-ai-121090101282_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/14/full/1610640588-3918.jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/global-investment-bank-capital-trust-announce-68-mn-investment-fund-in-ai-121090101282_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/global-investment-bank-capital-trust-announce-68-mn-investment-fund-in-ai-121090101282_1.html",
+      "publishedDateTime": "2021-09-01T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-09-01-knowledge-as-a-service-platform-lynk-lands-funding-from-ubs-investment-bank.md",
       "title": "“Knowledge-as-a-service” platform Lynk lands funding from UBS’ Investment Bank",
       "excerpt": "Lynk, the “knowledge-as-a-service” platform with more than 840,000 experts, announced today it has added $5 million raised from UBS’ Investment Bank division to its previously announced Series B. This brings the round’s new total to $29 million.",
@@ -1305,40 +1349,6 @@
         "AI in Finance",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-upstart-holdings-vs-360-finance-which-fintech-stock-is-a-better-choice.md",
-      "title": "Upstart Holdings vs. 360 Finance: Which FinTech Stock is a Better Choice?",
-      "excerpt": "Fintech companies have been in the limelight owing to a significant increase in remote financial transactions amid the COVID-19 pandemic. The trend is expected to continue in the foreseeable future thanks to rapid digitalization.",
-      "sourceUrl": null,
-      "webUrl": "https://stocknews.com/news/qfin-upst-upstart-holdings-vs-360-finance-which-fintech-stock-is-a/",
-      "originalUrl": "https://stocknews.com/news/qfin-upst-upstart-holdings-vs-360-finance-which-fintech-stock-is-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://stocknews.com/single-snippet-page/amp/",
-      "cdnAmpWebUrl": "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/",
-      "publishedDateTime": "2021-08-16T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stock News",
-        "domain": "stocknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

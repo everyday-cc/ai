@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-25-deep-learning-chipset-market.md",
+      "title": "Deep Learning Chipset market",
+      "excerpt": "The global research report titled Deep Learning Chipset market was published by Absolute Markets Insights. The study elucidates current market statistics, in addition to underlying future ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2367819/global-deep-learning-chipset-market-2021-to-2030",
+      "originalUrl": "https://www.openpr.com/news/2367819/global-deep-learning-chipset-market-2021-to-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/8/U825568852_g.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2367819/global-deep-learning-chipset-market-2021-to-2030",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2367819/global-deep-learning-chipset-market-2021-to-2030",
+      "publishedDateTime": "2021-08-25T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-hybrid-ai-is-the-future-of-industrial-analytics.md",
       "title": "Hybrid AI Is The Future Of Industrial Analytics",
       "excerpt": "Industrial DataOps is the starting point to solving one of the key challenges of industrial digitalization: enabling hybrid AI solutions at scale.",
@@ -1325,49 +1369,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-at-2473-cagr-3d-sensor-market-size-share-is-expected-to-exhibit-us-722175-million-by-2025.md",
-      "title": "At 24.73% CAGR, 3D Sensor Market Size, Share is Expected to Exhibit US$ 7221.75 Million by 2025",
-      "excerpt": "Global 3D Sensor Market is valued at USD 1537.61 Million in 2018 and expected to reach USD 7221.75 Million by 2025 with the CAGR of 24.73% over the forecast period. Get Sample Report:@  3D sensors enable a machine to understand the size shape and distance of an object within its field of view.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/at-24-73-cagr-3d-sensor-market-size-share-is-expected-to-exhibit-us-7221-75-million-by-2025/",
-      "originalUrl": "https://manometcurrent.com/at-24-73-cagr-3d-sensor-market-size-share-is-expected-to-exhibit-us-7221-75-million-by-2025/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/global-separators-monitoring-systems-market-390x220.png",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/at-24-73-cagr-3d-sensor-market-size-share-is-expected-to-exhibit-us-7221-75-million-by-2025/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/at-24-73-cagr-3d-sensor-market-size-share-is-expected-to-exhibit-us-7221-75-million-by-2025/?amp=1",
-      "publishedDateTime": "2021-08-16T22:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

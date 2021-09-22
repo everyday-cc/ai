@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-21T21:55:00Z
 originalUrl: "https://medicalxpress.com/news/2021-09-recurrent-neural-network-brain.html"
 webUrl: "https://medicalxpress.com/news/2021-09-recurrent-neural-network-brain.html"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Medical Xpress

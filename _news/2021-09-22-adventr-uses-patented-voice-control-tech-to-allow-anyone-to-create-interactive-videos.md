@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-21T21:13:00Z
 originalUrl: "https://techcrunch.com/2021/09/21/adventr-uses-patented-voice-control-tech-to-allow-anyone-to-create-interactive-videos/"
 webUrl: "https://techcrunch.com/2021/09/21/adventr-uses-patented-voice-control-tech-to-allow-anyone-to-create-interactive-videos/"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: TechCrunch

@@ -2,6 +2,127 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-16-live-webinar-driving-healthcare-decisions-with-natural-language-processing.md",
+      "title": "Live Webinar: Driving Healthcare Decisions with Natural Language Processing",
+      "excerpt": "Dr. Sabita Sankar, VP of Business Development at HUMA.AI, will sit down with Natalie Yeadon, to discuss “human-centric AI” and how to automate healthcare through human language, with special focus on the applications for Medical Affairs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pmlive.com/pmhub/medical_education/impetus_digital/press_releases/live_webinar_driving_healthcare_decisions_with_natural_language_processing",
+      "originalUrl": "https://www.pmlive.com/pmhub/medical_education/impetus_digital/press_releases/live_webinar_driving_healthcare_decisions_with_natural_language_processing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PMLiVE",
+        "domain": "pmlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-hpcai-in-the-spotlight-jensen-huang-named-to-time-magazines-most-influential-people-list.md",
+      "title": "HPC/AI in the Spotlight: Jensen Huang Named to Time Magazine’s Most Influential People List",
+      "excerpt": "Estranged royalty, movie stars and Olympic athletes have influence, sure, but if you want to build a list of people with lasting impact then Time magazine got it right when it named Jensen Huang to its list of the 100 most influential people of 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2021/09/hpc-ai-in-the-spotlight-jensen-huang-named-to-time-magazines-most-influential-people-list/",
+      "originalUrl": "https://insidehpc.com/2021/09/hpc-ai-in-the-spotlight-jensen-huang-named-to-time-magazines-most-influential-people-list/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2018/03/DGX-2.jpg",
+          "width": 592,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-bioxcel-therapeutics-presents-results-from-ongoing-phase-2-trial-of-bxcl701-in-combination-with.md",
+      "title": "BioXcel Therapeutics Presents Results from Ongoing Phase 2 Trial of BXCL701 in Combination with ...",
+      "excerpt": "BXCL701 plus KEYTRUDA® (pembrolizumab) demonstrates encouraging anti-tumor activity in heavily pre-treated mCRPC patients with adenocarcinoma. BXCL701 combination continues to ex",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-health-coronavirus-pandemic-tumors-b2036ef8ae606cd13d47ba18d80905db",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-health-coronavirus-pandemic-tumors-b2036ef8ae606cd13d47ba18d80905db",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T15:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-16-walmart-self-driving-delivery-service-coming-to-three-cities.md",
       "title": "Walmart Self-Driving Delivery Service Coming to Three Cities",
       "excerpt": "Ford Motor Co. and Argo AI have joined forces with Walmart to roll out an autonomous vehicle delivery service in Washington, D.C.; Miami, Fla.; and Austin, Texas. The service is expected to grow to other cities.",
@@ -962,127 +1083,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-heres-how-cyber-threats-are-being-detected-using-deep-learning.md",
-      "title": "Here’s how cyber threats are being detected using deep learning",
-      "excerpt": "Deep learning could be a game-changer in applying machine learning techniques to solve computer security challenges Since deep learning shows great",
-      "sourceUrl": null,
-      "webUrl": "https://techhq.com/2021/09/heres-how-cyber-threats-are-being-detected-using-deep-learning/",
-      "originalUrl": "https://techhq.com/2021/09/heres-how-cyber-threats-are-being-detected-using-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn1.techhq.com/wp-content/uploads/2019/02/000_1CH8SQ.png",
-          "width": 1722,
-          "height": 968,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechHQ",
-        "domain": "techhq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-ai-processor-chipmaker-deep-vision-raises-35-million-in-series-b-funding.md",
-      "title": "AI Processor Chipmaker Deep Vision Raises $35 Million in Series B Funding",
-      "excerpt": "Deep Vision, Inc., the developers of an AI processor and comprehensive software development suite for edge computing applications, today announced that it received $35 million in a Series B financing round,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/09/g22954170/ai-processor-chipmaker-deep-vision-raises-35-million-in-series-b-funding",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/g22954170/ai-processor-chipmaker-deep-vision-raises-35-million-in-series-b-funding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22954170",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22954170",
-      "publishedDateTime": "2021-09-15T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-inside-deepl-the-worlds-fastest-growing-most-secretive-machine-translation-company.md",
-      "title": "Inside DeepL: The World’s Fastest-Growing, Most Secretive Machine Translation Company",
-      "excerpt": "Deep dive into DeepL machine translation, approach to neural networks, quality performance, enterprise solutions, new features, users, and growth.",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/inside-deepl-the-worlds-fastest-growing-most-secretive-machine-translation-company/",
-      "originalUrl": "https://slator.com/inside-deepl-the-worlds-fastest-growing-most-secretive-machine-translation-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://slator.com/assets/2021/09/Deepl-Machine-Translation-Company.png",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

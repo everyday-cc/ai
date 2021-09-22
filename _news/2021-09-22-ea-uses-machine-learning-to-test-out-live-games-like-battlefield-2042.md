@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-21T21:52:00Z
 originalUrl: "https://www.tweaktown.com/news/81748/ea-uses-machine-learning-to-test-out-live-games-like-battlefield-2042/index.html"
 webUrl: "https://www.tweaktown.com/news/81748/ea-uses-machine-learning-to-test-out-live-games-like-battlefield-2042/index.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: TweakTown

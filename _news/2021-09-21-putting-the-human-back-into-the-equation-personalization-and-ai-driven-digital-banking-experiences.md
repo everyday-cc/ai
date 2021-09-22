@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/20/putting-the-human-back-into-the-e
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/20/putting-the-human-back-into-the-equation-personalization-and-ai-driven-digital-banking-experiences/amp/"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://cdn.openpr.com/U/9/U920196179_g.jpg"
         width: 780
         height: 470
-        isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Evaluation, Competition Tracking, And Regional Analysis 2027"
-    excerpt: "The report titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed over"
-    publishedDateTime: 2021-09-17T05:12:00Z
-    webUrl: "https://menafn.com/1102813531/Artificial-Intelligence-In-Healthcare-Market-Evaluation-Competition-Tracking-And-Regional-Analysis-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?555569"
-        width: 444
-        height: 250
         isCached: true
   - title: "Machines on a Mission: 10 Fiction-Busting Facts About AI Implementation"
     excerpt: "Thanks to the evolution of data, cloud and compute power, AI can be implemented with greater ease, for less cost and with fewer resources than ever before. Still, myths and misconceptions about this emerging technology remain."

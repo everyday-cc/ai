@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91331-intel-covers-arc-gpu-fab-cho
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91331-intel-covers-arc-gpu-fab-choice-xess-backwards.html"
 type: article
 quality: 91
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 44
+  - title: "Intel interview covers Arc GPU fab choice, XeSS backwards compatibility, and more [Update: Rescheduled]"
+    excerpt: "Due to an error in translation, some of the information in this article was not correct when posted. A representative reached out to TechSpot"
+    publishedDateTime: 2021-09-20T17:45:00Z
+    webUrl: "https://www.techspot.com/news/91331-intel-covers-arc-gpu-fab-choice-xess-backwards.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 33
 
 secured: "M2flTkFPu1ySzOijrnzd7nMbH8lgMPhoRd5DsprEeMj7JcZRBKejeVu597fzhxUlAwy03iGcvl0DsGjqYVgkVFvtKct1PEnl3QxS0AgXl0l8UlSuRaKKcMQgfXZTj2brDYhVq7qjpqBExqvap5RxG4VzDLnhXuxyNsICHoLU+BFBRo96jCDSPV7MfASv4LTgMCAWbRMjDRh9x91HbkljfCQnWhwBcxy7dRUobyMeE36TQzoNtDgxezDCxExsjP6zTFwm0a/LrT7jhLLxSIJbYuip7b3/r+5dTfbxc4nQN0/tIsxjZ0SASUuRCNXdFTZ2FWpXLC47VvT9RIw/vvlRaelk+v42q7tQ5XARw33ndxA=;qJHhzb6/TCNB7lkWHZf9QQ=="
 ---

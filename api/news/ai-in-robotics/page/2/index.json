@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-10-finally-a-robot-vacuum-with-ai-that-can-sniff-out-and-avoid-dog-poop.md",
+      "title": "Finally! A robot vacuum with AI that can sniff out (and avoid) dog poop",
+      "excerpt": "They’re finally going there…so to speak. In what may be the biggest boon to animal lovers since pet food in a can, rolling robot vacuum maker iRobot has come up with an AI-assisted way for its newest model to tell the difference between pet poop and regular floor clutter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.syfy.com/syfywire/robot-vacuum-ai-avoids-dog-poop",
+      "originalUrl": "https://www.syfy.com/syfywire/robot-vacuum-ai-avoids-dog-poop",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.syfy.com/sites/syfy/files/styles/1200x680/public/gettyimages-587079173.jpg",
+          "width": 1200,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.syfy.com/syfywire/robot-vacuum-ai-avoids-dog-poop?amp",
+      "cdnAmpWebUrl": "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/robot-vacuum-ai-avoids-dog-poop?amp",
+      "publishedDateTime": "2021-09-09T19:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Syfy",
+        "domain": "syfy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-ethical-artificial-intelligence-is-focus-of-new-robotics-program.md",
       "title": "Ethical Artificial Intelligence is Focus of New Robotics Program",
       "excerpt": "Ethics will be at the forefront of robotics education thanks to a new University of Texas at Austin program that will train tomorrow's technologists to understand the positive — and potentially negative — implications of their creations.",
@@ -1331,58 +1374,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-meet-emma-the-ai-robot-masseuse-practicing-ancient-wellness-therapies.md",
-      "title": "Meet 'EMMA': The AI robot masseuse practicing ancient wellness therapies",
-      "excerpt": "Developed by Singapore-based startup AiTreat, \"EMMA\" is a robot masseuse that uses sensors and 3D vision to deliver deep tissue massages and traditional Chinese medicine (TCM) therapies.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2021/09/01/health/ai-robot-masseuse-tcm-wellness-hnk-spc-intl/index.html",
-      "originalUrl": "https://edition.cnn.com/2021/09/01/health/ai-robot-masseuse-tcm-wellness-hnk-spc-intl/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210827144954-01-emma-robot-masseuse-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/01/health/ai-robot-masseuse-tcm-wellness-hnk-spc-intl/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/health/ai-robot-masseuse-tcm-wellness-hnk-spc-intl/index.html",
-      "publishedDateTime": "2021-09-01T17:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
