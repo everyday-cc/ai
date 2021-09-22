@@ -15,6 +15,7 @@ topics:
   - AWS AI
   - AI
   - Microsoft AI
+  - AI in Finance
 
 images:
   - url: "https://fintechzoom.com/wp-content/uploads/2021/09/1631318839_0x0.jpg"

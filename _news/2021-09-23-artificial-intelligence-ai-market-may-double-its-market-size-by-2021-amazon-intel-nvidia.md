@@ -8,8 +8,8 @@ webUrl: "https://www.openpr.com/news/2403287/artificial-intelligence-ai-market-m
 ampWebUrl: "https://www.openpr.com/amp/2403287/artificial-intelligence-ai-market-may-double-its-market-size"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2403287/artificial-intelligence-ai-market-may-double-its-market-size"
 type: article
-quality: 62
-heat: 62
+quality: 64
+heat: 64
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn.openpr.com/U/9/U922608424_g.jpg"
@@ -26,6 +27,6 @@ images:
     height: 300
     isCached: true
 
-secured: "6Wg+CWKue8tY+fv+S7gZjtswCmkTw9bssLcPTZRqS059JRuE3cpxJzeIti/u7xXFzaek7A4tlhmg57uU1FBMj0LU9tZnx0pCbAjGpA+VkDTS6fE+OubuVkx4QZmeRGH9/rlwXgrYHyad9gTHQI8vXH37u2WwVs1gOqkITllzofCLbyvhfsf1KINx+d6v82qXdI110y2nkj4GMoIr2QyDoMpwDixSUrePgTLwq4DdKx6M4r5HR9TIZSyqf7zbvUN3HNmnD/XJla96tOJ94v8c3RGPKt7w+yNYwrIGNKZPYSYCdic0vHxE6kTq5mWqMYcyi16Tj/Xc3OJ5xwE9UmVpFCyVWKfPJEbKXbCaaoRccH0=;u2V/ZHBwtWVladpMzH1cRQ=="
+secured: "DkukWONJSq8iZbV5k501VQmWRq63buRXAyHk8hCi7haJa/JBWc7TK7IJLvCZN2JKR+dVtxFiaX/v/0ufq9TiYd55LI2p0fUxxyG7ViAVbIFqZ/f3KKOKUWF9jF0yBpX4Ft0IBj7/t1ecI3yALUafUBKftRZjh3Wwzi1birdOwv05sX8S7k8Aa8XHz0KHsG1T587uzfwDr5cTwlO5dQYWsGrU19Dohimt4uqM2rEzGNhrCsp5YjE8lAEW+p/kmtElz9tat90FzFbzDFpaj/EN59IKR1KkizjT7lIokpQ1GL6KcPdkkLuPQfinM9TD2lczaVwPCn7irsMCv+60xajK/oonF1lhSGL42NzNfpi9Hv6pLXfQv3U7Rj25ueSOf7Vi6B7tHP/EqAdb0gN1IPKRovPFHp+G+A49fdqUopkQ/pWopLKZYp8gZDNIDYO00P6RtHJXjFjpRZ7x0SV4Iw4phKnCyFQhrLIyJaTsUJHRIDZJtDn6FO7HOnCCB0TPzbYp8fitcci726eE+Zd4q6duXg==;v3i2MGn3BhxDCBiXq+ChCg=="
 ---
 

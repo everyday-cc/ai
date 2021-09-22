@@ -8,8 +8,8 @@ webUrl: "https://www.newindianexpress.com/opinions/columns/2021/sep/23/will-arti
 ampWebUrl: "https://www.newindianexpress.com/opinions/columns/2021/sep/23/will-artificial-intelligence-replace-human-authors-in-the-near-future-2362426.amp"
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/opinions/columns/2021/sep/23/will-artificial-intelligence-replace-human-authors-in-the-near-future-2362426.amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/7/w600X390/Artificialintelligence.jpg"
@@ -25,6 +26,22 @@ images:
     height: 390
     isCached: true
 
-secured: "4hnzAL5ShyxzMO3taJZFxat75UcI/ox49zMgmxmtFb3EJyuxtaJs1+ARJ0yyJ4250Z9NRQY0fO+MjhNvtmrn9BzJbzxzUIeATBaQ/tCTFcDAGmJgXZ7rW08L959QCcAyjO0h3id5qCQJQ77Q+gkzDtLRObAihpBnhqHRi5YsEDSRtWTFPrufY89XgiBzqTcmRStnU2VhxPJfbMtWXQ8GTybw6woeHN5eRhu0oWF4j1ragWQ2JPeje/+DVKu/mxZyzOJBxKtHMZjLQlZGDHMeNieSj88LTjcQxYtMBm68Gx4vhSMVAQyNzUK9k4CL00/XjSODRQHf7BZqazESmbONVXiE+2+liON3jQEHhQkwYHA=;QmtOzwGryCQFYZpHMpIUaA=="
+related:
+  - title: "A Fictional Future Built with Real AI"
+    excerpt: "A leading mind in AI research and investment and a bold new voice in science fiction collaborate in “AI 2041,” a remarkable new collection of stories imagining a future shaped by technology being built today."
+    publishedDateTime: 2021-09-22T20:50:00Z
+    webUrl: "https://techcrunch.com/video/a-fictional-future-built-with-real-ai/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://img.vidible.tv/prod/2021-09/21/6149617c12258c58fd55ac16/6149fae57df354751dfebb1f_o_U_v1.jpg?w=640&h=360"
+        width: 640
+        height: 360
+        isCached: true
+
+secured: "FPxY/4V3FJdVAhswRY9tv2xA9jntnNtkHS37Zweg0ZCku8G9k0slIeqCcHwSsuwDSGVaOASq8q5iIiiYrxoVAUwwm2y3HPDZAi5FHJHwS+Po6aYikUE6WJpWPqd7m7+LKSSlmM7MN99nRn2o+rt+i03AKmQIvVQ2fA5zMVOoQAeZgCSfA8aa9796oe1pqoGKxWTfHZxOQ87P/QCp/moUqdIcB7YzrmzcMvwOkIny0gy1Mbvb55GzQt8WZUVQCPPp57O4Bthb4GPpsUY375H8zcUweIalJapN0hsmqHSHUtTeBnwDjN8XlWaxzaqFUodJsinV97memm1Ag8/hjc5TNXdQpmj0MRy8rloQp+qiD7GiFe9ttQK81p5v2bRu+OU2cJmACYtkljT7KuWYXCenN+X+lhw2uRvvzybFFpxNMurijG2VVgFPKY46kC3o0qcWaSsOSx5FsIvq+BjSmnvXw0cYvNb9FgwyUHV0O9JcvrxpZVAXy9JbuvHml9EdvMDH9nzdBH02GQKSXJo1iCTxiQ==;J7xAWfwySsGTI39lkwjGaA=="
 ---
 

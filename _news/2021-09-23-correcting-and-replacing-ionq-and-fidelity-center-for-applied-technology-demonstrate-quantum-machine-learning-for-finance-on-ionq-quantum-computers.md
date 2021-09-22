@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-22T17:52:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-business-science-f65768cf7a4d400383bf1545918193f1"
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-f65768cf7a4d400383bf1545918193f1"
 type: article
-quality: 18
-heat: 18
+quality: 20
+heat: 20
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Finance
+  - Microsoft AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

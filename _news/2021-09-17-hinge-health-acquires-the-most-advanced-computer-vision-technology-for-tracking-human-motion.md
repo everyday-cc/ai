@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Hinge Health Acquires the Most Advanced Computer Vision Technology for Tracking Human Motion"
-excerpt: "Hinge Health, the world’s #1 Digital Musculoskeletal Clinic™, has acquired wrnch, developer of the leading computer vision platform for measuring human motion. wrnch’s three-dimensional motion-tracking technology enables the same precise tracking of full-body movement used by elite athletes and the motion picture industry."
-publishedDateTime: 2021-09-17T11:02:00Z
-originalUrl: "https://www.valdostadailytimes.com/news/business/hinge-health-acquires-the-most-advanced-computer-vision-technology-for-tracking-human-motion/article_0ae2d9e3-a0ff-5c30-beda-db3fd09d11ef.html"
-webUrl: "https://www.valdostadailytimes.com/news/business/hinge-health-acquires-the-most-advanced-computer-vision-technology-for-tracking-human-motion/article_0ae2d9e3-a0ff-5c30-beda-db3fd09d11ef.html"
+excerpt: "Hinge Health, the world's #1 Digital Musculoskeletal Clinic™, has acquired wrnch, developer of the leading computer vision platform for measuring human motion. wrnch's three-dimensional motion-tracking technology enables the same precise tracking of full-body movement used by elite athletes and the motion picture industry."
+publishedDateTime: 2021-09-17T11:08:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-hinge-health-acquires-most-advanced-computer-vision-technology-/2021/09/17/9451376.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-hinge-health-acquires-most-advanced-computer-vision-technology-/2021/09/17/9451376.htm"
 type: article
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/8/a7/8a781877-c4e2-5795-bc6a-f62b66a436ce/6144795823a4b.image.jpg?resize=1120%2C630"
-    width: 1120
-    height: 630
-    isCached: true
-
-secured: "VdZBNaHNzQFNTYbxgBGBmf1dMxuAGXiY4FKEsMLAMBufvvxOugKP6OlFY3JXDxLs36BQ/triCPPb+M2j0UhvXeG5JBE7ozbaOthdZm39z0s7WEUnQRX4bH8kg6XIl3ln6nRkrc3tESNFg/fRgBXn/2Mg/taMM3Dtbs4NMKEkYveRyg4pd8FLmpsYDbI229UeZsQD/nTJyxrEfqHx9ywJhZbvKFbGXLwYp9XdOcryRQrWeY8pp5JAaOSd+S/1ndG1t8SuqRW0eO+IVbXOQdF9PaP5Urbfr66gQBIqXCs4i+z1C/vtqahO6uISsvpn/4UrMTo9W8S0j9F53DjxOYO5t0jbnp1m1QvuFs4vbcUACHE=;rV2GaxOgNH7TcrFkrt7Pbg=="
+secured: "IKyH59f8sgPfQAgx88HySWDpWmSAYOJVFwRZZyxEj80rNOQW37rQ+6ptUC9ZgGB48IXp6F5rAcV34b07IvIZ5iAkHJoRS5Kj9n/zZeWJTWxLoviKXYdWJMKTZb9Uv1DVPytOXJwQBlhPCj6PShVIW+Lzt73G5xdsC871UsHpghQq7TqZr9HQSYMYZDqq4EkHqLQbiMz2Kmi5HQakRofXCEJr4tH+D6gAkFwwUzKRts589Tbk3KT4Js5bvrQ9Kdq1mM9mY9n89NIFy4hqhKVP1TC3bMW+5nRRARtJfVhUbEqIEdi0fC2ciC/w3HcSXcJ3jlA8ATwSx37m+y9o/K3Mu37YPt++dFFr8vjLoxZMk2O2N/7QKAWpeExROcA33esXjasQ6MuWiWiwQXXiLFaQUFfqzRRKGewU/I3rkKjzymTy+Pk0UFqqDbEzwNwDNu5ZAY7HYUg4k7NMMuQpszFTjOVoQH870mgCpSoA3PZfEU8g4rYZhooRTwR9lHVKj8gBiNcqb0qoUDXHZ1YLqfWX8Q==;HrWNDNSzuz0mlcKU0Mjifw=="
 ---
 

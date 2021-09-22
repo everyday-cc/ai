@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Drones, Self-driving Cars, and Everything in Between"
+    excerpt: "Pete Buttigieg first came on the scene as a small town Mayor in Indiana. He launched onto the national stage as a presidential candidate for the Democratic party in 2020. He now serves as Secretary of Transportation under the Biden administration,"
+    publishedDateTime: 2021-09-22T20:55:00Z
+    webUrl: "https://techcrunch.com/video/drones-self-driving-cars-and-everything-in-between/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 54
+    images:
+      - url: "https://img.vidible.tv/prod/2021-09/21/614a00878d2a440b0abbd474/614a014656a7033202b011c6_o_U_v1.jpg?w=640&h=360"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Two Drivers Argue On California Freeway About Collision And Get Deadly Struck By Passing Car, Providing Somber Lessons For AI Self-Driving Cars"
     excerpt: "Sadly, two drivers stood outside their wrecked cars on the freeway and were subsequently sideswiped by another passing car. This provides insights about the advent of AI self-driving cars. Here's the close look."
     publishedDateTime: 2021-09-22T15:30:00Z

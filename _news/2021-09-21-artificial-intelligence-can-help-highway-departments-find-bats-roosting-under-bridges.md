@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-09-artificial-intelligence-highway-
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-artificial-intelligence-highway-departments-roosting.amp"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: techxplore.com
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence can help highway departments find bats roosting under bridges"
+    excerpt: "Photographs and computer vision techniques using artificial intelligence are able to detect the presence of bats on bridges automatically with over 90% accuracy, according to our new study. More than 40 species of bats are found in the U."
+    publishedDateTime: 2021-09-22T20:59:00Z
+    webUrl: "https://www.outlookindia.com/newsscroll/artificial-intelligence-can-help-highway-departments-find-bats-roosting-under-bridges/2164664"
+    ampWebUrl: "https://www.outlookindia.com/newsscroll/amp/artificial-intelligence-can-help-highway-departments-find-bats-roosting-under-bridges/2164664"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/artificial-intelligence-can-help-highway-departments-find-bats-roosting-under-bridges/2164664"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 50
+    images:
+      - url: "https://images.outlookindia.com/public/home_stories/46b8bf407da0a467ee5786239b1bb0d2_233_350.jpg"
+        width: 350
+        height: 233
+        isCached: true
   - title: "Artificial intelligence can help highway departments find bats roosting under bridges"
     excerpt: "Bridge inspectors will test whether an AI-based screening tool can help identify and document the presence of bats with greater confidence."
     publishedDateTime: 2021-09-21T18:49:00Z

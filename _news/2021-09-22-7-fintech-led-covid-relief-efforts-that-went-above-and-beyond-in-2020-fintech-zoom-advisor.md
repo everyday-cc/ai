@@ -35,6 +35,22 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Fintech Zest AI Becomes a CUSO"
+    excerpt: "Zest AI, a Los Angeles-based provider of artificial intelligence-powered loan underwriting software, has further solidified its role in the credit union industry by officially becoming a CUSO, Zest AI announced Wednesday."
+    publishedDateTime: 2021-09-22T20:08:00Z
+    webUrl: "https://www.cutimes.com/2021/09/22/fintech-zest-ai-becomes-a-cuso/"
+    ampWebUrl: "https://www.cutimes.com/2021/09/22/fintech-zest-ai-becomes-a-cuso/?amp=1"
+    cdnAmpWebUrl: "https://www-cutimes-com.cdn.ampproject.org/c/s/www.cutimes.com/2021/09/22/fintech-zest-ai-becomes-a-cuso/?amp=1"
+    type: article
+    provider:
+      name: Credit Union Times
+      domain: cutimes.com
+    quality: 59
+    images:
+      - url: "https://images.cutimes.com/contrib/content/uploads/sites/413/2019/07/fintech-acquisition-e1564581828696.jpg"
+        width: 620
+        height: 414
+        isCached: true
   - title: "How Square Is Using Artificial Intelligence and Machine Learning to Improve Cash App | Fintech Zoom"
     excerpt: "In today’s video, I provide examples of deepfake AI technology and discuss how Square can leverage the acquisition to improve Cash App. The goal is to leverage the latest AI research to develop next-generation Cash App products."
     publishedDateTime: 2021-09-18T21:12:00Z

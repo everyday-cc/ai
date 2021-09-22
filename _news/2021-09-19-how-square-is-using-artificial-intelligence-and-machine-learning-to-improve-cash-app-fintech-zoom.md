@@ -42,6 +42,22 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Fintech Zest AI Becomes a CUSO"
+    excerpt: "Zest AI, a Los Angeles-based provider of artificial intelligence-powered loan underwriting software, has further solidified its role in the credit union industry by officially becoming a CUSO, Zest AI announced Wednesday."
+    publishedDateTime: 2021-09-22T20:08:00Z
+    webUrl: "https://www.cutimes.com/2021/09/22/fintech-zest-ai-becomes-a-cuso/"
+    ampWebUrl: "https://www.cutimes.com/2021/09/22/fintech-zest-ai-becomes-a-cuso/?amp=1"
+    cdnAmpWebUrl: "https://www-cutimes-com.cdn.ampproject.org/c/s/www.cutimes.com/2021/09/22/fintech-zest-ai-becomes-a-cuso/?amp=1"
+    type: article
+    provider:
+      name: Credit Union Times
+      domain: cutimes.com
+    quality: 59
+    images:
+      - url: "https://images.cutimes.com/contrib/content/uploads/sites/413/2019/07/fintech-acquisition-e1564581828696.jpg"
+        width: 620
+        height: 414
+        isCached: true
   - title: "Worldwide FinTech Industry to 2026 - Featuring Affirm, Betterment and C2FO Among Others"
     excerpt: "Technologies, Applications, and Services 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. This report provides a comparative analysis between legacy financial systems and emerging"
     publishedDateTime: 2021-09-21T15:07:00Z

@@ -82,6 +82,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "FedEx Partners With Self-Driving Car Startup Aurora in Texas"
+    excerpt: "Aurora Innovation Inc. will help move cargo for FedEx Corp. in a pilot project in Texas that uses the startup’s technology in a self-driving Paccar Inc. truck. The arrangement marks FedEx’s first trial of autonomous driving."
+    publishedDateTime: 2021-09-22T21:58:00Z
+    webUrl: "https://www.bloombergquint.com/business/fedex-partners-with-self-driving-car-startup-aurora-in-texas"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 24
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "FedEx partners with Aurora, Paccar for self-driving hauls between Dallas and Houston"
     excerpt: "Autonomously enabled trucks will haul FedEx loads between Dallas and Houston on a 500-mile round trip along the I-45 corridor. Read CCJ for details."
     publishedDateTime: 2021-09-22T16:45:00Z
@@ -106,6 +120,6 @@ related:
       domain: dallasinnovates.com
     quality: 14
 
-secured: "laYQimoFyz6gow63shNDaOy65V33KDFvasVZ4xMM3SPyEVHxc/A1QqLBAgwuuvu9gZR3DD5VNe04JsA9hM9QcoxX2RQqe67Rwf14dDjSWo8rsMpXTDj5qbHFSfEZKtpExUh4x8QVA/7933dccmeaTnRrEtFVwdX5xY4ekqxJ9b6/I677hLBN6qov83mp7tSF6G5b27DkAfXOLmnINeey0D1JwqFBSSkLqcYW5NnQh0Pgoo5bGvQJ4FB8PikwrKZVEsA2jU9CvUYxix6o49XS94VA7ivUNO+sRqw4EnwdVrp/K6THrl7Jxt+W+3AaoMqBER8Ol6JB20Jtk5R2aBHI0uGdP3YP1J7W08fBXPvx0nU=;ytZACB7VjEoKKmgJVRpYFA=="
+secured: "9KM/vnlLU8p4gJ20h8BU8fosXlLKsJRB77D3qdP5RF5q4orJe3LhAlMow4wSTsEv8Sgz3mQyQuRNDpchn0LiiiGRnLKei0GqlTjFJLnfAuGKcrJgewamEtkkiKb8CZ3N0UeQqy2EZoNUL8Op4BYi/j97pnt2aAfDPd0VmgDFXAAl/6DZAo2rnfG5lmP9EYcz4AG0rpLLk4Jmpur3MqjAbFY2weT4oOvZ0EttMJp5lAHspOHT2Q1dUAmYSHnUn5WDHj6EIdfmUBR4GYs9vHW1K15GgDokY6lyi7Km91RbmSNBF8uIv9g/LErqR1ISyowPG/XI3YiROPD3QiHxAs0xfO4h2qOmx5ANEt/CICQEm8u9aQIIA773IQb5Cgxy8ie8NZlP/JT4lTX8mp/2qs2JYPEHenidk1TnelqC/KH7WpIcRQkjbT0xZdqC9xrErLi7QJoWjLgsfY4eYGlKIptDZKmnkL1k+WIGoOoslzZGflqsf0nhgTxmxCTiQ7aNq/h66pJ8D+FGDKr1hX+HtnddNw==;62O4RV2vWG/MqNyT42ViQA=="
 ---
 

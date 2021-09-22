@@ -3,8 +3,8 @@ category: news
 title: "Johnston-Willis Hospital earns national recognition for ‘Best Physical Rehabilitation Centers 2021′"
 excerpt: "Johnston-Willis’s 44-bed inpatient rehabilitation center focuses on intense physical, occupational, and speech therapy to help patients progress faster and return home to their normal activities and tasks."
 publishedDateTime: 2021-09-22T13:43:00Z
-originalUrl: "https://www.nbc12.com/2021/09/22/johnston-willis-hospital-earns-national-recognition-best-physical-rehabilitation-centers-2021/"
-webUrl: "https://www.nbc12.com/2021/09/22/johnston-willis-hospital-earns-national-recognition-best-physical-rehabilitation-centers-2021/"
+originalUrl: "https://www.nbc12.com/2021/09/22/johnston-willis-hospital-earns-national-recognition-best-physical-rehabilitation-centers-2021/?outputType=apps"
+webUrl: "https://www.nbc12.com/2021/09/22/johnston-willis-hospital-earns-national-recognition-best-physical-rehabilitation-centers-2021/?outputType=apps"
 type: article
 quality: 10
 heat: 10
@@ -24,6 +24,6 @@ images:
     height: 551
     isCached: true
 
-secured: "0+XvxYb/hOIHpyrmUvmUJY9D1+4EUMr238PIDpP3sK6xwKNwA/nCBGPTVJGS15UsYsb4rLAc3k1oMKjy4BJaPsLPGeZ8YSFWY26PROAzcTDINynFRH6coPamToqTysSkZAIhJCzGB42FZgb3MULCx+ktpxtBnojQfNCJguCkSpQV6kwp8qV2ijpP3lA437FJY5BQxkHJA2NZm+lKDYQc3clf3BVwTxeZm7gPgmdKCXbQxbhlJI7SFNbhys4GdV1AFT48FwwWU7lFUSo0yAzw6wODmokks/jV/9LBP6lp9QEiCuDmzO8XAJKkKYNl3VyHVmLqTYeYr1yeyN6UI8Z3b1++8y1RwOkBXkHKTP5jJpZcsatOClAJ11hPRXsy+w3rSFKjl/A8mNSi+imdi7imPKqMa9aK+LR3hU4YrnelaKzBha6K50ocv6vCSsZvhxnrN0dJ6+W5EuC5N7ymr2QrhIApvDUa8mY2Og5FXL8tq4e1ZGZKJ1hgOQSRq36vCEJ+VNGcAmRYPwyEvRebbLJRVg==;ayd9GWRm167ufAmGgHOPWQ=="
+secured: "fChA4W0cLT7KIwCzLW8P64aU4o7b8qnblSz7Rx+OxjbnMI2dmN6zsXSV6Zu/2meg3Hb6A2qNohcGfWbzU141dzFRYsed6WMYpIZ7ObFfkS3eebTvz3T3n86h1oHF6Gij9el6ERlsr922cwNXg/Mp3TAI1pMp9vXzyr8YHm2feKqv43DQWIQOngC1FQ09hcBXK/QLs4IVj9nMeFjS+WSKiubzMmnSEoD44NW6xmRa5IdaS16vLR4K9XAVxaDvJSyNQFCr6Z2g52PdgT7dJYkwkvqRSu29hSoNRrwtaZxK4dQXhtKQpq5EteWo7TEo3QrC+Qf75LEHMxty3og0LdXdclMyh7MBD1JIkKIqlis4bkg=;OrBUyTyIqgAvg/LFKGxRgQ=="
 ---
 
