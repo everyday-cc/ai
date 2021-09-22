@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-la
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/amp/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "RAF trialling self-driving cars to free up personnel from mundane jobs"
+    excerpt: "The self-driving, zero-emissions Kar-go has been developed by the Academy of Robotics and is being trialled on RAF Brize Norton in Oxfordshire"
+    publishedDateTime: 2021-09-22T12:41:00Z
+    webUrl: "https://www.mirror.co.uk/tech/raf-trialling-self-driving-cars-25045046"
+    ampWebUrl: "https://www.mirror.co.uk/tech/raf-trialling-self-driving-cars-25045046.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/tech/raf-trialling-self-driving-cars-25045046.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 44
+    images:
+      - url: "https://i2-prod.mirror.co.uk/tech/article25044947.ece/ALTERNATES/s615/0_raf1.jpg"
+        width: 615
+        height: 409
+        isCached: true
   - title: "RAF trialling self-driving cars - to free up personnel from mundane jobs on military bases"
     excerpt: "The Royal Air Force has been trialling the use of self-driving cars as it explores ways to free up personnel from mundane tasks on military bases. Staff at RAF Brize Norton, Oxon., have been working with the Academy of Robotics on the trial,"
     publishedDateTime: 2021-09-22T10:31:00Z

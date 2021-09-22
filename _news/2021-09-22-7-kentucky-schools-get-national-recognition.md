@@ -2,19 +2,19 @@
 category: news
 title: "7 Kentucky schools get national recognition"
 excerpt: "Seven Kentucky schools have been named National Blue Ribbon Schools for 2021, the U.S. Department of Education said. The recognition is based on a school’s academic performance or its progress in closing achievement gaps,"
-publishedDateTime: 2021-09-22T11:01:00Z
-originalUrl: "https://www.ctpost.com/news/article/7-Kentucky-schools-get-national-recognition-16478038.php"
-webUrl: "https://www.ctpost.com/news/article/7-Kentucky-schools-get-national-recognition-16478038.php"
-ampWebUrl: "https://www.ctpost.com/news/amp/7-Kentucky-schools-get-national-recognition-16478038.php"
-cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/7-Kentucky-schools-get-national-recognition-16478038.php"
+publishedDateTime: 2021-09-22T12:01:00Z
+originalUrl: "https://www.nhregister.com/news/article/7-Kentucky-schools-get-national-recognition-16478038.php"
+webUrl: "https://www.nhregister.com/news/article/7-Kentucky-schools-get-national-recognition-16478038.php"
+ampWebUrl: "https://www.nhregister.com/news/amp/7-Kentucky-schools-get-national-recognition-16478038.php"
+cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/7-Kentucky-schools-get-national-recognition-16478038.php"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: Connecticut Post
-  domain: ctpost.com
+  name: New Haven Register
+  domain: nhregister.com
 
 topics:
   - Computer Vision
@@ -58,6 +58,6 @@ related:
         height: 674
         isCached: true
 
-secured: "G493MOXC6McAAEkJUE0o10oyUIfhplPg+g4cF6+EMLLFBV2ucrsIN45IiVKO9ZCtMRJiMqUiMaVUabu+HhkBbBrdN1NIMKj1jWDiG1nwHvoreMV9+aA/eBOf71Nl2j4/IHMyhBVBgcBewhAeZo4gZsjbe5yM5X43WMPUTR1rtwziF7yY3qwmgg+TeHLh78QpytH5MR3b5JV2VGfRRCCHsjo/OiT3PQ2MAIEPu1XB25G8Bf5xUb0bKMLjBZA2n8pQuK0BReAd0GZt5DPxdsNFkvFm1cJGvLxWHEBDzTbcgQL1AV/u2HKJWsZF2d8yiRBYOxIURqUCNIIcLYSc2lGh7PFDGxAX99gRboJ/WTk5L9w=;nUFFLw6wS7eXX0v0mMqgFA=="
+secured: "r2/SXaYz4phzcDc3Zf56x865QXKOCfm/m+fhxERO+WUhXjBqMKk77hsB9UKyDhPD85GaYD5NC0DxSaGWKHI5lSNm0S83pTs81xHbHA0BPKYutkPOqKhVC5C/cqoXhwRRNYfT7t1WfKNwU3XxjJD/WuJT/8nmLwf8UyyOrrS3z9xEfoy2ZqP4FWZJcGXquUSdgiEG2T55l2kweqLWS9ecbTHftSBOq2dEOJ9s7JzEi735MVO6ehRoNU/L8XSfPkBYtHYSeZ8647J7oRmRze3rIEFXyJ/JWl8h00tY0Kq8VMbtIjSio9tfmLo0skQ/IsIrV/hbke/Br/9w8/JugZCkQ5MUtSycoJDp1mMQNywtvCk=;2ciNyUhc1T4B9n+V7c9IwQ=="
 ---
 

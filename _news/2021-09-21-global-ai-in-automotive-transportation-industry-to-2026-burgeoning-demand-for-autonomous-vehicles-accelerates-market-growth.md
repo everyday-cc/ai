@@ -25,108 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Computer Vision Market Growth, Analysis, Latest Trends and Forecast till 2026"
-    excerpt: "The AI in computer vision market is estimated to be valued at USD 15 9 billion in 2021 and reach USD 51 3 billion by 2026 at a CAGR of 26 3 The growing need for quality inspection and automation"
-    publishedDateTime: 2021-09-20T06:14:00Z
-    webUrl: "https://www.openpr.com/news/2398401/ai-in-computer-vision-market-growth-analysis-latest-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2398401/ai-in-computer-vision-market-growth-analysis-latest-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2398401/ai-in-computer-vision-market-growth-analysis-latest-trends"
+  - title: "US: $50 million in funding closed for autonomous farm leveraging AI & Robotics"
+    excerpt: "Iron Ox, which launched an autonomous farm some years ago, announced a new investment round of $50M, bringing total funding to date to $100 million. The series C was led by"
+    publishedDateTime: 2021-09-22T12:40:00Z
+    webUrl: "https://www.freshplaza.com/article/9354805/us-50-million-in-funding-closed-for-autonomous-farm-leveraging-ai-robotics/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 48
-  - title: "Deep Learning In Drug Discovery Diagnostics Market Forecasted to Reach Value of Around US$ 18199.5 million by 2026"
-    excerpt: "Latest update report on Deep Learning In Drug Discovery Diagnostics Market Size Share Growth Industry Trends and Forecast by 2028 This report is highly predictive as it holds the overall market analysis of the topmost companies into the Deep Learning"
-    publishedDateTime: 2021-09-17T19:33:00Z
-    webUrl: "https://www.openpr.com/news/2397856/deep-learning-in-drug-discovery-diagnostics-market-forecasted"
-    ampWebUrl: "https://www.openpr.com/amp/2397856/deep-learning-in-drug-discovery-diagnostics-market-forecasted"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2397856/deep-learning-in-drug-discovery-diagnostics-market-forecasted"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 37
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 65
     images:
-      - url: "https://cdn.openpr.com/U/9/U917977786_g.jpg"
-        width: 643
-        height: 400
-        isCached: true
-  - title: "Artificial Intelligence Market Report 2021, Share, Size, Trends and Forecast 2026"
-    excerpt: "According to IMARC Group's latest report, titled“  Artificial Intelligence Market  : Industry Trends, Share, Size, Growth, Opportuni"
-    publishedDateTime: 2021-09-21T03:38:00Z
-    webUrl: "https://menafn.com/1102805049/Artificial-Intelligence-Market-Report-2021-Share-Size-Trends-and-Forecast-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/updates/pr/2021-09/15/i_6fcd4718-a_Image_In_Body.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Self-Driving Taxi Market Share, Top Manufacturers, Growth Factor, Industry Size, Future Trends and Forecast till 2026"
-    excerpt: "The Self-Driving Taxi market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis,"
-    publishedDateTime: 2021-09-21T09:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-taxi-market-share-top-manufacturers-growth-factor-industry-size-future-trends-and-forecast-till-2026-2021-09-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/VFD_com/2021/09/13/iron_ox.jpg?preset=OgImage"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Speakers Market Analysis by Emerging Growth Factors and Revenue Forecast to 2027 | Apple, Xiaomi, Huawei"
-    excerpt: "The report titled Global Artificial Intelligence AI Speakers Market is one of the most comprehensive and important additions to QY Research s archive of market research studies It offers detailed research and analysis of key aspects of the global Artificial"
-    publishedDateTime: 2021-09-21T11:35:00Z
-    webUrl: "https://www.openpr.com/news/2400877/artificial-intelligence-ai-speakers-market-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2400877/artificial-intelligence-ai-speakers-market-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2400877/artificial-intelligence-ai-speakers-market-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 21
-  - title: "US Hyperscale Data Center Market Outlook & Forecast Report 2021-2026 - AI Boosts Liquid Immersion & Direct-To-Chip Cooling Adoption - ResearchAndMarke"
-    excerpt: "The \"US Hyperscale Data Center Market - Industry Outlook & Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The US hyperscale data center market by investment is expected to grow at a CAGR of 3."
-    publishedDateTime: 2021-09-21T11:42:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=534060"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 14
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Cognitive computing market forecast by 2026: Top factors that could boost markets in future"
-    excerpt: "The rising trend for production and supply chain optimization to bolster RoI through operational efficiencies and cost reduction. Cognitive solutions and services will help businesses streamline supply chain management."
-    publishedDateTime: 2021-09-22T08:25:00Z
-    webUrl: "https://www.globalbankingandfinance.com/cognitive-computing-market-forecast-by-2026-top-factors-that-could-boost-markets-in-future/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/cognitive-computing-market-forecast-by-2026-top-factors-that-could-boost-markets-in-future/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/cognitive-computing-market-forecast-by-2026-top-factors-that-could-boost-markets-in-future/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 14
-  - title: "Content Intelligence Market Share 2021: Global Trends, Key Players, Industry Analysis and Report 2021-2027"
-    excerpt: "The global content intelligence market is anticipated to grow at a CAGR of 28 2 during the forecast period The increasing need for market intelligence and growing demand for audience interest analysis are the factors that are fueling the growth"
-    publishedDateTime: 2021-09-22T09:20:00Z
-    webUrl: "https://www.openpr.com/news/2402083/content-intelligence-market-share-2021-global-trends-key"
-    ampWebUrl: "https://www.openpr.com/amp/2402083/content-intelligence-market-share-2021-global-trends-key"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2402083/content-intelligence-market-share-2021-global-trends-key"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
 
 secured: "766f7aSLg5l+ZdsBa/6c1THzHlroS8qxX7n0u+E4RgasYyASs5yIjhNEQnj2KWouZ1ARjphbE53kQz67HiiWIOLZ31TPB20KNQzfG4I9zAMrTZS1tSA/cgXYOiM+7fHccOUp6R6wgL2/Wb+ksi0/ZkCKOcoH0XMeqvCQbkSAMV6jQ0SAcYyJW38lkrwiB6FqCxq93o4CNIlzBNLOAp09C0NMZgauL+mfC0EZzYqQCMeg2savdyW6HvIrVIn77WtfgZk4CYcszAOG89/mZCqP1rqe/EeP+kkff+tCkatQDk8m36XzCpl9I0KaUxhXRuWULD6XeXLvMPQ8Wea+sn+wuZnosWMrSroCAPLS8X792Soves0AuyTW1u1WPB9QRp2gRHuV/g2y1VShRy2e0GJb9opLh4HxNuJpDQXLdhGf2eV1fT95Q73c0ZGb7avoaRB7P9386L5bCNqeFdASUloiyc1R88eQr02d5d86WkAePYM+na/Xcx+zO8xMYLWJn2ECb5AUlKs9edNoPdps8E/C/w==;T64NueoX5P39nEAEXg2NoA=="
 ---

@@ -20,6 +20,22 @@ topics:
   - AI in Autos
   - AI
 
+related:
+  - title: "Mitsubishi Heavy Industries Engineering Partners in New Concession of Dubai Metro and Dubai Tram in Joint Venture with Keolis and Mitsubishi Corp."
+    excerpt: "(MHIENG, the Company), a Group company of Mitsubishi Heavy Industries, Ltd. (MHI) based in Yokohama, Japan, has successfully begun operations of Dubai Metro, a fully automated driverless rail system1),"
+    publishedDateTime: 2021-09-22T10:11:00Z
+    webUrl: "https://www.jcnnewswire.com/english/pressrelease/69775/3/Mitsubishi-Heavy-Industries-Engineering-Partners-in-New-Concession-of-Dubai-Metro-and-Dubai-Tram-in-"
+    type: article
+    provider:
+      name: jcnnewswire.com
+      domain: jcnnewswire.com
+    quality: 1
+    images:
+      - url: "http://www.jcnnewswire.com/topimg/Low_DubaiMetroMHI.jpg"
+        width: 650
+        height: 365
+        isCached: true
+
 secured: "lLr9xVG9N6Y0q94wJ0riKLwm8Ho3QdKPSopwmswPMT+6Svo34jXuhMEAqHa9lsQJhJwyb9Mc5jhPk13hIbfcJEKGx+HmGgofrjCEpxfHqn0ixbN3LPALcStDd8WW9uifs41slGV2gh4YsiJ/xgrDg4aJqnNNmcuyVTrdOQNBAc+PUPz8ZlYKiVGL1M36oWHKl5INzPEqZM6zRcwcZmjAOTtzSndeGoDGayZCI0V/PZgzhaq9QGwbwpOvy/nA0S/KAScdAjdN2CZjG1uAIxxh7mtIlc2xle9MWMYzjOgO0tv6CV70/LDfIsuw1Ih5Cwa2Uam3tAO802CMco25IObpz0Y6/6L/CVGTRwJ3GX5o14ffP6R7HP01Xa/5r2cmX9fiQctkmN7hARNeAc2s8zrCodOq1eyrY489oWkuc+npEwQ7C0fYctI826X3R3iLfJSdVPr+m6yDPWS2aCD8fwh4VK9M4rl/i6UC8a2jJZh7J2iG2VJsJH1z4+RZQP62IpS3FAWzrBRK/hnyBFmhZy6KTA==;5R8WY/nvbJBeJbiaNT95Yw=="
 ---
 

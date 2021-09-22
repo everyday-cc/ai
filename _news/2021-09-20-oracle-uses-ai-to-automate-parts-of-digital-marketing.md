@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Artificial Intelligence Is Changing the Future of Digital Marketing"
+    excerpt: "Introduction According to a survey conducted by PwC, 72% of business leaders use AI for their business advantage. The"
+    publishedDateTime: 2021-09-22T12:04:00Z
+    webUrl: "https://www.business2community.com/digital-marketing/how-artificial-intelligence-is-changing-the-future-of-digital-marketing-02432101"
+    ampWebUrl: "https://www.business2community.com/digital-marketing/how-artificial-intelligence-is-changing-the-future-of-digital-marketing-02432101/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/digital-marketing/how-artificial-intelligence-is-changing-the-future-of-digital-marketing-02432101/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 74
+    images:
+      - url: "https://cdn.business2community.com/wp-content/uploads/2021/09/corporate-management-strategy-solution-branding-concept-900x546.jpg"
+        width: 900
+        height: 546
+        isCached: true
   - title: "New EMA Research Finds AI is Crucial to Modern Software Testing"
     excerpt: "Applitools announced its inclusion in new research published by Enterprise Management Associates (EMA) entitled, “Disrupting the Economics of Software Testing Through AI.”"
     publishedDateTime: 2021-09-20T16:19:00Z

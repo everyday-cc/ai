@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence can help highway departments find bats roosting under bridges"
-excerpt: "The big idea Photographs and computer vision techniques using artificial intelligence are able to detect the presence of bats on bridges automatically with over 90% accuracy, according to our new study."
-publishedDateTime: 2021-09-21T15:57:00Z
-originalUrl: "https://www.middletownpress.com/news/article/Artificial-intelligence-can-help-highway-16475343.php"
-webUrl: "https://www.middletownpress.com/news/article/Artificial-intelligence-can-help-highway-16475343.php"
-ampWebUrl: "https://www.middletownpress.com/news/amp/Artificial-intelligence-can-help-highway-16475343.php"
-cdnAmpWebUrl: "https://www-middletownpress-com.cdn.ampproject.org/c/s/www.middletownpress.com/news/amp/Artificial-intelligence-can-help-highway-16475343.php"
+excerpt: "Photographs and computer vision techniques using artificial intelligence are able to detect the presence of bats on bridges automatically with over 90% accuracy, according to our new study."
+publishedDateTime: 2021-09-21T13:48:00Z
+originalUrl: "https://techxplore.com/news/2021-09-artificial-intelligence-highway-departments-roosting.html"
+webUrl: "https://techxplore.com/news/2021-09-artificial-intelligence-highway-departments-roosting.html"
+ampWebUrl: "https://techxplore.com/news/2021-09-artificial-intelligence-highway-departments-roosting.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-artificial-intelligence-highway-departments-roosting.amp"
 type: article
 quality: 50
 heat: 60
 published: false
 
 provider:
-  name: The Middletown Press
-  domain: middletownpress.com
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-33.jpg"
+    width: 1000
+    height: 537
     isCached: true
 
 related:
@@ -41,6 +41,6 @@ related:
         height: 368
         isCached: true
 
-secured: "4YBN/8RuEIFV+H5gzf4KYdfk6aGmhFPVtl5+kwy5N2AgIDN9UQN1gzzItisJEgMf45UWvSZEWvTx0yu7/zE/gQd2r7lKUEwEFIX8crEnqZZLb/MRJnpE/Hap+CcMjvU9B6Y03CF/VvXfdFgx52KrkqVuMuLGpuK6BILRM1wZDxmzd9M8N1MLWljr1ZUk4HfW+pKH2bWKm+04Tf8veAg6dsJCTsWsJykp7jVRAzp6v+ycCLfalgt5H1DMvk84HYGj+HL00IV1W2+Dkt1jjQJ+27wBtjtu1ILxoPbEjzk8oEWJ7j1iMDyqL5RdPMf4uPiEdILeXypdjfu4X+9ppVi9BgAa9C4s0cCesK6d5qIEGHk=;WjC0Y+1WWfKY1tFeNDP2PQ=="
+secured: "xkTPKEgLVW/7rS5rVpKTI48pwtWWDtc+OhpHg6DX8r01/2PdKvaC9wGUbh4Y65t+6DuyuZonlfY8YLX0NEhQuXUSBCOJstazFgW+pJEex0Mz8b4rPPb+gLfHyrQ/XXvCdBY5pNLQGO6qVjg+9hf7gOu9VGJBC6TfhzUwCJYQI1oODkmFz6i8JEpVlD1vQdipbfUjG+JFIkNfNjmUYprDZbZgYdW8coLvdTQW/YyLywQMYRgu8gF03y1OUHcu8tBoIfN3KIWvMXKE46DtjWNKvptCSMbfKssdMxNh/eI2d2YuHwH9IvYm3AFHLvoGEFTO9wfS18R6tTPxFxMVE8JBo7h+KRTVlM5HQsUa4FNTwmQ=;7mp6Zy6zYAJQBZgk2Ovfsg=="
 ---
 

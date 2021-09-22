@@ -6,7 +6,7 @@ publishedDateTime: 2021-09-21T18:13:00Z
 originalUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b"
 webUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b"
 type: article
-quality: 41
+quality: 39
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: nhregister.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
   - url: "https://s.hdnux.com/photos/01/20/22/56/21048234/18/rawImage.jpg"
@@ -71,6 +70,6 @@ related:
         height: 734
         isCached: true
 
-secured: "jitdDlA+SLqgCj0EHPfnXLqBu8KmCclbr91ioRGov/2Ggwzeh5NPT8s/j94nhzlFbyXsSzMgmhC1JpknfImXYbA6Xn+SRdlOGXO6TU/w8YtlDEmJiAOTBM98+3Qr8jKQYd04ukgrG4/P2whEmAdvDfyOm9xyPg6v2lJ9HTRI53+q8WGFHjdPEGrUe8K8gaFwUmuAN2E5uzwAXTLqZQdTR7/8gvZMAPpCKmGCGCdgT3ybwbhS/UFj1b32jJfluhEl4AyG/ZIPqzJtdbueeBWDHlLi1wggDFro35TikYj/Ysg+is7295aiPJ9DijCaIuuaxdxQ4Ic2RI1RaWPJ3vJ5ALqxe8sbQOlrmr/LkFBijys=;ltgmoWgmqELoPGYzT11IAA=="
+secured: "2MEMjvg9aiWkVyc+wfcYt4TExqYc34khH0lBSo0JY5zzH1KPTGxM+xWIouefNcnFe9PDu1/VfBBaXo91kzHeRTnTN+nLYFTsXvAwstfBJssUdoXMNhi6XrcsNoM/vUQ1PxDkvRo5/6fyzB+8kRXWWmNcfuK3ohp4ttWyglH41WIjii1MLTCX7Og/S7TfexzEA6GXmN0xqx/PyDqz2H27LSPTMlSbJkugpWldFdh2AL7e8nXBA9QSvAnjchbYxE2E1qFfI0vSsGedCW+aDB/7WxRASGGkE/uuaE/pNEXQSoQoAwOZCixLv+w41Cu++Fc2wdmfVQMKWWFOcMHauucIXNJBWFcJsBthePftIqnLL6c=;XSB5UumYKvYsgUqLhxZXOA=="
 ---
 

@@ -24,6 +24,22 @@ images:
     height: 330
     isCached: true
 
-secured: "0IHG9/s1CY+qvH9hAomreJyk438yHkgCUvSud3AAotxiNGi/zLlLNFzh9taOw1ZmPIoawgF2XMqJMbb3nRIBbtAp9l1E+s0wxtqrcOqMqkUgPGWNeitM5tfcC5tI+8wIUDpT7BbGcwCKR2JAePtNuLqDFi3W5dHDr5zDb+hb6mA8SKKY0fQCaJ1GVw7gQHwzgBITkcT3gYvEwAMIRo1oEXuzOR3G9YRJqsMc9LXZ7B1QuJErEQj2BeJQsWnRwI4iAmUFWYIOdy0A9XCIXUuIHSFTtSWJ2GbHsgeTzYZhBt+m7uZgDTUR7aKzi0FrdJJo+EwBi0wnj/zpwONX+QAPzAbf12x019GTO3DoBkcULhY=;nVt4t0rY9gvLqR9OTGUgfw=="
+related:
+  - title: "UK Vaccine Passport App Sends Biometric Facial Recognition Data to Private Company, Shares With Law Enforcement"
+    excerpt: "The UK NHS vaccine passport app sends biometric facial recognition verification data to a third party company. The data can be accessed by law enforcement."
+    publishedDateTime: 2021-09-20T05:41:00Z
+    webUrl: "https://www.visiontimes.com/2021/09/20/uk-vaccine-passport-app-biometric-facial-recognition.html"
+    type: article
+    provider:
+      name: visiontimes.com
+      domain: visiontimes.com
+    quality: 19
+    images:
+      - url: "https://img.visiontimes.com/2021/09/GettyImages-1234090689.jpg"
+        width: 1024
+        height: 707
+        isCached: true
+
+secured: "6Re7HutaB2UQRuuIheFPzTxpvKFX7GjGsHD5braJyrsMAdVoVtN/UzB8eLZYJCdQ7TU5yBKhWfQtIcud9FNB3ZIruHsRA/NdXzjhX5f0ZkqNXggWKXlqHHe3KicMJTvjfQ+rsn94/tM2GhlfNC83vcljyw7zLLzNflSnQLM/UxvWUDLjaZNhwXd276JydZZ0Mr5bSLDPE8Kv5xBjJ/s+KNICjIRX6Mlu5+TK30YmCumEJsUIrLWWLA6JC2ee89j+mmcV+7xo0b03xJcYlTmU7rG3p+32mUxvJ6ut1ojczwtb8F/grVug6lP3Op21jBOzNYwQKXiSMWkXSC9sPznBZDdn6D2PP+UPBEESFxh5WIKC6qG9pYC8T5qLV2ztVENwmXwO+zXbSgzWX0IPfv2FWpZXDknuWncWGRDGSYcdBGYdMEqK6sOkUQ1BU0swDUGz+PcC9/l+Ieiq5bkEitprKeGjUld+Cf0ugUHOGETRx/f9kBhYnSUAllx1JDWgpb3S+JmoCaZTLrYCGGN25GNoFA==;jZnHGkm3WgrUjz6ZvVRH9A=="
 ---
 

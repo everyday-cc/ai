@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geeksforgeeks.org/machine-learning-with-microsoft-azure-
 cdnAmpWebUrl: "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/amp/"
 type: article
 quality: 106
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Cloudflare Joins Microsoft Intelligent Security Association"
+    excerpt: "Now, we can build even deeper product integrations between Cloudflare and Microsoft that will help equip organizations to tackle today's rapidly evolving cyber threats.\" Cloudflare provides security,"
+    publishedDateTime: 2021-09-22T13:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cloudflare-joins-microsoft-intelligent-security-association-/2021/09/22/9454386.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 36
   - title: "Voice And Speech Recognition Software Market Next Big Thing | Major Giants: Microsoft, Alphabet, Nuance Communications"
     excerpt: "A new business intelligence report released by Advance Market Analytics with title Global Voice And Speech Recognition Software Market Insights forecast to 2027 This report provides a detailed overview of key factors in the Global Voice And Speech Recognition Software"
     publishedDateTime: 2021-09-21T14:45:00Z

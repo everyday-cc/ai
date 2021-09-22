@@ -291,33 +291,24 @@
     {
       "path": "_news/2021-09-17-hinge-health-acquires-the-most-advanced-computer-vision-technology-for-tracking-human-motion.md",
       "title": "Hinge Health Acquires the Most Advanced Computer Vision Technology for Tracking Human Motion",
-      "excerpt": "Hinge Health, the world’s #1 Digital Musculoskeletal Clinic™, has acquired wrnch, developer of the leading computer vision platform for measuring human motion. wrnch’s three-dimensional motion-tracking technology enables the same precise tracking of full-body movement used by elite athletes and the motion picture industry.",
+      "excerpt": "Hinge Health, the world's #1 Digital Musculoskeletal Clinic™, has acquired wrnch, developer of the leading computer vision platform for measuring human motion. wrnch's three-dimensional motion-tracking technology enables the same precise tracking of full-body movement used by elite athletes and the motion picture industry.",
       "sourceUrl": null,
-      "webUrl": "https://www.valdostadailytimes.com/news/business/hinge-health-acquires-the-most-advanced-computer-vision-technology-for-tracking-human-motion/article_0ae2d9e3-a0ff-5c30-beda-db3fd09d11ef.html",
-      "originalUrl": "https://www.valdostadailytimes.com/news/business/hinge-health-acquires-the-most-advanced-computer-vision-technology-for-tracking-human-motion/article_0ae2d9e3-a0ff-5c30-beda-db3fd09d11ef.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/-hinge-health-acquires-most-advanced-computer-vision-technology-/2021/09/17/9451376.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-hinge-health-acquires-most-advanced-computer-vision-technology-/2021/09/17/9451376.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/8/a7/8a781877-c4e2-5795-bc6a-f62b66a436ce/6144795823a4b.image.jpg?resize=1120%2C630",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-17T04:02:00-07:00",
+      "publishedDateTime": "2021-09-17T04:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "valdostadailytimes.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -364,6 +355,49 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-17-nsw-to-trial-geolocation-and-facial-recognition-app-for-home-based-quarantine.md",
+      "title": "NSW to trial geolocation and facial recognition app for home-based quarantine",
+      "excerpt": "Along with the NSW trial, Tasmania will also begin a home-based quarantine trial for residents returning from regional New South Wales next week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/nsw-to-trial-geolocation-and-facial-recognition-app-for-home-based-quarantine/",
+      "originalUrl": "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/nsw-to-trial-geolocation-and-facial-recognition-app-for-home-based-quarantine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/nsw-to-trial-geolocation-and-facial-recognition-app-for-home-based-quarantine/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/nsw-to-trial-geolocation-and-facial-recognition-app-for-home-based-quarantine/",
+      "publishedDateTime": "2021-09-17T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -733,6 +767,49 @@
       "provider": {
         "name": "Human Rights Watch",
         "domain": "hrw.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-facial-recognition-enters-new-phase-at-gates.md",
+      "title": "Facial recognition enters new phase at gates",
+      "excerpt": "Some drivers may have noticed a difference if they’re using the facial recognition to gain access to Redstone this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theredstonerocket.com/news/article_b4087992-1633-11ec-82e6-b306b9e4ef9f.html",
+      "originalUrl": "https://www.theredstonerocket.com/news/article_b4087992-1633-11ec-82e6-b306b9e4ef9f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/theredstonerocket.com/content/tncms/custom/image/71ee924c-4845-11e6-a51b-ebabb80465c3.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Redstone Rocket",
+        "domain": "theredstonerocket.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1261,83 +1338,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-anyvision-to-the-british-biometrics-and-surveillance-camera-commissioner-facial-recognition-apps-should-be-provided-to-the-police-with-an-empty.md",
-      "title": "AnyVision to the British Biometrics and Surveillance Camera Commissioner: \"Facial Recognition Apps Should Be Provided to the Police with an Empty Database\"",
-      "excerpt": "The British government has approached the public to consult on revisions to the Surveillance Camera Code of Practice. The code is part of the Protecti",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210907005816/en/AnyVision-to-the-British-Biometrics-and-Surveillance-Camera-Commissioner-Facial-Recognition-Apps-Should-Be-Provided-to-the-Police-with-an-Empty-Database",
-      "originalUrl": "https://www.businesswire.com/news/home/20210907005816/en/AnyVision-to-the-British-Biometrics-and-Surveillance-Camera-Commissioner-Facial-Recognition-Apps-Should-Be-Provided-to-the-Police-with-an-Empty-Database",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-08T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-image-recognition-market-is-growing-at-a-cagr-of-188-to-reach-110-bn-by-2028.md",
-      "title": "Image Recognition Market is growing at a CAGR of 18.8% to reach $110 Bn by 2028",
-      "excerpt": "Based on the technique, the market has been segmented into object recognition, QR/ barcode recognition, pattern recognition, facial recognition, and optical character recognition. The object ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/image-recognition-market-is-growing-at-a-cagr-of-18-8-to-reach-110-bn-by-2028",
-      "originalUrl": "https://www.digitaljournal.com/pr/image-recognition-market-is-growing-at-a-cagr-of-18-8-to-reach-110-bn-by-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/08/Health-Worker-AFP-1K-01-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-08T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

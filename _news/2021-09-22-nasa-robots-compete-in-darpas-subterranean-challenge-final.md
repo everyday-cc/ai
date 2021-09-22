@@ -1,22 +1,30 @@
 ---
 category: news
-title: "NASA Robots Compete in DARPA’s Subterranean Challenge Final"
+title: "NASA robots compete in DARPA's Subterranean Challenge final"
 excerpt: "Led by NASA JPL, Team CoSTAR will participate in the SubT final this week to demonstrate multi-robot autonomy in a series of tests in extreme environments."
-publishedDateTime: 2021-09-21T17:44:00Z
-originalUrl: "https://www.jpl.nasa.gov/news/nasa-robots-compete-in-darpas-subterranean-challenge-final"
-webUrl: "https://www.jpl.nasa.gov/news/nasa-robots-compete-in-darpas-subterranean-challenge-final"
+publishedDateTime: 2021-09-22T12:09:00Z
+originalUrl: "https://techxplore.com/news/2021-09-nasa-robots-darpa-subterranean.html"
+webUrl: "https://techxplore.com/news/2021-09-nasa-robots-darpa-subterranean.html"
+ampWebUrl: "https://techxplore.com/news/2021-09-nasa-robots-darpa-subterranean.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-nasa-robots-darpa-subterranean.amp"
 type: article
-quality: 19
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: NASA
-  domain: nasa.gov
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/nasa-robots-compete-in.jpg"
+    width: 1024
+    height: 576
+    isCached: true
 
 related:
   - title: "JPL Team Competing in DARPA Underground Robot Competition"
@@ -29,6 +37,6 @@ related:
       domain: pasadenanow.com
     quality: 19
 
-secured: "el9Fb2taNJJqQaWR1wjlezZNHARsa4Qbl4dIbG/n5GVkGNzD9BRZ0Ic7e+IghML+El+6GOc+4g1isjSH+h/ZmMy8Ej82wbI1CElvu/0Qm8tMzTF/WmNcfpQNcgSJn3FUC/LoUVetg0GaQ+kCqKdvewHRI0nfxRMt+kqpSHlLTId0/lgl5M6LS7RzfRCiGjZQ1l3bHXrd//7afN4ZQaZTW7iSqqu/s4CEmlRWo5rjIeqCSko2Ny79fupw6ysiB/aWgGe+wjadrQJ5ueJhDll4wbdyEmEUmra6n71a3mMF1bVRPc2ADtFLMFxYP81jdxub9DcSFjkNOsUsASmaMQxfO0xtbGteRQHUFph6UpUlblseSBi9tEyHaoY6Q58GULZ3YgZ9ET35gzyaLya5ytYk4xu+iNNM4/4VNvo3TT9jIb9z9BlaNu5nYg/SlxTwtdyFDz469bKZ60ZJCw0D575T7OiqOt7iVfgkqq1WQS0E1qISSGK0yTg7ICI+wssQCxCMJ/CEZvnH3Vb/WQe/sjFMMQ==;ZeRr2W/HVhgWOWsIS+YXcA=="
+secured: "plsIZrV2zM3NhFZKk7G5RhQ04H9Jwj8I6aWzv0VOeWBL+udf8g0zEZdkV3qOD6agoMVaA8XNLy6xe3oznBwlZ0vWWuEjahOiuMTneDqEAHOA1/ptsylWX0V+TQnI+1k7OkX3PNGKYGe4RXCm5bjjABmhDxIFdNEEtmWXmLJgF1vFBRVaa/3ukfUKAiwoe6xDJdIwZyN2eGZLyl7BXnW5oo4++C4HK2rxzY3/nLGUxRBLi4mCY/+nZPE8f4Xmzq84KrIBrvMi/hdk8HEhbDpH/Rg1SWY/jmGzz11tal5fQNIBXxRWYPd7IDj0EuINn1Cc4rcPlYKJKJrP+T95VEnaepeQ9xCM0aHNaIKFrcgqwC4=;CdqseQFeNPXPZV2GDUpo8g=="
 ---
 

@@ -1,0 +1,75 @@
+---
+category: news
+title: "AI in Automotive & Transportation: Global Market Outlook 2021-2026"
+excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. According to the report,"
+publishedDateTime: 2021-09-22T10:03:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/09/g23046975/ai-in-automotive-transportation-global-market-outlook-2021-2026"
+webUrl: "https://www.benzinga.com/pressreleases/21/09/g23046975/ai-in-automotive-transportation-global-market-outlook-2021-2026"
+ampWebUrl: "https://www.benzinga.com/amp/content/23046975"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23046975"
+type: article
+quality: 59
+heat: 89
+published: true
+
+provider:
+  name: Benzinga.com
+  domain: benzinga.com
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
+    width: 1200
+    height: 600
+    isCached: true
+
+related:
+  - title: "Artificial Intelligence Market Report 2021, Share, Size, Trends and Forecast 2026"
+    excerpt: "According to IMARC Group's latest report, titled“  Artificial Intelligence Market  : Industry Trends, Share, Size, Growth, Opportuni"
+    publishedDateTime: 2021-09-21T03:38:00Z
+    webUrl: "https://menafn.com/1102805049/Artificial-Intelligence-Market-Report-2021-Share-Size-Trends-and-Forecast-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 34
+    images:
+      - url: "https://menafn.com/updates/pr/2021-09/15/i_6fcd4718-a_Image_In_Body.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Global Drone Markets Report 2021-2026: Emerging Trends Include 5G Technology, Drone-In-A-Box, Blockchain, Computer Vision, Fog Computing & IoT"
+    excerpt: "The \"Global Drone Market Report 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The annual Drone Market Report"
+    publishedDateTime: 2021-09-21T10:48:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-drone-markets-report-2021-2026-emerging-trends-include-5g-technology-drone-in-a-box-blockchain-computer-vision-fog-computing--iot-301381301.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 18
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
+  - title: "US Hyperscale Data Center Market Outlook & Forecast Report 2021-2026 - AI Boosts Liquid Immersion & Direct-To-Chip Cooling Adoption - ResearchAndMarke"
+    excerpt: "The \"US Hyperscale Data Center Market - Industry Outlook & Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The US hyperscale data center market by investment is expected to grow at a CAGR of 3."
+    publishedDateTime: 2021-09-21T11:42:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=534060"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+
+secured: "Jbeh36OJLql3SfbUQ4Pnxxx/sSUc1vJhhVXCbAe399d/CwxNXUEQVP1OXYkR+CFAnxABak5WXauUSzm+puopFsQVrRTHOvWEMeGl6juVCh+H1z5QuVbVa6JdNsvQ+NW5DFPTMRnJgjP9OsBpBWXrU/HX8+79cw/rxmK2cnSipbNcQQBK5dq8xJSXGuorTw8NjelWPYNe7x5JaP/JwbyJsJb5BC4YZdORziYMEq5JZRL0Zbrc+QWAd5uEQLMOAG2qQsLiIfi+9oQEaC6onG+hAxhTSgWkDmCAn6UGbEBdJPjXv4wrW8WAL5S6Zdtfae8lSDk4LG55/mFe0DvzZjNeEVI2SP5thknEpFht5o4kYEk=;uBNxRq/aaVOsVIuxQXCIzg=="
+---
+

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wkyc.com/amp/article/sports/nfl/browns/cleveland-browns-
 cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/sports/nfl/browns/cleveland-browns-facial-recognition-ticket-entry-firstenergy-stadium/95-cd03edf8-098a-4182-af47-f5e700891722"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1140
     height: 641
     isCached: true
+
+related:
+  - title: "Owkin and Cleveland Clinic develop artificial intelligence model that predicts liver cancer prognosis"
+    excerpt: "Owkin, a startup that deploys artificial intelligence (AI) and Federated Learning technologies to augment medical research and enable scientific discoveries, presented findings in Hepatocellular Carcinoma (HCC) with Cleveland Clinic at the 2021 European Society of Medical Oncology (ESMO) conference."
+    publishedDateTime: 2021-09-22T13:02:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/928984"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 4
 
 secured: "Y4xyH4XUqfyYISxbJQOOGd5w0AXX8ukLyQKeSVsLIXIPlH7d593FxmbKkgXfMrzW5bKRgMdAt71gmoZWF82sityZ1b0tuqltYZaWG3mYnDsjzolG1CrpkclgZqXOiqU5iI5DwNbdCzZ2reirtzgezy4qi+8pFjS+KBLgNHX1FM+pdVQ2JhZhwLFdaRJ/oby/nFq6553QLmylwj6zv8lgQu7MdEZozDbIxyu+BOa/1dH1p5ptcQU98CFuMBwNy7RSqR95oLk60e+Bl2wraoXJdbtKAKmGjkHnJHqzT/gYkQlDxzHsWh6KP7mIUFxAPyW/9kWwQvzrVzYdXqn79O2WEstUkx0zXFRhlV1drhD4wkBHKsgjg3ykv+FFGU79qLIbzuM5Tm7j9zmy/SVFf4J7yGy32P6mamEfD5pcdEoKuLaVGHHhsFFxJ3GvQ/fHOyl85YWTZ3+IVrCEBUjsKf7e2D7SAaQUOG0VqL/4JKgstME6hFjFfczz9VIzwRBREnLJokoOPzqo1BO9vnptc5TLpA==;QEKznNzcbXTfMk/+brnB3w=="
 ---

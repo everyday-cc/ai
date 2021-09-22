@@ -82,6 +82,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Cloudflare Joins Microsoft Intelligent Security Association"
+    excerpt: "Now, we can build even deeper product integrations between Cloudflare and Microsoft that will help equip organizations to tackle today's rapidly evolving cyber threats.\" Cloudflare provides security,"
+    publishedDateTime: 2021-09-22T13:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cloudflare-joins-microsoft-intelligent-security-association-/2021/09/22/9454386.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 36
 
 secured: "DOQ9J+E0NtktdUsmE8c53lZs7RZ5TWK3ngPip5eeSkcdwYNjQCeouWIkz35WJ3G5ePZ9O1CcLDn2B8gdyIiEii4g1CuclWoYaYXwE1gfCl1FUL9a2Fiwfi4RA/Pe0CNkXfWHdMvCWkzLtF/9Trp8UZiAw/DAy81vaCwt9/3nSLQuQ8+84scD3f1At6shPc8OavZhds0lF/gyx6k3yCxhyAMMYEccJUWz1IZ0mCUIFdc5QefQFmLRIZN3FMJ6XC7uy2xJ4gHHKCr8sNj8TpC1XkOaTpnlLqQ5zQ1KXa/tOfe4SJygMnrVhiV3L7tMgVGF5jjhDaCAIhQYWZVBwcr+9JHI+WN6q712+oDQm9myiBU=;x+EelGZscm4kc/ocwKkxZQ=="
 ---

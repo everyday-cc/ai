@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "RAF trialling self-driving cars to free up personnel from mundane jobs"
+    excerpt: "The self-driving, zero-emissions Kar-go has been developed by the Academy of Robotics and is being trialled on RAF Brize Norton in Oxfordshire"
+    publishedDateTime: 2021-09-22T12:41:00Z
+    webUrl: "https://www.mirror.co.uk/tech/raf-trialling-self-driving-cars-25045046"
+    ampWebUrl: "https://www.mirror.co.uk/tech/raf-trialling-self-driving-cars-25045046.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/tech/raf-trialling-self-driving-cars-25045046.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 44
+    images:
+      - url: "https://i2-prod.mirror.co.uk/tech/article25044947.ece/ALTERNATES/s615/0_raf1.jpg"
+        width: 615
+        height: 409
+        isCached: true
   - title: "System redundancy in self-driving cars"
     excerpt: "As the technologies enabling the rollout of autonomous self-driving vehicles mature en route to Level 5 (as defined in the SAE’s J3016 standard) fully automated self-driving, redundant fail-safe and fail-operational systems are going to be crucial in ensuring the safety of all road users."
     publishedDateTime: 2021-09-20T12:39:00Z

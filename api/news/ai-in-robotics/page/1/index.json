@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-22-us-50-million-in-funding-closed-for-autonomous-farm-leveraging-ai-robotics.md",
+      "title": "US: $50 million in funding closed for autonomous farm leveraging AI & Robotics",
+      "excerpt": "Iron Ox, which launched an autonomous farm some years ago, announced a new investment round of $50M, bringing total funding to date to $100 million. The series C was led by",
+      "sourceUrl": null,
+      "webUrl": "https://www.freshplaza.com/article/9354805/us-50-million-in-funding-closed-for-autonomous-farm-leveraging-ai-robotics/",
+      "originalUrl": "https://www.freshplaza.com/article/9354805/us-50-million-in-funding-closed-for-autonomous-farm-leveraging-ai-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/VFD_com/2021/09/13/iron_ox.jpg?preset=OgImage",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-22T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FreshPlaza",
+        "domain": "freshplaza.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks.md",
       "title": "New UT program puts focus on ethical AI, building robots to do ‘helpful tasks’",
       "excerpt": "How does society approach the ethical use of artificial intelligence and building robots? It’s a question students at the University of Texas at Austin will soon have to take a deeper look into. Called CREATE (Convergent,",
@@ -142,7 +185,7 @@
       "originalUrl": "https://www.iflscience.com/technology/how-an-aiassisted-robot-gun-assassinated-irans-top-nuclear-scientist/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -226,6 +269,49 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-locus-robotics-heralds-acquisition-of-waypoint-robotics.md",
+      "title": "Locus Robotics heralds acquisition of Waypoint Robotics",
+      "excerpt": "Locus Robotics, a leading provider of autonomous mobile robots (AMR) for fulfillment warehouses, today announced that it has acquired Waypoint Robotics, a leading provider of autonomous, omnidirectional mobile robots which can move and handle larger payloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.logisticsmgmt.com/article/locus_robotics_heralds_acquisition_of_waypoint_robotics",
+      "originalUrl": "https://www.logisticsmgmt.com/article/locus_robotics_heralds_acquisition_of_waypoint_robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sc247.s3.amazonaws.com/images/made/images/2021_article/LM2109_COVER_MastersOfLogistics_800p_350_200_bor1_b9b3be_s_c1.jpg",
+          "width": 352,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-20T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Logistics Management",
+        "domain": "logisticsmgmt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1256,83 +1342,6 @@
       "provider": {
         "name": "Poc Network",
         "domain": "pocnetwork.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-12-are-bots-and-robots-the-answer-to-worker-shortages.md",
-      "title": "Are Bots and Robots the Answer to Worker Shortages?",
-      "excerpt": "Using software bots has become commonplace in many workplaces around the world, but with worker shortages, will robots start filling more roles soon?",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/blogs/lohrmann-on-cybersecurity/are-bots-and-robots-the-answer-to-worker-shortages",
-      "originalUrl": "https://www.govtech.com/blogs/lohrmann-on-cybersecurity/are-bots-and-robots-the-answer-to-worker-shortages",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-12T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-12-small-mighty-robots-mimic-the-powerful-punch-of-mantis-shrimp.md",
-      "title": "Small, Mighty Robots Mimic the Powerful Punch of Mantis Shrimp",
-      "excerpt": "Modeling the mechanics of the strongest punch in the animal kingdom, researchers with U.S. Army funding built a robot that mimics the movement of the mantis shrimp. These pugnacious crustaceans could pave the way for small,",
-      "sourceUrl": null,
-      "webUrl": "https://neurosciencenews.com/mantis-shrimp-robot-19301/",
-      "originalUrl": "https://neurosciencenews.com/mantis-shrimp-robot-19301/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://neurosciencenews.com/files/2021/09/mantis-shrimp-robot-neurosinces.jpg",
-          "width": 769,
-          "height": 825,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://neurosciencenews.com/mantis-shrimp-robot-19301/amp/",
-      "cdnAmpWebUrl": "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/mantis-shrimp-robot-19301/amp/",
-      "publishedDateTime": "2021-09-11T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neuroscience News",
-        "domain": "neurosciencenews.com",
         "images": null,
         "publishers": null,
         "authors": null

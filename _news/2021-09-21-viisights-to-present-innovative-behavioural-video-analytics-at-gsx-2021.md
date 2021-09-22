@@ -20,6 +20,22 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "Global Healthcare Analytics Market (2021 to 2026) - Increasing Focus on Value-Based Medicine Presents Opportunities"
+    excerpt: "Application (Financial, Operational, RCM, Fraud, Clinical),"
+    publishedDateTime: 2021-09-22T13:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-healthcare-analytics-market-2021-to-2026---increasing-focus-on-value-based-medicine-presents-opportunities-301382771.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 17
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
+
 secured: "KkDXlBe39JMEX/GY6+WnbPdqPFCYhFD9xZ7BaPjBZD/wKhQLnR3FZ9wsIgPLNktownnqHdEJpC5SWSeVvw9lyQa3Kz5S2/Mwxs+a7xFhOFE+CAyy4FnvRf72Hg7jcjVt7U71e8+myPUzw+gNRDuKS9lK1KbiQxNwqaBRT/RCEbsIcmw7J9X273XU+Z/wlhQ3maYUx9hKYYlAMyEfHGfuK5ruUSjJn4DMCYaSg3XnHUdUHjgYD1Bj3MMiejsD2auYTzgrLXaoy3Q28SYt99JKYd6E82noT2+gXDCaNrXzFZ6LFmw6iSHNmWj0NFO+HUyYthbc2a4QqWA0FxevLe9QLQRzVgi7GLfvyo3G6JHwvh+Jy7kv2QuF0XLqjAkFdorXJbAqa1gjy5Mew9JhEsQ6t/1haGqSrwxQzZiN7HU0uFFz1pOSCX63jWCYb7H51jxgflJ7WMQe/K+fukxYhYlaZyT7rQwEHvg8M+2pKrlmlnWAVkcM442AcyOPmqaWFtjVXf1KtaUbA/vBaGAbteWzJw==;ae0byiOnReNt91PnzUuGlw=="
 ---
 

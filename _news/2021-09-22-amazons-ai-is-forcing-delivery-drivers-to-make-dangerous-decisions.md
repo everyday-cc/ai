@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/amazon-ai-forcing-drivers-make-dangero
 webUrl: "https://thenextweb.com/news/amazon-ai-forcing-drivers-make-dangerous-decisions"
 type: article
 quality: 67
-heat: 90
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Next Web
@@ -38,7 +38,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 58
+    quality: 158
     images:
       - url: "https://i.insider.com/6148b4daca11af00192b05db?width=1200&format=jpeg"
         width: 1200
@@ -59,6 +59,20 @@ related:
       - url: "https://wonderfulengineering.com/wp-content/uploads/2021/09/61083ead372268001a5941b5.jpg"
         width: 1300
         height: 975
+        isCached: true
+  - title: "AI Is Penalizing Amazon Delivery Drivers for Errors They Aren’t Making"
+    excerpt: "Amazon drivers are being penalized for driving mistakes they aren't making, and it's costing delivery companies a great deal of money."
+    publishedDateTime: 2021-09-22T13:20:00Z
+    webUrl: "https://www.extremetech.com/extreme/327317-ai-is-penalizing-amazon-delivery-drivers-for-errors-they-arent-making"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 37
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2019/09/Rivian_Amazon-cityscape-truck.jpg"
+        width: 1344
+        height: 743
         isCached: true
 
 secured: "fLSgoIKKrz4Kduft1L1D75CruaVt2/iu1fZEomyBTPwdwQvKbWBEepkpGangAOBpQg+oiB6aRCh9dS8hT2NxSpZNHaHKVqjpYt8yjZks0pQA4nzhAC7WOoGjS73HGgxFjrIFRpsHznUlXTeRNVWGw6LD9uqhDLJyFSq74LS8Hqzqq3vqzSQxFuUb8epnjFd0jcS7BhddR7OUODhfSrziUt3UQFUFCW/brYbDvx30voWxpfwKsjI6FTu1+lg/tfSlMrUopAxojma1qUZYZVDXqjPb8AVyYqhvb1iQW7Zw+NTOGr8Dot6y/KGVcIKKSp2skS1EKEsvvHiezdtyjyp6thP1rDFPCiUTb5LB8ccZ1Y8=;1molYYzFZAtp6RhFbBgrXQ=="

@@ -8,9 +8,9 @@ webUrl: "https://www.businessinsider.com/amazon-delivery-drivers-netradyne-ai-ca
 ampWebUrl: "https://www.businessinsider.com/amazon-delivery-drivers-netradyne-ai-cameras-punished-when-cut-off-2021-9?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-delivery-drivers-netradyne-ai-cameras-punished-when-cut-off-2021-9?amp"
 type: article
-quality: 58
-heat: -1
-published: false
+quality: 158
+heat: 188
+published: true
 
 provider:
   name: Business Insider
@@ -60,7 +60,21 @@ related:
         width: 1300
         height: 975
         isCached: true
+  - title: "AI Is Penalizing Amazon Delivery Drivers for Errors They Aren’t Making"
+    excerpt: "Amazon drivers are being penalized for driving mistakes they aren't making, and it's costing delivery companies a great deal of money."
+    publishedDateTime: 2021-09-22T13:20:00Z
+    webUrl: "https://www.extremetech.com/extreme/327317-ai-is-penalizing-amazon-delivery-drivers-for-errors-they-arent-making"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 37
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2019/09/Rivian_Amazon-cityscape-truck.jpg"
+        width: 1344
+        height: 743
+        isCached: true
 
-secured: "NNUJtNzpewPPcgdJG+fbutL+e1ThoAEmyRX4YPXH8pnR2LZI51u8Sf2tzUHvjEuTPlyo4RzhV55NyjKxky853FC8i25q/SVTiYvasB1muk05uaWoi8GATgQ4jgBOH0q+G/jbHv3uSy8HttFO+UAX3Z3FacXYZ7ZEf60oEMlN/yTYFpxNaevHJ8Z3z2x09xNwjU7ZhqR6zwsDZs0vl6pKDnSTB13o4/QqSVt3r2lYNMSTxJ8fCFRZ8czh7ZE3oJ+eyBhSZS0DZ1cxKNuFcbDv9g8VmA8O4UlKxekh1B21nrBLPws+ZG6rMvd2eP3iV53ztefvEY1IuQ2haoSR4p3iRbmHL0OlbMyCbeIeQ5r39lOK36BPyzGwM/Bjj9gMstWdohRO/3GKKwQgyET5nElwCbJdo0XUnn7j/P3yVczj89PXJkMI6P1NtTVYDZo/aongEF/kK7AMeQq7OTQa757Hy5nfBunKOUfRBOWU4OcqMGTnG1MIQSPz1g+ieZzyCDrmQUFfPYzAnhVNmAGcv37Gdw==;Pd0QqXMJ9bYopebHqow+rA=="
+secured: "LSZ/2TnUS+CGVC+9DEihKFGmmctzxZ10TMFnk94QLgImidot8bIVDo/MAtBYiHOYNySSgaw7Wq3WarHIX3fKmuLjATgl1HYWICwZ7C56Oa03VsCPs/ZRP5L4msQtkNTxsKIwcCt9ggk1sXOvo04y9+p+DkOlQkPwJqbpRm2jerjiDZ3oyzEMOSY5f2GcrRDOBgV1Uxd9unNkPZTbeQs5NZetHoPQD9T/PBmJ6S/zUZzpvy4RHQLlLIs5rXMeSMB6S2/wshVe6r97x2bq6K+g7qlKGGqwTYBxWY//B4kB0kaUYfTRZ8VyKBRYcPQ+DKavlU6mB7PvXQ7nxpempuRERdOGP9aZu4X8iTtuGA1YIhbefLu1SLWozF3KLUNV4/drwHq3i8K6Xgu//QghmtgxKWOXMTQT0fcZwem8Q6vzLFA/pEhgt0nonlLY4x++ZXCZZ982cJYSFaICDvu56Vg8xUbcS0dgwB6D5bOh+WVTa0gqSOPxJa1uA1dvTnO9ZaU3GwJqQlMSuH+JhWiClhNUaMasSShPDHOfaVa/04Kjmfc=;NBBd7ebKRqBtCQ6WaVx7EA=="
 ---
 

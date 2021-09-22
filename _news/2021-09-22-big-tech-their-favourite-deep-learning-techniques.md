@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-22T11:30:00Z
 originalUrl: "https://analyticsindiamag.com/big-tech-their-favourite-deep-learning-techniques/"
 webUrl: "https://analyticsindiamag.com/big-tech-their-favourite-deep-learning-techniques/"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Google AI
   - AI
   - Machine Learning
+  - Microsoft AI
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/Big-Tech-and-their-Favorite-Deep-Learning-Schools-1.jpg"
@@ -25,6 +26,6 @@ images:
     height: 1260
     isCached: true
 
-secured: "XQPkMF6x7Td3uDS2zZHkAB3W8ynzVrEssyWkLOtp8FqeXpxqkV/dLZ7JeUEG8kv/BgBFarv1TQfLqachWqoLnSQR3napsFhqfDUxMSbpn3n4/KeGGZ/ktjSTipuHmF74TGezM70/tUL8erWHwD2mZOpN+sGISsyYVJVFVpLcx0mUqcJqJ0jJYLZQm1XwFvhVkFTc5UMQmq5wnpr2aMwDxrf6yldHncd2QiSR6upMs1kjcFfs0mo4Cncgt4CWaQdlIsqTu7vTWiqKCi8UpLS0jvBVoupo5s5eBqZ7Cpsg37FzR6YGBcbRE/l4OzkKbRq006plmcnLRd57JdrS7yC7C5s6k2TabARbPin004U/OY8=;YkBXUfJWMyin8W2bJJLrRg=="
+secured: "wdbYvPV4rIrjP/b0OBDL/PlrGndDL2yO/HQ9d9sWI8POLIRcQUdImwCjGbrB10OEKtVKsWxpvruo/HATuSp56X4BGCEAjjUGQdiAkX0ugB47BfYHz+VwZWqp0VacnckhT1VWTL0nmq4F2Tec9bNBQgEo8K3HM9yhs8R2O6uUvQ0l9ALZ8CmyEmBdw+RUpKk0SM5U2LOOVglk9KqlRFznxypuSOFOyuD96WPnm1XIOV3Zm1JwjB3wUQLsapH4YlF8GjlQBfDPoEIBFRrT+DhvpZKKo/X50Hm0gEj6lkFNS62xEk7WSEObxWyovBobcO/tJ7brrh1h7MUu1EXYCI4dOSXLt7o5DHorHtDsmGkqsGDWfB7FBj9RbrzIYZq/+IC5pwzDOO7fh6wO+GXX76P7/yv+NuOdktmW9vjOxq4DALgbZY4FIbYTS2W0H507QZ0YpEs903ZRziOks0+cIjWH5w+8PbVNEAjM0S2TkueFoAB8Dl+JVoFbmhW2SRhHfFabgHhVbryDfYZyskcfN4GEKQ==;7gyDsbkHd4VeIYU0bNmTaw=="
 ---
 

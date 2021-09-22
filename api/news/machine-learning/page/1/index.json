@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-22-16-valuable-benefits-machine-learning-can-bring-to-small-businesses.md",
+      "title": "16 Valuable Benefits Machine Learning Can Bring To Small Businesses",
+      "excerpt": "There are plenty of tangible benefits small businesses can receive from leveraging the latest ML tools—in many cases with minimal cost and effort.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/22/16-valuable-benefits-machine-learning-can-bring-to-small-businesses/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/22/16-valuable-benefits-machine-learning-can-bring-to-small-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f451f658461ecb30a7fa9b8%2F0x0.jpg",
+          "width": 1200,
+          "height": 771,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/22/16-valuable-benefits-machine-learning-can-bring-to-small-businesses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/22/16-valuable-benefits-machine-learning-can-bring-to-small-businesses/amp/",
+      "publishedDateTime": "2021-09-22T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-navigating-ai-and-machine-learning-13-techniques-to-boost-business.md",
+      "title": "Navigating AI And Machine Learning: 13 Techniques To Boost Business",
+      "excerpt": "AI and ML technology can not only enable sales to save time and cut costs, but it can also complement the most important currency (ie. relationship management is a way that sales can actually act as a \"true business partner\").",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/09/22/navigating-ai-and-machine-learning-13-techniques-to-boost-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/09/22/navigating-ai-and-machine-learning-13-techniques-to-boost-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614a4135356eea08aca69f7b%2F0x0.jpg",
+          "width": 1200,
+          "height": 1015,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/09/22/navigating-ai-and-machine-learning-13-techniques-to-boost-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/09/22/navigating-ai-and-machine-learning-13-techniques-to-boost-business/amp/",
+      "publishedDateTime": "2021-09-22T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process.md",
       "title": "Robots and machine learning researchers combine forces to speed up the drug development process",
       "excerpt": "IBM Research and Arctoris are bringing the power of artificial intelligence and robotic automation to the process of developing new drugs. The two companies aim to make smarter ch",
@@ -63,7 +167,7 @@
       "originalUrl": "https://www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -779,6 +883,50 @@
       ]
     },
     {
+      "path": "_news/2021-09-15-zest-ai-wins-2021-finovate-award-for-best-use-of-aiml.md",
+      "title": "Zest AI Wins 2021 Finovate Award for Best Use of AI/ML",
+      "excerpt": "Zest AI, the leader in software for AI-driven underwriting, today won the 2021 Finovate Award for Best Use of AI/ML. The award goes to the bank, financial institution, or fintech that uses artificial intelligence/machine-learning technology to the greatest effect,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-2acb818ebe1f25e908e4be89872e4639",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-2acb818ebe1f25e908e4be89872e4639",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-heres-how-cyber-threats-are-being-detected-using-deep-learning.md",
       "title": "Here’s how cyber threats are being detected using deep learning",
       "excerpt": "Deep learning could be a game-changer in applying machine learning techniques to solve computer security challenges Since deep learning shows great",
@@ -819,50 +967,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-zest-ai-wins-2021-finovate-award-for-best-use-of-aiml.md",
-      "title": "Zest AI Wins 2021 Finovate Award for Best Use of AI/ML",
-      "excerpt": "The Finovate Awards were created to recognize excellence in innovation within the broader fintech community. \"It's great to be recognized by the panel of Finovate judges as Best Use of AI/ML in ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/zest-ai-wins-2021-finovate-award-for-best-use-of-ai-ml-1030802033",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/zest-ai-wins-2021-finovate-award-for-best-use-of-ai-ml-1030802033",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1285,102 +1389,6 @@
       "provider": {
         "name": "Analytics India Magazine",
         "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-12-computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats.md",
-      "title": "Computer vision and deep learning provide new ways to detect cyber threats",
-      "excerpt": "The combination of binary visualization and machine learning is a powerful technique that can provide new solutions to old problems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/11/computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats/",
-      "originalUrl": "https://venturebeat.com/2021/09/11/computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/deep-learning-cyber-threat-detection1.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/11/computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/11/computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats/amp/",
-      "publishedDateTime": "2021-09-11T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-11-deep-learning-in-ct-scanners-industry-market-to-witness-huge-growth-by-2028-philips-ge-health-shimadzu.md",
-      "title": "Deep Learning in CT Scanners Industry Market to Witness Huge Growth by 2028 | Philips, GE Health, Shimadzu",
-      "excerpt": "A new business intelligence report released by JCMR with Global Deep Learning in CT Scanners Industry Market Report has abilities to raise as the most significant market worldwide as it has remained playing a remarkable role in establishing progressive impacts on the universal economy.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/deep-learning-in-ct-scanners-industry-market-to-witness-huge-growth-by-2028-philips-ge-health-shimadzu/",
-      "originalUrl": "https://manometcurrent.com/deep-learning-in-ct-scanners-industry-market-to-witness-huge-growth-by-2028-philips-ge-health-shimadzu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/10-6-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/deep-learning-in-ct-scanners-industry-market-to-witness-huge-growth-by-2028-philips-ge-health-shimadzu/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-in-ct-scanners-industry-market-to-witness-huge-growth-by-2028-philips-ge-health-shimadzu/?amp=1",
-      "publishedDateTime": "2021-09-11T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
         "images": null,
         "publishers": null,
         "authors": null

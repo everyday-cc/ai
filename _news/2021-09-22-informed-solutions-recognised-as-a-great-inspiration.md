@@ -27,14 +27,14 @@ images:
 related:
   - title: "7 Kentucky schools get national recognition"
     excerpt: "Seven Kentucky schools have been named National Blue Ribbon Schools for 2021, the U.S. Department of Education said. The recognition is based on a school’s academic performance or its progress in closing achievement gaps,"
-    publishedDateTime: 2021-09-22T11:01:00Z
-    webUrl: "https://www.ctpost.com/news/article/7-Kentucky-schools-get-national-recognition-16478038.php"
-    ampWebUrl: "https://www.ctpost.com/news/amp/7-Kentucky-schools-get-national-recognition-16478038.php"
-    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/7-Kentucky-schools-get-national-recognition-16478038.php"
+    publishedDateTime: 2021-09-22T12:01:00Z
+    webUrl: "https://www.nhregister.com/news/article/7-Kentucky-schools-get-national-recognition-16478038.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/7-Kentucky-schools-get-national-recognition-16478038.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/7-Kentucky-schools-get-national-recognition-16478038.php"
     type: article
     provider:
-      name: Connecticut Post
-      domain: ctpost.com
+      name: New Haven Register
+      domain: nhregister.com
     quality: 44
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"

@@ -31,36 +31,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 48
-  - title: "Deep Learning In Drug Discovery Diagnostics Market Forecasted to Reach Value of Around US$ 18199.5 million by 2026"
-    excerpt: "Latest update report on Deep Learning In Drug Discovery Diagnostics Market Size Share Growth Industry Trends and Forecast by 2028 This report is highly predictive as it holds the overall market analysis of the topmost companies into the Deep Learning"
-    publishedDateTime: 2021-09-17T19:33:00Z
-    webUrl: "https://www.openpr.com/news/2397856/deep-learning-in-drug-discovery-diagnostics-market-forecasted"
-    ampWebUrl: "https://www.openpr.com/amp/2397856/deep-learning-in-drug-discovery-diagnostics-market-forecasted"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2397856/deep-learning-in-drug-discovery-diagnostics-market-forecasted"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 37
-    images:
-      - url: "https://cdn.openpr.com/U/9/U917977786_g.jpg"
-        width: 643
-        height: 400
-        isCached: true
-  - title: "Artificial Intelligence Market Report 2021, Share, Size, Trends and Forecast 2026"
-    excerpt: "According to IMARC Group's latest report, titled“  Artificial Intelligence Market  : Industry Trends, Share, Size, Growth, Opportuni"
-    publishedDateTime: 2021-09-21T03:38:00Z
-    webUrl: "https://menafn.com/1102805049/Artificial-Intelligence-Market-Report-2021-Share-Size-Trends-and-Forecast-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/updates/pr/2021-09/15/i_6fcd4718-a_Image_In_Body.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Self-Driving Taxi Market Share, Top Manufacturers, Growth Factor, Industry Size, Future Trends and Forecast till 2026"
     excerpt: "The Self-Driving Taxi market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis,"
     publishedDateTime: 2021-09-21T09:14:00Z
@@ -75,19 +45,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "US Hyperscale Data Center Market Outlook & Forecast Report 2021-2026 - AI Boosts Liquid Immersion & Direct-To-Chip Cooling Adoption - ResearchAndMarke"
-    excerpt: "The \"US Hyperscale Data Center Market - Industry Outlook & Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The US hyperscale data center market by investment is expected to grow at a CAGR of 3."
-    publishedDateTime: 2021-09-21T11:42:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=534060"
+  - title: "Global Artificial Intelligence -Based MRI Market 2021:Share,Future Trends,Revenue,Statistics,Forecast 2027"
+    excerpt: "Artificial intelligence-based MRI market is expected to gain market growth in the forecast period of 2020 to 2027. Data Bridge Market Research analyses the market to grow at a CAGR of 6.30% in the above-mentioned forecast period."
+    publishedDateTime: 2021-09-22T12:45:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2021-09-22/global-artificial-intelligence-based-mri-market-2021share-future-trends-revenue-statistics-forecas"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 14
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 21
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
         isCached: true
   - title: "Cognitive computing market forecast by 2026: Top factors that could boost markets in future"
     excerpt: "The rising trend for production and supply chain optimization to bolster RoI through operational efficiencies and cost reduction. Cognitive solutions and services will help businesses streamline supply chain management."
@@ -100,20 +70,6 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 14
-  - title: "Global AI in Automotive & Transportation Industry to 2026 - Burgeoning Demand for Autonomous Vehicles Accelerates Market Growth"
-    excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been"
-    publishedDateTime: 2021-09-21T15:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-ai-in-automotive--transportation-industry-to-2026---burgeoning-demand-for-autonomous-vehicles-accelerates-market-growth-301381520.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 11
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
   - title: "Content Intelligence Market Share 2021: Global Trends, Key Players, Industry Analysis and Report 2021-2027"
     excerpt: "The global content intelligence market is anticipated to grow at a CAGR of 28 2 during the forecast period The increasing need for market intelligence and growing demand for audience interest analysis are the factors that are fueling the growth"
     publishedDateTime: 2021-09-22T09:20:00Z

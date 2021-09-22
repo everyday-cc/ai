@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon's AI-powered cameras reportedly punish its delivery drivers when they look at side mirrors or when other cars cut them off"
+    excerpt: "Amazon drivers have been punished for looking at side mirrors, adjusting the radio, and being cut off in traffic by other people, Motherboard reports."
+    publishedDateTime: 2021-09-20T16:45:00Z
+    webUrl: "https://www.businessinsider.com/amazon-delivery-drivers-netradyne-ai-cameras-punished-when-cut-off-2021-9"
+    ampWebUrl: "https://www.businessinsider.com/amazon-delivery-drivers-netradyne-ai-cameras-punished-when-cut-off-2021-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-delivery-drivers-netradyne-ai-cameras-punished-when-cut-off-2021-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 158
+    images:
+      - url: "https://i.insider.com/6148b4daca11af00192b05db?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Amazon’s AI is forcing delivery drivers to make dangerous decisions"
     excerpt: "A recent expose showed off a plethora of faults in Amazon's AI surveillance system for delivery drivers. How safe are we on the roads when AI's in charge?"
     publishedDateTime: 2021-09-21T20:24:00Z
@@ -40,21 +56,19 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Amazon's AI-powered cameras reportedly punish its delivery drivers when they look at side mirrors or when other cars cut them off"
-    excerpt: "Amazon drivers have been punished for looking at side mirrors, adjusting the radio, and being cut off in traffic by other people, Motherboard reports."
-    publishedDateTime: 2021-09-20T16:45:00Z
-    webUrl: "https://www.businessinsider.com/amazon-delivery-drivers-netradyne-ai-cameras-punished-when-cut-off-2021-9"
-    ampWebUrl: "https://www.businessinsider.com/amazon-delivery-drivers-netradyne-ai-cameras-punished-when-cut-off-2021-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-delivery-drivers-netradyne-ai-cameras-punished-when-cut-off-2021-9?amp"
+  - title: "AI Is Penalizing Amazon Delivery Drivers for Errors They Aren’t Making"
+    excerpt: "Amazon drivers are being penalized for driving mistakes they aren't making, and it's costing delivery companies a great deal of money."
+    publishedDateTime: 2021-09-22T13:20:00Z
+    webUrl: "https://www.extremetech.com/extreme/327317-ai-is-penalizing-amazon-delivery-drivers-for-errors-they-arent-making"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 37
     images:
-      - url: "https://i.insider.com/6148b4daca11af00192b05db?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.extremetech.com/wp-content/uploads/2019/09/Rivian_Amazon-cityscape-truck.jpg"
+        width: 1344
+        height: 743
         isCached: true
 
 secured: "AB7GjX1apup7t9ne/TXtZuib74/kRqdBV5FH2CbXytaS2HCpqgk6vJ/S7fjifSwcG8hmYfQiex16voyqOQbSic9ovYdkV8AW7ZrCt3c+fS/J1a1wfQyraLXuaXo+qyJz4Liy+vnSdk2jGYzzZjcgeZpawXrMKW+3bYuEGyCCjjU43j81BPVEujoUiU2dODvxpxHPslcty5jP72zEHTL7gIiwZvDmB5jNfEsrlDpUk4zY3km/UMnjEeBWYtGq9gbqUCgYdTJMEefDtIamwkFQFZUmpFosWqqY+PQO1E/YnNItSVE7upTbxfJqNnew6iCTaF+wQd6t1uLu9+qZItCIbb2p+x6HY/ym0Cb3CvNHbuYpmgyezFD9TzPke1AG+MRdkYW0HZzOf1w30A5kXeJXBBlRbsYcwTrSQPUVApBNp9YVFK0H1FSvC/U7u0ei6IE/hi7XDMEfw7/8CJpFtazWnPRRmN1UdW9kvCUCtIxgsuesWyEvBWxqAX88cgIetu49DavmdOQuQYD4nRPe5U/MPw==;HeUyJSyi25kuPWFrAKI0AA=="

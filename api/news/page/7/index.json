@@ -2,6 +2,495 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-09-15-deep-learning-market-outlook-competitive-landscape-and-forecasts-to-2026.md",
+      "title": "Deep Learning Market Outlook, Competitive Landscape and Forecasts to 2026",
+      "excerpt": "Global Deep Learning Market Overview Deep learning technologies enable a number of industries in developing deep domain insights besides helping transfer critical data to end users in the most usable ways The global deep learning market has gained remarkable impetus",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2393555/deep-learning-market-outlook-competitive-landscape",
+      "originalUrl": "https://www.openpr.com/news/2393555/deep-learning-market-outlook-competitive-landscape",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2393555/deep-learning-market-outlook-competitive-landscape",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2393555/deep-learning-market-outlook-competitive-landscape",
+      "publishedDateTime": "2021-09-15T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-discovery-partners-with-aws-on-track-cycling-insights-cloud.md",
+      "title": "Discovery partners with AWS on track cycling insights, cloud",
+      "excerpt": "Two companies plan to work together to deliver new fan engagement experiences around the UCI cycling competition, including a new UCI Track Champions League app",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvbeurope.com/media-management/discovery-partners-with-aws-on-track-cycling-insights-cloud",
+      "originalUrl": "https://www.tvbeurope.com/media-management/discovery-partners-with-aws-on-track-cycling-insights-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tvbeurope.com/wp-content/uploads/2021/09/disco-aws-copy.jpg",
+          "width": 750,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tvbeurope.com/media-management/discovery-partners-with-aws-on-track-cycling-insights-cloud?amp",
+      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/discovery-partners-with-aws-on-track-cycling-insights-cloud?amp",
+      "publishedDateTime": "2021-09-15T00:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tvbeurope.com",
+        "domain": "tvbeurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-truic-releases-more-ai-powered-startup-tools.md",
+      "title": "TRUiC Releases More AI-powered Startup Tools",
+      "excerpt": "Over 30 million small businesses operated in the U.S in 2020. The U.S. has more unicorn startups than any other country TRUiC released a suite of free",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2021/09/truic-releases-more-ai-powered-startup-tools.html",
+      "originalUrl": "https://www.androidheadlines.com/2021/09/truic-releases-more-ai-powered-startup-tools.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2021/09/Business-startup-image-9489494.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2021/09/truic-releases-more-ai-powered-startup-tools.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/09/truic-releases-more-ai-powered-startup-tools.html/amp",
+      "publishedDateTime": "2021-09-14T23:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-this-invisible-ai-powered-keyboard-used-an-nvidia-gtx-1080-ti-to-help-you-type-faster-on-a-smartphone.md",
+      "title": "This invisible AI-powered keyboard used an NVIDIA GTX 1080 Ti to help you type faster on a smartphone",
+      "excerpt": "A group of South Korean researchers have developed the Invisible Mobile Keyboard, letting you type into your smartphone without needing an on-screen keyboard.",
+      "sourceUrl": null,
+      "webUrl": "https://soyacincau.com/2021/09/15/this-invisible-ai-powered-keyboard-used-an-nvidia-gtx-1080-ti-to-help-you-type-faster-on-a-smartphone/",
+      "originalUrl": "https://soyacincau.com/2021/09/15/this-invisible-ai-powered-keyboard-used-an-nvidia-gtx-1080-ti-to-help-you-type-faster-on-a-smartphone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://soyacincau.com/wp-content/uploads/2021/09/210909-gtx-1080-ti.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T22:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SoyaCincau",
+        "domain": "soyacincau.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-deep-learning-market-major-technology-giants-in-buzz-again-general-vision-inc-microsoft-corporation-intel-corporation.md",
+      "title": "Deep Learning Market – Major Technology Giants in Buzz Again | General Vision Inc., Microsoft Corporation, Intel Corporation",
+      "excerpt": "A new research study from JCMR with title Global Deep Learning Market Research Report 2021 provides an in-depth assessment of the Deep Learning including key market trends, upcoming technologies, industry drivers,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/deep-learning-market-major-technology-giants-in-buzz-again-general-vision-inc-microsoft-corporation-intel-corporation/",
+      "originalUrl": "https://manometcurrent.com/deep-learning-market-major-technology-giants-in-buzz-again-general-vision-inc-microsoft-corporation-intel-corporation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T21:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-softbank-ceo-son-says-smart-robots-can-revitalise-japan-growth-competitiveness.md",
+      "title": "SoftBank CEO Son says smart robots can revitalise Japan growth, competitiveness",
+      "excerpt": "SoftBank Group Corp Chief Executive Masayoshi Son on Wednesday said so-called smart robots can revitalise Japan's economy and competitiveness, doubling down on robotics just as the company's much-hyped \"Pepper\" robot prepares to",
+      "sourceUrl": null,
+      "webUrl": "https://kfgo.com/2021/09/14/softbank-ceo-son-says-smart-robots-can-revitalise-japan-growth-competitiveness/",
+      "originalUrl": "https://kfgo.com/2021/09/14/softbank-ceo-son-says-smart-robots-can-revitalise-japan-growth-competitiveness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2021-09/15/2021-09-15T033602Z_1_LYNXMPEH8E03Z_RTROPTP_3_OLYMPICS-2020-SON.JPG",
+          "width": 800,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T20:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KFGO",
+        "domain": "kfgo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-skit-launches-on-microsoft-azure-marketplace-to-accelerate-innovations-and-target-over-140-global-geographies.md",
+      "title": "Skit launches on Microsoft Azure Marketplace to accelerate innovations and target over 140 global geographies",
+      "excerpt": "Leading Voice AI Company, Skit today has announced that its solution has launched on Microsoft Azure Marketplace, to unlock its growth capabilities. The availability will help Skit accelerate innovations and scale operations,",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/skit-launches-on-microsoft-azure-marketplace-to-accelerate-innovations-and-target-over-140-global-geographies/",
+      "originalUrl": "https://indiaeducationdiary.in/skit-launches-on-microsoft-azure-marketplace-to-accelerate-innovations-and-target-over-140-global-geographies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/skit-launches-on-microsoft-azure-marketplace-to-accelerate-innovations-and-target-over-140-global-geographies/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/skit-launches-on-microsoft-azure-marketplace-to-accelerate-innovations-and-target-over-140-global-geographies/",
+      "publishedDateTime": "2021-09-14T20:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-behringer-deepmind-12-editorlibrarian.md",
+      "title": "Behringer Deepmind 12 Editor/Librarian",
+      "excerpt": "A spokesperson told us, \" The Deepmind is the first Behringer synth that Patch Base supports, as we continue to expand our coverage of the many manufacturers out there. Although Behringer created their own feature-filled editor for the Deepmind 12 on iPad and Mac,",
+      "sourceUrl": null,
+      "webUrl": "https://sonicstate.com/news/2021/09/15/behringer-deepmind-12-editorlibrarian/",
+      "originalUrl": "https://sonicstate.com/news/2021/09/15/behringer-deepmind-12-editorlibrarian/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/34864_389.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T18:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sonic State",
+        "domain": "sonicstate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-how-to-invest-in-artificial-intelligence.md",
+      "title": "How to Invest in Artificial Intelligence",
+      "excerpt": "Learn how to invest in the growing artificial intelligence market, which is projected to reach nearly US$1 trillion in value by 2028. Artificial intelligence (AI) has been pegged by some as the fourth industrial revolution,",
+      "sourceUrl": null,
+      "webUrl": "https://investingnews.com/daily/tech-investing/emerging-tech-investing/artificial-intelligence-investing/how-to-invest-in-artificial-intelligence/",
+      "originalUrl": "https://investingnews.com/daily/tech-investing/emerging-tech-investing/artificial-intelligence-investing/how-to-invest-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investingnews.com/app/uploads/2020/07/how-to-invest-in-artificial-intelligence.jpeg",
+          "width": 500,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing News Network",
+        "domain": "investingnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-hornet-and-milrem-robotics-exhibit-a-new-combat-ugv-at-dsei.md",
+      "title": "Hornet and Milrem Robotics Exhibit a New Combat UGV at DSEI",
+      "excerpt": "The French remote weapon systems manufacturer Hornet and Europe’s leading developer of robotics and autonomous systems Milrem Robotics display a new THeMIS Comb",
+      "sourceUrl": null,
+      "webUrl": "https://www.asdnews.com/news/defense/2021/09/15/hornet-milrem-robotics-exhibit-new-combat-ugv-at-dsei",
+      "originalUrl": "https://www.asdnews.com/news/defense/2021/09/15/hornet-milrem-robotics-exhibit-new-combat-ugv-at-dsei",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asdnews.com/NewsImages/b/67827/68818_O.jpg",
+          "width": 1200,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Aerospace & Defense News",
+        "domain": "asdnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-computer-vision-for-visual-effects.md",
+      "title": "Computer Vision for Visual Effects",
+      "excerpt": "These effects are made possible by research from the field of computer vision, the study of how to automatically understand images. Computer Vision for Visual Effects will educate students, engineers and researchers about the fundamental computer vision ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/sz/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/computer-vision-visual-effects",
+      "originalUrl": "https://www.cambridge.org/sz/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/computer-vision-visual-effects",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T15:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-is-the-new-federal-ai-advisory-committee-too-late-to-the-game.md",
+      "title": "Is the new federal AI Advisory Committee too late to the game?",
+      "excerpt": "The Department of Commerce issued a press release about the creation of the National Artificial Intelligence Advisory Committee (NAIAC) which “will consist of expert leaders from a broad and int",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/new-federal-ai-advisory-committee-too-late-to-game",
+      "originalUrl": "https://www.natlawreview.com/article/new-federal-ai-advisory-committee-too-late-to-game",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/new-federal-ai-advisory-committee-too-late-to-game?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/new-federal-ai-advisory-committee-too-late-to-game?amp",
+      "publishedDateTime": "2021-09-14T14:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-artificial-intelligence-ai-market-size-opportunities-share-analysis-up-to-2025.md",
       "title": "Artificial Intelligence (AI) Market Size , Opportunities, Share Analysis up to 2025",
       "excerpt": "Particularly in healthcare, Artificial Intelligence (AI), is expected to bring revolutionary changes in terms of reduction in terms of healthcare cost reduction and quality treatment in the region. This report defines, describe, and forecast the overall ...",
@@ -576,532 +1065,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insurance-industry.md",
-      "title": "Peak Fintech Acquires Heartbeat Insurance Platform and Brings Analytics and AI Expertise to Insurance Industry",
-      "excerpt": "All of Huayan's assets, including the Heartbeat platform, its employees and its operations will be transferred to Peak's Xinxiang Technologies Ltd. subsidiary (\"Xinxiang\"), which was created in the second quarter of 2021 specifically to help bring insurance related products and services to members of Peak's Business Hub.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210914mo05924/peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insurance-industry",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210914mo05924/peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insurance-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1625279/Peak_Fintech_Group_Inc__Peak_Fintech_Acquires_Heartbeat_Insuranc.jpg",
-          "width": 323,
-          "height": 235,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-robot-vacuums-are-learning-to-avoid-dog-poop-but-thats-not-all-they-can-see.md",
-      "title": "Robot vacuums are learning to avoid dog poop. But that’s not all they can see.",
-      "excerpt": "Robot's new robot vacuum uses a front-facing camera and artificial intelligence to deftly maneuver your home. However these tools require more data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2021/09/14/roomba-ai-vacuum-dog-poop/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2021/09/14/roomba-ai-vacuum-dog-poop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HDXFKGT55RHXJJKXPPKBQLAIXY.jpg&w=1440",
-          "width": 1440,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-ibm-watson-set-up-new-ai-and-automations.md",
-      "title": "IBM Watson Set Up New AI and Automations",
-      "excerpt": "IBM (NYSE: IBM) today declare the set up of new AI and automation ability in IBM Watson Assistant plan to make it easier for businesses to create intensify customer service experiences over any channe",
-      "sourceUrl": null,
-      "webUrl": "https://www.smechannels.com/ibm-watson-set-up-new-ai-and-automations/",
-      "originalUrl": "https://www.smechannels.com/ibm-watson-set-up-new-ai-and-automations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.smechannels.com/wp-content/uploads/2021/09/vishwanath.png?fit=610%2C380&ssl=1",
-          "width": 610,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NETGEAR",
-        "domain": "smechannels.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-new-ai-writes-computer-code-still-not-skynet-but-its-learning.md",
-      "title": "New AI Writes Computer Code: Still Not Skynet, But It’s Learning",
-      "excerpt": "Sometimes, when you feed an AI content from the Internet, it learns natural language. Sometimes, it reads the entire contents of GitHub and learns to produce simple snippets of code. This is the story of what happens when the AI does both.",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/extreme/326929-new-ai-writes-computer-code-still-not-skynet-but-its-learning",
-      "originalUrl": "https://www.extremetech.com/extreme/326929-new-ai-writes-computer-code-still-not-skynet-but-its-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.extremetech.com/wp-content/uploads/2015/12/Brain-Machine-2.jpg",
-          "width": 1710,
-          "height": 952,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-taking-lessons-from-a-sea-slug-study-points-to-better-hardware-for-artificial-intelligence.md",
-      "title": "Taking lessons from a sea slug, study points to better hardware for artificial intelligence",
-      "excerpt": "For artificial intelligence to get any smarter, it needs first to be as intelligent as one of the simplest creatures in the animal kingdom: the sea slug.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-09-lessons-sea-slug-hardware-artificial.html",
-      "originalUrl": "https://techxplore.com/news/2021-09-lessons-sea-slug-hardware-artificial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/taking-lessons-from-a.jpg",
-          "width": 2880,
-          "height": 1917,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-09-lessons-sea-slug-hardware-artificial.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-lessons-sea-slug-hardware-artificial.amp",
-      "publishedDateTime": "2021-09-14T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-vade-for-microsoft-365-is-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Vade for Microsoft 365 is now available in the Microsoft Azure Marketplace",
-      "excerpt": "Vade, a global leader in AI-based threat detection, user awareness and incident response with one billion protected mailboxes worldwide, today announced the availability of Vade for Microsoft 365 in the Microsoft Azure Marketplace.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/vade-for-microsoft-365-is-now-available-in-the-microsoft-azure-marketplace-1030798229",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/vade-for-microsoft-365-is-now-available-in-the-microsoft-azure-marketplace-1030798229",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-dotdata-and-tableau-partner-to-accelerate-augmented-and-predictive-analytics-for-the-business-intelligence-community.md",
-      "title": "dotData and Tableau Partner to Accelerate Augmented and Predictive Analytics for the Business Intelligence Community",
-      "excerpt": "As a result of this partnership, Tableau users will be able to build customized predictive analytics solutions faster and more easily. By combining Tableau’s data preparation and visualization capabilities with dotData’s augmented insights discovery and predictive modeling capabilities,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/science-5a81442f0e74026f77626dfe027d4189",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-5a81442f0e74026f77626dfe027d4189",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity.md",
-      "title": "This Indian company is tapping into the huge autonomous driving opportunity",
-      "excerpt": "Be it artificial intelligence (AI), 5G ... Global companies such as Tesla and Waymo are leading the race when it comes to automated driving. But what about Indian companies?",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity-11631619999017.html",
-      "originalUrl": "https://www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity-11631619999017.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/09/14/600x338/car-kHv--621x414@LiveMint_1631620785356.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity/amp-11631619999017.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity/amp-11631619999017.html",
-      "publishedDateTime": "2021-09-14T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-ai-driven-api-security-startup-neosec-launches-with-207m-in-new-funding.md",
-      "title": "AI-driven API security startup Neosec launches with $20.7M in new funding",
-      "excerpt": "Artificial intelligence-driven application programming interface security startup Neosec launched out of stealth mode today with an announcement that it has raised $20.7 million in new funding. The Series A round included True Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/09/14/ai-driven-api-security-startup-neosec-launches-20-7m-new-funding",
-      "originalUrl": "https://siliconangle.com/2021/09/14/ai-driven-api-security-startup-neosec-launches-20-7m-new-funding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-gpu-as-a-service-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025.md",
-      "title": "GPU as a Service Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025",
-      "excerpt": "A comprehensive research study on GPU as a Service market added on Market Study Report provides insights into the market size and growth trends of this industry over the forecast timeline. The study evaluates key aspects of GPU as a Service market in terms of the demand landscape,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-09-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-09-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-the-view-from-the-ai-hw-summit-what-was-the-best-ai-hw-in-2021.md",
-      "title": "The View From The AI HW Summit: What Was The Best AI HW In 2021?",
-      "excerpt": "You can view my full presentation here for those with an interest. Each of the following are covered briefly in the presentation link. Its hard to pick just 10 news items from the last year, but here’s my top-of-mind list of hardware and software in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/09/14/the-view-from-the-ai-hw-summit--the-best-2021-ai-hw-is/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/09/14/the-view-from-the-ai-hw-summit--the-best-2021-ai-hw-is/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613797c2915d9892cb74af55%2F0x0.jpg",
-          "width": 1124,
-          "height": 1060,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-ibm-focuses-on-ai-business-adds-new-features-to-watson.md",
-      "title": "IBM Focuses on AI Business, Adds New Features to Watson",
-      "excerpt": "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Read more on \"Zacks\" SHARE THIS POST Ai Holdings NewsMORE Related Stocks Find News News",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-focuses-on-ai-business--adds-new-features-to-watson-10522185",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-focuses-on-ai-business--adds-new-features-to-watson-10522185",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

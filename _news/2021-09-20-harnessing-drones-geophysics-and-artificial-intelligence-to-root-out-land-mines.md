@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-09-harnessing-drones-geophysics-artificia
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-09-harnessing-drones-geophysics-artificial-intelligence.amp"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 478
     height: 637
     isCached: true
+
+related:
+  - title: "Navigating AI And Machine Learning: 13 Techniques To Boost Business"
+    excerpt: "AI and ML technology can not only enable sales to save time and cut costs, but it can also complement the most important currency (ie. relationship management is a way that sales can actually act as a \"true business partner\")."
+    publishedDateTime: 2021-09-22T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/09/22/navigating-ai-and-machine-learning-13-techniques-to-boost-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/09/22/navigating-ai-and-machine-learning-13-techniques-to-boost-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/09/22/navigating-ai-and-machine-learning-13-techniques-to-boost-business/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614a4135356eea08aca69f7b%2F0x0.jpg"
+        width: 1200
+        height: 1015
+        isCached: true
 
 secured: "47d9AXuEZqWJgtVt3dk3TEpmx82ze+v7PH9y3klMvQtcp7NJG8utgoHIlkrp7Js7RUNEKsWR7FktLxYvHH+2cJxdxi5NKkEiHv181Ne7lgdCBVn0XwbFHUK6/A9mNsvaJKjWoVtMCMGTZe5/ZuxC+Tpyw47LPFK9Or4In4GdohWLkbCR+3/AfF+sjOMd/TjCGKQmXX0rZRGYSKpk032JGeRUOrGWHd9g5d68jQjmUpRP1bvX+Vi2lJh6K/czwgb6vkOQxoG1oWHemZ+97MU3Zp2a/C3VMo/fdEyqkIBHWUre2MUrKmsJbtrwGduNLdx9BzbtnKDIKDY/LMnmoyM/U0LkI7VDJSRqRcpdmMspw6lrkL8nlOonAtTdrwEXr26PpS6haMtIW0vZEbcfp/wpi5O8Kd/4qB05yVJbeyO9I1BmPOwz21DWScOROW9h+x+F2YSVaQ08e2FjHgEwx6oqa1e6JKk3J+BWQCU9PTTezFhD7uV7VR8WYGKIdN8Nj3J7tDMk1hBQxeolxJBvzYX9eQ==;tPSOT0XCjmHHoMxz9SzuaA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/09/20/ai-powered-supply-chain-visibilit
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/20/ai-powered-supply-chain-visibility-platform-altana-nabs-15m/amp/"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Altana AI Raises $15M Series A Investment to Build the Single Source of Truth On the Global Supply Chain"
+    excerpt: "Altana AI has secured $15 million in Series A funding, led by GV (formerly Google Ventures). Floating Point, Ridgeline Partners, and"
+    publishedDateTime: 2021-09-20T10:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/altana-ai-raises-15m-series-a-investment-to-build-the-single-source-of-truth-on-the-global-supply-chain-301379819.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 100
   - title: "Altana AI Raises $15M to Bring Unprecedented Visibility to Supply Chain at a Time When It’s Most-Needed"
     excerpt: "Altana AI, cofounded Evan Smith, is a global supply chain intelligence platform that uses AI to provide a holistic view of global trade for organizations to trace, monitor, and protect their supply chains."
     publishedDateTime: 2021-09-20T18:43:00Z

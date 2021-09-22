@@ -25,32 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Computer Vision Market Growth, Analysis, Latest Trends and Forecast till 2026"
-    excerpt: "The AI in computer vision market is estimated to be valued at USD 15 9 billion in 2021 and reach USD 51 3 billion by 2026 at a CAGR of 26 3 The growing need for quality inspection and automation"
-    publishedDateTime: 2021-09-20T06:14:00Z
-    webUrl: "https://www.openpr.com/news/2398401/ai-in-computer-vision-market-growth-analysis-latest-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2398401/ai-in-computer-vision-market-growth-analysis-latest-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2398401/ai-in-computer-vision-market-growth-analysis-latest-trends"
+  - title: "AI in Automotive & Transportation: Global Market Outlook 2021-2026"
+    excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. According to the report,"
+    publishedDateTime: 2021-09-22T10:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/09/g23046975/ai-in-automotive-transportation-global-market-outlook-2021-2026"
+    ampWebUrl: "https://www.benzinga.com/amp/content/23046975"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23046975"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 48
-  - title: "Deep Learning In Drug Discovery Diagnostics Market Forecasted to Reach Value of Around US$ 18199.5 million by 2026"
-    excerpt: "Latest update report on Deep Learning In Drug Discovery Diagnostics Market Size Share Growth Industry Trends and Forecast by 2028 This report is highly predictive as it holds the overall market analysis of the topmost companies into the Deep Learning"
-    publishedDateTime: 2021-09-17T19:33:00Z
-    webUrl: "https://www.openpr.com/news/2397856/deep-learning-in-drug-discovery-diagnostics-market-forecasted"
-    ampWebUrl: "https://www.openpr.com/amp/2397856/deep-learning-in-drug-discovery-diagnostics-market-forecasted"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2397856/deep-learning-in-drug-discovery-diagnostics-market-forecasted"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 37
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
     images:
-      - url: "https://cdn.openpr.com/U/9/U917977786_g.jpg"
-        width: 643
-        height: 400
+      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Artificial Intelligence Market Report 2021, Share, Size, Trends and Forecast 2026"
     excerpt: "According to IMARC Group's latest report, titled“  Artificial Intelligence Market  : Industry Trends, Share, Size, Growth, Opportuni"
@@ -66,67 +55,20 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Self-Driving Taxi Market Share, Top Manufacturers, Growth Factor, Industry Size, Future Trends and Forecast till 2026"
-    excerpt: "The Self-Driving Taxi market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis,"
-    publishedDateTime: 2021-09-21T09:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-taxi-market-share-top-manufacturers-growth-factor-industry-size-future-trends-and-forecast-till-2026-2021-09-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Speakers Market Analysis by Emerging Growth Factors and Revenue Forecast to 2027 | Apple, Xiaomi, Huawei"
-    excerpt: "The report titled Global Artificial Intelligence AI Speakers Market is one of the most comprehensive and important additions to QY Research s archive of market research studies It offers detailed research and analysis of key aspects of the global Artificial"
-    publishedDateTime: 2021-09-21T11:35:00Z
-    webUrl: "https://www.openpr.com/news/2400877/artificial-intelligence-ai-speakers-market-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2400877/artificial-intelligence-ai-speakers-market-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2400877/artificial-intelligence-ai-speakers-market-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 21
-  - title: "Cognitive computing market forecast by 2026: Top factors that could boost markets in future"
-    excerpt: "The rising trend for production and supply chain optimization to bolster RoI through operational efficiencies and cost reduction. Cognitive solutions and services will help businesses streamline supply chain management."
-    publishedDateTime: 2021-09-22T08:25:00Z
-    webUrl: "https://www.globalbankingandfinance.com/cognitive-computing-market-forecast-by-2026-top-factors-that-could-boost-markets-in-future/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/cognitive-computing-market-forecast-by-2026-top-factors-that-could-boost-markets-in-future/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/cognitive-computing-market-forecast-by-2026-top-factors-that-could-boost-markets-in-future/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 14
-  - title: "Global AI in Automotive & Transportation Industry to 2026 - Burgeoning Demand for Autonomous Vehicles Accelerates Market Growth"
-    excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been"
-    publishedDateTime: 2021-09-21T15:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-ai-in-automotive--transportation-industry-to-2026---burgeoning-demand-for-autonomous-vehicles-accelerates-market-growth-301381520.html"
+  - title: "Global Drone Markets Report 2021-2026: Emerging Trends Include 5G Technology, Drone-In-A-Box, Blockchain, Computer Vision, Fog Computing & IoT"
+    excerpt: "The \"Global Drone Market Report 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The annual Drone Market Report"
+    publishedDateTime: 2021-09-21T10:48:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-drone-markets-report-2021-2026-emerging-trends-include-5g-technology-drone-in-a-box-blockchain-computer-vision-fog-computing--iot-301381301.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 11
+    quality: 18
     images:
       - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
         width: 800
         height: 419
         isCached: true
-  - title: "Content Intelligence Market Share 2021: Global Trends, Key Players, Industry Analysis and Report 2021-2027"
-    excerpt: "The global content intelligence market is anticipated to grow at a CAGR of 28 2 during the forecast period The increasing need for market intelligence and growing demand for audience interest analysis are the factors that are fueling the growth"
-    publishedDateTime: 2021-09-22T09:20:00Z
-    webUrl: "https://www.openpr.com/news/2402083/content-intelligence-market-share-2021-global-trends-key"
-    ampWebUrl: "https://www.openpr.com/amp/2402083/content-intelligence-market-share-2021-global-trends-key"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2402083/content-intelligence-market-share-2021-global-trends-key"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
 
 secured: "hgsB5xnbf+wEFdJADMFYZSN5D2WQIxJkfqze4kaiqZWEmZ/tMmaSEm6VcoGYUFMuNkPioXoqMYKl/O9Mp6q9psu/piZYnOXkLQfBo48LtlTVwDckvAmhVTr/pRzx3KCNrczn43NCB0Kf51a24uE1f9PI7/n8/y/EuvAAMx5mjGgUcXioD2jQSI10yJQaXwZgTcLcY/XtKnazjPc/kQ9A11Hz0zxYU8THAK3lSp+D3pNbbjt4L/OOYZrpLVlCBEE+mA7ZiMfPRdU4j9YcDRnJWSP+vV/ReRyWO+InrXZbPfYqc0shk9Mkg0lyfahf48jDyEQtkLNineXa70lDSrJvnkHAuMqpn9V6Ail+7ocn50E=;3AWAQlifNhUR+oHbqxpEhA=="
 ---

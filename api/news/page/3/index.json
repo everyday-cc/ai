@@ -2,6 +2,404 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-20-amazons-ai-powered-cameras-reportedly-punish-its-delivery-drivers-when-they-look-at-side-mirrors-or-when-other-cars-cut-them-off.md",
+      "title": "Amazon's AI-powered cameras reportedly punish its delivery drivers when they look at side mirrors or when other cars cut them off",
+      "excerpt": "Amazon drivers have been punished for looking at side mirrors, adjusting the radio, and being cut off in traffic by other people, Motherboard reports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/amazon-delivery-drivers-netradyne-ai-cameras-punished-when-cut-off-2021-9",
+      "originalUrl": "https://www.businessinsider.com/amazon-delivery-drivers-netradyne-ai-cameras-punished-when-cut-off-2021-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6148b4daca11af00192b05db?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/amazon-delivery-drivers-netradyne-ai-cameras-punished-when-cut-off-2021-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-delivery-drivers-netradyne-ai-cameras-punished-when-cut-off-2021-9?amp",
+      "publishedDateTime": "2021-09-20T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-adobes-new-marketing-ai-let-customer-cut-ad-spend-50-while-growing-sales-10.md",
+      "title": "Adobe’s New Marketing AI Let Customer Cut Ad Spend 50% While Growing Sales 10%",
+      "excerpt": "Do you spend at least $50 million a year in advertising? Adobe announced today that 80% of their marketing cloud customers are using AI to boost marketing ROI by personalizing customer experiences, creating better ads and emails,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2021/09/20/adobes-new-marketing-ai-let-customer-cut-ad-spend-50-while-growing-sales-10/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2021/09/20/adobes-new-marketing-ai-let-customer-cut-ad-spend-50-while-growing-sales-10/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6148b7eac3b40db800811729%2F0x0.jpg",
+          "width": 1200,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2021/09/20/adobes-new-marketing-ai-let-customer-cut-ad-spend-50-while-growing-sales-10/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2021/09/20/adobes-new-marketing-ai-let-customer-cut-ad-spend-50-while-growing-sales-10/amp/",
+      "publishedDateTime": "2021-09-20T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-locus-robotics-heralds-acquisition-of-waypoint-robotics.md",
+      "title": "Locus Robotics heralds acquisition of Waypoint Robotics",
+      "excerpt": "Locus Robotics, a leading provider of autonomous mobile robots (AMR) for fulfillment warehouses, today announced that it has acquired Waypoint Robotics, a leading provider of autonomous, omnidirectional mobile robots which can move and handle larger payloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.logisticsmgmt.com/article/locus_robotics_heralds_acquisition_of_waypoint_robotics",
+      "originalUrl": "https://www.logisticsmgmt.com/article/locus_robotics_heralds_acquisition_of_waypoint_robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sc247.s3.amazonaws.com/images/made/images/2021_article/LM2109_COVER_MastersOfLogistics_800p_350_200_bor1_b9b3be_s_c1.jpg",
+          "width": 352,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-20T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Logistics Management",
+        "domain": "logisticsmgmt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-scale-ml-feature-ingestion-using-amazon-sagemaker-feature-store.md",
+      "title": "Scale ML feature ingestion using Amazon SageMaker Feature Store",
+      "excerpt": "Amazon SageMaker Feature Store is a purpose-built solution for machine learning (ML) feature management. It helps data science teams reuse ML features across teams and models, serves features for model predictions at scale with low latency, and train and deploy new models more quickly and effectively.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scale-ml-feature-ingestion-using-amazon-sagemaker-feature-store/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scale-ml-feature-ingestion-using-amazon-sagemaker-feature-store/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/16/ML5751-image003.png",
+          "width": 928,
+          "height": 477,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-20T09:34:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars.md",
+      "title": "Ordinary Lowly Lampposts Aiming To Stand Tall For Bolstering AI Self-Driving Cars",
+      "excerpt": "Lampposts can do a lot more than merely provide light for our roadways, and efforts are underway to leverage lampposts for the advent of self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6094766e8d7cd811a0ed5a8d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1893%26cropY1%3D95%26cropY2%3D1160",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-09-20T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-step-into-a-successful-career-with-artificial-intelligence-machine-learning.md",
+      "title": "Step into a successful career with Artificial Intelligence & Machine Learning",
+      "excerpt": "Advanced technologies are in demand in every industry, thus upgrading oneself with new techno-friendly environment would be appreciable. It is opening a new path for technology career seekers in the Artificial Intelligence and Machine Learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/jobs&careers/step-into-a-successful-career-with-artificial-intelligence-machine-learning-313818",
+      "originalUrl": "https://www.tribuneindia.com/news/jobs&careers/step-into-a-successful-career-with-artificial-intelligence-machine-learning-313818",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/9/2021_9$largeimg_1807833861.jpg",
+          "width": 788,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tribuneindia.com/news/jobs&careers/step-into-a-successful-career-with-artificial-intelligence-machine-learning-313818",
+      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs&careers/step-into-a-successful-career-with-artificial-intelligence-machine-learning-313818",
+      "publishedDateTime": "2021-09-20T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-beef-up-your-knowledge-on-ai-and-machine-learning-with-this-expert-led-bundle.md",
+      "title": "Beef up your knowledge on AI and machine learning with this expert-led bundle",
+      "excerpt": "This AI machine learning bundle includes 79 hours of content on deep learning, machine learning, python in addition to other development tools.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/beef-up-your-knowledge-on-ai-and-machine-learning-with-this-expert-led-bundle",
+      "originalUrl": "https://thenextweb.com/news/beef-up-your-knowledge-on-ai-and-machine-learning-with-this-expert-led-bundle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FTNW-AI-Super-Bundle.jpeg&signature=812ae6959c43ac5f7abad714f7095389",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-20T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-how-to-prepare-for-the-coming-ai-explosion-in-business.md",
+      "title": "How To Prepare For The Coming AI Explosion In Business",
+      "excerpt": "AI has incredible potential to transform our world and to increase productivity, improve efficiency and solve problems that have henceforth been considered unsolvable. But is your business ready for the impending AI explosion?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/20/how-to-prepare-for-the-coming-ai-explosion-in-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/20/how-to-prepare-for-the-coming-ai-explosion-in-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6144ff239db00c099f537b2f%2F0x0.jpg",
+          "width": 1200,
+          "height": 857,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/20/how-to-prepare-for-the-coming-ai-explosion-in-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/09/20/how-to-prepare-for-the-coming-ai-explosion-in-business/amp/",
+      "publishedDateTime": "2021-09-20T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-20-4-stocks-to-benefit-from-continued-demand-for-ai.md",
       "title": "4 Stocks to Benefit From Continued Demand for AI",
       "excerpt": "Companies look set to increase their spending on AI to reap its myriad benefits, making it wise to look at names like NVIDIA (NVDA), Microsoft",
@@ -201,6 +599,39 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-altana-ai-raises-15m-series-a-investment-to-build-the-single-source-of-truth-on-the-global-supply-chain.md",
+      "title": "Altana AI Raises $15M Series A Investment to Build the Single Source of Truth On the Global Supply Chain",
+      "excerpt": "Altana AI has secured $15 million in Series A funding, led by GV (formerly Google Ventures). Floating Point, Ridgeline Partners, and",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/altana-ai-raises-15m-series-a-investment-to-build-the-single-source-of-truth-on-the-global-supply-chain-301379819.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/altana-ai-raises-15m-series-a-investment-to-build-the-single-source-of-truth-on-the-global-supply-chain-301379819.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-20T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -797,448 +1228,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-itri-aita-and-ucla-chips-forge-cooperation-on-ai-chip-development.md",
-      "title": "ITRI, AITA, and UCLA CHIPS Forge Cooperation on AI Chip Development",
-      "excerpt": "DoIT Science and Technology Advisor Xian-Yi Lin stated that the DoIT supports ITRI, ATIA, and UCLA CHIPS in inking a collaborative agreement, which will help the parties quickly grasp international system specification trends in the areas of design,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/itri-aita-and-ucla-chips-forge-cooperation-on-ai-chip-development-1030806889",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/itri-aita-and-ucla-chips-forge-cooperation-on-ai-chip-development-1030806889",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1628526/Photo_20210917.jpg",
-          "width": 400,
-          "height": 289,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-17T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-hinge-health-acquires-the-most-advanced-computer-vision-technology-for-tracking-human-motion.md",
-      "title": "Hinge Health Acquires the Most Advanced Computer Vision Technology for Tracking Human Motion",
-      "excerpt": "Hinge Health, the world’s #1 Digital Musculoskeletal Clinic™, has acquired wrnch, developer of the leading computer vision platform for measuring human motion. wrnch’s three-dimensional motion-tracking technology enables the same precise tracking of full-body movement used by elite athletes and the motion picture industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.valdostadailytimes.com/news/business/hinge-health-acquires-the-most-advanced-computer-vision-technology-for-tracking-human-motion/article_0ae2d9e3-a0ff-5c30-beda-db3fd09d11ef.html",
-      "originalUrl": "https://www.valdostadailytimes.com/news/business/hinge-health-acquires-the-most-advanced-computer-vision-technology-for-tracking-human-motion/article_0ae2d9e3-a0ff-5c30-beda-db3fd09d11ef.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/8/a7/8a781877-c4e2-5795-bc6a-f62b66a436ce/6144795823a4b.image.jpg?resize=1120%2C630",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-17T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "valdostadailytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-2022-genesis-gv60-ev-to-arrive-with-facial-recognition-like-a-smartphone.md",
-      "title": "2022 Genesis GV60 EV to arrive with facial recognition like a smartphone",
-      "excerpt": "It seems the incoming 2022 Genesis GV60 EV will arrive with more than just love-it or hate-it styling, funky paint colors, and a mysterious floating oddity on the center console. In a recent",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/2022-genesis-gv60-ev-to-arrive-with-facial-recognition-like-a-smartphone-17691257/",
-      "originalUrl": "https://www.slashgear.com/2022-genesis-gv60-ev-to-arrive-with-facial-recognition-like-a-smartphone-17691257/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/09/genesis_gv_60_ev_017.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/2022-genesis-gv60-ev-to-arrive-with-facial-recognition-like-a-smartphone-17691257/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/2022-genesis-gv60-ev-to-arrive-with-facial-recognition-like-a-smartphone-17691257/amp/",
-      "publishedDateTime": "2021-09-17T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-face-recognition-device-market-future-scope-including-key-players-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc.md",
-      "title": "Face Recognition Device Market Future Scope including key players Airware, Inc., 3D Robotics, Dreamhammer Inc., Drone Volt, Dronedeploy Inc.",
-      "excerpt": "Get the inside scoop of the Sample Face Recognition Device report @: jcmarketresearch.com/report-details/1443230/sample Research Methodology while conducting the study of “Global Face Recognition Device Market Data Survey Report 2029” Secondary research Our Face Recognition Device industry analyst refer a broad array of industry sources for our secondary,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/",
-      "originalUrl": "https://manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/10-6-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/?amp=1",
-      "publishedDateTime": "2021-09-17T01:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-artificial-intelligence-for-accounting-market-research-report-includes-size-capacity-production-revenue-gross-margin-forecast-to-2027.md",
-      "title": "Artificial Intelligence for Accounting Market Research Report Includes Size, Capacity, Production, Revenue, Gross Margin, Forecast to 2027",
-      "excerpt": "Sep 17, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global Artificial Intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-research-report-includes-size-capacity-production-revenue-gross-margin-forecast-to-2027-2021-09-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-research-report-includes-size-capacity-production-revenue-gross-margin-forecast-to-2027-2021-09-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-16T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-googles-new-deep-learning-system-can-give-a-boost-to-radiologists.md",
-      "title": "Google’s new deep learning system can give a boost to radiologists",
-      "excerpt": "The deep learning system can help radiologists prioritize chest x-rays, and it can serve as a first response tool in emergency settings.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/16/googles-new-deep-learning-system-can-give-a-boost-to-radiologists/",
-      "originalUrl": "https://venturebeat.com/2021/09/16/googles-new-deep-learning-system-can-give-a-boost-to-radiologists/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Deep-learning-chest-radiography1.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/16/googles-new-deep-learning-system-can-give-a-boost-to-radiologists/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/16/googles-new-deep-learning-system-can-give-a-boost-to-radiologists/amp/",
-      "publishedDateTime": "2021-09-16T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-3-artificial-intelligence-stocks-to-buy-now.md",
-      "title": "3 Artificial Intelligence Stocks to Buy Now",
-      "excerpt": "We've put together a list of 3 artificial intelligence stocks to buy now to help investors make the right choices when adding exposure to this",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/385679",
-      "originalUrl": "https://www.entrepreneur.com/article/385679",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-385679.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/385679",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/385679",
-      "publishedDateTime": "2021-09-16T17:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-computer-vision-dev-platform-roboflow-raises-20m.md",
-      "title": "Computer vision dev platform Roboflow raises $20M",
-      "excerpt": "Roboflow, a Des Moines, Iowa-based startup developing tools for building computer vision models, today announced it has raised $20 million in a series A round led by Craft Ventures. This brings the company’s total raised to date to $22.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/16/computer-vision-dev-platform-roboflow-raises-20m/",
-      "originalUrl": "https://venturebeat.com/2021/09/16/computer-vision-dev-platform-roboflow-raises-20m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/computer-vision.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-16T15:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-ethics-and-social-issues.md",
-      "title": "Ethics and Social Issues",
-      "excerpt": "Elon Musk and Sam Altman worry that artificial intelligence will take over the world. So, the two entrepreneurs are creating a billion-dollar not-for-profit company...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aitrends.com/category/ethics-and-social-issues/page/26/",
-      "originalUrl": "https://www.aitrends.com/category/ethics-and-social-issues/page/26/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aitrends.com/wp-content/uploads/2019/04/AITrends_Square.png",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-16T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "aitrends",
-        "domain": "aitrends.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }
