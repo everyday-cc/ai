@@ -711,6 +711,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-10-dubai-eyes-the-future-with-self-driving-cabs.md",
+      "title": "Dubai eyes the future with self-driving cabs",
+      "excerpt": "aims to overhaul the taxi sector by employing artificial intelligence and smart systems. And as a step towards that, the RTA has already begun laying the groundwork by signing a partnership agreement with General Motors-backed Cruise to run driverless ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/uae/en/business/story/Dubai_eyes_the_future_with_selfdriving_cabs-SNG_241845934/",
+      "originalUrl": "https://www.zawya.com/uae/en/business/story/Dubai_eyes_the_future_with_selfdriving_cabs-SNG_241845934/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/images/cia/zAmp/210412111336ZRVZ.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/uae/en/story/amp/SNG_241845934/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_241845934/",
+      "publishedDateTime": "2021-09-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-microsoft-explores-machine-learning-in-space-with-aiml.md",
       "title": "Microsoft explores machine learning in space with AIML",
       "excerpt": "Microsoft joins the University of Adelaide’s Australian Institute for Machine Learning (AIML) to explore how machine learning can be used in space.",
@@ -752,6 +795,50 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-enterprise-artificial-intelligence-market-next-big-thing-major-giants-ibm-microsoft-aws-hpe.md",
+      "title": "Enterprise Artificial Intelligence Market Next Big Thing | Major Giants IBM, Microsoft, AWS, HPE",
+      "excerpt": "Latest Study on Industrial Growth of Worldwide Enterprise Artificial Intelligence Market 2021-2027. A detailed study accumulated to offer Latest insights about acute features of the Worldwide Enterprise Artificial Intelligence market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/271082758/enterprise-artificial-intelligence-market-next-big-thing--major-giants-ibm-microsoft-aws-hpe",
+      "originalUrl": "https://www.bignewsnetwork.com/news/271082758/enterprise-artificial-intelligence-market-next-big-thing--major-giants-ibm-microsoft-aws-hpe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/cus1632214028757.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-09T16:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1075,91 +1162,6 @@
         "AI",
         "AI Hardware",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-biobest-makes-investment-in-robotics-and-artificial-intelligence.md",
-      "title": "Biobest Makes Investment in Robotics and Artificial Intelligence",
-      "excerpt": "Along with Biobest’s $10 million investment in ecoation, the companies are also joining forces to develop new IPM-related technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.greenhousegrower.com/production/biobest-makes-investment-in-robotics-and-artificial-intelligence/",
-      "originalUrl": "https://www.greenhousegrower.com/production/biobest-makes-investment-in-robotics-and-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.greenhousegrower.com/greenhousegrow/wp-content/uploads/2021/07/Ecoation-OKO-Platform.jpg",
-          "width": 896,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.greenhousegrower.com/production/biobest-makes-investment-in-robotics-and-artificial-intelligence/?amp",
-      "cdnAmpWebUrl": "https://www-greenhousegrower-com.cdn.ampproject.org/c/s/www.greenhousegrower.com/production/biobest-makes-investment-in-robotics-and-artificial-intelligence/?amp",
-      "publishedDateTime": "2021-09-09T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Greenhouse Grower",
-        "domain": "greenhousegrower.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-update-on-artificial-intelligence-court-rules-that-ai-cannot-qualify-as-inventor.md",
-      "title": "Update on Artificial Intelligence: Court Rules that AI Cannot Qualify As “Inventor”",
-      "excerpt": "Striking a blow to patent applicants seeking to assert inventorship by artificial intelligence (“AI”) systems, the U.S. District Court for the Eastern District of Virginia ruled on Septemb",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/update-artificial-intelligence-court-rules-ai-cannot-qualify-inventor",
-      "originalUrl": "https://www.natlawreview.com/article/update-artificial-intelligence-court-rules-ai-cannot-qualify-inventor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/update-artificial-intelligence-court-rules-ai-cannot-qualify-inventor?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/update-artificial-intelligence-court-rules-ai-cannot-qualify-inventor?amp",
-      "publishedDateTime": "2021-09-09T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

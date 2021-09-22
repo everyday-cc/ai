@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-08-what-you-need-to-know-about-facial-recognition-home-security-cameras.md",
+      "title": "What you need to know about facial recognition home security cameras",
+      "excerpt": "As facial recognition technology becomes more prevalent in home security cameras, it's important to understand what it is and how it's used. Here, we break it all down.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
+      "publishedDateTime": "2021-09-07T23:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-computer-and-human-vision-perspectives.md",
       "title": "Computer and Human Vision Perspectives",
       "excerpt": "The result of a series of four highly successful workshops on the topic, the book gathers many of the most distinguished researchers from both computer and human vision to reflect on their experience, identify open problems, and foster a cross-disciplinary ...",
@@ -1354,50 +1398,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-us-federal-agencies-plan-to-increase-facial-recognition-use-gao-report-says.md",
-      "title": "US federal agencies plan to increase facial recognition use, GAO report says",
-      "excerpt": "Three-quarters of U.S. federal agencies surveyed for a Government Accountability Office (GAO) report are already using facial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gao.gov/products/gao-21-526",
-      "originalUrl": "https://www.biometricupdate.com/202108/us-federal-agencies-plan-to-increase-facial-recognition-use-gao-report-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 218,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gao.gov/assets/styles/hero_l/public/extracts/c1917b8fbd51f63d6fde064a0ffb86f1/d21526-FF-Image.png?itok=U7z95JiA",
-          "width": 1400,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Natural Language Processing"
       ]
     }
   ],

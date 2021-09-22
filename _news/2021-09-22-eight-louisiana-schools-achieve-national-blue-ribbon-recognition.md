@@ -9,7 +9,7 @@ ampWebUrl: "https://wgno.com/news/louisiana/eight-louisiana-schools-achieve-nati
 cdnAmpWebUrl: "https://wgno-com.cdn.ampproject.org/c/s/wgno.com/news/louisiana/eight-louisiana-schools-achieve-national-blue-ribbon-recognition/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,38 @@ images:
     width: 1280
     height: 853
     isCached: true
+
+related:
+  - title: "7 Kentucky schools get national recognition"
+    excerpt: "Seven Kentucky schools have been named National Blue Ribbon Schools for 2021, the U.S. Department of Education said. The recognition is based on a school’s academic performance or its progress in closing achievement gaps,"
+    publishedDateTime: 2021-09-22T08:11:00Z
+    webUrl: "https://www.nhregister.com/news/article/7-Kentucky-schools-get-national-recognition-16478038.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/7-Kentucky-schools-get-national-recognition-16478038.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/7-Kentucky-schools-get-national-recognition-16478038.php"
+    type: article
+    provider:
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 44
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Informed Solutions recognised as a great inspiration"
+    excerpt: "Informed Solutions has received national recognition for its response to the Coronavirus pandemic by being named as one of the faces of the UK government’s “GREAT Inspirations” campaign launched today."
+    publishedDateTime: 2021-09-22T09:36:00Z
+    webUrl: "https://digileaders.com/informed-solutions-recognised-as-a-great-inspiration/"
+    type: article
+    provider:
+      name: Digital Leaders
+      domain: digileaders.com
+    quality: 24
+    images:
+      - url: "https://digileaders.com/wp-content/uploads/2021/09/informed-solutions-liz-vega-1001170-0035-edit.jpg"
+        width: 700
+        height: 674
+        isCached: true
 
 secured: "g7E7gpeYhCwVk/gscC26U43cwVz/4lCfYAhviF7En37+xiY3tDNqBnQF2qtcUU+t5zgWqWvnn/8MbNDx8lOxlDKJXIY4/A5DmAmFS+QfP9mKaVlEiwugu9uSSgbhxh1PFExK9A1A42aAQ+Yb62g5fhHbXnhLVFtCGe4Bb9DiZ19PjE2ijiwH+xHsWiVEx1Xg2JYM+g2XXm8u7/ETWtlO0F9qbC05GN0tvcJ+sFuuZVXM9ajVRfKrOj1QSuDGnU0QB3s7IG/e/UHkQ9K9kaMrVhYjnS7P8wMIl7Hom81vMaT4WF2DMyh/0RbN2nBGapYZi0WQD6WWfgR9pfrB/DfjaVNIJqhfpskPzEqaZ3WDy6Hhbta1t+ouroDhLb0BW0zBu+GWLynnOkCgRutMI28Ji9lDAeM7RkH7a6R6836SD20pxKOoNEf9oDq5J1xebT3O0zQDue0sYGsna1VXa1wyWwkKvOOJXf/eloDbl+v9lk8k7UXrjHST3KyYN8f8WwmlU6GCwKv8ND/eoiVwH5t7nA==;uvZUsZMjsg8ZiMfct8UrAA=="
 ---

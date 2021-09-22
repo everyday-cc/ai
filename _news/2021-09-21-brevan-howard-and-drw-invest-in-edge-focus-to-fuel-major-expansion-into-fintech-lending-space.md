@@ -2,22 +2,28 @@
 category: news
 title: "Brevan Howard and DRW Invest in Edge Focus to Fuel Major Expansion Into Fintech Lending Space"
 excerpt: "Edge Focus, a technology company that applies machine learning and artificial intelligence to analyze credit, has entered into a strategic partnership with prominent hedge fund Brevan Howard and global quantitative trading firm DRW."
-publishedDateTime: 2021-09-21T15:00:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-brevan-howard-drw-invest-edge-focus-fuel-major-/2021/09/21/9453512.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-brevan-howard-drw-invest-edge-focus-fuel-major-/2021/09/21/9453512.htm"
+publishedDateTime: 2021-09-21T14:58:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-new-york-artificial-intelligence-666bdd9483494b06a72eda37f6b36e93"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-new-york-artificial-intelligence-666bdd9483494b06a72eda37f6b36e93"
 type: article
-quality: 0
-heat: 0
+quality: 13
+heat: 13
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "SvbV5yVYXUsdN+BIKUEoDMfnJzEpLR0Bi++IesObrXVVTAV9kUDu45MsAcemDN8LiMokY8agoWZ3+lxvoums5SEt3vB808po/nAAtxVMD908SKXsWNTJNu+MiGCNMP5SVelK5HG4vWASH8sAL9GdrjDkaCRVZbqu7azod1qTERDwW0ww1PTPX2g+sGCOJPgNNrKM+idSlKKEqXPhRXroML0SS1z3dMgzMk74rgCFNsVqD9EDzLRXf0MPFp5R4rQKkn0xP563d+m4S+yIpTaf+Ih4Dg3aX7WT5NaE1O3vn8fCGaD8mCLJEE1tP8RKJ0PzZI9vovHmyFONczFvBRyQ9+PTpaO1FzfdnQwa4m4vZ0Y=;rIPnQMHo0+FavkhX+/Rmkw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "Q3ATFKX0c4vNBGzePx/Rc/GCNEP87N0c2WSK9xdihPO39/c4ZnygjSIjtvSD2h3M4Qu55BUvf3psPwiJZKnt68bt7FFQlqk2NIPBX4C95kMNsaPKiF5vDsUH2gVRmpdftNg2g4QaY2+m03tY1qe3+FZzoq/CeIRBGa0MVcGqJOUDXUBhTEd+IySk0/Ky8XiLyOqgTInGvHr8MFY+pxEowh/LJ/b88JDk5u5wPu55xmnl2uYw7P2xVa8yJ1dfPFGWK3ZxoprWX9TY4m8Iw8E/sryVzkvdhvnf8UmxJ7irmqoOOyyHxPBymz7vSZwRzBpBaFG9lIVSSf7xZyJf3mr6SvxikbILSnjf7WMTpMT8l8c=;2i3UubU0PN6wm84+1S75QA=="
 ---
 

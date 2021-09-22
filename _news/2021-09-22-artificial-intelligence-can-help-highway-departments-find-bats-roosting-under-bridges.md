@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence can help highway departments find bats roosting under bridges"
-excerpt: "Bridge inspectors will test whether an AI-based screening tool can help identify and document the presence of bats with greater confidence."
-publishedDateTime: 2021-09-21T18:49:00Z
-originalUrl: "https://gcn.com/articles/2021/09/21/ai-bat-roost-bridge-inspection.aspx"
-webUrl: "https://gcn.com/articles/2021/09/21/ai-bat-roost-bridge-inspection.aspx"
+excerpt: "Photographs and computer vision techniques using artificial intelligence are able to detect the presence of bats on bridges automatically with over 90% accuracy, according to our new study. More than 40 species of bats are found in the U."
+publishedDateTime: 2021-09-22T08:59:00Z
+originalUrl: "https://www.outlookindia.com/newsscroll/artificial-intelligence-can-help-highway-departments-find-bats-roosting-under-bridges/2164664"
+webUrl: "https://www.outlookindia.com/newsscroll/artificial-intelligence-can-help-highway-departments-find-bats-roosting-under-bridges/2164664"
+ampWebUrl: "https://www.outlookindia.com/newsscroll/amp/artificial-intelligence-can-help-highway-departments-find-bats-roosting-under-bridges/2164664"
+cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/artificial-intelligence-can-help-highway-departments-find-bats-roosting-under-bridges/2164664"
 type: article
-quality: 30
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: GCN
-  domain: gcn.com
+  name: Outlookindia
+  domain: outlookindia.com
 
 topics:
   - AI
 
 images:
-  - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cities/bats_Austin.jpg"
-    width: 760
-    height: 368
+  - url: "https://images.outlookindia.com/public/home_stories/46b8bf407da0a467ee5786239b1bb0d2_233_350.jpg"
+    width: 350
+    height: 233
     isCached: true
 
 related:
@@ -41,6 +43,6 @@ related:
         height: 336
         isCached: true
 
-secured: "nx7vJpKMx5njgb9buTuD4JI9Zo6N+sV2WYYPfP89LwgoFwD6V67okEUb6s+5sP1oXl7HOTbWdYNrcgVpw7DwZYYH/3ZRcTSBoRJflVn97R98fB+rbcd8ffe7GRVYOofL3+74dr4TeP5KPuTaodYiaUKXyH8DPon6aZJXZaR4SIGETOm5ak+fJIR9YtDUDXwcC8Y4tHv/bRZrUnRJACppaUS0XTM9CyR+Heap7vSpBRZ3vl0QnLX4zeZC07ocI02hdX4n1W4JX8MEQSCoBI2pcCTql4oM3lmE1/p6Rg+jZEVAgYoP+ytByKECSuOIi4FTxnl/AF3TkhIia9GpTqXOlDw3DXsSZN/gSnO95Wu1ajgKFyfTFV/+BEVaqkvhpM2P6hgxFfbaQXiAsQezpMowEc0CmlN+zf8KiJT3L9onGp0EyXRqlCkDzOyB55wzZAwP8ZQISh5NSfWoB3cW3gjk8TJVpFdG8LZazYVowZH5cqKu7/dzCaF7mNL6PBE/Nuy5qhz+TVDCOWCB8pz6pIdy6Q==;e+fE5NlMOjJjtRDrrVhBPw=="
+secured: "igkliU785/tvo9NBqL6DbHOvxMjohsaDchW2byY9KxEDPnbzTZn4VDEgvuRNAurA8VTCwukgKKm7DmNSlelnwanE6Gt8H7vbsCo8cDid2H4/WmTiSL/erT61DMqWJmx5h04Rwkkb6K4PP3nLfyVWsbCOYqw4hpmFllR3q1ixuqR7xjsdd+Rc7sHc+hpoZKAcsvxELVlUQ2vaZkYdJWiBp+a3L6qu3NIxZexseMCtUdcVAUVIOlboLXyml7ZmBfYh+ZHu3x/wRNovOjpNYfmHIXSXBYLaPu7nctWRRzf5zOiLRtOoOch1MToHjpf2W2hjm39Xd/hDmgOtfeXNRYOuy81cgAwJt/63VuzQhhNAf5M=;fNQ94F+AArkmdYK1sqqhOw=="
 ---
 

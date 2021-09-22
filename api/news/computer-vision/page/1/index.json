@@ -201,7 +201,7 @@
       "originalUrl": "https://thenextweb.com/news/computer-vision-help-spot-cyber-threats-startling-accuracy-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -1289,36 +1289,36 @@
       ]
     },
     {
-      "path": "_news/2021-09-08-what-you-need-to-know-about-facial-recognition-home-security-cameras.md",
-      "title": "What you need to know about facial recognition home security cameras",
-      "excerpt": "As facial recognition technology becomes more prevalent in home security cameras, it's important to understand what it is and how it's used. Here, we break it all down.",
+      "path": "_news/2021-09-08-image-recognition-market-is-growing-at-a-cagr-of-188-to-reach-110-bn-by-2028.md",
+      "title": "Image Recognition Market is growing at a CAGR of 18.8% to reach $110 Bn by 2028",
+      "excerpt": "Based on the technique, the market has been segmented into object recognition, QR/ barcode recognition, pattern recognition, facial recognition, and optical character recognition. The object ...",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
+      "webUrl": "https://www.digitaljournal.com/pr/image-recognition-market-is-growing-at-a-cagr-of-18-8-to-reach-110-bn-by-2028",
+      "originalUrl": "https://www.digitaljournal.com/pr/image-recognition-market-is-growing-at-a-cagr-of-18-8-to-reach-110-bn-by-2028",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/08/Health-Worker-AFP-1K-01-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
-      "publishedDateTime": "2021-09-07T23:45:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-08T01:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1328,8 +1328,7 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI",
-        "AI in Security"
+        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/4b8a3a7d-76c3-4631-a36e-c306e25d0737"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/4b8a3a7d-76c3-4631-a36e-c306e25d0737"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 500
     height: 281
     isCached: true
+
+related:
+  - title: "UK sets out artificial intelligence strategy"
+    excerpt: "The government has outlined artificial intelligence (AI) plans as part of a push to position the UK as a global leader in the governance of AI technologies."
+    publishedDateTime: 2021-09-22T09:28:00Z
+    webUrl: "https://www.research-live.com/article/news/uk-sets-out-artificial-intelligence-strategy-/id/5089492"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5089492&name=uk-sets-out-artificial-intelligence-strategy-"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5089492&name=uk-sets-out-artificial-intelligence-strategy-"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 59
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
+        isCached: true
 
 secured: "M8g8kIfG6ONI8ejejBxNSns/YBbb2uOw5mH1hWLtbhnnLky3b+JHB/AOfWvg5+7wxYdkghwQmFmNdCLPRXchSFQcnDuSfMqU988kpg+B/Bm1f3DQnQs/BvEM40TcyqDjcxESN87jSx8lq3LvnSUq/IYZL8rpEeH+I31jEqJsQ4jAyyFeVwhs9ED5DCmTNSoU8vM7atN+hP1ZTjZCrVz3Mel7dqX2FIQfAUvqLbd+JTv/Dl7gN8hmzqQRa++1JhVUVFiu+2aP/Cib0KwUHiVrNWMailW0RnIZx0wMXkdkWFhh0sZOOO9u8CKl0tl5hlXJT1xqdBu7zqmPuzkEi02s8vGKWDrSFdal6MCgPlgGHj4Z0X5wsRqZR5unbQP5QxQ8AMSBDzG6MDg3kr2h/vtWQTSzqA4Q0B/8bOSHOkAAERgObVpzucC8i/CrKoNY9JwJpiDpeE0fYJJaxQHQ+OtNO6FGbQkp4pHvpKMRqBAqWqMmfbVy55EsH8Iuo9C30ScJfNp9SLpCMaZudT+d/ZMb3g==;lghmg1pHM0SxxH32Z19zpw=="
 ---

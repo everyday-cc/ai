@@ -3,8 +3,8 @@ category: news
 title: "Machine Learning with Neural Networks"
 excerpt: "This modern and self-contained book offers a clear and accessible introduction to the important topic of machine learning with neural networks. In addition to describing the mathematical principles of the topic,"
 publishedDateTime: 2021-09-22T04:01:00Z
-originalUrl: "https://www.cambridge.org/je/academic/subjects/physics/statistical-physics/machine-learning-neural-networks-introduction-scientists-and-engineers?format=HB&isbn=9781108494939"
-webUrl: "https://www.cambridge.org/je/academic/subjects/physics/statistical-physics/machine-learning-neural-networks-introduction-scientists-and-engineers?format=HB&isbn=9781108494939"
+originalUrl: "https://www.cambridge.org/nc/academic/subjects/physics/statistical-physics/machine-learning-neural-networks-introduction-scientists-and-engineers?format=HB&isbn=9781108494939"
+webUrl: "https://www.cambridge.org/nc/academic/subjects/physics/statistical-physics/machine-learning-neural-networks-introduction-scientists-and-engineers?format=HB&isbn=9781108494939"
 type: article
 quality: 34
 heat: 34
@@ -18,6 +18,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "W3djrTiTzBfhx9LOYtemmwb9pw9YngdwuZFt0zrKk+bHOSISLK3TBUrJ8c0UGL80dOjwnauuLF3qA5PUWjBynYtd6aHj2ozmIutW/gEPEtHb1uDewyzYnAw+z/5w0rFLLX6wOTSe7NFeyu8EcyElbS252R6+N72plvcm2GeBmSNXDf2BrQ2w4c4ZV/l/+JzO/zKYbFJ7pKw/9QuDNTA7j1NA8vRbW9ye0rpo/9ydZ+/bF9MsB9xWRlILa1jqsNRjdFRDlzA+8No05kJ3UhPKchKsHkV6xW5F3usCqfqLwz2biM1McolxfPt++BeRVQoSq9rOLA4xEFfSorDlfnRTVtRj+HyRw9SSJNnjORwJ/+E=;PHMWS6h/PP4iPYVP7sZKDQ=="
+secured: "gqj62bl7Fs6jdqUfmhzmoPCf1i+VGAmW6xdYh+wUbppjbZnAJ3yVN6UEvL0/R3jU1R0udddzAVa3OIHRvO162nHw46AR8Q2N+U3z9Occa981XqOjWx2R66KcL4RRvn4WYmyfFBZPd/jpRx9EqWvJpUkuUV1sTgIJjuxRsDLCufEBjXUnb4gANHHCL0oOFwpUhxb05djvXR9EBK10SQGX++2GxTfBImfeE/pgyybGO1fxK744t36CxaokdwgufkEMjNqNBkZbCOprbBbvMJRPgxKTXmsu/euz/KHmc9qblXMN2G1GvWHGL0u2Sm0E3KcAycevu5HStuktsZuQk5cU/cm3Lf6xw/hM40+dnMmZRAI=;I+o8tJ01v7/QZxzkZdt8OQ=="
 ---
 

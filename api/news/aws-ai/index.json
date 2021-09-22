@@ -1033,6 +1033,50 @@
       ]
     },
     {
+      "path": "_news/2021-09-10-enterprise-artificial-intelligence-market-next-big-thing-major-giants-ibm-microsoft-aws-hpe.md",
+      "title": "Enterprise Artificial Intelligence Market Next Big Thing | Major Giants IBM, Microsoft, AWS, HPE",
+      "excerpt": "Latest Study on Industrial Growth of Worldwide Enterprise Artificial Intelligence Market 2021-2027. A detailed study accumulated to offer Latest insights about acute features of the Worldwide Enterprise Artificial Intelligence market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/271082758/enterprise-artificial-intelligence-market-next-big-thing--major-giants-ibm-microsoft-aws-hpe",
+      "originalUrl": "https://www.bignewsnetwork.com/news/271082758/enterprise-artificial-intelligence-market-next-big-thing--major-giants-ibm-microsoft-aws-hpe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/cus1632214028757.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-09T16:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-aws-and-bundesliga-to-debut-two-new-bundesliga-match-facts-for-the-202122-european-football-season.md",
       "title": "AWS and Bundesliga to Debut Two New Bundesliga Match Facts for the 2021–22 European Football Season",
       "excerpt": "Shot Efficiency and Passing Profile bring the total number of advanced statistics to eight, using AWS machine learning and analytics to give fans deeper insights into the game of football Today, Amazon Web Services (AWS),",
@@ -1347,59 +1391,6 @@
         "AI",
         "AWS AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-announcing-the-amazon-s3-plugin-for-pytorch.md",
-      "title": "Announcing the Amazon S3 plugin for PyTorch",
-      "excerpt": "Amazon S3 plugin for PyTorch is an open-source library which is built to be used with the deep learning framework PyTorch for streaming data from Amazon Simple Storage Service (Amazon S3). With this feature available in PyTorch Deep Learning Containers, you can take advantage of using data from S3 buckets",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-amazon-s3-plugin-for-pytorch/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-amazon-s3-plugin-for-pytorch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-07T10:24:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Facebook AI"
       ]
     }
   ],

@@ -30,17 +30,20 @@ images:
     isCached: true
 
 related:
-  - title: "How Square Is Using Artificial Intelligence and Machine Learning to Improve Cash App"
-    excerpt: "In today's video, I provide examples of deepfake AI technology and discuss how Square can leverage the acquisition to improve Cash App. The goal is to leverage the latest AI research to develop next-generation Cash App products."
-    publishedDateTime: 2021-09-17T15:30:00Z
-    webUrl: "https://www.nasdaq.com/articles/how-square-is-using-artificial-intelligence-and-machine-learning-to-improve-cash-app-2021"
-    ampWebUrl: "https://www.nasdaq.com/articles/how-square-is-using-artificial-intelligence-and-machine-learning-to-improve-cash-app-2021?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-square-is-using-artificial-intelligence-and-machine-learning-to-improve-cash-app-2021?amp"
+  - title: "Preparing for a future pandemic with artificial intelligence"
+    excerpt: "PNNL data scientists are refining their artificial intelligence tools with COVID-19 data to advance therapeutics and treatments for a future pandemic."
+    publishedDateTime: 2021-09-21T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/929144"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 79
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f476ded2-27fb-4113-98af-8426c375b9d0/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 225
+        isCached: true
   - title: "Preparing for a future pandemic with artificial intelligence"
     excerpt: "When the novel coronavirus led to a global pandemic last year, doctors and researchers rushed to learn as much as possible about the virus and how our bodies respond to it."
     publishedDateTime: 2021-09-21T20:07:00Z

@@ -91,6 +91,17 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Cognitive computing market forecast by 2026: Top factors that could boost markets in future"
+    excerpt: "The rising trend for production and supply chain optimization to bolster RoI through operational efficiencies and cost reduction. Cognitive solutions and services will help businesses streamline supply chain management."
+    publishedDateTime: 2021-09-22T08:25:00Z
+    webUrl: "https://www.globalbankingandfinance.com/cognitive-computing-market-forecast-by-2026-top-factors-that-could-boost-markets-in-future/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/cognitive-computing-market-forecast-by-2026-top-factors-that-could-boost-markets-in-future/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/cognitive-computing-market-forecast-by-2026-top-factors-that-could-boost-markets-in-future/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 14
   - title: "Global AI in Automotive & Transportation Industry to 2026 - Burgeoning Demand for Autonomous Vehicles Accelerates Market Growth"
     excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been"
     publishedDateTime: 2021-09-21T15:15:00Z
@@ -116,6 +127,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 6
+  - title: "Content Intelligence Market Share 2021: Global Trends, Key Players, Industry Analysis and Report 2021-2027"
+    excerpt: "The global content intelligence market is anticipated to grow at a CAGR of 28 2 during the forecast period The increasing need for market intelligence and growing demand for audience interest analysis are the factors that are fueling the growth"
+    publishedDateTime: 2021-09-22T09:20:00Z
+    webUrl: "https://www.openpr.com/news/2402083/content-intelligence-market-share-2021-global-trends-key"
+    ampWebUrl: "https://www.openpr.com/amp/2402083/content-intelligence-market-share-2021-global-trends-key"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2402083/content-intelligence-market-share-2021-global-trends-key"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
 secured: "i5pX/ImUQtnCx6OHP/ihjZSzVr4GLTGj00MZwQIBzKxj0F/w75dnir4+i/Z4OcxRtFppX/RM+mTE6aBAK1cCS09BNoCccosZLLuplNiigs0r7u9sGxdHSJXrLhItFFcXQ7IFlr4YWoaJjAKYdqSE6KGT8cm7uU5oNeAosZjKx50AcNbsSu41YPqYMoHNyDaaElcFm1jhVUnv3H1sKQoHMdsdZmUpXvx7+KsfZEln/tdq96nGMXD/u1NTy9yN4M7mFM+Llb0yHsek6zlAuUZR7IniA0p2sgDo+lyCJ78sTii5T1SBgu8qEEpazKhnQjOVF0Vc0qu9GXywrmeBiSOy5CvvT4hoeRM+oKR87Sl22O6gilgfoHWRAIt72cLoepCtFxMc8cVL1D+t/UM3IXtsU3XOJg/k3ZcvbkO5NiVjt4wNjvfLpnMHS5uZGJ0E3m8gcQas4a8lrYmVjCIpvjlTbSbz9j5qM+wDLPUiaI761w7bkuzScURbMEJvNZAuRHKgEJ4pVzqq0JaxK0wcun9IBQ==;Plxh7m5nxCRuTlou+WkhNg=="
 ---

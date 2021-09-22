@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Dubai eyes the future with self-driving cabs"
-excerpt: "The upcoming Expo 2020 Dubai is set to showcase future mobility from different countries like the largest lift, hyperloop, an airship and the SpaceX"
-publishedDateTime: 2021-09-10T10:28:00Z
-originalUrl: "https://menafn.com/1102772203/Dubai-eyes-the-future-with-self-driving-cabs&source=246"
-webUrl: "https://menafn.com/1102772203/Dubai-eyes-the-future-with-self-driving-cabs&source=246"
+excerpt: "aims to overhaul the taxi sector by employing artificial intelligence and smart systems. And as a step towards that, the RTA has already begun laying the groundwork by signing a partnership agreement with General Motors-backed Cruise to run driverless ..."
+publishedDateTime: 2021-09-10T00:00:00Z
+originalUrl: "https://www.zawya.com/uae/en/business/story/Dubai_eyes_the_future_with_selfdriving_cabs-SNG_241845934/"
+webUrl: "https://www.zawya.com/uae/en/business/story/Dubai_eyes_the_future_with_selfdriving_cabs-SNG_241845934/"
+ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_241845934/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_241845934/"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-09/10/KT_8f371image_story.jpg"
-    width: 618
-    height: 348
+  - url: "https://images.zawya.com/images/cia/zAmp/210412111336ZRVZ.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
-secured: "eRGShaNsg5YK4wMhYiH98BTAdRrGFAyol2yv+wk72+naVCr7bBwiYSRpbIZ//XDD2ueVsCm88r7gQQTv4yifED9DXkpKsDoo3FCk560maFEHcKHOhTJ/jq0279wEge85kh81NUgvSIxEB3nbUaurfVz3ey4+RRBZ7tyLDsmEUr5ztiEQR/QrbJAex0JC9Hy7qgbxATE+Anryp9lX6tfEksz2InQIIdoYzbtDviF/PA3u/YS5kZUhETwO+pANvf5ghF49x9A91FC5osnO/ilU1sawpYGY7+uJFU/uA2SFH3EStwi6Bkzo3dv/W7jDDEWqlaNVWYAIpGxZ9B8MyiGgDBexuMmEy1VvIydQqk4HERw=;XJFlLUsaEBCwTNealNkHIA=="
+secured: "eaW5d5Gt+cQ3O5bKGnNZwKv9kMu6+soOuHgcR+1JbaVTvBqQICvcu7QyJdfsO/EnAal23LIXZk9l+GHZjtlAIrOm7cZk/6MxPMtJTdJjCgMAXaxQsGBXvawFmSwfYU+OcAAcpVRUVoDxkSRfYeWEw+kh8EMUP7jSb5Cykdpii7sov7oy7dKP96meY7agbEehbAjxA2Ta0k3Gh0b3xWmAqs3hVFsulkQ0J9uJ7IPt8FqHBuTffshETAsnXUwa4RqriJ3nsdHLUHVEyEjf0WON6mrrjHiQ9qzvGrq9+k6w0xm8DgAoIDddahgCI6puv5yB/j2fA7KhhIP3DBJUW9yRfg6WqESke+EgwF+3ckrK39E=;tqoF6YENcmSah0FyhfuhLw=="
 ---
 

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-03-artificial-intelligence-in-accounting-market-major-competitor-and-strategies-analysis-aws-microsoft-intuit.md",
+      "title": "Artificial Intelligence in Accounting Market Major Competitor and Strategies Analysis| AWS, Microsoft, Intuit",
+      "excerpt": "Pune, Maharashtra, India, September 3 2021 (Wiredrelease) MarketResearch.Biz –:Global Artificial Intelligence in Accounting Market Analysis to 2021-2030 By MarketResearch.Biz is a specialized ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-accounting-market-major-competitor-and-strategies-analysis-aws-microsoft-intuit",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-accounting-market-major-competitor-and-strategies-analysis-aws-microsoft-intuit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/06/Cybercrime-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-02T23:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-03-microsoft-helps-protect-amazon-rainforest-with-ai-project.md",
       "title": "Microsoft helps protect Amazon rainforest with AI project",
       "excerpt": "Microsoft has partnered with environmental groups to create an artificial intelligence (AI) -based tool that could help to stop deforestation in the Amazon rainforest. The tool, called PrevisIA, uses machine learning to spot possible trends in forest conversion from deforestation.",
@@ -1346,49 +1390,6 @@
       "provider": {
         "name": "manometcurrent.com",
         "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-accelerators-in-india-microsoft-accelerator-gets-14-startups-for-11th-cohort.md",
-      "title": "Accelerators In India: Microsoft Accelerator Gets 14 Startups For 11th Cohort",
-      "excerpt": "The startups will also adopt Microsoft Azure, to make use of its advanced cloud services in areas such as big data, IoT, advanced analytics and cognitive services. This time around, the Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/microsoft-accelerator-11-startups/",
-      "originalUrl": "https://inc42.com/buzz/microsoft-accelerator-11-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2017/08/MS-Accelerator_11th-cohort.jpg",
-          "width": 1000,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/microsoft-accelerator-11-startups/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/microsoft-accelerator-11-startups/amp/",
-      "publishedDateTime": "2021-08-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
         "images": null,
         "publishers": null,
         "authors": null
