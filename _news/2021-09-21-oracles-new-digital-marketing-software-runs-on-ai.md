@@ -55,7 +55,7 @@ related:
     provider:
       name: Business 2 Community
       domain: business2community.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://cdn.business2community.com/wp-content/uploads/2021/09/corporate-management-strategy-solution-branding-concept-900x546.jpg"
         width: 900

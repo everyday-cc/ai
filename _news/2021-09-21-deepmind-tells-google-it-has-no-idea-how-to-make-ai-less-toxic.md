@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/deepmind-tells-google-no-idea-make-ai-
 webUrl: "https://thenextweb.com/news/deepmind-tells-google-no-idea-make-ai-less-toxic"
 type: article
 quality: 84
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind Paper Provides Insights on Detoxifying Large Language Models"
+    excerpt: "Large language models (LMs) have become much larger and more powerful in recent years, achieving remarkable results across natural language processing (NLP) tasks such as text generation, translation,"
+    publishedDateTime: 2021-09-22T14:02:00Z
+    webUrl: "https://syncedreview.com/2021/09/22/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-109/"
+    ampWebUrl: "https://syncedreview.com/2021/09/22/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-109/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/09/22/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-109/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 59
+    images:
+      - url: "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/09/image-87.png?w=950&ssl=1"
+        width: 551
+        height: 372
+        isCached: true
   - title: "DeepMind’s Bootstrapped Meta-Learning Enables Meta Learners to Teach Themselves"
     excerpt: "Learning how to learn is something most humans do well, by leveraging previous experiences to inform the learning processes for new tasks. Endowing AI systems with such abilities however remains challenging,"
     publishedDateTime: 2021-09-20T14:20:00Z

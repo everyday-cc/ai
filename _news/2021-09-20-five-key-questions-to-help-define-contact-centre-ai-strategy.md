@@ -7,7 +7,7 @@ originalUrl: "https://telecoms.com/opinion/five-key-questions-to-help-define-con
 webUrl: "https://telecoms.com/opinion/five-key-questions-to-help-define-contact-centre-ai-strategy/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 770
     height: 285
     isCached: true
+
+related:
+  - title: "Insurance group QBE to provide jobs boost for Leeds after establishing centre for artificial intelligence and robotics"
+    excerpt: "The insurance group QBE plans to provide a jobs boost for Yorkshire after establishing a centre for artificial intelligence and robotics innovation."
+    publishedDateTime: 2021-09-22T14:49:00Z
+    webUrl: "https://www.yorkshirepost.co.uk/business/insurance-group-qbe-to-provide-jobs-boost-for-leeds-after-establishing-centre-for-artificial-intelligence-and-robotics-3392735"
+    type: article
+    provider:
+      name: The Yorkshire Post
+      domain: yorkshirepost.co.uk
+    quality: 45
+    images:
+      - url: "https://www.yorkshirepost.co.uk/webimg/QVNIMTIyNTUwNDc2.jpg?width=2048&enable=upscale"
+        width: 2048
+        height: 1536
+        isCached: true
 
 secured: "47xhH+r9jqUbQYHuSLg6aeGg5elxfAVUXeT4IlHGgzI1LXwdv5X9mPffSB3xVOS0m0q4g03ZchWTQp736OIu5RSZrk6PkGx4WxoR9ZuqOO6DpdumDhIHQmJVsFPQmv+S/WcuVZjcmO/NPVZpJsan1fpxiKzknRa+aoncg6nTZL9/ApM/G1fOXOFpswskG5aMh5CrifqPzmHJmqWhSKtY/R3xT/cA6xLGenKytmn5rSYzjo5DQYGmYRAltdNWHpK0s7a0AqzCVb2HsygGEe3bynPgRMsxEI7d3dbCeuOI9s8w+5MypEXnrlRTOLao7aEMSArisJntQ22H1oD+M7UK6QRBJ/eN94kW/wgMDZB71LyB2O0zyRB91rJEzC7bk/VhCJ9TY1mYVgx2aAnWJ485UfPRZkYncbDVvd6LR9fezROyC2NCe2H2S2bNnUn8lNe9Bx6FxZgQs+ZElf6Mx6wB4fY6Xo5h3uvKkacv7l6WKQ5e37Ae3CYg0VFLDoCNACIm9oSW1Nw0BI7OztniRVWOaQ==;nbn9uGv4dOZIKI3VcRAX9Q=="
 ---

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-22-software-ai-accelerators-ai-performance-boost-for-free.md",
+      "title": "Software AI accelerators: AI performance boost for free",
+      "excerpt": "Sponsored Presented by Intel The exponential growth of data has fed artificial intelligence’s voracious appetite and led to its transformation from niche to omnipresent.  An equally important aspect of this AI growth equation is the ever-expanding demands it places on computer system requirements to deliver higher AI performance.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/22/software-ai-accelerators-ai-performance-boost-for-free/",
+      "originalUrl": "https://venturebeat.com/2021/09/22/software-ai-accelerators-ai-performance-boost-for-free/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1312574816.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 586,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/22/software-ai-accelerators-ai-performance-boost-for-free/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/22/software-ai-accelerators-ai-performance-boost-for-free/amp/",
+      "publishedDateTime": "2021-09-22T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-16-valuable-benefits-machine-learning-can-bring-to-small-businesses.md",
       "title": "16 Valuable Benefits Machine Learning Can Bring To Small Businesses",
       "excerpt": "There are plenty of tangible benefits small businesses can receive from leveraging the latest ML tools—in many cases with minimal cost and effort.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/22/16-valuable-benefits-machine-learning-can-bring-to-small-businesses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -50,7 +102,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -1357,49 +1410,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-interview-with-nitin-aggarwal-technical-pm-at-google-cloud-ai.md",
-      "title": "Interview With Nitin Aggarwal, Technical PM At Google Cloud AI",
-      "excerpt": "I'm a senior Technical Program Manager(PM) with the Cloud AI services team. I lead teams to build products/solutions for our customers.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/interview-nitin-aggarwal-google-cloud-ai/",
-      "originalUrl": "https://analyticsindiamag.com/interview-nitin-aggarwal-google-cloud-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/09/nitin-aggarwal-google-cloud-interview.jpeg",
-          "width": 1601,
-          "height": 901,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T22:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

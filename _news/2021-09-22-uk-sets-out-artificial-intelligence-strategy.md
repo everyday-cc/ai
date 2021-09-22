@@ -9,8 +9,8 @@ ampWebUrl: "https://www.research-live.com/amp-page.html?id=5089492&name=uk-sets-
 cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5089492&name=uk-sets-out-artificial-intelligence-strategy-"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: research
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "UK announces a national strategy to ‘level up’ AI"
+    excerpt: "The UK government has announced a national AI strategy — its first dedicated package aimed at boosting the country’s capabilities in and around machine learning technologies over the longer term. It says it hopes the strategy will lead to an increase in the number and types of AIs"
+    publishedDateTime: 2021-09-22T15:41:00Z
+    webUrl: "https://techcrunch.com/2021/09/22/uk-announces-a-national-strategy-to-level-up-ai/"
+    ampWebUrl: "https://techcrunch.com/2021/09/22/uk-announces-a-national-strategy-to-level-up-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/uk-announces-a-national-strategy-to-level-up-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1136663877.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "UK to develop AI strategy as part of tech sector push"
     excerpt: "Ministers are set to launch plans to develop British interests in artificial intelligence as part of a wider government push to support the tech sector this week. The AI strategy"
     publishedDateTime: 2021-09-20T03:00:00Z
@@ -57,6 +73,15 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Embark Announces Advisory Board to Accelerate the Commercialization of its Self-Driving Technology"
+    excerpt: "Embark Trucks, Inc., a leading developer of autonomous technology for the trucking industry, today announced the formation of its strategic advisory board, a committee of distinguished trucking and supply chain executives that will guide Embark's rapid business expansion."
+    publishedDateTime: 2021-09-22T11:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-embark-announces-advisory-board-accelerate-commercialization-its-self-/2021/09/22/9454053.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "EAsQ6IUQR9XNt7p5d7acSG0ScV6+Orw38hGR0xmzJ1wBCsIqjqC1b/+LTLxuEfTeNK/tjJ70KTWn1QzURflVQW5ftginoGJqmmIPXyv6OXYOdpAy+5akAK+GBGWyvuPABSeEnrnek/cg7yC1mmrI/35mfy1oG2KKaTZw0KpEc3U5skWpSkXY2nTHftpOWkoRGjJTEhJHp2zt4xMRDxR0XwdOJVLbSRazw/gDzpbRiG9DeQTtOxMQjL7IqQUTL03yNt2LYD5CBCGD8mht8YmMh61KiVJvxCiT1dYWhSCK7FNrY+CWi7yHXVyxZOF6wjEycgVVF8LuXDq+NBEzq7iLwIFhd/xrZzYhG5dg5zpVeqOeW+nXECxF3p5xoaRe32Z6UYZMmo9AlaCy0NNAWaAPPH5CwHgh00PwYaaOmW1adZhbxtG+Xak8bBxfAZ/5IkuxtTANjl02yQcUPVqdCwXrvJiVM6KNUdmODPJyHZLkQyC0vvQiyzPunWG7ZvVyaElKp6+H3s1pDDjVjJCGHN/5Kg==;AEnULsbTe2bjZCO2Eg7nHg=="
 ---

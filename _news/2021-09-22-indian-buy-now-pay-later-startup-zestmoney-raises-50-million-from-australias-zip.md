@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/21/indian-buy-now-pay-later-startup-z
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/21/indian-buy-now-pay-later-startup-zestmoney-raises-50-million-from-australias-zip/amp/"
 type: article
 quality: 81
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1024
     height: 682
     isCached: true
+
+related:
+  - title: "Australia’s Zip Buys Minority Stake in India’s BNPL Startup ZestMoney"
+    excerpt: "Buy now pay later startup Zip purchased a $50 million minority stake in the Indian BNPL newcomer ZestMoney as part of a continuing Series C funding round."
+    publishedDateTime: 2021-09-22T15:30:00Z
+    webUrl: "https://www.pymnts.com/buy-now-pay-later/2021/australias-zip-buys-minority-stake-in-indias-bnpl-startup-zestmoney/"
+    ampWebUrl: "https://www.pymnts.com/buy-now-pay-later/2021/australias-zip-buys-minority-stake-in-indias-bnpl-startup-zestmoney/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/buy-now-pay-later/2021/australias-zip-buys-minority-stake-in-indias-bnpl-startup-zestmoney/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 42
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/09/ZestMoney-Zip-BNPL-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
 
 secured: "c1rkjks2MpniY6hVMwCH21si2B84/V7Uvoq1p115SeSM8SVGQnDsPaGFKEoi71f4hCpn6L5tFbfRnHAMISf2ZLnqRM86+ve41fK4FfAm9PXJXFViHZNArqgUqPqNaMl0Hkbjf/KzLxaVbECp0R4y6DsiSIj3gx8thfLVCSGxJC3Req9ChODWThNPcm3KZEx+9i2G3fjlZf1+Gfd2qjSwGDZzlF/VwvxDmmuPLF7mAewcJPSFLJdRMG8LahUl3SzvI8nPdJN0HedDgxes/dU/qkwchBmKbtnEIlNJxrSIkxUXr9B8Z75X0IqE8wY5gyH4DM7tm+nCsy/uBJRXK8k2GYsXLrzArKpklC9MwCWSFpLz5QIRyBNqtHvzJ5/vJn1qCVA/YsjzMKQW29QRbi+eGu/7oQLe8lLZ61TSgkbAVbOrIJ7QW98ab3WeLH8SMm609iceVYBoToeZNHXdl02oGzsCd76B3IWKJh7coxg7r0qvqvKojhxiy5fWfiohNqD9DNaqN/G7lFiIojKQK1OIIg==;H6X0azjm/j7zX+mcb9o/eA=="
 ---

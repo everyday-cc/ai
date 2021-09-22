@@ -2,6 +2,41 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-08-2-leveraged-plays-to-take-advantage-of-ai-in-the-transportation-sector.md",
+      "title": "2 Leveraged Plays to Take Advantage of AI in the Transportation Sector",
+      "excerpt": "A rtificial intelligence (AI) is already revolutionizing the transportation sector, putting a pair of Direxion Investments' leveraged exchange-traded funds (ETFs) on notice for traders to consider. From driverless applications to inter-connectivity between drivers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/2-leveraged-plays-to-take-advantage-of-ai-in-the-transportation-sector-2021-09-08",
+      "originalUrl": "https://www.nasdaq.com/articles/2-leveraged-plays-to-take-advantage-of-ai-in-the-transportation-sector-2021-09-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/2-leveraged-plays-to-take-advantage-of-ai-in-the-transportation-sector-2021-09-08?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-leveraged-plays-to-take-advantage-of-ai-in-the-transportation-sector-2021-09-08?amp",
+      "publishedDateTime": "2021-09-08T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-ai-self-driving-cars-and-the-looming-aggregated-statistical-trolley-dilemma.md",
       "title": "AI Self-Driving Cars And The Looming Aggregated Statistical Trolley Dilemma",
       "excerpt": "A worthwhile revisit of the infamous Trolley Problem associated with AI-based true self-driving cars and giving due consideration to scaling up toward the Statistical Trolley Dilemma.",
@@ -1387,49 +1422,6 @@
       "provider": {
         "name": "NBC News",
         "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023.md",
-      "title": "5% of Dubai Taxi's fleet to be self-driving cabs by 2023",
-      "excerpt": "By 2023, five per cent of Dubai Taxi’s fleet will be converted into self-driving cabs, the Roads and Transport Authority (RTA) said on Saturday. The RTA recently signed a partnership agreement with General Motors-backed Cruise to run driverless taxis and shared transport service in Dubai,",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023",
-      "originalUrl": "https://www.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://amp.khaleejtimes.com/storyimage/KT/20210828/ARTICLE/210829143/AR/0/AR-210829143.jpg&NCS_modified=20210829010133&MaxH=225&imageVersion=16by9",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023",
-      "cdnAmpWebUrl": "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023",
-      "publishedDateTime": "2021-08-28T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
         "images": null,
         "publishers": null,
         "authors": null

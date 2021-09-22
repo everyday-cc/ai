@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "UK announces a national strategy to ‘level up’ AI"
+    excerpt: "The UK government has announced a national AI strategy — its first dedicated package aimed at boosting the country’s capabilities in and around machine learning technologies over the longer term. It says it hopes the strategy will lead to an increase in the number and types of AIs"
+    publishedDateTime: 2021-09-22T15:41:00Z
+    webUrl: "https://techcrunch.com/2021/09/22/uk-announces-a-national-strategy-to-level-up-ai/"
+    ampWebUrl: "https://techcrunch.com/2021/09/22/uk-announces-a-national-strategy-to-level-up-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/uk-announces-a-national-strategy-to-level-up-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1136663877.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "UK sets out artificial intelligence strategy"
     excerpt: "The government has outlined artificial intelligence (AI) plans as part of a push to position the UK as a global leader in the governance of AI technologies."
     publishedDateTime: 2021-09-22T09:28:00Z
@@ -57,6 +73,15 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Embark Announces Advisory Board to Accelerate the Commercialization of its Self-Driving Technology"
+    excerpt: "Embark Trucks, Inc., a leading developer of autonomous technology for the trucking industry, today announced the formation of its strategic advisory board, a committee of distinguished trucking and supply chain executives that will guide Embark's rapid business expansion."
+    publishedDateTime: 2021-09-22T11:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-embark-announces-advisory-board-accelerate-commercialization-its-self-/2021/09/22/9454053.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "yriQLiClptyikIgUbdFadIwP6T5MQAA0R4NqGaDpLKGfdyknubJJRm6HRoH8iqadyk2L5utC1NdzhEQq0wbpR5Ve3zvIXMnf+AgZJMMb4mpxNq1lzfoDhosGWR96/vCiJsOevUEenBls5TulGvXNrxT2NGzc1ciUTAq6fG41w2Pm2Isbt4qsVaV8mJK1RkOUwdUSW3E9MHwFF9SgOjkhb/9++DmeZQP6pVLKod6hrDo58G0OwOzrcoevlRpBrUPlVkt/Gg/IGsWtVu28seQoNbLXhTVqevotRaf3EW6d1okT4kMfbKm35qqUH8Ao6PC7lpIc56rs3jchPCAHdPl36hfOvwA+Xl4DASZT1TTI6lWYWg0D4e7MLLR3J+EPx0JsD7PsQlM/uRL4O9QpYwVFBNR1dd4NjXS+9f+aGQkyVz7m+OjN/A0ZgdCm623RvlmzLJA7+pwRiixUauRvAqBmFIL1JBHZmLAiPHFksWuPsK/6v8XpZvl/7gRG67Tt2xQcR9oOGOGWL9J2h1jJf6qKpA==;qI1SI/v+LYjwW6J2ChKdPg=="
 ---

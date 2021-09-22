@@ -6,9 +6,6 @@ publishedDateTime: 2021-09-17T14:09:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-timekettle-m2-language-translator-earbuds-/2021/09/17/9451547.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-timekettle-m2-language-translator-earbuds-/2021/09/17/9451547.htm"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
   name: TMCnet
@@ -24,6 +21,6 @@ images:
     height: 247
     isCached: true
 
-secured: "EFX9nsJAtpDd60QB3aWXnIei3VHBzZwNiuguHXjfVsa7D1RUUdb68zz9EBjHVLu+OrI7QOd5m59xmJZF92c5v774+TsNKvfF7mJhJlmOZJLJEHBD+poVyrtCre5NtwrHg0AiN0EkQ/rmkswoKFchREtXPcBOjdblZ8HR4yJoDW5llFm8jLOYrx4A4bDB75EgzjlTf5EmgXad8iw/1DoItZuWVsWu8+4+yNxe/aZd47IF36RuY6+hnOJ51oT+GRo2JznGbzNKJJvtMQtLx/hXjjNRDVBGNAzpW24DsZzDZbz+qk1fk85Wap8DPcFXDsmkl14yrEt3jJE58Ba9qzcFQkEGRA753vVjenYYHvsr9EU8gX6w7Bm+iCtVX8Z5bf0kmFcHuZajjtHM64Dxfg2SLJ6j46ChpXBdXm6o6HdyP2TAALqa2lS/QM9fQH7Vum1zO0549yjUMJJyjM/SDLiezGodmMlFMBt2+63goGyjbqSYyzF1rBtgcAHZH7US4nUsZKbtdTpw2XYo6I3lc6jSJQ==;HtwlElPS+6UtopvujH0dvg=="
+secured: "1XbLb5VKNu/zceVzv5sqSckXHByRWqQawjwfWxLnMCZFmOVl3jE9PQZWKZW4Lk+96wOFz9Q1FdUSD8gSoe1CnDZLs9GDgFltgB+lAWHfP3Md/HMtCA4sgKEYVZM+jT4Tbh7b1hOrhyLWbYHkEItoOQHw1S8E+lzBLCIb/caKi+tp3tJoCeJYRpxE2U7bVgv6BLE0I2xYjqzTCHa2xdvijbmFc+6QhtD0Abzv9M10qWVgtXvG7cwW5dvYonHSMnyd4OOfQy5w9kLOZB6TxMSMHN81wmXBUUpQj4RzSBn1NyNG6yjwG9myFXPH3Bi0926ygX1hxIrd1+D62yF5Ik2jtjwwmJ9u/KTwQm2Rh7gl16w=;hUAsoghp6G2TPYKsUxQXpA=="
 ---
 

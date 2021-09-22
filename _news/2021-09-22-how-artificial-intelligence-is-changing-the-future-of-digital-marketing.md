@@ -8,7 +8,7 @@ webUrl: "https://www.business2community.com/digital-marketing/how-artificial-int
 ampWebUrl: "https://www.business2community.com/digital-marketing/how-artificial-intelligence-is-changing-the-future-of-digital-marketing-02432101/amp"
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/digital-marketing/how-artificial-intelligence-is-changing-the-future-of-digital-marketing-02432101/amp"
 type: article
-quality: 74
+quality: 76
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Marketing
+  - AI in Robotics
 
 images:
   - url: "https://cdn.business2community.com/wp-content/uploads/2021/09/corporate-management-strategy-solution-branding-concept-900x546.jpg"
@@ -86,6 +87,6 @@ related:
         height: 785
         isCached: true
 
-secured: "0/4pdKZ80KOkiMVFOBRiUyH4KnXAHLaWFZnEcQ7N67sNtO8KR/wrWkVM6G47dISGyeT47j3VrJo8ZQsC3p4I1GT1sdJWHDHsv9dW6U/Z5Q+S76J3+XH7MAL7uAwrPFkmGMs75UGQ9ixg6toLVvdsVIcalEO+BKnNYXaAEVpCo64JnpN2KLQxFom24xhHTabSIiAhQQa85st8gjwT9NqHloZuqPxL8B5/kYt2pDjMLINnHE61pf40o6RqKLCm6O8EsnrN/EyGaFU5lnJuqXGVaqZkdVWa6eaq8DMggRts6z/3hAAOmUuj8Fm8+vzjYo92PRiNTPu+tKt6G/+pLG99FOKxwgMc25DVj82RgN3G+aQ=;pFKnzFbdDD4vP2eHL8MHcg=="
+secured: "172MctGfP2dw6LHGMdlFxDEyju1zBqbBBfU0zVEYCqCOP9zXuAR5dyS1bGazFsBLodk3P/FR0/Flm79Pv+RwhNk4Vidhb6KarFcfenLw9SZDS191pcB+LoqJsi7n9uQ2NETp9+lg264raTMGkDwbXb3lgkjhe76poyNBZKJCoJCSkCa3Txpg8r5BrvgVgwivNvSvhzxr7WMVkt5b3DbSnkKLcPzHZA3ixg0VYEz+52kh9Jd4vPZYW9CdqMQiBf5Uhf9iYKWOnYUhr+XEPdxteFo9mwgmaFrlKRjEnywc07GCHNJWwTEon2hvsxuxtn3X/LnoG2rCYSP78k0Mg0zkmZB2JgqpEJ8WieF07xJMdWYOqnUQwFM8XuVQvCUgzlTDMjpG9V0Yfr6cbYQh+yDEkF6ztd6RTA7JxdG5kWSMB30vv9KQBi/yqtpKSu3O2W5SYAzl7QjRzGgRAkKbtI++UYTgdrt4Z36qMW6fmrqzldyuLV2JbsfARYSLtXV077OyKb6LcQjTMJKhho9J7UtAhQ==;KQr9kdGjTjr7VBJYMZ5NJw=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-22-new-ai-optimized-software-could-improve-nanoparticle-design-for-cancer-therapy.md",
+      "title": "New AI-Optimized Software Could Improve Nanoparticle Design for Cancer Therapy",
+      "excerpt": "The EVONANO platform developed at the University of Bristol enables scientists to develop virtual tumors and employ artificial intelligence to make automated optimization of the design of nanoparticles to treat the tumors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azonano.com/news.aspx?newsID=38168",
+      "originalUrl": "https://www.azonano.com/news.aspx?newsID=38168",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1otjdv2bf0507.cloudfront.net/images/news/ImageForNews_38168_16323085425165298.png",
+          "width": 700,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azonano.com/amp/news.aspx?newsID=38168",
+      "cdnAmpWebUrl": "https://www-azonano-com.cdn.ampproject.org/c/s/www.azonano.com/amp/news.aspx?newsID=38168",
+      "publishedDateTime": "2021-09-22T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZoNano",
+        "domain": "azonano.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-healthcare-ai-startup-endimension-raises-inr-23-cr-seed-round-from-inflection-point-ventures.md",
       "title": "Healthcare AI Startup Endimension Raises INR 2.3 Cr Seed Round From Inflection Point Ventures",
       "excerpt": "The funds raised will be utilised to acquire talent for new product development, R&D and for boosting the sales team to fuel further growth",
@@ -51,6 +94,49 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-artificial-intelligence-predicts-the-risk-of-metastatic-relapse-in-breast-cancer-patients.md",
+      "title": "Artificial intelligence predicts the risk of metastatic relapse in breast cancer patients",
+      "excerpt": "The RACE AI study conducted by Gustave Roussy and the startup Owkin, as part of the AI for Health Challenge organized by the Ile-de-France Region in 2019, was presented as a proffered paper at ESMO.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210921/Artificial-intelligence-predicts-the-risk-of-metastatic-relapse-in-breast-cancer-patients.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210921/Artificial-intelligence-predicts-the-risk-of-metastatic-relapse-in-breast-cancer-patients.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210921/Artificial-intelligence-predicts-the-risk-of-metastatic-relapse-in-breast-cancer-patients.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210921/Artificial-intelligence-predicts-the-risk-of-metastatic-relapse-in-breast-cancer-patients.aspx",
+      "publishedDateTime": "2021-09-21T19:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -376,19 +462,19 @@
     {
       "path": "_news/2021-09-15-nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data.md",
       "title": "NHS Artificial Intelligence provider reports 160% growth, promising to transform healthcare with better data",
-      "excerpt": "RwHealth, the leading provider of Artificial Intelligence to the healthcare industry, has reported 160% year-on-year growth as its",
+      "excerpt": "RwHealth, the leading provider of Artificial Intelligence to the healthcare industry, has reported 160% year-on-year growth as its data-led solutions are increasingly embraced by NHS trusts, private healthcare providers and pharmaceutical companies.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data-807973216.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data-807973216.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/-nhs-artificial-intelligence-provider-reports-160-growth-promising-/2021/09/15/9450012.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-nhs-artificial-intelligence-provider-reports-160-growth-promising-/2021/09/15/9450012.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1626850/Orlando_Agrippa.jpg?p=facebook",
-          "width": 5157,
-          "height": 2699,
+          "url": "https://mma.prnewswire.com/media/1626850/Orlando_Agrippa.jpg",
+          "width": 267,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -398,11 +484,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T08:59:00-07:00",
+      "publishedDateTime": "2021-09-15T09:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1248,86 +1334,6 @@
       "topics": [
         "AI in Finance",
         "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-europe-natural-language-processing-nlp-in-healthcare-market-analysis-2021-upcoming-threat-2028.md",
-      "title": "Europe Natural Language Processing (NLP) in Healthcare Market Analysis 2021 | Upcoming threat 2028",
-      "excerpt": "Natural Language Processing (NLP) in Healthcare Market Size By Regional(Europe, North America, South America, Asia Pacific, Middle East And Africa), Industry Growth Opportunity, Price Trends, Competitive Shares, Market Statistics and Forecasts 2021 - 2028 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/mediareleases/162680/europe-natural-language-processing-nlp-in/",
-      "originalUrl": "https://www.reseller.co.nz/mediareleases/162680/europe-natural-language-processing-nlp-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-05T15:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-05-the-latest-trends-in-artificial-intelligence-ai-and-machine-learning-ml.md",
-      "title": "The Latest Trends in Artificial Intelligence (AI) and Machine Learning (ML)",
-      "excerpt": "Artificial intelligence (AI) contains many subfields, including machine learning (ML), which automates analytical model building. It uses methods from neural networks, statistics, operations research and physics to find hidden insights in data without being explicitly programmed where to look or what to conclude.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/technology/the-latest-trends-in-artificial-intelligence-ai-and-machine-learning-ml",
-      "originalUrl": "https://www.bbntimes.com/technology/the-latest-trends-in-artificial-intelligence-ai-and-machine-learning-ml",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/AI_Trends_2021-min.jpg",
-          "width": 1600,
-          "height": 1035,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-04T15:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics",
         "AI in Healthcare"
       ]
     }

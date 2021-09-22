@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "DeepMind Paper Provides Insights on Detoxifying Large Language Models"
+    excerpt: "Large language models (LMs) have become much larger and more powerful in recent years, achieving remarkable results across natural language processing (NLP) tasks such as text generation, translation,"
+    publishedDateTime: 2021-09-22T14:02:00Z
+    webUrl: "https://syncedreview.com/2021/09/22/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-109/"
+    ampWebUrl: "https://syncedreview.com/2021/09/22/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-109/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/09/22/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-109/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 59
+    images:
+      - url: "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/09/image-87.png?w=950&ssl=1"
+        width: 551
+        height: 372
+        isCached: true
 
 secured: "kNmn78r7EI86+0MOVyqJnDmZG0HAMWCW+LCKoUejrubPig6Lk9HgdlXs4ZuvRYKFiXLGGr4Vnanj943CzNIs14xl/EpJue0SwNmniVCiDws50ee+DOblofBV88MUnX2MG2NPndozphezDe2M4WhJNHGfJZQhB3mJXIwBo/8jDFuKiPdb9uqtsfVB/SPu0T8JyQkMpg0bJTGig2IMVOAWj1CplmIc7VL9yFqvGwqSwVpb/o11JdFNG8rUF49cBMUDuyhnr9httt4LdNVG4vFvMbKGO02aE0pGAe8nlL4jly+xIQWkMMS1W8oVUfH0M1xHWr4V+XZg4vEBHCchP/Uapt9qEbMy6k44cKi1W0wZIjKLKDRpAb2x4OusSL/bxvGd4NF6i+wKiUx7K2/OzkDFWeRHq5s1wS7CfVgrB/ebWu/melbcPqlsBwqpUXRfFTqxfRCLUOJOUmAOaDNDYOiqu2OHUx+RMNIwH8YAbiz3e8/4wX7DXaTibdXosLAdUpdoEj+e+viwRJg+juFP3FQT6A==;unI2f6TRgQkc4sj4fUnYSg=="
 ---

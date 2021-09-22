@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-03-use-low-code-to-reduce-friction-for-cloud-operations-teams.md",
+      "title": "Use Low Code to Reduce Friction for Cloud Operations Teams",
+      "excerpt": "When low-code supplements traditional forms of creating automation, cloud operations teams demonstrate greater velocity and predictability.",
+      "sourceUrl": null,
+      "webUrl": "https://thenewstack.io/use-low-code-to-reduce-friction-for-cloud-operations-teams/",
+      "originalUrl": "https://thenewstack.io/use-low-code-to-reduce-friction-for-cloud-operations-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.thenewstack.io/media/2021/09/3ae2bf12-pexels-maxi-gagliano-4617591.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-03T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thenewstack.io",
+        "domain": "thenewstack.io",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-03-artificial-intelligence-in-accounting-market-major-competitor-and-strategies-analysis-aws-microsoft-intuit.md",
       "title": "Artificial Intelligence in Accounting Market Major Competitor and Strategies Analysis| AWS, Microsoft, Intuit",
       "excerpt": "Pune, Maharashtra, India, September 3 2021 (Wiredrelease) MarketResearch.Biz –:Global Artificial Intelligence in Accounting Market Analysis to 2021-2030 By MarketResearch.Biz is a specialized ...",
@@ -1347,49 +1390,6 @@
       "provider": {
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-air-charter-services-market-size-trends-and-key-players-gama-aviation-air-charter-service-air-partner-netjets-delta-private-jets.md",
-      "title": "Air Charter Services Market Size, Trends, and Key Players – Gama Aviation, Air Charter Service, Air Partner, NetJets, Delta Private Jets.",
-      "excerpt": "Air Charter Services Market was valued at USD 25,574.6 Million in 2018 and is projected to reach USD 34,930.2 Million by 2026, growing at a CAGR of 4.04% from 2019 to 2026. Get | Download Sample Copy with TOC,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/air-charter-services-market-size-and-forecast-2028/",
-      "originalUrl": "https://manometcurrent.com/air-charter-services-market-size-and-forecast-2028/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/Global-Free-Space-Optics-Market-Including-Key-Players-Market-Share-1-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/air-charter-services-market-size-and-forecast-2028/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/air-charter-services-market-size-and-forecast-2028/?amp=1",
-      "publishedDateTime": "2021-08-23T18:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
         "images": null,
         "publishers": null,
         "authors": null
