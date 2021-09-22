@@ -121,20 +121,6 @@ related:
         width: 1920
         height: 938
         isCached: true
-  - title: "Tesla sees great potential for self-driving vehicles in China"
-    excerpt: "Tesla CEO Elon Musk said on Friday that he sees huge potential in China for fully autonomous vehicles, as Chinese customers want cars with better connected and more intelligent features."
-    publishedDateTime: 2021-09-18T02:17:00Z
-    webUrl: "https://www.nationthailand.com/international/40006307"
-    type: article
-    provider:
-      name: nationthailand
-      domain: nationthailand.com
-    quality: 39
-    images:
-      - url: "https://media.nationthailand.com/uploads/images/md/2021/09/mqJ7Vd7YV9WBfBZGOuMA.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Tesla announces fully self-driving cars"
     excerpt: "Tesla Motors announced Wednesday that its electric cars will be the first in the nation to all be fitted with the hardware they need to drive themselves. CEO Elon Musk announced Wednesday that the automaker’s Model S,"
     publishedDateTime: 2021-09-20T12:43:00Z

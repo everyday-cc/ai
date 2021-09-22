@@ -47,6 +47,20 @@ related:
         width: 1024
         height: 585
         isCached: true
+  - title: "Artificial Intelligence and Ethics"
+    excerpt: "Sixty-six years later, we are in a situation where Artificial Intelligence is ubiquitous, and many aspects of people’s lives are influenced by decisions made using AI systems or based on analysis made by it. As the term AI is widely used, continuing its ..."
+    publishedDateTime: 2021-09-22T15:22:00Z
+    webUrl: "https://www.qmul.ac.uk/gpi/news-and-events/news/artificial-intelligence-and-ethics.html"
+    type: article
+    provider:
+      name: Queen Mary University of London
+      domain: qmul.ac.uk
+    quality: 54
+    images:
+      - url: "https://www.qmul.ac.uk/gpi/media/qmul/media/images2/tech-lines-picture-id1299185544.jpg"
+        width: 1050
+        height: 398
+        isCached: true
 
 secured: "zUTsvEYv0FpTYBbkaDCBeKyiorFPXZN2s/Qz393PAYtu1qm+lP8xg/JFFOWirHIYD0iwoj3rHd5uWTbQgJ6Ke5etlY+1NeXpafWozrpp2v9dyO0/+AMKvMwuU/pU3gecceZeZrwNZSKIE72YexYpXmq3tAKXz52Vi+XTaY3NoAKrGPJuNaTjLsyXYHP+2CIgf7AyzZA0Mr3hA4XbgdrlbZZ1yGv00mitovecS+0eDnkD58B5LTwZcYfIa9KHmFl5Q7hFMDcru2O/kq5B6MNADSzrspAHEkUj0g6XAgtpaZWor3cuckTC/Gu+bh/Zm+GueM+SNK/ueyt3FJusI4p+Ed/gEZVIIqqYDkadxkaGZHQ=;9eacj37EGaAnwDTnQMayQQ=="
 ---

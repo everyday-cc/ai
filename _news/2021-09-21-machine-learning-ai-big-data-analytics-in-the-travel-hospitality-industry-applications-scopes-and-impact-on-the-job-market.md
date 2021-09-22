@@ -51,6 +51,22 @@ related:
         width: 6000
         height: 4000
         isCached: true
+  - title: "Artificial Intelligence (AI) in Real Estate Market Size, Status and Forecast 2021-2027 | IBM, Cape Analytics, Baidu"
+    excerpt: "Latest published market study on Global Artificial Intelligence AI in Real Estate Market provides an overview of the current market dynamics in the Artificial Intelligence AI in Real Estate space as well as what our survey respondents all outsourcing decision"
+    publishedDateTime: 2021-09-22T19:11:00Z
+    webUrl: "https://www.openpr.com/news/2403296/artificial-intelligence-ai-in-real-estate-market-size-status"
+    ampWebUrl: "https://www.openpr.com/amp/2403296/artificial-intelligence-ai-in-real-estate-market-size-status"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2403296/artificial-intelligence-ai-in-real-estate-market-size-status"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 50
+    images:
+      - url: "https://cdn.openpr.com/U/9/U922369966_g.jpg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "Vintra Secures $9.125 M Round of Funding, Fueling Continued Growth for AI-Powered Video Analytics Platform"
     excerpt: "Vintra, Inc., a leading provider of AI-powered video analytics solutions, today announced a $9.125 M round of new funding, led by Morpheus Ventures with participation from Lavrock Ventures and existing investors Vertex Ventures US and"
     publishedDateTime: 2021-09-20T17:56:00Z

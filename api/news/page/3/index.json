@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-21-machine-learning-at-the-edge-a-hardware-and-software-ecosystem.md",
+      "title": "Machine learning at the edge: A hardware and software ecosystem",
+      "excerpt": "Being able to deploy machine learning applications at the edge bears the promise of unlocking a multi-billion dollar market. For that to happen, hardware and software must work in tandem. Arm's partner ecosystem exemplifies this,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/machine-learning-at-the-edge-a-hardware-and-software-ecosystem/",
+      "originalUrl": "https://www.zdnet.com/article/machine-learning-at-the-edge-a-hardware-and-software-ecosystem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2020/12/11/573aa6b0-7e1d-432c-a6c9-6cc5a633144b/resize/1200xauto/faa21497a2f921c1733110d93cd9fac7/istock-1202641105.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/machine-learning-at-the-edge-a-hardware-and-software-ecosystem/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/machine-learning-at-the-edge-a-hardware-and-software-ecosystem/",
+      "publishedDateTime": "2021-09-20T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-21-5-unexpectedly-hot-industries-to-find-robotics-jobs.md",
       "title": "5 unexpectedly hot industries to find robotics jobs",
       "excerpt": "In fact, it's projected that the number of jobs in the field will grow 9% between 2016 and 2026, leading to a shortage of qualified engineers.  That's a real opportunity for new talent entering the workforce or for professionals looking to make a mid-career shift.",
@@ -166,7 +218,7 @@
       "originalUrl": "https://venturebeat.com/2021/09/20/putting-the-human-back-into-the-equation-personalization-and-ai-driven-digital-banking-experiences/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -269,7 +321,7 @@
       "originalUrl": "https://www.techspot.com/news/91331-intel-covers-arc-gpu-fab-choice-xess-backwards.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1144,21 +1196,21 @@
       ]
     },
     {
-      "path": "_news/2021-09-20-googles-former-ai-ethics-chief-has-a-plan-to-rethink-big-tech.md",
-      "title": "Google’s Former AI Ethics Chief Has a Plan to Rethink Big Tech",
-      "excerpt": "Timnit Gebru says regulators need to provide whistleblowers working on artificial intelligence with fresh protections backed up by tough enforcement.",
+      "path": "_news/2021-09-20-baidu-unveils-electric-robot-truck-with-smart-cabin-and-advanced-self-driving-tech.md",
+      "title": "Baidu Unveils Electric Robot Truck With Smart Cabin and Advanced Self-Driving Tech",
+      "excerpt": "Baidu is determined to succeed on the global freight market, with the unveiling of a new smart truck. The Chinese giant’s renowned AI technology and Apollo autonomous driving platform will be incorporated into an advanced truck that blends intelligence with a futuristic,",
       "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-09-20/timnit-gebru-former-google-ai-ethics-chief-has-plan-to-rethink-big-tech",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-20/timnit-gebru-former-google-ai-ethics-chief-has-plan-to-rethink-big-tech",
+      "webUrl": "https://www.autoevolution.com/news/baidu-unveils-electric-robot-truck-with-smart-cabin-and-advanced-self-driving-tech-169754.html",
+      "originalUrl": "https://www.autoevolution.com/news/baidu-unveils-electric-robot-truck-with-smart-cabin-and-advanced-self-driving-tech-169754.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 70,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL1NzztKqF84/v0/1200x630.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://s1.cdn.autoevolution.com/images/news/baidu-unveils-electric-robot-truck-with-smart-cabin-and-advanced-self-driving-tech-169754-7.jpg",
+          "width": 728,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1168,73 +1220,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-20T01:00:00-07:00",
+      "publishedDateTime": "2021-09-20T01:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-justice-equity-and-fairness-exploring-the-tense-relationship-between-artificial-intelligence-and-the-law-with-joilson-melo.md",
-      "title": "Justice, Equity, And Fairness: Exploring The Tense Relationship Between Artificial Intelligence And The Law With Joilson Melo",
-      "excerpt": "As a law student, Melo filed a request for action in the National Council of Justice, resulting in a decision allowing citizens to file applications in court electronically, without a lawyer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/09/19/justice-equity-and-fairness-exploring-the-tense-relationship-between-artificial-intelligence-and-the-law-with-joilson-melo/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/09/19/justice-equity-and-fairness-exploring-the-tense-relationship-between-artificial-intelligence-and-the-law-with-joilson-melo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6147e32b87af2b4a648476ba%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/09/19/justice-equity-and-fairness-exploring-the-tense-relationship-between-artificial-intelligence-and-the-law-with-joilson-melo/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/19/justice-equity-and-fairness-exploring-the-tense-relationship-between-artificial-intelligence-and-the-law-with-joilson-melo/amp/",
-      "publishedDateTime": "2021-09-19T18:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "autoevolution.com",
+        "domain": "autoevolution.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1244,7 +1235,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

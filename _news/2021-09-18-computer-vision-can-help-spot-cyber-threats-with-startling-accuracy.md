@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/computer-vision-help-spot-cyber-threat
 webUrl: "https://thenextweb.com/news/computer-vision-help-spot-cyber-threats-startling-accuracy-syndication"
 type: article
 quality: 71
-heat: 73
+heat: 71
 published: true
 
 provider:

@@ -7,8 +7,8 @@ originalUrl: "https://www.autoevolution.com/news/baidu-unveils-electric-robot-tr
 webUrl: "https://www.autoevolution.com/news/baidu-unveils-electric-robot-truck-with-smart-cabin-and-advanced-self-driving-tech-169754.html"
 type: article
 quality: 50
-heat: -1
-published: false
+heat: 70
+published: true
 
 provider:
   name: autoevolution.com
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "China’s Baidu unveils autonomous driving ‘robot truck’ Xingtu"
-    excerpt: "Baidu’s open-source autonomous driving platform Apollo has spawned Xingtu, an electric ‘robot truck’, as mainland China’s artificial intelligence and search engine giant revs up the development of next-generation vehicles."
-    publishedDateTime: 2021-09-18T02:36:00Z
-    webUrl: "https://www.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu"
-    ampWebUrl: "https://amp.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 106
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/09/18/44b8b9a0-17b7-11ec-ab69-f2bfe93835cf_image_hires_023635.JPG?itok=HjlXUvBM&v=1631903802"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Baidu-backed company unveils smart new energy truck"
     excerpt: "The first generation of Xingtu is designed to enable L3 self-driving on high-speed freight routes and achieve L4 capabilities on these same routes between 2024 and 2026. Powered by Baidu's ..."
     publishedDateTime: 2021-09-18T14:51:00Z

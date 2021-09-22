@@ -1,0 +1,47 @@
+---
+category: news
+title: "Local organization leaders react to Pittsburgh being named among top 25 global emerging startup ecosystems in new report"
+excerpt: "Local organization leaders at Innovation Works, the Pittsburgh Regional Alliance and InnovatePGH react to Pittsburgh being named among top 25 global emerging startup ecosystems in a new report released Wednesday."
+publishedDateTime: 2021-09-22T19:27:00Z
+originalUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/news/2021/09/22/pittsburgh-reacts-to-being-named-top-emerging.html"
+webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/news/2021/09/22/pittsburgh-reacts-to-being-named-top-emerging.html"
+type: article
+quality: 0
+heat: -1
+published: false
+
+provider:
+  name: The Business Journals
+  domain: bizjournals.com
+
+topics:
+  - AI
+
+related:
+  - title: "Is Self-Driving Technology The Best Thing To Hit Pittsburgh Since Steel? Local Business Groups Think So"
+    excerpt: "Business and civic leaders in Pittsburgh recently released a strategy to make southwestern Pennsylvania a hub for autonomous tech production. But some warn that residents outside the sector must also have a voice if the economic gains are to be shared."
+    publishedDateTime: 2021-09-20T16:28:00Z
+    webUrl: "https://www.wesa.fm/economy-business/2021-09-20/is-self-driving-tech-the-best-thing-to-hit-pittsburgh-since-steel-local-business-groups-think-so"
+    type: article
+    provider:
+      name: WESA
+      domain: wesa.fm
+    quality: 8
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/5045b27/2147483647/strip/true/crop/1280x672+0+144/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwesa%2Ffiles%2F201906%2Fargo_ai_2.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Pittsburgh's startup ecosystem among top 25 globally, new Startup Genome report finds"
+    excerpt: "A new report puts Pittsburgh's startup ecosystem among the top 25 in the world as a place to build and grow a company."
+    publishedDateTime: 2021-09-22T13:33:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/news/2021/09/22/pittsburgh-startup-ecosystem-startup-genome-report.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
+
+secured: "9bX37pTpgq/WaLV/0x4yjuXc83Od5p5pahYmIXrQ+/6nisDQlC28U5zRj6JV4bRycoY3nSfKWE484BXPSVit8V45zmvP591oSUfVKRwOCLvcROyvTCu4BVhK5xjorm6zuNl81h3zygiZ9gJepxPv8h+JG6RDDUaDgJSSGfZ4CWN6RpMQ7PloM0L4QqkqUaa9mJKFgLibuKihRD8hu289bvsxs1YEBrfi/+I2FQGjIeKzQroPKU2KnGIuaVsH38GyN1hFhKj8an23YnrjCTjFiIG2rTv6MO4CyBt55M4wAj7jZIs4uZvn9Lbf+R++uMYqJ8XuaJAtt5RGakjfzNoaXPP09ZkpCpczRZ1C7CNI9UVtu9SNqazy/b+F4gZSejLCjKSD+slOohJc8FtyHA74PXmth+7mxdJyfjMWk2j/D5711zmJ0xWK/XanD/8nkvmzqezIp1Y8HUfun3/LgYjm4743LlLpr6a8rl+TyUs67xZIaJsZ27SPEkeIfipLoaRw4KV6BCAH5phORaT5Kgo2KA==;r6a39ZJMm3cfAfkvWWmyNA=="
+---
+

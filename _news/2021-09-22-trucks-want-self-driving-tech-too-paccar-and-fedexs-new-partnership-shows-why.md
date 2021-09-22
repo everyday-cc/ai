@@ -43,6 +43,17 @@ related:
         width: 1024
         height: 573
         isCached: true
+  - title: "Self-driving tech co Aurora to test driverless delivery with FedEx"
+    excerpt: "Self-driving technology company Aurora will begin piloting trucks loaded with its software this week to haul goods for U.S. package delivery firm FedEx Corp FDX.N between Dallas and Houston, albeit with a safety driver."
+    publishedDateTime: 2021-09-22T15:34:00Z
+    webUrl: "https://www.nasdaq.com/articles/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex-2021-09-22"
+    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex-2021-09-22?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex-2021-09-22?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "FedEx Partners With Self-Driving Car Startup Aurora in Texas"
     excerpt: "Aurora Innovation Inc. will help move cargo for FedEx Corp. in a pilot project in Texas that uses the startup’s technology in a self-driving Paccar Inc. truck. The arrangement marks FedEx’s first trial of autonomous driving."
     publishedDateTime: 2021-09-22T15:00:00Z
@@ -57,19 +68,19 @@ related:
         width: 1200
         height: 809
         isCached: true
-  - title: "Self-driving tech co Aurora to test driverless delivery with FedEx"
-    excerpt: "Self-driving technology company Aurora will begin piloting trucks loaded with its software this week to haul goods for U.S. package delivery firm FedEx Corp between Dallas and Houston, albeit with a safety driver."
-    publishedDateTime: 2021-09-22T15:44:00Z
-    webUrl: "https://www.channelnewsasia.com/business/self-driving-tech-co-aurora-test-driverless-delivery-fedex-2195341"
+  - title: "Self-driving tech firm Aurora to test driverless delivery with FedEx"
+    excerpt: "Aurora, which is led by former heads of self-driving programs at Google, Uber and Tesla, said it is aiming for trucks without a safety driver by late 2023."
+    publishedDateTime: 2021-09-22T17:29:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-tech-firm-aurora-test-driverless-delivery-fedex"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
+      name: Automotive News
+      domain: autonews.com
     quality: 39
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
-        width: 1200
-        height: 676
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Aurora%20truck-MAIN_i.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "FedEx partners with Aurora, Paccar for self-driving hauls between Dallas and Houston"
     excerpt: "Autonomously enabled trucks will haul FedEx loads between Dallas and Houston on a 500-mile round trip along the I-45 corridor. Read CCJ for details."
@@ -95,6 +106,6 @@ related:
       domain: dallasinnovates.com
     quality: 14
 
-secured: "2eTykmux/OSiTzcmhvYge1Y/+dS3h8LGJjbm7nzPNeMmrqaYBGVNdEBLp8X/gQWT9PZLJTtYzhzcHysYQtaBbClfqmewq3vw6gafqX2tuuNS1P7Bky8PKk91b7OTE/Xwj1Bwt4ATj23QwKaC/RRPdahNmAu0yq/WbhCA3JQlxS78Qrg9A2XkbDgm1zCtl7fi8ql8OXOA/q4TJdFzjQflRB+TAQk0w5vTYCg+yUFJhk2aXt4twe6hUfZFllR6O+EL8E/ty9pM+yXMFPg5M7RF5K1d5RcDgwujZ7LV/44itkWlt6KIXNZ7TXUHZh186pmAjOR5F5vlp+Scb7toqkoRLvReBKLtwi1QP5jJ3gVvHl0=;Lgfrndh21WL+2Bdqkt0dVA=="
+secured: "NuyX7XAAQGhdAonG+ttQXnv9dn2PE0p77OM78Y/ZCv/xGG7Eof6bBvcArZd6bl1jWX91Fb6qMLl8+H+MrwNW37ADxos7XwNHlAjYz57rGwCTiFcFZEAe8DeQMOSoSWI5mGxoPMU80MzLFJJq9zOgv4UZFQYuqkSinzeSOjp9V2/Ujj8GYnmRiy5FJ3AVXxc9UO1PXomhks5hkjltkreDFyq5lMQOdY5h/wTI+vwI5VfSBVEghu3jRBRYbEGrHNjrhoCcxYC1XX8mTbQm1/fVPePFtude27sUOpdK/J4d8WsVlLQN0kRBP0qgsK2MwJ+9YEpxVwANFYmAYd2iQh5rYQL4/R4GW//MNjZYBywoMqEZVaFsmya6Y87xNyTb9dU3X7Lugjl7nOxJzFjkj4h4oXhstrVcQOMd1s3SfBix4DvauEYbrnCcjoc1TGmirTQtrGvo9nfVFDinL1vnfZQWVyXMybGRFkaih1ugaZHaFaHO1YjxEuM+h9LS1B/G8BAUWLccioomVNgPonuqhd8W7g==;0J+RuGUb+WJxYzZlSSCj8g=="
 ---
 

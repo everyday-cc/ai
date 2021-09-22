@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence and Ethics"
+    excerpt: "Sixty-six years later, we are in a situation where Artificial Intelligence is ubiquitous, and many aspects of people’s lives are influenced by decisions made using AI systems or based on analysis made by it. As the term AI is widely used, continuing its ..."
+    publishedDateTime: 2021-09-22T15:22:00Z
+    webUrl: "https://www.qmul.ac.uk/gpi/news-and-events/news/artificial-intelligence-and-ethics.html"
+    type: article
+    provider:
+      name: Queen Mary University of London
+      domain: qmul.ac.uk
+    quality: 54
+    images:
+      - url: "https://www.qmul.ac.uk/gpi/media/qmul/media/images2/tech-lines-picture-id1299185544.jpg"
+        width: 1050
+        height: 398
+        isCached: true
   - title: "Philosophers focus on AI ethics"
     excerpt: "A new interdisciplinary initiative at Western is putting a human-interest twist on artificial intelligence (AI). Three postdoctoral associates are bringing their unique backgrounds and research interests to the classroom this year to help students better understand assumptions that underlie the use of AI and ethical conflicts posed by its use."
     publishedDateTime: 2021-09-21T20:10:00Z

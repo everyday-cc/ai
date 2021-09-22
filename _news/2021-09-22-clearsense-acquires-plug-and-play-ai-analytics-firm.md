@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/clearsense-acquire
 webUrl: "https://markets.businessinsider.com/news/stocks/clearsense-acquires-plug-and-play-ai-analytics-firm-1030815362"
 type: article
 quality: 67
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://cdn.business2community.com/wp-content/uploads/2021/09/luca-bravo-XJXWbfSo2f0-unsplash.jpg"
         width: 6000
         height: 4000
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Real Estate Market Size, Status and Forecast 2021-2027 | IBM, Cape Analytics, Baidu"
+    excerpt: "Latest published market study on Global Artificial Intelligence AI in Real Estate Market provides an overview of the current market dynamics in the Artificial Intelligence AI in Real Estate space as well as what our survey respondents all outsourcing decision"
+    publishedDateTime: 2021-09-22T19:11:00Z
+    webUrl: "https://www.openpr.com/news/2403296/artificial-intelligence-ai-in-real-estate-market-size-status"
+    ampWebUrl: "https://www.openpr.com/amp/2403296/artificial-intelligence-ai-in-real-estate-market-size-status"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2403296/artificial-intelligence-ai-in-real-estate-market-size-status"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 50
+    images:
+      - url: "https://cdn.openpr.com/U/9/U922369966_g.jpg"
+        width: 450
+        height: 300
         isCached: true
   - title: "Machine Learning, AI & Big Data Analytics in the Travel & Hospitality Industry: Applications, Scopes, and Impact on the Job Market"
     excerpt: "There is a huge amount of data that has to be handled to provide customer satisfaction, good customer experience and a lot more where the future of t.."

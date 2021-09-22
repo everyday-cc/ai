@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/20/putting-the-human-back-into-the-e
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/20/putting-the-human-back-into-the-equation-personalization-and-ai-driven-digital-banking-experiences/amp/"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Humanizing AI: How Brands Are Revolutionizing Customer Experience in an Increasingly Digital World"
+    excerpt: "Empathy deficit is the largest imminent threat to a businesses’ growth, but there’s hope. Humanized AI is allowing brands to create empathetic customer experiences by offering uniquely personal interactions with digital people."
+    publishedDateTime: 2021-09-21T23:00:00Z
+    webUrl: "https://techcrunch.com/video/humanizing-ai-how-brands-are-revolutionizing-customer-experience-in-an-increasingly-digital-world/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 53
+    images:
+      - url: "https://img.vidible.tv/prod/2021-09/21/614a5eea37969837d3110d8f/614a60b056a7033202b02202_o_U_v1.jpg?w=640&h=360"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Machines on a Mission: 10 Fiction-Busting Facts About AI Implementation"
     excerpt: "Thanks to the evolution of data, cloud and compute power, AI can be implemented with greater ease, for less cost and with fewer resources than ever before. Still, myths and misconceptions about this emerging technology remain."
     publishedDateTime: 2021-09-20T21:00:00Z

@@ -34,6 +34,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 0
+  - title: "Local organization leaders react to Pittsburgh being named among top 25 global emerging startup ecosystems in new report"
+    excerpt: "Local organization leaders at Innovation Works, the Pittsburgh Regional Alliance and InnovatePGH react to Pittsburgh being named among top 25 global emerging startup ecosystems in a new report released Wednesday."
+    publishedDateTime: 2021-09-22T19:27:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/news/2021/09/22/pittsburgh-reacts-to-being-named-top-emerging.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "REG7CKw16u2V+8vussvtq6uDS5sdGRo5CcxHzyA12dNTctW0df8wR21ht+Plrmi/W2Q2Drc3CHPsBzePaKT9D3XGtraiYPFrX2fGj5ezq4ha+lpaeN/dK71pFtN1APHuuFnSOh85jjggiGofXV46I19hLGevPrjCt43i8N6PzllBKoTRevQbpcHWS6TcJQROUAh8qwY5rjbrqV5gYNn9fzAClHD4D/xA+7GojyrUdME9tV6pkpQcxUPaXRFzmJxmQdcvYaLDDx3r4MeyW8ACpA6x6JnbRPuU/gUosZg3mUUdh6ee7xmfrshryvN6+cLUfzelbIZcEIO9hal7MEeUKU0y760rcuyqoPJn5DWfbAY=;xIpindt3C0jPLuM+hSHl1g=="
 ---

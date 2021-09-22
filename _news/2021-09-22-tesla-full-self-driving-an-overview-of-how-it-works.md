@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-overvie
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-overview-cost-investigation/"
 type: article
 quality: 89
-heat: 229
+heat: 219
 published: true
 
 provider:
@@ -120,20 +120,6 @@ related:
       - url: "https://www.bbntimes.com/images/articles/global-economy/How_Tesla_is_Using_Big_Data-_Benefits__Challenges_of_Big_Data_in_Self_Driving_Cars.jpeg"
         width: 1920
         height: 938
-        isCached: true
-  - title: "Tesla sees great potential for self-driving vehicles in China"
-    excerpt: "Tesla CEO Elon Musk said on Friday that he sees huge potential in China for fully autonomous vehicles, as Chinese customers want cars with better connected and more intelligent features."
-    publishedDateTime: 2021-09-18T02:17:00Z
-    webUrl: "https://www.nationthailand.com/international/40006307"
-    type: article
-    provider:
-      name: nationthailand
-      domain: nationthailand.com
-    quality: 39
-    images:
-      - url: "https://media.nationthailand.com/uploads/images/md/2021/09/mqJ7Vd7YV9WBfBZGOuMA.jpg"
-        width: 900
-        height: 600
         isCached: true
   - title: "Tesla announces fully self-driving cars"
     excerpt: "Tesla Motors announced Wednesday that its electric cars will be the first in the nation to all be fitted with the hardware they need to drive themselves. CEO Elon Musk announced Wednesday that the automaker’s Model S,"

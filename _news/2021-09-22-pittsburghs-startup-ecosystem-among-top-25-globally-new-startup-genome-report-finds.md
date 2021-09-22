@@ -32,6 +32,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Local organization leaders react to Pittsburgh being named among top 25 global emerging startup ecosystems in new report"
+    excerpt: "Local organization leaders at Innovation Works, the Pittsburgh Regional Alliance and InnovatePGH react to Pittsburgh being named among top 25 global emerging startup ecosystems in a new report released Wednesday."
+    publishedDateTime: 2021-09-22T19:27:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/news/2021/09/22/pittsburgh-reacts-to-being-named-top-emerging.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "Dqj3pxV8rXjqvBogKlIjggB8I8ANYj2tL/wLMAAlQUGpaDiQQHH9njKI4wR/MQY5QtrLvOjpn2F1GxhCcHuYSr7M/82uJSbnx5c7mUrkPRnsNK27A2EjyPcYqrjyuM7Z98UVTWTBkJv3Vg9ziJTGWt2mVcOg5lQn5UlPDTbUD+xrVNb25xwjAH6xYfAFOX0dsGhvWAJOVqCXrmUfs16sGVL1TYvuis9tV+iJJe9ySkTvfOJB697lzEaqC3RKbJVZZI2Gy1maRTWy+gD0ILMKntzqA2LLuGwsTBCt04cLIKYQ2Bw4AE+ubQJe+fHd5nE2FJw5WJKTHIoeMb8VfiK5jadrjsfhCFDDOCuvI0LJWvjp8JBuvgXIOx/abgQXFC5yIE0IV0FkeFYMEV6x5Q2tBk1rnH7/wylPUkCpo5wzmB4LwwTE5q6Ou75816kQ1dEO+DEOPEz8esdzXtbRq9qgwhwOxJ5mWfz1uuyBmB+1QCaPYKhn8JBBFDwN8FOtf2Ri2ZZKA+WSMJn8h6csOBSqXw==;EeNrQcZX6OZLOg19iApiEg=="
 ---

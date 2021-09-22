@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/21/indian-buy-now-pay-later-startup-z
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/21/indian-buy-now-pay-later-startup-zestmoney-raises-50-million-from-australias-zip/amp/"
 type: article
 quality: 81
-heat: 91
+heat: 93
 published: true
 
 provider:
