@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 776
         isCached: true
+  - title: "Keith E. Sonderling: Artificial intelligence is changing how HR is handled at companies. But do robots care about your civil rights?"
+    excerpt: "With 86% of major U.S. corporations predicting that artificial intelligence will become a “mainstream technology” at their company this year, management-by-algorithm is no longer the stuff of science fiction."
+    publishedDateTime: 2021-09-23T16:00:00Z
+    webUrl: "https://www.postbulletin.com/opinion/columns/7203870-Keith-E.-Sonderling-Artificial-intelligence-is-changing-how-HR-is-handled-at-companies.-But-do-robots-care-about-your-civil-rights"
+    type: article
+    provider:
+      name: Post-Bulletin
+      domain: postbulletin.com
+    quality: 6
+    images:
+      - url: "https://www.postbulletin.com/incoming/7203859-erx39r-OPED-AI-CIVILRIGHTS-COMMENTARY-GET.jpg/alternates/BASE_LANDSCAPE/OPED-AI-CIVILRIGHTS-COMMENTARY-GET.jpg"
+        width: 1140
+        height: 712
+        isCached: true
 
 secured: "kSy/TFgWSySspFx1f4Id0mfqcDdROEKsjblmp1oaj6o+jsRrbn4LUmsNdyBdKDvsgBpxd8eIaaqwJjV0L5GlOfSF0UboFeztY0SDkb0DgWey7BhIKPHdR8cAWo1lkuiMS9roEcQl8EQNvwuTJHcE27Lxn42ibhJJjj3JPX6cIEhCgFW+ENbjuJ5pL8kH/ACcrCJpdCFcRyJEXvliit4S0l4ecMjut4hMIeCif5NPcTTQUT52T6AEeYwLF7R2C7+xPnZVdzAwKMCDAuQAle2GOB0r0fI0GNz6CooG7nYRofzzlTZby3fVzyHocOMNga08yrx4Zg0BqzYrvwHVb2k1agkQPpEY8qZkUvaO6MF8FKtJccMFkPvAvI3No2jay8zdXyjeXUKTj56IXqwUI4tch6Ghr4c2b1eX+7RX5YWYbKDaXoUhpxtjq5G0mv0YliSs0p3wdTZP3MS+iLsDqQ/p0QYapQsdhvjrfCjE2KV70LVN0SPKUKtKf8AYJRyA8lNaVpOi31Cg9suakSX+3iH4Cw==;xxwGiYoGyY7EOt6Emfodkw=="
 ---

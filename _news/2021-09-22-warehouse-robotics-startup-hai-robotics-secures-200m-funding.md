@@ -19,17 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "Warehouse Robotics Startup HAI ROBOTICS Secures $200M Funding"
+  - title: "Warehouse robotics startup HAI ROBOTICS secures $200M funding"
     excerpt: "The funding will help the company boost its product fleet through technological upgrades, expanding its global operation networks, optimizing its supply chain management and corporate structure as well as talent."
-    publishedDateTime: 2021-09-22T20:59:00Z
-    webUrl: "https://www.supplychainquarterly.com/articles/5515-warehouse-robotics-startup-hai-robotics-secures-200m-funding"
+    publishedDateTime: 2021-09-23T15:33:00Z
+    webUrl: "https://www.dcvelocity.com/articles/52462-warehouse-robotics-startup-hai-robotics-secures-200m-funding"
     type: article
     provider:
-      name: supplychainquarterly.com
-      domain: supplychainquarterly.com
+      name: DC Velocity
+      domain: dcvelocity.com
     quality: 69
     images:
-      - url: "https://www.supplychainquarterly.com/ext/resources/user-submissions/articles/3880a97f-5d64-45f5-bccb-e1be49d414a7.png?height=635&t=1632345458&width=1200"
+      - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/03bffb1e-8f2e-4728-bb96-020dae72f048.png?height=635&t=1632371812&width=1200"
         width: 600
         height: 338
         isCached: true

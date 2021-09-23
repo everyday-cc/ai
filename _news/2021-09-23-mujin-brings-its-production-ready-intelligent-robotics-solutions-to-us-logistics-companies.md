@@ -39,6 +39,20 @@ related:
         width: 1800
         height: 1350
         isCached: true
+  - title: "Watch: New robotic solution from Soft Robotics automates food picking tasks"
+    excerpt: "Tech company Soft Robotics has brought its Soft AI solution to the food processing industry to automate food picking and packaging tasks in an industry hard hit by labor shortages. According to the company,"
+    publishedDateTime: 2021-09-23T17:03:00Z
+    webUrl: "https://insights.globalspec.com/article/17382/watch-new-robotic-solution-from-soft-robotics-automates-food-picking-tasks"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 52
+    images:
+      - url: "https://insights.globalspec.com/images/assets/382/17382/Soft_Robotics.png"
+        width: 716
+        height: 327
+        isCached: true
   - title: "Mujin Brings Production-Ready Intelligent Robotics Solutions to US Logistics Companies"
     excerpt: "Award-winning Japanese industrial robotics company celebrates 10th anniversary with first U.S. office near Atlanta; showcases robotic palletizing with AMR pallet transport at Pack Expo, booth SU-7233"
     publishedDateTime: 2021-09-22T03:15:00Z

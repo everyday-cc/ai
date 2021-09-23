@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geeksforgeeks.org/machine-learning-with-microsoft-azure-
 cdnAmpWebUrl: "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/amp/"
 type: article
 quality: 106
-heat: 236
+heat: 246
 published: true
 
 provider:
@@ -111,6 +111,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 46
+  - title: "Microsoft Highlights Windows Server 2022 Integration with Azure Services in Summit Talk"
+    excerpt: "Microsoft had a lot to say about Windows Server 2022 in its 1.5-hour Windows Server Summit online event, held on Sept. 16. Many of Windows Server 2022's features are associated with security enhancements,"
+    publishedDateTime: 2021-09-23T17:51:00Z
+    webUrl: "https://redmondmag.com/articles/2021/09/23/microsoft-windows-server-2022-highlights.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 46
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlueMetalMessBig.jpg"
+        width: 1665
+        height: 1158
+        isCached: true
   - title: "SSE Renewables teams up with Microsoft for AI-led puffin conservation project on Isle of May"
     excerpt: "Green energy provider talks up the potential for artificial intelligence technology to help speed up the time it takes to bring new supplies of renewable power onto the grid."
     publishedDateTime: 2021-09-23T04:22:00Z

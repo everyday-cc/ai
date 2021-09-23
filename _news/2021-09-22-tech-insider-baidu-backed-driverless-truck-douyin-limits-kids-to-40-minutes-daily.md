@@ -41,6 +41,22 @@ related:
         width: 1920
         height: 1281
         isCached: true
+  - title: "How Driverless Car Works?"
+    excerpt: "You must have heard about the driverless cars, but how does it actually work and how is it controlled merely using one software through artificial intelligence? Here is the report. Watch video on Zee"
+    publishedDateTime: 2021-09-23T16:18:00Z
+    webUrl: "https://zeenews.india.com/video/news/how-driverless-car-works-2396543.html"
+    ampWebUrl: "https://zeenews.india.com/video/news/how-driverless-car-works-2396543.html/amp"
+    cdnAmpWebUrl: "https://zeenews-india-com.cdn.ampproject.org/c/s/zeenews.india.com/video/news/how-driverless-car-works-2396543.html/amp"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 59
+    images:
+      - url: "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2021/09/23/00000003_33.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Driverless Delivery Vans Market Size, Trends, Growth Factors, Regional Segment Revenue Analysis, 2020–2027"
     excerpt: "Going ahead, the Driverless Delivery Vans market report precisely evaluates the gross profits, revenue shares, sales volume, manufacturing costs, and individual growth rate, and financial positions of the leading market contenders."
     publishedDateTime: 2021-09-22T14:14:00Z

@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Hinge Health Acquires the Most Advanced Computer Vision Technology for Tracking Human Motion"
-excerpt: "Hinge Health, the world's #1 Digital Musculoskeletal Clinic™, has acquired wrnch, developer of the leading computer vision platform for measuring human motion. wrnch's three-dimensional motion-tracking technology enables the same precise tracking of full-body movement used by elite athletes and the motion picture industry."
-publishedDateTime: 2021-09-17T11:08:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-hinge-health-acquires-most-advanced-computer-vision-technology-/2021/09/17/9451376.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-hinge-health-acquires-most-advanced-computer-vision-technology-/2021/09/17/9451376.htm"
+excerpt: "Hinge Health, the world’s #1 Digital Musculoskeletal Clinic™, has acquired wrnch, developer of the leading computer vision platform for measuring human motion. wrnch’s three-dimensional motion-tracking technology enables the same precise tracking of full-body movement used by elite athletes and the motion picture industry."
+publishedDateTime: 2021-09-17T11:02:00Z
+originalUrl: "https://www.valdostadailytimes.com/news/business/hinge-health-acquires-the-most-advanced-computer-vision-technology-for-tracking-human-motion/article_0ae2d9e3-a0ff-5c30-beda-db3fd09d11ef.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/hinge-health-acquires-the-most-advanced-computer-vision-technology-for-tracking-human-motion/article_0ae2d9e3-a0ff-5c30-beda-db3fd09d11ef.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "aNLPts3bGsXVLjChCkWn2Wf8j0Bwnl2QdK6KHndxizJKA6dt2IfKvFuRUMvNNrcw72ftwdagjkPDm05TcMa0knWYDU/NMon062DIHgRxy8ynZi82B8yipGjid41jPwB4zkZ5h1rg3Kw48oGB1DoSNA9kj+Dg+/8dcLEbLUF/zdSdud9JPrVYD51M/OWghSJIhuvVEXq3nH8lTGDOhb5Z5jAbxFEjVK+lv1fKbVzLxgwqW4ZpJr64+hkH24Jj3vZ79ESQFAuElFIMViBKy6Mlv6Rp4M9TDDzY4mBhTJ0S9eDy0DlWixpAXJb+/uKhpnniqjY8cEYL3REzJMUjafGov2biRpHmPes6nkkHOlkkOHCuCjwKOzhTJtSkZ6Ri+Im4rUMmJqXAmpv28ByY+9vApwOrfbkKgUywluEpYM2OAJqU0KIRwbOZxjj7Hmj1MQqYWSlb55GWw7PWm6zx9scPLOANDvyYB/9SvhhuEY5ET9TDyLa/WbMxcbRRG/kap9aQ1ZpRMTG13nr+jTjZlUcpuA==;gWDatPuNI89Hp3OsUl63WA=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/8/a7/8a781877-c4e2-5795-bc6a-f62b66a436ce/6144795823a4b.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
+    isCached: true
+
+secured: "LI4x4j1i6ccSxaScR1fsoPc8iGJINd88W0FbJUBFkSLAZbkvkBoqR14nSfGA4qLQLV7wnhUjx97cxBbP8Pk3/2cd4hgI1z4HN1UIDl67wYoVINW0zBxBi4ouaeX3lhYfS7oSBgJfufz7yeWvKEkjZuudNPtMyc5AuHYSXHe1CIKGnS/bqFinqaDeUC6Mp/EgbaGHQOD8vOzn12FLNUffLoDvJ3gaQi4W55SyR2qlArCwifmnRHQnhaYJLatU8QQpNVwA0lzE5hVIp6YpNLevfH80r16IgQGflCcdonQedL7USo7tLqy7v1x0vPWzE/rn9OASCOtYr3lDboFUErR7LjOQfkqgurez6H91wiGWEjM=;biJ0mTBPSp3IBKTRlE/Llw=="
 ---
 

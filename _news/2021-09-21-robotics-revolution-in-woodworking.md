@@ -7,7 +7,7 @@ originalUrl: "https://www.woodworkingnetwork.com/technology/robotics-revolution-
 webUrl: "https://www.woodworkingnetwork.com/technology/robotics-revolution-woodworking"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Watch: New robotic solution from Soft Robotics automates food picking tasks"
+    excerpt: "Tech company Soft Robotics has brought its Soft AI solution to the food processing industry to automate food picking and packaging tasks in an industry hard hit by labor shortages. According to the company,"
+    publishedDateTime: 2021-09-23T17:03:00Z
+    webUrl: "https://insights.globalspec.com/article/17382/watch-new-robotic-solution-from-soft-robotics-automates-food-picking-tasks"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 52
+    images:
+      - url: "https://insights.globalspec.com/images/assets/382/17382/Soft_Robotics.png"
+        width: 716
+        height: 327
+        isCached: true
   - title: "Mujin brings its 'production-ready intelligent robotics solutions' to US logistics companies"
     excerpt: "Mujin brings its 'production-ready intelligent robotics solutions' to US logistics companies September 23, 2021 by Mai Tao Leave a Comment"
     publishedDateTime: 2021-09-23T09:43:00Z

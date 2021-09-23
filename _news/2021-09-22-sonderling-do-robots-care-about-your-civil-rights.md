@@ -48,6 +48,20 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 14
+  - title: "Keith E. Sonderling: Artificial intelligence is changing how HR is handled at companies. But do robots care about your civil rights?"
+    excerpt: "With 86% of major U.S. corporations predicting that artificial intelligence will become a “mainstream technology” at their company this year, management-by-algorithm is no longer the stuff of science fiction."
+    publishedDateTime: 2021-09-23T16:00:00Z
+    webUrl: "https://www.postbulletin.com/opinion/columns/7203870-Keith-E.-Sonderling-Artificial-intelligence-is-changing-how-HR-is-handled-at-companies.-But-do-robots-care-about-your-civil-rights"
+    type: article
+    provider:
+      name: Post-Bulletin
+      domain: postbulletin.com
+    quality: 6
+    images:
+      - url: "https://www.postbulletin.com/incoming/7203859-erx39r-OPED-AI-CIVILRIGHTS-COMMENTARY-GET.jpg/alternates/BASE_LANDSCAPE/OPED-AI-CIVILRIGHTS-COMMENTARY-GET.jpg"
+        width: 1140
+        height: 712
+        isCached: true
 
 secured: "scvVaPNi0IL/c5nkgSC05PhOgk1jYeqQrFhyK9aiJnL/yfQU4vsRoYCboM2TW68LJGoeXJb93ThqcWM++7yRdCWX7Ol4tuFnDOZ/PunDGHYPu6b+yqPYAwmP/u/MOlv3JzhVv56v/n2Pj7FlW3BTkjOu56CyqnMeUBnV+/BOcR8OHvCw6auPX4f1Ku1hunr2/YFCbBeHUKSSqxzbccjaAYnGEHvlGIHX9TJp2Vu6/KmtXT1uR133ZDp9TMFG4qPTBAb2bSrtuQLwBypEZBPnG7Y5oDVmrpm6sOI7MdLWcU3yJn0V/C0eLM36cg5a4zE/WQ9g2synAbqVEZStIi7ASEkaYczmIW3A6L4g2Ur/mRg=;DlVptmvWkZAAhjcz9951Dw=="
 ---

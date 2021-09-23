@@ -64,6 +64,48 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "GM invests $300M in China’s self-driving car company Momenta"
+    excerpt: "General Motors is investing $300 million in China's self-driving car company Momenta. GM said Thursday that the investment will speed up the development of next-generation self-driving technologies in China."
+    publishedDateTime: 2021-09-23T15:57:00Z
+    webUrl: "https://apnews.com/article/business-technology-china-3ac51a2f83d29fffa9807a5b74b02070"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/1759e8719a7e4b3196a74cd342b7b4ee/3000.jpeg"
+        width: 2999
+        height: 3000
+        isCached: true
+  - title: "GM to invest $300M in Chinese self-driving technology developer Momenta"
+    excerpt: "The investment will help accelerate adoption of the young Chinese company’s autonomous driving technology in GM's future China products."
+    publishedDateTime: 2021-09-23T16:08:00Z
+    webUrl: "https://www.autonews.com/china/gm-invest-300m-chinese-self-driving-technology-developer-momenta"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Momenta%20tests%20its%20robotaxi%20fleet%20in%20Suzhou.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "General Motors Invests $300 Million in Chinese Autonomous Driving Startup Momenta"
+    excerpt: "GM announced on Thursday that its making a $300 million investment in Chinese autonomous driving startup Momenta, which will help the company accelerate the development of self-driving technologies for future GM vehicles in China."
+    publishedDateTime: 2021-09-23T16:30:00Z
+    webUrl: "https://www.futurecar.com/4886/General-Motors-Invests-$300-Million-in-Chinese-Autonomous-Driving-Startup-Momenta"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 17
+    images:
+      - url: "https://img.futurecar.com/202109/23/l_614cad3d81fec.jpeg"
+        width: 800
+        height: 425
+        isCached: true
 
 secured: "LX9DGuX3154eClDGW4scjEmObWTXdbekcVA0/BzCTcQdrWQ31Ry5syvdBEjmm9m6JFP2901lujoxZhpIAq367LJ/DmnAgN6MKi7f0rTe9+rMGwCRIiLJE6/fr9snWlfPxNonVnJtjKEvG61ZBr7TeGrluwCkqxb9BJydlbFztu1Z7Ktx6ggrMwVkuEunKnbQIsnPQPXw1FXaT+v3r2ot6EeqVq8LCtDGvkBYaCF1U+g9B5bsDf5BfbphL4vfZr3HO8uTunCMqswKVGUaCP/QGSOL787AMuJ8WRni15DOcgeLEolEO6pXHtw4fmDmXz19ahzY/aFW2TiYg/uSoTlFcBEZP+rt2oVdUtSz5XFfOiI=;X9dv3mlJ++ipHb96xAbtiA=="
 ---

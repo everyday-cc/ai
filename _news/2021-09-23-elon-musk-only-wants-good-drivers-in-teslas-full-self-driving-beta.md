@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Samsung in talks with Tesla to make next-gen self-driving chips -Korea Economic Daily"
-    excerpt: "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday."
-    publishedDateTime: 2021-09-23T15:56:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/samsung-talks-with-tesla-make-next-gen-self-driving-chips-korea-economic-daily-2021-09-23/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 94
-    images:
-      - url: "https://www.reuters.com/resizer/WvidrcP5l2WCxHpUqCwZpUom3cQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FKIHL5J22BM6LM73QL4MWKOOG4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla Full Self-Driving: An overview of how it works"
     excerpt: "If there is one piece of technology that's pretty optimistic, it's Tesla's Full Self-Driving system. There are no self-driving cars on sale today, despite what \"FSD\" -- as Tesla owners and CEO Elon Musk refer to it as -- promises."
     publishedDateTime: 2021-09-22T11:00:00Z
@@ -121,6 +107,20 @@ related:
         width: 708
         height: 398
         isCached: true
+  - title: "Samsung in talks with Tesla to make next-gen self-driving chips, says daily"
+    excerpt: "Samsung Electronics' semiconductor plant in Hwaseong produces 7nm chips. SEOUL: Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process,"
+    publishedDateTime: 2021-09-23T16:41:00Z
+    webUrl: "https://www.carsifu.my/news/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-says-daily"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 69
+    images:
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2021/09/Samsung-Foundry_New-EUV-Line_main.jpg"
+        width: 880
+        height: 548
+        isCached: true
   - title: "Samsung in talks with Tesla to make next-gen self-driving chips: Report"
     excerpt: "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips, The Korea Economic Daily reported. If Samsung wins the order, it is expected to make the chip on its 7-nanometre production process,"
     publishedDateTime: 2021-09-23T15:18:00Z
@@ -137,6 +137,15 @@ related:
         width: 1080
         height: 864
         isCached: true
+  - title: "Samsung in Talks With Tesla to Make Next-Gen Self-Driving Chips -Korea Economic Daily"
+    excerpt: "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday. Since the beginning of this year,"
+    publishedDateTime: 2021-09-23T11:56:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2021-09-23/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-korea-economic-daily"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 57
   - title: "Tesla drivers using 'full self-driving' Autopilot pay less attention to their surroundings"
     excerpt: "Tech giant Tesla is due to launch the latest version of its Autopilot “full self-driving” technology to owners this autumn, but new research has revealed that the system could be making drivers inattentive to their surroundings."
     publishedDateTime: 2021-09-21T15:10:00Z

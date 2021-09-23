@@ -37,6 +37,22 @@ related:
         width: 1920
         height: 1281
         isCached: true
+  - title: "How Driverless Car Works?"
+    excerpt: "You must have heard about the driverless cars, but how does it actually work and how is it controlled merely using one software through artificial intelligence? Here is the report. Watch video on Zee"
+    publishedDateTime: 2021-09-23T16:18:00Z
+    webUrl: "https://zeenews.india.com/video/news/how-driverless-car-works-2396543.html"
+    ampWebUrl: "https://zeenews.india.com/video/news/how-driverless-car-works-2396543.html/amp"
+    cdnAmpWebUrl: "https://zeenews-india-com.cdn.ampproject.org/c/s/zeenews.india.com/video/news/how-driverless-car-works-2396543.html/amp"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 59
+    images:
+      - url: "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2021/09/23/00000003_33.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Tech Insider: Baidu-Backed Driverless Truck, Douyin Limits Kids to 40 Minutes Daily"
     excerpt: "Welcome to Caixin’s Tech Insider, your twice-weekly wrap on the movers, shakers and deal-makers in China’s tech scene. Baidu-backed DeepWay unveils driverless truck . DeepWay,"
     publishedDateTime: 2021-09-22T10:22:00Z

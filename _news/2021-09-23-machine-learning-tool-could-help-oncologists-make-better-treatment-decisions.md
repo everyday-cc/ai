@@ -29,12 +29,12 @@ images:
 related:
   - title: "Researchers working on new way to design personalized cancer treatment options"
     excerpt: "Researchers are using AI and data to create virtual replicas of cancer patients' DNA, RNA, protein and other information. These virtual replicas are known as \"molecular twins.\" They will be used to help identify the most effective approach to treating each individual's disease."
-    publishedDateTime: 2021-09-21T17:38:00Z
-    webUrl: "https://www.thedenverchannel.com/news/national/researchers-working-on-new-way-to-design-personalized-cancer-treatment-options"
+    publishedDateTime: 2021-09-21T18:21:00Z
+    webUrl: "https://www.turnto23.com/news/national/researchers-working-on-new-way-to-design-personalized-cancer-treatment-options"
     type: article
     provider:
-      name: 7News and TheDenverChannel.com
-      domain: thedenverchannel.com
+      name: KERO-TV
+      domain: turnto23.com
     quality: 20
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/f060807/2147483647/strip/true/crop/2520x1323+0+44/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F11%2F70%2Fee191b6045128e6ce393d874acf4%2Fscreen-shot-2021-09-21-at-12.22.09%20PM.png"

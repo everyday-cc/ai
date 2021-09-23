@@ -25,22 +25,6 @@ images:
     height: 500
     isCached: true
 
-related:
-  - title: "As Air Force adopts AI, it must also defend it, intelligence chief says"
-    excerpt: "With the Air Force increasingly looking to develop algorithms for machine learning and artificial intelligence, it must also get serious about defending them from adversaries, the service’s top intelligence officer said."
-    publishedDateTime: 2021-09-22T19:53:00Z
-    webUrl: "https://www.fedscoop.com/air-force-artificial-intelligence-algorithm-defend-intelligence-chief-mary-obrien/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 37
-    images:
-      - url: "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png"
-        width: 629
-        height: 607
-        isCached: true
-
 secured: "01jGFyAHZ1b9rYt5o3DT7LeLwVbj8fUry+XaZNwjXaDETiV0y9SGgXtjruiVCDCyHUeSp2ocewRif9C5Ozoh9ywBHvFyn96Ny2xFP5kU9xxPexm3DIDIrXOGHEn9EetbSqVWO6oDQOdiaHVFkmPh88+WRfhJ/qzKr1KRGICpKYv5/IaMeMKWCy3XccqQU/M1Vpy7pkDKKyDZ6NkgElerVEeqCcc+iY8S49JRTatu0jLQRkhaLVlhDzowX0XSGlSkdYzCFis7eCXZIqoZ6eFtbiwy6J9hzzvAGMZWzENmuq5ltRa0wp8ka8EOS6LUmVusxbK7fj6XBuWv8JrYr/CUpOKXA1cmH5XndUkJGGv6mTE=;fbz7TT2LwhZiPbyRrV9tow=="
 ---
 

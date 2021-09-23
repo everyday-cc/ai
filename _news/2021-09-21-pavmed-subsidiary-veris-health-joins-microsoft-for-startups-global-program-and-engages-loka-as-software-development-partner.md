@@ -1,27 +1,27 @@
 ---
 category: news
 title: "PAVmed Subsidiary Veris Health Joins Microsoft for Startups Global Program and Engages Loka as Software Development Partner"
-excerpt: "PAVmed Inc. (Nasdaq: PAVM, PAVMZ) (the “Company” or “PAVmed”), a highly differentiated, multi-product, commercial-stage medical technology company, today announced that its major subsidiary Veris Health Inc."
-publishedDateTime: 2021-09-21T13:32:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-software-software-development-cb70a2c9ba0645bbb76e0407b9f6e48a"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-software-software-development-cb70a2c9ba0645bbb76e0407b9f6e48a"
+excerpt: "PAVmed Inc. (the \"Company\" or \"PAVmed\"), a highly differentiated, multi-product, commercial-stage medical technology company, today announced that its major subsidiary Veris Health Inc. (\"Veris\") has been accepted into Microsoft for Startups,"
+publishedDateTime: 2021-09-21T13:41:00Z
+originalUrl: "https://www.lelezard.com/en/news-20007576.html"
+webUrl: "https://www.lelezard.com/en/news-20007576.html"
 type: article
 quality: 13
 heat: 13
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "5mXlcoJzxgqhrLHfG92ocXFpQK2BlGY2isLmOWnoLISIbH4Euo5GsiTc8o4aYtiS8LEyWVvc5w1OwG9aghjDDtU4+65G4vt+L35xWUCZT2a7SePBvLn6cxlQzmomPSeo0al78dDi3Apz0Wca4AdP+a/93S2zt2EY8Kkrxj5kXxu7qeyYiILUzD5/z0sdXr9voSqzcrJKM/qEOFidqHJskL9exa5K+hiAMz+9a/I76v/3/JHih5/a/jjm05k7YrZKCi3eynOrmqoesqcf5MKAgPvqZ0zbp3JdROiWlVqk6rGJhyu0pxyXh/BXii2JnYSKrYQdSWfhygsm3+OANaXuB6in39iQb4wEco3J1ZhH6cQ=;IS9AiVLiLtwPaKoj7IRHkQ=="
+secured: "eFiSIH2mJZClT6RhOZ4pC7tfUupEGf/JLj7dDPHR+ckZf3AbPx9WhtQrYU9E5FnTcyyiE4FlUs6HCj/SxLrIEM2xYwDGFiVEdE6t9NQiCYkXjJDOgxMf2AaBt7CpUFtV7EL1OFFvv0mIHyDnak6cVjAqssbd6uYKi6av9fjt0S4JAMElUvQPr97eE8YSOGC5IFsSUTYRypd0kjArtGzuX0R217rosQHjZnHQBli7FeP6D4bKzfpRhxsivr+IpXIFwhoIkKSxGrIQ+Dk5mK6lF/LsOgkeMF0jk2GXLLrlUeHg6CYOZDhgVbpvQTNcRFWxSv+iYrkDhxBrop0xeDF2PqStZfMCmCyEU87P3TCex8w=;cAgkARX9ocdssDozfsilKg=="
 ---
 

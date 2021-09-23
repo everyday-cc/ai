@@ -43,6 +43,17 @@ related:
         isCached: true
   - title: "Afghan Taliban’s new UN envoy urges quick recognition"
     excerpt: "The Taliban’s newly appointed envoy to the United Nations is urging quick world recognition of the Taliban government and Afghanistan’s new rulers even as the World Health Organization raised the alarm warning of an impending humanitarian disaster in the war-wracked country."
+    publishedDateTime: 2021-09-23T17:12:00Z
+    webUrl: "https://www.sacbee.com/news/article254454783.html"
+    ampWebUrl: "https://amp.sacbee.com/news/article254454783.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/article254454783.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 24
+  - title: "Afghan Taliban’s new UN envoy urges quick recognition"
+    excerpt: "The Taliban’s newly appointed envoy to the United Nations is urging quick world recognition of the Taliban government and Afghanistan’s new rulers even as the World Health Organization raised the alarm warning of an impending humanitarian disaster in the war-wracked country."
     publishedDateTime: 2021-09-23T13:45:00Z
     webUrl: "https://www.newsobserver.com/news/article254454783.html"
     type: article

@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Warehouse Robotics Startup HAI ROBOTICS Secures $200M Funding"
+title: "Warehouse robotics startup HAI ROBOTICS secures $200M funding"
 excerpt: "The funding will help the company boost its product fleet through technological upgrades, expanding its global operation networks, optimizing its supply chain management and corporate structure as well as talent."
-publishedDateTime: 2021-09-22T20:59:00Z
-originalUrl: "https://www.supplychainquarterly.com/articles/5515-warehouse-robotics-startup-hai-robotics-secures-200m-funding"
-webUrl: "https://www.supplychainquarterly.com/articles/5515-warehouse-robotics-startup-hai-robotics-secures-200m-funding"
+publishedDateTime: 2021-09-23T15:33:00Z
+originalUrl: "https://www.dcvelocity.com/articles/52462-warehouse-robotics-startup-hai-robotics-secures-200m-funding"
+webUrl: "https://www.dcvelocity.com/articles/52462-warehouse-robotics-startup-hai-robotics-secures-200m-funding"
 type: article
 quality: 69
 heat: 79
 published: true
 
 provider:
-  name: supplychainquarterly.com
-  domain: supplychainquarterly.com
+  name: DC Velocity
+  domain: dcvelocity.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.supplychainquarterly.com/ext/resources/user-submissions/articles/3880a97f-5d64-45f5-bccb-e1be49d414a7.png?height=635&t=1632345458&width=1200"
+  - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/03bffb1e-8f2e-4728-bb96-020dae72f048.png?height=635&t=1632371812&width=1200"
     width: 600
     height: 338
     isCached: true
@@ -35,6 +35,6 @@ related:
       domain: roboticstomorrow.com
     quality: 49
 
-secured: "hnwdNxdo5AwvnEeYB+r/2g2MKqkqXHHmPZixCFkjUxSr4qRqBrU3txpqkiJxu1crFScaWRYb7/rUULCGTS8h6Qs58wwMaJHpstDKXOlyMk4t3QGrKuvSU9gYrZAU6YXrCWEs8NYXZ/cuu797j8vILmnxRXuMfY6IgHF12WIZt5sTk4CDJPR+Kf6h8EZ63fRpvjk6y0Am3x3s5UOuQlzYRbcjfOLVyYxw4+ufF6cp1apkGZbxVkJtM+gbizpgawg9Ol87Q/20NuzFPzC6zL0U+3XzxD4Jydk1owTZyh3Y8537lZ1jgNUqjOA4r4FzhJC9E4NUyzQKvEz1HsKkkBInc6AGiVDrro5DLwY+eUW/HzXqKZom6A/0aoqNtY/e6yep4GUuDeF3IdftpKZoDYNxuJP5eDFu8Ubz2SXKwtW2bT8RZxqnPqDZsg3oYirDLxYTtm3wXvFyf6egQInyw4niC7IFuSkbE3D3thIISqO8nQLA8hNVJz/cew8DnWzAoUrNMd0AFQacCWe5ZaKfXUNJgA==;B5433ikZc5NYm24bj0GsWg=="
+secured: "iQHS2gfkfJljm4hnaLtUH2AHxFskDT2Xp8+3s3FeRZiPZdmsRpbK+y4lHhOmo0c7yqVdKUqr41qyzXReO0OUlzwvyxTyW+J8HdDGeNdEHLuiyaw0PLWaxuyv1xPrFTOEAunY5XwySveMwxHrMwLbnd80H+sUVG6rqbkiwn32smlNJIu06UvcJgRj0LYH0AjoM9LfbFPiPsUz43DjJlx7eTpGKEgExpGgrZ1bEEaQR9JdEJ9kp8c8rERGQ9Jjd1tXdm9m5pmh9vr15PDtUGoAfoXTl42NxSo6j7Y+3IWBBtgrSqAIkZyrjbezCXABsHjTe0uJFPdN6X2+G792FZplmr8I6NkmoTd5IIANCV9co6E=;83GnRl5LZzMyuv1yvSnvhg=="
 ---
 
