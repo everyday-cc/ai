@@ -9,8 +9,8 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-model-pred
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-model-predicts-liver-cancer-prognosis-203439-1.htm"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Medindia
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Simmons Cancer Center, MD Anderson scientists develop artificial intelligence method to predict anti-cancer immunity"
+    excerpt: "Researchers and data scientists at UT Southwestern Medical Center and MD Anderson Cancer Center have developed an artificial intelligence technique that can identify which cell surface peptides produced by cancer cells called neoantigens are recognized by the immune system."
+    publishedDateTime: 2021-09-23T18:43:00Z
+    webUrl: "https://www.utsouthwestern.edu/newsroom/articles/year-2021/artificial-intelligence-method-to-predict-anti-cancer-immunity.html"
+    type: article
+    provider:
+      name: UT Southwestern Medical Center
+      domain: utsouthwestern.edu
+    quality: 14
+    images:
+      - url: "https://www.utsouthwestern.edu/asset/5a92e8f1-526c-4809-95b0-82053a031fcd/wang-neoantigen-thumb.jpg"
+        width: 1000
+        height: 1000
+        isCached: true
   - title: "Owkin and Cleveland Clinic develop artificial intelligence model that predicts liver cancer prognosis"
     excerpt: "Owkin, a startup that deploys artificial intelligence (AI) and Federated Learning technologies to augment medical research and enable scientific discoveries, presented findings in Hepatocellular Carcinoma (HCC) with Cleveland Clinic at the 2021 European Society of Medical Oncology (ESMO) conference."
     publishedDateTime: 2021-09-22T13:02:00Z

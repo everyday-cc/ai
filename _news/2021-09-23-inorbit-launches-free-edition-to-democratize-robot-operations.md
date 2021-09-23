@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "InOrbit Launches Free Edition to Democratize Robot Operations"
+    excerpt: "Cloud-based software lets robot companies and those deploying robot fleets better manage and orchestrate their robots from anywhere in the world"
+    publishedDateTime: 2021-09-23T18:05:00Z
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=17514"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 19
   - title: "Knowles Launches Raspberry Pi Development Kit to Enable Voice Integration for New IoT Applications and Industries"
     excerpt: "Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones and speakers, audio processing, and precision device  solutions, today announced the availability of the Knowles AISonic IA8201 Raspberry Pi Development Kit to bring voice,"
     publishedDateTime: 2021-09-22T13:00:00Z

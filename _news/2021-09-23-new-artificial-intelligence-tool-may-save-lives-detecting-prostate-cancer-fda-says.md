@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.newsobserver.com/news/nation-world/national/article25443
 cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/nation-world/national/article254438918.html"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "New artificial intelligence tool may ‘save lives’ detecting prostate cancer, FDA says"
+    excerpt: "Artificial intelligence is playing a crucial role in detecting prostate cancer, according to t. The federal agency approved the use of Paige Pr"
+    publishedDateTime: 2021-09-23T18:45:00Z
+    webUrl: "https://www.mahoningmatters.com/local-news/new-artificial-intelligence-tool-may-save-lives-detecting-prostate-cancer-fda-says-4359603"
+    ampWebUrl: "https://www.mahoningmatters.com/amp/local-news/new-artificial-intelligence-tool-may-save-lives-detecting-prostate-cancer-fda-says-4359603"
+    cdnAmpWebUrl: "https://www-mahoningmatters-com.cdn.ampproject.org/c/s/www.mahoningmatters.com/amp/local-news/new-artificial-intelligence-tool-may-save-lives-detecting-prostate-cancer-fda-says-4359603"
+    type: article
+    provider:
+      name: mahoningmatters
+      domain: mahoningmatters.com
+    quality: 50
+    images:
+      - url: "https://www.vmcdn.ca/f/files/mahoningmatters/images/cancer-cells---microscope-image.jpg;w=640;h=399;mode=crop"
+        width: 640
+        height: 399
+        isCached: true
 
 secured: "M+JW4ggLnJzHRsviFkJK7WWjuzq9sfiuYHJf6cQ4omFXyz4T0+NMp5cDJlLQQk6ILqs4kaC93SKUSnTD0lvVuuUMQBRM9qiaYU4/+ckpQ8JyRoRkNGdhH+/A6yevYjJ6ocfDdaxLfn85h/6BncBjgDWLsbvApkGO8yB9cEwK5DiNYEVPZdo65wNTlDRvmDp8D2FUF4Yg/P95ei412UuDe9Hef+RdKPmLvL8ax0Hjg30vT0BSDi/GLGchxD7ezf1nz4LBB45AaWYdJ0uoVn1p00I8NNz3ooRpXh8hl074Gx5A29htiW0b6qPjKp7lBUMNoQ/khltkSaq8Pu8TpU8XNd4N5pxKy2s7aInAshMB1cA=;cPKONyIABaEi0UXQiTs4uQ=="
 ---

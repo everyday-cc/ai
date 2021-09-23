@@ -9,8 +9,8 @@ ampWebUrl: "https://innotechtoday.com/new-technologies-in-driverless-infrastruct
 cdnAmpWebUrl: "https://innotechtoday-com.cdn.ampproject.org/c/s/innotechtoday.com/new-technologies-in-driverless-infrastructure/amp/"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Innovation & Tech Today
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "DNA: Test drive of Tesla's driverless car in US"
+    excerpt: "You must have heard about the driverless cars, but how does it actually work and how is it controlled merely using one software through artificial intelligence? Watch video on Zee News"
+    publishedDateTime: 2021-09-23T18:30:00Z
+    webUrl: "https://zeenews.india.com/video/news/dna-test-drive-of-teslas-driverless-car-in-us-2396580.html"
+    ampWebUrl: "https://zeenews.india.com/video/news/dna-test-drive-of-teslas-driverless-car-in-us-2396580.html/amp"
+    cdnAmpWebUrl: "https://zeenews-india-com.cdn.ampproject.org/c/s/zeenews.india.com/video/news/dna-test-drive-of-teslas-driverless-car-in-us-2396580.html/amp"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 74
+    images:
+      - url: "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2021/09/24/00000003.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "How Driverless Car Works?"
     excerpt: "You must have heard about the driverless cars, but how does it actually work and how is it controlled merely using one software through artificial intelligence? Here is the report. Watch video on Zee"
     publishedDateTime: 2021-09-23T16:18:00Z
@@ -57,17 +73,20 @@ related:
         width: 560
         height: 373
         isCached: true
-  - title: "Driverless Delivery Vans Market Size, Trends, Growth Factors, Regional Segment Revenue Analysis, 2020–2027"
-    excerpt: "Going ahead, the Driverless Delivery Vans market report precisely evaluates the gross profits, revenue shares, sales volume, manufacturing costs, and individual growth rate, and financial positions of the leading market contenders."
-    publishedDateTime: 2021-09-22T14:14:00Z
-    webUrl: "https://manometcurrent.com/driverless-delivery-vans-market-size-trends-growth-factors-regional-segment-revenue-analysis-2020-2027/"
-    ampWebUrl: "https://manometcurrent.com/driverless-delivery-vans-market-size-trends-growth-factors-regional-segment-revenue-analysis-2020-2027/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/driverless-delivery-vans-market-size-trends-growth-factors-regional-segment-revenue-analysis-2020-2027/?amp=1"
+  - title: "Who is responsible if a self-driving car kills a pedestrian to save the driver?"
+    excerpt: "Unthinkable: Governments put their trust in big tech as they lack expertise"
+    publishedDateTime: 2021-09-23T04:00:00Z
+    webUrl: "https://www.irishtimes.com/culture/who-is-responsible-if-a-self-driving-car-kills-a-pedestrian-to-save-the-driver-1.4678862"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 21
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 20
+    images:
+      - url: "https://www.irishtimes.com/image-creator/?id=1.4678861&origw=1440"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "M1BP/6WnDfGJL+fiaqi1bSQL9S77zP71kyT7RzcDuAuUVk58OaSeutWW0gvBq1gG9tg2FaODZH3Gw6M0E2amuU8JlqSm7Jd3524+jj3XoRVC9DwsJRmC9wQAC3S+BegD5NNKw3ehW4KtvZ+EBlMosrW/1+iPpN///jERtJcN0vfsP5PTzgJ9Kbv+ZzyJ+tivGOlXvwekfQAbEX7Rq8/aVhbnpPF0MSZ2h3/WAmOPlvF7ru+TCWoTp4hnQGSDSPPvL2vQCeKLktTmHZMjbt+fQWxhxT2fji4mtVBIJs5DAj8FFe7GzOgtgSWzhkKz/OKRmdu25W2DVGyhDutMc0LLaVnA1X2Zv9rabOkg6ip6BasB9iG8qIGcyy1Y9ZI/TZohC2JLwleZ1EejyV8ExBFGyhZ3n+ZTarhPxOlfZiGM9X7SJVyJkZp03lZgcV2uClGxMZlOEoEgmAPSBz/+D95Znb/u4PnQ5xr9Co0ct35TqVwB9fDFpMDDfr1TuGIDRn+GvdINNCuAb2nbPf3G0KanWA==;XdaVLhAfKi0cPgIOht2jug=="
 ---

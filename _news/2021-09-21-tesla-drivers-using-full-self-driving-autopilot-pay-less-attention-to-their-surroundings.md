@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Samsung in talks with Tesla to make next-gen self-driving chips -Korea Economic Daily"
+    excerpt: "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday."
+    publishedDateTime: 2021-09-23T15:56:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/samsung-talks-with-tesla-make-next-gen-self-driving-chips-korea-economic-daily-2021-09-23/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 77
+    images:
+      - url: "https://www.reuters.com/resizer/WvidrcP5l2WCxHpUqCwZpUom3cQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FKIHL5J22BM6LM73QL4MWKOOG4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Samsung in talks with Tesla to make next-gen self-driving chips"
     excerpt: "Tesla and Samsung have discussed chip design multiple times and exchanged chip prototypes for Tesla's upcoming Hardware 4 self-driving computer, the Korea Economic Daily reported, citing sources with direct knowledge of the matter."
     publishedDateTime: 2021-09-23T13:55:00Z
@@ -153,15 +167,6 @@ related:
         width: 1080
         height: 864
         isCached: true
-  - title: "Samsung in Talks With Tesla to Make Next-Gen Self-Driving Chips -Korea Economic Daily"
-    excerpt: "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday. Since the beginning of this year,"
-    publishedDateTime: 2021-09-23T11:56:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2021-09-23/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-korea-economic-daily"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 57
   - title: "How Tesla is Using Big Data: Benefits & Challenges of Big Data in Self Driving Cars"
     excerpt: "Tesla is leading the electric vehicle race by relying on big data, artificial intelligence and the internet of things to outsmart its competitors."
     publishedDateTime: 2021-09-20T14:38:00Z

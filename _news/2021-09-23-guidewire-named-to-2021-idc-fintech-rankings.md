@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Guidewire Named to 2021 IDC FinTech Rankings"
-excerpt: "Guidewire Software, Inc. (NYSE: GWRE) announced it has ranked number 30 out of 100 on the 2021 IDC (News - Alert) FinTech Rankings. This is the first year Guidewire has appeared on the prestigious list and the company is the sole P&C insurance industry core systems provider included in the rankings."
-publishedDateTime: 2021-09-23T13:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-guidewire-named-2021-idc-fintech-rankings-/2021/09/23/9455257.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-guidewire-named-2021-idc-fintech-rankings-/2021/09/23/9455257.htm"
+excerpt: "Guidewire Software, Inc. (NYSE: GWRE) announced it has ranked number 30 out of 100 on the 2021 IDC FinTech Rankings. This is the first year Guidewire has appeared on the prestigious list and the company is the sole P&C insurance industry core systems provider included in the rankings."
+publishedDateTime: 2021-09-23T12:56:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-software-insurance-industry-san-mateo-2f4ae05bce59474f8b091264c6d7469c"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-software-insurance-industry-san-mateo-2f4ae05bce59474f8b091264c6d7469c"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "GBG Named to Prestigious IDC FinTech Top 100 Rankings List"
@@ -59,6 +65,6 @@ related:
         height: 480
         isCached: true
 
-secured: "C68COXQMQKcphQ9fyw2W7Vlm28TRJiSgc9Ne6st3Av1bJcVcRjH7+Uj/wAE0qvK7Np/+835JwSXfqw0UjQYp2/ebf4xcR5UzdHCaAKHoUpcGysWGPk4Iran/o4DgVtgFgcGbCGMD40TSPn9j3YEm5ck+fHilm8s97UxCFViPlzcW4NE4wzBKLWIH0CPPIA+YNIpVUnoW+cdZRFYzNQHGOQGoCrXLwt5JqFQ/HPh0bxvn7F2suYigcGF7S7SZPbTJeNv5h0DlFikujC7zzj1IV5lfQdD/+OdJr1qJiy6YktAXjdpSTPAKnmkTqJGjIL8Nt4ECWGMV/+vcefjQhmCuP+zzXQPCoxU530DNc4Aq1rg=;+hQGQSrZQlVA2CLo09p1EQ=="
+secured: "XX637ojgIMu8JdiYiJjDwc2sdB7r8NW4wNksDQkXgdM5hpCh65RqwzZStVhRvZniiO+BT7l050eov4viXANkXpepKOmjtNXrDzuMhQ+4tI0OkEhl0QxOC4FSgQHIbrIlVmVVsklxIISM6NJ7Kz8QfUAjN1sfFs7xnFDq6VXm4nv2zOGWEjOE9V+nvH/Rap9HFqhBbx+pERgs+idP5++zjr2Wpf7eMAdIC4JCAlIoi0eQsdFnKFYa2huVhl1wzFSHkKmrGvYB+9GcthK5iioDWsygyq5KpicQESEvOaIHSGAhtX3hKAoAqeUUr49i3a5qnOJtv5Zsi6QbpZ92wTVh4rVX3B3PBimr0GCAJzmUYQE=;ite4aaSLbFVIptizqELeSQ=="
 ---
 

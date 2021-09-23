@@ -74,6 +74,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Samsung in talks with Tesla to make next-gen self-driving chips -Korea Economic Daily"
+    excerpt: "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday."
+    publishedDateTime: 2021-09-23T15:56:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/samsung-talks-with-tesla-make-next-gen-self-driving-chips-korea-economic-daily-2021-09-23/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 77
+    images:
+      - url: "https://www.reuters.com/resizer/WvidrcP5l2WCxHpUqCwZpUom3cQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FKIHL5J22BM6LM73QL4MWKOOG4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Samsung in talks with Tesla to make next-gen self-driving chips"
     excerpt: "Tesla and Samsung have discussed chip design multiple times and exchanged chip prototypes for Tesla's upcoming Hardware 4 self-driving computer, the Korea Economic Daily reported, citing sources with direct knowledge of the matter."
     publishedDateTime: 2021-09-23T13:55:00Z
@@ -138,15 +152,6 @@ related:
         width: 1080
         height: 864
         isCached: true
-  - title: "Samsung in Talks With Tesla to Make Next-Gen Self-Driving Chips -Korea Economic Daily"
-    excerpt: "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday. Since the beginning of this year,"
-    publishedDateTime: 2021-09-23T11:56:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2021-09-23/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-korea-economic-daily"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 57
   - title: "Tesla drivers using 'full self-driving' Autopilot pay less attention to their surroundings"
     excerpt: "Tech giant Tesla is due to launch the latest version of its Autopilot “full self-driving” technology to owners this autumn, but new research has revealed that the system could be making drivers inattentive to their surroundings."
     publishedDateTime: 2021-09-21T15:10:00Z
@@ -262,6 +267,6 @@ related:
         height: 480
         isCached: true
 
-secured: "gC/Ut/B/2FcojweXd76w6heUKBiLdxgWEOoKTHMXJNSPfDJh93YtDcPoF88Pj90BJ0MFTUsDVNv02yhJLnbOKHPaBlhy8Q+knCSzHm5ZN4LVvkELgL08w8ub22VsTF1puZ2X8KtEtjhLF8PpI8ScWutU0qMhEGxuw5I8RaVYhyaCVuv4/Ccqz9E2ddkFa31z0bt2d0j0XrPC4KSScpJVVT46xBU8XMKv6ztI4nIipedzldy6jw9q6Www2vmoShEQ0CB+Ahph0sYRNuckhN5WRPRQhcE6RdMDh25m4Q2SaGFX3PC8taZhMME51CrU4HTnsVlmnKTcyoc2odiobrNi00ZcPDHq+jSNQPy+NYYfX/g=;0ga8LKiwPlPx6AKoxmIl/g=="
+secured: "cZvg1cVRzRu3iqSY9ZH3l5fjCgBEM62hkB5xB3PT+ih3Cr+lXWDEUva0hu39VryI3pqFcJ0iAE4hsCGcFoL4hlCrN3uCUpZfdb0cr6ZYZ6N952z98bAsLTmippzMy53xYNKmtClw+/rRvwDCWw6UyVGr9dYGuNUPC5JBNIH1OIYNmXeATf0uCGUkENEYr1MNiKbyKb7AcPCnU2fGcngLNmaGKE8lR1ZKev2Kpwe6nosFPoqu0fdsVVQQcmhb9VrupCBTAsjzRZCi+J7h72V+CV0IyRnlMZIVdP2NBb3xQDAG8MTJFr0emINVMMA3c1tbOmc8SKgbLFttx1qXhGTvDcZoQEfd+Dg+296yJkIydAZHaEEp3Ckdv63er0jraSTKLLGdkTsygkG7TKNFrKx+QE9kzD0GEzZ+ul9sM6b2lROBtLcQAH+WMjvkUeKAKOM2LyhgZWmWil+W8e9jfbMiptsTOLH90eGRtNx2H2exqzTQASg4Wk+Nxyr5g/4+3p7yGhwCIkmjaah2CatQqey+cw==;v1/0rv9LlFFn43PNRhiaFA=="
 ---
 

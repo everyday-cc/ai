@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/opinion/how-ai-is-redefining-th
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece/amp/"
 type: article
 quality: 59
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -132,6 +132,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 0
+  - title: "Share India set to disrupt algo-trading and fintech industry with two strategic acquisitions"
+    excerpt: "Share India Securities Limited has announced the acquisition of two companies, namely - Algowire Trading Technologies Private Limited and Utrade Solutions Private Limited. With these acquisitions, Share India Securities Limited has taken the next evolutionary step towards providing a platform for AI-driven automated trading,"
+    publishedDateTime: 2021-09-23T18:16:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20210923/3824700.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 0
 
 secured: "sHx7ZpNN6jrb/al3YUGCQ53PIQIxVMIB7isQL4YW+LOHIFiCvxjGHfYhbyzacg9XOcz75v+F8emTkIo0EdkccWu1s+r2iBGhZMQZi6C1tiZwx/6n8ZCbKPFERF6lC7/eDQa4EeHjh5iWmyioVaFdqS+OIi9ivIqCPjkF1ahNjZv0jygRqmB7ufyw9TG0F1+746IdghfprorDAU4mycUw6AV68mozVvtGGo2uGDzGfHwOgbcNrc9YRqiJACDqqdxJAy8VmSjSx8lwavEhI+Bf6U2N/Snm/ILJTI7wH/g15/tk6mz6X561A4QKjhtc8XhJBIXdPNdoxScjgHOkTGx7ak/TYD+QUq7VN2nvTlWmKWEpoauFim2xj07rM0nmBWoxpWNUQQjutR9W6mDY//r4FyFR4NtATYeHskYfEl5+RAiHOQM4whjd2B/wQQpaC0ml+7QRghoRDFoPZtenZB1JBqgIBHfo4pFQGi2k92lCduNVZY8EV9qSd/+QWsFiFz0nbQifTOG2mMpLoQWJk31Uiw==;aCakCQGwsyOaSxC1Qv8wRg=="

@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Samsung in Talks With Tesla to Make Next-Gen Self-Driving Chips -Korea Economic Daily"
-excerpt: "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday. Since the beginning of this year,"
-publishedDateTime: 2021-09-23T11:56:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2021-09-23/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-korea-economic-daily"
-webUrl: "https://money.usnews.com/investing/news/articles/2021-09-23/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-korea-economic-daily"
+title: "Samsung in talks with Tesla to make next-gen self-driving chips -Korea Economic Daily"
+excerpt: "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday."
+publishedDateTime: 2021-09-23T15:56:00Z
+originalUrl: "https://www.reuters.com/business/autos-transportation/samsung-talks-with-tesla-make-next-gen-self-driving-chips-korea-economic-daily-2021-09-23/"
+webUrl: "https://www.reuters.com/business/autos-transportation/samsung-talks-with-tesla-make-next-gen-self-driving-chips-korea-economic-daily-2021-09-23/"
 type: article
-quality: 57
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.reuters.com/resizer/WvidrcP5l2WCxHpUqCwZpUom3cQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FKIHL5J22BM6LM73QL4MWKOOG4.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Tesla is in talks with Samsung to produce its next-gen Full Self-Driving chip"
@@ -264,6 +270,6 @@ related:
         height: 480
         isCached: true
 
-secured: "1/R4Akv/tXqNaMNQcFSuij+PbbIbADeLrn+Imn9F0yGyAWaChAqjMs9A7gMkFx9Lc/CF+UKBkhG308HxAfrAgXtY17EPCMwekcGavElVbJ1WVY55TFjXpSrM2EgyEbO9jzIk2rTBn8oAlFh/Dq5MTD1yuxjMlfV/GUhMQ4MeOrpIJPTJjYESSlV1K8Vt7Yx7l5CQ2+xuSj2nBAuq6mTiL8+FT4YKLOqycPBq6nNP8XZsxRICBmrf+xs4n9lXo+QfbBmIspKUaHDQ1z0UgRYM1nGUKZx79XDWaZDlVeVSMCIbWkXEXXCK7IoNGBSVvEddmp2D0Lm8h54xtSccw8mEv2oX3euhVp1IZDOB1fcy0rm1fsi0SGYugbFRjEGOfvnP4CNpyl9v2vJ9pQaDNmrBHwP0FmK9lxtku4r39Zk23MUJbZC/0qDqcy2HEEgxE56tdDpN6EbZnx3+xWLHrQdPh/0iZ1SXV/v4TtIKHz7O1ABL4pqcclo+hrup5c6sBh4PW/VdrxhcGMrtn4ZOtmypIw==;f/7uJzKVU/QgtQqJA/60vA=="
+secured: "WEI5dwr4yHRYNGM4VWv/4j5NgObR7qGD2iQ4gbim2lifbJ1EHAoEWAVsL12EaA39awBPEwOL9xT1qLNpk75gP+OeqONe+YfGxuoY1HjLIP7dl4wrK2/uJL+kjAo46fv2Pk8EgaKt8GRduZCEWz5nyERUFPzn19y8lT3lXVGFk/CNh+w4afkjQ+thmbahWDknceQ/nP7lbWSXO/dOzdaLBJOm8ihRnUiwXQdtszzPIa45o/4PPMRWw5fU1U9J8vxbYcp0ZKrgHSs3ElwpL0HZQO+tdMnv1qg667PvW88ieLJP7oKDIk+fppzb9SLxgH/tEAFlM37xKXbALQgAsqXKX8H0W9+cP7FnsENMFs+8nLc=;Vq0wG8gHuLwa+cxO7sHr7g=="
 ---
 

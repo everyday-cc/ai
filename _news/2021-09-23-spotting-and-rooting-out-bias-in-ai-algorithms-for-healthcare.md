@@ -7,8 +7,8 @@ originalUrl: "https://medcitynews.com/2021/09/spotting-and-rooting-out-bias-in-a
 webUrl: "https://medcitynews.com/2021/09/spotting-and-rooting-out-bias-in-ai-algorithms-for-healthcare/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: MedCity News
@@ -38,20 +38,6 @@ related:
       - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_03_09_01_43_6240_artificial_intelligence_AI_suit_social.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "How artificial intelligence is making health care more human"
-    excerpt: "Health-care institutions have been anticipating the impact that artificial intelligence (AI) will have on the performance and efficiency of their operations and their workforces—and the quality of patient care."
-    publishedDateTime: 2021-09-22T14:33:00Z
-    webUrl: "https://www.healthcaredive.com/spons/how-artificial-intelligence-is-making-health-care-more-human/606994/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 39
-    images:
-      - url: "https://www.healthcaredive.com/user_media/cache/8e/b0/8eb08ec8d2bbb7c399d88f1fbfe3dad4.jpg"
-        width: 770
-        height: 364
         isCached: true
 
 secured: "j/vQvJpdcm7ZA9vISPQI7Bed1iqKB72xZJFLfh0z9IHm52JwZp3SkUBEvQKjJx6A270iPS/A7qS3UhRtX+FstgtJdKOGw3X0R0hTqWiNyEqS54tGD/Z0121lG12TzX/YybvQ5tZDzt0CWW89L10PTac0LMMcuBYAMIGIMtE+5b2HGFDCABFnuX6KeOxIG/W49PFMxv5xsXZq4dMFL9XxJsHBqJZfALnk5GwNc3oKBX7FODJ9U7fM7rg134SoI8FYpT5mjKmS+jC8rgboZdrfxK3f81an55C28kGW+OMKVP/0K9Cbe8He4+BVUvpmPJ0S5r5s25TMKu+vUJITOSqFLcyzSXyrkaqzFeMkt12vI54=;x/JRsd0fX1XO0Lk0ujTG/g=="

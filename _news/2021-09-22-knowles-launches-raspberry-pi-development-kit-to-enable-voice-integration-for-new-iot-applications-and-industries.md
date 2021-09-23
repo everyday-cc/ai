@@ -35,6 +35,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "InOrbit Launches Free Edition to Democratize Robot Operations"
+    excerpt: "Cloud-based software lets robot companies and those deploying robot fleets better manage and orchestrate their robots from anywhere in the world"
+    publishedDateTime: 2021-09-23T18:05:00Z
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=17514"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 19
 
 secured: "jnDKjhxD939v1ntBu+zp7L0gvFVPF7munDu4UHe6oxhIOidwbIiQT0h6u2hglNVRpsn50rd7tt0dUjIgn3byrAfpJaiVyOidm2bBLOY+5jyjd0hiW1Hufa+85IFsGY3VlEb9/owbB+HLtXn0S11S0Z6FeTxnJ775e7ygcu20PBH6uAB1mbl/vG4iyPwpMm3PDFlMV3mOERNBkyQCNBn5W3GANVN4wl+iu3J4OvDnxDPnDYps7P+4u+m1gcSGcmTyevEVlk3g19s0PfU0nIt3dFjNZKi3omPTOTKpLrLTe4G2Tr/eQagor4rQYW+9fXVwqhK60Y+YblY0KKEtOpnb9ZWLQsMcgAZUh0aIR2vmT8g=;vnBx+cuGRlohgcRRTvmhOQ=="
 ---
