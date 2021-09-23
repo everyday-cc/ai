@@ -26,22 +26,6 @@ images:
     height: 540
     isCached: true
 
-related:
-  - title: "A machine-learning algorithm to target COVID testing of travellers"
-    excerpt: "Optimizing the testing of incoming travellers for COVID-19 involves predicting those who are most likely to test positive. A machine-learning algorithm for targeted testing has been implemented at the Greek border."
-    publishedDateTime: 2021-09-22T15:19:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-02556-w"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 26
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02556-w/d41586-021-02556-w_19664468.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-
 secured: "/E4HoWizP6f9GrZldVf5WsJFEPBFUPP4DjTeFO8jHFEr/U52raOrYVO+Xbg8WPrRusb5gFc0sZkZtPh6Qeehl0mhKjtLQKkkZ2chpaVVpN+spd/B6uPwUuyBsCPBdBmXwnoc60hSTfhvg0zp/9uIsCRFkhpCgN5ptfFbDr56s4R4g79KMksjNPdFoAMqCWGqCB2TC0ZftCwji1awoIhHjI+HVXdim+EnKSfdSds8m+zWva9ykhkxXocuw+3OQDjRkhI7gUycgXyOcdI4EZrxj9NUQjVRKXuPWClA1Z1GM0z14v4LFaSEE7Gkcq8svfV3y9ZFP67ku5/JyTXsnSPtGyS3p4VjrxpCnd4gZdkV+bZpTU6KR09/MG7msJI0y6sUgX/ZT6CVeZY7mBpjpwooUFmwRM0SwqUP0cVqfwSOdNwYNExi3Z7Vy8+f8/jX/RNHqQxmLJbopXvbyJieiXJ+XBoaPrqgNRgX49lSq0ToStbinQ0RJZuIy3zADzacYgN2L/KmmCeRGi07FEEbCjgeiA==;Hlbotjp+43j8WHW2+dqV0A=="
 ---
 

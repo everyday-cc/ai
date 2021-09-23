@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geeksforgeeks.org/machine-learning-with-microsoft-azure-
 cdnAmpWebUrl: "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/amp/"
 type: article
 quality: 106
-heat: 176
+heat: 177
 published: true
 
 provider:

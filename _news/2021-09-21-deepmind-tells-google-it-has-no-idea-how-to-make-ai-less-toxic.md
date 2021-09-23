@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/deepmind-tells-google-no-idea-make-ai-
 webUrl: "https://thenextweb.com/news/deepmind-tells-google-no-idea-make-ai-less-toxic"
 type: article
 quality: 84
-heat: 108
+heat: 104
 published: true
 
 provider:

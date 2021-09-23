@@ -96,6 +96,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Aurora Will Test Its Fleet of Self-Driving, Ride-Hailing Toyota Robotaxis in Dallas"
+    excerpt: "AM\" hybrid electric minivans—short for \"Sienna Autonomo-MaaS\"—will be tested in a six-month pilot program in Dallas, Pittsburgh, the San Francisco Bay areal, and other locations. Aurora intends to deploy the vehicles on ride-hailing networks in late 2024."
+    publishedDateTime: 2021-09-21T22:41:00Z
+    webUrl: "https://dallasinnovates.com/aurora-will-test-its-fleet-of-self-driving-ride-hailing-toyota-siennas-in-dallas/"
+    type: article
+    provider:
+      name: dallasinnovates.com
+      domain: dallasinnovates.com
+    quality: 33
+    images:
+      - url: "https://s24806.pcdn.co/wp-content/uploads/2021/09/Toyota_Sienna_Powered_By_Aurora.jpg"
+        width: 970
+        height: 464
+        isCached: true
   - title: "FedEx partners with Aurora, Paccar for self-driving hauls between Dallas and Houston"
     excerpt: "Autonomously enabled trucks will haul FedEx loads between Dallas and Houston on a 500-mile round trip along the I-45 corridor. Read CCJ for details."
     publishedDateTime: 2021-09-22T16:45:00Z

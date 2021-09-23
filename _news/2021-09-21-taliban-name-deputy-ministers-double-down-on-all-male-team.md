@@ -26,6 +26,17 @@ images:
     height: 641
     isCached: true
 
+related:
+  - title: "Afghan Taliban's New UN Envoy Urges Quick Recognition"
+    excerpt: "The Taliban's newly appointed envoy to the United Nations is urging quick world recognition of the Taliban government and Afghanistan's new rulers even as the World Health Organization raised the alarm warning of an impending humanitarian disaster in the war-wracked country."
+    publishedDateTime: 2021-09-22T20:08:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-09-22/afghan-talibans-new-un-envoy-urges-quick-recognition"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
+
 secured: "VtsXu8AeByzgM/FhaJ8V+VyZ/Nj8Wspb7wPTuXC7LXJfjtW3mNsWqtRg2xK3hmYj8Ed/a2Pjtgf2qWQwaw0QD7A2rdnXTR11V0y+eDlHspovK1UTUEqHh94peSDzzxwdltAQG/hEj31qCLnbxzSi248qhxoe6uG3M8NwnU6FOtJZ+Bd+dDwLXs3Qcm93ZWanUgk+sQIIP/xNsMXYZrBp+oHTGUMnD+f6yOuX4i/Xt53rJehT8JJKbukGpyCcFOFVTxHAYDRcxKijtLPCMpn77H5D5UoOt1mF3j4fHHljQ4hrEPSLu35G/hTQxej6rfoi0J03AblGsACro2SFJjjxAp28fbcF2TYvpao/tIn3OCA=;pCIwXkgM6mtYg3LeVJcX/w=="
 ---
 

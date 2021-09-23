@@ -103,15 +103,6 @@ related:
         width: 752
         height: 501
         isCached: true
-  - title: "China launches its self-driving taxis"
-    excerpt: "Baidu is at the same stage of development and testing as Waymo, the autonomous car branch of the American company Alphabet. Recently, Waymo announced the launch of a handful of self-driving cabs ..."
-    publishedDateTime: 2021-09-18T06:17:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/leisure/automotive/2021/09/18/china-launches-its-self-driving-taxis/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 4
 
 secured: "ZXBOO7EfyPZMVjMEYqi0+bTr1Mqdup4qujNRoLQXU7LgAL4vEZnFpSGBPsudbG3gtiV6SN/EYVdpn25mIkjPqUGrNAS1Ec6RilPvqQv3rGj5zxsL5FkYK7JkzAoB5UCSFgk3kRB4FIs8nTx0XySAGiI38dfd6f0zIc0ZDiavS+FQsvDA1Ex8/xd7XdN6FcXfpKqLMHe0kTksp3V2OGIUx4ZtbregsKWAoJ8Pf8M2BR9jKBDXid5PGhDN8muGmhb5A/u/ZrgUdPQutZ5x/ujl8Xpkz864WQwxmQV6KWQrR5LEbv8lBwYHCBlEg55A+CqNf336wEAuNEwb+cu1zUHdCNgCUx7uTl/3IHqceWaweAA=;bfBhSHNTjSSy5wy1jtB3GQ=="
 ---

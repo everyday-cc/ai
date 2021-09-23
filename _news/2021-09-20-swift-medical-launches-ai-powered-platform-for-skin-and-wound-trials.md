@@ -7,7 +7,7 @@ originalUrl: "https://www.outsourcing-pharma.com/Article/2021/09/20/Swift-Medica
 webUrl: "https://www.outsourcing-pharma.com/Article/2021/09/20/Swift-Medical-launches-AI-powered-platform-for-skin-trials"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 750
     height: 435
     isCached: true
+
+related:
+  - title: "Corporate Traveler Launches AI-Powered Travel Management Tool"
+    excerpt: "Global corporate travel management company Corporate Traveler is introducing a proprietary solution ahead of the forecast increase in business travel demand."
+    publishedDateTime: 2021-09-22T22:29:00Z
+    webUrl: "https://www.pymnts.com/travel-payments/2021/corporate-traveler-launches-ai-powered-travel-management-tool/"
+    ampWebUrl: "https://www.pymnts.com/travel-payments/2021/corporate-traveler-launches-ai-powered-travel-management-tool/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/travel-payments/2021/corporate-traveler-launches-ai-powered-travel-management-tool/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/09/Corporate-Traveler-AI-business-travel-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
 
 secured: "5X80gG/80TdlRe4CX0D9YSFt5A5hGcM+QIhMZo75ajysutS55ExDJBvFcCT7t2sPcCOOjK6mU56v3+IR/SkCh9gcnl52sSrJdRLWzPVVH9mcTWjR8mYDYyQw3mYK5GOBlOLu/EDMl5t2LRacqAoga+ZBy5Bmbw+/tbyPwmMFzvRi+wx1q2/hVJs/+X9ih8JAtFSCuQrXdw2p93GQhQuq2QKiJfJn4U4dAKFKn5xT8Rmo1drL4rJ5CQAgSR7oG6DGGal85QeyKd1Qu86KzzYXoldmF1Ic3xY7HZ1JCHZunfJ+zGZI6SEqVtC1HUYCSI2MsWyXIjeLWhfWcWnu3CZV6mka6YlIhv3PMwAhDYZVz7w=;mLxaOW2aj8C9/uH76yLqeg=="
 ---

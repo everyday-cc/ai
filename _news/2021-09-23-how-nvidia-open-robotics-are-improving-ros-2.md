@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/how-nvidia-open-robotics-improving-
 webUrl: "https://www.therobotreport.com/how-nvidia-open-robotics-improving-ros-2/"
 type: article
 quality: 86
-heat: 86
+heat: 87
 published: true
 
 provider:

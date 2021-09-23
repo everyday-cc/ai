@@ -6,7 +6,7 @@ publishedDateTime: 2021-09-22T21:42:00Z
 originalUrl: "https://www.publicnow.com/view/B23029C2602B9561A75097B1C70EAFC5817FE775"
 webUrl: "https://www.publicnow.com/view/B23029C2602B9561A75097B1C70EAFC5817FE775"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 related:
   - title: "5 Artificial Intelligence Grand Challenges for the Electric Power Industry"
