@@ -41,6 +41,17 @@ related:
         width: 650
         height: 520
         isCached: true
+  - title: "Proposed Local Facial Recognition Technology Ban Draws Fire"
+    excerpt: "Around 20 different state and local governments have so far banned some uses of facial recognition technologies by law enforcement. The Town of Hamden (population around 61,000) in Connecticut is considering joining those jurisdictions by adopting an ordinance that would prohibit all town officials from obtaining,"
+    publishedDateTime: 2021-09-23T14:10:00Z
+    webUrl: "https://reason.com/2021/09/23/proposed-local-facial-recognition-technology-ban-draws-fire/"
+    ampWebUrl: "https://reason.com/2021/09/23/proposed-local-facial-recognition-technology-ban-draws-fire/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/09/23/proposed-local-facial-recognition-technology-ban-draws-fire/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 41
 
 secured: "x1b8X3LcWkDky6IPfrrctuLBx2686TCWuMP3ipABScABMcyZUbknRY6DBjPqxFohaMMLj42XLj5jzq18udc1hN4+EEuAh4EbhWWup8IzEGRtR/wx45Ky/Fe4XeH8jeYlwhAYJZzHkhjZl9Urx4/1lt4sORYlXrNQaIAexN9xxdcH9FYNupKISGCDxo16W4nFfynG4QrJGYFtyAovxRqOlkRmLSPfv/+wHSa5VxkRHBsJxIXzGb0Tr4N09tfQf5A3FJaXUZ/LklhkW8FJvqOdEWBtAUbHrzBUovDtq1QJEMcluYNt82XmETSBIFc23rDvZmoFQ8MEVTAwKz6+RA9SeZ0UrwEAg5nKF9ZDzFz5I6Ho23JGTvlCpNPGFLrzTc8hwOlPMRCkK+L3U3+lyUaS+aG2+Qh9PcSuPmvBha0PdAgGC+wrWW2IYBqEANcrj2JOV2TW4jdwg8LktAzKqe9YuTm6iXqoyn1fswcd2Se4zy1lAA1zyU87rezUOJe58JRr9hLQ6jjMFKUhsL7i+z7HUQ==;z9gs8T6H6FWozN5ZLeNgDw=="
 ---

@@ -2,17 +2,17 @@
 category: news
 title: "Researchers working on new way to design personalized cancer treatment options"
 excerpt: "Researchers are using AI and data to create virtual replicas of cancer patients' DNA, RNA, protein and other information. These virtual replicas are known as \"molecular twins.\" They will be used to help identify the most effective approach to treating each individual's disease."
-publishedDateTime: 2021-09-21T18:21:00Z
-originalUrl: "https://www.turnto23.com/news/national/researchers-working-on-new-way-to-design-personalized-cancer-treatment-options"
-webUrl: "https://www.turnto23.com/news/national/researchers-working-on-new-way-to-design-personalized-cancer-treatment-options"
+publishedDateTime: 2021-09-21T17:38:00Z
+originalUrl: "https://www.thedenverchannel.com/news/national/researchers-working-on-new-way-to-design-personalized-cancer-treatment-options"
+webUrl: "https://www.thedenverchannel.com/news/national/researchers-working-on-new-way-to-design-personalized-cancer-treatment-options"
 type: article
 quality: 20
 heat: -1
 published: false
 
 provider:
-  name: KERO-TV
-  domain: turnto23.com
+  name: 7News and TheDenverChannel.com
+  domain: thedenverchannel.com
 
 topics:
   - AI in Healthcare
@@ -42,6 +42,6 @@ related:
         height: 415
         isCached: true
 
-secured: "WoBqLQK7g9amTmIY9wtrJJVmWx6T02KsUjn233MbqoRt9SdaAgtU3k6kcHE4pLVhcIfReVac6rlK/2CKOpG+RnaXYx46arU64kJBFs+vE+539YtX+dv+fhEiGYOI8qnHb8woSPGpw7Te0S++8aTGZHuwjRIr+xBKBZebHsqK0O5Hu7Tgf7LG7SEALIpQ/6XvmRMXcrEGLO+xe0gtJOmTtnTG1XFh/mK8X5GleWrYgoLQEtgUPQrHLd+Z2tbJg2u1KQeYa3qpJU/3NZV/7c2ApBPo+z2xoWoxJgaIH3jMsKp3hjyC6yPa03vTL5cCXz7TU3+rdhqnRtGphvTj3d5Y/ZMkcwP31gaJ0lh2/MYeb1o=;JU00zBZ/R603KLAWDiEdFg=="
+secured: "D12uHZ+3ktdXGzkYhMCvMirIOCjb5VmQda11mf4HhwNTEGHHlNCCYxQSL17lsjEjRjVW9E+BUbsqhk4oo6+8tmif9c0TaU16ivkWApFNLFVoFWfGft/Bs7gydYaG59r6DMr/AU2DmBN1S8P6YtW8utotjZNRIc+se73n38QL3+sk+9/FCHN+m4e7/q+vWOdujG3aH6G7eyxW6AUrzQJkpkoxFuh/k6XQpdRmo/ymYuQBddPZGl3djCeSpBrAsZih9VI6XBxgHYOXpN5kqLyrIoKCFCKZBwBxWXljZUBh7a1zEp8vS/8wjHMajoGjkd//diL0cSYHJ+IYV20pej2wYmeiq9dOOtpfF+M+9PrIhyU=;y+iLBCTJPzpR/HheOWCefA=="
 ---
 

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "CT town at forefront of national debate over facial recognition tech"
-excerpt: "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning the use of facial recognition technology."
-publishedDateTime: 2021-09-21T20:42:00Z
-originalUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php"
-webUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php"
+excerpt: "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning governmental use of facial recognition technology."
+publishedDateTime: 2021-09-21T18:13:00Z
+originalUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b"
+webUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b"
 type: article
-quality: 41
+quality: 39
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: nhregister.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
   - url: "https://s.hdnux.com/photos/01/20/22/56/21048234/21/rawImage.jpg"
@@ -83,6 +82,6 @@ related:
         height: 666
         isCached: true
 
-secured: "RibW6TgipJdeMDZ2WIUM+ddRuoqogAE6Gzc5GOeudI01/kpILuexrtHY0bIZFasn6NiZSUNK70iVBVLUCWqhvKASteufxAJZdFe/iMUG3BpNzxZZTZ7wDfYI1ob28f0sGq21QlCT2swx0MYYy7wOLYz44s6SEBXW3jB9JflvPlJyJIbF3jOIN/nMujdOsOWilK+C8nH9jZHgChuut9/43iyZiT3P0ubCCInbSwktafSbPfaKrnkPIMjid8BMzwe2Mq/uXoZQP7qAO5EyOHrXaL+dj4KVFF9Ud2p9BTVWFd1+60voC/AuLwpHbfI60fM7ZTfg4Ivg7l0qujUo4seNwRWzxgyL1JnSoEP5l5hhwlQ=;MEv6uNS0D63Pdl21n6gMLQ=="
+secured: "8MMivFM5T2bBbEKLQAfEk7U+62YXWmHWabCK+gH/wL1NF30PGZwwT5N7/X+jziRnsi5cdL/pzhM7jyEbXkwzCsrBsm+2DwNMGYwzJ38tgctXrcNv2n0RZ5VvO9bBrFpKzUPP5O1KlK+KBA5RZAhOoOmUGpDKj07WLXZq/4H1/eoYnU0H1uLaMzCe+j4riYW32duuJQpN5sV2d/5nPp4m7wRwaBxTUwYLvsDhWxi+O0jh9cQzarnHhVj8AOy4mlUNwY/+AIQsuPHHYz6TADaRqXyw8A5OeDH+hoYGKNPfR/befa6DQfLY6EoiH6TiC3qNTo6hPwrylellgkwz6o42j/OxPIcJpqF4QUaV5BxLfP0=;WN0Flh3CHcinbNqzBB9FAQ=="
 ---
 

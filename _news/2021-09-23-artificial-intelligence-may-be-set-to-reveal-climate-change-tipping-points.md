@@ -2,21 +2,29 @@
 category: news
 title: "Artificial intelligence may be set to reveal climate-change tipping points"
 excerpt: "Researchers are developing artificial intelligence that could assess climate change tipping points. The deep learning algorithm could act as an early warning system against runaway climate change."
-publishedDateTime: 2021-09-23T04:04:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/929279"
-webUrl: "https://www.eurekalert.org/news-releases/929279"
+publishedDateTime: 2021-09-23T07:32:00Z
+originalUrl: "https://phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.html"
+webUrl: "https://phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.html"
+ampWebUrl: "https://phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.amp"
 type: article
-quality: 15
-heat: 15
+quality: 55
+heat: 55
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
 
-secured: "jqzyEBgefahqRK7nnmcSDLABBgikjTqu5hyImN33mRxNPHTCmifWTScg1tP9Mqnf3fa/DGmPtKW1nHkWtCwhhMlvGV+y31RBH9rR6aS5mWId0WBn9lXRRRLvB0s3D4xQ+Pq2uv8DoRKZGk3joQKtA3Rm3lS/XfSUyJ2Z6C69MIozkfMKEp+Y+y3Mjl/ktNgKkkuH7kZHm2wUfVjTpgavoJ0785Lq7/s1Y4DDxceIdfyicGDJSwmLHk3GmcKuVrHoEHXvO8xCgl1MAJTZZ1Dadeau/f2cwOZaBTnn0wcGxIacrC4wFB1uFLuMVW9k+TjHjavb3C9QE2GCIqipqZmaUTCj0mMv+QSG3isqW9t+Gwo=;r76DKUHNbAf1FxZ8vrPe9Q=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/climate-change.jpg"
+    width: 2880
+    height: 1920
+    isCached: true
+
+secured: "s+HRp6FGUhV+Ox0olbUqd/lCqcApZj0367kk8H3EwrC4RPQZRmp18aGPC3gABr2TpZ3OH2PVz2QCW3uR1vG6V/B7b98gpcWT/vVFbf+y/9Sb4Hj0TY6Z0RoC4BzAW5WzMoueHt2sHa5M10h8wqYhB2TAf6u8w+2Apvxi26dEc3FO3lhBC9OUhLjfCaEO0XE3bHGn9eN+PxkEmemXKtFfGTy0qttW/ouLXhySf3K4bRp9RdjEUOZX2xF67cFafwmDK9APwAxtwUmsI+6LRfkGTogFa5U2FqQUJUsT6F90aNmErtNBEdwkjC2iD5Vs9t03dpkzddunpXrwoeLcLgcOZRtjFUWMx4D0Meh+1iVSBGk=;YOOKKJ28xVXsb1XQBecJPA=="
 ---
 

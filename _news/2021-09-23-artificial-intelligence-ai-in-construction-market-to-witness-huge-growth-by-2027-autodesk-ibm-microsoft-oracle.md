@@ -134,6 +134,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AtScale Expands Semantic Layer Solution for Microsoft Excel"
+    excerpt: "AtScale, the leading provider of semantic layer solutions for modern business intelligence and data science teams, today announced deeper integration with Microsoft Excel’s advanced analytic functions."
+    publishedDateTime: 2021-09-23T14:34:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-453e695520c84019893466e4df57572b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 41
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Everything Announced at Microsoft's 2021 Surface Event"
     excerpt: "Surface Studio Laptop . Instead of the next iteration of the Surface Book, Microsoft announced a \"fresh take on [its] powerhouse laptop\" in the form of the Surface Laptop Studio."
     publishedDateTime: 2021-09-23T05:38:00Z

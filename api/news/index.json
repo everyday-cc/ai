@@ -2,6 +2,196 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-23-tesla-is-in-talks-with-samsung-to-produce-its-next-gen-full-self-driving-chip.md",
+      "title": "Tesla is in talks with Samsung to produce its next-gen Full Self-Driving chip",
+      "excerpt": "According to a new report from Korea, Tesla is currently in talks with Samsung Electronics to produce its next-gen Full Self-Driving chip. The new chip is expected to first launch in the Tesla Cybertruck next year.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/",
+      "originalUrl": "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 253,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Screen-Shot-2019-04-22-at-2.48.54-PM-e1568302212821.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/amp/",
+      "publishedDateTime": "2021-09-23T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-artificial-intelligence-in-bfsi-market-is-thriving-worldwide-ibm-baidu-brighterion-microsoft.md",
+      "title": "Artificial Intelligence in BFSI Market Is Thriving Worldwide | IBM, Baidu, Brighterion, Microsoft",
+      "excerpt": "The global research report on the Artificial Intelligence in BFSI market provides in-depth current market analysis scenario, upcoming as well as future opportunities, revenue growth, pricing and profitability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-in-bfsi-market-is-thriving-worldwide-ibm-baidu-brighterion-microsoft/",
+      "originalUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-in-bfsi-market-is-thriving-worldwide-ibm-baidu-brighterion-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-in-bfsi-market-is-thriving-worldwide-ibm-baidu-brighterion-microsoft/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/artificial-intelligence-in-bfsi-market-is-thriving-worldwide-ibm-baidu-brighterion-microsoft/",
+      "publishedDateTime": "2021-09-23T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-gm-invests-300m-in-chinas-first-self-driving-car-unicorn-momenta.md",
+      "title": "GM invests $300M in China’s first self-driving car unicorn Momenta",
+      "excerpt": "General Motors has now joined a slew of other major automakers, including Toyota, Chinese state-backed SAIC Motor, and Mercedes-Benz AG in putting its chips behind Chinese autonomous driving startup Momenta.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/23/gm-invests-300m-in-chinas-first-self-driving-car-unicorn-momenta/",
+      "originalUrl": "https://techcrunch.com/2021/09/23/gm-invests-300m-in-chinas-first-self-driving-car-unicorn-momenta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/momenta-2021_1.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/23/gm-invests-300m-in-chinas-first-self-driving-car-unicorn-momenta/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/23/gm-invests-300m-in-chinas-first-self-driving-car-unicorn-momenta/amp/",
+      "publishedDateTime": "2021-09-23T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-artificial-intelligence-the-future-of-cybersecurity.md",
+      "title": "Artificial Intelligence: The Future Of Cybersecurity?",
+      "excerpt": "Cybersecurity in Industry 4.0 cannot be tackled in the same way as that of traditional computing environments. The number of devices and associated challenges are far too many.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/23/artificial-intelligence-the-future-of-cybersecurity/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/23/artificial-intelligence-the-future-of-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614b856b91e7d8da240c0d2e%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/23/artificial-intelligence-the-future-of-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/09/23/artificial-intelligence-the-future-of-cybersecurity/amp/",
+      "publishedDateTime": "2021-09-23T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-opinion-how-artificial-intelligence-could-save-your-life.md",
       "title": "Opinion: How artificial intelligence could save your life",
       "excerpt": "Machine intelligence implies serious consequences for human life, with mass unemployment being just one example. And yet, the transformative power of AI might actually save people’s lives. AI aims to simulate the human mind’s ability to learn,",
@@ -43,50 +233,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report.md",
-      "title": "Samsung in talks with Tesla to make next-gen self-driving chips: Report",
-      "excerpt": "Tesla and Samsung have discussed chip design multiple times and exchanged chip prototypes for Tesla's upcoming Hardware 4 self-driving computer, the Korea Economic Daily reported, citing sources with direct knowledge of the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbctv18.com/business/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-10856942.htm",
-      "originalUrl": "https://www.cnbctv18.com/business/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-10856942.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cnbctv18.com/wp-content/uploads/2019/08/d57a9e9205bdb07eb4b59bff00c4900f-999x573.jpg",
-          "width": 999,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbctv18.com/business/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-10856942.htm/amp",
-      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/business/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-10856942.htm/amp",
-      "publishedDateTime": "2021-09-23T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnbctv18",
-        "domain": "cnbctv18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     },
     {
@@ -1071,134 +1217,6 @@
         "AI",
         "Microsoft AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-fedex-to-test-auroras-self-driving-trucks-on-dallas-to-houston-route.md",
-      "title": "FedEx to test Aurora’s self-driving trucks on Dallas-to-Houston route",
-      "excerpt": "FedEx has started to use self-driving trucks to haul goods between Dallas and Houston as part of a pilot program with autonomous vehicle startup Aurora and heavy duty vehicle manufacturer Paccar. Paccar trucks that are equipped with Aurora’s technology will be used multiple times a week to",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/22/fedex-to-test-auroras-self-driving-trucks-on-dallas-to-houston-route/",
-      "originalUrl": "https://techcrunch.com/2021/09/22/fedex-to-test-auroras-self-driving-trucks-on-dallas-to-houston-route/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/fedex-aurora.jpg?w=1024",
-          "width": 1024,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/22/fedex-to-test-auroras-self-driving-trucks-on-dallas-to-houston-route/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/fedex-to-test-auroras-self-driving-trucks-on-dallas-to-houston-route/amp/",
-      "publishedDateTime": "2021-09-22T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-mobile-artificial-intelligence-mai-market-aims-to-expand-at-double-digit-growth-rate-covid-19-analysis-microsoft-mediatek.md",
-      "title": "Mobile Artificial Intelligence (MAI) Market Aims to Expand at Double-Digit Growth Rate Covid-19 Analysis | Microsoft, MediaTek",
-      "excerpt": "The Mobile Artificial Intelligence MAI market report is divided into four categories in the market research type product user and geography In order to help key companies in product sales it gives some suggestions and views on how to target",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2402947/mobile-artificial-intelligence-mai-market-aims-to-expand",
-      "originalUrl": "https://www.openpr.com/news/2402947/mobile-artificial-intelligence-mai-market-aims-to-expand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/9/U922245742_g.jpg",
-          "width": 600,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2402947/mobile-artificial-intelligence-mai-market-aims-to-expand",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2402947/mobile-artificial-intelligence-mai-market-aims-to-expand",
-      "publishedDateTime": "2021-09-22T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-paige-obtains-fda-de-novo-authorization-for-ai-based-pathology-software-to-diagnose-prostate-cancer.md",
-      "title": "Paige Obtains FDA De Novo Authorization for AI-Based Pathology Software to Diagnose Prostate Cancer",
-      "excerpt": "The firm said that in a clinical study pathologists using its Paige Prostate product had a 70 percent reduction in false negative diagnoses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.360dx.com/regulatory-news-fda-approvals/paige-obtains-fda-de-novo-authorization-ai-based-pathology-software",
-      "originalUrl": "https://www.360dx.com/regulatory-news-fda-approvals/paige-obtains-fda-de-novo-authorization-ai-based-pathology-software",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-22T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "360dx",
-        "domain": "360dx.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

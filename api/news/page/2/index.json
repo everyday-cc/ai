@@ -2,6 +2,134 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-22-fedex-to-test-auroras-self-driving-trucks-on-dallas-to-houston-route.md",
+      "title": "FedEx to test Aurora’s self-driving trucks on Dallas-to-Houston route",
+      "excerpt": "FedEx has started to use self-driving trucks to haul goods between Dallas and Houston as part of a pilot program with autonomous vehicle startup Aurora and heavy duty vehicle manufacturer Paccar. Paccar trucks that are equipped with Aurora’s technology will be used multiple times a week to",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/22/fedex-to-test-auroras-self-driving-trucks-on-dallas-to-houston-route/",
+      "originalUrl": "https://techcrunch.com/2021/09/22/fedex-to-test-auroras-self-driving-trucks-on-dallas-to-houston-route/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/fedex-aurora.jpg?w=1024",
+          "width": 1024,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/22/fedex-to-test-auroras-self-driving-trucks-on-dallas-to-houston-route/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/fedex-to-test-auroras-self-driving-trucks-on-dallas-to-houston-route/amp/",
+      "publishedDateTime": "2021-09-22T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-mobile-artificial-intelligence-mai-market-aims-to-expand-at-double-digit-growth-rate-covid-19-analysis-microsoft-mediatek.md",
+      "title": "Mobile Artificial Intelligence (MAI) Market Aims to Expand at Double-Digit Growth Rate Covid-19 Analysis | Microsoft, MediaTek",
+      "excerpt": "The Mobile Artificial Intelligence MAI market report is divided into four categories in the market research type product user and geography In order to help key companies in product sales it gives some suggestions and views on how to target",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2402947/mobile-artificial-intelligence-mai-market-aims-to-expand",
+      "originalUrl": "https://www.openpr.com/news/2402947/mobile-artificial-intelligence-mai-market-aims-to-expand",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/9/U922245742_g.jpg",
+          "width": 600,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2402947/mobile-artificial-intelligence-mai-market-aims-to-expand",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2402947/mobile-artificial-intelligence-mai-market-aims-to-expand",
+      "publishedDateTime": "2021-09-22T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-paige-obtains-fda-de-novo-authorization-for-ai-based-pathology-software-to-diagnose-prostate-cancer.md",
+      "title": "Paige Obtains FDA De Novo Authorization for AI-Based Pathology Software to Diagnose Prostate Cancer",
+      "excerpt": "The firm said that in a clinical study pathologists using its Paige Prostate product had a 70 percent reduction in false negative diagnoses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.360dx.com/regulatory-news-fda-approvals/paige-obtains-fda-de-novo-authorization-ai-based-pathology-software",
+      "originalUrl": "https://www.360dx.com/regulatory-news-fda-approvals/paige-obtains-fda-de-novo-authorization-ai-based-pathology-software",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-22T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "360dx",
+        "domain": "360dx.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-new-ai-optimized-software-could-improve-nanoparticle-design-for-cancer-therapy.md",
       "title": "New AI-Optimized Software Could Improve Nanoparticle Design for Cancer Therapy",
       "excerpt": "The EVONANO platform developed at the University of Bristol enables scientists to develop virtual tumors and employ artificial intelligence to make automated optimization of the design of nanoparticles to treat the tumors.",
@@ -585,58 +713,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-22-tesla-full-self-driving-an-overview-of-how-it-works.md",
-      "title": "Tesla Full Self-Driving: An overview of how it works",
-      "excerpt": "If there is one piece of technology that's pretty optimistic, it's Tesla's Full Self-Driving system. There are no self-driving cars on sale today, despite what \"FSD\" -- as Tesla owners and CEO Elon Musk refer to it as -- promises.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/tesla-full-self-driving-overview-cost-investigation/",
-      "originalUrl": "https://www.cnet.com/news/tesla-full-self-driving-overview-cost-investigation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/bOyPv1h-UlqYl-el3hHcBa2WShc=/644x362/2017/03/14/e743e9be-1c54-4dd3-9583-248dd3e54e34/amp-placeholder.jpg",
-          "width": 644,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-overview-cost-investigation/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-overview-cost-investigation/",
-      "publishedDateTime": "2021-09-22T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-22-new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks.md",
       "title": "New UT program puts focus on ethical AI, building robots to do ‘helpful tasks’",
       "excerpt": "How does society approach the ethical use of artificial intelligence and building robots? It’s a question students at the University of Texas at Austin will soon have to take a deeper look into. Called CREATE (Convergent,",
@@ -932,7 +1008,7 @@
       "originalUrl": "https://www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 236,
       "tags": null,
       "images": [
         {
@@ -1094,101 +1170,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-calculate-inference-units-for-an-amazon-rekognition-custom-labels-model.md",
-      "title": "Calculate inference units for an Amazon Rekognition Custom Labels model",
-      "excerpt": "Amazon Rekognition Custom Labels allows you to extend the object and scene detection capabilities of Amazon Rekognition to extract information from images that is uniquely helpful to your business. For example, you can find your logo in social media posts, identify your products on store shelves, classify",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/calculate-inference-units-for-an-amazon-rekognition-custom-labels-model/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/calculate-inference-units-for-an-amazon-rekognition-custom-labels-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-21T14:11:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-researchers-develop-ai-algorithm-to-diagnose-deep-vein-thrombois.md",
-      "title": "Researchers Develop AI Algorithm To Diagnose Deep Vein Thrombois",
-      "excerpt": "Researchers worked with a UK healthtech startup to develop an AI algorithm that could diagnose Deep Vein Thrombsis faster and more accurately.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/09/21/researchers-develop-ai-algorithm-to-diagnose-deep-vein-thrombois/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/09/21/researchers-develop-ai-algorithm-to-diagnose-deep-vein-thrombois/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614a32e48976b9ae21a69f7b%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/09/21/researchers-develop-ai-algorithm-to-diagnose-deep-vein-thrombois/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/09/21/researchers-develop-ai-algorithm-to-diagnose-deep-vein-thrombois/amp/",
-      "publishedDateTime": "2021-09-21T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

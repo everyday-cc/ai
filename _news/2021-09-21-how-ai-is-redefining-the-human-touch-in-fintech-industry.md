@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/opinion/how-ai-is-redefining-th
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece/amp/"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1632378030.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "Tavant Ranks on the IDC FinTech Top for Third year in a Row"
+    excerpt: "Prestigious listing highlights top 100 global providers of financial technologySANTA CLARA, Calif.--(BUSINESS WIRE)--Tavant, a Silicon Valley-based provider of industry-leading digital lending technologies,"
+    publishedDateTime: 2021-09-23T14:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=535814"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
   - title: "Share India set to disrupt the FinTech industry with strategic acquisitions"
     excerpt: "Share India announced the acquisition of two companies, Algowire Trading Technologies Private Limited and Utrade Solutions Private Limited."

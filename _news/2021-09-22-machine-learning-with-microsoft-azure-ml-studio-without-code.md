@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geeksforgeeks.org/machine-learning-with-microsoft-azure-
 cdnAmpWebUrl: "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/amp/"
 type: article
 quality: 106
-heat: 226
+heat: 236
 published: true
 
 provider:
@@ -135,6 +135,20 @@ related:
       - url: "https://assets-prd.ignimgs.com/2021/09/21/content-1632248757378.jfif?width=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "AtScale Expands Semantic Layer Solution for Microsoft Excel"
+    excerpt: "AtScale, the leading provider of semantic layer solutions for modern business intelligence and data science teams, today announced deeper integration with Microsoft Excel’s advanced analytic functions."
+    publishedDateTime: 2021-09-23T14:34:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-453e695520c84019893466e4df57572b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 41
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Everything Announced at Microsoft's 2021 Surface Event"
     excerpt: "Surface Studio Laptop . Instead of the next iteration of the Surface Book, Microsoft announced a \"fresh take on [its] powerhouse laptop\" in the form of the Surface Laptop Studio."

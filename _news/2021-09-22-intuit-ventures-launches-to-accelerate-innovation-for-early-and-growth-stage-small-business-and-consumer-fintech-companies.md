@@ -53,6 +53,15 @@ related:
         width: 1577
         height: 1050
         isCached: true
+  - title: "Intuit Ventures Launches to Accelerate Innovation for Early and Growth Stage Small Business and Consumer Fintech Companies"
+    excerpt: "Intuit Ventures Launches to Accelerate Innovation for Early and Growth Stage Small Business and Consumer Fintech Companies"
+    publishedDateTime: 2021-09-22T19:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210922005246/en/Intuit-Ventures-Launches-to-Accelerate-Innovation-for-Early-and-Growth-Stage-Small-Business-and-Consumer-Fintech-Companies"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "8skaq51hqmZGWNU0A4W9D8YdS2/9ooeK+epoF4zQktgtu4V1USCf1MJ1qmmwQEFZ2CmIXNk7W1mfD5MSfF4s8nKu0hnbIbherJ8wVmWDaESz7D1YDs58+1yk2QJXpHYEWHR0BXeyA6iWH180pa/qvWF6hWpBoGm/gBqv8Hnp3/sXaFHVkZ2tWbSymAlQH98KzRFZDNr6KgnR4CvcDgwGGwdI4G8KbE6n/TPgnOwFC8pHWy8tSKzy9WInZxWAXyBcbWvfoWkv72v0b6SPfSF53jVCd57cZdL2/jG66kQTewEMQyMsizcNj3cfoWWZToE8vCTqVo02R+RI8CmXP/mjRdBZB/OLeEpcUUz6I3cNRug=;21lcgUW2YKAUtyA3J6AmYg=="
 ---

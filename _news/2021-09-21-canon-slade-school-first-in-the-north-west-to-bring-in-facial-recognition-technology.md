@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theboltonnews.co.uk/news/19594539.amp/"
 cdnAmpWebUrl: "https://www-theboltonnews-co-uk.cdn.ampproject.org/c/s/www.theboltonnews.co.uk/news/19594539.amp/"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: The Bolton News
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Proposed Local Facial Recognition Technology Ban Draws Fire"
+    excerpt: "Around 20 different state and local governments have so far banned some uses of facial recognition technologies by law enforcement. The Town of Hamden (population around 61,000) in Connecticut is considering joining those jurisdictions by adopting an ordinance that would prohibit all town officials from obtaining,"
+    publishedDateTime: 2021-09-23T14:10:00Z
+    webUrl: "https://reason.com/2021/09/23/proposed-local-facial-recognition-technology-ban-draws-fire/"
+    ampWebUrl: "https://reason.com/2021/09/23/proposed-local-facial-recognition-technology-ban-draws-fire/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/09/23/proposed-local-facial-recognition-technology-ban-draws-fire/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 41
   - title: "Concerns Garda surveillance law may bring in facial recognition technology"
     excerpt: "Concerns have been raised that the planned broad expansion of Garda’s surveillance powers will lead to the introduction of facial recognition technology by the back door. The Garda Síochána (Digital Recording) Bill 2021 will allow for the use of body ..."
     publishedDateTime: 2021-09-21T16:54:00Z

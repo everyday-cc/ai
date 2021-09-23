@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence: The Future Of Cybersecurity?"
+    excerpt: "Cybersecurity in Industry 4.0 cannot be tackled in the same way as that of traditional computing environments. The number of devices and associated challenges are far too many."
+    publishedDateTime: 2021-09-23T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/23/artificial-intelligence-the-future-of-cybersecurity/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/23/artificial-intelligence-the-future-of-cybersecurity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/09/23/artificial-intelligence-the-future-of-cybersecurity/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614b856b91e7d8da240c0d2e%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Could Artificial Intelligence Transform Healthcare Cybersecurity?"
     excerpt: "Utilizing artificial intelligence tools in healthcare cybersecurity could help to streamline threat detection efforts, ensure compliance, and mitigate human error."
     publishedDateTime: 2021-09-20T17:00:00Z

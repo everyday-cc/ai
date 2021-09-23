@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-09-23-samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report.md",
-      "title": "Samsung in talks with Tesla to make next-gen self-driving chips: Report",
-      "excerpt": "Tesla and Samsung have discussed chip design multiple times and exchanged chip prototypes for Tesla's upcoming Hardware 4 self-driving computer, the Korea Economic Daily reported, citing sources with direct knowledge of the matter.",
+      "path": "_news/2021-09-23-tesla-is-in-talks-with-samsung-to-produce-its-next-gen-full-self-driving-chip.md",
+      "title": "Tesla is in talks with Samsung to produce its next-gen Full Self-Driving chip",
+      "excerpt": "According to a new report from Korea, Tesla is currently in talks with Samsung Electronics to produce its next-gen Full Self-Driving chip. The new chip is expected to first launch in the Tesla Cybertruck next year.",
       "sourceUrl": null,
-      "webUrl": "https://www.cnbctv18.com/business/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-10856942.htm",
-      "originalUrl": "https://www.cnbctv18.com/business/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-10856942.htm",
+      "webUrl": "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/",
+      "originalUrl": "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 253,
       "tags": null,
       "images": [
         {
-          "url": "https://images.cnbctv18.com/wp-content/uploads/2019/08/d57a9e9205bdb07eb4b59bff00c4900f-999x573.jpg",
-          "width": 999,
-          "height": 573,
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Screen-Shot-2019-04-22-at-2.48.54-PM-e1568302212821.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,76 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnbctv18.com/business/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-10856942.htm/amp",
-      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/business/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-10856942.htm/amp",
-      "publishedDateTime": "2021-09-23T05:31:00-07:00",
+      "ampWebUrl": "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/amp/",
+      "publishedDateTime": "2021-09-23T08:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "cnbctv18",
-        "domain": "cnbctv18.com",
-        "images": null,
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-gm-invests-300m-in-chinas-first-self-driving-car-unicorn-momenta.md",
+      "title": "GM invests $300M in China’s first self-driving car unicorn Momenta",
+      "excerpt": "General Motors has now joined a slew of other major automakers, including Toyota, Chinese state-backed SAIC Motor, and Mercedes-Benz AG in putting its chips behind Chinese autonomous driving startup Momenta.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/23/gm-invests-300m-in-chinas-first-self-driving-car-unicorn-momenta/",
+      "originalUrl": "https://techcrunch.com/2021/09/23/gm-invests-300m-in-chinas-first-self-driving-car-unicorn-momenta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/momenta-2021_1.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/23/gm-invests-300m-in-chinas-first-self-driving-car-unicorn-momenta/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/23/gm-invests-300m-in-chinas-first-self-driving-car-unicorn-momenta/amp/",
+      "publishedDateTime": "2021-09-23T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -41,8 +103,7 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "AI Hardware"
+        "AI"
       ]
     },
     {
@@ -98,58 +159,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-22-tesla-full-self-driving-an-overview-of-how-it-works.md",
-      "title": "Tesla Full Self-Driving: An overview of how it works",
-      "excerpt": "If there is one piece of technology that's pretty optimistic, it's Tesla's Full Self-Driving system. There are no self-driving cars on sale today, despite what \"FSD\" -- as Tesla owners and CEO Elon Musk refer to it as -- promises.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/tesla-full-self-driving-overview-cost-investigation/",
-      "originalUrl": "https://www.cnet.com/news/tesla-full-self-driving-overview-cost-investigation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/bOyPv1h-UlqYl-el3hHcBa2WShc=/644x362/2017/03/14/e743e9be-1c54-4dd3-9583-248dd3e54e34/amp-placeholder.jpg",
-          "width": 644,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-overview-cost-investigation/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-overview-cost-investigation/",
-      "publishedDateTime": "2021-09-22T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-21-responsible-ai-is-every-businesss-responsibility.md",
       "title": "Responsible AI Is Every Business’s Responsibility",
       "excerpt": "Is AI the transformative technology destined to work wonders for humanity, from driverless cars to a cure for cancer? Or is it a genie in a bottle that, once released, could be used to manipulate or even rule humankind?",
@@ -182,6 +191,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-tesla-slips-on-evergrande-contagion-and-report-of-us-vehicle-regulator-concerns-over-self-driving-tech.md",
+      "title": "Tesla slips on Evergrande contagion and report of US vehicle regulator concerns over self-driving tech",
+      "excerpt": "Tesla Model 3 .. Tesla shares pulled back Monday, swept up in contagion fears over the fallout of China's Evergrande property develo",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tesla-stock-price-china-evergrande-self-driving-safety-tech-ntsb-2021-9",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tesla-stock-price-china-evergrande-self-driving-safety-tech-ntsb-2021-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60c36c906d855e0018157852?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tesla-stock-price-china-evergrande-self-driving-safety-tech-ntsb-2021-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-stock-price-china-evergrande-self-driving-safety-tech-ntsb-2021-9?amp",
+      "publishedDateTime": "2021-09-20T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -329,6 +390,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-ntsb-critical-of-teslas-full-self-driving-upgrade-misleading-and-irresponsible.md",
+      "title": "NTSB critical of Tesla’s ‘Full Self-Driving’ upgrade: ‘misleading and irresponsible’",
+      "excerpt": "Tesla Inc. is readying a major upgrade of its driver-assistance software. The country’s top crash investigator says the move may be premature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/ntsb-critical-of-teslas-full-self-driving-upgrade-misleading-and-irresponsible-11632085619?mod=sue-chang",
+      "originalUrl": "https://www.marketwatch.com/story/ntsb-critical-of-teslas-full-self-driving-upgrade-misleading-and-irresponsible-11632085619?mod=sue-chang",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-367838/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-19T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1205,6 +1318,58 @@
       ]
     },
     {
+      "path": "_news/2021-09-13-stock-news-analysis.md",
+      "title": "Stock News & Analysis",
+      "excerpt": "A temporary halt of its driverless vehicle testing combined with a tech stock sell-off were the culprits behind the artificial intelligence player's stock drop on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing-news/info_pflanzen.php?page=5941",
+      "originalUrl": "https://www.fool.com/investing-news/info_pflanzen.php?page=5941",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://optimize.foolcdn.com/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets/jester.png&w=400&op=resize",
+          "width": 400,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-11-dubai-eyes-the-future-with-self-driving-cabs.md",
       "title": "Dubai eyes the future with self-driving cabs",
       "excerpt": "Hamdan Mohammed announces RTA Dubai has signed an agreement with General Motors Co’s Cruise self-driving car subsidiary to operate its autonomous vehicles in Dubai starting in 2023, adding that the self-driving fleet will reach 4,",
@@ -1235,135 +1400,6 @@
         "name": "Zawya",
         "domain": "zawya.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-driverless-cars-technology-brings-dream-a-step-closer.md",
-      "title": "Driverless cars: Technology brings dream a step closer",
-      "excerpt": "At this month’s CES technology show in Las Vegas, chipmaker Nvidia launched the Drive PX 2 in-­vehicle artificial intelligence platform for driverless operation. Nvidia says the PX2 has the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theaustralian.com.au/business/technology/driverless-cars-technology-brings-dream-a-step-closer/news-story/cf07ac9cdf48b0934551afe33acbb71a",
-      "originalUrl": "https://www.theaustralian.com.au/business/technology/driverless-cars-technology-brings-dream-a-step-closer/news-story/cf07ac9cdf48b0934551afe33acbb71a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian",
-        "domain": "theaustralian.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-dubai-eyes-the-future-with-self-driving-cabs.md",
-      "title": "Dubai eyes the future with self-driving cabs",
-      "excerpt": "aims to overhaul the taxi sector by employing artificial intelligence and smart systems. And as a step towards that, the RTA has already begun laying the groundwork by signing a partnership agreement with General Motors-backed Cruise to run driverless ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/uae/en/business/story/Dubai_eyes_the_future_with_selfdriving_cabs-SNG_241845934/",
-      "originalUrl": "https://www.zawya.com/uae/en/business/story/Dubai_eyes_the_future_with_selfdriving_cabs-SNG_241845934/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/images/cia/zAmp/210412111336ZRVZ.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/uae/en/story/amp/SNG_241845934/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_241845934/",
-      "publishedDateTime": "2021-09-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-russias-yandex-to-start-tests-for-self-driving-taxis-in-moscow.md",
-      "title": "Russia’s Yandex to start tests for Self Driving Taxis in Moscow",
-      "excerpt": "Yandex is planning on starting field tests for its self driving taxis in Moscow, Russia. This would allow the people living in the Capital city to experience the future by taking a ride in the new autonomous vehicles later this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/09/09/russias-yandex-to-start-tests-for-self-driving-taxis-in-moscow/",
-      "originalUrl": "https://www.gizmochina.com/2021/09/09/russias-yandex-to-start-tests-for-self-driving-taxis-in-moscow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/09/Yandex-Autonomous-Taxi.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

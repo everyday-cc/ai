@@ -150,6 +150,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AtScale Expands Semantic Layer Solution for Microsoft Excel"
+    excerpt: "AtScale, the leading provider of semantic layer solutions for modern business intelligence and data science teams, today announced deeper integration with Microsoft Excel’s advanced analytic functions."
+    publishedDateTime: 2021-09-23T14:34:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-453e695520c84019893466e4df57572b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 41
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Cloudflare Joins Microsoft Intelligent Security Association"
     excerpt: "Now, we can build even deeper product integrations between Cloudflare and Microsoft that will help equip organizations to tackle today's rapidly evolving cyber threats.\" Cloudflare provides security,"
     publishedDateTime: 2021-09-22T13:06:00Z
@@ -180,6 +194,6 @@ related:
       domain: openpr.com
     quality: 32
 
-secured: "PyZUFWoVIZTy5vniY6JLQ2u1M+fFCogKjYAY9wyfNL/TLza2Tbcq6yoBC1O7SheAVus/60qr7gbtPcNMx8PtM/t8PaoDuXVek271Rvg0UHIGwuKruVCOUilM9JFtRxGrgdCzZyLVA4RExrjn9dagDx5N+NyROqXYk+/8Cwk7CASw5Dvkbsya5mllbv7XDnZ3sc/1B6E2ykjm6VTzV5lpMKYCezWfSpdCBvLbcP0mq+UhM0Siz+f2TVtCafa4qC3GZ0ekUr5iScJ4oZNIVJLKc84Qpz962s1wSMvfRHn6TO+Ksphna5t+Ocx28dU6zK06IMaPNPAd0UliFQEzphYLbdfNkfQ/n0qK5GYC/fn0UOY=;leiLFqM7pTAWegOMz9WPdQ=="
+secured: "+3FraF1Rz/y8pCOKJ2SOsuous2m0+BuwpBhDwd+BIJ+LhGVRSsMzWm3BgyyUMEEY6SgY+LbK5kdHXQqBlLDtFaxVWHw5MoUk865dOgkfWX+BLwhvSJWLh4yBo0I+jNHO9/SSnUDsLZU5j9cQYeKxliKadc6zLqUJCN0UdqtZH+904+2ef8JBc2ydpAWIRvsoYes+zZvpvy62VIK8PafxZjso19H6/b3r7Mm3GI1BPbG4P2O4h45OWZ3L4CKhEqqG7Gng6LrWf36oLegAKNp1yDP4cuGXN4+8cq1p2CxpZpHKaG/hOAF2oJFTf14zwY3CfuAwV5IVrOnjPsg11I1UNVHV+f8sqL02hJQLlMlGKPJfMX+ak0hEj2hMhdCph95WVXa5Ys0wzOpAlmTGb+6bEgNVbOPTII7YDqCM5VXvdSFVKYsQ90soWL2Dgxe62DWsDQkbX/geURXRhJJ53+FD536tQyGniUXIYG1hQAOAZ3gkgmM7HdtpMFE/T63DHClacGjSG0QvcszoIuQ2BCs96w==;Jx9orPDHOoqJZjfNQ83+TA=="
 ---
 

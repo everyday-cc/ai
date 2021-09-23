@@ -9,8 +9,8 @@ ampWebUrl: "https://healthitsecurity.com/news/amp/could-artificial-intelligence-
 cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/could-artificial-intelligence-transform-healthcare-cybersecurity"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: IT Security
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence: The Future Of Cybersecurity?"
+    excerpt: "Cybersecurity in Industry 4.0 cannot be tackled in the same way as that of traditional computing environments. The number of devices and associated challenges are far too many."
+    publishedDateTime: 2021-09-23T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/23/artificial-intelligence-the-future-of-cybersecurity/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/23/artificial-intelligence-the-future-of-cybersecurity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/09/23/artificial-intelligence-the-future-of-cybersecurity/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614b856b91e7d8da240c0d2e%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Artificial Intelligence-based Cybersecurity Market Forecast 2031 – TMR"
     excerpt: "With the Covid-19 impact, organizations are focusing on decreasing dependence on human resources and maximizing the use of cutting-edge technology to implement cybersecurity activities. The positive impact of Covid-19 will be distinctive which in turn is expected to boost the growth of the artificial intelligence-based cybersecurity market during the forecast period."
     publishedDateTime: 2021-09-20T11:17:00Z

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-09-23-samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report.md",
-      "title": "Samsung in talks with Tesla to make next-gen self-driving chips: Report",
-      "excerpt": "Tesla and Samsung have discussed chip design multiple times and exchanged chip prototypes for Tesla's upcoming Hardware 4 self-driving computer, the Korea Economic Daily reported, citing sources with direct knowledge of the matter.",
+      "path": "_news/2021-09-23-tesla-is-in-talks-with-samsung-to-produce-its-next-gen-full-self-driving-chip.md",
+      "title": "Tesla is in talks with Samsung to produce its next-gen Full Self-Driving chip",
+      "excerpt": "According to a new report from Korea, Tesla is currently in talks with Samsung Electronics to produce its next-gen Full Self-Driving chip. The new chip is expected to first launch in the Tesla Cybertruck next year.",
       "sourceUrl": null,
-      "webUrl": "https://www.cnbctv18.com/business/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-10856942.htm",
-      "originalUrl": "https://www.cnbctv18.com/business/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-10856942.htm",
+      "webUrl": "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/",
+      "originalUrl": "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 253,
       "tags": null,
       "images": [
         {
-          "url": "https://images.cnbctv18.com/wp-content/uploads/2019/08/d57a9e9205bdb07eb4b59bff00c4900f-999x573.jpg",
-          "width": 999,
-          "height": 573,
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Screen-Shot-2019-04-22-at-2.48.54-PM-e1568302212821.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnbctv18.com/business/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-10856942.htm/amp",
-      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/business/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-10856942.htm/amp",
-      "publishedDateTime": "2021-09-23T05:31:00-07:00",
+      "ampWebUrl": "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/amp/",
+      "publishedDateTime": "2021-09-23T08:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "cnbctv18",
-        "domain": "cnbctv18.com",
-        "images": null,
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,9 +49,9 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI Hardware",
         "AI",
-        "AI Hardware"
+        "AI in Autos"
       ]
     },
     {
