@@ -105,20 +105,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Elon Musk’s failed Tesla robotaxi promise is the height of self-driving hype"
-    excerpt: "The electric carmaker has several of the pieces in place to take on Uber and Lyft someday. But it’s started whipping up excitement far too early."
-    publishedDateTime: 2021-09-18T11:00:00Z
-    webUrl: "https://www.fastcompany.com/90677822/elon-musks-tesla-robotaxi-promise-typifies-self-driving-overexuberance"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 51
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/09/p-1-elon-musks-tesla-robotaxi-promise-typifies-self-driving-overexuberance.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "How Tesla is Using Big Data: Benefits & Challenges of Big Data in Self Driving Cars"
     excerpt: "Tesla is leading the electric vehicle race by relying on big data, artificial intelligence and the internet of things to outsmart its competitors."
     publishedDateTime: 2021-09-20T14:38:00Z

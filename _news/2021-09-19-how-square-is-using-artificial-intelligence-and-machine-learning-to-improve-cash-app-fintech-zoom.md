@@ -81,6 +81,15 @@ related:
       name: fintechzoom
       domain: fintechzoom.com
     quality: 0
+  - title: "Share India set to disrupt the algo-trading and fintech industry with two strategic acquisitions"
+    excerpt: "Takes the next evolutionary step towards providing trading strategy development and algo-trading platform for its retail investors NEW DELHI, Sept. 23, 2021 /PRNewswire/ -- Share India Securities Limited has announced the acquisition of two companies,"
+    publishedDateTime: 2021-09-22T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-share-india-set-disrupt-algo-trading-fintech-industry-/2021/09/22/9454886.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "ZQMg+BQqsNjys5Lk/bimFQKuy3QBjkBOkPLclxB/faVkuStUnEN46J7MxWE7MGCNAx0IcTgxZlEMnYB1v5qFBgioWEsZ5OXnOr7KTPQA7MyNOO3QkikTgajs3bVcAsFAeyHljhFgAgfOfp7icU/c07SPWeASXqIjj+zWdETWwDI+57SvM7n8+yDA9KsI7EJXB4lwaCy3z9uQKZnl5s1ONUmXhjkP7A75dPj6N+uNsZdlZ0w4AYSsMZr/EFFyxkVSLnSrHENQOQ+LK7CHgP0t2agaaFX04u57Pf7WhovH5oREHOlgpFdfztSJMZ8cyA3j1oWiarz31emRvP8Xc6BSGTqlZx2ZCbT4PwsjGyVfQfkYtb9pmhKbXO7KvGadwDA0UftT0WLGfBKqufIbRpj7R4cpdSbI7ZKIs0s5Qua5rmSmwGrwwcb6sRiKcGIEx46zq6vuocfAjency1FjQNHYq1hGtjSeRkvYVbhmfNueqmiTtwVasf1v7oAC4UsJkVdzuop4WZwDoxfUOn5ABEu0Hg==;a389ewP+RB2e2568uUUBVw=="
 ---

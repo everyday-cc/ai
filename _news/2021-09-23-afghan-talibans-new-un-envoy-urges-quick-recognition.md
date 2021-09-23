@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Afghan Taliban’s new UN envoy urges quick recognition"
-excerpt: "The Taliban’s newly appointed envoy to the United Nations on Wednesday urged quick world recognition of Afghanistan’s new rulers even as the World Health Organization raised the alarm of an impending health care disaster in the war-wracked country."
-publishedDateTime: 2021-09-23T01:01:00Z
-originalUrl: "https://www.spokesman.com/stories/2021/sep/22/afghan-talibans-new-un-envoy-urges-quick-recogniti/"
-webUrl: "https://www.spokesman.com/stories/2021/sep/22/afghan-talibans-new-un-envoy-urges-quick-recogniti/"
-ampWebUrl: "https://www.spokesman.com/stories/2021/sep/22/afghan-talibans-new-un-envoy-urges-quick-recogniti/?amp-content=amp"
-cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/sep/22/afghan-talibans-new-un-envoy-urges-quick-recogniti/?amp-content=amp"
+excerpt: "The Taliban’s newly appointed envoy to the United Nations is urging quick world recognition of the Taliban government and Afghanistan’s new rulers even as the World Health Organization raised the alarm warning of an impending humanitarian disaster in the war-wracked country."
+publishedDateTime: 2021-09-23T02:02:00Z
+originalUrl: "https://www.kansas.com/news/article254454783.html"
+webUrl: "https://www.kansas.com/news/article254454783.html"
+ampWebUrl: "https://amp.kansas.com/news/article254454783.html"
+cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/article254454783.html"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Spokesman-Review
-  domain: spokesman.com
+  name: Wichita Eagle
+  domain: kansas.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://thumb.spokesman.com/GFJrPnYu08dgtGlj25U5zVfMemI=/480x0/media.spokesman.com/photos/2021/09/22/614bc5b107195.hires.jpg"
-    width: 480
-    height: 320
-    isCached: true
 
 related:
   - title: "Taliban name deputy ministers, double down on all-male team"
@@ -44,6 +38,6 @@ related:
         height: 641
         isCached: true
 
-secured: "Ouj2S6YDDsIjHEcj57nlAhK+VM2cdh/IUZZK3gUES9rSXwFLTzQSYoIuuiv4zQqLYlaPUaXhzQG1HaVHlQ36PQ+IVfJhmzKDJjF4D3wyavkcZGOvGZ29qk/ZsMBsotz2GyM0UE9L6Sx08A0XK69lipsBszPEch5MhiTa7/vbY+5XyDw2cxzSN6Gy0QPpj0ijNPK1+5xhOWToVEOK0Rqe+M1KcQ362GsDVYGCXeBNMDCKH4CISGm6vf3OXgi6NSkTeB0cN1RhyOOrlKlRo1qzHusDJQr/vZ8QRkXOjeDMIWQszqyf8zXoI9O25t7K6lIzzwor1A1QJBZqRili6sU/lPuHd5XLJMhF+Xl+cts6Jvw=;slpmCUzitpCik/5yb+jGkg=="
+secured: "0/ymBB9huzNEE3d/o5mXZGt21gt+Uy5ZnenGvIAf4FyxN0FtRQOFilTB9BgO04UJOcYsLvhZe1Uy+7rVTNIWvP2Oobd5PLEcc6kg5dnmu8LZ8aI/Bk7LBTMUI8O8JGKjAlb3f38dj4GNj2p0aZjA0FKAxOGKCd8Quj42G1fqhBJP/h0QJmmDCr0tvtruXW205c50lqDYBS9k1vZ6dzP8qm1pjsewU0tlZNt/ld3nWiUHI85CEZS62W39bLLpUohJS12dN5F1vlEJNWpdhT0dK/r/zVDczfO12KxCLnsWRYeHza+bK3kRX+IVgF6O26P9uVOOElZgY9jKaErmTwyB/+15cq31xxMfEzoz48+qFUtDYLIX7U/soDhmO/huA0Byg+iFBB8aMxlVp9nSzhLr1LQVNR/z70raqX/P5VIR4CmwNoiaYzgETSVrIXPnSJK1r94aWQugy4ZJ526UCqDERHmRV8je6f+lcilbenq3QHErHJCw1kjCe6Iw50W9oOhsPM31CzgNfZUhAlPyao1vjg==;PfgFPf5eWmdfEsiiQV6SeA=="
 ---
 

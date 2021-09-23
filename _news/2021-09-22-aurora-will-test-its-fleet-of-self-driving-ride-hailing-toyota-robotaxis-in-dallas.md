@@ -82,6 +82,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Self-driving tech co Aurora to test driverless delivery with FedEx"
+    excerpt: "Self-driving technology company Aurora will begin piloting trucks loaded with its software this week to haul goods for U.S. package delivery firm FedEx Corp between Dallas and Houston, albeit with a safety driver."
+    publishedDateTime: 2021-09-23T03:44:00Z
+    webUrl: "https://www.channelnewsasia.com/business/self-driving-tech-co-aurora-test-driverless-delivery-fedex-2195341"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Self-driving tech firm Aurora to test driverless delivery with FedEx"
     excerpt: "Aurora, which is led by former heads of self-driving programs at Google, Uber and Tesla, said it is aiming for trucks without a safety driver by late 2023."
     publishedDateTime: 2021-09-22T17:29:00Z
@@ -134,6 +148,6 @@ related:
       domain: dallasinnovates.com
     quality: 14
 
-secured: "BoGfoTgxa7QtCg/dHe6hAfqATet+e98YwG1564imkrrsQKR3OXcLBJdo2i+DvH3aGe+IkCOzGu4xHW7RklW1ui9nQAnS2346ECBiebA4ewRZtQSkXf7zNtqVwFP0jnlrle0S2NZ4QsKoQXGgoskWVqkaBEfiEmSa8Yxslq+jggtZfYLT+C5xJsyJXtvGUSZMPXoYAmfh9nGXnRkhFi3HXTQ2/SWcwM9G3GpNON2IonAtvXDlFAzjHz55fDgiqv8Os83nY3Lh8Y5SgD0EskZ1w+nmyRx8oib2a+U4ytOAGtugYWKplRZ7Jm3R7BofdQugkPraKEZNRs4sDCxfh0Ztuf4xC6y4F4QjoKuKKYOySbo=;vKf+fjucdZq6NeYiRWn54A=="
+secured: "/JkkkrNSNPgiRYFzm5ix2igmFZQVXp84MYPaS/FiRFjcXsFRBzrE1Np26mNDC4KDZcOmTEiJ0igVOcP0KYeF5ESvq2zKUvkimeeZY/A1gUB64ZWjldVwOnPbLavftuJRkFkJKWI4XHsKWviHvuwDGpN77+3Pkj9MxwWf19VwAsomjG5cDLi8qCbIEC21FMBmkqv7CjkNIx7qkoYwitFXTXdvx1VygPbx7/onMADC7s2gCJ4mzUFkHJFcfb5P+hHpvPy/FGf2d4SLCcQdSkqvWPA1Xc9O/EEOqL/637kXJauy+owPTF0V5MJjyZhp+RHtqrztb54Z+pXBdsGjAH2CCmU2u0znvsyqaUvJMtsGMPesc24IehRqfL6IE2BO9s8Ctuvgp8iP4Dbv7x1S83VSEcIX5WHNqdcWZGGmiYKKsxLMnJaxw7tGbsgCG09L2bOv5CCNLo0Hu/TG0Rv8bR3xRPBzTdlS7XTIQ8MiGrKm4vUmmYbX2icOledAoe5Gil4lmqX13/OSYxl8ad4l+1FO4Q==;mCjtU8T/Oy4Q3qGzaxkajw=="
 ---
 

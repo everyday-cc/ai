@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-overvie
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-overview-cost-investigation/"
 type: article
 quality: 89
-heat: 229
+heat: 219
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://images.mktw.net/im-367838/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Elon Musk’s failed Tesla robotaxi promise is the height of self-driving hype"
-    excerpt: "The electric carmaker has several of the pieces in place to take on Uber and Lyft someday. But it’s started whipping up excitement far too early."
-    publishedDateTime: 2021-09-18T11:00:00Z
-    webUrl: "https://www.fastcompany.com/90677822/elon-musks-tesla-robotaxi-promise-typifies-self-driving-overexuberance"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 51
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/09/p-1-elon-musks-tesla-robotaxi-promise-typifies-self-driving-overexuberance.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Tesla drivers using 'full self-driving' Autopilot pay less attention to their surroundings"
     excerpt: "Tech giant Tesla is due to launch the latest version of its Autopilot “full self-driving” technology to owners this autumn, but new research has revealed that the system could be making drivers inattentive to their surroundings."

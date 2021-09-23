@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/22/fedex-to-test-auroras-self-driving
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/fedex-to-test-auroras-self-driving-trucks-on-dallas-to-houston-route/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://images.barrons.com/im-405175/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Self-driving tech co Aurora to test driverless delivery with FedEx"
+    excerpt: "Self-driving technology company Aurora will begin piloting trucks loaded with its software this week to haul goods for U.S. package delivery firm FedEx Corp between Dallas and Houston, albeit with a safety driver."
+    publishedDateTime: 2021-09-23T03:44:00Z
+    webUrl: "https://www.channelnewsasia.com/business/self-driving-tech-co-aurora-test-driverless-delivery-fedex-2195341"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Self-driving tech firm Aurora to test driverless delivery with FedEx"
     excerpt: "Aurora, which is led by former heads of self-driving programs at Google, Uber and Tesla, said it is aiming for trucks without a safety driver by late 2023."
