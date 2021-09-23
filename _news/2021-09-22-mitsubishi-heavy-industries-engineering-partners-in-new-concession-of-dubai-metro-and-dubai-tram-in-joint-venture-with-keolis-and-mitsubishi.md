@@ -3,8 +3,8 @@ category: news
 title: "Mitsubishi Heavy Industries Engineering Partners in New Concession of Dubai Metro and Dubai Tram in Joint Venture with Keolis and Mitsubishi Corp."
 excerpt: "(MHIENG, the Company), a Group company of Mitsubishi Heavy Industries, Ltd. (MHI) based in Yokohama, Japan, has successfully begun operations of Dubai Metro, a fully automated driverless rail system1),"
 publishedDateTime: 2021-09-22T10:11:00Z
-originalUrl: "https://www.jcnnewswire.com/english/pressrelease/69775/3/Mitsubishi-Heavy-Industries-Engineering-Partners-in-New-Concession-of-Dubai-Metro-and-Dubai-Tram-in-"
-webUrl: "https://www.jcnnewswire.com/english/pressrelease/69775/3/Mitsubishi-Heavy-Industries-Engineering-Partners-in-New-Concession-of-Dubai-Metro-and-Dubai-Tram-in-"
+originalUrl: "https://www.jcnnewswire.com/english/pressrelease/69775/2/Mitsubishi-Heavy-Industries-Engineering-Partners-in-New-Concession-of-Dubai-Metro-and-Dubai-Tram-in-"
+webUrl: "https://www.jcnnewswire.com/english/pressrelease/69775/2/Mitsubishi-Heavy-Industries-Engineering-Partners-in-New-Concession-of-Dubai-Metro-and-Dubai-Tram-in-"
 type: article
 quality: 1
 heat: -1
@@ -37,6 +37,6 @@ related:
       domain: meconstructionnews.com
     quality: 32
 
-secured: "pyP2T5LBYv9V7k+fj1rKiHwTiol6bK5gfIrn18Cw8wYPc8Q5orZRWzOXg7dCkvklwFgcoCH5O9ahyFNuFiivIVtXKwP+OkvWsvSw1GDtyoUrDRQyK1NKyYS9pY14EbrKVBWIAszpof/nD/nW/tOfe2rvHdtppB8a5XEYefX07MQlfn6d86uVH4r/O4bFfu1SZF8OK1zQmLkJb6mDHlWN63kQZUOfGyMuIZj7JgVSeOhp3VqD8+X/v8w0sc2NNXAzJNrEwNircydryB15stYrSGcx/+jPjqcQVpW6v75tT9u2Mmjs96E0+HHveA4Y8sGlfSFL9bflC+fPSv/FUsHIvp9kKaUfv+5d6QrYiiWgjCY=;crNUf+7mxTpwRjAK9ZJjCA=="
+secured: "WyUSiCVgvkOXkRniWEEFUwMNfQg7RVNws4XNLWQKavTlYU1/dzROWXfx98tG6XwNsJps91fT+D0/b+2FYdEEFZWIqkffGXoXaXCR7j5KVOGYLRIjiqu4drpdK6KMF0Jrpt7c+z09vwsjPpMiJDWMFMg5DxWPCr0pKWyDTMuuTMTun6feqTnE1UjDgVp0UhGDMrxEquiVFt+WIy/jd5SvsXvH28v6ZXUOZdiX9cX5dATVtIH1GdaFSLuY/W/LRtm8zQbFH9hrlg5fPSjMz4CCjKShnUJfMSlLlWnzuLLAXS1fQqkNt4asBMXR/WQz4/BB4+gHSBBHqvOlZrrxc66iCCKak5zCGGN8kkuBcA/u+u8=;PtHWZioAr6ba0TkefGYQsQ=="
 ---
 

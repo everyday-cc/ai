@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Pittsburgh Gets High Marks as a Place for Innovation"
+    excerpt: "Pittsburgh has one of the world’s top emerging startup ecosystems from which companies are born from new ideas, talented innovators and investment in their development, according to a new report. California’s Silicon Valley is still far and away the best ecosystem for startups,"
+    publishedDateTime: 2021-09-22T23:18:00Z
+    webUrl: "https://pittsburghquarterly.com/articles/pittsburgh-gets-high-marks-as-a-place-for-innovation/"
+    type: article
+    provider:
+      name: Pittsburgh Quarterly
+      domain: pittsburghquarterly.com
+    quality: 24
+    images:
+      - url: "https://pittsburghquarterly.com/wp-content/uploads/articles/bti_21_09_22_fraser_innovation.jpg"
+        width: 1200
+        height: 560
+        isCached: true
   - title: "Is Self-Driving Technology The Best Thing To Hit Pittsburgh Since Steel? Local Business Groups Think So"
     excerpt: "Business and civic leaders in Pittsburgh recently released a strategy to make southwestern Pennsylvania a hub for autonomous tech production. But some warn that residents outside the sector must also have a voice if the economic gains are to be shared."
     publishedDateTime: 2021-09-20T16:28:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.wesa.fm/economy-business/2021-09-20/is-self-driving-te
 webUrl: "https://www.wesa.fm/economy-business/2021-09-20/is-self-driving-tech-the-best-thing-to-hit-pittsburgh-since-steel-local-business-groups-think-so"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Pittsburgh Gets High Marks as a Place for Innovation"
+    excerpt: "Pittsburgh has one of the world’s top emerging startup ecosystems from which companies are born from new ideas, talented innovators and investment in their development, according to a new report. California’s Silicon Valley is still far and away the best ecosystem for startups,"
+    publishedDateTime: 2021-09-22T23:18:00Z
+    webUrl: "https://pittsburghquarterly.com/articles/pittsburgh-gets-high-marks-as-a-place-for-innovation/"
+    type: article
+    provider:
+      name: Pittsburgh Quarterly
+      domain: pittsburghquarterly.com
+    quality: 24
+    images:
+      - url: "https://pittsburghquarterly.com/wp-content/uploads/articles/bti_21_09_22_fraser_innovation.jpg"
+        width: 1200
+        height: 560
+        isCached: true
   - title: "Pittsburgh's startup ecosystem among top 25 globally, new Startup Genome report finds"
     excerpt: "A new report puts Pittsburgh's startup ecosystem among the top 25 in the world as a place to build and grow a company."
     publishedDateTime: 2021-09-22T13:33:00Z

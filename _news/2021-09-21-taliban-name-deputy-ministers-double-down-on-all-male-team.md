@@ -27,15 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Afghan Taliban's New UN Envoy Urges Quick Recognition"
-    excerpt: "The Taliban's newly appointed envoy to the United Nations is urging quick world recognition of the Taliban government and Afghanistan's new rulers even as the World Health Organization raised the alarm warning of an impending humanitarian disaster in the war-wracked country."
-    publishedDateTime: 2021-09-22T20:08:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-09-22/afghan-talibans-new-un-envoy-urges-quick-recognition"
+  - title: "Afghan Taliban’s new UN envoy urges quick recognition"
+    excerpt: "The Taliban’s newly appointed envoy to the United Nations on Wednesday urged quick world recognition of Afghanistan’s new rulers even as the World Health Organization raised the alarm of an impending health care disaster in the war-wracked country."
+    publishedDateTime: 2021-09-23T01:01:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/sep/22/afghan-talibans-new-un-envoy-urges-quick-recogniti/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/sep/22/afghan-talibans-new-un-envoy-urges-quick-recogniti/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/sep/22/afghan-talibans-new-un-envoy-urges-quick-recogniti/?amp-content=amp"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 44
+    images:
+      - url: "https://thumb.spokesman.com/GFJrPnYu08dgtGlj25U5zVfMemI=/480x0/media.spokesman.com/photos/2021/09/22/614bc5b107195.hires.jpg"
+        width: 480
+        height: 320
+        isCached: true
 
 secured: "VtsXu8AeByzgM/FhaJ8V+VyZ/Nj8Wspb7wPTuXC7LXJfjtW3mNsWqtRg2xK3hmYj8Ed/a2Pjtgf2qWQwaw0QD7A2rdnXTR11V0y+eDlHspovK1UTUEqHh94peSDzzxwdltAQG/hEj31qCLnbxzSi248qhxoe6uG3M8NwnU6FOtJZ+Bd+dDwLXs3Qcm93ZWanUgk+sQIIP/xNsMXYZrBp+oHTGUMnD+f6yOuX4i/Xt53rJehT8JJKbukGpyCcFOFVTxHAYDRcxKijtLPCMpn77H5D5UoOt1mF3j4fHHljQ4hrEPSLu35G/hTQxej6rfoi0J03AblGsACro2SFJjjxAp28fbcF2TYvpao/tIn3OCA=;pCIwXkgM6mtYg3LeVJcX/w=="
 ---

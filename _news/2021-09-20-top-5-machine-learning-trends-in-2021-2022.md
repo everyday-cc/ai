@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Natural Language Processing: The Trends Shaping Adoption in 2021"
+    excerpt: "John Snow Labs and Gradient Flow issued the first NLP Industry Survey, exploring the applications, practices, and challenges practitioners face when deploying natural language processing (NLP) technology."
+    publishedDateTime: 2021-09-22T13:00:00Z
+    webUrl: "https://opendatascience.com/natural-language-processing-the-trends-shaping-adoption-in-2021/"
+    type: article
+    provider:
+      name: Open Data Science
+      domain: opendatascience.com
+    quality: 39
+    images:
+      - url: "https://opendatascience.com/wp-content/uploads/2021/09/AdobeStock_138867463-640x300.jpeg"
+        width: 640
+        height: 300
+        isCached: true
   - title: "Top Free Deep Learning Courses for Beginners in 2021"
     excerpt: "These free deep learning courses may be useful for novices looking for free online resources to learn about deep learning. These courses not only address AI but also its subcategories such as machine learning and deep learning."
     publishedDateTime: 2021-09-22T12:33:00Z

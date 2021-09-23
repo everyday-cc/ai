@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Afghan Taliban's New UN Envoy Urges Quick Recognition"
-excerpt: "The Taliban's newly appointed envoy to the United Nations is urging quick world recognition of the Taliban government and Afghanistan's new rulers even as the World Health Organization raised the alarm warning of an impending humanitarian disaster in the war-wracked country."
-publishedDateTime: 2021-09-22T20:08:00Z
-originalUrl: "https://www.usnews.com/news/world/articles/2021-09-22/afghan-talibans-new-un-envoy-urges-quick-recognition"
-webUrl: "https://www.usnews.com/news/world/articles/2021-09-22/afghan-talibans-new-un-envoy-urges-quick-recognition"
+title: "Afghan Taliban’s new UN envoy urges quick recognition"
+excerpt: "The Taliban’s newly appointed envoy to the United Nations on Wednesday urged quick world recognition of Afghanistan’s new rulers even as the World Health Organization raised the alarm of an impending health care disaster in the war-wracked country."
+publishedDateTime: 2021-09-23T01:01:00Z
+originalUrl: "https://www.spokesman.com/stories/2021/sep/22/afghan-talibans-new-un-envoy-urges-quick-recogniti/"
+webUrl: "https://www.spokesman.com/stories/2021/sep/22/afghan-talibans-new-un-envoy-urges-quick-recogniti/"
+ampWebUrl: "https://www.spokesman.com/stories/2021/sep/22/afghan-talibans-new-un-envoy-urges-quick-recogniti/?amp-content=amp"
+cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/sep/22/afghan-talibans-new-un-envoy-urges-quick-recogniti/?amp-content=amp"
 type: article
-quality: 34
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Spokesman-Review
+  domain: spokesman.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://thumb.spokesman.com/GFJrPnYu08dgtGlj25U5zVfMemI=/480x0/media.spokesman.com/photos/2021/09/22/614bc5b107195.hires.jpg"
+    width: 480
+    height: 320
+    isCached: true
 
 related:
   - title: "Taliban name deputy ministers, double down on all-male team"
@@ -40,6 +44,6 @@ related:
         height: 641
         isCached: true
 
-secured: "exf68cYG5/s9NpuMTsBOYiyteM6ibtpZK8YzY6/ggErci6qpDwhW+T0VQGD8fGPLPPPhSNlI/OVgDcP8HsLNh4t321GCZPlhRbKcvkhfrExq3DVyc1SFXfIjPa2DzLKqdyqV/LlTFyDlfMD7eBiZYq7n7YxFG2EiqnPUbXIrVjGK7l8fTO1X7Wn0e/btomrmhIP7Ji+X1fvzevRSauhIjjnHLoBFjtHX2F4YIlLbMVE2VSkLKnR99BXPqXoxl4wOJhcAZ/9NUb5t2nv7BiHcALcqLGLqjCJxij5AMqTKsyzVruXu1f/t8I7OVsRw9cpiJ4KmRLCnt91rZWZVSmMe8Jutrue7RJvYB5dA/GnviGUAcVJ2ibjzpPLgM1Ro6qV+Ljy2q/EH20LpNCStE8dXdXNrzx/jCcCl6gNhazMzr8xQVvEgRksZl1i1y1ZZmncHX4erugfMzr/RwWIyIlTXlT7b8N+v/iyYp6a4F6/oo4iPx03Z2TNuS5/pCL7P6xvruVwvGRkWm0/0OKQUF4KXuQ==;OzKue116/WD11Z6OlZJW2g=="
+secured: "Ouj2S6YDDsIjHEcj57nlAhK+VM2cdh/IUZZK3gUES9rSXwFLTzQSYoIuuiv4zQqLYlaPUaXhzQG1HaVHlQ36PQ+IVfJhmzKDJjF4D3wyavkcZGOvGZ29qk/ZsMBsotz2GyM0UE9L6Sx08A0XK69lipsBszPEch5MhiTa7/vbY+5XyDw2cxzSN6Gy0QPpj0ijNPK1+5xhOWToVEOK0Rqe+M1KcQ362GsDVYGCXeBNMDCKH4CISGm6vf3OXgi6NSkTeB0cN1RhyOOrlKlRo1qzHusDJQr/vZ8QRkXOjeDMIWQszqyf8zXoI9O25t7K6lIzzwor1A1QJBZqRili6sU/lPuHd5XLJMhF+Xl+cts6Jvw=;slpmCUzitpCik/5yb+jGkg=="
 ---
 

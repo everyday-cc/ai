@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/14438000-knowles-lau
 cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/14438000-knowles-launches-raspberry-pi-development-kit-to-enable-voice-integration-for-new-iot-applications-and-industries"
 type: article
 quality: 3
-heat: 3
+heat: -1
 published: false
 
 provider:
@@ -21,20 +21,15 @@ topics:
   - AI
 
 related:
-  - title: "Query.AI Achieves 150th API Integration Milestone to Give Organizations Centralized Insights to Decentralized Data Across Cloud, Third-Party SaaS, and"
-    excerpt: "Enables Enterprises to Accelerate Cybersecurity Investigations and Responses Without Moving Data from One Environment to Another --BROOKINGS, S.D.--(BUSINESS WIRE)--#api--Query.AI, the provider of the market’s only security investigation control plane for modern enterprises,"
-    publishedDateTime: 2021-09-22T13:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=534987"
+  - title: "NVIDIA announces new AI perception for ROS developers"
+    excerpt: "NVIDIA and Open Robotics have entered into an agreement to accelerate ROS 2 performance on NVIDIA’s Jetson edge AI platform and GPU-based systems. A number of initiatives will look to reduce development time and improve performance for developers seeking to incorporate computer vision and AI/machine learning functionality into their ROS-based applications."
+    publishedDateTime: 2021-09-23T00:05:00Z
+    webUrl: "https://www.newelectronics.co.uk/electronics-news/nvidia-announces-new-ai-perception-for-ros-developers/240638/"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 19
 
 secured: "jnDKjhxD939v1ntBu+zp7L0gvFVPF7munDu4UHe6oxhIOidwbIiQT0h6u2hglNVRpsn50rd7tt0dUjIgn3byrAfpJaiVyOidm2bBLOY+5jyjd0hiW1Hufa+85IFsGY3VlEb9/owbB+HLtXn0S11S0Z6FeTxnJ775e7ygcu20PBH6uAB1mbl/vG4iyPwpMm3PDFlMV3mOERNBkyQCNBn5W3GANVN4wl+iu3J4OvDnxDPnDYps7P+4u+m1gcSGcmTyevEVlk3g19s0PfU0nIt3dFjNZKi3omPTOTKpLrLTe4G2Tr/eQagor4rQYW+9fXVwqhK60Y+YblY0KKEtOpnb9ZWLQsMcgAZUh0aIR2vmT8g=;vnBx+cuGRlohgcRRTvmhOQ=="
 ---

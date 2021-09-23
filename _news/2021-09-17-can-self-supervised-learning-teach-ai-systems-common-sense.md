@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.thenewstack.io/media/2021/09/785cc8cc-robot-6405858_1280.jpeg"
@@ -24,6 +25,6 @@ images:
     height: 853
     isCached: true
 
-secured: "6FMAmKgymfxAPFs5Zxmh/pGdOuBmGgTwH5TiJ974omRy1s0BOBl7wDJbvVjJ1XIr3g81js4BcEeVrxbzSGit4Wwcpb+/S0er1Gnc/M7qPUCIhUv89qDDJkpBmdkxZa1dZCooHCaEcXgBfMNWDzDxk1HZcJReM0rZFuz9mRwZZsRvA/LvqD/1+gFv7arMnT6apMTuGmkto26OVEoBZ8Xcs58npr0HqtX0O5ndMKLBUAZV0/3/f8/fWDYo+yC2x6ilREED2hRyP/YuOdiix6vtIk1orrEud9O0ansK13YxpEdoUKcOj6+FWloIHJ5HVCNxaJcy2gJHSEGoB3zwbSfeaLsHlXu9odol/tZetAC8MW0=;Qxkt+G+/FMNMqXLSgcSoeg=="
+secured: "6UI777z/wEaLO3R/jUXAriV91oZUpJPUnMC5y7pGFH/ROVzHOV5uRQvRB5NjK1Emde0EBlCEtUFytUVktqwCdkNAAx3S2+RpKadmWaVG3SWjUOxJjZvu4Z2Ct4TggVQdOrBM8alChAGvEwd35eYweahpyZ3S4coAN7CP8rQvNHrBldWgEPQfg27UiLGJE0jAC7fTnfY7ssWmT6YaWnI2kz4/6T4/RD+5Q0Prmn2RS/dA5FejxW+o/04PODY5wB80LzO6WURoX1yuKf9y+U6J5/tSCpm8ANiAHzRTc45HISIvLE9v2TnXNS0cZ0d2kn7mD9J+CSlK8WriJsMiF3zglwYrBKBlB610d5Y+B1IB9+RZzrJRPC1ZMENpitssafO1sL8jlua2l3+U5iE/jxBmZqKevemGSgJabo5Z4564UVhUS5Rrll9039AwWEmSaLRvQzm14QXW0OdJJvaqJFp75Vpryr+7tIiFiYVIE54SVaHhKSFRlLEJgx5xVaIWCDlN1n5aZVE92WXbE9U0vGku6g==;g/1wt6PKS46KX00cr11sYw=="
 ---
 
