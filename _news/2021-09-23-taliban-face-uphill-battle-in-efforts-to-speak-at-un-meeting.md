@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Taliban's UN envoy urges quick recognition as Pakistan, Turkey express concern"
+    excerpt: "In an emergency measure, the UN aid coordinator Martin Griffiths released USD45 million in life-saving support Wednesday for Afghanistan from the world body's emergency fund."
+    publishedDateTime: 2021-09-23T08:38:00Z
+    webUrl: "https://www.newindianexpress.com/world/2021/sep/23/talibansun-envoy-urges-quick-recognition-as-pakistan-turkey-express-concern-2362721.html"
+    ampWebUrl: "https://www.newindianexpress.com/world/2021/sep/23/talibansun-envoy-urges-quick-recognition-as-pakistan-turkey-express-concern-2362721.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/world/2021/sep/23/talibansun-envoy-urges-quick-recognition-as-pakistan-turkey-express-concern-2362721.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 40
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/9/23/w600X390/Taliban_AP.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "Afghanistan: Taliban face many obstacles to governing – not least their violent methods"
     excerpt: "Yet this often distracts from the sombre fact that anyone – whether insiders or outsiders – who has tried to establish control over the whole country has met with resistance. The speed at which the US-backed government was recently removed seems to speak to this perennial ungovernability."
     publishedDateTime: 2021-09-21T16:29:00Z

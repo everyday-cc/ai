@@ -49,7 +49,7 @@ related:
     provider:
       name: New Haven Register
       domain: nhregister.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://s.hdnux.com/photos/01/20/22/56/21048234/21/rawImage.jpg"
         width: 2048

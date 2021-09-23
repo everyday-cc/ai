@@ -22,6 +22,22 @@ topics:
   - AI in Autos
   - AI
 
+related:
+  - title: "General Motors to invest $300m in Chinese self-driving start-up Momenta"
+    excerpt: "Four year old unicorn Momenta has also been funded by SAIC Motors, Toyota and Bosch in the past and closed a $500m round in March."
+    publishedDateTime: 2021-09-23T08:55:00Z
+    webUrl: "https://www.siliconrepublic.com/business/general-motors-to-invest-300m-in-chinese-self-driving-start-up-momenta"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 24
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/09/GMLogoRenCenBuilding.jpg"
+        width: 800
+        height: 600
+        isCached: true
+
 secured: "qegQvk+/G/xDOTWX1PPJXplBEdHjFrPlY4HQPWZ1pRoQlR3BGMBjT0yK7VAPEYPFkOAdKR7EMrCmm2uFxhTkiRU5SJxBKLh//ACUAI+x+E5LmuLN4C7E6sq/PC6Cq5qqSe052+B3RGaM2Oo0RRtXzuFgSoKqmzDX/JsP6Ri1y7eFqvW7Ry9s/M3BbPrdLYhkFYYwozLXHC9X109oyyxd55XHJSGa9KUdzuCK+zTf4NfmbiWM04EpuOzs3VSW3Ir/7Q2FrJq9K1j61qi/MuylUXPgNqFxsqfouphv+LSYIZAwm6XKqJC0nJopSVtTN7V4ih+ZG1VDM4rkTranXkDlmKyFn2izGtwWJkBjJ8LG5+j3pX5PXmuw+r7ilOuGENj3eLmLGAoCjB0ws//Wh1bqEivZsEDB0S7HCvT4RqTw3BqUlOAuUhcrvxrlbWQ95amXf5a6SONvAWX3yX3z2St0KkIJmPye5nSuDkazeXqhqgR5WY7j9srwNqCr5R8KTcCR2yiX2HdI18PxqTLaMtJfqA==;qPuqUIlUTdcO6CNq2TkMtg=="
 ---
 

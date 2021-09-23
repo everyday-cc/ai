@@ -29,15 +29,29 @@ images:
 related:
   - title: "Afghan Taliban’s new UN envoy urges quick recognition"
     excerpt: "The Taliban’s newly appointed envoy to the United Nations is urging quick world recognition of the Taliban government and Afghanistan’s new rulers even as the World Health Organization raised the alarm warning of an impending humanitarian disaster in the war-wracked country."
-    publishedDateTime: 2021-09-23T06:08:00Z
-    webUrl: "https://www.bnd.com/news/article254454783.html"
-    ampWebUrl: "https://amp.bnd.com/news/article254454783.html"
-    cdnAmpWebUrl: "https://amp-bnd-com.cdn.ampproject.org/c/s/amp.bnd.com/news/article254454783.html"
+    publishedDateTime: 2021-09-23T07:31:00Z
+    webUrl: "https://www.sunherald.com/news/health/article254454783.html"
+    ampWebUrl: "https://amp.sunherald.com/news/health/article254454783.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/health/article254454783.html"
     type: article
     provider:
-      name: BND
-      domain: bnd.com
+      name: Biloxi Sun Herald
+      domain: sunherald.com
     quality: 24
+  - title: "Taliban's new UN envoy urges quick recognition"
+    excerpt: "The Taliban's newly appointed envoy to the United Nations on Wednesday urged quick world recognition of Afghanistan's new rulers even as the World Health Organization raised the alarm of an impending health care disaster in the war-wracked country."
+    publishedDateTime: 2021-09-23T09:00:00Z
+    webUrl: "https://www.hotsr.com/news/2021/sep/23/talibans-new-un-envoy-urges-quick-recognition/"
+    type: article
+    provider:
+      name: The Sentinel-Record
+      domain: hotsr.com
+    quality: 24
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199465882_199465882-489842bc32674b3fbf580b43602ab6a9_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
+        isCached: true
 
 secured: "VtsXu8AeByzgM/FhaJ8V+VyZ/Nj8Wspb7wPTuXC7LXJfjtW3mNsWqtRg2xK3hmYj8Ed/a2Pjtgf2qWQwaw0QD7A2rdnXTR11V0y+eDlHspovK1UTUEqHh94peSDzzxwdltAQG/hEj31qCLnbxzSi248qhxoe6uG3M8NwnU6FOtJZ+Bd+dDwLXs3Qcm93ZWanUgk+sQIIP/xNsMXYZrBp+oHTGUMnD+f6yOuX4i/Xt53rJehT8JJKbukGpyCcFOFVTxHAYDRcxKijtLPCMpn77H5D5UoOt1mF3j4fHHljQ4hrEPSLu35G/hTQxej6rfoi0J03AblGsACro2SFJjjxAp28fbcF2TYvpao/tIn3OCA=;pCIwXkgM6mtYg3LeVJcX/w=="
 ---

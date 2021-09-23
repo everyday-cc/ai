@@ -43,6 +43,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Taliban's UN envoy urges quick recognition as Pakistan, Turkey express concern"
+    excerpt: "In an emergency measure, the UN aid coordinator Martin Griffiths released USD45 million in life-saving support Wednesday for Afghanistan from the world body's emergency fund."
+    publishedDateTime: 2021-09-23T08:38:00Z
+    webUrl: "https://www.newindianexpress.com/world/2021/sep/23/talibansun-envoy-urges-quick-recognition-as-pakistan-turkey-express-concern-2362721.html"
+    ampWebUrl: "https://www.newindianexpress.com/world/2021/sep/23/talibansun-envoy-urges-quick-recognition-as-pakistan-turkey-express-concern-2362721.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/world/2021/sep/23/talibansun-envoy-urges-quick-recognition-as-pakistan-turkey-express-concern-2362721.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 40
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/9/23/w600X390/Taliban_AP.jpg"
+        width: 600
+        height: 390
+        isCached: true
 
 secured: "hDbvGF4/M8E7/ytFULF/ZHj08QEl7auIVo3ajz8PcnC4QHHD2lQV39h6Zmiq73yIy/4DGSIsrmQeyGpWrpDXlKD24txaNHPtSTj6uPav6a0vd0Bj2LxzFiPulwQ+6ImBWxQGeCsN+vbHPBvBprOgb+2MgqyR2D1tCmab8TV8XHcPxuCY2V/zzdELPhhVKJwbpBCOFbnX6NWom9pyK/p5xJoEpWgSzJbwtYgNyKZpCZLoU/m2Us8W0ptZUT0uHybBF9Qm0lGQXGSd4wL+drZV2isLB1UvJ11zEblUwDobw4CkRvY6jibw69ONOwv0Qmah8yPq9gOrivZkGHp0s/6F7v3qR+pWKLoTnWv/nzwsAYM=;ksPcTEzIjC8qKpMUfNSvLw=="
 ---

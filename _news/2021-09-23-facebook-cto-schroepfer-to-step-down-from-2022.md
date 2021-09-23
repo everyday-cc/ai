@@ -33,6 +33,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Andrew Bosworth to be next Facebook CTO"
+    excerpt: "Schroepfer will be succeeded by Andrew Bosworth (Boz) who will be transitioning into the role of CTO in 2022. Bosworth created and has been heading the social media major’s augmented reality/virtual reality organisation — which was renamed Facebook Reality Labs (FRL) in 2020 — where he drives all of Facebook’s efforts in augmented reality,"
+    publishedDateTime: 2021-09-23T07:36:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/andrew-bosworth-to-be-next-facebook-cto/article36625511.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/andrew-bosworth-to-be-next-facebook-cto/article36625511.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/andrew-bosworth-to-be-next-facebook-cto/article36625511.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 44
+    images:
+      - url: "https://www.thehindubusinessline.com/info-tech/h548vf/article36625510.ece/ALTERNATES/LANDSCAPE_615/blfb"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Facebook CTO Schroepfer Steps Down, Moves Into Part-Time Role"
     excerpt: "Facebook Chief Technology Officer Mike Schroepfer has announced he’ll be stepping down and transitioning to be the company’s first senior fellow."
     publishedDateTime: 2021-09-23T01:46:00Z

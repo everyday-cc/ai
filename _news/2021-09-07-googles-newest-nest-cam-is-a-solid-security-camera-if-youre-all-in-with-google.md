@@ -1,24 +1,17 @@
 ---
 category: news
-title: "Google's Newest Nest Cam Is a Solid Security Camera If You're All In With Google"
-excerpt: "You no longer need a subscription to get a Nest cam's best features, but you're also sacrificing some freedom to commit to Google."
-publishedDateTime: 2021-09-06T17:30:00Z
-originalUrl: "https://gizmodo.com/googles-newest-nest-cam-is-a-solid-security-camera-if-y-1847615882"
-webUrl: "https://gizmodo.com/googles-newest-nest-cam-is-a-solid-security-camera-if-y-1847615882"
-ampWebUrl: "https://gizmodo.com/googles-newest-nest-cam-is-a-solid-security-camera-if-y-1847615882/amp"
-cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/googles-newest-nest-cam-is-a-solid-security-camera-if-y-1847615882/amp"
+title: "Google’s Newest Nest Cam Is a Solid Security Camera If You’re All In With Google"
+excerpt: "But the old Nest cameras don’t have on-device facial and object recognition. They also don’t offer 24/7 live recording or access to the free tier of Nest Aware. As it stands, the new Nest ..."
+publishedDateTime: 2021-09-06T23:29:00Z
+originalUrl: "https://www.gizmodo.com.au/2021/09/googles-newest-nest-cam-is-a-solid-security-camera-if-youre-all-in-with-google/"
+webUrl: "https://www.gizmodo.com.au/2021/09/googles-newest-nest-cam-is-a-solid-security-camera-if-youre-all-in-with-google/"
+ampWebUrl: "https://www.gizmodo.com.au/2021/09/googles-newest-nest-cam-is-a-solid-security-camera-if-youre-all-in-with-google/amp/"
+cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2021/09/googles-newest-nest-cam-is-a-solid-security-camera-if-youre-all-in-with-google/amp/"
 type: article
-quality: 86
-heat: 86
-published: true
 
 provider:
-  name: Gizmodo
-  domain: gizmodo.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Gizmodo Australia
+  domain: gizmodo.com.au
 
 topics:
   - Computer Vision
@@ -26,11 +19,11 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/655954f657b2763e4d3b212bd0751a0d.png"
-    width: 800
-    height: 450
+  - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2021/09/06/655954f657b2763e4d3b212bd0751a0d.png?ar=16%3A9&auto=format&fit=crop&q=65&w=1200"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "Zw/3NqUYicxlfCFjVoVY4jxgbD8LZjF26M+ur0HwSFflrG5tvm5viqcbWIOt8m7DGV/EcDfMXJTI02XM7IgzjuU/CzeUAE4rjj4x6HBN8OrWUCh5XhFM5Yz7uOKaWaBwcnot/xgK8FTUzsYHprDXb974CQA9CbJNtiv6Nh2T7g4Zf6VKJdt7YaQTgBpCPtKGEDjapm+U/nc/DDvbUUgnUp5dL+iLwYf9FxXSmFNj0D6vAAk/qpXdsiPUbAglfIH8fTmhcePceWJqiqdo1/o6aCKBttiZdvLXUJxScTmKARPTDAvC3kvy9RwxvEIoh+p0dTzFZYEtsYthGc48kTNG3U7KXYr1HOqHsJuAfyO0vAt73aXSK4v5HpRRbk0OOrx0OCfI7SVlVqJQ4FIx/vOfTwoWueLN5ERr2rl3vFZZ+0gVKbpROrVaaOoxTXgU7n0DxJX46MdLnCQ+EQ0/+Ymjh5GxpEH9yEgAhfzWRgCjRUx8uPK0o4xr6UwaJRqlrmtCHE8NZ5gIZAMl/KeqRK3F/w==;EHtYN+ROboF9BUNrXk8QxA=="
+secured: "3oL1n8XLPTIgrkAV+ZHE8yF0ZN2vXpmXHL/LavhOdZua4U/Xxc/ulBr0XEmhEWjH7V/u6k9h9/d79Bu/SDd65/AjeY+4A7IXORm13YWQYCKhbuAySmPkFLw2yX+MLJPKlJyLLbEaggvPw0i/HQVBeuopxrOerBA+lLJv5QxFIjEJxjMH2+1ux6MzBRE9zSyhDe0da+fs+lmWQizgP9jl/asHLD3Sd9vak8wmE9sjRboSSJgm7KVTCqN2ZbQXzeu61o32Vc9PAZ2rZsmS6NPYObO8bRwFiPgd4jUJeYZn9rb9+hMP4q4ILa1mkt4/VpP3fJvVTiEyHNkweLnRRZ2+7Oet7LZD+lUBsrrj2+tjdS8=;yxsV7FNP2esOiW2Uh6/iFw=="
 ---
 

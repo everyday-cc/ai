@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/4-ways-facebook-cto-mike-schroepfer-an
 webUrl: "https://thenextweb.com/news/4-ways-facebook-cto-mike-schroepfer-analysis"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Andrew Bosworth to be next Facebook CTO"
+    excerpt: "Schroepfer will be succeeded by Andrew Bosworth (Boz) who will be transitioning into the role of CTO in 2022. Bosworth created and has been heading the social media major’s augmented reality/virtual reality organisation — which was renamed Facebook Reality Labs (FRL) in 2020 — where he drives all of Facebook’s efforts in augmented reality,"
+    publishedDateTime: 2021-09-23T07:36:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/andrew-bosworth-to-be-next-facebook-cto/article36625511.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/andrew-bosworth-to-be-next-facebook-cto/article36625511.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/andrew-bosworth-to-be-next-facebook-cto/article36625511.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 44
+    images:
+      - url: "https://www.thehindubusinessline.com/info-tech/h548vf/article36625510.ece/ALTERNATES/LANDSCAPE_615/blfb"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Facebook CTO Schroepfer Steps Down, Moves Into Part-Time Role"
     excerpt: "Facebook Chief Technology Officer Mike Schroepfer has announced he’ll be stepping down and transitioning to be the company’s first senior fellow."
     publishedDateTime: 2021-09-23T01:46:00Z
@@ -64,6 +80,6 @@ related:
       domain: morningstar.com
     quality: 3
 
-secured: "kGHN5glu+iSGGHs7G1rMnIYlcsPHrOWP6YuTtvdmWBvFJVqJZyFz97cFFIm2h8mpg3u2d9ysBwTfaaZizbD/VAmher5xyI4Lomr5yFA4nwz/6xY/OsPsgcIhjSIJYUQLmUDG/m52DvLOMCCUcKrXLlXocndB/VXBDhUReEs3bVi5SpNIZNXIxwx+PwLq94aKw4IMouPPvGpywaw4Fc2mJZTqRydP7lD9OzwW5nmq3wvdk7U2pe1bQ7JnwHzTj9yZ9PSSCBKbef2F3bFE7C8a4S4UfS3++lDD8PTDLdAiKXL1xolpsIedPqZIQmc/d1zJMLQRUtjbuH+vSUknxf83qNORopx5Rsj0x9wv6P/P0dc=;SZLpwqZGEoFqtEVBepsiEQ=="
+secured: "8xsEZ8/JVenhtUUeUGkjYOJ+CY2ga68thDZzx/9tpxsjMTGLMN7D6loW/BUdtHU6Hq2Kda1smKK+lC05hXJ4CkuYZ13KT46UvKoeXoOtMsQBo6GLQPOc+jS/VYsfJjiPEDBYu8jghgGWsGZ9xdn8y1O7LkU70nbgYDbwFg6cfz4Az+3k1ugAWsSLDoC9XDk3k2BJYwfyZ1wyNAOaWW/0H6hgD60BWG2fhYoldOo7aK5t3FfzdrynzKg4CZrDjwDd92PXPI354lvQdyVApDG75RVtIxBDwPP5kgNOzQ9mPjeBl9BL0rH2ecOXtxX3dWPSLapw7Bmpc4Jk4m5sLo5Yt5fXWTPyNDNvuxhudZF7A42V1Z7EqVjJoJe4TzWgzUWfT96Q3RZ3iV66dBmhU2nreu2NblgDNnjXlmm6RPvKjKcTSNFgQRcgGiVyyKs11qU16Z3eTvuly4xYDd1mqDy4GNlLikJfupB9PFPwStFkRC750LInW1ryISvf43X95afChjuX0AZ95AUgfVUla5X6+w==;pX9SH17HO3AU3DGZu8bAbA=="
 ---
 

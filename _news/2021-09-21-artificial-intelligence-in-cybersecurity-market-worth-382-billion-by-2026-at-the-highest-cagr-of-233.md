@@ -58,22 +58,6 @@ related:
         width: 390
         height: 220
         isCached: true
-  - title: "Israel’s Blumberg Capital Secures $225M to Invest in Early-Stage AI, Big Data, Cybersecurity, Fintech Ventures"
-    excerpt: "Blumberg Capital secures $225 million as part of its fifth fund, which focuses on making strategic investments into early-stage ventures."
-    publishedDateTime: 2021-09-18T16:12:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/09/180528-israels-blumberg-capital-secures-225m-to-invest-in-early-stage-ai-big-data-cybersecurity-fintech-ventures/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/09/180528-israels-blumberg-capital-secures-225m-to-invest-in-early-stage-ai-big-data-cybersecurity-fintech-ventures/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/09/180528-israels-blumberg-capital-secures-225m-to-invest-in-early-stage-ai-big-data-cybersecurity-fintech-ventures/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 39
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/09/Azrieli-Center-Tel-Aviv-Israel-300x260.jpeg"
-        width: 300
-        height: 260
-        isCached: true
 
 secured: "+Bl/MtxWtnOVhjTgmg0n76wb7suBSmjKyZd86s5NkTdytyhXegqP18dkIiWCF6q6wBZV6V+/3Ib5f2RJlsaaVlfD+SbyHbcWz5coDbmS+9gfDIZH2OsLyC//DpFNkCOEkb2p0+k0Bf90s+C0NZ1LFnH6UC/G6S778tL2TWJ3dNB6ltUhtaiCoHBc5G/dtg3Zn7o/+VA9IRRAJV52vdBk4pkRzunMX/J3oxK2Uer/C0PMbtVMJCnoL8GD5+OfJQCPNYZ0DskGeZcpJHH2Nh0rTgeAI8b04+WvgSW5xQTUl43vKBYRwuPIGOqzsEKMzYHfsLSc1kvrg8c7OfPHbrUh15OYdxZfpTlO8HwjpoqZfjA=;18Gj+9kSf3rCN2IEmkIdew=="
 ---

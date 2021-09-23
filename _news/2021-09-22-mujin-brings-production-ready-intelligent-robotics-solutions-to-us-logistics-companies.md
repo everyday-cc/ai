@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Mujin Brings Production-Ready Intelligent Robotics Solutions to US Logistics Companies"
-excerpt: "Award-winning Japanese industrial robotics company celebrates 10th anniversary with first U.S. office near Atlanta; showcases robotic palletizing with AMR pallet transport at Pack Expo, booth SU-7233."
-publishedDateTime: 2021-09-21T19:59:00Z
-originalUrl: "https://www.automation.com/en-us/articles/september-2021/mujin-intelligent-robotics-solutions-logistics"
-webUrl: "https://www.automation.com/en-us/articles/september-2021/mujin-intelligent-robotics-solutions-logistics"
+excerpt: "Award-winning Japanese industrial robotics company celebrates 10th anniversary with first U.S. office near Atlanta; showcases robotic palletizing with AMR pallet transport at Pack Expo, booth SU-7233"
+publishedDateTime: 2021-09-22T03:15:00Z
+originalUrl: "https://www.roboticstomorrow.com/content.php?post=17490"
+webUrl: "https://www.roboticstomorrow.com/content.php?post=17490"
 type: article
-quality: 46
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Automation
-  domain: automation.com
+  name: Robotics Tomorrow
+  domain: roboticstomorrow.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://www.automation.com/getmedia/e8e5427a-c34a-46d5-a3ba-b79bbeeec1fe/Mujin-news-Sept-21-2021-web.png?width=500&height=313&ext=.png"
-    width: 500
-    height: 313
-    isCached: true
 
 related:
   - title: "Robotics revolution in woodworking"
@@ -39,7 +33,21 @@ related:
         width: 1800
         height: 1350
         isCached: true
+  - title: "Mujin brings its 'production-ready intelligent robotics solutions' to US logistics companies"
+    excerpt: "Mujin brings its 'production-ready intelligent robotics solutions' to US logistics companies September 23, 2021 by Mai Tao Leave a Comment"
+    publishedDateTime: 2021-09-23T09:43:00Z
+    webUrl: "https://menafn.com/1102849637/Mujin-brings-its-production-ready-intelligent-robotics-solutions-to-US-logistics-companies"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 43
+    images:
+      - url: "https://menafn.com/updates/pr/2021-09/23/R&AN_fe326image_story.jpg"
+        width: 800
+        height: 436
+        isCached: true
 
-secured: "5nv+kd6Y8iFKdTOkZz4cmgUokynDlX37O+y1W39r793t48rOOMXOIUMXv15bwsRAPLerb0f/G0TpUzTmSXKekFbzpGrEJcJ7+z/MZrYuaVIAqJHlWcVCFd6boERAASYRxUVlcLC8hhrmlb+ucWKHDtbNjqp2VzAp16nhiKKuaU3N2je/Tzx5mO4ruaBE/erIcNWf7hDV4luGcytaGVOSCjvfAGbH01wgjWlJbiiXhEat5szCf4NdLq/qrvpSRfQ+vygXmfxntFUS4DorYl7jO6rW9DH9XaCH1cNNbx/WbBccL/GoQD1ScHHvhYnWYNK8EDoey9X5Anh3OOV+js+eHMMaDK+9Afec+Rdy+2YJDOk=;7vnLfFOz0Vy/Qut5BSMWzg=="
+secured: "QM0o2VDslI1VRDBSW/sOlNkBBJQs8PcrUhK8xadBYi4pADDPuy9dAXDHkg7eVTwG1A/H6AVK3IjTBgeSajxe3hQL93O1W4fEpDBlsWz03Adzdlz49t5INU3WP0bMqnium+4ZXCUUMK/SfGraMAcL620t2i8L1R5/2gEnqaeVnOEvpYhXZLpySPfJNt01g+ZvgYEdwhG9Gu5CZaNieiHyk9U5Bk0fQ2q5YzGBxRU/SQ7Gr3QVoQiAgY4Ihh2/mHmYIPkur7yqZZU85kHPSSZJC41BcCn08ZVLgdpJkKc4bgdiuD/EVxJHPeFLXe7c+xXPDu369/fWmy4wpIutPWtjZDKnIcxc2jImccFMnon7TTw=;yxmJW1zgfNrGYF87lMRaMg=="
 ---
 

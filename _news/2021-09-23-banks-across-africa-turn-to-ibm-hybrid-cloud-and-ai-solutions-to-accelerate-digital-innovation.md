@@ -1,28 +1,32 @@
 ---
 category: news
-title: "Banks across Africa turn to IBM hybrid cloud and AI solutions to accelerate digital innovation"
-excerpt: "Africa’s leading banks including EcoBank, Nedbank, Attijariwafa Bank, United Bank of Africa, Co-operative Bank of Kenya and Banco Mais are tapping into IBM technologies to help advance financial inclu"
-publishedDateTime: 2021-09-23T05:57:00Z
-originalUrl: "https://clubofmozambique.com/news/banks-across-africa-turn-to-ibm-hybrid-cloud-and-ai-solutions-to-accelerate-digital-innovation-201552/"
-webUrl: "https://clubofmozambique.com/news/banks-across-africa-turn-to-ibm-hybrid-cloud-and-ai-solutions-to-accelerate-digital-innovation-201552/"
+title: "Banks Across Africa Turn to IBM Hybrid Cloud and AI Solutions to Accelerate Digital Innovation"
+excerpt: "IBM (NYSE:IBM) today announced that financial institutions across Africa have selected hybrid cloud and AI capabilities from IBM to unlock digital innovation and continue their work to develop digital-first solutions,"
+publishedDateTime: 2021-09-22T17:12:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/banks-across-africa-turn-to-ibm-hybrid-cloud-and-ai-solutions-to-accelerate-digital-innovation-1030816849"
+webUrl: "https://markets.businessinsider.com/news/stocks/banks-across-africa-turn-to-ibm-hybrid-cloud-and-ai-solutions-to-accelerate-digital-innovation-1030816849"
 type: article
-quality: 25
-heat: 25
+quality: 55
+heat: 55
 published: false
 
 provider:
-  name: clubofmozambique.com
-  domain: clubofmozambique.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://clubofmozambique.com/wp-content/uploads/2021/09/bancomais.bancomais.maputo.jpg"
-    width: 800
-    height: 600
+  - url: "https://mma.prnewswire.com/media/1632391/IBM_Africa_Banking.jpg"
+    width: 400
+    height: 224
     isCached: true
 
-secured: "dOfz9B+FCaVMIpdkvW+uIbEtAfoQXsOeXY59DgJtnVbB2TVRnMIub0qakczbMkFbZNx72KFGt/rnavDrqfCk71NjZR0yah2cufTU2XU2dzCZkUKS9Z10EhYmh0wS3lGp+whI09VZIKHJ69j04G2SSWWlYPneB9+/TUUwpUVpALL1bGVF5J5KrZy2MJl3coscCiUPzTdi72kOtN0/0TZ82iYsw/8ae1QFPPK0o3wnDT5bw72sOKiFCzkNjXGi9cZJxjeKFoNySrTfdDHfvIfT2mXHQM/bcF+PgFV5vcl3XheM+1iMvghAtAfQ6QTmqHbvLW+hYOy7Ppj1b/vhRQp+wMIYoB3J2bGNvtI2Z6Wjhl0=;PzB4CJb7ZP2J7RUh8mN1nA=="
+secured: "N6kPWwFaJbCtLge0+lBByHzV2cVnC3g8sLDn3q3aRtLjVzvtfHSaYlE/0PUXpRArEF6I9tY/gByy4i7TcTNLAkwI3V2pDvmHabG+AOQtjMTDPrdWvgpQf1d3qpvlAS7k+aSUpta4SjHJalRraXscWbDsShpvrWb8dWXAOX18rkhpfkgVFiVjcc3SMl15DB9w1lp0DX2B3607AV4lsBGUfpcbM6d3SsbQ1Tg+aTa//i5hmhGxV3ZhOdDilb0zUgObhWEG+cvSXoWpShpG5+iTBvICvtq1IRXzomtUUOFsslNbCdHO84a4DaLKfIDSrYU43z7xHC+3Dtv1/6SeoZFyKef9BXq2PRO5oPA11zezpMY=;GBAdTX3LeHgLlzp9bXLdUA=="
 ---
 

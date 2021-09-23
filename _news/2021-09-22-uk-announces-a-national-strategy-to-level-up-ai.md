@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/22/uk-announces-a-national-strategy-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/uk-announces-a-national-strategy-to-level-up-ai/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F843e0a1e-028d-44fd-add9-30f24eaaf3e4.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "National AI Strategy - can the UK be the superpower it imagines itself to be?"
+    excerpt: "Does Whitehall have the human intelligence, expertise, and skills to make the UK’s new National AI Strategy work?"
+    publishedDateTime: 2021-09-23T09:04:00Z
+    webUrl: "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be"
+    ampWebUrl: "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 56
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2019-11/AAE94690-8272-4B0C-B0F8-0BD74D98E409.jpeg"
+        width: 640
+        height: 384
         isCached: true
   - title: "The UK has launched its first National Artificial Intelligence Strategy"
     excerpt: "The Government has outlined a 10-year artificial intelligence strategy in a bid to make the UK a global science superpower. Info here."

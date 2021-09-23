@@ -73,6 +73,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "National AI Strategy - can the UK be the superpower it imagines itself to be?"
+    excerpt: "Does Whitehall have the human intelligence, expertise, and skills to make the UK’s new National AI Strategy work?"
+    publishedDateTime: 2021-09-23T09:04:00Z
+    webUrl: "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be"
+    ampWebUrl: "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 56
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2019-11/AAE94690-8272-4B0C-B0F8-0BD74D98E409.jpeg"
+        width: 640
+        height: 384
+        isCached: true
   - title: "Embark Announces Advisory Board to Accelerate the Commercialization of its Self-Driving Technology"
     excerpt: "Embark Trucks, Inc., a leading developer of autonomous technology for the trucking industry, today announced the formation of its strategic advisory board, a committee of distinguished trucking and supply chain executives that will guide Embark's rapid business expansion."
     publishedDateTime: 2021-09-22T11:09:00Z
