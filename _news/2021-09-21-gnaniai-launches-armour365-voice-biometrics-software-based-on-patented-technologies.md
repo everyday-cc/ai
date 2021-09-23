@@ -7,7 +7,7 @@ originalUrl: "https://www.business-standard.com/content/press-releases-ani/gnani
 webUrl: "https://www.business-standard.com/content/press-releases-ani/gnani-ai-launches-armour365™-voice-biometrics-software-based-on-patented-technologies-121092100727_1.html"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Conversational AI startup Gnani.ai launches voice biometrics software"
+    excerpt: "Gnani.ai, conversational AI and voice security domain, announced the launch of its home-grown Voice Biometrics software. Christened armour365™, the biometric solution claims to cater to new and emerging risks"
+    publishedDateTime: 2021-09-23T10:11:00Z
+    webUrl: "https://www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/"
+    ampWebUrl: "https://www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 57
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2017/07/Fraud.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Advocates worried about global face biometrics systems find little transparency"
     excerpt: "Transparency continues to be a capability that world governments cannot demonstrate when it comes to biometric systems aimed at their citizens."
     publishedDateTime: 2021-09-20T22:07:00Z

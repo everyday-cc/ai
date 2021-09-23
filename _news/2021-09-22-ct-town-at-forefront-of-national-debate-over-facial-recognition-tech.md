@@ -1,10 +1,10 @@
 ---
 category: news
 title: "CT town at forefront of national debate over facial recognition tech"
-excerpt: "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning the use of facial recognition technology."
-publishedDateTime: 2021-09-21T20:42:00Z
-originalUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php"
-webUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php"
+excerpt: "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning governmental use of facial recognition technology."
+publishedDateTime: 2021-09-21T18:13:00Z
+originalUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b"
+webUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b"
 type: article
 quality: 41
 heat: -1
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facepalm As Researchers Crack Advanced Facial Recognition Tech With Simple Makeup"
-    excerpt: "The concerning part of all of this is that the research also explained this “attack has a high level of inconspicuousness and thus can be launched in the real world.”"
-    publishedDateTime: 2021-09-18T19:03:00Z
-    webUrl: "https://hothardware.com/news/facial-recognition-tricked-with-makeup"
-    ampWebUrl: "https://amp.hothardware.com/news/facial-recognition-tricked-with-makeup"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/facial-recognition-tricked-with-makeup"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 54
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/56270/content/facial-recognition-tricked-with-makeup.jpg"
-        width: 708
-        height: 472
-        isCached: true
   - title: "CT town at forefront of national debate over facial recognition tech"
     excerpt: "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning the use of facial recognition technology."
     publishedDateTime: 2021-09-21T16:44:00Z
@@ -56,21 +40,49 @@ related:
         width: 2048
         height: 1536
         isCached: true
-  - title: "Researchers use makeup to elude facial recognition via novel black-box attack"
-    excerpt: "Researchers have found a way to thwart facial recognition cameras using certain software-generated patterns and natural makeup techniques."
-    publishedDateTime: 2021-09-20T22:19:00Z
-    webUrl: "https://www.biometricupdate.com/202109/researchers-use-makeup-to-elude-facial-recognition-via-novel-black-box-attack"
+  - title: "Conundrum of expectations: are courts prepared for challenges against facial recognition technology?"
+    excerpt: "In the absence of frameworks for privacy and data protection, the existence of legislation dedicated to the regulation of State"
+    publishedDateTime: 2021-09-20T12:27:00Z
+    webUrl: "https://www.theleaflet.in/conundrum-of-expectations-are-courts-prepared-for-challenges-against-facial-recognition-technology/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
+      name: theleaflet
+      domain: theleaflet.in
+    quality: 39
     images:
-      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
-        width: 1100
-        height: 734
+      - url: "https://www.theleaflet.in/wp-content/uploads/2021/09/Facial-Recognition.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Concerns over facial recognition in roll-out of Garda body-cams"
+    excerpt: "The meeting heard from a number of concerned bodies regarding the proposed application of the bill, which was first announced last April"
+    publishedDateTime: 2021-09-22T05:30:00Z
+    webUrl: "https://www.irishexaminer.com/news/arid-40703369.html"
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 39
+    images:
+      - url: "https://www.irishexaminer.com/cms_media/module_img/5319/2659796_6_googlediscover_Garda_20from_20Behind_20Generic_1_1_.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Unregulated use of facial recognition technology continues to spread across Russia"
+    excerpt: "Facial recognition has a wide range of uses in Moscow, from monitoring public transportation payments to traffic monitoring and a school pass system. More than 5,000 cameras with facial recognition software already operate in other regions of Russia."
+    publishedDateTime: 2021-09-20T22:36:00Z
+    webUrl: "https://ifex.org/unregulated-use-of-facial-recognition-technology-continues-to-spread-across-russia/"
+    type: article
+    provider:
+      name: IFEX
+      domain: ifex.org
+    quality: 33
+    images:
+      - url: "https://ifex.org/wp-content/uploads/2021/09/russia-facial-recognition-cctv-metro-station-getty.jpg"
+        width: 1000
+        height: 666
         isCached: true
 
-secured: "4aDK24c8jB2t/IOf2mqJH+gF/B/rE1HPKUfeNteoaEMigc5GwLmh+0nw3Exx0T79/MCl3SKzUmZeW7P71WW14cEH0w7OAzzP1zX9S3r8Xy9on/aHA5tNEK1GEG8QqtJjUHdO+MAwnJO25HOA4ps6yjeZLs0b796LIAQ8E4SphbhNFGPuWn2f6X/5o+WR9+fh733Y4p45Y7jsTxqM5EYZQnlfZ4YF37/HE3Rs5ZGM/mEWIqxdlupgP0xhxD+3oZBeWayRrv0sCGdjkkbjkxVeu/h0PLH22FGVUljynoMH+MUhvNPo0PqbekiLelaAdE2d1pKuGzpLB5EFHfvpDVLqVHkBqDv7by0BZUONGbF+8Tg=;y4ggIiKWIKC4FsI5Mxfw8Q=="
+secured: "E1QEWf1NIeqJx98YK+lWdXKYOn/Tsfur4iC+Uy7u+5Wn5ns9foV/Vqp09J0+UKnf5Ditchn9h64pkdFbr0BcE6Nh0GL0XSpaY5nDb+I9AK7L/kvVwVxzTrywu1nbhMp9g+aT/7quS2B9Q2k0voa+cIBbWgLIiOlhUZeBMap/lvYdNnY42D141vCpcKcylbfX2I14jccUcdudr6aOOTgQzo6x9UMcKv1+j0vkEXvCl4JHvwrJJu2Ghpbo/VSSzTvS6Pzcy0yDnqeedt3yvHChqjQ+UStVSt5r2O71jBLdLfnH7YN8XfKURHXYNyiRNEf58TfizJSNDWPDqTI66Zh4VXEmVTTFCEvlhPurm7QN3wQ=;5n0c+9UnFOfncMlBx2aQmg=="
 ---
 

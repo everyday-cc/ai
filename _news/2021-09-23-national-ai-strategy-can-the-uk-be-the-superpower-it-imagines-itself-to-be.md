@@ -8,7 +8,7 @@ webUrl: "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-ima
 ampWebUrl: "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be?amp"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Robotics
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2019-11/AAE94690-8272-4B0C-B0F8-0BD74D98E409.jpeg"
@@ -89,6 +90,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "UK Government publishes National AI Strategy"
+    excerpt: "This week, the UK Government has announced its Artificial Intelligence (AI) strategy, outlining plans to address the long-term demands of the AI ecosystem. The strategy emphasises the importance of ensuring that the UK gets the national and international governance of AI technologies right in order to encourage innovation,"
+    publishedDateTime: 2021-09-23T11:51:00Z
+    webUrl: "https://www.mynewsdesk.com/nccgroup/news/uk-government-publishes-national-ai-strategy-434270"
+    type: article
+    provider:
+      name: mynewsdesk.com
+      domain: mynewsdesk.com
+    quality: 39
+    images:
+      - url: "https://resources.mynewsdesk.com/image/upload/c_fill,h_628,q_auto:good,w_1200/oboruzxuylwoup6lkyls.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Embark Announces Advisory Board to Accelerate the Commercialization of its Self-Driving Technology"
     excerpt: "Embark Trucks, Inc., a leading developer of autonomous technology for the trucking industry, today announced the formation of its strategic advisory board, a committee of distinguished trucking and supply chain executives that will guide Embark's rapid business expansion."
     publishedDateTime: 2021-09-22T11:09:00Z
@@ -99,6 +114,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "Mqq0IKzcgDKIrqiq7D/csAyoeRaG1OR6VgcZgV/o0IhbjRT37CR4JD3CtrD9mVT28+tpSehOttRKqmnAzpI7rqBvuYTVPAaoiBYAuTHSqquuYXgbRJOavG94PlYzrT9Zdw29ZlmZfU1R4rUcxHF2VWgu4dshnmR+Cq/PjHahPOdSyZdqpJCQlT5qMgUo2jRyR0rt+yQufM0nNSPzUQYbXb9JhoMif5DhvFRnxB6tTuEz1ZbySMaiHFitlakga9huw/SFp1u45xgbzzVeBaMW/RBBDgbrjwtvAsHyQVQkRFFoCA13dRAJqCnJ40FYAfRuAs/ByCyWEdQlSazSWrFZCddJIZDeMRPmbPrs6bVj1P4=;m7FmbTQgjgvJ3ksOdQiIIg=="
+secured: "WL0IQKLq/fUnbwzG9S/LsA2DIUOxDwlNzaaRA5Y/M7xG/pT2FCcRekNZG2yD5D4IUfVIoViTb04K7U8w/kL/MuLI9fDTYF7tMT/6TnrhAWxqS+xkWuuMo7sOcRPOBs2CfoxDYUxS36vcawQxpxsvz2lPYa98DzEoIn6e3YDnpU9INTpJP+0bzKdnKNxG7do1zRnxXRuZ+ffj4LBQmHLhXb/Kf6jMaPIHhW2DCTOqaUa6S9wtZIXqSqrh/LFwjrwpuEPMetIEcOc2J6jHg7MhRZZlhf+dd//Vy9yEQAIYqBOnuSLsENV/qJPgtmHXUz7Sv7UgcijJyFZ2i8UXx5IA0I5I4U1d9OxRCiBodVeDW8P8KX8sD91h89l3o+qXznkMoLbG1Xvx2CwbyP74MZODqsSyK17vOT2B+LMmALLYhN6TUYLIHZRkiSWnFd8qBp25CdQXD0GLyz7tXB3ZlDOpEThH7EuAc7EB+pp4Rklw3sJ0rqHvl1bSU3qb4uoEF6+e18I3/rjuOuwCb0gTkfxmIA==;XApElIUyHc2guU5XMIgH6w=="
 ---
 

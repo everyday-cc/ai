@@ -68,7 +68,7 @@ related:
     provider:
       name: Diginomica
       domain: diginomica.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://diginomica.com/sites/default/files/images/2019-11/AAE94690-8272-4B0C-B0F8-0BD74D98E409.jpeg"
         width: 640
@@ -87,6 +87,20 @@ related:
       - url: "https://theguideliverpooldo.ams3.digitaloceanspaces.com/2021/09/shutterstock_1022667853.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "UK Government publishes National AI Strategy"
+    excerpt: "This week, the UK Government has announced its Artificial Intelligence (AI) strategy, outlining plans to address the long-term demands of the AI ecosystem. The strategy emphasises the importance of ensuring that the UK gets the national and international governance of AI technologies right in order to encourage innovation,"
+    publishedDateTime: 2021-09-23T11:51:00Z
+    webUrl: "https://www.mynewsdesk.com/nccgroup/news/uk-government-publishes-national-ai-strategy-434270"
+    type: article
+    provider:
+      name: mynewsdesk.com
+      domain: mynewsdesk.com
+    quality: 39
+    images:
+      - url: "https://resources.mynewsdesk.com/image/upload/c_fill,h_628,q_auto:good,w_1200/oboruzxuylwoup6lkyls.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Embark Announces Advisory Board to Accelerate the Commercialization of its Self-Driving Technology"
     excerpt: "Embark Trucks, Inc., a leading developer of autonomous technology for the trucking industry, today announced the formation of its strategic advisory board, a committee of distinguished trucking and supply chain executives that will guide Embark's rapid business expansion."

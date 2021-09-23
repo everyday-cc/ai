@@ -57,6 +57,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Liberia: Center for Peace Education Celebrates Recognition of International Day of Peace"
+    excerpt: "A local nongovernmental organization Center for Peace and Education has joined the rest of the world in recognition of the International Day of Peace through a grand parade and indoor program spreading messages of peace."
+    publishedDateTime: 2021-09-23T10:20:00Z
+    webUrl: "https://allafrica.com/stories/202109230622.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 32
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
+        isCached: true
 
 secured: "qRTVwHKwhbpPCBxOvDmwv4ctT51F1gDx9KaKqj00zFNPuyTWEuhNWUMbxUK0lFhNWdlnZ0A+x9FyLiVpAKsesaadsNDCSMRE4DNQO1YiDwqhQHlPsF5TqUzMGv5YnfBicZCVzjBtP61ym387koxukEUHOHhODY4G45jmbJp8U9wjsRFJNvPxOao3BhMcMtrPUyon5Sb0CckpIcDVvNSfO8e/bojcdieJG4qUDIn/KLrb10HfUUPiTR7zkupxQaUOdGnKPwT+3QKqC3Y4/c/6aeiYA7qS6WomSseMgJGUHFjRtIu0aA9CDNlyWjn7keb8owokjA20/WgvdRLr5KfYEdkkOT+Vq85gy1yhDm+Rrxo=;S7q+9ygFndIvcaK+UC+huQ=="
 ---

@@ -51,6 +51,22 @@ related:
         width: 1000
         height: 581
         isCached: true
+  - title: "National AI Strategy - can the UK be the superpower it imagines itself to be?"
+    excerpt: "Does Whitehall have the human intelligence, expertise, and skills to make the UK’s new National AI Strategy work?"
+    publishedDateTime: 2021-09-23T09:04:00Z
+    webUrl: "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be"
+    ampWebUrl: "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 58
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2019-11/AAE94690-8272-4B0C-B0F8-0BD74D98E409.jpeg"
+        width: 640
+        height: 384
+        isCached: true
   - title: "UK to develop AI strategy as part of tech sector push"
     excerpt: "Ministers are set to launch plans to develop British interests in artificial intelligence as part of a wider government push to support the tech sector this week. The AI strategy"
     publishedDateTime: 2021-09-20T03:00:00Z
@@ -67,22 +83,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "National AI Strategy - can the UK be the superpower it imagines itself to be?"
-    excerpt: "Does Whitehall have the human intelligence, expertise, and skills to make the UK’s new National AI Strategy work?"
-    publishedDateTime: 2021-09-23T09:04:00Z
-    webUrl: "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be"
-    ampWebUrl: "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 56
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2019-11/AAE94690-8272-4B0C-B0F8-0BD74D98E409.jpeg"
-        width: 640
-        height: 384
-        isCached: true
   - title: "The UK has launched its first National Artificial Intelligence Strategy"
     excerpt: "The Government has outlined a 10-year artificial intelligence strategy in a bid to make the UK a global science superpower. Info here."
     publishedDateTime: 2021-09-22T11:48:00Z
@@ -96,6 +96,20 @@ related:
       - url: "https://theguideliverpooldo.ams3.digitaloceanspaces.com/2021/09/shutterstock_1022667853.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "UK Government publishes National AI Strategy"
+    excerpt: "This week, the UK Government has announced its Artificial Intelligence (AI) strategy, outlining plans to address the long-term demands of the AI ecosystem. The strategy emphasises the importance of ensuring that the UK gets the national and international governance of AI technologies right in order to encourage innovation,"
+    publishedDateTime: 2021-09-23T11:51:00Z
+    webUrl: "https://www.mynewsdesk.com/nccgroup/news/uk-government-publishes-national-ai-strategy-434270"
+    type: article
+    provider:
+      name: mynewsdesk.com
+      domain: mynewsdesk.com
+    quality: 39
+    images:
+      - url: "https://resources.mynewsdesk.com/image/upload/c_fill,h_628,q_auto:good,w_1200/oboruzxuylwoup6lkyls.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "NFMODjFgagQg4tCuyK50XIkcpMpG+s49U8ql6nKKKUiGGO6MzLHDUgep4AScFtygYSqovQMlUNSnGdFzNtGrCAkDF4q4wsVr85i1JnPREbVyDAzO8IIqaFllet8qW7Wx9X5VGIRPNrhCzSbqkXSeUhm0jwo910XKy01orrqkHbTfLsYUsKsLI6lRPd7PnWaiQ6QONrf53kIj2LlbiHbm072dueS1I49iEVIaVqeLTFsZi5aLBLTsL1l1QttBBXPmH3Gr9CKVAZ4aYYWyZorHi9IZUYjLxdxfsi8GGWhNnH2kwvePp6KpXhj6ofsDQnUQCG3IgiQ3ZXCsWp94dSh6VEMHlNG0L/ZeaNzuI9hL22M=;rgh6kCQVsBUvBgV6S42y1A=="

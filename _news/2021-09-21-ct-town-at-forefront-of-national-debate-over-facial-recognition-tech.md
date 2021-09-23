@@ -7,7 +7,7 @@ originalUrl: "https://www.registercitizen.com/metro/article/CT-town-at-forefront
 webUrl: "https://www.registercitizen.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,26 +26,10 @@ images:
     isCached: true
 
 related:
-  - title: "Facepalm As Researchers Crack Advanced Facial Recognition Tech With Simple Makeup"
-    excerpt: "The concerning part of all of this is that the research also explained this “attack has a high level of inconspicuousness and thus can be launched in the real world.”"
-    publishedDateTime: 2021-09-18T19:03:00Z
-    webUrl: "https://hothardware.com/news/facial-recognition-tricked-with-makeup"
-    ampWebUrl: "https://amp.hothardware.com/news/facial-recognition-tricked-with-makeup"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/facial-recognition-tricked-with-makeup"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 54
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/56270/content/facial-recognition-tricked-with-makeup.jpg"
-        width: 708
-        height: 472
-        isCached: true
   - title: "CT town at forefront of national debate over facial recognition tech"
-    excerpt: "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning the use of facial recognition technology."
-    publishedDateTime: 2021-09-21T20:42:00Z
-    webUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php"
+    excerpt: "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning governmental use of facial recognition technology."
+    publishedDateTime: 2021-09-21T18:13:00Z
+    webUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b"
     type: article
     provider:
       name: New Haven Register
@@ -56,19 +40,47 @@ related:
         width: 2048
         height: 1536
         isCached: true
-  - title: "Researchers use makeup to elude facial recognition via novel black-box attack"
-    excerpt: "Researchers have found a way to thwart facial recognition cameras using certain software-generated patterns and natural makeup techniques."
-    publishedDateTime: 2021-09-20T22:19:00Z
-    webUrl: "https://www.biometricupdate.com/202109/researchers-use-makeup-to-elude-facial-recognition-via-novel-black-box-attack"
+  - title: "Conundrum of expectations: are courts prepared for challenges against facial recognition technology?"
+    excerpt: "In the absence of frameworks for privacy and data protection, the existence of legislation dedicated to the regulation of State"
+    publishedDateTime: 2021-09-20T12:27:00Z
+    webUrl: "https://www.theleaflet.in/conundrum-of-expectations-are-courts-prepared-for-challenges-against-facial-recognition-technology/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
+      name: theleaflet
+      domain: theleaflet.in
+    quality: 39
     images:
-      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
-        width: 1100
-        height: 734
+      - url: "https://www.theleaflet.in/wp-content/uploads/2021/09/Facial-Recognition.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Concerns over facial recognition in roll-out of Garda body-cams"
+    excerpt: "The meeting heard from a number of concerned bodies regarding the proposed application of the bill, which was first announced last April"
+    publishedDateTime: 2021-09-22T05:30:00Z
+    webUrl: "https://www.irishexaminer.com/news/arid-40703369.html"
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 39
+    images:
+      - url: "https://www.irishexaminer.com/cms_media/module_img/5319/2659796_6_googlediscover_Garda_20from_20Behind_20Generic_1_1_.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Unregulated use of facial recognition technology continues to spread across Russia"
+    excerpt: "Facial recognition has a wide range of uses in Moscow, from monitoring public transportation payments to traffic monitoring and a school pass system. More than 5,000 cameras with facial recognition software already operate in other regions of Russia."
+    publishedDateTime: 2021-09-20T22:36:00Z
+    webUrl: "https://ifex.org/unregulated-use-of-facial-recognition-technology-continues-to-spread-across-russia/"
+    type: article
+    provider:
+      name: IFEX
+      domain: ifex.org
+    quality: 33
+    images:
+      - url: "https://ifex.org/wp-content/uploads/2021/09/russia-facial-recognition-cctv-metro-station-getty.jpg"
+        width: 1000
+        height: 666
         isCached: true
 
 secured: "Q9KLWB9vb0zxXJzMHcbQwKxed5NSmVWNcpWekHf4md7Tv4uo17c/7H8bpW7liygHOopjIkE7PmHWa1uBB5X+XvPhww3iKYXOSIJVohhc7M4NQ/uS/tE78IeEhZtR3OCqCA+F/qaX19gQ6mUFdh1k/JBtI/1DKQoS0m3V+N2s8O9AkcXXyaKBFpu/YW5S+LmKBG7lff42WSqXoT4CBHkfaRT6TuDmy6f1S672bJlu9zW33+qpNVCwAX8MBfTc68nfhNdpwZ2SkRMzSnxOmOXky872W/qFqPjP2Qlbm7yriBrwIBXfUX/aPKkhLHGahKY7gn8fw81cO+yhD6d5MBFiyX8W+vy3QEYpHO8w1tFEJ0YudSKXMbeDAsINaQVWUD48EuvcjNoF9Iha1GRFIMwlIpqFYksWzWHZcgbSpRu0xnBplCTWRVJBlfV8c7iNozdMZNeUWdaLxyHBncWUxZ3greL++oKZc8ZnwglqckhuvW6WI/8BCurcIpv8axefuFHW7lJa0vBzSsB4N2pOYlVSwQ==;Lo06fL4qXT5P9qynRze2Ng=="

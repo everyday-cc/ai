@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-23-conversational-ai-startup-gnaniai-launches-voice-biometrics-software.md",
+      "title": "Conversational AI startup Gnani.ai launches voice biometrics software",
+      "excerpt": "Gnani.ai, conversational AI and voice security domain, announced the launch of its home-grown Voice Biometrics software. Christened armour365™, the biometric solution claims to cater to new and emerging risks",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/",
+      "originalUrl": "https://www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2017/07/Fraud.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/amp/",
+      "publishedDateTime": "2021-09-23T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-ai-ethics-is-growing-up-towards-an-ai-maturity-model-organizations-can-use.md",
       "title": "AI ethics is growing up - towards an AI maturity model organizations can use",
       "excerpt": "When it comes to AI lessons organizations can use, the AI ethics punditry has been spinning its wheels. But there's good news: AI maturity models are emerging.",
@@ -588,7 +630,7 @@
       "originalUrl": "https://www.techspot.com/news/91378-mit-developed-toolkit-used-create-3d-printed-muscle.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -795,7 +837,7 @@
       "originalUrl": "https://techcrunch.com/2021/09/22/uk-announces-a-national-strategy-to-level-up-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -901,7 +943,7 @@
       "originalUrl": "https://techcrunch.com/2021/09/22/fedex-to-test-auroras-self-driving-trucks-on-dallas-to-houston-route/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -1173,57 +1215,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-osano-a-risk-and-compliance-startup-raises-11m.md",
-      "title": "Osano, a risk and compliance startup, raises $11M",
-      "excerpt": "Osano, a risk and compliance startup, has confirmed it has raised $11 million in new funding. The round was led by Jump Capital and with participation from existing investors LiveOak Venture Partners and Next Coast Ventures.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/22/osano-a-risk-and-compliance-startup-raises-11m/",
-      "originalUrl": "https://techcrunch.com/2021/09/22/osano-a-risk-and-compliance-startup-raises-11m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-488979113.jpg?w=1024",
-          "width": 1024,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/22/osano-a-risk-and-compliance-startup-raises-11m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/osano-a-risk-and-compliance-startup-raises-11m/amp/",
-      "publishedDateTime": "2021-09-22T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

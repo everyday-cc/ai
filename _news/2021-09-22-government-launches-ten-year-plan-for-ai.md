@@ -39,6 +39,15 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Britain wants to be an artificial intelligence superpower"
+    excerpt: "Because it is short on regular intelligenceThe nation which voted for Boris Johnson and Brexit and gave the world reality television apparently has drawn up a glorious ten year plan to be the world leaders of artificial intelligence."
+    publishedDateTime: 2021-09-23T10:09:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/53587-britain-wants-to-be-an-artificial-intelligence-superpower"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 32
 
 secured: "6H0gXic0TrkRndmbNdjDqvVFHBn/3yKQvP9QaKqJM/iKUI0NiESnqShRpH/pky4x/SqwdblpAoa4w00CAzyhvRRXyPvXkIfWEnUYWJiPkm/MWu8hmXcXXA/BCJ4RTFILxuGp4WmV6txpV1hJ/418Lj3MzDi/XwjCKkF9981hjx/9jGkC0BTDwG79LUVqAQXhbsAZMGT+yiHZfDdBaihThUR95iK/hKjMtmq+eYKNuOUuB6EyM+m3aMu+t+/Sc27fG5Qhwb8vflLqOzs7rTU3naIO1NlghJDd8/krL/l8fUomjruVr7T3dNU2QCdu+fR++2FLprzcggtoiA/neualXvKNAhTT6CGwunLNkSQ9n+xnn4kwIvvbtABoeweoZ52M1SHVTflWjUw2xwU+L7mWzRfUeLcu+wNSev4opCDYfNN62v3po5za2U7DcS09dbqJ0jXq5PN0PWdaaXxyfNmjTp9KLsNQhBdjnrh0U+ObJqgLTK0OWlf4G656F2gQdcvSgbfemLiVbuwmZl1Bom/wGg==;zFYWrVYtuj0Cyk8cvL72Zw=="
 ---

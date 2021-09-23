@@ -43,6 +43,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Liberia: Center for Peace Education Celebrates Recognition of International Day of Peace"
+    excerpt: "A local nongovernmental organization Center for Peace and Education has joined the rest of the world in recognition of the International Day of Peace through a grand parade and indoor program spreading messages of peace."
+    publishedDateTime: 2021-09-23T10:20:00Z
+    webUrl: "https://allafrica.com/stories/202109230622.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 32
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
+        isCached: true
   - title: "Informed Solutions recognised as a great inspiration"
     excerpt: "Informed Solutions has received national recognition for its response to the Coronavirus pandemic by being named as one of the faces of the UK government’s “GREAT Inspirations” campaign launched today."
     publishedDateTime: 2021-09-22T09:36:00Z

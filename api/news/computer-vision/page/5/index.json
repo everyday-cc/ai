@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-11-global-face-recognition-systems-market.md",
+      "title": "Global Face Recognition Systems Market",
+      "excerpt": "The overall Face Recognition Systems market is uncommonly ferocious To keep up their position and drive the market improvement industry players are persistently improving and searching for market expansion logically through progressions thing dispatches solidifications and acquisitions sagacious portfolio and",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2351661/global-face-recognition-systems-market-size-growth",
+      "originalUrl": "https://www.openpr.com/news/2351661/global-face-recognition-systems-market-size-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/8/U810466440_g.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2351661/global-face-recognition-systems-market-size-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2351661/global-face-recognition-systems-market-size-growth",
+      "publishedDateTime": "2021-08-10T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-causal-neural-mechanisms-of-context-based-object-recognition.md",
+      "title": "Causal neural mechanisms of context-based object recognition",
+      "excerpt": "Interestingly, object recognition can still be highly accurate under these conditions when objects are seen within their typical scene context. What are the neural mechanisms of context-based object recognition? According to parallel processing accounts ...",
+      "sourceUrl": null,
+      "webUrl": "https://elifesciences.org/articles/69736",
+      "originalUrl": "https://elifesciences.org/articles/69736",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://elifesciences.org/assets/images/social/icon-600x600@1.75dbe4c9.png",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eLife",
+        "domain": "elifesciences.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-tetavi-raises-20-million-for-its-metaverse-focused-computer-vision-tech.md",
       "title": "TetaVi Raises $20 Million For Its Metaverse-Focused Computer Vision Tech",
       "excerpt": "The startup hopes to democratize the ability for consumers to create for the metaverse through its cheaper and more flexible volumetric video software.",
@@ -1238,92 +1324,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-computer-vision-market-has-revealed-immense-growth-with-key-players-texas-instruments-keyence-basler.md",
-      "title": "Computer Vision Market Has Revealed Immense Growth with Key Players – Texas Instruments, Keyence, Basler",
-      "excerpt": "The Global Computer Vision Market report is expected to grow at a CAGR of 9.16% and is poised to reach $XX Billion by 2027 as compared to $XX Billion in 2020. The factors leading to this extraordinary growth is attributed to various market dynamics discussed in the report.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/computer-vision-market-has-revealed-immense-growth-with-key-players-texas-instruments-keyence-basler/",
-      "originalUrl": "https://manometcurrent.com/computer-vision-market-has-revealed-immense-growth-with-key-players-texas-instruments-keyence-basler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://domestic-violence.org.uk/wp-content/uploads/2021/07/300-x-300-pixel-1-2-300x225.jpg",
-          "width": 300,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-researchers-use-ai-to-look-for-alien-civilisations.md",
-      "title": "Researchers use AI to look for alien civilisations",
-      "excerpt": "The team will use a network of mid-sized, high-resolution telescopes and detector arrays with suitable cameras and computer systems as part of their research to find alien civilisations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/researchers-use-ai-to-look-for-alien-civilisations/article35680523.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/researchers-use-ai-to-look-for-alien-civilisations/article35680523.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/technology/r5nkkz/article35680756.ece/ALTERNATES/LANDSCAPE_615/oumuamua-impression",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/researchers-use-ai-to-look-for-alien-civilisations/article35680523.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/researchers-use-ai-to-look-for-alien-civilisations/article35680523.ece/amp/",
-      "publishedDateTime": "2021-08-02T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
         "images": null,
         "publishers": null,
         "authors": null

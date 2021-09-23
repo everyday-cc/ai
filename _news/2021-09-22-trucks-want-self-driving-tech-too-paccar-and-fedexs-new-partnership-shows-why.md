@@ -84,6 +84,22 @@ related:
         width: 1200
         height: 809
         isCached: true
+  - title: "Aurora, FedEx launch self-driving vehicles"
+    excerpt: "Aurora Innovation outlined a goal to provide full driverless delivery for courier company FedEx by 2023, as the pair commenced a trial."
+    publishedDateTime: 2021-09-23T10:16:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/aurora-fedex-launch-self-driving-vehicles"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/aurora-fedex-launch-self-driving-vehicles/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/aurora-fedex-launch-self-driving-vehicles/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 44
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2021/09/Aurora_Innovation_Fleet.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Self-driving tech firm Aurora to test driverless delivery with FedEx"
     excerpt: "Aurora, which is led by former heads of self-driving programs at Google, Uber and Tesla, said it is aiming for trucks without a safety driver by late 2023."
     publishedDateTime: 2021-09-22T17:29:00Z
@@ -125,6 +141,20 @@ related:
       - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Fedex to launch self-driving trucks in pilot with Silicon Valley start-up"
+    excerpt: "The US package delivery firm FedEx is partnering with a self-driving vehicle start-up for a fleet of autonomous trucks to ferry shipments between Dallas and Ho"
+    publishedDateTime: 2021-09-23T12:00:00Z
+    webUrl: "https://www.thetimes.co.uk/article/fedex-to-launch-self-driving-trucks-in-pilot-with-silicon-valley-start-up-mr6kmmmgk"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 23
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fcff3485c-1c5b-11ec-95b9-6429167b0259.jpg?crop=1167%2C656%2C0%2C61&resize=1200"
+        width: 1167
+        height: 656
         isCached: true
   - title: "FedEx partners with Aurora, Paccar for self-driving hauls between Dallas and Houston"
     excerpt: "Autonomously enabled trucks will haul FedEx loads between Dallas and Houston on a 500-mile round trip along the I-45 corridor. Read CCJ for details."

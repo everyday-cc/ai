@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91378-mit-developed-toolkit-used-c
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91378-mit-developed-toolkit-used-create-3d-printed-muscle.html"
 type: article
 quality: 72
-heat: 73
+heat: 74
 published: true
 
 provider:

@@ -42,6 +42,20 @@ related:
         width: 658
         height: 430
         isCached: true
+  - title: "Microsoft launches AI Eye Contact video call software"
+    excerpt: "Microsoft’s artificial intelligence-powered video technology can correct one’s gaze in video calls to make one appear to be looking directly into the camera lens."
+    publishedDateTime: 2021-09-23T10:13:00Z
+    webUrl: "https://gadget.co.za/microsoft-launches-ai-eye-contact-video-call-software/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 56
+    images:
+      - url: "https://i2.wp.com/gadget.co.za/wp-content/uploads/2021/09/maxresdefault-2.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Machine Learning Operationalization Software Market Expected to Develop by 2027 with COVID-19 Analysis | IBM, Microsoft"
     excerpt: "This Machine Learning Operationalization Software market analysis flashes light on company profiles product specifications capacity and the most importantly market shares for each industry Three most prominent sectors discussed here are product type competition section and end use section It"
     publishedDateTime: 2021-09-20T14:19:00Z
@@ -97,6 +111,31 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 46
+  - title: "SSE Renewables teams up with Microsoft for AI-led puffin conservation project on Isle of May"
+    excerpt: "Green energy provider talks up the potential for artificial intelligence technology to help speed up the time it takes to bring new supplies of renewable power onto the grid."
+    publishedDateTime: 2021-09-23T04:22:00Z
+    webUrl: "https://www.computerweekly.com/news/252507070/SSE-Renewables-teams-up-with-Microsoft-for-AI-led-puffin-conservation-project-on-Isle-of-May"
+    ampWebUrl: "https://www.computerweekly.com/news/252507070/SSE-Renewables-teams-up-with-Microsoft-for-AI-led-puffin-conservation-project-on-Isle-of-May?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252507070/SSE-Renewables-teams-up-with-Microsoft-for-AI-led-puffin-conservation-project-on-Isle-of-May?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 43
+  - title: "Everything Announced at Microsoft's 2021 Surface Event"
+    excerpt: "Surface Studio Laptop . Instead of the next iteration of the Surface Book, Microsoft announced a \"fresh take on [its] powerhouse laptop\" in the form of the Surface Laptop Studio."
+    publishedDateTime: 2021-09-23T05:38:00Z
+    webUrl: "https://me.ign.com/en/mobile/189720/news/everything-announced-at-microsofts-2021-surface-event"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 41
+    images:
+      - url: "https://sm.ign.com/t/ign_me/news/e/everything/everything-announced-at-microsofts-2021-surface-event_xx5r.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Cloudflare Joins Microsoft Intelligent Security Association"
     excerpt: "Now, we can build even deeper product integrations between Cloudflare and Microsoft that will help equip organizations to tackle today's rapidly evolving cyber threats.\" Cloudflare provides security,"
     publishedDateTime: 2021-09-22T13:06:00Z

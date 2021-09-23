@@ -2,6 +2,112 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-09-08-disrupting-the-contact-center-with-machine-learning-differentiating-on-customer-experience.md",
+      "title": "Disrupting The Contact Center With Machine Learning: Differentiating On Customer Experience",
+      "excerpt": "They seek always-on, personalized service on every channel where they engage with the brands — even as these brands struggle to balance between delighting customers and reduce operational costs. The contact center sits at the epicenter of brands’ battle for CX.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amazonwebservices/2021/09/08/disrupting-the-contact-center-with-machine-learning-differentiating-on-customer-experience/",
+      "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2021/09/08/disrupting-the-contact-center-with-machine-learning-differentiating-on-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6138d85aba81003171f2fe73%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amazonwebservices/2021/09/08/disrupting-the-contact-center-with-machine-learning-differentiating-on-customer-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/09/08/disrupting-the-contact-center-with-machine-learning-differentiating-on-customer-experience/amp/",
+      "publishedDateTime": "2021-09-08T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-ai-self-driving-cars-and-the-looming-aggregated-statistical-trolley-dilemma.md",
+      "title": "AI Self-Driving Cars And The Looming Aggregated Statistical Trolley Dilemma",
+      "excerpt": "A worthwhile revisit of the infamous Trolley Problem associated with AI-based true self-driving cars and giving due consideration to scaling up toward the Statistical Trolley Dilemma.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/08/ai-self-driving-cars-and-the-looming-aggregated-statistical-trolley-dilemma/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/08/ai-self-driving-cars-and-the-looming-aggregated-statistical-trolley-dilemma/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611596531f4c966b2706b5a1%2F0x0.jpg%3FcropX1%3D44%26cropX2%3D754%26cropY1%3D0%26cropY2%3D533",
+          "width": 710,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/08/ai-self-driving-cars-and-the-looming-aggregated-statistical-trolley-dilemma/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/08/ai-self-driving-cars-and-the-looming-aggregated-statistical-trolley-dilemma/amp/",
+      "publishedDateTime": "2021-09-08T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-a-chinese-ev-startup-wants-to-build-a-ridable-robot-unicorn-for-kids.md",
       "title": "A Chinese EV startup wants to build a ridable robot unicorn for kids",
       "excerpt": "Never mind buying a robot dog for your kids — you might just get them a mythical creature instead. Chinese EV maker Xpeng has teased a robot unicorn meant for children to ride.",
@@ -1032,102 +1138,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-boost-transcription-accuracy-of-class-lectures-with-custom-language-models-for-amazon-transcribe.md",
-      "title": "Boost transcription accuracy of class lectures with custom language models for Amazon Transcribe",
-      "excerpt": "Many universities like transcribing their recorded class lectures and later creating captions out of these transcriptions. Amazon Transcribe is a fully-managed automatic speech recognition service (ASR) that makes it easy to add speech-to-text capabilities to voice-enabled applications. Transcribe assists",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/transcribe-class-lectures-accurately-using-amazon-transcribe-with-custom-language-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/transcribe-class-lectures-accurately-using-amazon-transcribe-with-custom-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-07T14:14:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-new-deep-learning-method-boosts-mri-results-without-requiring-new-data.md",
-      "title": "New deep learning method boosts MRI results without requiring new data",
-      "excerpt": "When patients undergo an MRI, they are told to lie still because even the slightest movement compromises the quality of the images and can create blurred spots and speckles known as artifacts. Moreover,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-09-deep-method-boosts-mri-results.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-09-deep-method-boosts-mri-results.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/mri.jpg",
-          "width": 1920,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-09-deep-method-boosts-mri-results.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-deep-method-boosts-mri-results.amp",
-      "publishedDateTime": "2021-09-07T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

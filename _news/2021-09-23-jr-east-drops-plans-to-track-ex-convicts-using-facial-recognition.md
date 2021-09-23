@@ -24,6 +24,22 @@ images:
     height: 489
     isCached: true
 
+related:
+  - title: "Researchers use makeup to elude facial recognition via novel black-box attack"
+    excerpt: "Researchers have found a way to thwart facial recognition cameras using certain software-generated patterns and natural makeup techniques."
+    publishedDateTime: 2021-09-20T22:19:00Z
+    webUrl: "https://www.biometricupdate.com/202109/researchers-use-makeup-to-elude-facial-recognition-via-novel-black-box-attack"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
+        width: 1100
+        height: 734
+        isCached: true
+
 secured: "ecxnpJ2Zftfbg3WNLUW8lkxtLDDi5oMRSMt0r8X0/riXZQYWyfnW7FvJAJUfcWwF9wHYt7/vDUNG7nHkYKF+DyrnAD1pVpckOCw8Ztevo/LxEBsN+saShn22jMLi8EbLP0fABYxc4dO54rAhbuZM4vAbaS8ZB2OuGtKjHBH6YeI2F0jjP2RpwQE9QsDO3Z4ocfR1KcIxr9AxOIp7eY/CXmkqaDRfai/k70XBfFwKoM42n9fpPV5VoihWt6vUX3mbAm0jNL88YxBW/m8AOkn07kM4rVSC9Hz+6VgE7VN4KzkAkNYl7/Dc/WiThNeCEd68flUHbSrVeXi1FSMzeirBU6d7M5YV4lf8+7SaANNYp+c=;90Vc7oUFZFWg5mqW3rRbEQ=="
 ---
 

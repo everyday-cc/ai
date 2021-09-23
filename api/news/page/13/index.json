@@ -2,6 +2,100 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-09-10-artificial-intelligence-ai-in-retail-market-to-grow-at-a-cagr-of-297-from-2021-to-2027-google-nvidia-conversica-baidu-intel.md",
+      "title": "Artificial Intelligence (AI) in Retail Market to Grow at a CAGR of 29.7% from 2021 to 2027 | Google, NVIDIA, Conversica, Baidu, Intel",
+      "excerpt": "The study includes information on competitive scenarios probable threats breakthroughs and a variety of other topics There is detailed information about developing trends market drivers development prospects and dynamic market restraints Market participants may comprehend major trends in the worldwide",
+      "sourceUrl": null,
+      "webUrl": "https://www.brookings.edu/research/the-geography-of-ai/",
+      "originalUrl": "https://www.openpr.com/news/2389167/artificial-intelligence-ai-in-retail-market-to-grow-at-a-cagr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.brookings.edu/wp-content/uploads/2021/08/Figure6.png?fit=500%2C375px&quality=1#038;ssl=1",
+          "width": 500,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.brookings.edu/research/the-geography-of-ai/?amp",
+      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/the-geography-of-ai/?amp",
+      "publishedDateTime": "2021-09-10T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-communism-and-sitcoms-inspire-ai-ethics-at-salesforce.md",
+      "title": "Communism and sitcoms inspire AI ethics at Salesforce",
+      "excerpt": "Salesforce VP Yakaira Núñez's experiences taught her that it's important to consider your non-target audience in your AI roadmap.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/",
+      "originalUrl": "https://venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Women-in-AI-Awards-1.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/amp/",
+      "publishedDateTime": "2021-09-10T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-why-the-next-big-ai-accuracy-breakthrough-wont-come-from-algorithms-or-computing-power.md",
       "title": "Why The Next Big AI Accuracy Breakthrough Won’t Come From Algorithms Or Computing Power",
       "excerpt": "Just as we swung from championing algorithms to data to infrastructure, we'll shift our focus back to data — more specifically, acquiring the right data.",
@@ -1055,103 +1149,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-facebook-developing-machine-learning-chip-the-information.md",
-      "title": "Facebook developing machine learning chip - The Information",
-      "excerpt": "Facebook Inc is developing a machine learning chip to handle tasks such as content recommendation to users, The Information reported on Thursday, citing two people familiar with the project.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/facebook-developing-machine-learning-chip-information-2021-09-09/",
-      "originalUrl": "https://www.reuters.com/technology/facebook-developing-machine-learning-chip-information-2021-09-09/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 248,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/d0h2VGieUoa8rWcphU5zvwQoS_s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2JN4NFPXBJGPJNAA2A7ECHILE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-biobest-makes-investment-in-robotics-and-artificial-intelligence.md",
-      "title": "Biobest Makes Investment in Robotics and Artificial Intelligence",
-      "excerpt": "Along with Biobest’s $10 million investment in ecoation, the companies are also joining forces to develop new IPM-related technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.greenhousegrower.com/production/biobest-makes-investment-in-robotics-and-artificial-intelligence/",
-      "originalUrl": "https://www.greenhousegrower.com/production/biobest-makes-investment-in-robotics-and-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.greenhousegrower.com/greenhousegrow/wp-content/uploads/2021/07/Ecoation-OKO-Platform.jpg",
-          "width": 896,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.greenhousegrower.com/production/biobest-makes-investment-in-robotics-and-artificial-intelligence/?amp",
-      "cdnAmpWebUrl": "https://www-greenhousegrower-com.cdn.ampproject.org/c/s/www.greenhousegrower.com/production/biobest-makes-investment-in-robotics-and-artificial-intelligence/?amp",
-      "publishedDateTime": "2021-09-09T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Greenhouse Grower",
-        "domain": "greenhousegrower.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
