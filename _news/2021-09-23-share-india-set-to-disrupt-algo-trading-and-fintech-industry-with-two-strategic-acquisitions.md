@@ -59,20 +59,6 @@ related:
         width: 620
         height: 414
         isCached: true
-  - title: "How Square Is Using Artificial Intelligence and Machine Learning to Improve Cash App | Fintech Zoom"
-    excerpt: "In today’s video, I provide examples of deepfake AI technology and discuss how Square can leverage the acquisition to improve Cash App. The goal is to leverage the latest AI research to develop next-generation Cash App products."
-    publishedDateTime: 2021-09-18T21:12:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_square-stock/how-square-is-using-artificial-intelligence-and-machine-learning-to-improve-cash-app-fintech-zoom/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 42
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/sq-ai-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Share India set to disrupt the algo-trading, fintech"
     excerpt: "Share India Securities Limited has announced the acquisition of two companies namely - Algowire Trading Technologies Private Limited and Utrade Solutions Priva"
     publishedDateTime: 2021-09-23T06:28:00Z
@@ -86,6 +72,20 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1632378030.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "Share India set to disrupt the FinTech industry with strategic acquisitions"
+    excerpt: "Share India announced the acquisition of two companies, Algowire Trading Technologies Private Limited and Utrade Solutions Private Limited."
+    publishedDateTime: 2021-09-23T11:56:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/share-india-set-to-disrupt-the-fintech-industry-with-strategic-acquisitions/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 22
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/Money2020_MPU.jpg"
+        width: 300
+        height: 250
         isCached: true
   - title: "Worldwide FinTech Industry to 2026 - Featuring Affirm, Betterment and C2FO Among Others"
     excerpt: "Technologies, Applications, and Services 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. This report provides a comparative analysis between legacy financial systems and emerging"

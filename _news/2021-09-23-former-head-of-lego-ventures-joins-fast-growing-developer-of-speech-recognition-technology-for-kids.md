@@ -3,8 +3,8 @@ category: news
 title: "Former Head of LEGO Ventures Joins Fast-Growing Developer of Speech Recognition Technology for Kids"
 excerpt: "SoapBox Labs, pioneering developer of safe, secure, and accurate speech recognition technology for children, today announced the appointment"
 publishedDateTime: 2021-09-23T09:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/former-head-of-lego-ventures-joins-fast-growing-developer-of-speech-recognition-technology-for-kids-301383497.html"
-webUrl: "https://www.prnewswire.com/news-releases/former-head-of-lego-ventures-joins-fast-growing-developer-of-speech-recognition-technology-for-kids-301383497.html"
+originalUrl: "https://www.prnewswire.com/in/news-releases/former-head-of-lego-ventures-joins-fast-growing-developer-of-speech-recognition-technology-for-kids-897514766.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/former-head-of-lego-ventures-joins-fast-growing-developer-of-speech-recognition-technology-for-kids-897514766.html"
 type: article
 quality: 25
 heat: 25
@@ -24,6 +24,6 @@ images:
     height: 1047
     isCached: true
 
-secured: "KPo0eKKsKwr36HEsanFwqSpkKQJ8kB59c09N0xe6WcCjrz/1yl5dMs7++qN6uwUfJNlsm/IH3ppMS7RZ7jfKkd0I64qy8DNORyKMqNDQRhcMkPzGMOxk4XwBVDRsuIYA+tyCs0CyLL5SDPrYqO4Yx3fdkRVTKkfXcFie2l5CSyfNe6ZIk0n1ANZ8aHhBFy1mWXAcsfGp1Lm33+eqhrQIiPJ6B2ZCZ5P3UogpAnM+l8DHehb2QFmCzELROJL5d99n7XCNPB8Qlq4oBuXK6cAyhpaWTlBx/2wnxqQ8NUbg8D4x+EU9rwtHtvU3B4/uGCGWr74F3NFPjjNIJ8edCbeHUv+XaQ/gyfjP9UaAXaIxg97RhhuJGT1J5aDC1sg1AVaZc9WiLeMqi5+Gx8M+uP/xLxAIvt/wg98PJxLVSQ+fLYdCA7RVyrNecxcO3gz8XgzreyK7jnbsoW+8NQYDq2DlyiUV2AaSns5pmj8yO4KZOm6BF/FYE06RsxrMsxocLvenX+BVYVaj1BMg9fzOpiOIMw==;fuMF1GMBEitgJmxr6ky4aQ=="
+secured: "l8uieC909BkmdHqVX41o2Jp2SiQEGdF/n1E4mjrGsTCUUCc6x6pMPEdy+RO3izBtjr0g3bUGefiNtxyiBLWeO6Is9ZqGXGppySxNM3cDR7s9zDvJZHmpkMgHJoLTGyj37P4wvLBk0Vwjh1nsItcaQCg8s00Hqn3HU0nJ/ph+nPykK7yS5QubZW1upEgk0TWjLhIb+NRbVIHTgWB2ZXneZ+jVNYMqu3Jq315tD7vc1Z001Zpw4q2xb7kGqZ2uzaLZaYhqsHn5m1ERNfVHgtmkfa8H/VXHlnNQWHp6km/OPgHF0x4EGw+hoFrczjhCRCtcO5gHYkQwVAeKGP936QubAplWQu3HobimSN8hBfmgxM8=;LJY4zekK8ad927HlHpXHNw=="
 ---
 

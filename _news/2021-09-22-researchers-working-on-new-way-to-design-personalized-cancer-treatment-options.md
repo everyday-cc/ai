@@ -2,17 +2,17 @@
 category: news
 title: "Researchers working on new way to design personalized cancer treatment options"
 excerpt: "Researchers are using AI and data to create virtual replicas of cancer patients' DNA, RNA, protein and other information. These virtual replicas are known as \"molecular twins.\" They will be used to help identify the most effective approach to treating each individual's disease."
-publishedDateTime: 2021-09-21T17:38:00Z
-originalUrl: "https://www.wxyz.com/news/national/researchers-working-on-new-way-to-design-personalized-cancer-treatment-options"
-webUrl: "https://www.wxyz.com/news/national/researchers-working-on-new-way-to-design-personalized-cancer-treatment-options"
+publishedDateTime: 2021-09-21T18:21:00Z
+originalUrl: "https://www.turnto23.com/news/national/researchers-working-on-new-way-to-design-personalized-cancer-treatment-options"
+webUrl: "https://www.turnto23.com/news/national/researchers-working-on-new-way-to-design-personalized-cancer-treatment-options"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
-  name: WXYZ Detroit
-  domain: wxyz.com
+  name: KERO-TV
+  domain: turnto23.com
 
 topics:
   - AI in Healthcare
@@ -24,6 +24,24 @@ images:
     height: 630
     isCached: true
 
-secured: "I+mWfm8cUL6q/AerYBrp/B2aC+AjymkApNmZnZvQTYT9GhhMUh80lAQ1Z/L/TUVzrp8lNDug1Pi+iqCsQjNk68oy4C+RUO6eiiZkFbU3RNDy1L2ZIbrugm3+LP30pXGOQiRk0Q0PZK4Wn0yVUokn6cgafTWMMfQVccSjiTaTKsWKin5CxLERNKltmyNaQCXJ09Uy3ZVSz+KZ8kcViC9bM+kY8UWCsgt9hhwMTRvFftdcLMJrUpt7CRvCfAA8VbgVGmoirQdDIl9fxOlsvGOtzEHbVHi6SUYSpkExmgI/1CmN4FkeZBP0ikA00VJ1phFsqxexG0HqcIxxZzUWfGL8ga8XRAMJ3QRTnfp4/M8fzts=;UXVvtOMOimnc8Pwjg/7/JQ=="
+related:
+  - title: "Machine learning tool could help oncologists make better treatment decisions"
+    excerpt: "When treating a cancer patient, oncologists aim to predict the course of the patient's disease to make critical treatment decisions. Knowing a tumor's unique molecular signature can help guide these decisions by providing clues on whether a cancer is slow-growing or aggressive and deadly,"
+    publishedDateTime: 2021-09-23T12:42:00Z
+    webUrl: "https://medicalxpress.com/news/2021-09-machine-tool-oncologists-treatment-decisions.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-09-machine-tool-oncologists-treatment-decisions.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-machine-tool-oncologists-treatment-decisions.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 56
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/machine-learning-tool.jpg"
+        width: 557
+        height: 415
+        isCached: true
+
+secured: "WoBqLQK7g9amTmIY9wtrJJVmWx6T02KsUjn233MbqoRt9SdaAgtU3k6kcHE4pLVhcIfReVac6rlK/2CKOpG+RnaXYx46arU64kJBFs+vE+539YtX+dv+fhEiGYOI8qnHb8woSPGpw7Te0S++8aTGZHuwjRIr+xBKBZebHsqK0O5Hu7Tgf7LG7SEALIpQ/6XvmRMXcrEGLO+xe0gtJOmTtnTG1XFh/mK8X5GleWrYgoLQEtgUPQrHLd+Z2tbJg2u1KQeYa3qpJU/3NZV/7c2ApBPo+z2xoWoxJgaIH3jMsKp3hjyC6yPa03vTL5cCXz7TU3+rdhqnRtGphvTj3d5Y/ZMkcwP31gaJ0lh2/MYeb1o=;JU00zBZ/R603KLAWDiEdFg=="
 ---
 

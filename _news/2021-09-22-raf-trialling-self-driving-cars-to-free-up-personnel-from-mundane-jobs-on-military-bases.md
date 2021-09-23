@@ -89,6 +89,20 @@ related:
         width: 615
         height: 409
         isCached: true
+  - title: "Artificial intelligence is changing hiring and firing"
+    excerpt: "\"While AI is becoming mainstream technology in the workplace, discrimination-by-algorithm must not,\" Keith A. Sonderling writes."
+    publishedDateTime: 2021-09-23T13:42:00Z
+    webUrl: "https://bangordailynews.com/2021/09/23/opinion/contributors/artificial-intelligence-is-changing-hiring-and-firing/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 37
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/09/OPART23.jpeg"
+        width: 1024
+        height: 696
+        isCached: true
   - title: "Nuro is an Artificial Intelligence-based startup that creates self-driving cars, named R2."
     excerpt: "Nuro is an Artificial Intelligence (AI)-based startup that develops self-driving cars called R2 that are based on robotics and AI. It's energy-efficient, battery-powered, and self-contained. Nuro's vehicle is an on-road vehicle that carries goods quickly,"
     publishedDateTime: 2021-09-23T10:00:00Z

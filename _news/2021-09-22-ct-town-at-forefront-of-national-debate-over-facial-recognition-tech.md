@@ -1,10 +1,10 @@
 ---
 category: news
 title: "CT town at forefront of national debate over facial recognition tech"
-excerpt: "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning governmental use of facial recognition technology."
-publishedDateTime: 2021-09-21T18:13:00Z
-originalUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b"
-webUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b"
+excerpt: "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning the use of facial recognition technology."
+publishedDateTime: 2021-09-21T20:42:00Z
+originalUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php"
+webUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php"
 type: article
 quality: 41
 heat: -1
@@ -83,6 +83,6 @@ related:
         height: 666
         isCached: true
 
-secured: "E1QEWf1NIeqJx98YK+lWdXKYOn/Tsfur4iC+Uy7u+5Wn5ns9foV/Vqp09J0+UKnf5Ditchn9h64pkdFbr0BcE6Nh0GL0XSpaY5nDb+I9AK7L/kvVwVxzTrywu1nbhMp9g+aT/7quS2B9Q2k0voa+cIBbWgLIiOlhUZeBMap/lvYdNnY42D141vCpcKcylbfX2I14jccUcdudr6aOOTgQzo6x9UMcKv1+j0vkEXvCl4JHvwrJJu2Ghpbo/VSSzTvS6Pzcy0yDnqeedt3yvHChqjQ+UStVSt5r2O71jBLdLfnH7YN8XfKURHXYNyiRNEf58TfizJSNDWPDqTI66Zh4VXEmVTTFCEvlhPurm7QN3wQ=;5n0c+9UnFOfncMlBx2aQmg=="
+secured: "RibW6TgipJdeMDZ2WIUM+ddRuoqogAE6Gzc5GOeudI01/kpILuexrtHY0bIZFasn6NiZSUNK70iVBVLUCWqhvKASteufxAJZdFe/iMUG3BpNzxZZTZ7wDfYI1ob28f0sGq21QlCT2swx0MYYy7wOLYz44s6SEBXW3jB9JflvPlJyJIbF3jOIN/nMujdOsOWilK+C8nH9jZHgChuut9/43iyZiT3P0ubCCInbSwktafSbPfaKrnkPIMjid8BMzwe2Mq/uXoZQP7qAO5EyOHrXaL+dj4KVFF9Ud2p9BTVWFd1+60voC/AuLwpHbfI60fM7ZTfg4Ivg7l0qujUo4seNwRWzxgyL1JnSoEP5l5hhwlQ=;MEv6uNS0D63Pdl21n6gMLQ=="
 ---
 

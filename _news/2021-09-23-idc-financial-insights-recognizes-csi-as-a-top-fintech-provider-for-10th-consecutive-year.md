@@ -36,6 +36,20 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 24
+  - title: "Guidewire Named to 2021 IDC FinTech Rankings"
+    excerpt: "Guidewire Software, Inc. (NYSE: GWRE) announced it has ranked number 30 out of 100 on the 2021 IDC FinTech Rankings. This is the first year Guidewire has appeared on the prestigious list and the company is the sole P&C insurance industry core systems provider included in the rankings."
+    publishedDateTime: 2021-09-23T12:56:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-software-insurance-industry-san-mateo-2f4ae05bce59474f8b091264c6d7469c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Hexaware Technologies Named in the Prestigious IDC FinTech Rankings' Top 100 by IDC Financial Insights"
     excerpt: "IDC FinTech Rankings represents the leading hardware, software and service providers of the financial services industry from around the world. Vendors are ranked based on the 2020 calendar year revenues attributed to"
     publishedDateTime: 2021-09-23T11:36:00Z

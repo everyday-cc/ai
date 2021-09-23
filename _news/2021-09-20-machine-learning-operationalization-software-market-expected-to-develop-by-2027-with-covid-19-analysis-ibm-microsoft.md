@@ -59,6 +59,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Microsoft and Honor sign partnership to develop new AI, devices"
+    excerpt: "Honor and Microsoft have announced an expansion of an ongoing partnership between the two companies, under which they wil"
+    publishedDateTime: 2021-09-19T07:28:00Z
+    webUrl: "https://menafn.com/1102817654/Microsoft-and-Honor-sign-partnership-to-develop-new-AI-devices"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2021-09/18/I_273e9image_story.jpg"
+        width: 400
+        height: 203
+        isCached: true
   - title: "Datawiza Adds Support for Microsoft Azure Active Directory Conditional Access to Deliver Zero Trust Security"
     excerpt: "Datawiza, a pioneer in cloud-delivered Access Management as a Service (AMaaS), today announced support for Azure Active Directory (Azure AD) Conditional Access in its Access Management platform, making it easier and faster for joint customers"
     publishedDateTime: 2021-09-21T13:05:00Z

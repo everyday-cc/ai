@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2021/09/22/robotics-gets
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2021/09/22/robotics-gets-a-jolt-from-an-open-robotics-nvidia-partnership/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2021/09/nvidia-ros-2.jpg"
         width: 1000
         height: 539
+        isCached: true
+  - title: "NVIDIA and Open Robotics accelerate ROS 2 performance"
+    excerpt: "NVIDIA and Open Robotics have entered into an agreement to accelerate ROS 2 performance on NVIDIA’s Jetson edge AI platform and GPU-based systems. These in"
+    publishedDateTime: 2021-09-23T12:44:00Z
+    webUrl: "https://www.electronicsweekly.com/news/business/nvidia-open-robotics-accelerate-ros-2-performance-2021-09/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 56
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2021/09/23134602/2ED81732-16CA-40BF-8662-7758178B331D.jpeg"
+        width: 960
+        height: 630
         isCached: true
 
 secured: "uZ7qvtUtl7czw6nDfubEB3vmAYErpqKxbLNFQ28jTvzRyHjZkiYHaxKLOPIK6UP/2Xxos781W66u6dkn+99MFhihVWiGxpRPYS31RePCImpNcqXHJWcOhcN+7viAPJfAw2aRNK4mLyzFwKnxFN4mF65f0n9I/7FkzeaWSYNj8y4OQE+fc9/F2eSKXgLvX8uLodWF9ZYvpPcsPMzZmsLkbGVzJ2VtQ5dOFiTLm9Ed6M8S6ANw7UwPBGijgP7btSL731VcGiAp8VN6faBJQU7dWU4RskIUTIzC5JIGpL5BsJOAciNaPXoz6nmjLDLPMzsrxyI8kYTRKpC06wTy25lAnH049MOkNiB4Hy/XFvWxwdFLRhAcMTh6UW/vx5x4F2+eAz0O6nRKA1DJIpK+gbv8+DKiTv2erwHj7qK27TS1+ZLT/Sx1+hiU7FwjzBlulIrzA04P6/VZcDH/T8kAGWmxqed+TlUGmdkDJa5RwJlqOEp3K89WMtjC10Mnd9UMpiFjjZIbO/dls5sDCtlu3nFHkg==;sU/87xse7hpNZZ3jx/Nivw=="

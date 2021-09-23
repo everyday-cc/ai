@@ -1,0 +1,70 @@
+---
+category: news
+title: "Guidewire Named to 2021 IDC FinTech Rankings"
+excerpt: "Guidewire Software, Inc. (NYSE: GWRE) announced it has ranked number 30 out of 100 on the 2021 IDC FinTech Rankings. This is the first year Guidewire has appeared on the prestigious list and the company is the sole P&C insurance industry core systems provider included in the rankings."
+publishedDateTime: 2021-09-23T12:56:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-software-insurance-industry-san-mateo-2f4ae05bce59474f8b091264c6d7469c"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-software-insurance-industry-san-mateo-2f4ae05bce59474f8b091264c6d7469c"
+type: article
+quality: 24
+heat: -1
+published: false
+
+provider:
+  name: Associated Press
+  domain: apnews.com
+
+topics:
+  - AI in Finance
+  - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+related:
+  - title: "GBG Named to Prestigious IDC FinTech Top 100 Rankings List"
+    excerpt: "Ranking marks GBG’s inaugural participation in the distinguished list SINGAPORE – Media OutReach – 16 September 2021 – GBG (AIM:GBG), the global expert in digital identity, helping businesses prevent fraud and meet complex compliance requirements,"
+    publishedDateTime: 2021-09-23T05:08:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/gbg-named-to-prestigious-idc-fintech-top-100-rankings-list/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/category/news/gbg-named-to-prestigious-idc-fintech-top-100-rankings-list/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/gbg-named-to-prestigious-idc-fintech-top-100-rankings-list/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 24
+  - title: "IDC Financial Insights Recognizes CSI as a Top Fintech Provider for 10th Consecutive Year"
+    excerpt: "Computer Services, Inc. (CSI) , a provider of end-to-end fintech and regtech solutions, has been named by IDC Financial Insights to its 2021 IDC FinTech Rankings for the 10th consecutive year. The annual industry ranking,"
+    publishedDateTime: 2021-09-23T11:42:00Z
+    webUrl: "https://www.lelezard.com/en/news-20011802.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 15
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Hexaware Technologies Named in the Prestigious IDC FinTech Rankings' Top 100 by IDC Financial Insights"
+    excerpt: "IDC FinTech Rankings represents the leading hardware, software and service providers of the financial services industry from around the world. Vendors are ranked based on the 2020 calendar year revenues attributed to"
+    publishedDateTime: 2021-09-23T11:36:00Z
+    webUrl: "https://www.lelezard.com/en/news-20011771.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 8
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+
+secured: "kab/uOvaQz6Jmg4quUnO0wXzGj5IIfH+t6XfADerHGyt6y2a0KbosdktmzRpBKXAQNVHnKakHsvb3IBb6G4ykAGMB09YczZI4KkGZz7WLxMh22EVgbn1tWuKJfRN7FQ+pZyil4jARsJkgMg2ltD9sZdre/gZXD5N7RS7MFYvuNnCv5FqGG1HhLKMyxYn328Tu1cj6hJQNPT1x9vZ20Y4Ulg80fxQqrFCgVOMXzAV/3XbG2Ey3+GYIh8NNIcwgcfzxXNcutJrcUSiQf82AtyBkmLGDlnZ5vXxDuLo7cpTBhXKIoQwmegOquAhTKhYRwHBO12d4YAxSBnZ+ZiMgOjXpiGzpT55LW2HgtyAk0O8dvk=;Z4qngvsyjxXFNDOC8v/UPQ=="
+---
+

@@ -27,17 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Afghan Taliban’s new UN envoy urges quick recognition"
-    excerpt: "The Taliban’s newly appointed envoy to the United Nations is urging quick world recognition of the Taliban government and Afghanistan’s new rulers even as the World Health Organization raised the alarm warning of an impending humanitarian disaster in the war-wracked country."
-    publishedDateTime: 2021-09-23T07:31:00Z
-    webUrl: "https://www.sunherald.com/news/health/article254454783.html"
-    ampWebUrl: "https://amp.sunherald.com/news/health/article254454783.html"
-    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/health/article254454783.html"
+  - title: "Afghan Taliban's new UN envoy urges quick recognition"
+    excerpt: "The Taliban's newly appointed envoy to the United Nations on Wednesday urged quick world recognition of Afghanistan's new rulers even as the World Health Organization raised the alarm of an impending health care disaster in the war-wracked country."
+    publishedDateTime: 2021-09-23T13:22:00Z
+    webUrl: "https://www.newstribune.com/news/international/story/2021/sep/23/afghan-talibans-new-un-envoy-urges-quick-recognition/889663/"
     type: article
     provider:
-      name: Biloxi Sun Herald
-      domain: sunherald.com
+      name: News Tribune
+      domain: newstribune.com
     quality: 24
+    images:
+      - url: "https://media-cdn.wehco.com/img/photos/2021/09/23/199463347_199463347-489842bc32674b3fbf580b43602ab6a9693516160_t1070_h9710d7cc382edfbb93f8089026093b7a3c51a3f1.jpg"
+        width: 1070
+        height: 713
+        isCached: true
   - title: "Taliban's new UN envoy urges quick recognition"
     excerpt: "The Taliban's newly appointed envoy to the United Nations on Wednesday urged quick world recognition of Afghanistan's new rulers even as the World Health Organization raised the alarm of an impending health care disaster in the war-wracked country."
     publishedDateTime: 2021-09-23T09:00:00Z

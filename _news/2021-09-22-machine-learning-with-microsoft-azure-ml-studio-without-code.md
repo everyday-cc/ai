@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geeksforgeeks.org/machine-learning-with-microsoft-azure-
 cdnAmpWebUrl: "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/amp/"
 type: article
 quality: 106
-heat: 216
+heat: 226
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://i2.wp.com/gadget.co.za/wp-content/uploads/2021/09/maxresdefault-2.jpg?resize=1000%2C600&#038;ssl=1"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Microsoft and Honor sign partnership to develop new AI, devices"
+    excerpt: "Honor and Microsoft have announced an expansion of an ongoing partnership between the two companies, under which they wil"
+    publishedDateTime: 2021-09-19T07:28:00Z
+    webUrl: "https://menafn.com/1102817654/Microsoft-and-Honor-sign-partnership-to-develop-new-AI-devices"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2021-09/18/I_273e9image_story.jpg"
+        width: 400
+        height: 203
         isCached: true
   - title: "Machine Learning Operationalization Software Market Expected to Develop by 2027 with COVID-19 Analysis | IBM, Microsoft"
     excerpt: "This Machine Learning Operationalization Software market analysis flashes light on company profiles product specifications capacity and the most importantly market shares for each industry Three most prominent sectors discussed here are product type competition section and end use section It"

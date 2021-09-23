@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Intuit Ventures Launches to Accelerate Innovation for Early and Growth Stage Small Business and Consumer Fintech Companies"
-excerpt: "Intuit Ventures Launches to Accelerate Innovation for Early and Growth Stage Small Business and Consumer Fintech Companies"
-publishedDateTime: 2021-09-22T15:05:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210922005246/en/Intuit-Ventures-Launches-to-Accelerate-Innovation-for-Early-and-Growth-Stage-Small-Business-and-Consumer-Fintech-Companies"
-webUrl: "https://www.businesswire.com/news/home/20210922005246/en/Intuit-Ventures-Launches-to-Accelerate-Innovation-for-Early-and-Growth-Stage-Small-Business-and-Consumer-Fintech-Companies"
+excerpt: "Press release content from Business Wire. The AP news staff was not involved in its creation. PRESS RELEASE: Paid content from Business Wire Press release content from Business Wire. The AP news staff was not involved in its creation."
+publishedDateTime: 2021-09-22T15:06:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-intuit-inc-5cefc52eab564f099423aa5c05bdfb1a"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-intuit-inc-5cefc52eab564f099423aa5c05bdfb1a"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Logiq Joins Forces with Novaji Introserve to Offer Home Delivery and Mobile Fintech Services to ..."
@@ -48,6 +54,6 @@ related:
         height: 1050
         isCached: true
 
-secured: "tL5Xpv0+GNAVLc3pO6Hro4uFn9+VrIdxhNukrfpLzjQv7ern7OehPj4Pcu4pELxQ1cudlOZTlgl4PRyixclxlSlYjriH5nyT+1gs/L63zrH+hr+822VTcpmHgIXPgsegHMg1Wgxs3PRT0W4RdPlNxyWE6bn59nQSrACEzxgTXpPg7r8N6joEqK+uvpW1nqNR1+jpY93m/iMo8NvILAdexopcrAHKoy20NDGMUSD+hpesDVcZa+G8FqdzGDW35CKYWEmakU/dByMP2v+XzFBZ0BHWXqnmr8IUMWChNntzoHhJl1mL21ezsPbT3FPmDL3ZESpYva7sMkpPrz5v2FOG9EqN+C2FYsAaGfwh9C712bw=;Drlk2OCMGfmj2IPyUNhPrw=="
+secured: "8skaq51hqmZGWNU0A4W9D8YdS2/9ooeK+epoF4zQktgtu4V1USCf1MJ1qmmwQEFZ2CmIXNk7W1mfD5MSfF4s8nKu0hnbIbherJ8wVmWDaESz7D1YDs58+1yk2QJXpHYEWHR0BXeyA6iWH180pa/qvWF6hWpBoGm/gBqv8Hnp3/sXaFHVkZ2tWbSymAlQH98KzRFZDNr6KgnR4CvcDgwGGwdI4G8KbE6n/TPgnOwFC8pHWy8tSKzy9WInZxWAXyBcbWvfoWkv72v0b6SPfSF53jVCd57cZdL2/jG66kQTewEMQyMsizcNj3cfoWWZToE8vCTqVo02R+RI8CmXP/mjRdBZB/OLeEpcUUz6I3cNRug=;21lcgUW2YKAUtyA3J6AmYg=="
 ---
 

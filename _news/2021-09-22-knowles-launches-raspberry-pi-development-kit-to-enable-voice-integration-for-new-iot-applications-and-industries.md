@@ -21,15 +21,20 @@ topics:
   - AI
 
 related:
-  - title: "NVIDIA announces new AI perception for ROS developers"
-    excerpt: "NVIDIA and Open Robotics have entered into an agreement to accelerate ROS 2 performance on NVIDIA’s Jetson edge AI platform and GPU-based systems. A number of initiatives will look to reduce development time and improve performance for developers seeking to incorporate computer vision and AI/machine learning functionality into their ROS-based applications."
-    publishedDateTime: 2021-09-23T00:05:00Z
-    webUrl: "https://www.newelectronics.co.uk/electronics-news/nvidia-announces-new-ai-perception-for-ros-developers/240638/"
+  - title: "Raspberry Pi kit enables voice in IoT applications"
+    excerpt: "Raspberry Pi development kit that will allow engineers to bring voice, audio edge processing and machine learning capabilities to internet of things (IoT) applications. The Knowles AISonic IA8201 kit allows designers,"
+    publishedDateTime: 2021-09-23T12:16:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17229/raspberry-pi-kit-enables-voice-in-iot-applications"
     type: article
     provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 19
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 24
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/229/17229/Knowles_IA8201.jpg"
+        width: 752
+        height: 316
+        isCached: true
 
 secured: "jnDKjhxD939v1ntBu+zp7L0gvFVPF7munDu4UHe6oxhIOidwbIiQT0h6u2hglNVRpsn50rd7tt0dUjIgn3byrAfpJaiVyOidm2bBLOY+5jyjd0hiW1Hufa+85IFsGY3VlEb9/owbB+HLtXn0S11S0Z6FeTxnJ775e7ygcu20PBH6uAB1mbl/vG4iyPwpMm3PDFlMV3mOERNBkyQCNBn5W3GANVN4wl+iu3J4OvDnxDPnDYps7P+4u+m1gcSGcmTyevEVlk3g19s0PfU0nIt3dFjNZKi3omPTOTKpLrLTe4G2Tr/eQagor4rQYW+9fXVwqhK60Y+YblY0KKEtOpnb9ZWLQsMcgAZUh0aIR2vmT8g=;vnBx+cuGRlohgcRRTvmhOQ=="
 ---

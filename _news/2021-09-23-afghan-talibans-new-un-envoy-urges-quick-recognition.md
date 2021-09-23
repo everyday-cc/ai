@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Afghan Taliban’s new UN envoy urges quick recognition"
-excerpt: "The Taliban’s newly appointed envoy to the United Nations is urging quick world recognition of the Taliban government and Afghanistan’s new rulers even as the World Health Organization raised the alarm warning of an impending humanitarian disaster in the war-wracked country."
-publishedDateTime: 2021-09-23T07:31:00Z
-originalUrl: "https://www.sunherald.com/news/health/article254454783.html"
-webUrl: "https://www.sunherald.com/news/health/article254454783.html"
-ampWebUrl: "https://amp.sunherald.com/news/health/article254454783.html"
-cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/health/article254454783.html"
+title: "Afghan Taliban's new UN envoy urges quick recognition"
+excerpt: "The Taliban's newly appointed envoy to the United Nations on Wednesday urged quick world recognition of Afghanistan's new rulers even as the World Health Organization raised the alarm of an impending health care disaster in the war-wracked country."
+publishedDateTime: 2021-09-23T13:22:00Z
+originalUrl: "https://www.newstribune.com/news/international/story/2021/sep/23/afghan-talibans-new-un-envoy-urges-quick-recognition/889663/"
+webUrl: "https://www.newstribune.com/news/international/story/2021/sep/23/afghan-talibans-new-un-envoy-urges-quick-recognition/889663/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Biloxi Sun Herald
-  domain: sunherald.com
+  name: News Tribune
+  domain: newstribune.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://media-cdn.wehco.com/img/photos/2021/09/23/199463347_199463347-489842bc32674b3fbf580b43602ab6a9693516160_t1070_h9710d7cc382edfbb93f8089026093b7a3c51a3f1.jpg"
+    width: 1070
+    height: 713
+    isCached: true
 
 related:
   - title: "Taliban name deputy ministers, double down on all-male team"
@@ -52,6 +56,6 @@ related:
         height: 399
         isCached: true
 
-secured: "aNJ32LcKRfKYqSMZ73hHpgVSzlFxlf6lGHGOQXmEVKZkUaBNaFx4YQVaGm0zcDYn2at2xxY8eSHLxiSn5FA2/kUwEGuO2p70Li+zRd8BLax/xJbB9QSOK5TyosnOxU0HtZKTln+ORsTyXwkW+mrNJ6prN9xJRmxPbjhHzJZtIRzJVuCk5COEOrh+zhvOVuHfbbG17oNKdPW5bajfy3i2SYsbVSD6q9JEe+BZw1wujnPpnFGw8ODc2Q2H1BSvB4fEjjizCslXORfOy55hE1+49RyeXVJYmNTyBXKxHUNWODLXz4WDBDi+8cho0eXG1JUvzm+vUwipewKEvr189znOZU8iUEIfUCeKnjHfeRr182h06Kt8mdYJi1R7Opw7d7z+tZpF2hdk/XDpg+19ZOCHCUQoxrnFoXiONoJv0L2RBRpccYZC6QZ8Io3nkO1rCeS8fW+raXy+A7KGukofqQxYU5tSYeBHxUwDw5atkyysksmSADc1skxa3dSacqAzZDquKSNzjSEBowH0M54fkrZLOQ==;k7qvGVvBEwEmIES+lIacrg=="
+secured: "FlZtQQiNBz98iQEACmE8RsrXU0rDXFi6z5CUV6HZgBDHrWdmBtgghScWTjyMt895+8i+xdD1ZTXj7lk+3FooGV1MCUApC4OD1fy7mTF26OBe2mVz6c7+sE7jvjjWGJPtmPsvzTx1FzLJMMJtLTMXbj/4Kxht+qVlV8qPp6K4BMk7MUSKecGL1HZyb0BmruL90+KRiOBz6UYUt/34BAcTPweZDIHnrQ/ABVwhGWYb02Ifw9UUgmI+PgsjlDPmXI1wAVZbGoni53EOD3kJGQWj7pLOAxZ1UewxZOE5iAh+2Q1JjQ6dweiIGUIRjwgZIWD2Gs6gJ/2KbBwAiRiz4ivb91VwCRyeCoeOtq+SQ0wsiRs=;GL8eL1J0FDjmlfZKG4sbDg=="
 ---
 

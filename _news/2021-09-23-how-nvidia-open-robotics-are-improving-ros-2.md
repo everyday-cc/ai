@@ -42,6 +42,20 @@ related:
         width: 586
         height: 385
         isCached: true
+  - title: "NVIDIA and Open Robotics accelerate ROS 2 performance"
+    excerpt: "NVIDIA and Open Robotics have entered into an agreement to accelerate ROS 2 performance on NVIDIA’s Jetson edge AI platform and GPU-based systems. These in"
+    publishedDateTime: 2021-09-23T12:44:00Z
+    webUrl: "https://www.electronicsweekly.com/news/business/nvidia-open-robotics-accelerate-ros-2-performance-2021-09/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 56
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2021/09/23134602/2ED81732-16CA-40BF-8662-7758178B331D.jpeg"
+        width: 960
+        height: 630
+        isCached: true
 
 secured: "ZLgTIf8Bq+AANSWGDSTuHHhH/yCteJ6vOqhAX7HFgotEDjpaRBzI6M8K91kfaKmhY9vkhbTLMF4jsZGsOItiAK5mi/XTZ6flcpA9SR/pUPDMkPj99FIrXxHbeyWWb2U4g7PdsWcDXGXMy2KFQeU+0lOCoBgHS/pBZJ1CXowWzNn0ZYcwzzoANK1x4q8J5BPGbCA2Oq/HcQCrncfz7Dlf4q07FVsvk74WBMBLPsAr0bcNbJpvprTA+14ZquYw0vNacoHrbcwgHQ0/Z7pCTi8W894WeulPDvj+sOddZMaZKHVj01t/qr1P/TwsO50pelebiiLQDr1t/CbAr1bzJocI5Dt/VpI2hZ+LDEEzYoLEA0g=;KiQ+jHIAtDUsIa/MicKWUw=="
 ---

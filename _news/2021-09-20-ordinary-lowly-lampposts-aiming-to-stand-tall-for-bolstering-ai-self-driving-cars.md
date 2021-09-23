@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-la
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/amp/"
 type: article
 quality: 84
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://i2-prod.mirror.co.uk/tech/article25044947.ece/ALTERNATES/s615/0_raf1.jpg"
         width: 615
         height: 409
+        isCached: true
+  - title: "Artificial intelligence is changing hiring and firing"
+    excerpt: "\"While AI is becoming mainstream technology in the workplace, discrimination-by-algorithm must not,\" Keith A. Sonderling writes."
+    publishedDateTime: 2021-09-23T13:42:00Z
+    webUrl: "https://bangordailynews.com/2021/09/23/opinion/contributors/artificial-intelligence-is-changing-hiring-and-firing/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 37
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/09/OPART23.jpeg"
+        width: 1024
+        height: 696
         isCached: true
   - title: "RAF trialling self-driving cars - to free up personnel from mundane jobs on military bases"
     excerpt: "The Royal Air Force has been trialling the use of self-driving cars as it explores ways to free up personnel from mundane tasks on military bases. Staff at RAF Brize Norton, Oxon., have been working with the Academy of Robotics on the trial,"

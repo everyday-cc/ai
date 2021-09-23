@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/09/22/building-more-equ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/22/building-more-equitable-education-systems-with-the-help-of-ai/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 747
     isCached: true
+
+related:
+  - title: "AI-enhanced system enables doctors to spend less time searching for clinical information and more time treating patients"
+    excerpt: "Electronic health records have been widely adopted with the hope they would save time and improve the quality of patient care. But due to fragmented interfaces and tedious data entry procedures, physicians often spend more time navigating these systems than they do interacting with patients."
+    publishedDateTime: 2021-09-23T12:44:00Z
+    webUrl: "https://medicalxpress.com/news/2021-09-ai-enhanced-enables-doctors-clinical-patients.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 14
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-doctorcomput.jpg"
+        width: 1920
+        height: 1217
+        isCached: true
 
 secured: "/y062x/z+oFFXgcHGdrosR2RtRhRaZK0v8i41M9fye3M5RvbgNo5VJXtHTSLTYzxcRSJUedUYkoCI/92BPH4OTzY+Q7n0tV7nvtgiFipaxfsPDUc6lqCbZDd1x09sDMYS5M5P+lgUrSK28O1pZxa9ue7Zv2LoWfqqr3M95hCBfxu3fN6I4m35pia6oKocWh/O4QlJhlT9UVJO1dgQNsZuNLuE4NZu3L2SIhiK8yGmJapY1i1fgGCl9uTAXcmGpRwooqzEoY2ehnHvvdwrD46a6C1uHnuuFbmcYc5M4QMuibHSdbbSWrN2Vpw0qk+22mEtlUkQxKmBQcFxIuhlvOsiVqGInYZnanOy33GkCHq0m0=;LWBMYa7ju5uObBGXnumWeQ=="
 ---
