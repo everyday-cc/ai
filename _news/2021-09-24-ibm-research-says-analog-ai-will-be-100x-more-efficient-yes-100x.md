@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/karlfreund/2021/09/23/ibm-research-says-an
 ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/09/23/ibm-research-says-analog-ai-will-be-100x-more-efficient-yes-100x/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/09/23/ibm-research-says-analog-ai-will-be-100x-more-efficient-yes-100x/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 
 topics:
   - AI
+  - IBM AI
+  - AI Hardware
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6112e12d6ef9021481ae033c%2F0x0.jpg"
@@ -29,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "H5Ne1EOVItfxvoomjvrwmtO2b+xKphmwdm8vk4EcMhdkQZ6QNI8UWTWynKtmN2uFP1MxTu2PQYTpmAevHgY6PseTSCwR0vjbclrNwJD7siofnWO3oLRlg+JwR3rcH5pc5n1ETo9KX1DkQRgwI3SjyvYfeSdgyQdWOy6r97384iwlFN4aE3/ZPjBbOUPmBbl0asNymeNE21Uzg9+IeMbJfKmVuKGn7BNG4YZAh5SZ05k6Rb4/nWGXLgIkPf0vEpTorIzwo8Fmg1GKxjVNyi4mHKbTD7MObDFYmgZJiEq0LyF5CLnEEaO+AFg64mX6cEEPpYgdedThxEo4iV8WpCdf/88SQsTxeaYjRc0K0EpEwwc=;ju3mswmWEnuJMraxjaPYYA=="
+secured: "5+AzkiJXADLKFxAgW7OsXVkeVjq34U2FMKJWjH6a1lCDaz+5jCNiJF4IsMA7nnKvhaL+VYdtKDE7KBkTJP5qHfbkegxbjBT3wBfdYmeQ5Px1gyUFGDX1Px+++4MTgA2azy+f1ORkdH1PNgw0wKkl8NVFyrKs31553oW2g5ss1M2C4zuLMAOat0dKQio/PFGYlV6a1A49Uld6GEM3xnHiRiVbzkNgFH+/sRrGhFjTPLm/z0UqIH0jBqHvzJmirmDbhwvgGUGbl5TtnZFyzrqAe2VPBgBAcy5jzEJxUuAJJkEjGEleStspe/DXAE9av38Vsa8yFHIv4Bw+XCimlFeiwM+S4o/QdlPk3roYNN63UPW6UCprCDZrn0uF00bF2+xREhqnjNTI0VcZ9P8hX/rnuOl8qLDsnoXv04MDfWwWyJWA1TMzWTSgN/5X/edx/Po3FDlpN/QQtiZwljcvztqcpMA8EqxVaTHmgUSyfc4mDo/Qtgy0Y0/Y+qukV2Qox+EAnxoLiVk5DlZvjzVhWI4GHg==;4qpd1FAOqIcoKsqSqOYASg=="
 ---
 

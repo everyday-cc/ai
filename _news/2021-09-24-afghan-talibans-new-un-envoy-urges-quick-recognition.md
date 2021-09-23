@@ -2,19 +2,19 @@
 category: news
 title: "Afghan Taliban’s new UN envoy urges quick recognition"
 excerpt: "The Taliban’s newly appointed envoy to the United Nations is urging quick world recognition of the Taliban government and Afghanistan’s new rulers even as the World Health Organization raised the alarm warning of an impending humanitarian disaster in the war-wracked country."
-publishedDateTime: 2021-09-23T17:12:00Z
-originalUrl: "https://www.sacbee.com/news/article254454783.html"
-webUrl: "https://www.sacbee.com/news/article254454783.html"
-ampWebUrl: "https://amp.sacbee.com/news/article254454783.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/article254454783.html"
+publishedDateTime: 2021-09-23T19:21:00Z
+originalUrl: "https://www.sunherald.com/news/health/article254454783.html"
+webUrl: "https://www.sunherald.com/news/health/article254454783.html"
+ampWebUrl: "https://amp.sunherald.com/news/health/article254454783.html"
+cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/health/article254454783.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Biloxi Sun Herald
+  domain: sunherald.com
 
 topics:
   - Computer Vision
@@ -61,6 +61,6 @@ related:
       domain: newsobserver.com
     quality: 4
 
-secured: "kRL+/IILQFjt2UQpfFNxRPPcD1W81hNUA+Lbxv6HARyE2w6iEtnRhuCzfrnhHOuSY6lsCMT4YpBKBIPZ5pX6g5bniisaybDgpz058MzSQ0TD0i5FPQKnOwlFUeZeZQ16169DvzKA4kS7pfqUyPrwv0vdvapyAJjVJUEX81c0atrbdM8i3JsZGAMgNQfayLPzfvyIORwxhFgNtyf+3eQAlKmpsHpNFpCjDJblnki67ftsupE4ufrPFnyRY4ckb5UXQNZG1X2EKl2CswHo3GNocloNv2EuwMo4iYAl9qNl3Ldk68zEJT093NgQFA6Ih2sygTxMt22d99QM5txv32DHWY1A9QKC4VLTJFQW36eH6vI/dhFjMRLQdOu8yQNoYocqUAPEctBurxn91l3tBPeh0ymf3zb3p6vBsq1VeKVcsCQNRfxyBjmwTUNUX7NHeLVNFWVL0D/vt/rr+jHzH+2s4Anr1mmPLSlMnqf+FSRjlo/t4q5QIBefAqVjpUY1qZcbZJUaApHgFhjiqAT86qTJ/w==;9KzqmSMQAYUdz5HHn/BeFQ=="
+secured: "sZpUexJX+bo7sbPk/KtoHd85KZSDwBJ29MrGCi+gSWARS9Yxb0FkU5v47iv63QDH7Qy36UX4NaFEyt/NUBsiZQq47/Xdc073R6v1tl50Wjn8y6s1BN3bpsImxHCdESMHvUtGCNiGq/GHHoM1HzRTgszMocBeFfYa8/nH9F7ax2ZBO9dJN4dkDHSweC2dkvoYX0xH2zPUhTDD4B7/P4I6Fq55elghjLslr7NbiVudOV6GIsjL9+ZZwtmpyhWycgLTpzdE+/FRKd+YVKM8bYPT0HE1fSRNFe4rs3oZ2Tkbn2WRrRzaYUcJ8rCKQuW3QBfKPmQUKR8DWh1110J2ycZcv/EdzJaISt4475kG/XpK0qAo6KaEF+YfLQIT/3awpHerW9gn3RY35spltTzWGWPmoV5yigHlYYzzbkbVKJZkwbgnr6QflYVIm+0TCj3QiONh/ouYIaqF4syC4I5Q3+/0zarxj6XpmTdkXQ+IhLWoz9qZhQ4hPhdT7KKClAvL5pT/yHgyKd3t3euR3SM8LKpuGA==;lOdV52oueOK38hKcNwGPfQ=="
 ---
 

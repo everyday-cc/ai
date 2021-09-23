@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Spotting and rooting out bias in AI algorithms for healthcare"
-    excerpt: "Algorithms are everywhere and so are the biases behind them. As algorithms find greater use in healthcare, a panel at MedCity News’ INVEST Digital Health virtual conference addressed how and why algorithms are biased,"
-    publishedDateTime: 2021-09-22T23:04:00Z
-    webUrl: "https://medcitynews.com/2021/09/spotting-and-rooting-out-bias-in-ai-algorithms-for-healthcare/"
+  - title: "Axle.ai, the Search Engine for Internal Media Files, is Equity Crowdfunding to Make Video Editing Simpler"
+    excerpt: "BOSTON, MA / ACCESSWIRE / September 23, 2021 / How do you raise funds for a cutting-edge innovative tool that saves 30% of video editing time?"
+    publishedDateTime: 2021-09-23T08:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/axle-ai-the-search-engine-for-internal-media-files-is-equity-crowdfunding-to-make-video-editing-simpler-1030818742"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
     images:
-      - url: "https://medcitynews.com/uploads/2017/02/GettyImages-172595086.jpg"
-        width: 683
-        height: 512
+      - url: "https://www.accesswire.com/users/newswire/images/665173/ITKVTOdB4nZn5HpNJNoJKlHDkSvYGQ0Zfy9kZueSb3XriFLG5M8zTvMJExxwIePyEPMmluHJNwB2JgkDRYRLA2uCQHnzMy_fGuegPD1tjkXjj6KFsPBLSizUA9_Q3lzhL8ll23wU=s0.jpg"
+        width: 2048
+        height: 1355
+        isCached: true
+  - title: "Axle.ai, the Search Engine for Internal Media Files, is Equity Crowdfunding ..."
+    excerpt: "Thanks to the Regulation Crowdfunding Act (aka Reg.CF), startup founders can now raise funds from family, friends, acquaintances, social media followers, and even internet stalkers. The Reg.CF act, passed in 2016 and amended earlier this year,"
+    publishedDateTime: 2021-09-23T12:11:00Z
+    webUrl: "https://www.pr-inside.com/axle-ai-the-search-engine-for-internal-media-files-is-equity-crowdfunding-r4848084.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 33
+    images:
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "Mv/pNIOot7N28UzuL04/kLseaAcAop/FjknVp7gY0Iyfq6wnYAaq3HWGMAiTsI0qkn7GIfcK/62Lds4HJ8P3djrpZosnU5zEMYVQZKl6hac4zv+oKBQcvM9uSZFUwQ7huRgQIXd9QW+8485hhlkRa8VXoDxApoT1jCmKOOfD6dq9Ts5Bp4C4c1Bek1RGqAi4H1ZR0edGuNK2QkFjQqSAWoliJjAIm8aLq/hVEpft4jZQfn4JAA/JB/Oexuw7pkBS+hKB9CGtYVeWO8OOFY/uQzZbWEDHUH4gJyhSaDT3gDEmcnQ7I8BZH0yaU1yFHmT1MGo3BogSex87LLGST9mDvIi+Xrv28lIWTXlECYv9Gmk=;1oBHnY6CtTFSH6SzPxt6kQ=="

@@ -98,6 +98,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Self-Driving FedEx Truck Testing + HVAC Trade School Fraud"
+    excerpt: "As part of a new pilot program, FedEx has started using a small number of self-driving trucks to haul goods between Dallas and Houston. The program is a partnership between FedEx, autonomous vehicle startup Aurora,"
+    publishedDateTime: 2021-09-23T21:35:00Z
+    webUrl: "https://patch.com/texas/dallas-ftworth/self-driving-fedex-truck-testing-hvac-trade-school-fraud"
+    ampWebUrl: "https://patch.com/texas/dallas-ftworth/amp/29923567/self-driving-fedex-truck-testing-hvac-trade-school-fraud"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/texas/dallas-ftworth/amp/29923567/self-driving-fedex-truck-testing-hvac-trade-school-fraud"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 44
+    images:
+      - url: "https://patch.com/img/cdn20/article-assets/daily-digest/Dallas+Daily+Graphic+Template+-+Green.png?width=984"
+        width: 960
+        height: 720
+        isCached: true
   - title: "Trucks Want Self-Driving Tech, Too. Paccar and FedEx’s New Partnership Shows Why."
     excerpt: "Self-driving trucks are hitting U.S. roads as Paccar and FedEx launch a pilot program with autonomous driving technology company Aurora."
     publishedDateTime: 2021-09-22T16:53:00Z
@@ -127,6 +143,22 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Aurora%20truck-MAIN_i.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Aurora wants to power self-driving rideshare vehicles and it’s testing them in Dallas"
+    excerpt: "Self-driving vehicle startup Aurora will soon begin testing its modified Toyota Sienna’s on Dallas roadways – but don’t expect to see driverless Uber"
+    publishedDateTime: 2021-09-23T19:50:00Z
+    webUrl: "https://www.dallasnews.com/business/technology/2021/09/23/aurora-wants-to-power-self-driving-rideshare-vehicles-and-its-testing-them-in-dallas/"
+    ampWebUrl: "https://www.dallasnews.com/business/technology/2021/09/23/aurora-wants-to-power-self-driving-rideshare-vehicles-and-its-testing-them-in-dallas/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2021/09/23/aurora-wants-to-power-self-driving-rideshare-vehicles-and-its-testing-them-in-dallas/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 37
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Ou_fV0ng3gp2i5r8-1OZ38oH0FA=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/3X3OVJQTKBFTLK4AQZ6YT3NHL4.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "FedEx Partners With Self-Driving Car Startup Aurora in Texas"
     excerpt: "Aurora Innovation Inc. will help move cargo for FedEx Corp. in a pilot project in Texas that uses the startup’s technology in a self-driving Paccar Inc. truck. The arrangement marks FedEx’s first trial of autonomous driving."
@@ -179,6 +211,15 @@ related:
       name: dallasinnovates.com
       domain: dallasinnovates.com
     quality: 14
+  - title: "Aurora launches self-driving truck pilot program with FedEx in Texas"
+    excerpt: "The pilot begins this week, in which they will regularly haul FedEx loads autonomously with a safety driver between the Dallas and Houston areas on a 500-mile round trip. The announcement comes two days after Aurora gave a glimpse of the modified Toyota Sienna vans with which it plans to test its self-driving taxi service in the Bay Area,"
+    publishedDateTime: 2021-09-23T21:47:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/09/23/aurora-launches-self-driving-truck-pilot-program.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "/JkkkrNSNPgiRYFzm5ix2igmFZQVXp84MYPaS/FiRFjcXsFRBzrE1Np26mNDC4KDZcOmTEiJ0igVOcP0KYeF5ESvq2zKUvkimeeZY/A1gUB64ZWjldVwOnPbLavftuJRkFkJKWI4XHsKWviHvuwDGpN77+3Pkj9MxwWf19VwAsomjG5cDLi8qCbIEC21FMBmkqv7CjkNIx7qkoYwitFXTXdvx1VygPbx7/onMADC7s2gCJ4mzUFkHJFcfb5P+hHpvPy/FGf2d4SLCcQdSkqvWPA1Xc9O/EEOqL/637kXJauy+owPTF0V5MJjyZhp+RHtqrztb54Z+pXBdsGjAH2CCmU2u0znvsyqaUvJMtsGMPesc24IehRqfL6IE2BO9s8Ctuvgp8iP4Dbv7x1S83VSEcIX5WHNqdcWZGGmiYKKsxLMnJaxw7tGbsgCG09L2bOv5CCNLo0Hu/TG0Rv8bR3xRPBzTdlS7XTIQ8MiGrKm4vUmmYbX2icOledAoe5Gil4lmqX13/OSYxl8ad4l+1FO4Q==;mCjtU8T/Oy4Q3qGzaxkajw=="
 ---

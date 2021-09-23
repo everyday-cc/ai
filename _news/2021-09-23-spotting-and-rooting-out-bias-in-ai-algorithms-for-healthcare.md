@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2021/09/spotting-and-rooting-out-bias-in-a
 webUrl: "https://medcitynews.com/2021/09/spotting-and-rooting-out-bias-in-ai-algorithms-for-healthcare/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,17 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "FDA faces research hurdles in regulating AI for imaging"
-    excerpt: "What's taking so long for artificial intelligence (AI) algorithms to move into routine clinical use in radiology? Several regulatory bottlenecks could be holding AI back, according to a September 19 talk at the Conference on Machine Intelligence in Medical Imaging (C-MIMI)."
-    publishedDateTime: 2021-09-20T07:40:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=133530"
+  - title: "A Veteran of Big Tech Talks About AI and Investing in China"
+    excerpt: "Kai-Fu Lee, a venture capitalist who worked at Apple, Google, and Microsoft, says artificial intelligence creates problems that should be addressed with regulation and new technologies."
+    publishedDateTime: 2021-09-23T20:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-09-23/sinovation-ventures-head-kai-fu-lee-on-ai-big-tech-and-china"
     type: article
     provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 39
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_03_09_01_43_6240_artificial_intelligence_AI_suit_social.jpg"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iR0aHNhk4W3c/v0/1200x630.jpg"
         width: 1200
         height: 630
         isCached: true

@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/axle-ai-the-search
 webUrl: "https://markets.businessinsider.com/news/stocks/axle-ai-the-search-engine-for-internal-media-files-is-equity-crowdfunding-to-make-video-editing-simpler-1030818742"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: Business Insider
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "FDA faces research hurdles in regulating AI for imaging"
+    excerpt: "What's taking so long for artificial intelligence (AI) algorithms to move into routine clinical use in radiology? Several regulatory bottlenecks could be holding AI back, according to a September 19 talk at the Conference on Machine Intelligence in Medical Imaging (C-MIMI)."
+    publishedDateTime: 2021-09-20T07:40:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=133530"
+    type: article
+    provider:
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 39
+    images:
+      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_03_09_01_43_6240_artificial_intelligence_AI_suit_social.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Axle.ai, the Search Engine for Internal Media Files, is Equity Crowdfunding ..."
     excerpt: "Thanks to the Regulation Crowdfunding Act (aka Reg.CF), startup founders can now raise funds from family, friends, acquaintances, social media followers, and even internet stalkers. The Reg.CF act, passed in 2016 and amended earlier this year,"
     publishedDateTime: 2021-09-23T12:11:00Z
@@ -43,6 +57,6 @@ related:
         height: 628
         isCached: true
 
-secured: "MnfljvttCct+/EuIizer+KxNuXnQYqK01PiOh6FbpD3rczvqy4qOoaY76Tkj3k2x48kBcbJDDJybVV335jvheAeO44fA5Nyb+kFpelDJR5BDz4XoswK63hZtqRA4Z4rRCpmcWv2bI8H/ooGOU/jbz/La6Xwrz7+gmnkUUJ1j3LGvlFy7CHo8la3vDdg3nxPmAn5SP2vhcTCzCa9Xe723PPlzU9u/HePxmMwbcuPNQP88Fm0+gaC10viHOxyzjGCpC2hkdEFc+MKD6JndJpIh27HCC1Yz093ce45hZ+cQcwfQa0QSCI+bgoA/x7e3CFLJtHhd6c8A4CxfL2bOyCJVSaQ1BQPC1Q5xomGWnzu8png=;jsbYpOKiDsUK5n9VIy32pQ=="
+secured: "1LjcjDu5W/JbZwiYxwe6dKiOyqgcwq06r4zu7AShZCCkhKe8fZbCE5XcoRmbX9SNB1HcFhzbJenO1A907Z3IqKwBJeHIx9bdAVXVddCsiKxE0Xf400S+7eKbkaFkNkcGDx03lSSX9KUTVA7JqGXwFvBUTjIFXrh/fEklBWbp8U+v1kf8qvjDNKwyE0R2gW6n01s6A1KqjmHyeTPQ25a1+BWsEvVviSp6d3zB30pmoTsMdBwFez8+0Is//HMb3KCJtsDCcyCNQTg7BSnrslMHQf2YajD5MOPrg6NoH7qYNgjw5AKKlH6WxtTu4ONkiPMtRWLSaRse4koNfgsxqABRmsiUrqeeCu3dwMApZHhojZYMC0Hr/tuUXtqL5N6c/BY+hYcVOgg+ezSBzwgR5wan2Uqqz2MzvllUEtPvVja/6K6OF0/JEpwq/81uGka4B1tJTWJRX581tjH2wvY6CHdxD29mb/oNVWMa2+Xv084g0idc5hiPbW5CJpknwtca4TSksWlfydNtoX4MM4TaqW3qgw==;S8rBv7X99h+ZTrHejt2FEw=="
 ---
 

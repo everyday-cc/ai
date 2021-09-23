@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 618
         isCached: true
+  - title: "Personalizing wellness recommendations at Calm with Amazon Personalize"
+    excerpt: "This is a guest post by Shae Selix (Staff Data Scientist at Calm) and Luis Lopez Soria (Sr. AI/ML Specialist SA at AWS). Today, content is proliferating. It’s being produced in many different forms by a host of content providers, both large and small. Whether it’s on-demand video, music, podcasts, or"
+    publishedDateTime: 2021-09-23T21:41:44Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/personalizing-wellness-recommendations-at-calm-with-amazon-personalize/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 69
   - title: "Machines on a Mission: 10 Fiction-Busting Facts About AI Implementation"
     excerpt: "Thanks to the evolution of data, cloud and compute power, AI can be implemented with greater ease, for less cost and with fewer resources than ever before. Still, myths and misconceptions about this emerging technology remain."
     publishedDateTime: 2021-09-20T21:00:00Z

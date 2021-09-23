@@ -2,25 +2,25 @@
 category: news
 title: "Simmons Cancer Center, MD Anderson scientists develop artificial intelligence method to predict anti-cancer immunity"
 excerpt: "Researchers and data scientists at UT Southwestern Medical Center and MD Anderson Cancer Center have developed an artificial intelligence technique that can identify which cell surface peptides produced by cancer cells called neoantigens are recognized by the immune system."
-publishedDateTime: 2021-09-23T18:43:00Z
-originalUrl: "https://www.utsouthwestern.edu/newsroom/articles/year-2021/artificial-intelligence-method-to-predict-anti-cancer-immunity.html"
-webUrl: "https://www.utsouthwestern.edu/newsroom/articles/year-2021/artificial-intelligence-method-to-predict-anti-cancer-immunity.html"
+publishedDateTime: 2021-09-23T20:49:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/929440"
+webUrl: "https://www.eurekalert.org/news-releases/929440"
 type: article
 quality: 14
 heat: -1
 published: false
 
 provider:
-  name: UT Southwestern Medical Center
-  domain: utsouthwestern.edu
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI
 
 images:
-  - url: "https://www.utsouthwestern.edu/asset/5a92e8f1-526c-4809-95b0-82053a031fcd/wang-neoantigen-thumb.jpg"
-    width: 1000
-    height: 1000
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/98bb95cd-2ec3-409d-9bfd-88f931040973/Rendition/thumbnail/Content/Public"
+    width: 300
+    height: 300
     isCached: true
 
 related:
@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "Scientists develop artificial intelligence method to predict anti-cancer immunity"
+    excerpt: "Researchers and data scientists at UT Southwestern Medical Center and MD Anderson Cancer Center have developed an artificial intelligence technique that can identify which cell surface peptides produced by cancer cells called neoantigens are recognized by the immune system."
+    publishedDateTime: 2021-09-23T21:37:00Z
+    webUrl: "https://medicalxpress.com/news/2021-09-scientists-artificial-intelligence-method-anti-cancer.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-09-scientists-artificial-intelligence-method-anti-cancer.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-scientists-artificial-intelligence-method-anti-cancer.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/simmons-cancer-center.jpg"
+        width: 1100
+        height: 1100
+        isCached: true
   - title: "Owkin and Cleveland Clinic develop artificial intelligence model that predicts liver cancer prognosis"
     excerpt: "Owkin, a startup that deploys artificial intelligence (AI) and Federated Learning technologies to augment medical research and enable scientific discoveries, presented findings in Hepatocellular Carcinoma (HCC) with Cleveland Clinic at the 2021 European Society of Medical Oncology (ESMO) conference."
     publishedDateTime: 2021-09-22T13:02:00Z
@@ -50,6 +66,6 @@ related:
       domain: eurekalert.org
     quality: 4
 
-secured: "05SEQXF6VC42/+OF/7rjK08FvofWBPTQFIHeNfD5ZEGqEWeahIhQ/490J8uI0EHisVYcwpYBtwYFaSOcZf6AgoTKvYg2z5OdIsBIuEg9XgrJXLdWFhpX/ZM3TBv3AZUz5sEiGzRcm9RIXd6LJEyY00BdryaZ3eTx09E84qXcQhvdegXmuGau7cgS9W1mpD0uGHOm+f7bw0Mjm1ea6jtKl5S4mNXwzpKHxgzAOG3WA//zaEu4xTBhvjFJyytzjVEV6e2ChuI0gi2w5gWycT1mWrpZQZBhISUrq+/7/8iChK4tQESOB8ZnY5pInh5Lw0fDZftyoCW49bqEocsRip51pM4H/Fc4tgLCgINfDBAEa8k=;YUl2UqpG1MZ2GdmzTVVeiQ=="
+secured: "vx6xm40wrNicpdtQOtrPvuMqkDWjHsFoyanr0ESHDztN2SM3RWUH0y9Mg6h4m+8sggNJ4g33ToizdBPrbE31UPIW45CDi3w9OBJXSs+GExQvcjZV9tandT3EDWOdHDr5jZHiQ13Y6j6rwd68P1ZAkCQ6xFEiPKslzXec/u9AbeYVs953HnKGdcmgPpsXDvoq7aU7klEpKD+hAMcz+EBDMQYdYbS3DM6xAI//+PcAmsD1lMN7DufvHkqU4UlORIOdQPe66WaU1AD0cXZwlaxxz2+FTvnBv6Hw7Xcc9aZ7690PTzSDYK0boyc1benHv4o9bjkT2no2nb2gL/HU4zdCkcrUyhdQHZIrPzhz3RZHbHw=;SelxaAE3GbW7cPMnKkqTrg=="
 ---
 

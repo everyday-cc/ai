@@ -38,6 +38,20 @@ related:
         width: 2048
         height: 1355
         isCached: true
+  - title: "FDA faces research hurdles in regulating AI for imaging"
+    excerpt: "What's taking so long for artificial intelligence (AI) algorithms to move into routine clinical use in radiology? Several regulatory bottlenecks could be holding AI back, according to a September 19 talk at the Conference on Machine Intelligence in Medical Imaging (C-MIMI)."
+    publishedDateTime: 2021-09-20T07:40:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=133530"
+    type: article
+    provider:
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 39
+    images:
+      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_03_09_01_43_6240_artificial_intelligence_AI_suit_social.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ZZIzlrbfJWrOEpX/4GS5Hf3qPeFSx3I5wWoPiqIkej/jTMSOt6A28NuwX6OqgAjS34h4d4iki+ghKLXZ6m9mmNc1dsVsfnJTY3rDvoI4XfgF9D6Dm0qq9y2OCx0cufRZcfDqsjVPT16KNVofvInqtojbEyIPrrgTD9m4CLsDlNgxD/q2S5wnhuxNPxa9ONq+WXo5gMI7jCEeohPP2Cv1brQWHxkXdzGGJs2agyqbxLNHcjDBqxhVykccdAGQks9hb9vtp2ilJKFZIGcxlSnxN42rkeHqMlrwFAO8FkNUng63MC8aP12U46vpofrPAnkaun7GXicHYgFtmX6o/olZl4hhHjcRYal05bifDrZGKIM=;9RMEhVJMRbGMssCaYbZI1Q=="
 ---

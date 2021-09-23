@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 618
         isCached: true
+  - title: "Personalizing wellness recommendations at Calm with Amazon Personalize"
+    excerpt: "This is a guest post by Shae Selix (Staff Data Scientist at Calm) and Luis Lopez Soria (Sr. AI/ML Specialist SA at AWS). Today, content is proliferating. It’s being produced in many different forms by a host of content providers, both large and small. Whether it’s on-demand video, music, podcasts, or"
+    publishedDateTime: 2021-09-23T21:41:44Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/personalizing-wellness-recommendations-at-calm-with-amazon-personalize/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 69
   - title: "Humanizing AI: How Brands Are Revolutionizing Customer Experience in an Increasingly Digital World"
     excerpt: "Empathy deficit is the largest imminent threat to a businesses’ growth, but there’s hope. Humanized AI is allowing brands to create empathetic customer experiences by offering uniquely personal interactions with digital people."
     publishedDateTime: 2021-09-21T23:00:00Z

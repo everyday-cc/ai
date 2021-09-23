@@ -44,6 +44,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "And the winner of Startup Battlefield at Disrupt 2021 is… Cellino"
+    excerpt: "We started this competition with 20 impressive startups. After three days of fierce pitching in the virtual yet incredibly competitive Startup Battlefield arena, we have a winner. The startups taking part in the Startup Battlefield have all been hand-picked to participate in our highly competitive"
+    publishedDateTime: 2021-09-23T21:47:00Z
+    webUrl: "https://techcrunch.com/2021/09/23/and-the-winner-of-startup-battlefield-at-disrupt-2021-is-cellino/"
+    ampWebUrl: "https://techcrunch.com/2021/09/23/and-the-winner-of-startup-battlefield-at-disrupt-2021-is-cellino/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/23/and-the-winner-of-startup-battlefield-at-disrupt-2021-is-cellino/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 72
+    images:
+      - url: "https://img.vidible.tv/prod/2021-09/23/614cd3a175544444803475dd/614cd40371876b7f3ca40f82_o_U_v1.jpg?w=550&h=310"
+        width: 550
+        height: 310
+        isCached: true
 
 secured: "USAJ+9uBaho7cN9WD5dAVhWMRV1moi0CM0vCuUHLVdb0czNHfVk/O8AiCz94SsMA9Nsp2Aml+0POA1lbV5EWCEZFIqSUKr9aXcYrjG3Skp+UI9/kcyND/K61aa6ixPhBckT13ilxGrIZB6mFYDCavYuGhDyjiKfdpSCDvHU8FIsfvbpJnjZbdwIOIzW0fipFKuhtb5ssvcUmghlIFghcuwYjYL+aokxtZoPLnMsnn3Ie+At9ub4vQIiskrex7x6UbG/djK381o7htnEmUejVWJMwRQhLw26Nc9l9VThREPhIPMjEIy1goB/sJUix10SAFinO4mZ45K6dcwBqhtJr/b9XpyYJTlIOTE8z65qSEOsP/YHHsdgMbsHDkKXcyOsbmz/em0WDRv5mVAMVtcnHaXnyJpBxZMnMx3tWY8h2CtDAkmXWR5PFLBxqBjKWvmpdfr4f9L+vZ1r2kfU2TB/K72z1HAqzmKa8bBU54QKbLCorOvF18EJPMGnb8XSFxGOR1SEZ74NpyflVS1IvdOtbYQ==;n/bijV//RdXE23ArwOeFZg=="
 ---
