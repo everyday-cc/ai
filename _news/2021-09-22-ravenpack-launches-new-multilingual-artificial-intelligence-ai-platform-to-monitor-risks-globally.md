@@ -1,28 +1,28 @@
 ---
 category: news
 title: "RavenPack Launches New Multilingual Artificial Intelligence (AI) Platform to Monitor Risks Globally"
-excerpt: "RavenPack, the leading provider of technology and insights for data-driven companies, has announced today the release of Edge, a new AI platform"
-publishedDateTime: 2021-09-22T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ravenpack-launches-new-multilingual-artificial-intelligence-ai-platform-to-monitor-risks-globally/article_cf1ed106-32cf-592a-ac81-d07926738f86.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ravenpack-launches-new-multilingual-artificial-intelligence-ai-platform-to-monitor-risks-globally/article_cf1ed106-32cf-592a-ac81-d07926738f86.html"
+excerpt: "RavenPack, the leading provider of technology and insights for data-driven companies, has announced today the release of RavenPack Edge, a new AI platform that collects, reads, and analyzes billions of documents to help businesses better monitor and mitigate emerging risks."
+publishedDateTime: 2021-09-22T14:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ravenpack-launches-new-multilingual-artificial-intelligence-ai-platform-/2021/09/22/9454513.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ravenpack-launches-new-multilingual-artificial-intelligence-ai-platform-/2021/09/22/9454513.htm"
 type: article
 quality: 38
 heat: 38
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/55/65565f07-a4b7-5ecc-bc20-b00037a4a35b/614b37637aaab.image.jpg?resize=631%2C630"
-    width: 631
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1631453/RavenPack_Logo.jpg"
+    width: 400
+    height: 399
     isCached: true
 
-secured: "OaePkU1vAj9FtTfqB/GZCdN77sgU75N3QdeIlRc/vHbEe85ebCrFRwLFz1PFfyrK71+p5bAwAL5/65JlwPY3Y4zwKaRws16KKLO8Rwwx5QxkYHQ52uxu+52jA0ck75uNKiMiGXZwn/A5EakWJe5jWnWI05nKCFZMibfP6OB8Og7wUyCqBjJQHjPJ8V7WYA6l+H7T3mQcoWU37klupzsZ7qH63nCJjswdlM2kb9vyoueS8I9GG4VkRqxHBGMvnbkKH0sYS8jwt/N574ZyzDj9rrag6OwJcFG+fxHMQwhz+PLQ3zFmXO5ypQbjtpiTBJ6i+3h+lbgB19hKuI7Ik+u0KDuUVBXBSMvCc7+6z0Q0H6g=;tWyomVCB9vrlJuz2T6Hzkg=="
+secured: "+RpdoH0qbIxkA2PJ8FgIiDFtTilTVieJr1L5zWiRYCvxXXALMrM4nP6V5XscxHezZ7BFdJU3BDfNcO+95Tc6uXDkrEmufBIsh27VGQunzgq9z9j4Hs8xk0QxfQ/Bpc2ht7fVnchGzITKOt/nrcUTu7Fdn4X3VBB42XfYTwm94g4MWT18B6kb7wDKfV0ShPUqfzKoEZhxKApDhhAOditkANwvaE786nBsjSZvogeHGJdfCW6jpr0vIw+8jQn7NQpaL+w9j351fDr4wQXuu4aSkP5j1qBggu1AcD+PH3ciS7Vk3hjdjPj5kCO72Dfz6/I1SAWTF0srCEBvqvPiPpz4ZzdR8zO7+XixXfNtKKbLhu4=;mb6hfANHYDUj6I8kPTYMIg=="
 ---
 

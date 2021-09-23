@@ -9,7 +9,7 @@ ampWebUrl: "https://www.astroawani.com/berita-dunia/baidu-s-self-driving-taxis-a
 cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/baidu-s-self-driving-taxis-are-popping-all-across-china-s-megacities-320462?amp=1"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 590
     height: 400
     isCached: true
+
+related:
+  - title: "Baidu’s self-driving taxis are popping up all across China’s megacities"
+    excerpt: "The battle is on between Alphabet in the United States and Baidu in China in regards to the development, launch and rollout of self-driving taxicabs. Baidu recently announced the launch of a test ..."
+    publishedDateTime: 2021-09-20T00:03:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/09/20/baidus-self-driving-taxis-are-popping-up-all-across-chinas-megacities"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/09/19/1299802.jpg"
+        width: 1240
+        height: 801
+        isCached: true
 
 secured: "nf0nZBV56JypV+E3ioUbh37rJ4JG9IZ+J/QDXm7qADSYvJFGGBQzqNReZa7DipQy5j5jFv5C2glIhAa9B8XXraYGA7fnITAdKlyERlTRBPGM8rZN++kfNgultz4DSVCwKHymbZqLc5icL57/FR2ogPIWjEhlS9h7vRFlmQZ8ICR6TY3jNK93C8msPVPffx+Az0jll2WsTOWjUEp3RZOyI6nGtfO147bmh2Df6jWjSi7qJxyanhKvFAbHdKj5LmSwXsSn7RnB7RNJ+HNDOa8eUYTXu3Q/bsUjCwVrzZ6Xq/qvEDtGz4W2pmXrc7bTJB3BChjaODXmZYebe4Dc0xyBqu70iP0oyg4vFgVABftFnLhNBWrG3pqb/+8NfoR0FkPlxZGpJnr5ozOAO2vJ5XPKGgLjUvzw34aJh8b3JgEKK6yhjmN91Byhs1LpGgfpGXmwJGCK7Ts/uQOrE41jUPaGqYUioshzVypT4rmdYtzLTito7rE+AbJVRfEUlualNtt4eUK1OwTG3eNVBYprUjJ9JA==;WNMCdvckx9WjbTzM1S1KLQ=="
 ---

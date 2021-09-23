@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/09/22/the-state-of-mlops-in-2021-is-domina
 ampWebUrl: "https://venturebeat.com/2021/09/22/the-state-of-mlops-in-2021-is-dominated-by-startups/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/22/the-state-of-mlops-in-2021-is-dominated-by-startups/amp/"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/03/GettyImages-1193139738-e1632245679253.jpg?w=1200&strip=all"

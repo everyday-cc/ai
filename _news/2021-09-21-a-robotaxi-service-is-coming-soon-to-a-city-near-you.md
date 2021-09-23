@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/a-robotaxi-service-is-coming-soon-to
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-robotaxi-service-is-coming-soon-to-a-city-near-you-2021-09-20-0?amp"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -19,22 +19,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Elon Musk promised Tesla robotaxis in 2019. Seen any lately?"
-    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
-    publishedDateTime: 2021-09-18T12:30:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/elon-musk-promised-tesla-robotaxis-in-2019-seen-any-lately/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 39
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/p-1-elon-musks-tesla-robotaxi-promise-typifies-self-driving-overexuberance.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "A1AvfS/SjTybsyVvS+zigRAXfAQ1Kr9X0vru/326SVjBztSJP2mbZRqLnw7c+8JMZ5WFzYqn0r8rTZF9+5EC/c58vi1vr+Wt3niM+FQYKyg9qxb2QPv7LA9uJor/T6EIP/trYVi0fc6dEAgI5hF8GDLGozqgfKTeV3Q3HcL2v5wCghMSkrkHLRQ08lK1WvwsIDtyf4ipb0F1JBYoPxsredGCxSyAkJQ0jUC1F1Pj8bbtglNAUtYZyeJtrMbDhVXswfGrBFQ17esGggcq04fIcDfoDZQUljDPXpxulj2piBMlDL6h3FjPFqKsVrFPYH2ff+Hd9RDXgpudMYpUNlf67AlI8ca29l8FgviXiv7doyA=;Lio8UKDCJ4TnnLtSAbq4eQ=="
 ---

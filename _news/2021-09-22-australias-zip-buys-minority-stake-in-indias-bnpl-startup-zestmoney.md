@@ -42,6 +42,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Startup founders react to a new report saying Australia is lagging key nations on tech innovation"
+    excerpt: "A new report into Australia’s digital future, released with week found that the nation is falling behind the US, UK, Canada, France and China when it comes to tech innovation. The analysis by the Australian Academy of Science and the Australian Academy of Technology and Engineering results in the two peak bodies issuing an urgent call to action,"
+    publishedDateTime: 2021-09-23T05:54:00Z
+    webUrl: "https://www.startupdaily.net/2021/09/startup-founders-react-to-a-new-report-saying-australia-is-lagging-key-nations-on-tech-innovation/"
+    type: article
+    provider:
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 9
+    images:
+      - url: "https://www.startupdaily.net/wp-content/uploads/2021/07/tortoise.jpeg"
+        width: 770
+        height: 513
+        isCached: true
 
 secured: "i618GwPcWuSFTStMXaImT0HgiHmEnK/4TTMkbmlG2Ax+D+6qG50mwijL52JsJ1PlXYaFNpt4uyHnOYd1DXXHpHt5BOL5jThUFf/5OnDvnVjvjoewmyangBjBRc8DWWSxARFlHXXAh0rJ5wyv2Wz2BwSkdczIRpOG7E8pxtcEv5S6fvVmsHuWWJq+TpgFq1EIMwsIa2YuKAfO/IrzNi1YfGacLfyV4z99ARIawpJF4+EfI2pklIJqBC/pHQhcIAvY0/CLFZ5PuILo1T5h4OcAoJ4Da2kb9XPGE0y++XDgOLos6g6No19RXREBx2BU4zxJHEi5bBaHmMidVO26ttEfJ1g6+VV4KYCcta+gcjR8wLU=;FO9t9po9Gb6C9RWQohVfFg=="
 ---

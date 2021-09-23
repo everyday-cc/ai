@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/21/indian-buy-now-pay-later-startup-z
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/21/indian-buy-now-pay-later-startup-zestmoney-raises-50-million-from-australias-zip/amp/"
 type: article
 quality: 81
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/09/ZestMoney-Zip-BNPL-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "Startup founders react to a new report saying Australia is lagging key nations on tech innovation"
+    excerpt: "A new report into Australia’s digital future, released with week found that the nation is falling behind the US, UK, Canada, France and China when it comes to tech innovation. The analysis by the Australian Academy of Science and the Australian Academy of Technology and Engineering results in the two peak bodies issuing an urgent call to action,"
+    publishedDateTime: 2021-09-23T05:54:00Z
+    webUrl: "https://www.startupdaily.net/2021/09/startup-founders-react-to-a-new-report-saying-australia-is-lagging-key-nations-on-tech-innovation/"
+    type: article
+    provider:
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 9
+    images:
+      - url: "https://www.startupdaily.net/wp-content/uploads/2021/07/tortoise.jpeg"
+        width: 770
+        height: 513
         isCached: true
 
 secured: "c1rkjks2MpniY6hVMwCH21si2B84/V7Uvoq1p115SeSM8SVGQnDsPaGFKEoi71f4hCpn6L5tFbfRnHAMISf2ZLnqRM86+ve41fK4FfAm9PXJXFViHZNArqgUqPqNaMl0Hkbjf/KzLxaVbECp0R4y6DsiSIj3gx8thfLVCSGxJC3Req9ChODWThNPcm3KZEx+9i2G3fjlZf1+Gfd2qjSwGDZzlF/VwvxDmmuPLF7mAewcJPSFLJdRMG8LahUl3SzvI8nPdJN0HedDgxes/dU/qkwchBmKbtnEIlNJxrSIkxUXr9B8Z75X0IqE8wY5gyH4DM7tm+nCsy/uBJRXK8k2GYsXLrzArKpklC9MwCWSFpLz5QIRyBNqtHvzJ5/vJn1qCVA/YsjzMKQW29QRbi+eGu/7oQLe8lLZ61TSgkbAVbOrIJ7QW98ab3WeLH8SMm609iceVYBoToeZNHXdl02oGzsCd76B3IWKJh7coxg7r0qvqvKojhxiy5fWfiohNqD9DNaqN/G7lFiIojKQK1OIIg==;H6X0azjm/j7zX+mcb9o/eA=="

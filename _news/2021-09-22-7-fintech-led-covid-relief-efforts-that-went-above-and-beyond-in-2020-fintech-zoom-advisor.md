@@ -65,6 +65,22 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Share India set to disrupt algo-trading and fintech industry with two strategic acquisitions"
+    excerpt: "Share India Securities Limited has announced the acquisition of two companies, namely - Algowire Trading Technologies Private Limited and"
+    publishedDateTime: 2021-09-23T05:25:00Z
+    webUrl: "https://theprint.in/ani-press-releases/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions/738473/"
+    ampWebUrl: "https://theprint.in/ani-press-releases/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions/738473/?utm_source=JioNews&utm_medium=referral&utm_campaign=JioNews&amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions/738473/?utm_source=JioNews&utm_medium=referral&utm_campaign=JioNews&amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 33
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2021/09/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Worldwide FinTech Industry to 2026 - Featuring Affirm, Betterment and C2FO Among Others"
     excerpt: "Technologies, Applications, and Services 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. This report provides a comparative analysis between legacy financial systems and emerging"
     publishedDateTime: 2021-09-21T15:07:00Z

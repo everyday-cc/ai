@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Afghan Taliban’s new UN envoy urges quick recognition"
-excerpt: "The Taliban’s newly appointed envoy to the United Nations is urging quick world recognition of the Taliban government and Afghanistan’s new rulers even as the World Health Organization raised the alarm warning of an impending humanitarian disaster in the war-wracked country."
-publishedDateTime: 2021-09-23T02:02:00Z
-originalUrl: "https://www.kansas.com/news/article254454783.html"
-webUrl: "https://www.kansas.com/news/article254454783.html"
-ampWebUrl: "https://amp.kansas.com/news/article254454783.html"
-cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/article254454783.html"
+excerpt: "The Taliban’s newly appointed envoy to the United Nations on Wednesday urged quick world recognition of Afghanistan’s new rulers even as the World Health Organization raised the alarm of an impending health care disaster in the war-wracked country."
+publishedDateTime: 2021-09-23T04:45:00Z
+originalUrl: "https://www.newstribune.com/news/international/story/2021/sep/23/afghan-talibans-new-un-envoy-urges-quick-recognition/889663/"
+webUrl: "https://www.newstribune.com/news/international/story/2021/sep/23/afghan-talibans-new-un-envoy-urges-quick-recognition/889663/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Wichita Eagle
-  domain: kansas.com
+  name: News Tribune
+  domain: newstribune.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://media-cdn.wehco.com/img/photos/2021/09/23/199463347_199463347-489842bc32674b3fbf580b43602ab6a9693516160_t1070_h9710d7cc382edfbb93f8089026093b7a3c51a3f1.jpg"
+    width: 1070
+    height: 713
+    isCached: true
 
 related:
   - title: "Taliban name deputy ministers, double down on all-male team"
@@ -38,6 +42,6 @@ related:
         height: 641
         isCached: true
 
-secured: "0/ymBB9huzNEE3d/o5mXZGt21gt+Uy5ZnenGvIAf4FyxN0FtRQOFilTB9BgO04UJOcYsLvhZe1Uy+7rVTNIWvP2Oobd5PLEcc6kg5dnmu8LZ8aI/Bk7LBTMUI8O8JGKjAlb3f38dj4GNj2p0aZjA0FKAxOGKCd8Quj42G1fqhBJP/h0QJmmDCr0tvtruXW205c50lqDYBS9k1vZ6dzP8qm1pjsewU0tlZNt/ld3nWiUHI85CEZS62W39bLLpUohJS12dN5F1vlEJNWpdhT0dK/r/zVDczfO12KxCLnsWRYeHza+bK3kRX+IVgF6O26P9uVOOElZgY9jKaErmTwyB/+15cq31xxMfEzoz48+qFUtDYLIX7U/soDhmO/huA0Byg+iFBB8aMxlVp9nSzhLr1LQVNR/z70raqX/P5VIR4CmwNoiaYzgETSVrIXPnSJK1r94aWQugy4ZJ526UCqDERHmRV8je6f+lcilbenq3QHErHJCw1kjCe6Iw50W9oOhsPM31CzgNfZUhAlPyao1vjg==;PfgFPf5eWmdfEsiiQV6SeA=="
+secured: "eY12bvROERDDxpZbjrMdwq/B4xk9WORrBW3OcE/M6SXj0WxnJwqlVIujVLQlqEyFr/dK0zNfbzMSHIbh5eU2IiEydarCg7SNi+JRqRaw0HQjNdcyUoXQcqPKvglXCs3VRhFkovaB1oU5M7BTuv5mGg2YCQW9NruwxXwlj1IYLs35v2IGnIovFjyJQeZtU4VLhVoXpgEAXViOSuqwq9kMTotOTvUnkHncMfnu5LcLqqgCvHROlwSWjCi3SsUaqx1DVWJM0FC3SGzmBw9OEPq6iGYjnZBNK2qJupZmJ4A6IDuPpVM7Df0B1jNOPXhPDemDVPU/Wlw8slUv7JP0zUSmPSaGQQkX2WPTxg3wbqI9OSw=;Xi05n/kmhZS/havThzRRWg=="
 ---
 

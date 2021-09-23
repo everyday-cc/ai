@@ -1,10 +1,10 @@
 ---
 category: news
 title: "CT town at forefront of national debate over facial recognition tech"
-excerpt: "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning the use of facial recognition technology."
-publishedDateTime: 2021-09-21T20:42:00Z
-originalUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php"
-webUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php"
+excerpt: "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning governmental use of facial recognition technology."
+publishedDateTime: 2021-09-21T18:13:00Z
+originalUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b"
+webUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b"
 type: article
 quality: 41
 heat: -1
@@ -71,6 +71,6 @@ related:
         height: 734
         isCached: true
 
-secured: "3wZbC2ViQJ9lgYa0mbm8KBLqc49t2iMqWcoH/SJpYASNJ79Uf94kF2bR+psHHXhGjkNY/sOC6xAQenDRB0zag03AlWaBL9Tuds1znRa2pGVif2fhCLhHXIvzBscBAlp1/1p8aewsfN7oT8Rgv1li7hPPacIhd/MIQiUQmY/RiTUo3yKjuAMOpHrtDPh/X1n4ffPAh/mfziNiSkceP5xw1QbFmUcrMb1cDvxbzp0EHm/BZU48VfyWAslH1btWtguGuPXNSmuwgLP23k7UM+WRoiptP5aRVgMt4GnEb8OIl7Yfs+3/wAxQgcntAzpAob4RrcNfpnmmbSpaRIkKv6E4+yVU9aS++ETo10Ag7H1B7P0=;abfabHkia20r9jkOiL8/QA=="
+secured: "hXBtPoLmtmfpWQm4oEYRnurtS5FKAW7FuHO5jHVcDuCwvtPnd/UOpM7NI8Iu94SVUJEEyOGhPqHUgTz7cKfyp9BSn+sqxua5bC7wrMRk7/cbbIR047MC9SbQjc0ow8Vd+O22AaihxGpAKDftpfXHHxpm50Ee6N3O0wr69kK013ttJyD3srxKTSht41ur0NTXjwDv3wdkSVUOKh0paXRGYCy56/wjzga91PIuXTMDGwtnbrsZf+ZAM3ITMayf5p2U4+VFkKPqk6LO//s0X9Rj2VzHcZSmSl40BlVCn2Yy9TplE+7eknwMAPkg3xq+wy4yzuF1MaL46PB4oNS2jFNlT/PTeMIXUTcYuxICkg3EkAY=;0tr8xGLK8ZAm47mI+pfshw=="
 ---
 

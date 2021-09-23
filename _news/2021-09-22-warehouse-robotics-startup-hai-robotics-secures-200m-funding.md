@@ -7,7 +7,7 @@ originalUrl: "https://www.roboticstomorrow.com/news/2021/09/22/warehouse-robotic
 webUrl: "https://www.roboticstomorrow.com/news/2021/09/22/warehouse-robotics-startup-hai-robotics-secures-200m-funding/17496/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Warehouse Robotics Startup HAI ROBOTICS Secures $200M Funding"
+    excerpt: "The funding will help the company boost its product fleet through technological upgrades, expanding its global operation networks, optimizing its supply chain management and corporate structure as well as talent."
+    publishedDateTime: 2021-09-22T20:59:00Z
+    webUrl: "https://www.supplychainquarterly.com/articles/5515-warehouse-robotics-startup-hai-robotics-secures-200m-funding"
+    type: article
+    provider:
+      name: supplychainquarterly.com
+      domain: supplychainquarterly.com
+    quality: 69
+    images:
+      - url: "https://www.supplychainquarterly.com/ext/resources/user-submissions/articles/3880a97f-5d64-45f5-bccb-e1be49d414a7.png?height=635&t=1632345458&width=1200"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "v009rx1wFyqGqNkCeCfMrxzBVrh9fN9Rae9yko64/O6+wctoAbYcDQBKPjPhjkUAx2xJQs3GrYZ5/H+Ps/xssb1FeLk4fkx8vBfE3NtoCbfdVvwNwTaBqMTEfISj9Rs6gd6/sfcmuPFwxwlDD6Zxk/9rxErU5ssCMjEfYT09OaN8fitG7pGM4IndBYEuWw8ov6L0zW8aTYIp31ks+apwnQQnXVw49W/nGbpmdY0zOphEYydX9xfEXEN7sCiB5WG2CYYuFtUbIGKd/3QZYQhKLgDpl9pGxAqFpzkIrcryL9mPTs+Ye8t1VgKGvF075gr6cZibwOsHgFGl1Cu5h2QEQaPkM3FfTyyK7ez8tUNEQcE=;5QQ67TFFw6Gc4PZGNEtE+Q=="
 ---
