@@ -3,10 +3,10 @@ category: news
 title: "MU engineers software can replace faces in social media photos with synthetic facial images"
 excerpt: "MU engineers developed a software tool allowing users to replace their face in social media photos with a synthetic facial image"
 publishedDateTime: 2021-09-22T20:40:00Z
-originalUrl: "https://www.columbiamissourian.com/news/mu-engineers-software-can-replace-faces-in-social-media-photos-with-synthetic-facial-images/article_37b4f358-1a33-11ec-bf60-03826bd87acb.html"
-webUrl: "https://www.columbiamissourian.com/news/mu-engineers-software-can-replace-faces-in-social-media-photos-with-synthetic-facial-images/article_37b4f358-1a33-11ec-bf60-03826bd87acb.html"
-ampWebUrl: "https://www.columbiamissourian.com/news/mu-engineers-software-can-replace-faces-in-social-media-photos-with-synthetic-facial-images/article_37b4f358-1a33-11ec-bf60-03826bd87acb.amp.html"
-cdnAmpWebUrl: "https://www-columbiamissourian-com.cdn.ampproject.org/c/s/www.columbiamissourian.com/news/mu-engineers-software-can-replace-faces-in-social-media-photos-with-synthetic-facial-images/article_37b4f358-1a33-11ec-bf60-03826bd87acb.amp.html"
+originalUrl: "https://www.columbiamissourian.com/news/higher_education/mu-engineers-software-can-replace-faces-in-social-media-photos-with-synthetic-facial-images/article_37b4f358-1a33-11ec-bf60-03826bd87acb.html"
+webUrl: "https://www.columbiamissourian.com/news/higher_education/mu-engineers-software-can-replace-faces-in-social-media-photos-with-synthetic-facial-images/article_37b4f358-1a33-11ec-bf60-03826bd87acb.html"
+ampWebUrl: "https://www.columbiamissourian.com/news/higher_education/mu-engineers-software-can-replace-faces-in-social-media-photos-with-synthetic-facial-images/article_37b4f358-1a33-11ec-bf60-03826bd87acb.amp.html"
+cdnAmpWebUrl: "https://www-columbiamissourian-com.cdn.ampproject.org/c/s/www.columbiamissourian.com/news/higher_education/mu-engineers-software-can-replace-faces-in-social-media-photos-with-synthetic-facial-images/article_37b4f358-1a33-11ec-bf60-03826bd87acb.amp.html"
 type: article
 quality: 34
 heat: 34
@@ -26,6 +26,6 @@ images:
     height: 1024
     isCached: true
 
-secured: "MfWd0OEXqoG2bHWMk2PYjO3KSJsRwg0mMOTxID+kewm1yautUlcZ1eGtYvV9h9MiH4kAst91yzuO8ccTzl/ykXY3+aB87MYE75J7iOWkf3leGegtlAXXXSjdIPap4aetcTMnjup1vtyy+Q5B6sx9+m23ls2qltH31JYQHBebgSR1vK5+ckcMRPT/B9u5AzW7dUBk731EyqfZ/QjQXTd3DlcVicVnv6h2yzx3uu9N1vlr4wkMMgiKRfb+jBsXZmW9sHCUObAgPD9hQkNDfyxlmUuyt+1yRs8f1LXSVIhqeXUrB2pUpj+HbckpQdVXOHT3WhmVzAaN8EIo37VirAyHQgEBErp8JVvRXB0VtczQF8G9TwOKN3sosQTx/8HQpX0aIhR8mBwjwxvYZqY/7NoVFgdORZDqLFF9uCt7ckT8FCun1w1Bi8oQq/HQguYh++YBmuZP64cKUUiuHqKXjsXYq5vncKZI0q7OxI0SE97u7geqdgcd/8N5g4RSJg3vjANsqSw3ZEJ+6xx6UmlUrGbj5g==;eiHvnET6iMXJngCPBs+AEQ=="
+secured: "Ke23NZtzkDvVVZUxhUq/vMBS5lzkJDGT8ULPCxf98beQKzzVfwJFsiD+4V68D5+qeyB2eijUZN7IBql6fKIAyAMKRZmwCX2p36x4+bYPfZsD8HSsjse7yfdFPDdvI+iXDCTTA6E74cEqZ88QQWousTTp8L7rsGJJRKBap8wVsipru5Ka8i175RJnOQ3q7dDWGYdRXy0r9qEOQnQ3O5u0PqazeAPDtcfU6YYElcHc3BV91eLBQcqBuC0Ka+GTPm2lvG2Nj1lojJ0C10r75TDwodIbkrlgnWqRsIv3QKhyrJU4iOhBZvpuTfJv9quH9jlh/EIln27QnXrSbr/ygfYmkokGlnkQgdSmcl8AloiRY8k=;qVwYdL9pXsoFGr0zbF08pA=="
 ---
 

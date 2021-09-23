@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-overvie
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-overview-cost-investigation/"
 type: article
 quality: 89
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
       - url: "https://images.mktw.net/im-367838/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Elon Musk only wants good drivers in Tesla's Full Self-Driving beta"
+    excerpt: "It seems that Elon Musk is tired of San Francisco tech bros sleeping in the back seat of their Teslas with Autopilot enabled. He really wants good responsible drivers to test the car maker's Full Self-Driving (FSD) beta."
+    publishedDateTime: 2021-09-23T07:01:00Z
+    webUrl: "https://www.tomsguide.com/uk/news/elon-musk-only-wants-good-drivers-in-teslas-full-self-driving-beta"
+    ampWebUrl: "https://www.tomsguide.com/uk/amp/news/elon-musk-only-wants-good-drivers-in-teslas-full-self-driving-beta"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/elon-musk-only-wants-good-drivers-in-teslas-full-self-driving-beta"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 59
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/YgUHsWEWfthGscTnET98nk-1200-80.jpg"
+        width: 1200
+        height: 641
         isCached: true
   - title: "Tesla drivers using 'full self-driving' Autopilot pay less attention to their surroundings"
     excerpt: "Tech giant Tesla is due to launch the latest version of its Autopilot “full self-driving” technology to owners this autumn, but new research has revealed that the system could be making drivers inattentive to their surroundings."

@@ -27,8 +27,8 @@ images:
 related:
   - title: "Scientists use AI to create drug regime for rare form of brain cancer in children"
     excerpt: "Hopes that breakthrough marks new era where artificial intelligence can develop treatments for all types of cancer"
-    publishedDateTime: 2021-09-22T22:09:00Z
-    webUrl: "https://www.theguardian.com/science/2021/sep/23/scientists-use-ai-to-create-drug-regime-for-rare-form-of-brain-cancer-in-children"
+    publishedDateTime: 2021-09-23T02:37:00Z
+    webUrl: "https://www.theguardian.com/science/2021/sep/23/scientists-use-ai-to-create-drug-regime-for-rare-form-of-brain-cancer-in-children?bingParse"
     ampWebUrl: "https://amp.theguardian.com/science/2021/sep/23/scientists-use-ai-to-create-drug-regime-for-rare-form-of-brain-cancer-in-children"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2021/sep/23/scientists-use-ai-to-create-drug-regime-for-rare-form-of-brain-cancer-in-children"
     type: article

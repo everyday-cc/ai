@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-22T17:52:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-business-science-f65768cf7a4d400383bf1545918193f1"
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-f65768cf7a4d400383bf1545918193f1"
 type: article
-quality: 20
-heat: 20
+quality: 18
+heat: 18
 published: false
 
 provider:
@@ -15,10 +15,9 @@ provider:
   domain: apnews.com
 
 topics:
-  - Machine Learning
-  - AI
   - AI in Finance
-  - Microsoft AI
+  - AI
+  - Machine Learning
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -26,6 +25,6 @@ images:
     height: 450
     isCached: true
 
-secured: "5vx98l2AtIZtvGG7iqZQOkOvOk+ZXjB9XylACWgcTAlE2plt6l6q71Us4KvSOGqbAweIzlF+cxyzFC5UEaQCSVLkUI6tb4pedjybiaMiMvIc42yC4IhNVDDlz7FSi/axtwrXv36W+Lf7pAiG1HugnkYGzsEkKJjZ6h02XZp7nSy5BB7a0ZoIbOxYSvZ0jZNF+kztM4ZZ/adM+mj04fQigjQsGtwt26FQCJ1503izyljvZd73qxvl3gB+yMi+EGWkH01U5pPtYffqrqh9KFZqYiXuAruledLEKWRifg7WfqG28nw30d1l8RVsPAziO/xer/adnpAnKiacCp0ahUXekmUFttYkrqzNZ/Z6KxAamKg=;VwCVfdIc5kzEICc8pfKptw=="
+secured: "s8ueYvFNdC4DziasQZxq8ApWgOMTJQ5GkZRzb22AwuB4qQurOhRvBkWRxyT2316u8fUCjnFzLg2howbhihUL72NrLMLchF9AwAWOz3Xtnj6UaV4zhEnCQ9kR3yJN+Ryt148DT6z0p0UzKWsMUH2SW9XBVQ8THR2oXhbT6Sui9VnXBmykRnuu6fxxPYlaJaHw5VAIq1KszlwYbQu3iTWAhobzc/p7Nd0lJP63soSrzZq7fa9zCUXlYdSy3svuaQUSAD5whGyHDV1bxImYfnp9wea43+62FSv4pCNXA/nY3i16nJ3mv0uGfVtSCAxRrmyDvGvqoGbh4S5nVJvN8FS+qjEzEOJKbZR5cGcarcTRtf0=;wwdK17jXytKHhE2fRoBHEg=="
 ---
 

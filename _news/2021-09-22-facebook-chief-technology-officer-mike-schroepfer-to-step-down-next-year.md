@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "4 ways Facebook’s departing CTO Mike Schroepfer shaped the company"
+    excerpt: "Facebook CTO Mike Schroepfer announced that he's stepping down from the position after spending 13 years at the company"
+    publishedDateTime: 2021-09-23T07:47:00Z
+    webUrl: "https://thenextweb.com/news/4-ways-facebook-cto-mike-schroepfer-analysis"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FMike-Schroepfer.jpg&signature=04b0e90a62b4c26892fb9e18e1be080c"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Facebook CTO Schroepfer Steps Down, Moves Into Part-Time Role"
     excerpt: "Facebook Chief Technology Officer Mike Schroepfer has announced he’ll be stepping down and transitioning to be the company’s first senior fellow."
     publishedDateTime: 2021-09-23T01:46:00Z
@@ -35,6 +49,15 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Facebook CTO Schroepfer to step down from 2022"
+    excerpt: "Facebook CTO Mike Schroepfer announced that he will step down from his role as of 2022. Schroepfer will transition to a part-time role with the company. In 2022, he will be replaced as CTO by Andrew Bosworth,"
+    publishedDateTime: 2021-09-23T06:38:00Z
+    webUrl: "https://www.telecompaper.com/news/facebookcto-schroepfer-to-step-down-from-2022--1398095"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 4
 
 secured: "if6/yDFFPfa81AzBDvKSA/Ttt59SQhnNAaZ5AVANkXMrn+tkX+akvLEjGOKimjypUg5lzhosyd9PqnOMG2wMs3aTZGbH+fwZ2vqtJQcuPhYa2/HS+H93WwHEQu0vDKM/7X/luGgbUMTaAFUZauul83t1GClwno7WXhZxrolZV+kGzZq2+jA0QDn+d21GtgZN3j+zlI1Dv4plFfKnS0joSeIS/aDrrTol7QyGlHuvI+iqF5tUTBy4uYYIFtz5H9mh1Gzj4aPcTTt1MQGUg0wyW/wsTnr8KEyZO5FhUkZGFmuE6eSoNjfHLVriVSDNB2uwC2CdQAoa7rMRFUHM+DyD++Ka4t7RBdDwSnOm9e7XROU=;aaoGg3eZBRWA82HbEFasCw=="
 ---

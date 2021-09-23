@@ -7,8 +7,8 @@ originalUrl: "https://www.autoevolution.com/news/baidu-unveils-electric-robot-tr
 webUrl: "https://www.autoevolution.com/news/baidu-unveils-electric-robot-truck-with-smart-cabin-and-advanced-self-driving-tech-169754.html"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: autoevolution.com
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu-backed company unveils smart new energy truck"
-    excerpt: "The first generation of Xingtu is designed to enable L3 self-driving on high-speed freight routes and achieve L4 capabilities on these same routes between 2024 and 2026. Powered by Baidu's ..."
-    publishedDateTime: 2021-09-18T14:51:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202109/18/WS61457e6ca310cdd39bc6a38e.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202109/18/61457e6ba310cdd3d80e0e6c.jpeg"
-        width: 582
-        height: 388
-        isCached: true
   - title: "Baidu DeepWay unveils autonomous truck"
     excerpt: "Baidu DeepWay unveils autonomous truck September 18, 2021 by Mai Tao Leave a Comment    DeepWay, a Baidu-backed company, has unve"
     publishedDateTime: 2021-09-20T06:16:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-23T04:04:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/928504"
 webUrl: "https://www.eurekalert.org/news-releases/928504"
 type: article
-quality: 19
-heat: 19
+quality: 21
+heat: 21
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/21666fef-ed2d-4c2e-a4d1-d1e345244e77/Rendition/thumbnail/Content/Public"

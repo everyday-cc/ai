@@ -39,6 +39,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Microelectronics And The AI Revolution"
+    excerpt: "The recent AI Hardware Summit showcased trends in AI/ML, both in enabling and using it in various application domains, including EDA. As part of the summit, Imec had organized a panel on “Advanced Microelectronics Technologies Driving the AI Revolution."
+    publishedDateTime: 2021-09-23T07:03:00Z
+    webUrl: "https://semiengineering.com/microelectronics-and-the-ai-revolution/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 39
+    images:
+      - url: "https://i2.wp.com/semiengineering.com/wp-content/uploads/Cadence_microelectronics-and-AI-revolution-fig1-AI-Use-and-Enablement.jpeg?fit=640%2C289&#038;ssl=1"
+        width: 640
+        height: 289
+        isCached: true
 
 secured: "A70CLUfkIBZjLW0PE0NMezNZzSo3aD9S5mR9+zCOMmaRS5pYRMRErG1WBXs2PvCCnMaPgfp1kkvAsq3KqLU/3qyF0AmhRrssZ6s5sHDhUuMy+hxlAo3Pl5JAi/Cbtz2iVYGi6le6HBiIVEqQ4otoXli9mdhBQv/WDvr/Veqx8OpqMJvsl0lD5rHX5XWAWw57zfTiLlRoCtshuA8m+m/VMN47MvmZJRXfN+zFLl2gfJRyGSIRxAojSC0crldFstd8v4fTjziJrt0skJN5Mc5LMS7H+M5IzTmYmne1Yq327awh0jO4HeUM8qHv8UVTym5k6uJ5w70EQUuuDkp1d20qTyXkfQ8ioDf+2pca8DEKcig=;KXuyQBUg1gctSGbU8oxwfw=="
 ---

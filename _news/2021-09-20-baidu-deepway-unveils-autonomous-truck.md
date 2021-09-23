@@ -33,20 +33,6 @@ related:
         width: 728
         height: 300
         isCached: true
-  - title: "Baidu-backed company unveils smart new energy truck"
-    excerpt: "The first generation of Xingtu is designed to enable L3 self-driving on high-speed freight routes and achieve L4 capabilities on these same routes between 2024 and 2026. Powered by Baidu's ..."
-    publishedDateTime: 2021-09-18T14:51:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202109/18/WS61457e6ca310cdd39bc6a38e.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202109/18/61457e6ba310cdd3d80e0e6c.jpeg"
-        width: 582
-        height: 388
-        isCached: true
 
 secured: "8OGROP9xg7+noHPTfGCoVhUhnTB0kI3QqN9kHiSyZ8Rl/QBvynPOTuuq67BddfPCfOzOfB/DC2E9jMKP4zGErxXMdMrcAwJ+iITJufupKhZCkBjlYE2rX31B4eLm3Wg61cbcEn9LPluPk9hoe+Dlm2Hz6YndWqJfSs71Rj3jB43351OiRWSb9oSKr06PdamHhlJJofpeLsRsnlb5lOrvv1itBR8iQAm+vc0mR6jj2hTAIPk34I/jqao2HvuAh/J35i7G0AdovKfM2AROeCOQ4PzD9GnY/++F1BjHXwFbXosev3bSM+G4jlD73YA1XQhszY3/8+FNq05arqsgWmsOCEJRccCbNkt2VFeHb+iKSscHhluFhYtTaYjhXiUubYBLl0Vm5J7vjSb1Bw4Vd6Faa4pmK/p4ETdaV8lvnzjLT7MZ4mt/xx2moVqjj5ngDtRJg52LLPChrh3Q4v5oiumT3vfazex/hi88UgG3UHAi1q3hQofK9x6fEuLH86mn0HH+p6LA8QTA10NSLWsNHghxfg==;HmG4Qt6Hx76Unylt48njHA=="
 ---

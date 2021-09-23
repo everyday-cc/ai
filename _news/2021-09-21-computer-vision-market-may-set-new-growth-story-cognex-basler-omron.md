@@ -32,6 +32,17 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 12
+  - title: "Covid 19 impact on Voice Recognition Software Market Experience some Large Growth in Near Future | Sonix, Yactraq, SmartAction"
+    excerpt: "Report Ocean released a report that presents a detailed analysis of the Global Voice Recognition Software Market along with insights into key factors which drive the market The report is a comprehensive and systematic analysis of the market providing key"
+    publishedDateTime: 2021-09-23T06:01:00Z
+    webUrl: "https://www.openpr.com/news/2403553/covid-19-impact-on-voice-recognition-software-market-experience"
+    ampWebUrl: "https://www.openpr.com/amp/2403553/covid-19-impact-on-voice-recognition-software-market-experience"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2403553/covid-19-impact-on-voice-recognition-software-market-experience"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "SLtnxmJI6m/au+TSxfWCIECksimvnjizO9b/UnKJ5W4o9Wjik8ccX53jGL99x0OcLFACk6tN63PrfaZenop76ANlfOC9hk4BBq3v8f1Bcq0vxgGfhY6Cy9vxwG4fieNwNZLUXxCUrCeJVjw4lwf2CIa3R818OCfzv+Jk6ZGt6duBrsKuEJjS+aCccbKwYQneSQRHHx1RpPhZgSm1iPVxdksD5ynh4xW8XMhX1sRZbb5CXC+uER83hfFpKEZ638EoXpLNwc0ik2vo5Yu6pyIGf65OCj3ubXC2p3pyZ10A9OLTukJmaKRqTRCLPIkUhT/ZrvwtiOYUbhKnDGwK2Cos5IERDciim6stIhMuW93LDD0=;DQUwIsy3Ac/ZTb+fxBJbuw=="
 ---

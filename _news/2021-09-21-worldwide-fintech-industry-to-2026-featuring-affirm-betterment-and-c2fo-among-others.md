@@ -72,20 +72,34 @@ related:
         height: 1440
         isCached: true
   - title: "Share India set to disrupt algo-trading and fintech industry with two strategic acquisitions"
-    excerpt: "Share India Securities Limited has announced the acquisition of two companies, namely - Algowire Trading Technologies Private Limited and"
-    publishedDateTime: 2021-09-23T05:25:00Z
-    webUrl: "https://theprint.in/ani-press-releases/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions/738473/"
-    ampWebUrl: "https://theprint.in/ani-press-releases/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions/738473/?utm_source=JioNews&utm_medium=referral&utm_campaign=JioNews&amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions/738473/?utm_source=JioNews&utm_medium=referral&utm_campaign=JioNews&amp"
+    excerpt: "Share India Securities Limited has announced the acquisition of two companies, namely - Algowire Trading Technologies Private Limited and Utrade Solutions Private Limited."
+    publishedDateTime: 2021-09-23T06:30:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions-121092300443_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions-121092300443_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions-121092300443_1.html"
     type: article
     provider:
-      name: ThePrint
-      domain: theprint.in
+      name: Business Standard
+      domain: business-standard.com
     quality: 33
     images:
-      - url: "https://static.theprint.in/wp-content/uploads/2021/09/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions.jpg"
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/23/full/20210923112459.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Share India set to disrupt the algo-trading, fintech"
+    excerpt: "Share India Securities Limited has announced the acquisition of two companies namely - Algowire Trading Technologies Private Limited and Utrade Solutions Priva"
+    publishedDateTime: 2021-09-23T06:28:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271265988/share-india-set-to-disrupt-the-algo-trading-fintech"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1632378030.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "7 Fintech-Led Covid Relief Efforts That Went Above And Beyond In 2020 – Fintech Zoom Advisor"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."

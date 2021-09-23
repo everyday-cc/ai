@@ -52,6 +52,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Self-driving tech co Aurora to test driverless delivery with FedEx"
+    excerpt: "Aurora, which is led by former heads of self-driving programs at Google, Uber and Tesla Inc, added on Wednesday it is aiming for trucks without a safety driver by late 2023."
+    publishedDateTime: 2021-09-23T06:38:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex/article36623586.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex/article36623586.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex/article36623586.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/n41f8c/article36624583.ece/ALTERNATES/LANDSCAPE_615/aurorajpg"
+        width: 615
+        height: 384
+        isCached: true
   - title: "FedEx Partners With Self-Driving Car Startup Aurora in Texas"
     excerpt: "Aurora Innovation Inc. will help move cargo for FedEx Corp. in a pilot project in Texas that uses the startup’s technology in a self-driving Paccar Inc. truck. The arrangement marks FedEx’s first trial of autonomous driving."
     publishedDateTime: 2021-09-22T15:00:00Z
@@ -81,20 +97,6 @@ related:
       - url: "https://images.barrons.com/im-405175/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Self-driving tech co Aurora to test driverless delivery with FedEx"
-    excerpt: "Self-driving technology company Aurora will begin piloting trucks loaded with its software this week to haul goods for U.S. package delivery firm FedEx Corp between Dallas and Houston, albeit with a safety driver."
-    publishedDateTime: 2021-09-23T03:44:00Z
-    webUrl: "https://www.channelnewsasia.com/business/self-driving-tech-co-aurora-test-driverless-delivery-fedex-2195341"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
-        width: 1200
-        height: 676
         isCached: true
   - title: "Aurora Will Test Its Fleet of Self-Driving, Ride-Hailing Toyota Robotaxis in Dallas"
     excerpt: "AM\" hybrid electric minivans—short for \"Sienna Autonomo-MaaS\"—will be tested in a six-month pilot program in Dallas, Pittsburgh, the San Francisco Bay areal, and other locations. Aurora intends to deploy the vehicles on ride-hailing networks in late 2024."

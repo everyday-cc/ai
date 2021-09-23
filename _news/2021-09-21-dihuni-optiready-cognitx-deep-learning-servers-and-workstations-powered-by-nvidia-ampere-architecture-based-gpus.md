@@ -1,24 +1,32 @@
 ---
 category: news
 title: "Dihuni OptiReady CognitX Deep Learning Servers and Workstations Powered by NVIDIA Ampere Architecture-based GPUs"
-excerpt: "Dihuni, a leading artificial intelligence (AI), data center and Internet of Things (IoT) solutions company, today announced increased adoption of its Dihuni OptiReady CognitX Deep Learning server and workstation products featuring NVIDIA Ampere architecture-based GPUs."
-publishedDateTime: 2021-09-21T16:12:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-dihuni-optiready-cognitx-deep-learning-servers-workstations-powered-/2021/09/21/9453635.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-dihuni-optiready-cognitx-deep-learning-servers-workstations-powered-/2021/09/21/9453635.htm"
+excerpt: "Dihuni, a leading artificial intelligence (AI), data center and Internet of Things (IoT) solutions company, today"
+publishedDateTime: 2021-09-21T16:08:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/09/n23036414/dihuni-optiready-cognitx-deep-learning-servers-and-workstations-powered-by-nvidia-ampere-architect"
+webUrl: "https://www.benzinga.com/pressreleases/21/09/n23036414/dihuni-optiready-cognitx-deep-learning-servers-and-workstations-powered-by-nvidia-ampere-architect"
+ampWebUrl: "https://www.benzinga.com/amp/content/23036414"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23036414"
 type: article
-quality: 15
-heat: 15
+quality: 55
+heat: 55
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
   - Machine Learning
 
-secured: "aVIt9w4y7juGRUGhtIUtegB6N7IFHLWAVwoIOifZQh0F6+wKA7dN2X18DB0iUUDp+zyEH2ZLMNgUklFGsI/g4DsmbZKAAFcg2hERghJROo1D5ywaDK7xY4xXLx/QQBMaByf0YIjTRPA2UHqwBWemLzsB/VjzixLKMcTX2Tx5ie5u8gORMxCebNtF2P/PEMjWLNXiPaPtnLrcqDkfAS35XzKlBTBWDRefrGmpwRQjRvvQFJ360/D5cee8QNIRIawkJSbObqJzA07VrnVqKfD23EkOFlyVSLaXT0goupbgmbzIuWTPv2ViMLONoocxX4nZB6RzmxVNWnf97PN26m0PisZmp/5UeLB5Xek0GJ+O0Jk=;F8hfTo1Z+pq8rrKv639UrA=="
+images:
+  - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
+    width: 1200
+    height: 600
+    isCached: true
+
+secured: "K8YNvn0tQiaccuwQQjxKpP0trk3D9phzSjg9JD6BE6c+lzFAJKycnQzOJBD43l77fme9uaJ0rMij+MfYzmoDTUxY6wS8brlOkRvLIs2XCBiA/2/krZwU8oA2VZ5mlA6ofSJIN6dqgccoi1V141/Rln9oGvJaybxLJ5bAceM/2v3Z7b2BWl2ljAp2NFX1zPijAGrYjjq3FR2PaOYPpGInckrdeRndob35j8k/gKr374WQK6/cwOPkMKJq9gxJTQTcgxgp8Ewxs/yXLzMaKNhASrK+yj9IHX3lREz7kkm+7KrkqqsBS5sk/7L+pddZrZKrsVqMNc1ELccHQn4QcX6i6RHx93dynY2AzS0Qfz6obf8=;wztLkiLTo/Ro6fwrsJ1Y9A=="
 ---
 

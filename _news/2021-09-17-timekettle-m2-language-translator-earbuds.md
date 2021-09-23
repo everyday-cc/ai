@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Timekettle M2 Language Translator Earbuds"
-excerpt: "Timekettle has launched the next-generation Timekettle M2 Language Translator Earbuds with advanced features and capabilities. The Timekettle M2 Language Translator Earbuds provides support for 40 languages and 93 accents."
-publishedDateTime: 2021-09-17T14:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-timekettle-m2-language-translator-earbuds-/2021/09/17/9451547.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-timekettle-m2-language-translator-earbuds-/2021/09/17/9451547.htm"
+excerpt: "The Timekettle M2 Language Translator Earbuds provides ... Timekettle Technologies is committed to building a global brand of AI translator by integrating cutting-edge technology and innovative ..."
+publishedDateTime: 2021-09-17T14:02:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/timekettle-m2-language-translator-earbuds-301379337.html"
+webUrl: "https://www.prnewswire.com/news-releases/timekettle-m2-language-translator-earbuds-301379337.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1627492/product_picture.jpg"
-    width: 400
-    height: 247
+  - url: "https://mma.prnewswire.com/media/1627492/product_picture.jpg?p=facebook"
+    width: 969
+    height: 508
     isCached: true
 
-secured: "DkZt7uw5pg2ZJVC4DXmrDdmAFhiLvNpt0kdQfWKf8rRc23KnIk4jettieKJlQByiYKdexjnD0mo0tASp4y1eWVXlbqYvV6e+whEl/4sa98YCBshJQAuhx5gU/VXWNr5zdgebr4o7APMloe5XxIc5bb7rHmhWgS9AQMF0txrJPVahQWhoeEdEq0JBQfFDOh4qMGqaghDTAdPhum4V1/jZLz+35RipwCyhuvhIKRbqTEgatQ1MR3bGtdiq/YPlO6NWPNJVRpIdE6Rh54HYNb1L0HyjRoZBL0DS7Swcmf9FoT3iksTudIdefgUH0GD7cjQ64QjYZ1zQjHrXI3YvNCXtuEH9F311CmHkv88YnP2SocM=;gmsnbKP+l0iUiC6RVN54qA=="
+secured: "TiG5+dSCG5Shq3HJi/A7GQKFCjDmulmfRqooGFnqLF59QlXVYVMuR4Gtt2oW2A+9xzvpAjF2fz0Wzeh59pbmCZ36QE++J8C5g1FXRGTNmpzLx1NPqy4JokK9qNAfZBBmznNiHSzVMb6+9KrO2lkgTvb7/FoBch8JUvccfkgh+6Kzy+UwyjFRLwp51WM96MawKCWuysP7EQzJKHihImi3EA/Fk+PV9uTYQeO/iGDKS78FF40UyiSS088w1kPpbTmeNn3TIG5/MqLURSxKngqAH4nO6nJ4LKmNVzhz9CwMdzexUYwnk6qWnP//N9cWSsuM1iXDk3f8yaoM8JFXslFqWw7HNKpB/JT3V8TIU2zBoaw=;XmiZbhPrLbkjFMe3uNyRlA=="
 ---
 

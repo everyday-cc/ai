@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2021/09/20/the-next-healthcare-revolution-w
 webUrl: "https://techcrunch.com/2021/09/20/the-next-healthcare-revolution-will-have-ai-at-its-center/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/9.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Microelectronics And The AI Revolution"
+    excerpt: "The recent AI Hardware Summit showcased trends in AI/ML, both in enabling and using it in various application domains, including EDA. As part of the summit, Imec had organized a panel on “Advanced Microelectronics Technologies Driving the AI Revolution."
+    publishedDateTime: 2021-09-23T07:03:00Z
+    webUrl: "https://semiengineering.com/microelectronics-and-the-ai-revolution/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 39
+    images:
+      - url: "https://i2.wp.com/semiengineering.com/wp-content/uploads/Cadence_microelectronics-and-AI-revolution-fig1-AI-Use-and-Enablement.jpeg?fit=640%2C289&#038;ssl=1"
+        width: 640
+        height: 289
         isCached: true
 
 secured: "pYFWjfvN10iqQel6QfEx/kL42LvV/SSeqCg2jcLYfPksMA065O0QWEb5U5UW9xUrLb6sf+mHxukv4NcXOH0iqWW0NdCpabeecyyofY6Jm93/RJn5boCV1p0SKQ6p8sxlhT62/SMCE6hwkGqOLf2rpmDPYSzGdI8WKhEeiYOz5UUWVrALnz2niol8bltfGBACY0Jhywh0g0vamO74xp0SkpCv9CwhWF+swDNCMEWXCb2UM1uyvDRM6l7ovHonC/GoBNGNF4qIKYYcntOnz3bdK7amocL8T1K6lkf3fUDnieGHKEfscWsppYPqBD8ymem4CkrnWOt67TqBzX957ALxr5IlB2l7dY/bFay6ZQDRBGdoRUmIq779jjnhZXrqVYtOCb7HvGKSCwojSOJBIL6o6oJ6Qqu0w/8gKPC+V8DnYnI3sQ+MqgNM1fV5z/nVOLgFVlMFPcgLp+sHHeGTEgThxA32uOHOzQroktHNrLZpsLNps/h+oQucJGJt/13bx2q0Fzsz5hfJqJICVvCLB1MXyA==;OZ1+f1d/1WvMcXQ8Q4Zu8A=="

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Share India set to disrupt algo-trading and fintech industry with two strategic acquisitions"
-excerpt: "Share India Securities Limited has announced the acquisition of two companies, namely - Algowire Trading Technologies Private Limited and"
-publishedDateTime: 2021-09-23T05:25:00Z
-originalUrl: "https://theprint.in/ani-press-releases/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions/738473/"
-webUrl: "https://theprint.in/ani-press-releases/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions/738473/"
-ampWebUrl: "https://theprint.in/ani-press-releases/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions/738473/?utm_source=JioNews&utm_medium=referral&utm_campaign=JioNews&amp"
-cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions/738473/?utm_source=JioNews&utm_medium=referral&utm_campaign=JioNews&amp"
+excerpt: "Share India Securities Limited has announced the acquisition of two companies, namely - Algowire Trading Technologies Private Limited and Utrade Solutions Private Limited."
+publishedDateTime: 2021-09-23T06:30:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions-121092300443_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions-121092300443_1.html"
+ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions-121092300443_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions-121092300443_1.html"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: ThePrint
-  domain: theprint.in
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://static.theprint.in/wp-content/uploads/2021/09/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions.jpg"
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/23/full/20210923112459.jpg"
     width: 600
     height: 450
     isCached: true
@@ -73,6 +73,20 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Share India set to disrupt the algo-trading, fintech"
+    excerpt: "Share India Securities Limited has announced the acquisition of two companies namely - Algowire Trading Technologies Private Limited and Utrade Solutions Priva"
+    publishedDateTime: 2021-09-23T06:28:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271265988/share-india-set-to-disrupt-the-algo-trading-fintech"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1632378030.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Worldwide FinTech Industry to 2026 - Featuring Affirm, Betterment and C2FO Among Others"
     excerpt: "Technologies, Applications, and Services 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. This report provides a comparative analysis between legacy financial systems and emerging"
     publishedDateTime: 2021-09-21T15:07:00Z
@@ -106,6 +120,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "NWBFead02iycvYX+f8M/GkwuXPe5Qzlq7QNc2kGDHHLjUV+vfEgQq1Ey09iDoDUkya9i5PPaOi5aNLP4MsP8IThyK0Mib26n6qEcyJexXtw5oy4go3vHfOL6YYJJdlMDTyVaHsxuf2+CcDt5tdprFtua03dRrOsUgvu0qPyrd4QtZVwIwTMI8qjUjEkHdh8Yz9oanzxCaNURpYGrEnKuO/QpFoKkaAhDmqQppEY1rwG1TyLt5y2q8pxvWCFWIrJnpcd2giB3sHzdxG00qBc8QF4FDi4JsfFoPsM6YsG7PqoqbihX6dipJ3jlHMYVXDblc0Hd2bGe7nL2hEZo8VA/qDbUdReWp2Rqz091xq0Hwiw=;9vWi5iWP3ju5fYXXReR6Hg=="
+secured: "9xu85McDwsmedaXQNbI/xx7haWjT8fmTpZD5OXYYTzRfaHeRCwvzL43Sy3WQ/zfgGPMzCLwKmXDn8fw6Yiuhc/scOknhE3gYW0HU9NPvt/bLdft3iS3xB04UUtbovFfpvgUowMX7GyA7aaLwnZkBweLbIcvupbAArtHoiKXa7JhZSf61xSN16fSY3WIfmOOwKZyGRK1LnrW+sGSsF2I+eeBI483Qp3vkOgKUaXk8OH26fPf11Y3ckB0rDznJRJzILaP6nqzBe5aRSZ1uFf7mY9mr+u5e1poVf/qRRdn5CsxPhRYyZONB0Drd+eJ3iHK81xbGoFNGcbq/0Fiut/vfnWhF3TjfH6xJPKyWQPcHx54=;4Bn2SE6r5x/Y5cb6GqyswQ=="
 ---
 

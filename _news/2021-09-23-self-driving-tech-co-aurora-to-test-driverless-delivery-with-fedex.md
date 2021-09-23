@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Self-driving tech co Aurora to test driverless delivery with FedEx"
-excerpt: "Self-driving technology company Aurora will begin piloting trucks loaded with its software this week to haul goods for U.S. package delivery firm FedEx Corp between Dallas and Houston, albeit with a safety driver."
-publishedDateTime: 2021-09-23T03:44:00Z
-originalUrl: "https://www.channelnewsasia.com/business/self-driving-tech-co-aurora-test-driverless-delivery-fedex-2195341"
-webUrl: "https://www.channelnewsasia.com/business/self-driving-tech-co-aurora-test-driverless-delivery-fedex-2195341"
+excerpt: "Aurora, which is led by former heads of self-driving programs at Google, Uber and Tesla Inc, added on Wednesday it is aiming for trucks without a safety driver by late 2023."
+publishedDateTime: 2021-09-23T06:38:00Z
+originalUrl: "https://www.thehindu.com/sci-tech/technology/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex/article36623586.ece"
+webUrl: "https://www.thehindu.com/sci-tech/technology/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex/article36623586.ece"
+ampWebUrl: "https://www.thehindu.com/sci-tech/technology/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex/article36623586.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex/article36623586.ece/amp/"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
-    width: 1200
-    height: 676
+  - url: "https://www.thehindu.com/sci-tech/technology/n41f8c/article36624583.ece/ALTERNATES/LANDSCAPE_615/aurorajpg"
+    width: 615
+    height: 384
     isCached: true
 
 related:
@@ -148,6 +150,6 @@ related:
       domain: dallasinnovates.com
     quality: 14
 
-secured: "DY54f7UcS1CK6mEvSFFlpBO7qvd5k8CvGKm6aO4AVqUP84jOuF2/NQE1AKQb6HWO7znQMz+bkJve8hERVOZOqvoVxehTB639kCYbGi7rrDCYGc3xW0qC7KFkM8jA7XbwQ7p2nkrEmmo+HQKF/0msxRLOKopoiyoB8FT4bhLXurTQtASdri/FKf8UqPUGmjbUD61+6lkL8c+Fu+YDcbozHnBhRWhdiCmsfa0tV2IJgtuC6bNnx08g+0tKtFzc1Ll2FHA98WElZPNIFnSYfS8Wy3StDa0pOM5ZR7/nO1pFo6rPCfXaIsn/4emUdtWpyhug4rzpuCFAXf5NJIodmKF9K/NCT4iVIEL0ItV/Ee7s2nl/MyQs0+k5HemvEZ6xWnjtinYskIgejv2kZF2CiF8H6KgEqaZwcdx8jyXM2M9RGgdLCsRaRMryXmYVS5ZvPEK+OKrlvflxGIJIeuXyevGXj8g8fb8ITpXoiG3UOQFCANmv3oFQjqU0N8hRpgRh8WYS+6tJ9fo+cZk1fRZYOTXoog==;nFHx3tVWE2wm8LRJQ0Va6g=="
+secured: "iMM1e6eXcwl3mW/Oc9mv/qS7b9Vh+gmppBmWTi0FdX1jWvcHx/WBAj51AnX2gM84K/mR//uaf8vX76bf5v5i55furc1aaffOznQL04jZn0l7gPc8sRKgy69M9xN7DF9JQ9Qcy7cRwME/rhI6sJA+3P9MGepFqUXMqLFwkWYsK/coafe97DZtmqSGgWAzqhqaE4zD+lgZ2TqRRL9fU9PWOsr5rHzjGm31MOYrETM5GRJMMTaDtP50rsx6/9qZ1KV54OA5nvAEiThRGa3K/7tebsV7MxHBl8tecTcOR4HlqYtTMEergUze6t6kkTOGN97BZ0gN5kmgkBL1ZY/zHzxTA1cdrASS15g7dOjdPDxgovs=;WH3B5cor8jEvzZbHd2CRdQ=="
 ---
 

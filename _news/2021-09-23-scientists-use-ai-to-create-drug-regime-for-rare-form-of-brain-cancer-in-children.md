@@ -2,9 +2,9 @@
 category: news
 title: "Scientists use AI to create drug regime for rare form of brain cancer in children"
 excerpt: "Hopes that breakthrough marks new era where artificial intelligence can develop treatments for all types of cancer"
-publishedDateTime: 2021-09-22T22:09:00Z
-originalUrl: "https://www.theguardian.com/science/2021/sep/23/scientists-use-ai-to-create-drug-regime-for-rare-form-of-brain-cancer-in-children"
-webUrl: "https://www.theguardian.com/science/2021/sep/23/scientists-use-ai-to-create-drug-regime-for-rare-form-of-brain-cancer-in-children"
+publishedDateTime: 2021-09-23T02:37:00Z
+originalUrl: "https://www.theguardian.com/science/2021/sep/23/scientists-use-ai-to-create-drug-regime-for-rare-form-of-brain-cancer-in-children?bingParse"
+webUrl: "https://www.theguardian.com/science/2021/sep/23/scientists-use-ai-to-create-drug-regime-for-rare-form-of-brain-cancer-in-children?bingParse"
 ampWebUrl: "https://amp.theguardian.com/science/2021/sep/23/scientists-use-ai-to-create-drug-regime-for-rare-form-of-brain-cancer-in-children"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2021/sep/23/scientists-use-ai-to-create-drug-regime-for-rare-form-of-brain-cancer-in-children"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 649
         isCached: true
 
-secured: "tp+RTDzVl7GQVg3cZszmJ1fVnC/eZcnqvPg19x6pK3mnxF4pbwxdPJtjUZNFo4zjzIrxtty3bFkGmk9rMNyORU68mmxQSHJow3zRKAA2GqGTv8fJcXy8NUDH1WaABIG1f93RZc4H0s0fvqNAt/knT72f38pv257N+bLoADAVIcDoyfnM4UfetNfuJFBzd3+Q9Jcejqn+3uYVfRtSl5bx2z9RL1nzIBxXjQwF6Q290PP9Z8XPXeGiSe/GPveaykmXtM8isDm0letpigTP5iYEMrzIQE+fuiXTddcWiADUX72YorOqsR3Uz0KwZR3IEH0IJFIgEU5ulw5ueQ54rhJmadVxB2RWJA5vOCEKsGKCKHEvhQOD2vbHtnjzsym4CdsgtAxgZ2rV4Bips6mjIZ1+ulG8yGtUGxttoPnIizqMdewm6aaV149Qin7sMmah24s1IW9vF+k/DfEjWwcQx9WOBKJMLTdn0Dywp42enxUcpjWBftTUtegnuD7B8zf2sjsHbXO786APIpbalfRHhpnL8w==;5WAh3pUZmnvFJvMZIX/FjA=="
+secured: "kxzEs23N05pC/yJKBFTwOo/GTYlLUGyhFw0IzxoYhdAgYCW5mZpdUIdTUefB+GFJ7yd+PLS4IaV2rssje2fTBFfZ85o2HVlZ8zHJF9atXQnWSBAxbZhGR3+60Y4Q7SNT3iefqnFJZv91n6Gq9Id5FYnw+rObfuxM1WDrOMWVDIMEJiFZXZu5SriulyXiKWRcFE0zWL/vZkTe57QjOWumF9uK9nWDvEokGCgHkoe9X6zgfMXdz1kjhPudRuzFj96ftbcMn+04dqZEvdU62EDFW+LrEALVf1WZwaN8x8vREAeaOhTkNFBkOC+K1vHTZeDHd8t++anP803/FI9Uf0hH4umoroqS/Vw4KQhU2XjH3OI=;FC5Y0Nq0sYz6TZBgycW2tg=="
 ---
 
