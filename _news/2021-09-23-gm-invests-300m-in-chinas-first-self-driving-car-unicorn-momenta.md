@@ -153,6 +153,20 @@ related:
         width: 1000
         height: 1000
         isCached: true
+  - title: "Tesla Eyes Samsung to Produce Its Next-Generation Self-Driving Auto Chips"
+    excerpt: "Tesla is in talks with Samsung to make its HW 4.0 chips based on the Korean tech giant's 7-nanometre chip production process. Samsung is expected to win the Tesla new chip deal over its competitor, the semiconductor company TSMC."
+    publishedDateTime: 2021-09-24T20:04:00Z
+    webUrl: "https://www.autoevolution.com/news/tesla-eyes-samsung-to-produce-its-next-generation-self-driving-auto-chips-170200.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 38
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-eyes-samsung-to-produce-its-next-generation-self-driving-auto-chips-170200_1.jpg"
+        width: 1240
+        height: 620
+        isCached: true
   - title: "GM Invests $300 Million in Chinese Autonomous Driving Startup Momenta"
     excerpt: "U.S. automaker General Motors Co said on Thursday that it would invest $300 million in Chinese autonomous driving startup Momenta to develop self-driving technologies for future models in China. In China,"
     publishedDateTime: 2021-09-23T05:37:00Z

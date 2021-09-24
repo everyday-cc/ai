@@ -2,24 +2,28 @@
 category: news
 title: "Artificial intelligence may be set to reveal climate-change tipping points"
 excerpt: "Researchers are developing artificial intelligence that could assess climate change tipping points. The deep learning algorithm could act as an early warning system against runaway climate change."
-publishedDateTime: 2021-09-23T14:53:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/09/210923082933.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/09/210923082933.htm"
+publishedDateTime: 2021-09-23T07:32:00Z
+originalUrl: "https://phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.html"
+webUrl: "https://phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.html"
+ampWebUrl: "https://phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.amp"
 type: article
-quality: 45
-heat: 45
-published: false
+quality: 55
+heat: 75
+published: true
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/climate-change.jpg"
+    width: 2880
+    height: 1920
+    isCached: true
 
 related:
   - title: "Artificial intelligence could reveal climate change's tipping points, act like early warning system"
@@ -55,6 +59,6 @@ related:
         height: 382
         isCached: true
 
-secured: "zKJ7R+xUbOqejJXB7DrLboHVE0GYEgjbtOMX+FMUt5qPaXDTrisz0xw6/iR0wyOqXZa+fKLSqLdw/R2EVFFCZXYUM1bvBZNTVtcEvO/1J9ETvPSayL86UGhIpG1v2yVrprkXxddB86e5rrnKV0K4E429XJT3x0tpr139pUFsazumcNtztjGZ5Y7SEp9O9sMTSvKJyElqTogtuVUTZahtcnnGGlxAe6tKgY+YpNiWj+tjlcKhMINKzaQyV9PP29rhs7fJLZsWrbRxmJ7WcRRmGXrbzGQBO3l1+rqeGsp0Y56XnLtOOlXT1AzKXbYTam4tkmLyDsmbgOmzO1RHcrTSTp9B94LJhypZegRlhUQBxn4=;7C6BM/8o4tLxwb1oZOTuaQ=="
+secured: "jX+L1sD2+r5sB3h/JpGyMw64eB+gX+KdBfWR2+pjf7pBriiSHhPAq8ArKf3ZMrJLk1zuQyxX1bUGyOV4H751tF34+qrJdmGR8rPdvFjIl5d0OJCNKDrglDfElbLKrR+/Yj9ekbsiQye8pYkFeo3PzIerQhbKC4hK2CjctzomavcaWi/XliHwUVjZsHxN2Vl8WtcMeGB8ZHTaXrMxRCyFSuvePBGM/0K/KC681fG2ijqIt+zQaSAWVjv/7bNQb9sWMQ0MXXKfE9qrH2e7KYLUgcnNWRdJdZzI1g1BqT7jBKHnirnXxFLordmOL99Sz2fUHcwIm/Ae7TJ6VP3Swjii5NU15OLKX2FcffOu/Patd28=;1Z74pAT5em1B5HjRWlth+g=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-09-14-facebook-takes-a-stab-at-true-speech-to-speech-translation-via-textless-nlp.md",
+      "title": "Facebook Takes a Stab at True Speech-to-Speech Translation via Textless NLP",
+      "excerpt": "Facebook sees textless NLP as making automatic speech translation obsolete by working in true end-to-end fashion: from speech input to speech output.",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/facebook-takes-a-stab-at-true-speech-to-speech-translation-via-textless-nlp/",
+      "originalUrl": "https://slator.com/facebook-takes-a-stab-at-true-speech-to-speech-translation-via-textless-nlp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slator.com/assets/2021/09/Facebook-Speech-to-Speech-Translation.png",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T01:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-artificial-intelligence-market-is-anticipated-to-expand-at-a-cagr-of-29-from-2021-to-2031.md",
       "title": "Artificial Intelligence Market is anticipated to expand at a CAGR of ~29% from 2021 to 2031",
       "excerpt": "Transparency Market Research delivers key insights on the global artificial intelligence market. In terms of revenue, the global artificial intelligence market is estimated to expand at a CAGR of ~29% during the forecast period,",
@@ -1030,49 +1073,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-whatsapp-for-ios-to-add-voice-message-transcription-feature.md",
-      "title": "WhatsApp for iOS to add voice message transcription feature",
-      "excerpt": "WhatsApp is developing a new feature for iOS users that will help those who don't like listening to long audio messages on the app.",
-      "sourceUrl": null,
-      "webUrl": "https://9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/",
-      "originalUrl": "https://9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/whatsapp-voice-message-transcription-feature-9to5mac-wabetainfo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/amp/",
-      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/amp/",
-      "publishedDateTime": "2021-09-13T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "9to5Mac",
-        "domain": "9to5mac.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

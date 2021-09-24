@@ -1,27 +1,32 @@
 ---
 category: news
 title: "Shark's Smartest Robot Yet Features AI Technology Similar to Self-Driving Cars"
-excerpt: "Consumers are on the hunt for products that do more for less, and the search for top-of-the-line yet affordable robots is no different. That's why Shark®, (HKEX: 1691.HK), the #1 brand in vacuums*, is excited to introduce its newest and"
-publishedDateTime: 2021-09-24T17:54:00Z
-originalUrl: "https://www.lelezard.com/en/news-20014769.html"
-webUrl: "https://www.lelezard.com/en/news-20014769.html"
+excerpt: "Forget about vacuuming for up to two months withShark's smartest and most premium self-empty robot NEEDHAM, Mass., Sept. 24, 2021 /PRNewswire/"
+publishedDateTime: 2021-09-24T17:58:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/shark-s-smartest-robot-yet-features-ai-technology-similar-to-self-driving-cars-1030822427"
+webUrl: "https://markets.businessinsider.com/news/stocks/shark-s-smartest-robot-yet-features-ai-technology-similar-to-self-driving-cars-1030822427"
 type: article
-quality: 50
+quality: 82
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
   - AI
+  - AI in Robotics
+  - AI in Autos
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://mma.prnewswire.com/media/1634664/Image_1.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -176,6 +181,6 @@ related:
         height: 501
         isCached: true
 
-secured: "iMoaWLeXsiT5SVdFW9eReDEtZQAZYgiso+aCE538614mdULTHPAdSEcF+Z237SMwJFXfNjhspHZb5xKz1snwvxraQvyCYrW2ZTqUvciwftCQrA0yIe2SySbFtD/U65x1ZrNi9c7sePu0vT9P0egue1bW+JBtQF/XQVp3l578d2yaJTEUq9aeNak8KHzuNZ4NENiaPb43TFWyzG0/UDMuTXDM7gfScahrS6kN/UwHodC3PbhofwB4dBjlTcHHfnC95VUurlMFfmdzYWSPfQ3HFwYty6hNJ15iLe8Y/V7sBnqb5X24hzE/PNPHEpFFdPyyI9cNTvtI8oPB1kQEA8NN+iUHj7VxWjljs/deQIHJ6yA=;8jGXDal2O0LLAD05YDFcDw=="
+secured: "UtgKRdjm+ZSFPBPPRvJ/bV7Ut0BTMMbcpV2ASzIuocK/Lv54uJrlglJl9Fjamzrm5xkIiUGIcda7QPdBIbWHx04b0UNdSprE+jxb033yrY+wzQD8toQJZ8JpltYleP83HeFcrwBgr2AiGunGA+Y/gNI4X2Dwu6lB2qpnCU6kAfV8z+/Nw1E7VeyI/D7WRVRzn0cOdVGznwyW+8wgC8iqlC1cvfKZ/voapiFS4gTk/Ct75MZh3dAi6aL+ukOlbuVG3m7q1F9r57WbYXH43PyI2kE5+S+OjfmGOqCdj45H10mAjNqYf5xBsrj5x2xaIxmXIiXm5xGV5WJvNrxO/indObFn0+hMUBYA48WPG1rsU04=;NCxYZ5X8ELkMxQLiqw192w=="
 ---
 

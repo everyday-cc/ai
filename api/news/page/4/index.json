@@ -2,6 +2,100 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-22-indian-buy-now-pay-later-startup-zestmoney-raises-50-million-from-australias-zip.md",
+      "title": "Indian buy now, pay later startup ZestMoney raises $50 million from Australia’s Zip",
+      "excerpt": "ZestMoney, a Bangalore-based buy now, pay later platform, said on Wednesday it has raised $50 million in a new financing round from Australia’s Zip as the Indian firm looks to cash in on a trend that is showing wider traction in several global markets.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/21/indian-buy-now-pay-later-startup-zestmoney-raises-50-million-from-australias-zip/",
+      "originalUrl": "https://techcrunch.com/2021/09/21/indian-buy-now-pay-later-startup-zestmoney-raises-50-million-from-australias-zip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/08/ZestMoney-Founders.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/21/indian-buy-now-pay-later-startup-zestmoney-raises-50-million-from-australias-zip/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/21/indian-buy-now-pay-later-startup-zestmoney-raises-50-million-from-australias-zip/amp/",
+      "publishedDateTime": "2021-09-21T22:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-artificial-intelligence-predicts-the-risk-of-metastatic-relapse-in-breast-cancer-patients.md",
+      "title": "Artificial intelligence predicts the risk of metastatic relapse in breast cancer patients",
+      "excerpt": "The RACE AI study conducted by Gustave Roussy and the startup Owkin, as part of the AI for Health Challenge organized by the Ile-de-France Region in 2019, was presented as a proffered paper at ESMO.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210921/Artificial-intelligence-predicts-the-risk-of-metastatic-relapse-in-breast-cancer-patients.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210921/Artificial-intelligence-predicts-the-risk-of-metastatic-relapse-in-breast-cancer-patients.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210921/Artificial-intelligence-predicts-the-risk-of-metastatic-relapse-in-breast-cancer-patients.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210921/Artificial-intelligence-predicts-the-risk-of-metastatic-relapse-in-breast-cancer-patients.aspx",
+      "publishedDateTime": "2021-09-21T19:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-machine-learning-with-microsoft-azure-ml-studio-without-code.md",
       "title": "Machine Learning with Microsoft Azure ML Studio Without Code",
       "excerpt": "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.",
@@ -1091,110 +1185,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-technology-is-a-double-edged-sword-in-the-face-of-repressive-regimes-opinion.md",
-      "title": "Technology is a Double-edged Sword in the Face of Repressive Regimes | Opinion",
-      "excerpt": "Tech companies must be willing to do all they can to prevent authoritarian regimes from accessing and using their services, even though what we see today is quite the opposite as the Taliban has full and easy access to Facebook,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/technology-double-edged-sword-face-repressive-regimes-opinion-1630225",
-      "originalUrl": "https://www.newsweek.com/technology-double-edged-sword-face-repressive-regimes-opinion-1630225",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1896900/people-hold-smartphones-their-hands.jpg",
-          "width": 3300,
-          "height": 2328,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/technology-double-edged-sword-face-repressive-regimes-opinion-1630225?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/technology-double-edged-sword-face-repressive-regimes-opinion-1630225?amp=1",
-      "publishedDateTime": "2021-09-21T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-oracles-new-digital-marketing-software-runs-on-ai.md",
-      "title": "Oracle’s new digital marketing software runs on AI",
-      "excerpt": "Oracle has unveiled a new system that will use artificial intelligence (AI) to help businesses automate digital marketing campaigns more effectively. Experts at the database software specialist have developed the system in an attempt to grab a larger slice of the cloud-based software market from the likes of Adobe and Salesforce.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/oracles-new-digital-marketing-software-runs-on-ai",
-      "originalUrl": "https://www.techradar.com/news/oracles-new-digital-marketing-software-runs-on-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/UhpgU7eT2dhfTc52jvyvM-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/oracles-new-digital-marketing-software-runs-on-ai",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/oracles-new-digital-marketing-software-runs-on-ai",
-      "publishedDateTime": "2021-09-21T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

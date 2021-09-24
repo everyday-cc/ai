@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/9/23/22689349/android-fac
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features"
 type: article
 quality: 68
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/6ol50ektyictzzac_1632454868.jpeg"
         width: 768
         height: 438
+        isCached: true
+  - title: "Keystroke tracking, screenshots, and facial recognition: The boss may be watching long after the pandemic ends"
+    excerpt: "Companies are increasingly turning to surveillance software tools as they consider permanent remote work policies."
+    publishedDateTime: 2021-09-24T14:29:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/09/24/remote-work-from-home-surveillance/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 19
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-23-2021/t_1f37886c6abf44fcb037e167c31f2efc_name_abril_worksurveil.png&w=1440"
+        width: 1440
+        height: 810
         isCached: true
 
 secured: "cMFMvaoBJidRfuJOngtesHPGQ+N78lP094nTvcREZcS8CTVPHwwKzj1Xw5pCfacwts+P1cW9S9Yqic6lBKFLyhxTsBrAie8RL1wBkgKvi1qPNeBSH/BkkWW5lIeKIDKOWBPARL0ECCMGGDpoO4VyzNAla3LCdL2U3A0pyNljeNgs/hh6QH6uvKpOym+uxSqyqI8TSvd0yFpCV0mWz5hXpX3uN6wAzKA3i828clN08CGsCeKhVVlqeO2dwvCEJlMR9QT9gsz89HZUaQbPY36OH8E3uNv1IX/xwURJGkybaQtOJhN8rZdVEJDwfOTL9x/a4M7bC452IuaG8oJYqg7z3parcngQpDzQG/Tahs4t+J+vSA7Wy1cgs+i0pyv96wmFj3dE/KbjqE0AfyPp4ALAzmBSfIL0cUkzrPsbk42GXd4JAyYJ9fQQwkKFRmif/YdLAHLnjt5uifrjdjPn90sWkTs0Ry1l07td8/46GDwPBQoHRAdwu2U1IgzTPlFd6yVnvgmbsc+1lfuuEkbdYX2+ZQ==;Po8Nl8h+ntL4Ac0wpTeaNQ=="

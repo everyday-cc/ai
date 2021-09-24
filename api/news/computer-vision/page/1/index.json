@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-25-scientists-create-ai-that-can-suggest-where-to-apply-makeup-to-fool-facial-recognition.md",
+      "title": "Scientists create AI that can suggest where to apply makeup to fool facial recognition",
+      "excerpt": "Researchers at Israel's Ben-Gurion University trained AI software to tell users where to apply subtle contouring to throw off facial recognition systems up to 98.8 percent of the time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10026371/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10026371/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/09/24/22/48356691-0-image-a-11_1632518646328.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10026371/amp/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10026371/amp/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html",
+      "publishedDateTime": "2021-09-24T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-explore-image-analysis-results-from-amazon-rekognition-and-store-your-findings-in-amazon-documentdb.md",
       "title": "Explore image analysis results from Amazon Rekognition and store your findings in Amazon DocumentDB",
       "excerpt": "When we analyze images, we may want to incorporate other metadata related to the image. Examples include when and where the image was taken, who took the image, as well as what is featured in the image. One way to represent this metadata is to use a JSON format, which is well-suited for a document […]",
@@ -63,7 +106,7 @@
       "originalUrl": "https://www.theverge.com/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1295,49 +1338,6 @@
       "provider": {
         "name": "WWLP",
         "domain": "wwlp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-boba-tea-startup-bobacino-looks-to-incorporate-facial-recognition-payment-system.md",
-      "title": "Boba Tea Startup Bobacino Looks To Incorporate Facial Recognition Payment System",
-      "excerpt": "The demand for low-touch concepts and solutions that align restaurant trends caused by the pandemic has led to much interest in Bobacino's business model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foodbeast.com/news/bobacino-popid-facial-recognition-payment/",
-      "originalUrl": "https://www.foodbeast.com/news/bobacino-popid-facial-recognition-payment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.foodbeast.com/wp-content/uploads/2021/09/bobacino-popID.jpeg",
-          "width": 800,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Foodbeast",
-        "domain": "foodbeast.com",
         "images": null,
         "publishers": null,
         "authors": null

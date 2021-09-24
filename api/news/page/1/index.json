@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-25-scientists-create-ai-that-can-suggest-where-to-apply-makeup-to-fool-facial-recognition.md",
+      "title": "Scientists create AI that can suggest where to apply makeup to fool facial recognition",
+      "excerpt": "Researchers at Israel's Ben-Gurion University trained AI software to tell users where to apply subtle contouring to throw off facial recognition systems up to 98.8 percent of the time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10026371/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10026371/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/09/24/22/48356691-0-image-a-11_1632518646328.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10026371/amp/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10026371/amp/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html",
+      "publishedDateTime": "2021-09-24T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-25-nvidia-lines-up-beefy-arm-cpus-to-target-x86-based-servers-touts-a100-gpus-for-ai.md",
       "title": "NVIDIA Lines Up Beefy Arm CPUs To Target x86-Based Servers, Touts A100 GPUs For AI",
       "excerpt": "NVIDIA is beating its chest over a round of benchmark runs highlighting the potency of its A100 accelerators paired with Arm or x86 hardware.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://hothardware.com/news/nvidia-arm-cpus-a100-gpus-x86-based-servers",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -639,7 +682,7 @@
       "originalUrl": "https://www.greencarcongress.com/2021/09/20210924-momenta.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1133,57 +1176,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-how-multi-skilled-ai-could-chart-a-path-to-human-like-intelligence.md",
-      "title": "How multi-skilled AI could chart a path to human-like intelligence",
-      "excerpt": "Multi-skilled AI is one of the latest buzzwords in computer science. The approach expands the senses of machines to support more flexible intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/can-multi-skilled-ai-make-machines-more-intelligent",
-      "originalUrl": "https://thenextweb.com/news/can-multi-skilled-ai-make-machines-more-intelligent",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FUntitled-design-1-3.jpg&signature=c25bdf710d08cc3132c33c33ee35707d",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-23T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

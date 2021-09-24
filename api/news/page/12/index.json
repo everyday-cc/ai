@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-09-14-peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insurance-industry.md",
+      "title": "Peak Fintech Acquires Heartbeat Insurance Platform and Brings Analytics and AI Expertise to Insurance Industry",
+      "excerpt": "All of Huayan's assets, including the Heartbeat platform, its employees and its operations will be transferred to Peak's Xinxiang Technologies Ltd. subsidiary (\"Xinxiang\"), which was created in the second quarter of 2021 specifically to help bring insurance related products and services to members of Peak's Business Hub.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210914mo05924/peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insurance-industry",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210914mo05924/peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insurance-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1625279/Peak_Fintech_Group_Inc__Peak_Fintech_Acquires_Heartbeat_Insuranc.jpg",
+          "width": 323,
+          "height": 235,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-robot-vacuums-are-learning-to-avoid-dog-poop-but-thats-not-all-they-can-see.md",
       "title": "Robot vacuums are learning to avoid dog poop. But that’s not all they can see.",
       "excerpt": "Robot's new robot vacuum uses a front-facing camera and artificial intelligence to deftly maneuver your home. However these tools require more data.",
@@ -1041,49 +1084,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-facebook-takes-a-stab-at-true-speech-to-speech-translation-via-textless-nlp.md",
-      "title": "Facebook Takes a Stab at True Speech-to-Speech Translation via Textless NLP",
-      "excerpt": "Facebook sees textless NLP as making automatic speech translation obsolete by working in true end-to-end fashion: from speech input to speech output.",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/facebook-takes-a-stab-at-true-speech-to-speech-translation-via-textless-nlp/",
-      "originalUrl": "https://slator.com/facebook-takes-a-stab-at-true-speech-to-speech-translation-via-textless-nlp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://slator.com/assets/2021/09/Facebook-Speech-to-Speech-Translation.png",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T01:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -39,20 +39,6 @@ related:
         width: 2048
         height: 1536
         isCached: true
-  - title: "CT town at forefront of national debate over facial recognition tech"
-    excerpt: "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning the use of facial recognition technology."
-    publishedDateTime: 2021-09-21T20:42:00Z
-    webUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php"
-    type: article
-    provider:
-      name: New Haven Register
-      domain: nhregister.com
-    quality: 41
-    images:
-      - url: "https://s.hdnux.com/photos/01/20/22/56/21048234/21/rawImage.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
   - title: "Conundrum of expectations: are courts prepared for challenges against facial recognition technology?"
     excerpt: "In the absence of frameworks for privacy and data protection, the existence of legislation dedicated to the regulation of State"
     publishedDateTime: 2021-09-20T12:27:00Z
@@ -66,6 +52,20 @@ related:
       - url: "https://www.theleaflet.in/wp-content/uploads/2021/09/Facial-Recognition.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "CT town at forefront of national debate over facial recognition tech"
+    excerpt: "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning governmental use of facial recognition technology."
+    publishedDateTime: 2021-09-21T18:13:00Z
+    webUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b"
+    type: article
+    provider:
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/22/56/21048234/21/rawImage.jpg"
+        width: 2048
+        height: 1536
         isCached: true
   - title: "Facial recognition cannot be a standalone authentication method"
     excerpt: "As more organisations look to facial recognition to improve their digital identity practices, they must remember that it cannot stand in isolation"
