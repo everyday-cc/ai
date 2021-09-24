@@ -41,6 +41,22 @@ related:
         width: 658
         height: 430
         isCached: true
+  - title: "Microsoft cloud storage: is OneDrive or Azure right for your business?"
+    excerpt: "Microsoft is one of the best cloud storage providers, and offers some of the best cloud storage for business too. But before you can dive into Microsoft cloud storage, you have to choose between two different products: OneDrive and Azure."
+    publishedDateTime: 2021-09-24T14:54:00Z
+    webUrl: "https://www.itproportal.com/features/microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business/"
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 74
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/BfraXjVhuhkKsL99SHZDmL-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft launches AI Eye Contact video call software"
     excerpt: "Microsoft’s artificial intelligence-powered video technology can correct one’s gaze in video calls to make one appear to be looking directly into the camera lens."
     publishedDateTime: 2021-09-23T10:13:00Z

@@ -53,6 +53,20 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "AP launches AI readiness survey for local newsrooms"
+    excerpt: "AP started surveying local news outlets in the U.S. to assess their readiness to adopt technologies that use artificial intelligence, a"
+    publishedDateTime: 2021-09-24T14:59:00Z
+    webUrl: "https://blog.ap.org/announcements/ap-launches-ai-readiness-survey-for-local-newsrooms"
+    type: article
+    provider:
+      name: Associated Press
+      domain: ap.org
+    quality: 37
+    images:
+      - url: "https://blog.ap.org//uploads/news/KF_logo-square.png"
+        width: 600
+        height: 600
+        isCached: true
 
 secured: "73JsNiXFJvbiizcmYzqYv67wnZ48t2W4el7ul7NJx3KJwQMJBYTea8cxh0O8UUtkLabJhRwEesg+RTPgDy1fwXWeHNPPyhkHWP29bynGTFiAbJvmqeDTEj9MaVZw421pPeWV6gUN61s2dvNpWU+R3ae32oH8s2JhIttBq+bV3VSw9PUd0FRQjFCHbWwZAuGx2iiOlznfMXn6Y3peOvp2eEkwPDOyx1BpD+ljZEh/yJOIwHlhN1S9tOMqDe84zKNb4OIqz1uc7Mhyom6m2VLdto8lhvbvh4EPs9/1+siIkscWszc//OGdAGOeS17A5YX9v8u+K12sBqhB1zrktDfp04ItfZZjGKAvTMf+ott1cdxFymfcdsLTIhgFNrYPVEG7TX46AwYdXVhe9xCAVb9eSCm5YT+avt06uvGmz/G9v57Skij3DSFFoFlzm5qUYwqem4Jz8djV9QMpWyQQopPRRTeguz3CpIc++mqftnN+lZpsgc3vsnKvO0VVc5qEdR+kI+1/TYuTDnNpzjmsvOmJAA==;ejYTk1IZ838a8FC7GBekpA=="
 ---

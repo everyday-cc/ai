@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/robots-and-machine-l
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process/"
 type: article
 quality: 94
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     width: 1200
     height: 801
     isCached: true
+
+related:
+  - title: "How AI Is Transforming The Software Development Process"
+    excerpt: "There are several ways artificial intelligence (AI) is transforming the software development process. According to recent reports, the worldwide artificial intelligence market is projected to reach over $340 billion this year."
+    publishedDateTime: 2021-09-24T14:41:00Z
+    webUrl: "https://www.techzone360.com/topics/techzone/articles/2021/09/24/450084-how-ai-transforming-software-development-process.htm"
+    ampWebUrl: "http://www.techzone360.com/topics/techzone/articles/2021/09/24/450084-how-ai-transforming-software-development-process.htm/amp"
+    cdnAmpWebUrl: "https://www-techzone360-com.cdn.ampproject.org/c/www.techzone360.com/topics/techzone/articles/2021/09/24/450084-how-ai-transforming-software-development-process.htm/amp"
+    type: article
+    provider:
+      name: Tech Zone 360
+      domain: techzone360.com
+    quality: 37
 
 secured: "TzNYK7ew+hhDe8KmlI1QDiiyGp75Gwbi2D5bLkhZ6smPN6tnGfiHqsVTj79/qiS1yG3qvmAKT/CKqs4ADsdLBx8K0bCriuSibtsKDWL+MD9ZvCJi365ZPkCGdFMJtqPfpFwytVr7ozFH276VRyaHIoMUfHxYMNC2XmjuPIlKoi34FF7f7t+1W4oGIT8f6ESQfaUwiYs1NLUjWVhXC3z5bwe6ztfzdXYA9edAuBaKKNialwnJyC00f21ss0r8XOwY1QAhNvaeSDORGr/QIXCc48lonu8gcTNEPkKavDS4SUW8nlS2/4/u1SAmfF/sN4umsEfRF0QADCuCNsX7fOCSlB5tclaNlpOfs8x7MBsWF8U=;B6p9e/LxFgmOIA5e151PUw=="
 ---

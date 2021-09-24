@@ -35,7 +35,7 @@ related:
     provider:
       name: Green Car Congress
       domain: greencarcongress.com
-    quality: 113
+    quality: 115
     images:
       - url: "https://media.gm.com/content/dam/company/img/cn/GMChina_QR_2021.png"
         width: 1128

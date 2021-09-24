@@ -33,7 +33,7 @@ related:
     provider:
       name: Green Car Congress
       domain: greencarcongress.com
-    quality: 113
+    quality: 115
     images:
       - url: "https://media.gm.com/content/dam/company/img/cn/GMChina_QR_2021.png"
         width: 1128
@@ -238,6 +238,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "VrUP3aJOPGmrgoo73pQrNWBvaJm/qIdr2kSFUvI1cejln+ePO0NHHmJDSpCqdoDdqLFS45r4gDNdVxzDLrwPS64HMNrDcfgL/5hF5Q26Da8rYKFwTvh5w9EkH8bDaUpePgl7wvfvnpGwDWtSkWMFZFC/BvKlXu6kLI1+AyNVE2QymdJU4rTIJz9k2kIpEd7MZG72E1LiXOcV+NVRUMVrxpGL8LwHHde4b+9bSY/mEKxfRuvL1jlDloVx8oJVd1Zg8ChGZf3U2O4Tk57dBz0QqoRsq9K/VEYyezpQMI2SrA1UhpnfhRlPaALT0E0zuZG8zXf3WMvJOzrxhK/D6I0ZrLAbThdsu5e2fePUOZhvKPM=;/mYbrFx3/MsXBAQEQNH1ng=="
+secured: "ofvK1U6CTW00OBI44OSQ393T7gzDx+g7wJJOjVIMt9r96FHAq3EEmEeuMzsKEEPvZ5S6ycjAnq0+rX3vryvtdSPBzY+4/2s8Ve8Ky3s8DeDk3nan9p+EjPFxYxchIzEfYgA2nfq+zkPvI30p46SO/fBfHFRnY1t8eFd5/Xu2WbekWitT710wnYNaMUk0t3rzjF/dyQhQxsVweRnvER6/5iFnvKDjuvf4CEcSJUoTlDyY+jTrbPSOTFwW32yDE//KCPia8qcQgwDUPSZWoU1k+YywCzUL/uRU/DFYq4GzkfO77c6d/IrNHDOaBKayrtoWfWOjEDDt+oHaKAyy3jmAHR1aHoR1Bdmdt9uAQBjE6yobrBeSCT8VjWHzcFZvlDIPyHXkxM0nns5x3nEP0Fsacxh9O/jsOcDFZndQG9UTtHcFcE+MfxgNXyaTZzgX2kCd9ASp0voGdK9i0WazdYzsnrmYI+x7Ggm2TFe3MWzkQ5oo86tZ4Ks/XQyXcy0pLuE6GNI+IsJ9ciayWLC0MZm7Gw==;ynPykdb/TX0GklJPUwUG6g=="
 ---
 

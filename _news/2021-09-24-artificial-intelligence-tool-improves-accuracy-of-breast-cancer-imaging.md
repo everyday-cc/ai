@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-09-artificial-intelligence-tool-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-artificial-intelligence-tool-accuracy-breast.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Medical Xpress
@@ -41,6 +41,20 @@ related:
       - url: "https://scitechdaily.com/images/Breast-Cancer-Ultrasound-777x518.jpg"
         width: 777
         height: 518
+        isCached: true
+  - title: "AI of breast ultrasound helps radiologists focus on cancer"
+    excerpt: "An artificial intelligence (AI) algorithm was able to significantly reduce false positives in breast ultrasound, potentially avoiding the need for one out of four biopsies, in a study published online September 24 in Nature Communications."
+    publishedDateTime: 2021-09-24T15:16:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=sup&sub=ult&pag=dis&ItemID=133582"
+    type: article
+    provider:
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 39
+    images:
+      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_09_24_15_57_9400_2021_09_24_ai_breast_ultrasound_clinical_image_social.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "QhBhY4X9Z9ox1npvassQX0R6wO6prNOdMjfONlMT11dJ0UiqgmYJ8w122vCcu/oq6B/+742B358z27nQvizpuLO4BBZzyqybtr86wNo9Zm1C1vyboytVzUo+5arqyaljkQt75XHMjQtqaPI0/+W0u4INXxT1EJyJc8Hj5Fy7/gSOgho88efthyOaHWGlb1yKUFvOTdUKh5BN88sEnkYEynaSISxYL1kMUF/ChAWQP7daatBE2lIVwMeam5+YjCl8AeLhR/gvSsZZ45D4DTHt/69CXlPwoODzCKmvIN3bb74l8Ws0OaHvIcnXcNh3HIMCIPV4nikBnPqj3sDtgJhtmz1DimaGtJ57KYy8jQYc+bk=;Oze99z82Clgnb0E/nvUmZQ=="

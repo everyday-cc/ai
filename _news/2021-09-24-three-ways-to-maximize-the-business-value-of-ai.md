@@ -3,8 +3,8 @@ category: news
 title: "Three ways to maximize the business value of AI"
 excerpt: "Don't get caught up in the AI hype, these three essential tips will enable you to rapidily deliver business value from your AI projects"
 publishedDateTime: 2021-09-24T11:32:00Z
-originalUrl: "https://www.thoughtworks.com/insights/articles/three-ways-to-maximize-the-business-value-of-AI-and-ML"
-webUrl: "https://www.thoughtworks.com/insights/articles/three-ways-to-maximize-the-business-value-of-AI-and-ML"
+originalUrl: "https://www.thoughtworks.com/en-us/insights/articles/three-ways-to-maximize-the-business-value-of-AI-and-ML"
+webUrl: "https://www.thoughtworks.com/en-us/insights/articles/three-ways-to-maximize-the-business-value-of-AI-and-ML"
 type: article
 quality: 37
 heat: -1
@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Exploring Artificial Intelligence in Healthcare Around the Globe"
+    excerpt: "HL7 International hosts a panel of AI specialists from around the world highlighting the different uses of artificial intelligence in healthcare."
+    publishedDateTime: 2021-09-22T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/exploring-artificial-intelligence-in-healthcare-around-the-globe"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 56
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-5845715201.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Join now the exclusive Parrot ANAFI Ai Early Access Program for Professionals!"
     excerpt: "Parrot, a leading European drone group, is pleased to announce today the start of its exclusive ANAFI Ai Early Access Program designed for professional drone operators. If you are a professional drone user or operator performing missions for your business or commercial activity,"
     publishedDateTime: 2021-09-24T08:24:00Z
@@ -96,6 +110,6 @@ related:
       domain: phys.org
     quality: 19
 
-secured: "3iMr/mUEqgQYyZ2l3NbXP8wtg2AK371tKmdouWzDaScmX3CNdq68SNMciREuAx56Fg9GZHrGhPFneSV3Dsy1jx++9Nw3qLhqohYLjZiOtBy0YYnBZ3qyWGZd62gaUrsr+vwqnMDvVBgtXjE069qZrMKDScKRQuOmVqu2gQ7FrUtgzyjo47vpSKQzLvPtRW0+sYdQZLrB68fRUrnG9T3rsEgcvKDzM4fCbW8glGkuqoBG+drMOe0dNQurUeV+hNo8hksPDpHUFiAa7PdJD3P5KboYBRnLkKaS5aRAidfebEY7BP2UnLt7ZtxhmTWVolMJ7vY0tBreidwWTukTAgwtFGK/DztnXQEILQxYn4DsTa+/X48jX1TmHm2XO9A4yV8LLM7fBjHB/QzVW2ypgDgU9WBmY+9u0zn8vbLbXgnqcGUebYmsXMlfBGO1T7nq9RxJXHMN4AZaqWIdd4Ujg3b+Q/Ql3MVc617tMNx9adMbchysj765XsrLHZZ8IE0MCgchY2pEw3sUO9MugOVv3TmIug==;S+qwtUK/8+zXKCJ49xDTpw=="
+secured: "Da82+W8LhE8q18a9OrBLZIiiA1LYgdMFHCU/C1dljdl95M+5PnJwPJw2MkS4TtJJcdbAjmEUcUAj17/gUpoR2c2Bgi3t1mEKXWdzxa0VKuMm9IxN/nY6R/qTCakHimNIQpkkkHKKBjG0c7ga6x3jIrxe/opP7ELXjFHDKIj6z3OlK6FIbKX4XyT7g/PRkgYLs3m6LNcBOoG0cLnSNG0NoZy52JAIf2mnDNv0KRS/wnVoul/l6zBItyM3H7OXEe+XyIK80Oo4FbBJLcbgVbfkfy/CB1yPIUm18j6EM5R9df6js8h/XNWCoaxbYkQtXfpZ+rO71DnlcQVosBDPUfiqahsV7pJJzVyaW4ew92FwA1g=;F8B32WiQ7eF9gRlpow0hEA=="
 ---
 

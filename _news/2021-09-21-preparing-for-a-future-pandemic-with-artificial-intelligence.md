@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Exploring Artificial Intelligence in Healthcare Around the Globe"
+    excerpt: "HL7 International hosts a panel of AI specialists from around the world highlighting the different uses of artificial intelligence in healthcare."
+    publishedDateTime: 2021-09-22T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/exploring-artificial-intelligence-in-healthcare-around-the-globe"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 56
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-5845715201.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Join now the exclusive Parrot ANAFI Ai Early Access Program for Professionals!"
     excerpt: "Parrot, a leading European drone group, is pleased to announce today the start of its exclusive ANAFI Ai Early Access Program designed for professional drone operators. If you are a professional drone user or operator performing missions for your business or commercial activity,"
     publishedDateTime: 2021-09-24T08:24:00Z
@@ -75,7 +89,7 @@ related:
   - title: "Three ways to maximize the business value of AI"
     excerpt: "Don't get caught up in the AI hype, these three essential tips will enable you to rapidily deliver business value from your AI projects"
     publishedDateTime: 2021-09-24T11:32:00Z
-    webUrl: "https://www.thoughtworks.com/insights/articles/three-ways-to-maximize-the-business-value-of-AI-and-ML"
+    webUrl: "https://www.thoughtworks.com/en-us/insights/articles/three-ways-to-maximize-the-business-value-of-AI-and-ML"
     type: article
     provider:
       name: ThoughtWorks

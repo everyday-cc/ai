@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/artificial-intelligence-uncovers-genes-of-i
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-uncovers-genes-of-importance-in-agriculture-and-medicine/amp/"
 type: article
 quality: 51
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning helps scientists pinpoint 'genes of importance'"
+    excerpt: "In a new breakthrough, researchers in the United States and Taiwan have developed a machine learning algorithm to more efficiently identify \"genes of importance\" in agriculture and medicine."
+    publishedDateTime: 2021-09-24T14:22:00Z
+    webUrl: "https://www.upi.com/Science_News/2021/09/24/machine-learning-crop-genes/7511632488535/"
+    ampWebUrl: "https://www.upi.com/amp/Science_News/2021/09/24/machine-learning-crop-genes/7511632488535/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/09/24/machine-learning-crop-genes/7511632488535/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 59
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/7511632488535/2021/1/16324917975275/v1.5/Machine-learning-helps-scientists-pinpoint-genes-of-importance.jpg"
+        width: 700
+        height: 466
+        isCached: true
   - title: "Machine learning uncovers \"genes of importance\" in agriculture and medicine"
     excerpt: "Machine learning can pinpoint \"genes of importance\" that help crops to grow with less fertilizer, according to a new study published in Nature Communications. It can also predict additional traits in plants and disease outcomes in animals,"
     publishedDateTime: 2021-09-24T09:00:00Z

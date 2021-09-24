@@ -241,6 +241,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Tesla's plans to test new 'self-driving' tech raises concerns"
+    excerpt: "Release plans for #Tesla's \"Full Self Driving\" features has local transportation agency concerned over driver safety. #SiliconValley #SanFrancisco #selfdriving"
+    publishedDateTime: 2021-09-24T14:23:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/09/24/teslas-planned-test-of-new-self-driving.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
   - title: "The National Transportation Safety Board thinks Tesla should pump the brakes on full self-driving"
     excerpt: "Jessica Homendy, the chair of t (NTSB) had some strong words for Tesla in an interview in The Wall Street Journal. Essentially she warned Tesla to deal with “basic safety issues” before rolling out their “full self-driving” (FSD) mode to more drivers."
     publishedDateTime: 2021-09-20T15:22:00Z
@@ -298,6 +307,6 @@ related:
         height: 480
         isCached: true
 
-secured: "TX+KcNwaq6gAzJqm1eiScPJQBAV1YmujE2oqBQ7sujno+rUXkDJ1I0myGZf6ZD87YXRFl3oZU8yTlm3w0Gd8ooY1kDSa06iaOIo8fq/XikmMvNCGDFRHIZLcsKbysmnSTVuzogqf47+Zh5SIMMKtkXAGSCq+xzS6sAflH1ejXttsjKy9ZkUhVlezPH03pcxWk4+IiJ/rpiGtrZ/cQuBdIR4TysP3Zj4LEuqdv08UuDK+F0jlppM0ke/O4+mbIvA0n3SQ+TppjY9WeD9elc1DLb6cUzpXAppfNIfVMMUnt4nSsMorv53UQvrE5uJ1mkI7M//kB4hHMhl6TR2JCm+ns7CYuJS68G8NhW6ttABEQX0=;GMX/ub8IHSyoNQoGJOYvFw=="
+secured: "NY33MU0JQofhcQXU8Se1vsQPifppgfBL8CjOKVOIKxZ5cGt30BGF8AOXPk3nY4rYlvRVk3PSz0kslhlYP+qP2tkm24nXCjH4ZQmftiBP94XkKStJ/NxM0VAqXKBxvLUtWRyCJVQGuwz7B5JG07hsYj0w7kpX3CNmq7pvrcKjJRO0/K8834fFkTA7xsewCJvqI6/4NLSnVFIj7q0WpcQ7RThwUPXYTSENB5gPL5FUew0/4eBvZZnX8tjOZK130tseNt9afUtBCN68XEvzGf4oqq0hF4TvCi5yD1HjOv6kXxv1uN3X3/8B7FRsvglz38ZXPf3UBUonhvBkBfdH0Iql8MtXfzj/qCwMheYteTdivtg2JxEUzPfEtH9v9Ilp4WOFBg1aK0AJtqaoQ6DLxx/p9GCkh4qDC9wyWS0CCIEf+6seuzyRm1505yDxZbWvrWtE54MQBHYvRNBnYk0x8yc+Zij+k2nNiMoL2XNYpqbZdD9h7ag0ld/tn+L7XDdN+Sri+Shk+w1E403HoZwYVW9Lsg==;81MRJ1HvngDV67Z9xiNIwg=="
 ---
 

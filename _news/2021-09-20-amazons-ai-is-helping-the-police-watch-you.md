@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 747
         isCached: true
+  - title: "Taking The Magic Out Of AI"
+    excerpt: "Guaranteeing fairness in AI is not easy but being intentional about the standard that any company sets for itself is a good start."
+    publishedDateTime: 2021-09-24T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/carolinamilanesi/2021/09/24/taking-the-magic-out-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/carolinamilanesi/2021/09/24/taking-the-magic-out-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2021/09/24/taking-the-magic-out-of-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614d390b7fd2efccee159f71%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1203%26cropY1%3D2%26cropY2%3D679"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI-enhanced system enables doctors to spend less time searching for clinical information and more time treating patients"
     excerpt: "Electronic health records have been widely adopted with the hope they would save time and improve the quality of patient care. But due to fragmented interfaces and tedious data entry procedures, physicians often spend more time navigating these systems than they do interacting with patients."
     publishedDateTime: 2021-09-23T12:44:00Z

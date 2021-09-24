@@ -1,0 +1,307 @@
+---
+category: news
+title: "Tesla's plans to test new 'self-driving' tech raises concerns"
+excerpt: "Release plans for #Tesla's \"Full Self Driving\" features has local transportation agency concerned over driver safety. #SiliconValley #SanFrancisco #selfdriving"
+publishedDateTime: 2021-09-24T14:23:00Z
+originalUrl: "https://www.bizjournals.com/sanjose/news/2021/09/24/teslas-planned-test-of-new-self-driving.html"
+webUrl: "https://www.bizjournals.com/sanjose/news/2021/09/24/teslas-planned-test-of-new-self-driving.html"
+type: article
+quality: 34
+heat: -1
+published: false
+
+provider:
+  name: The Business Journals
+  domain: bizjournals.com
+
+topics:
+  - AI in Autos
+  - AI
+
+related:
+  - title: "Tesla is in talks with Samsung to produce its next-gen Full Self-Driving chip"
+    excerpt: "According to a new report from Korea, Tesla is currently in talks with Samsung Electronics to produce its next-gen Full Self-Driving chip. The new chip is expected to first launch in the Tesla Cybertruck next year."
+    publishedDateTime: 2021-09-23T15:03:00Z
+    webUrl: "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/"
+    ampWebUrl: "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 103
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Screen-Shot-2019-04-22-at-2.48.54-PM-e1568302212821.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Tesla Full Self-Driving: An overview of how it works"
+    excerpt: "If there is one piece of technology that's pretty optimistic, it's Tesla's Full Self-Driving system. There are no self-driving cars on sale today, despite what \"FSD\" -- as Tesla owners and CEO Elon Musk refer to it as -- promises."
+    publishedDateTime: 2021-09-22T11:00:00Z
+    webUrl: "https://www.cnet.com/news/tesla-full-self-driving-overview-cost-investigation/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-overview-cost-investigation/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-overview-cost-investigation/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/bOyPv1h-UlqYl-el3hHcBa2WShc=/644x362/2017/03/14/e743e9be-1c54-4dd3-9583-248dd3e54e34/amp-placeholder.jpg"
+        width: 644
+        height: 362
+        isCached: true
+  - title: "NTSB says Tesla’s Full Self-Driving beta is ‘misleading & irresponsible’ ahead of wider release"
+    excerpt: "As Tesla is moving to release its Full Self-Driving beta software to its US fleet, the automaker is facing some pushbacks from US regulators. Now the NTSB is calling Tesla’s approach “misleading and irresponsible."
+    publishedDateTime: 2021-09-20T13:08:00Z
+    webUrl: "https://electrek.co/2021/09/20/ntsb-says-tesla-full-self-driving-beta-misleading-irresponsible-ahead-wider-release/"
+    ampWebUrl: "https://electrek.co/2021/09/20/ntsb-says-tesla-full-self-driving-beta-misleading-irresponsible-ahead-wider-release/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/20/ntsb-says-tesla-full-self-driving-beta-misleading-irresponsible-ahead-wider-release/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 77
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Samsung in talks with Tesla to make next-gen self-driving chips -Korea Economic Daily"
+    excerpt: "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday."
+    publishedDateTime: 2021-09-23T15:56:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/samsung-talks-with-tesla-make-next-gen-self-driving-chips-korea-economic-daily-2021-09-23/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 77
+    images:
+      - url: "https://www.reuters.com/resizer/WvidrcP5l2WCxHpUqCwZpUom3cQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FKIHL5J22BM6LM73QL4MWKOOG4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Samsung in talks with Tesla to make next-gen self-driving chips"
+    excerpt: "Tesla and Samsung have discussed chip design multiple times and exchanged chip prototypes for Tesla's upcoming Hardware 4 self-driving computer, the Korea Economic Daily reported, citing sources with direct knowledge of the matter."
+    publishedDateTime: 2021-09-23T13:55:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips/articleshow/86457352.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips/amp_articleshow/86457352.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips/amp_articleshow/86457352.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 76
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-86457352,imgsize-14054,width-800/86457352.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "NTSB Tells Tesla To Tackle Basic Autopilot Safety And Stop Misleading With Full Self Driving Claims"
+    excerpt: "Despite labeling its $10k option as Full Self Driving, NTSB head Jennifer Homendy thinks that Tesla is putting the cart before the horse."
+    publishedDateTime: 2021-09-20T14:08:00Z
+    webUrl: "https://hothardware.com/news/tesla-ntsb-safety-autopilot-full-self-driving-autonomous"
+    ampWebUrl: "https://amp.hothardware.com/news/tesla-ntsb-safety-autopilot-full-self-driving-autonomous"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/tesla-ntsb-safety-autopilot-full-self-driving-autonomous"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 75
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/56277/content/tesla_model_3_interior.jpeg"
+        width: 708
+        height: 398
+        isCached: true
+  - title: "Tesla Negotiating With Samsung To Produce Next-Gen Full Self-Driving Chip: Reports"
+    excerpt: "A joint project between Tesla and Samsung, which aims to create a full self-driving (FSD) chip is currently under negotiation, according to reports. The said chip, which will be produced by the South Korean electronics giant and designed by the American electric vehicle company as per Electrek,"
+    publishedDateTime: 2021-09-24T12:00:00Z
+    webUrl: "https://www.ibtimes.com/tesla-negotiating-samsung-produce-next-gen-full-self-driving-chip-reports-3303284"
+    ampWebUrl: "https://www.ibtimes.com/tesla-negotiating-samsung-produce-next-gen-full-self-driving-chip-reports-3303284?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tesla-negotiating-samsung-produce-next-gen-full-self-driving-chip-reports-3303284?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/06/electric-car-maker-xpeng-is-chasing-market-leader.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Samsung in talks with Tesla to make next-gen self-driving chips, says daily"
+    excerpt: "Samsung Electronics' semiconductor plant in Hwaseong produces 7nm chips. SEOUL: Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process,"
+    publishedDateTime: 2021-09-23T16:41:00Z
+    webUrl: "https://www.carsifu.my/news/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-says-daily"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 69
+    images:
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2021/09/Samsung-Foundry_New-EUV-Line_main.jpg"
+        width: 880
+        height: 548
+        isCached: true
+  - title: "Tesla Starts Judging Owners It Charged $10,000 for Self-Driving"
+    excerpt: "Tesla Inc. customers to get access to driver-assistance technology the company has marketed in controversial ways -- as long as they’re on their best behavior. Chief Executive O"
+    publishedDateTime: 2021-09-24T13:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-09-24/tesla-starts-judging-owners-it-charged-10-000-for-self-driving"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iup7L8IXuFtE/v0/1200x883.jpg"
+        width: 1200
+        height: 883
+        isCached: true
+  - title: "Samsung in talks with Tesla to make next-gen self-driving chips -Korea Economic Daily"
+    excerpt: "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday. Since the beginning of this year,"
+    publishedDateTime: 2021-09-23T23:59:00Z
+    webUrl: "https://www.channelnewsasia.com/business/samsung-talks-tesla-make-next-gen-self-driving-chips-korea-economic-daily-2197401"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 64
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--2McE1zEU--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-09-23t115659z_1_lynxmpeh8m0fo_rtroptp_3_samsung-elec-leader.jpg?itok=q2wEFVqp"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Elon Musk only wants good drivers in Tesla's Full Self-Driving beta"
+    excerpt: "It seems that Elon Musk is tired of San Francisco tech bros sleeping in the back seat of their Teslas with Autopilot enabled. He really wants good responsible drivers to test the car maker's Full Self-Driving (FSD) beta."
+    publishedDateTime: 2021-09-23T07:01:00Z
+    webUrl: "https://www.tomsguide.com/uk/news/elon-musk-only-wants-good-drivers-in-teslas-full-self-driving-beta"
+    ampWebUrl: "https://www.tomsguide.com/uk/amp/news/elon-musk-only-wants-good-drivers-in-teslas-full-self-driving-beta"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/elon-musk-only-wants-good-drivers-in-teslas-full-self-driving-beta"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 59
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/YgUHsWEWfthGscTnET98nk-1200-80.jpg"
+        width: 1200
+        height: 641
+        isCached: true
+  - title: "Tesla drivers using 'full self-driving' Autopilot pay less attention to their surroundings"
+    excerpt: "Tech giant Tesla is due to launch the latest version of its Autopilot “full self-driving” technology to owners this autumn, but new research has revealed that the system could be making drivers inattentive to their surroundings."
+    publishedDateTime: 2021-09-21T15:10:00Z
+    webUrl: "https://www.driving.co.uk/news/tesla-drivers-fsd-autopilot-distraction/"
+    ampWebUrl: "https://www.driving.co.uk/news/tesla-drivers-fsd-autopilot-distraction/amp/"
+    cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/news/tesla-drivers-fsd-autopilot-distraction/amp/"
+    type: article
+    provider:
+      name: Sunday Times Driving
+      domain: driving.co.uk
+    quality: 49
+    images:
+      - url: "https://www.driving.co.uk/s3/st-driving-prod/uploads/2021/09/0x0-Model3_RHD_02-1024x638.jpg"
+        width: 1024
+        height: 638
+        isCached: true
+  - title: "How Tesla is Using Big Data: Benefits & Challenges of Big Data in Self Driving Cars"
+    excerpt: "Tesla is leading the electric vehicle race by relying on big data, artificial intelligence and the internet of things to outsmart its competitors."
+    publishedDateTime: 2021-09-20T14:38:00Z
+    webUrl: "https://www.bbntimes.com/science/how-tesla-is-using-big-data-benefits-challenges-of-big-data-in-self-driving-cars"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 48
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/How_Tesla_is_Using_Big_Data-_Benefits__Challenges_of_Big_Data_in_Self_Driving_Cars.jpeg"
+        width: 1920
+        height: 938
+        isCached: true
+  - title: "Tesla announces fully self-driving cars"
+    excerpt: "Tesla Motors announced Wednesday that its electric cars will be the first in the nation to all be fitted with the hardware they need to drive themselves. CEO Elon Musk announced Wednesday that the automaker’s Model S,"
+    publishedDateTime: 2021-09-20T12:43:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_tesla-nasdaq-tsla/tesla-announces-fully-self-driving-cars/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 39
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/29906170001_6004558551001_6004555585001-vs.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "U.S. investigator urges Tesla to fix self-driving concerns, report says"
+    excerpt: "Tesla's use of the term \"full self-driving\" is “misleading and irresponsible,” NTSB Chairwoman Jennifer Homendy told the Wall Street Journal."
+    publishedDateTime: 2021-09-20T15:25:00Z
+    webUrl: "https://www.autonews.com/regulation-safety/us-investigator-urges-tesla-fix-self-driving-concerns-report-says"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TeslaFSD-MAIN_0.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "The National Transportation Safety Board thinks Tesla should pump the brakes on full self-driving"
+    excerpt: "Jessica Homendy, the chair of t (NTSB) had some strong words for Tesla in an interview in The Wall Street Journal. Essentially she warned Tesla to deal with “basic safety issues” before rolling out their “full self-driving” (FSD) mode to more drivers."
+    publishedDateTime: 2021-09-20T15:22:00Z
+    webUrl: "https://knowtechie.com/the-national-transportation-safety-board-thinks-tesla-should-pump-the-brakes-on-full-self-driving/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 26
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/11/tesla-model-3-steering-wheel-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Tesla's 'Full Self-Driving' Isn't What Elon Musk Says It Is. Now the Government Is Calling Him Out"
+    excerpt: "The head of the National Highway Safety Board says Tesla should stop talking about 'full self-driving' cars until they can actually do that."
+    publishedDateTime: 2021-09-22T08:01:00Z
+    webUrl: "https://www.inc.com/jason-aten/everyone-knows-teslas-full-self-driving-isnt-what-elon-musk-says-it-is-now-government-is-calling-him-out.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 25
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1228322928_2000137620009280105_it6ch8.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "NTSB chief calls Tesla Full Self-Driving \"misleading and irresponsible,\" amid city-driving beta test"
+    excerpt: "The safety leader suggested that more regulation is needed to reel in Tesla's experiments with untrained beta testers."
+    publishedDateTime: 2021-09-21T12:00:00Z
+    webUrl: "https://www.greencarreports.com/news/1133637_ntsb-chief-tesla-full-self-driving-misleading-irresponsible-city-driving-beta-test"
+    type: article
+    provider:
+      name: Green Car Reports
+      domain: greencarreports.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/2020-tesla-model-3_100736264_h.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "U.S. Safety Official Calls on Tesla To Fix 'Basic Safety Issues' Before Expanding its Full Self-Driving Mode"
+    excerpt: "A top U.S. safety official is urging Tesla to address its “basic safety issues” before it expands its plans to introduce the much-discussed Full-Self Driving mode. Tesla says the Full Self-Driving package is designed to allow for short and long-distance trips “with no action required by the person in the driver’s seat."
+    publishedDateTime: 2021-09-22T02:30:00Z
+    webUrl: "https://hypebeast.com/2021/9/tesla-full-self-driving-mode-safety-issues-wsj"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 20
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F09%2Ftesla-full-self-driving-mode-safety-issues-wsj-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
+
+secured: "cT/5vVYxP1+nndJoAHap59hehyub3dBwZhgChjJO3RICFrkySLiTSkjdQyGrcWWdOaQWCLTFFwXvG0MS5REK5YMqevjdN7lq2KU9woSi72jact38Vl2e4Iuo6qFHBN2QgfVxurA86RDacm25c5jvLSxE5EF8SE71tHZKz4FyM7g3ubOA3H7nv/BMF0yRnJql9moWKBtOofvwkw7eKaQcjLNPP364RtgTtSoM3p4MwPx5Ji/l2HkfU/M2x2XDOsIAcbxwUBgAbURWrr+3XEnPf1e/BKY1TOY/f4uXrc70WUIznuCq9aC/iddKUF4xnbzJm4VY3ZDZn1V5brz6mBnPZ5K4RhjKnEP8inJTV7/1+9t/YXqWLXEARIY/pdkDMkb6W1OFrKzeUt4dFpP2Fib8C6a375iqXDo9Jpl/H1S7HRN2IWBl+XCcrYA3213ifofLRoVfw47wuZ3brvPPFYUAFKzJfKco2pQZv98P24ON890nVrcq+W4Q33sX+W0TQ6qlTe52bB2rg/lA/k0x8vabnw==;aeyOyrOWRYfD85JyVZTXkg=="
+---
+

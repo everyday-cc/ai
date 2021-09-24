@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-24T10:47:00Z
 originalUrl: "https://www.greencarcongress.com/2021/09/20210924-momenta.html"
 webUrl: "https://media.gm.com/media/cn/en/gm/news.detail.html/content/Pages/news/cn/en/2021/Sept/0923-gm.html"
 type: article
-quality: 113
-heat: 263
+quality: 115
+heat: 265
 published: true
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://media.gm.com/content/dam/company/img/cn/GMChina_QR_2021.png"
@@ -237,6 +238,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "pgEYurXzWKI/FKhrr0vvPqdxmFekudKACKGsOmqVBmbPiVHNSBVuEG4DyNxQ2qrqoxVQfIpPwbi+l1UUqO/7lY/xUpHbMByB5ur6x1PK1XNR33J5NtYeKUyXLuNVf9pm0tTLr3Atv7tvSafaY4KZ4ussZ0kBpWrmu3ZM+8Sv2OknzsGSgJsZxzI915OtZpRDi8wPbP5Gm0nvyNBmu8ZUHLTdrWPpQcWhL0sBLkV55h+YaJxA85Sho1wMMO+lWYQPznaB6d2XyiNXVa6oZ8COMiuxVts+8PV2iToj9OQD4CnfkyQOzJaWALfXZn0YyKhHeWj9bofoROENdFmkbs4PAGraO9oLmkWjIwnXbk24dSQ=;CH7/ViCdWpt4zGCC66H7zQ=="
+secured: "4JiUh1RcWN1/hsdbKNpG3GFun+DNP2PcUEh1I56vKI/rbMoMr7khGCcnCcsRYGxgalBGL4nyACNy86qoMIdUxd+fIBZvEHUkq5p5RPYcAk09CFt+bHWODYYcRweuI9Ce7VVEIF1ILL9CgIYdZa+DRUL0yLC43rYLtH903HfGuflpDn49Phb9p8oGYl98znTPcuW1IYWUdKVoYgEN8L0G469eABMHzgzPkvRX9rUMGw6HkhA2JToR4Fg8UxhvfOdRQ3RzoKSbuZGRzNvGNZB14Q9qbemA1urbv5MP6CRJqWptJFO4tQIdehG30Ol8Smj7rEpdOx+f89s0vnwzd6qivqIrj1O1vQaNt8XrcpBWfs3A93G5v8vkSC457NeWRtPeih+C/FY3xO0WLBf7MM9WbXLn9d6gjatbMroKndwzezuXSJnGczaNk/HkFb//Kyfep/8EjVy2TG5pdwBMRknvSrk6pcyzXR2rm9yHEie2Q1MDaRAZ1Omtx+Bqc2AeDtbWb0SpPaldmcX9UKy4rsWCZ/DfW6JaihMEzYbpygqFRUc=;VPYyrkEMeCETmT8Xhl8hsQ=="
 ---
 

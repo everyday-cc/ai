@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/22/how-ai-wil
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/22/how-ai-will-democratize-access-to-investing/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "How APIs Are Democratizing Access To AI (And Where They Hit Their Limits)"
+    excerpt: "The value in AI is quickly transitioning from the models themselves to the data used to train and run them in inference. Much like the API economy has transformed other types of technology by allowing otherwise closed systems to interoperate and share data,"
+    publishedDateTime: 2021-09-24T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/24/how-apis-are-democratizing-access-to-ai-and-where-they-hit-their-limits/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/24/how-apis-are-democratizing-access-to-ai-and-where-they-hit-their-limits/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/24/how-apis-are-democratizing-access-to-ai-and-where-they-hit-their-limits/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc6a2727e57526ba412333b%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Investing in AI Stocks"
     excerpt: "Artificial intelligence (AI), including its offshoots ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases, predict ..."
     publishedDateTime: 2021-09-20T11:12:00Z

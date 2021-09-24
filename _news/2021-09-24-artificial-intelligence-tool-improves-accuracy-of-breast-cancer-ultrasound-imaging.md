@@ -42,6 +42,20 @@ related:
         width: 1920
         height: 1296
         isCached: true
+  - title: "AI of breast ultrasound helps radiologists focus on cancer"
+    excerpt: "An artificial intelligence (AI) algorithm was able to significantly reduce false positives in breast ultrasound, potentially avoiding the need for one out of four biopsies, in a study published online September 24 in Nature Communications."
+    publishedDateTime: 2021-09-24T15:16:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=sup&sub=ult&pag=dis&ItemID=133582"
+    type: article
+    provider:
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 39
+    images:
+      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_09_24_15_57_9400_2021_09_24_ai_breast_ultrasound_clinical_image_social.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Z+JJb/DIiUtZBJ94t+yxY+4RggZQ0phA5DtMPX8Qi6DWAza5JGH2711bMY+WrsDmgo4oozRUb2Hf54x8qleUJLAUg6ibvuVHvAb+0QTIaSeKVH3HniiIkgMr7ns9lvWjoMDi/emix5BJDiF+KIcF1sVJar+eBn7cWwcR7FkQq7TYO2kqgHyH4T03OrAzYeYYCu+s9YJve/kOnaV/jAlv4QzET+JEqm/omX27OjLHyj9otdZjJ4U7uqqs6/1mzoGZcv0F6vt3uETuASQI1MdzcXHdgjufiwJ2e6e+UfmRLsmuqHo0nFcn/kRrakuzu2IqmZEO7q95vP4FCu3Ar34QzZ03tQgZV+ty49hmJVzXpc4=;Vqeb3r7kOV4BS9Hs54PLOg=="
 ---

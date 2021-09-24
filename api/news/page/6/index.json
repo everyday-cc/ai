@@ -2,12 +2,211 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-09-20-googles-former-ai-ethics-chief-has-a-plan-to-rethink-big-tech.md",
+      "title": "Google’s Former AI Ethics Chief Has a Plan to Rethink Big Tech",
+      "excerpt": "Timnit Gebru says regulators need to provide whistleblowers working on artificial intelligence with fresh protections backed up by tough enforcement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-09-20/timnit-gebru-former-google-ai-ethics-chief-has-plan-to-rethink-big-tech",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-20/timnit-gebru-former-google-ai-ethics-chief-has-plan-to-rethink-big-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL1NzztKqF84/v0/1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-20T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-ntsb-critical-of-teslas-full-self-driving-upgrade-misleading-and-irresponsible.md",
+      "title": "NTSB critical of Tesla’s ‘Full Self-Driving’ upgrade: ‘misleading and irresponsible’",
+      "excerpt": "Tesla Inc. is readying a major upgrade of its driver-assistance software. The country’s top crash investigator says the move may be premature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/ntsb-critical-of-teslas-full-self-driving-upgrade-misleading-and-irresponsible-11632085619?mod=sue-chang",
+      "originalUrl": "https://www.marketwatch.com/story/ntsb-critical-of-teslas-full-self-driving-upgrade-misleading-and-irresponsible-11632085619?mod=sue-chang",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-367838/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-19T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-19-pentagon-shapes-future-war-advanced-ai-enables-integrated-attacks-in-matter-of-seconds.md",
+      "title": "Pentagon Shapes Future War: Advanced AI Enables Integrated Attacks in Matter of Seconds",
+      "excerpt": "By Security Television Network, Author: by Kris Osborn, Warrior Maven Click here for updates on this story September 18, 2021 (Security Television Network) — (Washington, D.C.) The Army’s “Project Convergence,",
+      "sourceUrl": null,
+      "webUrl": "https://localnews8.com/cnn-regional/2021/09/18/pentagon-shapes-future-war-advanced-ai-enables-integrated-attacks-in-matter-of-seconds/",
+      "originalUrl": "https://localnews8.com/cnn-regional/2021/09/18/pentagon-shapes-future-war-advanced-ai-enables-integrated-attacks-in-matter-of-seconds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://localnews8.b-cdn.net/2021/06/US-World-logo-new_KIFIMIFI.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-19T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Local News 8",
+        "domain": "localnews8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-19-elon-musks-push-to-expand-teslas-driver-assistance-to-cities-rankles-a-top-safety-authority.md",
+      "title": "Elon Musk’s Push to Expand Tesla’s Driver Assistance to Cities Rankles a Top Safety Authority",
+      "excerpt": "Tesla plans to expand access to its Full Self-Driving system and defends its technology. A safety official says more work is needed and calls the name irresponsible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/elon-musks-push-to-expand-teslas-driver-assistance-to-cities-rankles-a-top-safety-authority-11632043803",
+      "originalUrl": "https://www.wsj.com/articles/elon-musks-push-to-expand-teslas-driver-assistance-to-cities-rankles-a-top-safety-authority-11632043803",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-403222/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/elon-musks-push-to-expand-teslas-driver-assistance-to-cities-rankles-a-top-safety-authority-11632043803",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/elon-musks-push-to-expand-teslas-driver-assistance-to-cities-rankles-a-top-safety-authority-11632043803",
+      "publishedDateTime": "2021-09-19T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-19-should-we-care-about-philosophy-of-ai-in-the-mena-region.md",
       "title": "Should we care about Philosophy of AI in the Mena region?",
       "excerpt": "Aliah Yacoub is an AI philosopher and head of techQualia at Egypt-based Synapse Analytics, a data science and AI company",
       "sourceUrl": null,
-      "webUrl": "https://www.wamda.com/2021/09/care-philosophy-ai-mena-region",
-      "originalUrl": "https://www.wamda.com/2021/09/care-philosophy-ai-mena-region",
+      "webUrl": "https://www.wamda.com/en/2021/09/care-philosophy-ai-mena-region",
+      "originalUrl": "https://www.wamda.com/en/2021/09/care-philosophy-ai-mena-region",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -563,6 +762,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-17-intelepeer-adds-voice-to-ibm-waston-virtual-agent.md",
+      "title": "IntelePeer Adds Voice to IBM Waston Virtual Agent",
+      "excerpt": "IBM's Watson Assistant is an intelligent virtual agent that makes it possible for organizations to improve first contact resolution and enables a more seamless hand-off from virtual agents to live agents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/channels/call-center-scheduling/articles/450020-intelepeer-adds-voice-ibm-waston-virtual-agent.htm",
+      "originalUrl": "https://www.tmcnet.com/channels/call-center-scheduling/articles/450020-intelepeer-adds-voice-ibm-waston-virtual-agent.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/misc/articles/image/2021-sep/0049349428-AdobeStock_195882849_AI_supercomputing_SUPERSIZE.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-17T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-17-tesla-will-make-sure-you-are-a-good-driver-before-giving-you-access-to-full-self-driving-beta.md",
       "title": "Tesla will make sure you are a good driver before giving you access to Full Self-Driving Beta",
       "excerpt": "Elon Musk said that Tesla will use its telemetry data to make sure customers are “good” drivers before allowing them to access its Full Self-Driving Beta software. This is a tricky situation since those customers already paid for the software.",
@@ -939,240 +1181,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-science-could-make-self-driving-cars-know-when-theyre-failing-before-its-too-late.md",
-      "title": "Science Could Make Self-Driving Cars Know When They’re Failing, Before It’s Too Late",
-      "excerpt": "No matter what car makers’ marketing says, scientists affirm that the current self-driving technologies are still not safe enough. Various research and development projects continue to improve autonomous driving technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoevolution.com/news/science-could-make-self-driving-cars-know-when-theyre-failing-before-its-too-late-169607.html",
-      "originalUrl": "https://www.autoevolution.com/news/science-could-make-self-driving-cars-know-when-theyre-failing-before-its-too-late-169607.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.cdn.autoevolution.com/images/news/science-could-make-self-driving-cars-know-when-theyre-failing-before-its-too-late-169607-7.jpg",
-          "width": 728,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-17T02:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "autoevolution.com",
-        "domain": "autoevolution.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-nsw-to-trial-geolocation-and-facial-recognition-app-for-home-based-quarantine.md",
-      "title": "NSW to trial geolocation and facial recognition app for home-based quarantine",
-      "excerpt": "Along with the NSW trial, Tasmania will also begin a home-based quarantine trial for residents returning from regional New South Wales next week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/nsw-to-trial-geolocation-and-facial-recognition-app-for-home-based-quarantine/",
-      "originalUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/nsw-to-trial-geolocation-and-facial-recognition-app-for-home-based-quarantine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/nsw-to-trial-geolocation-and-facial-recognition-app-for-home-based-quarantine/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/nsw-to-trial-geolocation-and-facial-recognition-app-for-home-based-quarantine/",
-      "publishedDateTime": "2021-09-17T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-face-recognition-device-market-future-scope-including-key-players-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc.md",
-      "title": "Face Recognition Device Market Future Scope including key players Airware, Inc., 3D Robotics, Dreamhammer Inc., Drone Volt, Dronedeploy Inc.",
-      "excerpt": "Get the inside scoop of the Sample Face Recognition Device report @: jcmarketresearch.com/report-details/1443230/sample Research Methodology while conducting the study of “Global Face Recognition Device Market Data Survey Report 2029” Secondary research Our Face Recognition Device industry analyst refer a broad array of industry sources for our secondary,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/",
-      "originalUrl": "https://manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/10-6-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/?amp=1",
-      "publishedDateTime": "2021-09-17T01:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-artificial-intelligence-for-accounting-market-research-report-includes-size-capacity-production-revenue-gross-margin-forecast-to-2027.md",
-      "title": "Artificial Intelligence for Accounting Market Research Report Includes Size, Capacity, Production, Revenue, Gross Margin, Forecast to 2027",
-      "excerpt": "Sep 17, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global Artificial Intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-research-report-includes-size-capacity-production-revenue-gross-margin-forecast-to-2027-2021-09-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-research-report-includes-size-capacity-production-revenue-gross-margin-forecast-to-2027-2021-09-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-16T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-googles-new-deep-learning-system-can-give-a-boost-to-radiologists.md",
-      "title": "Google’s new deep learning system can give a boost to radiologists",
-      "excerpt": "The deep learning system can help radiologists prioritize chest x-rays, and it can serve as a first response tool in emergency settings.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/16/googles-new-deep-learning-system-can-give-a-boost-to-radiologists/",
-      "originalUrl": "https://venturebeat.com/2021/09/16/googles-new-deep-learning-system-can-give-a-boost-to-radiologists/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Deep-learning-chest-radiography1.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/16/googles-new-deep-learning-system-can-give-a-boost-to-radiologists/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/16/googles-new-deep-learning-system-can-give-a-boost-to-radiologists/amp/",
-      "publishedDateTime": "2021-09-16T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

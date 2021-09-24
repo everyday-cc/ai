@@ -69,6 +69,20 @@ related:
         width: 1800
         height: 734
         isCached: true
+  - title: "Multi-spectral face biometrics, emotion recognition and deepfakes discussed at EAB seminar"
+    excerpt: "The state of the art in several areas related to face biometrics and computer vision were explored in the latest virtual lunch talk held by the EAB."
+    publishedDateTime: 2021-09-24T15:19:00Z
+    webUrl: "https://www.biometricupdate.com/202109/multi-spectral-face-biometrics-emotion-recognition-and-deepfakes-discussed-at-eab-seminar"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 14
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
+        isCached: true
 
 secured: "/DXaRwvr9Iyu8dg5D1fbdrtiAQTFZOVojGXK9PvaEqMGjxv9pGGcoYevvGYo+kUulvPOBg/5ZTJOxp3r83YNSIIT43IU4Jt89g+t25abxhC7OqP6V9/Z4iUfiTtlyrEOc2TKWZBYieR3p7v8OnUxkRrLuUrNO6pn4Oe/ZlvmKUrequgqjF8uLaOwIZhPmpMEkoky2ggh6jW30Q7vBkKWINjZhdNboJFqWEYXe3UrteazVDXyWWcYk7xetj8anKcBxKmQt8EPlqaAvcnNTeegGjFZ6mQGMBd7jYXgH8BWR4cXe27juCaH0Vdt6sUWldvzsqYyDRtSPsdephGvhTh7hyk5BziqJtI+4K8T+cmYwQc=;CKP3zPY+Cjx/04XQGY56SQ=="
 ---

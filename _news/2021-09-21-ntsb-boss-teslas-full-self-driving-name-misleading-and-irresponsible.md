@@ -7,7 +7,7 @@ originalUrl: "https://www.motorauthority.com/news/1133635_ntsb-boss-tesla-s-full
 webUrl: "https://www.motorauthority.com/news/1133635_ntsb-boss-tesla-s-full-self-driving-name-misleading-and-irresponsible"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1158
     height: 576
     isCached: true
-
-related:
-  - title: "NTSB critical of Tesla’s ‘Full Self-Driving’ upgrade: ‘misleading and irresponsible’"
-    excerpt: "Tesla Inc. is readying a major upgrade of its driver-assistance software. The country’s top crash investigator says the move may be premature."
-    publishedDateTime: 2021-09-19T21:07:00Z
-    webUrl: "https://www.marketwatch.com/story/ntsb-critical-of-teslas-full-self-driving-upgrade-misleading-and-irresponsible-11632085619?mod=sue-chang"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://images.mktw.net/im-367838/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "amJjrlN51FahH5qZnSE5+k2lZ1/YnKafxNKmpwYCSjOaLyP9IY95r9nreyyY2Umx+BsYR00vZhzW+jdPhJiglq4pXcaNfvwhxHzMljFyP0CI+cn81nwQ0i7xDlGYUptVYLNNgzkNq4woWLlsSVeJbWdIt29Erz4lprbZ2Y4BjDAOW3akt4BeYaEL4MvF1z9tlwx87g+KD6OMzFCZ9vACeOtq1E+7kLr4NFg+R4RJD+tPjusu4ZwaHq4Gd2Z9t3CVt7q0FvyKOP5fqoykZRN+UAs0mejubmNP802NwZQqH+FsefdnAudouDmNm+6iy2L9YBPhtnHS3/8JIJcFcBte87s3p0VAlTwlAhCpmj+3giB1oZaGSTxm2zgWTCaEj6uPG81MZsMW2hXjC7yfGC/swNZ7fFvF+H9e9eObIIctydIL20CgwyeS0vEGUaqj1a1A2wTY+l0tbMdAwc1PhbsHTxJIWSiCaPIwXm85kZ7bBfdXVwrn4HkgKsC+gqKenm3glzo0BMTItsd1riwzUVxGJg==;AwnAZqPJ727cPPn6dtnb2g=="
 ---

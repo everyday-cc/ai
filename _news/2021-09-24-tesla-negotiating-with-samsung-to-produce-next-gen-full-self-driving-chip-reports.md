@@ -238,6 +238,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Tesla's plans to test new 'self-driving' tech raises concerns"
+    excerpt: "Release plans for #Tesla's \"Full Self Driving\" features has local transportation agency concerned over driver safety. #SiliconValley #SanFrancisco #selfdriving"
+    publishedDateTime: 2021-09-24T14:23:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/09/24/teslas-planned-test-of-new-self-driving.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
   - title: "The National Transportation Safety Board thinks Tesla should pump the brakes on full self-driving"
     excerpt: "Jessica Homendy, the chair of t (NTSB) had some strong words for Tesla in an interview in The Wall Street Journal. Essentially she warned Tesla to deal with “basic safety issues” before rolling out their “full self-driving” (FSD) mode to more drivers."
     publishedDateTime: 2021-09-20T15:22:00Z
@@ -295,6 +304,6 @@ related:
         height: 480
         isCached: true
 
-secured: "8NVEcHbaOkZsLwubOJRNoS0PzTw2tYn4MfAZfwNV2HoFbfJL+++DUJPHI6KYSlyyTK2JbhgOUsjcSHw10tE0zhVxhkuDGLTWuXGKGFbztw3n9KveAepfp8Gnrm/eYg8cOkruC3EgkyWvpY2vmziEMsT0CxPdPIdad1sdw6mAngdY+sKmAQJCdAq58WRp28B2CL08zqhzgMH1iTRGsFRLuGg7LZ6aA/AR2UbOCm09x3gBEFXhY8wqy17iEslUEt/jfQh3hGVNjmRtiwDK3WxXRZivLxnOOXqRyYyBFP5nouymcgFdl47Zqz/c6HesuXh6O5J3fmlOwnqRhLSwf3M7Q6lj7s7aJSoOxi++vavv94o=;YclNHTuVjviNuBsfJWkppw=="
+secured: "c9r6jrBJjFwQGgCCMHeMongVzw8ugDJ9YjUPhkG3Dus1uY5gr+/Co+JW/3/0B2qQ8zMQwxV94zSEM1Em8+0vrc53cII+WBdI8tQQ3IXOLrOJQc2RWDLvUMJ7wWOQL2QRwJiuzXBVfgPDNDzZktvg0uDR1MmavHkTO6oJgvETt4B2zyWs65VglSYZz9W/z8IiQV03KxbPQugy601T+1w3f5H6uzYl0R98M3dGaG8yKRmAnrgdDb/7+MqDTL2W+9CSfCX7TBc0dmnBOttoaNHtcTC0OkaR4R7xIBIi1Cwcte8GMRh4hIr5akP+vw09by2dhNdnKtebfTpn89ZTmofPLQjDeDtn/gygmDBMHFzjDwYjorGvWVNNXtTutxuH9G7EXJ1Wi0NKDT0fQal68/Z12CEhbqc4h+BdDTcHqsLrsg94+AvIxNKUC2FG7nbfD9p9ySAl9gk5teQ89PhhStAXtuuOyy2D/RqBHG92LaaYZK99iW9TSOzKXxj1m1PLpYN+i3wMUQljyKlqF/XYmMxMGw==;M2lROqAxA1We+aVCi82tIg=="
 ---
 

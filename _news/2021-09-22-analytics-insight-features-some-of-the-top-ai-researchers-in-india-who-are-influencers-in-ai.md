@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/top-ai-researchers-in-india-to-in
 webUrl: "https://www.analyticsinsight.net/top-ai-researchers-in-india-to-influence-your-mind-in-2021/"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -25,17 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Analytics Insight features top Indian robots in the global tech market with ‘made in India’ tag"
-    excerpt: "This article features top Indian robots in the global tech market with ‘made in India’ tag with a blend of robotics and AI. Robots in India are thriving in the tech-driven market."
-    publishedDateTime: 2021-09-21T12:42:00Z
-    webUrl: "https://www.analyticsinsight.net/made-in-india-top-indian-robots-recognized-in-the-global-tech-market/"
+  - title: "Top 10 AI Thought Leaders and Influencers to Follow in 2021"
+    excerpt: "AI thought leaders and AI influencers guide us towards the latest AI developments. Top AI thought leaders have great experience in disruptive technologies. Here is a list of some AI thought leaders and influencers to follow in 2021."
+    publishedDateTime: 2021-09-24T13:42:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-ai-thought-leaders-and-influencers-to-follow-in-2021/"
     type: article
     provider:
       name: Analytics Insight
       domain: analyticsinsight.net
-    quality: 27
+    quality: 39
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Made-in-India-Top-Indian-Robots-Recognized-in-Global-Tech-Market-.jpg"
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Top-10-AI-Thought-Leaders-and-Influencers-to-Follow-in-2021.jpg"
         width: 900
         height: 500
         isCached: true

@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How APIs Are Democratizing Access To AI (And Where They Hit Their Limits)"
+    excerpt: "The value in AI is quickly transitioning from the models themselves to the data used to train and run them in inference. Much like the API economy has transformed other types of technology by allowing otherwise closed systems to interoperate and share data,"
+    publishedDateTime: 2021-09-24T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/24/how-apis-are-democratizing-access-to-ai-and-where-they-hit-their-limits/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/24/how-apis-are-democratizing-access-to-ai-and-where-they-hit-their-limits/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/24/how-apis-are-democratizing-access-to-ai-and-where-they-hit-their-limits/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc6a2727e57526ba412333b%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "tl0QhS3LakN+2EduEgH5f0WwJGJnk4gWWYVnNUz/gyQSRrIJRkkLYJXyJAaLCKRpzP+D9Q0m3ixfhUNJlWAjjyMiMcgvh2Id+MGVsQTQZwdEHaN9NjmtPNwLfBhk182AuoWXX7i5evByYDk9F5yEfMv0N8IpLNX3OPs1Pr4vGh8pQM7JugcLpTIUxYFIeXMNr8+sZqHXf/FbC/QfvAt7jqcQ5DlT8qOzC8+3Y93YSPJuUk8y3/OIPiODcaz8q59OgkuH+8wvuEwsdPhZuE8idbRlTt6FHu7swkkJfc4dcjfLiXYKqdRQlUQZHrHz13l86hiPRMQuN7tj+pgCJidmcnO/b11zwsgGcRambCszVf0=;5u9ge0UZaO/sM+rXuPVB8A=="
 ---

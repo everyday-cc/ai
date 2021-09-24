@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Exploring Artificial Intelligence in Healthcare Around the Globe"
+    excerpt: "HL7 International hosts a panel of AI specialists from around the world highlighting the different uses of artificial intelligence in healthcare."
+    publishedDateTime: 2021-09-22T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/exploring-artificial-intelligence-in-healthcare-around-the-globe"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 56
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-5845715201.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Preparing for a future pandemic with artificial intelligence"
     excerpt: "PNNL data scientists are refining their artificial intelligence tools with COVID-19 data to advance therapeutics and treatments for a future pandemic."
     publishedDateTime: 2021-09-21T00:00:00Z
@@ -75,7 +89,7 @@ related:
   - title: "Three ways to maximize the business value of AI"
     excerpt: "Don't get caught up in the AI hype, these three essential tips will enable you to rapidily deliver business value from your AI projects"
     publishedDateTime: 2021-09-24T11:32:00Z
-    webUrl: "https://www.thoughtworks.com/insights/articles/three-ways-to-maximize-the-business-value-of-AI-and-ML"
+    webUrl: "https://www.thoughtworks.com/en-us/insights/articles/three-ways-to-maximize-the-business-value-of-AI-and-ML"
     type: article
     provider:
       name: ThoughtWorks

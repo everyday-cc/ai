@@ -2,6 +2,240 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-09-17-science-could-make-self-driving-cars-know-when-theyre-failing-before-its-too-late.md",
+      "title": "Science Could Make Self-Driving Cars Know When They’re Failing, Before It’s Too Late",
+      "excerpt": "No matter what car makers’ marketing says, scientists affirm that the current self-driving technologies are still not safe enough. Various research and development projects continue to improve autonomous driving technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoevolution.com/news/science-could-make-self-driving-cars-know-when-theyre-failing-before-its-too-late-169607.html",
+      "originalUrl": "https://www.autoevolution.com/news/science-could-make-self-driving-cars-know-when-theyre-failing-before-its-too-late-169607.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.cdn.autoevolution.com/images/news/science-could-make-self-driving-cars-know-when-theyre-failing-before-its-too-late-169607-7.jpg",
+          "width": 728,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-17T02:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "autoevolution.com",
+        "domain": "autoevolution.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-17-nsw-to-trial-geolocation-and-facial-recognition-app-for-home-based-quarantine.md",
+      "title": "NSW to trial geolocation and facial recognition app for home-based quarantine",
+      "excerpt": "Along with the NSW trial, Tasmania will also begin a home-based quarantine trial for residents returning from regional New South Wales next week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/nsw-to-trial-geolocation-and-facial-recognition-app-for-home-based-quarantine/",
+      "originalUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/nsw-to-trial-geolocation-and-facial-recognition-app-for-home-based-quarantine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/nsw-to-trial-geolocation-and-facial-recognition-app-for-home-based-quarantine/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/nsw-to-trial-geolocation-and-facial-recognition-app-for-home-based-quarantine/",
+      "publishedDateTime": "2021-09-17T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-17-face-recognition-device-market-future-scope-including-key-players-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc.md",
+      "title": "Face Recognition Device Market Future Scope including key players Airware, Inc., 3D Robotics, Dreamhammer Inc., Drone Volt, Dronedeploy Inc.",
+      "excerpt": "Get the inside scoop of the Sample Face Recognition Device report @: jcmarketresearch.com/report-details/1443230/sample Research Methodology while conducting the study of “Global Face Recognition Device Market Data Survey Report 2029” Secondary research Our Face Recognition Device industry analyst refer a broad array of industry sources for our secondary,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/",
+      "originalUrl": "https://manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/10-6-390x220.jpg",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/?amp=1",
+      "publishedDateTime": "2021-09-17T01:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-17-artificial-intelligence-for-accounting-market-research-report-includes-size-capacity-production-revenue-gross-margin-forecast-to-2027.md",
+      "title": "Artificial Intelligence for Accounting Market Research Report Includes Size, Capacity, Production, Revenue, Gross Margin, Forecast to 2027",
+      "excerpt": "Sep 17, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global Artificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-research-report-includes-size-capacity-production-revenue-gross-margin-forecast-to-2027-2021-09-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-research-report-includes-size-capacity-production-revenue-gross-margin-forecast-to-2027-2021-09-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-16T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-17-googles-new-deep-learning-system-can-give-a-boost-to-radiologists.md",
+      "title": "Google’s new deep learning system can give a boost to radiologists",
+      "excerpt": "The deep learning system can help radiologists prioritize chest x-rays, and it can serve as a first response tool in emergency settings.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/16/googles-new-deep-learning-system-can-give-a-boost-to-radiologists/",
+      "originalUrl": "https://venturebeat.com/2021/09/16/googles-new-deep-learning-system-can-give-a-boost-to-radiologists/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Deep-learning-chest-radiography1.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/16/googles-new-deep-learning-system-can-give-a-boost-to-radiologists/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/16/googles-new-deep-learning-system-can-give-a-boost-to-radiologists/amp/",
+      "publishedDateTime": "2021-09-16T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-17-3-artificial-intelligence-stocks-to-buy-now.md",
       "title": "3 Artificial Intelligence Stocks to Buy Now",
       "excerpt": "We've put together a list of 3 artificial intelligence stocks to buy now to help investors make the right choices when adding exposure to this",
@@ -907,222 +1141,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-worldwide-data-collection-and-labeling-industry-to-2028-featuring-global-technology-solutions-alegion-and-labelbox-among-others.md",
-      "title": "Worldwide Data Collection and Labeling Industry to 2028 - Featuring Global Technology Solutions, Alegion and Labelbox Among Others",
-      "excerpt": "SpaceX is targeting Wednesday, September 15 at 8:02 p.m. for launch of the Inspiration4 mission – the world’s first all-civilian human spaceflight to orbit – aboard SpaceX’s Falcon 9 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/worldwide-data-collection-and-labeling-industry-to-2028---featuring-global-technology-solutions-alegion/article_197d5e85-9bad-5451-b649-52d6e0f78ed5.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/worldwide-data-collection-and-labeling-industry-to-2028---featuring-global-technology-solutions-alegion/article_197d5e85-9bad-5451-b649-52d6e0f78ed5.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T17:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-hp-inc-rolls-out-new-management-services-for-the-hybrid-world-thats-here-to-stay.md",
-      "title": "HP Inc. Rolls Out New Management Services For The Hybrid World That’s Here To Stay",
-      "excerpt": "Many Desktop as a Service (DaaS) popping up, including Microsoft recently announced ... On top of all these services, the direction of many notebooks is toward thin and light ACPCs; a good example ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/09/16/hp-inc-rolls-out-new-management-services-for-the-hybrid-world-thats-here-to-stay/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/09/16/hp-inc-rolls-out-new-management-services-for-the-hybrid-world-thats-here-to-stay/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614383c8abe52d277cb2efce%2F0x0.png",
-          "width": 1200,
-          "height": 644,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-freebirds-partners-with-dallas-based-now-cuisine-for-burrito-bowl-robot-kiosks.md",
-      "title": "Freebirds Partners With Dallas-Based Now Cuisine for Burrito-Bowl Robot Kiosks",
-      "excerpt": "\"It’s just cool that a Texas-based AI and robotics company can help a Texas-based burrito company expand in ways we could only imagine just a few years ago,\" says Alex Eagle, Chief Executive Officer for Freebirds World Burrito.",
-      "sourceUrl": null,
-      "webUrl": "https://dallasinnovates.com/freebirds-partners-with-dallas-based-now-cuisine-for-burrito-bowl-robot-kiosks/",
-      "originalUrl": "https://dallasinnovates.com/freebirds-partners-with-dallas-based-now-cuisine-for-burrito-bowl-robot-kiosks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s24806.pcdn.co/wp-content/uploads/2021/09/Freebirds-Takeout-Station-970jpg.jpg",
-          "width": 970,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dallasinnovates.com",
-        "domain": "dallasinnovates.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-live-webinar-driving-healthcare-decisions-with-natural-language-processing.md",
-      "title": "Live Webinar: Driving Healthcare Decisions with Natural Language Processing",
-      "excerpt": "Dr. Sabita Sankar, VP of Business Development at HUMA.AI, will sit down with Natalie Yeadon, to discuss “human-centric AI” and how to automate healthcare through human language, with special focus on the applications for Medical Affairs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pmlive.com/pmhub/medical_education/impetus_digital/press_releases/live_webinar_driving_healthcare_decisions_with_natural_language_processing",
-      "originalUrl": "https://www.pmlive.com/pmhub/medical_education/impetus_digital/press_releases/live_webinar_driving_healthcare_decisions_with_natural_language_processing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T15:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PMLiVE",
-        "domain": "pmlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-hpcai-in-the-spotlight-jensen-huang-named-to-time-magazines-most-influential-people-list.md",
-      "title": "HPC/AI in the Spotlight: Jensen Huang Named to Time Magazine’s Most Influential People List",
-      "excerpt": "Estranged royalty, movie stars and Olympic athletes have influence, sure, but if you want to build a list of people with lasting impact then Time magazine got it right when it named Jensen Huang to its list of the 100 most influential people of 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2021/09/hpc-ai-in-the-spotlight-jensen-huang-named-to-time-magazines-most-influential-people-list/",
-      "originalUrl": "https://insidehpc.com/2021/09/hpc-ai-in-the-spotlight-jensen-huang-named-to-time-magazines-most-influential-people-list/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2018/03/DGX-2.jpg",
-          "width": 592,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T15:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

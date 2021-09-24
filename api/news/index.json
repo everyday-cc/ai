@@ -2,6 +2,151 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-24-ai-fairness-requires-fighting-bias-with-bias.md",
+      "title": "AI fairness requires fighting bias with bias",
+      "excerpt": "Only by understanding algorithmic bias and incorporating it correctly can we build the trust in AI that is so vital to its acceptance.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/24/ai-fairness-requires-fighting-bias-with-bias/",
+      "originalUrl": "https://venturebeat.com/2021/09/24/ai-fairness-requires-fighting-bias-with-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1257729194-e1632430122603.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/24/ai-fairness-requires-fighting-bias-with-bias/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/24/ai-fairness-requires-fighting-bias-with-bias/amp/",
+      "publishedDateTime": "2021-09-24T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-machine-learning-helps-scientists-pinpoint-genes-of-importance.md",
+      "title": "Machine learning helps scientists pinpoint 'genes of importance'",
+      "excerpt": "In a new breakthrough, researchers in the United States and Taiwan have developed a machine learning algorithm to more efficiently identify \"genes of importance\" in agriculture and medicine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Science_News/2021/09/24/machine-learning-crop-genes/7511632488535/",
+      "originalUrl": "https://www.upi.com/Science_News/2021/09/24/machine-learning-crop-genes/7511632488535/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/7511632488535/2021/1/16324917975275/v1.5/Machine-learning-helps-scientists-pinpoint-genes-of-importance.jpg",
+          "width": 700,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Science_News/2021/09/24/machine-learning-crop-genes/7511632488535/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/09/24/machine-learning-crop-genes/7511632488535/",
+      "publishedDateTime": "2021-09-24T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-ai-tradeoffs-balancing-powerful-models-and-potential-biases.md",
+      "title": "AI tradeoffs: Balancing powerful models and potential biases",
+      "excerpt": "A handful of foundational AI models are emerging that rely upon a magnitude of training data that makes them inherently powerful, but it’s not without risk of harmful biases.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/24/ai-tradeoffs-balancing-powerful-models-and-potential-biases/",
+      "originalUrl": "https://techcrunch.com/2021/09/24/ai-tradeoffs-balancing-powerful-models-and-potential-biases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1282056852.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/24/ai-tradeoffs-balancing-powerful-models-and-potential-biases/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/24/ai-tradeoffs-balancing-powerful-models-and-potential-biases/amp/",
+      "publishedDateTime": "2021-09-24T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-24-uks-ai-strategy-is-ambitious-but-needs-funding-to-match-says-facultys-marc-warner.md",
       "title": "UK’s AI strategy is ‘ambitious’ but needs funding to match, says Faculty’s Marc Warner",
       "excerpt": "The UK published its first ever national AI strategy this week. The decade-long commitment by the government to levelling up domestic artificial intelligence capabilities — by directing resource and attention toward skills,",
@@ -61,7 +206,7 @@
       "originalUrl": "https://electronics360.globalspec.com/article/17238/syntiant-launches-neural-network-processor-for-vision-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -251,7 +396,7 @@
       "originalUrl": "https://www.greencarcongress.com/2021/09/20210924-momenta.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 263,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -281,6 +426,50 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-meet-deedee-a-twin-cities-thai-restaurants-new-robot-server.md",
+      "title": "Meet ‘DeeDee,’ A Twin Cities Thai Restaurant’s New Robot Server",
+      "excerpt": "DeeDee, a server assistant robot, is the first of its type operating in the state. It can carry food, drinks, and dirty dishes between the kitchen and dining tables.",
+      "sourceUrl": null,
+      "webUrl": "https://minnesota.cbslocal.com/2021/09/24/meet-deedee-a-twin-cities-thai-restaurants-new-robot-server/",
+      "originalUrl": "https://minnesota.cbslocal.com/2021/09/24/meet-deedee-a-twin-cities-thai-restaurants-new-robot-server/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://minnesota.cbslocal.com/wp-content/uploads/sites/15909630/2021/09/DeeDee.jpg?w=1026",
+          "width": 1026,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://minnesota.cbslocal.com/2021/09/24/meet-deedee-a-twin-cities-thai-restaurants-new-robot-server/?amp",
+      "cdnAmpWebUrl": "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2021/09/24/meet-deedee-a-twin-cities-thai-restaurants-new-robot-server/?amp",
+      "publishedDateTime": "2021-09-24T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Local",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -324,6 +513,48 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-artificial-intelligence-tool-improves-accuracy-of-breast-cancer-imaging.md",
+      "title": "Artificial intelligence tool improves accuracy of breast cancer imaging",
+      "excerpt": "A computer program trained to see patterns among thousands of breast ultrasound images can aid physicians in accurately diagnosing breast cancer, a new study shows.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-09-artificial-intelligence-tool-accuracy-breast.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-09-artificial-intelligence-tool-accuracy-breast.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/breast.jpg",
+          "width": 1920,
+          "height": 1296,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-09-artificial-intelligence-tool-accuracy-breast.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-artificial-intelligence-tool-accuracy-breast.amp",
+      "publishedDateTime": "2021-09-24T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -886,7 +1117,7 @@
       "originalUrl": "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 283,
+      "heat": 293,
       "tags": null,
       "images": [
         {
@@ -962,246 +1193,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-artificial-intelligence-the-future-of-cybersecurity.md",
-      "title": "Artificial Intelligence: The Future Of Cybersecurity?",
-      "excerpt": "Cybersecurity in Industry 4.0 cannot be tackled in the same way as that of traditional computing environments. The number of devices and associated challenges are far too many.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/23/artificial-intelligence-the-future-of-cybersecurity/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/23/artificial-intelligence-the-future-of-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614b856b91e7d8da240c0d2e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/23/artificial-intelligence-the-future-of-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/09/23/artificial-intelligence-the-future-of-cybersecurity/amp/",
-      "publishedDateTime": "2021-09-23T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-opinion-how-artificial-intelligence-could-save-your-life.md",
-      "title": "Opinion: How artificial intelligence could save your life",
-      "excerpt": "Machine intelligence implies serious consequences for human life, with mass unemployment being just one example. And yet, the transformative power of AI might actually save people’s lives. AI aims to simulate the human mind’s ability to learn,",
-      "sourceUrl": null,
-      "webUrl": "https://montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life",
-      "originalUrl": "https://montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.prod.postmedia.digital/montrealgazette/wp-content/uploads/2021/09/afp_1qa2a5.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life/wcm/5f1cb3c0-543d-4e66-a770-f4122faac455/amp/",
-      "cdnAmpWebUrl": "https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life/wcm/5f1cb3c0-543d-4e66-a770-f4122faac455/amp/",
-      "publishedDateTime": "2021-09-23T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Montreal News",
-        "domain": "montrealgazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-how-cloud-migration-and-ai-can-help-reduce-carbon-footprint.md",
-      "title": "How Cloud Migration And AI Can Help Reduce Carbon Footprint",
-      "excerpt": "In fact, the goal of the Paris Agreement is to \"limit global warming to well below 2, preferably to 1.5 degrees Celsius, compared to pre-industrial levels.\" To meet this goal, Boston Consulting Group (BCG) notes that \"we must reduce these carbon emissions by 50% by the end of this decade,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/23/how-cloud-migration-and-ai-can-help-reduce-carbon-footprint/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/23/how-cloud-migration-and-ai-can-help-reduce-carbon-footprint/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614b3644cb447db2b4a98211%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/23/how-cloud-migration-and-ai-can-help-reduce-carbon-footprint/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/23/how-cloud-migration-and-ai-can-help-reduce-carbon-footprint/amp/",
-      "publishedDateTime": "2021-09-23T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-conversational-ai-startup-gnaniai-launches-voice-biometrics-software.md",
-      "title": "Conversational AI startup Gnani.ai launches voice biometrics software",
-      "excerpt": "Gnani.ai, conversational AI and voice security domain, announced the launch of its home-grown Voice Biometrics software. Christened armour365™, the biometric solution claims to cater to new and emerging risks",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/",
-      "originalUrl": "https://www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2017/07/Fraud.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/amp/",
-      "publishedDateTime": "2021-09-23T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-axleai-the-search-engine-for-internal-media-files-is-equity-crowdfunding-to-make-video-editing-simpler.md",
-      "title": "Axle.ai, the Search Engine for Internal Media Files, is Equity Crowdfunding to Make Video Editing Simpler",
-      "excerpt": "BOSTON, MA / ACCESSWIRE / September 23, 2021 / How do you raise funds for a cutting-edge innovative tool that saves 30% of video editing time?",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/axle-ai-the-search-engine-for-internal-media-files-is-equity-crowdfunding-to-make-video-editing-simpler-1030818742",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/axle-ai-the-search-engine-for-internal-media-files-is-equity-crowdfunding-to-make-video-editing-simpler-1030818742",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.accesswire.com/users/newswire/images/665173/ITKVTOdB4nZn5HpNJNoJKlHDkSvYGQ0Zfy9kZueSb3XriFLG5M8zTvMJExxwIePyEPMmluHJNwB2JgkDRYRLA2uCQHnzMy_fGuegPD1tjkXjj6KFsPBLSizUA9_Q3lzhL8ll23wU=s0.jpg",
-          "width": 2048,
-          "height": 1355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-23T01:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

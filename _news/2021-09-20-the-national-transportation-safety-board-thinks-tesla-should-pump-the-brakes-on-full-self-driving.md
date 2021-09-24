@@ -251,6 +251,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Tesla's plans to test new 'self-driving' tech raises concerns"
+    excerpt: "Release plans for #Tesla's \"Full Self Driving\" features has local transportation agency concerned over driver safety. #SiliconValley #SanFrancisco #selfdriving"
+    publishedDateTime: 2021-09-24T14:23:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/09/24/teslas-planned-test-of-new-self-driving.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
   - title: "Tesla's 'Full Self-Driving' Isn't What Elon Musk Says It Is. Now the Government Is Calling Him Out"
     excerpt: "The head of the National Highway Safety Board says Tesla should stop talking about 'full self-driving' cars until they can actually do that."
     publishedDateTime: 2021-09-22T08:01:00Z

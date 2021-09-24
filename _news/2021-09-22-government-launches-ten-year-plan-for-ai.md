@@ -39,6 +39,20 @@ related:
         width: 752
         height: 423
         isCached: true
+  - title: "AP launches AI readiness survey for local newsrooms"
+    excerpt: "AP started surveying local news outlets in the U.S. to assess their readiness to adopt technologies that use artificial intelligence, a"
+    publishedDateTime: 2021-09-24T14:59:00Z
+    webUrl: "https://blog.ap.org/announcements/ap-launches-ai-readiness-survey-for-local-newsrooms"
+    type: article
+    provider:
+      name: Associated Press
+      domain: ap.org
+    quality: 37
+    images:
+      - url: "https://blog.ap.org//uploads/news/KF_logo-square.png"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Syntiant's NDP200 Promises 6.4GOP/s of Edge AI Compute in a Tiny 1mW Power Envelope"
     excerpt: "Successor to the NDP120 adds an 11-wire image interface, promises impressive runtimes for battery-powered edge AI workloads."
     publishedDateTime: 2021-09-22T15:25:00Z
