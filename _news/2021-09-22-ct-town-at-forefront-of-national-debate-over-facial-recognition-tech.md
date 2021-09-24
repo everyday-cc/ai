@@ -1,12 +1,12 @@
 ---
 category: news
 title: "CT town at forefront of national debate over facial recognition tech"
-excerpt: "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning governmental use of facial recognition technology."
-publishedDateTime: 2021-09-21T18:13:00Z
-originalUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b"
-webUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b"
+excerpt: "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning the use of facial recognition technology."
+publishedDateTime: 2021-09-21T20:42:00Z
+originalUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php"
+webUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php"
 type: article
-quality: 41
+quality: 39
 heat: -1
 published: false
 
@@ -17,7 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-  - Natural Language Processing
 
 images:
   - url: "https://s.hdnux.com/photos/01/20/22/56/21048234/21/rawImage.jpg"
@@ -94,6 +93,6 @@ related:
         height: 666
         isCached: true
 
-secured: "ocuHuWAkB6ZHz4NacJ7l9NsUMYJQrmqnsU34K6eO6baoOWS2Sri2TjpIpqm7GSZs+SeP2JMiS+7duZA3H1C6nNXmKfJGeF3ihgzSAOAuolEXZ+TxH9hkxi29JG+drpY6IpBUgjDYJQUc/MoKyT4ZTX4QCbu3WtSSvRhWoXATdNIvxYKdJ36GwXxBHtmbrPFN8zapURW7kSIm1Gk0Dgmzs2tiMEmoVjg6fcp/oF6uQeTLcQZntTSUasHFL/960HqHveKPrEdbjabubTZDZazYse63VF+t/MMNakr4dS6ww4VVKBZVQjsyBFLolF0kMkjAQGgoI+2O32utVOmJAre2XBIKgUvYRz0fZueReERNR4ab5r44jAPtnGoK+JjJveCcbSXSA3+GX6WwXB3H+AyX3EfPYrEAFC53L2mXO7e1/nV+IT0cMQzqTYPL/nzXL9DV2m+elyfIf/96jFv5MlMOtuFrnxmiQgvFlEUiNdDAv/IwxMvJ0rtB1GXQYXF0ZYa83ZCiM1GFoJXPtvylpTKBHQ==;EL67OD62RelnXuOBQq01dg=="
+secured: "ZKstixQ6xPi5OWBpCYWsqnsDIBuTmVHlEalsQH2DY6dXLy88pyGcnB682DbbGWXemFVP0IbfdAA/n997LXrAI2XonGSq3Qgf9QkC2D/Fp0LUK7b7zHndycMPqVmesE3H874/AVlfd2CjqzhoN1nNk7pMfTVpVPhkj+SRm0Q4u/ADZ5euDGQNgFveQSuqq+3CInbofDIf1n48k7qAqtk/nGW3UdjXsAGYYRM8sStbqqgPKuOyPvdm3HXqqS2Cr27NVJ2sfAm2Iraze7NByEqyLUFd+Hq7lijtlIW9usk9g8t0QsYB/A0Vm/inMU9kS+Is5V4WnpferiMn+WwQ1gVBhv5sPNHOkq7t2tl+SmxKKRo=;XhnGc+/ZkU/xRLN/w8KIwQ=="
 ---
 

@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 1015
         isCached: true
+  - title: "Researchers having a whale of a time with deep learning AI algorithms"
+    excerpt: "Researchers are using deep learning AI algorithms to understand and communicate with whales. Deep learning AI algorithms are becoming the key technology in some of the most complicated use cases around the world."
+    publishedDateTime: 2021-09-24T15:59:00Z
+    webUrl: "https://techhq.com/2021/09/researchers-having-a-whale-of-a-time-with-deep-learning-ai-algorithms/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 54
+    images:
+      - url: "https://cdn.techhq.com/wp-content/uploads/2021/09/000_9LP9TU-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Models, Learning, and Inference"
     excerpt: "Experience the eBook and the associated online resources on our new Higher Education website. This modern treatment of computer vision focuses on learning and inference in probabilistic models as a unifying theme. It shows how to use training data to learn ..."
     publishedDateTime: 2021-09-21T08:56:00Z

@@ -98,7 +98,7 @@ related:
   - title: "Three ways to maximize the business value of AI"
     excerpt: "Don't get caught up in the AI hype, these three essential tips will enable you to rapidily deliver business value from your AI projects"
     publishedDateTime: 2021-09-24T11:32:00Z
-    webUrl: "https://www.thoughtworks.com/en-us/insights/articles/three-ways-to-maximize-the-business-value-of-AI-and-ML"
+    webUrl: "https://www.thoughtworks.com/en-ca/insights/articles/three-ways-to-maximize-the-business-value-of-AI-and-ML"
     type: article
     provider:
       name: ThoughtWorks

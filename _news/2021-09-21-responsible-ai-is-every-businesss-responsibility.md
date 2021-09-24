@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/21/responsibl
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/21/responsible-ai-is-every-businesss-responsibility/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Responsible AI: Why Ethics Are Needed in AI (Part 1)"
+    excerpt: "From translating languages and analysing data, to diagnosing diseases and automating customer service, it’s a well-known fact that Artificial Intelligence"
+    publishedDateTime: 2021-09-24T16:06:00Z
+    webUrl: "https://www.accountingweb.co.uk/community/industry-insights/responsible-ai-why-ethics-are-needed-in-ai-part-1"
+    type: article
+    provider:
+      name: accountingweb.co.uk
+      domain: accountingweb.co.uk
+    quality: 34
   - title: "UN Human Rights Office publishes report on Artificial Intelligence's human rights impact and highlights State & business responsibilities"
     excerpt: "The present report is submitted ... to discuss how artificial intelligence, including profiling, automated decision-making and machine-learning technologies may, without proper safeguards, affect the enjoyment of the right to"
     publishedDateTime: 2021-09-20T18:44:00Z

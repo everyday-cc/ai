@@ -7,7 +7,7 @@ originalUrl: "https://www.autoevolution.com/news/baidu-unveils-electric-robot-tr
 webUrl: "https://www.autoevolution.com/news/baidu-unveils-electric-robot-truck-with-smart-cabin-and-advanced-self-driving-tech-169754.html"
 type: article
 quality: 50
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,36 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu DeepWay Unveils Smart Robot Truck With Advanced Self-driving Technology"
+    excerpt: "DeepWay Smart Truck backed by Baidu has just been launched and the users are curious to know more about it. Here is all we know about this smart truck. Read"
+    publishedDateTime: 2021-09-24T17:02:00Z
+    webUrl: "https://www.republicworld.com/auto-news/cars/baidu-deepway-unveils-smart-robot-truck-with-advanced-self-driving-technology.html"
+    ampWebUrl: "https://www.republicworld.com/amp/auto-news/cars/baidu-deepway-unveils-smart-robot-truck-with-advanced-self-driving-technology.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/auto-news/cars/baidu-deepway-unveils-smart-robot-truck-with-advanced-self-driving-technology.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 73
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/3pop1htofhvj56ox_1632499179.jpeg"
+        width: 768
+        height: 438
+        isCached: true
+  - title: "Baidu to enter heavy good logistics with subsidiary ‘DeepWay’"
+    excerpt: "The Chinese internet giant Baidu is setting its sights on the market for heavy goods vehicles through its subsidiary DeepWay. For 2023, the company is holding out the prospect of an electric “robot truck”,"
+    publishedDateTime: 2021-09-22T15:39:00Z
+    webUrl: "https://www.electrive.com/2021/09/22/baidu-to-enter-heavy-good-logistics-with-subsidiary-deepway/"
+    type: article
+    provider:
+      name: electrive.com
+      domain: electrive.com
+    quality: 39
+    images:
+      - url: "https://www.electrive.com/wp-content/uploads/2021/09/baidu-deepway-2021-01-min.png"
+        width: 1500
+        height: 750
+        isCached: true
   - title: "Baidu DeepWay unveils autonomous truck"
     excerpt: "Baidu DeepWay unveils autonomous truck September 18, 2021 by Mai Tao Leave a Comment    DeepWay, a Baidu-backed company, has unve"
     publishedDateTime: 2021-09-20T06:16:00Z

@@ -26,6 +26,22 @@ images:
     height: 933
     isCached: true
 
+related:
+  - title: "FOR THE RECORD: Buhari’s speech at the 76th Session of the United Nations General Assembly"
+    excerpt: "President Muhammadu Buhari on Friday addressed the 76th session of the United Nations General Assembly (UNGA) in New York, United States."
+    publishedDateTime: 2021-09-24T17:38:00Z
+    webUrl: "https://www.premiumtimesng.com/news/headlines/486609-for-the-record-buharis-speech-at-the-76th-session-of-the-united-nations-general-assembly.html"
+    type: article
+    provider:
+      name: Premium Times
+      domain: premiumtimesng.com
+    quality: 14
+    images:
+      - url: "https://media.premiumtimesng.com/wp-content/files/2021/09/243116167_4907275199300078_1823608477641507114_n.jpg"
+        width: 960
+        height: 640
+        isCached: true
+
 secured: "bDsa8NKkW1BYDX1Cb3gDFzaCY0eKvtdn4+L8SQURWBjduutBpO9nfk5IJKiTJpQoOktL4Jk0oCkd7Tfs1zcW37wd8SUnIVxz7Tw+Kp0u0UMtNruOE8S0mqBPcFEjHutDVIeyffgCc12JNQsGH5scOM3l6iA6f4lnj3a0j35l9Ofg6oGPUrVwRovWQ2W+DKa4Db9wHb86fKfaE6k7dOmqeZqlhmUzA37ysruTI5HIhUrHREGD9Pal89ECiTibfvwhQ8sNjhtkoVA/nXdSA8lhcMvf6muhomrXrhd5rUe1ZZWfBbmNDsFbq9d5/8OZDENv4rK8+p2iGLjHoyVdp5HDayaMvbgy51YCMgxGnO08vBw=;TZyGl8MeI4zipc+FihDzcw=="
 ---
 

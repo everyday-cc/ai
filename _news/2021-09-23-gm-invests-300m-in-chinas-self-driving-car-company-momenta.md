@@ -1,27 +1,29 @@
 ---
 category: news
-title: "GM invests $300M in China’s self-driving car company Momenta"
+title: "GM invests $300M in China's self-driving car company Momenta"
 excerpt: "General Motors is investing $300 million in China's self-driving car company Momenta. GM said Thursday that the investment will speed up the development of next-generation self-driving technologies in China."
-publishedDateTime: 2021-09-23T15:57:00Z
-originalUrl: "https://apnews.com/article/business-technology-china-3ac51a2f83d29fffa9807a5b74b02070"
-webUrl: "https://apnews.com/article/business-technology-china-3ac51a2f83d29fffa9807a5b74b02070"
+publishedDateTime: 2021-09-23T15:59:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/gm-invests-300m-chinas-driving-car-company-momenta-80190727"
+webUrl: "https://abcnews.go.com/Technology/wireStory/gm-invests-300m-chinas-driving-car-company-momenta-80190727"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/gm-invests-300m-chinas-driving-car-company-momenta-80190727"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/gm-invests-300m-chinas-driving-car-company-momenta-80190727"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/1759e8719a7e4b3196a74cd342b7b4ee/3000.jpeg"
-    width: 2999
-    height: 3000
+  - url: "https://s.abcnews.com/images/Technology/WireAP_1759e8719a7e4b3196a74cd342b7b4ee_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -117,22 +119,6 @@ related:
         width: 540
         height: 540
         isCached: true
-  - title: "Samsung in talks with Tesla to make next-gen self-driving chips: Report"
-    excerpt: "Samsung is reportedly in talks with Tesla to make next-generation self-driving chips based on Samsungs 7-nanometre chip production process."
-    publishedDateTime: 2021-09-24T09:32:00Z
-    webUrl: "https://www.sify.com/finance/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-news-topnews-vjyj6Kigeacgd.html"
-    ampWebUrl: "https://www.sify.com/finance/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-news-topnews-vjyj6Kigeacgd.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-news-topnews-vjyj6Kigeacgd.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 59
-    images:
-      - url: "https://www.sify.com/uploads/samsung_logo_ians_vftm7aaijdchd.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "GM invests $300 million in China's self-driving car company Momenta"
     excerpt: "The move is part of a plan GM announced three months ago to invest $35 billion in electric vehicle and autonomous vehicle technology from 2020-25."
     publishedDateTime: 2021-09-23T16:41:00Z
@@ -148,6 +134,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/06/10/PDTN/8e79ca76-4589-479a-a2bf-511d22991dc9-TDNBrd_DETROIT_11-25-2020_TDNXX_1_A010__2020_11_24_IMG_Gmevbarra01_1_1_3F30CMS8_L86734151_IMG_Gmevbarra01_1_1_3F30CMS8.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Samsung in talks with Tesla to make next-gen self-driving chips: Report"
+    excerpt: "Samsung is reportedly in talks with Tesla to make next-generation self-driving chips based on Samsung’s 7-nanometre chip production process. According to the Korean Economic Daily, both the companies have discussed chip design multiple times and have also exchanged chip prototypes for the upcoming Hardware 4 self-driving system from Tesla."
+    publishedDateTime: 2021-09-24T16:41:00Z
+    webUrl: "https://www.imdb.com/news/ni63428658/"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 39
+    images:
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
         isCached: true
   - title: "GM Invests $300 Million in Chinese Autonomous Driving Startup Momenta"
     excerpt: "U.S. automaker General Motors Co said on Thursday that it would invest $300 million in Chinese autonomous driving startup Momenta to develop self-driving technologies for future models in China. In China,"
@@ -238,6 +238,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "rkC/YrSzvWflXuH3XrDdqbUUmhaGp1V+EX8aOkgWE/oniYBr/0+EJnBDWU7840SKcRK8Yg6DhqCYy09W8pwRSfuoEVS6Gcw5h0dbTFT0+Pm2g0F06breM++MWOERtiLgaKxKwYiJ2TYu+62ZMobTmK4Bl+HRR4YBy3xFTnHP0wMDtUTIbu1UobhyTMw6KUE8kIJYsQDpz/TPCizaGiFYTtg40raY0it1S8jfYDwQ1qg687lpzKYMVYRU3GltM66/LvuiVcsmI0WfXkx5/Nwh9I08siWiJfL/Xu1zpmEpsmMXo7KINY+WlJiR1DRfJD6tv5dVecfeqgL3WPstPpPCG3e7iikGm40uEUzs2o8STUsQVqwM7XqiSVr5+pgermbdtb+vS7pQwgnWYhbGjXA0mpWxfUOLHmnXFIChro4oaop4HYm9rTQfJ7TIJ7Mrv3ec5Fa5fFrlhRcpmOHLk6MzVnv8Jcs+ooqxTr/smFi6OMZ8CHL9XxSO2E7Z3Ym5VBgy8o7MEW2Oo8HzomvexOykEQ==;FriYwuMBpUAyf8An8SKpKw=="
+secured: "Ig17X9QdrBOwHgcoU/kQha5y/CcgFhwNx+OaO0Ck1bo2cvSkgdwNrxSOB8I5DHyTcWzcF4dLPdTYOMFseQt9mzN8jPOB1w0QiwYFCYiUrwlE0gfvV3OxEHBrNptst3sxn1eedyBd8zDgpXnD6piprlxiySVH2pJSaUSZ5ea0xMnaAH8s+HAK+UD7/5LiUelUfSnSGNZjwecYqcWH6jjTdXtUagdlsNSOs+SxSzNybeLBdZjSgbdXwu5XCpxbIUlwSPUOwqqB7qzCrHgt7cjotbhkrKtCd+mgIJAmmU9Il5yLH9bljFR7cNVFDXHC1krJ1V9dWMi/AYQWdFZhq0DkNZxxL3LGeGFvENj5RIOuT14=;n360c+r2ci86td0A0mQ5jQ=="
 ---
 

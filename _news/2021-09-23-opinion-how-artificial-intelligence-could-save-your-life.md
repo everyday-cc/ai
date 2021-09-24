@@ -9,7 +9,7 @@ ampWebUrl: "https://montrealgazette.com/opinion/opinion-how-artificial-intellige
 cdnAmpWebUrl: "https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life/wcm/5f1cb3c0-543d-4e66-a770-f4122faac455/amp/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Opinion: Will AI create what humans believe to be beautiful?"
+    excerpt: "Nowadays, many, if not all, popular trends are led by the public. It may sound needless to say, but if AI in the future dominates the method by which humans create arts, the majority of the arts in the future would be created by AIs."
+    publishedDateTime: 2021-09-24T17:35:00Z
+    webUrl: "https://highschool.latimes.com/fairmont-preparatory-academy/opinion-will-ai-create-what-humans-believe-to-be-beautiful/"
+    ampWebUrl: "https://highschool.latimes.com/fairmont-preparatory-academy/opinion-will-ai-create-what-humans-believe-to-be-beautiful/amp/"
+    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/fairmont-preparatory-academy/opinion-will-ai-create-what-humans-believe-to-be-beautiful/amp/"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 57
+    images:
+      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2020/08/artificial-intelligence-3382507_960_720.jpg?fit=960%2C640&ssl=1"
+        width: 960
+        height: 640
+        isCached: true
   - title: "Opinion: AI Might Eliminate Humanity in Human Resources"
     excerpt: "According to recent findings, more and more human resources professionals utilize artificial intelligence in evaluating employees. But such tech can lead to unfair employee appraisals or outright discrimination."
     publishedDateTime: 2021-09-21T21:52:00Z

@@ -115,22 +115,6 @@ related:
         width: 540
         height: 540
         isCached: true
-  - title: "Samsung in talks with Tesla to make next-gen self-driving chips: Report"
-    excerpt: "Samsung is reportedly in talks with Tesla to make next-generation self-driving chips based on Samsungs 7-nanometre chip production process."
-    publishedDateTime: 2021-09-24T09:32:00Z
-    webUrl: "https://www.sify.com/finance/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-news-topnews-vjyj6Kigeacgd.html"
-    ampWebUrl: "https://www.sify.com/finance/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-news-topnews-vjyj6Kigeacgd.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-news-topnews-vjyj6Kigeacgd.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 59
-    images:
-      - url: "https://www.sify.com/uploads/samsung_logo_ians_vftm7aaijdchd.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "GM invests $300 million in China's self-driving car company Momenta"
     excerpt: "The move is part of a plan GM announced three months ago to invest $35 billion in electric vehicle and autonomous vehicle technology from 2020-25."
     publishedDateTime: 2021-09-23T16:41:00Z
@@ -147,6 +131,36 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "GM invests $300M in China's self-driving car company Momenta"
+    excerpt: "General Motors is investing $300 million in China's self-driving car company Momenta. GM said Thursday that the investment will speed up the development of next-generation self-driving technologies in China."
+    publishedDateTime: 2021-09-23T15:59:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/gm-invests-300m-chinas-driving-car-company-momenta-80190727"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/gm-invests-300m-chinas-driving-car-company-momenta-80190727"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/gm-invests-300m-chinas-driving-car-company-momenta-80190727"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_1759e8719a7e4b3196a74cd342b7b4ee_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Samsung in talks with Tesla to make next-gen self-driving chips: Report"
+    excerpt: "Samsung is reportedly in talks with Tesla to make next-generation self-driving chips based on Samsung’s 7-nanometre chip production process. According to the Korean Economic Daily, both the companies have discussed chip design multiple times and have also exchanged chip prototypes for the upcoming Hardware 4 self-driving system from Tesla."
+    publishedDateTime: 2021-09-24T16:41:00Z
+    webUrl: "https://www.imdb.com/news/ni63428658/"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 39
+    images:
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
+        isCached: true
   - title: "General Motors to invest $300m in Chinese self-driving start-up Momenta"
     excerpt: "Four year old unicorn Momenta has also been funded by SAIC Motors, Toyota and Bosch in the past and closed a $500m round in March."
     publishedDateTime: 2021-09-23T08:55:00Z
@@ -160,20 +174,6 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/09/GMLogoRenCenBuilding.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "GM invests $300M in China’s self-driving car company Momenta"
-    excerpt: "General Motors is investing $300 million in China's self-driving car company Momenta. GM said Thursday that the investment will speed up the development of next-generation self-driving technologies in China."
-    publishedDateTime: 2021-09-23T15:57:00Z
-    webUrl: "https://apnews.com/article/business-technology-china-3ac51a2f83d29fffa9807a5b74b02070"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/1759e8719a7e4b3196a74cd342b7b4ee/3000.jpeg"
-        width: 2999
-        height: 3000
         isCached: true
   - title: "GM invests in Chinese autonomous driving startup Momenta"
     excerpt: "Momenta is among the few companies that hold a permit for gathering high-definition maps in China, a key tool in autonomous driving technologies."

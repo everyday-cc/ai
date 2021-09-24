@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/09/22/building-more-equ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/22/building-more-equitable-education-systems-with-the-help-of-ai/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614d390b7fd2efccee159f71%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1203%26cropY1%3D2%26cropY2%3D679"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Amazon's AI Is Helping the Police Watch You"
-    excerpt: "Amazon markets the AI, called Rekognition, for a variety of applications from the innocuous (allowing videos to be searchable by the people and objects that appear in them) to more concerning applications, such as real-time tracking and security."
-    publishedDateTime: 2021-09-19T23:59:00Z
-    webUrl: "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 39
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/Design%20News/Traffic%20cameras.jpg"
-        width: 1280
-        height: 856
         isCached: true
   - title: "AI-enhanced system enables doctors to spend less time searching for clinical information and more time treating patients"
     excerpt: "Electronic health records have been widely adopted with the hope they would save time and improve the quality of patient care. But due to fragmented interfaces and tedious data entry procedures, physicians often spend more time navigating these systems than they do interacting with patients."

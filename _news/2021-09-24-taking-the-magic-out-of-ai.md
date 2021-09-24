@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 747
         isCached: true
-  - title: "Amazon's AI Is Helping the Police Watch You"
-    excerpt: "Amazon markets the AI, called Rekognition, for a variety of applications from the innocuous (allowing videos to be searchable by the people and objects that appear in them) to more concerning applications, such as real-time tracking and security."
-    publishedDateTime: 2021-09-19T23:59:00Z
-    webUrl: "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 39
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/Design%20News/Traffic%20cameras.jpg"
-        width: 1280
-        height: 856
-        isCached: true
   - title: "AI-enhanced system enables doctors to spend less time searching for clinical information and more time treating patients"
     excerpt: "Electronic health records have been widely adopted with the hope they would save time and improve the quality of patient care. But due to fragmented interfaces and tedious data entry procedures, physicians often spend more time navigating these systems than they do interacting with patients."
     publishedDateTime: 2021-09-23T12:44:00Z
@@ -75,6 +61,6 @@ related:
         height: 1217
         isCached: true
 
-secured: "Ruyryw9WfmHb/X6MguJ07aTRAYD4yM6FtsDoZPpu9SMIRclClnI8IrK/J/o9IC+UTHbSREKgzNSovDFBGb/KIJJiYrwm8bpkvVRtj7WFQTmlDjDI+2YhII0sy1/zD1/z76OyWnObiTvkRUK0oPX5X3jchykDvClTFSDlTQ9b8nGx0X2qmnrqRhn8B8IliVaOdnD1zIhzJuaQ3RUXFOMy1MQAKLWTrp2wuzAufTSf6yS3zMA3BYsJiel+wuFleoOJABydgZ0QllpyhJgXmi6G6i98JX0vlzLA2pupTTTxKZkhQF9Yeo66I3hHOUMZLMob7Z1dug4ukMW6DjWzSXIg7ArBP0+hCv2nZWQfTadP10I=;S9o+flwYo2k/WC1frfAQ5A=="
+secured: "UiRSEWGCSWxtv9IPa1bmwVlRTZfu3ideZDv2KFweO5kfWS6vt6qQWIpK2LZG5O7eGMJki3RUPxzGGWz7mSgtRNRVk1n9Dd77mFIRMwCg5Ki8ayZCfRGthrEU0IuYNV12YgDtfG5Vi5J6RIOL/yYi0chKI+Fc6sv4NKpunM5R+s3+1oAtt/FudKeOKmRZ8ZRgphOfXL3cviTkQumXcVghLPCSAxP4vUw9PAOz/QP1R9dtZ2l1cGpBTOUa43hCwMKgCdx2i57ji1C1UDPWAkZ5JMMt+LxOoGvjjFz1Z4QtVEq62l3uIsgR7ENvdAacpShT7h1GWoNWC/1nhlmH68ktaq2Staq+hua3JGLzTRGu0NxkQGRZ4mmyh+C/k0mftSibeEgJr06M5s+KG0WMXg3NEPm53BM1656G594oTk6F2y2/kG7qVLXazm5Cgg+wiUD/J59KLdJAy/YzhJGeJoCABJqYvhQDmZcj1MNbiKR+m6LHxmvPIYuTw6lF/dj6hlH9rZqukluFnwG+BQAn4C8g6Q==;EvGhuT0ER9j/gOY1K7EmdA=="
 ---
 

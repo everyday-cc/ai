@@ -3,8 +3,8 @@ category: news
 title: "Three ways to maximize the business value of AI"
 excerpt: "Don't get caught up in the AI hype, these three essential tips will enable you to rapidily deliver business value from your AI projects"
 publishedDateTime: 2021-09-24T11:32:00Z
-originalUrl: "https://www.thoughtworks.com/en-us/insights/articles/three-ways-to-maximize-the-business-value-of-AI-and-ML"
-webUrl: "https://www.thoughtworks.com/en-us/insights/articles/three-ways-to-maximize-the-business-value-of-AI-and-ML"
+originalUrl: "https://www.thoughtworks.com/en-ca/insights/articles/three-ways-to-maximize-the-business-value-of-AI-and-ML"
+webUrl: "https://www.thoughtworks.com/en-ca/insights/articles/three-ways-to-maximize-the-business-value-of-AI-and-ML"
 type: article
 quality: 37
 heat: -1
@@ -110,6 +110,6 @@ related:
       domain: phys.org
     quality: 19
 
-secured: "Da82+W8LhE8q18a9OrBLZIiiA1LYgdMFHCU/C1dljdl95M+5PnJwPJw2MkS4TtJJcdbAjmEUcUAj17/gUpoR2c2Bgi3t1mEKXWdzxa0VKuMm9IxN/nY6R/qTCakHimNIQpkkkHKKBjG0c7ga6x3jIrxe/opP7ELXjFHDKIj6z3OlK6FIbKX4XyT7g/PRkgYLs3m6LNcBOoG0cLnSNG0NoZy52JAIf2mnDNv0KRS/wnVoul/l6zBItyM3H7OXEe+XyIK80Oo4FbBJLcbgVbfkfy/CB1yPIUm18j6EM5R9df6js8h/XNWCoaxbYkQtXfpZ+rO71DnlcQVosBDPUfiqahsV7pJJzVyaW4ew92FwA1g=;F8B32WiQ7eF9gRlpow0hEA=="
+secured: "FIRAB0sdEIGzJDrBLMlqO9T70xXDvnyVt95VIaCrpgtq2Q9OeJ8Wfha8YLPUGDbiOw2vbbfi+zsBneBE+LVhAH55vfSydnSX91mBCHlz1a5/wDx7uGw/ZcVViU+R9hUmA7LaOkUglS9RaamKt8ts4L9R71cf3BX9y8tvA9akcYRAuEwg//q6/HAZYkCYUi7XSa+D6RQ6Gur5QY9FW4HbPXU3qe7rzv2HzudKjBN/614DSV2WgMQwyHqVHSBl9xqcI7Fdne2D5DhIEVClE6IPSRXX8mjwq8L3YsPIiFFGeqS4SdE9Xrrjb+eomWJjE02m59Zgmo38g1Ob8qoVpAB8/upg+GJGCef657MfcGJCoA8=;Rij/gEsU4nGFQ8fIp4LryA=="
 ---
 

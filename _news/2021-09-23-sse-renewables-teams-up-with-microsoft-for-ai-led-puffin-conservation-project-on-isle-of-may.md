@@ -83,6 +83,20 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "Why Wells Fargo picked both Microsoft Azure and Google Cloud"
+    excerpt: "The bank wanted to diversify its risk and use different cloud-computing services for routine and unpredictable workloads, explains Saul Van Beurden, the head of technology at Wells."
+    publishedDateTime: 2021-09-24T16:18:00Z
+    webUrl: "https://www.americanbanker.com/news/why-wells-fargo-picked-both-microsoft-azure-and-google-cloud"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 54
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/df00aa1/2147483647/strip/true/crop/1400x735+0+65/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F16%2F46%2Fc143e5604932b082b06e60d47617%2Fsaul-van-beurden-2.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Datawiza Adds Support for Microsoft Azure Active Directory Conditional Access to Deliver Zero Trust Security"
     excerpt: "Datawiza, a pioneer in cloud-delivered Access Management as a Service (AMaaS), today announced support for Azure Active Directory (Azure AD) Conditional Access in its Access Management platform, making it easier and faster for joint customers"
     publishedDateTime: 2021-09-21T13:05:00Z

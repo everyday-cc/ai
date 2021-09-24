@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Three Key Artificial Intelligence Applications For Cybersecurity"
+    excerpt: "We are at the doorstep of a new era of smart technology and cybersecurity is already a testing ground. The cybersecurity industry is increasingly impacted by the deployment of solutions supported by a"
+    publishedDateTime: 2021-09-24T17:25:00Z
+    webUrl: "https://www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/"
+    ampWebUrl: "https://www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614e04f5dff3ebea27d194cc%2F0x0.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Artificial Intelligence-based Cybersecurity Market Forecast 2031 – TMR"
     excerpt: "With the Covid-19 impact, organizations are focusing on decreasing dependence on human resources and maximizing the use of cutting-edge technology to implement cybersecurity activities. The positive impact of Covid-19 will be distinctive which in turn is expected to boost the growth of the artificial intelligence-based cybersecurity market during the forecast period."
     publishedDateTime: 2021-09-20T11:17:00Z

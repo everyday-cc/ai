@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/09/22/navigating-ai-and-machine-learning-13-techniques-to-boost-business/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers having a whale of a time with deep learning AI algorithms"
+    excerpt: "Researchers are using deep learning AI algorithms to understand and communicate with whales. Deep learning AI algorithms are becoming the key technology in some of the most complicated use cases around the world."
+    publishedDateTime: 2021-09-24T15:59:00Z
+    webUrl: "https://techhq.com/2021/09/researchers-having-a-whale-of-a-time-with-deep-learning-ai-algorithms/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 54
+    images:
+      - url: "https://cdn.techhq.com/wp-content/uploads/2021/09/000_9LP9TU-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Harnessing drones, geophysics and artificial intelligence to root out land mines"
     excerpt: "Armed with a newly minted undergraduate degree in geology, Jasper Baur is in the mining business. Not those mines where we extract metals or minerals; the kind that kill and maim thousands of people every year."
     publishedDateTime: 2021-09-20T14:29:00Z

@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Shark's Smartest Robot Yet Features AI Technology Similar to Self-Driving Cars"
+    excerpt: "That's why Shark®, (HKEX: 1691.HK), the #1 brand in vacuums*, is excited to introduce its newest and smartest innovation - the Shark® AI Robot Self-Empty XL- with next-gen intelligence and AI ..."
+    publishedDateTime: 2021-09-24T17:57:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/shark-s-smartest-robot-yet-features-ai-technology-similar-to-self-driving-cars-1030822427"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
+    images:
+      - url: "https://mma.prnewswire.com/media/1634664/Image_1.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Drones, Self-driving Cars, and Everything in Between"
     excerpt: "Pete Buttigieg first came on the scene as a small town Mayor in Indiana. He launched onto the national stage as a presidential candidate for the Democratic party in 2020. He now serves as Secretary of Transportation under the Biden administration,"
     publishedDateTime: 2021-09-22T20:55:00Z
@@ -166,6 +180,6 @@ related:
         height: 501
         isCached: true
 
-secured: "IPa3AXtiSpAASnINh9kkO3MnrLq1nCFCS8Nij5a3G/3RhWLh57R1/YLa5JF1iHFQZVAfSNTIE9fHoh5pkdke1j5774VJE0Mn0+gBeLDQghfYmqiy5qQEJRDFk18ToGrF3YmsNjmuD4ElpTi/q6I/X2JRtIvhknm/FwOIqfvMOIUpEj5d0wV8HOeEoJx8vUlbkOKPg70MKExHSVeyvwjgxV5Yh8wPuOaX/U0PbzXAlpoY6guT9tAwYZ13KKqD/Aqfte9CCd18AXsK+Ef6nUINhVqOwm2JY/ayNB/dK+fN6H1Lhiusb5qnhzTtBcEDvzGAjeELLGdm3JIJULbYpFeoG0x4QGL1Mki35EwPbuHLb0w=;qdU9oAK5xC4ujNR1dtwFpQ=="
+secured: "ZVs087F2xDiP6Ybs48LEGaJ9U9TcaHe+boD5jSsU9x1mCqFYavgAJOEMHpJyhKt58OIni+8IyH/+GD3m143u6oqA78abGN9CmpIN1qnLHtAJOCkyB6Tzk5E10tRx2l8A1EwXiS38+ztBlb8yg8me+b2Dp8M2kaGifH+WRdLWtYwWLGIKS+G6nsqBYYJ4gIqmDi900Iu5d5TbKmH0I4OxuhH0ioJCw+82YEouaRYPBnaiC9+z0S28IW66hfvoWaKa3dsNmOkEVAPAqwoAeU9E6mXx65kYw1FC4NuLBDLJuOYD+GdY5dytShsh9kXg3yeC8CDwpt/kCjwzuzUEpvZPpfabgVWtg+WVdIyIN6WJ0QhQ+pah+fT3huzMOQECCNrZSmB2q+s6k2yxyiqL32K/IfC+7uNRXeWdI8T4ZrDfs6wAjj5kNfcWYHtMOKODqUp2G6xk4hIBhaso8S8Ln6VbOtrilure3p9Ss2CO2HrzVmtgZ2TzWI90aLpOU6Gmyqo2+8x/E9CIbHSnbUEHbaqUvg==;XZGgWl27j8UhLB4AXlC8Eg=="
 ---
 

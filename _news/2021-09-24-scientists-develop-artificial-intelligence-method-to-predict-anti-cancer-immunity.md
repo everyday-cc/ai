@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "Artificial Intelligence Better Than Risk Factors for Predicting Cancer Risk"
+    excerpt: "Deep learning does a better job than clinical risk factors in distinguishing between the mammograms of women who will later develop breast cancer and those who will not, according to a study published online Sept."
+    publishedDateTime: 2021-09-24T17:52:00Z
+    webUrl: "https://www.physiciansweekly.com/artificial-intelligence-better-than-risk-factors-for-predicting-cancer-risk/"
+    ampWebUrl: "https://www.physiciansweekly.com/artificial-intelligence-better-than-risk-factors-for-predicting-cancer-risk/amp/"
+    cdnAmpWebUrl: "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/artificial-intelligence-better-than-risk-factors-for-predicting-cancer-risk/amp/"
+    type: article
+    provider:
+      name: Too Old to Operate
+      domain: physiciansweekly.com
+    quality: 55
+    images:
+      - url: "https://www.physiciansweekly.com/wp-content/uploads/2021/09/image1632505544.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Scientists develop artificial intelligence method to predict anti-cancer immunity"
     excerpt: "Researchers and data scientists have developed an artificial intelligence technique that can identify which cell surface peptides produced by cancer cells called neoantigens are recognized by the immune system."
     publishedDateTime: 2021-09-21T00:00:00Z

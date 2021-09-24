@@ -34,6 +34,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Responsible AI: Why Ethics Are Needed in AI (Part 1)"
+    excerpt: "From translating languages and analysing data, to diagnosing diseases and automating customer service, it’s a well-known fact that Artificial Intelligence"
+    publishedDateTime: 2021-09-24T16:06:00Z
+    webUrl: "https://www.accountingweb.co.uk/community/industry-insights/responsible-ai-why-ethics-are-needed-in-ai-part-1"
+    type: article
+    provider:
+      name: accountingweb.co.uk
+      domain: accountingweb.co.uk
+    quality: 34
 
 secured: "TYw+tPBiyqQY+LqkjvIVa5Hty9Bi71XFiDA43Pdz3oX5wW+NS+nkfFjKSrmx6cc6PEHMAW9nUuxAleMLoAHqUCwkmH5jyrxoRCGYipm3Zzz0jZM/GuzSa7r0q+dERUhzEbnElcGAVeD6snv9epimD2Q5XCu9dDI/fou2/UUsaHoHkpifBm7yriSIShyOOGi8+ZIwu16yWUJLwQYYOl3VxtpAmP5JumsqYzl8Hzho877fZIjpXn7maVxV1DOEKwrTa80A50GiPbHzbxtUIpxUAIs1vz0VMbF5oRifF8SpGw8fjxozWiEEAvKSfQvwvLYTsaQ3ZeEGp/+YG41t82fCUkmLGfU1mShfZaEeoMSElEg=;K+2xv8MJq6ShGbA0Apkzgg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2021/09/22/deep-learning-targets-drug-com
 webUrl: "https://www.datanami.com/2021/09/22/deep-learning-targets-drug-combos-for-covid-19/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deep learning helps predict new drug combinations to fight Covid-19"
+    excerpt: "A neural network developed at MIT and elsewhere identifies synergistic drug blends for treating viruses like SARS-CoV-2. The work was carried out primarily within the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Broad Institute of MIT and Harvard."
+    publishedDateTime: 2021-09-24T16:25:00Z
+    webUrl: "https://news.mit.edu/2021/deep-learning-helps-predict-new-drug-combinations-fight-covid-19-0924"
+    type: article
+    provider:
+      name: Massachusetts Institute of Technology
+      domain: mit.edu
+    quality: 71
+    images:
+      - url: "https://news.mit.edu/sites/default/files/images/202109/covid-virus_0.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "Ireland Allies With AI to Combat COVID"
     excerpt: "Ireland’s eHealth strategy leans heavily on AI and Big Data analysis. The nation has a bold seven-year eHealth strategy, with crack professionals, EUR21 billion in hand, and a 100,000-strong workforce."
     publishedDateTime: 2021-09-23T10:02:00Z

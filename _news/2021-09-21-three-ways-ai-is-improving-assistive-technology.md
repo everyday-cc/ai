@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/21/three-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/09/21/three-ways-ai-is-improving-assistive-technology/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 813
     height: 542
     isCached: true
-
-related:
-  - title: "Dubber acquires world class AI technology company Notiv"
-    excerpt: "Dubber Corporation Limited (ASX: DUB) (Dubber) announces today that it has acquired Brisbane, Australia based technology group Notiv ( Notiv is a developer of innovative cloud-native AI-based products that turn meetings into transcribed notes,"
-    publishedDateTime: 2021-09-20T00:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/dubber-acquires-world-class-ai-technology-company-notiv-1030808575"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
 
 secured: "j9Yl7U04wg/w0U2/jMoQULl+NUnKxH8R72fT6MIy+asHlU5gXiF/crV8dPpef/4a0R3f6OfqTj25bBdON99s2Jtv9Jx/vgHMJRTR48HUCuYRYHlyMBQA7xWrAq8FtZiTm9U6KKwBtjxo4R9muLSkiT4/QKUduIQz6PAKuTU4tdXEhy1CGWzqE6TeT+fYCDe4EDfgvvGN0F9+0gFep1reDP9u1j40MHJ051waMN2pqpgE9rY2iFtJ6po/xFNHoy857z+HLm7aFGIccY1kZVxpzQfmOGckF8xhdjIaKNz1YcAGOLG3DIDLY9q3a4QjxtI0Zk8Lrh7FdQ2UXUEcRBucKBIhXd3Ec55wBAQLct77pI7MBztR/2losMNOLYEhDYw2g2XWU7GyJM4E/0wCaVpLzx9TJoPYP6V8a4gIHFt3kRJoNNr96QwxmMfNde44WIH/jV3K9nRHj8X4LiVRTgnlMhTocsop6gDszZ/fyasFVrlSeqgv2VteozD+bBKjt0xHOkMI8lJ48cmr/gCk4uLPEQ==;Xghbna2wQLrQV3lVLcOTBA=="
 ---

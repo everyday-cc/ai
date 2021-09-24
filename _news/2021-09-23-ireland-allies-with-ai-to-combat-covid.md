@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deep learning helps predict new drug combinations to fight Covid-19"
+    excerpt: "A neural network developed at MIT and elsewhere identifies synergistic drug blends for treating viruses like SARS-CoV-2. The work was carried out primarily within the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Broad Institute of MIT and Harvard."
+    publishedDateTime: 2021-09-24T16:25:00Z
+    webUrl: "https://news.mit.edu/2021/deep-learning-helps-predict-new-drug-combinations-fight-covid-19-0924"
+    type: article
+    provider:
+      name: Massachusetts Institute of Technology
+      domain: mit.edu
+    quality: 71
+    images:
+      - url: "https://news.mit.edu/sites/default/files/images/202109/covid-virus_0.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "Deep Learning Targets Drug Combos for COVID-19"
     excerpt: "Using computational biology to identify individual therapeutics that might prove effective in the fight against COVID-19 is already a daunting task, with"
     publishedDateTime: 2021-09-22T22:16:00Z

@@ -73,6 +73,20 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "Why Wells Fargo picked both Microsoft Azure and Google Cloud"
+    excerpt: "The bank wanted to diversify its risk and use different cloud-computing services for routine and unpredictable workloads, explains Saul Van Beurden, the head of technology at Wells."
+    publishedDateTime: 2021-09-24T16:18:00Z
+    webUrl: "https://www.americanbanker.com/news/why-wells-fargo-picked-both-microsoft-azure-and-google-cloud"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 54
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/df00aa1/2147483647/strip/true/crop/1400x735+0+65/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F16%2F46%2Fc143e5604932b082b06e60d47617%2Fsaul-van-beurden-2.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Datawiza Adds Support for Microsoft Azure Active Directory Conditional Access to Deliver Zero Trust Security"
     excerpt: "Datawiza, a pioneer in cloud-delivered Access Management as a Service (AMaaS), today announced support for Azure Active Directory (Azure AD) Conditional Access in its Access Management platform, making it easier and faster for joint customers"
     publishedDateTime: 2021-09-21T13:05:00Z
@@ -232,6 +246,6 @@ related:
       domain: businesswire.com
     quality: 21
 
-secured: "R0OjY9T2qfAXR7tWLeCEm3LrbeLDYtO8kzg+8LbNztNhoVoqVmkflj3KSvplBU7id95nGAPmvtBESjFj0kefDrMYHmslExUCgmqjzxtCUtsDDmiGa6aXUiHHtoyFxeKHr2gmWCFHcfGFgIn8NqUCtVGAaWbPfG4+fHVN9NSQbO7drvOVCW2Syv5vz5qO5wokbhTveeINI4VvaTG7LX65Iw9e0NFXCUPg7gtDFCBzjdL3Qw0N6FC9GVd7uqcGt4w0PEPUOJogcsW0ppthF/Q7+BwYZIFNAuPpI4nA6SX59Y6rner1Im/TzyTkE1ruFO89D8aFU1xqWQLrL+u8eVEB8NMrSuAtq0Vz0EhaJW5nN1g=;vjdlSxDKBeBF6fDQIG0tBA=="
+secured: "DDkCBLKYCMpnLNjYgNI6ASZF7LUbgjCwAyuhrtwrjNYQ4AcPxv0A1731vnsMqZnDOtCCFTlTFC42niRGRQzdS1GPlwcsz/KCBCq26BKaJCUlbH7E8rzze7sYhRN6IqP4vdEeHJBK/wexplCudmJ0oOC39dOcr0u0DIKON6yBU+cA1yTWD2XeBUI6llcwg9P6EHu9lYTf2Og2uvrs5GhiuzG2p0doiThd8FUWE9pYBhbX0Wq8ef4aJBvMCFDaXJRvSeUk+EslmLLwPR47PqoW2rIXzaoK2/6SkQrFrZ4kEAaaHBBn/XD21QWuBmqGt+2VR5PyaloABVl7LGXbEEjdaEusSQUo4u7FDBXaB4ULtmw3pXS/MfNs//f8pYT4jqhLonlMe51ita1N5W6ZQtaR3TXhKlcj8d/5hrtJBylQNWf6j5QtPCi6g/svxMCMJJUR9PjXSBSbgSCcg8UBNpnh5wwQzyrP4iwByJO8s7e29dIAdtSIhj2/Lv4JrzPTBx0be6TynDUr0JV5vpT0A4/P/w==;qUx4JgEYkRecRok2kGlk+w=="
 ---
 

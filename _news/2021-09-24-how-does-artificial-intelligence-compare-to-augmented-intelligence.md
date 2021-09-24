@@ -25,31 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore AI Startup Advance Intelligence Raises More Than $400 Million in Latest Round"
-    excerpt: "By Yifan Wang Singapore artificial-intelligence startup Advance Intelligence Group has raised more than $400 million in its latest funding round,"
-    publishedDateTime: 2021-09-23T02:42:00Z
-    webUrl: "https://www.marketwatch.com/story/singapore-ai-startup-advance-intelligence-raises-more-than-400-million-in-latest-round-271632364943"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/singapore-ai-startup-advance-intelligence-raises-more-than-400-million-in-latest-round-271632364943"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/singapore-ai-startup-advance-intelligence-raises-more-than-400-million-in-latest-round-271632364943"
+  - title: "Peritus.ai automates community intelligence for cloud-native questions"
+    excerpt: "Peritus.ai has built a machine learning engine that helps surface the best answers to developer questions on cloud-native technologies."
+    publishedDateTime: 2021-09-24T16:50:00Z
+    webUrl: "https://venturebeat.com/2021/09/24/peritus-ai-automates-answers-for-cloud-native-questions/"
+    ampWebUrl: "https://venturebeat.com/2021/09/24/peritus-ai-automates-answers-for-cloud-native-questions/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/24/peritus-ai-automates-answers-for-cloud-native-questions/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/09/peritus-analytics-.jpg?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 598
         isCached: true
-  - title: "RPA and AI in Banking Market Likely To Boost Future Growth By 2027 | Cognizant, Capgemini, Accenture, Fintech Singapore, The Lab Consulting"
-    excerpt: "The report covers briefly the products or services in the market and their application. The report also provides information on the technological […]"
-    publishedDateTime: 2021-09-20T06:23:00Z
-    webUrl: "https://www.globalbankingandfinance.com/rpa-and-ai-in-banking-market-likely-to-boost-future-growth-by-2027-cognizant-capgemini-accenture-fintech-singapore-the-lab-consulting/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 0
 
 secured: "oOTqYO9Po9HWALOKCJhTy662/kLOS9B0gK+UulvpIjRQ+XcyNfK+fZidEVwt1tBOpspnglPsQ4SZthQjlKw1U2MxRN8wUv1aNWjrXvH50KRLbieIe2JjZR4qettYPDLrfwTQpVGJyds31qn66FKFXpke2UhCkwg8DLTDUVSmXV85P8Rh4T8r4fVbCRfFWsUd1PobM8l59zSsp6lV9kkyjWeyFGxHHCPShyGyoLHX0M7GoMxE8P13ED3Z+11xVVEGov/jgmth71j5HlWE9IOjgVYbYdqeXNFD2FI60HB/ZCL+Ecm5IZ/gpgzsUfd0hukQ+iZYTOJs95o/sECYngXLlezFG1wmxMjcfnBmjtBBZI55zfXvyLFluhIfjArh1TFeIgctsLJZao52GcNxhA+aNdClECFzUdQ9mVE1KOAkpGxCU2mCQtqMvfLNTcTMaAKQZzIIyVspvuXIaMG2cyCBtCPlZwp1z4NSK+423bwJIqIXg2+rugaRYM1WLCMljdy89KnUS+CMW/CtOCU5Z9bSsw==;q7UOEC6hyDKsaQqgw96lPQ=="
 ---

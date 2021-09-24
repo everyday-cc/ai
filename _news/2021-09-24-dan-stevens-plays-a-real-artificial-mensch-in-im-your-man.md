@@ -9,7 +9,7 @@ ampWebUrl: "https://nationalpost.com/entertainment/movies/dan-stevens-plays-a-re
 cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/entertainment/movies/dan-stevens-plays-a-real-artificial-mensch-in-im-your-man/wcm/addc4bab-1931-4c5a-a83c-6effb17e9f74/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1000
     height: 750
     isCached: true
-
-related:
-  - title: "Dan Stevens, who plays a charming robot in ‘I’m Your Man,’ says humans are weird"
-    excerpt: "The actor says of technology, ‘Usually, the things we’re afraid of turn out not to be the things we should have been worried about.’"
-    publishedDateTime: 2021-09-19T23:48:00Z
-    webUrl: "https://www.ocregister.com/2021/09/19/dan-stevens-who-plays-a-charming-robot-in-im-your-man-says-humans-are-weird/"
-    ampWebUrl: "https://www.ocregister.com/2021/09/19/dan-stevens-who-plays-a-charming-robot-in-im-your-man-says-humans-are-weird/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/09/19/dan-stevens-who-plays-a-charming-robot-in-im-your-man-says-humans-are-weird/amp/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 54
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2021/09/LDN-L-IMYOURMAN-0924-04.jpg?w=1024&#038;h=682"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "0MxZ/N+9q96QvlRbaX9jRGxUwvX06AReGnJcsxrq8hGoc8xz6F1Vt2poEiUBnJfS8W66i8p9gLoGniuiTtCNgVjGnR+hCQMVyYTdlzc+W07dTEb3LNjQEr+V4GzOXtBCiNljRq/29hloT5qy+Of91i+7Q5FNcv6KhZYt4hDfSOF+mqdVEDuctY9PEFyeYIxxHNJjIDUbXcBjeHqfN7N1BxvTTisXo/b9lXpWqJC4N078ALbVU4QswaKCNcuvCRobVOYRZtH2YnbrACF9qXLkiJwC6OVJzqVkZEG8fZOgWe65IRRDPywURnzhzAvfdMSsbIypBbxbeGKeI6dsTVNbsitfjLukoAUAGKzksKNoiBc=;uIHWi+VB+EdQvQ/BQGt/RQ=="
 ---

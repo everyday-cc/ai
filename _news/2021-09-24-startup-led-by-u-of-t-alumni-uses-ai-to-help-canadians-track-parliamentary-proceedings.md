@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Startup led by U of T alumni uses AI to help Canadians track parliamentary proceedings"
-excerpt: "Alphabyte Solutions, a data analytics and consulting startup co-founded by University of Toronto alumni, has created an online platform called Parlawatch that uses AI to boost engagement with federal politics by helping Canadians track parliamentary proceedings."
-publishedDateTime: 2021-09-23T17:46:00Z
-originalUrl: "https://www.utoronto.ca/news/startup-led-u-t-alumni-uses-ai-help-canadians-track-parliamentary-proceedings"
-webUrl: "https://www.utoronto.ca/news/startup-led-u-t-alumni-uses-ai-help-canadians-track-parliamentary-proceedings"
+excerpt: "Their online platform aims to cut through clutter, misinformation and bias to help people better engage in federal politics"
+publishedDateTime: 2021-09-24T16:48:00Z
+originalUrl: "https://news.engineering.utoronto.ca/startup-led-by-u-of-t-alumni-uses-ai-to-help-canadians-track-parliamentary-proceedings/"
+webUrl: "https://news.engineering.utoronto.ca/startup-led-by-u-of-t-alumni-uses-ai-to-help-canadians-track-parliamentary-proceedings/"
 type: article
 quality: 29
 heat: 29
@@ -18,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.utoronto.ca/sites/default/files/20210808_182135-crop.jpg?170363"
+  - url: "https://news.engineering.utoronto.ca/files/2021/09/20210808_182135-crop.jpg"
     width: 1140
     height: 760
     isCached: true
 
-secured: "CXp6RJzGS102DNvd5jpn2iuHtHANHYUf/jjl3UpVQvijbdUPU/jbjmHsEhQ9Hy+bdSV+Li4yeRCFyNuRJW8LxXk4T/1joFq2fsKZyEnkI397wnIgpLl3OtyMqewJslzChlh4JWDhR7dQUMHGc8KgDpIcspj63pljtRywIgL8PIyAM/OfMeIrJOHqPAOLxbenQ6iq4bncKHDR0lbqaSmSXuvdh6cAHxPMhXHb5DKcnTu3QGnkJyLEj+KJMfbf2qdcjnjutyWZ3XOJjf6csi4teC2jXdUUt/20eNKFeuMJVIMYFjKuEr7v0ubhb7M9ERyAVJeLJUYmuPCNstvWqea91SD3Vki/LEyz1GxzgA0iMnIaUQtjn3r8uqqFhGBJ+2Ra2i+17TY+SvCJSJa7NtJV2TQ6LHOuAD9hiugWf+NDkFJkq336XUdbLZh4yzKHwN9qN/4L1qM30+VOHwjAAYjLpymRbl+Gh61pkWymnQqIAB4YtDTcLiNhZW7rRG68Ej+GV0Rc+0EftPidIYGQQq/oYQ==;WuvyVHPEkpnkNoPLR4WyEg=="
+secured: "mAAK6DVMmwpLH8n/cwLltvh8IZsB9wqJYfbFX8cK8/eQN5N/we1c6BgnOtDqQHF6BwIvnJd+4ZIHrlKM9Puzryi1SrAiobHwk8KbwS+zB5aTQ1FUENwfxZFQ31Ptu6HPie48rbxZiyzpgp82zvXO0TYQ+XnYFnnr3R2TAmBZw/1z+w2NEkNCIoDEJq+0xfxRsVBURxFJtTDj/JMUFUPYj1KF+qL9WSB+1Zky1HbvKoEgNj/963/Zy8KiB/R38uRYJpLX+Fgz0fb0sC+swb2yl2ZBxptz9P5e7rWQTmGybT42IWb7ok7D0kpH+uGJ9r9XILLshwMppp8sJ0cIedbKUnj8g3MGu4jfEbtrk6E8d7c=;lOz90J2JcfqcY7lDd+FjKQ=="
 ---
 

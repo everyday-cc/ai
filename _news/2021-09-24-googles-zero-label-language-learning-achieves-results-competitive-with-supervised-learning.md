@@ -8,8 +8,8 @@ webUrl: "https://syncedreview.com/2021/09/24/deepmind-podracer-tpu-based-rl-fram
 ampWebUrl: "https://syncedreview.com/2021/09/24/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-111/amp/"
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/09/24/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-111/amp/"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
@@ -26,6 +27,6 @@ images:
     height: 320
     isCached: true
 
-secured: "dpN1XJD4UJetqssL9Kj16jw92s1JnWknrKwF8Ni1i38y1hPj5r6j+xLJi9hm7mCMPHV+v1JX51GWB1C0a5l7n/rIGjfZRqozhzcVZncJoDRDaQzsK0CHdmN9jwUuPRdL/7OiOFI5Nm6urS+odXVE5QpxnHUDVqhCHncr35f0Hruc9qtS6u9mfx1v3/VDLRnY2U6juPsOPZ/KUWyn0dSOm3loAC5ZQFxdxhzhvzWjzYLqEgXh4jJzU9QSrJeAonuz+Jj1YkqR4HoW4kVrKCKusLPovLedVeR5zvN+OuB8+8oxdrpAolfVqXc2vhOxoapmhyEV8wn8FJLmRyh/1bN4C8A6rlMkVBEdb5zfdpDGE9E=;+Vj5+3lxYNTG7g5vKJHr3g=="
+secured: "HudDMzidUzADUKk0qtFFTIn8Q8Mf2QgmPNldY2gcpx83UvRjzhSqsNK+rV/QLQK8WdfPDqBmOunGIUNPZDmC2mr7WdbouKfKPyhvmxlSoL98mruX9sSSjoskSsU9ZXPzCAwRTw8dAV1k7ZIB0GMCA/u2nNK7BTf1WvmrVZZnmio/2ybnUZ+VpI2P3WNEbMuOCflILLv2CuH6opxzpr7Ii8lPbBLxZgmCwuwd8a1HLOyI+y/Dh1JqBGvtJW86fsttVb3iZYXO22zq3tlN6zFESSLMkX5ss+fl0rTGY1yWxXqfSoxGV0xHU1fEhF70zxoLdOPdf0W0XrDfqAWp/E8SCW4CYhQFj7DvJrPVoCIMLjPeqJXgj30oLTTOJUthuJ6GlsaHQLpuYCZGkv+PouryywXEmDWXJcjAXZguQxpOvubEdtZDmNW1EWxBYATES1PtmG5Eu/FEXdWH6ocRY4i8WBVipX0Dz1vb5hy1A6WDsZS704+IUnot+HDlwQcguFHlDOBSQWkuUX26Al6HO5yElA==;Cgy9aXeNleyfOF6tgnf5wQ=="
 ---
 

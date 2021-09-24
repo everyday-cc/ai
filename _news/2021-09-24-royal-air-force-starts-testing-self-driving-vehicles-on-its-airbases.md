@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Shark's Smartest Robot Yet Features AI Technology Similar to Self-Driving Cars"
+    excerpt: "That's why Shark®, (HKEX: 1691.HK), the #1 brand in vacuums*, is excited to introduce its newest and smartest innovation - the Shark® AI Robot Self-Empty XL- with next-gen intelligence and AI ..."
+    publishedDateTime: 2021-09-24T17:57:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/shark-s-smartest-robot-yet-features-ai-technology-similar-to-self-driving-cars-1030822427"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
+    images:
+      - url: "https://mma.prnewswire.com/media/1634664/Image_1.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Those Infuriating Drivers That Take Over The Left Lane And Prevent Passing Will Undoubtedly Be Stifling For AI Self-Driving Cars"
     excerpt: "Left lane usage varies by state laws and many drivers get confused or purposely exploit loopholes and road rage results. Here's what will happen once we have AI-based self-driving cars."
     publishedDateTime: 2021-09-24T15:30:00Z

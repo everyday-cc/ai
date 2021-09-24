@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/singapore-ai-startup-advance-i
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/singapore-ai-startup-advance-intelligence-raises-more-than-400-million-in-latest-round-271632364943"
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Does Artificial Intelligence Compare to Augmented Intelligence?"
-    excerpt: "Both artificial intelligence and augmented intelligence share the same goal but have different approaches to achieve it."
-    publishedDateTime: 2021-09-24T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/how-does-artificial-intelligence-compare-to-augmented-intelligence"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1040557296.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "RPA and AI in Banking Market Likely To Boost Future Growth By 2027 | Cognizant, Capgemini, Accenture, Fintech Singapore, The Lab Consulting"
     excerpt: "The report covers briefly the products or services in the market and their application. The report also provides information on the technological […]"
     publishedDateTime: 2021-09-20T06:23:00Z

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-24-deep-learning-helps-predict-new-drug-combinations-to-fight-covid-19.md",
+      "title": "Deep learning helps predict new drug combinations to fight Covid-19",
+      "excerpt": "A neural network developed at MIT and elsewhere identifies synergistic drug blends for treating viruses like SARS-CoV-2. The work was carried out primarily within the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Broad Institute of MIT and Harvard.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/deep-learning-helps-predict-new-drug-combinations-fight-covid-19-0924",
+      "originalUrl": "https://news.mit.edu/2021/deep-learning-helps-predict-new-drug-combinations-fight-covid-19-0924",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202109/covid-virus_0.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-24T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-24-machine-learning-helps-scientists-pinpoint-genes-of-importance.md",
       "title": "Machine learning helps scientists pinpoint 'genes of importance'",
       "excerpt": "In a new breakthrough, researchers in the United States and Taiwan have developed a machine learning algorithm to more efficiently identify \"genes of importance\" in agriculture and medicine.",
@@ -398,7 +451,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/09/22/navigating-ai-and-machine-learning-13-techniques-to-boost-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -503,7 +556,7 @@
       "originalUrl": "https://www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 266,
+      "heat": 276,
       "tags": null,
       "images": [
         {
@@ -792,7 +845,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scale-ml-feature-ingestion-using-amazon-sagemaker-feature-store/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1350,21 +1403,21 @@
       ]
     },
     {
-      "path": "_news/2021-09-15-why-even-marketers-should-understand-the-value-of-machine-learning.md",
-      "title": "Why Even Marketers Should Understand the Value of Machine Learning",
-      "excerpt": "In this contributed article, Dr. Peter Day, Chief Technology Officer at Quantcast, discusses how leading marketers are making use of widely available machine learning and AI-powered solutions that can do the hard work of spotting signals in the noise.",
+      "path": "_news/2021-09-15-aquiline-drones-acquires-elluminai-labs-to-create-deep-learning-drones-and-cloud-ops.md",
+      "title": "Aquiline Drones Acquires ElluminAI Labs to Create Deep Learning Drones and Cloud Ops",
+      "excerpt": "All Roads Lead to Artificial Intelligence (AI) with New Drone Industry Deal HARTFORD, Conn. (PRWEB) Apple and Siri. Amazon and Alexa. Microsoft and",
       "sourceUrl": null,
-      "webUrl": "https://insidebigdata.com/2021/09/15/why-even-marketers-should-understand-the-value-of-machine-learning/",
-      "originalUrl": "https://insidebigdata.com/2021/09/15/why-even-marketers-should-understand-the-value-of-machine-learning/",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/09/p22952013/aquiline-drones-acquires-elluminai-labs-to-create-deep-learning-drones-and-cloud-ops",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/p22952013/aquiline-drones-acquires-elluminai-labs-to-create-deep-learning-drones-and-cloud-ops",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://insidebigdata.com/wp-content/uploads/2019/12/Machine_Learning_shutterstock_344688470.jpg",
-          "width": 300,
-          "height": 212,
+          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1372,13 +1425,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T06:00:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22952013",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22952013",
+      "publishedDateTime": "2021-09-15T06:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "insidebigdata.com",
-        "domain": "insidebigdata.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1388,60 +1441,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-artificial-neural-networks-market-segmentation-production-cost-size-share-supply-chain-analysis-with-future-forecast.md",
-      "title": "Artificial Neural Networks Market Segmentation, Production Cost, Size, Share, Supply Chain Analysis with Future Forecast",
-      "excerpt": "Sep 15, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Neural Networks",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-segmentation-production-cost-size-share-supply-chain-analysis-with-future-forecast-2021-09-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-segmentation-production-cost-size-share-supply-chain-analysis-with-future-forecast-2021-09-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T01:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

@@ -193,6 +193,22 @@ related:
         width: 1200
         height: 641
         isCached: true
+  - title: "Tesla Is Bringing Self-Driving No Matter What. Regulators Need to Adapt."
+    excerpt: "San Francisco authorities have expressed concern over Tesla's autonomous driving feature, dubbed Full Self Driving. More broadly, self-driving systems are advancing much faster than regulation."
+    publishedDateTime: 2021-09-24T17:37:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-stock-self-driving-regulation-51632504996"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-self-driving-regulation-51632504996"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-self-driving-regulation-51632504996"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 58
+    images:
+      - url: "https://images.barrons.com/im-406428/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Tesla drivers using 'full self-driving' Autopilot pay less attention to their surroundings"
     excerpt: "Tech giant Tesla is due to launch the latest version of its Autopilot “full self-driving” technology to owners this autumn, but new research has revealed that the system could be making drivers inattentive to their surroundings."
     publishedDateTime: 2021-09-21T15:10:00Z
@@ -250,6 +266,34 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TeslaFSD-MAIN_0.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Pass the Test and Tesla Owners Might Get Full Self-Driving Beta Access"
+    excerpt: "The wait is almost over for some Tesla Inc. customers to get access to driver-assistance technology the company has marketed in controversial ways — as long as they’re on their best behavior."
+    publishedDateTime: 2021-09-24T16:30:00Z
+    webUrl: "https://www.ttnews.com/articles/pass-test-and-tesla-owners-might-get-full-self-driving-beta-access"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 39
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/tesla-steering-wheel-1200_0.jpg?itok=oBtgkHGp"
+        width: 470
+        height: 246
+        isCached: true
+  - title: "San Francisco Takes Issue with Tesla Full Self-Driving Testing"
+    excerpt: "Tesla is getting ready to release Full Self-Driving to the masses, but the San Francisco County Transit Authority (SFCTA) raises some concerns about the software’s safety. In addition to worries about how well it performs,"
+    publishedDateTime: 2021-09-24T16:47:00Z
+    webUrl: "https://www.thedetroitbureau.com/2021/09/san-francisco-takes-issue-with-tesla-full-self-driving-testing/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 39
+    images:
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2015/06/San-Francisco.jpg"
+        width: 1356
+        height: 750
         isCached: true
   - title: "Tesla's plans to test new 'self-driving' tech raises concerns"
     excerpt: "Release plans for #Tesla's \"Full Self Driving\" features has local transportation agency concerned over driver safety. #SiliconValley #SanFrancisco #selfdriving"
