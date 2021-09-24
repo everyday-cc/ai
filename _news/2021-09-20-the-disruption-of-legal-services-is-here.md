@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/20/the-disrup
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/20/the-disruption-of-legal-services-is-here/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "The impact of conversational AI on critical services"
+    excerpt: "AI could also be a game-changing communication tool for critical service providers. How? By empowering customer service departments"
+    publishedDateTime: 2021-09-24T08:00:00Z
+    webUrl: "https://www.itproportal.com/features/the-impact-of-conversational-ai-on-critical-services/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/the-impact-of-conversational-ai-on-critical-services/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/the-impact-of-conversational-ai-on-critical-services/"
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 59
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ADy2QfDipAoaDjWjQ4zRq-1200-80.jpg"
+        width: 800
+        height: 500
+        isCached: true
 
 secured: "R2UadRefPw0reehDMZuJb3fHkCgm+W+5wDkgpC6QEKmDe+oXGV6Xo9tvnZCJ2qEWMKkRE3UfkL23twuOAWtzPNTgn22hFS3i4RURqLkOOT/WR2GLpn0908M8jUir58AO83siRnN2vZr0jnHcKvkKefXro9E7TWaxS/JgZKibKe/t/GhgeWnlveOLy/HPlhcjHWAp3eVrP6fmCRJLFDhg9YKoQB6kgiKBf0SFHQMVkGu1JLs7lRF0s44A5VomX0exYap85BStL8UY4Kb92ylLaa+SMo6bm0qSw1eEGdVpWz8qFXhmBXsv2J5ie4oQgA34oJQz+w33PI7rN6B5XWBg6VGe3//eYuh+7iSjaJsaICLzBSVC9xJ5vw20XJpxJEVxMK+bCqb9wMr86W6WTcJqWWh89TN+FixrU9YYEQqcZ5Adg2OoqvvFYK1PKjD+g/C8simwVESm/1S1YRlaYLDhW+SmM4b5UVKqPQVncywr1drl4lx1tiKmuUsDPb0pMGkklkGDTXTVhZ76fjSs6k+1DQ==;w1CrCoPb8iVE1tIuPRL9WA=="
 ---

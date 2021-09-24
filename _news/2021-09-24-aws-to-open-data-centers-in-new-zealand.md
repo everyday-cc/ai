@@ -1,22 +1,28 @@
 ---
 category: news
 title: "AWS to Open Data Centers in New Zealand"
-excerpt: "New AWS Region will allow customers to run workloads and securely store data in New Zealand while serving end users with even lower latency Newly released AWS economic impact study estimates that the new AWS Asia Pacific (Auckland) Region will create 1,"
-publishedDateTime: 2021-09-24T06:30:00Z
-originalUrl: "https://www.businesswireindia.com/aws-to-open-data-centers-in-new-zealand-75105.html"
-webUrl: "https://www.businesswireindia.com/aws-to-open-data-centers-in-new-zealand-75105.html"
+excerpt: "Friday 24 September 2021 [ AETOS Wire ] New AWS Region will allow customers to run workloads and securely store data in New Zealand while serving end users with even lower latency Newly released AWS economic impact study estimates that the new AWS Asia Pacific (Auckland) Region will create 1,"
+publishedDateTime: 2021-09-24T08:41:00Z
+originalUrl: "https://menafn.com/1102856628/AWS-to-Open-Data-Centers-in-New-Zealand"
+webUrl: "https://menafn.com/1102856628/AWS-to-Open-Data-Centers-in-New-Zealand"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswireindia.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://menafn.com/updates/pr/2021-09/24/A_97ffeimage_story.jpg"
+    width: 1000
+    height: 598
+    isCached: true
 
 related:
   - title: "AWS to Open Data Centers in New Zealand"
@@ -29,6 +35,6 @@ related:
       domain: businesswire.com
     quality: 19
 
-secured: "CIL+tqWpUnAboYWItxq6AJRuCd6scYnWRG27qVq2epyJMzuiYsbyIOq+beZn34Lvg9y/obEdRu4jViRxx+skuRmDe8VD3LZfpVyrGoSTm0Tg72kpzx0HPVQEDNO8U9ouzUJgUmZhb0T8D8kAIh54B45FZYWxbQOhKv1Ckh8LSeNrJgKte2E+m0dCvFbYK4tgSO6wBJaY11dC8yp13eMi6EAjvsSF9uD4fk2Sii9OQUGiaRPbbOJpbgs0GCKNH9YVo3pL9SP0nyPLYmIDWPxExdK5N5ssafJyC0P+3jE2K15IUPXCmGzakTuFKs/8QE8gjutbHF/jjCPfxpbNq8VLrYiqMtRbP90LbDZiamEmKnQ=;XRlIpLaQHqXMkNuKFuVpDQ=="
+secured: "1lI6zmXl3zIo9tgxiVTakHhzYE/o9wZes+OFDNMAZY4dtsvrD/9+Bt+WSlwqCcZy+rXOxmfrNzpvIeEQwMI+ZICpn8yd2Z7M4cbQdByO/aOkH2haPs8MGqHaXPamjYXyjGubJKP5IALLn5fbcf/8dXkgBCRnWGoo+/Zv5bC4F+vUZzhXC1K+MOj1oBg+b1op0dyef7t+piT3ML8MSpVWHw8URj8Pw/LqAm94PX2qm0GlUqZywW6RI1jmdgFdIMuLfGa4Ujz/ckJkJRZKY7GJ5rWiNS/lT7V4Nj+stFXq5oin9JuzS8NOfvW8EKPdCf1BwjmHznCLtcRsKFFiVe2x9qE98eJ+lMap4ITSRPHCI2E=;xNKjeDUD5O8x/9PwSVfijA=="
 ---
 

@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 857
         isCached: true
+  - title: "Join now the exclusive Parrot ANAFI Ai Early Access Program for Professionals!"
+    excerpt: "Parrot, a leading European drone group, is pleased to announce today the start of its exclusive ANAFI Ai Early Access Program designed for professional drone operators. If you are a professional drone user or operator performing missions for your business or commercial activity,"
+    publishedDateTime: 2021-09-24T08:24:00Z
+    webUrl: "https://www.suasnews.com/2021/09/join-now-the-exclusive-parrot-anafi-ai-early-access-program-for-professionals/"
+    ampWebUrl: "https://www.suasnews.com/2021/09/join-now-the-exclusive-parrot-anafi-ai-early-access-program-for-professionals/?amp"
+    cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2021/09/join-now-the-exclusive-parrot-anafi-ai-early-access-program-for-professionals/?amp"
+    type: article
+    provider:
+      name: SUAS News
+      domain: suasnews.com
+    quality: 53
+    images:
+      - url: "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2021/09/Anafi-Ai-early-access.jpg?fit=907%2C470&ssl=1"
+        width: 907
+        height: 470
+        isCached: true
   - title: "Preparing for a future pandemic with artificial intelligence"
     excerpt: "PNNL data scientists are refining their artificial intelligence tools with COVID-19 data to advance therapeutics and treatments for a future pandemic."
     publishedDateTime: 2021-09-21T00:00:00Z

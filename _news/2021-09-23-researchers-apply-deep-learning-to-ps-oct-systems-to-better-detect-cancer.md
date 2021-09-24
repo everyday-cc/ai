@@ -43,6 +43,22 @@ related:
         width: 1645
         height: 976
         isCached: true
+  - title: "Deep Learning Enhances Cancer Diagnostic Tools"
+    excerpt: "Yi “Edwin” Sun, a Ph.D. candidate at the University of Illinois Urbana-Champaign has investigated how deep learning approaches can be exploited to make polarization-sensitive optical coherence tomography,"
+    publishedDateTime: 2021-09-24T08:46:00Z
+    webUrl: "https://www.technologynetworks.com/diagnostics/news/deep-learning-enhances-cancer-diagnostic-tools-354059"
+    ampWebUrl: "https://www.technologynetworks.com/diagnostics/news/amp/deep-learning-enhances-cancer-diagnostic-tools-354059"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/diagnostics/news/amp/deep-learning-enhances-cancer-diagnostic-tools-354059"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 59
+    images:
+      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/deep-learning-enhances-cancer-diagnostic-tools-354059.jpg?v=11429806"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Deep learning enhances cancer diagnostic tools"
     excerpt: "Researchers at the Beckman Institute Biophotonics Imaging Laboratory applied deep learning to polarization-sensitive optical coherence tomography to better detect cancer."
     publishedDateTime: 2021-09-22T22:43:00Z

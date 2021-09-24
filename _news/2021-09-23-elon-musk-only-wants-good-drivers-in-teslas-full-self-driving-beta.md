@@ -179,6 +179,22 @@ related:
         width: 1080
         height: 864
         isCached: true
+  - title: "Samsung in talks with Tesla to make next-gen self-driving chips: Report"
+    excerpt: "Samsung is reportedly in talks with Tesla to make next-generation self-driving chips based on Samsungs 7-nanometre chip production process."
+    publishedDateTime: 2021-09-24T09:32:00Z
+    webUrl: "https://www.sify.com/finance/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-news-topnews-vjyj6Kigeacgd.html"
+    ampWebUrl: "https://www.sify.com/finance/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-news-topnews-vjyj6Kigeacgd.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-news-topnews-vjyj6Kigeacgd.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 59
+    images:
+      - url: "https://www.sify.com/uploads/samsung_logo_ians_vftm7aaijdchd.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tesla drivers using 'full self-driving' Autopilot pay less attention to their surroundings"
     excerpt: "Tech giant Tesla is due to launch the latest version of its Autopilot “full self-driving” technology to owners this autumn, but new research has revealed that the system could be making drivers inattentive to their surroundings."
     publishedDateTime: 2021-09-21T15:10:00Z

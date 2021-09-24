@@ -39,6 +39,6 @@ related:
       domain: meconstructionnews.com
     quality: 32
 
-secured: "ABYwWNnrOwErUfc/QjFDeSVctcp2ixtBpWg1Mpk2nf+9zmE2pAVwjjWNymJiAOJURPIBu8Uo7agReLUxODJI8wB9WRAjlyEwHTOt2U2HC8LZIjsYopqus+HcF3zLRQ5xAIL/MXmie6htlpvqZ2ISJYHGSYDYp+CWbnct3t1O8kNnSsWklENQdT0IspOgr7rsOEXn0k6ebLbriX8ofGULuSWRFgACbn7AajMaQ5Zv/eKWcpl3ssxuSSJH9YOze64IJEcpKhD4x5bH2LWOiNK4AsfwbifSFCTongOX79XFKY/3yGMB9TyH6Ssnv5ie83swVTcRJdgQwfJuQ3A+Wpwi3mchkVnBhA5aOFT3wY7vQt4=;iLsN0pofR4blSBl+Hfuorg=="
+secured: "Htk+k20fJvocAEn+q4aXw1pDi/2xkl7E6lqbc2oJGcb4YoTYZNVcfV/U+XZvmVYQ5jtbF29nSPcFW6tZXSJDH5FvYglXuP1PfIcMQf/rkBN6B9LN2Vr+80YA3KWzn0PviSdTfV5w0Js6PjVArAp+tK1QSNV+Ril4mVKbKW3gVW2S26kgFmcE08CORYeOHHW6OVBVGp6PcHvyLOrP129N263lxPsbYzlfS/KcAP39sBMZWGdiVu/1m8CT2l8yCq/NiS8sek9n2Ll+yxRo7SoOE11KC+vxTR0ycAWyrhHeKbZ1fNVGNkb/hynKyeu31kixjXEtL9ap5X5/QfjTRkKIR5vD+/AR/QA9NZhhfXlW1kY=;tyLMdh9DCfxChudmUVGsEw=="
 ---
 

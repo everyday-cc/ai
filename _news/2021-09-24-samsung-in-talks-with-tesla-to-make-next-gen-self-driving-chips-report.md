@@ -1,28 +1,29 @@
 ---
 category: news
-title: "Samsung in talks with Tesla to make next-gen self-driving chips, says daily"
-excerpt: "Samsung Electronics' semiconductor plant in Hwaseong produces 7nm chips. SEOUL: Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process,"
-publishedDateTime: 2021-09-23T16:41:00Z
-originalUrl: "https://www.carsifu.my/news/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-says-daily"
-webUrl: "https://www.carsifu.my/news/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-says-daily"
+title: "Samsung in talks with Tesla to make next-gen self-driving chips: Report"
+excerpt: "Samsung is reportedly in talks with Tesla to make next-generation self-driving chips based on Samsungs 7-nanometre chip production process."
+publishedDateTime: 2021-09-24T09:32:00Z
+originalUrl: "https://www.sify.com/finance/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-news-topnews-vjyj6Kigeacgd.html"
+webUrl: "https://www.sify.com/finance/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-news-topnews-vjyj6Kigeacgd.html"
+ampWebUrl: "https://www.sify.com/finance/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-news-topnews-vjyj6Kigeacgd.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-news-topnews-vjyj6Kigeacgd.html"
 type: article
-quality: 69
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: CarSifu
-  domain: carsifu.my
+  name: Sify.com
+  domain: sify.com
 
 topics:
-  - AI Hardware
-  - AI
   - AI in Autos
+  - AI
 
 images:
-  - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2021/09/Samsung-Foundry_New-EUV-Line_main.jpg"
-    width: 880
-    height: 548
+  - url: "https://www.sify.com/uploads/samsung_logo_ians_vftm7aaijdchd.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -134,6 +135,20 @@ related:
         width: 708
         height: 398
         isCached: true
+  - title: "Samsung in talks with Tesla to make next-gen self-driving chips, says daily"
+    excerpt: "Samsung Electronics' semiconductor plant in Hwaseong produces 7nm chips. SEOUL: Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process,"
+    publishedDateTime: 2021-09-23T16:41:00Z
+    webUrl: "https://www.carsifu.my/news/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-says-daily"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 69
+    images:
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2021/09/Samsung-Foundry_New-EUV-Line_main.jpg"
+        width: 880
+        height: 548
+        isCached: true
   - title: "Samsung in talks with Tesla to make next-gen self-driving chips -Korea Economic Daily"
     excerpt: "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday. Since the beginning of this year,"
     publishedDateTime: 2021-09-23T23:59:00Z
@@ -179,22 +194,6 @@ related:
       - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/09_sep/23_thu/img_1632407717774_597.jpg?"
         width: 1080
         height: 864
-        isCached: true
-  - title: "Samsung in talks with Tesla to make next-gen self-driving chips: Report"
-    excerpt: "Samsung is reportedly in talks with Tesla to make next-generation self-driving chips based on Samsungs 7-nanometre chip production process."
-    publishedDateTime: 2021-09-24T09:32:00Z
-    webUrl: "https://www.sify.com/finance/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-news-topnews-vjyj6Kigeacgd.html"
-    ampWebUrl: "https://www.sify.com/finance/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-news-topnews-vjyj6Kigeacgd.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-news-topnews-vjyj6Kigeacgd.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 59
-    images:
-      - url: "https://www.sify.com/uploads/samsung_logo_ians_vftm7aaijdchd.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Tesla drivers using 'full self-driving' Autopilot pay less attention to their surroundings"
     excerpt: "Tech giant Tesla is due to launch the latest version of its Autopilot “full self-driving” technology to owners this autumn, but new research has revealed that the system could be making drivers inattentive to their surroundings."
@@ -311,6 +310,6 @@ related:
         height: 480
         isCached: true
 
-secured: "cZvg1cVRzRu3iqSY9ZH3l5fjCgBEM62hkB5xB3PT+ih3Cr+lXWDEUva0hu39VryI3pqFcJ0iAE4hsCGcFoL4hlCrN3uCUpZfdb0cr6ZYZ6N952z98bAsLTmippzMy53xYNKmtClw+/rRvwDCWw6UyVGr9dYGuNUPC5JBNIH1OIYNmXeATf0uCGUkENEYr1MNiKbyKb7AcPCnU2fGcngLNmaGKE8lR1ZKev2Kpwe6nosFPoqu0fdsVVQQcmhb9VrupCBTAsjzRZCi+J7h72V+CV0IyRnlMZIVdP2NBb3xQDAG8MTJFr0emINVMMA3c1tbOmc8SKgbLFttx1qXhGTvDcZoQEfd+Dg+296yJkIydAZHaEEp3Ckdv63er0jraSTKLLGdkTsygkG7TKNFrKx+QE9kzD0GEzZ+ul9sM6b2lROBtLcQAH+WMjvkUeKAKOM2LyhgZWmWil+W8e9jfbMiptsTOLH90eGRtNx2H2exqzTQASg4Wk+Nxyr5g/4+3p7yGhwCIkmjaah2CatQqey+cw==;v1/0rv9LlFFn43PNRhiaFA=="
+secured: "90Sy8nGt9BlmhiXASCo5QyqjMMmZcBH2Wz4MkWI7ACtMXfEq3zNuXTeAGA7on9E7tvnbeJQZgrhoU7dU24Mwc+LawUsJj97+txIpSjxhb2fGcOW2pJHU3b5ID7K1KzTmKX6xFmFJWnHy8Y+u8EGYqPae6z2V2lsxm/9rC9LPy2qd8gyyCzAws5it4XTPQwWLqjqkFcDF0m2eGPiOnmM0Tv9C2vhuoJQc7/5g+Bn6TQ1m2LCUaWAHYfANeq6XGoGEvQpEegUAKPklO0rtlJBypM78qLUEtA5bocSI2zoO54qTFVS9gDlMfB3RmHTXtC9mIjta35CeoCJELyfGJRDQKD4t2rmjmI/DGrgnTMJXWOA=;1fe4DQpv4HjfduNrd+rmiQ=="
 ---
 

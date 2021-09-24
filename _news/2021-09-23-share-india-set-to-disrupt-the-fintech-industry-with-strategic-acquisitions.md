@@ -88,18 +88,18 @@ related:
         height: 420
         isCached: true
   - title: "Tavant Ranks on the IDC FinTech Top for Third year in a Row"
-    excerpt: "Prestigious listing highlights top 100 global providers of financial technologySANTA CLARA, Calif.--(BUSINESS WIRE)--Tavant, a Silicon Valley-based provider of industry-leading digital lending technologies,"
-    publishedDateTime: 2021-09-23T14:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=535814"
+    excerpt: "IDC Financial Insights FinTech Rankings recognizes companies that are among the top financial technology providers worldwide. This Fortune 500-style ranking is ba"
+    publishedDateTime: 2021-09-23T14:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-4d4393410ef64e208c0c670fb2c8376f"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
+      name: Associated Press
+      domain: apnews.com
     quality: 24
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Worldwide FinTech Industry to 2026 - Featuring Affirm, Betterment and C2FO Among Others"
     excerpt: "Technologies, Applications, and Services 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. This report provides a comparative analysis between legacy financial systems and emerging"

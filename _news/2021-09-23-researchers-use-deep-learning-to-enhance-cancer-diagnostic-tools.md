@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-09-deep-cancer-diagnostic-tools.
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-deep-cancer-diagnostic-tools.amp"
 type: article
 quality: 59
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Learning Enhances Cancer Diagnostic Tools"
+    excerpt: "Yi “Edwin” Sun, a Ph.D. candidate at the University of Illinois Urbana-Champaign has investigated how deep learning approaches can be exploited to make polarization-sensitive optical coherence tomography,"
+    publishedDateTime: 2021-09-24T08:46:00Z
+    webUrl: "https://www.technologynetworks.com/diagnostics/news/deep-learning-enhances-cancer-diagnostic-tools-354059"
+    ampWebUrl: "https://www.technologynetworks.com/diagnostics/news/amp/deep-learning-enhances-cancer-diagnostic-tools-354059"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/diagnostics/news/amp/deep-learning-enhances-cancer-diagnostic-tools-354059"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 59
+    images:
+      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/deep-learning-enhances-cancer-diagnostic-tools-354059.jpg?v=11429806"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Researchers apply deep learning to PS-OCT systems to better detect cancer"
     excerpt: "Yi \"Edwin\" Sun, a Ph.D. candidate in electrical and computer engineering at the University of Illinois Urbana-Champaign and member of the Beckman Institute's Biophotonics Imaging Laboratory headed by Stephen Boppart,"
     publishedDateTime: 2021-09-23T06:27:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/20/how-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/09/20/how-to-prepare-for-the-coming-ai-explosion-in-business/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Join now the exclusive Parrot ANAFI Ai Early Access Program for Professionals!"
+    excerpt: "Parrot, a leading European drone group, is pleased to announce today the start of its exclusive ANAFI Ai Early Access Program designed for professional drone operators. If you are a professional drone user or operator performing missions for your business or commercial activity,"
+    publishedDateTime: 2021-09-24T08:24:00Z
+    webUrl: "https://www.suasnews.com/2021/09/join-now-the-exclusive-parrot-anafi-ai-early-access-program-for-professionals/"
+    ampWebUrl: "https://www.suasnews.com/2021/09/join-now-the-exclusive-parrot-anafi-ai-early-access-program-for-professionals/?amp"
+    cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2021/09/join-now-the-exclusive-parrot-anafi-ai-early-access-program-for-professionals/?amp"
+    type: article
+    provider:
+      name: SUAS News
+      domain: suasnews.com
+    quality: 53
+    images:
+      - url: "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2021/09/Anafi-Ai-early-access.jpg?fit=907%2C470&ssl=1"
+        width: 907
+        height: 470
         isCached: true
   - title: "Preparing for a future pandemic with artificial intelligence"
     excerpt: "PNNL data scientists are refining their artificial intelligence tools with COVID-19 data to advance therapeutics and treatments for a future pandemic."

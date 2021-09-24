@@ -1,26 +1,26 @@
 ---
 category: news
 title: "NHS Artificial Intelligence provider reports 160% growth, promising to transform healthcare with better data"
-excerpt: "RwHealth, the leading provider of Artificial Intelligence to the healthcare industry, has reported 160% year-on-year growth as its data-led solutions are increasingly embraced by NHS trusts, private healthcare providers and pharmaceutical companies."
-publishedDateTime: 2021-09-15T16:04:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-nhs-artificial-intelligence-provider-reports-160-growth-promising-/2021/09/15/9450012.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-nhs-artificial-intelligence-provider-reports-160-growth-promising-/2021/09/15/9450012.htm"
+excerpt: "RwHealth, the leading provider of Artificial Intelligence to the healthcare industry, has reported 160% year-on-year growth as its"
+publishedDateTime: 2021-09-15T15:59:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data-807973216.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data-807973216.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1626850/Orlando_Agrippa.jpg"
-    width: 267
-    height: 400
+  - url: "https://mma.prnewswire.com/media/1626850/Orlando_Agrippa.jpg?p=facebook"
+    width: 5157
+    height: 2699
     isCached: true
 
-secured: "v9/OeKDF82CDrrfRZZiyPcq41rJbxy+RV6TYo0TyS7FA7aUJ24BaIipBy7nSg7fFFSfOHEGLsRAA+z2h0nryL613eyteF/qDrdZfwQZtN3rUpBH1WosO26UzIc6SCAK1h8WRbZoh9Ej8n93/s2CKFld1ZxiCbWgAyDwTkgwM9qckYmOS/gSyEum8XRLEKX1xWzmiz2lHd+FzmueiC5HaY6S4JbJliRZocvVvHPOmZL82hWtx3J2ipOlheJps+1Acwz/4SCio/7CN8m3KgiCtV6OS64B1hquiGn3x1rz6ehetQG7YdyZ2nCx42qSC+UZYDWUR+UYspGnVO3eEtFYYyZC6LWLM4zGazOWVSjkfEwiYbzwLuxwP/UmewPwo/Sk9dikMvfLp+DKvB+9k5ADIRMsmZgQqpZiYFXBmRJApdD1u6dlnbeuC2qEg2/1myhP0+jNe/sJXw1kesmyrMtKW+RW2o1osnxtKJ1EIK219wRZrn/G7dZbqdnQ0NAIGhvF2gGm5zRJNZZK92XPmbl+KzA==;8npDV14xsp3YQrvFoE1Aqw=="
+secured: "qlqVIcR+9a8qEDe1SCRctYhpXqUWxi+CUzSj4jjxegQ+7VVRe8BKgqXu5FvwdB3knCrF+lghLazRpQkB6Jo+MHD37V8ZlYIpxmKLfc22NxwSbbSQGG90VSTAi5NjTiVz1obGlb9pCzUV0ax8AvzLKf90Eqyq7cllU9ZDPSn6GOmwQXPYvmqeGIyNWr4zqiWGLpOwJhDszG8Op9kO04QKYZRxC9KXu+gu/oHgdMxTNSYuEBrVJKw6s+PhwCE2TAlk/JQPZoCyEKt2aZgqU904Ny/++LqwYtEPDggRvHOwFg68x8yYAAMwpEsJvhXm7ZJY/ie+fMLBGiRRzh5QungG68ooxKjaeHsYOgO3jSuXl4Y=;JhcEwVDMnIdoHLmA50YzrA=="
 ---
 

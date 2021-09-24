@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-g
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/amp/"
 type: article
 quality: 103
-heat: 283
+heat: 293
 published: true
 
 provider:
@@ -183,6 +183,22 @@ related:
       - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/09_sep/23_thu/img_1632407717774_597.jpg?"
         width: 1080
         height: 864
+        isCached: true
+  - title: "Samsung in talks with Tesla to make next-gen self-driving chips: Report"
+    excerpt: "Samsung is reportedly in talks with Tesla to make next-generation self-driving chips based on Samsungs 7-nanometre chip production process."
+    publishedDateTime: 2021-09-24T09:32:00Z
+    webUrl: "https://www.sify.com/finance/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-news-topnews-vjyj6Kigeacgd.html"
+    ampWebUrl: "https://www.sify.com/finance/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-news-topnews-vjyj6Kigeacgd.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-news-topnews-vjyj6Kigeacgd.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 59
+    images:
+      - url: "https://www.sify.com/uploads/samsung_logo_ians_vftm7aaijdchd.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Tesla drivers using 'full self-driving' Autopilot pay less attention to their surroundings"
     excerpt: "Tech giant Tesla is due to launch the latest version of its Autopilot “full self-driving” technology to owners this autumn, but new research has revealed that the system could be making drivers inattentive to their surroundings."

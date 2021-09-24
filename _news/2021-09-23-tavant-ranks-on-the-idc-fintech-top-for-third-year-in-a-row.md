@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Tavant Ranks on the IDC FinTech Top for Third year in a Row"
-excerpt: "Prestigious listing highlights top 100 global providers of financial technologySANTA CLARA, Calif.--(BUSINESS WIRE)--Tavant, a Silicon Valley-based provider of industry-leading digital lending technologies,"
-publishedDateTime: 2021-09-23T14:00:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=535814"
-webUrl: "https://us.acrofan.com/detail.php?number=535814"
+excerpt: "IDC Financial Insights FinTech Rankings recognizes companies that are among the top financial technology providers worldwide. This Fortune 500-style ranking is ba"
+publishedDateTime: 2021-09-23T14:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-4d4393410ef64e208c0c670fb2c8376f"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-4d4393410ef64e208c0c670fb2c8376f"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -143,6 +143,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "mhEpJlu+DUbKzQ+ajNwR/4gJlzEjmt+FeDNQbR0jH0qMDqwGiC+6kPXEtXVMqXndpnyqueEKqjXWIQ4I94zw3pnEP38DHYS0ROibbi7t/YHEwHLNFU4hAdNrwbuH5kVZlQPD3rGtmmWUXjxUYbKIQZHxZfLHUbI2ITQ/Dr4x5k6xsEQIGUQxagdcwo9cEanj1I3lqEa+UI/am25ati8+vZ+DuYn/eCcJZZAnejdCLCTYePzLbLngVAT7Fqir+CCaECSKaDK1ktzuTgawhg/ggT7Je9PnQFNU4bt4amgwjqcpUwV5ZySlC+TW1Qo1GyTgkFTbzcNZqrkgbO/LnJaUfYp7zPNGP21BRIsw39Y2szo=;t60BO6+ZA0+WAzJ9AZovEg=="
+secured: "UYvjwnobpX3g2N/Y3zXT1qxEvQAVa0gUWPANC9cOsmSN74vjG7TXc9RT7LIKVKkgtbg66F5SB2Hq3vpKpekZGDdnAnXHgBi9pvYhs1O70PbIvME+/hQHzLqRoriOMKs5RrZLqVmBWi6CP4wQ56WXHBMbkyeY+i0RNTQSKVSfVx5tN/Z2eV1lLgQ6V09RZQbx5ic7dm3Bg2GAN0dIPVRBo9J1uzM2zHoXcF47EBz6uepwp+JuEef5FZEaoQbKwK7bSzZBqafBu0jGzUp5IEhp7zDdH7Khwa/tYJWWpCel+/G7ehGyazaro8L0SF0VXpW+RXuUwxO9s5QIZ3Y8k6dYognCtkJ7/SThjjRjkmC2kh8=;8emBwrm9xLk7q8yQFC6FJA=="
 ---
 

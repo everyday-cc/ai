@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Preparing for a future pandemic with artificial intelligence"
-excerpt: "PNNL data scientists are refining their artificial intelligence tools with COVID-19 data to advance therapeutics and treatments for a future pandemic."
-publishedDateTime: 2021-09-21T00:00:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/929144"
-webUrl: "https://www.eurekalert.org/news-releases/929144"
+title: "Join now the exclusive Parrot ANAFI Ai Early Access Program for Professionals!"
+excerpt: "Parrot, a leading European drone group, is pleased to announce today the start of its exclusive ANAFI Ai Early Access Program designed for professional drone operators. If you are a professional drone user or operator performing missions for your business or commercial activity,"
+publishedDateTime: 2021-09-24T08:24:00Z
+originalUrl: "https://www.suasnews.com/2021/09/join-now-the-exclusive-parrot-anafi-ai-early-access-program-for-professionals/"
+webUrl: "https://www.suasnews.com/2021/09/join-now-the-exclusive-parrot-anafi-ai-early-access-program-for-professionals/"
+ampWebUrl: "https://www.suasnews.com/2021/09/join-now-the-exclusive-parrot-anafi-ai-early-access-program-for-professionals/?amp"
+cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2021/09/join-now-the-exclusive-parrot-anafi-ai-early-access-program-for-professionals/?amp"
 type: article
-quality: 37
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: SUAS News
+  domain: suasnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f476ded2-27fb-4113-98af-8426c375b9d0/Rendition/thumbnail/Content/Public"
-    width: 300
-    height: 225
+  - url: "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2021/09/Anafi-Ai-early-access.jpg?fit=907%2C470&ssl=1"
+    width: 907
+    height: 470
     isCached: true
 
 related:
@@ -56,21 +58,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Join now the exclusive Parrot ANAFI Ai Early Access Program for Professionals!"
-    excerpt: "Parrot, a leading European drone group, is pleased to announce today the start of its exclusive ANAFI Ai Early Access Program designed for professional drone operators. If you are a professional drone user or operator performing missions for your business or commercial activity,"
-    publishedDateTime: 2021-09-24T08:24:00Z
-    webUrl: "https://www.suasnews.com/2021/09/join-now-the-exclusive-parrot-anafi-ai-early-access-program-for-professionals/"
-    ampWebUrl: "https://www.suasnews.com/2021/09/join-now-the-exclusive-parrot-anafi-ai-early-access-program-for-professionals/?amp"
-    cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2021/09/join-now-the-exclusive-parrot-anafi-ai-early-access-program-for-professionals/?amp"
+  - title: "Preparing for a future pandemic with artificial intelligence"
+    excerpt: "PNNL data scientists are refining their artificial intelligence tools with COVID-19 data to advance therapeutics and treatments for a future pandemic."
+    publishedDateTime: 2021-09-21T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/929144"
     type: article
     provider:
-      name: SUAS News
-      domain: suasnews.com
-    quality: 53
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
     images:
-      - url: "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2021/09/Anafi-Ai-early-access.jpg?fit=907%2C470&ssl=1"
-        width: 907
-        height: 470
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f476ded2-27fb-4113-98af-8426c375b9d0/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 225
         isCached: true
   - title: "Preparing for a future pandemic with artificial intelligence"
     excerpt: "When the novel coronavirus led to a global pandemic last year, doctors and researchers rushed to learn as much as possible about the virus and how our bodies respond to it."
@@ -82,6 +82,6 @@ related:
       domain: phys.org
     quality: 19
 
-secured: "kX90m0F4yRHzK3atMnNPio9r2mFnAlVbkFZL0uZe0Ln0Be/RhJ4bgaHDRaqu7yp8JncGdwhNurj3zJRUcFYQjY/YZTTj7l0rUwkvtut4q+1RsK7mPuMniM/PQhRpj57ZXlWGOy9ujpNKSzcdsWlLBPpYj7XOr/URv9Jy0EpUPfNrcNMgUkEUHQy8SvSA0jpxph+zThC4mLh/bbSchgv6nj3E4BtNIzDUBTTKq8ubMoWzf6AbcM4DB0p4SqSSz6q3J55yp405k61CSA3DKQdNzbNXwrh2wzz0NBl3Ks30EW9zrDEpHA9U6FmNvrX9EQfA0dBYQQ/7HtbcHqi6ed/5e4diVN7SmGIuQppaOsRvH0kOtxY76AcAxOAXCAT4h0+b72M7euSZ2fAp1D2utvAI1Leq7IuQweoyjUtvczaocdwP0g8SkrbtFvt61EMjn6PXcCsMxcxwnjagqbCFIi2BJLme6u9ud+/nhEHnwHjkF1pVaOicTCZ+aJ/iLvTjgZHQQU540gNB6GQxYvTozc11Qg==;yMwsbR1uLR8Rx2WFDjrj9g=="
+secured: "SQom2/NoaZe9acMZG56dmr9enhC+fa+IKKjQ0CBCUJ4p212YzTBjHREpZLQuxwVaUEymXDn9WgFcsx+xHcC3tQKE+/XiFnTc+A4OM4GLo5E55D7yxqQVFYJ5s8+lPRJGxDtbXpGyMZ9NgfEX36gpaV1PYRcAC0yEoeBmCFCa26LeY+OYvQ3c/GnJy/QSRAx86mnzbuW+lCeofZxIiqUvYqisy6EJONuCHM5VtNjD3MfVnOwESLq6K61smk1JeDL9OHV2UTMVqUW76XgEfBKHsAH7D9Vk7O64CsTvKdTniPflCi5TAlANU8TmnF326rBNwt6lf3wloF2yqWdTq0eMxe+m4qNW8VQcPXD3qMp7R60=;Ssvm2mFzrayNf/lvormQJw=="
 ---
 

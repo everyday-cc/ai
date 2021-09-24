@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/929153"
 webUrl: "https://www.eurekalert.org/news-releases/929153"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 700
     height: 394
     isCached: true
+
+related:
+  - title: "Cross-Functional Learning and Recognition of Loyalty Mark CommLab India's Completion of 21 Fruitful Years"
+    excerpt: "CommLab India, the top provider of rapid eLearning and blended learning solutions, celebrated 21 years of successful corporate training with a heart-felt \"Thank You\" to their most precious assets ? loyal employees,"
+    publishedDateTime: 2021-09-24T09:08:00Z
+    webUrl: "https://www.lelezard.com/en/news-20013906.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 7
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "OLYCoKShCcOATpvhPf29A7ZLiGj/6dUe81Dqwx4GEHlaN3D0uX2WPBDNaGSCsOUq0qWCRNjackD9pGOETR7VH9wOgFjsMx1z1laXC2ecqxO/L0Q+dVESSaoo0S3KaLSfPSIPDg7wY+wMyR0STmXJWHam9QkJFlxBMQ5jJmHOCw2U5dMOL1anR0CeIrbBjsQ2KWJX0740rzOvXRGWDodjN/gDR3Qq2Sd0E4NEbjVckOQKq7Im6bcBEEpkElsnHS8lL5/ZKz0cGXvFU7P7qdzJdxPrGP/adPa6M1TfWzYZ6kh97gcgG0lSlr+SATsVteoY5RzTYbMVDgn5xHkEe7b8kXLAFDa8VQT23ka4NSPuSPw=;dIHBwdiWJpxgwa/Wjqz1oQ=="
 ---
