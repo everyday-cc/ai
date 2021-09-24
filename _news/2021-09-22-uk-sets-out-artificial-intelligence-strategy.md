@@ -59,22 +59,6 @@ related:
         width: 640
         height: 384
         isCached: true
-  - title: "UK to develop AI strategy as part of tech sector push"
-    excerpt: "Ministers are set to launch plans to develop British interests in artificial intelligence as part of a wider government push to support the tech sector this week. The AI strategy"
-    publishedDateTime: 2021-09-20T03:00:00Z
-    webUrl: "https://www.ft.com/content/4b8a3a7d-76c3-4631-a36e-c306e25d0737"
-    ampWebUrl: "https://amp.ft.com/content/4b8a3a7d-76c3-4631-a36e-c306e25d0737"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/4b8a3a7d-76c3-4631-a36e-c306e25d0737"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F843e0a1e-028d-44fd-add9-30f24eaaf3e4.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "The UK has launched its first National Artificial Intelligence Strategy"
     excerpt: "The Government has outlined a 10-year artificial intelligence strategy in a bid to make the UK a global science superpower. Info here."
     publishedDateTime: 2021-09-22T11:48:00Z

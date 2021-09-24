@@ -9,7 +9,7 @@ ampWebUrl: "https://montrealgazette.com/opinion/opinion-how-artificial-intellige
 cdnAmpWebUrl: "https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life/wcm/5f1cb3c0-543d-4e66-a770-f4122faac455/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 83
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: Los Angeles Times
       domain: latimes.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2020/08/artificial-intelligence-3382507_960_720.jpg?fit=960%2C640&ssl=1"
         width: 960

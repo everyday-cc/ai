@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/conversational-ai-startup-gnani-ai-launches-
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/amp/"
 type: article
 quality: 57
-heat: 99
+heat: 97
 published: true
 
 provider:

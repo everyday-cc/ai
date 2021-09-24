@@ -44,7 +44,7 @@ related:
     provider:
       name: Los Angeles Times
       domain: latimes.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2020/08/artificial-intelligence-3382507_960_720.jpg?fit=960%2C640&ssl=1"
         width: 960

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/nvidia-arm-cpus-a100-gpus-x86-based
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-arm-cpus-a100-gpus-x86-based-servers"
 type: article
 quality: 68
-heat: 88
+heat: 91
 published: true
 
 provider:
@@ -56,6 +56,6 @@ related:
         height: 1124
         isCached: true
 
-secured: "uZJi2lIfXmKOsBCC8qRZ2Hz5MQyf5zNOiqLYNjp4upkukPiyEJ68qqBERDP1URNy3DInwERaPW9Nc6+tG54ruikn8riOf5oUaD3Wiz0g+K65EYXSGwF5xoh8n26XicDecx0302fI2FiMY7DbeLRDCN/005kLYRLPLnXvmvFkecRgFX82cUmrVFewKihhyBPHgLdwcIfhls8yCfJwte9l0+g1QDaLmGhkPkpGvRf+wBr3S6P7MdY/sjhb9aGzFNqGeXDKR+L6cB5RoVU9z0C4aScs6IHHtEswPtDZqgv9pF4t0fT2culSvGRwNbUzLBsFvb1mOaSeyu+6qx8kUwU6gykJSR3mHzaxz6Jm1aqrO5w=;wTKqiAKopBjcQDBWB1RnxQ=="
+secured: "l8FPJi59aD5b2jEfT51gm2YhWLmJHxwUjmYBz+FHqn0bafBWOFRvi39CjrJd8ddRSig+jWgQvMH135uwBGQA5Y85SLiqSlYKi4qgCODZN/esFaG1ihjGZZrShm6owP8p23X9CQcq+HLv4tG4hlyqgdlZk37cR41hYojmo14Br8u/WpUq9P4uZvZSejK2FdOY8jjYWAwXpJYFJ1fmnenrG2aBbAmBw+/vo+3owa4radChOsxkXc3rkq6oJX1912z9wWXUoePFyT8RbuxgAksIxlNderLc4SwmQnZozySsecaq5RMol07iC3TLLjfBpONny/BPxAimRRc9vXgPoyWEs6GFd7nliFscpgx72PHxx7UHIXDX7JxcyY7YA8LvaHrU2yHK7vbi75I+qd3vddo5HVYXrIMaZITDSI9m4ncsx09RYgQNC1aDLwh6AGh6duucgkkl4QMeQVqNYXtSplkaxqjOo6xQ45gzHrlYe5FMYoGzMU/w8r+FMeHKTWyT6c1qdREcs1Y+VPWwdkN7fVw2sw==;ko4DHEQqxmaljJVJZdo4xA=="
 ---
 

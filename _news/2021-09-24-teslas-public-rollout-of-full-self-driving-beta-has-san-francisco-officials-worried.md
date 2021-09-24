@@ -7,7 +7,7 @@ originalUrl: "https://www.autoevolution.com/news/tesla-s-public-rollout-of-full-
 webUrl: "https://www.autoevolution.com/news/tesla-s-public-rollout-of-full-self-driving-beta-has-san-francisco-officials-worried-170187.html"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 888
     isCached: true
 
-secured: "lawuu67JaVOmdC67cEuD6xFj279mZ1VsZHaBQDTHEQ4tYiKhf++KQU9W1LdcnQUzx8ivu7KNIgIqxo4s5cRZAkzq9zMjMJ+omykxEIVTXhbQ7VAoM/qXbFMmpFdLiOqYG8qydObmn/6/XPknq61NgZBk0Nd6bbLvSY3qxfyRqXa0x9+z7YbxWlusDcGtYvdia4K5dFCLAYA5cpW13isAmZsNeiPLcWCHqnIakOZxEikzGKkh5C6GACO79XpiYNe3zSFRvbeyQpH/Cc1Qr77HU1ffV0zfksmlStD6mZUivrNfEAtsB1MQmOMNDtOfcc2c5/GQZqSry3TJ27LfcCkweEsM249Bb8lTYBwMuo+T0+A=;lKmyiFkNzw7A0DJM9yt8aA=="
+related:
+  - title: "Waymo adds San Francisco to cities testing self-driving vehicles"
+    excerpt: "Waymo has begun offering rides in its all-electric self-driving Jaguar I-PACE sport utility vehicles to a pre-determined customers in San Francisco"
+    publishedDateTime: 2021-09-24T17:58:00Z
+    webUrl: "https://www.malaysiasun.com/news/271285388/waymo-adds-san-francisco-to-cities-testing-self-driving-vehicles"
+    type: article
+    provider:
+      name: Malaysia Sun
+      domain: malaysiasun.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1632382907120.jpg"
+        width: 630
+        height: 420
+        isCached: true
+
+secured: "BBSmQBtmBUlYLT5gxweM2kJu7fuNzIgZYVevGmIHdLihQNHj8FbTU54bOm+/TwfMdA2dPn5Lxf7jhUtVte9DuQ2bG0BB9eXaxYQ+uOfJXayBkRry1izMtEN3PqUBuht0/FTuNDdVQCjiU+sFZENtXwvh4cEYiY3km5zYDjw8cqzTNsZ96A0uw3F/MPaXDCgX+kbEBv0jOxvcz83ENGNJI8IJ7Ny2n/uP4hN4yDbEQllSet7PlKxgJsbxpeYiAfXcgFR7sNH88hZFgTx2ZLDsDPDTIGsRh0f83WJl9GLk+N+i7TXMpX1jvHYkeV2OeQKG7Acyu6swlonwxR0QmSAIdBQfFalUb/DkmutQxVQV0rIoK1iF1TWobJwgvLrFc4Ue9N0njjt6QtpUkMjYecaUBOh+OEmlXhhOLxkVIKKq3uiZ8rBcj+gU3BYMq+eXJT5WCeFYQNXX6/vZ82xoj9/tHNzdxeL55tUFuty9jK89Kvo14348OyUzJZ7WuFQYsttM1JT5599ig5lnADVp7dDagQ==;W2U8PtiG7a/xWieSz+ABlA=="
 ---
 
