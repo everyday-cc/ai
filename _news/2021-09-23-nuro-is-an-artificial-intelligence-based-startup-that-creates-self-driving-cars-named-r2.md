@@ -88,6 +88,20 @@ related:
         width: 615
         height: 409
         isCached: true
+  - title: "Royal Air Force Starts Testing Self-Driving Vehicles on Its Airbases"
+    excerpt: "As part of the Royal Air Force's Astra campaign, the Academy of Robotics and the Royal Air Force teamed up to launch a new trial deployment of self-driving vehicles on an airbase. This trail marks the first time the RAF has deployed autonomous vehicles on a UK airbase."
+    publishedDateTime: 2021-09-24T00:36:00Z
+    webUrl: "https://www.autoevolution.com/news/royal-air-force-starts-testing-self-driving-vehicles-on-its-airbases-170115.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 39
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/royal-air-force-starts-testing-self-driving-vehicles-on-its-airbases-170115_1.jpg"
+        width: 2560
+        height: 1293
+        isCached: true
   - title: "Artificial intelligence is changing hiring and firing"
     excerpt: "\"While AI is becoming mainstream technology in the workplace, discrimination-by-algorithm must not,\" Keith A. Sonderling writes."
     publishedDateTime: 2021-09-23T13:42:00Z

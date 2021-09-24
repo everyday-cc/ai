@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-23T23:14:00Z
 originalUrl: "https://www.startupdaily.net/2021/09/artificial-intelligence-social-impact/"
 webUrl: "https://www.startupdaily.net/2021/09/artificial-intelligence-social-impact/"
 type: article
-quality: 39
-heat: 39
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -17,6 +17,8 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Ethics
+  - Natural Language Processing
 
 images:
   - url: "https://www.startupdaily.net/wp-content/uploads/2021/09/aisocialimpact.jpg"
@@ -24,6 +26,6 @@ images:
     height: 550
     isCached: true
 
-secured: "p2FnuHwhHoPXCC1qnX8EzJqTGh/Q1bA7jXVwiwb+96lQBJjAFIEA+g17kfnsG1YmSU6GnMPO6qwHgLs77GU26bn8Z7AX6TKsjaarZVILAMID0oK7dPNpy43A5r2Zhp6K0PPp0g2YYRqdVesh3vEEMIARt1MNdQfMVPcK3AlIcMNcRK4Ufx+Hc5mRKfo1WFEFXZ9jjnDQ+4jmaO17DYvRdIBInfjDa+8XNoaqOfTMXJ3X2KKVieOVMw4UTAFBCsk3txI2vzSTKObQ3KtDmIz9iP3oDnVxrOCEiI8goNRdzahBxlImIHOQTy5tjkHLun0Aop+w9lL1Qo8O0a3CTjlVNUmnRN8kanMuSVotMyIfNNM=;TU9fSnYhC9+plwZyxz0z9g=="
+secured: "ym99XnkiwOIy2Ui1XmJQy5+NwVwUYYd9m/eT858OI4UIVR4FBabp0Tut+HrE4o9D1nxfXAoDoG2x/lWQgg8N23gYCN/mNTWRQBADB9r/SGoLSecmy/9pARMBOv+xUKZVD2uE8hZ8G8o/g5O8jlcgNgJLx4FdeatKRE+VFG/q6JJ5riljjdea65rlw4RHPLEsJDKGywP9LOsp2n32f4o8eD/gj5FzHwBncn4oN9OU7Fy4pz1SwOFcVbZIdy5nHASCLkWl3MUPWQf6umlC/AlPfhUtlySWgNj++tbD/0yS4mw3eRxGkBmf16R3NXE0TchU8BPhuXgn6vSmMDjSB+rWlNqkBWGyKAr53AM7/EaqAq9CAsYi2I+sMzG5tw83IoT9C0fbE4b874/7vTbon9P5WAWv2FTdv5q4ofNUn1aHw3d9+hf8O4P1BnvoWpPKb4ObmSX3axvx4a0kXZeK0NwFgxexA/JFngzsCgeJuGBrvuViBE2YIkYlh2BkwhYpx1hhdSF5uhntzIB4Yf/NOdY/cQ==;3TDbDXLU7r3uIjyce/YX/g=="
 ---
 

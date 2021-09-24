@@ -1,29 +1,31 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon QuickSight Q"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company , announced the general availability of Amazon QuickSight Q, a new capability in Amazon QuickSight that gives anyone in an organization the ability to ask business questions"
-publishedDateTime: 2021-09-23T23:49:00Z
-originalUrl: "https://www.lelezard.com/en/news-20013729.html"
-webUrl: "https://www.lelezard.com/en/news-20013729.html"
+excerpt: "New machine learning powered capability in Amazon QuickSight lets anyone type questions about their business data in natural language and receive accurate answers with"
+publishedDateTime: 2021-09-23T23:24:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/09/b23083415/aws-announces-general-availability-of-amazon-quicksight-q"
+webUrl: "https://www.benzinga.com/pressreleases/21/09/b23083415/aws-announces-general-availability-of-amazon-quicksight-q"
+ampWebUrl: "https://www.benzinga.com/amp/content/23083415"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23083415"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
+    width: 1200
+    height: 600
     isCached: true
 
-secured: "FZy1UEWZPPoJ3xBoT+xl7UbPBJR0Jl5Ln1R7dQ1BG4SH5x1qzJ9+To5WiKmXzPOOPMswnqwLaZ5vpVSSFkTBEHZqs9He4qs8KhZ+s0v/Hr5mLN8/OKlfV76/PR0J2WU6lGtQBnV0oBcmfb/IdEvn3x1CH9NPHiIugy2Kr1eOzpGSCsCZNP0KeOWbtZaJKJFPF7HKGngWjQrv5Tsu6yplrLePSJuAZrAQSS636yqgj9IZHczLhJCBhYHoRwBu8J953ORGUOCI3cg6GfU9svgIiCR0cGEVITxKq5qWpkHzq5oI0nCzqQCYff/dUe5vkyCp6cMTMbdSRDm+NmwAaPMvWLvQ2+tD7YMJvGkWYqb6ADU=;dE2c9xeLLqW2bXIqS5YZrw=="
+secured: "NJzCStVkaeXGgBni2OoJVXSU/phFTEPHZy1prsBrudHswE8glfOCfsQT+psVTYvgs55rDYm7N/OLCo8GvKTZh8cmmbjdydyBuyuirk3jZaf+mjXamanyBb22zOkfUmoCqS8DsYtOrDQXs8t0BJmtBW/YiDEilWYoaPRUxnBMz+XBngjlplgXJPrVN3DajL60Dsm3XuNVWil8RTlOWnNAKemGpHyleFt326BBkbiuvexq8m3bzFMeqFXm1ono42uvJcYbV60lJPd3jdtZYa5yY0vJZei2bBbN1Sqnf3hjiyC9tvIi4ZqkM/oo6wGlCUKHITZHsi5gbjipVrHNC9QUqXWOCX2bawXkAy9bHTAs2bw=;cmoxQHiElt9gthN9p04sFA=="
 ---
 

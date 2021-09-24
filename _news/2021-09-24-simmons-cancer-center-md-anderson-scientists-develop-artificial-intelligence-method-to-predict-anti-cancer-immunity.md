@@ -56,6 +56,15 @@ related:
         width: 1100
         height: 1100
         isCached: true
+  - title: "Scientists develop artificial intelligence method to predict anti-cancer immunity"
+    excerpt: "Researchers and data scientists have developed an artificial intelligence technique that can identify which cell surface peptides produced by cancer cells called neoantigens are recognized by the immune system."
+    publishedDateTime: 2021-09-21T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/09/210923164817.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 42
   - title: "Owkin and Cleveland Clinic develop artificial intelligence model that predicts liver cancer prognosis"
     excerpt: "Owkin, a startup that deploys artificial intelligence (AI) and Federated Learning technologies to augment medical research and enable scientific discoveries, presented findings in Hepatocellular Carcinoma (HCC) with Cleveland Clinic at the 2021 European Society of Medical Oncology (ESMO) conference."
     publishedDateTime: 2021-09-22T13:02:00Z
@@ -66,6 +75,6 @@ related:
       domain: eurekalert.org
     quality: 4
 
-secured: "oiMt7Xz/mA+KmwVo+LNsm5Dq53oDfO7e3FaIJVVCUamJYywDx4l889KD/MFSiYhhVw3DexgPszbedettj3iV4AX9eg5ffC8ev7AkYqm5ldyEI7RXsqnsAouJo3z2ZuU4a/+cGlzs1UwKzBqoDZEWpheNc/s3MQcXvADyWlpxJ+fKbhmcFDfFGSqZSoCK2bnLOa0IZPdyr934GtgI1K3ZQ7sOfNquITfDioENKMHaoBA8Y1mMj3DBucN/WL29tWKvitoKRYc5MrlyfT8OHbymjm8nSrTzUtJQMEZ09CCbIwCWkmSJurI0hWPHzn70PzJ0hy/934nG1GFGUsbKW4PlIll6juuUB1rOFBPw3gvED80=;YMnrcczfHujDvit1JVVK3Q=="
+secured: "1OUhMBEbA+gxJ8Lt//VSa2RL75fnER6S1zPtDt4fGZLE/CkKo7Rm+12TtKbDgYW2HmuYMzUiUR9kQgqLqMnBNAfSFMLapXBV2/vbJkmiLHMYx/xhItlubt8KpmNhfoJso7Pawwc4HXBXBQGMdQBJCMUXUpaBl+Y7zcBtV8p9alQfeVNhSzpHUwGepDlAPx/u5SRsUfmgB5ftAp11ekGpp4Bc8V1mUiOkYK22j+Mxs7YxX7zkawl37chVDgAEI8izszbp7HgTp/PIhUwtGXFLX8F5cWs39/MxgWEB52tOgTM5X/RD2fUN9efGau+sEWcD/5gCD44nWfMdTdeMJeLS0Si3dOM/43+pS1AstHGr/df0hds1aFZBk5+nMYJSBJWtaMJB4PkAd4VVkMJtroZ1kxYppBYmx3kNigWDqrU1O1h8v7XT7UPN8QgGybElkhgtlL76wt2aEJ3iiw0pyQUtRj+jj/hnaMwkTB6WUluB46UNTAbPN5TTbnxF0cvq7tcM7qg4ydy9WjX76kqo7dQ5sA==;j1wp1jWrkQjHq4dl1DVa/A=="
 ---
 

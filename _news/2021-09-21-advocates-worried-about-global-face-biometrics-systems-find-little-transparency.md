@@ -55,6 +55,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "DHS suggests face biometrics bias reduction method, quantifies demographic effects"
+    excerpt: "The paper reveals the finding that race and gender sameness contributes about 10 percent to the variation of face biometric similarity scores."
+    publishedDateTime: 2021-09-23T23:49:00Z
+    webUrl: "https://www.biometricupdate.com/202109/dhs-suggests-face-biometrics-bias-reduction-method-quantifies-demographic-effects"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 18
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
+        isCached: true
 
 secured: "/DXaRwvr9Iyu8dg5D1fbdrtiAQTFZOVojGXK9PvaEqMGjxv9pGGcoYevvGYo+kUulvPOBg/5ZTJOxp3r83YNSIIT43IU4Jt89g+t25abxhC7OqP6V9/Z4iUfiTtlyrEOc2TKWZBYieR3p7v8OnUxkRrLuUrNO6pn4Oe/ZlvmKUrequgqjF8uLaOwIZhPmpMEkoky2ggh6jW30Q7vBkKWINjZhdNboJFqWEYXe3UrteazVDXyWWcYk7xetj8anKcBxKmQt8EPlqaAvcnNTeegGjFZ6mQGMBd7jYXgH8BWR4cXe27juCaH0Vdt6sUWldvzsqYyDRtSPsdephGvhTh7hyk5BziqJtI+4K8T+cmYwQc=;CKP3zPY+Cjx/04XQGY56SQ=="
 ---

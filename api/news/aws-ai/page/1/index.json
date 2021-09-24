@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -51,7 +51,52 @@
       "topics": [
         "AWS AI",
         "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-aws-announces-general-availability-of-amazon-quicksight-q.md",
+      "title": "AWS Announces General Availability of Amazon QuickSight Q",
+      "excerpt": "New machine learning powered capability in Amazon QuickSight lets anyone type questions about their business data in natural language and receive accurate answers with",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/09/b23083415/aws-announces-general-availability-of-amazon-quicksight-q",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/b23083415/aws-announces-general-availability-of-amazon-quicksight-q",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/23083415",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23083415",
+      "publishedDateTime": "2021-09-23T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1365,50 +1410,6 @@
         "AI",
         "Machine Learning",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-startup-webinar-series-recap-how-fintech-can-harness-the-power-of-aiml-for-document-processing.md",
-      "title": "StartUP Webinar Series Recap: how Fintech can harness the power of AI/ML for document processing",
-      "excerpt": "The session also covered use cases from Perfios (who used Amazon SageMaker to build a product for Debit Card Scores). Finally, the session looked at intuit – the global financial platform ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2021/09/aws-startup-webinar-series-fintech-harness-power-ai-ml-document-processing/amp",
-      "originalUrl": "https://yourstory.com/2021/09/aws-startup-webinar-series-fintech-harness-power-ai-ml-document-processing/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Imageeoaz-1631179376307.jpg ",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2021/09/aws-startup-webinar-series-fintech-harness-power-ai-ml-document-processing/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/09/aws-startup-webinar-series-fintech-harness-power-ai-ml-document-processing/amp",
-      "publishedDateTime": "2021-09-09T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

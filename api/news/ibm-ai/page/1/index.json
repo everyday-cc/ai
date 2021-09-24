@@ -98,6 +98,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-15-dish-selects-ibm-for-ai-for-5g-network.md",
+      "title": "Dish Selects IBM for AI for 5G Network",
+      "excerpt": "DISH Network Corporation (NYSE:DISH) selected IBM (NYSE:IBM) to help automate the United States’ first greenfield cloud-native 5G network. DISH’s new smart network will be designed to be agile, scalable and fully virtualized,",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecompetitor.com/dish-selects-ibm-for-ai-for-5g-network/",
+      "originalUrl": "https://www.telecompetitor.com/dish-selects-ibm-for-ai-for-5g-network/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telecompetitor.com/images/5g-signal-290x290.jpg",
+          "width": 290,
+          "height": 290,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "OTT",
+        "domain": "telecompetitor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-ibm-watson-set-up-new-ai-and-automations.md",
       "title": "IBM Watson Set Up New AI and Automations",
       "excerpt": "IBM (NYSE: IBM) today declare the set up of new AI and automation ability in IBM Watson Assistant plan to make it easier for businesses to create intensify customer service experiences over any channe",
@@ -1309,49 +1352,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-ai-architectures-must-change.md",
-      "title": "AI Architectures Must Change",
-      "excerpt": "Today, AI is the focus of many researchers ... “In 1997 we had Deep Blue beating Kasperov, in 2011, IBM Watson playing Jeopardy, and in 2016, Alpha Go went against Lee Sedol and won. Those are great achievements. But the question is, at what cost?",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/ai-architectures-must-change/",
-      "originalUrl": "https://semiengineering.com/ai-architectures-must-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://semiengineering.com/wp-content/uploads/2018/08/BB_Picture1_Architectures_for_AI.png",
-          "width": 974,
-          "height": 543,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

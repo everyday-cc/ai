@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-la
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/amp/"
 type: article
 quality: 84
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://i2-prod.mirror.co.uk/tech/article25044947.ece/ALTERNATES/s615/0_raf1.jpg"
         width: 615
         height: 409
+        isCached: true
+  - title: "Royal Air Force Starts Testing Self-Driving Vehicles on Its Airbases"
+    excerpt: "As part of the Royal Air Force's Astra campaign, the Academy of Robotics and the Royal Air Force teamed up to launch a new trial deployment of self-driving vehicles on an airbase. This trail marks the first time the RAF has deployed autonomous vehicles on a UK airbase."
+    publishedDateTime: 2021-09-24T00:36:00Z
+    webUrl: "https://www.autoevolution.com/news/royal-air-force-starts-testing-self-driving-vehicles-on-its-airbases-170115.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 39
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/royal-air-force-starts-testing-self-driving-vehicles-on-its-airbases-170115_1.jpg"
+        width: 2560
+        height: 1293
         isCached: true
   - title: "Artificial intelligence is changing hiring and firing"
     excerpt: "\"While AI is becoming mainstream technology in the workplace, discrimination-by-algorithm must not,\" Keith A. Sonderling writes."

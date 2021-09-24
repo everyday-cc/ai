@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algorith
 ampWebUrl: "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/amp/"
 type: article
-quality: 91
-heat: 101
+quality: 95
+heat: 105
 published: true
 
 provider:
@@ -24,6 +24,8 @@ topics:
   - AWS AI
   - AI
   - AI Hardware
+  - Microsoft AI
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/01/cloud-database-GettyImages-969567772-e1627330470267.jpg?w=1200&strip=all"
@@ -47,6 +49,6 @@ related:
         height: 512
         isCached: true
 
-secured: "xxjFM8d7n6a+D9KPpjgDM7O23ybrUHZhw+TO3PXyn6sP+cDZO1YmDpYwjpksjsWwuu+tqoFLoQftSykz+EQeTNvzKZg4UyfSPy8rNVGboDDxrqzg+2kZmO7BqohGtieGkrKkCWzoDjn0NObSefFvjtMhfYBG5dRL5Kl5yP/LE+OocI+MtpqGl4P5xKo6O3SjV1GlqdOsStl7qvEBoKjX+kbtX+7eIchK+kSkrJwmn8nUeUmeGQsenb5Tpiz85K6SoJRy8V++z0Uwfd05GuJsLeylgrPdEdxYoWs///hl3goqD1EYXt0cpcgWsT67UrvoWk6mH9ruBNVte/6q3ZbZrIPpZuM8Ozy+WTqOUOld72Q=;fTghgTQwuyeGOn3jj32LpA=="
+secured: "hR4QONF01JqSrd11S2xHd4NGMZ58VcUOSouxblOczDcSx/GJ825h8pIKAledGfygXCrZyyXcZ5Q8sSc5bTNUQdLu5kAUpvz2WJxmr8zqKx9ADL7o+aMFcxIuXEjZ4XCOtzp7ghz7OZbZEVon+z/UuA5N69C0sfwTQsXT8PdzqzXnbBKXPb34E2fyI2JOAYP+bfEHwg2jzYbDbKfgDesJxXDYcT/UH80/bNZFbYBRnYw5LVwPJolSsgFjt9G9xrN+f+undLsvWHYtwCWi7MODL/2T461s+SzKgtUPho22TapaZZgmwbb8XvJ9S2KPyp8Rk9d+gZJQhfHK2ONYzD0/v9PNRgv6s5bQIH4bLaofMmykdH1kMWTqnKihlGRVSXF7Wg8SGHhdcVAerfgLbI3fhr/lm70IC72o1X0KbU8J1Qsix4VCkoPy3LzsTnF+db3ROkM/fR/hy/WlLxmDd5MJbm7qCIvtsZq91W6uXly1zIEuszd+d36QdU4PCsPmow9g+d/p8u5Pog2asvIuwaZ9cw==;LFdjScWrYRXASBhTf5uOag=="
 ---
 
