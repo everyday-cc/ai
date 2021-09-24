@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/22/uk-announces-a-national-strategy-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/uk-announces-a-national-strategy-to-level-up-ai/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -107,15 +107,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Embark Announces Advisory Board to Accelerate the Commercialization of its Self-Driving Technology"
-    excerpt: "Embark Trucks, Inc., a leading developer of autonomous technology for the trucking industry, today announced the formation of its strategic advisory board, a committee of distinguished trucking and supply chain executives that will guide Embark's rapid business expansion."
-    publishedDateTime: 2021-09-22T11:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-embark-announces-advisory-board-accelerate-commercialization-its-self-/2021/09/22/9454053.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "jWfY9YCsRd5aVa33IH2b/w9OPKIV9Wks/vXs8o358eyWSJtZpL58yU5/y4QgJpY60f0rC4yu3Pa9z0Zha6lt1oO0jsusoobicV74n38MJes7A9A4Gpz7oCl2RMIkjE7ryOfYz7RDFY2cmmR56OQYRt0MpRC1ZYHLlB6NlQ0p3E+vuamYifIjUs07toVetog8ut1j2RGetCiPobr8pFVfZiyO3UqL4aTUo6dYXHJZqwpEBJ/jbR4x2Ly0jvCZoHqY4Tx5lEcUy4EBDFBKKhIUytjH9eC5mJTNW966qK1gyC6npkeMz9O1bk38c2JOZrUPnEKBxBZ/tezjdFISq8ri1cxI7cCrH2N9KPNFePeFhgthZKL1F9cvtWEQR/W4l76Lhu+HW59U4yKpVouuW0IOUY5yyIiKCrSbaxv5QC99bvuBx1ZOZ/uOl5A6Bkse+oYjge/7LLiAxt84XzuUlfB4nfIaTdEgzuTK6UJxk7ccI1nKIDjQII4d/Bzixj1AmtmcWwVBVx/z1XA9wu/fcA/68Q==;RxDUt8txvUQZTAdM0U/LwQ=="
 ---

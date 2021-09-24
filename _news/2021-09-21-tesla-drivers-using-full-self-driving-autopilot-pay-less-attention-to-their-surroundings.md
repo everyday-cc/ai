@@ -59,20 +59,6 @@ related:
         width: 644
         height: 362
         isCached: true
-  - title: "Samsung in talks with Tesla for manufacturing next-generation self-driving chips"
-    excerpt: "Samsung Electronics is reportedly in talks with electric carmaker Tesla for the next-generation self-driving chips based on the South Korean giant’s 7-nanometer (7nm) chip production process, as per the new reports."
-    publishedDateTime: 2021-09-24T03:08:00Z
-    webUrl: "https://www.gizmochina.com/2021/09/24/samsung-tesla-self-driving-chips/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 81
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2020/01/samsung-logo.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "NTSB says Tesla’s Full Self-Driving beta is ‘misleading & irresponsible’ ahead of wider release"
     excerpt: "As Tesla is moving to release its Full Self-Driving beta software to its US fleet, the automaker is facing some pushbacks from US regulators. Now the NTSB is calling Tesla’s approach “misleading and irresponsible."
     publishedDateTime: 2021-09-20T13:08:00Z
@@ -135,21 +121,21 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "Samsung May Make Next-Gen Self-Driving Chips For Tesla In The Future: Report"
-    excerpt: "Samsung is reportedly in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday."
-    publishedDateTime: 2021-09-24T11:19:00Z
-    webUrl: "https://www.news18.com/news/tech/samsung-may-make-next-gen-self-driving-chips-for-tesla-in-the-future-report-4241621.html"
-    ampWebUrl: "https://www.news18.com/amp/news/tech/samsung-may-make-next-gen-self-driving-chips-for-tesla-in-the-future-report-4241621.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/tech/samsung-may-make-next-gen-self-driving-chips-for-tesla-in-the-future-report-4241621.html"
+  - title: "Tesla Negotiating With Samsung To Produce Next-Gen Full Self-Driving Chip: Reports"
+    excerpt: "A joint project between Tesla and Samsung, which aims to create a full self-driving (FSD) chip is currently under negotiation, according to reports. The said chip, which will be produced by the South Korean electronics giant and designed by the American electric vehicle company as per Electrek,"
+    publishedDateTime: 2021-09-24T12:00:00Z
+    webUrl: "https://www.ibtimes.com/tesla-negotiating-samsung-produce-next-gen-full-self-driving-chip-reports-3303284"
+    ampWebUrl: "https://www.ibtimes.com/tesla-negotiating-samsung-produce-next-gen-full-self-driving-chip-reports-3303284?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tesla-negotiating-samsung-produce-next-gen-full-self-driving-chip-reports-3303284?amp=1"
     type: article
     provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 73
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
     images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/09/samsung-reuters-img-163248230716x9.jpg"
-        width: 1600
-        height: 900
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/06/electric-car-maker-xpeng-is-chasing-market-leader.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Samsung in talks with Tesla to make next-gen self-driving chips, says daily"
     excerpt: "Samsung Electronics' semiconductor plant in Hwaseong produces 7nm chips. SEOUL: Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process,"
@@ -164,6 +150,20 @@ related:
       - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2021/09/Samsung-Foundry_New-EUV-Line_main.jpg"
         width: 880
         height: 548
+        isCached: true
+  - title: "Tesla Starts Judging Owners It Charged $10,000 for Self-Driving"
+    excerpt: "Tesla Inc. customers to get access to driver-assistance technology the company has marketed in controversial ways -- as long as they’re on their best behavior. Chief Executive O"
+    publishedDateTime: 2021-09-24T13:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-09-24/tesla-starts-judging-owners-it-charged-10-000-for-self-driving"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iup7L8IXuFtE/v0/1200x883.jpg"
+        width: 1200
+        height: 883
         isCached: true
   - title: "Samsung in talks with Tesla to make next-gen self-driving chips -Korea Economic Daily"
     excerpt: "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday. Since the beginning of this year,"
@@ -194,38 +194,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/YgUHsWEWfthGscTnET98nk-1200-80.jpg"
         width: 1200
         height: 641
-        isCached: true
-  - title: "Samsung in talks with Tesla to make next-gen self-driving chips: Report"
-    excerpt: "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips, The Korea Economic Daily reported. If Samsung wins the order, it is expected to make the chip on its 7-nanometre production process,"
-    publishedDateTime: 2021-09-23T15:18:00Z
-    webUrl: "https://inshorts.com/en/news/samsung-in-talks-with-tesla-to-make-nextgen-selfdriving-chips-report-1632410314474"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/samsung-in-talks-with-tesla-to-make-nextgen-selfdriving-chips-report-1632410314474"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/samsung-in-talks-with-tesla-to-make-nextgen-selfdriving-chips-report-1632410314474"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 59
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/09_sep/23_thu/img_1632407717774_597.jpg?"
-        width: 1080
-        height: 864
-        isCached: true
-  - title: "Samsung in talks with Tesla to make next-gen self-driving chips: Report"
-    excerpt: "Samsung is reportedly in talks with Tesla to make next-generation self-driving chips based on Samsungs 7-nanometre chip production process."
-    publishedDateTime: 2021-09-24T09:32:00Z
-    webUrl: "https://www.sify.com/finance/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-news-topnews-vjyj6Kigeacgd.html"
-    ampWebUrl: "https://www.sify.com/finance/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-news-topnews-vjyj6Kigeacgd.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-news-topnews-vjyj6Kigeacgd.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 59
-    images:
-      - url: "https://www.sify.com/uploads/samsung_logo_ians_vftm7aaijdchd.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "How Tesla is Using Big Data: Benefits & Challenges of Big Data in Self Driving Cars"
     excerpt: "Tesla is leading the electric vehicle race by relying on big data, artificial intelligence and the internet of things to outsmart its competitors."

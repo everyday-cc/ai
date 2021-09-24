@@ -41,6 +41,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Teamwork makes the dream work: Here’s how this AI tech is making companies stronger"
+    excerpt: "AI tech startup, Humu, believes the secret to company-wide and individual employee success starts with team development."
+    publishedDateTime: 2021-09-24T13:39:00Z
+    webUrl: "https://www.benefitnews.com/news/ai-tech-could-help-employers-face-the-great-resignation"
+    type: article
+    provider:
+      name: Employee Benefit News
+      domain: benefitnews.com
+    quality: 31
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/c4cecf5/2147483647/strip/true/crop/6720x3528+0+476/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F4e%2Fcd%2F143c66324d2ea19d62f7284a99cc%2Flagos-techie-igur1ix0mqm-unsplash.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "hU/yWVEuPz78Yv6icYHPdA5ZR1PHvCVPSGC1rW505vosfIMQCGRio4kIl7XpHfLg7qI3VOiAo2Vgc67X+PCFK6i9dR2B8WqUpRR269zgultk5UmP7oRrhZntiznvnWXUYqA6xAjrWVlnil9Iw62bAa+BScluGGpwQ6ctdjguYfOYxZNm7sNxs5AQqm4opaWTAsMHBSnpjgYqgAH2aJ/50mpOnCJPSmBSY9ygUKCXyxIbVb/CWlIuAFd5AnTKiYzxz05u2U+phWhJO9iFDEEUc8je+1ZGMXbNtAq5gWYNpFi66agW1ysy6dy8Eek5eDkYsdcIVQEes2t8jXAyJOnnbtlPXGEza9+8skT3rN2UNiU=;pOmJAdugVTM6XZRdqOEvdg=="
 ---

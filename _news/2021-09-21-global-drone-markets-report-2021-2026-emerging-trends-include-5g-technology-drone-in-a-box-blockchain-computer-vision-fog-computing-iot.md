@@ -117,6 +117,15 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Construction market report provides"
+    publishedDateTime: 2021-09-24T13:18:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4908381-global-artificial-intelligence-ai-in-construction-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 6
 
 secured: "HSmMMaxx13DPIfdH3+VXNiHs9GiFpKnKFbhSyrZDNF8G+uRMSsXNeqPaQKKFg8MR4b9RS41lyKbDCNivCE4JKhrYl9+DzfPbUKqcD/xs9/S3r93wIdZz2lSaZBMwz7oCqNGnbe+OeqkKk2cYyERu11TtAGahhDnc8dMak650ZwbbpeJypzysbaVKqOHKgIKrtaLF/UOuf7xsqJszzXKYn0f7+RzhQC/PVOytJSbeof5TM1cr2P/1HHpMtBNiAjP2M3nVpVi3y4EEGNYvP/37pyJVivv1N2ty/CSUA125b/Fc17yOl5xzurBuubyYr9SC3aWlHKPZjGYGIHgC+GEv75vlUSkr5df/2vRu5LNMIvhn/kslnu/fIajzVER32BwfZEkLvK7fjGQCq1xZCjjkiT1ri12DDdViWbS//NY33DHVppT59qbuNcb/4Y3ttiY5Yb8uJzoeT2cLwsnomLQDh6FZCbTd+slSAYkbEEJezi8rKDqQWaIFUIFWbZmSEuZJSCTmjNN/OAhSkVIgNHM1eg==;zN33azVZ0X1h+9gieQmf0g=="
 ---

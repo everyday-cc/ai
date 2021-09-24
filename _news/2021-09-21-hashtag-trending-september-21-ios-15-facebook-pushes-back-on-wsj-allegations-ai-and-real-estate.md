@@ -26,22 +26,6 @@ images:
     height: 1500
     isCached: true
 
-related:
-  - title: "Fintech Focus For September 23, 2021September 23, 2021"
-    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
-    publishedDateTime: 2021-09-23T02:32:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/fintech-focus-for-september-23-2021/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 24
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/7UXCJee95DkzvJuB7e3kzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU4Ng--/https://s.yimg.com/uu/api/res/1.2/61svUI3hukFuhJ13jYLAkA--~B/aD0yOTM7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/8806f908e746b43d58bdaed527de2f1c"
-        width: 480
-        height: 293
-        isCached: true
-
 secured: "Urr6U92uk8dJWJBPRatMYX1IEU/WHc8D7FxGdG3OhUJvHIIlGTZdlQrNkYMPfZKudWsZOk2Rb+MwJSNaMDemQcq0xPToVu8ClZg4B9UsdY3KsOh4PVP44D2o/ARG5w3rvsF5Fs3wNDHdgp+S8QmAzI10ljisv1yf9Ms0OgsWb81Mb+bQ2ctq25K0GKb1ZKxAV2ZJ2u0KAqlIuHXud0S6wFV3ZVMSx1cuYxXE7fa4ceZgdZpXayE2XxFl7ZxlKiUi+atJzgJLe/sNRE71mqGb7M1Iqai9HGTU3DriX3vD4Gwg+Oi9c8x2He6oZJDYNxoOAYBnX+rLa0g7wMU//IWboKGfElRWs6of+K6I6mTZx/zsurMi73rp9fiq3byofGKxiGO0GMhJrJl+uuwgbo9m6X75dF4URYBz+y1AD9s6iH4SNJni3x34HCB0mJDhsMZ0sZ6bUEkffic6O7kCFBsFYNVoIe69XqJAfnx8J12pWxDuVKRJVoZyskHhKWUn8DwDG8eR6bTb/6z9YdH1DugDiQ==;per727xYH59eUBiZDn4TEw=="
 ---
 

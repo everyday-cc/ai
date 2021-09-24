@@ -7,7 +7,7 @@ originalUrl: "https://www.insurancetimes.co.uk/news/markerstudys-dan-fiehn-joins
 webUrl: "https://www.insurancetimes.co.uk/news/markerstudys-dan-fiehn-joins-fintech-as-chief-operating-officer/1438901.article"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1024
     height: 536
     isCached: true
+
+related:
+  - title: "FinTech Startup EvoShare Adds Frank Mazza as Chief Marketing Officer"
+    excerpt: "EvoShare, a FinTech startup based in Berkeley, CA welcomes Frank Mazza, an accomplished Digital Marketing Executive with a deep track record of success as Chief Marketing Officer (CMO). Frank joins EvoShare as the company is rapidly expanding,"
+    publishedDateTime: 2021-09-24T13:17:00Z
+    webUrl: "https://www.lelezard.com/en/news-20014289.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 41
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "OPoI71n2DM2panmSkmyv+rGpd2vhozWMe6KDdflIL09vKFXLSh4I4xBfjADeck8V9EiWBQrQSVdOLAfBT9FTb8mSgc+X00Q6yYlKtKecQg4OpuOrdMb+IzsSLYUnVIC4loF9hUMA/UFMsr3gfntzRiahFOqpF3OgucnCBPsBbRR+O/KyVj27mnAtIDPSwaPKzKmDUasghXJ3nJUONgBxyRxwWQzO0H3Fui2T0J+EaSsqpcGpL8WMvtQ4LELBNBbSqMhpuvtaoDUvaxNmGIx05eooWka4SytCwKoP6Q2db1CZunlV6YakQhlHkAtjE28xq1iv3yrx3WxyAcyQMpYemU//hVLhsBgjKaOdNrUC+mw=;/NLU+Ecxhi4CRrwZZY5hfA=="
 ---

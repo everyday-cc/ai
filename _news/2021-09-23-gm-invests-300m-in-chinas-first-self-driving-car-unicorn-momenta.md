@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/09/23/gm-invests-300m-in-chinas-first-se
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/23/gm-invests-300m-in-chinas-first-self-driving-car-unicorn-momenta/amp/"
 type: article
 quality: 74
-heat: 164
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -31,6 +31,66 @@ images:
     isCached: true
 
 related:
+  - title: "GM invests $300M in Momenta to deliver next-generation self-driving technologies in China"
+    excerpt: "General Motors will invest $300 million in China-based Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China. Momenta has pioneered a scalable path toward full autonomous driving by combining a data-driven approach with iterating algorithms—referred to as its “flywheel approach”—as well as a"
+    publishedDateTime: 2021-09-24T10:47:00Z
+    webUrl: "https://media.gm.com/media/cn/en/gm/news.detail.html/content/Pages/news/cn/en/2021/Sept/0923-gm.html"
+    type: article
+    provider:
+      name: Green Car Congress
+      domain: greencarcongress.com
+    quality: 113
+    images:
+      - url: "https://media.gm.com/content/dam/company/img/cn/GMChina_QR_2021.png"
+        width: 1128
+        height: 1132
+        isCached: true
+  - title: "Samsung in talks with Tesla for manufacturing next-generation self-driving chips"
+    excerpt: "Samsung Electronics is reportedly in talks with electric carmaker Tesla for the next-generation self-driving chips based on the South Korean giant’s 7-nanometer (7nm) chip production process, as per the new reports."
+    publishedDateTime: 2021-09-24T03:08:00Z
+    webUrl: "https://www.gizmochina.com/2021/09/24/samsung-tesla-self-driving-chips/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 81
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2020/01/samsung-logo.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "Samsung May Make Next-Gen Self-Driving Chips For Tesla In The Future: Report"
+    excerpt: "Samsung is reportedly in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday."
+    publishedDateTime: 2021-09-24T11:19:00Z
+    webUrl: "https://www.news18.com/news/tech/samsung-may-make-next-gen-self-driving-chips-for-tesla-in-the-future-report-4241621.html"
+    ampWebUrl: "https://www.news18.com/amp/news/tech/samsung-may-make-next-gen-self-driving-chips-for-tesla-in-the-future-report-4241621.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/tech/samsung-may-make-next-gen-self-driving-chips-for-tesla-in-the-future-report-4241621.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 73
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/09/samsung-reuters-img-163248230716x9.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Samsung in talks with Tesla to make next-gen self-driving chips: Report"
+    excerpt: "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips, The Korea Economic Daily reported. If Samsung wins the order, it is expected to make the chip on its 7-nanometre production process,"
+    publishedDateTime: 2021-09-23T15:18:00Z
+    webUrl: "https://inshorts.com/en/news/samsung-in-talks-with-tesla-to-make-nextgen-selfdriving-chips-report-1632410314474"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/samsung-in-talks-with-tesla-to-make-nextgen-selfdriving-chips-report-1632410314474"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/samsung-in-talks-with-tesla-to-make-nextgen-selfdriving-chips-report-1632410314474"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 59
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/09_sep/23_thu/img_1632407717774_597.jpg?"
+        width: 1080
+        height: 864
+        isCached: true
   - title: "Chinese self-driving startup Momenta raises $300 million from GM"
     excerpt: "General Motors said on Thursday that it will invest $300 million in Momenta, a Chinese autonomous vehicle startup. In March, the five-year-old startup closed a $500 million Series C from investors, including state-owned automaker SAIC,"
     publishedDateTime: 2021-09-24T07:47:00Z
@@ -46,6 +106,22 @@ related:
       - url: "https://i2.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
         width: 540
         height: 540
+        isCached: true
+  - title: "Samsung in talks with Tesla to make next-gen self-driving chips: Report"
+    excerpt: "Samsung is reportedly in talks with Tesla to make next-generation self-driving chips based on Samsungs 7-nanometre chip production process."
+    publishedDateTime: 2021-09-24T09:32:00Z
+    webUrl: "https://www.sify.com/finance/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-news-topnews-vjyj6Kigeacgd.html"
+    ampWebUrl: "https://www.sify.com/finance/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-news-topnews-vjyj6Kigeacgd.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-report-news-topnews-vjyj6Kigeacgd.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 59
+    images:
+      - url: "https://www.sify.com/uploads/samsung_logo_ians_vftm7aaijdchd.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "GM invests $300 million in China's self-driving car company Momenta"
     excerpt: "The move is part of a plan GM announced three months ago to invest $35 billion in electric vehicle and autonomous vehicle technology from 2020-25."
@@ -128,6 +204,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "GM invests $300 million in Chinese self-driving startup"
+    excerpt: "General Motors will invest $300 million in Momenta, a China-based self-driving startup, to accelerate the use of autonomous technology in future GM vehicles for the Chinese market. According to GM, Chinese customers are embracing electrification and self-driving technology faster than other parts of the world."
+    publishedDateTime: 2021-09-24T12:35:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17234/gm-invests-300-million-in-chinese-self-driving-startup"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 24
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/234/17234/Momenta.png"
+        width: 752
+        height: 554
+        isCached: true
   - title: "General Motors Invests $300 Million in Chinese Autonomous Driving Startup Momenta"
     excerpt: "GM announced on Thursday that its making a $300 million investment in Chinese autonomous driving startup Momenta, which will help the company accelerate the development of self-driving technologies for future GM vehicles in China."
     publishedDateTime: 2021-09-23T16:30:00Z
@@ -142,20 +232,15 @@ related:
         width: 800
         height: 425
         isCached: true
-  - title: "GM invests $300M in Momenta to deliver next-generation self-driving technologies in China"
-    excerpt: "General Motors will invest $300 million in China-based Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China. Momenta has pioneered a scalable path toward full autonomous driving by combining a data-driven approach with iterating algorithms—referred to as its “flywheel approach”—as well as a"
-    publishedDateTime: 2021-09-24T10:47:00Z
-    webUrl: "https://www.greencarcongress.com/2021/09/20210924-momenta.html"
+  - title: "Embark Announces Advisory Board to Accelerate the Commercialization of its Self-Driving Technology"
+    excerpt: "Embark Trucks, Inc., a leading developer of autonomous technology for the trucking industry, today announced the formation of its strategic advisory board, a committee of distinguished trucking and supply chain executives that will guide Embark's rapid business expansion."
+    publishedDateTime: 2021-09-22T11:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-embark-announces-advisory-board-accelerate-commercialization-its-self-/2021/09/22/9454053.htm"
     type: article
     provider:
-      name: Green Car Congress
-      domain: greencarcongress.com
-    quality: 15
-    images:
-      - url: "https://bioage.typepad.com/.a/6a00d8341c4fbe53ef026bdef32689200c-600wi"
-        width: 600
-        height: 674
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "qd6CGbVcU0HrirJSEpQOY+CQFesbTxPH0p2aYHIHYH+03y4w5yOjSEkBgBXlFjvz816T6i690MVeaBMThNQSg2HXg+IowOBS4JZBKN1vv7hSSg+w2ODBuKayj1imYutqkpLsn7cWLpeqGVYq89QF3u3rCuI3AOlyB1UEqfLpTK7eyZmZu17NG621TxZcWs4OmB83FlzOVx3addApfyMeGdys1Qvmk1ijV/goT3+xS2NTDxuSZ07oY0MlgET0j+VQ0J1aNN9s8rThDWVCGiFUO5T9YGkkE7Gbx/1vinHs1gj1TKau8YLmZZYbCXehjyYXyS2ftK8qVlRnGf0cnqsautz61PngrBBTa2xGHUAFoJCN/9x91hHd4yaZDOyYceU252nDMn/1eq8tyKxXHdZ1OhwgrLvoWnsI+umwAic0rN+RG86F/GNGup46liG8IfEz/B+F9biObSz1lMHz9Y2LY8dulayeb2bfbY2gM5ig+kUQDyDvPh6Q5HzuNqz3UhdW94Bp2psqNC5rpTUvgH+9TA==;FLuN1rnlZ/xMUcvBUyZVUw=="
 ---

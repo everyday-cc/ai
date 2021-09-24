@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/386471"
 webUrl: "https://www.entrepreneur.com/article/386471"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -35,6 +35,17 @@ related:
     webUrl: "https://www.nasdaq.com/articles/5-hot-ai-stocks-to-watch-in-the-stock-market-this-week-2021-09-21"
     ampWebUrl: "https://www.nasdaq.com/articles/5-hot-ai-stocks-to-watch-in-the-stock-market-this-week-2021-09-21?amp"
     cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-hot-ai-stocks-to-watch-in-the-stock-market-this-week-2021-09-21?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+  - title: "4 Stocks to Watch as Demand for Surgical Robots Ready to Rise"
+    excerpt: "Surgeons are able to achieve more precision than is otherwise possible with human hands and can conveniently control the robots for enhanced movement, allowing them to perform more complicated surgeries."
+    publishedDateTime: 2021-09-24T12:20:00Z
+    webUrl: "https://www.nasdaq.com/articles/4-stocks-to-watch-as-demand-for-surgical-robots-ready-to-rise-2021-09-24"
+    ampWebUrl: "https://www.nasdaq.com/articles/4-stocks-to-watch-as-demand-for-surgical-robots-ready-to-rise-2021-09-24?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-stocks-to-watch-as-demand-for-surgical-robots-ready-to-rise-2021-09-24?amp"
     type: article
     provider:
       name: Nasdaq

@@ -25,29 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "New ten-year plan to make Britain a global AI superpower"
-    excerpt: "National AI Strategy to boost business use of AI, attract international investment and develop next generation of tech talent"
-    publishedDateTime: 2021-09-22T08:15:00Z
-    webUrl: "https://www.gov.uk/government/news/new-ten-year-plan-to-make-britain-a-global-ai-superpower"
+  - title: "Syntiant launches neural network processor for vision AI"
+    excerpt: "Artificial intelligence (AI) hardware vendor Syntiant Corp. has debuted a neural decision processor (NDP), the first chip from the company to provide vision processing for next-generation AI applications."
+    publishedDateTime: 2021-09-24T12:38:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17238/syntiant-launches-neural-network-processor-for-vision-ai"
     type: article
     provider:
-      name: gov.uk
-      domain: www.gov.uk
-    quality: 41
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 56
     images:
-      - url: "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/131697/s960_London_Tech_Week_gov.uk.jpg"
-        width: 960
-        height: 640
+      - url: "https://electronics360.globalspec.com/images/assets/238/17238/syntiant.jpg"
+        width: 752
+        height: 423
         isCached: true
-  - title: "Britain wants to be an artificial intelligence superpower"
-    excerpt: "Because it is short on regular intelligenceThe nation which voted for Boris Johnson and Brexit and gave the world reality television apparently has drawn up a glorious ten year plan to be the world leaders of artificial intelligence."
-    publishedDateTime: 2021-09-23T10:09:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/53587-britain-wants-to-be-an-artificial-intelligence-superpower"
+  - title: "Syntiant's NDP200 Promises 6.4GOP/s of Edge AI Compute in a Tiny 1mW Power Envelope"
+    excerpt: "Successor to the NDP120 adds an 11-wire image interface, promises impressive runtimes for battery-powered edge AI workloads."
+    publishedDateTime: 2021-09-22T15:25:00Z
+    webUrl: "https://www.hackster.io/news/syntiant-s-ndp200-promises-6-4gop-s-of-edge-ai-compute-in-a-tiny-1mw-power-envelope-96590283ffbc"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 32
+      name: Hackster
+      domain: hackster.io
+    quality: 33
+    images:
+      - url: "https://hackster.imgix.net/uploads/attachments/1353762/_jTlbKXQsyz.blob?auto=compress%2Cformat&w=600&h=450&fit=min"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "6H0gXic0TrkRndmbNdjDqvVFHBn/3yKQvP9QaKqJM/iKUI0NiESnqShRpH/pky4x/SqwdblpAoa4w00CAzyhvRRXyPvXkIfWEnUYWJiPkm/MWu8hmXcXXA/BCJ4RTFILxuGp4WmV6txpV1hJ/418Lj3MzDi/XwjCKkF9981hjx/9jGkC0BTDwG79LUVqAQXhbsAZMGT+yiHZfDdBaihThUR95iK/hKjMtmq+eYKNuOUuB6EyM+m3aMu+t+/Sc27fG5Qhwb8vflLqOzs7rTU3naIO1NlghJDd8/krL/l8fUomjruVr7T3dNU2QCdu+fR++2FLprzcggtoiA/neualXvKNAhTT6CGwunLNkSQ9n+xnn4kwIvvbtABoeweoZ52M1SHVTflWjUw2xwU+L7mWzRfUeLcu+wNSev4opCDYfNN62v3po5za2U7DcS09dbqJ0jXq5PN0PWdaaXxyfNmjTp9KLsNQhBdjnrh0U+ObJqgLTK0OWlf4G656F2gQdcvSgbfemLiVbuwmZl1Bom/wGg==;zFYWrVYtuj0Cyk8cvL72Zw=="
 ---

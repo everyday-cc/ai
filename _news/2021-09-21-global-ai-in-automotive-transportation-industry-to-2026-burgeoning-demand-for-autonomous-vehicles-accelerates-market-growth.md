@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Leading Ag-Tech Startup Iron Ox Closes $53 Million Investment Round Led by Breakthrough Energy Ventures"
+    excerpt: "Iron Ox announced today that it has closed a $53 million “Series C” funding round, led by new investor Breakthrough Energy Ventures. Iron Ox, which la"
+    publishedDateTime: 2021-09-22T14:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210922005335/en/Leading-Ag-Tech-Startup-Iron-Ox-Closes-53-Million-Investment-Round-Led-by-Breakthrough-Energy-Ventures"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "766f7aSLg5l+ZdsBa/6c1THzHlroS8qxX7n0u+E4RgasYyASs5yIjhNEQnj2KWouZ1ARjphbE53kQz67HiiWIOLZ31TPB20KNQzfG4I9zAMrTZS1tSA/cgXYOiM+7fHccOUp6R6wgL2/Wb+ksi0/ZkCKOcoH0XMeqvCQbkSAMV6jQ0SAcYyJW38lkrwiB6FqCxq93o4CNIlzBNLOAp09C0NMZgauL+mfC0EZzYqQCMeg2savdyW6HvIrVIn77WtfgZk4CYcszAOG89/mZCqP1rqe/EeP+kkff+tCkatQDk8m36XzCpl9I0KaUxhXRuWULD6XeXLvMPQ8Wea+sn+wuZnosWMrSroCAPLS8X792Soves0AuyTW1u1WPB9QRp2gRHuV/g2y1VShRy2e0GJb9opLh4HxNuJpDQXLdhGf2eV1fT95Q73c0ZGb7avoaRB7P9386L5bCNqeFdASUloiyc1R88eQr02d5d86WkAePYM+na/Xcx+zO8xMYLWJn2ECb5AUlKs9edNoPdps8E/C/w==;T64NueoX5P39nEAEXg2NoA=="
 ---

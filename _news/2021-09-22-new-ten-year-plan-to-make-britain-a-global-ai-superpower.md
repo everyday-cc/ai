@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Government launches ten-year plan for AI"
-    excerpt: "The government launched a ten-year plan on the use of AI. According to the Department for Culture Media and Sport (DCMS), the National Artificial Intelligence Strategy announced today, Wednesday, \"marks a step change in the country's approach to the fastest growing emerging technology in the world\"."
-    publishedDateTime: 2021-09-22T13:53:00Z
-    webUrl: "https://www.computing.co.uk/news/4037521/government-launches-plan-ai"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 39
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/9094f48/9b4d44db-9ccb-4ddb-91be-1dbf2cb7589a/2/developing-ai-iStock-1154360236-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
   - title: "Britain wants to be an artificial intelligence superpower"
     excerpt: "Because it is short on regular intelligenceThe nation which voted for Boris Johnson and Brexit and gave the world reality television apparently has drawn up a glorious ten year plan to be the world leaders of artificial intelligence."
     publishedDateTime: 2021-09-23T10:09:00Z

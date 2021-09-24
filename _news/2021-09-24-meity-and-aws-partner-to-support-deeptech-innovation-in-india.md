@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dqindia.com/meity-aws-partner-support-deeptech-innovatio
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/meity-aws-partner-support-deeptech-innovation-india/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Dataquest
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AWS collaborates with MeitY to support startup growth and innovation in India"
+    excerpt: "As part of this new collaboration, MeitY Startup Hub and AWS will work together to identify startups with deep technology capabilities, and enable and empower them to build impactful solutions to address the biggest problems facing society in India."
+    publishedDateTime: 2021-09-24T12:32:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/aws-collaborates-with-meity-to-support-startup-growth-and-innovation-in-india/articleshow/86482985.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/aws-collaborates-with-meity-to-support-startup-growth-and-innovation-in-india/amp_articleshow/86482985.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/aws-collaborates-with-meity-to-support-startup-growth-and-innovation-in-india/amp_articleshow/86482985.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 56
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-17802,msid-86482988/amazon.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "MeitY Startup Hub and AWS collaborate to support startup growth and innovation in India"
     excerpt: "The MeitY Startup Hub, an initiative of the Ministry of Electronics and IT (MeitY) has entered into a Memorandum of Understanding (MoU) with Amazon Internet Ser"
     publishedDateTime: 2021-09-24T10:01:00Z

@@ -30,99 +30,35 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla is in talks with Samsung to produce its next-gen Full Self-Driving chip"
-    excerpt: "According to a new report from Korea, Tesla is currently in talks with Samsung Electronics to produce its next-gen Full Self-Driving chip. The new chip is expected to first launch in the Tesla Cybertruck next year."
-    publishedDateTime: 2021-09-23T15:03:00Z
-    webUrl: "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/"
-    ampWebUrl: "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/amp/"
+  - title: "GM invests $300M in Momenta to deliver next-generation self-driving technologies in China"
+    excerpt: "General Motors will invest $300 million in China-based Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China. Momenta has pioneered a scalable path toward full autonomous driving by combining a data-driven approach with iterating algorithms—referred to as its “flywheel approach”—as well as a"
+    publishedDateTime: 2021-09-24T10:47:00Z
+    webUrl: "https://media.gm.com/media/cn/en/gm/news.detail.html/content/Pages/news/cn/en/2021/Sept/0923-gm.html"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 103
+      name: Green Car Congress
+      domain: greencarcongress.com
+    quality: 113
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Screen-Shot-2019-04-22-at-2.48.54-PM-e1568302212821.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://media.gm.com/content/dam/company/img/cn/GMChina_QR_2021.png"
+        width: 1128
+        height: 1132
         isCached: true
-  - title: "Tesla Full Self-Driving: An overview of how it works"
-    excerpt: "If there is one piece of technology that's pretty optimistic, it's Tesla's Full Self-Driving system. There are no self-driving cars on sale today, despite what \"FSD\" -- as Tesla owners and CEO Elon Musk refer to it as -- promises."
-    publishedDateTime: 2021-09-22T11:00:00Z
-    webUrl: "https://www.cnet.com/news/tesla-full-self-driving-overview-cost-investigation/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-overview-cost-investigation/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-overview-cost-investigation/"
+  - title: "GM invests $300M in China’s first self-driving car unicorn Momenta"
+    excerpt: "General Motors has now joined a slew of other major automakers, including Toyota, Chinese state-backed SAIC Motor, and Mercedes-Benz AG in putting its chips behind Chinese autonomous driving startup Momenta."
+    publishedDateTime: 2021-09-23T14:19:00Z
+    webUrl: "https://techcrunch.com/2021/09/23/gm-invests-300m-in-chinas-first-self-driving-car-unicorn-momenta/"
+    ampWebUrl: "https://techcrunch.com/2021/09/23/gm-invests-300m-in-chinas-first-self-driving-car-unicorn-momenta/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/23/gm-invests-300m-in-chinas-first-self-driving-car-unicorn-momenta/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
     images:
-      - url: "https://www.cnet.com/a/img/bOyPv1h-UlqYl-el3hHcBa2WShc=/644x362/2017/03/14/e743e9be-1c54-4dd3-9583-248dd3e54e34/amp-placeholder.jpg"
-        width: 644
-        height: 362
-        isCached: true
-  - title: "NTSB says Tesla’s Full Self-Driving beta is ‘misleading & irresponsible’ ahead of wider release"
-    excerpt: "As Tesla is moving to release its Full Self-Driving beta software to its US fleet, the automaker is facing some pushbacks from US regulators. Now the NTSB is calling Tesla’s approach “misleading and irresponsible."
-    publishedDateTime: 2021-09-20T13:08:00Z
-    webUrl: "https://electrek.co/2021/09/20/ntsb-says-tesla-full-self-driving-beta-misleading-irresponsible-ahead-wider-release/"
-    ampWebUrl: "https://electrek.co/2021/09/20/ntsb-says-tesla-full-self-driving-beta-misleading-irresponsible-ahead-wider-release/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/20/ntsb-says-tesla-full-self-driving-beta-misleading-irresponsible-ahead-wider-release/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 77
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Samsung in talks with Tesla to make next-gen self-driving chips -Korea Economic Daily"
-    excerpt: "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday."
-    publishedDateTime: 2021-09-23T15:56:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/samsung-talks-with-tesla-make-next-gen-self-driving-chips-korea-economic-daily-2021-09-23/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 77
-    images:
-      - url: "https://www.reuters.com/resizer/WvidrcP5l2WCxHpUqCwZpUom3cQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FKIHL5J22BM6LM73QL4MWKOOG4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Samsung in talks with Tesla to make next-gen self-driving chips"
-    excerpt: "Tesla and Samsung have discussed chip design multiple times and exchanged chip prototypes for Tesla's upcoming Hardware 4 self-driving computer, the Korea Economic Daily reported, citing sources with direct knowledge of the matter."
-    publishedDateTime: 2021-09-23T13:55:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips/articleshow/86457352.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips/amp_articleshow/86457352.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips/amp_articleshow/86457352.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 76
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-86457352,imgsize-14054,width-800/86457352.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "NTSB Tells Tesla To Tackle Basic Autopilot Safety And Stop Misleading With Full Self Driving Claims"
-    excerpt: "Despite labeling its $10k option as Full Self Driving, NTSB head Jennifer Homendy thinks that Tesla is putting the cart before the horse."
-    publishedDateTime: 2021-09-20T14:08:00Z
-    webUrl: "https://hothardware.com/news/tesla-ntsb-safety-autopilot-full-self-driving-autonomous"
-    ampWebUrl: "https://amp.hothardware.com/news/tesla-ntsb-safety-autopilot-full-self-driving-autonomous"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/tesla-ntsb-safety-autopilot-full-self-driving-autonomous"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 75
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/56277/content/tesla_model_3_interior.jpeg"
-        width: 708
-        height: 398
+      - url: "https://techcrunch.com/wp-content/uploads/2021/03/momenta-2021_1.jpg?w=1024"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Samsung May Make Next-Gen Self-Driving Chips For Tesla In The Future: Report"
     excerpt: "Samsung is reportedly in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday."
@@ -140,50 +76,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Samsung in talks with Tesla to make next-gen self-driving chips, says daily"
-    excerpt: "Samsung Electronics' semiconductor plant in Hwaseong produces 7nm chips. SEOUL: Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process,"
-    publishedDateTime: 2021-09-23T16:41:00Z
-    webUrl: "https://www.carsifu.my/news/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-says-daily"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 69
-    images:
-      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2021/09/Samsung-Foundry_New-EUV-Line_main.jpg"
-        width: 880
-        height: 548
-        isCached: true
-  - title: "Samsung in talks with Tesla to make next-gen self-driving chips -Korea Economic Daily"
-    excerpt: "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday. Since the beginning of this year,"
-    publishedDateTime: 2021-09-23T23:59:00Z
-    webUrl: "https://www.channelnewsasia.com/business/samsung-talks-tesla-make-next-gen-self-driving-chips-korea-economic-daily-2197401"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 64
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--2McE1zEU--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-09-23t115659z_1_lynxmpeh8m0fo_rtroptp_3_samsung-elec-leader.jpg?itok=q2wEFVqp"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Elon Musk only wants good drivers in Tesla's Full Self-Driving beta"
-    excerpt: "It seems that Elon Musk is tired of San Francisco tech bros sleeping in the back seat of their Teslas with Autopilot enabled. He really wants good responsible drivers to test the car maker's Full Self-Driving (FSD) beta."
-    publishedDateTime: 2021-09-23T07:01:00Z
-    webUrl: "https://www.tomsguide.com/uk/news/elon-musk-only-wants-good-drivers-in-teslas-full-self-driving-beta"
-    ampWebUrl: "https://www.tomsguide.com/uk/amp/news/elon-musk-only-wants-good-drivers-in-teslas-full-self-driving-beta"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/elon-musk-only-wants-good-drivers-in-teslas-full-self-driving-beta"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/YgUHsWEWfthGscTnET98nk-1200-80.jpg"
-        width: 1200
-        height: 641
-        isCached: true
   - title: "Samsung in talks with Tesla to make next-gen self-driving chips: Report"
     excerpt: "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips, The Korea Economic Daily reported. If Samsung wins the order, it is expected to make the chip on its 7-nanometre production process,"
     publishedDateTime: 2021-09-23T15:18:00Z
@@ -199,6 +91,22 @@ related:
       - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/09_sep/23_thu/img_1632407717774_597.jpg?"
         width: 1080
         height: 864
+        isCached: true
+  - title: "Chinese self-driving startup Momenta raises $300 million from GM"
+    excerpt: "General Motors said on Thursday that it will invest $300 million in Momenta, a Chinese autonomous vehicle startup. In March, the five-year-old startup closed a $500 million Series C from investors, including state-owned automaker SAIC,"
+    publishedDateTime: 2021-09-24T07:47:00Z
+    webUrl: "https://technode.com/2021/09/24/chinese-self-driving-startup-momenta-raises-300-million-from-gm/"
+    ampWebUrl: "https://technode.com/2021/09/24/chinese-self-driving-startup-momenta-raises-300-million-from-gm/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/09/24/chinese-self-driving-startup-momenta-raises-300-million-from-gm/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 59
+    images:
+      - url: "https://i2.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
         isCached: true
   - title: "Samsung in talks with Tesla to make next-gen self-driving chips: Report"
     excerpt: "Samsung is reportedly in talks with Tesla to make next-generation self-driving chips based on Samsungs 7-nanometre chip production process."
@@ -216,120 +124,124 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tesla drivers using 'full self-driving' Autopilot pay less attention to their surroundings"
-    excerpt: "Tech giant Tesla is due to launch the latest version of its Autopilot “full self-driving” technology to owners this autumn, but new research has revealed that the system could be making drivers inattentive to their surroundings."
-    publishedDateTime: 2021-09-21T15:10:00Z
-    webUrl: "https://www.driving.co.uk/news/tesla-drivers-fsd-autopilot-distraction/"
-    ampWebUrl: "https://www.driving.co.uk/news/tesla-drivers-fsd-autopilot-distraction/amp/"
-    cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/news/tesla-drivers-fsd-autopilot-distraction/amp/"
+  - title: "GM invests $300 million in China's self-driving car company Momenta"
+    excerpt: "The move is part of a plan GM announced three months ago to invest $35 billion in electric vehicle and autonomous vehicle technology from 2020-25."
+    publishedDateTime: 2021-09-23T16:41:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/general-motors/2021/09/23/gm-invests-300-million-chinas-self-driving-car-company-momenta/5828884001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5828884001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5828884001"
     type: article
     provider:
-      name: Sunday Times Driving
-      domain: driving.co.uk
-    quality: 49
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 44
     images:
-      - url: "https://www.driving.co.uk/s3/st-driving-prod/uploads/2021/09/0x0-Model3_RHD_02-1024x638.jpg"
-        width: 1024
-        height: 638
+      - url: "https://www.gannett-cdn.com/presto/2021/06/10/PDTN/8e79ca76-4589-479a-a2bf-511d22991dc9-TDNBrd_DETROIT_11-25-2020_TDNXX_1_A010__2020_11_24_IMG_Gmevbarra01_1_1_3F30CMS8_L86734151_IMG_Gmevbarra01_1_1_3F30CMS8.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "How Tesla is Using Big Data: Benefits & Challenges of Big Data in Self Driving Cars"
-    excerpt: "Tesla is leading the electric vehicle race by relying on big data, artificial intelligence and the internet of things to outsmart its competitors."
-    publishedDateTime: 2021-09-20T14:38:00Z
-    webUrl: "https://www.bbntimes.com/science/how-tesla-is-using-big-data-benefits-challenges-of-big-data-in-self-driving-cars"
+  - title: "GM Invests $300 Million in Chinese Autonomous Driving Startup Momenta"
+    excerpt: "U.S. automaker General Motors Co said on Thursday that it would invest $300 million in Chinese autonomous driving startup Momenta to develop self-driving technologies for future models in China. In China,"
+    publishedDateTime: 2021-09-23T05:37:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-09-23/gm-invests-300-million-in-chinese-autonomous-driving-startup-momenta"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 48
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/How_Tesla_is_Using_Big_Data-_Benefits__Challenges_of_Big_Data_in_Self_Driving_Cars.jpeg"
-        width: 1920
-        height: 938
-        isCached: true
-  - title: "Tesla announces fully self-driving cars"
-    excerpt: "Tesla Motors announced Wednesday that its electric cars will be the first in the nation to all be fitted with the hardware they need to drive themselves. CEO Elon Musk announced Wednesday that the automaker’s Model S,"
-    publishedDateTime: 2021-09-20T12:43:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_tesla-nasdaq-tsla/tesla-announces-fully-self-driving-cars/"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
+  - title: "General Motors to invest $300m in Chinese self-driving start-up Momenta"
+    excerpt: "Four year old unicorn Momenta has also been funded by SAIC Motors, Toyota and Bosch in the past and closed a $500m round in March."
+    publishedDateTime: 2021-09-23T08:55:00Z
+    webUrl: "https://www.siliconrepublic.com/business/general-motors-to-invest-300m-in-chinese-self-driving-start-up-momenta"
     type: article
     provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 39
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 24
     images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/29906170001_6004558551001_6004555585001-vs.jpg"
-        width: 640
-        height: 360
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/09/GMLogoRenCenBuilding.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "U.S. investigator urges Tesla to fix self-driving concerns, report says"
-    excerpt: "Tesla's use of the term \"full self-driving\" is “misleading and irresponsible,” NTSB Chairwoman Jennifer Homendy told the Wall Street Journal."
-    publishedDateTime: 2021-09-20T15:25:00Z
-    webUrl: "https://www.autonews.com/regulation-safety/us-investigator-urges-tesla-fix-self-driving-concerns-report-says"
+  - title: "GM invests $300M in China’s self-driving car company Momenta"
+    excerpt: "General Motors is investing $300 million in China's self-driving car company Momenta. GM said Thursday that the investment will speed up the development of next-generation self-driving technologies in China."
+    publishedDateTime: 2021-09-23T15:57:00Z
+    webUrl: "https://apnews.com/article/business-technology-china-3ac51a2f83d29fffa9807a5b74b02070"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/1759e8719a7e4b3196a74cd342b7b4ee/3000.jpeg"
+        width: 2999
+        height: 3000
+        isCached: true
+  - title: "GM invests in Chinese autonomous driving startup Momenta"
+    excerpt: "Momenta is among the few companies that hold a permit for gathering high-definition maps in China, a key tool in autonomous driving technologies."
+    publishedDateTime: 2021-09-23T14:50:00Z
+    webUrl: "https://www.autonews.com/china/gm-invests-chinese-autonomous-driving-startup-momenta"
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
-    quality: 39
+    quality: 24
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TeslaFSD-MAIN_0.jpg"
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/GMAV-MAIN.jpg"
         width: 800
         height: 600
         isCached: true
-  - title: "The National Transportation Safety Board thinks Tesla should pump the brakes on full self-driving"
-    excerpt: "Jessica Homendy, the chair of t (NTSB) had some strong words for Tesla in an interview in The Wall Street Journal. Essentially she warned Tesla to deal with “basic safety issues” before rolling out their “full self-driving” (FSD) mode to more drivers."
-    publishedDateTime: 2021-09-20T15:22:00Z
-    webUrl: "https://knowtechie.com/the-national-transportation-safety-board-thinks-tesla-should-pump-the-brakes-on-full-self-driving/"
+  - title: "GM to invest $300M in Chinese self-driving technology developer Momenta"
+    excerpt: "The investment will help accelerate adoption of the young Chinese company’s autonomous driving technology in GM's future China products."
+    publishedDateTime: 2021-09-23T16:08:00Z
+    webUrl: "https://www.autonews.com/china/gm-invest-300m-chinese-self-driving-technology-developer-momenta"
     type: article
     provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 26
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/11/tesla-model-3-steering-wheel-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Tesla's 'Full Self-Driving' Isn't What Elon Musk Says It Is. Now the Government Is Calling Him Out"
-    excerpt: "The head of the National Highway Safety Board says Tesla should stop talking about 'full self-driving' cars until they can actually do that."
-    publishedDateTime: 2021-09-22T08:01:00Z
-    webUrl: "https://www.inc.com/jason-aten/everyone-knows-teslas-full-self-driving-isnt-what-elon-musk-says-it-is-now-government-is-calling-him-out.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 25
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1228322928_2000137620009280105_it6ch8.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "NTSB chief calls Tesla Full Self-Driving \"misleading and irresponsible,\" amid city-driving beta test"
-    excerpt: "The safety leader suggested that more regulation is needed to reel in Tesla's experiments with untrained beta testers."
-    publishedDateTime: 2021-09-21T12:00:00Z
-    webUrl: "https://www.greencarreports.com/news/1133637_ntsb-chief-tesla-full-self-driving-misleading-irresponsible-city-driving-beta-test"
-    type: article
-    provider:
-      name: Green Car Reports
-      domain: greencarreports.com
+      name: Automotive News
+      domain: autonews.com
     quality: 24
     images:
-      - url: "https://images.hgmsites.net/hug/2020-tesla-model-3_100736264_h.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Momenta%20tests%20its%20robotaxi%20fleet%20in%20Suzhou.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "U.S. Safety Official Calls on Tesla To Fix 'Basic Safety Issues' Before Expanding its Full Self-Driving Mode"
-    excerpt: "A top U.S. safety official is urging Tesla to address its “basic safety issues” before it expands its plans to introduce the much-discussed Full-Self Driving mode. Tesla says the Full Self-Driving package is designed to allow for short and long-distance trips “with no action required by the person in the driver’s seat."
-    publishedDateTime: 2021-09-22T02:30:00Z
-    webUrl: "https://hypebeast.com/2021/9/tesla-full-self-driving-mode-safety-issues-wsj"
+  - title: "GM invests $300 million in Chinese self-driving startup"
+    excerpt: "General Motors will invest $300 million in Momenta, a China-based self-driving startup, to accelerate the use of autonomous technology in future GM vehicles for the Chinese market. According to GM, Chinese customers are embracing electrification and self-driving technology faster than other parts of the world."
+    publishedDateTime: 2021-09-24T12:35:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17234/gm-invests-300-million-in-chinese-self-driving-startup"
     type: article
     provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 20
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 24
     images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F09%2Ftesla-full-self-driving-mode-safety-issues-wsj-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
+      - url: "https://electronics360.globalspec.com/images/assets/234/17234/Momenta.png"
+        width: 752
+        height: 554
         isCached: true
+  - title: "General Motors Invests $300 Million in Chinese Autonomous Driving Startup Momenta"
+    excerpt: "GM announced on Thursday that its making a $300 million investment in Chinese autonomous driving startup Momenta, which will help the company accelerate the development of self-driving technologies for future GM vehicles in China."
+    publishedDateTime: 2021-09-23T16:30:00Z
+    webUrl: "https://www.futurecar.com/4886/General-Motors-Invests-$300-Million-in-Chinese-Autonomous-Driving-Startup-Momenta"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 17
+    images:
+      - url: "https://img.futurecar.com/202109/23/l_614cad3d81fec.jpeg"
+        width: 800
+        height: 425
+        isCached: true
+  - title: "Embark Announces Advisory Board to Accelerate the Commercialization of its Self-Driving Technology"
+    excerpt: "Embark Trucks, Inc., a leading developer of autonomous technology for the trucking industry, today announced the formation of its strategic advisory board, a committee of distinguished trucking and supply chain executives that will guide Embark's rapid business expansion."
+    publishedDateTime: 2021-09-22T11:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-embark-announces-advisory-board-accelerate-commercialization-its-self-/2021/09/22/9454053.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "L8Ru41FQ3sG58w51snk3rp7QsibNh2bWzVz8Kae/d7IPLivDK5AwtWXBUOJDADvtgsAzTK4rm9gv0zuBmjC3mjTmm3HOB1OIqqaqvREWE4cD08ZAQius+BqA4e40pCMTk1r22+WI1B+yn/h7F5onWxWQ7wV8xgt5g4+u/G9NtrBf9lG0Pb3OMBK/NjEqKu1/xxU5N49R/CK9gkm2dB2QBlU8smP00Zz9AlRfY0azKy4cgxRcLmPXIiC3hOaDv+xOZY257gNnnf5n2An2awctDi3FWEqIaPGcV+gWBJmYWHzZeMGaWb50mAAGovi6XWjNjBGTv6O1/acmi9diLlXKI/71VWbJfQdTVwFtw7SSSactCPcyZqLNoVyWufklF1/Qdsm28TbHMBIxLmSaCoCAO+Wc6BLC44kZVk5p5egzD7XkAZnRAS8TgN8a8HXduik7jQZ7JhtKqkNdqk1NaegPmiPdv0OXZ9+vShHE1siUzc0Hxa1aWdjoq8mfBUOFYBictdCI0WEQmsOJ/JW86xXAhw==;MzQslxFQ+9uVG3Ab1o4aLw=="
 ---

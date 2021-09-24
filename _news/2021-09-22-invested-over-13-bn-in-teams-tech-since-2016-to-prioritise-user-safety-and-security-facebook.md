@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/technology/invested-over-13-bn-in-teams-tec
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/invested-over-13-bn-in-teams-tech-since-2016-to-prioritise-user-safety-and-security-facebook-10841402.htm/amp"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -28,22 +28,86 @@ images:
     isCached: true
 
 related:
-  - title: "Startup Digest: Freshworks lists on Nasdaq, Facebook spent over $13 bn on safety, security since 2016"
-    excerpt: "Freshworks has become the first Indian SaaS startup to list on the Nasdaq stock exchange, raising over $ 1.03 billion from investors through its IPO at a market cap of $10.13 billion. The San Mateo-based startup sold 28."
-    publishedDateTime: 2021-09-22T17:49:00Z
-    webUrl: "https://www.cnbctv18.com/startup/startup-digest-freshworks-lists-on-nasdaq-facebook-spent-over-13-bn-on-safety-security-since-2016-10843612.htm"
-    ampWebUrl: "https://www.cnbctv18.com/startup/startup-digest-freshworks-lists-on-nasdaq-facebook-spent-over-13-bn-on-safety-security-since-2016-10843612.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/startup/startup-digest-freshworks-lists-on-nasdaq-facebook-spent-over-13-bn-on-safety-security-since-2016-10843612.htm/amp"
+  - title: "Facebook’s Chief Technology Officer to Step Down in 2022"
+    excerpt: "Mike Schroepfer, who leads the company’s artificial intelligence and other technical efforts, said he planned to transition into a role as a senior fellow."
+    publishedDateTime: 2021-09-22T22:50:00Z
+    webUrl: "https://www.nytimes.com/2021/09/22/technology/facebook-cto-step-down-mike-schroepfer.html"
+    ampWebUrl: "https://www.nytimes.com/2021/09/22/technology/facebook-cto-step-down-mike-schroepfer.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/22/technology/facebook-cto-step-down-mike-schroepfer.amp.html"
     type: article
     provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 46
+      name: New York Times
+      domain: nytimes.com
+    quality: 172
     images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2019/08/startups-1019x573.jpeg"
-        width: 1019
-        height: 573
+      - url: "https://static01.nyt.com/images/2021/09/22/multimedia/22facebook/22facebook-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
+  - title: "4 ways Facebook’s departing CTO Mike Schroepfer shaped the company"
+    excerpt: "Facebook CTO Mike Schroepfer announced that he's stepping down from the position after spending 13 years at the company"
+    publishedDateTime: 2021-09-23T07:47:00Z
+    webUrl: "https://thenextweb.com/news/4-ways-facebook-cto-mike-schroepfer-analysis"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FMike-Schroepfer.jpg&signature=04b0e90a62b4c26892fb9e18e1be080c"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Andrew Bosworth to be next Facebook CTO"
+    excerpt: "Schroepfer will be succeeded by Andrew Bosworth (Boz) who will be transitioning into the role of CTO in 2022. Bosworth created and has been heading the social media major’s augmented reality/virtual reality organisation — which was renamed Facebook Reality Labs (FRL) in 2020 — where he drives all of Facebook’s efforts in augmented reality,"
+    publishedDateTime: 2021-09-23T07:36:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/andrew-bosworth-to-be-next-facebook-cto/article36625511.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/andrew-bosworth-to-be-next-facebook-cto/article36625511.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/andrew-bosworth-to-be-next-facebook-cto/article36625511.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 44
+    images:
+      - url: "https://www.thehindubusinessline.com/info-tech/h548vf/article36625510.ece/ALTERNATES/LANDSCAPE_615/blfb"
+        width: 615
+        height: 384
+        isCached: true
+  - title: "Facebook CTO Schroepfer Steps Down, Moves Into Part-Time Role"
+    excerpt: "Facebook Chief Technology Officer Mike Schroepfer has announced he’ll be stepping down and transitioning to be the company’s first senior fellow."
+    publishedDateTime: 2021-09-23T01:46:00Z
+    webUrl: "https://www.pymnts.com/facebook/2021/facebook-cto-schroepfer-steps-down-moves-into-part-time-role/"
+    ampWebUrl: "https://www.pymnts.com/facebook/2021/facebook-cto-schroepfer-steps-down-moves-into-part-time-role/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/facebook/2021/facebook-cto-schroepfer-steps-down-moves-into-part-time-role/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/facebook-2-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "Facebook CTO Schroepfer to step down from 2022"
+    excerpt: "Facebook CTO Mike Schroepfer announced that he will step down from his role as of 2022. Schroepfer will transition to a part-time role with the company. In 2022, he will be replaced as CTO by Andrew Bosworth,"
+    publishedDateTime: 2021-09-23T06:38:00Z
+    webUrl: "https://www.telecompaper.com/news/facebookcto-schroepfer-to-step-down-from-2022--1398095"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 4
+  - title: "Facebook Chief Technology Officer Mike Schroepfer to step down next year"
+    excerpt: "Facebook Chief Technology Officer Mike Schroepfer will step down next year after 13 years at the social-media company and eight years in the CTO position, the company confirmed Wednesday. In a Facebook post,"
+    publishedDateTime: 2021-09-22T16:17:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/202109221017/facebook-chief-technology-officer-mike-schroepfer-to-step-down-next-year"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 3
 
 secured: "j0l4Zpx35CtVNn+7QxPiqGmPO9UlG3ViHr0UdMNefsWxOS1Y1zeVzujaq7ZpVhxmFb9Af2f2R0tputRFmO4449ZTByRI3vkObKLliFZYVCIS7DWlJrraWbRrwpYzDkTQm2tX1p67N8qdMlwQt6Y2izsMfZiArv3ovJMUhfbtcZDcBmfnwPv7PUs8zIXPObGFDgBXEgcozINHMrED4PD67O2gmya6mLqHMWJKFE05WKkrV7ToMVHFt4VRfQNGf79Oh3hzpzEgUfSEGaiDqHonzRRH+hYqDxnAVR2nraK0vI3SlU5Y5qviCC4RGWvaTmB98P9PVMyjIm3W62oGV+xdc9lIeNH+lr1xmK/weyGy6XDVyRXKAlU8qZ7ZzLIgqTutpl4NJUcMY17HRxNpDfbIy5zLb1JoWMYvqjK21HjUUBCPiRfC2ZdFrUx4vAM2epZStnfbSJcAqKF5P1mwGtY7Z81O3t9rIwaabUGGSBse8Yadre/DBhC5hS3ZU/fJ7bUB5md3mvira/ebTwQrZsqNxQ==;nQga/xB1wIr6fpGHToxQhQ=="
 ---

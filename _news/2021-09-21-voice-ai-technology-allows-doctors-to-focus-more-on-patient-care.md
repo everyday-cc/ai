@@ -9,8 +9,8 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/voice
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/voice-ai-technology-allows-doctors-to-focus-more-on-patient-care/86393459"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: India Times
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "ePlus Launches Turn-Key Technology Bundle to Facilitate Adoption of Artificial Intelligence by Healthcare Organizations"
+    excerpt: "PRNewswire/ -- ePlus inc. (NASDAQ NGS: PLUS – news) today announced that it has launched an artificial intelligence (AI) workflow technology bundle,"
+    publishedDateTime: 2021-09-24T12:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/eplus-launches-turn-key-technology-bundle-to-facilitate-adoption-of--artificial-intelligence-by-healthcare-organizations-301384084.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/1582360/ePlus_Logo.jpg?p=facebook"
+        width: 1500
+        height: 785
+        isCached: true
   - title: "Plant scientists will use artificial intelligence to make crops more resilient"
     excerpt: "With a budget of 50 million euros, the team aims connect specialists in plant sciences, data sciences, artificial intelligence (AI) and breeding companies over the next ten years on a method to ..."
     publishedDateTime: 2021-09-20T19:58:00Z

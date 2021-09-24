@@ -41,6 +41,22 @@ related:
         width: 850
         height: 400
         isCached: true
+  - title: "AWS collaborates with MeitY to support startup growth and innovation in India"
+    excerpt: "As part of this new collaboration, MeitY Startup Hub and AWS will work together to identify startups with deep technology capabilities, and enable and empower them to build impactful solutions to address the biggest problems facing society in India."
+    publishedDateTime: 2021-09-24T12:32:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/aws-collaborates-with-meity-to-support-startup-growth-and-innovation-in-india/articleshow/86482985.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/aws-collaborates-with-meity-to-support-startup-growth-and-innovation-in-india/amp_articleshow/86482985.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/aws-collaborates-with-meity-to-support-startup-growth-and-innovation-in-india/amp_articleshow/86482985.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 56
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-17802,msid-86482988/amazon.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "4JbJcwwluYVkyBLNdMZnqrZw0QpNhPFv4cUQYJwwc0BwOqvVQKbhBfLEYsIuuKzA8M1nMRwk7ncaPfQaCbKATb6TmR3j5k4d8ZENhRgKZ95akTCCJju09baHyrkhlYMPW4wyZ1FaN70quXT4HKhomdV+gy+KUek94vGRAK06wwJtKiN8Fy5/2hNfsLcyFQ7JEVUF9h97o79vVv31HvNtBiVQCcOH0QiznzgSx5E+LsQ70sg5ageC+vSobmAGwiWFPFyB5JZRnA4ImnQvCD9YA1XWv1EaDAq1uEm06GNINNcyzGxY4D8RS0zjU+1JAHIia2CYRMtUZBsJ7qT+oVAZLZFj+PGBrWsUtakUcHU6pP8=;TR94iRXLYFBDsdLlAzq50w=="
 ---

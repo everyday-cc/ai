@@ -35,6 +35,17 @@ related:
         width: 635
         height: 400
         isCached: true
+  - title: "4 Stocks to Watch as Demand for Surgical Robots Ready to Rise"
+    excerpt: "Surgeons are able to achieve more precision than is otherwise possible with human hands and can conveniently control the robots for enhanced movement, allowing them to perform more complicated surgeries."
+    publishedDateTime: 2021-09-24T12:20:00Z
+    webUrl: "https://www.nasdaq.com/articles/4-stocks-to-watch-as-demand-for-surgical-robots-ready-to-rise-2021-09-24"
+    ampWebUrl: "https://www.nasdaq.com/articles/4-stocks-to-watch-as-demand-for-surgical-robots-ready-to-rise-2021-09-24?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-stocks-to-watch-as-demand-for-surgical-robots-ready-to-rise-2021-09-24?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
 
 secured: "H4lXOL1cxCD61Emx7S6YCNekIQyl1UcqXxvKd3WLSnKNjQ6FF35yzYqAOJR+TgO7W+kl5m5T4etCUEzdBxHfGtVrjw01zgQed5kaeC6AUHy0eBgJv+3tzzrxN7k2kDKCQHy4IDwewr1iEop05DTEujWiTeDO5S3Tl8tJQJxqN+1nukxi0wbNghuuRMaZ4j4xy3HBBngNlcgJblHvgtGvcE5JHiUJiu+S4X2trOAXI+zzkawdnn5yFBa5KHfgWqD68HZXY8iWgfLAlLiIcSBaIrzQIYuzpq/N9Gjzzf+c4Jdb0quO20IQZf+sLUbFNLeivdRW/3uRceUxTrS+I2aGsGQBfkAaVeL+7945W2i6P20=;709kZ9dhjSqSeMQwMX78TA=="
 ---

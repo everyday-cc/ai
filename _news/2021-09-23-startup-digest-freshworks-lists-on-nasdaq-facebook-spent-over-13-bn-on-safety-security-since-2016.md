@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/startup/startup-digest-freshworks-lists-on-
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/startup/startup-digest-freshworks-lists-on-nasdaq-facebook-spent-over-13-bn-on-safety-security-since-2016-10843612.htm/amp"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 1019
     height: 573
     isCached: true
-
-related:
-  - title: "Invested over $13 bn in teams, tech since 2016 to prioritise user safety and security: Facebook"
-    excerpt: "The social media giant noted that its 'advanced AI' has helped block three billion fake accounts in the first half of this year."
-    publishedDateTime: 2021-09-22T14:54:00Z
-    webUrl: "https://www.cnbctv18.com/technology/invested-over-13-bn-in-teams-tech-since-2016-to-prioritise-user-safety-and-security-facebook-10841402.htm"
-    ampWebUrl: "https://www.cnbctv18.com/technology/invested-over-13-bn-in-teams-tech-since-2016-to-prioritise-user-safety-and-security-facebook-10841402.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/invested-over-13-bn-in-teams-tech-since-2016-to-prioritise-user-safety-and-security-facebook-10841402.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 49
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2019/07/2019-07-22T181739Z_1_LYNXNPEF6L1JX_RTROPTP_4_FACEBOOK-PRIVACY-EU-1019x573.jpg"
-        width: 1019
-        height: 573
-        isCached: true
 
 secured: "0ZF6klh3W/ReDpsazoeoy9WX3L1e8lmcjKDhnnwJaDKNepZYypr9yxTahkyw5hjE3G5HWo8//V/buDRc9I4K9xF2lOgdtHdTvLkENIv8EJTln9en5KRpTtmTvLBgf3bBI63UmeUNJPwC8sBWOrkhZsYTXhdXYN8GE2HGWpsa6Cg233jo4GWqhVoKvhmJ3RDfCWNhICUxANsx4JuLuvHe8SAAAKa02qoOYSMssZ3lcOQQcaMUlfRNxKHcKYUNOodB7qFp1CK7vjfadfwNX2gdbtz6j+h2shDgfjbYrllbIxUqZ5sUO6yHj+V/BiP7a2BLXYRdc+lF0YXqe18GL+3ruWE7R9w30a4OpVhXFt5YWwZrr+OmjRfY3v2sP/iMIUYrZMv92+uBz83ZnSE//GhlBlwsByI/HJaOUY2t2Z4ErJZviZhmfiYaxX0V3H22Kd2F65RadIA3exW/4c9K1JoAW7mnzsSJ5rkhruW/IOdIDiK4t3mNaH/GF/X3a5gOItB/m/ehfEj9DcN+0gSy2sNpoA==;uOspnJ8rHLFwE0PvbYjdgA=="
 ---

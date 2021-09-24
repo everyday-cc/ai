@@ -47,6 +47,20 @@ related:
         width: 1284
         height: 856
         isCached: true
+  - title: "Android update teases improved accessibility options for handwriting, facial recognition"
+    excerpt: "Google is launching 13 new Android features this autumn, including new accessibility features, improvements to Waze, and alerts to remind you to look up from the phone screen while walking. The tech giant is launching two new accessibility features to help people with motor and speech impairments,"
+    publishedDateTime: 2021-09-24T12:54:00Z
+    webUrl: "https://www.itpro.co.uk/mobile/google-android/361007/android-accessibility-facial-recognition-handwriting-autumn"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 62
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1632486148/Google_android_new_features.png"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Android New Facial Gesture Controls & Handwriting Recognition Features, Check How It Works"
     excerpt: "Google has launched a lot of accessibility features for Android, including Android Facial Gesture navigation and Android Handwriting recognition feature."
     publishedDateTime: 2021-09-24T03:59:00Z

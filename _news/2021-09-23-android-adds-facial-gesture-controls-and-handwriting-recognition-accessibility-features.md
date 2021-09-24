@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/9/23/22689349/android-fac
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Android update teases improved accessibility options for handwriting, facial recognition"
+    excerpt: "Google is launching 13 new Android features this autumn, including new accessibility features, improvements to Waze, and alerts to remind you to look up from the phone screen while walking. The tech giant is launching two new accessibility features to help people with motor and speech impairments,"
+    publishedDateTime: 2021-09-24T12:54:00Z
+    webUrl: "https://www.itpro.co.uk/mobile/google-android/361007/android-accessibility-facial-recognition-handwriting-autumn"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 62
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1632486148/Google_android_new_features.png"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Android New Facial Gesture Controls & Handwriting Recognition Features, Check How It Works"
     excerpt: "Google has launched a lot of accessibility features for Android, including Android Facial Gesture navigation and Android Handwriting recognition feature."
     publishedDateTime: 2021-09-24T03:59:00Z
@@ -65,6 +79,6 @@ related:
         height: 438
         isCached: true
 
-secured: "yvHxshaPgtTgokIENZDeFRVNsfkp42GOpbaCGSsNiuK58DBVRjZ2FSigaG/+DGJCdpJcZZQzF6GDQvLkMu62CkGy/jzGD45oavN+zTiBTmSBdnAw54nE3tYdVQRrVqtFxcqgqaFxxII3IWTCFVVUeoELnVahlWR7cWBLdl44FCQNNFNL03ZAkVUxYvxs9030kCwa+OTKbnNNdcspIRHonnfeKBMSDtBoSGu4LVSFCSwHrk9FgAgznmizRVLsLh4tKkNdtUjQUzPhuWYk7UYeh8vNIp/bW8Dv8lfJAUA4/43OUdCMEY36wjx56alrRrj5eNVtx1dXnexXmyIG0skPfA3kCI0RxE3ZtjlCi6g92lE=;WEPeOw4REXrrPDSpbKnMeA=="
+secured: "cMFMvaoBJidRfuJOngtesHPGQ+N78lP094nTvcREZcS8CTVPHwwKzj1Xw5pCfacwts+P1cW9S9Yqic6lBKFLyhxTsBrAie8RL1wBkgKvi1qPNeBSH/BkkWW5lIeKIDKOWBPARL0ECCMGGDpoO4VyzNAla3LCdL2U3A0pyNljeNgs/hh6QH6uvKpOym+uxSqyqI8TSvd0yFpCV0mWz5hXpX3uN6wAzKA3i828clN08CGsCeKhVVlqeO2dwvCEJlMR9QT9gsz89HZUaQbPY36OH8E3uNv1IX/xwURJGkybaQtOJhN8rZdVEJDwfOTL9x/a4M7bC452IuaG8oJYqg7z3parcngQpDzQG/Tahs4t+J+vSA7Wy1cgs+i0pyv96wmFj3dE/KbjqE0AfyPp4ALAzmBSfIL0cUkzrPsbk42GXd4JAyYJ9fQQwkKFRmif/YdLAHLnjt5uifrjdjPn90sWkTs0Ry1l07td8/46GDwPBQoHRAdwu2U1IgzTPlFd6yVnvgmbsc+1lfuuEkbdYX2+ZQ==;Po8Nl8h+ntL4Ac0wpTeaNQ=="
 ---
 

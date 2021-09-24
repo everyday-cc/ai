@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Hashtag Trending September 21- iOS 15; Facebook pushes back on WSJ allegations; AI and real estate"
-    excerpt: "Shecter Apple rolls out its brand new iOS 15, Facebook disputes Wall Street Journal allegations of toxicity, and AI is changing the real estate game. It’s all the tech news that’s trending right now,"
-    publishedDateTime: 2021-09-21T09:00:00Z
-    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/458698"
-    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/458698?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/458698?amp=1"
+  - title: "Amazon's September Echo event: What we expect from Ring and Alexa"
+    excerpt: "Amazon is holding its annual event Sept. 28, and promises news about devices, services and more. Here's what we're hoping to see."
+    publishedDateTime: 2021-09-24T11:00:15Z
+    webUrl: "https://www.aboutamazon.com/news/devices/amazon-devices-services-news-september-2021"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 45
+      name: aboutamazon.com/news/devices/amazon-devices-services-news-september-2021
+      domain: aboutamazon.com/news/devices/amazon-devices-services-news-september-2021
+    quality: 122
     images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png"
-        width: 1500
-        height: 1500
+      - url: "https://assets.aboutamazon.com/dims4/default/b073721/2147483647/strip/true/crop/2357x1179+74+690/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fab%2F7d%2F7387c5c34035af9dafce465fe433%2Famazon-org-smile-extruded-sq.jpg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "GzWJ4A/iq5rjelYWCJ2B0u/2uLSJOyEXCSAMi5xrtQEEN3TPOSJRzWNEDZNFy9tFh4x5FLiU8hHMxE0RZi4jX7llvL+JkHb/UMH7/11GMGjA5qm2jJ6GHV2sXogcODxPyVfyD7m0Rzz+kpg/K9ap1OusNPrudoYD8W2ah+aH8+l0kYE8nMuX/zpdz4PeFQ6A6giULSy33JUsdVqOBrlIVFMCbXvwGcFDOSyWH2Zek7jhWXkQibRUt/8y3kTvvu7m7xKLAyoLUF5YCCeXouG3A5Pti9tTVh7wRKVKrNHqdmgIZAx3kjseBos4YLnf3TpZXO9cXRjEYUCZWfderP/spi8uQpFd7TP2YN3gD3gn6Lc=;cOkuOtQN8s5W8uFG8djfOw=="

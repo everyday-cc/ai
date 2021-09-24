@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving tech returns to California racetrack"
-    excerpt: "Joshua Schachter hopes the same will someday be said for self-driving technology. Schachter is the founder of Self Racing Cars, an annual event that allows participants to test their self-driving chops at racing speeds."
-    publishedDateTime: 2021-09-23T14:33:00Z
-    webUrl: "https://www.autonews.com/mobility-report-newsletter/self-driving-tech-returns-california-racetrack"
+  - title: "Royal Air Force begins trial for self-driving military vehicles"
+    excerpt: "The Royal Air Force (RAF) of England has started a new trial deploying autonomous vehicles on an airbase as part of the RAF’s Astra campaign. The goal is to deliver the next generation of vehicles that will be used by the RAF in the future."
+    publishedDateTime: 2021-09-24T12:35:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17235/royal-air-force-begins-trial-for-self-driving-military-vehicles"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/aurora-fedex.jpg"
-        width: 792
-        height: 488
+      - url: "https://electronics360.globalspec.com/images/assets/235/17235/Kar-go_on_Airfield_With_AD_Dakota_Model.jpg"
+        width: 752
+        height: 380
         isCached: true
 
 secured: "oZwKdG4AspNHrsTDvLaOWWcPtnV2JPzaJmiaEBVe2BMe9N6PDQ8i5uk+CHKwQtLOyIKR++183JdT2mF6rOYVcZ61ip8DYUS15H2q8l+GR2Eo3c2pux/BhrulzGQ/uXbHq6K+vww7i/6ybrcZHZH1IhKbQ/RwbV7yAAdmIfCFtg/rtyYOOh58Lj5pAqt8+0ZwYXY1VdGA+aCfaXLQAO/gAICoWW2Hr9vsp3ZWt73bTEt5CfHqX7c0ZaMyF6vAV1fkhN94EaNiUm72WSK8HmMjcaPe7WGdxnITlar0yKqyJ4aZlsfcYTFLMb7bksaH8kdN01Mq8C/vbW61j5s6s2/toPQaSa0uz8oV3apTT71QoLL5eNgB1smEn8nq4X5QQVMay3jOW65q1vhyFKwattLfwfeHZmeY8/UmsmRSVSVJLPdK8peNUUEeBukWMvY6GOE7gF4zrjbeLCQgnVdJf5o/u7bnarThQ+hSL4mEK1fsvT1NHf/wte6Goa3U8EA6gYpriGC3gH6os5w8+dl9EFIlLg==;8d4aUsTVq3PFYzA7O8oDUA=="

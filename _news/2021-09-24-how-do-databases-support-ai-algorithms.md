@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algor
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/amp/"
 type: article
 quality: 95
-heat: 107
+heat: 108
 published: true
 
 provider:
