@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-09-deep-cancer-diagnostic-tools.
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-deep-cancer-diagnostic-tools.amp"
 type: article
 quality: 59
-heat: 79
+heat: 81
 published: true
 
 provider:

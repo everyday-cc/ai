@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Mitsubishi Heavy Industries Engineering Partners in New Concession of Dubai Metro and Dubai Tram in Joint Venture with Keolis and Mitsubishi Corp."
-excerpt: "(MHIENG, the Company), a Group company of Mitsubishi Heavy Industries, Ltd. (MHI) based in Yokohama, Japan, has successfully begun operations of Dubai Metro, a fully automated driverless rail system1),"
-publishedDateTime: 2021-09-22T10:11:00Z
-originalUrl: "https://www.jcnnewswire.com/english/pressrelease/69775/2/Mitsubishi-Heavy-Industries-Engineering-Partners-in-New-Concession-of-Dubai-Metro-and-Dubai-Tram-in-"
-webUrl: "https://www.jcnnewswire.com/english/pressrelease/69775/2/Mitsubishi-Heavy-Industries-Engineering-Partners-in-New-Concession-of-Dubai-Metro-and-Dubai-Tram-in-"
+excerpt: "Billed as the longest driverless metro project worldwide ... diverse technology solutions that incorporate digital and artificial intelligence advancements in the transportation field."
+publishedDateTime: 2021-09-22T13:02:00Z
+originalUrl: "https://www.asiaone.com/business/mitsubishi-heavy-industries-engineering-partners-new-concession-dubai-metro-and-dubai-tram"
+webUrl: "https://www.asiaone.com/business/mitsubishi-heavy-industries-engineering-partners-new-concession-dubai-metro-and-dubai-tram"
+ampWebUrl: "https://www.asiaone.com/business/mitsubishi-heavy-industries-engineering-partners-new-concession-dubai-metro-and-dubai-tram?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/mitsubishi-heavy-industries-engineering-partners-new-concession-dubai-metro-and-dubai-tram?amp"
 type: article
-quality: 1
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: jcnnewswire.com
-  domain: jcnnewswire.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "http://www.jcnnewswire.com/topimg/Low_DubaiMetroMHI.jpg"
-    width: 650
-    height: 365
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Sep2021/asiaone_default.jpg?itok=emraNYfZ"
+    width: 763
+    height: 509
     isCached: true
 
 related:
@@ -37,6 +39,6 @@ related:
       domain: meconstructionnews.com
     quality: 32
 
-secured: "WyUSiCVgvkOXkRniWEEFUwMNfQg7RVNws4XNLWQKavTlYU1/dzROWXfx98tG6XwNsJps91fT+D0/b+2FYdEEFZWIqkffGXoXaXCR7j5KVOGYLRIjiqu4drpdK6KMF0Jrpt7c+z09vwsjPpMiJDWMFMg5DxWPCr0pKWyDTMuuTMTun6feqTnE1UjDgVp0UhGDMrxEquiVFt+WIy/jd5SvsXvH28v6ZXUOZdiX9cX5dATVtIH1GdaFSLuY/W/LRtm8zQbFH9hrlg5fPSjMz4CCjKShnUJfMSlLlWnzuLLAXS1fQqkNt4asBMXR/WQz4/BB4+gHSBBHqvOlZrrxc66iCCKak5zCGGN8kkuBcA/u+u8=;PtHWZioAr6ba0TkefGYQsQ=="
+secured: "rmr/L31dQ8ARTywKhSWPbsGWXOXKku4D1iakPOifpR33gjw/LnkNT1VmJVoS4ExYnPT81epoYwB1SU4m0ChuBMGpBg7UVe/UwHqrs3snWDlU6blP44fS2oSKMHUAJEyPqrNtT8JN75z9CFSBrelnDv/jR7Xg64uS8w95YpfO2Z0IRv8A6pwbLooc0YYRZLQbtU4MtFfz5dvpzQZk652riKVifE+Nk0Fibph6OSncfHqRLQT2cXKRDhK5FytoIyYelePVzsvh0yQZfZ6MJepRMXna2hzvSs95bq3x/pBYXFGrjI5yADiJn5h18NwTyJlWbzq4vDbzbJPO4tRHY1A4JwP7iCOLO2fCZ4ix+waoRIc=;9HjEbs5CcPeOSlSSOKIMRA=="
 ---
 

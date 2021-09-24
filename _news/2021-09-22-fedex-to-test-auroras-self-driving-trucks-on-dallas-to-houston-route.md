@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/22/fedex-to-test-auroras-self-driving
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/fedex-to-test-auroras-self-driving-trucks-on-dallas-to-houston-route/amp/"
 type: article
 quality: 74
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -103,6 +103,22 @@ related:
       - url: "https://patch.com/img/cdn20/article-assets/daily-digest/Dallas+Daily+Graphic+Template+-+Green.png?width=984"
         width: 960
         height: 720
+        isCached: true
+  - title: "Self-Driving Trucks Ready to Make FedEx Deliveries in Texas"
+    excerpt: "A self-driving tech company, a truck manufacturer and FedEx have teamed up to test autonomous vehicle deliveries between Dallas and Houston in Texas. The tests will have human safety drivers."
+    publishedDateTime: 2021-09-23T22:06:00Z
+    webUrl: "https://www.govtech.com/fs/self-driving-trucks-ready-to-make-fedex-deliveries-in-texas"
+    ampWebUrl: "https://www.govtech.com/fs/self-driving-trucks-ready-to-make-fedex-deliveries-in-texas?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/self-driving-trucks-ready-to-make-fedex-deliveries-in-texas?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/09430de/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F1a%2F8e%2Fbaf41ca2408f99ae7713893de070%2Fshutterstock-1589494129.jpg"
+        width: 840
+        height: 438
         isCached: true
   - title: "Trucks Want Self-Driving Tech, Too. Paccar and FedEx’s New Partnership Shows Why."
     excerpt: "Self-driving trucks are hitting U.S. roads as Paccar and FedEx launch a pilot program with autonomous driving technology company Aurora."

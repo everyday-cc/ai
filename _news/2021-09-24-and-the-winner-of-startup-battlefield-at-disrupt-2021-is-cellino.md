@@ -60,7 +60,21 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Startup Battlefield Finals at Disrupt 2021 – Cellino"
+    excerpt: "Cellino is on a mission to make personalized, autologous cell therapies accessible for patients. Stem cell-derived regenerative medicines will cure some of the toughest diseases within this decade, including Parkinson’s,"
+    publishedDateTime: 2021-09-23T19:33:00Z
+    webUrl: "https://techcrunch.com/video/startup-battlefield-finals-at-disrupt-2021-cellino/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 52
+    images:
+      - url: "https://img.vidible.tv/prod/2021-09/23/614cd3a175544444803475dd/614cd40371876b7f3ca40f82_o_U_v1.jpg?w=640&h=360"
+        width: 640
+        height: 360
+        isCached: true
 
-secured: "XuyB62PicU4InQEe4Yrm9eyVgwnPnXIaKrXfzjWNZzXVuS4o1Md0jseM+GxLQcim1W1Ktuy9OO7EmAxHNXGFEqdRtf2MmczAxNPaDF8Df5A34VTpxjmnq4pEhe6XIiQRv0JQb1s2/CXFxh4SzY3Fc3MMj9KoIzob6b7gCX9yS798rR2hZn+t+JDbnMRis954Y8vqVFr0B0fhQoPDPLqYonLwVP8/dUFm1Gq9eUjjUlBoHU4WHc2VP7mMiXA26vJ2A9du5NuxZ82qmvqogIFlhGtTmhw8ki1HGXiHvHQkLJRYcCmtanB5yAY03oTeIEF8nnhJcBl9CR89kMbRGnnKyj/0QmSw7NbTJFHi9DvtrmQ=;CwISzzDlUBBn/Ttyf7FNpA=="
+secured: "6i8wxkf4xI6T3hs51cJTmuxDg5VSKXmAHni0GbuoWy+k3qImym7zHPlHrP0gsiDwK6sW7jXdwFhXY9qI539Fjn4rQoFcC6QCWrYhYreKITCqK8tH5TUYmj+BoI0ADNGf+hT1lppm68gbh4kteAN0acPK/E2EliuD3HkwnPvyffRWzeVCeQwy0R9kQKz4JKhGe3PpK5DgOu+Y7GIYskA+CRzhKPIhA497PXvh2SBGZ4+YmJ5PpxCH3TZE+AKUWe07iCaOYeWpuhwiQ6JUj4BMN2SSbr6+BIt4MKXikGjlrCmBJkLgYFoIRT9uaLnQa+P+6T/XVjXv0GBWfueiYc0SLysNRdvpvPbU/gCD91sWpv2FITYOvRbPaas8tOM3zbBpbExdYBrFUL8bPkSqKZ4Ibg2kjx5OUQKJfiRX1mgDC93r/VLtz7zrqRdZrjVS8gr/WT/qXHeEoPHveb2r+V+f+/crKxH9dq01WJuaChRRjeJpo+tsi0j8c8YRfARvJWLwze22dkbZKA56N29ONeOrRA==;1JbdxY0Sla8fpCBX0J5WSg=="
 ---
 

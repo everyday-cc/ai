@@ -2,6 +2,135 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-09-14-on-hindi-divas-garuda-prakashan-announces-publishing-partnership-with-iit-bombay-project-for-indian-language-translation-of-engineering-books.md",
+      "title": "On Hindi Divas, Garuda Prakashan announces publishing partnership with IIT-Bombay project for Indian language translation of engineering books",
+      "excerpt": "Mumbai: Joining forces with the premier Indian Institute of Technology (IIT) Bombay for an Indian-language end-to-end translation ecosystem, Garuda Prakashan is playing an important role of a publishing partner for Project Udaan.",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/on-hindi-divas-garuda-prakashan-announces-publishing-partnership-with-iit-bombay-project-for-indian-language-translation-of-engineering-books/",
+      "originalUrl": "https://indiaeducationdiary.in/on-hindi-divas-garuda-prakashan-announces-publishing-partnership-with-iit-bombay-project-for-indian-language-translation-of-engineering-books/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/on-hindi-divas-garuda-prakashan-announces-publishing-partnership-with-iit-bombay-project-for-indian-language-translation-of-engineering-books/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/on-hindi-divas-garuda-prakashan-announces-publishing-partnership-with-iit-bombay-project-for-indian-language-translation-of-engineering-books/",
+      "publishedDateTime": "2021-09-13T18:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-watch-google-deepminds-alphago-documentary-for-free.md",
+      "title": "Watch Google Deepmind's AlphaGo Documentary for Free",
+      "excerpt": "In 2016, DeepMind, Google's subsidiary focused on artificial intelligence research, made history when AlphaGo, an AI system became one of the world's best Go players. Over the course seven days, in a best-of-five-game competition, AlphaGo bested high ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/watch-google-deepminds-alphago-documentary-free",
+      "originalUrl": "https://www.designnews.com/electronics-test/watch-google-deepminds-alphago-documentary-free",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/AlphaGoDocumentary.jpg",
+          "width": 1278,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-boba-tea-startup-bobacino-looks-to-incorporate-facial-recognition-payment-system.md",
+      "title": "Boba Tea Startup Bobacino Looks To Incorporate Facial Recognition Payment System",
+      "excerpt": "The demand for low-touch concepts and solutions that align restaurant trends caused by the pandemic has led to much interest in Bobacino's business model.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foodbeast.com/news/bobacino-popid-facial-recognition-payment/",
+      "originalUrl": "https://www.foodbeast.com/news/bobacino-popid-facial-recognition-payment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.foodbeast.com/wp-content/uploads/2021/09/bobacino-popID.jpeg",
+          "width": 800,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Foodbeast",
+        "domain": "foodbeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-discovery-sports-events-goes-all-in-on-aws-to-engage-and-grow-global-fan-base-for-track-cycling.md",
       "title": "DISCOVERY SPORTS EVENTS GOES ALL-IN ON AWS TO ENGAGE AND GROW GLOBAL FAN BASE FOR TRACK CYCLING",
       "excerpt": "Discovery Sports Events and AWS to build an immersive fan-engagement offering for the new Union Cycliste Internationale (UCI) Track Champions League series that kicks off in November 2021 AWS becomes UCI Track Champions League exclusive Cloud Infrastructure Partner as part of new Discovery Sports Events collaboration SEATTLE – September 15,",
@@ -946,126 +1075,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-13-israeli-firm-unveils-armed-robot-to-patrol-volatile-borders.md",
-      "title": "Israeli Firm Unveils Armed Robot to Patrol Volatile Borders",
-      "excerpt": "An Israeli defense contractor on Monday unveiled a remote-controlled armed robot it says can patrol battle zones, track infiltrators and open fire. The unmanned vehicle is the latest addition to the world of drone technology,",
-      "sourceUrl": null,
-      "webUrl": "https://english.aawsat.com/home/article/3186611/israeli-firm-unveils-armed-robot-patrol-volatile-borders",
-      "originalUrl": "https://english.aawsat.com/home/article/3186611/israeli-firm-unveils-armed-robot-patrol-volatile-borders",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.aawsat.com/sites/default/files/styles/large/public/2021/09/13/deputy_head_of_israel_aerospace_industries_autonomous_systems_division_rani_avni_speaks_during_an_interview_with_the_associated_press_in_an_iai_facility_near_the_central_israeli_city_of_lod_thursday_sept._9_2021._ap.jpg?itok=wjTEX_gd",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.aawsat.com/home/article/3186611/israeli-firm-unveils-armed-robot-patrol-volatile-borders?amp",
-      "cdnAmpWebUrl": "https://english-aawsat-com.cdn.ampproject.org/c/s/english.aawsat.com/home/article/3186611/israeli-firm-unveils-armed-robot-patrol-volatile-borders?amp",
-      "publishedDateTime": "2021-09-13T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "الشرق الأوسط",
-        "domain": "aawsat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-13-self-driving-cars-heres-what-the-autonomous-driving-levels-mean.md",
-      "title": "Self-driving cars: Here’s what the autonomous driving levels mean",
-      "excerpt": "Driving will be a thing of the past, and if the tech industry is to be believed so will traffic and road accidents. All because the autonomous car’s computer brain is more connected and aware than any human driver could be.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/reference/self-driving-cars-heres-what-the-autonomous-driving-levels-mean",
-      "originalUrl": "https://www.tomsguide.com/reference/self-driving-cars-heres-what-the-autonomous-driving-levels-mean",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/qCqAueTrozgVBXDQ6AYvA-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tomsguide.com/amp/reference/self-driving-cars-heres-what-the-autonomous-driving-levels-mean",
-      "cdnAmpWebUrl": "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/reference/self-driving-cars-heres-what-the-autonomous-driving-levels-mean",
-      "publishedDateTime": "2021-09-13T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-13-impact-of-driverless-vehicles-on-society.md",
-      "title": "Impact of Driverless Vehicles on Society",
-      "excerpt": "Introduction The research question I chose was “Could Driverless Vehicles Pose A Negative Impact on Today’s Society?” I chose this research question",
-      "sourceUrl": null,
-      "webUrl": "https://studymoose.com/impact-of-driverless-vehicles-on-society-essay",
-      "originalUrl": "https://studymoose.com/impact-of-driverless-vehicles-on-society-essay",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T00:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Truth",
-        "domain": "studymoose.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/22/cellino-is-using-ai-and-machine-le
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/cellino-is-using-ai-and-machine-learning-to-scale-production-of-stem-cell-therapies/amp/"
 type: article
 quality: 98
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
     quality: 52
     images:
       - url: "https://img.vidible.tv/prod/2021-09/22/614b749f8d2a440b0ac212af/614b7501070517339990c699_o_U_v1.jpg?w=640&h=360"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Startup Battlefield Finals at Disrupt 2021 – Cellino"
+    excerpt: "Cellino is on a mission to make personalized, autologous cell therapies accessible for patients. Stem cell-derived regenerative medicines will cure some of the toughest diseases within this decade, including Parkinson’s,"
+    publishedDateTime: 2021-09-23T19:33:00Z
+    webUrl: "https://techcrunch.com/video/startup-battlefield-finals-at-disrupt-2021-cellino/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 52
+    images:
+      - url: "https://img.vidible.tv/prod/2021-09/23/614cd3a175544444803475dd/614cd40371876b7f3ca40f82_o_U_v1.jpg?w=640&h=360"
         width: 640
         height: 360
         isCached: true

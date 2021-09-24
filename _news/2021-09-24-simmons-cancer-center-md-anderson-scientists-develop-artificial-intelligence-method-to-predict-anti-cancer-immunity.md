@@ -2,25 +2,25 @@
 category: news
 title: "Simmons Cancer Center, MD Anderson scientists develop artificial intelligence method to predict anti-cancer immunity"
 excerpt: "Researchers and data scientists at UT Southwestern Medical Center and MD Anderson Cancer Center have developed an artificial intelligence technique that can identify which cell surface peptides produced by cancer cells called neoantigens are recognized by the immune system."
-publishedDateTime: 2021-09-23T20:49:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/929440"
-webUrl: "https://www.eurekalert.org/news-releases/929440"
+publishedDateTime: 2021-09-23T18:43:00Z
+originalUrl: "https://www.utsouthwestern.edu/newsroom/articles/year-2021/artificial-intelligence-method-to-predict-anti-cancer-immunity.html"
+webUrl: "https://www.utsouthwestern.edu/newsroom/articles/year-2021/artificial-intelligence-method-to-predict-anti-cancer-immunity.html"
 type: article
 quality: 14
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: UT Southwestern Medical Center
+  domain: utsouthwestern.edu
 
 topics:
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/98bb95cd-2ec3-409d-9bfd-88f931040973/Rendition/thumbnail/Content/Public"
-    width: 300
-    height: 300
+  - url: "https://www.utsouthwestern.edu/asset/5a92e8f1-526c-4809-95b0-82053a031fcd/wang-neoantigen-thumb.jpg"
+    width: 1000
+    height: 1000
     isCached: true
 
 related:
@@ -66,6 +66,6 @@ related:
       domain: eurekalert.org
     quality: 4
 
-secured: "vx6xm40wrNicpdtQOtrPvuMqkDWjHsFoyanr0ESHDztN2SM3RWUH0y9Mg6h4m+8sggNJ4g33ToizdBPrbE31UPIW45CDi3w9OBJXSs+GExQvcjZV9tandT3EDWOdHDr5jZHiQ13Y6j6rwd68P1ZAkCQ6xFEiPKslzXec/u9AbeYVs953HnKGdcmgPpsXDvoq7aU7klEpKD+hAMcz+EBDMQYdYbS3DM6xAI//+PcAmsD1lMN7DufvHkqU4UlORIOdQPe66WaU1AD0cXZwlaxxz2+FTvnBv6Hw7Xcc9aZ7690PTzSDYK0boyc1benHv4o9bjkT2no2nb2gL/HU4zdCkcrUyhdQHZIrPzhz3RZHbHw=;SelxaAE3GbW7cPMnKkqTrg=="
+secured: "oiMt7Xz/mA+KmwVo+LNsm5Dq53oDfO7e3FaIJVVCUamJYywDx4l889KD/MFSiYhhVw3DexgPszbedettj3iV4AX9eg5ffC8ev7AkYqm5ldyEI7RXsqnsAouJo3z2ZuU4a/+cGlzs1UwKzBqoDZEWpheNc/s3MQcXvADyWlpxJ+fKbhmcFDfFGSqZSoCK2bnLOa0IZPdyr934GtgI1K3ZQ7sOfNquITfDioENKMHaoBA8Y1mMj3DBucN/WL29tWKvitoKRYc5MrlyfT8OHbymjm8nSrTzUtJQMEZ09CCbIwCWkmSJurI0hWPHzn70PzJ0hy/934nG1GFGUsbKW4PlIll6juuUB1rOFBPw3gvED80=;YMnrcczfHujDvit1JVVK3Q=="
 ---
 

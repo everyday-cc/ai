@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-09-23/sinovation-vent
 webUrl: "https://www.bloomberg.com/news/articles/2021-09-23/sinovation-ventures-head-kai-fu-lee-on-ai-big-tech-and-china"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Bloomberg
@@ -27,22 +27,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Spotting and rooting out bias in AI algorithms for healthcare"
-    excerpt: "Algorithms are everywhere and so are the biases behind them. As algorithms find greater use in healthcare, a panel at MedCity News’ INVEST Digital Health virtual conference addressed how and why algorithms are biased,"
-    publishedDateTime: 2021-09-22T23:04:00Z
-    webUrl: "https://medcitynews.com/2021/09/spotting-and-rooting-out-bias-in-ai-algorithms-for-healthcare/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 54
-    images:
-      - url: "https://medcitynews.com/uploads/2017/02/GettyImages-172595086.jpg"
-        width: 683
-        height: 512
-        isCached: true
-
-secured: "1P1eu0GEfOSZwzGqMpe+5qOHL20BKpvIjswERr1HXmEp6irUy+CaB6dt7pgCurFTIgxq3hDuiVr9ApvwCZt2nDSPpUajFxeIU56iVStkiWCLiju4j81mk8T9Cf9W8BNq9paYYbPW3n/vlW2KqD0YW/HeiWaV7Kc3yw7NfGJ77fKHY4/G4WLv3kL4KdrpQyIGEm5h+fZtlIgVArUmOOSKt/OJGZtzgS3bDslXf3d80zWspoxTqOPYFaoqjFe9KAkDX2NDYEziitPpK9aN1DsVoWyA5N4htohy6AZz5pJczqSGfGwUqxDcwB6we0q++d/8CFGFm9ciz5lhClSbGzLv9nFJDXJ8Gl5k5csXjdprjR4=;Sy/Y7QlK5wNodB5LBfovIA=="
+secured: "gpETWRSlBJQiwxVY/Z4KWfcNX8mTY7uZ+K/1R3xdq+IQJsSn/Rzz8Y59Gcpn8lEJuYYwvaH1HqFSHsVu2eh6OHqdF9F8/n3f395QLs45if1e69diJNcf7jHzH0+hn2MJdd5ZRl1guxm0Eu61v9pSgsRM0oZZnNME+nOea1Q2HJxa4/bo0EGrltehTrHoLHEGXUQe3F2VsLQmMgL17q7DLcrp6WmbmHb/GI3qRDrPM5IRFu6vowwaU39TOm/xl2a7pjzFQyaYGdh1a/g2w04njbB+Cg5+FBVrHf1SZx5P8iXMMGm2drSjBsb6e/0lUmtGWEUPq8pTYSjUtuHmKlb3X83JBrTY4QaoznMWejMlRl2BfEgny4Fd9Kx7topGE0VoRUBBre8fnJEMD7pHjkbNQJpEWTAg8H0kf0NBIO8sX4d63Y+7ivZUpxY/BBWohUOIxMH+6ucVwzcyhFLDFyv5W4RRZ7eUANeQgcA+5R6pbZiAtRXkivQ98ZNj7vAUKOYhpzBNSd9mIibUs/WOuqsQXw==;bms6JNvhDPl69MAamhCGuQ=="
 ---
 

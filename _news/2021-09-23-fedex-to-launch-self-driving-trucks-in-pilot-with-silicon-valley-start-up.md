@@ -114,6 +114,22 @@ related:
         width: 960
         height: 720
         isCached: true
+  - title: "Self-Driving Trucks Ready to Make FedEx Deliveries in Texas"
+    excerpt: "A self-driving tech company, a truck manufacturer and FedEx have teamed up to test autonomous vehicle deliveries between Dallas and Houston in Texas. The tests will have human safety drivers."
+    publishedDateTime: 2021-09-23T22:06:00Z
+    webUrl: "https://www.govtech.com/fs/self-driving-trucks-ready-to-make-fedex-deliveries-in-texas"
+    ampWebUrl: "https://www.govtech.com/fs/self-driving-trucks-ready-to-make-fedex-deliveries-in-texas?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/self-driving-trucks-ready-to-make-fedex-deliveries-in-texas?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/09430de/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F1a%2F8e%2Fbaf41ca2408f99ae7713893de070%2Fshutterstock-1589494129.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Trucks Want Self-Driving Tech, Too. Paccar and FedEx’s New Partnership Shows Why."
     excerpt: "Self-driving trucks are hitting U.S. roads as Paccar and FedEx launch a pilot program with autonomous driving technology company Aurora."
     publishedDateTime: 2021-09-22T16:53:00Z
@@ -221,6 +237,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "OCx2BFNiKPqtoS6hhrtIAkutNisEUX5C2mG3y+I3OSMf89Gtx32wewc9AYJHUIiGDAZLYGnJ3o+72ADKFhm7QYrChiIECEHp+JWaEzWRp9qZelo/ClCoZmdM/SxBoh/ZoWeshn430m+0UGQO1UgDiXr1VF9yfx2JJRaRWJAV09bX0AbMeyg85W7OU3kxjfwWmEQRbWfjqlpZwhcP5rh/NsOZrQPkMqVxLt0ykfk//XrtdPS9TLQFmM13IBC518GbvyDTynv76DuQsBQmk6NdQI6JYW5J6bHv7khMG2b0viIJM4ZoVGCf0oV5UA+P4zSq7vNnQs+RYaKugU1RwHYHdCmjKI2qYRyLKbTAUm8aQwI=;1fGz80bSuC5BwffPowJkhQ=="
+secured: "pv9IVD2JyAd2iVa1ny9ilqTYJdlKXQejA0h5pZphCY2wBGI7eUiVU6Ze9gQtYVV8OgJS2BIE4yvbhbvmOinltJ41kaSZAp/QZhyLvViVKnRIW9Gk/l+bEMzWigD4bebCJm7LKuIBpOdE/ohZYy9LEJKDbSQLADDJFvbhrlgThlNwdrBgd3h1t24Nq4PhsO04MLTK8FHaOVCLB0GX+9PspR+mh0sraiac4jD6IiVeuNAO/XFTLNR40yIfX6sUeMtNc2TG+r+MEG8xWc39TRAyvHdBQacfh05ISR6ORMxSHSkXeJ82E+E8l5yAvXXUx4uPqBj7nR405ao5+ROLynNat8rX6lwgUpsBJufYi8UL2mIhMa60AkFpk4q6vBVIzFoz5kG5fBFmHvF68AxfncJbr8eqdofugSRMXR5g/uLzZMy5wdj5HkZqS3Y5fxnO1lKfJmDd+qMNUeVtkfEK2/pJ9wJ+UD/7KLOgbM7fzmjR0gQQxysSnLkoqwZFQ1BhilPT489boewE/SHaftcJfSAZog==;aX2h7Ii1yQFTPDK+A0/NgQ=="
 ---
 

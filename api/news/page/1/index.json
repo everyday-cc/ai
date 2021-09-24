@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-09-24-a-veteran-of-big-tech-talks-about-ai-and-investing-in-china.md",
-      "title": "A Veteran of Big Tech Talks About AI and Investing in China",
-      "excerpt": "Kai-Fu Lee, a venture capitalist who worked at Apple, Google, and Microsoft, says artificial intelligence creates problems that should be addressed with regulation and new technologies.",
+      "path": "_news/2021-09-24-how-do-databases-support-ai-algorithms.md",
+      "title": "How do databases support AI algorithms?",
+      "excerpt": "Register now! Databases have always been able to do simple, clerical work like finding particular records that match some given criteria — say, all users who are between 20 and 30 years old. Lately database companies have been adding artificial intelligence routines into databases so the users can explore the power of these smarter,",
       "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-09-23/sinovation-ventures-head-kai-fu-lee-on-ai-big-tech-and-china",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-23/sinovation-ventures-head-kai-fu-lee-on-ai-big-tech-and-china",
+      "webUrl": "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/",
+      "originalUrl": "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 101,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iR0aHNhk4W3c/v0/1200x630.jpg",
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/cloud-database-GettyImages-969567772-e1627330470267.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 630,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-23T13:00:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/amp/",
+      "publishedDateTime": "2021-09-23T16:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,7 +49,61 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AWS AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-cluster-time-series-data-for-use-with-amazon-forecast.md",
+      "title": "Cluster time series data for use with Amazon Forecast",
+      "excerpt": "In the era of Big Data, businesses are faced with a deluge of time series data. This data is not just available in high volumes, but is also highly nuanced. Amazon Forecast Deep Learning algorithms such as DeepAR+ and CNN-QR build representations that effectively capture common trends and patterns across",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/cluster-time-series-data-for-use-with-amazon-forecast/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/cluster-time-series-data-for-use-with-amazon-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/23/ML-5283-img2.png",
+          "width": 900,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-23T15:59:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -408,7 +462,7 @@
       "originalUrl": "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 263,
+      "heat": 273,
       "tags": null,
       "images": [
         {
@@ -495,7 +549,7 @@
       "originalUrl": "https://techcrunch.com/2021/09/23/gm-invests-300m-in-chinas-first-self-driving-car-unicorn-momenta/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -694,7 +748,7 @@
       "originalUrl": "https://www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -787,7 +841,7 @@
       "originalUrl": "https://diginomica.com/ai-ethics-growing-towards-ai-maturity-model-organizations-can-use",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -830,7 +884,7 @@
       "originalUrl": "https://medicalxpress.com/news/2021-09-deep-cancer-diagnostic-tools.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1155,58 +1209,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-building-more-equitable-education-systems-with-the-help-of-ai.md",
-      "title": "Building More Equitable Education Systems With The Help Of AI",
-      "excerpt": "AI is already supporting education non-profits in their efforts to provide students with the skills they need for success in college and beyond, and might be the key to enabling lasting change in educational systems worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/09/22/building-more-equitable-education-systems-with-the-help-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/09/22/building-more-equitable-education-systems-with-the-help-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614bbdbab0e0477d030c0d2e%2F0x0.jpg",
-          "width": 1200,
-          "height": 747,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/09/22/building-more-equitable-education-systems-with-the-help-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/22/building-more-equitable-education-systems-with-the-help-of-ai/amp/",
-      "publishedDateTime": "2021-09-22T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],

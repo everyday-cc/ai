@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "A Veteran of Big Tech Talks About AI and Investing in China"
-    excerpt: "Kai-Fu Lee, a venture capitalist who worked at Apple, Google, and Microsoft, says artificial intelligence creates problems that should be addressed with regulation and new technologies."
-    publishedDateTime: 2021-09-23T20:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-09-23/sinovation-ventures-head-kai-fu-lee-on-ai-big-tech-and-china"
+  - title: "How do databases support AI algorithms?"
+    excerpt: "Register now! Databases have always been able to do simple, clerical work like finding particular records that match some given criteria — say, all users who are between 20 and 30 years old. Lately database companies have been adding artificial intelligence routines into databases so the users can explore the power of these smarter,"
+    publishedDateTime: 2021-09-23T23:40:00Z
+    webUrl: "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/"
+    ampWebUrl: "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/amp/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iR0aHNhk4W3c/v0/1200x630.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/cloud-database-GettyImages-969567772-e1627330470267.jpg?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
 
 secured: "j/vQvJpdcm7ZA9vISPQI7Bed1iqKB72xZJFLfh0z9IHm52JwZp3SkUBEvQKjJx6A270iPS/A7qS3UhRtX+FstgtJdKOGw3X0R0hTqWiNyEqS54tGD/Z0121lG12TzX/YybvQ5tZDzt0CWW89L10PTac0LMMcuBYAMIGIMtE+5b2HGFDCABFnuX6KeOxIG/W49PFMxv5xsXZq4dMFL9XxJsHBqJZfALnk5GwNc3oKBX7FODJ9U7fM7rg134SoI8FYpT5mjKmS+jC8rgboZdrfxK3f81an55C28kGW+OMKVP/0K9Cbe8He4+BVUvpmPJ0S5r5s25TMKu+vUJITOSqFLcyzSXyrkaqzFeMkt12vI54=;x/JRsd0fX1XO0Lk0ujTG/g=="

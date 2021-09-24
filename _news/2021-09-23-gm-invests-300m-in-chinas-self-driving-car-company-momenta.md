@@ -1,27 +1,29 @@
 ---
 category: news
-title: "GM invests $300M in China’s self-driving car company Momenta"
+title: "GM invests $300M in China's self-driving car company Momenta"
 excerpt: "General Motors is investing $300 million in China's self-driving car company Momenta. GM said Thursday that the investment will speed up the development of next-generation self-driving technologies in China."
-publishedDateTime: 2021-09-23T15:57:00Z
-originalUrl: "https://apnews.com/article/business-technology-china-3ac51a2f83d29fffa9807a5b74b02070"
-webUrl: "https://apnews.com/article/business-technology-china-3ac51a2f83d29fffa9807a5b74b02070"
+publishedDateTime: 2021-09-23T15:59:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/gm-invests-300m-chinas-driving-car-company-momenta-80190727"
+webUrl: "https://abcnews.go.com/Technology/wireStory/gm-invests-300m-chinas-driving-car-company-momenta-80190727"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/gm-invests-300m-chinas-driving-car-company-momenta-80190727"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/gm-invests-300m-chinas-driving-car-company-momenta-80190727"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/1759e8719a7e4b3196a74cd342b7b4ee/3000.jpeg"
-    width: 2999
-    height: 3000
+  - url: "https://s.abcnews.com/images/Technology/WireAP_1759e8719a7e4b3196a74cd342b7b4ee_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -40,6 +42,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/03/momenta-2021_1.jpg?w=1024"
         width: 1024
         height: 768
+        isCached: true
+  - title: "GM invests $300 million in China's self-driving car company Momenta"
+    excerpt: "The move is part of a plan GM announced three months ago to invest $35 billion in electric vehicle and autonomous vehicle technology from 2020-25."
+    publishedDateTime: 2021-09-23T16:41:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/general-motors/2021/09/23/gm-invests-300-million-chinas-self-driving-car-company-momenta/5828884001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5828884001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5828884001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 44
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/10/PDTN/8e79ca76-4589-479a-a2bf-511d22991dc9-TDNBrd_DETROIT_11-25-2020_TDNXX_1_A010__2020_11_24_IMG_Gmevbarra01_1_1_3F30CMS8_L86734151_IMG_Gmevbarra01_1_1_3F30CMS8.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "GM Invests $300 Million in Chinese Autonomous Driving Startup Momenta"
     excerpt: "U.S. automaker General Motors Co said on Thursday that it would invest $300 million in Chinese autonomous driving startup Momenta to develop self-driving technologies for future models in China. In China,"
@@ -107,6 +125,6 @@ related:
         height: 425
         isCached: true
 
-secured: "FICJJ/YxphOhWEAxZS3ko4X72kOxMHH2U1NhtoM0jzIWFvusnpTvlgytzj8HPoxcy4Q6W4b91krZ6Xbcw+7kfbUs0+fKsoEv59+89q0bo8SlfCqdzQIcpxDK4QFqPRSCrka2C/W+yM/SR7pNDJ2egm7UFkf7WKWtf4hpdbWS0wWdp3LEjb62yiUS+i6GNUIF5PWf9tAwQp3p9xQQtumTXXCZJgnJ9CvLcV0QnhIMdZRG5d+hDgYRQ3NsxtPW+KxO1pZYw+wqgDKwF+gOEN8WrrsmqlLTtyIBci/YegNKTOLoWj1wBgwMYk/XlzjER4Iveqppuij99uJ2zZg1MyieLkX6/wuJrJLKLMcFdxYU5vNsi8ibeKVqeQUyPDwBGzHPmK9w0Dax2Zqy59HJc/+l6jlrkHDn8f7H0VzlnjZgQxXmtkcqrIdfy33Z3SkK6e48d9UKPog2ij45hT4+h5XbQF7CZxS3GGwE3+96Zk3oxW+M3w1HHKCqySoBfN+bRgbWFxrpwB7T2xAF35xZ8pkatQ==;QabwHyE/qVgaVK5d+2bDDA=="
+secured: "O5kU210mGU8W91aiPsq2blRH3cT8JyC7vsTf/6XUS1WRuagZqv4m5K5MW3MDPIwMzjKrNiwTuRqQryPMEdvXoCzZbAfp1mvZtnbB+TxgmTEzNkbfom9uenjhMD2DHYa9LVQMBERGNwWEYQS0qWZgTJ+7NeAzE3zF5D5ydsDmenu4QK1+aqSzfDEBtU0UuH2M+BlNVrCYEo5dXoVMWe9kIJ7+IjsQAM2yJ2tiFXZlWvmbwpxWyntEfVdai7TWvOGZtefNwWp1e7mfDdyqYypZczXpP3hYz2qUvdenIV9bkrqpl4v9HAtOX0md0ijTDrkDVzUjVRtOuHz5CfXpQDA69cqAEmZCQ+p3uUcHEHzZINo=;OLt+Pd5y7GnEnTFwk2HkPg=="
 ---
 

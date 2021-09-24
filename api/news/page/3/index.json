@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-22-new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks.md",
+      "title": "New UT program puts focus on ethical AI, building robots to do ‘helpful tasks’",
+      "excerpt": "How does society approach the ethical use of artificial intelligence and building robots? It’s a question students at the University of Texas at Austin will soon have to take a deeper look into. Called CREATE (Convergent,",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/",
+      "originalUrl": "https://www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2021/09/University-of-Texas-taking-closer-look-at-ethical-AI.png?w=1280",
+          "width": 566,
+          "height": 353,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/amp/",
+      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/amp/",
+      "publishedDateTime": "2021-09-22T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXAN",
+        "domain": "kxan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-ai-in-automotive-transportation-global-market-outlook-2021-2026.md",
       "title": "AI in Automotive & Transportation: Global Market Outlook 2021-2026",
       "excerpt": "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. According to the report,",
@@ -106,7 +151,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/386940",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -158,7 +203,7 @@
       "originalUrl": "https://techcrunch.com/2021/09/21/indian-buy-now-pay-later-startup-zestmoney-raises-50-million-from-australias-zip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -339,7 +384,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/model-and-data-lineage-in-machine-learning-experimentation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -381,6 +426,57 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-report-apples-working-on-a-horrific-iphone-feature-that-uses-ai-to-detect-autism.md",
+      "title": "Report: Apple’s working on a horrific iPhone feature that uses AI to ‘detect’ autism",
+      "excerpt": "Apple's apparently building an AI system that uses data sourced from a user's iPhone to diagnose mental illness and autism. WTF?!?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/apples-working-on-iphone-feature-ai-detect-autism",
+      "originalUrl": "https://thenextweb.com/news/apples-working-on-iphone-feature-ai-detect-autism",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2Frotten-apple.jpg&signature=ba6421ed9203a2d021646e507c9303b6",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -857,6 +953,50 @@
       ]
     },
     {
+      "path": "_news/2021-09-21-making-games-immersive-and-engaging-through-aws-aiml.md",
+      "title": "Making games immersive and engaging through AWS AI/ML",
+      "excerpt": "He also cited the case study of how Sony Interactive Entertainment modernised the PlayStation Playstore, using Amazon SageMaker and Amazon Personalize. In terms of monetisation strategies ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2021/09/making-immersive-engaging-games-through-aws-ai-ml/amp",
+      "originalUrl": "https://yourstory.com/2021/09/making-immersive-engaging-games-through-aws-ai-ml/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Imagek34f-1632226292285.jpg ",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2021/09/making-immersive-engaging-games-through-aws-ai-ml/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/09/making-immersive-engaging-games-through-aws-ai-ml/amp",
+      "publishedDateTime": "2021-09-21T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-21-computer-vision-powered-workplace-safety-systems-could-lead-to-bias-and-other-harms.md",
       "title": "Computer vision-powered workplace safety systems could lead to bias and other harms",
       "excerpt": "AI-powered workplace safety systems that monitor for factory floor and fulfillment center hazards are potentially problematic.",
@@ -1032,151 +1172,6 @@
       "provider": {
         "name": "techxplore.com",
         "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-managing-change-in-ai-dont-forget-about-your-staffs-needs-and-abilities.md",
-      "title": "Managing change in AI: Don't forget about your staff's needs and abilities",
-      "excerpt": "When change affects people in your organization, remember that you have a wealth of talent that needn't go to waste. Consider re-skilling to meet the company's needs as well as the employees'.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/managing-change-in-ai-dont-forget-about-your-staffs-needs-and-abilities/",
-      "originalUrl": "https://www.techrepublic.com/article/managing-change-in-ai-dont-forget-about-your-staffs-needs-and-abilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2018/09/11/13c43ea2-1fda-4648-827a-8ce385fbf584/resize/1200x/528440af7f1cb500f14724568b3e1fa2/istock-burnout.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/managing-change-in-ai-dont-forget-about-your-staffs-needs-and-abilities/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/managing-change-in-ai-dont-forget-about-your-staffs-needs-and-abilities/",
-      "publishedDateTime": "2021-09-21T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-responsible-ai-is-every-businesss-responsibility.md",
-      "title": "Responsible AI Is Every Business’s Responsibility",
-      "excerpt": "Is AI the transformative technology destined to work wonders for humanity, from driverless cars to a cure for cancer? Or is it a genie in a bottle that, once released, could be used to manipulate or even rule humankind?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/21/responsible-ai-is-every-businesss-responsibility/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/21/responsible-ai-is-every-businesss-responsibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f32cd286b894b218218c8dd%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/21/responsible-ai-is-every-businesss-responsibility/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/21/responsible-ai-is-every-businesss-responsibility/amp/",
-      "publishedDateTime": "2021-09-21T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-press-release-deepspatial-inc-files-patent-for-artificial-intelligence-driven-retail-management-software.md",
-      "title": "Press Release: Deepspatial Inc. Files Patent for Artificial Intelligence Driven Retail Management Software",
-      "excerpt": "Deepspatial Inc. (CSE:DSAI) (\"Deepspatial\" or the \"Company\") is pleased to announce that it has filed patent application number 63244524 - Computer Implemented Method and System for Retail Management and Optimization with the United States Patent and Trademark Office (USPTO) for its proprietary methods of retail management with enhanced user experience for dynamic planning and decision making.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sharecast.com/news/market_reports/press-release-deepspatial-inc-files-patent-for-artificial-intelligence-driven-retail-management-software--8108547.html",
-      "originalUrl": "https://www.sharecast.com/news/market_reports/press-release-deepspatial-inc-files-patent-for-artificial-intelligence-driven-retail-management-software--8108547.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.s3wfg.com/web/img/images_uploaded/amp_dl.jpg",
-          "width": 620,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sharecast.com/amp/news/market_reports/press-release-deepspatial-inc-files-patent-for-artificial-intelligence-driven-retail-management-software--8108547.html",
-      "cdnAmpWebUrl": "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/market_reports/press-release-deepspatial-inc-files-patent-for-artificial-intelligence-driven-retail-management-software--8108547.html",
-      "publishedDateTime": "2021-09-21T05:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sharecast",
-        "domain": "sharecast.com",
         "images": null,
         "publishers": null,
         "authors": null

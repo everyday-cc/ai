@@ -22,6 +22,22 @@ topics:
   - AI
   - Facebook AI
 
+related:
+  - title: "CMS Ventures invests £500K in game changing Cambridge-based AI startup Qureight"
+    excerpt: "The imaging analytics company Qureight has secured £500K in seed funding from CMS Ventures, a move which will enable the startup to launch the second iteration of its ground-breaking platform. The rapidly growing market for clinical imaging analytics is set to be worth $4."
+    publishedDateTime: 2021-09-23T23:00:00Z
+    webUrl: "https://cambridgenetwork.co.uk/news/cms-ventures-invests-£500k-game-changing-cambridge-based-ai-startup-qureight"
+    type: article
+    provider:
+      name: Cambridge Network
+      domain: cambridgenetwork.co.uk
+    quality: 33
+    images:
+      - url: "https://cambridgenetwork.co.uk/sites/default/files/styles/large/public/Blog%20Advert%20%28News%29.png?itok=XJens5pZ"
+        width: 300
+        height: 250
+        isCached: true
+
 secured: "qcPMX8FOsuvbydypZIjZQJUGyJzhiUayRJwQ0wDyLYRBeTG3VPILvKtTq3Ubp1garyb26FHJ7rbes5C5mkDt/uO5FYSa5fTwbd8FBlrFnYdkXxpDyaL+/GqcFq8smy62W5/5v2jS0caP4IepQ4ZQJl3dtuR5QF0aH9qbxkBRhMKFj1vCRAcTkxpdZfLGoXA/MEcXV9hK8R3KzTrTC63kgynR/c7T2ZjqmBkO9PE+wEwpARs49OZUoJjvkb+3H6pQSjIpOOY1fIEn2bsejOPWZw79YaBuV5WfBHH7SPFA2+qKzmwj0b1jJ6tev+4QBcJ0Z/3YkOQVtrXc0+prPUAj/JovZc6HdhvCZTRi2Q38ecM9su/dHsZkSxZ1xIGMQHwtiy3SVHBu/j4KDNvSnVYHYz6cmIfdH80T4bh1vH3VKOHcGhsSMl17f2zwTPWKW2dFYB9e8cngRJ0esEYA1jqDbqylk7MqXQV8EaVmfL6eLAURdCtQlwtYGY7MpLYUsvDYqsvuNYM0sMDuOqRw9fU0Vw==;2S1zlUZCkzz8YjJPVj3HNA=="
 ---
 
