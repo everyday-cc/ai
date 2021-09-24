@@ -54,6 +54,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Amazon's AI cameras in delivery vehicles have some drivers crying foul"
+    excerpt: "Amazon is installing artificial intelligence-driven cameras in its delivery vehicles and the vehicles of many of its smaller delivery subcontractors. Some drivers are not happy about this panopticonic development,"
+    publishedDateTime: 2021-09-24T07:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/amazons-ai-cameras-in-delivery-vehicles-have-some-drivers-crying-foul"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/amazons-ai-cameras-in-delivery-vehicles-have-some-drivers-crying-foul?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/amazons-ai-cameras-in-delivery-vehicles-have-some-drivers-crying-foul?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 57
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/a679fb5/2147483647/strip/true/crop/2290x1322+0+0/resize/2290x1322!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F2a%2F6d%2Ff184679247d793281423246bfa6e%2Fwb.Transpo.jpg"
+        width: 2290
+        height: 1322
+        isCached: true
   - title: "Amazon’s AI Cameras Can Punish Drivers For Not Following Instructions On The Road, New Report Says"
     excerpt: "Advertisement In early 2021, Amazon installed AI-powered cameras in its delivery vehicles in Los Angeles. Derek, a delivery driver at the facility, said his van’s camera began to falsely penalise him whenever cars cut him off,"
     publishedDateTime: 2021-09-21T17:03:00Z

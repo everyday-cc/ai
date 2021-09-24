@@ -52,6 +52,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "NEC Iris Recognition Technology Ranks First in NIST Accuracy Testing"
+    excerpt: "NEC Corporation announced that its iris recognition technology ranked first in the world in the most recent iris recognition technology benchmark test, IREX 10 (*1), conducted by the globally authoritative U."
+    publishedDateTime: 2021-09-24T07:08:00Z
+    webUrl: "https://www.newswiretoday.com/news/176274/NEC-Iris-Recognition-Technology-Ranks-First-in-NIST-Accuracy-Testing/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 4
 
 secured: "jNER+p0Y4tx3zfGWJyAiOe1VUdpDKmCcnp0C2jO7IcjbaDoItwiK7wjmZZzj53h8k6fsa3lqHZkez8ZA+oH2qtVvVog9jQzVT+92SDUOoou4+bZtotPJ8wxWcUT48zunVAe+l1254ufudX0CqvDBJ3yoS4Z7Mk+pEdpXNdlMMvZHkac9gvzYqrF/swShfa87zlT+7kukAJEJhF73XnRRE5HX8Mcs1/xGGuu9EDlDEooZhRlpjKI9trqeIIBQ/BSzDCx5KSpGrksdL1s+uxpRs10/qRYOGrccKcTZaqA43teEN18UfnW3QSmcqv05MX5v8ts32OjObxec/erkBDNcaTo4Y+bEW6fJE5a193IiMs46iVLhbDljTzfsJe8NuHpLnJzt6LGG+HaVqbODNZ5lvQvsreh+kbL+GPGhseEJQ+Xp+4lQMasrT0GTalRgrpU3Bi3TcadjN9Jq3wHfFSDayNBs4SkIBDvd0VAMb1gRwzwFwm6g91y1xS+g9RVlIyeoErzEynhSiPtEdbm+vUCiCA==;ztr+Zs3TBXeRLqLxTsQyQQ=="
 ---

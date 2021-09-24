@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/bernardmarr/2021/09/24/the-7-biggest-artif
 ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/09/24/the-7-biggest-artificial-intelligence-ai-trends-in-2022/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/09/24/the-7-biggest-artificial-intelligence-ai-trends-in-2022/amp/"
 type: article
-quality: 104
-heat: 104
+quality: 106
+heat: 106
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614d55107441e2d9ba4238f6%2F0x0.jpg"
@@ -30,6 +31,6 @@ images:
     height: 840
     isCached: true
 
-secured: "OQePCwbyDCif/vaUV0b+497X6fhBnjcau/xk1HXpNfTydztOrR36dF2lDWdtM0ZxNq6NmXytsf6+xIvWiqJdu2URyNlSCjH99BymdEqiHFocMM99Sei6OG6SoCvtPKXHjbBticPdQFkBEzMcnBzySW+V5IEoJE/r1TeUVB0W82GYC6O0XgaLMcpuAE9+TYI3QkMfmRRwp1t9IkZ+7icCDM5r8jtL3Chfnf3mePQrxK8sRh2HMXkDRoiFNxd5ft0sIXqVbNiHEaZo6JnQO6gXhhqOLfEDpOEttKcyqOVXZpGeaiBk7uokfOj5yN1IkKNdU6bQdSxS17Gy8FNEEd5nnBL/ltt6WczJMV3h5hZ33tU=;DZOtJJGpFTJV9O0Jmi3HNw=="
+secured: "DRToTiTqRRx1P/y1Nl1SCWyQhOEzPFKEJD73jsEvc9sJtGSZaR/rgMHUayN5j2nGAHH0Ggd8wtkelmBu1PBPonL+OfdYnyF9EFJzbj9IPdZNLZxq6E9AxDw3eehkG/EbqR5Zs+p+/h79EsTWOXu2B5dgYtDybcE0tfXTvvVhUDerCxx4Ws6vfW1m4jlStxuTPLeUYrvhR5ilaMhQZZoseAU8bWLq+huf46g+yeRjkzHOa4tSZkMBxMlmfXnFeNikPVd18T18fbdCeHkwO9EpBG6etZqFhh/e5fqHnx92/pjrqKQxZ/VoZoV3v/F0J3h1gpS81Unok2SyUNzfAcb9CbxY5luPT7KqGY2i8RTjRCpu+Bs/DqhHiG0TvUyZ4HEzR50fpkioApMljzIhgZCoTEXGY8tyBlq5OZt5TVsAUCHS5TRD+vzhdmqjLXR/JW57E4m/JkavmNkMiJFT0JNkvYkJfVI/jYrtlmhrpcVQt3RiLJ1jbhL4DLzR7X+Um0rg9dUsWuyo4pzN9P1zBtwltQ==;+aZW/QkzSHXfuClaOTwMTw=="
 ---
 

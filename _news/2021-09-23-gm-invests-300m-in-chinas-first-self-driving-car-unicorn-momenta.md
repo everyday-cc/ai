@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/23/gm-invests-300m-in-chinas-first-se
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/23/gm-invests-300m-in-chinas-first-self-driving-car-unicorn-momenta/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese self-driving startup Momenta raises $300 million from GM"
+    excerpt: "General Motors said on Thursday that it will invest $300 million in Momenta, a Chinese autonomous vehicle startup. In March, the five-year-old startup closed a $500 million Series C from investors, including state-owned automaker SAIC,"
+    publishedDateTime: 2021-09-24T07:47:00Z
+    webUrl: "https://technode.com/2021/09/24/chinese-self-driving-startup-momenta-raises-300-million-from-gm/"
+    ampWebUrl: "https://technode.com/2021/09/24/chinese-self-driving-startup-momenta-raises-300-million-from-gm/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/09/24/chinese-self-driving-startup-momenta-raises-300-million-from-gm/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 59
+    images:
+      - url: "https://i2.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
+        isCached: true
   - title: "GM invests $300 million in China's self-driving car company Momenta"
     excerpt: "The move is part of a plan GM announced three months ago to invest $35 billion in electric vehicle and autonomous vehicle technology from 2020-25."
     publishedDateTime: 2021-09-23T16:41:00Z

@@ -36,20 +36,6 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 24
-  - title: "Guidewire Named to 2021 IDC FinTech Rankings"
-    excerpt: "Guidewire Software, Inc. (NYSE: GWRE) announced it has ranked number 30 out of 100 on the 2021 IDC FinTech Rankings. This is the first year Guidewire has appeared on the prestigious list and the company is the sole P&C insurance industry core systems provider included in the rankings."
-    publishedDateTime: 2021-09-23T12:56:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-software-insurance-industry-san-mateo-2f4ae05bce59474f8b091264c6d7469c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Hexaware Technologies Named in the Prestigious IDC FinTech Rankings' Top 100 by IDC Financial Insights"
     excerpt: "IDC FinTech Rankings represents the leading hardware, software and service providers of the financial services industry from around the world. Vendors are ranked based on the 2020 calendar year revenues attributed to"
     publishedDateTime: 2021-09-23T11:36:00Z
@@ -64,6 +50,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Guidewire Named to 2021 IDC FinTech Rankings"
+    excerpt: "Guidewire Software, Inc. (NYSE: GWRE) announced it has ranked number 30 out of 100 on the 2021 IDC (News - Alert) FinTech Rankings. This is the first year Guidewire has appeared on the prestigious list and the company is the sole P&C insurance industry core systems provider included in the rankings."
+    publishedDateTime: 2021-09-23T13:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-guidewire-named-2021-idc-fintech-rankings-/2021/09/23/9455257.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "mXNBbbVv/5C52vOu88j7ZKEIXfApWKDZx+xl66JP9crwBAX/1K7KvblBKjkCS/LrdHkIWiM0Ziv9Yf1TRu6YUL9YC1zU5EspgxBpqfnfQ6ExxGhGJdSLjOTLnW6W9Coi2Rm/5BJ0kRgHzaBIUNsHgewFBwKbYWF1OJ1owTGaRQk9nz8vzZcxrOQQj3bZT8LtR26DVR3mAwMzQt8WeuQ6sFGJse/9+EJ1dKLN5+NY9M+glFvOvyMPqadgCgWHrKcIciRt7NiE7Wa/gyrpGydWc0br2gRS/jxjW5pjecRegRFTUMpq/q3z9UVxDHKHioZoxNLfmXe7RILac8Be6glvTCLmIAf8hOyfgUYG1u/cQOg=;lt205ga3Lk8zJZHOswSsNQ=="
 ---

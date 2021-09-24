@@ -1,27 +1,29 @@
 ---
 category: news
-title: "General Motors to invest $300m in Chinese self-driving start-up Momenta"
-excerpt: "Four year old unicorn Momenta has also been funded by SAIC Motors, Toyota and Bosch in the past and closed a $500m round in March."
-publishedDateTime: 2021-09-23T08:55:00Z
-originalUrl: "https://www.siliconrepublic.com/business/general-motors-to-invest-300m-in-chinese-self-driving-start-up-momenta"
-webUrl: "https://www.siliconrepublic.com/business/general-motors-to-invest-300m-in-chinese-self-driving-start-up-momenta"
+title: "Chinese self-driving startup Momenta raises $300 million from GM"
+excerpt: "General Motors said on Thursday that it will invest $300 million in Momenta, a Chinese autonomous vehicle startup. In March, the five-year-old startup closed a $500 million Series C from investors, including state-owned automaker SAIC,"
+publishedDateTime: 2021-09-24T07:47:00Z
+originalUrl: "https://technode.com/2021/09/24/chinese-self-driving-startup-momenta-raises-300-million-from-gm/"
+webUrl: "https://technode.com/2021/09/24/chinese-self-driving-startup-momenta-raises-300-million-from-gm/"
+ampWebUrl: "https://technode.com/2021/09/24/chinese-self-driving-startup-momenta-raises-300-million-from-gm/"
+cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/09/24/chinese-self-driving-startup-momenta-raises-300-million-from-gm/"
 type: article
-quality: 24
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: SiliconRepublic
-  domain: siliconrepublic.com
+  name: TechNode
+  domain: technode.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/09/GMLogoRenCenBuilding.jpg"
-    width: 800
-    height: 600
+  - url: "https://i2.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+    width: 540
+    height: 540
     isCached: true
 
 related:
@@ -40,22 +42,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/03/momenta-2021_1.jpg?w=1024"
         width: 1024
         height: 768
-        isCached: true
-  - title: "Chinese self-driving startup Momenta raises $300 million from GM"
-    excerpt: "General Motors said on Thursday that it will invest $300 million in Momenta, a Chinese autonomous vehicle startup. In March, the five-year-old startup closed a $500 million Series C from investors, including state-owned automaker SAIC,"
-    publishedDateTime: 2021-09-24T07:47:00Z
-    webUrl: "https://technode.com/2021/09/24/chinese-self-driving-startup-momenta-raises-300-million-from-gm/"
-    ampWebUrl: "https://technode.com/2021/09/24/chinese-self-driving-startup-momenta-raises-300-million-from-gm/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/09/24/chinese-self-driving-startup-momenta-raises-300-million-from-gm/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 59
-    images:
-      - url: "https://i2.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
         isCached: true
   - title: "GM invests $300 million in China's self-driving car company Momenta"
     excerpt: "The move is part of a plan GM announced three months ago to invest $35 billion in electric vehicle and autonomous vehicle technology from 2020-25."
@@ -98,6 +84,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 34
+  - title: "General Motors to invest $300m in Chinese self-driving start-up Momenta"
+    excerpt: "Four year old unicorn Momenta has also been funded by SAIC Motors, Toyota and Bosch in the past and closed a $500m round in March."
+    publishedDateTime: 2021-09-23T08:55:00Z
+    webUrl: "https://www.siliconrepublic.com/business/general-motors-to-invest-300m-in-chinese-self-driving-start-up-momenta"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 24
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/09/GMLogoRenCenBuilding.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "GM invests in Chinese autonomous driving startup Momenta"
     excerpt: "Momenta is among the few companies that hold a permit for gathering high-definition maps in China, a key tool in autonomous driving technologies."
     publishedDateTime: 2021-09-23T14:50:00Z
@@ -141,6 +141,6 @@ related:
         height: 425
         isCached: true
 
-secured: "toqFyh4sL9MFBWfuDTtWNmBzX3brN8jvVw+HEPdRGQ1ueMdnXObXaVT+PUl+XK4HRGyFmBt6qcK5WVAxhAJrnrldbBa/y55kVxPXXkJfbvebwQK8V684X6t5fmBUIT+rlpCL1wW2PCVIVFkZ6L85OIDIrRv1/PNpE0Tdwy07PCx2p4HrVBrI6ZA5E8dDIlfRNLL7tsWX+22j9+b9uqKNWMznfml0u6nx1UBE1uPkoumsIwPlZtj8SqvCsZHD2ITBx+JfB3Cip9NWh8vcisTjeXmUUpAK7C1XH3Zl1BnE9IJ7yz8tV0au4OZbyRP2v4FvK3s+XZyb5R/T3EAe0W2/B04hxXFJAtSEH1kzmo93n7c=;hiC4hoqrd9UX3wvU8IGaAg=="
+secured: "sxcW4lkru+PZJGW4n/syH6l8Zmun+J7hxvEZN0DRjLJACv25QGaJaKTeO/K7R54BgZ8s2ykTJvTm/MorKwFVhbwfVySOm0+tRvfPxQYX/QKYDFVaF8BUM3ygldELvDZUFwNx4aUa5ZmOxtG9dPl7RvmQGVXjsGhx+5jb/KYGAhpHjzWWT6cSxfYl64iy94RbFRZ9nAJuq2V0wbo22VKNgHuA9HjhYFH63LYWlb5FQb3YbJ9Y3a8e1CBdDx2lry8spH1jqXbfSx2WuiyLBg4SXasTWZvyfkl1TX8xWTxAeLRRjswWSeebr+phEAAVrERAaZl2mOO7RSN+sMnUHiZkHzCVcGykVEYGeKglHcnZxnQ=;399fan4POKqsYNo0akEJgw=="
 ---
 

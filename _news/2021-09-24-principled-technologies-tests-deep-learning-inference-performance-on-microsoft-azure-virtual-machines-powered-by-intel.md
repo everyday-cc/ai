@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Microsoft Highlights Windows Server 2022 Integration with Azure Services in Summit Talk"
-excerpt: "Microsoft had a lot to say about Windows Server 2022 in its 1.5-hour Windows Server Summit online event, held on Sept. 16. Many of Windows Server 2022's features are associated with security enhancements,"
-publishedDateTime: 2021-09-23T17:51:00Z
-originalUrl: "https://redmondmag.com/articles/2021/09/23/microsoft-windows-server-2022-highlights.aspx"
-webUrl: "https://redmondmag.com/articles/2021/09/23/microsoft-windows-server-2022-highlights.aspx"
+title: "Principled Technologies Tests Deep Learning Inference Performance on Microsoft Azure Virtual Machines Powered by Intel"
+excerpt: "Principled Technologies tested newer Microsoft Azure Esv4-series VMs featuring Intel Xeon Platinum 8272CL processors against older Esv3-series VMs"
+publishedDateTime: 2021-09-24T07:00:00Z
+originalUrl: "https://www.pr.com/press-release/826368"
+webUrl: "https://www.pr.com/press-release/826368"
 type: article
-quality: 46
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Redmond Magazine
-  domain: redmondmag.com
+  name: PR
+  domain: pr.com
 
 topics:
-  - Microsoft AI
+  - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
-  - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlueMetalMessBig.jpg"
-    width: 1665
-    height: 1158
+  - url: "https://img.pr.com/release/2109/416814/pressrelease_416814_1632412085.png"
+    width: 1000
+    height: 1294
     isCached: true
 
 related:
@@ -85,20 +86,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Principled Technologies Tests Deep Learning Inference Performance on Microsoft Azure Virtual Machines Powered by Intel"
-    excerpt: "Principled Technologies tested newer Microsoft Azure Esv4-series VMs featuring Intel Xeon Platinum 8272CL processors against older Esv3-series VMs"
-    publishedDateTime: 2021-09-24T07:00:00Z
-    webUrl: "https://www.pr.com/press-release/826368"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 47
-    images:
-      - url: "https://img.pr.com/release/2109/416814/pressrelease_416814_1632412085.png"
-        width: 1000
-        height: 1294
-        isCached: true
   - title: "Cloud Natural Language Processing Market is Going to Boom with 3M Company, Apple, Microsoft"
     excerpt: "The Cloud Natural Language Processing Market report upholds the future market predictions with market size, revenue, production, Consumption, gross margin and other substantial factors. It also examines the role of the prominent Cloud Natural Language Processing market players including their corporate overview."
     publishedDateTime: 2021-09-20T21:15:00Z
@@ -124,6 +111,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 46
+  - title: "Microsoft Highlights Windows Server 2022 Integration with Azure Services in Summit Talk"
+    excerpt: "Microsoft had a lot to say about Windows Server 2022 in its 1.5-hour Windows Server Summit online event, held on Sept. 16. Many of Windows Server 2022's features are associated with security enhancements,"
+    publishedDateTime: 2021-09-23T17:51:00Z
+    webUrl: "https://redmondmag.com/articles/2021/09/23/microsoft-windows-server-2022-highlights.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 46
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlueMetalMessBig.jpg"
+        width: 1665
+        height: 1158
+        isCached: true
   - title: "SSE Renewables teams up with Microsoft for AI-led puffin conservation project on Isle of May"
     excerpt: "Green energy provider talks up the potential for artificial intelligence technology to help speed up the time it takes to bring new supplies of renewable power onto the grid."
     publishedDateTime: 2021-09-23T04:22:00Z
@@ -207,6 +208,6 @@ related:
       domain: openpr.com
     quality: 32
 
-secured: "QJdBJ9PHjxAdJMLR+dmKvy6fMYUS++ortN79bh0/VR/lRMiKA8MjtLw1S2kbQeEFHqGQngnmm6tiV7ZNl0yGtKkK5QGD0TChX6sqVXy1gQAuuwqi2gCkIAMBSjJ6cJy1n+gGDlsj7r9f5dPEOP4OTtk5veHJhnMAX318NmzvMy+RPloyjXJOmB6qsdoBYZ23mP9E8SyL8W7g0l2bXn/K9aA6mkP9ovAAU5jsLPFXCij5AU5UGr+JpFgFMwZ7H+hfr17A19xj+IGNWl2GTJlcvLAnFBgTFNLZ4l3SFXc6TUz2m9U4P94Vi11+MGryELdsrtE8PaGvaFpslubNIMuYYaG5vkPxFeIIzylCApBm76CqeQiLoHYuaJaXyyRTD/1+TpMXHMRfcbf/0OAyQpcxUYISi6/jjMKX+RxzPClfHyvSWanm4u2gbhIYIJ9g/czgbERQ2P5LVTNo/xBwY+vjtyj/6lUErxysBCU7SOubOYQZGLFF9GlEX2MqAEnVweXjJCazqqbifoWR2jO8IjJdtg==;5fRskqeCTX7d6LNJ4DBp4A=="
+secured: "mzSlR3Vhi1aP+MvkvrhJ8T1Id9ATguAmhXTdUfadjRPAET89kfvFGNVhXsEjyiamQ33py18Q9dfKUxun8dyT17j88yTx5PI9hCF8JMj8tfpEMBPFbz2sXWlD3/eYM0Dd07iM1Qmp42YsTrSpDaMBpCS8yqM6nLyR5h6whwMSiQGW2jcFDgTMqrXvPCfkk+nd7s9PTwT81UqWAXL5KSXgfFK7u4+UX9lpFLAmTeMckomm8yILRwTuMMAP6LkCCCHcZieGWBIyNzopKi728cv4bw/MULTpyv68DJRCOQGWb2o8Cw/hJDSm05Fzp+tT+ntgxWXDT+E8X3O9j4EknZbBqfAXCcA7TFvP2wzwNwa/LXM=;nj10bsPjVI1STuukYphzvw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://montrealgazette.com/opinion/opinion-how-artificial-intellige
 cdnAmpWebUrl: "https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life/wcm/5f1cb3c0-543d-4e66-a770-f4122faac455/amp/"
 type: article
 quality: 61
-heat: 73
+heat: 71
 published: true
 
 provider:

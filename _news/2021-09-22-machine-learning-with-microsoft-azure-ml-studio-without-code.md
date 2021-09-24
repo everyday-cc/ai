@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geeksforgeeks.org/machine-learning-with-microsoft-azure-
 cdnAmpWebUrl: "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/amp/"
 type: article
 quality: 106
-heat: 236
+heat: 246
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "Principled Technologies Tests Deep Learning Inference Performance on Microsoft Azure Virtual Machines Powered by Intel"
+    excerpt: "Principled Technologies tested newer Microsoft Azure Esv4-series VMs featuring Intel Xeon Platinum 8272CL processors against older Esv3-series VMs"
+    publishedDateTime: 2021-09-24T07:00:00Z
+    webUrl: "https://www.pr.com/press-release/826368"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 47
+    images:
+      - url: "https://img.pr.com/release/2109/416814/pressrelease_416814_1632412085.png"
+        width: 1000
+        height: 1294
         isCached: true
   - title: "Cloud Natural Language Processing Market is Going to Boom with 3M Company, Apple, Microsoft"
     excerpt: "The Cloud Natural Language Processing Market report upholds the future market predictions with market size, revenue, production, Consumption, gross margin and other substantial factors. It also examines the role of the prominent Cloud Natural Language Processing market players including their corporate overview."

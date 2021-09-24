@@ -3,8 +3,8 @@ category: news
 title: "Should we care about Philosophy of AI in the Mena region?"
 excerpt: "Aliah Yacoub is an AI philosopher and head of techQualia at Egypt-based Synapse Analytics, a data science and AI company"
 publishedDateTime: 2021-09-19T01:02:00Z
-originalUrl: "https://www.wamda.com/2021/09/care-philosophy-ai-mena-region"
-webUrl: "https://www.wamda.com/2021/09/care-philosophy-ai-mena-region"
+originalUrl: "https://www.wamda.com/ar/2021/09/care-philosophy-ai-mena-region"
+webUrl: "https://www.wamda.com/ar/2021/09/care-philosophy-ai-mena-region"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 381
     isCached: true
 
-secured: "HnGBYbYSued9VsOPVKAlkyE38O++hH9M1/BS+qkPL7nkpAVikPxjbJKjSCfejaRW6d4OeLXQ4KKyWcpQAYutE1fLNTOLS87AbZ0h7ZkNIareVU1jwKyQcXazhWGkdo/gVFf6GAlDFObqcDjpeWB4h77w11XWDbGc7hvdCMllzj1F2fp/lhuO8YfG/s3g5JhTdAyuyYcdDLX9zrj4/ag0iXcQtlm55WyhdLZ0z2D/cx+fJCsc8DE9ECC6havYThvzXzj/yBu9qd9FhVGGvNAREtAh8Y3BcECTnrz44YTC+iig5m7VrE+z5aLrL3glS6oX2SJpySag4nm//NbclpkycL9ydgpyXSyt9iFv2X1eHmQ=;N312DkBnfDciEUQB8+YNnw=="
+secured: "gG1o2b2m0n4VZpHv9bpTFJIgRIGroL+IlQPQ6K+jtQmV+uQtnElcDkbWjbCkGS+BcTfItcQNA4gBAakKGDdgiJ27ApwZ31dJRdxGSXFDY8bYSL/lRaWWImM4cnb7t63X4suiVwrG8oDdwNOEjSD1wfmdt2FLcbc2E3aw2N7hyFUJaGu/rv3fdY0jxXq8TXHBBT8P25gLZK6coRX9UTi/9k1r3gZ+go4QnBgSHG+DgWA5L9fmZngtAIEBb/ndQQFrETpNpgwPdsbECajA58gHDjjfUgDDTZyXRPl6EaSqtr/szGblNsSzA0AU+H2487uLLLxm4z6lA3Q0L7YaaX9+xEjngc0ShBE/T4tUWaTxMnY=;H8DURFJgEb7aEdU4rxAJGg=="
 ---
 

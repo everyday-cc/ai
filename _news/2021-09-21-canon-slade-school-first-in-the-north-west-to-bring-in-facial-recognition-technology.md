@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theboltonnews.co.uk/news/19594539.amp/"
 cdnAmpWebUrl: "https://www-theboltonnews-co-uk.cdn.ampproject.org/c/s/www.theboltonnews.co.uk/news/19594539.amp/"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "NEC Iris Recognition Technology Ranks First in NIST Accuracy Testing"
+    excerpt: "NEC Corporation announced that its iris recognition technology ranked first in the world in the most recent iris recognition technology benchmark test, IREX 10 (*1), conducted by the globally authoritative U."
+    publishedDateTime: 2021-09-24T07:08:00Z
+    webUrl: "https://www.newswiretoday.com/news/176274/NEC-Iris-Recognition-Technology-Ranks-First-in-NIST-Accuracy-Testing/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 4
 
 secured: "yw+363VtYP+hRjIo4prUo9kKcHnPBa7vGnYkKQpM0DDFTPWysLcIKJ4fPpxT8BZgC+QLPCKshViPgVkyg7GLcT16zssxZ4VrdWhq55Epwkf6kESQDnqwRRRHXDYJV5sQvdDjta9QKriadmhlK1P8iWGiJwWShQ6MaIrqSbQ7CDVXqU88/b6RXegBlMkW6ogSnTqHXM1gqvESjvN1H3+QzO9vNNlkapck9Hswg4NCNQLBbjIjURba7H7ZldFKmf190B3EBZ3C8p/j3S4SebXweFO2/WnPEsdD5nn8WV1YlRhViAhDhBcjtdTz2N6FJQPJJoNozUmW3tYmdrdVbXEq86saqlF/1FV4rf2GJvGPago=;6fqzIvwBKXK1alHQsUGgww=="
 ---

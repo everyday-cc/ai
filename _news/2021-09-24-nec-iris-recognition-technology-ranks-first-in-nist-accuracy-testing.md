@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Concerns Garda surveillance law may bring in facial recognition technology"
-excerpt: "Concerns have been raised that the planned broad expansion of Garda’s surveillance powers will lead to the introduction of facial recognition technology by the back door. The Garda Síochána (Digital Recording) Bill 2021 will allow for the use of body ..."
-publishedDateTime: 2021-09-21T16:54:00Z
-originalUrl: "https://www.irishtimes.com/news/politics/oireachtas/concerns-garda-surveillance-law-may-bring-in-facial-recognition-technology-1.4680103"
-webUrl: "https://www.irishtimes.com/news/politics/oireachtas/concerns-garda-surveillance-law-may-bring-in-facial-recognition-technology-1.4680103"
+title: "NEC Iris Recognition Technology Ranks First in NIST Accuracy Testing"
+excerpt: "NEC Corporation announced that its iris recognition technology ranked first in the world in the most recent iris recognition technology benchmark test, IREX 10 (*1), conducted by the globally authoritative U."
+publishedDateTime: 2021-09-24T07:08:00Z
+originalUrl: "https://www.newswiretoday.com/news/176274/NEC-Iris-Recognition-Technology-Ranks-First-in-NIST-Accuracy-Testing/"
+webUrl: "https://www.newswiretoday.com/news/176274/NEC-Iris-Recognition-Technology-Ranks-First-in-NIST-Accuracy-Testing/"
 type: article
-quality: 37
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: The Irish Times
-  domain: irishtimes.com
+  name: Newswire Today
+  domain: newswiretoday.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://www.irishtimes.com/image-creator/?id=1.4680102&origw=725"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Canon Slade School first in the North West to bring in facial recognition technology"
@@ -52,16 +46,21 @@ related:
       name: Reason
       domain: reason.com
     quality: 41
-  - title: "NEC Iris Recognition Technology Ranks First in NIST Accuracy Testing"
-    excerpt: "NEC Corporation announced that its iris recognition technology ranked first in the world in the most recent iris recognition technology benchmark test, IREX 10 (*1), conducted by the globally authoritative U."
-    publishedDateTime: 2021-09-24T07:08:00Z
-    webUrl: "https://www.newswiretoday.com/news/176274/NEC-Iris-Recognition-Technology-Ranks-First-in-NIST-Accuracy-Testing/"
+  - title: "Concerns Garda surveillance law may bring in facial recognition technology"
+    excerpt: "Concerns have been raised that the planned broad expansion of Garda’s surveillance powers will lead to the introduction of facial recognition technology by the back door. The Garda Síochána (Digital Recording) Bill 2021 will allow for the use of body ..."
+    publishedDateTime: 2021-09-21T16:54:00Z
+    webUrl: "https://www.irishtimes.com/news/politics/oireachtas/concerns-garda-surveillance-law-may-bring-in-facial-recognition-technology-1.4680103"
     type: article
     provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 4
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 37
+    images:
+      - url: "https://www.irishtimes.com/image-creator/?id=1.4680102&origw=725"
+        width: 600
+        height: 315
+        isCached: true
 
-secured: "x1b8X3LcWkDky6IPfrrctuLBx2686TCWuMP3ipABScABMcyZUbknRY6DBjPqxFohaMMLj42XLj5jzq18udc1hN4+EEuAh4EbhWWup8IzEGRtR/wx45Ky/Fe4XeH8jeYlwhAYJZzHkhjZl9Urx4/1lt4sORYlXrNQaIAexN9xxdcH9FYNupKISGCDxo16W4nFfynG4QrJGYFtyAovxRqOlkRmLSPfv/+wHSa5VxkRHBsJxIXzGb0Tr4N09tfQf5A3FJaXUZ/LklhkW8FJvqOdEWBtAUbHrzBUovDtq1QJEMcluYNt82XmETSBIFc23rDvZmoFQ8MEVTAwKz6+RA9SeZ0UrwEAg5nKF9ZDzFz5I6Ho23JGTvlCpNPGFLrzTc8hwOlPMRCkK+L3U3+lyUaS+aG2+Qh9PcSuPmvBha0PdAgGC+wrWW2IYBqEANcrj2JOV2TW4jdwg8LktAzKqe9YuTm6iXqoyn1fswcd2Se4zy1lAA1zyU87rezUOJe58JRr9hLQ6jjMFKUhsL7i+z7HUQ==;z9gs8T6H6FWozN5ZLeNgDw=="
+secured: "ZIbvVVI9eOPKQYkGF85SXoHHEPNj08wSXjM6NAMS6Dx+ZVxrmBOiyQ1DtXRFldSRzqCKb+tYoj4dxrzQrjVE1WrO7TRqx+ca+fRH1wEuMSDWmD07qeQavwZaC7v7s0nXOxiKWYdouBvv58WBmi4bFzJIblu4iQ0R6QJaw5k8d8H3CubcDzCQ+dIkbEhpzIbA94qofhlyi3GXuwnplBBP7MUSxUmsccVRYFk5h+rxxLNaFzoPxmdVEkv26slQUrsxJC5MQO78NBld6dTerBRBG9VFYkdeA+BL+ejYctTqy01whKvR9moEvszaIU2/1P5XMWFkt5IhIa+x/khUSP2DcSjzUaVHkia8MPBEmqOqZUA=;WR6ZX8PQXaYM0aBXHfdH1A=="
 ---
 

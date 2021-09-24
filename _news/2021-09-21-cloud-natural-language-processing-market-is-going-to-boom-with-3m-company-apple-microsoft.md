@@ -86,6 +86,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Principled Technologies Tests Deep Learning Inference Performance on Microsoft Azure Virtual Machines Powered by Intel"
+    excerpt: "Principled Technologies tested newer Microsoft Azure Esv4-series VMs featuring Intel Xeon Platinum 8272CL processors against older Esv3-series VMs"
+    publishedDateTime: 2021-09-24T07:00:00Z
+    webUrl: "https://www.pr.com/press-release/826368"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 47
+    images:
+      - url: "https://img.pr.com/release/2109/416814/pressrelease_416814_1632412085.png"
+        width: 1000
+        height: 1294
+        isCached: true
   - title: "Artificial Intelligence (AI) in Construction Market to Witness Huge Growth by 2027 | Autodesk, IBM, Microsoft, Oracle"
     excerpt: "The latest Artificial Intelligence AI in Construction market study offers an all inclusive analysis of the major strategies corporate models and market shares of the most noticeable players in this market The study offers a thorough analysis of the key"
     publishedDateTime: 2021-09-23T06:54:00Z
