@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geeksforgeeks.org/machine-learning-with-microsoft-azure-
 cdnAmpWebUrl: "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/amp/"
 type: article
 quality: 106
-heat: 246
+heat: 256
 published: true
 
 provider:
@@ -207,6 +207,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 32
+  - title: "AtScale Expands Semantic Layer Solution for Microsoft Excel"
+    excerpt: "AtScale expands integrations with Microsoft Excel enabling high-performance, multi-dimensional analysis on live cloud data."
+    publishedDateTime: 2021-09-23T18:34:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210923005678/en/AtScale-Expands-Semantic-Layer-Solution-for-Microsoft-Excel"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 21
 
 secured: "lpjh9UzW2aRPrezcQjIa/+Cgnv6FUH2/ryH5IW9vv4KiJVVH5FxmiF1Q4pMc8GvY2+PESZDEHixom1wBpbasctrjRn4E/TYZeFHvUHogoG+nSJ5zJ6uW84MHFDEPmdnGeDE2kKLZYLbYhUZNSPnrfO6WH70edbiXAAUPP+vb/Kk/Fx8bLhtlw2xa42uSFC4AYC4AUGHGN+cXXbz82nftZPjmDOK91XGkucEPSkianPLIYr9V96MY84Arce+freXigS76eK+GMg4wae7ScVxQOaptF2pTvgAmPOZKACFUvNdNUhwrlX4j/kOWFLAgqj6IG4A7TP7sY8+YkdeSs8sNalJlYwPqjt+/dMSbwEg73Hg=;dv5fT/u4NAoXWsriJqw3qw=="
 ---

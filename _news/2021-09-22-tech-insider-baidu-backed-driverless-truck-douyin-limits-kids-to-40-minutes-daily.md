@@ -73,6 +73,20 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "San Francisco raises concerns about Tesla 'self-driving' system as public test nears"
+    excerpt: "Tilly Chang, executive director of the The San Francisco County Transportation Authority, said in a statement to Reuters that a human driver should \"continuously monitor\" Tesla's so-called Full Self-Driving system."
+    publishedDateTime: 2021-09-24T10:50:00Z
+    webUrl: "https://www.autonews.com/regulation-safety/san-francisco-joins-chorus-safety-concerns-over-teslas-self-driving-system"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 47
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Tesla%20logo%20car%20web.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Who is responsible if a self-driving car kills a pedestrian to save the driver?"
     excerpt: "Unthinkable: Governments put their trust in big tech as they lack expertise"
     publishedDateTime: 2021-09-23T04:00:00Z

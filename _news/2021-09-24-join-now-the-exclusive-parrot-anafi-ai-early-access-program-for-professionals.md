@@ -72,6 +72,20 @@ related:
         width: 300
         height: 225
         isCached: true
+  - title: "Three ways to maximize the business value of AI"
+    excerpt: "Don't get caught up in the AI hype, these three essential tips will enable you to rapidily deliver business value from your AI projects"
+    publishedDateTime: 2021-09-24T11:32:00Z
+    webUrl: "https://www.thoughtworks.com/insights/articles/three-ways-to-maximize-the-business-value-of-AI-and-ML"
+    type: article
+    provider:
+      name: ThoughtWorks
+      domain: thoughtworks.com
+    quality: 37
+    images:
+      - url: "https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/meta/insights/in_meta_articles.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Preparing for a future pandemic with artificial intelligence"
     excerpt: "When the novel coronavirus led to a global pandemic last year, doctors and researchers rushed to learn as much as possible about the virus and how our bodies respond to it."
     publishedDateTime: 2021-09-21T20:07:00Z
@@ -82,6 +96,6 @@ related:
       domain: phys.org
     quality: 19
 
-secured: "SQom2/NoaZe9acMZG56dmr9enhC+fa+IKKjQ0CBCUJ4p212YzTBjHREpZLQuxwVaUEymXDn9WgFcsx+xHcC3tQKE+/XiFnTc+A4OM4GLo5E55D7yxqQVFYJ5s8+lPRJGxDtbXpGyMZ9NgfEX36gpaV1PYRcAC0yEoeBmCFCa26LeY+OYvQ3c/GnJy/QSRAx86mnzbuW+lCeofZxIiqUvYqisy6EJONuCHM5VtNjD3MfVnOwESLq6K61smk1JeDL9OHV2UTMVqUW76XgEfBKHsAH7D9Vk7O64CsTvKdTniPflCi5TAlANU8TmnF326rBNwt6lf3wloF2yqWdTq0eMxe+m4qNW8VQcPXD3qMp7R60=;Ssvm2mFzrayNf/lvormQJw=="
+secured: "vBjSuLtdtzEcMPj+jn8unOYPpP36HLiKIAXgcFyk/IxWJCfuN9RZKgOyiAYbLuhi55v115ES/UbnNtGg69ptjuOVsyBeXZfIAducAJJcrdIX2D4HPUFN1kh5YRDdklEYuWlLZ7hBLz/D7wsZ4Xb8VZ0FH4uxsC0pvgEYrO64PN68OmK/EEp84qWY1UNtbVMuwP3NZwUESfMkBDOnlUPIf7RtMGmCRYjuXFVw31NnHKzi0tPUInRI84dPsLMVHeG2IjJ0aJ4IpRjM/j9yKSvbBD5jTdgEWoOETEhWP77N16UOIvbOjuObk+8xS0v3FGIECzDzU9IyrfC/YURyDLNBxrFcngzeJTbpWsLDRZYt1iVLp0Ls10W/Xwvxyc0tVGU/puxqwYBkKrkFXVnue3Nd+mOaL+AWWrnbT8TqiJ7WBzK6/cYWva1gTYwtsUeJwSYFCVEsUJBCAOBL7F+ntiNLNeF8kI/rDWxF/+wQBDUImYuPRouuwwVOF6FsMrXcsDCR/eE7kTrG5E6u64cfsZd4Cw==;KMEMsmD8ox9qbiQVMij7aA=="
 ---
 

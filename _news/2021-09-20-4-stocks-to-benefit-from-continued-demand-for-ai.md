@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/386471"
 webUrl: "https://www.entrepreneur.com/article/386471"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Tim Cook talks the need for privacy and exciting AI, AR"
-    excerpt: "After being named one of the \"titans\" in Time's list of the 100 most influential people of 2021, Apple CEO Tim Cook talked to the publication about the environment, privacy, and his excitement of AR and AI."
-    publishedDateTime: 2021-09-19T17:17:00Z
-    webUrl: "https://appleinsider.com/articles/21/09/19/tim-cook-talks-the-need-for-privacy-and-exciting-ai-ar"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 37
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/44520-86461-42624-82694-000-lead-Tim-Cook-xl-xl.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "0ipn8yJk9S/8mteEMKNEzata9Y2JGEc51B6mkYLGPSMPs6nJ09mWngdI+b5ptiZ+FfVwldjlCsE9SJZgoE/dcsKXzOWB5sw1/E2GPrI9lAPVCHe6b9z42gL/UWqIx5l3YFCo6QtvjjpIRX3KOzyFrZQbk2pAXsnEC8/f320fP9jm/6vTbCd623hSfakD1+5CeTE+qYll5IdeeY2bbA4dphA4UZwbEhXdYDdseT2f6EQ9O6+7SVygDYb7V+x/IzTFQkWti03BHxYCrvi/o5kT69AI6+w1FuyDA/Pg3B1TLm3Aq8sDyNIdlImOTDoq6xG7yHaPFrZqWZuWi2/koDasz2ux/0acHNtMYpJf9wsG9u0FY/1DbYjEPyaacG357LN2BBemCiSK/TH3ykowMMO3vdyyN/xX7EaXmmcVJI/JRsmZt9WSaYOqAFW659ZUIYR3toy8A9JeS+TQYlIkDl+6sWYTYCOMT4avzUI9EqdLg+pnHuYDOJc9zYATDmHltrw7LG79JXEx3hbA0Hv5rrPGLA==;WgrPHS5+h5B7w6e5i5VKoA=="
 ---

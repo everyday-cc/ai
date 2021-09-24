@@ -206,6 +206,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 32
+  - title: "AtScale Expands Semantic Layer Solution for Microsoft Excel"
+    excerpt: "AtScale expands integrations with Microsoft Excel enabling high-performance, multi-dimensional analysis on live cloud data."
+    publishedDateTime: 2021-09-23T18:34:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210923005678/en/AtScale-Expands-Semantic-Layer-Solution-for-Microsoft-Excel"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 21
 
 secured: "S3YCGRaNKdmyRYq4BoLJk3Ta9uD7Dh6XbR5vI8aaHyzAzjcRhSQWAhlxr5B8glZVun0eDH1W8OnY9Ig8F7qnZLw48y8JL6JzxTjJvm3C2pWpbNczGoKf1XOYdJCsmyZzemmAoHm1zFBw6qA1HawTsDjyB1IE0a9PhZkmV78jCPOCkFDhfwvcEQ7+9Smx91tzvmqs99UnGEEGuWVB+IU7LKCuGCfjrRDodfW8mnhdwM5PoNHhlmljci+oCHeoy4OOqVDAwC9kyUB7gnkCxyXOcTDjIZV332y61iqoO1cnVR5TDDOeRPmbr+VQMdmMpaQiklbI/OtlAOAvjmmTLowx6OcbYh75FyaQtUzdlrdCgno=;Di6pUqRuU8jj8Ksj3Uj2OA=="
 ---

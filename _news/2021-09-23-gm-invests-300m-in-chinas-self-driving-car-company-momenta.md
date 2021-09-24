@@ -1,29 +1,27 @@
 ---
 category: news
-title: "GM invests $300M in China's self-driving car company Momenta"
+title: "GM invests $300M in China’s self-driving car company Momenta"
 excerpt: "General Motors is investing $300 million in China's self-driving car company Momenta. GM said Thursday that the investment will speed up the development of next-generation self-driving technologies in China."
-publishedDateTime: 2021-09-23T15:59:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/gm-invests-300m-chinas-driving-car-company-momenta-80190727"
-webUrl: "https://abcnews.go.com/Technology/wireStory/gm-invests-300m-chinas-driving-car-company-momenta-80190727"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/gm-invests-300m-chinas-driving-car-company-momenta-80190727"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/gm-invests-300m-chinas-driving-car-company-momenta-80190727"
+publishedDateTime: 2021-09-23T15:57:00Z
+originalUrl: "https://apnews.com/article/business-technology-china-3ac51a2f83d29fffa9807a5b74b02070"
+webUrl: "https://apnews.com/article/business-technology-china-3ac51a2f83d29fffa9807a5b74b02070"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_1759e8719a7e4b3196a74cd342b7b4ee_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://storage.googleapis.com/afs-prod/media/1759e8719a7e4b3196a74cd342b7b4ee/3000.jpeg"
+    width: 2999
+    height: 3000
     isCached: true
 
 related:
@@ -140,7 +138,21 @@ related:
         width: 800
         height: 425
         isCached: true
+  - title: "GM invests $300M in Momenta to deliver next-generation self-driving technologies in China"
+    excerpt: "General Motors will invest $300 million in China-based Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China. Momenta has pioneered a scalable path toward full autonomous driving by combining a data-driven approach with iterating algorithms—referred to as its “flywheel approach”—as well as a"
+    publishedDateTime: 2021-09-24T10:47:00Z
+    webUrl: "https://www.greencarcongress.com/2021/09/20210924-momenta.html"
+    type: article
+    provider:
+      name: Green Car Congress
+      domain: greencarcongress.com
+    quality: 15
+    images:
+      - url: "https://bioage.typepad.com/.a/6a00d8341c4fbe53ef026bdef32689200c-600wi"
+        width: 600
+        height: 674
+        isCached: true
 
-secured: "PchJQPRnavhcYVCoEwm5+0NHIkIZEELXxD7SaDXoghS7XKI8MYg5CRTxBahfCkONAQQwhsNf0mj8poTDK0WpD0/mWkuogHlwKuwgKDLsdZPpFHVQn26CngkF+BrhiRRjyo1FtYPfgGlS45UVr1pfQ7fDNzmftaC4UV/7ZUjGDxRfjI0h7M3dkBHyFTok8MTbivVH/Kv4oguvJMuGOl2PT0OHnSt02j1CpXW70egKcGpSY7ieb9HDSHjtotTwFav8GFaraB5eoIJoFBnFE98gDJcebBEjYAZlZ40/drf0OgwoIvfFJvCroKxSfLTLZ6Bad2CSmGMLH097GeORi6kKl9+/AqvBlLN6TmIM0SZMWmu/IJqM3DxnJbjr+UwkXFi6kqpwMmG+FtbPYueHh94jvvd2R2vIybXuih05totM8/FZM7SIcedoQELdi09E4gqZXN7O+QyhMYUHfCOCo6kcNKs/n7/FRPkciwI/nj19SD/HOhCeFEB6Nx6iUMIjChhRTbBT2qdJTDfEGLo4uRRbkw==;Udx9F8WkXlNTqkR0OouYdA=="
+secured: "qZ2jcQ8R1BxfshQSqcdO56uda5rB1NeFHdQydzMrdCd/ktD5Cw9+2rt7oVu/BNlLZo3OumsDL8/v0WqSXTU9TIgZg6irDEmJao8vUQIyTq8B11oqVc6FTqfUpsjmFltszXi99gR2pt5IBVacLN8jk+22zXwMW22dNI4tf/idzkGh4rR0QQr0P76mLaIXG/qXsXympsLyNBOF0FQUVG/V9kVtkGb4Fc9uhT4l7Xk7L7cXUsLW8f/9CNeva7hjPNrwXOuHTVV6WEXkdtXPElw/Sh2Dvgkx6g6UkaEf0U5zXLmTC8Sav7v4CmHiFQ6maKqaW27nq2zItyAtTly6b2iPWQN8VFZJS6lxq42Cm110wXk=;iSlQqlRS6deL+TiNN0AdZA=="
 ---
 

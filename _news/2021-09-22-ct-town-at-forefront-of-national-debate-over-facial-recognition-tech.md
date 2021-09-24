@@ -6,7 +6,7 @@ publishedDateTime: 2021-09-21T18:13:00Z
 originalUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b"
 webUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://s.hdnux.com/photos/01/20/22/56/21048234/21/rawImage.jpg"
@@ -67,6 +68,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Facial recognition cannot be a standalone authentication method"
+    excerpt: "As more organisations look to facial recognition to improve their digital identity practices, they must remember that it cannot stand in isolation"
+    publishedDateTime: 2021-09-24T06:00:00Z
+    webUrl: "https://www.computerweekly.com/opinion/Facial-recognition-cannot-be-a-standalone-authentication-method"
+    ampWebUrl: "https://www.computerweekly.com/opinion/Facial-recognition-cannot-be-a-standalone-authentication-method?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/Facial-recognition-cannot-be-a-standalone-authentication-method?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
   - title: "Unregulated use of facial recognition technology continues to spread across Russia"
     excerpt: "Facial recognition has a wide range of uses in Moscow, from monitoring public transportation payments to traffic monitoring and a school pass system. More than 5,000 cameras with facial recognition software already operate in other regions of Russia."
     publishedDateTime: 2021-09-20T22:36:00Z
@@ -82,6 +94,6 @@ related:
         height: 666
         isCached: true
 
-secured: "ueZJ8dXarDulPLeoZHFPloue0BwLVUO5JIlpYeNvAsVHssYB8cUcS0kDBWcjntSAIPBvEr+ycFris3BMaywLyA6iyeGLgJK83Lp1bXbDgQBdJDzRgxhEUL15iJGhOByTdpJkfRKZZBwNeRIF99CAiDcX2rcvD4UWfvEUnhs1gWywn93B38X+DOR+oguZec6eH7kqrfHsTd2O6eJwhdGjs4fJ6NQCRAlkAE1Bp0u1BQHWyWC374BMdg7JL2QJCG48aTI3KnSzIBiwJGBzl8YDUcRs/2uW1R/AnQDUhEZDdxT4ykEqi9D0brvE3gn2QB/dvpek74xtbLvXmWdU07HHOICY5LDbm56HLFfxt6Az9LQ=;MvSiSy43o1RRm3Ygxjqw/A=="
+secured: "ocuHuWAkB6ZHz4NacJ7l9NsUMYJQrmqnsU34K6eO6baoOWS2Sri2TjpIpqm7GSZs+SeP2JMiS+7duZA3H1C6nNXmKfJGeF3ihgzSAOAuolEXZ+TxH9hkxi29JG+drpY6IpBUgjDYJQUc/MoKyT4ZTX4QCbu3WtSSvRhWoXATdNIvxYKdJ36GwXxBHtmbrPFN8zapURW7kSIm1Gk0Dgmzs2tiMEmoVjg6fcp/oF6uQeTLcQZntTSUasHFL/960HqHveKPrEdbjabubTZDZazYse63VF+t/MMNakr4dS6ww4VVKBZVQjsyBFLolF0kMkjAQGgoI+2O32utVOmJAre2XBIKgUvYRz0fZueReERNR4ab5r44jAPtnGoK+JjJveCcbSXSA3+GX6WwXB3H+AyX3EfPYrEAFC53L2mXO7e1/nV+IT0cMQzqTYPL/nzXL9DV2m+elyfIf/96jFv5MlMOtuFrnxmiQgvFlEUiNdDAv/IwxMvJ0rtB1GXQYXF0ZYa83ZCiM1GFoJXPtvylpTKBHQ==;EL67OD62RelnXuOBQq01dg=="
 ---
 

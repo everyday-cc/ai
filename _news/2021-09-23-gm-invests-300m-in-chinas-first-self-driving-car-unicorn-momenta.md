@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/23/gm-invests-300m-in-chinas-first-se
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/23/gm-invests-300m-in-chinas-first-self-driving-car-unicorn-momenta/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "GM invests $300M in China's self-driving car company Momenta"
-    excerpt: "General Motors is investing $300 million in China's self-driving car company Momenta. GM said Thursday that the investment will speed up the development of next-generation self-driving technologies in China."
-    publishedDateTime: 2021-09-23T15:59:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/gm-invests-300m-chinas-driving-car-company-momenta-80190727"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/gm-invests-300m-chinas-driving-car-company-momenta-80190727"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/gm-invests-300m-chinas-driving-car-company-momenta-80190727"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 44
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_1759e8719a7e4b3196a74cd342b7b4ee_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "GM Invests $300 Million in Chinese Autonomous Driving Startup Momenta"
     excerpt: "U.S. automaker General Motors Co said on Thursday that it would invest $300 million in Chinese autonomous driving startup Momenta to develop self-driving technologies for future models in China. In China,"
     publishedDateTime: 2021-09-23T05:37:00Z
@@ -101,6 +85,20 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/09/GMLogoRenCenBuilding.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "GM invests $300M in China’s self-driving car company Momenta"
+    excerpt: "General Motors is investing $300 million in China's self-driving car company Momenta. GM said Thursday that the investment will speed up the development of next-generation self-driving technologies in China."
+    publishedDateTime: 2021-09-23T15:57:00Z
+    webUrl: "https://apnews.com/article/business-technology-china-3ac51a2f83d29fffa9807a5b74b02070"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/1759e8719a7e4b3196a74cd342b7b4ee/3000.jpeg"
+        width: 2999
+        height: 3000
         isCached: true
   - title: "GM invests in Chinese autonomous driving startup Momenta"
     excerpt: "Momenta is among the few companies that hold a permit for gathering high-definition maps in China, a key tool in autonomous driving technologies."
@@ -143,6 +141,20 @@ related:
       - url: "https://img.futurecar.com/202109/23/l_614cad3d81fec.jpeg"
         width: 800
         height: 425
+        isCached: true
+  - title: "GM invests $300M in Momenta to deliver next-generation self-driving technologies in China"
+    excerpt: "General Motors will invest $300 million in China-based Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China. Momenta has pioneered a scalable path toward full autonomous driving by combining a data-driven approach with iterating algorithms—referred to as its “flywheel approach”—as well as a"
+    publishedDateTime: 2021-09-24T10:47:00Z
+    webUrl: "https://www.greencarcongress.com/2021/09/20210924-momenta.html"
+    type: article
+    provider:
+      name: Green Car Congress
+      domain: greencarcongress.com
+    quality: 15
+    images:
+      - url: "https://bioage.typepad.com/.a/6a00d8341c4fbe53ef026bdef32689200c-600wi"
+        width: 600
+        height: 674
         isCached: true
 
 secured: "qd6CGbVcU0HrirJSEpQOY+CQFesbTxPH0p2aYHIHYH+03y4w5yOjSEkBgBXlFjvz816T6i690MVeaBMThNQSg2HXg+IowOBS4JZBKN1vv7hSSg+w2ODBuKayj1imYutqkpLsn7cWLpeqGVYq89QF3u3rCuI3AOlyB1UEqfLpTK7eyZmZu17NG621TxZcWs4OmB83FlzOVx3addApfyMeGdys1Qvmk1ijV/goT3+xS2NTDxuSZ07oY0MlgET0j+VQ0J1aNN9s8rThDWVCGiFUO5T9YGkkE7Gbx/1vinHs1gj1TKau8YLmZZYbCXehjyYXyS2ftK8qVlRnGf0cnqsautz61PngrBBTa2xGHUAFoJCN/9x91hHd4yaZDOyYceU252nDMn/1eq8tyKxXHdZ1OhwgrLvoWnsI+umwAic0rN+RG86F/GNGup46liG8IfEz/B+F9biObSz1lMHz9Y2LY8dulayeb2bfbY2gM5ig+kUQDyDvPh6Q5HzuNqz3UhdW94Bp2psqNC5rpTUvgH+9TA==;FLuN1rnlZ/xMUcvBUyZVUw=="

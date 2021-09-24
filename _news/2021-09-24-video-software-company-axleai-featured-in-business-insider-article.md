@@ -72,6 +72,20 @@ related:
         width: 300
         height: 225
         isCached: true
+  - title: "Three ways to maximize the business value of AI"
+    excerpt: "Don't get caught up in the AI hype, these three essential tips will enable you to rapidily deliver business value from your AI projects"
+    publishedDateTime: 2021-09-24T11:32:00Z
+    webUrl: "https://www.thoughtworks.com/insights/articles/three-ways-to-maximize-the-business-value-of-AI-and-ML"
+    type: article
+    provider:
+      name: ThoughtWorks
+      domain: thoughtworks.com
+    quality: 37
+    images:
+      - url: "https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/meta/insights/in_meta_articles.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Preparing for a future pandemic with artificial intelligence"
     excerpt: "When the novel coronavirus led to a global pandemic last year, doctors and researchers rushed to learn as much as possible about the virus and how our bodies respond to it."
     publishedDateTime: 2021-09-21T20:07:00Z
