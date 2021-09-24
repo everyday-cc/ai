@@ -6,7 +6,7 @@ publishedDateTime: 2021-09-24T03:08:00Z
 originalUrl: "https://www.gizmochina.com/2021/09/24/samsung-tesla-self-driving-chips/"
 webUrl: "https://www.gizmochina.com/2021/09/24/samsung-tesla-self-driving-chips/"
 type: article
-quality: 64
+quality: 81
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.gizmochina.com/wp-content/uploads/2020/01/samsung-logo.jpg"
@@ -298,6 +299,6 @@ related:
         height: 480
         isCached: true
 
-secured: "K14TYm4wKFjfE3n4CStRcZQnFZQUzg+cKh6zrS52nIMk2aFsK2ghws+JdFxcejYb8J3Um5/A8Uhd6UXb3ouWDiJDwaQ50YNnCkxSoZTD+uPhR2hq8OstHNndCqjt9Gtjf4371ncDU0Edl4UIhmecw1xvPoYlXfO1/+SotPgzsYd2CtoDNVHT2Ib5GjHSVDF/T3By+iaN+6HH9Glw3ADSysRmy8GP7VpvRa16cCTRZlj50G54HTUXMixHGhBzR4vhn6421+APeGx6tDpKajZcp2D/MAcRqRaTKXzUvtksErkQ1MsuL2c+7i4iR3gjzd4paZloP6KbUuRAmNfpneCdH5AUktjPDR0385aH+V5VzwI=;5VB5fxjRaAE/sEwd0Ft4bA=="
+secured: "L8Ru41FQ3sG58w51snk3rp7QsibNh2bWzVz8Kae/d7IPLivDK5AwtWXBUOJDADvtgsAzTK4rm9gv0zuBmjC3mjTmm3HOB1OIqqaqvREWE4cD08ZAQius+BqA4e40pCMTk1r22+WI1B+yn/h7F5onWxWQ7wV8xgt5g4+u/G9NtrBf9lG0Pb3OMBK/NjEqKu1/xxU5N49R/CK9gkm2dB2QBlU8smP00Zz9AlRfY0azKy4cgxRcLmPXIiC3hOaDv+xOZY257gNnnf5n2An2awctDi3FWEqIaPGcV+gWBJmYWHzZeMGaWb50mAAGovi6XWjNjBGTv6O1/acmi9diLlXKI/71VWbJfQdTVwFtw7SSSactCPcyZqLNoVyWufklF1/Qdsm28TbHMBIxLmSaCoCAO+Wc6BLC44kZVk5p5egzD7XkAZnRAS8TgN8a8HXduik7jQZ7JhtKqkNdqk1NaegPmiPdv0OXZ9+vShHE1siUzc0Hxa1aWdjoq8mfBUOFYBictdCI0WEQmsOJ/JW86xXAhw==;MzQslxFQ+9uVG3Ab1o4aLw=="
 ---
 

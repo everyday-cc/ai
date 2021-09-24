@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/9/23/22689349/android-fac
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://i.ytimg.com/vi/ItyAEbCIjCU/hqdefault.jpg"
         width: 480
         height: 360
+        isCached: true
+  - title: "Android New Facial Gesture Controls & Handwriting Recognition Features, Check How It Works"
+    excerpt: "Google has launched a lot of accessibility features for Android, including Android Facial Gesture navigation and Android Handwriting recognition feature."
+    publishedDateTime: 2021-09-24T03:59:00Z
+    webUrl: "https://www.republicworld.com/technology-news/mobile/android-new-facial-gesture-controls-and-handwriting-recognition-features-check-how-it-works.html"
+    ampWebUrl: "https://www.republicworld.com/amp/technology-news/mobile/android-new-facial-gesture-controls-and-handwriting-recognition-features-check-how-it-works.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/mobile/android-new-facial-gesture-controls-and-handwriting-recognition-features-check-how-it-works.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 34
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/6ol50ektyictzzac_1632454868.jpeg"
+        width: 768
+        height: 438
         isCached: true
 
 secured: "yvHxshaPgtTgokIENZDeFRVNsfkp42GOpbaCGSsNiuK58DBVRjZ2FSigaG/+DGJCdpJcZZQzF6GDQvLkMu62CkGy/jzGD45oavN+zTiBTmSBdnAw54nE3tYdVQRrVqtFxcqgqaFxxII3IWTCFVVUeoELnVahlWR7cWBLdl44FCQNNFNL03ZAkVUxYvxs9030kCwa+OTKbnNNdcspIRHonnfeKBMSDtBoSGu4LVSFCSwHrk9FgAgznmizRVLsLh4tKkNdtUjQUzPhuWYk7UYeh8vNIp/bW8Dv8lfJAUA4/43OUdCMEY36wjx56alrRrj5eNVtx1dXnexXmyIG0skPfA3kCI0RxE3ZtjlCi6g92lE=;WEPeOw4REXrrPDSpbKnMeA=="

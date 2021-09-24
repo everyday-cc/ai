@@ -63,7 +63,7 @@
       "originalUrl": "https://www.theverge.com/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1111,6 +1111,41 @@
       ]
     },
     {
+      "path": "_news/2021-09-14-descartes-labs-to-host-geoint-2021-training-workshop-on-creating-machine-learning-based-computer-vision-models-for-planetary-scale-data-analysis.md",
+      "title": "Descartes Labs to Host GEOINT 2021 Training Workshop on Creating Machine Learning-Based Computer Vision Models for Planetary Scale Data Analysis",
+      "excerpt": "The one-hour workshop, “Advanced Geospatial Analytics Utilizing Ever Increasing Geo Data with Computer Vision at Planetary Scale: Learn to Build and Deploy Machine Learning Models for Young Professionals to Senior Scientists,",
+      "sourceUrl": null,
+      "webUrl": "https://sensorsandsystems.com/descartes-labs-to-host-geoint-2021-training-workshop-on-creating-machine-learning-based-computer-vision-models-for-planetary-scale-data-analysis/",
+      "originalUrl": "https://sensorsandsystems.com/descartes-labs-to-host-geoint-2021-training-workshop-on-creating-machine-learning-based-computer-vision-models-for-planetary-scale-data-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "sensorsandsystems.com",
+        "domain": "sensorsandsystems.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-computer-vision-for-visual-effects.md",
       "title": "Computer Vision for Visual Effects",
       "excerpt": "These effects are made possible by research from the field of computer vision, the study of how to automatically understand images. Computer Vision for Visual Effects will educate students, engineers, and researchers about the fundamental computer vision ...",
@@ -1304,58 +1339,6 @@
         "name": "Foodbeast",
         "domain": "foodbeast.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-bidens-ftc-pick-is-a-privacy-champion-who-wants-limits-on-facial-recognition.md",
-      "title": "Biden’s FTC pick is a privacy champion who wants limits on facial recognition",
-      "excerpt": "President Joe Biden will reportedly nominate Georgetown law professor and privacy researcher Alvaro Bedoya to the Federal Trade Commission. Bedoya is the founding director of Georgetown Law's Center on Privacy & Technology,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2021/09/bidens-ftc-pick-is-a-privacy-champion-who-wants-limits-on-facial-recognition/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2021/09/bidens-ftc-pick-is-a-privacy-champion-who-wants-limits-on-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/getty-eye-scan-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

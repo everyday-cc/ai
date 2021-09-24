@@ -2,17 +2,21 @@
 category: news
 title: "Artificial intelligence may be set to reveal climate-change tipping points"
 excerpt: "Researchers are developing artificial intelligence that could assess climate change tipping points. The deep learning algorithm could act as an early warning system against runaway climate change."
-publishedDateTime: 2021-09-23T04:04:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/929279"
-webUrl: "https://www.eurekalert.org/news-releases/929279"
+publishedDateTime: 2021-09-23T14:53:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/09/210923082933.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/09/210923082933.htm"
 type: article
-quality: 15
-heat: -1
+quality: 45
+heat: 45
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -51,6 +55,6 @@ related:
         height: 382
         isCached: true
 
-secured: "WHEsTRkODZxqom9BHrQ0Mfy+LiFbOPZcwFuKf/6m+uuBLweWvKxcGian3O76UrCoJtZqakkWelxlBBize0sn7N5nMRBj2pdnLLj9eoGn0CLojZxvOK62KSKOOBFvb5/R6SlhcQuYazztiU7ATzXqS5oLDiJZa28PF7ptyFw0gobrwhDKHrNi3c9v4JUrHeem4mlGVvRrvuZw5uisuzG4S1eTdb3A0DLQJwhDAIPbs0mMDjXCOfPJArLm3ILYSoMXFi9R0+zp3+5nQn/dQgPCVCa4XKZIm7IQwOsYz2lVVMrTt8dtpRaRmnRD0hJ6RR3luBtpINQ99e48ZpkLm9yAKRka27DydR/H3VJNsKcoCc4=;AjCYNCkn08JKseKcEr77uA=="
+secured: "zKJ7R+xUbOqejJXB7DrLboHVE0GYEgjbtOMX+FMUt5qPaXDTrisz0xw6/iR0wyOqXZa+fKLSqLdw/R2EVFFCZXYUM1bvBZNTVtcEvO/1J9ETvPSayL86UGhIpG1v2yVrprkXxddB86e5rrnKV0K4E429XJT3x0tpr139pUFsazumcNtztjGZ5Y7SEp9O9sMTSvKJyElqTogtuVUTZahtcnnGGlxAe6tKgY+YpNiWj+tjlcKhMINKzaQyV9PP29rhs7fJLZsWrbRxmJ7WcRRmGXrbzGQBO3l1+rqeGsp0Y56XnLtOOlXT1AzKXbYTam4tkmLyDsmbgOmzO1RHcrTSTp9B94LJhypZegRlhUQBxn4=;7C6BM/8o4tLxwb1oZOTuaQ=="
 ---
 

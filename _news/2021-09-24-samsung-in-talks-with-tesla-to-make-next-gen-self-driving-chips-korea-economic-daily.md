@@ -58,6 +58,20 @@ related:
         width: 644
         height: 362
         isCached: true
+  - title: "Samsung in talks with Tesla for manufacturing next-generation self-driving chips"
+    excerpt: "Samsung Electronics is reportedly in talks with electric carmaker Tesla for the next-generation self-driving chips based on the South Korean giant’s 7-nanometer (7nm) chip production process, as per the new reports."
+    publishedDateTime: 2021-09-24T03:08:00Z
+    webUrl: "https://www.gizmochina.com/2021/09/24/samsung-tesla-self-driving-chips/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 81
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2020/01/samsung-logo.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "NTSB says Tesla’s Full Self-Driving beta is ‘misleading & irresponsible’ ahead of wider release"
     excerpt: "As Tesla is moving to release its Full Self-Driving beta software to its US fleet, the automaker is facing some pushbacks from US regulators. Now the NTSB is calling Tesla’s approach “misleading and irresponsible."
     publishedDateTime: 2021-09-20T13:08:00Z
@@ -133,20 +147,6 @@ related:
       - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2021/09/Samsung-Foundry_New-EUV-Line_main.jpg"
         width: 880
         height: 548
-        isCached: true
-  - title: "Samsung in talks with Tesla for manufacturing next-generation self-driving chips"
-    excerpt: "Samsung Electronics is reportedly in talks with electric carmaker Tesla for the next-generation self-driving chips based on the South Korean giant’s 7-nanometer (7nm) chip production process, as per the new reports."
-    publishedDateTime: 2021-09-24T03:08:00Z
-    webUrl: "https://www.gizmochina.com/2021/09/24/samsung-tesla-self-driving-chips/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 64
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2020/01/samsung-logo.jpg"
-        width: 1000
-        height: 500
         isCached: true
   - title: "Elon Musk only wants good drivers in Tesla's Full Self-Driving beta"
     excerpt: "It seems that Elon Musk is tired of San Francisco tech bros sleeping in the back seat of their Teslas with Autopilot enabled. He really wants good responsible drivers to test the car maker's Full Self-Driving (FSD) beta."

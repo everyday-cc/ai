@@ -18,9 +18,9 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
-  - AI
   - Computer Vision
+  - AI
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/09/deep-learning-cyber-threat-detection1.jpg?w=1200&strip=all"
@@ -28,6 +28,6 @@ images:
     height: 576
     isCached: true
 
-secured: "c8erGPVPOj2qR/EWuEfHs82OM7W5S6PaGEVd6t1epGJjQhhQaQYTb85Xx6Eq7+JJYUVIn9/vrJ3AErpbD2A8P99gGZZCsgkPgC/ejOpK+WXKqlJMBmXUZNYOKBvBAcaManlZQ86OIBCatX3E91yjb76qh8vRf/PwR/y4a/32dCDe7Q6GmfTbpC1gHo9akmN9PeQGlmBi2gtorZPgD/jWljRrV9MdBnpCaTpXvfZiNMSfaYCscSgafKmFbkmG5tjcaXPJ0qWkq6IsW4D/XZqxLgeBfVWjHYNALP15z8t5O2vEPUGQgtFTt5xnniUmhkWXCaZpvC7HpLX33zr0tShkkAplZCHVeuxtfITzpKJJdjpaX7wnMJmcCsCPi3ZQdtNJEjqFTnC+GONcMGUY8/6Ngj/XwSHIaXBs9r5abTeyseTLQt4+Isstqqn77MM6Jkp3CyKfUH3XwN5JD+Imr+HDd5vUPLd2tvQdo1D1oyotc5UM43eQwxAOO5YlibQejW2IvV0w22Oy1p0iINCikVXksA==;lM0UI0QT6m45BhkgDGzMGw=="
+secured: "mp0FOKqzhQK2rKS7cNZhnFe7z3B5+tciNY5iXlv7slKU18eBO8sGJybU/4wneExPCbPhekr7sJHY1xWwfFWaDLGbpmFP3LmxKnw0EUcYADNP03amMhZdy839N4Vu0mJfDMauKYZ37iJ1DOPku4dYgtt4JgbtqTZ4aWsPzwXkTPkwpZSNYzSt22S/bTEAk46+1wSD4WobY107VpbJdIdChOtxQw9IudKjofiYw4BuYmqz3SCLhpJzVYFEXw3ju5ETOttGCRAh4slr2NK72edeBYEvEnQvnlpFzqlXGuFN64Uzwy97NdheazjwOYdQoDm0wbauYeUagWmD0nAUCslh/bdKnpa1lufkwh3LDqynKAc=;rMZAH+Cm0l9Nkj8YAF8xtA=="
 ---
 

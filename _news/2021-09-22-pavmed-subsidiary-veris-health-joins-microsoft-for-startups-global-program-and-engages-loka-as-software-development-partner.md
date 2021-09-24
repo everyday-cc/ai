@@ -20,18 +20,18 @@ topics:
 
 related:
   - title: "PAVmed Subsidiary Veris Health Joins Microsoft for Startups Global Program and Engages Loka as Software Development Partner"
-    excerpt: "PAVmed Inc. (the \"Company\" or \"PAVmed\"), a highly differentiated, multi-product, commercial-stage medical technology company, today announced that its major subsidiary Veris Health Inc. (\"Veris\") has been accepted into Microsoft for Startups,"
-    publishedDateTime: 2021-09-21T13:41:00Z
-    webUrl: "https://www.lelezard.com/en/news-20007576.html"
+    excerpt: "PAVmed Inc. (Nasdaq: PAVM, PAVMZ) (the “Company” or “PAVmed”), a highly differentiated, multi-product, commercial-stage medical technology company, today announced that its major subsidiary Veris Health Inc."
+    publishedDateTime: 2021-09-21T13:32:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-software-software-development-cb70a2c9ba0645bbb76e0407b9f6e48a"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: Associated Press
+      domain: apnews.com
     quality: 13
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "nHAxn7cnowHSRf5J383Y8NpT1wh8qKkfc9R8E3KI/DIYFiif/qGyAEjmrSNTFZm/H3YRl2OoJaDpNV9K1KTt7gCHFiBPq2OD++sg3exAv7BXSlsAAi4njAXbqEn9qdQh6y3zepdXSK0yXX5TP1mx25oHkCPs3V79Z9esFwLfj62zaAWWZ8lU1Ht/b/m7LUkY7iJFeJPXu7FSO9pvfFwkVFD/YhYw/2RmSnI7sa9y0/RnmQds/5ZyV8LY/Qxhhd2S2pbuOgG3DW5sV6Q8cnsyOyJb62Iqeb095aF/tqqiH0xHFMFqHSzDpDsOk3N46uBjTCm6puQZAYWSW2+AClbtcfmDuNpyhWSNa4I2n8yNxcM=;ZJUrLJioYkZ8Y8xh7bDnkA=="

@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Self-driving tech co Aurora to test driverless delivery with FedEx"
-excerpt: "Self-driving technology company Aurora will begin piloting trucks loaded with its software this week to haul goods for U.S. package delivery firm FedEx Corp FDX.N between Dallas and Houston, albeit with a safety driver."
-publishedDateTime: 2021-09-22T15:34:00Z
-originalUrl: "https://www.nasdaq.com/articles/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex-2021-09-22"
-webUrl: "https://www.nasdaq.com/articles/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex-2021-09-22"
-ampWebUrl: "https://www.nasdaq.com/articles/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex-2021-09-22?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex-2021-09-22?amp"
+excerpt: "Self-driving technology company Aurora will begin piloting trucks loaded with its software this week to haul goods for U.S. package delivery firm FedEx Corp between Dallas and Houston, albeit with a safety driver."
+publishedDateTime: 2021-09-22T15:39:00Z
+originalUrl: "https://kfgo.com/2021/09/22/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex/"
+webUrl: "https://kfgo.com/2021/09/22/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex/"
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: KFGO
+  domain: kfgo.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://media.socastsrm.com/uploads/station/2105/fbShare.png?r=57822"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "FedEx to test Aurora’s self-driving trucks on Dallas-to-Houston route"
@@ -161,6 +165,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Aurora wants to power self-driving ride-share vehicles, and it’s testing them in Dallas"
+    excerpt: "Self-driving vehicle startup Aurora will soon begin testing its modified Toyota Sienna’s on Dallas roadways – but don’t expect to see driverless Uber"
+    publishedDateTime: 2021-09-23T19:50:00Z
+    webUrl: "https://www.dallasnews.com/business/technology/2021/09/23/aurora-wants-to-power-self-driving-rideshare-vehicles-and-its-testing-them-in-dallas/"
+    ampWebUrl: "https://www.dallasnews.com/business/technology/2021/09/23/aurora-wants-to-power-self-driving-rideshare-vehicles-and-its-testing-them-in-dallas/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2021/09/23/aurora-wants-to-power-self-driving-rideshare-vehicles-and-its-testing-them-in-dallas/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 36
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Ou_fV0ng3gp2i5r8-1OZ38oH0FA=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/3X3OVJQTKBFTLK4AQZ6YT3NHL4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Aurora Will Test Its Fleet of Self-Driving, Ride-Hailing Toyota Robotaxis in Dallas"
     excerpt: "AM\" hybrid electric minivans—short for \"Sienna Autonomo-MaaS\"—will be tested in a six-month pilot program in Dallas, Pittsburgh, the San Francisco Bay areal, and other locations. Aurora intends to deploy the vehicles on ride-hailing networks in late 2024."
     publishedDateTime: 2021-09-21T22:41:00Z
@@ -236,6 +256,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "3exwi/0oYpGFULhFreUIVF61uBYiP3h+dJ9n/65F2OdXLjYy/I6kN1s9qS8AdmADEaqAQFlo67ve5N8TChvU6Dj8HzaNtgYa5MU0yCZpVotRS+wj+KujiqTvWJRqZU87L9irK6Z6BZnI3aNZxOHtBHxhsRO7egIgaalGnSHr11jtc9DzJwB6asP+zNEvm1QEi4S10c1btJKG7z0DOPpGqKu+YGOKxG1rh7O3aspjd+ojSgXpUy0nXkNqsL5DIJyex5u/wXnH/sF8RZ1u5onn7KXaUFllChwqxH38kIFTxFMI6dmNHYIatgiab4CDHLlHh+ifw2kR4fSSgWlLUVgP0Nb33/mJsD2PrtCJEol0HYBVd7gahVJ4RsRbTvlGsv6rJxaFsnoR7yCMMfk/5M+7QXdLsIn+ea+MecEPkplvYmwgR8GikTkhm2uTIclD3vQU2MTA+sSPGExjAdnbHlBWIjLyyOmLYgoWZd8jksNUZO3jf8GsD2jMknuxmh5+rlVtGcL3EnNlE3jHlTohL+CdEQ==;Rjxu93QgxT5iPTq3Z02yaQ=="
+secured: "7mwSusa3VPHaZ3XQSeLW3AJ1IN81QhTYTAkkk1ikTCOQRQwG2aOyxDYgzMCrSrB8DwNA3ebqiioMudxb+EfNQCgp3L8bo9kXtXpmyJbvy5ucV3hW5PNzL9YElkxRu7V8536W3h4IycLYvGvgoxdmBqAM7XlCiigJ8E92rwapUDNUOdr/Y2Lt2J/vN51GvGMi/7zrWvRl3BY940cW6b3g5obWg7+lULwC8dNcpYPsuyG2otDZxReaoFrvBi6NawPuoNWikW1TC+72LwWILKHm/uaRulNe1MRHUro4jo1i3ap2x1UzrU9xxgZUd/c5v9rWMeCmJTmw/ZTsFpJO4mKx9tuYy3aHmKvFbij8LbiDYL8=;nbIrmnfvzF62VbwwgRWCSg=="
 ---
 

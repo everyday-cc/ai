@@ -158,7 +158,7 @@
       "originalUrl": "https://techcrunch.com/2021/09/22/fedex-to-test-auroras-self-driving-trucks-on-dallas-to-houston-route/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -564,6 +564,58 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-17-tesla-will-make-sure-you-are-a-good-driver-before-giving-you-access-to-full-self-driving-beta.md",
+      "title": "Tesla will make sure you are a good driver before giving you access to Full Self-Driving Beta",
+      "excerpt": "Elon Musk said that Tesla will use its telemetry data to make sure customers are “good” drivers before allowing them to access its Full Self-Driving Beta software. This is a tricky situation since those customers already paid for the software.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/09/17/tesla-make-sure-good-driver-before-giving-access-full-self-driving-beta/",
+      "originalUrl": "https://electrek.co/2021/09/17/tesla-make-sure-good-driver-before-giving-access-full-self-driving-beta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/09/17/tesla-make-sure-good-driver-before-giving-access-full-self-driving-beta/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/17/tesla-make-sure-good-driver-before-giving-access-full-self-driving-beta/amp/",
+      "publishedDateTime": "2021-09-17T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1357,49 +1409,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-11-dubai-eyes-the-future-with-self-driving-cabs.md",
-      "title": "Dubai eyes the future with self-driving cabs",
-      "excerpt": "Hamdan Mohammed announces RTA Dubai has signed an agreement with General Motors Co’s Cruise self-driving car subsidiary to operate its autonomous vehicles in Dubai starting in 2023, adding that the self-driving fleet will reach 4,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/saudi-arabia/en/business/story/Dubai_eyes_the_future_with_selfdriving_cabs-SNG_241845934/",
-      "originalUrl": "https://www.zawya.com/saudi-arabia/en/business/story/Dubai_eyes_the_future_with_selfdriving_cabs-SNG_241845934/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/images/cia/zAmp/210412111336ZRVZ.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/saudi-arabia/en/story/amp/SNG_241845934/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/SNG_241845934/",
-      "publishedDateTime": "2021-09-10T22:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

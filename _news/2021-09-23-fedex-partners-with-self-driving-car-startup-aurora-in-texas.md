@@ -42,17 +42,6 @@ related:
         height: 573
         isCached: true
   - title: "Self-driving tech co Aurora to test driverless delivery with FedEx"
-    excerpt: "Self-driving technology company Aurora will begin piloting trucks loaded with its software this week to haul goods for U.S. package delivery firm FedEx Corp FDX.N between Dallas and Houston, albeit with a safety driver."
-    publishedDateTime: 2021-09-22T15:34:00Z
-    webUrl: "https://www.nasdaq.com/articles/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex-2021-09-22"
-    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex-2021-09-22?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex-2021-09-22?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "Self-driving tech co Aurora to test driverless delivery with FedEx"
     excerpt: "Aurora, which is led by former heads of self-driving programs at Google, Uber and Tesla Inc, added on Wednesday it is aiming for trucks without a safety driver by late 2023."
     publishedDateTime: 2021-09-23T06:38:00Z
     webUrl: "https://www.thehindu.com/sci-tech/technology/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex/article36623586.ece"
@@ -130,6 +119,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Self-driving tech co Aurora to test driverless delivery with FedEx"
+    excerpt: "Self-driving technology company Aurora will begin piloting trucks loaded with its software this week to haul goods for U.S. package delivery firm FedEx Corp between Dallas and Houston, albeit with a safety driver."
+    publishedDateTime: 2021-09-22T15:39:00Z
+    webUrl: "https://kfgo.com/2021/09/22/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex/"
+    type: article
+    provider:
+      name: KFGO
+      domain: kfgo.com
+    quality: 39
+    images:
+      - url: "https://media.socastsrm.com/uploads/station/2105/fbShare.png?r=57822"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Trucks Want Self-Driving Tech, Too. Paccar and FedEx’s New Partnership Shows Why."
     excerpt: "Self-driving trucks are hitting U.S. roads as Paccar and FedEx launch a pilot program with autonomous driving technology company Aurora."
     publishedDateTime: 2021-09-22T16:53:00Z
@@ -171,6 +174,22 @@ related:
       name: Dallas Morning News
       domain: dallasnews.com
     quality: 37
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Ou_fV0ng3gp2i5r8-1OZ38oH0FA=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/3X3OVJQTKBFTLK4AQZ6YT3NHL4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Aurora wants to power self-driving ride-share vehicles, and it’s testing them in Dallas"
+    excerpt: "Self-driving vehicle startup Aurora will soon begin testing its modified Toyota Sienna’s on Dallas roadways – but don’t expect to see driverless Uber"
+    publishedDateTime: 2021-09-23T19:50:00Z
+    webUrl: "https://www.dallasnews.com/business/technology/2021/09/23/aurora-wants-to-power-self-driving-rideshare-vehicles-and-its-testing-them-in-dallas/"
+    ampWebUrl: "https://www.dallasnews.com/business/technology/2021/09/23/aurora-wants-to-power-self-driving-rideshare-vehicles-and-its-testing-them-in-dallas/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2021/09/23/aurora-wants-to-power-self-driving-rideshare-vehicles-and-its-testing-them-in-dallas/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 36
     images:
       - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Ou_fV0ng3gp2i5r8-1OZ38oH0FA=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/3X3OVJQTKBFTLK4AQZ6YT3NHL4.jpg"
         width: 1200

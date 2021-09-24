@@ -47,6 +47,22 @@ related:
         width: 1284
         height: 856
         isCached: true
+  - title: "Android New Facial Gesture Controls & Handwriting Recognition Features, Check How It Works"
+    excerpt: "Google has launched a lot of accessibility features for Android, including Android Facial Gesture navigation and Android Handwriting recognition feature."
+    publishedDateTime: 2021-09-24T03:59:00Z
+    webUrl: "https://www.republicworld.com/technology-news/mobile/android-new-facial-gesture-controls-and-handwriting-recognition-features-check-how-it-works.html"
+    ampWebUrl: "https://www.republicworld.com/amp/technology-news/mobile/android-new-facial-gesture-controls-and-handwriting-recognition-features-check-how-it-works.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/mobile/android-new-facial-gesture-controls-and-handwriting-recognition-features-check-how-it-works.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 34
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/6ol50ektyictzzac_1632454868.jpeg"
+        width: 768
+        height: 438
+        isCached: true
 
 secured: "Y1QX7LEzIeTtDohaBb3SQi4WsqCrHqquASYDUaZssQ+yKHot1YkrJUqwIU8/Sp3kBc8f7trRyTxmWZg4jZWMvu9Bl2W/0orK6tgeW4Wn02Pq9Y/U+n0Y1fxhixv1atueSshJUdfl3beHnYk8FUB0KgO3J/wYlP7GNcJ/rhCWvZhaTmdq2Xedx7I2hVGno/EG6kZrjsaExsXAlSlo+o6cjGNJhSDCi2hZZJUjmcZZz23tXenPnWclEa3jAghASvy5cfITy8zrbJzsZRgot8lcV00uRKTX0tgqC6UunY1wcdgtYucI7bImukwzYqUuvDqZZFK34aCJnbWRtk7dh7VL1Es+9IoAk6MDO62J56U6p10=;+BOfs1jnsH+uFlysSALm6A=="
 ---
