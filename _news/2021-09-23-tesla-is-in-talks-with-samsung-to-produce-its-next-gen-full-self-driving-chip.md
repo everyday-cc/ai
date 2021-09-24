@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-g
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/amp/"
 type: article
 quality: 103
-heat: 273
+heat: 283
 published: true
 
 provider:
@@ -123,6 +123,20 @@ related:
       - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2021/09/Samsung-Foundry_New-EUV-Line_main.jpg"
         width: 880
         height: 548
+        isCached: true
+  - title: "Samsung in talks with Tesla for manufacturing next-generation self-driving chips"
+    excerpt: "Samsung Electronics is reportedly in talks with electric carmaker Tesla for the next-generation self-driving chips based on the South Korean giant’s 7-nanometer (7nm) chip production process, as per the new reports."
+    publishedDateTime: 2021-09-24T03:08:00Z
+    webUrl: "https://www.gizmochina.com/2021/09/24/samsung-tesla-self-driving-chips/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 64
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2020/01/samsung-logo.jpg"
+        width: 1000
+        height: 500
         isCached: true
   - title: "Samsung in talks with Tesla to make next-gen self-driving chips -Korea Economic Daily"
     excerpt: "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday. Since the beginning of this year,"

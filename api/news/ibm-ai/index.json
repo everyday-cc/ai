@@ -261,6 +261,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-11-ibm-adds-ai-and-automation-to-watson-assistant.md",
+      "title": "IBM Adds AI and Automation to Watson Assistant",
+      "excerpt": "IBM has added artificial intelligence and automation capabilities in IBM Watson Assistant to help businesses create enhanced customer service experiences across any channel, including phone, web, SMS, and messaging platforms. These new features in Watson ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=148928",
+      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=148928",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/139856-0921_WFO_480x610-ORG.png",
+          "width": 480,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-10T12:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-11-ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service.md",
       "title": "IBM Watson Launches New AI and Automation Features to Help Businesses Transform Customer Service",
       "excerpt": "IBM is adding new features in Watson Assistant, the company's intelligent virtual agent, to help businesses leverage AI and NLP to address customer issues on first contact. Watson Assistant is ...",
@@ -1310,58 +1353,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-sd-times-open-source-project-of-the-week-codeflare.md",
-      "title": "SD Times Open-Source Project of the Week: CodeFlare",
-      "excerpt": "CodeFlare is IBM’s open-source framework that simplifies the integration and scaling of big data and AI workflows onto the ... research at I.B.M.’s T.J. Watson Research Center, respectively ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/sd-times-open-source-project-of-the-week-codeflare/",
-      "originalUrl": "https://sdtimes.com/ai/sd-times-open-source-project-of-the-week-codeflare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-13-at-8.04.43-AM.png",
-          "width": 1744,
-          "height": 984,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-13T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

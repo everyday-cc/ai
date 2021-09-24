@@ -2,6 +2,83 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-09-13-with-intels-help-community-college-students-can-earn-degree-in-ai.md",
+      "title": "With Intel’s Help, Community College Students Can Earn Degree in AI",
+      "excerpt": "The need for AI technology in the workforce, across several industries, is critical for U.S. economic growth,” Pat Gelsinger, Intel CEO said announcing a program expansion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.industryweek.com/talent/article/21175122/with-intels-help-community-college-students-can-earn-degree-in-ai",
+      "originalUrl": "https://www.industryweek.com/talent/article/21175122/with-intels-help-community-college-students-can-earn-degree-in-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IndustryWeek",
+        "domain": "industryweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-artificial-intelligence-in-transportation-market-will-grow-exponentially-due-to-adoption-of-smart-mobility.md",
+      "title": "Artificial Intelligence In Transportation Market Will Grow Exponentially Due To Adoption Of Smart Mobility",
+      "excerpt": "Also, the wide utility of semi-autonomous and self-driven automotive is likely to steer the growth of the global artificial intelligence in transportation market. However, the surging adoption of dockless bikes,",
+      "sourceUrl": null,
+      "webUrl": "https://galusaustralis.com/43/artificial-intelligence-in-transportation-market-will-grow-exponentially-due-to-adoption-of-smart-mobility/",
+      "originalUrl": "https://galusaustralis.com/43/artificial-intelligence-in-transportation-market-will-grow-exponentially-due-to-adoption-of-smart-mobility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://galusaustralis.com/wp-content/uploads/2021/09/Commercial-Artificial-Intelligence-Robots-300x225.jpg",
+          "width": 300,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "galusaustralis.com",
+        "domain": "galusaustralis.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-13-whatsapp-likely-to-launch-voice-transcription-feature-that-converts-voice-notes-to-text.md",
       "title": "WhatsApp Likely To Launch ‘Voice Transcription’ Feature That Converts Voice Notes To Text",
       "excerpt": "The WABetaInfo publication also stated that the transcribes messages notes will not be sent to any Whatsapp or Facebook servers for transcription, but will solely rely on the phone speech recognition tool.",
@@ -999,83 +1076,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-11-low-code-platform-mendix-reveals-platform-enhancements-for-digital-economy.md",
-      "title": "Low-Code Platform Mendix Reveals Platform Enhancements for Digital Economy",
-      "excerpt": "At Mendix World 2021, a virtual assembly of low-coders, Mendix, a Siemens business and industry leader in low-code app development for the enterprise, reveal their “robust” platform enhancements that will “accelerate delivery of high-value solutions for the digital-first economy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/09/180106-low-code-platform-mendix-reveals-platform-enhancements-for-digital-economy/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/09/180106-low-code-platform-mendix-reveals-platform-enhancements-for-digital-economy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/Computer-Code-Develop-Work-Software-300x225.jpg",
-          "width": 300,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/09/180106-low-code-platform-mendix-reveals-platform-enhancements-for-digital-economy/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/09/180106-low-code-platform-mendix-reveals-platform-enhancements-for-digital-economy/amp/",
-      "publishedDateTime": "2021-09-11T05:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-11-weekly-bytes-nasa-to-launch-most-powerful-space-telescope-ibm-watson-gets-new-ai-capabilities-and-more.md",
-      "title": "Weekly Bytes | NASA to launch most powerful space telescope, IBM Watson gets new AI capabilities, and more",
-      "excerpt": "NASA on Wednesday said it plans to launch the James Webb Space Telescope (JWST) into orbit on December 18, 2021, to serve as the premier deep space observatory for the next decade. “The Webb telescope’s revolutionary technology will explore every phase of cosmic history – from within our solar system to the most distant observable galaxies in the early universe,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/weekly-bytes-nasa-to-launch-most-powerful-space-telescope-ibm-watson-gets-new-ai-capabilities-and-more/article36399158.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/weekly-bytes-nasa-to-launch-most-powerful-space-telescope-ibm-watson-gets-new-ai-capabilities-and-more/article36399158.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-11T02:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

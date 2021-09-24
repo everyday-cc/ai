@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 1015
         isCached: true
+  - title: "Models, Learning, and Inference"
+    excerpt: "Experience the eBook and the associated online resources on our new Higher Education website. This modern treatment of computer vision focuses on learning and inference in probabilistic models as a unifying theme. It shows how to use training data to learn ..."
+    publishedDateTime: 2021-09-21T08:56:00Z
+    webUrl: "https://www.cambridge.org/iq/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/computer-vision-models-learning-and-inference"
+    type: article
+    provider:
+      name: Cambridge University Press
+      domain: cambridge.org
+    quality: 4
 
 secured: "47d9AXuEZqWJgtVt3dk3TEpmx82ze+v7PH9y3klMvQtcp7NJG8utgoHIlkrp7Js7RUNEKsWR7FktLxYvHH+2cJxdxi5NKkEiHv181Ne7lgdCBVn0XwbFHUK6/A9mNsvaJKjWoVtMCMGTZe5/ZuxC+Tpyw47LPFK9Or4In4GdohWLkbCR+3/AfF+sjOMd/TjCGKQmXX0rZRGYSKpk032JGeRUOrGWHd9g5d68jQjmUpRP1bvX+Vi2lJh6K/czwgb6vkOQxoG1oWHemZ+97MU3Zp2a/C3VMo/fdEyqkIBHWUre2MUrKmsJbtrwGduNLdx9BzbtnKDIKDY/LMnmoyM/U0LkI7VDJSRqRcpdmMspw6lrkL8nlOonAtTdrwEXr26PpS6haMtIW0vZEbcfp/wpi5O8Kd/4qB05yVJbeyO9I1BmPOwz21DWScOROW9h+x+F2YSVaQ08e2FjHgEwx6oqa1e6JKk3J+BWQCU9PTTezFhD7uV7VR8WYGKIdN8Nj3J7tDMk1hBQxeolxJBvzYX9eQ==;tPSOT0XCjmHHoMxz9SzuaA=="
 ---

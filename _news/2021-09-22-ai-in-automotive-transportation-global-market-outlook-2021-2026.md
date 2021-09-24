@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/23046975"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23046975"
 type: article
 quality: 59
-heat: 99
+heat: 119
 published: true
 
 provider:
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "AI in Fintech Market Size, Strategies, Competitive Landscape, Trends & Factor Analysis, 2020–2026"
+    excerpt: "The global  Market is forecast to reach USD 26.77 Billion by 2026, according to a new report by Reports and Data. The AI in fintech incorporates computational power and deep learning algorithms to the financial technology."
+    publishedDateTime: 2021-09-22T14:53:00Z
+    webUrl: "https://manometcurrent.com/ai-in-fintech-market-size-strategies-competitive-landscape-trends-factor-analysis-2020-2026/"
+    ampWebUrl: "https://manometcurrent.com/ai-in-fintech-market-size-strategies-competitive-landscape-trends-factor-analysis-2020-2026/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-fintech-market-size-strategies-competitive-landscape-trends-factor-analysis-2020-2026/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 46
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/09/4-68.jpg"
+        width: 750
+        height: 350
+        isCached: true
+  - title: "Neural Network Software Market Size, Regional Trends and Opportunities, Revenue Analysis, For 2020–2026"
+    excerpt: "The global neural network software market is forecast to reach USD 97.11 Billion by 2026, according to a new report by Reports and Data. The neural network software distinguish the subtle nonlinear interdependencies with individual patterns of data and self-learn to produce complex decisions without being programmed."
+    publishedDateTime: 2021-09-22T14:57:00Z
+    webUrl: "https://manometcurrent.com/neural-network-software-market-size-regional-trends-and-opportunities-revenue-analysis-for-2020-2026/"
+    ampWebUrl: "https://manometcurrent.com/neural-network-software-market-size-regional-trends-and-opportunities-revenue-analysis-for-2020-2026/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/neural-network-software-market-size-regional-trends-and-opportunities-revenue-analysis-for-2020-2026/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 43
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/09/6-19.jpg"
+        width: 750
+        height: 350
+        isCached: true
   - title: "Artificial Intelligence Market Report 2021, Share, Size, Trends and Forecast 2026"
     excerpt: "According to IMARC Group's latest report, titled“  Artificial Intelligence Market  : Industry Trends, Share, Size, Growth, Opportuni"
     publishedDateTime: 2021-09-21T03:38:00Z

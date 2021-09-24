@@ -2,6 +2,83 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-09-11-low-code-platform-mendix-reveals-platform-enhancements-for-digital-economy.md",
+      "title": "Low-Code Platform Mendix Reveals Platform Enhancements for Digital Economy",
+      "excerpt": "At Mendix World 2021, a virtual assembly of low-coders, Mendix, a Siemens business and industry leader in low-code app development for the enterprise, reveal their “robust” platform enhancements that will “accelerate delivery of high-value solutions for the digital-first economy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/09/180106-low-code-platform-mendix-reveals-platform-enhancements-for-digital-economy/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/09/180106-low-code-platform-mendix-reveals-platform-enhancements-for-digital-economy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/Computer-Code-Develop-Work-Software-300x225.jpg",
+          "width": 300,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/09/180106-low-code-platform-mendix-reveals-platform-enhancements-for-digital-economy/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/09/180106-low-code-platform-mendix-reveals-platform-enhancements-for-digital-economy/amp/",
+      "publishedDateTime": "2021-09-11T05:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-11-weekly-bytes-nasa-to-launch-most-powerful-space-telescope-ibm-watson-gets-new-ai-capabilities-and-more.md",
+      "title": "Weekly Bytes | NASA to launch most powerful space telescope, IBM Watson gets new AI capabilities, and more",
+      "excerpt": "NASA on Wednesday said it plans to launch the James Webb Space Telescope (JWST) into orbit on December 18, 2021, to serve as the premier deep space observatory for the next decade. “The Webb telescope’s revolutionary technology will explore every phase of cosmic history – from within our solar system to the most distant observable galaxies in the early universe,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/weekly-bytes-nasa-to-launch-most-powerful-space-telescope-ibm-watson-gets-new-ai-capabilities-and-more/article36399158.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/weekly-bytes-nasa-to-launch-most-powerful-space-telescope-ibm-watson-gets-new-ai-capabilities-and-more/article36399158.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-11T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-11-dubai-eyes-the-future-with-self-driving-cabs.md",
       "title": "Dubai eyes the future with self-driving cabs",
       "excerpt": "Hamdan Mohammed announces RTA Dubai has signed an agreement with General Motors Co’s Cruise self-driving car subsidiary to operate its autonomous vehicles in Dubai starting in 2023, adding that the self-driving fleet will reach 4,",
@@ -187,6 +264,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-11-ibm-adds-ai-and-automation-to-watson-assistant.md",
+      "title": "IBM Adds AI and Automation to Watson Assistant",
+      "excerpt": "IBM has added artificial intelligence and automation capabilities in IBM Watson Assistant to help businesses create enhanced customer service experiences across any channel, including phone, web, SMS, and messaging platforms. These new features in Watson ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=148928",
+      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=148928",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/139856-0921_WFO_480x610-ORG.png",
+          "width": 480,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-10T12:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -1052,144 +1172,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-aws-bringing-two-new-advanced-statistics-to-german-bundesliga-broadcasts-for-upcoming-season.md",
-      "title": "AWS bringing two new advanced statistics to German Bundesliga broadcasts for upcoming season",
-      "excerpt": "Amazon Web Services is rolling out two new Match Facts for the German Bundesliga during the 2021–22 season, bringing new advanced statistics to the game broadcasts and the official Bundesliga app. The two new statistics -- Shot Efficiency and Passing Profile -- will provide fans with deeper insights into the number of goals a player or team should have scored based on the quality of their chances as well as information on the pass quality of a player or an entire team.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/aws-bringing-two-new-advanced-statistics-to-german-bundesliga-broadcasts-for-upcoming-season/",
-      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/aws-bringing-two-new-advanced-statistics-to-german-bundesliga-broadcasts-for-upcoming-season/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/09/10/2f3deb22-3626-4413-b5b9-0f5b2bf4a2ac/bmf-passprofiles-2clubs-5.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/aws-bringing-two-new-advanced-statistics-to-german-bundesliga-broadcasts-for-upcoming-season/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/aws-bringing-two-new-advanced-statistics-to-german-bundesliga-broadcasts-for-upcoming-season/",
-      "publishedDateTime": "2021-09-09T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-ibm-adds-ai-and-automation-to-watson-assistant.md",
-      "title": "IBM Adds AI and Automation to Watson Assistant",
-      "excerpt": "New capabilities in IBM Watson Assistant include enhanced search, transcription, and agent hand-off tools and an integration with IntelePeer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/IBM-Adds-AI-and-Automation-to-Watson-Assistant-148928.aspx",
-      "originalUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/IBM-Adds-AI-and-Automation-to-Watson-Assistant-148928.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/139856-0921_WFO_480x610-ORG.png",
-          "width": 480,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-agile-robots-announces-the-completion-of-series-c-financing-led-by-softbank-vision-fund-2.md",
-      "title": "AGILE ROBOTS announces the completion of Series C financing led by SoftBank Vision Fund 2",
-      "excerpt": "Agile Robots, a leading intelligent robotics company, has recently announced the completion of a Series C financing with a total investment of US$220 million. The financing exercise is led by SoftBank Vision Fund 2*,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-health-china-beijing-cb84803ca1add151f0b84e73a4ad8914",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-health-china-beijing-cb84803ca1add151f0b84e73a4ad8914",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T20:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
