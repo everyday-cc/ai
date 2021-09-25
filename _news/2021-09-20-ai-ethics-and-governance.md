@@ -7,8 +7,8 @@ originalUrl: "https://www.softwaretestingnews.co.uk/ai-ethics-and-governance/"
 webUrl: "https://www.softwaretestingnews.co.uk/ai-ethics-and-governance/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: softwaretestingnews.co.uk
@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s Former AI Ethics Chief Has a Plan to Rethink Big Tech"
-    excerpt: "Timnit Gebru says regulators need to provide whistleblowers working on artificial intelligence with fresh protections backed up by tough enforcement."
-    publishedDateTime: 2021-09-20T08:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-09-20/timnit-gebru-former-google-ai-ethics-chief-has-plan-to-rethink-big-tech"
+  - title: "Thoughts on AI ethics getting concrete and useful"
+    excerpt: "A new paper offers a solid accounting of tools that makers and end users can employ to better ensure algorithms are ethically sourced, developed and deployed."
+    publishedDateTime: 2021-09-24T16:25:00Z
+    webUrl: "https://www.biometricupdate.com/202109/thoughts-on-ai-ethics-getting-concrete-and-useful"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL1NzztKqF84/v0/1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence and Ethics"
-    excerpt: "Sixty-six years later, we are in a situation where Artificial Intelligence is ubiquitous, and many aspects of people’s lives are influenced by decisions made using AI systems or based on analysis made by it. As the term AI is widely used, continuing its ..."
-    publishedDateTime: 2021-09-22T15:22:00Z
-    webUrl: "https://www.qmul.ac.uk/gpi/news-and-events/news/artificial-intelligence-and-ethics.html"
-    type: article
-    provider:
-      name: Queen Mary University of London
-      domain: qmul.ac.uk
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 54
     images:
-      - url: "https://www.qmul.ac.uk/gpi/media/qmul/media/images2/tech-lines-picture-id1299185544.jpg"
-        width: 1050
-        height: 398
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Philosophers focus on AI ethics"
     excerpt: "A new interdisciplinary initiative at Western is putting a human-interest twist on artificial intelligence (AI). Three postdoctoral associates are bringing their unique backgrounds and research interests to the classroom this year to help students better understand assumptions that underlie the use of AI and ethical conflicts posed by its use."

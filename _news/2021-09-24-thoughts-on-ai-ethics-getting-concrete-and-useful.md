@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202109/thoughts-on-ai-ethics-getti
 webUrl: "https://www.biometricupdate.com/202109/thoughts-on-ai-ethics-getting-concrete-and-useful"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Marine Corps gets smart on Artificial Intelligence"
-    excerpt: "Senior Marine leaders from Marine Corps Recruiting Command and Manpower and Reserve Affairs visited Johns Hopkins University Applied Physics Laboratory research facility to learn about artificial intelligence programs on Sept."
-    publishedDateTime: 2021-09-22T00:00:00Z
-    webUrl: "https://www.dvidshub.net/news/405977/marine-corps-gets-smart-artificial-intelligence"
+  - title: "AI Ethics and Governance"
+    excerpt: "In the year 2020, the global AI community – spanning across several alliances and borders – started accelerating discussion and agreements on how to envision and enforce them in existing and future AI technologies."
+    publishedDateTime: 2021-09-20T10:43:00Z
+    webUrl: "https://www.softwaretestingnews.co.uk/ai-ethics-and-governance/"
     type: article
     provider:
-      name: DVIDSHub
-      domain: dvidshub.net
-    quality: 17
+      name: softwaretestingnews.co.uk
+      domain: softwaretestingnews.co.uk
+    quality: 54
+    images:
+      - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/08/Website-1024x585.jpg"
+        width: 1024
+        height: 585
+        isCached: true
+  - title: "Philosophers focus on AI ethics"
+    excerpt: "A new interdisciplinary initiative at Western is putting a human-interest twist on artificial intelligence (AI). Three postdoctoral associates are bringing their unique backgrounds and research interests to the classroom this year to help students better understand assumptions that underlie the use of AI and ethical conflicts posed by its use."
+    publishedDateTime: 2021-09-21T20:10:00Z
+    webUrl: "https://news.westernu.ca/2021/09/philosophers-focus-on-ai-ethics/"
+    type: article
+    provider:
+      name: westernu.ca
+      domain: westernu.ca
+    quality: 34
 
 secured: "ul6Xu6xdZzTw43IPKyPlqId0u4PCIa7B0Gxo6dkZVBOJbHjLlQSDJHPSTmyavjAO5Wf5YuAW7DSqc1WF0O+yCLa4AYooK5/+MmuiWoUD7l+7q6iUYyB8s7W8BvH5lH34SemFZe3yUB8riQW+nmj3+zFUpJB02k5/3viNB6GSVf0IzsKrcBZO8iXfLpPwX9DumIROguo0EQSu14geExsSRGrdLY6px8phFmPP9rzHFkk7MBv8VrcDdtt568B5fuqkmsuwMDKVMVa8Vw+k+vgwcQjaGJqQFz32uCU9xdoSKf8ZpdtSAXb9WtMUx9pToi31RhlwVRiDE3IbNQD9dV+pcPxSxiAvqh0zeJjSnfLfDQfiXBf5rscNWQ05tTjzEjBXurjfclNULQ3W5JFgHIoJgmfx7FkiFk8oKZhF+ZlsDixE8pLBbqDhEKX2GhwbKy3uwUhYlSyWcoil9sOtah8mZYbODo30udkd0gfJ2oG1zzDtLv0uKuTFFhHsj//377gpETn8G+qc9vurbw2OsZl1rg==;3pqSJaiKcMgetMtIe1hT/Q=="
 ---

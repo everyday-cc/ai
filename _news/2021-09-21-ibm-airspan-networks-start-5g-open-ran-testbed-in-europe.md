@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "IBM, Airspan Collaborate to Launch 5G-enabled Open RAN Testbed"
-    excerpt: "IBM and Airspan Networks announced plans to collaborate on the launch of a 5G-enabled Open RAN testbed across the IBM Watson"
-    publishedDateTime: 2021-09-22T00:41:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/20859-ibm-airspan-collaborate-to-launch-5g-enabled-open-ran-testbed"
+  - title: "Technion rated #1 in artificial intelligence in Europe"
+    excerpt: "Israel's leading tech institution, the Technion, has been rated the number one institute in leading European machine-learning research in a rating by CSRankings."
+    publishedDateTime: 2021-09-25T01:51:00Z
+    webUrl: "https://www.jpost.com/israel-news/technion-rated-1-in-artificial-intelligence-in-europe-680257"
+    ampWebUrl: "https://m.jpost.com/israel-news/technion-rated-1-in-artificial-intelligence-in-europe-680257/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/israel-news/technion-rated-1-in-artificial-intelligence-in-europe-680257/amp"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 39
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 59
     images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/45fb7d688f7fe08116a77c2f42cca5f0.jpg?t=20210922_003855"
-        width: 752
-        height: 408
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/439234"
+        width: 640
+        height: 428
         isCached: true
   - title: "IBM and Airspan Networks Plan to Work to Accelerate 5G-enabled Open RAN Adoption in Europe"
     excerpt: "Via IBM and Airspan’s planned testbed in Germany and France, European telco customers would have ability to trial edge applications and network slicing over long distances using 5G-enabled Open RAN The goal of developing this testbed is to help clients across Europe innovate and develop multi-vendor solutions designed to address different customer use case requirements,"

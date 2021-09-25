@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-the-aws-cloud-fo
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-the-aws-cloud-for-observational-life-sciences-studies/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1071
     height: 630
     isCached: true
-
-related:
-  - title: "Case studies: Adopting Amazon Web Services (AWS) for success"
-    excerpt: "Three small case studies of UK businesses/organisations help demonstrate how adopting AWS can help bring success in the form of scalability."
-    publishedDateTime: 2021-09-20T07:36:00Z
-    webUrl: "https://www.digitaljournal.com/business/case-studies-adopting-amazon-web-services-aws-for-success/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 54
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/Tim-Sandle-Laptop.jpg"
-        width: 700
-        height: 631
-        isCached: true
 
 secured: "BQB/w/5WhgIlfWmiVbpi//HcPWZvDVIPnh4/dru5JbRnOZXN7sMF5T/IssOonjhQyhaOOwAZHuqG+mF8OccB8S/rSXHEI7dIJU93GbdWUYZnI6qgvNcFsCrr3dmqNBfJQI+VJpXSNY1TWRHiMglWmXKCiL791gT5keCLprUCJ80CwqhAftlgZ7nE0B0xTtwYEB+Y/8b1Vt17fnYiPvnzEtK1dXPK9e+dfn9c8gAO2KOKN5Wh7m7E58z8DSKAatzyv1hC6FNXIRHJvxhE35swfGhSmZUyfn4jxd62iRoZ1FAR/1ro6Ad7SPwg6WM5IJuGPW/wwbrN+zzT2p5liznYTTFXMUTGgSIb40JX4bvqU2I=;qjrwY49LGXwRUaUwFkZf/Q=="
 ---
