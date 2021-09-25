@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/5-hot-ai-stocks-to-watch-in-the-stoc
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-hot-ai-stocks-to-watch-in-the-stock-market-this-week-2021-09-21?amp"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -21,6 +21,20 @@ topics:
   - IBM AI
 
 related:
+  - title: "These cheap artificial intelligence stocks will make you rich"
+    excerpt: "Investments in 2021 will be quite beneficial if you can get these cheapest stocks of artificial intelligence. Here is a list of the cheapest artificial intelligence stocks."
+    publishedDateTime: 2021-09-25T08:30:00Z
+    webUrl: "https://www.analyticsinsight.net/top-cheapest-artificial-intelligence-stocks-with-big-prospects-in-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/AI-stocks.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
   - title: "This AI startup thinks it can help workers get on the path to promotion"
     excerpt: "AI startup, Gloat, has dropped its career agility suite, empowering employees to evolve within their companies."
     publishedDateTime: 2021-09-22T15:52:00Z

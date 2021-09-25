@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Could Artificial Intelligence Transform Healthcare Cybersecurity?"
-    excerpt: "Utilizing artificial intelligence tools in healthcare cybersecurity could help to streamline threat detection efforts, ensure compliance, and mitigate human error."
-    publishedDateTime: 2021-09-20T17:00:00Z
-    webUrl: "https://healthitsecurity.com/news/could-artificial-intelligence-transform-healthcare-cybersecurity"
-    ampWebUrl: "https://healthitsecurity.com/news/amp/could-artificial-intelligence-transform-healthcare-cybersecurity"
-    cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/could-artificial-intelligence-transform-healthcare-cybersecurity"
-    type: article
-    provider:
-      name: IT Security
-      domain: healthitsecurity.com
-    quality: 74
-    images:
-      - url: "https://healthitsecurity.com/images/sized/GettyImages-1199544765-39a26234983c4eca9381530cb872a66d.jpg"
-        width: 480
-        height: 278
-        isCached: true
   - title: "Artificial Intelligence in Cybersecurity Market worth $38.2 billion by 2026, at the highest CAGR of 23.3%"
     excerpt: "Thousands of traders just like you are profiting with 90% win-rate trading options! Click Here See How! [229 Pages] Artificial Intelligence in Cybersecurity Market Research Report, identifies new revenue opportunity in Pages] Artificial Intelligence in Cybersecurity industry."
     publishedDateTime: 2021-09-20T23:45:00Z

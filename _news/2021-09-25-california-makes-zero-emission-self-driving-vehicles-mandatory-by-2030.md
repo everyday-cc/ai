@@ -9,7 +9,7 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/california-makes-zeroemission-sel
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/california-makes-zeroemission-selfdriving-vehicles-mandatory-by-2030-1632549035227"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,34 +27,121 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving tech returns to California racetrack"
-    excerpt: "Joshua Schachter hopes the same will someday be said for self-driving technology. Schachter is the founder of Self Racing Cars, an annual event that allows participants to test their self-driving chops at racing speeds."
-    publishedDateTime: 2021-09-23T14:33:00Z
-    webUrl: "https://www.autonews.com/mobility-report-newsletter/self-driving-tech-returns-california-racetrack"
+  - title: "Those Infuriating Drivers That Take Over The Left Lane And Prevent Passing Will Undoubtedly Be Stifling For AI Self-Driving Cars"
+    excerpt: "Left lane usage varies by state laws and many drivers get confused or purposely exploit loopholes and road rage results. Here's what will happen once we have AI-based self-driving cars."
+    publishedDateTime: 2021-09-24T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/amp/"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
+      name: Forbes
+      domain: forbes.com
+    quality: 60
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/aurora-fedex.jpg"
-        width: 792
-        height: 488
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610ae7fa91d476847d9bda78%2F0x0.jpg%3FcropX1%3D141%26cropX2%3D4241%26cropY1%3D452%26cropY2%3D2781"
+        width: 1200
+        height: 682
         isCached: true
-  - title: "California Will Require All New Self-Driving Vehicles to be Zero-Emission Beginning in 2030"
-    excerpt: "California Gov. Gavin Newsom today signed legislation sponsored by the Union of Concerned Scientists (UCS) that will ensure future self-driving vehicles do not increase air pollution and worsen the climate crisis."
-    publishedDateTime: 2021-09-24T01:43:00Z
-    webUrl: "https://www.ucsusa.org/about/news/california-will-require-all-new-self-driving-vehicles-be-zero-emission-beginning-2030"
+  - title: "Drones, Self-driving Cars, and Everything in Between"
+    excerpt: "Pete Buttigieg first came on the scene as a small town Mayor in Indiana. He launched onto the national stage as a presidential candidate for the Democratic party in 2020. He now serves as Secretary of Transportation under the Biden administration,"
+    publishedDateTime: 2021-09-22T20:55:00Z
+    webUrl: "https://techcrunch.com/video/drones-self-driving-cars-and-everything-in-between/"
     type: article
     provider:
-      name: Union of Concerned Scientists
-      domain: ucsusa.org
-    quality: 14
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 54
     images:
-      - url: "https://www.ucsusa.org/sites/default/files/2019-11/press-release-meta-image.jpg"
-        width: 1500
-        height: 900
+      - url: "https://img.vidible.tv/prod/2021-09/21/614a00878d2a440b0abbd474/614a014656a7033202b011c6_o_U_v1.jpg?w=640&h=360"
+        width: 640
+        height: 360
         isCached: true
+  - title: "Two Drivers Argue On California Freeway About Collision And Get Deadly Struck By Passing Car, Providing Somber Lessons For AI Self-Driving Cars"
+    excerpt: "Sadly, two drivers stood outside their wrecked cars on the freeway and were subsequently sideswiped by another passing car. This provides insights about the advent of AI self-driving cars. Here's the close look."
+    publishedDateTime: 2021-09-22T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/22/two-drivers-argue-on-california-freeway-about-collision-and-get-deadly-struck-by-passing-car-providing-somber-lessons-for-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/22/two-drivers-argue-on-california-freeway-about-collision-and-get-deadly-struck-by-passing-car-providing-somber-lessons-for-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/22/two-drivers-argue-on-california-freeway-about-collision-and-get-deadly-struck-by-passing-car-providing-somber-lessons-for-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 53
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61413cc0c4c126282f7979ce%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1730%26cropY1%3D27%26cropY2%3D1181"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "RAF trialling self-driving cars to free up personnel from mundane jobs"
+    excerpt: "The self-driving, zero-emissions Kar-go has been developed by the Academy of Robotics and is being trialled on RAF Brize Norton in Oxfordshire"
+    publishedDateTime: 2021-09-22T12:41:00Z
+    webUrl: "https://www.mirror.co.uk/tech/raf-trialling-self-driving-cars-25045046"
+    ampWebUrl: "https://www.mirror.co.uk/tech/raf-trialling-self-driving-cars-25045046.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/tech/raf-trialling-self-driving-cars-25045046.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 44
+    images:
+      - url: "https://i2-prod.mirror.co.uk/tech/article25044947.ece/ALTERNATES/s615/0_raf1.jpg"
+        width: 615
+        height: 409
+        isCached: true
+  - title: "Royal Air Force Starts Testing Self-Driving Vehicles on Its Airbases"
+    excerpt: "As part of the Royal Air Force's Astra campaign, the Academy of Robotics and the Royal Air Force teamed up to launch a new trial deployment of self-driving vehicles on an airbase. This trail marks the first time the RAF has deployed autonomous vehicles on a UK airbase."
+    publishedDateTime: 2021-09-24T00:36:00Z
+    webUrl: "https://www.autoevolution.com/news/royal-air-force-starts-testing-self-driving-vehicles-on-its-airbases-170115.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 39
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/royal-air-force-starts-testing-self-driving-vehicles-on-its-airbases-170115_1.jpg"
+        width: 2560
+        height: 1293
+        isCached: true
+  - title: "Artificial intelligence is changing hiring and firing"
+    excerpt: "\"While AI is becoming mainstream technology in the workplace, discrimination-by-algorithm must not,\" Keith A. Sonderling writes."
+    publishedDateTime: 2021-09-23T13:42:00Z
+    webUrl: "https://bangordailynews.com/2021/09/23/opinion/contributors/artificial-intelligence-is-changing-hiring-and-firing/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 37
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/09/OPART23.jpeg"
+        width: 1024
+        height: 696
+        isCached: true
+  - title: "RAF trialling self-driving cars - to free up personnel from mundane jobs on military bases"
+    excerpt: "The Royal Air Force has been trialling the use of self-driving cars as it explores ways to free up personnel from mundane tasks on military bases. Staff at RAF Brize Norton, Oxon., have been working with the Academy of Robotics on the trial,"
+    publishedDateTime: 2021-09-22T10:31:00Z
+    webUrl: "https://www.express.co.uk/life-style/cars/1494865/raf-self-driving-cars-trials-personnel-free"
+    ampWebUrl: "https://www.express.co.uk/life-style/cars/1494865/raf-self-driving-cars-trials-personnel-free/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1494865/raf-self-driving-cars-trials-personnel-free/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 34
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/1494865_1.jpg?r=1632306667602"
+        width: 590
+        height: 350
+        isCached: true
+  - title: "Self Driving Car: Finding Lane Lines with Python and OpenCV"
+    excerpt: "Finding Lane Lines with Python and OpenCV. It’s amazing to see how future is getting closer to us everyday. We see and use things that we u"
+    publishedDateTime: 2021-09-20T18:47:00Z
+    webUrl: "https://github.com/dderyashn/Finding-Lane-Lines"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 19
 
 secured: "fnAKNPISoxVyUl9DSe8SZr3A1tuWGI+c0oe9arXfgI3glxSg/zX8CZrHBOMrKhx4JJa67+K3bD08bk2J1uSsanS6d6pzfu9cDD3Eyz2gtaWJ2p38Rh+ykNCPgvJBuhX2+rD9NBrzAAFSOXr+xBC1pVK0oYhC9/SpfzkvTYdbYSrwBOooWu7rVZeHoeptaaElpj5gkxoH3A+7ZABooNVD+bgAOgq4f3kHAiH2mzVqx6n59pemgAPFqIwOKwVQRsC82ghobS3NdvSUUmoPNS18bgKJ81kS1UUXuwwff1g1KWaAmD4+6HiDqUBqApZ4kYH8oVdR5ILhubZ7croEbpWjO6fOeX1aAGeJdE6a47mCCpo=;DWQOTb5072xLxxRTq23sGQ=="
 ---

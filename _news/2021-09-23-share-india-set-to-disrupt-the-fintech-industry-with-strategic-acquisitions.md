@@ -101,6 +101,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Thesis Intern at AI for Fintech Research"
+    excerpt: "Thesis Intern at AI for Fintech Research With millions of customers and thousands of employees worldwide, software and data analytics are at the heart of ING's business and operations."
+    publishedDateTime: 2021-09-25T08:51:00Z
+    webUrl: "https://www.banken.nl/stages/2144/ing/thesis-intern-at-ai-for-fintech-research"
+    type: article
+    provider:
+      name: banken
+      domain: banken.nl
+    quality: 19
   - title: "Worldwide FinTech Industry to 2026 - Featuring Affirm, Betterment and C2FO Among Others"
     excerpt: "Technologies, Applications, and Services 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. This report provides a comparative analysis between legacy financial systems and emerging"
     publishedDateTime: 2021-09-21T15:07:00Z

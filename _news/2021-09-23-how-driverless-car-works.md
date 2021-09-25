@@ -43,22 +43,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "New Technologies in Driverless Infrastructure"
-    excerpt: "Life for America's 3.5 million truck drivers isn't easy. Truck drivers generally work long hours in less-than-ideal conditions to make ends meet. The"
-    publishedDateTime: 2021-09-20T15:24:00Z
-    webUrl: "https://innotechtoday.com/new-technologies-in-driverless-infrastructure/"
-    ampWebUrl: "https://innotechtoday.com/new-technologies-in-driverless-infrastructure/amp/"
-    cdnAmpWebUrl: "https://innotechtoday-com.cdn.ampproject.org/c/s/innotechtoday.com/new-technologies-in-driverless-infrastructure/amp/"
-    type: article
-    provider:
-      name: Innovation & Tech Today
-      domain: innotechtoday.com
-    quality: 59
-    images:
-      - url: "https://innotechtoday.com/wp-content/uploads/2021/09/brian-stalter-arotxe540N4-unsplash.jpg"
-        width: 1920
-        height: 1281
-        isCached: true
   - title: "Tech Insider: Baidu-Backed Driverless Truck, Douyin Limits Kids to 40 Minutes Daily"
     excerpt: "Welcome to Caixin’s Tech Insider, your twice-weekly wrap on the movers, shakers and deal-makers in China’s tech scene. Baidu-backed DeepWay unveils driverless truck . DeepWay,"
     publishedDateTime: 2021-09-22T10:22:00Z

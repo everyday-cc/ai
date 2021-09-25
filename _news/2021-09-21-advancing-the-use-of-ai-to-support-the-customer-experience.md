@@ -52,6 +52,20 @@ related:
         width: 450
         height: 330
         isCached: true
+  - title: "Activating the Voice of the Customer in the Digital Age"
+    excerpt: "Leveraging best-in-class AI technologies, A*STAR spinoff INTNT.AI has remarkably boosted chatbot customer satisfaction by three times for financial services companies. Manuel Ho, CEO of INTNT.AI explains why he's so passionate about a customer experience future powered by understanding buyer intent."
+    publishedDateTime: 2021-09-25T08:41:00Z
+    webUrl: "https://menafn.com/1102861408/Activating-the-Voice-of-the-Customer-in-the-Digital-Age"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?14113"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "1QBis3/C0UqrDA/sRi+bP0S7P7J+lriG+1d6TlY97reQFkQ9xVzpmA0xaBRK7G9uxXkeP47FplC7j2VK4LOPfe+MZUO+Ul4FAyPrDo9TlEsNfLdQhjxnubj1VZkz3pztTLnnihFoJg94bo3bQ6oEmFk22Ag4BVNvTvWeZnvD6gkqQ9ybyig9fvmsVq/glUIrVVknrCyk3RIJZ3PDJFJu585EgMyxqmRGEdkzQEUjLYTmv7D4n+nFPY8kUkgh6m18io5SDT+Eg2eXTKZYjT70CHrCKFfdbd07+WgtvkRra9k3Iz0rTcnFmYDn/sU27GRamwMjMaLN39j5ymrql0/KBHnAtqSKSH0BXp7QPFtRr9RjZl2Hs4M0+2qnEW8+AxKkig0viuBh5aca0f9+ZCf15CyrYHi0kgvOFQOoRwwODvJxyjoSYMWTQl82q3tlLBhg5uPuq5RO8HNuQ32G6Wag8nsQ6vk6umzXSY1Y0hC3XCuhaxbVIzk40CFx8AqpZSbpY1eQE8PY/m8OUEBzsqN0bg==;Fk+v6vZNxXy/vwMJZIe20Q=="
 ---

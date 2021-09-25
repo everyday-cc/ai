@@ -1,151 +1,50 @@
 ---
 category: news
 title: "Shark's Smartest Robot Yet Features AI Technology Similar to Self-Driving Cars"
-excerpt: "Consumers are on the hunt for products that do more for less, and the search for top-of-the-line yet affordable robots is no different. That's why Shark®, (HKEX: 1691.HK), the #1 brand in vacuums*, is excited to introduce its newest and"
-publishedDateTime: 2021-09-24T17:54:00Z
-originalUrl: "https://www.lelezard.com/en/news-20014769.html"
-webUrl: "https://www.lelezard.com/en/news-20014769.html"
+excerpt: "Forget about vacuuming for up to two months withShark's smartest and most premium self-empty robot NEEDHAM, Mass., Sept. 24, 2021 /PRNewswire/"
+publishedDateTime: 2021-09-24T17:58:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/shark-s-smartest-robot-yet-features-ai-technology-similar-to-self-driving-cars-1030822427"
+webUrl: "https://markets.businessinsider.com/news/stocks/shark-s-smartest-robot-yet-features-ai-technology-similar-to-self-driving-cars-1030822427"
 type: article
-quality: 50
-heat: -1
-published: false
+quality: 82
+heat: 102
+published: true
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://mma.prnewswire.com/media/1634664/Image_1.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
-  - title: "Ordinary Lowly Lampposts Aiming To Stand Tall For Bolstering AI Self-Driving Cars"
-    excerpt: "Lampposts can do a lot more than merely provide light for our roadways, and efforts are underway to leverage lampposts for the advent of self-driving cars."
-    publishedDateTime: 2021-09-20T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/amp/"
+  - title: "For Self-Driving Cars, the Hot New Technology Is… Radar"
+    excerpt: "Companies are improving and adapting the century-old technology to help vehicles operate more safely with less human involvement."
+    publishedDateTime: 2021-09-25T03:00:00Z
+    webUrl: "https://www.wsj.com/articles/for-self-driving-cars-the-hot-new-technology-is-radar-11632542430"
+    ampWebUrl: "https://www.wsj.com/amp/articles/for-self-driving-cars-the-hot-new-technology-is-radar-11632542430"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/for-self-driving-cars-the-hot-new-technology-is-radar-11632542430"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6094766e8d7cd811a0ed5a8d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1893%26cropY1%3D95%26cropY2%3D1160"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Those Infuriating Drivers That Take Over The Left Lane And Prevent Passing Will Undoubtedly Be Stifling For AI Self-Driving Cars"
-    excerpt: "Left lane usage varies by state laws and many drivers get confused or purposely exploit loopholes and road rage results. Here's what will happen once we have AI-based self-driving cars."
-    publishedDateTime: 2021-09-24T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 60
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610ae7fa91d476847d9bda78%2F0x0.jpg%3FcropX1%3D141%26cropX2%3D4241%26cropY1%3D452%26cropY2%3D2781"
-        width: 1200
-        height: 682
-        isCached: true
-  - title: "Drones, Self-driving Cars, and Everything in Between"
-    excerpt: "Pete Buttigieg first came on the scene as a small town Mayor in Indiana. He launched onto the national stage as a presidential candidate for the Democratic party in 2020. He now serves as Secretary of Transportation under the Biden administration,"
-    publishedDateTime: 2021-09-22T20:55:00Z
-    webUrl: "https://techcrunch.com/video/drones-self-driving-cars-and-everything-in-between/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 54
-    images:
-      - url: "https://img.vidible.tv/prod/2021-09/21/614a00878d2a440b0abbd474/614a014656a7033202b011c6_o_U_v1.jpg?w=640&h=360"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Two Drivers Argue On California Freeway About Collision And Get Deadly Struck By Passing Car, Providing Somber Lessons For AI Self-Driving Cars"
-    excerpt: "Sadly, two drivers stood outside their wrecked cars on the freeway and were subsequently sideswiped by another passing car. This provides insights about the advent of AI self-driving cars. Here's the close look."
-    publishedDateTime: 2021-09-22T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/22/two-drivers-argue-on-california-freeway-about-collision-and-get-deadly-struck-by-passing-car-providing-somber-lessons-for-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/22/two-drivers-argue-on-california-freeway-about-collision-and-get-deadly-struck-by-passing-car-providing-somber-lessons-for-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/22/two-drivers-argue-on-california-freeway-about-collision-and-get-deadly-struck-by-passing-car-providing-somber-lessons-for-ai-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 53
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61413cc0c4c126282f7979ce%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1730%26cropY1%3D27%26cropY2%3D1181"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "RAF trialling self-driving cars to free up personnel from mundane jobs"
-    excerpt: "The self-driving, zero-emissions Kar-go has been developed by the Academy of Robotics and is being trialled on RAF Brize Norton in Oxfordshire"
-    publishedDateTime: 2021-09-22T12:41:00Z
-    webUrl: "https://www.mirror.co.uk/tech/raf-trialling-self-driving-cars-25045046"
-    ampWebUrl: "https://www.mirror.co.uk/tech/raf-trialling-self-driving-cars-25045046.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/tech/raf-trialling-self-driving-cars-25045046.amp"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 44
-    images:
-      - url: "https://i2-prod.mirror.co.uk/tech/article25044947.ece/ALTERNATES/s615/0_raf1.jpg"
-        width: 615
-        height: 409
-        isCached: true
-  - title: "Royal Air Force Starts Testing Self-Driving Vehicles on Its Airbases"
-    excerpt: "As part of the Royal Air Force's Astra campaign, the Academy of Robotics and the Royal Air Force teamed up to launch a new trial deployment of self-driving vehicles on an airbase. This trail marks the first time the RAF has deployed autonomous vehicles on a UK airbase."
-    publishedDateTime: 2021-09-24T00:36:00Z
-    webUrl: "https://www.autoevolution.com/news/royal-air-force-starts-testing-self-driving-vehicles-on-its-airbases-170115.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 39
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/royal-air-force-starts-testing-self-driving-vehicles-on-its-airbases-170115_1.jpg"
-        width: 2560
-        height: 1293
-        isCached: true
-  - title: "Artificial intelligence is changing hiring and firing"
-    excerpt: "\"While AI is becoming mainstream technology in the workplace, discrimination-by-algorithm must not,\" Keith A. Sonderling writes."
-    publishedDateTime: 2021-09-23T13:42:00Z
-    webUrl: "https://bangordailynews.com/2021/09/23/opinion/contributors/artificial-intelligence-is-changing-hiring-and-firing/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 37
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/09/OPART23.jpeg"
-        width: 1024
-        height: 696
-        isCached: true
-  - title: "RAF trialling self-driving cars - to free up personnel from mundane jobs on military bases"
-    excerpt: "The Royal Air Force has been trialling the use of self-driving cars as it explores ways to free up personnel from mundane tasks on military bases. Staff at RAF Brize Norton, Oxon., have been working with the Academy of Robotics on the trial,"
-    publishedDateTime: 2021-09-22T10:31:00Z
-    webUrl: "https://www.express.co.uk/life-style/cars/1494865/raf-self-driving-cars-trials-personnel-free"
-    ampWebUrl: "https://www.express.co.uk/life-style/cars/1494865/raf-self-driving-cars-trials-personnel-free/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1494865/raf-self-driving-cars-trials-personnel-free/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 34
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/1494865_1.jpg?r=1632306667602"
-        width: 590
-        height: 350
+      - url: "https://images.wsj.net/im-406622/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Nuro is an Artificial Intelligence-based startup that creates self-driving cars, named R2."
     excerpt: "Nuro is an Artificial Intelligence (AI)-based startup that develops self-driving cars called R2 that are based on robotics and AI. It's energy-efficient, battery-powered, and self-contained. Nuro's vehicle is an on-road vehicle that carries goods quickly,"
@@ -162,6 +61,6 @@ related:
         height: 500
         isCached: true
 
-secured: "qPE6De1TBhhpdObd1MNIDHXYOZUGlaTPImg7MoAvk0gi4VN5msXSfSlsWgFE6Gol+ETQl8P1izGLFsSeeHDcIWgX60d4vyK+PiwvvtrmMVSeg6faD7gk7OLQ/TzymdopitqYycsALqd0fSnLGjKW1FJX6EHIRhDDt4TFZSx+SJVzOr/E0ybwRR81xKs2+eI2flEPkkU78+OSsmx+AIoBAaF4Jj+PezZPR3aSoI6JIiYB3MvqlPxGA9x3pdwVYPWWDQpwCEMzQpslAxsBI095gGVUTWqPa/nxiKwyhw45nxRpSA6j02NCAQe1WFOj+/nIjBqUBbp0HsMkQwCTauoqbmY2c/ZSNjh3tNr9JaIbl8o=;Uu9Ri6nZQ+vBoLwiReoazA=="
+secured: "7JZvs01FksrIxiOj/WG2I8Uc8eDWX1Q82c1Hj+Trrv5nEL14fM2HZAsCftBzphob04g07bXMFQ8h5vSCbZYtQ6Lx2J3o5gn77XyFBl9sNvwUyWEiXXZ52HonaqugrZ0gse8hJdXRrQFGGpkx8u2ueUgLtxcwZ8xDBdICOEILE0zVcSZVxTFWdooD8Vi1yTy/aaOPbKlAAQaOvU0rju5iQOtQxpuVdOe+LRj7TQfImMdwsXRdoNNBXRYOW49+yxIbMrcGTL2CBDkaV2DFAt6fFr/kvbAJm4AmftQegXqrSM0FfVtfUnuIq3I/X1wZ+hyn4Zh9pQAkhnIQ++0lV9T4TtiBWgfAbHysZWdiVs9YpxI=;BbThPMBAO1VC/OzclRp/Nw=="
 ---
 

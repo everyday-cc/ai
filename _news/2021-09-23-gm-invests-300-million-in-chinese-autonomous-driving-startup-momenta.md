@@ -189,6 +189,20 @@ related:
         width: 1240
         height: 620
         isCached: true
+  - title: "Life Sciences and Healthcare Industry Leaders Invest in Tact.ai to Deliver Next Generation Customer Engagement"
+    excerpt: "Tact.ai, the customer engagement company for life sciences, today announced a new round of equity financing totaling $33 million that"
+    publishedDateTime: 2021-09-21T03:48:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/life-sciences-and-healthcare-industry-leaders-invest-in-tact-ai-to-deliver-next-generation-customer-engagement-821840733.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/493203/Tact_Logo.jpg?p=facebook"
+        width: 1937
+        height: 1016
+        isCached: true
   - title: "General Motors to invest $300m in Chinese self-driving start-up Momenta"
     excerpt: "Four year old unicorn Momenta has also been funded by SAIC Motors, Toyota and Bosch in the past and closed a $500m round in March."
     publishedDateTime: 2021-09-23T08:55:00Z

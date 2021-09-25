@@ -41,22 +41,6 @@ related:
         width: 620
         height: 350
         isCached: true
-  - title: "Press Release: GE Healthcare Introduces Revolution Ascend, a New CT System to Increase Operational Efficiency & Patient Comfort"
-    excerpt: "GE Healthcare Introduces Revolution Ascend, a New CT System to Increase Operational Efficiency & Patient Comfort"
-    publishedDateTime: 2021-09-21T17:32:00Z
-    webUrl: "https://www.sharecast.com/news/market_reports/press-release-ge-healthcare-introduces-revolution-ascend-a-new-ct-system-to-increase-operational-efficiency-patient-comfort--8109665.html"
-    ampWebUrl: "https://www.sharecast.com/amp/news/market_reports/press-release-ge-healthcare-introduces-revolution-ascend-a-new-ct-system-to-increase-operational-efficiency-patient-comfort--8109665.html"
-    cdnAmpWebUrl: "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/market_reports/press-release-ge-healthcare-introduces-revolution-ascend-a-new-ct-system-to-increase-operational-efficiency-patient-comfort--8109665.html"
-    type: article
-    provider:
-      name: Sharecast
-      domain: sharecast.com
-    quality: 33
-    images:
-      - url: "https://img.s3wfg.com/web/img/images_uploaded/amp_dl.jpg"
-        width: 620
-        height: 350
-        isCached: true
   - title: "Deepspatial Inc. Files Patent for Artificial Intelligence Driven Retail Management Software"
     excerpt: "Deepspatial Inc. (CSE:DSAI) (“Deepspatial” or the “Company”) is pleased to announce that it has filed patent application number 63244524 - Computer Implemented Method and System for Retail Management and Optimization with the United States Patent and Trademark Office (USPTO) for its proprietary methods of retail management with enhanced user experience for dynamic planning and decision making."
     publishedDateTime: 2021-09-21T16:32:00Z

@@ -45,20 +45,6 @@ related:
         height: 675
         isCached: true
   - title: "New EMA Research Finds AI is Crucial to Modern Software Testing"
-    excerpt: "Applitools announced its inclusion in new research published by Enterprise Management Associates (EMA) entitled, “Disrupting the Economics of Software Testing Through AI.”"
-    publishedDateTime: 2021-09-20T16:19:00Z
-    webUrl: "https://www.analyticsinsight.net/new-ema-research-finds-ai-is-crucial-to-modern-software-testing/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/AI-in-Software-Testing.jpeg"
-        width: 1000
-        height: 700
-        isCached: true
-  - title: "New EMA Research Finds AI is Crucial to Modern Software Testing"
     excerpt: "Applitools (  announced its inclusion in new research published by Enterprise Management Associates (EMA) entitled, \"Disrupting the Economics of Software Testing Through AI.\" According to the report,"
     publishedDateTime: 2021-09-20T22:33:00Z
     webUrl: "https://www.prnewswire.com/in/news-releases/new-ema-research-finds-ai-is-crucial-to-modern-software-testing-896075761.html"

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Is Self-Driving Technology The Best Thing To Hit Pittsburgh Since Steel? Local Business Groups Think So"
-    excerpt: "Business and civic leaders in Pittsburgh recently released a strategy to make southwestern Pennsylvania a hub for autonomous tech production. But some warn that residents outside the sector must also have a voice if the economic gains are to be shared."
-    publishedDateTime: 2021-09-20T16:28:00Z
-    webUrl: "https://www.wesa.fm/economy-business/2021-09-20/is-self-driving-tech-the-best-thing-to-hit-pittsburgh-since-steel-local-business-groups-think-so"
-    type: article
-    provider:
-      name: WESA
-      domain: wesa.fm
-    quality: 8
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/5045b27/2147483647/strip/true/crop/1280x672+0+144/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwesa%2Ffiles%2F201906%2Fargo_ai_2.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Pittsburgh's startup ecosystem among top 25 globally, new Startup Genome report finds"
     excerpt: "A new report puts Pittsburgh's startup ecosystem among the top 25 in the world as a place to build and grow a company."
     publishedDateTime: 2021-09-22T13:33:00Z

@@ -35,6 +35,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "These cheap artificial intelligence stocks will make you rich"
+    excerpt: "Investments in 2021 will be quite beneficial if you can get these cheapest stocks of artificial intelligence. Here is a list of the cheapest artificial intelligence stocks."
+    publishedDateTime: 2021-09-25T08:30:00Z
+    webUrl: "https://www.analyticsinsight.net/top-cheapest-artificial-intelligence-stocks-with-big-prospects-in-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/AI-stocks.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
   - title: "Investment Alert: Top 5 Artificial Intelligence Stocks to Buy at the Dip"
     excerpt: "This article focuses on the top five artificial intelligence stocks to buy at the dip. Investment in AI stocks can gain higher revenue for smart functionalities even when the AI stocks are at dip."
     publishedDateTime: 2021-09-23T12:35:00Z

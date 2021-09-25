@@ -7,8 +7,8 @@ originalUrl: "https://www.massdevice.com/ge-healthcare-unveils-new-ai-powered-ct
 webUrl: "https://www.massdevice.com/ge-healthcare-unveils-new-ai-powered-ct-system/"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: MassDevice
@@ -26,33 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Zoomtopia: AI and Video to Power Healthcare"
-    excerpt: "At the recent Zoomtopia, the company spotlighted how healthcare providers are actively transitioning to telehealth, representing a significant disruption of the industry."
-    publishedDateTime: 2021-09-20T16:48:00Z
-    webUrl: "https://www.eweek.com/cloud/zoomtopia-ai-and-video-to-power-healthcare/"
+  - title: "Press Release: GE Healthcare Introduces Revolution Ascend, a New CT System to Increase Operational Efficiency & Patient Comfort"
+    excerpt: "GE Healthcare Introduces Revolution Ascend, a New CT System to Increase Operational Efficiency & Patient Comfort"
+    publishedDateTime: 2021-09-21T17:32:00Z
+    webUrl: "https://www.sharecast.com/news/market_reports/press-release-ge-healthcare-introduces-revolution-ascend-a-new-ct-system-to-increase-operational-efficiency-patient-comfort--8109665.html"
+    ampWebUrl: "https://www.sharecast.com/amp/news/market_reports/press-release-ge-healthcare-introduces-revolution-ascend-a-new-ct-system-to-increase-operational-efficiency-patient-comfort--8109665.html"
+    cdnAmpWebUrl: "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/market_reports/press-release-ge-healthcare-introduces-revolution-ascend-a-new-ct-system-to-increase-operational-efficiency-patient-comfort--8109665.html"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 84
+      name: Sharecast
+      domain: sharecast.com
+    quality: 33
     images:
-      - url: "https://www.eweek.com/wp-content/uploads/2021/09/Zoom-White.jpg"
-        width: 1032
-        height: 480
+      - url: "https://img.s3wfg.com/web/img/images_uploaded/amp_dl.jpg"
+        width: 620
+        height: 350
         isCached: true
-  - title: "How is Data Annotation Enabling the Development of AI in Healthcare?"
-    excerpt: "In recent years, the idea of Artificial Intelligence has revolutionized the healthcare scene, and data annotation is at the forefront of this revolution, persistently driving progress in the development of Healthcare AI through continuous innovation."
-    publishedDateTime: 2021-09-22T21:09:00Z
-    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2021/09/22/450067-how-data-annotation-enabling-development-ai-healthcare.htm"
+  - title: "GE Healthcare Introduces Revolution Ascend, a New CT System to Increase Operational Efficiency & Patient Comfort"
+    excerpt: "GE Healthcare today unveiled Revolution Ascend vi with Effortless Workflow, offering clinicians a collection of artificial intelligence technologies that automate and simplify time-consuming tasks to increase operational efficiency and free up time for clinicians to deliver more personalized care to more patients."
+    publishedDateTime: 2021-09-21T17:29:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-artificial-intelligence-4883a34ee088437da17f4a286f9ecc18"
     type: article
     provider:
-      name: HealthTech
-      domain: healthtechzone.com
-    quality: 54
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
     images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-sep/8032624491-data23456.png"
-        width: 1000
-        height: 667
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "Zqh7K+9KTX5ebTRnBKMyEx5NZxfGtSl0iBVIw4hMCdZtZKw2mZUvuJrHwv3HlWpfDksz4VWALKr7eIf+tlQdJpoyoI/z9yvftAA4LzhlraAzwxCs43qdzufei9lMOTHGOac4jTH8lTGXB2A+GATyfhF3NRGkzxQ2KJfudn26sYRdJblSiel3diV082XBsZhQFdpouTW2Sr9dGdvnNG6zEoEJ5XTumUT6YjNleu02jVhF5oa5pva0qWzk7rMgk0GH0n4YXvkz3ViOg5MpnhK7Shwj/uuGtvofCtP2ndafYExlFrc7hzayXyMroNR9PEcpNwwNrSxwWX6VgukcO3js55scM8sKoTuU6RG+vTXWu4ULuWgXeZ67FSjIMJNSUmIjKXPWwYCuU+g57IJ5N7e/CZeqIM2SnO8cpF1K3v3mttlWfHgHpRXnjxe8jT9ZAn3YLa6XqktoGA8ZOfuiL5EVrTRRIECtfaUM5UElTyuDQip0MbumXmKllhkKWaIdTD+4Zw0rUkE65mCgw1pPPh3HKg==;oU56EFXh9f74jKTx6QhRhQ=="

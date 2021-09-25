@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-intuit-inc-5cefc52eab564f099423aa5c05bdfb1a"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Spring Free EV Launches, Rolls Out Fintech Product to Accelerate Electric Vehicle Adoption and Address Climate Change"
-    excerpt: "Led by Former Sidecar Founder and CEO and backed by high profile entrepreneurs and investors, the Company Aims to Reduce CO2 Emissions by One Gigaton by 2030SAN FRANCISCO--(BUSINESS WIRE)--Spring Free EV,"
-    publishedDateTime: 2021-09-20T15:15:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=533565"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 1
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "Intuit Ventures Launches to Accelerate Innovation for Early and Growth Stage Small Business and Consumer Fintech Companies"
     excerpt: "Intuit Ventures Launches to Accelerate Innovation for Early and Growth Stage Small Business and Consumer Fintech Companies"
     publishedDateTime: 2021-09-22T19:05:00Z

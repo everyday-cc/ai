@@ -67,6 +67,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "How is Data Annotation Enabling the Development of AI in Healthcare?"
+    excerpt: "In recent years, the idea of Artificial Intelligence has revolutionized the healthcare scene, and data annotation is at the forefront of this revolution, persistently driving progress in the development of Healthcare AI through continuous innovation."
+    publishedDateTime: 2021-09-22T21:09:00Z
+    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2021/09/22/450067-how-data-annotation-enabling-development-ai-healthcare.htm"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechzone.com
+    quality: 54
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-sep/8032624491-data23456.png"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "kdERRaujrUar90irAQrvL87fUqYiUMab3hsRAuFY5HI6iP7jP8N/5cHrUFWEBwhNEm1ICWLoKwWbS4G8Bp5qaEtJQUXPVcQaGQjFahj4ygIQNBYW3J1ZzAeDuyG55JlJMjA6T7Q2j3kZBbSeHlAml+M2nWiB1JaPKEzl4u1Shmv0s4ou5ZnpFyBmn6a6Xvw08CAOSEMO9BiC/hhKoHpNcN+6ZXgW4m2FMk/wZvX3RtNZUnaaE7hAE4B8z0s4VFx/mfQpIDpEqlgU/uj5GYHoDXzs0/UeuTzdu7yUHzEAGK1TKgvLsURMmHLzNn2QFGNAMFMPKeIUxSG7CjO9de1pACohiJk+bAlmCS9gf+N0ZgM7mph1ZVjhR+uOQYLYIDH5Xt/LL7sVu6K58vgaBEQQO0zb3Y9IycQ1Epty2u6/SAPvLCdhxQgFGWMw/v74YJJId4Neu/5Sob0cTz2mg8pGKyWRbiJYHjZzShHxrpqeBDGR7DWoYstBgQsPkecXsRhKRDaC8UlR/ZGmAl+tjm3OoA==;Ua79kRhkG5bXz+Gziy+zFg=="
 ---

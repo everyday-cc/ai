@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Could Artificial Intelligence Transform Healthcare Cybersecurity?"
-    excerpt: "Utilizing artificial intelligence tools in healthcare cybersecurity could help to streamline threat detection efforts, ensure compliance, and mitigate human error."
-    publishedDateTime: 2021-09-20T17:00:00Z
-    webUrl: "https://healthitsecurity.com/news/could-artificial-intelligence-transform-healthcare-cybersecurity"
-    ampWebUrl: "https://healthitsecurity.com/news/amp/could-artificial-intelligence-transform-healthcare-cybersecurity"
-    cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/could-artificial-intelligence-transform-healthcare-cybersecurity"
-    type: article
-    provider:
-      name: IT Security
-      domain: healthitsecurity.com
-    quality: 74
-    images:
-      - url: "https://healthitsecurity.com/images/sized/GettyImages-1199544765-39a26234983c4eca9381530cb872a66d.jpg"
-        width: 480
-        height: 278
-        isCached: true
 
 secured: "+Bl/MtxWtnOVhjTgmg0n76wb7suBSmjKyZd86s5NkTdytyhXegqP18dkIiWCF6q6wBZV6V+/3Ib5f2RJlsaaVlfD+SbyHbcWz5coDbmS+9gfDIZH2OsLyC//DpFNkCOEkb2p0+k0Bf90s+C0NZ1LFnH6UC/G6S778tL2TWJ3dNB6ltUhtaiCoHBc5G/dtg3Zn7o/+VA9IRRAJV52vdBk4pkRzunMX/J3oxK2Uer/C0PMbtVMJCnoL8GD5+OfJQCPNYZ0DskGeZcpJHH2Nh0rTgeAI8b04+WvgSW5xQTUl43vKBYRwuPIGOqzsEKMzYHfsLSc1kvrg8c7OfPHbrUh15OYdxZfpTlO8HwjpoqZfjA=;18Gj+9kSf3rCN2IEmkIdew=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2021/09/20/the-next-healthcare-revolution-w
 webUrl: "https://techcrunch.com/2021/09/20/the-next-healthcare-revolution-will-have-ai-at-its-center/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/9.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "How is Data Annotation Enabling the Development of AI in Healthcare?"
+    excerpt: "In recent years, the idea of Artificial Intelligence has revolutionized the healthcare scene, and data annotation is at the forefront of this revolution, persistently driving progress in the development of Healthcare AI through continuous innovation."
+    publishedDateTime: 2021-09-22T21:09:00Z
+    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2021/09/22/450067-how-data-annotation-enabling-development-ai-healthcare.htm"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechzone.com
+    quality: 54
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-sep/8032624491-data23456.png"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Microelectronics And The AI Revolution"
     excerpt: "The recent AI Hardware Summit showcased trends in AI/ML, both in enabling and using it in various application domains, including EDA. As part of the summit, Imec had organized a panel on “Advanced Microelectronics Technologies Driving the AI Revolution."

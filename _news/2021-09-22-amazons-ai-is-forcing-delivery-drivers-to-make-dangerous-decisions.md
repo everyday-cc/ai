@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/amazon-ai-forcing-drivers-make-dangero
 webUrl: "https://thenextweb.com/news/amazon-ai-forcing-drivers-make-dangerous-decisions"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: The Next Web
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon's AI-powered cameras reportedly punish its delivery drivers when they look at side mirrors or when other cars cut them off"
-    excerpt: "Amazon drivers have been punished for looking at side mirrors, adjusting the radio, and being cut off in traffic by other people, Motherboard reports."
-    publishedDateTime: 2021-09-20T16:45:00Z
-    webUrl: "https://www.businessinsider.com/amazon-delivery-drivers-netradyne-ai-cameras-punished-when-cut-off-2021-9"
-    ampWebUrl: "https://www.businessinsider.com/amazon-delivery-drivers-netradyne-ai-cameras-punished-when-cut-off-2021-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-delivery-drivers-netradyne-ai-cameras-punished-when-cut-off-2021-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 158
-    images:
-      - url: "https://i.insider.com/6148b4daca11af00192b05db?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Amazon's AI cameras in delivery vehicles have some drivers crying foul"
     excerpt: "Amazon is installing artificial intelligence-driven cameras in its delivery vehicles and the vehicles of many of its smaller delivery subcontractors. Some drivers are not happy about this panopticonic development,"
     publishedDateTime: 2021-09-24T07:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://zeenews.india.com/video/news/dna-test-drive-of-teslas-driver
 cdnAmpWebUrl: "https://zeenews-india-com.cdn.ampproject.org/c/s/zeenews.india.com/video/news/dna-test-drive-of-teslas-driverless-car-in-us-2396580.html/amp"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Technologies in Driverless Infrastructure"
-    excerpt: "Life for America's 3.5 million truck drivers isn't easy. Truck drivers generally work long hours in less-than-ideal conditions to make ends meet. The"
-    publishedDateTime: 2021-09-20T15:24:00Z
-    webUrl: "https://innotechtoday.com/new-technologies-in-driverless-infrastructure/"
-    ampWebUrl: "https://innotechtoday.com/new-technologies-in-driverless-infrastructure/amp/"
-    cdnAmpWebUrl: "https://innotechtoday-com.cdn.ampproject.org/c/s/innotechtoday.com/new-technologies-in-driverless-infrastructure/amp/"
-    type: article
-    provider:
-      name: Innovation & Tech Today
-      domain: innotechtoday.com
-    quality: 59
-    images:
-      - url: "https://innotechtoday.com/wp-content/uploads/2021/09/brian-stalter-arotxe540N4-unsplash.jpg"
-        width: 1920
-        height: 1281
-        isCached: true
   - title: "How Driverless Car Works?"
     excerpt: "You must have heard about the driverless cars, but how does it actually work and how is it controlled merely using one software through artificial intelligence? Here is the report. Watch video on Zee"
     publishedDateTime: 2021-09-23T16:18:00Z

@@ -115,6 +115,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Thesis Intern at AI for Fintech Research"
+    excerpt: "Thesis Intern at AI for Fintech Research With millions of customers and thousands of employees worldwide, software and data analytics are at the heart of ING's business and operations."
+    publishedDateTime: 2021-09-25T08:51:00Z
+    webUrl: "https://www.banken.nl/stages/2144/ing/thesis-intern-at-ai-for-fintech-research"
+    type: article
+    provider:
+      name: banken
+      domain: banken.nl
+    quality: 19
   - title: "7 Fintech-Led Covid Relief Efforts That Went Above And Beyond In 2020 – Fintech Zoom Advisor"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
     publishedDateTime: 2021-09-21T20:03:00Z

@@ -225,20 +225,6 @@ related:
         width: 1024
         height: 638
         isCached: true
-  - title: "U.S. investigator urges Tesla to fix self-driving concerns, report says"
-    excerpt: "Tesla's use of the term \"full self-driving\" is “misleading and irresponsible,” NTSB Chairwoman Jennifer Homendy told the Wall Street Journal."
-    publishedDateTime: 2021-09-20T15:25:00Z
-    webUrl: "https://www.autonews.com/regulation-safety/us-investigator-urges-tesla-fix-self-driving-concerns-report-says"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TeslaFSD-MAIN_0.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Pass the Test and Tesla Owners Might Get Full Self-Driving Beta Access"
     excerpt: "The wait is almost over for some Tesla Inc. customers to get access to driver-assistance technology the company has marketed in controversial ways — as long as they’re on their best behavior."
     publishedDateTime: 2021-09-24T16:30:00Z
@@ -276,20 +262,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
-  - title: "The National Transportation Safety Board thinks Tesla should pump the brakes on full self-driving"
-    excerpt: "Jessica Homendy, the chair of t (NTSB) had some strong words for Tesla in an interview in The Wall Street Journal. Essentially she warned Tesla to deal with “basic safety issues” before rolling out their “full self-driving” (FSD) mode to more drivers."
-    publishedDateTime: 2021-09-20T15:22:00Z
-    webUrl: "https://knowtechie.com/the-national-transportation-safety-board-thinks-tesla-should-pump-the-brakes-on-full-self-driving/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 26
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/11/tesla-model-3-steering-wheel-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Tesla's 'Full Self-Driving' Isn't What Elon Musk Says It Is. Now the Government Is Calling Him Out"
     excerpt: "The head of the National Highway Safety Board says Tesla should stop talking about 'full self-driving' cars until they can actually do that."
     publishedDateTime: 2021-09-22T08:01:00Z
@@ -317,6 +289,20 @@ related:
       - url: "https://images.hgmsites.net/hug/2020-tesla-model-3_100736264_h.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Tesla owners can now request ‘Full Self-Driving’, prompting criticism from regulators and safety advocates"
+    excerpt: "Tesla began letting owners request its “Full Self-Driving” software early Saturday, opening up for wide release its most advanced driver-assistance suite and signaling thousands of drivers will soon be on the road with the unregulated and largely untested features."
+    publishedDateTime: 2021-09-24T22:45:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/09/24/tesla-full-self-driving/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 21
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6IVIAUA35II6ZPVIGCHKCNCZJ4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Tesla owners could soon gain ‘Full Self-Driving’ access at the touch of a button, prompting criticism from regulators and safety advocates"
     excerpt: "Tesla is expected to issue a wide release software it deems to be self-driving, giving owners the option as soon as midnight to upgrade to its most advanced driver-assistance suite and soon putting thousands of drivers on the road with the unregulated and largely untested features."

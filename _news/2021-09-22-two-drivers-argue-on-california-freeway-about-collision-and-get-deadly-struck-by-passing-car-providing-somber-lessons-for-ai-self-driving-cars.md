@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ordinary Lowly Lampposts Aiming To Stand Tall For Bolstering AI Self-Driving Cars"
-    excerpt: "Lampposts can do a lot more than merely provide light for our roadways, and efforts are underway to leverage lampposts for the advent of self-driving cars."
-    publishedDateTime: 2021-09-20T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6094766e8d7cd811a0ed5a8d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1893%26cropY1%3D95%26cropY2%3D1160"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Those Infuriating Drivers That Take Over The Left Lane And Prevent Passing Will Undoubtedly Be Stifling For AI Self-Driving Cars"
     excerpt: "Left lane usage varies by state laws and many drivers get confused or purposely exploit loopholes and road rage results. Here's what will happen once we have AI-based self-driving cars."
     publishedDateTime: 2021-09-24T15:30:00Z
@@ -77,20 +61,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Shark's Smartest Robot Yet Features AI Technology Similar to Self-Driving Cars"
-    excerpt: "Consumers are on the hunt for products that do more for less, and the search for top-of-the-line yet affordable robots is no different. That's why Shark®, (HKEX: 1691.HK), the #1 brand in vacuums*, is excited to introduce its newest and"
-    publishedDateTime: 2021-09-24T17:54:00Z
-    webUrl: "https://www.lelezard.com/en/news-20014769.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 50
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "RAF trialling self-driving cars to free up personnel from mundane jobs"
     excerpt: "The self-driving, zero-emissions Kar-go has been developed by the Academy of Robotics and is being trialled on RAF Brize Norton in Oxfordshire"
     publishedDateTime: 2021-09-22T12:41:00Z
@@ -106,6 +76,22 @@ related:
       - url: "https://i2-prod.mirror.co.uk/tech/article25044947.ece/ALTERNATES/s615/0_raf1.jpg"
         width: 615
         height: 409
+        isCached: true
+  - title: "California makes zero-emission self-driving vehicles mandatory by 2030"
+    excerpt: "California will require all light-duty self-driving vehicles to emit zero emissions starting in 2030. Governor Gavin Newsom signed into law a bill sponsored by environmental groups that would eventually prohibit gas and hybrid-powered autonomous vehicles from operating in the state."
+    publishedDateTime: 2021-09-25T05:50:00Z
+    webUrl: "https://inshorts.com/en/news/california-makes-zeroemission-selfdriving-vehicles-mandatory-by-2030-1632549035227"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/california-makes-zeroemission-selfdriving-vehicles-mandatory-by-2030-1632549035227"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/california-makes-zeroemission-selfdriving-vehicles-mandatory-by-2030-1632549035227"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 44
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/09_sep/25_sat/img_1632546759149_925.jpg?"
+        width: 1080
+        height: 1748
         isCached: true
   - title: "Royal Air Force Starts Testing Self-Driving Vehicles on Its Airbases"
     excerpt: "As part of the Royal Air Force's Astra campaign, the Academy of Robotics and the Royal Air Force teamed up to launch a new trial deployment of self-driving vehicles on an airbase. This trail marks the first time the RAF has deployed autonomous vehicles on a UK airbase."
@@ -151,20 +137,15 @@ related:
         width: 590
         height: 350
         isCached: true
-  - title: "Nuro is an Artificial Intelligence-based startup that creates self-driving cars, named R2."
-    excerpt: "Nuro is an Artificial Intelligence (AI)-based startup that develops self-driving cars called R2 that are based on robotics and AI. It's energy-efficient, battery-powered, and self-contained. Nuro's vehicle is an on-road vehicle that carries goods quickly,"
-    publishedDateTime: 2021-09-23T10:00:00Z
-    webUrl: "https://www.analyticsinsight.net/nuros-artificial-intelligence-strategy-on-r2-a-self-driving-car/"
+  - title: "Self Driving Car: Finding Lane Lines with Python and OpenCV"
+    excerpt: "Finding Lane Lines with Python and OpenCV. It’s amazing to see how future is getting closer to us everyday. We see and use things that we u"
+    publishedDateTime: 2021-09-20T18:47:00Z
+    webUrl: "https://github.com/dderyashn/Finding-Lane-Lines"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 31
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Artificial-Intelligence.jpg"
-        width: 900
-        height: 500
-        isCached: true
+      name: GitHub
+      domain: github.com
+    quality: 19
 
 secured: "bqIlWcDR1jgzTSpfLNC6cx/g4MrQkdu151tsk/aw/CKTB5MkuaxI5bNCg6J12ouc1bctYe7J81K0uUzMf6pVAgw9FZYNoJhM+el0cDddiYxYD+3ep9MToKyKmkj9kvA3RxLRjm6AWaj5RDPlFigs2Na1P0exASw+OZcpKhVMnd9XY4blSHQ6ZXulaVNvtYtzaRDz8aBgj1GjWnG9R2eraAawl9aFygA8z8Qb1lJ0vQt288akbgdw93KK7IkErs7/HrY3yMOOs+tQx5JhB8rSeEZsd0aQw/NyL37Zz9RNoBzAJDWnCENpNGZZkDj9e21Yx5cbDqS92/Jc0A4leVcgPLoy/0EPC6bmrHsTdDcPC8AQoap+NauyLGVDOBUg2tPapjvafr6ETMcKQkX+GSgJMLbvYlgCaAU/LHfAr8j61Wu23l3cK2QRicPoFWsHypwAIKgH6IBrrL/t6f6/IAdjTetP7sKi8UFkXvFBFnODJ2udNMh+E0LvPhOjjNw72dOFoyel744AWR9Zy34MAcvXCQ==;xmrJMUHElKKpKM4D5LlFZg=="
 ---
