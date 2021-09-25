@@ -30,7 +30,7 @@ related:
   - title: "Scientists create AI that can suggest where to apply makeup to fool facial recognition"
     excerpt: "Researchers at Israel's Ben-Gurion University trained AI software to tell users where to apply subtle contouring to throw off facial recognition systems up to 98.8 percent of the time."
     publishedDateTime: 2021-09-24T21:38:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10026371/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html"
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10026371/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html?fr=operanews"
     ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10026371/amp/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html"
     cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10026371/amp/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html"
     type: article

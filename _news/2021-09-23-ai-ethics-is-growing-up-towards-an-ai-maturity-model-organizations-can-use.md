@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/ai-ethics-growing-towards-ai-maturity-model-o
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-ethics-growing-towards-ai-maturity-model-organizations-can-use?amp"
 type: article
 quality: 71
-heat: 73
+heat: 71
 published: true
 
 provider:

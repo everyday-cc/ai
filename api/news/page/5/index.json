@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-21-three-ways-ai-is-improving-assistive-technology.md",
+      "title": "Three Ways AI Is Improving Assistive Technology",
+      "excerpt": "When implemented effectively, assistive technology can improve accessibility and quality of life for all, regardless of ability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/21/three-ways-ai-is-improving-assistive-technology/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/21/three-ways-ai-is-improving-assistive-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6148b1fa82bb1bd5c2811729%2F0x0.jpg",
+          "width": 813,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/21/three-ways-ai-is-improving-assistive-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/09/21/three-ways-ai-is-improving-assistive-technology/amp/",
+      "publishedDateTime": "2021-09-21T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-21-technology-is-a-double-edged-sword-in-the-face-of-repressive-regimes-opinion.md",
       "title": "Technology is a Double-edged Sword in the Face of Repressive Regimes | Opinion",
       "excerpt": "Tech companies must be willing to do all they can to prevent authoritarian regimes from accessing and using their services, even though what we see today is quite the opposite as the Taliban has full and easy access to Facebook,",
@@ -1197,58 +1248,6 @@
         "name": "The Tribune",
         "domain": "tribuneindia.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-beef-up-your-knowledge-on-ai-and-machine-learning-with-this-expert-led-bundle.md",
-      "title": "Beef up your knowledge on AI and machine learning with this expert-led bundle",
-      "excerpt": "This AI machine learning bundle includes 79 hours of content on deep learning, machine learning, python in addition to other development tools.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/beef-up-your-knowledge-on-ai-and-machine-learning-with-this-expert-led-bundle",
-      "originalUrl": "https://thenextweb.com/news/beef-up-your-knowledge-on-ai-and-machine-learning-with-this-expert-led-bundle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FTNW-AI-Super-Bundle.jpeg&signature=812ae6959c43ac5f7abad714f7095389",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-20T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

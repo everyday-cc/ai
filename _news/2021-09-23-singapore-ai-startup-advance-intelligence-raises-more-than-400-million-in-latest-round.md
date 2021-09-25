@@ -30,15 +30,22 @@ images:
     isCached: true
 
 related:
-  - title: "RPA and AI in Banking Market Likely To Boost Future Growth By 2027 | Cognizant, Capgemini, Accenture, Fintech Singapore, The Lab Consulting"
-    excerpt: "The report covers briefly the products or services in the market and their application. The report also provides information on the technological […]"
-    publishedDateTime: 2021-09-20T06:23:00Z
-    webUrl: "https://www.globalbankingandfinance.com/rpa-and-ai-in-banking-market-likely-to-boost-future-growth-by-2027-cognizant-capgemini-accenture-fintech-singapore-the-lab-consulting/"
+  - title: "Clovers Raises $15 Million to Build an 'Interview Intelligence' Platform"
+    excerpt: "Human resources technology startup Clovers this week announced it has raised $15 million in seed funding to bring conversational intelligence to interviewing and hiring. The company, with headquarters in Nashville and Los Angeles,"
+    publishedDateTime: 2021-09-24T23:28:00Z
+    webUrl: "https://www.cmswire.com/digital-workplace/clovers-raises-15-million-to-build-an-interview-intelligence-platform/"
+    ampWebUrl: "https://www.cmswire.com/digital-workplace/clovers-raises-15-million-to-build-an-interview-intelligence-platform/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/clovers-raises-15-million-to-build-an-interview-intelligence-platform/amp/"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 0
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 56
+    images:
+      - url: "https://www.cmswire.com/-/media/9a83025b131b4ece9dbad18e83773bf3.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "xgsrqVGGbHTenIBW8iVCU2skxPA0CH/SlOK82tiwvqSlnYfuZpw45EC9QgcnZE+cHNHNV5CF2AjbjfAmh/Z+K3kLqQHm6BvwHa9gUEM5nNMVO0xCT3B7LaaJL1vImz3qUdEW5Fae4RoJUkZN+WiV2YC7qZwNUsvy+IWPH715hw/Jg/j5/EqMcW+LBc1eeNAumF0kX5f2YJMMjBaPM1JAIbrY9Z3zCGtHgLmIeuCh3yqDvckCPW73PZG4XdN3c0mFCYhgTcrUrybs4xfUU7zDkAo4wkFKHF0EyWCyVv7McUiLP/5EE8RVksAKENtyT7TTl2S31bFeGlMLuGfi2nNAP0b9CZrZOzJ2f8c8kPZTpj4=;zrpieRiPsYFfYFHpWGwk7g=="
 ---

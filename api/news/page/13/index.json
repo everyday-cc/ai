@@ -2,6 +2,48 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-09-14-startup-algoriffix-pitches-ai-as-your-co-writer-technology.md",
+      "title": "Startup Algoriffix pitches ‘AI as your co-writer’ technology",
+      "excerpt": "The latest startup touting this idea is Algoriffix, which is developing a system that can be used by musicians, composers and producers. ‘AI as your co-writer’ is the slogan, with the suggestion that people “upload your unaccompanied solo or stem and let our algorithms recognise notes and recommend the meter and harmony that fit best your performance”.",
+      "sourceUrl": null,
+      "webUrl": "https://musically.com/2021/09/14/startup-algoriffix-pitches-ai-as-your-co-writer-technology/",
+      "originalUrl": "https://musically.com/2021/09/14/startup-algoriffix-pitches-ai-as-your-co-writer-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://musically.com/wp-content/uploads/2021/09/algoriffix.jpg",
+          "width": 1500,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Music Ally",
+        "domain": "musically.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-facebook-takes-a-stab-at-true-speech-to-speech-translation-via-textless-nlp.md",
       "title": "Facebook Takes a Stab at True Speech-to-Speech Translation via Textless NLP",
       "excerpt": "Facebook sees textless NLP as making automatic speech translation obsolete by working in true end-to-end fashion: from speech input to speech output.",
@@ -1030,58 +1072,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-zoom-to-add-real-time-translation-for-12-languages-next-year.md",
-      "title": "Zoom to Add Real-Time Translation for 12 Languages Next Year",
-      "excerpt": "Zoom says its real-time translation function will be up and running next year for 12 languages. The company demoed the feature today during its annual Zoomtopia event, and argued that it’ll help break down language barriers during video calls.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/video-conferencing-software/135629/zoom-to-add-real-time-translation-for-12-languages-next-year",
-      "originalUrl": "https://uk.pcmag.com/video-conferencing-software/135629/zoom-to-add-real-time-translation-for-12-languages-next-year",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/z/zoom-to-ad/zoom-to-add-real-time-translation-for-12-languages-next-year_fzqx.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

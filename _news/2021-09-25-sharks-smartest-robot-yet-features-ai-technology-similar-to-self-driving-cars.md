@@ -19,9 +19,9 @@ provider:
       height: 50
 
 topics:
+  - AI in Autos
   - AI
   - AI in Robotics
-  - AI in Autos
 
 images:
   - url: "https://mma.prnewswire.com/media/1634664/Image_1.jpg"
@@ -181,6 +181,6 @@ related:
         height: 501
         isCached: true
 
-secured: "UtgKRdjm+ZSFPBPPRvJ/bV7Ut0BTMMbcpV2ASzIuocK/Lv54uJrlglJl9Fjamzrm5xkIiUGIcda7QPdBIbWHx04b0UNdSprE+jxb033yrY+wzQD8toQJZ8JpltYleP83HeFcrwBgr2AiGunGA+Y/gNI4X2Dwu6lB2qpnCU6kAfV8z+/Nw1E7VeyI/D7WRVRzn0cOdVGznwyW+8wgC8iqlC1cvfKZ/voapiFS4gTk/Ct75MZh3dAi6aL+ukOlbuVG3m7q1F9r57WbYXH43PyI2kE5+S+OjfmGOqCdj45H10mAjNqYf5xBsrj5x2xaIxmXIiXm5xGV5WJvNrxO/indObFn0+hMUBYA48WPG1rsU04=;NCxYZ5X8ELkMxQLiqw192w=="
+secured: "AwxH6n20a9C6YKLD40G4X8sgmioqCEnPELOXJ44cjkPqSWCAROV7ljuOIBxJsm8NqBm0mWc5iktyuGaELYtudsQaHlx1m77WRt6rnJMg55sL/m3ie8nEVGZe3u1eTuFcWe/JYYH5/LSKE7feo8uLKtdNpB0wkQCq9HTCqRgIYQUipNo5CiEIUEFQau52t2BSBsvWOM4zLuZVvmrMtLUkMBCFOuesLD1ZpzXBwVw9rXasghKRRKgVOFiSR6XuHiya6jgQ7lcLL0S1Csgfeu1wM8euusONrc1nR/5LXmO+v8SgZ0h7cHOyUpj3CLve6Z2KzPkH5dJs5MW3i0BIaOQY/Sla79oeRUnt56OTtEcZBaU=;LHboRhbTP2ECmMCVwhZPvA=="
 ---
 

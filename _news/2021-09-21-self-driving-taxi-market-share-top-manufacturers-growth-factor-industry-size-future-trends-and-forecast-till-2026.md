@@ -45,17 +45,6 @@ related:
         width: 750
         height: 350
         isCached: true
-  - title: "AI in Computer Vision Market Growth, Analysis, Latest Trends and Forecast till 2026"
-    excerpt: "The AI in computer vision market is estimated to be valued at USD 15 9 billion in 2021 and reach USD 51 3 billion by 2026 at a CAGR of 26 3 The growing need for quality inspection and automation"
-    publishedDateTime: 2021-09-20T06:14:00Z
-    webUrl: "https://www.openpr.com/news/2398401/ai-in-computer-vision-market-growth-analysis-latest-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2398401/ai-in-computer-vision-market-growth-analysis-latest-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2398401/ai-in-computer-vision-market-growth-analysis-latest-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 48
   - title: "Artificial Intelligence (AI) Speakers Market Analysis by Emerging Growth Factors and Revenue Forecast to 2027 | Apple, Xiaomi, Huawei"
     excerpt: "The report titled Global Artificial Intelligence AI Speakers Market is one of the most comprehensive and important additions to QY Research s archive of market research studies It offers detailed research and analysis of key aspects of the global Artificial"
     publishedDateTime: 2021-09-21T11:35:00Z

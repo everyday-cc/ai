@@ -180,6 +180,22 @@ related:
         width: 1200
         height: 641
         isCached: true
+  - title: "‘Good’ Tesla drivers might be next to get ‘full’ self-driving software"
+    excerpt: "Chief Executive Officer Elon Musk has said on Friday, the electric-car maker will roll out an updated version of its Full Self-Driving beta software, which until now has only been available to"
+    publishedDateTime: 2021-09-24T23:52:00Z
+    webUrl: "https://www.dailynews.com/2021/09/24/tesla-starts-judging-owners-it-charged-10000-for-self-driving/"
+    ampWebUrl: "https://www.dailynews.com/2021/09/24/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/09/24/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 59
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/09/Tesla_Crash_88520.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Tesla Is Bringing Self-Driving No Matter What. Regulators Need to Adapt."
     excerpt: "San Francisco authorities have expressed concern over Tesla's autonomous driving feature, dubbed Full Self Driving. More broadly, self-driving systems are advancing much faster than regulation."
     publishedDateTime: 2021-09-24T17:37:00Z
@@ -195,6 +211,22 @@ related:
       - url: "https://images.barrons.com/im-406428/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Tesla expands self-driving software test — but only to drivers it deems worthy"
+    excerpt: "Tesla is rolling out a new version of its so-called Full Self-Driving system, but to be eligible, car owners who've already paid $10,000 for the software must pass a seven-day driving evaluation."
+    publishedDateTime: 2021-09-24T22:20:00Z
+    webUrl: "https://www.latimes.com/business/technology/story/2021-09-24/tesla-expands-self-driving-software-test-but-only-to-drivers-it-deems-worthy"
+    ampWebUrl: "https://www.latimes.com/business/technology/story/2021-09-24/tesla-expands-self-driving-software-test-but-only-to-drivers-it-deems-worthy?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/technology/story/2021-09-24/tesla-expands-self-driving-software-test-but-only-to-drivers-it-deems-worthy?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 55
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/35eccec/2147483647/strip/true/crop/1723x1152+163+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa7%2Fd5%2F8809f9c34d5a5106724b57a3a83d%2Fla-1516891360-5lr9wec3h2-snap-image"
+        width: 320
+        height: 214
         isCached: true
   - title: "Tesla drivers using 'full self-driving' Autopilot pay less attention to their surroundings"
     excerpt: "Tech giant Tesla is due to launch the latest version of its Autopilot “full self-driving” technology to owners this autumn, but new research has revealed that the system could be making drivers inattentive to their surroundings."
@@ -346,6 +378,20 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F09%2Ftesla-full-self-driving-mode-safety-issues-wsj-tw.jpg?w=960&cbr=1&q=90&fit=max"
         width: 960
         height: 480
+        isCached: true
+  - title: "Tesla owners could soon gain ‘Full Self-Driving’ access at the touch of a button, prompting criticism from regulators and safety advocates"
+    excerpt: "Tesla is expected to issue a wide release software it deems to be self-driving, giving owners the option as soon as midnight to upgrade to its most advanced driver-assistance suite and soon putting thousands of drivers on the road with the unregulated and largely untested features."
+    publishedDateTime: 2021-09-24T22:45:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/09/24/tesla-full-self-driving/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 20
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6IVIAUA35II6ZPVIGCHKCNCZJ4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "Q7GdZjWEm/rXYbSL+xG120MCeEC+QJT1a3cwCp/hTnI8RtwXRIApwv1v4a97Ex/iKi9jmUrAdHw+LjHa/6LrxzsS10J/zvIgLeP0ZOMRQZvaslg3nX1sMOTIWNxDnQtD1tXVP0r44BWaaVCMvaFSJi7Zpm4wUZlkTQMJiZf5f0jMbYKbQPMfI58hRhZwcND3PbaBlymtD+ZeMDW82rho/er8GgLeR6nwdkvAZrCtbHtMmY1LeDL24mQxl39SXqaeHb02CpXaV2Vgl9HKyHORcqoLVa14EgD98B0mG4kVGQSiGyyux1B7wYFbM56OH7jFAmHkXr3NlFdXMfa6CNa0N3fZSSOn4yMGNIjPj49DkRc=;Vg/zJ9eb1nRCl/b0slLSLQ=="

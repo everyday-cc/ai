@@ -9,7 +9,7 @@ ampWebUrl: "https://manometcurrent.com/natural-language-processing-nlp-market-re
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/natural-language-processing-nlp-market-revenue-share-key-growth-trends-major-players-and-forecast-2020-2027/?amp=1"
 type: article
 quality: 52
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Computer Vision Market Growth, Analysis, Latest Trends and Forecast till 2026"
-    excerpt: "The AI in computer vision market is estimated to be valued at USD 15 9 billion in 2021 and reach USD 51 3 billion by 2026 at a CAGR of 26 3 The growing need for quality inspection and automation"
-    publishedDateTime: 2021-09-20T06:14:00Z
-    webUrl: "https://www.openpr.com/news/2398401/ai-in-computer-vision-market-growth-analysis-latest-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2398401/ai-in-computer-vision-market-growth-analysis-latest-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2398401/ai-in-computer-vision-market-growth-analysis-latest-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 48
   - title: "Self-Driving Taxi Market Share, Top Manufacturers, Growth Factor, Industry Size, Future Trends and Forecast till 2026"
     excerpt: "The Self-Driving Taxi market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis,"
     publishedDateTime: 2021-09-21T09:14:00Z

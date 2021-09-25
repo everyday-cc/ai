@@ -9,7 +9,7 @@ ampWebUrl: "https://www.republicworld.com/amp/auto-news/cars/baidu-deepway-unvei
 cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/auto-news/cars/baidu-deepway-unveils-smart-robot-truck-with-advanced-self-driving-technology.html"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
         width: 1500
         height: 750
         isCached: true
-  - title: "Baidu DeepWay unveils autonomous truck"
-    excerpt: "Baidu DeepWay unveils autonomous truck September 18, 2021 by Mai Tao Leave a Comment    DeepWay, a Baidu-backed company, has unve"
-    publishedDateTime: 2021-09-20T06:16:00Z
-    webUrl: "https://menafn.com/1102820421/Baidu-DeepWay-unveils-autonomous-truck&source=29"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 19
 
 secured: "cALcv16YJPaTfhxhe/T+/O2/3x7iu0QQ3NTn2oMM9RgfZvANFAW168dG5hHkaWGV9FDFa6HQgyEAlj2Wr/WRxr7ueXXuXL52za6o34uQsjZgzS7O5g2f1KRzu7C6BUT9FFnLuNyp2u40Bsz1OAA1c5FJNhL0/TtYDzesdwwTjSfjvI2iaBInSfA374owJ8kHQcJO6L8R7FGBryn7L1AJzY3G3exdSf2Qw/UMWeNjjmiTvGfQF8JEv4LastOgJXnvU6kDDvlroCCzbINcaZuxhxs4/9gEKqP/eNcVPV752yyLfmAG4imvV+m14kokr3P/QNl3hUHvKce50bvM81HoAtghcI/TxBb96ixOnZstGyQ=;uDWSIxZHLM9cy/c0/Q96fA=="
 ---

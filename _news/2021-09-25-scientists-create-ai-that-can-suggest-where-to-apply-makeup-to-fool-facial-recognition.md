@@ -3,8 +3,8 @@ category: news
 title: "Scientists create AI that can suggest where to apply makeup to fool facial recognition"
 excerpt: "Researchers at Israel's Ben-Gurion University trained AI software to tell users where to apply subtle contouring to throw off facial recognition systems up to 98.8 percent of the time."
 publishedDateTime: 2021-09-24T21:38:00Z
-originalUrl: "https://www.dailymail.co.uk/sciencetech/article-10026371/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html"
-webUrl: "https://www.dailymail.co.uk/sciencetech/article-10026371/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html"
+originalUrl: "https://www.dailymail.co.uk/sciencetech/article-10026371/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html?fr=operanews"
+webUrl: "https://www.dailymail.co.uk/sciencetech/article-10026371/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html?fr=operanews"
 ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10026371/amp/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html"
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10026371/amp/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html"
 type: article
@@ -69,6 +69,6 @@ related:
       domain: finchannel.com
     quality: 13
 
-secured: "pOtdtbIsROYqIG+HZfNVqdgNaIABs6norkVshBI3YMngBBCFe0Ckc6FAyst5oEqvVZ5UDevtA5dowiYoncUwQXJClAqUYXWpUQV4h/ExmVi1jctFio2ix3a/QjG8Br4FjmnAKLt6t6+emJPY+qWNvtOAZpo3a5IH/8RFh0SJviBepqhu2enggRZiMt/aKWsq1wkpl/Nubsua0+x/sBFSkP7JDcY8d5GrTPXIZF158pgd7RPQOCYlREssCFt9h1aADlaYQHc/s2ErsrJ4Y1AVwJeyScoL0fIr4bAwuCMplkf9VhHhMympmofAFkLYctcZoWCJwDmvI0D5ogXvspxRPR67+d0w2Yz9L+5sZXCv4+s=;MCy6wjp4l8jaWBsL2AsAoA=="
+secured: "9A2qJHSCkOPXlfsk9yzT3oiVIzg6RHBQXDNzd0zqs/YIZHrMB6tZ3iNpstXOXoHrl3BWOpNnqu+IvZYPIZOrw2esLorQYgCETKPhHt7EIBRknPdE3JVGW+0Bz0NSR0Rg8rtoHVgDs8xMhUEYwUYPQ2dDTlVNMaotpvBkioq3uELbX6T4osQ6rA1UC3XjIQFR5yrwxfC6Yi/ru+Yf0Fy3Zlr9p4MT3vSfjZ0vAVDX7BVETVC8tr+JpSfcjxFKRgEYnwrDwyg2e4cvwZpYpUorDBwwrcLwyq8rLam84gV91XplXmkRJDJsra3DO0IR6IAXgItNGSSo8E+Tfiy69uq9uxlLpjUsNSsVbBQh4qbD7Os=;md2W/gqhAvg+ranUOAab9A=="
 ---
 
