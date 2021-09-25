@@ -127,20 +127,6 @@ related:
         width: 1000
         height: 1294
         isCached: true
-  - title: "Cloud Natural Language Processing Market is Going to Boom with 3M Company, Apple, Microsoft"
-    excerpt: "The Cloud Natural Language Processing Market report upholds the future market predictions with market size, revenue, production, Consumption, gross margin and other substantial factors. It also examines the role of the prominent Cloud Natural Language Processing market players including their corporate overview."
-    publishedDateTime: 2021-09-20T21:15:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271233552/cloud-natural-language-processing-market-is-going-to-boom-with-3m-company-apple-microsoft"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 46
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1631999664775.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Artificial Intelligence (AI) in Construction Market to Witness Huge Growth by 2027 | Autodesk, IBM, Microsoft, Oracle"
     excerpt: "The latest Artificial Intelligence AI in Construction market study offers an all inclusive analysis of the major strategies corporate models and market shares of the most noticeable players in this market The study offers a thorough analysis of the key"
     publishedDateTime: 2021-09-23T06:54:00Z

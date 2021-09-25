@@ -6,21 +6,22 @@ publishedDateTime: 2021-09-24T18:20:00Z
 originalUrl: "https://www.businessinsider.com/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9"
 webUrl: "https://markets.businessinsider.com/news/stocks/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9"
 type: article
-quality: 164
-heat: 174
+quality: 166
+heat: 176
 published: true
 
 provider:
   name: Business Insider
   domain: businessinsider.com
   images:
-    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
   - Computer Vision
+  - Natural Language Processing
 
 images:
   - url: "https://images2.markets.businessinsider.com/6010d4561d2df20018b710ac?format=jpeg"
@@ -46,6 +47,6 @@ related:
         height: 382
         isCached: true
 
-secured: "j8f6k+r5/hVpq2AqcTfmgsQQdv2O6MK+DTlTKZhvoY8pQwZ+vF3M3LIQBssevECPWBexO1beotH7s+LCQR5UxeaErnI5T1vOZDywvSzAM4Yu9m8rEHQs5kVmzHZhTuqACnDjUsg+jyh6E0aG8k+EuYG2FFsj8foCN45PFQcbJp3q7EOscp6HR3oie7/Zxw/cA99L45OdHn2fIHlMTFYeEqaz9KEEO13R4qlxyhmV/laQdYsUz2Z6d2EQuQUckQiHCG0picYOIYSREQTyo2vQygWGiiir+m4krtPNcGfI35i+g5SuDVJ8iRE3al8hMKPKDBlcIl56lNe/aiSe76M5kkrSrTqVQmzR5AgVQ3AKzwc=;Tr85TP2vBPXdV7k7EcaO+w=="
+secured: "Nn+brrgE059OfeUCrsN1q3yCxw201CMUlc8zkMkbYuRP2rcotajitqp8nrVwS3wkIjTZ+Y7E2g/cqWAivynhJro9hBBSdC74daDxuZYKKZinfDw8L6v9i8GPi5abwgX/5SPmM4mHTtvma2KAGJEc27fWNo+SouZwEN85i1Atv/dpICBSRmnqSUCayfiomntbenWLFgR5xxRXTecZu8T+U5/K6YAjunHJcAjrTT2H3McurEZ2xApiF8Ej1HQFw95i3sFiGKWTgLc229FCe90Wk2865f4ZBC9uQgZhuDQdPq36KTelPqjPnu5Mfp1JgsiuZ+QNGjZJQ2REtyu4CJFqVudoAb/NSL2mUDABriIBRWMVzFxTB8YaLEB3X6iMieLU4C0EdbCUWq+AU3GjCv5I/knRBZcz/Rc2iG+IviY2DSDa7X8XfsrF00x+ANQAW4OJTRXCSgDtNI9/jGib3vcUhJA3Xsmivg2ZAd5CBbdIHhlYdQ2cPsL++TrPCZq70F8fBAWQBPCJNFhgEc4Qwwft0OCV19E3qCzBSofyF1ONsnI=;DbIVvE/h6QkqGZCakFlgMA=="
 ---
 

@@ -103,6 +103,22 @@ related:
         width: 1080
         height: 1748
         isCached: true
+  - title: "‘Self-Driving’ Cars Begin to Emerge from a Cloud of Hype"
+    excerpt: "The term “self-driving” has lost its original intended meaning because the driving assistance feature on the cars that have been labeled “full self-driving” cannot maneuver without constant human supervision,"
+    publishedDateTime: 2021-09-25T14:09:00Z
+    webUrl: "https://www.scientificamerican.com/article/self-driving-cars-begin-to-emerge-from-a-cloud-of-hype/"
+    ampWebUrl: "https://www.scientificamerican.com/article/self-driving-cars-begin-to-emerge-from-a-cloud-of-hype/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/self-driving-cars-begin-to-emerge-from-a-cloud-of-hype/?amp=true"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 44
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/315BB2AC-9758-418B-A7808363D6F29820.jpg"
+        width: 790
+        height: 496
+        isCached: true
   - title: "Artificial intelligence is changing hiring and firing"
     excerpt: "\"While AI is becoming mainstream technology in the workplace, discrimination-by-algorithm must not,\" Keith A. Sonderling writes."
     publishedDateTime: 2021-09-23T13:42:00Z

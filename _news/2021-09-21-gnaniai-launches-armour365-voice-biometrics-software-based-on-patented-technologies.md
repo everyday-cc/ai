@@ -40,20 +40,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Advocates worried about global face biometrics systems find little transparency"
-    excerpt: "Transparency continues to be a capability that world governments cannot demonstrate when it comes to biometric systems aimed at their citizens."
-    publishedDateTime: 2021-09-20T22:07:00Z
-    webUrl: "https://www.biometricupdate.com/202109/advocates-worried-about-global-face-biometrics-systems-find-little-transparency"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 20
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2014/11/25184428/surveillance-graffiti.jpg"
-        width: 620
-        height: 250
-        isCached: true
   - title: "DHS suggests face biometrics bias reduction method, quantifies demographic effects"
     excerpt: "The paper reveals the finding that race and gender sameness contributes about 10 percent to the variation of face biometric similarity scores."
     publishedDateTime: 2021-09-23T23:49:00Z

@@ -41,6 +41,20 @@ related:
         width: 2048
         height: 1536
         isCached: true
+  - title: "CT town at forefront of national debate over facial recognition tech"
+    excerpt: "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning governmental use of facial recognition technology."
+    publishedDateTime: 2021-09-21T18:13:00Z
+    webUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b"
+    type: article
+    provider:
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 41
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/22/56/21048234/21/rawImage.jpg"
+        width: 2048
+        height: 1536
+        isCached: true
   - title: "Concerns over facial recognition in roll-out of Garda body-cams"
     excerpt: "The meeting heard from a number of concerned bodies regarding the proposed application of the bill, which was first announced last April"
     publishedDateTime: 2021-09-22T05:30:00Z
@@ -54,20 +68,6 @@ related:
       - url: "https://www.irishexaminer.com/cms_media/module_img/5319/2659796_6_googlediscover_Garda_20from_20Behind_20Generic_1_1_.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "CT town at forefront of national debate over facial recognition tech"
-    excerpt: "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning governmental use of facial recognition technology."
-    publishedDateTime: 2021-09-21T18:13:00Z
-    webUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b"
-    type: article
-    provider:
-      name: New Haven Register
-      domain: nhregister.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/20/22/56/21048234/21/rawImage.jpg"
-        width: 2048
-        height: 1536
         isCached: true
   - title: "Facial recognition cannot be a standalone authentication method"
     excerpt: "As more organisations look to facial recognition to improve their digital identity practices, they must remember that it cannot stand in isolation"

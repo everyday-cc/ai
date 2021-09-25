@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/oracles-new-digital-marketing-sof
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/oracles-new-digital-marketing-software-runs-on-ai"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://cdn.business2community.com/wp-content/uploads/2021/09/corporate-management-strategy-solution-branding-concept-900x546.jpg"
         width: 900
         height: 546
-        isCached: true
-  - title: "New EMA Research Finds AI is Crucial to Modern Software Testing"
-    excerpt: "Applitools (  announced its inclusion in new research published by Enterprise Management Associates (EMA) entitled, \"Disrupting the Economics of Software Testing Through AI.\" According to the report,"
-    publishedDateTime: 2021-09-20T22:33:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/new-ema-research-finds-ai-is-crucial-to-modern-software-testing-896075761.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/621068/Applitools_Logo.jpg?p=facebook"
-        width: 1498
-        height: 785
         isCached: true
 
 secured: "jEuHTfM8cG+LZPnz2Y79z4LS1xeM1q8R86A4A8IJuj26LGsbfOxvKbxiK7prD96qOULPUaRJQR4PJnqEabHg+UMyF47vzIQ7l47DoshTRNwcwMdU48iTEg4V6ShJnsqFnSapSwrMA8DECyW+n362ujJEd37TTy0ptpX7EEmcHIVmA2e27p8UVVEy9nXt5ic5rPAc5BmBmXgiGwwA1IMpLcLQ2qiX30E7pLUy9Tb9Lmt5Z24FkVrYTn88+EWzTcVYdnRBeKVPVQc7aNaR+urcmU/WPvmj8wLQlBhxzXo4iMxYdNy7GHa8BUsrfG6jSr2jFyLz7QhuVKf1ELr9IUscZEyJ/qmdATWkn0X7juReGd4=;J28IqFjcGCp/qpquMBegKQ=="

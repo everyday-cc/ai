@@ -1,30 +1,20 @@
 ---
 category: news
 title: "4 Stocks to Benefit From Continued Demand for AI"
-excerpt: "Companies look set to increase their spending on AI to reap its myriad benefits, making it wise to look at names like NVIDIA (NVDA), Microsoft"
-publishedDateTime: 2021-09-20T13:01:00Z
-originalUrl: "https://www.entrepreneur.com/article/386471"
-webUrl: "https://www.entrepreneur.com/article/386471"
+excerpt: "Thanks to these conveniences, companies around the world look set to increase their spending on AI solutions. Per a report by the International Data Corporation published on Aug 4, worldwide revenues for the AI market are expected to grow 15."
+publishedDateTime: 2021-09-20T10:59:00Z
+originalUrl: "https://www.nasdaq.com/articles/4-stocks-to-benefit-from-continued-demand-for-ai-2021-09-20"
+webUrl: "https://www.nasdaq.com/articles/4-stocks-to-benefit-from-continued-demand-for-ai-2021-09-20"
 type: article
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-386471.jpeg"
-    width: 635
-    height: 400
-    isCached: true
-
-secured: "gMHjuKIq0idn1vci16LSlCdVlcAeqEy3bZXjhFzvryThpjhyDPVpQe5E0nbYYNPutosOAZVgRTpxR0kJwTU/NCPR8GvztYsPbkD3T5R2hdaz6ltTyAeWmM65KG/7I8h1/XeBoZ3e1aZ1irGN/XNelmPW7Ksmn9D62Ey7pc1bG6AmCV6OJoxprVl8QiY8pOsNjo9RvN5cXszockaEsK+QbXMS+9QGXJdwtDYxMnsffo9s+j9wsDVu/Z5aIOYqZ5JVdarnmwN5QR+hiFWfFFhUFo5EOkJxfiQCCatpOLMcxsBXAD0McxUkTlDISXOzEgQsRDbMzlb4a4SokhyyfA6pbguFoBMINwq8iMLSFr6Pqe3S2RXVD1okEqK5tftBqDrLEC/Pc5PHGMf/VPVJ3s7zHNTa+TeqAWeHT9gRhvVCaYzKIJcEYDKJWECk1/fPk68zMf46FL5GmrT7IRWmD3gKBlof2ziJw6CHSHao8lsgw7MQo+LCPRbhltdquVx1MKjSxumLXjsva0Qq7QxBhPRt7g==;P/XPcy4jDsTF/xzZ4nMoiA=="
+secured: "pdD1v3Y6wINGlkz4noi4XJn+xEsqnDJNphyfcNlObEZ3kBPazxKswC9VYBvsNK9tbVzKQzN0VhSAvRVIR8ofM6apqjOsY6Ik0klUs+Us6mpzNuxLP8DMM5BELb4ezWfXCR2JYcbbme429I6CLYAfzG+BgxzJ3cEZy3lVwqipmD5/RMFsk/xgS39kfDXeotpc7h6KJiDsNHD9JmjqW8Zw+a3QKhbQEeP57Aik+4HXbl01mtJYKXPR3oj0/WvgRd/iqoyvPnDQbnHUsnl5/JRauStzsgTn4F7dcH150ksTnY+e9yAfykL7AVtiMQJW1bPiinq5qSFdVN4bgpvGIXivgA/CkgSbl2YX6Tj+R5z0C2I=;fZb4j79VdhLOumygtn1rRA=="
 ---
 

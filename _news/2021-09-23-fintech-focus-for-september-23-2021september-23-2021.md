@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "3 Top Artificial Intelligence Stocks to Buy in September"
+    excerpt: "Artificial intelligence has become an integral part of many technology applications and software, from what online ads shoppers see to how spam gets filtered out of our email inboxes. But some companies aren't just implementing AI into their services;"
+    publishedDateTime: 2021-09-25T15:45:00Z
+    webUrl: "https://www.fool.com/investing/2021/09/25/top-artificial-intelligence-stocks-buy-september/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/09/25/top-artificial-intelligence-stocks-buy-september/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/09/25/top-artificial-intelligence-stocks-buy-september/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 87
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F643803%2Fgettyimages-1285963556.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "GzWJ4A/iq5rjelYWCJ2B0u/2uLSJOyEXCSAMi5xrtQEEN3TPOSJRzWNEDZNFy9tFh4x5FLiU8hHMxE0RZi4jX7llvL+JkHb/UMH7/11GMGjA5qm2jJ6GHV2sXogcODxPyVfyD7m0Rzz+kpg/K9ap1OusNPrudoYD8W2ah+aH8+l0kYE8nMuX/zpdz4PeFQ6A6giULSy33JUsdVqOBrlIVFMCbXvwGcFDOSyWH2Zek7jhWXkQibRUt/8y3kTvvu7m7xKLAyoLUF5YCCeXouG3A5Pti9tTVh7wRKVKrNHqdmgIZAx3kjseBos4YLnf3TpZXO9cXRjEYUCZWfderP/spi8uQpFd7TP2YN3gD3gn6Lc=;cOkuOtQN8s5W8uFG8djfOw=="
 ---

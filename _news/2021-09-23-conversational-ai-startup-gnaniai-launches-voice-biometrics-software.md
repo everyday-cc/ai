@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/conversational-ai-startup-gnani-ai-launches-
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/amp/"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/21/full/20210921142704.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Advocates worried about global face biometrics systems find little transparency"
-    excerpt: "Transparency continues to be a capability that world governments cannot demonstrate when it comes to biometric systems aimed at their citizens."
-    publishedDateTime: 2021-09-20T22:07:00Z
-    webUrl: "https://www.biometricupdate.com/202109/advocates-worried-about-global-face-biometrics-systems-find-little-transparency"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 20
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2014/11/25184428/surveillance-graffiti.jpg"
-        width: 620
-        height: 250
         isCached: true
   - title: "DHS suggests face biometrics bias reduction method, quantifies demographic effects"
     excerpt: "The paper reveals the finding that race and gender sameness contributes about 10 percent to the variation of face biometric similarity scores."

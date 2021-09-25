@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "New EMA Research Finds AI is Crucial to Modern Software Testing"
-    excerpt: "Applitools (  announced its inclusion in new research published by Enterprise Management Associates (EMA) entitled, \"Disrupting the Economics of Software Testing Through AI.\" According to the report,"
-    publishedDateTime: 2021-09-20T22:33:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/new-ema-research-finds-ai-is-crucial-to-modern-software-testing-896075761.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/621068/Applitools_Logo.jpg?p=facebook"
-        width: 1498
-        height: 785
-        isCached: true
 
 secured: "172MctGfP2dw6LHGMdlFxDEyju1zBqbBBfU0zVEYCqCOP9zXuAR5dyS1bGazFsBLodk3P/FR0/Flm79Pv+RwhNk4Vidhb6KarFcfenLw9SZDS191pcB+LoqJsi7n9uQ2NETp9+lg264raTMGkDwbXb3lgkjhe76poyNBZKJCoJCSkCa3Txpg8r5BrvgVgwivNvSvhzxr7WMVkt5b3DbSnkKLcPzHZA3ixg0VYEz+52kh9Jd4vPZYW9CdqMQiBf5Uhf9iYKWOnYUhr+XEPdxteFo9mwgmaFrlKRjEnywc07GCHNJWwTEon2hvsxuxtn3X/LnoG2rCYSP78k0Mg0zkmZB2JgqpEJ8WieF07xJMdWYOqnUQwFM8XuVQvCUgzlTDMjpG9V0Yfr6cbYQh+yDEkF6ztd6RTA7JxdG5kWSMB30vv9KQBi/yqtpKSu3O2W5SYAzl7QjRzGgRAkKbtI++UYTgdrt4Z36qMW6fmrqzldyuLV2JbsfARYSLtXV077OyKb6LcQjTMJKhho9J7UtAhQ==;KQr9kdGjTjr7VBJYMZ5NJw=="
 ---

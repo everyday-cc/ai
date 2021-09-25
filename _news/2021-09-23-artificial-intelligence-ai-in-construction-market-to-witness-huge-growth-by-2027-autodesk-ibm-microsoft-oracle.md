@@ -123,20 +123,6 @@ related:
         width: 1000
         height: 1294
         isCached: true
-  - title: "Cloud Natural Language Processing Market is Going to Boom with 3M Company, Apple, Microsoft"
-    excerpt: "The Cloud Natural Language Processing Market report upholds the future market predictions with market size, revenue, production, Consumption, gross margin and other substantial factors. It also examines the role of the prominent Cloud Natural Language Processing market players including their corporate overview."
-    publishedDateTime: 2021-09-20T21:15:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271233552/cloud-natural-language-processing-market-is-going-to-boom-with-3m-company-apple-microsoft"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 46
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1631999664775.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Microsoft Highlights Windows Server 2022 Integration with Azure Services in Summit Talk"
     excerpt: "Microsoft had a lot to say about Windows Server 2022 in its 1.5-hour Windows Server Summit online event, held on Sept. 16. Many of Windows Server 2022's features are associated with security enhancements,"
     publishedDateTime: 2021-09-23T17:51:00Z

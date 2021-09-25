@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/news/technology/amazons-september-echo-e
 webUrl: "https://www.aboutamazon.com/news/devices/amazon-devices-services-news-september-2021"
 type: article
 quality: 122
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "3 Top Artificial Intelligence Stocks to Buy in September"
+    excerpt: "Artificial intelligence has become an integral part of many technology applications and software, from what online ads shoppers see to how spam gets filtered out of our email inboxes. But some companies aren't just implementing AI into their services;"
+    publishedDateTime: 2021-09-25T15:45:00Z
+    webUrl: "https://www.fool.com/investing/2021/09/25/top-artificial-intelligence-stocks-buy-september/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/09/25/top-artificial-intelligence-stocks-buy-september/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/09/25/top-artificial-intelligence-stocks-buy-september/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 87
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F643803%2Fgettyimages-1285963556.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Fintech Focus For September 23, 2021September 23, 2021"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
     publishedDateTime: 2021-09-23T02:32:00Z

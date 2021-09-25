@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/amp/"
 type: article
 quality: 60
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
       - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/09_sep/25_sat/img_1632546759149_925.jpg?"
         width: 1080
         height: 1748
+        isCached: true
+  - title: "‘Self-Driving’ Cars Begin to Emerge from a Cloud of Hype"
+    excerpt: "The term “self-driving” has lost its original intended meaning because the driving assistance feature on the cars that have been labeled “full self-driving” cannot maneuver without constant human supervision,"
+    publishedDateTime: 2021-09-25T14:09:00Z
+    webUrl: "https://www.scientificamerican.com/article/self-driving-cars-begin-to-emerge-from-a-cloud-of-hype/"
+    ampWebUrl: "https://www.scientificamerican.com/article/self-driving-cars-begin-to-emerge-from-a-cloud-of-hype/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/self-driving-cars-begin-to-emerge-from-a-cloud-of-hype/?amp=true"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 44
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/315BB2AC-9758-418B-A7808363D6F29820.jpg"
+        width: 790
+        height: 496
         isCached: true
   - title: "Royal Air Force Starts Testing Self-Driving Vehicles on Its Airbases"
     excerpt: "As part of the Royal Air Force's Astra campaign, the Academy of Robotics and the Royal Air Force teamed up to launch a new trial deployment of self-driving vehicles on an airbase. This trail marks the first time the RAF has deployed autonomous vehicles on a UK airbase."

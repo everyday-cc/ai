@@ -1,29 +1,29 @@
 ---
 category: news
-title: "California makes zero-emission self-driving vehicles mandatory by 2030"
-excerpt: "California will require all light-duty self-driving vehicles to emit zero emissions starting in 2030. Governor Gavin Newsom signed into law a bill sponsored by environmental groups that would eventually prohibit gas and hybrid-powered autonomous vehicles from operating in the state."
-publishedDateTime: 2021-09-25T05:50:00Z
-originalUrl: "https://inshorts.com/en/news/california-makes-zeroemission-selfdriving-vehicles-mandatory-by-2030-1632549035227"
-webUrl: "https://inshorts.com/en/news/california-makes-zeroemission-selfdriving-vehicles-mandatory-by-2030-1632549035227"
-ampWebUrl: "https://inshorts.com/m/en/amp_news/california-makes-zeroemission-selfdriving-vehicles-mandatory-by-2030-1632549035227"
-cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/california-makes-zeroemission-selfdriving-vehicles-mandatory-by-2030-1632549035227"
+title: "‘Self-Driving’ Cars Begin to Emerge from a Cloud of Hype"
+excerpt: "The term “self-driving” has lost its original intended meaning because the driving assistance feature on the cars that have been labeled “full self-driving” cannot maneuver without constant human supervision,"
+publishedDateTime: 2021-09-25T14:09:00Z
+originalUrl: "https://www.scientificamerican.com/article/self-driving-cars-begin-to-emerge-from-a-cloud-of-hype/"
+webUrl: "https://www.scientificamerican.com/article/self-driving-cars-begin-to-emerge-from-a-cloud-of-hype/"
+ampWebUrl: "https://www.scientificamerican.com/article/self-driving-cars-begin-to-emerge-from-a-cloud-of-hype/?amp=true"
+cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/self-driving-cars-begin-to-emerge-from-a-cloud-of-hype/?amp=true"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Inshorts
-  domain: inshorts.com
+  name: Scientific American
+  domain: scientificamerican.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/09_sep/25_sat/img_1632546759149_925.jpg?"
-    width: 1080
-    height: 1748
+  - url: "https://static.scientificamerican.com/sciam/cache/file/315BB2AC-9758-418B-A7808363D6F29820.jpg"
+    width: 790
+    height: 496
     isCached: true
 
 related:
@@ -89,21 +89,21 @@ related:
         width: 615
         height: 409
         isCached: true
-  - title: "‘Self-Driving’ Cars Begin to Emerge from a Cloud of Hype"
-    excerpt: "The term “self-driving” has lost its original intended meaning because the driving assistance feature on the cars that have been labeled “full self-driving” cannot maneuver without constant human supervision,"
-    publishedDateTime: 2021-09-25T14:09:00Z
-    webUrl: "https://www.scientificamerican.com/article/self-driving-cars-begin-to-emerge-from-a-cloud-of-hype/"
-    ampWebUrl: "https://www.scientificamerican.com/article/self-driving-cars-begin-to-emerge-from-a-cloud-of-hype/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/self-driving-cars-begin-to-emerge-from-a-cloud-of-hype/?amp=true"
+  - title: "California makes zero-emission self-driving vehicles mandatory by 2030"
+    excerpt: "California will require all light-duty self-driving vehicles to emit zero emissions starting in 2030. Governor Gavin Newsom signed into law a bill sponsored by environmental groups that would eventually prohibit gas and hybrid-powered autonomous vehicles from operating in the state."
+    publishedDateTime: 2021-09-25T05:50:00Z
+    webUrl: "https://inshorts.com/en/news/california-makes-zeroemission-selfdriving-vehicles-mandatory-by-2030-1632549035227"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/california-makes-zeroemission-selfdriving-vehicles-mandatory-by-2030-1632549035227"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/california-makes-zeroemission-selfdriving-vehicles-mandatory-by-2030-1632549035227"
     type: article
     provider:
-      name: Scientific American
-      domain: scientificamerican.com
+      name: Inshorts
+      domain: inshorts.com
     quality: 44
     images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/315BB2AC-9758-418B-A7808363D6F29820.jpg"
-        width: 790
-        height: 496
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/09_sep/25_sat/img_1632546759149_925.jpg?"
+        width: 1080
+        height: 1748
         isCached: true
   - title: "Royal Air Force Starts Testing Self-Driving Vehicles on Its Airbases"
     excerpt: "As part of the Royal Air Force's Astra campaign, the Academy of Robotics and the Royal Air Force teamed up to launch a new trial deployment of self-driving vehicles on an airbase. This trail marks the first time the RAF has deployed autonomous vehicles on a UK airbase."
@@ -150,6 +150,6 @@ related:
         height: 350
         isCached: true
 
-secured: "fnAKNPISoxVyUl9DSe8SZr3A1tuWGI+c0oe9arXfgI3glxSg/zX8CZrHBOMrKhx4JJa67+K3bD08bk2J1uSsanS6d6pzfu9cDD3Eyz2gtaWJ2p38Rh+ykNCPgvJBuhX2+rD9NBrzAAFSOXr+xBC1pVK0oYhC9/SpfzkvTYdbYSrwBOooWu7rVZeHoeptaaElpj5gkxoH3A+7ZABooNVD+bgAOgq4f3kHAiH2mzVqx6n59pemgAPFqIwOKwVQRsC82ghobS3NdvSUUmoPNS18bgKJ81kS1UUXuwwff1g1KWaAmD4+6HiDqUBqApZ4kYH8oVdR5ILhubZ7croEbpWjO6fOeX1aAGeJdE6a47mCCpo=;DWQOTb5072xLxxRTq23sGQ=="
+secured: "H/oNg+Kzxb2bDztRB9n9aIWdY6yKYMSCiXNhH72JQt6QcqYnq5wvAeWQ8w4hRpQi+XYEePAeIu7nCySax2z31m+meZR1hb9oRE3ePz3tg0w6hBSI8mxm5OaDtb30fcgJQcrJtGbmgXzxhD/c81Vlb1xFYnohz2Tbt5H55fWF8nafnZmiYnZTy42qozIL/hcOEPjSlMhPrhKTJ/EM0mqxWkTpZH6BADgGqf+yCvsHgPNBJVdvc4wYYaBdX1tcT0nN1n+JLInH1/DdwF3cX6VFAnIUTVjF/r7fZxLnilamS7IsPQhhfErs2EhoEnDlBdMX6EaalHMbok6YePb8GFRcaW6x+1/Op+c5759C9mV0ETk=;aMVYAgB9/o12/5FyQwyLJg=="
 ---
 
