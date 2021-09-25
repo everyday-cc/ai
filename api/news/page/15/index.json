@@ -2,6 +2,127 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-09-13-insights-on-the-artificial-intelligence-in-diagnostics-global-market-to-2028-by-component-diagnosis-type-and-region-researchandmarketscom.md",
+      "title": "Insights on the Artificial Intelligence in Diagnostics Global Market to 2028 - by Component, Diagnosis Type and Region - ResearchAndMarkets.com",
+      "excerpt": "The “Global Artificial Intelligence in Diagnostics Market Size, Share & Trends Analysis Report by Component (Software, Hardware, Services), by Diagnosis Type (Cardiology, Radiology, Neurology), by Region,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-health-software-coronavirus-pandemic-artificial-intelligence-804e6730dded4767945e7c5bcff89b9f",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-health-software-coronavirus-pandemic-artificial-intelligence-804e6730dded4767945e7c5bcff89b9f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-roadblocks-to-autonomous-security-robots.md",
+      "title": "Roadblocks to Autonomous Security Robots",
+      "excerpt": "There are concerns regarding the use of fully autonomous security robots which may get in the way of bringing them to market. Whether those concerns are legitimate or not may impact how quickly robotics will be adopted for security purposes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.roboticstomorrow.com/story/2021/09/roadblocks-to-autonomous-security-robots/17437/",
+      "originalUrl": "https://www.roboticstomorrow.com/story/2021/09/roadblocks-to-autonomous-security-robots/17437/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics Tomorrow",
+        "domain": "roboticstomorrow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-artificial-intelligence-in-healthcare-market-2021-to-2027-top-impacting-factors-and-investment-study.md",
+      "title": "Artificial Intelligence In Healthcare Market 2021 to 2027 Top Impacting Factors and Investment Study",
+      "excerpt": "The report titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed over",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1102787591/Artificial-Intelligence-In-Healthcare-Market-2021-to-2027-Top-Impacting-Factors-and-Investment-Study",
+      "originalUrl": "https://menafn.com/1102787591/Artificial-Intelligence-In-Healthcare-Market-2021-to-2027-Top-Impacting-Factors-and-Investment-Study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?157915",
+          "width": 397,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-13-attabotics-appoints-cyra-richardson-former-microsoft-and-amazon-executive-and-leader-as-cto-and-cpo-adds-former-softbank-robotics-vp-julien.md",
       "title": "Attabotics Appoints Cyra Richardson, Former Microsoft and Amazon Executive and Leader, as CTO and CPO; Adds Former SoftBank Robotics VP Julien Seret to Lead Network Supply ...",
       "excerpt": "She incubated Microsoft’s initial AI offerings, including Azure Cognitive Services and Azure Bot Services, to market into SaaS offerings. Cyra also played a significant role in many of Microsoft ...",
@@ -958,135 +1079,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-12-roadwork-ahead-using-deep-neural-networks-to-estimate-the-impacts-of-work-zones.md",
-      "title": "Roadwork ahead: Using deep neural networks to estimate the impacts of work zones",
-      "excerpt": "Roadside construction -- be it a detour, a closed lane, or a slow weave past workers and equipment -- work zones impact traffic flow and travel times on a system-wide level. The ability to predict exactly what those impacts will be,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/09/210909162231.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/09/210909162231.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-11T17:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-12-small-mighty-robots-mimic-the-powerful-punch-of-mantis-shrimp.md",
-      "title": "Small, Mighty Robots Mimic the Powerful Punch of Mantis Shrimp",
-      "excerpt": "Modeling the mechanics of the strongest punch in the animal kingdom, researchers with U.S. Army funding built a robot that mimics the movement of the mantis shrimp. These pugnacious crustaceans could pave the way for small,",
-      "sourceUrl": null,
-      "webUrl": "https://neurosciencenews.com/mantis-shrimp-robot-19301/",
-      "originalUrl": "https://neurosciencenews.com/mantis-shrimp-robot-19301/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://neurosciencenews.com/files/2021/09/mantis-shrimp-robot-neurosinces.jpg",
-          "width": 769,
-          "height": 825,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://neurosciencenews.com/mantis-shrimp-robot-19301/amp/",
-      "cdnAmpWebUrl": "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/mantis-shrimp-robot-19301/amp/",
-      "publishedDateTime": "2021-09-11T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neuroscience News",
-        "domain": "neurosciencenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-12-gpu-database-market-share-key-market-players-trends-forecast-20202028.md",
-      "title": "GPU Database Market Share, Key Market Players, Trends & Forecast, 2020–2028",
-      "excerpt": "The Global GPU Database market is forecast to reach USD 1,357.4 Million by 2028, according to a new report by Reports and Data.  The latest market research report published by Reports and Data, titled ‘Global GPU Database Market,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/gpu-database-market-share-key-market-players-trends-forecast-2020-2028/",
-      "originalUrl": "https://manometcurrent.com/gpu-database-market-share-key-market-players-trends-forecast-2020-2028/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/3-2.png",
-          "width": 750,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/gpu-database-market-share-key-market-players-trends-forecast-2020-2028/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/gpu-database-market-share-key-market-players-trends-forecast-2020-2028/?amp=1",
-      "publishedDateTime": "2021-09-11T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

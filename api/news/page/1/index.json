@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-25-here-are-the-top-eight-scariest-ai-and-robotics-moments-in-the-history-of-mankind.md",
+      "title": "Here are the top eight scariest AI and robotics moments in the history of mankind",
+      "excerpt": "Robots are sweeping the world, from amazon’s Alexa to full functioning human-like androids. However, there is a dark side to robots, and here are the eight scariest AI and robotics incidence in history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/top-8-scariest-ai-and-robotics-moments-in-history/",
+      "originalUrl": "https://www.analyticsinsight.net/top-8-scariest-ai-and-robotics-moments-in-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/10-Scariest-AI-and-Robotic-Moments-in-history.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-25T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-25-boston-dynamics-spot-robot-will-boldly-go-where-humans-shouldnt-and-make-work-safer.md",
       "title": "Boston Dynamics’ Spot robot will boldly go where humans shouldn’t — and make work safer",
       "excerpt": "With its latest update, Boston Dynamics' quadruped robot Spot is now more capable of making inspections and collecting data without human intervention.",
@@ -147,58 +190,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-25-for-self-driving-cars-the-hot-new-technology-is-radar.md",
-      "title": "For Self-Driving Cars, the Hot New Technology Is… Radar",
-      "excerpt": "Companies are improving and adapting the century-old technology to help vehicles operate more safely with less human involvement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/for-self-driving-cars-the-hot-new-technology-is-radar-11632542430",
-      "originalUrl": "https://www.wsj.com/articles/for-self-driving-cars-the-hot-new-technology-is-radar-11632542430",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-406622/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/for-self-driving-cars-the-hot-new-technology-is-radar-11632542430",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/for-self-driving-cars-the-hot-new-technology-is-radar-11632542430",
-      "publishedDateTime": "2021-09-24T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-25-technion-rated-1-in-artificial-intelligence-in-europe.md",
       "title": "Technion rated #1 in artificial intelligence in Europe",
       "excerpt": "Israel's leading tech institution, the Technion, has been rated the number one institute in leading European machine-learning research in a rating by CSRankings.",
@@ -242,49 +233,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-25-predictive-analytics-in-finance-predictive-analytics-through-the-financial-industry-lens.md",
-      "title": "Predictive Analytics in Finance: Predictive Analytics Through the Financial Industry Lens",
-      "excerpt": "If one looks up the general fintech statistics, they’ll be surprised by the figures. The financial services sector is predicted to grow by 25% annually, hitting $310",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/09/ab23099474/predictive-analytics-in-finance-predictive-analytics-through-the-financial-industry-lens",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/ab23099474/predictive-analytics-in-finance-predictive-analytics-through-the-financial-industry-lens",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/23099474",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23099474",
-      "publishedDateTime": "2021-09-24T15:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-25-scientists-create-ai-that-can-suggest-where-to-apply-makeup-to-fool-facial-recognition.md",
       "title": "Scientists create AI that can suggest where to apply makeup to fool facial recognition",
       "excerpt": "Researchers at Israel's Ben-Gurion University trained AI software to tell users where to apply subtle contouring to throw off facial recognition systems up to 98.8 percent of the time.",
@@ -293,7 +241,7 @@
       "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10026371/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html?fr=operanews",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -332,17 +280,17 @@
       "title": "Exclusive: ICE just paid $3.9 million for 'rapid' AI-powered facial recognition at migrant detention facilities",
       "excerpt": "ICE has a new contract with a company called Trust Stamp that says it offers facial matching through 3D renderings of people's heads and faces.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9",
       "originalUrl": "https://www.businessinsider.com/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 174,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/614df8372fb46b0019bdfd45?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://images2.markets.businessinsider.com/6010d4561d2df20018b710ac?format=jpeg",
+          "width": 701,
+          "height": 526,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -353,6 +301,58 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-09-24T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-09-25-sharks-smartest-robot-yet-features-ai-technology-similar-to-self-driving-cars.md",
+      "title": "Shark's Smartest Robot Yet Features AI Technology Similar to Self-Driving Cars",
+      "excerpt": "Forget about vacuuming for up to two months withShark's smartest and most premium self-empty robot NEEDHAM, Mass., Sept. 24, 2021 /PRNewswire/",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/shark-s-smartest-robot-yet-features-ai-technology-similar-to-self-driving-cars-1030822427",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/shark-s-smartest-robot-yet-features-ai-technology-similar-to-self-driving-cars-1030822427",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1634664/Image_1.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-24T10:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -375,9 +375,9 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI in Autos",
         "AI",
-        "Computer Vision"
+        "AI in Robotics"
       ]
     },
     {
@@ -632,7 +632,7 @@
       "originalUrl": "https://news.mit.edu/2021/deep-learning-helps-predict-new-drug-combinations-fight-covid-19-0924",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -780,7 +780,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -1116,6 +1116,57 @@
       ]
     },
     {
+      "path": "_news/2021-09-24-ai-cannot-be-the-inventor-of-patents-uk-court-rules.md",
+      "title": "AI cannot be the inventor of patents, UK court rules",
+      "excerpt": "The UK Court of Appeal has ruled that artificial intelligence (AI) cannot hold ownership of new patents, in a two-to-one majority verdict. The appeal was heard after Stephen Thaler, CEO of Imagination Engines,",
+      "sourceUrl": null,
+      "webUrl": "https://artificialinventor.com/dabus/",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/360998/uk-rules-that-ai-cannot-be-inventor-of-patents",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://artificialinventor.com/wp-content/uploads/2020/07/the-new-image-1.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-24T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-24-will-amazon-web-services-partnership-restore-snowflakes-triple-digit-growth.md",
       "title": "Will Amazon Web Services Partnership Restore Snowflake’s Triple-Digit Growth?",
       "excerpt": "Snowflake and AWS have a partnership that mixes cooperation and competition. Is that good for Snowflake investors?",
@@ -1164,48 +1215,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-amazons-september-echo-event-what-we-expect-from-ring-and-alexa.md",
-      "title": "Amazon's September Echo event: What we expect from Ring and Alexa",
-      "excerpt": "Amazon is holding its annual event Sept. 28, and promises news about devices, services and more. Here's what we're hoping to see.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aboutamazon.com/news/devices/amazon-devices-services-news-september-2021",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/amazons-september-echo-event-what-we-expect-from-ring-and-alexa/ar-AAOMbvv",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/b073721/2147483647/strip/true/crop/2357x1179+74+690/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fab%2F7d%2F7387c5c34035af9dafce465fe433%2Famazon-org-smile-extruded-sq.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T04:00:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "aboutamazon.com/news/devices/amazon-devices-services-news-september-2021",
-        "domain": "aboutamazon.com/news/devices/amazon-devices-services-news-september-2021",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

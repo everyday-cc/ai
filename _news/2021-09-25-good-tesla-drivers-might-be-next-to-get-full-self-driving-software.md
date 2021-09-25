@@ -1,27 +1,27 @@
 ---
 category: news
 title: "‘Good’ Tesla drivers might be next to get ‘full’ self-driving software"
-excerpt: "Chief Executive Officer Elon Musk has said on Friday, the electric-car maker will roll out an updated version of its Full Self-Driving beta software, which until now has only been available to"
-publishedDateTime: 2021-09-24T23:52:00Z
-originalUrl: "https://www.dailynews.com/2021/09/24/tesla-starts-judging-owners-it-charged-10000-for-self-driving/"
-webUrl: "https://www.dailynews.com/2021/09/24/tesla-starts-judging-owners-it-charged-10000-for-self-driving/"
-ampWebUrl: "https://www.dailynews.com/2021/09/24/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
-cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/09/24/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
+excerpt: "Chief Executive Officer Elon Musk tweeted that the download button customers will see Friday will request car owners’ permission for Tesla to assess their driving behavior for seven days."
+publishedDateTime: 2021-09-25T12:24:00Z
+originalUrl: "https://www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/"
+webUrl: "https://www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/"
+ampWebUrl: "https://www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
+cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Daily News
-  domain: dailynews.com
+  name: Mercury News
+  domain: mercurynews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.dailynews.com/wp-content/uploads/2021/09/Tesla_Crash_88520.jpg?w=1024&#038;h=682"
+  - url: "https://www.mercurynews.com/wp-content/uploads/2021/09/Tesla_Crash_88520.jpg?w=1024&#038;h=682"
     width: 1024
     height: 682
     isCached: true
@@ -319,6 +319,6 @@ related:
         height: 960
         isCached: true
 
-secured: "eHTiCfDI1ipRDH9fLjllxkC9Z+2DCaPH1cQydY9FQjEvIXWWSthcLhE9ygUG4aYdJSndhoTJdHsf3lzinlsiZ0A8v3J8LnqPewdI3espFqlJuMtejYQSDi4V79KgDizUlRkjMapu4LPjsW0RPCKa8RggFOkn+ofuBm1QAMmAvpcQCgvRQGLeGHx2Z50hkj0SY4EtsQmVLnwA+4237PMhRA2LEcMVZEGzNjXmJqPa3ha1IhSu74ilI3voG5FfF+IO/liMVr3urSupPI0QWJy7HiIz0AfGtkXm0+dwyEeTqSRP01JExz/wsYvNGtA04SNFyjUEj0A7ShWVxZOsSZQze1F4s/D0CLTAASp9pmJJQikte1x6GznX0tApXglR1oTJFV8Rc1Dhc0F+EkH9WGBlqiYmiIeuYnCv4hoMbdFK8vXhLwC6k9PqKm9QhX5vlQDoJXgNzAiBXYNhyzds4RTLwCCGMazelUL2vi/ISV5Ua/9tO6G3Ugg4sA2nDAcKNct/oTG4zAuEAipw1h2QzzLZ7A==;nXKgbvxwPfcmZNB/pwB1qw=="
+secured: "/tcqyxzh1+9rrPX1GFnZ2M6OiDZxumY/c8LdYrEgqxd2f1tXLJvWNw91X/ZGxXzOIn7aw0ZO7FyzjrHrIn+uKB/9nrWz96RYPiGbWtx7A4HKRdT0hffFO+qgwRVby9WyjfhHs20WPY9OxFQ+JFXX5qOcniy78AZI9O/NxidbrTWRj1arUDE7ivs00a3ZwnU68SBigsdw7WtBZnuMzHbfl+D9tbNXkGu97RlHFFe1MzXFNgVLjxPR/NiFrsMrvV/DFV/108hkxiJy/+OQ7xw6FNct4DWFtEKj7dpS0+TMYIv9pT1LYDUohAHjW3ylaOOLQav/94R645dxECfkO7sDaNJg3Y3G9KgszjQWL3ms/Xo=;N6BPrAfZie/YyNImXvQuHg=="
 ---
 

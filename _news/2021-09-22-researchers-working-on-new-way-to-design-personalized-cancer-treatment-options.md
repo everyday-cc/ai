@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning tool could help oncologists make better treatment decisions"
-    excerpt: "When treating a cancer patient, oncologists aim to predict the course of the patient's disease to make critical treatment decisions. Knowing a tumor's unique molecular signature can help guide these decisions by providing clues on whether a cancer is slow-growing or aggressive and deadly,"
-    publishedDateTime: 2021-09-23T12:42:00Z
-    webUrl: "https://medicalxpress.com/news/2021-09-machine-tool-oncologists-treatment-decisions.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-09-machine-tool-oncologists-treatment-decisions.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-machine-tool-oncologists-treatment-decisions.amp"
+  - title: "Personalizing wellness recommendations at Calm with Amazon Personalize"
+    excerpt: "This is a guest post by Shae Selix (Staff Data Scientist at Calm) and Luis Lopez Soria (Sr. AI/ML Specialist SA at AWS). Today, content is proliferating. It’s being produced in many different forms by a host of content providers, both large and small. Whether it’s on-demand video, music, podcasts, or"
+    publishedDateTime: 2021-09-23T21:41:44Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/personalizing-wellness-recommendations-at-calm-with-amazon-personalize/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 56
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/machine-learning-tool.jpg"
-        width: 557
-        height: 415
-        isCached: true
+      name: AWS
+      domain: aws.amazon.com
+    quality: 69
 
 secured: "iZlXdUW/oFG8u7YzfBNrrBi9rxOZouX0Shz64UGhGlmpFtUkq62k7D/n9+yjaTj4+BnWoM4sa2dGns58HTZMjHFvB8SQ8lUyO6w+jQs7yIvilqbKQ2E3UQRiHGMdHgn9/TnO1OoMN9OBVucE2+1gO+MJO7sNMUssAeDBUGnJyjTvUekMxvJ1y74iA3pNt85x3sg+O9QOT0R/QHtgF2tB0o/Jg8fKV3GLHzj8T4rt11D+VOZWy5jEQQua+7q7XNbKIjn44FziYGDWZlCbq+BejLM+ugf/HvpHrNLknCc35t6/cl2Swy3dp3KlqLtvwLRBbEouekXdS1q9uUDCubZn2vcxqinLx3GYUHW+WMUpXTY=;YAN2XRBVgStMQ7w8s0F9Yg=="
 ---

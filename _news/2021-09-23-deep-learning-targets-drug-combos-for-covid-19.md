@@ -39,20 +39,6 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "Ireland Allies With AI to Combat COVID"
-    excerpt: "Ireland’s eHealth strategy leans heavily on AI and Big Data analysis. The nation has a bold seven-year eHealth strategy, with crack professionals, EUR21 billion in hand, and a 100,000-strong workforce."
-    publishedDateTime: 2021-09-23T10:02:00Z
-    webUrl: "https://www.yicaiglobal.com/opinion/the.yuan/ireland-allies-with-ai-to-combat-covid"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 39
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/ireland-allies-with-ai-to-combat-covid/16384856055611392.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "A machine-learning algorithm to target COVID testing of travellers"
     excerpt: "Optimizing the testing of incoming travellers for COVID-19 involves predicting those who are most likely to test positive. A machine-learning algorithm for targeted testing has been implemented at the Greek border."
     publishedDateTime: 2021-09-22T15:19:00Z

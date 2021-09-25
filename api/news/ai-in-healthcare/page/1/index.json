@@ -63,7 +63,7 @@
       "originalUrl": "https://news.mit.edu/2021/deep-learning-helps-predict-new-drug-combinations-fight-covid-19-0924",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -233,6 +233,49 @@
       "provider": {
         "name": "Medindia",
         "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-mayo-clinic-ceo-telehealth-ai-are-the-keys-to-healthcares-future.md",
+      "title": "Mayo Clinic CEO: Telehealth & AI are the keys to healthcare's future",
+      "excerpt": "Telemedicine, hospital-at-home programs and artificial intelligence will be key to improving healthcare access and affordability in the future, according to Gianrico Farrugia, MD, president and CEO of Rochester,",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/digital-transformation/mayo-clinic-ceo-telehealth-ai-are-the-keys-to-healthcare-s-future.html",
+      "originalUrl": "https://www.beckershospitalreview.com/digital-transformation/mayo-clinic-ceo-telehealth-ai-are-the-keys-to-healthcare-s-future.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/images/channels/digital-transformation/9.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-22T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -632,8 +675,8 @@
       "title": "Live Webinar: Driving Healthcare Decisions with Natural Language Processing",
       "excerpt": "Dr. Sabita Sankar, VP of Business Development at HUMA.AI, will sit down with Natalie Yeadon, to discuss “human-centric AI” and how to automate healthcare through human language, with special focus on the applications for Medical Affairs,",
       "sourceUrl": null,
-      "webUrl": "https://www.pmlive.com/pmhub/medical_education/impetus_digital/press_releases/live_webinar_driving_healthcare_decisions_with_natural_language_processing",
-      "originalUrl": "https://www.pmlive.com/pmhub/medical_education/impetus_digital/press_releases/live_webinar_driving_healthcare_decisions_with_natural_language_processing",
+      "webUrl": "https://www.pmlive.com/pmhub/healthcare_conferences_meetings_events/impetus_digital/press_releases/live_webinar_driving_healthcare_decisions_with_natural_language_processing",
+      "originalUrl": "https://www.pmlive.com/pmhub/healthcare_conferences_meetings_events/impetus_digital/press_releases/live_webinar_driving_healthcare_decisions_with_natural_language_processing",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1325,49 +1368,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-how-artificial-intelligence-can-be-used-to-augment-stem-cell-therapy-in-hospitals.md",
-      "title": "How Artificial Intelligence Can Be Used To Augment Stem Cell Therapy In Hospitals",
-      "excerpt": "Stem cell therapy comes with its own set of challenges despite being a revolutionary discovery in modern healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/science/how-artificial-intelligence-can-be-used-to-augment-stem-cell-therapy-in-hospitals",
-      "originalUrl": "https://www.bbntimes.com/science/how-artificial-intelligence-can-be-used-to-augment-stem-cell-therapy-in-hospitals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/Stem_CEll_AI.png",
-          "width": 1080,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbntimes.com/science/how-artificial-intelligence-can-be-used-to-augment-stem-cell-therapy-in-hospitals",
-      "cdnAmpWebUrl": "https://www-bbntimes-com.cdn.ampproject.org/c/s/www.bbntimes.com/science/how-artificial-intelligence-can-be-used-to-augment-stem-cell-therapy-in-hospitals",
-      "publishedDateTime": "2021-09-09T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

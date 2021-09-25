@@ -25,61 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "The next healthcare revolution will have AI at its center"
-    excerpt: "Human life expectancy increased from 31 years in 1900 to 72 years in 2017. Today, we are on the cusp of another healthcare revolution driven by artificial intelligence."
-    publishedDateTime: 2021-09-20T20:08:00Z
-    webUrl: "https://techcrunch.com/2021/09/20/the-next-healthcare-revolution-will-have-ai-at-its-center/"
+  - title: "Breaking down decision intelligence - and why it's not the same as artificial intelligence"
+    excerpt: "Despite Artificial Intelligence (AI) being long-heralded as the next evolution in dealing with business data, it is used as a catch-phrase or buzzword so often that the underlying meaning and value that it can bring has been lost."
+    publishedDateTime: 2021-09-21T08:30:00Z
+    webUrl: "https://www.itproportal.com/features/breaking-down-decision-intelligence-and-why-its-not-the-same-as-artificial-intelligence/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/breaking-down-decision-intelligence-and-why-its-not-the-same-as-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/breaking-down-decision-intelligence-and-why-its-not-the-same-as-artificial-intelligence/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 47
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1256204443.jpg?w=600"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Exploring Artificial Intelligence in Healthcare Around the Globe"
-    excerpt: "HL7 International hosts a panel of AI specialists from around the world highlighting the different uses of artificial intelligence in healthcare."
-    publishedDateTime: 2021-09-22T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/exploring-artificial-intelligence-in-healthcare-around-the-globe"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 56
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-5845715201.jpg"
-        width: 690
-        height: 400
-        isCached: true
-  - title: "Mayo Clinic CEO: Telehealth & AI are the keys to healthcare's future"
-    excerpt: "Telemedicine, hospital-at-home programs and artificial intelligence will be key to improving healthcare access and affordability in the future, according to Gianrico Farrugia, MD, president and CEO of Rochester,"
-    publishedDateTime: 2021-09-22T14:54:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-transformation/mayo-clinic-ceo-telehealth-ai-are-the-keys-to-healthcare-s-future.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/9.jpg"
+      - url: "https://cdn.mos.cms.futurecdn.net/7wpkwZ96dcE55zQ5nmxUST-1200-80.jpg"
         width: 800
-        height: 600
-        isCached: true
-  - title: "How is Data Annotation Enabling the Development of AI in Healthcare?"
-    excerpt: "In recent years, the idea of Artificial Intelligence has revolutionized the healthcare scene, and data annotation is at the forefront of this revolution, persistently driving progress in the development of Healthcare AI through continuous innovation."
-    publishedDateTime: 2021-09-22T21:09:00Z
-    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2021/09/22/450067-how-data-annotation-enabling-development-ai-healthcare.htm"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechzone.com
-    quality: 54
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-sep/8032624491-data23456.png"
-        width: 1000
-        height: 667
+        height: 500
         isCached: true
 
 secured: "kdERRaujrUar90irAQrvL87fUqYiUMab3hsRAuFY5HI6iP7jP8N/5cHrUFWEBwhNEm1ICWLoKwWbS4G8Bp5qaEtJQUXPVcQaGQjFahj4ygIQNBYW3J1ZzAeDuyG55JlJMjA6T7Q2j3kZBbSeHlAml+M2nWiB1JaPKEzl4u1Shmv0s4ou5ZnpFyBmn6a6Xvw08CAOSEMO9BiC/hhKoHpNcN+6ZXgW4m2FMk/wZvX3RtNZUnaaE7hAE4B8z0s4VFx/mfQpIDpEqlgU/uj5GYHoDXzs0/UeuTzdu7yUHzEAGK1TKgvLsURMmHLzNn2QFGNAMFMPKeIUxSG7CjO9de1pACohiJk+bAlmCS9gf+N0ZgM7mph1ZVjhR+uOQYLYIDH5Xt/LL7sVu6K58vgaBEQQO0zb3Y9IycQ1Epty2u6/SAPvLCdhxQgFGWMw/v74YJJId4Neu/5Sob0cTz2mg8pGKyWRbiJYHjZzShHxrpqeBDGR7DWoYstBgQsPkecXsRhKRDaC8UlR/ZGmAl+tjm3OoA==;Ua79kRhkG5bXz+Gziy+zFg=="

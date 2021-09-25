@@ -164,18 +164,18 @@ related:
         height: 641
         isCached: true
   - title: "‘Good’ Tesla drivers might be next to get ‘full’ self-driving software"
-    excerpt: "Chief Executive Officer Elon Musk has said on Friday, the electric-car maker will roll out an updated version of its Full Self-Driving beta software, which until now has only been available to"
-    publishedDateTime: 2021-09-24T23:52:00Z
-    webUrl: "https://www.dailynews.com/2021/09/24/tesla-starts-judging-owners-it-charged-10000-for-self-driving/"
-    ampWebUrl: "https://www.dailynews.com/2021/09/24/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/09/24/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
+    excerpt: "Chief Executive Officer Elon Musk tweeted that the download button customers will see Friday will request car owners’ permission for Tesla to assess their driving behavior for seven days."
+    publishedDateTime: 2021-09-25T12:24:00Z
+    webUrl: "https://www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/"
+    ampWebUrl: "https://www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
     type: article
     provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
+      name: Mercury News
+      domain: mercurynews.com
     quality: 59
     images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2021/09/Tesla_Crash_88520.jpg?w=1024&#038;h=682"
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/09/Tesla_Crash_88520.jpg?w=1024&#038;h=682"
         width: 1024
         height: 682
         isCached: true

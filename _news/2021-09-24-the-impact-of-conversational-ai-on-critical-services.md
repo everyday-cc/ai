@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itproportal.com/amp/features/the-impact-of-conversationa
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/the-impact-of-conversational-ai-on-critical-services/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Joint services announce winners of global AI competition"
-    excerpt: "Partnering with allied nations to identify the most-advanced Artificial Intelligence technologies was the theme for the first international"
-    publishedDateTime: 2021-09-20T19:07:00Z
-    webUrl: "https://www.army.mil/article/250419/joint_services_announce_winners_of_global_ai_competition"
-    type: article
-    provider:
-      name: United States Army
-      domain: army.mil
-    quality: 17
 
 secured: "x2cb/raPIC8rnA7bgLDkuVibvWpJI9mVxIkiMhLgFyfnlEmVIcpfnpZ8UVC6dOxioWLPaSbTLamfGDMeN4XNfZcwce2KQzprUkuO2I8F390QlHc3AC8LJQulTNNv/KaZX23f262MKHlElYtkk/3UTiwab5+JpVPZj836WPT3ZGhs7KhDc0+zhvrV5nTsIJ3GFHRB5Nm9CObF/qSc5dTX0narDbLb35mFCQsMgDPXx9FPdhm/ImwvxTPvGcWoFglJZ9SAp/whm+AgipGci/VQyGrCPOfNcjONoul+pbh8ubUuaARgIBH173s8tjXEPUgUOuwZI1ytpuYV0n6yPgpV+46SCX9NjOi09kWKVSIixlU=;Rw8ovrtv0808KkZxxNhxSg=="
 ---

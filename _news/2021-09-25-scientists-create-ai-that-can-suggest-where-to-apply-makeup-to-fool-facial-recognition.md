@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10026371/amp/Scienti
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10026371/amp/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html"
 type: article
 quality: 66
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -73,15 +73,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Plant scientists will use artificial intelligence to make crops more resilient"
-    excerpt: "With a budget of 50 million euros, the team aims connect specialists in plant sciences, data sciences, artificial intelligence (AI) and breeding companies over the next ten years on a method to ..."
-    publishedDateTime: 2021-09-20T19:58:00Z
-    webUrl: "https://finchannel.com/plant-scientists-will-use-artificial-intelligence-to-make-crops-more-resilient/"
-    type: article
-    provider:
-      name: The Financial
-      domain: finchannel.com
-    quality: 13
 
 secured: "gfAdlt5Y7cmDdqUUVdSF3odvaVP+bVzlDYHGpvw0sQg1m9LsUOnEmuqiqjRt5tEs5llM3h/WAWZP5OZmdn70DYLs7zH68CCyySDhI8WOuQmTrQ3/PqN1OtGYwME6JmrMzNFOxBzEMDV0O1iDx3pA1I1t4dibWmi2tXDbcvmus3R2gJCzQP/3a3TUYUB6I3b6Ebru1ebN/L1H1SPm/N3g5MDSHXzsVBp4xrHd9KVlWPU61rynJ8UuoKAYUd0AVS5VtxNyCfNn6tVjIi95dQupMyUZ3sKEMGyZgu5O/6eJoqvNOiIKmAR32j/fQpzVUZuKm4qSRC4jJpr3p1UNnrtiQ3rH2Hn+zMSCvyBPFhdrQZt6UxaByYJs/1Dxyu4ISE0jydmlLlsOdid3ow2HmsxwTJP6swkLbE131Ia0UyQ+HobLCXcGbX8kQcLHpIWYdfPDCjZKuwC0l4mZ3E+y+0NUtRkUv9eHxapcY1GhccQHqbDAc9jbJ3wc8hleQkdRCqNrG83CzyaupeyL3ELKfaUz+Q==;XMGB7jerNxZDzdrVDcDxFw=="
 ---

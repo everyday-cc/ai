@@ -54,15 +54,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "Joint services announce winners of global AI competition"
-    excerpt: "Partnering with allied nations to identify the most-advanced Artificial Intelligence technologies was the theme for the first international"
-    publishedDateTime: 2021-09-20T19:07:00Z
-    webUrl: "https://www.army.mil/article/250419/joint_services_announce_winners_of_global_ai_competition"
-    type: article
-    provider:
-      name: United States Army
-      domain: army.mil
-    quality: 17
 
 secured: "PGmqsAYtrTG4AvJY9I76Q/jwgIo1CA+worCBkG9V8NSeU7s3nMs0HdEMgIL2t81U2LUfYjQkq1mM1ZBj0+AxR3r+Ph1IdJHdIPhnXNqBKy6m+v7hwoR5R0vO+q+3N4WqyQzAhwun4s/B9HicjMZaxmacmiH+gwtCn8LiGPP7UqR6lSg4y4PdmzF18LmVmZlKObhKyZYkYelphgaRorh4DkM8KAjnVvyIWQRC88l90JUQUXH1gx9NQONcMsL6k8I9SZjK1hwZysmB+e3q6wzqeHCoCV0Q58pnpUzanBvJhzbFrsl0OVqfsyjkUOhj3rqAo/abzJXhqCO/Ar79Gd02+/VuUs7Xl28T0uu/Nzw6bIW544SBpgqJa1duhMDQV/tigtg67QZ8inLGozf5hS3BytU4j0kZIHUDOoHetMpC1UMd1qf5gLVTTFq2RZo79qOKDCwpE08b6BeXYDLzI4CWodUK9VRnIO6umb9XnLi0Y13zJu0aTHCo6DwzKcxUhlmRgBlbBuZ9dLC+WAZIm1Ne4A==;VJrUr5JoSZbYgOHIkwgzHg=="
 ---

@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-24-amazons-september-echo-event-what-we-expect-from-ring-and-alexa.md",
+      "title": "Amazon's September Echo event: What we expect from Ring and Alexa",
+      "excerpt": "Amazon is holding its annual event Sept. 28, and promises news about devices, services and more. Here's what we're hoping to see.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aboutamazon.com/news/devices/amazon-devices-services-news-september-2021",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/amazons-september-echo-event-what-we-expect-from-ring-and-alexa/ar-AAOMbvv",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/b073721/2147483647/strip/true/crop/2357x1179+74+690/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fab%2F7d%2F7387c5c34035af9dafce465fe433%2Famazon-org-smile-extruded-sq.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-24T04:00:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "aboutamazon.com/news/devices/amazon-devices-services-news-september-2021",
+        "domain": "aboutamazon.com/news/devices/amazon-devices-services-news-september-2021",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-24-gm-invests-300m-in-momenta-to-deliver-next-generation-self-driving-technologies-in-china.md",
       "title": "GM invests $300M in Momenta to deliver next-generation self-driving technologies in China",
       "excerpt": "General Motors will invest $300 million in China-based Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China. Momenta has pioneered a scalable path toward full autonomous driving by combining a data-driven approach with iterating algorithms—referred to as its “flywheel approach”—as well as a",
@@ -84,6 +126,48 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-opentrons-raises-200m-in-series-c-funding.md",
+      "title": "Opentrons Raises $200M in Series C Funding",
+      "excerpt": "Opentrons Labworks Inc., a NYC-based lab platform provider, raised $200M in Series C funding. SoftBank Vision Fund 2 led the round with participation by Khosla Ventures. Other investors in Opentrons include Sands Capital,",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2021/09/opentrons-raises-200m-in-series-c-funding.html",
+      "originalUrl": "https://www.finsmes.com/2021/09/opentrons-raises-200m-in-series-c-funding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2021/09/opentrons.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-24T02:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "finsmes.com",
+        "domain": "finsmes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -181,7 +265,7 @@
       "originalUrl": "https://www.itproportal.com/features/the-impact-of-conversational-ai-on-critical-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -419,6 +503,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-23-personalizing-wellness-recommendations-at-calm-with-amazon-personalize.md",
+      "title": "Personalizing wellness recommendations at Calm with Amazon Personalize",
+      "excerpt": "This is a guest post by Shae Selix (Staff Data Scientist at Calm) and Luis Lopez Soria (Sr. AI/ML Specialist SA at AWS). Today, content is proliferating. It’s being produced in many different forms by a host of content providers, both large and small. Whether it’s on-demand video, music, podcasts, or",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/personalizing-wellness-recommendations-at-calm-with-amazon-personalize/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/personalizing-wellness-recommendations-at-calm-with-amazon-personalize/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-23T14:41:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-24-ibm-research-says-analog-ai-will-be-100x-more-efficient-yes-100x.md",
       "title": "IBM Research Says Analog AI Will Be 100X More Efficient. Yes, 100X.",
       "excerpt": "IBM Research believes it has a handle on how to train AI with analog circuitry. This could be the next wave of innovation.",
@@ -523,7 +650,7 @@
       "originalUrl": "https://techcrunch.com/2021/09/23/nosh-uses-ai-to-help-people-and-businesses-cut-down-on-their-food-waste/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -720,49 +847,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-warehouse-robotics-startup-hai-robotics-secures-200m-funding.md",
-      "title": "Warehouse robotics startup HAI ROBOTICS secures $200M funding",
-      "excerpt": "The funding will help the company boost its product fleet through technological upgrades, expanding its global operation networks, optimizing its supply chain management and corporate structure as well as talent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dcvelocity.com/articles/52462-warehouse-robotics-startup-hai-robotics-secures-200m-funding",
-      "originalUrl": "https://www.dcvelocity.com/articles/52462-warehouse-robotics-startup-hai-robotics-secures-200m-funding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dcvelocity.com/ext/resources/user-submissions/articles/03bffb1e-8f2e-4728-bb96-020dae72f048.png?height=635&t=1632371812&width=1200",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-23T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DC Velocity",
-        "domain": "dcvelocity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -1072,100 +1156,6 @@
         "name": "Phys.org",
         "domain": "phys.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-will-ai-led-automation-transform-future-of-workforce-for-banking-financial-services-industry.md",
-      "title": "Will AI-led automation transform future of workforce for banking, financial services industry?",
-      "excerpt": "India has immense potential to leverage AI and each sector is a huge opportunity in itself as India leaps ahead with Digital Transformation in the coming decade../Representative image | Banking and financial services industry has always been on the forefront in adoption of technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/business/will-ai-led-automation-transform-future-of-workforce-for-banking-financial-services-industry",
-      "originalUrl": "https://www.freepressjournal.in/business/will-ai-led-automation-transform-future-of-workforce-for-banking-financial-services-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.assettype.com/freepressjournal/2020-05/9490bbbe-3add-411e-a7e5-f05c423c3800/cats.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/business/will-ai-led-automation-transform-future-of-workforce-for-banking-financial-services-industry",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/will-ai-led-automation-transform-future-of-workforce-for-banking-financial-services-industry",
-      "publishedDateTime": "2021-09-22T23:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-singapore-ai-startup-advance-intelligence-raises-more-than-400-million-in-latest-round.md",
-      "title": "Singapore AI Startup Advance Intelligence Raises More Than $400 Million in Latest Round",
-      "excerpt": "By Yifan Wang Singapore artificial-intelligence startup Advance Intelligence Group has raised more than $400 million in its latest funding round,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/singapore-ai-startup-advance-intelligence-raises-more-than-400-million-in-latest-round-271632364943",
-      "originalUrl": "https://www.marketwatch.com/story/singapore-ai-startup-advance-intelligence-raises-more-than-400-million-in-latest-round-271632364943",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/singapore-ai-startup-advance-intelligence-raises-more-than-400-million-in-latest-round-271632364943",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/singapore-ai-startup-advance-intelligence-raises-more-than-400-million-in-latest-round-271632364943",
-      "publishedDateTime": "2021-09-22T19:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

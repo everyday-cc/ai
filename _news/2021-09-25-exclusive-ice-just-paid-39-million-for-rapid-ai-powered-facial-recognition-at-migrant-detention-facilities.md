@@ -4,29 +4,28 @@ title: "Exclusive: ICE just paid $3.9 million for 'rapid' AI-powered facial reco
 excerpt: "ICE has a new contract with a company called Trust Stamp that says it offers facial matching through 3D renderings of people's heads and faces."
 publishedDateTime: 2021-09-24T18:20:00Z
 originalUrl: "https://www.businessinsider.com/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9"
-webUrl: "https://www.businessinsider.com/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9"
+webUrl: "https://markets.businessinsider.com/news/stocks/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9"
 type: article
-quality: 66
-heat: 76
+quality: 164
+heat: 174
 published: true
 
 provider:
   name: Business Insider
   domain: businessinsider.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Natural Language Processing
   - AI
   - Computer Vision
 
 images:
-  - url: "https://i.insider.com/614df8372fb46b0019bdfd45?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://images2.markets.businessinsider.com/6010d4561d2df20018b710ac?format=jpeg"
+    width: 701
+    height: 526
     isCached: true
 
 related:
@@ -47,6 +46,6 @@ related:
         height: 382
         isCached: true
 
-secured: "yI++XFD3bL0Q48ahi2fwuuSbs/R8ad+wc2SKcFFEuoB5q46UvGoYkIYi9C0KW6dErFABSGJjd73kdyV+jD0r4SOYAgjUc8WcpYvNcSravVXlfZx3EthQLfAbBqRvwqBg1UIH1yZ8QleIGxiLX3zkgNaSMl3iH2GiWoVp4oyRvQRgwqXyYvoFEs17JhRRlgiz8TOoL2w+zd7LpHlSd0VwjxUn45f53NBqQdJiJYaxWzXoADcN9a5pXPlNXVs6hFQ4F5s2CsR+XVoqQtAqlRYG8uppr7zFRns8FVCg1wp7CUmjKd+/bgAhGKW9CXBAszjlROjWB9kdCWoN96ZkXwu47MrF+DfxBcXb/FdyVp7GHswMQ2RAen7HVsdgeB+vZgOvJ5pdGzrTP847Vqn8n02qhVRk4YOP2OUU8dBj7pGEBToxvTOe6Lu/jJV0qsqkE4PiAU2wX1gURORTzPA3FIEABFQuaMbDRW+M/VTIkaexr7qaZoT4xoG662WM6h5wKlzw/gprFM5ROTtYMzO2+8pO7g==;NBN/ODLqz9COzo4PYCShzA=="
+secured: "j8f6k+r5/hVpq2AqcTfmgsQQdv2O6MK+DTlTKZhvoY8pQwZ+vF3M3LIQBssevECPWBexO1beotH7s+LCQR5UxeaErnI5T1vOZDywvSzAM4Yu9m8rEHQs5kVmzHZhTuqACnDjUsg+jyh6E0aG8k+EuYG2FFsj8foCN45PFQcbJp3q7EOscp6HR3oie7/Zxw/cA99L45OdHn2fIHlMTFYeEqaz9KEEO13R4qlxyhmV/laQdYsUz2Z6d2EQuQUckQiHCG0picYOIYSREQTyo2vQygWGiiir+m4krtPNcGfI35i+g5SuDVJ8iRE3al8hMKPKDBlcIl56lNe/aiSe76M5kkrSrTqVQmzR5AgVQ3AKzwc=;Tr85TP2vBPXdV7k7EcaO+w=="
 ---
 

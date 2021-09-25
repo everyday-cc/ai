@@ -10,7 +10,7 @@
       "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10026371/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html?fr=operanews",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -49,17 +49,17 @@
       "title": "Exclusive: ICE just paid $3.9 million for 'rapid' AI-powered facial recognition at migrant detention facilities",
       "excerpt": "ICE has a new contract with a company called Trust Stamp that says it offers facial matching through 3D renderings of people's heads and faces.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9",
       "originalUrl": "https://www.businessinsider.com/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 174,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/614df8372fb46b0019bdfd45?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://images2.markets.businessinsider.com/6010d4561d2df20018b710ac?format=jpeg",
+          "width": 701,
+          "height": 526,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,7 +76,7 @@
         "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -92,7 +92,6 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
         "AI",
         "Computer Vision"
       ]

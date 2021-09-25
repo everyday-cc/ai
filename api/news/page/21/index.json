@@ -2,6 +2,154 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-09-08-googles-latest-object-recognition-tech-can-spot-everything-in-your-living-room.md",
+      "title": "Google's latest object recognition tech can spot everything in your living room",
+      "excerpt": "Automatic object recognition in images is currently tricky. Even if a computer has the help of smart algorithms and human assistants, it may not catch everything in a given scene. Google might ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2014-09-08-google-details-object-recognition-tech.html",
+      "originalUrl": "https://www.engadget.com/2014-09-08-google-details-object-recognition-tech.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/wEY2No26Zhf_rg4_wNhEFg--~B/aD0yNjY7dz02MzA7YXBwaWQ9eXRhY2h5b24-/https://o.aolcdn.com/hss/storage/midas/cb433fb6c234b014394ad56714ceee8b/200707597/google-image-recognition-tech.jpg",
+          "width": 630,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-lumo-labs-backs-autoscriber-to-advance-healthcare-ai-voice-recognition.md",
+      "title": "LUMO Labs Backs Autoscriber to Advance Healthcare AI Voice Recognition",
+      "excerpt": "LUMO Labs is backing Dutch health-tech startup Autoscriber, which specializes in artificial intelligence (AI)-supported voice recognition software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/lumo-labs-backs-autoscriber-advance-healthcare-ai-voice-recognition/",
+      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/lumo-labs-backs-autoscriber-advance-healthcare-ai-voice-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/09/shutterstock_1746429518-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/lumo-labs-backs-autoscriber-advance-healthcare-ai-voice-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/lumo-labs-backs-autoscriber-advance-healthcare-ai-voice-recognition/amp/",
+      "publishedDateTime": "2021-09-07T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-global-healthcare-artificial-intelligence-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027.md",
+      "title": "Global Healthcare Artificial Intelligence Market 2021 by Key Players, Segmentation, Industry Growth, Opportunities and Forecast by 2027",
+      "excerpt": "MarketQuest.biz has published another latest research report on Global Healthcare Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2027 that encapsulates vital details about the market current as well as future status during the mentioned forecast period of 2026.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027-2021-09-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027-2021-09-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-07T15:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-computer-and-human-vision-perspectives.md",
       "title": "Computer and Human Vision Perspectives",
       "excerpt": "The result of a series of four highly successful workshops on the topic, the book gathers many of the most distinguished researchers from both computer and human vision to reflect on their experience, identify open problems, and foster a cross-disciplinary ...",
@@ -1032,134 +1180,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-arteris-ip-flexnoc-interconnect-licensed-for-use-in-sk-telecom-sapeon-ai-chips.md",
-      "title": "Arteris IP FlexNoC Interconnect Licensed for Use in SK Telecom SAPEON AI Chips",
-      "excerpt": "Arteris IP today announced that South Korean telecommunications operator SK Telecom will use the Arteris IP FlexNoC interconnect IP in its next-generation SAPEON artificial intelligence (AI) systems-on-chip (SoCs).",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/news/50553/arteris-ip-flexnoc-interconnect-sk-telecom-sapeon-ai-chip.html",
-      "originalUrl": "https://www.design-reuse.com/news/50553/arteris-ip-flexnoc-interconnect-sk-telecom-sapeon-ai-chip.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-07T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-tesla-tsla-full-self-driving-beta-software-has-leaked.md",
-      "title": "Tesla (TSLA) Full Self-Driving Beta software has leaked",
-      "excerpt": "Beta software has leaked, and it’s being passed around in the Tesla hacking community. Fortunately, it’s not for any nefarious reason. As of now, Tesla’s FSD Beta software is only being tested internally and as part of the automaker’s “early access program,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/09/07/tesla-tsla-full-self-driving-beta-software-leaked/",
-      "originalUrl": "https://electrek.co/2021/09/07/tesla-tsla-full-self-driving-beta-software-leaked/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/09/Tesla-leak-FSD-firmware.jpg?resize=1200%2C628&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/09/07/tesla-tsla-full-self-driving-beta-software-leaked/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/07/tesla-tsla-full-self-driving-beta-software-leaked/",
-      "publishedDateTime": "2021-09-07T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-ai-powered-system-to-diagnose-glaucoma-using-eye-images.md",
-      "title": "AI-powered system to diagnose glaucoma using eye images",
-      "excerpt": "Scientists from Nanyang Technological University, Singapore (NTU Singapore), in collaboration with clinicians at Tan Tock Seng Hospital (TTSH) in Singapore have developed a novel method that uses artificial intelligence (AI) to screen for glaucoma,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-09-ai-powered-glaucoma-eye-images.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-09-ai-powered-glaucoma-eye-images.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/scientists-develop-ai.jpg",
-          "width": 2880,
-          "height": 2304,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-09-ai-powered-glaucoma-eye-images.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-ai-powered-glaucoma-eye-images.amp",
-      "publishedDateTime": "2021-09-07T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,59 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-09-25-exclusive-ice-just-paid-39-million-for-rapid-ai-powered-facial-recognition-at-migrant-detention-facilities.md",
-      "title": "Exclusive: ICE just paid $3.9 million for 'rapid' AI-powered facial recognition at migrant detention facilities",
-      "excerpt": "ICE has a new contract with a company called Trust Stamp that says it offers facial matching through 3D renderings of people's heads and faces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9",
-      "originalUrl": "https://www.businessinsider.com/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/614df8372fb46b0019bdfd45?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2021-09-24-the-impact-of-conversational-ai-on-critical-services.md",
       "title": "The impact of conversational AI on critical services",
       "excerpt": "AI could also be a game-changing communication tool for critical service providers. How? By empowering customer service departments",
@@ -63,7 +10,7 @@
       "originalUrl": "https://www.itproportal.com/features/the-impact-of-conversational-ai-on-critical-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -571,8 +518,8 @@
       "title": "Live Webinar: Driving Healthcare Decisions with Natural Language Processing",
       "excerpt": "Dr. Sabita Sankar, VP of Business Development at HUMA.AI, will sit down with Natalie Yeadon, to discuss “human-centric AI” and how to automate healthcare through human language, with special focus on the applications for Medical Affairs,",
       "sourceUrl": null,
-      "webUrl": "https://www.pmlive.com/pmhub/medical_education/impetus_digital/press_releases/live_webinar_driving_healthcare_decisions_with_natural_language_processing",
-      "originalUrl": "https://www.pmlive.com/pmhub/medical_education/impetus_digital/press_releases/live_webinar_driving_healthcare_decisions_with_natural_language_processing",
+      "webUrl": "https://www.pmlive.com/pmhub/healthcare_conferences_meetings_events/impetus_digital/press_releases/live_webinar_driving_healthcare_decisions_with_natural_language_processing",
+      "originalUrl": "https://www.pmlive.com/pmhub/healthcare_conferences_meetings_events/impetus_digital/press_releases/live_webinar_driving_healthcare_decisions_with_natural_language_processing",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1340,6 +1287,49 @@
       "provider": {
         "name": "CRN Australia",
         "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-12-nuix-asxnxl-acquires-natural-language-processing-company-topos.md",
+      "title": "Nuix (ASX:NXL) acquires natural language processing company, Topos",
+      "excerpt": "Global software company, Nuix (ASX:NXL) is set to take over natural language processing developer, Topos Labs.",
+      "sourceUrl": null,
+      "webUrl": "https://themarketherald.com.au/nuix-asxnxl-acquires-natural-language-processing-company-topos-2021-09-13/",
+      "originalUrl": "https://themarketherald.com.au/nuix-asxnxl-acquires-natural-language-processing-company-topos-2021-09-13/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://themarketherald.com.au/wp-content/uploads/2021/09/Screen-Shot-2021-09-13-at-9.55.06-am.png",
+          "width": 516,
+          "height": 272,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://themarketherald.com.au/nuix-asxnxl-acquires-natural-language-processing-company-topos-2021-09-13/amp/",
+      "cdnAmpWebUrl": "https://themarketherald-com-au.cdn.ampproject.org/c/s/themarketherald.com.au/nuix-asxnxl-acquires-natural-language-processing-company-topos-2021-09-13/amp/",
+      "publishedDateTime": "2021-09-12T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Market Herald",
+        "domain": "themarketherald.com.au",
         "images": null,
         "publishers": null,
         "authors": null

@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The next healthcare revolution will have AI at its center"
-    excerpt: "Human life expectancy increased from 31 years in 1900 to 72 years in 2017. Today, we are on the cusp of another healthcare revolution driven by artificial intelligence."
-    publishedDateTime: 2021-09-20T20:08:00Z
-    webUrl: "https://techcrunch.com/2021/09/20/the-next-healthcare-revolution-will-have-ai-at-its-center/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1256204443.jpg?w=600"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Exploring Artificial Intelligence in Healthcare Around the Globe"
-    excerpt: "HL7 International hosts a panel of AI specialists from around the world highlighting the different uses of artificial intelligence in healthcare."
-    publishedDateTime: 2021-09-22T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/exploring-artificial-intelligence-in-healthcare-around-the-globe"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 56
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-5845715201.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "Mayo Clinic CEO: Telehealth & AI are the keys to healthcare's future"
     excerpt: "Telemedicine, hospital-at-home programs and artificial intelligence will be key to improving healthcare access and affordability in the future, according to Gianrico Farrugia, MD, president and CEO of Rochester,"
     publishedDateTime: 2021-09-22T14:54:00Z
@@ -67,20 +39,45 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Microelectronics And The AI Revolution"
-    excerpt: "The recent AI Hardware Summit showcased trends in AI/ML, both in enabling and using it in various application domains, including EDA. As part of the summit, Imec had organized a panel on “Advanced Microelectronics Technologies Driving the AI Revolution."
-    publishedDateTime: 2021-09-23T07:03:00Z
-    webUrl: "https://semiengineering.com/microelectronics-and-the-ai-revolution/"
+  - title: "Mayo Clinic CEO: Health care needs transformation"
+    excerpt: "He says technology including telemedicine, home health care and artificial intelligence are ways to accomplish that."
+    publishedDateTime: 2021-09-22T09:20:00Z
+    webUrl: "https://www.jaxdailyrecord.com/article/mayo-clinic-ceo-health-care-needs-transformation"
+    ampWebUrl: "https://www.jaxdailyrecord.com/article/mayo-clinic-ceo-health-care-needs-transformation?amp"
+    cdnAmpWebUrl: "https://www-jaxdailyrecord-com.cdn.ampproject.org/c/s/www.jaxdailyrecord.com/article/mayo-clinic-ceo-health-care-needs-transformation?amp"
     type: article
     provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
+      name: Jacksonville Daily Record
+      domain: jaxdailyrecord.com
+    quality: 44
     images:
-      - url: "https://i2.wp.com/semiengineering.com/wp-content/uploads/Cadence_microelectronics-and-AI-revolution-fig1-AI-Use-and-Enablement.jpeg?fit=640%2C289&#038;ssl=1"
-        width: 640
-        height: 289
+      - url: "https://www.jaxdailyrecord.com/sites/default/files/355093_standard.jpeg"
+        width: 1024
+        height: 576
         isCached: true
+  - title: "Fintech, telehealth firms top LinkedIn's list of emerging Singapore start-ups"
+    excerpt: "The list was compiled based on several metrics such as employment growth and attraction of top talent.. Read more at straitstimes.com."
+    publishedDateTime: 2021-09-22T06:15:00Z
+    webUrl: "https://www.straitstimes.com/business/companies-markets/fintech-telehealth-firms-top-linkedins-list-of-emerging-singapore-start"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 21
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/09/22/fhstartups220921.jpg?itok=AsgQ6SbW"
+        width: 763
+        height: 509
+        isCached: true
+  - title: "Health care needs to transform, Mayo CEO says. Here's why time is right"
+    excerpt: "The Covid-19 pandemic accelerated the pace of change in health care by a decade, the Mayo Clinic CEO said on a visit to Jacksonville."
+    publishedDateTime: 2021-09-22T10:00:00Z
+    webUrl: "https://www.bizjournals.com/jacksonville/news/2021/09/22/heres-where-mayo-clinic-ceo-gianrico-farrugia-see.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "nbmUdj4Iusr54NpLlrzU5WvzUPnv3r8K4NwgepiGoBokvGp5EcbGMam3KRr6SITsSHyItTI594VQknnLIT8mZC/898CPSqwi4RM2d/9dxSiRwX4RiGrBF4DxZ0zjCLWejhLANLCiPyVA4mcBe3MnbpVutOMm6/9x695a38OvvKbwPZeYsVIFdgbAy+3DfbjL+rdlyRzCPdLCMHgBpYefGaPgfKWNCmL8CFi8cfRhgxEly3e8DvFuNaGVoPTUjW7dWmzDvARESIXHWSZenjWYr2y60SHVY6QpsRNqM6kP1NPQEFJAl1p31WBMSMdQK7q4b/ZGUz5W4EstwOCgc6wmgzoWF0Ei5GkgMyvM6e71QG39oQN7Hc1ffxga4LV0WOWul5D/rcExuz5Ma17E5V6VVJP+JDoGaix+OsenO62DbnSz6gDdDm7rtGQtO9rv8Lulc43R3wPekJc3VBXaFwkMgkLjyrHfszMuFS413hCZCixrtaUD7tqiW7RSoEwbGwz+RDtTLAd2zoAfBuMCaTdJEw==;A7gIa9srZzdeCAysUZ9MHQ=="
 ---

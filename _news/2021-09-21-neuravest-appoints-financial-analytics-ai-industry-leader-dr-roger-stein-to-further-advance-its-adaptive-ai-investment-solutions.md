@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Analytics Insight features some of the top AI researchers in India who are influencers in AI"
-    excerpt: "This article features some of the top AI researchers in India who are influencers in research work for AI models and machine learning algorithms. Click here to know more on these AI researchers."
-    publishedDateTime: 2021-09-22T11:02:00Z
-    webUrl: "https://www.analyticsinsight.net/top-ai-researchers-in-india-to-influence-your-mind-in-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 28
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Untitled-1.jpg-Top-AI-Researchers-in-India-to-Influence-Your-Mind-in-2021.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "E1tQwyMaDm1cGMVqnm8A7FRTEfTqALRbZqbN6V81B1+ljQgsGvicPDLQ3Pol+yA+ZOAMS9qu/mNW4b/L6wWpeX062WOYiI/xLsnYOz34EX/zUgRrW/aIgx5ApMLANIzJupEhP5BZOUrnzSS6U/SUt1dC3/ZZ0nsrO2fAdO5KuUuKceDWhfrMDeuz0LEjSVPMD8uOpNgG+klP4IUFhAED+LL+TSfCxRzWTTiYPTdPI7u3kVQ1JhQBt2eBiMRmu0y8YlV8NIMIrAjcNaYlDuHcVMMFvSBs8lmRzPpNPd0+FRmZyD6KkjR9UcEDfLJvpqBzGpmkoXnU+cqTm1kwhtIu3nrdOdlu05rSuagfIP8a7bk=;9x3rhqk7vXQgXIvtpJsDYg=="
 ---

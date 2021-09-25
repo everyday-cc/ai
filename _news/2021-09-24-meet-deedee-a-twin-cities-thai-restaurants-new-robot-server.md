@@ -29,10 +29,10 @@ images:
 related:
   - title: "Twin Cities Thai Restaurant Hires Robot Server Amid Staffing Shortage"
     excerpt: "DeeDee, a server assistant robot, is the first of its type operating in the state. It can carry food, drinks, and dirty dishes between the kitchen and dining tables."
-    publishedDateTime: 2021-09-24T21:00:00Z
-    webUrl: "https://minnesota.cbslocal.com/2021/09/24/twin-cities-thai-restaurant-hires-robot-server-amid-staffing-shortage/"
-    ampWebUrl: "https://minnesota.cbslocal.com/2021/09/24/twin-cities-thai-restaurant-hires-robot-server-amid-staffing-shortage/?amp"
-    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2021/09/24/twin-cities-thai-restaurant-hires-robot-server-amid-staffing-shortage/?amp"
+    publishedDateTime: 2021-09-25T07:30:00Z
+    webUrl: "https://minnesota.cbslocal.com/2021/09/25/twin-cities-thai-restaurant-hires-robot-server-amid-staffing-shortage/"
+    ampWebUrl: "https://minnesota.cbslocal.com/2021/09/25/twin-cities-thai-restaurant-hires-robot-server-amid-staffing-shortage/?amp"
+    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2021/09/25/twin-cities-thai-restaurant-hires-robot-server-amid-staffing-shortage/?amp"
     type: article
     provider:
       name: CBS Local

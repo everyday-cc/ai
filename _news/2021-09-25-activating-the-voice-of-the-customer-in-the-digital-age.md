@@ -25,47 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Advancing the Use of AI To Support the Customer Experience"
-    excerpt: "User experience has particular implications for call centers where AI tools like digital chatbots and virtual agents have become commonplace. Even a few years ago, those tools were still rudimentary."
-    publishedDateTime: 2021-09-20T20:28:00Z
-    webUrl: "https://www.govexec.com/assets/ai-support-customer-experience.pdf"
+  - title: "Humanizing AI: How Brands Are Revolutionizing Customer Experience in an Increasingly Digital World"
+    excerpt: "Empathy deficit is the largest imminent threat to a businesses’ growth, but there’s hope. Humanized AI is allowing brands to create empathetic customer experiences by offering uniquely personal interactions with digital people."
+    publishedDateTime: 2021-09-21T23:00:00Z
+    webUrl: "https://techcrunch.com/video/humanizing-ai-how-brands-are-revolutionizing-customer-experience-in-an-increasingly-digital-world/"
     type: article
     provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 37
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 53
     images:
-      - url: "https://cdn.govexec.com/media/screen_shot_2021-09-20_at_4.12.34_pm.png"
-        width: 1350
-        height: 1746
-        isCached: true
-  - title: "Genesys leverages AI for automation systems to enhance customer experience"
-    excerpt: "This article features how Genesys leverages artificial intelligence for automation system to enhance customer experience with top strategies. Click here to know more on Genesys AI that has driven growth in this tech-driven market."
-    publishedDateTime: 2021-09-22T11:45:00Z
-    webUrl: "https://www.analyticsinsight.net/genesys-top-strategies-in-leveraging-ai-for-automation-in-customer-service/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 35
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/AI-5.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "How Language Inequity Impacts the Customer Experience"
-    excerpt: "For businesses, language inequality can add up to missed opportunities, frustrated customers (or potential customers), and even lower profits. Prior to intelligent, AI-driven translation, it used to be difficult and costly to staff native-speaking customer ..."
-    publishedDateTime: 2021-09-22T04:51:00Z
-    webUrl: "https://customerthink.com/how-language-inequity-impacts-the-customer-experience/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 24
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/19912644_s.jpg"
-        width: 450
-        height: 330
+      - url: "https://img.vidible.tv/prod/2021-09/21/614a5eea37969837d3110d8f/614a60b056a7033202b02202_o_U_v1.jpg?w=640&h=360"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "65XmubWDMCrdiLncIhMKzTvla7NM+501LRUCiXetJcsq+2BWDylH36xFLl4KzSXCQwZEFm+jkU4vfOIBiKi0GzdGXWDuDjJxpT/5gsi2Su+eboOI5zXmJc5QX3OLjhOiL8/z1eXmHMJ/PfbE3zs/YruJnnuxjBPnOQth0lS4jftlHXJ3M5mlho+ivMyRgC71Yyu9n1A+oTP/+zi56GrYo8UwA9b5xn+Ip1AiVUsIcYFv9X6jsFtgd/RRI99xh8BCiTTehgqsMX7R9cJOtnmZXZGeNMMtwdFFkxbkpRWPRT4Kbn/nn1MYrjEU/z7aaOcyu0Q+ZIf+RA5AJKeiSbBwyPB7ZRZgpU2YcBmporzGTbw=;tHSgN2T2m0FeQ7a/EEF7+w=="

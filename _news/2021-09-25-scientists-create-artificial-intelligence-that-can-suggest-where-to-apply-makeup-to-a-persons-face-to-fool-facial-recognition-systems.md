@@ -30,16 +30,16 @@ related:
   - title: "Exclusive: ICE just paid $3.9 million for 'rapid' AI-powered facial recognition at migrant detention facilities"
     excerpt: "ICE has a new contract with a company called Trust Stamp that says it offers facial matching through 3D renderings of people's heads and faces."
     publishedDateTime: 2021-09-24T18:20:00Z
-    webUrl: "https://www.businessinsider.com/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9"
+    webUrl: "https://markets.businessinsider.com/news/stocks/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 66
+    quality: 164
     images:
-      - url: "https://i.insider.com/614df8372fb46b0019bdfd45?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://images2.markets.businessinsider.com/6010d4561d2df20018b710ac?format=jpeg"
+        width: 701
+        height: 526
         isCached: true
 
 secured: "wbLgX35GTALd4sWjiV3wES73xstjiY8ZZeuoJItBSFNMPKwaAy+vtYML6QPxUYuWdC+sSvsNJ9A/HAdV+tmdIMAek+Nl3JGvQZ//BM2qGC0SZw6t8C4/V2f19b1fr4acquyAzWJAspitVF8Fv8aF0pWsrMKwVW+xU0k2btwacfoh70arcvmGfi18hLUfIUOBDNWRm5pM8mhFNJWFNaycteeyWyTuFWi54bydPRYXVcCnCxSK+z7mkcqP3w6s3d+Y4vn/GK3X1sx596v1cwmG2ltcvaVg1yyOf+l6il1RVA+oRT1gJwHiS0q+EkdOEO5dTSkRdJasJiYRHxAnXVs6FWwqJhz/AoYurHq/NiO6UUoka55gDN78kk41tkqaTEWvPGv7FXIEEEekWxRqIfs0jVlJP3c6GKT/B1zlxzMKKQlHYTPcagkEuY02Ab3DRm7kTUxlWdCljPl663irUcfM7BXmeHY+zsetPvs8b7x3xtri0zSRVR1sq0Afwyia6ofKYgejlP/lidFQb94by1qN9A==;NWms8UivgPPuEqR9oCt4tQ=="

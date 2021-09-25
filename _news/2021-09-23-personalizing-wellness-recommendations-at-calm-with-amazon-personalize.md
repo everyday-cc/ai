@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/personalizing-wellne
 webUrl: "https://aws.amazon.com/blogs/machine-learning/personalizing-wellness-recommendations-at-calm-with-amazon-personalize/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: AWS
@@ -23,49 +23,19 @@ topics:
   - AWS AI
 
 related:
-  - title: "Putting the human back into the equation: Personalization and AI-driven digital banking experiences"
-    excerpt: "As more consumers turn to digital tools to manage their finances, banks must be proactive ini creating contextually-relevant experiences ."
-    publishedDateTime: 2021-09-20T20:20:00Z
-    webUrl: "https://venturebeat.com/2021/09/20/putting-the-human-back-into-the-equation-personalization-and-ai-driven-digital-banking-experiences/"
-    ampWebUrl: "https://venturebeat.com/2021/09/20/putting-the-human-back-into-the-equation-personalization-and-ai-driven-digital-banking-experiences/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/20/putting-the-human-back-into-the-equation-personalization-and-ai-driven-digital-banking-experiences/amp/"
+  - title: "Researchers working on new way to design personalized cancer treatment options"
+    excerpt: "Researchers are using AI and data to create virtual replicas of cancer patients' DNA, RNA, protein and other information. These virtual replicas are known as \"molecular twins.\" They will be used to help identify the most effective approach to treating each individual's disease."
+    publishedDateTime: 2021-09-21T18:21:00Z
+    webUrl: "https://www.turnto23.com/news/national/researchers-working-on-new-way-to-design-personalized-cancer-treatment-options"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 73
+      name: KERO-TV
+      domain: turnto23.com
+    quality: 20
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-597064809.jpg?w=1200&strip=all"
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/f060807/2147483647/strip/true/crop/2520x1323+0+44/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F11%2F70%2Fee191b6045128e6ce393d874acf4%2Fscreen-shot-2021-09-21-at-12.22.09%20PM.png"
         width: 1200
-        height: 618
-        isCached: true
-  - title: "Humanizing AI: How Brands Are Revolutionizing Customer Experience in an Increasingly Digital World"
-    excerpt: "Empathy deficit is the largest imminent threat to a businesses’ growth, but there’s hope. Humanized AI is allowing brands to create empathetic customer experiences by offering uniquely personal interactions with digital people."
-    publishedDateTime: 2021-09-21T23:00:00Z
-    webUrl: "https://techcrunch.com/video/humanizing-ai-how-brands-are-revolutionizing-customer-experience-in-an-increasingly-digital-world/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 53
-    images:
-      - url: "https://img.vidible.tv/prod/2021-09/21/614a5eea37969837d3110d8f/614a60b056a7033202b02202_o_U_v1.jpg?w=640&h=360"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Machines on a Mission: 10 Fiction-Busting Facts About AI Implementation"
-    excerpt: "Thanks to the evolution of data, cloud and compute power, AI can be implemented with greater ease, for less cost and with fewer resources than ever before. Still, myths and misconceptions about this emerging technology remain."
-    publishedDateTime: 2021-09-20T21:00:00Z
-    webUrl: "https://www.govexec.com/assets/machines-mission-10-fiction-busting-facts.pdf"
-    type: article
-    provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 37
-    images:
-      - url: "https://cdn.govexec.com/media/screen_shot_2021-09-20_at_4.25.16_pm.png"
-        width: 1352
-        height: 1750
+        height: 630
         isCached: true
 
 secured: "bFG84ChvMvwlCaDXmKU4OjHkVTHhiwcFOMgxnSyy97vooQqa/Z7eGkYGhbNQX2ieVIdn7RDy6u5Y2H+EljW/pAHl8TRkV5LFC73e78nt09f8P8JB+dgMjd7/a472TrutA29vdjbQtmQ6C2JIMszybHFTa25wcCqI1VOZfVOK1C3rwCQO/usAcxI90JvrNO76hWHd9ELb5iMkOtGHkUtg84WbMJ+zJf8TTt8wZjH+2hhcSiHUpDdAx0mDnfw1S1L2WJtUjet57a6Vm1H9iODLBtASSHX3iI4K0cpBIjbLOw6x5EExVDvEsWn5mApFB8HeLsyukE5QMHTzYlUYk9pHmJF/HHxX7wWFVMe+CYJh3w4=;R9UFaPzTR5iw+M4hBRG4Tw=="

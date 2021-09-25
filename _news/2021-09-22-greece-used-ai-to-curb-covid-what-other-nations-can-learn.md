@@ -4,11 +4,11 @@ title: "Greece used AI to curb COVID: what other nations can learn"
 excerpt: "Governments are hungry to deploy big data in health emergencies. Scientists must help to lay the legal, ethical and logistical groundwork."
 publishedDateTime: 2021-09-22T15:13:00Z
 originalUrl: "https://www.nature.com/articles/d41586-021-02554-y?error=cookies_not_supported&code=8f4770f9-ab1c-4cd2-b94a-d51946023835"
-webUrl: "https://www.nature.com/articles/d41586-021-02554-y?error=cookies_not_supported&code=8f4770f9-ab1c-4cd2-b94a-d51946023835"
+webUrl: "https://www.nature.com/articles/d41586-021-02554-y?error=cookies_not_supported&code=228ae75c-5eb0-44fd-820d-e33ff9818655"
 type: article
-quality: 37
-heat: 37
-published: false
+quality: 137
+heat: 147
+published: true
 
 provider:
   name: Nature
@@ -23,6 +23,22 @@ images:
     height: 576
     isCached: true
 
-secured: "MnRu1NkZ7vrPeyjYbUYgxNwaqmG9Kx1X1V5yftIBJffNOqA1u15LwE2Mi3dV1AGjqVF2amfM19LlM08r7+ROQlXHU0ZZesXAJ4GX2krAlAVg2ZjfVZdx58xfKge8klXwyD58AQrAhpvUaUDXtjjQdQYnsE16Wz2xs4U2FAewl8kpw+GDc6txBe2XP2yWa56N+hkvNnpf/LI7B4HlSfJq+naEKA+iXVaZ+GJUA5PdxYMNZKxWYkPNo2NcA05Uxcpmdpo56qzXuF/9ypng/u8659OyqYLd/K9cnrji6sMpgsRLc1TzbKN1nNMPzIH597BTXG8DpQF0MbiIE6C+diCQ1QSD8tfAV0tVjWqhKEWB9CY19zydajFhxJCvLMsYZz+HoYEEViTmf3MCHhXSCDhm3eowYXkvmYNp/DDoSiv/1/cqeb9pmg6/jHmzku5fYBCVve4Ae/v1a9aAhPWiB8E79uW0VVlYKLD/67CT+9qbvzLd6qKNavl3/U2dotp4CCnPKi8T7wDJcX5mCAS/l5zF6A==;9oD99mb65VUAgz9Gtz7xKQ=="
+related:
+  - title: "Ireland Allies With AI to Combat COVID"
+    excerpt: "Ireland’s eHealth strategy leans heavily on AI and Big Data analysis. The nation has a bold seven-year eHealth strategy, with crack professionals, EUR21 billion in hand, and a 100,000-strong workforce."
+    publishedDateTime: 2021-09-23T10:02:00Z
+    webUrl: "https://www.yicaiglobal.com/opinion/the.yuan/ireland-allies-with-ai-to-combat-covid"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 39
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/ireland-allies-with-ai-to-combat-covid/16384856055611392.jpg"
+        width: 720
+        height: 480
+        isCached: true
+
+secured: "nPDzsThfQdNrr6gkulO1nlMqL3rIilm6DN35J++FeqdbxR7dTd9LL5/TRN/4NFSarBKU5C9BdjwKg4TP3hMM0y4w9mksXRq0NwrSEQHsg7DblI7mFbOPi1DJQkFmI8+DmeP2UtGPUYFIvjU7CC6LxNAI+hLvcTuYvZC/FtNdVkihAPqvb68o3s23DK7xfrWC7XvTBJZ1ITmchXjLOi8UfP+sFgodEP262FXXu47f2puz75JE7442Tv3N/yv2Ktm+bnEP1/gD/KOjO0iIRcG4lWS4h5oimjodL7BWWBG+TiHu1D1q2zS+JFhTQtpwcx7OaUzSKpPYZcQmL7qloHT3XGRr4cHCA5VCWShWz+BoVgM=;fPNAoSrT9VDB/4/wu8BYJw=="
 ---
 

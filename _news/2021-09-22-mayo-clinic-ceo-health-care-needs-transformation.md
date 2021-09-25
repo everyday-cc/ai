@@ -9,7 +9,7 @@ ampWebUrl: "https://www.jaxdailyrecord.com/article/mayo-clinic-ceo-health-care-n
 cdnAmpWebUrl: "https://www-jaxdailyrecord-com.cdn.ampproject.org/c/s/www.jaxdailyrecord.com/article/mayo-clinic-ceo-health-care-needs-transformation?amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,48 @@ images:
     isCached: true
 
 related:
+  - title: "Mayo Clinic CEO: Telehealth & AI are the keys to healthcare's future"
+    excerpt: "Telemedicine, hospital-at-home programs and artificial intelligence will be key to improving healthcare access and affordability in the future, according to Gianrico Farrugia, MD, president and CEO of Rochester,"
+    publishedDateTime: 2021-09-22T14:54:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-transformation/mayo-clinic-ceo-telehealth-ai-are-the-keys-to-healthcare-s-future.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/9.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "How is Data Annotation Enabling the Development of AI in Healthcare?"
+    excerpt: "In recent years, the idea of Artificial Intelligence has revolutionized the healthcare scene, and data annotation is at the forefront of this revolution, persistently driving progress in the development of Healthcare AI through continuous innovation."
+    publishedDateTime: 2021-09-22T21:09:00Z
+    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2021/09/22/450067-how-data-annotation-enabling-development-ai-healthcare.htm"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechzone.com
+    quality: 54
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-sep/8032624491-data23456.png"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Fintech, telehealth firms top LinkedIn's list of emerging Singapore start-ups"
+    excerpt: "The list was compiled based on several metrics such as employment growth and attraction of top talent.. Read more at straitstimes.com."
+    publishedDateTime: 2021-09-22T06:15:00Z
+    webUrl: "https://www.straitstimes.com/business/companies-markets/fintech-telehealth-firms-top-linkedins-list-of-emerging-singapore-start"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 21
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/09/22/fhstartups220921.jpg?itok=AsgQ6SbW"
+        width: 763
+        height: 509
+        isCached: true
   - title: "Health care needs to transform, Mayo CEO says. Here's why time is right"
     excerpt: "The Covid-19 pandemic accelerated the pace of change in health care by a decade, the Mayo Clinic CEO said on a visit to Jacksonville."
     publishedDateTime: 2021-09-22T10:00:00Z

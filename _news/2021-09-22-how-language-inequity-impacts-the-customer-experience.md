@@ -7,7 +7,7 @@ originalUrl: "https://customerthink.com/how-language-inequity-impacts-the-custom
 webUrl: "https://customerthink.com/how-language-inequity-impacts-the-customer-experience/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,50 +23,6 @@ images:
     width: 450
     height: 330
     isCached: true
-
-related:
-  - title: "Advancing the Use of AI To Support the Customer Experience"
-    excerpt: "User experience has particular implications for call centers where AI tools like digital chatbots and virtual agents have become commonplace. Even a few years ago, those tools were still rudimentary."
-    publishedDateTime: 2021-09-20T20:28:00Z
-    webUrl: "https://www.govexec.com/assets/ai-support-customer-experience.pdf"
-    type: article
-    provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 37
-    images:
-      - url: "https://cdn.govexec.com/media/screen_shot_2021-09-20_at_4.12.34_pm.png"
-        width: 1350
-        height: 1746
-        isCached: true
-  - title: "Genesys leverages AI for automation systems to enhance customer experience"
-    excerpt: "This article features how Genesys leverages artificial intelligence for automation system to enhance customer experience with top strategies. Click here to know more on Genesys AI that has driven growth in this tech-driven market."
-    publishedDateTime: 2021-09-22T11:45:00Z
-    webUrl: "https://www.analyticsinsight.net/genesys-top-strategies-in-leveraging-ai-for-automation-in-customer-service/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 35
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/AI-5.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "Activating the Voice of the Customer in the Digital Age"
-    excerpt: "Leveraging best-in-class AI technologies, A*STAR spinoff INTNT.AI has remarkably boosted chatbot customer satisfaction by three times for financial services companies. Manuel Ho, CEO of INTNT.AI explains why he's so passionate about a customer experience future powered by understanding buyer intent."
-    publishedDateTime: 2021-09-25T08:41:00Z
-    webUrl: "https://menafn.com/1102861408/Activating-the-Voice-of-the-Customer-in-the-Digital-Age"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?14113"
-        width: 375
-        height: 250
-        isCached: true
 
 secured: "Rue6s8kTzTq9mRjAynmQnqKfqbriWMaA7bcIxlj4B0k98gmbySFgmpb9II7rmYKbjkynflkh7EOTi7rPqQG1A+YWdzdJhefzJUhflhKQ2BZJZV7ZVst5ShYLPBxG72DF/AWZKghHpzmSoLPF6KHziHpJLtNBmdSm2t4cWdtkpi1JQGx/QTP6FgMXAhUBTtBd+CN2F1UB73sFxgCjnfUyRCOxtakVU1/Ib9pj+0LIfRcXeZx2envkf/0csOolnw8XVw1A6cXgyb/mdEutqZOymveZsecJWfDhFmtLq4MYuqNro2KcVhQSNTVJ9n6j/Di/fuMYtbclIpmoN5rH/eNwztSyl2nlpLM/Pi+9g0HMv74=;+sFvAcIDopKnq2NlWBwNGA=="
 ---
