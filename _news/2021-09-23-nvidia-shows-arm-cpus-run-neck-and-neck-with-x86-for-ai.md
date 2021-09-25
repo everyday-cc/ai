@@ -41,6 +41,22 @@ related:
         width: 708
         height: 400
         isCached: true
+  - title: "NVIDIA Shows Beefy Arm CPUs Battling x86 Servers For A100 GPU-Powered Cloud AI Dominance"
+    excerpt: "NVIDIA is beating its chest over a round of benchmark runs highlighting the potency of its A100 accelerators paired with Arm or x86 hardware."
+    publishedDateTime: 2021-09-24T17:28:00Z
+    webUrl: "https://hothardware.com/news/nvidia-arm-cpus-a100-gpus-x86-based-servers"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-arm-cpus-a100-gpus-x86-based-servers"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-arm-cpus-a100-gpus-x86-based-servers"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 65
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/56321/content/small_nvidia_arm_server.jpg"
+        width: 708
+        height: 400
+        isCached: true
   - title: "NVIDIA claims ARM’s chips are capable of beating x86 A100 processors"
     excerpt: "But the servers are always touted to have the absolute edge of high-performance compute then are an area where x86 has typically reigned supreme. The ARM-based A100 server CPUs managed to beat x86 in the niche 3d-Unit workload."
     publishedDateTime: 2021-09-24T11:19:00Z

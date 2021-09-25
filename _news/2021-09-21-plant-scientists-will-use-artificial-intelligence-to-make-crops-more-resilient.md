@@ -66,6 +66,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Adversarial Makeup: Your Contouring Skills Could Defeat Facial Recognition"
+    excerpt: "Facial recognition is everywhere these days. Cloud servers churn through every picture uploaded to social media, phone cameras help put faces to names, and CCTV systems are being used to trace"
+    publishedDateTime: 2021-09-25T02:00:00Z
+    webUrl: "https://hackaday.com/2021/09/24/adversarial-makeup-your-contouring-skills-could-defeat-facial-recognition/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 37
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2021/09/E_0pmkmUYAw-AOT.png"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "TrMNd3TYp4CwS82YTD2ZO6sBEXaTwfOtpdjsqDRYIPfIMG6dzq+FrR2zl8oip/MliOHm1Pnt7D85FFIx1xPLS0lfyy6vbH0HE50l+U47kb+h5cze0ghQ2I0L/Qo95NAcBoo62e4K5GQMeWphsWOclzgd1b47v9M0HvAagltRoWqX+xM4qWNc73tbegPz1H2XPkKkPhbfECPzWsP/IJ/Y7aT/a39HE1epaksRDxMf5PlgNcuxrHtp6KWT5q6ofTDW1DRycPjRLKMykWtRlTtEsbsNqMq2dD1xvOahGDogb+gr/acE/TIl0WjhAW5CpWd1uw+sHfCDTxTiTOOBxCEDp75xJrTUp7vx37bNnpMwivlQhnCgVOvGtlH6ZGliyz2jVnb2fyAaucQlqdZ+2n8OnvjxxdUanIFNhFqf9Pz5GZ9qoxNxDe7h1uEECm49KTtgJ6NBGkXFuHRWk9FYtjCNn4tmhb2il4nqWF4WlkVZ8wPdCpPoh/3IOuFlhcbMYT/exiAM9RlWe23oWc189Fz3Kw==;liqlu6506WzwqEoC8a2X5A=="
 ---

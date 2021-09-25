@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Altana AI Raises $15M Series A Investment to Build the Single Source of Truth On the Global Supply Chain"
-    excerpt: "Altana AI has secured $15 million in Series A funding, led by GV (formerly Google Ventures). Floating Point, Ridgeline Partners, and"
-    publishedDateTime: 2021-09-20T10:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/altana-ai-raises-15m-series-a-investment-to-build-the-single-source-of-truth-on-the-global-supply-chain-301379819.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 100
   - title: "AI-powered supply chain visibility platform Altana nabs $15M"
     excerpt: "Altana AI, a startup creating a platform to unify global supply chain data, has raised $15 million in venture capital."
     publishedDateTime: 2021-09-20T17:00:00Z

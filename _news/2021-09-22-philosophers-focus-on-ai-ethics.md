@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AI Ethics and Governance"
-    excerpt: "In the year 2020, the global AI community – spanning across several alliances and borders – started accelerating discussion and agreements on how to envision and enforce them in existing and future AI technologies."
-    publishedDateTime: 2021-09-20T10:43:00Z
-    webUrl: "https://www.softwaretestingnews.co.uk/ai-ethics-and-governance/"
-    type: article
-    provider:
-      name: softwaretestingnews.co.uk
-      domain: softwaretestingnews.co.uk
-    quality: 54
-    images:
-      - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/08/Website-1024x585.jpg"
-        width: 1024
-        height: 585
-        isCached: true
   - title: "Thoughts on AI ethics getting concrete and useful"
     excerpt: "A new paper offers a solid accounting of tools that makers and end users can employ to better ensure algorithms are ethically sourced, developed and deployed."
     publishedDateTime: 2021-09-24T16:25:00Z
@@ -47,6 +33,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Marine Corps gets smart on Artificial Intelligence"
+    excerpt: "Senior Marine leaders from Marine Corps Recruiting Command and Manpower and Reserve Affairs visited Johns Hopkins University Applied Physics Laboratory research facility to learn about artificial intelligence programs on Sept."
+    publishedDateTime: 2021-09-22T00:00:00Z
+    webUrl: "https://www.dvidshub.net/news/405977/marine-corps-gets-smart-artificial-intelligence"
+    type: article
+    provider:
+      name: DVIDSHub
+      domain: dvidshub.net
+    quality: 17
 
 secured: "zUTsvEYv0FpTYBbkaDCBeKyiorFPXZN2s/Qz393PAYtu1qm+lP8xg/JFFOWirHIYD0iwoj3rHd5uWTbQgJ6Ke5etlY+1NeXpafWozrpp2v9dyO0/+AMKvMwuU/pU3gecceZeZrwNZSKIE72YexYpXmq3tAKXz52Vi+XTaY3NoAKrGPJuNaTjLsyXYHP+2CIgf7AyzZA0Mr3hA4XbgdrlbZZ1yGv00mitovecS+0eDnkD58B5LTwZcYfIa9KHmFl5Q7hFMDcru2O/kq5B6MNADSzrspAHEkUj0g6XAgtpaZWor3cuckTC/Gu+bh/Zm+GueM+SNK/ueyt3FJusI4p+Ed/gEZVIIqqYDkadxkaGZHQ=;9eacj37EGaAnwDTnQMayQQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10026371/amp/Scienti
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10026371/amp/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html"
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/19213b742f3de5da40a8fdb0cb9517e49332beb9/0_483_7245_4347/master/7245.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d9fc1d9556a123ab78071c0b069b332b"
         width: 600
         height: 360
+        isCached: true
+  - title: "Adversarial Makeup: Your Contouring Skills Could Defeat Facial Recognition"
+    excerpt: "Facial recognition is everywhere these days. Cloud servers churn through every picture uploaded to social media, phone cameras help put faces to names, and CCTV systems are being used to trace"
+    publishedDateTime: 2021-09-25T02:00:00Z
+    webUrl: "https://hackaday.com/2021/09/24/adversarial-makeup-your-contouring-skills-could-defeat-facial-recognition/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 37
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2021/09/E_0pmkmUYAw-AOT.png"
+        width: 800
+        height: 400
         isCached: true
   - title: "Plant scientists will use artificial intelligence to make crops more resilient"
     excerpt: "With a budget of 50 million euros, the team aims connect specialists in plant sciences, data sciences, artificial intelligence (AI) and breeding companies over the next ten years on a method to ..."

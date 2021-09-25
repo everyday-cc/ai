@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Shark's Smartest Robot Yet Features AI Technology Similar to Self-Driving Cars"
+    excerpt: "Forget about vacuuming for up to two months withShark's smartest and most premium self-empty robot NEEDHAM, Mass., Sept. 24, 2021 /PRNewswire/"
+    publishedDateTime: 2021-09-24T17:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/shark-s-smartest-robot-yet-features-ai-technology-similar-to-self-driving-cars-1030822427"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
+    images:
+      - url: "https://mma.prnewswire.com/media/1634664/Image_1.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Those Infuriating Drivers That Take Over The Left Lane And Prevent Passing Will Undoubtedly Be Stifling For AI Self-Driving Cars"
     excerpt: "Left lane usage varies by state laws and many drivers get confused or purposely exploit loopholes and road rage results. Here's what will happen once we have AI-based self-driving cars."
     publishedDateTime: 2021-09-24T15:30:00Z
@@ -87,20 +101,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61413cc0c4c126282f7979ce%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1730%26cropY1%3D27%26cropY2%3D1181"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Shark's Smartest Robot Yet Features AI Technology Similar to Self-Driving Cars"
-    excerpt: "Consumers are on the hunt for products that do more for less, and the search for top-of-the-line yet affordable robots is no different. That's why Shark®, (HKEX: 1691.HK), the #1 brand in vacuums*, is excited to introduce its newest and"
-    publishedDateTime: 2021-09-24T17:54:00Z
-    webUrl: "https://www.lelezard.com/en/news-20014769.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 50
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
   - title: "RAF trialling self-driving cars to free up personnel from mundane jobs"
     excerpt: "The self-driving, zero-emissions Kar-go has been developed by the Academy of Robotics and is being trialled on RAF Brize Norton in Oxfordshire"

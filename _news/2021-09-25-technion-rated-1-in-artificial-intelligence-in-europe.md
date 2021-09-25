@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jpost.com/israel-news/technion-rated-1-in-artificial-intel
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/israel-news/technion-rated-1-in-artificial-intelligence-in-europe-680257/amp"
 type: article
 quality: 59
-heat: 79
+heat: 81
 published: true
 
 provider:
@@ -51,6 +51,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "mhjZ0oLkYufx8eAxRJNQ6DUopBEyMrn818guqI8RKE8SaxGgN0D6+G17tLFitRo1iY5vAzKDOKfLxdBvtXCHOBv2w49zGc7B4/tuW58NKuvvEVxXGGMngMj9ya1ZcM/C9/iA6XPRenv2B4bXEnbQpNSmHMdsJuwRcqeoSuiUKOWTLo84xFsBxjRMFYwclxhvfPTr1aGQRL5sCea4b25c0LiPcWA8hIOEyMP3vsW0mVLJojCMJRnlWIJ3U6yE0i+S21DSyEAh6i2U5WSHmwazrwmehmyglSoNVrf6oX8DeOttEGC8/SvkT+wISU8Kt6CkSxrDKwDnY22IHZjOqQtJMs/zQUdrYjjU+bZh3Yz7Dgo=;+m30VYMPJaj+Qw4Nvx6Ubw=="
+secured: "IG64TYhiFqFn1UdoN6IW4zYq+R6qdJa4T1wSoOKAqzXVfOuvWsZb5u3iKU6yYb/O15Ix/HPzABTrj9aJx2nzyiTZwcQjbKKuvf2WTTHYKenZvEPuIhXbqLpUBUUPoFfSaPC1YU0v5aZ7NDuCPtFqStWbS2Bqn+lr5pSHjbMXuGGN1OfIrlZR1d23PPeh5FePZPs8nO3JAx1VSFy0AqEKqpFcndrUxvV22IWlrZA6B4jUhoigps3BnRPg4Q7me45lWyftte5cD7RRbRsSOMZcUi7gg/hlOH1lXHUa918nwAqxLLz7pYVs1HmhyKWC4Yt02RgftN/Y1+iPWTXjNVoR4oV8xXkGsgWbPhCWBitIFe7RCLZVPpt+WCJ8OJlbQlFlo5FqydN10MZSeVUTBRlQYR4LxI5MD/Bk+Uozpa8g9esxqcabXChf2vRQxnWrLOyT9ZYWOLpfccjd7Tx3Otge6rp304hXCirasxTqhWXfDp3UlOiOHO96Gjw33txE5+vWTYx4Zx6OZ1qkPXKJXiHnJA==;399gC1dUho377zznpLtVpg=="
 ---
 
