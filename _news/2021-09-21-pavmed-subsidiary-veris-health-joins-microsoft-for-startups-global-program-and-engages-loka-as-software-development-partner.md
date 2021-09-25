@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-20007576.html"
 webUrl: "https://www.lelezard.com/en/news-20007576.html"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "PAVmed Subsidiary Veris Health Joins Microsoft for Startups Global Program and Engages Loka as Software Development Partner"
-    excerpt: "PAVmed subsidiary Veris Health joins Microsoft for startups global program and engages Loka as software development partner."
-    publishedDateTime: 2021-09-21T17:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210921005193/en/PAVmed-Subsidiary-Veris-Health-Joins-Microsoft-for-Startups-Global-Program-and-Engages-Loka-as-Software-Development-Partner"
+  - title: "LenDenClub selected for ‘Microsoft for Startups’; aims to minimise NPAs and Frauds"
+    excerpt: "LenDenClub, India’s leading Peer-to-Peer(P2P) lending company, today announced its induction into ‘Microsoft for Startups’, a global program dedicated to accelerating the growth trajectory of high-potential start-ups."
+    publishedDateTime: 2021-09-25T07:42:00Z
+    webUrl: "https://menafn.com/1102861370/LenDenClub-selected-for-Microsoft-for-Startups-aims-to-minimise-NPAs-and-Frauds"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 48
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?831264"
+        width: 444
+        height: 250
+        isCached: true
 
 secured: "2oj+CQsyxdaRjXaBBzggTzD5fQVzVISnTSYfpCbl7h+ahYKzWQ2gZmkj4Zhwbu8bKjhpONVEygMmjTsQIrglmDeVCkgmOXAu9P/DAYfRi8IJgpk8g5jPE0aTPmfCnDgyDyFgzSaEuX3ga+F1cgnLBEYT9ccgV7TLH4jihjIqMKzZRQTh0BGhaf7ALwsH0fFAhXLxX359Ak/c6uRUOaj04vZJhUuxAFufaZ87nTepI0uiDTOZx03fnBkJaVOcZAeemhk+QlCmr43b0cZMsjQGa12/qtH4SyU1ko1Us7clAWVrmktMgAWa/D5Kw1cbZsbxyR6YhjW5Q1hguiaYqGmrT4wgHngTx5MBCRIbLJUq9bs=;gi91Yo7B8/EBi4A+Nt+xbw=="
 ---

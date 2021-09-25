@@ -72,22 +72,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Machine Learning Operationalization Software Market Expected to Develop by 2027 with COVID-19 Analysis | IBM, Microsoft"
-    excerpt: "This Machine Learning Operationalization Software market analysis flashes light on company profiles product specifications capacity and the most importantly market shares for each industry Three most prominent sectors discussed here are product type competition section and end use section It"
-    publishedDateTime: 2021-09-20T14:19:00Z
-    webUrl: "https://www.openpr.com/news/2399442/machine-learning-operationalization-software-market-expected"
-    ampWebUrl: "https://www.openpr.com/amp/2399442/machine-learning-operationalization-software-market-expected"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2399442/machine-learning-operationalization-software-market-expected"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 54
-    images:
-      - url: "https://cdn.openpr.com/U/9/U920196179_g.jpg"
-        width: 780
-        height: 470
-        isCached: true
   - title: "Why Wells Fargo picked both Microsoft Azure and Google Cloud"
     excerpt: "The bank wanted to diversify its risk and use different cloud-computing services for routine and unpredictable workloads, explains Saul Van Beurden, the head of technology at Wells."
     publishedDateTime: 2021-09-24T16:18:00Z
@@ -261,6 +245,6 @@ related:
       domain: businesswire.com
     quality: 21
 
-secured: "9ZEVICUG8XTW5+2AcJWtVbLjtbnmmBxa8Dzqqe6FXqXdlOENxEhXHx/6CwEqq3EhM8rdRqgIg1/3Fnfh0m0v4pMSf43XzzgY/bkrC48wcJfwHPfZbq036aSXN+CKODQOz/m1jWaL2u+KBvVVMYO/56GIR6xJ5NTuaxsdR7I/wDWbvfbjIUt5vwb+rdeyR64BE4mn8bjQsGce+mk6a8rORyLFNTtHI8xmKlH9wFyeE85jeoZWS1HrPbW0IsPWywGrLSPyP0uITOYJPGsv4O0H42Z+dQyHWFUkNIv1DVuxZ11XY9vGheZ9bUtmFhWDbeGhM+0E+HvWgokHKuZLZmBURMX3XD9vwuKtYdZ3bwMEdYQ=;V9QqlX6xrdieYBFxRHEg0w=="
+secured: "aC1mVf1Rsh9eborz73ZkOuNccdevXshyNsqprGbJJWMdDk0Idqsn2mGXChTHmvhITtPOpwFHZ86PpPm/R4qz0RGefHsucxEI0SgAv6PAc4QTPYZ0YkYYrwdQHdub8FOd38m7hdvfCJIl5MJ07UefgGNH8Ukz4JzQRuykU4ZDr6jm8v46WTtjkSQTFep8kQmoxC8cutLScpVgFDkioHgEIGLIeuwmyJicmncVOeJSleS/Z2YwjHFp5pKuUD6kvkgN8rTraSlxt1UQYx7Rm7GxHI3ee2N0cdYGtIemvd4aHQrUdUBcyPlp7bcaHT283sEJLoE9z9+KSIAqd5WGEg+2cOJzAUc0oR2RWwJrvKYaIUSJwVvU0l0zBuTkpODOnrHxAHNFSHyCWMLOR4bB1l8UXnKlBNN/DSfoVcCJHmnZIDpZj6jwTarV8c0fcbpUYj0lcgkzfmj0o49Qh0g2CjEgm3qLMtrjqiJI4ivFYuxbnI+t3+XlCR9oUh2AGazcJOvBFDXwjkbsOgl/xwvLSfRZ0A==;vWD7+rYEClpRHiMmlrIn3A=="
 ---
 

@@ -39,6 +39,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Exploring Artificial Intelligence in Healthcare Around the Globe"
+    excerpt: "HL7 International hosts a panel of AI specialists from around the world highlighting the different uses of artificial intelligence in healthcare."
+    publishedDateTime: 2021-09-22T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/exploring-artificial-intelligence-in-healthcare-around-the-globe"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 56
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-5845715201.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Microelectronics And The AI Revolution"
     excerpt: "The recent AI Hardware Summit showcased trends in AI/ML, both in enabling and using it in various application domains, including EDA. As part of the summit, Imec had organized a panel on “Advanced Microelectronics Technologies Driving the AI Revolution."
     publishedDateTime: 2021-09-23T07:03:00Z

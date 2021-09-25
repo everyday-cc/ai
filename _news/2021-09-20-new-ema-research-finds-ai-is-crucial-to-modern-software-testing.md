@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Oracle uses AI to automate parts of digital marketing"
-    excerpt: "Oracle Corp announced on Monday a new system that it says will use artificial intelligence to automate key parts of digital marketing campaigns."
-    publishedDateTime: 2021-09-20T13:31:00Z
-    webUrl: "https://www.reuters.com/technology/oracle-uses-ai-automate-parts-digital-marketing-2021-09-20/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/auU-eGYlMXaI82GhWXiVQXOg6iA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C3KTSLO2ZRNVLMJPKCCNHB4N44.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "How Artificial Intelligence Is Changing the Future of Digital Marketing"
     excerpt: "Introduction According to a survey conducted by PwC, 72% of business leaders use AI for their business advantage. The"
     publishedDateTime: 2021-09-22T12:04:00Z

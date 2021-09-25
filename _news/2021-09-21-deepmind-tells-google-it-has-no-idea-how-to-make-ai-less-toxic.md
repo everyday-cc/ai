@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/deepmind-tells-google-no-idea-make-ai-
 webUrl: "https://thenextweb.com/news/deepmind-tells-google-no-idea-make-ai-less-toxic"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/09/image-87.png?w=950&ssl=1"
         width: 551
         height: 372
-        isCached: true
-  - title: "DeepMind’s Bootstrapped Meta-Learning Enables Meta Learners to Teach Themselves"
-    excerpt: "Learning how to learn is something most humans do well, by leveraging previous experiences to inform the learning processes for new tasks. Endowing AI systems with such abilities however remains challenging,"
-    publishedDateTime: 2021-09-20T14:20:00Z
-    webUrl: "https://syncedreview.com/2021/09/20/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-107/"
-    ampWebUrl: "https://syncedreview.com/2021/09/20/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-107/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/09/20/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-107/amp/"
-    type: article
-    provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 55
-    images:
-      - url: "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
-        width: 790
-        height: 320
         isCached: true
 
 secured: "Icciv7lw1o+1C2lOeu5NLz19QtVc1YYvyuHe42falSX/Gqh7UuwN8WpfALUHymDP+NdVF5NLDv+EwAU9Gu21cth8hX0FYy329OqzsUynlMIRwfmk21sAebuPOv7lGcCNRranRgjVKt2btRXnOBLambLQWI1Hlbfrk4wZ0oZUH1P38tyrBgTVAz7+rQnAFlfF5ULLnBeLue3JmK1B6YEbXLpkyv43xFulvGnu+AGPu6DzzbnvnuOBXaQS44tNqqR/Avj0t92VvPT/wAnQCRz9uzEywMjLIdnsC2wrAI5jtOmTltTEvrrAfHAQlh+QSaResTtWLGQ43wvYZLuXrdVcEpTaRhQbrZtrr6fMNQ/hAFNNLOcvDkLnmqAZ6aH8FMaEEUVcXvLzRiDra17padxwPfRLo9CQ2xuknKGRi4wSqYxdEWZzyvBV9fz5caSNtwwjukHLt7810vkJ74DdsEVaMntV6ObCheCAvB9wvRwF3ubxiHL+UjoO7uYa5MSPbw6dWQtwzm8xyAfEBJRpqhI8FQ==;4C7uN/fQPUtOED7RdHELwQ=="

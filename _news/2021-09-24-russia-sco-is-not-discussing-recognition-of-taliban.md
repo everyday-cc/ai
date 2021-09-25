@@ -7,7 +7,7 @@ originalUrl: "https://thefrontierpost.com/russia-sco-is-not-discussing-recogniti
 webUrl: "https://thefrontierpost.com/russia-sco-is-not-discussing-recognition-of-taliban/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1920
     height: 886
     isCached: true
+
+related:
+  - title: "Unregulated use of facial recognition technology continues to spread across Russia"
+    excerpt: "Facial recognition has a wide range of uses in Moscow, from monitoring public transportation payments to traffic monitoring and a school pass system. More than 5,000 cameras with facial recognition software already operate in other regions of Russia."
+    publishedDateTime: 2021-09-20T22:36:00Z
+    webUrl: "https://ifex.org/unregulated-use-of-facial-recognition-technology-continues-to-spread-across-russia/"
+    type: article
+    provider:
+      name: IFEX
+      domain: ifex.org
+    quality: 33
+    images:
+      - url: "https://ifex.org/wp-content/uploads/2021/09/russia-facial-recognition-cctv-metro-station-getty.jpg"
+        width: 1000
+        height: 666
+        isCached: true
 
 secured: "6gofYArSkvGilbBsae/PtY8/Sv5R3kYtDVf1j6zI38WQOqtLaPy1xgZmUvILIegjn8d/V1mRCpRyaLqS1QlpcKkZLk/tMhN/EDl2s9QhlQtVFZPkBNI5gklVFPPZzxsdfka4VMDsu3iTKRadI3+gl6P8uYJYs/FfXquRTz7cWo3KfootI3xTHsdOpd4LounrdXa2a6ErQYwE/ujgnHvAxxbdi6AK0InuM8iL6ezx+6g39rFQAS/PSUcTQXVS+CcV58pl3utcQe49uRm5fL9AIOk8QS2Xp4e9AP8sfNOXrbf2zoR/8BzN8fMtH7ZluECtGK8KEpIP3ijF1rIy7d4J9EsGQQYm6N38dhBtYv//ZzQ=;CTb91JlRXGl9FYpFJb9M+g=="
 ---

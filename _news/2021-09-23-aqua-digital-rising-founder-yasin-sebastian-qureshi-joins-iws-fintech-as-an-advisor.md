@@ -26,6 +26,17 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "Aqua Digital Rising Founder Yasin Sebastian Qureshi Joins IWS FinTech as an Advisor"
+    excerpt: "Entrepreneur and investor Yasin Sebastian Qureshi, is the latest to join IWS FinTech’s board of advisors. The Founder and Head of Strategy at"
+    publishedDateTime: 2021-09-25T07:00:00Z
+    webUrl: "https://www.pr.com/press-release/845356"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 0
+
 secured: "1f5k55ucZ0AC+cGXiCOgOWMr5bo7zA+UaY0q2isTqwU1GGIQdh3KMzhDJ67+9Bj4eniXCcB2yR5mvKhO4dVewrFkWqXMrAjeDbIu74mcKIknCLZHHl2PMtZ/TPaXWkv9ivd6jgBEyrzRGBFovrBxzhuAXXULLP3J9bhTtw2dJiFtRvvdXfrHEP/kWOaZ2Gqo7CNQQMDp9g02VTuylNwAZhjRHc589xn2jCN/0U+Cuq6j4RV468By2gS1pSpH/jO6ZfMbF1KIeM9nzkWWy7iUvcbL2AZG6GB25+5vFCT1KoLf2zxqSG2HISc7SbxxX5C6vcCgVGKkdal9K44M2FNgKe9Is6vvTTHNfn8Gfo4isOy9LZebQzY2b5IIDbBiuSCK4yX+SxaV8A74oQrQOCgeXEFnvYMRPbvwTCFzMBjfxfClcpkl70uJz0pdAEC+swsJw+q2ZFWEVfJh9J4X7Lp3DSafCxJc6pQD4PbT/+GtRZZbHuhYyMX+04CO8YaZFvXmrFQFDubWp7eMVtiXsb1yGg==;kYwhLg2ikvq6JbGviaRa1w=="
 ---
 

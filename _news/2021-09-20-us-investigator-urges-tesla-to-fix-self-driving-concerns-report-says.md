@@ -57,22 +57,6 @@ related:
         width: 644
         height: 362
         isCached: true
-  - title: "NTSB says Tesla’s Full Self-Driving beta is ‘misleading & irresponsible’ ahead of wider release"
-    excerpt: "As Tesla is moving to release its Full Self-Driving beta software to its US fleet, the automaker is facing some pushbacks from US regulators. Now the NTSB is calling Tesla’s approach “misleading and irresponsible."
-    publishedDateTime: 2021-09-20T13:08:00Z
-    webUrl: "https://electrek.co/2021/09/20/ntsb-says-tesla-full-self-driving-beta-misleading-irresponsible-ahead-wider-release/"
-    ampWebUrl: "https://electrek.co/2021/09/20/ntsb-says-tesla-full-self-driving-beta-misleading-irresponsible-ahead-wider-release/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/20/ntsb-says-tesla-full-self-driving-beta-misleading-irresponsible-ahead-wider-release/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 77
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Samsung in talks with Tesla to make next-gen self-driving chips -Korea Economic Daily"
     excerpt: "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday."
     publishedDateTime: 2021-09-23T15:56:00Z
@@ -102,22 +86,6 @@ related:
       - url: "https://static.toiimg.com/thumb/resizemode-4,msid-86457352,imgsize-14054,width-800/86457352.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "NTSB Tells Tesla To Tackle Basic Autopilot Safety And Stop Misleading With Full Self Driving Claims"
-    excerpt: "Despite labeling its $10k option as Full Self Driving, NTSB head Jennifer Homendy thinks that Tesla is putting the cart before the horse."
-    publishedDateTime: 2021-09-20T14:08:00Z
-    webUrl: "https://hothardware.com/news/tesla-ntsb-safety-autopilot-full-self-driving-autonomous"
-    ampWebUrl: "https://amp.hothardware.com/news/tesla-ntsb-safety-autopilot-full-self-driving-autonomous"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/tesla-ntsb-safety-autopilot-full-self-driving-autonomous"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 75
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/56277/content/tesla_model_3_interior.jpeg"
-        width: 708
-        height: 398
         isCached: true
   - title: "Tesla Negotiating With Samsung To Produce Next-Gen Full Self-Driving Chip: Reports"
     excerpt: "A joint project between Tesla and Samsung, which aims to create a full self-driving (FSD) chip is currently under negotiation, according to reports. The said chip, which will be produced by the South Korean electronics giant and designed by the American electric vehicle company as per Electrek,"
@@ -256,20 +224,6 @@ related:
       - url: "https://www.driving.co.uk/s3/st-driving-prod/uploads/2021/09/0x0-Model3_RHD_02-1024x638.jpg"
         width: 1024
         height: 638
-        isCached: true
-  - title: "How Tesla is Using Big Data: Benefits & Challenges of Big Data in Self Driving Cars"
-    excerpt: "Tesla is leading the electric vehicle race by relying on big data, artificial intelligence and the internet of things to outsmart its competitors."
-    publishedDateTime: 2021-09-20T14:38:00Z
-    webUrl: "https://www.bbntimes.com/science/how-tesla-is-using-big-data-benefits-challenges-of-big-data-in-self-driving-cars"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 48
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/How_Tesla_is_Using_Big_Data-_Benefits__Challenges_of_Big_Data_in_Self_Driving_Cars.jpeg"
-        width: 1920
-        height: 938
         isCached: true
   - title: "Pass the Test and Tesla Owners Might Get Full Self-Driving Beta Access"
     excerpt: "The wait is almost over for some Tesla Inc. customers to get access to driver-assistance technology the company has marketed in controversial ways — as long as they’re on their best behavior."

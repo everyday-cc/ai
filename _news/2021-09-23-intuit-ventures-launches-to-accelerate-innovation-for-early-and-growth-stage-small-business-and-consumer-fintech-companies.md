@@ -19,33 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Logiq Joins Forces with Novaji Introserve to Offer Home Delivery and Mobile Fintech Services to ..."
-    excerpt: "(NEO: LGIQ) (OTCQX: LGIQ), a global provider of award-winning e-commerce and fintech solutions, has entered into a preliminary agreement with Novaji Introserve, a value-added IT and financial services company based in Lagos,"
-    publishedDateTime: 2021-09-20T14:17:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-africa-business-nigeria-financial-services-0b34d4d2aca2c7fa88bf1f61cea39848"
+  - title: "Spring Free EV Launches, Rolls Out Fintech Product to Accelerate Electric Vehicle Adoption and Address Climate Change"
+    excerpt: "Led by Former Sidecar Founder and CEO and backed by high profile entrepreneurs and investors, the Company Aims to Reduce CO2 Emissions by One Gigaton by 2030SAN FRANCISCO--(BUSINESS WIRE)--Spring Free EV,"
+    publishedDateTime: 2021-09-20T15:15:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=533565"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 10
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 1
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Logiq Joins Forces with Novaji Introserve to Offer Home Delivery and Mobile Fintech Services to Millions of Underserved and Unbanked in Nigeria"
-    excerpt: "Logiq Joins Forces with Novaji Introserve to Offer Home Delivery and Mobile Fintech Services to Millions of Underserved and Unbanked in Nigeria. NEW YORK, Sept. 20, 2021 (GLOBE NE"
-    publishedDateTime: 2021-09-20T15:47:00Z
-    webUrl: "https://www.mobilitytechzone.com/wimax/news/2021/09/20/9452331.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 3
-    images:
-      - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
-        width: 1577
-        height: 1050
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
   - title: "Intuit Ventures Launches to Accelerate Innovation for Early and Growth Stage Small Business and Consumer Fintech Companies"
     excerpt: "Press release content from Business Wire. The AP news staff was not involved in its creation. PRESS RELEASE: Paid content from Business Wire Press release content from Business Wire. The AP news staff was not involved in its creation."

@@ -85,22 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning Operationalization Software Market Expected to Develop by 2027 with COVID-19 Analysis | IBM, Microsoft"
-    excerpt: "This Machine Learning Operationalization Software market analysis flashes light on company profiles product specifications capacity and the most importantly market shares for each industry Three most prominent sectors discussed here are product type competition section and end use section It"
-    publishedDateTime: 2021-09-20T14:19:00Z
-    webUrl: "https://www.openpr.com/news/2399442/machine-learning-operationalization-software-market-expected"
-    ampWebUrl: "https://www.openpr.com/amp/2399442/machine-learning-operationalization-software-market-expected"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2399442/machine-learning-operationalization-software-market-expected"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 54
-    images:
-      - url: "https://cdn.openpr.com/U/9/U920196179_g.jpg"
-        width: 780
-        height: 470
-        isCached: true
   - title: "Datawiza Adds Support for Microsoft Azure Active Directory Conditional Access to Deliver Zero Trust Security"
     excerpt: "Datawiza, a pioneer in cloud-delivered Access Management as a Service (AMaaS), today announced support for Azure Active Directory (Azure AD) Conditional Access in its Access Management platform, making it easier and faster for joint customers"
     publishedDateTime: 2021-09-21T13:05:00Z

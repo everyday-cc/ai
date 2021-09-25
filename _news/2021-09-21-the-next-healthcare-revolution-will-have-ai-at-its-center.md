@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2021/09/20/the-next-healthcare-revolution-w
 webUrl: "https://techcrunch.com/2021/09/20/the-next-healthcare-revolution-will-have-ai-at-its-center/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Exploring Artificial Intelligence in Healthcare Around the Globe"
+    excerpt: "HL7 International hosts a panel of AI specialists from around the world highlighting the different uses of artificial intelligence in healthcare."
+    publishedDateTime: 2021-09-22T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/exploring-artificial-intelligence-in-healthcare-around-the-globe"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 56
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-5845715201.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Mayo Clinic CEO: Telehealth & AI are the keys to healthcare's future"
     excerpt: "Telemedicine, hospital-at-home programs and artificial intelligence will be key to improving healthcare access and affordability in the future, according to Gianrico Farrugia, MD, president and CEO of Rochester,"
     publishedDateTime: 2021-09-22T14:54:00Z

@@ -26,91 +26,48 @@ images:
     isCached: true
 
 related:
-  - title: "How To Prepare For The Coming AI Explosion In Business"
-    excerpt: "AI has incredible potential to transform our world and to increase productivity, improve efficiency and solve problems that have henceforth been considered unsolvable. But is your business ready for the impending AI explosion?"
-    publishedDateTime: 2021-09-20T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/20/how-to-prepare-for-the-coming-ai-explosion-in-business/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/20/how-to-prepare-for-the-coming-ai-explosion-in-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/09/20/how-to-prepare-for-the-coming-ai-explosion-in-business/amp/"
+  - title: "The next healthcare revolution will have AI at its center"
+    excerpt: "Human life expectancy increased from 31 years in 1900 to 72 years in 2017. Today, we are on the cusp of another healthcare revolution driven by artificial intelligence."
+    publishedDateTime: 2021-09-20T20:08:00Z
+    webUrl: "https://techcrunch.com/2021/09/20/the-next-healthcare-revolution-will-have-ai-at-its-center/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6144ff239db00c099f537b2f%2F0x0.jpg"
-        width: 1200
-        height: 857
+      - url: "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1256204443.jpg?w=600"
+        width: 600
+        height: 400
         isCached: true
-  - title: "Video Software Company axle.ai Featured in Business Insider Article"
-    excerpt: "This month, axle.ai announced that it had completed acquisition of Noscos, an AI/ML startup focusing on face recognition and logo recognition applications. This further enhances axle.ai’s technology stack while bringing new management strength to its ..."
-    publishedDateTime: 2021-09-23T23:25:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/09/ab23083424/video-software-company-axle-ai-featured-in-business-insider-article"
-    ampWebUrl: "https://www.benzinga.com/amp/content/23083424"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23083424"
+  - title: "Mayo Clinic CEO: Telehealth & AI are the keys to healthcare's future"
+    excerpt: "Telemedicine, hospital-at-home programs and artificial intelligence will be key to improving healthcare access and affordability in the future, according to Gianrico Farrugia, MD, president and CEO of Rochester,"
+    publishedDateTime: 2021-09-22T14:54:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-transformation/mayo-clinic-ceo-telehealth-ai-are-the-keys-to-healthcare-s-future.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
     images:
-      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
-        width: 1200
+      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/9.jpg"
+        width: 800
         height: 600
         isCached: true
-  - title: "Join now the exclusive Parrot ANAFI Ai Early Access Program for Professionals!"
-    excerpt: "Parrot, a leading European drone group, is pleased to announce today the start of its exclusive ANAFI Ai Early Access Program designed for professional drone operators. If you are a professional drone user or operator performing missions for your business or commercial activity,"
-    publishedDateTime: 2021-09-24T08:24:00Z
-    webUrl: "https://www.suasnews.com/2021/09/join-now-the-exclusive-parrot-anafi-ai-early-access-program-for-professionals/"
-    ampWebUrl: "https://www.suasnews.com/2021/09/join-now-the-exclusive-parrot-anafi-ai-early-access-program-for-professionals/?amp"
-    cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2021/09/join-now-the-exclusive-parrot-anafi-ai-early-access-program-for-professionals/?amp"
+  - title: "Microelectronics And The AI Revolution"
+    excerpt: "The recent AI Hardware Summit showcased trends in AI/ML, both in enabling and using it in various application domains, including EDA. As part of the summit, Imec had organized a panel on “Advanced Microelectronics Technologies Driving the AI Revolution."
+    publishedDateTime: 2021-09-23T07:03:00Z
+    webUrl: "https://semiengineering.com/microelectronics-and-the-ai-revolution/"
     type: article
     provider:
-      name: SUAS News
-      domain: suasnews.com
-    quality: 53
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 39
     images:
-      - url: "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2021/09/Anafi-Ai-early-access.jpg?fit=907%2C470&ssl=1"
-        width: 907
-        height: 470
+      - url: "https://i2.wp.com/semiengineering.com/wp-content/uploads/Cadence_microelectronics-and-AI-revolution-fig1-AI-Use-and-Enablement.jpeg?fit=640%2C289&#038;ssl=1"
+        width: 640
+        height: 289
         isCached: true
-  - title: "Preparing for a future pandemic with artificial intelligence"
-    excerpt: "PNNL data scientists are refining their artificial intelligence tools with COVID-19 data to advance therapeutics and treatments for a future pandemic."
-    publishedDateTime: 2021-09-21T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/929144"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f476ded2-27fb-4113-98af-8426c375b9d0/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 225
-        isCached: true
-  - title: "Three ways to maximize the business value of AI"
-    excerpt: "Don't get caught up in the AI hype, these three essential tips will enable you to rapidily deliver business value from your AI projects"
-    publishedDateTime: 2021-09-24T11:32:00Z
-    webUrl: "https://www.thoughtworks.com/en-ca/insights/articles/three-ways-to-maximize-the-business-value-of-AI-and-ML"
-    type: article
-    provider:
-      name: ThoughtWorks
-      domain: thoughtworks.com
-    quality: 37
-    images:
-      - url: "https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/meta/insights/in_meta_articles.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Preparing for a future pandemic with artificial intelligence"
-    excerpt: "When the novel coronavirus led to a global pandemic last year, doctors and researchers rushed to learn as much as possible about the virus and how our bodies respond to it."
-    publishedDateTime: 2021-09-21T20:07:00Z
-    webUrl: "https://phys.org/news/2021-09-future-pandemic-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 19
 
 secured: "HvVkVp8ueyT/48rP16uY71diiAGqOV4SSee2o1vKz0makPsj7ZKflSuyZi32JF30TeQN2HdI9ufdQGEpZLcF6oVyguMUXHbwf5OSwjZiPzdnLU8KYioBu3l1xhzaKcJOR121GyqDdo5pQEbbjP1Agoxnv4xno2YJJifxJEvnkUplRS6XOu6c/SUjJ8zlKuj0RFX8Yl7+ECNGhwFrbZ8+9v17h6KlaEXUKVb2MEegjbf1Q9VHPynscHLCligZLhS4Iwlehq5iW2bCE5BsQn6wrZNdgfG+pP3RiDQL80U4sLrf6xkEFIDChbjQQpHWF0CdN9iLIToLxXQLfyIgVuXh+kUC52kENaKQ2cyKLlzhOskCwj7Ff7y1WmpM6SJ/gqy5od/tg4MUhiPMhBK4hl/3lxi/U1vY7pYh8H1AYjMhdN7fro56PY9CqOSXLqBMGoWi8UhPa/8BquA+53aWASn0W/C58tgWFSNicFvBwlxCKwods7kEzN6j+bjoXCY2XK+YE+SNZe4V+4tBFaG7V7Dv+w==;Fq0Nti98shbjJfBr1V1xXA=="
 ---

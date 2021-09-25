@@ -41,6 +41,29 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Preparing for a future pandemic with artificial intelligence"
+    excerpt: "PNNL data scientists are refining their artificial intelligence tools with COVID-19 data to advance therapeutics and treatments for a future pandemic."
+    publishedDateTime: 2021-09-21T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/929144"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f476ded2-27fb-4113-98af-8426c375b9d0/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 225
+        isCached: true
+  - title: "Preparing for a future pandemic with artificial intelligence"
+    excerpt: "When the novel coronavirus led to a global pandemic last year, doctors and researchers rushed to learn as much as possible about the virus and how our bodies respond to it."
+    publishedDateTime: 2021-09-21T20:07:00Z
+    webUrl: "https://phys.org/news/2021-09-future-pandemic-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 19
 
 secured: "FPxY/4V3FJdVAhswRY9tv2xA9jntnNtkHS37Zweg0ZCku8G9k0slIeqCcHwSsuwDSGVaOASq8q5iIiiYrxoVAUwwm2y3HPDZAi5FHJHwS+Po6aYikUE6WJpWPqd7m7+LKSSlmM7MN99nRn2o+rt+i03AKmQIvVQ2fA5zMVOoQAeZgCSfA8aa9796oe1pqoGKxWTfHZxOQ87P/QCp/moUqdIcB7YzrmzcMvwOkIny0gy1Mbvb55GzQt8WZUVQCPPp57O4Bthb4GPpsUY375H8zcUweIalJapN0hsmqHSHUtTeBnwDjN8XlWaxzaqFUodJsinV97memm1Ag8/hjc5TNXdQpmj0MRy8rloQp+qiD7GiFe9ttQK81p5v2bRu+OU2cJmACYtkljT7KuWYXCenN+X+lhw2uRvvzybFFpxNMurijG2VVgFPKY46kC3o0qcWaSsOSx5FsIvq+BjSmnvXw0cYvNb9FgwyUHV0O9JcvrxpZVAXy9JbuvHml9EdvMDH9nzdBH02GQKSXJo1iCTxiQ==;J7xAWfwySsGTI39lkwjGaA=="
 ---

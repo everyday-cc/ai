@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Confusion reigns over special pandemic recognition bonus"
+    excerpt: "A special recognition bonus is on the cards for those who shouldered the greatest burden during the pandemic. Politicians have been effusive in praising healthcare workers and others for their service but unions want those words translated into."
+    publishedDateTime: 2021-09-25T06:00:00Z
+    webUrl: "https://www.rte.ie/news/2021/0926/1248883-pandemic-dividend/"
+    ampWebUrl: "https://amp.rte.ie/amp/1248883/ "
+    cdnAmpWebUrl: "https://amp-rte-ie.cdn.ampproject.org/c/s/amp.rte.ie/amp/1248883/ "
+    type: article
+    provider:
+      name: RTE Online
+      domain: www.rte.ie
+    quality: 44
+    images:
+      - url: "https://img.rasset.ie/0015baca-642.jpg"
+        width: 642
+        height: 361
+        isCached: true
   - title: "CT town at forefront of national debate over facial recognition tech"
     excerpt: "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning the use of facial recognition technology."
     publishedDateTime: 2021-09-21T16:44:00Z
@@ -64,20 +80,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 39
-  - title: "Unregulated use of facial recognition technology continues to spread across Russia"
-    excerpt: "Facial recognition has a wide range of uses in Moscow, from monitoring public transportation payments to traffic monitoring and a school pass system. More than 5,000 cameras with facial recognition software already operate in other regions of Russia."
-    publishedDateTime: 2021-09-20T22:36:00Z
-    webUrl: "https://ifex.org/unregulated-use-of-facial-recognition-technology-continues-to-spread-across-russia/"
-    type: article
-    provider:
-      name: IFEX
-      domain: ifex.org
-    quality: 33
-    images:
-      - url: "https://ifex.org/wp-content/uploads/2021/09/russia-facial-recognition-cctv-metro-station-getty.jpg"
-        width: 1000
-        height: 666
-        isCached: true
 
 secured: "ecf7IpQNoOy2D9cepXrPjGw/z4p0Z1Aai0BmUgFn9HnwMuSxk9/ZQN9FfTOEMksN9VszIcmbZWk0ONbqHflB4ud5ZZRRmMuA0+IaeBYc0u2RCIbYOCHrXWMBiDfCda4stSmdforJxP7fUx8xH8XpS+MrxjXo78hsmnt07yTySwPXf4ZuiCiPd1fnNPX6BCKWBlJyDYiboZxLLB5ua785wCi5z2MZtu6JDbfxmX8w3JxkSnPsKj7RSYiK2hQmGuZ3aWcjTtfjUkQBE+qR43+lDLUg75Lm6crc0fI5LLncHRtSiuYx7LEY8DKOVfFcduQzQ5oDQIQi7gcXeJ67ol/TeXrFZuHnv3veJ5UDWBvoSYSH1lddnP8BbsU6ZwkO3grSZ8byX44fVUecdi7r3US1byE3DyfcwNfOPwsvP6oYI5RlEaRLKZE/XIKRe2N0kUkTEU+3Nuk7aYdvUOqJU6muvNQQfrfegBhZFGwqQgS3kmx6M6hZ57Fido7hAL6ZO6qd7k6VybzHScBPpELDTVBTbg==;ew62E2o7wf2k1zOBplr4yg=="
 ---

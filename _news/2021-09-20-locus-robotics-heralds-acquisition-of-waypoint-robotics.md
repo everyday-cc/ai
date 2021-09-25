@@ -7,7 +7,7 @@ originalUrl: "https://www.logisticsmgmt.com/article/locus_robotics_heralds_acqui
 webUrl: "https://www.logisticsmgmt.com/article/locus_robotics_heralds_acquisition_of_waypoint_robotics"
 type: article
 quality: 154
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 352
     height: 202
     isCached: true
-
-related:
-  - title: "Locus Robotics expands warehouse offerings with acquisition of Waypoint Robotics"
-    excerpt: "Locus Robotics is acquiring Waypoint Robotics, adding industrial-strength mobile robot platforms to its portfolio."
-    publishedDateTime: 2021-09-20T14:22:00Z
-    webUrl: "https://www.freightwaves.com/news/locus-robotics-expands-warehouse-offerings-with-acquisition-of-waypoint-robotics"
-    ampWebUrl: "https://www.freightwaves.com/news/locus-robotics-expands-warehouse-offerings-with-acquisition-of-waypoint-robotics/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/locus-robotics-expands-warehouse-offerings-with-acquisition-of-waypoint-robotics/amp"
-    type: article
-    provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 69
-    images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/09/Locus_Waypoint_20210916.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
 
 secured: "hAmQ9TuZbj+phIh7eWu2JFbzhoipKPBVKfqhQVzFaIgCTvjbwtQ34B1sdFk2jCDPe+9zrECgeLYtUi3mGbFuv1xy8yzgb4+SC5ocvSTkarIAyFHp+LCPh8/O7x7eHXIRZbil2xoEq1G9YcAQweqq8pr7/Yp7t9ifSUdAt+PpNgEkClrXJdTOzw47piLGxj4EZtAb+abak9hnHyzNVBu68zLVOMCHf8xaB1rhnEEoGFNZdHTvUbie4gmpfpO8W87BBo78lPVEbcIitHQavkqTylntj6ImyRGKLfgXalRih+XXZVhKEAIGANMOmEt+Un+31wPa4qNavMlw9gr5lbDZ3PAD0MQRbJgpV3q/Cndy49s=;5BT3iiEJ+1Lezd8eR3eynQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/09/22/navigating-ai-and-machine-learning-13-techniques-to-boost-business/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://cdn.techhq.com/wp-content/uploads/2021/09/000_9LP9TU-scaled.jpg"
         width: 2560
         height: 1707
-        isCached: true
-  - title: "Harnessing drones, geophysics and artificial intelligence to root out land mines"
-    excerpt: "Armed with a newly minted undergraduate degree in geology, Jasper Baur is in the mining business. Not those mines where we extract metals or minerals; the kind that kill and maim thousands of people every year."
-    publishedDateTime: 2021-09-20T14:29:00Z
-    webUrl: "https://phys.org/news/2021-09-harnessing-drones-geophysics-artificial-intelligence.html"
-    ampWebUrl: "https://phys.org/news/2021-09-harnessing-drones-geophysics-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-09-harnessing-drones-geophysics-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 52
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/harnessing-drones-geop.jpg"
-        width: 478
-        height: 637
         isCached: true
   - title: "Models, Learning, and Inference"
     excerpt: "Experience the eBook and the associated online resources on our new Higher Education website. This modern treatment of computer vision focuses on learning and inference in probabilistic models as a unifying theme. It shows how to use training data to learn ..."

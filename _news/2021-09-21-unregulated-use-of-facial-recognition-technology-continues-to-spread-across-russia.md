@@ -7,7 +7,7 @@ originalUrl: "https://ifex.org/unregulated-use-of-facial-recognition-technology-
 webUrl: "https://ifex.org/unregulated-use-of-facial-recognition-technology-continues-to-spread-across-russia/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -25,59 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "CT town at forefront of national debate over facial recognition tech"
-    excerpt: "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning the use of facial recognition technology."
-    publishedDateTime: 2021-09-21T16:44:00Z
-    webUrl: "https://www.registercitizen.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b"
+  - title: "Russia: SCO is not discussing recognition of Taliban"
+    excerpt: "The Shanghai Cooperation Organization’s recognition of the Taliban government in Kabul is not on the agenda, but there is the task of establishing contacts with this force, which has risen to power in Afghanistan,"
+    publishedDateTime: 2021-09-23T18:13:00Z
+    webUrl: "https://thefrontierpost.com/russia-sco-is-not-discussing-recognition-of-taliban/"
     type: article
     provider:
-      name: The Register Citizen
-      domain: registercitizen.com
-    quality: 41
+      name: The Frontier Post
+      domain: thefrontierpost.com
+    quality: 24
     images:
-      - url: "https://s.hdnux.com/photos/01/20/22/56/21048234/18/rawImage.jpg"
-        width: 2048
-        height: 1536
+      - url: "https://thefrontierpost.com/wp-content/uploads/2020/09/FP-Logo-scaled.jpg"
+        width: 1920
+        height: 886
         isCached: true
-  - title: "Concerns over facial recognition in roll-out of Garda body-cams"
-    excerpt: "The meeting heard from a number of concerned bodies regarding the proposed application of the bill, which was first announced last April"
-    publishedDateTime: 2021-09-22T05:30:00Z
-    webUrl: "https://www.irishexaminer.com/news/arid-40703369.html"
-    type: article
-    provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 39
-    images:
-      - url: "https://www.irishexaminer.com/cms_media/module_img/5319/2659796_6_googlediscover_Garda_20from_20Behind_20Generic_1_1_.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "CT town at forefront of national debate over facial recognition tech"
-    excerpt: "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning governmental use of facial recognition technology."
-    publishedDateTime: 2021-09-21T18:13:00Z
-    webUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b"
-    type: article
-    provider:
-      name: New Haven Register
-      domain: nhregister.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/20/22/56/21048234/21/rawImage.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
-  - title: "Facial recognition cannot be a standalone authentication method"
-    excerpt: "As more organisations look to facial recognition to improve their digital identity practices, they must remember that it cannot stand in isolation"
-    publishedDateTime: 2021-09-24T06:00:00Z
-    webUrl: "https://www.computerweekly.com/opinion/Facial-recognition-cannot-be-a-standalone-authentication-method"
-    ampWebUrl: "https://www.computerweekly.com/opinion/Facial-recognition-cannot-be-a-standalone-authentication-method?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/Facial-recognition-cannot-be-a-standalone-authentication-method?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
 
 secured: "sHvCfqTmQBUnvWR8bTZDQL3p2eh/nO2e+Dqb1/w27DkC3MDojWlNsHt3mhlLOPtVBqA8fuiPJxpQycZ1wgspO4IfRwqb4cpY//+9uqORHJb9uJfCXCy7aiF33B33ULFNNTFXXeTMBLVT/6IJX0TVWnJEH+rUxPS0UqkabhSy/fVErHq5W3HkoUvikTmbEajcA3/p62trXzUQUXQBI7q54FR63VL2QFUA/Asw+DAnV71jwcNBN5ZLImjmy6dODuz3GCBzXSLDHc5zrhYDqFL1QuL9k0hwE0CrtypLnm+JA5y6V7eKYmcDdo7+RdvGTcxX9DYxt4s12bU1camJhNQSYElTfz6vbi0t9kYJxGTbMNsei358ckKlDVApgRnMPYdmWH/rQ7oNbOyIvF/R2GKTquxEgpRow3TQuqbj3GeFP5aKH5c9eExgYc5Rila6KsdIVSz4IWbq0TKLM/Y/HmEvFEFWhRycZjUs2P3/mMTmxGVmSiHb9GLRQEMkgyltaYNe/OODRq7UyNCzXMDODtLvtw==;yLLmsNq33kDYhPC2DtEweA=="
 ---
