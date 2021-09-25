@@ -24,6 +24,22 @@ images:
     height: 360
     isCached: true
 
+related:
+  - title: "Nausėda at UN: Policy of non-recognition of occupation of Crimea must be reinforced"
+    excerpt: "The policy of non-recognition of Russia's occupation of the Crimean peninsula must be reinforced at the international level. “For the seventh"
+    publishedDateTime: 2021-09-25T11:19:00Z
+    webUrl: "https://menafn.com/1102845843/Nausėda-at-UN-Policy-of-non-recognition-of-occupation-of-Crimea-must-be-reinforced"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 18
+    images:
+      - url: "https://menafn.com/updates/pr/2021-09/22/U_00983image_story.jpg"
+        width: 630
+        height: 360
+        isCached: true
+
 secured: "PNNk6wyxpE00bYZkuYs3LTqjvEL6RFHPWt49/M7I2WGCRzkUS175T36eoJhDeTUU4dwbnZvsnaURAgDzJxiSTL2FZZzDsyqDp30LnbdhVU2LI+m19FoUDIaw/B6USjH38hOW9Y0zxGD8DX6MJR3AWT8xkADLbfjx29uQjI+LoVCyr8tdcXytbse/vjKPj2uRJCCJ8W2wfXzdox4lG528e0PAU8/qJVt5ptMFXHvrUsX2gVIiDlZX0mbLNOFMhrSBpj0q3O4dPcRjAcPQGU7C/ciI6WR2Bsj8O+oB8hUdpvdLCN0/2+eXZwQ6ugeiiuk1scxL4zHlbaWAPR+ulHyPfhwaIX5wL0Cu6XR0G5Q2L6KshMsnjd36a8lbuAWeJcD4SVKQKmqM767cTONNI99VBG0UCYWHd8Pp7bHBdYLfYKak0HiVJjOYu0f1CAooIkXrfQ+Jka7fPi06WtJ+dYD6xW4yL0oPq5dUht9Qad1wSmwhtMh1dU5fuE4cOivIblGqislwlHC3gAdp/IpPhHzZBQ==;fbBKsKakq5VtwGs9uPF67Q=="
 ---
 

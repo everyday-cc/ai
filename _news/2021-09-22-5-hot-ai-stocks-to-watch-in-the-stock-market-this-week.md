@@ -29,7 +29,7 @@ related:
     provider:
       name: Analytics Insight
       domain: analyticsinsight.net
-    quality: 39
+    quality: 43
     images:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/AI-stocks.jpg"
         width: 1600

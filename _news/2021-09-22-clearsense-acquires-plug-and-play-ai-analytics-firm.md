@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/clearsense-acquire
 webUrl: "https://markets.businessinsider.com/news/stocks/clearsense-acquires-plug-and-play-ai-analytics-firm-1030815362"
 type: article
 quality: 67
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 24
-  - title: "Vintra Secures $9.125 M Round of Funding, Fueling Continued Growth for AI-Powered Video Analytics Platform"
-    excerpt: "Vintra, Inc., a leading provider of AI-powered video analytics solutions, today announced a $9.125 M round of new funding, led by Morpheus Ventures with participation from Lavrock Ventures and existing investors Vertex Ventures US and"
-    publishedDateTime: 2021-09-20T17:56:00Z
-    webUrl: "https://www.lelezard.com/en/news-20005707.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 19
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "IoT Analytics State of IoT report details trends and overview of the IoT vendor landscape"
     excerpt: "The 148-page State of IoT report researched by IoT Analytics highlighted recent IoT-related news stories, 100 largest IoT-related funding rounds of the last nine months, major acquisitions, the company’s input on 36 current trends,"
     publishedDateTime: 2021-09-22T01:53:00Z

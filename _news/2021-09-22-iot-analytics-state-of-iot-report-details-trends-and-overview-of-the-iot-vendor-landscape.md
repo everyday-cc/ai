@@ -76,20 +76,6 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 24
-  - title: "Vintra Secures $9.125 M Round of Funding, Fueling Continued Growth for AI-Powered Video Analytics Platform"
-    excerpt: "Vintra, Inc., a leading provider of AI-powered video analytics solutions, today announced a $9.125 M round of new funding, led by Morpheus Ventures with participation from Lavrock Ventures and existing investors Vertex Ventures US and"
-    publishedDateTime: 2021-09-20T17:56:00Z
-    webUrl: "https://www.lelezard.com/en/news-20005707.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 19
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Analytics engine leverages data and artificial intelligence to turn radio communication between drivers and engineers into insights"
     excerpt: "Using advanced digital analytics and artificial intelligence, Genpact’s Radio Analytics Engine (RAE) analyzes and organizes hours of radio communication generated simultaneously by drivers during a race and turns."
     publishedDateTime: 2021-09-22T09:53:00Z

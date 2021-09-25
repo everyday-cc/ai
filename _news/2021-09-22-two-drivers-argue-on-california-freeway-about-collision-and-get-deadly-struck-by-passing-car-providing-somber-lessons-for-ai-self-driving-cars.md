@@ -137,15 +137,20 @@ related:
         width: 590
         height: 350
         isCached: true
-  - title: "Self Driving Car: Finding Lane Lines with Python and OpenCV"
-    excerpt: "Finding Lane Lines with Python and OpenCV. It’s amazing to see how future is getting closer to us everyday. We see and use things that we u"
-    publishedDateTime: 2021-09-20T18:47:00Z
-    webUrl: "https://github.com/dderyashn/Finding-Lane-Lines"
+  - title: "Nuro is an Artificial Intelligence-based startup that creates self-driving cars, named R2."
+    excerpt: "Nuro is an Artificial Intelligence (AI)-based startup that develops self-driving cars called R2 that are based on robotics and AI. It's energy-efficient, battery-powered, and self-contained. Nuro's vehicle is an on-road vehicle that carries goods quickly,"
+    publishedDateTime: 2021-09-23T10:00:00Z
+    webUrl: "https://www.analyticsinsight.net/nuros-artificial-intelligence-strategy-on-r2-a-self-driving-car/"
     type: article
     provider:
-      name: GitHub
-      domain: github.com
-    quality: 19
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 31
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Artificial-Intelligence.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "bqIlWcDR1jgzTSpfLNC6cx/g4MrQkdu151tsk/aw/CKTB5MkuaxI5bNCg6J12ouc1bctYe7J81K0uUzMf6pVAgw9FZYNoJhM+el0cDddiYxYD+3ep9MToKyKmkj9kvA3RxLRjm6AWaj5RDPlFigs2Na1P0exASw+OZcpKhVMnd9XY4blSHQ6ZXulaVNvtYtzaRDz8aBgj1GjWnG9R2eraAawl9aFygA8z8Qb1lJ0vQt288akbgdw93KK7IkErs7/HrY3yMOOs+tQx5JhB8rSeEZsd0aQw/NyL37Zz9RNoBzAJDWnCENpNGZZkDj9e21Yx5cbDqS92/Jc0A4leVcgPLoy/0EPC6bmrHsTdDcPC8AQoap+NauyLGVDOBUg2tPapjvafr6ETMcKQkX+GSgJMLbvYlgCaAU/LHfAr8j61Wu23l3cK2QRicPoFWsHypwAIKgH6IBrrL/t6f6/IAdjTetP7sKi8UFkXvFBFnODJ2udNMh+E0LvPhOjjNw72dOFoyel744AWR9Zy34MAcvXCQ==;xmrJMUHElKKpKM4D5LlFZg=="
 ---

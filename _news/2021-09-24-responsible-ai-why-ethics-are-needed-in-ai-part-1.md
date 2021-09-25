@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "UN Human Rights Office publishes report on Artificial Intelligence's human rights impact and highlights State & business responsibilities"
-    excerpt: "The present report is submitted ... to discuss how artificial intelligence, including profiling, automated decision-making and machine-learning technologies may, without proper safeguards, affect the enjoyment of the right to"
-    publishedDateTime: 2021-09-20T18:44:00Z
-    webUrl: "https://www.business-humanrights.org/en/latest-news/un-human-rights-office-publishes-report-on-artificial-intelligences-human-rights-impact-and-highlights-state-business-responsibilities/"
-    type: article
-    provider:
-      name: 洗護用品和肥皂
-      domain: business-humanrights.org
-    quality: 0
 
 secured: "BSuCnPEzbzheuNB6bzh6DBDXx++qCP3ZdC1I8B80oFDZ1djsmMMAecsgmGwxTOiBazO5Hx8np1hroFGGy/jUyY6cp6998Heqy5UDBUzGkTk7/n/POWaJarbIkF+pzcVjzv8pKhXJl8uuMoHVnCAO4aON64m4+smLl6AMzi7/p34jJdnQQDFjXGVAtYp9BWNpS5nyhwYoxlLWzPI4cuizbYrDauurkLZq5q7C4vXWUr2qNN0qNy+C54wT13scA+POqpUdSn0mX83r2nqv5Lk8AjU1DwGo6npChx5ANqBADqHnb9sUwRtF4NNwCNHTeHqa81JSHhKk6QCZgyUjzw5/YQDcH3IHn5p9SHHAdui4yYo=;3f4cExyuWykXNsnJ2wjGDA=="
 ---
