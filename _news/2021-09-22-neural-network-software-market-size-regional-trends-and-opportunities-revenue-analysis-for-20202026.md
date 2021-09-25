@@ -59,20 +59,6 @@ related:
         width: 750
         height: 350
         isCached: true
-  - title: "Artificial Intelligence Market Report 2021, Share, Size, Trends and Forecast 2026"
-    excerpt: "According to IMARC Group's latest report, titled“  Artificial Intelligence Market  : Industry Trends, Share, Size, Growth, Opportuni"
-    publishedDateTime: 2021-09-21T03:38:00Z
-    webUrl: "https://menafn.com/1102805049/Artificial-Intelligence-Market-Report-2021-Share-Size-Trends-and-Forecast-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/updates/pr/2021-09/15/i_6fcd4718-a_Image_In_Body.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Global Artificial Intelligence for Accounting Market Study Offering Insights on Latest Advancements, Trends and Analysis from 2021 to 2026"
     excerpt: "Global Artificial Intelligence for Accounting Market Research Report 2021 2026 thinks about key breakdowns in the Industry with insights about the market drivers and market restrictions The report illuminates accumulating an all encompassing rundown of factual investigation for the market"
     publishedDateTime: 2021-09-22T16:06:00Z

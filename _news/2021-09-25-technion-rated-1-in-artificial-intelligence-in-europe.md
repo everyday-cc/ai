@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jpost.com/israel-news/technion-rated-1-in-artificial-intel
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/israel-news/technion-rated-1-in-artificial-intelligence-in-europe-680257/amp"
 type: article
 quality: 59
-heat: 82
+heat: 83
 published: true
 
 provider:

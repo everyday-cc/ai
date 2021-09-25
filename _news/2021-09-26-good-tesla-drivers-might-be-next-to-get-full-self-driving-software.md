@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Tesla owners could soon gain ‘Full Self-Driving’ access at the touch of a button, prompting criticism from regulators and safety advocates"
-excerpt: "Tesla is expected to issue a wide release software it deems to be self-driving, giving owners the option as soon as midnight to upgrade to its most advanced driver-assistance suite and soon putting thousands of drivers on the road with the unregulated and largely untested features."
-publishedDateTime: 2021-09-24T22:45:00Z
-originalUrl: "https://www.washingtonpost.com/technology/2021/09/24/tesla-full-self-driving/"
-webUrl: "https://www.washingtonpost.com/technology/2021/09/24/tesla-full-self-driving/"
+title: "‘Good’ Tesla drivers might be next to get ‘full’ self-driving software"
+excerpt: "Chief Executive Officer Elon Musk tweeted that the download button customers will see Friday will request car owners’ permission for Tesla to assess their driving behavior for seven days."
+publishedDateTime: 2021-09-25T20:26:00Z
+originalUrl: "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/"
+webUrl: "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/"
+ampWebUrl: "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
+cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
 type: article
-quality: 20
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: East Bay Times
+  domain: eastbaytimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6IVIAUA35II6ZPVIGCHKCNCZJ4.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/09/Tesla_Crash_88520.jpg?w=1024&#038;h=682"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -193,22 +195,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "‘Good’ Tesla drivers might be next to get ‘full’ self-driving software"
-    excerpt: "Chief Executive Officer Elon Musk tweeted that the download button customers will see Friday will request car owners’ permission for Tesla to assess their driving behavior for seven days."
-    publishedDateTime: 2021-09-25T20:26:00Z
-    webUrl: "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/"
-    ampWebUrl: "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 59
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/09/Tesla_Crash_88520.jpg?w=1024&#038;h=682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Tesla Is Bringing Self-Driving No Matter What. Regulators Need to Adapt."
     excerpt: "San Francisco authorities have expressed concern over Tesla's autonomous driving feature, dubbed Full Self Driving. More broadly, self-driving systems are advancing much faster than regulation."
     publishedDateTime: 2021-09-24T21:37:00Z
@@ -350,7 +336,21 @@ related:
         width: 960
         height: 480
         isCached: true
+  - title: "Tesla owners could soon gain ‘Full Self-Driving’ access at the touch of a button, prompting criticism from regulators and safety advocates"
+    excerpt: "Tesla is expected to issue a wide release software it deems to be self-driving, giving owners the option as soon as midnight to upgrade to its most advanced driver-assistance suite and soon putting thousands of drivers on the road with the unregulated and largely untested features."
+    publishedDateTime: 2021-09-24T22:45:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/09/24/tesla-full-self-driving/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 20
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6IVIAUA35II6ZPVIGCHKCNCZJ4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
-secured: "QDJc4kcdRJVvrtWCyP4i1WV7u7fPguYXqF6HwCoSNbDbvznjbaKYzJxh5AvzmvMRw3Lw5RGESKzQmL0z27vX9Jgx2B9vQ4bzfWiTjAdj0ZEr404Da0VS+EQMCSQki6j5tSq35OwR72CLYyqRKzDxOE2oEDMr6z0ZnjMZosPxZPYIYQGsjHKr0r+M4fnn/BfZNKtKcOUbmEpKjO6/ee6Oj5kLEakXeoCHS+o54ZYbd3af88kmw/D1SG9Kwk/JnvDmZa4yFrLM+lSy7oNych4vUVdu6HxThMVRM7wtgxVLru0LxUSYqtVdiL2IlE6AWXlff8kfyWfPMTPtplFQsnjCREC3z1x94aXtQ6EG3NJ0JE4=;X9YUj02e/xqXwU8TWg4Wzg=="
+secured: "3sod8WS7ettQZNqXXckbL+KZzlxnP1vzldlUHQLg6JJZ1t2Q1Tj7HhGkrfZVRcB0U8Jkf7fCep2HVEd0UbYq1d5Sq0A32KFURE8dU4Zq/dGQnulwp+WXJCS844unJg578jg//JKuQ23duun6+SmxBfVYGCpILVDQ6uCD3pLGtmZmH+IKvQAfoJKFTHdEmsuc8ikITR4IpX8mal2HX7D2p8f2tOw+js+4wIZ0UebPzmHR4kyYfvv7A8qOvr2wK0rC9c7PWGXEkGiMI/nWSt89KMchiC27sN+9rpX6Ls55hht0RUxDK2YUHIZM9pYPi54anDdywq1gc6vMlnsiTIeATG6kQ8jhxiG50SN1luX72OY=;0HCEugU0nuUR3nzrImUBfQ=="
 ---
 

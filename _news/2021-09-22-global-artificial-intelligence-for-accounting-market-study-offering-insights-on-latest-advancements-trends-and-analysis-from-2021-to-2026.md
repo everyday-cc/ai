@@ -74,20 +74,6 @@ related:
         width: 750
         height: 350
         isCached: true
-  - title: "Artificial Intelligence Market Report 2021, Share, Size, Trends and Forecast 2026"
-    excerpt: "According to IMARC Group's latest report, titled“  Artificial Intelligence Market  : Industry Trends, Share, Size, Growth, Opportuni"
-    publishedDateTime: 2021-09-21T03:38:00Z
-    webUrl: "https://menafn.com/1102805049/Artificial-Intelligence-Market-Report-2021-Share-Size-Trends-and-Forecast-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/updates/pr/2021-09/15/i_6fcd4718-a_Image_In_Body.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Global Drone Markets Report 2021-2026: Emerging Trends Include 5G Technology, Drone-In-A-Box, Blockchain, Computer Vision, Fog Computing & IoT"
     excerpt: "The \"Global Drone Market Report 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The annual Drone Market Report"
     publishedDateTime: 2021-09-21T10:48:00Z
