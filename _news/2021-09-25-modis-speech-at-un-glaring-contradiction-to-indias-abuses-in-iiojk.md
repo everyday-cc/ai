@@ -24,6 +24,22 @@ images:
     height: 857
     isCached: true
 
-secured: "8LoZ3VtPJYT5h2mPvBaJ5OqIYY93OCvVkRmKRRIJZdaDSlZWZCTip10i/Nz1LKwZ5THjFaVWLYpjSUN5l9GNTVZjRL+J6Pt+mzzRfwnd1ECm790o1z6gSDJBu63IlsQoDMjElZWfOGwXHECHzOLV8r3efuyb9F1eUxD+luqSYMwTgQdmBSJnfs8clxG+uTE36Yt2TZTo/2/ViYA4dcxG5P0u46WFGLfYdw3dTJAk94/YgwVpkCSXRPQ8otv53JiLs0HNuBVABhW6AaDhQE6AFwBRLryvQhiFRJBHKfjaVukJNBIU9cWv/0Ka7mH5PEBxmGN0LNqOArc34lEz5rkppduyf+IhCRp/MrnCP6cUhck=;h+jCnhpJTY1iL3uUL6B0nw=="
+related:
+  - title: "PM Modi invokes Chanakya, Tagore in his UNGA speech"
+    excerpt: "Prime Minister Narendra Modi invoked acharya Chanakya BJP ideologue Deen Dayal Upadhyaya and Nobel laureate Rabindranath Tagore in his speech at United Nation"
+    publishedDateTime: 2021-09-25T19:50:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271301395/pm-modi-invokes-chanakya-tagore-in-his-unga-speech"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1632598969.jpg"
+        width: 630
+        height: 420
+        isCached: true
+
+secured: "dWVLNUbGXAnGTzlOl8gEU9AZM9vJPp2wrDK2K9jlVP2V3CmOHaby+9La0AGtQ18Cvnc0rOBjtPwpN1DFdfCd2LqHXcKfYshStG63/vqRAMKuDEQ6zcQOX2aeLT51x27lrgywtWmjL3F0dNJOA5A/b2Pb/68Zk6Jut3AxDXSUdEKSTmKvDzLs+gZFM2LdyLq3RmeZ+qxaFODFB4cCJ1X+QYdu8Cg2JEB6rR9mOGyOUwViyZl3VE5q1QuwM7ELcT/eTJ316Qo2YeBsXgd8NahiNvp3ayhevJpXgL5K6BSI/APn3M+QSg29nrNFCKobWPZRr1PSJy5siiMoE9whXzWEUCpbQF5VaeGHc4hNDkQ0qfjdbJMQwdXyM8k0M/38BnOW/DgNoZdQsilgDnGrBxJFWNwOIEjUlCGk9GOMTgJoTl5tGCQTPfxCpAXkL0bKC5+6Yr4fH3sN0lQF8BDXzxBru7/YPPcmuPH6TPmtdDyUlJjcUFaMhNWOXP3ZJmVJg8n8ZzJnX/a+nLOhFmm1tpXDMA==;iVVza4qvM0LoV3CHabBVkQ=="
 ---
 

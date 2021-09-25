@@ -7,7 +7,7 @@ originalUrl: "https://electronics360.globalspec.com/article/17238/syntiant-launc
 webUrl: "https://electronics360.globalspec.com/article/17238/syntiant-launches-neural-network-processor-for-vision-ai"
 type: article
 quality: 56
-heat: 89
+heat: 90
 published: true
 
 provider:

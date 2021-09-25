@@ -28,7 +28,7 @@ related:
   - title: "Greece used AI to curb COVID: what other nations can learn"
     excerpt: "Governments are hungry to deploy big data in health emergencies. Scientists must help to lay the legal, ethical and logistical groundwork."
     publishedDateTime: 2021-09-22T15:13:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-02554-y?error=cookies_not_supported&code=228ae75c-5eb0-44fd-820d-e33ff9818655"
+    webUrl: "https://www.nature.com/articles/d41586-021-02554-y?error=cookies_not_supported&code=f43962d3-2a13-4ce9-808b-ac6b8e509e31"
     type: article
     provider:
       name: Nature

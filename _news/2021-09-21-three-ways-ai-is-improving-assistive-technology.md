@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/21/three-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/09/21/three-ways-ai-is-improving-assistive-technology/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence (AI) is Transforming Mobile Technology?"
+    excerpt: "Get Sample PDF Brochure@  Recently Artificial Intelligence (AI) and Machine Learning (ML) has created a huge impact on human interaction with machines and devices. Whether it is any type of industry ranging from travel,"
+    publishedDateTime: 2021-09-25T18:55:00Z
+    webUrl: "https://www.xing.com/communities/posts/how-artificial-intelligence-ai-is-transforming-mobile-technology-1018689842"
+    type: article
+    provider:
+      name: XING
+      domain: xing.com
+    quality: 52
+    images:
+      - url: "https://swobj.xingassets.com/v1/communities/public-production/content_images/images/005/472/980/main/Mobile_Artificial_Intelligence_%28AI%29_Market.png?temp_url_sig=aa5c580351e876c82cef9d4c5d3910b893376aac&temp_url_expires=1632642870"
+        width: 475
+        height: 238
+        isCached: true
   - title: "Three ways to maximize the business value of AI"
     excerpt: "Don't get caught up in the AI hype, these three essential tips will enable you to rapidily deliver business value from your AI projects"
     publishedDateTime: 2021-09-24T11:32:00Z

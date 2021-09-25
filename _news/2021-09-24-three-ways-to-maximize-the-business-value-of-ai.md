@@ -40,6 +40,20 @@ related:
         width: 813
         height: 542
         isCached: true
+  - title: "How Artificial Intelligence (AI) is Transforming Mobile Technology?"
+    excerpt: "Get Sample PDF Brochure@  Recently Artificial Intelligence (AI) and Machine Learning (ML) has created a huge impact on human interaction with machines and devices. Whether it is any type of industry ranging from travel,"
+    publishedDateTime: 2021-09-25T18:55:00Z
+    webUrl: "https://www.xing.com/communities/posts/how-artificial-intelligence-ai-is-transforming-mobile-technology-1018689842"
+    type: article
+    provider:
+      name: XING
+      domain: xing.com
+    quality: 52
+    images:
+      - url: "https://swobj.xingassets.com/v1/communities/public-production/content_images/images/005/472/980/main/Mobile_Artificial_Intelligence_%28AI%29_Market.png?temp_url_sig=aa5c580351e876c82cef9d4c5d3910b893376aac&temp_url_expires=1632642870"
+        width: 475
+        height: 238
+        isCached: true
 
 secured: "FIRAB0sdEIGzJDrBLMlqO9T70xXDvnyVt95VIaCrpgtq2Q9OeJ8Wfha8YLPUGDbiOw2vbbfi+zsBneBE+LVhAH55vfSydnSX91mBCHlz1a5/wDx7uGw/ZcVViU+R9hUmA7LaOkUglS9RaamKt8ts4L9R71cf3BX9y8tvA9akcYRAuEwg//q6/HAZYkCYUi7XSa+D6RQ6Gur5QY9FW4HbPXU3qe7rzv2HzudKjBN/614DSV2WgMQwyHqVHSBl9xqcI7Fdne2D5DhIEVClE6IPSRXX8mjwq8L3YsPIiFFGeqS4SdE9Xrrjb+eomWJjE02m59Zgmo38g1Ob8qoVpAB8/upg+GJGCef657MfcGJCoA8=;Rij/gEsU4nGFQ8fIp4LryA=="
 ---
