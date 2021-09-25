@@ -90,6 +90,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Tesla Full Self Driving Beta Button is Live"
+    excerpt: "The Tesla full self-driving beta button is live. Tesla owners can now request to become part of the full self-driving beta. The system will monitor driving for 7 days and if the person is deemed to be a safe driver then they will be given access based upon Tesla’s selection criteria and timing."
+    publishedDateTime: 2021-09-25T17:27:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/09/tesla-full-self-driving-beta-button-is-live.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/09/tesla-full-self-driving-beta-button-is-live.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/09/tesla-full-self-driving-beta-button-is-live.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 74
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/09/FSDbetabutton.jpeg"
+        width: 1023
+        height: 887
+        isCached: true
   - title: "Samsung in talks with Tesla to make next-gen self-driving chips, says daily"
     excerpt: "Samsung Electronics' semiconductor plant in Hwaseong produces 7nm chips. SEOUL: Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process,"
     publishedDateTime: 2021-09-23T16:41:00Z

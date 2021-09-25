@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/video/a-fictional-future-built-with-real-ai
 webUrl: "https://techcrunch.com/video/a-fictional-future-built-with-real-ai/"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/7/w600X390/Artificialintelligence.jpg"
         width: 600
         height: 390
-        isCached: true
-  - title: "Preparing for a future pandemic with artificial intelligence"
-    excerpt: "PNNL data scientists are refining their artificial intelligence tools with COVID-19 data to advance therapeutics and treatments for a future pandemic."
-    publishedDateTime: 2021-09-21T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/929144"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f476ded2-27fb-4113-98af-8426c375b9d0/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 225
         isCached: true
   - title: "Preparing for a future pandemic with artificial intelligence"
     excerpt: "When the novel coronavirus led to a global pandemic last year, doctors and researchers rushed to learn as much as possible about the virus and how our bodies respond to it."

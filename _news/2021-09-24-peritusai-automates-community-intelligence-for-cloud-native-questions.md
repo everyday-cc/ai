@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/24/peritus-ai-automates-answers-for-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/24/peritus-ai-automates-answers-for-cloud-native-questions/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 598
     isCached: true
-
-related:
-  - title: "How Does Artificial Intelligence Compare to Augmented Intelligence?"
-    excerpt: "Both artificial intelligence and augmented intelligence share the same goal but have different approaches to achieve it."
-    publishedDateTime: 2021-09-24T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/how-does-artificial-intelligence-compare-to-augmented-intelligence"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1040557296.jpg"
-        width: 690
-        height: 400
-        isCached: true
 
 secured: "w2NtEHID72MdE4IQ3m4Lz61gIJVjHwhRSPX08RLTv/SXdfYnMyJaM86PTzaf5/yt411c+cJS7PKwEbARdR67B+8oQ0IL7y9xjWNM0UFUq/LY025MpQaILJEntb1Hz0aw/dvVAis2RKCwR3xJbdSgUDZ8++jW/OjiY6Q4Hu9j3dxp6pA6tda8yO3wUybznZrkIUHrAEjL8yp3JkUgMOtn7ud1OXHb2MZJ6Cx4v34qCdGlXSj7a3nQcXQVqVZtZHrjQvrWgO/E+ZHqayjkiRG54noSuGyqnSXjWnujZvjIa7nfRxKlLXaW7kBIUTZodHpuB4kCDDtdETI5gjk+TWvqBVH2T8QJcxosVWnj98Cw+7Xk2+cxrXj/Hu9XISRS6w/EP7wdw2+5ziO4Vr4LV++c/FtxwFWGp/F4gwQpqjOEDejRRAo5KNHxaUEzwrd4JM3KFVygXLlq/W17UyCbXibvTi+3KEkFdeUMtjj0y9CJCT4FxaQObxA0JIonLZg8RMMqo+KXP03BiI15z70TxTrVag==;mcI1y3sMRWKJKqQfffQb7w=="
 ---

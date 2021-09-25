@@ -89,6 +89,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Tesla Full Self Driving Beta Button is Live"
+    excerpt: "The Tesla full self-driving beta button is live. Tesla owners can now request to become part of the full self-driving beta. The system will monitor driving for 7 days and if the person is deemed to be a safe driver then they will be given access based upon Tesla’s selection criteria and timing."
+    publishedDateTime: 2021-09-25T17:27:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/09/tesla-full-self-driving-beta-button-is-live.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/09/tesla-full-self-driving-beta-button-is-live.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/09/tesla-full-self-driving-beta-button-is-live.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 74
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/09/FSDbetabutton.jpeg"
+        width: 1023
+        height: 887
+        isCached: true
   - title: "Tesla Negotiating With Samsung To Produce Next-Gen Full Self-Driving Chip: Reports"
     excerpt: "A joint project between Tesla and Samsung, which aims to create a full self-driving (FSD) chip is currently under negotiation, according to reports. The said chip, which will be produced by the South Korean electronics giant and designed by the American electric vehicle company as per Electrek,"
     publishedDateTime: 2021-09-24T12:00:00Z
@@ -319,6 +335,6 @@ related:
         height: 960
         isCached: true
 
-secured: "NI+nq8HQsI/B8eObLewuXd2TpAiHgX3LGFfWXuNfJBxLMHSywrBNfUopkDzZPv3hF7YGEZXOTZFhGKbCpm/0zyYCmm7kOKlpIF6Lrr+VRgVAmbJZV8QEPGvFyaYJvOogVkVEVw76cPRxDRGbQTaO/4hpw2PFm/TZ7WtsMgE+dHxBdMm8CG1cunOvxV7VCb8egxQZS6kokbPQuYkT9L15txF872C/3N7LZ+60L23tzKjEy9Ykgnv8Fsi2gPQytjXRiYa8+prv81zof/zkSSrcXRbQv1lj3Vlik10fHMHZGjQUk54tKg6z3WCz4nASWj4UcV3LtrypvXtG9LoOt2FIfM8Gh/SRLPCf5BDx82TTsZs=;3djLyfsoCy7NVW7wusgBBw=="
+secured: "evYc8JhmCbLAR9L5c+gQ73s38nSKDPMLHwS3EgqBCBnMk1Gt8BCIcUc+6Bcav5RI1kJosFFIdtAM9rLG8H1caLw2rryOlrSt9meWphybl+701hPtGXuyCqwkXhlh91dYbO03Poc2TMqjiMgzx6Fdaev47S7P8WMjArrK7eWfO920+FZ9RxarAHfxd1q8LentwMeVK6JsfI33IowKqX1OzicIO0zCZPJ5oWpfcp22gT3Yd3dTFIKbgJrSgFrbJmATk9pUf3uJVH0031WbzxYrA6RMgkR7xHO2PPumxe4BPD11VDv/+wxvvvh+eHg3RUQLUWgB/wJMuuZ8haJgH9shOxaKOERTj19GydGLH0nQ2gIQu0zD169J/XT4MGVebpQ7waWVbD/sOzRdaYimpnqEKVHUA0AQ2R5V6oFKB/bjgsXc8RxDlT3WYunZMir3HgXYALrH9mIEPnVr+6xkbp0suLzFRSMeiIEat7LoDXtXajl3waOnVDMXnEFGPJlLc5SxKVF6tm8xmBuHybYrG6aDaw==;EIaqZoIsiyzeha3vepICZQ=="
 ---
 

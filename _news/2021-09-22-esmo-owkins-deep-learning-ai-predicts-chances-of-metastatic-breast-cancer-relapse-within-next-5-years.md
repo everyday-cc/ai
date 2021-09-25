@@ -41,15 +41,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Artificial intelligence predicts the risk of recurrence for women with the most common breast cancer"
-    excerpt: "This study shows that thanks to deep learning analysis applied to digitized pathology slides, artificial intelligence can classify patients with localized breast cancer between high risk and low risk of metastatic relapse in the next five years ."
-    publishedDateTime: 2021-09-21T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/929023"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 4
 
 secured: "taJe4d3JS2kHcaVPy2+LhL5edaz8d9Hc4+N4JZqtOloPvFtl8RvrxbY839uWMSK0uVr1kWm0FSxQUi811pWFEeVBeNMgpIDSzEWCzURBzYFvp8S4O4WTMPD9fjmNf/3hcAuoxDI1kMOQGkXXbISc2Hlxvxz9bVJ5I/pdoFj4/RlZO0LXBf1MZ3tAo8f0TiiHLzHQ8YhVlaLiHfBcr4bZ7ivowvnSkWz1sdswOGOAN9iUbjoK9yD1q5COtFXBeaXCvuaehE1Y84rhywC7+PCEXMenq2SVpmsSzmKVx9R11mD1WRefjXNTazu4zep2mBXJWeOe1II4gisXkXwt478h+yL7b5wOt3x0R2hEXDcVfNnieGeF5kVW8NL/NROc4svNHjJ6PEw5Lt1JJt6rqJgMnBS8d/2PWXWdIf0898p6bTIeW7Rw9yOySeQLTP/Z6IkK33qb69KR4W+lY/e3p9m//vvzZRDl2pYA544usvA9Qng4PCj73YB2djZ781MEhREvlKJBCUzU3pJj3bJm6JdSrg==;M9/nd+VGZ/s7104d9hC7FQ=="
 ---

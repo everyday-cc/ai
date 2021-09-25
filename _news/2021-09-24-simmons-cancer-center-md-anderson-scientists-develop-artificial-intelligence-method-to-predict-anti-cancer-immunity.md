@@ -72,15 +72,6 @@ related:
         width: 1100
         height: 1100
         isCached: true
-  - title: "Scientists develop artificial intelligence method to predict anti-cancer immunity"
-    excerpt: "Researchers and data scientists have developed an artificial intelligence technique that can identify which cell surface peptides produced by cancer cells called neoantigens are recognized by the immune system."
-    publishedDateTime: 2021-09-21T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/09/210923164817.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 42
   - title: "Owkin and Cleveland Clinic develop artificial intelligence model that predicts liver cancer prognosis"
     excerpt: "Owkin, a startup that deploys artificial intelligence (AI) and Federated Learning technologies to augment medical research and enable scientific discoveries, presented findings in Hepatocellular Carcinoma (HCC) with Cleveland Clinic at the 2021 European Society of Medical Oncology (ESMO) conference."
     publishedDateTime: 2021-09-22T13:02:00Z

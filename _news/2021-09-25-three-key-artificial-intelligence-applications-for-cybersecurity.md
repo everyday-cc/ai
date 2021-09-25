@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614b856b91e7d8da240c0d2e%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Artificial Intelligence in Cybersecurity Market worth $38.2 billion by 2026, at the highest CAGR of 23.3%"
-    excerpt: "Thousands of traders just like you are profiting with 90% win-rate trading options! Click Here See How! [229 Pages] Artificial Intelligence in Cybersecurity Market Research Report, identifies new revenue opportunity in Pages] Artificial Intelligence in Cybersecurity industry."
-    publishedDateTime: 2021-09-20T23:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/09/ab23023216/artificial-intelligence-in-cybersecurity-market-worth-38-2-billion-by-2026-at-the-highest-cagr-of"
-    ampWebUrl: "https://www.benzinga.com/amp/content/23023216"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23023216"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 40
-    images:
-      - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-security-market3.jpg"
-        width: 650
-        height: 405
         isCached: true
 
 secured: "LPKBsGwJ1jCqrwM7IhTjpMDaR80RR6hpK8EPzEeXxW8EAYMivl8K3MdGIiDjM6fuSRhQnY07lxIF5hh7dln2MBnbieIx9dYVsRyBCVkc5R7AK1hi0Sx1TiD9DgszruZkE2bF3HOalk61QqOWCXmoi+eMEYBzJBRRUHgLRDMANWhrP5gkDpV3askQm1fabUUGTmwAWgd08CDgexE+uJUG+2k2e72uOwRtGzVUuiufpsbJIq+wDEPGVE0zOOxcFqRd0SJntQw0qwgRwJBFhryAL3CxD5TqxHWuc3u0jcP52gVE1eFAL/Q/vO405HfPlOxUOrGGMTRQd3DVwTLzqUrEBUmG5wVxU+Gf+mITNPa2YsV/n/ytnlgJ3zrTtcI2+0vZquKV4D7QG56+us37ov75N1AkeSejfa0z16hXYZe5mQYZSrpit/mCuVF81wb0tSTaFQBUCUrYU4/KthtSIdzYc+NueUKEow6gfmq5/Xbu781ehnhiIo6O1jBYpTBcCpuDM+2HdD64KuEJB1dOEcEasQ==;5SYXn9kvABp1akAzGmThkg=="

@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Tesla owners could soon gain ‘Full Self-Driving’ access at the touch of a button, prompting criticism from regulators and safety advocates"
-excerpt: "Tesla is expected to issue a wide release software it deems to be self-driving, giving owners the option as soon as midnight to upgrade to its most advanced driver-assistance suite and soon putting thousands of drivers on the road with the unregulated and largely untested features."
-publishedDateTime: 2021-09-24T22:45:00Z
-originalUrl: "https://www.washingtonpost.com/technology/2021/09/24/tesla-full-self-driving/"
-webUrl: "https://www.washingtonpost.com/technology/2021/09/24/tesla-full-self-driving/"
+title: "Tesla Full Self Driving Beta Button is Live"
+excerpt: "The Tesla full self-driving beta button is live. Tesla owners can now request to become part of the full self-driving beta. The system will monitor driving for 7 days and if the person is deemed to be a safe driver then they will be given access based upon Tesla’s selection criteria and timing."
+publishedDateTime: 2021-09-25T17:27:00Z
+originalUrl: "https://www.nextbigfuture.com/2021/09/tesla-full-self-driving-beta-button-is-live.html"
+webUrl: "https://www.nextbigfuture.com/2021/09/tesla-full-self-driving-beta-button-is-live.html"
+ampWebUrl: "https://www.nextbigfuture.com/2021/09/tesla-full-self-driving-beta-button-is-live.html"
+cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/09/tesla-full-self-driving-beta-button-is-live.html"
 type: article
-quality: 20
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: NextBigFuture
+  domain: nextbigfuture.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6IVIAUA35II6ZPVIGCHKCNCZJ4.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/09/FSDbetabutton.jpeg"
+    width: 1023
+    height: 887
     isCached: true
 
 related:
@@ -86,22 +88,6 @@ related:
       - url: "https://static.toiimg.com/thumb/resizemode-4,msid-86457352,imgsize-14054,width-800/86457352.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Tesla Full Self Driving Beta Button is Live"
-    excerpt: "The Tesla full self-driving beta button is live. Tesla owners can now request to become part of the full self-driving beta. The system will monitor driving for 7 days and if the person is deemed to be a safe driver then they will be given access based upon Tesla’s selection criteria and timing."
-    publishedDateTime: 2021-09-25T17:27:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/09/tesla-full-self-driving-beta-button-is-live.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/09/tesla-full-self-driving-beta-button-is-live.html"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/09/tesla-full-self-driving-beta-button-is-live.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 74
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/09/FSDbetabutton.jpeg"
-        width: 1023
-        height: 887
         isCached: true
   - title: "Tesla Negotiating With Samsung To Produce Next-Gen Full Self-Driving Chip: Reports"
     excerpt: "A joint project between Tesla and Samsung, which aims to create a full self-driving (FSD) chip is currently under negotiation, according to reports. The said chip, which will be produced by the South Korean electronics giant and designed by the American electric vehicle company as per Electrek,"
@@ -334,7 +320,21 @@ related:
         width: 960
         height: 480
         isCached: true
+  - title: "Tesla owners could soon gain ‘Full Self-Driving’ access at the touch of a button, prompting criticism from regulators and safety advocates"
+    excerpt: "Tesla is expected to issue a wide release software it deems to be self-driving, giving owners the option as soon as midnight to upgrade to its most advanced driver-assistance suite and soon putting thousands of drivers on the road with the unregulated and largely untested features."
+    publishedDateTime: 2021-09-24T22:45:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/09/24/tesla-full-self-driving/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 20
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6IVIAUA35II6ZPVIGCHKCNCZJ4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
-secured: "QDJc4kcdRJVvrtWCyP4i1WV7u7fPguYXqF6HwCoSNbDbvznjbaKYzJxh5AvzmvMRw3Lw5RGESKzQmL0z27vX9Jgx2B9vQ4bzfWiTjAdj0ZEr404Da0VS+EQMCSQki6j5tSq35OwR72CLYyqRKzDxOE2oEDMr6z0ZnjMZosPxZPYIYQGsjHKr0r+M4fnn/BfZNKtKcOUbmEpKjO6/ee6Oj5kLEakXeoCHS+o54ZYbd3af88kmw/D1SG9Kwk/JnvDmZa4yFrLM+lSy7oNych4vUVdu6HxThMVRM7wtgxVLru0LxUSYqtVdiL2IlE6AWXlff8kfyWfPMTPtplFQsnjCREC3z1x94aXtQ6EG3NJ0JE4=;X9YUj02e/xqXwU8TWg4Wzg=="
+secured: "39xepojgFse/ay44cLnLREC3InXBkl6f56D81XgIQrqzxuglnHHsbGcedPWB3d16thYOeQqG9+HMmUbTHysLUfe/Oug/u8FZ9U1INMAuzp+tO+IYYG/iePJwcYT3Q9P3cwO8UfBPAVx9Y6L8bfwxkc3E2GLWaZAJZhvJCv0t74ByPXZO1VDx23FLvAOd8IA2RO9ibV1lj9u0FwpNZ85uo+B62hifZjWkIfQwMykMcsCugpn+WapNMDf0u3jyGpFobdgrSz9lbp5hfuQuDJrWIy0IRiIABb3gRdww9I2BZkC7EN6/WxsVAUXUs/UccIFB+WT/5xhE7Z5ansGRgmVWn1QIpW3vlAgXHSUZPF7yJJA=;wbhPDRkhYh6/Vfc2A/JjBw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://energycentral.com/c/pip/5-artificial-intelligence-grand-ch
 webUrl: "https://energycentral.com/c/pip/5-artificial-intelligence-grand-challenges-electric-power-industry"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "The challenges of generic AI regulation – An Industry Perspective"
-    excerpt: "In this first session, you will hear more about the AI Act as it is currently proposed. The session will be opened by Ms. Clune and Gabriel Cosgrave, General Manager EMEA at Xperi. Salvatore Scalzo, Policy and Legal Officer in the field of \"Artificial Intelligence\" at European Commission will then give an update on the current draft of the Act."
-    publishedDateTime: 2021-09-22T21:42:00Z
-    webUrl: "https://www.publicnow.com/view/B23029C2602B9561A75097B1C70EAFC5817FE775"
+  - title: "AI adoption in the ETF industry begins to grow"
+    excerpt: "Industry figures are divided on whether the systems can truly remove human bias and how much supervision they need"
+    publishedDateTime: 2021-09-25T16:00:00Z
+    webUrl: "https://www.ft.com/content/775c9361-4921-4e72-973e-d672d8a60084"
     type: article
     provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 19
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6bf94666-f096-4ca6-a793-781625785692.jpg?source=next-opengraph&fit=scale-down&width=900"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "5n/XFY6m1HbbovdcqFGml47txj8jTgtPLd4P2wgZDufGTR5sGrK0bUM8T14ggQxy1+cNK55IJVechZIU3o3hrY0DQuRD52nVYVntWgglLG4Rhmp0pbI0kl1sXB9piZKh8XXLv+i3BDQNt8QV6C6j8WTUNNnxiHrbT+wuHvma7/z9Qz5rPVf6qFJUtEAnpyNuOAFmbEGxWjWNjxAj6UDLKu6dQfrUoRExKP6xoCqn4PvC4cgdTdku6kVCIHn1V6VUEHCZliDabsEd6YYgNSKJd6PHMTJMxcE4JQbeN0ZUoRasFYd0lgBT35z+QtFU3rWpF+FHe8IF/rqsV4SGww5GUgzg5TVTcJKs3tl6LEfkukA=;TU6u9eYHJv1Bo73WGaJc/w=="
 ---

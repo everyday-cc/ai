@@ -19,19 +19,19 @@ topics:
   - AI Ethics
 
 related:
-  - title: "5 Artificial Intelligence Grand Challenges for the Electric Power Industry"
-    excerpt: "Overview The Artificial Intelligence (AI) and electric power industries are two large, impactful industry sectors that can both benefit greatly from interactions and collaborations but have not traditionally interacted significantly – both due to a lack of sufficient industry data as well as the electric power industry’s need for reliability,"
-    publishedDateTime: 2021-09-22T10:48:00Z
-    webUrl: "https://energycentral.com/c/pip/5-artificial-intelligence-grand-challenges-electric-power-industry"
+  - title: "The Challenges and Opportunities of Using Artificial Intelligence to Manage Chronic Conditions"
+    excerpt: "To realize the full potential of artificial intelligence and machine learning, data quality and security as well as regulatory changes are needed."
+    publishedDateTime: 2021-09-22T18:53:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/challenges-and-opportunities-using-artificial-intelligence-manage-chronic"
     type: article
     provider:
-      name: Energy Central
-      domain: energycentral.com
-    quality: 35
+      name: MD&M East
+      domain: mddionline.com
+    quality: 27
     images:
-      - url: "https://energycentral.com/sites/default/files/styles/og_meta/public/ece/node_main/2021/21/grand20challenge20images.png?itok=YYRCA7F7"
-        width: 868
-        height: 336
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/artificial-intelligence-3382507_640%201online.jpg"
+        width: 770
+        height: 400
         isCached: true
 
 secured: "EoxB8tVBbu+oN6h5kqwyZYL2D+lay5Dfx7VorwPySTz3ruEEbwVk3FzXM4B3Xw3KnFykvJc70FTc/NAszVuqJZINEV1+ss5q1WDizaepe6WcL+y6RACLEHEyYhIcXwbySfmSRQ7DGCul57ZEjKUQZx+z078IKguJgMRlkgu2rXVRMQZBG57ahLDFy9oAT5u2qC5R1SdBYCbZmZqq4mVObRuk41oBCvJ0uchV66MuSoDmnhfeBAcPP2SNFc+NNtSlVMc/bldeT7okzHeip6OJO6YH/rtsKMTdb/14BJBansh8WQhTMbZYnYRIP4PTTp+/gq+iRXdNZrpMlCgvBaaYJ9rNBPz8cXZ7pmwM+uz+cxE=;+oLP5dybliaXGj9YciGrmQ=="

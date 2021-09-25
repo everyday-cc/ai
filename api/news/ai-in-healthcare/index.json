@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -212,7 +212,7 @@
       "originalUrl": "https://www.medindia.net/news/artificial-intelligence-model-predicts-liver-cancer-prognosis-203439-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -382,49 +382,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-artificial-intelligence-predicts-the-risk-of-metastatic-relapse-in-breast-cancer-patients.md",
-      "title": "Artificial intelligence predicts the risk of metastatic relapse in breast cancer patients",
-      "excerpt": "The RACE AI study conducted by Gustave Roussy and the startup Owkin, as part of the AI for Health Challenge organized by the Ile-de-France Region in 2019, was presented as a proffered paper at ESMO.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210921/Artificial-intelligence-predicts-the-risk-of-metastatic-relapse-in-breast-cancer-patients.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210921/Artificial-intelligence-predicts-the-risk-of-metastatic-relapse-in-breast-cancer-patients.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210921/Artificial-intelligence-predicts-the-risk-of-metastatic-relapse-in-breast-cancer-patients.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210921/Artificial-intelligence-predicts-the-risk-of-metastatic-relapse-in-breast-cancer-patients.aspx",
-      "publishedDateTime": "2021-09-21T19:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     },
     {
@@ -1368,6 +1325,49 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-how-artificial-intelligence-can-be-used-to-augment-stem-cell-therapy-in-hospitals.md",
+      "title": "How Artificial Intelligence Can Be Used To Augment Stem Cell Therapy In Hospitals",
+      "excerpt": "Stem cell therapy comes with its own set of challenges despite being a revolutionary discovery in modern healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/science/how-artificial-intelligence-can-be-used-to-augment-stem-cell-therapy-in-hospitals",
+      "originalUrl": "https://www.bbntimes.com/science/how-artificial-intelligence-can-be-used-to-augment-stem-cell-therapy-in-hospitals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/Stem_CEll_AI.png",
+          "width": 1080,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbntimes.com/science/how-artificial-intelligence-can-be-used-to-augment-stem-cell-therapy-in-hospitals",
+      "cdnAmpWebUrl": "https://www-bbntimes-com.cdn.ampproject.org/c/s/www.bbntimes.com/science/how-artificial-intelligence-can-be-used-to-augment-stem-cell-therapy-in-hospitals",
+      "publishedDateTime": "2021-09-09T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

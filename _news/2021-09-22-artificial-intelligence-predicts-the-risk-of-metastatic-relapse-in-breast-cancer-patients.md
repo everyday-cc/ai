@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210921/Artificial-intelligen
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210921/Artificial-intelligence-predicts-the-risk-of-metastatic-relapse-in-breast-cancer-patients.aspx"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: News Medical
@@ -41,15 +41,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Artificial intelligence predicts the risk of recurrence for women with the most common breast cancer"
-    excerpt: "This study shows that thanks to deep learning analysis applied to digitized pathology slides, artificial intelligence can classify patients with localized breast cancer between high risk and low risk of metastatic relapse in the next five years ."
-    publishedDateTime: 2021-09-21T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/929023"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 4
 
 secured: "zjtbXkG6Z8BDmhRbGcDFytkf0L49zST+P7I5yKdhdi3EoEC/vEal1ezliTEZ0jlaYYDLOVgSAa/dOf46zcVmE75NJgX8b8GbSLwyTXEMgYEsmsaq+MEaxub2CUjvTjisrT3b4jST54Gkvo+hlujOBHgU2P4t4EBQVFpyuD4sGGLI9REh8xRBvult10DJ9ZzlZnRZAAFNf/29jpUnKiN7uVV6ppI6Qe1Lx7rUQVloUlk3IkatN7OQYAGnykGg/cPhE3KwcEnEQXbV2d917RpimWwvPAdDCo6mDdF7LUeHkWpBNEU0b8YaMWQeKrhGDyUkFK/xgkCQsmEWy/28jX7LF1T/u/LUiOoMxmb727o+dqk=;+oZVcGo1YN3232Fv4LRV+w=="
 ---

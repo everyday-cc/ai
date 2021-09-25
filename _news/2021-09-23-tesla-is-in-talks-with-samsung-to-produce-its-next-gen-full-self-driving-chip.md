@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-g
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/amp/"
 type: article
 quality: 103
-heat: 303
+heat: 313
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
       - url: "https://static.toiimg.com/thumb/resizemode-4,msid-86457352,imgsize-14054,width-800/86457352.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Tesla Full Self Driving Beta Button is Live"
+    excerpt: "The Tesla full self-driving beta button is live. Tesla owners can now request to become part of the full self-driving beta. The system will monitor driving for 7 days and if the person is deemed to be a safe driver then they will be given access based upon Tesla’s selection criteria and timing."
+    publishedDateTime: 2021-09-25T17:27:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/09/tesla-full-self-driving-beta-button-is-live.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/09/tesla-full-self-driving-beta-button-is-live.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/09/tesla-full-self-driving-beta-button-is-live.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 74
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/09/FSDbetabutton.jpeg"
+        width: 1023
+        height: 887
         isCached: true
   - title: "Tesla Negotiating With Samsung To Produce Next-Gen Full Self-Driving Chip: Reports"
     excerpt: "A joint project between Tesla and Samsung, which aims to create a full self-driving (FSD) chip is currently under negotiation, according to reports. The said chip, which will be produced by the South Korean electronics giant and designed by the American electric vehicle company as per Electrek,"

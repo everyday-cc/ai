@@ -2,49 +2,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_news/2021-09-02-feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium.md",
-      "title": "Feds are increasing use of facial recognition systems – despite calls for a moratorium",
-      "excerpt": "Despite growing opposition, the U.S. government is on track to increase its use of controversial facial recognition technology. The report comes more than a year after the U.S. Technology Policy ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium-145913",
-      "originalUrl": "https://theconversation.com/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium-145913",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/418725/original/file-20210831-17-1g1kwc7.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=239&fit=crop",
-          "width": 320,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium-145913",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium-145913",
-      "publishedDateTime": "2021-09-01T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-02-ambarella-analysts-laud-accelerating-computer-vision-momentum-following-blowout-q2.md",
       "title": "Ambarella Analysts Laud Accelerating Computer Vision Momentum Following Blowout Q2",
       "excerpt": "Morgan Stanley analyst Joseph Moore maintained an Overweight rating and $137 price target for Ambarella shares. Rosenblatt Securities analyst Kevin Cassidy maintained a Buy rating and increased the price target from $145 to $160.",
@@ -1172,6 +1129,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-01-this-is-how-ai-will-accelerate-the-energy-transition.md",
+      "title": "This is how AI will accelerate the energy transition",
+      "excerpt": "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Espen Mehlum, Head of Energy,Materials",
+      "sourceUrl": null,
+      "webUrl": "https://europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/",
+      "originalUrl": "https://europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://europeansting.files.wordpress.com/2021/09/robots.jpeg",
+          "width": 716,
+          "height": 1002,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/amp/",
+      "cdnAmpWebUrl": "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/amp/",
+      "publishedDateTime": "2021-09-01T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "europeansting.com",
+        "domain": "europeansting.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

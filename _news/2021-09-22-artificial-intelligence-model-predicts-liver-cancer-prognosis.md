@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-model-pred
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-model-predicts-liver-cancer-prognosis-203439-1.htm"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 1100
         height: 1100
         isCached: true
-  - title: "Scientists develop artificial intelligence method to predict anti-cancer immunity"
-    excerpt: "Researchers and data scientists have developed an artificial intelligence technique that can identify which cell surface peptides produced by cancer cells called neoantigens are recognized by the immune system."
-    publishedDateTime: 2021-09-21T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/09/210923164817.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 42
   - title: "Simmons Cancer Center, MD Anderson scientists develop artificial intelligence method to predict anti-cancer immunity"
     excerpt: "Researchers and data scientists at UT Southwestern Medical Center and MD Anderson Cancer Center have developed an artificial intelligence technique that can identify which cell surface peptides produced by cancer cells called neoantigens are recognized by the immune system."
     publishedDateTime: 2021-09-23T18:43:00Z
