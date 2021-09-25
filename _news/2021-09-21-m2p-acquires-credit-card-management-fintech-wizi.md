@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 764
         isCached: true
+  - title: "Five Economic Benefits From Bank And Fintech Firm Partnerships"
+    excerpt: "Q2 2021 hedge fund letters, conferences and Read More In fact, Capgemini's World FinTech Report of 2021 details how banks can leverage the new competitive market in depth. Just as we watched large and small businesses alike drastically adapt to the digital demands of Covid in 2020,"
+    publishedDateTime: 2021-09-25T04:56:00Z
+    webUrl: "https://menafn.com/1102859487/Five-Economic-Benefits-From-Bank-And-Fintech-Firm-Partnerships&source=138"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-09/24/V_b0f64image_story.jpg"
+        width: 600
+        height: 382
+        isCached: true
 
 secured: "jIQTMaL+KGXdKpYdgOmlNSE0XhCAyDidHX9C2SX8hDBLo9vMpH3fZWqk195SGqw2JPKpqXMz/9wR+INnrCkqHRMqw8bV4Om37oJnvH76eDkmUPLhLZDdhGofQgapTtwmLT8ynN3sKFQKJ56ku3ayJrL3qbviAQHhAfxr/RyD6WNbAZI8AT4210Hc4kEmYMj1rn+yXlQCFWYjWNg6om93K9Y2NNjt1TajgjK5X+faEy9iFrlIVx4G5HDu38i6a2//DL8LfL45pzI5Kz4vavM3wMHLYeItHMBqO1D3ym75yPaKbBSwlwRhCB7UZ6C46EVxBQbQ6PPaZBG3vf6v/9OhfAK793ABw5Qz0DZ9wxWzpvxrVF4ASPdpn62bRHSkuP15lNOxbHQQWii20KNVje9us8RV2hELe0yGtLYRR7Asxezbmcuze3egRR/bYcgJZt5ua2QgShb9Rvri0/rfKxeRN6TskgritdEHc/ZbVEfRj/5b1f03o/eUGdER4kKnLPbSh5EA66FLOAhZ45zvH7ES9w==;kd/S+Kl2C1dKDUWc3P093Q=="
 ---

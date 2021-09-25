@@ -57,6 +57,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Google and Microsoft are creating a monopoly on coding in plain language"
+    excerpt: "Natural language coding means that people won’t need to learn specialized coding languages to write programs or design websites. But large corporations will control the means of translation."
+    publishedDateTime: 2021-09-24T20:21:00Z
+    webUrl: "https://www.queensu.ca/gazette/stories/google-and-microsoft-are-creating-monopoly-coding-plain-language"
+    type: article
+    provider:
+      name: Queen's University
+      domain: queensu.ca
+    quality: 55
+    images:
+      - url: "https://www.queensu.ca/gazette/sites/default/files/assets/socialmedia/TW%20Coding%20arnold-francisca-nPhl2x4fk2s-unsplash.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Operationalization Software Market Expected to Develop by 2027 with COVID-19 Analysis | IBM, Microsoft"
     excerpt: "This Machine Learning Operationalization Software market analysis flashes light on company profiles product specifications capacity and the most importantly market shares for each industry Three most prominent sectors discussed here are product type competition section and end use section It"
     publishedDateTime: 2021-09-20T14:19:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itproportal.com/amp/features/the-impact-of-conversationa
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/the-impact-of-conversational-ai-on-critical-services/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: IT Pro Portal
@@ -27,22 +27,43 @@ images:
     isCached: true
 
 related:
-  - title: "The Disruption Of Legal Services Is Here"
-    excerpt: "In the world of disruption and the promised gold rush for the companies that do the disrupting, size matters. Legal has just been low on the industry list. Its number is now up."
-    publishedDateTime: 2021-09-20T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/20/the-disruption-of-legal-services-is-here/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/20/the-disruption-of-legal-services-is-here/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/20/the-disruption-of-legal-services-is-here/amp/"
+  - title: "Comment: How AI is enhancing localisation"
+    excerpt: "When it comes to how automated localisation works, Papercup has simplified this process so customers are able to receive a dubbing service for a fraction of the usual price. Our proposition pairs Automatic Speech Recognition,"
+    publishedDateTime: 2021-09-24T11:32:00Z
+    webUrl: "https://www.broadcastnow.co.uk/tech/comment-how-ai-is-enhancing-localisation/5163486.article"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Broadcast
+      domain: broadcastnow.co.uk
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6144a30dd7fa160726fcacb8%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/3/1/7/1354317_amir_474952.jpg"
+        width: 1024
+        height: 536
         isCached: true
+  - title: "A Quick-Start Guide for Agencies Looking to Deploy Mission-Critical Services Using AI"
+    excerpt: "Artificial intelligence can help agencies better serve their constituents in a medley of ways, ranging from increasing citizen safety to helping first responders during environmental disasters."
+    publishedDateTime: 2021-09-23T15:00:00Z
+    webUrl: "https://www.nextgov.com/sponsors/2021/09/quick-start-guide-agencies-looking-deploy-mission-critical-services-using-ai/185464/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 30
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/09/20/iStock_1003122870_1/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Joint services announce winners of global AI competition"
+    excerpt: "Partnering with allied nations to identify the most-advanced Artificial Intelligence technologies was the theme for the first international"
+    publishedDateTime: 2021-09-20T19:07:00Z
+    webUrl: "https://www.army.mil/article/250419/joint_services_announce_winners_of_global_ai_competition"
+    type: article
+    provider:
+      name: United States Army
+      domain: army.mil
+    quality: 17
 
 secured: "x2cb/raPIC8rnA7bgLDkuVibvWpJI9mVxIkiMhLgFyfnlEmVIcpfnpZ8UVC6dOxioWLPaSbTLamfGDMeN4XNfZcwce2KQzprUkuO2I8F390QlHc3AC8LJQulTNNv/KaZX23f262MKHlElYtkk/3UTiwab5+JpVPZj836WPT3ZGhs7KhDc0+zhvrV5nTsIJ3GFHRB5Nm9CObF/qSc5dTX0narDbLb35mFCQsMgDPXx9FPdhm/ImwvxTPvGcWoFglJZ9SAp/whm+AgipGci/VQyGrCPOfNcjONoul+pbh8ubUuaARgIBH173s8tjXEPUgUOuwZI1ytpuYV0n6yPgpV+46SCX9NjOi09kWKVSIixlU=;Rw8ovrtv0808KkZxxNhxSg=="
 ---

@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Investing in AI Stocks"
-    excerpt: "Artificial intelligence (AI), including its offshoots ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases, predict ..."
-    publishedDateTime: 2021-09-20T11:12:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
-    images:
-      - url: "https://s3.foolcdn.com/misc-assets/nav-ad-sa.png"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "YSX2K5/2fPQsls/8QK0nTKWAhMBgV/VJGXtuhbLVHPKMhxHYq8Ql8Sph98NTMcDuZnt49L3wPKYB5K1HLI4AJ0CKJ5Xos2XuRJcJKsIsjbKO/f5HFmPQzPXSUQ9uU3EpaB8MojyjHhXdYjYso27uzHwfCX7hNtRoaKc7aWn5XUpuDxlf/dreGEeDCWGR5cbiiFwcQt6eWBnBqAGN/P3WT6MYXwTNu5cJyPDZizpq/eyDxouj+LvZ36JiCuHx8p38gMT+6egmUSjGulecN8pGYUKlvds0+aymKzdPioXIgDqZG2VsiNgsCyB+D6G9cx60Im1svog2nwX4070T+3BdfYX9pArsi9II2/5zAEtEs7Ivg6geI8SswO+X4s2dSUa352VA3I3TrVi06PgctQiy5hrAhtEZlh8AQ0mPS9z6++EskUlQ78ECAUuEtuY/VzrYJc+nnAFbJVnb8ZbIJlooyh3rnVTNt0Ozztc2wRTHXzxCgKfTFrnyRyzL6ez05Xp1bvlZN5EBUVk+AiFRRr60sw==;s5jAfGXb2GEmx9P0tNpsNw=="
 ---

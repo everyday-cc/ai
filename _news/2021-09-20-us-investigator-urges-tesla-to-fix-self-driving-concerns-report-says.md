@@ -271,20 +271,6 @@ related:
         width: 1920
         height: 938
         isCached: true
-  - title: "Tesla announces fully self-driving cars"
-    excerpt: "Tesla Motors announced Wednesday that its electric cars will be the first in the nation to all be fitted with the hardware they need to drive themselves. CEO Elon Musk announced Wednesday that the automaker’s Model S,"
-    publishedDateTime: 2021-09-20T12:43:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_tesla-nasdaq-tsla/tesla-announces-fully-self-driving-cars/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 39
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/29906170001_6004558551001_6004555585001-vs.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Pass the Test and Tesla Owners Might Get Full Self-Driving Beta Access"
     excerpt: "The wait is almost over for some Tesla Inc. customers to get access to driver-assistance technology the company has marketed in controversial ways — as long as they’re on their best behavior."
     publishedDateTime: 2021-09-24T16:30:00Z

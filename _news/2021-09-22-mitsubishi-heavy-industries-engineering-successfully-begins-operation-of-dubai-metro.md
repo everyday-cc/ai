@@ -37,6 +37,15 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Mitsubishi Heavy Industries Engineering partners in new concession of Dubai Metro and Dubai Tram in a joint venture with Keolis and Mitsubishi Corp"
+    excerpt: "First participation in operation of overseas urban rail transport systems, contributing a safe and smooth transport system for the “EXPO 2020 Dubai”, Keolis-MHI concession to cover maximum of 15 years."
+    publishedDateTime: 2021-09-25T04:16:00Z
+    webUrl: "https://www.logisticsmiddleeast.com/business/mitsubishi-heavy-industries-engineering-partners-in-new-concession-of-dubai-metro-and-dubai-tram-in-a-joint-venture-with-keolis-and-mitsubishi-corp"
+    type: article
+    provider:
+      name: Logistics Middle East
+      domain: logisticsmiddleeast.com
+    quality: 0
 
 secured: "lLr9xVG9N6Y0q94wJ0riKLwm8Ho3QdKPSopwmswPMT+6Svo34jXuhMEAqHa9lsQJhJwyb9Mc5jhPk13hIbfcJEKGx+HmGgofrjCEpxfHqn0ixbN3LPALcStDd8WW9uifs41slGV2gh4YsiJ/xgrDg4aJqnNNmcuyVTrdOQNBAc+PUPz8ZlYKiVGL1M36oWHKl5INzPEqZM6zRcwcZmjAOTtzSndeGoDGayZCI0V/PZgzhaq9QGwbwpOvy/nA0S/KAScdAjdN2CZjG1uAIxxh7mtIlc2xle9MWMYzjOgO0tv6CV70/LDfIsuw1Ih5Cwa2Uam3tAO802CMco25IObpz0Y6/6L/CVGTRwJ3GX5o14ffP6R7HP01Xa/5r2cmX9fiQctkmN7hARNeAc2s8zrCodOq1eyrY489oWkuc+npEwQ7C0fYctI826X3R3iLfJSdVPr+m6yDPWS2aCD8fwh4VK9M4rl/i6UC8a2jJZh7J2iG2VJsJH1z4+RZQP62IpS3FAWzrBRK/hnyBFmhZy6KTA==;5R8WY/nvbJBeJbiaNT95Yw=="
 ---

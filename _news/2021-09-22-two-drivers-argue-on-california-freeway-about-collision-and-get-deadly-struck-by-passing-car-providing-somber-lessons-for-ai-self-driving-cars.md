@@ -165,20 +165,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "System redundancy in self-driving cars"
-    excerpt: "As the technologies enabling the rollout of autonomous self-driving vehicles mature en route to Level 5 (as defined in the SAE’s J3016 standard) fully automated self-driving, redundant fail-safe and fail-operational systems are going to be crucial in ensuring the safety of all road users."
-    publishedDateTime: 2021-09-20T12:39:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17200/system-redundancy-in-self-driving-cars"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 24
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/200/17200/safety_MAIN.jpg"
-        width: 752
-        height: 501
-        isCached: true
 
 secured: "bqIlWcDR1jgzTSpfLNC6cx/g4MrQkdu151tsk/aw/CKTB5MkuaxI5bNCg6J12ouc1bctYe7J81K0uUzMf6pVAgw9FZYNoJhM+el0cDddiYxYD+3ep9MToKyKmkj9kvA3RxLRjm6AWaj5RDPlFigs2Na1P0exASw+OZcpKhVMnd9XY4blSHQ6ZXulaVNvtYtzaRDz8aBgj1GjWnG9R2eraAawl9aFygA8z8Qb1lJ0vQt288akbgdw93KK7IkErs7/HrY3yMOOs+tQx5JhB8rSeEZsd0aQw/NyL37Zz9RNoBzAJDWnCENpNGZZkDj9e21Yx5cbDqS92/Jc0A4leVcgPLoy/0EPC6bmrHsTdDcPC8AQoap+NauyLGVDOBUg2tPapjvafr6ETMcKQkX+GSgJMLbvYlgCaAU/LHfAr8j61Wu23l3cK2QRicPoFWsHypwAIKgH6IBrrL/t6f6/IAdjTetP7sKi8UFkXvFBFnODJ2udNMh+E0LvPhOjjNw72dOFoyel744AWR9Zy34MAcvXCQ==;xmrJMUHElKKpKM4D5LlFZg=="
 ---

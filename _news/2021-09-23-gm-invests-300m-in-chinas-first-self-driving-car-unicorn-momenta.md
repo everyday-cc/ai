@@ -107,6 +107,20 @@ related:
         width: 540
         height: 540
         isCached: true
+  - title: "Samsung could be making next-gen self-driving chips for Tesla"
+    excerpt: "Samsung and Tesla are in talks to make the next-generation chips for Tesla's upcoming Hardware 4. Which is to come with Cybertruck in a year."
+    publishedDateTime: 2021-09-25T05:15:00Z
+    webUrl: "https://techstory.in/samsung-could-make-next-gen-self-driving-chips-for-tesla/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 56
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/09/Tesla-Chip.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "GM invests $300 million in China's self-driving car company Momenta"
     excerpt: "The move is part of a plan GM announced three months ago to invest $35 billion in electric vehicle and autonomous vehicle technology from 2020-25."
     publishedDateTime: 2021-09-23T16:41:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamesn.com/gaming-hardware/nvidia-dlss-gpu-update-wi
 webUrl: "https://www.pcgamesn.com/gaming-hardware/nvidia-dlss-gpu-update-will-double-alan-wake-remastereds-4k-performance"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 1632
     height: 918
     isCached: true
-
-related:
-  - title: "New Nvidia Windows 11 driver with DLSS has support for more than 100 games"
-    excerpt: "Nvidia is going to release a new display driver today that adds DLSS (Deep Learning Super Sampling) support to 28 games and is now certified for both Windows 10 and Windows 11. These 28 additional DLSS games bring the total of games to more than 100,"
-    publishedDateTime: 2021-09-20T12:29:00Z
-    webUrl: "https://windowsreport.com/nvidia-windows-11-dlss-driver/"
-    ampWebUrl: "https://windowsreport.com/nvidia-windows-11-dlss-driver/?amp"
-    cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/nvidia-windows-11-dlss-driver/?amp"
-    type: article
-    provider:
-      name: Windows
-      domain: windowsreport.com
-    quality: 42
-    images:
-      - url: "https://cdn.windowsreport.com/wp-content/uploads/2021/09/nvidia.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "NVIDIA Windows 11 Game Ready Driver with DLSS & DLAA (Deep Learning Anti-Aliasing)"
-    excerpt: "NVIDIA has today released new Windows 11 Game Ready Driver with NVIDIA DLAA (Deep Learning Anti-Aliasing) making it available today in ESO"
-    publishedDateTime: 2021-09-21T09:09:00Z
-    webUrl: "https://www.geeky-gadgets.com/nvidia-windows-11-game-ready-driver-with-dlaa-21-09-2021/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 33
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/09/NVIDIA-Windows-11-game-ready-driver-DLSS.jpg"
-        width: 700
-        height: 453
-        isCached: true
 
 secured: "5ZDUmdqgzS+fQ3eWAGRncPIQuJ5nfgGNDCvd2h6TofM382OwtwN0AdKG5KM0+Wk0V5Ke//Atx0FbNGZLZtDhH8AwAyZdcEF2WJwjeLcMvAd0UssRoEw7Aow41K/nmPrNppdZAmLgPlDZrESXzPjYz036fKd6/NTAmLXRFiVAIG/nfvYY0ftJU1fzOSWlQLgTvwRACuGU26ERYAigv9U3AsBCKWzKdKrJt2oUgHNi+sKINEmfqd3FXRalJ/KcDrggz9S2hg/VesbSK6nnnaeZNFDNo4oLfhIbGSh1Hr9uxzy4t2LWhTcUoPBCFDXy/9ftPphXBBrW4sL0nxTeDIErJAqkeYfSp2mfJBmbS4ceP5LIExI2FbQzXMdYXmPexm4lxY7rZjeybBEFa++QzvKUQ+uoRsCdvX7u0Smcl0O0on9oNzPb6oDApVix6vNL0V2RL3ceYwVvh9BU+VEtS6Hx3xvHbZ2+0nUG4f5agPucOp1Qv9/J68qAcJvKPYlbPU+qXzhgU/wp/YsQ901uSW+mhA==;zhqI6kLvt6J8gFFfSdvFXA=="
 ---

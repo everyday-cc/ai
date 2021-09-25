@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Conundrum of expectations: are courts prepared for challenges against facial recognition technology?"
-    excerpt: "In the absence of frameworks for privacy and data protection, the existence of legislation dedicated to the regulation of State"
-    publishedDateTime: 2021-09-20T12:27:00Z
-    webUrl: "https://www.theleaflet.in/conundrum-of-expectations-are-courts-prepared-for-challenges-against-facial-recognition-technology/"
-    type: article
-    provider:
-      name: theleaflet
-      domain: theleaflet.in
-    quality: 39
-    images:
-      - url: "https://www.theleaflet.in/wp-content/uploads/2021/09/Facial-Recognition.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Concerns over facial recognition in roll-out of Garda body-cams"
     excerpt: "The meeting heard from a number of concerned bodies regarding the proposed application of the bill, which was first announced last April"
     publishedDateTime: 2021-09-22T05:30:00Z
