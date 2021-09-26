@@ -133,15 +133,6 @@ related:
       name: banken
       domain: banken.nl
     quality: 19
-  - title: "7 Fintech-Led Covid Relief Efforts That Went Above And Beyond In 2020 – Fintech Zoom Advisor"
-    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
-    publishedDateTime: 2021-09-21T20:03:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/7-fintech-led-covid-relief-efforts-that-went-above-and-beyond-in-2020-fintech-zoom-advisor/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 0
 
 secured: "mXNBbbVv/5C52vOu88j7ZKEIXfApWKDZx+xl66JP9crwBAX/1K7KvblBKjkCS/LrdHkIWiM0Ziv9Yf1TRu6YUL9YC1zU5EspgxBpqfnfQ6ExxGhGJdSLjOTLnW6W9Coi2Rm/5BJ0kRgHzaBIUNsHgewFBwKbYWF1OJ1owTGaRQk9nz8vzZcxrOQQj3bZT8LtR26DVR3mAwMzQt8WeuQ6sFGJse/9+EJ1dKLN5+NY9M+glFvOvyMPqadgCgWHrKcIciRt7NiE7Wa/gyrpGydWc0br2gRS/jxjW5pjecRegRFTUMpq/q3z9UVxDHKHioZoxNLfmXe7RILac8Be6glvTCLmIAf8hOyfgUYG1u/cQOg=;lt205ga3Lk8zJZHOswSsNQ=="
 ---

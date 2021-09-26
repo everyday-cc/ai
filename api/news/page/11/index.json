@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-09-15-bosch-driverless-the-journey-begins.md",
+      "title": "Bosch DRIVERLESS: the journey begins",
+      "excerpt": "Close your eyes. Let your imagination flow. What is your dream? Think about it. Done? If the answer you gave is 'working in the world of racing,' then everything written below will sound very interesting to you.",
+      "sourceUrl": null,
+      "webUrl": "https://it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/",
+      "originalUrl": "https://it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-1.motorsport.com/images/amp/YP3Jzlj2/s6/bosch-driverless-intro-1.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/amp/",
+      "cdnAmpWebUrl": "https://it-motorsport-com.cdn.ampproject.org/c/s/it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/amp/",
+      "publishedDateTime": "2021-09-15T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motorsport",
+        "domain": "motorsport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-in-car-speech-recognition-system-market-2021-analysis-by-top-manufacturers-lumenvox-microsoft-alphabet.md",
       "title": "In-car Speech Recognition System Market 2021 Analysis by Top Manufacturers - LumenVox, Microsoft, Alphabet",
       "excerpt": "The In car Speech Recognition System Market research report provides detailed observation of several aspects including the rate of growth regional scope and recent developments by the primary market players The report offers Porter s Five Forces PESTEL and market",
@@ -1033,50 +1076,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-ten-key-technology-considerations-in-delivering-the-future-of-education.md",
-      "title": "Ten key technology considerations in delivering the future of education",
-      "excerpt": "Events over the past 18 months have highlighted just how inherently valuable technology has become for educators. From the remote delivery of classes and classwork notes and facilitating communication and collaboration between isolating students,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.idg.com.au/brand-post/content/691261/ten-key-technology-considerations-in-delivering-the-future-of-education/",
-      "originalUrl": "https://www.pcworld.idg.com.au/brand-post/content/691261/ten-key-technology-considerations-in-delivering-the-future-of-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.idgcdn.com.au/article/images/800x800/dimg/aubuy-mwf_feature_module-3-800x450ci.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T19:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Good Gear Guide By PC World Australia",
-        "domain": "idg.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

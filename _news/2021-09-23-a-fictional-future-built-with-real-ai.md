@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/video/a-fictional-future-built-with-real-ai
 webUrl: "https://techcrunch.com/video/a-fictional-future-built-with-real-ai/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Preparing for a future pandemic with artificial intelligence"
-    excerpt: "When the novel coronavirus led to a global pandemic last year, doctors and researchers rushed to learn as much as possible about the virus and how our bodies respond to it."
-    publishedDateTime: 2021-09-21T20:07:00Z
-    webUrl: "https://phys.org/news/2021-09-future-pandemic-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 19
 
 secured: "qLV86Sjv2d5lirynpxKwMYFRBeeasxb/yzTXsvQyH54jqZn1cqrlpRjFexuiwSTI+94RTvKo38MAhr3uYoNu0oexn3/QXZHeQK5xz93La5bFFxm1iUAq2Nqt3Om+57BXS1Z5c05ncXGgUrNRQ3wtsn37M6WYuohx7gtJfSo4i2n6w0kanDkV408XtvjjBGObEBrboqPbX0e7stPBxuDOJ58SiQJzxlEVaxkkagfOQG6dX4bxZByOErmcLBt6m0KiuNTtpk4OB4ZhOzr7g4+jZQ+FBR+uJ2W6/BS1rzJALerlPBh7CJkzPPB9vWpNfSQc5OyyC14hgg2uLUWbrS73Rx94EjE89iHsI6mvPUdaqOEAAUyHouD8XKhZSJ9mIgaF4Se3NxsVAe46rO7211Gu9HzASs1s0JVVxqE1SHsKEvdTGQJg46jztqCYkxvxN6maUaH2fCBrrEjqH02OOpNZpmNOQwOyN2f684IqHoImU2u686smUtYvSxhcLER2iU6/Z8bWkZ3BC7hkVVtypSiWMw==;MFV9lc6XqvxoOnqYjSSQIw=="
 ---

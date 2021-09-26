@@ -41,6 +41,15 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "GITEX 2021: SambaNova Systems is bringing its AI-related products to the region"
+    excerpt: "The company will feature Dataflow-as-a-Service offering, which will advance AI and Machine Learning adoption in the Middle East. GITEX 2021: SambaNova Systems is bringing its AI-related products to the region."
+    publishedDateTime: 2021-09-26T13:18:00Z
+    webUrl: "https://www.itp.net/gitex/gitex-2021-sambanova-systems-is-bringing-its-ai-related-products-to-the-region"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 15
 
 secured: "cUYZgFw4LF4FLN3DfPp1vBpFwGTGnNM4Gm6N3/GmeNaZBwI0cgyeOe8hUG3LRH1/Ui//FREyMDVBxsvTFL9x/rOjfHZSaG/60IJp+i5bOK0DmFofSQL6S0TTS2ZEbVBfoA/qoMnsMYEOxmF6m3G7zrQ9rEvB/zo84ASR5ITOZbmXVdLaUkA62+FlSt+M4c2Qp8I8fitISay2UA0lQ/lPV6eaFTQTjSCMmEPWt0nLpJruwy4ggqNvW+gyQFSe1aGhFNMNFajXp0FAMf93ay/mQbiH6P+xI5XRyFsHVNJqiSmmYTq0IsOkZeI3P0f96BGWN/8+fc2PeN1A0SxyxJnkdBLnrsYdnydJmRBLfmW2KOdnCQkU6G2vmkZI6Jdhb5nszEfdAWqsPyYX9Nh/UKc8cmIaughmro6/Iw6j59Bfk0FMFqqtuTNybiMyZj7Te6UMRnKuZ7bPNXi0HbhA0zRIeE8ToUbkkocJV7yYo7cTrp2bH0ISV6nvInVJ2VGybSRZJ2OYFENLgot3uixyJju7Mw==;ttfy7k2otnCxqt9V1oBT8g=="
 ---

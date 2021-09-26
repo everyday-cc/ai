@@ -74,6 +74,20 @@ related:
         width: 750
         height: 350
         isCached: true
+  - title: "Global Artificial Intelligence Market Trends, Strategies, And Opportunities In The Market 2021-2030"
+    excerpt: "Artificial Intelligence Global Market Report 2021: COVID-19 Growth And Change. The Business Research Company's Artificial Intelligence Global Market Report"
+    publishedDateTime: 2021-09-26T01:54:00Z
+    webUrl: "https://menafn.com/1102786952/Global-Artificial-Intelligence-Market-Trends-Strategies-And-Opportunities-In-The-Market-2021-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 25
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?223570"
+        width: 505
+        height: 250
+        isCached: true
 
 secured: "5sJqp6Tyl0h88mAe8IX3KT/MufDkvfsXyd8wMHCSdkCn/LQQYU96d93EiSbbQN/Gb7/W10FvmQFrUTVorKfznfxUU2ryvS+aj6/WvU59Ye8VEPzsvEcCtBVdaAyEi1bofflpR6BDa3D7eRUitXWWErZyPhm4x6n1sQ3WAkuO0xTzHYEB2Od3XuoqoHkya7EDOgdu8cA0jYyG9mvtWYI3Yr7KgnhdqGsIMeHYkY96artQ6vHesw6hz3zK8s9G2ErBOaPFCtUt2eVYHRWwZ9t5C6BeuAN/7UttCTKuQN1CDjkOgcYph6rQLPRTpeIx911SQOL1R0GiNwEy9JbuJMpDHm9LalZwgJurdp/WLHZ6X12HPQJTexHS5qzjNexh4HsYgQGMMUY9D5avrjUFYWccIqCCoMSLixBj41ZrsCe1GgoOYFcRVJhbdSh2x6VKLrSzdCIOWaewnCb/wkuRDNE/bW/WF/VpbrKjrWOsuwWA5QCVVyKXW0k8QxRVJacM3HWLxjwSzz0YCeFjwhvdypyXBA==;WGOGO1aKALEFyqqMdWA3RQ=="
 ---

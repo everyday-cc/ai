@@ -41,15 +41,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Preparing for a future pandemic with artificial intelligence"
-    excerpt: "When the novel coronavirus led to a global pandemic last year, doctors and researchers rushed to learn as much as possible about the virus and how our bodies respond to it."
-    publishedDateTime: 2021-09-21T20:07:00Z
-    webUrl: "https://phys.org/news/2021-09-future-pandemic-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 19
 
 secured: "FPxY/4V3FJdVAhswRY9tv2xA9jntnNtkHS37Zweg0ZCku8G9k0slIeqCcHwSsuwDSGVaOASq8q5iIiiYrxoVAUwwm2y3HPDZAi5FHJHwS+Po6aYikUE6WJpWPqd7m7+LKSSlmM7MN99nRn2o+rt+i03AKmQIvVQ2fA5zMVOoQAeZgCSfA8aa9796oe1pqoGKxWTfHZxOQ87P/QCp/moUqdIcB7YzrmzcMvwOkIny0gy1Mbvb55GzQt8WZUVQCPPp57O4Bthb4GPpsUY375H8zcUweIalJapN0hsmqHSHUtTeBnwDjN8XlWaxzaqFUodJsinV97memm1Ag8/hjc5TNXdQpmj0MRy8rloQp+qiD7GiFe9ttQK81p5v2bRu+OU2cJmACYtkljT7KuWYXCenN+X+lhw2uRvvzybFFpxNMurijG2VVgFPKY46kC3o0qcWaSsOSx5FsIvq+BjSmnvXw0cYvNb9FgwyUHV0O9JcvrxpZVAXy9JbuvHml9EdvMDH9nzdBH02GQKSXJo1iCTxiQ==;J7xAWfwySsGTI39lkwjGaA=="
 ---

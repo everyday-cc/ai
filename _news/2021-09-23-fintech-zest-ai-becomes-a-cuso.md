@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cutimes.com/2021/09/22/fintech-zest-ai-becomes-a-cuso/?a
 cdnAmpWebUrl: "https://www-cutimes-com.cdn.ampproject.org/c/s/www.cutimes.com/2021/09/22/fintech-zest-ai-becomes-a-cuso/?amp=1"
 type: article
 quality: 59
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -133,15 +133,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "7 Fintech-Led Covid Relief Efforts That Went Above And Beyond In 2020 – Fintech Zoom Advisor"
-    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
-    publishedDateTime: 2021-09-21T20:03:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/7-fintech-led-covid-relief-efforts-that-went-above-and-beyond-in-2020-fintech-zoom-advisor/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 0
 
 secured: "VfyJQW9hB8Hv4rWSsQZ9xCS1j7tOhouUSLPQvOXQIjTjeiXqccEQPXWmqYxsB8mBdbV/4d4U3sBQBnJuTegYU/sM7l+lbqqiAKXdQDdv1Y/FnqWdCfhJRFJ9qWkhegtoBFqwKnEvIVig1cFfgwmIYeQu+4Z+my8pCdGYeYvvUQ6KeyQ+Apk6PVkzZeU2qOf4yTNe39djfQa/eTWp8xiVxbYnHqa/La+uKIoNjkLUOL8oNgYxNb/xh+8NoToC4Dk0VuwIQYtTgLHNG8LnwL34MHA2barufwRK4lrk0tz4Xbqoal+yejOFUm3f4y4a0lwva0yIhw5gsAjEQDI+39EdDF0DAUdMPMaAPdfqM6ya7YFVqrPPj1qwfGJZOnoJKIxgTn7GmbD8sN0UkMyVaEvRJuUV49OgbBPbVP1VWdGV/pdOb1OOOJb6isIXDuGFUGrdd/cq0Qj/ni4VW4hKkTA+d5Y1RO6r749QcwiMwKsSIchZy1r/LQKgtPJR+JmXtXR9W10sLOtPvjfiaMHn1f73/A==;8w8rer/tvYlvEu6tV4tR/Q=="
 ---

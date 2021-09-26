@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonexaminer.com/news/amazons-ai-cameras-in-delive
 cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/amazons-ai-cameras-in-delivery-vehicles-have-some-drivers-crying-foul?_amp=true"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,36 +24,6 @@ images:
     width: 2290
     height: 1322
     isCached: true
-
-related:
-  - title: "Amazon’s AI is forcing delivery drivers to make dangerous decisions"
-    excerpt: "A recent expose showed off a plethora of faults in Amazon's AI surveillance system for delivery drivers. How safe are we on the roads when AI's in charge?"
-    publishedDateTime: 2021-09-21T20:24:00Z
-    webUrl: "https://thenextweb.com/news/amazon-ai-forcing-drivers-make-dangerous-decisions"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2Fbezosgold.jpg&signature=404f5f3f8f26b0d5a8a9280fa1b74f9a"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "AI Is Penalizing Amazon Delivery Drivers for Errors They Aren’t Making"
-    excerpt: "Amazon drivers are being penalized for driving mistakes they aren't making, and it's costing delivery companies a great deal of money."
-    publishedDateTime: 2021-09-22T13:20:00Z
-    webUrl: "https://www.extremetech.com/extreme/327317-ai-is-penalizing-amazon-delivery-drivers-for-errors-they-arent-making"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 37
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2019/09/Rivian_Amazon-cityscape-truck.jpg"
-        width: 1344
-        height: 743
-        isCached: true
 
 secured: "6oTGIQHtzclNIAVXR6I9NsWnH5HZVsTgXmO9heCNkkLMbSl/iZCfQzVzWHijxiQIhhiyPgABjOlPUdqg+Xvell2yZ8RN2zCnTEu5VbbmpJPQanWaeOJqrz93GL4TFyLTd9HXzbWwYNRQ8xCzZU+3uNHoikdCACpQ8Cj3uv+4G9dJz7/z+2I2xNdwzgZ6LbmC/c9wvizmJdJcKnsF5OKWz5KkaWRw1dtdAChI383uRs4zAmEt+/O0SDC1oo3Iy6SCVYMB3h3Gn8A6LcfmgFSxGbkZWsyvvua5kzKMnTmO2glzW3FQXUhdpUcvkcvwAP52rbS0UdkLhEotoeEu4k8XJccNk6sxvKap3OfFxB1SMy0=;lxAchb0gbaL2jqHmr3AFtw=="
 ---

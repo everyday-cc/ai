@@ -13,6 +13,10 @@ published: true
 provider:
   name: Nasdaq
   domain: nasdaq.com
+  images:
+    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI

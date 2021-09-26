@@ -32,15 +32,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Philosophers focus on AI ethics"
-    excerpt: "A new interdisciplinary initiative at Western is putting a human-interest twist on artificial intelligence (AI). Three postdoctoral associates are bringing their unique backgrounds and research interests to the classroom this year to help students better understand assumptions that underlie the use of AI and ethical conflicts posed by its use."
-    publishedDateTime: 2021-09-21T20:10:00Z
-    webUrl: "https://news.westernu.ca/2021/09/philosophers-focus-on-ai-ethics/"
-    type: article
-    provider:
-      name: westernu.ca
-      domain: westernu.ca
-    quality: 34
 
 secured: "MYrTHUHm/5prwACPj2xAODE9ODdOBZ7mr5WWHq/KDeGTgvznM1979EaXClUolFj/rhOnHtADY30PJk6hJOqrZZEPNmdSQ41RQRSwx4XjeEXc2Llh9za/biNnpFttuuDhQ/810AhB3ZYrkQSQoYjVSs06yoW1T5ohagHzFNPubZJOJaIcToTTVVlNyk3kJ1QgPjecfxOJN7glDCllwKZysd0eEmrer4dCkel484wTQbObydRsJ+hSezX7Q9D3jfutdTFDz+H6Q0N7P7t1f5j3hfrTmApUj8oLrUL6/19n5E948IXALWJBq6hP/UtdfJOvYpAfI6qRcfid3lWtzJjWiZwQAJ3JCG/cSWbNdqpvWf8k0iJWkOqPPHDeB0LoNzJYNjsveC4kQVKd8/cq9y0KH0gG2HBtA5Iarr5SiyDLtpqUaZs4TtTcHkNlWUen6MwlJvA4hwN5i8m9FDH3oCnfM5O0fSr+IjhEE+G3IqjmDpcfI0DD2P6Ps75OFIE9bfTGe3HPQynQt/aGCoWAzVRukA==;KVRvJt+XKx9AceX1Q+hDgA=="
 ---

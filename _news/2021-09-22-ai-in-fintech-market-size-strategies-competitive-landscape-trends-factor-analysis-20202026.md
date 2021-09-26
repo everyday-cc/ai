@@ -59,6 +59,20 @@ related:
         width: 750
         height: 350
         isCached: true
+  - title: "Global Artificial Intelligence Market Trends, Strategies, And Opportunities In The Market 2021-2030"
+    excerpt: "Artificial Intelligence Global Market Report 2021: COVID-19 Growth And Change. The Business Research Company's Artificial Intelligence Global Market Report"
+    publishedDateTime: 2021-09-26T01:54:00Z
+    webUrl: "https://menafn.com/1102786952/Global-Artificial-Intelligence-Market-Trends-Strategies-And-Opportunities-In-The-Market-2021-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 25
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?223570"
+        width: 505
+        height: 250
+        isCached: true
   - title: "Global Artificial Intelligence for Accounting Market Study Offering Insights on Latest Advancements, Trends and Analysis from 2021 to 2026"
     excerpt: "Global Artificial Intelligence for Accounting Market Research Report 2021 2026 thinks about key breakdowns in the Industry with insights about the market drivers and market restrictions The report illuminates accumulating an all encompassing rundown of factual investigation for the market"
     publishedDateTime: 2021-09-22T16:06:00Z

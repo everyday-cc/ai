@@ -132,15 +132,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "7 Fintech-Led Covid Relief Efforts That Went Above And Beyond In 2020 – Fintech Zoom Advisor"
-    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
-    publishedDateTime: 2021-09-21T20:03:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/7-fintech-led-covid-relief-efforts-that-went-above-and-beyond-in-2020-fintech-zoom-advisor/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 0
 
 secured: "s7suJXEVlQXFva4tmSOOHMzq0YFvZPqUO96UXMYqt6TnenlK0MTBHVk5r6hx4u27PJMzC8kXBjI5a9sG7fy2bDZg68++DJ6fbwvZhOErbGb5uuUsbx5WknZXpCUEtJOkocggWa1J7dQnvJ+PmPthh7dG0wgi7LNDdQyN+UwkBKM6ded75P0Lz0PGMbt5N9xq1cCCF7UQu8lXtLOWqV5zVIJLzVW/yoSC5XgvIyYNJbsqQ3/aq8Fpkb0ILY1BYXs2s0hjXHOCJUzCt7ZKZkse8CxmTopdw6rUVjmGshYi2EosUZvM+r8uy+qMnvHlLa+Tkjrqw2G9puIHGT+xX1l6cOKl9a1Ml72dHq3FzFcENq4=;YeP6r7LGAxiq28rYtpV/zw=="
 ---

@@ -40,22 +40,6 @@ related:
         width: 400
         height: 339
         isCached: true
-  - title: "5 Ways that AI is Shaping Analytics in 2021"
-    excerpt: "It’s no shock to anyone who works with analytics and data that AI is changing everything. From automating some"
-    publishedDateTime: 2021-09-21T19:15:00Z
-    webUrl: "https://www.business2community.com/business-innovation/5-ways-that-ai-is-shaping-analytics-in-2021-02432043"
-    ampWebUrl: "https://www.business2community.com/business-innovation/5-ways-that-ai-is-shaping-analytics-in-2021-02432043/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/5-ways-that-ai-is-shaping-analytics-in-2021-02432043/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 59
-    images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2021/09/luca-bravo-XJXWbfSo2f0-unsplash.jpg"
-        width: 6000
-        height: 4000
-        isCached: true
   - title: "IoT Analytics State of IoT report details trends and overview of the IoT vendor landscape"
     excerpt: "The 148-page State of IoT report researched by IoT Analytics highlighted recent IoT-related news stories, 100 largest IoT-related funding rounds of the last nine months, major acquisitions, the company’s input on 36 current trends,"
     publishedDateTime: 2021-09-22T01:53:00Z

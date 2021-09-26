@@ -123,6 +123,20 @@ related:
         width: 2560
         height: 1293
         isCached: true
+  - title: "AI Is Penalizing Amazon Delivery Drivers for Errors They Aren’t Making"
+    excerpt: "Amazon drivers are being penalized for driving mistakes they aren't making, and it's costing delivery companies a great deal of money."
+    publishedDateTime: 2021-09-22T13:20:00Z
+    webUrl: "https://www.extremetech.com/extreme/327317-ai-is-penalizing-amazon-delivery-drivers-for-errors-they-arent-making"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 37
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2019/09/Rivian_Amazon-cityscape-truck.jpg"
+        width: 1344
+        height: 743
+        isCached: true
   - title: "RAF trialling self-driving cars - to free up personnel from mundane jobs on military bases"
     excerpt: "The Royal Air Force has been trialling the use of self-driving cars as it explores ways to free up personnel from mundane tasks on military bases. Staff at RAF Brize Norton, Oxon., have been working with the Academy of Robotics on the trial,"
     publishedDateTime: 2021-09-22T10:31:00Z

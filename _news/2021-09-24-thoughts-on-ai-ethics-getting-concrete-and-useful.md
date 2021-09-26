@@ -7,8 +7,8 @@ originalUrl: "https://www.biometricupdate.com/202109/thoughts-on-ai-ethics-getti
 webUrl: "https://www.biometricupdate.com/202109/thoughts-on-ai-ethics-getting-concrete-and-useful"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Biometric Companies
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Philosophers focus on AI ethics"
-    excerpt: "A new interdisciplinary initiative at Western is putting a human-interest twist on artificial intelligence (AI). Three postdoctoral associates are bringing their unique backgrounds and research interests to the classroom this year to help students better understand assumptions that underlie the use of AI and ethical conflicts posed by its use."
-    publishedDateTime: 2021-09-21T20:10:00Z
-    webUrl: "https://news.westernu.ca/2021/09/philosophers-focus-on-ai-ethics/"
-    type: article
-    provider:
-      name: westernu.ca
-      domain: westernu.ca
-    quality: 34
   - title: "Marine Corps gets smart on Artificial Intelligence"
     excerpt: "Senior Marine leaders from Marine Corps Recruiting Command and Manpower and Reserve Affairs visited Johns Hopkins University Applied Physics Laboratory research facility to learn about artificial intelligence programs on Sept."
     publishedDateTime: 2021-09-22T00:00:00Z

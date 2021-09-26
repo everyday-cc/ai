@@ -38,22 +38,6 @@ related:
         width: 400
         height: 339
         isCached: true
-  - title: "5 Ways that AI is Shaping Analytics in 2021"
-    excerpt: "It’s no shock to anyone who works with analytics and data that AI is changing everything. From automating some"
-    publishedDateTime: 2021-09-21T19:15:00Z
-    webUrl: "https://www.business2community.com/business-innovation/5-ways-that-ai-is-shaping-analytics-in-2021-02432043"
-    ampWebUrl: "https://www.business2community.com/business-innovation/5-ways-that-ai-is-shaping-analytics-in-2021-02432043/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/5-ways-that-ai-is-shaping-analytics-in-2021-02432043/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 59
-    images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2021/09/luca-bravo-XJXWbfSo2f0-unsplash.jpg"
-        width: 6000
-        height: 4000
-        isCached: true
   - title: "Artificial Intelligence (AI) in Real Estate Market Size, Status and Forecast 2021-2027 | IBM, Cape Analytics, Baidu"
     excerpt: "Latest published market study on Global Artificial Intelligence AI in Real Estate Market provides an overview of the current market dynamics in the Artificial Intelligence AI in Real Estate space as well as what our survey respondents all outsourcing decision"
     publishedDateTime: 2021-09-22T19:11:00Z
