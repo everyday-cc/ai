@@ -25,6 +25,52 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech Zest AI Becomes a CUSO"
+    excerpt: "Zest AI, a Los Angeles-based provider of artificial intelligence-powered loan underwriting software, has further solidified its role in the credit union industry by officially becoming a CUSO, Zest AI announced Wednesday."
+    publishedDateTime: 2021-09-22T20:08:00Z
+    webUrl: "https://www.cutimes.com/2021/09/22/fintech-zest-ai-becomes-a-cuso/"
+    ampWebUrl: "https://www.cutimes.com/2021/09/22/fintech-zest-ai-becomes-a-cuso/?amp=1"
+    cdnAmpWebUrl: "https://www-cutimes-com.cdn.ampproject.org/c/s/www.cutimes.com/2021/09/22/fintech-zest-ai-becomes-a-cuso/?amp=1"
+    type: article
+    provider:
+      name: Credit Union Times
+      domain: cutimes.com
+    quality: 59
+    images:
+      - url: "https://images.cutimes.com/contrib/content/uploads/sites/413/2019/07/fintech-acquisition-e1564581828696.jpg"
+        width: 620
+        height: 414
+        isCached: true
+  - title: "Fintech Bright Money Looks to Help Reduce Debt, Build Wealth"
+    excerpt: "Fintech startup Bright Money co-founder Avi Patchava joined Cheddar to talk about the company’s goal to help people become more financially secure and what distinguishes the AI-powered service from other fintech brands."
+    publishedDateTime: 2021-09-23T20:13:00Z
+    webUrl: "https://cheddar.com/media/fintech-bright-money-looks-to-help-reduce-debt-build-wealth"
+    ampWebUrl: "https://cheddar.com/media/fintech-bright-money-looks-to-help-reduce-debt-build-wealth.amp"
+    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/fintech-bright-money-looks-to-help-reduce-debt-build-wealth.amp"
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 44
+    images:
+      - url: "https://img.chdrstatic.com/media/0ce02eaf-a0b1-4240-bcdd-295cbfe2deeb.jpg?width=1200&source=backend&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "FinTech Magazine attends Money 2020 at Amsterdam RAI"
+    excerpt: "FinTech Magazine flew to Amsterdam for the biggest fintech event of the year, Money 2020 conference at the Amsterdam RAI, and spoke to industry leaders"
+    publishedDateTime: 2021-09-24T13:25:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/fintech-magazine-attends-money-2020-amsterdam-rai"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/65400712728--48941059-AC3B-4D7C-9CAA-374B99BAC0DD.jpg.png?itok=9JGFqZbg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Five Economic Benefits From Bank And Fintech Firm Partnerships"
     excerpt: "The connection between banks and FinTech companies means heightened trust backed by better tech, stronger security and less room for errors"
     publishedDateTime: 2021-09-24T16:41:00Z
@@ -50,20 +96,29 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 24
-  - title: "This FinTech stock is up 1,000% in a year! And it could go further"
-    excerpt: "Upstart Holdings is an Artificial Intelligence FinTech stock that could transform money lending forever. Is it too late to buy in?"
-    publishedDateTime: 2021-09-24T11:12:00Z
-    webUrl: "https://www.fool.co.uk/investing/2021/09/24/this-fintech-stock-is-up-1000-in-a-year-and-it-could-go-further/"
+  - title: "Guidewire Named to 2021 IDC FinTech Rankings"
+    excerpt: "Guidewire Software, Inc. (NYSE: GWRE) announced it has ranked number 30 out of 100 on the 2021 IDC FinTech Rankings. This is the first year Guidewire has appeared on the prestigious list and the company is the sole P&C insurance industry core systems provider included in the rankings."
+    publishedDateTime: 2021-09-23T12:56:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-software-insurance-industry-san-mateo-2f4ae05bce59474f8b091264c6d7469c"
     type: article
     provider:
-      name: The Motley Fool UK
-      domain: fool.co.uk
+      name: Associated Press
+      domain: apnews.com
     quality: 24
     images:
-      - url: "https://1gb82h2px4rr3s7tp94g0nt1-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/NeonGraph.jpg"
-        width: 1200
-        height: 675
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
+  - title: "Thesis Intern at AI for Fintech Research"
+    excerpt: "Thesis Intern at AI for Fintech Research With millions of customers and thousands of employees worldwide, software and data analytics are at the heart of ING's business and operations."
+    publishedDateTime: 2021-09-25T08:51:00Z
+    webUrl: "https://www.banken.nl/stages/2144/ing/thesis-intern-at-ai-for-fintech-research"
+    type: article
+    provider:
+      name: banken
+      domain: banken.nl
+    quality: 19
   - title: "IDC Financial Insights Recognizes CSI as a Top Fintech Provider for 10th Consecutive Year"
     excerpt: "Computer Services, Inc. (CSI) , a provider of end-to-end fintech and regtech solutions, has been named by IDC Financial Insights to its 2021 IDC FinTech Rankings for the 10th consecutive year. The annual industry ranking,"
     publishedDateTime: 2021-09-23T11:42:00Z
@@ -78,14 +133,14 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "DeepTarget's Digital Experience Platform and 3D StoryTeller Recognized As A Finalist in Fintech Future's Banking Tech Awards 2021"
-    excerpt: "DeepTarget Inc., a solution provider that utilizes data mining and business intelligence to deliver targeted engagements across digital channels for financial institutions, today announced its Digital Experience Platform and 3D StoryTeller™ were selected as finalists in the \"Best Smart Banking Tech Solution\" category of the Banking Tech Awards 2021,"
-    publishedDateTime: 2021-09-23T14:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-deeptargets-digital-experience-platform-3d-storyteller-recognized-as-/2021/09/23/9455492.htm"
+  - title: "7 Fintech-Led Covid Relief Efforts That Went Above And Beyond In 2020 – Fintech Zoom Advisor"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-09-21T20:03:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/7-fintech-led-covid-relief-efforts-that-went-above-and-beyond-in-2020-fintech-zoom-advisor/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: fintechzoom
+      domain: fintechzoom.com
     quality: 0
 
 secured: "RwZFinXHOlbNvyoAqBYgp+DZHM0SKT/T8DUvSvjQWGNO6bwTnzOk7Hwqg2LEXxi7H3sZwG9O8veSHKtwBD30HT1jeu5j0+V7DCQYV//BNs8LuTd66igic0GFpO1M9kxXk1zhsHXpgQxVW9TONinCMpQqkOEUsNEmx6EXmNktBk5vsxtdiiwTCFn9/pZv8m5V0AeLETyKnyZIVwCMKlOqsURdHD95yTNzJ7F36AH8ckvtdF4q8KvOs2IHKPMrRyaMF3uJRgO3Wl2SN4xBfq6vj5MT+NnZvbG/CIn7SjbHHaRV0xxeQ8yCDO+GUuEGmTmzbtcvmXv0dcMTN1YKI4Cpj4c1mztueSxMr4ttNyrdUFo=;S5tXr8XWROOVb4sIAj7eeA=="

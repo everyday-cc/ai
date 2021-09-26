@@ -43,22 +43,40 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Afghanistan: Taliban face many obstacles to governing – not least their violent methods"
-    excerpt: "Yet this often distracts from the sombre fact that anyone – whether insiders or outsiders – who has tried to establish control over the whole country has met with resistance. The speed at which the US-backed government was recently removed seems to speak to this perennial ungovernability."
-    publishedDateTime: 2021-09-21T16:29:00Z
-    webUrl: "https://theconversation.com/afghanistan-taliban-face-many-obstacles-to-governing-not-least-their-violent-methods-168292"
-    ampWebUrl: "https://theconversation.com/amp/afghanistan-taliban-face-many-obstacles-to-governing-not-least-their-violent-methods-168292"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/afghanistan-taliban-face-many-obstacles-to-governing-not-least-their-violent-methods-168292"
+  - title: "Taliban's new UN envoy urges quick recognition"
+    excerpt: "The Taliban's newly appointed envoy to the United Nations on Wednesday urged quick world recognition of Afghanistan's new rulers even as the World Health Organization raised the alarm of an impending health care disaster in the war-wracked country."
+    publishedDateTime: 2021-09-23T09:00:00Z
+    webUrl: "https://www.hotsr.com/news/2021/sep/23/talibans-new-un-envoy-urges-quick-recognition/"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 36
+      name: The Sentinel-Record
+      domain: hotsr.com
+    quality: 24
     images:
-      - url: "https://images.theconversation.com/files/422413/original/file-20210921-23-atvj1i.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199465882_199465882-489842bc32674b3fbf580b43602ab6a9_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
         isCached: true
+  - title: "Afghan Taliban’s new UN envoy urges quick recognition"
+    excerpt: "The Taliban’s newly appointed envoy to the United Nations is urging quick world recognition of the Taliban government and Afghanistan’s new rulers even as the World Health Organization raised the alarm warning of an impending humanitarian disaster in the war-wracked country."
+    publishedDateTime: 2021-09-23T19:21:00Z
+    webUrl: "https://www.sunherald.com/news/health/article254454783.html"
+    ampWebUrl: "https://amp.sunherald.com/news/health/article254454783.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/health/article254454783.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 24
+  - title: "Afghan Taliban’s new UN envoy urges quick recognition"
+    excerpt: "The Taliban’s newly appointed envoy to the United Nations is urging quick world recognition of the Taliban government and Afghanistan’s new rulers even as the World Health Organization raised the alarm warning of an impending humanitarian disaster in the war-wracked country."
+    publishedDateTime: 2021-09-23T13:45:00Z
+    webUrl: "https://www.newsobserver.com/news/article254454783.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 4
 
 secured: "avN/9YdUYeLNqiCROPGsYe+tph/4SWiMft4X7HO2gFiz4xDz7P/njOo5PAxZRfeR/H5klgV6OU2e30Zty/WEebKEpioDSZegWRiHQfs1YHBdTeiPnzpeORRwKmj9hJlvq7jndHJ5rMoCfzAMzHG2Irt5jV6hSW5xkHHtxbfpaJUclXnG7apkdNjXwTRTWJIy8E3a+Hdlo3ezOMSkntzoZlZbYJy3wHsYDmxtcWOqlz4cTo2GifBkLDoE8Kdueo3ar+RTJZyH7MipmigvALoTXQfbHy0fJ8wRfEPwzBMbwJ0xSz9EyYjqbzMyrdQODpWFOICEAsFZUl+UfsNNLxpMAKKuhV7H8jOX5YhBCQMQD34=;L9hqVq/zZ3Iz3lX5kteiCg=="
 ---

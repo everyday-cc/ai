@@ -9,7 +9,7 @@ ampWebUrl: "https://reason.com/2021/09/23/proposed-local-facial-recognition-tech
 cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/09/23/proposed-local-facial-recognition-technology-ban-draws-fire/?amp"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -20,47 +20,6 @@ topics:
   - Natural Language Processing
   - AI
   - Computer Vision
-
-related:
-  - title: "Canon Slade School first in the North West to bring in facial recognition technology"
-    excerpt: "A SCHOOL in Bolton is thought to be the first in the North West to use facial recognition technology. Canon Slade is using the very latest in technology to improve service during busy lunchtimes ­— and as an extra measure to keep pupils safe from allergies and keep the school Covid secure."
-    publishedDateTime: 2021-09-21T16:16:00Z
-    webUrl: "https://www.theboltonnews.co.uk/news/19594539.canon-slade-school-first-north-west-bring-facial-recognition-technology/"
-    ampWebUrl: "https://www.theboltonnews.co.uk/news/19594539.amp/"
-    cdnAmpWebUrl: "https://www-theboltonnews-co-uk.cdn.ampproject.org/c/s/www.theboltonnews.co.uk/news/19594539.amp/"
-    type: article
-    provider:
-      name: The Bolton News
-      domain: theboltonnews.co.uk
-    quality: 52
-    images:
-      - url: "https://www.theboltonnews.co.uk/resources/images/13026338/?type=responsive-gallery"
-        width: 650
-        height: 520
-        isCached: true
-  - title: "Concerns Garda surveillance law may bring in facial recognition technology"
-    excerpt: "Concerns have been raised that the planned broad expansion of Garda’s surveillance powers will lead to the introduction of facial recognition technology by the back door. The Garda Síochána (Digital Recording) Bill 2021 will allow for the use of body ..."
-    publishedDateTime: 2021-09-21T16:54:00Z
-    webUrl: "https://www.irishtimes.com/news/politics/oireachtas/concerns-garda-surveillance-law-may-bring-in-facial-recognition-technology-1.4680103"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 37
-    images:
-      - url: "https://www.irishtimes.com/image-creator/?id=1.4680102&origw=725"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "NEC Iris Recognition Technology Ranks First in NIST Accuracy Testing"
-    excerpt: "NEC Corporation announced that its iris recognition technology ranked first in the world in the most recent iris recognition technology benchmark test, IREX 10 (*1), conducted by the globally authoritative U."
-    publishedDateTime: 2021-09-24T07:08:00Z
-    webUrl: "https://www.newswiretoday.com/news/176274/NEC-Iris-Recognition-Technology-Ranks-First-in-NIST-Accuracy-Testing/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 4
 
 secured: "jNER+p0Y4tx3zfGWJyAiOe1VUdpDKmCcnp0C2jO7IcjbaDoItwiK7wjmZZzj53h8k6fsa3lqHZkez8ZA+oH2qtVvVog9jQzVT+92SDUOoou4+bZtotPJ8wxWcUT48zunVAe+l1254ufudX0CqvDBJ3yoS4Z7Mk+pEdpXNdlMMvZHkac9gvzYqrF/swShfa87zlT+7kukAJEJhF73XnRRE5HX8Mcs1/xGGuu9EDlDEooZhRlpjKI9trqeIIBQ/BSzDCx5KSpGrksdL1s+uxpRs10/qRYOGrccKcTZaqA43teEN18UfnW3QSmcqv05MX5v8ts32OjObxec/erkBDNcaTo4Y+bEW6fJE5a193IiMs46iVLhbDljTzfsJe8NuHpLnJzt6LGG+HaVqbODNZ5lvQvsreh+kbL+GPGhseEJQ+Xp+4lQMasrT0GTalRgrpU3Bi3TcadjN9Jq3wHfFSDayNBs4SkIBDvd0VAMb1gRwzwFwm6g91y1xS+g9RVlIyeoErzEynhSiPtEdbm+vUCiCA==;ztr+Zs3TBXeRLqLxTsQyQQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/meity-aws-partner-support-deeptech-innovatio
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/meity-aws-partner-support-deeptech-innovation-india/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 119
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Share India set to disrupt algo-trading and fintech industry with two strategic acquisitions"
+    excerpt: "Share India Securities Limited has announced the acquisition of two companies, namely - Algowire Trading Technologies Private Limited and Utrade Solutions Private Limited."
+    publishedDateTime: 2021-09-23T06:30:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions-121092300443_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions-121092300443_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions-121092300443_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 33
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/23/full/20210923112459.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "MeitY Startup Hub and AWS collaborate to support startup growth and innovation in India"
     excerpt: "The MeitY Startup Hub, an initiative of the Ministry of Electronics and IT (MeitY) has entered into a Memorandum of Understanding (MoU) with Amazon Internet Ser"
     publishedDateTime: 2021-09-24T10:01:00Z
@@ -57,6 +73,38 @@ related:
         width: 277
         height: 239
         isCached: true
+  - title: "Share India set to disrupt the FinTech industry with strategic acquisitions"
+    excerpt: "Share India announced the acquisition of two companies, Algowire Trading Technologies Private Limited and Utrade Solutions Private Limited."
+    publishedDateTime: 2021-09-23T11:56:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/share-india-set-to-disrupt-the-fintech-industry-with-strategic-acquisitions/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 22
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/Money2020_MPU.jpg"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Share India set to disrupt the algo-trading and fintech industry with two strategic acquisitions"
+    excerpt: "Takes the next evolutionary step towards providing trading strategy development and algo-trading platform for its retail investors NEW DELHI, Sept. 23, 2021 /PRNewswire/ -- Share India Securities Limited has announced the acquisition of two companies,"
+    publishedDateTime: 2021-09-22T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-share-india-set-disrupt-algo-trading-fintech-industry-/2021/09/22/9454886.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "Share India set to disrupt algo-trading and fintech industry with two strategic acquisitions"
+    excerpt: "Share India Securities Limited has announced the acquisition of two companies, namely - Algowire Trading Technologies Private Limited and Utrade Solutions Private Limited. With these acquisitions, Share India Securities Limited has taken the next evolutionary step towards providing a platform for AI-driven automated trading,"
+    publishedDateTime: 2021-09-23T18:16:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20210923/3824700.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "UwteCv3u9OGmu6trXEICZalToVFmeN9piI52LfHc8MvRjxrB4+1VK3Dcv0P562C8RCAGFjcoEO9X6Q54iVua4NmrYSz+Sp3znutVznbsap9XEkDumXvahW+DUO93KtCKtP80e9DsHNp27iIm2Gr5NejOgbVtR0Epg4gj3pct370S5kYeGUV68H2eVbc//TBkQAo2MypGFaxuYSsmlIAYGj/jeumSAsu7oySEmMZKFIudoNrIHyz189fjykEJf5RMy1/K7FyNoYFB/i1Slu+651cKq1L7Tzjg2qb2JJGfIOY5jvdxqku5FslYOP5jfaUc5S+qzwxARBPAWiuzyUTrFw/CwOg9IF8l7ZCySzMNlEO1eBDDFUjxqFdVEOZaiz9JfGpBzmLehO//Pa1ToY1sgpuJgVqQgqvCi0WCPa5kB/GcFE62rbnuP9Egy37QB6REYPWfZgu7olWeyJkp5PFhdh3SbGzeb6bwU/1kQ8IdVbV2SsId6OVtLYrS+aiNqW3OkEXpP88vTy6Ye17cjapw2w==;/p6YQ/uiysYfzbp0qQc/hQ=="
 ---

@@ -25,21 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Taliban name deputy ministers, double down on all-male team"
-    excerpt: "Mujahid defended the latest additions to the Cabinet, saying they included members of ethnic minorities, such as the Hazaras."
-    publishedDateTime: 2021-09-21T15:50:00Z
-    webUrl: "https://www.13newsnow.com/article/news/nation-world/taliban-deputy-ministers-all-male-team/507-09100647-e4be-44d5-b281-d7e976725dac"
-    ampWebUrl: "https://www.13newsnow.com/amp/article/news/nation-world/taliban-deputy-ministers-all-male-team/507-09100647-e4be-44d5-b281-d7e976725dac"
-    cdnAmpWebUrl: "https://www-13newsnow-com.cdn.ampproject.org/c/s/www.13newsnow.com/amp/article/news/nation-world/taliban-deputy-ministers-all-male-team/507-09100647-e4be-44d5-b281-d7e976725dac"
+  - title: "Taliban face uphill battle in efforts to speak at UN meeting"
+    excerpt: "The new rulers of Afghanistan have an uphill battle in their efforts to be recognized in time to address other world leaders at the United Nations this year. The Taliban are challenging the credentials of the ambassador from Afghanistan’s former government and asking to speak at the General Assembly’s high-level meeting of world leaders this week,"
+    publishedDateTime: 2021-09-22T21:42:00Z
+    webUrl: "https://www.timesunion.com/news/article/Taliban-face-uphill-battle-in-efforts-to-speak-at-16479466.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/Taliban-face-uphill-battle-in-efforts-to-speak-at-16479466.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Taliban-face-uphill-battle-in-efforts-to-speak-at-16479466.php"
     type: article
     provider:
-      name: WVEC
-      domain: 13newsnow.com
+      name: Times Union
+      domain: timesunion.com
     quality: 44
     images:
-      - url: "https://media.13newsnow.com/assets/CCT/images/b2cfeab0-a872-49b2-a4c1-00ee26ce4a7f/b2cfeab0-a872-49b2-a4c1-00ee26ce4a7f_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Taliban's UN envoy urges quick recognition as Pakistan, Turkey express concern"
+    excerpt: "In an emergency measure, the UN aid coordinator Martin Griffiths released USD45 million in life-saving support Wednesday for Afghanistan from the world body's emergency fund."
+    publishedDateTime: 2021-09-23T08:38:00Z
+    webUrl: "https://www.newindianexpress.com/world/2021/sep/23/talibansun-envoy-urges-quick-recognition-as-pakistan-turkey-express-concern-2362721.html"
+    ampWebUrl: "https://www.newindianexpress.com/world/2021/sep/23/talibansun-envoy-urges-quick-recognition-as-pakistan-turkey-express-concern-2362721.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/world/2021/sep/23/talibansun-envoy-urges-quick-recognition-as-pakistan-turkey-express-concern-2362721.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 40
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/9/23/w600X390/Taliban_AP.jpg"
+        width: 600
+        height: 390
         isCached: true
   - title: "Afghan Taliban’s new UN envoy urges quick recognition"
     excerpt: "The Taliban’s newly appointed envoy to the United Nations is urging quick world recognition of the Taliban government and Afghanistan’s new rulers even as the World Health Organization raised the alarm warning of an impending humanitarian disaster in the war-wracked country."

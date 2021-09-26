@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-24-will-amazon-web-services-partnership-restore-snowflakes-triple-digit-growth.md",
+      "title": "Will Amazon Web Services Partnership Restore Snowflake’s Triple-Digit Growth?",
+      "excerpt": "Snowflake and AWS have a partnership that mixes cooperation and competition. Is that good for Snowflake investors?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petercohan/2021/09/24/will-amazon-web-services-partnership-restore-snowflakes-triple-digit-growth/",
+      "originalUrl": "https://www.forbes.com/sites/petercohan/2021/09/24/will-amazon-web-services-partnership-restore-snowflakes-triple-digit-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614c63bbd6b0fb244ae03218%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2021/09/24/will-amazon-web-services-partnership-restore-snowflakes-triple-digit-growth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2021/09/24/will-amazon-web-services-partnership-restore-snowflakes-triple-digit-growth/amp/",
+      "publishedDateTime": "2021-09-24T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-24-amazons-september-echo-event-what-we-expect-from-ring-and-alexa.md",
       "title": "Amazon's September Echo event: What we expect from Ring and Alexa",
       "excerpt": "Amazon is holding its annual event Sept. 28, and promises news about devices, services and more. Here's what we're hoping to see.",
@@ -180,7 +232,7 @@
       "originalUrl": "https://www.dqindia.com/meity-aws-partner-support-deeptech-innovation-india/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -405,49 +457,6 @@
         "AI Hardware",
         "Microsoft AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-aws-announces-general-availability-of-amazon-quicksight-q.md",
-      "title": "AWS Announces General Availability of Amazon QuickSight Q",
-      "excerpt": "New machine learning powered capability in Amazon QuickSight lets anyone type questions about their business data in natural language and receive accurate answers with",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/09/b23083415/aws-announces-general-availability-of-amazon-quicksight-q",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/b23083415/aws-announces-general-availability-of-amazon-quicksight-q",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/23083415",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23083415",
-      "publishedDateTime": "2021-09-23T16:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     },
     {
@@ -858,7 +867,7 @@
       "originalUrl": "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 343,
+      "heat": 333,
       "tags": null,
       "images": [
         {
@@ -1126,21 +1135,21 @@
       ]
     },
     {
-      "path": "_news/2021-09-23-artificial-intelligence-may-be-set-to-reveal-climate-change-tipping-points.md",
-      "title": "Artificial intelligence may be set to reveal climate-change tipping points",
-      "excerpt": "Researchers are developing artificial intelligence that could assess climate change tipping points. The deep learning algorithm could act as an early warning system against runaway climate change.",
+      "path": "_news/2021-09-23-will-ai-led-automation-transform-future-of-workforce-for-banking-financial-services-industry.md",
+      "title": "Will AI-led automation transform future of workforce for banking, financial services industry?",
+      "excerpt": "India has immense potential to leverage AI and each sector is a huge opportunity in itself as India leaps ahead with Digital Transformation in the coming decade../Representative image | Banking and financial services industry has always been on the forefront in adoption of technology.",
       "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.html",
-      "originalUrl": "https://phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.html",
+      "webUrl": "https://www.freepressjournal.in/business/will-ai-led-automation-transform-future-of-workforce-for-banking-financial-services-industry",
+      "originalUrl": "https://www.freepressjournal.in/business/will-ai-led-automation-transform-future-of-workforce-for-banking-financial-services-industry",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/climate-change.jpg",
-          "width": 2880,
-          "height": 1920,
+          "url": "https://images.assettype.com/freepressjournal/2020-05/9490bbbe-3add-411e-a7e5-f05c423c3800/cats.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 674,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1148,13 +1157,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.amp",
-      "publishedDateTime": "2021-09-23T00:32:00-07:00",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/business/will-ai-led-automation-transform-future-of-workforce-for-banking-financial-services-industry",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/will-ai-led-automation-transform-future-of-workforce-for-banking-financial-services-industry",
+      "publishedDateTime": "2021-09-22T23:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1164,6 +1173,7 @@
         "news"
       ],
       "topics": [
+        "AI in Finance",
         "AI"
       ]
     }

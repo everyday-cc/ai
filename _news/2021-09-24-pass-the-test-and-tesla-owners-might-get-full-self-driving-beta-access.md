@@ -271,22 +271,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Tesla drivers using 'full self-driving' Autopilot pay less attention to their surroundings"
-    excerpt: "Tech giant Tesla is due to launch the latest version of its Autopilot “full self-driving” technology to owners this autumn, but new research has revealed that the system could be making drivers inattentive to their surroundings."
-    publishedDateTime: 2021-09-21T15:10:00Z
-    webUrl: "https://www.driving.co.uk/news/tesla-drivers-fsd-autopilot-distraction/"
-    ampWebUrl: "https://www.driving.co.uk/news/tesla-drivers-fsd-autopilot-distraction/amp/"
-    cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/news/tesla-drivers-fsd-autopilot-distraction/amp/"
-    type: article
-    provider:
-      name: Sunday Times Driving
-      domain: driving.co.uk
-    quality: 49
-    images:
-      - url: "https://www.driving.co.uk/s3/st-driving-prod/uploads/2021/09/0x0-Model3_RHD_02-1024x638.jpg"
-        width: 1024
-        height: 638
-        isCached: true
   - title: "San Francisco Takes Issue with Tesla Full Self-Driving Testing"
     excerpt: "Tesla is getting ready to release Full Self-Driving to the masses, but the San Francisco County Transit Authority (SFCTA) raises some concerns about the software’s safety. In addition to worries about how well it performs,"
     publishedDateTime: 2021-09-24T16:47:00Z

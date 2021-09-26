@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tomsguide.com/amp/news/iphone-13-benchmarks-nothing-else
 cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/iphone-13-benchmarks-nothing-else-comes-close"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,52 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Apple reportedly working on iPhone features that may help diagnose depression"
-    excerpt: "The company is looking to identify signs of depression, autism and cognitive decline in iPhone user data, according to The Wall Street Journal. Apple is working with the University of California ..."
-    publishedDateTime: 2021-09-21T15:35:00Z
-    webUrl: "https://www.cnet.com/tech/mobile/apple-reportedly-working-on-depression-diagnosis-feature/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/apple-reportedly-working-on-depression-diagnosis-feature/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-reportedly-working-on-depression-diagnosis-feature/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 71
-    images:
-      - url: "https://www.cnet.com/a/img/Mm7LdrUmNjnMFP4XSGflLCOufB8=/1200x630/2020/04/22/5c84cb84-75bd-4c05-9645-77dbdc6125c2/coronavirus-iphone-11-gooogle-pixel-3a-1218.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Report: Apple’s working on a horrific iPhone feature that uses AI to ‘detect’ autism"
-    excerpt: "Apple's apparently building an AI system that uses data sourced from a user's iPhone to diagnose mental illness and autism. WTF?!?"
-    publishedDateTime: 2021-09-21T23:39:00Z
-    webUrl: "https://thenextweb.com/news/apples-working-on-iphone-feature-ai-detect-autism"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 60
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2Frotten-apple.jpg&signature=ba6421ed9203a2d021646e507c9303b6"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Future iPhones may be able to detect depression, cognitive decline"
-    excerpt: "Sources and documents seen by the Journal say that Apple is developing iPhone features that could help diagnose depression and cognitive decline. Apple is reportedly investigating whether the data collected for mobility, physical activity, sleep patterns ..."
-    publishedDateTime: 2021-09-21T16:10:00Z
-    webUrl: "https://www.pcworld.idg.com.au/article/691452/future-iphones-may-able-detect-depression-cognitive-decline/"
-    type: article
-    provider:
-      name: idg.com.au
-      domain: idg.com.au
-    quality: 24
-    images:
-      - url: "https://www.idgcdn.com.au/article/images/800x800/dimg/ios-15-health-app-100903672-orig.jpgautowebp"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "8j7+UhaugM9PwptwV02KYx+eBkPn5pw754YfBAt8bJcP++4ObkkqSdJzxOeqOrpLnn3nUPh78pqA5Dz1e+7pu0iHg51Zsm7od9Y+wR7gpluNHjQccouLeqlHet1K++jJjN+theEk2biaz+d5a0W5zvpXXmxLNsqgyQE/nKhJE0Pz2diIxkn6WvWsQ01lKd0+1fKpIrzXFPqSx0Td2CJ0C110M1qHdeAEXFuRot3F9m/wNZkkNvu57q6fzHD82e7dY97B45bZrIlCDopqgGnZy2LJdRV3Wadtd1Z043lGf3JGfwrLI5owmvKSbbOkZCTJid4MOgqwbdXlriaJHNomtUgXg+bgeXFRQVHx9MgtPH+rsY15iyI6f2EMGVG4/8M3+iwI5cSPeRqBcsJuL5yIHS+hNinQvO05nWg2BBvTWhPNOSWeuh4xq7jnlFPCrkJoD9mNCLM0Q2kIsmTLRfSYCHWevWE9BdaJHUo7ArZiak9kgEZvhkJUnYiPb1d/YD+hComZ0Z/qQXXg/aL1Zvncng==;tx07piZYMNB5L9iNqrqDpA=="
 ---

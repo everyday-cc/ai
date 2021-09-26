@@ -7,7 +7,7 @@ originalUrl: "https://www.freshplaza.com/article/9354805/us-50-million-in-fundin
 webUrl: "https://www.freshplaza.com/article/9354805/us-50-million-in-funding-closed-for-autonomous-farm-leveraging-ai-robotics/"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI in Automotive & Transportation Industry to 2026 - Burgeoning Demand for Autonomous Vehicles Accelerates Market Growth"
-    excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been"
-    publishedDateTime: 2021-09-21T15:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-ai-in-automotive--transportation-industry-to-2026---burgeoning-demand-for-autonomous-vehicles-accelerates-market-growth-301381520.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 11
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
   - title: "Leading Ag-Tech Startup Iron Ox Closes $53 Million Investment Round Led by Breakthrough Energy Ventures"
     excerpt: "Iron Ox announced today that it has closed a $53 million “Series C” funding round, led by new investor Breakthrough Energy Ventures. Iron Ox, which la"
     publishedDateTime: 2021-09-22T14:00:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Was famed Samson and Delilah really painted by Rubens? No, says AI"
 excerpt: "Long-held doubts about the authenticity of the National Gallery’s masterpiece, bought for £2.5m in 1980, are backed by pioneering technology"
 publishedDateTime: 2021-09-26T06:30:00Z
-originalUrl: "https://www.theguardian.com/artanddesign/2021/sep/26/was-famed-samson-and-delilah-really-painted-by-rubens-no-says-ai?fr=operanews"
-webUrl: "https://www.theguardian.com/artanddesign/2021/sep/26/was-famed-samson-and-delilah-really-painted-by-rubens-no-says-ai?fr=operanews"
+originalUrl: "https://www.theguardian.com/artanddesign/2021/sep/26/was-famed-samson-and-delilah-really-painted-by-rubens-no-says-ai"
+webUrl: "https://www.theguardian.com/artanddesign/2021/sep/26/was-famed-samson-and-delilah-really-painted-by-rubens-no-says-ai"
 ampWebUrl: "https://amp.theguardian.com/artanddesign/2021/sep/26/was-famed-samson-and-delilah-really-painted-by-rubens-no-says-ai"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2021/sep/26/was-famed-samson-and-delilah-really-painted-by-rubens-no-says-ai"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 360
     isCached: true
 
-secured: "BjBl8xxXOHee7yDhQznMpA0Q129uP6zvQIZb7P9VfYHYTSuIxvl1cfgIpv5+gRVS6w4gPRMUPv9iNxy1hFxDYGka/KQnZRz3+QwUApYdt8ug4N/HqYLXIG4mrKJKTF7HSsDiyzCzWtwwYtGGW/fJTbpXG56PI7onlbAlfjdaUnN/BAPvqF1gPWciTXtDVjK+4hv5xMvg9nfIiiG20BId2GrDi7YhSV4vl56EqcyAWx2dropCNOtAYWO9Ropcw/Wo9Q3NeezD3/htUoEGEmKbX3zINhOr42YnecCXJyvbnfNf2+B+EB4gjRrEj5lL7dJnkjO/HoUQ3WkfJqloLuQo2/ugDkSpbt7dndnnJOgRyNQ=;WNoOMgzmcIhBoQ4bGCbYsw=="
+secured: "Rc1au9HOLCl4gV7uj1n+swyCvDvUHPZ1wvVrrKp3hu2kjcSDnO1BJFcShgtWTqN/5br75LF5VrzhKeiDMHKhVcHKxop2scmNLd5J/pXzAAar5sGT+Hr4kpfy2NBlPHdTnrqxavtJ6tuasnJXGEdPG4JPVTAIGGtqbVa37YHSxWsokQnqneLniz9szpirDfRbMEMN2bKDFoOjzWDMyZChzLm3ZDl2Brt9KGAa6w+MvOZUCODcW1rmPW8GFfESu8mM82TF1Z+CNUNNeSU1CVENpdKZhrDV5A3L5Kegzc1IGlHq04PeQ/6eFuTR5FZ8HgD+edo5vWVygJGYnGJeMa41cqS8u9maPHWM2B6RLtoYS3o=;BZJl0SYtsQAjm07MZ1lg7g=="
 ---
 

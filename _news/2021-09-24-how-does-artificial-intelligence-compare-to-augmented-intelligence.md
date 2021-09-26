@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 691
         isCached: true
+  - title: "Watch out how AI and data science are making the current IPL more interesting."
+    excerpt: "Cricket and technology work hand in hand. The IPL 2021 is also boosted by AI and data science. Check out how AI and data science are making the current IPL more interesting."
+    publishedDateTime: 2021-09-26T08:30:00Z
+    webUrl: "https://www.analyticsinsight.net/how-can-ai-and-data-science-make-ipl-2021-more-interesting/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 35
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/How-Can-AI-and-Data-Science-Make-IPL-2021-More-Interesting.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "oOTqYO9Po9HWALOKCJhTy662/kLOS9B0gK+UulvpIjRQ+XcyNfK+fZidEVwt1tBOpspnglPsQ4SZthQjlKw1U2MxRN8wUv1aNWjrXvH50KRLbieIe2JjZR4qettYPDLrfwTQpVGJyds31qn66FKFXpke2UhCkwg8DLTDUVSmXV85P8Rh4T8r4fVbCRfFWsUd1PobM8l59zSsp6lV9kkyjWeyFGxHHCPShyGyoLHX0M7GoMxE8P13ED3Z+11xVVEGov/jgmth71j5HlWE9IOjgVYbYdqeXNFD2FI60HB/ZCL+Ecm5IZ/gpgzsUfd0hukQ+iZYTOJs95o/sECYngXLlezFG1wmxMjcfnBmjtBBZI55zfXvyLFluhIfjArh1TFeIgctsLJZao52GcNxhA+aNdClECFzUdQ9mVE1KOAkpGxCU2mCQtqMvfLNTcTMaAKQZzIIyVspvuXIaMG2cyCBtCPlZwp1z4NSK+423bwJIqIXg2+rugaRYM1WLCMljdy89KnUS+CMW/CtOCU5Z9bSsw==;q7UOEC6hyDKsaQqgw96lPQ=="
 ---

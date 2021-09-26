@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "How AI is redefining the ‘human touch’ in fintech industry"
-    excerpt: "The key to successfully navigating commercial lending lies in leveraging AI to minimise time, effort and risk at the back-end, so that relationship managers can build stronger relationships with prosp"
-    publishedDateTime: 2021-09-21T15:18:00Z
-    webUrl: "https://www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
-    images:
-      - url: "https://www.thehindubusinessline.com/opinion/o50gd8/article36594522.ece/ALTERNATES/LANDSCAPE_615/bl22thinkAI"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Fintech Zest AI Becomes a CUSO"
     excerpt: "Zest AI, a Los Angeles-based provider of artificial intelligence-powered loan underwriting software, has further solidified its role in the credit union industry by officially becoming a CUSO, Zest AI announced Wednesday."
     publishedDateTime: 2021-09-22T20:08:00Z
@@ -51,40 +35,79 @@ related:
         width: 620
         height: 414
         isCached: true
-  - title: "Share India set to disrupt algo-trading and fintech industry with two strategic acquisitions"
-    excerpt: "Share India Securities Limited has announced the acquisition of two companies, namely - Algowire Trading Technologies Private Limited and Utrade Solutions Private Limited."
-    publishedDateTime: 2021-09-23T06:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions-121092300443_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions-121092300443_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions-121092300443_1.html"
+  - title: "Fintech Bright Money Looks to Help Reduce Debt, Build Wealth"
+    excerpt: "Fintech startup Bright Money co-founder Avi Patchava joined Cheddar to talk about the company’s goal to help people become more financially secure and what distinguishes the AI-powered service from other fintech brands."
+    publishedDateTime: 2021-09-23T20:13:00Z
+    webUrl: "https://cheddar.com/media/fintech-bright-money-looks-to-help-reduce-debt-build-wealth"
+    ampWebUrl: "https://cheddar.com/media/fintech-bright-money-looks-to-help-reduce-debt-build-wealth.amp"
+    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/fintech-bright-money-looks-to-help-reduce-debt-build-wealth.amp"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 33
+      name: Cheddar
+      domain: cheddar.com
+    quality: 44
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/23/full/20210923112459.jpg"
+      - url: "https://img.chdrstatic.com/media/0ce02eaf-a0b1-4240-bcdd-295cbfe2deeb.jpg?width=1200&source=backend&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "FinTech Magazine attends Money 2020 at Amsterdam RAI"
+    excerpt: "FinTech Magazine flew to Amsterdam for the biggest fintech event of the year, Money 2020 conference at the Amsterdam RAI, and spoke to industry leaders"
+    publishedDateTime: 2021-09-24T13:25:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/fintech-magazine-attends-money-2020-amsterdam-rai"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/65400712728--48941059-AC3B-4D7C-9CAA-374B99BAC0DD.jpg.png?itok=9JGFqZbg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Five Economic Benefits From Bank And Fintech Firm Partnerships"
+    excerpt: "The connection between banks and FinTech companies means heightened trust backed by better tech, stronger security and less room for errors"
+    publishedDateTime: 2021-09-24T16:41:00Z
+    webUrl: "https://www.valuewalk.com/five-economic-benefits-from-bank-and-fintech-firm-partnerships/"
+    type: article
+    provider:
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 39
+    images:
+      - url: "https://valuewalk.b-cdn.net/wp-content/uploads/2020/05/fintech_1589276958.jpg"
+        width: 1200
+        height: 764
+        isCached: true
+  - title: "Five Economic Benefits From Bank And Fintech Firm Partnerships"
+    excerpt: "Q2 2021 hedge fund letters, conferences and Read More In fact, Capgemini's World FinTech Report of 2021 details how banks can leverage the new competitive market in depth. Just as we watched large and small businesses alike drastically adapt to the digital demands of Covid in 2020,"
+    publishedDateTime: 2021-09-25T04:56:00Z
+    webUrl: "https://menafn.com/1102859487/Five-Economic-Benefits-From-Bank-And-Fintech-Firm-Partnerships&source=138"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-09/24/V_b0f64image_story.jpg"
         width: 600
-        height: 450
+        height: 382
         isCached: true
-  - title: "Share India set to disrupt the algo-trading, fintech"
-    excerpt: "Share India Securities Limited has announced the acquisition of two companies namely - Algowire Trading Technologies Private Limited and Utrade Solutions Priva"
-    publishedDateTime: 2021-09-23T06:28:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271265988/share-india-set-to-disrupt-the-algo-trading-fintech"
+  - title: "GBG Named to Prestigious IDC FinTech Top 100 Rankings List"
+    excerpt: "Ranking marks GBG’s inaugural participation in the distinguished list SINGAPORE – Media OutReach – 16 September 2021 – GBG (AIM:GBG), the global expert in digital identity, helping businesses prevent fraud and meet complex compliance requirements,"
+    publishedDateTime: 2021-09-23T05:08:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/gbg-named-to-prestigious-idc-fintech-top-100-rankings-list/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/category/news/gbg-named-to-prestigious-idc-fintech-top-100-rankings-list/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/gbg-named-to-prestigious-idc-fintech-top-100-rankings-list/"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
     quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1632378030.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Tavant Ranks on the IDC FinTech Top for Third year in a Row"
-    excerpt: "IDC Financial Insights FinTech Rankings recognizes companies that are among the top financial technology providers worldwide. This Fortune 500-style ranking is ba"
-    publishedDateTime: 2021-09-23T14:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-4d4393410ef64e208c0c670fb2c8376f"
+  - title: "Guidewire Named to 2021 IDC FinTech Rankings"
+    excerpt: "Guidewire Software, Inc. (NYSE: GWRE) announced it has ranked number 30 out of 100 on the 2021 IDC FinTech Rankings. This is the first year Guidewire has appeared on the prestigious list and the company is the sole P&C insurance industry core systems provider included in the rankings."
+    publishedDateTime: 2021-09-23T12:56:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-software-insurance-industry-san-mateo-2f4ae05bce59474f8b091264c6d7469c"
     type: article
     provider:
       name: Associated Press
@@ -95,20 +118,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Share India set to disrupt the FinTech industry with strategic acquisitions"
-    excerpt: "Share India announced the acquisition of two companies, Algowire Trading Technologies Private Limited and Utrade Solutions Private Limited."
-    publishedDateTime: 2021-09-23T11:56:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/share-india-set-to-disrupt-the-fintech-industry-with-strategic-acquisitions/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 22
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/Money2020_MPU.jpg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Thesis Intern at AI for Fintech Research"
     excerpt: "Thesis Intern at AI for Fintech Research With millions of customers and thousands of employees worldwide, software and data analytics are at the heart of ING's business and operations."
     publishedDateTime: 2021-09-25T08:51:00Z
@@ -118,52 +127,20 @@ related:
       name: banken
       domain: banken.nl
     quality: 19
-  - title: "Worldwide FinTech Industry to 2026 - Featuring Affirm, Betterment and C2FO Among Others"
-    excerpt: "Technologies, Applications, and Services 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. This report provides a comparative analysis between legacy financial systems and emerging"
-    publishedDateTime: 2021-09-21T15:07:00Z
-    webUrl: "https://www.lelezard.com/en/news-20007898.html"
+  - title: "IDC Financial Insights Recognizes CSI as a Top Fintech Provider for 10th Consecutive Year"
+    excerpt: "Computer Services, Inc. (CSI) , a provider of end-to-end fintech and regtech solutions, has been named by IDC Financial Insights to its 2021 IDC FinTech Rankings for the 10th consecutive year. The annual industry ranking,"
+    publishedDateTime: 2021-09-23T11:42:00Z
+    webUrl: "https://www.lelezard.com/en/news-20011802.html"
     type: article
     provider:
       name: Le Lézard
       domain: lelezard.com
-    quality: 16
+    quality: 15
     images:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
         isCached: true
-  - title: "The Rise of Insurtech In The Pandemic Era: FinTech is Transforming The Insurance Industry"
-    excerpt: "Insurtech has recently emerged in the insurance space growing by leaps and bounds, helping organizations protect their business and execute transactions remotely during the"
-    publishedDateTime: 2021-09-25T22:53:00Z
-    webUrl: "https://www.bbntimes.com/financial/the-rise-of-insurtech-in-the-pandemic-era-fintech-is-transforming-the-insurance-industry"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 15
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Rise_of_Insurtech_In_The_Pandemic_Era-_FinTech_is_Transforming_The_Insurance_Industry.jpg"
-        width: 1687
-        height: 1080
-        isCached: true
-  - title: "Share India set to disrupt the algo-trading and fintech industry with two strategic acquisitions"
-    excerpt: "Takes the next evolutionary step towards providing trading strategy development and algo-trading platform for its retail investors NEW DELHI, Sept. 23, 2021 /PRNewswire/ -- Share India Securities Limited has announced the acquisition of two companies,"
-    publishedDateTime: 2021-09-22T00:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-share-india-set-disrupt-algo-trading-fintech-industry-/2021/09/22/9454886.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "Share India set to disrupt algo-trading and fintech industry with two strategic acquisitions"
-    excerpt: "Share India Securities Limited has announced the acquisition of two companies, namely - Algowire Trading Technologies Private Limited and Utrade Solutions Private Limited. With these acquisitions, Share India Securities Limited has taken the next evolutionary step towards providing a platform for AI-driven automated trading,"
-    publishedDateTime: 2021-09-23T18:16:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20210923/3824700.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "dUF8gL1hCeHzEkx1hiiSSHUtW8J3MKx2tiIxaGGabaD0X7rR7hGTIWwdNAmlshDEweX3a17JsGumUwoZhcYtwPKRlSmHxceA0hyf7+ymygbC2ZzVcntMlpKOSbtDLc279dFk2EAPkTDi1ZHEyT62SogOu74jqZanU8MATSN8ZBH4w8R5071koAK7PS8SAPK3b8J6T/drhp7PiGlDxV7hMfn/bZsTe0HXjqZXFFsDGQhDNEqul/oJRaIpjxTY+JBu709BbchUisWkTptj7QXVqxXV4I6yQ9iwZ6iHv94wwBprPAR1gUcj8wMcx9yZPspIIqUTeJTakk5iYhGsyb4qDdiIdJMIKC5s8DmfN0z00PB2LFuTU08WuKavsw5F/2IwJcl8RZa2VP7ebRmo3H8/6s1izdbWnRopxyDwnRFwEq7wN1Z1+liObjI6mNwKjeHMRWKb0rnuIdKonxikAP/uPSBMB1AheCxpr7zdXmFpizzJ+W64ynY+28vD5DCFJnjMQUQQppYTfNS2tA3iYnfUPA==;iGhJYOlVdf9t2BS4xLor3g=="
 ---

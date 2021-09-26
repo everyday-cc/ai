@@ -8,8 +8,8 @@ webUrl: "https://www.mos.ru/en/news/item/96369073/"
 ampWebUrl: "https://www.mos.ru/amp/en/news/item/96369073/"
 cdnAmpWebUrl: "https://www-mos-ru.cdn.ampproject.org/c/s/www.mos.ru/amp/en/news/item/96369073/"
 type: article
-quality: 51
-heat: 51
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.mos.ru/upload/newsfeed/newsfeed/rentgen(320)(1)(1).jpg"
@@ -25,6 +26,6 @@ images:
     height: 796
     isCached: true
 
-secured: "vqVrVTE7rA3bAxZURJm5MzT9mzuUGlH9JJ6UFmttQRU8PlqXGLIxXwmb1fUHNePcygD+AtsN2tDMOHDId4n6/D1U1NJ9OvlJVNLu5pD2byfdw74LadocDpe9mxnc13JIIZmztx7m3Itm59eY9cfH8hRIOdkjoJ6kRrAl5ogx0jlYrjDF6Hb0DQKa2TiAZIyxLdJcMjiPQOP1CJ54/AwHg7aJ2+YnJZpZFGi2ZocUI6So+vOAGHBEtj5VP02JMLRapgE62GEiAw8bj1IV/H8OVL44jd9rs8SAljzr1N4VxQneyh+A9vLDHF/7ZpqLO35uBCTSdAmrGlU3UOHyjAP2LysU2Ua2RMx6Ezla7900U+0=;LvnGu6fgZbguTQnEczOoaA=="
+secured: "K8gFK6s5nzUMiu9FkC0AgW7UIU3g+FtECVbqTVDr2ENDNHasj6NgRwpYbBph52OTsEz7QAJe5keXohryz3mn9LMYPtUxZz7zNmezufJqP1fzD3o9KMYrrRQi1CENNkF1CSFuHygq4Qbjevo3MNiwBVIquvD6fJSrfw2JhNL/cwBLptrD/PA+Merxjf/OCtYGSgroTGKdvQy5GjV/7ayRJcRculuzjEJUgzqm8mYAp/S03TtKcl9+fsi8zeXAaHY4Y0e4K6oe6Z+3+rcxjPyN/HcHuQSJU5QlImFidn7xA1v+CfZpbPDgZP99PNaw84iMZ5iOCC8ofQ9Ki/0Wg/9TOckHS8CayMahHZWnOE9oJk4Y/iT7VZfaN7HPopt3jEakdALB4QXASXorRrUbLJUIZ1Qdtfwng2TctaQKRXJkcHlNc2XzYwXqhc7DBwZ6ZedcmbaKEBm/TE/x0DnFSdSf8BwE+yxSgsmB23C7gMheHOmwdDVovDYxsO4He5rCKfTXK6+ctX4wV6IAjLv5dVIrOg==;Zp2J/k97Q8hiCB/01wvVqA=="
 ---
 

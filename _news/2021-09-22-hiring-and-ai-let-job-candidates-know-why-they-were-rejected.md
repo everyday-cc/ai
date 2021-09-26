@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/hiring-job-candidates-ai-1163224431
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/hiring-job-candidates-ai-11632244313"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

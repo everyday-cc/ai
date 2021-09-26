@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/explained/explained-why-artificial
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-why-artificial-intelligences-religious-biases-are-worrying-7533309/lite/"
 type: article
 quality: 72
-heat: 75
+heat: 76
 published: true
 
 provider:

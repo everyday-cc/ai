@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/amp/"
 type: article
 quality: 60
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -138,20 +138,6 @@ related:
       - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/1494865_1.jpg?r=1632306667602"
         width: 590
         height: 350
-        isCached: true
-  - title: "Nuro is an Artificial Intelligence-based startup that creates self-driving cars, named R2."
-    excerpt: "Nuro is an Artificial Intelligence (AI)-based startup that develops self-driving cars called R2 that are based on robotics and AI. It's energy-efficient, battery-powered, and self-contained. Nuro's vehicle is an on-road vehicle that carries goods quickly,"
-    publishedDateTime: 2021-09-23T10:00:00Z
-    webUrl: "https://www.analyticsinsight.net/nuros-artificial-intelligence-strategy-on-r2-a-self-driving-car/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 31
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Artificial-Intelligence.jpg"
-        width: 900
-        height: 500
         isCached: true
 
 secured: "ZVs087F2xDiP6Ybs48LEGaJ9U9TcaHe+boD5jSsU9x1mCqFYavgAJOEMHpJyhKt58OIni+8IyH/+GD3m143u6oqA78abGN9CmpIN1qnLHtAJOCkyB6Tzk5E10tRx2l8A1EwXiS38+ztBlb8yg8me+b2Dp8M2kaGifH+WRdLWtYwWLGIKS+G6nsqBYYJ4gIqmDi900Iu5d5TbKmH0I4OxuhH0ioJCw+82YEouaRYPBnaiC9+z0S28IW66hfvoWaKa3dsNmOkEVAPAqwoAeU9E6mXx65kYw1FC4NuLBDLJuOYD+GdY5dytShsh9kXg3yeC8CDwpt/kCjwzuzUEpvZPpfabgVWtg+WVdIyIN6WJ0QhQ+pah+fT3huzMOQECCNrZSmB2q+s6k2yxyiqL32K/IfC+7uNRXeWdI8T4ZrDfs6wAjj5kNfcWYHtMOKODqUp2G6xk4hIBhaso8S8Ln6VbOtrilure3p9Ss2CO2HrzVmtgZ2TzWI90aLpOU6Gmyqo2+8x/E9CIbHSnbUEHbaqUvg==;XZGgWl27j8UhLB4AXlC8Eg=="

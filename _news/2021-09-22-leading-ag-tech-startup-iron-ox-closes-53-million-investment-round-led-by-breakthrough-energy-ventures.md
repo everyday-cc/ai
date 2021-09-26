@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI in Automotive & Transportation Industry to 2026 - Burgeoning Demand for Autonomous Vehicles Accelerates Market Growth"
-    excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been"
-    publishedDateTime: 2021-09-21T15:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-ai-in-automotive--transportation-industry-to-2026---burgeoning-demand-for-autonomous-vehicles-accelerates-market-growth-301381520.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 11
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
 
 secured: "Vv9AmBqvOwk/RkWIAQ2QVO/fSAVFcL97W3wjmu2ic9xwIvhDdJfrx5bz8+QkYTG7oHQlpfUdJjq8svEfgWbobvTFagJ3LeQmkIQlh+Z2WkXGSKIyLEbijt9bZLZ0dG76EJ5Xk5QZqLm+K+41PgkuYonOTfOTeJLJcWYMRpZHq6dFjHQsZv1ayVzjypPIMcpCB/4bOc9ilGxqpr1T1abzh3QEWWs2g4xrLPwdgaUB+Gq1Wmf12zfaGj8LBrwoUWszhqyYfbTDTHEMFSaMmt65f7FaH7UCP8WRuUJwY3KkNYXn3tovyOBkIF6v4H3Y0LJtvMybUALnJP9157hfv2cUsoKRwVKgY+Fw/nMEWE7v7ZM=;idW+249GO6JBZLjT7T/siw=="
 ---
