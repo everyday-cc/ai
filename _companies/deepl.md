@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "deeplcom"
   url: "https://twitter.com/deeplcom"
-  followers: 10840
+  followers: 10842
 
 locations:
   - Cologne, Germany
@@ -37,6 +37,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=-zBT7vwa3PA"
 
-secured: "JMRdGnFWJCVTyjN0cLYpnS9jZzOqa7ZWag6LlRkAxtGKS9sxehambcPCcWvT+SsYljWPOUae1hBVuQiDirjvRyTSak6xuWN6nE9uWU9DrBbHrumVEIBEcxvYD/sc6F35R6XI3BHgXvKYvuqHydfzrg/VFN+kBi8AC9HvJsdGM1h3eqQabZUamsfklwA2BIxBBA1e5FuMGSen61CpnT8oXnFZ37puMVZAEESwrYaxQm5AfC97H2suxpHbAJ4j7mrwmDzrawrLMHMmisbuJ8xs3wnnuR99rj3ht4t/f62CAQTzgqKdd2ISPAmSZbEB6BzpxT4OL9yFYtQzY30lihj1RQRInUKLfHUogQPC1bLWt/AlbbdAiw6qi3oVGL3W7W4ZFWp0c4UI3DXBaTqt+LweoTVjSMHYtNry+8WWyrIuyHg=;Z+7vpDd1tJcWcMjwOHg/DA=="
+secured: "qDoYcjeotoIfrt+4CvBhQ2HObsMjUYRSeM2+T8Gq5iw2dFu/W315RVAgUW6PAlRVNWntlwFDbxgSKylHLMl9B8OE3pEAhYXhjno1VdvXgh4e6LG5dP1HK+TwxdQcQ3Woan6O27ZcN7xN6Oa6lYTqXoORuQ1LZE36wX61vL5aeisor4WJQf7W66prtmUoHRbrzqqmQyKzB87pq/NWVYRydKxzUuTW1qkD9RTCHnJAdOIn50YRZGdATeVz3S33upuxrJ2cs81RlToAHJEGTRsdmRZu+H3YUqEnmuEBxgGMyVngI5f3duHkALMJ/h287ZiO0764psnLte2SX+YwJEWt8IDrDJgrWw7nLElWf91X+8xyS+mVyRqkp7mD/9znv3o9gquP0HekuEdmHTCLBq5GomPKUCpicj5ovUtXVRE8mHM=;NP3DYF1om18J4DFabgYcwg=="
 ---
 

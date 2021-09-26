@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "StarshipRobots"
   url: "https://twitter.com/StarshipRobots"
-  followers: 10849
+  followers: 10851
 
 size: 201-500 employees
 yearFounded: 2014
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "HDY5JMdZU3SBx99bopZ74FAxPCSRqvGaykHX8UKlWz/UnvHHMe77dCYfJUFv9zDtIuYbyGCjwW169kKx7rHZC8vsaDW1WLJdv+tIjimDkRTkeD2MtPhzNTGwhDl55wkiV6sAYAht2Z15FLJiOEmiCEs8bsci5CRp62tkAxzBp5Ejq15QysfZyLoDLqcPCF9ptnq8oOmT+vu8GiV72652PdCeh0UMXtstTexZxr8nnmsfXsbzFYuAsoAEGneZMksp9v1OFjiyyb7GhdQgumPEvb3PfJxWFfuvmJevOdGci7lNXyt5/eZaIQoqc3qacEhMJB96M/yJ9AsbKb03TAl9oR4zAozrQzIhzis2w7wJ2G+HtXaZikI+pgq5LYdpKp+ydPnjRIMiEfg3Mza0dzBrGHhmz2Bfbd5xPkCJ3Cq/+jA=;/G/CmYMPu9gFYV2HzmerRQ=="
+secured: "gLfav5sxb/cc/jXRaXUHdvQ/8u89p5Os4Oz5vFUx7zs5GxcPFyAzo+fViimA1UewMiQcYZxANVDM+2h+/3U3KH+F/9kUc9nLISKH4rFFFkGoaI9qr7Hn80B9DQ6rpTwVQxDmKnzTqEsOsqhpqox3ad4GbNAQVK8agO3OeRc2Cn6Or4EjUtLlXNgmvw72Hsn5hx+wlrtQehAb218gIiV7l/X2rS+CyEEVF2qndRgvW91G1ZW+T3EBpkUKYrRPIawS4Q0CKK4DVRu02bFPi10iVp8QAZ4A+x2trUBxdV4JFQ5UZN4G7xFqHCDIoEEGw1eJdUMuR6od2DRV+HW8L/MBjW44YcgW1msZPOWRc0Vf4VEpW2wImBpLRRjC0EyF6/yu7mcr6lEY/0ap+UvtyiTCxjSS69qXm4nJ2Spbb2P3c3U=;eb+RDcArxKMEHVN2Ifs1dw=="
 ---
 
