@@ -1,32 +1,27 @@
 ---
 category: news
 title: "Shark's Smartest Robot Yet Features AI Technology Similar to Self-Driving Cars"
-excerpt: "Forget about vacuuming for up to two months withShark's smartest and most premium self-empty robot NEEDHAM, Mass., Sept. 24, 2021 /PRNewswire/"
-publishedDateTime: 2021-09-24T17:58:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/shark-s-smartest-robot-yet-features-ai-technology-similar-to-self-driving-cars-1030822427"
-webUrl: "https://markets.businessinsider.com/news/stocks/shark-s-smartest-robot-yet-features-ai-technology-similar-to-self-driving-cars-1030822427"
+excerpt: "Consumers are on the hunt for products that do more for less, and the search for top-of-the-line yet affordable robots is no different. That's why Shark®, (HKEX: 1691.HK), the #1 brand in vacuums*, is excited to introduce its newest and"
+publishedDateTime: 2021-09-24T17:54:00Z
+originalUrl: "https://www.lelezard.com/en/news-20014769.html"
+webUrl: "https://www.lelezard.com/en/news-20014769.html"
 type: article
-quality: 82
-heat: 102
-published: true
+quality: 50
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Robotics
+  - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1634664/Image_1.jpg"
-    width: 400
-    height: 400
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -46,21 +41,7 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Nuro is an Artificial Intelligence-based startup that creates self-driving cars, named R2."
-    excerpt: "Nuro is an Artificial Intelligence (AI)-based startup that develops self-driving cars called R2 that are based on robotics and AI. It's energy-efficient, battery-powered, and self-contained. Nuro's vehicle is an on-road vehicle that carries goods quickly,"
-    publishedDateTime: 2021-09-23T10:00:00Z
-    webUrl: "https://www.analyticsinsight.net/nuros-artificial-intelligence-strategy-on-r2-a-self-driving-car/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 31
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Artificial-Intelligence.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
-secured: "/7Zy6Rl3UJUIUuXilaylRp63hQ7hJgS0ucLipAehsyWSENOuVj1mFMb4o2b9QenyV/wye4f/JCsZgsuHonBj5V9lPQuXN8sv2sBuHcl1dNbq80Vym0zrl4QGyayQJpqSsnAmPxAGIdi1fsVUoGCIcfP7Hz9OGyTVXD+OJI4pW8GmWsO3BG1k8WF7jfu1jI6vkRmt6Vr/gMm2v+2RUajfYSajW9o7ptAHHsKeRA06cyS7m6BSS0jA6cHW25q4nk+/iVnpWuLim0aAkUZkGaX3J0teEPk+o55yLYdFkaOI/bykTXIOF90l1snN6jBYPS2M4nZJsC6As/dEcma4gdo1U6GssvA0oQ9cv6EGecXoS8w=;sp3hjjQkXM1jArl8VDauFA=="
+secured: "8QTJQJnfQuByxcTb7kNFwoFOLz/QpVC6/7huJuT2EDEtdpAD46PJO7noHdY+2sKXC44NBw5bDg6f4jntAKM0fWx40/QHTjXGDLPbJ8tFyzEQC7W7aBg1OfdiRz3enQWRMbH19F76ffPbAyFqoFqkbTD7bwOYCV9mvnSGLHmvjoKQjlCAss3i9CYtPmOTjTB/Y0KxQaThSJ4QuCHoeth4XAsP109q2w0h5TKh1rnwrfv2gLgqBqtJRZ6JkBCt+RtjTwkeoyhjumDDKUj2hKMqDqACuGRK1ig/H+XbTpqOwj2YFO1gIWfMyN0TaC9b+yCYFHC7h9Bjm3ChV3/5mW6A8J3/QOZ68b/kg3g7nKJGBLk=;Zq8diRn4jx47TDhxzUuEjQ=="
 ---
 

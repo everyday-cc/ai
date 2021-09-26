@@ -21,36 +21,64 @@ topics:
   - AI
 
 related:
-  - title: "Fintech Bright Money Looks to Help Reduce Debt, Build Wealth"
-    excerpt: "Fintech startup Bright Money co-founder Avi Patchava joined Cheddar to talk about the company’s goal to help people become more financially secure and what distinguishes the AI-powered service from other fintech brands."
-    publishedDateTime: 2021-09-23T20:13:00Z
-    webUrl: "https://cheddar.com/media/fintech-bright-money-looks-to-help-reduce-debt-build-wealth"
-    ampWebUrl: "https://cheddar.com/media/fintech-bright-money-looks-to-help-reduce-debt-build-wealth.amp"
-    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/fintech-bright-money-looks-to-help-reduce-debt-build-wealth.amp"
+  - title: "Artificial Intelligence (Ai) In Education Market to Eyewitness Massive Growth by 2026"
+    excerpt: "HTF MI Analyst have added a new research study on Title Worldwide Artificial Intelligence (Ai) In Education Market In-depth Research Report 2021, Forecast to 2026 with detailed information of Product Types [,"
+    publishedDateTime: 2021-09-25T13:08:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-education-market-to-eyewitness-massive-growth-by-2026/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-education-market-to-eyewitness-massive-growth-by-2026/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-education-market-to-eyewitness-massive-growth-by-2026/?amp=1"
     type: article
     provider:
-      name: Cheddar
-      domain: cheddar.com
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 64
+  - title: "Artificial Intelligence (AI) in Remote Patient Monitoring Market Indicates Impressive Growth Rate In Healthcare IT Industry"
+    excerpt: "Artificial Intelligence AI in Remote Patient Monitoring Market Contours The shift from volume based to value based care in healthcare sector has opened a new paradigm in healthcare IT A wide spectrum of ICT based eHealth systems have opened up"
+    publishedDateTime: 2021-09-22T17:37:00Z
+    webUrl: "https://www.openpr.com/news/2403249/artificial-intelligence-ai-in-remote-patient-monitoring"
+    ampWebUrl: "https://www.openpr.com/amp/2403249/artificial-intelligence-ai-in-remote-patient-monitoring"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2403249/artificial-intelligence-ai-in-remote-patient-monitoring"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 63
+    images:
+      - url: "https://cdn.openpr.com/U/9/U922583013_g.jpg"
+        width: 800
+        height: 394
+        isCached: true
+  - title: "AI In Medical Imaging Market to witness Massive Growth by 2027-GE Healthcare, IBM Watson Health, Philips Healthcare, Samsung"
+    excerpt: "According to the new AI In Medical Imaging market research report 2021-2027 is easy to understand the detailed analysis. The report published by Market Insights Reports represents the context of current and future trends driving global AI In Medical Imaging market growth."
+    publishedDateTime: 2021-09-22T12:07:00Z
+    webUrl: "https://www.openpr.com/news/2402723/ai-in-medical-imaging-market-to-witness-massive-growth-by-2027-ge"
+    ampWebUrl: "https://www.openpr.com/amp/2402723/ai-in-medical-imaging-market-to-witness-massive-growth-by-2027-ge"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2402723/ai-in-medical-imaging-market-to-witness-massive-growth-by-2027-ge"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
     quality: 44
-    images:
-      - url: "https://img.chdrstatic.com/media/0ce02eaf-a0b1-4240-bcdd-295cbfe2deeb.jpg?width=1200&source=backend&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden’s pick to head OCC favors tighter regulation of FinTech"
-    excerpt: "President Joe Biden's nominee for Comptroller of the Currency, Cornell law professor Saule Omarova, continues a Democratic pattern of choosing potential regulators who believe in stricter control of the markets."
-    publishedDateTime: 2021-09-24T20:02:00Z
-    webUrl: "https://www.complianceweek.com/regulatory-policy/bidens-pick-to-head-occ-favors-tighter-regulation-of-fintech/30839.article"
+  - title: "Artificial Intelligence (AI) Speakers Market Analysis by Emerging Growth Factors and Revenue Forecast to 2027 | Apple, Xiaomi, Huawei"
+    excerpt: "The report titled Global Artificial Intelligence AI Speakers Market is one of the most comprehensive and important additions to QY Research s archive of market research studies It offers detailed research and analysis of key aspects of the global Artificial"
+    publishedDateTime: 2021-09-21T11:35:00Z
+    webUrl: "https://www.openpr.com/news/2400877/artificial-intelligence-ai-speakers-market-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2400877/artificial-intelligence-ai-speakers-market-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2400877/artificial-intelligence-ai-speakers-market-analysis"
     type: article
     provider:
-      name: Compliance Week
-      domain: complianceweek.com
-    quality: 24
-    images:
-      - url: "https://d6jxgaftxvagq.cloudfront.net/Pictures/1024x536/2/9/4/14294_occ_310015.jpg"
-        width: 1024
-        height: 536
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 21
+  - title: "Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Construction market report provides"
+    publishedDateTime: 2021-09-24T13:18:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4908381-global-artificial-intelligence-ai-in-construction-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 6
 
 secured: "XNJvF7bzO5boQ4KUXBGlqPDynLm75+IeHrALi3TQMBEtQaCJe9YHhaXeMKEQpAIrYNT4x4vRKMIjJ9W5IRRj32NqWwCEJMIKfULPsDEOI0K1ususY5/RU09WKPDNpbX/yhWvSWOnaupgqcW0yWtTczBwIw5TDcJRH5Ny7hZGSc7kIguwieUAIUtQoU72kVgphFdSXkA/BoF9+t/FtWW0k68RMCavvN1XxR8xU1Pm9p3jhu980qP23bFE8DCGB7JNeQmYvpD0naJv61RVRhuGJbpmJhesFFgwYBRjjwVFDJPrJuTD/7zSEc+qicMjuwwq5Qm/7yB/UPga4qLzaHNBvwNo49NTjG2VvoMUA+ly61w=;TS4nlH9xZ5k2jwiKxLNjPQ=="
 ---

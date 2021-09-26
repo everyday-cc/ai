@@ -18,98 +18,66 @@ topics:
   - AI
 
 related:
-  - title: "AI in Automotive & Transportation: Global Market Outlook 2021-2026"
-    excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. According to the report,"
-    publishedDateTime: 2021-09-22T10:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/09/g23046975/ai-in-automotive-transportation-global-market-outlook-2021-2026"
-    ampWebUrl: "https://www.benzinga.com/amp/content/23046975"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23046975"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "AI in Fintech Market Size, Strategies, Competitive Landscape, Trends & Factor Analysis, 2020–2026"
-    excerpt: "The global  Market is forecast to reach USD 26.77 Billion by 2026, according to a new report by Reports and Data. The AI in fintech incorporates computational power and deep learning algorithms to the financial technology."
-    publishedDateTime: 2021-09-22T14:53:00Z
-    webUrl: "https://manometcurrent.com/ai-in-fintech-market-size-strategies-competitive-landscape-trends-factor-analysis-2020-2026/"
-    ampWebUrl: "https://manometcurrent.com/ai-in-fintech-market-size-strategies-competitive-landscape-trends-factor-analysis-2020-2026/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-fintech-market-size-strategies-competitive-landscape-trends-factor-analysis-2020-2026/?amp=1"
+  - title: "Artificial Intelligence (Ai) In Education Market to Eyewitness Massive Growth by 2026"
+    excerpt: "HTF MI Analyst have added a new research study on Title Worldwide Artificial Intelligence (Ai) In Education Market In-depth Research Report 2021, Forecast to 2026 with detailed information of Product Types [,"
+    publishedDateTime: 2021-09-25T13:08:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-education-market-to-eyewitness-massive-growth-by-2026/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-education-market-to-eyewitness-massive-growth-by-2026/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-education-market-to-eyewitness-massive-growth-by-2026/?amp=1"
     type: article
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 46
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/09/4-68.jpg"
-        width: 750
-        height: 350
-        isCached: true
-  - title: "Neural Network Software Market Size, Regional Trends and Opportunities, Revenue Analysis, For 2020–2026"
-    excerpt: "The global neural network software market is forecast to reach USD 97.11 Billion by 2026, according to a new report by Reports and Data. The neural network software distinguish the subtle nonlinear interdependencies with individual patterns of data and self-learn to produce complex decisions without being programmed."
-    publishedDateTime: 2021-09-22T14:57:00Z
-    webUrl: "https://manometcurrent.com/neural-network-software-market-size-regional-trends-and-opportunities-revenue-analysis-for-2020-2026/"
-    ampWebUrl: "https://manometcurrent.com/neural-network-software-market-size-regional-trends-and-opportunities-revenue-analysis-for-2020-2026/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/neural-network-software-market-size-regional-trends-and-opportunities-revenue-analysis-for-2020-2026/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 43
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/09/6-19.jpg"
-        width: 750
-        height: 350
-        isCached: true
-  - title: "Global Artificial Intelligence for Accounting Market Study Offering Insights on Latest Advancements, Trends and Analysis from 2021 to 2026"
-    excerpt: "Global Artificial Intelligence for Accounting Market Research Report 2021 2026 thinks about key breakdowns in the Industry with insights about the market drivers and market restrictions The report illuminates accumulating an all encompassing rundown of factual investigation for the market"
-    publishedDateTime: 2021-09-22T16:06:00Z
-    webUrl: "https://www.openpr.com/news/2403155/global-artificial-intelligence-for-accounting-market-study"
-    ampWebUrl: "https://www.openpr.com/amp/2403155/global-artificial-intelligence-for-accounting-market-study"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2403155/global-artificial-intelligence-for-accounting-market-study"
+    quality: 64
+  - title: "Artificial Intelligence (AI) in Remote Patient Monitoring Market Indicates Impressive Growth Rate In Healthcare IT Industry"
+    excerpt: "Artificial Intelligence AI in Remote Patient Monitoring Market Contours The shift from volume based to value based care in healthcare sector has opened a new paradigm in healthcare IT A wide spectrum of ICT based eHealth systems have opened up"
+    publishedDateTime: 2021-09-22T17:37:00Z
+    webUrl: "https://www.openpr.com/news/2403249/artificial-intelligence-ai-in-remote-patient-monitoring"
+    ampWebUrl: "https://www.openpr.com/amp/2403249/artificial-intelligence-ai-in-remote-patient-monitoring"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2403249/artificial-intelligence-ai-in-remote-patient-monitoring"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 23
+    quality: 63
     images:
-      - url: "https://cdn.openpr.com/U/9/U922298563_g.jpg"
-        width: 500
-        height: 500
-        isCached: true
-  - title: "Global Drone Markets Report 2021-2026: Emerging Trends Include 5G Technology, Drone-In-A-Box, Blockchain, Computer Vision, Fog Computing & IoT"
-    excerpt: "The \"Global Drone Market Report 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The annual Drone Market Report"
-    publishedDateTime: 2021-09-21T10:48:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-drone-markets-report-2021-2026-emerging-trends-include-5g-technology-drone-in-a-box-blockchain-computer-vision-fog-computing--iot-301381301.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+      - url: "https://cdn.openpr.com/U/9/U922583013_g.jpg"
         width: 800
-        height: 419
+        height: 394
         isCached: true
-  - title: "US Hyperscale Data Center Market Outlook & Forecast Report 2021-2026 - AI Boosts Liquid Immersion & Direct-To-Chip Cooling Adoption - ResearchAndMarke"
-    excerpt: "The \"US Hyperscale Data Center Market - Industry Outlook & Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The US hyperscale data center market by investment is expected to grow at a CAGR of 3."
-    publishedDateTime: 2021-09-21T11:42:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=534060"
+  - title: "AI In Medical Imaging Market to witness Massive Growth by 2027-GE Healthcare, IBM Watson Health, Philips Healthcare, Samsung"
+    excerpt: "According to the new AI In Medical Imaging market research report 2021-2027 is easy to understand the detailed analysis. The report published by Market Insights Reports represents the context of current and future trends driving global AI In Medical Imaging market growth."
+    publishedDateTime: 2021-09-22T12:07:00Z
+    webUrl: "https://www.openpr.com/news/2402723/ai-in-medical-imaging-market-to-witness-massive-growth-by-2027-ge"
+    ampWebUrl: "https://www.openpr.com/amp/2402723/ai-in-medical-imaging-market-to-witness-massive-growth-by-2027-ge"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2402723/ai-in-medical-imaging-market-to-witness-massive-growth-by-2027-ge"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 14
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+  - title: "Fintech Market Is Likely to Experience a Tremendous Growth in Near Future"
+    excerpt: "HTF MI Analyst have added a new research study on Title Worldwide Fintech Market In-depth Research Report 2021, Forecast to 2026 with detailed information of Product Types [, Fintech markets by type,"
+    publishedDateTime: 2021-09-25T13:07:00Z
+    webUrl: "https://manometcurrent.com/fintech-market-is-likely-to-experience-a-tremendous-growth-in-near-future/"
+    ampWebUrl: "https://manometcurrent.com/fintech-market-is-likely-to-experience-a-tremendous-growth-in-near-future/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/fintech-market-is-likely-to-experience-a-tremendous-growth-in-near-future/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 23
+  - title: "Artificial Intelligence (AI) Speakers Market Analysis by Emerging Growth Factors and Revenue Forecast to 2027 | Apple, Xiaomi, Huawei"
+    excerpt: "The report titled Global Artificial Intelligence AI Speakers Market is one of the most comprehensive and important additions to QY Research s archive of market research studies It offers detailed research and analysis of key aspects of the global Artificial"
+    publishedDateTime: 2021-09-21T11:35:00Z
+    webUrl: "https://www.openpr.com/news/2400877/artificial-intelligence-ai-speakers-market-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2400877/artificial-intelligence-ai-speakers-market-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2400877/artificial-intelligence-ai-speakers-market-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 21
 
 secured: "il+qlZmSui7/rSqTF9nKxSxNvAWGzNwS556GGgzhTzAepvPAgVlnjBHWVTQ9m+LFhAvR+rJYzNtIfGijJfEGcXC22CrCegrmFpKMF21PTnUGIfWMfoT/gPTjpeKo0cqEzbKC/Fs4HonTzJXXdn87nOQRjcXWu59R9tCodRLoO2RD5nr5YUo5ejveX1FplCzcuIS2+UO6U9xRgQRrAayoacxk9uktPmf0qde37e//8FEa79dhoAsZxrEDRVWfco1Ajw1wrcbqEUdikZLNcAtm/lvorsqF5Jk5wCXdvK9vT346X596ii1q2Pa/Xshrd1YDtobKIVLknBMsC8bWKOskRzt3wkrnmLGxfavXtncPHPQ=;yvOUChYj9WTuugM8XG3Lkg=="
 ---

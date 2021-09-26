@@ -57,17 +57,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Machine Learning, AI & Big Data Analytics in the Travel & Hospitality Industry: Applications, Scopes, and Impact on the Job Market"
-    excerpt: "There is a huge amount of data that has to be handled to provide customer satisfaction, good customer experience and a lot more where the future of t.."
-    publishedDateTime: 2021-09-21T06:07:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/machine-learning-ai-big-data-analytics-in-the-travel-hospitality-industry-applications-scopes-and-impact-on-the-job-market/86389867"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/machine-learning-ai-big-data-analytics-in-the-travel-hospitality-industry-applications-scopes-and-impact-on-the-job-market/86389867"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/machine-learning-ai-big-data-analytics-in-the-travel-hospitality-industry-applications-scopes-and-impact-on-the-job-market/86389867"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 24
   - title: "IoT Analytics State of IoT report details trends and overview of the IoT vendor landscape"
     excerpt: "The 148-page State of IoT report researched by IoT Analytics highlighted recent IoT-related news stories, 100 largest IoT-related funding rounds of the last nine months, major acquisitions, the company’s input on 36 current trends,"
     publishedDateTime: 2021-09-22T01:53:00Z

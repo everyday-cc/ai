@@ -65,17 +65,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Machine Learning, AI & Big Data Analytics in the Travel & Hospitality Industry: Applications, Scopes, and Impact on the Job Market"
-    excerpt: "There is a huge amount of data that has to be handled to provide customer satisfaction, good customer experience and a lot more where the future of t.."
-    publishedDateTime: 2021-09-21T06:07:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/machine-learning-ai-big-data-analytics-in-the-travel-hospitality-industry-applications-scopes-and-impact-on-the-job-market/86389867"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/machine-learning-ai-big-data-analytics-in-the-travel-hospitality-industry-applications-scopes-and-impact-on-the-job-market/86389867"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/machine-learning-ai-big-data-analytics-in-the-travel-hospitality-industry-applications-scopes-and-impact-on-the-job-market/86389867"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 24
   - title: "Analytics engine leverages data and artificial intelligence to turn radio communication between drivers and engineers into insights"
     excerpt: "Using advanced digital analytics and artificial intelligence, Genpact’s Radio Analytics Engine (RAE) analyzes and organizes hours of radio communication generated simultaneously by drivers during a race and turns."
     publishedDateTime: 2021-09-22T09:53:00Z

@@ -105,6 +105,22 @@ related:
         width: 1023
         height: 887
         isCached: true
+  - title: "Tesla drivers can now request Full Self-Driving Beta with the press of a button, despite safety concerns"
+    excerpt: "Tesla rolled out a long-awaited software update late Friday that allows customers to request access to its controversial, Full Self-Driving Beta (FSD) program. Drivers who get a high safety score from Tesla will get access."
+    publishedDateTime: 2021-09-25T20:28:00Z
+    webUrl: "https://www.cnbc.com/2021/09/25/tesla-drivers-can-request-fsd-beta-with-a-button-press-despite-safety-concerns.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/09/25/tesla-drivers-can-request-fsd-beta-with-a-button-press-despite-safety-concerns.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/09/25/tesla-drivers-can-request-fsd-beta-with-a-button-press-despite-safety-concerns.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 72
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106884111-1621276053397-musk.jpg?v=1621276074"
+        width: 3000
+        height: 2120
+        isCached: true
   - title: "Tesla Negotiating With Samsung To Produce Next-Gen Full Self-Driving Chip: Reports"
     excerpt: "A joint project between Tesla and Samsung, which aims to create a full self-driving (FSD) chip is currently under negotiation, according to reports. The said chip, which will be produced by the South Korean electronics giant and designed by the American electric vehicle company as per Electrek,"
     publishedDateTime: 2021-09-24T12:00:00Z
@@ -351,6 +367,6 @@ related:
         height: 960
         isCached: true
 
-secured: "3sod8WS7ettQZNqXXckbL+KZzlxnP1vzldlUHQLg6JJZ1t2Q1Tj7HhGkrfZVRcB0U8Jkf7fCep2HVEd0UbYq1d5Sq0A32KFURE8dU4Zq/dGQnulwp+WXJCS844unJg578jg//JKuQ23duun6+SmxBfVYGCpILVDQ6uCD3pLGtmZmH+IKvQAfoJKFTHdEmsuc8ikITR4IpX8mal2HX7D2p8f2tOw+js+4wIZ0UebPzmHR4kyYfvv7A8qOvr2wK0rC9c7PWGXEkGiMI/nWSt89KMchiC27sN+9rpX6Ls55hht0RUxDK2YUHIZM9pYPi54anDdywq1gc6vMlnsiTIeATG6kQ8jhxiG50SN1luX72OY=;0HCEugU0nuUR3nzrImUBfQ=="
+secured: "EbuZ43HCH0Wic6u+Oq8fxnkCwZjK0uaZAVS4bUmm+8uiYPDt37/AiSUIm70Hww/G8wpncmhIY9KUyMI6du6ZT/+4j4Yar1e/kIusLEiGnDKLR0bbjUwS7uO8zRdX46uZyAYEPEA/VAi4RMmiZtC3b9+D94CsTMVmGveusXk9Az3Ym6tuJ1uUe5wyqIsrMt/KxqNTgZxprccqPIJE4qgsq9fPwJglVexYL4Vn73XpG7GXTQZwdyBwM4co54FbYC0LYSKNUweW03wY8gcwKcrVJduIauJ8FPFM/ioNlz+aoLln4xp05Khsq+vo9ASC6urrjmOcahQEdcP1UdaYx5ji33b4W+ebaP7Nos0DajW2IGoZbGlP/VMlIlwzaEu8hFl+BeSxiDZSn1tWkXXo2AGpMTW/rNN96G5jSzWj5cRPYsqYvwkj85uM9Ic4Gx/9AzntePyhPnAninPNmshMZ7NiUkUeBFQqo5wAOCHXIw3ydeQ51Pou8MQpPcwoic4QIUbcQt0+VVjqlcvq/zbX495b6g==;fjODc1VPi4trc4gY8/Cp8Q=="
 ---
 

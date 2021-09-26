@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/23046975"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23046975"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -103,15 +103,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Construction market report provides"
-    publishedDateTime: 2021-09-24T13:18:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4908381-global-artificial-intelligence-ai-in-construction-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 6
 
 secured: "Jbeh36OJLql3SfbUQ4Pnxxx/sSUc1vJhhVXCbAe399d/CwxNXUEQVP1OXYkR+CFAnxABak5WXauUSzm+puopFsQVrRTHOvWEMeGl6juVCh+H1z5QuVbVa6JdNsvQ+NW5DFPTMRnJgjP9OsBpBWXrU/HX8+79cw/rxmK2cnSipbNcQQBK5dq8xJSXGuorTw8NjelWPYNe7x5JaP/JwbyJsJb5BC4YZdORziYMEq5JZRL0Zbrc+QWAd5uEQLMOAG2qQsLiIfi+9oQEaC6onG+hAxhTSgWkDmCAn6UGbEBdJPjXv4wrW8WAL5S6Zdtfae8lSDk4LG55/mFe0DvzZjNeEVI2SP5thknEpFht5o4kYEk=;uBNxRq/aaVOsVIuxQXCIzg=="
 ---

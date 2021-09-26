@@ -32,17 +32,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 39
-  - title: "Covid 19 impact on Voice Recognition Software Market Experience some Large Growth in Near Future | Sonix, Yactraq, SmartAction"
-    excerpt: "Report Ocean released a report that presents a detailed analysis of the Global Voice Recognition Software Market along with insights into key factors which drive the market The report is a comprehensive and systematic analysis of the market providing key"
-    publishedDateTime: 2021-09-23T06:01:00Z
-    webUrl: "https://www.openpr.com/news/2403553/covid-19-impact-on-voice-recognition-software-market-experience"
-    ampWebUrl: "https://www.openpr.com/amp/2403553/covid-19-impact-on-voice-recognition-software-market-experience"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2403553/covid-19-impact-on-voice-recognition-software-market-experience"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "AesGsAYAgZ+jrOQYmBiCFT81MikL2zoT3rNb0o2htHvsj36J6Ofy16PEw8P2PLab2b5cXFtH8lyzu+a2hMuyod4uJ5voOOt1s9Sr1ehUQZGf0i0Jh2L4mAf9Tfeh2WKxjJEu9LtLlLjA+Cyq5BzSvL0lENQHl0Y/oEcRtF60Cp8cWvrbgIcKK5rTopmi+48I98FzNrQpDE3OgaWVP/3KtZ6yQ43+TGv0WAd6kfKPCKktWxBJw04GJzp939YOpKU4boIVRq7SANZKhJkNKvDPL8raHVxpzKhp8eW78paZrY2yJFl0Go+A6FTbKynkmg1AQwfIapqSjAlkcicz2zs+W0PJ6Guz36EYn5GjVFatj/E=;RyQP2/xsapmTMjeZRkP+7Q=="
 ---

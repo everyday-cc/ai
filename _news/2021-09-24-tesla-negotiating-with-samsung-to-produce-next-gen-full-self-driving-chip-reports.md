@@ -106,6 +106,22 @@ related:
         width: 1023
         height: 887
         isCached: true
+  - title: "Tesla drivers can now request Full Self-Driving Beta with the press of a button, despite safety concerns"
+    excerpt: "Tesla rolled out a long-awaited software update late Friday that allows customers to request access to its controversial, Full Self-Driving Beta (FSD) program. Drivers who get a high safety score from Tesla will get access."
+    publishedDateTime: 2021-09-25T20:28:00Z
+    webUrl: "https://www.cnbc.com/2021/09/25/tesla-drivers-can-request-fsd-beta-with-a-button-press-despite-safety-concerns.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/09/25/tesla-drivers-can-request-fsd-beta-with-a-button-press-despite-safety-concerns.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/09/25/tesla-drivers-can-request-fsd-beta-with-a-button-press-despite-safety-concerns.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 72
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106884111-1621276053397-musk.jpg?v=1621276074"
+        width: 3000
+        height: 2120
+        isCached: true
   - title: "Samsung in talks with Tesla to make next-gen self-driving chips, says daily"
     excerpt: "Samsung Electronics' semiconductor plant in Hwaseong produces 7nm chips. SEOUL: Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process,"
     publishedDateTime: 2021-09-23T16:41:00Z

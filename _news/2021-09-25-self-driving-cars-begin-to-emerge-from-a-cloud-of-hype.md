@@ -149,6 +149,20 @@ related:
         width: 590
         height: 350
         isCached: true
+  - title: "Nuro is an Artificial Intelligence-based startup that creates self-driving cars, named R2."
+    excerpt: "Nuro is an Artificial Intelligence (AI)-based startup that develops self-driving cars called R2 that are based on robotics and AI. It's energy-efficient, battery-powered, and self-contained. Nuro's vehicle is an on-road vehicle that carries goods quickly,"
+    publishedDateTime: 2021-09-23T10:00:00Z
+    webUrl: "https://www.analyticsinsight.net/nuros-artificial-intelligence-strategy-on-r2-a-self-driving-car/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 31
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Artificial-Intelligence.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "IqEPeUyINv/0XI7DpRMeEdzSMAEL0+hYs9Nggq2/JKkRtlWtl7SjxAK3o9LT8BTXMuU5zFP+/Rd/9I7oUqQ340695Gm0u3tYNUB+Ynz476QKdJFo28jeSikm3iG8LZ7nxrUsZA8LoswV3LTNWSgpfqBDyA3RQo/o7hLxo+0ABhb7DMqh3CRJa9FU43iIeuGYTND4/ZXBSDppAq3zFZx2HKocycjr3A571dLC+dfT3Iug5maGSx4JJIZukLQJ8v4zQhlruCMbwbketvMPDX4ULeLV1IeXMP8EpiXm/16Bh4So8fHUpkcS/i7IeqECi7x/XNci0tUJnOi36ccM6nDcggBAPfYkdd3o75+jIIhxaWrqJc3Y3Krly1MmupqVBgUJiXDQ9Xp8EYMOH7KyQuWcGZycffsOA99HpKOgT4S0v8aJCO6jhqtR/qaDdorRmicUJJy+Sx9HhG1vM1g50Rvo8LRghSqX/f2xPVJO7LoVJW/PQLs4VGxnzvyoQ00YoXZEkt30dpKZqyZ82IbBAQ2jyw==;yqZIJ3VIb6dBL5S3COea4A=="
 ---

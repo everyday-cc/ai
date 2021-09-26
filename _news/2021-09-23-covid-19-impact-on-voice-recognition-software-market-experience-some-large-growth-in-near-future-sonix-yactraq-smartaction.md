@@ -21,28 +21,22 @@ topics:
   - AI
 
 related:
-  - title: "Computer Vision Market May Set New Growth Story | Cognex, Basler, OMRON"
-    excerpt: "A new business intelligence report released by Advance Market Analytics with title Global Computer Vision Market Insights forecast to 2027 This report provides a detailed overview of key factors in the Global Computer Vision Market and factors such as driver"
-    publishedDateTime: 2021-09-21T15:43:00Z
-    webUrl: "https://www.openpr.com/news/2401290/computer-vision-market-may-set-new-growth-story-cognex-basler"
-    ampWebUrl: "https://www.openpr.com/amp/2401290/computer-vision-market-may-set-new-growth-story-cognex-basler"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2401290/computer-vision-market-may-set-new-growth-story-cognex-basler"
+  - title: "Neural Networks Software Market to Signify Healthy Growth by 2027 & COVID-19 impact | Google, SAP SE"
+    excerpt: "This Neural Networks Software market research stud offers proper industry viewpoint market size growth future trends and trading All this are taken into consideration while preparing the market report with the forecast period from 2021 to 2027 This report contains"
+    publishedDateTime: 2021-09-24T13:19:00Z
+    webUrl: "https://www.openpr.com/news/2406103/neural-networks-software-market-to-signify-healthy-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2406103/neural-networks-software-market-to-signify-healthy-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2406103/neural-networks-software-market-to-signify-healthy-growth"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 39
-  - title: "Deep Learning in Machine Vision Market Worth Observing Strong Growth by Cognex Corporation, MVTec Software GmbH, Cyth Systems"
-    excerpt: "A2Z Market Research announces the release of Deep Learning in Machine Vision Market research report. The market is predictable to grow at a healthy pace in the coming years. Deep Learning in Machine Vision Market 2021 research report presents analysis of market size,"
-    publishedDateTime: 2021-09-22T06:01:00Z
-    webUrl: "https://www.globalbankingandfinance.com/deep-learning-in-machine-vision-market-worth-observing-strong-growth-by-cognex-corporation-mvtec-software-gmbh-cyth-systems/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/deep-learning-in-machine-vision-market-worth-observing-strong-growth-by-cognex-corporation-mvtec-software-gmbh-cyth-systems/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/deep-learning-in-machine-vision-market-worth-observing-strong-growth-by-cognex-corporation-mvtec-software-gmbh-cyth-systems/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 12
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/9/U924772644_g.jpg"
+        width: 800
+        height: 457
+        isCached: true
 
 secured: "RELfr2zECcCf6yXcTfeMgxuV1mWoyV62O/Vq9r3g3hfK0nROlysKYmLlfJR0IgiRf5MOeMTUk7bSnR7DuqfHQUr/n3m4cP/EClmA+qlBBSAp1My0hSS/iZS5pMwH4VTTEEX/bJc1Ak57QBCHR3otIy5bnPQ6CYxXM0gZ3PMNK1G5HmCccEOA/hxgslzjvItZafy5PGF27Le38vMQ3ldABWWfviNcT6eBMOeo5veoRlxNIrLS07gidDIE2hzyxTOct2OcNWLZDe1y5NN0aYxDjH8H+g4m2H2crad3CiWjBZn2lUrYavxOCi0UboAcgUGHKQFfp/Fms+d/NSvkaXVGcX0PWp/e0AtW/bFZFcJWz9M=;1kYxLrfwScmGcj50wWrB1Q=="
 ---
