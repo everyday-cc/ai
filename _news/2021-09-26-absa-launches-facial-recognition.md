@@ -1,33 +1,24 @@
 ---
 category: news
-title: "Android update teases improved accessibility options for handwriting, facial recognition"
-excerpt: "Google is launching 13 new Android features this autumn, including new accessibility features, improvements to Waze, and alerts to remind you to look up from the phone screen while walking. The tech giant is launching two new accessibility features to help people with motor and speech impairments,"
-publishedDateTime: 2021-09-24T12:54:00Z
-originalUrl: "https://www.itpro.co.uk/mobile/google-android/361007/android-accessibility-facial-recognition-handwriting-autumn"
-webUrl: "https://www.itpro.co.uk/mobile/google-android/361007/android-accessibility-facial-recognition-handwriting-autumn"
+title: "Absa launches facial recognition"
+excerpt: "Absa has launched facial recognition in its Android and iOS apps, allowing clients to authenticate certain transactions by scanning their faces. The bank notified clients of the new feature with a pop-up message that appears when you sign in to your Internet banking profile."
+publishedDateTime: 2021-09-26T15:39:00Z
+originalUrl: "https://mybroadband.co.za/news/security/413610-absa-launches-facial-recognition.html"
+webUrl: "https://mybroadband.co.za/news/security/413610-absa-launches-facial-recognition.html"
+ampWebUrl: "https://mybroadband.co.za/news/security/413610-absa-launches-facial-recognition.html/amp"
+cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/security/413610-absa-launches-facial-recognition.html/amp"
 type: article
-quality: 62
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: IT Pro
-  domain: itpro.co.uk
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg"
-      width: 50
-      height: 50
+  name: MyBroadband
+  domain: mybroadband.co.za
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
-
-images:
-  - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1632486148/Google_android_new_features.png"
-    width: 1260
-    height: 710
-    isCached: true
+  - AI
 
 related:
   - title: "Android adds facial gesture controls and handwriting recognition accessibility features"
@@ -62,17 +53,20 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "Absa launches facial recognition"
-    excerpt: "Absa has launched facial recognition in its Android and iOS apps, allowing clients to authenticate certain transactions by scanning their faces. The bank notified clients of the new feature with a pop-up message that appears when you sign in to your Internet banking profile."
-    publishedDateTime: 2021-09-26T15:39:00Z
-    webUrl: "https://mybroadband.co.za/news/security/413610-absa-launches-facial-recognition.html"
-    ampWebUrl: "https://mybroadband.co.za/news/security/413610-absa-launches-facial-recognition.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/security/413610-absa-launches-facial-recognition.html/amp"
+  - title: "Android update teases improved accessibility options for handwriting, facial recognition"
+    excerpt: "Google is launching 13 new Android features this autumn, including new accessibility features, improvements to Waze, and alerts to remind you to look up from the phone screen while walking. The tech giant is launching two new accessibility features to help people with motor and speech impairments,"
+    publishedDateTime: 2021-09-24T12:54:00Z
+    webUrl: "https://www.itpro.co.uk/mobile/google-android/361007/android-accessibility-facial-recognition-handwriting-autumn"
     type: article
     provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 62
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1632486148/Google_android_new_features.png"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Android New Facial Gesture Controls & Handwriting Recognition Features, Check How It Works"
     excerpt: "Google has launched a lot of accessibility features for Android, including Android Facial Gesture navigation and Android Handwriting recognition feature."
     publishedDateTime: 2021-09-24T03:59:00Z
@@ -104,6 +98,6 @@ related:
         height: 810
         isCached: true
 
-secured: "UM62m51HXWNFiizJIfq8I1JPiEzlNHNBo0zRsCFhBPb5Qm1Xjww7ZW+mZCSqtaEBWwwJm4GFTMRhEAz9cEbBn3lFZtfHnGUSk+znF2wrA8zSMW3TGdi/mmROmXVYQlN/wbqLEs4T9Mp63WG6sPf7vbldIT51gQ/+YessNAInLm4sWDe7ZvXErem9WqUgXYBfQw3cH203xo4qwQ9DXSqj59LVdWbJEz2r0wGemkpIOFPpdi6CULPsH1G3ks6gIsQM5jJqfHm6/VSRQr64/zcqpuLQZOrcVM0iZLD8rxJlHvkPTaDqzvJAAi+LGF+cBC7VzkTTv2rbOXFYQ8HSaT+mJ9TQHWgVfrpu6FBqV3gwy6mijG+1ThPglucO9ejKHa3WBVCBUquLI8LIo59cqc+ZMFv2DhqT0M/ED/wafHu42Ep/vtk9opOU1iTCAAFqUaoqs7SCRmrGEyUptQ5mfFanM0rybDuwwlLRjTcwU+WzpjgzRABM9ns8XfdmAZYfBX/HcXks3dj8ApVHwo1XbjkLAQ==;ZprXRPECmUI0S7S9uHI1Eg=="
+secured: "AKU4UmAqFLzOxc8MnSVhQmNBEVwpUaGxn4A8fmFRoqvhOZ+bl0/KS5a8BcfwSkewvakScxMbe42YvTmidCJ39Zm3HchJH693Q0Fjm79h7jVF0Zs6Len919X2t0txT2FK1jd3GVW74v0T+H/5t9GJaZbpRnIKutDyUPigAQJEnyUtNA8JyjsJu5lOsB69vYrTLtfx6wfF4gXx2m7bF6pqi/VkBCQYhAwXVKzPbH4HThRwRSJbU/Wy8/hOeKSpLR0tbzBqwfA8t41LxHYQPfI+ud7gjhMn/s92fonZFs/56iJVx1fnvCYc8Lqn4cbYnM5jV8tITbxvMEVWaADiQFD1nfSQdjWZAdB0HKHu04DsGWg=;ZSAC3orPNHjw1ZstgdtNfg=="
 ---
 

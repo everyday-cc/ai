@@ -39,15 +39,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Artificial intelligence changing how companies handle HR. But do robots care about your civil rights? | Opinion"
-    excerpt: "With 86% of major U.S. corporations predicting that artificial intelligence will become a “mainstream technology” at their company this year, management-by-algorithm is no longer the stuff of science fiction."
-    publishedDateTime: 2021-09-21T21:49:00Z
-    webUrl: "https://www.miamiherald.com/opinion/op-ed/article254421893.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 14
   - title: "Keith E. Sonderling: Artificial intelligence is changing how HR is handled at companies. But do robots care about your civil rights?"
     excerpt: "With 86% of major U.S. corporations predicting that artificial intelligence will become a “mainstream technology” at their company this year, management-by-algorithm is no longer the stuff of science fiction."
     publishedDateTime: 2021-09-23T16:00:00Z

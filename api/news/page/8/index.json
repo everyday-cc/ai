@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-09-17-hinge-health-acquires-the-most-advanced-computer-vision-technology-for-tracking-human-motion.md",
+      "title": "Hinge Health Acquires the Most Advanced Computer Vision Technology for Tracking Human Motion",
+      "excerpt": "Hinge Health, the world’s #1 Digital Musculoskeletal Clinic™, has acquired wrnch, developer of the leading computer vision platform for measuring human motion. wrnch’s three-dimensional motion-tracking technology enables the same precise tracking of full-body movement used by elite athletes and the motion picture industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/hinge-health-acquires-the-most-advanced-computer-vision-technology-for-tracking-human-motion/article_ec29d4e5-469a-5056-99ea-40e33bc0ba38.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/hinge-health-acquires-the-most-advanced-computer-vision-technology-for-tracking-human-motion/article_ec29d4e5-469a-5056-99ea-40e33bc0ba38.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/b/d7/bd7e6515-72e1-5bc0-91be-a4f733d52d89/614475d969de3.image.jpg?resize=1120%2C630",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-17T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-17-2022-genesis-gv60-ev-to-arrive-with-facial-recognition-like-a-smartphone.md",
       "title": "2022 Genesis GV60 EV to arrive with facial recognition like a smartphone",
       "excerpt": "It seems the incoming 2022 Genesis GV60 EV will arrive with more than just love-it or hate-it styling, funky paint colors, and a mysterious floating oddity on the center console. In a recent",
@@ -1107,49 +1150,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-fintech-market-to-witness-huge-growth-by-2026-ant-financial-adyen-qudian.md",
-      "title": "Fintech Market to Witness Huge Growth by 2026 | Ant Financial, Adyen, Qudian",
-      "excerpt": "The latest research on Worldwide Fintech Report 2021 offered by HTF MI provides a comprehensive investigation into the geographical landscape industry size along with the revenue estimation of the business Additionally the report also highlights the challenges impeding market growth",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2394913/fintech-market-to-witness-huge-growth-by-2026-ant-financial",
-      "originalUrl": "https://www.openpr.com/news/2394913/fintech-market-to-witness-huge-growth-by-2026-ant-financial",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/9/U916568378_g.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2394913/fintech-market-to-witness-huge-growth-by-2026-ant-financial",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2394913/fintech-market-to-witness-huge-growth-by-2026-ant-financial",
-      "publishedDateTime": "2021-09-15T18:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

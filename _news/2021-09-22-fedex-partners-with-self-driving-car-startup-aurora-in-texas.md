@@ -185,20 +185,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Aurora Will Test Its Fleet of Self-Driving, Ride-Hailing Toyota Robotaxis in Dallas"
-    excerpt: "AM\" hybrid electric minivans—short for \"Sienna Autonomo-MaaS\"—will be tested in a six-month pilot program in Dallas, Pittsburgh, the San Francisco Bay areal, and other locations. Aurora intends to deploy the vehicles on ride-hailing networks in late 2024."
-    publishedDateTime: 2021-09-21T22:41:00Z
-    webUrl: "https://dallasinnovates.com/aurora-will-test-its-fleet-of-self-driving-ride-hailing-toyota-siennas-in-dallas/"
-    type: article
-    provider:
-      name: dallasinnovates.com
-      domain: dallasinnovates.com
-    quality: 33
-    images:
-      - url: "https://s24806.pcdn.co/wp-content/uploads/2021/09/Toyota_Sienna_Powered_By_Aurora.jpg"
-        width: 970
-        height: 464
-        isCached: true
   - title: "FedEx Partners With Self-Driving Car Startup Aurora in Texas"
     excerpt: "Aurora Innovation Inc. will help move cargo for FedEx Corp. in a pilot project in Texas that uses the startup’s technology in a self-driving Paccar Inc. truck. The arrangement marks FedEx’s first trial of autonomous driving."
     publishedDateTime: 2021-09-22T21:58:00Z
@@ -241,15 +227,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Aurora Will Test Its Fleet of Self-Driving, Ride-Hailing Toyota Siennas in Dallas"
-    excerpt: "AM\" hybrid electric minivans—short for \"Sienna Autonomo-MaaS\"—will be tested in a six-month pilot program in Dallas, Pittsburgh, the San Francisco Bay areal, and other locations. Aurora intends to deploy the vehicles on ride-hailing networks in late 2024."
-    publishedDateTime: 2021-09-21T22:20:00Z
-    webUrl: "https://dallasinnovates.com/aurora-will-test-its-fleet-of-self-driving-ride-hailing-toyota-siennas-in-dallas/"
-    type: article
-    provider:
-      name: dallasinnovates.com
-      domain: dallasinnovates.com
-    quality: 14
   - title: "Aurora launches self-driving truck pilot program with FedEx in Texas"
     excerpt: "The pilot begins this week, in which they will regularly haul FedEx loads autonomously with a safety driver between the Dallas and Houston areas on a 500-mile round trip. The announcement comes two days after Aurora gave a glimpse of the modified Toyota Sienna vans with which it plans to test its self-driving taxi service in the Bay Area,"
     publishedDateTime: 2021-09-23T21:47:00Z

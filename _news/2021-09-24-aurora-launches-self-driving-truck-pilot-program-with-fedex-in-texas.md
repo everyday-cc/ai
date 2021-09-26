@@ -189,20 +189,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Aurora Will Test Its Fleet of Self-Driving, Ride-Hailing Toyota Robotaxis in Dallas"
-    excerpt: "AM\" hybrid electric minivans—short for \"Sienna Autonomo-MaaS\"—will be tested in a six-month pilot program in Dallas, Pittsburgh, the San Francisco Bay areal, and other locations. Aurora intends to deploy the vehicles on ride-hailing networks in late 2024."
-    publishedDateTime: 2021-09-21T22:41:00Z
-    webUrl: "https://dallasinnovates.com/aurora-will-test-its-fleet-of-self-driving-ride-hailing-toyota-siennas-in-dallas/"
-    type: article
-    provider:
-      name: dallasinnovates.com
-      domain: dallasinnovates.com
-    quality: 33
-    images:
-      - url: "https://s24806.pcdn.co/wp-content/uploads/2021/09/Toyota_Sienna_Powered_By_Aurora.jpg"
-        width: 970
-        height: 464
-        isCached: true
   - title: "FedEx Partners With Self-Driving Car Startup Aurora in Texas"
     excerpt: "Aurora Innovation Inc. will help move cargo for FedEx Corp. in a pilot project in Texas that uses the startup’s technology in a self-driving Paccar Inc. truck. The arrangement marks FedEx’s first trial of autonomous driving."
     publishedDateTime: 2021-09-22T21:58:00Z
@@ -245,15 +231,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Aurora Will Test Its Fleet of Self-Driving, Ride-Hailing Toyota Siennas in Dallas"
-    excerpt: "AM\" hybrid electric minivans—short for \"Sienna Autonomo-MaaS\"—will be tested in a six-month pilot program in Dallas, Pittsburgh, the San Francisco Bay areal, and other locations. Aurora intends to deploy the vehicles on ride-hailing networks in late 2024."
-    publishedDateTime: 2021-09-21T22:20:00Z
-    webUrl: "https://dallasinnovates.com/aurora-will-test-its-fleet-of-self-driving-ride-hailing-toyota-siennas-in-dallas/"
-    type: article
-    provider:
-      name: dallasinnovates.com
-      domain: dallasinnovates.com
-    quality: 14
 
 secured: "LJRpHs7Clf1b1u6QLTBUyg/ik2MIjgIpX8bkDvTaVjf7/03OmTqbt0IJT3gZ1OhSv7pfsnGJT+2HbkX6pBgaUsxhqtRZ54Xm1SteWKF5Lm2vsW8hRsGm/PN5pUs9ci7HksuZ/SJIk44YIkL4kiLQKKBgbgApL9AWEhpk9jXByHx2SE8dcENw5HQW1XnN+aN5AQaTFRxRH7Eo1pdIChqysbCLstPINm8M6cZoIdLi5oryyLTaYwypH+zhZd4OmB9tztG8pH3pGxvJTSBWd4GhgTuhwy5/spw1WdFzeFhdwm6azR6LLk8IY716qFaWmABFxiQ2lOrTl2BZSVFlk11Ay4vUek+7R3pE+Nnh4T+xgKfiFNuKU4M7W+IKOgaOEh3nVg/dERwOYAO50OGstwI/aE99+E132SxyK3gi10JisfMpJjofVer4NeT3xx+AFsNLr+XQ9MAlyEClx1jG+OMu+CID7LXWKO4AMEJwiRKSSt1SDyGUSM+HScAXAIlxSJPLzcpD8SFo4pMGoRE845Lwmg==;XwQzTt8RBs3Rm+T/I3UYKw=="
 ---

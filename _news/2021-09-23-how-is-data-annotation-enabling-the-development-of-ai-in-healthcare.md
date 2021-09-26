@@ -25,73 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Mayo Clinic CEO: Telehealth & AI are the keys to healthcare's future"
-    excerpt: "Telemedicine, hospital-at-home programs and artificial intelligence will be key to improving healthcare access and affordability in the future, according to Gianrico Farrugia, MD, president and CEO of Rochester,"
-    publishedDateTime: 2021-09-22T14:54:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-transformation/mayo-clinic-ceo-telehealth-ai-are-the-keys-to-healthcare-s-future.html"
+  - title: "The next generation of data-driven healthcare is here"
+    excerpt: "Pairing blockchain and AI in medicine can unlock new data for analysis, facilitate patient consent, track usage of clinical data, and thus, improve the industry."
+    publishedDateTime: 2021-09-26T13:07:00Z
+    webUrl: "https://cointelegraph.com/news/the-next-generation-of-data-driven-healthcare-is-here"
+    ampWebUrl: "https://cointelegraph.com/news/the-next-generation-of-data-driven-healthcare-is-here/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/the-next-generation-of-data-driven-healthcare-is-here/amp"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 59
     images:
-      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/9.jpg"
-        width: 800
-        height: 600
+      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDkvNThmZjY4ODctZDVjMC00YjlmLTk4NzgtMWQwMTkxMjBiNzU5LmpwZw==.jpg"
+        width: 740
+        height: 493
         isCached: true
-  - title: "Mayo Clinic CEO: Health care needs transformation"
-    excerpt: "He says technology including telemedicine, home health care and artificial intelligence are ways to accomplish that."
-    publishedDateTime: 2021-09-22T09:20:00Z
-    webUrl: "https://www.jaxdailyrecord.com/article/mayo-clinic-ceo-health-care-needs-transformation"
-    ampWebUrl: "https://www.jaxdailyrecord.com/article/mayo-clinic-ceo-health-care-needs-transformation?amp"
-    cdnAmpWebUrl: "https://www-jaxdailyrecord-com.cdn.ampproject.org/c/s/www.jaxdailyrecord.com/article/mayo-clinic-ceo-health-care-needs-transformation?amp"
+  - title: "NYU's initiative empowers healthcare workers to take advantage of data-driven technologies"
+    excerpt: "How will rapidly expanding health data-intensive technologies affect the future of healthcare work? A team of NYU researchers from the schools of engineering, medicine, and business-led by Professor Oded Nov of NYU Tandon is conducting a broad investigation into how to best bring inclusive tech into the clinic,"
+    publishedDateTime: 2021-09-25T06:26:00Z
+    webUrl: "https://www.news-medical.net/news/20210925/NYUs-initiative-empowers-healthcare-workers-to-take-advantage-of-data-driven-technologies.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210925/NYUs-initiative-empowers-healthcare-workers-to-take-advantage-of-data-driven-technologies.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210925/NYUs-initiative-empowers-healthcare-workers-to-take-advantage-of-data-driven-technologies.aspx"
     type: article
     provider:
-      name: Jacksonville Daily Record
-      domain: jaxdailyrecord.com
-    quality: 44
+      name: News Medical
+      domain: news-medical.net
+    quality: 49
     images:
-      - url: "https://www.jaxdailyrecord.com/sites/default/files/355093_standard.jpeg"
-        width: 1024
-        height: 576
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
-  - title: "How artificial intelligence is making health care more human"
-    excerpt: "Health-care institutions have been anticipating the impact that artificial intelligence (AI) will have on the performance and efficiency of their operations and their workforces—and the quality of patient care."
-    publishedDateTime: 2021-09-22T14:33:00Z
-    webUrl: "https://www.healthcaredive.com/spons/how-artificial-intelligence-is-making-health-care-more-human/606994/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 39
-    images:
-      - url: "https://www.healthcaredive.com/user_media/cache/8e/b0/8eb08ec8d2bbb7c399d88f1fbfe3dad4.jpg"
-        width: 770
-        height: 364
-        isCached: true
-  - title: "Fintech, telehealth firms top LinkedIn's list of emerging Singapore start-ups"
-    excerpt: "The list was compiled based on several metrics such as employment growth and attraction of top talent.. Read more at straitstimes.com."
-    publishedDateTime: 2021-09-22T06:15:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/fintech-telehealth-firms-top-linkedins-list-of-emerging-singapore-start"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 21
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/09/22/fhstartups220921.jpg?itok=AsgQ6SbW"
-        width: 763
-        height: 509
-        isCached: true
-  - title: "Health care needs to transform, Mayo CEO says. Here's why time is right"
-    excerpt: "The Covid-19 pandemic accelerated the pace of change in health care by a decade, the Mayo Clinic CEO said on a visit to Jacksonville."
-    publishedDateTime: 2021-09-22T10:00:00Z
-    webUrl: "https://www.bizjournals.com/jacksonville/news/2021/09/22/heres-where-mayo-clinic-ceo-gianrico-farrugia-see.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "nbmUdj4Iusr54NpLlrzU5WvzUPnv3r8K4NwgepiGoBokvGp5EcbGMam3KRr6SITsSHyItTI594VQknnLIT8mZC/898CPSqwi4RM2d/9dxSiRwX4RiGrBF4DxZ0zjCLWejhLANLCiPyVA4mcBe3MnbpVutOMm6/9x695a38OvvKbwPZeYsVIFdgbAy+3DfbjL+rdlyRzCPdLCMHgBpYefGaPgfKWNCmL8CFi8cfRhgxEly3e8DvFuNaGVoPTUjW7dWmzDvARESIXHWSZenjWYr2y60SHVY6QpsRNqM6kP1NPQEFJAl1p31WBMSMdQK7q4b/ZGUz5W4EstwOCgc6wmgzoWF0Ei5GkgMyvM6e71QG39oQN7Hc1ffxga4LV0WOWul5D/rcExuz5Ma17E5V6VVJP+JDoGaix+OsenO62DbnSz6gDdDm7rtGQtO9rv8Lulc43R3wPekJc3VBXaFwkMgkLjyrHfszMuFS413hCZCixrtaUD7tqiW7RSoEwbGwz+RDtTLAd2zoAfBuMCaTdJEw==;A7gIa9srZzdeCAysUZ9MHQ=="
 ---

@@ -33,20 +33,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "How is Data Annotation Enabling the Development of AI in Healthcare?"
-    excerpt: "In recent years, the idea of Artificial Intelligence has revolutionized the healthcare scene, and data annotation is at the forefront of this revolution, persistently driving progress in the development of Healthcare AI through continuous innovation."
-    publishedDateTime: 2021-09-22T21:09:00Z
-    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2021/09/22/450067-how-data-annotation-enabling-development-ai-healthcare.htm"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechzone.com
-    quality: 54
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-sep/8032624491-data23456.png"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Mayo Clinic CEO: Health care needs transformation"
     excerpt: "He says technology including telemedicine, home health care and artificial intelligence are ways to accomplish that."
     publishedDateTime: 2021-09-22T09:20:00Z

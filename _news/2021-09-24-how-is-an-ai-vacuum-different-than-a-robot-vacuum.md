@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/home/what-is-ai-robot-vacuum/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/what-is-ai-robot-vacuum/?amp"
 type: article
 quality: 89
-heat: 89
+heat: 92
 published: true
 
 provider:

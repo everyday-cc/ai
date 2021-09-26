@@ -47,15 +47,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Hayden AI Raises $20M in Series A Funding Led by TYH Ventures to Scale their Autonomous Traffic Management Platform"
-    excerpt: "21, 2021 /PRNewswire/ -- Hayden AI, a leading smart city solutions provider that developed the world's first autonomous traffic management platform, today announced $20 million in Series A funding ..."
-    publishedDateTime: 2021-09-21T21:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hayden-ai-raises-20m-in-series-a-funding-led-by-tyh-ventures-to-scale-their-autonomous-traffic-management-platform-1030814283"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 25
 
 secured: "v009rx1wFyqGqNkCeCfMrxzBVrh9fN9Rae9yko64/O6+wctoAbYcDQBKPjPhjkUAx2xJQs3GrYZ5/H+Ps/xssb1FeLk4fkx8vBfE3NtoCbfdVvwNwTaBqMTEfISj9Rs6gd6/sfcmuPFwxwlDD6Zxk/9rxErU5ssCMjEfYT09OaN8fitG7pGM4IndBYEuWw8ov6L0zW8aTYIp31ks+apwnQQnXVw49W/nGbpmdY0zOphEYydX9xfEXEN7sCiB5WG2CYYuFtUbIGKd/3QZYQhKLgDpl9pGxAqFpzkIrcryL9mPTs+Ye8t1VgKGvF075gr6cZibwOsHgFGl1Cu5h2QEQaPkM3FfTyyK7ez8tUNEQcE=;5QQ67TFFw6Gc4PZGNEtE+Q=="
 ---

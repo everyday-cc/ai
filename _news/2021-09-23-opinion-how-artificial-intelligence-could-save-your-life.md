@@ -9,7 +9,7 @@ ampWebUrl: "https://montrealgazette.com/opinion/opinion-how-artificial-intellige
 cdnAmpWebUrl: "https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life/wcm/5f1cb3c0-543d-4e66-a770-f4122faac455/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 960
         height: 640
         isCached: true
-  - title: "Opinion: AI Might Eliminate Humanity in Human Resources"
-    excerpt: "According to recent findings, more and more human resources professionals utilize artificial intelligence in evaluating employees. But such tech can lead to unfair employee appraisals or outright discrimination."
-    publishedDateTime: 2021-09-21T21:52:00Z
-    webUrl: "https://www.govtech.com/workforce/opinion-ai-might-eliminate-humanity-in-human-resources"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 17
 
 secured: "6zNko7vPYdATqbzkk0Juqxrpj3tiYeqccbunKZISLZaeFZbXNHDvIGXVAFzd9lGHAHB1zh3fqMCEY/5i++FD/AhrCHSE51sSKuzHDXyFJ0Z7S6/97iY5hBN/WCEhY60oaCFQcU78H0cLCjO204JEACa1S9B8p0Mgb4RheWhluJuRIR7l+i6S6GaM2zAMQGiM+D9RShwauKL56JEI+1fA5W3Wg46GKgLAveIBoHx24f9QYOjN2XbrAqKkTQSYPWKaIqYItXGbizh8m1j5rlev344byT+GSYebqeW1z9VaPvxyqnufNlM6aReVD0XDV3hVl7ebzs4JGIct2ESTbaKDyMwoXjwN6kUwIYmTz3cVt15LAyrbFeouvE6rteGMnrkcLxtbp89VgfLVKnVR16i+38h2Dn0UlPzlubOs/PGsCGgDjEZHAgUmQ+YpOBNbCFreq9kGa2DCecEUVn2zDVvIhpqNdowrDK24v53JQbjC1QqxxB63DjQMzPWDpZ8f29w+NQXY8EjTjHcZiwHridknqw==;8SV6PRHjmSKAGowmNF3+ow=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.finsmes.com/2021/09/opentrons-raises-200m-in-series-c-
 webUrl: "https://www.finsmes.com/2021/09/opentrons-raises-200m-in-series-c-funding.html"
 type: article
 quality: 137
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
       name: Robotics Tomorrow
       domain: roboticstomorrow.com
     quality: 49
-  - title: "Hayden AI Raises $20M in Series A Funding Led by TYH Ventures to Scale their Autonomous Traffic Management Platform"
-    excerpt: "21, 2021 /PRNewswire/ -- Hayden AI, a leading smart city solutions provider that developed the world's first autonomous traffic management platform, today announced $20 million in Series A funding ..."
-    publishedDateTime: 2021-09-21T21:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hayden-ai-raises-20m-in-series-a-funding-led-by-tyh-ventures-to-scale-their-autonomous-traffic-management-platform-1030814283"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 25
 
 secured: "jK1q3t39/ioGHLKSQ0ob5LNAZEyL/2yj+13qYHV9l7c3wDB6WCa+QWg+IfOxyLB+eTT1alN/CtxTcULmz+1pzoaO2lXlDPXy92+MYqv1wigyUaiTLT7wPMt6hOX7nqepQVTfsWzUQvRUOzVF+jjtbVuhjnuLnr2PMuSZcb4PsUEu80qISHRuxbdMQRLAXVdokPjeImP7X+YVsaUZnQulSCPiYAR8uFC4y++j1LSCF1hZ58/Z15vpr1v9sFgW+C+m0zJkuSw9PgOqUEx4g7V+bDWjTW3eIGEOeDIqsEpkLhoKWUVGoJZn1NR2CSqzXV55CPP3t6YbJpC9fMVqCQSK8yYzoUvVp1c8tJHxiMtJ6wV/pD8v2Ag+NQMqmj03vJb6XyVk5wY0qEfmhTASn3ET036ZBLQgqlNTFWNxNNnBEksMTwYxqnz2h18dixNK96Hvt4nwmP32a0AwjEyEGrBxypi4O/APKOr8XwIe6lzRARu3I2+HhPiBZ4We7hx6/e02LLn86ZwZnLWgxy78H/wbiP4prSism+jUoewkAiS9xzU=;GI0ru+m2pUIGCxtsJAVRFQ=="
 ---

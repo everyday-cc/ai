@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210922/UW-research-provides-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210922/UW-research-provides-a-basic-structure-of-neural-networks-in-the-mammalian-brain.aspx"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "Researchers study recurrent neural network structure in the brain"
-    excerpt: "Two University of Wyoming researchers decided to pick each other's brain, so to speak. Specifically, they examined the importance of the frontal cortex, the portion of the brain used in decision-making,"
-    publishedDateTime: 2021-09-21T21:55:00Z
-    webUrl: "https://medicalxpress.com/news/2021-09-recurrent-neural-network-brain.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 36
 
 secured: "tALO/o7RudDEHjjFgjbqPo+TEm+dPYVpVz72CS/2iOYwvi8rOLrqxEMQl5uSinbAKtDxXLQiNM0yyLy/pbkjG6lAMmDEiih+f2hke7oZkAo7ttQOweZJJJ50G4wpdltJvsJ9klkdwtwvT791v+IytnH4ce125z6KFb/5j7ooBq/q+6LE5GDFiW7fXnIvbAcZbyWE7TTlcV9TQvHzwksYSPVLWdp7EuDs/6MTUWGqNH4rc1ew5HC5Fa2/wrkpMr84HkiMeDWbHE4h1ex9vK5nXo2/P6rFumvOWoNmuCfkqc0anhYeaSgFtHwU1ClHg2f/3SGGSqIBC+Ghwi5vJEF6JKmTZrRUpHNvxwXZ3MMsJxc=;H1FZWabhf5m50/toFNxz0w=="
 ---

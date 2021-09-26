@@ -48,15 +48,6 @@ related:
       name: Robotics Tomorrow
       domain: roboticstomorrow.com
     quality: 49
-  - title: "Hayden AI Raises $20M in Series A Funding Led by TYH Ventures to Scale their Autonomous Traffic Management Platform"
-    excerpt: "21, 2021 /PRNewswire/ -- Hayden AI, a leading smart city solutions provider that developed the world's first autonomous traffic management platform, today announced $20 million in Series A funding ..."
-    publishedDateTime: 2021-09-21T21:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hayden-ai-raises-20m-in-series-a-funding-led-by-tyh-ventures-to-scale-their-autonomous-traffic-management-platform-1030814283"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 25
 
 secured: "ThkoInKdFDwT7A1lkJXd/oz0s1QW1VITOmkYOuJYsE64bd3A+a8iZAMi58tvr7D3cvKd6xxkpq3rCYuWxR4Tw56zPkTco7mxLsXwbGlMiFBlU2FGLKEPiDZ8HVO50soygRwCqRo+wIMMh3impdGwpLYBLGBRidGXDiYlWkX5NOC3sbFihYfLmoTda+e+xYJ5Kd9OJg38niVTl49vzYNJ3XN7O7VBlCmJ9SxOBK+0Z/ovZJwnq0U1fcR6iBN1WVgVK9f/qIr46TIJFH5jOLoCW59bH3knhGqPMkv1KTd2gcg0fR/lSffkEOdZbg6BhjKVKZ6b9zZsdTjZNQjgMjDR9V5fovSrVzbdxPNgrHOtX3Yyv0d8Q7iDp7TJRXvFIuTuXiqXMwU1Cr8NrI/tuuTlaYQBBl47aDYKI/6iHTVz2WGheDAY4c74qeMotmA3KdfCRSHA5dh9UO6nTKKQoSiEAb5V5Pb9e6wi6QeWEg168c4EAZ4DAuQUH5GT0TjDxLsrQKfXRJQTFmjyvQiDbH18og==;uPWHuF+0t/zDUMO3ZWwDZQ=="
 ---

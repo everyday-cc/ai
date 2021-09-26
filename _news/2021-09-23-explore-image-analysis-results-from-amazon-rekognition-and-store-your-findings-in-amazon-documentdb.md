@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/explore-image-analys
 webUrl: "https://aws.amazon.com/blogs/machine-learning/explore-image-analysis-results-from-amazon-rekognition-and-store-your-findings-in-amazon-documentdb/"
 type: article
 quality: 92
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1240
     height: 831
     isCached: true
-
-related:
-  - title: "Calculate inference units for an Amazon Rekognition Custom Labels model"
-    excerpt: "Amazon Rekognition Custom Labels allows you to extend the object and scene detection capabilities of Amazon Rekognition to extract information from images that is uniquely helpful to your business. For example, you can find your logo in social media posts, identify your products on store shelves, classify"
-    publishedDateTime: 2021-09-21T21:11:35Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/calculate-inference-units-for-an-amazon-rekognition-custom-labels-model/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
 
 secured: "D+zVrRNpc9/E0cs3BFxhJoB17PGfR5QySoU4nG5fkReKHvBboWz+Thwejpc+FdUlmPxNRC7h5CP9xM0AfQb1jpmBupn9pMdO8CDW3psA/osRwtSNXEFtsVbQjILDSE9S1GTZ39u74ETrKd/OiSbJ/EjrqviqCEWx+4O5/MbG/nY+c2msrLRKxtIjtSE1IsBcoWrT4COt7UQIaetTt8KU0PPDjjIwfLOEuWIUU7uuWTIHx9u5pvUK1VnZQs2i8RCR0yZcIh3uJeuVFSV1BzFOznWrgEwpILXWO0SR1ly8DyJRyD713ucg2/W9ODdY+CzvqT2TQ2mR33N51UkUPeB1VYQY5Z0nviV6pr7WxUorbYc=;M0YFJ32q1RBOJjRZ518fdQ=="
 ---
