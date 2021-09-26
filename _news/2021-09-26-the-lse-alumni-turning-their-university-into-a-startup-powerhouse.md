@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alisoncoleman/2021/09/26/the-lse-alumni
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisoncoleman/2021/09/26/the-lse-alumni-turning-their-university-into-a-startup-powerhouse/amp/"
 type: article
 quality: 72
-heat: 75
+heat: 76
 published: true
 
 provider:

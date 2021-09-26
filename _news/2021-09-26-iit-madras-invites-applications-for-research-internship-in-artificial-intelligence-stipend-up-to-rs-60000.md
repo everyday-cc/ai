@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIT Kanpur has Invited Applications for Online Course on Artificial Intelligence with Certificate"
-    excerpt: "IIT Kanpur is offering an online course on Introduction to Artificial Intelligence that can be taken by interested students and professionals"
-    publishedDateTime: 2021-09-22T04:19:00Z
-    webUrl: "https://www.dqindia.com/iit-kanpur-invited-applications-online-course-artificial-intelligence-certificate/"
-    ampWebUrl: "https://www.dqindia.com/iit-kanpur-invited-applications-online-course-artificial-intelligence-certificate/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-kanpur-invited-applications-online-course-artificial-intelligence-certificate/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 44
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "IIT Madras Invited Applications for Research Internship in Artificial Intelligence, Stipend up to Rs 60,000"
     excerpt: "IIT Madras is currently accepting applications from eligible candidates for a research internship in artificial intelligence and data science"
     publishedDateTime: 2021-09-26T08:16:00Z

@@ -303,6 +303,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Tesla's 'Full Self Driving' request button goes live"
+    excerpt: "Electric vehicle Tesla users who wish to take part in the company’s Full Self-Driving (Fsd) Beta programme could now formally request the advanced driver-assist system to be loaded into their vehicle."
+    publishedDateTime: 2021-09-26T21:32:00Z
+    webUrl: "https://www.imdb.com/news/ni63429991/"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 54
+    images:
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
+        isCached: true
   - title: "San Francisco Takes Issue with Tesla Full Self-Driving Testing"
     excerpt: "Tesla is getting ready to release Full Self-Driving to the masses, but the San Francisco County Transit Authority (SFCTA) raises some concerns about the software’s safety. In addition to worries about how well it performs,"
     publishedDateTime: 2021-09-24T16:47:00Z

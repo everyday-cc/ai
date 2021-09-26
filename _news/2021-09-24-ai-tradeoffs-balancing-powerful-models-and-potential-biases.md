@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/24/ai-tradeoffs-balancing-powerful-mo
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/24/ai-tradeoffs-balancing-powerful-models-and-potential-biases/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 90
 published: true
 
 provider:

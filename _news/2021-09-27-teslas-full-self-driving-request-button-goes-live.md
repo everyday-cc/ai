@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Tesla owners can now request ‘Full Self-Driving’, prompting criticism from regulators and safety advocates"
-excerpt: "Tesla began letting owners request its “Full Self-Driving” software early Saturday, opening up for wide release its most advanced driver-assistance suite and signaling thousands of drivers will soon be on the road with the unregulated and largely untested features."
-publishedDateTime: 2021-09-24T22:45:00Z
-originalUrl: "https://www.washingtonpost.com/technology/2021/09/24/tesla-full-self-driving/"
-webUrl: "https://www.washingtonpost.com/technology/2021/09/24/tesla-full-self-driving/"
+title: "Tesla's 'Full Self Driving' request button goes live"
+excerpt: "Electric vehicle Tesla users who wish to take part in the company’s Full Self-Driving (Fsd) Beta programme could now formally request the advanced driver-assist system to be loaded into their vehicle."
+publishedDateTime: 2021-09-26T21:32:00Z
+originalUrl: "https://www.imdb.com/news/ni63429991/"
+webUrl: "https://www.imdb.com/news/ni63429991/"
 type: article
-quality: 21
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: IMDb
+  domain: imdb.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6IVIAUA35II6ZPVIGCHKCNCZJ4.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+    width: 1000
+    height: 1000
     isCached: true
 
 related:
@@ -303,20 +303,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Tesla's 'Full Self Driving' request button goes live"
-    excerpt: "Electric vehicle Tesla users who wish to take part in the company’s Full Self-Driving (Fsd) Beta programme could now formally request the advanced driver-assist system to be loaded into their vehicle."
-    publishedDateTime: 2021-09-26T21:32:00Z
-    webUrl: "https://www.imdb.com/news/ni63429991/"
-    type: article
-    provider:
-      name: IMDb
-      domain: imdb.com
-    quality: 54
-    images:
-      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-        width: 1000
-        height: 1000
-        isCached: true
   - title: "Pass the Test and Tesla Owners Might Get Full Self-Driving Beta Access"
     excerpt: "The wait is almost over for some Tesla Inc. customers to get access to driver-assistance technology the company has marketed in controversial ways — as long as they’re on their best behavior."
     publishedDateTime: 2021-09-24T16:30:00Z
@@ -382,6 +368,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Tesla owners can now request ‘Full Self-Driving’, prompting criticism from regulators and safety advocates"
+    excerpt: "Tesla began letting owners request its “Full Self-Driving” software early Saturday, opening up for wide release its most advanced driver-assistance suite and signaling thousands of drivers will soon be on the road with the unregulated and largely untested features."
+    publishedDateTime: 2021-09-24T22:45:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/09/24/tesla-full-self-driving/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 21
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6IVIAUA35II6ZPVIGCHKCNCZJ4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Tesla owners could soon gain ‘Full Self-Driving’ access at the touch of a button, prompting criticism from regulators and safety advocates"
     excerpt: "Tesla is expected to issue a wide release software it deems to be self-driving, giving owners the option as soon as midnight to upgrade to its most advanced driver-assistance suite and soon putting thousands of drivers on the road with the unregulated and largely untested features."
     publishedDateTime: 2021-09-24T22:45:00Z
@@ -397,6 +397,6 @@ related:
         height: 960
         isCached: true
 
-secured: "bgD2tK3+Xm0Au714s0xrq2QQ4t/bEvoyGiPq2Rl04MVMG8RjcgR9QvT/wHZ1taAx8BV+KHuYOPhKild/dsS3CleQQo3TCotkNKESXT3NxGIqS5KMktcfMgf4mHO0g6NPpfzXRxOhjtOQusGx+QP2sQ8fyu71V09Bsn8yw7EUW6ThnmnfHkJOxAkJdnE/3aJpMFIqxKLGt1+DKwgj+h3NkGlxNcLPf71K9VJAwzHNuo5wIPGJrUC8dvO4SLxDeOh5KMIBGJE3SohQd/W1n2nFKkkq/bBPwo7ZIBICFzGnv/MqUcG8FNLqhVRRrbM4HtMiEETV5P+OLIe88Lx/gtPDJRefmkmTSAQZCEuNxdEdmmD1aNLd9FWbHKT3SPyjGsqRZLjW2lZ4yp1thbjaPPcAJ8g17lXjhpLr+VDy/xE1wbGnM2q9YuFGvxARghWlaZ/E+moBpV4DAW8wTBmXstvlk9jOgGEKrU97I/ZG893xL82I2kyFvwWgILrK0RbxHXdwrexN9Xvl/MP9DjHuMat+Hg==;1w/RkZcLh4XkSzoUZ1+Nyg=="
+secured: "BODLAsb1br+a/Hr4way0j4iwxKWucFq36KmjXyeRFNpKqQuNqyicYLYkIEWTz8vi0Pq+OgKa+U+Rx69p5NHbK41ON0xwU49GLLgyoClr75/ZnDBFVEhwNWOlPzHSeGZUwPL0H21GcuNGChfIv9ke8zbDFIyvX0T1lWT9EVq80UbDK0HXuWjgyt13c+DMOEGB2RW5NYkES++/qeE64+mjrIeZ6DQXklOBNukP0/MtJIJi5cpuH5AlllXbg6ccInPHei2+hm/cGSpxWyzgjKDb3EQJWvVlBqxrwKSxcZinHvuq67D1oVJOcPOuaziCkkCZkp4WWGRVS08lhCCK9fkLiwtdcO5pcFZM/Ef5NaUbCFU=;/dSd4FAYh/F6fCLDS5fb+A=="
 ---
 

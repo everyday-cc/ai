@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-g
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/amp/"
 type: article
 quality: 103
-heat: 343
+heat: 353
 published: true
 
 provider:
@@ -293,6 +293,20 @@ related:
       - url: "https://menafn.com/updates/pr/2021-09/26/I_1361bimage_story.jpg"
         width: 400
         height: 300
+        isCached: true
+  - title: "Tesla's 'Full Self Driving' request button goes live"
+    excerpt: "Electric vehicle Tesla users who wish to take part in the company’s Full Self-Driving (Fsd) Beta programme could now formally request the advanced driver-assist system to be loaded into their vehicle."
+    publishedDateTime: 2021-09-26T21:32:00Z
+    webUrl: "https://www.imdb.com/news/ni63429991/"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 54
+    images:
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
         isCached: true
   - title: "Pass the Test and Tesla Owners Might Get Full Self-Driving Beta Access"
     excerpt: "The wait is almost over for some Tesla Inc. customers to get access to driver-assistance technology the company has marketed in controversial ways — as long as they’re on their best behavior."

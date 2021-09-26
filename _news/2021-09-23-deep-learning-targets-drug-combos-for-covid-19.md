@@ -53,15 +53,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "New Insights Into Drug Repurposing for COVID-19 Using Deep Learning"
-    excerpt: "The coronavirus disease 2019 (COVID-19) has continued to spread worldwide since late 2019. To expedite the process of providing treatment to those who have contracted the disease and to ensure the accessibility of effective drugs,"
-    publishedDateTime: 2021-09-22T04:13:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9542933"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 19
 
 secured: "mA/bHzbcf4fopXTLw8+WHaqu+hLyx+uR7uB/namaf9HoF0zpivLURjAbXhHeWaJldizZ9KtdQuRz2kfuGCloIRGjhqSO/se53a2MebSiTFJAwkc9TyWmF9hvyne1rj1/B9BzrL1jWim8hl1SwVipoplxz1ffN626vE2s1a4XtrkBiyKH5UEY814IMBPsGz1aQwbjTj8Bj9Zs5U0N4KPA0M1svqpb6Ynh/TOjOKxYxFHeES5tDG7fh3PfZntBo4ACzKyz0e4Xkvd9y5q7c1jVhQG1ElP9zPg9JyNAL2czKt8u6Pb3rmJcXM+b1jVd8D7XfbcXt5rbpAJE/gTSUiD+obCiMuvdT2L+urwznKfVCxnfaG1PCW73uAgUAzvF80uPKYp0XKBmo02sAqne0aAOZgkLt45rXGVr2dB3bdHXUu+739YiGhQfDshIgde1tTsX/FjlY+bFUN4cFsHYHgJfKyzOJV6nedKxmtiRHYPbYfoU2OXHLAkVfmicKPCbio9lWgvQJs7lPUShn5ePjySTYQ==;mOSuG2uzMmQPHjH/b+d/sg=="
 ---

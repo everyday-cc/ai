@@ -1,31 +1,29 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon QuickSight Q"
-excerpt: "New machine learning powered capability in Amazon QuickSight lets anyone type questions about their business data in natural language and receive accurate answers with"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon QuickSight Q, a new capability in Amazon QuickSight that gives anyone in an organization the ability to ask business questions using natural language and receive accurate answers with relevant visualizations that help them gain insights from the data."
 publishedDateTime: 2021-09-23T23:24:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/09/b23083415/aws-announces-general-availability-of-amazon-quicksight-q"
-webUrl: "https://www.benzinga.com/pressreleases/21/09/b23083415/aws-announces-general-availability-of-amazon-quicksight-q"
-ampWebUrl: "https://www.benzinga.com/amp/content/23083415"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23083415"
+originalUrl: "https://apnews.com/press-release/BusinessWire/nfl-business-technology-sports-amazoncom-inc-4503228a75bc449b9ac6fa96e29053f4"
+webUrl: "https://apnews.com/press-release/BusinessWire/nfl-business-technology-sports-amazoncom-inc-4503228a75bc449b9ac6fa96e29053f4"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 54
+heat: 54
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
-    width: 1200
-    height: 600
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "tAdCUtW0k+nAwdFJjkfv6wIrSvflVODVK0yY5eB5r+ACYkqR4Qditx0n//kSVZ+i3NicUnfMhHbUJ7TcuIz771hxINRXRypYsZ9sEFckoQKGTRT/3l4U4Y0IMqvH0RVn/j9pH576jUnEQ/UW5U6Jdr9LesBV/0Q0Y9JpGolVu2OcO1ZMT0mhoE9kGVj94yQc0Jm76hbLvXYrbEj5oA308k0VwHNYHVX+hqrxWOH7yFmTsAiZ5gam3CA9xmlsZI0H4T8PcZU8NN2tNUFDgMOtzRQrzKEfapFVuj83YdpLRN3eaPTOJMUD9jRaAxt/a+Apt+gHC2pXROLMDvZVUqUk3qOSVhL9IAqbwyLiX8Y0GSI=;0Y47+1JXVXNNt1MizfG0aA=="
+secured: "e8VKruwWjCcCtYGcebB2MpLFONRCuTGgNJ2afE+lMNeslvBtNlWEN44mpZTfJ6Bm49S2tiEGUKMXj8SnuEamET7LEw1o1bF2UVxNI5jdBfOQOB66KfiZ5/nxJPgWSig1jzVq2FnfKoLhJ/bG2LHR1Spc7caDtmI8u9giRe89eyu9ELhlLLJVKWJahIraBRRy4pcik5G/BNauyrg9/MLNIr2FU2HQfRxgr5rX0Qr/1UaI2/0f3olQmuOa1XHbWFeMneGWvnSXB8GI268KTTEHZmrDjI57ABaKPHn3SmA4sqOfQhr4Rf7ssZwHi86e6mugpeIFr3PTdAk3ISMzWGOIQ1CN3o6yLqKqf5Ob5lh/cz4=;+D+sNPa4g3JnZPDCRdinIQ=="
 ---
 

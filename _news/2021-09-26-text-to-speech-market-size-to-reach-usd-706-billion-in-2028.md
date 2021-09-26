@@ -26,6 +26,19 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Artificial Intelligence in Marketing Market is Growing to reach US$ 107,535.57 million by 2028"
+    excerpt: "The global Artificial intelligence in marketing market was valued at US 12 044 46 million in 2020 and is projected to reach US 107 535 57 million by 2028 it is expected to grow at a CAGR of 31 6"
+    publishedDateTime: 2021-09-22T15:22:00Z
+    webUrl: "https://www.openpr.com/news/2403111/artificial-intelligence-in-marketing-market-is-growing-to-reach"
+    ampWebUrl: "https://www.openpr.com/amp/2403111/artificial-intelligence-in-marketing-market-is-growing-to-reach"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2403111/artificial-intelligence-in-marketing-market-is-growing-to-reach"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 42
+
 secured: "CexKLBJ59xucYjlL93TOPXECBoMH4OoM6+tJmOdKWCM7h7BcHP/Y2uHeNeOiuh59kn0A9nW341OkuGjaDleYTZrh+SKDd7VujEJ3OSfJUCvwmnXs+gAgdmfB55GdlbjKXSawN7wLTUAIH77t8nUBUWd3eP3TQAO/AqX0CPdnRmok5JCazzVOvLe6owVlGe/wzFIntk/j3S/q8L2rVOFSueYe3UeBM+sWtx7RJ/z4EL8ALybbOq8iPpjdcbAfQPfeYuJz5pWK0x7E+EIdz3nZOnTBhOr1vfFlga/U6a+WO4CrDirC6iluMpsE3fc8o2j4hL49DQBmZFA1BZ5lmRvd0z/allUCh77STT9LMYH3wQk=;gJbzaEsRzx1a91Bw0jr9yA=="
 ---
 

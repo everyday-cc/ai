@@ -9,7 +9,7 @@ ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-education-m
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-education-market-to-eyewitness-massive-growth-by-2026/?amp=1"
 type: article
 quality: 64
-heat: 124
+heat: 126
 published: true
 
 provider:
