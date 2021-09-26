@@ -338,20 +338,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "NTSB chief calls Tesla Full Self-Driving \"misleading and irresponsible,\" amid city-driving beta test"
-    excerpt: "The safety leader suggested that more regulation is needed to reel in Tesla's experiments with untrained beta testers."
-    publishedDateTime: 2021-09-21T12:00:00Z
-    webUrl: "https://www.greencarreports.com/news/1133637_ntsb-chief-tesla-full-self-driving-misleading-irresponsible-city-driving-beta-test"
-    type: article
-    provider:
-      name: Green Car Reports
-      domain: greencarreports.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/2020-tesla-model-3_100736264_h.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Tesla owners can now request ‘Full Self-Driving’, prompting criticism from regulators and safety advocates"
     excerpt: "Tesla began letting owners request its “Full Self-Driving” software early Saturday, opening up for wide release its most advanced driver-assistance suite and signaling thousands of drivers will soon be on the road with the unregulated and largely untested features."
     publishedDateTime: 2021-09-24T22:45:00Z

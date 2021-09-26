@@ -59,17 +59,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 44
-  - title: "Artificial Intelligence (AI) Speakers Market Analysis by Emerging Growth Factors and Revenue Forecast to 2027 | Apple, Xiaomi, Huawei"
-    excerpt: "The report titled Global Artificial Intelligence AI Speakers Market is one of the most comprehensive and important additions to QY Research s archive of market research studies It offers detailed research and analysis of key aspects of the global Artificial"
-    publishedDateTime: 2021-09-21T11:35:00Z
-    webUrl: "https://www.openpr.com/news/2400877/artificial-intelligence-ai-speakers-market-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2400877/artificial-intelligence-ai-speakers-market-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2400877/artificial-intelligence-ai-speakers-market-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 21
   - title: "Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Construction market report provides"
     publishedDateTime: 2021-09-24T13:18:00Z

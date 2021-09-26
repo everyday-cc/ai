@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/24/peritus-ai-automates-answers-for-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/24/peritus-ai-automates-answers-for-cloud-native-questions/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

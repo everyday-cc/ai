@@ -75,20 +75,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "US Hyperscale Data Center Market Outlook & Forecast Report 2021-2026 - AI Boosts Liquid Immersion & Direct-To-Chip Cooling Adoption - ResearchAndMarke"
-    excerpt: "The \"US Hyperscale Data Center Market - Industry Outlook & Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The US hyperscale data center market by investment is expected to grow at a CAGR of 3."
-    publishedDateTime: 2021-09-21T11:42:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=534060"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 14
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "S3xkXx9SvKBlVBaKw4vhxcDCCtEBgCoteBcR9ZRnIJfhZ3ktD56J47kOihvdQP6AaxSZfVdPhverC2CMc7xvGilPPzJsskIRrreVmdmoioaONUpZfNgcZFP69RVMVklaHAROSR47yIoLBZZ14RC0Ur7HvSzR5kJaESAmgHqMRinZFOBo/f48FE/dF9DMx11sXcDMCXaceZTz9qOE1ujy+whL1U6xrZeLl/jVT8keq5FQcQ1FwxolpQhKBquUUcr+AekC7DpaKqRsy75LC8Ludxqg9jTFV4Y1AYuL0fQXNMAxO8EPADogklVdMupgtqzLY2KKdn5/RCieg1KvGdoAZBGTvUMvT2K8z5WpL5FqbOQ=;oPhKlQg1jCT7yJcba+7sbA=="
 ---

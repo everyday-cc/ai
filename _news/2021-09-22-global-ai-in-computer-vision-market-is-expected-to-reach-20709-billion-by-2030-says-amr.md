@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Marketing Market is Growing to reach US$ 107,535.57 million by 2028"
+    excerpt: "The global Artificial intelligence in marketing market was valued at US 12 044 46 million in 2020 and is projected to reach US 107 535 57 million by 2028 it is expected to grow at a CAGR of 31 6"
+    publishedDateTime: 2021-09-22T15:22:00Z
+    webUrl: "https://www.openpr.com/news/2403111/artificial-intelligence-in-marketing-market-is-growing-to-reach"
+    ampWebUrl: "https://www.openpr.com/amp/2403111/artificial-intelligence-in-marketing-market-is-growing-to-reach"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2403111/artificial-intelligence-in-marketing-market-is-growing-to-reach"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 42
   - title: "Global Artificial Intelligence Chip Chip Market Size to Garner $91.18 Billion by 2025 at 45.2% CAGR"
     excerpt: "According to the report published by Allied Market Research, titles, “Artificial Intelligence Chip Market by Chip Type (GPU, ASIC, FPGA, CPU, and others), Application (Natural Language Processing (NLP),"
     publishedDateTime: 2021-09-22T05:51:00Z

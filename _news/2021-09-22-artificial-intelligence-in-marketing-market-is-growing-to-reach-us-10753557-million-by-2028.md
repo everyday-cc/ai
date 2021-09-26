@@ -21,22 +21,31 @@ topics:
   - AI in Marketing
 
 related:
-  - title: "MAICON 2021 - marketer + machine = what? Assessing the impact of AI on marketing"
-    excerpt: "The presence of AI across our lives is tangible now - but what is the specific impact on marketing? That's the core topic at The Marketing AI Institute's MAICON event."
-    publishedDateTime: 2021-09-22T13:37:00Z
-    webUrl: "https://diginomica.com/maicon-2021-marketer-machine-what-assessing-impact-ai-marketing"
-    ampWebUrl: "https://diginomica.com/maicon-2021-marketer-machine-what-assessing-impact-ai-marketing?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/maicon-2021-marketer-machine-what-assessing-impact-ai-marketing?amp"
+  - title: "Global AI in Computer Vision Market Is Expected to Reach $207.09 Billion By 2030: Says AMR"
+    excerpt: "According to the report published by Allied Market Research, the global AI in computer vision market was estimated at $9.18 billion in 2020 and is expected to hit $207.09 billion by 2030, registering a CAGR of 39."
+    publishedDateTime: 2021-09-22T03:02:00Z
+    webUrl: "https://menafn.com/1102839075/Global-AI-in-Computer-Vision-Market-Is-Expected-to-Reach-20709-Billion-By-2030-Says-AMR"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 69
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 44
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2019-08/woman-and-algorithm.jpg"
-        width: 1277
-        height: 847
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?473974"
+        width: 388
+        height: 249
         isCached: true
+  - title: "Global Artificial Intelligence Chip Chip Market Size to Garner $91.18 Billion by 2025 at 45.2% CAGR"
+    excerpt: "According to the report published by Allied Market Research, titles, “Artificial Intelligence Chip Market by Chip Type (GPU, ASIC, FPGA, CPU, and others), Application (Natural Language Processing (NLP),"
+    publishedDateTime: 2021-09-22T05:51:00Z
+    webUrl: "https://www.globalbankingandfinance.com/global-artificial-intelligence-chip-chip-market-size-to-garner-91-18-billion-by-2025-at-45-2-cagr/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/global-artificial-intelligence-chip-chip-market-size-to-garner-91-18-billion-by-2025-at-45-2-cagr/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/global-artificial-intelligence-chip-chip-market-size-to-garner-91-18-billion-by-2025-at-45-2-cagr/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 42
 
 secured: "E6Eh9/IJiU+hc+MLWAnMi2at5HWxB/J+dLaT9LDsxPFH+bf3BsluVQkmCewxY7w0t+wnzLLNMdSFOaru7ErAORzJAwLBP91sSmLmjuYR9YmM49pTD8RkfdJYCnkvZ8V8tOYYHYpe4+Hvl3QQcvWNG4xVxsjCoFlylm7c50a/FrUVwtrZ/UrJO6gUFnK9AfOUtlo5rstGESnxo0Ere9tNYM2X/5yw2G75APTX/vPXc2e0LM/XJNokuxtwB1iaZYGCCqVSAfFCg12JiY1mPgnY1fg4em6m03G5BbzL0dkGYhZ+upxSXrkXy4h0kYZkpQVXPWJ3mx9UdoHIC7A8jKb10UoLH4lO7flGuDr82+kDCe0=;kBlxWldtl7TTKJa7hvV8EA=="
 ---

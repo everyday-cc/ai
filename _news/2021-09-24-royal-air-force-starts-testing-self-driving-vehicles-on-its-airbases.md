@@ -119,20 +119,6 @@ related:
         width: 790
         height: 496
         isCached: true
-  - title: "Artificial intelligence is changing hiring and firing"
-    excerpt: "\"While AI is becoming mainstream technology in the workplace, discrimination-by-algorithm must not,\" Keith A. Sonderling writes."
-    publishedDateTime: 2021-09-23T13:42:00Z
-    webUrl: "https://bangordailynews.com/2021/09/23/opinion/contributors/artificial-intelligence-is-changing-hiring-and-firing/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 37
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/09/OPART23.jpeg"
-        width: 1024
-        height: 696
-        isCached: true
   - title: "RAF trialling self-driving cars - to free up personnel from mundane jobs on military bases"
     excerpt: "The Royal Air Force has been trialling the use of self-driving cars as it explores ways to free up personnel from mundane tasks on military bases. Staff at RAF Brize Norton, Oxon., have been working with the Academy of Robotics on the trial,"
     publishedDateTime: 2021-09-22T10:31:00Z
@@ -148,20 +134,6 @@ related:
       - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/1494865_1.jpg?r=1632306667602"
         width: 590
         height: 350
-        isCached: true
-  - title: "Nuro is an Artificial Intelligence-based startup that creates self-driving cars, named R2."
-    excerpt: "Nuro is an Artificial Intelligence (AI)-based startup that develops self-driving cars called R2 that are based on robotics and AI. It's energy-efficient, battery-powered, and self-contained. Nuro's vehicle is an on-road vehicle that carries goods quickly,"
-    publishedDateTime: 2021-09-23T10:00:00Z
-    webUrl: "https://www.analyticsinsight.net/nuros-artificial-intelligence-strategy-on-r2-a-self-driving-car/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 31
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Artificial-Intelligence.jpg"
-        width: 900
-        height: 500
         isCached: true
 
 secured: "CjSwOp230xcEVD6nOUF+1GK5XVBIJ3JIUNdzZFaWHpM7YLAiTquZlQOcTk4vhtbXzCHu7kqRzsTEV8baa7wIx2RfNkl21PphIubnnJwo1aI6DuSKuQek0xs5QQ1baSquZkw+bJoPJ5fPe6RtRHZTv79Dd+eG8ZDRXAIOegJF+1U10sww3nRko9Ya/6PfzrnTtchADfbigQMu3oWaV90+LIDndOrZmUwaYj2DJnZ01nPpSMDOgERAjD0RQ+VCB4LGygd81Xy5gjimn2UOm9touvtDUJJiHklJNCGFA/dmgpBkzfA2aKkJJCkgTCv7aa7S69XNS0A5aGhCtiOWoj+c2U4uJEk7WvcnRZd3WZWtj1jzDThPcJo6mafTnwnuEe1SULoVkvxUNSudMdjBe4bBLyYUWGND3629dHi0m/eTsczuF3WaPlFtOzse/YMqCaiTiPOG4XPmQbuEXEWoyfkWJmMbVX4NQ4GHPRMB4iGbV2kDrBUa8mkkwmVhArMxT/+f7ExF19yXUqJX5YuXhjsK5Q==;bc7lNqNueM3y4dVFkWqatQ=="

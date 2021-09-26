@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/video/humanizing-ai-how-brands-are-revoluti
 webUrl: "https://techcrunch.com/video/humanizing-ai-how-brands-are-revolutionizing-customer-experience-in-an-increasingly-digital-world/"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 640
     height: 360
     isCached: true
-
-related:
-  - title: "Activating the Voice of the Customer in the Digital Age"
-    excerpt: "Leveraging best-in-class AI technologies, A*STAR spinoff INTNT.AI has remarkably boosted chatbot customer satisfaction by three times for financial services companies. Manuel Ho, CEO of INTNT.AI explains why he's so passionate about a customer experience future powered by understanding buyer intent."
-    publishedDateTime: 2021-09-25T08:41:00Z
-    webUrl: "https://menafn.com/1102861408/Activating-the-Voice-of-the-Customer-in-the-Digital-Age"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?14113"
-        width: 375
-        height: 250
-        isCached: true
 
 secured: "27v/eyUAPXDtDF224rlkbi0zczm+7tvPwnjI85XbbRnwwRi63SLzPu/vut/rHUJFPKFNn9LxL3dkzeg4o+8zkSEkYXCtLtgMHPM2NsfJR9w1JDKDHgj9eYhI85Porm5ZcphqziNuowuS8U5h2odLomf/csTI8q/FOFMGCPAdsUr6loejZs2yYWJ0plvYZNpEx/4scoTOsGsQibvo0CznkpvxOg7B3Tp249dBdCrFyWnZFuuPNTe+UYQ6WGMRt0Dhi3sUHL8VSanqvmFVY5t8Ajazx1j2z+buX0zU0u3prMEWDwayg3TwqAovYdBIkByMCoREYxAwHPz7wvpCljG1HQ14tTHeHlWDj0dnQp/js7g=;KFnAhYMeCHA+pg3ySIermw=="
 ---
