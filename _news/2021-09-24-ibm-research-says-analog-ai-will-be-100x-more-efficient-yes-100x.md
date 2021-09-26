@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/09/23/ibm-research-says
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/09/23/ibm-research-says-analog-ai-will-be-100x-more-efficient-yes-100x/amp/"
 type: article
 quality: 91
-heat: 94
+heat: 91
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/can-multi-skilled-ai-make-machines-mor
 webUrl: "https://thenextweb.com/news/can-multi-skilled-ai-make-machines-more-intelligent"
 type: article
 quality: 67
-heat: 77
+heat: 79
 published: true
 
 provider:

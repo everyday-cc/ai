@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Tesla owners could soon gain ‘Full Self-Driving’ access at the touch of a button, prompting criticism from regulators and safety advocates"
-excerpt: "Tesla is expected to issue a wide release software it deems to be self-driving, giving owners the option as soon as midnight to upgrade to its most advanced driver-assistance suite and soon putting thousands of drivers on the road with the unregulated and largely untested features."
-publishedDateTime: 2021-09-24T22:45:00Z
-originalUrl: "https://www.washingtonpost.com/technology/2021/09/24/tesla-full-self-driving/"
-webUrl: "https://www.washingtonpost.com/technology/2021/09/24/tesla-full-self-driving/"
+title: "Tesla starts judging owners it charged $10,000 for self-driving"
+excerpt: "The wait is almost over for some Tesla Inc. customers to get access to driver-assistance technology the company has marketed in controversial ways —"
+publishedDateTime: 2021-09-26T16:58:00Z
+originalUrl: "https://www.dallasnews.com/business/autos/2021/09/26/tesla-starts-judging-owners-it-charged-10000-for-self-driving/"
+webUrl: "https://www.dallasnews.com/business/autos/2021/09/26/tesla-starts-judging-owners-it-charged-10000-for-self-driving/"
+ampWebUrl: "https://www.dallasnews.com/business/autos/2021/09/26/tesla-starts-judging-owners-it-charged-10000-for-self-driving/?outputType=amp"
+cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2021/09/26/tesla-starts-judging-owners-it-charged-10000-for-self-driving/?outputType=amp"
 type: article
-quality: 20
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Dallas Morning News
+  domain: dallasnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6IVIAUA35II6ZPVIGCHKCNCZJ4.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/sbYttjb7sj7EA4MYM7NrEfpCTWI=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/6VNLZQXXUFDBVJJA72CJUUMS7A.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -225,22 +227,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Tesla starts judging owners it charged $10,000 for self-driving"
-    excerpt: "The wait is almost over for some Tesla Inc. customers to get access to driver-assistance technology the company has marketed in controversial ways —"
-    publishedDateTime: 2021-09-26T16:58:00Z
-    webUrl: "https://www.dallasnews.com/business/autos/2021/09/26/tesla-starts-judging-owners-it-charged-10000-for-self-driving/"
-    ampWebUrl: "https://www.dallasnews.com/business/autos/2021/09/26/tesla-starts-judging-owners-it-charged-10000-for-self-driving/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2021/09/26/tesla-starts-judging-owners-it-charged-10000-for-self-driving/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 59
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/sbYttjb7sj7EA4MYM7NrEfpCTWI=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/6VNLZQXXUFDBVJJA72CJUUMS7A.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla Is Bringing Self-Driving No Matter What. Regulators Need to Adapt."
     excerpt: "San Francisco authorities have expressed concern over Tesla's autonomous driving feature, dubbed Full Self Driving. More broadly, self-driving systems are advancing much faster than regulation."
     publishedDateTime: 2021-09-24T21:37:00Z
@@ -380,7 +366,21 @@ related:
         width: 960
         height: 480
         isCached: true
+  - title: "Tesla owners could soon gain ‘Full Self-Driving’ access at the touch of a button, prompting criticism from regulators and safety advocates"
+    excerpt: "Tesla is expected to issue a wide release software it deems to be self-driving, giving owners the option as soon as midnight to upgrade to its most advanced driver-assistance suite and soon putting thousands of drivers on the road with the unregulated and largely untested features."
+    publishedDateTime: 2021-09-24T22:45:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/09/24/tesla-full-self-driving/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 20
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6IVIAUA35II6ZPVIGCHKCNCZJ4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
-secured: "QDJc4kcdRJVvrtWCyP4i1WV7u7fPguYXqF6HwCoSNbDbvznjbaKYzJxh5AvzmvMRw3Lw5RGESKzQmL0z27vX9Jgx2B9vQ4bzfWiTjAdj0ZEr404Da0VS+EQMCSQki6j5tSq35OwR72CLYyqRKzDxOE2oEDMr6z0ZnjMZosPxZPYIYQGsjHKr0r+M4fnn/BfZNKtKcOUbmEpKjO6/ee6Oj5kLEakXeoCHS+o54ZYbd3af88kmw/D1SG9Kwk/JnvDmZa4yFrLM+lSy7oNych4vUVdu6HxThMVRM7wtgxVLru0LxUSYqtVdiL2IlE6AWXlff8kfyWfPMTPtplFQsnjCREC3z1x94aXtQ6EG3NJ0JE4=;X9YUj02e/xqXwU8TWg4Wzg=="
+secured: "2Zt99wWvZCkvTNGiEniQSVxB8CRmMFOSJqfxBtR0dsqNIKx0XTqhU3A1h1jAqOxxzsD3bJcJ6f4yS3Ba+6I8ja9V7BxA1ff77XEdqLG5rpb8U8hwL7hOlWWlHQyBiQcOUriM+0wNSEyb29XO47Ev5fsi44qZ849Ro63WpFmFzvfjMiHqrDGo2uIqFQp3b4ob5CcYbUhVfh6If9uI8PUDpbSrWUKxHXeiiunTcu9/WvWyFgR15yiirmJ8pJDY1vxutJxRR6YrFwvUv5JGhS3cUb6k3FPuA/WgFs20D0TUHLTGECwoDNz7hIuVs3a1ZAIahCcvf5pnQwnHevSAF+Z15vtVfZo2ScnIUTP1TkgDY3c=;8FmLtJHebx82CyUgI4DGIw=="
 ---
 

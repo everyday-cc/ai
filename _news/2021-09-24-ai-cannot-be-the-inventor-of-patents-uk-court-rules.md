@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/3609
 webUrl: "https://artificialinventor.com/dabus/"
 type: article
 quality: 167
-heat: 187
+heat: 197
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8c025480-192a-4fd4-a404-989aab82be4d.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "UK Court Rules That AI Can’t Be An Inventor Of A Patent, Do You Agree?"
+    excerpt: "We are now facing a similar problem with artificial intelligence and patents across the pond in the United Kingdom, where a court has ruled that patents must list humans as inventors, not AI. In 2015,"
+    publishedDateTime: 2021-09-26T17:06:00Z
+    webUrl: "https://hothardware.com/news/artificial-intelligence-cannot-be-awarded-patent-under-uk-law"
+    ampWebUrl: "https://amp.hothardware.com/news/artificial-intelligence-cannot-be-awarded-patent-under-uk-law"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/artificial-intelligence-cannot-be-awarded-patent-under-uk-law"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 57
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/56331/content/artificial-intelligence-cannot-be-awarded-patent-under-uk-law.jpg"
+        width: 708
+        height: 472
         isCached: true
 
 secured: "BMgzLsjrBPzzh6nb2pGD+CEd+F3aTx10KNOXtRA9HUQYyTqsAhTTtAQS9A6EKWfiT/Cy0ZjBAItWo31Tt7gSeBcCQtFnNqKztXdfwWxa4locsh5SIH3+cbXMCPAbHzuYSh2MDeb1kIkDJz2rKRgWUtSddLrym1RztosfcxiTfC/8iYd+zRkAJk6+E3cnhhfYOk9RNrodKYH36V/+iyqsseCzoGmjH8GwqaO+ubOqtaK5aL73tvPVAP/A5bi3iBJ/vWf9aYQMBvuqRchS1TTXS5kJY06fUSOcTkyfrstIffzv46wACc8JoLmWDXhWlQg0R6hBQnJh1RqF0EY/a/+R1BJZmJe0IIGNZYp8mmoLXZsxKHSTihWa4gciqX0HOqrBqxj1jlUhSvv0pJJkzmSr0zm3WxBpkMYxMbn++wNiQlwae/aEmhuk9sDPelEWoICRcVFX+oJbfb/J+yITdbaqI392a+nr+vvJU/xsbuTVOh113JXbZ76o3vfLpskskp4qLX9p8UBDdRT5kmfZtXfjf1Q4aOoCzHHQFwMX8XNVudM=;V3fdKHI7s3j6ZLg+feLQAQ=="

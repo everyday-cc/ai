@@ -41,22 +41,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Eight Louisiana schools achieve National Blue Ribbon recognition"
-    excerpt: "More than 300 schools across the United States have been recognized as National Blue Ribbon Schools, including eight in the Bayou State and two in New Orleans."
-    publishedDateTime: 2021-09-21T23:35:00Z
-    webUrl: "https://wgno.com/news/louisiana/eight-louisiana-schools-achieve-national-blue-ribbon-recognition/"
-    ampWebUrl: "https://wgno.com/news/louisiana/eight-louisiana-schools-achieve-national-blue-ribbon-recognition/amp/"
-    cdnAmpWebUrl: "https://wgno-com.cdn.ampproject.org/c/s/wgno.com/news/louisiana/eight-louisiana-schools-achieve-national-blue-ribbon-recognition/amp/"
-    type: article
-    provider:
-      name: WGNO
-      domain: wgno.com
-    quality: 44
-    images:
-      - url: "https://wgno.com/wp-content/uploads/sites/2/2015/08/readinghistoryforfuns002945974-300-1.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Liberia: Center for Peace Education Celebrates Recognition of International Day of Peace"
     excerpt: "A local nongovernmental organization Center for Peace and Education has joined the rest of the world in recognition of the International Day of Peace through a grand parade and indoor program spreading messages of peace."
     publishedDateTime: 2021-09-23T10:20:00Z

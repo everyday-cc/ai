@@ -111,15 +111,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Share India set to disrupt the algo-trading and fintech industry with two strategic acquisitions"
-    excerpt: "Takes the next evolutionary step towards providing trading strategy development and algo-trading platform for its retail investors NEW DELHI, Sept. 23, 2021 /PRNewswire/ -- Share India Securities Limited has announced the acquisition of two companies,"
-    publishedDateTime: 2021-09-22T00:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-share-india-set-disrupt-algo-trading-fintech-industry-/2021/09/22/9454886.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "+vbWXdly4mKFky0k7aRKwf3VSF/xdCLbW7yCGJBgq+0eUAkP7Qza2e+WCF3wH+nEiB77pboo4DIvFdIVlikGUiqlryD5DYS6IaabMdY3Wd3expNkpygYUUuJrn8lje88nhbi+z/ljBSq30t7bt2uqNwaqz7IhZzLlfc2mxbsJ5XFgJ1CDZfOxeiaXLPd+DJIr6gHi8hs4+ht96Z8oC/pLVm8J5vofSEIx8J+vCk7PE54JZeZYNHvuNwRQcaB/FZiRFLX5YaH6USCPPBnH5rwYY+TQzAC20pfUy3gfSKsfHbGYHwah2eTaLuASHfPKt/SsF/piRB8LBFCq8vGIW2re3gjRGEs7AwCTU8me/Kk0Hk=;TKWrCcPBGwvSzJy5cDTY/w=="
 ---

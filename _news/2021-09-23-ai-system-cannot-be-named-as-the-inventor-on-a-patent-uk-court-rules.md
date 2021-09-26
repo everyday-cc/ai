@@ -56,6 +56,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "UK Court Rules That AI Can’t Be An Inventor Of A Patent, Do You Agree?"
+    excerpt: "We are now facing a similar problem with artificial intelligence and patents across the pond in the United Kingdom, where a court has ruled that patents must list humans as inventors, not AI. In 2015,"
+    publishedDateTime: 2021-09-26T17:06:00Z
+    webUrl: "https://hothardware.com/news/artificial-intelligence-cannot-be-awarded-patent-under-uk-law"
+    ampWebUrl: "https://amp.hothardware.com/news/artificial-intelligence-cannot-be-awarded-patent-under-uk-law"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/artificial-intelligence-cannot-be-awarded-patent-under-uk-law"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 57
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/56331/content/artificial-intelligence-cannot-be-awarded-patent-under-uk-law.jpg"
+        width: 708
+        height: 472
+        isCached: true
 
 secured: "6fecx0FTVKnueKi2amYeaWInBcBD6P9IT/XVpjNt79XT5/U/wt116JXsF21Sb/Izz0GgS4aYhti3gy7BNBlTQrmKDuExQAEaTN1uuEseCRcLyT7YRySxQdkJPYUoq3KgsUBRb9TCAgMT6NT/98IkA51AW8D+t9YXseBKgSMsDT2kAch6W+UnMEsGYo9I3XKVqtVpOG+Y2Fb34WbMQVGlDRiPrEz+hsuCOA1S3P8zsU8D3aE8Z7po2YLS78aW3eDfvUy4H7VCxB8F0X5nR4nAa5OyEkmakrkd2rjspyk8PaIK7Igg+8hpDS0tsUjSXAIKWR0OxqsI0d/GhRbngZI3Wtv5wz6iUghA2HL9gtFW5LpJPYNs2xKpfWO07E4ZIoszy9VfgbmWzHVkkJQsvK+REzKeh78RouqPtbWjrIShzFLDkeN93zNizaP67jeJvpJUcRlw1q2p7InC6BFWmXUfsYWv1kkJGJ1fiXp/VwKk37LE0lpfg/G7qQb+3PShvzGQudHpdnZaptdmyNXnvv7I2Q==;tqSWYp3UgVE1fAqbBgog1A=="
 ---

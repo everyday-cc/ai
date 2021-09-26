@@ -227,6 +227,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Tesla starts judging owners it charged $10,000 for self-driving"
+    excerpt: "The wait is almost over for some Tesla Inc. customers to get access to driver-assistance technology the company has marketed in controversial ways —"
+    publishedDateTime: 2021-09-26T16:58:00Z
+    webUrl: "https://www.dallasnews.com/business/autos/2021/09/26/tesla-starts-judging-owners-it-charged-10000-for-self-driving/"
+    ampWebUrl: "https://www.dallasnews.com/business/autos/2021/09/26/tesla-starts-judging-owners-it-charged-10000-for-self-driving/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2021/09/26/tesla-starts-judging-owners-it-charged-10000-for-self-driving/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 59
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/sbYttjb7sj7EA4MYM7NrEfpCTWI=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/6VNLZQXXUFDBVJJA72CJUUMS7A.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla expands self-driving software test — but only to drivers it deems worthy"
     excerpt: "Tesla is rolling out a new version of its so-called Full Self-Driving system, but to be eligible, car owners who've already paid $10,000 for the software must pass a seven-day driving evaluation."
     publishedDateTime: 2021-09-24T22:20:00Z

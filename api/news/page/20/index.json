@@ -2,6 +2,58 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-09-09-what-databrickss-16b-funding-round-means-for-the-enterprise-ai-market.md",
+      "title": "What Databricks’s $1.6B funding round means for the enterprise AI market",
+      "excerpt": "The Transform Technology Summits start October 13th with Low-Code/No Code: Enabling Enterprise Agility. Register now! The latest winner of the growing interest in enterprise AI is Databricks, a startup that has just secured $1.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/08/what-databrickss-1-6b-funding-round-means-for-the-enterprise-ai-market/",
+      "originalUrl": "https://venturebeat.com/2021/09/08/what-databrickss-1-6b-funding-round-means-for-the-enterprise-ai-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Databricks1.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/08/what-databrickss-1-6b-funding-round-means-for-the-enterprise-ai-market/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/08/what-databrickss-1-6b-funding-round-means-for-the-enterprise-ai-market/amp/",
+      "publishedDateTime": "2021-09-08T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-wells-fargo-applies-machine-learning-robotics-to-accounts-receivable.md",
       "title": "Wells Fargo applies machine learning, robotics to accounts receivable",
       "excerpt": "A new service offered by the company helps clients automatically capture payment and invoice information as well as make sure the information matches.",
@@ -1112,48 +1164,6 @@
       "provider": {
         "name": "brookings.edu/research/the-geography-of-ai/",
         "domain": "brookings.edu/research/the-geography-of-ai/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-bhp-inks-exploration-deal-with-gates-and-bezos-backed-kobold.md",
-      "title": "BHP inks exploration deal with Gates and Bezos-backed KoBold",
-      "excerpt": "The world’s largest miner will use artificial intelligence tools developed by KoBold Metals, a start-up backed by a coalition of billionaires.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mining.com/bhp-inks-exploration-deal-with-gates-and-bezos-backed-kobold/",
-      "originalUrl": "https://www.mining.com/bhp-inks-exploration-deal-with-gates-and-bezos-backed-kobold/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mining.com/wp-content/uploads/2021/09/ai-in-mining.jpeg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-08T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mining",
-        "domain": "mining.com",
         "images": null,
         "publishers": null,
         "authors": null
