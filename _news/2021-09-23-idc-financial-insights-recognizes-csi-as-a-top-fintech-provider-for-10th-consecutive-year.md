@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "Five Economic Benefits From Bank And Fintech Firm Partnerships"
+    excerpt: "The connection between banks and FinTech companies means heightened trust backed by better tech, stronger security and less room for errors"
+    publishedDateTime: 2021-09-24T16:41:00Z
+    webUrl: "https://www.valuewalk.com/five-economic-benefits-from-bank-and-fintech-firm-partnerships/"
+    type: article
+    provider:
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 39
+    images:
+      - url: "https://valuewalk.b-cdn.net/wp-content/uploads/2020/05/fintech_1589276958.jpg"
+        width: 1200
+        height: 764
+        isCached: true
+  - title: "Five Economic Benefits From Bank And Fintech Firm Partnerships"
+    excerpt: "Q2 2021 hedge fund letters, conferences and Read More In fact, Capgemini's World FinTech Report of 2021 details how banks can leverage the new competitive market in depth. Just as we watched large and small businesses alike drastically adapt to the digital demands of Covid in 2020,"
+    publishedDateTime: 2021-09-25T04:56:00Z
+    webUrl: "https://menafn.com/1102859487/Five-Economic-Benefits-From-Bank-And-Fintech-Firm-Partnerships&source=138"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-09/24/V_b0f64image_story.jpg"
+        width: 600
+        height: 382
+        isCached: true
   - title: "GBG Named to Prestigious IDC FinTech Top 100 Rankings List"
     excerpt: "Ranking marks GBG’s inaugural participation in the distinguished list SINGAPORE – Media OutReach – 16 September 2021 – GBG (AIM:GBG), the global expert in digital identity, helping businesses prevent fraud and meet complex compliance requirements,"
     publishedDateTime: 2021-09-23T05:08:00Z
@@ -36,34 +64,29 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 24
-  - title: "Guidewire Named to 2021 IDC FinTech Rankings"
-    excerpt: "Guidewire Software, Inc. (NYSE: GWRE) announced it has ranked number 30 out of 100 on the 2021 IDC FinTech Rankings. This is the first year Guidewire has appeared on the prestigious list and the company is the sole P&C insurance industry core systems provider included in the rankings."
-    publishedDateTime: 2021-09-23T12:56:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-software-insurance-industry-san-mateo-2f4ae05bce59474f8b091264c6d7469c"
+  - title: "This FinTech stock is up 1,000% in a year! And it could go further"
+    excerpt: "Upstart Holdings is an Artificial Intelligence FinTech stock that could transform money lending forever. Is it too late to buy in?"
+    publishedDateTime: 2021-09-24T11:12:00Z
+    webUrl: "https://www.fool.co.uk/investing/2021/09/24/this-fintech-stock-is-up-1000-in-a-year-and-it-could-go-further/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: The Motley Fool UK
+      domain: fool.co.uk
     quality: 24
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://1gb82h2px4rr3s7tp94g0nt1-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/NeonGraph.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Hexaware Technologies Named in the Prestigious IDC FinTech Rankings' Top 100 by IDC Financial Insights"
-    excerpt: "IDC FinTech Rankings represents the leading hardware, software and service providers of the financial services industry from around the world. Vendors are ranked based on the 2020 calendar year revenues attributed to"
-    publishedDateTime: 2021-09-23T11:36:00Z
-    webUrl: "https://www.lelezard.com/en/news-20011771.html"
+  - title: "DeepTarget's Digital Experience Platform and 3D StoryTeller Recognized As A Finalist in Fintech Future's Banking Tech Awards 2021"
+    excerpt: "DeepTarget Inc., a solution provider that utilizes data mining and business intelligence to deliver targeted engagements across digital channels for financial institutions, today announced its Digital Experience Platform and 3D StoryTeller™ were selected as finalists in the \"Best Smart Banking Tech Solution\" category of the Banking Tech Awards 2021,"
+    publishedDateTime: 2021-09-23T14:20:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-deeptargets-digital-experience-platform-3d-storyteller-recognized-as-/2021/09/23/9455492.htm"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 8
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "mXNBbbVv/5C52vOu88j7ZKEIXfApWKDZx+xl66JP9crwBAX/1K7KvblBKjkCS/LrdHkIWiM0Ziv9Yf1TRu6YUL9YC1zU5EspgxBpqfnfQ6ExxGhGJdSLjOTLnW6W9Coi2Rm/5BJ0kRgHzaBIUNsHgewFBwKbYWF1OJ1owTGaRQk9nz8vzZcxrOQQj3bZT8LtR26DVR3mAwMzQt8WeuQ6sFGJse/9+EJ1dKLN5+NY9M+glFvOvyMPqadgCgWHrKcIciRt7NiE7Wa/gyrpGydWc0br2gRS/jxjW5pjecRegRFTUMpq/q3z9UVxDHKHioZoxNLfmXe7RILac8Be6glvTCLmIAf8hOyfgUYG1u/cQOg=;lt205ga3Lk8zJZHOswSsNQ=="
 ---

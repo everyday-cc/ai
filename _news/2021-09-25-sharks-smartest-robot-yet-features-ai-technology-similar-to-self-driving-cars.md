@@ -1,27 +1,32 @@
 ---
 category: news
 title: "Shark's Smartest Robot Yet Features AI Technology Similar to Self-Driving Cars"
-excerpt: "Consumers are on the hunt for products that do more for less, and the search for top-of-the-line yet affordable robots is no different. That's why Shark®, (HKEX: 1691.HK), the #1 brand in vacuums*, is excited to introduce its newest and"
-publishedDateTime: 2021-09-24T17:54:00Z
-originalUrl: "https://www.lelezard.com/en/news-20014769.html"
-webUrl: "https://www.lelezard.com/en/news-20014769.html"
+excerpt: "Forget about vacuuming for up to two months withShark's smartest and most premium self-empty robot NEEDHAM, Mass., Sept. 24, 2021 /PRNewswire/"
+publishedDateTime: 2021-09-24T17:58:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/shark-s-smartest-robot-yet-features-ai-technology-similar-to-self-driving-cars-1030822427"
+webUrl: "https://markets.businessinsider.com/news/stocks/shark-s-smartest-robot-yet-features-ai-technology-similar-to-self-driving-cars-1030822427"
 type: article
-quality: 50
-heat: -1
-published: false
+quality: 82
+heat: 112
+published: true
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://mma.prnewswire.com/media/1634664/Image_1.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -41,7 +46,37 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "For self-driving cars, the hot new technology is… radar"
+    excerpt: "Companies are improving and adapting the century-old technology to help vehicles operate more safely with less human involvement"
+    publishedDateTime: 2021-09-26T01:30:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/for-self-driving-cars-the-hot-new-technology-is-radar-11632583538046.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/for-self-driving-cars-the-hot-new-technology-is-radar/amp-11632583538046.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/for-self-driving-cars-the-hot-new-technology-is-radar/amp-11632583538046.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: "https://images.livemint.com/img/2021/09/25/600x338/googlecars-kY8D--621x414@LiveMint_1632583693837.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Nuro is an Artificial Intelligence-based startup that creates self-driving cars, named R2."
+    excerpt: "Nuro is an Artificial Intelligence (AI)-based startup that develops self-driving cars called R2 that are based on robotics and AI. It's energy-efficient, battery-powered, and self-contained. Nuro's vehicle is an on-road vehicle that carries goods quickly,"
+    publishedDateTime: 2021-09-23T10:00:00Z
+    webUrl: "https://www.analyticsinsight.net/nuros-artificial-intelligence-strategy-on-r2-a-self-driving-car/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 31
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Artificial-Intelligence.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
-secured: "8QTJQJnfQuByxcTb7kNFwoFOLz/QpVC6/7huJuT2EDEtdpAD46PJO7noHdY+2sKXC44NBw5bDg6f4jntAKM0fWx40/QHTjXGDLPbJ8tFyzEQC7W7aBg1OfdiRz3enQWRMbH19F76ffPbAyFqoFqkbTD7bwOYCV9mvnSGLHmvjoKQjlCAss3i9CYtPmOTjTB/Y0KxQaThSJ4QuCHoeth4XAsP109q2w0h5TKh1rnwrfv2gLgqBqtJRZ6JkBCt+RtjTwkeoyhjumDDKUj2hKMqDqACuGRK1ig/H+XbTpqOwj2YFO1gIWfMyN0TaC9b+yCYFHC7h9Bjm3ChV3/5mW6A8J3/QOZ68b/kg3g7nKJGBLk=;Zq8diRn4jx47TDhxzUuEjQ=="
+secured: "hj32mGiKw6msaLa50ZLPzns8wx2oqouCedKvNb//FthlPzlZcxyx6/+G+DD1h+yN3hk39mifboOHxI2Luik2FJUkqj525yl/Lrjyxu0v1yNXvLSsRvnzTysS37WiuNrzJMvzOzH8SGUJupFyjTEntwr2KGeXi4Rj8sLbglMJkl52bMQT3ITYCiLiAriA/dC3jgLvv4exCATTk0DJleZswG/fYVf6yTUCnb/Nttn8lv7iSBAzB7maM93aI8RBas6qtgLzxYrp3vNkW/0Ke4tKJmW+gS/hFzcA6pM9ndFPoboHDhXCADGlS391fqsOOCHAf6/ArCJxhdXZYfft1CBxROKIdv7qWrgBpPqk8uALKsY=;6A47BIOhgigPH0u7wmmJNA=="
 ---
 

@@ -1,45 +1,40 @@
 ---
 category: news
 title: "PAVmed Subsidiary Veris Health Joins Microsoft for Startups Global Program and Engages Loka as Software Development Partner"
-excerpt: "PAVmed Inc. (the \"Company\" or \"PAVmed\"), a highly differentiated, multi-product, commercial-stage medical technology company, today announced that its major subsidiary Veris Health Inc. (\"Veris\") has been accepted into Microsoft for Startups,"
-publishedDateTime: 2021-09-21T13:41:00Z
-originalUrl: "https://www.lelezard.com/en/news-20007576.html"
-webUrl: "https://www.lelezard.com/en/news-20007576.html"
+excerpt: "PAVmed Subsidiary Veris Health Joins Microsoft for Startups Global Program and Engages Loka as Software Development Partner. PAVmed Inc. (Nasdaq: PAVM, PAVMZ) (the \"Company\" or \"P"
+publishedDateTime: 2021-09-21T15:08:00Z
+originalUrl: "https://www.mobilitytechzone.com/broadband-stimulus/news/2021/09/21/9453342.htm"
+webUrl: "https://www.mobilitytechzone.com/broadband-stimulus/news/2021/09/21/9453342.htm"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Mobility Techzone
+  domain: mobilitytechzone.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
+    width: 1577
+    height: 1050
     isCached: true
 
 related:
-  - title: "LenDenClub selected for ‘Microsoft for Startups’; aims to minimise NPAs and Frauds"
-    excerpt: "LenDenClub, India’s leading Peer-to-Peer(P2P) lending company, today announced its induction into ‘Microsoft for Startups’, a global program dedicated to accelerating the growth trajectory of high-potential start-ups."
-    publishedDateTime: 2021-09-25T07:42:00Z
-    webUrl: "https://menafn.com/1102861370/LenDenClub-selected-for-Microsoft-for-Startups-aims-to-minimise-NPAs-and-Frauds"
+  - title: "PAVmed Subsidiary Veris Health Joins Microsoft for Startups Global Program and Engages Loka as Software Development Partner"
+    excerpt: "PAVmed subsidiary Veris Health joins Microsoft for startups global program and engages Loka as software development partner."
+    publishedDateTime: 2021-09-21T17:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210921005193/en/PAVmed-Subsidiary-Veris-Health-Joins-Microsoft-for-Startups-Global-Program-and-Engages-Loka-as-Software-Development-Partner"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 48
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?831264"
-        width: 444
-        height: 250
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
-secured: "2oj+CQsyxdaRjXaBBzggTzD5fQVzVISnTSYfpCbl7h+ahYKzWQ2gZmkj4Zhwbu8bKjhpONVEygMmjTsQIrglmDeVCkgmOXAu9P/DAYfRi8IJgpk8g5jPE0aTPmfCnDgyDyFgzSaEuX3ga+F1cgnLBEYT9ccgV7TLH4jihjIqMKzZRQTh0BGhaf7ALwsH0fFAhXLxX359Ak/c6uRUOaj04vZJhUuxAFufaZ87nTepI0uiDTOZx03fnBkJaVOcZAeemhk+QlCmr43b0cZMsjQGa12/qtH4SyU1ko1Us7clAWVrmktMgAWa/D5Kw1cbZsbxyR6YhjW5Q1hguiaYqGmrT4wgHngTx5MBCRIbLJUq9bs=;gi91Yo7B8/EBi4A+Nt+xbw=="
+secured: "6J76QgMa18HNOYfu/x8/tBsdZiuGlPfJjEMuHy7muwVBvEbGnJEKzCQJzutbedy9inZlgsDqcsGtdF+IwN4f0ytDkKspU02TAdemgO5zl1dd5drBUvTcsAndHgGjKEV5NuKbnf0H9EfOiFsnrY3KHc0GDCvfg9SYD2kzE5VAG8q2VDevZF7Ll4TVw4s4uT6IMMreDF/0XueNyweKiq7DOUKHyRAw2GW0QmtRFUNCf1p7AiYTGIvBuFDsBf2D/OxRsbdgWbwlnJ8zYr9/DTLFqmGGZ9uOc6ihR4SoklrQnu933UCDHXpPaWJzv+fIx/ReCSRKzuyBRIaNtIPZTcsfeUloM7IrX9q0luBLOtWSkU8=;AHsmUxyOy6SrrDwbX1DRNQ=="
 ---
 

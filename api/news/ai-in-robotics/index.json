@@ -140,6 +140,59 @@
       ]
     },
     {
+      "path": "_news/2021-09-25-sharks-smartest-robot-yet-features-ai-technology-similar-to-self-driving-cars.md",
+      "title": "Shark's Smartest Robot Yet Features AI Technology Similar to Self-Driving Cars",
+      "excerpt": "Forget about vacuuming for up to two months withShark's smartest and most premium self-empty robot NEEDHAM, Mass., Sept. 24, 2021 /PRNewswire/",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/shark-s-smartest-robot-yet-features-ai-technology-similar-to-self-driving-cars-1030822427",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/shark-s-smartest-robot-yet-features-ai-technology-similar-to-self-driving-cars-1030822427",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1634664/Image_1.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-24T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-25-baidu-deepway-unveils-smart-robot-truck-with-advanced-self-driving-technology.md",
       "title": "Baidu DeepWay Unveils Smart Robot Truck With Advanced Self-driving Technology",
       "excerpt": "DeepWay Smart Truck backed by Baidu has just been launched and the users are curious to know more about it. Here is all we know about this smart truck. Read",
@@ -1336,50 +1389,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-datarobots-new-ai-cloud-speeds-up-enterprise-machine-learning-projects.md",
-      "title": "DataRobot’s new AI Cloud speeds up enterprise machine learning projects",
-      "excerpt": "The startup says that the platform, AI Cloud, can function as the central hub for a company’s AI initiatives. It provides features for all the key coding and software deployment tasks involved in building machine learning applications.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/09/14/datarobots-new-ai-cloud-speeds-enterprise-machine-learning-projects/",
-      "originalUrl": "https://siliconangle.com/2021/09/14/datarobots-new-ai-cloud-speeds-enterprise-machine-learning-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/datarobot.png",
-          "width": 930,
-          "height": 517,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

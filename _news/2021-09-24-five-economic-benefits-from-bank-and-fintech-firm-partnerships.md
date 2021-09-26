@@ -7,7 +7,7 @@ originalUrl: "https://www.valuewalk.com/five-economic-benefits-from-bank-and-fin
 webUrl: "https://www.valuewalk.com/five-economic-benefits-from-bank-and-fintech-firm-partnerships/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "M2P acquires credit card management fintech Wizi"
-    excerpt: "Chennai-based M2P Fintech, also known as Yap, on Tuesday announced the acquisition of credit card-focussed fintech Wizi for an undisclosed sum. M2P, an application programming interface (API) infrastructure company,"
-    publishedDateTime: 2021-09-21T08:31:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/m2p-acquires-credit-card-management-fintech-wizi/article36583976.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/m2p-acquires-credit-card-management-fintech-wizi/article36583976.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/m2p-acquires-credit-card-management-fintech-wizi/article36583976.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 44
-    images:
-      - url: "https://www.thehindubusinessline.com/info-tech/b6fvlu/article36583975.ece/ALTERNATES/LANDSCAPE_615/BL22W2P"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Five Economic Benefits From Bank And Fintech Firm Partnerships"
     excerpt: "Q2 2021 hedge fund letters, conferences and Read More In fact, Capgemini's World FinTech Report of 2021 details how banks can leverage the new competitive market in depth. Just as we watched large and small businesses alike drastically adapt to the digital demands of Covid in 2020,"
     publishedDateTime: 2021-09-25T04:56:00Z
@@ -55,6 +39,54 @@ related:
         width: 600
         height: 382
         isCached: true
+  - title: "GBG Named to Prestigious IDC FinTech Top 100 Rankings List"
+    excerpt: "Ranking marks GBG’s inaugural participation in the distinguished list SINGAPORE – Media OutReach – 16 September 2021 – GBG (AIM:GBG), the global expert in digital identity, helping businesses prevent fraud and meet complex compliance requirements,"
+    publishedDateTime: 2021-09-23T05:08:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/gbg-named-to-prestigious-idc-fintech-top-100-rankings-list/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/category/news/gbg-named-to-prestigious-idc-fintech-top-100-rankings-list/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/gbg-named-to-prestigious-idc-fintech-top-100-rankings-list/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 24
+  - title: "This FinTech stock is up 1,000% in a year! And it could go further"
+    excerpt: "Upstart Holdings is an Artificial Intelligence FinTech stock that could transform money lending forever. Is it too late to buy in?"
+    publishedDateTime: 2021-09-24T11:12:00Z
+    webUrl: "https://www.fool.co.uk/investing/2021/09/24/this-fintech-stock-is-up-1000-in-a-year-and-it-could-go-further/"
+    type: article
+    provider:
+      name: The Motley Fool UK
+      domain: fool.co.uk
+    quality: 24
+    images:
+      - url: "https://1gb82h2px4rr3s7tp94g0nt1-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/NeonGraph.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "IDC Financial Insights Recognizes CSI as a Top Fintech Provider for 10th Consecutive Year"
+    excerpt: "Computer Services, Inc. (CSI) , a provider of end-to-end fintech and regtech solutions, has been named by IDC Financial Insights to its 2021 IDC FinTech Rankings for the 10th consecutive year. The annual industry ranking,"
+    publishedDateTime: 2021-09-23T11:42:00Z
+    webUrl: "https://www.lelezard.com/en/news-20011802.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 15
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "DeepTarget's Digital Experience Platform and 3D StoryTeller Recognized As A Finalist in Fintech Future's Banking Tech Awards 2021"
+    excerpt: "DeepTarget Inc., a solution provider that utilizes data mining and business intelligence to deliver targeted engagements across digital channels for financial institutions, today announced its Digital Experience Platform and 3D StoryTeller™ were selected as finalists in the \"Best Smart Banking Tech Solution\" category of the Banking Tech Awards 2021,"
+    publishedDateTime: 2021-09-23T14:20:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-deeptargets-digital-experience-platform-3d-storyteller-recognized-as-/2021/09/23/9455492.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "JxBQCZkv2sTGNJUkTvi2YV6I+/hF47+WOg3TqW3toFFauoQQ0O4RkzWXBdzh7HXk9uEKQcFonvH7xGBncZzsbvlXJIUeEvEziXO1raGLXG9YQEPGntvStnLpJ2BecyLhpx/v6EPrJpE38fWcKwLwXBgYkz+Y620xgFYmsTODVh17bhRRqzFGp6dlj7sNszwTsshpLFQ+0uYvDNgJPWFZH4Uxy6EbO5ifTiIHHbTSm3iAQUTnlnxY8XWaMoVFZC0X/DxfK2+SeQUQdUb1x4LRaOzhinh3WNOM2xiIACbmUgg3w9WZ6bZGaj25myvNwGGwwyGz5k4zqLk6e6X3xL5Zfy4T5V9Ucz5vbWZTHySBQpyMvRwJkwEkXp32vC2/V3g/2hXDCquZeFn/oPprzrrwwNVR846kgBgq0Q6IyauMTT7xvJhEkK3I5cn/vNUV0W61jtBlXkHs8e1kRe6ZP4fTaN0b8dpDtrWIEw8Fl4DSdeSlyS45B9bJuOFgij/0SrZ2tcduitJMj9d5vDDzp2tfhg==;aN4fVNYdc5z3Ur5JselVhg=="
 ---

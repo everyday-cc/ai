@@ -163,6 +163,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Xiaomi invests in Chinese self-driving chip unicorn Black Sesame"
+    excerpt: "Black Sesame Technologies, a Chinese developer of artificial intelligence-based self-driving computing chips, says it is close to a valuation of nearly $2 billion after raising \"hundreds of millions of U."
+    publishedDateTime: 2021-09-26T01:17:00Z
+    webUrl: "https://asia.nikkei.com/Spotlight/DealStreetAsia/Xiaomi-invests-in-Chinese-self-driving-chip-unicorn-Black-Sesame"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 41
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F6%252F3%252F1%252F6%252F36566136-1-eng-GB%252FRTX8473F.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Tesla Eyes Samsung to Produce Its Next-Generation Self-Driving Auto Chips"
     excerpt: "Tesla is in talks with Samsung to make its HW 4.0 chips based on the Korean tech giant's 7-nanometre chip production process. Samsung is expected to win the Tesla new chip deal over its competitor, the semiconductor company TSMC."
     publishedDateTime: 2021-09-24T20:04:00Z

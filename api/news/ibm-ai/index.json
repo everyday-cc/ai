@@ -572,6 +572,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-13-ai-powered-automation-and-aiops-in-focus-at-ibm-virtual-event.md",
+      "title": "AI-powered automation and AIOps in focus at IBM virtual event",
+      "excerpt": "AI-enabled automation is crucial for supporting ... and organic R&D including the launch of Cloud Pak for Watson AIOps and IBM Watson Orchestrate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/j5alr7QaOd97pYQk",
+      "originalUrl": "https://www.itweb.co.za/content/j5alr7QaOd97pYQk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/9A_uES3Vz33Mxpb3uct57ZbpXw1ba3GWA0adxPiqwDmb3RoQdF7D2H-MC-xc7B8l9i9sMK8li-uctJjjPqBeEQ=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/j5alr7QaOd97pYQk",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/j5alr7QaOd97pYQk",
+      "publishedDateTime": "2021-09-13T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-11-weekly-bytes-nasa-to-launch-most-powerful-space-telescope-ibm-watson-gets-new-ai-capabilities-and-more.md",
       "title": "Weekly Bytes | NASA to launch most powerful space telescope, IBM Watson gets new AI capabilities, and more",
       "excerpt": "NASA on Wednesday said it plans to launch the James Webb Space Telescope (JWST) into orbit on December 18, 2021, to serve as the premier deep space observatory for the next decade. “The Webb telescope’s revolutionary technology will explore every phase of cosmic history – from within our solar system to the most distant observable galaxies in the early universe,",
@@ -1307,58 +1350,6 @@
         "IBM AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open.md",
-      "title": "IBM announces new tennis power rankings, fantasy tennis teams and more ahead of US Open",
-      "excerpt": "IBM unveiled a slate of new AI-powered tools on Friday centered around the US Open, which kicks off in New York City on Monday. Tennis fans will have a bevy of new match and player information ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2248/7/index.php/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2248/7/index.php/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/27/b9ce487a-48ab-430b-9889-61dc0b4c6291/match-insights-example-2.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2248/7/index.php/google-amp/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2248/7/index.php/google-amp/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/",
-      "publishedDateTime": "2021-08-27T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

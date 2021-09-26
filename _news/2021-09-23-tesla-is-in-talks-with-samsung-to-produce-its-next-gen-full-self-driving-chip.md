@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-g
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/amp/"
 type: article
 quality: 103
-heat: 333
+heat: 343
 published: true
 
 provider:
@@ -291,6 +291,20 @@ related:
       - url: "https://www.thedetroitbureau.com/wp-content/uploads/2015/06/San-Francisco.jpg"
         width: 1356
         height: 750
+        isCached: true
+  - title: "Tesla Releases Latest Version of 'Full Self Driving Capability,' but It Requires Owners to Pass a Safety Test"
+    excerpt: "With the release of the beta version of Tesla's Full Self-Driving Capability, Consumer Reports says the required seven-day driver evaluation underscores the system’s own limitations."
+    publishedDateTime: 2021-09-25T19:46:00Z
+    webUrl: "https://www.consumerreports.org/car-safety/car-safety-tesla-full-self-driving-capability-beta-a6537700136/"
+    type: article
+    provider:
+      name: Consumer Reports
+      domain: consumerreports.org
+    quality: 35
+    images:
+      - url: "https://article.images.consumerreports.org/image/upload/v1632589204/prod/content/dam/CRO-Images-2021/Cars/09Sept/CR-Cars-InlineHero-Tesla-Model-Y-driving-ATC-9-21"
+        width: 1199
+        height: 674
         isCached: true
   - title: "Tesla's plans to test new 'self-driving' tech raises concerns"
     excerpt: "Release plans for #Tesla's \"Full Self Driving\" features has local transportation agency concerned over driver safety. #SiliconValley #SanFrancisco #selfdriving"

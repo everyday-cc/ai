@@ -7,7 +7,7 @@ originalUrl: "https://www.tribdem.com/news/photo-gallery-cant-let-the-moment-sli
 webUrl: "https://www.tribdem.com/news/photo-gallery-cant-let-the-moment-slip-by-self-driving-electric-vehicles-hold-promise-for/article_1826de4a-1c98-11ec-8cd5-374ea942cac3.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 884
     height: 630
     isCached: true
-
-related:
-  - title: "Automotive Camera Module: The Future Of Self Driving Vehicles Is Here"
-    excerpt: "Tesla, the American electric vehicle manufacturer that has been aiming to bring the most advanced self-driving cars to the market, announced in May 2021, that it will be replacing radar sensors from its semi-autonomous driving system,"
-    publishedDateTime: 2021-09-21T07:43:00Z
-    webUrl: "https://techbullion.com/automotive-camera-module-the-future-of-self-driving-vehicles-is-here/"
-    ampWebUrl: "https://techbullion.com/automotive-camera-module-the-future-of-self-driving-vehicles-is-here/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/automotive-camera-module-the-future-of-self-driving-vehicles-is-here/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 59
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/09/automotive-camera-module.jpg"
-        width: 700
-        height: 400
-        isCached: true
 
 secured: "2HvJWR0UpET+R0QPUVrPls6JuEHAsyNX7IGs3hFgg6CKnGTqdeAAmrWko5uvV1S5yJ4RrHe5emy2S3wM+Su8pGsMJ2UeyVFrEittHjfAcCoOeTVrYEoYcmhiG7QCmxbllBJ059MhHnsOkBYTD+ycR6NH5RaVxA3/5qmjLmgPC4i4WWfM+/hQu1qR1oqlFBZiQYhCf/pIx+dTmVhYVKsA4eIzkt1VTUmzf2JefyJ/8ZUjP6fPsVjrEBZhcFGUERqb2czfLCSCflcpphh7QDAwwFZ3oAtjgld3VTit71nfapTOAJw/06pjf53jpPJit70kxrrZIZvEA9OmuXDneczNLWenDJLza79WjTvcxrl8CV9GGHpGRVHsugm1yeX+5N/J5AKSpQIBLAZ990iKwy9cuJpRF4dB/y0PQqSCRUL/aGYWN6DfWZ8vq72ZZtn7PNZ6e6e7jVN3JFWRrWiLaTph2bG1S/a7ojPqZg1w3rq7CdHfzNoZGVQ5lVjQfjovdeCClhiFu8XFS+eR+UW6qqugog==;BI357qdCD9S1JY2WbXgMew=="
 ---

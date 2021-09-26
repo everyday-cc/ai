@@ -24,22 +24,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "PAVmed Subsidiary Veris Health Joins Microsoft for Startups Global Program and Engages Loka as Software Development Partner"
-    excerpt: "PAVmed Inc. (the \"Company\" or \"PAVmed\"), a highly differentiated, multi-product, commercial-stage medical technology company, today announced that its major subsidiary Veris Health Inc. (\"Veris\") has been accepted into Microsoft for Startups,"
-    publishedDateTime: 2021-09-21T13:41:00Z
-    webUrl: "https://www.lelezard.com/en/news-20007576.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 13
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-
 secured: "bA8c4jlfvlJuTCEtvqLTSqp29+FCh//OJXqwqFuWZEz9DocLXlBWqDDgdrD+n8eNlY52a5fTT4swFjZi7ni9w0+jOvi+bT8lnTC9rGGvve3mjErdpWnaMbYzpN29vg74V8A6xHBhGJdfTja8An9Vdrpz0Gq7pKHejei/1HC1gARCpfuiy/FMgkKqkVlpKZTApDksy+i8y33/zbYTaIsDMOJimM+9M656pSXZjCD/qmrc/cn/gTDjXkrVntwez+Ce0DjU3ur4Uway7i/QLi7H3v2cQ3DdvTB12WsEPjnDWLL7xdjujwfuRaMymvuTSCaINjvkVRPIZh0B4knJwNsS5gf6eXpq5TxlM2/rSagNL4Q=;I4mDseUP+foJ7xb+eqO1BA=="
 ---
 

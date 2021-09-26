@@ -50,20 +50,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Edtech Startup Expertrons Raises Funding"
-    excerpt: "Mumbai-based professional growth-focused AI videobot startup Expertrons on Tuesday announced to have raised an undisclosed sum from industry veterans Kunal Shah (founder, CRED) and Anant Maheshwari (president,"
-    publishedDateTime: 2021-09-21T08:03:00Z
-    webUrl: "https://www.entrepreneur.com/article/386674"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1632211382-LtoRJatinSolankiVivekGuptaFoundersExpertronsv1.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Warehouse robotics startup HAI ROBOTICS secures $200M funding"
     excerpt: "The funding will help the company boost its product fleet through technological upgrades, expanding its global operation networks, optimizing its supply chain management and corporate structure as well as talent."
     publishedDateTime: 2021-09-22T13:09:00Z

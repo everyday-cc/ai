@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "M2P acquires credit card management fintech Wizi"
-    excerpt: "Chennai-based M2P Fintech, also known as Yap, on Tuesday announced the acquisition of credit card-focussed fintech Wizi for an undisclosed sum. M2P, an application programming interface (API) infrastructure company,"
-    publishedDateTime: 2021-09-21T08:31:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/m2p-acquires-credit-card-management-fintech-wizi/article36583976.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/m2p-acquires-credit-card-management-fintech-wizi/article36583976.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/m2p-acquires-credit-card-management-fintech-wizi/article36583976.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 44
-    images:
-      - url: "https://www.thehindubusinessline.com/info-tech/b6fvlu/article36583975.ece/ALTERNATES/LANDSCAPE_615/BL22W2P"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Five Economic Benefits From Bank And Fintech Firm Partnerships"
     excerpt: "The connection between banks and FinTech companies means heightened trust backed by better tech, stronger security and less room for errors"
     publishedDateTime: 2021-09-24T16:41:00Z
@@ -55,6 +39,54 @@ related:
         width: 1200
         height: 764
         isCached: true
+  - title: "GBG Named to Prestigious IDC FinTech Top 100 Rankings List"
+    excerpt: "Ranking marks GBG’s inaugural participation in the distinguished list SINGAPORE – Media OutReach – 16 September 2021 – GBG (AIM:GBG), the global expert in digital identity, helping businesses prevent fraud and meet complex compliance requirements,"
+    publishedDateTime: 2021-09-23T05:08:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/gbg-named-to-prestigious-idc-fintech-top-100-rankings-list/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/category/news/gbg-named-to-prestigious-idc-fintech-top-100-rankings-list/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/gbg-named-to-prestigious-idc-fintech-top-100-rankings-list/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 24
+  - title: "This FinTech stock is up 1,000% in a year! And it could go further"
+    excerpt: "Upstart Holdings is an Artificial Intelligence FinTech stock that could transform money lending forever. Is it too late to buy in?"
+    publishedDateTime: 2021-09-24T11:12:00Z
+    webUrl: "https://www.fool.co.uk/investing/2021/09/24/this-fintech-stock-is-up-1000-in-a-year-and-it-could-go-further/"
+    type: article
+    provider:
+      name: The Motley Fool UK
+      domain: fool.co.uk
+    quality: 24
+    images:
+      - url: "https://1gb82h2px4rr3s7tp94g0nt1-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/NeonGraph.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "IDC Financial Insights Recognizes CSI as a Top Fintech Provider for 10th Consecutive Year"
+    excerpt: "Computer Services, Inc. (CSI) , a provider of end-to-end fintech and regtech solutions, has been named by IDC Financial Insights to its 2021 IDC FinTech Rankings for the 10th consecutive year. The annual industry ranking,"
+    publishedDateTime: 2021-09-23T11:42:00Z
+    webUrl: "https://www.lelezard.com/en/news-20011802.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 15
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "DeepTarget's Digital Experience Platform and 3D StoryTeller Recognized As A Finalist in Fintech Future's Banking Tech Awards 2021"
+    excerpt: "DeepTarget Inc., a solution provider that utilizes data mining and business intelligence to deliver targeted engagements across digital channels for financial institutions, today announced its Digital Experience Platform and 3D StoryTeller™ were selected as finalists in the \"Best Smart Banking Tech Solution\" category of the Banking Tech Awards 2021,"
+    publishedDateTime: 2021-09-23T14:20:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-deeptargets-digital-experience-platform-3d-storyteller-recognized-as-/2021/09/23/9455492.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "RwZFinXHOlbNvyoAqBYgp+DZHM0SKT/T8DUvSvjQWGNO6bwTnzOk7Hwqg2LEXxi7H3sZwG9O8veSHKtwBD30HT1jeu5j0+V7DCQYV//BNs8LuTd66igic0GFpO1M9kxXk1zhsHXpgQxVW9TONinCMpQqkOEUsNEmx6EXmNktBk5vsxtdiiwTCFn9/pZv8m5V0AeLETyKnyZIVwCMKlOqsURdHD95yTNzJ7F36AH8ckvtdF4q8KvOs2IHKPMrRyaMF3uJRgO3Wl2SN4xBfq6vj5MT+NnZvbG/CIn7SjbHHaRV0xxeQ8yCDO+GUuEGmTmzbtcvmXv0dcMTN1YKI4Cpj4c1mztueSxMr4ttNyrdUFo=;S5tXr8XWROOVb4sIAj7eeA=="
 ---

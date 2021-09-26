@@ -295,6 +295,20 @@ related:
         width: 1356
         height: 750
         isCached: true
+  - title: "Tesla Releases Latest Version of 'Full Self Driving Capability,' but It Requires Owners to Pass a Safety Test"
+    excerpt: "With the release of the beta version of Tesla's Full Self-Driving Capability, Consumer Reports says the required seven-day driver evaluation underscores the system’s own limitations."
+    publishedDateTime: 2021-09-25T19:46:00Z
+    webUrl: "https://www.consumerreports.org/car-safety/car-safety-tesla-full-self-driving-capability-beta-a6537700136/"
+    type: article
+    provider:
+      name: Consumer Reports
+      domain: consumerreports.org
+    quality: 35
+    images:
+      - url: "https://article.images.consumerreports.org/image/upload/v1632589204/prod/content/dam/CRO-Images-2021/Cars/09Sept/CR-Cars-InlineHero-Tesla-Model-Y-driving-ATC-9-21"
+        width: 1199
+        height: 674
+        isCached: true
   - title: "Tesla's 'Full Self-Driving' Isn't What Elon Musk Says It Is. Now the Government Is Calling Him Out"
     excerpt: "The head of the National Highway Safety Board says Tesla should stop talking about 'full self-driving' cars until they can actually do that."
     publishedDateTime: 2021-09-22T08:01:00Z

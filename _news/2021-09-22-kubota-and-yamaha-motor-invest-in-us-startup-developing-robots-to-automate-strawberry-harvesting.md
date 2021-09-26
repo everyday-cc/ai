@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Yamaha Gets Into Agritech, Invests in Robots That Harvest Strawberries"
-    excerpt: "Automated farming solutions are not a new thing, as more and more manufacturers look to robots for their agricultural needs. Yamaha joins the trend and takes its first step by investing in a robotic strawberry harvester."
-    publishedDateTime: 2021-09-21T07:32:00Z
-    webUrl: "https://www.autoevolution.com/news/yamaha-gets-into-agritech-invests-in-robots-that-harvest-strawberries-169838.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 39
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/yamaha-gets-into-agritech-invests-in-robots-that-harvest-strawberries-169838-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
   - title: "Kubota and Yamaha Motor invest in US startup developing robots to automate strawberry harvesting"
     excerpt: "Kubota Corporation and the Yamaha Motor Co., Ltd. have additionally invested in U.S. startup Advanced Farm Technologies. AFT is a U.S.-based startup seeking to raise efficiency in"
     publishedDateTime: 2021-09-21T13:38:00Z

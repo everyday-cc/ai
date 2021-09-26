@@ -7,7 +7,7 @@ originalUrl: "https://semiengineering.com/microelectronics-and-the-ai-revolution
 webUrl: "https://semiengineering.com/microelectronics-and-the-ai-revolution/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Breaking down decision intelligence - and why it's not the same as artificial intelligence"
-    excerpt: "Despite Artificial Intelligence (AI) being long-heralded as the next evolution in dealing with business data, it is used as a catch-phrase or buzzword so often that the underlying meaning and value that it can bring has been lost."
-    publishedDateTime: 2021-09-21T08:30:00Z
-    webUrl: "https://www.itproportal.com/features/breaking-down-decision-intelligence-and-why-its-not-the-same-as-artificial-intelligence/"
-    ampWebUrl: "https://www.itproportal.com/amp/features/breaking-down-decision-intelligence-and-why-its-not-the-same-as-artificial-intelligence/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/breaking-down-decision-intelligence-and-why-its-not-the-same-as-artificial-intelligence/"
+  - title: "AI and the 6 Levels of IT Automation"
+    excerpt: "We are moving aggressively into a period of automation across IT services. See the 6 levels of automation facing IT:"
+    publishedDateTime: 2021-09-21T18:17:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/ai-6-levels-it-automation/"
     type: article
     provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 47
+      name: Datamation
+      domain: datamation.com
+    quality: 37
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/7wpkwZ96dcE55zQ5nmxUST-1200-80.jpg"
-        width: 800
-        height: 500
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-5-scaled.jpeg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "5 Artificial Intelligence Grand Challenges for the Electric Power Industry"
+    excerpt: "Overview The Artificial Intelligence (AI) and electric power industries are two large, impactful industry sectors that can both benefit greatly from interactions and collaborations but have not traditionally interacted significantly – both due to a lack of sufficient industry data as well as the electric power industry’s need for reliability,"
+    publishedDateTime: 2021-09-22T10:48:00Z
+    webUrl: "https://energycentral.com/c/pip/5-artificial-intelligence-grand-challenges-electric-power-industry"
+    type: article
+    provider:
+      name: Energy Central
+      domain: energycentral.com
+    quality: 35
+    images:
+      - url: "https://energycentral.com/sites/default/files/styles/og_meta/public/ece/node_main/2021/21/grand20challenge20images.png?itok=YYRCA7F7"
+        width: 868
+        height: 336
         isCached: true
 
 secured: "kdERRaujrUar90irAQrvL87fUqYiUMab3hsRAuFY5HI6iP7jP8N/5cHrUFWEBwhNEm1ICWLoKwWbS4G8Bp5qaEtJQUXPVcQaGQjFahj4ygIQNBYW3J1ZzAeDuyG55JlJMjA6T7Q2j3kZBbSeHlAml+M2nWiB1JaPKEzl4u1Shmv0s4ou5ZnpFyBmn6a6Xvw08CAOSEMO9BiC/hhKoHpNcN+6ZXgW4m2FMk/wZvX3RtNZUnaaE7hAE4B8z0s4VFx/mfQpIDpEqlgU/uj5GYHoDXzs0/UeuTzdu7yUHzEAGK1TKgvLsURMmHLzNn2QFGNAMFMPKeIUxSG7CjO9de1pACohiJk+bAlmCS9gf+N0ZgM7mph1ZVjhR+uOQYLYIDH5Xt/LL7sVu6K58vgaBEQQO0zb3Y9IycQ1Epty2u6/SAPvLCdhxQgFGWMw/v74YJJId4Neu/5Sob0cTz2mg8pGKyWRbiJYHjZzShHxrpqeBDGR7DWoYstBgQsPkecXsRhKRDaC8UlR/ZGmAl+tjm3OoA==;Ua79kRhkG5bXz+Gziy+zFg=="

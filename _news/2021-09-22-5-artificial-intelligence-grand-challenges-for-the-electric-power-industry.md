@@ -24,19 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "AI adoption in the ETF industry begins to grow"
-    excerpt: "Industry figures are divided on whether the systems can truly remove human bias and how much supervision they need"
-    publishedDateTime: 2021-09-25T16:00:00Z
-    webUrl: "https://www.ft.com/content/775c9361-4921-4e72-973e-d672d8a60084"
+  - title: "Microelectronics And The AI Revolution"
+    excerpt: "The recent AI Hardware Summit showcased trends in AI/ML, both in enabling and using it in various application domains, including EDA. As part of the summit, Imec had organized a panel on “Advanced Microelectronics Technologies Driving the AI Revolution."
+    publishedDateTime: 2021-09-23T07:03:00Z
+    webUrl: "https://semiengineering.com/microelectronics-and-the-ai-revolution/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 39
+    images:
+      - url: "https://i2.wp.com/semiengineering.com/wp-content/uploads/Cadence_microelectronics-and-AI-revolution-fig1-AI-Use-and-Enablement.jpeg?fit=640%2C289&#038;ssl=1"
+        width: 640
+        height: 289
+        isCached: true
+  - title: "AI and the 6 Levels of IT Automation"
+    excerpt: "We are moving aggressively into a period of automation across IT services. See the 6 levels of automation facing IT:"
+    publishedDateTime: 2021-09-21T18:17:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/ai-6-levels-it-automation/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
     quality: 37
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6bf94666-f096-4ca6-a793-781625785692.jpg?source=next-opengraph&fit=scale-down&width=900"
-        width: 900
-        height: 506
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-5-scaled.jpeg"
+        width: 2560
+        height: 1707
         isCached: true
 
 secured: "5n/XFY6m1HbbovdcqFGml47txj8jTgtPLd4P2wgZDufGTR5sGrK0bUM8T14ggQxy1+cNK55IJVechZIU3o3hrY0DQuRD52nVYVntWgglLG4Rhmp0pbI0kl1sXB9piZKh8XXLv+i3BDQNt8QV6C6j8WTUNNnxiHrbT+wuHvma7/z9Qz5rPVf6qFJUtEAnpyNuOAFmbEGxWjWNjxAj6UDLKu6dQfrUoRExKP6xoCqn4PvC4cgdTdku6kVCIHn1V6VUEHCZliDabsEd6YYgNSKJd6PHMTJMxcE4JQbeN0ZUoRasFYd0lgBT35z+QtFU3rWpF+FHe8IF/rqsV4SGww5GUgzg5TVTcJKs3tl6LEfkukA=;TU6u9eYHJv1Bo73WGaJc/w=="

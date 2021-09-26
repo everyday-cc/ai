@@ -47,20 +47,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Edtech Startup Expertrons Raises Funding"
-    excerpt: "Mumbai-based professional growth-focused AI videobot startup Expertrons on Tuesday announced to have raised an undisclosed sum from industry veterans Kunal Shah (founder, CRED) and Anant Maheshwari (president,"
-    publishedDateTime: 2021-09-21T08:03:00Z
-    webUrl: "https://www.entrepreneur.com/article/386674"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1632211382-LtoRJatinSolankiVivekGuptaFoundersExpertronsv1.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Hayden AI Raises $20M in Series A Funding Led by TYH Ventures to Scale their Autonomous Traffic Management Platform"
     excerpt: "21, 2021 /PRNewswire/ -- Hayden AI, a leading smart city solutions provider that developed the world's first autonomous traffic management platform, today announced $20 million in Series A funding ..."
     publishedDateTime: 2021-09-21T21:24:00Z

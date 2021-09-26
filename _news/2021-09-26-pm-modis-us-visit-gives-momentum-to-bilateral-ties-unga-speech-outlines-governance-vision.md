@@ -56,18 +56,18 @@ related:
         height: 857
         isCached: true
   - title: "PM Modi invokes Chanakya, Tagore in his UNGA speech"
-    excerpt: "Prime Minister Narendra Modi invoked acharya Chanakya BJP ideologue Deen Dayal Upadhyaya and Nobel laureate Rabindranath Tagore in his speech at United Nation"
-    publishedDateTime: 2021-09-25T19:50:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271301395/pm-modi-invokes-chanakya-tagore-in-his-unga-speech"
+    excerpt: "The Prime Minister ended his speech quoting the words of Nobel laureate ... on Friday and proposed a common international travelling protocol involving mutual recognition of the COVID-19 vaccination certificate. PM Modi arrived in Washington on Wednesday ..."
+    publishedDateTime: 2021-09-26T00:30:00Z
+    webUrl: "https://www.aninews.in/news/national/general-news/pm-modi-invokes-chanakya-tagore-in-his-unga-speech20210926002957/"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
+      name: Asian News International
+      domain: aninews.in
     quality: 24
     images:
-      - url: "https://cdn.bignewsnetwork.com/ani1632598969.jpg"
-        width: 630
-        height: 420
+      - url: "https://aniportalimages.s3.amazonaws.com/media/details/lastmondigs2509620210925173436ihiui20210925185915.jpg"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "PIXe2V1+7qEgAPnSC9VYwh2HMbFUMfaupA86CONL3yNraE6LK/oownB/T3nMWuDdALrEl+bOdFq927vcchZpwEIGoX+4kDoZbOvOvHJ6R0bQyTi4W6GnOh1ZzFSxNsQHTnGoGStNOxe25D6/CZfIav75Kja6ZPL8m0ucrypk3v1uyfaIh9/PX9TyXqqej6T8MUtgCtM2VM6OMpWZwxkIA4ELojE69Zpuupq/e6RSr+UTCSv8gcgdxl+n54w+ErdPwJsVHt4Occgs2F6BiWh/DoqGAJ9TabY4ijOkhFVbG5DXwswwFQMK2hgG+qH5a8FqjShaxr/g54tdwt6GYo7d8CTIvlqQxkETK/dELr2jXWwRJqDooF+nerzUjS5fHxk6TqPmlxa44JLp/n8fsOVdABSPcfC4mSs9SLRZr2+uLQ8DI4RIQCnBfAMpGhKOkBYcDnMJA9AmdsPDi0HgrAITnE5ZbR0QnjyoZ8Md8zzXxV5FOga4L511KG6tV5eI4FBX3wmtqPDHWUqVY9RUJt8ZHw==;rlg7PBTvB34Lyfp1ngs+aQ=="

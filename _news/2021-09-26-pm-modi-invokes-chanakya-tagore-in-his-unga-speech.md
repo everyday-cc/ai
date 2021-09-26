@@ -1,27 +1,27 @@
 ---
 category: news
 title: "PM Modi invokes Chanakya, Tagore in his UNGA speech"
-excerpt: "Prime Minister Narendra Modi invoked acharya Chanakya BJP ideologue Deen Dayal Upadhyaya and Nobel laureate Rabindranath Tagore in his speech at United Nation"
-publishedDateTime: 2021-09-25T19:50:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/271301395/pm-modi-invokes-chanakya-tagore-in-his-unga-speech"
-webUrl: "https://www.bignewsnetwork.com/news/271301395/pm-modi-invokes-chanakya-tagore-in-his-unga-speech"
+excerpt: "The Prime Minister ended his speech quoting the words of Nobel laureate ... on Friday and proposed a common international travelling protocol involving mutual recognition of the COVID-19 vaccination certificate. PM Modi arrived in Washington on Wednesday ..."
+publishedDateTime: 2021-09-26T00:30:00Z
+originalUrl: "https://www.aninews.in/news/national/general-news/pm-modi-invokes-chanakya-tagore-in-his-unga-speech20210926002957/"
+webUrl: "https://www.aninews.in/news/national/general-news/pm-modi-invokes-chanakya-tagore-in-his-unga-speech20210926002957/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Asian News International
+  domain: aninews.in
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/ani1632598969.jpg"
-    width: 630
-    height: 420
+  - url: "https://aniportalimages.s3.amazonaws.com/media/details/lastmondigs2509620210925173436ihiui20210925185915.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -70,6 +70,6 @@ related:
         height: 450
         isCached: true
 
-secured: "IjfYjWgkmit5lxU5ZSfqVBalgjzXlVxXaRgU41pLdV+JBoTxR0Nt0GggBG2Z04haSniFFs9rVkUNJEMWIfYx+RVqFpAaYMx2mP0ZU7sXpLu2VyzOZQKay5iJFIz23GQqAhUtoRBAeYBQV2lnEL+JpEKThYT3g5o7MobLbfpwDH5/+C1lJF//st1A3wA1PeEvvK7kvqxduAmUryTholHdUr9MMw1I4XiKDy/xSfg2OB8lhuXbIhfw93RbmOJReBbqgr0RXsHkgXrlu6btv3J009IqOLtxUdSeC3wBpX4jw5QZ6Q070gm6efKJ1N090gP5l8lJ9jOkRNla63CRVQ3gVUr7l5JZptW+fyUyAbDw5WI8FrmgYk9dujbEnht4vB/S9cX0J18XmitiRBKqbLCbbVxn0EAL7wpvO8VDwT3vQKMw0K+SJjOYTsn6qb2A/A38DfgYjO06hZAsnbY3H4LP/GM6ETldn5KJxd6zO+JRr1s0piQSWytxRAHLIB+NxNFFPAEt9sVeb5p8i0gWqhvj3Q==;WkrwGLHcXQy4qS60Foz+0g=="
+secured: "GiZJ5UFWm6YcXI0iQCEemGciqH1IAjcdU5xdaEnatiG7aq6IS1luDFz88JbyL/4ymERiCAidqT8AslZz/yptegMUpq14cfxL6F9a+ucoqrX9Zz3rXSGnxJPU4xiv7M1VI6rGNO1OM7DMHuSn2dLmEWw094VTQSyRWIRMu7JUC1QcPX5p1SFx7abfmGRJ/J/yK4ckZELsNqCZZ49tLP+rIKMgb4myHd41hwc5NDXLmUpXFV009vl3XwAPE2AsmJdTTcvGMO218OOjUAy2lT8GYkSeMQlHW0+S79GLbSuY+8vvl+WmzngAWGQoLgbGgdhx6SNolug1ekmegjXYA9yfsE18O+sOVXx3GsKbv3JDLKs=;JheVe2LNydV3vOQ1VhaHMQ=="
 ---
 
