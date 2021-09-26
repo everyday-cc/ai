@@ -69,6 +69,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "How artificial intelligence is making health care more human"
+    excerpt: "Health-care institutions have been anticipating the impact that artificial intelligence (AI) will have on the performance and efficiency of their operations and their workforces—and the quality of patient care."
+    publishedDateTime: 2021-09-22T14:33:00Z
+    webUrl: "https://www.healthcaredive.com/spons/how-artificial-intelligence-is-making-health-care-more-human/606994/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 39
+    images:
+      - url: "https://www.healthcaredive.com/user_media/cache/8e/b0/8eb08ec8d2bbb7c399d88f1fbfe3dad4.jpg"
+        width: 770
+        height: 364
+        isCached: true
   - title: "Health care needs to transform, Mayo CEO says. Here's why time is right"
     excerpt: "The Covid-19 pandemic accelerated the pace of change in health care by a decade, the Mayo Clinic CEO said on a visit to Jacksonville."
     publishedDateTime: 2021-09-22T10:00:00Z

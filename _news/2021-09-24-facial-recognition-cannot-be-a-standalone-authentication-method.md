@@ -37,20 +37,6 @@ related:
         width: 642
         height: 361
         isCached: true
-  - title: "CT town at forefront of national debate over facial recognition tech"
-    excerpt: "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning governmental use of facial recognition technology."
-    publishedDateTime: 2021-09-21T18:13:00Z
-    webUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b"
-    type: article
-    provider:
-      name: New Haven Register
-      domain: nhregister.com
-    quality: 41
-    images:
-      - url: "https://s.hdnux.com/photos/01/20/22/56/21048234/21/rawImage.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
   - title: "Concerns over facial recognition in roll-out of Garda body-cams"
     excerpt: "The meeting heard from a number of concerned bodies regarding the proposed application of the bill, which was first announced last April"
     publishedDateTime: 2021-09-22T05:30:00Z

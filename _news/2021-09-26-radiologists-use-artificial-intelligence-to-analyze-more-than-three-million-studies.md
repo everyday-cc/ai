@@ -8,8 +8,8 @@ webUrl: "https://www.mos.ru/en/news/item/96369073/"
 ampWebUrl: "https://www.mos.ru/amp/en/news/item/96369073/"
 cdnAmpWebUrl: "https://www-mos-ru.cdn.ampproject.org/c/s/www.mos.ru/amp/en/news/item/96369073/"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://www.mos.ru/upload/newsfeed/newsfeed/rentgen(320)(1)(1).jpg"

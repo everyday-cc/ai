@@ -38,20 +38,6 @@ related:
         width: 640
         height: 289
         isCached: true
-  - title: "AI and the 6 Levels of IT Automation"
-    excerpt: "We are moving aggressively into a period of automation across IT services. See the 6 levels of automation facing IT:"
-    publishedDateTime: 2021-09-21T18:17:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/ai-6-levels-it-automation/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 37
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-5-scaled.jpeg"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "5n/XFY6m1HbbovdcqFGml47txj8jTgtPLd4P2wgZDufGTR5sGrK0bUM8T14ggQxy1+cNK55IJVechZIU3o3hrY0DQuRD52nVYVntWgglLG4Rhmp0pbI0kl1sXB9piZKh8XXLv+i3BDQNt8QV6C6j8WTUNNnxiHrbT+wuHvma7/z9Qz5rPVf6qFJUtEAnpyNuOAFmbEGxWjWNjxAj6UDLKu6dQfrUoRExKP6xoCqn4PvC4cgdTdku6kVCIHn1V6VUEHCZliDabsEd6YYgNSKJd6PHMTJMxcE4JQbeN0ZUoRasFYd0lgBT35z+QtFU3rWpF+FHe8IF/rqsV4SGww5GUgzg5TVTcJKs3tl6LEfkukA=;TU6u9eYHJv1Bo73WGaJc/w=="
 ---

@@ -1,20 +1,30 @@
 ---
 category: news
 title: "4 Stocks to Benefit From Continued Demand for AI"
-excerpt: "Thanks to these conveniences, companies around the world look set to increase their spending on AI solutions. Per a report by the International Data Corporation published on Aug 4, worldwide revenues for the AI market are expected to grow 15."
-publishedDateTime: 2021-09-20T10:59:00Z
-originalUrl: "https://www.nasdaq.com/articles/4-stocks-to-benefit-from-continued-demand-for-ai-2021-09-20"
-webUrl: "https://www.nasdaq.com/articles/4-stocks-to-benefit-from-continued-demand-for-ai-2021-09-20"
+excerpt: "Companies look set to increase their spending on AI to reap its myriad benefits, making it wise to look at names like NVIDIA (NVDA), Microsoft"
+publishedDateTime: 2021-09-20T13:01:00Z
+originalUrl: "https://www.entrepreneur.com/article/386471"
+webUrl: "https://www.entrepreneur.com/article/386471"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "pfWKIV0SLvJ5unwoQdMbOdimQ3hRrzHb9JcLqilXB0kezWCUfjmaU00ltAP7ZC+khtVpfj/6qi7b/sUwmkEILPsbTOWsOidm0dQhV5qIU5FR5KexqG4B5nsw85rHsbm5Bb0j2aJ2LEBqxoGajv7laaiHIE3KNgzm9VlDTKBBmzsuo4w75UD4pFMPFNZWSVSI1cEE8H2HZDpylLadkoJ/9UWmw6cmtErQVasmvkfYfQ+eksnUZXc93CqYythgG789NMw/wheefkGvGzE5VJ++Bb9lHOe1H4q+4amr9bb3a2ASnP85u0SblGsNrhqsW+bTSux4mhPd9ZOm3ewUFCABJ7jXBnmmWtxY821n0+hbBbQ=;VX1kBmsZ4Oo09tXoUNyxCw=="
+images:
+  - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-386471.jpeg"
+    width: 635
+    height: 400
+    isCached: true
+
+secured: "IjshtJq/ivn+8YnWPw+w8Xb9Gvdx1nhKKT2C9DvGd9DZioOC57J7AJ9cvgw5IUvWgSUhtrpFArq/j93Qt7BuK7SP/2/WqpAP5lzUWtOUD8sUvCf2tYucHOoNRrz1aRZUcd/jXJDf5jTTVchHd3uM5XFO4qGdDpGtCQq/GVe78xKtmtiz7vZKR8voavHfbj8jjlwvry0bnu2tNI50OBfEBuh5CwDbn0aZtR7tHMidV9n3z768aoh336l7/cT/h1wGvvhg6o3mNopDTXIVFBYNP/iByOmU13X47yBspkWa/PkTNkFARq6ZekE8Cq91Q1/86WRYC2CIR0aHtj/Avrg+7k/LY5tYhyXBPQtr+PIa6es=;77c+Kaghy4sKnctoqR4sdw=="
 ---
 

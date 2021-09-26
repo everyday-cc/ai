@@ -54,22 +54,6 @@ related:
         width: 2290
         height: 1322
         isCached: true
-  - title: "Amazon’s AI Cameras Can Punish Drivers For Not Following Instructions On The Road, New Report Says"
-    excerpt: "Advertisement In early 2021, Amazon installed AI-powered cameras in its delivery vehicles in Los Angeles. Derek, a delivery driver at the facility, said his van’s camera began to falsely penalise him whenever cars cut him off,"
-    publishedDateTime: 2021-09-21T17:03:00Z
-    webUrl: "https://wonderfulengineering.com/amazons-ai-cameras-can-punish-drivers-for-not-following-instructions-on-the-road-new-report-says/"
-    ampWebUrl: "https://wonderfulengineering.com/amazons-ai-cameras-can-punish-drivers-for-not-following-instructions-on-the-road-new-report-says/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/amazons-ai-cameras-can-punish-drivers-for-not-following-instructions-on-the-road-new-report-says/amp/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 43
-    images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/09/61083ead372268001a5941b5.jpg"
-        width: 1300
-        height: 975
-        isCached: true
 
 secured: "kr34Sttm6I+OMzkiHE9UPq6Fn+fGWTITAag2/6YcomMQLUdS4VJZrASedv8qugmxUsB72Tu56fUdaD9bDAJk1nozgnIt5jYw9KSEAe5F3CXDodat5AoDyQ3P77NahdOgf4JrloXC3SE7pL6ctaSgdd107wEV/WLyu6apNX0HMNG7f/gdNntPKu8CnHhg3Wx1SjnN1Ih+EtM6iSJACrffZSYZiICLX+DOCZnRxw7SiizqKhnCgePC+HJ7LtTZWgjnkXLjbOMfcpmqLN0RU4AeF2m/HMQc6sMjzRGPMbOxBwSpb9Qz1JVJdYOKseWsAHjYtlNQMFvdHFv64xsUOHU6J+mvRdqnWsgU5/psRVwxb1I=;NM5IpPU9jx4wXujZ9lNn1g=="
 ---

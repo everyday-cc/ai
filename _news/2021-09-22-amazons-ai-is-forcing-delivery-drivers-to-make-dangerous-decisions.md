@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/amazon-ai-forcing-drivers-make-dangero
 webUrl: "https://thenextweb.com/news/amazon-ai-forcing-drivers-make-dangerous-decisions"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://mediadc.brightspotcdn.com/dims4/default/a679fb5/2147483647/strip/true/crop/2290x1322+0+0/resize/2290x1322!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F2a%2F6d%2Ff184679247d793281423246bfa6e%2Fwb.Transpo.jpg"
         width: 2290
         height: 1322
-        isCached: true
-  - title: "Amazon’s AI Cameras Can Punish Drivers For Not Following Instructions On The Road, New Report Says"
-    excerpt: "Advertisement In early 2021, Amazon installed AI-powered cameras in its delivery vehicles in Los Angeles. Derek, a delivery driver at the facility, said his van’s camera began to falsely penalise him whenever cars cut him off,"
-    publishedDateTime: 2021-09-21T17:03:00Z
-    webUrl: "https://wonderfulengineering.com/amazons-ai-cameras-can-punish-drivers-for-not-following-instructions-on-the-road-new-report-says/"
-    ampWebUrl: "https://wonderfulengineering.com/amazons-ai-cameras-can-punish-drivers-for-not-following-instructions-on-the-road-new-report-says/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/amazons-ai-cameras-can-punish-drivers-for-not-following-instructions-on-the-road-new-report-says/amp/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 43
-    images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/09/61083ead372268001a5941b5.jpg"
-        width: 1300
-        height: 975
         isCached: true
   - title: "AI Is Penalizing Amazon Delivery Drivers for Errors They Aren’t Making"
     excerpt: "Amazon drivers are being penalized for driving mistakes they aren't making, and it's costing delivery companies a great deal of money."

@@ -43,6 +43,22 @@ related:
         width: 850
         height: 400
         isCached: true
+  - title: "MeitY Startup Hub and AWS collaborate to support startup growth in India"
+    excerpt: "MeitY Startup Hub and AWS will work together to identify startups with deep technology capabilities.Initially, the collaboration will focus on startups addressing healthcare, agriculture, public safety,"
+    publishedDateTime: 2021-09-26T11:29:00Z
+    webUrl: "https://www.livemint.com/news/india/meity-startup-hub-and-aws-collaborate-to-support-startup-growth-in-india-11632653878805.html"
+    ampWebUrl: "https://www.livemint.com/news/india/meity-startup-hub-and-aws-collaborate-to-support-startup-growth-in-india/amp-11632653878805.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/meity-startup-hub-and-aws-collaborate-to-support-startup-growth-in-india/amp-11632653878805.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 58
+    images:
+      - url: "https://images.livemint.com/img/2021/09/26/600x338/aws-kMdH--621x414@LiveMint_1632655708567.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Share India set to disrupt algo-trading and fintech industry with two strategic acquisitions"
     excerpt: "Share India Securities Limited has announced the acquisition of two companies, namely - Algowire Trading Technologies Private Limited and Utrade Solutions Private Limited."
     publishedDateTime: 2021-09-23T06:30:00Z

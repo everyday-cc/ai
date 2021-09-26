@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI and the 6 Levels of IT Automation"
-    excerpt: "We are moving aggressively into a period of automation across IT services. See the 6 levels of automation facing IT:"
-    publishedDateTime: 2021-09-21T18:17:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/ai-6-levels-it-automation/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 37
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-5-scaled.jpeg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "5 Artificial Intelligence Grand Challenges for the Electric Power Industry"
     excerpt: "Overview The Artificial Intelligence (AI) and electric power industries are two large, impactful industry sectors that can both benefit greatly from interactions and collaborations but have not traditionally interacted significantly – both due to a lack of sufficient industry data as well as the electric power industry’s need for reliability,"
     publishedDateTime: 2021-09-22T10:48:00Z
