@@ -42,6 +42,20 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "How artificial intelligence is making health care more human"
+    excerpt: "Health-care institutions have been anticipating the impact that artificial intelligence (AI) will have on the performance and efficiency of their operations and their workforces—and the quality of patient care."
+    publishedDateTime: 2021-09-22T14:33:00Z
+    webUrl: "https://www.healthcaredive.com/spons/how-artificial-intelligence-is-making-health-care-more-human/606994/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 39
+    images:
+      - url: "https://www.healthcaredive.com/user_media/cache/8e/b0/8eb08ec8d2bbb7c399d88f1fbfe3dad4.jpg"
+        width: 770
+        height: 364
+        isCached: true
   - title: "GE Healthcare Introduces Revolution Ascend, a New CT System to Increase Operational Efficiency & Patient Comfort"
     excerpt: "GE Healthcare today unveiled Revolution Ascend vi with Effortless Workflow, offering clinicians a collection of artificial intelligence technologies that automate and simplify time-consuming tasks to increase operational efficiency and free up time for clinicians to deliver more personalized care to more patients."
     publishedDateTime: 2021-09-21T17:29:00Z

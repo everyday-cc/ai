@@ -257,6 +257,20 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "Tesla's 'Full Self Driving' request button goes live"
+    excerpt: "Electric vehicle Tesla users who wish to take part in the company's Full Self-Driving (FSD) Beta programme could no"
+    publishedDateTime: 2021-09-26T07:42:00Z
+    webUrl: "https://menafn.com/1102864523/Teslas-Full-Self-Driving-request-button-goes-live"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2021-09/26/I_1361bimage_story.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Tesla drivers using 'full self-driving' Autopilot pay less attention to their surroundings"
     excerpt: "Tech giant Tesla is due to launch the latest version of its Autopilot “full self-driving” technology to owners this autumn, but new research has revealed that the system could be making drivers inattentive to their surroundings."
     publishedDateTime: 2021-09-21T15:10:00Z

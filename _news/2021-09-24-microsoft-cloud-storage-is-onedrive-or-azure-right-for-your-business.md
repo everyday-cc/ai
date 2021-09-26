@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Datawiza Adds Support for Microsoft Azure Active Directory Conditional Access to Deliver Zero Trust Security"
-    excerpt: "Datawiza, a pioneer in cloud-delivered Access Management as a Service (AMaaS), today announced support for Azure Active Directory (Azure AD) Conditional Access in its Access Management platform, making it easier and faster for joint customers"
-    publishedDateTime: 2021-09-21T13:05:00Z
-    webUrl: "https://www.lelezard.com/en/news-20007164.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 52
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Principled Technologies Tests Deep Learning Inference Performance on Microsoft Azure Virtual Machines Powered by Intel"
     excerpt: "Principled Technologies tested newer Microsoft Azure Esv4-series VMs featuring Intel Xeon Platinum 8272CL processors against older Esv3-series VMs"
     publishedDateTime: 2021-09-24T07:00:00Z
@@ -209,17 +195,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 36
-  - title: "Voice And Speech Recognition Software Market Next Big Thing | Major Giants: Microsoft, Alphabet, Nuance Communications"
-    excerpt: "A new business intelligence report released by Advance Market Analytics with title Global Voice And Speech Recognition Software Market Insights forecast to 2027 This report provides a detailed overview of key factors in the Global Voice And Speech Recognition Software"
-    publishedDateTime: 2021-09-21T14:45:00Z
-    webUrl: "https://www.openpr.com/news/2401275/voice-and-speech-recognition-software-market-next-big-thing"
-    ampWebUrl: "https://www.openpr.com/amp/2401275/voice-and-speech-recognition-software-market-next-big-thing"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2401275/voice-and-speech-recognition-software-market-next-big-thing"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 32
   - title: "AtScale Expands Semantic Layer Solution for Microsoft Excel"
     excerpt: "AtScale expands integrations with Microsoft Excel enabling high-performance, multi-dimensional analysis on live cloud data."
     publishedDateTime: 2021-09-23T18:34:00Z

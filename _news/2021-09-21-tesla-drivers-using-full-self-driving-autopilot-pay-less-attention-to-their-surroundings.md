@@ -259,6 +259,20 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "Tesla's 'Full Self Driving' request button goes live"
+    excerpt: "Electric vehicle Tesla users who wish to take part in the company's Full Self-Driving (FSD) Beta programme could no"
+    publishedDateTime: 2021-09-26T07:42:00Z
+    webUrl: "https://menafn.com/1102864523/Teslas-Full-Self-Driving-request-button-goes-live"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2021-09/26/I_1361bimage_story.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Pass the Test and Tesla Owners Might Get Full Self-Driving Beta Access"
     excerpt: "The wait is almost over for some Tesla Inc. customers to get access to driver-assistance technology the company has marketed in controversial ways — as long as they’re on their best behavior."
     publishedDateTime: 2021-09-24T16:30:00Z

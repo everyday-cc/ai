@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-g
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/amp/"
 type: article
 quality: 103
-heat: 333
+heat: 343
 published: true
 
 provider:
@@ -247,6 +247,20 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/35eccec/2147483647/strip/true/crop/1723x1152+163+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa7%2Fd5%2F8809f9c34d5a5106724b57a3a83d%2Fla-1516891360-5lr9wec3h2-snap-image"
         width: 320
         height: 214
+        isCached: true
+  - title: "Tesla's 'Full Self Driving' request button goes live"
+    excerpt: "Electric vehicle Tesla users who wish to take part in the company's Full Self-Driving (FSD) Beta programme could no"
+    publishedDateTime: 2021-09-26T07:42:00Z
+    webUrl: "https://menafn.com/1102864523/Teslas-Full-Self-Driving-request-button-goes-live"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2021-09/26/I_1361bimage_story.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "Tesla drivers using 'full self-driving' Autopilot pay less attention to their surroundings"
     excerpt: "Tech giant Tesla is due to launch the latest version of its Autopilot “full self-driving” technology to owners this autumn, but new research has revealed that the system could be making drivers inattentive to their surroundings."

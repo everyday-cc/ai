@@ -43,6 +43,17 @@ related:
         width: 918
         height: 506
         isCached: true
+  - title: "Russia Calls For Mutual Recognition Of COVID Vaccines"
+    excerpt: "Russian Foreign Minister Sergey Lavrov says Moscow supports mutual recognition by countries of COVID-19 vaccines approved by other states."
+    publishedDateTime: 2021-09-26T06:17:00Z
+    webUrl: "https://www.rferl.org/a/russia-covid-vaccines-approval/31478588.html"
+    ampWebUrl: "https://www.rferl.org/amp/russia-covid-vaccines-approval/31478588.html"
+    cdnAmpWebUrl: "https://www-rferl-org.cdn.ampproject.org/c/s/www.rferl.org/amp/russia-covid-vaccines-approval/31478588.html"
+    type: article
+    provider:
+      name: Radio Free Europe/Radio Liberty
+      domain: rferl.org
+    quality: 24
 
 secured: "cZi0i8uv0T0bo00bhTZVOZizNE8QA7lN3z9sWIaYaGy7nrZDDorGPPJfQ0ZBdRVIgufotPrjLpnYHg58c9IB9x75Li1U6YvaMYn5wLD6FJK8KxFrhll6Nc0Wjt8ui149Fta0k2pTJ/ARIR1FHHVnWtw97KPrVyJeLmCkIQGddEOolKJzGvwKHyGDl8WP2bRGFsnYbhaFUbcH5tpN2W1E7hqbCGmUFrCVG3T6fd32EZmSsj3KgakYN5P4OOGmeF18rag8f9v0/Bo3i/OWM+Ku2H02zNzryULTXVr7WjhcTr2rl1aYBYZbkGABhy5eYobXAX9BreUU3+/z/ULxsuyiRKUH5v+TvHtNdJ92/vKAOPq87WFNT9ZzJFyZaY6YYajO/qxh6AN+3M404IxNcfs32at8Oy5dbmRgLDJWslf9DXRnsB0tjcz0AsViOKngAkvS9keli4lBsVepwWqCeblgzzs+L82HaZmKYKn+YrLE/FbPout91NdcAD3HwbfCSk8T+8ZrpvfImVqPD20mNsGi+g==;VX68GnI80Yur8dv/+XkY+g=="
 ---

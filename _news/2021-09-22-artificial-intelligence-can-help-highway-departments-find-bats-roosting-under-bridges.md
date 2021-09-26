@@ -25,22 +25,6 @@ images:
 
 related:
   - title: "Artificial intelligence can help highway departments find bats roosting under bridges"
-    excerpt: "Photographs and computer vision techniques using artificial intelligence are able to detect the presence of bats on bridges automatically with over 90% accuracy, according to our new study."
-    publishedDateTime: 2021-09-21T13:48:00Z
-    webUrl: "https://techxplore.com/news/2021-09-artificial-intelligence-highway-departments-roosting.html"
-    ampWebUrl: "https://techxplore.com/news/2021-09-artificial-intelligence-highway-departments-roosting.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-artificial-intelligence-highway-departments-roosting.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 50
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-33.jpg"
-        width: 1000
-        height: 537
-        isCached: true
-  - title: "Artificial intelligence can help highway departments find bats roosting under bridges"
     excerpt: "Photographs and computer vision techniques using artificial intelligence are able to detect the presence of bats on bridges automatically with over 90% accuracy, according to our new study. More than 40 species of bats are found in the U."
     publishedDateTime: 2021-09-22T20:59:00Z
     webUrl: "https://www.outlookindia.com/newsscroll/artificial-intelligence-can-help-highway-departments-find-bats-roosting-under-bridges/2164664"

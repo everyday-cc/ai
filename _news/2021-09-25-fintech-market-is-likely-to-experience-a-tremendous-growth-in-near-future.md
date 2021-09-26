@@ -59,6 +59,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 44
+  - title: "Artificial Intelligence in Education Market Recent Trends, Growth and High Demand During Forecast by 2030"
+    excerpt: "Introduction. Education is one of the fastest growing industry verticals adopting artificial intelligence. This is due to the g"
+    publishedDateTime: 2021-09-24T19:29:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-education-market-recent-trends-growth-and-high-demand-during-forecast-by-2030/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-education-market-recent-trends-growth-and-high-demand-during-forecast-by-2030/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-education-market-recent-trends-growth-and-high-demand-during-forecast-by-2030/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 37
   - title: "Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Construction market report provides"
     publishedDateTime: 2021-09-24T13:18:00Z
