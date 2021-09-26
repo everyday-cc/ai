@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Gnani.ai launches armour365™ Voice Biometrics software based on patented technologies"
-    excerpt: "Gnani.ai a frontrunner in Conversational AI and voice security domain today announced the launch of its home-grown Voice Biometrics software."
-    publishedDateTime: 2021-09-21T09:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/gnani-ai-launches-armour365™-voice-biometrics-software-based-on-patented-technologies-121092100727_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 30
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/21/full/20210921142704.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "DHS suggests face biometrics bias reduction method, quantifies demographic effects"
     excerpt: "The paper reveals the finding that race and gender sameness contributes about 10 percent to the variation of face biometric similarity scores."
     publishedDateTime: 2021-09-23T23:49:00Z

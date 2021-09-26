@@ -2,15 +2,15 @@
 category: news
 title: "Abductive inference is a major blind spot for AI"
 excerpt: "While an AI winter might dampen interest in deep learning and data-driven AI, it can open a new generation exploration."
-publishedDateTime: 2021-09-25T04:20:00Z
-originalUrl: "https://venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/"
-webUrl: "https://venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/"
-ampWebUrl: "https://venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/amp/"
+publishedDateTime: 2021-09-21T19:50:00Z
+originalUrl: "https://venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/?via=indexdotco"
+webUrl: "https://venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/?via=indexdotco"
+ampWebUrl: "https://venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/?via=indexdotco&amp"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/?via=indexdotco&amp"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: VentureBeat
@@ -32,10 +32,10 @@ images:
 related:
   - title: "Abductive inference is a major blind spot for AI"
     excerpt: "While an AI winter might dampen interest in deep learning and data-driven AI, it can open a new generation exploration."
-    publishedDateTime: 2021-09-21T19:50:00Z
-    webUrl: "https://venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/?via=indexdotco"
-    ampWebUrl: "https://venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/?via=indexdotco&amp"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/?via=indexdotco&amp"
+    publishedDateTime: 2021-09-25T04:20:00Z
+    webUrl: "https://venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/amp/"
     type: article
     provider:
       name: VentureBeat
@@ -61,6 +61,6 @@ related:
         height: 640
         isCached: true
 
-secured: "dtDFhcLjD1caGEVBjeFrFvGGVFGwd0oLnT7pVboTFhpcjUIjrfy0UAdFJNfjy2OXN7tvShk5Xgii3KjZMPP8GEvHzWPTsVShVIouwd35UUjkaYqiaDKf6XvsBaDb7pie9KHWtJkPkeizJbGyYO4luEKftoGV2CYkCvSb1qJUxlwTQBsLJAbj3tafG5OW9hskjFOFg4DcsXxSrzGToTF6IKZG0ZuyTATqF+EtbLboCZPPxEhBEAcOO/fViQgCuPR0l5AuYpnPmRN4+2s8MIroUR5D7xxnmnU0hdAzxdgYnO+7UJJceN2rGvuDtwUhF5l5sF4UYFPBJd8Ps56hmh694rb9OworWQjyWXwea5JujnXv5Ho4cMQt4LgZDGInBzNlTVPldEEeejhIikB0WgbKcmZnTAeTGBQWY39lqpwrtPClIn3YmfwU1DhU+AAdgYWIAPMwx9xJqQSSTTpaBt815vy93p+QTr75n86h70FrB0jAPNcSG/ZhFhNUgwcoJYCM76DtraUojq5EDAmHzTtePQ==;eAzSE6ozGAEEZKIyCz/0yQ=="
+secured: "BFDPOSpQk/eNwWoONk4w+ru0sAzlA26dTK/sL0EbsGRvy4BisHxneqb9sULSdco7eDVBlw/t1ePcntYww0aTgEu2dxIg2azuJ5O0i0GlGm7OofsokeZkgV2ePP00JPBP2veI3p/cP9nHND2TsYfJEzTKNOQPT6q4SO43ygzzJlE0Ll3T1kt7lanJF0zoKvk9rC8Wsmxqaudd3e1Pt508Z7U68ioci6rpO2ppTUvpa2QV3WnBLF4ETZjDDgvuuQpQ7CSQ3LWV/YbVdo5wHlyGsEaKtRZ1ctz3iUK14gDhVWZVn7ocLl7GAlLzdnQNrg2YuOmKIc89gsOOEQ3PsaQB75G0IVolrNnqeVGS1Mr1gwU=;WaEMuWkxtPgdxOQdvSRAjw=="
 ---
 

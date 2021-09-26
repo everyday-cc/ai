@@ -30,6 +30,22 @@ images:
 related:
   - title: "Abductive inference is a major blind spot for AI"
     excerpt: "While an AI winter might dampen interest in deep learning and data-driven AI, it can open a new generation exploration."
+    publishedDateTime: 2021-09-21T19:50:00Z
+    webUrl: "https://venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/?via=indexdotco"
+    ampWebUrl: "https://venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/?via=indexdotco&amp"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/?via=indexdotco&amp"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/09/Myth-of-Artificial-Intelligence-e1632252905596.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Abductive inference is a major blind spot for AI"
+    excerpt: "While an AI winter might dampen interest in deep learning and data-driven AI, it can open a new generation exploration."
     publishedDateTime: 2021-09-25T04:20:00Z
     webUrl: "https://venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/"
     ampWebUrl: "https://venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/amp/"

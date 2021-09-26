@@ -74,20 +74,6 @@ related:
         width: 750
         height: 350
         isCached: true
-  - title: "Global Drone Markets Report 2021-2026: Emerging Trends Include 5G Technology, Drone-In-A-Box, Blockchain, Computer Vision, Fog Computing & IoT"
-    excerpt: "The \"Global Drone Market Report 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The annual Drone Market Report"
-    publishedDateTime: 2021-09-21T10:48:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-drone-markets-report-2021-2026-emerging-trends-include-5g-technology-drone-in-a-box-blockchain-computer-vision-fog-computing--iot-301381301.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
   - title: "US Hyperscale Data Center Market Outlook & Forecast Report 2021-2026 - AI Boosts Liquid Immersion & Direct-To-Chip Cooling Adoption - ResearchAndMarke"
     excerpt: "The \"US Hyperscale Data Center Market - Industry Outlook & Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The US hyperscale data center market by investment is expected to grow at a CAGR of 3."
     publishedDateTime: 2021-09-21T11:42:00Z

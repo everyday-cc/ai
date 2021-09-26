@@ -89,20 +89,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Global Drone Markets Report 2021-2026: Emerging Trends Include 5G Technology, Drone-In-A-Box, Blockchain, Computer Vision, Fog Computing & IoT"
-    excerpt: "The \"Global Drone Market Report 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The annual Drone Market Report"
-    publishedDateTime: 2021-09-21T10:48:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-drone-markets-report-2021-2026-emerging-trends-include-5g-technology-drone-in-a-box-blockchain-computer-vision-fog-computing--iot-301381301.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
 
 secured: "hgsB5xnbf+wEFdJADMFYZSN5D2WQIxJkfqze4kaiqZWEmZ/tMmaSEm6VcoGYUFMuNkPioXoqMYKl/O9Mp6q9psu/piZYnOXkLQfBo48LtlTVwDckvAmhVTr/pRzx3KCNrczn43NCB0Kf51a24uE1f9PI7/n8/y/EuvAAMx5mjGgUcXioD2jQSI10yJQaXwZgTcLcY/XtKnazjPc/kQ9A11Hz0zxYU8THAK3lSp+D3pNbbjt4L/OOYZrpLVlCBEE+mA7ZiMfPRdU4j9YcDRnJWSP+vV/ReRyWO+InrXZbPfYqc0shk9Mkg0lyfahf48jDyEQtkLNineXa70lDSrJvnkHAuMqpn9V6Ail+7ocn50E=;3AWAQlifNhUR+oHbqxpEhA=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 750
         height: 350
         isCached: true
-  - title: "Self-Driving Taxi Market Share, Top Manufacturers, Growth Factor, Industry Size, Future Trends and Forecast till 2026"
-    excerpt: "The Self-Driving Taxi market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis,"
-    publishedDateTime: 2021-09-21T09:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-taxi-market-share-top-manufacturers-growth-factor-industry-size-future-trends-and-forecast-till-2026-2021-09-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Driverless Delivery Vans Market Size, Trends, Growth Factors, Regional Segment Revenue Analysis, 2020–2027"
     excerpt: "Going ahead, the Driverless Delivery Vans market report precisely evaluates the gross profits, revenue shares, sales volume, manufacturing costs, and individual growth rate, and financial positions of the leading market contenders."
     publishedDateTime: 2021-09-22T14:14:00Z

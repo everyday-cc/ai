@@ -24,22 +24,6 @@ images:
     height: 375
     isCached: true
 
-related:
-  - title: "Re3 installs “first of its kind” robot picking system"
-    excerpt: "The waste management body for Bracknell Forest, Reading and Wokingham borough councils, re3 has installed a robotic waste picking system at its Material Recycling Facility (MRF) in Reading, Berkshire."
-    publishedDateTime: 2021-09-21T10:15:00Z
-    webUrl: "https://www.letsrecycle.com/news/re3-installs-first-of-its-kind-robot-picking-system/"
-    type: article
-    provider:
-      name: Letsrecycle.com
-      domain: letsrecycle.com
-    quality: 39
-    images:
-      - url: "https://www.letsrecycle.com/wp-content/uploads/2021/09/Sorting-robot-re2.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-
 secured: "30SVrnIlF228VKh3QWCVphbaFve8bz99ejdj2i5uU1ZwJeUG7gerhM76c2eKTxlKNX3vxexn1ZP8v70sKaDW0J/+7IBy29xPekI02UhBAdkrQXjA4v35VllW70RH4IgVLLq28dKoXApuwxeY431pw2gKNhj/EqJ3cd+L0KKeahbhLYZiCpSPKVO+MQ3gdQ2AE5/DDpVN92qAccIASaTQqTXLSChGgB3mcgl943WfE1ZnmSdTSqGcbnpjXU7zIkimk7CaQELGCPa+jdjY3MU5gtIhCOx/jHLZgBqLtz0LmVE79cr+6+UduJ1cn93WKHjd9wdKLVcmxEfuUjQKN9cG+r8Gq/19khajyQ2FHhaQDy4=;YkqvecKSdG+AbZ+RSxx8IQ=="
 ---
 

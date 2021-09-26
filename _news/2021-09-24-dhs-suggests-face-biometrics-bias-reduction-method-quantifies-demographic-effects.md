@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Gnani.ai launches armour365™ Voice Biometrics software based on patented technologies"
-    excerpt: "Gnani.ai a frontrunner in Conversational AI and voice security domain today announced the launch of its home-grown Voice Biometrics software."
-    publishedDateTime: 2021-09-21T09:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/gnani-ai-launches-armour365™-voice-biometrics-software-based-on-patented-technologies-121092100727_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 30
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/21/full/20210921142704.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Multi-spectral face biometrics, emotion recognition and deepfakes discussed at EAB seminar"
     excerpt: "The state of the art in several areas related to face biometrics and computer vision were explored in the latest virtual lunch talk held by the EAB."
     publishedDateTime: 2021-09-24T15:19:00Z

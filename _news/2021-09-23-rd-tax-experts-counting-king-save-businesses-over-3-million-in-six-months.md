@@ -29,6 +29,6 @@ related:
       domain: multichannelmerchant.com
     quality: 0
 
-secured: "q/ux/0Tt+4DWZWDRXDj7Z+o+S+KC+P2LtwvVn+sjGNxpQbUewP5evgOYmJFrn7NJIrPyOhayoQqTu2WrWsLvjt2kXEmvAei+udguAXAkUOCyITNR1WRPLcYPbM7yBMMDAnyclBsqZu0W5R8/3VLbDIWWawaMg6AWJnCUjwv/VrnMSYZp914iS0UJSTONSb0EH9YBxFvpbd4ucTo3c2Rb1ytOOYlq2up98qh9Cb5kQxqZOB6M2O4h45yeHn/C4+KREVOAvGC+7dTU4ksIUroT6//4YIDt0JjXvbqgoee1z8lfPpV+kvrd2VA0yUOuPIuT5biHen8Hhjz0SsmFutYrNPqqeOiSPV/5xECpcqDz6ro=;E9r71d/5W0JhZiaTErTRZA=="
+secured: "uO8464pI2sOxQJkhERiTcN4Lt067mA4iXw1VOxpL4oVcxeCuTy74jz0zJl07YUr/DknA6Foowtb9FzJhFWwNdExF7b5FdVyV9G7u7e/vhrPhT3cZru/0TR9QrKX7ChyLyz+xBMD3r+da+SSZo+nhdaz6z54jpt8kj1rHE0znsclIpUB/3lPyxtb+R8IrphF1AIfRjpzx2nqxbHJDJOlxNiMH2lL00zJxTn6z3wSupBSQyDcFdJV5rQPfhm/M8x20715OKDHxQWL/Eigi00knZ5dNmq4CM921fZUH0lUYhNQ4P/SNWnFEWvKg63Ei0oWoH9Pi6/glYjFKjwEkxlP6PhCYejpYY8ZI8FgLNYunqVA=;2lzBKZS3iBsvmt0MRJO6tQ=="
 ---
 
