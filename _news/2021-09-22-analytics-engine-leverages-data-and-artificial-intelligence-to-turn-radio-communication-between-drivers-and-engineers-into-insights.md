@@ -54,15 +54,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "IoT Analytics State of IoT report details trends and overview of the IoT vendor landscape"
-    excerpt: "The 148-page State of IoT report researched by IoT Analytics highlighted recent IoT-related news stories, 100 largest IoT-related funding rounds of the last nine months, major acquisitions, the company’s input on 36 current trends,"
-    publishedDateTime: 2021-09-22T01:53:00Z
-    webUrl: "https://itwire.com/internet-of-things/iot-analytics-state-of-iot-report-details-trends-and-overview-of-the-iot-vendor-landscape.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 10
 
 secured: "DUwdZo0fG6rhtJ2te6xVWtpvxL1YeyGuNtE4l+blYYxdF82zQ1a4i1neVbm7cY8QyAi5dw9Ka3ENktmbSdo/yTnI3Vvc/ixq6tT95/euRKmujQIDdFrP24ROsyDV8xX+gFanyctpXifGDbjdKZayIr0XeAl5+DEHbMwOkRP5bqMYjIRGBH2iwOZksVl6jrUeKiE3w/rx8ikirzu8PdQQuChs4VrldNHYUtIBVgmvqrKRtBeoPVD4T2YBibKX0g3mOA924MllET924WtcB+gSAcGR11FqpOM2gm5qnklfQwOTwBB7M28f+23naRs5ZZ8W8dljjvAi8rFIGQWG8DZmFhxaq+FvOysa/FLz3qqqD7c=;k1jmoTalhNwgAWVv4T8q3A=="
 ---

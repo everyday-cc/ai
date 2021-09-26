@@ -9,7 +9,7 @@ ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-education-m
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-education-market-to-eyewitness-massive-growth-by-2026/?amp=1"
 type: article
 quality: 64
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -38,6 +38,17 @@ related:
         width: 800
         height: 394
         isCached: true
+  - title: "Artificial Intelligence (AI) in Construction Market to Witness Huge Growth by 2027 | Autodesk, IBM, Microsoft, Oracle"
+    excerpt: "The latest Artificial Intelligence AI in Construction market study offers an all inclusive analysis of the major strategies corporate models and market shares of the most noticeable players in this market The study offers a thorough analysis of the key"
+    publishedDateTime: 2021-09-23T06:54:00Z
+    webUrl: "https://www.openpr.com/news/2403731/artificial-intelligence-ai-in-construction-market-to-witness"
+    ampWebUrl: "https://www.openpr.com/amp/2403731/artificial-intelligence-ai-in-construction-market-to-witness"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2403731/artificial-intelligence-ai-in-construction-market-to-witness"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 46
   - title: "AI In Medical Imaging Market to witness Massive Growth by 2027-GE Healthcare, IBM Watson Health, Philips Healthcare, Samsung"
     excerpt: "According to the new AI In Medical Imaging market research report 2021-2027 is easy to understand the detailed analysis. The report published by Market Insights Reports represents the context of current and future trends driving global AI In Medical Imaging market growth."
     publishedDateTime: 2021-09-22T12:07:00Z

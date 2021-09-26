@@ -40,15 +40,6 @@ related:
         width: 400
         height: 339
         isCached: true
-  - title: "IoT Analytics State of IoT report details trends and overview of the IoT vendor landscape"
-    excerpt: "The 148-page State of IoT report researched by IoT Analytics highlighted recent IoT-related news stories, 100 largest IoT-related funding rounds of the last nine months, major acquisitions, the company’s input on 36 current trends,"
-    publishedDateTime: 2021-09-22T01:53:00Z
-    webUrl: "https://itwire.com/internet-of-things/iot-analytics-state-of-iot-report-details-trends-and-overview-of-the-iot-vendor-landscape.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 10
   - title: "Analytics engine leverages data and artificial intelligence to turn radio communication between drivers and engineers into insights"
     excerpt: "Using advanced digital analytics and artificial intelligence, Genpact’s Radio Analytics Engine (RAE) analyzes and organizes hours of radio communication generated simultaneously by drivers during a race and turns."
     publishedDateTime: 2021-09-22T09:53:00Z

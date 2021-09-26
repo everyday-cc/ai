@@ -7,8 +7,8 @@ originalUrl: "https://www.queensu.ca/gazette/stories/google-and-microsoft-are-cr
 webUrl: "https://www.queensu.ca/gazette/stories/google-and-microsoft-are-creating-monopoly-coding-plain-language"
 type: article
 quality: 55
-heat: -1
-published: false
+heat: 155
+published: true
 
 provider:
   name: Queen's University
@@ -26,52 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning with Microsoft Azure ML Studio Without Code"
-    excerpt: "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions."
-    publishedDateTime: 2021-09-22T01:47:00Z
-    webUrl: "https://www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/"
-    ampWebUrl: "https://www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/amp/"
-    cdnAmpWebUrl: "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/amp/"
-    type: article
-    provider:
-      name: GeeksforGeeks
-      domain: geeksforgeeks.org
-    quality: 106
-    images:
-      - url: "https://media.geeksforgeeks.org/wp-content/uploads/20210905154707/exp.jpg"
-        width: 658
-        height: 430
-        isCached: true
-  - title: "Microsoft cloud storage: is OneDrive or Azure right for your business?"
-    excerpt: "Microsoft is one of the best cloud storage providers, and offers some of the best cloud storage for business too. But before you can dive into Microsoft cloud storage, you have to choose between two different products: OneDrive and Azure."
-    publishedDateTime: 2021-09-24T14:54:00Z
-    webUrl: "https://www.itproportal.com/features/microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business/"
-    ampWebUrl: "https://www.itproportal.com/amp/features/microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 74
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/BfraXjVhuhkKsL99SHZDmL-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft launches AI Eye Contact video call software"
-    excerpt: "Microsoft’s artificial intelligence-powered video technology can correct one’s gaze in video calls to make one appear to be looking directly into the camera lens."
-    publishedDateTime: 2021-09-23T10:13:00Z
-    webUrl: "https://gadget.co.za/microsoft-launches-ai-eye-contact-video-call-software/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 56
-    images:
-      - url: "https://i2.wp.com/gadget.co.za/wp-content/uploads/2021/09/maxresdefault-2.jpg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Why Wells Fargo picked both Microsoft Azure and Google Cloud"
     excerpt: "The bank wanted to diversify its risk and use different cloud-computing services for routine and unpredictable workloads, explains Saul Van Beurden, the head of technology at Wells."
     publishedDateTime: 2021-09-24T16:18:00Z
@@ -100,17 +54,6 @@ related:
         width: 1000
         height: 1294
         isCached: true
-  - title: "Artificial Intelligence (AI) in Construction Market to Witness Huge Growth by 2027 | Autodesk, IBM, Microsoft, Oracle"
-    excerpt: "The latest Artificial Intelligence AI in Construction market study offers an all inclusive analysis of the major strategies corporate models and market shares of the most noticeable players in this market The study offers a thorough analysis of the key"
-    publishedDateTime: 2021-09-23T06:54:00Z
-    webUrl: "https://www.openpr.com/news/2403731/artificial-intelligence-ai-in-construction-market-to-witness"
-    ampWebUrl: "https://www.openpr.com/amp/2403731/artificial-intelligence-ai-in-construction-market-to-witness"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2403731/artificial-intelligence-ai-in-construction-market-to-witness"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 46
   - title: "Microsoft Highlights Windows Server 2022 Integration with Azure Services in Summit Talk"
     excerpt: "Microsoft had a lot to say about Windows Server 2022 in its 1.5-hour Windows Server Summit online event, held on Sept. 16. Many of Windows Server 2022's features are associated with security enhancements,"
     publishedDateTime: 2021-09-23T17:51:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.xing.com/communities/posts/how-artificial-intelligence
 webUrl: "https://www.xing.com/communities/posts/how-artificial-intelligence-ai-is-transforming-mobile-technology-1018689842"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 475
     height: 238
     isCached: true
+
+related:
+  - title: "Money & technology: COVID accelerated the evolution of fintech"
+    excerpt: "Every time a customer deposits a check electronically, uses an app to pay for their takeout food, day trades stock using the Robin Hood app, or pays a friend back using Venmo, fintech is being used. “Fintech really is everywhere,"
+    publishedDateTime: 2021-09-23T00:00:00Z
+    webUrl: "https://www.wbjournal.com/article/money-technology-covid-accelerated-the-evolution-of-fintech"
+    type: article
+    provider:
+      name: WBJournal
+      domain: wbjournal.com
+    quality: 24
+    images:
+      - url: "https://www.wbjournal.com/sites/default/files/2021-09/derekcanton.jpg"
+        width: 5472
+        height: 3648
+        isCached: true
 
 secured: "j66jE4/F7d2JVqfwRjKaQbxKFM+2AO4MGFNzo2Maor3yEyViwYyPrynYd5+5Qns83Adw6xPCwAlwM8iJ/mAk2rgg1Ny4AyQlfxK+wBH+RrTyxDGxhRO9P4UW5OZL95Pts4FIUogXTDJdi0xJ3v15FY20JHeimCIqdKYQA5X2uGKMXdbdl3pjVaExnbBrFTo0GNC5y1GWXPUpWzEAZrpa1UxhQgwmvw8cEag4QvSP8fhAkS8vrU9OI0/o3MfGPlxJvgTvWAooTFaiaLKx7CixfieLzLJBaB5hs6Xa1paoCO/X0xOOm0zmiP0kkQCxZe45WDPv8jprTxKKnoF57e+UTkqcbZ2r6/yixWiVjcnlGV4rLBSvRiOtiPmvmhASBToGOFNG8QksBXmtd39BM46vPXgMTLi6L5QporPndfE2ifm6LmjwiuFnEonZzQ8DE/WrE+bGQxzP7401Z0eecVCpD3R6bUDyKHO/V6tpsq9GBDXiv+QdluLZcvG6UfIKYMA8+qhK2QOtkbEt9lisIJptlg==;SSWeKJn4grOqhDq+I4FYaA=="
 ---

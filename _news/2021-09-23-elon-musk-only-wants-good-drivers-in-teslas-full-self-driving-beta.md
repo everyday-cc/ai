@@ -179,6 +179,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Tesla drivers with a favorable safety score can now request its Full Self-Driving beta, despite criticism from regulators"
+    excerpt: "Only Tesla users that have a \"safe\" driving record for an entire week will be granted access to the FSD beta software."
+    publishedDateTime: 2021-09-26T11:38:00Z
+    webUrl: "https://www.businessinsider.com/tesla-full-self-driving-elon-musk-beta-update-safety-score-2021-9"
+    ampWebUrl: "https://www.businessinsider.com/tesla-full-self-driving-elon-musk-beta-update-safety-score-2021-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-full-self-driving-elon-musk-beta-update-safety-score-2021-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+    images:
+      - url: "https://i.insider.com/61504467b414c10018627303?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "‘Good’ Tesla drivers might be next to get ‘full’ self-driving software"
     excerpt: "Chief Executive Officer Elon Musk tweeted that the download button customers will see Friday will request car owners’ permission for Tesla to assess their driving behavior for seven days."
     publishedDateTime: 2021-09-25T12:24:00Z
@@ -351,20 +367,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6IVIAUA35II6ZPVIGCHKCNCZJ4.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "U.S. Safety Official Calls on Tesla To Fix 'Basic Safety Issues' Before Expanding its Full Self-Driving Mode"
-    excerpt: "A top U.S. safety official is urging Tesla to address its “basic safety issues” before it expands its plans to introduce the much-discussed Full-Self Driving mode. Tesla says the Full Self-Driving package is designed to allow for short and long-distance trips “with no action required by the person in the driver’s seat."
-    publishedDateTime: 2021-09-22T02:30:00Z
-    webUrl: "https://hypebeast.com/2021/9/tesla-full-self-driving-mode-safety-issues-wsj"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 20
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F09%2Ftesla-full-self-driving-mode-safety-issues-wsj-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
         isCached: true
   - title: "Tesla owners could soon gain ‘Full Self-Driving’ access at the touch of a button, prompting criticism from regulators and safety advocates"
     excerpt: "Tesla is expected to issue a wide release software it deems to be self-driving, giving owners the option as soon as midnight to upgrade to its most advanced driver-assistance suite and soon putting thousands of drivers on the road with the unregulated and largely untested features."
