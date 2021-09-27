@@ -37,6 +37,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-26-bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide.md",
+      "title": "Bennett to urge action on Iran in UN speech, won’t focus on Palestinians — aide",
+      "excerpt": "PM will warn at UN that world at a ‘critical stage in the Iranian nuclear program’; adviser says Israel’s ties with world ‘multi-faceted,’ mustn’t be defined by Palestinian issue",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide/",
+      "originalUrl": "https://www.timesofisrael.com/bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2021/09/F210912OF03-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide/amp/",
+      "publishedDateTime": "2021-09-26T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-25-google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language.md",
       "title": "Google and Microsoft are creating a monopoly on coding in plain language",
       "excerpt": "Natural language coding means that people won’t need to learn specialized coding languages to write programs or design websites. But large corporations will control the means of translation.",
@@ -45,7 +88,7 @@
       "originalUrl": "https://www.queensu.ca/gazette/stories/google-and-microsoft-are-creating-monopoly-coding-plain-language",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -89,7 +132,7 @@
       "originalUrl": "https://www.businessinsider.com/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -1265,49 +1308,6 @@
       "provider": {
         "name": "Slator",
         "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-on-hindi-divas-garuda-prakashan-announces-publishing-partnership-with-iit-bombay-project-for-indian-language-translation-of-engineering-books.md",
-      "title": "On Hindi Divas, Garuda Prakashan announces publishing partnership with IIT-Bombay project for Indian language translation of engineering books",
-      "excerpt": "Mumbai: Joining forces with the premier Indian Institute of Technology (IIT) Bombay for an Indian-language end-to-end translation ecosystem, Garuda Prakashan is playing an important role of a publishing partner for Project Udaan.",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/on-hindi-divas-garuda-prakashan-announces-publishing-partnership-with-iit-bombay-project-for-indian-language-translation-of-engineering-books/",
-      "originalUrl": "https://indiaeducationdiary.in/on-hindi-divas-garuda-prakashan-announces-publishing-partnership-with-iit-bombay-project-for-indian-language-translation-of-engineering-books/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/on-hindi-divas-garuda-prakashan-announces-publishing-partnership-with-iit-bombay-project-for-indian-language-translation-of-engineering-books/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/on-hindi-divas-garuda-prakashan-announces-publishing-partnership-with-iit-bombay-project-for-indian-language-translation-of-engineering-books/",
-      "publishedDateTime": "2021-09-13T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
         "images": null,
         "publishers": null,
         "authors": null

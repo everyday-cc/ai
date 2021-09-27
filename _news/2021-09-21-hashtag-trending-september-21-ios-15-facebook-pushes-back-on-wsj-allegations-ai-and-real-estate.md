@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Hashtag Trending September 21- iOS 15; Facebook pushes back on WSJ allegations; AI and real estate"
-excerpt: "Shecter Apple rolls out its brand new iOS 15, Facebook disputes Wall Street Journal allegations of toxicity, and AI"
-publishedDateTime: 2021-09-21T09:08:00Z
-originalUrl: "https://www.itbusiness.ca/news/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/119551"
-webUrl: "https://www.itbusiness.ca/news/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/119551"
-ampWebUrl: "https://www.itbusiness.ca/news/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/119551?amp=1"
-cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/119551?amp=1"
+excerpt: "Shecter Apple rolls out its brand new iOS 15, Facebook disputes Wall Street Journal allegations of toxicity, and AI is changing the real estate game. It’s all the tech news that’s trending right now,"
+publishedDateTime: 2021-09-21T09:00:00Z
+originalUrl: "https://www.itworldcanada.com/article/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/458698"
+webUrl: "https://www.itworldcanada.com/article/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/458698"
+ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/458698?amp=1"
+cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/458698?amp=1"
 type: article
 
 provider:
-  name: IT Business
-  domain: itbusiness.ca
+  name: IT World Canada
+  domain: itworldcanada.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://i.itbusiness.ca/wp-content/uploads/2018/01/ht_banner-hashtag-trending-620x250.jpg"
-    width: 620
-    height: 250
+  - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png"
+    width: 1500
+    height: 1500
     isCached: true
 
-secured: "jlUpk02EszKNK9LJ9o3EglHa4IP7OvNR+A5jJKN2k+iXrC0Nzw1YG9HRT2ph1KhF3UTvGy94pUR53xZWk+X15cN8RlBoUXEpUGCEf8cXZWmhDO7FMRJBf9KA5pGmf/DlVDPAXRg1KrM4bXt4DxBRss1Kx4em2uPaZK+WWy5zFpT/f2nQH043Y/fn76faiF6PPFMyuIQzXd3xQxgk6rkpyZhRLskzwmYSJzrq8oM0iUX7jrQE6weH5DnD0G0XIqgF0yp2ITE9M3Zwm0D77ieKzDfeczc82GBHOGl5iCn1FscU5wcyB5SLyc+8Y8ViPiXq6Vo+vqvqVu6CsptHhWebMeH10tKN94oj1tUyvPetR8M=;K/Y4dUaF+Yz9HwoBC/SaWQ=="
+secured: "qR279g/s7ZfHNSF7Xn3RFUG/LzntkS4lrWH6WCiqoC+QYqVIz0Tl09X0dIoYWMT2YRZKT8fP3NHMFueJjCM4Sgk1Hl0SPJDsLux7st5q9dd7xRbLpj2LpLklv2BBebuKojwjhIgOhvZFYusQM0gFFhIpMp7TndeRABkT52Tpn02RELmj20x8TeoYW4WbNK3vxEEHWher3ZOp3IIARzS/jDOM4Yd0W2RC+KU/uQMjet0PLNVAkmVvaAuRBcPJbbW/SLXnJc9Gr/28RKtuhl+yZgsQ0Eu+7Sjd+qxftxlBreDY5X81TAJsVxjenxH+yBN5wQZkbXB+rxzmxWbx7PB1e5dPRQpDZNmq9zJvcEqkZD4=;l81FSrmLu3SavGococvgfw=="
 ---
 

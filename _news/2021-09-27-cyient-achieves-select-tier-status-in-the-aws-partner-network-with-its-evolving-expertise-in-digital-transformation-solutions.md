@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-27T12:30:00Z
 originalUrl: "https://www.asiaone.com/business/cyient-achieves-select-tier-status-aws-partner-network-its-evolving-expertise-digital"
 webUrl: "https://www.asiaone.com/business/cyient-achieves-select-tier-status-aws-partner-network-its-evolving-expertise-digital"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Asia One

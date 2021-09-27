@@ -7,8 +7,8 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/nfl-business-technol
 webUrl: "https://apnews.com/press-release/BusinessWire/nfl-business-technology-sports-amazoncom-inc-4503228a75bc449b9ac6fa96e29053f4"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Associated Press
@@ -38,6 +38,20 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "AWS Shares New Business Momentum Milestones and Announces Three New Capabilities for Amazon Connect"
+    excerpt: "Today at Enterprise Connect, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), shared new business momentum milestones and announced three new capabilities for Amazon Connect that improve contact center agent productivity and provide superior service by making customer interactions more effective,"
+    publishedDateTime: 2021-09-27T20:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-lifestyle-technology-business-middle-east-62bd656b2fe240a1a17519adbb362d4a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "e8VKruwWjCcCtYGcebB2MpLFONRCuTGgNJ2afE+lMNeslvBtNlWEN44mpZTfJ6Bm49S2tiEGUKMXj8SnuEamET7LEw1o1bF2UVxNI5jdBfOQOB66KfiZ5/nxJPgWSig1jzVq2FnfKoLhJ/bG2LHR1Spc7caDtmI8u9giRe89eyu9ELhlLLJVKWJahIraBRRy4pcik5G/BNauyrg9/MLNIr2FU2HQfRxgr5rX0Qr/1UaI2/0f3olQmuOa1XHbWFeMneGWvnSXB8GI268KTTEHZmrDjI57ABaKPHn3SmA4sqOfQhr4Rf7ssZwHi86e6mugpeIFr3PTdAk3ISMzWGOIQ1CN3o6yLqKqf5Ob5lh/cz4=;+D+sNPa4g3JnZPDCRdinIQ=="

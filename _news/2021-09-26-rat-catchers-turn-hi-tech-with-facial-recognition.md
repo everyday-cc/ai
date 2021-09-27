@@ -57,22 +57,6 @@ related:
         width: 483
         height: 400
         isCached: true
-  - title: "Scientists use AI to create drug regime for rare form of brain cancer in children"
-    excerpt: "Hopes that breakthrough marks new era where artificial intelligence can develop treatments for all types of cancer"
-    publishedDateTime: 2021-09-23T02:37:00Z
-    webUrl: "https://www.theguardian.com/science/2021/sep/23/scientists-use-ai-to-create-drug-regime-for-rare-form-of-brain-cancer-in-children"
-    ampWebUrl: "https://amp.theguardian.com/science/2021/sep/23/scientists-use-ai-to-create-drug-regime-for-rare-form-of-brain-cancer-in-children"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2021/sep/23/scientists-use-ai-to-create-drug-regime-for-rare-form-of-brain-cancer-in-children"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 52
-    images:
-      - url: "https://i.guim.co.uk/img/media/19213b742f3de5da40a8fdb0cb9517e49332beb9/0_483_7245_4347/master/7245.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d9fc1d9556a123ab78071c0b069b332b"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Adversarial Makeup: Your Contouring Skills Could Defeat Facial Recognition"
     excerpt: "Facial recognition is everywhere these days. Cloud servers churn through every picture uploaded to social media, phone cameras help put faces to names, and CCTV systems are being used to trace"
     publishedDateTime: 2021-09-25T02:00:00Z

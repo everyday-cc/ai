@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/deep-learning-helps-predict-new-drug-com
 webUrl: "https://news.mit.edu/2021/deep-learning-helps-predict-new-drug-combinations-fight-covid-19-0924"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 1619
         height: 1080
         isCached: true
+  - title: "Deep learning helps predict new drug combinations to fight COVID-19"
+    excerpt: "COVID-19 has caused more than 2.5 million deaths worldwide and the search for new medications and treatments remains impotence. In relation to this, MIT CSAIL researchers are trying to help and for this they have created a deep learning system that helps predict new drug combinations to fight COVID-19."
+    publishedDateTime: 2021-09-27T19:08:00Z
+    webUrl: "https://www.digitaljournal.com/tech-science/deep-learning-helps-predict-new-drug-combinations-to-fight-covid-19/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 19
 
 secured: "6UWQQbArXFcOxLj0pESyMcTLoBf8itk72gIPWJWissp53cfx7uk9dKnmraf0acCrkl6WD2VvfUBhwjzb/c9cdZTIzaSTMfuKlF1oGMVS/YQKBcDnfX9rTXtYSdwAGd317BqeQ8GLPMRIgSh0KqonlPBSx1FMRLW2TdqqKMHHCthKRL9rFQeGqwamg90sfp3oerdfxmWn4kbYx86zpsJXA2nsU+BNzzRZQP8ODdMg07UiFJCwouc1AwF1h9rfLPYzlSjDry8tgZ9fOAG3zQyZgsSnx4qRNcNOsdKXfMx2OVg66URI60iq1fx8b1kfiypn1T5spxm81NSb7eKCAXVeRsFz8OJvbEIzQ5hJsEeBG/k9q9GvWsjoNZRpM5PTcCqg36akmYpAmfh05yK2vxgZPcspM8cJqnDE+MFvJpvpTCueipWolLEsW9WV0/BfOG0+Ki9krePlDcBO1VV+b+elUGiGwXJpC/ya/suztX8bmmqEAAj/TwYklVQQ9lVAIjzEdhjwlmYYBeN0ucNq5Hxdlw==;B3BI4z/eLQvwC9KUbCw17w=="
 ---

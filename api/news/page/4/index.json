@@ -2,6 +2,100 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-23-4-ways-facebooks-departing-cto-mike-schroepfer-shaped-the-company.md",
+      "title": "4 ways Facebook’s departing CTO Mike Schroepfer shaped the company",
+      "excerpt": "Facebook CTO Mike Schroepfer announced that he's stepping down from the position after spending 13 years at the company",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/4-ways-facebook-cto-mike-schroepfer-analysis",
+      "originalUrl": "https://thenextweb.com/news/4-ways-facebook-cto-mike-schroepfer-analysis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FMike-Schroepfer.jpg&signature=04b0e90a62b4c26892fb9e18e1be080c",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-23T00:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-artificial-intelligence-may-be-set-to-reveal-climate-change-tipping-points.md",
+      "title": "Artificial intelligence may be set to reveal climate-change tipping points",
+      "excerpt": "Researchers are developing artificial intelligence that could assess climate change tipping points. The deep learning algorithm could act as an early warning system against runaway climate change.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.html",
+      "originalUrl": "https://phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/climate-change.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.amp",
+      "publishedDateTime": "2021-09-23T00:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-will-ai-led-automation-transform-future-of-workforce-for-banking-financial-services-industry.md",
       "title": "Will AI-led automation transform future of workforce for banking, financial services industry?",
       "excerpt": "India has immense potential to leverage AI and each sector is a huge opportunity in itself as India leaps ahead with Digital Transformation in the coming decade../Representative image | Banking and financial services industry has always been on the forefront in adoption of technology.",
@@ -1105,82 +1199,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-paige-obtains-fda-de-novo-authorization-for-ai-based-pathology-software-to-diagnose-prostate-cancer.md",
-      "title": "Paige Obtains FDA De Novo Authorization for AI-Based Pathology Software to Diagnose Prostate Cancer",
-      "excerpt": "The firm said that in a clinical study pathologists using its Paige Prostate product had a 70 percent reduction in false negative diagnoses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.360dx.com/regulatory-news-fda-approvals/paige-obtains-fda-de-novo-authorization-ai-based-pathology-software",
-      "originalUrl": "https://www.360dx.com/regulatory-news-fda-approvals/paige-obtains-fda-de-novo-authorization-ai-based-pathology-software",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-22T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "360dx",
-        "domain": "360dx.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-new-ai-optimized-software-could-improve-nanoparticle-design-for-cancer-therapy.md",
-      "title": "New AI-Optimized Software Could Improve Nanoparticle Design for Cancer Therapy",
-      "excerpt": "The EVONANO platform developed at the University of Bristol enables scientists to develop virtual tumors and employ artificial intelligence to make automated optimization of the design of nanoparticles to treat the tumors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azonano.com/news.aspx?newsID=38168",
-      "originalUrl": "https://www.azonano.com/news.aspx?newsID=38168",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1otjdv2bf0507.cloudfront.net/images/news/ImageForNews_38168_16323085425165298.png",
-          "width": 700,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azonano.com/amp/news.aspx?newsID=38168",
-      "cdnAmpWebUrl": "https://www-azonano-com.cdn.ampproject.org/c/s/www.azonano.com/amp/news.aspx?newsID=38168",
-      "publishedDateTime": "2021-09-22T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZoNano",
-        "domain": "azonano.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

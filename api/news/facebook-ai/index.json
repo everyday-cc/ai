@@ -10,7 +10,7 @@
       "originalUrl": "https://thenextweb.com/news/4-ways-facebook-cto-mike-schroepfer-analysis",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -153,19 +153,19 @@
     {
       "path": "_news/2021-09-21-hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate.md",
       "title": "Hashtag Trending September 21- iOS 15; Facebook pushes back on WSJ allegations; AI and real estate",
-      "excerpt": "Shecter Apple rolls out its brand new iOS 15, Facebook disputes Wall Street Journal allegations of toxicity, and AI",
+      "excerpt": "Shecter Apple rolls out its brand new iOS 15, Facebook disputes Wall Street Journal allegations of toxicity, and AI is changing the real estate game. It’s all the tech news that’s trending right now,",
       "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/119551",
-      "originalUrl": "https://www.itbusiness.ca/news/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/119551",
+      "webUrl": "https://www.itworldcanada.com/article/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/458698",
+      "originalUrl": "https://www.itworldcanada.com/article/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/458698",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2018/01/ht_banner-hashtag-trending-620x250.jpg",
-          "width": 620,
-          "height": 250,
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png",
+          "width": 1500,
+          "height": 1500,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -173,14 +173,66 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/119551?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/119551?amp=1",
-      "publishedDateTime": "2021-09-21T02:08:00-07:00",
+      "ampWebUrl": "https://www.itworldcanada.com/article/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/458698?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/458698?amp=1",
+      "publishedDateTime": "2021-09-21T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-facebook-employees-flag-drug-cartels-and-human-traffickers-the-companys-response-is-weak-documents-show.md",
+      "title": "Facebook Employees Flag Drug Cartels and Human Traffickers. The Company’s Response Is Weak, Documents Show.",
+      "excerpt": "Employees raised alarms about how the site is used in developing countries, where its user base is already huge and expanding. In many instances Facebook’s response is inadequate or nothing at all.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/facebook-drug-cartels-human-traffickers-response-is-weak-documents-11631812953",
+      "originalUrl": "https://www.wsj.com/articles/facebook-drug-cartels-human-traffickers-response-is-weak-documents-11631812953",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-399835/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/facebook-drug-cartels-human-traffickers-response-is-weak-documents-11631812953",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-drug-cartels-human-traffickers-response-is-weak-documents-11631812953",
+      "publishedDateTime": "2021-09-16T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1338,40 +1390,6 @@
       "provider": {
         "name": "Los Angeles Daily News",
         "domain": "dailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-abacusai-announces-the-worlds-first-enterprise-scale-real-time-mlops-and-dlops-platform.md",
-      "title": "Abacus.AI announces the world's first enterprise scale real-time MLOps and DLOps platform",
-      "excerpt": "Abacus.AI is the world's first enterprise scale end-to-end real-time MLOps and DLOps platform. Customers can stream real-time events, such as clickstream data, social media interactions, online purchases,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210813sf74962/abacusai-announces-the-worlds-first-enterprise-scale-real-time-mlops-and-dlops-platform",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210813sf74962/abacusai-announces-the-worlds-first-enterprise-scale-real-time-mlops-and-dlops-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-13T04:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null

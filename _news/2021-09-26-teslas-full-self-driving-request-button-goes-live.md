@@ -490,6 +490,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 19
+  - title: "Anyone can request access to Tesla’ Full Self-Driving beta"
+    excerpt: "This new button allows any Tesla driver to request access to the company’s ‘Full Self-Driving’ (not technically full self-driving) beta. Musk says that new entries to the beta program will need to have their driving style assessed by the car for a week to ensure they’re not too aggressive."
+    publishedDateTime: 2021-09-27T18:45:00Z
+    webUrl: "https://mobilesyrup.com/2021/09/27/anyone-can-request-access-to-tesla-full-self-driving-beta/"
+    type: article
+    provider:
+      name: MobileSyrup
+      domain: mobilesyrup.com
+    quality: 19
 
 secured: "eUiegZCEsX/R9c9BKja7W69exWqDd0LesQ91C3+0C9+YgzgCJtn2h0rqz8THvlwxbHIFUbczN1ung+O6DaphXiDFeHuS/HVMLhrsVagn/sEm0AqvfiaOP/6FyC9h7c0yTwSJle15IczuLfvjsUYV+/Xce1f6Pa2JTLMgnCD/WLXrSfTkUTcPemT1k/MO7GJ7h6MtxuNczE7kyuKh6sDfdQGvHNyhxyE5CW0TUhrR2KIO/VeYgOjZdsXVGkk+y2P7bSWB5nyiXyECU1ULbzs++f93yCvClL4qtILG2MfKlaGQxW6ScTBlo5tRguQixn6GHzMrRBBER/4YAp9l5kJ1mUZ4BcjiBvARmWgs5w4AXCw=;iq24TPOqf6P3LXdghr0CmA=="
 ---

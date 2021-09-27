@@ -49,22 +49,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Facebook CTO Schroepfer Steps Down, Moves Into Part-Time Role"
-    excerpt: "Facebook Chief Technology Officer Mike Schroepfer has announced he’ll be stepping down and transitioning to be the company’s first senior fellow."
-    publishedDateTime: 2021-09-23T01:46:00Z
-    webUrl: "https://www.pymnts.com/facebook/2021/facebook-cto-schroepfer-steps-down-moves-into-part-time-role/"
-    ampWebUrl: "https://www.pymnts.com/facebook/2021/facebook-cto-schroepfer-steps-down-moves-into-part-time-role/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/facebook/2021/facebook-cto-schroepfer-steps-down-moves-into-part-time-role/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/facebook-2-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
 
 secured: "DzxDXhYEzE5cazeZSslqUdrNlNJPstVNYbBlvNE7XaXxnunfnIzZQ98KR2CjAkSs3ntlI4TmKxnqaCdlurhOJPpPMt4h56/FHeYfGK99n2TihBVpkw0fYaL00q99hfck4aL8ulA1d8rrSaPz8eqV5WUiZHsAg7K2zRYY7hVEiVuoIGEUpp9wdJ71mBPQW7gQYlae6/fVSOmGOSil2SJqJVRfvj+cZQFyubaXZkpbuKbRZTqaLHceQuq9Iy2ndGXsS1veb2qgt7qfqlw/oI5FnRNDYWc9RPB4prUscl8J9bvVj8pfi4qBxPfDt7zzVndhO8vCdFCFXQNXTg8EkwTYD1ouRf3XxEhI8/+dgiqV1M4=;sNANVnXcU5miedq7u1VE3A=="
 ---

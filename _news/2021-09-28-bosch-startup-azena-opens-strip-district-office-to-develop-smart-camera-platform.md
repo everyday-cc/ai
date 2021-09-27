@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-27T18:29:00Z
 originalUrl: "https://nextpittsburgh.com/latest-news/bosch-startup-azena-opens-strip-district-office-to-develop-smart-camera-platform/"
 webUrl: "https://nextpittsburgh.com/latest-news/bosch-startup-azena-opens-strip-district-office-to-develop-smart-camera-platform/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: NEXTpittsburgh

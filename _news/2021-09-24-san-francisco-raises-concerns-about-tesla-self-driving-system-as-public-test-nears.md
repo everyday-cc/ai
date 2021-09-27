@@ -41,6 +41,22 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Tesla uses YouTubers to test self-driving tech on public streets rather than trained safety drivers"
+    excerpt: "Safety experts are outraged Tesla lets would-be influencers test version 10.1 of its Full Self-Driving AI. One YouTuber lurched toward pedestrians when his steering wheel suddenly veered right."
+    publishedDateTime: 2021-09-27T21:42:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10034491/Tesla-uses-YouTubers-test-self-driving-tech-public-streets-trained-safety-drivers.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10034491/amp/Tesla-uses-YouTubers-test-self-driving-tech-public-streets-trained-safety-drivers.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10034491/amp/Tesla-uses-YouTubers-test-self-driving-tech-public-streets-trained-safety-drivers.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 60
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/09/27/21/48467277-0-image-a-4_1632775943927.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "How Driverless Car Works?"
     excerpt: "You must have heard about the driverless cars, but how does it actually work and how is it controlled merely using one software through artificial intelligence? Here is the report. Watch video on Zee"
     publishedDateTime: 2021-09-23T16:18:00Z
@@ -72,20 +88,6 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/n41f8c/article36624583.ece/ALTERNATES/LANDSCAPE_615/aurorajpg"
         width: 615
         height: 384
-        isCached: true
-  - title: "Who is responsible if a self-driving car kills a pedestrian to save the driver?"
-    excerpt: "Unthinkable: Governments put their trust in big tech as they lack expertise"
-    publishedDateTime: 2021-09-23T04:00:00Z
-    webUrl: "https://www.irishtimes.com/culture/who-is-responsible-if-a-self-driving-car-kills-a-pedestrian-to-save-the-driver-1.4678862"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 20
-    images:
-      - url: "https://www.irishtimes.com/image-creator/?id=1.4678861&origw=1440"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "jTNZviZQgnyKTyX34s6ARYy1KDPSa7FnR/u5kRM4cnKuAzWJlik+uKDRF0BOlyxTTLg8/iY0pj/bx4nJdZP+kbXAgktz/oDJx0dsyLbvaksnEaP1EJHMhP3PP9SU/mfqcf6XL0RblDfybvpwxjdKA5umQbRIt5ai1LSnV/5+4ack3yHfPxGVh8kO5t4sqf3F4djbQTMWC2BVcXRe6RPT1ZMs+BHWFZ6OY5HPL/PabLcQJLydzr6L8/nRc6GNRyMwX1wlOcL9qA5Y9nF+eJtxy5RMopvdEjCRZGoyn99uEbO7mJUlLIDtpZrLKzm8gIcV13Daa/FOdgh44tkRAyW4/KHqVpq5BpLeHthEqvUq81r4JU9ViHxwpIMCn0F+3y2eCuUDsdD4zgHgcjM9AJN5XPzrNJGpCQOpy2T1S9dVWxcPUSOrjqYsoiQd8286s/1zAHw7AM0Q7KFR/vM5T0HmtFZ+69TFeP0Rhfq8+N9QIPT+33kPsx1Sadl6R6i2X4q/4TeRtw2+0kKp427YMT4oZA==;wE4jh07j5bF/p/HiPFW1dQ=="

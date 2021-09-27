@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-27T19:23:00Z
 originalUrl: "https://thenextweb.com/news/samsung-harvard-scientists-want-copy-and-paste-brain-onto-computer-chips"
 webUrl: "https://thenextweb.com/news/samsung-harvard-scientists-want-copy-and-paste-brain-onto-computer-chips"
 type: article
+quality: 63
+heat: 63
+published: false
 
 provider:
   name: The Next Web

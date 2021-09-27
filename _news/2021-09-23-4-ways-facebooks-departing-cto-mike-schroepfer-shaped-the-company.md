@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/4-ways-facebook-cto-mike-schroepfer-an
 webUrl: "https://thenextweb.com/news/4-ways-facebook-cto-mike-schroepfer-analysis"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://www.thehindubusinessline.com/info-tech/h548vf/article36625510.ece/ALTERNATES/LANDSCAPE_615/blfb"
         width: 615
         height: 384
-        isCached: true
-  - title: "Facebook CTO Schroepfer Steps Down, Moves Into Part-Time Role"
-    excerpt: "Facebook Chief Technology Officer Mike Schroepfer has announced he’ll be stepping down and transitioning to be the company’s first senior fellow."
-    publishedDateTime: 2021-09-23T01:46:00Z
-    webUrl: "https://www.pymnts.com/facebook/2021/facebook-cto-schroepfer-steps-down-moves-into-part-time-role/"
-    ampWebUrl: "https://www.pymnts.com/facebook/2021/facebook-cto-schroepfer-steps-down-moves-into-part-time-role/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/facebook/2021/facebook-cto-schroepfer-steps-down-moves-into-part-time-role/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/facebook-2-457x274.jpg"
-        width: 457
-        height: 274
         isCached: true
   - title: "Facebook CTO Schroepfer to step down from 2022"
     excerpt: "Facebook CTO Mike Schroepfer announced that he will step down from his role as of 2022. Schroepfer will transition to a part-time role with the company. In 2022, he will be replaced as CTO by Andrew Bosworth,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/amp/"
 type: article
 quality: 60
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -135,6 +135,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "So 'Self-Driving' Doesn't Mean It Drives Itself? What DOES It Mean, Then?"
+    excerpt: "Tesla, despite insisting (for regulatory purposes, and because it's true) that the \"Self-Driving\" software they're testing isn't really \"autonomous driving,\" is going ahead and opening its Self-Driving beta to any Tesla driver it deems to be a relatively ..."
+    publishedDateTime: 2021-09-27T18:49:00Z
+    webUrl: "https://www.allaccess.com/talk-topics/q/id/57756"
+    type: article
+    provider:
+      name: AllAccess
+      domain: allaccess.com
+    quality: 3
 
 secured: "ZVs087F2xDiP6Ybs48LEGaJ9U9TcaHe+boD5jSsU9x1mCqFYavgAJOEMHpJyhKt58OIni+8IyH/+GD3m143u6oqA78abGN9CmpIN1qnLHtAJOCkyB6Tzk5E10tRx2l8A1EwXiS38+ztBlb8yg8me+b2Dp8M2kaGifH+WRdLWtYwWLGIKS+G6nsqBYYJ4gIqmDi900Iu5d5TbKmH0I4OxuhH0ioJCw+82YEouaRYPBnaiC9+z0S28IW66hfvoWaKa3dsNmOkEVAPAqwoAeU9E6mXx65kYw1FC4NuLBDLJuOYD+GdY5dytShsh9kXg3yeC8CDwpt/kCjwzuzUEpvZPpfabgVWtg+WVdIyIN6WJ0QhQ+pah+fT3huzMOQECCNrZSmB2q+s6k2yxyiqL32K/IfC+7uNRXeWdI8T4ZrDfs6wAjj5kNfcWYHtMOKODqUp2G6xk4hIBhaso8S8Ln6VbOtrilure3p9Ss2CO2HrzVmtgZ2TzWI90aLpOU6Gmyqo2+8x/E9CIbHSnbUEHbaqUvg==;XZGgWl27j8UhLB4AXlC8Eg=="
 ---

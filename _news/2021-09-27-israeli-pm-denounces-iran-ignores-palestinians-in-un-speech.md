@@ -43,6 +43,40 @@ related:
         width: 640
         height: 400
         isCached: true
+  - title: "Israeli PM denounces Iran, ignores Palestinians in UN speech"
+    excerpt: "Israel's new prime minister appealed to the international community Monday to stand together against Iran, accusing Tehran of marching"
+    publishedDateTime: 2021-09-27T21:51:00Z
+    webUrl: "https://mynorthwest.com/3168047/israeli-pm-denounces-iran-ignores-palestinians-in-un-speech/"
+    ampWebUrl: "https://mynorthwest.com/3168047/israeli-pm-denounces-iran-ignores-palestinians-in-un-speech/amp/"
+    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3168047/israeli-pm-denounces-iran-ignores-palestinians-in-un-speech/amp/"
+    type: article
+    provider:
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 44
+    images:
+      - url: "https://mynorthwest.com/wp-content/uploads/2021/09/ap_1f1f152ce0f34b25be32f76c19988f96.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Bennett Denounces Iran, Ignores Palestinians in U.N. Speech"
+    excerpt: "Naftali Bennett, Israel’s new prime minister, appealed to the international community Monday to stand together against Iran, accusing Tehran of marching"
+    publishedDateTime: 2021-09-27T18:23:00Z
+    webUrl: "https://hamodia.com/2021/09/27/bennett-denounces-iran-ignores-palestinians-in-u-n-speech/"
+    type: article
+    provider:
+      name: Hamodia
+      domain: hamodia.com
+    quality: 4
+  - title: "Israeli prime minister denounces Iran, ignores Palestinians in U.N. speech"
+    excerpt: "In his maiden speech to the U.N. General Assembly, Naftali Bennett accused the Iran of marching forward toward the development of a nuclear weapon and threatened to to act alone if the world does not take action."
+    publishedDateTime: 2021-09-27T18:55:00Z
+    webUrl: "https://www.pbs.org/newshour/world/israeli-prime-minister-denounces-iran-ignores-palestinians-in-u-n-speech"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 2
 
 secured: "rMpHq3TMwst+3i0Ade+/aaN0vkd2Quf0P7OhHxE5BFQnxLKFIJiWXMintcchScbT164vNSuDnEz2j/BJ1GtiwpCw02iwuHm8878PsNJY6gWaWX7wPrgbfUW0Mn36NlpW1TJzeXPCcMYGh1KV+cTQ3U+6IVKxhFmksF7rygfsNHvDFLUHgQGbo1tn7FJMHzYcC/sjSbsfFP09sfjs6CmyXnI+H+Ivjozmh+gTFngLTQuNIvE48dvkppJAQRivaJ13du21cBBkf3GA0sAtBckJW7Nf6sCXTG6p22LP7zMOFhEUxlihz2gedhZkMvNgft31cc8fEiH3DYP054YFpBXxrUM3ww4G1eAtHpV56VWcYk36z9LCDui2Z85cjKHUGwJT1hm/RPRnT6c0XsoYskZMRKafelqTE5SIC6uLrvVj4jw7NeM5xCFb+upMH7E5rMmyLa/xAcM9UTZzj+d2ihPJSPUGSGmUhhwqFJSNB7pR/M5V46u5FshNhDgVCea8jUXxkOSn+Lnrrvnta+DDu2vDLQ==;chwBwBqj1ef/zOV5dvvXFQ=="
 ---

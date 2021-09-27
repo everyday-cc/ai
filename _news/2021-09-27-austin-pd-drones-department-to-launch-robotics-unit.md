@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-27T16:00:00Z
 originalUrl: "https://dronelife.com/2021/09/27/austin-pd-drones-department-to-launch-robotics-unit/"
 webUrl: "https://dronelife.com/2021/09/27/austin-pd-drones-department-to-launch-robotics-unit/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Dronelife

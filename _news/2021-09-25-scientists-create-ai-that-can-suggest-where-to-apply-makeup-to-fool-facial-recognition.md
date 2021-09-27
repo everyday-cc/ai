@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10026371/amp/Scienti
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10026371/amp/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html"
 type: article
 quality: 66
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://www.newscientist.com/build/images/barrier/barrier-digital.7276f163.png"
         width: 483
         height: 400
-        isCached: true
-  - title: "Scientists use AI to create drug regime for rare form of brain cancer in children"
-    excerpt: "Hopes that breakthrough marks new era where artificial intelligence can develop treatments for all types of cancer"
-    publishedDateTime: 2021-09-23T02:37:00Z
-    webUrl: "https://www.theguardian.com/science/2021/sep/23/scientists-use-ai-to-create-drug-regime-for-rare-form-of-brain-cancer-in-children"
-    ampWebUrl: "https://amp.theguardian.com/science/2021/sep/23/scientists-use-ai-to-create-drug-regime-for-rare-form-of-brain-cancer-in-children"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2021/sep/23/scientists-use-ai-to-create-drug-regime-for-rare-form-of-brain-cancer-in-children"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 52
-    images:
-      - url: "https://i.guim.co.uk/img/media/19213b742f3de5da40a8fdb0cb9517e49332beb9/0_483_7245_4347/master/7245.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d9fc1d9556a123ab78071c0b069b332b"
-        width: 600
-        height: 360
         isCached: true
   - title: "Rat catchers turn hi-tech with facial recognition"
     excerpt: "Charles Dickens once described rats as “fine, stealthy, secret fellows”, but the days of their stealth and secrecy may be over. The pest control firm Rentokil I"

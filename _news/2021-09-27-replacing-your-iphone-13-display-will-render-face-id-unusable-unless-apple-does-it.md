@@ -31,21 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "iPhone 13 benchmarks — Apple just blew away Android phones"
-    excerpt: "From synthetic benchmarks to real-world testing, the iPhone 13 series (especially the Pro models) pulled even further ahead from the best chips Apple's competitors use. In some ca"
-    publishedDateTime: 2021-09-23T05:01:00Z
-    webUrl: "https://www.tomsguide.com/news/iphone-13-benchmarks-nothing-else-comes-close"
-    ampWebUrl: "https://www.tomsguide.com/amp/news/iphone-13-benchmarks-nothing-else-comes-close"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/iphone-13-benchmarks-nothing-else-comes-close"
+  - title: "Face ID on iPhone 13 will stop working if you get a third-party screen replacement"
+    excerpt: "Apple has found a way to make third-party repairs more complicated, as getting your display fixed will disable Face ID on your iPhone 13"
+    publishedDateTime: 2021-09-27T20:40:00Z
+    webUrl: "https://pocketnow.com/face-id-on-iphone-13-will-stop-working-if-you-get-a-third-party-screen-replacement"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 44
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 18
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/EnuGcHybxTFyvhGoUaNsBi-1200-80.jpg"
+      - url: "https://pocketnow.com/wp/../files/2021/09/iPhone-13-Pro-Graphite.jpg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
 
 secured: "cC9q7Nqk33oszZF21DE9TJoGHHQD5qe9/RFnzd+B8EtSJsXpExcCGy4AlwFM5LrzC+YxwhUCN6wab12Obb+9qJdTB8cDnmcgSve2Ny1fzW9TjP3Be+UY5nN2g9DKvqew8SqAMSgsb0cb2DQoGSyVnJHI131+hc1gg1L/Bnb2ufB3GrRZ7oJarpYvzcaz7YKTlqHIYM1CHgPzXpL0Ho87t/Esi+F4LQEkeZgv6WhdC487dg+xHUS7RUoeqNCbJoS+pdGODlFXy11+QZ6zNTp+UA5duOjesr+6mYK2NhWryaO7dzhxjgvHvq3sQLjJX+H8d5KdEiZILw4r+9zAAOGMOvvZKST1LfwD4jutHeQSCXuNTcSC59O2MI9gr7shCUj5B5klO2TBDwRoHs2Pj+pmdb/PrlxAQmd5i1uP1IKf1cVgq9Ku4quCvYAITvGMe/Ba1YzUCIjLgI2W2B8tlzijYVgmWGYOFBU7m0iHLcBz/dSHwes6LTiF5f6Z1m4av6yaa+KRMm1ozw6J2NSm/jMDOw==;ZegmuEkw9AYooX+WScrFPg=="

@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-27T19:10:00Z
 originalUrl: "https://www.clarepeople.com/4614-neural-network-mimics-the-human-brain-to-solve-complex-problems/"
 webUrl: "https://www.clarepeople.com/4614-neural-network-mimics-the-human-brain-to-solve-complex-problems/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: The Clare People

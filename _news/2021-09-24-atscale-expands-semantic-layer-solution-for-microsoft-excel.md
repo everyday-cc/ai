@@ -90,17 +90,6 @@ related:
         width: 1665
         height: 1158
         isCached: true
-  - title: "SSE Renewables teams up with Microsoft for AI-led puffin conservation project on Isle of May"
-    excerpt: "Green energy provider talks up the potential for artificial intelligence technology to help speed up the time it takes to bring new supplies of renewable power onto the grid."
-    publishedDateTime: 2021-09-23T04:22:00Z
-    webUrl: "https://www.computerweekly.com/news/252507070/SSE-Renewables-teams-up-with-Microsoft-for-AI-led-puffin-conservation-project-on-Isle-of-May"
-    ampWebUrl: "https://www.computerweekly.com/news/252507070/SSE-Renewables-teams-up-with-Microsoft-for-AI-led-puffin-conservation-project-on-Isle-of-May?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252507070/SSE-Renewables-teams-up-with-Microsoft-for-AI-led-puffin-conservation-project-on-Isle-of-May?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 43
   - title: "AtScale Expands Semantic Layer Solution for Microsoft Excel"
     excerpt: "AtScale, the leading provider of semantic layer solutions for modern business intelligence and data science teams, today announced deeper integration with Microsoft Excel’s advanced analytic functions."
     publishedDateTime: 2021-09-23T14:34:00Z

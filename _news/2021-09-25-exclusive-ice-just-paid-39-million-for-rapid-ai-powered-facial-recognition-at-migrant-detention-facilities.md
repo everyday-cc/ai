@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/ice-gets-rapid-ai-facial-recogniti
 webUrl: "https://markets.businessinsider.com/news/stocks/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9"
 type: article
 quality: 166
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "ICE drops $3.9M for Trust Stamp’s facial recognition, London Met taps NEC for $4.2M"
+    excerpt: "The U.S. Immigration and Customs Enforcement signs a $3.9 million contract with Trust Stamp, London Met selects NEC facial recognition system."
+    publishedDateTime: 2021-09-27T18:46:00Z
+    webUrl: "https://www.biometricupdate.com/202109/ice-drops-3-9m-for-trust-stamps-facial-recognition-london-met-taps-nec-for-4-2m"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 15
 
 secured: "Nn+brrgE059OfeUCrsN1q3yCxw201CMUlc8zkMkbYuRP2rcotajitqp8nrVwS3wkIjTZ+Y7E2g/cqWAivynhJro9hBBSdC74daDxuZYKKZinfDw8L6v9i8GPi5abwgX/5SPmM4mHTtvma2KAGJEc27fWNo+SouZwEN85i1Atv/dpICBSRmnqSUCayfiomntbenWLFgR5xxRXTecZu8T+U5/K6YAjunHJcAjrTT2H3McurEZ2xApiF8Ej1HQFw95i3sFiGKWTgLc229FCe90Wk2865f4ZBC9uQgZhuDQdPq36KTelPqjPnu5Mfp1JgsiuZ+QNGjZJQ2REtyu4CJFqVudoAb/NSL2mUDABriIBRWMVzFxTB8YaLEB3X6iMieLU4C0EdbCUWq+AU3GjCv5I/knRBZcz/Rc2iG+IviY2DSDa7X8XfsrF00x+ANQAW4OJTRXCSgDtNI9/jGib3vcUhJA3Xsmivg2ZAd5CBbdIHhlYdQ2cPsL++TrPCZq70F8fBAWQBPCJNFhgEc4Qwwft0OCV19E3qCzBSofyF1ONsnI=;DbIVvE/h6QkqGZCakFlgMA=="
 ---

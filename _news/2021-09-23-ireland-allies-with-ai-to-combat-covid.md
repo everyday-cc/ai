@@ -53,6 +53,15 @@ related:
         width: 1619
         height: 1080
         isCached: true
+  - title: "Deep learning helps predict new drug combinations to fight COVID-19"
+    excerpt: "COVID-19 has caused more than 2.5 million deaths worldwide and the search for new medications and treatments remains impotence. In relation to this, MIT CSAIL researchers are trying to help and for this they have created a deep learning system that helps predict new drug combinations to fight COVID-19."
+    publishedDateTime: 2021-09-27T19:08:00Z
+    webUrl: "https://www.digitaljournal.com/tech-science/deep-learning-helps-predict-new-drug-combinations-to-fight-covid-19/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 19
 
 secured: "Td1ngOgKmu/dxB8Yl+De9B0Mb7HSX6nacghJADP59Ek0CJcBs74WwqchO1W+8GJ7lZI/PRgTB6ynKZW03M4HyRYfTfYwWXzdD0wBDhBBiNJGK8CVkUlI+1J/KQZMOL0LrOL49mAvkx2ikAyn3Y+l0tHq4e3856J6gG4Gi4PDjR30BxxfU//CmnMKKerFDqs7YwOOFp8uyt7zYfKoD84efdsRg1r0+fnP3JctgKX+tKS8lQVb0RVX2i+g/BErUSu+bbIVBepoovuz/7r/G3yAObeS73KKSpmVHu80FgwE+rbsfPyvmdId0R9eN2oNN/duWbIDX3P3jdC3u3tZ8bIObX3XEDAoJMU2gZKaLIj1Y7odN8mFCAEbOALVmUnZkJK2Hyoho/Ca0yzAuxvbnZ9+wLpkpzVbU+FoJDcYaaLExO/h/4mnbunR+tOf8406CFgbRkYMx+DLzLy3qlXnvbUUqqRC2IpSDqnO/MBFEZTAA80pZt1xjuamSQkUlm+fZeKced6/O3YjoNX0a9VVTcAyyg==;hwPVz7KLCTeBudVGjnvYGw=="
 ---

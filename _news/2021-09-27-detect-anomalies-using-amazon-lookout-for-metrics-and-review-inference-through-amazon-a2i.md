@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-27T19:29:01Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/detect-anomalies-using-amazon-lookout-for-metrics-and-review-inference-through-amazon-a2i/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/detect-anomalies-using-amazon-lookout-for-metrics-and-review-inference-through-amazon-a2i/"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: AWS

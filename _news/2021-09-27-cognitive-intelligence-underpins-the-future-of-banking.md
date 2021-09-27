@@ -23,6 +23,17 @@ images:
     height: 650
     isCached: true
 
+related:
+  - title: "The future of dental care"
+    excerpt: "The future of dental care. Jana Denzel explores artificial intelligence and the role it will play in the world of dentistry. Movies such as The Terminator and I, Robot hauntingly"
+    publishedDateTime: 2021-09-27T18:16:00Z
+    webUrl: "https://dentistry.co.uk/2021/09/27/the-future-of-dental-care-artificial-intelligence/"
+    type: article
+    provider:
+      name: Dentistry
+      domain: dentistry.co.uk
+    quality: 4
+
 secured: "Jismfae9kGxIMpRStw90aYCzxfSSRoAG1AHLNo0RFvrfW7NKbjdbJnqHjpD6zbacr0tR2kbliqZVY5tm4l2YL3OoOoBUUEsE/qzbRxo/Fm30vMCM80UTku9HNlIcY9V8VyapU3YMRu34OWeUqicVSm3NqQNobnJYwY+Y6kRhVFUzLV5kt5N2bvp0U5eEJni52PU4WW6iMUUCwTnSXElb8GaoMR9kN3CwRvIX0ChEutrP32axms3vPLByYV6jYwIvhoJcOQ4d3pEfLkshgH6k9KQcgft+ZW3QkjN0UKn9oceDBmwqbOqwOf5SG+wpbhtWKQbEGF4KPGxK8m2mSxmYK4pBP2fcjpY6uADQu8HlZtU=;btcKE7tfIo2bqqR/h/PFdw=="
 ---
 

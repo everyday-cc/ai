@@ -54,6 +54,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 23
+  - title: "AI in Energy and Utilities Market Forecast to Reach $4.5 Billion by 2026"
+    excerpt: "Technological Advancement Driving New Applications and Rise of Microgrid Adoption Driving the Growth of AI in Energy and Utilities Market The <st"
+    publishedDateTime: 2021-09-27T19:51:00Z
+    webUrl: "https://menafn.com/1102871862/AI-in-Energy-and-Utilities-Market-Forecast-to-Reach-45-Billion-by-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 16
   - title: "Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Construction market report provides"
     publishedDateTime: 2021-09-24T13:18:00Z
@@ -63,6 +72,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 6
+  - title: "Artificial Intelligence in Energy Market to Eyewitness Massive Growth by 2026 | Grid4C, Watty, BuildingIQ"
+    excerpt: "COVID 19 Outbreak Global Artificial Intelligence in Energy Industry Market Report Development Trends Threats Opportunities and Competitive Landscape in 2020 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic"
+    publishedDateTime: 2021-09-27T19:26:00Z
+    webUrl: "https://www.openpr.com/news/2408599/artificial-intelligence-in-energy-market-to-eyewitness-massive"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "AwMmU3vreAlheSlnQ/2i7v8ert1Jil/YdHthp15nlFiIB3yzFzNDg41eBJBQtNLoBkX9vhJsVhGNlLMcrRcOpGO9qm48Rjd2wdMNKucf3o6KKW113jazkGJaXrEXDtqn8lnShRayKO75pGvEQcTxczSFmyHwe2ABEDAIprfbR+bFoovjrvyzijw/5JBwZRss3fCP//MpNWEPlwWq6Wk1SSQa1BCbATZRMCyRLOo9CLouz0DdF4zOWik7oXQUf7DINjKxMS/6t6NTm9qKCerl3rAXl8CiNi7YtepOXYWF25I9EfE85RsPaMCWcVGjOFJxC512juBFP4GWie3fYE1PGgxVAtQrTfq4WgO2Lcpq5Mk=;BgN7v8h51RuU3M+GHbEFCg=="
 ---

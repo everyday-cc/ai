@@ -62,6 +62,24 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 23
+  - title: "AI in Energy and Utilities Market Forecast to Reach $4.5 Billion by 2026"
+    excerpt: "Technological Advancement Driving New Applications and Rise of Microgrid Adoption Driving the Growth of AI in Energy and Utilities Market The <st"
+    publishedDateTime: 2021-09-27T19:51:00Z
+    webUrl: "https://menafn.com/1102871862/AI-in-Energy-and-Utilities-Market-Forecast-to-Reach-45-Billion-by-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 16
+  - title: "Artificial Intelligence in Energy Market to Eyewitness Massive Growth by 2026 | Grid4C, Watty, BuildingIQ"
+    excerpt: "COVID 19 Outbreak Global Artificial Intelligence in Energy Industry Market Report Development Trends Threats Opportunities and Competitive Landscape in 2020 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic"
+    publishedDateTime: 2021-09-27T19:26:00Z
+    webUrl: "https://www.openpr.com/news/2408599/artificial-intelligence-in-energy-market-to-eyewitness-massive"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "il+qlZmSui7/rSqTF9nKxSxNvAWGzNwS556GGgzhTzAepvPAgVlnjBHWVTQ9m+LFhAvR+rJYzNtIfGijJfEGcXC22CrCegrmFpKMF21PTnUGIfWMfoT/gPTjpeKo0cqEzbKC/Fs4HonTzJXXdn87nOQRjcXWu59R9tCodRLoO2RD5nr5YUo5ejveX1FplCzcuIS2+UO6U9xRgQRrAayoacxk9uktPmf0qde37e//8FEa79dhoAsZxrEDRVWfco1Ajw1wrcbqEUdikZLNcAtm/lvorsqF5Jk5wCXdvK9vT346X596ii1q2Pa/Xshrd1YDtobKIVLknBMsC8bWKOskRzt3wkrnmLGxfavXtncPHPQ=;yvOUChYj9WTuugM8XG3Lkg=="
 ---

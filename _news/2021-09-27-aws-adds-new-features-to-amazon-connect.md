@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-27T12:58:00Z
 originalUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361022/aws-adds-new-features-to-amazon-connect"
 webUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361022/aws-adds-new-features-to-amazon-connect"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: IT Pro

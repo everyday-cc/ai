@@ -135,6 +135,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "So 'Self-Driving' Doesn't Mean It Drives Itself? What DOES It Mean, Then?"
+    excerpt: "Tesla, despite insisting (for regulatory purposes, and because it's true) that the \"Self-Driving\" software they're testing isn't really \"autonomous driving,\" is going ahead and opening its Self-Driving beta to any Tesla driver it deems to be a relatively ..."
+    publishedDateTime: 2021-09-27T18:49:00Z
+    webUrl: "https://www.allaccess.com/talk-topics/q/id/57756"
+    type: article
+    provider:
+      name: AllAccess
+      domain: allaccess.com
+    quality: 3
 
 secured: "0bVi/G7n7LpnDdYbwAoB7jsrdH+7dU+X7ViG6NyRtHcNtRSHq/LsDsDjEmWVzEDZxR1WrfljhixWjdlIZ+wco5E7/2Z3BdPuftDf2k4I4u9LF+i/9iWdAGw3OE7+GODX1r9ElnuHPEmb0OMVXTbIvnkp0b9d8SNwpBRKiJGEAy84A/FBokp1oD0wYgbid8aZjbtgToeaOkVn4nDcSsErflTOLGMDJP1muqT0qxMEVvdX88YbTIvFh4K30ipD144CH9breMtXmwzp/VHUpeVeMdkB5bRTCzfT0fE3jHyIQWOZI16L2o6waBOKxnvc9SRgk7AKCHP32LbMXzHwAwUI9X+vD1U6HkhOUZ91qcHYAFU1yjfcamvrhnO2WJqPoxHntGlauiamgEMCkHobO/OvWQqSfeZR1qQywuMe18gI5EmM1RE/QM0wP74UzASs+vEX3MBBnPXYd7niA04gSs7LTpmK06BEr+LwN6WEnznQ5+iP53XCliW97x5m+nFGUb65BMeb86HpQJjM18Ii1nc6Hw==;IxJ9jW+by9La0Hq57n8OBg=="
 ---

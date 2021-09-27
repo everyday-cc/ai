@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-g
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/amp/"
 type: article
 quality: 103
-heat: 423
+heat: 433
 published: true
 
 provider:
@@ -494,6 +494,15 @@ related:
     provider:
       name: The Daily Beast
       domain: thedailybeast.com
+    quality: 19
+  - title: "Anyone can request access to Tesla’ Full Self-Driving beta"
+    excerpt: "This new button allows any Tesla driver to request access to the company’s ‘Full Self-Driving’ (not technically full self-driving) beta. Musk says that new entries to the beta program will need to have their driving style assessed by the car for a week to ensure they’re not too aggressive."
+    publishedDateTime: 2021-09-27T18:45:00Z
+    webUrl: "https://mobilesyrup.com/2021/09/27/anyone-can-request-access-to-tesla-full-self-driving-beta/"
+    type: article
+    provider:
+      name: MobileSyrup
+      domain: mobilesyrup.com
     quality: 19
 
 secured: "LFAhFnugS6kKtt/K1WYCcL1zbai7RwFHsdLyQeWaaPMQXLDXeh2AFfu61Xa0WD85RzW8wGeK9s0FGMx7POxc9QOHE+fRSaxxxk6CYeg1jAV39AXh0wGvR5uQKwh0ObrAEDVKn88TrEjpoOIqxmi+KRDlnZ9tr9OStwHRxR0b5mWqwx5sRFy5RshuuD4G/7z9oKuDvxI8KhX8deih5bK7/b2L4kf4H5Bc8dPCa2jqxbv/vKZMz4gUVRsL7hFdke5EKb7YOcnIBQwYoYAaXhb/fsQICW2UO2DcWt9YiYRxx4ca689SejKGyFIwXXNHSgTX8euApC9IGmRbhEK69s1NUJkHRwOUOdNQxNfqQOoLuqXvFV1V33K1FFxKrltOTst1Vly1Jl3dfK3XqvHxOGAjJtdo/uiniD33SVKesn/20D7pPa2SMxPsxF9AQ9omps3Wh1bbNkCz5XJauOH03rbZoE+nVsAMiBYYi61EYukTRS1+jEdB5sjVbvyA56Efh3OzjxYpK4Ybid+94yjRpEZlaw==;Vf/eh5kc087rG32w7+2tOA=="

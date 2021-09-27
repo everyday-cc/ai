@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla uses YouTubers to test self-driving tech on public streets rather than trained safety drivers"
+    excerpt: "Safety experts are outraged Tesla lets would-be influencers test version 10.1 of its Full Self-Driving AI. One YouTuber lurched toward pedestrians when his steering wheel suddenly veered right."
+    publishedDateTime: 2021-09-27T21:42:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10034491/Tesla-uses-YouTubers-test-self-driving-tech-public-streets-trained-safety-drivers.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10034491/amp/Tesla-uses-YouTubers-test-self-driving-tech-public-streets-trained-safety-drivers.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10034491/amp/Tesla-uses-YouTubers-test-self-driving-tech-public-streets-trained-safety-drivers.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 60
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/09/27/21/48467277-0-image-a-4_1632775943927.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "How Driverless Car Works?"
     excerpt: "You must have heard about the driverless cars, but how does it actually work and how is it controlled merely using one software through artificial intelligence? Here is the report. Watch video on Zee"
     publishedDateTime: 2021-09-23T16:18:00Z
@@ -72,20 +88,6 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Tesla%20logo%20car%20web.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Who is responsible if a self-driving car kills a pedestrian to save the driver?"
-    excerpt: "Unthinkable: Governments put their trust in big tech as they lack expertise"
-    publishedDateTime: 2021-09-23T04:00:00Z
-    webUrl: "https://www.irishtimes.com/culture/who-is-responsible-if-a-self-driving-car-kills-a-pedestrian-to-save-the-driver-1.4678862"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 20
-    images:
-      - url: "https://www.irishtimes.com/image-creator/?id=1.4678861&origw=1440"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "GvfBiCXUBB7PlNnKep2wN7rSTVfgnv9Eh/LiHLR0OvNN2NfWQwR++Ekp9GEtQ+QrMRqzLtfTQe+qVVBQKzbxe0zPJB/7koGBNR0ruNlX4ioxdcBK+zpc+KJoNXBkhgBVakYddhtV8IwqnkFn4DwfpA3GumqPe4Q2yl5ukzPyq/ELrzeSJFgKt2+OdhOrVYwraxFhLbPvN5yjOO4WRaDi1gjyDasABQ+IzpSiD0BSoi22GlYvWIQb4NXpK1qhJsdSoL9Tt26sXEvaIPa6CGSbhDqJgeM1IWCHR0twp3OrJNY+ig3zKZOQ5qYBPJi4G/1/2lMVLuJL8CVi6ufg696V5aD0HeyaBWpP23H/vTZvdapGbYzTlCBKIRcGRED5VatYVyN0rAexlqZmVy5CaYx88ww3JiN3NhUTPwxPv34uSK7KKm4/EreQreUKAv+f/qg9c3VeHa/3sgKQkB5cmVeyVQaWTaiKuUv7rk7L0vk3xYPnBBnGlKqeAkjOGKa6VoO+d8wYhjUlE9FRUMzzgq0x/w==;WST+2gF3vtmiky+G3wxidw=="

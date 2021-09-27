@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-27T16:45:00Z
 originalUrl: "https://www.plasticstoday.com/resin-pricing/resin-price-forecaster-leverages-ai-machine-learning-predict-trends"
 webUrl: "https://www.plasticstoday.com/resin-pricing/resin-price-forecaster-leverages-ai-machine-learning-predict-trends"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Plastics Today

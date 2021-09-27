@@ -952,6 +952,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-26-bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide.md",
+      "title": "Bennett to urge action on Iran in UN speech, won’t focus on Palestinians — aide",
+      "excerpt": "PM will warn at UN that world at a ‘critical stage in the Iranian nuclear program’; adviser says Israel’s ties with world ‘multi-faceted,’ mustn’t be defined by Palestinian issue",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide/",
+      "originalUrl": "https://www.timesofisrael.com/bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2021/09/F210912OF03-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide/amp/",
+      "publishedDateTime": "2021-09-26T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-26-the-lse-alumni-turning-their-university-into-a-startup-powerhouse.md",
       "title": "The LSE Alumni Turning Their University Into A Startup Powerhouse",
       "excerpt": "A Google-backed student Lead, a CEO of a unicorn, and a college VC fund are joining forces to create a startup powerhouse in one of London’s most iconic universities, the London School of Economics (LSE),",
@@ -1063,7 +1106,7 @@
       "originalUrl": "https://manometcurrent.com/artificial-intelligence-ai-in-education-market-to-eyewitness-massive-growth-by-2026/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 126,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1138,57 +1181,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-abductive-inference-is-a-major-blind-spot-for-ai.md",
-      "title": "Abductive inference is a major blind spot for AI",
-      "excerpt": "While an AI winter might dampen interest in deep learning and data-driven AI, it can open a new generation exploration.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/",
-      "originalUrl": "https://venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Myth-of-Artificial-Intelligence-e1632252905596.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/amp/",
-      "publishedDateTime": "2021-09-24T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
