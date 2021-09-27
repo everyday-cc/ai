@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Share India set to disrupt the algo-trading, fintech"
-    excerpt: "Share India Securities Limited has announced the acquisition of two companies namely - Algowire Trading Technologies Private Limited and Utrade Solutions Priva"
-    publishedDateTime: 2021-09-23T06:28:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271265988/share-india-set-to-disrupt-the-algo-trading-fintech"
+  - title: "Guidewire Named to 2021 IDC FinTech Rankings"
+    excerpt: "Guidewire Software, Inc. (NYSE: GWRE) announced it has ranked number 30 out of 100 on the 2021 IDC FinTech Rankings. This is the first year Guidewire has appeared on the prestigious list and the company is the sole P&C insurance industry core systems provider included in the rankings."
+    publishedDateTime: 2021-09-23T12:56:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-software-insurance-industry-san-mateo-2f4ae05bce59474f8b091264c6d7469c"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
+      name: Associated Press
+      domain: apnews.com
     quality: 24
     images:
-      - url: "https://cdn.bignewsnetwork.com/ani1632378030.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "The Rise of Insurtech In The Pandemic Era: FinTech is Transforming The Insurance Industry"
-    excerpt: "Insurtech has recently emerged in the insurance space growing by leaps and bounds, helping organizations protect their business and execute transactions remotely during the"
-    publishedDateTime: 2021-09-25T22:53:00Z
-    webUrl: "https://www.bbntimes.com/financial/the-rise-of-insurtech-in-the-pandemic-era-fintech-is-transforming-the-insurance-industry"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 15
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Rise_of_Insurtech_In_The_Pandemic_Era-_FinTech_is_Transforming_The_Insurance_Industry.jpg"
-        width: 1687
-        height: 1080
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Hexaware Technologies Named in the Prestigious IDC FinTech Rankings' Top 100 by IDC Financial Insights"
     excerpt: "IDC FinTech Rankings represents the leading hardware, software and service providers of the financial services industry from around the world. Vendors are ranked based on the 2020 calendar year revenues attributed to"

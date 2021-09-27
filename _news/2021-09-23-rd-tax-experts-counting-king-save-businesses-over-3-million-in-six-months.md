@@ -18,17 +18,6 @@ topics:
   - AWS AI
   - AI
 
-related:
-  - title: "PPRO Clamps Down on Financial Crime Risks, Partnering With and Investing In AI-Driven Transaction Monitoring Startup Sentinels"
-    excerpt: "PPRO, the leading local payments infrastructure provider, has today announced a strategic partnership and minority investment in Sentinels, Europe’s leading transaction monitoring startup … Continue R"
-    publishedDateTime: 2021-09-23T14:08:00Z
-    webUrl: "https://multichannelmerchant.com/press-releases/ppro-clamps-down-on-financial-crime-risks-partnering-with-and-investing-in-ai-driven-transaction-monitoring-startup-sentinels/"
-    type: article
-    provider:
-      name: Multichannel Merchant
-      domain: multichannelmerchant.com
-    quality: 0
-
-secured: "GvfMe/UG0RVwSp41PMi/ltGc7svq640Hcy2uxpnjGzCHiS+yY6t8Nxc/cVyIcFfrrsbYq9/fNL98YVs/DU+yzQN+tVrQL7vzPnnJnBT6HGNxMiQmZ7ReGI4HTJdzYT1qeRn8i+/onSMSNstUoUZk7/D5DJSoFQrjkhmOOc27oaCKn7R9rIAtyed8vSXJMm+bFD8CP6rgwKwF5laGzCM5RqgGoXKbclGjUxYxlkfEpAWSYVLTSsueG4iaOg9K3XfUpp+oQO1X8UuqwOxHoXI2QCExBhNQPa4DZok7Blq/Nn9GElTJOM1juHft+l614+qSd1GOCFpW0KRd2B85Pas1xRiQNtfJfhwqW+Ga3zEcg/I=;lQcqjD81ZgzmNcW4QciCMQ=="
+secured: "7D+I+HFL9naT6Dtsx9XlclM2pKxJD36bvaIHQjgUtSrifEE/yHXMQJrJ5tZ6Xt+SQ8LehtOnK09eJ6FeBcHZMKgB3AqO5vsXUTHrHHIC3y/dpcpLWSEUv7wvA1bbLZ2POaVDDirDIWQ8y+0DMU6hq/dJ8bS7ibu+xa3SrNCoOWJ5C/gj08snU855Wq7JeTJjqraE9uHSK1y+9tGCPkD9jAMfI73RsILh+tWuiOfo6DOIfxnqPqRGaqLJ3U/ObaT9GqJYJGb5VVQupGIy6ds2MNGOtlfsvSFZjhk/ioe1ArDPNfB37j/5ZiSFCrjVarvfQ8/+Mcvi+Ltz6WKzOvyi0Imi8teEqCcztiqHjC3NukE=;CudHGuLExmm73qL0Mq4Wzg=="
 ---
 

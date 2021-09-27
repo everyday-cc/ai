@@ -57,20 +57,6 @@ related:
         width: 708
         height: 400
         isCached: true
-  - title: "Nvidia Shows Arm CPUs Run ‘Neck And Neck’ With x86 For AI"
-    excerpt: "Nvidia said it has proven that Arm-based CPUs can provide nearly the same level of performance as x86-based CPUs for AI using new data from MLPerf."
-    publishedDateTime: 2021-09-22T19:15:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-shows-arm-cpus-run-neck-and-neck-with-x86-for-ai"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/026d-134e3e3b1317-4d3d3733ca1a-1000/armnvidia.jpg"
-        width: 1500
-        height: 1124
-        isCached: true
 
 secured: "WuuUE+UirvbhH6fe01j8Yj5v66bzPLSFL9PFWVJaS3oELyuWwOlD523rVRJDB01hl00XJ1DLtutMUzP5BbG55OlT/QJl/ghH7k9T/icQl4Z9+8NmwDzFDex++J90AMvWlzCPBMxPt/yBY3pT/ZiAJZWOsKIHxNhbTCuXAYkwDmIiZWllj/IKfjjk+g0M7dAFtc7/S7vMDfl/JjeGcDCZZfeacIPb0orjOcu05e2adjvUs+NW+lr6cqdeSRz/K1w6bbEDEx79QxVIDPdbcDT1v4/q/it9tb0VqRkWFTkVvr8JYcDm3WnXVSUigk3e8h7gGsHANs319kK9OlJQNUATHPFUxyaz8unaGgI6/rRt9oM=;JckcHo2diGVKZJmmwoZtZg=="
 ---

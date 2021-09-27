@@ -437,6 +437,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
+  - title: "Tesla owners: You can now request the Full Self-Driving beta test but you better be a good driver"
+    excerpt: "With Tesla’s Full Self-Driving feature continuing to receive updates, it was announced recently that the company would begin rolling out requests for the FSD beta. According to The Washington Post, this means that drivers can now upgrade their cars to the FSD versions by requesting the feature."
+    publishedDateTime: 2021-09-27T13:14:00Z
+    webUrl: "https://knowtechie.com/tesla-owners-you-can-now-request-the-full-self-driving-beta-test-but-you-better-be-a-good-driver/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 26
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2020/09/tesla-hw2-autopilot-promo-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Tesla owners can now request ‘Full Self-Driving’, prompting criticism from regulators and safety advocates"
     excerpt: "Tesla began letting owners request its “Full Self-Driving” software early Saturday, opening up for wide release its most advanced driver-assistance suite and signaling thousands of drivers will soon be on the road with the unregulated and largely untested features."
     publishedDateTime: 2021-09-24T22:45:00Z

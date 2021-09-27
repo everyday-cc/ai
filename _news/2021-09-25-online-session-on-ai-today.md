@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 517
         isCached: true
+  - title: "14 Smart Ways Businesses Can Leverage AI For Growth And Efficiency"
+    excerpt: "From automating repetitive processes to forecasting to better serving customers and clients, companies can realize significant productivity gains and cost savings from the smart application of AI."
+    publishedDateTime: 2021-09-27T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614e24dfe81f627517f55f01%2F0x0.jpg"
+        width: 1200
+        height: 775
+        isCached: true
   - title: "Nosh uses AI to help people and businesses cut down on their food waste"
     excerpt: "When founder Somdip Dey was a computer science masters student at the University of Manchester, his parents got in a terrible car accident. He"
     publishedDateTime: 2021-09-27T04:31:00Z

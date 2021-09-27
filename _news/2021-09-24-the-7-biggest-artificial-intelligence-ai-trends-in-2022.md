@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/09/24/the-7-biggest-ar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/09/24/the-7-biggest-artificial-intelligence-ai-trends-in-2022/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) in Mining Market Future Developments, Companies, Trends, Share and Size Forecast"
+    excerpt: "ReportsnReports has uploaded a latest report on Artificial Intelligence AI in Mining Industry from its research database Artificial Intelligence AI in Mining Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence AI in"
+    publishedDateTime: 2021-09-27T11:58:00Z
+    webUrl: "https://www.openpr.com/news/2408036/artificial-intelligence-ai-in-mining-market-future"
+    ampWebUrl: "https://www.openpr.com/amp/2408036/artificial-intelligence-ai-in-mining-market-future"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2408036/artificial-intelligence-ai-in-mining-market-future"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 53
+    images:
+      - url: "https://cdn.openpr.com/U/9/U927717989_g.jpg"
+        width: 604
+        height: 400
+        isCached: true
   - title: "Trends in Artificial Intelligence (AI) in Cybersecurity"
     excerpt: "These 5 trends in artificial intelligence (AI) in cybersecurity underscore the overall shift toward AI applications across many fields:"
     publishedDateTime: 2021-09-27T07:12:00Z

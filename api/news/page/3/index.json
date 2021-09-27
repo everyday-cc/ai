@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-23-cluster-time-series-data-for-use-with-amazon-forecast.md",
+      "title": "Cluster time series data for use with Amazon Forecast",
+      "excerpt": "In the era of Big Data, businesses are faced with a deluge of time series data. This data is not just available in high volumes, but is also highly nuanced. Amazon Forecast Deep Learning algorithms such as DeepAR+ and CNN-QR build representations that effectively capture common trends and patterns across",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/cluster-time-series-data-for-use-with-amazon-forecast/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/cluster-time-series-data-for-use-with-amazon-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/23/ML-5283-img2.png",
+          "width": 900,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-23T15:59:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-24-scientists-develop-artificial-intelligence-method-to-predict-anti-cancer-immunity.md",
       "title": "Scientists develop artificial intelligence method to predict anti-cancer immunity",
       "excerpt": "Researchers and data scientists at UT Southwestern Medical Center and MD Anderson Cancer Center have developed an artificial intelligence technique that can identify which cell surface peptides produced by cancer cells called neoantigens are recognized by the immune system.",
@@ -149,7 +201,7 @@
       "originalUrl": "https://techcrunch.com/2021/09/23/nosh-uses-ai-to-help-people-and-businesses-cut-down-on-their-food-waste/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -173,57 +225,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-how-multi-skilled-ai-could-chart-a-path-to-human-like-intelligence.md",
-      "title": "How multi-skilled AI could chart a path to human-like intelligence",
-      "excerpt": "Multi-skilled AI is one of the latest buzzwords in computer science. The approach expands the senses of machines to support more flexible intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/can-multi-skilled-ai-make-machines-more-intelligent",
-      "originalUrl": "https://thenextweb.com/news/can-multi-skilled-ai-make-machines-more-intelligent",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FUntitled-design-1-3.jpg&signature=c25bdf710d08cc3132c33c33ee35707d",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-23T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -357,7 +358,7 @@
       "originalUrl": "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 393,
+      "heat": 403,
       "tags": null,
       "images": [
         {

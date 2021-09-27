@@ -1,30 +1,20 @@
 ---
 category: news
 title: "4 Stocks to Benefit From Continued Demand for AI"
-excerpt: "Companies look set to increase their spending on AI to reap its myriad benefits, making it wise to look at names like NVIDIA (NVDA), Microsoft"
-publishedDateTime: 2021-09-20T13:01:00Z
-originalUrl: "https://www.entrepreneur.com/article/386471"
-webUrl: "https://www.entrepreneur.com/article/386471"
+excerpt: "Thanks to these conveniences, companies around the world look set to increase their spending on AI solutions. Per a report by the International Data Corporation published on Aug 4, worldwide revenues for the AI market are expected to grow 15."
+publishedDateTime: 2021-09-20T10:59:00Z
+originalUrl: "https://www.nasdaq.com/articles/4-stocks-to-benefit-from-continued-demand-for-ai-2021-09-20"
+webUrl: "https://www.nasdaq.com/articles/4-stocks-to-benefit-from-continued-demand-for-ai-2021-09-20"
 type: article
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-386471.jpeg"
-    width: 635
-    height: 400
-    isCached: true
-
-secured: "CGrjObzoTemHBI6nsmVQsz+gPx3qn5wjKbGOsoHWVL11CQFOhLJEPHeAiqLyhcLGLb7bDFiMges8HG+PbrjIKT6xITSz+96rYxj/+hWCMA5biE3Tuk9pIQIXBzNzcIWLn/CwpTb6p/ls/QPjt7WYIttGMnpbUlt6DUK1djJtaeoh7eOrdJ//BtmGu8PyAe5T3+aa5jo/+DBbSei1hUyrl9h5eJR0Q0WE256BbFaCRKr+2kDpBZo24cEbM8Mxp2WaBNSS3joA6Sngzm6GlkXpiphk4yF8bnGmiMkfiBZ390S2pI4+gln7jpEnJsoU/wTQusImCaNDdPfrYCHrld16Tlw7/5cHS6l/+s/veK0VyAY=;kC04DEOMEwA7rdzU/hMIlg=="
+secured: "wTdSInUFyzy2iwrI6qJ2cW9nDVWKqYTj4HbkBrRZ17f/9XJ9ft/yKmEsUvYCCPfHGUcLLLaVHN+8zdM6/YHw54Us7cNQW9uot94a7w92a2so5Tboxf3dSZtCArDx1ocz+6smyymJ8PkcY4wYwfVIs9WcHnOUZYkfj3YDZ8Q7rWPhtxQphPYLpChVRMn9U7HGe/xYh9/AoUDGQ6AIdQ6zm8+IT8U8ZgwCvX0NluFTWKIRPv2lQegIetfCJGF7Bi8/4MDsgi5Pjv92+IWdsIJe2PvaUoM4+gjoj4ve4T/5DwVtr8aymdjGNa2Es9pDcNnO4ySZlmd5nIgKUanZVJ4ZT2WrMB6xMOr8F0u05iJ2qzE=;jAE/ES1+1EsbONLJ7Jb7Rg=="
 ---
 

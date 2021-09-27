@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-27T08:59:00Z
 originalUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-jobs-for-freshers-in-india/"
 webUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-jobs-for-freshers-in-india/"
 type: article
-quality: 31
-heat: 31
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Top-10-Artificial-Intelligence-Jobs-for-Freshers-in-India.jpg"

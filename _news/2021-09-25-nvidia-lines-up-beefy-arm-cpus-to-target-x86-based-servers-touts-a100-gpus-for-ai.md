@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/nvidia-arm-cpus-a100-gpus-x86-based
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-arm-cpus-a100-gpus-x86-based-servers"
 type: article
 quality: 68
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://i1.wp.com/technosports.co.in/wp-content/uploads/2021/09/MLP2-Arm-x1280.jpg?fit=1280%2C690&#038;ssl=1"
         width: 1280
         height: 690
-        isCached: true
-  - title: "Nvidia Shows Arm CPUs Run ‘Neck And Neck’ With x86 For AI"
-    excerpt: "Nvidia said it has proven that Arm-based CPUs can provide nearly the same level of performance as x86-based CPUs for AI using new data from MLPerf."
-    publishedDateTime: 2021-09-22T19:15:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-shows-arm-cpus-run-neck-and-neck-with-x86-for-ai"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/026d-134e3e3b1317-4d3d3733ca1a-1000/armnvidia.jpg"
-        width: 1500
-        height: 1124
         isCached: true
 
 secured: "l8FPJi59aD5b2jEfT51gm2YhWLmJHxwUjmYBz+FHqn0bafBWOFRvi39CjrJd8ddRSig+jWgQvMH135uwBGQA5Y85SLiqSlYKi4qgCODZN/esFaG1ihjGZZrShm6owP8p23X9CQcq+HLv4tG4hlyqgdlZk37cR41hYojmo14Br8u/WpUq9P4uZvZSejK2FdOY8jjYWAwXpJYFJ1fmnenrG2aBbAmBw+/vo+3owa4radChOsxkXc3rkq6oJX1912z9wWXUoePFyT8RbuxgAksIxlNderLc4SwmQnZozySsecaq5RMol07iC3TLLjfBpONny/BPxAimRRc9vXgPoyWEs6GFd7nliFscpgx72PHxx7UHIXDX7JxcyY7YA8LvaHrU2yHK7vbi75I+qd3vddo5HVYXrIMaZITDSI9m4ncsx09RYgQNC1aDLwh6AGh6duucgkkl4QMeQVqNYXtSplkaxqjOo6xQ45gzHrlYe5FMYoGzMU/w8r+FMeHKTWyT6c1qdREcs1Y+VPWwdkN7fVw2sw==;ko4DHEQqxmaljJVJZdo4xA=="

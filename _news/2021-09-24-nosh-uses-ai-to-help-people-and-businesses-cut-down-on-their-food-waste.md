@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/23/nosh-uses-ai-to-help-people-and-bu
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/23/nosh-uses-ai-to-help-people-and-businesses-cut-down-on-their-food-waste/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "14 Smart Ways Businesses Can Leverage AI For Growth And Efficiency"
+    excerpt: "From automating repetitive processes to forecasting to better serving customers and clients, companies can realize significant productivity gains and cost savings from the smart application of AI."
+    publishedDateTime: 2021-09-27T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614e24dfe81f627517f55f01%2F0x0.jpg"
+        width: 1200
+        height: 775
+        isCached: true
   - title: "Online session on AI today"
     excerpt: "Prathidhwani, a welfare organisation of IT employees, will organise its 100th session under the aegis of the Prathidhwani Technical Forum on Sunday from 11 a.m. to 1 p.m. The session on ‘How Artificial Intelligence is impacting social change and accessibility’ will have Robin Tommy,"
     publishedDateTime: 2021-09-25T13:22:00Z

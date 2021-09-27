@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 682
         isCached: true
-  - title: "Drones, Self-driving Cars, and Everything in Between"
-    excerpt: "Pete Buttigieg first came on the scene as a small town Mayor in Indiana. He launched onto the national stage as a presidential candidate for the Democratic party in 2020. He now serves as Secretary of Transportation under the Biden administration,"
-    publishedDateTime: 2021-09-22T20:55:00Z
-    webUrl: "https://techcrunch.com/video/drones-self-driving-cars-and-everything-in-between/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 54
-    images:
-      - url: "https://img.vidible.tv/prod/2021-09/21/614a00878d2a440b0abbd474/614a014656a7033202b011c6_o_U_v1.jpg?w=640&h=360"
-        width: 640
-        height: 360
-        isCached: true
   - title: "California makes zero-emission self-driving vehicles mandatory by 2030"
     excerpt: "California will require all light-duty self-driving vehicles to emit zero emissions starting in 2030. Governor Gavin Newsom signed into law a bill sponsored by environmental groups that would eventually prohibit gas and hybrid-powered autonomous vehicles from operating in the state."
     publishedDateTime: 2021-09-25T05:50:00Z
@@ -118,12 +104,17 @@ related:
   - title: "Half of people say they are better drivers than computers will be"
     excerpt: "Brits are reluctant to relinquish driving duties, with almost half of us saying we’d prefer to drive ourselves rather than rely on self-driving technology. A study by Volkswagen Financial Services UK (VWFS) has revealed that 46% of British motorists think they’d be a better driver than driverless cars powered by Artificial Intelligence."
     publishedDateTime: 2021-09-27T10:09:00Z
-    webUrl: "https://www.coventrytelegraph.net/news/uk-world-news/half-people-say-better-drivers-21686050"
+    webUrl: "https://www.nottinghampost.com/news/uk-world-news/half-people-say-better-drivers-5974656"
     type: article
     provider:
-      name: Coventry Telegraph
-      domain: coventrytelegraph.net
-    quality: 4
+      name: Nottingham Post
+      domain: nottinghampost.com
+    quality: 24
+    images:
+      - url: "https://i2-prod.hulldailymail.co.uk/incoming/article5974634.ece/ALTERNATES/s1200/0_samuele-errico-piccarini-MyjVReZ5GLQ-unsplash-1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "IqEPeUyINv/0XI7DpRMeEdzSMAEL0+hYs9Nggq2/JKkRtlWtl7SjxAK3o9LT8BTXMuU5zFP+/Rd/9I7oUqQ340695Gm0u3tYNUB+Ynz476QKdJFo28jeSikm3iG8LZ7nxrUsZA8LoswV3LTNWSgpfqBDyA3RQo/o7hLxo+0ABhb7DMqh3CRJa9FU43iIeuGYTND4/ZXBSDppAq3zFZx2HKocycjr3A571dLC+dfT3Iug5maGSx4JJIZukLQJ8v4zQhlruCMbwbketvMPDX4ULeLV1IeXMP8EpiXm/16Bh4So8fHUpkcS/i7IeqECi7x/XNci0tUJnOi36ccM6nDcggBAPfYkdd3o75+jIIhxaWrqJc3Y3Krly1MmupqVBgUJiXDQ9Xp8EYMOH7KyQuWcGZycffsOA99HpKOgT4S0v8aJCO6jhqtR/qaDdorRmicUJJy+Sx9HhG1vM1g50Rvo8LRghSqX/f2xPVJO7LoVJW/PQLs4VGxnzvyoQ00YoXZEkt30dpKZqyZ82IbBAQ2jyw==;yqZIJ3VIb6dBL5S3COea4A=="
 ---

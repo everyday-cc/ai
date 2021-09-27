@@ -3,20 +3,26 @@ category: news
 title: "Half of people say they are better drivers than computers will be"
 excerpt: "Brits are reluctant to relinquish driving duties, with almost half of us saying we’d prefer to drive ourselves rather than rely on self-driving technology. A study by Volkswagen Financial Services UK (VWFS) has revealed that 46% of British motorists think they’d be a better driver than driverless cars powered by Artificial Intelligence."
 publishedDateTime: 2021-09-27T10:09:00Z
-originalUrl: "https://www.coventrytelegraph.net/news/uk-world-news/half-people-say-better-drivers-21686050"
-webUrl: "https://www.coventrytelegraph.net/news/uk-world-news/half-people-say-better-drivers-21686050"
+originalUrl: "https://www.nottinghampost.com/news/uk-world-news/half-people-say-better-drivers-5974656"
+webUrl: "https://www.nottinghampost.com/news/uk-world-news/half-people-say-better-drivers-5974656"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Coventry Telegraph
-  domain: coventrytelegraph.net
+  name: Nottingham Post
+  domain: nottinghampost.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://i2-prod.hulldailymail.co.uk/incoming/article5974634.ece/ALTERNATES/s1200/0_samuele-errico-piccarini-MyjVReZ5GLQ-unsplash-1.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Those Infuriating Drivers That Take Over The Left Lane And Prevent Passing Will Undoubtedly Be Stifling For AI Self-Driving Cars"
@@ -34,20 +40,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610ae7fa91d476847d9bda78%2F0x0.jpg%3FcropX1%3D141%26cropX2%3D4241%26cropY1%3D452%26cropY2%3D2781"
         width: 1200
         height: 682
-        isCached: true
-  - title: "Drones, Self-driving Cars, and Everything in Between"
-    excerpt: "Pete Buttigieg first came on the scene as a small town Mayor in Indiana. He launched onto the national stage as a presidential candidate for the Democratic party in 2020. He now serves as Secretary of Transportation under the Biden administration,"
-    publishedDateTime: 2021-09-22T20:55:00Z
-    webUrl: "https://techcrunch.com/video/drones-self-driving-cars-and-everything-in-between/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 54
-    images:
-      - url: "https://img.vidible.tv/prod/2021-09/21/614a00878d2a440b0abbd474/614a014656a7033202b011c6_o_U_v1.jpg?w=640&h=360"
-        width: 640
-        height: 360
         isCached: true
   - title: "California makes zero-emission self-driving vehicles mandatory by 2030"
     excerpt: "California will require all light-duty self-driving vehicles to emit zero emissions starting in 2030. Governor Gavin Newsom signed into law a bill sponsored by environmental groups that would eventually prohibit gas and hybrid-powered autonomous vehicles from operating in the state."
@@ -124,6 +116,6 @@ related:
         height: 500
         isCached: true
 
-secured: "UvOfyVT1oC/42mwOm2x5FVboRt0bsRusJvSLYq4DppK4j6uRHlO1algbfM5sFlUa80DyYBkcvzhaD2M7qG/3AO0Hw96RE8u8zo35Z9k/u5+OWjpWgckQhyKucjAfDT+mAa8+9eSFf7oaLShiKJK8CNh3gyMeL78GU3oC/gA4BJtZe7p5Nv9FgH1rsC4v3R8pvfg0L8Bo3JjYndi+nzXyDX1BonHZQ4GG/sYCUT2Wy0taHYx6KH1VvLPdie2OcOw3nH1aaM43gsezuz+D17FVggqWImvv229fq+RXMnypjI6R1cXTe7IT/e3nkomO40soL96EaPj+pKEMtDOCUMqTMU0E9imwL6RGy6E/F4Xmdr5rhDH0c4JtUxDXRvq6THv/MkCEozqVq4AtqeVYJDZI35WG0Iro3RIDIXtcBSL1f4GIQwTXiAQv+rKohC6fiAp37+1TFjK+qFwwED8caaU2zWLpc/gELbLx3wCW5TFKXf0XJch8has+7uZImhAGahUAGI3MMLQ49bmUkgjKzr5OOg==;OI0vfw43RMdaLVVEaAyvhw=="
+secured: "dqdzJPUr8iZS/xvCFdPvITQw0u3kBgl7Jk/doQ4IfNxs2legmE5aNMBGLUf37bumm+yvyLHw1fzWE4ep/mxXTDMxDFbgB5adBGQMavD1s1Syir8+gW9r39CQp7qdoVhUerWMF+ZNwtJDA5VIOoau4ZkBy2ICLQsTjt20RDFiF+vya7vEGe34PafGTYIdSPNkuCRco1VzkrDt68jPL+w+cKdsVlPwPAe2R+PbldFuKfZEL6cTNOJa6YB6JzYAMLa/zwVyLfN8qKwqZzpzha27oKlA9qWrlfyHhT30eSriPiWYuye+R0cgunbxT8u5w8VyJDZBzVCbvY7E+911i2AG12S1wSJYGEfVTZzShFVcyfA=;zTmiI/SjIAsoW7vxi2/YYw=="
 ---
 

@@ -423,6 +423,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
+  - title: "Tesla owners: You can now request the Full Self-Driving beta test but you better be a good driver"
+    excerpt: "With Tesla’s Full Self-Driving feature continuing to receive updates, it was announced recently that the company would begin rolling out requests for the FSD beta. According to The Washington Post, this means that drivers can now upgrade their cars to the FSD versions by requesting the feature."
+    publishedDateTime: 2021-09-27T13:14:00Z
+    webUrl: "https://knowtechie.com/tesla-owners-you-can-now-request-the-full-self-driving-beta-test-but-you-better-be-a-good-driver/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 26
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2020/09/tesla-hw2-autopilot-promo-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Tesla owners can now request ‘Full Self-Driving’, prompting criticism from regulators and safety advocates"
     excerpt: "Tesla began letting owners request its “Full Self-Driving” software early Saturday, opening up for wide release its most advanced driver-assistance suite and signaling thousands of drivers will soon be on the road with the unregulated and largely untested features."
     publishedDateTime: 2021-09-24T22:45:00Z
@@ -452,6 +466,6 @@ related:
         height: 960
         isCached: true
 
-secured: "bqaRDps1ntGtJ6HdmF/uaBHPZgHbsFDL3klSccVyn9mkXwypYTfH0F3U4tg3LSlCQH1bBlgOPBRvzZkzMgher7oh045rUst6TbS2ycuEzTCNU/m0T3ZX1KxMTMSHAGL8lod358L6Ws+n36m5CWscEsMNUYazwrUsD3t9dKLf3v0Ofh1uMpWdKAvypweOWmx5PrHuZeLV7S9gs1CcJmzOD9YFBbz7ZElt9tFGKIZAFqSVs3fSbE2pN31kYDl7qT0E9+I7Ccy+0+HJF/efMhavxslUjDz52nFHXSY3jLIRhul9HBszcNJ2x1SITdd1SwRTeQXwvHN4Dr6f4YwZ498C6UQr8f4XLhc0V5o9ms9XMa4=;SXv2CeZPno+FEFma/blaOw=="
+secured: "3b21oAWTRX98V36ABpZ4Exkr6YMxHG6/15PRtj1/Z3IBUJSYq01upfKyGTZxuOXFrLkQ+MYR6wKdV2rlxvVzt+B2+R1cw52G0jIvg44N+9+9+TpHwZvQvDHzzB5HOsKbXJ9PGgtB5PD1zAaJb7ArPZekOH6wMknUr2+xicXD9Nhzc5DmiGA6Vk7FZXhEElj9vtSlcnrAXVFvXS587+taU2v6+mxJN9t5VjJJni4B/dNnxH+bTcLpQZCf9Dh6oTzspNHxoCS9kspjlROxA4DDfI7X9UzJg1fpvfQ660gzgRBdk3bVQsvMVnddnAn1f/Lz1b+C79StvEWDjJGb4vCGVGjtStAKNwD+JGdDNqQHrL1FS7izIYyiBB0aGb+7oDlIV54Imy4zImW2jPtbokER00mfJxfTBTLCJ5GjuWBytJvXMQEU/sG9wPPGKK2wlKNqtVYM9B55ELA/VyIPHOtDijIbg6fLlLVB3CSBuAXCEyG265mz89/PaArnMOKZIZL0+eMT/4kbmRMkUebt5YHhTA==;lg6oaEMi5NOX++5skpaDEA=="
 ---
 

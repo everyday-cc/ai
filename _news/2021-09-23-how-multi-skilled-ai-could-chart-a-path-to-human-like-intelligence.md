@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/can-multi-skilled-ai-make-machines-mor
 webUrl: "https://thenextweb.com/news/can-multi-skilled-ai-make-machines-more-intelligent"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Next Web
@@ -26,22 +26,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "As Air Force adopts AI, it must also defend it, intelligence chief says"
-    excerpt: "With the Air Force increasingly looking to develop algorithms for machine learning and artificial intelligence, it must also get serious about defending them from adversaries, the service’s top intelligence officer said."
-    publishedDateTime: 2021-09-22T19:53:00Z
-    webUrl: "https://www.fedscoop.com/air-force-artificial-intelligence-algorithm-defend-intelligence-chief-mary-obrien/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 37
-    images:
-      - url: "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png"
-        width: 629
-        height: 607
-        isCached: true
 
 secured: "tPD8HHZCraH9jky84Pn046pHrGRRZ3UPA+VTE1D+t872Hk6hhoSyqGhKsFnQnnvWQHR8xmlwnB0zqcrOBHePkyLxgdV9goeSe+MXyBlS9GgsAzYoU7kEkF3hBJsZURrHAmVRos0wxTr+E/TEPLMA73vX0FmydtgVTbdOBlwewwFvgelqj4cAbe79yzm/HJD05RpCrDWL5M2PyeBGrvxa8vnYxTd5JNo7WT5rwldOMvIVV8ZCJv4k+ZWH1D2D/tpGssSHUVBEyC0V3AR+iaVZTustKgN88u7AnLocDfzksGz2kFBpfs5aMuWeUH6zatbcY4usg8FG8mh7xvRBJ+T6KyDV7SynUrdJMBoN16jOnu0=;Nq7DflZmaEgFbs1852AuNw=="
 ---

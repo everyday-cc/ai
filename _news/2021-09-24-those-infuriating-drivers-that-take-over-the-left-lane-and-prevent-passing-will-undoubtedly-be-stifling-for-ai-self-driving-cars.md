@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/amp/"
 type: article
 quality: 60
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Drones, Self-driving Cars, and Everything in Between"
-    excerpt: "Pete Buttigieg first came on the scene as a small town Mayor in Indiana. He launched onto the national stage as a presidential candidate for the Democratic party in 2020. He now serves as Secretary of Transportation under the Biden administration,"
-    publishedDateTime: 2021-09-22T20:55:00Z
-    webUrl: "https://techcrunch.com/video/drones-self-driving-cars-and-everything-in-between/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 54
-    images:
-      - url: "https://img.vidible.tv/prod/2021-09/21/614a00878d2a440b0abbd474/614a014656a7033202b011c6_o_U_v1.jpg?w=640&h=360"
-        width: 640
-        height: 360
-        isCached: true
   - title: "California makes zero-emission self-driving vehicles mandatory by 2030"
     excerpt: "California will require all light-duty self-driving vehicles to emit zero emissions starting in 2030. Governor Gavin Newsom signed into law a bill sponsored by environmental groups that would eventually prohibit gas and hybrid-powered autonomous vehicles from operating in the state."
     publishedDateTime: 2021-09-25T05:50:00Z
@@ -122,12 +108,17 @@ related:
   - title: "Half of people say they are better drivers than computers will be"
     excerpt: "Brits are reluctant to relinquish driving duties, with almost half of us saying we’d prefer to drive ourselves rather than rely on self-driving technology. A study by Volkswagen Financial Services UK (VWFS) has revealed that 46% of British motorists think they’d be a better driver than driverless cars powered by Artificial Intelligence."
     publishedDateTime: 2021-09-27T10:09:00Z
-    webUrl: "https://www.coventrytelegraph.net/news/uk-world-news/half-people-say-better-drivers-21686050"
+    webUrl: "https://www.nottinghampost.com/news/uk-world-news/half-people-say-better-drivers-5974656"
     type: article
     provider:
-      name: Coventry Telegraph
-      domain: coventrytelegraph.net
-    quality: 4
+      name: Nottingham Post
+      domain: nottinghampost.com
+    quality: 24
+    images:
+      - url: "https://i2-prod.hulldailymail.co.uk/incoming/article5974634.ece/ALTERNATES/s1200/0_samuele-errico-piccarini-MyjVReZ5GLQ-unsplash-1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ZVs087F2xDiP6Ybs48LEGaJ9U9TcaHe+boD5jSsU9x1mCqFYavgAJOEMHpJyhKt58OIni+8IyH/+GD3m143u6oqA78abGN9CmpIN1qnLHtAJOCkyB6Tzk5E10tRx2l8A1EwXiS38+ztBlb8yg8me+b2Dp8M2kaGifH+WRdLWtYwWLGIKS+G6nsqBYYJ4gIqmDi900Iu5d5TbKmH0I4OxuhH0ioJCw+82YEouaRYPBnaiC9+z0S28IW66hfvoWaKa3dsNmOkEVAPAqwoAeU9E6mXx65kYw1FC4NuLBDLJuOYD+GdY5dytShsh9kXg3yeC8CDwpt/kCjwzuzUEpvZPpfabgVWtg+WVdIyIN6WJ0QhQ+pah+fT3huzMOQECCNrZSmB2q+s6k2yxyiqL32K/IfC+7uNRXeWdI8T4ZrDfs6wAjj5kNfcWYHtMOKODqUp2G6xk4hIBhaso8S8Ln6VbOtrilure3p9Ss2CO2HrzVmtgZ2TzWI90aLpOU6Gmyqo2+8x/E9CIbHSnbUEHbaqUvg==;XZGgWl27j8UhLB4AXlC8Eg=="
 ---

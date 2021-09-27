@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/top-8-scariest-ai-and-robotics-mo
 webUrl: "https://www.analyticsinsight.net/top-8-scariest-ai-and-robotics-moments-in-history/"
 type: article
 quality: 64
-heat: 65
+heat: 64
 published: false
 
 provider:

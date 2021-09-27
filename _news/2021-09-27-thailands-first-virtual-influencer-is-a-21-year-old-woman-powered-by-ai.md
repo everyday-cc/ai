@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/17645/thailands-first-virtual-influenc
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/17645/thailands-first-virtual-influencer-is-a-21-year-old-woman-powered-by-ai?amp=1"
 type: article
 quality: 85
-heat: 95
+heat: 97
 published: true
 
 provider:
