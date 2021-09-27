@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook’s Chief Technology Officer to Step Down in 2022"
-    excerpt: "Mike Schroepfer, who leads the company’s artificial intelligence and other technical efforts, said he planned to transition into a role as a senior fellow."
-    publishedDateTime: 2021-09-22T22:50:00Z
-    webUrl: "https://www.nytimes.com/2021/09/22/technology/facebook-cto-step-down-mike-schroepfer.html"
-    ampWebUrl: "https://www.nytimes.com/2021/09/22/technology/facebook-cto-step-down-mike-schroepfer.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/22/technology/facebook-cto-step-down-mike-schroepfer.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 172
-    images:
-      - url: "https://static01.nyt.com/images/2021/09/22/multimedia/22facebook/22facebook-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "4 ways Facebook’s departing CTO Mike Schroepfer shaped the company"
     excerpt: "Facebook CTO Mike Schroepfer announced that he's stepping down from the position after spending 13 years at the company"
     publishedDateTime: 2021-09-23T07:47:00Z

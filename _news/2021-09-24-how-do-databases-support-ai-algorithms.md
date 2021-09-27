@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algor
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/amp/"
 type: article
 quality: 95
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -34,20 +34,6 @@ images:
     isCached: true
 
 related:
-  - title: "Spotting and rooting out bias in AI algorithms for healthcare"
-    excerpt: "Algorithms are everywhere and so are the biases behind them. As algorithms find greater use in healthcare, a panel at MedCity News’ INVEST Digital Health virtual conference addressed how and why algorithms are biased,"
-    publishedDateTime: 2021-09-22T23:04:00Z
-    webUrl: "https://medcitynews.com/2021/09/spotting-and-rooting-out-bias-in-ai-algorithms-for-healthcare/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 54
-    images:
-      - url: "https://medcitynews.com/uploads/2017/02/GettyImages-172595086.jpg"
-        width: 683
-        height: 512
-        isCached: true
   - title: "Researchers having a whale of a time with deep learning AI algorithms"
     excerpt: "Researchers are using deep learning AI algorithms to understand and communicate with whales. Deep learning AI algorithms are becoming the key technology in some of the most complicated use cases around the world."
     publishedDateTime: 2021-09-24T15:59:00Z

@@ -290,6 +290,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla expands ‘full self-driving’ tests, bucking the feds’ safety concerns"
+    excerpt: "Tesla drivers can now use a “request” button on their vehicle’s screen to apply to join a beta test for the full self-driving feature, Elon Musk confirmed."
+    publishedDateTime: 2021-09-27T15:35:00Z
+    webUrl: "https://nypost.com/2021/09/27/tesla-expands-full-self-driving-tests-bucking-feds-concerns/"
+    ampWebUrl: "https://nypost.com/2021/09/27/tesla-expands-full-self-driving-tests-bucking-feds-concerns/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/27/tesla-expands-full-self-driving-tests-bucking-feds-concerns/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 57
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/tesla-69.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Tesla expands self-driving software test — but only to drivers it deems worthy"
     excerpt: "Tesla is rolling out a new version of its so-called Full Self-Driving system, but to be eligible, car owners who've already paid $10,000 for the software must pass a seven-day driving evaluation."
     publishedDateTime: 2021-09-24T22:20:00Z
@@ -466,6 +482,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Tesla Has NDA-Signing Fans Out Testing Its Self-Driving Cars"
+    excerpt: "Instead of deploying trained safety drivers, the electric car maker reportedly has YouTube fans driving around to determine if its new driverless software is safe."
+    publishedDateTime: 2021-09-27T15:22:00Z
+    webUrl: "https://www.thedailybeast.com/tesla-has-nda-signing-fans-out-on-americas-streets-testing-its-self-driving-car-software-vice-reports"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 19
 
 secured: "m48k1nh+S+ewRHRytyEN8xQivBhr3XYSupJi+xTIkmjA+y5d0D2Labgkxn015dmweCACxJiQkEwXVgXiPJZZiK3QTF9Kk8ri3QiAOeekirb8NLXiQYubjhqWrJDxeG/G2KDXOS1DANOZxb+/7yiEvfhNU/rSUwHi1J82XmPgLxLiFIIgyaLHq3Y9Tay3iEoc1V+LU+BGHyXPy4fmklaLTXz5PhmcdsS0TKN7pYmaMx2BgFWQnuvdugmzJIgQpHLkULP92MwcLlNxuMmRfJ7YW6G08QDw5K8jR4y4+5OeX/yC88sAwFuR7q6ujA8P6d+9ze1/u0WT3diYZLyobas4xEhXlOv8yl2mpPfFDqCLuUU=;a1f1v1Fy6Pq5LxQi4B9NtA=="
 ---

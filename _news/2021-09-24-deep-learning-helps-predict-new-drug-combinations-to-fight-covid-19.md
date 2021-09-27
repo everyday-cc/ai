@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/deep-learning-helps-predict-new-drug-com
 webUrl: "https://news.mit.edu/2021/deep-learning-helps-predict-new-drug-combinations-fight-covid-19-0924"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Targets Drug Combos for COVID-19"
-    excerpt: "Using computational biology to identify individual therapeutics that might prove effective in the fight against COVID-19 is already a daunting task, with"
-    publishedDateTime: 2021-09-22T22:16:00Z
-    webUrl: "https://www.datanami.com/2021/09/22/deep-learning-targets-drug-combos-for-covid-19/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/shutterstock_coronavirus_11.jpg"
-        width: 1000
-        height: 594
-        isCached: true
   - title: "Ireland Allies With AI to Combat COVID"
     excerpt: "Ireland’s eHealth strategy leans heavily on AI and Big Data analysis. The nation has a bold seven-year eHealth strategy, with crack professionals, EUR21 billion in hand, and a 100,000-strong workforce."
     publishedDateTime: 2021-09-23T10:02:00Z

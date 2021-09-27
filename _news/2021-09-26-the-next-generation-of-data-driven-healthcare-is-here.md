@@ -9,8 +9,8 @@ ampWebUrl: "https://cointelegraph.com/news/the-next-generation-of-data-driven-he
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/the-next-generation-of-data-driven-healthcare-is-here/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: CoinTelegraph
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How is Data Annotation Enabling the Development of AI in Healthcare?"
-    excerpt: "In recent years, the idea of Artificial Intelligence has revolutionized the healthcare scene, and data annotation is at the forefront of this revolution, persistently driving progress in the development of Healthcare AI through continuous innovation."
-    publishedDateTime: 2021-09-22T21:09:00Z
-    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2021/09/22/450067-how-data-annotation-enabling-development-ai-healthcare.htm"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechzone.com
-    quality: 54
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-sep/8032624491-data23456.png"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "NYU's initiative empowers healthcare workers to take advantage of data-driven technologies"
     excerpt: "How will rapidly expanding health data-intensive technologies affect the future of healthcare work? A team of NYU researchers from the schools of engineering, medicine, and business-led by Professor Oded Nov of NYU Tandon is conducting a broad investigation into how to best bring inclusive tech into the clinic,"
     publishedDateTime: 2021-09-25T06:26:00Z

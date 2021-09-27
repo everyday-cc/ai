@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-26-joondalup-supports-push-to-become-centre-for-artificial-intelligence-and-robotics.md",
+      "title": "Joondalup supports push to become centre for artificial intelligence and robotics",
+      "excerpt": "A major Perth council wants to become Australia’s first urban centre for artificial intelligence and robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113",
+      "originalUrl": "https://www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.perthnow.com.au/publication/C-3759113/76e2e6c6694853bac73137e934cad47d6de4a2db-16x9-x0y198w2756h1550.jpg?imwidth=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113.amp",
+      "cdnAmpWebUrl": "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113.amp",
+      "publishedDateTime": "2021-08-25T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Perth Now",
+        "domain": "perthnow.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-baidus-ai-assistant-raises-b-round-at-51-billion-valuation.md",
       "title": "Baidu’s AI assistant raises B round at $5.1 billion valuation",
       "excerpt": "Baidu’s AI-enabled consumer hardware arm Xiaodu Technology has secured an undisclosed amount in a B round, at a valuation of $5.1 billion. An Alexa counterpart, Xiaodu’s AI voice assistant has been applied in a variety of smart speakers, smartphones ...",
@@ -1373,49 +1417,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-china-revs-up-in-race-to-a-driverless-future.md",
-      "title": "China revs up in race to a driverless future",
-      "excerpt": "The government also wants to scale up production and has set a target of 2025 for half of all new cars to come with partial self-driving features. A Baidu self-driving vehicle in Shougang Park in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/asia/china-driverless-cars-autonomous-vehicles-2118566",
-      "originalUrl": "https://www.channelnewsasia.com/asia/china-driverless-cars-autonomous-vehicles-2118566",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--Ut5fAspQ--/fl_relative%2Cg_south_east%2Cl_mediacorp:cna:watermark:2021-08:cna%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/v1/mediacorp/cna/image/2021-08/china_driverless_car_olivia_1.jpg?itok=WaiOjPdQ",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-20T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

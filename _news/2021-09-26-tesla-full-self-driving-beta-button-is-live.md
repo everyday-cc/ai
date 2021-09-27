@@ -275,6 +275,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla expands ‘full self-driving’ tests, bucking the feds’ safety concerns"
+    excerpt: "Tesla drivers can now use a “request” button on their vehicle’s screen to apply to join a beta test for the full self-driving feature, Elon Musk confirmed."
+    publishedDateTime: 2021-09-27T15:35:00Z
+    webUrl: "https://nypost.com/2021/09/27/tesla-expands-full-self-driving-tests-bucking-feds-concerns/"
+    ampWebUrl: "https://nypost.com/2021/09/27/tesla-expands-full-self-driving-tests-bucking-feds-concerns/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/27/tesla-expands-full-self-driving-tests-bucking-feds-concerns/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 57
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/tesla-69.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Tesla to outsource its self-driving chip to Samsung"
     excerpt: "It is reported that Tesla has decided to outsource its self-driving chip manufacturing to Samsung Electronics. According to the industry on the 24th, Samsung Electronics is reportedly likely to win orders for manufacturing of the HW 4."
     publishedDateTime: 2021-09-27T04:58:00Z
@@ -465,6 +481,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Tesla Has NDA-Signing Fans Out Testing Its Self-Driving Cars"
+    excerpt: "Instead of deploying trained safety drivers, the electric car maker reportedly has YouTube fans driving around to determine if its new driverless software is safe."
+    publishedDateTime: 2021-09-27T15:22:00Z
+    webUrl: "https://www.thedailybeast.com/tesla-has-nda-signing-fans-out-on-americas-streets-testing-its-self-driving-car-software-vice-reports"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 19
 
 secured: "7lticIVZGN4mtWGym5cKiCxuq6QWJv6uE2eYsjnPFdB9EIATxT7eej1TvAmQ26QoMEkDMWrSfKQCOkAQP41HZA+Ytb7nM3lLACpXB8Dxnx+5bPx2VLBJEIQgfp/Y37JR8dseapN9FvfnTK2KAsA3GNB2ymepjpdGBqKtwJy18+b2GttGFILST5PQFaHvQ0olaAtFz7eoNtGd9NmBB8fuFpyJZI5l5QmWVbjMLmxqqKAFfcDUeqMnUb8DNpWRGaoGELkXVJ7fUGU2ChYdPfzU2s5VuFxm1Ix07E22ia8+WB3Sfw23AvPIAG47DoAETW91V99/W6Nl4PGbtsk876dn9L6Yr8wgtOeDJ2Uv0S8b8pnJ0uiH0RCpxrY96dX6xXMLZ4NQMcQsOq08UeYdjsO5OjVkstBICyu23ceGkMeqjqKJVRK+4hpX6BbL7PbBmz5uaRFJ7zIKkGb9IVXz8NcEfb9QT5FS4O//B2YhpE/4nqo2QsAXcX7TtLsB7gxUNpccUbaRxOZhRGR5gRkUWJ64HA==;55lSqSSYga52Yh2iCx+EjQ=="
 ---

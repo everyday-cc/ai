@@ -28,16 +28,16 @@ images:
 
 related:
   - title: "Sentinel Offers AI-Based Solution to Detect Deepfakes"
-    excerpt: "Concept: Estonian startup Sentinel has released a solution to detect fake media content on the web. Its platform helps democratic…Read"
+    excerpt: "Concept: Estonian startup Sentinel has released a solution to detect fake media content on the web. Its platform helps democratic governments, defense agencies, and enterprises stop the risk of AI-generated deepfakes with its protection technology."
     publishedDateTime: 2021-09-27T11:51:00Z
-    webUrl: "https://www.packaging-gateway.com/research-reports/sentinel-offers-ai-based-solution-to-detect-deepfakes/"
+    webUrl: "https://www.power-technology.com/research-reports/sentinel-offers-ai-based-solution-to-detect-deepfakes/"
     type: article
     provider:
-      name: Packaging Gateway
-      domain: packaging-gateway.com
+      name: Power Technology
+      domain: power-technology.com
     quality: 37
     images:
-      - url: "https://www.packaging-gateway.com/wp-content/uploads/sites/2/2021/09/shutterstock_766923355.jpg"
+      - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/09/shutterstock_766923355.jpg"
         width: 500
         height: 256
         isCached: true

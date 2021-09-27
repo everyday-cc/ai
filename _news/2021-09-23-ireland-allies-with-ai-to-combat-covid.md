@@ -39,20 +39,6 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "Deep Learning Targets Drug Combos for COVID-19"
-    excerpt: "Using computational biology to identify individual therapeutics that might prove effective in the fight against COVID-19 is already a daunting task, with"
-    publishedDateTime: 2021-09-22T22:16:00Z
-    webUrl: "https://www.datanami.com/2021/09/22/deep-learning-targets-drug-combos-for-covid-19/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/shutterstock_coronavirus_11.jpg"
-        width: 1000
-        height: 594
-        isCached: true
 
 secured: "Td1ngOgKmu/dxB8Yl+De9B0Mb7HSX6nacghJADP59Ek0CJcBs74WwqchO1W+8GJ7lZI/PRgTB6ynKZW03M4HyRYfTfYwWXzdD0wBDhBBiNJGK8CVkUlI+1J/KQZMOL0LrOL49mAvkx2ikAyn3Y+l0tHq4e3856J6gG4Gi4PDjR30BxxfU//CmnMKKerFDqs7YwOOFp8uyt7zYfKoD84efdsRg1r0+fnP3JctgKX+tKS8lQVb0RVX2i+g/BErUSu+bbIVBepoovuz/7r/G3yAObeS73KKSpmVHu80FgwE+rbsfPyvmdId0R9eN2oNN/duWbIDX3P3jdC3u3tZ8bIObX3XEDAoJMU2gZKaLIj1Y7odN8mFCAEbOALVmUnZkJK2Hyoho/Ca0yzAuxvbnZ9+wLpkpzVbU+FoJDcYaaLExO/h/4mnbunR+tOf8406CFgbRkYMx+DLzLy3qlXnvbUUqqRC2IpSDqnO/MBFEZTAA80pZt1xjuamSQkUlm+fZeKced6/O3YjoNX0a9VVTcAyyg==;hwPVz7KLCTeBudVGjnvYGw=="
 ---

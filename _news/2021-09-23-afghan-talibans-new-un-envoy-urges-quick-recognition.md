@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Taliban face uphill battle in efforts to speak at UN meeting"
-    excerpt: "The new rulers of Afghanistan have an uphill battle in their efforts to be recognized in time to address other world leaders at the United Nations this year. The Taliban are challenging the credentials of the ambassador from Afghanistan’s former government and asking to speak at the General Assembly’s high-level meeting of world leaders this week,"
-    publishedDateTime: 2021-09-22T21:42:00Z
-    webUrl: "https://www.timesunion.com/news/article/Taliban-face-uphill-battle-in-efforts-to-speak-at-16479466.php"
-    ampWebUrl: "https://www.timesunion.com/news/amp/Taliban-face-uphill-battle-in-efforts-to-speak-at-16479466.php"
-    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Taliban-face-uphill-battle-in-efforts-to-speak-at-16479466.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 44
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Taliban's UN envoy urges quick recognition as Pakistan, Turkey express concern"
     excerpt: "In an emergency measure, the UN aid coordinator Martin Griffiths released USD45 million in life-saving support Wednesday for Afghanistan from the world body's emergency fund."
     publishedDateTime: 2021-09-23T08:38:00Z
@@ -76,6 +60,20 @@ related:
       name: Biloxi Sun Herald
       domain: sunherald.com
     quality: 24
+  - title: "Taliban, ex-Afghan government dispute ends with no UN speech"
+    excerpt: "The dispute between Afghanistan’s new Taliban rulers and its former government over who should speak at the United Nations' annual meeting of world leaders finally has an answer: no one."
+    publishedDateTime: 2021-09-27T15:05:00Z
+    webUrl: "https://apnews.com/90837664228c6cd964432655135e33ea"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/9798c56be6964882a11e959407064d87/2000.jpeg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "aF8QHYYjT7kSJGjNNS0yRtk6M0zHO8upNeW5Cix3mHL1fw69QWLeKnbu40PaC/JHkZsh0DywnzGCKNpyPyavFzcUGZ1/T+4xs9Ky+iFYJnoTXNpmyDpvq5Tc6bCySsduYq+4VRKA44iknInYiLzL1KR8b9xS7dabz7d9LAFeXa8fxPvj8gV+rRFVcfw4Oh7Krk7eB3HdPXTpb+kApNai6+1nCggw3CWUad85WB2br8ydaOH8YxWJWEuyWlPUvDyCNmrWcZVR5BLhxjm4GF87kzmngdP8+FrTOQbdaOOdecrJ6A/W16zEPoazNcf/TATw+GI4ZL84mQHwISNt12KwVhEkqW93IuIXkkD16YjGqZAI4O0AynE1l1H3C0qUH9uWm767dFBAdaU7IbO6psCPDOlnZapRFdRxZlHzGYEdsX4boSBBZGLv7ZWk7CLgV5g+CtTOwaMR/rXqArqvzF6MjEh8M+lbNavCiVBwI4MpNw6DlJJu0XyxtqBLKHGgZdzZ57vqx1QW/yLnLkKdhLa9rw==;cXpW3OdgQkY0zYlG3A51QA=="
 ---

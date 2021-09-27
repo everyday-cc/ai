@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-27-edge-computings-applications-in-autonomous-driving-and-business-at-large.md",
+      "title": "Edge Computing’s Applications In Autonomous Driving And Business At Large",
+      "excerpt": "Now is the time to start thinking about how you and your organization — whether you’re part of the automotive industry or not — can make use of the future of edge computing and 5G.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/edge-computings-applications-in-autonomous-driving-and-business-at-large/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/edge-computings-applications-in-autonomous-driving-and-business-at-large/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eeb6bb684bc020007705132%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/edge-computings-applications-in-autonomous-driving-and-business-at-large/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/27/edge-computings-applications-in-autonomous-driving-and-business-at-large/amp/",
+      "publishedDateTime": "2021-09-27T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-25-for-self-driving-cars-the-hot-new-technology-is-radar.md",
       "title": "For Self-Driving Cars, the Hot New Technology Is… Radar",
       "excerpt": "Companies are improving and adapting the century-old technology to help vehicles operate more safely with less human involvement.",
@@ -159,7 +211,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -350,7 +402,7 @@
       "originalUrl": "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 403,
+      "heat": 423,
       "tags": null,
       "images": [
         {
@@ -1377,49 +1429,6 @@
       "provider": {
         "name": "InvestorPlace",
         "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-apple-taps-more-drivers-to-test-self-driving-cars-in-california.md",
-      "title": "Apple taps more drivers to test self-driving cars in California",
-      "excerpt": "Apple is continuing efforts to advance internal self-driving car technology, with the iPhone maker recently registering more drivers to pilot technology test beds on California roads.",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/21/09/14/apple-taps-more-drivers-to-test-self-driving-cars-in-california",
-      "originalUrl": "https://appleinsider.com/articles/21/09/14/apple-taps-more-drivers-to-test-self-driving-cars-in-california",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/44393-86171-210914-AppleTestVehicle-xl.jpg",
-          "width": 870,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/21/09/14/apple-taps-more-drivers-to-test-self-driving-cars-in-california/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/09/14/apple-taps-more-drivers-to-test-self-driving-cars-in-california/amp/",
-      "publishedDateTime": "2021-09-13T20:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
         "images": null,
         "publishers": null,
         "authors": null

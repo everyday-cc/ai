@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Spotting and rooting out bias in AI algorithms for healthcare"
-    excerpt: "Algorithms are everywhere and so are the biases behind them. As algorithms find greater use in healthcare, a panel at MedCity News’ INVEST Digital Health virtual conference addressed how and why algorithms are biased,"
-    publishedDateTime: 2021-09-22T23:04:00Z
-    webUrl: "https://medcitynews.com/2021/09/spotting-and-rooting-out-bias-in-ai-algorithms-for-healthcare/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 54
-    images:
-      - url: "https://medcitynews.com/uploads/2017/02/GettyImages-172595086.jpg"
-        width: 683
-        height: 512
-        isCached: true
 
 secured: "Zcisj4Ff2QOcwi0T890HETjFk4dR+z2uDuPxVX2HZ9BluQELD+mLOnNlD9yko2Fxr07vmHcYK5YfxWc/e8+jWZyZ22au8wWQPE0RbD9nN5nN54JjvmYvoEGXxkNbkoa9m0GtGMTysdd4uWJ8QH5+6JJXDqtgt7ifAuwvRZO9w9Lx6Ez3V8vs/S7VpIJ0qTvPDX6etReYPsSZdjfEEvzdjbqqO/d150tiktixf8/+0yCLQp60T7v2yGoewAa2HZ8WuKRhQrtmcX3yvX3A9bpy6kxOaQfB1On+ApTAYpYc+865SP00UoA0sBrCCi/x6+hz8ZoCLzfQ1pqxYUFRPMxJISITJ4XGCYpd5FZ49S8t/HS3Td81LGyGdaBgPUU4bwgImsYMcCQ3/hKCHGyBi4UIJzg4tezDK+lnqD90wl4ekeL+pu7/7WGfzl5bRw6G0lyPyq32pUp3KPBQoriMzU+vQD9ILjgcW5DmhNtKPDHau/EFQRaMwofsHCObRIdqnfw03CCPdRvXHmIM02f2Rc6VCw==;AK21MzzaBmgxiYW4J+WP4g=="
 ---

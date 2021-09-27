@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-09-deep-cancer-diagnostic-tools.
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-deep-cancer-diagnostic-tools.amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
         width: 620
         height: 480
-        isCached: true
-  - title: "Deep learning enhances cancer diagnostic tools"
-    excerpt: "Researchers at the Beckman Institute Biophotonics Imaging Laboratory applied deep learning to polarization-sensitive optical coherence tomography to better detect cancer."
-    publishedDateTime: 2021-09-22T22:43:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/929293"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/60be33b4-d144-4032-9ec6-24647fbf9c6a/Rendition/low-res/Content/Public"
-        width: 700
-        height: 415
         isCached: true
 
 secured: "UZJ3XkzcGHBcBU4sUEnnA6MO1BrzcsuBp1IeM6AkRjRnPynk9szq/UXLhGW/xRStBA5kFiQy5aDzsOsBh8wLyiSHpea68bMCubk0mj01zmieoo+ws3zYREqh/M2WBJavZ2ZCq3Ss5ej2A6L3E9mUSxH/aQF/GlPno1OhIK75rzYZD4Fm2HTUuzlsdSX9k2nS/6CuwlEsex7LCmRpvW4y8nOPWmvZAQNLigBMdZ3NJr1rVtvpscMPbOSh89gv+mK32KO6uFuXpWKsXkOnpK990lFkDIwMKUqS1v92FKl3nEjv6G4k9ipO8lBZguY5qDfs0LAC76YXWDCH0D4dDONNfOo52YQplvZbegBSHdtngmHxMpcdCMGDbW7pj4hQyBQJI+GJ/z/SredUpAWCScSANYDerv0wIdFbsMziYAHuaLSyVtSwe/YAUCXIBbFkWf4IWuvx4geMicemT8AiOVQ9ABwIKpOeCcIY7/GxDiwpWunXUe+Rdjw1bIE2psq3qmM1XGkHDd0EYTcmSxpHw5eR8g==;v7Z8WmKMzXuGn5hjuycP/A=="

@@ -2,6 +2,144 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-14-whatsapp-is-working-on-a-new-transcription-feature-for-voice-notes-but-the-messages-will-be-sent-to-apple-to-be-processed-and-to-help-improve.md",
+      "title": "WhatsApp is working on a new transcription feature for voice notes - but the messages will be sent to Apple to be processed and to help 'improve its speech recognition technology'",
+      "excerpt": "WhatsApp's voice message transcription feature is reportedly still be developed for iOS. The messages will go to Apple but they'll stay encrypted since they won't be directly linked to the user's identity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9985711/WhatsApp-working-transcription-feature-voice-messages-calls-sent-Apple.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9985711/WhatsApp-working-transcription-feature-voice-messages-calls-sent-Apple.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/09/13/14/47856553-0-image-a-6_1631541465069.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9985711/amp/WhatsApp-working-transcription-feature-voice-messages-calls-sent-Apple.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9985711/amp/WhatsApp-working-transcription-feature-voice-messages-calls-sent-Apple.html",
+      "publishedDateTime": "2021-09-13T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-zoom-to-add-real-time-translation-for-12-languages-next-year.md",
+      "title": "Zoom to Add Real-Time Translation for 12 Languages Next Year",
+      "excerpt": "Zoom says its real-time translation function will be up and running next year for 12 languages. The company demoed the feature today during its annual Zoomtopia event, and argued that it’ll help break down language barriers during video calls.",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/video-conferencing-software/135629/zoom-to-add-real-time-translation-for-12-languages-next-year",
+      "originalUrl": "https://uk.pcmag.com/video-conferencing-software/135629/zoom-to-add-real-time-translation-for-12-languages-next-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/z/zoom-to-ad/zoom-to-add-real-time-translation-for-12-languages-next-year_fzqx.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-whatsapp-for-ios-to-add-voice-message-transcription-feature.md",
+      "title": "WhatsApp for iOS to add voice message transcription feature",
+      "excerpt": "WhatsApp is developing a new feature for iOS users that will help those who don't like listening to long audio messages on the app.",
+      "sourceUrl": null,
+      "webUrl": "https://9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/",
+      "originalUrl": "https://9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/whatsapp-voice-message-transcription-feature-9to5mac-wabetainfo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/amp/",
+      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/amp/",
+      "publishedDateTime": "2021-09-13T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5Mac",
+        "domain": "9to5mac.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-whatsapp-transcription-for-voice-message-audio-tipped-to-work-with-apple-updated.md",
       "title": "WhatsApp transcription for voice message audio tipped to work with Apple [Updated]",
       "excerpt": "An ability to transcribe messages was leaked as a potential upcoming feature in WhatsApp. Information about the feature has not yet been confirmed by WhatsApp or Facebook, but details leaked this",
@@ -729,6 +867,58 @@
       ]
     },
     {
+      "path": "_news/2021-09-08-speech-recognition-works-for-kids-and-its-about-time.md",
+      "title": "Speech recognition works for kids, and it’s about time",
+      "excerpt": "Margery Mayer served for 25 years as president of education at Scholastic. Speech recognition technology is finally working for kids. That wasn’t the case back in 1999, when my colleagues at ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/07/speech-recognition-works-for-kids-and-its-about-time/",
+      "originalUrl": "https://techcrunch.com/2021/09/07/speech-recognition-works-for-kids-and-its-about-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-525848879.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/07/speech-recognition-works-for-kids-and-its-about-time/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/07/speech-recognition-works-for-kids-and-its-about-time/amp/",
+      "publishedDateTime": "2021-09-07T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-06-europe-natural-language-processing-nlp-in-healthcare-market-analysis-2021-upcoming-threat-2028.md",
       "title": "Europe Natural Language Processing (NLP) in Healthcare Market Analysis 2021 | Upcoming threat 2028",
       "excerpt": "Natural Language Processing (NLP) in Healthcare Market Size By Regional(Europe, North America, South America, Asia Pacific, Middle East And Africa), Industry Growth Opportunity, Price Trends, Competitive Shares, Market Statistics and Forecasts 2021 - 2028 ...",
@@ -1185,209 +1375,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-ai-analysis-unveils-the-most-effective-email-subject-lines-for-the-holidays.md",
-      "title": "AI analysis unveils the most effective email subject lines for the holidays",
-      "excerpt": "Last year's data may help shape messaging this year, but companies need to test, experiment, and consider the past when sending emails.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/30/ai-analysis-unveils-the-most-effective-email-subject-lines-for-the-holidays/",
-      "originalUrl": "https://venturebeat.com/2021/08/30/ai-analysis-unveils-the-most-effective-email-subject-lines-for-the-holidays/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/05/email-marketing.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/30/ai-analysis-unveils-the-most-effective-email-subject-lines-for-the-holidays/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/30/ai-analysis-unveils-the-most-effective-email-subject-lines-for-the-holidays/amp/",
-      "publishedDateTime": "2021-08-30T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-artificial-intelligence-answers-covid-questions.md",
-      "title": "Artificial intelligence answers COVID questions",
-      "excerpt": "A chatbot that is based on an artificial neural network that can carry out natural language processing (NLP) is being developed by researchers in India. The team describes how the chatbot can be programmed to answer questions related to the COVID-19 pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-08-artificial-intelligence-covid.html",
-      "originalUrl": "https://techxplore.com/news/2021-08-artificial-intelligence-covid.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/neural-network-1.jpg",
-          "width": 1920,
-          "height": 1497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-08-artificial-intelligence-covid.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-artificial-intelligence-covid.amp",
-      "publishedDateTime": "2021-08-30T04:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-how-ibm-is-using-ai-to-deliver-insights-and-stats-to-us-open-fans.md",
-      "title": "How IBM is using AI to deliver insights and stats to US Open fans",
-      "excerpt": "Tennis lovers are getting a lot of new data insights thanks to IBM's Power Rankings and Match Insights powered by its Watson AI, and business leaders looking for analytics tools should tune in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-ibm-is-using-ai-to-deliver-insights-and-stats-to-us-open-fans/",
-      "originalUrl": "https://www.techrepublic.com/article/how-ibm-is-using-ai-to-deliver-insights-and-stats-to-us-open-fans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/08/30/a89991a4-f68b-4afd-bfca-5741f861acf3/resize/1200x/1c8ef71d7c03da27b6f3bac423df3062/ibm-watson-tennis.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ibm-is-using-ai-to-deliver-insights-and-stats-to-us-open-fans/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ibm-is-using-ai-to-deliver-insights-and-stats-to-us-open-fans/",
-      "publishedDateTime": "2021-08-27T16:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-15-innovative-ai-companies-driving-exponential-shifts-in-their-respective-sectors.md",
-      "title": "15 Innovative AI Companies Driving Exponential Shifts In Their Respective Sectors",
-      "excerpt": "AI-built, AI-fueled, AI-powered, AI-informed: it is pervasive. In the hands of innovators, the disruption of AI of companies worldwide trends in a positive direction, and has the potential to change the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/27/15-innovative-ai-companies-driving-exponential-shifts-in-their-respective-sectors/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/27/15-innovative-ai-companies-driving-exponential-shifts-in-their-respective-sectors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61294684ba5d5a47b5b0da5e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/27/15-innovative-ai-companies-driving-exponential-shifts-in-their-respective-sectors/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/27/15-innovative-ai-companies-driving-exponential-shifts-in-their-respective-sectors/amp/",
-      "publishedDateTime": "2021-08-27T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],

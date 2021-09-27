@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-27-fabless-semiconductor-company-astera-labs-raises-50m-for-ai-hardware-designs.md",
+      "title": "Fabless semiconductor company Astera Labs raises $50M for AI hardware designs",
+      "excerpt": "Astera Labs, a company developing infrastructure for AI and machine learning workloads, has raised $50 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/27/fabless-semiconductor-company-astera-labs-raises-50m-for-ai-hardware-designs/",
+      "originalUrl": "https://venturebeat.com/2021/09/27/fabless-semiconductor-company-astera-labs-raises-50m-for-ai-hardware-designs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/n2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/27/fabless-semiconductor-company-astera-labs-raises-50m-for-ai-hardware-designs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/27/fabless-semiconductor-company-astera-labs-raises-50m-for-ai-hardware-designs/amp/",
+      "publishedDateTime": "2021-09-27T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-25-we-are-sleepwalking-into-ai-augmented-work.md",
       "title": "We are sleepwalking into AI-augmented work",
       "excerpt": "The narrative that AI won't take our jobs but will instead magically make human work more fulfilling is a dangerous myth.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://hothardware.com/news/nvidia-arm-cpus-a100-gpus-x86-based-servers",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -105,7 +157,7 @@
       "originalUrl": "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -213,7 +265,7 @@
       "originalUrl": "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 403,
+      "heat": 423,
       "tags": null,
       "images": [
         {
@@ -1366,49 +1418,6 @@
       "ampWebUrl": "https://manometcurrent.com/gpu-database-market-share-key-market-players-trends-forecast-2020-2028/?amp=1",
       "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/gpu-database-market-share-key-market-players-trends-forecast-2020-2028/?amp=1",
       "publishedDateTime": "2021-09-11T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-gpu-for-ai-market-insights-into-the-future-of-asset-tracking-service-management-in-2021-2027.md",
-      "title": "GPU for AI Market Insights Into The Future of Asset Tracking, Service Management in 2021-2027",
-      "excerpt": "The primary objective of the GPU for AI market study is to offer insights on the GPU for AI that can help the reader understand the influence of the sector over the forecast period. Additionally, the market study also covers the market trends,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/gpu-for-ai-market-insights-into-the-future-of-asset-tracking-service-management-in-2021-2027/",
-      "originalUrl": "https://manometcurrent.com/gpu-for-ai-market-insights-into-the-future-of-asset-tracking-service-management-in-2021-2027/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/07//daily-necessities-market-06.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/gpu-for-ai-market-insights-into-the-future-of-asset-tracking-service-management-in-2021-2027/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/gpu-for-ai-market-insights-into-the-future-of-asset-tracking-service-management-in-2021-2027/?amp=1",
-      "publishedDateTime": "2021-09-10T00:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "manometcurrent.com",

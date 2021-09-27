@@ -1,29 +1,27 @@
 ---
 category: news
-title: "GM invests $300M in China's self-driving car company Momenta"
+title: "GM invests $300M in China’s self-driving car company Momenta"
 excerpt: "General Motors is investing $300 million in China's self-driving car company Momenta. GM said Thursday that the investment will speed up the development of next-generation self-driving technologies in China."
-publishedDateTime: 2021-09-23T15:59:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/gm-invests-300m-chinas-driving-car-company-momenta-80190727"
-webUrl: "https://abcnews.go.com/Technology/wireStory/gm-invests-300m-chinas-driving-car-company-momenta-80190727"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/gm-invests-300m-chinas-driving-car-company-momenta-80190727"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/gm-invests-300m-chinas-driving-car-company-momenta-80190727"
+publishedDateTime: 2021-09-23T15:57:00Z
+originalUrl: "https://apnews.com/article/business-technology-china-3ac51a2f83d29fffa9807a5b74b02070"
+webUrl: "https://apnews.com/article/business-technology-china-3ac51a2f83d29fffa9807a5b74b02070"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_1759e8719a7e4b3196a74cd342b7b4ee_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://storage.googleapis.com/afs-prod/media/1759e8719a7e4b3196a74cd342b7b4ee/3000.jpeg"
+    width: 2999
+    height: 3000
     isCached: true
 
 related:
@@ -271,6 +269,6 @@ related:
         height: 425
         isCached: true
 
-secured: "/Z7LZG1AWHOFcMcINPqZPXKG5kFW02jqs+k9uZb/ppIlDZwNA6rdEq4v6hnLjgnJ5kBY5DHN9YLPi1gAO4L5JOunwwkN0FVrtkuPQOFBbRIwcKX+al2hdL7AUvFTDW23YLusyqK9kq9Gpu6nKrO6/yOe8VTQuXub3lz+eLc7chiPpfKYGQM2Qj4H7Ns11X+44qRvugrNm8E2Ulj2QEK04uUzBrXd97SjNya+6BDyWqbq1h3JkGqGvGuh+DTDz1jRKPOw4HysUXlUj4ftb4K2GP0pjGnSmoDToKF9jkasZgFukOAUnedXRX/JrHl3K4uDOz3GibyKKh3kVLhzjO44mLZJtCQBDZvj+QL1fYo+AzTUNhdRHOZ9yGF4Ll74jZTgwU8IuZYpwYmuZuz+rYhLwQJmFb5QWFQLxNoVMNh968likvYH/j2zNWalgwUfJEc9swJHaZAq0bQvo2Ts/bxcChHEKKyD8T1ghAcp9/fN6/EU1BKkB2+D6GnQZYRgFVXHIRL9LFFDePldsh2Htm8Y+A==;gVF23Cw/S6p/UxBk99G/RQ=="
+secured: "lVimDZbCwWEYDdI5PsC+VgII6ZJicO7CRGwogPDV9uuJDeOPyJpv6rZCjKR/BUt5NgRnG2hTpCvdTvwOmq/MyBbZ0VAl1cI5B5uSA+Uq9dY+SKcoDvr7x4Z3OPDinklLoOg4BnOd9cbci2hD+iS3hjVic5h7i6XxEpV+WylZsKwoZ0kVbzR82XqT6o+29JB0cWJe9maja/l9rBCMPBgaswxaOI3LoHigbg/2a50J2oIvQ6nKshRQBzpjGwxKyCfdvbSb4ORuJGsQt4m5lixaM9+jx5AztFIPtCi5AQJs902P8GG74pgVHG025sgLicxyADMDL/rRNfG2qCRbfuha5WPJLNC3WNZsoGYA9x56VXk=;MEZJIBVuOQzBjhpFCfJRTA=="
 ---
 

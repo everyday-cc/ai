@@ -2,6 +2,41 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-27-will-ai-revolutionize-regtech-part-1-faster-easier-richer.md",
+      "title": "Will AI Revolutionize Regtech? Part 1: Faster, Easier, Richer",
+      "excerpt": "Later this year at the NSCP National Conference, I’ll be speaking on a panel with Jane Stabile and Andrew Siegel on the topic “Will AI Revolutionize the Financial Services Industry?” To help promote the event,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-1%3A-faster-easier-richer-2021-09-27",
+      "originalUrl": "https://www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-1%3A-faster-easier-richer-2021-09-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-1%3A-faster-easier-richer-2021-09-27?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-1%3A-faster-easier-richer-2021-09-27?amp",
+      "publishedDateTime": "2021-09-27T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-09-25-google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language.md",
       "title": "Google and Microsoft are creating a monopoly on coding in plain language",
       "excerpt": "Natural language coding means that people won’t need to learn specialized coding languages to write programs or design websites. But large corporations will control the means of translation.",
@@ -192,6 +227,49 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-word-from-the-street-david-delgados-keynote-speech.md",
+      "title": "Word from the street: David Delgado’s keynote speech",
+      "excerpt": "The city prefers to use the word “cleans,” but when you’re removing a person and they have no choice, it’s a “sweep.” I do cleanings in my neighborhood all the time. I made friends with the street cleaners and realized they weren’t intimidated by the unhoused.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realchangenews.org/news/2021/09/22/word-street-david-delgado-s-keynote-speech",
+      "originalUrl": "https://www.realchangenews.org/news/2021/09/22/word-street-david-delgado-s-keynote-speech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.realchangenews.org/sites/default/files/p4%20david%20delgado.jpg",
+          "width": 3024,
+          "height": 4032,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-22T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Real Change News",
+        "domain": "realchangenews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -472,6 +550,49 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-18-arc-applauds-direct-support-staff-during-recognition-week.md",
+      "title": "ARC applauds direct support staff during recognition week",
+      "excerpt": "Agency works to help people with intellectual and developmental disabilities live their best lives, spokesperson Jared West says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pressrepublican.com/news/local_news/arc-applauds-direct-support-staff-during-recognition-week/article_56f6ebf5-265c-5f39-9fd8-a4271e11f388.html",
+      "originalUrl": "https://www.pressrepublican.com/news/local_news/arc-applauds-direct-support-staff-during-recognition-week/article_56f6ebf5-265c-5f39-9fd8-a4271e11f388.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/pressrepublican.com/content/tncms/assets/v3/editorial/0/90/09029313-49e7-513c-b08a-7390e4774716/614552e903754.image.jpg?resize=450%2C600",
+          "width": 450,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-17T19:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Press-Republican",
+        "domain": "pressrepublican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1187,144 +1308,6 @@
       "provider": {
         "name": "India Education Diary",
         "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-whatsapp-is-working-on-a-new-transcription-feature-for-voice-notes-but-the-messages-will-be-sent-to-apple-to-be-processed-and-to-help-improve.md",
-      "title": "WhatsApp is working on a new transcription feature for voice notes - but the messages will be sent to Apple to be processed and to help 'improve its speech recognition technology'",
-      "excerpt": "WhatsApp's voice message transcription feature is reportedly still be developed for iOS. The messages will go to Apple but they'll stay encrypted since they won't be directly linked to the user's identity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9985711/WhatsApp-working-transcription-feature-voice-messages-calls-sent-Apple.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9985711/WhatsApp-working-transcription-feature-voice-messages-calls-sent-Apple.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/09/13/14/47856553-0-image-a-6_1631541465069.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9985711/amp/WhatsApp-working-transcription-feature-voice-messages-calls-sent-Apple.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9985711/amp/WhatsApp-working-transcription-feature-voice-messages-calls-sent-Apple.html",
-      "publishedDateTime": "2021-09-13T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-zoom-to-add-real-time-translation-for-12-languages-next-year.md",
-      "title": "Zoom to Add Real-Time Translation for 12 Languages Next Year",
-      "excerpt": "Zoom says its real-time translation function will be up and running next year for 12 languages. The company demoed the feature today during its annual Zoomtopia event, and argued that it’ll help break down language barriers during video calls.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/video-conferencing-software/135629/zoom-to-add-real-time-translation-for-12-languages-next-year",
-      "originalUrl": "https://uk.pcmag.com/video-conferencing-software/135629/zoom-to-add-real-time-translation-for-12-languages-next-year",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/z/zoom-to-ad/zoom-to-add-real-time-translation-for-12-languages-next-year_fzqx.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-whatsapp-for-ios-to-add-voice-message-transcription-feature.md",
-      "title": "WhatsApp for iOS to add voice message transcription feature",
-      "excerpt": "WhatsApp is developing a new feature for iOS users that will help those who don't like listening to long audio messages on the app.",
-      "sourceUrl": null,
-      "webUrl": "https://9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/",
-      "originalUrl": "https://9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/whatsapp-voice-message-transcription-feature-9to5mac-wabetainfo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/amp/",
-      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/amp/",
-      "publishedDateTime": "2021-09-13T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "9to5Mac",
-        "domain": "9to5mac.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -59,20 +59,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Deep learning enhances cancer diagnostic tools"
-    excerpt: "Researchers at the Beckman Institute Biophotonics Imaging Laboratory applied deep learning to polarization-sensitive optical coherence tomography to better detect cancer."
-    publishedDateTime: 2021-09-22T22:43:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/929293"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/60be33b4-d144-4032-9ec6-24647fbf9c6a/Rendition/low-res/Content/Public"
-        width: 700
-        height: 415
-        isCached: true
 
 secured: "0NS8Xb8PXF3KscjL5SMU2FI5w0/k2tvOaqQeDQ+ga/9RDhKHLA2GujC7bOmq1g8vI+d7nDa+4E+/jSkOlXju3DD42gJl79v+fyFXH5SN5IzBXMMIRBojztQZycRbYHf2IwfkoI8kgrl2Wx94Dbd7kO4n6uMmmdnwSTQjDZC5n93MfHxFmrfMNVjRalqmyPVo6KXwKDDpjNJrQ+YvhWr9C85dabbzqJtL0zR0yNKtHoro7iSeJX39obl8h4QewGWWhizkztr8SitYS4TwBdpmjZOWwx8U98abWnNd3J6MOC/CbMWpDk2mwXfmiZ3QlEVtOATaWSt223hDcKPQ4SvvAbAnGlenMvk22Mc0HuYvcp+C3fjbva1U3TiV3buyLoOP5nVQkaFFyAoBjRV+MV2c38QNyzbpM/F/jgPzJuM+Mw3tPSBNHT3k8b6/gaU46dvjnNz8hzxb4sP1a6hkKXI+T4Bzgvfs3kKmiJA5Of/PhUhQf588wPehZk3m+LScm96xSWE+yV4p/YcMZVUQH7rpxA==;FmQ4np+iKQI2gFro0B8RiA=="
 ---

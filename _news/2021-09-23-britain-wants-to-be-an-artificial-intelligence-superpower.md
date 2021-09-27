@@ -34,20 +34,6 @@ related:
         width: 640
         height: 384
         isCached: true
-  - title: "New ten-year plan to make the UK a global AI superpower"
-    excerpt: "The UK has launched its first National Artificial Intelligence (AI) Strategy to help it strengthen its position as a global science superpower and seize the potential of modern technology to improve people’s lives and solve global challenges such as climate change and public health."
-    publishedDateTime: 2021-09-22T23:00:00Z
-    webUrl: "https://cambridgenetwork.co.uk/news/new-ten-year-plan-make-uk-global-ai-superpower"
-    type: article
-    provider:
-      name: Cambridge Network
-      domain: cambridgenetwork.co.uk
-    quality: 39
-    images:
-      - url: "https://cambridgenetwork.co.uk/sites/default/files/styles/large/public/Blog%20Advert%20%28News%29.png?itok=XJens5pZ"
-        width: 300
-        height: 250
-        isCached: true
   - title: "UK Government publishes National AI Strategy"
     excerpt: "This week, the UK Government has announced its Artificial Intelligence (AI) strategy, outlining plans to address the long-term demands of the AI ecosystem. The strategy emphasises the importance of ensuring that the UK gets the national and international governance of AI technologies right in order to encourage innovation,"
     publishedDateTime: 2021-09-23T11:51:00Z

@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-18-baidu-announces-autonomous-driving-milestones-at-baidu-world-2021.md",
+      "title": "Baidu Announces Autonomous Driving Milestones at Baidu World 2021",
+      "excerpt": "and be self-learning,” said Robin Li, Co-founder and CEO of Baidu, as he unveiled his vision for autonomous vehicles of the future – a robocar with L5 autonomous driving capabilities. Li envisions that intelligent vehicles of the future will be more ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-626b012d795fd9eb6ec87effb77d2ee4",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-626b012d795fd9eb6ec87effb77d2ee4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-18T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-18-chinas-baidu-launches-second-chip-and-a-robocar-as-it-sets-up-future-in-ai-and-autonomous-driving.md",
       "title": "China's Baidu launches second chip and a 'robocar' as it sets up future in AI and autonomous driving",
       "excerpt": "Baidu, known as China's biggest search engine player, has focused on diversifying its business beyond advertising to artificial intelligence and driverless cars. In this article GUANGZHOU, China — Chinese internet giant Baidu unveiled its second ...",
@@ -1322,40 +1365,6 @@
       "provider": {
         "name": "Insider Monkey",
         "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-teslas-strength-in-patent-numbers-leaves-rivals-in-dust.md",
-      "title": "Tesla’s strength in patent numbers leaves rivals in dust",
-      "excerpt": "In 2018, Tesla applied for a patent for a steering system that will allow the car to be operated via touch screen. A vehicle can be controlled by making swiping or clicking gestures on the flat interface,",
-      "sourceUrl": null,
-      "webUrl": "https://www.freemalaysiatoday.com/category/business/2021/08/10/teslas-strength-in-patent-numbers-leaves-rivals-in-dust/",
-      "originalUrl": "https://www.freemalaysiatoday.com/category/business/2021/08/10/teslas-strength-in-patent-numbers-leaves-rivals-in-dust/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-10T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Free Malaysia Today",
-        "domain": "freemalaysiatoday.com",
         "images": null,
         "publishers": null,
         "authors": null

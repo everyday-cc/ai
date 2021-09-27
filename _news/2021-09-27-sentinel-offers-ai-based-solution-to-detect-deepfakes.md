@@ -1,24 +1,24 @@
 ---
 category: news
 title: "Sentinel Offers AI-Based Solution to Detect Deepfakes"
-excerpt: "Concept: Estonian startup Sentinel has released a solution to detect fake media content on the web. Its platform helps democratic…Read"
+excerpt: "Concept: Estonian startup Sentinel has released a solution to detect fake media content on the web. Its platform helps democratic governments, defense agencies, and enterprises stop the risk of AI-generated deepfakes with its protection technology."
 publishedDateTime: 2021-09-27T11:51:00Z
-originalUrl: "https://www.packaging-gateway.com/research-reports/sentinel-offers-ai-based-solution-to-detect-deepfakes/"
-webUrl: "https://www.packaging-gateway.com/research-reports/sentinel-offers-ai-based-solution-to-detect-deepfakes/"
+originalUrl: "https://www.power-technology.com/research-reports/sentinel-offers-ai-based-solution-to-detect-deepfakes/"
+webUrl: "https://www.power-technology.com/research-reports/sentinel-offers-ai-based-solution-to-detect-deepfakes/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Packaging Gateway
-  domain: packaging-gateway.com
+  name: Power Technology
+  domain: power-technology.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.packaging-gateway.com/wp-content/uploads/sites/2/2021/09/shutterstock_766923355.jpg"
+  - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/09/shutterstock_766923355.jpg"
     width: 500
     height: 256
     isCached: true
@@ -41,6 +41,6 @@ related:
         height: 384
         isCached: true
 
-secured: "1hFu0JmwtMrHnlg+037ROYpG+nOoNBlrHdTYuGR5EgxJS1PC0bs64x/AvhL9nqPb9xqNhfYnLDkGsvDbBvtFrsKksvmmawAuh4jcZlqJkpS+aTY+nk1EaqLMwmSMtKpcyUeQg9tQtetI5KwZhVj0uwrhtJKM2RHV3fjMSIbIdm1Q6jgz497p+lQgUO6m6rUeVjXD39jZTj0WPdGD69VeOXaXrOkS9fS/lDExC7bgvEcEwt/YRe+Iz2/jYcHsnJc3mEYkoLo53HJdk0dXuZvb82icKP1dngFnoLdYIHsFSD/NFBWwMfs9DQ2Ccq72ccJifZDzZovWipaY76dehAhFVOduH3JMWWSensNqm7serCU=;JYnp+Ca3auClmY4KlRdF1w=="
+secured: "bl+E+jFIJ6XlQp4yXiVWxuJIxP6yc4wxwWuaE3/pQ9PSkt0FMjBZSkQMrrU0yyZSaU2UsVftEwcx/gUdZx2trecpDFixH7A71hMctI4YgE/CtujBFsvbXcfSsFPAxdeNq8WfyDku6N47Yz1pdjq7YmbYcqFBIJilRaQg3LWD200HUi9LnpUHlurfJBMzm+00R/jX0+rp/jqfI0Qfa5ymOMzU98YDVoEzVunwHp7283YzrtULqiRMljXaj0pprIQ0M9JbLq5WSrW2+e7P6TnumJIRbFtK7dXkZ/Kp6lM1aeFdv9hZb3mUii+tEq0U7F6WzPqeEhXjlQm22LhhB09OUhGy3oErtIxz26Hy+j9snQs=;1eqGTYKzMUtapaG/mUiVeg=="
 ---
 

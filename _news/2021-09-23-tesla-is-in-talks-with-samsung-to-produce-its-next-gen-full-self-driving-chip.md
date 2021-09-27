@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-g
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/amp/"
 type: article
 quality: 103
-heat: 403
+heat: 423
 published: true
 
 provider:
@@ -280,6 +280,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla expands ‘full self-driving’ tests, bucking the feds’ safety concerns"
+    excerpt: "Tesla drivers can now use a “request” button on their vehicle’s screen to apply to join a beta test for the full self-driving feature, Elon Musk confirmed."
+    publishedDateTime: 2021-09-27T15:35:00Z
+    webUrl: "https://nypost.com/2021/09/27/tesla-expands-full-self-driving-tests-bucking-feds-concerns/"
+    ampWebUrl: "https://nypost.com/2021/09/27/tesla-expands-full-self-driving-tests-bucking-feds-concerns/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/27/tesla-expands-full-self-driving-tests-bucking-feds-concerns/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 57
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/tesla-69.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Tesla to outsource its self-driving chip to Samsung"
     excerpt: "It is reported that Tesla has decided to outsource its self-driving chip manufacturing to Samsung Electronics. According to the industry on the 24th, Samsung Electronics is reportedly likely to win orders for manufacturing of the HW 4."
     publishedDateTime: 2021-09-27T04:58:00Z
@@ -470,6 +486,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Tesla Has NDA-Signing Fans Out Testing Its Self-Driving Cars"
+    excerpt: "Instead of deploying trained safety drivers, the electric car maker reportedly has YouTube fans driving around to determine if its new driverless software is safe."
+    publishedDateTime: 2021-09-27T15:22:00Z
+    webUrl: "https://www.thedailybeast.com/tesla-has-nda-signing-fans-out-on-americas-streets-testing-its-self-driving-car-software-vice-reports"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 19
 
 secured: "LFAhFnugS6kKtt/K1WYCcL1zbai7RwFHsdLyQeWaaPMQXLDXeh2AFfu61Xa0WD85RzW8wGeK9s0FGMx7POxc9QOHE+fRSaxxxk6CYeg1jAV39AXh0wGvR5uQKwh0ObrAEDVKn88TrEjpoOIqxmi+KRDlnZ9tr9OStwHRxR0b5mWqwx5sRFy5RshuuD4G/7z9oKuDvxI8KhX8deih5bK7/b2L4kf4H5Bc8dPCa2jqxbv/vKZMz4gUVRsL7hFdke5EKb7YOcnIBQwYoYAaXhb/fsQICW2UO2DcWt9YiYRxx4ca689SejKGyFIwXXNHSgTX8euApC9IGmRbhEK69s1NUJkHRwOUOdNQxNfqQOoLuqXvFV1V33K1FFxKrltOTst1Vly1Jl3dfK3XqvHxOGAjJtdo/uiniD33SVKesn/20D7pPa2SMxPsxF9AQ9omps3Wh1bbNkCz5XJauOH03rbZoE+nVsAMiBYYi61EYukTRS1+jEdB5sjVbvyA56Efh3OzjxYpK4Ybid+94yjRpEZlaw==;Vf/eh5kc087rG32w7+2tOA=="
 ---

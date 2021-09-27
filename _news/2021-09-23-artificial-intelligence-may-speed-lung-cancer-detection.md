@@ -34,7 +34,7 @@ related:
     provider:
       name: GEN
       domain: genengnews.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.genengnews.com/wp-content/uploads/2018/08/June4_2014_21425225_BreastCancerBlackWhiteIllustration_ProteinBreastCancerSpread2311152102.jpg"
         width: 500

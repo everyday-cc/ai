@@ -103,20 +103,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "FedEx Partners With Self-Driving Car Startup Aurora in Texas"
-    excerpt: "Aurora Innovation Inc. will help move cargo for FedEx Corp. in a pilot project in Texas that uses the startup’s technology in a self-driving Paccar Inc. truck. The arrangement marks FedEx’s first trial of autonomous driving."
-    publishedDateTime: 2021-09-22T21:58:00Z
-    webUrl: "https://www.bloombergquint.com/business/fedex-partners-with-self-driving-car-startup-aurora-in-texas"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 24
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Aurora launches self-driving truck pilot program with FedEx in Texas"
     excerpt: "The pilot begins this week, in which they will regularly haul FedEx loads autonomously with a safety driver between the Dallas and Houston areas on a 500-mile round trip. The announcement comes two days after Aurora gave a glimpse of the modified Toyota Sienna vans with which it plans to test its self-driving taxi service in the Bay Area,"
     publishedDateTime: 2021-09-23T21:47:00Z

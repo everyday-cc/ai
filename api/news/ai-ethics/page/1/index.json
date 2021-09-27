@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-27-the-limitations-of-ai-safety-tools.md",
+      "title": "The limitations of AI safety tools",
+      "excerpt": "Firms including OpenAI have developed safety tools to constrain AI decision-making. But there's a limit to what these tools can accomplish.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/",
+      "originalUrl": "https://venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/self-driving-car.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 856,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/amp/",
+      "publishedDateTime": "2021-09-27T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-national-ai-strategy-can-the-uk-be-the-superpower-it-imagines-itself-to-be.md",
       "title": "National AI Strategy - can the UK be the superpower it imagines itself to be?",
       "excerpt": "Does Whitehall have the human intelligence, expertise, and skills to make the UK’s new National AI Strategy work?",
@@ -10,7 +62,7 @@
       "originalUrl": "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -1324,49 +1376,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-this-is-how-ai-will-accelerate-the-energy-transition.md",
-      "title": "This is how AI will accelerate the energy transition",
-      "excerpt": "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Espen Mehlum, Head of Energy,Materials",
-      "sourceUrl": null,
-      "webUrl": "https://europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/",
-      "originalUrl": "https://europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://europeansting.files.wordpress.com/2021/09/robots.jpeg",
-          "width": 716,
-          "height": 1002,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/amp/",
-      "cdnAmpWebUrl": "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/amp/",
-      "publishedDateTime": "2021-09-01T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "europeansting.com",
-        "domain": "europeansting.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

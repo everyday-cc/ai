@@ -2,6 +2,190 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-09-announcing-model-improvements-and-lower-annotation-limits-for-amazon-comprehend-custom-entity-recognition.md",
+      "title": "Announcing model improvements and lower annotation limits for Amazon Comprehend custom entity recognition",
+      "excerpt": "Amazon Comprehend is a natural language processing (NLP) service that provides APIs to extract key phrases, contextual entities, events, sentiment from unstructured text, and more. Entities refer to things in your document such as people, places, organizations, credit card numbers, and so on. But what",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-model-improvements-and-lower-annotation-limits-for-amazon-comprehend-custom-entity-recognition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-model-improvements-and-lower-annotation-limits-for-amazon-comprehend-custom-entity-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/09/1-4900-counts_rev1.png",
+          "width": 800,
+          "height": 566,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T13:07:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-eden-ai-launches-platform-to-unify-ml-apis.md",
+      "title": "Eden AI launches platform to unify ML APIs",
+      "excerpt": "Eden AI, a startup developing a service to unify disparate AI APIs from vendors like Amazon Web Services, has launched a new platform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/09/eden-ai-launches-platform-to-unify-ml-apis/",
+      "originalUrl": "https://venturebeat.com/2021/08/09/eden-ai-launches-platform-to-unify-ml-apis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/1_dcGpsGf0Z5Ckwtu0SS2CCQ.png?w=800&resize=800%2C371&strip=all",
+          "width": 800,
+          "height": 371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/09/eden-ai-launches-platform-to-unify-ml-apis/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/09/eden-ai-launches-platform-to-unify-ml-apis/amp/",
+      "publishedDateTime": "2021-08-09T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "IBM AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-graph-based-natural-language-processing-and-information-retrieval.md",
+      "title": "Graph-based Natural Language Processing and Information Retrieval",
+      "excerpt": "Graph theory and the fields of natural language processing and information retrieval are well-studied disciplines. Traditionally, these areas have been perceived as distinct, with different algorithms, different applications and different potential end-users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/vg/academic/subjects/computer-science/artificial-intelligence-and-natural-language-processing/graph-based-natural-language-processing-and-information-retrieval",
+      "originalUrl": "https://www.cambridge.org/vg/academic/subjects/computer-science/artificial-intelligence-and-natural-language-processing/graph-based-natural-language-processing-and-information-retrieval",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-aicte-to-offer-management-non-technical-courses-in-regional-languages-too.md",
+      "title": "AICTE to Offer Management, Non-Technical Courses in Regional Languages Too",
+      "excerpt": "Soon after announcing that 14 colleges across India will be offering BTech courses in their mother tongue, now the central government is planning to offer management and several non-tech courses in regional languages too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/education-career/aicte-to-offer-management-non-technical-courses-in-regional-languages-too-4062626.html",
+      "originalUrl": "https://www.news18.com/news/education-career/aicte-to-offer-management-non-technical-courses-in-regional-languages-too-4062626.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/08/1628496288_college-1600x900.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/education-career/aicte-to-offer-management-non-technical-courses-in-regional-languages-too-4062626.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/aicte-to-offer-management-non-technical-courses-in-regional-languages-too-4062626.html",
+      "publishedDateTime": "2021-08-09T01:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-voice-ai-technology-is-more-advanced-than-you-might-think.md",
       "title": "Voice AI Technology Is More Advanced Than You Might Think",
       "excerpt": "The average person has yet to interact with the next generation of voice AI tools, but what this technology is capable of has the potential to change the world as we know it.",
@@ -1201,191 +1385,6 @@
         "AI",
         "AI in Finance",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml.md",
-      "title": "Mastering The Art Of Extracting Data From Invoices Using AI And ML",
-      "excerpt": "At some point, all invoices will become digital. Until then, the need to handle paper-based invoices and extract data from both paper and digital invoices without human involvement is critical for enterprises to truly transform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6066004147c9e239227de9bc%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/amp/",
-      "publishedDateTime": "2021-07-28T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-brain-technologies-raises-50m-for-the-launch-of-natural-a-natural-language-search-engine-and-super-app.md",
-      "title": "Brain Technologies raises $50M+ for the launch of Natural, a natural language search engine and ‘super app’",
-      "excerpt": "Voice-based and other personal assistant apps — which use natural language and hefty AI engines in the backend to source information to address your various questions, do your e-commerce bidding, or control one electronic device or another in your home — have been around for years,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/28/brain-technologies-raises-50m-for-the-launch-of-natural-a-natural-language-search-engine-and-super-app/",
-      "originalUrl": "https://techcrunch.com/2021/07/28/brain-technologies-raises-50m-for-the-launch-of-natural-a-natural-language-search-engine-and-super-app/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/nat_screen_2.png?w=1024",
-          "width": 1024,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/28/brain-technologies-raises-50m-for-the-launch-of-natural-a-natural-language-search-engine-and-super-app/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/28/brain-technologies-raises-50m-for-the-launch-of-natural-a-natural-language-search-engine-and-super-app/amp/",
-      "publishedDateTime": "2021-07-28T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-renesas-and-syntiant-develop-voice-controlled-multimodal-ai-solution-combining-advanced-vision-and-voice-technologies.md",
-      "title": "Renesas and Syntiant Develop Voice-Controlled Multimodal AI Solution Combining Advanced Vision and Voice Technologies",
-      "excerpt": "Renesas and Syntiant Corp. announced the joint development of a voice-controlled multimodal AI solution for vision AI-based IoT and edge systems",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210728005284/en/Renesas-and-Syntiant-Develop-Voice-Controlled-Multimodal-AI-Solution-Combining-Advanced-Vision-and-Voice-Technologies/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210728005284/en/Renesas-and-Syntiant-Develop-Voice-Controlled-Multimodal-AI-Solution-Combining-Advanced-Vision-and-Voice-Technologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-politico-ai-decoded-algorithmic-transparency-germany-on-facial-recognition-ethical-deep-fakes.md",
-      "title": "POLITICO AI: Decoded: Algorithmic transparency — Germany on facial recognition — Ethical deep fakes?",
-      "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-algorithmic-transparency-germany-on-facial-recognition-ethical-deep-fakes/",
-      "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-algorithmic-transparency-germany-on-facial-recognition-ethical-deep-fakes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-algorithmic-transparency-germany-on-facial-recognition-ethical-deep-fakes/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-algorithmic-transparency-germany-on-facial-recognition-ethical-deep-fakes/amp/",
-      "publishedDateTime": "2021-07-28T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Computer Vision",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -2,6 +2,199 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-24-artificial-intelligence-tool-improves-accuracy-of-breast-cancer-imaging.md",
+      "title": "Artificial intelligence tool improves accuracy of breast cancer imaging",
+      "excerpt": "A computer program trained to see patterns among thousands of breast ultrasound images can aid physicians in accurately diagnosing breast cancer, a new study shows.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-09-artificial-intelligence-tool-accuracy-breast.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-09-artificial-intelligence-tool-accuracy-breast.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/breast.jpg",
+          "width": 1920,
+          "height": 1296,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-09-artificial-intelligence-tool-accuracy-breast.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-artificial-intelligence-tool-accuracy-breast.amp",
+      "publishedDateTime": "2021-09-24T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-the-impact-of-conversational-ai-on-critical-services.md",
+      "title": "The impact of conversational AI on critical services",
+      "excerpt": "AI could also be a game-changing communication tool for critical service providers. How? By empowering customer service departments",
+      "sourceUrl": null,
+      "webUrl": "https://www.itproportal.com/features/the-impact-of-conversational-ai-on-critical-services/",
+      "originalUrl": "https://www.itproportal.com/features/the-impact-of-conversational-ai-on-critical-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ADy2QfDipAoaDjWjQ4zRq-1200-80.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itproportal.com/amp/features/the-impact-of-conversational-ai-on-critical-services/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/the-impact-of-conversational-ai-on-critical-services/",
+      "publishedDateTime": "2021-09-24T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-the-7-biggest-artificial-intelligence-ai-trends-in-2022.md",
+      "title": "The 7 Biggest Artificial Intelligence (AI) Trends In 2022",
+      "excerpt": "In 2022, we will see artificial intelligence continue along the path to becoming the most transformative technology humanity has ever developed. According to Google CEO Sundar Pichai, its impact will be even greater than that of fire or electricity on our development as a species.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/09/24/the-7-biggest-artificial-intelligence-ai-trends-in-2022/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/09/24/the-7-biggest-artificial-intelligence-ai-trends-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614d55107441e2d9ba4238f6%2F0x0.jpg",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/09/24/the-7-biggest-artificial-intelligence-ai-trends-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/09/24/the-7-biggest-artificial-intelligence-ai-trends-in-2022/amp/",
+      "publishedDateTime": "2021-09-23T21:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-how-do-databases-support-ai-algorithms.md",
+      "title": "How do databases support AI algorithms?",
+      "excerpt": "Register now! Databases have always been able to do simple, clerical work like finding particular records that match some given criteria — say, all users who are between 20 and 30 years old. Lately database companies have been adding artificial intelligence routines into databases so the users can explore the power of these smarter,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/",
+      "originalUrl": "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/cloud-database-GettyImages-969567772-e1627330470267.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/amp/",
+      "publishedDateTime": "2021-09-23T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-cluster-time-series-data-for-use-with-amazon-forecast.md",
       "title": "Cluster time series data for use with Amazon Forecast",
       "excerpt": "In the era of Big Data, businesses are faced with a deluge of time series data. This data is not just available in high volumes, but is also highly nuanced. Amazon Forecast Deep Learning algorithms such as DeepAR+ and CNN-QR build representations that effectively capture common trends and patterns across",
@@ -358,7 +551,7 @@
       "originalUrl": "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 403,
+      "heat": 423,
       "tags": null,
       "images": [
         {
@@ -582,7 +775,7 @@
       "originalUrl": "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -669,7 +862,7 @@
       "originalUrl": "https://medicalxpress.com/news/2021-09-deep-cancer-diagnostic-tools.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -700,6 +893,58 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-4-ways-facebooks-departing-cto-mike-schroepfer-shaped-the-company.md",
+      "title": "4 ways Facebook’s departing CTO Mike Schroepfer shaped the company",
+      "excerpt": "Facebook CTO Mike Schroepfer announced that he's stepping down from the position after spending 13 years at the company",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/4-ways-facebook-cto-mike-schroepfer-analysis",
+      "originalUrl": "https://thenextweb.com/news/4-ways-facebook-cto-mike-schroepfer-analysis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FMike-Schroepfer.jpg&signature=04b0e90a62b4c26892fb9e18e1be080c",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-23T00:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     },
@@ -931,266 +1176,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-robotics-gets-a-jolt-from-an-open-robotics-nvidia-partnership.md",
-      "title": "Robotics Gets A Jolt From An Open Robotics-Nvidia Partnership",
-      "excerpt": "The predesigned algorithms combined the synthetic data allow even the most novice developer or startup to quickly develop robotic platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2021/09/22/robotics-gets-a-jolt-from-an-open-robotics-nvidia-partnership/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2021/09/22/robotics-gets-a-jolt-from-an-open-robotics-nvidia-partnership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614bc3ee359d7d34aa0c0d2e%2F0x0.jpg",
-          "width": 586,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2021/09/22/robotics-gets-a-jolt-from-an-open-robotics-nvidia-partnership/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2021/09/22/robotics-gets-a-jolt-from-an-open-robotics-nvidia-partnership/amp/",
-      "publishedDateTime": "2021-09-22T17:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-building-more-equitable-education-systems-with-the-help-of-ai.md",
-      "title": "Building More Equitable Education Systems With The Help Of AI",
-      "excerpt": "AI is already supporting education non-profits in their efforts to provide students with the skills they need for success in college and beyond, and might be the key to enabling lasting change in educational systems worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/09/22/building-more-equitable-education-systems-with-the-help-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/09/22/building-more-equitable-education-systems-with-the-help-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614bbdbab0e0477d030c0d2e%2F0x0.jpg",
-          "width": 1200,
-          "height": 747,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/09/22/building-more-equitable-education-systems-with-the-help-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/22/building-more-equitable-education-systems-with-the-help-of-ai/amp/",
-      "publishedDateTime": "2021-09-22T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-facebooks-chief-technology-officer-to-step-down-in-2022.md",
-      "title": "Facebook’s Chief Technology Officer to Step Down in 2022",
-      "excerpt": "Mike Schroepfer, who leads the company’s artificial intelligence and other technical efforts, said he planned to transition into a role as a senior fellow.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/09/22/technology/facebook-cto-step-down-mike-schroepfer.html",
-      "originalUrl": "https://www.nytimes.com/2021/09/22/technology/facebook-cto-step-down-mike-schroepfer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/09/22/multimedia/22facebook/22facebook-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/09/22/technology/facebook-cto-step-down-mike-schroepfer.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/22/technology/facebook-cto-step-down-mike-schroepfer.amp.html",
-      "publishedDateTime": "2021-09-22T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-the-state-of-mlops-in-2021-is-dominated-by-startups.md",
-      "title": "The state of MLOps in 2021 is dominated by startups",
-      "excerpt": "Closing the gaps in MLOps is a lucrative new opportunity for startups, one that Dr. Ori Cohen says has seen $3.8 billion in funding already.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/22/the-state-of-mlops-in-2021-is-dominated-by-startups/",
-      "originalUrl": "https://venturebeat.com/2021/09/22/the-state-of-mlops-in-2021-is-dominated-by-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/GettyImages-1193139738-e1632245679253.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/22/the-state-of-mlops-in-2021-is-dominated-by-startups/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/22/the-state-of-mlops-in-2021-is-dominated-by-startups/amp/",
-      "publishedDateTime": "2021-09-22T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-mit-developed-a-toolkit-used-to-create-3d-printed-muscle-sensing-wearables.md",
-      "title": "MIT developed a toolkit used to create 3D-printed muscle-sensing wearables",
-      "excerpt": "MIT's Science and Artificial Intelligence Laboratory (CSAIL) will present its research at the upcoming ACM Symposium on User Interface Software and Technology (UIST) next month, with",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91378-mit-developed-toolkit-used-create-3d-printed-muscle.html",
-      "originalUrl": "https://www.techspot.com/news/91378-mit-developed-toolkit-used-create-3d-printed-muscle.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-22-image-49.jpg",
-          "width": 2230,
-          "height": 1212,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91378-mit-developed-toolkit-used-create-3d-printed-muscle.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91378-mit-developed-toolkit-used-create-3d-printed-muscle.html",
-      "publishedDateTime": "2021-09-22T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

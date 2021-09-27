@@ -6,7 +6,7 @@ publishedDateTime: 2021-09-27T12:00:00Z
 originalUrl: "https://www.genengnews.com/news/artificial-intelligence-system-improves-breast-cancer-detection/"
 webUrl: "https://www.genengnews.com/news/artificial-intelligence-system-improves-breast-cancer-detection/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.genengnews.com/wp-content/uploads/2018/08/June4_2014_21425225_BreastCancerBlackWhiteIllustration_ProteinBreastCancerSpread2311152102.jpg"
