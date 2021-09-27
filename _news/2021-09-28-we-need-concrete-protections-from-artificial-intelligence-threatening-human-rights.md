@@ -1,0 +1,56 @@
+---
+category: news
+title: "We need concrete protections from artificial intelligence threatening human rights"
+excerpt: "Events over the past few years have revealed several human rights violations associated with increasing advances in artificial intelligence (AI). Algorithms creat"
+publishedDateTime: 2021-09-27T17:39:00Z
+originalUrl: "https://nationalpost.com/pmn/news-pmn/we-need-concrete-protections-from-artificial-intelligence-threatening-human-rights"
+webUrl: "https://nationalpost.com/pmn/news-pmn/we-need-concrete-protections-from-artificial-intelligence-threatening-human-rights"
+ampWebUrl: "https://nationalpost.com/pmn/news-pmn/we-need-concrete-protections-from-artificial-intelligence-threatening-human-rights/wcm/a8c7f78a-1e98-43e0-986b-81d1c32ccf50/amp/"
+cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/news-pmn/we-need-concrete-protections-from-artificial-intelligence-threatening-human-rights/wcm/a8c7f78a-1e98-43e0-986b-81d1c32ccf50/amp/"
+type: article
+quality: 31
+heat: -1
+published: false
+
+provider:
+  name: National Post
+  domain: nationalpost.com
+
+topics:
+  - AI
+
+related:
+  - title: "Thoughts on AI ethics getting concrete and useful"
+    excerpt: "A new paper offers a solid accounting of tools that makers and end users can employ to better ensure algorithms are ethically sourced, developed and deployed."
+    publishedDateTime: 2021-09-24T16:25:00Z
+    webUrl: "https://www.biometricupdate.com/202109/thoughts-on-ai-ethics-getting-concrete-and-useful"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "We need concrete protections from artificial intelligence threatening human rights"
+    excerpt: "Events over the past few years have revealed several human rights violations associated with increasing advances in artificial intelligence (AI)."
+    publishedDateTime: 2021-09-27T11:32:00Z
+    webUrl: "https://techxplore.com/news/2021-09-concrete-artificial-intelligence-threatening-human.html"
+    ampWebUrl: "https://techxplore.com/news/2021-09-concrete-artificial-intelligence-threatening-human.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-concrete-artificial-intelligence-threatening-human.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 53
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/we-need-concrete-prote.jpg"
+        width: 1356
+        height: 668
+        isCached: true
+
+secured: "OnsRvrTQnfQAxNA3ERcag2oENzWA1qnL38f12iIgVAo6NKkTt2s0jTvy8GhGa3RjO84jljf9HOLDRIwYz9oZkY3+ZulBLE9qGJy0h6m1/Bgv+OdzsIoMg2SFGq81yR/JxOZY5im1Txjzfn/gTS/P1VYhBQ0x58zBwHankrUU6BEOuFz72+8lPoXZ6XYAb6G8Ddu1ZqJr+EabB+zW7fxWePiQhMZTOSYsvVMFS9W96y30GzpqtNW3q6GqbLeNjImkPQ6bkbjuDZ2h6KlcBgA3Faif8qWpVOqqSouwX9cFiJvTc9lRsaC9Rzy0JbWewqmddXde6txmccZ3r+8npGcilv8aW4MGTH9qWJ5TxwkiJrY=;J/s2EGRLb3bnljtf45pJyA=="
+---
+

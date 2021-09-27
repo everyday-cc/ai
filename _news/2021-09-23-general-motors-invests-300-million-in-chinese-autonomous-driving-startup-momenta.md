@@ -267,6 +267,20 @@ related:
         width: 752
         height: 554
         isCached: true
+  - title: "GM Invests $300 Million in Momenta to Deliver Self-Driving Technologies in China"
+    excerpt: "General Motors announced it will invest $300 million in Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China. “Customers in China are embracing electrification and advanced self-driving technology faster than anywhere else in the world,"
+    publishedDateTime: 2021-09-27T16:31:00Z
+    webUrl: "https://collisionweek.com/2021/09/27/gm-invests-300-million-momenta-deliver-self-driving-technologies-china/"
+    type: article
+    provider:
+      name: CollisionWeek
+      domain: collisionweek.com
+    quality: 19
+    images:
+      - url: "https://collisionweek.com/wp-content/uploads/2021/04/IBIS-2021-USA.png"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "dlE+aGvGnUwpJupnh7mn+Ote9ZU5n6/8j9q1h9O9mnYHPQGiy4UMW9litOBZ4HvXB2rTM6CScY3tk241UUYvo6vBrD7D4woljofb3QuBDu66aDvSLXX36EbFPhok61PZ+sIjpfvWI3KdzKJqIwym6grupfqRnlHputzv6gJzuGg/AUe8V8bARJpwFPB3SmG5yZW42VcsaT5AA1sCZPJm5LrWhfwA62CD4TLsPd6apho1jsFeXNqSt0KGT7vVxNyuCmfBm1pVIiW/J6vsplo6CJu+8RxaOtXBg0+Szk48jFbBZMdClKuzcMip1VMzXdAHARETb851eFN3Scz481/URshyD4w/HANk0uo0+PpCx6s=;ieNDaRR0vxiz66BzPdTZYw=="
 ---

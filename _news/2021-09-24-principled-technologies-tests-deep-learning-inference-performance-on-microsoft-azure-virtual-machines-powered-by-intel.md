@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Infosys Wins the 2021 Microsoft US Partner Award for Demonstrating Excellence in Azure AI Capabilities"
+    excerpt: "Infosys Wins the 2021 Microsoft US Partner Award for Demonstrating Excellence in Azure AI Capabilities. Infosys has won the ‘2021 Microsoft US Partner Award’ for demonstrating"
+    publishedDateTime: 2021-09-27T17:06:00Z
+    webUrl: "https://www.infosys.com/newsroom/features/2021/azure-ai-capabilities-award2021.html"
+    type: article
+    provider:
+      name: Infosys
+      domain: infosys.com
+    quality: 53
+    images:
+      - url: "https://www.infosys.com/content/dam/infosys-web/en/global-resource/18/banner/being-resilient-lead-mob.jpg"
+        width: 800
+        height: 500
+        isCached: true
   - title: "Microsoft Highlights Windows Server 2022 Integration with Azure Services in Summit Talk"
     excerpt: "Microsoft had a lot to say about Windows Server 2022 in its 1.5-hour Windows Server Summit online event, held on Sept. 16. Many of Windows Server 2022's features are associated with security enhancements,"
     publishedDateTime: 2021-09-23T17:51:00Z

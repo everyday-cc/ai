@@ -7,8 +7,8 @@ originalUrl: "https://www.electronicsweekly.com/news/business/nvidia-open-roboti
 webUrl: "https://www.electronicsweekly.com/news/business/nvidia-open-robotics-accelerate-ros-2-performance-2021-09/"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: Electronics Weekly
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Robotics Gets A Jolt From An Open Robotics-Nvidia Partnership"
-    excerpt: "The predesigned algorithms combined the synthetic data allow even the most novice developer or startup to quickly develop robotic platforms."
-    publishedDateTime: 2021-09-23T00:22:00Z
-    webUrl: "https://www.forbes.com/sites/tiriasresearch/2021/09/22/robotics-gets-a-jolt-from-an-open-robotics-nvidia-partnership/"
-    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2021/09/22/robotics-gets-a-jolt-from-an-open-robotics-nvidia-partnership/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2021/09/22/robotics-gets-a-jolt-from-an-open-robotics-nvidia-partnership/amp/"
+  - title: "NVIDIA Hits Record-Setting Performance, Arm Debuts In Latest MLPerf v1.1"
+    excerpt: "NVIDIA has once again hit a record-setting performance in MLPerf. This is the third consecutive time the US computer graphics giant has set performance and energy efficiency records on inference tests from MLCommons,"
+    publishedDateTime: 2021-09-23T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/nvidia-hits-record-setting-performance-arm-debuts-in-latest-mlperf-v1-1/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 23
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614bc3ee359d7d34aa0c0d2e%2F0x0.jpg"
-        width: 586
-        height: 385
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/NVIDIA-Hits-Record-Setting-Performance-Arm-Debuts-In-Latest-MLPerf-v1.1.jpg"
+        width: 2240
+        height: 1260
         isCached: true
   - title: "NVIDIA invites devs to test their DLSS on NVIDIA's own supercomputers"
     excerpt: "NVIDIA is inviting developers to test its latest builds of DLSS on their supercomputer, provide feedback for future improvement."

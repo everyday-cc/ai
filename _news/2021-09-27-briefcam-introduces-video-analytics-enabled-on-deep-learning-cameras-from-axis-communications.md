@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "BriefCam’s video analytics available on Axis Deep Learning Cameras"
+    excerpt: "BOSTON—BriefCam, the industry’s leading provider of Video Content Analytics and VIDEO SYNOPSIS solutions, announced availability for BriefCam Video Content Analytics on Axis deep learning cameras in"
+    publishedDateTime: 2021-09-27T17:22:00Z
+    webUrl: "https://www.securitysystemsnews.com/article/briefcam-s-video-analytics-available-on-axis-deep-learning-cameras"
+    type: article
+    provider:
+      name: Security Systems News
+      domain: securitysystemsnews.com
+    quality: 54
+    images:
+      - url: "https://www.securitysystemsnews.com/images/og-default-image.png"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Axis launches 8th generation ARTPEC system-on-chip powering deep-learning analytics on the edge"
     excerpt: "Axis Communications announces the 8th generation of its custom-designed system-on-chip (SoC) made for network video. The ARTPEC-8 SoC was designed first and foremost to create new opportunities for impressive analytics applications based on deep learning on the edge."
     publishedDateTime: 2021-09-27T13:46:00Z

@@ -254,6 +254,20 @@ related:
         width: 752
         height: 554
         isCached: true
+  - title: "GM Invests $300 Million in Momenta to Deliver Self-Driving Technologies in China"
+    excerpt: "General Motors announced it will invest $300 million in Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China. “Customers in China are embracing electrification and advanced self-driving technology faster than anywhere else in the world,"
+    publishedDateTime: 2021-09-27T16:31:00Z
+    webUrl: "https://collisionweek.com/2021/09/27/gm-invests-300-million-momenta-deliver-self-driving-technologies-china/"
+    type: article
+    provider:
+      name: CollisionWeek
+      domain: collisionweek.com
+    quality: 19
+    images:
+      - url: "https://collisionweek.com/wp-content/uploads/2021/04/IBIS-2021-USA.png"
+        width: 300
+        height: 250
+        isCached: true
   - title: "General Motors Invests $300 Million in Chinese Autonomous Driving Startup Momenta"
     excerpt: "GM announced on Thursday that its making a $300 million investment in Chinese autonomous driving startup Momenta, which will help the company accelerate the development of self-driving technologies for future GM vehicles in China."
     publishedDateTime: 2021-09-23T16:30:00Z
@@ -269,6 +283,6 @@ related:
         height: 425
         isCached: true
 
-secured: "lVimDZbCwWEYDdI5PsC+VgII6ZJicO7CRGwogPDV9uuJDeOPyJpv6rZCjKR/BUt5NgRnG2hTpCvdTvwOmq/MyBbZ0VAl1cI5B5uSA+Uq9dY+SKcoDvr7x4Z3OPDinklLoOg4BnOd9cbci2hD+iS3hjVic5h7i6XxEpV+WylZsKwoZ0kVbzR82XqT6o+29JB0cWJe9maja/l9rBCMPBgaswxaOI3LoHigbg/2a50J2oIvQ6nKshRQBzpjGwxKyCfdvbSb4ORuJGsQt4m5lixaM9+jx5AztFIPtCi5AQJs902P8GG74pgVHG025sgLicxyADMDL/rRNfG2qCRbfuha5WPJLNC3WNZsoGYA9x56VXk=;MEZJIBVuOQzBjhpFCfJRTA=="
+secured: "VHdWPrfJatSfrmEQVWfEbYdEGeSDnsRK7DSCPqeVpvLjin/kUkXVLaRSdPtoQmKdbqCs2txy506GxrgrqdiCW+etskJcYyBxgVJSHEjYl7POkYGb4IXtvtpHvYYStyC7IVbQzt+i+ETdM7iP/dRNh2a+Q/oOkx/c051DnP6Fqdpk8XCOI2kPaGWo9YGKF2a7MRwFgHCWTYYmo/ZjWbEr8G5Kc+2HNGXyJ0hk+bK8jsvbu67H17dgu0sshNT2P5luXrIqC11UeEDv+neaZnA+tTZHbkLTwuySmXipRWFxfnYrajocsqEcVKMzHT/XEoC4wrm3Np2+2IOzds9M/jN1QbZRJFMZakIk4F0odK1AroG/6sEH954Iakb6nPI0EPxTc3aFO9NEIkPFJMhqJ+8sVdM0RRYLyXxpeKFEiLZ/GVQj6c+cQSfZ5ptIgFnvdGxXWSZjjbN14l3wZtumMuHwQDAY+jRIUTaqJ/CH+vCh4Dd2S1OWY+f1JIk38W6rScC2vMYL3LmI9FFaysqZ0e37Bw==;Dx4zDeDcMx6qh9RhjuMd2A=="
 ---
 

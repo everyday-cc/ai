@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/"
 ampWebUrl: "https://venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/02/self-driving-car.jpg?w=1200&strip=all"
@@ -30,6 +31,6 @@ images:
     height: 856
     isCached: true
 
-secured: "gUy4dEfmobnEAb9M5yRqEPt0qsGHH4LccWJ88LQaHRafD0+/1lvw2Z6C5JFJQCPGZhY3+5Zi0hmbaFZKY/NJe6cwWzivzaOz6B5ST5kR/6GE5Dg5sWW7Kacy65JPgD2YGa5cIS6+/k4Wpn49x2i6fJwqXyGjD8N/MWdKGCuMKoas/DiChSPVwhVQs2Vthl69l4Gr7K+itbEXUq2tKgCuEDj2Tu4FvbeA0gFtkx6Oipv/5ZM/btwNSkoKr3Th1kv3/+nnN3/OOZzK79WoNdmAvJTjy62tTfI+CzkvE158kE001xXa5c+N5FednnM2yQj37cDb7G0YgwOBHlPiHs+byv4728Oy61kBAagk82iuhHw=;kIjlvzMX/3IGDLoKBtQbWg=="
+secured: "F+jy8ZHYKzQlysGCNHVKHAYV13956V1sDZIEMLzszKAHirfXMTtuKWHY9ZU/XDnzcnXz7HYxltbZvr/Xm3Xu77m+6QLxJchkBSBJlwYSftLFJjIfAdC3Rrcqf1SedcJEyVD4teK/8wi6G7h8tL9S4f6YR/iI4JwdyqUG9Q/6ewVzVXz7as0S35AecnDjZk7jr87uRgSIk3JiOEidleFaU2cmM/gIhMqUKQsWa6wgWfW+a+Sarh50UYLDc2kJr706fBlK/BgYFcbuIOKjGjGv/TrhOQJYWw8Q9W2a9i/dxXri4ZRAXH+SxzD8LutzzTyfVXr+70FW6iIvBriJCU+IbtxtsifIyHpY3lRTHtLkjJo3z8HahEbHMsIZfxzXzeL9J9qlo0BJQW4nbbwMVMwZ1BqUajZXDSqd6yVP0gaX93RCpHps8Wk03fMIqOtO4HJznb+QynFX8UwHzjT/VtLDbV+RtClwcG+Tx0o6tTQCnTF62badExA4PCUMasd9bVFfn+qjuA+pkkRLhBwHuSpajg==;6lPyZZLmhKf+oe/5pMfc2g=="
 ---
 

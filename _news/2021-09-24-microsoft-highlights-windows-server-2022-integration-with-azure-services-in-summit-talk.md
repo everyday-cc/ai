@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Infosys Wins the 2021 Microsoft US Partner Award for Demonstrating Excellence in Azure AI Capabilities"
+    excerpt: "Infosys Wins the 2021 Microsoft US Partner Award for Demonstrating Excellence in Azure AI Capabilities. Infosys has won the ‘2021 Microsoft US Partner Award’ for demonstrating"
+    publishedDateTime: 2021-09-27T17:06:00Z
+    webUrl: "https://www.infosys.com/newsroom/features/2021/azure-ai-capabilities-award2021.html"
+    type: article
+    provider:
+      name: Infosys
+      domain: infosys.com
+    quality: 53
+    images:
+      - url: "https://www.infosys.com/content/dam/infosys-web/en/global-resource/18/banner/being-resilient-lead-mob.jpg"
+        width: 800
+        height: 500
+        isCached: true
   - title: "Principled Technologies Tests Deep Learning Inference Performance on Microsoft Azure Virtual Machines Powered by Intel"
     excerpt: "Principled Technologies tested newer Microsoft Azure Esv4-series VMs featuring Intel Xeon Platinum 8272CL processors against older Esv3-series VMs"
     publishedDateTime: 2021-09-24T07:00:00Z

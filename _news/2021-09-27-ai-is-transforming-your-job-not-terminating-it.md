@@ -38,20 +38,6 @@ related:
         width: 475
         height: 238
         isCached: true
-  - title: "Money & technology: COVID accelerated the evolution of fintech"
-    excerpt: "Every time a customer deposits a check electronically, uses an app to pay for their takeout food, day trades stock using the Robin Hood app, or pays a friend back using Venmo, fintech is being used. “Fintech really is everywhere,"
-    publishedDateTime: 2021-09-23T00:00:00Z
-    webUrl: "https://www.wbjournal.com/article/money-technology-covid-accelerated-the-evolution-of-fintech"
-    type: article
-    provider:
-      name: WBJournal
-      domain: wbjournal.com
-    quality: 24
-    images:
-      - url: "https://www.wbjournal.com/sites/default/files/2021-09/derekcanton.jpg"
-        width: 5472
-        height: 3648
-        isCached: true
 
 secured: "96YjkfyHraFBrIvOyNvet2RGT9D993AVs9GNMs3NUR9R9xDzwhJ9F9LCt15Ufpl5lo3YJTYBmXi56iqCwB1CLrUd4iVNyNhOblXI8j07L2uXtY13WWlR3XrydWAE6QV5zB5lX+NLR5HAX27IF2gbCixVnNZLn4dwBM+duA1ixBZZmQ8GtbupdvyRJrn909J+5iFcwAomI9FTfVfXF6rmbQ5Ewxoogw7ssVKUDqydbLycp8am43TQQhLaujANPuEMCj4y/qdPNcPgmyl52a35RaIhlivWbWig7R9ekZqMFdAPvoTOsC8ClP6Jj3XZmdxNRXqY/Mw24hgs5JcAyCNrZzZzQ2s5XYV3d/on+vgjukw=;tJlYUQU+qCldtN6Z4apjBg=="
 ---

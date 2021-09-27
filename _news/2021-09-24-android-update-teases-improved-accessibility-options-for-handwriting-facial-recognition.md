@@ -73,6 +73,22 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
+  - title: "Google Pixel 6 advert points to enhanced voice recognition and other new features"
+    excerpt: "The above suggests that Google’s new Tensor processor could have enough power and machine learning capabilities to understand different accents and languages for more accurate and seamless voice commands. Translation and captioning capabilities could ..."
+    publishedDateTime: 2021-09-27T15:49:00Z
+    webUrl: "https://www.whathifi.com/us/news/google-pixel-6-advert-points-to-enhanced-voice-recognition-and-other-new-features"
+    ampWebUrl: "https://www.whathifi.com/us/amp/news/google-pixel-6-advert-points-to-enhanced-voice-recognition-and-other-new-features"
+    cdnAmpWebUrl: "https://www-whathifi-com.cdn.ampproject.org/c/s/www.whathifi.com/us/amp/news/google-pixel-6-advert-points-to-enhanced-voice-recognition-and-other-new-features"
+    type: article
+    provider:
+      name: What Hi-Fi?
+      domain: whathifi.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/vUJEGmxa6i78qEXfdaqDuK-1200-80.png"
+        width: 1200
+        height: 817
+        isCached: true
   - title: "Android New Facial Gesture Controls & Handwriting Recognition Features, Check How It Works"
     excerpt: "Google has launched a lot of accessibility features for Android, including Android Facial Gesture navigation and Android Handwriting recognition feature."
     publishedDateTime: 2021-09-24T03:59:00Z

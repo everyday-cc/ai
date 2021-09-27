@@ -39,6 +39,20 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "E-Commerce Trends Post Covid-19: Artificial Intelligence is Taking Over E-Commerce"
+    excerpt: "The latest applications of big data, artificial intelligence, voice search and machine learning in e-commerce are taking customer experience and satisfaction to a new level post Covid-19."
+    publishedDateTime: 2021-09-27T16:29:00Z
+    webUrl: "https://www.bbntimes.com/companies/e-commerce-trends-post-covid-19-artificial-intelligence-is-taking-over-e-commerce"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 31
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/E-Commerce_Trends_Post_Covid-19-_Artificial_Intelligence_is_Taking_Over_E-Commerce.jpeg"
+        width: 1619
+        height: 1080
+        isCached: true
 
 secured: "Td1ngOgKmu/dxB8Yl+De9B0Mb7HSX6nacghJADP59Ek0CJcBs74WwqchO1W+8GJ7lZI/PRgTB6ynKZW03M4HyRYfTfYwWXzdD0wBDhBBiNJGK8CVkUlI+1J/KQZMOL0LrOL49mAvkx2ikAyn3Y+l0tHq4e3856J6gG4Gi4PDjR30BxxfU//CmnMKKerFDqs7YwOOFp8uyt7zYfKoD84efdsRg1r0+fnP3JctgKX+tKS8lQVb0RVX2i+g/BErUSu+bbIVBepoovuz/7r/G3yAObeS73KKSpmVHu80FgwE+rbsfPyvmdId0R9eN2oNN/duWbIDX3P3jdC3u3tZ8bIObX3XEDAoJMU2gZKaLIj1Y7odN8mFCAEbOALVmUnZkJK2Hyoho/Ca0yzAuxvbnZ9+wLpkpzVbU+FoJDcYaaLExO/h/4mnbunR+tOf8406CFgbRkYMx+DLzLy3qlXnvbUUqqRC2IpSDqnO/MBFEZTAA80pZt1xjuamSQkUlm+fZeKced6/O3YjoNX0a9VVTcAyyg==;hwPVz7KLCTeBudVGjnvYGw=="
 ---

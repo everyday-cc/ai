@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/09/23/and-the-winner-of-startup-battlefi
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/23/and-the-winner-of-startup-battlefield-at-disrupt-2021-is-cellino/amp/"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 82
+published: true
 
 provider:
   name: TechCrunch
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here are the 5 Startup Battlefield finalists at Disrupt 2021"
-    excerpt: "Over the last two days, 20 companies took the stage in TechCrunch’s Startup Battlefield in a bid to win $100,000 and the Startup Battlefield cup. They had six minutes to present their pitch decks and answered six minutes of questions from noted investors and executives."
-    publishedDateTime: 2021-09-23T01:00:00Z
-    webUrl: "https://techcrunch.com/2021/09/22/here-are-the-five-startup-battlefield-finalists-at-disrupt-2021/"
-    ampWebUrl: "https://techcrunch.com/2021/09/22/here-are-the-five-startup-battlefield-finalists-at-disrupt-2021/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/here-are-the-five-startup-battlefield-finalists-at-disrupt-2021/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 72
-    images:
-      - url: "https://img.vidible.tv/prod/2021-09/21/614a37cc37969837d31060e1/614a384b56a7033202b01b4a_o_U_v1.jpg?w=550&h=310"
-        width: 550
-        height: 310
-        isCached: true
   - title: "Startup Battlefield Finals at Disrupt 2021 – Cellino"
     excerpt: "Cellino is on a mission to make personalized, autologous cell therapies accessible for patients. Stem cell-derived regenerative medicines will cure some of the toughest diseases within this decade, including Parkinson’s,"
     publishedDateTime: 2021-09-23T19:33:00Z

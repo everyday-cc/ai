@@ -7,8 +7,8 @@ originalUrl: "https://siliconangle.com/2021/09/27/cloud-artificial-intelligence-
 webUrl: "https://siliconangle.com/2021/09/27/cloud-artificial-intelligence-startup-akkio-raises-3m-bain-capital/"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: SiliconANGLE
@@ -38,6 +38,15 @@ related:
         width: 445
         height: 249
         isCached: true
+  - title: "Cambridge AI startup Akkio gets seed funding led by Bain Capital"
+    excerpt: "Akkio, a Cambridge startup building a \"no code\" AI platform, received $3 million in seed funding led by Bain Capital."
+    publishedDateTime: 2021-09-27T16:25:00Z
+    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2021/09/27/akkio-ai-gets-seed-funding-led-by-bain-capital.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "bsYACDYjGinMKJjx69AXoiHgXXrA3IlZw8Cc87XNJkTOwYsETb0bqjwddh1rUCHtbtJA9vaCtAPy4g99vHmdaF9sns4TgjYyriPhYHRjo3cyqhxMPeSxlt3Eap7PZ+xwX5415D4MnUq0GLyA+13sCetLT3gxhKt494wDh3RMn7wiv89dKC7OF2HpjVmPS46fXbfzzn91dL1PZt+d3xg9WSjlQFu+DAo+RxOKREdzi7aQyKqEbEccgAceLzz8TjpjheZEgN+ytqU8OYva8dvbhlLYfrDVrevsATaPLOIi5Fmnum7vwC1aoG744LchfCCIOfTkLPhQTmJaQgHFpBlYV1A+p3wGEe4UciF3Bn4AYwlk1RP/zfKWnsGAW7Yg3HvGeZkPJom2OS4lmHlAZt3tkST4r/4WRqVsx3xf5fbCW+RwiXQHe8fMPV3uGJhU1pv76akmit8lyjMgTtOIVVC7RB5K+zVePKFwCMY3/htsmU8dzXI60ZEEheuD3DfwLZkHeq/EQNZIDo2+1oMHm9UjEQ==;JJhACb7T6SJ/nq0pdzLDPg=="
 ---

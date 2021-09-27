@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Taliban, ex-Afghan government dispute ends with no UN speech"
-excerpt: "The dispute between Afghanistan’s new Taliban rulers and its former government over who should speak at the United Nations' annual meeting of world leaders finally has an answer: no one."
-publishedDateTime: 2021-09-27T15:05:00Z
-originalUrl: "https://apnews.com/90837664228c6cd964432655135e33ea"
-webUrl: "https://apnews.com/90837664228c6cd964432655135e33ea"
+excerpt: "The dispute between Afghanistan’s new Taliban rulers and its former government over who should speak at the U.N.’s annual meeting of world leaders is over"
+publishedDateTime: 2021-09-27T15:27:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/taliban-afghan-government-dispute-ends-speech-80259337"
+webUrl: "https://abcnews.go.com/US/wireStory/taliban-afghan-government-dispute-ends-speech-80259337"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/taliban-afghan-government-dispute-ends-speech-80259337"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/taliban-afghan-government-dispute-ends-speech-80259337"
 type: article
-quality: 24
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/9798c56be6964882a11e959407064d87/2000.jpeg"
-    width: 2000
-    height: 1333
+  - url: "https://s.abcnews.com/images/US/WireAP_9798c56be6964882a11e959407064d87_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -66,6 +68,20 @@ related:
       name: Biloxi Sun Herald
       domain: sunherald.com
     quality: 24
+  - title: "Beijing Cautiously Backs Taliban's Hopes Of International Recognition In Afghanistan"
+    excerpt: "China has emerged as a pragmatic backer of the Taliban’s nascent rule and pushing to get the group more political and economic support."
+    publishedDateTime: 2021-09-27T16:31:00Z
+    webUrl: "https://gandhara.rferl.org/a/china-taliban-support/31480715.html"
+    type: article
+    provider:
+      name: Radio Free Europe/Radio Liberty
+      domain: rferl.org
+    quality: 17
+    images:
+      - url: "https://gdb.rferl.org/b6c7d6f9-176a-4c14-9790-f061ec738dcf_cx0_cy10_cw0_w1200_r1.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Afghan Taliban’s new UN envoy urges quick recognition"
     excerpt: "The Taliban’s newly appointed envoy to the United Nations is urging quick world recognition of the Taliban government and Afghanistan’s new rulers even as the World Health Organization raised the alarm warning of an impending humanitarian disaster in the war-wracked country."
     publishedDateTime: 2021-09-23T13:45:00Z
@@ -76,6 +92,6 @@ related:
       domain: newsobserver.com
     quality: 4
 
-secured: "VjZ1QfwU3HQ/ZpF6a9FscH/ANM2+pjWvVn2osBdf2I/wc44t4S2ruGG6ioTNdr4D5q+TzOJthxzscNNdsj1EYQvYxH9ju8gTVhNNfLxzZnfCEAR+ncVy168ygxL/0cRzARdtPG3r83og57BCxU+Ag/3EBME/g648rfS6iXMxCUk9+NzfYCPFkFgZkHoXObCQw0y93aDPfqgF9Tcm7kKOwzFmv0NITIf8KUdCvEq7su9G1iGP1LxOHjGVQ/DhRySEz8pcUV/COn6VkqaS63gHwHSWUXQ2gjoD1Fgs/QO/MJM1OXAAT0bNwAAC5zrV4wEUuD3DiXjRUewsbtfFUE7PCcIf1SdY6/LiViqFkL+d7vk=;LumyYrvSExv2GUtTncKCfQ=="
+secured: "bm6kP750YYlI3GlFk/lJhymI3fYUL9Ng3ODcmHnbHKI0MZLl2DQBmJUi/dus0oNO+vJt3rZHRJqqjhA2hqY7QUVGG97xG2TEtCz1jDUbSCEuX5+JFeve+wZwjYshEkwEztBXaEx9dYmcGZse8FVUgR77NYW0dGfxb44GFIvIlw9rEPCXRw6Bj9qfDpIp0Yvll/11HeE7lYMl9xS+7UZn/fg3KFstGzLVjLoR6XMuos/Y+zhOLFxR3nU7Y1KVE7xUFEtwek0FqB6wZwLnqAFuubmISDivRiAlDWS535/dKbeKyDuel2Eja8ooGPl5Mg1KgJrEiQ26EuA0YuhDzcigtJesXS14wGLZO+PCdJavIPw=;N02JbS5G9QwXI0TPol+m6g=="
 ---
 

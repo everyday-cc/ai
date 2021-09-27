@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "SambaNova Systems to Showcase World's Most Advanced Software, Hardware and Services for AI at GITEX 2021"
+    excerpt: "The Silicon Valley-based company will show off its state-of-the-art Dataflow-as-a-Service™ offering, which will advance AI and Machine Learning adoption in the Middle"
+    publishedDateTime: 2021-09-27T16:11:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/09/b23117626/sambanova-systems-to-showcase-worlds-most-advanced-software-hardware-and-services-for-ai-at-gitex-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/23117626"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23117626"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 40
+    images:
+      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Hyperlink InfoSystem To Showcase AI, IoT, and Next-gen Tech Solutions At GITEX Technology Week 2021"
     excerpt: "GITEX Technology Week is one of the biggest technology events for MENA Countries in which businesses around the world sho"
     publishedDateTime: 2021-09-26T03:15:00Z

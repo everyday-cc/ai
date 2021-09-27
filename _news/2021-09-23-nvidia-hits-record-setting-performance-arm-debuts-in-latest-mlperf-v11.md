@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/nvidia-hits-record-setting-performan
 webUrl: "https://analyticsindiamag.com/nvidia-hits-record-setting-performance-arm-debuts-in-latest-mlperf-v1-1/"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Inspur Comes Out on Top with Superior AI Performance in MLPerf Inference V1.1"
-    excerpt: "Recently, MLCommons™, a well-known open engineering consortium, released the results of MLPerf™ Inference V1.1, the leading AI benchmark suite. In the very competitive Closed Division, Inspur ranked first in 15 out of 30 tasks,"
-    publishedDateTime: 2021-09-27T13:07:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210927005298/en/Inspur-Comes-Out-on-Top-with-Superior-AI-Performance-in-MLPerf-Inference-V1.1"
+  - title: "NVIDIA and Open Robotics accelerate ROS 2 performance"
+    excerpt: "NVIDIA and Open Robotics have entered into an agreement to accelerate ROS 2 performance on NVIDIA’s Jetson edge AI platform and GPU-based systems. These in"
+    publishedDateTime: 2021-09-23T12:44:00Z
+    webUrl: "https://www.electronicsweekly.com/news/business/nvidia-open-robotics-accelerate-ros-2-performance-2021-09/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 16
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 56
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2021/09/23134602/2ED81732-16CA-40BF-8662-7758178B331D.jpeg"
+        width: 960
+        height: 630
+        isCached: true
+  - title: "NVIDIA invites devs to test their DLSS on NVIDIA's own supercomputers"
+    excerpt: "NVIDIA is inviting developers to test its latest builds of DLSS on their supercomputer, provide feedback for future improvement."
+    publishedDateTime: 2021-09-27T04:10:00Z
+    webUrl: "https://www.tweaktown.com/news/81827/nvidia-invites-devs-to-test-their-dlss-on-nvidias-own-supercomputers/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 4
 
 secured: "8sKoWXnN5g5L22iECsqNkXnI/sock3LNH1nOPVOvQSv8VchLy07E87AtW36cwiXU97ykAxtyZ/4aaEB4cjgFL6M3pFYuWnZyPoJ4aePuNMCYcy8II1E1C/MZJ/lrfUN8YQHaD3TQjoACLwfl6Zv0Knq8SqOctpYxe59bQL2Anfda2Q+JJkkqX+6ke8C+1vfYrQYtVBzUZ3Bct2kgSrQDiQtymT63cqKg/Key0FFnAnshcGB/HiIhNg2uaUEKNVmbFTAm782UKnNalTcB4rrD1B3giSXuU5EDSqxYfzfzfjKCGV/ja5cynJbUHvGiaGAp1RKeslZLehNT2fBJfG5ZspyCJUKpEc993BPtlNDgvV4=;byoe1i0IP+Fj4KoP1sSesQ=="
 ---
