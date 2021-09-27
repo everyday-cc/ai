@@ -3,7 +3,7 @@ name: "Taryn Southern"
 bio: "AI artist | futurist | storyteller | recovering youtuber. Follow my documentary @iamhuman for screenings/release dates. AI album: http://bit.ly/iamAI"
 location: Los Angeles, CA
 type: "profile"
-heat: 0
+heat: 65
 
 website: https://www.tarynsouthern.com/
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Taryn Southern"
 
-secured: "t15ju24VKnvA0lnyAwnOgzJRZSmfWAOFmjibJaiRVcZCZ0/HqxXedi6ceNddw1cvC5VtEUa/3vqvUbnm0gfGboLiPGq666aysdzop/q9fsUOjS1VuAcWqQVgI7w/vT1Z6sSmMU4PHZpz0hEPrf7G4O7zWTkWBen4r9zWBqWSM3Jb+RBe3J2ded40WZSQMmYUxGKXSwUaMdLUr/yXt0dh4TJWI1DkfZKrMQnHIPI5XrY4RIN+I/jteF332ASvzS1q2FEn0c6/dFKfNn8hzkgTDHUsx1IYZvEQeDrNMWB0Fh1nE+yLtCb0Fay3pRPuWRcftulTqcZcVcssYq9ONZRe+dgDwcEn7f76cig/5W9QR3QhJN1LUSKQXaWblbi9Has5h1KGERroF3/qOlirq9Pkw9StVdMQGVaZA0ed6xXn0u8=;l38EseMDihMiD99GAwrpGQ=="
+secured: "TR4g34bDGavNtcHtTfVoy5PIGxzB8zs9/K0vxMEKYQrXijkwy0HbCsSoQgylxbbkM3vioL2ls/5vl64dn/tqNfXnca+4ctkkRVbrtrXTAl2GKaur45Rl3oCFbBGPYL+hcjslFASIRpHz9n1ZThZX8lSJZijlb2eALlkatf/vzy7fDVXsWWV9Qp7aOxNNiw4vwJ+pHOho02zAE/sKPbIadxgLKpnH1wDxxerB4k22RiCtNH+SVX8pe0KiXCqAsnHM2NwBoUDgbefGldOFcF2eYcIC9PFu+CfBuGlmtmDKRBC6Q7b8vW52aCQMHfrSA80gUrGoi+yJ68Y9OND460PqvhXddybr3POorrI4aCD6yLutdoGb2f9LPmE971Uyz8lZojTtOY4Ky87+GpmMlBmR8qyBjVmnZ51JzTaJ8+l6ZaU=;Gh8nsZ8r+WK1YQhw5PUuYA=="
 ---
 
