@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/09/22/technology/facebook-cto-step-down
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/22/technology/facebook-cto-step-down-mike-schroepfer.amp.html"
 type: article
 quality: 172
-heat: 222
+heat: 212
 published: true
 
 provider:
@@ -85,15 +85,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 4
-  - title: "Facebook Chief Technology Officer Mike Schroepfer to step down next year"
-    excerpt: "Facebook Chief Technology Officer Mike Schroepfer will step down next year after 13 years at the social-media company and eight years in the CTO position, the company confirmed Wednesday. In a Facebook post,"
-    publishedDateTime: 2021-09-22T16:17:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/202109221017/facebook-chief-technology-officer-mike-schroepfer-to-step-down-next-year"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 3
 
 secured: "DQiwZON7s9MfFkF+Jqkux8QxMdSof+VPie2nxkKgrcpomc24DVsgKu0x8E3QSLLbDs7JROaH2nBWzqGXorU8YtHvfQcntbKwX49Ev2iHcJaNXu61DdBHm9rD/ZkgtDRAomUuzcIc0h5/3KEaL1LSN+KO//I8wF/7Bt/K748u3DFc7TlNz1yxlrzmj8ltdIFB4FVJ40RC63ZgrBgX585LGpzDuebLsrTV0VVlypHpuMzv9NBbkviymJhzVaLFQEKc+6RF/4NlcSAvXjGNY3OEiA/n4US7ABQV9gESfKSIjUcXjoQ9Q+ou+SUJOOP2SenwMPCsygbua3R5+6cXGHLSI6ROvm23YLiutw7u58QEC6d32dSMFPtgmzCKfLnX6ObJVZxLaVkZjEIX0K362lzev893ghTQgA0qobyK8zZYnU/rysFVyZQpSKyctuuMDtW6m0xX4ar9EFLyN/0ONz1vbkvaBgvJ2F5JExzcxcaweLPDLZ9IXtS4Fn9savlJ6Ja0a94i7/Rz8thcW8EJ2FY8h6D56NgOmCs6ZfOKWpZkSMs=;6pcm4V6GC04b+Q/iRDoyFA=="
 ---

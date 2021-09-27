@@ -87,20 +87,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Self-driving tech co Aurora to test driverless delivery with FedEx"
-    excerpt: "Self-driving technology company Aurora will begin piloting trucks loaded with its software this week to haul goods for U.S. package delivery firm FedEx Corp between Dallas and Houston, albeit with a safety driver."
-    publishedDateTime: 2021-09-22T15:39:00Z
-    webUrl: "https://kfgo.com/2021/09/22/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex/"
-    type: article
-    provider:
-      name: KFGO
-      domain: kfgo.com
-    quality: 39
-    images:
-      - url: "https://media.socastsrm.com/uploads/station/2105/fbShare.png?r=57822"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Who is responsible if a self-driving car kills a pedestrian to save the driver?"
     excerpt: "Unthinkable: Governments put their trust in big tech as they lack expertise"
     publishedDateTime: 2021-09-23T04:00:00Z

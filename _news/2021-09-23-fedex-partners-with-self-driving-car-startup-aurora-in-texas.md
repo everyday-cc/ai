@@ -73,22 +73,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Trucks Want Self-Driving Tech, Too. Paccar and FedEx’s New Partnership Shows Why."
-    excerpt: "Self-driving trucks are hitting U.S. roads as Paccar and FedEx launch a pilot program with autonomous driving technology company Aurora."
-    publishedDateTime: 2021-09-22T16:53:00Z
-    webUrl: "https://www.barrons.com/articles/paccar-fedex-partner-mini-waymo-aurora-51632329566"
-    ampWebUrl: "https://www.barrons.com/amp/articles/paccar-fedex-partner-mini-waymo-aurora-51632329566"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/paccar-fedex-partner-mini-waymo-aurora-51632329566"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 39
-    images:
-      - url: "https://images.barrons.com/im-405175/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Royal Air Force begins trial for self-driving military vehicles"
     excerpt: "The Royal Air Force (RAF) of England has started a new trial deploying autonomous vehicles on an airbase as part of the RAF’s Astra campaign. The goal is to deliver the next generation of vehicles that will be used by the RAF in the future."
     publishedDateTime: 2021-09-24T12:35:00Z
@@ -132,20 +116,6 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fcff3485c-1c5b-11ec-95b9-6429167b0259.jpg?crop=1167%2C656%2C0%2C61&resize=1200"
         width: 1167
         height: 656
-        isCached: true
-  - title: "FedEx partners with Aurora, Paccar for self-driving hauls between Dallas and Houston"
-    excerpt: "Autonomously enabled trucks will haul FedEx loads between Dallas and Houston on a 500-mile round trip along the I-45 corridor. Read CCJ for details."
-    publishedDateTime: 2021-09-22T16:45:00Z
-    webUrl: "https://www.ccjdigital.com/equipment-controls/article/15114941/fedex-partners-with-aurora-paccar-in-texas-autonomous-hauls"
-    type: article
-    provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 17
-    images:
-      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/09/FedEx_Aurora_Paccar_Announcement_Hero.614b48df3bed2.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 676
         isCached: true
   - title: "Aurora launches self-driving truck pilot program with FedEx in Texas"
     excerpt: "The pilot begins this week, in which they will regularly haul FedEx loads autonomously with a safety driver between the Dallas and Houston areas on a 500-mile round trip. The announcement comes two days after Aurora gave a glimpse of the modified Toyota Sienna vans with which it plans to test its self-driving taxi service in the Bay Area,"

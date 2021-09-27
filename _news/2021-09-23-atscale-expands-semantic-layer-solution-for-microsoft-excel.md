@@ -94,20 +94,6 @@ related:
       domain: computerweekly.com
     quality: 43
   - title: "Everything Announced at Microsoft's 2021 Surface Event"
-    excerpt: "Surface hardware event saw new Surface Pro models, a new laptop with a flexible hinge, and the successor to the Surface Duo."
-    publishedDateTime: 2021-09-22T16:13:00Z
-    webUrl: "https://www.ign.com/articles/microsoft-surface-event-2021-announcements-news-products-roundup"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 41
-    images:
-      - url: "https://assets-prd.ignimgs.com/2021/09/21/content-1632248757378.jfif?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Everything Announced at Microsoft's 2021 Surface Event"
     excerpt: "Surface Studio Laptop . Instead of the next iteration of the Surface Book, Microsoft announced a \"fresh take on [its] powerhouse laptop\" in the form of the Surface Laptop Studio."
     publishedDateTime: 2021-09-23T05:38:00Z
     webUrl: "https://me.ign.com/en/mobile/189720/news/everything-announced-at-microsofts-2021-surface-event"
@@ -121,15 +107,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Cloudflare Joins Microsoft Intelligent Security Association"
-    excerpt: "Cloudflare, Inc. (NYSE: NET), the security, performance, and reliability company helping to build a better Internet, today announced that it has joine"
-    publishedDateTime: 2021-09-22T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210922005276/en/Cloudflare-Joins-Microsoft-Intelligent-Security-Association"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 36
   - title: "AtScale Expands Semantic Layer Solution for Microsoft Excel"
     excerpt: "AtScale expands integrations with Microsoft Excel enabling high-performance, multi-dimensional analysis on live cloud data."
     publishedDateTime: 2021-09-23T18:34:00Z

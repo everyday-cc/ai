@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-14-whatsapp-transcription-for-voice-message-audio-tipped-to-work-with-apple-updated.md",
+      "title": "WhatsApp transcription for voice message audio tipped to work with Apple [Updated]",
+      "excerpt": "An ability to transcribe messages was leaked as a potential upcoming feature in WhatsApp. Information about the feature has not yet been confirmed by WhatsApp or Facebook, but details leaked this",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/whatsapp-transcription-for-voice-message-audio-tipped-to-work-with-apple-13690666/",
+      "originalUrl": "https://www.slashgear.com/whatsapp-transcription-for-voice-message-audio-tipped-to-work-with-apple-13690666/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/09/whatsapp-1.jpg",
+          "width": 1278,
+          "height": 809,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/whatsapp-transcription-for-voice-message-audio-tipped-to-work-with-apple-13690666/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/whatsapp-transcription-for-voice-message-audio-tipped-to-work-with-apple-13690666/amp/",
+      "publishedDateTime": "2021-09-13T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-whatsapp-reportedly-working-on-voice-message-transcribe-feature.md",
+      "title": "WhatsApp Reportedly Working On Voice Message Transcribe Feature",
+      "excerpt": "In a recent development, soon WhatsApp users will be able to transcribe voice messages on the platform using speech recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2021/09/whatsapp-reportedly-working-on-voice-message-transcribe-feature.html",
+      "originalUrl": "https://www.androidheadlines.com/2021/09/whatsapp-reportedly-working-on-voice-message-transcribe-feature.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2018/11/AH-WhatsApp-logo-11.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2021/09/whatsapp-reportedly-working-on-voice-message-transcribe-feature.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/09/whatsapp-reportedly-working-on-voice-message-transcribe-feature.html/amp",
+      "publishedDateTime": "2021-09-13T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-13-whatsapp-likely-to-launch-voice-transcription-feature-that-converts-voice-notes-to-text.md",
       "title": "WhatsApp Likely To Launch ‘Voice Transcription’ Feature That Converts Voice Notes To Text",
       "excerpt": "The WABetaInfo publication also stated that the transcribes messages notes will not be sent to any Whatsapp or Facebook servers for transcription, but will solely rely on the phone speech recognition tool.",
@@ -1293,111 +1388,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-meet-aria-the-first-new-zealand-english-accented-voice-for-amazon-polly-includes-limited-te-reo-maori-support.md",
-      "title": "Meet Aria, the first New Zealand English accented voice for Amazon Polly – includes limited te reo Māori support",
-      "excerpt": "We are excited to announce Aria, Amazon Polly’s first New Zealand English Neural text-to-speech (NTTS) voice. Similar to other Amazon Polly voices, Aria is developed as a voice that sounds bright, natural, and upbeat. This new voice for Aotearoa (New Zealand in Māori) is uniquely Kiwi. It includes a",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/meet-aria-the-first-new-zealand-english-accented-voice-for-amazon-polly-includes-limited-te-reo-maori-support/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/meet-aria-the-first-new-zealand-english-accented-voice-for-amazon-polly-includes-limited-te-reo-maori-support/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-27T11:42:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-edtech-language-platform-duolingo-ups-the-ai-ante.md",
-      "title": "EdTech language platform Duolingo ups the AI ante",
-      "excerpt": "In the wake of a noted IPO, EdTech player Duolingo showed off AI-infused updates to its language lesson platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/27/edtech-language-platform-duolingo-ups-the-ai-ante/",
-      "originalUrl": "https://venturebeat.com/2021/08/27/edtech-language-platform-duolingo-ups-the-ai-ante/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/duolingo-duo.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/27/edtech-language-platform-duolingo-ups-the-ai-ante/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/27/edtech-language-platform-duolingo-ups-the-ai-ante/amp/",
-      "publishedDateTime": "2021-08-27T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

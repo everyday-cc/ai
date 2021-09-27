@@ -9,7 +9,7 @@ ampWebUrl: "https://www.republicworld.com/amp/auto-news/cars/baidu-deepway-unvei
 cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/auto-news/cars/baidu-deepway-unveils-smart-robot-truck-with-advanced-self-driving-technology.html"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 768
     height: 438
     isCached: true
-
-related:
-  - title: "Baidu to enter heavy good logistics with subsidiary ‘DeepWay’"
-    excerpt: "The Chinese internet giant Baidu is setting its sights on the market for heavy goods vehicles through its subsidiary DeepWay. For 2023, the company is holding out the prospect of an electric “robot truck”,"
-    publishedDateTime: 2021-09-22T15:39:00Z
-    webUrl: "https://www.electrive.com/2021/09/22/baidu-to-enter-heavy-good-logistics-with-subsidiary-deepway/"
-    type: article
-    provider:
-      name: electrive.com
-      domain: electrive.com
-    quality: 39
-    images:
-      - url: "https://www.electrive.com/wp-content/uploads/2021/09/baidu-deepway-2021-01-min.png"
-        width: 1500
-        height: 750
-        isCached: true
 
 secured: "cALcv16YJPaTfhxhe/T+/O2/3x7iu0QQ3NTn2oMM9RgfZvANFAW168dG5hHkaWGV9FDFa6HQgyEAlj2Wr/WRxr7ueXXuXL52za6o34uQsjZgzS7O5g2f1KRzu7C6BUT9FFnLuNyp2u40Bsz1OAA1c5FJNhL0/TtYDzesdwwTjSfjvI2iaBInSfA374owJ8kHQcJO6L8R7FGBryn7L1AJzY3G3exdSf2Qw/UMWeNjjmiTvGfQF8JEv4LastOgJXnvU6kDDvlroCCzbINcaZuxhxs4/9gEKqP/eNcVPV752yyLfmAG4imvV+m14kokr3P/QNl3hUHvKce50bvM81HoAtghcI/TxBb96ixOnZstGyQ=;uDWSIxZHLM9cy/c0/Q96fA=="
 ---

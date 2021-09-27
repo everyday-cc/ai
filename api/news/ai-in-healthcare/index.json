@@ -151,6 +151,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-24-scientists-develop-artificial-intelligence-method-to-predict-anti-cancer-immunity.md",
+      "title": "Scientists develop artificial intelligence method to predict anti-cancer immunity",
+      "excerpt": "Researchers and data scientists at UT Southwestern Medical Center and MD Anderson Cancer Center have developed an artificial intelligence technique that can identify which cell surface peptides produced by cancer cells called neoantigens are recognized by the immune system.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-09-scientists-artificial-intelligence-method-anti-cancer.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-09-scientists-artificial-intelligence-method-anti-cancer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/simmons-cancer-center.jpg",
+          "width": 1100,
+          "height": 1100,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-09-scientists-artificial-intelligence-method-anti-cancer.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-scientists-artificial-intelligence-method-anti-cancer.amp",
+      "publishedDateTime": "2021-09-23T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-opinion-how-artificial-intelligence-could-save-your-life.md",
       "title": "Opinion: How artificial intelligence could save your life",
       "excerpt": "Machine intelligence implies serious consequences for human life, with mass unemployment being just one example. And yet, the transformative power of AI might actually save people’s lives. AI aims to simulate the human mind’s ability to learn,",
@@ -255,7 +298,7 @@
       "originalUrl": "https://www.openpr.com/news/2403287/artificial-intelligence-ai-market-may-double-its-market-size",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1315,49 +1358,6 @@
       "provider": {
         "name": "pymnts.com",
         "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-lantheus-announces-presentation-at-the-2021-american-urological-association-aua-annual-meeting.md",
-      "title": "Lantheus Announces Presentation at the 2021 American Urological Association (AUA) Annual Meeting",
-      "excerpt": "Lantheus Holdings, Inc. (the “Company”) (NASDAQ: LNTH), an established leader and fully integrated provider committed to innovative imaging diagnostics, targeted therapeutics and artificial intelligence solutions to find,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-health-cancer-artificial-intelligence-1668c512fcbaea63debb5036c6b071af",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-health-cancer-artificial-intelligence-1668c512fcbaea63debb5036c6b071af",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-10T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

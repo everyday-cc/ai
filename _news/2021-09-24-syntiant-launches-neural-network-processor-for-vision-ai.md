@@ -7,8 +7,8 @@ originalUrl: "https://electronics360.globalspec.com/article/17238/syntiant-launc
 webUrl: "https://electronics360.globalspec.com/article/17238/syntiant-launches-neural-network-processor-for-vision-ai"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Engineering360 News
@@ -39,20 +39,6 @@ related:
       - url: "https://blog.ap.org//uploads/news/KF_logo-square.png"
         width: 600
         height: 600
-        isCached: true
-  - title: "Syntiant's NDP200 Promises 6.4GOP/s of Edge AI Compute in a Tiny 1mW Power Envelope"
-    excerpt: "Successor to the NDP120 adds an 11-wire image interface, promises impressive runtimes for battery-powered edge AI workloads."
-    publishedDateTime: 2021-09-22T15:25:00Z
-    webUrl: "https://www.hackster.io/news/syntiant-s-ndp200-promises-6-4gop-s-of-edge-ai-compute-in-a-tiny-1mw-power-envelope-96590283ffbc"
-    type: article
-    provider:
-      name: Hackster
-      domain: hackster.io
-    quality: 33
-    images:
-      - url: "https://hackster.imgix.net/uploads/attachments/1353762/_jTlbKXQsyz.blob?auto=compress%2Cformat&w=600&h=450&fit=min"
-        width: 600
-        height: 450
         isCached: true
 
 secured: "pm0Bihp9B/xxlhx9BGgrIiTKMkg8VvFIE4Xv8OkWqW0bXIIHffVkrWgzQaiwtaOQzpeqFyfZbhx7CS4vbG7Rw226k0lWIbubGu3DpFnxjkG8t9jLihAHZ25hkKpLVRhNbq9scGY2mdkz8si887avz/fuv4i/IeUZq1Fqh24h64nrFSA5b9SRIAtoQ3AmpPXOOO3AyjKvJ8OYp9sGwv/qM1KvH1m1FfePvbMtQO1f7P4Y5LwfhgB1pOlE18d9fOBlsuLOYx08yVmMMkmlm7rn6rWin5qluX7skePjcAI30UeCdajTzElnGw/y14YAI5S5HwCPFr70Y3HD7wyfrKuDXzOmneBhafRyQpjv+5BkO3BjvN/hzQc6cT+uoppH4/DSarWAbgQQdzS2XfZg4PM6BYcnGhG8QOaGISPbPY53PUP/SLdbGIkvqZuFJ8tA5BvPcAffukVY+cC/+UGPixgJfVIQYKVHRJ6zXEqXkKG60gHV+JtEjTusvsIe8XN9EwVdQXrej/rtLsRnU6uj0g9m4A==;36yJaPNN+sGONBv0BwuTHg=="

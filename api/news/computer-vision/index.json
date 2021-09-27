@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-09-27-drones-with-facial-recognition-technology-brought-in-to-count-sa-koalas.md",
-      "title": "Drones with facial recognition technology brought in to count SA koalas",
-      "excerpt": "Drones equipped with facial recognition technology will be used to count and identify South Australia’s koala population thought decimated by recent bushfires. Flinders University researchers will partner with the Koala Life charity and the state government to use the drones to study koalas on Kangaroo Island and in the Adelaide Hills,",
+      "path": "_news/2021-09-27-absa-launches-facial-recognition-tech-in-south-africa.md",
+      "title": "Absa Launches Facial Recognition Tech in South Africa",
+      "excerpt": "Absa, one of South Africa’s largest banks and a pan-African lender, has officially launched facial recognition technology in its Android and iOS apps, which some users will need to utilize to authenticate certain transactions through facial scans.",
       "sourceUrl": null,
-      "webUrl": "https://7news.com.au/news/animals/drones-with-facial-recognition-technology-brought-in-to-count-sa-koalas-c-4080682",
-      "originalUrl": "https://7news.com.au/news/animals/drones-with-facial-recognition-technology-brought-in-to-count-sa-koalas-c-4080682",
+      "webUrl": "https://www.itnewsafrica.com/2021/09/absa-launches-facial-recognition-tech-in-south-africa/",
+      "originalUrl": "https://www.itnewsafrica.com/2021/09/absa-launches-facial-recognition-tech-in-south-africa/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://images.7news.com.au/publication/C-4080682/0f134acc7c5a8ba7bcc54b94b6534f2008dd7154-16x9-x0y0w1600h900.jpg?imwidth=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://www.itnewsafrica.com/wp-content/uploads/2021/09/Absa-Facial-Recognition-Tech.jpeg",
+          "width": 800,
+          "height": 520,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://7news.com.au/news/animals/drones-with-facial-recognition-technology-brought-in-to-count-sa-koalas-c-4080682.amp",
-      "cdnAmpWebUrl": "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/news/animals/drones-with-facial-recognition-technology-brought-in-to-count-sa-koalas-c-4080682.amp",
-      "publishedDateTime": "2021-09-26T19:23:00-07:00",
+      "ampWebUrl": "https://www.itnewsafrica.com/2021/09/absa-launches-facial-recognition-tech-in-south-africa/?amp",
+      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/09/absa-launches-facial-recognition-tech-in-south-africa/?amp",
+      "publishedDateTime": "2021-09-27T01:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "7news",
-        "domain": "7news.com.au",
+        "name": "IT News Africa",
+        "domain": "itnewsafrica.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -340,6 +340,50 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-ct-town-at-forefront-of-national-debate-over-facial-recognition-tech.md",
+      "title": "CT town at forefront of national debate over facial recognition tech",
+      "excerpt": "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning governmental use of facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stamfordadvocate.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php",
+      "originalUrl": "https://www.stamfordadvocate.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/20/22/56/21048234/21/rawImage.jpg",
+          "width": 2048,
+          "height": 1536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T18:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StamfordAdvocate",
+        "domain": "stamfordadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1334,40 +1378,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-computer-vision-for-visual-effects.md",
-      "title": "Computer Vision for Visual Effects",
-      "excerpt": "These effects are made possible by research from the field of computer vision, the study of how to automatically understand images. Computer Vision for Visual Effects will educate students, engineers, and researchers about the fundamental computer vision ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/co/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/computer-vision-visual-effects",
-      "originalUrl": "https://www.cambridge.org/co/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/computer-vision-visual-effects",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T21:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

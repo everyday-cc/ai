@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Greece used AI to curb COVID: what other nations can learn"
-    excerpt: "Governments are hungry to deploy big data in health emergencies. Scientists must help to lay the legal, ethical and logistical groundwork."
-    publishedDateTime: 2021-09-22T15:13:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-02554-y?error=cookies_not_supported&code=f43962d3-2a13-4ce9-808b-ac6b8e509e31"
+  - title: "Deep learning helps predict new drug combinations to fight Covid-19"
+    excerpt: "A neural network developed at MIT and elsewhere identifies synergistic drug blends for treating viruses like SARS-CoV-2. The work was carried out primarily within the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Broad Institute of MIT and Harvard."
+    publishedDateTime: 2021-09-24T16:25:00Z
+    webUrl: "https://news.mit.edu/2021/deep-learning-helps-predict-new-drug-combinations-fight-covid-19-0924"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 137
+      name: Massachusetts Institute of Technology
+      domain: mit.edu
+    quality: 71
     images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02554-y/d41586-021-02554-y_19678478.jpg"
-        width: 1024
-        height: 576
+      - url: "https://news.mit.edu/sites/default/files/images/202109/covid-virus_0.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
+  - title: "Deep Learning Targets Drug Combos for COVID-19"
+    excerpt: "Using computational biology to identify individual therapeutics that might prove effective in the fight against COVID-19 is already a daunting task, with"
+    publishedDateTime: 2021-09-22T22:16:00Z
+    webUrl: "https://www.datanami.com/2021/09/22/deep-learning-targets-drug-combos-for-covid-19/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/shutterstock_coronavirus_11.jpg"
+        width: 1000
+        height: 594
         isCached: true
 
 secured: "Td1ngOgKmu/dxB8Yl+De9B0Mb7HSX6nacghJADP59Ek0CJcBs74WwqchO1W+8GJ7lZI/PRgTB6ynKZW03M4HyRYfTfYwWXzdD0wBDhBBiNJGK8CVkUlI+1J/KQZMOL0LrOL49mAvkx2ikAyn3Y+l0tHq4e3856J6gG4Gi4PDjR30BxxfU//CmnMKKerFDqs7YwOOFp8uyt7zYfKoD84efdsRg1r0+fnP3JctgKX+tKS8lQVb0RVX2i+g/BErUSu+bbIVBepoovuz/7r/G3yAObeS73KKSpmVHu80FgwE+rbsfPyvmdId0R9eN2oNN/duWbIDX3P3jdC3u3tZ8bIObX3XEDAoJMU2gZKaLIj1Y7odN8mFCAEbOALVmUnZkJK2Hyoho/Ca0yzAuxvbnZ9+wLpkpzVbU+FoJDcYaaLExO/h/4mnbunR+tOf8406CFgbRkYMx+DLzLy3qlXnvbUUqqRC2IpSDqnO/MBFEZTAA80pZt1xjuamSQkUlm+fZeKced6/O3YjoNX0a9VVTcAyyg==;hwPVz7KLCTeBudVGjnvYGw=="

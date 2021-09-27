@@ -7,7 +7,7 @@ originalUrl: "https://www.gulf-times.com/story/701049/QCRI-scientists-highlight-
 webUrl: "https://www.gulf-times.com/story/701049/QCRI-scientists-highlight-AI-role-in-developing-va"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 620
     height: 355
     isCached: true
+
+related:
+  - title: "Scientists develop artificial intelligence method to predict anti-cancer immunity"
+    excerpt: "Researchers and data scientists at UT Southwestern Medical Center and MD Anderson Cancer Center have developed an artificial intelligence technique that can identify which cell surface peptides produced by cancer cells called neoantigens are recognized by the immune system."
+    publishedDateTime: 2021-09-23T21:37:00Z
+    webUrl: "https://medicalxpress.com/news/2021-09-scientists-artificial-intelligence-method-anti-cancer.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-09-scientists-artificial-intelligence-method-anti-cancer.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-scientists-artificial-intelligence-method-anti-cancer.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/simmons-cancer-center.jpg"
+        width: 1100
+        height: 1100
+        isCached: true
+  - title: "Simmons Cancer Center, MD Anderson scientists develop artificial intelligence method to predict anti-cancer immunity"
+    excerpt: "Researchers and data scientists at UT Southwestern Medical Center and MD Anderson Cancer Center have developed an artificial intelligence technique that can identify which cell surface peptides produced by cancer cells called neoantigens are recognized by the immune system."
+    publishedDateTime: 2021-09-23T18:43:00Z
+    webUrl: "https://www.utsouthwestern.edu/newsroom/articles/year-2021/artificial-intelligence-method-to-predict-anti-cancer-immunity.html"
+    type: article
+    provider:
+      name: UT Southwestern Medical Center
+      domain: utsouthwestern.edu
+    quality: 14
+    images:
+      - url: "https://www.utsouthwestern.edu/asset/5a92e8f1-526c-4809-95b0-82053a031fcd/wang-neoantigen-thumb.jpg"
+        width: 1000
+        height: 1000
+        isCached: true
 
 secured: "BBdIzLUCXHekpBQ4/AUOgqD2uvVk0XAmnd1UyeI85HQvTqLYatiWWSze8y7uG8DEH5/ZhOjl8HOR0tDq3TyG8RbWfizWr3fQpvl/9Zvi2UenVrHPDvoAt5IgIVTArjs/N6QSJu0T+E8AzHoCtbRtNnrBhK4GS/k1sx7o+4fMS3PV9EjqA+FK6Z7Rx9xk07wyUggDH1R8fqvxjrxMBn7r9PQ391xfVevSZDSV6OdEuZ9SURZocevVbXEf2n1rN84zxiXd7M0jSviVLloqtYwq8GR88mlX/rgtDPkQeB8YGeu7tDOjknHJ8jU0X35GAX/31au8d99kN4txYNdAK59DZdUHkltuFJC3XC+zePFFHbo=;vknqWrWdOzteKPufxOVa7A=="
 ---

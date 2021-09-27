@@ -21,21 +21,37 @@ topics:
   - AI
 
 related:
-  - title: "In The Latest AI Benchmarks, Nvidia Remains The Champ, But Qualcomm Is Rising Fast"
-    excerpt: "NVIDIA rules the performance roost, Qualcomm demonstrates exceptional power efficiency, and Intel demonstrates the power of software. Every three months, the not-for-profit group MLCommons publishes a slew of peer-reviewed MLPerf benchmark results for deep learning,"
-    publishedDateTime: 2021-09-22T17:00:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2021/09/22/in-the-latest-ai-benchmarks-nvidia-remains-the-champ-but-qualcomm-is-rising-fast/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/09/22/in-the-latest-ai-benchmarks-nvidia-remains-the-champ-but-qualcomm-is-rising-fast/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/09/22/in-the-latest-ai-benchmarks-nvidia-remains-the-champ-but-qualcomm-is-rising-fast/amp/"
+  - title: "Artificial Intelligence (AI) Market May Double its Market Size by 2021 : Amazon, Intel, Nvidia"
+    excerpt: "Latest published market study on Global Artificial Intelligence AI Market provides an overview of the current market dynamics in the Artificial Intelligence AI space as well as what our survey respondents all outsourcing decision makers predict the market will look"
+    publishedDateTime: 2021-09-22T18:46:00Z
+    webUrl: "https://www.openpr.com/news/2403287/artificial-intelligence-ai-market-may-double-its-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2403287/artificial-intelligence-ai-market-may-double-its-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2403287/artificial-intelligence-ai-market-may-double-its-market-size"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
+      name: openpr.com
+      domain: openpr.com
+    quality: 64
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61490dd8cf58c0d1dd55ed22%2F0x0.jpg"
-        width: 1200
-        height: 615
+      - url: "https://cdn.openpr.com/U/9/U922608424_g.jpg"
+        width: 450
+        height: 300
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Real Estate Market Size, Status and Forecast 2021-2027 | IBM, Cape Analytics, Baidu"
+    excerpt: "Latest published market study on Global Artificial Intelligence AI in Real Estate Market provides an overview of the current market dynamics in the Artificial Intelligence AI in Real Estate space as well as what our survey respondents all outsourcing decision"
+    publishedDateTime: 2021-09-22T19:11:00Z
+    webUrl: "https://www.openpr.com/news/2403296/artificial-intelligence-ai-in-real-estate-market-size-status"
+    ampWebUrl: "https://www.openpr.com/amp/2403296/artificial-intelligence-ai-in-real-estate-market-size-status"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2403296/artificial-intelligence-ai-in-real-estate-market-size-status"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 50
+    images:
+      - url: "https://cdn.openpr.com/U/9/U922369966_g.jpg"
+        width: 450
+        height: 300
         isCached: true
 
 secured: "fGekkca5ktc7RFSCs7KtNaSDFmS/F6HKaFZi7IF89Pw5p944WAjvD1BndFqVrae4Lsv9cNbb3QiL/5RLxYFY7O1YAvGyxsHmCB/hMiO4mTYVzQFwq6rytCOd3/zCa91CX80Ptbsju0ie+29toXBJayWd6loXsLQYka1m1yYwEKueIUNo7Iwcf0xTB32qzjUlA84EqpJf2b48krevuH1gLFomlOK2OWqc09vyuxYWXagJPReobni7ek1hbb/X8EjjZK/7XpPKVe0WVmaEUMzcsK9s2IGl40bUoYfsXUqJi7D7+tYlgPlwj9JcaWOpRDlmQbyu87/U+pcdEvdG+TOlfFKavdkCg3rry52NfBbjoNVYtmbBwRvCXG/uTlIKriEV+UikDqVPfBAkrtTuPQ7it0ExK9uqURk44apOv9CZgo2YAfbItPX/LcfwtdF+OD4e/NVo8/7d73xD1T6fAPPsQOXzQslWeGtC90hcLc9qL1211icrnh3aHQgszW7kQ1ElSVDxzD935LbXlGTvegROBg==;NpG8RNk1OxTAGGUpliCeOw=="

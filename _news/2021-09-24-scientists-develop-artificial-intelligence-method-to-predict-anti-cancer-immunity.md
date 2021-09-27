@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-09-scientists-artificial-intelli
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-scientists-artificial-intelligence-method-anti-cancer.amp"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Medical Xpress
@@ -27,37 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Model Predicts Liver Cancer Prognosis"
-    excerpt: "Owkin and Cleveland Clinic researchers have developed artificial intelligence model that predicts the prognosis of liver cancer."
-    publishedDateTime: 2021-09-22T15:56:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-model-predicts-liver-cancer-prognosis-203439-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-model-predicts-liver-cancer-prognosis-203439-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-model-predicts-liver-cancer-prognosis-203439-1.htm"
+  - title: "QCRI scientists highlight AI role in developing vaccines, preventing future pandemics"
+    excerpt: "Technologies such as Artificial Intelligence (AI) and Big Data Analytics could be the “firewalls” against any future disease outbreaks and epidemics and can help develop vaccine candidates faster, according to two scientists of the premier computing research institute in Qatar."
+    publishedDateTime: 2021-09-24T19:42:00Z
+    webUrl: "https://www.gulf-times.com/story/701049/QCRI-scientists-highlight-AI-role-in-developing-va"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 32
     images:
-      - url: "https://images.medindia.net/amp-images/health-images/liver-cancer.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
-  - title: "Artificial Intelligence Better Than Risk Factors for Predicting Cancer Risk"
-    excerpt: "Deep learning does a better job than clinical risk factors in distinguishing between the mammograms of women who will later develop breast cancer and those who will not, according to a study published online Sept."
-    publishedDateTime: 2021-09-24T17:52:00Z
-    webUrl: "https://www.physiciansweekly.com/artificial-intelligence-better-than-risk-factors-for-predicting-cancer-risk/"
-    ampWebUrl: "https://www.physiciansweekly.com/artificial-intelligence-better-than-risk-factors-for-predicting-cancer-risk/amp/"
-    cdnAmpWebUrl: "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/artificial-intelligence-better-than-risk-factors-for-predicting-cancer-risk/amp/"
-    type: article
-    provider:
-      name: Too Old to Operate
-      domain: physiciansweekly.com
-    quality: 55
-    images:
-      - url: "https://www.physiciansweekly.com/wp-content/uploads/2021/09/image1632505544.jpg"
-        width: 800
-        height: 600
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/9202124224211870361144.jpg"
+        width: 620
+        height: 355
         isCached: true
   - title: "Simmons Cancer Center, MD Anderson scientists develop artificial intelligence method to predict anti-cancer immunity"
     excerpt: "Researchers and data scientists at UT Southwestern Medical Center and MD Anderson Cancer Center have developed an artificial intelligence technique that can identify which cell surface peptides produced by cancer cells called neoantigens are recognized by the immune system."

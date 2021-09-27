@@ -10,7 +10,7 @@
       "originalUrl": "https://www.queensu.ca/gazette/stories/google-and-microsoft-are-creating-monopoly-coding-plain-language",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -225,6 +225,102 @@
         "name": "manometcurrent.com",
         "domain": "manometcurrent.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-ct-town-at-forefront-of-national-debate-over-facial-recognition-tech.md",
+      "title": "CT town at forefront of national debate over facial recognition tech",
+      "excerpt": "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning governmental use of facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stamfordadvocate.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php",
+      "originalUrl": "https://www.stamfordadvocate.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/20/22/56/21048234/21/rawImage.jpg",
+          "width": 2048,
+          "height": 1536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T18:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StamfordAdvocate",
+        "domain": "stamfordadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-speech-and-voice-recognition-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2028.md",
+      "title": "Speech and Voice Recognition Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2028",
+      "excerpt": "The global “ Speech and Voice Recognition Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2028-2021-09-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2028-2021-09-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1220,101 +1316,6 @@
       "provider": {
         "name": "9to5Mac",
         "domain": "9to5mac.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-whatsapp-transcription-for-voice-message-audio-tipped-to-work-with-apple-updated.md",
-      "title": "WhatsApp transcription for voice message audio tipped to work with Apple [Updated]",
-      "excerpt": "An ability to transcribe messages was leaked as a potential upcoming feature in WhatsApp. Information about the feature has not yet been confirmed by WhatsApp or Facebook, but details leaked this",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/whatsapp-transcription-for-voice-message-audio-tipped-to-work-with-apple-13690666/",
-      "originalUrl": "https://www.slashgear.com/whatsapp-transcription-for-voice-message-audio-tipped-to-work-with-apple-13690666/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/09/whatsapp-1.jpg",
-          "width": 1278,
-          "height": 809,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/whatsapp-transcription-for-voice-message-audio-tipped-to-work-with-apple-13690666/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/whatsapp-transcription-for-voice-message-audio-tipped-to-work-with-apple-13690666/amp/",
-      "publishedDateTime": "2021-09-13T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-whatsapp-reportedly-working-on-voice-message-transcribe-feature.md",
-      "title": "WhatsApp Reportedly Working On Voice Message Transcribe Feature",
-      "excerpt": "In a recent development, soon WhatsApp users will be able to transcribe voice messages on the platform using speech recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2021/09/whatsapp-reportedly-working-on-voice-message-transcribe-feature.html",
-      "originalUrl": "https://www.androidheadlines.com/2021/09/whatsapp-reportedly-working-on-voice-message-transcribe-feature.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2018/11/AH-WhatsApp-logo-11.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2021/09/whatsapp-reportedly-working-on-voice-message-transcribe-feature.html/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/09/whatsapp-reportedly-working-on-voice-message-transcribe-feature.html/amp",
-      "publishedDateTime": "2021-09-13T11:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
         "images": null,
         "publishers": null,
         "authors": null

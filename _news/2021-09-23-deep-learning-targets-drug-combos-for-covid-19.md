@@ -39,19 +39,19 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "A machine-learning algorithm to target COVID testing of travellers"
-    excerpt: "Optimizing the testing of incoming travellers for COVID-19 involves predicting those who are most likely to test positive. A machine-learning algorithm for targeted testing has been implemented at the Greek border."
-    publishedDateTime: 2021-09-22T15:19:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-02556-w"
+  - title: "Ireland Allies With AI to Combat COVID"
+    excerpt: "Ireland’s eHealth strategy leans heavily on AI and Big Data analysis. The nation has a bold seven-year eHealth strategy, with crack professionals, EUR21 billion in hand, and a 100,000-strong workforce."
+    publishedDateTime: 2021-09-23T10:02:00Z
+    webUrl: "https://www.yicaiglobal.com/opinion/the.yuan/ireland-allies-with-ai-to-combat-covid"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 26
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 39
     images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02556-w/d41586-021-02556-w_19664468.jpg"
-        width: 1024
-        height: 576
+      - url: "http://img.yicaiglobal.com/cdn/news/ireland-allies-with-ai-to-combat-covid/16384856055611392.jpg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "mA/bHzbcf4fopXTLw8+WHaqu+hLyx+uR7uB/namaf9HoF0zpivLURjAbXhHeWaJldizZ9KtdQuRz2kfuGCloIRGjhqSO/se53a2MebSiTFJAwkc9TyWmF9hvyne1rj1/B9BzrL1jWim8hl1SwVipoplxz1ffN626vE2s1a4XtrkBiyKH5UEY814IMBPsGz1aQwbjTj8Bj9Zs5U0N4KPA0M1svqpb6Ynh/TOjOKxYxFHeES5tDG7fh3PfZntBo4ACzKyz0e4Xkvd9y5q7c1jVhQG1ElP9zPg9JyNAL2czKt8u6Pb3rmJcXM+b1jVd8D7XfbcXt5rbpAJE/gTSUiD+obCiMuvdT2L+urwznKfVCxnfaG1PCW73uAgUAzvF80uPKYp0XKBmo02sAqne0aAOZgkLt45rXGVr2dB3bdHXUu+739YiGhQfDshIgde1tTsX/FjlY+bFUN4cFsHYHgJfKyzOJV6nedKxmtiRHYPbYfoU2OXHLAkVfmicKPCbio9lWgvQJs7lPUShn5ePjySTYQ==;mOSuG2uzMmQPHjH/b+d/sg=="

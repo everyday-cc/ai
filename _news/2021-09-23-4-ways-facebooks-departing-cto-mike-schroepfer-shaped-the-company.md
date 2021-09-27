@@ -86,15 +86,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 4
-  - title: "Facebook Chief Technology Officer Mike Schroepfer to step down next year"
-    excerpt: "Facebook Chief Technology Officer Mike Schroepfer will step down next year after 13 years at the social-media company and eight years in the CTO position, the company confirmed Wednesday. In a Facebook post,"
-    publishedDateTime: 2021-09-22T16:17:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/202109221017/facebook-chief-technology-officer-mike-schroepfer-to-step-down-next-year"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 3
 
 secured: "8xsEZ8/JVenhtUUeUGkjYOJ+CY2ga68thDZzx/9tpxsjMTGLMN7D6loW/BUdtHU6Hq2Kda1smKK+lC05hXJ4CkuYZ13KT46UvKoeXoOtMsQBo6GLQPOc+jS/VYsfJjiPEDBYu8jghgGWsGZ9xdn8y1O7LkU70nbgYDbwFg6cfz4Az+3k1ugAWsSLDoC9XDk3k2BJYwfyZ1wyNAOaWW/0H6hgD60BWG2fhYoldOo7aK5t3FfzdrynzKg4CZrDjwDd92PXPI354lvQdyVApDG75RVtIxBDwPP5kgNOzQ9mPjeBl9BL0rH2ecOXtxX3dWPSLapw7Bmpc4Jk4m5sLo5Yt5fXWTPyNDNvuxhudZF7A42V1Z7EqVjJoJe4TzWgzUWfT96Q3RZ3iV66dBmhU2nreu2NblgDNnjXlmm6RPvKjKcTSNFgQRcgGiVyyKs11qU16Z3eTvuly4xYDd1mqDy4GNlLikJfupB9PFPwStFkRC750LInW1ryISvf43X95afChjuX0AZ95AUgfVUla5X6+w==;pX9SH17HO3AU3DGZu8bAbA=="
 ---

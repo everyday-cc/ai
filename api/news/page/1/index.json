@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-27-baker-mckenzie-taps-new-leads-for-data-and-machine-learning-team.md",
+      "title": "Baker McKenzie taps new leads for data and machine learning team",
+      "excerpt": "Baker McKenzie has tapped two \"co-founders\" to lead its new data science and machine learning team, artificial intelligence legal pro Brian Kuhn and Danielle Benecke, an IP and tech senior associate at the firm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/legalindustry/baker-mckenzie-taps-new-leads-data-machine-learning-team-2021-09-27/",
+      "originalUrl": "https://www.reuters.com/legal/legalindustry/baker-mckenzie-taps-new-leads-data-machine-learning-team-2021-09-27/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/YMXmz3luVzWweEX3uVzebea-X1Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X7JCW4RFGFO47EY5DC4JSWRXEM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-absa-launches-facial-recognition-tech-in-south-africa.md",
+      "title": "Absa Launches Facial Recognition Tech in South Africa",
+      "excerpt": "Absa, one of South Africa’s largest banks and a pan-African lender, has officially launched facial recognition technology in its Android and iOS apps, which some users will need to utilize to authenticate certain transactions through facial scans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnewsafrica.com/2021/09/absa-launches-facial-recognition-tech-in-south-africa/",
+      "originalUrl": "https://www.itnewsafrica.com/2021/09/absa-launches-facial-recognition-tech-in-south-africa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itnewsafrica.com/wp-content/uploads/2021/09/Absa-Facial-Recognition-Tech.jpeg",
+          "width": 800,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itnewsafrica.com/2021/09/absa-launches-facial-recognition-tech-in-south-africa/?amp",
+      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/09/absa-launches-facial-recognition-tech-in-south-africa/?amp",
+      "publishedDateTime": "2021-09-27T01:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News Africa",
+        "domain": "itnewsafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-thailands-first-virtual-influencer-is-a-21-year-old-woman-powered-by-ai.md",
       "title": "Thailand's first 'virtual influencer' is a 21-year-old woman powered by AI",
       "excerpt": "Thai branding agency SIA Bangkok has unveiled what they're calling \"the first metaverse human in Thailand\", and you can't deny just how life-like this 'influencer' looks: Claiming to be the \"first virtual influencer agency in Thailand\",",
@@ -40,49 +136,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-drones-with-facial-recognition-technology-brought-in-to-count-sa-koalas.md",
-      "title": "Drones with facial recognition technology brought in to count SA koalas",
-      "excerpt": "Drones equipped with facial recognition technology will be used to count and identify South Australia’s koala population thought decimated by recent bushfires. Flinders University researchers will partner with the Koala Life charity and the state government to use the drones to study koalas on Kangaroo Island and in the Adelaide Hills,",
-      "sourceUrl": null,
-      "webUrl": "https://7news.com.au/news/animals/drones-with-facial-recognition-technology-brought-in-to-count-sa-koalas-c-4080682",
-      "originalUrl": "https://7news.com.au/news/animals/drones-with-facial-recognition-technology-brought-in-to-count-sa-koalas-c-4080682",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.7news.com.au/publication/C-4080682/0f134acc7c5a8ba7bcc54b94b6534f2008dd7154-16x9-x0y0w1600h900.jpg?imwidth=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://7news.com.au/news/animals/drones-with-facial-recognition-technology-brought-in-to-count-sa-koalas-c-4080682.amp",
-      "cdnAmpWebUrl": "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/news/animals/drones-with-facial-recognition-technology-brought-in-to-count-sa-koalas-c-4080682.amp",
-      "publishedDateTime": "2021-09-26T19:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "7news",
-        "domain": "7news.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -642,7 +695,7 @@
       "originalUrl": "https://www.queensu.ca/gazette/stories/google-and-microsoft-are-creating-monopoly-coding-plain-language",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -887,7 +940,7 @@
       "originalUrl": "https://www.republicworld.com/auto-news/cars/baidu-deepway-unveils-smart-robot-truck-with-advanced-self-driving-technology.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -1087,7 +1140,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -1127,49 +1180,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business.md",
-      "title": "Microsoft cloud storage: is OneDrive or Azure right for your business?",
-      "excerpt": "Microsoft is one of the best cloud storage providers, and offers some of the best cloud storage for business too. But before you can dive into Microsoft cloud storage, you have to choose between two different products: OneDrive and Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/features/microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business/",
-      "originalUrl": "https://www.itproportal.com/features/microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/BfraXjVhuhkKsL99SHZDmL-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business/",
-      "publishedDateTime": "2021-09-24T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

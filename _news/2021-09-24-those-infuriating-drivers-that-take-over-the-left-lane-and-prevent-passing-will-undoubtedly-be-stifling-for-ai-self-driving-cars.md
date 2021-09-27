@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/amp/"
 type: article
 quality: 60
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://img.vidible.tv/prod/2021-09/21/614a00878d2a440b0abbd474/614a014656a7033202b011c6_o_U_v1.jpg?w=640&h=360"
         width: 640
         height: 360
-        isCached: true
-  - title: "Two Drivers Argue On California Freeway About Collision And Get Deadly Struck By Passing Car, Providing Somber Lessons For AI Self-Driving Cars"
-    excerpt: "Sadly, two drivers stood outside their wrecked cars on the freeway and were subsequently sideswiped by another passing car. This provides insights about the advent of AI self-driving cars. Here's the close look."
-    publishedDateTime: 2021-09-22T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/22/two-drivers-argue-on-california-freeway-about-collision-and-get-deadly-struck-by-passing-car-providing-somber-lessons-for-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/22/two-drivers-argue-on-california-freeway-about-collision-and-get-deadly-struck-by-passing-car-providing-somber-lessons-for-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/22/two-drivers-argue-on-california-freeway-about-collision-and-get-deadly-struck-by-passing-car-providing-somber-lessons-for-ai-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 53
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61413cc0c4c126282f7979ce%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1730%26cropY1%3D27%26cropY2%3D1181"
-        width: 1200
-        height: 800
         isCached: true
   - title: "California makes zero-emission self-driving vehicles mandatory by 2030"
     excerpt: "California will require all light-duty self-driving vehicles to emit zero emissions starting in 2030. Governor Gavin Newsom signed into law a bill sponsored by environmental groups that would eventually prohibit gas and hybrid-powered autonomous vehicles from operating in the state."

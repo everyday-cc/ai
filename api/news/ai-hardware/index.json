@@ -97,50 +97,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-24-syntiant-launches-neural-network-processor-for-vision-ai.md",
-      "title": "Syntiant launches neural network processor for vision AI",
-      "excerpt": "Artificial intelligence (AI) hardware vendor Syntiant Corp. has debuted a neural decision processor (NDP), the first chip from the company to provide vision processing for next-generation AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://electronics360.globalspec.com/article/17238/syntiant-launches-neural-network-processor-for-vision-ai",
-      "originalUrl": "https://electronics360.globalspec.com/article/17238/syntiant-launches-neural-network-processor-for-vision-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electronics360.globalspec.com/images/assets/238/17238/syntiant.jpg",
-          "width": 752,
-          "height": 423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T05:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering360 News",
-        "domain": "globalspec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2021-09-24-how-do-databases-support-ai-algorithms.md",
       "title": "How do databases support AI algorithms?",
       "excerpt": "Register now! Databases have always been able to do simple, clerical work like finding particular records that match some given criteria — say, all users who are between 20 and 30 years old. Lately database companies have been adding artificial intelligence routines into databases so the users can explore the power of these smarter,",
@@ -1410,6 +1366,49 @@
       "ampWebUrl": "https://manometcurrent.com/gpu-database-market-share-key-market-players-trends-forecast-2020-2028/?amp=1",
       "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/gpu-database-market-share-key-market-players-trends-forecast-2020-2028/?amp=1",
       "publishedDateTime": "2021-09-11T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-gpu-for-ai-market-insights-into-the-future-of-asset-tracking-service-management-in-2021-2027.md",
+      "title": "GPU for AI Market Insights Into The Future of Asset Tracking, Service Management in 2021-2027",
+      "excerpt": "The primary objective of the GPU for AI market study is to offer insights on the GPU for AI that can help the reader understand the influence of the sector over the forecast period. Additionally, the market study also covers the market trends,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/gpu-for-ai-market-insights-into-the-future-of-asset-tracking-service-management-in-2021-2027/",
+      "originalUrl": "https://manometcurrent.com/gpu-for-ai-market-insights-into-the-future-of-asset-tracking-service-management-in-2021-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/07//daily-necessities-market-06.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/gpu-for-ai-market-insights-into-the-future-of-asset-tracking-service-management-in-2021-2027/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/gpu-for-ai-market-insights-into-the-future-of-asset-tracking-service-management-in-2021-2027/?amp=1",
+      "publishedDateTime": "2021-09-10T00:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "manometcurrent.com",

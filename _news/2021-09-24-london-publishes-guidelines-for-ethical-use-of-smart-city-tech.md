@@ -22,6 +22,20 @@ topics:
   - AI Ethics
 
 related:
+  - title: "London announced new ethical guidelines concerning data-enabled tech"
+    excerpt: "London has recently announced its practical and ethical guidelines about the new data-enabled technologies that will be developed and deployed for public use. Indeed, this version of the ‘Emerging Technology Charter for London’ aims to create more openness,"
+    publishedDateTime: 2021-09-27T09:48:00Z
+    webUrl: "https://www.softwaretestingnews.co.uk/london-announced-new-ethical-guidelines-concerning-data-enabled-tech/"
+    type: article
+    provider:
+      name: softwaretestingnews.co.uk
+      domain: softwaretestingnews.co.uk
+    quality: 41
+    images:
+      - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/09/beatriz-perez-moya-XN4T2PVUUgk-unsplash-1024x556.jpg"
+        width: 1024
+        height: 556
+        isCached: true
   - title: "London is buying heaps of facial recognition tech"
     excerpt: "The Metropolitan Police is buying a new facial recognition system that will supercharge its surveillance technology capabilities"
     publishedDateTime: 2021-09-27T05:00:00Z

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "UK announces a national strategy to ‘level up’ AI"
-    excerpt: "The UK government has announced a national AI strategy — its first dedicated package aimed at boosting the country’s capabilities in and around machine learning technologies over the longer term. It says it hopes the strategy will lead to an increase in the number and types of AIs"
-    publishedDateTime: 2021-09-22T15:41:00Z
-    webUrl: "https://techcrunch.com/2021/09/22/uk-announces-a-national-strategy-to-level-up-ai/"
-    ampWebUrl: "https://techcrunch.com/2021/09/22/uk-announces-a-national-strategy-to-level-up-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/uk-announces-a-national-strategy-to-level-up-ai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1136663877.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "National AI Strategy - can the UK be the superpower it imagines itself to be?"
     excerpt: "Does Whitehall have the human intelligence, expertise, and skills to make the UK’s new National AI Strategy work?"
     publishedDateTime: 2021-09-23T09:04:00Z
@@ -57,6 +41,29 @@ related:
         width: 640
         height: 384
         isCached: true
+  - title: "New ten-year plan to make the UK a global AI superpower"
+    excerpt: "The UK has launched its first National Artificial Intelligence (AI) Strategy to help it strengthen its position as a global science superpower and seize the potential of modern technology to improve people’s lives and solve global challenges such as climate change and public health."
+    publishedDateTime: 2021-09-22T23:00:00Z
+    webUrl: "https://cambridgenetwork.co.uk/news/new-ten-year-plan-make-uk-global-ai-superpower"
+    type: article
+    provider:
+      name: Cambridge Network
+      domain: cambridgenetwork.co.uk
+    quality: 39
+    images:
+      - url: "https://cambridgenetwork.co.uk/sites/default/files/styles/large/public/Blog%20Advert%20%28News%29.png?itok=XJens5pZ"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Britain wants to be an artificial intelligence superpower"
+    excerpt: "Because it is short on regular intelligenceThe nation which voted for Boris Johnson and Brexit and gave the world reality television apparently has drawn up a glorious ten year plan to be the world leaders of artificial intelligence."
+    publishedDateTime: 2021-09-23T10:09:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/53587-britain-wants-to-be-an-artificial-intelligence-superpower"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 32
 
 secured: "JSw1EQYUkMW5KwiYTp8AqmNLPIu92/D4zjYo52O521KbuWXtw0U5andhub2VvouaFcFJUu/JO045bhoaqKvTN5TqLwwZJhn93vdadphEuQlQpsiPeYr0NVHkyUT0bB89qxkbmtVGqs+T2M6GrbQHLXGx6nbpqcVGwvGAWLHGfze7BeZEMRvgZ2hGxHYtFCF6nTguU8Lq7WSPDlD4f1I8V+5Ih51MoudCzNoKT2oQOU0HsoiiPiUUxbntLg+M1hp7h1fhbxSuArvMuskeiwc7q3lqTIPQijSNFwH8QMfsfOPfI5io3HWIWKuCBMoLXG4aKiga8xII6Zhp7JQy6YPq28YQUEEum5F1YZkwZOJfLdKT/C22zsk+62T4scIe4s2GT8AqIxG2f8kpOCQv+gOsnT2gS21LtGbpwoMys9pj41DcGQcxrPqbRBfkeGHVoBVaVGySdiijRMu5oSmB2A+3CH0JJNFGvIPyUdHYOC2lXwYnYIx/iEhZnEUmqqSAUwgD6D5gJJuxlivtVllTKvlR1Q==;tFwUiF0rGrJnNh6ievje8w=="
 ---

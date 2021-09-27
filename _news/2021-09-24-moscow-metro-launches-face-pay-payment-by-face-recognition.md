@@ -24,6 +24,22 @@ images:
     height: 501
     isCached: true
 
+related:
+  - title: "Paying with a glance: Moscow’s latest expansion of facial-recognition tech"
+    excerpt: "Facial-recognition cameras are being rolled out across Moscow's metro system as a way to allow passengers to pay for their fare simply by showing their faces, without the need for a ticket or a transit card."
+    publishedDateTime: 2021-09-27T08:57:00Z
+    webUrl: "https://www.france24.com/en/video/20210927-paying-with-a-glance-moscow-s-latest-expansion-of-facial-recognition-tech"
+    type: article
+    provider:
+      name: France 24
+      domain: france24.com
+    quality: 22
+    images:
+      - url: "https://s.france24.com/media/display/7917ec02-1f6e-11ec-a6f6-005056a90284/w:1280/p:16x9/vignette%20facepay.JPG"
+        width: 1280
+        height: 720
+        isCached: true
+
 secured: "71PSag3cYnRlxwL2poJQkx0tnbHWkz8t6xJiS8FgLcQ+TOclFUaIqsT7r9kJuoyqPNEjsd8gOfIY60/wSK1oRsI65h4FSQXJdYzY1b7tk3nmsDoyhycjU1VqzBHi9MZH/Dy9zh89V+nqOkPQtxzWz3LLFXlNF6ST/edPiKZdlMxNRrtbug68p3QB0ihHQcQITof3Yau4kZJf7rmLW7MuujXolU4tIsfKwpPukAMTPXeedO2FRAGc29WCBHmR6s2HGg/YxeAX/LKQ02WaPR55E9YE2dnAfpvhOdB+2hErLdTzs1VEj3+OrE8SW7QnnMu+Le3QLT1zyw69NIuiWpdbeFisq5kqGVd0Emx3J5QDUN7Q8PNuid/jtnoeFrSaiul5lPQfOPVvZggAODEL7ylcTEvok7ezF+HujAImKPWzU5J+ea524BoRfiRO0IUQK4XESTrOj54QvqjwgyVaD/pCypBEmu81hzHAujTd8PIANQTJC3lHVNJpl1PzWJ3CCC8ScgwXXO0yN5gUpt3lUrBSCg==;hK23m2o8ZJxzE/VhdswHaQ=="
 ---
 

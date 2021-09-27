@@ -73,20 +73,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Self-driving tech co Aurora to test driverless delivery with FedEx"
-    excerpt: "Self-driving technology company Aurora will begin piloting trucks loaded with its software this week to haul goods for U.S. package delivery firm FedEx Corp between Dallas and Houston, albeit with a safety driver."
-    publishedDateTime: 2021-09-22T15:39:00Z
-    webUrl: "https://kfgo.com/2021/09/22/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex/"
-    type: article
-    provider:
-      name: KFGO
-      domain: kfgo.com
-    quality: 39
-    images:
-      - url: "https://media.socastsrm.com/uploads/station/2105/fbShare.png?r=57822"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Self-driving tech firm Aurora to test driverless delivery with FedEx"
     excerpt: "Aurora, which is led by former heads of self-driving programs at Google, Uber and Tesla, said it is aiming for trucks without a safety driver by late 2023."
     publishedDateTime: 2021-09-22T17:29:00Z

@@ -24,17 +24,6 @@ images:
     height: 313
     isCached: true
 
-related:
-  - title: "KUKA to Offer CMTS Attendees Innovations for Bin Picking and Machine Tending"
-    excerpt: "With a focus on flexibility, modularity and ease of use, KUKA Robotics Canada will showcase numerous innovative automation technologies and solutions at the Canadian Manufacturing Technology Show 2021 (CMTS),"
-    publishedDateTime: 2021-09-22T15:54:00Z
-    webUrl: "https://www.roboticstomorrow.com/content.php?post=17502"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 1
-
 secured: "ZQ0Cal5Q+t9AMrj5inFCqlRRKb3LPQW3mVFmVoCXg89qPEIdQ8Fti0frST/Xuk71W1FHn18QrfKZPCL4wcwTndlpmf/XDvqIq5o5QydbUQbK4OkzT6UttaNmytyfvFYCgkL4btMDwb3MW7D14MTOIyAMFg1YBMChkBEZWoZ5SU0HDvwlM6/yOZdg9KeXNfsfXeH5ajRt2BKp5N3wgtofj3eCXQ3+UwjaZpOLYVAw5c9GC+0RhcJyjP+BciO7ONEmDOcx8xohoOSWkfyEDHYAvenCLCBi3iTCcZiZ+2UncyVp/8G7RPdbaBFKLw9mxeulUKnUrRH/aJQDuUwUlNVYXKbAk8DpFl82xLdY7upeGfk=;3clydF9ZgMvHD9nUIh6o3w=="
 ---
 

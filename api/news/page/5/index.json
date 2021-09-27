@@ -2,6 +2,109 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-22-healthcare-ai-startup-endimension-raises-inr-23-cr-seed-round-from-inflection-point-ventures.md",
+      "title": "Healthcare AI Startup Endimension Raises INR 2.3 Cr Seed Round From Inflection Point Ventures",
+      "excerpt": "The funds raised will be utilised to acquire talent for new product development, R&D and for boosting the sales team to fuel further growth",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/386940",
+      "originalUrl": "https://www.entrepreneur.com/article/386940",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1632293467-L-RBharadwajKssApparaoMLVKurienZacharia2v12.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T23:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-indian-buy-now-pay-later-startup-zestmoney-raises-50-million-from-australias-zip.md",
+      "title": "Indian buy now, pay later startup ZestMoney raises $50 million from Australia’s Zip",
+      "excerpt": "ZestMoney, a Bangalore-based buy now, pay later platform, said on Wednesday it has raised $50 million in a new financing round from Australia’s Zip as the Indian firm looks to cash in on a trend that is showing wider traction in several global markets.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/21/indian-buy-now-pay-later-startup-zestmoney-raises-50-million-from-australias-zip/",
+      "originalUrl": "https://techcrunch.com/2021/09/21/indian-buy-now-pay-later-startup-zestmoney-raises-50-million-from-australias-zip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/08/ZestMoney-Founders.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/21/indian-buy-now-pay-later-startup-zestmoney-raises-50-million-from-australias-zip/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/21/indian-buy-now-pay-later-startup-zestmoney-raises-50-million-from-australias-zip/amp/",
+      "publishedDateTime": "2021-09-21T22:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-facial-recognition-market-share-industry-analysis-report-2026.md",
       "title": "Facial Recognition Market Share | Industry Analysis Report 2026",
       "excerpt": "Global facial recognition market is growing demand for advanced identification and verification technologies stemming from rising security concerns is poised to drive outlook. Facial recognition systems are witnessing demand from several sectors for precise identification of individuals to ensure security.",
@@ -51,6 +154,50 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-ct-town-at-forefront-of-national-debate-over-facial-recognition-tech.md",
+      "title": "CT town at forefront of national debate over facial recognition tech",
+      "excerpt": "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning governmental use of facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stamfordadvocate.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php",
+      "originalUrl": "https://www.stamfordadvocate.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/20/22/56/21048234/21/rawImage.jpg",
+          "width": 2048,
+          "height": 1536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T18:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StamfordAdvocate",
+        "domain": "stamfordadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1034,133 +1181,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-ai-might-help-edit-the-next-generation-of-blockbusters.md",
-      "title": "AI might help edit the next generation of blockbusters",
-      "excerpt": "While AI video editing techniques like deepfakes have not really ... “I think the boundaries between images, and videos, and audio, and 3D, and augmented reality are going to start to blur,” says Prevost. “It used to be that there are people who ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/9/21/22671542/vergecast-ai-series-video-production-adobe-flawless",
-      "originalUrl": "https://www.theverge.com/2021/9/21/22671542/vergecast-ai-series-video-production-adobe-flawless",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/CNu1WibYaAk7F7OJt966ard2pFM=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69887850/VRG_ILLO_2727_002.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/9/21/22671542/vergecast-ai-series-video-production-adobe-flawless",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/9/21/22671542/vergecast-ai-series-video-production-adobe-flawless",
-      "publishedDateTime": "2021-09-21T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-artificial-intelligence-can-help-highway-departments-find-bats-roosting-under-bridges.md",
-      "title": "Artificial intelligence can help highway departments find bats roosting under bridges",
-      "excerpt": "Photographs and computer vision techniques using artificial intelligence are able to detect the presence of bats on bridges automatically with over 90% accuracy, according to our new study.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-09-artificial-intelligence-highway-departments-roosting.html",
-      "originalUrl": "https://techxplore.com/news/2021-09-artificial-intelligence-highway-departments-roosting.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-33.jpg",
-          "width": 1000,
-          "height": 537,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-09-artificial-intelligence-highway-departments-roosting.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-artificial-intelligence-highway-departments-roosting.amp",
-      "publishedDateTime": "2021-09-21T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-pavmed-subsidiary-veris-health-joins-microsoft-for-startups-global-program-and-engages-loka-as-software-development-partner.md",
-      "title": "PAVmed Subsidiary Veris Health Joins Microsoft for Startups Global Program and Engages Loka as Software Development Partner",
-      "excerpt": "As a Microsoft for Startups program member, Veris will have access to Microsoft technology, mentorship and business support which will allow it to use Microsoft's cloud storage, data analytics, and other technologies to rapidly build and deploy its platform with state-of-the-art,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/09/21/9453342.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/09/21/9453342.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-21T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

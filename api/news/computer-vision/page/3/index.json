@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-02-ambarella-analysts-laud-accelerating-computer-vision-momentum-following-blowout-q2.md",
+      "title": "Ambarella Analysts Laud Accelerating Computer Vision Momentum Following Blowout Q2",
+      "excerpt": "Morgan Stanley analyst Joseph Moore maintained an Overweight rating and $137 price target for Ambarella shares. Rosenblatt Securities analyst Kevin Cassidy maintained a Buy rating and increased the price target from $145 to $160.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ambarella-analysts-laud-accelerating-computer-vision-momentum-following-blowout-q2-1030774303",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ambarella-analysts-laud-accelerating-computer-vision-momentum-following-blowout-q2-1030774303",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/camera-3376230_1920_0.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-01T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-02-ai-in-computer-vision-market-segmentation-growth-assessing-major-growth-opportunities-by-2027.md",
       "title": "AI in Computer Vision Market Segmentation, Growth, Assessing Major Growth Opportunities by 2027",
       "excerpt": "Global AI in computer vision Market to reach USD 64.59 billion by 2027. Global AI in computer vision Market is valued approximately USD 12.6 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 26.",
@@ -1394,49 +1446,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-civil-liberties-groups-demand-government-bans-facial-recognition-cameras.md",
-      "title": "Civil liberties groups demand government bans facial recognition cameras",
-      "excerpt": "Police and Home Office are accused of bypassing parliament over guidance allowing officers, local councils and enforcement agencies to use facial recognition across England and Wales in defiance of court rulings against invasive filming.",
-      "sourceUrl": null,
-      "webUrl": "https://news.sky.com/story/civil-liberties-groups-demand-government-bans-facial-recognition-cameras-12388513",
-      "originalUrl": "https://news.sky.com/story/civil-liberties-groups-demand-government-bans-facial-recognition-cameras-12388513",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://e3.365dm.com/21/08/1600x900/skynews-facial-recognition-camera_5487585.jpg?20210823094951",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.sky.com/story/amp/civil-liberties-groups-demand-government-bans-facial-recognition-cameras-12388513",
-      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/civil-liberties-groups-demand-government-bans-facial-recognition-cameras-12388513",
-      "publishedDateTime": "2021-08-23T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky",
-        "domain": "sky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

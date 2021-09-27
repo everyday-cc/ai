@@ -62,7 +62,7 @@
       "originalUrl": "https://www.republicworld.com/auto-news/cars/baidu-deepway-unveils-smart-robot-truck-with-advanced-self-driving-technology.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -342,6 +342,50 @@
       ]
     },
     {
+      "path": "_news/2021-09-23-national-ai-strategy-can-the-uk-be-the-superpower-it-imagines-itself-to-be.md",
+      "title": "National AI Strategy - can the UK be the superpower it imagines itself to be?",
+      "excerpt": "Does Whitehall have the human intelligence, expertise, and skills to make the UK’s new National AI Strategy work?",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be",
+      "originalUrl": "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2019-11/AAE94690-8272-4B0C-B0F8-0BD74D98E409.jpeg",
+          "width": 640,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be?amp",
+      "publishedDateTime": "2021-09-23T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-robotics-gets-a-jolt-from-an-open-robotics-nvidia-partnership.md",
       "title": "Robotics Gets A Jolt From An Open Robotics-Nvidia Partnership",
       "excerpt": "The predesigned algorithms combined the synthetic data allow even the most novice developer or startup to quickly develop robotic platforms.",
@@ -445,7 +489,7 @@
       "originalUrl": "https://www.openpr.com/news/2403287/artificial-intelligence-ai-market-may-double-its-market-size",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1327,49 +1371,6 @@
       "provider": {
         "name": "Aerospace & Defense News",
         "domain": "asdnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-locus-robotics-collects-50-million-in-new-funding-for-amrs.md",
-      "title": "Locus Robotics collects $50 million in new funding for AMRs",
-      "excerpt": "Warehouse automation provider Locus Robotics today gained new fuel to develop its autonomous mobile robot (AMR) technology for fulfillment tasks, thanks to a $50 million funding round. Massachusetts-based Locus Robotics said the new backing would facilitate continued growth and expansion into new markets around the globe,",
-      "sourceUrl": null,
-      "webUrl": "https://www.dcvelocity.com/articles/52306-locus-robotics-collects-50-million-in-new-funding-for-amrs",
-      "originalUrl": "https://www.dcvelocity.com/articles/52306-locus-robotics-collects-50-million-in-new-funding-for-amrs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dcvelocity.com/ext/resources/2021/09/14/locus-Screen-Shot-2021-09-14-at-1.41.48-PM.png?height=635&t=1631652043&width=1200",
-          "width": 984,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DC Velocity",
-        "domain": "dcvelocity.com",
         "images": null,
         "publishers": null,
         "authors": null
