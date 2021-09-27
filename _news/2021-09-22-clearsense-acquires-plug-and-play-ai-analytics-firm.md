@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/clearsense-acquire
 webUrl: "https://markets.businessinsider.com/news/stocks/clearsense-acquires-plug-and-play-ai-analytics-firm-1030815362"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://cdn.openpr.com/U/9/U922369966_g.jpg"
         width: 450
         height: 300
-        isCached: true
-  - title: "Analytics engine leverages data and artificial intelligence to turn radio communication between drivers and engineers into insights"
-    excerpt: "Using advanced digital analytics and artificial intelligence, Genpact’s Radio Analytics Engine (RAE) analyzes and organizes hours of radio communication generated simultaneously by drivers during a race and turns."
-    publishedDateTime: 2021-09-22T09:53:00Z
-    webUrl: "https://www.analyticsinsight.net/genpact-launches-radio-analytics-engine-to-accelerate-envision-virgin-racings-competitive-performance/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 7
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Genpact-Launches-Radio-Analytics-Engine-to-Accelerate-Envision-Virgin-Racings-Competitive-Performance.jpg"
-        width: 900
-        height: 500
         isCached: true
 
 secured: "31wTa3PTCASYhJQp/k3szG/adZijoRnDMO+AvALB19wLoxh/Sk3R104uJqfj3HUUO+3n0vLu074LeEhwU1erCtJ3F/NvheC6favMwIY6jyba+IGQK3PsCDNSSS/fPR3ScTi3Gxpcb6D1k0RMoykwnPFI0ZuDyKfVKD4eRJC9njo+zuZkRKdKRe7K8uMqZ51fqwG17a4efiafeMQVSERikbcEIHE5AMNl4XU3GvzVX62w+zKTqYvf4t2M+PvxgerdrBHBxg7Ddmub2EAIYmVtg0mLjQmwsDG+GugmNvcgFLCd9SKaGtZ/9UVE5OhwQ297sOJwnAjQHbAo8LjmmEuhrZcodrCzm6i/4HxLJPKU6q+0J0jdKVnqqJBGSA2Wx7LB8BrMcThtXJvyseXY5kcETfXFJkcHDQtxgXOx9AkXL93gpS5/BNfAUv+cz27KD4LLMaLCkCzwmLCddx1yh3+QsnpYtkzFPepph0rqwmNpqBgDtypR7l5Edw/ByZchzJSKpjNQ2M6wblA0IgfWgTw4dQ==;c58MrVPu2SjvwHZWf+Qyvw=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/top-8-scariest-ai-and-robotics-mo
 webUrl: "https://www.analyticsinsight.net/top-8-scariest-ai-and-robotics-moments-in-history/"
 type: article
 quality: 64
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-5845715201.jpg"
         width: 690
         height: 400
-        isCached: true
-  - title: "Analytics Insight features some of the top AI researchers in India who are influencers in AI"
-    excerpt: "This article features some of the top AI researchers in India who are influencers in research work for AI models and machine learning algorithms. Click here to know more on these AI researchers."
-    publishedDateTime: 2021-09-22T11:02:00Z
-    webUrl: "https://www.analyticsinsight.net/top-ai-researchers-in-india-to-influence-your-mind-in-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 28
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Untitled-1.jpg-Top-AI-Researchers-in-India-to-Influence-Your-Mind-in-2021.jpg"
-        width: 900
-        height: 500
         isCached: true
 
 secured: "4tlmu49SiZfcJPJOLNExPYDW1XXdrVOIQoJVXIYeWEBUVeofFikhyItHJQDdXcrPUUJyVRLhIVse9v4Ysb/tKF6jEzwc7S4oKawuo0ug5wbgz6y05NdfrhWaChcXszsRb1D7T+ACLPjGdqu8bUDmp1mtbu/VohW4xIl5yKOwPScWarj+LKkq4Gpe0COF28kBXcYHQJlN4pnSvMGMdE3wAlahABh/mF06sIHNJUqLMZ9BRmJg8MX9vsWnOLqaf/JexQA51/dbsvfOLcxmyJUCP+q2YT9V2rYljx9l3PaJiYkY8qIo5+Sx8h48O0VHfJzQtd8z0EfEkwkHhvNYbK+pINjnmRIbWVYRQFfNWiPPGeI=;bogCMO8ogs9yD5UzGNoZuQ=="

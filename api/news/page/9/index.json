@@ -2,58 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2021-09-16-this-restaurant-tech-start-up-uses-computer-vision-to-get-your-fast-food-order-made-accurately.md",
-      "title": "This restaurant tech start-up uses computer vision to get your fast-food order made accurately",
-      "excerpt": "The start-up installs overhead cameras in restaurant kitchens and uses computer vision to scrutinize if workers are preparing orders correctly. The drive-thru ordering boom during the Covid pandemic has made order accuracy more difficult for fast-food ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/09/16/this-start-up-uses-computer-vision-to-get-your-fast-food-order-made-accurately-.html",
-      "originalUrl": "https://www.cnbc.com/2021/09/16/this-start-up-uses-computer-vision-to-get-your-fast-food-order-made-accurately-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106942807-1631795175716-gettyimages-1129094921-is09bx04z.jpeg?v=1631795193",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/09/16/this-start-up-uses-computer-vision-to-get-your-fast-food-order-made-accurately-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/09/16/this-start-up-uses-computer-vision-to-get-your-fast-food-order-made-accurately-.html",
-      "publishedDateTime": "2021-09-16T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-16-comparison-of-iot-services-from-aws-azure-and-gcp.md",
       "title": "Comparison Of IoT Services From AWS, Azure, And GCP",
       "excerpt": "AWS IoT Core natively integrates with other AWS services like AWS Lambda, Amazon Kinesis, Amazon S3, Amazon Sagemaker, Amazon DynamoDB, CloudWatch, Aws CloudTrail, Amazon QuickSight. AWS IoT Device Defender: AWS IoT Device Defender is another fully managed ...",
@@ -1122,6 +1070,49 @@
       "provider": {
         "name": "IGN",
         "domain": "ign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-alteryx-incs-ayx-ceo-mark-anderson-presents-at-citi-2021-global-technology-virtual-conference-transcript.md",
+      "title": "Alteryx, Inc.'s (AYX) CEO Mark Anderson Presents at Citi 2021 Global Technology Virtual Conference (Transcript)",
+      "excerpt": "Citi 2021 Global Technology Virtual Conference September 15, 2021, 1:00 pm ET Executives Mark Anderson - Chief Executive Officer Kevin Rubin - Chief",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4455445-alteryx-inc-s-ayx-ceo-mark-anderson-presents-citi-2021-global-technology-virtual-conference",
+      "originalUrl": "https://seekingalpha.com/article/4455445-alteryx-inc-s-ayx-ceo-mark-anderson-presents-citi-2021-global-technology-virtual-conference",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4455445-alteryx-inc-s-ayx-ceo-mark-anderson-presents-citi-2021-global-technology-virtual-conference",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4455445-alteryx-inc-s-ayx-ceo-mark-anderson-presents-citi-2021-global-technology-virtual-conference",
+      "publishedDateTime": "2021-09-15T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
         "images": null,
         "publishers": null,
         "authors": null

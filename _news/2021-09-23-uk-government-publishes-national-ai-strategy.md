@@ -41,22 +41,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "UK sets out artificial intelligence strategy"
-    excerpt: "The government has outlined artificial intelligence (AI) plans as part of a push to position the UK as a global leader in the governance of AI technologies."
-    publishedDateTime: 2021-09-22T09:28:00Z
-    webUrl: "https://www.research-live.com/article/news/uk-sets-out-artificial-intelligence-strategy-/id/5089492"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5089492&name=uk-sets-out-artificial-intelligence-strategy-"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5089492&name=uk-sets-out-artificial-intelligence-strategy-"
-    type: article
-    provider:
-      name: research
-      domain: research-live.com
-    quality: 59
-    images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
-        isCached: true
   - title: "National AI Strategy - can the UK be the superpower it imagines itself to be?"
     excerpt: "Does Whitehall have the human intelligence, expertise, and skills to make the UK’s new National AI Strategy work?"
     publishedDateTime: 2021-09-23T09:04:00Z

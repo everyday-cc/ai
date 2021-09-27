@@ -148,22 +148,6 @@ related:
         width: 1344
         height: 743
         isCached: true
-  - title: "RAF trialling self-driving cars - to free up personnel from mundane jobs on military bases"
-    excerpt: "The Royal Air Force has been trialling the use of self-driving cars as it explores ways to free up personnel from mundane tasks on military bases. Staff at RAF Brize Norton, Oxon., have been working with the Academy of Robotics on the trial,"
-    publishedDateTime: 2021-09-22T10:31:00Z
-    webUrl: "https://www.express.co.uk/life-style/cars/1494865/raf-self-driving-cars-trials-personnel-free"
-    ampWebUrl: "https://www.express.co.uk/life-style/cars/1494865/raf-self-driving-cars-trials-personnel-free/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1494865/raf-self-driving-cars-trials-personnel-free/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 34
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/1494865_1.jpg?r=1632306667602"
-        width: 590
-        height: 350
-        isCached: true
 
 secured: "/iBoNjRAgNqkm4mnTQ1z+CVm2cEWgrxEzWl9svzDxUEsGxYJsU2+sXMs+gj6Ugjp7vvY8yF0cxACl75udI91FNlQQdgmRWS+AgNnG7KKLd2gE1Rg1EUiaokb/sCMlcxw0jFAyFa/ERzeUNrqiOo5PM0E99me1K4VHsPO05rpMo7YIuhAAjelS7SwrREX5MUazD4EVVeIJcUK5dqWTkfIi/RpOj0eO9STY+7kHU7LDkARv3RvPWomTcTMgRSdeOEKtJQrfuFT7wTm9EtMciMESVdwRE3qgqBvoOD81mPP6n/OAvH0v8o3RfPgPlEFMHpO8+7wDC0G4NvDQaaF4pAvMA8vgvHGMeWAWry92cwnGCE=;KADoj10wqA/iA5GFqTFxLg=="
 ---

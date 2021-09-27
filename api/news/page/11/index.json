@@ -2,49 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2021-09-15-cognitive-services-market-size-key-factors-major-players-growth-strategies-trends-forecast-till-2028.md",
-      "title": "Cognitive Services Market Size, Key Factors, Major Players, Growth Strategies, Trends, Forecast Till 2028",
-      "excerpt": "Going ahead, the Cognitive Services market report precisely evaluates the gross profits, revenue shares, sales volume, manufacturing costs, and individual growth rate, and financial positions of the leading market contenders.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/cognitive-services-market-size-key-factors-major-players-growth-strategies-trends-forecast-till-2028/",
-      "originalUrl": "https://manometcurrent.com/cognitive-services-market-size-key-factors-major-players-growth-strategies-trends-forecast-till-2028/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/2-20.jpg",
-          "width": 750,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/cognitive-services-market-size-key-factors-major-players-growth-strategies-trends-forecast-till-2028/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/cognitive-services-market-size-key-factors-major-players-growth-strategies-trends-forecast-till-2028/?amp=1",
-      "publishedDateTime": "2021-09-15T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-15-dish-selects-ibms-ai-powered-automation-and-network-orchestration-software-and-services-for-new-cloud-native-5g-network.md",
       "title": "DISH selects IBM's AI-powered automation and network orchestration software and services for new cloud-native 5G network",
       "excerpt": "applying advanced AI with IBM Watson and orchestration capabilities to help optimize network operations and performance. As a result, DISH can accelerate time to market for new innovative services powered by a secured, automated, intelligent and agile 5G ...",
@@ -1093,6 +1050,40 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-deep-learning-market-outlook-competitive-landscape-and-forecasts-to-2026.md",
+      "title": "Deep Learning Market Outlook, Competitive Landscape and Forecasts to 2026",
+      "excerpt": "Global Deep Learning Market Overview Deep learning technologies enable a number of industries in developing deep domain insights besides helping transfer critical data to end users in the most usable ways The global deep learning market has gained remarkable impetus",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2393555/deep-learning-market-outlook-competitive-landscape",
+      "originalUrl": "https://www.openpr.com/news/2393555/deep-learning-market-outlook-competitive-landscape",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2393555/deep-learning-market-outlook-competitive-landscape",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2393555/deep-learning-market-outlook-competitive-landscape",
+      "publishedDateTime": "2021-09-15T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

@@ -42,20 +42,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Informed Solutions recognised as a great inspiration"
-    excerpt: "Informed Solutions has received national recognition for its response to the Coronavirus pandemic by being named as one of the faces of the UK government’s “GREAT Inspirations” campaign launched today."
-    publishedDateTime: 2021-09-22T09:36:00Z
-    webUrl: "https://digileaders.com/informed-solutions-recognised-as-a-great-inspiration/"
-    type: article
-    provider:
-      name: Digital Leaders
-      domain: digileaders.com
-    quality: 24
-    images:
-      - url: "https://digileaders.com/wp-content/uploads/2021/09/informed-solutions-liz-vega-1001170-0035-edit.jpg"
-        width: 700
-        height: 674
-        isCached: true
 
 secured: "toP/ZB00m79O21j+7ku4PolVw0T0jwWKUIXP3s3cSjeJhsPdgsNS3Ybak9OHYdpMM2bNYEqf5MvgXr/29w7crmle/rj73elypm7PsnbTAmc7dk4aBDcrw6YQQoyL3MdTcp7mtvTjiSBe2R12Hh203EM6zGm8R1uyl2VCcnSeztJB9AZ7AegQKt0m5MzfHe8/dr6CaVKpQ1zfi67tAqe9DCZYQJM2aC8MpyK12frPHh6cXNXtiVL7qrMU7oNaVDCGHRmOX11RNx9tadw+OIEcNjRWajLiMeApNj6Om8SZomYLYvBuuWYkG+UsFifwjwOZoMMRvmSbyAUMsaUaHOcUGG8y8+QDllYC6/qPSsqx9Ng=;7o1cB+PLBxZ0J0gXW8yNsA=="
 ---

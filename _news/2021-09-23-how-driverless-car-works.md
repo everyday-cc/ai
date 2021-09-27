@@ -43,20 +43,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Tech Insider: Baidu-Backed Driverless Truck, Douyin Limits Kids to 40 Minutes Daily"
-    excerpt: "Welcome to Caixin’s Tech Insider, your twice-weekly wrap on the movers, shakers and deal-makers in China’s tech scene. Baidu-backed DeepWay unveils driverless truck . DeepWay,"
-    publishedDateTime: 2021-09-22T10:22:00Z
-    webUrl: "https://www.caixinglobal.com/2021-09-22/tech-insider-baidu-backed-driverless-truck-douyin-limits-kids-to-40-minutes-daily-101776298.html"
-    type: article
-    provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 48
-    images:
-      - url: "https://img.caixin.com/2021-09-22/1632296474650960_560_373.jpg"
-        width: 560
-        height: 373
-        isCached: true
   - title: "San Francisco raises concerns about Tesla 'self-driving' system as public test nears"
     excerpt: "Tilly Chang, executive director of the The San Francisco County Transportation Authority, said in a statement to Reuters that a human driver should \"continuously monitor\" Tesla's so-called Full Self-Driving system."
     publishedDateTime: 2021-09-24T10:50:00Z

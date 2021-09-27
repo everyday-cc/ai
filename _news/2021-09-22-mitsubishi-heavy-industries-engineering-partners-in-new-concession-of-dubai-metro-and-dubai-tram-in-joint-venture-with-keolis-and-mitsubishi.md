@@ -9,7 +9,7 @@ ampWebUrl: "https://www.asiaone.com/business/mitsubishi-heavy-industries-enginee
 cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/mitsubishi-heavy-industries-engineering-partners-new-concession-dubai-metro-and-dubai-tram?amp"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mitsubishi Heavy Industries Engineering successfully begins operation of Dubai Metro"
-    excerpt: "Services are operated through Keolis-MHI Rail Management and Operation, a consortium led by Keolis, a subsidiary of SNCF (French National Railway Company) and CDPQ (Caisse de dépot et placement du Quebec),"
-    publishedDateTime: 2021-09-22T09:07:00Z
-    webUrl: "https://meconstructionnews.com/49360/mitsubishi-heavy-industries-engineering-successfully-begins-operations-of-dubai-metro"
-    ampWebUrl: "https://meconstructionnews.com/49360/mitsubishi-heavy-industries-engineering-successfully-begins-operations-of-dubai-metro/amp"
-    cdnAmpWebUrl: "https://meconstructionnews-com.cdn.ampproject.org/c/s/meconstructionnews.com/49360/mitsubishi-heavy-industries-engineering-successfully-begins-operations-of-dubai-metro/amp"
-    type: article
-    provider:
-      name: meconstructionnews.com
-      domain: meconstructionnews.com
-    quality: 32
   - title: "Mitsubishi Heavy Industries Engineering partners in new concession of Dubai Metro and Dubai Tram in a joint venture with Keolis and Mitsubishi Corp"
     excerpt: "First participation in operation of overseas urban rail transport systems, contributing a safe and smooth transport system for the “EXPO 2020 Dubai”, Keolis-MHI concession to cover maximum of 15 years."
     publishedDateTime: 2021-09-25T04:16:00Z

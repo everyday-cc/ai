@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Full Self-Driving: An overview of how it works"
-    excerpt: "If there is one piece of technology that's pretty optimistic, it's Tesla's Full Self-Driving system. There are no self-driving cars on sale today, despite what \"FSD\" -- as Tesla owners and CEO Elon Musk refer to it as -- promises."
-    publishedDateTime: 2021-09-22T11:00:00Z
-    webUrl: "https://www.cnet.com/news/tesla-full-self-driving-overview-cost-investigation/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-overview-cost-investigation/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-overview-cost-investigation/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/bOyPv1h-UlqYl-el3hHcBa2WShc=/644x362/2017/03/14/e743e9be-1c54-4dd3-9583-248dd3e54e34/amp-placeholder.jpg"
-        width: 644
-        height: 362
-        isCached: true
   - title: "Samsung in talks with Tesla to make next-gen self-driving chips -Korea Economic Daily"
     excerpt: "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday."
     publishedDateTime: 2021-09-23T15:56:00Z
@@ -335,6 +319,20 @@ related:
       - url: "https://www.thedetroitbureau.com/wp-content/uploads/2015/06/San-Francisco.jpg"
         width: 1356
         height: 750
+        isCached: true
+  - title: "Tesla Full Self-Driving goes live in the USA"
+    excerpt: "The controversial tech will be made available to drivers who pass a series of safety tests. Electric vehicle specialist Tesla rolled out a new software"
+    publishedDateTime: 2021-09-27T02:09:00Z
+    webUrl: "https://www.drive.com.au/news/tesla-full-self-driving-goes-live-in-the-usa/"
+    type: article
+    provider:
+      name: Drive.com.au
+      domain: drive.com.au
+    quality: 39
+    images:
+      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_720,q_auto:best,w_1280/v1/cms/uploads/z46x0k3fetebxlmui7fl"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Tesla Releases Latest Version of 'Full Self Driving Capability,' but It Requires Owners to Pass a Safety Test"
     excerpt: "With the release of the beta version of Tesla's Full Self-Driving Capability, Consumer Reports says the required seven-day driver evaluation underscores the system’s own limitations."

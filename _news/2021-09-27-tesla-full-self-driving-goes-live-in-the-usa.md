@@ -1,27 +1,27 @@
 ---
 category: news
-title: "San Francisco Takes Issue with Tesla Full Self-Driving Testing"
-excerpt: "Tesla is getting ready to release Full Self-Driving to the masses, but the San Francisco County Transit Authority (SFCTA) raises some concerns about the software’s safety. In addition to worries about how well it performs,"
-publishedDateTime: 2021-09-24T16:47:00Z
-originalUrl: "https://www.thedetroitbureau.com/2021/09/san-francisco-takes-issue-with-tesla-full-self-driving-testing/"
-webUrl: "https://www.thedetroitbureau.com/2021/09/san-francisco-takes-issue-with-tesla-full-self-driving-testing/"
+title: "Tesla Full Self-Driving goes live in the USA"
+excerpt: "The controversial tech will be made available to drivers who pass a series of safety tests. Electric vehicle specialist Tesla rolled out a new software"
+publishedDateTime: 2021-09-27T02:09:00Z
+originalUrl: "https://www.drive.com.au/news/tesla-full-self-driving-goes-live-in-the-usa/"
+webUrl: "https://www.drive.com.au/news/tesla-full-self-driving-goes-live-in-the-usa/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TheDetroitBureau
-  domain: thedetroitbureau.com
+  name: Drive.com.au
+  domain: drive.com.au
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.thedetroitbureau.com/wp-content/uploads/2015/06/San-Francisco.jpg"
-    width: 1356
-    height: 750
+  - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_720,q_auto:best,w_1280/v1/cms/uploads/z46x0k3fetebxlmui7fl"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -315,19 +315,19 @@ related:
         width: 470
         height: 246
         isCached: true
-  - title: "Tesla Full Self-Driving goes live in the USA"
-    excerpt: "The controversial tech will be made available to drivers who pass a series of safety tests. Electric vehicle specialist Tesla rolled out a new software"
-    publishedDateTime: 2021-09-27T02:09:00Z
-    webUrl: "https://www.drive.com.au/news/tesla-full-self-driving-goes-live-in-the-usa/"
+  - title: "San Francisco Takes Issue with Tesla Full Self-Driving Testing"
+    excerpt: "Tesla is getting ready to release Full Self-Driving to the masses, but the San Francisco County Transit Authority (SFCTA) raises some concerns about the software’s safety. In addition to worries about how well it performs,"
+    publishedDateTime: 2021-09-24T16:47:00Z
+    webUrl: "https://www.thedetroitbureau.com/2021/09/san-francisco-takes-issue-with-tesla-full-self-driving-testing/"
     type: article
     provider:
-      name: Drive.com.au
-      domain: drive.com.au
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
     quality: 39
     images:
-      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_720,q_auto:best,w_1280/v1/cms/uploads/z46x0k3fetebxlmui7fl"
-        width: 1280
-        height: 720
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2015/06/San-Francisco.jpg"
+        width: 1356
+        height: 750
         isCached: true
   - title: "Tesla Releases Latest Version of 'Full Self Driving Capability,' but It Requires Owners to Pass a Safety Test"
     excerpt: "With the release of the beta version of Tesla's Full Self-Driving Capability, Consumer Reports says the required seven-day driver evaluation underscores the system’s own limitations."
@@ -381,6 +381,6 @@ related:
         height: 960
         isCached: true
 
-secured: "yi5BBCOD3I1LuZP2ITEUHgPIrC+5o4zT26+iKIwWVq8YmwfvAExf9ShuNe14BSDO8Guw0O+qcl5WYOs/f/C2fFuBFkV6K2qCx7AYRRiA4YlEj52AOmw/60Q81BbBgMjflFygQmKAEuV/B49yom+EQ12aM+ohh9SaxnNLgJDW0cVguCCc5VFRoEjSxX9tocMBDRQ3/qjvJXJM9JgykyShJgPoeaGnJbmY4sMoWGS+aLSBJgXCbiu6C1tQI1hHxLnBJBPKpgrYlaYIpW3P6TkgL6GDzTb4UizELUU7kJlNLDnHlFa7Sip7YtyeaXGrRSBTE0uCdtQ9nEsSkgKfhM0G7riwK4YcSr+kbh7ZUqE/OrQfj92UMoDVCuuPCko+W8rfoE5olHHwLB/xUOwwLhvtmRWMBFCj9itlUIjjvVwJCdv1/SPRwacmFDMjwtESlkiIWhaB/NcPv6F272r53FHcnc7MLQp5AxZI43acTZS2vr8IV67eyslFSD6Z7K8KraSrQIPC1e2W8AubPqmAXlrmng==;aFw1uQlO3qmypO6ZDIN/Gw=="
+secured: "smdUatJuHY3r1BqiCvhojShKhtzVOkVQ2gN/sZLj1kT9SAO2pUmT9/WhlIK+D/N7uLTyufa7ULUKOeSORcsqJDbIyg4+TBvxS5fqQQsnaQaCKM85blO24wTATTLeUHDsUvEm7fTOcoCoM/TW1Pg4EtQWHf8FvzsJ0tnEhHCHSguQQlsejSpkESStDGac/c1MM9uCaCA5zcYM2cXUC7RMl+4mX06sB1DpoA0wbDUL0gi8tAebpSeMF2Zl/nC4grZlGrkjl+aAX2hXfY9jgnhG7D3TM5ME13gaFNdnpvuqZGQg3vwNHkR8LEbydrfjA7ilwOWNWdXpuDaIOnXAUL9DvohfAkJPM0XHWOK+nb0w2Eo=;RojJf9yeDoxJM3VjxrlP+w=="
 ---
 

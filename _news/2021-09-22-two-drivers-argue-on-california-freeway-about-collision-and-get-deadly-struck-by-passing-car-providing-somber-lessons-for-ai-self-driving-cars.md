@@ -137,22 +137,6 @@ related:
         width: 1344
         height: 743
         isCached: true
-  - title: "RAF trialling self-driving cars - to free up personnel from mundane jobs on military bases"
-    excerpt: "The Royal Air Force has been trialling the use of self-driving cars as it explores ways to free up personnel from mundane tasks on military bases. Staff at RAF Brize Norton, Oxon., have been working with the Academy of Robotics on the trial,"
-    publishedDateTime: 2021-09-22T10:31:00Z
-    webUrl: "https://www.express.co.uk/life-style/cars/1494865/raf-self-driving-cars-trials-personnel-free"
-    ampWebUrl: "https://www.express.co.uk/life-style/cars/1494865/raf-self-driving-cars-trials-personnel-free/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1494865/raf-self-driving-cars-trials-personnel-free/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 34
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/1494865_1.jpg?r=1632306667602"
-        width: 590
-        height: 350
-        isCached: true
   - title: "Nuro is an Artificial Intelligence-based startup that creates self-driving cars, named R2."
     excerpt: "Nuro is an Artificial Intelligence (AI)-based startup that develops self-driving cars called R2 that are based on robotics and AI. It's energy-efficient, battery-powered, and self-contained. Nuro's vehicle is an on-road vehicle that carries goods quickly,"
     publishedDateTime: 2021-09-23T10:00:00Z

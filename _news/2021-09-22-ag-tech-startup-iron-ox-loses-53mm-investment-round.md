@@ -39,20 +39,6 @@ related:
         width: 749
         height: 424
         isCached: true
-  - title: "BREAKING: Indoor ag startup Iron Ox closes $50m round led by Breakthrough Energy"
-    excerpt: "Iron Ox will use a chunk of the funding to open its largest facility yet: a leafy greens and berries-focused greenhouse in Lockhart, Texas."
-    publishedDateTime: 2021-09-22T10:00:00Z
-    webUrl: "https://agfundernews.com/iron-ox-raises-50m-in-breakthrough-energy-led-series-c-round.html"
-    type: article
-    provider:
-      name: Ag Funder News
-      domain: agfundernews.com
-    quality: 19
-    images:
-      - url: "https://agfundernews.com/wp-content/uploads/2021/09/Iron-Ox-Grover-lifting-Basil-Under-Module-e1632296181786.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "DmO5X5h3RyPxzBlFeWBNK+4Zf9G6olwEjrpLYAsHF9/XGryC62/MXMI1CdekTDlDi4u8LnBpZZSWLBb+ZvHfcQuALPFgktVKi7e/OECGXrOha3DpYfjic0E27rCtwLjXvalM66H/Fylognm5MUcmrIOtrP0pZydViC6SUqubVs+x0p6VE50JLJ8uxT/dqW6fycvkKCdi3S2rgdJEokOgIo0vKEp4DPqt/c3zutFkFYZ5E9AniX/3R6uectUKPPcLjRB5lsBscAma8KBhaOSy9y/D+CW9r0L34khC07tz+egLqTeVD35iFpqYJ/pD45mKlpy6riw8kto5zyB3vUe7cOcy7TQ9HlFytERafYFx+vxgf5Hzn3IjmzMAT61ItQi2UDCm1P6+Imc37cQUNJUqHs71GNNR3psSZQ4uvLOdRQtuy2fzkeubjNhPxwYOjVmgS25P6OmH8gk3bPetvi8c6qnLRIixj5CBAW+tS0FefbeACgDu8gpxq99rOUOudnPIzdeokfXgysrarO6vGlaBbg==;NXB7dbHSHNUvXt5uh230cA=="
 ---

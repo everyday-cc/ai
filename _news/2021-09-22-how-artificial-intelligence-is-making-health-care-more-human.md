@@ -39,31 +39,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Mayo Clinic CEO: Health care needs transformation"
-    excerpt: "He says technology including telemedicine, home health care and artificial intelligence are ways to accomplish that."
-    publishedDateTime: 2021-09-22T09:20:00Z
-    webUrl: "https://www.jaxdailyrecord.com/article/mayo-clinic-ceo-health-care-needs-transformation"
-    ampWebUrl: "https://www.jaxdailyrecord.com/article/mayo-clinic-ceo-health-care-needs-transformation?amp"
-    cdnAmpWebUrl: "https://www-jaxdailyrecord-com.cdn.ampproject.org/c/s/www.jaxdailyrecord.com/article/mayo-clinic-ceo-health-care-needs-transformation?amp"
-    type: article
-    provider:
-      name: Jacksonville Daily Record
-      domain: jaxdailyrecord.com
-    quality: 44
-    images:
-      - url: "https://www.jaxdailyrecord.com/sites/default/files/355093_standard.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Health care needs to transform, Mayo CEO says. Here's why time is right"
-    excerpt: "The Covid-19 pandemic accelerated the pace of change in health care by a decade, the Mayo Clinic CEO said on a visit to Jacksonville."
-    publishedDateTime: 2021-09-22T10:00:00Z
-    webUrl: "https://www.bizjournals.com/jacksonville/news/2021/09/22/heres-where-mayo-clinic-ceo-gianrico-farrugia-see.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "hU/yWVEuPz78Yv6icYHPdA5ZR1PHvCVPSGC1rW505vosfIMQCGRio4kIl7XpHfLg7qI3VOiAo2Vgc67X+PCFK6i9dR2B8WqUpRR269zgultk5UmP7oRrhZntiznvnWXUYqA6xAjrWVlnil9Iw62bAa+BScluGGpwQ6ctdjguYfOYxZNm7sNxs5AQqm4opaWTAsMHBSnpjgYqgAH2aJ/50mpOnCJPSmBSY9ygUKCXyxIbVb/CWlIuAFd5AnTKiYzxz05u2U+phWhJO9iFDEEUc8je+1ZGMXbNtAq5gWYNpFi66agW1ysy6dy8Eek5eDkYsdcIVQEes2t8jXAyJOnnbtlPXGEza9+8skT3rN2UNiU=;pOmJAdugVTM6XZRdqOEvdg=="
 ---

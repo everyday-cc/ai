@@ -40,20 +40,6 @@ related:
         width: 400
         height: 339
         isCached: true
-  - title: "Analytics engine leverages data and artificial intelligence to turn radio communication between drivers and engineers into insights"
-    excerpt: "Using advanced digital analytics and artificial intelligence, Genpact’s Radio Analytics Engine (RAE) analyzes and organizes hours of radio communication generated simultaneously by drivers during a race and turns."
-    publishedDateTime: 2021-09-22T09:53:00Z
-    webUrl: "https://www.analyticsinsight.net/genpact-launches-radio-analytics-engine-to-accelerate-envision-virgin-racings-competitive-performance/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 7
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Genpact-Launches-Radio-Analytics-Engine-to-Accelerate-Envision-Virgin-Racings-Competitive-Performance.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "XhJRvgwJQgW85uatJPkyzDEsvjg4X7VIE37ylginq7oWRMxk1hziDm/qJFXma8oc733LUS5T2f0ohN5aqjgtFUrU/07Daka2t9910ao/ACmoDgYYD5WECZMOlEeH7IEQH74aHT05qgHYaQKQDw5lkqLVsInT67lj8jAbE7o1Y3iB9+Mj6rQvDNOlsPPpoJOnW0ovFjWyW2q3V79lDrYYUYqPA0tVmsKm2U9N4Wu2Od/PGcAh1eoH4+56X1EdWKjBn10TIHAkEesAu6UQ9jCJqCbFiFx+6hu+YxLjOy7bB9HBwIuj1pUAwcvpV+vXmW33xj9PzSP2Gf5IKWtVAT/Xstv2bYW7Vb063KPu88WX3oXfvMAFY57XseFU3yT12x7GEBaTs1ZDP1JTs3w8iEaAUr+XmCZt6Jmgjt/6Q4m/TERPHCphJNVw81NilNjQCc3C+HqXjljVBniCYqd3SHMJ6d/EsO/jcCtGbbnsVqS64obI5PijujpJoww1+HR0dLxJrdzphicl2oZlVCjGpqobrw==;LHtAkJ/1L352X7RwJhSG2g=="
 ---
