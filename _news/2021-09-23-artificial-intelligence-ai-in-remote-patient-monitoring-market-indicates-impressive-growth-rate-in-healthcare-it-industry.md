@@ -49,17 +49,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 46
-  - title: "AI In Medical Imaging Market to witness Massive Growth by 2027-GE Healthcare, IBM Watson Health, Philips Healthcare, Samsung"
-    excerpt: "According to the new AI In Medical Imaging market research report 2021-2027 is easy to understand the detailed analysis. The report published by Market Insights Reports represents the context of current and future trends driving global AI In Medical Imaging market growth."
-    publishedDateTime: 2021-09-22T12:07:00Z
-    webUrl: "https://www.openpr.com/news/2402723/ai-in-medical-imaging-market-to-witness-massive-growth-by-2027-ge"
-    ampWebUrl: "https://www.openpr.com/amp/2402723/ai-in-medical-imaging-market-to-witness-massive-growth-by-2027-ge"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2402723/ai-in-medical-imaging-market-to-witness-massive-growth-by-2027-ge"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
   - title: "Artificial Intelligence in Education Market Recent Trends, Growth and High Demand During Forecast by 2030"
     excerpt: "Introduction. Education is one of the fastest growing industry verticals adopting artificial intelligence. This is due to the g"
     publishedDateTime: 2021-09-24T19:29:00Z

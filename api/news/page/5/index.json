@@ -2,6 +2,108 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-22-amazons-ai-is-forcing-delivery-drivers-to-make-dangerous-decisions.md",
+      "title": "Amazon’s AI is forcing delivery drivers to make dangerous decisions",
+      "excerpt": "A recent expose showed off a plethora of faults in Amazon's AI surveillance system for delivery drivers. How safe are we on the roads when AI's in charge?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/amazon-ai-forcing-drivers-make-dangerous-decisions",
+      "originalUrl": "https://thenextweb.com/news/amazon-ai-forcing-drivers-make-dangerous-decisions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2Fbezosgold.jpg&signature=404f5f3f8f26b0d5a8a9280fa1b74f9a",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-abductive-inference-is-a-major-blind-spot-for-ai.md",
+      "title": "Abductive inference is a major blind spot for AI",
+      "excerpt": "While an AI winter might dampen interest in deep learning and data-driven AI, it can open a new generation exploration.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/?via=indexdotco",
+      "originalUrl": "https://venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/?via=indexdotco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Myth-of-Artificial-Intelligence-e1632252905596.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/?via=indexdotco&amp",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/?via=indexdotco&amp",
+      "publishedDateTime": "2021-09-21T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-researchers-develop-ai-algorithm-to-diagnose-deep-vein-thrombois.md",
       "title": "Researchers Develop AI Algorithm To Diagnose Deep Vein Thrombois",
       "excerpt": "Researchers worked with a UK healthtech startup to develop an AI algorithm that could diagnose Deep Vein Thrombsis faster and more accurately.",
@@ -771,10 +873,10 @@
     {
       "path": "_news/2021-09-21-pavmed-subsidiary-veris-health-joins-microsoft-for-startups-global-program-and-engages-loka-as-software-development-partner.md",
       "title": "PAVmed Subsidiary Veris Health Joins Microsoft for Startups Global Program and Engages Loka as Software Development Partner",
-      "excerpt": "As a Microsoft for Startups program member, Veris will have access to Microsoft technology, mentorship and business support which will allow it to use Microsoft's cloud storage, data analytics, and other technologies to rapidly build and deploy its platform with state-of-the-art,",
+      "excerpt": "PAVmed Inc. (Nasdaq: PAVM, PAVMZ) (the \"Company\" or \"PAVmed\"), a highly differentiated, multi-product, commercial-stage medical technology company, today announced that its major subsidiary Veris Health Inc.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/09/21/9453342.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/09/21/9453342.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/-pavmed-subsidiary-veris-health-joins-microsoft-startups-global-/2021/09/21/9453342.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-pavmed-subsidiary-veris-health-joins-microsoft-startups-global-/2021/09/21/9453342.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1100,91 +1202,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-robotics-revolution-in-woodworking.md",
-      "title": "Robotics revolution in woodworking",
-      "excerpt": "While some woodworkers still cling to an 18th or 19th century image of the craft, the reality of 21st century woodworking is increasingly one of automation and robotics. Driven in part by the near impossibility of finding enough skilled workers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.woodworkingnetwork.com/technology/robotics-revolution-woodworking",
-      "originalUrl": "https://www.woodworkingnetwork.com/technology/robotics-revolution-woodworking",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.woodworkingnetwork.com/sites/default/files/2021-09/Robotic-Solutions-sanding-pool-table.jpg",
-          "width": 1800,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-21T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Woodworking Network",
-        "domain": "woodworkingnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-siemens-energy-launches-ai-solution-to-fight-industrial-cybercrime.md",
-      "title": "Siemens Energy launches AI solution to fight industrial cybercrime",
-      "excerpt": "Siemens Energy has launched a new solution for monitoring and responding to cyberthreats against the Industrial Internet of Things (IIoT). The industrial sector is undergoing a rapid shift from legacy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/forumsiocusssions/my-pc-has-framedropknow-whublic.com/index.php/article/siemens-launches-ai-solution-to-fight-industrial-cybercrime/",
-      "originalUrl": "https://www.zdnet.com/index.php/forumsiocusssions/my-pc-has-framedropknow-whublic.com/index.php/article/siemens-launches-ai-solution-to-fight-industrial-cybercrime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/forumsiocusssions/my-pc-has-framedropknow-whublic.com/index.php/google-amp/article/siemens-launches-ai-solution-to-fight-industrial-cybercrime/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/forumsiocusssions/my-pc-has-framedropknow-whublic.com/index.php/google-amp/article/siemens-launches-ai-solution-to-fight-industrial-cybercrime/",
-      "publishedDateTime": "2021-09-21T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

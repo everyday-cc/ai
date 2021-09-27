@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-09-artificial-intelligence-reveal-climate
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.amp"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2021/09/23/17/48299059-0-image-a-88_1632415853418.jpg"
         width: 636
         height: 382
+        isCached: true
+  - title: "New AI Could Reveal Climate-Change Tipping Points"
+    excerpt: "Researchers at the University of Waterloo are developing a new artificial intelligence (AI) that could act as an early warning system against climate change tipping points. The new research is focused on thresholds beyond which rapid or irreversible change happens in a system."
+    publishedDateTime: 2021-09-27T00:19:00Z
+    webUrl: "https://www.unite.ai/new-ai-could-reveal-climate-change-tipping-points/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 37
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-MeeTWHUJ/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/09/iceberg-4498677_1280.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Artificial intelligence could be used to reveal climate change's tipping points and act like an early warning system"
     excerpt: "Researchers are creating an artificial intelligence that could act as an 'early warning system' against runway climate change, according to a newly published study."

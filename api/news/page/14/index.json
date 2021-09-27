@@ -2,6 +2,92 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-09-14-ai-system-on-chip-that-runs-on-solar-power.md",
+      "title": "AI System-on-Chip That Runs On Solar Power",
+      "excerpt": "Researchers have found a way to get around the issues of AI-led technologies with their newly developed system-on-chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsforu.com/tech-zone/processor-tech/ai-system-on-chip-that-runs-on-solar-power",
+      "originalUrl": "https://www.electronicsforu.com/tech-zone/processor-tech/ai-system-on-chip-that-runs-on-solar-power",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/09/ai-system-on-chip-runs.jpg",
+          "width": 800,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.electronicsforu.com/tech-zone/processor-tech/ai-system-on-chip-that-runs-on-solar-power/amp",
+      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/tech-zone/processor-tech/ai-system-on-chip-that-runs-on-solar-power/amp",
+      "publishedDateTime": "2021-09-14T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics For You",
+        "domain": "electronicsforu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-futuristic-ai-based-computing-devices-physicists-simulate-artificial-brain-networks-with-new-quantum-materials.md",
+      "title": "Futuristic AI-Based Computing Devices: Physicists Simulate Artificial Brain Networks With New Quantum Materials",
+      "excerpt": "Pandemic lockdown forces a new perspective on designs for futuristic AI-based computing devices. Isaac Newton’s groundbreaking scientific productivity while isolated from the spread of bubonic plague is legendary.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/futuristic-ai-based-computing-devices-physicists-simulate-artificial-brain-networks-with-new-quantum-materials/",
+      "originalUrl": "https://scitechdaily.com/futuristic-ai-based-computing-devices-physicists-simulate-artificial-brain-networks-with-new-quantum-materials/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Complex-Emergent-Behaviors-777x466.jpg",
+          "width": 777,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/futuristic-ai-based-computing-devices-physicists-simulate-artificial-brain-networks-with-new-quantum-materials/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/futuristic-ai-based-computing-devices-physicists-simulate-artificial-brain-networks-with-new-quantum-materials/amp/",
+      "publishedDateTime": "2021-09-14T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-temenos-and-ibm-collaborate-to-accelerate-hybrid-cloud-adoption-in-the-financial-services-industry.md",
       "title": "Temenos and IBM Collaborate to Accelerate Hybrid Cloud Adoption in the Financial Services Industry",
       "excerpt": "Temenos (SIX: TEMN), the banking software company, today announced the availability of Temenos Transact next-generation core banking with Red Hat Open",
@@ -987,83 +1073,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-boba-tea-startup-bobacino-looks-to-incorporate-facial-recognition-payment-system.md",
-      "title": "Boba Tea Startup Bobacino Looks To Incorporate Facial Recognition Payment System",
-      "excerpt": "The demand for low-touch concepts and solutions that align restaurant trends caused by the pandemic has led to much interest in Bobacino's business model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foodbeast.com/news/bobacino-popid-facial-recognition-payment/",
-      "originalUrl": "https://www.foodbeast.com/news/bobacino-popid-facial-recognition-payment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.foodbeast.com/wp-content/uploads/2021/09/bobacino-popID.jpeg",
-          "width": 800,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Foodbeast",
-        "domain": "foodbeast.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-discovery-sports-events-goes-all-in-on-aws-to-engage-and-grow-global-fan-base-for-track-cycling.md",
-      "title": "DISCOVERY SPORTS EVENTS GOES ALL-IN ON AWS TO ENGAGE AND GROW GLOBAL FAN BASE FOR TRACK CYCLING",
-      "excerpt": "Discovery Sports Events and AWS to build an immersive fan-engagement offering for the new Union Cycliste Internationale (UCI) Track Champions League series that kicks off in November 2021 AWS becomes UCI Track Champions League exclusive Cloud Infrastructure Partner as part of new Discovery Sports Events collaboration SEATTLE – September 15,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressreleasepoint.com/discovery-sports-events-goes-all-aws-engage-and-grow-global-fan-base-track-cycling",
-      "originalUrl": "https://www.pressreleasepoint.com/discovery-sports-events-goes-all-aws-engage-and-grow-global-fan-base-track-cycling",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KLAS Press Release",
-        "domain": "pressreleasepoint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

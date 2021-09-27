@@ -7,7 +7,7 @@ originalUrl: "https://www.smithsonianmag.com/innovation/how-artificial-intellige
 webUrl: "https://www.smithsonianmag.com/innovation/how-artificial-intelligence-completed-beethovens-unfinished-10th-symphony-180978753/"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1600
     height: 1200
     isCached: true
+
+related:
+  - title: "An AI finished Beethoven’s final symphony. But is it good?"
+    excerpt: "The AI version of Beethoven's 10th symphony is almost as immaculate as the master composer's original works. Listen to a preview here."
+    publishedDateTime: 2021-09-26T23:00:00Z
+    webUrl: "https://www.popsci.com/technology/beethoven-10th-symphony-ai/"
+    ampWebUrl: "https://www.popsci.com/technology/beethoven-10th-symphony-ai/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/beethoven-10th-symphony-ai/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2021/09/24/beethoven-piano-music.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "REwWBB6t3zXCqmmaVHwn+qYDnMgFyPxnMXdyjLDvUiIgxay/eC1TvicZBnNsceGy/TQPQ83TA/wJVk99x0IiZ5T+OANalzQ2UUX8uIrXmEiGJV//87rHSuEulDPbeGFboqtrU3MN8BOLFWSpYujmJ4/wO/yVhHKiZckGHleYwQI04uCGKMJEBgdvlOwnGOA9rCQbD8oTmxcuWuxF1t7I4Cvjt7PXcN5toGaCbrlauJjXAZ3EKOj9Dsy30ivmYmkoWim0GonmB1pNdJMgqms6L/ot3SofLpVcM8adB1criRfwfUq4I01CNuXQ14n8Zo9ZHPyFKGVD92gTGVolZEJB5nzvwJm5MPmsuHfgy7BpqtavEA3pzSzxEiAy3rXvoRRwLcN92W3nR+5l/cPW4rv8btjPxYemtu7XenWqAZRJwSd5YR8VkeJV44MCnHOttxHvTx7GnhJ01sRZhG/18h9RXC7Qt9QEshbLB0w2HGsQ2kt6B7jJ5nZrPPHZy7ERuIl5a0vVe5DVKsnQUz6ZC4zZ8A==;Kg8t8is94quqtr2nQh2wFg=="
 ---

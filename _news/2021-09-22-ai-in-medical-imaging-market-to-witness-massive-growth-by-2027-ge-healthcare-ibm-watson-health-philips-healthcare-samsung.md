@@ -22,75 +22,20 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Artificial Intelligence (Ai) In Education Market to Eyewitness Massive Growth by 2026"
-    excerpt: "HTF MI Analyst have added a new research study on Title Worldwide Artificial Intelligence (Ai) In Education Market In-depth Research Report 2021, Forecast to 2026 with detailed information of Product Types [,"
-    publishedDateTime: 2021-09-25T13:08:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-education-market-to-eyewitness-massive-growth-by-2026/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-education-market-to-eyewitness-massive-growth-by-2026/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-education-market-to-eyewitness-massive-growth-by-2026/?amp=1"
+  - title: "IBM's Watson heads to SF with upgraded speech and vision analysis"
+    excerpt: "Almost a year since IBM unveiled a huge new home for its Watson AI in New York City, the company is bringing the Jeopardy champ west. The new headquarters, dubbed Watson West, will launch in San ..."
+    publishedDateTime: 2021-09-24T00:00:00Z
+    webUrl: "https://www.engadget.com/2015-09-24-ibm-watson-san-francisco.html"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 64
-  - title: "Artificial Intelligence (AI) in Remote Patient Monitoring Market Indicates Impressive Growth Rate In Healthcare IT Industry"
-    excerpt: "Artificial Intelligence AI in Remote Patient Monitoring Market Contours The shift from volume based to value based care in healthcare sector has opened a new paradigm in healthcare IT A wide spectrum of ICT based eHealth systems have opened up"
-    publishedDateTime: 2021-09-22T17:37:00Z
-    webUrl: "https://www.openpr.com/news/2403249/artificial-intelligence-ai-in-remote-patient-monitoring"
-    ampWebUrl: "https://www.openpr.com/amp/2403249/artificial-intelligence-ai-in-remote-patient-monitoring"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2403249/artificial-intelligence-ai-in-remote-patient-monitoring"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 63
+      name: Engadget
+      domain: engadget.com
+    quality: 69
     images:
-      - url: "https://cdn.openpr.com/U/9/U922583013_g.jpg"
-        width: 800
-        height: 394
+      - url: "https://s.yimg.com/uu/api/res/1.2/lL7RpwsX5nevdjOkJ_EznA--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://o.aolcdn.com/dims-shared/dims3/GLOB/crop/4000x2667+0+0/resize/1200x800!/format/jpg/quality/85/https://o.aolcdn.com/hss/storage/midas/d4a07be508b6aec625a7842a9268c9fd/202696388/456863796.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Artificial Intelligence (AI) in Construction Market to Witness Huge Growth by 2027 | Autodesk, IBM, Microsoft, Oracle"
-    excerpt: "The latest Artificial Intelligence AI in Construction market study offers an all inclusive analysis of the major strategies corporate models and market shares of the most noticeable players in this market The study offers a thorough analysis of the key"
-    publishedDateTime: 2021-09-23T06:54:00Z
-    webUrl: "https://www.openpr.com/news/2403731/artificial-intelligence-ai-in-construction-market-to-witness"
-    ampWebUrl: "https://www.openpr.com/amp/2403731/artificial-intelligence-ai-in-construction-market-to-witness"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2403731/artificial-intelligence-ai-in-construction-market-to-witness"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 46
-  - title: "Artificial Intelligence in Education Market Recent Trends, Growth and High Demand During Forecast by 2030"
-    excerpt: "Introduction. Education is one of the fastest growing industry verticals adopting artificial intelligence. This is due to the g"
-    publishedDateTime: 2021-09-24T19:29:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-education-market-recent-trends-growth-and-high-demand-during-forecast-by-2030/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-education-market-recent-trends-growth-and-high-demand-during-forecast-by-2030/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-education-market-recent-trends-growth-and-high-demand-during-forecast-by-2030/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 37
-  - title: "Fintech Market Is Likely to Experience a Tremendous Growth in Near Future"
-    excerpt: "HTF MI Analyst have added a new research study on Title Worldwide Fintech Market In-depth Research Report 2021, Forecast to 2026 with detailed information of Product Types [, Fintech markets by type,"
-    publishedDateTime: 2021-09-25T13:07:00Z
-    webUrl: "https://manometcurrent.com/fintech-market-is-likely-to-experience-a-tremendous-growth-in-near-future/"
-    ampWebUrl: "https://manometcurrent.com/fintech-market-is-likely-to-experience-a-tremendous-growth-in-near-future/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/fintech-market-is-likely-to-experience-a-tremendous-growth-in-near-future/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 23
-  - title: "Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Construction market report provides"
-    publishedDateTime: 2021-09-24T13:18:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4908381-global-artificial-intelligence-ai-in-construction-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 6
 
 secured: "a7yEvgik6QCcS8cmTolTWXrPbUetlYktDxa8v04+NwH6s38sEVPCXc/Q5ziHq9squgkyc7Dbm3p3wNv4o1XnnPVsLViI0PH9PqxS8pXSYFNJMjMET449YkzB5FvKTdlalS0irelec4uWnDvIQ6a6e+9X8tRGZOekMuox3myF/Kd1TCBQA/x5XVXB/LTmzno1jm6qYlj4pJmoUNyllZRwWLRNMhoymDfRBtIQwRjBgb8Ua44d5buJOdIQiAjq5vbU6hirJhhdui+f59KOxs1c5HMYd6Z0/KDAiRCNO74m1W4YPWVoCGpEbVoxQzCj+Jk1ODz+Vi8rjMVhS1k+WXpprMyMCvLWbJBCNlLniGVpzAY=;ZeWdeZkjxXdy1C4h+tDqPQ=="
 ---

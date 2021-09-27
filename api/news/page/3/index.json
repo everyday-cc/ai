@@ -2,6 +2,142 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-23-how-cloud-migration-and-ai-can-help-reduce-carbon-footprint.md",
+      "title": "How Cloud Migration And AI Can Help Reduce Carbon Footprint",
+      "excerpt": "In fact, the goal of the Paris Agreement is to \"limit global warming to well below 2, preferably to 1.5 degrees Celsius, compared to pre-industrial levels.\" To meet this goal, Boston Consulting Group (BCG) notes that \"we must reduce these carbon emissions by 50% by the end of this decade,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/23/how-cloud-migration-and-ai-can-help-reduce-carbon-footprint/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/23/how-cloud-migration-and-ai-can-help-reduce-carbon-footprint/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614b3644cb447db2b4a98211%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/23/how-cloud-migration-and-ai-can-help-reduce-carbon-footprint/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/23/how-cloud-migration-and-ai-can-help-reduce-carbon-footprint/amp/",
+      "publishedDateTime": "2021-09-23T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-conversational-ai-startup-gnaniai-launches-voice-biometrics-software.md",
+      "title": "Conversational AI startup Gnani.ai launches voice biometrics software",
+      "excerpt": "Gnani.ai, conversational AI and voice security domain, announced the launch of its home-grown Voice Biometrics software. Christened armour365™, the biometric solution claims to cater to new and emerging risks",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/",
+      "originalUrl": "https://www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2017/07/Fraud.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/amp/",
+      "publishedDateTime": "2021-09-23T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-ai-ethics-is-growing-up-towards-an-ai-maturity-model-organizations-can-use.md",
+      "title": "AI ethics is growing up - towards an AI maturity model organizations can use",
+      "excerpt": "When it comes to AI lessons organizations can use, the AI ethics punditry has been spinning its wheels. But there's good news: AI maturity models are emerging.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/ai-ethics-growing-towards-ai-maturity-model-organizations-can-use",
+      "originalUrl": "https://diginomica.com/ai-ethics-growing-towards-ai-maturity-model-organizations-can-use",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2019-01/success-ladder.jpg",
+          "width": 1276,
+          "height": 713,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/ai-ethics-growing-towards-ai-maturity-model-organizations-can-use?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-ethics-growing-towards-ai-maturity-model-organizations-can-use?amp",
+      "publishedDateTime": "2021-09-23T00:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-researchers-use-deep-learning-to-enhance-cancer-diagnostic-tools.md",
       "title": "Researchers use deep learning to enhance cancer diagnostic tools",
       "excerpt": "Yi \"Edwin\" Sun, a Ph.D. candidate in electrical and computer engineering at the University of Illinois Urbana-Champaign and member of the Beckman Institute's Biophotonics Imaging Laboratory headed by Stephen Boppart,",
@@ -53,7 +189,7 @@
       "originalUrl": "https://phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -222,49 +358,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-robotics-ai-startup-cogniteam-raises-42m.md",
-      "title": "Robotics AI Startup Cogniteam Raises $4.2M",
-      "excerpt": "Cogniteam, an advanced robotics AI software development company, recently raised $4.2 million of private investment equity, led by Seabarn Management’s Founder & CEO, Andrew Owens. Cogniteam has developed an AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/investments-and-expansions/20872-robotics-ai-startup-cogniteam-raises-4-2m",
-      "originalUrl": "https://www.thefastmode.com/investments-and-expansions/20872-robotics-ai-startup-cogniteam-raises-4-2m",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/243c097a95cef5f88afb5f3b3f7c0b11.jpg?t=20210923_013642",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-22T18:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     },
     {
@@ -1111,92 +1204,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-natural-language-processing-nlp-market-revenue-share-key-growth-trends-major-players-and-forecast-20202027.md",
-      "title": "Natural Language Processing (NLP) Market, Revenue Share, Key Growth Trends, Major Players, and Forecast, 2020–2027",
-      "excerpt": "The global natural language processing (NLP) market is expected to reach USD 28.44 Billion by 2026, according to a new report by Reports and Data. Natural language processing (NLP) is a field of artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/natural-language-processing-nlp-market-revenue-share-key-growth-trends-major-players-and-forecast-2020-2027/",
-      "originalUrl": "https://manometcurrent.com/natural-language-processing-nlp-market-revenue-share-key-growth-trends-major-players-and-forecast-2020-2027/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/2-18.png",
-          "width": 750,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/natural-language-processing-nlp-market-revenue-share-key-growth-trends-major-players-and-forecast-2020-2027/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/natural-language-processing-nlp-market-revenue-share-key-growth-trends-major-players-and-forecast-2020-2027/?amp=1",
-      "publishedDateTime": "2021-09-22T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-mobile-artificial-intelligence-mai-market-aims-to-expand-at-double-digit-growth-rate-covid-19-analysis-microsoft-mediatek.md",
-      "title": "Mobile Artificial Intelligence (MAI) Market Aims to Expand at Double-Digit Growth Rate Covid-19 Analysis | Microsoft, MediaTek",
-      "excerpt": "The Mobile Artificial Intelligence MAI market report is divided into four categories in the market research type product user and geography In order to help key companies in product sales it gives some suggestions and views on how to target",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2402947/mobile-artificial-intelligence-mai-market-aims-to-expand",
-      "originalUrl": "https://www.openpr.com/news/2402947/mobile-artificial-intelligence-mai-market-aims-to-expand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/9/U922245742_g.jpg",
-          "width": 600,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2402947/mobile-artificial-intelligence-mai-market-aims-to-expand",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2402947/mobile-artificial-intelligence-mai-market-aims-to-expand",
-      "publishedDateTime": "2021-09-22T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

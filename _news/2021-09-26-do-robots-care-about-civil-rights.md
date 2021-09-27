@@ -7,7 +7,7 @@ originalUrl: "https://www.arkansasonline.com/news/2021/sep/26/do-robots-care-abo
 webUrl: "https://www.arkansasonline.com/news/2021/sep/26/do-robots-care-about-civil-rights/?opinion"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sonderling: Do robots care about your civil rights?"
-    excerpt: "With 86% of major U.S. corporations predicting that artificial intelligence will become a “mainstream technology” at their company this year, management-by-algorithm is no longer the stuff of science fiction."
-    publishedDateTime: 2021-09-22T09:00:00Z
-    webUrl: "https://www.gazettextra.com/opinion/columns/sonderling-do-robots-care-about-your-civil-rights/article_80c20e2f-8532-5b7a-8dbb-6b2f4d103045.html"
-    type: article
-    provider:
-      name: Janesville Gazette
-      domain: gazettextra.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gazettextra.com/content/tncms/custom/image/9e3caa8c-ebc4-11eb-9423-4b126a0a7be2.jpg"
-        width: 900
-        height: 478
-        isCached: true
   - title: "Keith E. Sonderling: Artificial intelligence is changing how HR is handled at companies. But do robots care about your civil rights?"
     excerpt: "With 86% of major U.S. corporations predicting that artificial intelligence will become a “mainstream technology” at their company this year, management-by-algorithm is no longer the stuff of science fiction."
     publishedDateTime: 2021-09-23T16:00:00Z

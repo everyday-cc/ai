@@ -353,20 +353,6 @@ related:
         width: 1199
         height: 674
         isCached: true
-  - title: "Tesla's 'Full Self-Driving' Isn't What Elon Musk Says It Is. Now the Government Is Calling Him Out"
-    excerpt: "The head of the National Highway Safety Board says Tesla should stop talking about 'full self-driving' cars until they can actually do that."
-    publishedDateTime: 2021-09-22T08:01:00Z
-    webUrl: "https://www.inc.com/jason-aten/everyone-knows-teslas-full-self-driving-isnt-what-elon-musk-says-it-is-now-government-is-calling-him-out.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 25
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1228322928_2000137620009280105_it6ch8.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Tesla owners can now request ‘Full Self-Driving’, prompting criticism from regulators and safety advocates"
     excerpt: "Tesla began letting owners request its “Full Self-Driving” software early Saturday, opening up for wide release its most advanced driver-assistance suite and signaling thousands of drivers will soon be on the road with the unregulated and largely untested features."
     publishedDateTime: 2021-09-24T22:45:00Z

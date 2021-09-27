@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Pair of robots installed for Recyco in Omagh"
-    excerpt: "Two robotic units have been installed at a materials recycling facility in Northern Ireland by American firm AMP Robotics through REP-TEC Advanced Technologies. The robots have been installed at a MRF run by Northern Ireland waste management and recycling business RecyCo in Omagh."
-    publishedDateTime: 2021-09-22T08:29:00Z
-    webUrl: "https://www.letsrecycle.com/news/pair-robots-installed-recyco-omagh/"
+  - title: "re3 partners with Recycleye to install the UK's first retrofittable AI waste-picking robot"
+    excerpt: "FCC Environment and Bracknell Forest, Reading and Wokingham Borough Councils, partnered with intelligent waste management start-up, Recycleye to install the system. The waste-picking robot, known as Recycleye Robotics,"
+    publishedDateTime: 2021-09-23T23:01:00Z
+    webUrl: "https://hub-4.com/news/re3-partners-with-recycleye-to-install-the-uks-first-retrofittable-ai-waste-picking-robot"
     type: article
     provider:
-      name: Letsrecycle.com
-      domain: letsrecycle.com
-    quality: 54
+      name: HUB
+      domain: hub-4.com
+    quality: 44
     images:
-      - url: "https://www.letsrecycle.com/wp-content/uploads/2021/09/AMP-robot-fibre-scaled.jpg"
-        width: 2560
-        height: 1589
+      - url: "https://hub-4.com/files/img_cache/87162/500_375_1_1632152885_cc39f605fd90a4a47eb51c8479d6c3be6d1936ae.jpg?1632438052"
+        width: 500
+        height: 375
         isCached: true
 
 secured: "iGNjXlVIyalZH82JejQdJnhuArOCjztDbilyI/LisZwRmczCajPlD/CZ+NdgNxaJLnXakByRckV/w1JofnAn/TQDoVyGZgwZnVyiCnZ7Z9zNQMxZFjLXLdmL1t3bVGrHK6b3shrsticHXPnggTyaKqcMx5WCuRL7jNpBL9GCX/lAwzIhCjprYTp82O/wwlsmVbXmTMiFFRE4bJe7tqR3I8tx7ooAYm+j+ehjRt2OOzrbeDeyViiVujJGU3mSnENvw3WjhKBeqAr8coMfmdp/V34lVfiYvNKQxHJOLzb7PR+8sdF9lyjQgNhsUNdLTJ8VJ55r6syT/Ha/GBaOaAfVxJSTd9tX7UPYYOJZi31KSN3W/erYVZRjRjDNdqexBmr0fIgiAPAvAn5IAEuLCCtDvDdBd4Asn85kPbVvSnF4jC5JTOmZHmE4X9S30QJESEvjCQThlW1lsHYxMkSOmEPw3QwhBOLhrw6FSrDQfW4SyvYbi1vhVTmIbqOKiEtp8p8yPv4ideCGm04dzMokg+21GA==;2tzI9ZRKDuXBMrDojpVrHA=="

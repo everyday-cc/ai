@@ -1,0 +1,78 @@
+---
+category: news
+title: "New AI Could Reveal Climate-Change Tipping Points"
+excerpt: "Researchers at the University of Waterloo are developing a new artificial intelligence (AI) that could act as an early warning system against climate change tipping points. The new research is focused on thresholds beyond which rapid or irreversible change happens in a system."
+publishedDateTime: 2021-09-27T00:19:00Z
+originalUrl: "https://www.unite.ai/new-ai-could-reveal-climate-change-tipping-points/"
+webUrl: "https://www.unite.ai/new-ai-could-reveal-climate-change-tipping-points/"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: unite
+  domain: unite.ai
+
+topics:
+  - AI
+
+images:
+  - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-MeeTWHUJ/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/09/iceberg-4498677_1280.jpg"
+    width: 1000
+    height: 600
+    isCached: true
+
+related:
+  - title: "Artificial intelligence may be set to reveal climate-change tipping points"
+    excerpt: "Researchers are developing artificial intelligence that could assess climate change tipping points. The deep learning algorithm could act as an early warning system against runaway climate change."
+    publishedDateTime: 2021-09-23T07:32:00Z
+    webUrl: "https://phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.html"
+    ampWebUrl: "https://phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 55
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/climate-change.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
+  - title: "Artificial intelligence could reveal climate change's tipping points, act like early warning system"
+    excerpt: "Researchers are creating an artificial intelligence that could act as an 'early warning system' against runway climate change, according to a newly published study."
+    publishedDateTime: 2021-09-23T20:00:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10021757/Artificial-intelligence-reveal-climate-changes-tipping-points-act-like-early-warning-system.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10021757/amp/Artificial-intelligence-reveal-climate-changes-tipping-points-act-like-early-warning-system.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10021757/amp/Artificial-intelligence-reveal-climate-changes-tipping-points-act-like-early-warning-system.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 43
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/09/23/17/48299059-0-image-a-88_1632415853418.jpg"
+        width: 636
+        height: 382
+        isCached: true
+  - title: "Artificial intelligence could be used to reveal climate change's tipping points and act like an early warning system"
+    excerpt: "Researchers are creating an artificial intelligence that could act as an 'early warning system' against runway climate change, according to a newly published study."
+    publishedDateTime: 2021-09-23T17:16:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10021757/Artificial-intelligence-reveal-climate-changes-tipping-points-act-like-early-warning-system.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10021757/amp/Artificial-intelligence-reveal-climate-changes-tipping-points-act-like-early-warning-system.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10021757/amp/Artificial-intelligence-reveal-climate-changes-tipping-points-act-like-early-warning-system.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 34
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/09/23/17/48299059-0-image-a-88_1632415853418.jpg"
+        width: 636
+        height: 382
+        isCached: true
+
+secured: "D2BPCpmkA5bs48sNZtx0afjShnJ0vUQ6JXfpvEi71y/NgQMYSsda5DBuMTHS2twKVdLIq6oBCaweYBcc3TTIRK1w/IsTAzPc7ql4kgTO5wVuSpj+78SRFr6jKO+mrtKiWM95xysnMLuWrtUpnhOxup2ibu0mItjuI89enI0xe3yoMiU0rdbPsOjgwLqQ5Ke0zlyQ0jBS3iJIUcIp+KwilMCbOH7gmlMbXZznV8RLO1YWjs4BfM3ldjkcfjsJyNhkammHO+1OYRJ8X+s+QAOWy+8N9KWwav/pepzKMYY5r2PDqvYf+T/6+hm1JbtBnrkPL6vVacmFk39qU70w2YYDir5pe4poEGvt32ytibIRljY=;WHFDiK/fLY+5UM1IIDN8Jw=="
+---
+
