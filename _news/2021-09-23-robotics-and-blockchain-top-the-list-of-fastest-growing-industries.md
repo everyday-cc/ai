@@ -35,7 +35,7 @@ related:
     provider:
       name: The Hindu
       domain: thehindu.com
-    quality: 58
+    quality: 60
     images:
       - url: "https://www.thehindu.com/sci-tech/technology/3vuxxj/article36690603.ece/ALTERNATES/LANDSCAPE_615/robot-reutersjpg"
         width: 615

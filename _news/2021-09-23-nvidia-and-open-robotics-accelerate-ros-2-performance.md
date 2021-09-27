@@ -42,20 +42,6 @@ related:
         width: 586
         height: 385
         isCached: true
-  - title: "How NVIDIA, Open Robotics are improving ROS 2"
-    excerpt: "NVIDIA and Open Robotics are enabling ROS 2 to run on Jetson processors for perception, modeling, and training to ease robotics development."
-    publishedDateTime: 2021-09-22T17:23:00Z
-    webUrl: "https://www.therobotreport.com/how-nvidia-open-robotics-improving-ros-2/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 86
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2021/09/nvidia-ros-2.jpg"
-        width: 1000
-        height: 539
-        isCached: true
   - title: "NVIDIA invites devs to test their DLSS on NVIDIA's own supercomputers"
     excerpt: "NVIDIA is inviting developers to test its latest builds of DLSS on their supercomputer, provide feedback for future improvement."
     publishedDateTime: 2021-09-27T04:10:00Z

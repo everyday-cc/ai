@@ -7,8 +7,8 @@ originalUrl: "https://menafn.com/1102867752/Airport-Robots-Market-to-Garner-256-
 webUrl: "https://menafn.com/1102867752/Airport-Robots-Market-to-Garner-256-Billion-by-2030-Allied-Market-Research"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Middle East North Africa Financial Network
@@ -38,6 +38,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?348760"
         width: 443
         height: 250
+        isCached: true
+  - title: "The Worldwide Microprocessor and GPU Industry is Expected to Reach $89.3 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"Microprocessor and GPU - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Amid the COVID-19 crisis, the global market for Microprocessor and GPU estimated at US$77."
+    publishedDateTime: 2021-09-27T11:27:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=536873"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 18
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "NFinZol3yZboBbu0IFHlTU7om0VDUuQUWqcqnUTlLesieFGlgtFOMVdEm9/behcE7dpQBsQW3P6iPX3l+vH4MnkfHk3Kl7m1y53PZy2A0f3f2uhHdjB7f4IBu0T3CHfaL5mR1F8SrJaajROtUg7Y7aYkAtP9f3trVLT7CrXJdc+q1d5j4OCDuyZs2aCeKf0sUr+ZWQC6434drxexAkUecyGRx2eLRUi/EunmIeeysDQ3AEH5CSEG0KEHF8A+xPMA4FtP38AEbP31SGb8wJa/31qHV3iV498mOIJlcdwKdbmYQ2Wrlx8YRcDVLT51xo3jDoz1w7bSqGf2/9BK5YSp0XXrw3jeJj6sAoIaGvKgIFg=;ECDjYsE+qTrima+kAUbj7Q=="

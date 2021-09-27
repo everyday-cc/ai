@@ -9,8 +9,8 @@ ampWebUrl: "https://www.popsci.com/technology/beethoven-10th-symphony-ai/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/beethoven-10th-symphony-ai/?amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Popular Science
@@ -39,6 +39,20 @@ related:
       - url: "https://th-thumbnailer.cdn-si-edu.com/kwU62fwzptwElM87WV3ScZbZDX4=/fit-in/1600x0/filters:focal(960x722:961x723)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7b/24/7b24f58b-2428-4ef4-8daa-218d89b7c090/violinist-playing-with-beethoven.jpeg"
         width: 1600
         height: 1200
+        isCached: true
+  - title: "Beethoven’s Unfinished Tenth Symphony Gets Completed by Artificial Intelligence: Hear How It Sounds"
+    excerpt: "Few symphonies are as well-known as Beethoven's Ninth, an assertion supported by the fact that it's no doubt playing in your head even as you read this."
+    publishedDateTime: 2021-09-27T11:00:00Z
+    webUrl: "https://www.openculture.com/2021/09/beethovens-unfinished-tenth-symphony-gets-completed-by-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Open Culture
+      domain: openculture.com
+    quality: 23
+    images:
+      - url: "https://cdn8.openculture.com/2017/03/13231534/beethoven-e1489473756721.jpg"
+        width: 700
+        height: 394
         isCached: true
 
 secured: "OZh3i/OSyiMbFxXpB41S7Fjfodp08CcYsHgqgaYtQ8aQPCgbcnAJCwBlagP9vzgrMMaGwSna9/BLPgkKtSD1kqzD0ZxMFbIQPDHawlkZQU3ewAYUEQR52QHrSzdUpD12d3mbDZo8Awacywh9CNX62sYYUc/UCaC+GK0fJzIPt3AUCpJnmp79eUmai9GDxh4fHRaPuoCDYkPWUf2cP+8u0tiCstPrpZ8PQYSD9cByeHL+iJqJD6Y4OZlEKdhMyDtaDEJlqWqRbYAx9fZ7/ba5bRyRYXsR3LZEZEzwjKmvAXIIW/G7licXrBP3f6sMvJRvgJwdfyQ8zhUx1anOUS/25gczrCMmHn37wcFEzJ5NkuT9sP85C3xrt9cMZaT+yqwohkMXllK7JrvFYuaqjaJgezIiECXAYAonLdT7wisZugbnYlK++e/vYsrrnx8dDLtMCW1aLe/NcCm/Kjuee4G24Lju8/g9NiICrlTrPcIFh3G0W08TfZ5LuYywfchWQEWRxLRm1FoRIez+j18MNBAiPw==;vPljODSbLx25FNrdcR+7og=="

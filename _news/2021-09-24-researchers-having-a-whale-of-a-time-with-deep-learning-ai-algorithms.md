@@ -25,65 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Cellino is using AI and machine learning to scale production of stem cell therapies"
-    excerpt: "Cellino, a company developing a platform to automate stem cell production, presented today at TechCrunch Disrupt 2021 to detail how its system, which combines A.I. technology, machine learning, hardware,"
-    publishedDateTime: 2021-09-22T17:53:00Z
-    webUrl: "https://techcrunch.com/2021/09/22/cellino-is-using-ai-and-machine-learning-to-scale-production-of-stem-cell-therapies/"
-    ampWebUrl: "https://techcrunch.com/2021/09/22/cellino-is-using-ai-and-machine-learning-to-scale-production-of-stem-cell-therapies/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/cellino-is-using-ai-and-machine-learning-to-scale-production-of-stem-cell-therapies/amp/"
+  - title: "How do databases support AI algorithms?"
+    excerpt: "Register now! Databases have always been able to do simple, clerical work like finding particular records that match some given criteria — say, all users who are between 20 and 30 years old. Lately database companies have been adding artificial intelligence routines into databases so the users can explore the power of these smarter,"
+    publishedDateTime: 2021-09-23T23:40:00Z
+    webUrl: "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/"
+    ampWebUrl: "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 98
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 95
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1133641491.jpg?w=1024"
-        width: 1024
-        height: 576
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/cloud-database-GettyImages-969567772-e1627330470267.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "And the winner of Startup Battlefield at Disrupt 2021 is… Cellino"
-    excerpt: "We started this competition with 20 impressive startups. After three days of fierce pitching in the virtual yet incredibly competitive Startup Battlefield arena, we have a winner. The startups taking part in the Startup Battlefield have all been hand-picked to participate in our highly competitive"
-    publishedDateTime: 2021-09-23T21:47:00Z
-    webUrl: "https://techcrunch.com/2021/09/23/and-the-winner-of-startup-battlefield-at-disrupt-2021-is-cellino/"
-    ampWebUrl: "https://techcrunch.com/2021/09/23/and-the-winner-of-startup-battlefield-at-disrupt-2021-is-cellino/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/23/and-the-winner-of-startup-battlefield-at-disrupt-2021-is-cellino/amp/"
+  - title: "Spotting and rooting out bias in AI algorithms for healthcare"
+    excerpt: "Algorithms are everywhere and so are the biases behind them. As algorithms find greater use in healthcare, a panel at MedCity News’ INVEST Digital Health virtual conference addressed how and why algorithms are biased,"
+    publishedDateTime: 2021-09-22T23:04:00Z
+    webUrl: "https://medcitynews.com/2021/09/spotting-and-rooting-out-bias-in-ai-algorithms-for-healthcare/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 72
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 54
     images:
-      - url: "https://img.vidible.tv/prod/2021-09/23/614cd3a175544444803475dd/614cd40371876b7f3ca40f82_o_U_v1.jpg?w=550&h=310"
-        width: 550
-        height: 310
-        isCached: true
-  - title: "Startup Battlefield Disrupt 2021 – Cellino"
-    excerpt: "Cellino is on a mission to make personalized, autologous cell therapies accessible for patients. Stem cell-derived regenerative medicines will cure some of the toughest diseases within this decade, including Parkinson’s,"
-    publishedDateTime: 2021-09-22T18:39:00Z
-    webUrl: "https://techcrunch.com/video/startup-battlefield-disrupt-2021-cellino/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 52
-    images:
-      - url: "https://img.vidible.tv/prod/2021-09/22/614b749f8d2a440b0ac212af/614b7501070517339990c699_o_U_v1.jpg?w=640&h=360"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Startup Battlefield Finals at Disrupt 2021 – Cellino"
-    excerpt: "Cellino is on a mission to make personalized, autologous cell therapies accessible for patients. Stem cell-derived regenerative medicines will cure some of the toughest diseases within this decade, including Parkinson’s,"
-    publishedDateTime: 2021-09-23T19:33:00Z
-    webUrl: "https://techcrunch.com/video/startup-battlefield-finals-at-disrupt-2021-cellino/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 52
-    images:
-      - url: "https://img.vidible.tv/prod/2021-09/23/614cd3a175544444803475dd/614cd40371876b7f3ca40f82_o_U_v1.jpg?w=640&h=360"
-        width: 640
-        height: 360
+      - url: "https://medcitynews.com/uploads/2017/02/GettyImages-172595086.jpg"
+        width: 683
+        height: 512
         isCached: true
 
 secured: "Zcisj4Ff2QOcwi0T890HETjFk4dR+z2uDuPxVX2HZ9BluQELD+mLOnNlD9yko2Fxr07vmHcYK5YfxWc/e8+jWZyZ22au8wWQPE0RbD9nN5nN54JjvmYvoEGXxkNbkoa9m0GtGMTysdd4uWJ8QH5+6JJXDqtgt7ifAuwvRZO9w9Lx6Ez3V8vs/S7VpIJ0qTvPDX6etReYPsSZdjfEEvzdjbqqO/d150tiktixf8/+0yCLQp60T7v2yGoewAa2HZ8WuKRhQrtmcX3yvX3A9bpy6kxOaQfB1On+ApTAYpYc+865SP00UoA0sBrCCi/x6+hz8ZoCLzfQ1pqxYUFRPMxJISITJ4XGCYpd5FZ49S8t/HS3Td81LGyGdaBgPUU4bwgImsYMcCQ3/hKCHGyBi4UIJzg4tezDK+lnqD90wl4ekeL+pu7/7WGfzl5bRw6G0lyPyq32pUp3KPBQoriMzU+vQD9ILjgcW5DmhNtKPDHau/EFQRaMwofsHCObRIdqnfw03CCPdRvXHmIM02f2Rc6VCw==;AK21MzzaBmgxiYW4J+WP4g=="

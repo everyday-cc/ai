@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Request Button For Full-Self Driving Beta Tests Goes Live - Details Here"
+    excerpt: "Electric vehicle Tesla users who wish to take part in the company's Full Self-Driving (FSD) Beta programme could now formally request the advanced driver-assist system to be loaded into their vehicle."
+    publishedDateTime: 2021-09-27T10:28:00Z
+    webUrl: "https://www.news18.com/news/auto/tesla-request-button-for-full-self-driving-beta-tests-goes-live-details-here-4251020.html"
+    ampWebUrl: "https://www.news18.com/amp/news/auto/tesla-request-button-for-full-self-driving-beta-tests-goes-live-details-here-4251020.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/auto/tesla-request-button-for-full-self-driving-beta-tests-goes-live-details-here-4251020.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 85
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/08/tesla-model-y-1-163273003216x9.png"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Samsung in talks with Tesla to make next-gen self-driving chips -Korea Economic Daily"
     excerpt: "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday."
     publishedDateTime: 2021-09-23T15:56:00Z
@@ -358,6 +374,22 @@ related:
       - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_720,q_auto:best,w_1280/v1/cms/uploads/z46x0k3fetebxlmui7fl"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Tech Bytes: Reports call Instagram toxic, Apple Watch unlock feature not working, Tesla full self-driving software"
+    excerpt: "Facebook is pushing back against claims that Instagram is “toxic for teens.” A report from the Wall Street Journal recently revealed that Instagram increases body image issues for a"
+    publishedDateTime: 2021-09-27T10:10:00Z
+    webUrl: "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-reports-call-instagram-toxic-apple-watch-unlock-feature-not-working-tesla-full-self-driving-software/"
+    ampWebUrl: "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-reports-call-instagram-toxic-apple-watch-unlock-feature-not-working-tesla-full-self-driving-software/amp/"
+    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-reports-call-instagram-toxic-apple-watch-unlock-feature-not-working-tesla-full-self-driving-software/amp/"
+    type: article
+    provider:
+      name: abc27.com
+      domain: abc27.com
+    quality: 37
+    images:
+      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2021/01/Tech-Bytes.jpg?w=1280"
+        width: 1280
+        height: 563
         isCached: true
   - title: "Tesla to outsource its self-driving chip to Samsung Electronics"
     excerpt: "It is reported that Tesla has decided to outsource its self-driving chip manufacturing to Samsung Electronics. According to the industry on the 24th, Samsung Electronics is reportedly likely to win orders for manufacturing of the HW 4."

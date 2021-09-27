@@ -7,7 +7,7 @@ originalUrl: "https://electronics360.globalspec.com/article/17229/raspberry-pi-k
 webUrl: "https://electronics360.globalspec.com/article/17229/raspberry-pi-kit-enables-voice-in-iot-applications"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 752
     height: 316
     isCached: true
+
+related:
+  - title: "Knowles' AISonic Development Kit Turns a Raspberry Pi Into an Edge AI Voice Control IoT Powerhouse"
+    excerpt: "Powered by the company's IA8201 processor, this kit comes complete with two- and three-microphone array boards and TensorFlow Lite support."
+    publishedDateTime: 2021-09-23T15:57:00Z
+    webUrl: "https://www.hackster.io/news/knowles-aisonic-development-kit-turns-a-raspberry-pi-into-an-edge-ai-voice-control-iot-powerhouse-bebe9250f657"
+    type: article
+    provider:
+      name: Hackster
+      domain: hackster.io
+    quality: 25
+    images:
+      - url: "https://hackster.imgix.net/uploads/attachments/1354606/_oMslJG9bXZ.blob?auto=compress%2Cformat&w=600&h=450&fit=min"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "2Ns2vYIM5TzO7yfkzBaaKLhVrx4jVqLQuFVRjskwD0V26orfdKkJuMGTp0hSDXFCZu2JRyVOgaLfF7wnHTEPN2Bzno8ue29S0jH/V25ZYR116XZhEvqr6D+QIoxbISNexcFE02eYu/LcJVT8w6a3zEnhigJbPKgdXkQJ3pLRju7B7loLXPDH5aR2nA6ZjdtwkODuSGHe7YgnDl42WL4pg2BpIqZDCQh0PJxswFw6CzCTrf5QdKYjUPdHZxMfnjEV6z44qCsbQNt6l4T+tz8kGsQNF3+bWShwvy2ScDWgHF9t47zebfTUsVo2+12gG5lW9Pzvb8OM2f/4vvOVaqKi1VAHKBt2U/SSDMZnWHDHlDce+FDen2cAvQPRsfo54XLfWWA1IjJnBSkdTUWpCMA+ty+/OCy2YdOZ/i6LMs4XBpGfbh5NqtxUI1p2JkAIJ5BW/e+OuZjp0zAeSU6hqyMfdTLeM/2G2IQ49DmcY56oBFe7L3bQgl965fYvsf+oyyeOpxIooos6aS3n0iDGbH6/IQ==;aGzCLWJANf8yvUjvkpIecw=="
 ---

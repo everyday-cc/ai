@@ -40,38 +40,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "AI system cannot be named as the inventor on a patent, UK court rules"
-    excerpt: "An artificial intelligence system cannot be named as an inventor on UK patent applications because it is not a person, a London court has ruled in a landmark decision. Stephen Thaler, a US-based AI expert,"
-    publishedDateTime: 2021-09-22T17:57:00Z
-    webUrl: "https://www.ft.com/content/1c79e834-f1c8-40ef-8d64-84e9cd00be47"
-    ampWebUrl: "https://amp.ft.com/content/1c79e834-f1c8-40ef-8d64-84e9cd00be47"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/1c79e834-f1c8-40ef-8d64-84e9cd00be47"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8c025480-192a-4fd4-a404-989aab82be4d.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "UK court rules AI system cannot be named the inventor on a patent"
-    excerpt: "Landmark decision rejects applications that named a machine called ‘Dabus’ as the inventor of a flashing light and a food container"
-    publishedDateTime: 2021-09-22T17:57:00Z
-    webUrl: "https://www.ft.com/content/1c79e834-f1c8-40ef-8d64-84e9cd00be47"
-    ampWebUrl: "https://amp.ft.com/content/1c79e834-f1c8-40ef-8d64-84e9cd00be47"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/1c79e834-f1c8-40ef-8d64-84e9cd00be47"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8c025480-192a-4fd4-a404-989aab82be4d.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
 
 secured: "i119j/gXXuGNKJXmaJ2WTu009y0pzoQCe4tKRuXEsgGqV+O0Q2NleuCI8z/iCKJHkdQX/+4uLJu/gvZmwgksZOKBa2CQwW8D8z7mWNrQrh7r1QfFK2N8nJg0pdEtNC0VeFEj5EpVFWQt1r2A6iwLM6GVBRH3Ofh9RA4CpSr8tjniR8c6Zbt5SfdcAdRh4CRDAUDNVBS2A9rFq+bEuMYWMUyDKBLDnX7xj+dd0Of4kJGLK31frYOG8zVRNtB3vXNg12zzeiRiPSEJUq2VHjmGS1anfoXG/q9V6wDmU5Pua91xRhIB3+dNCXNZ9U3pvYCGjq08GhhAtvfUri+ntznFENs1wMnCX/9l3c4giuHKYbAyAixzirC6WEQKynLQvMXnWl2ktzu+JAGjyqKTAtf2fq2EhkwF1KQWD665XSGxdKEvz3nxzTIdHUQp6vWiQy2ovJp6JcPgxt4enIkjBE9FePwVk1g33Ec0/LWRmPfmW+UwT/gNPVkyIBpO5S+zDd+nEMQLA2+re1xsLsGIMXtXpQ==;6CTYo4QBtb/7I/mkol3v0A=="
 ---

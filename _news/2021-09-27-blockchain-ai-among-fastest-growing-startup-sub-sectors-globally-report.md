@@ -8,7 +8,7 @@ webUrl: "https://www.thehindu.com/sci-tech/technology/blockchain-ai-among-fastes
 ampWebUrl: "https://www.thehindu.com/sci-tech/technology/blockchain-ai-among-fastest-growing-startup-sub-sectors-globally/article36690477.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/blockchain-ai-among-fastest-growing-startup-sub-sectors-globally/article36690477.ece/amp/"
 type: article
-quality: 58
+quality: 60
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.thehindu.com/sci-tech/technology/3vuxxj/article36690603.ece/ALTERNATES/LANDSCAPE_615/robot-reutersjpg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-education-m
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-education-market-to-eyewitness-massive-growth-by-2026/?amp=1"
 type: article
 quality: 64
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -22,22 +22,6 @@ topics:
   - AI in Education
 
 related:
-  - title: "Artificial Intelligence (AI) in Remote Patient Monitoring Market Indicates Impressive Growth Rate In Healthcare IT Industry"
-    excerpt: "Artificial Intelligence AI in Remote Patient Monitoring Market Contours The shift from volume based to value based care in healthcare sector has opened a new paradigm in healthcare IT A wide spectrum of ICT based eHealth systems have opened up"
-    publishedDateTime: 2021-09-22T17:37:00Z
-    webUrl: "https://www.openpr.com/news/2403249/artificial-intelligence-ai-in-remote-patient-monitoring"
-    ampWebUrl: "https://www.openpr.com/amp/2403249/artificial-intelligence-ai-in-remote-patient-monitoring"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2403249/artificial-intelligence-ai-in-remote-patient-monitoring"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 63
-    images:
-      - url: "https://cdn.openpr.com/U/9/U922583013_g.jpg"
-        width: 800
-        height: 394
-        isCached: true
   - title: "Artificial Intelligence (AI) in Construction Market to Witness Huge Growth by 2027 | Autodesk, IBM, Microsoft, Oracle"
     excerpt: "The latest Artificial Intelligence AI in Construction market study offers an all inclusive analysis of the major strategies corporate models and market shares of the most noticeable players in this market The study offers a thorough analysis of the key"
     publishedDateTime: 2021-09-23T06:54:00Z

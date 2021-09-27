@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algor
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/amp/"
 type: article
 quality: 95
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://medcitynews.com/uploads/2017/02/GettyImages-172595086.jpg"
         width: 683
         height: 512
+        isCached: true
+  - title: "Researchers having a whale of a time with deep learning AI algorithms"
+    excerpt: "Researchers are using deep learning AI algorithms to understand and communicate with whales. Deep learning AI algorithms are becoming the key technology in some of the most complicated use cases around the world."
+    publishedDateTime: 2021-09-24T15:59:00Z
+    webUrl: "https://techhq.com/2021/09/researchers-having-a-whale-of-a-time-with-deep-learning-ai-algorithms/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 54
+    images:
+      - url: "https://cdn.techhq.com/wp-content/uploads/2021/09/000_9LP9TU-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
 
 secured: "hR4QONF01JqSrd11S2xHd4NGMZ58VcUOSouxblOczDcSx/GJ825h8pIKAledGfygXCrZyyXcZ5Q8sSc5bTNUQdLu5kAUpvz2WJxmr8zqKx9ADL7o+aMFcxIuXEjZ4XCOtzp7ghz7OZbZEVon+z/UuA5N69C0sfwTQsXT8PdzqzXnbBKXPb34E2fyI2JOAYP+bfEHwg2jzYbDbKfgDesJxXDYcT/UH80/bNZFbYBRnYw5LVwPJolSsgFjt9G9xrN+f+undLsvWHYtwCWi7MODL/2T461s+SzKgtUPho22TapaZZgmwbb8XvJ9S2KPyp8Rk9d+gZJQhfHK2ONYzD0/v9PNRgv6s5bQIH4bLaofMmykdH1kMWTqnKihlGRVSXF7Wg8SGHhdcVAerfgLbI3fhr/lm70IC72o1X0KbU8J1Qsix4VCkoPy3LzsTnF+db3ROkM/fR/hy/WlLxmDd5MJbm7qCIvtsZq91W6uXly1zIEuszd+d36QdU4PCsPmow9g+d/p8u5Pog2asvIuwaZ9cw==;LFdjScWrYRXASBhTf5uOag=="

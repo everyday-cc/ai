@@ -73,20 +73,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Self-driving tech firm Aurora to test driverless delivery with FedEx"
-    excerpt: "Aurora, which is led by former heads of self-driving programs at Google, Uber and Tesla, said it is aiming for trucks without a safety driver by late 2023."
-    publishedDateTime: 2021-09-22T17:29:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-tech-firm-aurora-test-driverless-delivery-fedex"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Aurora%20truck-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Who is responsible if a self-driving car kills a pedestrian to save the driver?"
     excerpt: "Unthinkable: Governments put their trust in big tech as they lack expertise"
     publishedDateTime: 2021-09-23T04:00:00Z

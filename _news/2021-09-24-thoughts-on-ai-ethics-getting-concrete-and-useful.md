@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202109/thoughts-on-ai-ethics-getti
 webUrl: "https://www.biometricupdate.com/202109/thoughts-on-ai-ethics-getting-concrete-and-useful"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "We need concrete protections from artificial intelligence threatening human rights"
+    excerpt: "Events over the past few years have revealed several human rights violations associated with increasing advances in artificial intelligence (AI)."
+    publishedDateTime: 2021-09-27T11:32:00Z
+    webUrl: "https://techxplore.com/news/2021-09-concrete-artificial-intelligence-threatening-human.html"
+    ampWebUrl: "https://techxplore.com/news/2021-09-concrete-artificial-intelligence-threatening-human.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-concrete-artificial-intelligence-threatening-human.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 53
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/we-need-concrete-prote.jpg"
+        width: 1356
+        height: 668
+        isCached: true
 
 secured: "ul6Xu6xdZzTw43IPKyPlqId0u4PCIa7B0Gxo6dkZVBOJbHjLlQSDJHPSTmyavjAO5Wf5YuAW7DSqc1WF0O+yCLa4AYooK5/+MmuiWoUD7l+7q6iUYyB8s7W8BvH5lH34SemFZe3yUB8riQW+nmj3+zFUpJB02k5/3viNB6GSVf0IzsKrcBZO8iXfLpPwX9DumIROguo0EQSu14geExsSRGrdLY6px8phFmPP9rzHFkk7MBv8VrcDdtt568B5fuqkmsuwMDKVMVa8Vw+k+vgwcQjaGJqQFz32uCU9xdoSKf8ZpdtSAXb9WtMUx9pToi31RhlwVRiDE3IbNQD9dV+pcPxSxiAvqh0zeJjSnfLfDQfiXBf5rscNWQ05tTjzEjBXurjfclNULQ3W5JFgHIoJgmfx7FkiFk8oKZhF+ZlsDixE8pLBbqDhEKX2GhwbKy3uwUhYlSyWcoil9sOtah8mZYbODo30udkd0gfJ2oG1zzDtLv0uKuTFFhHsj//377gpETn8G+qc9vurbw2OsZl1rg==;3pqSJaiKcMgetMtIe1hT/Q=="
 ---

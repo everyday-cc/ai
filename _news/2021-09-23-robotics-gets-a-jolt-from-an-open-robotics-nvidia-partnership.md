@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2021/09/22/robotics-gets
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2021/09/22/robotics-gets-a-jolt-from-an-open-robotics-nvidia-partnership/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How NVIDIA, Open Robotics are improving ROS 2"
-    excerpt: "NVIDIA and Open Robotics are enabling ROS 2 to run on Jetson processors for perception, modeling, and training to ease robotics development."
-    publishedDateTime: 2021-09-22T17:23:00Z
-    webUrl: "https://www.therobotreport.com/how-nvidia-open-robotics-improving-ros-2/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 86
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2021/09/nvidia-ros-2.jpg"
-        width: 1000
-        height: 539
-        isCached: true
   - title: "NVIDIA and Open Robotics accelerate ROS 2 performance"
     excerpt: "NVIDIA and Open Robotics have entered into an agreement to accelerate ROS 2 performance on NVIDIA’s Jetson edge AI platform and GPU-based systems. These in"
     publishedDateTime: 2021-09-23T12:44:00Z

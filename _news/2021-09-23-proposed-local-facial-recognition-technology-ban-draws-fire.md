@@ -54,6 +54,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Worried About Facial Recognition? Big Tech Wants Your Anal Prints Too"
+    excerpt: "Privacy concerns related to the implications of facial recognition have been raised several times but you may not have thought much about a very different part of your body being scanned. Sanjiv Gambhir,"
+    publishedDateTime: 2021-09-27T10:16:00Z
+    webUrl: "https://www.thequint.com/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too"
+    ampWebUrl: "https://www.thequint.com/amp/story/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too"
+    cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too"
+    type: article
+    provider:
+      name: The Quint
+      domain: thequint.com
+    quality: 59
+    images:
+      - url: "https://images.thequint.com/thequint%2F2020-02%2F18813c2f-9015-42ff-b4e4-712fc1e86819%2FiStock_1165098319.jpg"
+        width: 745
+        height: 419
+        isCached: true
   - title: "AI technology to overcome language barriers in South Africa"
     excerpt: "A new artificial intelligence (AI) platform that translates speech into text from English and local South African languages, has a unique ability to interpret South African accents. The technology could have a far-reaching impact on education,"
     publishedDateTime: 2021-09-23T11:08:00Z

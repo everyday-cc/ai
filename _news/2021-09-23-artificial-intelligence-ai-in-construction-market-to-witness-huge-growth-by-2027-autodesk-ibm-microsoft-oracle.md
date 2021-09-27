@@ -32,22 +32,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 64
-  - title: "Artificial Intelligence (AI) in Remote Patient Monitoring Market Indicates Impressive Growth Rate In Healthcare IT Industry"
-    excerpt: "Artificial Intelligence AI in Remote Patient Monitoring Market Contours The shift from volume based to value based care in healthcare sector has opened a new paradigm in healthcare IT A wide spectrum of ICT based eHealth systems have opened up"
-    publishedDateTime: 2021-09-22T17:37:00Z
-    webUrl: "https://www.openpr.com/news/2403249/artificial-intelligence-ai-in-remote-patient-monitoring"
-    ampWebUrl: "https://www.openpr.com/amp/2403249/artificial-intelligence-ai-in-remote-patient-monitoring"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2403249/artificial-intelligence-ai-in-remote-patient-monitoring"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 63
-    images:
-      - url: "https://cdn.openpr.com/U/9/U922583013_g.jpg"
-        width: 800
-        height: 394
-        isCached: true
   - title: "Artificial Intelligence in Education Market Recent Trends, Growth and High Demand During Forecast by 2030"
     excerpt: "Introduction. Education is one of the fastest growing industry verticals adopting artificial intelligence. This is due to the g"
     publishedDateTime: 2021-09-24T19:29:00Z

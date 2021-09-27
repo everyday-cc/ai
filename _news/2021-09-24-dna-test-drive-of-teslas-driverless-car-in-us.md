@@ -9,7 +9,7 @@ ampWebUrl: "https://zeenews.india.com/video/news/dna-test-drive-of-teslas-driver
 cdnAmpWebUrl: "https://zeenews-india-com.cdn.ampproject.org/c/s/zeenews.india.com/video/news/dna-test-drive-of-teslas-driverless-car-in-us-2396580.html/amp"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
     quality: 47
     images:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Tesla%20logo%20car%20web.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Self-driving tech firm Aurora to test driverless delivery with FedEx"
-    excerpt: "Aurora, which is led by former heads of self-driving programs at Google, Uber and Tesla, said it is aiming for trucks without a safety driver by late 2023."
-    publishedDateTime: 2021-09-22T17:29:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-tech-firm-aurora-test-driverless-delivery-fedex"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Aurora%20truck-MAIN_i.jpg"
         width: 800
         height: 600
         isCached: true

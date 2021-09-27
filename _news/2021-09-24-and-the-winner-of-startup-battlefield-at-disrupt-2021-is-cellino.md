@@ -30,49 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Cellino is using AI and machine learning to scale production of stem cell therapies"
-    excerpt: "Cellino, a company developing a platform to automate stem cell production, presented today at TechCrunch Disrupt 2021 to detail how its system, which combines A.I. technology, machine learning, hardware,"
-    publishedDateTime: 2021-09-22T17:53:00Z
-    webUrl: "https://techcrunch.com/2021/09/22/cellino-is-using-ai-and-machine-learning-to-scale-production-of-stem-cell-therapies/"
-    ampWebUrl: "https://techcrunch.com/2021/09/22/cellino-is-using-ai-and-machine-learning-to-scale-production-of-stem-cell-therapies/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/cellino-is-using-ai-and-machine-learning-to-scale-production-of-stem-cell-therapies/amp/"
+  - title: "Here are the 5 Startup Battlefield finalists at Disrupt 2021"
+    excerpt: "Over the last two days, 20 companies took the stage in TechCrunch’s Startup Battlefield in a bid to win $100,000 and the Startup Battlefield cup. They had six minutes to present their pitch decks and answered six minutes of questions from noted investors and executives."
+    publishedDateTime: 2021-09-23T01:00:00Z
+    webUrl: "https://techcrunch.com/2021/09/22/here-are-the-five-startup-battlefield-finalists-at-disrupt-2021/"
+    ampWebUrl: "https://techcrunch.com/2021/09/22/here-are-the-five-startup-battlefield-finalists-at-disrupt-2021/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/here-are-the-five-startup-battlefield-finalists-at-disrupt-2021/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 98
+    quality: 72
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1133641491.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Researchers having a whale of a time with deep learning AI algorithms"
-    excerpt: "Researchers are using deep learning AI algorithms to understand and communicate with whales. Deep learning AI algorithms are becoming the key technology in some of the most complicated use cases around the world."
-    publishedDateTime: 2021-09-24T15:59:00Z
-    webUrl: "https://techhq.com/2021/09/researchers-having-a-whale-of-a-time-with-deep-learning-ai-algorithms/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 54
-    images:
-      - url: "https://cdn.techhq.com/wp-content/uploads/2021/09/000_9LP9TU-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Startup Battlefield Disrupt 2021 – Cellino"
-    excerpt: "Cellino is on a mission to make personalized, autologous cell therapies accessible for patients. Stem cell-derived regenerative medicines will cure some of the toughest diseases within this decade, including Parkinson’s,"
-    publishedDateTime: 2021-09-22T18:39:00Z
-    webUrl: "https://techcrunch.com/video/startup-battlefield-disrupt-2021-cellino/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 52
-    images:
-      - url: "https://img.vidible.tv/prod/2021-09/22/614b749f8d2a440b0ac212af/614b7501070517339990c699_o_U_v1.jpg?w=640&h=360"
-        width: 640
-        height: 360
+      - url: "https://img.vidible.tv/prod/2021-09/21/614a37cc37969837d31060e1/614a384b56a7033202b01b4a_o_U_v1.jpg?w=550&h=310"
+        width: 550
+        height: 310
         isCached: true
   - title: "Startup Battlefield Finals at Disrupt 2021 – Cellino"
     excerpt: "Cellino is on a mission to make personalized, autologous cell therapies accessible for patients. Stem cell-derived regenerative medicines will cure some of the toughest diseases within this decade, including Parkinson’s,"

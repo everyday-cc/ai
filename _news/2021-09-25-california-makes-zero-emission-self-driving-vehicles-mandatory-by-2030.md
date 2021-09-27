@@ -115,6 +115,15 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Half of people say they are better drivers than computers will be"
+    excerpt: "Brits are reluctant to relinquish driving duties, with almost half of us saying we’d prefer to drive ourselves rather than rely on self-driving technology. A study by Volkswagen Financial Services UK (VWFS) has revealed that 46% of British motorists think they’d be a better driver than driverless cars powered by Artificial Intelligence."
+    publishedDateTime: 2021-09-27T10:09:00Z
+    webUrl: "https://www.coventrytelegraph.net/news/uk-world-news/half-people-say-better-drivers-21686050"
+    type: article
+    provider:
+      name: Coventry Telegraph
+      domain: coventrytelegraph.net
+    quality: 4
 
 secured: "fnAKNPISoxVyUl9DSe8SZr3A1tuWGI+c0oe9arXfgI3glxSg/zX8CZrHBOMrKhx4JJa67+K3bD08bk2J1uSsanS6d6pzfu9cDD3Eyz2gtaWJ2p38Rh+ykNCPgvJBuhX2+rD9NBrzAAFSOXr+xBC1pVK0oYhC9/SpfzkvTYdbYSrwBOooWu7rVZeHoeptaaElpj5gkxoH3A+7ZABooNVD+bgAOgq4f3kHAiH2mzVqx6n59pemgAPFqIwOKwVQRsC82ghobS3NdvSUUmoPNS18bgKJ81kS1UUXuwwff1g1KWaAmD4+6HiDqUBqApZ4kYH8oVdR5ILhubZ7croEbpWjO6fOeX1aAGeJdE6a47mCCpo=;DWQOTb5072xLxxRTq23sGQ=="
 ---

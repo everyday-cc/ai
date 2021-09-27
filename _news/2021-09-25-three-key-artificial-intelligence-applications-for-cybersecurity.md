@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cyber security in the public cloud"
+    excerpt: "A brief guide to the network, infrastructure, data, and application security capabilities AWS, Microsoft Azure, and Google Cloud provide to prevent cyber attacks and protect your cloud-based resources and workloads."
+    publishedDateTime: 2021-09-27T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.html"
+    ampWebUrl: "https://www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 91
+    images:
+      - url: "https://images.techhive.com/images/article/2015/10/cloud-security-ts-100622309-large.jpg?auto=webp"
+        width: 1200
+        height: 899
+        isCached: true
   - title: "Artificial Intelligence: The Future Of Cybersecurity?"
     excerpt: "Cybersecurity in Industry 4.0 cannot be tackled in the same way as that of traditional computing environments. The number of devices and associated challenges are far too many."
     publishedDateTime: 2021-09-23T14:15:00Z

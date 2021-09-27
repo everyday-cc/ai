@@ -40,6 +40,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Beethoven’s Unfinished Tenth Symphony Gets Completed by Artificial Intelligence: Hear How It Sounds"
+    excerpt: "Few symphonies are as well-known as Beethoven's Ninth, an assertion supported by the fact that it's no doubt playing in your head even as you read this."
+    publishedDateTime: 2021-09-27T11:00:00Z
+    webUrl: "https://www.openculture.com/2021/09/beethovens-unfinished-tenth-symphony-gets-completed-by-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Open Culture
+      domain: openculture.com
+    quality: 23
+    images:
+      - url: "https://cdn8.openculture.com/2017/03/13231534/beethoven-e1489473756721.jpg"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "REwWBB6t3zXCqmmaVHwn+qYDnMgFyPxnMXdyjLDvUiIgxay/eC1TvicZBnNsceGy/TQPQ83TA/wJVk99x0IiZ5T+OANalzQ2UUX8uIrXmEiGJV//87rHSuEulDPbeGFboqtrU3MN8BOLFWSpYujmJ4/wO/yVhHKiZckGHleYwQI04uCGKMJEBgdvlOwnGOA9rCQbD8oTmxcuWuxF1t7I4Cvjt7PXcN5toGaCbrlauJjXAZ3EKOj9Dsy30ivmYmkoWim0GonmB1pNdJMgqms6L/ot3SofLpVcM8adB1criRfwfUq4I01CNuXQ14n8Zo9ZHPyFKGVD92gTGVolZEJB5nzvwJm5MPmsuHfgy7BpqtavEA3pzSzxEiAy3rXvoRRwLcN92W3nR+5l/cPW4rv8btjPxYemtu7XenWqAZRJwSd5YR8VkeJV44MCnHOttxHvTx7GnhJ01sRZhG/18h9RXC7Qt9QEshbLB0w2HGsQ2kt6B7jJ5nZrPPHZy7ERuIl5a0vVe5DVKsnQUz6ZC4zZ8A==;Kg8t8is94quqtr2nQh2wFg=="
 ---

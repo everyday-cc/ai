@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Researchers having a whale of a time with deep learning AI algorithms"
+    excerpt: "Researchers are using deep learning AI algorithms to understand and communicate with whales. Deep learning AI algorithms are becoming the key technology in some of the most complicated use cases around the world."
+    publishedDateTime: 2021-09-24T15:59:00Z
+    webUrl: "https://techhq.com/2021/09/researchers-having-a-whale-of-a-time-with-deep-learning-ai-algorithms/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 54
+    images:
+      - url: "https://cdn.techhq.com/wp-content/uploads/2021/09/000_9LP9TU-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "j/vQvJpdcm7ZA9vISPQI7Bed1iqKB72xZJFLfh0z9IHm52JwZp3SkUBEvQKjJx6A270iPS/A7qS3UhRtX+FstgtJdKOGw3X0R0hTqWiNyEqS54tGD/Z0121lG12TzX/YybvQ5tZDzt0CWW89L10PTac0LMMcuBYAMIGIMtE+5b2HGFDCABFnuX6KeOxIG/W49PFMxv5xsXZq4dMFL9XxJsHBqJZfALnk5GwNc3oKBX7FODJ9U7fM7rg134SoI8FYpT5mjKmS+jC8rgboZdrfxK3f81an55C28kGW+OMKVP/0K9Cbe8He4+BVUvpmPJ0S5r5s25TMKu+vUJITOSqFLcyzSXyrkaqzFeMkt12vI54=;x/JRsd0fX1XO0Lk0ujTG/g=="
 ---

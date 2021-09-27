@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Cyber security in the public cloud"
+    excerpt: "A brief guide to the network, infrastructure, data, and application security capabilities AWS, Microsoft Azure, and Google Cloud provide to prevent cyber attacks and protect your cloud-based resources and workloads."
+    publishedDateTime: 2021-09-27T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.html"
+    ampWebUrl: "https://www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 91
+    images:
+      - url: "https://images.techhive.com/images/article/2015/10/cloud-security-ts-100622309-large.jpg?auto=webp"
+        width: 1200
+        height: 899
+        isCached: true
 
 secured: "nTYrxylKGIdeWUcFWVfxRjAMFpCjfY6zITeUsbwhXeTfed768XFQ6EIOkzzpTFguWU40rKpd2W8E52Q8mW9LOa+NYdcLSKWVncAiTjCF0GMXCz4VwdGEmftAxA4xow+O6UAyTJEuwbbNsYL9/JkiCn8vVzenoZaExzAExgf8midhbmESofFUH2HBRGnrAlCtSFicu9VzAhmQEiVCbG69wVqlfyGni8Rd77Rr6I+7z+A0HXAqIknhJ8wljLmCwfws9zSV1RR1ytbS3lFXOVk8QpjwBkxUWw5W3tscjE9DeMZaBPMnD9KtjpUlrhsyW9mt/IEVBiiYYzS0C12+70JlfsgMjJi4l+D3ZMQ2VayhXL0oc7lY/BAngHpMWCjoq/D53LrIAnzWVI28g29W3JyGFcPM4R/d6t3WZvyiy9xqA6PBm4Ekjbv4An0upDR52EnZHnPugF9050Ij54MoVv+tAnRFEXXIC5TATqG4n1u19G36kQ1F72daR+WHfqal50Dsq15U/mwPpA99NorP6sb7jg==;TJyNj8J53chbUCXF1DOfTw=="
 ---
