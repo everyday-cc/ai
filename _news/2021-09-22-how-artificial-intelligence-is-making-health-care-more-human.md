@@ -55,20 +55,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Fintech, telehealth firms top LinkedIn's list of emerging Singapore start-ups"
-    excerpt: "The list was compiled based on several metrics such as employment growth and attraction of top talent.. Read more at straitstimes.com."
-    publishedDateTime: 2021-09-22T06:15:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/fintech-telehealth-firms-top-linkedins-list-of-emerging-singapore-start"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 21
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/09/22/fhstartups220921.jpg?itok=AsgQ6SbW"
-        width: 763
-        height: 509
-        isCached: true
   - title: "Health care needs to transform, Mayo CEO says. Here's why time is right"
     excerpt: "The Covid-19 pandemic accelerated the pace of change in health care by a decade, the Mayo Clinic CEO said on a visit to Jacksonville."
     publishedDateTime: 2021-09-22T10:00:00Z

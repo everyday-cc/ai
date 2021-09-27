@@ -1,10 +1,10 @@
 ---
 category: news
 title: "PAVmed Subsidiary Veris Health Joins Microsoft for Startups Global Program and Engages Loka as Software Development Partner"
-excerpt: "PAVmed Inc. (Nasdaq: PAVM, PAVMZ) (the \"Company\" or \"PAVmed\"), a highly differentiated, multi-product, commercial-stage medical technology company, today announced that its major subsidiary Veris Health Inc."
+excerpt: "As a Microsoft for Startups program member, Veris will have access to Microsoft technology, mentorship and business support which will allow it to use Microsoft's cloud storage, data analytics, and other technologies to rapidly build and deploy its platform with state-of-the-art,"
 publishedDateTime: 2021-09-21T13:39:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-pavmed-subsidiary-veris-health-joins-microsoft-startups-global-/2021/09/21/9453342.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-pavmed-subsidiary-veris-health-joins-microsoft-startups-global-/2021/09/21/9453342.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/09/21/9453342.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/09/21/9453342.htm"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "PVnlM8gSXVXDDRQ2HrqutPlMUiQNFP7b3hiUMNdqXjhgFLZ1cjfpr9zFEcxi2FG0b5YEqueeVXSiPZdOnR3/xJrv2V1CYfHtT1v2AHT9HoqN+o+pw0SYwBw1K8c9x3t1Ex3JmJ0vGBQ00IKihJ++b8wEtdahKPOj15xzX+WJHSXLIdvKYBlMbxX5kcb4Baq7qTi+aUZFFTrZGKLO9QeiSbj4IHzgirAmm//yOIsTyPPgwqwCizDR6j5tCVPLsTql7J7jyvPDq0ZSct7VCNiFz3YpSL+zO1U4W6YCfdpPa4dpw4tVcc2rOwb6WeZ1KaubPIltxoBNVwjy+5bYMMDQ4QYDzxo7Pdoww9fUaUbUUK8=;sasfeYEK+Zt6V9MhGZ2yww=="
+secured: "G0OwDEI7mkfiNXBnQLQm0NUCdO5nuQiGQ/GPEs9au74/HvUUzxHA1KctVcvzn8kt6H6Pd8uN5FijmhdcKk/M8qN6VfL28O6TQLusNxCR1Tzk9ONwLPF1xEKiXnREdhlJtSfwCQuumoXwUo9ofQBtNo873SxVGaEuQ79kTPZaF1i4CCevNW6OkvfBGDEyfixmH+W+uRzPV7CkbLp2Kri+Cx3AkmVbeIa1KVMUSkwDyJbjkvjHzWE+onuEkev+DL4fMCjqVvSZLSs9Mg3XXTb4WJQ+J5eS0TnahTKLz3e+QAR25cuwvlIEHIbZ6JK5y07o6GHPcnti0WjU7dGCFe5SZBsDODyQg7LSw9CDTYROAdI=;IFrQHBM+3VSZJUQB3FPt7w=="
 ---
 

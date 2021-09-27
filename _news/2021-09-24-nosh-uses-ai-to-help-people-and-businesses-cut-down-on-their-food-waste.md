@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/23/nosh-uses-ai-to-help-people-and-bu
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/23/nosh-uses-ai-to-help-people-and-businesses-cut-down-on-their-food-waste/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 99
 published: true
 
 provider:

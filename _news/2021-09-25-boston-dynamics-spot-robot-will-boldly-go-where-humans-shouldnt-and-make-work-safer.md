@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/boston-dynamics-spot-robot-will-boldly
 webUrl: "https://thenextweb.com/news/boston-dynamics-spot-robot-will-boldly-go-where-humans-shouldnt-make-work-safer-syndication"
 type: article
 quality: 61
-heat: 71
+heat: 72
 published: true
 
 provider:

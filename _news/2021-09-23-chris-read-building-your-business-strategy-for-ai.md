@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Utilizing AI Can Help You Grow Your Business"
+    excerpt: "n the following article, we will share the best features of artificial intelligence and how they can help you grow your business."
+    publishedDateTime: 2021-09-25T09:56:00Z
+    webUrl: "https://www.smallbusinessbonfire.com/how-utilizing-ai-can-help-you-grow-your-business/"
+    type: article
+    provider:
+      name: How to Write a Fact Sheet
+      domain: smallbusinessbonfire.com
+    quality: 37
+    images:
+      - url: "https://www.smallbusinessbonfire.com/wp-content/uploads/2021/09/Business-Growth.jpg"
+        width: 1920
+        height: 1362
+        isCached: true
   - title: "Minister Chris Philp's speech at the AI Summit launching the National AI Strategy"
     excerpt: "DCMS Minister celebrates tech success, particularly in AI, throughout the UK and champions the sector during London Tech Week"
     publishedDateTime: 2021-09-22T14:32:00Z

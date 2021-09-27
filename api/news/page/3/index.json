@@ -95,7 +95,7 @@
       "originalUrl": "https://www.freepressjournal.in/business/will-ai-led-automation-transform-future-of-workforce-for-banking-financial-services-industry",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -222,6 +222,49 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-robotics-ai-startup-cogniteam-raises-42m.md",
+      "title": "Robotics AI Startup Cogniteam Raises $4.2M",
+      "excerpt": "Cogniteam, an advanced robotics AI software development company, recently raised $4.2 million of private investment equity, led by Seabarn Management’s Founder & CEO, Andrew Owens. Cogniteam has developed an AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/investments-and-expansions/20872-robotics-ai-startup-cogniteam-raises-4-2m",
+      "originalUrl": "https://www.thefastmode.com/investments-and-expansions/20872-robotics-ai-startup-cogniteam-raises-4-2m",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thefastmode.com/media/k2/items/src/243c097a95cef5f88afb5f3b3f7c0b11.jpg?t=20210923_013642",
+          "width": 752,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-22T18:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deep",
+        "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -689,7 +732,7 @@
       "originalUrl": "https://techcrunch.com/2021/09/22/cellino-is-using-ai-and-machine-learning-to-scale-production-of-stem-cell-therapies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1036,7 +1079,7 @@
       "originalUrl": "https://www.beckershospitalreview.com/digital-transformation/mayo-clinic-ceo-telehealth-ai-are-the-keys-to-healthcare-s-future.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1154,39 +1197,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-paige-obtains-fda-de-novo-authorization-for-ai-based-pathology-software-to-diagnose-prostate-cancer.md",
-      "title": "Paige Obtains FDA De Novo Authorization for AI-Based Pathology Software to Diagnose Prostate Cancer",
-      "excerpt": "The firm said that in a clinical study pathologists using its Paige Prostate product had a 70 percent reduction in false negative diagnoses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.360dx.com/regulatory-news-fda-approvals/paige-obtains-fda-de-novo-authorization-ai-based-pathology-software",
-      "originalUrl": "https://www.360dx.com/regulatory-news-fda-approvals/paige-obtains-fda-de-novo-authorization-ai-based-pathology-software",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-22T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "360dx",
-        "domain": "360dx.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

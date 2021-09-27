@@ -24,37 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "Indian buy now, pay later startup ZestMoney raises $50 million from Australia’s Zip"
-    excerpt: "ZestMoney, a Bangalore-based buy now, pay later platform, said on Wednesday it has raised $50 million in a new financing round from Australia’s Zip as the Indian firm looks to cash in on a trend that is showing wider traction in several global markets."
-    publishedDateTime: 2021-09-22T05:48:00Z
-    webUrl: "https://techcrunch.com/2021/09/21/indian-buy-now-pay-later-startup-zestmoney-raises-50-million-from-australias-zip/"
-    ampWebUrl: "https://techcrunch.com/2021/09/21/indian-buy-now-pay-later-startup-zestmoney-raises-50-million-from-australias-zip/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/21/indian-buy-now-pay-later-startup-zestmoney-raises-50-million-from-australias-zip/amp/"
+  - title: "Will AI-led automation transform future of workforce for banking, financial services industry?"
+    excerpt: "India has immense potential to leverage AI and each sector is a huge opportunity in itself as India leaps ahead with Digital Transformation in the coming decade../Representative image | Banking and financial services industry has always been on the forefront in adoption of technology."
+    publishedDateTime: 2021-09-23T06:14:00Z
+    webUrl: "https://www.freepressjournal.in/business/will-ai-led-automation-transform-future-of-workforce-for-banking-financial-services-industry"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/will-ai-led-automation-transform-future-of-workforce-for-banking-financial-services-industry"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/will-ai-led-automation-transform-future-of-workforce-for-banking-financial-services-industry"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 81
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 62
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2018/08/ZestMoney-Founders.jpg?w=1024"
-        width: 1024
-        height: 682
+      - url: "https://images.assettype.com/freepressjournal/2020-05/9490bbbe-3add-411e-a7e5-f05c423c3800/cats.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 674
         isCached: true
-  - title: "Australia’s Zip Buys Minority Stake in India’s BNPL Startup ZestMoney"
-    excerpt: "Buy now pay later startup Zip purchased a $50 million minority stake in the Indian BNPL newcomer ZestMoney as part of a continuing Series C funding round."
-    publishedDateTime: 2021-09-22T15:30:00Z
-    webUrl: "https://www.pymnts.com/buy-now-pay-later/2021/australias-zip-buys-minority-stake-in-indias-bnpl-startup-zestmoney/"
-    ampWebUrl: "https://www.pymnts.com/buy-now-pay-later/2021/australias-zip-buys-minority-stake-in-indias-bnpl-startup-zestmoney/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/buy-now-pay-later/2021/australias-zip-buys-minority-stake-in-indias-bnpl-startup-zestmoney/amp/"
+  - title: "Why Financial Service Institutions Need To Start Taking AI and CX More Seriously During Uncertain Times"
+    excerpt: "If there has been a silver lining to the pandemic, it’s been added great momentum and speed to digital transformation. Financial Service Institutions (FSIs)"
+    publishedDateTime: 2021-09-23T16:08:00Z
+    webUrl: "https://dataconomy.com/2021/09/financial-service-institutions-ai-cx/"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 42
+      name: dataconomy.com
+      domain: dataconomy.com
+    quality: 23
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/09/ZestMoney-Zip-BNPL-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://dataconomy.com/wp-content/uploads/2021/09/financial-service-institutions-ai-cx.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "funWWMZbqVYD71ec8VS484L5dWiv1tjxm/nItg1jbXdKyEVrwmZWZClm3a2Q12AwoFs/fsrhrY6s5ZtJL6koVQP1Yt6p1WhhpCPIHVG0FKgrSkXgdGlTPQR3Ej05DdJ12czJaudhGNIvskEceQkxVYF8JnstccTcdx5+p6syIq93Q39PR3+k5mmiIBEqBon9sYFEh+jnJTawd+aRcJKvB4GN1XyPL/ePPx9z7TXS6Tdx4C8iny3EDRQMkL8BHARUt5YBOK4GXWdZ9NRZKzZ3cVA5efYYz866NWcplZKPBfTvmsohxuo0SPHnXTViD4d/3auFjr2uCXnUYk2v4WZ+pWy/nObgP3+E0vOWialoLzY=;YAynWuni3f68gj7ZHzne6g=="

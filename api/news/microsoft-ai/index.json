@@ -392,10 +392,10 @@
     {
       "path": "_news/2021-09-21-pavmed-subsidiary-veris-health-joins-microsoft-for-startups-global-program-and-engages-loka-as-software-development-partner.md",
       "title": "PAVmed Subsidiary Veris Health Joins Microsoft for Startups Global Program and Engages Loka as Software Development Partner",
-      "excerpt": "PAVmed Inc. (Nasdaq: PAVM, PAVMZ) (the \"Company\" or \"PAVmed\"), a highly differentiated, multi-product, commercial-stage medical technology company, today announced that its major subsidiary Veris Health Inc.",
+      "excerpt": "As a Microsoft for Startups program member, Veris will have access to Microsoft technology, mentorship and business support which will allow it to use Microsoft's cloud storage, data analytics, and other technologies to rapidly build and deploy its platform with state-of-the-art,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-pavmed-subsidiary-veris-health-joins-microsoft-startups-global-/2021/09/21/9453342.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-pavmed-subsidiary-veris-health-joins-microsoft-startups-global-/2021/09/21/9453342.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/09/21/9453342.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/09/21/9453342.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -426,43 +426,25 @@
     {
       "path": "_news/2021-09-20-4-stocks-to-benefit-from-continued-demand-for-ai.md",
       "title": "4 Stocks to Benefit From Continued Demand for AI",
-      "excerpt": "Companies look set to increase their spending on AI to reap its myriad benefits, making it wise to look at names like NVIDIA (NVDA), Microsoft",
+      "excerpt": "Thanks to these conveniences, companies around the world look set to increase their spending on AI solutions. Per a report by the International Data Corporation published on Aug 4, worldwide revenues for the AI market are expected to grow 15.",
       "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/386471",
-      "originalUrl": "https://www.entrepreneur.com/article/386471",
+      "webUrl": "https://www.nasdaq.com/articles/4-stocks-to-benefit-from-continued-demand-for-ai-2021-09-20",
+      "originalUrl": "https://www.nasdaq.com/articles/4-stocks-to-benefit-from-continued-demand-for-ai-2021-09-20",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-386471.jpeg",
-          "width": 635,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-20T06:01:00-07:00",
+      "publishedDateTime": "2021-09-20T03:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -63,20 +63,6 @@ related:
         width: 770
         height: 364
         isCached: true
-  - title: "Fintech, telehealth firms top LinkedIn's list of emerging Singapore start-ups"
-    excerpt: "The list was compiled based on several metrics such as employment growth and attraction of top talent.. Read more at straitstimes.com."
-    publishedDateTime: 2021-09-22T06:15:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/fintech-telehealth-firms-top-linkedins-list-of-emerging-singapore-start"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 21
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/09/22/fhstartups220921.jpg?itok=AsgQ6SbW"
-        width: 763
-        height: 509
-        isCached: true
 
 secured: "ja6vBvZF5NORNwv1Ini7ip0YVLyW96QgSnp4Pckfhm4gJR1kq9YX7NwSk4vHPkWl5fRRVxlgky12JXD9up9/78tvKaFKUp85/cCr78qP8EoxnutoO6Hb0YbGEP6RQcK9aOsA99TIGR0TMqbbAFWefmJEfsXxw66a/2t7WjQUDsFlLqmKoQ5cYrIBgP0QTEYkGAlHmoTmftKyvx/4sGIMNTfK5U1TtOaXEcOdMLy7rC6RCpnSuqeKmO0+T1H+lNlKrLfe4byPIdewNjjBW0G/VUmq/5qT+twHXkPUoxxRkWiZbo1FH8Br7lP8f9+3xUSQ7VtvnYV403d701XIVqNUAMVoPv7uAlRBd5Y2GbxyswCAE4kRRrFKiuBPe96pIXw+ZviQsGrUxcDqKzdA63AX5muQ8d6vDbISkPapHS8QWZiSFjVsVMnqJ8XU+gOx2pqrkGOiJzn2Cm3znjIysrhmSdVbM/jkTkN5yFXz45wdABrGorDqYORsgN+m/8gn5C3Ogtm8j4c7eIIwvo/IsPwdOw==;3AxfIWPNPtBkxsVPGByaLw=="
 ---

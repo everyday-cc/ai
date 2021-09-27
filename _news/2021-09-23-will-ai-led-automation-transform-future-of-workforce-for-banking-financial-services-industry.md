@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/business/will-ai-led-automation-
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/will-ai-led-automation-transform-future-of-workforce-for-banking-financial-services-industry"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://dataconomy.com/wp-content/uploads/2021/09/financial-service-institutions-ai-cx.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "Startup founders react to a new report saying Australia is lagging key nations on tech innovation"
+    excerpt: "A new report into Australia’s digital future, released with week found that the nation is falling behind the US, UK, Canada, France and China when it comes to tech innovation. The analysis by the Australian Academy of Science and the Australian Academy of Technology and Engineering results in the two peak bodies issuing an urgent call to action,"
+    publishedDateTime: 2021-09-23T05:54:00Z
+    webUrl: "https://www.startupdaily.net/2021/09/startup-founders-react-to-a-new-report-saying-australia-is-lagging-key-nations-on-tech-innovation/"
+    type: article
+    provider:
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 9
+    images:
+      - url: "https://www.startupdaily.net/wp-content/uploads/2021/07/tortoise.jpeg"
+        width: 770
+        height: 513
         isCached: true
 
 secured: "KtCPFu3JZqCqkbRfOqTh29vvNJXhHC12nEvcqj3722gcivDDtCjDHvEG/C3TiyBeEmHPwP/00WGXtb2JVI9S1zuz/1rPuGTrOteGguRZATc6P2zJmFCiEJ5U49QMuD6OT2WWMtUphzTe9Kotm3pNGcSYSeciqIHeBqaPb9dAlIuVyWvule1sGX1X1d/FszthnFDzEVz4kvXxoxGSWXQOm8wGge9APvZ3QLPVeRJhRPdnAU8SgM6je5+oc0/QNe1HGC0nVVR+g7qJsCauId+WjombswHvW6JkWjOOR9z6vScwxY3g3IDt08r2/LKpHj8YpNN8pyV6Rv1VCdJtzJuw2PXl//EG36HfKWogCu1Z/wRws0jP8HS4/yeksecifz3lte+ntamfVvS8bnPs9IqFG0zisbViMy7Jd0tITM/W7Ko8S2abEgutV7RS6SG863T0IBdtGIOaSa9/1r0pyjXXT+YsZJVdj71odlpgYCLua3OLQiGudCvgLeZe3iHjlOqehAe0FtWZJ8cOkifA+dtMmA==;au3Du69HEg8Ml3pIfHyWaQ=="

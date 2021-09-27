@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/digital-transformation/mayo-
 webUrl: "https://www.beckershospitalreview.com/digital-transformation/mayo-clinic-ceo-telehealth-ai-are-the-keys-to-healthcare-s-future.html"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://www.healthcaredive.com/user_media/cache/8e/b0/8eb08ec8d2bbb7c399d88f1fbfe3dad4.jpg"
         width: 770
         height: 364
-        isCached: true
-  - title: "Fintech, telehealth firms top LinkedIn's list of emerging Singapore start-ups"
-    excerpt: "The list was compiled based on several metrics such as employment growth and attraction of top talent.. Read more at straitstimes.com."
-    publishedDateTime: 2021-09-22T06:15:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/fintech-telehealth-firms-top-linkedins-list-of-emerging-singapore-start"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 21
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/09/22/fhstartups220921.jpg?itok=AsgQ6SbW"
-        width: 763
-        height: 509
         isCached: true
   - title: "Health care needs to transform, Mayo CEO says. Here's why time is right"
     excerpt: "The Covid-19 pandemic accelerated the pace of change in health care by a decade, the Mayo Clinic CEO said on a visit to Jacksonville."

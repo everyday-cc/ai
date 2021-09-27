@@ -7,8 +7,8 @@ originalUrl: "https://www.thefastmode.com/investments-and-expansions/20872-robot
 webUrl: "https://www.thefastmode.com/investments-and-expansions/20872-robotics-ai-startup-cogniteam-raises-4-2m"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Deep
@@ -23,6 +23,22 @@ images:
     width: 752
     height: 408
     isCached: true
+
+related:
+  - title: "Healthcare AI Startup Endimension Raises Rs 2.3 cr In Seed Round"
+    excerpt: "A healthcare AI startup. The funds raised will be used to hire talent for new product development, R&D, and sales force expansion."
+    publishedDateTime: 2021-09-22T07:25:00Z
+    webUrl: "https://analyticsindiamag.com/healthcare-ai-startup/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/endimension_new_logo.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "8UollKIbFOLORqsl7o+UoLDgCb1+UZqUPMCFHmPsRE81qMnimxdS7kQOX3Yj/JpzLdToA/C9FxgqYvwLDUO1uyL2Q4IMwO3WtXBZWBdEgbo0AVQuJriqbp4aTONDL/h4ZJ+i0C4UGgiz/jbGHhvITQEl43AjuSo3EiWB8VjmEi6qmig+n1YV5YyDhNYvl7vcFPUkg28JFSxcjr5LmX+oocgCoy13rcS1gEOfkYnhmhYoNJIlLSS8JpSXdmPfOoCT2NKKu0H+r9GK4xd/odPK1zq+GFnacCLNP48VhMUpVztcTXCdpy274Gjj6mQwMxD0Y6YsCRqUPdyc4oNmg2npOBbl8HV40xBJ//1l3I9vpga59nSRw9SObKN8o5ocUDfmc/kE7cDZ092HucDCll9WsNCAIe2N+1pDs+a5WXqDos+JHHDQfZ9e1kSqlwl5uknwzir+d3ulHsxLX+I872Eyc/mDnxgrZr6l7xpR6A3cFrXoIgkYEf8PBGhbpVy5u0uJHdsfTIjZEYEXRJ9ILI3eCQ==;4wPxl4jlgJcvS1W69TTchA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/buy-now-pay-later/2021/australias-zip-buys-mi
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/buy-now-pay-later/2021/australias-zip-buys-minority-stake-in-indias-bnpl-startup-zestmoney/amp/"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -24,38 +24,6 @@ images:
     width: 457
     height: 274
     isCached: true
-
-related:
-  - title: "Indian buy now, pay later startup ZestMoney raises $50 million from Australia’s Zip"
-    excerpt: "ZestMoney, a Bangalore-based buy now, pay later platform, said on Wednesday it has raised $50 million in a new financing round from Australia’s Zip as the Indian firm looks to cash in on a trend that is showing wider traction in several global markets."
-    publishedDateTime: 2021-09-22T05:48:00Z
-    webUrl: "https://techcrunch.com/2021/09/21/indian-buy-now-pay-later-startup-zestmoney-raises-50-million-from-australias-zip/"
-    ampWebUrl: "https://techcrunch.com/2021/09/21/indian-buy-now-pay-later-startup-zestmoney-raises-50-million-from-australias-zip/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/21/indian-buy-now-pay-later-startup-zestmoney-raises-50-million-from-australias-zip/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 81
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2018/08/ZestMoney-Founders.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Startup founders react to a new report saying Australia is lagging key nations on tech innovation"
-    excerpt: "A new report into Australia’s digital future, released with week found that the nation is falling behind the US, UK, Canada, France and China when it comes to tech innovation. The analysis by the Australian Academy of Science and the Australian Academy of Technology and Engineering results in the two peak bodies issuing an urgent call to action,"
-    publishedDateTime: 2021-09-23T05:54:00Z
-    webUrl: "https://www.startupdaily.net/2021/09/startup-founders-react-to-a-new-report-saying-australia-is-lagging-key-nations-on-tech-innovation/"
-    type: article
-    provider:
-      name: Startup Daily
-      domain: startupdaily.net
-    quality: 9
-    images:
-      - url: "https://www.startupdaily.net/wp-content/uploads/2021/07/tortoise.jpeg"
-        width: 770
-        height: 513
-        isCached: true
 
 secured: "i618GwPcWuSFTStMXaImT0HgiHmEnK/4TTMkbmlG2Ax+D+6qG50mwijL52JsJ1PlXYaFNpt4uyHnOYd1DXXHpHt5BOL5jThUFf/5OnDvnVjvjoewmyangBjBRc8DWWSxARFlHXXAh0rJ5wyv2Wz2BwSkdczIRpOG7E8pxtcEv5S6fvVmsHuWWJq+TpgFq1EIMwsIa2YuKAfO/IrzNi1YfGacLfyV4z99ARIawpJF4+EfI2pklIJqBC/pHQhcIAvY0/CLFZ5PuILo1T5h4OcAoJ4Da2kb9XPGE0y++XDgOLos6g6No19RXREBx2BU4zxJHEi5bBaHmMidVO26ttEfJ1g6+VV4KYCcta+gcjR8wLU=;FO9t9po9Gb6C9RWQohVfFg=="
 ---
