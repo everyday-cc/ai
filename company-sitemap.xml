@@ -151,13 +151,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/company/scale/</loc>
+    <loc>https://everyday.cc/ai/company/upstart/</loc>
     <lastmod>2021-09-20T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/company/upstart/</loc>
+    <loc>https://everyday.cc/ai/company/scale/</loc>
     <lastmod>2021-09-20T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -295,6 +295,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://everyday.cc/ai/company/intel/</loc>
+    <lastmod>2021-09-20T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://everyday.cc/ai/company/cerebras.net/</loc>
     <lastmod>2021-09-20T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -308,12 +314,6 @@
   </url>
   <url>
     <loc>https://everyday.cc/ai/company/graphcore.ai/</loc>
-    <lastmod>2021-09-20T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://everyday.cc/ai/company/intel/</loc>
     <lastmod>2021-09-20T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -853,6 +853,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://everyday.cc/ai/company/deepmind/</loc>
+    <lastmod>2021-09-20T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://everyday.cc/ai/company/agolo/</loc>
     <lastmod>2021-09-20T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1088,12 +1094,6 @@
   </url>
   <url>
     <loc>https://everyday.cc/ai/company/deep6.ai/</loc>
-    <lastmod>2021-09-20T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://everyday.cc/ai/company/deepmind/</loc>
     <lastmod>2021-09-20T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
