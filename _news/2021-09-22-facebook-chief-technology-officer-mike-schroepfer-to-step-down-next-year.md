@@ -49,22 +49,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Invested over $13 bn in teams, tech since 2016 to prioritise user safety and security: Facebook"
-    excerpt: "The social media giant noted that its 'advanced AI' has helped block three billion fake accounts in the first half of this year."
-    publishedDateTime: 2021-09-22T14:54:00Z
-    webUrl: "https://www.cnbctv18.com/technology/invested-over-13-bn-in-teams-tech-since-2016-to-prioritise-user-safety-and-security-facebook-10841402.htm"
-    ampWebUrl: "https://www.cnbctv18.com/technology/invested-over-13-bn-in-teams-tech-since-2016-to-prioritise-user-safety-and-security-facebook-10841402.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/invested-over-13-bn-in-teams-tech-since-2016-to-prioritise-user-safety-and-security-facebook-10841402.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 49
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2019/07/2019-07-22T181739Z_1_LYNXNPEF6L1JX_RTROPTP_4_FACEBOOK-PRIVACY-EU-1019x573.jpg"
-        width: 1019
-        height: 573
-        isCached: true
   - title: "Andrew Bosworth to be next Facebook CTO"
     excerpt: "Schroepfer will be succeeded by Andrew Bosworth (Boz) who will be transitioning into the role of CTO in 2022. Bosworth created and has been heading the social media major’s augmented reality/virtual reality organisation — which was renamed Facebook Reality Labs (FRL) in 2020 — where he drives all of Facebook’s efforts in augmented reality,"
     publishedDateTime: 2021-09-23T07:36:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.xing.com/communities/posts/how-artificial-intelligence
 webUrl: "https://www.xing.com/communities/posts/how-artificial-intelligence-ai-is-transforming-mobile-technology-1018689842"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: XING
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI is transforming your job, not terminating it"
+    excerpt: "For those who aren’t familiar with the pop-culture reference, the film focuses on self-aware military AI that sets out to exterminate all of humanity using robots, cyborgs and drones. Fast forward to 2021,"
+    publishedDateTime: 2021-09-27T07:32:00Z
+    webUrl: "https://www.retailgazette.co.uk/blog/2021/09/ai-is-transforming-your-job-not-terminating-it/"
+    type: article
+    provider:
+      name: Retail Gazette
+      domain: retailgazette.co.uk
+    quality: 37
+    images:
+      - url: "https://www.retailgazette.co.uk/wp-content/uploads/2021/06/Roubler-1-696x270.png"
+        width: 696
+        height: 270
+        isCached: true
   - title: "Money & technology: COVID accelerated the evolution of fintech"
     excerpt: "Every time a customer deposits a check electronically, uses an app to pay for their takeout food, day trades stock using the Robin Hood app, or pays a friend back using Venmo, fintech is being used. “Fintech really is everywhere,"
     publishedDateTime: 2021-09-23T00:00:00Z

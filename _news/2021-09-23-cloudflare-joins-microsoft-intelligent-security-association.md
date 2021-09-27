@@ -129,15 +129,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Cloudflare Joins Microsoft Intelligent Security Association"
-    excerpt: "Now, we can build even deeper product integrations between Cloudflare and Microsoft that will help equip organizations to tackle today's rapidly evolving cyber threats.\" Cloudflare provides security,"
-    publishedDateTime: 2021-09-22T13:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cloudflare-joins-microsoft-intelligent-security-association-/2021/09/22/9454386.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 36
   - title: "AtScale Expands Semantic Layer Solution for Microsoft Excel"
     excerpt: "AtScale expands integrations with Microsoft Excel enabling high-performance, multi-dimensional analysis on live cloud data."
     publishedDateTime: 2021-09-23T18:34:00Z

@@ -26,21 +26,30 @@ images:
     isCached: true
 
 related:
-  - title: "Mobile Artificial Intelligence (MAI) Market Aims to Expand at Double-Digit Growth Rate Covid-19 Analysis | Microsoft, MediaTek"
-    excerpt: "The Mobile Artificial Intelligence MAI market report is divided into four categories in the market research type product user and geography In order to help key companies in product sales it gives some suggestions and views on how to target"
-    publishedDateTime: 2021-09-22T14:35:00Z
-    webUrl: "https://www.openpr.com/news/2402947/mobile-artificial-intelligence-mai-market-aims-to-expand"
-    ampWebUrl: "https://www.openpr.com/amp/2402947/mobile-artificial-intelligence-mai-market-aims-to-expand"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2402947/mobile-artificial-intelligence-mai-market-aims-to-expand"
+  - title: "Artificial Intelligence in BFSI Market Is Thriving Worldwide | IBM, Baidu, Brighterion, Microsoft"
+    excerpt: "The global research report on the Artificial Intelligence in BFSI market provides in-depth current market analysis scenario, upcoming as well as future opportunities, revenue growth, pricing and profitability."
+    publishedDateTime: 2021-09-23T14:38:00Z
+    webUrl: "https://www.globalbankingandfinance.com/artificial-intelligence-in-bfsi-market-is-thriving-worldwide-ibm-baidu-brighterion-microsoft/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/artificial-intelligence-in-bfsi-market-is-thriving-worldwide-ibm-baidu-brighterion-microsoft/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/artificial-intelligence-in-bfsi-market-is-thriving-worldwide-ibm-baidu-brighterion-microsoft/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 61
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 56
+  - title: "Artificial Intelligence in Accounting Market Is Booming Worldwide | YayPay, IBM, Google"
+    excerpt: "Global Artificial Intelligence in Accounting Market Status, Trends and COVID-19 Impact Report 2021 is latest research study r"
+    publishedDateTime: 2021-09-23T00:49:00Z
+    webUrl: "https://menafn.com/1102847257/Artificial-Intelligence-in-Accounting-Market-Is-Booming-Worldwide-YayPay-IBM-Google"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 31
     images:
-      - url: "https://cdn.openpr.com/U/9/U922245742_g.jpg"
-        width: 600
-        height: 300
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?196572"
+        width: 443
+        height: 250
         isCached: true
 
 secured: "GFOrFuYmHNBdkKzhNSMYx5NDI6HrnX6KF09hofLQ5goKCOUDXE2Wx4YJs8rkGpUn9CcfOj3hi0oNOvyd1vW1ck0y5jOThlbO7yaHbwV3CpJHOUBG2a0HQUF6RFRO3aoATDycj+Ob8TijvGDzArqiNxUO00pqOEFtPd6IM0IFuVemigPk18Bm1FaQWRxHlchPdrzRzJlJ+5yBQRxRI369kngLdR4VprDd5jooDI1+N50WzOzyB5MDzXx6Zl8ZOjmaaTLwGjjCdDn923LdEZ6jfxhOltt7XwfNcMp2XGBIy2HHGGC7sT6RsdMT1roDb5S0TenFkluw+tuYfJehqWHae4x7bCgMCayHSpxr/5ZKQRw=;6UWNYmTMOk3pHs3UDjAaFQ=="

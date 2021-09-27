@@ -36,6 +36,20 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 56
+  - title: "Microsoft launches AI Eye Contact video call software"
+    excerpt: "Microsoft’s artificial intelligence-powered video technology can correct one’s gaze in video calls to make one appear to be looking directly into the camera lens."
+    publishedDateTime: 2021-09-23T10:13:00Z
+    webUrl: "https://gadget.co.za/microsoft-launches-ai-eye-contact-video-call-software/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 56
+    images:
+      - url: "https://i2.wp.com/gadget.co.za/wp-content/uploads/2021/09/maxresdefault-2.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "wKsMFOrd/rl9QBb6khrtUXIDB+Yn9QwRg/ZU2SwXkKEZ8YUdQvVgR2zW6JnvxioFf6Fw4a0xDbSNQn5TKG9BwUIUz2nqK86AnjMIVkIdRE34gpNlo+uvdtWVR7e2aHvJ3r0fbzbaMfcLen5D9kgwKduSS59Hz9j8287VWMnW0bngQ30ieMrRWm9NYv4UXYz5+xLtFSPk6ZC0RpkDZnvZ/mfyXjrSg/XTez2SY7dAUYUNLakQ2TdlG0YWxuFDwVqyMzm/oqygoZ/8GSG/RvEwKaj0DdjCP53UTGMazE3sGWqERvzY1Kc+yf9bMi0WUWL15vvskUCnRtP0nFyGLcD0qauSGJAzsPtHc5CIcIiW880=;IwmSHN2lGvQ7BB9vfjB3oQ=="
 ---

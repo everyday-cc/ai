@@ -38,20 +38,6 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "Minister Chris Philp's speech at the AI Summit launching the National AI Strategy"
-    excerpt: "DCMS Minister celebrates tech success, particularly in AI, throughout the UK and champions the sector during London Tech Week"
-    publishedDateTime: 2021-09-22T14:32:00Z
-    webUrl: "https://www.gov.uk/government/speeches/minister-chris-philps-speech-at-the-ai-summit-launching-the-national-ai-strategy"
-    type: article
-    provider:
-      name: gov.uk
-      domain: www.gov.uk
-    quality: 34
-    images:
-      - url: "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/person/image/4070/Chris-Philp.png"
-        width: 960
-        height: 640
-        isCached: true
 
 secured: "rAqzR2zwN68nI0LLqXbFHAxbPL8DL+dotim3roXTaaWFB412qaujOh6Uz2r5l7OYuFgjpYyi7d8VBasH3+a33+IAUofgqvFBqwVH7bnGKYfX6KE3k+ycSnxJTkjIujVmkIq6EU1Rq80FbCkx5t6EJNKwlB2fjQJYzEQawi29gow79QMP2aE7EaNK7kYKr1BqscoXIONS/x+VEL464GXNgFVF5QXuDCGO5SjDiq/EKYw5tOljAMUb1WmQYAVfNfV+DOi4Yvqh2YJN/1UNzQPzS17SBh6Caa64Weiv1R5/4Droa3vZJynPCTmWeqQs9+EFHwuz3Oz1Z7uiBE+4QyuW5Fog4EGG/5Jqih1TZz72+tezeYqDqdoSnf51dbf0QJR8kkG1R82H1ZpnkZH6y6F0QFApPE4laT/c8BO2gRXINiaHvyKfvylJ40WF5yXaRa7xxaTV7Kkrkn7xEBewOX+I49Kqn77OtSEHzo12u+buq3iJ0M4zoy7Q4iRD0oiARKntIHQIYRUvdlZzOIbAmtiYXw==;UcY2Il4JXoGS4DUSriz/jQ=="
 ---

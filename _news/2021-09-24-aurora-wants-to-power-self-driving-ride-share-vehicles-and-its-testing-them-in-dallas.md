@@ -27,52 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "FedEx to test Aurora’s self-driving trucks on Dallas-to-Houston route"
-    excerpt: "FedEx has started to use self-driving trucks to haul goods between Dallas and Houston as part of a pilot program with autonomous vehicle startup Aurora and heavy duty vehicle manufacturer Paccar. Paccar trucks that are equipped with Aurora’s technology will be used multiple times a week to"
-    publishedDateTime: 2021-09-22T15:01:00Z
-    webUrl: "https://techcrunch.com/2021/09/22/fedex-to-test-auroras-self-driving-trucks-on-dallas-to-houston-route/"
-    ampWebUrl: "https://techcrunch.com/2021/09/22/fedex-to-test-auroras-self-driving-trucks-on-dallas-to-houston-route/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/fedex-to-test-auroras-self-driving-trucks-on-dallas-to-houston-route/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/09/fedex-aurora.jpg?w=1024"
-        width: 1024
-        height: 573
-        isCached: true
-  - title: "Self-driving tech co Aurora to test driverless delivery with FedEx"
-    excerpt: "Aurora, which is led by former heads of self-driving programs at Google, Uber and Tesla Inc, added on Wednesday it is aiming for trucks without a safety driver by late 2023."
-    publishedDateTime: 2021-09-23T06:38:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex/article36623586.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex/article36623586.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex/article36623586.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/n41f8c/article36624583.ece/ALTERNATES/LANDSCAPE_615/aurorajpg"
-        width: 615
-        height: 384
-        isCached: true
-  - title: "FedEx Partners With Self-Driving Car Startup Aurora in Texas"
-    excerpt: "Aurora Innovation Inc. will help move cargo for FedEx Corp. in a pilot project in Texas that uses the startup’s technology in a self-driving Paccar Inc. truck. The arrangement marks FedEx’s first trial of autonomous driving."
-    publishedDateTime: 2021-09-22T15:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-09-22/fedex-partners-with-self-driving-car-startup-aurora-in-texas"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijhmN_ZtlqPg/v0/1200x809.jpg"
-        width: 1200
-        height: 809
-        isCached: true
   - title: "Aurora, FedEx launch self-driving vehicles"
     excerpt: "Aurora Innovation outlined a goal to provide full driverless delivery for courier company FedEx by 2023, as the pair commenced a trial."
     publishedDateTime: 2021-09-23T10:16:00Z
@@ -121,20 +75,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Self-driving tech co Aurora to test driverless delivery with FedEx"
-    excerpt: "Self-driving technology company Aurora will begin piloting trucks loaded with its software this week to haul goods for U.S. package delivery firm FedEx Corp between Dallas and Houston, albeit with a safety driver."
-    publishedDateTime: 2021-09-22T15:39:00Z
-    webUrl: "https://kfgo.com/2021/09/22/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex/"
-    type: article
-    provider:
-      name: KFGO
-      domain: kfgo.com
-    quality: 39
-    images:
-      - url: "https://media.socastsrm.com/uploads/station/2105/fbShare.png?r=57822"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Trucks Want Self-Driving Tech, Too. Paccar and FedEx’s New Partnership Shows Why."
     excerpt: "Self-driving trucks are hitting U.S. roads as Paccar and FedEx launch a pilot program with autonomous driving technology company Aurora."
     publishedDateTime: 2021-09-22T16:53:00Z
@@ -151,35 +91,19 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Self-driving tech firm Aurora to test driverless delivery with FedEx"
-    excerpt: "Aurora, which is led by former heads of self-driving programs at Google, Uber and Tesla, said it is aiming for trucks without a safety driver by late 2023."
-    publishedDateTime: 2021-09-22T17:29:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-tech-firm-aurora-test-driverless-delivery-fedex"
+  - title: "Royal Air Force begins trial for self-driving military vehicles"
+    excerpt: "The Royal Air Force (RAF) of England has started a new trial deploying autonomous vehicles on an airbase as part of the RAF’s Astra campaign. The goal is to deliver the next generation of vehicles that will be used by the RAF in the future."
+    publishedDateTime: 2021-09-24T12:35:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17235/royal-air-force-begins-trial-for-self-driving-military-vehicles"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
+      name: Engineering360 News
+      domain: globalspec.com
     quality: 39
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Aurora%20truck-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Aurora wants to power self-driving rideshare vehicles and it’s testing them in Dallas"
-    excerpt: "Self-driving vehicle startup Aurora will soon begin testing its modified Toyota Sienna’s on Dallas roadways – but don’t expect to see driverless Uber"
-    publishedDateTime: 2021-09-23T19:50:00Z
-    webUrl: "https://www.dallasnews.com/business/technology/2021/09/23/aurora-wants-to-power-self-driving-rideshare-vehicles-and-its-testing-them-in-dallas/"
-    ampWebUrl: "https://www.dallasnews.com/business/technology/2021/09/23/aurora-wants-to-power-self-driving-rideshare-vehicles-and-its-testing-them-in-dallas/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2021/09/23/aurora-wants-to-power-self-driving-rideshare-vehicles-and-its-testing-them-in-dallas/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 37
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Ou_fV0ng3gp2i5r8-1OZ38oH0FA=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/3X3OVJQTKBFTLK4AQZ6YT3NHL4.jpg"
-        width: 1200
-        height: 630
+      - url: "https://electronics360.globalspec.com/images/assets/235/17235/Kar-go_on_Airfield_With_AD_Dakota_Model.jpg"
+        width: 752
+        height: 380
         isCached: true
   - title: "FedEx Partners With Self-Driving Car Startup Aurora in Texas"
     excerpt: "Aurora Innovation Inc. will help move cargo for FedEx Corp. in a pilot project in Texas that uses the startup’s technology in a self-driving Paccar Inc. truck. The arrangement marks FedEx’s first trial of autonomous driving."

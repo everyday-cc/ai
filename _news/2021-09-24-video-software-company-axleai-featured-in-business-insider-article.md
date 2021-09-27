@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/23083424"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23083424"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "New AI-Optimized Software Could Improve Nanoparticle Design for Cancer Therapy"
-    excerpt: "The EVONANO platform developed at the University of Bristol enables scientists to develop virtual tumors and employ artificial intelligence to make automated optimization of the design of nanoparticles to treat the tumors."
-    publishedDateTime: 2021-09-22T14:07:00Z
-    webUrl: "https://www.azonano.com/news.aspx?newsID=38168"
-    ampWebUrl: "https://www.azonano.com/amp/news.aspx?newsID=38168"
-    cdnAmpWebUrl: "https://www-azonano-com.cdn.ampproject.org/c/s/www.azonano.com/amp/news.aspx?newsID=38168"
-    type: article
-    provider:
-      name: AZoNano
-      domain: azonano.com
-    quality: 70
-    images:
-      - url: "https://d1otjdv2bf0507.cloudfront.net/images/news/ImageForNews_38168_16323085425165298.png"
-        width: 700
-        height: 600
-        isCached: true
 
 secured: "UGnEuNo/2fWRvQyB6oNqi96JCMPy9S6pzN/KPqOp58oAHnHBCcNO3R96JW/RK4xBcnSNYUp3Zbr3q9ErrUV99ww51Rvn8EZE4UmoBJhcCWd9dSY4TmVi50J6lB1oYZDmYI90Ef2N9sNBXS6bC+72oRH+7R9dmLyS+WqbZCmc9iiri3kJqqY7ZWRZOUorQDjZgue0WcRsSy3Ea65CbO9ZrZliumNAM/Q97LkRT6PftxV3xcO+QoiaNxra2r0T2O5ItAIh0iO7ztfHyWvrKuzyKSBOXXUtRxdhsjDfoteh4m6rkKMAaV8wyYCmnFy9MJTC44CSXvgXUGaTx4JvkYllpztbmUZUdNeGVhnsVUHujCm134ICiwzlTxyU68Vr6/vtq3qh52PR/xTOCXzQ0yaOdRnYryLbAOyJuAoAklRxjpXEQyF9Y0644BFcTk81TECe2t1rYnm9ZRw/m+TW0JUDkK7wGR6+OhKbLWc+lFcBeIpIHzoRW2XhK1bvD5tkxygWS6MJQZR8RtgdwSacV66KiQ==;rGBhCQCIb8OM0bQjrCWZaA=="
 ---

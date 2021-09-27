@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/09/24/the-7-biggest-ar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/09/24/the-7-biggest-artificial-intelligence-ai-trends-in-2022/amp/"
 type: article
 quality: 106
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1200
     height: 840
     isCached: true
+
+related:
+  - title: "Trends in Artificial Intelligence (AI) in Cybersecurity"
+    excerpt: "These 5 trends in artificial intelligence (AI) in cybersecurity underscore the overall shift toward AI applications across many fields:"
+    publishedDateTime: 2021-09-27T07:12:00Z
+    webUrl: "https://www.datamation.com/security/artificial-intelligence-ai-in-cybersecurity-trends/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 52
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intellgence-4-scaled.jpeg"
+        width: 2560
+        height: 1493
+        isCached: true
 
 secured: "DRToTiTqRRx1P/y1Nl1SCWyQhOEzPFKEJD73jsEvc9sJtGSZaR/rgMHUayN5j2nGAHH0Ggd8wtkelmBu1PBPonL+OfdYnyF9EFJzbj9IPdZNLZxq6E9AxDw3eehkG/EbqR5Zs+p+/h79EsTWOXu2B5dgYtDybcE0tfXTvvVhUDerCxx4Ws6vfW1m4jlStxuTPLeUYrvhR5ilaMhQZZoseAU8bWLq+huf46g+yeRjkzHOa4tSZkMBxMlmfXnFeNikPVd18T18fbdCeHkwO9EpBG6etZqFhh/e5fqHnx92/pjrqKQxZ/VoZoV3v/F0J3h1gpS81Unok2SyUNzfAcb9CbxY5luPT7KqGY2i8RTjRCpu+Bs/DqhHiG0TvUyZ4HEzR50fpkioApMljzIhgZCoTEXGY8tyBlq5OZt5TVsAUCHS5TRD+vzhdmqjLXR/JW57E4m/JkavmNkMiJFT0JNkvYkJfVI/jYrtlmhrpcVQt3RiLJ1jbhL4DLzR7X+Um0rg9dUsWuyo4pzN9P1zBtwltQ==;+aZW/QkzSHXfuClaOTwMTw=="
 ---

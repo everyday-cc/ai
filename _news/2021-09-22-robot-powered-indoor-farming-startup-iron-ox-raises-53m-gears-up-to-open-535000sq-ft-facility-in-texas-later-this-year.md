@@ -39,29 +39,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Ag-tech startup Iron Ox loses $53MM investment round"
-    excerpt: "Iron Ox announced today that it has closed a $53 million “Series C” funding round, led by new investor Breakthrough Energy Ventures. Iron Ox, which launched autonomous farming in 2018, grows produce in proprietary greenhouses designed from the ground up to mitigate the environmental impacts of agriculture — a data-driven approach backed by plant science,"
-    publishedDateTime: 2021-09-22T14:20:00Z
-    webUrl: "https://www.producebluebook.com/2021/09/22/ag-tech-startup-iron-ox-loses-53mm-investment-round/"
-    type: article
-    provider:
-      name: Produce Blue Book
-      domain: producebluebook.com
-    quality: 24
-    images:
-      - url: "https://www.producebluebook.com/wp-content/uploads/2021/09/iron-ox-grover-robot.png"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Leading Ag-Tech Startup Iron Ox Closes $53 Million Investment Round Led by Breakthrough Energy Ventures"
-    excerpt: "Iron Ox announced today that it has closed a $53 million “Series C” funding round, led by new investor Breakthrough Energy Ventures. Iron Ox, which la"
-    publishedDateTime: 2021-09-22T14:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210922005335/en/Leading-Ag-Tech-Startup-Iron-Ox-Closes-53-Million-Investment-Round-Led-by-Breakthrough-Energy-Ventures"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "vmpKtDzBxH9wMJifsGTujz2Nd5LJqaGXI6t/4QyRTk8bXtJTUW6OoGe84PBIQke+TZUzpTQT5x2CSOWoyvM4pU7gFTTjGUpFUz8a63c/feUtw5tYjed4xN5q3Mqj17bD6os4U0ICTMf1r1kus4YOCSEduWb6y7PQ7xmjMwOtuCLvYa6OgMLtAVpeC+ESSVKnI7ncS0YAJEFzR6IiYmJ69HvYma1yckHusx1XMAx5I3A8bx+3Pmd6VrmszPLnO/0LGc6xy6/bTsiBJDpox/cUDyQnxwValk5LrHTVJkTPlZ6Itji9LWA8zTjTFrTTfIlNRwjxrWZGfS8IC/dXqIzUYgCBtz5hS0/BvUuT14Li9dBfJmk67GmIW7gymDncpjRoaDq3Acklq6B4cQ9ObnyODIA8Xvv6CmN5aMoKbOtfAjN++FIcqta4QvZ1umVxwdg/AwOk4F7OLdFEPFoEZw5n9ep7EGHoVMWTywPwMuAML7+KJr05YeDvVgEt7aM5fZM8QYrD8mMu+LoG7Dd8df53KA==;wBggILNcoHUm+B3yv0CwQw=="
 ---

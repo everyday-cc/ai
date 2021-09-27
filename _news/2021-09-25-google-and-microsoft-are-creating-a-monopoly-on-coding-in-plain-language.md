@@ -7,7 +7,7 @@ originalUrl: "https://www.queensu.ca/gazette/stories/google-and-microsoft-are-cr
 webUrl: "https://www.queensu.ca/gazette/stories/google-and-microsoft-are-creating-monopoly-coding-plain-language"
 type: article
 quality: 55
-heat: 155
+heat: 145
 published: true
 
 provider:
@@ -121,15 +121,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Cloudflare Joins Microsoft Intelligent Security Association"
-    excerpt: "Now, we can build even deeper product integrations between Cloudflare and Microsoft that will help equip organizations to tackle today's rapidly evolving cyber threats.\" Cloudflare provides security,"
-    publishedDateTime: 2021-09-22T13:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cloudflare-joins-microsoft-intelligent-security-association-/2021/09/22/9454386.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 36
   - title: "Cloudflare Joins Microsoft Intelligent Security Association"
     excerpt: "Cloudflare, Inc. (NYSE: NET), the security, performance, and reliability company helping to build a better Internet, today announced that it has joine"
     publishedDateTime: 2021-09-22T17:00:00Z

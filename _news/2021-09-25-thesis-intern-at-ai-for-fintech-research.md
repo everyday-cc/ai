@@ -118,6 +118,34 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "5 FinTech companies helping MSMEs scale their businesses"
+    excerpt: "One sector hit the hardest by the pandemic has been the MSMEs. A number of entrepreneurs have reported the inability to survive"
+    publishedDateTime: 2021-09-27T06:26:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-fintech-companies-helping-msmes-scale-their-businesses/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Singapore-financial-technology-1.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "The future of payroll is FinTech"
+    excerpt: "The CloudPay NOW app provides easily accessible financial wellbeing tools and information for use while financial decisions are being made."
+    publishedDateTime: 2021-09-27T07:44:00Z
+    webUrl: "https://business-reporter.co.uk/2021/09/27/the-future-of-payroll-is-fintech/"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 24
+    images:
+      - url: "https://businessreporter-197a1.kxcdn.com/wp-content/uploads/2021/09/CloudPay-header-image.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "IDC Financial Insights Recognizes CSI as a Top Fintech Provider for 10th Consecutive Year"
     excerpt: "Computer Services, Inc. (CSI) , a provider of end-to-end fintech and regtech solutions, has been named by IDC Financial Insights to its 2021 IDC FinTech Rankings for the 10th consecutive year. The annual industry ranking,"
     publishedDateTime: 2021-09-23T11:42:00Z

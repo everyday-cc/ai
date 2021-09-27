@@ -51,20 +51,6 @@ related:
         width: 1920
         height: 886
         isCached: true
-  - title: "Johnston-Willis Hospital earns national recognition for ‘Best Physical Rehabilitation Centers 2021′"
-    excerpt: "Johnston-Willis’s 44-bed inpatient rehabilitation center focuses on intense physical, occupational, and speech therapy to help patients progress faster and return home to their normal activities and tasks."
-    publishedDateTime: 2021-09-22T13:43:00Z
-    webUrl: "https://www.nbc12.com/2021/09/22/johnston-willis-hospital-earns-national-recognition-best-physical-rehabilitation-centers-2021/"
-    type: article
-    provider:
-      name: WWBT
-      domain: nbc12.com
-    quality: 10
-    images:
-      - url: "https://gray-wwbt-prod.cdn.arcpublishing.com/resizer/YcWmw1yaizJ21qD9it0Tnw4DFZE=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/6XNDVJH2SFFEDHD2ZTAGSRZGKQ.png"
-        width: 980
-        height: 551
-        isCached: true
   - title: "BioInnovation Institute Creation House program announces intake of four innovative early stage start-up companies"
     excerpt: "BioInnovation Institute (BII), an international commercial foundation with a non-profit objective incubating and accelerating world-class life science research, today announces that four companies have joined its Creation House program."
     publishedDateTime: 2021-09-23T07:04:00Z

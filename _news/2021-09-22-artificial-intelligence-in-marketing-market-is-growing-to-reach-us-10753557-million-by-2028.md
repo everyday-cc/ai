@@ -21,21 +21,21 @@ topics:
   - AI in Marketing
 
 related:
-  - title: "MAICON 2021 - marketer + machine = what? Assessing the impact of AI on marketing"
-    excerpt: "The presence of AI across our lives is tangible now - but what is the specific impact on marketing? That's the core topic at The Marketing AI Institute's MAICON event."
-    publishedDateTime: 2021-09-22T13:37:00Z
-    webUrl: "https://diginomica.com/maicon-2021-marketer-machine-what-assessing-impact-ai-marketing"
-    ampWebUrl: "https://diginomica.com/maicon-2021-marketer-machine-what-assessing-impact-ai-marketing?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/maicon-2021-marketer-machine-what-assessing-impact-ai-marketing?amp"
+  - title: "AI Infrastructure Market Poised to Garner Maximum Revenues During 2028"
+    excerpt: "Introduction. The key factors fueling the AI infrastructure market incorporate expanding popularity of cloud AI stage, heightening demand regarding AI eq"
+    publishedDateTime: 2021-09-27T02:43:00Z
+    webUrl: "https://manometcurrent.com/ai-infrastructure-market-poised-to-garner-maximum-revenues-during-2028/"
+    ampWebUrl: "https://manometcurrent.com/ai-infrastructure-market-poised-to-garner-maximum-revenues-during-2028/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-infrastructure-market-poised-to-garner-maximum-revenues-during-2028/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 69
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 57
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2019-08/woman-and-algorithm.jpg"
-        width: 1277
-        height: 847
+      - url: "https://cdn.openpr.com/S/b/Sb07945017_g.jpg"
+        width: 560
+        height: 315
         isCached: true
 
 secured: "E6Eh9/IJiU+hc+MLWAnMi2at5HWxB/J+dLaT9LDsxPFH+bf3BsluVQkmCewxY7w0t+wnzLLNMdSFOaru7ErAORzJAwLBP91sSmLmjuYR9YmM49pTD8RkfdJYCnkvZ8V8tOYYHYpe4+Hvl3QQcvWNG4xVxsjCoFlylm7c50a/FrUVwtrZ/UrJO6gUFnK9AfOUtlo5rstGESnxo0Ere9tNYM2X/5yw2G75APTX/vPXc2e0LM/XJNokuxtwB1iaZYGCCqVSAfFCg12JiY1mPgnY1fg4em6m03G5BbzL0dkGYhZ+upxSXrkXy4h0kYZkpQVXPWJ3mx9UdoHIC7A8jKb10UoLH4lO7flGuDr82+kDCe0=;kBlxWldtl7TTKJa7hvV8EA=="

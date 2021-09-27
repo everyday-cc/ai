@@ -32,15 +32,6 @@ related:
         width: 1200
         height: 560
         isCached: true
-  - title: "Pittsburgh's startup ecosystem among top 25 globally, new Startup Genome report finds"
-    excerpt: "A new report puts Pittsburgh's startup ecosystem among the top 25 in the world as a place to build and grow a company."
-    publishedDateTime: 2021-09-22T13:33:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/news/2021/09/22/pittsburgh-startup-ecosystem-startup-genome-report.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "9bX37pTpgq/WaLV/0x4yjuXc83Od5p5pahYmIXrQ+/6nisDQlC28U5zRj6JV4bRycoY3nSfKWE484BXPSVit8V45zmvP591oSUfVKRwOCLvcROyvTCu4BVhK5xjorm6zuNl81h3zygiZ9gJepxPv8h+JG6RDDUaDgJSSGfZ4CWN6RpMQ7PloM0L4QqkqUaa9mJKFgLibuKihRD8hu289bvsxs1YEBrfi/+I2FQGjIeKzQroPKU2KnGIuaVsH38GyN1hFhKj8an23YnrjCTjFiIG2rTv6MO4CyBt55M4wAj7jZIs4uZvn9Lbf+R++uMYqJ8XuaJAtt5RGakjfzNoaXPP09ZkpCpczRZ1C7CNI9UVtu9SNqazy/b+F4gZSejLCjKSD+slOohJc8FtyHA74PXmth+7mxdJyfjMWk2j/D5711zmJ0xWK/XanD/8nkvmzqezIp1Y8HUfun3/LgYjm4743LlLpr6a8rl+TyUs67xZIaJsZ27SPEkeIfipLoaRw4KV6BCAH5phORaT5Kgo2KA==;r6a39ZJMm3cfAfkvWWmyNA=="
 ---

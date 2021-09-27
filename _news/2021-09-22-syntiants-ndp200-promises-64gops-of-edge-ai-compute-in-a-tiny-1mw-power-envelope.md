@@ -39,20 +39,6 @@ related:
         width: 752
         height: 423
         isCached: true
-  - title: "Government launches ten-year plan for AI"
-    excerpt: "The government launched a ten-year plan on the use of AI. According to the Department for Culture Media and Sport (DCMS), the National Artificial Intelligence Strategy announced today, Wednesday, \"marks a step change in the country's approach to the fastest growing emerging technology in the world\"."
-    publishedDateTime: 2021-09-22T13:53:00Z
-    webUrl: "https://www.computing.co.uk/news/4037521/government-launches-plan-ai"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 39
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/9094f48/9b4d44db-9ccb-4ddb-91be-1dbf2cb7589a/2/developing-ai-iStock-1154360236-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
   - title: "AP launches AI readiness survey for local newsrooms"
     excerpt: "AP started surveying local news outlets in the U.S. to assess their readiness to adopt technologies that use artificial intelligence, a"
     publishedDateTime: 2021-09-24T14:59:00Z

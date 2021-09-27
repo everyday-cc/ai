@@ -39,6 +39,20 @@ related:
         width: 475
         height: 238
         isCached: true
+  - title: "AI is transforming your job, not terminating it"
+    excerpt: "For those who aren’t familiar with the pop-culture reference, the film focuses on self-aware military AI that sets out to exterminate all of humanity using robots, cyborgs and drones. Fast forward to 2021,"
+    publishedDateTime: 2021-09-27T07:32:00Z
+    webUrl: "https://www.retailgazette.co.uk/blog/2021/09/ai-is-transforming-your-job-not-terminating-it/"
+    type: article
+    provider:
+      name: Retail Gazette
+      domain: retailgazette.co.uk
+    quality: 37
+    images:
+      - url: "https://www.retailgazette.co.uk/wp-content/uploads/2021/06/Roubler-1-696x270.png"
+        width: 696
+        height: 270
+        isCached: true
 
 secured: "R5v+BaX0zY9qmIJfTGeXPiT3BUTXjV5SVYNcDjarjuyDXjTu0ZGT7dZSnWEPM3Fy2Y5UIyZ2k6tJD3AxwNs20ZHGqNXCTM1lZnQ4Aw8Vmiw7K5kws2b4eXnC3mzJJ7IyS4gAeJmCOYbw5dW41Yj4ahzSZK1oTiI85zrE+EssmqSCjS5mkzJTgfpIV5eidkN/vAcBXzMyDZ7IkLXeFgXj3NSSKfJpxLazSijuSo4dNSSWZ95m6Wd2tSX6I+MheN4OVayPx2K5ozDcFm+iitUHB5D3Gy12eIo8iIsc3MVSZMx5m+IKxD4VZfk5WFvfZt4E7OF30bmMM3lNBruzwSX1RhGUbUvrMTle9AYW8dnhFnk=;yLtuatDov7mCXPbFlmG84A=="
 ---

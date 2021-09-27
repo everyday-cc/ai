@@ -7,7 +7,7 @@ originalUrl: "https://cambridgenetwork.co.uk/news/new-ten-year-plan-make-uk-glob
 webUrl: "https://cambridgenetwork.co.uk/news/new-ten-year-plan-make-uk-global-ai-superpower"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Post-Brexit ambitions: UK outlines 10-year plan to become global leader in AI"
-    excerpt: "The UK has outlined a 10-year plan today to make the country a leader in Artificial Intelligence (AI), in a bid to draw in foreign investment and shape the way it is regulated globally."
-    publishedDateTime: 2021-09-22T14:25:00Z
-    webUrl: "https://www.cityam.com/post-brexit-ambitions-uk-outlines-10-year-plan-to-become-global-leader-in-ai/"
-    ampWebUrl: "https://www.cityam.com/post-brexit-ambitions-uk-outlines-10-year-plan-to-become-global-leader-in-ai/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/post-brexit-ambitions-uk-outlines-10-year-plan-to-become-global-leader-in-ai/amp/"
+  - title: "Britain wants to be an artificial intelligence superpower"
+    excerpt: "Because it is short on regular intelligenceThe nation which voted for Boris Johnson and Brexit and gave the world reality television apparently has drawn up a glorious ten year plan to be the world leaders of artificial intelligence."
+    publishedDateTime: 2021-09-23T10:09:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/53587-britain-wants-to-be-an-artificial-intelligence-superpower"
     type: article
     provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 56
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2020/06/679721416.jpg"
-        width: 1024
-        height: 683
-        isCached: true
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 32
 
 secured: "8zB/2NZsiqGXuzj0YIPCFVWcPQr0D0pcI6an/iPt0tM8Mae5F7IJ+6UgDEbi+vjgOgruDfVEzimtE+kmb4QR7bs6/O9MhxYpB/VtqlG4Svd1ihXSuDAQryVfY5YRrJqQQXIRpimYot01zyjBdmD08jRxNu43Kaw/MqIPfmRmAdlOfrwYV72bLT9VkHsjP+opMMrn+Q40IoRQ87F09ZSNte5Hcsu1vFrNdbA9LQDhuLH+X429lBijQ/bqlpgAu6+7DsNO+N6V/0wN/PODp0BzpbWvzRYx7fg6xQHbJa1gSIUoEpkSJ+OU4wEViADcWIQrYzhKjYGXqW4E3P9HGbuGzpG3q77oE9hWk6Q52TcV/YQ=;l70w0fcEKI4rDqA2Bh0mBg=="
 ---

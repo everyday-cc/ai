@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/22/cellino-is-using-ai-and-machine-le
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/cellino-is-using-ai-and-machine-learning-to-scale-production-of-stem-cell-therapies/amp/"
 type: article
 quality: 98
-heat: 139
+heat: 138
 published: true
 
 provider:

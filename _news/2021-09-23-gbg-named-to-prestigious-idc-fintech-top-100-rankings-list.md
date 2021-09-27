@@ -109,6 +109,34 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "5 FinTech companies helping MSMEs scale their businesses"
+    excerpt: "One sector hit the hardest by the pandemic has been the MSMEs. A number of entrepreneurs have reported the inability to survive"
+    publishedDateTime: 2021-09-27T06:26:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-fintech-companies-helping-msmes-scale-their-businesses/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Singapore-financial-technology-1.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "The future of payroll is FinTech"
+    excerpt: "The CloudPay NOW app provides easily accessible financial wellbeing tools and information for use while financial decisions are being made."
+    publishedDateTime: 2021-09-27T07:44:00Z
+    webUrl: "https://business-reporter.co.uk/2021/09/27/the-future-of-payroll-is-fintech/"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 24
+    images:
+      - url: "https://businessreporter-197a1.kxcdn.com/wp-content/uploads/2021/09/CloudPay-header-image.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Thesis Intern at AI for Fintech Research"
     excerpt: "Thesis Intern at AI for Fintech Research With millions of customers and thousands of employees worldwide, software and data analytics are at the heart of ING's business and operations."
     publishedDateTime: 2021-09-25T08:51:00Z

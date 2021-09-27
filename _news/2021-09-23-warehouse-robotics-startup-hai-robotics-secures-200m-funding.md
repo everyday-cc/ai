@@ -39,15 +39,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Warehouse robotics startup HAI ROBOTICS secures $200M funding"
-    excerpt: "The funding will help the company boost its product fleet through technological upgrades, expanding its global operation networks, optimizing its supply chain management and corporate structure as well as talent."
-    publishedDateTime: 2021-09-22T13:09:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2021/09/22/warehouse-robotics-startup-hai-robotics-secures-200m-funding/17496/"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 49
 
 secured: "ThkoInKdFDwT7A1lkJXd/oz0s1QW1VITOmkYOuJYsE64bd3A+a8iZAMi58tvr7D3cvKd6xxkpq3rCYuWxR4Tw56zPkTco7mxLsXwbGlMiFBlU2FGLKEPiDZ8HVO50soygRwCqRo+wIMMh3impdGwpLYBLGBRidGXDiYlWkX5NOC3sbFihYfLmoTda+e+xYJ5Kd9OJg38niVTl49vzYNJ3XN7O7VBlCmJ9SxOBK+0Z/ovZJwnq0U1fcR6iBN1WVgVK9f/qIr46TIJFH5jOLoCW59bH3knhGqPMkv1KTd2gcg0fR/lSffkEOdZbg6BhjKVKZ6b9zZsdTjZNQjgMjDR9V5fovSrVzbdxPNgrHOtX3Yyv0d8Q7iDp7TJRXvFIuTuXiqXMwU1Cr8NrI/tuuTlaYQBBl47aDYKI/6iHTVz2WGheDAY4c74qeMotmA3KdfCRSHA5dh9UO6nTKKQoSiEAb5V5Pb9e6wi6QeWEg168c4EAZ4DAuQUH5GT0TjDxLsrQKfXRJQTFmjyvQiDbH18og==;uPWHuF+0t/zDUMO3ZWwDZQ=="
 ---

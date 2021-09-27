@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pittsburgh's startup ecosystem among top 25 globally, new Startup Genome report finds"
-    excerpt: "A new report puts Pittsburgh's startup ecosystem among the top 25 in the world as a place to build and grow a company."
-    publishedDateTime: 2021-09-22T13:33:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/news/2021/09/22/pittsburgh-startup-ecosystem-startup-genome-report.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
   - title: "Local organization leaders react to Pittsburgh being named among top 25 global emerging startup ecosystems in new report"
     excerpt: "Local organization leaders at Innovation Works, the Pittsburgh Regional Alliance and InnovatePGH react to Pittsburgh being named among top 25 global emerging startup ecosystems in a new report released Wednesday."
     publishedDateTime: 2021-09-22T19:27:00Z

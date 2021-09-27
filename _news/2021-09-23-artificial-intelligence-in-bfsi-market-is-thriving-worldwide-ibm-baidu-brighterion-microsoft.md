@@ -9,8 +9,8 @@ ampWebUrl: "https://www.globalbankingandfinance.com/artificial-intelligence-in-b
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/artificial-intelligence-in-bfsi-market-is-thriving-worldwide-ibm-baidu-brighterion-microsoft/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: List of Banks in Belarus
@@ -21,6 +21,20 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Microsoft launches AI Eye Contact video call software"
+    excerpt: "Microsoft’s artificial intelligence-powered video technology can correct one’s gaze in video calls to make one appear to be looking directly into the camera lens."
+    publishedDateTime: 2021-09-23T10:13:00Z
+    webUrl: "https://gadget.co.za/microsoft-launches-ai-eye-contact-video-call-software/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 56
+    images:
+      - url: "https://i2.wp.com/gadget.co.za/wp-content/uploads/2021/09/maxresdefault-2.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Artificial Intelligence in Accounting Market Is Booming Worldwide | YayPay, IBM, Google"
     excerpt: "Global Artificial Intelligence in Accounting Market Status, Trends and COVID-19 Impact Report 2021 is latest research study r"
     publishedDateTime: 2021-09-23T00:49:00Z
