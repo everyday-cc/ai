@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-27-drones-with-facial-recognition-technology-brought-in-to-count-sa-koalas.md",
+      "title": "Drones with facial recognition technology brought in to count SA koalas",
+      "excerpt": "Drones equipped with facial recognition technology will be used to count and identify South Australia’s koala population thought decimated by recent bushfires. Flinders University researchers will partner with the Koala Life charity and the state government to use the drones to study koalas on Kangaroo Island and in the Adelaide Hills,",
+      "sourceUrl": null,
+      "webUrl": "https://7news.com.au/news/animals/drones-with-facial-recognition-technology-brought-in-to-count-sa-koalas-c-4080682",
+      "originalUrl": "https://7news.com.au/news/animals/drones-with-facial-recognition-technology-brought-in-to-count-sa-koalas-c-4080682",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.7news.com.au/publication/C-4080682/0f134acc7c5a8ba7bcc54b94b6534f2008dd7154-16x9-x0y0w1600h900.jpg?imwidth=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://7news.com.au/news/animals/drones-with-facial-recognition-technology-brought-in-to-count-sa-koalas-c-4080682.amp",
+      "cdnAmpWebUrl": "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/news/animals/drones-with-facial-recognition-technology-brought-in-to-count-sa-koalas-c-4080682.amp",
+      "publishedDateTime": "2021-09-26T19:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "7news",
+        "domain": "7news.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-et-startup-awards-2021-kovai-wins-the-bootstrap-champ-award.md",
       "title": "ET Startup Awards 2021: Kovai wins the Bootstrap Champ award",
       "excerpt": "The SaaS startup, which went head-to-head with Cardinality.ai, eventually ended up becoming the Bootstrap Champ due its financial heft and ability to inspire entrepreneurs to build global businesses from smaller cities and towns.",
@@ -52,7 +95,7 @@
       "originalUrl": "https://www.brecorder.com/news/40122807/afridi-presents-iiojk-dossier-to-ai-urges-it-to-raise-voice-against-india",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -188,7 +231,7 @@
       "originalUrl": "https://venturebeat.com/2021/09/25/we-are-sleepwalking-into-ai-augmented-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1137,49 +1180,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-machine-learning-helps-scientists-pinpoint-genes-of-importance.md",
-      "title": "Machine learning helps scientists pinpoint 'genes of importance'",
-      "excerpt": "In a new breakthrough, researchers in the United States and Taiwan have developed a machine learning algorithm to more efficiently identify \"genes of importance\" in agriculture and medicine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Science_News/2021/09/24/machine-learning-crop-genes/7511632488535/",
-      "originalUrl": "https://www.upi.com/Science_News/2021/09/24/machine-learning-crop-genes/7511632488535/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/7511632488535/2021/1/16324917975275/v1.5/Machine-learning-helps-scientists-pinpoint-genes-of-importance.jpg",
-          "width": 700,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Science_News/2021/09/24/machine-learning-crop-genes/7511632488535/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/09/24/machine-learning-crop-genes/7511632488535/",
-      "publishedDateTime": "2021-09-24T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

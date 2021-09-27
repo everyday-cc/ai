@@ -9,7 +9,7 @@ ampWebUrl: "https://www.brecorder.com/news/amp/40122807"
 cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40122807"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: " https://i.tribune.com.pk/media/images/Indian-Prime-Minister-Narendra-Modi1632594412-0/Indian-Prime-Minister-Narendra-Modi1632594412-0.jpg  "
         width: 640
         height: 480
+        isCached: true
+  - title: "50 Most Influential AI Leaders In India – 2021"
+    excerpt: "Analytics India Magazine brings to you its annual list of the 50 Most Influential AI Leaders In India for the year 2021. Selected on the basis of the expertise they hold in the field of AI and Data Science,"
+    publishedDateTime: 2021-09-27T05:28:00Z
+    webUrl: "https://analyticsindiamag.com/50-most-influential-ai-leaders-in-india-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/50-most-influential-AI-Leaders-.jpg"
+        width: 2240
+        height: 1260
         isCached: true
   - title: "Modi’s speech at UN glaring contradiction to India’s abuses in IIOJK"
     excerpt: "Indian Prime Minister Narendra Modi in his speech at the United Nations General Assembly expressed concern over threat of terrorism"

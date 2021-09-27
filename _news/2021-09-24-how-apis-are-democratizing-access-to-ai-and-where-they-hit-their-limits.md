@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/24/how-apis-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/24/how-apis-are-democratizing-access-to-ai-and-where-they-hit-their-limits/amp/"
 type: article
 quality: 88
-heat: -1
-published: false
+heat: 88
+published: true
 
 provider:
   name: Forbes
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "How AI Will Democratize Access To Investing"
-    excerpt: "Someday, you’ll have reliable AI that can analyze your specific investing style, alert you as to where opportunities lay hidden and offer you hard-hitting analyses to stay informed. This is vital because sound financial systems underpin economic growth and development,"
-    publishedDateTime: 2021-09-22T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/22/how-ai-will-democratize-access-to-investing/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/22/how-ai-will-democratize-access-to-investing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/22/how-ai-will-democratize-access-to-investing/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6149de6d1db03fe107871e49%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "YSX2K5/2fPQsls/8QK0nTKWAhMBgV/VJGXtuhbLVHPKMhxHYq8Ql8Sph98NTMcDuZnt49L3wPKYB5K1HLI4AJ0CKJ5Xos2XuRJcJKsIsjbKO/f5HFmPQzPXSUQ9uU3EpaB8MojyjHhXdYjYso27uzHwfCX7hNtRoaKc7aWn5XUpuDxlf/dreGEeDCWGR5cbiiFwcQt6eWBnBqAGN/P3WT6MYXwTNu5cJyPDZizpq/eyDxouj+LvZ36JiCuHx8p38gMT+6egmUSjGulecN8pGYUKlvds0+aymKzdPioXIgDqZG2VsiNgsCyB+D6G9cx60Im1svog2nwX4070T+3BdfYX9pArsi9II2/5zAEtEs7Ivg6geI8SswO+X4s2dSUa352VA3I3TrVi06PgctQiy5hrAhtEZlh8AQ0mPS9z6++EskUlQ78ECAUuEtuY/VzrYJc+nnAFbJVnb8ZbIJlooyh3rnVTNt0Ozztc2wRTHXzxCgKfTFrnyRyzL6ez05Xp1bvlZN5EBUVk+AiFRRr60sw==;s5jAfGXb2GEmx9P0tNpsNw=="
 ---

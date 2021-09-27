@@ -57,20 +57,6 @@ related:
         width: 640
         height: 384
         isCached: true
-  - title: "The UK has launched its first National Artificial Intelligence Strategy"
-    excerpt: "The Government has outlined a 10-year artificial intelligence strategy in a bid to make the UK a global science superpower. Info here."
-    publishedDateTime: 2021-09-22T11:48:00Z
-    webUrl: "https://theguideliverpool.com/the-uk-has-launched-its-first-national-artificial-intelligence-strategy/"
-    type: article
-    provider:
-      name: theguideliverpool.com
-      domain: theguideliverpool.com
-    quality: 39
-    images:
-      - url: "https://theguideliverpooldo.ams3.digitaloceanspaces.com/2021/09/shutterstock_1022667853.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "JSw1EQYUkMW5KwiYTp8AqmNLPIu92/D4zjYo52O521KbuWXtw0U5andhub2VvouaFcFJUu/JO045bhoaqKvTN5TqLwwZJhn93vdadphEuQlQpsiPeYr0NVHkyUT0bB89qxkbmtVGqs+T2M6GrbQHLXGx6nbpqcVGwvGAWLHGfze7BeZEMRvgZ2hGxHYtFCF6nTguU8Lq7WSPDlD4f1I8V+5Ih51MoudCzNoKT2oQOU0HsoiiPiUUxbntLg+M1hp7h1fhbxSuArvMuskeiwc7q3lqTIPQijSNFwH8QMfsfOPfI5io3HWIWKuCBMoLXG4aKiga8xII6Zhp7JQy6YPq28YQUEEum5F1YZkwZOJfLdKT/C22zsk+62T4scIe4s2GT8AqIxG2f8kpOCQv+gOsnT2gS21LtGbpwoMys9pj41DcGQcxrPqbRBfkeGHVoBVaVGySdiijRMu5oSmB2A+3CH0JJNFGvIPyUdHYOC2lXwYnYIx/iEhZnEUmqqSAUwgD6D5gJJuxlivtVllTKvlR1Q==;tFwUiF0rGrJnNh6ievje8w=="
 ---

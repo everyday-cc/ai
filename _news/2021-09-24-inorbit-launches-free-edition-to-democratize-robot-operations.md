@@ -33,17 +33,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Knowles Launches Raspberry Pi Development Kit to Enable Voice Integration for New IoT Applications and Industries"
-    excerpt: "Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones and speakers, audio processing, and precision device  solutions, today announced the availability of the Knowles AISonic IA8201 Raspberry Pi Development Kit to bring voice,"
-    publishedDateTime: 2021-09-22T13:00:00Z
-    webUrl: "https://www.wallstreet-online.de/nachricht/14438000-knowles-launches-raspberry-pi-development-kit-to-enable-voice-integration-for-new-iot-applications-and-industries"
-    ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/14438000-knowles-launches-raspberry-pi-development-kit-to-enable-voice-integration-for-new-iot-applications-and-industries"
-    cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/14438000-knowles-launches-raspberry-pi-development-kit-to-enable-voice-integration-for-new-iot-applications-and-industries"
-    type: article
-    provider:
-      name: wallstreet online
-      domain: wallstreet-online.de
-    quality: 3
 
 secured: "5u9n9D8doqYZDBhdmrxL9AM6IxcSDlKR1588YB1zjvRVsV4Kepl3IIJom2eYJCD9FJONUmvI+qR85ALYiggMASUn8JnO0LlBWHFPQm2kJ8gdG6zJuKI4+6W6uZyVi9N9l9ZuHNBQihJdSrDMrHIuu9BA4olRyY0WmNg7XLekA/rki+22BY8r4sQPDtA+JcEMk96i3JWlsXlrAYHBPTncjuzxWL0k9Iuq+a8VGomk2S00xW6B1Icu7NFWflH4HhTFadb7ke83V6FR4X4fjILTguhUXMzLnFW+HDBdBvfnF0jO5MCyFKMJ0vFfIOKJAiNDZCCc/3/RTnDejb51EYUHoQ0IBnDxVqOYWthjpMfAWq4=;Vhaap4hhYpHzGdPabuZzTw=="
 ---

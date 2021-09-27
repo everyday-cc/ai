@@ -24,17 +24,6 @@ images:
     height: 489
     isCached: true
 
-related:
-  - title: "JR East scraps plan to identify past offenders with facial recognition camera"
-    excerpt: "In light of the Tokyo 2020 Olympics, major train company JR East upped their security game by installing facial recognition cameras at stations in an attempt to curb possible terrorism attacks. Using their database of images collected from JR East station surveillance cameras,"
-    publishedDateTime: 2021-09-26T21:19:00Z
-    webUrl: "https://japantoday.com/category/national/japanese-train-operator-scraps-plan-to-identify-past-offenders-with-facial-recognition-camera"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 16
-
 secured: "ecxnpJ2Zftfbg3WNLUW8lkxtLDDi5oMRSMt0r8X0/riXZQYWyfnW7FvJAJUfcWwF9wHYt7/vDUNG7nHkYKF+DyrnAD1pVpckOCw8Ztevo/LxEBsN+saShn22jMLi8EbLP0fABYxc4dO54rAhbuZM4vAbaS8ZB2OuGtKjHBH6YeI2F0jjP2RpwQE9QsDO3Z4ocfR1KcIxr9AxOIp7eY/CXmkqaDRfai/k70XBfFwKoM42n9fpPV5VoihWt6vUX3mbAm0jNL88YxBW/m8AOkn07kM4rVSC9Hz+6VgE7VN4KzkAkNYl7/Dc/WiThNeCEd68flUHbSrVeXi1FSMzeirBU6d7M5YV4lf8+7SaANNYp+c=;90Vc7oUFZFWg5mqW3rRbEQ=="
 ---
 

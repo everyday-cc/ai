@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/25/we-are-sleepwalking-into-ai-augme
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/25/we-are-sleepwalking-into-ai-augmented-work/amp/"
 type: article
 quality: 89
-heat: 114
+heat: 115
 published: true
 
 provider:

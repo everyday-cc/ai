@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Clearsense Acquires Plug-and-Play AI Analytics Firm"
-    excerpt: "Clearsense, an AI-powered data analytics platform company that translates healthcare data into highly consumable insights, today announced the acquisition of Compellon, a privately-held, plug-and-play AI analytics company based in Lake Forest,"
-    publishedDateTime: 2021-09-22T11:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/clearsense-acquires-plug-and-play-ai-analytics-firm-1030815362"
+  - title: "Artificial Intelligence (AI) Market May Double its Market Size by 2021 : Amazon, Intel, Nvidia"
+    excerpt: "Latest published market study on Global Artificial Intelligence AI Market provides an overview of the current market dynamics in the Artificial Intelligence AI space as well as what our survey respondents all outsourcing decision makers predict the market will look"
+    publishedDateTime: 2021-09-22T18:46:00Z
+    webUrl: "https://www.openpr.com/news/2403287/artificial-intelligence-ai-market-may-double-its-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2403287/artificial-intelligence-ai-market-may-double-its-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2403287/artificial-intelligence-ai-market-may-double-its-market-size"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: openpr.com
+      domain: openpr.com
+    quality: 64
     images:
-      - url: "https://mma.prnewswire.com/media/1602054/Clearsense_Logo.jpg"
-        width: 400
-        height: 339
+      - url: "https://cdn.openpr.com/U/9/U922608424_g.jpg"
+        width: 450
+        height: 300
         isCached: true
 
 secured: "XhJRvgwJQgW85uatJPkyzDEsvjg4X7VIE37ylginq7oWRMxk1hziDm/qJFXma8oc733LUS5T2f0ohN5aqjgtFUrU/07Daka2t9910ao/ACmoDgYYD5WECZMOlEeH7IEQH74aHT05qgHYaQKQDw5lkqLVsInT67lj8jAbE7o1Y3iB9+Mj6rQvDNOlsPPpoJOnW0ovFjWyW2q3V79lDrYYUYqPA0tVmsKm2U9N4Wu2Od/PGcAh1eoH4+56X1EdWKjBn10TIHAkEesAu6UQ9jCJqCbFiFx+6hu+YxLjOy7bB9HBwIuj1pUAwcvpV+vXmW33xj9PzSP2Gf5IKWtVAT/Xstv2bYW7Vb063KPu88WX3oXfvMAFY57XseFU3yT12x7GEBaTs1ZDP1JTs3w8iEaAUr+XmCZt6Jmgjt/6Q4m/TERPHCphJNVw81NilNjQCc3C+HqXjljVBniCYqd3SHMJ6d/EsO/jcCtGbbnsVqS64obI5PijujpJoww1+HR0dLxJrdzphicl2oZlVCjGpqobrw==;LHtAkJ/1L352X7RwJhSG2g=="

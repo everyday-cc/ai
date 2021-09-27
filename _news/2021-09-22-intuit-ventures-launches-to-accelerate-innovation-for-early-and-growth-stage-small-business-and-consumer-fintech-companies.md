@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "BioInnovation Institute Creation House program announces intake of four innovative early stage start-up companies"
-    excerpt: "BioInnovation Institute (BII), an international commercial foundation with a non-profit objective incubating and accelerating world-class life science research, today announces that four companies have joined its Creation House program."
-    publishedDateTime: 2021-09-23T07:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-bioinnovation-institute-creation-house-program-announces-intake-four-/2021/09/23/9454917.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
   - title: "Intuit Ventures Launches to Accelerate Innovation for Early and Growth Stage Small Business and Consumer Fintech Companies"
     excerpt: "Intuit Ventures Launches to Accelerate Innovation for Early and Growth Stage Small Business and Consumer Fintech Companies"
     publishedDateTime: 2021-09-22T19:05:00Z

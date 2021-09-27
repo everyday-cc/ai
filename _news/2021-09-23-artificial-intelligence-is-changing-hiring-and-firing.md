@@ -24,120 +24,125 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Is Changing the Future of Digital Marketing"
-    excerpt: "Introduction According to a survey conducted by PwC, 72% of business leaders use AI for their business advantage. The"
-    publishedDateTime: 2021-09-22T12:04:00Z
-    webUrl: "https://www.business2community.com/digital-marketing/how-artificial-intelligence-is-changing-the-future-of-digital-marketing-02432101"
-    ampWebUrl: "https://www.business2community.com/digital-marketing/how-artificial-intelligence-is-changing-the-future-of-digital-marketing-02432101/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/digital-marketing/how-artificial-intelligence-is-changing-the-future-of-digital-marketing-02432101/amp"
+  - title: "Those Infuriating Drivers That Take Over The Left Lane And Prevent Passing Will Undoubtedly Be Stifling For AI Self-Driving Cars"
+    excerpt: "Left lane usage varies by state laws and many drivers get confused or purposely exploit loopholes and road rage results. Here's what will happen once we have AI-based self-driving cars."
+    publishedDateTime: 2021-09-24T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/amp/"
     type: article
     provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 76
+      name: Forbes
+      domain: forbes.com
+    quality: 60
     images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2021/09/corporate-management-strategy-solution-branding-concept-900x546.jpg"
-        width: 900
-        height: 546
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610ae7fa91d476847d9bda78%2F0x0.jpg%3FcropX1%3D141%26cropX2%3D4241%26cropY1%3D452%26cropY2%3D2781"
+        width: 1200
+        height: 682
         isCached: true
-  - title: "MAICON 2021 - marketer + machine = what? Assessing the impact of AI on marketing"
-    excerpt: "The presence of AI across our lives is tangible now - but what is the specific impact on marketing? That's the core topic at The Marketing AI Institute's MAICON event."
-    publishedDateTime: 2021-09-22T13:37:00Z
-    webUrl: "https://diginomica.com/maicon-2021-marketer-machine-what-assessing-impact-ai-marketing"
-    ampWebUrl: "https://diginomica.com/maicon-2021-marketer-machine-what-assessing-impact-ai-marketing?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/maicon-2021-marketer-machine-what-assessing-impact-ai-marketing?amp"
+  - title: "Drones, Self-driving Cars, and Everything in Between"
+    excerpt: "Pete Buttigieg first came on the scene as a small town Mayor in Indiana. He launched onto the national stage as a presidential candidate for the Democratic party in 2020. He now serves as Secretary of Transportation under the Biden administration,"
+    publishedDateTime: 2021-09-22T20:55:00Z
+    webUrl: "https://techcrunch.com/video/drones-self-driving-cars-and-everything-in-between/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 69
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2019-08/woman-and-algorithm.jpg"
-        width: 1277
-        height: 847
-        isCached: true
-  - title: "AI Infrastructure Market Poised to Garner Maximum Revenues During 2028"
-    excerpt: "Introduction. The key factors fueling the AI infrastructure market incorporate expanding popularity of cloud AI stage, heightening demand regarding AI eq"
-    publishedDateTime: 2021-09-27T02:43:00Z
-    webUrl: "https://manometcurrent.com/ai-infrastructure-market-poised-to-garner-maximum-revenues-during-2028/"
-    ampWebUrl: "https://manometcurrent.com/ai-infrastructure-market-poised-to-garner-maximum-revenues-during-2028/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-infrastructure-market-poised-to-garner-maximum-revenues-during-2028/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 57
-    images:
-      - url: "https://cdn.openpr.com/S/b/Sb07945017_g.jpg"
-        width: 560
-        height: 315
-        isCached: true
-  - title: "An NFT art world where machine learning AI is holding the paintbrush"
-    excerpt: "In a world first, three community-made digital art NFTs generated by AI machine learning algorithms will be taken to auction on OpenSea by leading British blockchain innovators Fetch.ai (FET). The auction ends on September 27."
-    publishedDateTime: 2021-09-24T10:50:00Z
-    webUrl: "https://coinrivet.com/ja/an-nft-art-world-where-machine-learning-ai-is-holding-the-paintbrush/"
-    type: article
-    provider:
-      name: Coin Rivet
-      domain: coinrivet.com
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 54
     images:
-      - url: "https://d1mjtvp3d1g20r.cloudfront.net/2021/09/17143243/CoLearnPaint.jpg"
-        width: 1709
-        height: 995
+      - url: "https://img.vidible.tv/prod/2021-09/21/614a00878d2a440b0abbd474/614a014656a7033202b011c6_o_U_v1.jpg?w=640&h=360"
+        width: 640
+        height: 360
         isCached: true
-  - title: "Axle.ai, the Search Engine for Internal Media Files, is Equity Crowdfunding to Make Video Editing Simpler"
-    excerpt: "BOSTON, MA / ACCESSWIRE / September 23, 2021 / How do you raise funds for a cutting-edge innovative tool that saves 30% of video editing time?"
-    publishedDateTime: 2021-09-23T08:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/axle-ai-the-search-engine-for-internal-media-files-is-equity-crowdfunding-to-make-video-editing-simpler-1030818742"
+  - title: "Two Drivers Argue On California Freeway About Collision And Get Deadly Struck By Passing Car, Providing Somber Lessons For AI Self-Driving Cars"
+    excerpt: "Sadly, two drivers stood outside their wrecked cars on the freeway and were subsequently sideswiped by another passing car. This provides insights about the advent of AI self-driving cars. Here's the close look."
+    publishedDateTime: 2021-09-22T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/22/two-drivers-argue-on-california-freeway-about-collision-and-get-deadly-struck-by-passing-car-providing-somber-lessons-for-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/22/two-drivers-argue-on-california-freeway-about-collision-and-get-deadly-struck-by-passing-car-providing-somber-lessons-for-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/22/two-drivers-argue-on-california-freeway-about-collision-and-get-deadly-struck-by-passing-car-providing-somber-lessons-for-ai-self-driving-cars/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
+      name: Forbes
+      domain: forbes.com
+    quality: 53
     images:
-      - url: "https://www.accesswire.com/users/newswire/images/665173/ITKVTOdB4nZn5HpNJNoJKlHDkSvYGQ0Zfy9kZueSb3XriFLG5M8zTvMJExxwIePyEPMmluHJNwB2JgkDRYRLA2uCQHnzMy_fGuegPD1tjkXjj6KFsPBLSizUA9_Q3lzhL8ll23wU=s0.jpg"
-        width: 2048
-        height: 1355
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61413cc0c4c126282f7979ce%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1730%26cropY1%3D27%26cropY2%3D1181"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "How AI Is Transforming The Software Development Process"
-    excerpt: "There are several ways artificial intelligence (AI) is transforming the software development process. According to recent reports, the worldwide artificial intelligence market is projected to reach over $340 billion this year."
-    publishedDateTime: 2021-09-24T14:41:00Z
-    webUrl: "https://www.techzone360.com/topics/techzone/articles/2021/09/24/450084-how-ai-transforming-software-development-process.htm"
-    ampWebUrl: "http://www.techzone360.com/topics/techzone/articles/2021/09/24/450084-how-ai-transforming-software-development-process.htm/amp"
-    cdnAmpWebUrl: "https://www-techzone360-com.cdn.ampproject.org/c/www.techzone360.com/topics/techzone/articles/2021/09/24/450084-how-ai-transforming-software-development-process.htm/amp"
+  - title: "California makes zero-emission self-driving vehicles mandatory by 2030"
+    excerpt: "California will require all light-duty self-driving vehicles to emit zero emissions starting in 2030. Governor Gavin Newsom signed into law a bill sponsored by environmental groups that would eventually prohibit gas and hybrid-powered autonomous vehicles from operating in the state."
+    publishedDateTime: 2021-09-25T05:50:00Z
+    webUrl: "https://inshorts.com/en/news/california-makes-zeroemission-selfdriving-vehicles-mandatory-by-2030-1632549035227"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/california-makes-zeroemission-selfdriving-vehicles-mandatory-by-2030-1632549035227"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/california-makes-zeroemission-selfdriving-vehicles-mandatory-by-2030-1632549035227"
     type: article
     provider:
-      name: Tech Zone 360
-      domain: techzone360.com
+      name: Inshorts
+      domain: inshorts.com
+    quality: 44
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/09_sep/25_sat/img_1632546759149_925.jpg?"
+        width: 1080
+        height: 1748
+        isCached: true
+  - title: "‘Self-Driving’ Cars Begin to Emerge from a Cloud of Hype"
+    excerpt: "The term “self-driving” has lost its original intended meaning because the driving assistance feature on the cars that have been labeled “full self-driving” cannot maneuver without constant human supervision,"
+    publishedDateTime: 2021-09-25T14:09:00Z
+    webUrl: "https://www.scientificamerican.com/article/self-driving-cars-begin-to-emerge-from-a-cloud-of-hype/"
+    ampWebUrl: "https://www.scientificamerican.com/article/self-driving-cars-begin-to-emerge-from-a-cloud-of-hype/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/self-driving-cars-begin-to-emerge-from-a-cloud-of-hype/?amp=true"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 44
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/315BB2AC-9758-418B-A7808363D6F29820.jpg"
+        width: 790
+        height: 496
+        isCached: true
+  - title: "Royal Air Force Starts Testing Self-Driving Vehicles on Its Airbases"
+    excerpt: "As part of the Royal Air Force's Astra campaign, the Academy of Robotics and the Royal Air Force teamed up to launch a new trial deployment of self-driving vehicles on an airbase. This trail marks the first time the RAF has deployed autonomous vehicles on a UK airbase."
+    publishedDateTime: 2021-09-24T00:36:00Z
+    webUrl: "https://www.autoevolution.com/news/royal-air-force-starts-testing-self-driving-vehicles-on-its-airbases-170115.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 39
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/royal-air-force-starts-testing-self-driving-vehicles-on-its-airbases-170115_1.jpg"
+        width: 2560
+        height: 1293
+        isCached: true
+  - title: "AI Is Penalizing Amazon Delivery Drivers for Errors They Aren’t Making"
+    excerpt: "Amazon drivers are being penalized for driving mistakes they aren't making, and it's costing delivery companies a great deal of money."
+    publishedDateTime: 2021-09-22T13:20:00Z
+    webUrl: "https://www.extremetech.com/extreme/327317-ai-is-penalizing-amazon-delivery-drivers-for-errors-they-arent-making"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
     quality: 37
-  - title: "9. AI Is the Friend You Didn’t Know You Already Made"
-    excerpt: "Artificial intelligence (AI) is more than just a buzzword. AI is powering many of the systems and apps we use every day. But what do lawyers think of it? The attitudes fall into two groups. One group really understands what AI is and believes it has a key ..."
-    publishedDateTime: 2021-09-24T17:09:00Z
-    webUrl: "https://www.law.com/lean-adviser/2021/09/24/9-ai-is-the-friend-you-didnt-know-you-already-made/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/419/2021/09/terminator2.jpg"
-        width: 620
-        height: 349
+      - url: "https://www.extremetech.com/wp-content/uploads/2019/09/Rivian_Amazon-cityscape-truck.jpg"
+        width: 1344
+        height: 743
         isCached: true
-  - title: "Activating the Voice of the Customer in the Digital Age"
-    excerpt: "Leveraging best-in-class AI technologies, A*STAR spinoff INTNT.AI has remarkably boosted chatbot customer satisfaction by three times for financial services companies. Manuel Ho, CEO of INTNT.AI explains why he's so passionate about a customer experience future powered by understanding buyer intent."
-    publishedDateTime: 2021-09-25T08:41:00Z
-    webUrl: "https://menafn.com/1102861408/Activating-the-Voice-of-the-Customer-in-the-Digital-Age"
+  - title: "Nuro is an Artificial Intelligence-based startup that creates self-driving cars, named R2."
+    excerpt: "Nuro is an Artificial Intelligence (AI)-based startup that develops self-driving cars called R2 that are based on robotics and AI. It's energy-efficient, battery-powered, and self-contained. Nuro's vehicle is an on-road vehicle that carries goods quickly,"
+    publishedDateTime: 2021-09-23T10:00:00Z
+    webUrl: "https://www.analyticsinsight.net/nuros-artificial-intelligence-strategy-on-r2-a-self-driving-car/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 31
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?14113"
-        width: 375
-        height: 250
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Artificial-Intelligence.jpg"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "Jc0Lakb+RfrDmRJBgj5FkyFxqeY+2j9klZDPlTMB4toxqYbJImMQNPVd7p8jEqmz3T7lDPTCGVGuUzM3lsClAK9ABa1FM4iuj8Bz6t5IB5iv6jZOmiNuI16cPkBcWW54TvTCTWvI1oovpiciV1NTtEViRkKrdd7w/IK64bAW7bb8+qL6aaxsqVJBLExK2PbE4pRFhjQ1U1U4VR6s/I1XhrqYqnLAedggTu/wfNGr4h/CU0zlslx/5CQewP93+tNTiMePS8vi9ey4xc1PbBZzxCuisgsrW6TAutEefwdZN0g6uQiLIhn2Ct0mTDdBd680JpcRmGabzcq8jow0j1U+430hh0UuPxxD0nLWe1IUwODxWAFPQXO1uBKlw3n2Xhwj071yCydq2YTzmoLx3Zs9aeokr+dnN6f252eL7oGJgoGJJ+j8lNP+iO28rH6cdH0c9iL52pxe2XzDlQtZQDxNAYgZCpb68GcuG0LhCrdmUHkXW037svGQDFl5U/mHxBkGzhvPkWKEUksrqyE6TgeKxQ==;d6SaHlXCXliU8kYbLU7N3Q=="

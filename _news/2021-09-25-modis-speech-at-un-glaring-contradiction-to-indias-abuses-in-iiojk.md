@@ -57,6 +57,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "50 Most Influential AI Leaders In India – 2021"
+    excerpt: "Analytics India Magazine brings to you its annual list of the 50 Most Influential AI Leaders In India for the year 2021. Selected on the basis of the expertise they hold in the field of AI and Data Science,"
+    publishedDateTime: 2021-09-27T05:28:00Z
+    webUrl: "https://analyticsindiamag.com/50-most-influential-ai-leaders-in-india-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/50-most-influential-AI-Leaders-.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
 
 secured: "dWVLNUbGXAnGTzlOl8gEU9AZM9vJPp2wrDK2K9jlVP2V3CmOHaby+9La0AGtQ18Cvnc0rOBjtPwpN1DFdfCd2LqHXcKfYshStG63/vqRAMKuDEQ6zcQOX2aeLT51x27lrgywtWmjL3F0dNJOA5A/b2Pb/68Zk6Jut3AxDXSUdEKSTmKvDzLs+gZFM2LdyLq3RmeZ+qxaFODFB4cCJ1X+QYdu8Cg2JEB6rR9mOGyOUwViyZl3VE5q1QuwM7ELcT/eTJ316Qo2YeBsXgd8NahiNvp3ayhevJpXgL5K6BSI/APn3M+QSg29nrNFCKobWPZRr1PSJy5siiMoE9whXzWEUCpbQF5VaeGHc4hNDkQ0qfjdbJMQwdXyM8k0M/38BnOW/DgNoZdQsilgDnGrBxJFWNwOIEjUlCGk9GOMTgJoTl5tGCQTPfxCpAXkL0bKC5+6Yr4fH3sN0lQF8BDXzxBru7/YPPcmuPH6TPmtdDyUlJjcUFaMhNWOXP3ZJmVJg8n8ZzJnX/a+nLOhFmm1tpXDMA==;iVVza4qvM0LoV3CHabBVkQ=="
 ---

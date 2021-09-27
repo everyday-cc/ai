@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/23/how-cloud-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/23/how-cloud-migration-and-ai-can-help-reduce-carbon-footprint/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "How artificial intelligence can help prevent heart disease misdiagnosis"
+    excerpt: "the health care provider or both. Pittsburgh-based company HEARTio seeks to prevent misdiagnoses by applying artificial intelligence to the diagnostic process. “These people [doctors and nurses ..."
+    publishedDateTime: 2021-09-27T05:58:00Z
+    webUrl: "https://cyprus-mail.com/2021/09/27/how-artificial-intelligence-can-help-prevent-heart-disease-misdiagnosis/"
+    type: article
+    provider:
+      name: Cyprus Mail
+      domain: cyprus-mail.com
+    quality: 39
+    images:
+      - url: "https://cyprus-mail.com/wp-content/uploads/2021/09/heart-disease-AI-prevention.jpg"
+        width: 1352
+        height: 892
+        isCached: true
 
 secured: "AalPKWqY8xP9feY5DqtqUPbmSoMz9XqOu4JrV5OmSYr4vtsERKqINLvgxs9tz5e+1zSM9H8BCPlmO6H+9LvnmWG6KD8Ish8rger8EpikFk4LN4oYqXxyvtlabSVVCwduMBv24ZnfN6vvEa+J9734adE+9KTzWvGXC+UuKdPSv6MELCRg+b8jaNfIrI2HP3DK6CRIpBG2OuU42Jb8JnbTjAP8U7jVbCyBrhL2aQVlF7n8KFyAolP4ThhyEcWeSUG8sUtefRxzBnulYJ513FOWS2b945bqUHm7AouwY2W/a/OXuC/1G3HNVaiEeuBHYVmbOKFn/7TiTeqvxz4mL3N3xXbHjy+As2Dv+aGu1zJj97HR4ds5N/pAB3rUOVfbeqo5Z3yXrTE+fYmvvNeirOpgyiWgqds4jv4vY/TY4H2LIPBcg/9y9YSvHo/SiBdBNXFg4EFSYj7Sed5AdqGlXAmpGod6baNJYkx2pQyEVeeO20IaVLtUWcaJb697ptBvE+VpGYRPiY6orDuiBTAhPBD8gw==;u+X5EnWYXRRFMwXH9RDVvA=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.engadget.com/2015-09-24-ibm-watson-san-francisco.html"
 webUrl: "https://www.engadget.com/2015-09-24-ibm-watson-san-francisco.html"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Engadget
@@ -27,19 +27,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "AI In Medical Imaging Market to witness Massive Growth by 2027-GE Healthcare, IBM Watson Health, Philips Healthcare, Samsung"
-    excerpt: "According to the new AI In Medical Imaging market research report 2021-2027 is easy to understand the detailed analysis. The report published by Market Insights Reports represents the context of current and future trends driving global AI In Medical Imaging market growth."
-    publishedDateTime: 2021-09-22T12:07:00Z
-    webUrl: "https://www.openpr.com/news/2402723/ai-in-medical-imaging-market-to-witness-massive-growth-by-2027-ge"
-    ampWebUrl: "https://www.openpr.com/amp/2402723/ai-in-medical-imaging-market-to-witness-massive-growth-by-2027-ge"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2402723/ai-in-medical-imaging-market-to-witness-massive-growth-by-2027-ge"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
 
 secured: "71s6NMDrsBO0UmFjfrKyrVoxP4w+3lnUwNQ6NDlRqSVlaxVwVHPrKvrU4aEosa5jjFqAjlpJCgUzGzFAMtR8wMYkUpWwSlSVuq1mYvYO89OryMuLm3BjbEN5fXyDfEz/U8Qws27IMIvyQqXIIY5+FCNxfqzg25QbSGbmylr5x7lsYvn6DJH2hu2uMHYKs4PGq+pl0f56bN/KCRHZNVXltsbG20uvhasEw+ix0YY/yZ6QK3unmSpqQWaffOavJcrzwXAw7zbYeDIYs4rQnpYWZtIyF/CzVdmT3IjCD+6u5YmQF5HTBjNsACWTb91JVLzO3ETo3uRfpHi7DaeBwsaTQRpi9G54jgQjv4o/jMM+PP8=;/56e59ffku7IPfT+1yhOJg=="
 ---

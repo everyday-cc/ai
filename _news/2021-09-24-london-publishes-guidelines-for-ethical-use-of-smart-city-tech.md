@@ -21,6 +21,22 @@ topics:
   - AI
   - AI Ethics
 
+related:
+  - title: "London is buying heaps of facial recognition tech"
+    excerpt: "The Metropolitan Police is buying a new facial recognition system that will supercharge its surveillance technology capabilities"
+    publishedDateTime: 2021-09-27T05:00:00Z
+    webUrl: "https://www.wired.co.uk/article/met-police-facial-recognition-new"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 39
+    images:
+      - url: "https://media.wired.co.uk/photos/606daa29646b991cdbf60056/16:9/w_1280,c_limit/cctv2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
 secured: "hGi+nlf34/EipOJG9naJMlzXYDLTV89xfbgB55UPDraVrsXwzmdJBIcFcEaPKcd8bhg39QAIWjB0WB5+kMBRAMdVkwnsYofzZCjFU+AYWlrH/1g4TFexQcMQWjH8tl2OFj4gq4o3TxQtV+GAC3SW5sbvpZdYtD1KYtTmGZCE2RJAUAQCWZoPENpIFyWB+F8Exz9Wy+ZLIYf/WsjJ5VDoFNIRGAa7A8ltimMDQ2zi/c529alI1HK0jrWlb2GyQ/PHFQhNimjA2NwaMMxWCdLT+telcKuP3utZ3gKPBYxAYv2FTptlJTqLPwFS98bmYpR7ypxM/cVeni9QGacENxGuO4TUbi638qpSorbs/SMRooaVX/F38bgYVOB3i+owmIp/dfIwq4TprS0fF56197/B1uNKwmRtxShXSizVbI7PhU3VbXUuAeA7E2954SCiiz25E66igwBjDz5cvPncsl9ccmRbN+IsfSkHnppRuNApyGKA301T5rKtra1EIFNBxB8KulkPySQougerIt0dnMVZuw==;vNka5NwdQzISYJmLlXWbhA=="
 ---
 

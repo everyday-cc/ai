@@ -7,7 +7,7 @@ originalUrl: "https://www.greencarcongress.com/2021/09/20210924-momenta.html"
 webUrl: "https://media.gm.com/media/cn/en/gm/news.detail.html/content/Pages/news/cn/en/2021/Sept/0923-gm.html"
 type: article
 quality: 115
-heat: 295
+heat: 285
 published: true
 
 provider:
@@ -270,15 +270,6 @@ related:
         width: 800
         height: 425
         isCached: true
-  - title: "Embark Announces Advisory Board to Accelerate the Commercialization of its Self-Driving Technology"
-    excerpt: "Embark Trucks, Inc., a leading developer of autonomous technology for the trucking industry, today announced the formation of its strategic advisory board, a committee of distinguished trucking and supply chain executives that will guide Embark's rapid business expansion."
-    publishedDateTime: 2021-09-22T11:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-embark-announces-advisory-board-accelerate-commercialization-its-self-/2021/09/22/9454053.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "4JiUh1RcWN1/hsdbKNpG3GFun+DNP2PcUEh1I56vKI/rbMoMr7khGCcnCcsRYGxgalBGL4nyACNy86qoMIdUxd+fIBZvEHUkq5p5RPYcAk09CFt+bHWODYYcRweuI9Ce7VVEIF1ILL9CgIYdZa+DRUL0yLC43rYLtH903HfGuflpDn49Phb9p8oGYl98znTPcuW1IYWUdKVoYgEN8L0G469eABMHzgzPkvRX9rUMGw6HkhA2JToR4Fg8UxhvfOdRQ3RzoKSbuZGRzNvGNZB14Q9qbemA1urbv5MP6CRJqWptJFO4tQIdehG30Ol8Smj7rEpdOx+f89s0vnwzd6qivqIrj1O1vQaNt8XrcpBWfs3A93G5v8vkSC457NeWRtPeih+C/FY3xO0WLBf7MM9WbXLn9d6gjatbMroKndwzezuXSJnGczaNk/HkFb//Kyfep/8EjVy2TG5pdwBMRknvSrk6pcyzXR2rm9yHEie2Q1MDaRAZ1Omtx+Bqc2AeDtbWb0SpPaldmcX9UKy4rsWCZ/DfW6JaihMEzYbpygqFRUc=;VPYyrkEMeCETmT8Xhl8hsQ=="
 ---

@@ -89,6 +89,22 @@ related:
         width: 1023
         height: 887
         isCached: true
+  - title: "Tesla rolls out Full Self Driving beta request button for owners"
+    excerpt: "US National Transportation Safety Board Chair Jennifer Homendy expressed safety concerns after Tesla rolled out the Full Self Driving (FSD) beta request button..The FSD beta is an unfinished version of the company's premium driver-assistance software."
+    publishedDateTime: 2021-09-27T04:42:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/tesla-rolls-out-full-self-driving-beta-request-button-for-owners-41632715060103.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/tesla-rolls-out-full-self-driving-beta-request-button-for-owners/amp-41632715060103.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/tesla-rolls-out-full-self-driving-beta-request-button-for-owners/amp-41632715060103.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 74
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/09/27/600x338/2021-08-16T184505Z_1_LYNXMPEH7F10O_RTROPTP_3_TESLA-MOTORS-AUTOPILOT_1632452498622_1632717502544.JPG"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Tesla drivers can now request Full Self-Driving Beta with the press of a button, despite safety concerns"
     excerpt: "Tesla rolled out a long-awaited software update late Friday that allows customers to request access to its controversial, Full Self-Driving Beta (FSD) program. Drivers who get a high safety score from Tesla will get access."
     publishedDateTime: 2021-09-25T20:28:00Z
@@ -259,6 +275,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla to outsource its self-driving chip to Samsung"
+    excerpt: "It is reported that Tesla has decided to outsource its self-driving chip manufacturing to Samsung Electronics. According to the industry on the 24th, Samsung Electronics is reportedly likely to win orders for manufacturing of the HW 4."
+    publishedDateTime: 2021-09-27T04:58:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271318218/tesla-to-outsource-its-self-driving-chip-to-samsung"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 56
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1632718804.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Tesla's 'Full Self Driving' request button goes live"
     excerpt: "Electric vehicle Tesla users who wish to take part in the company's Full Self-Driving (FSD) Beta programme could no"
     publishedDateTime: 2021-09-26T07:42:00Z
@@ -329,6 +359,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tesla to outsource its self-driving chip to Samsung Electronics"
+    excerpt: "It is reported that Tesla has decided to outsource its self-driving chip manufacturing to Samsung Electronics. According to the industry on the 24th, Samsung Electronics is reportedly likely to win orders for manufacturing of the HW 4."
+    publishedDateTime: 2021-09-27T05:16:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/World/20210927/3826878.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 36
   - title: "Tesla Releases Latest Version of 'Full Self Driving Capability,' but It Requires Owners to Pass a Safety Test"
     excerpt: "With the release of the beta version of Tesla's Full Self-Driving Capability, Consumer Reports says the required seven-day driver evaluation underscores the system’s own limitations."
     publishedDateTime: 2021-09-25T19:46:00Z

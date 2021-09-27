@@ -34,17 +34,6 @@ related:
       name: Robotics Tomorrow
       domain: roboticstomorrow.com
     quality: 19
-  - title: "Knowles Launches Raspberry Pi Development Kit to Enable Voice Integration for New IoT Applications and Industries"
-    excerpt: "Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones and speakers, audio processing, and precision device  solutions, today announced the availability of the Knowles AISonic IA8201 Raspberry Pi Development Kit to bring voice,"
-    publishedDateTime: 2021-09-22T13:00:00Z
-    webUrl: "https://www.wallstreet-online.de/nachricht/14438000-knowles-launches-raspberry-pi-development-kit-to-enable-voice-integration-for-new-iot-applications-and-industries"
-    ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/14438000-knowles-launches-raspberry-pi-development-kit-to-enable-voice-integration-for-new-iot-applications-and-industries"
-    cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/14438000-knowles-launches-raspberry-pi-development-kit-to-enable-voice-integration-for-new-iot-applications-and-industries"
-    type: article
-    provider:
-      name: wallstreet online
-      domain: wallstreet-online.de
-    quality: 3
 
 secured: "Nl87e61xcHq4x0UDfq/BE2TxxDWwSDjtMZuDqNhNSpPjbReO5YlTSFxb6LACvmzGTtuFvmVfDrSCSZDscwXyuao35nf2dR+2Qx9kQuRoDjGuwCOIzCk7oUYetMly1EuKG+MsC+nAp9a8mw+iHeyCkHwKLewn6C4ScwdXzWEzP4ekNPXdr+VhNE4p76Dv46WMYm8tdxa3NG4Q0QurNYUo+hWyB3GQBjCphzY7voM7XjWolbO6tmZs5bn/9pdnwJpKpnjYsmAE2Ww0fUYhqOSaWsgMjd+AeLY8d7TD+UlNQa8/YrsXMyDODJPck5EGEdBpu1fNRbljnqEtzX1OtIhhFwdZSlSfYr5o9oQ39yVUAGU=;Z7KV9aZ0050vJneExQG2Kg=="
 ---

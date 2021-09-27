@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "RAF trialling self-driving cars to free up personnel from mundane jobs"
-    excerpt: "The self-driving, zero-emissions Kar-go has been developed by the Academy of Robotics and is being trialled on RAF Brize Norton in Oxfordshire"
-    publishedDateTime: 2021-09-22T12:41:00Z
-    webUrl: "https://www.mirror.co.uk/tech/raf-trialling-self-driving-cars-25045046"
-    ampWebUrl: "https://www.mirror.co.uk/tech/raf-trialling-self-driving-cars-25045046.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/tech/raf-trialling-self-driving-cars-25045046.amp"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 44
-    images:
-      - url: "https://i2-prod.mirror.co.uk/tech/article25044947.ece/ALTERNATES/s615/0_raf1.jpg"
-        width: 615
-        height: 409
-        isCached: true
   - title: "California makes zero-emission self-driving vehicles mandatory by 2030"
     excerpt: "California will require all light-duty self-driving vehicles to emit zero emissions starting in 2030. Governor Gavin Newsom signed into law a bill sponsored by environmental groups that would eventually prohibit gas and hybrid-powered autonomous vehicles from operating in the state."
     publishedDateTime: 2021-09-25T05:50:00Z
@@ -132,6 +116,20 @@ related:
       - url: "https://www.extremetech.com/wp-content/uploads/2019/09/Rivian_Amazon-cityscape-truck.jpg"
         width: 1344
         height: 743
+        isCached: true
+  - title: "Artificial intelligence is changing hiring and firing"
+    excerpt: "\"While AI is becoming mainstream technology in the workplace, discrimination-by-algorithm must not,\" Keith A. Sonderling writes."
+    publishedDateTime: 2021-09-23T13:42:00Z
+    webUrl: "https://bangordailynews.com/2021/09/23/opinion/contributors/artificial-intelligence-is-changing-hiring-and-firing/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 37
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/09/OPART23.jpeg"
+        width: 1024
+        height: 696
         isCached: true
   - title: "Nuro is an Artificial Intelligence-based startup that creates self-driving cars, named R2."
     excerpt: "Nuro is an Artificial Intelligence (AI)-based startup that develops self-driving cars called R2 that are based on robotics and AI. It's energy-efficient, battery-powered, and self-contained. Nuro's vehicle is an on-road vehicle that carries goods quickly,"

@@ -56,6 +56,15 @@ related:
         width: 960
         height: 630
         isCached: true
+  - title: "NVIDIA invites devs to test their DLSS on NVIDIA's own supercomputers"
+    excerpt: "NVIDIA is inviting developers to test its latest builds of DLSS on their supercomputer, provide feedback for future improvement."
+    publishedDateTime: 2021-09-27T04:10:00Z
+    webUrl: "https://www.tweaktown.com/news/81827/nvidia-invites-devs-to-test-their-dlss-on-nvidias-own-supercomputers/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 4
 
 secured: "ZLgTIf8Bq+AANSWGDSTuHHhH/yCteJ6vOqhAX7HFgotEDjpaRBzI6M8K91kfaKmhY9vkhbTLMF4jsZGsOItiAK5mi/XTZ6flcpA9SR/pUPDMkPj99FIrXxHbeyWWb2U4g7PdsWcDXGXMy2KFQeU+0lOCoBgHS/pBZJ1CXowWzNn0ZYcwzzoANK1x4q8J5BPGbCA2Oq/HcQCrncfz7Dlf4q07FVsvk74WBMBLPsAr0bcNbJpvprTA+14ZquYw0vNacoHrbcwgHQ0/Z7pCTi8W894WeulPDvj+sOddZMaZKHVj01t/qr1P/TwsO50pelebiiLQDr1t/CbAr1bzJocI5Dt/VpI2hZ+LDEEzYoLEA0g=;KiQ+jHIAtDUsIa/MicKWUw=="
 ---

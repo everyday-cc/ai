@@ -70,20 +70,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 21
-  - title: "Global Artificial Intelligence -Based MRI Market 2021:Share,Future Trends,Revenue,Statistics,Forecast 2027"
-    excerpt: "Artificial intelligence-based MRI market is expected to gain market growth in the forecast period of 2020 to 2027. Data Bridge Market Research analyses the market to grow at a CAGR of 6.30% in the above-mentioned forecast period."
-    publishedDateTime: 2021-09-22T12:45:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2021-09-22/global-artificial-intelligence-based-mri-market-2021share-future-trends-revenue-statistics-forecas"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 21
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
 
 secured: "S3xkXx9SvKBlVBaKw4vhxcDCCtEBgCoteBcR9ZRnIJfhZ3ktD56J47kOihvdQP6AaxSZfVdPhverC2CMc7xvGilPPzJsskIRrreVmdmoioaONUpZfNgcZFP69RVMVklaHAROSR47yIoLBZZ14RC0Ur7HvSzR5kJaESAmgHqMRinZFOBo/f48FE/dF9DMx11sXcDMCXaceZTz9qOE1ujy+whL1U6xrZeLl/jVT8keq5FQcQ1FwxolpQhKBquUUcr+AekC7DpaKqRsy75LC8Ludxqg9jTFV4Y1AYuL0fQXNMAxO8EPADogklVdMupgtqzLY2KKdn5/RCieg1KvGdoAZBGTvUMvT2K8z5WpL5FqbOQ=;oPhKlQg1jCT7yJcba+7sbA=="
 ---

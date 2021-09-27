@@ -270,15 +270,6 @@ related:
         width: 800
         height: 425
         isCached: true
-  - title: "Embark Announces Advisory Board to Accelerate the Commercialization of its Self-Driving Technology"
-    excerpt: "Embark Trucks, Inc., a leading developer of autonomous technology for the trucking industry, today announced the formation of its strategic advisory board, a committee of distinguished trucking and supply chain executives that will guide Embark's rapid business expansion."
-    publishedDateTime: 2021-09-22T11:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-embark-announces-advisory-board-accelerate-commercialization-its-self-/2021/09/22/9454053.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "/Z7LZG1AWHOFcMcINPqZPXKG5kFW02jqs+k9uZb/ppIlDZwNA6rdEq4v6hnLjgnJ5kBY5DHN9YLPi1gAO4L5JOunwwkN0FVrtkuPQOFBbRIwcKX+al2hdL7AUvFTDW23YLusyqK9kq9Gpu6nKrO6/yOe8VTQuXub3lz+eLc7chiPpfKYGQM2Qj4H7Ns11X+44qRvugrNm8E2Ulj2QEK04uUzBrXd97SjNya+6BDyWqbq1h3JkGqGvGuh+DTDz1jRKPOw4HysUXlUj4ftb4K2GP0pjGnSmoDToKF9jkasZgFukOAUnedXRX/JrHl3K4uDOz3GibyKKh3kVLhzjO44mLZJtCQBDZvj+QL1fYo+AzTUNhdRHOZ9yGF4Ll74jZTgwU8IuZYpwYmuZuz+rYhLwQJmFb5QWFQLxNoVMNh968likvYH/j2zNWalgwUfJEc9swJHaZAq0bQvo2Ts/bxcChHEKKyD8T1ghAcp9/fN6/EU1BKkB2+D6GnQZYRgFVXHIRL9LFFDePldsh2Htm8Y+A==;gVF23Cw/S6p/UxBk99G/RQ=="
 ---

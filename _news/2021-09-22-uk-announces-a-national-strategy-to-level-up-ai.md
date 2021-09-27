@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/22/uk-announces-a-national-strategy-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/uk-announces-a-national-strategy-to-level-up-ai/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2019-11/AAE94690-8272-4B0C-B0F8-0BD74D98E409.jpeg"
         width: 640
         height: 384
-        isCached: true
-  - title: "The UK has launched its first National Artificial Intelligence Strategy"
-    excerpt: "The Government has outlined a 10-year artificial intelligence strategy in a bid to make the UK a global science superpower. Info here."
-    publishedDateTime: 2021-09-22T11:48:00Z
-    webUrl: "https://theguideliverpool.com/the-uk-has-launched-its-first-national-artificial-intelligence-strategy/"
-    type: article
-    provider:
-      name: theguideliverpool.com
-      domain: theguideliverpool.com
-    quality: 39
-    images:
-      - url: "https://theguideliverpooldo.ams3.digitaloceanspaces.com/2021/09/shutterstock_1022667853.jpg"
-        width: 1000
-        height: 667
         isCached: true
   - title: "UK Government publishes National AI Strategy"
     excerpt: "This week, the UK Government has announced its Artificial Intelligence (AI) strategy, outlining plans to address the long-term demands of the AI ecosystem. The strategy emphasises the importance of ensuring that the UK gets the national and international governance of AI technologies right in order to encourage innovation,"

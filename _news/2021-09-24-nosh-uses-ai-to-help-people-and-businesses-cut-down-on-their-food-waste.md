@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/23/nosh-uses-ai-to-help-people-and-bu
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/23/nosh-uses-ai-to-help-people-and-businesses-cut-down-on-their-food-waste/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Nosh uses AI to help people and businesses cut down on their food waste"
+    excerpt: "When founder Somdip Dey was a computer science masters student at the University of Manchester, his parents got in a terrible car accident. He"
+    publishedDateTime: 2021-09-27T04:31:00Z
+    webUrl: "https://businessghana.com/site/news/technology/247242/Nosh-uses-AI-to-help-people-and-businesses-cut-down-on-their-food-waste"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 37
+    images:
+      - url: "https://businessghana.com/site/img/../../cms/img/news/2021-09-24-16040802.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "AI1gy4iSoFXNIMnl5TND2VMbPFXB+FkGdtozZBTCfZhhlnQGDIZZeZKHrTEsSP6wPP9dKzTX96JlzznezhfDwV04N7Z/YsT4L3G/vX0lyWjpm8swf+HcOTFnjcy6STB9ZdnyH4DGvOxQc8Y3aqSzVfFNVE85Ko9YT2C9+4KI+dw+EvAMdbDyPN6pb64rmvYVQD4eFhbrHccCQ7VshZZPEnwfURqA7raNcC40jKzSTQ4011WQ+kS7eovI0dyhFcrqtsRqftKBItJNalleQv58fQ907Eln+bmUPy2VPSTwVunTYJ8rnY2qCBN8fgHGjDN8AEUjNCB4ZGCgdc8eokGJY5lcSoTwwPHL3IqWo63FkJhvVcF1GXSajEaz228l99DFzKUBEx2hHmGlG2+E5Pf1OYYkgVLS9y9b2HjVFnkdBFD+h0JuaPPOjyTzAR+8y00LLQhhYtihGo990DREjn5OyZRN961Clhh0dQKRN2m0fjT5DgWn998DndDJ8SkELss9POwYnw9c3HWj4z7hg5CjXw==;YLZzV/u5XKoec5vkfVYt/w=="

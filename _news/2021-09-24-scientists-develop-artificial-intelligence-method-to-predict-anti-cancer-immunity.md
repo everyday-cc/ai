@@ -73,15 +73,6 @@ related:
         width: 1000
         height: 1000
         isCached: true
-  - title: "Owkin and Cleveland Clinic develop artificial intelligence model that predicts liver cancer prognosis"
-    excerpt: "Owkin, a startup that deploys artificial intelligence (AI) and Federated Learning technologies to augment medical research and enable scientific discoveries, presented findings in Hepatocellular Carcinoma (HCC) with Cleveland Clinic at the 2021 European Society of Medical Oncology (ESMO) conference."
-    publishedDateTime: 2021-09-22T13:02:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/928984"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 4
 
 secured: "yQqwspv/n/obZEpnTnvc1OWgI5Rv0I5tVaMSHzDEZLPbrCNEjWhBxdZs+hmSvkuBJ5yJ0dNrYwJqzp0jevKGN6AS3fZy9LdDfmVGnlsLkZqk7Mc+ugGkRtFeIdTjUXvxsSzZqaT6xkQt/cBJugUEDoqb/CYhyT69AvPixCDNOFxLva+ubu7Lh72J4ppntC5nXhuPfaH9k3sfIb/tkQ12/RORFoEzenRyxTlxuZ2egaVCCTharSvRRPeNCjyRO7sGzwn73bePBGKpMh7ZB0zgsV9eD1/imkS403phoZfyBQTeVFdP/bbMnLIy4N9QTMox1vzLhLMIxIJMD+DU3NEUkjUGQI36ouD+hAfDjhrELWXqaSpYqlQQDOvc0mlyQOxYIaD0UnmrLTVtxxGy8MT/wXOkNAm9DTzmw05qKbbMCwzqakXpond+28YeuGR2ws9+/p1CR3hgVoRb7N/OkFr4NdxbFFLVcRstWRTPAzVZy/I5tYmkANtr1yk4tzmQaaQJNzm3DWeiclAGYroEId4fCw==;r0jouL8pR/geP81IFNgPOg=="
 ---

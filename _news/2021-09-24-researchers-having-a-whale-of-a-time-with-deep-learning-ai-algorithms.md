@@ -25,21 +25,65 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating AI And Machine Learning: 13 Techniques To Boost Business"
-    excerpt: "AI and ML technology can not only enable sales to save time and cut costs, but it can also complement the most important currency (ie. relationship management is a way that sales can actually act as a \"true business partner\")."
-    publishedDateTime: 2021-09-22T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/09/22/navigating-ai-and-machine-learning-13-techniques-to-boost-business/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/09/22/navigating-ai-and-machine-learning-13-techniques-to-boost-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/09/22/navigating-ai-and-machine-learning-13-techniques-to-boost-business/amp/"
+  - title: "Cellino is using AI and machine learning to scale production of stem cell therapies"
+    excerpt: "Cellino, a company developing a platform to automate stem cell production, presented today at TechCrunch Disrupt 2021 to detail how its system, which combines A.I. technology, machine learning, hardware,"
+    publishedDateTime: 2021-09-22T17:53:00Z
+    webUrl: "https://techcrunch.com/2021/09/22/cellino-is-using-ai-and-machine-learning-to-scale-production-of-stem-cell-therapies/"
+    ampWebUrl: "https://techcrunch.com/2021/09/22/cellino-is-using-ai-and-machine-learning-to-scale-production-of-stem-cell-therapies/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/cellino-is-using-ai-and-machine-learning-to-scale-production-of-stem-cell-therapies/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 98
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614a4135356eea08aca69f7b%2F0x0.jpg"
-        width: 1200
-        height: 1015
+      - url: "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1133641491.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "And the winner of Startup Battlefield at Disrupt 2021 is… Cellino"
+    excerpt: "We started this competition with 20 impressive startups. After three days of fierce pitching in the virtual yet incredibly competitive Startup Battlefield arena, we have a winner. The startups taking part in the Startup Battlefield have all been hand-picked to participate in our highly competitive"
+    publishedDateTime: 2021-09-23T21:47:00Z
+    webUrl: "https://techcrunch.com/2021/09/23/and-the-winner-of-startup-battlefield-at-disrupt-2021-is-cellino/"
+    ampWebUrl: "https://techcrunch.com/2021/09/23/and-the-winner-of-startup-battlefield-at-disrupt-2021-is-cellino/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/23/and-the-winner-of-startup-battlefield-at-disrupt-2021-is-cellino/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 72
+    images:
+      - url: "https://img.vidible.tv/prod/2021-09/23/614cd3a175544444803475dd/614cd40371876b7f3ca40f82_o_U_v1.jpg?w=550&h=310"
+        width: 550
+        height: 310
+        isCached: true
+  - title: "Startup Battlefield Disrupt 2021 – Cellino"
+    excerpt: "Cellino is on a mission to make personalized, autologous cell therapies accessible for patients. Stem cell-derived regenerative medicines will cure some of the toughest diseases within this decade, including Parkinson’s,"
+    publishedDateTime: 2021-09-22T18:39:00Z
+    webUrl: "https://techcrunch.com/video/startup-battlefield-disrupt-2021-cellino/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 52
+    images:
+      - url: "https://img.vidible.tv/prod/2021-09/22/614b749f8d2a440b0ac212af/614b7501070517339990c699_o_U_v1.jpg?w=640&h=360"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Startup Battlefield Finals at Disrupt 2021 – Cellino"
+    excerpt: "Cellino is on a mission to make personalized, autologous cell therapies accessible for patients. Stem cell-derived regenerative medicines will cure some of the toughest diseases within this decade, including Parkinson’s,"
+    publishedDateTime: 2021-09-23T19:33:00Z
+    webUrl: "https://techcrunch.com/video/startup-battlefield-finals-at-disrupt-2021-cellino/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 52
+    images:
+      - url: "https://img.vidible.tv/prod/2021-09/23/614cd3a175544444803475dd/614cd40371876b7f3ca40f82_o_U_v1.jpg?w=640&h=360"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "Zcisj4Ff2QOcwi0T890HETjFk4dR+z2uDuPxVX2HZ9BluQELD+mLOnNlD9yko2Fxr07vmHcYK5YfxWc/e8+jWZyZ22au8wWQPE0RbD9nN5nN54JjvmYvoEGXxkNbkoa9m0GtGMTysdd4uWJ8QH5+6JJXDqtgt7ifAuwvRZO9w9Lx6Ez3V8vs/S7VpIJ0qTvPDX6etReYPsSZdjfEEvzdjbqqO/d150tiktixf8/+0yCLQp60T7v2yGoewAa2HZ8WuKRhQrtmcX3yvX3A9bpy6kxOaQfB1On+ApTAYpYc+865SP00UoA0sBrCCi/x6+hz8ZoCLzfQ1pqxYUFRPMxJISITJ4XGCYpd5FZ49S8t/HS3Td81LGyGdaBgPUU4bwgImsYMcCQ3/hKCHGyBi4UIJzg4tezDK+lnqD90wl4ekeL+pu7/7WGfzl5bRw6G0lyPyq32pUp3KPBQoriMzU+vQD9ILjgcW5DmhNtKPDHau/EFQRaMwofsHCObRIdqnfw03CCPdRvXHmIM02f2Rc6VCw==;AK21MzzaBmgxiYW4J+WP4g=="
