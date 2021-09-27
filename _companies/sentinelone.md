@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "SentinelOne"
   url: "https://twitter.com/SentinelOne"
-  followers: 13726
+  followers: 13729
 
 size: 201-500 employees
 yearFounded: 2013
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "rjqU3rDVFB50qTHWT5qE+r02KzctoTHs0k4v3VHDVZBa3H7S2rT3lM/6s2rBBlNl9kwYuYoZ4FWskzQ+PROYNBFFfmR2W8xppVMtxiwLH4g9UN/M2SyQ8zO7Y3GNMpPT/7e7IXQvMUaoQrWf1x6zhYK6Ct8Q1cVJWsFj9Zr/A7Rcr+/dkLUeN05Iu4r49M/QrPe3namxT4pabKzj0neL7fw8oGlS7BnOyaJcAKKomd2Z/PMqyWstRCs5SNIRIE6oCzba019T0ROoZNuM4EY4CF9v54SF9QuJBWoKFqgaEMQyo+DPdHkMh9hszIWMpk9xVyJOEPdY8UKfV8VihcRhx2plDaTXvmF2mpkBwTxpmy8McFQv49ZKXKXh20Fk/HM4q6ZRXj292QT9+ZzFWyQx/vtx+OlZF8yElE67zcWVNuw=;BtYj0H3KZFOgLEPwK8+z2Q=="
+secured: "+k5d87WiprWFGN5iZkqeJ/gGuGEX+OLahNAOkofcj6A4EAiy6VJywfWkcIRbNkT8MELgUywYV8npX8L/70UJj75/SnDxAdUnBE9aBpioW7kKsqRq/1yjCr/xAwmm0hCYM+DXqv2GIJJ/1rG4B1OOOlwCiRd7hCxaZqdUV5rPmUYAI9YZzG6sULPd5SVdS/SJO266bB85jdbpkZhzoC2fpoQtDEfq/0x0yC2hDihNOkoKkiPCv3tl8EIG1uVEjWUqT1FO9qKOe1nJWpAtARhuyA8tojjHXWgTlropgzdalvvAryE40DNhD58mVpuK0sggXXwVSB1Bm5M2XGVtqVLs6I/zEuf+45fPj3or3WHFSIkqFQcS1a7xNOdtU9KmsSjIzm6srgAJaAlv1UbWgOdhsFsLrmbguKXRBVmzMCPxqrQ=;OY07AIfdlTORbbpXPbPq5A=="
 ---
 
