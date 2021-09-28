@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/09/28/1036279/pandemic-unemplo
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/09/28/1036279/pandemic-unemployment-government-face-recognition/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
         width: 642
         height: 361
         isCached: true
-  - title: "London is buying heaps of facial recognition tech"
-    excerpt: "The Metropolitan Police is buying a new facial recognition system that will supercharge its surveillance technology capabilities"
-    publishedDateTime: 2021-09-27T05:00:00Z
-    webUrl: "https://www.wired.co.uk/article/met-police-facial-recognition-new"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 39
-    images:
-      - url: "https://media.wired.co.uk/photos/606daa29646b991cdbf60056/16:9/w_1280,c_limit/cctv2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Coming to grips with facial recognition scans part of home isolation experience"
     excerpt: "Using a location checking app and doing a facial recognition scan were part of a South Australian's daily duties during a home isolation trial."
     publishedDateTime: 2021-09-28T09:08:00Z
@@ -72,6 +58,6 @@ related:
         height: 451
         isCached: true
 
-secured: "GVcnBcHqcrQWr1n60c/NPRXieM4jyOPQktOP3cq5hFPxRR8uQCwZ3jipJrloUZDUgpVyW43VraE/5n/QiCUnbTjrwgLgWZwk5Vi7Dl4tpHVxWEP2bOHwP1WoDUFin9m/ylrHGs1s4WGyX9FdfSfvh3ONya55D5c1bzhMMeqSn2IqH2kiNmCE+gb5he2gtiN7oVfP2PKow179pRf4rf+xv58gzmmpubkvS8vrtA5aWMBhyNQe+eAARBI7jhrfXolbRR+YTjxVSeKJ9TPvQN/AEVcSWR6RKNj54Wa89Zmi88Kc7gv7H72wEmFM75/ix7DXWHE3zU61ynDNc34iwrbmF5e5JESvx2cgjZ51XhX3oZI=;MCNmaOwJL890oEVLBrL7IQ=="
+secured: "4YOjBKfUAYM4ODGMKr0HcsXkbBkasW5Jlrjem7T/GNBxTz4nz5vGfShqR+TC6cfPdtVTk8azIrSRVDvO45GyShjz7YcgzM2M9Koy2LjUr4aydDCQFwU0y4SVO3wRWyPxSw/uL+yVT6oJQwvifoh1Lc34vbXax+zANwrIHO5UKbmiFUYfG2An0EOYlhgmPaAAI+jo+3vLkgpJCy81bKsh4dLzCMBNbUZEs9pPC7ZK9AhpV1bj/tSSrIYGcYL20gQ1xWeeyqSWybc78joCsM7fKzKzFzabvy/ZEZD2ybLOrbNH03ZCsrA+qGJQFcgzihpXsNYne0sLq35N97GgjwE74C51Sy8ITC9Vf48F+W6pcVlVhNehuu65CGSYKi47Q3K4bh4cfuxdhnhU+0wFzB32MUgRxa00HqCBBcCaXKwSUsvHUO4UcLaO1qCYqHyATg7RJ9exwFT4Zu+pADtlWjPH5s0sOIjGMaWyfS0LUB5H812hadpXglycO2js6xXtXuZOvx5FfsdjOkt6dih8/Vq6LQ==;cw6Dr5dZRanDxGZL4tW7Rw=="
 ---
 

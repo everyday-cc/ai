@@ -21,34 +21,40 @@ topics:
   - AI
 
 related:
-  - title: "3D Facial Recognition Market Size, Analysis, Competitive Strategies and Forecasts to 2026"
-    excerpt: "This detailed presentation on ‘ 3D Facial Recognition market’ available at MarketStudyReport.com, features an exhaustive study conveying influential trends prevailing in the global business sphere. The report also presents significant details concerning market size,"
-    publishedDateTime: 2021-09-23T17:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-size-analysis-competitive-strategies-and-forecasts-to-2026-2021-09-23"
+  - title: "Global Artificial Intelligence (AI) Speakers Market Report 2021 Prominent Key Players, Exploring Sales Volume Revenue and Forecast by 2027"
+    excerpt: "The research study on Global Artificial Intelligence (AI) Speakers Market 2021 by Manufacturers, Regions, Type"
+    publishedDateTime: 2021-09-28T03:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-report-2021-prominent-key-players-exploring-sales-volume-revenue-and-forecast-by-2027-2021-09-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Market Trends, Strategies, And Opportunities In The Market 2021-2030"
-    excerpt: "Artificial Intelligence Global Market Report 2021: COVID-19 Growth And Change. The Business Research Company's Artificial Intelligence Global Market Report"
-    publishedDateTime: 2021-09-26T01:54:00Z
-    webUrl: "https://menafn.com/1102786952/Global-Artificial-Intelligence-Market-Trends-Strategies-And-Opportunities-In-The-Market-2021-2030"
+  - title: "Self-driving Vehicles Market Enhancement, Latest Trends, Growth and Opportunities during 2021 to 2027"
+    excerpt: "The Self driving Vehicles Market research report provides detailed observation of several aspects including the rate of growth regional scope and recent developments by the primary market players The report offers Porter s Five Forces PESTEL and market analysis to"
+    publishedDateTime: 2021-09-28T09:48:00Z
+    webUrl: "https://www.openpr.com/news/2409307/self-driving-vehicles-market-enhancement-latest-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2409307/self-driving-vehicles-market-enhancement-latest-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2409307/self-driving-vehicles-market-enhancement-latest-trends"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 27
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?223570"
-        width: 505
-        height: 250
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 9
+  - title: "Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Construction market report provides"
+    publishedDateTime: 2021-09-24T13:18:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4908381-global-artificial-intelligence-ai-in-construction-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 6
 
 secured: "QQQvLMRChV5RdV9sKOu1qRh/ud2Nptw1+JLOnHRTy+/k64hcEi5zEwyrdVFDTS1sk7+b4FcUAE51YjW/H2Fk3+4Q42P70zfhIqQfu+WixdkdDufyqqw5TrApkCWiY7a6GqDBCjXd7y/TkgYhlQYspQm0H2hTpj2lEgZNYpp61AzswVHpwJVrf+wT+O4QRnS6mrXwLSbDBBowe6tz1wzo2Y7Jgmp36Qdm5a+dG5JVszy+PcSRqf0JvCPcFTIjct3KArytjcaz+JEwZlkzVEP5DwNZfwXEgXZmjt9KiqQvGLl+2ROjt3hc4aHRafiyl2mkrul4OGsOSekphZRgUIONQMRNXrGnpHLp+psckXuRoJs=;2YwKjTPbGzmY/5i5N8eWbA=="
 ---

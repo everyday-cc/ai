@@ -43,21 +43,21 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "DNA: Test drive of Tesla's driverless car in US"
-    excerpt: "You must have heard about the driverless cars, but how does it actually work and how is it controlled merely using one software through artificial intelligence? Watch video on Zee News"
-    publishedDateTime: 2021-09-23T18:30:00Z
-    webUrl: "https://zeenews.india.com/video/news/dna-test-drive-of-teslas-driverless-car-in-us-2396580.html"
-    ampWebUrl: "https://zeenews.india.com/video/news/dna-test-drive-of-teslas-driverless-car-in-us-2396580.html/amp"
-    cdnAmpWebUrl: "https://zeenews-india-com.cdn.ampproject.org/c/s/zeenews.india.com/video/news/dna-test-drive-of-teslas-driverless-car-in-us-2396580.html/amp"
+  - title: "Tesla plans to add ~1,000 new Full Self-Driving Beta testers per day based on ‘safety score’"
+    excerpt: "Elon Musk announced that Tesla plans to start adding ~1,000 new Full Self-Driving Beta testers per day based on their ‘safety score’ starting next week. Tesla’s plan for a “wider release” of its Full Self-Driving Beta,"
+    publishedDateTime: 2021-09-28T10:01:00Z
+    webUrl: "https://electrek.co/2021/09/28/tesla-plans-add-1000-full-self-driving-beta-testers-per-day-safety-score/"
+    ampWebUrl: "https://electrek.co/2021/09/28/tesla-plans-add-1000-full-self-driving-beta-testers-per-day-safety-score/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/28/tesla-plans-add-1000-full-self-driving-beta-testers-per-day-safety-score/amp/"
     type: article
     provider:
-      name: India.com
-      domain: india.com
-    quality: 74
+      name: Electrek
+      domain: electrek.co
+    quality: 78
     images:
-      - url: "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2021/09/24/00000003.jpg"
-        width: 700
-        height: 400
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Tesla Full Self Driving Beta Button is Live"
     excerpt: "The Tesla full self-driving beta button is live. Tesla owners can now request to become part of the full self-driving beta. The system will monitor driving for 7 days and if the person is deemed to be a safe driver then they will be given access based upon Tesla’s selection criteria and timing."
@@ -541,6 +541,6 @@ related:
       domain: allaccess.com
     quality: 3
 
-secured: "3Y3HGUm2be4DaZCkwjfPCFimcysJNKgUtHrGL2KO5rcGzbigUuOpz7e2whLgNzlR8Ca/Ke4AX9Vw7jYYCmlz3wGHeHFA09TQEBHnBrIJs+AiRQGyevip1nYKRtbEOnvnHQ+HzN6tQB9bh/6elMX0jr9MabsP0H4l4OKE/FNzxAN3FKfc9SUwDDU7zhCpGobsiaC2plHqyuF+I3DE24xbEt89TZNF0xVBJt+Eqve+Ib1jBznWWVJy+D+y6WzqQXfDkT3LUp1NjQwyoCtbsfDvvzbvNd47ncgPjQ+k5IaJ23cwl64x6SaM44SxDWnQPWQha1j2jAiLOF6XSiHQ/cs/G+UaoEvpTDQmW079Mk244yU=;ceZakVSNPdLluk2kW+f7cQ=="
+secured: "eIjIOlob2H7/arUy/g6E/7Akychqusl8fYNtCS5cyK4SJuwGETbSC35ohwwKZgP0s7nOR1K0QIJwBcBKEeIUCjd9guafkGPQeInFzg4qONdJyFbE9aLLA1srY+xM53DOV7Le8wp3tIpaoKlTzdqdDNfzA8KuIA+f07d4wydZXDRl4sbyLRBz0R9E7esaiV36hmFcXHhqXVN4vG2KA4g9HLy6D421DRiFYi/39hb/zKrwOuNBzOvh3nGCcMtxr6MPxiFTCoTxK9DXlcv/AXSulSTqQIQ2PRZVXCdZNnIovoL5rmCqzYmx5fHgH0Y7MhOrc+/bk/dE+1HIDw5mmkaUy7e+jYHRtJLdhutzh+4Ft+HW+ilpr9nu7Sojx3YKO7uSdEkwnhh+ruVdfp8AAHy/XyiJyCVttTWC71NI52wWmD89BHB5GUWOO+8WY7d9EtQuXX7i8GhZEI2ZwxPbdlDRcMu27DlTMEhlpeaL0qOmZX5iwGqSVasxdRvK8Iiwuw4DczbjExUq6dmNtnVMkhKvvA==;QjISzwpZxi7b7YHlAD6XqQ=="
 ---
 

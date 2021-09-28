@@ -7,7 +7,7 @@ originalUrl: "https://www.timeswv.com/news/monday_news/wvu-researchers-aim-to-id
 webUrl: "https://www.timeswv.com/news/monday_news/wvu-researchers-aim-to-identify-autism-earlier-using-artificial-intelligence/article_866ba520-1f27-11ec-832b-d36d79a54f59.html"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,36 @@ images:
     width: 952
     height: 630
     isCached: true
+
+related:
+  - title: "US researchers aim to identify autism earlier using artificial intelligence"
+    excerpt: "Researchers at West Virginia University are turning to artificial intelligence to devise a way to properly diagnosis autism spectrum disorder."
+    publishedDateTime: 2021-09-28T10:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/09/28/us-researchers-aim-to-identify-autism-earlier-using-artificial-intelligence"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 50
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/09/28/1310995.jpeg"
+        width: 1240
+        height: 1240
+        isCached: true
+  - title: "Why AI Autonomous Cars Aren’t Yet Paying Attention To Honking Horns"
+    excerpt: "Without a sensory device to detect sounds outside the vehicle, an AI driving system will not have any tangible input that a horn is being honked."
+    publishedDateTime: 2021-09-23T20:23:00Z
+    webUrl: "https://www.aitrends.com/ai-insider/why-ai-autonomous-cars-arent-yet-paying-attention-to-honking-horns/"
+    type: article
+    provider:
+      name: aitrends
+      domain: aitrends.com
+    quality: 37
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/09/9-24CarHorn-2.jpeg"
+        width: 550
+        height: 365
+        isCached: true
 
 secured: "KiuR8SIstId53FiZXqsWyPbJcPdX3PB2bAyrNietYantp/MhEVpwZRdzofAgu6XN2BoIoudsH45gEdwe47Cqkg/aKxuSfJBRk8bnOW8epqBLfJuAtq6ordSB50j6kcp7IAByXXROQZTY7mtfZau+O6ZvAkgMb+hj4Gs5JvK/5wP8BjTMdM7Q6PQg3jB52JUqCfamsqfDu+KjmVEwz1SnqzATh+yyG82X8vuTkaGRh76Y26hyrS4iqUyUEHKr9dhxvUzgvikcoQeP3eSUByMYAY+MQDXGuZzuZ2vS49vhyR89KO6iewmOtrQDqvB3/x/w2pTr7nfAYYZFSxW7e0ak2cTHbiKquq1cXwk9R6K34hr2KikQQf1fYQpAMPs8qvKEMAUiPSUEsMigGYsTywJmRKleQEFanK6WyGX2cWFnbTz7Ljrz/79/KW/Glvbw8zDTXmUYpLISOXTWnyIOGqSlMUatz8xnIT4YsVv18D1I+ogP8uyfVTsEzvaGMtqw04mSDXeX988aY/tXRb4GWzfQMg==;FNuiQVKUf8HMjE6X0su4gg=="
 ---

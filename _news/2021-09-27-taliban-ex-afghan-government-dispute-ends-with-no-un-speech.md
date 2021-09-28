@@ -36,6 +36,20 @@ related:
       name: Biloxi Sun Herald
       domain: sunherald.com
     quality: 24
+  - title: "Beijing Cautiously Backs Taliban's Hopes Of International Recognition In Afghanistan"
+    excerpt: "China has emerged as a pragmatic backer of the Taliban’s nascent rule and pushing to get the group more political and economic support."
+    publishedDateTime: 2021-09-27T16:31:00Z
+    webUrl: "https://gandhara.rferl.org/a/china-taliban-support/31480715.html"
+    type: article
+    provider:
+      name: Radio Free Europe/Radio Liberty
+      domain: rferl.org
+    quality: 17
+    images:
+      - url: "https://gdb.rferl.org/b6c7d6f9-176a-4c14-9790-f061ec738dcf_cx0_cy10_cw0_w1200_r1.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "U742lIg35hIJ+3nWwzOaRD3OIBEe5u8tiTNz4SfIVCFukLf5rjbJ1fjzTvQapK8+afyrji7+cJRmyWoxwTjLPFuTigMSmucH76c8NS1ECxfL/UhJNci+DI2luWFMOdmQIWU6DVkurMPGZw6Ph9Xnk12hI431y20KWmJY4+FKMJA7jvEqQMgjfcOyLKz3HYcC92yqQuBTEsv1DFzJGz7flvy+LKlFUqDFeVIz16/sLMol0de6hC4s1LbEiLpTCWF6XdERZhW5GIqdSdoZ3c1RtxPv3ZOxGP1JRAn+fO7e1vjYzHeckORzCoJiwUhM5OB43MfrSKAGJ9quND23VEjrDFVLptG7AGcX9irR9uIKBbo=;RAXnw3KMxWJdON4PlzcwVQ=="
 ---

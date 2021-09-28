@@ -7,7 +7,7 @@ originalUrl: "https://www.computing.co.uk/news/4037761/met-police-retrospective-
 webUrl: "https://www.computing.co.uk/news/4037761/met-police-retrospective-facial-recognition-technology"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,79 @@ images:
     height: 229
     isCached: true
 
-secured: "KA3kLWNEwQ7rzR7wRZzIPJSLz6ecNQ6BWUmaENtStdz8gxU14sHpYvktrHqylZIBB/TPvWbgobLZlPki+LU1SNUBWZFgZCiqQXX7YXTfSbZxaKY0tNORQ08SmB053/jj+wrK3dFZMFnNeaK/LLgsCw99Z8yApJfbdg6eXXkLp6BEv1LT6ADSBzWCFPAfoifMGMleuOCl9aNaCn3Y0NmpJrbiXr6T6aQKt5ibxaYm+g8ViSny1qT3LQF21uP0jzNW8I2aP6Bib5n85IYeO7qxmj+IV+17ky+pqhlAqcY9YGv/6dEXDH+X+IMMFl+/vK3Be0NBsebb3iJFHOaS2B3NILjsO367HummXJ7U2xy3A9I=;icu7/bUxK4Q2sdaNA9Xn1g=="
+related:
+  - title: "London's Met Police Buying Retrospective Facial Recognition Technology"
+    excerpt: "The UK's Metropolitan Police Service has been authorised to buy and use retrospective facial recognition technology."
+    publishedDateTime: 2021-09-28T11:35:00Z
+    webUrl: "https://www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-police-buying-retrospective-facial-recognition-technology/"
+    ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-police-buying-retrospective-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-police-buying-retrospective-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6152fd755997c9c246b71a4c%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Drones with facial recognition technology brought in to count SA koalas"
+    excerpt: "Drones equipped with facial recognition technology will be used to count and identify South Australia’s koala population thought decimated by recent bushfires. Flinders University researchers will partner with the Koala Life charity and the state government to use the drones to study koalas on Kangaroo Island and in the Adelaide Hills,"
+    publishedDateTime: 2021-09-27T02:23:00Z
+    webUrl: "https://7news.com.au/news/animals/drones-with-facial-recognition-technology-brought-in-to-count-sa-koalas-c-4080682"
+    ampWebUrl: "https://7news.com.au/news/animals/drones-with-facial-recognition-technology-brought-in-to-count-sa-koalas-c-4080682.amp"
+    cdnAmpWebUrl: "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/news/animals/drones-with-facial-recognition-technology-brought-in-to-count-sa-koalas-c-4080682.amp"
+    type: article
+    provider:
+      name: 7news
+      domain: 7news.com.au
+    quality: 59
+    images:
+      - url: "https://images.7news.com.au/publication/C-4080682/0f134acc7c5a8ba7bcc54b94b6534f2008dd7154-16x9-x0y0w1600h900.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Facial recognition cannot be a standalone authentication method"
+    excerpt: "As more organisations look to facial recognition to improve their digital identity practices, they must remember that it cannot stand in isolation"
+    publishedDateTime: 2021-09-24T06:00:00Z
+    webUrl: "https://www.computerweekly.com/opinion/Facial-recognition-cannot-be-a-standalone-authentication-method"
+    ampWebUrl: "https://www.computerweekly.com/opinion/Facial-recognition-cannot-be-a-standalone-authentication-method?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/Facial-recognition-cannot-be-a-standalone-authentication-method?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
+  - title: "Rat catchers turn hi-tech with facial recognition"
+    excerpt: "Charles Dickens once described rats as “fine, stealthy, secret fellows”, but the days of their stealth and secrecy may be over. The pest control firm Rentokil I"
+    publishedDateTime: 2021-09-25T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/rat-catchers-turn-hi-tech-with-facial-recognition-0qz6z6kk2"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F81d51e16-1e31-11ec-b8f6-2f9fbbeddc5b.jpg?crop=3487%2C1961%2C84%2C898&resize=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "London is buying heaps of facial recognition tech"
+    excerpt: "The Metropolitan Police is buying a new facial recognition system that will supercharge its surveillance technology capabilities"
+    publishedDateTime: 2021-09-27T05:00:00Z
+    webUrl: "https://www.wired.co.uk/article/met-police-facial-recognition-new"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 39
+    images:
+      - url: "https://media.wired.co.uk/photos/606daa29646b991cdbf60056/16:9/w_1280,c_limit/cctv2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "PB7N8p50SiktEe7RnOMgqqduBPy9h8cd92uViTtxYyEc+q7jUxdbo/LJHijqJ1Ylv86vH4mV3YndbjNRh1RVkm24npUxSOm3AhDwGuhtZAGXlxsZgR5VpM60HoqFG3NMQtn45+vcOv2DL6zSITFZEzyyg5bF8fjxS3GASddGg4ZlXirM1feiuCcg9+0eYG+mMVR2SR62fLnmYOSxnTFlMGRms0cDGL1BuFPqtTVLUbAcEz5i0G9HSkNgOj+eSo/pmSCNMoxgJgX8FkXRPGzMOrfyQZhsfXMo7w0W5wt9i+tCNXTHRhJf7lp1WPNbaHR5VlRgC8yn2RNLHgr94QcgORIl5Uqh1zhhuu5AukaissHrmTF5iM7ytopdZcFN8JhT4/9RILj2thP9Fix2E3fPM1o4MQKHuS0xpGuMhOHYBw3pVeZBAnxd7+ajrTAhvYWvpkHE04i3lNU5WniwVf2AHQR0TSQQ7AIMROGLBK7x2HXGRYNAsWmwyeUPblyFhdvWtk68MJ0GR5xALIdcUndZFA==;CJ10IFB0sXohWbkz7tMv/Q=="
 ---
 

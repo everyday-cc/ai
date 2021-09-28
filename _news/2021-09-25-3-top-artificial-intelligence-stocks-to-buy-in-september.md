@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Here are top artificial intelligence mergers and acquisitions in September 2021"
+    excerpt: "The tech giants are always ready to acquire smaller organizations, concentrated principally in niche and imaginative regions. This article features the top artificial intelligence (AI) mergers and acquisitions in September 2021."
+    publishedDateTime: 2021-09-28T10:59:00Z
+    webUrl: "https://www.analyticsinsight.net/top-artificial-intelligence-mergers-and-acquisitions-in-september-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 33
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Top-Artificial-Intelligence-Mergers-and-Acquisitions-in-September-2021.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "y8UpN2x7hZX4l5czXKvAcpURG2k3kbz3XIv2Hsq345DZopbKbcQKbj6if3eO6DyNDIVjUxCSCoIMH5jo+9d6oQZxD/Wjra/C9pGE8csb2+f8F+vqc9DGUYJNC0EedQDGCzPE42AeIWOnzc5ka1FdgYhNtOXThH8nOWMJgGqsQot18zgkhcHIunhQQafuKeMz19zGrx46JtqJN0fbvFpwmbjS7dve7m//sVW9vE/Ptx/HAjl/wwJ9fyLYgHWKlzbo+mNkz4cAOS9iKMW1WN4TMRBhaPXmC0PiisJXY1cy4UrDcpK87/yCPQQJeOMYZycKxaoCqhog/FBjFyv+toOqrh955LJKh1Yj9OkFwsd9fIc=;KCyN09N6zZoPnr/wLae27g=="
 ---

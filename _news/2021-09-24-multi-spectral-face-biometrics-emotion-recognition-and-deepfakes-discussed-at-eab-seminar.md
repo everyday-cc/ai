@@ -6,7 +6,7 @@ publishedDateTime: 2021-09-24T15:19:00Z
 originalUrl: "https://www.biometricupdate.com/202109/multi-spectral-face-biometrics-emotion-recognition-and-deepfakes-discussed-at-eab-seminar"
 webUrl: "https://www.biometricupdate.com/202109/multi-spectral-face-biometrics-emotion-recognition-and-deepfakes-discussed-at-eab-seminar"
 type: article
-quality: 14
+quality: 16
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"

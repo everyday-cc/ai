@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://images.techhive.com/images/article/2015/10/cloud-security-ts-100622309-large.jpg?auto=webp"
         width: 1200
         height: 899
+        isCached: true
+  - title: "Applying cybersecurity lessons learned for AI regulation"
+    excerpt: "As regulators and insurers work to understand the level of regulatory oversight that is needed for AI innovation, there is a path forward by looking to the recent past. The massive 2015 breach of Anthem’s customer data was a catalyst moment for insurance regulators and led to the Insurance"
+    publishedDateTime: 2021-09-28T11:15:00Z
+    webUrl: "https://www.dig-in.com/opinion/applying-cybersecurity-lessons-learned-for-ai-regulation"
+    type: article
+    provider:
+      name: Digital Insurance
+      domain: dig-in.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/a6aa3a5/2147483647/strip/true/crop/3998x2099+0+406/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F46%2F69%2Fa0b77d3d4302a600e0927c19b14b%2F372143433.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "LPKBsGwJ1jCqrwM7IhTjpMDaR80RR6hpK8EPzEeXxW8EAYMivl8K3MdGIiDjM6fuSRhQnY07lxIF5hh7dln2MBnbieIx9dYVsRyBCVkc5R7AK1hi0Sx1TiD9DgszruZkE2bF3HOalk61QqOWCXmoi+eMEYBzJBRRUHgLRDMANWhrP5gkDpV3askQm1fabUUGTmwAWgd08CDgexE+uJUG+2k2e72uOwRtGzVUuiufpsbJIq+wDEPGVE0zOOxcFqRd0SJntQw0qwgRwJBFhryAL3CxD5TqxHWuc3u0jcP52gVE1eFAL/Q/vO405HfPlOxUOrGGMTRQd3DVwTLzqUrEBUmG5wVxU+Gf+mITNPa2YsV/n/ytnlgJ3zrTtcI2+0vZquKV4D7QG56+us37ov75N1AkeSejfa0z16hXYZe5mQYZSrpit/mCuVF81wb0tSTaFQBUCUrYU4/KthtSIdzYc+NueUKEow6gfmq5/Xbu781ehnhiIo6O1jBYpTBcCpuDM+2HdD64KuEJB1dOEcEasQ==;5SYXn9kvABp1akAzGmThkg=="

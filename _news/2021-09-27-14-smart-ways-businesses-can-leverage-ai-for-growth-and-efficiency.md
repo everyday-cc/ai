@@ -33,14 +33,14 @@ related:
   - title: "Google Pixel 6 advert teases smart camera and AI features"
     excerpt: "A new Google Pixel 6 advertisement has teased a suite of smart features that upcoming phones are likely to have, potentially offering improved language translation and boosted computational photography."
     publishedDateTime: 2021-09-28T05:01:00Z
-    webUrl: "https://www.tomsguide.com/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
-    ampWebUrl: "https://www.tomsguide.com/amp/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
+    webUrl: "https://www.tomsguide.com/uk/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
+    ampWebUrl: "https://www.tomsguide.com/uk/amp/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
     type: article
     provider:
       name: Tom's Guide
       domain: tomsguide.com
-    quality: 61
+    quality: 59
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/7t5W2reCUYkYMbnF9WiRQ7-1200-80.jpg"
         width: 1200

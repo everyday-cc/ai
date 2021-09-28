@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2407519/vietnam-pharmaceuticals-market-to
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -25,6 +25,19 @@ images:
     width: 400
     height: 300
     isCached: true
+
+related:
+  - title: "Artificial Intelligence in Medical Imaging Market 2021 Industry Analysis, Size, Share, Growth, Trends and Forecast 2028"
+    excerpt: "DBMR has presented updated research report on Artificial Intelligence in Medical Imaging Market offering insightful information like market share market size and growth rate during the forecast period 2021 2028 that are precisely projected based on type application sales channel"
+    publishedDateTime: 2021-09-28T11:47:00Z
+    webUrl: "https://www.openpr.com/news/2409862/artificial-intelligence-in-medical-imaging-market-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2409862/artificial-intelligence-in-medical-imaging-market-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2409862/artificial-intelligence-in-medical-imaging-market-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 13
 
 secured: "O+1DUNtAPVeay6qPrXRG/lAGjnBUFpd//GTkfP6/DZrwMgqz3MAlIFADi/YS34cq/zCZwvtx3M1ezYkD7K1OFeJeRdJ1rYYYIIMYR85H7AbiO8koyEN88XEDCI02ozNhZi86ILeNth5qtX2tYnLw/KI3ipqP0nb/hsqn2cgRxYfhZ9Ya1En6FQt5d0K/GKZKWLppdlBXKgNR51q6fPjHPrYux60PHAVxU+NTdUHd47uAh+w25uhuEtZ+97XM7JdxEFSXGvvzOyn5kf9s4xC9FAtgcbIAgw6DQqWKNAYsPN/97+o9DJpnrpTRI+FubjmzEcie8jQInagtdgaiO0SO4ZMiwhdnnz37ovOauv1c6rA=;xutEWiXkB3SLaWRDAVs9CA=="
 ---

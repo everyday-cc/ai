@@ -62,15 +62,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 23
-  - title: "Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Construction market report provides"
-    publishedDateTime: 2021-09-24T13:18:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4908381-global-artificial-intelligence-ai-in-construction-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 6
   - title: "Artificial Intelligence in Energy Market to Eyewitness Massive Growth by 2026 | Grid4C, Watty, BuildingIQ"
     excerpt: "COVID 19 Outbreak Global Artificial Intelligence in Energy Industry Market Report Development Trends Threats Opportunities and Competitive Landscape in 2020 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic"
     publishedDateTime: 2021-09-27T19:26:00Z

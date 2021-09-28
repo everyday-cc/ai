@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/news/technology/amazons-september-echo-e
 webUrl: "https://www.aboutamazon.com/news/devices/amazon-devices-services-news-september-2021"
 type: article
 quality: 122
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -35,6 +35,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
+  - title: "Here are top artificial intelligence mergers and acquisitions in September 2021"
+    excerpt: "The tech giants are always ready to acquire smaller organizations, concentrated principally in niche and imaginative regions. This article features the top artificial intelligence (AI) mergers and acquisitions in September 2021."
+    publishedDateTime: 2021-09-28T10:59:00Z
+    webUrl: "https://www.analyticsinsight.net/top-artificial-intelligence-mergers-and-acquisitions-in-september-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 33
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Top-Artificial-Intelligence-Mergers-and-Acquisitions-in-September-2021.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "iTjYPPmnhvLurJ6u/w61JqUtshc0Um+gzjIWfl01tdHbRZtNLJPzKxWT1U7zqyky78JAKqL3/Lnpjx7LYfr9+L3Uk3bjNd0zVLCJGcyGwSdNCRVAdsKDmIYOsVJnCB2asQluWhuXxcQevYERVngXFx9/UcuP5NTGg9CTzt0eBabRo+gg1SaeMYtnWYIXzkIoxO+S9xuir77Ry+HLuVtdo0y8OKpp6M1Hd9xz76pjDzZMZ6855wq1aCI/4hxt1Z6l5RpobUhwPbpmwKZjXsanv6LV+5JrYFhTWL/IoYEJgsSNhY8k7KG6M9nd5dvgxpqqxPDRXDCtsPu/3SUhzJdyJTpyIIT0lNhtO5JWUtIf3mArKbaZAUNh5ByuJcclIkcJNuGJ3PfHk9Y+SludxYLR3kV1XExd734yZKijkXOS52XAmSU9Oeh280EpWWFma6GyZGcFA8NX4iD9SI4Hn8dlcT2TW8XY7IOnDyECvqamY8OiPUzW4AAXeFWJsSdU8PrRIJ3jqHsHeI/5Q5DALM89H8QSj68enpV78jshbTwLpQ4=;seRgNZ4v/E7CpuVnnmdP7A=="
 ---

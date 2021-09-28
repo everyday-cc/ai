@@ -87,15 +87,6 @@ related:
         width: 1000
         height: 499
         isCached: true
-  - title: "Share India set to disrupt algo-trading and fintech industry with two strategic acquisitions"
-    excerpt: "Share India Securities Limited has announced the acquisition of two companies, namely - Algowire Trading Technologies Private Limited and Utrade Solutions Private Limited. With these acquisitions, Share India Securities Limited has taken the next evolutionary step towards providing a platform for AI-driven automated trading,"
-    publishedDateTime: 2021-09-23T18:16:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20210923/3824700.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "URHFgmoAom9ZFKATefLq5ux5+MnWZJD1s/Epa953Qqpib/NdCx79nfATVdlSp1iK/G6HNUCOY88UFNkWFVaqUCdd1idn6QcSG2mXBlONv67crcmtqAs0qXWpmpZw+WNenTHozOAcohM8H744a2LhRUWyVuT4Wm/gJ/9v/RrweJ56i/vCSmZ3m2+Vs8s+rUgH3m3RzTwQRpFAlLbQE3q2zqFh+moy1M6FklT3pRvn7Blou3MMhYtY4dl5YIGDL47QSPX9+uh59ARK0rcjqBIQR69xL9Z56sMUGYl5FTGTqLm9V4Dwrr233NRE6ovt4iXmQ7vMBP6nUGYYfzi+Z2veKo9m7CbngfGKeFvJ3syGSpVF+CDITO0EVmTd2f/TFD3//SU0uGxXzga3jlTYQyIGM5GFacp9kDEcF+++bIlfB5r74pLKv2qyvbcUbLYH57FffrzFbgp2ysSaDhSybq09NKdKmEoZItBJF2t/CG9Yk/7lFrHu1EHKfywH0rL6bW2HORxmRFjcUc8VJCxPE6+ABg==;pRk4aYa2KcEwlUa39YgPIQ=="
 ---

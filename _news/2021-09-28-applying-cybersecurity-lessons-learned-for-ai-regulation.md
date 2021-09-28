@@ -1,0 +1,62 @@
+---
+category: news
+title: "Applying cybersecurity lessons learned for AI regulation"
+excerpt: "As regulators and insurers work to understand the level of regulatory oversight that is needed for AI innovation, there is a path forward by looking to the recent past. The massive 2015 breach of Anthem’s customer data was a catalyst moment for insurance regulators and led to the Insurance"
+publishedDateTime: 2021-09-28T11:15:00Z
+originalUrl: "https://www.dig-in.com/opinion/applying-cybersecurity-lessons-learned-for-ai-regulation"
+webUrl: "https://www.dig-in.com/opinion/applying-cybersecurity-lessons-learned-for-ai-regulation"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: Digital Insurance
+  domain: dig-in.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://arizent.brightspotcdn.com/dims4/default/a6aa3a5/2147483647/strip/true/crop/3998x2099+0+406/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F46%2F69%2Fa0b77d3d4302a600e0927c19b14b%2F372143433.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Three Key Artificial Intelligence Applications For Cybersecurity"
+    excerpt: "We are at the doorstep of a new era of smart technology and cybersecurity is already a testing ground. The cybersecurity industry is increasingly impacted by the deployment of solutions supported by a"
+    publishedDateTime: 2021-09-24T17:25:00Z
+    webUrl: "https://www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/"
+    ampWebUrl: "https://www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614e04f5dff3ebea27d194cc%2F0x0.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Cyber security in the public cloud"
+    excerpt: "A brief guide to the network, infrastructure, data, and application security capabilities AWS, Microsoft Azure, and Google Cloud provide to prevent cyber attacks and protect your cloud-based resources and workloads."
+    publishedDateTime: 2021-09-27T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.html"
+    ampWebUrl: "https://www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 91
+    images:
+      - url: "https://images.techhive.com/images/article/2015/10/cloud-security-ts-100622309-large.jpg?auto=webp"
+        width: 1200
+        height: 899
+        isCached: true
+
+secured: "hIl2D0jslKWmkXzatHtLDKMDGoovjrrR1LBXEe5mSFcsJFcEKRqArlgiOIZEpW1pH/jYQ6njcqNHLEu43uzlUBsNPEwGyVwX/KRzZDLDfIcfdqsUcQIukM8cp3m8hV4fXYwMp9BcfDJHh69k7HMrGMdmdLJOSlq4kBN+IkPPVJ2e6fUXN0ekNxJ1Q4s807h+s+oauNRmLjbJ7ngLtaI8m1xOvtjuTIT3yy3+JX6SWszGi1OnmROVFJIXUuu109xMYmfYA3Cf/Xi+gtzxOXUl9394TVs7fVC+ZUsTH8ujtp95Eat4Hz/m/MS8hyLvjufUgHnn/Dl2eTX9M1lSz8O7QovKHgsdHiBa2xnY+gskwNA=;7OcAWgdEM+69XcoDgBcG8g=="
+---
+

@@ -3,12 +3,12 @@ category: news
 title: "Google Pixel 6 advert teases smart camera and AI features"
 excerpt: "A new Google Pixel 6 advertisement has teased a suite of smart features that upcoming phones are likely to have, potentially offering improved language translation and boosted computational photography."
 publishedDateTime: 2021-09-28T05:01:00Z
-originalUrl: "https://www.tomsguide.com/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
-webUrl: "https://www.tomsguide.com/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
-ampWebUrl: "https://www.tomsguide.com/amp/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
-cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
+originalUrl: "https://www.tomsguide.com/uk/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
+webUrl: "https://www.tomsguide.com/uk/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
+ampWebUrl: "https://www.tomsguide.com/uk/amp/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
+cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
 type: article
-quality: 61
+quality: 59
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-  - AI Hardware
 
 images:
   - url: "https://cdn.mos.cms.futurecdn.net/7t5W2reCUYkYMbnF9WiRQ7-1200-80.jpg"
@@ -73,6 +72,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ZC/KRg3OneWEyjlasOst0FtyZ5iBa3w4fLfHiSSNQEgdG9y+OguwnU16G4tyxiSabrq6h2a0Mho1WdD9uJyqKW5gVMS3/cLrwtgfWyhXkRmNMTCWcV1DuJJ6jL03Td27HZ8TSN+VMfQBr2dYgZwpEuOoWw7Is900sess9XllYElwsEhLOyaioz9gF10y0m7Uw0xI9PbDgqW0VImz/0QcLP+BUf1HmJt6DpC4yG1iSM5TQldRqj52SgT+M1LIsyuo6/jo1E/adozBfDRa/VWvylxXlXpkAJzVAmdvDZDtq/sLx8UMbYIHb6EREKcEkBgiaL341rjMDVqDPZlzTN5jDsYa6rfMufYPLJ4/9NZN1s6V1MbX1OHmZwrK9wl6K537dGbX2Ob8lQ3egs5eSo3vC7K5rSpqrzVJ6id1EOfF/+THMcl3bNjeJ3CPtgNzS1Y+s8pFG+SJkqerj84FagNFWyHcJG7imFf1YGQqD2Luw1vhogjSE72h4a2S9Pe8pexTiDg2QBXH5T5OdqNyAFfLzA==;9+idoARegxBYQ1bG6ZcDCQ=="
+secured: "5t2s/3lSWFC/vJGg33EG1baQgX8MeBZK/xJ4IwUodmFfXIiodRk9jbQU1ArLOfePsTKXZobFTYHExED5oPL0LvHfzg1FZSmAh7lazraKzgaZEpzbbuAJZXxsv8r/BkhTiIkev74qS75mV46sn8W3mQI+Ph7mspsEncijGQvylSUXK/Vu9n7mQP/XhFfMVGrWfDCN2G3O1Qh0G+mObqCIUc92YZXZyOrvmQrWf4ufaJbCxjORuFStzCzro2ciRXywRFi1YmIJ70GRIksRRoxnRNUCYtFdqtwJ2dCoR5OUg52ZP8qGAsaaQHtJXs4HIpt9m0vjmgAwaYLFoSuBIhr5e0KtvtoMWe02TBEHPSn5Ri0=;A9Ws/Ue0YkSeLuvQRYmDXw=="
 ---
 

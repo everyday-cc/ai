@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/meity-aws-partner-support-deeptech-innovatio
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/meity-aws-partner-support-deeptech-innovation-india/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -87,15 +87,6 @@ related:
         width: 277
         height: 239
         isCached: true
-  - title: "Share India set to disrupt algo-trading and fintech industry with two strategic acquisitions"
-    excerpt: "Share India Securities Limited has announced the acquisition of two companies, namely - Algowire Trading Technologies Private Limited and Utrade Solutions Private Limited. With these acquisitions, Share India Securities Limited has taken the next evolutionary step towards providing a platform for AI-driven automated trading,"
-    publishedDateTime: 2021-09-23T18:16:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20210923/3824700.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "UwteCv3u9OGmu6trXEICZalToVFmeN9piI52LfHc8MvRjxrB4+1VK3Dcv0P562C8RCAGFjcoEO9X6Q54iVua4NmrYSz+Sp3znutVznbsap9XEkDumXvahW+DUO93KtCKtP80e9DsHNp27iIm2Gr5NejOgbVtR0Epg4gj3pct370S5kYeGUV68H2eVbc//TBkQAo2MypGFaxuYSsmlIAYGj/jeumSAsu7oySEmMZKFIudoNrIHyz189fjykEJf5RMy1/K7FyNoYFB/i1Slu+651cKq1L7Tzjg2qb2JJGfIOY5jvdxqku5FslYOP5jfaUc5S+qzwxARBPAWiuzyUTrFw/CwOg9IF8l7ZCySzMNlEO1eBDDFUjxqFdVEOZaiz9JfGpBzmLehO//Pa1ToY1sgpuJgVqQgqvCi0WCPa5kB/GcFE62rbnuP9Egy37QB6REYPWfZgu7olWeyJkp5PFhdh3SbGzeb6bwU/1kQ8IdVbV2SsId6OVtLYrS+aiNqW3OkEXpP88vTy6Ye17cjapw2w==;/p6YQ/uiysYfzbp0qQc/hQ=="
 ---

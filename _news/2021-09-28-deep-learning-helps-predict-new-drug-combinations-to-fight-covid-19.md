@@ -33,6 +33,22 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "COVID-19: Coming to grips with facial recognition scans part of home isolation experience"
+    excerpt: "Using a location checking app and doing a facial recognition scan were part of a South Australian's daily duties during a home isolation trial. The government is expected to release more details of its pilot home isolation scheme for businesses tomorrow with a long list of companies keen to get onboard."
+    publishedDateTime: 2021-09-28T08:31:00Z
+    webUrl: "https://www.newshub.co.nz/home/new-zealand/2021/09/covid-19-coming-to-grips-with-facial-recognition-scans-part-of-home-isolation-experience.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2021/09/covid-19-coming-to-grips-with-facial-recognition-scans-part-of-home-isolation-experience.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2021/09/covid-19-coming-to-grips-with-facial-recognition-scans-part-of-home-isolation-experience.amp.html"
+    type: article
+    provider:
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 50
+    images:
+      - url: "https://www.newshub.co.nz/home/politics/2021/09/covid-19-christmas-clash-national-s-tantalising-travel-idea-shot-down-by-jacinda-ardern/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1632807622245/Jacinda-Ardern-Judith-Collins-Newshub-1120.jpg"
+        width: 768
+        height: 438
+        isCached: true
   - title: "E-Commerce Trends Post Covid-19: Artificial Intelligence is Taking Over E-Commerce"
     excerpt: "The latest applications of big data, artificial intelligence, voice search and machine learning in e-commerce are taking customer experience and satisfaction to a new level post Covid-19."
     publishedDateTime: 2021-09-27T16:29:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-09-scientists-artificial-intelli
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-scientists-artificial-intelligence-method-anti-cancer.amp"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Medical Xpress
@@ -40,20 +40,6 @@ related:
       - url: "https://img.gulf-times.com/Content/Upload/Slider/9202124224211870361144.jpg"
         width: 620
         height: 355
-        isCached: true
-  - title: "Simmons Cancer Center, MD Anderson scientists develop artificial intelligence method to predict anti-cancer immunity"
-    excerpt: "Researchers and data scientists at UT Southwestern Medical Center and MD Anderson Cancer Center have developed an artificial intelligence technique that can identify which cell surface peptides produced by cancer cells called neoantigens are recognized by the immune system."
-    publishedDateTime: 2021-09-23T18:43:00Z
-    webUrl: "https://www.utsouthwestern.edu/newsroom/articles/year-2021/artificial-intelligence-method-to-predict-anti-cancer-immunity.html"
-    type: article
-    provider:
-      name: UT Southwestern Medical Center
-      domain: utsouthwestern.edu
-    quality: 14
-    images:
-      - url: "https://www.utsouthwestern.edu/asset/5a92e8f1-526c-4809-95b0-82053a031fcd/wang-neoantigen-thumb.jpg"
-        width: 1000
-        height: 1000
         isCached: true
 
 secured: "yQqwspv/n/obZEpnTnvc1OWgI5Rv0I5tVaMSHzDEZLPbrCNEjWhBxdZs+hmSvkuBJ5yJ0dNrYwJqzp0jevKGN6AS3fZy9LdDfmVGnlsLkZqk7Mc+ugGkRtFeIdTjUXvxsSzZqaT6xkQt/cBJugUEDoqb/CYhyT69AvPixCDNOFxLva+ubu7Lh72J4ppntC5nXhuPfaH9k3sfIb/tkQ12/RORFoEzenRyxTlxuZ2egaVCCTharSvRRPeNCjyRO7sGzwn73bePBGKpMh7ZB0zgsV9eD1/imkS403phoZfyBQTeVFdP/bbMnLIy4N9QTMox1vzLhLMIxIJMD+DU3NEUkjUGQI36ouD+hAfDjhrELWXqaSpYqlQQDOvc0mlyQOxYIaD0UnmrLTVtxxGy8MT/wXOkNAm9DTzmw05qKbbMCwzqakXpond+28YeuGR2ws9+/p1CR3hgVoRb7N/OkFr4NdxbFFLVcRstWRTPAzVZy/I5tYmkANtr1yk4tzmQaaQJNzm3DWeiclAGYroEId4fCw==;r0jouL8pR/geP81IFNgPOg=="

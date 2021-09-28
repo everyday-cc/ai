@@ -71,15 +71,6 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 16
-  - title: "Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Construction market report provides"
-    publishedDateTime: 2021-09-24T13:18:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4908381-global-artificial-intelligence-ai-in-construction-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 6
 
 secured: "BE8F1qwrnWELctDfo9Q+9r8JD0as6RjgtjccwfiTMOUIghbH+/BoBYiktiRHdalAaFknN9tJnDDOOtYDkuHpI+HqzkU/1j8HqU2v1UbefKMItaWefY5h2wwJ4xOKly75E5z1GojmristJ8N5j4uxd1Jxv1JFNnPrhLAdSbOGDcQBHuznZJLPQsvqczNU2LGrNtFfnXYt+qf4qcUryrDTqygx2TMYCLjVSk/OCrYP2loPShZO7SfG/L35N7rdRg/CIggdjpEGyv4KcMYnDFrJJrPLbnEvf+kcClARTvn8DroY4tLnlXLUD0TSeyD2oR8NeVhFml8oe/b+5fijmYmplXc2cM1FiRS8ZZdqqefn13fhoZPzNFqAdZTyIx7CuasMP2uv3O9GYsOpSk92iddpUd+8jhjaSozuNJZDm9DgvJ5w60Zz7ZjdRd7X6D7Vh0rGL6cWrYaM1/tR3y4oeZja6oqS1aYfreJCgprfkHxWgHYOLDHPfIXDYh8PXVzMgqKaY9r7mtMmfQ9n+lrlNM5R8A==;s2Hd070s5Vivm69M7fLPyQ=="
 ---
