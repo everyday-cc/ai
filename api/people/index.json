@@ -16,7 +16,7 @@
       "twitter": {
         "username": "elonmusk",
         "url": "https://twitter.com/elonmusk",
-        "followers": 60234373
+        "followers": 60235498
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Elon_Musk"
@@ -28,7 +28,7 @@
       "heat": 665,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1438003019887611905/MnOz3sOj_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1442634650703237120/mXIcYtIs_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Elon Musk",
@@ -51,7 +51,7 @@
       "twitter": {
         "username": "LexFridman",
         "url": "https://twitter.com/LexFridman",
-        "followers": 783811
+        "followers": 783831
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=wZH_N7cAAAAJ",
@@ -75,7 +75,7 @@
         "Machine Learning",
         "AI in Autos"
       ],
-      "heat": 408,
+      "heat": 407,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/956331551435960322/OaqR8pAB_400x400.jpg",
@@ -101,7 +101,7 @@
       "twitter": {
         "username": "AndrewYNg",
         "url": "https://twitter.com/AndrewYNg",
-        "followers": 613592
+        "followers": 613615
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/andrewyng/"
@@ -136,7 +136,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 338,
+      "heat": 337,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
@@ -210,7 +210,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 338,
+          "heat": 337,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
@@ -318,7 +318,7 @@
       "twitter": {
         "username": "karpathy",
         "url": "https://twitter.com/karpathy",
-        "followers": 397947
+        "followers": 397956
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/andrej-karpathy-9a650716/"
@@ -430,7 +430,7 @@
             "Machine Learning",
             "AI in Autos"
           ],
-          "heat": 408,
+          "heat": 407,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/956331551435960322/OaqR8pAB_400x400.jpg",
@@ -479,7 +479,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 338,
+          "heat": 337,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
@@ -587,7 +587,7 @@
       "twitter": {
         "username": "ylecun",
         "url": "https://twitter.com/ylecun",
-        "followers": 275978
+        "followers": 275988
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
@@ -631,7 +631,7 @@
       "twitter": {
         "username": "geoffreyhinton",
         "url": "https://twitter.com/geoffreyhinton",
-        "followers": 126508
+        "followers": 126515
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=JicYPdAAAAAJ",
@@ -772,7 +772,7 @@
       "twitter": {
         "username": "jovialjoy",
         "url": "https://twitter.com/jovialjoy",
-        "followers": 66579
+        "followers": 66584
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/buolamwini/"
@@ -814,7 +814,7 @@
       "twitter": {
         "username": "drfeifei",
         "url": "https://twitter.com/drfeifei",
-        "followers": 389499
+        "followers": 389491
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
@@ -874,7 +874,7 @@
       "twitter": {
         "username": "ID_AA_Carmack",
         "url": "https://twitter.com/ID_AA_Carmack",
-        "followers": 934963
+        "followers": 934967
       },
       "affiliation": {
         "path": "",
@@ -910,7 +910,7 @@
       "twitter": {
         "username": "jeffdean",
         "url": "https://twitter.com/jeffdean",
-        "followers": 195526
+        "followers": 195525
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=NMS69lQAAAAJ",
@@ -964,7 +964,7 @@
       "twitter": {
         "username": "demishassabis",
         "url": "https://twitter.com/demishassabis",
-        "followers": 238701
+        "followers": 238699
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=dYpPMQEAAAAJ",
@@ -1005,7 +1005,7 @@
       "twitter": {
         "username": "soumithchintala",
         "url": "https://twitter.com/soumithchintala",
-        "followers": 90934
+        "followers": 90936
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/soumith"
@@ -1047,7 +1047,7 @@
       "twitter": {
         "username": "chrmanning",
         "url": "https://twitter.com/chrmanning",
-        "followers": 83652
+        "followers": 83656
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1zmDOdwAAAAJ",
@@ -1150,7 +1150,7 @@
       "twitter": {
         "username": "chelseabfinn",
         "url": "https://twitter.com/chelseabfinn",
-        "followers": 39271
+        "followers": 39272
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1xw2vTsAAAAJ",
@@ -1190,7 +1190,7 @@
       "twitter": {
         "username": "MFordFuture",
         "url": "https://twitter.com/MFordFuture",
-        "followers": 48642
+        "followers": 48647
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Martin_Ford_(author)"
@@ -1224,7 +1224,7 @@
       "twitter": {
         "username": "katecrawford",
         "url": "https://twitter.com/katecrawford",
-        "followers": 76516
+        "followers": 76513
       },
       "topics": [
         "AI"
@@ -1305,7 +1305,7 @@
       "twitter": {
         "username": "NandoDF",
         "url": "https://twitter.com/NandoDF",
-        "followers": 85157
+        "followers": 85153
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=nzEluBwAAAAJ",
@@ -1428,7 +1428,7 @@
       "twitter": {
         "username": "KyleCranmer",
         "url": "https://twitter.com/KyleCranmer",
-        "followers": 11237
+        "followers": 11238
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
@@ -1470,7 +1470,7 @@
       "twitter": {
         "username": "jackclarksf",
         "url": "https://twitter.com/jackclarksf",
-        "followers": 43596
+        "followers": 43595
       },
       "topics": [
         "AI"
@@ -1539,7 +1539,7 @@
       "twitter": {
         "username": "kaliouby",
         "url": "https://twitter.com/kaliouby",
-        "followers": 24323
+        "followers": 24322
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/kaliouby/"
