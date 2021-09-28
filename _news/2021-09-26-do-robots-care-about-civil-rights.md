@@ -3,8 +3,8 @@ category: news
 title: "Do robots care about civil rights?"
 excerpt: "With 86 percent of major U.S. corporations predicting that artificial intelligence will become a mainstream technology at their company this year, management-by-algorithm is no longer the stuff of science fiction."
 publishedDateTime: 2021-09-26T07:01:00Z
-originalUrl: "https://www.arkansasonline.com/news/2021/sep/26/do-robots-care-about-civil-rights/"
-webUrl: "https://www.arkansasonline.com/news/2021/sep/26/do-robots-care-about-civil-rights/"
+originalUrl: "https://www.arkansasonline.com/news/2021/sep/26/do-robots-care-about-civil-rights/?opinion"
+webUrl: "https://www.arkansasonline.com/news/2021/sep/26/do-robots-care-about-civil-rights/?opinion"
 type: article
 quality: 39
 heat: 39
@@ -40,6 +40,6 @@ related:
         height: 712
         isCached: true
 
-secured: "/I33AsPOm57DOxxyrj/sL5WYMjqt9HCsfqGmR26vG56QPfRa0uoPELViYq0ShIhqHkCxaRzp01LaJyxSwL28zRnZJ1pQHSfY9qPqETr6y9JiLNKr6Zea2LwTD9vk4eOsN1o47R4VopWTGvICVmGeZ09sfNGx8VGHVZZEQkm52ssfRw70/IvcO3M37b5+oc32wYHeYNJePAP+d5pYGgiD/nMzvOzfUjzh94GocwTVhN8u6htnq0pxu+l95iKwIKa2+QMxjKcvVMlr7nYjgpBg9adf3wBJgMYnH9uKBch86CwYUpJyeQ9VLrGQ3IUrIyow8sm1ykfc+Fj3nmtnj+ylRe4MS+57a2x0LbG5XNXBYjs=;BLhkYlSjSu4+StLjA++cLA=="
+secured: "81AqVaa6Z4lQTNi4ZNQlZkPZdMbXMtVwTg7iRvl3qyQT62emun/mV9qabIgUYelDF2zkNQFL1vSAvchVUoQGiODntNXHLkEBLn9gq7sbwswEKJUdVeJ17YwCPZj3nVeVrwVTpw7kp/d8Yj2UDutD4otupNEi61HVvuZkbPz0LKDHuzRixw4mDIo5qGGG5LYEi3iinjjyiMAOA7X1qSsd55x9VnzVCWgHN9TBQacdLpnV052kz0tZqRR8YyIJxHU1JxuYITNu7t9iScku6XEm+/FG29GMJuIckgXRrSBgCWAV5OkTNh7xUUGQKlJT+/ifLgTWjac5FwLS472SaX6CpeQHhm28KMTXege8tXks3fo=;rEIRMN7XAEOvj/Gxy5S8UA=="
 ---
 

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Conversational AI startup Gnani.ai launches voice biometrics software"
-    excerpt: "Gnani.ai, conversational AI and voice security domain, announced the launch of its home-grown Voice Biometrics software. Christened armour365™, the biometric solution claims to cater to new and emerging risks"
-    publishedDateTime: 2021-09-23T10:11:00Z
-    webUrl: "https://www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/"
-    ampWebUrl: "https://www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 57
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2017/07/Fraud.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "DHS suggests face biometrics bias reduction method, quantifies demographic effects"
     excerpt: "The paper reveals the finding that race and gender sameness contributes about 10 percent to the variation of face biometric similarity scores."
     publishedDateTime: 2021-09-23T23:49:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202109/dhs-suggests-face-biometric
 webUrl: "https://www.biometricupdate.com/202109/dhs-suggests-face-biometrics-bias-reduction-method-quantifies-demographic-effects"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Conversational AI startup Gnani.ai launches voice biometrics software"
-    excerpt: "Gnani.ai, conversational AI and voice security domain, announced the launch of its home-grown Voice Biometrics software. Christened armour365™, the biometric solution claims to cater to new and emerging risks"
-    publishedDateTime: 2021-09-23T10:11:00Z
-    webUrl: "https://www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/"
-    ampWebUrl: "https://www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 57
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2017/07/Fraud.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Multi-spectral face biometrics, emotion recognition and deepfakes discussed at EAB seminar"
     excerpt: "The state of the art in several areas related to face biometrics and computer vision were explored in the latest virtual lunch talk held by the EAB."
     publishedDateTime: 2021-09-24T15:19:00Z

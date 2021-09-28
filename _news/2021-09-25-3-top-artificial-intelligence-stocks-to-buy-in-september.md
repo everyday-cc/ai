@@ -1,33 +1,23 @@
 ---
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy in September"
-excerpt: "Artificial intelligence has become an integral part of many technology applications and software, from what online ads shoppers see to how spam gets filtered out of our email inboxes. But some companies aren't just implementing AI into their services;"
-publishedDateTime: 2021-09-25T15:45:00Z
-originalUrl: "https://www.fool.com/investing/2021/09/25/top-artificial-intelligence-stocks-buy-september/"
-webUrl: "https://www.fool.com/investing/2021/09/25/top-artificial-intelligence-stocks-buy-september/"
-ampWebUrl: "https://www.fool.com/amp/investing/2021/09/25/top-artificial-intelligence-stocks-buy-september/"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/09/25/top-artificial-intelligence-stocks-buy-september/"
+excerpt: "A rtificial intelligence has become an integral part of many technology applications and software, from what online ads shoppers see to how spam gets filtered out of our email inboxes. But some companies aren't just implementing AI into their services;"
+publishedDateTime: 2021-09-25T11:45:00Z
+originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-september-2021-09-25?time=1632570002"
+webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-september-2021-09-25?time=1632570002"
+ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-september-2021-09-25?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-september-2021-09-25?amp"
 type: article
-quality: 87
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
-
-images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F643803%2Fgettyimages-1285963556.jpg&w=1200&op=resize"
-    width: 1200
-    height: 800
-    isCached: true
 
 related:
   - title: "Amazon's September Echo event: What we expect from Ring and Alexa"
@@ -45,6 +35,6 @@ related:
         height: 600
         isCached: true
 
-secured: "lOdDVZeYHEOdp1UA35dsgcQU6RPgQg6JjclvQaycnXnOBTrrYCf7AoJR87HI9P9ZwSpmiMy2BHySVZsJIEm80PYWuUtcx3RaRNvioPVitsEJTF3dZ+SBAUjymt+bziOkztYaCJrouhcvNwnvjRQXnPNK76lGdVsdyJwAHhA2V+5XKT+WmMXGPo5QTce6tvdANTkpGiIdJv92bhOOnJqF4w59nkV1cSYCRHzRskYLEJqNkhVmp0XZ1VBA91e/mlAvIjV3TMtVSMmAvtNqVQb74VB/2hCdjmcpnWAkrqxbEorSpJ/a+my58oQ6I2v1ACPeDueUBQk/msKuTXJ/8obDPhSMbtbXvg6V+HYx9e6ksryNW7YjorC3ETxggGapXH48jTqzn1QDZHXRGRCdj5wPaDIfPcg6YH+7Rja1uXJ2hmMkGEhK3JHhA/EDfbgBuVrnhljzDKKtT6NQ716sks7FcrHRirrndYg1FI9YRpmTsgRXKjfCcc0rxA21pc7Qgg7aJsJZD/iuoziJKQC4RpCs4Q==;ocObTVE6o1CRxF24kO39IQ=="
+secured: "y8UpN2x7hZX4l5czXKvAcpURG2k3kbz3XIv2Hsq345DZopbKbcQKbj6if3eO6DyNDIVjUxCSCoIMH5jo+9d6oQZxD/Wjra/C9pGE8csb2+f8F+vqc9DGUYJNC0EedQDGCzPE42AeIWOnzc5ka1FdgYhNtOXThH8nOWMJgGqsQot18zgkhcHIunhQQafuKeMz19zGrx46JtqJN0fbvFpwmbjS7dve7m//sVW9vE/Ptx/HAjl/wwJ9fyLYgHWKlzbo+mNkz4cAOS9iKMW1WN4TMRBhaPXmC0PiisJXY1cy4UrDcpK87/yCPQQJeOMYZycKxaoCqhog/FBjFyv+toOqrh955LJKh1Yj9OkFwsd9fIc=;KCyN09N6zZoPnr/wLae27g=="
 ---
 

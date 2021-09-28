@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1102867752/Airport-Robots-Market-to-Garner-256-
 webUrl: "https://menafn.com/1102867752/Airport-Robots-Market-to-Garner-256-Billion-by-2030-Allied-Market-Research"
 type: article
 quality: 51
-heat: 72
+heat: 71
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/deep-learning-helps-predict-new-drug-com
 webUrl: "https://news.mit.edu/2021/deep-learning-helps-predict-new-drug-combinations-fight-covid-19-0924"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ireland Allies With AI to Combat COVID"
-    excerpt: "Ireland’s eHealth strategy leans heavily on AI and Big Data analysis. The nation has a bold seven-year eHealth strategy, with crack professionals, EUR21 billion in hand, and a 100,000-strong workforce."
-    publishedDateTime: 2021-09-23T10:02:00Z
-    webUrl: "https://www.yicaiglobal.com/opinion/the.yuan/ireland-allies-with-ai-to-combat-covid"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 39
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/ireland-allies-with-ai-to-combat-covid/16384856055611392.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "E-Commerce Trends Post Covid-19: Artificial Intelligence is Taking Over E-Commerce"
     excerpt: "The latest applications of big data, artificial intelligence, voice search and machine learning in e-commerce are taking customer experience and satisfaction to a new level post Covid-19."
     publishedDateTime: 2021-09-27T16:29:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/09/26/vendor-management
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/26/vendor-management-is-the-new-customer-management-and-ai-is-transforming-the-sector-already/amp/"
 type: article
 quality: 77
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Are Governments Ready For Artificial Intelligence? Role of AI in the Public Sector Post Pandemic"
-    excerpt: "Artificial intelligence (AI) can do much more than enhance government processes. If applied right, it can deliver better outcomes for citizens post pandemic."
-    publishedDateTime: 2021-09-23T10:39:00Z
-    webUrl: "https://www.bbntimes.com/society/are-governments-ready-for-artificial-intelligence-role-of-ai-in-the-public-sector-post-pandemic"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 41
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Are_Governments_Ready_For_Artificial_Intelligence__Role_of_AI_in_the_Public_Sector_Post_Pandemic.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "How AI Is Transforming The Software Development Process"
     excerpt: "There are several ways artificial intelligence (AI) is transforming the software development process. According to recent reports, the worldwide artificial intelligence market is projected to reach over $340 billion this year."
     publishedDateTime: 2021-09-24T14:41:00Z

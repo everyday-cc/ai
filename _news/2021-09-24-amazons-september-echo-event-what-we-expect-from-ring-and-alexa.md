@@ -25,21 +25,16 @@ images:
 
 related:
   - title: "3 Top Artificial Intelligence Stocks to Buy in September"
-    excerpt: "Artificial intelligence has become an integral part of many technology applications and software, from what online ads shoppers see to how spam gets filtered out of our email inboxes. But some companies aren't just implementing AI into their services;"
-    publishedDateTime: 2021-09-25T15:45:00Z
-    webUrl: "https://www.fool.com/investing/2021/09/25/top-artificial-intelligence-stocks-buy-september/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/09/25/top-artificial-intelligence-stocks-buy-september/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/09/25/top-artificial-intelligence-stocks-buy-september/"
+    excerpt: "A rtificial intelligence has become an integral part of many technology applications and software, from what online ads shoppers see to how spam gets filtered out of our email inboxes. But some companies aren't just implementing AI into their services;"
+    publishedDateTime: 2021-09-25T11:45:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-september-2021-09-25?time=1632570002"
+    ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-september-2021-09-25?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-september-2021-09-25?amp"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 87
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F643803%2Fgettyimages-1285963556.jpg&w=1200&op=resize"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
 
 secured: "iTjYPPmnhvLurJ6u/w61JqUtshc0Um+gzjIWfl01tdHbRZtNLJPzKxWT1U7zqyky78JAKqL3/Lnpjx7LYfr9+L3Uk3bjNd0zVLCJGcyGwSdNCRVAdsKDmIYOsVJnCB2asQluWhuXxcQevYERVngXFx9/UcuP5NTGg9CTzt0eBabRo+gg1SaeMYtnWYIXzkIoxO+S9xuir77Ry+HLuVtdo0y8OKpp6M1Hd9xz76pjDzZMZ6855wq1aCI/4hxt1Z6l5RpobUhwPbpmwKZjXsanv6LV+5JrYFhTWL/IoYEJgsSNhY8k7KG6M9nd5dvgxpqqxPDRXDCtsPu/3SUhzJdyJTpyIIT0lNhtO5JWUtIf3mArKbaZAUNh5ByuJcclIkcJNuGJ3PfHk9Y+SludxYLR3kV1XExd734yZKijkXOS52XAmSU9Oeh280EpWWFma6GyZGcFA8NX4iD9SI4Hn8dlcT2TW8XY7IOnDyECvqamY8OiPUzW4AAXeFWJsSdU8PrRIJ3jqHsHeI/5Q5DALM89H8QSj68enpV78jshbTwLpQ4=;seRgNZ4v/E7CpuVnnmdP7A=="
 ---

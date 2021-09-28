@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/nuance-ranked-1-so
 webUrl: "https://markets.businessinsider.com/news/stocks/nuance-ranked-1-solutions-provider-by-black-book-research-across-speech-recognition-and-clinical-documentation-improvement-1030819000"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -21,36 +21,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "Liberia: Center for Peace Education Celebrates Recognition of International Day of Peace"
-    excerpt: "A local nongovernmental organization Center for Peace and Education has joined the rest of the world in recognition of the International Day of Peace through a grand parade and indoor program spreading messages of peace."
-    publishedDateTime: 2021-09-23T10:20:00Z
-    webUrl: "https://allafrica.com/stories/202109230622.html"
-    type: article
-    provider:
-      name: AllAfrica.com
-      domain: allafrica.com
-    quality: 32
-    images:
-      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
-        width: 664
-        height: 664
-        isCached: true
-  - title: "Russia: SCO is not discussing recognition of Taliban"
-    excerpt: "The Shanghai Cooperation Organization’s recognition of the Taliban government in Kabul is not on the agenda, but there is the task of establishing contacts with this force, which has risen to power in Afghanistan,"
-    publishedDateTime: 2021-09-23T18:13:00Z
-    webUrl: "https://thefrontierpost.com/russia-sco-is-not-discussing-recognition-of-taliban/"
-    type: article
-    provider:
-      name: The Frontier Post
-      domain: thefrontierpost.com
-    quality: 24
-    images:
-      - url: "https://thefrontierpost.com/wp-content/uploads/2020/09/FP-Logo-scaled.jpg"
-        width: 1920
-        height: 886
-        isCached: true
 
 secured: "E64Dk8L55arqQfGlqwAhhIZOKCF2bIGQDkOCUjgGZsvdFz3E8A6V022P5eKUil6tmkDD+KDpDGMU1SqFECRPYijRTN++A7eAGVCC1h65SvI7jVc6xocrUo9k4G4eNLmnzdtE88w04ndDd4vKhjwDoWSZgOOM9juwiIFSutuV4hVicGGuLN6TByUO7ZyKG8e/xtEGr80tMbzSR3HEFI/m3FElRui7rJBCxZsY2R2HOYiPCqFuBo0FHkKyfZgIqs/yNlcuOiFuaAjQu37d8XGBkhYOhtoGWaGoseQyiyOa5x2C2msm7NQqv5adyELRgBDINqubygkVPCJ4YlY5cCna6xepIHAcEAvJzzJD0vb3d9k=;SLcqITiTaKR9JIXl7mCUlA=="
 ---

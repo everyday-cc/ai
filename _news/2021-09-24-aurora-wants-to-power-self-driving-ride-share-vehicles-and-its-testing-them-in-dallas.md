@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Aurora, FedEx launch self-driving vehicles"
-    excerpt: "Aurora Innovation outlined a goal to provide full driverless delivery for courier company FedEx by 2023, as the pair commenced a trial."
-    publishedDateTime: 2021-09-23T10:16:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/aurora-fedex-launch-self-driving-vehicles"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/aurora-fedex-launch-self-driving-vehicles/amp"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/aurora-fedex-launch-self-driving-vehicles/amp"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 44
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2021/09/Aurora_Innovation_Fleet.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Self-Driving FedEx Truck Testing + HVAC Trade School Fraud"
     excerpt: "As part of a new pilot program, FedEx has started using a small number of self-driving trucks to haul goods between Dallas and Houston. The program is a partnership between FedEx, autonomous vehicle startup Aurora,"
     publishedDateTime: 2021-09-23T21:35:00Z
@@ -74,20 +58,6 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/09430de/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F1a%2F8e%2Fbaf41ca2408f99ae7713893de070%2Fshutterstock-1589494129.jpg"
         width: 840
         height: 438
-        isCached: true
-  - title: "Royal Air Force begins trial for self-driving military vehicles"
-    excerpt: "The Royal Air Force (RAF) of England has started a new trial deploying autonomous vehicles on an airbase as part of the RAF’s Astra campaign. The goal is to deliver the next generation of vehicles that will be used by the RAF in the future."
-    publishedDateTime: 2021-09-24T12:35:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17235/royal-air-force-begins-trial-for-self-driving-military-vehicles"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/235/17235/Kar-go_on_Airfield_With_AD_Dakota_Model.jpg"
-        width: 752
-        height: 380
         isCached: true
   - title: "Fedex to launch self-driving trucks in pilot with Silicon Valley start-up"
     excerpt: "The US package delivery firm FedEx is partnering with a self-driving vehicle start-up for a fleet of autonomous trucks to ferry shipments between Dallas and Ho"
