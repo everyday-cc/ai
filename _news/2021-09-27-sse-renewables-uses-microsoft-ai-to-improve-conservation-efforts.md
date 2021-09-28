@@ -7,7 +7,7 @@ originalUrl: "https://www.technologyrecord.com/Article/sse-renewables-uses-micro
 webUrl: "https://www.technologyrecord.com/Article/sse-renewables-uses-microsoft-ai-to-improve-conservation-efforts-125974"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,64 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft launches data governance service Azure Purview in general availability"
+    excerpt: "Microsoft announced the launch of Azure Purview, a unified data governance solution for on-premises, cloud, and app-based systems. Today marks the broadened availab"
+    publishedDateTime: 2021-09-28T16:00:00Z
+    webUrl: "https://venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/"
+    ampWebUrl: "https://venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 114
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Google and Microsoft are creating a monopoly on coding in plain language"
+    excerpt: "Natural language coding means that people won’t need to learn specialized coding languages to write programs or design websites. But large corporations will control the means of translation."
+    publishedDateTime: 2021-09-24T20:21:00Z
+    webUrl: "https://www.queensu.ca/gazette/stories/google-and-microsoft-are-creating-monopoly-coding-plain-language"
+    type: article
+    provider:
+      name: Queen's University
+      domain: queensu.ca
+    quality: 55
+    images:
+      - url: "https://www.queensu.ca/gazette/sites/default/files/assets/socialmedia/TW%20Coding%20arnold-francisca-nPhl2x4fk2s-unsplash.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Google And Microsoft Are Creating A Monopoly On Coding In Plain Language"
+    excerpt: "Sometimes major shifts happen virtually unnoticed. On May 5, IBM announced Project CodeNet to very little media or academic attention."
+    publishedDateTime: 2021-09-28T06:17:00Z
+    webUrl: "https://www.techfinancials.co.za/2021/09/28/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language/"
+    type: article
+    provider:
+      name: techfinancials
+      domain: techfinancials.co.za
+    quality: 55
+    images:
+      - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2020/08/christopher-gower-m_HRfLhgABo-unsplash-scaled.jpg"
+        width: 2560
+        height: 1704
+        isCached: true
+  - title: "Why Wells Fargo picked both Microsoft Azure and Google Cloud"
+    excerpt: "The bank wanted to diversify its risk and use different cloud-computing services for routine and unpredictable workloads, explains Saul Van Beurden, the head of technology at Wells."
+    publishedDateTime: 2021-09-24T16:18:00Z
+    webUrl: "https://www.americanbanker.com/news/why-wells-fargo-picked-both-microsoft-azure-and-google-cloud"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 54
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/df00aa1/2147483647/strip/true/crop/1400x735+0+65/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F16%2F46%2Fc143e5604932b082b06e60d47617%2Fsaul-van-beurden-2.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Infosys Wins the 2021 Microsoft US Partner Award for Demonstrating Excellence in Azure AI Capabilities"
     excerpt: "Infosys Wins the 2021 Microsoft US Partner Award for Demonstrating Excellence in Azure AI Capabilities. Infosys has won the ‘2021 Microsoft US Partner Award’ for demonstrating"
     publishedDateTime: 2021-09-27T17:06:00Z
@@ -39,6 +97,29 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "Principled Technologies Tests Deep Learning Inference Performance on Microsoft Azure Virtual Machines Powered by Intel"
+    excerpt: "Principled Technologies tested newer Microsoft Azure Esv4-series VMs featuring Intel Xeon Platinum 8272CL processors against older Esv3-series VMs"
+    publishedDateTime: 2021-09-24T07:00:00Z
+    webUrl: "https://www.pr.com/press-release/826368"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 47
+    images:
+      - url: "https://img.pr.com/release/2109/416814/pressrelease_416814_1632412085.png"
+        width: 1000
+        height: 1294
+        isCached: true
+  - title: "AtScale Expands Semantic Layer Solution for Microsoft Excel"
+    excerpt: "AtScale expands integrations with Microsoft Excel enabling high-performance, multi-dimensional analysis on live cloud data."
+    publishedDateTime: 2021-09-28T17:52:00Z
+    webUrl: "https://tdwi.org/articles/2021/09/28/atscale-semantic-layer-solution-for-excel.aspx"
+    type: article
+    provider:
+      name: TDWI
+      domain: tdwi.org
+    quality: 21
 
 secured: "qes5yP2T/dAMporWcQEGBUbQO/O3cOkUzDzsy9pfooAs5+eTdDHudCUqz0Hg+Lcc06Hq/RHVcDQSo6RDmk7IBGyJ0adB2SPhX00cuvUxvAu+9oj+38R8rlOgEY49IKPtDjdCttX3AzQdJMgMotLAzXQN0S0L0mET1dLdtD/tUHk5+3Zs/EorlsXMp/3e+qv2/Eg2HPv3zEmpsk0CmHbd18QHmH+u3NuvZiscTfk3BBY9RyN4DCQobu7gJQR8NWRSFfwKMlwOfQbkMgSI0j+lpHYT8aB7XeGfGKooGmq74ViC4rC6ff6wg+v0aOKY5inNOoHFbhmZ4SYBMe3QRwhecdpt+3WWv7BHfcSeA3KjbGHJrGubMNGajLipkN7nVgTwQ4+Q2j9ORWXZJ+dStFM0nCxYnotwnfdVFtj7fFiBUZcQZvLucpLBfEbspQc2YVGhe9xOL5wd1onh/acXx9wlzU1N7WvtV6GGJoNt6FAcq5AQhupMYDkC1kJ160Q0LhzFkzuWxvSCF+Bga7KOZZizlw==;rZtHZniWA09EMCOknOe0nw=="
 ---

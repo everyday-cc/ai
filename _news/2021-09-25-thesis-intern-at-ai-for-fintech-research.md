@@ -189,6 +189,20 @@ related:
         width: 401
         height: 400
         isCached: true
+  - title: "The Advantages of Developing a Mobile App for a FinTech Industry"
+    excerpt: "We live in some technologically exciting times. Every industry or company benefits from having an app ready to help its customers. No matter the industry they are in, more and more companies already have an app connecting them with their customers."
+    publishedDateTime: 2021-09-28T17:56:00Z
+    webUrl: "https://finchannel.com/the-advantages-of-developing-a-mobile-app-for-a-fintech-industry/"
+    type: article
+    provider:
+      name: The Financial
+      domain: finchannel.com
+    quality: 24
+    images:
+      - url: "https://finchannel.com/wp-content/uploads/2017/11/Magazine_FinTech.jpg"
+        width: 800
+        height: 549
+        isCached: true
   - title: "The Rise of Insurtech In The Pandemic Era: FinTech is Transforming The Insurance Industry"
     excerpt: "Insurtech has recently emerged in the insurance space growing by leaps and bounds, helping organizations protect their business and execute transactions remotely during the"
     publishedDateTime: 2021-09-25T22:53:00Z

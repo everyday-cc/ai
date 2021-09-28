@@ -9,7 +9,7 @@ ampWebUrl: "https://tucson.com/lifestyles/health-med-fit/mayo-google-research-de
 cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/lifestyles/health-med-fit/mayo-google-research-develop-new-ai-algorithm-to-improve-brain-stimulation-devices-to-treat-disease/article_382d42c4-196e-11ec-b3b0-0f5f1483be5e.amp.html"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,50 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Researchers having a whale of a time with deep learning AI algorithms"
+    excerpt: "Researchers are using deep learning AI algorithms to understand and communicate with whales. Deep learning AI algorithms are becoming the key technology in some of the most complicated use cases around the world."
+    publishedDateTime: 2021-09-24T15:59:00Z
+    webUrl: "https://techhq.com/2021/09/researchers-having-a-whale-of-a-time-with-deep-learning-ai-algorithms/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 54
+    images:
+      - url: "https://cdn.techhq.com/wp-content/uploads/2021/09/000_9LP9TU-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "US researchers aim to identify autism earlier using artificial intelligence"
+    excerpt: "Researchers at West Virginia University are turning to artificial intelligence to devise a way to properly diagnosis autism spectrum disorder."
+    publishedDateTime: 2021-09-28T10:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/09/28/us-researchers-aim-to-identify-autism-earlier-using-artificial-intelligence"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 50
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/09/28/1310995.jpeg"
+        width: 1240
+        height: 1240
+        isCached: true
+  - title: "WVU researchers aim to identify autism earlier using artificial intelligence"
+    excerpt: "Researchers at University are turning to artificial intelligence to devise a way to properly diagnosis autism spectrum disorder."
+    publishedDateTime: 2021-09-27T04:00:00Z
+    webUrl: "https://www.timeswv.com/news/monday_news/wvu-researchers-aim-to-identify-autism-earlier-using-artificial-intelligence/article_866ba520-1f27-11ec-832b-d36d79a54f59.html"
+    type: article
+    provider:
+      name: Times West Virginia
+      domain: timeswv.com
+    quality: 49
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/timeswv.com/content/tncms/assets/v3/editorial/b/5c/b5cfcd7c-1f28-11ec-b5f1-3b7112da030b/61510eaa1f703.image.jpg?resize=952%2C630"
+        width: 952
+        height: 630
+        isCached: true
 
 secured: "1bKVPrnJvt3GAMubGbcbg8kNOop+OzMR/ZxH2FSoYnZW9ze/LwlT06Itvn8Gh39kRa5XTdobv5MfPNaECZrGhbjNNW7rWYmhFrxGW389MYyvSXA64JoO/49dDHvcrQtAyWUd/b/pk4TMcXvQh+7eSWsgKYVovhr/ojg2WcBOqGhy0JhFLgzCBvYw/y110bwfu7DMaheb2MxhY27lAeAyPTztIAdM6hlz9g4gn/rNQctbRuy34KeldAGIZpt7t8A/Lsu0t5SCsESPR0jyx5jjjCUOftSUxq2+AccOR0iK62G0Rr+KraJiOuLwp8haDZGYJuPfDn3ITF4nkY/0cT7lByUHldtytNpVnpKtWtBhrSibuhMZxF2wM45SnUER+XiWoRuIyfbMsIKSZF4t2bkqlxC8SKorEt/6p5eXfbpAl2fWsWvLs0HYvjBUNNYmsIuSNHlv/WygKcWoA6xQghvsURkiGugVLoRIbfY4dsQcMICv14wETDoQxZLa3TEDG2cghbEz7m16j7sRtbdDpUMpRw==;J7mD0+G/SlCSiIL90gYfqQ=="
 ---

@@ -28,7 +28,7 @@ related:
   - title: "Taliban, ex-Afghan government dispute ends with no UN speech"
     excerpt: "The dispute between Afghanistan’s new Taliban rulers and its former government over who should speak at the United Nations' annual meeting of world leaders finally has an answer: no one."
     publishedDateTime: 2021-09-27T15:26:00Z
-    webUrl: "https://apnews.com/90837664228c6cd964432655135e33ea"
+    webUrl: "https://apnews.com/article/united-nations-general-assembly-afghanistan-united-nations-taliban-90837664228c6cd964432655135e33ea"
     type: article
     provider:
       name: Associated Press

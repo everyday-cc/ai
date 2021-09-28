@@ -9,7 +9,7 @@ ampWebUrl: "https://www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-
 cdnAmpWebUrl: "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung in talks with Tesla to make next-gen self-driving chips -Korea Economic Daily"
-    excerpt: "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday. Since the beginning of this year,"
-    publishedDateTime: 2021-09-23T23:59:00Z
-    webUrl: "https://www.channelnewsasia.com/business/samsung-talks-tesla-make-next-gen-self-driving-chips-korea-economic-daily-2197401"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 64
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--2McE1zEU--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-09-23t115659z_1_lynxmpeh8m0fo_rtroptp_3_samsung-elec-leader.jpg?itok=q2wEFVqp"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Scientists want to ‘copy and paste’ the human brain onto a computer chip"
     excerpt: "Researchers from Samsung and Harvard University have proposed \"copying and pasting\" the brain onto memory networks to build smarter computer chips."
     publishedDateTime: 2021-09-27T19:23:00Z

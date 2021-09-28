@@ -215,6 +215,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla nears launch of test for $10,000 ‘full self-driving’ software"
+    excerpt: "A group of Tesla owners who paid up to $10,000 for what the company calls its \"full self-driving\" software can now ask the automaker for access to a test version of the feature. But they&#03"
+    publishedDateTime: 2021-09-28T16:02:00Z
+    webUrl: "https://www.wraltechwire.com/2021/09/28/tesla-nears-launch-of-test-for-10000-full-self-driving-software/"
+    ampWebUrl: "https://www.wraltechwire.com/2021/09/28/tesla-nears-launch-of-test-for-10000-full-self-driving-software/?amp=1"
+    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/09/28/tesla-nears-launch-of-test-for-10000-full-self-driving-software/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 59
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2017/11/tesla_dashboard_autopilot-2880x1050-1-e1522574545164-1024x489.jpg"
+        width: 1024
+        height: 489
+        isCached: true
+  - title: "Police Sue Tesla for Self-Driving Car That Injured Five Officers"
+    excerpt: "Five Texas cops filed a lawsuit against Tesla on Monday over a crash seemingly caused by the car’s semiautonomous Autopilot mode. Back in February, the cops had pulled over another car when the Model X crashed into their vehicles at 70 miles per hour,"
+    publishedDateTime: 2021-09-28T17:23:00Z
+    webUrl: "https://futurism.com/the-byte/police-sue-tesla-injured-officers"
+    ampWebUrl: "https://futurism.com/police-sue-tesla-injured-officers/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/police-sue-tesla-injured-officers/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2021/09/tessie-cops-600x315.png"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Tesla Is Bringing Self-Driving No Matter What. Regulators Need to Adapt."
     excerpt: "San Francisco authorities have expressed concern over Tesla's autonomous driving feature, dubbed Full Self Driving. More broadly, self-driving systems are advancing much faster than regulation."
     publishedDateTime: 2021-09-24T21:37:00Z

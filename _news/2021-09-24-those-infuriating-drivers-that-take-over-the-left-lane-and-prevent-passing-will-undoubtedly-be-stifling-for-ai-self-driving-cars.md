@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/amp/"
 type: article
 quality: 60
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://static.scientificamerican.com/sciam/cache/file/315BB2AC-9758-418B-A7808363D6F29820.jpg"
         width: 790
         height: 496
-        isCached: true
-  - title: "Royal Air Force Starts Testing Self-Driving Vehicles on Its Airbases"
-    excerpt: "As part of the Royal Air Force's Astra campaign, the Academy of Robotics and the Royal Air Force teamed up to launch a new trial deployment of self-driving vehicles on an airbase. This trail marks the first time the RAF has deployed autonomous vehicles on a UK airbase."
-    publishedDateTime: 2021-09-24T00:36:00Z
-    webUrl: "https://www.autoevolution.com/news/royal-air-force-starts-testing-self-driving-vehicles-on-its-airbases-170115.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 39
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/royal-air-force-starts-testing-self-driving-vehicles-on-its-airbases-170115_1.jpg"
-        width: 2560
-        height: 1293
         isCached: true
   - title: "Half of people say they are better drivers than computers will be"
     excerpt: "Brits are reluctant to relinquish driving duties, with almost half of us saying we’d prefer to drive ourselves rather than rely on self-driving technology. A study by Volkswagen Financial Services UK (VWFS) has revealed that 46% of British motorists think they’d be a better driver than driverless cars powered by Artificial Intelligence."

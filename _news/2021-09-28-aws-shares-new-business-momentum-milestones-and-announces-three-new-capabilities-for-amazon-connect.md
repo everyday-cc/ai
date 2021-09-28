@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Announces General Availability of Amazon QuickSight Q"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon QuickSight Q, a new capability in Amazon QuickSight that gives anyone in an organization the ability to ask business questions using natural language and receive accurate answers with relevant visualizations that help them gain insights from the data."
-    publishedDateTime: 2021-09-23T23:24:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/nfl-business-technology-sports-amazoncom-inc-4503228a75bc449b9ac6fa96e29053f4"
+  - title: "AWS adds new features to Amazon Connect"
+    excerpt: "Amazon Web Services (AWS) has announced three new capabilities for its omnichannel cloud contact center Amazon Connect. Powered by artificial intelligence (AI) and machine learning (ML), Amazon Connect simplifies automated interactions,"
+    publishedDateTime: 2021-09-27T12:58:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361022/aws-adds-new-features-to-amazon-connect"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 49
   - title: "AWS Shares New Business Momentum Milestones and Announces Three New Capabilities for Amazon Connect"
     excerpt: "Today at Enterprise Connect, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company , shared new business momentum milestones and announced three new capabilities for Amazon Connect that improve contact center agent productivity and"
     publishedDateTime: 2021-09-27T12:14:00Z

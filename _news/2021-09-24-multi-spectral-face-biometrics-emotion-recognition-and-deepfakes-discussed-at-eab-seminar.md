@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202109/multi-spectral-face-biometr
 webUrl: "https://www.biometricupdate.com/202109/multi-spectral-face-biometrics-emotion-recognition-and-deepfakes-discussed-at-eab-seminar"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1050
     height: 591
     isCached: true
-
-related:
-  - title: "DHS suggests face biometrics bias reduction method, quantifies demographic effects"
-    excerpt: "The paper reveals the finding that race and gender sameness contributes about 10 percent to the variation of face biometric similarity scores."
-    publishedDateTime: 2021-09-23T23:49:00Z
-    webUrl: "https://www.biometricupdate.com/202109/dhs-suggests-face-biometrics-bias-reduction-method-quantifies-demographic-effects"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 18
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
-        isCached: true
 
 secured: "h8Oa79+XpxPwQSAaGBN30WR2W1PgC8BhWOdxkhRun5wkWSNE6e29SPGAGdpWEEPzUPgw/5KWfckyrLUbdwBl9OKB2mjadueKkxLTdP4irWZqzGdn+UFpikBEqjTOwyd43Ckd9YTKS5JLLuSfxzMDHRKZJteDGYAVYptt/TWD6M7cdC3D9nRS7gg+eVDAPqWFIo//1a1oSj3LSJHuro0P9dqqlIv40HGsr3iq3KjEUe1z8RVAFuLWQfoQbIEtqpwHHEJtlY6gVHlwaXhYIXBOvcxCeS+P3aty9snD5JP3ykBiscYqDFTmlrpMHBYNEGzB7oA43VN6gPe+/Z87nTeNSe1v7RjncXxr1sNHNWmrA1/aGu0cGEUIzLKPMEycrIgZTWu3FcCb7Gk9aYNEe4SPn6X7LHH2n7OREhmhtcEwn8Vmvn5/lMQU/DCix3vT6XGCzT8zjC5Vq2YoaX/UCMmFkdtzPZdbysDdlUnAnHWu1ZrTGwoe7i9DyFc4heb6Et0l8qZic4iUclgTY+Ghjsk1Uw==;YpEPPt338WPoEp0bLAf+Mg=="
 ---

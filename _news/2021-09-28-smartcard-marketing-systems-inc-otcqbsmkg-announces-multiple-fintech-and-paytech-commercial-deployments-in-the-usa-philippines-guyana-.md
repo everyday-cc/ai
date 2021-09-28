@@ -1,24 +1,30 @@
 ---
 category: news
 title: "SmartCard Marketing Systems Inc. (OTCQB:SMKG) Announces Multiple FinTech and PayTech Commercial Deployments in the USA, Philippines, Guyana & China"
-excerpt: "The SmartCard Marketing portfolio consists of the largest wholly owned Intellectual Properties suite for multiple industries that can be also be combined to offer a powerful go-to-market for Banks, Telcos and Enterprises in various industries,"
-publishedDateTime: 2021-09-28T15:35:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/09/28/smartcard-marketing-systems-inc-otcqb-smkg-announces-multiple-fintech-and"
-webUrl: "https://stockhouse.com/news/press-releases/2021/09/28/smartcard-marketing-systems-inc-otcqb-smkg-announces-multiple-fintech-and"
+excerpt: "September 28, 2021 - SmartCard Marketing Systems Inc. (OTCQB:SMKG): The SmartCard Marketing portfolio consists of the largest wholly owned Intellectual Properties suite for multiple industries that can be also be combined to offer a powerful go-to-market for Banks,"
+publishedDateTime: 2021-09-28T15:46:00Z
+originalUrl: "https://apnews.com/press-release/newmediawire/business-technology-china-philippines-guyana-e8b067053fa42fd3a1c3196d9b956b88"
+webUrl: "https://apnews.com/press-release/newmediawire/business-technology-china-philippines-guyana-e8b067053fa42fd3a1c3196d9b956b88"
 type: article
-quality: 0
-heat: 0
+quality: 3
+heat: 3
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
   - AI in Marketing
 
-secured: "pW9rLDbff1m14EfvuCu37nZabMfi2Y6JLZ9O/2RdvMjQGD02DlyPqIStdCJSCjNrkSupIEfj5alWevLXcKe2rLm0+LZeNrz1TXaWhpKBeysxQb76xw4kb5mV5Nq4/b7oVLoQHj/p+auznDKb65unTyLkRyaEJG/kLab3Z6seslqeVSFlDD29gJQV5xfJJgGyhXoFA0S47PxZNU7AKhWS6HURMkvMMF/N5uAlGnlspyNexQx2nnfFll8TlyrENjEmNpDD+luFHyX5XB337m5hOcEQYvKeyzQgzuQ7sXLgCN/yrjyYgkVAhAjik3t+vE9FYoujhwW9jmtW1wKReMdZW1pHMKoVe5wdw4XM1Tkhu40=;zaXxeR9WIAh37mNhOCu+Bg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "0wzhe58t5oQ9Rj9lOVBSjVjOnHJImmD3xaaq1LeYo2YkO/lGuUSEIG73OXainJ9PfnOG4/cM4/sdqoX7dfgJACt6D8N8y39gsUSAmByvtN1WKm0DwgI7D8ykIrEQdPJMJMU9I39JfpeG/8R9XnUJ39ay8SIz23TTy+JOmdFcLLk8zqB3oSdNe1885HlABuYZyBaBN8ClKNXOsiJH1eQILjUjwu93xRy5lvog9FBDVC6cxDAk0u1nvpxPW9Z+ViidwZb13NYUwiz3Y5DsmNgLi+3f8ThAqLCnS3vtlnliFul17EKDKMbiQWdjmY93AmPF95og6vvn+/GbM1CujqOip4CWwHzNtZOe9ECe/A3H+U8=;Ie8p4jdF+2JfGUw8lglYog=="
 ---
 

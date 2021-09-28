@@ -67,20 +67,6 @@ related:
         width: 790
         height: 496
         isCached: true
-  - title: "Royal Air Force Starts Testing Self-Driving Vehicles on Its Airbases"
-    excerpt: "As part of the Royal Air Force's Astra campaign, the Academy of Robotics and the Royal Air Force teamed up to launch a new trial deployment of self-driving vehicles on an airbase. This trail marks the first time the RAF has deployed autonomous vehicles on a UK airbase."
-    publishedDateTime: 2021-09-24T00:36:00Z
-    webUrl: "https://www.autoevolution.com/news/royal-air-force-starts-testing-self-driving-vehicles-on-its-airbases-170115.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 39
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/royal-air-force-starts-testing-self-driving-vehicles-on-its-airbases-170115_1.jpg"
-        width: 2560
-        height: 1293
-        isCached: true
 
 secured: "KsvF90wWRSzSb7iCRqO2zyYZOqkIz1WwNNDYGJOJkLnQikn8H5sr9onxQQiNJkhfBO2ncHZe5o+w4Xwoo6UTol/AO1d2sao26cthwzTgiXnSb/0q6yA1AJeqmW3K9L71WfpXYD6MdIi9Q0pMCSluB6QQfv8VTbWret4ljaVpbDqbtx1jr+Jy1ImxsMUoGWZzTrQBvVMtQ6fI0Hnu2VIX3tpLIOEwsgbunK8+0oZATfRmBz4JjL3FAgks4hZzlyYQ+4DmEf9p3noABCCs54MEKFMUstWMdhbFxXO6XDhMgMhx6+ncdalewYbi0Js5Bsb0DZ8bFtr2wPoCY+f8bHGPVkfikki/bRFSm1WWz1LuhPrVXRE//e1OHJdyFB9xTsTgEoTGoUcc4L6zWMOzjdeq41uGns4YLSX8NCaq1S2oMm9ROc9JapIXFRti2NqrOaIFdcP8Kx09NqYKuecnGJ4b2EfOL8KaiEAYoqwyQWEozEz66kdsD74ggJtgdo6yv6SeoCUu/IxiXFtRBFzlMuyYgA==;AelPV/VShwvaqNMXjz7Zzw=="
 ---

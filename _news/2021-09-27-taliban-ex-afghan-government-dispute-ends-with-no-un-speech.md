@@ -3,8 +3,8 @@ category: news
 title: "Taliban, ex-Afghan government dispute ends with no UN speech"
 excerpt: "The dispute between Afghanistan’s new Taliban rulers and its former government over who should speak at the United Nations' annual meeting of world leaders finally has an answer: no one."
 publishedDateTime: 2021-09-27T15:26:00Z
-originalUrl: "https://apnews.com/90837664228c6cd964432655135e33ea"
-webUrl: "https://apnews.com/90837664228c6cd964432655135e33ea"
+originalUrl: "https://apnews.com/article/united-nations-general-assembly-afghanistan-united-nations-taliban-90837664228c6cd964432655135e33ea"
+webUrl: "https://apnews.com/article/united-nations-general-assembly-afghanistan-united-nations-taliban-90837664228c6cd964432655135e33ea"
 type: article
 quality: 24
 heat: 24
@@ -51,6 +51,6 @@ related:
         height: 675
         isCached: true
 
-secured: "pKS9myTi1nRnFDNW65lSBtVUAn3WLfKiucnq7d5q05pXmhdKMs3NW+E/8rHXHPUMt+sksPPX6LkgW/1MV4D2rzUWFtNIF6mgkYyCPee0YoF71mhie6ova7Nm3qnP2qmUrRT9jaQkXgy2C8zovO8w76TVuRJ1nRC8tB8Mz4ECbOeZo01bhZh520TMhXiGAvcJnf7pOAYT6tIoutc+4TwmocOzPBtckfT8DTe7hYJ3VCBpqe6MInRbYEzqJAD0C1flpuY2ToRH9f26lk+5Y5uoOlK7kr5YUMx3pvcku9xmz2N2VMN6ohJlCMt7E6GI54iY1PcooVPhee4j6xZxXZ0BtGs3dPQEocF2A2JbrO/o6VU4S35Fbal4eImpWLsAMjzkvKrrS9oLXKCppdDzRWxwkUQWN2B0eFVSSOzikdNe99lPxgdVdMSYif2oIbyjIWEasnCOEXNioYJqZ88wQZgZm4wHW9r/unhy3hMxZi9w0GlVqoJtP3GxSJEd0Iff3k1JeUtg3wQjsn3Sh2JLouqc3g==;kpWkA7MY8KLQYqZK9rUa0w=="
+secured: "qV6VafnBmWiAcxiYacJ3hD1Li41R0gPzRiGcYRZ0K8qcIoLwkPWDjcWOe1+yEyhFerqNWFcVe+MENXvkVOjkBawYf6KQgmTKiRoPpuHCNWVKAj2Ic0KPp77Eo6i36POXmMwEFRHrIuuLVPqlXBvia3flT35a8/dZhEzKSGbB6XPaV6fOQsVR9rTFwYGo0/5/hN5LmNGFaw22yg+796vBhIL8/0wUBopAyRzYPCsHU61sdoLi4FOFP0BmTliFC330R/E8EVfEu3ugws0bx3mrv8AFuSVlnhRtcrEf7wl/6wunju7p+VMP0dWOJgioSXxmQ6h5vR3TDUdnYKFTryIHxvUyXD6O8ETqKNSw2xHHFJ0=;gs4Jvai+Q0Q8u06cuysslg=="
 ---
 

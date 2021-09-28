@@ -23,6 +23,22 @@ images:
     height: 1356
     isCached: true
 
+related:
+  - title: "Oracle revamps its Exadata hardware platforms, boosting performance for on-premises workloads"
+    excerpt: "Oracle Corp. is accelerating its on-premises performance with a refreshed line of Oracle Exadata X9M platforms that are designed to run its database software within customer’s own data centers. The new products announced today include Exadata Cloud@Customer X9M,"
+    publishedDateTime: 2021-09-28T12:00:00Z
+    webUrl: "https://siliconangle.com/2021/09/28/oracle-revamps-exadata-hardware-platforms-boosting-performance-premises-workloads/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 13
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/exadata_impressive.png"
+        width: 550
+        height: 350
+        isCached: true
+
 secured: "1SlEDXQShSY29k/EpzOi3voYfAgi7ey3LzdloVIC4MORNowzNbYZbK3qpppyNDV3FYZcyK3yCvyRrEz2ES3YklwaJ0IMTa57PGhcM3hocabNzlkCX8bMX8FaKwXdRipAKo/Ei3lB5djCsAigfLfcC0XiGqKmFbbRJz4/utJNyVZffQYE6h4+pWCF4qLoqtwFfihYIwJCbZ6hoWjZt/R6G1z+yKpsx3FdOqZwfculx+Ah3LYhYzsCV84nquuFGWXjRxBIy4BSCpAoz+cURtyawSIn4Pa1E4Ol6zFNdWktgBMnN5XFmzgqqQmlTENZ0P+YNslPJoBKnX3RLGLV3YG11I5Scc8u+2ACBclWqKzaLZQ=;DWzOwE3UiKmWzWpORuyZSA=="
 ---
 

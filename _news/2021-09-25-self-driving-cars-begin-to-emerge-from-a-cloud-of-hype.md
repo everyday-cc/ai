@@ -59,20 +59,6 @@ related:
         width: 1080
         height: 1748
         isCached: true
-  - title: "Royal Air Force Starts Testing Self-Driving Vehicles on Its Airbases"
-    excerpt: "As part of the Royal Air Force's Astra campaign, the Academy of Robotics and the Royal Air Force teamed up to launch a new trial deployment of self-driving vehicles on an airbase. This trail marks the first time the RAF has deployed autonomous vehicles on a UK airbase."
-    publishedDateTime: 2021-09-24T00:36:00Z
-    webUrl: "https://www.autoevolution.com/news/royal-air-force-starts-testing-self-driving-vehicles-on-its-airbases-170115.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 39
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/royal-air-force-starts-testing-self-driving-vehicles-on-its-airbases-170115_1.jpg"
-        width: 2560
-        height: 1293
-        isCached: true
   - title: "Half of people say they are better drivers than computers will be"
     excerpt: "Brits are reluctant to relinquish driving duties, with almost half of us saying we’d prefer to drive ourselves rather than rely on self-driving technology. A study by Volkswagen Financial Services UK (VWFS) has revealed that 46% of British motorists think they’d be a better driver than driverless cars powered by Artificial Intelligence."
     publishedDateTime: 2021-09-27T10:09:00Z

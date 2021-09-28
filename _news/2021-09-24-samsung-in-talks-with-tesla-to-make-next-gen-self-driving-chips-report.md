@@ -143,20 +143,6 @@ related:
         width: 1240
         height: 620
         isCached: true
-  - title: "Kodiak Robotics Unveils Its Next-Generation Autonomous Truck with Plans to More than Double Its Self-Driving Fleet"
-    excerpt: "Kodiak Robotics, Inc., a leading self-driving trucking company, announced today its fourth-generation autonomous truck. This new truck will feature Luminar’s Iris LiDAR, ZF Full Range Radar, Hesa i 360-degree scanning LiDARs for side- and rear-view detection,"
-    publishedDateTime: 2021-09-28T14:27:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-robotics-trucking-5897d89dc650332a96baad26a6abd5ec"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "GM invests $300 million in Chinese self-driving startup"
     excerpt: "General Motors will invest $300 million in Momenta, a China-based self-driving startup, to accelerate the use of autonomous technology in future GM vehicles for the Chinese market. According to GM, Chinese customers are embracing electrification and self-driving technology faster than other parts of the world."
     publishedDateTime: 2021-09-24T12:35:00Z
@@ -185,6 +171,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Kodiak Robotics Unveils Its Next-Generation Autonomous Truck with Plans to More than Double Its Self-Driving Fleet"
+    excerpt: "Kodiak Robotics, Inc., a leading self-driving trucking company, announced today its fourth-generation autonomous truck. This new truck will feature Luminar's Iris LiDAR, ZF Full Range Radar, Hesai 360-degree scanning LiDARs for side- and rear-view detection,"
+    publishedDateTime: 2021-09-28T14:50:00Z
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=17532"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 12
 
 secured: "DTu8EWTKbJLv2Awdmdj86gZlb6SGx2lcTOZSofzALzQUqhdpkvXhL3W4oiwpqFkSJ493Uh/I6Q29y2yXzOo6Gz/qhVwxWCVG4Utmhc8r6pXGYhVbg/f/MXYsxvmCtvTsKM4BbrvrO5lLDmNIUN1CnprxCFHH3vlix1Gmj+sOAQRQc12pR4RNxDI1rwB2P9u3FWC/jXQtjotYl/0Xt8wXV7a7hXi0XjAPXAhbKloXOKzc5eV7NH/Q8Y6JtFi2QzF7s9H15dVUupZlhJs4KNwcL0IA8kP6evYGFZNEnQleFNFzooeLAKfkySVHDuqT1ZHFloktdjRK/lsfJ3uulpZ5MBdl1dMYLOcBZR1IAlu4lByQDGWPjRg42dPoYPZRnYURE8OB6wqg6l+T6otXxUBe82nBrFAKN2YX/q2+Pv72qHjDq1TdWqpKQKZvNp7s3q2A+hDQmdhsU0owjSTv0F+vIlHWME4BQpOrLVqT0dyLM0i0srWK6tTLFTUNrqfEy68LypchDTVCVCWK1KnC1j2+IA==;J+jMT4yAHUhucAPIm7qRYw=="
 ---

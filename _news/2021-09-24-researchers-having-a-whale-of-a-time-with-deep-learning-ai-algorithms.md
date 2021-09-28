@@ -7,8 +7,8 @@ originalUrl: "https://techhq.com/2021/09/researchers-having-a-whale-of-a-time-wi
 webUrl: "https://techhq.com/2021/09/researchers-having-a-whale-of-a-time-with-deep-learning-ai-algorithms/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: TechHQ
@@ -25,21 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "How do databases support AI algorithms?"
-    excerpt: "Register now! Databases have always been able to do simple, clerical work like finding particular records that match some given criteria — say, all users who are between 20 and 30 years old. Lately database companies have been adding artificial intelligence routines into databases so the users can explore the power of these smarter,"
-    publishedDateTime: 2021-09-23T23:40:00Z
-    webUrl: "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/"
-    ampWebUrl: "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/amp/"
+  - title: "US researchers aim to identify autism earlier using artificial intelligence"
+    excerpt: "Researchers at West Virginia University are turning to artificial intelligence to devise a way to properly diagnosis autism spectrum disorder."
+    publishedDateTime: 2021-09-28T10:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/09/28/us-researchers-aim-to-identify-autism-earlier-using-artificial-intelligence"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 95
+      name: The Star
+      domain: thestar.com.my
+    quality: 50
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/cloud-database-GettyImages-969567772-e1627330470267.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/09/28/1310995.jpeg"
+        width: 1240
+        height: 1240
+        isCached: true
+  - title: "WVU researchers aim to identify autism earlier using artificial intelligence"
+    excerpt: "Researchers at University are turning to artificial intelligence to devise a way to properly diagnosis autism spectrum disorder."
+    publishedDateTime: 2021-09-27T04:00:00Z
+    webUrl: "https://www.timeswv.com/news/monday_news/wvu-researchers-aim-to-identify-autism-earlier-using-artificial-intelligence/article_866ba520-1f27-11ec-832b-d36d79a54f59.html"
+    type: article
+    provider:
+      name: Times West Virginia
+      domain: timeswv.com
+    quality: 49
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/timeswv.com/content/tncms/assets/v3/editorial/b/5c/b5cfcd7c-1f28-11ec-b5f1-3b7112da030b/61510eaa1f703.image.jpg?resize=952%2C630"
+        width: 952
+        height: 630
+        isCached: true
+  - title: "Mayo, Google Research develop new AI algorithm to improve brain stimulation devices to treat disease"
+    excerpt: "ROCHESTER, Minn. ― For millions of people with epilepsy and movement disorders such as Parkinson’s disease, electrical stimulation of the brain already is widening treatment possibilities. In the future,"
+    publishedDateTime: 2021-09-26T07:00:00Z
+    webUrl: "https://tucson.com/lifestyles/health-med-fit/mayo-google-research-develop-new-ai-algorithm-to-improve-brain-stimulation-devices-to-treat-disease/article_382d42c4-196e-11ec-b3b0-0f5f1483be5e.html"
+    ampWebUrl: "https://tucson.com/lifestyles/health-med-fit/mayo-google-research-develop-new-ai-algorithm-to-improve-brain-stimulation-devices-to-treat-disease/article_382d42c4-196e-11ec-b3b0-0f5f1483be5e.amp.html"
+    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/lifestyles/health-med-fit/mayo-google-research-develop-new-ai-algorithm-to-improve-brain-stimulation-devices-to-treat-disease/article_382d42c4-196e-11ec-b3b0-0f5f1483be5e.amp.html"
+    type: article
+    provider:
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 42
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/3/5d/35d5ca8b-389b-5c80-8773-b5f41d8e14c6/5f89083f5eec0.image.jpg?crop=1780%2C1001%2C0%2C81&resize=1024%2C576&order=crop%2Cresize"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "Zcisj4Ff2QOcwi0T890HETjFk4dR+z2uDuPxVX2HZ9BluQELD+mLOnNlD9yko2Fxr07vmHcYK5YfxWc/e8+jWZyZ22au8wWQPE0RbD9nN5nN54JjvmYvoEGXxkNbkoa9m0GtGMTysdd4uWJ8QH5+6JJXDqtgt7ifAuwvRZO9w9Lx6Ez3V8vs/S7VpIJ0qTvPDX6etReYPsSZdjfEEvzdjbqqO/d150tiktixf8/+0yCLQp60T7v2yGoewAa2HZ8WuKRhQrtmcX3yvX3A9bpy6kxOaQfB1On+ApTAYpYc+865SP00UoA0sBrCCi/x6+hz8ZoCLzfQ1pqxYUFRPMxJISITJ4XGCYpd5FZ49S8t/HS3Td81LGyGdaBgPUU4bwgImsYMcCQ3/hKCHGyBi4UIJzg4tezDK+lnqD90wl4ekeL+pu7/7WGfzl5bRw6G0lyPyq32pUp3KPBQoriMzU+vQD9ILjgcW5DmhNtKPDHau/EFQRaMwofsHCObRIdqnfw03CCPdRvXHmIM02f2Rc6VCw==;AK21MzzaBmgxiYW4J+WP4g=="

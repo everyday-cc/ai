@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-02-ipad-kids-game-pok-pok-playroom-is-the-perfect-back-to-school-app-for-families.md",
+      "title": "iPad kids game Pok Pok Playroom is the perfect back to school app for families",
+      "excerpt": "Over the summer, Pok Pok, a company \"incubated\" in Snowman-- the studio behind Apple Arcade games Skate City and Where Cards Fall-- released a new way for kids to experience playtime. Pok Pok ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/ipad-kids-game-pok-pok-playroom-is-the-perfect-back-to-school-app-for-families/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/ipad-kids-game-pok-pok-playroom-is-the-perfect-back-to-school-app-for-families/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/DdwYnB6rXWieZaMiWROVleOmWdc=/2021/05/20/523c4c47-34c5-4426-87aa-32b34d0156fe/town.jpg",
+          "width": 2000,
+          "height": 1335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ipad-kids-game-pok-pok-playroom-is-the-perfect-back-to-school-app-for-families/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ipad-kids-game-pok-pok-playroom-is-the-perfect-back-to-school-app-for-families/",
+      "publishedDateTime": "2021-09-02T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-cognitive-media-market-business-growth-rate-manufacturing-analysis-size-share-cost-structure-and-forecast-to-2031.md",
+      "title": "Cognitive Media Market Business Growth Rate, Manufacturing Analysis, Size, Share, Cost Structure and Forecast to 2031",
+      "excerpt": "The report helps stakeholders and businessmen to know the demand of customers or consumers for efficient marketing of products or services. Global Cognitive Media Market research report 2022-2031 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/cognitive-media-market-business-growth-rate-manufacturing-analysis-size-share-cost-structure-and-forecast-to-2031",
+      "originalUrl": "https://www.digitaljournal.com/pr/cognitive-media-market-business-growth-rate-manufacturing-analysis-size-share-cost-structure-and-forecast-to-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/09/e5cb0140a054e933656388d4a3e46fa942ff6c1d-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-02T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-01-tech-moves-azure-gm-joins-madrona-microsoft-chief-scientist-promoted-avalara-adds-board-member.md",
       "title": "Tech Moves: Azure GM joins Madrona; Microsoft chief scientist promoted; Avalara adds board member",
       "excerpt": "Microsoft Azure General Manager and COO Aseem Datar is joining Madrona Venture Group as a partner. The Seattle investment firm also announced that Chris Picardo has been promoted to partner",
@@ -1279,110 +1374,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-cast-ai-eyes-a-hybrid-goldmine-cloud-cost-reduction.md",
-      "title": "Cast AI Eyes A Hybrid Goldmine: Cloud Cost Reduction",
-      "excerpt": "A major focus is on suppliers of cloud Kubernetes services, including Amazon EKS, Google GKS, Kubernetes Operation (Kops), and Microsoft’s Azure Kubernetes Services (AKS). The CAST AI engine does this by using Cloud Service Provider (CSP) accounts to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rscottraynovich/2021/08/19/cast-ai-eyes-a-hybrid-goldmine-cloud-cost-reduction/",
-      "originalUrl": "https://www.forbes.com/sites/rscottraynovich/2021/08/19/cast-ai-eyes-a-hybrid-goldmine-cloud-cost-reduction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f872e59a2c190b8db859662%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D400%26cropY1%3D0%26cropY2%3D400",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rscottraynovich/2021/08/19/cast-ai-eyes-a-hybrid-goldmine-cloud-cost-reduction/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2021/08/19/cast-ai-eyes-a-hybrid-goldmine-cloud-cost-reduction/amp/",
-      "publishedDateTime": "2021-08-19T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-new-windows-10-previews-arrive-for-versions-21h2-and-21h1.md",
-      "title": "New Windows 10 previews arrive for versions 21H2 and 21H1",
-      "excerpt": "and Azure IoT Edge for Linux on Windows (EFLOW) deployments for machine learning. It moves 21H2 to build number 19044.1200. The best laptops: Our recommended models for every use case and platform New year, new laptop? These are the devices that should be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2025/index.php/article/new-windows-10-21h2-and-21h1-previews-arrive/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2025/index.php/article/new-windows-10-21h2-and-21h1-previews-arrive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/07/15/70041633-d204-4909-8e5f-a88cf817ee47/thumbnail/1200x675/f38a610575a8bcb617825d19d1c98802/gettyimages-1216889099.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2025/index.php/google-amp/article/new-windows-10-21h2-and-21h1-previews-arrive/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2025/index.php/google-amp/article/new-windows-10-21h2-and-21h1-previews-arrive/",
-      "publishedDateTime": "2021-08-19T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
