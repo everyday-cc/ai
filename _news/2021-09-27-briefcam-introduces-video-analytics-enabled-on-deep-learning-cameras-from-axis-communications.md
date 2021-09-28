@@ -1,22 +1,28 @@
 ---
 category: news
 title: "BriefCam Introduces Video Analytics Enabled on Deep Learning Cameras from Axis Communications"
-excerpt: "BriefCam, the industry's leading provider of Video Content Analytics and VIDEO SYNOPSIS ® solutions, today announced availability for BriefCam Video Content Analytics on Axis (News - Alert) deep learning cameras in December 2021."
-publishedDateTime: 2021-09-27T13:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-briefcam-introduces-video-analytics-enabled-deep-learning-cameras-/2021/09/27/9456784.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-briefcam-introduces-video-analytics-enabled-deep-learning-cameras-/2021/09/27/9456784.htm"
+excerpt: "BriefCam, the industry’s leading provider of Video Content Analytics and VIDEO SYNOPSIS ® solutions, today announced availability for BriefCam Video Content Analytics on Axis deep learning cameras in December 2021."
+publishedDateTime: 2021-09-27T13:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/business-technology-e8df96e3f75744caaf15f401d59e171c"
+webUrl: "https://apnews.com/press-release/BusinessWire/business-technology-e8df96e3f75744caaf15f401d59e171c"
 type: article
-quality: 8
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "BriefCam’s video analytics available on Axis Deep Learning Cameras"
@@ -48,6 +54,6 @@ related:
         height: 339
         isCached: true
 
-secured: "16VINs69qp84g0AI9M7itDEMhUGOZV07o2mr6iyKY1YVpiTPcVIOlUvBlaQkI84rX9Nm9fqPWPmzsRNfq/k9ibg4jJluI+OnDcYAEqecqn/k1bZekr9xuTFmyAedgjXZQxEVKgjXNWoQo4Jy0JRcfkUvsA35B3Zdudf9pBcv7Y2d24fWhg5+Kw0KlFZn0QmROZR+Br/ryZdwkx8gPDsAUb38WPmKIW59A/TjyzOJwYXgHkI8qhPxH+tZl/7l/VsAMFH5VnYMtM1/Vvu0PXuvsWaGScbJJYZTTjEFvtEa3KgGHTNZgsC4m3Pszo73T2p9Wa/cmKy96TPkTxW0Wu01+y39Z54BQ4iPZ+W6zDQzlI4=;SldWWroR55TyY2u7dFzPKQ=="
+secured: "2sUFABHnPdZnv8BAoEfjTkX5IqeFaftE9MC+Iqi2m2FGxOecPfwlyrYfJE6jzvIbfuQq/A6Ti+YoL84QpmZ/m07Yvz/BLn3j4g+tMJdd+YHfhHsmG/gyqU3nrgNB4Y8ENRQI1RmXBeKgATpC3579nsmT9JhdSiXR6A1nfEUovUKtiBlXuWPo7NolPZAYVmLTNMZB1dBR3DiSOzAcXARI8do2N3SsP5SrBlLx9UC4WFgYLe4TMTp2j+aELbdz/a2j0JTbJ5G9DQsU/TMLHmhqGjTAReXnD5awfApcPIiLwA4t3ZKtplPRf6bObQSaM0G+Bv6wNsRmgHKPm2D3puSHMndTBvLa3XEn70GgTwJMQVs=;UVlZzWtedB6AoOiulO0prA=="
 ---
 

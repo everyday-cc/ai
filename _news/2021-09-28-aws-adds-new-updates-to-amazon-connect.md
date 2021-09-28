@@ -50,7 +50,7 @@ related:
   - title: "AWS Shares New Business Momentum Milestones and Announces Three New Capabilities for Amazon Connect"
     excerpt: "Today at Enterprise Connect, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), shared new business momentum milestones and announced three new capabilities for Amazon Connect that improve contact center agent productivity and provide superior service by making customer interactions more effective,"
     publishedDateTime: 2021-09-27T20:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-lifestyle-technology-business-middle-east-62bd656b2fe240a1a17519adbb362d4a"
+    webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-lifestyle-technology-business-middle-east-62bd656b2fe240a1a17519adbb362d4a"
     type: article
     provider:
       name: Associated Press

@@ -7,7 +7,7 @@ originalUrl: "https://www.finsmes.com/2021/09/opentrons-raises-200m-in-series-c-
 webUrl: "https://www.finsmes.com/2021/09/opentrons-raises-200m-in-series-c-funding.html"
 type: article
 quality: 137
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 400
     height: 400
     isCached: true
-
-related:
-  - title: "Warehouse robotics startup HAI ROBOTICS secures $200M funding"
-    excerpt: "The funding will help the company boost its product fleet through technological upgrades, expanding its global operation networks, optimizing its supply chain management and corporate structure as well as talent."
-    publishedDateTime: 2021-09-23T15:33:00Z
-    webUrl: "https://www.dcvelocity.com/articles/52462-warehouse-robotics-startup-hai-robotics-secures-200m-funding"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 69
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/03bffb1e-8f2e-4728-bb96-020dae72f048.png?height=635&t=1632371812&width=1200"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "jK1q3t39/ioGHLKSQ0ob5LNAZEyL/2yj+13qYHV9l7c3wDB6WCa+QWg+IfOxyLB+eTT1alN/CtxTcULmz+1pzoaO2lXlDPXy92+MYqv1wigyUaiTLT7wPMt6hOX7nqepQVTfsWzUQvRUOzVF+jjtbVuhjnuLnr2PMuSZcb4PsUEu80qISHRuxbdMQRLAXVdokPjeImP7X+YVsaUZnQulSCPiYAR8uFC4y++j1LSCF1hZ58/Z15vpr1v9sFgW+C+m0zJkuSw9PgOqUEx4g7V+bDWjTW3eIGEOeDIqsEpkLhoKWUVGoJZn1NR2CSqzXV55CPP3t6YbJpC9fMVqCQSK8yYzoUvVp1c8tJHxiMtJ6wV/pD8v2Ag+NQMqmj03vJb6XyVk5wY0qEfmhTASn3ET036ZBLQgqlNTFWNxNNnBEksMTwYxqnz2h18dixNK96Hvt4nwmP32a0AwjEyEGrBxypi4O/APKOr8XwIe6lzRARu3I2+HhPiBZ4We7hx6/e02LLn86ZwZnLWgxy78H/wbiP4prSism+jUoewkAiS9xzU=;GI0ru+m2pUIGCxtsJAVRFQ=="
 ---

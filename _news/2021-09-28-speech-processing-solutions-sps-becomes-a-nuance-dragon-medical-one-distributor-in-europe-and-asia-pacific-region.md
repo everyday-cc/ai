@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Speech Processing Solutions (SPS) becomes a Nuance Dragon Medical One Distributor in Europe and Asia Pacific Region"
-excerpt: "Selection made by Nuance based on SPS long-term, proven collaboration, high reputation in the market, global setup and strong cloud mindsetVIENNA--(BUSINESS WIRE)--Speech Processing Solutions (SPS), a leader in professional dictation,"
-publishedDateTime: 2021-09-28T07:02:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=537445"
-webUrl: "https://us.acrofan.com/detail.php?number=537445"
+excerpt: "Speech Processing Solutions (SPS), a leader in professional dictation, has announced they are joining forces with Nuance Communications as an official distributor of Nuance Dragon Medical One, the leading cloud-based speech recognition solution for clinical documentation,"
+publishedDateTime: 2021-09-28T09:52:00Z
+originalUrl: "https://www.afp.com/en/news/1313/speech-processing-solutions-sps-becomes-nuance-dragon-medical-one-distributor-europe-and-asia-pacific-region-202109280050691"
+webUrl: "https://www.afp.com/en/news/1313/speech-processing-solutions-sps-becomes-nuance-dragon-medical-one-distributor-europe-and-asia-pacific-region-202109280050691"
 type: article
-quality: 2
-heat: 2
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: AFP
+  domain: afp.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
-    isCached: true
-
-secured: "6PsEQZMG++8EuTx2CCbGXEExbi2VobiW3RPvsuySf7rF7N+S6JyLDGDGt+Ci73cMz3ZnBAjzwDKGkFxBRzkcfQcGbXzVlHFACKZONUFeBEMDHg//K/EYR6U0hgqD4qet18XNjzkhJ3xCkBfqywptcpDecC+e9CD7CdYy6XDAW3EkhITSldGmY+sHvkZrQe77sZsBpWtld+uvAWbiW60HA1PgZGnCdc7fsGO/x85sufdVt765E2H0haFf78cQQVCeXHYb1oiMHoTZujORmTGuOrJqioVxbEfuIXGRMGEkfSJQLyVGvKVKBAoXrV//c8K/HRZeu9JdG5MwIAuvqjZyZ1lLdykAzhq5r/y0HZNaRhc=;Hl4ZHoMt0ONAv6zIsN2bKg=="
+secured: "yLRCMnQ9g2b26xpGULhzk3WnMNOS6R8CUjxqtl75eH8inYRILtrPbVojUMr9jntXQZuSvm1Z4YpiIi4i0qxhpUPz8Bo80LVCElOXySCnYqllZ1XZXt+tEuOawW5BOPu3yVpFOE2CZMeL+C6XZf7rx5HMS0awxZKOUoR4udq6HtwyqCd/VuTZnAUxsj54UkmRlmNskz6vvmdcFACgWSlBpZPI9FlMQti9pwNQ7RidAiAoxOCoWN7NsvUf5+t4+2SKCdR88Rne5buW5f7tw6BoBTsS2ivwWnPCb+i0Oc/eTFNUDGGXMwV6C8VcHnMiRqEzRUVThTpMgHYQSDt7GHfsHsoR8KY+kE74QyVZi7sIk9fdb/IRcVmcsgEazZ4gzLMNJuHuW7Sdljyou2On/xY7+9eAPeMD3U2yWrW/SrrsXNcSdBoz3qeknzI7J/22G7fNXGwR/204KJzjBzMKCSdAI2lg90KdoCotBoFGVB2Hg2HrL/XqhPGrwHuS/sPrKQ6uKElUG3cOs46NoTaGJQ5giQ==;6doAwFQKcbK5Hg4O/BJ4/g=="
 ---
 

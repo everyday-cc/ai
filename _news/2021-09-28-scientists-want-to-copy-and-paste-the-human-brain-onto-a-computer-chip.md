@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/samsung-harvard-scientists-want-copy-a
 webUrl: "https://thenextweb.com/news/samsung-harvard-scientists-want-copy-and-paste-brain-onto-computer-chips"
 type: article
 quality: 63
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,47 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Samsung Wants To Make An AI Chip That Mimics The Human Brain"
+    excerpt: "Samsung, together with researchers from Harvard University, have published a paper that puts forth their idea of making neuromorphic chips, semiconductor technology that mimics the human brain by \"copying and pasting\"."
+    publishedDateTime: 2021-09-28T00:40:00Z
+    webUrl: "https://www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/"
+    ampWebUrl: "https://www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/amp/"
+    cdnAmpWebUrl: "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/amp/"
+    type: article
+    provider:
+      name: Lowyat.net
+      domain: lowyat.net
+    quality: 74
+    images:
+      - url: "https://www.lowyat.net/wp-content/uploads/2021/09/Brain-computer-network.jpg"
+        width: 1040
+        height: 693
+        isCached: true
+  - title: "Samsung in talks with Tesla to make next-gen self-driving chips -Korea Economic Daily"
+    excerpt: "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday. Since the beginning of this year,"
+    publishedDateTime: 2021-09-23T23:59:00Z
+    webUrl: "https://www.channelnewsasia.com/business/samsung-talks-tesla-make-next-gen-self-driving-chips-korea-economic-daily-2197401"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 64
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--2McE1zEU--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-09-23t115659z_1_lynxmpeh8m0fo_rtroptp_3_samsung-elec-leader.jpg?itok=q2wEFVqp"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Neural network mimics the human brain to solve complex problems"
+    excerpt: "Researchers at , USA, have developed a new computer system that mimics the way the human brain works, with an information processing capacity of up to one mil"
+    publishedDateTime: 2021-09-27T19:10:00Z
+    webUrl: "https://www.clarepeople.com/4614-neural-network-mimics-the-human-brain-to-solve-complex-problems/"
+    type: article
+    provider:
+      name: The Clare People
+      domain: clarepeople.com
+    quality: 34
 
 secured: "5pdSjhL3X3He9f7UK1WQhSbxr9uduF8s0FK2PQBRooANkcdQQmBpIxAFkkHTrluxdLOfnx4kLGzmbosZ4XglCMiRpSz5XHZLG1V43ctFi4fOB6G5HwZBLGqDxnHaul9i1JILyHvCJIvgpwZg1Vz8A9IcE65dRZlwLrBlUst5+zHRdNiB2TzlOXq1NStJsPSoilhKzty896lEW2S/01guEDsIrabjy3nz7Lqwkp4SQC4VMQOIg1PxhSvvvKg6RiuQZnhTIPdxQG0dRq4+FBgIAEP2VLgkFhxR7ZpTaW24BqklIz264UYTtVcxsW5pZtcdXNqYrQMvmSz/E3IIs+E1HJ0xGrlnxXMSEShD+W3ns4VoGU3REyvLgHlDRc4BrJRyGdaofftf49kenM3AS4nvq4bCuyS599VuWn1H7SMd+gV3BTZNZn48qq79xSl0VIHxzORX876FX3f17hhQNqQGhT+fJId7FZ96sxFUuihapaLKeqtuDbLX7iFSi7XSHT5yKQqE+mahoKI/t9QlLIgbnQ==;IjXL51TmnirckWk/nAGFKw=="
 ---

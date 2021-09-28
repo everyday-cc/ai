@@ -27,33 +27,60 @@ images:
     isCached: true
 
 related:
-  - title: "3D Facial Recognition Market Size, Analysis, Competitive Strategies and Forecasts to 2026"
-    excerpt: "This detailed presentation on ‘ 3D Facial Recognition market’ available at MarketStudyReport.com, features an exhaustive study conveying influential trends prevailing in the global business sphere. The report also presents significant details concerning market size,"
-    publishedDateTime: 2021-09-23T17:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-size-analysis-competitive-strategies-and-forecasts-to-2026-2021-09-23"
+  - title: "Android update teases improved accessibility options for handwriting, facial recognition"
+    excerpt: "Google is launching 13 new Android features this autumn, including new accessibility features, improvements to Waze, and alerts to remind you to look up from the phone screen while walking. The tech giant is launching two new accessibility features to help people with motor and speech impairments,"
+    publishedDateTime: 2021-09-24T12:54:00Z
+    webUrl: "https://www.itpro.co.uk/mobile/google-android/361007/android-accessibility-facial-recognition-handwriting-autumn"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 62
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1632486148/Google_android_new_features.png"
+        width: 1260
+        height: 710
         isCached: true
-  - title: "Global Artificial Intelligence Market Trends, Strategies, And Opportunities In The Market 2021-2030"
-    excerpt: "Artificial Intelligence Global Market Report 2021: COVID-19 Growth And Change. The Business Research Company's Artificial Intelligence Global Market Report"
-    publishedDateTime: 2021-09-26T01:54:00Z
-    webUrl: "https://menafn.com/1102786952/Global-Artificial-Intelligence-Market-Trends-Strategies-And-Opportunities-In-The-Market-2021-2030"
+  - title: "Absa launches facial recognition"
+    excerpt: "Absa has launched facial recognition in its Android and iOS apps, allowing clients to authenticate certain transactions by scanning their faces. The bank notified clients of the new feature with a pop-up message that appears when you sign in to your Internet banking profile."
+    publishedDateTime: 2021-09-26T15:39:00Z
+    webUrl: "https://mybroadband.co.za/news/security/413610-absa-launches-facial-recognition.html"
+    ampWebUrl: "https://mybroadband.co.za/news/security/413610-absa-launches-facial-recognition.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/security/413610-absa-launches-facial-recognition.html/amp"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 27
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 39
+  - title: "Android New Facial Gesture Controls & Handwriting Recognition Features, Check How It Works"
+    excerpt: "Google has launched a lot of accessibility features for Android, including Android Facial Gesture navigation and Android Handwriting recognition feature."
+    publishedDateTime: 2021-09-24T03:59:00Z
+    webUrl: "https://www.republicworld.com/technology-news/mobile/android-new-facial-gesture-controls-and-handwriting-recognition-features-check-how-it-works.html"
+    ampWebUrl: "https://www.republicworld.com/amp/technology-news/mobile/android-new-facial-gesture-controls-and-handwriting-recognition-features-check-how-it-works.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/mobile/android-new-facial-gesture-controls-and-handwriting-recognition-features-check-how-it-works.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 34
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?223570"
-        width: 505
-        height: 250
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/6ol50ektyictzzac_1632454868.jpeg"
+        width: 768
+        height: 438
+        isCached: true
+  - title: "Keystroke tracking, screenshots, and facial recognition: The boss may be watching long after the pandemic ends"
+    excerpt: "Companies are increasingly turning to surveillance software tools as they consider permanent remote work policies."
+    publishedDateTime: 2021-09-24T14:29:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/09/24/remote-work-from-home-surveillance/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 19
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-23-2021/t_1f37886c6abf44fcb037e167c31f2efc_name_abril_worksurveil.png&w=1440"
+        width: 1440
+        height: 810
         isCached: true
 
 secured: "iwANG51d8WQPqr9piDKMAp9UcxLFv6h3A2dJf9VKPKiOM0sxIi8gnjjLACreu7b0b0pX7iQtZal/EufSj2WduO/xb3WdICYqobNfdI2FwHWoi7vfzQRKnQE/B5WHQphGK8A5Hal4UCClf0ikcWocEoos62zRK8939O4vbm0nyboSPgahBeCOBfaHLoNQN8jNpGqHo7ON2yZLRDTB3tnk8NwjT3BUNVIl0QRy+VhFTW5FlvO/7erfNU26wjPt34pWbfALWQoLg/Bl+GutH1DFdQ+5ny7bhT/ZGoC4gU1+t1Tk9N85qtwARGUZtIY5juBT3dsrQY3t40xZq0xaY1d/BHTYfASbWdneQUygAvvehT8ahJJpd09nkot+RnJPJCUj0YEsr7d3+pVLp3J6S2/ERW8lMiDrvA7WERSpGc03RoCYfamf2j+PKwStf3HsfRH5eYqSURupuSlXT6VLZWaniV3u8t8iutiTKeuo8Kmla3INmcFQcunZFpSzOXqakGwi86uhKhDk9zN+bFntE2rLrw==;F0dfQk3G2LXJiV2n7sxZeg=="

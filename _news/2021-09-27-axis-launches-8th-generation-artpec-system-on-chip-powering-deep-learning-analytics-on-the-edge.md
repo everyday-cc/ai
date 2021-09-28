@@ -40,14 +40,19 @@ related:
         height: 627
         isCached: true
   - title: "BriefCam Introduces Video Analytics Enabled on Deep Learning Cameras from Axis Communications"
-    excerpt: "BriefCam, the industry's leading provider of Video Content Analytics and VIDEO SYNOPSIS ® solutions, today announced availability for BriefCam Video Content Analytics on Axis (News - Alert) deep learning cameras in December 2021."
-    publishedDateTime: 2021-09-27T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-briefcam-introduces-video-analytics-enabled-deep-learning-cameras-/2021/09/27/9456784.htm"
+    excerpt: "BriefCam, the industry’s leading provider of Video Content Analytics and VIDEO SYNOPSIS ® solutions, today announced availability for BriefCam Video Content Analytics on Axis deep learning cameras in December 2021."
+    publishedDateTime: 2021-09-27T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/business-technology-e8df96e3f75744caaf15f401d59e171c"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Suc8O5DgIFOvpYNTdlTQdzH9wBQEld9Ax+FsB4QO7+qlEL/9WaMZnVA5WjaiJXPIlISHYsSJjZBam0n1D/W7yoh4mWcreeWsakyAOLSUqb7E2+zFwThH2i11qVHt2u8g21M5cHWdkzaKe1BDQ5FqZJvB8/7YzCGs3yHZ9LyBPShhBi3qGvwTMY0HKYowKSRTf5rrD0DVFz7hfBf/lsTBtLcGBoyz4IsgVYYGU2TWDo+s5yHgeKXk6TUh3/uAdEirxNV8KSOaCV+do95eoEZEIp+HgYK8Dy3U/RXLCwMPm7lGXZj+5tCGpcOGtHnL3ykxeP2q8uvtLYsohr6bAQCjl81cTivmTmTO4UxGV7dHXyIYjera386q4PcaVzk4AO+xo9WezIKpSoi/Dj5DJLYbErSf/WC/RgggC+Cd/pL1SwDV8zH0yeT6PKFFjKeNC1HUajwHTW1hzT+9UB3p9yd7TrU0L5W8oHEkhn2hzn2KoQQLehoahH4kT3BcMO28ZnA7rouyNrDqPm1UaxI0kXGIQg==;EIzlG6xnWQHcG6058rxn4Q=="
 ---

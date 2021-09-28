@@ -71,22 +71,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Samsung in talks with Tesla to make next-gen self-driving chips: Report"
-    excerpt: "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips, The Korea Economic Daily reported. If Samsung wins the order, it is expected to make the chip on its 7-nanometre production process,"
-    publishedDateTime: 2021-09-23T15:18:00Z
-    webUrl: "https://inshorts.com/en/news/samsung-in-talks-with-tesla-to-make-nextgen-selfdriving-chips-report-1632410314474"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/samsung-in-talks-with-tesla-to-make-nextgen-selfdriving-chips-report-1632410314474"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/samsung-in-talks-with-tesla-to-make-nextgen-selfdriving-chips-report-1632410314474"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 59
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/09_sep/23_thu/img_1632407717774_597.jpg?"
-        width: 1080
-        height: 864
-        isCached: true
   - title: "Samsung could be making next-gen self-driving chips for Tesla"
     excerpt: "Samsung and Tesla are in talks to make the next-generation chips for Tesla's upcoming Hardware 4. Which is to come with Cybertruck in a year."
     publishedDateTime: 2021-09-25T05:15:00Z
@@ -100,22 +84,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/09/Tesla-Chip.jpg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "GM invests $300 million in China's self-driving car company Momenta"
-    excerpt: "The move is part of a plan GM announced three months ago to invest $35 billion in electric vehicle and autonomous vehicle technology from 2020-25."
-    publishedDateTime: 2021-09-23T16:41:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/general-motors/2021/09/23/gm-invests-300-million-chinas-self-driving-car-company-momenta/5828884001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/5828884001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5828884001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 44
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/10/PDTN/8e79ca76-4589-479a-a2bf-511d22991dc9-TDNBrd_DETROIT_11-25-2020_TDNXX_1_A010__2020_11_24_IMG_Gmevbarra01_1_1_3F30CMS8_L86734151_IMG_Gmevbarra01_1_1_3F30CMS8.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Xiaomi invests in Chinese self-driving chip unicorn Black Sesame"
     excerpt: "Black Sesame Technologies, a Chinese developer of artificial intelligence-based self-driving computing chips, says it is close to a valuation of nearly $2 billion after raising \"hundreds of millions of U."
@@ -159,34 +127,6 @@ related:
         width: 1240
         height: 620
         isCached: true
-  - title: "GM invests $300M in China’s self-driving car company Momenta"
-    excerpt: "General Motors is investing $300 million in China's self-driving car company Momenta. GM said Thursday that the investment will speed up the development of next-generation self-driving technologies in China."
-    publishedDateTime: 2021-09-23T15:57:00Z
-    webUrl: "https://apnews.com/article/business-technology-china-3ac51a2f83d29fffa9807a5b74b02070"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/1759e8719a7e4b3196a74cd342b7b4ee/3000.jpeg"
-        width: 2999
-        height: 3000
-        isCached: true
-  - title: "GM to invest $300M in Chinese self-driving technology developer Momenta"
-    excerpt: "The investment will help accelerate adoption of the young Chinese company’s autonomous driving technology in GM's future China products."
-    publishedDateTime: 2021-09-23T16:08:00Z
-    webUrl: "https://www.autonews.com/china/gm-invest-300m-chinese-self-driving-technology-developer-momenta"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Momenta%20tests%20its%20robotaxi%20fleet%20in%20Suzhou.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "GM invests $300 million in Chinese self-driving startup"
     excerpt: "General Motors will invest $300 million in Momenta, a China-based self-driving startup, to accelerate the use of autonomous technology in future GM vehicles for the Chinese market. According to GM, Chinese customers are embracing electrification and self-driving technology faster than other parts of the world."
     publishedDateTime: 2021-09-24T12:35:00Z
@@ -214,20 +154,6 @@ related:
       - url: "https://collisionweek.com/wp-content/uploads/2021/04/IBIS-2021-USA.png"
         width: 300
         height: 250
-        isCached: true
-  - title: "General Motors Invests $300 Million in Chinese Autonomous Driving Startup Momenta"
-    excerpt: "GM announced on Thursday that its making a $300 million investment in Chinese autonomous driving startup Momenta, which will help the company accelerate the development of self-driving technologies for future GM vehicles in China."
-    publishedDateTime: 2021-09-23T16:30:00Z
-    webUrl: "https://www.futurecar.com/4886/General-Motors-Invests-$300-Million-in-Chinese-Autonomous-Driving-Startup-Momenta"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 17
-    images:
-      - url: "https://img.futurecar.com/202109/23/l_614cad3d81fec.jpeg"
-        width: 800
-        height: 425
         isCached: true
 
 secured: "sxcW4lkru+PZJGW4n/syH6l8Zmun+J7hxvEZN0DRjLJACv25QGaJaKTeO/K7R54BgZ8s2ykTJvTm/MorKwFVhbwfVySOm0+tRvfPxQYX/QKYDFVaF8BUM3ygldELvDZUFwNx4aUa5ZmOxtG9dPl7RvmQGVXjsGhx+5jb/KYGAhpHjzWWT6cSxfYl64iy94RbFRZ9nAJuq2V0wbo22VKNgHuA9HjhYFH63LYWlb5FQb3YbJ9Y3a8e1CBdDx2lry8spH1jqXbfSx2WuiyLBg4SXasTWZvyfkl1TX8xWTxAeLRRjswWSeebr+phEAAVrERAaZl2mOO7RSN+sMnUHiZkHzCVcGykVEYGeKglHcnZxnQ=;399fan4POKqsYNo0akEJgw=="

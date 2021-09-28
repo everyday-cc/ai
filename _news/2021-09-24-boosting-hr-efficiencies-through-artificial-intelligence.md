@@ -7,7 +7,7 @@ originalUrl: "https://www.wipro.com/analytics/boosting-hr-efficiencies-through-a
 webUrl: "https://www.wipro.com/analytics/boosting-hr-efficiencies-through-artificial-intelligence/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,54 @@ images:
     width: 502
     height: 263
     isCached: true
+
+related:
+  - title: "14 Smart Ways Businesses Can Leverage AI For Growth And Efficiency"
+    excerpt: "From automating repetitive processes to forecasting to better serving customers and clients, companies can realize significant productivity gains and cost savings from the smart application of AI."
+    publishedDateTime: 2021-09-27T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614e24dfe81f627517f55f01%2F0x0.jpg"
+        width: 1200
+        height: 775
+        isCached: true
+  - title: "Google Pixel 6 advert teases smart camera and AI features"
+    excerpt: "A new Google Pixel 6 advertisement has teased a suite of smart features that upcoming phones are likely to have, potentially offering improved language translation and boosted computational photography."
+    publishedDateTime: 2021-09-28T05:01:00Z
+    webUrl: "https://www.tomsguide.com/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
+    ampWebUrl: "https://www.tomsguide.com/amp/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 61
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/7t5W2reCUYkYMbnF9WiRQ7-1200-80.jpg"
+        width: 1200
+        height: 797
+        isCached: true
+  - title: "Nosh uses AI to help people and businesses cut down on their food waste"
+    excerpt: "When founder Somdip Dey was a computer science masters student at the University of Manchester, his parents got in a terrible car accident. He"
+    publishedDateTime: 2021-09-27T04:31:00Z
+    webUrl: "https://businessghana.com/site/news/technology/247242/Nosh-uses-AI-to-help-people-and-businesses-cut-down-on-their-food-waste"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 37
+    images:
+      - url: "https://businessghana.com/site/img/../../cms/img/news/2021-09-24-16040802.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "jDK+3jsuu4zQmhQRvwrY2t039wV1zXZx5sSa14x/gwKuDcKi4PdSRiZR9bkg3plEARlgIR/ObofRjIicnzUD8vjztwsa2F3DehvGgkiR1EF4kBVJQmuwZGgPc3L+rQYyheY88qzugGGhFopMijXfUt0JBAQ2A5T0hIs3+oH+CIvrsaECsF0ZO2LD6piRP5AHwKuqLy5HZNnwrc8dB2sSG5ERTJ7WOMpmE9zZF87bUeP8m7xEJrdhjvYmmo8hTgon4obatxXIjUOtx4vqTiQnH5sDeoP0XwxWTCmBo58OSQK2mzbGzMW2CWVblgtlCGtOaxI8/97+aBfbrw+gzbFqdVg55em+yqXDGRptBs6F16A=;nUI+MFIp7ZFeEmjxrcrFrA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.rte.ie/amp/1248883/ "
 cdnAmpWebUrl: "https://amp-rte-ie.cdn.ampproject.org/c/s/amp.rte.ie/amp/1248883/ "
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,17 +27,50 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition cannot be a standalone authentication method"
-    excerpt: "As more organisations look to facial recognition to improve their digital identity practices, they must remember that it cannot stand in isolation"
-    publishedDateTime: 2021-09-24T06:00:00Z
-    webUrl: "https://www.computerweekly.com/opinion/Facial-recognition-cannot-be-a-standalone-authentication-method"
-    ampWebUrl: "https://www.computerweekly.com/opinion/Facial-recognition-cannot-be-a-standalone-authentication-method?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/Facial-recognition-cannot-be-a-standalone-authentication-method?amp=1"
+  - title: "The pandemic is testing the limits of face recognition"
+    excerpt: "Government use of face ID systems exploded during the pandemic—but tying it to critical services has left some people locked out at the moment they needed help the most."
+    publishedDateTime: 2021-09-28T09:40:00Z
+    webUrl: "https://www.technologyreview.com/2021/09/28/1036279/pandemic-unemployment-government-face-recognition/"
+    ampWebUrl: "https://www.technologyreview.com/2021/09/28/1036279/pandemic-unemployment-government-face-recognition/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/09/28/1036279/pandemic-unemployment-government-face-recognition/amp/"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/09/face-1.jpg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "London is buying heaps of facial recognition tech"
+    excerpt: "The Metropolitan Police is buying a new facial recognition system that will supercharge its surveillance technology capabilities"
+    publishedDateTime: 2021-09-27T05:00:00Z
+    webUrl: "https://www.wired.co.uk/article/met-police-facial-recognition-new"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
     quality: 39
+    images:
+      - url: "https://media.wired.co.uk/photos/606daa29646b991cdbf60056/16:9/w_1280,c_limit/cctv2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Coming to grips with facial recognition scans part of home isolation experience"
+    excerpt: "Using a location checking app and doing a facial recognition scan were part of a South Australian's daily duties during a home isolation trial."
+    publishedDateTime: 2021-09-28T09:08:00Z
+    webUrl: "https://www.rnz.co.nz/news/national/452509/coming-to-grips-with-facial-recognition-scans-part-of-home-isolation-experience"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 35
+    images:
+      - url: "https://www.rnz.co.nz/assets/news/276105/eight_col_tech.jpg?1632812833"
+        width: 720
+        height: 451
+        isCached: true
 
 secured: "cnEOAThkto3g3157WIQNluqMPe206RGkt0iDxlWr3tcr6PKS2ZkhlyX3zZuyoIMs8JPEMicHXq5WsNLByVMb91VbG5VER+LA4DPqDd9vufpE2U6oXatpclR/tpg/88ufdKqbTvv6GtZIA+b7SsTWxmY6YQdLrshyxwp3GCBHhQxAxhno3Q8k+HKx2+yPUsIRA0caf5ipMlhixgfWueT88LenS76awEJGukiBCo8hwtKXj/wFxITh+QPs+21WCXbO6c2tPNm7t2vG66JZlg3VozOwEPwIiE7dtu/0jMvt5B2qZy+RHJn2qRrm2KA0NLLJzq2Zor3VM8JR3FCAf8f9fqYWlQOuL5X5TfUysQHfFjQ=;9r1npGXo9avw3WB7WWdTbQ=="
 ---

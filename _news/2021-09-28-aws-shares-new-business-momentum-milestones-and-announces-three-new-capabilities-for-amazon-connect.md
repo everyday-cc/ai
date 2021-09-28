@@ -3,8 +3,8 @@ category: news
 title: "AWS Shares New Business Momentum Milestones and Announces Three New Capabilities for Amazon Connect"
 excerpt: "Today at Enterprise Connect, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), shared new business momentum milestones and announced three new capabilities for Amazon Connect that improve contact center agent productivity and provide superior service by making customer interactions more effective,"
 publishedDateTime: 2021-09-27T20:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-lifestyle-technology-business-middle-east-62bd656b2fe240a1a17519adbb362d4a"
-webUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-lifestyle-technology-business-middle-east-62bd656b2fe240a1a17519adbb362d4a"
+originalUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-lifestyle-technology-business-middle-east-62bd656b2fe240a1a17519adbb362d4a"
+webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-lifestyle-technology-business-middle-east-62bd656b2fe240a1a17519adbb362d4a"
 type: article
 quality: 25
 heat: -1
@@ -63,6 +63,6 @@ related:
       domain: itwire.com
     quality: 19
 
-secured: "SeR2AgG63GKpfBjuO+p/0aYk3GUIso+x+pRditt24trrcvWhGS94R1nKuBwLNWvnfUxuA0GcjSVC0Lkha4SbXf9ILRMhmKEv/JO+LVrscT6laftWCRG0BHgIIfz/ABY1Tv7cmMFmlvbDBMHGUemQyVPU2ePpfmGixtpXQYZc0VbGvdqel7r0Wek3CGKI9AyDZRL+2cWxIqw4Nz7CE8Hzrs0C2TzIius27Tj1onU+AdaVzuVnVCMw26ZFNyeRq6Jt4lYuyuxIWYtK44hCSJqDNW4idCb0W47rymTwVscbOHcGtKHbfVKV04WDEMrV4Op1qCNxJGfLLiKzonR83iLMtHV7iV5CGmkKJoqh85pgx1I=;P3UFJbQwo97MHEymSc/Xtw=="
+secured: "95ii96R8jIS7Q2xhYRnzPeIqeAeAPcETwmO746Psrh1nmAhmcCEcvNi4fdEJSkqHDsCf20R+P37Athl5KX+ZIhzJQw8E5IRXqIT6WQSHv85jctroXZoVYBhN4jjBFBzKvBcFZPu5JReVPtPqnVOq624e6I4dzwHTTLDBb023owtXVzbLZ58dOCsfU1z0VSQ1YKGuI5ppBCuXotv7pXawBxqFu5d0NM4JLsikttgzLgBhaEvpClsqC+9LeULlAD3IeraQozNvieBYNOTitgS7V238ZGL0axakrJ/NwTYb1jPi0lZPJHXJNyBBnxHt/2fFb6zYUnDNFuRhpB6MvcemFNd1z4IeyGxkwKE0TVjXMus=;LEz0qZqAdjzY5G45RoAH7w=="
 ---
 

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "BriefCam Introduces Video Analytics Enabled on Deep Learning Cameras from Axis Communications"
+    excerpt: "BriefCam, the industry’s leading provider of Video Content Analytics and VIDEO SYNOPSIS ® solutions, today announced availability for BriefCam Video Content Analytics on Axis deep learning cameras in December 2021."
+    publishedDateTime: 2021-09-27T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/business-technology-e8df96e3f75744caaf15f401d59e171c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Axis launches 8th generation ARTPEC system-on-chip powering deep-learning analytics on the edge"
     excerpt: "Axis Communications announces the 8th generation of its custom-designed system-on-chip (SoC) made for network video. The ARTPEC-8 SoC was designed first and foremost to create new opportunities for impressive analytics applications based on deep learning on the edge."
     publishedDateTime: 2021-09-27T13:46:00Z
@@ -39,15 +53,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "BriefCam Introduces Video Analytics Enabled on Deep Learning Cameras from Axis Communications"
-    excerpt: "BriefCam, the industry's leading provider of Video Content Analytics and VIDEO SYNOPSIS ® solutions, today announced availability for BriefCam Video Content Analytics on Axis (News - Alert) deep learning cameras in December 2021."
-    publishedDateTime: 2021-09-27T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-briefcam-introduces-video-analytics-enabled-deep-learning-cameras-/2021/09/27/9456784.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
 
 secured: "WD5O5ccJL646PmT7Nmu++dq0sRXszmce05NhRXjdIxfl790ouXW4bN+w8KBKHkLAx273mOby/quNswcjOdSSspv87SmiU7+wDqwBWRvTgLWMnsjApBaO02NGQZswb5m8YnEib5Ob4jouhpyK9sLrXdUwv1mH/S6qXI6984t53p4vtxeH8Jl6P2yN8EhdBzm4/D94AomW1p68K6x+nwGmQUxGbi1UnKCcwqU3OSxKLa7oYnAQ956/uXbDCrCcI4EDtJ665NaU44hUJEF17rh5Bk6cmx0lw2ibb7OO/qoZllYTVVPs3ncGUJ2b7gvGmbsSgWvkAhY/A8lt2Gm1ZJpuoKjU+gaIuTi1PmdPNkiCKaI=;6bayevbs4ljAmAxtuZL8jA=="
 ---

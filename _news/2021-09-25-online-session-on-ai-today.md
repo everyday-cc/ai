@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/news/cities/Thiruvananthapuram/online-sessi
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Thiruvananthapuram/online-session-on-ai-today/article36667811.ece/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Hindu
@@ -27,51 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Nosh uses AI to help people and businesses cut down on their food waste"
-    excerpt: "When founder Somdip Dey was a computer science masters student at the University of Manchester, his parents got in a terrible car accident. He sent all of his money back to his parents in India to help with their medical bills,"
-    publishedDateTime: 2021-09-23T17:02:00Z
-    webUrl: "https://techcrunch.com/2021/09/23/nosh-uses-ai-to-help-people-and-businesses-cut-down-on-their-food-waste/"
-    ampWebUrl: "https://techcrunch.com/2021/09/23/nosh-uses-ai-to-help-people-and-businesses-cut-down-on-their-food-waste/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/23/nosh-uses-ai-to-help-people-and-businesses-cut-down-on-their-food-waste/amp/"
+  - title: "Vulnerabilities May Slow Air Force’s Adoption of Artificial Intelligence"
+    excerpt: "More data on the battlefield means a wider attack surface, something the Defense Department has yet to prepare for, experts say."
+    publishedDateTime: 2021-09-23T22:07:00Z
+    webUrl: "https://www.defenseone.com/threats/2021/09/vulnerabilities-may-slow-air-forces-adoption-artificial-intelligence/185592/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: Defense One
+      domain: defenseone.com
+    quality: 51
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/09/nosh-white-1024-768-e1632010708309.png?w=1024"
-        width: 1024
-        height: 517
+      - url: "https://cdn.defenseone.com/media/img/cd/2021/09/23/6849739/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "14 Smart Ways Businesses Can Leverage AI For Growth And Efficiency"
-    excerpt: "From automating repetitive processes to forecasting to better serving customers and clients, companies can realize significant productivity gains and cost savings from the smart application of AI."
-    publishedDateTime: 2021-09-27T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency/amp/"
+  - title: "CWU To Host Presentation on Artificial Intelligence in Everyday Life"
+    excerpt: "Software Developer and Data Journalist Meredith Broussard will be presenting the keynote address during a lecture series titled “Artificial Intelligence: The Future is Now” on October 7 at 5:30 p.m. The talk will focus on the impact Artificial Intelligence (AI) has had on our current social and political climate,"
+    publishedDateTime: 2021-09-27T07:00:00Z
+    webUrl: "https://www.cwu.edu/cwu-host-presentation-artificial-intelligence-everyday-life"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614e24dfe81f627517f55f01%2F0x0.jpg"
-        width: 1200
-        height: 775
-        isCached: true
-  - title: "Nosh uses AI to help people and businesses cut down on their food waste"
-    excerpt: "When founder Somdip Dey was a computer science masters student at the University of Manchester, his parents got in a terrible car accident. He"
-    publishedDateTime: 2021-09-27T04:31:00Z
-    webUrl: "https://businessghana.com/site/news/technology/247242/Nosh-uses-AI-to-help-people-and-businesses-cut-down-on-their-food-waste"
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
+      name: cwu.edu
+      domain: cwu.edu
     quality: 37
     images:
-      - url: "https://businessghana.com/site/img/../../cms/img/news/2021-09-24-16040802.jpg"
+      - url: "https://www.cwu.edu/sites/default/files/MeredithBroussard1_by_Devin_Curry%20photo.jpg"
         width: 800
-        height: 600
+        height: 553
         isCached: true
 
 secured: "/80ImyCDrYZqGoXq6UivSSSoNg+8chbs+t2lEkn6V7tD+xl0f5AXAFdW2d/CYsnQumeFqR8TcSXzVHnZkPU2KYnS7afArMTxXK/PYnWQ+Sc79E+umBAI7UDS8AgCcUMCL+Tl2uav71iztqjMj9K0FkAPvrYYys0rIR5C8/NhBkAWRX5gQRa23RO+29+lomRnisvyjqDhIcMHTTKjQCSeq6WHxc9Ah7wdb5K0A2Lq6d4QYYmdnZwnhyC6qGjnw97a9XW2jK8iI+rch2ZOwiG4RNUrbrh9MG2pb+dq4pb98+2N490wZy1mCT5pqNrg/1GHJ5sOBVgDnH84EL8tZ36nFRSMo5xL/ZoCgSOr2BHvcvk=;3edOKJzrlRAiWSjp8M3gdA=="

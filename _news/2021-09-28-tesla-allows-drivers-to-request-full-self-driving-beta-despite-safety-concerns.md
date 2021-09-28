@@ -121,20 +121,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Samsung in talks with Tesla to make next-gen self-driving chips, says daily"
-    excerpt: "Samsung Electronics' semiconductor plant in Hwaseong produces 7nm chips. SEOUL: Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process,"
-    publishedDateTime: 2021-09-23T16:41:00Z
-    webUrl: "https://www.carsifu.my/news/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-says-daily"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 69
-    images:
-      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2021/09/Samsung-Foundry_New-EUV-Line_main.jpg"
-        width: 880
-        height: 548
-        isCached: true
   - title: "Tesla Starts Judging Owners It Charged $10,000 for Self-Driving"
     excerpt: "Tesla Inc. customers to get access to driver-assistance technology the company has marketed in controversial ways -- as long as they’re on their best behavior. Chief Executive O"
     publishedDateTime: 2021-09-24T13:30:00Z
@@ -183,17 +169,17 @@ related:
         isCached: true
   - title: "‘Good’ Tesla drivers might be next to get ‘full’ self-driving software"
     excerpt: "Chief Executive Officer Elon Musk tweeted that the download button customers will see Friday will request car owners’ permission for Tesla to assess their driving behavior for seven days."
-    publishedDateTime: 2021-09-25T06:57:00Z
-    webUrl: "https://www.dailynews.com/2021/09/24/tesla-starts-judging-owners-it-charged-10000-for-self-driving/"
-    ampWebUrl: "https://www.dailynews.com/2021/09/24/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/09/24/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
+    publishedDateTime: 2021-09-25T12:24:00Z
+    webUrl: "https://www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/"
+    ampWebUrl: "https://www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
     type: article
     provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
+      name: Mercury News
+      domain: mercurynews.com
     quality: 59
     images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2021/09/Tesla_Crash_88520.jpg?w=1024&#038;h=682"
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/09/Tesla_Crash_88520.jpg?w=1024&#038;h=682"
         width: 1024
         height: 682
         isCached: true
@@ -555,6 +541,6 @@ related:
       domain: allaccess.com
     quality: 3
 
-secured: "VzdpPhOxmsbBHC6O0Lbx6veckX8hyo5+PNE+GGcqi3rTOqe2Y2hlbja9qro9UZVShB2QR/jlItzpoZzvX5+pGLYP+TSBL/oq2GMygpqSf1qwRf1BWW164wfQTpEsgewckeLpLewxys2/V3llOBLn3rYLXz4kPyy1RVm/01qATwwmQRkHIAo6ib02DG1tfpomXkO8r/1TAYnUJD9yxI0tlOh+P5nxwdIraVocY5q9NCWXUnR+hwsjuMJ/VNuv3FHw7+nbNjK1qAQkUTvGdYiwDLsRfEEmbUeA5NQPhFbFVLG78gHMrCz6HEP2NZPRXwe9ksuZxdjr/JMwOsmiOPxpcd05u5S/Anp6cd2Zt5StxXs=;asUuWl8EzhtrZFUQNLiFxw=="
+secured: "/Kklt0aTnUpJz5yBg7DSIBOMDlM5mSx8ffv+QgJ7k0v0Wg+eTR3LpEDF8KbagEI3+OBaSPOPP4882E9XCKlor9N6npsPliErWHPe9sa8V3pKL6FU4NrExbz82KaeYTosgBIeQs94AuzmqCopcs896wU1MgmEmia4w4cPfC6Lk27Ci81aK/so4wdhhO/TuRg1DBcYjiw2pGr9PVTsHZQTJUgYBGtQ+ILRPisp2Wyahr4hvi6lpEcYuxdWhMWgaRhdzLihLCv9/OM4j1K21gP2MMeA3fmqbjFw01ml9a4TUFIU78ZQbd3vbRuan7pcpqF3LvbALPatncazg6y0sTxswXwxoNLFEm5Mv9A3JE1bkjv6npaSkMWsjSjNkxUtG7legEpzLX7edzGkipXd9aPNaRkBth6ZOXTT7Xr6Xzf3++uvOYhSkVyiFItMMniIIlF9oNFQ+YVs9qAoRATiUH05ldVCk29roaOfotzD6oh/LjXENLPvI2/MTf33yg1ol7cd5XoGAQ/1VMF1b8NRibpXhg==;yjaoDRO/tUaiTdDG6fd09Q=="
 ---
 

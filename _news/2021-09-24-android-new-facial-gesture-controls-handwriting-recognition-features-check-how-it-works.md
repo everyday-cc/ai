@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Android adds facial gesture controls and handwriting recognition accessibility features"
-    excerpt: "Google’s raft of new features coming to Android this fall includes some interesting new accessibility features. There are new facial gesture controls designed for people with motor impairments, as well as a new handwriting recognition feature for Lookout,"
-    publishedDateTime: 2021-09-23T16:00:00Z
-    webUrl: "https://www.theverge.com/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 68
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/sY-QLcLpUYEAsrQHxGaStgDRTx8=/0x0:1284x856/1400x933/filters:focal(540x326:744x530):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69898308/Untitled__2_.0.png"
-        width: 1284
-        height: 856
-        isCached: true
-  - title: "Google powers up assistive tech in Android with facial gesture-powered shortcuts and switches"
-    excerpt: "Making smartphones more accessible is always a good idea, and Google’s latest features bring quick actions and navigation to people whose expressions are their primary means of interacting with the world."
-    publishedDateTime: 2021-09-23T16:01:00Z
-    webUrl: "https://techcrunch.com/2021/09/23/google-powers-up-assistive-tech-in-android-with-facial-gesture-powered-shortcuts-and-switches/"
-    ampWebUrl: "https://techcrunch.com/2021/09/23/google-powers-up-assistive-tech-in-android-with-facial-gesture-powered-shortcuts-and-switches/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/23/google-powers-up-assistive-tech-in-android-with-facial-gesture-powered-shortcuts-and-switches/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 63
-    images:
-      - url: "https://i.ytimg.com/vi/ItyAEbCIjCU/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Android update teases improved accessibility options for handwriting, facial recognition"
     excerpt: "Google is launching 13 new Android features this autumn, including new accessibility features, improvements to Waze, and alerts to remind you to look up from the phone screen while walking. The tech giant is launching two new accessibility features to help people with motor and speech impairments,"
     publishedDateTime: 2021-09-24T12:54:00Z
@@ -73,6 +41,22 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Worried About Facial Recognition? Big Tech Wants Your Anal Prints Too"
+    excerpt: "Privacy concerns related to the implications of facial recognition have been raised several times but you may not have thought much about a very different part of your body being scanned. Sanjiv Gambhir,"
+    publishedDateTime: 2021-09-27T10:16:00Z
+    webUrl: "https://www.thequint.com/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too"
+    ampWebUrl: "https://www.thequint.com/amp/story/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too"
+    cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too"
+    type: article
+    provider:
+      name: The Quint
+      domain: thequint.com
+    quality: 59
+    images:
+      - url: "https://images.thequint.com/thequint%2F2020-02%2F18813c2f-9015-42ff-b4e4-712fc1e86819%2FiStock_1165098319.jpg"
+        width: 745
+        height: 419
+        isCached: true
   - title: "Absa launches facial recognition"
     excerpt: "Absa has launched facial recognition in its Android and iOS apps, allowing clients to authenticate certain transactions by scanning their faces. The bank notified clients of the new feature with a pop-up message that appears when you sign in to your Internet banking profile."
     publishedDateTime: 2021-09-26T15:39:00Z
@@ -84,22 +68,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
-  - title: "Google Pixel 6 advert points to enhanced voice recognition and other new features"
-    excerpt: "The above suggests that Google’s new Tensor processor could have enough power and machine learning capabilities to understand different accents and languages for more accurate and seamless voice commands. Translation and captioning capabilities could ..."
-    publishedDateTime: 2021-09-27T15:49:00Z
-    webUrl: "https://www.whathifi.com/us/news/google-pixel-6-advert-points-to-enhanced-voice-recognition-and-other-new-features"
-    ampWebUrl: "https://www.whathifi.com/us/amp/news/google-pixel-6-advert-points-to-enhanced-voice-recognition-and-other-new-features"
-    cdnAmpWebUrl: "https://www-whathifi-com.cdn.ampproject.org/c/s/www.whathifi.com/us/amp/news/google-pixel-6-advert-points-to-enhanced-voice-recognition-and-other-new-features"
-    type: article
-    provider:
-      name: What Hi-Fi?
-      domain: whathifi.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/vUJEGmxa6i78qEXfdaqDuK-1200-80.png"
-        width: 1200
-        height: 817
-        isCached: true
   - title: "Keystroke tracking, screenshots, and facial recognition: The boss may be watching long after the pandemic ends"
     excerpt: "Companies are increasingly turning to surveillance software tools as they consider permanent remote work policies."
     publishedDateTime: 2021-09-24T14:29:00Z

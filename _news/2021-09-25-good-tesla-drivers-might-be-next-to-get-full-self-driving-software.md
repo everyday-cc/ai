@@ -2,26 +2,26 @@
 category: news
 title: "‘Good’ Tesla drivers might be next to get ‘full’ self-driving software"
 excerpt: "Chief Executive Officer Elon Musk tweeted that the download button customers will see Friday will request car owners’ permission for Tesla to assess their driving behavior for seven days."
-publishedDateTime: 2021-09-25T06:57:00Z
-originalUrl: "https://www.dailynews.com/2021/09/24/tesla-starts-judging-owners-it-charged-10000-for-self-driving/"
-webUrl: "https://www.dailynews.com/2021/09/24/tesla-starts-judging-owners-it-charged-10000-for-self-driving/"
-ampWebUrl: "https://www.dailynews.com/2021/09/24/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
-cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/09/24/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
+publishedDateTime: 2021-09-25T12:24:00Z
+originalUrl: "https://www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/"
+webUrl: "https://www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/"
+ampWebUrl: "https://www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
+cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Daily News
-  domain: dailynews.com
+  name: Mercury News
+  domain: mercurynews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.dailynews.com/wp-content/uploads/2021/09/Tesla_Crash_88520.jpg?w=1024&#038;h=682"
+  - url: "https://www.mercurynews.com/wp-content/uploads/2021/09/Tesla_Crash_88520.jpg?w=1024&#038;h=682"
     width: 1024
     height: 682
     isCached: true
@@ -122,20 +122,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/06/electric-car-maker-xpeng-is-chasing-market-leader.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Samsung in talks with Tesla to make next-gen self-driving chips, says daily"
-    excerpt: "Samsung Electronics' semiconductor plant in Hwaseong produces 7nm chips. SEOUL: Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process,"
-    publishedDateTime: 2021-09-23T16:41:00Z
-    webUrl: "https://www.carsifu.my/news/samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-says-daily"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 69
-    images:
-      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2021/09/Samsung-Foundry_New-EUV-Line_main.jpg"
-        width: 880
-        height: 548
         isCached: true
   - title: "Tesla Starts Judging Owners It Charged $10,000 for Self-Driving"
     excerpt: "Tesla Inc. customers to get access to driver-assistance technology the company has marketed in controversial ways -- as long as they’re on their best behavior. Chief Executive O"
@@ -555,6 +541,6 @@ related:
       domain: allaccess.com
     quality: 3
 
-secured: "yYtCVxuYaZgSMAbMs96GNa5TulK6HBqplAT1wwiYgck872qoJE5djr/Y5cidkFBd8ocGyxtSrDDlJ5NaYN7WxRXgvhc+Qi/qUuj+c7EtZToLFTRcGXee+yldkpMWYnxPvqYewNrGdD+Ycq7ZvXshtbd01hjP0csMV695vbjqSVQMdYoLWcVJqsX4gYcES7SnuZS1Yt9VE4pdKzSOhUxRfKLW8gvVDEyLWB55CRpL2SHg/d1bGN/Ffqi3W7BZBgPF2kUJFn3i5jFgaTGiUFl0ULVz7LcghoOngf2ZRjIiw/EhB6CLzxvBe/lH3yJrdR4CGLZKiUSSS2zwZpKPlPUusCueNxFgrNDhn5HhVHxZHAE=;AeqyWf37Ok/ot7CvqgR0hQ=="
+secured: "3Y3HGUm2be4DaZCkwjfPCFimcysJNKgUtHrGL2KO5rcGzbigUuOpz7e2whLgNzlR8Ca/Ke4AX9Vw7jYYCmlz3wGHeHFA09TQEBHnBrIJs+AiRQGyevip1nYKRtbEOnvnHQ+HzN6tQB9bh/6elMX0jr9MabsP0H4l4OKE/FNzxAN3FKfc9SUwDDU7zhCpGobsiaC2plHqyuF+I3DE24xbEt89TZNF0xVBJt+Eqve+Ib1jBznWWVJy+D+y6WzqQXfDkT3LUp1NjQwyoCtbsfDvvzbvNd47ncgPjQ+k5IaJ23cwl64x6SaM44SxDWnQPWQha1j2jAiLOF6XSiHQ/cs/G+UaoEvpTDQmW079Mk244yU=;ceZakVSNPdLluk2kW+f7cQ=="
 ---
 

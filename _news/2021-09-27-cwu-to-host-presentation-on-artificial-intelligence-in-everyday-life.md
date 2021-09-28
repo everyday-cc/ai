@@ -7,7 +7,7 @@ originalUrl: "https://www.cwu.edu/cwu-host-presentation-artificial-intelligence-
 webUrl: "https://www.cwu.edu/cwu-host-presentation-artificial-intelligence-everyday-life"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,38 @@ images:
     width: 800
     height: 553
     isCached: true
+
+related:
+  - title: "Online session on AI today"
+    excerpt: "Prathidhwani, a welfare organisation of IT employees, will organise its 100th session under the aegis of the Prathidhwani Technical Forum on Sunday from 11 a.m. to 1 p.m. The session on ‘How Artificial Intelligence is impacting social change and accessibility’ will have Robin Tommy,"
+    publishedDateTime: 2021-09-25T13:22:00Z
+    webUrl: "https://www.thehindu.com/news/cities/Thiruvananthapuram/online-session-on-ai-today/article36667811.ece"
+    ampWebUrl: "https://www.thehindu.com/news/cities/Thiruvananthapuram/online-session-on-ai-today/article36667811.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Thiruvananthapuram/online-session-on-ai-today/article36667811.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Vulnerabilities May Slow Air Force’s Adoption of Artificial Intelligence"
+    excerpt: "More data on the battlefield means a wider attack surface, something the Defense Department has yet to prepare for, experts say."
+    publishedDateTime: 2021-09-23T22:07:00Z
+    webUrl: "https://www.defenseone.com/threats/2021/09/vulnerabilities-may-slow-air-forces-adoption-artificial-intelligence/185592/"
+    type: article
+    provider:
+      name: Defense One
+      domain: defenseone.com
+    quality: 51
+    images:
+      - url: "https://cdn.defenseone.com/media/img/cd/2021/09/23/6849739/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "X/oY984kQNLIM6WldgfwEORmuSiAy/S0zcvMISXJEJE2gw9kzFB5S+eIme48O8HYi2DzVVQYQ7pA9bvWUWVSuKemr9ri6ZWFLwHH8ls07xeivIh2e4ldpBwWiLED4l7UZOygEVmKnphPciIdFMg4JP9ADhgz1XD72hsWYdoZavhFqy39p6tjrQkICuP+z+qah+R9sT8EfT8nbdhrOasbo1Aq6L2sPW3iyoWOzBeS2oU0rn/EPkNZW4w8snIBQ+PwxSeJ6gs4jA/19h85VDi1w4KEE3SOymQqyV5WbBQ6PbHIk0gjjWmnpXxXJPKmPE0TvVFZKD0yFkzropS0v5BdccMWFNo+8cCJWYwcDqFkwE8=;/3tFZeSj147Lv33gR4WLUA=="
 ---

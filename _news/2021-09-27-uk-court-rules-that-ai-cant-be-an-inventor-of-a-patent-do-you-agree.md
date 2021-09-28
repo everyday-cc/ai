@@ -40,6 +40,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Can AI qualify as an “inventor” for the purposes of patent law?"
+    excerpt: "Can Artificial Intelligence qualify as an \"inventor\" for the purposes of patent law? No, says the Court of Appeal"
+    publishedDateTime: 2021-09-28T09:52:00Z
+    webUrl: "https://ukhumanrightsblog.com/2021/09/28/can-ai-qualify-as-an-inventor-for-the-purposes-of-patent-law/"
+    ampWebUrl: "https://ukhumanrightsblog.com/2021/09/28/can-ai-qualify-as-an-inventor-for-the-purposes-of-patent-law/amp/"
+    cdnAmpWebUrl: "https://ukhumanrightsblog-com.cdn.ampproject.org/c/s/ukhumanrightsblog.com/2021/09/28/can-ai-qualify-as-an-inventor-for-the-purposes-of-patent-law/amp/"
+    type: article
+    provider:
+      name: UK Human Rights Blog
+      domain: ukhumanrightsblog.com
+    quality: 57
+    images:
+      - url: "https://s0.wp.com/i/webclip.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "i119j/gXXuGNKJXmaJ2WTu009y0pzoQCe4tKRuXEsgGqV+O0Q2NleuCI8z/iCKJHkdQX/+4uLJu/gvZmwgksZOKBa2CQwW8D8z7mWNrQrh7r1QfFK2N8nJg0pdEtNC0VeFEj5EpVFWQt1r2A6iwLM6GVBRH3Ofh9RA4CpSr8tjniR8c6Zbt5SfdcAdRh4CRDAUDNVBS2A9rFq+bEuMYWMUyDKBLDnX7xj+dd0Of4kJGLK31frYOG8zVRNtB3vXNg12zzeiRiPSEJUq2VHjmGS1anfoXG/q9V6wDmU5Pua91xRhIB3+dNCXNZ9U3pvYCGjq08GhhAtvfUri+ntznFENs1wMnCX/9l3c4giuHKYbAyAixzirC6WEQKynLQvMXnWl2ktzu+JAGjyqKTAtf2fq2EhkwF1KQWD665XSGxdKEvz3nxzTIdHUQp6vWiQy2ovJp6JcPgxt4enIkjBE9FePwVk1g33Ec0/LWRmPfmW+UwT/gNPVkyIBpO5S+zDd+nEMQLA2+re1xsLsGIMXtXpQ==;6CTYo4QBtb/7I/mkol3v0A=="
 ---

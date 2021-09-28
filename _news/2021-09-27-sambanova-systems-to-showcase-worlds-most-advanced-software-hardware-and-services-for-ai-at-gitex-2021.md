@@ -3,25 +3,25 @@ category: news
 title: "SambaNova Systems to Showcase World’s Most Advanced Software, Hardware and Services for AI at GITEX 2021"
 excerpt: "SambaNova Systems, the company building the industry’s most advanced software, hardware and services to run AI applications, announced today that it will be attending GITEX Technology Week 2021 as part of the company’s goal to expand Artificial Intelligence and Machine Learning adoption in the Middle East and around the world."
 publishedDateTime: 2021-09-27T16:11:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/article_54f6b2a4-c85f-57a3-9e86-48f4a6a05efe.html"
-webUrl: "https://www.galvnews.com/news_ap/business/article_54f6b2a4-c85f-57a3-9e86-48f4a6a05efe.html"
+originalUrl: "https://apnews.com/press-release/BusinessWire/business-technology-middle-east-software-artificial-intelligence-afcb708b9c2e4ebbb17a353aa4d97cfc"
+webUrl: "https://apnews.com/press-release/BusinessWire/business-technology-middle-east-software-artificial-intelligence-afcb708b9c2e4ebbb17a353aa4d97cfc"
 type: article
 quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Daily News
-  domain: galvnews.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png"
-    width: 1920
-    height: 1080
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -74,6 +74,6 @@ related:
       domain: businesswire.com
     quality: 2
 
-secured: "sL9gw6mfcrFOvB1APhj+kgW4YziF4SSRvWxS4Xdjt68tzwAig/4wJtpBReN3f25GXs5Jgi59qOWI1TgM89ZCFD7+Jsv3uh0lPkis8HQPfjU5J9j6gf8Rt5sD1C3IoEHFoskT0P8ALyM2oCe8iAi/T2Jy99KzDtbB/RkfjQfgXKaJaRJX1MIgnNFm03VnITTuTlayuvoipBSnwahWatq77UF5f+0NOJeQeilgfqL3S8I7hcr73kJC8MQYy6Ja50uDfeNV7wpfbe195IIfZFh/cY/AW5qk+EUmE5q9sFtFpbkBlpc688GbIUBISYi3laLRW7Y4Z3am7As3RznwFBn1Hk4W0gYBuClJCQXoaAkI4UA=;p9P5KsTqQSBgfiNBMRjaVQ=="
+secured: "oVegL1YbeUGuCxIKaIAa9DFwuiCuzCcSuRugAPATa8aCRyRkKqKweYDCjhZnsdUXlOrP0k5I4pb7cy5HLbTqBiAXQZqBAR34HjypHC6fTqGyTifLKixigPywqVcQKWDVr8JAbZ/zaYa9aiPJ/6IxslctDAAI2viTQrTJSbmuHDDtghyxvewA/Xp+T4BvmXsvClvoC28/mWVaYYneGqW5aQQ9mnjAwjIyqMhgJp40YXmnAi1wRrpLf8sldooJbqbAiV60Hsm69oZoCRa9CkCKruK5fvNxSEYhZUzTWOOKjceiUJKRY7Bt9gSJLIN+oQWswWDTJp7kUo88ZQfrRemL3V87AeHIlyCC7mmbmaor9Ig=;wp4Z8aX2W4KZ1E2ohB9Qqg=="
 ---
 

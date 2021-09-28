@@ -7,7 +7,7 @@ originalUrl: "https://www.euronews.com/green/2021/09/26/could-these-ai-robots-re
 webUrl: "https://www.euronews.com/green/2021/09/26/could-these-ai-robots-replace-farmers-and-make-agriculture-more-sustainable"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1000
     height: 563
     isCached: true
+
+related:
+  - title: "Robots farm more sustainably than humans"
+    excerpt: "A California-based company is developing an artificial intelligence solution to the carbon footprint of agriculture"
+    publishedDateTime: 2021-09-28T08:11:00Z
+    webUrl: "https://www.energylivenews.com/2021/09/28/robots-farm-more-sustainably-than-humans/"
+    type: article
+    provider:
+      name: Energy Live News
+      domain: energylivenews.com
+    quality: 54
+    images:
+      - url: "https://www.energylivenews.com/wp-content/uploads/2021/09/iron-ox.jpg"
+        width: 720
+        height: 412
+        isCached: true
 
 secured: "jhEGfG0OHdr3tJN5AUoYLqtyehihZcsMWCWXWNzFFYxGecThc1lJFxzeo1YVkrIEkxaPQzhyUHYpyBtnrYGIsXvFfVOnxQKhW1KgeHdqrloKA5+sQULQyYompDOs2/Vgf+OZauqWf3L8lsxcRPrn5SHoibcvYYtd+0+O+XLIIgFRizB3TlE9KJMUW7fu0iI2gJjygJ62azEPXC+3RMetXp7Yyw9EBYmB5qndXcKL1FW7gMZFA7g9TkfYTAukSK4PxqRC/3Me1i1WEi0OMwpHG3vtjfuc+Cwib+cRVXBK7a8WnH+Aygao/8Lop1Uq7ueo1UkMCjscnm1PVYYWVykfZtzJ6HtKBU0QElbrx6I6fqNERheog/24Ob9WZIYZnA2vEyWC7z4+dPfv/dpYpd+nzTWXDQgjFuWr5mtQ2PuI/8Rqvv7ZCrSHaA8VhsqOjpomqDwE7NtDScIwK59p1gQr2BT6z6l6C+5TY++vss9Lmg3+EM/56KmWZ4k4A+yxW++ikAsszn2KeBxaKUXD3OSFjw==;DVAxPPVD9b/GJ3gCCjDQZw=="
 ---

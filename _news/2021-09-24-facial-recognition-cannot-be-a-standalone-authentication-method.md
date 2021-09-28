@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/opinion/Facial-recognition-cannot-be-
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/Facial-recognition-cannot-be-a-standalone-authentication-method?amp=1"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -19,24 +19,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Confusion reigns over special pandemic recognition bonus"
-    excerpt: "A special recognition bonus is on the cards for those who shouldered the greatest burden during the pandemic. Politicians have been effusive in praising healthcare workers and others for their service but unions want those words translated into."
-    publishedDateTime: 2021-09-25T06:00:00Z
-    webUrl: "https://www.rte.ie/news/2021/0926/1248883-pandemic-dividend/"
-    ampWebUrl: "https://amp.rte.ie/amp/1248883/ "
-    cdnAmpWebUrl: "https://amp-rte-ie.cdn.ampproject.org/c/s/amp.rte.ie/amp/1248883/ "
-    type: article
-    provider:
-      name: RTE Online
-      domain: www.rte.ie
-    quality: 44
-    images:
-      - url: "https://img.rasset.ie/0015baca-642.jpg"
-        width: 642
-        height: 361
-        isCached: true
 
 secured: "3ZK6EuFgFKukRdFGbXZa5n6/zPhFT/u8GRNhejAfic/daqkr+Vc8pIIVenkXyvM6lx6aQ0LCtfOTrckSkuVP6SCkPIidVey4Cbccny2Q0VYf2YefTiM1bkLoOcrcxITqYmiRfvjyY4fSrlrrv4Z7iaX5kPYgi/Z79f50HW/6OQYQ/iCS1Ldwboq3sjdHB5qSMFfrnWxuYqJEpknFxJuPMjXMCauA1qEb9e7yEGbYrUy/q3uGGKSXLAmMOLruWl9MEtjZwZ6maNDJgsn5p2ArtrO1VEvIUfw/7CA+elSviOo1IHiJwcFHjAptoOzWTyo+OBeXq6kgZ0G+/jyu+4kUFhtVg7fGnFTvuzHzmgAGrxw=;NSZM9iLiRaDiLVggn/qhHQ=="
 ---

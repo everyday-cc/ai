@@ -7,7 +7,7 @@ originalUrl: "https://www.roboticstomorrow.com/content.php?post=17514"
 webUrl: "https://www.roboticstomorrow.com/content.php?post=17514"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "InOrbit Launches Free Edition to Democratize Robot Operations"
-    excerpt: "InOrbit, the leading provider of cloud-based robot operations (RobOps) software, today announced the launch of a Free Edition of the platform, allowing companies to manage an unlimited number of robots for free forever."
-    publishedDateTime: 2021-09-23T16:09:00Z
-    webUrl: "https://www.lelezard.com/en/news-20013084.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "5u9n9D8doqYZDBhdmrxL9AM6IxcSDlKR1588YB1zjvRVsV4Kepl3IIJom2eYJCD9FJONUmvI+qR85ALYiggMASUn8JnO0LlBWHFPQm2kJ8gdG6zJuKI4+6W6uZyVi9N9l9ZuHNBQihJdSrDMrHIuu9BA4olRyY0WmNg7XLekA/rki+22BY8r4sQPDtA+JcEMk96i3JWlsXlrAYHBPTncjuzxWL0k9Iuq+a8VGomk2S00xW6B1Icu7NFWflH4HhTFadb7ke83V6FR4X4fjILTguhUXMzLnFW+HDBdBvfnF0jO5MCyFKMJ0vFfIOKJAiNDZCCc/3/RTnDejb51EYUHoQ0IBnDxVqOYWthjpMfAWq4=;Vhaap4hhYpHzGdPabuZzTw=="
 ---

@@ -52,16 +52,16 @@ related:
   - title: "SambaNova Systems to Showcase World’s Most Advanced Software, Hardware and Services for AI at GITEX 2021"
     excerpt: "SambaNova Systems, the company building the industry’s most advanced software, hardware and services to run AI applications, announced today that it will be attending GITEX Technology Week 2021 as part of the company’s goal to expand Artificial Intelligence and Machine Learning adoption in the Middle East and around the world."
     publishedDateTime: 2021-09-27T16:11:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_54f6b2a4-c85f-57a3-9e86-48f4a6a05efe.html"
+    webUrl: "https://apnews.com/press-release/BusinessWire/business-technology-middle-east-software-artificial-intelligence-afcb708b9c2e4ebbb17a353aa4d97cfc"
     type: article
     provider:
-      name: Daily News
-      domain: galvnews.com
+      name: Associated Press
+      domain: apnews.com
     quality: 22
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png"
-        width: 1920
-        height: 1080
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "GITEX 2021: SambaNova Systems is bringing its AI-related products to the region"
     excerpt: "The company will feature Dataflow-as-a-Service offering, which will advance AI and Machine Learning adoption in the Middle East. GITEX 2021: SambaNova Systems is bringing its AI-related products to the region."

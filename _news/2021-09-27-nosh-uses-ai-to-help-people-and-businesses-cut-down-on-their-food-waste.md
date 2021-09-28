@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nosh uses AI to help people and businesses cut down on their food waste"
-    excerpt: "When founder Somdip Dey was a computer science masters student at the University of Manchester, his parents got in a terrible car accident. He sent all of his money back to his parents in India to help with their medical bills,"
-    publishedDateTime: 2021-09-23T17:02:00Z
-    webUrl: "https://techcrunch.com/2021/09/23/nosh-uses-ai-to-help-people-and-businesses-cut-down-on-their-food-waste/"
-    ampWebUrl: "https://techcrunch.com/2021/09/23/nosh-uses-ai-to-help-people-and-businesses-cut-down-on-their-food-waste/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/23/nosh-uses-ai-to-help-people-and-businesses-cut-down-on-their-food-waste/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/09/nosh-white-1024-768-e1632010708309.png?w=1024"
-        width: 1024
-        height: 517
-        isCached: true
   - title: "14 Smart Ways Businesses Can Leverage AI For Growth And Efficiency"
     excerpt: "From automating repetitive processes to forecasting to better serving customers and clients, companies can realize significant productivity gains and cost savings from the smart application of AI."
     publishedDateTime: 2021-09-27T12:15:00Z
@@ -56,21 +40,35 @@ related:
         width: 1200
         height: 775
         isCached: true
-  - title: "Online session on AI today"
-    excerpt: "Prathidhwani, a welfare organisation of IT employees, will organise its 100th session under the aegis of the Prathidhwani Technical Forum on Sunday from 11 a.m. to 1 p.m. The session on ‘How Artificial Intelligence is impacting social change and accessibility’ will have Robin Tommy,"
-    publishedDateTime: 2021-09-25T13:22:00Z
-    webUrl: "https://www.thehindu.com/news/cities/Thiruvananthapuram/online-session-on-ai-today/article36667811.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/Thiruvananthapuram/online-session-on-ai-today/article36667811.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Thiruvananthapuram/online-session-on-ai-today/article36667811.ece/amp/"
+  - title: "Google Pixel 6 advert teases smart camera and AI features"
+    excerpt: "A new Google Pixel 6 advertisement has teased a suite of smart features that upcoming phones are likely to have, potentially offering improved language translation and boosted computational photography."
+    publishedDateTime: 2021-09-28T05:01:00Z
+    webUrl: "https://www.tomsguide.com/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
+    ampWebUrl: "https://www.tomsguide.com/amp/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 61
     images:
-      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
+      - url: "https://cdn.mos.cms.futurecdn.net/7t5W2reCUYkYMbnF9WiRQ7-1200-80.jpg"
+        width: 1200
+        height: 797
+        isCached: true
+  - title: "Boosting HR Efficiencies through Artificial Intelligence"
+    excerpt: "Mindful of the company’s growth projections, Wipro HRSS hoped to design and implement a system that not only enhanced the employee experience, but also generated measurable business value by accelerating process turnaround times,"
+    publishedDateTime: 2021-09-24T10:35:00Z
+    webUrl: "https://www.wipro.com/analytics/boosting-hr-efficiencies-through-artificial-intelligence/"
+    type: article
+    provider:
+      name: Wipro
+      domain: wipro.com
+    quality: 37
+    images:
+      - url: "https://www.wipro.com/content/dam/nexus/en/service-lines/analytics/images/og-boosting-hr-efficiencies-through-artificial-intelligence-i-1153851708-502x263.png"
+        width: 502
+        height: 263
         isCached: true
 
 secured: "9mB9hSD0+gjdaxyDmbpF+SY3dQA+n9v4qQ8hHcSowKprOYpE5EJEP4GuXRJZ9Lwy7tKZXx6Sf5blqPLMrxe5g9l6Arv0+su2okxePKFYatpu1dpF5KJZqsbypFcHqb9EwOIi2Ku3y7Yul3znpQKpPZIcqdUqK8ncZiRX1gmPRuCwHk7bg/i6owVOYlqEhGz7+6bIay4F+nYoJP9bSx8qXTd8ULE6uAEFd1+apy3yB/LCrJpm2tPZqJeAeSiONpOf3+XDVPYunQoGROZiDAnbVZtfTJjgrp6n3MT+3XwjONASrpT+Diywnp2542K4gJTZLe+7zyuoxRi9hndB1hUkFM1GeJuAdIDF0hauWry778o=;Q8ewPXKxiPDQp8+w2S7+YQ=="
