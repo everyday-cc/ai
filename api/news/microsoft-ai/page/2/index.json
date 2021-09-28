@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-09-15-speakers-corner-why-the-connected-brain-is-the-key-to-the-future-of-csps.md",
-      "title": "Speakers’ Corner: Why the Connected Brain is the key to the future of CSPs",
-      "excerpt": "The Connected Brain could be pivotal in powering B2B and B2C growth models for communication service providers, says Accenture communications, media and telecoms industry lead Francesco Venturini",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobilenewscwp.co.uk/Features/article/speakers-corner-connected-brain-key-future-csps",
-      "originalUrl": "https://www.mobilenewscwp.co.uk/Features/article/speakers-corner-connected-brain-key-future-csps",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cwpwp.betterthanpaper.com/wp-content/uploads/2021/09/Connected-brain.png",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T11:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile News Online",
-        "domain": "mobilenewscwp.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-14-vade-for-microsoft-365-is-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "Vade for Microsoft 365 is now available in the Microsoft Azure Marketplace",
       "excerpt": "Vade, a global leader in AI-based threat detection, user awareness and incident response with one billion protected mailboxes worldwide, today announced the availability of Vade for Microsoft 365 in the Microsoft Azure Marketplace.",
@@ -1385,6 +1342,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-cognitive-media-market-business-growth-rate-manufacturing-analysis-size-share-cost-structure-and-forecast-to-2031.md",
+      "title": "Cognitive Media Market Business Growth Rate, Manufacturing Analysis, Size, Share, Cost Structure and Forecast to 2031",
+      "excerpt": "The report helps stakeholders and businessmen to know the demand of customers or consumers for efficient marketing of products or services. Global Cognitive Media Market research report 2022-2031 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/cognitive-media-market-business-growth-rate-manufacturing-analysis-size-share-cost-structure-and-forecast-to-2031",
+      "originalUrl": "https://www.digitaljournal.com/pr/cognitive-media-market-business-growth-rate-manufacturing-analysis-size-share-cost-structure-and-forecast-to-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/09/e5cb0140a054e933656388d4a3e46fa942ff6c1d-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-02T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

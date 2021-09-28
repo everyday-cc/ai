@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Vietnamese EV Innovator VinFast Selects Cerence to Power Intelligent Voice Assistant Across its Global Lineup"
-excerpt: "AI for a world in motion, today announced that VinFast, Vietnam's first domestic car company and a leader in electric vehicle innovation worldwide, has selected Cerence to power conversational AI across its lineup of smart EVs as it expands globally."
-publishedDateTime: 2021-09-28T13:46:00Z
-originalUrl: "https://menafn.com/1102878557/Vietnamese-EV-Innovator-VinFast-Selects-Cerence-to-Power-Intelligent-Voice-Assistant-Across-its-Global-Lineup"
-webUrl: "https://menafn.com/1102878557/Vietnamese-EV-Innovator-VinFast-Selects-Cerence-to-Power-Intelligent-Voice-Assistant-Across-its-Global-Lineup"
+excerpt: "AI for a world in motion, today announced that VinFast, Vietnam’s first domestic car company and a leader in electric vehicle innovation worldwide, has selected Cerence to power conversational AI across its lineup of smart EVs as it expands globally."
+publishedDateTime: 2021-09-28T12:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-vietnamese-ev-innovator-vinfast-selects-cerence-power-intelligent-/2021/09/28/9457536.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-vietnamese-ev-innovator-vinfast-selects-cerence-power-intelligent-/2021/09/28/9457536.htm"
 type: article
-quality: 5
-heat: 5
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?990855"
-    width: 375
-    height: 250
-    isCached: true
-
-secured: "9b7/uKJzCQ2R39OkWdyWDLZG+CVMXF8dtbd560zNGFuU5Hm+0I4ojUtIIBPk7tXRJW1yBU1ixFulWHPizV/UFOCf+pQjwZbsw+K437H+oqyb8izxJWYOZr2fQmH+gTP0C0CceAdYaSCXZnZqtE2kM1Mpw9W057nOXKFX/q4VyGOkgRhHloobXdObT4TrenKgFn4zJpRIoQk9wRWZj78bzOwLZgFsHg4jcGyvKMyMdTa47oH5zABkcKexEUnPkLgIyVCpmd+VZFqwK1OPDWaFFfE6bnC4rUJMkbh+KVml+HruEmPKI+y4CaR2cA+TXhSxICP5iHEp0Rtcz+nWEKnkcCun48vVFzqTLSGilss7SYU=;Cr7Ib2CpGzrZZ4pk3va6wA=="
+secured: "CrYSDND/orSglLy1M7oDz4sark00NJDAPlJdggaqMOWjujKB3cqZ/Nva6kDnetF9a5S9bLFTNbzm5qVjOioTI+MReT7UNUxG1LM0UCxgtII94KojxgrfKWmpM5v5ZtzxDzlrB4pD4DdDIxCeA7KQsJ8wfXS+IU8mXWLQ1lii8uWXChlSzY12qZv6qAXa+vQGuY1ScSiy8QLMAxESr18PAq3znECdDT64pXFtMNWkk2haRXdqQAQK3Wa7ZYy34zI55lEoTnEZu98vFnMX/gSU9Q1JP5mP3jyTlfdqpWXHv4L6GRLjdz2lzN0DkNYX+3T6MM9tQhAYl++IQyIVKJ0RQw+AzWIg9lzQazRpbp98B44=;HOLz0Hip6KAwGDTwTUFepQ=="
 ---
 

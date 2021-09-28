@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/news/cities/Thiruvananthapuram/online-sessi
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Thiruvananthapuram/online-session-on-ai-today/article36667811.ece/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Hindu
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vulnerabilities May Slow Air Force’s Adoption of Artificial Intelligence"
-    excerpt: "More data on the battlefield means a wider attack surface, something the Defense Department has yet to prepare for, experts say."
-    publishedDateTime: 2021-09-23T22:07:00Z
-    webUrl: "https://www.defenseone.com/threats/2021/09/vulnerabilities-may-slow-air-forces-adoption-artificial-intelligence/185592/"
-    type: article
-    provider:
-      name: Defense One
-      domain: defenseone.com
-    quality: 51
-    images:
-      - url: "https://cdn.defenseone.com/media/img/cd/2021/09/23/6849739/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "CWU To Host Presentation on Artificial Intelligence in Everyday Life"
     excerpt: "Software Developer and Data Journalist Meredith Broussard will be presenting the keynote address during a lecture series titled “Artificial Intelligence: The Future is Now” on October 7 at 5:30 p.m. The talk will focus on the impact Artificial Intelligence (AI) has had on our current social and political climate,"
     publishedDateTime: 2021-09-27T07:00:00Z

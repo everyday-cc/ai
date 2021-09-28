@@ -37,6 +37,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "United States Natural Language Processing Markets to 2026: Rapid Innovations in the Healthcare Industry to Give a Healthy Push to Market Growth"
+    excerpt: "The \"United States Natural Language Processing Market, By Component (Solution and Services), By Deployment (On-Premise, Cloud), By"
+    publishedDateTime: 2021-09-28T15:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/united-states-natural-language-processing-markets-to-2026-rapid-innovations-in-the-healthcare-industry-to-give-a-healthy-push-to-market-growth-301386797.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 20
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
 
 secured: "8b+V6DVAAc3VL6+7V2x/Py9BMojqf0CKbWlQrWZbu4G3OjFEuHqv58e9UCty7nEDS1GXnaSq510+dmSb9tYrFavT4N8RxmYkKMUmYm0MroZ8t921osyov7Fg+Y5kA2i5fw6byozbdI0NHkpUYPOBvLNEbvfE+fEmDfVdW3zAmRVeeYo+we3sdaz1LhN31SjaBzWSYBHQNU5AzxnyGV1GOsxQgZQfZX13ptiefoV/a+zVG8EWh+DubRxT8I8PoaADrPVZ+ghyLhZf/B2VOQZQj8sGcBr+6gpCkCa/MNaHlbIc/gtgH2lnifr5Z9Qv01NnRP5ONxdCjzqdyz/CtQM+myzFPj5j7SB0ypRHow3X17A=;8fuhmmaCIqr8jumKK6mW8Q=="
 ---

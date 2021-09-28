@@ -24,37 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Scientists develop artificial intelligence method to predict anti-cancer immunity"
-    excerpt: "Researchers and data scientists at UT Southwestern Medical Center and MD Anderson Cancer Center have developed an artificial intelligence technique that can identify which cell surface peptides produced by cancer cells called neoantigens are recognized by the immune system."
-    publishedDateTime: 2021-09-23T21:37:00Z
-    webUrl: "https://medicalxpress.com/news/2021-09-scientists-artificial-intelligence-method-anti-cancer.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-09-scientists-artificial-intelligence-method-anti-cancer.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-scientists-artificial-intelligence-method-anti-cancer.amp"
+  - title: "AI helps to detect and count puffins"
+    excerpt: "Wind farm developer SSE Renewables is trialling a new technique to count puffins using artificial intelligence (AI) and image-recognition technology. The project, which is supported by Microsoft, Avanade and nature reserve NatureScot,"
+    publishedDateTime: 2021-09-24T09:08:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2021/09/ai-helps-to-detect-and-count-puffins-off-coast-of-scotland/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 54
+      name: IET
+      domain: theiet.org
+    quality: 39
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/simmons-cancer-center.jpg"
-        width: 1100
-        height: 1100
-        isCached: true
-  - title: "QCRI scientists highlight AI role in developing vaccines, preventing future pandemics"
-    excerpt: "Technologies such as Artificial Intelligence (AI) and Big Data Analytics could be the “firewalls” against any future disease outbreaks and epidemics and can help develop vaccine candidates faster, according to two scientists of the premier computing research institute in Qatar."
-    publishedDateTime: 2021-09-24T19:42:00Z
-    webUrl: "https://www.gulf-times.com/story/701049/QCRI-scientists-highlight-AI-role-in-developing-va"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 32
-    images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/9202124224211870361144.jpg"
-        width: 620
-        height: 355
+      - url: "https://eandt.theiet.org/media/16837/262268147.jpg?crop=0,0.0932763671875,0,0.41453613281249996&cropmode=percentage&width=1200&height=450&rnd=132769468160000000"
+        width: 1200
+        height: 450
         isCached: true
 
-secured: "NuGhZ337GNpAIDUy10T5ESJJJGo3VDpHaPbtfFsOpE4nMfh4Go9hY05QvgkeKBBmm25Vkhk57S5hoq4RfxCYgafGLHJF+hlQBKLDiKSa4Dp6UWZz3X2K2NjcYCKkL5PX7pq/uRHIZr1vRippKTJQ+cW9Z0zHp3+cWVpFi3K29EBQjE6WJF7kdbpGP8YPrVZQT6GRUi4QoIco94Rq92d2BX0hu12nD64/LQDeHKrsLF6wVTbYlvSpwdy/HAyHa5qhpIPhYQY8adsz2BnE0TSvGvxxTg0fg2b/dK2cVns1yvO6dsKRIXh3mqEpFLNHZbvmie+jpeJrL6N+7zInh/2ePPULz6OaHzp8UXGMvZi1Y2w=;FqspU70i1gQCijiOPtSy0Q=="
+secured: "klQWf6pKfWhKotEbvHMwsZxZWIL57g9TIluL4jYfYz67FER2a/4RBPHRKT5kpSsgt6ZkgUpdBfzUmZKuDuIIDV52eNK8DoMY1O2dewLaEKXPr/8GSzpvpvTIkzQ8O2E3WRcbE9Q/KZusAUuTa6yK6t6SSX6DJ3pxrImzpYD5C4Yc/S+lsSLDauXTKzXjZD9sWYwQg/KR8n7Jj7Sodebfylw1ED7gvH0u2oFcr36P26Mycjt0b4xEUm+ij0kb0FeQomeckvHcRea9/OSNT/TLeLfBT8xf4KrbrC4p7FuidW5/x20JnuSWVsmAXEhoEIGjd+WhJEG89eFDS/Ck+y+jmlEyBd0NwHwZWdPq77CXQrnrt9cOn8uhTrYl/BEFe7yUG/h5bkJdvXwolA5oNHmfYKIJO0rgPNXt4lCX4FLd6IWGFZo56bQIf7uA9VXP7/r8asJyHby53Mjj2vQGo+qZ8V2yGqB/XkTj1AVLKoDprhtoSJokkLKNw/nv0L0OEhGV8uuSLooaKsLrXT+D/Zggmw==;aM/lMdrwZtCIoLyYjHy4MA=="
 ---
 

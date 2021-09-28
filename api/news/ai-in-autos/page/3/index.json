@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-02-tesla-now-aims-for-full-self-driving-beta-public-release-september-25th-u.md",
+      "title": "Tesla now aims for Full Self-Driving Beta public release ~September 25th (U)",
+      "excerpt": "In a series of new Tweets, Tesla CEO Elon Musk has pinpointed the target delivery date of the “FSD opt-in Button” to on or around September 25th Elon Musk is now saying that Tesla is aiming for the wider public release of its Full S Beta in about four weeks.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/09/01/tesla-full-self-driving-beta-public-release-4-weeks/",
+      "originalUrl": "https://electrek.co/2021/09/01/tesla-full-self-driving-beta-public-release-4-weeks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/09/01/tesla-full-self-driving-beta-public-release-4-weeks/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/01/tesla-full-self-driving-beta-public-release-4-weeks/",
+      "publishedDateTime": "2021-09-01T20:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-02-apple-self-driving-cars-were-involved-in-two-accidents-last-month-in-california.md",
       "title": "Apple self-driving cars were involved in two accidents last month in California",
       "excerpt": "Apple has been working on its self-driving car technology and the Cupertino-based tech giant was recently in the news related to efforts in forming partnerships with automakers for the Apple Car, but nothing has been materialized yet.",
@@ -1325,58 +1377,6 @@
         "name": "Seeking Alpha",
         "domain": "seekingalpha.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet.md",
-      "title": "Cruise is buying solar energy from California farmers to power its electric, self-driving fleet",
-      "excerpt": "Cruise, the self-driving car company under General Motors, has launched a new initiative called Farm to Fleet that will allow the company to source solar power from farms in California’s Central Valley.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/",
-      "originalUrl": "https://techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/cruise-solar.png?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/amp/",
-      "publishedDateTime": "2021-08-26T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

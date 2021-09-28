@@ -434,6 +434,20 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 36
+  - title: "Tesla’s ‘full self-driving’ could be days away. Here’s what you need to know."
+    excerpt: "By Matt McFarland, CNN Business A wider group of Tesla owners who paid up to $10,000 for what the company calls its “full self-driving” software can now ask the automaker for access to a test version of the feature."
+    publishedDateTime: 2021-09-28T15:39:00Z
+    webUrl: "https://localnews8.com/news/2021/09/28/teslas-full-self-driving-could-be-days-away-heres-what-you-need-to-know/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 36
+    images:
+      - url: "https://localnews8.b-cdn.net/2020/12/Joint-KIFI-Local-News-8-and-MIFI-Eyewitness-News-3-Now-logo-scaled.jpg"
+        width: 2560
+        height: 1441
+        isCached: true
   - title: "Tesla Allows Drivers to Request Full Self-Driving Beta Despite Safety Concerns"
     excerpt: "Despite multiple concerns surrounding the safety concerns of Tesla ‘s Autopilot feature, the electric vehicles company has now given its drivers access to the “Full Self-Driving” (FSD) program. With just a touch of the “request” button,"
     publishedDateTime: 2021-09-28T06:57:00Z

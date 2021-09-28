@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Kodiak Robotics Unveils Its Next-Generation Autonomous Truck with Plans to More than Double Its Self-Driving Fleet"
-excerpt: "Kodiak Robotics, Inc., a leading self-driving trucking company, announced today its fourth-generation autonomous truck. This new truck"
-publishedDateTime: 2021-09-28T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/kodiak-robotics-unveils-its-next-generation-autonomous-truck-with-plans-to-more-than-double-its-self-driving-fleet-301386504.html"
-webUrl: "https://www.prnewswire.com/news-releases/kodiak-robotics-unveils-its-next-generation-autonomous-truck-with-plans-to-more-than-double-its-self-driving-fleet-301386504.html"
+excerpt: "Kodiak Robotics, Inc., a leading self-driving trucking company, announced today its fourth-generation autonomous truck. This new truck will feature Luminar’s Iris LiDAR, ZF Full Range Radar, Hesa i 360-degree scanning LiDARs for side- and rear-view detection,"
+publishedDateTime: 2021-09-28T14:27:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-robotics-trucking-5897d89dc650332a96baad26a6abd5ec"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-robotics-trucking-5897d89dc650332a96baad26a6abd5ec"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Autos
@@ -20,9 +20,9 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://mma.prnewswire.com/media/1636255/Kodiak_Autonomous_Truck.jpg?p=facebook"
-    width: 2700
-    height: 1413
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -187,6 +187,6 @@ related:
         height: 250
         isCached: true
 
-secured: "OZRjbwA+ClEhTOvStg5gTtUWlSybzXTD6tRJfT/+l/p9HuE/L2TlTiPvylFYu0mZuN2eljjko/w3OKQhXe1K1qa6LaigaIB+kcwInZ7WlrEdrh7RTf3y4zk3FbxNlBlE+0u9rmmT9CTJz8PnhI5AIiUHegUqjyDLN2Hnt9gMgYjlwFZ0chA15QhJcirEDWzBFNbuVcjAkcv3QEkHamq/PPV0XYCdq5qWffXXkom2v3yxtNv/eWw9ppe+ZxfKcmrQVypJ8MqX6IqVp8FKTEgXlQYzrSH69Ei44AFEma/OShF1ZqqYl1eo8QZlZG5oTlMri4mgCh84p/mtfrmnGH6JMeGUlobSD/xx+jYUS8MqYKU=;geu/j8UQtVuq4XgyVTuYuw=="
+secured: "ghULAjiDz2CRV6MQPh9Pc/uR1iMr6u6w3PrO5y2cFTAMbxKc6xX5fI2urtwkfYXQnGzZnlDGi7TOOdgXSrqgg+9paJHAxlU7bv4queUFRZXSCl/YxE7wYY/4BRtwbJ5hbN6PtDDPRm4cf7ZeoBfYIDK0Yr8/wF4/wqhJIGaTo+3lk/hx7UeRLex5LDeuKWLp0KXZk1kM84C+O/Fjnt0EhOEdxR09Uf7JqQ8yFRFuzSslE4lvLVAPahMmxnfCyDFTGIrn6Mxb9FYDPSbr25H/40IbzVGemuWsJwuWb7r8SBttiYZGe/6I1BCxrcQQZcCjpfEJjgP1ZAgRMRWbKHx2HS8f0KtB9gmA+3OJosZd3Q8=;DPj6rjQh1qQ+ubF/5rnQYg=="
 ---
 

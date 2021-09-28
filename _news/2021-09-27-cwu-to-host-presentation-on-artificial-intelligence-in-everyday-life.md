@@ -40,20 +40,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Vulnerabilities May Slow Air Force’s Adoption of Artificial Intelligence"
-    excerpt: "More data on the battlefield means a wider attack surface, something the Defense Department has yet to prepare for, experts say."
-    publishedDateTime: 2021-09-23T22:07:00Z
-    webUrl: "https://www.defenseone.com/threats/2021/09/vulnerabilities-may-slow-air-forces-adoption-artificial-intelligence/185592/"
-    type: article
-    provider:
-      name: Defense One
-      domain: defenseone.com
-    quality: 51
-    images:
-      - url: "https://cdn.defenseone.com/media/img/cd/2021/09/23/6849739/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "X/oY984kQNLIM6WldgfwEORmuSiAy/S0zcvMISXJEJE2gw9kzFB5S+eIme48O8HYi2DzVVQYQ7pA9bvWUWVSuKemr9ri6ZWFLwHH8ls07xeivIh2e4ldpBwWiLED4l7UZOygEVmKnphPciIdFMg4JP9ADhgz1XD72hsWYdoZavhFqy39p6tjrQkICuP+z+qah+R9sT8EfT8nbdhrOasbo1Aq6L2sPW3iyoWOzBeS2oU0rn/EPkNZW4w8snIBQ+PwxSeJ6gs4jA/19h85VDi1w4KEE3SOymQqyV5WbBQ6PbHIk0gjjWmnpXxXJPKmPE0TvVFZKD0yFkzropS0v5BdccMWFNo+8cCJWYwcDqFkwE8=;/3tFZeSj147Lv33gR4WLUA=="
 ---

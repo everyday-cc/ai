@@ -99,49 +99,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-25-online-session-on-ai-today.md",
-      "title": "Online session on AI today",
-      "excerpt": "Prathidhwani, a welfare organisation of IT employees, will organise its 100th session under the aegis of the Prathidhwani Technical Forum on Sunday from 11 a.m. to 1 p.m. The session on ‘How Artificial Intelligence is impacting social change and accessibility’ will have Robin Tommy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/cities/Thiruvananthapuram/online-session-on-ai-today/article36667811.ece",
-      "originalUrl": "https://www.thehindu.com/news/cities/Thiruvananthapuram/online-session-on-ai-today/article36667811.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/cities/Thiruvananthapuram/online-session-on-ai-today/article36667811.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Thiruvananthapuram/online-session-on-ai-today/article36667811.ece/amp/",
-      "publishedDateTime": "2021-09-25T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-24-microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business.md",
       "title": "Microsoft cloud storage: is OneDrive or Azure right for your business?",
       "excerpt": "Microsoft is one of the best cloud storage providers, and offers some of the best cloud storage for business too. But before you can dive into Microsoft cloud storage, you have to choose between two different products: OneDrive and Azure.",
@@ -1332,6 +1289,49 @@
         "Microsoft AI",
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-speakers-corner-why-the-connected-brain-is-the-key-to-the-future-of-csps.md",
+      "title": "Speakers’ Corner: Why the Connected Brain is the key to the future of CSPs",
+      "excerpt": "The Connected Brain could be pivotal in powering B2B and B2C growth models for communication service providers, says Accenture communications, media and telecoms industry lead Francesco Venturini",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobilenewscwp.co.uk/Features/article/speakers-corner-connected-brain-key-future-csps",
+      "originalUrl": "https://www.mobilenewscwp.co.uk/Features/article/speakers-corner-connected-brain-key-future-csps",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cwpwp.betterthanpaper.com/wp-content/uploads/2021/09/Connected-brain.png",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile News Online",
+        "domain": "mobilenewscwp.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

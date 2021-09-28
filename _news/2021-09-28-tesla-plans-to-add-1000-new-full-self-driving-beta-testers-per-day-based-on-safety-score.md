@@ -424,6 +424,20 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 36
+  - title: "Tesla’s ‘full self-driving’ could be days away. Here’s what you need to know."
+    excerpt: "By Matt McFarland, CNN Business A wider group of Tesla owners who paid up to $10,000 for what the company calls its “full self-driving” software can now ask the automaker for access to a test version of the feature."
+    publishedDateTime: 2021-09-28T15:39:00Z
+    webUrl: "https://localnews8.com/news/2021/09/28/teslas-full-self-driving-could-be-days-away-heres-what-you-need-to-know/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 36
+    images:
+      - url: "https://localnews8.b-cdn.net/2020/12/Joint-KIFI-Local-News-8-and-MIFI-Eyewitness-News-3-Now-logo-scaled.jpg"
+        width: 2560
+        height: 1441
+        isCached: true
   - title: "Tesla Releases Latest Version of 'Full Self Driving Capability,' but It Requires Owners to Pass a Safety Test"
     excerpt: "With the release of the beta version of Tesla's Full Self-Driving Capability, Consumer Reports says the required seven-day driver evaluation underscores the system’s own limitations."
     publishedDateTime: 2021-09-25T19:46:00Z
@@ -561,6 +575,6 @@ related:
       domain: allaccess.com
     quality: 3
 
-secured: "eS/U//VRpfJh06K1bM1DfjSoWjK5zlr3xAX2wqfETH0QSqIlbSeoJAk3LuzbH84YtcQb+g+Hvx3QhTtVxRGVu+9sT/eGIRpIKUO6WbsmDCUh9TePsyU0V34ZVBDVZ/1C5CfoQ5qlXKeKdvsOmAhFIMIFG0+kAzg52laTrezLoQ7JpFOHXbAamn0hyIJcLsUA6k57x2f2ivCkrYq3izsk1rynnjUtI0aLIi4os1MokRkQUKWelCICt5TRzVot81WSa8cCQ4+uTEWgZtpkCIVd5hETVaxujQT9tczA6BjlCDeTByiCBd70+b3wo5rN8uB8hX2UqsH8nvVq7/crqCXl4KRYnZdR7q3HkS/ZBlWKEvQ=;0OPD+wxDbq/BlGOB6ajkaw=="
+secured: "IfmKaOTediXsl1+46FoZ1Il0OPSiqmE86x0XR/pDuS8bOxCaifGf+s1IpP/+b+B5hf3mCImVE5Zy6F0UN1gKVPZqTCi8Dn3ROIn3l3Za4v7WSR8zLgHv5faP3KaKFGOjUwdLXzGCAux7O1ww0qOHwQ0KhVeMwKcCJsBOgQISQCssn+7wJ7gXvX70NxNRRBYfIPRfw2H+gg3ZSBEiV6ofRDP4/M7v0xB6w8Gu2dad5b6ncSWnV+E0i9kLlcfh8H5huL28uzz5P9yYlPyRJL83lTtR5PwS4b4jGQHz+N2/GiPEnAuCFbtCHUXIK4mwgUZYAib3mC6LXu73QvkY0HjtsROet0lEsbo5j/7b+oy/yI7wz2gfmrkgD1W4qUMUiGPuwEcrNHkrYelIRV53GyFlUmuCWKco06zlTgGnUM6mLvu6ULC0pGqmTKhWcaMDqj1cYaAiZ/2z+mWkEZsjzjdbwmh4IC0lFikQSmkB4T2PS1yRT7pk7i3vH4WbIWnZf2lsZjJ2T3uY+YpaB5AnTdF02Q==;kVIxM8mfiBCej/KxYtx7zQ=="
 ---
 

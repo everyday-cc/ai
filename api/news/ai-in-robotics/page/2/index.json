@@ -322,6 +322,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-15-robot-vacuums-are-learning-to-avoid-dog-poop-but-thats-not-all-they-can-see.md",
+      "title": "Robot vacuums are learning to avoid dog poop. But that's not all they can see.",
+      "excerpt": "In the lab, robots are engineered for mind-blowing displays of perception and agility, like Boston Dynamics’ parkour performing bot and the humanoid shooting hoops at the Olympics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unionleader.com/news/back_page/robot-vacuums-are-learning-to-avoid-dog-poop-but-thats-not-all-they-can-see/article_78f9a033-f659-52b2-8421-48ad86394958.html",
+      "originalUrl": "https://www.unionleader.com/news/back_page/robot-vacuums-are-learning-to-avoid-dog-poop-but-thats-not-all-they-can-see/article_78f9a033-f659-52b2-8421-48ad86394958.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Hampshire Union Leader",
+        "domain": "unionleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-locus-robotics-collects-50-million-in-new-funding-for-amrs.md",
       "title": "Locus Robotics collects $50 million in new funding for AMRs",
       "excerpt": "Warehouse automation provider Locus Robotics today gained new fuel to develop its autonomous mobile robot (AMR) technology for fulfillment tasks, thanks to a $50 million funding round. Massachusetts-based Locus Robotics said the new backing would facilitate continued growth and expansion into new markets around the globe,",
@@ -1250,49 +1293,6 @@
       "provider": {
         "name": "Neuroscience News",
         "domain": "neurosciencenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-11-agile-robots-closes-220m-series-c-funding.md",
-      "title": "Agile Robots closes $220M Series C funding",
-      "excerpt": "Agile Robots, closes a $220M Series C round - to enable the company to extend its product and expand its global market reach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/agile-robots-closes-220m-series-c-funding/",
-      "originalUrl": "https://www.therobotreport.com/agile-robots-closes-220m-series-c-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/09/agile-robots-featured-web.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-10T11:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
         "images": null,
         "publishers": null,
         "authors": null

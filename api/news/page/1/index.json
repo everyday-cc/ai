@@ -2,6 +2,211 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-28-federated-genomic-data-startup-lifebit-raises-60m-round-led-by-tiger-global.md",
+      "title": "Federated Genomic data startup Lifebit raises $60M round led by Tiger Global",
+      "excerpt": "Genomic data is considered to be the key to unlocking so-called ‘precision medicine’. Some estimates suggest that by 2025, 500 million human genomes will have been sequenced, but only a fraction of it is being utilized for drug discovery and precision medicine.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/28/federated-genomic-data-startup-lifebit-raises-60m-round-led-by-tiger-global/",
+      "originalUrl": "https://techcrunch.com/2021/09/28/federated-genomic-data-startup-lifebit-raises-60m-round-led-by-tiger-global/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-1609411-1.jpg?w=1024",
+          "width": 1024,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/28/federated-genomic-data-startup-lifebit-raises-60m-round-led-by-tiger-global/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/28/federated-genomic-data-startup-lifebit-raises-60m-round-led-by-tiger-global/amp/",
+      "publishedDateTime": "2021-09-28T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-build-or-buy-ai-three-factors-that-can-determine-your-strategy.md",
+      "title": "Build Or Buy AI: Three Factors That Can Determine Your Strategy",
+      "excerpt": "To build the right ModelOps pipeline — one that can adapt to future needs — organizations must plan for shifting priorities and make insightful decisions that will stand the test of time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/28/build-or-buy-ai-three-factors-that-can-determine-your-strategy/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/28/build-or-buy-ai-three-factors-that-can-determine-your-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ccae14f704a6c42d127c1d%2F0x0.jpg",
+          "width": 1200,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/28/build-or-buy-ai-three-factors-that-can-determine-your-strategy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/28/build-or-buy-ai-three-factors-that-can-determine-your-strategy/amp/",
+      "publishedDateTime": "2021-09-28T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-horizon3ai-recognized-in-2021-gartner-hype-cycle-for-security-operations.md",
+      "title": "Horizon3.ai recognized in 2021 Gartner® Hype Cycle™ for Security Operations",
+      "excerpt": "Horizon3.ai, a leading provider of Autonomous Pentesting as a Service (APTaaS), was identified as a Sample Vendor in the 2021 Gartner Hype Cycle for Security Operations report in the Autonomous Penetration Testing and Red Teaming category.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/horizon3-ai-recognized-in-2021-gartner-hype-cycle-for-security-operations-1030828421",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/horizon3-ai-recognized-in-2021-gartner-hype-cycle-for-security-operations-1030828421",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1637368/1920x1080_Horizon3ai_CrossedOut_Gartner2_Logo.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-enterprise-ai-platform-leena-ai-raises-30m-to-be-a-siri-for-employees.md",
+      "title": "Enterprise AI platform Leena AI raises $30M to be a ‘Siri for employees’",
+      "excerpt": "Leena AI, an AI-powered conversational platform used by major enterprises such as Nestlé, has raised $30 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/28/enterprise-focused-conversational-ai-platform-leena-ai-raises-30m/",
+      "originalUrl": "https://venturebeat.com/2021/09/28/enterprise-focused-conversational-ai-platform-leena-ai-raises-30m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/transform.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/28/enterprise-focused-conversational-ai-platform-leena-ai-raises-30m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/enterprise-focused-conversational-ai-platform-leena-ai-raises-30m/amp/",
+      "publishedDateTime": "2021-09-28T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-battery-ventures-leads-arize-ais-19m-round-for-ml-observability.md",
       "title": "Battery Ventures leads Arize AI’s $19M round for ML observability",
       "excerpt": "Companies use data to build models that they use to automate decisions, but without visibility, it’s difficult to determine if the models are accountable, fair and responsible.",
@@ -10,7 +215,7 @@
       "originalUrl": "https://techcrunch.com/2021/09/28/battery-ventures-leads-arize-ais-19m-round-for-ml-observability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -625,6 +830,48 @@
       ]
     },
     {
+      "path": "_news/2021-09-28-how-to-join-the-connected-world-with-data-and-ai.md",
+      "title": "How to join the connected world with data and AI",
+      "excerpt": "If there was one key fact for data and analytic professionals to learn in the past year, it's that our data and AI foundations weren't as ready for this challenge as they could have been.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-to-join-the-connected-world-with-data-and-ai/",
+      "originalUrl": "https://www.zdnet.com/article/how-to-join-the-connected-world-with-data-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-join-the-connected-world-with-data-and-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-join-the-connected-world-with-data-and-ai/",
+      "publishedDateTime": "2021-09-27T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-facial-recognition-contractor-clearview-ai-withdraws-subpoenas-served-on-nonprofit.md",
       "title": "Facial recognition contractor Clearview AI withdraws subpoenas served on nonprofit",
       "excerpt": "A technology company that provides facial recognition technology to at least four government agencies has withdrawn subpoenas it served on a nonprofit. Clearview AI this morning announced that it would not pursue the court orders,",
@@ -948,250 +1195,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-edge-computings-applications-in-autonomous-driving-and-business-at-large.md",
-      "title": "Edge Computing’s Applications In Autonomous Driving And Business At Large",
-      "excerpt": "Now is the time to start thinking about how you and your organization — whether you’re part of the automotive industry or not — can make use of the future of edge computing and 5G.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/edge-computings-applications-in-autonomous-driving-and-business-at-large/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/edge-computings-applications-in-autonomous-driving-and-business-at-large/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eeb6bb684bc020007705132%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/edge-computings-applications-in-autonomous-driving-and-business-at-large/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/27/edge-computings-applications-in-autonomous-driving-and-business-at-large/amp/",
-      "publishedDateTime": "2021-09-27T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-the-limitations-of-ai-safety-tools.md",
-      "title": "The limitations of AI safety tools",
-      "excerpt": "Firms including OpenAI have developed safety tools to constrain AI decision-making. But there's a limit to what these tools can accomplish.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/",
-      "originalUrl": "https://venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/self-driving-car.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/amp/",
-      "publishedDateTime": "2021-09-27T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-will-ai-revolutionize-regtech-part-1-faster-easier-richer.md",
-      "title": "Will AI Revolutionize Regtech? Part 1: Faster, Easier, Richer",
-      "excerpt": "Later this year at the NSCP National Conference, I’ll be speaking on a panel with Jane Stabile and Andrew Siegel on the topic “Will AI Revolutionize the Financial Services Industry?” To help promote the event,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-1%3A-faster-easier-richer-2021-09-27",
-      "originalUrl": "https://www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-1%3A-faster-easier-richer-2021-09-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-1%3A-faster-easier-richer-2021-09-27?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-1%3A-faster-easier-richer-2021-09-27?amp",
-      "publishedDateTime": "2021-09-27T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-crm-marketing-startup-optimove-raises-75m.md",
-      "title": "CRM marketing startup Optimove raises $75M",
-      "excerpt": "Optimove, a company developing customer relationship management software, has raised $75 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/27/crm-marketing-startup-optimove-raises-75m/",
-      "originalUrl": "https://venturebeat.com/2021/09/27/crm-marketing-startup-optimove-raises-75m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/big_data-e1629907579542.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/27/crm-marketing-startup-optimove-raises-75m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/27/crm-marketing-startup-optimove-raises-75m/amp/",
-      "publishedDateTime": "2021-09-27T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency.md",
-      "title": "14 Smart Ways Businesses Can Leverage AI For Growth And Efficiency",
-      "excerpt": "From automating repetitive processes to forecasting to better serving customers and clients, companies can realize significant productivity gains and cost savings from the smart application of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614e24dfe81f627517f55f01%2F0x0.jpg",
-          "width": 1200,
-          "height": 775,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency/amp/",
-      "publishedDateTime": "2021-09-27T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

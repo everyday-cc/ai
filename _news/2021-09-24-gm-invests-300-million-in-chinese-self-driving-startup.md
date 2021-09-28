@@ -158,18 +158,18 @@ related:
         height: 620
         isCached: true
   - title: "Kodiak Robotics Unveils Its Next-Generation Autonomous Truck with Plans to More than Double Its Self-Driving Fleet"
-    excerpt: "Kodiak Robotics, Inc., a leading self-driving trucking company, announced today its fourth-generation autonomous truck. This new truck"
-    publishedDateTime: 2021-09-28T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/kodiak-robotics-unveils-its-next-generation-autonomous-truck-with-plans-to-more-than-double-its-self-driving-fleet-301386504.html"
+    excerpt: "Kodiak Robotics, Inc., a leading self-driving trucking company, announced today its fourth-generation autonomous truck. This new truck will feature Luminar’s Iris LiDAR, ZF Full Range Radar, Hesa i 360-degree scanning LiDARs for side- and rear-view detection,"
+    publishedDateTime: 2021-09-28T14:27:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-robotics-trucking-5897d89dc650332a96baad26a6abd5ec"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 34
     images:
-      - url: "https://mma.prnewswire.com/media/1636255/Kodiak_Autonomous_Truck.jpg?p=facebook"
-        width: 2700
-        height: 1413
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "GM Invests $300 Million in Momenta to Deliver Self-Driving Technologies in China"
     excerpt: "General Motors announced it will invest $300 million in Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China. “Customers in China are embracing electrification and advanced self-driving technology faster than anywhere else in the world,"

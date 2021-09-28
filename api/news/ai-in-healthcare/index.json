@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-27-vietnam-pharmaceuticals-market-to-grow-along-with-healthcare-industry-until-2026.md",
+      "title": "Vietnam Pharmaceuticals Market to Grow Along With Healthcare Industry until 2026",
+      "excerpt": "Advanced medicine development is driving the growth of Vietnam Pharmaceuticals Market in the forecast period 2022 2026 According to TechSci report on Vietnam Pharmaceuticals Market By Drug Type Generic Drugs v s Branded Drugs By Product Type Prescription Drugs v",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare",
+      "originalUrl": "https://www.openpr.com/news/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/9/U927716201_g.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare",
+      "publishedDateTime": "2021-09-27T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-25-three-key-artificial-intelligence-applications-for-cybersecurity.md",
       "title": "Three Key Artificial Intelligence Applications For Cybersecurity",
       "excerpt": "We are at the doorstep of a new era of smart technology and cybersecurity is already a testing ground. The cybersecurity industry is increasingly impacted by the deployment of solutions supported by a",
@@ -839,19 +882,19 @@
     {
       "path": "_news/2021-09-15-nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data.md",
       "title": "NHS Artificial Intelligence provider reports 160% growth, promising to transform healthcare with better data",
-      "excerpt": "RwHealth, the leading provider of Artificial Intelligence to the healthcare industry, has reported 160% year-on-year growth as its",
+      "excerpt": "RwHealth, the leading provider of Artificial Intelligence to the healthcare industry, has reported 160% year-on-year growth as its data-led solutions are increasingly embraced by NHS trusts, private healthcare providers and pharmaceutical companies.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data-807973216.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data-807973216.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/-nhs-artificial-intelligence-provider-reports-160-growth-promising-/2021/09/15/9450012.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-nhs-artificial-intelligence-provider-reports-160-growth-promising-/2021/09/15/9450012.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1626850/Orlando_Agrippa.jpg?p=facebook",
-          "width": 5157,
-          "height": 2699,
+          "url": "https://mma.prnewswire.com/media/1626850/Orlando_Agrippa.jpg",
+          "width": 267,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -861,11 +904,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T08:59:00-07:00",
+      "publishedDateTime": "2021-09-15T09:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1315,49 +1358,6 @@
       "provider": {
         "name": "pymnts.com",
         "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-lantheus-announces-presentation-at-the-2021-american-urological-association-aua-annual-meeting.md",
-      "title": "Lantheus Announces Presentation at the 2021 American Urological Association (AUA) Annual Meeting",
-      "excerpt": "Lantheus Holdings, Inc. (the “Company”) (NASDAQ: LNTH), an established leader and fully integrated provider committed to innovative imaging diagnostics, targeted therapeutics and artificial intelligence solutions to find,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-health-cancer-artificial-intelligence-1668c512fcbaea63debb5036c6b071af",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-health-cancer-artificial-intelligence-1668c512fcbaea63debb5036c6b071af",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-10T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

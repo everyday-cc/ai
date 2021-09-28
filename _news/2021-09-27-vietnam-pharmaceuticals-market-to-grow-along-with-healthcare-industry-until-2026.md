@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2407519/vietnam-pharmaceuticals-market-to
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: openpr.com
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "United States Natural Language Processing Markets to 2026: Rapid Innovations in the Healthcare Industry to Give a Healthy Push to Market Growth"
+    excerpt: "The \"United States Natural Language Processing Market, By Component (Solution and Services), By Deployment (On-Premise, Cloud), By"
+    publishedDateTime: 2021-09-28T15:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/united-states-natural-language-processing-markets-to-2026-rapid-innovations-in-the-healthcare-industry-to-give-a-healthy-push-to-market-growth-301386797.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 20
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
   - title: "Artificial Intelligence in Medical Imaging Market 2021 Industry Analysis, Size, Share, Growth, Trends and Forecast 2028"
     excerpt: "DBMR has presented updated research report on Artificial Intelligence in Medical Imaging Market offering insightful information like market share market size and growth rate during the forecast period 2021 2028 that are precisely projected based on type application sales channel"
     publishedDateTime: 2021-09-28T11:47:00Z

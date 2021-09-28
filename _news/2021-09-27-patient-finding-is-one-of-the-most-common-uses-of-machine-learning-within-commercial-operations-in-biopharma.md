@@ -3,22 +3,27 @@ category: news
 title: "Patient Finding Is One of the Most Common Uses of Machine Learning Within Commercial Operations in Biopharma"
 excerpt: "Trinity Life Sciences, a leader in global life sciences commercialization solutions, finds that 45 percent of all machine learning use cases within biopharma companies are for finding patients. According to the new TGaS report entitled AIML Use Case Landscape Report,"
 publishedDateTime: 2021-09-27T12:37:00Z
-originalUrl: "https://www.financialbuzz.com/patient-finding-is-one-of-the-most-common-uses-of-machine-learning-within-commercial-operations-in-biopharma/"
-webUrl: "https://www.financialbuzz.com/patient-finding-is-one-of-the-most-common-uses-of-machine-learning-within-commercial-operations-in-biopharma/"
+originalUrl: "https://apnews.com/press-release/BusinessWire/business-waltham-a05b7e947c19421cb5f6577b9e181f94"
+webUrl: "https://apnews.com/press-release/BusinessWire/business-waltham-a05b7e947c19421cb5f6577b9e181f94"
 type: article
-quality: 2
-heat: 2
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
-secured: "eEgzyUg+ir3edPT+Zfl+Lm3JpsC0s6QDHxZPCrHvgsU5FyG7f7GyKKXfFc6GjMzXzp4PgyBT5wvnP/8xUz58HFzM7wl0UFdaxIK01elZXKFKgEuWHb5hC5PHUDI/C/Cgp1P7GEuU5+vJGg3lU7I3NUDiVkPAdvJ5hlqCYhvgVYOikHpYpdfKm0+9An23ql+TfaJI5VZZxon1WGciP3y8ufd2kcmy+R0e8UYeoJ1U1S9igPBpaqrtEk058PJOv39MFmmF0Sxo6wnK1xHqk2Me0DPVEKieMaJ4LhcLuNHDX4iqUdrjEPIQIVrrwZ+e2UYL+YQ6F+xgAtSmnY9RrJNYNv0Yq+SFHRtdn0ugrhBq+YI=;4keLvH1HKO+SzQGUvjzsdQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "aw4DXkcuEe8rC7XysfwQvy4D0FpFvrbYl483DYSu6NXFbka0o/hM7lNGR+rH68dmrGNn9/7zThWxERUrr6ts/CTCe52m64jdvE41o8CtBScKTpVmxGxBKgl+yx5BmhPp2uwFPk3IUEKg8BkwiT3zZHad65xqEv/+bg/iBzwFXbhY4yJsFaI5siZRkGCYV6SBJfFtvC/lDx7IgonKSj2Q/pXMue/D4JzhLIEdEQF+uEDw+YIBVw6DYT1uTTRXTNhkZFTk3O2aGNKrHH1iYMgvMnFWLeuAs1pTJFqd204L/mDvKpJ7FjrOsxaC3DukmI5eiJyZ2ZpOWfllU1+01oQDKqHLkVJb3ZqUIp5B67MXX58=;2zjaIQWW13++PNBu4Ss6wg=="
 ---
 

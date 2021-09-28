@@ -2,6 +2,248 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-25-explained-why-artificial-intelligences-religious-biases-are-worrying.md",
+      "title": "Explained: Why Artificial Intelligence’s religious biases are worrying",
+      "excerpt": "Although AI is capable of generating complex and cohesive natural language, a series of recent works demonstrate that they also learn undesired social biases that can perpetuate harmful stereotypes.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/explained/explained-why-artificial-intelligences-religious-biases-are-worrying-7533309/",
+      "originalUrl": "https://indianexpress.com/article/explained/explained-why-artificial-intelligences-religious-biases-are-worrying-7533309/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2021/09/AI.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/explained/explained-why-artificial-intelligences-religious-biases-are-worrying-7533309/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-why-artificial-intelligences-religious-biases-are-worrying-7533309/lite/",
+      "publishedDateTime": "2021-09-24T20:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-25-for-self-driving-cars-the-hot-new-technology-is-radar.md",
+      "title": "For Self-Driving Cars, the Hot New Technology Is… Radar",
+      "excerpt": "Companies are improving and adapting the century-old technology to help vehicles operate more safely with less human involvement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/for-self-driving-cars-the-hot-new-technology-is-radar-11632542430",
+      "originalUrl": "https://www.wsj.com/articles/for-self-driving-cars-the-hot-new-technology-is-radar-11632542430",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-406622/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/for-self-driving-cars-the-hot-new-technology-is-radar-11632542430",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/for-self-driving-cars-the-hot-new-technology-is-radar-11632542430",
+      "publishedDateTime": "2021-09-24T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-25-ai-weekly-researchers-attempt-an-open-source-alternative-to-githubs-copilot.md",
+      "title": "AI Weekly: Researchers attempt an open source alternative to GitHub’s Copilot",
+      "excerpt": "A group of researchers is attempting to create an open source alternative to GitHub's Copilot service, powered by OpenAI's Codex model.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/24/ai-weekly-researchers-attempt-an-open-source-alternative-to-githubs-copilot/",
+      "originalUrl": "https://venturebeat.com/2021/09/24/ai-weekly-researchers-attempt-an-open-source-alternative-to-githubs-copilot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-628332486-e1622192309124.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/24/ai-weekly-researchers-attempt-an-open-source-alternative-to-githubs-copilot/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/24/ai-weekly-researchers-attempt-an-open-source-alternative-to-githubs-copilot/amp/",
+      "publishedDateTime": "2021-09-24T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-25-scientists-create-ai-that-can-suggest-where-to-apply-makeup-to-fool-facial-recognition.md",
+      "title": "Scientists create AI that can suggest where to apply makeup to fool facial recognition",
+      "excerpt": "Researchers at Israel's Ben-Gurion University trained AI software to tell users where to apply subtle contouring to throw off facial recognition systems up to 98.8 percent of the time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10026371/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html?fr=operanews",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10026371/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html?fr=operanews",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/09/24/22/48356691-0-image-a-11_1632518646328.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10026371/amp/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10026371/amp/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html",
+      "publishedDateTime": "2021-09-24T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-25-exclusive-ice-just-paid-39-million-for-rapid-ai-powered-facial-recognition-at-migrant-detention-facilities.md",
+      "title": "Exclusive: ICE just paid $3.9 million for 'rapid' AI-powered facial recognition at migrant detention facilities",
+      "excerpt": "ICE has a new contract with a company called Trust Stamp that says it offers facial matching through 3D renderings of people's heads and faces.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9",
+      "originalUrl": "https://www.businessinsider.com/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images2.markets.businessinsider.com/6010d4561d2df20018b710ac?format=jpeg",
+          "width": 701,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-24T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-09-24-customize-amazon-sagemaker-studio-using-lifecycle-configurations.md",
       "title": "Customize Amazon SageMaker Studio using Lifecycle Configurations",
       "excerpt": "Amazon SageMaker Studio is a web-based, integrated development environment (IDE) for machine learning (ML) that lets you build, train, debug, deploy, and monitor your ML models. It provides all the tools you need to take your models from experimentation to production while boosting your productivity.",
@@ -496,7 +738,7 @@
       "originalUrl": "https://venturebeat.com/2021/09/24/ai-fairness-requires-fighting-bias-with-bias/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -982,220 +1224,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-an-nft-art-world-where-machine-learning-ai-is-holding-the-paintbrush.md",
-      "title": "An NFT art world where machine learning AI is holding the paintbrush",
-      "excerpt": "In a world first, three community-made digital art NFTs generated by AI machine learning algorithms will be taken to auction on OpenSea by leading British blockchain innovators Fetch.ai (FET). The auction ends on September 27.",
-      "sourceUrl": null,
-      "webUrl": "https://coinrivet.com/an-nft-art-world-where-machine-learning-ai-is-holding-the-paintbrush/",
-      "originalUrl": "https://coinrivet.com/an-nft-art-world-where-machine-learning-ai-is-holding-the-paintbrush/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1mjtvp3d1g20r.cloudfront.net/2021/09/17143243/CoLearnPaint.jpg",
-          "width": 1709,
-          "height": 995,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://coinrivet.com/an-nft-art-world-where-machine-learning-ai-is-holding-the-paintbrush/amp/",
-      "cdnAmpWebUrl": "https://coinrivet-com.cdn.ampproject.org/c/s/coinrivet.com/an-nft-art-world-where-machine-learning-ai-is-holding-the-paintbrush/amp/",
-      "publishedDateTime": "2021-09-24T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Coin Rivet",
-        "domain": "coinrivet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-gm-invests-300m-in-momenta-to-deliver-next-generation-self-driving-technologies-in-china.md",
-      "title": "GM invests $300M in Momenta to deliver next-generation self-driving technologies in China",
-      "excerpt": "General Motors will invest $300 million in China-based Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China. Momenta has pioneered a scalable path toward full autonomous driving by combining a data-driven approach with iterating algorithms—referred to as its “flywheel approach”—as well as a",
-      "sourceUrl": null,
-      "webUrl": "https://media.gm.com/media/cn/en/gm/news.detail.html/content/Pages/news/cn/en/2021/Sept/0923-gm.html",
-      "originalUrl": "https://www.greencarcongress.com/2021/09/20210924-momenta.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.gm.com/content/dam/company/img/cn/GMChina_QR_2021.png",
-          "width": 1128,
-          "height": 1132,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T03:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Green Car Congress",
-        "domain": "greencarcongress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-meet-deedee-a-twin-cities-thai-restaurants-new-robot-server.md",
-      "title": "Meet ‘DeeDee,’ A Twin Cities Thai Restaurant’s New Robot Server",
-      "excerpt": "DeeDee, a server assistant robot, is the first of its type operating in the state. It can carry food, drinks, and dirty dishes between the kitchen and dining tables.",
-      "sourceUrl": null,
-      "webUrl": "https://minnesota.cbslocal.com/2021/09/24/meet-deedee-a-twin-cities-thai-restaurants-new-robot-server/",
-      "originalUrl": "https://minnesota.cbslocal.com/2021/09/24/meet-deedee-a-twin-cities-thai-restaurants-new-robot-server/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://minnesota.cbslocal.com/wp-content/uploads/sites/15909630/2021/09/DeeDee.jpg?w=1026",
-          "width": 1026,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://minnesota.cbslocal.com/2021/09/24/meet-deedee-a-twin-cities-thai-restaurants-new-robot-server/?amp",
-      "cdnAmpWebUrl": "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2021/09/24/meet-deedee-a-twin-cities-thai-restaurants-new-robot-server/?amp",
-      "publishedDateTime": "2021-09-24T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Local",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-opentrons-raises-200m-in-series-c-funding.md",
-      "title": "Opentrons Raises $200M in Series C Funding",
-      "excerpt": "Opentrons Labworks Inc., a NYC-based lab platform provider, raised $200M in Series C funding. SoftBank Vision Fund 2 led the round with participation by Khosla Ventures. Other investors in Opentrons include Sands Capital,",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2021/09/opentrons-raises-200m-in-series-c-funding.html",
-      "originalUrl": "https://www.finsmes.com/2021/09/opentrons-raises-200m-in-series-c-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2021/09/opentrons.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T02:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-meity-and-aws-partner-to-support-deeptech-innovation-in-india.md",
-      "title": "MeitY and AWS partner to support DeepTech innovation in India",
-      "excerpt": "The MeitY Startup Hub, an initiative of the Ministry of Electronics and IT has entered into a Memorandum of Understanding (MoU) with Amazon Internet Services, which undertakes the resale",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/meity-aws-partner-support-deeptech-innovation-india/",
-      "originalUrl": "https://www.dqindia.com/meity-aws-partner-support-deeptech-innovation-india/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/06/deeptech.jpg",
-          "width": 850,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/meity-aws-partner-support-deeptech-innovation-india/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/meity-aws-partner-support-deeptech-innovation-india/amp/",
-      "publishedDateTime": "2021-09-24T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

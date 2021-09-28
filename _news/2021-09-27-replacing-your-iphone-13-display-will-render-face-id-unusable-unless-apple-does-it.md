@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91433-replacing-iphone-13-display-
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91433-replacing-iphone-13-display-render-face-unusable-unless.html"
 type: article
 quality: 68
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "iPhone 13’s Face ID discovered not to work after third-party screen replacement"
+    excerpt: "The Face ID feature is one of the highlights of the recently unveiled iPhone 13. When activated, Face ID grants access to the iPhone 13 when the phone is brought to a clear view of the owner’s face. It is therefore one of the many options available to unlock the iPhone 13."
+    publishedDateTime: 2021-09-28T14:28:00Z
+    webUrl: "https://www.gizmochina.com/2021/09/28/iphone-13s-face-id-discovered-not-to-work-after-third-party-screen-replacement/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 50
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/09/Apple-iPhone-13-Pro-All-Colors-Featured.jpg"
+        width: 4000
+        height: 2250
+        isCached: true
   - title: "Face ID on iPhone 13 will stop working if you get a third-party screen replacement"
     excerpt: "Apple has found a way to make third-party repairs more complicated, as getting your display fixed will disable Face ID on your iPhone 13"
     publishedDateTime: 2021-09-27T20:40:00Z

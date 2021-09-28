@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/24/ai-fairness-requires-fighting-bia
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/24/ai-fairness-requires-fighting-bias-with-bias/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 596
     isCached: true
+
+related:
+  - title: "Living with Artificial Intelligence — this year’s Reith Lectures"
+    excerpt: "Living with Artificial Intelligence is the theme of this year's Reith lecturer Stuart Russell — the four lectures will be held across the UK"
+    publishedDateTime: 2021-09-28T15:06:00Z
+    webUrl: "https://cultbox.co.uk/news/living-with-artificial-intelligence-this-years-reith-lectures"
+    type: article
+    provider:
+      name: CultBox
+      domain: cultbox.co.uk
+    quality: 37
+    images:
+      - url: "https://cultbox.co.uk/wp-content/uploads/2021/09/Living-with-Artificial-Intelligence.jpg"
+        width: 1456
+        height: 819
+        isCached: true
 
 secured: "MoMhDM3diZHWBrx39iMiNr12rglJOPLUhAswoadrEWM/1Nf2bT26YZV7T3ZcOJxja3vkbMchULcCwhRO24i4/72XJMGRDQLllqMhxNFQeJkOuhAyqwU8YwIFWp8VTf70dPTrIRhFGHut7IlFSiU9b3Ih2tp+rTC8xI2cSmNRYQvTsdO3tJgpfg8CXprG3OoDWrZMpOwZ7L1wsJ6P/grmylerKCSrZurZovNfuV1m/4YamMu0NsVa/+CyVVpoOmH1+5aGPKZ6MXlKv6fEcnZFJDfTwAtibrwOFT0+wSTZDhp4wfEOXDzqpOOVnKZxbIAyieNBzE14vuRNW8q/QPiHb/9pN9IYfe32cTrJCQ9Mo7meB8n4YaY4MF+SyJvsTSoYLFb7HoZkgChRukcz4CaqOTjVmX9tFjsbZ5rocBvX07YVbq5vTM3s09zIJj+3rE4uIBTUlHa6AIUynV9OEhrBtiShP5Naz7ogG73yt/H6TW/0gQPi1AFsNNi9UZDRJu8WJ48qj2lNjgtqtjHpXHdoUw==;7Bv4f08x9B1CNBmvGs9VFQ=="
 ---

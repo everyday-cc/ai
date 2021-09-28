@@ -10,7 +10,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-1%3A-faster-easier-richer-2021-09-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -624,6 +624,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-16-city-of-pittsburgh-pa-goes-live-on-css-impacts-financial-ecosystems-cloud-as-its-business-tax-management-platform.md",
+      "title": "City of Pittsburgh, PA Goes Live on CSS IMPACT’s Financial Ecosystems Cloud as its Business Tax Management Platform",
+      "excerpt": "On September 1st, 2021, the City of Pittsburgh Pennsylvania, Department of Finance, officially launched CSS IMPACT Financial Cloud as their new Enterprise Business Tax Management Financial Ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidearm.com/news/00047683-city-pittsburgh-pa-goes-live-css-impacts-/",
+      "originalUrl": "https://www.insidearm.com/news/00047683-city-pittsburgh-pa-goes-live-css-impacts-/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.insidearm.com/static/mirrorstage/img/article-share-thumbnail.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-16T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideARM",
+        "domain": "insidearm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-16-what-ai-and-machine-learning-mean-for-auto-lending-technology.md",
       "title": "What AI and machine learning mean for auto lending technology",
       "excerpt": "Many industries, including automotive finance, are turning to artificial intelligence (AI) and machine learning (ML) for these efficiencies. The technologies can deliver a competitive edge to lenders looking to not just survive,",
@@ -1005,6 +1048,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-15-peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insurance-industry.md",
+      "title": "Peak Fintech Acquires Heartbeat Insurance Platform and Brings Analytics and AI Expertise to Insurance Industry",
+      "excerpt": "Peak Fintech Group Inc. (CSE:PKK) (NASDAQ:TNT) (\"Peak\" or the \"Company\"), an innovative Fintech service provider",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/09/n22939082/peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insura",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/n22939082/peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insura",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1625279/Peak_Fintech_Group_Inc__Peak_Fintech_Acquires_Heartbeat_Insuranc.jpg",
+          "width": 323,
+          "height": 235,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22939082",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22939082",
+      "publishedDateTime": "2021-09-14T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insurance-industry.md",
       "title": "Peak Fintech Acquires Heartbeat Insurance Platform and Brings Analytics and AI Expertise to Insurance Industry",
       "excerpt": "All of Huayan's assets, including the Heartbeat platform, its employees and its operations will be transferred to Peak's Xinxiang Technologies Ltd. subsidiary (\"Xinxiang\"), which was created in the second quarter of 2021 specifically to help bring insurance related products and services to members of Peak's Business Hub.",
@@ -1262,103 +1348,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-facebook-developing-machine-learning-chip-the-information.md",
-      "title": "Facebook developing machine learning chip - The Information",
-      "excerpt": "Facebook Inc is developing a machine learning chip to handle tasks such as content recommendation to users, The Information reported on Thursday, citing two people familiar with the project.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/facebook-developing-machine-learning-chip-information-2021-09-09/",
-      "originalUrl": "https://www.reuters.com/technology/facebook-developing-machine-learning-chip-information-2021-09-09/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 248,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/d0h2VGieUoa8rWcphU5zvwQoS_s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2JN4NFPXBJGPJNAA2A7ECHILE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-singapore-tech-startup-advanceai-snags-200m-in-funding-round.md",
-      "title": "Singapore Tech Startup ADVANCE.AI Snags $200M in Funding Round",
-      "excerpt": "ADVANCE.AI is expected to raise roughly $200 million in a funding round that will put the tech startup in exclusive company as a southeastern Asia unicorn.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/investment-tracker/2021/singapore-tech-startup-advance-ai-snags-200m-in-funding-round/",
-      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/singapore-tech-startup-advance-ai-snags-200m-in-funding-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/09/ADVANCE.AI-funding-identity-verification-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2021/singapore-tech-startup-advance-ai-snags-200m-in-funding-round/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/singapore-tech-startup-advance-ai-snags-200m-in-funding-round/amp/",
-      "publishedDateTime": "2021-09-09T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AI in Finance"
       ]
     }
