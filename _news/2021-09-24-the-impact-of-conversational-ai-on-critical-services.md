@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itproportal.com/amp/features/the-impact-of-conversationa
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/the-impact-of-conversational-ai-on-critical-services/"
 type: article
 quality: 59
-heat: 90
+heat: 89
 published: true
 
 provider:

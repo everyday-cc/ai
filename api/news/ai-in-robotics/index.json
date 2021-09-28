@@ -115,7 +115,7 @@
       "originalUrl": "https://venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -168,7 +168,7 @@
       "originalUrl": "https://menafn.com/1102867752/Airport-Robots-Market-to-Garner-256-Billion-by-2030-Allied-Market-Research",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -190,58 +190,6 @@
         "name": "Middle East North Africa Financial Network",
         "domain": "menafn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-boston-dynamics-spot-robot-will-boldly-go-where-humans-shouldnt-and-make-work-safer.md",
-      "title": "Boston Dynamics’ Spot robot will boldly go where humans shouldn’t — and make work safer",
-      "excerpt": "With its latest update, Boston Dynamics' quadruped robot Spot is now more capable of making inspections and collecting data without human intervention.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/boston-dynamics-spot-robot-will-boldly-go-where-humans-shouldnt-make-work-safer-syndication",
-      "originalUrl": "https://thenextweb.com/news/boston-dynamics-spot-robot-will-boldly-go-where-humans-shouldnt-make-work-safer-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FBoston-Dynamics-Spot-dangerous.jpg&signature=456995d2856e1b893c07413d5c87bf67",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-25T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -1403,6 +1351,49 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-freebirds-partners-with-dallas-based-now-cuisine-for-burrito-bowl-robot-kiosks.md",
+      "title": "Freebirds Partners With Dallas-Based Now Cuisine for Burrito-Bowl Robot Kiosks",
+      "excerpt": "\"It’s just cool that a Texas-based AI and robotics company can help a Texas-based burrito company expand in ways we could only imagine just a few years ago,\" says Alex Eagle, Chief Executive Officer for Freebirds World Burrito.",
+      "sourceUrl": null,
+      "webUrl": "https://dallasinnovates.com/freebirds-partners-with-dallas-based-now-cuisine-for-burrito-bowl-robot-kiosks/",
+      "originalUrl": "https://dallasinnovates.com/freebirds-partners-with-dallas-based-now-cuisine-for-burrito-bowl-robot-kiosks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s24806.pcdn.co/wp-content/uploads/2021/09/Freebirds-Takeout-Station-970jpg.jpg",
+          "width": 970,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dallasinnovates.com",
+        "domain": "dallasinnovates.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

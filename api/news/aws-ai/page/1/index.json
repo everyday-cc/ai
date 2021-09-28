@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-28-comparing-aws-microsoft-and-google-cloud-cyber-security-in-the-public-cloud.md",
+      "title": "Comparing AWS, Microsoft and Google Cloud: Cyber security in the public cloud",
+      "excerpt": "A brief guide to the network, infrastructure, data and app security capabilities AWS, Microsoft Azure and Google Cloud provide to prevent cyber attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/691588/comparing-aws-microsoft-google-cloud-cyber-security-public-cloud/?fpid=1",
+      "originalUrl": "https://www.reseller.co.nz/article/691588/comparing-aws-microsoft-google-cloud-cyber-security-public-cloud/?fpid=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/aws_microsoft_google_updated_2.jpg",
+          "width": 504,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T21:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-ounass-increases-its-revenue-using-amazon-sagemaker-with-a-word2vec-based-recommender-system.md",
       "title": "Ounass increases its revenue using Amazon SageMaker with a Word2vec based recommender system",
       "excerpt": "Based in Dubai, Ounass is the Middle East’s leading ecommerce platform for luxury goods. Scouring the globe for leading trends, Ounass’s expert team reports on the latest fashion updates, coveted insider information, and exclusive interviews for customers to read and shop. With more than 230,000 unique",
@@ -201,7 +246,7 @@
       "originalUrl": "https://www.dqindia.com/meity-aws-partner-support-deeptech-innovation-india/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -436,6 +481,40 @@
         "AI",
         "AWS AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-rd-tax-experts-counting-king-save-businesses-over-3-million-in-six-months.md",
+      "title": "R&D tax experts Counting King save businesses over £3 million in six months",
+      "excerpt": "As part of this, Counting King is hosting Innovation North West, which will bring together leading industry experts including AWS DeepRacer, Viscgo and the Graphene Engineering Innovation Centre. Established in 2020 by Gary Hilton and Sam Dallow ...",
+      "sourceUrl": null,
+      "webUrl": "https://bdaily.co.uk/index.php/articles/2021/09/23/rd-tax-experts-counting-king-save-businesses-over-3-million-in-six-months",
+      "originalUrl": "https://bdaily.co.uk/index.php/articles/2021/09/23/rd-tax-experts-counting-king-save-businesses-over-3-million-in-six-months",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-23T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bdaily Business Network",
+        "domain": "bdaily.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1308,103 +1387,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-13-nfl-and-aws-unveil-new-4th-down-metric-to-judge-whether-your-favorite-coach-made-the-right-call.md",
-      "title": "NFL and AWS unveil new 4th down metric to judge whether your favorite coach made the right call",
-      "excerpt": "The NFL noted that some coaches, like the Cowboys' Mike McCarthy, made a few bad 4th down calls while the Browns' Kevin Stefanksi and Bengals' Zac Taylor made the right decisions down the stretch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nfl-and-aws-unveil-new-4th-down-metric-to-judge-whether-your-favorite-coach-made-the-right-call/",
-      "originalUrl": "https://www.zdnet.com/article/nfl-and-aws-unveil-new-4th-down-metric-to-judge-whether-your-favorite-coach-made-the-right-call/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/13/8bce6146-33fa-449d-aed3-c8bca9b6b0cb/resize/1200xauto/1570385f36251bb981a51328b1d4d19f/screen-shot-2021-09-06-at-10-35-49-pm-1.png",
-          "width": 1200,
-          "height": 713,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nfl-and-aws-unveil-new-4th-down-metric-to-judge-whether-your-favorite-coach-made-the-right-call/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nfl-and-aws-unveil-new-4th-down-metric-to-judge-whether-your-favorite-coach-made-the-right-call/",
-      "publishedDateTime": "2021-09-12T20:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-12-zillow-zillow-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise-fintech-zoom.md",
-      "title": "Zillow – Zillow – Leading MLOps Tools Are The Next Frontier Of Scaling AI In The Enterprise | Fintech Zoom",
-      "excerpt": "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom.",
-      "sourceUrl": null,
-      "webUrl": "https://fintechzoom.com/fintech_news_zillow/zillow-zillow-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise-fintech-zoom/",
-      "originalUrl": "https://fintechzoom.com/fintech_news_zillow/zillow-zillow-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise-fintech-zoom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fintechzoom.com/wp-content/uploads/2021/09/1631318839_0x0.jpg",
-          "width": 1200,
-          "height": 754,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-12T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechzoom",
-        "domain": "fintechzoom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI",
-        "AI in Finance"
       ]
     }
   ],

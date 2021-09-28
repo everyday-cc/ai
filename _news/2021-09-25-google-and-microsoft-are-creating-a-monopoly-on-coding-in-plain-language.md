@@ -7,8 +7,8 @@ originalUrl: "https://www.queensu.ca/gazette/stories/google-and-microsoft-are-cr
 webUrl: "https://www.queensu.ca/gazette/stories/google-and-microsoft-are-creating-monopoly-coding-plain-language"
 type: article
 quality: 55
-heat: 116
-published: true
+heat: -1
+published: false
 
 provider:
   name: Queen's University
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Comparing AWS, Microsoft and Google Cloud: Cyber security in the public cloud"
+    excerpt: "A brief guide to the network, infrastructure, data and app security capabilities AWS, Microsoft Azure and Google Cloud provide to prevent cyber attacks."
+    publishedDateTime: 2021-09-28T04:56:00Z
+    webUrl: "https://www.reseller.co.nz/article/691588/comparing-aws-microsoft-google-cloud-cyber-security-public-cloud/?fpid=1"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 70
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/aws_microsoft_google_updated_2.jpg"
+        width: 504
+        height: 315
+        isCached: true
   - title: "Why Wells Fargo picked both Microsoft Azure and Google Cloud"
     excerpt: "The bank wanted to diversify its risk and use different cloud-computing services for routine and unpredictable workloads, explains Saul Van Beurden, the head of technology at Wells."
     publishedDateTime: 2021-09-24T16:18:00Z
@@ -40,71 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Infosys Wins the 2021 Microsoft US Partner Award for Demonstrating Excellence in Azure AI Capabilities"
-    excerpt: "Infosys Wins the 2021 Microsoft US Partner Award for Demonstrating Excellence in Azure AI Capabilities. Infosys has won the ‘2021 Microsoft US Partner Award’ for demonstrating"
-    publishedDateTime: 2021-09-27T17:06:00Z
-    webUrl: "https://www.infosys.com/newsroom/features/2021/azure-ai-capabilities-award2021.html"
-    type: article
-    provider:
-      name: Infosys
-      domain: infosys.com
-    quality: 53
-    images:
-      - url: "https://www.infosys.com/content/dam/infosys-web/en/global-resource/18/banner/being-resilient-lead-mob.jpg"
-        width: 800
-        height: 500
-        isCached: true
-  - title: "Principled Technologies Tests Deep Learning Inference Performance on Microsoft Azure Virtual Machines Powered by Intel"
-    excerpt: "Principled Technologies tested newer Microsoft Azure Esv4-series VMs featuring Intel Xeon Platinum 8272CL processors against older Esv3-series VMs"
-    publishedDateTime: 2021-09-24T07:00:00Z
-    webUrl: "https://www.pr.com/press-release/826368"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 47
-    images:
-      - url: "https://img.pr.com/release/2109/416814/pressrelease_416814_1632412085.png"
-        width: 1000
-        height: 1294
-        isCached: true
-  - title: "Microsoft Highlights Windows Server 2022 Integration with Azure Services in Summit Talk"
-    excerpt: "Microsoft had a lot to say about Windows Server 2022 in its 1.5-hour Windows Server Summit online event, held on Sept. 16. Many of Windows Server 2022's features are associated with security enhancements,"
-    publishedDateTime: 2021-09-23T17:51:00Z
-    webUrl: "https://redmondmag.com/articles/2021/09/23/microsoft-windows-server-2022-highlights.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 46
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlueMetalMessBig.jpg"
-        width: 1665
-        height: 1158
-        isCached: true
-  - title: "AtScale Expands Semantic Layer Solution for Microsoft Excel"
-    excerpt: "AtScale, the leading provider of semantic layer solutions for modern business intelligence and data science teams, today announced deeper integration with Microsoft Excel’s advanced analytic functions."
-    publishedDateTime: 2021-09-23T14:34:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-453e695520c84019893466e4df57572b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 41
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "AtScale Expands Semantic Layer Solution for Microsoft Excel"
-    excerpt: "AtScale expands integrations with Microsoft Excel enabling high-performance, multi-dimensional analysis on live cloud data."
-    publishedDateTime: 2021-09-23T18:34:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210923005678/en/AtScale-Expands-Semantic-Layer-Solution-for-Microsoft-Excel"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 21
 
 secured: "aC1mVf1Rsh9eborz73ZkOuNccdevXshyNsqprGbJJWMdDk0Idqsn2mGXChTHmvhITtPOpwFHZ86PpPm/R4qz0RGefHsucxEI0SgAv6PAc4QTPYZ0YkYYrwdQHdub8FOd38m7hdvfCJIl5MJ07UefgGNH8Ukz4JzQRuykU4ZDr6jm8v46WTtjkSQTFep8kQmoxC8cutLScpVgFDkioHgEIGLIeuwmyJicmncVOeJSleS/Z2YwjHFp5pKuUD6kvkgN8rTraSlxt1UQYx7Rm7GxHI3ee2N0cdYGtIemvd4aHQrUdUBcyPlp7bcaHT283sEJLoE9z9+KSIAqd5WGEg+2cOJzAUc0oR2RWwJrvKYaIUSJwVvU0l0zBuTkpODOnrHxAHNFSHyCWMLOR4bB1l8UXnKlBNN/DSfoVcCJHmnZIDpZj6jwTarV8c0fcbpUYj0lcgkzfmj0o49Qh0g2CjEgm3qLMtrjqiJI4ivFYuxbnI+t3+XlCR9oUh2AGazcJOvBFDXwjkbsOgl/xwvLSfRZ0A==;vWD7+rYEClpRHiMmlrIn3A=="
 ---

@@ -81,20 +81,6 @@ related:
         width: 277
         height: 239
         isCached: true
-  - title: "Share India set to disrupt the FinTech industry with strategic acquisitions"
-    excerpt: "Share India announced the acquisition of two companies, Algowire Trading Technologies Private Limited and Utrade Solutions Private Limited."
-    publishedDateTime: 2021-09-23T11:56:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/share-india-set-to-disrupt-the-fintech-industry-with-strategic-acquisitions/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 22
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/Money2020_MPU.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "+vbWXdly4mKFky0k7aRKwf3VSF/xdCLbW7yCGJBgq+0eUAkP7Qza2e+WCF3wH+nEiB77pboo4DIvFdIVlikGUiqlryD5DYS6IaabMdY3Wd3expNkpygYUUuJrn8lje88nhbi+z/ljBSq30t7bt2uqNwaqz7IhZzLlfc2mxbsJ5XFgJ1CDZfOxeiaXLPd+DJIr6gHi8hs4+ht96Z8oC/pLVm8J5vofSEIx8J+vCk7PE54JZeZYNHvuNwRQcaB/FZiRFLX5YaH6USCPPBnH5rwYY+TQzAC20pfUy3gfSKsfHbGYHwah2eTaLuASHfPKt/SsF/piRB8LBFCq8vGIW2re3gjRGEs7AwCTU8me/Kk0Hk=;TKWrCcPBGwvSzJy5cDTY/w=="
 ---

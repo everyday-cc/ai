@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IDC Financial Insights Recognizes CSI as a Top Fintech Provider for 10th Consecutive Year"
-    excerpt: "Computer Services, Inc. (CSI) , a provider of end-to-end fintech and regtech solutions, has been named by IDC Financial Insights to its 2021 IDC FinTech Rankings for the 10th consecutive year. The annual industry ranking,"
-    publishedDateTime: 2021-09-23T11:42:00Z
-    webUrl: "https://www.lelezard.com/en/news-20011802.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 15
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "The Rise of Insurtech In The Pandemic Era: FinTech is Transforming The Insurance Industry"
     excerpt: "Insurtech has recently emerged in the insurance space growing by leaps and bounds, helping organizations protect their business and execute transactions remotely during the"
     publishedDateTime: 2021-09-25T22:53:00Z

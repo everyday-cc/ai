@@ -27,28 +27,23 @@ images:
     isCached: true
 
 related:
-  - title: "Taliban, ex-Afghan government dispute ends with no UN speech"
-    excerpt: "The dispute between Afghanistan’s new Taliban rulers and its former government over who should speak at the U.N.’s annual meeting of world leaders is over."
-    publishedDateTime: 2021-09-27T20:26:00Z
-    webUrl: "https://www.ksat.com/news/2021/09/27/taliban-ex-afghan-government-dispute-ends-with-no-un-speech/"
-    ampWebUrl: "https://www.ksat.com/news/2021/09/27/taliban-ex-afghan-government-dispute-ends-with-no-un-speech/?outputType=amp"
-    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/2021/09/27/taliban-ex-afghan-government-dispute-ends-with-no-un-speech/?outputType=amp"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 44
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/ZRS2EMNWXNAKRCU4XGHPIMO5ZA.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Afghan Taliban’s new UN envoy urges quick recognition"
     excerpt: "The Taliban’s newly appointed envoy to the United Nations is urging quick world recognition of the Taliban government and Afghanistan’s new rulers even as the World Health Organization raised the alarm warning of an impending humanitarian disaster in the war-wracked country."
     publishedDateTime: 2021-09-23T19:21:00Z
     webUrl: "https://www.sunherald.com/news/health/article254454783.html"
     ampWebUrl: "https://amp.sunherald.com/news/health/article254454783.html"
     cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/health/article254454783.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 24
+  - title: "Taliban, ex-Afghan government dispute ends with no UN speech"
+    excerpt: "The dispute between Afghanistan’s new Taliban rulers and its former government over who should speak at the U.N.’s annual meeting of world leaders is over."
+    publishedDateTime: 2021-09-28T03:05:00Z
+    webUrl: "https://www.sunherald.com/news/nation-world/world/article254557722.html"
+    ampWebUrl: "https://amp.sunherald.com/news/nation-world/world/article254557722.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/nation-world/world/article254557722.html"
     type: article
     provider:
       name: Biloxi Sun Herald

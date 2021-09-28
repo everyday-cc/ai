@@ -59,20 +59,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Fedex to launch self-driving trucks in pilot with Silicon Valley start-up"
-    excerpt: "The US package delivery firm FedEx is partnering with a self-driving vehicle start-up for a fleet of autonomous trucks to ferry shipments between Dallas and Ho"
-    publishedDateTime: 2021-09-23T12:00:00Z
-    webUrl: "https://www.thetimes.co.uk/article/fedex-to-launch-self-driving-trucks-in-pilot-with-silicon-valley-start-up-mr6kmmmgk"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 23
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fcff3485c-1c5b-11ec-95b9-6429167b0259.jpg?crop=1167%2C656%2C0%2C61&resize=1200"
-        width: 1167
-        height: 656
-        isCached: true
   - title: "Aurora launches self-driving truck pilot program with FedEx in Texas"
     excerpt: "The pilot begins this week, in which they will regularly haul FedEx loads autonomously with a safety driver between the Dallas and Houston areas on a 500-mile round trip. The announcement comes two days after Aurora gave a glimpse of the modified Toyota Sienna vans with which it plans to test its self-driving taxi service in the Bay Area,"
     publishedDateTime: 2021-09-23T21:47:00Z

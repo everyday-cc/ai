@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Dubai eyes the future with self-driving cabs"
-excerpt: "Hamdan Mohammed announces RTA Dubai has signed an agreement with General Motors Co’s Cruise self-driving car subsidiary to operate its autonomous vehicles in Dubai starting in 2023, adding that the self-driving fleet will reach 4,"
-publishedDateTime: 2021-09-11T05:54:00Z
-originalUrl: "https://www.zawya.com/saudi-arabia/en/business/story/Dubai_eyes_the_future_with_selfdriving_cabs-SNG_241845934/"
-webUrl: "https://www.zawya.com/saudi-arabia/en/business/story/Dubai_eyes_the_future_with_selfdriving_cabs-SNG_241845934/"
-ampWebUrl: "https://www.zawya.com/saudi-arabia/en/story/amp/SNG_241845934/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/SNG_241845934/"
+excerpt: "Dubai already boasts of a top-of-the-line public transport system with the driverless Dubai Metro ... overhaul the taxi sector by employing artificial intelligence and smart systems."
+publishedDateTime: 2021-09-10T19:50:00Z
+originalUrl: "https://www.khaleejtimes.com/news/dubai-eyes-the-future-with-self-driving-cabs"
+webUrl: "https://www.khaleejtimes.com/news/dubai-eyes-the-future-with-self-driving-cabs"
+ampWebUrl: "https://amp.khaleejtimes.com/news/dubai-eyes-the-future-with-self-driving-cabs"
+cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/dubai-eyes-the-future-with-self-driving-cabs"
 type: article
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: Khaleej Times
+  domain: khaleejtimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.zawya.com/images/cia/zAmp/210412111336ZRVZ.jpg"
-    width: 1200
-    height: 800
+  - url: "https://amp.khaleejtimes.com/storyimage/KT/20210910/ARTICLE/210919986/AR/0/AR-210919986.jpg&NCS_modified=20210910083100&MaxH=225&imageVersion=16by9"
+    width: 400
+    height: 225
     isCached: true
 
-secured: "9aiKGb/KPtC56KEPK+ZmJcgGY/GihETe7PX5k/znuEhcPgcyqdATBEmJ1qG9ROYpIDzRtB7dEfPcyUO0fhEeAsJqvS+mVV3d259Grg0OEb4R41kfsc+pCmuD/sCsiFOGPrHUC+c8h6gsVqH9Wcpy6T/klPbkWVT1If4QAV8E+VWI3KG5KyWeQJJYlv4HhwbmTblcHxZNTlT0+BXKrvv0jbDxuCtqGcIbsHE2oXEip12RY7zI/MH3gMyez7EwhHPXaOy1PzFObzDRdx8tGM2l5jFcG6njpUV4YhRjLckEjBrZpjSgPYWADtGzkGqytdK65oH9M3LQLnHPFE1E4xM6M6vxzpTLk58s4cwYS4613wHOhR/GzSdg5oiQZqO0YTbHCj/kdLRfYPSHGAgchAQoVJEfE7Exy6eSpcFOrH29lTBzAfT+AjjGaKMk/iESSL0N6mWoyvISLgLeqQyyHt8JtsgkImGso7z+kjd06IdWfa3x29wAVRaXhGFZ0bugfzj1LvlXvyVxO2Z0/MEeMpaoTQ==;XHwBd9qjfQ6TVRd9NW1khQ=="
+secured: "xdsEbwnQXgL83UGw12CQac7KMSuFV1q00w5OAn9vvoZw1G1UeYVwQ0aSGDa/5aXsffaPvccqeAmJXCn63IKUcrh+o+rfTZjh0oIBjWtOl/ZPqNePOCohXDEx3FXSzbTq5U9WEuCYr6YhVA9bgotYQVhd9o4WNFZ5pi087kMHljMFwF1D8FBq/yyV0AGdiusnJAc/3Z5HceXwS8Y0dt5g7/vMs4hW26R4zagAdYci8VQkm00CBYXCmtw1BJpbrfdeiGvB/jH+p02GaRlxiM3koO5l9Cx3a8TXs9L6JAP+mcN3Z9ZpKd+UYUJSgu02TF46bWbrycEJ+p5vIgyhlGqmjGalWUjlnNLKj2BpOqGyYCs=;tBiNTIBDsHLLjua5+zQcqg=="
 ---
 

@@ -2,19 +2,20 @@
 category: news
 title: "Kathleen Gallagher: AIQ Solutions uses artificial intelligence, machine learning for practical applications. Why isn't the firm worth more?"
 excerpt: "To continue to build a more vibrant business climate we need more ambitions problem-solving and more institutional investors willing to make big bets."
-publishedDateTime: 2021-09-23T17:25:00Z
-originalUrl: "https://www.thenorthwestern.com/story/money/business/2021/09/23/kathleen-gallagher-we-need-more-bold-investments-risky-startups/5812302001/"
-webUrl: "https://www.thenorthwestern.com/story/money/business/2021/09/23/kathleen-gallagher-we-need-more-bold-investments-risky-startups/5812302001/"
+publishedDateTime: 2021-09-23T17:11:00Z
+originalUrl: "https://www.greenbaypressgazette.com/story/money/business/2021/09/23/kathleen-gallagher-we-need-more-bold-investments-risky-startups/5812302001/"
+webUrl: "https://www.greenbaypressgazette.com/story/money/business/2021/09/23/kathleen-gallagher-we-need-more-bold-investments-risky-startups/5812302001/"
 type: article
-quality: 15
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Northwestern Media
-  domain: thenorthwestern.com
+  name: Green Bay Press-Gazette
+  domain: greenbaypressgazette.com
 
 topics:
+  - AI in Healthcare
   - AI
   - Machine Learning
 
@@ -29,6 +30,6 @@ related:
       domain: jsonline.com
     quality: 17
 
-secured: "C0QlqaN0BU/su4Ed1flPgnNDxknwSiTVewQ+Xo3+AnkOxW4npnPE8Z3rBN4Wuh4iZUeXfb2/LUvqDH2mXJz8mZ5cWzLc9731YQ3IkuZ9bCD2oGqNvczbRWiY8jo/q79agZ7iJm2JIhQ2ukOGJn/1jT984+aTDGIBZSO0HXdDQaeqJnnKXapOsJ7KYOpWNLme1AJERU2Btdz4fCn8WAlJVTnLhktcUBxNUzogFZPPnPeTHG2ZhUWHJfeHKHVVxy+Ap5sSm4EVw8fm7kmeIttUSaBWeDbYEon6TI4IHBItDBGa5CJTu9rWwlfZMhHUnQAJ05LCHns1/xKdm+5bU4h/My3zFYYQdVL4yZMv2/b9ExiBY/1LKsozX/iqp6VptncgocPsdNtuLay+e/KstVobWWDM/LEsuCzgAUfv4W95xkaZYuf1Tz6XpB+4ElCyKG0Qhh11OVRgat0fiWGMTxhCAg7AyRIXNj5accLIVlm9nk77k0AlDLnDHEi2Xg46OhII7D2YA+WF9n2Y9pYCn2qnwg==;37wW0MtwACxYi8Cg41WEhg=="
+secured: "V0Wr/vL6e4e6cvXD6lpSr3QMch3oA1zk5kQr2RmmQRcYMmp9rjN5TvxevAaHjOBJDLkKFYAKsrakJdRkWoacUUoOV0MjcPylny85wbAGLLJfMxkGki2BJhTG6nK89yuEzhEOiWfWZQ2AE4t/CIILWNn3GaHPCqJndIUepjL0rO7DGy1emEOjxXRBMwms88dRg58B6HS6sm4vWeYHGnirelIS8a0yAgdTp0RrzRozwcTeXCtUNnjokHm8mz36GsAQwhIrsVbzS143ZcFKmOrxMeit6uBw39AzMaS14C5HcmVtUOAtomSsavNKhYM0O6bIAn7E/LKvLYISwr8UKpuo7G1VNkAqs7+IhlaEF4gnMLdIBw3DdzGIfRNq/ZcDdFSBxQxMcADtO5CthBGjygYZRemQJInM2MFoyElkrizfYLDJiTlnViGvNCfonyDWdskBgNROL1C/aVkV0JDIpwF35T0AeOfTcOjmecmRo7AcpbyH0qtpNhk136syoDsLYm2VM3BaIho0CuMl6TY9s9tU+g==;+YmYDH91KWvsgIG9Ez8Sdw=="
 ---
 

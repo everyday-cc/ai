@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tool
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/amp/"
 type: article
 quality: 91
-heat: 91
+heat: 93
 published: true
 
 provider:

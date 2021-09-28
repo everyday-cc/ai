@@ -39,20 +39,15 @@ related:
         isCached: true
   - title: "Taliban, ex-Afghan government dispute ends with no UN speech"
     excerpt: "The dispute between Afghanistan’s new Taliban rulers and its former government over who should speak at the U.N.’s annual meeting of world leaders is over."
-    publishedDateTime: 2021-09-27T20:26:00Z
-    webUrl: "https://www.ksat.com/news/2021/09/27/taliban-ex-afghan-government-dispute-ends-with-no-un-speech/"
-    ampWebUrl: "https://www.ksat.com/news/2021/09/27/taliban-ex-afghan-government-dispute-ends-with-no-un-speech/?outputType=amp"
-    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/2021/09/27/taliban-ex-afghan-government-dispute-ends-with-no-un-speech/?outputType=amp"
+    publishedDateTime: 2021-09-28T03:05:00Z
+    webUrl: "https://www.sunherald.com/news/nation-world/world/article254557722.html"
+    ampWebUrl: "https://amp.sunherald.com/news/nation-world/world/article254557722.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/nation-world/world/article254557722.html"
     type: article
     provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 44
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/ZRS2EMNWXNAKRCU4XGHPIMO5ZA.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 24
   - title: "Beijing Cautiously Backs Taliban's Hopes Of International Recognition In Afghanistan"
     excerpt: "China has emerged as a pragmatic backer of the Taliban’s nascent rule and pushing to get the group more political and economic support."
     publishedDateTime: 2021-09-27T16:31:00Z

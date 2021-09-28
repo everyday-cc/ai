@@ -2,6 +2,248 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-09-11-ai-artificial-intelligence-should-you-teach-it-to-your-employees.md",
+      "title": "AI (Artificial Intelligence): Should You Teach It To Your Employees?",
+      "excerpt": "But AI is not easy to implement. Even top-notch companies have challenges and failures. So what can be done? Well, one strategy is to provide AI education to the workforce. “If more people are AI literate and can start to participate and contribute to the process,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/10/ai-artificial-intelligence-should-you-teach-it-to-your-employees/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/10/ai-artificial-intelligence-should-you-teach-it-to-your-employees/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613bae48bbb19cb92da70171%2F0x0.jpg",
+          "width": 1200,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/10/ai-artificial-intelligence-should-you-teach-it-to-your-employees/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/09/10/ai-artificial-intelligence-should-you-teach-it-to-your-employees/amp/",
+      "publishedDateTime": "2021-09-10T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-manage-your-amazon-fraud-detector-resources-in-an-automated-and-secure-manner-using-aws-cloudformation.md",
+      "title": "Manage your Amazon Fraud Detector resources in an automated and secure manner using AWS CloudFormation",
+      "excerpt": "Amazon Fraud Detector is a fully managed service that makes it easy to identify potentially fraudulent online activities, such as the creation of fake accounts or online payment fraud. Unlike general-purpose machine learning (ML) packages, Amazon Fraud Detector is designed specifically to detect fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/manage-your-amazon-fraud-detector-resources-in-an-automated-and-secure-manner-using-aws-cloudformation/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/manage-your-amazon-fraud-detector-resources-in-an-automated-and-secure-manner-using-aws-cloudformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-10T12:16:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-11-agile-robots-closes-220m-series-c-funding.md",
+      "title": "Agile Robots closes $220M Series C funding",
+      "excerpt": "Agile Robots, closes a $220M Series C round - to enable the company to extend its product and expand its global market reach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/agile-robots-closes-220m-series-c-funding/",
+      "originalUrl": "https://www.therobotreport.com/agile-robots-closes-220m-series-c-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/09/agile-robots-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-10T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-11-ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service.md",
+      "title": "IBM Watson Launches New AI and Automation Features to Help Businesses Transform Customer Service",
+      "excerpt": "IBM is adding new features in Watson Assistant, the company's intelligent virtual agent, to help businesses leverage AI and NLP to address customer issues on first contact. Watson Assistant is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service-301372091.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service-301372091.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1611508/Watson_Assistant_Search_Skill.jpg?p=facebook",
+          "width": 3108,
+          "height": 1625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-10T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-datarobot-ceo-dan-wright-coming-to-tc-sessions-saas-to-discuss-role-of-data-in-machine-learning.md",
+      "title": "DataRobot CEO Dan Wright coming to TC Sessions: SaaS to discuss role of data in machine learning",
+      "excerpt": "Just about every company is sitting on vast amounts of data, which they can use to their advantage if they can just learn how to harness it. Data is actually the fuel for machine learning models, and with the proper tools,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/10/datarobot-ceo-dan-wright-coming-to-tc-sessions-saas-to-discuss-role-of-data-in-machine-learning/",
+      "originalUrl": "https://techcrunch.com/2021/09/10/datarobot-ceo-dan-wright-coming-to-tc-sessions-saas-to-discuss-role-of-data-in-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/datarobot_wp.png?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/10/datarobot-ceo-dan-wright-coming-to-tc-sessions-saas-to-discuss-role-of-data-in-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/10/datarobot-ceo-dan-wright-coming-to-tc-sessions-saas-to-discuss-role-of-data-in-machine-learning/amp/",
+      "publishedDateTime": "2021-09-10T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-deepmind-aims-to-marry-deep-learning-and-classic-algorithms.md",
       "title": "DeepMind aims to marry deep learning and classic algorithms",
       "excerpt": "If successful, DeepMind's goal to bridge deep learning and classical computer science could revolutionize AI and software as we know them.",
@@ -941,225 +1183,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-dubai-eyes-the-future-with-self-driving-cabs.md",
-      "title": "Dubai eyes the future with self-driving cabs",
-      "excerpt": "aims to overhaul the taxi sector by employing artificial intelligence and smart systems. And as a step towards that, the RTA has already begun laying the groundwork by signing a partnership agreement with General Motors-backed Cruise to run driverless ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/uae/en/business/story/Dubai_eyes_the_future_with_selfdriving_cabs-SNG_241845934/",
-      "originalUrl": "https://www.zawya.com/uae/en/business/story/Dubai_eyes_the_future_with_selfdriving_cabs-SNG_241845934/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/images/cia/zAmp/210412111336ZRVZ.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/uae/en/story/amp/SNG_241845934/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_241845934/",
-      "publishedDateTime": "2021-09-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-microsoft-explores-machine-learning-in-space-with-aiml.md",
-      "title": "Microsoft explores machine learning in space with AIML",
-      "excerpt": "Microsoft joins the University of Adelaide’s Australian Institute for Machine Learning (AIML) to explore how machine learning can be used in space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.manmonthly.com.au/news/microsoft-explores-machine-learning-space-aiml/",
-      "originalUrl": "https://www.manmonthly.com.au/news/microsoft-explores-machine-learning-space-aiml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.manmonthly.com.au/wp-content/uploads/2021/09/07DCC2B9-4F08-47CF-98F8-1AFBAEE55EDB_1_201_a.jpeg",
-          "width": 1200,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manufacturers' Monthly",
-        "domain": "manmonthly.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-enterprise-artificial-intelligence-market-next-big-thing-major-giants-ibm-microsoft-aws-hpe.md",
-      "title": "Enterprise Artificial Intelligence Market Next Big Thing | Major Giants IBM, Microsoft, AWS, HPE",
-      "excerpt": "Latest Study on Industrial Growth of Worldwide Enterprise Artificial Intelligence Market 2021-2027. A detailed study accumulated to offer Latest insights about acute features of the Worldwide Enterprise Artificial Intelligence market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/271082758/enterprise-artificial-intelligence-market-next-big-thing--major-giants-ibm-microsoft-aws-hpe",
-      "originalUrl": "https://www.bignewsnetwork.com/news/271082758/enterprise-artificial-intelligence-market-next-big-thing--major-giants-ibm-microsoft-aws-hpe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1632214028757.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T16:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-ethics-panels-reject-and-delay-biometrics-ai-projects-for-google-ibm-microsoft.md",
-      "title": "Ethics panels reject and delay biometrics, AI projects for Google, IBM, Microsoft",
-      "excerpt": "Companies are waiting for regulation from govts and blocs, and also to improve their own tech to avoid issues such as perpetuating biases around race and gender",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202109/ethics-panels-reject-and-delay-biometrics-ai-projects-for-google-ibm-microsoft",
-      "originalUrl": "https://www.biometricupdate.com/202109/ethics-panels-reject-and-delay-biometrics-ai-projects-for-google-ibm-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/09/23155952/advisory-board-artificial-intelligence-leadership.jpg",
-          "width": 1080,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T14:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-ethical-artificial-intelligence-is-focus-of-new-robotics-program.md",
-      "title": "Ethical Artificial Intelligence is Focus of New Robotics Program",
-      "excerpt": "Ethics will be at the forefront of robotics education thanks to a new University of Texas at Austin program that will train tomorrow's technologists to understand the positive — and potentially negative — implications of their creations.",
-      "sourceUrl": null,
-      "webUrl": "https://cns.utexas.edu/news/ethical-artificial-intelligence-is-focus-of-new-robotics-program",
-      "originalUrl": "https://cns.utexas.edu/news/ethical-artificial-intelligence-is-focus-of-new-robotics-program",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cns.utexas.edu/images/easyblog_shared/2021/b2ap3_large_ethicalAI-robotics700.jpg",
-          "width": 700,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The University of Texas at Austin",
-        "domain": "utexas.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

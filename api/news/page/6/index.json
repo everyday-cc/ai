@@ -2,6 +2,136 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-09-22-facial-recognition-market-share-industry-analysis-report-2026.md",
+      "title": "Facial Recognition Market Share | Industry Analysis Report 2026",
+      "excerpt": "Global facial recognition market is growing demand for advanced identification and verification technologies stemming from rising security concerns is poised to drive outlook. Facial recognition systems are witnessing demand from several sectors for precise identification of individuals to ensure security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-share-industry-analysis-report-2026-2021-09-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-share-industry-analysis-report-2026-2021-09-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T21:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-machine-learning-with-microsoft-azure-ml-studio-without-code.md",
+      "title": "Machine Learning with Microsoft Azure ML Studio Without Code",
+      "excerpt": "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/",
+      "originalUrl": "https://www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 246,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.geeksforgeeks.org/wp-content/uploads/20210905154707/exp.jpg",
+          "width": 658,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/amp/",
+      "cdnAmpWebUrl": "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/amp/",
+      "publishedDateTime": "2021-09-21T18:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeeksforGeeks",
+        "domain": "geeksforgeeks.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-5-hot-ai-stocks-to-watch-in-the-stock-market-this-week.md",
+      "title": "5 Hot AI Stocks To Watch In The Stock Market This Week",
+      "excerpt": "Are These The Best AI Stocks To Buy Right Now? Even with the stock market today struggling to find direction, investors could be considering tech stocks. In particular, artificial intelligence (AI) stocks would be a notable subsection of the industry now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/5-hot-ai-stocks-to-watch-in-the-stock-market-this-week-2021-09-21",
+      "originalUrl": "https://www.nasdaq.com/articles/5-hot-ai-stocks-to-watch-in-the-stock-market-this-week-2021-09-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/5-hot-ai-stocks-to-watch-in-the-stock-market-this-week-2021-09-21?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-hot-ai-stocks-to-watch-in-the-stock-market-this-week-2021-09-21?amp",
+      "publishedDateTime": "2021-09-21T17:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-21-model-and-data-lineage-in-machine-learning-experimentation.md",
       "title": "Model and data lineage in machine learning experimentation",
       "excerpt": "Modern quantitative finance is based around the approach of pattern recognition in historical data. This approach requires teams of scientists to work in a collaborative and regulated setting in order to develop models that can be used to make trading predictions. With the growing influence of this field,",
@@ -761,6 +891,50 @@
       ]
     },
     {
+      "path": "_news/2021-09-21-ssc-services-for-education-launches-national-employee-recognition-program.md",
+      "title": "SSC Services for Education Launches National Employee Recognition Program",
+      "excerpt": "SSC Services for Education (SCC), a leading national facilities and grounds management provider for K-12 schools and universities across the country, has announced a new employee recognition program,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/business-education-knoxville-4c5b6b85b06ad39a3960db2ec798e4f5",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/business-education-knoxville-4c5b6b85b06ad39a3960db2ec798e4f5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-09-21-googler-marian-croak-is-now-in-the-inventors-hall-of-fame.md",
       "title": "Googler Marian Croak is now in the Inventors Hall of Fame",
       "excerpt": "Look around you right now and consider everything that was created by an inventor. The computer you’re reading this article on, the internet necessary to load this article, the electricity that powers the screen, even the coffee maker you used this morning. To recognize the incredible contributions of",
@@ -999,185 +1173,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-artificial-intelligence-can-help-highway-departments-find-bats-roosting-under-bridges.md",
-      "title": "Artificial intelligence can help highway departments find bats roosting under bridges",
-      "excerpt": "Photographs and computer vision techniques using artificial intelligence are able to detect the presence of bats on bridges automatically with over 90% accuracy, according to our new study.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-09-artificial-intelligence-highway-departments-roosting.html",
-      "originalUrl": "https://techxplore.com/news/2021-09-artificial-intelligence-highway-departments-roosting.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-33.jpg",
-          "width": 1000,
-          "height": 537,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-09-artificial-intelligence-highway-departments-roosting.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-artificial-intelligence-highway-departments-roosting.amp",
-      "publishedDateTime": "2021-09-21T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-pavmed-subsidiary-veris-health-joins-microsoft-for-startups-global-program-and-engages-loka-as-software-development-partner.md",
-      "title": "PAVmed Subsidiary Veris Health Joins Microsoft for Startups Global Program and Engages Loka as Software Development Partner",
-      "excerpt": "As a Microsoft for Startups program member, Veris will have access to Microsoft technology, mentorship and business support which will allow it to use Microsoft's cloud storage, data analytics, and other technologies to rapidly build and deploy its platform with state-of-the-art,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/09/21/9453342.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/09/21/9453342.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-21T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-managing-change-in-ai-dont-forget-about-your-staffs-needs-and-abilities.md",
-      "title": "Managing change in AI: Don't forget about your staff's needs and abilities",
-      "excerpt": "When change affects people in your organization, remember that you have a wealth of talent that needn't go to waste. Consider re-skilling to meet the company's needs as well as the employees'.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/managing-change-in-ai-dont-forget-about-your-staffs-needs-and-abilities/",
-      "originalUrl": "https://www.techrepublic.com/article/managing-change-in-ai-dont-forget-about-your-staffs-needs-and-abilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2018/09/11/13c43ea2-1fda-4648-827a-8ce385fbf584/resize/1200x/528440af7f1cb500f14724568b3e1fa2/istock-burnout.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/managing-change-in-ai-dont-forget-about-your-staffs-needs-and-abilities/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/managing-change-in-ai-dont-forget-about-your-staffs-needs-and-abilities/",
-      "publishedDateTime": "2021-09-21T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-responsible-ai-is-every-businesss-responsibility.md",
-      "title": "Responsible AI Is Every Business’s Responsibility",
-      "excerpt": "Is AI the transformative technology destined to work wonders for humanity, from driverless cars to a cure for cancer? Or is it a genie in a bottle that, once released, could be used to manipulate or even rule humankind?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/21/responsible-ai-is-every-businesss-responsibility/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/21/responsible-ai-is-every-businesss-responsibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f32cd286b894b218218c8dd%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/21/responsible-ai-is-every-businesss-responsibility/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/21/responsible-ai-is-every-businesss-responsibility/amp/",
-      "publishedDateTime": "2021-09-21T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

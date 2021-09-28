@@ -41,6 +41,22 @@ related:
         width: 745
         height: 562
         isCached: true
+  - title: "Researchers develop fast, low-energy artificial synapse for advanced AI systems"
+    excerpt: "Brain-inspired computing is a promising candidate for next-generation computing technologies. Developing next-generation advanced artificial intelligence (AI) systems that can be as energy-efficient,"
+    publishedDateTime: 2021-09-28T04:42:00Z
+    webUrl: "https://www.news-medical.net/news/20210928/Researchers-develop-fast-low-energy-artificial-synapse-for-advanced-AI-systems.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210928/Researchers-develop-fast-low-energy-artificial-synapse-for-advanced-AI-systems.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210928/Researchers-develop-fast-low-energy-artificial-synapse-for-advanced-AI-systems.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 55
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Active_receptor_isolated_on_blue-Alex_Mit-2000_7bb58c42ac3a4660867de4dc871075f7-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "hlZGIEKBwG72cxUgNvAUaY5RsLDMfNYTbxslTZsQw27sZ13RMNhJwKpVxSLUHZV9tKpngmTLH4Lqy38aNGxfRQ2lKDc559I2HpEHDcnr+nUrB0kXr/OJ+t9U8NX0RrStKpkURePZGVK+9FaNNYr1ga0AD88eWVbGaoRRv0R9lb2Egiykj3z505Q0CryY0hUSUoY5rQtkY9mMVPX1W6miZmZ6UeNE+ot+EvnDEYJSXhbuwkkETLIQQr2IAXpLHt2qjspz8XLxgxr+mvwjTGphKI4h5CAir+z+XvBdQVWilTNarcpRbTQR13th83ePAEQMfTRP4oVtmsNhs64q4GE/9A2UDT+IJOueqNPPCvTQiOIbuYaPt5ZXOGpO8nskjcW8BCEplfwuWASmPvNWA2UDkVExaf4maxQq8cWW2YxUU5VuqIpLCtE/mGY/dNp89sfEsf1pCfGImgrYLW9W6uXF6m2DDZqSOwUDh33ppC0Agdm7VUOpym4SiJNVqEr7ojg+RZLe3sMwD/eUxk6I3K55qw==;38lLX4YssPW8SI9p3huNBw=="
 ---

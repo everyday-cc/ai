@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/09/27/cloud-artificial-intelligence-
 webUrl: "https://siliconangle.com/2021/09/27/cloud-artificial-intelligence-startup-akkio-raises-3m-bain-capital/"
 type: article
 quality: 51
-heat: 71
+heat: 73
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/24/abductive-inference-is-a-major-bl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/amp/"
 type: article
 quality: 87
-heat: 99
+heat: 97
 published: true
 
 provider:

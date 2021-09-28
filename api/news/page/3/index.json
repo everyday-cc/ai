@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-24-how-apis-are-democratizing-access-to-ai-and-where-they-hit-their-limits.md",
+      "title": "How APIs Are Democratizing Access To AI (And Where They Hit Their Limits)",
+      "excerpt": "The value in AI is quickly transitioning from the models themselves to the data used to train and run them in inference. Much like the API economy has transformed other types of technology by allowing otherwise closed systems to interoperate and share data,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/24/how-apis-are-democratizing-access-to-ai-and-where-they-hit-their-limits/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/24/how-apis-are-democratizing-access-to-ai-and-where-they-hit-their-limits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc6a2727e57526ba412333b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/24/how-apis-are-democratizing-access-to-ai-and-where-they-hit-their-limits/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/24/how-apis-are-democratizing-access-to-ai-and-where-they-hit-their-limits/amp/",
+      "publishedDateTime": "2021-09-24T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-24-uks-ai-strategy-is-ambitious-but-needs-funding-to-match-says-facultys-marc-warner.md",
       "title": "UK’s AI strategy is ‘ambitious’ but needs funding to match, says Faculty’s Marc Warner",
       "excerpt": "The UK published its first ever national AI strategy this week. The decade-long commitment by the government to levelling up domestic artificial intelligence capabilities — by directing resource and attention toward skills,",
@@ -386,7 +438,7 @@
       "originalUrl": "https://www.dqindia.com/meity-aws-partner-support-deeptech-innovation-india/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -471,7 +523,7 @@
       "originalUrl": "https://www.itproportal.com/features/the-impact-of-conversational-ai-on-critical-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -899,6 +951,58 @@
       ]
     },
     {
+      "path": "_news/2021-09-24-3d-facial-recognition-market-size-analysis-competitive-strategies-and-forecasts-to-2026.md",
+      "title": "3D Facial Recognition Market Size, Analysis, Competitive Strategies and Forecasts to 2026",
+      "excerpt": "This detailed presentation on ‘ 3D Facial Recognition market’ available at MarketStudyReport.com, features an exhaustive study conveying influential trends prevailing in the global business sphere. The report also presents significant details concerning market size,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-market-size-analysis-competitive-strategies-and-forecasts-to-2026-2021-09-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-market-size-analysis-competitive-strategies-and-forecasts-to-2026-2021-09-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-23T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-24-nosh-uses-ai-to-help-people-and-businesses-cut-down-on-their-food-waste.md",
       "title": "Nosh uses AI to help people and businesses cut down on their food waste",
       "excerpt": "When founder Somdip Dey was a computer science masters student at the University of Manchester, his parents got in a terrible car accident. He sent all of his money back to his parents in India to help with their medical bills,",
@@ -1106,94 +1210,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-opinion-how-artificial-intelligence-could-save-your-life.md",
-      "title": "Opinion: How artificial intelligence could save your life",
-      "excerpt": "Machine intelligence implies serious consequences for human life, with mass unemployment being just one example. And yet, the transformative power of AI might actually save people’s lives. AI aims to simulate the human mind’s ability to learn,",
-      "sourceUrl": null,
-      "webUrl": "https://montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life",
-      "originalUrl": "https://montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.prod.postmedia.digital/montrealgazette/wp-content/uploads/2021/09/afp_1qa2a5.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life/wcm/5f1cb3c0-543d-4e66-a770-f4122faac455/amp/",
-      "cdnAmpWebUrl": "https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life/wcm/5f1cb3c0-543d-4e66-a770-f4122faac455/amp/",
-      "publishedDateTime": "2021-09-23T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Montreal News",
-        "domain": "montrealgazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-nvidia-and-open-robotics-accelerate-ros-2-performance.md",
-      "title": "NVIDIA and Open Robotics accelerate ROS 2 performance",
-      "excerpt": "NVIDIA and Open Robotics have entered into an agreement to accelerate ROS 2 performance on NVIDIA’s Jetson edge AI platform and GPU-based systems. These in",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsweekly.com/news/business/nvidia-open-robotics-accelerate-ros-2-performance-2021-09/",
-      "originalUrl": "https://www.electronicsweekly.com/news/business/nvidia-open-robotics-accelerate-ros-2-performance-2021-09/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.electronicsweekly.com/wp-content/uploads/2021/09/23134602/2ED81732-16CA-40BF-8662-7758178B331D.jpeg",
-          "width": 960,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-23T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics Weekly",
-        "domain": "electronicsweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

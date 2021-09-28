@@ -2,29 +2,23 @@
 category: news
 title: "Taliban, ex-Afghan government dispute ends with no UN speech"
 excerpt: "The dispute between Afghanistan’s new Taliban rulers and its former government over who should speak at the U.N.’s annual meeting of world leaders is over."
-publishedDateTime: 2021-09-27T20:26:00Z
-originalUrl: "https://www.ksat.com/news/2021/09/27/taliban-ex-afghan-government-dispute-ends-with-no-un-speech/"
-webUrl: "https://www.ksat.com/news/2021/09/27/taliban-ex-afghan-government-dispute-ends-with-no-un-speech/"
-ampWebUrl: "https://www.ksat.com/news/2021/09/27/taliban-ex-afghan-government-dispute-ends-with-no-un-speech/?outputType=amp"
-cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/2021/09/27/taliban-ex-afghan-government-dispute-ends-with-no-un-speech/?outputType=amp"
+publishedDateTime: 2021-09-28T03:05:00Z
+originalUrl: "https://www.sunherald.com/news/nation-world/world/article254557722.html"
+webUrl: "https://www.sunherald.com/news/nation-world/world/article254557722.html"
+ampWebUrl: "https://amp.sunherald.com/news/nation-world/world/article254557722.html"
+cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/nation-world/world/article254557722.html"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: KSAT
-  domain: ksat.com
+  name: Biloxi Sun Herald
+  domain: sunherald.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/ZRS2EMNWXNAKRCU4XGHPIMO5ZA.jpg"
-    width: 2000
-    height: 1333
-    isCached: true
 
 related:
   - title: "Taliban, ex-Afghan government dispute ends with no UN speech"
@@ -78,6 +72,6 @@ related:
       domain: newsobserver.com
     quality: 4
 
-secured: "H82cc18kdfNHJoUlsmO6LGYza3xPwAH6jWl4pQHAJOd+TIHNYGzxKb4jbtmvc4j+nnxd01LPZQmGdYo30jAM80jlgpmdduvXZMOOSG2uTvNbbgClSE47XjFvB6gwLRUFGg6ffW9sT4raPpYd52aQz2n6B+xzAHiivI/DToCPzOpQ7sMZBqn8gKOd2OzrkwJlc68WmnmEX43OMu4NOoUAxMwx6kd7wULSvedPK/IDbCQc3TeqRUnagdmoe6mk61R0AZ9DUR/I51LyfXOiVNoxDGjsCNTbN89cQo7xTFCpU9J4nB2VKcz50CpW/7drZUGSxuH2fDkNnALE7CfllD8JH+JJxA7iEl0Ybn6bz6ZI6x68u3rVNZ+6Kucd9jjhj04pBEvyTn0LvTeseK7Wih1oyvTswqJXYK++4qIupKtRP+EZvMJlVkxECS0ZVPpdUiGNv5rI1+smW/Y3EWSUFu8DbZsd6qzmLC/i4HEZj5RN7o2q6fNoqrWoN4ttd+/P423feQAlVYxf+1+tX/9d20XZaQ==;5aILwYYqu6Xd525d+96lKg=="
+secured: "5slqwoVCj4KBLljruiXMoMId2kg54TIbWCFBJVbPw41pwkOBc+OdQdki5W4GbncArlQZvEGo+xZxPMyY47UifvnxxU4aO6LKfWPGqdA3kr6CUAaQ0iijUUvEqzHHlzVh+FJPBg9vH823sXYOV3m9rEQA1s/+QEaNsyeLcU8l3+S3X8OMpsE7I0xAGoTnUWGFZ8Aq1HiRrx7bLMFp2QUcAy3QXoPXe+3zPN3ejAd0w2IHrBqkEoKpxW7LKwiiMwGraDDuRXBL9ud5pm8ykfZYlDzhitnHkwAkBrb06EtjY9sWwCmZiXGREWowT+pKTkWFtR0SfI/Ib3NoTBTZNDFVlZ/tF7HERU9cWmN3rxtB6H6ss6Cw4clisEb+IfosxAtwb3hJ1d0AsATY1S3g99q8XZuGzdy6yD+OcAF+DiHtj84PYXqeFV+vkYavdc+x9SMLYDQVgzStPrg2rDiBCqUDLkbxY/uxGqLU4UnZGQ75BGxErHqb0SuqUnELmjZeJGneNLOx43MugdW6xRiQkmBfqQ==;6NZbjxGpief0nFc9krN91w=="
 ---
 

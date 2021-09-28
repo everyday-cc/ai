@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fedex to launch self-driving trucks in pilot with Silicon Valley start-up"
-    excerpt: "The US package delivery firm FedEx is partnering with a self-driving vehicle start-up for a fleet of autonomous trucks to ferry shipments between Dallas and Ho"
-    publishedDateTime: 2021-09-23T12:00:00Z
-    webUrl: "https://www.thetimes.co.uk/article/fedex-to-launch-self-driving-trucks-in-pilot-with-silicon-valley-start-up-mr6kmmmgk"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 23
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fcff3485c-1c5b-11ec-95b9-6429167b0259.jpg?crop=1167%2C656%2C0%2C61&resize=1200"
-        width: 1167
-        height: 656
-        isCached: true
 
 secured: "LJRpHs7Clf1b1u6QLTBUyg/ik2MIjgIpX8bkDvTaVjf7/03OmTqbt0IJT3gZ1OhSv7pfsnGJT+2HbkX6pBgaUsxhqtRZ54Xm1SteWKF5Lm2vsW8hRsGm/PN5pUs9ci7HksuZ/SJIk44YIkL4kiLQKKBgbgApL9AWEhpk9jXByHx2SE8dcENw5HQW1XnN+aN5AQaTFRxRH7Eo1pdIChqysbCLstPINm8M6cZoIdLi5oryyLTaYwypH+zhZd4OmB9tztG8pH3pGxvJTSBWd4GhgTuhwy5/spw1WdFzeFhdwm6azR6LLk8IY716qFaWmABFxiQ2lOrTl2BZSVFlk11Ay4vUek+7R3pE+Nnh4T+xgKfiFNuKU4M7W+IKOgaOEh3nVg/dERwOYAO50OGstwI/aE99+E132SxyK3gi10JisfMpJjofVer4NeT3xx+AFsNLr+XQ9MAlyEClx1jG+OMu+CID7LXWKO4AMEJwiRKSSt1SDyGUSM+HScAXAIlxSJPLzcpD8SFo4pMGoRE845Lwmg==;XwQzTt8RBs3Rm+T/I3UYKw=="
 ---

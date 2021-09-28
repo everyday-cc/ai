@@ -6,9 +6,6 @@ publishedDateTime: 2021-09-23T12:53:00Z
 originalUrl: "https://bdaily.co.uk/index.php/articles/2021/09/23/rd-tax-experts-counting-king-save-businesses-over-3-million-in-six-months"
 webUrl: "https://bdaily.co.uk/index.php/articles/2021/09/23/rd-tax-experts-counting-king-save-businesses-over-3-million-in-six-months"
 type: article
-quality: 2
-heat: 2
-published: false
 
 provider:
   name: Bdaily Business Network
@@ -18,6 +15,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "+xlNce0GvEtjqHPItjQKbRbg9/zlidUjFNbTm3NaNJS/G4by1XwIVclPoWzuvLhXsULKeL2GtbQXH5eLg8m6KfFJ+TjUWqw/Heacezo7bel19eG2oIhOCk3PzC7dOXHjNTn0W2dTdLHPRibi8ewPJ62iX3cssSIAtOWWLTrHm8e25neixz+1tRgP2VomnrD/yjoWyLjsJKm1c+ysWgHlWEFrCV7wx03zSElcRRWtlTW3Hs/bafr11JobPdCS0XFGJ/Vu17GiKu8/Lr1mYk5eVdCLh2KzCGG06K1B27PMbJ1h7hBArPCqE5e3LDCOCJJ6r/zlHbU75tvYUw7zI69aJrSAvqZz9qgwkHKTOALZOSc=;haN7PVIpVPpZr8QW8b6BVA=="
+secured: "JaNm1Ui65UIeUR+eyi3hubWoNfpOTWazTj5LawyD/rv+aamRCn187R4OxYPuU4jxVCLsAHOruvKHq2jSkGmohBQTzIAGp6rMAZYGECY0KcYn5u1HdPUm8ud7Nw8D6JuYh8qZLjfMgFXNwwpHEVv6drT7txKmIYU85ev1iPgwf26yLaGvh3DeDX/v80lG0Hul6ZRzIn/YD7/q9s7A4gNUKryAziaY7YHRHx14FcPeZOXSa+1Oou5EAFPQT9XS55tc+oaFE4P/Jpfp7NhIYbccJLd+p1Mm6jATtazwRm86764Xu5kKXK+7Vrc6Dxvcdbt2EudWCNgc1JuYPnEfx1urilekoS84+90pFHu7cOgyzOs=;cT3vTIqEiLfvyrEORs6t9A=="
 ---
 

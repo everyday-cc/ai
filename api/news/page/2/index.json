@@ -2,6 +2,141 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-27-afridi-presents-iiojk-dossier-to-ai-urges-it-to-raise-voice-against-india.md",
+      "title": "Afridi presents IIOJK dossier to AI, urges it to raise voice against India",
+      "excerpt": "ISLAMABAD: Chairman of the Parliamentary Committee on Kashmir Shehryar Afridi has presented a dossier to the Amnesty International on human rights violations in Indian Illegally Occupied Jammu and Kashmir (IIOJK) and urged it to raise its voice and ask the United Nations (UN) and other humanitarian organisations to save the suffering Kashmiris from Indian genocide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.brecorder.com/news/40122807/afridi-presents-iiojk-dossier-to-ai-urges-it-to-raise-voice-against-india",
+      "originalUrl": "https://www.brecorder.com/news/40122807/afridi-presents-iiojk-dossier-to-ai-urges-it-to-raise-voice-against-india",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.brecorder.com/large/2021/09/6150f532ee1ff.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.brecorder.com/news/amp/40122807",
+      "cdnAmpWebUrl": "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40122807",
+      "publishedDateTime": "2021-09-26T17:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Recorder",
+        "domain": "brecorder.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-vendor-management-is-the-new-customer-management-and-ai-is-transforming-the-sector-already.md",
+      "title": "Vendor Management Is The New Customer Management, And AI Is Transforming The Sector Already",
+      "excerpt": "Sourcing and vendor management are more complex than ever, as companies move into emerging fields and leverage third-party suppliers to provide what cannot be internally produced. Vendors play long-term and essential roles in businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/09/26/vendor-management-is-the-new-customer-management-and-ai-is-transforming-the-sector-already/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/09/26/vendor-management-is-the-new-customer-management-and-ai-is-transforming-the-sector-already/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6151081fe5f90b68e8c672ff%2F0x0.jpg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/09/26/vendor-management-is-the-new-customer-management-and-ai-is-transforming-the-sector-already/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/26/vendor-management-is-the-new-customer-management-and-ai-is-transforming-the-sector-already/amp/",
+      "publishedDateTime": "2021-09-26T16:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-an-ai-finished-beethovens-final-symphony-but-is-it-good.md",
+      "title": "An AI finished Beethoven’s final symphony. But is it good?",
+      "excerpt": "The AI version of Beethoven's 10th symphony is almost as immaculate as the master composer's original works. Listen to a preview here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/beethoven-10th-symphony-ai/",
+      "originalUrl": "https://www.popsci.com/technology/beethoven-10th-symphony-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2021/09/24/beethoven-piano-music.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/beethoven-10th-symphony-ai/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/beethoven-10th-symphony-ai/?amp",
+      "publishedDateTime": "2021-09-26T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-26-bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide.md",
       "title": "Bennett to urge action on Iran in UN speech, won’t focus on Palestinians — aide",
       "excerpt": "PM will warn at UN that world at a ‘critical stage in the Iranian nuclear program’; adviser says Israel’s ties with world ‘multi-faceted,’ mustn’t be defined by Palestinian issue",
@@ -183,58 +318,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-25-boston-dynamics-spot-robot-will-boldly-go-where-humans-shouldnt-and-make-work-safer.md",
-      "title": "Boston Dynamics’ Spot robot will boldly go where humans shouldn’t — and make work safer",
-      "excerpt": "With its latest update, Boston Dynamics' quadruped robot Spot is now more capable of making inspections and collecting data without human intervention.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/boston-dynamics-spot-robot-will-boldly-go-where-humans-shouldnt-make-work-safer-syndication",
-      "originalUrl": "https://thenextweb.com/news/boston-dynamics-spot-robot-will-boldly-go-where-humans-shouldnt-make-work-safer-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FBoston-Dynamics-Spot-dangerous.jpg&signature=456995d2856e1b893c07413d5c87bf67",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-25T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-25-abductive-inference-is-a-major-blind-spot-for-ai.md",
       "title": "Abductive inference is a major blind spot for AI",
       "excerpt": "While an AI winter might dampen interest in deep learning and data-driven AI, it can open a new generation exploration.",
@@ -243,7 +326,7 @@
       "originalUrl": "https://venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -420,50 +503,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language.md",
-      "title": "Google and Microsoft are creating a monopoly on coding in plain language",
-      "excerpt": "Natural language coding means that people won’t need to learn specialized coding languages to write programs or design websites. But large corporations will control the means of translation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.queensu.ca/gazette/stories/google-and-microsoft-are-creating-monopoly-coding-plain-language",
-      "originalUrl": "https://www.queensu.ca/gazette/stories/google-and-microsoft-are-creating-monopoly-coding-plain-language",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.queensu.ca/gazette/sites/default/files/assets/socialmedia/TW%20Coding%20arnold-francisca-nPhl2x4fk2s-unsplash.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Queen's University",
-        "domain": "queensu.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -1148,58 +1187,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-how-apis-are-democratizing-access-to-ai-and-where-they-hit-their-limits.md",
-      "title": "How APIs Are Democratizing Access To AI (And Where They Hit Their Limits)",
-      "excerpt": "The value in AI is quickly transitioning from the models themselves to the data used to train and run them in inference. Much like the API economy has transformed other types of technology by allowing otherwise closed systems to interoperate and share data,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/24/how-apis-are-democratizing-access-to-ai-and-where-they-hit-their-limits/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/24/how-apis-are-democratizing-access-to-ai-and-where-they-hit-their-limits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc6a2727e57526ba412333b%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/24/how-apis-are-democratizing-access-to-ai-and-where-they-hit-their-limits/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/24/how-apis-are-democratizing-access-to-ai-and-where-they-hit-their-limits/amp/",
-      "publishedDateTime": "2021-09-24T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

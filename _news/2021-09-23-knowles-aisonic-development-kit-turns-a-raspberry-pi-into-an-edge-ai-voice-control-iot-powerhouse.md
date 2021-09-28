@@ -24,22 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Raspberry Pi kit enables voice in IoT applications"
-    excerpt: "Raspberry Pi development kit that will allow engineers to bring voice, audio edge processing and machine learning capabilities to internet of things (IoT) applications. The Knowles AISonic IA8201 kit allows designers,"
-    publishedDateTime: 2021-09-23T12:16:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17229/raspberry-pi-kit-enables-voice-in-iot-applications"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 24
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/229/17229/Knowles_IA8201.jpg"
-        width: 752
-        height: 316
-        isCached: true
-
 secured: "yEWnmPtXF7iey9wGcoNeu9MzmLfIddV9FngxefWhTLlmm/cUf9PpejfDv/Ui0ij3eOXMJ2OTLls39I5HkP9YhEpXoIoLeZnhujxn9ogO4BbhGXyFt5w3n09CD7Io4kn7HuhzUxiJ4UzUn0toC4th0BV1VT0soCOUKPXMYLrsTYYtqinc3dAZd0FonDg+7pGRpk6hJthoQVTvb/FcfJeKWIC2j41BLhcdFo6smvbUudcffOZ5E6a+D0bs3egF+rdU9nkSCoYs69/orI4TcJAaAMSklh1Msa/7jGz6sMX/aphXCWz3RhMDm4MqKMfVx7ARnVdLUTOWr8cG1aICjtEeInNfB1NOxi//c3D0V/umWWKLi4ZYWknytyZatlFxDhFebnXXMBoxCzF6dUy7/biMppdGs4Z/PQZXWJJPrrZRcgZsAyW2Tj0l5KkI0MxStRU+I2Y8zKp418iArXadtcJuQLGGvOnVagdylh84lNCOEpPd0NqzK5q3NedsQl60u+gNwXJ1wtQrB68nYH2JrDcp3A==;C0M3VwDNtK6FymmgBgqNzw=="
 ---
 

@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Coin, a FinTech startup launches Coin Wallet"
+    excerpt: "Coin, a US-based FinTech start-up founded by Microsoft alumni ... Coin Wallet is an all-in-one decentralized cryptocurrency exchange, wallet, and AI assistant. Coin Wallet is non-custodial, resides in a browser extension, and includes an integrated ..."
+    publishedDateTime: 2021-09-28T05:31:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/coin-a-fintech-startup-launches-coin-wallet/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/Accelerating-transformation-through-Cloud@2x.png"
+        width: 401
+        height: 400
+        isCached: true
   - title: "Thesis Intern at AI for Fintech Research"
     excerpt: "Thesis Intern at AI for Fintech Research With millions of customers and thousands of employees worldwide, software and data analytics are at the heart of ING's business and operations."
     publishedDateTime: 2021-09-25T08:51:00Z

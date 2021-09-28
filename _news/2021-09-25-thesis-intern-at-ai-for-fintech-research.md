@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Coin, a FinTech startup launches Coin Wallet"
+    excerpt: "Coin, a US-based FinTech start-up founded by Microsoft alumni ... Coin Wallet is an all-in-one decentralized cryptocurrency exchange, wallet, and AI assistant. Coin Wallet is non-custodial, resides in a browser extension, and includes an integrated ..."
+    publishedDateTime: 2021-09-28T05:31:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/coin-a-fintech-startup-launches-coin-wallet/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/Accelerating-transformation-through-Cloud@2x.png"
+        width: 401
+        height: 400
+        isCached: true
 
 secured: "s7suJXEVlQXFva4tmSOOHMzq0YFvZPqUO96UXMYqt6TnenlK0MTBHVk5r6hx4u27PJMzC8kXBjI5a9sG7fy2bDZg68++DJ6fbwvZhOErbGb5uuUsbx5WknZXpCUEtJOkocggWa1J7dQnvJ+PmPthh7dG0wgi7LNDdQyN+UwkBKM6ded75P0Lz0PGMbt5N9xq1cCCF7UQu8lXtLOWqV5zVIJLzVW/yoSC5XgvIyYNJbsqQ3/aq8Fpkb0ILY1BYXs2s0hjXHOCJUzCt7ZKZkse8CxmTopdw6rUVjmGshYi2EosUZvM+r8uy+qMnvHlLa+Tkjrqw2G9puIHGT+xX1l6cOKl9a1Ml72dHq3FzFcENq4=;YeP6r7LGAxiq28rYtpV/zw=="
 ---

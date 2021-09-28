@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-15-automated-boba-bar-startup-integrates-facial-recognition-payments-to-build-loyalty-through-frictionless-convenience.md",
+      "title": "Automated Boba Bar Startup Integrates Facial Recognition Payments to Build Loyalty Through Frictionless Convenience",
+      "excerpt": "Automated boba bar startup Bobacino has partnered with facial recognition payment company PopID to enable consumers to pay for their beverage with their faces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/restaurant-innovation/2021/automated-boba-bar-startup-integrates-facial-recognition-payments/",
+      "originalUrl": "https://www.pymnts.com/restaurant-innovation/2021/automated-boba-bar-startup-integrates-facial-recognition-payments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/09/Bobacino-facial-recognition-payment-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/restaurant-innovation/2021/automated-boba-bar-startup-integrates-facial-recognition-payments/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/restaurant-innovation/2021/automated-boba-bar-startup-integrates-facial-recognition-payments/amp/",
+      "publishedDateTime": "2021-09-14T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-descartes-labs-to-host-geoint-2021-training-workshop-on-creating-machine-learning-based-computer-vision-models-for-planetary-scale-data-analysis.md",
       "title": "Descartes Labs to Host GEOINT 2021 Training Workshop on Creating Machine Learning-Based Computer Vision Models for Planetary Scale Data Analysis",
       "excerpt": "The one-hour workshop, “Advanced Geospatial Analytics Utilizing Ever Increasing Geo Data with Computer Vision at Planetary Scale: Learn to Build and Deploy Machine Learning Models for Young Professionals to Senior Scientists,",
@@ -1261,49 +1304,6 @@
       "provider": {
         "name": "Consumer Protection Safety Commission",
         "domain": "cpsc.gov",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-mumbai-470-cctv-cameras-with-face-recognition-to-help-fight-crime-on-wr.md",
-      "title": "Mumbai: 470 CCTV cameras with face recognition to help fight crime on WR",
-      "excerpt": "The CCTV cameras on the Western Railway will now be used to fight crime too. 2,600 cameras have been installed on the line. Of these, 470 are equipped with facial recognition technology. The Mumbai police,",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/mumbai/mumbai-470-cctv-cameras-with-face-recognition-to-help-fight-crime-on-wr",
-      "originalUrl": "https://www.freepressjournal.in/mumbai/mumbai-470-cctv-cameras-with-face-recognition-to-help-fight-crime-on-wr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.assettype.com/freepressjournal/2021-09/3a83ca25-dfe1-4fa8-992e-b2ae2191686d/DADAR_15AUG21_BLSONI_01.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1199,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/mumbai/mumbai-470-cctv-cameras-with-face-recognition-to-help-fight-crime-on-wr",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/mumbai/mumbai-470-cctv-cameras-with-face-recognition-to-help-fight-crime-on-wr",
-      "publishedDateTime": "2021-09-02T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
         "images": null,
         "publishers": null,
         "authors": null

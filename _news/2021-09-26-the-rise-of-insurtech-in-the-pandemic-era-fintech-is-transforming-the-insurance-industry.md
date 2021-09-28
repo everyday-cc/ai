@@ -81,20 +81,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "IDC Financial Insights Recognizes CSI as a Top Fintech Provider for 10th Consecutive Year"
-    excerpt: "Computer Services, Inc. (CSI) , a provider of end-to-end fintech and regtech solutions, has been named by IDC Financial Insights to its 2021 IDC FinTech Rankings for the 10th consecutive year. The annual industry ranking,"
-    publishedDateTime: 2021-09-23T11:42:00Z
-    webUrl: "https://www.lelezard.com/en/news-20011802.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 15
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "DeepTarget's Digital Experience Platform and 3D StoryTeller Recognized As A Finalist in Fintech Future's Banking Tech Awards 2021"
     excerpt: "DeepTarget Inc., a solution provider that utilizes data mining and business intelligence to deliver targeted engagements across digital channels for financial institutions, today announced its Digital Experience Platform and 3D StoryTeller™ were selected as finalists in the \"Best Smart Banking Tech Solution\" category of the Banking Tech Awards 2021,"
     publishedDateTime: 2021-09-23T14:20:00Z

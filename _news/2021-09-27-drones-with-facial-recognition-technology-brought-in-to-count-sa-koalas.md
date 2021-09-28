@@ -43,22 +43,6 @@ related:
         width: 800
         height: 520
         isCached: true
-  - title: "Worried About Facial Recognition? Big Tech Wants Your Anal Prints Too"
-    excerpt: "Privacy concerns related to the implications of facial recognition have been raised several times but you may not have thought much about a very different part of your body being scanned. Sanjiv Gambhir,"
-    publishedDateTime: 2021-09-27T10:16:00Z
-    webUrl: "https://www.thequint.com/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too"
-    ampWebUrl: "https://www.thequint.com/amp/story/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too"
-    cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too"
-    type: article
-    provider:
-      name: The Quint
-      domain: thequint.com
-    quality: 59
-    images:
-      - url: "https://images.thequint.com/thequint%2F2020-02%2F18813c2f-9015-42ff-b4e4-712fc1e86819%2FiStock_1165098319.jpg"
-        width: 745
-        height: 419
-        isCached: true
   - title: "Proposed Local Facial Recognition Technology Ban Draws Fire"
     excerpt: "Around 20 different state and local governments have so far banned some uses of facial recognition technologies by law enforcement. The Town of Hamden (population around 61,000) in Connecticut is considering joining those jurisdictions by adopting an ordinance that would prohibit all town officials from obtaining,"
     publishedDateTime: 2021-09-23T14:10:00Z
@@ -70,20 +54,6 @@ related:
       name: Reason
       domain: reason.com
     quality: 41
-  - title: "AI technology to overcome language barriers in South Africa"
-    excerpt: "A new artificial intelligence (AI) platform that translates speech into text from English and local South African languages, has a unique ability to interpret South African accents. The technology could have a far-reaching impact on education,"
-    publishedDateTime: 2021-09-23T11:08:00Z
-    webUrl: "https://www.engineeringnews.co.za/article/ai-technology-to-overcome-language-barriers-in-south-africa-2021-09-23"
-    type: article
-    provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
-    quality: 39
-    images:
-      - url: "https://cdn.creamermedia.com/assets/articles/images/resized/0000964213_resized_img965021022.jpg"
-        width: 1022
-        height: 575
-        isCached: true
 
 secured: "rn6yjNnm9yAYt4t/sr3ckuTRltQwujyp0u862kTzzCkTDz4wGSqwkSmEHBMas4dOSNZEZbOOuJTNPtDPmwGx8pGPcAOsPW7zcSId3VRi1+qt9fz8BOJz26//AqhqOWMspfdPJdWN3mCYK2v404FdhtmZHjUR6RyR15Rj6CnChe9zhnoPZs1FlEKM6aRiBYypFgAQutGpobMFaZF6pDLv0j94XcnMQV6m7xV3jiRgV0jo4SrQMNm8rLgvux1FOUvZf5ODW7OqySlATAuDlEnb7rcCSU9UQh2bD4VjjS5HbYzde84gYV8nVZG2stqI9RFKsZxxznSuv95odd57Xj4D+q8j2/jA+y7rJQqm1ssTGmMDTgtxu4Ufnzg74E7lNQGF1Oh37qJJ6ePhaqJnqyrZQzs50d6EQZ0L8UEj7FFyuCU91BaEZojCW7WQKROTtpXet8QVaY8vIHkABa4hUT5CuK4f5r9Sg/flb0Ug5TBFmF1hrJVpYE5lCd8KyWwCtq5HkdboujYr0AooTdirL0ttaA==;nVT2YBpBX4sBZunAHcDmaw=="
 ---
