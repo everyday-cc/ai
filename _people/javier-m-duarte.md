@@ -15,7 +15,7 @@ website: https://t.co/Z06UY9gVRv
 twitter:
   username: jmgduarte
   url: https://twitter.com/jmgduarte
-  followers: 318
+  followers: 319
 
 googleScholar:
   url: https://scholar.google.com/citations?user=GTtW9H0AAAAJ
@@ -26,7 +26,7 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1561586632/backpackshort_400x400.jpg
+  - url: https://pbs.twimg.com/profile_images/1442955547343343616/vvBBIGGR_400x400.jpg
     width: 400
     height: 400
     isCached: true
