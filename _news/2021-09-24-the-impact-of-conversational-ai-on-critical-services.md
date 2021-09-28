@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itproportal.com/amp/features/the-impact-of-conversationa
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/the-impact-of-conversational-ai-on-critical-services/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://s.abcnews.com/images/US/210927_abcnl_prime_lee_hpMain_16x9_608.jpg"
         width: 608
         height: 342
+        isCached: true
+  - title: "2nd Annual Artificial Intelligence for Information Accessibility Conference highlights the International Day for Universal Access to Information"
+    excerpt: "Recognised annually on the 28th of September, this year's themes of the the International Day for Universal Access to Information (IDUAI) are “What We Know about our Right to Know” and \"The Right to Know - Building Back Better with Access to Information\"."
+    publishedDateTime: 2021-09-28T12:35:00Z
+    webUrl: "https://www.pressreleasepoint.com/2nd-annual-artificial-intelligence-information-accessibility-conference-highlights-international-day"
+    type: article
+    provider:
+      name: KLAS Press Release
+      domain: pressreleasepoint.com
+    quality: 2
+    images:
+      - url: "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png"
+        width: 256
+        height: 256
         isCached: true
 
 secured: "x2cb/raPIC8rnA7bgLDkuVibvWpJI9mVxIkiMhLgFyfnlEmVIcpfnpZ8UVC6dOxioWLPaSbTLamfGDMeN4XNfZcwce2KQzprUkuO2I8F390QlHc3AC8LJQulTNNv/KaZX23f262MKHlElYtkk/3UTiwab5+JpVPZj836WPT3ZGhs7KhDc0+zhvrV5nTsIJ3GFHRB5Nm9CObF/qSc5dTX0narDbLb35mFCQsMgDPXx9FPdhm/ImwvxTPvGcWoFglJZ9SAp/whm+AgipGci/VQyGrCPOfNcjONoul+pbh8ubUuaARgIBH173s8tjXEPUgUOuwZI1ytpuYV0n6yPgpV+46SCX9NjOi09kWKVSIixlU=;Rw8ovrtv0808KkZxxNhxSg=="

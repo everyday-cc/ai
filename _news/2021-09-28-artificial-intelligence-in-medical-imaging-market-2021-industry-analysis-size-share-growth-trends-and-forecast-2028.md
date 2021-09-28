@@ -8,7 +8,7 @@ webUrl: "https://www.openpr.com/news/2409862/artificial-intelligence-in-medical-
 ampWebUrl: "https://www.openpr.com/amp/2409862/artificial-intelligence-in-medical-imaging-market-2021"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2409862/artificial-intelligence-in-medical-imaging-market-2021"
 type: article
-quality: 13
+quality: 15
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Vietnam Pharmaceuticals Market to Grow Along With Healthcare Industry until 2026"

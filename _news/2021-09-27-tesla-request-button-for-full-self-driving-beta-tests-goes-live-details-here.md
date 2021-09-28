@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news18.com/amp/news/auto/tesla-request-button-for-full-s
 cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/auto/tesla-request-button-for-full-self-driving-beta-tests-goes-live-details-here-4251020.html"
 type: article
 quality: 85
-heat: 445
+heat: 455
 published: true
 
 provider:
@@ -322,6 +322,22 @@ related:
       - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
         width: 1000
         height: 1000
+        isCached: true
+  - title: "Tesla plans to start adding 1,000 new Full Self-Driving Beta testers per day: CEO Elon Musk"
+    excerpt: "Tesla CEO Elon Musk has announced that Tesla plans to start adding 1,000 new Full Self-Driving Beta testers per day based on their \"safety score\" starting next week. The electric vehicle company's plan for a \"wider release\" of its Full Self-Driving Beta,"
+    publishedDateTime: 2021-09-28T13:34:00Z
+    webUrl: "https://www.freepressjournal.in/business/tesla-plans-to-start-adding-1000-new-full-self-driving-beta-testers-per-day-ceo-elon-musk"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/tesla-plans-to-start-adding-1000-new-full-self-driving-beta-testers-per-day-ceo-elon-musk"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/tesla-plans-to-start-adding-1000-new-full-self-driving-beta-testers-per-day-ceo-elon-musk"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 49
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2021-02/f0098ad4-8e8f-429d-b230-0618b588b79d/471763092.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1199
+        height: 702
         isCached: true
   - title: "San Francisco raises concerns about Tesla 'self-driving' system as public test nears"
     excerpt: "Tilly Chang, executive director of the The San Francisco County Transportation Authority, said in a statement to Reuters that a human driver should \"continuously monitor\" Tesla's so-called Full Self-Driving system."

@@ -40,6 +40,15 @@ related:
         width: 900
         height: 491
         isCached: true
+  - title: "The AI-powered Employee Experience Arrives, as Eightfold AI Rolls Out Self-Service Capabilities and New Reporting Dashboards"
+    excerpt: "Eightfold AI, the provider of the Talent Intelligence Platform ™, today at HR Tech 2021 announced several new breakthroughs and capabilities, including a consumer-grade user experience, and powerful new reporting and analytics enhancements,"
+    publishedDateTime: 2021-09-28T13:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ai-powered-employee-experience-arrives-as-eightfold-ai-/2021/09/28/9457836.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "D97zqChYXdwK/GWsal5wUrN5XTUuRK2/bpis5C5IcGHGhb+zehJJdHjnGNZmTfbs4026pv8qvupx7mz8c29xVmijkaEfg90EbwvodBomYzvrJ/8D08Dj0MQ6wvstlb2I3wuBeGOTkrHIWW7XlkCSDHzudit6rOD/FVeMDkc90b6/hzB3sIDK/17+ULHrU7GQLvQL+yDk3WtjPRvyVPh1e5uGpep3daAInHczTWRNJN5cFgG3esVnqJ2Pc8msGdeKdYzwKL3H5nL5gjt2GAKBANDLg4/Q58SARlY3cfwVzPgS7Kkmr02fKkud6GXJ/Vxqi+m1uev/KDkKOOx4ksH6VuqKR2wMJCo1poErlpxKZ7o=;p5QOm8buSeuqWKnvndnvzA=="
 ---

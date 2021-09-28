@@ -82,6 +82,17 @@ related:
         width: 768
         height: 438
         isCached: true
+  - title: "Keystroke tracking, screenshots, and facial recognition: The boss may be watching long after the pandemic ends"
+    excerpt: "Companies are increasingly turning to surveillance software tools as they consider permanent remote work policies. Some workers say remote-work surveillance has gone too far, calling the tracking systems intrusive,"
+    publishedDateTime: 2021-09-28T13:02:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/keystroke-tracking-screenshots-and-facial-recognition-the-boss-may-be-watching-long-after-the-pandemic-ends/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/keystroke-tracking-screenshots-and-facial-recognition-the-boss-may-be-watching-long-after-the-pandemic-ends/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/keystroke-tracking-screenshots-and-facial-recognition-the-boss-may-be-watching-long-after-the-pandemic-ends/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
 
 secured: "VHTofCgv7F2VJEjIAibmgC27fQ7y6oifZNE6fL/NM6m0l0QrpBfvaAQzrLMiw1nCvY5VH82/X9MsOQnhedeosBuvsnIXYwx1BT2TEkTiZ1cCBVPHPBtCxndwXJQRT5i+rdEdzs311Jcz6fW/QR53j4BX0Z5ypWslFDpshwZ9VyzJMSZYprUsPKzC7bqQtkWLLojO3SxR1xQnEIYSBeq52PHfrF0m8e4KNjNVY+1PIXD1/l4bMBvQTHFkohfr7MEZYaX/yvNnIneXmTLHHZISO2gbEG8VJsuF9eqyq7DFO9QoV4MG4WryindJ7AhUoBAuYd3UKR0nNTz7DNR8/WNXO0fjAyLd56xuo9diK7wBIf1lpsHzWx6t67Q7O47vihapVFoSE5V3717WGgbpM8M699Pkqf3E0YMNkzzWFethydfmt4TC3SjL9vah04GPhsm1r5RxsPRpxwEhtCajBfJaD5vg5jB5eENme619MmW/6MtY9HZ6lpDJOD88Fd1aV7drwyKJ5tjrh0C1mNhCuOV3pQ==;BieP6i5KYMWejuv/XgsD7g=="
 ---

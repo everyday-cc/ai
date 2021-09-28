@@ -24,17 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI navigation startup Phiar lands ex-Google manager, funding from Telenav"
+  - title: "AI Navigation Startup Phiar Lands Ex-Google Manager, Funding From Telenav"
     excerpt: "Phiar, a startup aiming to enhance in-car navigation systems by overlaying directions on real-time video, announced on Monday that Google's head of Android automotive platforms joined as chief executive and State Farm Ventures led a $12 million funding round."
-    publishedDateTime: 2021-09-27T10:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/ai-navigation-startup-phiar-lands-ex-google-manager-funding-from-telenav-2021-09-27"
-    ampWebUrl: "https://www.nasdaq.com/articles/ai-navigation-startup-phiar-lands-ex-google-manager-funding-from-telenav-2021-09-27?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-navigation-startup-phiar-lands-ex-google-manager-funding-from-telenav-2021-09-27?amp"
+    publishedDateTime: 2021-09-27T10:10:00Z
+    webUrl: "https://wkzo.com/2021/09/27/ai-navigation-startup-phiar-lands-ex-google-manager-funding-from-telenav/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 66
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 166
+    images:
+      - url: "https://media.socastsrm.com/uploads/station/2165/fbShare.png?r=58912"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "ftPhQa9LZprTj+j3poT9G4OUXbWniRoKvhB5o30q1pd5VUun/VScN2jzsxlF9fobOUI/5xprHR03L8HZN1E4nuhRI8YTTUpBaJJ6SHB0dxtYHfyQSess10raSgKBdEyc9xTmZ1/QlTT4giLA7HUeFsZJCh8AfQp7kZZtzfImyD+CuKuRTNMoYirxjRE3cktTpd/FRy9LL+18RwIGzP6p8/Xxj2i4EV9Wgq7tgzYiZg5l3Dy0DXxd+BUK+1GKpLSFIKhLysfXn563+p2zQ/urXprv7z9UFCtwBmt3hD+VBuP7UYkJdqHeTvrXeAHsKqYIglDMhyTF8PXdNSIl915eKtE9tuAjxQZ1i7FxNwTuKiQ=;UpOXRDFZgdn5Zj8QYvVPMQ=="
 ---

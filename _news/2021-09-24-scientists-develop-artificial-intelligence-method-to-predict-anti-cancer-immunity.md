@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-09-scientists-artificial-intelli
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-scientists-artificial-intelligence-method-anti-cancer.amp"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Medical Xpress
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Using Artificial Intelligence to Detect Anti-cancer Immunity"
+    excerpt: "UT Southwestern Medical Center and the University of Texas MD Anderson Cancer Center researchers developed an artificial intelligence method to determine anti-cancer immunity."
+    publishedDateTime: 2021-09-28T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/using-artificial-intelligence-to-detect-anti-cancer-immunity"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-943065376.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "QCRI scientists highlight AI role in developing vaccines, preventing future pandemics"
     excerpt: "Technologies such as Artificial Intelligence (AI) and Big Data Analytics could be the “firewalls” against any future disease outbreaks and epidemics and can help develop vaccine candidates faster, according to two scientists of the premier computing research institute in Qatar."
     publishedDateTime: 2021-09-24T19:42:00Z

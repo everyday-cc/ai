@@ -9,7 +9,7 @@ ampWebUrl: "https://www.physiciansweekly.com/artificial-intelligence-better-than
 cdnAmpWebUrl: "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/artificial-intelligence-better-than-risk-factors-for-predicting-cancer-risk/amp/"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 800
     height: 600
     isCached: true
+
+related:
+  - title: "Artificial intelligence brings better hurricane predictions"
+    excerpt: "Hurricane Ida was among the most intense and damaging hurricanes in Louisiana's history. The violent storm rose to a Category 1 hurricane on Friday, August 27. It then climbed another two categories in two days,"
+    publishedDateTime: 2021-09-28T13:00:00Z
+    webUrl: "https://phys.org/news/2021-09-artificial-intelligence-hurricane.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 37
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-34.jpg"
+        width: 1600
+        height: 1200
+        isCached: true
 
 secured: "RQQbRWIuyfsHuGr3osqYT5M8Tf4PJXaw+40JfgBQpwEg2M6+ixTANpDQxotyjewOocRpSmhgeDBvn4zqYyG0YpdtKQcqKa6AcBScVaEBv4KIasu5saH5+bIHc2FvNAIaWBSaoGIy6JAIxReLqJl3RNBnvErCnurM3xEh1ZwtzxwTN2ousuIAEM9oHQqieIv4272LNJKQ0gyS6IwpL6CbYBIELDbumliEeae3i9kpw+2rnpVyh2Nh6wUNF2nGu+fPUMC+MxlXHSBZTXIoWh5H8xKb9UdUeal4hBM8LgSyCTX7pSUs0XlpiEnIrXd8JOy/StN2l6qomIu7DjlrkjMyRPnny2vT0GwpUzB7kSUw9i9CpQlyqXPTb7JLXt9LfnIFB6oJ0VD9dhv3JGcJKxt+iJjzkl+mu9Vy02+Gqk0I0ZwQCV2TeqVbcXZytn4VdKikkoUvkck04zzL4FvL0L4pw3XgUSJffLPycnIN/RQ394Xsn/dGy7AfWoa2VoYd+ekd7VUzX347om4Nco1P2mwKxA==;eA+ntrjx6TvQzGw44GsHgg=="
 ---

@@ -41,6 +41,20 @@ related:
         width: 1100
         height: 1100
         isCached: true
+  - title: "Using Artificial Intelligence to Detect Anti-cancer Immunity"
+    excerpt: "UT Southwestern Medical Center and the University of Texas MD Anderson Cancer Center researchers developed an artificial intelligence method to determine anti-cancer immunity."
+    publishedDateTime: 2021-09-28T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/using-artificial-intelligence-to-detect-anti-cancer-immunity"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-943065376.jpg"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "BBdIzLUCXHekpBQ4/AUOgqD2uvVk0XAmnd1UyeI85HQvTqLYatiWWSze8y7uG8DEH5/ZhOjl8HOR0tDq3TyG8RbWfizWr3fQpvl/9Zvi2UenVrHPDvoAt5IgIVTArjs/N6QSJu0T+E8AzHoCtbRtNnrBhK4GS/k1sx7o+4fMS3PV9EjqA+FK6Z7Rx9xk07wyUggDH1R8fqvxjrxMBn7r9PQ391xfVevSZDSV6OdEuZ9SURZocevVbXEf2n1rN84zxiXd7M0jSviVLloqtYwq8GR88mlX/rgtDPkQeB8YGeu7tDOjknHJ8jU0X35GAX/31au8d99kN4txYNdAK59DZdUHkltuFJC3XC+zePFFHbo=;vknqWrWdOzteKPufxOVa7A=="
 ---

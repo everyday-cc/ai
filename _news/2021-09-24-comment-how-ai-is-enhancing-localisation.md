@@ -55,6 +55,20 @@ related:
         width: 608
         height: 342
         isCached: true
+  - title: "2nd Annual Artificial Intelligence for Information Accessibility Conference highlights the International Day for Universal Access to Information"
+    excerpt: "Recognised annually on the 28th of September, this year's themes of the the International Day for Universal Access to Information (IDUAI) are “What We Know about our Right to Know” and \"The Right to Know - Building Back Better with Access to Information\"."
+    publishedDateTime: 2021-09-28T12:35:00Z
+    webUrl: "https://www.pressreleasepoint.com/2nd-annual-artificial-intelligence-information-accessibility-conference-highlights-international-day"
+    type: article
+    provider:
+      name: KLAS Press Release
+      domain: pressreleasepoint.com
+    quality: 2
+    images:
+      - url: "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png"
+        width: 256
+        height: 256
+        isCached: true
 
 secured: "h6+yXfLkfpFIsbekhDiv5XPdvB9JpbhMMfCihyRlmIGv+DQ5UZDHjVSWmBt5wTx2Zzs0vEGpDlGDtyMuuXg+DcGu9nY+uaJklc+57lTNWOdGVYq9AxuO3jsPq7HZcIDKX2gAomzpFutEmOR8BkojKHIE0/KNnMSqpTqAhqjUesAgWFEr7BimJU+AM+br+CN85jWt43lc9BfGvJsBz/AGiXmjoRPzF4XDX+MqJoDVVLAt14H2hGd/g7GMnwvMlKfw8mFJEcuAj5znjLuUYLZOu/jL6z0zAAptwipQjbdvBRYe7gRJ6L8fuNlTParSlUxgXyfDkHc4s8tbg/sAn2qN7vr9V/xDNbj6Z5l/8QbFTB1yZZy3T2qCIP+1Yah8J41jNNOS9Nxx+o7+uwo+FRXYmpPEgqsGEecwFMoWEEGk8Gcgbp2aywopSBV6wwVa8shcll7LRX16WG66ZEdWMyory+TgLi1t6UIt0NRHUr1kXeE8VPtuD5ugPyjwriGO2rT4QyD5FUi9hTK3b1gjpIrCiQ==;A0vHdZaYjBdcJmfczyq/zQ=="
 ---

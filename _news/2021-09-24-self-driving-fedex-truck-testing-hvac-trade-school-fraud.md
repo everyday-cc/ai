@@ -43,22 +43,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Aurora wants to power self-driving ride-share vehicles, and it’s testing them in Dallas"
-    excerpt: "Self-driving vehicle startup Aurora will soon begin testing its modified Toyota Sienna’s on Dallas roadways – but don’t expect to see driverless Uber"
-    publishedDateTime: 2021-09-23T19:50:00Z
-    webUrl: "https://www.dallasnews.com/business/technology/2021/09/23/aurora-wants-to-power-self-driving-rideshare-vehicles-and-its-testing-them-in-dallas/"
-    ampWebUrl: "https://www.dallasnews.com/business/technology/2021/09/23/aurora-wants-to-power-self-driving-rideshare-vehicles-and-its-testing-them-in-dallas/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2021/09/23/aurora-wants-to-power-self-driving-rideshare-vehicles-and-its-testing-them-in-dallas/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 36
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Ou_fV0ng3gp2i5r8-1OZ38oH0FA=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/3X3OVJQTKBFTLK4AQZ6YT3NHL4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Aurora launches self-driving truck pilot program with FedEx in Texas"
     excerpt: "The pilot begins this week, in which they will regularly haul FedEx loads autonomously with a safety driver between the Dallas and Houston areas on a 500-mile round trip. The announcement comes two days after Aurora gave a glimpse of the modified Toyota Sienna vans with which it plans to test its self-driving taxi service in the Bay Area,"
     publishedDateTime: 2021-09-23T21:47:00Z

@@ -40,6 +40,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Beethoven’s unfinished Tenth Symphony completed by artificial intelligence"
+    excerpt: "Beethoven’s previously unfinished Tenth Symphony has been completed by artificial intelligence technology. The work will have its world premiere in Germany next month, 194 years after the composer’s death."
+    publishedDateTime: 2021-09-28T13:44:00Z
+    webUrl: "https://www.classicfm.com/composers/beethoven/unfinished-tenth-symphony-completed-by-artificial-intelligence/"
+    ampWebUrl: "https://amp.classicfm.com/composers/beethoven/unfinished-tenth-symphony-completed-by-artificial-intelligence/"
+    cdnAmpWebUrl: "https://amp-classicfm-com.cdn.ampproject.org/c/s/amp.classicfm.com/composers/beethoven/unfinished-tenth-symphony-completed-by-artificial-intelligence/"
+    type: article
+    provider:
+      name: Classic FM
+      domain: classicfm.com
+    quality: 55
+    images:
+      - url: "https://imgs.classicfm.com/images/263906?crop=16_9&width=500&relax=1&signature=rIJvuAJCDbhVnFqjIZmy65lTDbE="
+        width: 500
+        height: 281
+        isCached: true
   - title: "Beethoven’s Unfinished Tenth Symphony Gets Completed by Artificial Intelligence: Hear How It Sounds"
     excerpt: "Few symphonies are as well-known as Beethoven's Ninth, an assertion supported by the fact that it's no doubt playing in your head even as you read this."
     publishedDateTime: 2021-09-27T11:00:00Z

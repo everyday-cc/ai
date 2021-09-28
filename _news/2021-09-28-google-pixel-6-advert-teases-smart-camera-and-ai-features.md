@@ -8,7 +8,7 @@ webUrl: "https://www.tomsguide.com/uk/news/google-pixel-6-advert-teases-smart-ca
 ampWebUrl: "https://www.tomsguide.com/uk/amp/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
 cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://cdn.mos.cms.futurecdn.net/7t5W2reCUYkYMbnF9WiRQ7-1200-80.jpg"
@@ -72,6 +73,6 @@ related:
         height: 600
         isCached: true
 
-secured: "5t2s/3lSWFC/vJGg33EG1baQgX8MeBZK/xJ4IwUodmFfXIiodRk9jbQU1ArLOfePsTKXZobFTYHExED5oPL0LvHfzg1FZSmAh7lazraKzgaZEpzbbuAJZXxsv8r/BkhTiIkev74qS75mV46sn8W3mQI+Ph7mspsEncijGQvylSUXK/Vu9n7mQP/XhFfMVGrWfDCN2G3O1Qh0G+mObqCIUc92YZXZyOrvmQrWf4ufaJbCxjORuFStzCzro2ciRXywRFi1YmIJ70GRIksRRoxnRNUCYtFdqtwJ2dCoR5OUg52ZP8qGAsaaQHtJXs4HIpt9m0vjmgAwaYLFoSuBIhr5e0KtvtoMWe02TBEHPSn5Ri0=;A9Ws/Ue0YkSeLuvQRYmDXw=="
+secured: "0mu31TH4s3ieLArs+fbSaG2YYUyuyT94LNqU7lhuEQIn2OEtL4UgVxYmgRMaY5TrCrbQnC6oTFafcNmMSNHEQi5sfVdo19Ixzc4ALlS2sr9ucy3jpiT0G/F7DkSsgsdc2iJBgzHD0m05Z6Bz3c5JNG3kney2FzYA/r6INcJYIPsNWZeVCb3rRmFj1QghZiYhavSXLU1H3FLnYTNBFp/ZB5x23P0peM0wdyKWF76xg3j7slC0KVj2zw7ajP9ChFSijRFUcIsBhqqhetgeaVAVeqd0oFCVWt9rNe0CvrdwkqEfwZXGEGa5h3PxkAlLc9llPWvXJqjlX5Cb2+w7Pxbu/x86wGunatYrcoB+pkBR96HqtekFTpgRZ3LEF+4wPNxXuTEP9KfJEdMvJo6FCuS0A8oZXcViQsQ3bJyqrgtXTeBLO2gVnZa86ClpV+l7GRnS4ROFCgRQoIRQAmIvjevTpYoMCKtb3s4HcmUwmA9gLGqnJVKEJmEEcuOmpVgfu7eFjdTFKV3irUkG/VPHcmM46A==;p0mqGbUQ/cLWK0fjb5QPoA=="
 ---
 

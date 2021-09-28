@@ -24,24 +24,6 @@ images:
     height: 420
     isCached: true
 
-related:
-  - title: "Aurora wants to power self-driving rideshare vehicles and it’s testing them in Dallas"
-    excerpt: "Self-driving vehicle startup Aurora will soon begin testing its modified Toyota Sienna’s on Dallas roadways – but don’t expect to see driverless Uber"
-    publishedDateTime: 2021-09-23T19:50:00Z
-    webUrl: "https://www.dallasnews.com/business/technology/2021/09/23/aurora-wants-to-power-self-driving-rideshare-vehicles-and-its-testing-them-in-dallas/"
-    ampWebUrl: "https://www.dallasnews.com/business/technology/2021/09/23/aurora-wants-to-power-self-driving-rideshare-vehicles-and-its-testing-them-in-dallas/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2021/09/23/aurora-wants-to-power-self-driving-rideshare-vehicles-and-its-testing-them-in-dallas/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 37
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Ou_fV0ng3gp2i5r8-1OZ38oH0FA=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/3X3OVJQTKBFTLK4AQZ6YT3NHL4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "F4cZ1/xCHOUWGIHjJcCx/VfVdxPWAtrnIJB58ejW61sUaeZqtoah0jgEVL/f3rp7I3elYF3TZZ0ilEi7yzgYlrR9hAvua2uc2BDjaeRilb5US/896iKEyAkjeq1V31lyP0hA5ld3456o5PnaXoGCaxqcH1WLAasdKuYGtSMZwS5kJyd9wsi0KmDR+M8XYAXWMYf81xL1W5rF95+wydm4yp9DFC8PGtmlqfJO+Bo21V04chvskgns9LaXvRVeJe+KoqdFVMTw1zAhGxDq9LPuzhmKKKLJy+vXyMSOxmdpsgWUUFt4jkNDltx+JTC5WEG0wKI3tOgsuQfYCcf5L+SLCMQ4oiyGXWlagDwTzxKnZ1LdTSVfQcJXxPZgWXt3VsWzr+gaeYlWC+cii2gHRQOZqTS6p7jzZFJtkP0ARqvEIs4zLvoTcuMGGVsbklTB+/r7BDXqLyirnG8tn5wY6rjwC0osPhLA4+/hAHqrCEz9l8L7WCTP7ymnInZdlena/YBD/AiuhPuub7JTZ7csKEiMLw==;QsFHE4E04FXVMou+8WsPUg=="
 ---
 

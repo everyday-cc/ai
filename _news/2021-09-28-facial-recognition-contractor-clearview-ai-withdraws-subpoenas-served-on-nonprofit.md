@@ -6,9 +6,9 @@ publishedDateTime: 2021-09-27T17:32:00Z
 originalUrl: "https://www.fedscoop.com/facial-recognition-contractor-clearview-ai-withdraws-subpoenas-served-on-nonprofit/"
 webUrl: "https://www.fedscoop.com/facial-recognition-contractor-clearview-ai-withdraws-subpoenas-served-on-nonprofit/"
 type: article
-quality: 48
-heat: 48
-published: false
+quality: 148
+heat: 148
+published: true
 
 provider:
   name: FedScoop
@@ -24,6 +24,6 @@ images:
     height: 607
     isCached: true
 
-secured: "qqFqnfd+hijHn5c/cGAqvMo3yerzjZ6swXnTtx5V+fJDDPasiLZAuudDXrhiJKlrJpyHC0Ea/Bpel0Z0RaAkwWXP/PnAium+KBM3kvO5Tjc+XrZSXwjDqlSZdA2W58QQP9uzXGO/PFjFa8vTLcgwDVTV8S5hzhQ4YVA8FRgd3kHNE1qsI9aBafXFK9rfS5QfVCMGO+eRs96E18q2tpd7aPe14IHO5DyoL+bJXmsJvBwKBsa2K9XpXutVQdo2LAwOWfBk3XPmpP8XjOesjATbeyVmmTnQJ18u1kCzMGKpby0Of9r7KNqcAdB5pHdG3rqczMgdgnRmAU/TnT+47vBQ9YU0F3qFmKnCLlDnk4NDmEc=;5FIqkSViz3QARs0F8clkCA=="
+secured: "CU1md0NuDfUUzoKnxEJxIUk6xpziMWIp/QlSRdgraY4akcBff+yoDHcp/EQA/nxqujVcqeM+cvErXxmb1VKoFmUrHJgjgkoHFp6Q+e4/pLBmtOZ1Jk1D3MLWTrhRj1kuLz1/YuNGcUvD9ZuPcmkPyEwobr1xiK4vkGFnVkl1y32hxnNNw4eIurlPUDHFq/FP9HEnlfTeVskuOPbNzdZ7NF8Frj6i4U0I9CtQUcCRKAnZ4vSXa6W5YeSuDIGvP/VJlTi4unhAxd660umqEiuS9Tf9ul3b1EtbNh6OUbX5WS0uOK3HDqm5Tjl34mKQX5cTCDtWiZxMXJG2pBMPixlVXttT4Xk1gYFdmsFMYoOLoRsyDkHN8LVtQhAl7MHvfNBb;/kOtTOp/1G/eAAmVaibZwA=="
 ---
 

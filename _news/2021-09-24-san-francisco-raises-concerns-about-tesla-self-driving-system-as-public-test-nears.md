@@ -337,6 +337,22 @@ related:
         width: 1000
         height: 1000
         isCached: true
+  - title: "Tesla plans to start adding 1,000 new Full Self-Driving Beta testers per day: CEO Elon Musk"
+    excerpt: "Tesla CEO Elon Musk has announced that Tesla plans to start adding 1,000 new Full Self-Driving Beta testers per day based on their \"safety score\" starting next week. The electric vehicle company's plan for a \"wider release\" of its Full Self-Driving Beta,"
+    publishedDateTime: 2021-09-28T13:34:00Z
+    webUrl: "https://www.freepressjournal.in/business/tesla-plans-to-start-adding-1000-new-full-self-driving-beta-testers-per-day-ceo-elon-musk"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/tesla-plans-to-start-adding-1000-new-full-self-driving-beta-testers-per-day-ceo-elon-musk"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/tesla-plans-to-start-adding-1000-new-full-self-driving-beta-testers-per-day-ceo-elon-musk"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 49
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2021-02/f0098ad4-8e8f-429d-b230-0618b588b79d/471763092.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1199
+        height: 702
+        isCached: true
   - title: "Pass the Test and Tesla Owners Might Get Full Self-Driving Beta Access"
     excerpt: "The wait is almost over for some Tesla Inc. customers to get access to driver-assistance technology the company has marketed in controversial ways — as long as they’re on their best behavior."
     publishedDateTime: 2021-09-24T16:30:00Z

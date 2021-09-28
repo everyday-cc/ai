@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/mobile/google-android/361007/android-acces
 webUrl: "https://www.itpro.co.uk/mobile/google-android/361007/android-accessibility-facial-recognition-handwriting-autumn"
 type: article
 quality: 62
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -87,6 +87,17 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Keystroke tracking, screenshots, and facial recognition: The boss may be watching long after the pandemic ends"
+    excerpt: "Companies are increasingly turning to surveillance software tools as they consider permanent remote work policies. Some workers say remote-work surveillance has gone too far, calling the tracking systems intrusive,"
+    publishedDateTime: 2021-09-28T13:02:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/keystroke-tracking-screenshots-and-facial-recognition-the-boss-may-be-watching-long-after-the-pandemic-ends/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/keystroke-tracking-screenshots-and-facial-recognition-the-boss-may-be-watching-long-after-the-pandemic-ends/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/keystroke-tracking-screenshots-and-facial-recognition-the-boss-may-be-watching-long-after-the-pandemic-ends/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
 
 secured: "UM62m51HXWNFiizJIfq8I1JPiEzlNHNBo0zRsCFhBPb5Qm1Xjww7ZW+mZCSqtaEBWwwJm4GFTMRhEAz9cEbBn3lFZtfHnGUSk+znF2wrA8zSMW3TGdi/mmROmXVYQlN/wbqLEs4T9Mp63WG6sPf7vbldIT51gQ/+YessNAInLm4sWDe7ZvXErem9WqUgXYBfQw3cH203xo4qwQ9DXSqj59LVdWbJEz2r0wGemkpIOFPpdi6CULPsH1G3ks6gIsQM5jJqfHm6/VSRQr64/zcqpuLQZOrcVM0iZLD8rxJlHvkPTaDqzvJAAi+LGF+cBC7VzkTTv2rbOXFYQ8HSaT+mJ9TQHWgVfrpu6FBqV3gwy6mijG+1ThPglucO9ejKHa3WBVCBUquLI8LIo59cqc+ZMFv2DhqT0M/ED/wafHu42Ep/vtk9opOU1iTCAAFqUaoqs7SCRmrGEyUptQ5mfFanM0rybDuwwlLRjTcwU+WzpjgzRABM9ns8XfdmAZYfBX/HcXks3dj8ApVHwo1XbjkLAQ==;ZprXRPECmUI0S7S9uHI1Eg=="
 ---

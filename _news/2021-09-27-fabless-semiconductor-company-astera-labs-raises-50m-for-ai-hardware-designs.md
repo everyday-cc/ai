@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/27/fabless-semiconductor-company-ast
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/27/fabless-semiconductor-company-astera-labs-raises-50m-for-ai-hardware-designs/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Astera Labs Secures $50M in Series-C Funding at a $950M Valuation to Accelerate Product and Customer Momentum"
+    excerpt: "Astera Labs secures $50M Series-C funding round at a $950M valuation to rapidly scale worldwide operations and launch multiple new product lines."
+    publishedDateTime: 2021-09-27T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210927005066/en/Astera-Labs-Secures-50M-in-Series-C-Funding-at-a-950M-Valuation-to-Accelerate-Product-and-Customer-Momentum"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 83
   - title: "Astera Labs, a fabless chip startup, nabs $50M at a $950M valuation to remove bottlenecks in high-bandwidth cloud applications"
     excerpt: "As more enterprises migrate to cloud-based architectures, they are also taking on more applications (because they can) and, as a result of that, more complex workloads and storage needs. Machine learning and other artificial intelligence applications add even more complexity."
     publishedDateTime: 2021-09-27T14:59:00Z

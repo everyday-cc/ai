@@ -38,20 +38,6 @@ related:
         width: 1240
         height: 1240
         isCached: true
-  - title: "Why AI Autonomous Cars Aren’t Yet Paying Attention To Honking Horns"
-    excerpt: "Without a sensory device to detect sounds outside the vehicle, an AI driving system will not have any tangible input that a horn is being honked."
-    publishedDateTime: 2021-09-23T20:23:00Z
-    webUrl: "https://www.aitrends.com/ai-insider/why-ai-autonomous-cars-arent-yet-paying-attention-to-honking-horns/"
-    type: article
-    provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 37
-    images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/09/9-24CarHorn-2.jpeg"
-        width: 550
-        height: 365
-        isCached: true
 
 secured: "KiuR8SIstId53FiZXqsWyPbJcPdX3PB2bAyrNietYantp/MhEVpwZRdzofAgu6XN2BoIoudsH45gEdwe47Cqkg/aKxuSfJBRk8bnOW8epqBLfJuAtq6ordSB50j6kcp7IAByXXROQZTY7mtfZau+O6ZvAkgMb+hj4Gs5JvK/5wP8BjTMdM7Q6PQg3jB52JUqCfamsqfDu+KjmVEwz1SnqzATh+yyG82X8vuTkaGRh76Y26hyrS4iqUyUEHKr9dhxvUzgvikcoQeP3eSUByMYAY+MQDXGuZzuZ2vS49vhyR89KO6iewmOtrQDqvB3/x/w2pTr7nfAYYZFSxW7e0ak2cTHbiKquq1cXwk9R6K34hr2KikQQf1fYQpAMPs8qvKEMAUiPSUEsMigGYsTywJmRKleQEFanK6WyGX2cWFnbTz7Ljrz/79/KW/Glvbw8zDTXmUYpLISOXTWnyIOGqSlMUatz8xnIT4YsVv18D1I+ogP8uyfVTsEzvaGMtqw04mSDXeX988aY/tXRb4GWzfQMg==;FNuiQVKUf8HMjE6X0su4gg=="
 ---

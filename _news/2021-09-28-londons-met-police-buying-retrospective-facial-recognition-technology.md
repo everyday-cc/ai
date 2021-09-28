@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-police-buying-retrospective-facial-recognition-technology/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 141
 published: true
 
 provider:
@@ -101,6 +101,6 @@ related:
         height: 229
         isCached: true
 
-secured: "MjbJ06EMCyFft1WHcgkAXmcKd2vv0cyLOSv5YCzMcn697yh3fgvMFmpAHtVaguyCvDRnUsj/BT1vsfstb3dWt/aavrUIN/6/T/lb1Fo4BvJIu3KDQcg938Orbw70FW7/3Jv9dw87jsDy0oYdA/0cQhNT/NI4KGiaKATVMqMxKdw3qWsjoypWd6RqpnrAZP6yXY8cchDmP3NcG+mo30QkYDYzx5C2ryAXgYSbzOO6sn09ihF2h0tMwFNBbZnvcvO27vn8ry0KtwOOZjPEvHIepAQsiwZ0OBlPTAxGVraDYykJEtt+9UI+RGkZJZgQTn8ZEZJ9I6OOUQwDbQVwZocQ5yKEro0Dq4Wuy/z1qAEqfeI=;rX5yOBlLzCrSI0OKLChyTg=="
+secured: "l651F+V2OvvXiDoIzRhbQVYq3ZoQSRP0oCkS9/tCzlYdAfzNjY0v6BLKAhz8JnLJvxQDP0ETBLVzVpWwM/0bhPEteJG+fGM0W4NbIxahYy8aDN8qXwzQNuNLehD8ixWyx324DFnXhDDMYm6SPZUZ86gm0adwlUg8fEIr6+zS39IzpkIryV4fzP48glaQkvCuxGXDZ8iWzNO96FYcJ9YW6uqCDGGygCjL9aYoh5Z4TYOQGi7ftZerNaX5++EfC4N3Z0OOQhJhkVWEfvAhb5RFK4kxn0Zyq4fb5DkhD61RtFwjJ5sC7xRrrEhTiYsZ71JaMbgk6tHZZNP0uACEsQoNYXKk5c8l4tg0JFwqwyMQ3bF8YQnnQxu9Salo6ywwn64cI4ejve30BJrnO1LQmITjCSvhXheCmeK10GR1DdxDxElez1SZLIDwWu9B0BldS7xxC9f7HmTo9M2D5bzs3YNVsuSSADbTzlYBVTslCWqrgTAGEGGLf9oB+0Lqoclu5Mk41WtvKdv1SkrR16NLwTpQhw==;OpgmaOlXP+J0KbbKNWkvIA=="
 ---
 

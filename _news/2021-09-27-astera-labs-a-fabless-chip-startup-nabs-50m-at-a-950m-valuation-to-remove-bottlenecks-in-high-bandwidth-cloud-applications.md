@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 665
         isCached: true
+  - title: "Astera Labs Secures $50M in Series-C Funding at a $950M Valuation to Accelerate Product and Customer Momentum"
+    excerpt: "Astera Labs secures $50M Series-C funding round at a $950M valuation to rapidly scale worldwide operations and launch multiple new product lines."
+    publishedDateTime: 2021-09-27T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210927005066/en/Astera-Labs-Secures-50M-in-Series-C-Funding-at-a-950M-Valuation-to-Accelerate-Product-and-Customer-Momentum"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 83
 
 secured: "Q3ioi8U0VEHy+hSFqlY67VBOBdRNVZAAwYzRslWD5FxJ/K9Rk+5GuI19uGlXAlQNlC1O40cWXqZp5I410UC7L9BowWW9PoOtmWymXxtocD7AQ1mnA2ANVnuZkF7pKpngXybI0YIo80XbvkyI9MKuaxM7121iyCXULoZ3lE3IKNjRixC3eMja6i1VBS9S3UHSKIGEDShrQpJBLDZtN5O+P8bnkfRuzdBjmAHSMcrQiqLrkgwvJx0h/wBQZnJO/iIHo4G2SThR+ZFUFKsD1Ad9oKouhPtMOXT2/Uaa3PeKGiC342ptc5rJk5xGbZpb+0eHCmbPqWqje81geWPFLQ9N/jzmg+b8EMGuSdN5pBu0OImBldOh7iupVUkR/w1quAAiE/WiKowRV1ecFcjmPJqdbx0EU2vYkoFNq6P8Ikfn+ozNLBW3204fRyzG/uLGks+Q8NNEoXDEPZBurPqepZ3qAnc6kAi1WPFjzey8BuS3ogpp2vQAUSxQSJpDSULDUalvp/CdwWAfEzEEr1GSoCSHVw==;8VTDA/fIpVtg6Q92goaXOg=="
 ---

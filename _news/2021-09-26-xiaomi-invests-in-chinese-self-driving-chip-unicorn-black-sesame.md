@@ -54,6 +54,22 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Kodiak launches its 4th-generation self-driving semi-truck"
+    excerpt: "That move towards autonomy in the trucking industry is where Kodiak Robotics comes in, with its fourth-generation Kodiak Driver system, which the company announced on Tuesday. The system is somewhat unique from others on the road in its modularity and ease of installation on any modern Class 8 truck,"
+    publishedDateTime: 2021-09-28T13:00:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/kodiak-autonomous-semi-truck-launched/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/kodiak-autonomous-semi-truck-launched/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/kodiak-autonomous-semi-truck-launched/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://www.cnet.com/a/img/fXRtRHYXHsgvDiRTPEUy6OR0_EU=/2021/09/27/de369ec4-cdeb-4aa1-bbf8-c04f0dda9fb2/767a6856-1.jpg"
+        width: 1200
+        height: 629
+        isCached: true
   - title: "Samsung May Make Next-Gen Self-Driving Chips For Tesla In The Future: Report"
     excerpt: "Samsung is reportedly in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday."
     publishedDateTime: 2021-09-24T11:19:00Z
@@ -127,6 +143,20 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/tesla-eyes-samsung-to-produce-its-next-generation-self-driving-auto-chips-170200_1.jpg"
         width: 1240
         height: 620
+        isCached: true
+  - title: "Kodiak Robotics Unveils Its Next-Generation Autonomous Truck with Plans to More than Double Its Self-Driving Fleet"
+    excerpt: "Kodiak Robotics, Inc., a leading self-driving trucking company, announced today its fourth-generation autonomous truck. This new truck"
+    publishedDateTime: 2021-09-28T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/kodiak-robotics-unveils-its-next-generation-autonomous-truck-with-plans-to-more-than-double-its-self-driving-fleet-301386504.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/1636255/Kodiak_Autonomous_Truck.jpg?p=facebook"
+        width: 2700
+        height: 1413
         isCached: true
   - title: "GM invests $300 million in Chinese self-driving startup"
     excerpt: "General Motors will invest $300 million in Momenta, a China-based self-driving startup, to accelerate the use of autonomous technology in future GM vehicles for the Chinese market. According to GM, Chinese customers are embracing electrification and self-driving technology faster than other parts of the world."

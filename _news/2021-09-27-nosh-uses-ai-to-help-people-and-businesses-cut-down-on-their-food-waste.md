@@ -50,7 +50,7 @@ related:
     provider:
       name: Tom's Guide
       domain: tomsguide.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/7t5W2reCUYkYMbnF9WiRQ7-1200-80.jpg"
         width: 1200

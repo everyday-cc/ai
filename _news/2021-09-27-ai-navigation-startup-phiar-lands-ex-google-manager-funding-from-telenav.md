@@ -1,23 +1,31 @@
 ---
 category: news
-title: "AI navigation startup Phiar lands ex-Google manager, funding from Telenav"
+title: "AI Navigation Startup Phiar Lands Ex-Google Manager, Funding From Telenav"
 excerpt: "Phiar, a startup aiming to enhance in-car navigation systems by overlaying directions on real-time video, announced on Monday that Google's head of Android automotive platforms joined as chief executive and State Farm Ventures led a $12 million funding round."
-publishedDateTime: 2021-09-27T10:00:00Z
-originalUrl: "https://www.nasdaq.com/articles/ai-navigation-startup-phiar-lands-ex-google-manager-funding-from-telenav-2021-09-27"
-webUrl: "https://www.nasdaq.com/articles/ai-navigation-startup-phiar-lands-ex-google-manager-funding-from-telenav-2021-09-27"
-ampWebUrl: "https://www.nasdaq.com/articles/ai-navigation-startup-phiar-lands-ex-google-manager-funding-from-telenav-2021-09-27?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-navigation-startup-phiar-lands-ex-google-manager-funding-from-telenav-2021-09-27?amp"
+publishedDateTime: 2021-09-27T10:10:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-09-27/ai-navigation-startup-phiar-lands-ex-google-manager-funding-from-telenav"
+webUrl: "https://wkzo.com/2021/09/27/ai-navigation-startup-phiar-lands-ex-google-manager-funding-from-telenav/"
 type: article
-quality: 66
-heat: 76
+quality: 166
+heat: 176
 published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
+
+images:
+  - url: "https://media.socastsrm.com/uploads/station/2165/fbShare.png?r=58912"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "AI navigation startup Phiar lands ex-Google manager, funding from Telenav"
@@ -35,6 +43,6 @@ related:
         height: 676
         isCached: true
 
-secured: "0OmU0lGmdKt90F0L5tiy/Uc2rJ/J8XYrRLYdTGbuo4RY21SFhPSyKzR8tE/4fkT/FM8ktxxbok/nydDoyX6jhQBRkSPS9PaAskWmd9Id40q+iKhuQraiDSUxIZKSabhMG0SC1alUVXDaHwykbE8Y3BuXPTjGZThI5uHqxOh5EgakP3aAY/yiTPU4N6QXs/bHJzSm5M5DHrXJv5ts6K4eudfJnkoTX7EYNPbKpIyh6RN5ghorhRfKtQK8Pl+fz+qxA34y2fNDgXW4sk/A26T2BDtVt1HJXQKf8xZKdErWjIq2cHw2kYRaenMFHfpopn0xz1cmf6AtDwE+48rlDlTv1tIP3voHw2TXCiVJSHrLc0w=;Y7KbKv9h0Xy/jQgRfGNTFA=="
+secured: "JRbhbiYyjlA48Q4aaPcRGmmdv5ltjbsDkNZcQi3pPtxTDsnPuJibQ3T+NmilY9u0aG+5kZ6xKdxBIu7NrGhPjrl8uM5lsWRmvWDZN3GHligZhdxAVGcbWKMRyxD4Nw+uX5/skI0L5Zta9zzNowu1l2NaDcOkvYAzQ7apuIUg4+qS01SU07RLV5bQF+Gx0pJ695iUB3RJV5cMKkL6nJvush6egjhvHm6lYrJZeVfg0k1RkaMdvpgQdjMwxKlzXFDembZWZxGGoy5+HCYELTkxM4H2chyc9GUVkGch/0ymiyevqsn2DlP91lQBGH2V4PUMgDfDTgDz3xmHbUhgZW8c8cDF9Vdwm+KVtO1KhGOqZjo=;2JF5ZfPQVhwVFatpPBEVPw=="
 ---
 
