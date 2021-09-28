@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 856
         isCached: true
+  - title: "COVID-19 and city safety: The power of AI"
+    excerpt: "A new report demonstrates how deep learning can provide an overview of the relative safety of cities during coronavirus."
+    publishedDateTime: 2021-09-28T19:13:00Z
+    webUrl: "https://www.digitaljournal.com/tech-science/covid-19-and-city-safety-the-power-of-ai/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/India-vaccination-AFP-1K.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "1/qjR/yHV3YaAdB2QxwNDMxCLzXASRH2QpERVFh85J8q973FV3af/xyhf6N0AoL5uRyjXGZ8O1uNnjAR9nk/UuQDaaPStKFVpRw99rr93xUZEPnlmjywpivxInJcwQ+3lnE56jitq5rInmGy1Ub6kMuVmMcXLegLbGfzqDSN2CGKCe2DNSVjm22p1VOgMCzzmy8umXpLL54rJ/7fZ4d3ojQsfqskoQWMiwt/4iHp2ZGmQEpbKsWfMoVNVod7ZFDZ5ARczzFNl3EOtCUivz360Jfnvyru+I1Ch06LPEDKMxRD3XrfkvFMMMPPovKKId0PtwaZWe5LX7uWX6A/wJNAt8hHd0VFOUpy9WvZ24d7UxlXAxfIysKubbODmRxgXJCbWesqIOdfggmdKMDRJzzdTGiNClJfm1+pd7w+2c6N2/IytKGM+5yhV/MyUA/i4VUvG9F56xAJ4oySLUGtgxOtiLlL4mEXwBSJaaqcW31otWqZsAzOeq1RWlck8H0re+qvm8cKPim/yjSdbx6a+o+xOw==;vFqCmmmpvZ4vzwoauHVW1g=="
 ---

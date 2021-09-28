@@ -249,6 +249,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Tesla's 'full self-driving' could be days away"
+    excerpt: "A wider group of Tesla owners who paid up to $10,000 for what the company calls its \"full self-driving\" software can now ask the automaker for access to a test"
+    publishedDateTime: 2021-09-28T19:01:00Z
+    webUrl: "https://www.kctv5.com/teslas-full-self-driving-could-be-days-away/article_e0dd71b4-29c3-5227-a521-a04d18076a02.html"
+    ampWebUrl: "https://www.kctv5.com/teslas-full-self-driving-could-be-days-away/article_e0dd71b4-29c3-5227-a521-a04d18076a02.amp.html"
+    cdnAmpWebUrl: "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/teslas-full-self-driving-could-be-days-away/article_e0dd71b4-29c3-5227-a521-a04d18076a02.amp.html"
+    type: article
+    provider:
+      name: KCTV News
+      domain: kctv5.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/assets/v3/editorial/6/7d/67dc3e79-764d-55b6-982b-098397367968/61535f5268e0f.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Driver Killed By His Own Car Door While Waiting In Line At Fast-Food Drive-Thru, Providing Cautionary Insights For AI Self-Driving Cars"
     excerpt: "Sad news story about a driver that was killed by his own car door (while in a drive-thru), provides cautionary insights about the advent of AI-based self-driving cars. Here's the insider look."
     publishedDateTime: 2021-09-27T15:30:00Z

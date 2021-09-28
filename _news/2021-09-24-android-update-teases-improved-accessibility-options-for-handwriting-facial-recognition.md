@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/mobile/google-android/361007/android-acces
 webUrl: "https://www.itpro.co.uk/mobile/google-android/361007/android-accessibility-facial-recognition-handwriting-autumn"
 type: article
 quality: 62
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://images.thequint.com/thequint%2F2020-02%2F18813c2f-9015-42ff-b4e4-712fc1e86819%2FiStock_1165098319.jpg"
         width: 745
         height: 419
+        isCached: true
+  - title: "Paravision enhances video facial recognition with Streaming Container update"
+    excerpt: "The Paravision Streaming Container is fully modular and is designed to be deployed alongside Paravision’s other cloud-ready, Docker container-based products."
+    publishedDateTime: 2021-09-28T18:02:00Z
+    webUrl: "https://www.biometricupdate.com/202109/paravision-enhances-video-facial-recognition-with-streaming-container-update"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 51
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg"
+        width: 2048
+        height: 1366
         isCached: true
   - title: "Absa launches facial recognition"
     excerpt: "Absa has launched facial recognition in its Android and iOS apps, allowing clients to authenticate certain transactions by scanning their faces. The bank notified clients of the new feature with a pop-up message that appears when you sign in to your Internet banking profile."

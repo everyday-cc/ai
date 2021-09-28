@@ -1,22 +1,29 @@
 ---
 category: news
 title: "Kodiak Robotics Unveils Its Next-Generation Autonomous Truck with Plans to More than Double Its Self-Driving Fleet"
-excerpt: "Kodiak Robotics, Inc., a leading self-driving trucking company, announced today its fourth-generation autonomous truck. This new truck will feature Luminar's Iris LiDAR, ZF Full Range Radar, Hesai 360-degree scanning LiDARs for side- and rear-view detection,"
-publishedDateTime: 2021-09-28T14:50:00Z
-originalUrl: "https://www.roboticstomorrow.com/content.php?post=17532"
-webUrl: "https://www.roboticstomorrow.com/content.php?post=17532"
+excerpt: "Kodiak Robotics, Inc., a leading self-driving trucking company, announced today its fourth-generation autonomous truck. This new truck will feature Luminar's Iris LiDAR, ZF Full Range Radar, Hesa i 360-degree scanning LiDARs for side- and rear-view detection,"
+publishedDateTime: 2021-09-28T13:04:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-kodiak-robotics-unveils-its-next-generation-autonomous-truck-/2021/09/28/9457853.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-kodiak-robotics-unveils-its-next-generation-autonomous-truck-/2021/09/28/9457853.htm"
 type: article
-quality: 12
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Robotics Tomorrow
-  domain: roboticstomorrow.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
+  - AI in Robotics
+
+images:
+  - url: "https://mma.prnewswire.com/media/1636255/Kodiak_Autonomous_Truck.jpg"
+    width: 400
+    height: 267
+    isCached: true
 
 related:
   - title: "GM invests $300M in Momenta to deliver next-generation self-driving technologies in China"
@@ -180,6 +187,6 @@ related:
         height: 250
         isCached: true
 
-secured: "isuNLcDJpML1jnQMeDnjYF6hGhwoak1rZFyhxkC7T6334dyW4h9GEZdAW+0vbCCDQ8lvc87SINGp99B2i3wkzEzT9ZzvVq6L0gVhRskcGZ+2rhg7uGULAWocnkpyrHFOci4kvcvKwu24lKkrgMFp+DR6dqbFe5mGC7gcHVjq3vkNDlKF/Mw68RzflbUFWNBjokT/++KkXQN1qcjnH9gU03JrkhfQPtnRVmiXj2NE0HVPJ+vMW2lx87RTcYXrJXHC3IcbQMsGQjxrVJHz1C0YSKiNM45/7zPlg8B6NgsNpFxxshodw2ysX/ufQbQZDXLWM8IMb6s70UpFo/QthKnMl1NJS/XTE55Qq+aQGOIIm5s=;IGs/u95iPL53ZEJcNJfQKg=="
+secured: "0z1mbHU70lYWq1DJbtne10bgSEREyrCU3oXurYdEwez95U9IVXbdM3q1w11fJF4phUMTMLs87143h9S3TE2Y2IS2A3Ls9vVgRf2IrOE0Mh4AwtXKMuuEzKU32DCUrOsswmVW3lq5atRIY4xTuMrm1IL5y8VCwRPfTkkvk3Biu9kmBd7dbCVQJmIijK86euHU8YktGtmcKj15jSfyvdWMqbxRQxo40NSTcFmi63jmYb/SNYyiGlM6/5+wu+sT6zO8IhJfdBAjjTHN8KpPiBlv9hu2SAodWNb8is+91Vxu9HEcEDWfG0Wsopg+v8E0vTU3drGY3o9VKjE/uWJhTBDq2E78uVta6gnAMIxkpDqvzFg=;IoE+n96DtGOLnHN8lp7mVw=="
 ---
 

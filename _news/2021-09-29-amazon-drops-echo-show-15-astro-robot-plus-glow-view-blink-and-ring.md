@@ -47,6 +47,20 @@ related:
         width: 1440
         height: 806
         isCached: true
+  - title: "Amazon’s Astro robot is straight out of The Jetsons"
+    excerpt: "Amazon is rolling out (literally) a robot that can help monitor your home. Powered by Amazon Alexa and a bunch of artificial intelligence (AI) technology while patrolling about on a set of wheels, the Astro robot can handle numerous tasks,"
+    publishedDateTime: 2021-09-28T18:58:00Z
+    webUrl: "https://arstechnica.com/gadgets/2021/09/amazons-astro-robot-is-straight-out-of-the-jetsons/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/09/Astro-moving-around-home-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Amazon's Astro home robot could help you, party with you and also respect your privacy"
     excerpt: "Inspired by science fiction, cute as pie, capable and smart -- could Astro be the robot we've been waiting for?"
     publishedDateTime: 2021-09-28T17:03:00Z

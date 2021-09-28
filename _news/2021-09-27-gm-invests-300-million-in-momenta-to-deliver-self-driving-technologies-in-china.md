@@ -157,6 +157,20 @@ related:
         width: 1240
         height: 620
         isCached: true
+  - title: "Kodiak Robotics Unveils Its Next-Generation Autonomous Truck with Plans to More than Double Its Self-Driving Fleet"
+    excerpt: "Kodiak Robotics, Inc., a leading self-driving trucking company, announced today its fourth-generation autonomous truck. This new truck will feature Luminar's Iris LiDAR, ZF Full Range Radar, Hesa i 360-degree scanning LiDARs for side- and rear-view detection,"
+    publishedDateTime: 2021-09-28T13:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-kodiak-robotics-unveils-its-next-generation-autonomous-truck-/2021/09/28/9457853.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/1636255/Kodiak_Autonomous_Truck.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "GM invests $300 million in Chinese self-driving startup"
     excerpt: "General Motors will invest $300 million in Momenta, a China-based self-driving startup, to accelerate the use of autonomous technology in future GM vehicles for the Chinese market. According to GM, Chinese customers are embracing electrification and self-driving technology faster than other parts of the world."
     publishedDateTime: 2021-09-24T12:35:00Z
@@ -171,15 +185,6 @@ related:
         width: 752
         height: 554
         isCached: true
-  - title: "Kodiak Robotics Unveils Its Next-Generation Autonomous Truck with Plans to More than Double Its Self-Driving Fleet"
-    excerpt: "Kodiak Robotics, Inc., a leading self-driving trucking company, announced today its fourth-generation autonomous truck. This new truck will feature Luminar's Iris LiDAR, ZF Full Range Radar, Hesai 360-degree scanning LiDARs for side- and rear-view detection,"
-    publishedDateTime: 2021-09-28T14:50:00Z
-    webUrl: "https://www.roboticstomorrow.com/content.php?post=17532"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 12
 
 secured: "S9D11KxYr47r34nC7QkeJwKmYSIR/86NcxEmPc7fhr8sq+o9q/GMvV2S5ZxVnrZeU87+CUrwxuNBU5qGdSdPV0YlQRzjaHdufkut3pV+ZA0E3FR5o81Fw+28g79BGzK62zvRlDP5BP3QIvXE1j+pxFzOVFu/jMmK1+Z0lLcknYliqCIHkxz4nIYTFQENeHnYocfrbIfMx/Ltv8Qd0pDHibJJk587kTQJ4sINlEh/nH46MgwljmkXmYuMTP3vapacLqhlWAcu6Dpsnb7vfpcj0wAHnkq/C5LUa52U7JmzA7sta0lsjmEbrkjRC3LceGDc+w8/s7Z+b+T8vLHWINIX0rZ0AFnpDPz8Is/lMvqXYf8=;GugjhDJ+XXQBXgl2ZrBaJA=="
 ---

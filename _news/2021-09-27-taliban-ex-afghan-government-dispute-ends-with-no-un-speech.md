@@ -26,16 +26,19 @@ images:
 
 related:
   - title: "Taliban, ex-Afghan government dispute ends with no UN speech"
-    excerpt: "The dispute between Afghanistan’s new Taliban rulers and its former government over who should speak at the U.N.’s annual meeting of world leaders is over."
-    publishedDateTime: 2021-09-28T03:05:00Z
-    webUrl: "https://www.sunherald.com/news/nation-world/world/article254557722.html"
-    ampWebUrl: "https://amp.sunherald.com/news/nation-world/world/article254557722.html"
-    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/nation-world/world/article254557722.html"
+    excerpt: "The dispute between Afghanistan’s new Taliban rulers and its former government over who should speak at the United Nations’ annual meeting of world leaders finally has an"
+    publishedDateTime: 2021-09-28T02:05:00Z
+    webUrl: "https://www.newspressnow.com/taliban-ex-afghan-government-dispute-ends-with-no-un-speech/article_7eaa607c-2000-11ec-975d-83ec4f9bd358.html"
     type: article
     provider:
-      name: Biloxi Sun Herald
-      domain: sunherald.com
+      name: News-Press NOW
+      domain: newspressnow.com
     quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/assets/v3/editorial/9/b0/9b097078-2000-11ec-bc80-6f731dbd169e/6152792453687.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Beijing Cautiously Backs Taliban's Hopes Of International Recognition In Afghanistan"
     excerpt: "China has emerged as a pragmatic backer of the Taliban’s nascent rule and pushing to get the group more political and economic support."
     publishedDateTime: 2021-09-27T16:31:00Z

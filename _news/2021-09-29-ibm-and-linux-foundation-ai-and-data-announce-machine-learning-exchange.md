@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-28T17:36:00Z
 originalUrl: "https://sdtimes.com/ai/ibm-and-linux-foundation-ai-and-data-announce-machine-learning-exchange/"
 webUrl: "https://sdtimes.com/ai/ibm-and-linux-foundation-ai-and-data-announce-machine-learning-exchange/"
 type: article
-quality: 84
-heat: 114
+quality: 86
+heat: 116
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - IBM AI
 
 images:
   - url: "https://sdtimes.com/wp-content/uploads/2021/09/97bf82391c9f884f4ea785b3ffccb6de.png"
@@ -72,6 +73,6 @@ related:
         height: 600
         isCached: true
 
-secured: "vqbNXja0uA+u0Fi+Ragzu/rx5i/VExDa0jwanQnZ52A8g6gWr6kjDUvUxxydk75+yuW+2JD0KtPTlifFlxLHAJ5dxS8OIVAZtxPe6AIL3snBj7r0ZEy3cjQ4wgqKGIIf+95Uc2uJuLNRiyhqtFouI9Wv+HLBLi8w/0I6Iou4zLrxqZPhCjUPn1Yz0hZ/oeFYC959K2QJO6ypZPF3rw6jD4ytCl65jRURI+diZHJvr8e9VihxrCh4q68HsPhBNX2c19cNWhdPBJDOuqK2kXdigBIQ6zKIVvwrDm49x1ilylQaSfzg5ofgbq43bf6cwGDaVaQBFun3hFYOKrgyJckQn8Gr6rnztFOVjkA+O7My6WA=;kcuIifB3Lv8yAwhdGqIZog=="
+secured: "husVZ026RLUNHa0ZRg6fawafdEhhAE5h/8vMLT98vGv+0MaAQOZWPi3t8158m7Ywiin+3XUXEzbLxNKruZgPGlrn95Uc7fglhwcDzsKrMoDxcft/JKkHRcDiKoo7MRmVoslckA1y9N71j65NUWs9zK6E/1UNCrkVKl00zU7cp/FaDkVdLgVfP9Ge3WOELwcE/WwQjx9QorISnbN+/yZE7tsU3R8eR3Jq/h9/UiiP8COEXElxM0oKAAfG4D8Syp8z3ImybGr+chNO4dIhIL7iy+bGl8nsrnGd3KOFci1uRW+1KRbIWFnocGDBcN2xbK2Lrkq0mLNi5BW+PZvPnk7K1IuF9MmLAQs6pP3LJPZK1RbTZp+ZfDRjm6uOv5NbIuc4Vc+xR0ZPuVp3U/jX5vyHDwXFUY+93D1ehNIuwg7LaKRGi66YeH7AUNyqIOs0vTzRNupb3WMiyygfn6T5oZSM6c/tp8mSeoxCpr+sxdJa+jNM7zCJHJgiBJogxeItCEPZfpyDOK8mdGN+ys+wkj1WIQ==;VOUyOgboQeyJP8jP1SSC+w=="
 ---
 

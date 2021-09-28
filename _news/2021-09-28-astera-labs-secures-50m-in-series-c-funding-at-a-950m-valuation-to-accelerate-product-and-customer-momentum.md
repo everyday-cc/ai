@@ -13,6 +13,10 @@ published: false
 provider:
   name: Business Wire
   domain: businesswire.com
+  images:
+    - url: "/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI

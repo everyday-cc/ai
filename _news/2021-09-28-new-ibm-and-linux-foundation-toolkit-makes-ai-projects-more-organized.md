@@ -33,7 +33,7 @@ related:
     provider:
       name: SD Times
       domain: sdtimes.com
-    quality: 84
+    quality: 86
     images:
       - url: "https://sdtimes.com/wp-content/uploads/2021/09/97bf82391c9f884f4ea785b3ffccb6de.png"
         width: 954
@@ -68,6 +68,6 @@ related:
         height: 600
         isCached: true
 
-secured: "UpBX8gSz35esjZdZ3LDrnoUusL8zEqK93v6FaUuGI/tLfWNfZHEIXZ3Gk6qMtyx4XtyO/tPysmNJZ/RWqtDcmp2dIB3E1vndynYV31Fhr8BmkiL6YrB8IRCyZb+biMFPG3pG+XmlRPX7v5lKSytBi8PpZllWvMER/aTApkkAZ3yGFRKvqX9t6NqIxMm1Fstti6jYeeC5utl1UXhGzNIl5aN97rvo/HlEX0QOxs9hGghtr2EXlDjRdSpGjBYlcE32oKa0Ogfkw/V1+2GyWh588FuCPnXN+k5lLJJbN+Fh2qxoZghRYKx9fvtrzmgIljDsZ9pUFJn4CX+dzDIhhb9mhv1KJHpAFTNurLnpn7adbzs=;+oZptG7B2RcDOqX0FVgqyA=="
+secured: "tgcOSCMwUh9UyiVYY3xkyes/mI3pxSsOncumR+jRaAvThluMkHjoolwDKoOZj3eXA2FXQrYkzmaArBP1nHpwAIXj60B5OiGjoPRUohpdcfBprQK4K0iyrheZ0Oxvlc6FJwfJZDw/aRa7jYtT/l+weEUnFQ2lm34MHQvPvr/ZFUbz0Njg3l0C9fYHkXF8gUKwQZbFeFWn3qyOtHjNmD6QuQOE1RlWwK1FUB9QQvSMcFtCPGY5yxi1z5tmIqXfzxIJ1I2W3WEV9eyrLE6TCgiTCFysFxsgGOyA8go5o97aRjekEWLQTLY1xlICB3mPbjJdVF0zPBkiMzKjKpZyW7PcGolLVu87ajyTH1q+K42KcvtAs1K27KG743RtD7FqRoGwwCWYKZxqMewgPIklynEvEyCYJRsyHzQDAo127RZcLMXemrNg5f5Uy4FvGfTVHIk4/zFgdkS/p4RoPFLgWpCJzT3vBQyrIQ5bfGlMpPwcv9cCN5VY3XBCaLl0+G1OT/aA04Yx0a0jpLMKEKVXOL3U6g==;bR1Tah3Iz1Shq1BwuiidQQ=="
 ---
 

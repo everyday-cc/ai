@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Taliban, ex-Afghan government dispute ends with no UN speech"
-excerpt: "The dispute between Afghanistan’s new Taliban rulers and its former government over who should speak at the U.N.’s annual meeting of world leaders is over."
-publishedDateTime: 2021-09-28T03:05:00Z
-originalUrl: "https://www.sunherald.com/news/nation-world/world/article254557722.html"
-webUrl: "https://www.sunherald.com/news/nation-world/world/article254557722.html"
-ampWebUrl: "https://amp.sunherald.com/news/nation-world/world/article254557722.html"
-cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/nation-world/world/article254557722.html"
+excerpt: "The dispute between Afghanistan’s new Taliban rulers and its former government over who should speak at the United Nations’ annual meeting of world leaders finally has an"
+publishedDateTime: 2021-09-28T02:05:00Z
+originalUrl: "https://www.newspressnow.com/taliban-ex-afghan-government-dispute-ends-with-no-un-speech/article_7eaa607c-2000-11ec-975d-83ec4f9bd358.html"
+webUrl: "https://www.newspressnow.com/taliban-ex-afghan-government-dispute-ends-with-no-un-speech/article_7eaa607c-2000-11ec-975d-83ec4f9bd358.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Biloxi Sun Herald
-  domain: sunherald.com
+  name: News-Press NOW
+  domain: newspressnow.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/assets/v3/editorial/9/b0/9b097078-2000-11ec-bc80-6f731dbd169e/6152792453687.image.jpg?resize=945%2C630"
+    width: 945
+    height: 630
+    isCached: true
 
 related:
   - title: "Taliban, ex-Afghan government dispute ends with no UN speech"
@@ -50,6 +54,6 @@ related:
         height: 675
         isCached: true
 
-secured: "5slqwoVCj4KBLljruiXMoMId2kg54TIbWCFBJVbPw41pwkOBc+OdQdki5W4GbncArlQZvEGo+xZxPMyY47UifvnxxU4aO6LKfWPGqdA3kr6CUAaQ0iijUUvEqzHHlzVh+FJPBg9vH823sXYOV3m9rEQA1s/+QEaNsyeLcU8l3+S3X8OMpsE7I0xAGoTnUWGFZ8Aq1HiRrx7bLMFp2QUcAy3QXoPXe+3zPN3ejAd0w2IHrBqkEoKpxW7LKwiiMwGraDDuRXBL9ud5pm8ykfZYlDzhitnHkwAkBrb06EtjY9sWwCmZiXGREWowT+pKTkWFtR0SfI/Ib3NoTBTZNDFVlZ/tF7HERU9cWmN3rxtB6H6ss6Cw4clisEb+IfosxAtwb3hJ1d0AsATY1S3g99q8XZuGzdy6yD+OcAF+DiHtj84PYXqeFV+vkYavdc+x9SMLYDQVgzStPrg2rDiBCqUDLkbxY/uxGqLU4UnZGQ75BGxErHqb0SuqUnELmjZeJGneNLOx43MugdW6xRiQkmBfqQ==;6NZbjxGpief0nFc9krN91w=="
+secured: "vQKx9qTgrVMb74LEFWw4rpiH0FOcGXioEBt1e1liqJ3lmf9rodKb6XvHuSgSZo6mDAgwzGisMKySXBO+avjanidhKPrHDuxrQUYYiqsQ2mM4GVm27WC9a2lumGSSY1czmzZIzevcP3ZsGjdjUZu53WhPSvIUM3LvEbejcGTJIrNaptmEl2Hp9t3XPnmIzVRBQ4A56tl7RkbJpCuj/JNrLKktjjWWZ9WoQqer1XHrcqIeTTRiXD/A+d4YIrnFmnnfitXbZa8n8vvLKzb3LA4bGJyK/UpdoExSPG95tQXnBN0RIxKaRSXUfHzEOOT9HgJBb0LAuO5Oc8GE53YYFOLoE4dzlN8L9LJLqSkLi9Pl4GA=;TZGl67l5K00MOWriZCzq3w=="
 ---
 

@@ -2,28 +2,48 @@
 category: news
 title: "Here's everything Amazon announced at its big product event — including a $999 robot"
 excerpt: "Amazon is continuing its quest to cover our homes and bodies with Amazon devices. At a livestreamed media event on Tuesday, the company showed off a handful of new Amazon-branded products, including an Echo device that hangs on the wall and acts as a digital whiteboard for the home,"
-publishedDateTime: 2021-09-28T17:04:00Z
-originalUrl: "https://www.gwinnettdailypost.com/news/business/heres-everything-amazon-announced-at-its-big-product-event-including-a-999-robot/article_9116a411-3791-54c0-9192-dae8730283cf.html"
-webUrl: "https://www.gwinnettdailypost.com/news/business/heres-everything-amazon-announced-at-its-big-product-event-including-a-999-robot/article_9116a411-3791-54c0-9192-dae8730283cf.html"
+publishedDateTime: 2021-09-28T19:50:00Z
+originalUrl: "https://www.wlfi.com/content/national/575411422.html"
+webUrl: "https://www.wlfi.com/content/national/575411422.html"
+ampWebUrl: "http://www.wlfi.com/templates/AMP?contentID=575411422"
+cdnAmpWebUrl: "https://www-wlfi-com.cdn.ampproject.org/c/www.wlfi.com/templates/AMP?contentID=575411422"
 type: article
-quality: 32
-heat: 32
+quality: 52
+heat: -1
 published: false
 
 provider:
-  name: Gwinnett Daily Post
-  domain: gwinnettdailypost.com
+  name: WLFI
+  domain: wlfi.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/c/7b/c7b2c38e-2084-11ec-a8a9-b7c92d7e5a85/6153563ff1438.image.jpg?resize=1119%2C630"
-    width: 1119
-    height: 630
+  - url: "http://media.heartlandtv.com/designimages/640x380px.png"
+    width: 640
+    height: 380
     isCached: true
 
-secured: "9/qeyY0WHv+wd9BFDIj82zyeKc9jWDMGpxyqbN+gsRmTLqLjCEmGm2n7VHONnaEiMVXuDdDJXke1J2fic367vKXdW7XXw/V/PoaYk2qlgudOzxjnbDqjENzdShGPKFuRlUMw+dijLuecPfnS0/ymO8npu5fapwOdkbrrOiBnwPCUBra4bbrTZFrUZRZuaeIV2/pah1X/rvXzpZVZlW9AMxZDZShZ07ydSo6zjHnfa6gWE9OzZNeRROXG54t9x0r/zI9xaRc68lU5g8i05tx61oYkD47WwWq7FrVDWg8eGU8NfnOGYkQXhziWzPZQpSyR6TOIs9Rdxl94fAjafNLUSR7IeExp/IBdkNYWN1n6e60=;/brWxPkAPwhcXfJfYDA8eQ=="
+related:
+  - title: "Amazon’s new toys: From $999 robot to home security, kids entertainment and much more"
+    excerpt: "Amazon shows off a handful of new Amazon-branded products, including an Echo device that hangs on the wall and acts as a digital whiteboard for the home, an interactive video chat portal for kids, and"
+    publishedDateTime: 2021-09-28T18:37:00Z
+    webUrl: "https://www.wraltechwire.com/2021/09/28/amazons-new-toys-from-999-robot-to-home-security-kids-entertainment-and-much-more/"
+    ampWebUrl: "https://www.wraltechwire.com/2021/09/28/amazons-new-toys-from-999-robot-to-home-security-kids-entertainment-and-much-more/?amp=1"
+    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/09/28/amazons-new-toys-from-999-robot-to-home-security-kids-entertainment-and-much-more/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 84
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/09/amazon-glow-e1632853917387-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+
+secured: "P3s1L3DQnAv9Hz/Jk43PtjrMD1NkYa5bvf7dKQB0Ymsr7E8gNFyUvxvpqbRtg2TixMyqbqIQMBxoyCh3OAhjpNVfz4ikxFduluZaa6+xnbDbZPiIYIXy/SJGK3XgOb4ooqu8ayw1bcf2/yUx79N1CO5N7me0XxHAjoO/c6cqrCycPm60r+rQ203yMIEc1/wgJzyLFhHKKN2RrBy0dq/ceB9j+S21bRsUgkXVjNxkPZHK1vyUCcQ66FNK03TQFRzmNrKr4/dl/YuaZWwrqxtLyaxK8VhskS/LQPEpf/s+fbCEU2qu01YqSl0GVHjlnaIfi1FFjmmNgPf6xvc6ZwsjNMrHFJ6W8/R6hLMPr1CgDAU=;33yhxMiPDoeltYDNDHxniQ=="
 ---
 

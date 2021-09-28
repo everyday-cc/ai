@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Toyota buys software firm Renovo to accelerate self-driving tech development"
-excerpt: "Toyota Motor Corp's Silicon Valley research arm on Thursday said it had acquired automotive operating system software company Renovo to help accelerate the development of fully autonomous connected vehicles."
-publishedDateTime: 2021-09-28T12:17:00Z
-originalUrl: "https://auto.hindustantimes.com/auto/cars/toyota-buys-software-firm-renovo-to-accelerate-self-driving-tech-development-41632831300666.html"
-webUrl: "https://auto.hindustantimes.com/auto/cars/toyota-buys-software-firm-renovo-to-accelerate-self-driving-tech-development-41632831300666.html"
-ampWebUrl: "https://auto.hindustantimes.com/auto/cars/toyota-buys-software-firm-renovo-to-accelerate-self-driving-tech-development/amp-41632831300666.html"
-cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/toyota-buys-software-firm-renovo-to-accelerate-self-driving-tech-development/amp-41632831300666.html"
+title: "Toyota Buys Software Firm Renovo to Accelerate Self-Driving Tech Development"
+excerpt: "Toyota Motor Corp's Silicon Valley research arm on Thursday said it had acquired automotive operating system software company Renovo to help accelerate the development of fully-autonomous connected vehicles."
+publishedDateTime: 2021-09-28T12:03:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-09-28/toyota-buys-software-firm-renovo-to-accelerate-self-driving-tech-development"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-09-28/toyota-buys-software-firm-renovo-to-accelerate-self-driving-tech-development"
 type: article
-quality: 41
-heat: 41
+quality: 31
+heat: 31
 published: false
 
 provider:
-  name: Hindustan Times
-  domain: hindustantimes.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://images.hindustantimes.com/auto/img/2021/09/28/600x338/Toyota_e-palette_1630073434586_1632831360847.jpg"
-    width: 600
-    height: 338
-    isCached: true
-
-secured: "QgONDHnmKFz7n9yIBrlt9qJdeaUxIzVSe/NFtZQdWyDvAkcA7UZuKjUbTxYLP0RYc7rAuYnpQFjZGksgMZZVCsghSnykRC1jnncSA1EMjTCkUTv8fi5boeQl4OphqJ1jVzk1LSddfKGHU+kpy3dr4SO+78iyK0yfSUXHZ73l8wP0M5uG94Y0kOr3IgVzivfaHRJBmSNPQbmQdwn5orfpZyKzfJJi6kxeAyei3R/V20HSKHRqtBKijjXzua8VMMoDufEUnHBBKWS2NM6CTGU+snr4zs7QkBJsto1957VdU0GyJAjqWGss3bfYnBdWUrwk8rm7XOy9UaJEPEjR67H7hXxlrmvB4yLkwHuT46MJBx6jH6FkqPJDN0x+VOPDdz/3HZIyIpoW51WrZic0tVHuq/tOspSYfv03UEMdmBtSm6gQFraVb48dnsVIn+/sK8p5FM2Q0oNuViyHQkZN+xZ143wEvLkVw+0w0y0dNHPEGgQFpwmXd50xWB0mrrf6zWk8kWIkGVzVX3wbBW29+y0ZMw==;xSVRrVzOAHSFDPMKSHs63w=="
+secured: "llMT3zxdPLPNlupEM2PMNaPs3pcxAFL7Zj433AH4m2ksEyUH4Glas0CLaj5DNUJEYu+dB8jhvB66JCdkiUjiiCE7R6JqD22zliAC3D6K0di2+JDZ+wsNG+E1nv6A1J+LO3SL0qx2Dy5HbSf2jZvHN/WXz5OUdgUJSI0VTzk30XI8U+3av5bGSueHmVVEEk0U4hPEd4NAUQW3hLspKvaQ97dypydYEOcsVckldGuyEr/we0VowIsPG5UjmjXXpLsJ0BbiOKPYGRm6Z3Vzd6mLL/rJQF/YesQyhcYUiodSQ+jXxiwTa9plJSO0OKyL8dK7zHK1iSFniCHnWCsIZDGxflWHua78vwiJMJoTqR1wMl3fIdEwl3F8NekQODYpD2TWgXIGm7/doyWaPxlES3DfUiz7ch4UWhNXYkk3r1oyjbdMrq+521vdtvDm1hz+NuhSKifhbmC8OkJB06Pjqt++ccJvcp5REm4NTDtgwZOBjMxCoAHHkscEBkCnIZnueT+JDoU6xBXqf8KnlYckAQsabg==;zbFbvSOs+2naDmykRO/4gA=="
 ---
 

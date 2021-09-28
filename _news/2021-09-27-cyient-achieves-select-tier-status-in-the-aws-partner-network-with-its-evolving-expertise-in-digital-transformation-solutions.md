@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Cyient Achieves Select Tier Status in the AWS Partner Network with its evolving expertise in Digital Transformation solutions"
-excerpt: "Cyient today announced that it recently was recognized by Amazon Web Services (AWS) as a Select-Tier Consulting Partner in the AWS"
-publishedDateTime: 2021-09-27T12:30:00Z
-originalUrl: "https://www.asiaone.com/business/cyient-achieves-select-tier-status-aws-partner-network-its-evolving-expertise-digital"
-webUrl: "https://www.asiaone.com/business/cyient-achieves-select-tier-status-aws-partner-network-its-evolving-expertise-digital"
+excerpt: "Cyient today announced that it recently was recognized by Amazon Web Services (AWS) as a Select-Tier Consulting Partner in the AWS Partner Network (APN). The APN is the global community of Partners who leverage AWS to build solutions and services for customers."
+publishedDateTime: 2021-09-27T12:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-cyient-achieves-select-tier-status-the-aws-partner-/2021/09/27/9456669.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-cyient-achieves-select-tier-status-the-aws-partner-/2021/09/27/9456669.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
@@ -34,6 +34,6 @@ related:
         height: 634
         isCached: true
 
-secured: "plnpvCVGLQFxZfReSCzZdBAedOz7pCmwAJUq6fDhdrd2OBaAQkKAGqQflsY2y6vQWTISgAwdCY88Kffhlal+TcuHCBmkDnjU2M1eesBPgMbAG+MRRX3RzFUeabnZyg1041m07KIDw9ud7C8G9Oubo+23GULmPx27n02GcTGPW8747fOa4bgxOf+4F/2Q7CZo2rlcAqw2/s02rQjBlyNkWCVOSO6R/OQxoojAh8tlKOAofouiNfg2yBmF2awZe/CvVRw2OPGW3zvgohV9omM/A3l0GOWom+xmFJAc+V25FFrRHD8U0umBgBp9N5UDGqEYValKLBmoUpicMp2vVYWm434w+YkmuH4/Zeaab7zjICjbKDfY8ARaqXNwI2w7Y3X6XVBvjPbet8dt7+zMYNNVtGYnhCwEiU/FGEjo0Awa7dh7hBe8w/cQnfcxQoDhOwrFgvX8NA0D67Vb7dfTCxSWi9p8wweYxA8md8qAQUtpRCdPLAWG7EDOy8dJ7CfbWIexlPcOS+31sqa5OHGVQ1GJSQ==;pyFc2XhhYJqXz3EFZZRt3Q=="
+secured: "W6JiFeoRwF+l1fK6oRK9K63BtPnsQHUa2fDeC3DGe8cCKf3dg5G1fffQ4Zn14MEy0DVANmENpyEiqzdGajpSUy5f8JgBhff++F3KOz73WSPe0q0Lh5M/DgK3mo2KA3cEFF/UMj7cSHq0mopraeohd2++j12Uad437AfJgbbgzarkeUXVBMlH8owZDNORMZhQUr7QVKUw7aiUUiuY+1/bW8W2XJJmBieScZ/nQ7xBun/TaBIezubfUY8UX1qpTBkcMF7feRDhsmF8qSXt+0xEBy2GzKxRfkc5UPL9m+L5+j9lw+yQY26xMBohnru79XOhdUe45Bxovzx6geNn8W/TNooKi9PAsn7Tq04oQrnGLRU=;Mmb9WF7FHzvkXhoTmoJJ5w=="
 ---
 

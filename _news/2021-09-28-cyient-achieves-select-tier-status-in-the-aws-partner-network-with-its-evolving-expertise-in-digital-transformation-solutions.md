@@ -26,13 +26,13 @@ images:
 
 related:
   - title: "Cyient Achieves Select Tier Status in the AWS Partner Network with its evolving expertise in Digital Transformation solutions"
-    excerpt: "Cyient today announced that it recently was recognized by Amazon Web Services (AWS) as a Select-Tier Consulting Partner in the AWS"
-    publishedDateTime: 2021-09-27T12:30:00Z
-    webUrl: "https://www.asiaone.com/business/cyient-achieves-select-tier-status-aws-partner-network-its-evolving-expertise-digital"
+    excerpt: "Cyient today announced that it recently was recognized by Amazon Web Services (AWS) as a Select-Tier Consulting Partner in the AWS Partner Network (APN). The APN is the global community of Partners who leverage AWS to build solutions and services for customers."
+    publishedDateTime: 2021-09-27T12:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cyient-achieves-select-tier-status-the-aws-partner-/2021/09/27/9456669.htm"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "goZsVKKgxTIra6itJomJLlBr8chPxnKeM7WtZGz1KSYON7AIx25dCUzTQs5yulvUXkRdpMClJXRdELGuG4Oq9nciUGA/cpVmRAPpI3XQ2IjCqQUNHZn37MW7Yib2Yal4TBwtjGTD36/EX2uXMslk4gmwsjLfw+K+M0ESwutw3Bu99UVvH6KRENwTDlv7yeGHG/dI1yXD9q17TNRuMiKMhXuJ9T/GlCQ9mPkYt1+Ze4OQUDuMEY0OXwMTaUGnCLV3pcFjcu2lf7Y/KjsX1V572ovBMAvQHxy4ZmghlkBr07/T5tXCFJT1UKPuJXhD7d3bLkfTYj/zgMskmI7lQF3TUc+56xRU55rEtqdsE+aHlKLDVfS+6QYrEaLPoASiybEGOv4gyzjBnEvyG1iAM6W3R75MQmXAu05AqthjvXraGTytmIonun118O4OsI2PZG1WEKnTtUWR29PWumWimP6w4+DZEENuriDgoTxq7mkuzH3leVQCZnUAEGV7YlZwunzN0dvJe7UiUNla2YevH0+HEA==;DyaYlUwOx/6j84F6GjSqNA=="

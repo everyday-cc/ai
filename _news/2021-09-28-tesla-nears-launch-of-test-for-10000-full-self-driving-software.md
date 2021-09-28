@@ -233,6 +233,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Tesla's 'full self-driving' could be days away"
+    excerpt: "A wider group of Tesla owners who paid up to $10,000 for what the company calls its \"full self-driving\" software can now ask the automaker for access to a test"
+    publishedDateTime: 2021-09-28T19:01:00Z
+    webUrl: "https://www.kctv5.com/teslas-full-self-driving-could-be-days-away/article_e0dd71b4-29c3-5227-a521-a04d18076a02.html"
+    ampWebUrl: "https://www.kctv5.com/teslas-full-self-driving-could-be-days-away/article_e0dd71b4-29c3-5227-a521-a04d18076a02.amp.html"
+    cdnAmpWebUrl: "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/teslas-full-self-driving-could-be-days-away/article_e0dd71b4-29c3-5227-a521-a04d18076a02.amp.html"
+    type: article
+    provider:
+      name: KCTV News
+      domain: kctv5.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/assets/v3/editorial/6/7d/67dc3e79-764d-55b6-982b-098397367968/61535f5268e0f.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Tesla Is Bringing Self-Driving No Matter What. Regulators Need to Adapt."
     excerpt: "San Francisco authorities have expressed concern over Tesla's autonomous driving feature, dubbed Full Self Driving. More broadly, self-driving systems are advancing much faster than regulation."
     publishedDateTime: 2021-09-24T21:37:00Z
@@ -603,6 +619,6 @@ related:
       domain: allaccess.com
     quality: 3
 
-secured: "lg6bVvRAYQn53H15McW4L52kFH3snwqdKcZ+P02Vw2pf195Vr0fVS20JQo4p3z94WP9sUfZYrATLxCDcANsAClFINMt+ffcNY/6V7YJj0umpTEel9kFLUbBvzdEIUwXPeddG+WIq15FOQKfz8mDJq8Rn8zYQ0p+5e/3dTCoQMHYqRvN8Is3NYP/53HJSFcHEYYr/B/R0Ol4X2aUSOpBCuI16tUDlUJB189iZbG5YvAMWlxG132qOV0Xo7Nrn3EexlAp8vQP7UTn9SQ/M8u0wsRafYk9o/9rizEuJ92S+o0N9iHyDWRTL1JdxKOOWIpj4IctfSxnmFPY1ElTKN6nyz2jo/uoKxeGz21VcXnZxAm0=;Bs5VXjWo12iHsKRrazwuFw=="
+secured: "NcXPSlm2zDTAfPdfz3kloxplGA2zjxsUF2OAf0B/fIaSYKXJ3nzSmQlMx2iIiyLi0cOZ2Xhx/b9Dx+Bk/jT6Wl9SwqiBLKZXVPRZbgdOewawLKioJSWeO2GBdciBW+qfHBBX5jwbsmyp/8CZJtKpKSOjPSBZ8PcpnExDt/mXuSI71kYoM8M6ygFSKniKq91wMhX3HC10WBpZPCVTdIlO3tx0UHU2mCb0gghoDrFXTpHsipZxyba50/VNJRtMNMrfpLcWdP5gzl/m9k/igr3zc3MYwROaTyEEYIKGCepLtYQzcRhkOfBn6fe2kC+UTJ3JN79OMO3wleVbLmap1jsSoI02lU6kKum73pQQ8nqyE/ymaHPBCydEBanJLVEs/7DlDaZJa4NvTRTC4VqjKCyX7mPdRr4hT79s1XpbzCFbfWwc9b4VwneBTjX4jNGGe0XIrrzPmPrEF2svC8NILTMsxf7CQyR9aRo1wDL+imK3JlxR5d+B3CO6KSITZzTgvjkxcT1H2ysDUuVEskNUp/6+cA==;UFZgGojdp+kLgyPUMGG13Q=="
 ---
 

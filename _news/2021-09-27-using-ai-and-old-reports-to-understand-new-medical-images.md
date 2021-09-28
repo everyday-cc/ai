@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-09-ai-medical-images.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-ai-medical-images.amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: techxplore.com
@@ -40,15 +40,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "The AI-powered Employee Experience Arrives, as Eightfold AI Rolls Out Self-Service Capabilities and New Reporting Dashboards"
-    excerpt: "Eightfold AI, the provider of the Talent Intelligence Platform ™, today at HR Tech 2021 announced several new breakthroughs and capabilities, including a consumer-grade user experience, and powerful new reporting and analytics enhancements,"
-    publishedDateTime: 2021-09-28T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ai-powered-employee-experience-arrives-as-eightfold-ai-/2021/09/28/9457836.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "SvxoidfB4bKLLX7QopOgo6defGoLUnj91liLISSZB32cNMmqpA+xEQUcc0qcGiPc7U2/53EOjsFpXACxQRFKA9nqMeggy3Za0wYtM5dMEdIbpkGw02h/L/QWwk+t3vT7Z1+8Xz7PD2BPaU1PM2b5HMYtHwzOczwSK/DxiKxeIRR7ui1pllnFpKwYqCoLcTVHrtBdz1ZNddDCGHf6VIAnZ0gPgPLJLkGxXGX4zWwA/GYhebUgvJrb0WaWtwfwqqBJ3XC+EQbvtF0URN9Ig4x5ArzsmmpuUgrDgICll35Jbkgyw/wdbNP/gxo+olubPKFG9wbR0u1HP9WoPAXT8EwvdSQV4r+KHIB3TJlUMIkSbql+/0vzTkVOyfGzJXxV7P7SXciyhKwfRVpvF3rHXOkMSx5os/9m9PjHHwC3R5FSeV0r7z90iI2Ijfe6iGi/loCH6SnDT2Im40UT1jzUf73Lu+qRwJceatGU8iSGxqf4l4QDmR6gD6SFx9sXXS90wBHF7kgBVwV2eri3lzjJfBK0nw==;xvULH8LaBHvcMnH3cYt8fQ=="
 ---

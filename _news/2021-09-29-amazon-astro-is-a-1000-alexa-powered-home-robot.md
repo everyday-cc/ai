@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/amazon-astro-is-a-1000-alexa-powered-home-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/amazon-astro-is-a-1000-alexa-powered-home-robot-28692975/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon’s Astro robot is straight out of The Jetsons"
+    excerpt: "Amazon is rolling out (literally) a robot that can help monitor your home. Powered by Amazon Alexa and a bunch of artificial intelligence (AI) technology while patrolling about on a set of wheels, the Astro robot can handle numerous tasks,"
+    publishedDateTime: 2021-09-28T18:58:00Z
+    webUrl: "https://arstechnica.com/gadgets/2021/09/amazons-astro-robot-is-straight-out-of-the-jetsons/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/09/Astro-moving-around-home-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Amazon's Astro home robot could help you, party with you and also respect your privacy"
     excerpt: "Inspired by science fiction, cute as pie, capable and smart -- could Astro be the robot we've been waiting for?"
     publishedDateTime: 2021-09-28T17:03:00Z
@@ -64,6 +78,6 @@ related:
         height: 630
         isCached: true
 
-secured: "rHbgCNuXtls6zghUhpE+ANNw6MuSlcg7u8gSrp1evYoC8jVE8fc3FwXFUtOhHTLXqhRrvVZPKel3YvyIJ1SAAi6FMzu/PEUD7ZipgYyYKebHvoPnC1SGS53xMQ6cy9mkHsRGwLVF156I5+5GrvwyHlik8Vek//0TW+9nFgBLzKbM05wNGee6zIRpRcPWy2yIdG85hsLSRQWtWD9AZD2ZZUCswHtIW3OLywzz1QOe0Oxv5SDw3T13V6szF3LKwCfuotIvx20L/d6cjpj+PKthYer5jsmpP0Fg4OSaVa8fF6XNZwAy2VddZmVJYTRQH/7wAwAWOYT4tbXPtJSQwfUfm2D4jZArXjbUfSMzkX6+qog=;eWAxHG2du/Urk8zQkovEkg=="
+secured: "f379kMHDlyCfi0xja1E1/dI1twK861Q7idWLDELzZHG1CWUHap9HPWELqFbV/czqETtoWolAhe8QbuMWbh8IBJ6vCQe3FSP/erEE2KmNYrYMIVLDsJGSZ24XKBQDdDuEfB0xTIJpirTKe5AaCisJZ6zVAUTQqLOhHBm7hznnly9oHlFHM6/5sjXbRQq67XK9iGt09YtyfLLBxUBsXziPbhYGUfS9OJPCBmUrr2kabMffnJXmch9aO9eErgAmTTXk70hYkUNsdpTKFuo5HLxt1N6a8BPgDjbLl2zLJmyUC7agG6J8+UdI7XHrsFMg3o0gghlFNyP+WlbGIx3f/OUKUxz7twZY9wKUxhtE0vtE3d5UqPCyUqM+kxkdA1venLqq1MfbH46wGkQEwB+8EH7Xd2sMG7BVATmrcdhWM+Mvt4BaBMtn8+QzX37+9sRV0u6wm4yHiXKw61FVG25J6ioxNXXqDB7y7QFkvZw0N0FaT2jV27HRFibOjIr72Dsp2f175kZ542Vpe1f8q2bovcWoWA==;fkJ6mD6K5cYluNS/gzFGNw=="
 ---
 

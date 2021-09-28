@@ -18,35 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Using AI and old reports to understand new medical images"
-    excerpt: "Getting a quick and accurate reading of an X-ray or some other medical images can be vital to a patient's health and might even save a life. Obtaining such an assessment depends on the availability of a skilled radiologist and,"
-    publishedDateTime: 2021-09-27T16:23:00Z
-    webUrl: "https://techxplore.com/news/2021-09-ai-medical-images.html"
-    ampWebUrl: "https://techxplore.com/news/2021-09-ai-medical-images.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-ai-medical-images.amp"
+  - title: "Heidrick & Struggles Partners With Eightfold AI To Develop New Digital Platform"
+    excerpt: "Heidrick & Struggles International, Inc. (NASDAQ:HSII) and Eightfold AI, an AI-driven talent development platform, have partnered to develop a new digital leadership platform inte"
+    publishedDateTime: 2021-09-28T19:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/heidrick-struggles-partners-with-eightfold-ai-to-develop-new-digital-platform-1030829003"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 57
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/using-ai-and-old-repor.jpg"
-        width: 900
-        height: 491
-        isCached: true
-  - title: "Siemens is a global leader in AI when it comes to medical imaging"
-    excerpt: "Siemens has remained a global leader for nearly 20years when it comes to AI patent applications in medical imaging. Let’s see how Siemens healthineers is leveraging AI into a clinical routine in this article."
-    publishedDateTime: 2021-09-24T11:45:00Z
-    webUrl: "https://www.analyticsinsight.net/how-is-siemens-leveraging-ai-into-clinical-routine-to-keep-pace-in-the-market/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Siemens.jpg"
-        width: 900
-        height: 500
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/industrial_pic_690.jpg"
+        width: 1024
+        height: 768
         isCached: true
 
 secured: "QewXjNY2Cc8HGkZclRiMovtCbszFjNS/oScNABZCaPG4ia6rHyO8q0YDv5iPwIulYxhjxdR6gDMMuke4n4T+r8M7b+GArYlG+JM1c2+dEKTj0nd0mauDYslCLTCslkuzwEo9dsQR6nWeaaQexKo03cHLDlF2vgcU7TjepwK/hhqzmEtW3WXxVncIpNyCGRcJvsGx4bBcNjB5t00aef0y/dyVOq+dEXSi4lTtBjqVcK+biPMpf/YXRq38XnEWdj9ETUCHJuAw3O+7ItHTkJVUwH5A6GTSyBAb5PWErqRqqTWzdGDs8GAKb9EpMgyOMzEZk929BVeiIIYXmcyd7XLintjAxRuZWqR7HcO7aTd2HF8=;qU0lGpmI6MTdzpdM723KxQ=="
