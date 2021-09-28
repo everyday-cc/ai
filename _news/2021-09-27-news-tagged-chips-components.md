@@ -1,10 +1,10 @@
 ---
 category: news
 title: "NEWS TAGGED CHIPS + COMPONENTS"
-excerpt: "AI speech recognition algorithm companies in China are crossing into the development of AI chips to further solidify their foothold in the market. Doing so will give the companies... Industry boom and market demand point to a prosperous peak season in the second half of 2021."
+excerpt: "BT substrates for wire-bonding use or memory chips processing are expected to stay in robust demand till at least the first quarter of 2022, and those for processing higher-end handset... With its ability to develop algorithms and independent chips,"
 publishedDateTime: 2021-09-27T07:30:00Z
-originalUrl: "https://www.digitimes.com/tag/chips_+_components/0115.html"
-webUrl: "https://www.digitimes.com/tag/chips_+_components/0115.html"
+originalUrl: "https://www.digitimes.com/tag/chips_+_components/0125.html"
+webUrl: "https://www.digitimes.com/tag/chips_+_components/0125.html"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 280
     isCached: true
 
-secured: "YDFHzsFgsQZxVfMK6EFInW2OlrTK5+bznJIhFcBTQafAKkWEUsMG4Yvje/Nda6IkwvdGGhZ+KLGR7ikDxouqmsRs7kfwIW7EMksYf2AsJ2DToQ/FE4llohg5tNAcjQlVQKL8ek82/C+bZSzLtDSNslhvxWP0hSJvVkY9HIPy1fmQqs5lNsRWnYudPWht4JdPSZBoQQ40Jkj+bw4x8blb+9XdX60GaVgYhKHDZ0LrvoSXKLZLOGFSN+fiqu69OKc1w4Z16EcbxQlXJMIfI0rsqc+kzcJEV74Sz1txIftEHSkiC0zaivflmhFgb3vUzvJkzWc2aALvYLu8XBz9TQMYt8u7Wv7zZPMWUDS35oKsgTY=;onxJBI3CpUmCL1L01WkdWg=="
+secured: "mReV7Dj9vp74dzS9EFTaeM9NBl34USyNhyiZhiyu62VOHQjawIBCxSBLhRe6SS1rBL93lTjRRp0b6DopAsp8rqP25cfb0iwMNFaX2U6Sgc1d+BJ2r6kTltLrUildAcn6F+93MJQsPxmuEV5t0mAHaseXQk9ItD9VFqqT1GhFs7KDawUj3HI7DfnBF+YupOzlpqm1viM41x9nDvAihQDc/Emkgkl6Z/8Tw/cxn2c65BpzFdqixs55otPkM0WNkz7ysqZghH/a41mOoh2gSi5EX3qlyZfuNv8+vohvhcqAeFtYNmx9VRIiIjDIxz7dsaEbmc46nlhJWuhO9ZrDUKhHLMlFHOaloRlNVHQ13BJjSYs=;FgnLqHgw2Tz+2EydONpxEw=="
 ---
 

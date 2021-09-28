@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence may be set to reveal climate-change tipping points"
-    excerpt: "Researchers are developing artificial intelligence that could assess climate change tipping points. The deep learning algorithm could act as an early warning system against runaway climate change."
-    publishedDateTime: 2021-09-23T07:32:00Z
-    webUrl: "https://phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.html"
-    ampWebUrl: "https://phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/climate-change.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
   - title: "Artificial intelligence could reveal climate change's tipping points, act like early warning system"
     excerpt: "Researchers are creating an artificial intelligence that could act as an 'early warning system' against runway climate change, according to a newly published study."
     publishedDateTime: 2021-09-23T20:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itproportal.com/amp/features/the-impact-of-conversationa
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/the-impact-of-conversational-ai-on-critical-services/"
 type: article
 quality: 59
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/3/1/7/1354317_amir_474952.jpg"
         width: 1024
         height: 536
+        isCached: true
+  - title: "Imagining the future of artificial intelligence and its potential impact"
+    excerpt: "ABC News' Linsey Davis speaks with former president of Google China, and bestselling author Kai-Fu Lee on his new book, \"AI 2041: Ten Visions for Our Future.\""
+    publishedDateTime: 2021-09-28T01:42:00Z
+    webUrl: "https://abcnews.go.com/US/video/imagining-future-artificial-intelligence-potential-impact-80270401"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 36
+    images:
+      - url: "https://s.abcnews.com/images/US/210927_abcnl_prime_lee_hpMain_16x9_608.jpg"
+        width: 608
+        height: 342
         isCached: true
   - title: "A Quick-Start Guide for Agencies Looking to Deploy Mission-Critical Services Using AI"
     excerpt: "Artificial intelligence can help agencies better serve their constituents in a medley of ways, ranging from increasing citizen safety to helping first responders during environmental disasters."

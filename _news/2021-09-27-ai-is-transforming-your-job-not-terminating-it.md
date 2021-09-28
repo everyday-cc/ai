@@ -24,19 +24,60 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence (AI) is Transforming Mobile Technology?"
-    excerpt: "Get Sample PDF Brochure@  Recently Artificial Intelligence (AI) and Machine Learning (ML) has created a huge impact on human interaction with machines and devices. Whether it is any type of industry ranging from travel,"
-    publishedDateTime: 2021-09-25T18:55:00Z
-    webUrl: "https://www.xing.com/communities/posts/how-artificial-intelligence-ai-is-transforming-mobile-technology-1018689842"
+  - title: "Vendor Management Is The New Customer Management, And AI Is Transforming The Sector Already"
+    excerpt: "Sourcing and vendor management are more complex than ever, as companies move into emerging fields and leverage third-party suppliers to provide what cannot be internally produced. Vendors play long-term and essential roles in businesses."
+    publishedDateTime: 2021-09-26T23:55:00Z
+    webUrl: "https://www.forbes.com/sites/anniebrown/2021/09/26/vendor-management-is-the-new-customer-management-and-ai-is-transforming-the-sector-already/"
+    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/09/26/vendor-management-is-the-new-customer-management-and-ai-is-transforming-the-sector-already/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/26/vendor-management-is-the-new-customer-management-and-ai-is-transforming-the-sector-already/amp/"
     type: article
     provider:
-      name: XING
-      domain: xing.com
-    quality: 52
+      name: Forbes
+      domain: forbes.com
+    quality: 77
     images:
-      - url: "https://swobj.xingassets.com/v1/communities/public-production/content_images/images/005/472/980/main/Mobile_Artificial_Intelligence_%28AI%29_Market.png?temp_url_sig=aa5c580351e876c82cef9d4c5d3910b893376aac&temp_url_expires=1632642870"
-        width: 475
-        height: 238
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6151081fe5f90b68e8c672ff%2F0x0.jpg"
+        width: 720
+        height: 480
+        isCached: true
+  - title: "Are Governments Ready For Artificial Intelligence? Role of AI in the Public Sector Post Pandemic"
+    excerpt: "Artificial intelligence (AI) can do much more than enhance government processes. If applied right, it can deliver better outcomes for citizens post pandemic."
+    publishedDateTime: 2021-09-23T10:39:00Z
+    webUrl: "https://www.bbntimes.com/society/are-governments-ready-for-artificial-intelligence-role-of-ai-in-the-public-sector-post-pandemic"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 41
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Are_Governments_Ready_For_Artificial_Intelligence__Role_of_AI_in_the_Public_Sector_Post_Pandemic.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "How AI Is Transforming The Software Development Process"
+    excerpt: "There are several ways artificial intelligence (AI) is transforming the software development process. According to recent reports, the worldwide artificial intelligence market is projected to reach over $340 billion this year."
+    publishedDateTime: 2021-09-24T14:41:00Z
+    webUrl: "https://www.techzone360.com/topics/techzone/articles/2021/09/24/450084-how-ai-transforming-software-development-process.htm"
+    ampWebUrl: "http://www.techzone360.com/topics/techzone/articles/2021/09/24/450084-how-ai-transforming-software-development-process.htm/amp"
+    cdnAmpWebUrl: "https://www-techzone360-com.cdn.ampproject.org/c/www.techzone360.com/topics/techzone/articles/2021/09/24/450084-how-ai-transforming-software-development-process.htm/amp"
+    type: article
+    provider:
+      name: Tech Zone 360
+      domain: techzone360.com
+    quality: 37
+  - title: "9. AI Is the Friend You Didn’t Know You Already Made"
+    excerpt: "Artificial intelligence (AI) is more than just a buzzword. AI is powering many of the systems and apps we use every day. But what do lawyers think of it? The attitudes fall into two groups. One group really understands what AI is and believes it has a key ..."
+    publishedDateTime: 2021-09-24T17:09:00Z
+    webUrl: "https://www.law.com/lean-adviser/2021/09/24/9-ai-is-the-friend-you-didnt-know-you-already-made/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/419/2021/09/terminator2.jpg"
+        width: 620
+        height: 349
         isCached: true
 
 secured: "96YjkfyHraFBrIvOyNvet2RGT9D993AVs9GNMs3NUR9R9xDzwhJ9F9LCt15Ufpl5lo3YJTYBmXi56iqCwB1CLrUd4iVNyNhOblXI8j07L2uXtY13WWlR3XrydWAE6QV5zB5lX+NLR5HAX27IF2gbCixVnNZLn4dwBM+duA1ixBZZmQ8GtbupdvyRJrn909J+5iFcwAomI9FTfVfXF6rmbQ5Ewxoogw7ssVKUDqydbLycp8am43TQQhLaujANPuEMCj4y/qdPNcPgmyl52a35RaIhlivWbWig7R9ekZqMFdAPvoTOsC8ClP6Jj3XZmdxNRXqY/Mw24hgs5JcAyCNrZzZzQ2s5XYV3d/on+vgjukw=;tJlYUQU+qCldtN6Z4apjBg=="

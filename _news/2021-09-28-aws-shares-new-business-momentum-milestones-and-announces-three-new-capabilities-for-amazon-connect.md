@@ -53,6 +53,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "AWS adds new updates to Amazon Connect"
+    excerpt: "Amazon Web Services updates new capabilities for Amazon Connect to improve contact centre agent productivity and provide more effective, personal, and natural customer interactions. AWS shares that the new features are designed to give agents the right information at the right time to answer"
+    publishedDateTime: 2021-09-27T22:48:00Z
+    webUrl: "https://itwire.com/business-it/aws-adds-new-updates-to-amazon-connect.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 19
 
 secured: "SeR2AgG63GKpfBjuO+p/0aYk3GUIso+x+pRditt24trrcvWhGS94R1nKuBwLNWvnfUxuA0GcjSVC0Lkha4SbXf9ILRMhmKEv/JO+LVrscT6laftWCRG0BHgIIfz/ABY1Tv7cmMFmlvbDBMHGUemQyVPU2ePpfmGixtpXQYZc0VbGvdqel7r0Wek3CGKI9AyDZRL+2cWxIqw4Nz7CE8Hzrs0C2TzIius27Tj1onU+AdaVzuVnVCMw26ZFNyeRq6Jt4lYuyuxIWYtK44hCSJqDNW4idCb0W47rymTwVscbOHcGtKHbfVKV04WDEMrV4Op1qCNxJGfLLiKzonR83iLMtHV7iV5CGmkKJoqh85pgx1I=;P3UFJbQwo97MHEymSc/Xtw=="
 ---

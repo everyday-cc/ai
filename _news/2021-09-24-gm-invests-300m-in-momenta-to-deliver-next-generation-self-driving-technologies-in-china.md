@@ -7,7 +7,7 @@ originalUrl: "https://www.greencarcongress.com/2021/09/20210924-momenta.html"
 webUrl: "https://media.gm.com/media/cn/en/gm/news.detail.html/content/Pages/news/cn/en/2021/Sept/0923-gm.html"
 type: article
 quality: 115
-heat: 285
+heat: 275
 published: true
 
 provider:
@@ -174,20 +174,6 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/tesla-eyes-samsung-to-produce-its-next-generation-self-driving-auto-chips-170200_1.jpg"
         width: 1240
         height: 620
-        isCached: true
-  - title: "General Motors to invest $300m in Chinese self-driving start-up Momenta"
-    excerpt: "Four year old unicorn Momenta has also been funded by SAIC Motors, Toyota and Bosch in the past and closed a $500m round in March."
-    publishedDateTime: 2021-09-23T08:55:00Z
-    webUrl: "https://www.siliconrepublic.com/business/general-motors-to-invest-300m-in-chinese-self-driving-start-up-momenta"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 24
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/09/GMLogoRenCenBuilding.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "GM invests $300M in China’s self-driving car company Momenta"
     excerpt: "General Motors is investing $300 million in China's self-driving car company Momenta. GM said Thursday that the investment will speed up the development of next-generation self-driving technologies in China."

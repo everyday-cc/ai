@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10021757/amp/Artific
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10021757/amp/Artificial-intelligence-reveal-climate-changes-tipping-points-act-like-early-warning-system.html"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence may be set to reveal climate-change tipping points"
-    excerpt: "Researchers are developing artificial intelligence that could assess climate change tipping points. The deep learning algorithm could act as an early warning system against runaway climate change."
-    publishedDateTime: 2021-09-23T07:32:00Z
-    webUrl: "https://phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.html"
-    ampWebUrl: "https://phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-09-artificial-intelligence-reveal-climate-change.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/climate-change.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
   - title: "New AI Could Reveal Climate-Change Tipping Points"
     excerpt: "Researchers at the University of Waterloo are developing a new artificial intelligence (AI) that could act as an early warning system against climate change tipping points. The new research is focused on thresholds beyond which rapid or irreversible change happens in a system."
     publishedDateTime: 2021-09-27T00:19:00Z

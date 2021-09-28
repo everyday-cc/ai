@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-09-14-deepmind-introduces-reinforcement-learning-lecture-series-2021-heres-what-you-can-learn.md",
+      "title": "DeepMind Introduces Reinforcement Learning Lecture Series 2021, Here’s What You Can Learn",
+      "excerpt": "The series comprises 13 lectures covering the fundamentals of reinforcement learning and planning in sequential decision problems.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/deepmind-introduces-reinforcement-learning-lecture-series-2021-heres-what-you-can-learn/",
+      "originalUrl": "https://analyticsindiamag.com/deepmind-introduces-reinforcement-learning-lecture-series-2021-heres-what-you-can-learn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/09/DeepMind-Reinforcement-Learning-Lecture-Series-2021.jpg",
+          "width": 2240,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T21:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-its-best-to-wait-on-baidu-stock-in-light-of-chinas-crackdown.md",
       "title": "It’s Best to Wait on Baidu Stock in Light of China’s Crackdown",
       "excerpt": "I’m cautious on the name mainly because I believe that it could easily become a target for China’s zealous tech regulators. For BIDU stock, it’s a very good sign that Baidu has apparently ...",
@@ -1049,49 +1092,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-13-ai-powered-automation-and-aiops-in-focus-at-ibm-virtual-event.md",
-      "title": "AI-powered automation and AIOps in focus at IBM virtual event",
-      "excerpt": "AI-enabled automation is crucial for supporting ... and organic R&D including the launch of Cloud Pak for Watson AIOps and IBM Watson Orchestrate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/j5alr7QaOd97pYQk",
-      "originalUrl": "https://www.itweb.co.za/content/j5alr7QaOd97pYQk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/9A_uES3Vz33Mxpb3uct57ZbpXw1ba3GWA0adxPiqwDmb3RoQdF7D2H-MC-xc7B8l9i9sMK8li-uctJjjPqBeEQ=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/j5alr7QaOd97pYQk",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/j5alr7QaOd97pYQk",
-      "publishedDateTime": "2021-09-13T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

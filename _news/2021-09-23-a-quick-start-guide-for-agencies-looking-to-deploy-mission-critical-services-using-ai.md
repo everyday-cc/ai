@@ -54,6 +54,20 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "Imagining the future of artificial intelligence and its potential impact"
+    excerpt: "ABC News' Linsey Davis speaks with former president of Google China, and bestselling author Kai-Fu Lee on his new book, \"AI 2041: Ten Visions for Our Future.\""
+    publishedDateTime: 2021-09-28T01:42:00Z
+    webUrl: "https://abcnews.go.com/US/video/imagining-future-artificial-intelligence-potential-impact-80270401"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 36
+    images:
+      - url: "https://s.abcnews.com/images/US/210927_abcnl_prime_lee_hpMain_16x9_608.jpg"
+        width: 608
+        height: 342
+        isCached: true
 
 secured: "PGmqsAYtrTG4AvJY9I76Q/jwgIo1CA+worCBkG9V8NSeU7s3nMs0HdEMgIL2t81U2LUfYjQkq1mM1ZBj0+AxR3r+Ph1IdJHdIPhnXNqBKy6m+v7hwoR5R0vO+q+3N4WqyQzAhwun4s/B9HicjMZaxmacmiH+gwtCn8LiGPP7UqR6lSg4y4PdmzF18LmVmZlKObhKyZYkYelphgaRorh4DkM8KAjnVvyIWQRC88l90JUQUXH1gx9NQONcMsL6k8I9SZjK1hwZysmB+e3q6wzqeHCoCV0Q58pnpUzanBvJhzbFrsl0OVqfsyjkUOhj3rqAo/abzJXhqCO/Ar79Gd02+/VuUs7Xl28T0uu/Nzw6bIW544SBpgqJa1duhMDQV/tigtg67QZ8inLGozf5hS3BytU4j0kZIHUDOoHetMpC1UMd1qf5gLVTTFq2RZo79qOKDCwpE08b6BeXYDLzI4CWodUK9VRnIO6umb9XnLi0Y13zJu0aTHCo6DwzKcxUhlmRgBlbBuZ9dLC+WAZIm1Ne4A==;VJrUr5JoSZbYgOHIkwgzHg=="
 ---
