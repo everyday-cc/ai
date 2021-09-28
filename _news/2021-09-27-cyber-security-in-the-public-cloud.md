@@ -48,22 +48,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Artificial Intelligence: The Future Of Cybersecurity?"
-    excerpt: "Cybersecurity in Industry 4.0 cannot be tackled in the same way as that of traditional computing environments. The number of devices and associated challenges are far too many."
-    publishedDateTime: 2021-09-23T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/23/artificial-intelligence-the-future-of-cybersecurity/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/23/artificial-intelligence-the-future-of-cybersecurity/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/09/23/artificial-intelligence-the-future-of-cybersecurity/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614b856b91e7d8da240c0d2e%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "wTY3iBraj5lxciLbcPNnOJLxt1WC/Qap2GOUK3cJEsw1Htvdx3DJjaZXAf2eiiMeQmmBEJ3Tgb2hqV0qKm8HPfo3T/1VZZLvGezcJ4py8VcdmPUja6C4jswJ1g/s4RdNBV5ZLtQ5h1+u08o6EBnW6En7B6j+YR9tNKLDeQvsDZejh19sR3cS6Fa1VlbzyS2v+MuSEuHKmW9xEwkXf9uXFZZI21mvXFAGuVkYqfs0fAyda++qOadaT2O/b1Rreqip7VU3iMB8oP/SJDZ/EsZS3oE2+n5WaRJXh+EiMGNXgQDvHv6K3wsOYL1DIPfdYb4QDm3utDdgaqa7on5rha8thd6G+bLrJt7xPjAw7Heuay4XAaKoX90auDD/FLXf9JRZ0LWiy77cwMzGaq8XbTxlc3w2f3mjJBX5jTPBeJsrTuJY4KvVTZu4Dovv9vsKIj9DbZdFv1VpS2kVlm3f0OuDI0DwZCu1KjFyCZKQEHf+1ZGCNH+2S0Cq96TcC2wDtIBHp47XRaqNBi9w4LzGbWoYMQ==;W/BQy1R0e9ZW2HwUMpAczg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news18.com/amp/news/education-career/iit-roorkee-to-offe
 cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iit-roorkee-to-offer-degrees-in-data-science-artificial-intelligence-sets-up-new-school-4255271.html"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "IIT Roorkee establishes Mehta Family School of Data Science and Artificial Intelligence"
+    excerpt: "IIT Roorkee collaborates with the Mehta Family Foundation, USA to establish a school of data science and artificial intelligence. The Mehta Family School is established with a vision to"
+    publishedDateTime: 2021-09-28T07:06:00Z
+    webUrl: "https://www.dqindia.com/iit-roorkee-establishes-mehta-family-school-of-data-science-and-artificial-intelligence/"
+    ampWebUrl: "https://www.dqindia.com/iit-roorkee-establishes-mehta-family-school-of-data-science-and-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-roorkee-establishes-mehta-family-school-of-data-science-and-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 49
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2020/12/data-science_opt.jpg"
+        width: 850
+        height: 454
+        isCached: true
   - title: "IIT Roorkee Launches A New School for Data Science and Artificial Intelligence"
     excerpt: "A global expert panel will help the School exchange expertise, with the goal of developing new data scientists and AI professionals."
     publishedDateTime: 2021-09-28T05:38:00Z

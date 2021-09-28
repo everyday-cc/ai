@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-09-artificial-intelligence-tool-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-artificial-intelligence-tool-accuracy-breast.amp"
 type: article
 quality: 57
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -53,6 +53,34 @@ related:
     quality: 39
     images:
       - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_09_24_15_57_9400_2021_09_24_ai_breast_ultrasound_clinical_image_social.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence System Improves Breast Cancer Detection"
+    excerpt: "Researchers develop artificial intelligence (AI) system that achieves radiologist-level accuracy in identifying breast cancer in ultrasound images."
+    publishedDateTime: 2021-09-27T12:00:00Z
+    webUrl: "https://www.genengnews.com/news/artificial-intelligence-system-improves-breast-cancer-detection/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 39
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2018/08/June4_2014_21425225_BreastCancerBlackWhiteIllustration_ProteinBreastCancerSpread2311152102.jpg"
+        width: 500
+        height: 305
+        isCached: true
+  - title: "AI tool increases radiologists’ accuracy at spotting breast cancer on ultrasound scans by 37%"
+    excerpt: "An artificial intelligence tool is helping increase radiologists’ ability to correctly spot breast cancer on ultrasound by 37% while also dropping the number of biopsies and false positives. Researchers hope AI can alleviate these concerns while broadening access."
+    publishedDateTime: 2021-09-28T06:04:00Z
+    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/artificial-intelligence-ai-nyu-langone-breast-cancer"
+    type: article
+    provider:
+      name: Radiology Business
+      domain: radiologybusiness.com
+    quality: 26
+    images:
+      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2021-03/istock-695955360.jpg?h=9d96f97f&itok=LObO_P6U"
         width: 1200
         height: 630
         isCached: true

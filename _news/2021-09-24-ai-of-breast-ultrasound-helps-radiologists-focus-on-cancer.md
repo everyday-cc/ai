@@ -57,6 +57,34 @@ related:
         width: 777
         height: 518
         isCached: true
+  - title: "Artificial Intelligence System Improves Breast Cancer Detection"
+    excerpt: "Researchers develop artificial intelligence (AI) system that achieves radiologist-level accuracy in identifying breast cancer in ultrasound images."
+    publishedDateTime: 2021-09-27T12:00:00Z
+    webUrl: "https://www.genengnews.com/news/artificial-intelligence-system-improves-breast-cancer-detection/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 39
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2018/08/June4_2014_21425225_BreastCancerBlackWhiteIllustration_ProteinBreastCancerSpread2311152102.jpg"
+        width: 500
+        height: 305
+        isCached: true
+  - title: "AI tool increases radiologists’ accuracy at spotting breast cancer on ultrasound scans by 37%"
+    excerpt: "An artificial intelligence tool is helping increase radiologists’ ability to correctly spot breast cancer on ultrasound by 37% while also dropping the number of biopsies and false positives. Researchers hope AI can alleviate these concerns while broadening access."
+    publishedDateTime: 2021-09-28T06:04:00Z
+    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/artificial-intelligence-ai-nyu-langone-breast-cancer"
+    type: article
+    provider:
+      name: Radiology Business
+      domain: radiologybusiness.com
+    quality: 26
+    images:
+      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2021-03/istock-695955360.jpg?h=9d96f97f&itok=LObO_P6U"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "rJb7ohwwMCS32o4l8tsAnjP+73/2CRPDiAkEp6mUX0LjbZim0kV13LG9htIx8D5DimdspXNMe2fJYmls/7bf7hqSa2VARIMNSMCPAkp/2DrHbXOe4d2CIkPlfQEwK5UomsPOb4zSOW1oTWmv3qMuuaruCkl26rbE9hDNhUIS7bG0UVZcLUC1K4i+7D7GGgMLR6zka4QC/2GFLDbjiC89wT/aE40bFW2enk/mucRhVPoaq7GMSd72N1rDpW7w4dwZ/a8nMs1DQpQlLwR46DVnOBIdFe0oPQ9eIW2BKkGEnuzWDub5SiM0h2G5kw04twZ3J0gDPGiyJ++RoeK7BSaAK1hYLlOj6RoKNoTzyeH/dEE=;IlULyyqbq54hDFWSFj6+Vw=="
 ---

@@ -2,17 +2,17 @@
 category: news
 title: "Comparing AWS, Microsoft and Google Cloud: Cyber security in the public cloud"
 excerpt: "A brief guide to the network, infrastructure, data and app security capabilities AWS, Microsoft Azure and Google Cloud provide to prevent cyber attacks."
-publishedDateTime: 2021-09-28T04:56:00Z
-originalUrl: "https://www.reseller.co.nz/article/691588/comparing-aws-microsoft-google-cloud-cyber-security-public-cloud/?fpid=1"
-webUrl: "https://www.reseller.co.nz/article/691588/comparing-aws-microsoft-google-cloud-cyber-security-public-cloud/?fpid=1"
+publishedDateTime: 2021-09-28T07:06:00Z
+originalUrl: "https://www.arnnet.com.au/article/691588/comparing-aws-microsoft-google-cloud-cyber-security-public-cloud/?fp=2&fpid=1"
+webUrl: "https://www.arnnet.com.au/article/691588/comparing-aws-microsoft-google-cloud-cyber-security-public-cloud/?fp=2&fpid=1"
 type: article
 quality: 70
-heat: 90
+heat: 100
 published: true
 
 provider:
-  name: Reseller News
-  domain: reseller.co.nz
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - AWS AI
@@ -21,7 +21,7 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/aws_microsoft_google_updated_2.jpg"
+  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/aws_microsoft_google_updated_2.jpg"
     width: 504
     height: 315
     isCached: true
@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google And Microsoft Are Creating A Monopoly On Coding In Plain Language"
+    excerpt: "Sometimes major shifts happen virtually unnoticed. On May 5, IBM announced Project CodeNet to very little media or academic attention."
+    publishedDateTime: 2021-09-28T06:17:00Z
+    webUrl: "https://www.techfinancials.co.za/2021/09/28/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language/"
+    type: article
+    provider:
+      name: techfinancials
+      domain: techfinancials.co.za
+    quality: 55
+    images:
+      - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2020/08/christopher-gower-m_HRfLhgABo-unsplash-scaled.jpg"
+        width: 2560
+        height: 1704
+        isCached: true
   - title: "Why Wells Fargo picked both Microsoft Azure and Google Cloud"
     excerpt: "The bank wanted to diversify its risk and use different cloud-computing services for routine and unpredictable workloads, explains Saul Van Beurden, the head of technology at Wells."
     publishedDateTime: 2021-09-24T16:18:00Z
@@ -56,6 +70,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Nxk7bLzCm4AVHBgFgv6MBUidiv5mdexQaof5mrmKPNHuITA84zZJY4xQPsIIce9/WcuIgKjdChDR49486VnHuRs7fjNcZOxK633xTf+OO4/mAcPbwiC/bLikC4l5ZA5Qd+LuodFqc5cioyxWHRH7XinlUUIslSwWN6KVQImPzQ8n2Feq5Z7FqLfhZzFwUSwAPRL6HvC2Y1H3QH8F+nmSwZwArGf6r0gvvLhji1J8g59LawCiEG6ekg4bqI7B3GoqwF89arZaIK2kta5dgC6pWaXn0BeqywGH53xWJts4VKWrpjfodq/e4jLZ18jXe8RLFsB452neZ7pzp1zkU7G9QEDFcz6F8hxol5Ra8o9OB7I=;rBB9XSL78KbqqdPiFle65A=="
+secured: "6sMFxGF0EMB7zeT16kd2xd93ew6XMBmC9g97Z/dhQBtPkgagnLxEeyp76oy5IuSM3dU39knzKUNjxGPeoWgzUXN6v6w8OAP9UY196OU7xGM0R/JRl8z3aBkMtRsebSs4S4OmSu4WMMcROqfecq6U2fBX6yszRmI83RjGposbnvzqbB73tI2Hc0EOcP1qdWuTJfNauSPGXyJBLtGZHSEpUVxPfQbrg7bciKa7yl8z33e2gCTK/kzRFVGvIouR28T7BEEi5+bKdH9dW1uyDsVtCB1shqgBArv+FiYAUHp3AONUn3vhz/L3olYEK4HRzSVyXHsCAiFOnYI1OYMcD8RzgGFP0HO2nH757DGrmVR4mIA=;58bajHEpGQSm7CVcmayTIg=="
 ---
 

@@ -81,15 +81,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "DeepTarget's Digital Experience Platform and 3D StoryTeller Recognized As A Finalist in Fintech Future's Banking Tech Awards 2021"
-    excerpt: "DeepTarget Inc., a solution provider that utilizes data mining and business intelligence to deliver targeted engagements across digital channels for financial institutions, today announced its Digital Experience Platform and 3D StoryTeller™ were selected as finalists in the \"Best Smart Banking Tech Solution\" category of the Banking Tech Awards 2021,"
-    publishedDateTime: 2021-09-23T14:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-deeptargets-digital-experience-platform-3d-storyteller-recognized-as-/2021/09/23/9455492.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "yRUM2sFPvRYLvVLpU81zHcz2Kkx8FQKEEWGitFVZIGeoCdrN9pdO9JrvzeBGthVfThhXYOrWoP2qZu4uofEeSrR+fgtze3N3Xeh0engnyvXpmjgt3XoFhJHdNWzvLKiWxC3uE9CmXcrCAXDJaIw4/21ihzcYAhHlzMsjHvrdom655q8UwpyHDPwZFwtyF5e4DSC35RPQlR6gaeMRY1t2/BAcD+dIetnZmOctWAe5l8ntNvqU7nFtaSLG9bpwoffwxKi4w81P7xOYv68y1RuoauVaKzsKMfgr/7TGsr7RtoRsGl6SsEOZNuJ2cAtwYLcTK+vx8ENfCNpqKSLQOd/3oItOpHMQWYrELpH2v9fObL4=;JKkagerWU3Usrye15qIb+g=="
 ---

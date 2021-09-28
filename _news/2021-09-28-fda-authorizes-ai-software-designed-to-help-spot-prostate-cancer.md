@@ -3,8 +3,8 @@ category: news
 title: "FDA Authorizes AI Software Designed to Help Spot Prostate Cancer"
 excerpt: "U.S. health regulators last week authorized the use of the first artificial-intelligence tool designed to help doctors diagnose prostate cancer."
 publishedDateTime: 2021-09-27T21:11:00Z
-originalUrl: "https://www.wsj.com/articles/fda-authorizes-ai-software-designed-to-help-spot-prostate-cancer-11632780683"
-webUrl: "https://www.wsj.com/articles/fda-authorizes-ai-software-designed-to-help-spot-prostate-cancer-11632780683"
+originalUrl: "https://www.wsj.com/articles/fda-authorizes-ai-software-designed-to-help-spot-prostate-cancer-11632780683?mod=tech_lead_pos12"
+webUrl: "https://www.wsj.com/articles/fda-authorizes-ai-software-designed-to-help-spot-prostate-cancer-11632780683?mod=tech_lead_pos12"
 type: article
 quality: 67
 heat: 77
@@ -45,6 +45,6 @@ related:
         height: 399
         isCached: true
 
-secured: "Rm8Fze3LF0LlsMoPjusXylKgricutl2QEpdHHY2tDeXmFMGgAHethKfg/uVzcxJcp5chmbi3Q5A1WtOhskaphXCJk88GvE1U/5Nvp4cOHlkLE5Y6SegItG8nTztmgSzGzfxg5s4MDqC1I/lJ8kxGFWcLJTIrVHtLNJcJjEXLT17a5XLERNycAkiKoPBpAoxcC4wlM1qtCKmI8A5HBTQaqlhcoubJ5HFpVpmJDvSzf+dKLPDncg57e2NzmcDcqqJqu5obDnpezKfNjqmeqFge00dOqDMFyFNETqSes4l7tu7PBGbGSD4C7UrJ1eYccrZldNkd+0owRpbVZ/tz49fHcLuaNvxy8fkdLrvwff7181M=;+kKjGStMycs+z58iRdHtwA=="
+secured: "PSte9UFleCkhrf36zAaKFvr6pMcZPa6UKIguU6izk/WNJArI/5HQO1d3fv5Xc8J4MvbpfvmMtO/W8AmdzQWOEqrH4SCNHowDZkY28bkD1ODeMI8KgKhlPFkubZP/jLotZMnstfBDGxh5qvMbcgW/RSSw5hVK46ni6tT2Q3XUqm0jlp+f0nUNH8vPc0Z6BD33nmW1TKrXUncHxYcdmmz3LR2aiD0sE+7e8DHbPWgxzBRskfmN9YEcAtdTulggL40wywtfGR0e7kq2OhnilDN72sqlS6Qidce8cN+GpjHhGXPCE0s1CHdrMKGaqpfBOKn2fzCaTD9dJN1EZrekZekYAQSGv4AdX8vjkKNtRxnJW0Q=;ytpQvBDQJ72yUtgPPyP75A=="
 ---
 

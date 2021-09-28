@@ -36,6 +36,20 @@ related:
       name: Radio Free Europe/Radio Liberty
       domain: rferl.org
     quality: 24
+  - title: "Beijing Cautiously Backs Taliban's Hopes Of International Recognition In Afghanistan"
+    excerpt: "China has emerged as a pragmatic backer of the Taliban’s nascent rule and pushing to get the group more political and economic support."
+    publishedDateTime: 2021-09-27T16:31:00Z
+    webUrl: "https://gandhara.rferl.org/a/china-taliban-support/31480715.html"
+    type: article
+    provider:
+      name: Radio Free Europe/Radio Liberty
+      domain: rferl.org
+    quality: 17
+    images:
+      - url: "https://gdb.rferl.org/b6c7d6f9-176a-4c14-9790-f061ec738dcf_cx0_cy10_cw0_w1200_r1.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "6gofYArSkvGilbBsae/PtY8/Sv5R3kYtDVf1j6zI38WQOqtLaPy1xgZmUvILIegjn8d/V1mRCpRyaLqS1QlpcKkZLk/tMhN/EDl2s9QhlQtVFZPkBNI5gklVFPPZzxsdfka4VMDsu3iTKRadI3+gl6P8uYJYs/FfXquRTz7cWo3KfootI3xTHsdOpd4LounrdXa2a6ErQYwE/ujgnHvAxxbdi6AK0InuM8iL6ezx+6g39rFQAS/PSUcTQXVS+CcV58pl3utcQe49uRm5fL9AIOk8QS2Xp4e9AP8sfNOXrbf2zoR/8BzN8fMtH7ZluECtGK8KEpIP3ijF1rIy7d4J9EsGQQYm6N38dhBtYv//ZzQ=;CTb91JlRXGl9FYpFJb9M+g=="
 ---

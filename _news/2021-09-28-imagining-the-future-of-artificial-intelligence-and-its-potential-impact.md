@@ -54,20 +54,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "A Quick-Start Guide for Agencies Looking to Deploy Mission-Critical Services Using AI"
-    excerpt: "Artificial intelligence can help agencies better serve their constituents in a medley of ways, ranging from increasing citizen safety to helping first responders during environmental disasters."
-    publishedDateTime: 2021-09-23T15:00:00Z
-    webUrl: "https://www.nextgov.com/sponsors/2021/09/quick-start-guide-agencies-looking-deploy-mission-critical-services-using-ai/185464/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 30
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/09/20/iStock_1003122870_1/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "SukvCMBRsJWiPmieEfW7Mb1E6eiPcy/nNY7pA7EcOLrgEoeyBqv18Q7EfUTavbjKD3CPzRfZJocFfJbysKxlIfCvrk0Y7khNtBY5F1HhWPt2FbRs4CIrgXFWL8NQKYlCaYWJzxhavCkaKYylPZi+wJsnXeunayWApIfLIKSousZigsltKC4qY3EGZJm9Vk4MDlIEG+zEDXiVRn5HsyDUwq4dg9PnpxT2dgTuf2EnF/rLaaglz6g6G5wNSi6PwPORYXF4HJHB/im25b4a4j35Co1ErO+6AZ1RyGM+reuRmhikSNGy+uPeGKd044mVhXzfjJ/2FcwttvS1Ued1cmJfyFcTKcFriylstVk/JkM3M/kk9/gv7xG1VOed7kViAGtOJjE53aLIKKad6ZO/h576OCNqvMfadzOmWlGg1921EVQiPBZ40FnrM3FdXhTqNyEY3TCQBUMchz2rvwEiM4vJT1+gMntYHfaSaK/r5xDCOOqzylu+eIeUqfY170B8nbf4QIceW+8w6fRIRmdubdHG3Q==;azNk0bJZTTei11A47dIxgQ=="
 ---

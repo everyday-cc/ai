@@ -3,8 +3,8 @@ category: news
 title: "AI Adoption Skyrocketed Over the Last 18 Months"
 excerpt: "Digital innovation spurred by Covid-19 has put AI and analytics at the center of business operations. AI and analytics are boosting productivity, delivering new products and services, accentuating corporate values,"
 publishedDateTime: 2021-09-27T12:15:00Z
-originalUrl: "https://hbr.org/2021/09/ai-adoption-skyrocketed-over-the-last-18-months"
-webUrl: "https://hbr.org/2021/09/ai-adoption-skyrocketed-over-the-last-18-months"
+originalUrl: "https://hbr.org/2021/09/ai-adoption-skyrocketed-over-the-last-18-months?ab=hero-subleft-1"
+webUrl: "https://hbr.org/2021/09/ai-adoption-skyrocketed-over-the-last-18-months?ab=hero-subleft-1"
 ampWebUrl: "https://hbr.org/amp/2021/09/ai-adoption-skyrocketed-over-the-last-18-months"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/ai-adoption-skyrocketed-over-the-last-18-months"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 675
     isCached: true
 
-secured: "FJvhDIJirhPonB8lKReTT7NozNi9WeojCQN1QIfPk1FxNATC7cO7k7j71OsQ8mDEJ+cvxIeb2rZblOym/VRsewmS9kvwDukgtKzVfD+XcFya08PflzwYFSrxd8R547oigVYGjINVsMPrj7Q0Pj9D5YV/msxuNf0nPMHrQpnP0lYjn9fj2tsnObIoMZWyNvTEungBwwA2B2ywaY4ZKYG+IpjDcVWiKpUIMdQH9bxzryvSUW44kfPSbgl8M3Ax6MDM8FpaMlTCOGCZRT6pAz1rADMmip7d35GnhJP0JPrSv31Bj81EJrPiqjVNmyHK4n6PYGAyL6W22UdCIJzqkb8tT+gnmvfD4AQhpoBmsHWSnsD5i5TsiHvjzHACLq3M8icaGZ3ybgKUAIUSAr+T/WoA/EVm+Ibh5Ac43aEIExld5jr0QcQCl83xNfqEKGE81YYWi2J1LLAJrh0QhSN2BPdili0y9DsswMyNLXw8AzIDtq7tcZXwguaxMVzL2PG2UXf7nHgwdUnvIltKF0fMB0XqPw==;NAm/VspfqNP1AJf90x5CJA=="
+secured: "F5Huv1QfJt/Z6W0skHv9vru8t4xIirQ36oHhGV8AtIVmmHaVq3+LID5M4IVepjU1bqdgkNnWYWp6JspWB90XdE9lKfEvhhlD9zh0eIaRP7BJXI5B+5rptMJG8EFz7agWGtAIcd1PsqwGb6h0601/kMLkAxl+YWnkwlJ5jm476htKPzcP5lNZFeSxQLY9LNckm4vTV66JjW4/qFWQjHewS0C1pOgx4kR6zFriyJNnpQznl9x5Gw7VjPIBbX+d4MqlD9vqz9OASlQPmtWm+DDXC4CGA1zgeJqqTnkXCBF8crm0Ww5qnDO3JYLan70rN3od0we9KZ3e44AznGRkJ7fiTk86GOblD1UPwzID7A0bfvo=;K0GiP/3y8WtrO1uG3fTA8Q=="
 ---
 

@@ -56,6 +56,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence System Improves Breast Cancer Detection"
+    excerpt: "Researchers develop artificial intelligence (AI) system that achieves radiologist-level accuracy in identifying breast cancer in ultrasound images."
+    publishedDateTime: 2021-09-27T12:00:00Z
+    webUrl: "https://www.genengnews.com/news/artificial-intelligence-system-improves-breast-cancer-detection/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 39
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2018/08/June4_2014_21425225_BreastCancerBlackWhiteIllustration_ProteinBreastCancerSpread2311152102.jpg"
+        width: 500
+        height: 305
+        isCached: true
+  - title: "AI tool increases radiologists’ accuracy at spotting breast cancer on ultrasound scans by 37%"
+    excerpt: "An artificial intelligence tool is helping increase radiologists’ ability to correctly spot breast cancer on ultrasound by 37% while also dropping the number of biopsies and false positives. Researchers hope AI can alleviate these concerns while broadening access."
+    publishedDateTime: 2021-09-28T06:04:00Z
+    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/artificial-intelligence-ai-nyu-langone-breast-cancer"
+    type: article
+    provider:
+      name: Radiology Business
+      domain: radiologybusiness.com
+    quality: 26
+    images:
+      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2021-03/istock-695955360.jpg?h=9d96f97f&itok=LObO_P6U"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "IpqQFPpOfBo/48OGk8k9M50m54o3SKEqUDyn8lHa5phbtPMQgzCov22uvk37Cvf8Um3JG8XMTnIFyjAOnMK4N5aUvImHa0m9sm1GkGgVf1pqNqoUGcggk+UoLN3ANaNzmt0KpT1oNNYrFIzRy7fVmguQSL45ZkqgBn0ElOM1Q8bwEnsTR9xF1Ln9OM9OujGS5dPVJZQWvu8Jtx9arpbjoq8J6Arg5x1yQTJxtQfcMByOsXWnaojYeiLmdm6xSHERs/rTRyp6rDexfWo+ibzIDn6EY5jCy3sB3huuzhL5xI31bX3ZQYv47mOXtLmAS6EO1LoCXpbERx1gcTmFtsp7K+sbsz5Pqq2gl/izRlKpGhUUqwuHORUTB876eL6TSrd8ZxLc8Fo2TA45mNWWebYxpfXxTkI5lhxAPsB5l8zhV6KP2gKUGqios7WVmyHdK5vu2yb/2B11N2HSW8dVf6TO/6DoCDcrl8XzBTU/uMKUt/BiRxmnE37p6a26wHkcNwpYhHhjtB1YkLreBO/Bn6IE9g==;RKZjvOcquTS0bzKkNGOPjg=="
 ---

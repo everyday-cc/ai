@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-28T02:41:00Z
 originalUrl: "https://itwire.com/5g/nokia-wins-5g-world-award-for-most-innovative-machine-learning-software-product.html"
 webUrl: "https://itwire.com/5g/nokia-wins-5g-world-award-for-most-innovative-machine-learning-software-product.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+  - Microsoft AI
 
 images:
   - url: "https://itwire.com/media/k2/items/cache/56617f2b209834f1b01c7f7db764d8c9_L.jpg"

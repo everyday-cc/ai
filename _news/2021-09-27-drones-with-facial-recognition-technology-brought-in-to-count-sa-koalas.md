@@ -43,17 +43,20 @@ related:
         width: 800
         height: 520
         isCached: true
-  - title: "Proposed Local Facial Recognition Technology Ban Draws Fire"
-    excerpt: "Around 20 different state and local governments have so far banned some uses of facial recognition technologies by law enforcement. The Town of Hamden (population around 61,000) in Connecticut is considering joining those jurisdictions by adopting an ordinance that would prohibit all town officials from obtaining,"
-    publishedDateTime: 2021-09-23T14:10:00Z
-    webUrl: "https://reason.com/2021/09/23/proposed-local-facial-recognition-technology-ban-draws-fire/"
-    ampWebUrl: "https://reason.com/2021/09/23/proposed-local-facial-recognition-technology-ban-draws-fire/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/09/23/proposed-local-facial-recognition-technology-ban-draws-fire/?amp"
+  - title: "Victoria launches home quarantine trial using facial recognition tech"
+    excerpt: "The Victorian government has launched a trial of home quarantine in the state for returning residents using facial recognition and geolocation technology, the latest in a number of states to embark on similar pilots."
+    publishedDateTime: 2021-09-28T06:27:00Z
+    webUrl: "https://www.innovationaus.com/victoria-launches-home-quarantine-trial-using-facial-recognition-tech/"
     type: article
     provider:
-      name: Reason
-      domain: reason.com
-    quality: 41
+      name: Innovation
+      domain: innovationaus.com
+    quality: 39
+    images:
+      - url: "https://www.innovationaus.com/wp-content/uploads/2020/05/Privacy_683752018_OP.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "rn6yjNnm9yAYt4t/sr3ckuTRltQwujyp0u862kTzzCkTDz4wGSqwkSmEHBMas4dOSNZEZbOOuJTNPtDPmwGx8pGPcAOsPW7zcSId3VRi1+qt9fz8BOJz26//AqhqOWMspfdPJdWN3mCYK2v404FdhtmZHjUR6RyR15Rj6CnChe9zhnoPZs1FlEKM6aRiBYypFgAQutGpobMFaZF6pDLv0j94XcnMQV6m7xV3jiRgV0jo4SrQMNm8rLgvux1FOUvZf5ODW7OqySlATAuDlEnb7rcCSU9UQh2bD4VjjS5HbYzde84gYV8nVZG2stqI9RFKsZxxznSuv95odd57Xj4D+q8j2/jA+y7rJQqm1ssTGmMDTgtxu4Ufnzg74E7lNQGF1Oh37qJJ6ePhaqJnqyrZQzs50d6EQZ0L8UEj7FFyuCU91BaEZojCW7WQKROTtpXet8QVaY8vIHkABa4hUT5CuK4f5r9Sg/flb0Ug5TBFmF1hrJVpYE5lCd8KyWwCtq5HkdboujYr0AooTdirL0ttaA==;nVT2YBpBX4sBZunAHcDmaw=="
 ---

@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-27-tesla-request-button-for-full-self-driving-beta-tests-goes-live-details-here.md",
+      "title": "Tesla Request Button For Full-Self Driving Beta Tests Goes Live - Details Here",
+      "excerpt": "Electric vehicle Tesla users who wish to take part in the company's Full Self-Driving (FSD) Beta programme could now formally request the advanced driver-assist system to be loaded into their vehicle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/auto/tesla-request-button-for-full-self-driving-beta-tests-goes-live-details-here-4251020.html",
+      "originalUrl": "https://www.news18.com/news/auto/tesla-request-button-for-full-self-driving-beta-tests-goes-live-details-here-4251020.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 455,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/08/tesla-model-y-1-163273003216x9.png",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/auto/tesla-request-button-for-full-self-driving-beta-tests-goes-live-details-here-4251020.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/auto/tesla-request-button-for-full-self-driving-beta-tests-goes-live-details-here-4251020.html",
+      "publishedDateTime": "2021-09-27T03:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-25-for-self-driving-cars-the-hot-new-technology-is-radar.md",
       "title": "For Self-Driving Cars, the Hot New Technology Is… Radar",
       "excerpt": "Companies are improving and adapting the century-old technology to help vehicles operate more safely with less human involvement.",
@@ -114,7 +157,7 @@
       "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -211,7 +254,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -263,7 +306,7 @@
       "originalUrl": "https://www.greencarcongress.com/2021/09/20210924-momenta.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 275,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -351,21 +394,21 @@
       ]
     },
     {
-      "path": "_news/2021-09-24-dna-test-drive-of-teslas-driverless-car-in-us.md",
-      "title": "DNA: Test drive of Tesla's driverless car in US",
-      "excerpt": "You must have heard about the driverless cars, but how does it actually work and how is it controlled merely using one software through artificial intelligence? Watch video on Zee News",
+      "path": "_news/2021-09-23-samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-korea-economic-daily.md",
+      "title": "Samsung in talks with Tesla to make next-gen self-driving chips -Korea Economic Daily",
+      "excerpt": "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday.",
       "sourceUrl": null,
-      "webUrl": "https://zeenews.india.com/video/news/dna-test-drive-of-teslas-driverless-car-in-us-2396580.html",
-      "originalUrl": "https://zeenews.india.com/video/news/dna-test-drive-of-teslas-driverless-car-in-us-2396580.html",
+      "webUrl": "https://www.reuters.com/business/autos-transportation/samsung-talks-with-tesla-make-next-gen-self-driving-chips-korea-economic-daily-2021-09-23/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/samsung-talks-with-tesla-make-next-gen-self-driving-chips-korea-economic-daily-2021-09-23/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2021/09/24/00000003.jpg",
-          "width": 700,
-          "height": 400,
+          "url": "https://www.reuters.com/resizer/WvidrcP5l2WCxHpUqCwZpUom3cQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FKIHL5J22BM6LM73QL4MWKOOG4.jpg",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -373,14 +416,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://zeenews.india.com/video/news/dna-test-drive-of-teslas-driverless-car-in-us-2396580.html/amp",
-      "cdnAmpWebUrl": "https://zeenews-india-com.cdn.ampproject.org/c/s/zeenews.india.com/video/news/dna-test-drive-of-teslas-driverless-car-in-us-2396580.html/amp",
-      "publishedDateTime": "2021-09-23T11:30:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-23T08:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "India.com",
-        "domain": "india.com",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1386,49 +1438,6 @@
       "provider": {
         "name": "Mint",
         "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-its-best-to-wait-on-baidu-stock-in-light-of-chinas-crackdown.md",
-      "title": "It’s Best to Wait on Baidu Stock in Light of China’s Crackdown",
-      "excerpt": "I’m cautious on the name mainly because I believe that it could easily become a target for China’s zealous tech regulators. For BIDU stock, it’s a very good sign that Baidu has apparently ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2021/09/its-best-to-wait-on-bidu-stock-in-light-of-chinas-crackdown/",
-      "originalUrl": "https://investorplace.com/2021/09/its-best-to-wait-on-bidu-stock-in-light-of-chinas-crackdown/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/08/bidu-stock.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2021/09/its-best-to-wait-on-bidu-stock-in-light-of-chinas-crackdown/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/09/its-best-to-wait-on-bidu-stock-in-light-of-chinas-crackdown/amp/",
-      "publishedDateTime": "2021-09-13T21:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
         "images": null,
         "publishers": null,
         "authors": null

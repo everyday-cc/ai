@@ -73,6 +73,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "5 Women In Fintech Who’re Now Taking Over India’s Finance Domain"
+    excerpt: "Women have been financially independent since just a century or so in India. Now, in the 21st century we have some inspiring women in Fintech who are making a wave."
+    publishedDateTime: 2021-09-28T06:24:00Z
+    webUrl: "https://www.womensweb.in/2021/09/women-in-fintech-entrepreneurs-taking-over-indias-finance-domain-oct21wk1sr/"
+    type: article
+    provider:
+      name: Women's Web
+      domain: womensweb.in
+    quality: 54
+    images:
+      - url: "https://www.womensweb.in/wp-content/volume_blr1_01/uploads/2021/09/women-in-fintech-3.png"
+        width: 1000
+        height: 499
+        isCached: true
   - title: "Share India set to disrupt algo-trading and fintech industry with two strategic acquisitions"
     excerpt: "Share India Securities Limited has announced the acquisition of two companies, namely - Algowire Trading Technologies Private Limited and Utrade Solutions Private Limited. With these acquisitions, Share India Securities Limited has taken the next evolutionary step towards providing a platform for AI-driven automated trading,"
     publishedDateTime: 2021-09-23T18:16:00Z

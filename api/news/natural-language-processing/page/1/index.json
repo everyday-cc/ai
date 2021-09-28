@@ -80,6 +80,58 @@
       ]
     },
     {
+      "path": "_news/2021-09-25-ai-weekly-researchers-attempt-an-open-source-alternative-to-githubs-copilot.md",
+      "title": "AI Weekly: Researchers attempt an open source alternative to GitHub’s Copilot",
+      "excerpt": "A group of researchers is attempting to create an open source alternative to GitHub's Copilot service, powered by OpenAI's Codex model.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/24/ai-weekly-researchers-attempt-an-open-source-alternative-to-githubs-copilot/",
+      "originalUrl": "https://venturebeat.com/2021/09/24/ai-weekly-researchers-attempt-an-open-source-alternative-to-githubs-copilot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-628332486-e1622192309124.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/24/ai-weekly-researchers-attempt-an-open-source-alternative-to-githubs-copilot/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/24/ai-weekly-researchers-attempt-an-open-source-alternative-to-githubs-copilot/amp/",
+      "publishedDateTime": "2021-09-24T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-25-exclusive-ice-just-paid-39-million-for-rapid-ai-powered-facial-recognition-at-migrant-detention-facilities.md",
       "title": "Exclusive: ICE just paid $3.9 million for 'rapid' AI-powered facial recognition at migrant detention facilities",
       "excerpt": "ICE has a new contract with a company called Trust Stamp that says it offers facial matching through 3D renderings of people's heads and faces.",
@@ -141,7 +193,7 @@
       "originalUrl": "https://www.itproportal.com/features/the-impact-of-conversational-ai-on-critical-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -777,6 +829,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-17-naver-bolsters-ai-rd-capability-appoints-global-leading-ai-professionals-in-search-quality-and-natural-language-processing.md",
+      "title": "NAVER Bolsters AI R&D Capability, Appoints Global leading AI Professionals in Search Quality and Natural Language Processing",
+      "excerpt": "Dr. Young-Bum Kim and Professor Tetsuya Sakai seasoned researchers in search quality evaluation and natural language processing joined NAVER",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/naver-bolsters-ai-r-d-capability-appoints-global-leading-ai-professionals-in-search-quality-and-natural-language-processing-1030805988",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/naver-bolsters-ai-r-d-capability-appoints-global-leading-ai-professionals-in-search-quality-and-natural-language-processing-1030805988",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-16T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-17-ingressio-time-and-attendance-app-features-voice-biometrics-from-id-rd.md",
       "title": "Ingressio time and attendance app features voice biometrics from ID R&D",
       "excerpt": "Software development company Ingressio has released a new mobile time and attendance app with voice biometrics capabilities supplied by ID R&D[.",
@@ -806,40 +901,6 @@
       "provider": {
         "name": "Biometric Companies",
         "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-naver-bolsters-ai-rd-capability-appoints-global-leading-ai-professionals-in-search-quality-and-natural-language-processing.md",
-      "title": "NAVER Bolsters AI R&D Capability, Appoints Global leading AI Professionals in Search Quality and Natural Language Processing",
-      "excerpt": "Dr. Young-Bum Kim and Professor Tetsuya Sakai seasoned researchers in search quality evaluation and natural language processing joined NAVER R&D force - Artificial intelligence experts with broad academic connections and field experience to enrich NAVER's R&D community - NAVER to strengthen cooperation throughout the global AI R&D belt,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210916cn09761/naver-bolsters-ai-rd-capability-appoints-global-leading-ai-professionals-in-search-quality-and-natural-language-processing",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210916cn09761/naver-bolsters-ai-rd-capability-appoints-global-leading-ai-professionals-in-search-quality-and-natural-language-processing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-16T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1256,49 +1317,6 @@
       "provider": {
         "name": "ExtremeTech",
         "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-facebook-takes-a-stab-at-true-speech-to-speech-translation-via-textless-nlp.md",
-      "title": "Facebook Takes a Stab at True Speech-to-Speech Translation via Textless NLP",
-      "excerpt": "Facebook sees textless NLP as making automatic speech translation obsolete by working in true end-to-end fashion: from speech input to speech output.",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/facebook-takes-a-stab-at-true-speech-to-speech-translation-via-textless-nlp/",
-      "originalUrl": "https://slator.com/facebook-takes-a-stab-at-true-speech-to-speech-translation-via-textless-nlp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://slator.com/assets/2021/09/Facebook-Speech-to-Speech-Translation.png",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T01:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
         "images": null,
         "publishers": null,
         "authors": null

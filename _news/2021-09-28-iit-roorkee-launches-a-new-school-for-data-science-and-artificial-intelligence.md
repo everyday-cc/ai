@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "IIT Roorkee establishes Mehta Family School of Data Science and Artificial Intelligence"
+    excerpt: "IIT Roorkee collaborates with the Mehta Family Foundation, USA to establish a school of data science and artificial intelligence. The Mehta Family School is established with a vision to"
+    publishedDateTime: 2021-09-28T07:06:00Z
+    webUrl: "https://www.dqindia.com/iit-roorkee-establishes-mehta-family-school-of-data-science-and-artificial-intelligence/"
+    ampWebUrl: "https://www.dqindia.com/iit-roorkee-establishes-mehta-family-school-of-data-science-and-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-roorkee-establishes-mehta-family-school-of-data-science-and-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 49
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2020/12/data-science_opt.jpg"
+        width: 850
+        height: 454
+        isCached: true
   - title: "IIT Roorkee to Offer Degrees in Data Science, Artificial Intelligence, Sets up New School"
     excerpt: "Roorkee has set up the Mehta Family School of Data Science and Artificial Intelligence in collaborating with the Mehta Family Foundation (MFF), USA."
     publishedDateTime: 2021-09-28T04:58:00Z

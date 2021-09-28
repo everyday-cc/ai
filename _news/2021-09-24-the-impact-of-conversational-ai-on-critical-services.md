@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itproportal.com/amp/features/the-impact-of-conversationa
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/the-impact-of-conversational-ai-on-critical-services/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://s.abcnews.com/images/US/210927_abcnl_prime_lee_hpMain_16x9_608.jpg"
         width: 608
         height: 342
-        isCached: true
-  - title: "A Quick-Start Guide for Agencies Looking to Deploy Mission-Critical Services Using AI"
-    excerpt: "Artificial intelligence can help agencies better serve their constituents in a medley of ways, ranging from increasing citizen safety to helping first responders during environmental disasters."
-    publishedDateTime: 2021-09-23T15:00:00Z
-    webUrl: "https://www.nextgov.com/sponsors/2021/09/quick-start-guide-agencies-looking-deploy-mission-critical-services-using-ai/185464/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 30
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/09/20/iStock_1003122870_1/open-graph.jpg"
-        width: 400
-        height: 400
         isCached: true
 
 secured: "x2cb/raPIC8rnA7bgLDkuVibvWpJI9mVxIkiMhLgFyfnlEmVIcpfnpZ8UVC6dOxioWLPaSbTLamfGDMeN4XNfZcwce2KQzprUkuO2I8F390QlHc3AC8LJQulTNNv/KaZX23f262MKHlElYtkk/3UTiwab5+JpVPZj836WPT3ZGhs7KhDc0+zhvrV5nTsIJ3GFHRB5Nm9CObF/qSc5dTX0narDbLb35mFCQsMgDPXx9FPdhm/ImwvxTPvGcWoFglJZ9SAp/whm+AgipGci/VQyGrCPOfNcjONoul+pbh8ubUuaARgIBH173s8tjXEPUgUOuwZI1ytpuYV0n6yPgpV+46SCX9NjOi09kWKVSIixlU=;Rw8ovrtv0808KkZxxNhxSg=="
