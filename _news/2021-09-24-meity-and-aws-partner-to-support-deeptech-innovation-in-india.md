@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/meity-aws-partner-support-deeptech-innovatio
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/meity-aws-partner-support-deeptech-innovation-india/amp/"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -56,22 +56,6 @@ related:
     quality: 56
     images:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-17802,msid-86482988/amazon.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Share India set to disrupt algo-trading and fintech industry with two strategic acquisitions"
-    excerpt: "Share India Securities Limited has announced the acquisition of two companies, namely - Algowire Trading Technologies Private Limited and Utrade Solutions Private Limited."
-    publishedDateTime: 2021-09-23T06:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions-121092300443_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions-121092300443_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/share-india-set-to-disrupt-algo-trading-and-fintech-industry-with-two-strategic-acquisitions-121092300443_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 33
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/23/full/20210923112459.jpg"
         width: 600
         height: 450
         isCached: true

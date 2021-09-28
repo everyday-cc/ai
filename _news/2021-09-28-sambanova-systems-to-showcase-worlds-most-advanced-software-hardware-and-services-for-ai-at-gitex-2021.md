@@ -6,7 +6,7 @@ publishedDateTime: 2021-09-27T20:11:00Z
 originalUrl: "https://www.businesswire.com/news/home/20210927005667/en/SambaNova-Systems-to-Showcase-World’s-Most-Advanced-Software-Hardware-and-Services-for-AI-at-GITEX-2021"
 webUrl: "https://www.businesswire.com/news/home/20210927005667/en/SambaNova-Systems-to-Showcase-World’s-Most-Advanced-Software-Hardware-and-Services-for-AI-at-GITEX-2021"
 type: article
-quality: 0
+quality: 2
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 related:
   - title: "SambaNova Systems to showcase world's most advanced software, hardware and services for AI at GITEX 2021"

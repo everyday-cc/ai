@@ -7,7 +7,7 @@ originalUrl: "https://www.xing.com/communities/posts/how-artificial-intelligence
 webUrl: "https://www.xing.com/communities/posts/how-artificial-intelligence-ai-is-transforming-mobile-technology-1018689842"
 type: article
 quality: 52
-heat: 62
+heat: 64
 published: false
 
 provider:

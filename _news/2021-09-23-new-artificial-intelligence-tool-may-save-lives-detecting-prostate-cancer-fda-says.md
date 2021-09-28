@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.newsobserver.com/news/nation-world/national/article25443
 cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/nation-world/national/article254438918.html"
 type: article
 quality: 50
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "FDA Authorizes AI Software Designed to Help Spot Prostate Cancer"
+    excerpt: "U.S. health regulators last week authorized the use of the first artificial-intelligence tool designed to help doctors diagnose prostate cancer."
+    publishedDateTime: 2021-09-27T21:11:00Z
+    webUrl: "https://www.wsj.com/articles/fda-authorizes-ai-software-designed-to-help-spot-prostate-cancer-11632780683"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-407544/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "New artificial intelligence tool may ‘save lives’ detecting prostate cancer, FDA says"
     excerpt: "Artificial intelligence is playing a crucial role in detecting prostate cancer, according to t. The federal agency approved the use of Paige Pr"
     publishedDateTime: 2021-09-23T18:45:00Z

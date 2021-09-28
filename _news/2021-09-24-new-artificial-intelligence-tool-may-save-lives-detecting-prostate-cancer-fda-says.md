@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "FDA Authorizes AI Software Designed to Help Spot Prostate Cancer"
+    excerpt: "U.S. health regulators last week authorized the use of the first artificial-intelligence tool designed to help doctors diagnose prostate cancer."
+    publishedDateTime: 2021-09-27T21:11:00Z
+    webUrl: "https://www.wsj.com/articles/fda-authorizes-ai-software-designed-to-help-spot-prostate-cancer-11632780683"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-407544/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "New artificial intelligence tool may ‘save lives’ detecting prostate cancer, FDA says"
     excerpt: "Artificial intelligence is playing a crucial role in detecting prostate cancer, according to the U.S. Food and Drug Administration. The federal agency approved the use of Paige Prostate, the first AI-based software that can identify cancerous slide images with better accuracy."
     publishedDateTime: 2021-09-23T07:44:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91433-replacing-iphone-13-display-
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91433-replacing-iphone-13-display-render-face-unusable-unless.html"
 type: article
 quality: 68
-heat: 78
+heat: 79
 published: true
 
 provider:

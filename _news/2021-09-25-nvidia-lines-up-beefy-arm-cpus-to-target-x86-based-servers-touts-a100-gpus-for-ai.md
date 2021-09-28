@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/nvidia-arm-cpus-a100-gpus-x86-based
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-arm-cpus-a100-gpus-x86-based-servers"
 type: article
 quality: 68
-heat: 95
+heat: 88
 published: true
 
 provider:

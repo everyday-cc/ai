@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/4-ways-facebook-cto-mike-schroepfer-an
 webUrl: "https://thenextweb.com/news/4-ways-facebook-cto-mike-schroepfer-analysis"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: The Next Web
@@ -45,15 +45,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Facebook CTO Schroepfer to step down from 2022"
-    excerpt: "Facebook CTO Mike Schroepfer announced that he will step down from his role as of 2022. Schroepfer will transition to a part-time role with the company. In 2022, he will be replaced as CTO by Andrew Bosworth,"
-    publishedDateTime: 2021-09-23T06:38:00Z
-    webUrl: "https://www.telecompaper.com/news/facebookcto-schroepfer-to-step-down-from-2022--1398095"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 4
 
 secured: "8xsEZ8/JVenhtUUeUGkjYOJ+CY2ga68thDZzx/9tpxsjMTGLMN7D6loW/BUdtHU6Hq2Kda1smKK+lC05hXJ4CkuYZ13KT46UvKoeXoOtMsQBo6GLQPOc+jS/VYsfJjiPEDBYu8jghgGWsGZ9xdn8y1O7LkU70nbgYDbwFg6cfz4Az+3k1ugAWsSLDoC9XDk3k2BJYwfyZ1wyNAOaWW/0H6hgD60BWG2fhYoldOo7aK5t3FfzdrynzKg4CZrDjwDd92PXPI354lvQdyVApDG75RVtIxBDwPP5kgNOzQ9mPjeBl9BL0rH2ecOXtxX3dWPSLapw7Bmpc4Jk4m5sLo5Yt5fXWTPyNDNvuxhudZF7A42V1Z7EqVjJoJe4TzWgzUWfT96Q3RZ3iV66dBmhU2nreu2NblgDNnjXlmm6RPvKjKcTSNFgQRcgGiVyyKs11qU16Z3eTvuly4xYDd1mqDy4GNlLikJfupB9PFPwStFkRC750LInW1ryISvf43X95afChjuX0AZ95AUgfVUla5X6+w==;pX9SH17HO3AU3DGZu8bAbA=="
 ---

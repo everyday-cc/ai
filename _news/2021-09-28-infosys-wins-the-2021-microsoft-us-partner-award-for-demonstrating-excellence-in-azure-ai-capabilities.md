@@ -95,20 +95,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Everything Announced at Microsoft's 2021 Surface Event"
-    excerpt: "Surface Studio Laptop . Instead of the next iteration of the Surface Book, Microsoft announced a \"fresh take on [its] powerhouse laptop\" in the form of the Surface Laptop Studio."
-    publishedDateTime: 2021-09-23T05:38:00Z
-    webUrl: "https://me.ign.com/en/mobile/189720/news/everything-announced-at-microsofts-2021-surface-event"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 41
-    images:
-      - url: "https://sm.ign.com/t/ign_me/news/e/everything/everything-announced-at-microsofts-2021-surface-event_xx5r.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AtScale Expands Semantic Layer Solution for Microsoft Excel"
     excerpt: "AtScale expands integrations with Microsoft Excel enabling high-performance, multi-dimensional analysis on live cloud data."
     publishedDateTime: 2021-09-23T18:34:00Z

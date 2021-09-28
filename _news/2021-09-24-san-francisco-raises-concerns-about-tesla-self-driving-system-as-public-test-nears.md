@@ -73,22 +73,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Self-driving tech co Aurora to test driverless delivery with FedEx"
-    excerpt: "Aurora, which is led by former heads of self-driving programs at Google, Uber and Tesla Inc, added on Wednesday it is aiming for trucks without a safety driver by late 2023."
-    publishedDateTime: 2021-09-23T06:38:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex/article36623586.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex/article36623586.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex/article36623586.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/n41f8c/article36624583.ece/ALTERNATES/LANDSCAPE_615/aurorajpg"
-        width: 615
-        height: 384
-        isCached: true
 
 secured: "jTNZviZQgnyKTyX34s6ARYy1KDPSa7FnR/u5kRM4cnKuAzWJlik+uKDRF0BOlyxTTLg8/iY0pj/bx4nJdZP+kbXAgktz/oDJx0dsyLbvaksnEaP1EJHMhP3PP9SU/mfqcf6XL0RblDfybvpwxjdKA5umQbRIt5ai1LSnV/5+4ack3yHfPxGVh8kO5t4sqf3F4djbQTMWC2BVcXRe6RPT1ZMs+BHWFZ6OY5HPL/PabLcQJLydzr6L8/nRc6GNRyMwX1wlOcL9qA5Y9nF+eJtxy5RMopvdEjCRZGoyn99uEbO7mJUlLIDtpZrLKzm8gIcV13Daa/FOdgh44tkRAyW4/KHqVpq5BpLeHthEqvUq81r4JU9ViHxwpIMCn0F+3y2eCuUDsdD4zgHgcjM9AJN5XPzrNJGpCQOpy2T1S9dVWxcPUSOrjqYsoiQd8286s/1zAHw7AM0Q7KFR/vM5T0HmtFZ+69TFeP0Rhfq8+N9QIPT+33kPsx1Sadl6R6i2X4q/4TeRtw2+0kKp427YMT4oZA==;wE4jh07j5bF/p/HiPFW1dQ=="
 ---

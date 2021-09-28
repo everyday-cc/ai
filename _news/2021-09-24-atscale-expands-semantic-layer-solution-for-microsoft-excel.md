@@ -104,20 +104,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Everything Announced at Microsoft's 2021 Surface Event"
-    excerpt: "Surface Studio Laptop . Instead of the next iteration of the Surface Book, Microsoft announced a \"fresh take on [its] powerhouse laptop\" in the form of the Surface Laptop Studio."
-    publishedDateTime: 2021-09-23T05:38:00Z
-    webUrl: "https://me.ign.com/en/mobile/189720/news/everything-announced-at-microsofts-2021-surface-event"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 41
-    images:
-      - url: "https://sm.ign.com/t/ign_me/news/e/everything/everything-announced-at-microsofts-2021-surface-event_xx5r.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "qSkM+sKz/viXJumzwbDLqWPJjXF/ODKZ2vNeAuyoZHIlZTYYCN7vtxIhWTHVDEUyevQiWdRcjnss3zGP3Z1TUUxdQ9xD+uboM6f5HFgx5Zb0BM0I4QChydaZcxIJAYjuhePQ9EyIlNW8LLvKO7Ya1xLQXkR2M4mLSKPeqxO4KEamYisLulOT/s+3UziYF8BeYMj6T14kPEMn72K2AJ18GCGl321Ul4IukdXlD2g6Oi6yR8JPjDwHzob816MxqiNNLN8JbMZNnnrAN3CYDZ6ns/t2eQcDkU3ZJipZ5bA8cZiL4oBWEL8Ur8I/tpjxOyADAzYXDChTOADmLN5oEBae8iIpVauJRiiLka3WigZB35s=;+pMbYI1f0aIIWxKi6EbXKg=="
 ---

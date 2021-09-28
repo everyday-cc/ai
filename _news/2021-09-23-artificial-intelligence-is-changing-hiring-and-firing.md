@@ -119,17 +119,12 @@ related:
   - title: "Half of people say they are better drivers than computers will be"
     excerpt: "Brits are reluctant to relinquish driving duties, with almost half of us saying we’d prefer to drive ourselves rather than rely on self-driving technology. A study by Volkswagen Financial Services UK (VWFS) has revealed that 46% of British motorists think they’d be a better driver than driverless cars powered by Artificial Intelligence."
     publishedDateTime: 2021-09-27T10:09:00Z
-    webUrl: "https://www.nottinghampost.com/news/uk-world-news/half-people-say-better-drivers-5974656"
+    webUrl: "https://www.coventrytelegraph.net/news/uk-world-news/half-people-say-better-drivers-21686050"
     type: article
     provider:
-      name: Nottingham Post
-      domain: nottinghampost.com
-    quality: 24
-    images:
-      - url: "https://i2-prod.hulldailymail.co.uk/incoming/article5974634.ece/ALTERNATES/s1200/0_samuele-errico-piccarini-MyjVReZ5GLQ-unsplash-1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Coventry Telegraph
+      domain: coventrytelegraph.net
+    quality: 4
   - title: "So 'Self-Driving' Doesn't Mean It Drives Itself? What DOES It Mean, Then?"
     excerpt: "Tesla, despite insisting (for regulatory purposes, and because it's true) that the \"Self-Driving\" software they're testing isn't really \"autonomous driving,\" is going ahead and opening its Self-Driving beta to any Tesla driver it deems to be a relatively ..."
     publishedDateTime: 2021-09-27T18:49:00Z

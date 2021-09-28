@@ -9,7 +9,7 @@ ampWebUrl: "https://zeenews.india.com/video/news/dna-test-drive-of-teslas-driver
 cdnAmpWebUrl: "https://zeenews-india-com.cdn.ampproject.org/c/s/zeenews.india.com/video/news/dna-test-drive-of-teslas-driverless-car-in-us-2396580.html/amp"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2021/09/23/00000003_33.jpg"
         width: 700
         height: 400
-        isCached: true
-  - title: "Self-driving tech co Aurora to test driverless delivery with FedEx"
-    excerpt: "Aurora, which is led by former heads of self-driving programs at Google, Uber and Tesla Inc, added on Wednesday it is aiming for trucks without a safety driver by late 2023."
-    publishedDateTime: 2021-09-23T06:38:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex/article36623586.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex/article36623586.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/self-driving-tech-co-aurora-to-test-driverless-delivery-with-fedex/article36623586.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/n41f8c/article36624583.ece/ALTERNATES/LANDSCAPE_615/aurorajpg"
-        width: 615
-        height: 384
         isCached: true
   - title: "San Francisco raises concerns about Tesla 'self-driving' system as public test nears"
     excerpt: "Tilly Chang, executive director of the The San Francisco County Transportation Authority, said in a statement to Reuters that a human driver should \"continuously monitor\" Tesla's so-called Full Self-Driving system."

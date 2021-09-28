@@ -48,15 +48,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 23
-  - title: "BioInnovation Institute Creation House program announces intake of four innovative early stage start-up companies"
-    excerpt: "BioInnovation Institute (BII), an international commercial foundation with a non-profit objective incubating and accelerating world-class life science research, today announces that four companies have joined its Creation House program."
-    publishedDateTime: 2021-09-23T07:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-bioinnovation-institute-creation-house-program-announces-intake-four-/2021/09/23/9454917.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "6gofYArSkvGilbBsae/PtY8/Sv5R3kYtDVf1j6zI38WQOqtLaPy1xgZmUvILIegjn8d/V1mRCpRyaLqS1QlpcKkZLk/tMhN/EDl2s9QhlQtVFZPkBNI5gklVFPPZzxsdfka4VMDsu3iTKRadI3+gl6P8uYJYs/FfXquRTz7cWo3KfootI3xTHsdOpd4LounrdXa2a6ErQYwE/ujgnHvAxxbdi6AK0InuM8iL6ezx+6g39rFQAS/PSUcTQXVS+CcV58pl3utcQe49uRm5fL9AIOk8QS2Xp4e9AP8sfNOXrbf2zoR/8BzN8fMtH7ZluECtGK8KEpIP3ijF1rIy7d4J9EsGQQYm6N38dhBtYv//ZzQ=;CTb91JlRXGl9FYpFJb9M+g=="
 ---

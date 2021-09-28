@@ -47,17 +47,6 @@ related:
         width: 600
         height: 382
         isCached: true
-  - title: "GBG Named to Prestigious IDC FinTech Top 100 Rankings List"
-    excerpt: "Ranking marks GBG’s inaugural participation in the distinguished list SINGAPORE – Media OutReach – 16 September 2021 – GBG (AIM:GBG), the global expert in digital identity, helping businesses prevent fraud and meet complex compliance requirements,"
-    publishedDateTime: 2021-09-23T05:08:00Z
-    webUrl: "https://www.globalbankingandfinance.com/category/news/gbg-named-to-prestigious-idc-fintech-top-100-rankings-list/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/category/news/gbg-named-to-prestigious-idc-fintech-top-100-rankings-list/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/gbg-named-to-prestigious-idc-fintech-top-100-rankings-list/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 24
   - title: "This FinTech stock is up 1,000% in a year! And it could go further"
     excerpt: "Upstart Holdings is an Artificial Intelligence FinTech stock that could transform money lending forever. Is it too late to buy in?"
     publishedDateTime: 2021-09-24T11:12:00Z

@@ -32,17 +32,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 64
-  - title: "Artificial Intelligence (AI) in Construction Market to Witness Huge Growth by 2027 | Autodesk, IBM, Microsoft, Oracle"
-    excerpt: "The latest Artificial Intelligence AI in Construction market study offers an all inclusive analysis of the major strategies corporate models and market shares of the most noticeable players in this market The study offers a thorough analysis of the key"
-    publishedDateTime: 2021-09-23T06:54:00Z
-    webUrl: "https://www.openpr.com/news/2403731/artificial-intelligence-ai-in-construction-market-to-witness"
-    ampWebUrl: "https://www.openpr.com/amp/2403731/artificial-intelligence-ai-in-construction-market-to-witness"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2403731/artificial-intelligence-ai-in-construction-market-to-witness"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 46
   - title: "Artificial Intelligence in Education Market Recent Trends, Growth and High Demand During Forecast by 2030"
     excerpt: "Introduction. Education is one of the fastest growing industry verticals adopting artificial intelligence. This is due to the g"
     publishedDateTime: 2021-09-24T19:29:00Z

@@ -195,22 +195,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Elon Musk only wants good drivers in Tesla's Full Self-Driving beta"
-    excerpt: "It seems that Elon Musk is tired of San Francisco tech bros sleeping in the back seat of their Teslas with Autopilot enabled. He really wants good responsible drivers to test the car maker's Full Self-Driving (FSD) beta."
-    publishedDateTime: 2021-09-23T07:01:00Z
-    webUrl: "https://www.tomsguide.com/uk/news/elon-musk-only-wants-good-drivers-in-teslas-full-self-driving-beta"
-    ampWebUrl: "https://www.tomsguide.com/uk/amp/news/elon-musk-only-wants-good-drivers-in-teslas-full-self-driving-beta"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/elon-musk-only-wants-good-drivers-in-teslas-full-self-driving-beta"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/YgUHsWEWfthGscTnET98nk-1200-80.jpg"
-        width: 1200
-        height: 641
-        isCached: true
   - title: "‘Good’ Tesla drivers might be next to get ‘full’ self-driving software"
     excerpt: "Chief Executive Officer Elon Musk tweeted that the download button customers will see Friday will request car owners’ permission for Tesla to assess their driving behavior for seven days."
     publishedDateTime: 2021-09-25T12:24:00Z

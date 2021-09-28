@@ -41,15 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Facebook CTO Schroepfer to step down from 2022"
-    excerpt: "Facebook CTO Mike Schroepfer announced that he will step down from his role as of 2022. Schroepfer will transition to a part-time role with the company. In 2022, he will be replaced as CTO by Andrew Bosworth,"
-    publishedDateTime: 2021-09-23T06:38:00Z
-    webUrl: "https://www.telecompaper.com/news/facebookcto-schroepfer-to-step-down-from-2022--1398095"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 4
 
 secured: "jmDQWuYF/l7s+mfpMpFbmDT1FE208bgGg0Slx4pVpeHFn2RGHGJHgWpGepM6XK51Yh6RTz83Ohomv/cEBPJ6Ig203SJz5N2IVP+AxzxiKuuIwYDGgaaHMkN8MRPE2FqZDf86Tn0HpVW2RMAteX9qb3LXp5B9cGcFIBSmp8kzSfdfMEE18oiQcQHu8lgfPWkE8DAf8I8xqFG1rJFSerVCwTysBbkVkudHrCkGc9mQ/2A0AsH07us5BbYrX6y7TpMZIzNekR7RyMmoX+czAXHlfnK7cigzporKj6c6CPOeRMPnJSSfM5/qQP+1kMRFG0/3rSmv+D1Ytua0BzvuhHoMHYsrwA9LY68a+DrGk0FdC2AIJWFFR0bcQzR8DuGKBbWMDrATHizYkZ9yMF0D3NDtv7sWSOCOXTNcDaeZUHzVo6Ymqn00wUFmLBBrahukfAzh2JVJheBijHAjyTTCy840Q7HuRgJWJ3GlVWfAsICfIeXGjP6FIM7A34uvv6qDU8z//odvyZ7+HuO1mTGTzXrPxQ==;tia73zJx3TqZ7xgEt5uRYA=="
 ---

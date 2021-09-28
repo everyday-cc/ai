@@ -189,15 +189,6 @@ related:
         width: 1240
         height: 620
         isCached: true
-  - title: "GM Invests $300 Million in Chinese Autonomous Driving Startup Momenta"
-    excerpt: "U.S. automaker General Motors Co said on Thursday that it would invest $300 million in Chinese autonomous driving startup Momenta to develop self-driving technologies for future models in China. In China,"
-    publishedDateTime: 2021-09-23T05:37:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-09-23/gm-invests-300-million-in-chinese-autonomous-driving-startup-momenta"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
   - title: "GM invests $300M in China’s self-driving car company Momenta"
     excerpt: "General Motors is investing $300 million in China's self-driving car company Momenta. GM said Thursday that the investment will speed up the development of next-generation self-driving technologies in China."
     publishedDateTime: 2021-09-23T15:57:00Z

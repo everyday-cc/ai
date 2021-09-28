@@ -51,15 +51,6 @@ related:
         width: 1920
         height: 886
         isCached: true
-  - title: "BioInnovation Institute Creation House program announces intake of four innovative early stage start-up companies"
-    excerpt: "BioInnovation Institute (BII), an international commercial foundation with a non-profit objective incubating and accelerating world-class life science research, today announces that four companies have joined its Creation House program."
-    publishedDateTime: 2021-09-23T07:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-bioinnovation-institute-creation-house-program-announces-intake-four-/2021/09/23/9454917.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "E64Dk8L55arqQfGlqwAhhIZOKCF2bIGQDkOCUjgGZsvdFz3E8A6V022P5eKUil6tmkDD+KDpDGMU1SqFECRPYijRTN++A7eAGVCC1h65SvI7jVc6xocrUo9k4G4eNLmnzdtE88w04ndDd4vKhjwDoWSZgOOM9juwiIFSutuV4hVicGGuLN6TByUO7ZyKG8e/xtEGr80tMbzSR3HEFI/m3FElRui7rJBCxZsY2R2HOYiPCqFuBo0FHkKyfZgIqs/yNlcuOiFuaAjQu37d8XGBkhYOhtoGWaGoseQyiyOa5x2C2msm7NQqv5adyELRgBDINqubygkVPCJ4YlY5cCna6xepIHAcEAvJzzJD0vb3d9k=;SLcqITiTaKR9JIXl7mCUlA=="
 ---

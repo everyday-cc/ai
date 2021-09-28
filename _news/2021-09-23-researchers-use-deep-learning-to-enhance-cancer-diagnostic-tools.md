@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-09-deep-cancer-diagnostic-tools.
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-deep-cancer-diagnostic-tools.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Medical Xpress
@@ -42,22 +42,6 @@ related:
       - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/deep-learning-enhances-cancer-diagnostic-tools-354059.jpg?v=11429806"
         width: 640
         height: 360
-        isCached: true
-  - title: "Researchers apply deep learning to PS-OCT systems to better detect cancer"
-    excerpt: "Yi \"Edwin\" Sun, a Ph.D. candidate in electrical and computer engineering at the University of Illinois Urbana-Champaign and member of the Beckman Institute's Biophotonics Imaging Laboratory headed by Stephen Boppart,"
-    publishedDateTime: 2021-09-23T06:27:00Z
-    webUrl: "https://www.news-medical.net/news/20210923/Researchers-apply-deep-learning-to-PS-OCT-systems-to-better-detect-cancer.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210923/Researchers-apply-deep-learning-to-PS-OCT-systems-to-better-detect-cancer.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210923/Researchers-apply-deep-learning-to-PS-OCT-systems-to-better-detect-cancer.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 58
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
-        width: 620
-        height: 480
         isCached: true
 
 secured: "UZJ3XkzcGHBcBU4sUEnnA6MO1BrzcsuBp1IeM6AkRjRnPynk9szq/UXLhGW/xRStBA5kFiQy5aDzsOsBh8wLyiSHpea68bMCubk0mj01zmieoo+ws3zYREqh/M2WBJavZ2ZCq3Ss5ej2A6L3E9mUSxH/aQF/GlPno1OhIK75rzYZD4Fm2HTUuzlsdSX9k2nS/6CuwlEsex7LCmRpvW4y8nOPWmvZAQNLigBMdZ3NJr1rVtvpscMPbOSh89gv+mK32KO6uFuXpWKsXkOnpK990lFkDIwMKUqS1v92FKl3nEjv6G4k9ipO8lBZguY5qDfs0LAC76YXWDCH0D4dDONNfOo52YQplvZbegBSHdtngmHxMpcdCMGDbW7pj4hQyBQJI+GJ/z/SredUpAWCScSANYDerv0wIdFbsMziYAHuaLSyVtSwe/YAUCXIBbFkWf4IWuvx4geMicemT8AiOVQ9ABwIKpOeCcIY7/GxDiwpWunXUe+Rdjw1bIE2psq3qmM1XGkHDd0EYTcmSxpHw5eR8g==;v7Z8WmKMzXuGn5hjuycP/A=="

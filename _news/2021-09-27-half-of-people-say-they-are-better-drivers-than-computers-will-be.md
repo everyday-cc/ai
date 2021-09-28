@@ -3,26 +3,20 @@ category: news
 title: "Half of people say they are better drivers than computers will be"
 excerpt: "Brits are reluctant to relinquish driving duties, with almost half of us saying we’d prefer to drive ourselves rather than rely on self-driving technology. A study by Volkswagen Financial Services UK (VWFS) has revealed that 46% of British motorists think they’d be a better driver than driverless cars powered by Artificial Intelligence."
 publishedDateTime: 2021-09-27T10:09:00Z
-originalUrl: "https://www.nottinghampost.com/news/uk-world-news/half-people-say-better-drivers-5974656"
-webUrl: "https://www.nottinghampost.com/news/uk-world-news/half-people-say-better-drivers-5974656"
+originalUrl: "https://www.coventrytelegraph.net/news/uk-world-news/half-people-say-better-drivers-21686050"
+webUrl: "https://www.coventrytelegraph.net/news/uk-world-news/half-people-say-better-drivers-21686050"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Nottingham Post
-  domain: nottinghampost.com
+  name: Coventry Telegraph
+  domain: coventrytelegraph.net
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://i2-prod.hulldailymail.co.uk/incoming/article5974634.ece/ALTERNATES/s1200/0_samuele-errico-piccarini-MyjVReZ5GLQ-unsplash-1.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Those Infuriating Drivers That Take Over The Left Lane And Prevent Passing Will Undoubtedly Be Stifling For AI Self-Driving Cars"
@@ -141,6 +135,6 @@ related:
       domain: allaccess.com
     quality: 3
 
-secured: "bpXd11QN9pXuuz7dNPWWkDTyyEgS8MWlvCCBpf0+U9IATovRHXzz1XEI4IxybTkCTte1pfwZF9liQqQQWciMBjeSY7HwN/3XLkRgIcOfa0Df3TrJ9G6KzwK7NVXVhSIk0qX3Au+SZIwFnZxBUr7hL6Yu53qs0uHH0x/nt7qXzrhrcAh0L2fyY7y1mkTU8G46Lr7SyxYB68nFPUlXAlfgLrgQ++OFvHXsg+RLzFrwPQCIKcC1aJRRz6h5xsB1jFtG3esAzriCkhk4blXmOakpBy8s0nXtSyYA+mu29YFifd2oMlL6kX/iS1rcs/Km0C4XZ54JWIbYxuCh4rLjW9dTtwwUgLFP+7jHR9Sl0bl/awA=;33NSGwEA+NQImwf6U0ZtYg=="
+secured: "KsvF90wWRSzSb7iCRqO2zyYZOqkIz1WwNNDYGJOJkLnQikn8H5sr9onxQQiNJkhfBO2ncHZe5o+w4Xwoo6UTol/AO1d2sao26cthwzTgiXnSb/0q6yA1AJeqmW3K9L71WfpXYD6MdIi9Q0pMCSluB6QQfv8VTbWret4ljaVpbDqbtx1jr+Jy1ImxsMUoGWZzTrQBvVMtQ6fI0Hnu2VIX3tpLIOEwsgbunK8+0oZATfRmBz4JjL3FAgks4hZzlyYQ+4DmEf9p3noABCCs54MEKFMUstWMdhbFxXO6XDhMgMhx6+ncdalewYbi0Js5Bsb0DZ8bFtr2wPoCY+f8bHGPVkfikki/bRFSm1WWz1LuhPrVXRE//e1OHJdyFB9xTsTgEoTGoUcc4L6zWMOzjdeq41uGns4YLSX8NCaq1S2oMm9ROc9JapIXFRti2NqrOaIFdcP8Kx09NqYKuecnGJ4b2EfOL8KaiEAYoqwyQWEozEz66kdsD74ggJtgdo6yv6SeoCUu/IxiXFtRBFzlMuyYgA==;AelPV/VShwvaqNMXjz7Zzw=="
 ---
 
