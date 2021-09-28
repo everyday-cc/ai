@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-28T18:02:00Z
 originalUrl: "https://www.biometricupdate.com/202109/paravision-brings-edge-to-cloud-facial-recognition-to-ai-digital-id-disruption-party"
 webUrl: "https://www.biometricupdate.com/202109/paravision-brings-edge-to-cloud-facial-recognition-to-ai-digital-id-disruption-party"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI Ethics
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
@@ -40,6 +41,6 @@ related:
         height: 450
         isCached: true
 
-secured: "kcaPjOlcBsU2knuV/hiaqC/FN1BZh4B4muD0/4u88SNZzcq1kWg5mgey6SbfjbWCisn4j3tu0ZPPcU4HWiMNP9DnF9Jx1cbRq1/4fi8jx0PI8looKCqND8MQSOmHGhArX1PykCIhLlHpSdUBo3KMN1gafpRibudGm0Sh1PUfVj04UV4Qw6EPjCR7Hb1v5wFCR/cGuNVYdlgNuGDIF+85T5r+aRO7DUG9J0UPqc/qXlNkki+2y5gVxWopQ5KUulhNWdcPGz7SlaQvmGDK8I3riufIfHeNxSKWixWrntPJZ9nT0KHYZtEeTEzoRY1W48lSkz013i6/lFOZKFulNpCzM7a/EyPy7qM53eQJb5l0vDI=;/cIbGYf8Z9FWV6hAHaBMLw=="
+secured: "OZmbtPRFrQ/+t3cu6enhSxJUoCUhZp8AgWR+vc6+CJz4wgUDUUVD3MKUb/9XGSh+gGFRL1QrlQ7Sw+0NLfW4Hy3SkOdWxVuBgFGhz4Figi0gopR7/UamtRdBsdhvC7tLWqZWlri0yqD9WfhsTaqMLfSLVG9FqOLLdxf6mGeOEgSkINpHAFW2X+mjK0vqEMUGkYA6eNXOPtydRwfpz4HfMB0OHw1izFsIBbxK+NULDXHneyQ004jEBnjU87wL3jMk+OJKWxFMcw22CldWJzdovK2esXL30xqMoQznIqgFtCRMUISYQaCeDfLA0WeSFY8Rmz7UIbhsgSSXOYo+uf0m26txeiyaS2lxHY1G6YfYJh29BXiTlEu75nKLq2BX5hmN78E1xwoPBWMuPOkm/I3G2BrURPlBN0D9ik/w43Qvah6LkFgoIgRgOZ07c9LH2mGOQI+XZuJM8R7sEyuJYGMjvagG8yk47d2XwH2UEhDCxlSQjHAVsfkeZaRGMVng2I4JV8njKMeqqoMfua3vEZEHYA==;/FUbSmK3W9DRif/acB6Qag=="
 ---
 

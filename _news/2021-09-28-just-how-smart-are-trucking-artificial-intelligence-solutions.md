@@ -25,18 +25,32 @@ images:
 
 related:
   - title: "Vice President calls for AI solutions in agriculture, health, education"
-    excerpt: "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to deliver benefits to the people and enhance their quality of life."
-    publishedDateTime: 2021-09-28T18:42:00Z
-    webUrl: "https://theshillongtimes.com/2021/09/29/vice-president-calls-for-ai-solutions-in-agriculture-health-education/"
+    excerpt: "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial"
+    publishedDateTime: 2021-09-28T20:04:00Z
+    webUrl: "https://menafn.com/1102881265/Vice-President-calls-for-AI-solutions-in-agriculture-health-education"
     type: article
     provider:
-      name: Shillong Times
-      domain: theshillongtimes.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 56
     images:
-      - url: "https://theshillongtimes.com/wp-content/uploads/2021/09/M.-Venkaiah-Naidu.jpg"
+      - url: "https://menafn.com/updates/pr/2021-09/28/I_c99edimage_story.jpg"
         width: 400
         height: 267
+        isCached: true
+  - title: "6 steps for seamlessly integrating an artificial intelligence solution into daily clinical practice"
+    excerpt: "Imaging stakeholders have written plenty about the promise of artificial intelligence but not much on how to integrate AI solutions into daily clinical practice. Experts with University Hospitals are attempting to fill the void,"
+    publishedDateTime: 2021-09-28T20:31:00Z
+    webUrl: "https://www.radiologybusiness.com/topics/imaging-informatics/integrating-ai-solution-clinical-practice"
+    type: article
+    provider:
+      name: Radiology Business
+      domain: radiologybusiness.com
+    quality: 40
+    images:
+      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2020-11/web-4861605_1920_copy.jpg?h=e5aec6c8&itok=dFJso2e9"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "yihfmpn3SLipH6z+RonYclLrgb/HTvodKXkgQMjofBuP+Uv6KYijMXK1y6JuVKibwAj/Didc1yJhhFluMTHSwqzajaEX7ZDe6vph8TZZ6wirqRNK8bg0aKyz1CJkORa4H6pnoG6SUwficuQ40cKOx7PRBaofKFUEcgW3bP3hjjHBX3kCO4clWGHuQ0tu8RMxFWtkisO3lalC1+iZWdbz2JMwZ/Rp1koIzqxXuuFt8UJtHyhkMBWiB77a5LlVjtzrC6ZW0tMkaQpoCPQKDe5KlL377L1ZysyCVNRntauFz5Uc/vCuV04q/mM9c1zEWzy/0hI9BR85YKf56K5/72fMwMdpWEkqZxQMefNoiH1BjnKXvwq7xObtjI22djloXUns9DuF0Nk7Tjm86oZ8YUsTauBbYF2AStUP5fMPFFP6qQQOu+P7bzFMU6ovXyeqPT66A7BMptn9hJG+1nRf0XnfhgSZhVK0Ma7Nr9jYA7Cpbn2fvttWi3zBU2b8rM2fLrsI11o+lSTGKuKah2JrGvIVZA==;K2Xn/x7CcLifaMXqMeaIDA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/on-echo-show-15-alexa-will-reco
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazon-visual-id/"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "The big new updates to Alexa, and Amazon’s pursuit of ambient AI"
+    excerpt: "Amazon's new Alexa updates will allow users to customize it to listen and watch out for specific events at home."
+    publishedDateTime: 2021-09-28T18:30:00Z
+    webUrl: "https://www.popsci.com/technology/amazon-alexa-custom-events-ambient-ai/"
+    ampWebUrl: "https://www.popsci.com/technology/amazon-alexa-custom-events-ambient-ai/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/amazon-alexa-custom-events-ambient-ai/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2021/09/28/amazon-.jpeg"
+        width: 2000
+        height: 1059
+        isCached: true
 
 secured: "hkcAmURltYmv+0VWfiRKvjHieGbDmSWoBok89SlcD0S2Z9rU8rcLBlFtF52VRj1UgCYpyEychLxFqlESnfjB7N+6N5R7jHarS12Xxp0t2s+RweyH79Uf0dR8ja0Se+YEXmRUqiPU4VJjVUHPmfHPwt+uVVylQcZTY9SzucVZXp6HZEIU+3RQajPPTbl0jTkXNwk3xv0/ewg5VGXhaETVCNjCot2b1EDxzy4rO2yDt/S1GxWeWgPiOUlN/ZiidKTfraBkqEuk/XzqZUMcMOWwjCNcBl6GlkG1SfXUjSxJiLbfyQPBOWwcQ6roTvpqYoQWQW6YKEJfGthhrJieUUBUum5HDbRh2yiJlnj578hKya4=;b3K9hYMjjW/6sd43LhfYMg=="
 ---

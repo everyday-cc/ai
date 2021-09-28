@@ -26,36 +26,51 @@ images:
     isCached: true
 
 related:
-  - title: "The 7 Biggest Artificial Intelligence (AI) Trends In 2022"
-    excerpt: "In 2022, we will see artificial intelligence continue along the path to becoming the most transformative technology humanity has ever developed. According to Google CEO Sundar Pichai, its impact will be even greater than that of fire or electricity on our development as a species."
-    publishedDateTime: 2021-09-24T04:35:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2021/09/24/the-7-biggest-artificial-intelligence-ai-trends-in-2022/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/09/24/the-7-biggest-artificial-intelligence-ai-trends-in-2022/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/09/24/the-7-biggest-artificial-intelligence-ai-trends-in-2022/amp/"
+  - title: "Global Artificial Intelligence (AI) Speakers Market Report 2021 Prominent Key Players, Exploring Sales Volume Revenue and Forecast by 2027"
+    excerpt: "The research study on Global Artificial Intelligence (AI) Speakers Market 2021 by Manufacturers, Regions, Type"
+    publishedDateTime: 2021-09-28T03:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-report-2021-prominent-key-players-exploring-sales-volume-revenue-and-forecast-by-2027-2021-09-27"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614d55107441e2d9ba4238f6%2F0x0.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 840
+        height: 630
         isCached: true
-  - title: "Trends in Artificial Intelligence (AI) in Cybersecurity"
-    excerpt: "These 5 trends in artificial intelligence (AI) in cybersecurity underscore the overall shift toward AI applications across many fields:"
-    publishedDateTime: 2021-09-27T07:12:00Z
-    webUrl: "https://www.datamation.com/security/artificial-intelligence-ai-in-cybersecurity-trends/"
+  - title: "Global Artificial Intelligence in IoT Market 2021 Size Share Upcoming Trends Segmentation, Opportunities and Forecast To 2026"
+    excerpt: "The New Report Global Artificial Intelligence in IoT Market published by Reports Web covers the competitive landscape analysis and its growth prospects over the coming years The report also covers the major region such as North America Europe Asia Pacific"
+    publishedDateTime: 2021-09-28T09:45:00Z
+    webUrl: "https://www.openpr.com/news/2409288/global-artificial-intelligence-in-iot-market-2021-size-share"
+    ampWebUrl: "https://www.openpr.com/amp/2409288/global-artificial-intelligence-in-iot-market-2021-size-share"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2409288/global-artificial-intelligence-in-iot-market-2021-size-share"
     type: article
     provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 52
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intellgence-4-scaled.jpeg"
-        width: 2560
-        height: 1493
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 12
+  - title: "Self-driving Vehicles Market Enhancement, Latest Trends, Growth and Opportunities during 2021 to 2027"
+    excerpt: "The Self driving Vehicles Market research report provides detailed observation of several aspects including the rate of growth regional scope and recent developments by the primary market players The report offers Porter s Five Forces PESTEL and market analysis to"
+    publishedDateTime: 2021-09-28T09:48:00Z
+    webUrl: "https://www.openpr.com/news/2409307/self-driving-vehicles-market-enhancement-latest-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2409307/self-driving-vehicles-market-enhancement-latest-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2409307/self-driving-vehicles-market-enhancement-latest-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 9
+  - title: "Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Construction market report provides"
+    publishedDateTime: 2021-09-24T13:18:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4908381-global-artificial-intelligence-ai-in-construction-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 6
 
 secured: "AQ6m08aJANcghqJLAhu5K2ctM+lJIV7a+AFfqA1D3ivVldv3kPTaqpaRN4bHtCUBgPnSxKvYgSU27mL2bD91f8W2cs5KwyomQ0J+6FFIlQrrOAjbA22GBm3Z4RVlNWSQ9dHPPWnPOwINswkMGPWO5ZkR4edK8XMW9T3qKkVAv2tTVmWiAIHdCBPBmuNvG6OQfe8jFIh30levqVNYP2hoUf+x7I3qEmRFCHI9gffhLhuBZpkgS9L0JiftZwhhvWjb78iRg6HDP+xmI9dft72BbjvfxDIMmS0BWsULfN0JmIFEfzawFDIpoXwQ7PDPWvzl4V5JwUF8uKcdmPge8AEue9j7nDgbGA05LfuWJb+kecic+4D5h3OzAi8eX2m4hvqaIUYrcWgPlcWS6gWsTUWUb3ZkK4HwiVg5zbVD/0kJTg8Xz0/fHVi7uwm7bNQ7Xhi66CzP5qbh49mLDK5t4jqKIuu5doVA+N5Idcrm6Up/SIPPttsGpkhvPEtOpzjUkdVA/I9eWZCBioGgazOD+KCrXw==;JIXG/Cn0AqD+5MChaAiOZA=="
 ---

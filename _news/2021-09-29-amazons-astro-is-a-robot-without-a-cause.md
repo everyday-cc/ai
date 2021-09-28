@@ -1,0 +1,131 @@
+---
+category: news
+title: "Amazon’s Astro Is a Robot Without a Cause"
+excerpt: "Actually, you get Astro, Amazon’s long-rumored home robot. The company has been working on this for nearly four years, and it has plans for Astro. It’s just not quite sure exactly what those are yet,"
+publishedDateTime: 2021-09-28T21:45:00Z
+originalUrl: "https://www.wired.com/story/amazon-astro/"
+webUrl: "https://www.wired.com/story/amazon-astro/"
+ampWebUrl: "https://www.wired.com/story/amazon-astro/amp"
+cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-astro/amp"
+type: article
+quality: 89
+heat: -1
+published: false
+
+provider:
+  name: Wired
+  domain: wired.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://media.wired.com/photos/61538083098d958b61f393dc/master/pass/Gear-Amazon-Astro-moving-around-home.jpg"
+    width: 2400
+    height: 1800
+    isCached: true
+
+related:
+  - title: "Amazon Astro could be the robot we've been waiting for"
+    excerpt: "Inspired by science fiction, cute as a button, capable and smart -- Amazon's $1,000 home robot Astro is here to help."
+    publishedDateTime: 2021-09-28T20:43:00Z
+    webUrl: "https://www.cnet.com/home/smart-home/amazon-astro-could-be-the-robot-weve-been-waiting-for/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-astro-could-be-the-robot-weve-been-waiting-for/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-astro-could-be-the-robot-weve-been-waiting-for/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 104
+    images:
+      - url: "https://www.cnet.com/a/img/1apgttjzwvxskXvt2B8u4qNGCmo=/0x38:2300x1330/1200x630/2021/09/28/4fc6682b-c610-466c-a707-cc906c33fdc5/astro.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Amazon Astro is a $1,000 Alexa-powered home robot"
+    excerpt: "Amazon has unveiled its first robot, Amazon Astro, combining Alexa on a motorized platform that can roam around the home. Astro has a pop-up periscope camera on top, a moving screen on the front,"
+    publishedDateTime: 2021-09-28T17:07:00Z
+    webUrl: "https://www.slashgear.com/amazon-astro-is-a-1000-alexa-powered-home-robot-28692975/"
+    ampWebUrl: "https://www.slashgear.com/amazon-astro-is-a-1000-alexa-powered-home-robot-28692975/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/amazon-astro-is-a-1000-alexa-powered-home-robot-28692975/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/09/amazon-astro-11.jpg"
+        width: 1440
+        height: 806
+        isCached: true
+  - title: "Amazon drops Echo Show 15, Astro robot plus Glow, View, Blink and Ring"
+    excerpt: "The e-commerce giant's invite-only press event brought us Astro, a robot Alexa, a Disney partnership and tons more smart devices."
+    publishedDateTime: 2021-09-28T17:16:00Z
+    webUrl: "https://www.cnet.com/home/amazon-drops-echo-show-15-astro-robot-plus-glow-view-blink-and-ring/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-drops-echo-show-15-astro-robot-plus-glow-view-blink-and-ring/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-drops-echo-show-15-astro-robot-plus-glow-view-blink-and-ring/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/nrQga32ASqNPqhWuy9Zbqt9HimI=/647x389:7377x3994/1200x630/2021/09/28/4dcaa407-d125-4473-a62d-b8ba24b4a0a6/hey-disney-echo-show-5-on-white.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Amazon’s Astro robot is straight out of The Jetsons"
+    excerpt: "Amazon is rolling out (literally) a robot that can help monitor your home. Powered by Amazon Alexa and a bunch of artificial intelligence (AI) technology while patrolling about on a set of wheels, the Astro robot can handle numerous tasks,"
+    publishedDateTime: 2021-09-28T18:58:00Z
+    webUrl: "https://arstechnica.com/gadgets/2021/09/amazons-astro-robot-is-straight-out-of-the-jetsons/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/09/Astro-moving-around-home-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "Amazon's Astro home robot could help you, party with you and also respect your privacy"
+    excerpt: "Inspired by science fiction, cute as pie, capable and smart -- could Astro be the robot we've been waiting for?"
+    publishedDateTime: 2021-09-28T17:03:00Z
+    webUrl: "https://www.cnet.com/home/smart-home/amazons-astro-home-robot-could-help-you-party-with-you-and-also-respect-your-privacy/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/amazons-astro-home-robot-could-help-you-party-with-you-and-also-respect-your-privacy/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazons-astro-home-robot-could-help-you-party-with-you-and-also-respect-your-privacy/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 81
+    images:
+      - url: "https://www.cnet.com/a/img/eduRn-lJYezKLRTpIe_5im89n9M=/1200x630/2021/09/28/67268085-f7eb-4dae-a460-48076fde79ac/screen-shot-2021-09-28-at-9-54-14-am.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Ring, Echo and Astro: Everything Amazon just announced"
+    excerpt: "Hardware Some of the products Amazon announced today. Amazon just wrapped up its Fall 2021 event, where the online retail gian. This year's event was different, only because the company normally announces as many as 60 different products."
+    publishedDateTime: 2021-09-28T18:45:00Z
+    webUrl: "https://www.zdnet.com/article/ring-echo-and-astro-everything-amazon-just-announced/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ring-echo-and-astro-everything-amazon-just-announced/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ring-echo-and-astro-everything-amazon-just-announced/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 74
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/r/2021/09/28/429ab9c8-f7a9-4134-89cd-319199be058b/resize/1200xauto/5c766dcf1e48192ab21955afb5a34de7/halo-view-hero.png"
+        width: 1200
+        height: 853
+        isCached: true
+
+secured: "uv8djKWtgs1Z7Ag38qRS9u/pjWYjvgiIRGguXZTEchcvoeCJk3vLgmhYYDYDOCenGAxVdU6PQyqu6NLF/UUnDJExWm6a+UcAjG7JoRwiHhPis8NZ2Cd8NJ4l0jvfFcFpEuKr8HBW0Kg9Mwlk1vpYNKdmOyoacMGRP6/HObPzwbgejHPlFe7P/y8VlkAywFe+WQ3eY4JkEKig6UAPmWhHtK16mStI8cE07P41o+IOX9qh8LgWs5+6XiFG+eOkTVW9Cjr0u7dyTjmOQUWM9Yj4UIIYQLi1sidpn1zGjTfoZm/OJVnEnX4eulx22pIKn/k3xChu4YZBlgllhFCXdC+zeRpctnDfv1MzoiS35s9nt2k=;B3qU2ycxcpGo5ipRCOMgHA=="
+---
+

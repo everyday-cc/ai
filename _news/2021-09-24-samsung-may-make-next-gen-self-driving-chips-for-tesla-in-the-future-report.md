@@ -42,20 +42,6 @@ related:
         width: 1128
         height: 1132
         isCached: true
-  - title: "Samsung in talks with Tesla for manufacturing next-generation self-driving chips"
-    excerpt: "Samsung Electronics is reportedly in talks with electric carmaker Tesla for the next-generation self-driving chips based on the South Korean giant’s 7-nanometer (7nm) chip production process, as per the new reports."
-    publishedDateTime: 2021-09-24T03:08:00Z
-    webUrl: "https://www.gizmochina.com/2021/09/24/samsung-tesla-self-driving-chips/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 81
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2020/01/samsung-logo.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Kodiak launches its 4th-generation self-driving semi-truck"
     excerpt: "That move towards autonomy in the trucking industry is where Kodiak Robotics comes in, with its fourth-generation Kodiak Driver system, which the company announced on Tuesday. The system is somewhat unique from others on the road in its modularity and ease of installation on any modern Class 8 truck,"
     publishedDateTime: 2021-09-28T13:00:00Z

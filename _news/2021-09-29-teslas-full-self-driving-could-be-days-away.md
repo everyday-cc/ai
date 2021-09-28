@@ -2,9 +2,9 @@
 category: news
 title: "Tesla's 'full self-driving' could be days away"
 excerpt: "A wider group of Tesla owners who paid up to $10,000 for what the company calls its \"full self-driving\" software can now ask the automaker for access to a test"
-publishedDateTime: 2021-09-28T19:01:00Z
-originalUrl: "https://www.kctv5.com/teslas-full-self-driving-could-be-days-away/article_e0dd71b4-29c3-5227-a521-a04d18076a02.html"
-webUrl: "https://www.kctv5.com/teslas-full-self-driving-could-be-days-away/article_e0dd71b4-29c3-5227-a521-a04d18076a02.html"
+publishedDateTime: 2021-09-28T19:16:00Z
+originalUrl: "https://www.kctv5.com/teslas-full-self-driving-could-be-days-away/article_e0dd71b4-29c3-5227-a521-a04d18076a02.html?block_id=991173"
+webUrl: "https://www.kctv5.com/teslas-full-self-driving-could-be-days-away/article_e0dd71b4-29c3-5227-a521-a04d18076a02.html?block_id=991173"
 ampWebUrl: "https://www.kctv5.com/teslas-full-self-driving-could-be-days-away/article_e0dd71b4-29c3-5227-a521-a04d18076a02.amp.html"
 cdnAmpWebUrl: "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/teslas-full-self-driving-could-be-days-away/article_e0dd71b4-29c3-5227-a521-a04d18076a02.amp.html"
 type: article
@@ -619,6 +619,6 @@ related:
       domain: allaccess.com
     quality: 3
 
-secured: "M1YQoE4oAhvXrqSe1yDANQt9+xU7Zn0amOh1W+6MeooRfOhbKY9e6GettW8qKcPn/2TxQgr5q3RxaTJNjUgOCAupcr5CqR3d/WH8JeRKFWQfk+K0I8YjaSXHcIvfOQD2Syiga+dLZvPcmCQ3teF+p0enZFxv6hAKqVj6PQiieuPjzaO0d+Tduc8EJFj4rKEu5YRU1IOFdHqkTAmZTHGTjMR0o9k5gljsAygtht+MJVc0v7ZWKQgRKJC5XTJqamv+Sh2KUTv7ZHh6PcMNcM92Ri02esYjO/BLSZ7xant8cjzyqBSAa+pj5IahUWuut5Wts6AWjtOnQga1GaIFmVP71Ei7fbMMyzkuuwIhc9aqmnM=;NwG4JzrqTuMLB1dlfhDTEw=="
+secured: "8IjhGi29qz7KJ/7L2RO7JHntG5MU7olZV05HzSlvtSTsGaLb+b9fN/dA5EV2j5HIEh0zm3UBxkWvngMidjk4dWK7hmfdpUP3LXnMk6oaTY6AZpxDHovGzzOVnBNrWnK29DW0n1pn+qW5XSYcEUBwflwOcodSJpM1oOTqXMCP1CA6kHtm05eD9djfpzdLAjOiDbXB7Y1Ut6Eb+errQa16GMDfGdydSXlHcvSb0XQUGn1otTkWYKWO0ZCFOmTe4sZNGePrX+OL6w+RKgfLQ17NgmbPjk99g2Dqu5Ow6hHdtp08JjsK9hMTiQ/T7ibKYU8btwo2+nmzKnQ0SYzT2IskJxAZQ58woAFsIGvY5aANGLI=;9zY7IAiTQXCXBf3KWL3CEg=="
 ---
 

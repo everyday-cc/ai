@@ -80,22 +80,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
-  - title: "Android New Facial Gesture Controls & Handwriting Recognition Features, Check How It Works"
-    excerpt: "Google has launched a lot of accessibility features for Android, including Android Facial Gesture navigation and Android Handwriting recognition feature."
-    publishedDateTime: 2021-09-24T03:59:00Z
-    webUrl: "https://www.republicworld.com/technology-news/mobile/android-new-facial-gesture-controls-and-handwriting-recognition-features-check-how-it-works.html"
-    ampWebUrl: "https://www.republicworld.com/amp/technology-news/mobile/android-new-facial-gesture-controls-and-handwriting-recognition-features-check-how-it-works.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/mobile/android-new-facial-gesture-controls-and-handwriting-recognition-features-check-how-it-works.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 34
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/6ol50ektyictzzac_1632454868.jpeg"
-        width: 768
-        height: 438
-        isCached: true
   - title: "Keystroke tracking, screenshots, and facial recognition: The boss may be watching long after the pandemic ends"
     excerpt: "Companies are increasingly turning to surveillance software tools as they consider permanent remote work policies. Some workers say remote-work surveillance has gone too far, calling the tracking systems intrusive,"
     publishedDateTime: 2021-09-28T13:02:00Z

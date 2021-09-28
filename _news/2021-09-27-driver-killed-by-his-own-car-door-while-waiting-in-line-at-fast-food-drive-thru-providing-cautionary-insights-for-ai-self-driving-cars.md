@@ -255,8 +255,8 @@ related:
         isCached: true
   - title: "Tesla's 'full self-driving' could be days away"
     excerpt: "A wider group of Tesla owners who paid up to $10,000 for what the company calls its \"full self-driving\" software can now ask the automaker for access to a test"
-    publishedDateTime: 2021-09-28T19:01:00Z
-    webUrl: "https://www.kctv5.com/teslas-full-self-driving-could-be-days-away/article_e0dd71b4-29c3-5227-a521-a04d18076a02.html"
+    publishedDateTime: 2021-09-28T19:16:00Z
+    webUrl: "https://www.kctv5.com/teslas-full-self-driving-could-be-days-away/article_e0dd71b4-29c3-5227-a521-a04d18076a02.html?block_id=991173"
     ampWebUrl: "https://www.kctv5.com/teslas-full-self-driving-could-be-days-away/article_e0dd71b4-29c3-5227-a521-a04d18076a02.amp.html"
     cdnAmpWebUrl: "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/teslas-full-self-driving-could-be-days-away/article_e0dd71b4-29c3-5227-a521-a04d18076a02.amp.html"
     type: article

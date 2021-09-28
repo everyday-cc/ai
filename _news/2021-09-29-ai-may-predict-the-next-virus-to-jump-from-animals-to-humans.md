@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-09-ai-virus-animals-humans.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-09-ai-virus-animals-humans.amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI could help scientists ID the next virus to jump from animals to humans"
+    excerpt: "In a new proof-of-concept study, published Tuesday in the journal PLOS Biology, researchers suggest artificial intelligence can be used to predict the likelihood that an animal-infecting virus will infect humans."
+    publishedDateTime: 2021-09-28T20:53:00Z
+    webUrl: "https://www.upi.com/Science_News/2021/09/28/scotland-ai-model-zoonotic-virus/3931632855806/"
+    ampWebUrl: "https://www.upi.com/amp/Science_News/2021/09/28/scotland-ai-model-zoonotic-virus/3931632855806/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/09/28/scotland-ai-model-zoonotic-virus/3931632855806/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 56
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/3931632855806/2021/1/16328623692550/v1.5/AI-could-help-scientists-ID-the-next-virus-to-jump-from-animals-to-humans.jpg"
+        width: 700
+        height: 466
+        isCached: true
   - title: "Artificial intelligence could help to predict the next virus to jump from animals to humans"
     excerpt: "The researchers' machine learning models could allow scientists to pre-emptively develop vaccines to protect against the most likely candidates."
     publishedDateTime: 2021-09-28T18:01:00Z
@@ -57,6 +73,6 @@ related:
         height: 397
         isCached: true
 
-secured: "7fTaI1WtWbE0oQ/mhnDNSAwjVEaCuF9wHBGClaZz/I8hCp+FI9z30VPNYwUYUegmx6vD/GNYqU7gn7/lk9KoPWzqSe2fjcvvlIFwmhmMdqtEWBoo0QnMy8HzdL7awyWXmiVkI/ZkLGIhXXcBCGSJj8Gq3tQGv8LhXHMv4tnn1BYqD2KD68xtFZNwZUJkAKwthooKkL4pLAWOn74WBAWNWcLw0Qgka3j/rJ0cmXt9ExqdmjGAB2nlThgg+MjhFWCAJLPOQhQGrd1VXnEuY7qwQF+WqbFgJsSbOl/ix1ewK3WUjcoMdd4qS0iQZaPJuMOdDrY1TmyuJIxtSSByxNd5iSrfzbU7gKoyzkXgUMhh2CY=;Ysw+W8YRS4t5qJP1omMFNw=="
+secured: "oSd7GQvuY/5B9wgU+7G7T2VeAcCo1suOX/qvrNn+7WSHFd8wJOMoERcq3VvKel88as5heLCtZNfPO1vXoULxwWXkAb8C1fhUYQ4oTPgpywrStTmvPP3MYAYtSX9WlLwwgbNONRvktB0TDYIZhbYcTzlmMfcFNJ+JCICjVrLPHG24fq8QQC5pMeRQRQ1omi5Mfs5yR+hT5USzg93rkvs+fwLxxFlAX74pf4FMtA2FFJkV8MU/PHAaaKjxprpMAF0zgWPwc9n2uGa1Rga+ZY+NQhqjuOw+/45o1L8iidlAQduNXRcCmTK+Nm0UBqqoAT5iCZe0lE4YpusrpnXTOMnhXhz+F0avGuWBFyle1eW7aWvPA2Erfj8MY7QjSkQCgzBGIXM90WoQqlMWVLeZazHantytQEOyZkaHZUKyRNckD+VUrLsR3MPbiqLYyCgfVR+ce1ErPDhBe3Qt/2LksiNxcHPrZrjaQxPZ/cfuJraYSjnCz7SlgAWe06hHlrn9PVo4SUBnSGhXXKsWaytQuVqHPQ==;uOdwE6nWU+709PQcp1r/uQ=="
 ---
 

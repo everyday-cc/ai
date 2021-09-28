@@ -1,0 +1,54 @@
+---
+category: news
+title: "Vietnamese EV Innovator VinFast Selects Cerence to Power Intelligent Voice Assistant Across its ..."
+excerpt: "AI for a world in motion, today announced that VinFast, Vietnam’s first domestic car company and a leader in electric vehicle innovation worldwide, has selected Cerence to power conversational AI across its lineup of smart EVs as it expands globally."
+publishedDateTime: 2021-09-28T12:02:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/business-technology-vietnam-cerence-inc-53c8238ab19099ae7148efef6d6d4c36"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/business-technology-vietnam-cerence-inc-53c8238ab19099ae7148efef6d6d4c36"
+type: article
+quality: 10
+heat: -1
+published: false
+
+provider:
+  name: Associated Press
+  domain: apnews.com
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+related:
+  - title: "Cerence Delivers Voice Assistant for Vietnamese Automaker"
+    excerpt: "VinFast will be integrating Cerence’s smart voice technology into a new line of smart electric vehicles for the global market"
+    publishedDateTime: 2021-09-28T20:45:00Z
+    webUrl: "https://mobileidworld.com/cerence-delivers-voice-assistant-vietnamese-automaker-092804/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 24
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/Cars.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Vietnamese EV Innovator VinFast Selects Cerence to Power Intelligent Voice Assistant Across its Global Lineup"
+    excerpt: "AI for a world in motion, today announced that VinFast, Vietnam’s first domestic car company and a leader in electric vehicle innovation worldwide, has selected Cerence to power conversational AI across its lineup of smart EVs as it expands globally."
+    publishedDateTime: 2021-09-28T12:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-vietnamese-ev-innovator-vinfast-selects-cerence-power-intelligent-/2021/09/28/9457536.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
+secured: "WcpdcnSOfmzONSTo2js0Bj5b2DUmmdLnFwesi1zwx+d6++r877F4rsl7lPKW+fZk+fDciD58vZij4oWDihbzVER+BUJGASVzx0VTdKy6jLf08E4rSaU75iSIL/64hpNNC4NlnoM4rBKScQzUj3fD+x1n/OtqFZexV4WBhQ8hfTsP9k48tdzKvQ4DHzN7mAk9OisC/1GGMcIkCEw9UjNvBL71yIlSKZRSGTyBJHfZjdpGAg2UWw3HKqVs+TseBCif+wgVE+h7zKimiVZ9jeHIH6wtJHgY/j7L6hGhQjm4I13ukv3W1CV8B38fkn5NrRbkeLzRMUh9wLgO3lpYRAgKRs8Hyiqi3E5rHay+x5AyFGs=;Qp6vCosuZf4hYbIgHocwRQ=="
+---
+

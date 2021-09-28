@@ -24,36 +24,66 @@ images:
     isCached: true
 
 related:
-  - title: "The 7 Biggest Artificial Intelligence (AI) Trends In 2022"
-    excerpt: "In 2022, we will see artificial intelligence continue along the path to becoming the most transformative technology humanity has ever developed. According to Google CEO Sundar Pichai, its impact will be even greater than that of fire or electricity on our development as a species."
-    publishedDateTime: 2021-09-24T04:35:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2021/09/24/the-7-biggest-artificial-intelligence-ai-trends-in-2022/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/09/24/the-7-biggest-artificial-intelligence-ai-trends-in-2022/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/09/24/the-7-biggest-artificial-intelligence-ai-trends-in-2022/amp/"
+  - title: "Three Key Artificial Intelligence Applications For Cybersecurity"
+    excerpt: "We are at the doorstep of a new era of smart technology and cybersecurity is already a testing ground. The cybersecurity industry is increasingly impacted by the deployment of solutions supported by a"
+    publishedDateTime: 2021-09-24T17:25:00Z
+    webUrl: "https://www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/"
+    ampWebUrl: "https://www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 106
+    quality: 91
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614d55107441e2d9ba4238f6%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614e04f5dff3ebea27d194cc%2F0x0.jpg"
         width: 1200
-        height: 840
+        height: 799
         isCached: true
-  - title: "Artificial Intelligence (AI) in Mining Market Future Developments, Companies, Trends, Share and Size Forecast"
-    excerpt: "ReportsnReports has uploaded a latest report on Artificial Intelligence AI in Mining Industry from its research database Artificial Intelligence AI in Mining Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence AI in"
-    publishedDateTime: 2021-09-27T11:58:00Z
-    webUrl: "https://www.openpr.com/news/2408036/artificial-intelligence-ai-in-mining-market-future"
-    ampWebUrl: "https://www.openpr.com/amp/2408036/artificial-intelligence-ai-in-mining-market-future"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2408036/artificial-intelligence-ai-in-mining-market-future"
+  - title: "Cyber security in the public cloud"
+    excerpt: "A brief guide to the network, infrastructure, data, and application security capabilities AWS, Microsoft Azure, and Google Cloud provide to prevent cyber attacks and protect your cloud-based resources and workloads."
+    publishedDateTime: 2021-09-27T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.html"
+    ampWebUrl: "https://www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.amp.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 53
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 91
     images:
-      - url: "https://cdn.openpr.com/U/9/U927717989_g.jpg"
-        width: 604
+      - url: "https://images.techhive.com/images/article/2015/10/cloud-security-ts-100622309-large.jpg?auto=webp"
+        width: 1200
+        height: 899
+        isCached: true
+  - title: "Applying cybersecurity lessons learned for AI regulation"
+    excerpt: "As regulators and insurers work to understand the level of regulatory oversight that is needed for AI innovation, there is a path forward by looking to the recent past. The massive 2015 breach of Anthem’s customer data was a catalyst moment for insurance regulators and led to the Insurance"
+    publishedDateTime: 2021-09-28T11:15:00Z
+    webUrl: "https://www.dig-in.com/opinion/applying-cybersecurity-lessons-learned-for-ai-regulation"
+    type: article
+    provider:
+      name: Digital Insurance
+      domain: dig-in.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/a6aa3a5/2147483647/strip/true/crop/3998x2099+0+406/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F46%2F69%2Fa0b77d3d4302a600e0927c19b14b%2F372143433.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Hillstone Networks Provides Cybersecurity Solutions Using Artificial Intelligence: Interview With Vice President Timothy Liu."
+    excerpt: "Hillstone Networks helps both small and big enterprises secure their web applications and defend their online infrastructures against cyberattacks with outstanding technology made possible with the help of artificial intelligence."
+    publishedDateTime: 2021-09-28T19:37:00Z
+    webUrl: "https://techbullion.com/hillstone-networks-provides-cybersecurity-solutions-using-artificial-intelligence-interview-with-vice-president-timothy-liu/"
+    ampWebUrl: "https://techbullion.com/hillstone-networks-provides-cybersecurity-solutions-using-artificial-intelligence-interview-with-vice-president-timothy-liu/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/hillstone-networks-provides-cybersecurity-solutions-using-artificial-intelligence-interview-with-vice-president-timothy-liu/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 30
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/09/Tim-Liu-VP-and-CTO-of-Hillstone-Network.png"
+        width: 700
         height: 400
         isCached: true
 

@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon Astro could be the robot we've been waiting for"
+    excerpt: "Inspired by science fiction, cute as a button, capable and smart -- Amazon's $1,000 home robot Astro is here to help."
+    publishedDateTime: 2021-09-28T20:43:00Z
+    webUrl: "https://www.cnet.com/home/smart-home/amazon-astro-could-be-the-robot-weve-been-waiting-for/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-astro-could-be-the-robot-weve-been-waiting-for/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-astro-could-be-the-robot-weve-been-waiting-for/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 104
+    images:
+      - url: "https://www.cnet.com/a/img/1apgttjzwvxskXvt2B8u4qNGCmo=/0x38:2300x1330/1200x630/2021/09/28/4fc6682b-c610-466c-a707-cc906c33fdc5/astro.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Amazon Astro is a $1,000 Alexa-powered home robot"
     excerpt: "Amazon has unveiled its first robot, Amazon Astro, combining Alexa on a motorized platform that can roam around the home. Astro has a pop-up periscope camera on top, a moving screen on the front,"
     publishedDateTime: 2021-09-28T17:07:00Z
@@ -61,6 +77,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon’s Astro Is a Robot Without a Cause"
+    excerpt: "Actually, you get Astro, Amazon’s long-rumored home robot. The company has been working on this for nearly four years, and it has plans for Astro. It’s just not quite sure exactly what those are yet,"
+    publishedDateTime: 2021-09-28T21:45:00Z
+    webUrl: "https://www.wired.com/story/amazon-astro/"
+    ampWebUrl: "https://www.wired.com/story/amazon-astro/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-astro/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/61538083098d958b61f393dc/master/pass/Gear-Amazon-Astro-moving-around-home.jpg"
+        width: 2400
+        height: 1800
+        isCached: true
   - title: "Amazon's Astro home robot could help you, party with you and also respect your privacy"
     excerpt: "Inspired by science fiction, cute as pie, capable and smart -- could Astro be the robot we've been waiting for?"
     publishedDateTime: 2021-09-28T17:03:00Z
@@ -77,7 +109,23 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ring, Echo and Astro: Everything Amazon just announced"
+    excerpt: "Hardware Some of the products Amazon announced today. Amazon just wrapped up its Fall 2021 event, where the online retail gian. This year's event was different, only because the company normally announces as many as 60 different products."
+    publishedDateTime: 2021-09-28T18:45:00Z
+    webUrl: "https://www.zdnet.com/article/ring-echo-and-astro-everything-amazon-just-announced/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ring-echo-and-astro-everything-amazon-just-announced/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ring-echo-and-astro-everything-amazon-just-announced/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 74
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/r/2021/09/28/429ab9c8-f7a9-4134-89cd-319199be058b/resize/1200xauto/5c766dcf1e48192ab21955afb5a34de7/halo-view-hero.png"
+        width: 1200
+        height: 853
+        isCached: true
 
-secured: "pNrKrGTfNDC9+VPAnFd1c8PcF6VMLvkOQB6uDaRcAPXLXZPFWdiTv2QFw24euNUbcGVcKPRi+xCpqldMFLE8aGmKF7YHaXj5oefRkRJMbSYYaOdeLNxm64xVkj28XfOEHjixybO8tz2py/6BKS/IvhWdrbPFhEuqyKPOdiV+a/vuYQPf1YrMmd1EXOssnHn5a7AditlLMe1Pa0R1n11wU14MBIUSQHswH3zYaPMw/i2UDqALHQRRCENhi0Kz9Aoy0qhs57xm0+ZdMjSQQIT612dnjC2WA+FXwVddTkuZ3WPSErC50TJ1oCAiV8sgMDwCFRQR5BCzkM8j7FXKMaMxR7IHUp3IoxNzUZyfJEkVk6k=;qS0lGQxoTC3Tfqg/SCXzwA=="
+secured: "ZzCivtBuOj3LWNrTqvUh7X/Nb8tHF9IdymaHqoKlcZ4M5Hct0nvIJIN2+dqwkOF7jqBftJPbNJ8EV9tl8yoi5itXGZeerWRDYhgUaRvaZekI9+MbWTFsyTSUL1M+0p8XwEVwwPAYtvRBEyLVEx0IsK3sUz8uOqyrCctiOwqF6ygf9yZhVAhPTmvILv+wytq3qVvOoy4u4jrG+zQmPur8DTv088A6CtLWxjJja7k2hm/P98h9PtkLp/ZZlL24w+3Ynoifj0B7uR4kN1PXhGBj8nQqzXnVLYrU15PbqfUZ4dvNJCAF+O9LVHta4CSyUc+peisj6UZ+u7KYuVuIM2QnOCsKN4AptVhCWYyAcYkCNMIted4qUp/1T0EgUUQyVe67xvt9HGLbqqnQKAhX3sASLjwTx2CoUrd2/H+B8sAe36Jxv2lVVmRaWyOBTY68KVPzcXS+VrZLKFj/0ujPk/V1Lvu/6qtDAgsDoPBvTpVfJy1ajoPXTQLm4Ku6m6YRJv1dyqQeWDOHU4WLC2HIj8861Q==;pAwJqZT7GQLO/nXkJQfviw=="
 ---
 

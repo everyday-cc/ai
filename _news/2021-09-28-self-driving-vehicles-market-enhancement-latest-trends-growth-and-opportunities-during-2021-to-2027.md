@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Mining Market Future Developments, Companies, Trends, Share and Size Forecast"
+    excerpt: "ReportsnReports has uploaded a latest report on Artificial Intelligence AI in Mining Industry from its research database Artificial Intelligence AI in Mining Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence AI in"
+    publishedDateTime: 2021-09-27T11:58:00Z
+    webUrl: "https://www.openpr.com/news/2408036/artificial-intelligence-ai-in-mining-market-future"
+    ampWebUrl: "https://www.openpr.com/amp/2408036/artificial-intelligence-ai-in-mining-market-future"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2408036/artificial-intelligence-ai-in-mining-market-future"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 53
+    images:
+      - url: "https://cdn.openpr.com/U/9/U927717989_g.jpg"
+        width: 604
+        height: 400
+        isCached: true
   - title: "Global Artificial Intelligence in IoT Market 2021 Size Share Upcoming Trends Segmentation, Opportunities and Forecast To 2026"
     excerpt: "The New Report Global Artificial Intelligence in IoT Market published by Reports Web covers the competitive landscape analysis and its growth prospects over the coming years The report also covers the major region such as North America Europe Asia Pacific"
     publishedDateTime: 2021-09-28T09:45:00Z

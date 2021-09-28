@@ -66,22 +66,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
-  - title: "Android New Facial Gesture Controls & Handwriting Recognition Features, Check How It Works"
-    excerpt: "Google has launched a lot of accessibility features for Android, including Android Facial Gesture navigation and Android Handwriting recognition feature."
-    publishedDateTime: 2021-09-24T03:59:00Z
-    webUrl: "https://www.republicworld.com/technology-news/mobile/android-new-facial-gesture-controls-and-handwriting-recognition-features-check-how-it-works.html"
-    ampWebUrl: "https://www.republicworld.com/amp/technology-news/mobile/android-new-facial-gesture-controls-and-handwriting-recognition-features-check-how-it-works.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/mobile/android-new-facial-gesture-controls-and-handwriting-recognition-features-check-how-it-works.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 34
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/6ol50ektyictzzac_1632454868.jpeg"
-        width: 768
-        height: 438
-        isCached: true
   - title: "Keystroke tracking, screenshots, and facial recognition: The boss may be watching long after the pandemic ends"
     excerpt: "Companies are increasingly turning to surveillance software tools as they consider permanent remote work policies."
     publishedDateTime: 2021-09-24T14:29:00Z
@@ -108,6 +92,6 @@ related:
       domain: seattletimes.com
     quality: 19
 
-secured: "0PDuencADqMb/aSslSm5kWfgTCs3ChfvjhoWHXf6r7R3Pd8rxDd875MCZ8EhG4HX1ARsMDchyFRKsy5Sh0fInXjhdunR9UEZFhJ7sEzxyby+0k+ngRBilTMzX58A/pwxBiAZbA7HckWPOiUX7kfdWKiK9235roi1gB2AvZMUp+rbJzSNNKS9+z+zaiPlSKV6v2ABdPG3dZqTqBQGUWO+REB5T3m6mljfvhgsW7HWZVyv7+hy2XZXSMDjAuDkdMacDM+5n3Km6tI4Zv1K0ZGRS5FUndnsja6ZtJFa6HtcnfmkyKSYn7QXlvL6YPNkZtW1rD0p5g4w+f39hFd/7/rf9sPL0Dw7AJdMcSV98uSa+H8=;9soYAWks2HX24kUWeME7Bw=="
+secured: "L1eMgvg6sFvYbfhVtKCZVNFMB4kvvkDuUaj6XlesoJQv5L9NUwaRNVroCQzk2wVhw7DXdciuda/OskOc97YZa44u7+mdgt+pdkGxHQ77FcsycrqDnF1hjclxm70TfpR42K1EIuT8FfI9V9fNaMffhCyEM0I99GyWdCx/Ty472I4oPHoundvsF3zrZF3VAJjIQSvO0b2uvQ4GUkE4/XPAk9/r8W94ISLyporOfwLlH5mvf82K/YbQU0rtJxIU3CfL/+kgzoEe4xSqwfLU8xetLxQHv7AVO5hMJNFHXo3eiNL+ChW1h35m4fRjOItluh4tRx3oLsWK6sbfRkCnygvooBlNa5ywFZKc2+Nkjf/nXgnwUwZq3qVp5rpof2ewLoW6ysxUnpl25IvlJRND5STlF28i5n6QPnmzqlRTIMEmxCX/jF+hKRS34beDHZsU38PUJXxL0Nu1aZC08vg5mOAORswaP13aO+ey0wdZc4no5JUCojvH6Dy+AObcJeftkGiBa8QOKmQCzwy0Y4XDTJkc5g==;oZpE2qi793tqTSHdSZCK2g=="
 ---
 

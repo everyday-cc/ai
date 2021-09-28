@@ -30,21 +30,19 @@ images:
 related:
   - title: "Here's everything Amazon announced at its big product event — including a $999 robot"
     excerpt: "Amazon is continuing its quest to cover our homes and bodies with Amazon devices. At a livestreamed media event on Tuesday, the company showed off a handful of new Amazon-branded products, including an Echo device that hangs on the wall and acts as a digital whiteboard for the home,"
-    publishedDateTime: 2021-09-28T19:50:00Z
-    webUrl: "https://www.wlfi.com/content/national/575411422.html"
-    ampWebUrl: "http://www.wlfi.com/templates/AMP?contentID=575411422"
-    cdnAmpWebUrl: "https://www-wlfi-com.cdn.ampproject.org/c/www.wlfi.com/templates/AMP?contentID=575411422"
+    publishedDateTime: 2021-09-28T17:04:00Z
+    webUrl: "https://www.gwinnettdailypost.com/news/business/heres-everything-amazon-announced-at-its-big-product-event-including-a-999-robot/article_9116a411-3791-54c0-9192-dae8730283cf.html"
     type: article
     provider:
-      name: WLFI
-      domain: wlfi.com
-    quality: 52
+      name: Gwinnett Daily Post
+      domain: gwinnettdailypost.com
+    quality: 32
     images:
-      - url: "http://media.heartlandtv.com/designimages/640x380px.png"
-        width: 640
-        height: 380
+      - url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/c/7b/c7b2c38e-2084-11ec-a8a9-b7c92d7e5a85/6153563ff1438.image.jpg?resize=1119%2C630"
+        width: 1119
+        height: 630
         isCached: true
 
-secured: "XjsdycfkUAs53We49Z4R+60jATCN0nBld/9JGZ/aIJ0cG0X6NHUWV09mSi/2SKDA/KWl8COCUkaupShglhiQS0rputHqTbinI3PeSJVtczSbtt6sbcxVJSKd2ZG+GpjQ9A3vowmwt+CIRPoUIEA28jilo6dEm5oG4G6Vqnez2ToEMY9qc9aXkyaJr6h+SH1Wab7/VziLrJe9av1ReKJUTyJyn+6lhwBJ1gqZS38BZCCFSWpHnZudn0x6rgo59BXTXP/vaPzixT0XBbd4Fcq5KTh5sBMF0QImBEJtzgVzJVilr0mMeAXYxW/vlnq7fDQHizkxR/7Wxy4CamjaMrXrCL2AqZK9MPIDldALh+kYqVQ=;RxAzj+UODrgfSPzQ8uai1g=="
+secured: "vo62PDbpjvN206hvp5QvJauQ0dO+sng9DB2A69zBWWPUGHPEq6Fl57EYB3CqKC50ygjZJlQbQVeyNwXSnaxkwicfkn7P2MS78K6F4XmbO1VFhW2jVNCYGBa8a/BrLrpqou5YHessszQJCJO6c3XP+mHolLlU2E4HgOKj5Hfd3kmzwNXOVomZ4FEuPvMVER6molFjXqsOxRBl9eHCGi1gLxkiomSwKv7X34L+Ceqjur6ATjpS3CRKT0CuW2p3QNGtwuKxxAAQrnrcAspFgUYA7CZSkJnscuuWXX588UxFPbEacI8aCkb3sgmH4aQ+wysOJbHGktiLoklDh4Jab/l6jJEfDXsZm9xNkj7dbs+xjjrUSjP49j9NG9XNOIWaSIfp99CDj8vqLvA5c9TdXpAhU20RdrL9MZuWbz5mIGa7i8Bnql3rVG48B6f6+T/3uK5nIz0/QYYlLUi7In3qKzOOJQMXUdGzctdfJ7Xu+/J5m+EOvz7HEKHXKT6JXwwcqvOCYGlzsJ2J6JrLu66dmISg7w==;8aFdqlUflMINVxgc3lSVzQ=="
 ---
 

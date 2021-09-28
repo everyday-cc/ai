@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/deep-learning-helps-predict-new-drug-com
 webUrl: "https://news.mit.edu/2021/deep-learning-helps-predict-new-drug-combinations-fight-covid-19-0924"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "From AI to computer vision: How cult.fit stepped up to deliver holistic solutions post Covid-19"
+    excerpt: "Covid-19 locked us in our homes and shut gyms down, amongst other things. But here's a company that stepped up its game to change things for the better, virtually and otherwise."
+    publishedDateTime: 2021-09-28T21:28:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/from-ai-to-computer-vision-how-cult-fit-stepped-up-to-deliver-holistic-solutions-post-covid19-71632820468048.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/from-ai-to-computer-vision-how-cult-fit-stepped-up-to-deliver-holistic-solutions-post-covid19-71632820468048.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/from-ai-to-computer-vision-how-cult-fit-stepped-up-to-deliver-holistic-solutions-post-covid19-71632820468048.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 62
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2021/09/28/1600x900/Ankit_Gupta_pic_1632822190235_1632822210350.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "COVID-19: Coming to grips with facial recognition scans part of home isolation experience"
     excerpt: "Using a location checking app and doing a facial recognition scan were part of a South Australian's daily duties during a home isolation trial. The government is expected to release more details of its pilot home isolation scheme for businesses tomorrow with a long list of companies keen to get onboard."
     publishedDateTime: 2021-09-28T08:31:00Z

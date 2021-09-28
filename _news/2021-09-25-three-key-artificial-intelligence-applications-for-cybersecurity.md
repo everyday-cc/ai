@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://images.techhive.com/images/article/2015/10/cloud-security-ts-100622309-large.jpg?auto=webp"
         width: 1200
         height: 899
+        isCached: true
+  - title: "Trends in Artificial Intelligence (AI) in Cybersecurity"
+    excerpt: "These 5 trends in artificial intelligence (AI) in cybersecurity underscore the overall shift toward AI applications across many fields:"
+    publishedDateTime: 2021-09-27T07:12:00Z
+    webUrl: "https://www.datamation.com/security/artificial-intelligence-ai-in-cybersecurity-trends/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 52
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intellgence-4-scaled.jpeg"
+        width: 2560
+        height: 1493
         isCached: true
   - title: "Applying cybersecurity lessons learned for AI regulation"
     excerpt: "As regulators and insurers work to understand the level of regulatory oversight that is needed for AI innovation, there is a path forward by looking to the recent past. The massive 2015 breach of Anthem’s customer data was a catalyst moment for insurance regulators and led to the Insurance"

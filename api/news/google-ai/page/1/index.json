@@ -487,6 +487,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-08-six-masters-two-phd-scholarships-available-at-su-courtesy-of-deepmind.md",
+      "title": "Six Masters, two PhD scholarships available at SU courtesy of DeepMind",
+      "excerpt": "The DeepMind scholarship programme gives talented students from groups currently underrepresented in machine learning, including women, the support they need to study at leading universities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engineeringnews.co.za/article/six-masters-two-phd-scholarships-available-at-su-courtesy-of-deepmind-2021-06-04/rep_id:4136",
+      "originalUrl": "https://www.engineeringnews.co.za/article/six-masters-two-phd-scholarships-available-at-su-courtesy-of-deepmind-2021-06-04/rep_id:4136",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.engineeringnews.co.za/template/en2016/images/en_default_large.jpg",
+          "width": 1022,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering News",
+        "domain": "engineeringnews.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-alphabets-deepmind-forms-ethics-unit-for-artificial-intelligence.md",
       "title": "Alphabet's DeepMind Forms Ethics Unit for Artificial Intelligence",
       "excerpt": "DeepMind, the Google sibling focusing on artificial intelligence, has announced the launch of an \"ethics and society\" unit to study the impact of new technologies on society. The announcement by the London-based group acquired by Google parent Alphabet is ...",
@@ -1388,40 +1431,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-artificial-intelligence-in-law-market-size-and-growth-2021-2028-key-players-aibrain-amazon-anki-cloudminds-deepmind-google-facebook.md",
-      "title": "Artificial Intelligence in Law Market Size and Growth 2021-2028 | Key Players – AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google, Facebook",
-      "excerpt": "The research report on the Artificial Intelligence in Law Market involves the study of all strategies involved in the process of growing the global market. Some of these strategies are data monitoring, passion, understanding potential customers, focus ...",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-in-law-market-size-and-growth-2021-2028-key-players-aibrain-amazon-anki-cloudminds-deepmind-google-facebook/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-in-law-market-size-and-growth-2021-2028-key-players-aibrain-amazon-anki-cloudminds-deepmind-google-facebook/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-in-law-market-size-and-growth-2021-2028-key-players-aibrain-amazon-anki-cloudminds-deepmind-google-facebook/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-law-market-size-and-growth-2021-2028-key-players-aibrain-amazon-anki-cloudminds-deepmind-google-facebook/",
-      "publishedDateTime": "2021-08-11T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

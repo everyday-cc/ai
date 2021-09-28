@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 899
         isCached: true
+  - title: "Trends in Artificial Intelligence (AI) in Cybersecurity"
+    excerpt: "These 5 trends in artificial intelligence (AI) in cybersecurity underscore the overall shift toward AI applications across many fields:"
+    publishedDateTime: 2021-09-27T07:12:00Z
+    webUrl: "https://www.datamation.com/security/artificial-intelligence-ai-in-cybersecurity-trends/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 52
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intellgence-4-scaled.jpeg"
+        width: 2560
+        height: 1493
+        isCached: true
   - title: "Applying cybersecurity lessons learned for AI regulation"
     excerpt: "As regulators and insurers work to understand the level of regulatory oversight that is needed for AI innovation, there is a path forward by looking to the recent past. The massive 2015 breach of Anthem’s customer data was a catalyst moment for insurance regulators and led to the Insurance"
     publishedDateTime: 2021-09-28T11:15:00Z
@@ -73,6 +87,6 @@ related:
         height: 630
         isCached: true
 
-secured: "fc4G4HCsqNhP/P5QB1d3OGgCzja7Nz586ZZRvdNMPYDtOOA9/Qlitdx8CNGdcXhpQhyQe6mFnS1vB/1HcPZnG0ZHPD3t7ZYfKz3juJXlbnJRZObQdXDBpprv1TaospMfXC+ZokxKytdZFS/hRrbyYNF70wcw3WbeUSlqCBWgVyRcexGTMKP2YwawHrUIBzvjfmync1H8JCyndDqMHsQQwedyrtVQgjlGKMG1C6hq8ropGAhJUGsEMw4QH58P/6yXngivarwW15OdmoBBmJ06EygHf91vtsSd3qVPdT9np1Uiq5vw0Wa8gmtFYZ1g0s74SpLjv0d2RRcBm8nYD9G7LhIGglKwLa8j8j30YOYq3NI=;45OZ1CJn9oCUJbYTPiv6mw=="
+secured: "iKYkfGyLWIS0GHbR7KeTwqX+3VP7L4MId3Qg4Q4xzYY14jlbaReueDd9ng6Mni7C50k5OlichO1+sIrP75u9W/UwdZwgAKlLZgAwMFLGrn2GUIZ3Sd1uPvd/7dNMMysb5i3Wlyy2byUDoalcGPXuUwF0pKP6I/XLDnZ+HSdEV6DYMVDunHlL0/P8CH5vOo38a5SeLzHSaVJtTWmW21c3ghpGKdXf4Wl4goW3Pq9Yh27bLzRBcIjWkvLX9LtG94JkkwfQxmmGra+IQvVfdJD4kHocJJqv4KekKRH5VNR7ZKLQpGqPekToyQlqsDYXWmRw2GI052cqvm+oUOwO2OQRDO+FR8xgQQMsANTm10c6+Yy2gVmYN3C6TZ3gI9eIaQfE8TVYrNo/W1Nq9oBk4EKRFOqe6i1/yQhm9X533zF2DiXWCjfxuuvnxE7nTQM0FSWzjfrAOZJbqa3Q2y3B3au+GyDy1MeQ9BDdhho3XM2iLdrTXibLV8621qq1nKRR1kJadu4JQ5gNL6SpUR1d6E3fyA==;KWBiKXmLNIaooiXbMFhifg=="
 ---
 

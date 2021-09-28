@@ -83,6 +83,20 @@ related:
         width: 940
         height: 443
         isCached: true
+  - title: "Augmented Intelligence Market is Going to Boom with Microsoft, Google, AWS"
+    excerpt: "A Latest intelligence report published by AMA Research with title “ Augmented Intelligence Market Outlook to 2026. A detailed study accumulated to offer Latest insights about acute features of the Global Augmented Intelligence Market ."
+    publishedDateTime: 2021-09-28T20:45:00Z
+    webUrl: "https://menafn.com/1102881322/Augmented-Intelligence-Market-is-Going-to-Boom-with-Microsoft-Google-AWS"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?950318"
+        width: 443
+        height: 250
+        isCached: true
   - title: "Infosys Wins the 2021 Microsoft US Partner Award for Demonstrating Excellence in Azure AI Capabilities"
     excerpt: "Infosys Wins the 2021 Microsoft US Partner Award for Demonstrating Excellence in Azure AI Capabilities. Infosys has won the ‘2021 Microsoft US Partner Award’ for demonstrating"
     publishedDateTime: 2021-09-27T17:06:00Z

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-29-vice-president-calls-for-ai-solutions-in-agriculture-health-education.md",
+      "title": "Vice President calls for AI solutions in agriculture, health, education",
+      "excerpt": "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1102881265/Vice-President-calls-for-AI-solutions-in-agriculture-health-education",
+      "originalUrl": "https://menafn.com/1102881265/Vice-President-calls-for-AI-solutions-in-agriculture-health-education",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2021-09/28/I_c99edimage_story.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-will-ai-revolutionize-regtech-part-1-faster-easier-richer.md",
       "title": "Will AI Revolutionize Regtech? Part 1: Faster, Easier, Richer",
       "excerpt": "Later this year at the NSCP National Conference, I’ll be speaking on a panel with Jane Stabile and Andrew Siegel on the topic “Will AI Revolutionize the Financial Services Industry?” To help promote the event,",
@@ -193,7 +237,7 @@
       "originalUrl": "https://www.itpro.co.uk/mobile/google-android/361007/android-accessibility-facial-recognition-handwriting-autumn",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -1294,50 +1338,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-healthcare-natural-language-processing-nlp-market-to-witness-huge-growth-by-2028-oracle-corporation-hewlett-packard-co-cerner-corporation.md",
-      "title": "Healthcare Natural Language Processing (NLP) Market to Witness Huge Growth by 2028 | Oracle Corporation, Hewlett-Packard Co., Cerner Corporation",
-      "excerpt": "The report does include most recent post-pandemic market survey on Healthcare Natural Language Processing (NLP) Market. Competition Analysis : Oracle Corporation, Hewlett-Packard Co., Cerner Corporation,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/healthcare-natural-language-processing-nlp-market-to-witness-huge-growth-by-2028-oracle-corporation-hewlett-packard-co-cerner-corporation/",
-      "originalUrl": "https://manometcurrent.com/healthcare-natural-language-processing-nlp-market-to-witness-huge-growth-by-2028-oracle-corporation-hewlett-packard-co-cerner-corporation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/Global-Healthcare-Natural-Language-Processing-NLP-Market-Including-Key-Players-Market-Share-780x470.jpg",
-          "width": 780,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/healthcare-natural-language-processing-nlp-market-to-witness-huge-growth-by-2028-oracle-corporation-hewlett-packard-co-cerner-corporation/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/healthcare-natural-language-processing-nlp-market-to-witness-huge-growth-by-2028-oracle-corporation-hewlett-packard-co-cerner-corporation/",
-      "publishedDateTime": "2021-09-14T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

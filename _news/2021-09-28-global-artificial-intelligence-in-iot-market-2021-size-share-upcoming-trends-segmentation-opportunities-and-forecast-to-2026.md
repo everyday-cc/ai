@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Mining Market Future Developments, Companies, Trends, Share and Size Forecast"
+    excerpt: "ReportsnReports has uploaded a latest report on Artificial Intelligence AI in Mining Industry from its research database Artificial Intelligence AI in Mining Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence AI in"
+    publishedDateTime: 2021-09-27T11:58:00Z
+    webUrl: "https://www.openpr.com/news/2408036/artificial-intelligence-ai-in-mining-market-future"
+    ampWebUrl: "https://www.openpr.com/amp/2408036/artificial-intelligence-ai-in-mining-market-future"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2408036/artificial-intelligence-ai-in-mining-market-future"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 53
+    images:
+      - url: "https://cdn.openpr.com/U/9/U927717989_g.jpg"
+        width: 604
+        height: 400
+        isCached: true
   - title: "Self-driving Vehicles Market Enhancement, Latest Trends, Growth and Opportunities during 2021 to 2027"
     excerpt: "The Self driving Vehicles Market research report provides detailed observation of several aspects including the rate of growth regional scope and recent developments by the primary market players The report offers Porter s Five Forces PESTEL and market analysis to"
     publishedDateTime: 2021-09-28T09:48:00Z

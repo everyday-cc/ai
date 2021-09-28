@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/national/kerala/engineering-graduates-
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/kerala/engineering-graduates-develop-deep-learning-based-solution-to-detect-phishing-attacks/article36691024.ece/amp/"
 type: article
 quality: 52
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Sentinel Offers AI-Based Solution to Detect Deepfakes"
-    excerpt: "Concept: Estonian startup Sentinel has released a solution to detect fake media content on the web. Its platform helps democratic governments, defense agencies, and enterprises stop the risk of AI-generated deepfakes with its protection technology."
-    publishedDateTime: 2021-09-27T11:51:00Z
-    webUrl: "https://www.power-technology.com/research-reports/sentinel-offers-ai-based-solution-to-detect-deepfakes/"
+  - title: "A developer’s guide to machine learning security"
+    excerpt: "Adversarial attacks are different from other threats programmers face, so they need to understand the weak spots in machine learning."
+    publishedDateTime: 2021-09-28T21:20:00Z
+    webUrl: "https://venturebeat.com/2021/09/28/a-developers-guide-to-machine-learning-security/"
+    ampWebUrl: "https://venturebeat.com/2021/09/28/a-developers-guide-to-machine-learning-security/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/a-developers-guide-to-machine-learning-security/amp/"
     type: article
     provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 106
     images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/09/shutterstock_766923355.jpg"
-        width: 500
-        height: 256
+      - url: "https://venturebeat.com/wp-content/uploads/2021/09/machine-learning-security-for-developers-1-e1632767450503.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "9SESVuVuAYkiKxQjhKD8ONHKQ2cgm37ijW6L+/MFik3Yj7lWGiMC3xHR9mLluzc5n5bRPKPZwUFJs0CxDkvhbst5lwMh0HS3UFst4IGm/fKcbE9lLGzqcyi03luPZQmcMO533NQG+pdAmN6+VQWHw9lHt6twjYUQWJpeui8DdJDBRHEZMW4HnMqI8L3wlf6umNsXIKkpGvXaJYWaA+3dDtJQYiC4BAN3Xw3regz8Mcxxgc8VoAMN2dCOuQKpzg5yKjbSN4ribHGruDPQUpC7jv+Y2Vxws9lqtgaX/zj1B248karNSO6MCPVpY5vrrwCY5vwaHGTXPT7chwZDJGmO87K9Kki5A3C8HLzqrLSjZTBcM977VOqcgKhQVQ0rcy/WJlTKD48sg5P7frRgU7ndQhQw+23pGDp/agUehUKaO/+BdW3+0oNSz/bS6iy/ZSI8O0edtpZ1nbE8vKwoPnhee6ALzg7S5AXawbBjpnUkSb4MeS4PDMA3gksZdxPRVNvhFip6BFPuhMMmARnzI0c2Mw==;FhzLWnXSpa0tTLn5aERaqQ=="

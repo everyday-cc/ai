@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence can help prevent heart disease misdiagnosis"
-    excerpt: "the health care provider or both. Pittsburgh-based company HEARTio seeks to prevent misdiagnoses by applying artificial intelligence to the diagnostic process. “These people [doctors and nurses ..."
-    publishedDateTime: 2021-09-27T05:58:00Z
-    webUrl: "https://cyprus-mail.com/2021/09/27/how-artificial-intelligence-can-help-prevent-heart-disease-misdiagnosis/"
+  - title: "How does Artificial Intelligence impact you?"
+    excerpt: "The use of AI is expected to become even rifer in the future, changing everything from how we shop for our essentials to how we commute and perform our day-to-day activities. In fact, it has been predicted that AI will speed up information sharing across platforms exponentially,"
+    publishedDateTime: 2021-09-27T06:31:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-does-artificial-intelligence-impact-you-ajay-j-pillai"
     type: article
     provider:
-      name: Cyprus Mail
-      domain: cyprus-mail.com
-    quality: 39
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 41
     images:
-      - url: "https://cyprus-mail.com/wp-content/uploads/2021/09/heart-disease-AI-prevention.jpg"
-        width: 1352
-        height: 892
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQErMIdDyK_BZQ/article-cover_image-shrink_600_2000/0/1632724166896?e=1638403200&v=beta&t=ar0TC2JyBJrGcQpoqembEtjuZVYUgh2ZkZkjmM5zcIA"
+        width: 864
+        height: 486
         isCached: true
 
 secured: "rAqzR2zwN68nI0LLqXbFHAxbPL8DL+dotim3roXTaaWFB412qaujOh6Uz2r5l7OYuFgjpYyi7d8VBasH3+a33+IAUofgqvFBqwVH7bnGKYfX6KE3k+ycSnxJTkjIujVmkIq6EU1Rq80FbCkx5t6EJNKwlB2fjQJYzEQawi29gow79QMP2aE7EaNK7kYKr1BqscoXIONS/x+VEL464GXNgFVF5QXuDCGO5SjDiq/EKYw5tOljAMUb1WmQYAVfNfV+DOi4Yvqh2YJN/1UNzQPzS17SBh6Caa64Weiv1R5/4Droa3vZJynPCTmWeqQs9+EFHwuz3Oz1Z7uiBE+4QyuW5Fog4EGG/5Jqih1TZz72+tezeYqDqdoSnf51dbf0QJR8kkG1R82H1ZpnkZH6y6F0QFApPE4laT/c8BO2gRXINiaHvyKfvylJ40WF5yXaRa7xxaTV7Kkrkn7xEBewOX+I49Kqn77OtSEHzo12u+buq3iJ0M4zoy7Q4iRD0oiARKntIHQIYRUvdlZzOIbAmtiYXw==;UcY2Il4JXoGS4DUSriz/jQ=="

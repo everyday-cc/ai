@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 899
         isCached: true
+  - title: "Trends in Artificial Intelligence (AI) in Cybersecurity"
+    excerpt: "These 5 trends in artificial intelligence (AI) in cybersecurity underscore the overall shift toward AI applications across many fields:"
+    publishedDateTime: 2021-09-27T07:12:00Z
+    webUrl: "https://www.datamation.com/security/artificial-intelligence-ai-in-cybersecurity-trends/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 52
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intellgence-4-scaled.jpeg"
+        width: 2560
+        height: 1493
+        isCached: true
   - title: "Hillstone Networks Provides Cybersecurity Solutions Using Artificial Intelligence: Interview With Vice President Timothy Liu."
     excerpt: "Hillstone Networks helps both small and big enterprises secure their web applications and defend their online infrastructures against cyberattacks with outstanding technology made possible with the help of artificial intelligence."
     publishedDateTime: 2021-09-28T19:37:00Z
