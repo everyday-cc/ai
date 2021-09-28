@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "ZebraMedVision"
   url: "https://twitter.com/ZebraMedVision"
-  followers: 2055
+  followers: 2056
 
 size: 51-200 employees
 yearFounded: 2014

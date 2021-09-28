@@ -23,7 +23,7 @@
       "twitter": {
         "username": "cisco",
         "url": "https://twitter.com/cisco",
-        "followers": 718381
+        "followers": 718385
       },
       "size": "10,001+ employees",
       "yearFounded": 1984,
@@ -69,7 +69,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 76337
+        "followers": 76340
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -86,7 +86,7 @@
         "AI Hardware",
         "Computer Vision"
       ],
-      "heat": 220,
+      "heat": 219,
       "tags": [
         "Autonomous Vehicles",
         "Image Recognition"
@@ -129,7 +129,7 @@
       "twitter": {
         "username": "graphcoreai",
         "url": "https://twitter.com/graphcoreai",
-        "followers": 7577
+        "followers": 7578
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -191,7 +191,7 @@
       "twitter": {
         "username": "qctrlHQ",
         "url": "https://twitter.com/qctrlHQ",
-        "followers": 3600
+        "followers": 3599
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -242,7 +242,7 @@
       "twitter": {
         "username": "IntelAI",
         "url": "https://twitter.com/IntelAI",
-        "followers": 26234
+        "followers": 26236
       },
       "size": "10,001+ employees",
       "yearFounded": 1968,
@@ -255,7 +255,7 @@
         "AI Hardware",
         "Computer Vision"
       ],
-      "heat": 59,
+      "heat": 58,
       "tags": [
         "Autonomous Vehicles",
         "Image Recognition"

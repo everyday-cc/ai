@@ -2,7 +2,7 @@
 name: "DeepMind"
 overview: "Artificial intelligence could be one of humanity's most useful inventions. DeepMind aims to build advanced AI to expand our knowledge and find new answers. By solving this one thing, we believe we could help people solve thousands of problems."
 type: "profile"
-heat: 51
+heat: 50
 
 website: https://deepmind.com/
 
