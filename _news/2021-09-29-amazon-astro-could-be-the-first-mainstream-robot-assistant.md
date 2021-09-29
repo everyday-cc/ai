@@ -109,6 +109,17 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Amazon (AMZN) Boosts Robotics Efforts With Astro Launch"
+    excerpt: "Amazon AMZN ramps up its robotics initiatives by launching a home robot called Astro, which rolls around the house autonomously. Astro, which marks itself as the first domestic robot, is embedded with cameras,"
+    publishedDateTime: 2021-09-29T15:04:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazon-amzn-boosts-robotics-efforts-with-astro-launch-2021-09-29"
+    ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-boosts-robotics-efforts-with-astro-launch-2021-09-29?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-boosts-robotics-efforts-with-astro-launch-2021-09-29?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
   - title: "Amazon’s Astro robot is straight out of The Jetsons"
     excerpt: "Amazon is rolling out (literally) a robot that can help monitor your home. Powered by Amazon Alexa and a bunch of artificial intelligence (AI) technology while patrolling about on a set of wheels, the Astro robot can handle numerous tasks,"
     publishedDateTime: 2021-09-28T18:58:00Z

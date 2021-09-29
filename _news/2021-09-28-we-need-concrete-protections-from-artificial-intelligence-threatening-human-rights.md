@@ -20,6 +20,20 @@ topics:
   - AI
 
 related:
+  - title: "How ‘human rights by design’ can save us from AI misuse"
+    excerpt: "We need concrete protections from artificial intelligence undermining social justice. The 'Human Rights by Design' approach could help."
+    publishedDateTime: 2021-09-29T16:04:00Z
+    webUrl: "https://thenextweb.com/news/how-human-rights-by-design-can-save-us-from-ai-misuse-syndication"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2Fjustice-ai-hed.jpg&signature=d92b53ea08ecea5bd123ec48ac93dca6"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "We need concrete protections from artificial intelligence threatening human rights"
     excerpt: "Events over the past few years have revealed several human rights violations associated with increasing advances in artificial intelligence (AI)."
     publishedDateTime: 2021-09-27T11:32:00Z

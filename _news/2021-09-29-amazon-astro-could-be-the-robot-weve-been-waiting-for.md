@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-astro-could-be-the-robot
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-astro-could-be-the-robot-weve-been-waiting-for/"
 type: article
 quality: 104
-heat: 274
+heat: 284
 published: true
 
 provider:
@@ -95,6 +95,17 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Amazon (AMZN) Boosts Robotics Efforts With Astro Launch"
+    excerpt: "Amazon AMZN ramps up its robotics initiatives by launching a home robot called Astro, which rolls around the house autonomously. Astro, which marks itself as the first domestic robot, is embedded with cameras,"
+    publishedDateTime: 2021-09-29T15:04:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazon-amzn-boosts-robotics-efforts-with-astro-launch-2021-09-29"
+    ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-boosts-robotics-efforts-with-astro-launch-2021-09-29?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-boosts-robotics-efforts-with-astro-launch-2021-09-29?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
   - title: "Amazon Astro could be the first mainstream robot assistant"
     excerpt: "Ever since Amazon introduced Alexa to the world and invested heavily in its personal assistant AI, it seemed we all knew where the company was eventually heading: personal robots. That moment has finally arrived."
     publishedDateTime: 2021-09-29T01:53:00Z

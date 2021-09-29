@@ -1,25 +1,49 @@
 ---
 category: news
-title: "An autonomous robot may have already killed people - here's how the weapons could be more destabilizing than nukes"
-excerpt: "Autonomous weapon systems are robots ... AI makes it almost impossible to imagine morally responsible development of autonomous weapons systems. The proliferation problems The next two dangers are the problems of low-end and high-end proliferation. Let’s ..."
-publishedDateTime: 2021-09-29T15:58:00Z
-originalUrl: "https://www.houstonchronicle.com/news/article/An-autonomous-robot-may-have-already-killed-16495797.php"
-webUrl: "https://www.houstonchronicle.com/news/article/An-autonomous-robot-may-have-already-killed-16495797.php"
-ampWebUrl: "https://www.houstonchronicle.com/news/amp/An-autonomous-robot-may-have-already-killed-16495797.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/An-autonomous-robot-may-have-already-killed-16495797.php"
+title: "An autonomous robot may have already killed people – here’s how the weapons could be more destabilizing than nukes"
+excerpt: "Sci-fi nightmares of a robot apocalypse aside, autonomous weapons are a very real threat to humanity. An expert on the weapons explains how the emerging arms race could be humanity’s last."
+publishedDateTime: 2021-09-29T12:23:00Z
+originalUrl: "https://theconversation.com/an-autonomous-robot-may-have-already-killed-people-heres-how-the-weapons-could-be-more-destabilizing-than-nukes-168049"
+webUrl: "https://theconversation.com/an-autonomous-robot-may-have-already-killed-people-heres-how-the-weapons-could-be-more-destabilizing-than-nukes-168049"
+ampWebUrl: "https://theconversation.com/amp/an-autonomous-robot-may-have-already-killed-people-heres-how-the-weapons-could-be-more-destabilizing-than-nukes-168049"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/an-autonomous-robot-may-have-already-killed-people-heres-how-the-weapons-could-be-more-destabilizing-than-nukes-168049"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "/ZbQ+t26gdNxM4tQv7ilnkh7GB70ZkA98bKKO1MtK5FdJ9QAGc9CvHTBNLdhVD4T57+wUXhQODh6IYsOZGg/kOry9/n0MG2POWm/Yl/AHT1xY1eqz7P/kGr1UBU+s9S4uAdGAEK/kKcsBI5s8++HMa9tGyU24A8GkXhbIY8GnC4gZDCspFGXuRfrN9IhWYUOEeEZCLCI7OsjLrxqPN5SXfgEo9blVG+QJ82QTA2nknQth9Ek+yqfoEPQPnqJyjab3NpOMinP/eL9zt9ejSBsMtywa5aJewEv3qr7OWe1okGwrJRFRkJgh48I2HsYfPL3qwAF+OWNc9g+9E15Rt+Mjrv040Fr2dcl8lOnkpNmd+0=;RsINYrh7UN5UZ//1dVPSjg=="
+images:
+  - url: "https://images.theconversation.com/files/423433/original/file-20210927-21-wsi2zg.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+    width: 320
+    height: 213
+    isCached: true
+
+related:
+  - title: "An autonomous robot may have already killed people - here's how the weapons could be more destabilizing than nukes"
+    excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
+    publishedDateTime: 2021-09-29T17:07:00Z
+    webUrl: "https://www.ourmidland.com/news/article/An-autonomous-robot-may-have-already-killed-16495797.php"
+    ampWebUrl: "https://www.ourmidland.com/news/amp/An-autonomous-robot-may-have-already-killed-16495797.php"
+    cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/An-autonomous-robot-may-have-already-killed-16495797.php"
+    type: article
+    provider:
+      name: Our Midland MI
+      domain: ourmidland.com
+    quality: 37
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+
+secured: "JONjnNHss/YP2qjmBcz+i1ZJ4zFZUKIRAE7aQLQ1+Q9OydEcDE+uFStyqc1kOckEO4zbZoYjAJRse2N8X2NReCCuOCDfuUBA7OtjRZeZGCtni/xxQz+7KwWz6n9MujcEMQ4BrZNSuhLC6k05hb/xneZHQeH7VxoxPDB2sh7kh6OUN7Q1N3vX9zAwoYJ/U1gY6YHDeo+788yTuNANrj3BdLjbz9TjoYJfF8IQoa/bt/vqz65VwwtqaR0Qojd4x/EyFeTcFUdHN99Z+dSwxBaFJd/nkDUH10ohQTQEOz5RrqRGUrZUZrhatYHwh9/LwPGlea1yq/pgZ1KPYb/53ZsxNSRyD0qpSY3Ik0xYl1p1y50=;/eHaVo/uF+WtEBeC57rvZw=="
 ---
 

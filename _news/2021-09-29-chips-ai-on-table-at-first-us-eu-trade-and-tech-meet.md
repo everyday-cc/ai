@@ -39,6 +39,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "U.S., EU launch consultations on tech regulations, chips, China trade"
+    excerpt: "U.S. and European Union trade and competition officials launched a new forum on Wednesday joining forces to better compete with China, shield sensitive technologies, boost semiconductor supplies and coordinate regulation of large technology firms."
+    publishedDateTime: 2021-09-29T16:24:00Z
+    webUrl: "https://www.nasdaq.com/articles/u.s.-eu-launch-consultations-on-tech-regulations-chips-china-trade-2021-09-29"
+    ampWebUrl: "https://www.nasdaq.com/articles/u.s.-eu-launch-consultations-on-tech-regulations-chips-china-trade-2021-09-29?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-eu-launch-consultations-on-tech-regulations-chips-china-trade-2021-09-29?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
 
 secured: "ArYXlhGO0qyeQ1Hdj1Qzu+TZ4wQ5x5+EgwKjmNnhS4Ukvllc9N1T9OjHCoILuLpicvP/+peiROEn+zBKYwL8coRUtzRWrcZxHrMP1ZPLmY83YBZaM6Vl4tjvF0fsrIKntjpkaxA4AKT6ox2kAzhtW3i7A/3w7PRuSIn0C6tu8e59TCuidx9LS2Gf7WWTN9SagEyKIyUu3yyEbTMTCTZXZZ5UKIxe7wQDBlOhDK27CaVqxf6hvn/vFB/q6ngueYm6kCPuAeBh7agyFA73lVJi1pS8thh64IDbShPcgMCS/OU3g0DwcN6ZtPSrcdH50A9Unce3NZKpgHk4W6GvRcdgYvv65JXQnQT3Q29jVid3B+s8Nz+Ug0REEKio3zSWTokoXD41kaEhDIgP4/Vmk2Jk75A9PvRTSfzx7881luuLojsE9CEe5ablTVLoQs09CvYiJLZG5G8Bx4RdRqpCEMp+/lDH9UlwKAKHh7Z7/oRWH9jTruYxwVNMYrNLKU5Me+nWNM8GdsqNQPJw6RWlgwiBcw==;KCZwor8gU5HJ2PEF74LaIg=="
 ---

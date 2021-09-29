@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-09-29-graymatter-robotics-raises-41m-seed-round.md",
-      "title": "GrayMatter Robotics Raises $4.1M Seed Round",
-      "excerpt": "GrayMatter Robotics, creator of smart robotic assistants that help humans more safely and effectively do surface treatment tasks such as sanding and spraying on manufacturing lines, announced today that it has raised a $4.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/graymatter-robotics-raises-4-1m-seed-round-1030831417",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/graymatter-robotics-raises-4-1m-seed-round-1030831417",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-29T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-29-amazon-astro-could-be-the-robot-weve-been-waiting-for.md",
       "title": "Amazon Astro could be the robot we've been waiting for",
       "excerpt": "Inspired by science fiction, cute as a button, capable and smart -- Amazon's $1,000 home robot Astro is here to help.",
@@ -53,7 +10,7 @@
       "originalUrl": "https://www.cnet.com/home/smart-home/amazon-astro-could-be-the-robot-weve-been-waiting-for/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 284,
       "tags": null,
       "images": [
         {
@@ -296,7 +253,7 @@
       "originalUrl": "https://www.forbes.com/sites/erictegler/2021/09/27/anyone-can-download-an-autonomous-research-robot-from-the-air-force-research-laboratory/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -1332,17 +1289,17 @@
       "title": "AMP Robotics Installs its First Recycling Robots in the United Kingdom and Ireland with Recyco",
       "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in AI, robotics, and infrastructure for the waste and recycling industry, has installed its first AI-guided robotics systems in the UK and Ireland with Recyco, a leading recycling and waste management business in Northern Ireland.",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/amp-robotics-installs-its-first-recycling-robots-in-the-united-kingdom-and-ireland-with-recyco/article_e52bd3fb-5ef8-585a-a122-e9b900393399.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/amp-robotics-installs-its-first-recycling-robots-in-the-united-kingdom-and-ireland-with-recyco/article_e52bd3fb-5ef8-585a-a122-e9b900393399.html",
+      "webUrl": "https://us.acrofan.com/detail.php?number=534676",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=534676",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/3/c3/3c3f06b9-e148-56c7-a437-b8af59cc6d9e/614ae63768524.image.jpg?resize=945%2C630",
-          "width": 945,
-          "height": 630,
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1352,11 +1309,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-22T01:02:00-07:00",
+      "publishedDateTime": "2021-09-22T01:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
+        "name": "아크로팬",
+        "domain": "acrofan.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1391,6 +1348,49 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-how-an-ai-assisted-robot-gun-assassinated-irans-top-nuclear-scientist.md",
+      "title": "How An AI-Assisted Robot Gun Assassinated Iran's Top Nuclear Scientist",
+      "excerpt": "An AI-assisted remote-controlled gun played a key role in Israel's assassination of Iran's nuclear kingpin, according to a new report by the New York Times",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/technology/how-an-aiassisted-robot-gun-assassinated-irans-top-nuclear-scientist/",
+      "originalUrl": "https://www.iflscience.com/technology/how-an-aiassisted-robot-gun-assassinated-irans-top-nuclear-scientist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/2d15193b-4612-5fd9-801e-59ede04ab106/default-1632224046-iran-military.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.iflscience.com/technology/how-an-aiassisted-robot-gun-assassinated-irans-top-nuclear-scientist/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/how-an-aiassisted-robot-gun-assassinated-irans-top-nuclear-scientist/",
+      "publishedDateTime": "2021-09-21T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
         "images": null,
         "publishers": null,
         "authors": null

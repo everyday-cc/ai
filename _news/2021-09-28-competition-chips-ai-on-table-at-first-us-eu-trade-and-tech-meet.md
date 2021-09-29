@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/competition-chips-ai-table-firs
 webUrl: "https://www.reuters.com/technology/competition-chips-ai-table-first-us-eu-trade-tech-meet-2021-09-27/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     isCached: true
 
 related:
+  - title: "U.S., EU launch consultations on tech regulations, chips, China trade"
+    excerpt: "U.S. and European Union trade and competition officials launched a new forum on Wednesday joining forces to better compete with China, shield sensitive technologies, boost semiconductor supplies and coordinate regulation of large technology firms."
+    publishedDateTime: 2021-09-29T16:24:00Z
+    webUrl: "https://www.nasdaq.com/articles/u.s.-eu-launch-consultations-on-tech-regulations-chips-china-trade-2021-09-29"
+    ampWebUrl: "https://www.nasdaq.com/articles/u.s.-eu-launch-consultations-on-tech-regulations-chips-china-trade-2021-09-29?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-eu-launch-consultations-on-tech-regulations-chips-china-trade-2021-09-29?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Chips, AI on table at first US-EU trade and tech meet"
     excerpt: "WASHINGTON: The United States and the European Union hope to discuss chip shortages, artificial intelligence (AI) and tech competition issues during the first Trade and Tech Council (TTC) meeting this week,"
     publishedDateTime: 2021-09-29T03:00:00Z

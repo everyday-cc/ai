@@ -42,6 +42,20 @@ related:
         width: 252
         height: 355
         isCached: true
+  - title: "Vice President Naidu calls for people-centric Artificial Intelligence solutions in agriculture, health, education sectors"
+    excerpt: "Vice President Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence AI to deliver benefits to"
+    publishedDateTime: 2021-09-29T16:24:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271353157/vice-president-naidu-calls-for-people-centric-artificial-intelligence-solutions-in-agriculture-health-education-sectors"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 44
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1632920594.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "6 steps for seamlessly integrating an artificial intelligence solution into daily clinical practice"
     excerpt: "Imaging stakeholders have written plenty about the promise of artificial intelligence but not much on how to integrate AI solutions into daily clinical practice. Experts with University Hospitals are attempting to fill the void,"
     publishedDateTime: 2021-09-28T20:31:00Z
@@ -84,15 +98,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Vice President Naidu calls for people-centric Artificial Intelligence solutions in agriculture, health, education sectors"
-    excerpt: "In this regard, Naidu urged educational institutions, researchers, and developers to come out with practical AI solutions in the fields of agriculture, health, and education. Enumerating possible applications for AI,"
-    publishedDateTime: 2021-09-29T13:46:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/India/20210929/3828057.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 24
 
 secured: "Z98YwMiXN0w7bZ6hlHqZJzTp6FUMAWE+ikgkl8ZBcSvgpVz6U8N5ix4W8x+yetGBUwAwryTadrjkSNr7q9DZjltqQL3iYygGEW/cv39PvczFN+xfoAYsnLFKBPaO/yeRtZXrGuSUHeQ+8R0MTJoKDJbrov4KL/zbY76DrgHCq9rAlbcgWbHktf/KDEU0MKq2pPyyfsXbx5H/MjNZoMrtjtJzTI4vsV0sierbFwkv+dzbLfCFs7hRuRTHd8CgNFi1+XHJRf4ZRTYNhFHkukVu3MVO38GZXBWOLswTnn8b2kT+OYSl7xXvLXJa4aZi35u78hbpS4wmmSTQEWV75ef+GnogqfbTBycuJzblbyGV8/PqHy86mguSv7diEM7OKhaiHuyWG+saOFDP4J+KZ4I2aMab7+hberQQjTKaR34HGtCKw3imLvUncyofY2LSIODc+WsS5sgJ5MIT8mPKX8xclc3jSb4ogjMfVRwuK4X9B5kWvuCNm2x3Y92IH0l8/4UEwS+M7R6OsfUiyvDFOdoEmQ==;YITBdARschaAIFueBwOEFA=="
 ---

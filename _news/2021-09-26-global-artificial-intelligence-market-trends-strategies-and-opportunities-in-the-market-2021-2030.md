@@ -56,6 +56,29 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Beyond Codes signs 7 AI product companies"
+    excerpt: "While Tech Giants are aggressively integrating AI powered technologies into their products, there are numerous start-ups too, who are vying for a toe hold in the AI space. Most companies want to have effective data-driven decision making at their core."
+    publishedDateTime: 2021-09-29T17:20:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2021/09/29/9459174.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1638722/Gaurav_Kumar.jpg"
+        width: 333
+        height: 400
+        isCached: true
+  - title: "Machine learning tests abilities of rare-Earth phosphates given atmospheric extremes"
+    excerpt: "Materials and mechanical scientists are using machine learning to rapidly vet combinations of elements that could be used in next-generation environmental barrier coatings needed to protect vehicles traveling in the extreme conditions of aerospace and space environments."
+    publishedDateTime: 2021-09-29T17:43:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/930002"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 12
 
 secured: "k1oBPy8ilk8LwxeE8GwUFbxNyC8rg6X5kdS/xQ40QIrfcYCGBon+t+F2BiQdqjnmMx5N+LMz4c9bpAx4CTdnRLBflxtYYB4gszLCjAabGHSbRlAnTYV3d1jVC2na8LAmCtXu5BQ9I1MXVVeaVqJkAR6fIbCyQdrS2wmGZan+8LZ9Q8IaQfeA30Y2KHbnb1C4sinooeue9jXSLEKMtVPcdmkPwbi2Gdd+2kmmR3YlvjZpTuuaxHguzMlIqYjtO1bZda/51EGbkxhKM2avKlWyVPIpZZlolIq+j8EC/OF6e+RDr7JmmmcgommaGraXcyaU24TL0IhvdbF7QErY6esyKr73basphEYnzXiCQ8enPos=;6Rm/KEocy+Oe3mV7QoOElA=="
 ---

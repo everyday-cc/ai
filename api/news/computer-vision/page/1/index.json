@@ -1310,8 +1310,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://venturebeat.com/2021/09/16/computer-vision-dev-platform-roboflow-raises-20m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/16/computer-vision-dev-platform-roboflow-raises-20m/amp/",
       "publishedDateTime": "2021-09-16T15:35:00-07:00",
       "updatedDateTime": null,
       "provider": {

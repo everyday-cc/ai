@@ -105,6 +105,17 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Amazon (AMZN) Boosts Robotics Efforts With Astro Launch"
+    excerpt: "Amazon AMZN ramps up its robotics initiatives by launching a home robot called Astro, which rolls around the house autonomously. Astro, which marks itself as the first domestic robot, is embedded with cameras,"
+    publishedDateTime: 2021-09-29T15:04:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazon-amzn-boosts-robotics-efforts-with-astro-launch-2021-09-29"
+    ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-boosts-robotics-efforts-with-astro-launch-2021-09-29?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-boosts-robotics-efforts-with-astro-launch-2021-09-29?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
   - title: "Amazon Astro could be the first mainstream robot assistant"
     excerpt: "Ever since Amazon introduced Alexa to the world and invested heavily in its personal assistant AI, it seemed we all knew where the company was eventually heading: personal robots. That moment has finally arrived."
     publishedDateTime: 2021-09-29T01:53:00Z
@@ -286,6 +297,6 @@ related:
         height: 500
         isCached: true
 
-secured: "evzZox1a65A7t2WwBVy57Oc5fNbf+vFTeFz/v9UZd7jOkKLePKyS0Jqa/vsjM4T3V9FL6ZjOwcF9SwkP95jN6gI4cvu1IjUgsDR8AGQRky59NAVMsdRCMZPFIRqlMInqIui/yLFrnd5EIGpj3fASQ2nD/RfRs4pu1yESYu5K+0dSfE1bdZsmxMr97kP1VZcUsj2KAC9UQ+s2zFMMpn2hmePimBdMVTgCJ2mJiCUFQxj2/F1efqMWUzxW8hwhBbo4Qg5el81gspD0B9J4G/oMjsHXWmf/DBitp2G4pib5Iexv0eySL6p9Ye38rHIPzsZFbwtzjuct5QxyWptRbksK3E//fY5wqLvYR0FPiFZgtPw=;BqpozIEDbI7aoJm34ygJoA=="
+secured: "F2C1/4N4/Vl5jReNyp27ji34UKuvsv3fCaURdn0oRlATxpsAVc4iDkOz80k5WraqN3dhY80kwdSNsrghwtIsOMDszpYPDKpF4AscCNs8uR/Xvr+SpU9G3y6UfDIRPpDqFKFfv+Aov9zPDULKEZN1y9NuMz9WtFSI2dyWFumNPoivF9J75l9eEGJCyuTbvtQXPQ2H7V9cRJK9SmEkp0cVkgmro5mQ9yjHR9WASdr31A6IOSDbXvbCgUgVI2zG0Xz5csY1XwRZOI4u/glPE6M9mWDblJ6bP2fhlm/LeaD09IVTf3VMID/sWxb3qps4PN9tYGLwwbKlO3Fx6aHe41nm97oqs32j1VHPbnKP13HHFI7GAb+Xww5NwoiI2FiGCb/v0AVQRjIqTh17A3MySY/5KkVt348uu7NSOXanbMNK+TnydqRkTaHOg9iFNUFXs9DxCb2/SXZpOiaCpUmjycln9fT4aCr7mBVpeG/Gn0/aDA9+uph1aqTuiofy39qgHBFnalnnGM3AFwMcgN5ucLdroQ==;3sldNwyO5dV/T9umrftqsw=="
 ---
 

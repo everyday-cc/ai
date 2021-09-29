@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theglobeandmail.com/amp/investing/globe-advisor/advisor-
 cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/investing/globe-advisor/advisor-etfs/article-ai-adoption-in-the-etf-industry-begins-to-grow/"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI (Artificial Intelligence): Poised To Transform The Massive Construction Industry"
+    excerpt: "But if you look at the S-1 filing, there are some interesting details about the construction industry. For example, the investment in technologies has generally lagged (this is based on research from McKinsey) and the levels are only more than for agriculture and hunting."
+    publishedDateTime: 2021-09-29T17:32:00Z
+    webUrl: "https://www.forbes.com/sites/tomtaulli/2021/09/29/ai-artificial-intelligence-poised-to-transform-the-massive-construction-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2021/09/29/ai-artificial-intelligence-poised-to-transform-the-massive-construction-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/09/29/ai-artificial-intelligence-poised-to-transform-the-massive-construction-industry/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 96
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61549f1ba14eafa27698887b%2F0x0.jpg"
+        width: 1200
+        height: 828
+        isCached: true
   - title: "AI adoption in the ETF industry begins to grow"
     excerpt: "Industry figures are divided on whether the systems can truly remove human bias and how much supervision they need"
     publishedDateTime: 2021-09-25T16:00:00Z

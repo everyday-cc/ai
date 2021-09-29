@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3634111/cyber-security-in-the-publ
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.amp.html"
 type: article
 quality: 91
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
       - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intellgence-4-scaled.jpeg"
         width: 2560
         height: 1493
+        isCached: true
+  - title: "Artificial Intelligence-based Cybersecurity Market By Advanced Technology, Demand, Growth, Opportunity"
+    excerpt: "Artificial intelligence has been advancing by leaps and bounds in recent years. Artificial intelligence-based cybersecurity can be defined as the integration of AI technology to streamline complex processes of cybersecurity to make the system more secure,"
+    publishedDateTime: 2021-09-28T06:07:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-based-cybersecurity-market-by-advanced-technology-demand-growth-opportunity/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-based-cybersecurity-market-by-advanced-technology-demand-growth-opportunity/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-based-cybersecurity-market-by-advanced-technology-demand-growth-opportunity/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 41
+    images:
+      - url: "https://www.transparencymarketresearch.com/images/artificial-intelligence-based-cybersecurity-market-size-and-forecast.jpg"
+        width: 541
+        height: 334
         isCached: true
   - title: "Applying cybersecurity lessons learned for AI regulation"
     excerpt: "As regulators and insurers work to understand the level of regulatory oversight that is needed for AI innovation, there is a path forward by looking to the recent past. The massive 2015 breach of Anthem’s customer data was a catalyst moment for insurance regulators and led to the Insurance"

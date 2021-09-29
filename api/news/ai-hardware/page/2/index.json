@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-14-ai-system-on-chip-that-runs-on-solar-power.md",
+      "title": "AI System-on-Chip That Runs On Solar Power",
+      "excerpt": "Researchers have found a way to get around the issues of AI-led technologies with their newly developed system-on-chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsforu.com/tech-zone/processor-tech/ai-system-on-chip-that-runs-on-solar-power",
+      "originalUrl": "https://www.electronicsforu.com/tech-zone/processor-tech/ai-system-on-chip-that-runs-on-solar-power",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/09/ai-system-on-chip-runs.jpg",
+          "width": 800,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.electronicsforu.com/tech-zone/processor-tech/ai-system-on-chip-that-runs-on-solar-power/amp",
+      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/tech-zone/processor-tech/ai-system-on-chip-that-runs-on-solar-power/amp",
+      "publishedDateTime": "2021-09-14T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics For You",
+        "domain": "electronicsforu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-qualcomm-technologies-ai-software-broad-and-deep-ai.md",
       "title": "Qualcomm Technologies AI Software: Broad And Deep AI.",
       "excerpt": "QTI software supports multiple hardware accelerators in both Snapdragon and the Cloud while making it easy for developers.",
@@ -1356,49 +1399,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-energy-efficient-ai-chips-for-diagnostics.md",
-      "title": "Energy-Efficient AI Chips For Diagnostics",
-      "excerpt": "Researchers developed energy-efficient AI chips for diagnosing a common cardiac condition called atrial fibrillation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/tech-zone/processor-tech/energy-efficient-ai-chips-for-diagnostics",
-      "originalUrl": "https://www.electronicsforu.com/tech-zone/processor-tech/energy-efficient-ai-chips-for-diagnostics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/08/iis-itwm-energy-efficient-ai-chips-for-atrial-fibrillation-detection-pic-2.jpg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.electronicsforu.com/tech-zone/processor-tech/energy-efficient-ai-chips-for-diagnostics/amp",
-      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/tech-zone/processor-tech/energy-efficient-ai-chips-for-diagnostics/amp",
-      "publishedDateTime": "2021-08-24T23:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics For You",
-        "domain": "electronicsforu.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

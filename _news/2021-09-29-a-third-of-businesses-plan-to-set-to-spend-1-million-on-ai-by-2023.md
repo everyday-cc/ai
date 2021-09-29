@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361058
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361058/organisations-set-to-splash-1m-on-ai-by-2023?amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Radiologist's Cary startup raises $1 million to harness power of artificial intelligence"
+    excerpt: "A Cary-based artificial intelligence startup cofounded by a radiologist has closed its first million-dollar round. CoRead AI Inc. closed on more than $1 million in equity financing on Sept. 10 from three investors."
+    publishedDateTime: 2021-09-29T17:32:00Z
+    webUrl: "https://www.bizjournals.com/triangle/inno/stories/fundings/2021/09/29/coread-ai-mri-ct-scan-startup-raises-capital.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 23
 
 secured: "7hOfljNysSSZQSg9fbuANbK23HJjAF8n5F7eZSnU3PcgJyXrBo12d2yrTm1AM4OvMepp+7iBlPrTr3PbG1UzLb9WX/79UtE2nlkH8q1uDHAXhQ03NREZ8vjRGKrwiVL5kfBCvH7cdkLNOn7X+yOe8RIO/uSMdpRDYaQtwBXAHEN2lVYxpLADWLHChhXmj8M8owXXJxrByT46hRsnx3qNE7qFPpddw23YR6xCo1oocrmSIyoO7nejzfHBf92d5ETRcVYwV/G7CoTfz5mzaoOhH3sRqFmwiBaJHwSoA3KMyK7tV6uY+KLHHfH+3S7mzc4N2OBQ9JECNvj3ObAtbBZjjFcGUClf34OW59QLHIHaw4s=;NA3Fr4eKhgTBzZeGOrU41w=="
 ---

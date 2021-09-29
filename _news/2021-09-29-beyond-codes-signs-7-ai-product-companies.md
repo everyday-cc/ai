@@ -40,6 +40,20 @@ related:
         width: 800
         height: 464
         isCached: true
+  - title: "Beyond Codes signs 7 AI product companies"
+    excerpt: "While Tech Giants are aggressively integrating AI powered technologies into their products, there are numerous start-ups too, who are vying for a toe hold in the AI space. Most companies want to have effective data-driven decision making at their core."
+    publishedDateTime: 2021-09-29T17:20:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2021/09/29/9459174.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1638722/Gaurav_Kumar.jpg"
+        width: 333
+        height: 400
+        isCached: true
   - title: "Global Artificial Intelligence Market Trends, Strategies, And Opportunities In The Market 2021-2030"
     excerpt: "Artificial Intelligence Global Market Report 2021: COVID-19 Growth And Change. The Business Research Company's Artificial Intelligence Global Market Report"
     publishedDateTime: 2021-09-26T01:54:00Z
@@ -54,6 +68,15 @@ related:
         width: 505
         height: 250
         isCached: true
+  - title: "Machine learning tests abilities of rare-Earth phosphates given atmospheric extremes"
+    excerpt: "Materials and mechanical scientists are using machine learning to rapidly vet combinations of elements that could be used in next-generation environmental barrier coatings needed to protect vehicles traveling in the extreme conditions of aerospace and space environments."
+    publishedDateTime: 2021-09-29T17:43:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/930002"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 12
 
 secured: "R4cMYvwBToK4jcZ41wt6Nwwb5JIsraZ5d+/PW2xXG4Ib+jTpY1NyfodzWAW3240BOFgQluAHOvBUf31yzbz0sjbYaC353bH6VeKUGBkPEuRCMr9wZfxG2TmaBaxc7Pcb84hWh73+zOLfu5GG5rmRH9d57gpxWveEBA6XoNhXzhOxphGK1AIGJht+iRRqU5nx+NIYdeKCphvMTcQENgma2wJJt9SEZej57Ul8oDIdVjKjcPqxatVMNsmFeyQdAPhUxHHp9LKtiV6PTCJvTaglv2mr+XU23pY0SSKfPGzlE5Hxa70TXZx4M61iLN1hrvAjtuyEaUwmPGY/PI96nc7gioxZJoN7WgXKv2rOcDz6oFM=;FMl5pqBcd/F1kFUE4iij9Q=="
 ---

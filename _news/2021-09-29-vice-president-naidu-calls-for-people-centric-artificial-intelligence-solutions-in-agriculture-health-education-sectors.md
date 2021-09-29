@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Vice President Naidu calls for people-centric Artificial Intelligence solutions in agriculture, health, education sectors"
-excerpt: "In this regard, Naidu urged educational institutions, researchers, and developers to come out with practical AI solutions in the fields of agriculture, health, and education. Enumerating possible applications for AI,"
-publishedDateTime: 2021-09-29T13:46:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/India/20210929/3828057.html"
-webUrl: "https://news.webindia123.com/news/Articles/India/20210929/3828057.html"
+excerpt: "Vice President Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence AI to deliver benefits to"
+publishedDateTime: 2021-09-29T16:24:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/271353157/vice-president-naidu-calls-for-people-centric-artificial-intelligence-solutions-in-agriculture-health-education-sectors"
+webUrl: "https://www.bignewsnetwork.com/news/271353157/vice-president-naidu-calls-for-people-centric-artificial-intelligence-solutions-in-agriculture-health-education-sectors"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - AI
   - AI in Education
+
+images:
+  - url: "https://cdn.bignewsnetwork.com/ani1632920594.jpg"
+    width: 630
+    height: 420
+    isCached: true
 
 related:
   - title: "Vice President calls for AI solutions in agriculture, health, education"
@@ -92,6 +98,6 @@ related:
         height: 563
         isCached: true
 
-secured: "90V6Mxo9MGySDxsRbbiXQkUpgFWsTArxiLHb856kmSegduZwpv7H9owIEMCXOxgNx9hpNuyFYxseLhiZ3KrfEZcrN7Q4D0ny+HihRvP4Ru8V+uxiH4S/dyZnQuz6fCzphIAj9b5sz4ZKSusbE3zEDWw6Qu5NnExVhkya4PbWPC1tPqdZbj2UtoleykuWdRR5l50LpxZiKcofKDkNal7ULSooOwDXqzDzFSeHHKQNhMMZUYm/voWYp3bbkeRpX1ZxXn+cN3db1pP90WpYtQTjj9HsqJelqf+ZnEEsSw8i+pReU9opT4skb/ZaRg4JxGw2I16C/jBwN92TYr/VzOIlxaJwRRn5Fjv+MIg+2t7z/gg=;R07YgT60UNc0L7SkV9mHMw=="
+secured: "FtloNuP1UpBk6kYq9ph9mNNujmBcSxgLctma89KGcvF7ZMPOVXR9UJM2hKmPZjaBesmR8z4hot35F+1+/XzcG6ZiTV/5nEXJT1mwIxLpcY5hgBbIDLQn+OQbhp48sjWGpN0PyxPkOJXS5yi8grjNj0VqAJ6yKQ4Ylj4Vp9hu9nDE862Yk3rs1DTnCnjyJpGQtYflH+y48q3x8bE4qFu1udhXQ4LOI8kQOsjJR0m29m/HSRhTiszDN1T2pA8/E/Foypbv9AjeXMc3PVSkjCXdIm+bjnSCWzfry6KURmYTsg7Y5Qjrz6BvOdGytVs/UYEM01gnWehBYwx3YRneZ+Z2PzIiWrg5qf8cT0xk1qi7rDY=;LU0OvXRT0srU9wmFckzKEg=="
 ---
 

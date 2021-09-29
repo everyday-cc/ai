@@ -43,6 +43,15 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Radiologist's Cary startup raises $1 million to harness power of artificial intelligence"
+    excerpt: "A Cary-based artificial intelligence startup cofounded by a radiologist has closed its first million-dollar round. CoRead AI Inc. closed on more than $1 million in equity financing on Sept. 10 from three investors."
+    publishedDateTime: 2021-09-29T17:32:00Z
+    webUrl: "https://www.bizjournals.com/triangle/inno/stories/fundings/2021/09/29/coread-ai-mri-ct-scan-startup-raises-capital.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 23
 
 secured: "/80ImyCDrYZqGoXq6UivSSSoNg+8chbs+t2lEkn6V7tD+xl0f5AXAFdW2d/CYsnQumeFqR8TcSXzVHnZkPU2KYnS7afArMTxXK/PYnWQ+Sc79E+umBAI7UDS8AgCcUMCL+Tl2uav71iztqjMj9K0FkAPvrYYys0rIR5C8/NhBkAWRX5gQRa23RO+29+lomRnisvyjqDhIcMHTTKjQCSeq6WHxc9Ah7wdb5K0A2Lq6d4QYYmdnZwnhyC6qGjnw97a9XW2jK8iI+rch2ZOwiG4RNUrbrh9MG2pb+dq4pb98+2N490wZy1mCT5pqNrg/1GHJ5sOBVgDnH84EL8tZ36nFRSMo5xL/ZoCgSOr2BHvcvk=;3edOKJzrlRAiWSjp8M3gdA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/24/ai-weekly-researchers-attempt-an-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/24/ai-weekly-researchers-attempt-an-open-source-alternative-to-githubs-copilot/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "GitHub Copilot AI Spawns Open Source Alternatives"
-    excerpt: "After this summer's debut of the 'AI pair programmer,' some open source alternatives have been offered, and existing tools have been thrown into the mix as other options."
-    publishedDateTime: 2021-09-24T23:10:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2021/09/24/github-copilot-alternatives.aspx"
-    type: article
-    provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 39
-    images:
-      - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlueSquaresSmall.jpg"
-        width: 647
-        height: 450
-        isCached: true
 
 secured: "8FozMgPIOzRoWhdoSnif1OkBN4LZBTzc02vPX3/i342kyM5JHqxhyrCZLPg/Pd6Z/tcwXIN7J2PHaVu/eqEgNEdD4Jy8rFWtfm8mwW5YnXwcXQV4RFQceZa4rX5Lse6JJTbPrvXxwSpTL3DCW4NYzU2O1TUpll9VVc+2nMAXx0eKR7IysIg3KJiDel3bS1hNZ+i/3uyWjfcGN2QHxIsnHsvveb/IUi1JWAM84aLdoOcR94k9KgPrAsIzMdGhUWcbN44tpGdccEQGmg66oRgqs8Kny5/otg9m1rwT3zg8QYadEP8bxUvHhYbQrn4+lhFx0joOImvJXdfK4b/Pc8oHVhVn+Jb3Kcu2v4ZRhyTSAdRgNNA6cB33NmR7BrXvts+/2aQYYLxV3BzskgzMvgGDBX4XP/4ZFZjKfp4bOexL6tjpKTN2gCHUldGCzgmEcx9eiVmFoExBCslutHZz/ob7vWmGhcPqofhx8uhL29VYzckqe8exaJlwlPskBCA/fRJjSqCVg7X+r8SSSRECnDf3ow==;EhyMUBB66+2R9JdXkktEOw=="
 ---

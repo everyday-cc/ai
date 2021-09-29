@@ -3,10 +3,10 @@ category: news
 title: "Wells Fargo taps Microsoft Azure, Google Cloud for its multi-cloud pivot"
 excerpt: "Banking giant Wells Fargo said it is adopting a multi-cloud strategy that combines its data centers with cloud compute from Microsoft Azure and Google Cloud. Under the new digital"
 publishedDateTime: 2021-09-15T09:07:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2248/6/index.php/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/"
-webUrl: "https://www.zdnet.com/index.php/category/2248/6/index.php/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2248/6/index.php/google-amp/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2248/6/index.php/google-amp/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/"
+originalUrl: "https://www.zdnet.com/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/"
+webUrl: "https://www.zdnet.com/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "YNKv4H+7f30eY1YoK4XC/QiJOnv6NL4zAMAuLyIzo2H8CguyRcAmGQ2Ppx5VcIyfwESAB/rwHydKGhVa8rLabfxM/CBnMBMQh1dLW828pJP8uvGal0p85MB2HrqJwqXdNDjIl/Mwg1fY08mkfkyDT9PG4aCUmsCXOKsa8++UPerflCTfD63QSqdXKRCOlLa1k127lvR/GTGgdsQInmlSymfDQXMwEM5XSrMYm/YeJCq1DWyr5UeHKrnOUor+iV8Np5BTJHlpchxAwQ0yxzgMf8pXLNb2xIHghMEFkw6pivQ062baBxygk8bVqgYSYezxKuGfDdEmZG2FanhUUHEpisW529zGIUjh8Bbt5Imyw8Az0cBgqGrtqBKx561x8zGt+y+qwVGs2wklLjDKscJP5p39JZMOrKxkr2M2MGIfA4zF7V1tdlQH9xRj6PvjIBKb8NuwjyEzvlMHmHI84Ao/MOJHBIukGlhrT9kuF3wSIV0JlQqR8B2yNoKp9oXxcX+WZlE5Ix23nKEXNi9YuMTg5A==;E6PQ2VXJoBzM2gEZwkIMYQ=="
+secured: "mQYjtVrmlFOfGxjEOmUNo/cBmoiTFVLohw636niUhlW2VbR8e1wgQAg8pgUw/Sk6tiURQVseU9kPlzu0VQAR6aFYn0i1t/W24EceWk9nq5i3LZttRyDRCz+GRXFZzfaBVfKiGll3rRTmTGGKLgmWgP9embAFUJ5rm/Gnd1ieluz5ABAIEhBgRyanIwFW1GLPlfXy58PDTEHx+ywC2PM4B9WljRZH2WzthTgj7BeFsZqxogmrvvc6Rt2uGCbn127JejhVzXOvC33+MmpXxDi8fmYcD/glKNuKfux4+Yr3K1cYCXzo2K18tCjAclTwCsZ6VIex2h4sd7bNRP4NwvmWM+bpVxyJ4vLKGPFhYbxGSmOEI+ZUK38T1op0DRlv3R6kzWrzRZ9f31kaov//4adc/Gjvh7Xd43YZWIc2JZ12cCumo0jRNRBV7z3jv3yDUVtiZc3/S4+mSHSBqt40hm9uNgr4CKX2+/LJNrtzxKvhMi9CuEw+vMN3zT7LbYI1Rq7ZHq7mxc7j8Vu1uPSk5HBHcg==;PnxT/6voLptAFgXrYzC+DQ=="
 ---
 
