@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Virtu Financial enables its customers to apply advanced analytics and machine learning on trade and market data by provisioning Amazon SageMaker"
+    excerpt: "This is a guest post by Erin Stanton, who currently runs the Global Client Support organization for Virtu Analytics.&nbsp; Virtu Financial is a leading provider of financial services and products that uses cutting-edge technology to deliver liquidity to the global markets and innovative, transparent"
+    publishedDateTime: 2021-09-29T21:54:49Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/virtu-financial-enables-its-customers-to-apply-advanced-analytics-and-machine-learning-on-trade-and-market-data-by-provisioning-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 69
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/29/ML-5556-image001-revised.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Deep Learning Market Provides Detailed Insight by Trends, Challenges, Opportunities, and Competitive Analysis"
+    excerpt: "A number of factors such as the rising focus of companies on reducing their operational costs and surging adoption of deep learning solutions in contact centers are projected to boost the growth of the deep learning market at a CAGR"
+    publishedDateTime: 2021-09-29T11:54:00Z
+    webUrl: "https://www.openpr.com/news/2411602/deep-learning-market-provides-detailed-insight-by-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2411602/deep-learning-market-provides-detailed-insight-by-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2411602/deep-learning-market-provides-detailed-insight-by-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 55
+    images:
+      - url: "https://cdn.openpr.com/U/9/U929293741_g.jpg"
+        width: 800
+        height: 464
+        isCached: true
   - title: "BriefCam’s video analytics available on Axis Deep Learning Cameras"
     excerpt: "BOSTON—BriefCam, the industry’s leading provider of Video Content Analytics and VIDEO SYNOPSIS solutions, announced availability for BriefCam Video Content Analytics on Axis deep learning cameras in"
     publishedDateTime: 2021-09-27T17:22:00Z

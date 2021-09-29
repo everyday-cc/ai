@@ -1,0 +1,90 @@
+---
+category: news
+title: "U.S., EU agree to work on chip supplies, tech rules, China trade"
+excerpt: "The United States and European Union agreed on Wednesday to deepen transatlantic cooperation to strengthen semiconductor supply chains, curb China's non-market trade practices and take a more unified approach to regulating big,"
+publishedDateTime: 2021-09-29T20:29:00Z
+originalUrl: "https://www.reuters.com/technology/us-eu-launch-consultations-tech-regulations-trade-china-2021-09-29/"
+webUrl: "https://www.reuters.com/technology/us-eu-launch-consultations-tech-regulations-trade-china-2021-09-29/"
+type: article
+quality: 69
+heat: -1
+published: false
+
+provider:
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://www.reuters.com/resizer/QBsO6Th9MsOu5oTWJVWzip48cR0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I7DURYCRLZOA5BEUHD36PYJAKA.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+related:
+  - title: "Competition, chips, AI on table at first U.S.-EU trade and tech meet"
+    excerpt: "The United States and the European Union hope to discuss chip shortages, artificial intelligence (AI) and tech competition issues during the first Trade and Tech Council (TTC) meeting this week, senior U."
+    publishedDateTime: 2021-09-28T00:59:00Z
+    webUrl: "https://www.reuters.com/technology/competition-chips-ai-table-first-us-eu-trade-tech-meet-2021-09-27/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/kG7wTT8IEqmAqeVS3avArZBbvuQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/M3ISMUNRE5KA3GYSTY6XVOPW6E.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "U.S., EU launch consultations on tech regulations, chips, China trade"
+    excerpt: "U.S. and European Union trade and competition officials launched a new forum on Wednesday joining forces to better compete with China, shield sensitive technologies, boost semiconductor supplies and coordinate regulation of large technology firms."
+    publishedDateTime: 2021-09-29T16:24:00Z
+    webUrl: "https://www.nasdaq.com/articles/u.s.-eu-launch-consultations-on-tech-regulations-chips-china-trade-2021-09-29"
+    ampWebUrl: "https://www.nasdaq.com/articles/u.s.-eu-launch-consultations-on-tech-regulations-chips-china-trade-2021-09-29?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-eu-launch-consultations-on-tech-regulations-chips-china-trade-2021-09-29?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+  - title: "US, EU to cooperate on chip supply, tech trade"
+    excerpt: "The United States and the European Union agreed on Thursday to work together on a number of technology, economic, and trade issues at the first meeting of its Trade and Technology Council. The two"
+    publishedDateTime: 2021-09-29T21:47:00Z
+    webUrl: "https://www.teletrader.com/us-eu-to-cooperate-on-chip-supply-tech-trade/news/details/56449739"
+    ampWebUrl: "https://www.teletrader.com/amp/news/details/56449739"
+    cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/56449739"
+    type: article
+    provider:
+      name: teletrader.com
+      domain: teletrader.com
+    quality: 59
+    images:
+      - url: "https://cdn.ttweb.net/News/images/230812.jpg?preset=w800_q70"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Chips, AI on table at first US-EU trade and tech meet"
+    excerpt: "WASHINGTON: The United States and the European Union hope to discuss chip shortages, artificial intelligence (AI) and tech competition issues during the first Trade and Tech Council (TTC) meeting this week,"
+    publishedDateTime: 2021-09-29T03:00:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2021/09/29/chips-ai-on-table-at-first-us-eu-trade-and-tech-meet"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/09/29/1311368.jpg"
+        width: 1240
+        height: 827
+        isCached: true
+
+secured: "VdY1dRNQH6CU1eWbOGIITbo5HnCQ656DgLe9+mFR1thhV0bGMpBdS8C75dW409pB0HtvpNTFZw4G//YaZ8KR/Mai+08E8SExIKKlLR6Dkd00r/S8W/NBud+rMPc8WSn+VWlCNc5MWpGCg4AtnntlNqpBiWtpkRQgnL8Vo3sBTxWng0EFxdoNKc0r+N/DYxZKS8Bv6fNUXHPykH9+L3/ht4fVLz6A8bIMIrRDJ1BmkJPUuF4W/DHTdRm2SaVDSKBBbpnt7NtJSVwzdR3fpjkFyeiDpv0awRQ5iqilqOMR8o9+A7GKBE9Tivr2Jg72jxpsD/FD1kRtgNxV1sEr7BDCMCYWaEjifZGqXKevigaUb0Q=;GcVtsEKaqYVJTAXYieYQ/Q=="
+---
+

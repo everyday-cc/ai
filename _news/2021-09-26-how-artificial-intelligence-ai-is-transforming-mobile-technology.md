@@ -32,7 +32,7 @@ related:
     provider:
       name: StamfordAdvocate
       domain: stamfordadvocate.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://s.hdnux.com/photos/01/22/05/77/21520356/3/rawImage.jpg"
         width: 2000

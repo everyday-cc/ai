@@ -53,6 +53,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Kore.ai raises $50M for its AI-powered experience optimization platform"
+    excerpt: "Startup Kore.ai Inc. today announced that it has raised a $50 million funding round led by Vistara Growth and PNC to fuel the growth of its software platform, which helps companies build artificial intelligence assistants to automate repetitive business tasks."
+    publishedDateTime: 2021-09-29T20:45:00Z
+    webUrl: "https://siliconangle.com/2021/09/29/kore-ai-raises-50m-ai-powered-experience-optimization-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/image-7.png"
+        width: 932
+        height: 517
+        isCached: true
 
 secured: "D52havg/SvHBKB6q4B/gOaGxX07NLe28MJ4IyDRjzyxSOH6jFkBvrXPzGc1TcQHhmLM4VBT6kRtqP+VqAbPmSDt6al6rQOhA/OfJY72xw7gfX4El3n4ORDGYLbto2XzJvChepVybjpFfo91Yuoq+lG7srX0CBrffyopN+JIAgrqgUgjQ8b9Vun9RRADE1MBgvGQJJdS+ozylbRTCCE0JaSM2qGbXt+LkbwZbmwMmvgReWVFXMU5K40Xov878R64oe2ElpiH7228ktLc27agngZJml/A6NpP6LW1lzF92YQs2BZ2PUJNukEfENzcieBevHWEKwwCPSLfOm28KekA4/0YfySDHMhvr7L2HDfAQU44=;A7sSvCxxIlMB6TgMF/nU2Q=="
 ---

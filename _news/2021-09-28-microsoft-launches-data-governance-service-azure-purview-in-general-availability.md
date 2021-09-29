@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/28/microsoft-launches-data-governanc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/amp/"
 type: article
 quality: 114
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       - url: "https://www.infosys.com/content/dam/infosys-web/en/global-resource/18/banner/being-resilient-lead-mob.jpg"
         width: 800
         height: 500
+        isCached: true
+  - title: "AWS Announces General Availability of Amazon Managed Service for Prometheus"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Managed Service for Prometheus, a scalable, secure, and highly available service that makes it easier for customers to monitor containerized applications."
+    publishedDateTime: 2021-09-29T21:04:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-amazoncom-inc-web-services-0089902c40cb4d9eae515700894c692a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 52
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "AtScale Expands Semantic Layer Solution for Microsoft Excel"
     excerpt: "AtScale expands integrations with Microsoft Excel enabling high-performance, multi-dimensional analysis on live cloud data."

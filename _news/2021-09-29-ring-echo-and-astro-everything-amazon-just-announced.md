@@ -198,6 +198,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon Announced Astro Home Robot"
+    excerpt: "Tech giants Amazon Inc (AMZN) have unveiled its home robot, named Astro, on Tuesday in the fall hardware event. The robot is calibrated to watch over homes, carry small things, play with children, play music,"
+    publishedDateTime: 2021-09-29T20:14:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazon-announced-astro-home-robot-2021-09-29"
+    ampWebUrl: "https://www.nasdaq.com/articles/amazon-announced-astro-home-robot-2021-09-29?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-announced-astro-home-robot-2021-09-29?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Amazon's New Home Robot Astro Just Launched. And It Could Be a Nightmare"
     excerpt: "After the success of Alexa, Amazon built Astro, a moving assistant, but it reportedly works poorly and will follow people around, recording them."
     publishedDateTime: 2021-09-29T13:26:00Z

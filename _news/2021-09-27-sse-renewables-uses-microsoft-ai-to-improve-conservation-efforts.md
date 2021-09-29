@@ -83,6 +83,20 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "AWS Announces General Availability of Amazon Managed Service for Prometheus"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Managed Service for Prometheus, a scalable, secure, and highly available service that makes it easier for customers to monitor containerized applications."
+    publishedDateTime: 2021-09-29T21:04:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-amazoncom-inc-web-services-0089902c40cb4d9eae515700894c692a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 52
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AtScale Expands Semantic Layer Solution for Microsoft Excel"
     excerpt: "AtScale expands integrations with Microsoft Excel enabling high-performance, multi-dimensional analysis on live cloud data."
     publishedDateTime: 2021-09-28T17:52:00Z

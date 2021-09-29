@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-28T23:25:00Z
 originalUrl: "https://www.stamfordadvocate.com/business/article/This-Is-the-Secret-Sauce-Behind-Effective-AI-and-16493704.php"
 webUrl: "https://www.stamfordadvocate.com/business/article/This-Is-the-Secret-Sauce-Behind-Effective-AI-and-16493704.php"
 type: article
-quality: 54
-heat: 64
+quality: 56
+heat: 66
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI Hardware
 
 images:
   - url: "https://s.hdnux.com/photos/01/22/05/77/21520356/3/rawImage.jpg"

@@ -76,20 +76,6 @@ related:
         width: 550
         height: 450
         isCached: true
-  - title: "Five Economic Benefits From Bank And Fintech Firm Partnerships"
-    excerpt: "Q2 2021 hedge fund letters, conferences and Read More In fact, Capgemini's World FinTech Report of 2021 details how banks can leverage the new competitive market in depth. Just as we watched large and small businesses alike drastically adapt to the digital demands of Covid in 2020,"
-    publishedDateTime: 2021-09-25T04:56:00Z
-    webUrl: "https://menafn.com/1102859487/Five-Economic-Benefits-From-Bank-And-Fintech-Firm-Partnerships&source=138"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2021-09/24/V_b0f64image_story.jpg"
-        width: 600
-        height: 382
-        isCached: true
   - title: "Software platform Manch, fintech startup The Money Club raise funds"
     excerpt: "Bengaluru-based software platform Manch Technologies on Tuesday said it has closed a $1.1 million pre-Series A round led by Bharat"
     publishedDateTime: 2021-09-28T12:51:00Z

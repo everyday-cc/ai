@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Short Term Course on Artificial Intelligence for teachers commences with great zeal enthusiasm at MIT Centre for future skills excellence"
+    excerpt: "The course on Artificial Intelligence was inaugurated today with insightsampblessings from the Top Global Artificial Intelligence Influencers and industry veteran"
+    publishedDateTime: 2021-09-29T21:43:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271353212/short-term-course-on-artificial-intelligence-for-teachers-commences-with-great-zeal--enthusiasm-at-mit-centre-for-future-skills-excellence"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 4
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1632920912.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Short Term Course on Artificial Intelligence for Teachers commences with great zeal & enthusiasm at MIT Centre for Future Skills Excellence"
     excerpt: "MIT Centre for Future Skills Excellence (MIT FuSE) and MIT School of Education & Research - MIT Art, Design and Technology"
     publishedDateTime: 2021-09-29T15:23:00Z

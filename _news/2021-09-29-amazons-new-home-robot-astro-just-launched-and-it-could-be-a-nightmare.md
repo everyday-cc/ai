@@ -210,6 +210,17 @@ related:
         width: 1200
         height: 853
         isCached: true
+  - title: "Amazon Announced Astro Home Robot"
+    excerpt: "Tech giants Amazon Inc (AMZN) have unveiled its home robot, named Astro, on Tuesday in the fall hardware event. The robot is calibrated to watch over homes, carry small things, play with children, play music,"
+    publishedDateTime: 2021-09-29T20:14:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazon-announced-astro-home-robot-2021-09-29"
+    ampWebUrl: "https://www.nasdaq.com/articles/amazon-announced-astro-home-robot-2021-09-29?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-announced-astro-home-robot-2021-09-29?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Amazon Astro AI smart home robot with personality from $1,000"
     excerpt: "The Amazon Astro home robot will be priced at $1,450 but Amazon as part of the Day 1 Editions program is making the Alexa"
     publishedDateTime: 2021-09-29T10:22:00Z
