@@ -7,7 +7,7 @@ originalUrl: "https://www.arnnet.com.au/article/691588/comparing-aws-microsoft-g
 webUrl: "https://www.arnnet.com.au/article/691588/comparing-aws-microsoft-google-cloud-cyber-security-public-cloud/?fp=2&fpid=1"
 type: article
 quality: 70
-heat: 70
+heat: 71
 published: true
 
 provider:

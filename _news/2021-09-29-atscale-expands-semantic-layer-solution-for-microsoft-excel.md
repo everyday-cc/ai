@@ -120,20 +120,6 @@ related:
         width: 800
         height: 500
         isCached: true
-  - title: "Principled Technologies Tests Deep Learning Inference Performance on Microsoft Azure Virtual Machines Powered by Intel"
-    excerpt: "Principled Technologies tested newer Microsoft Azure Esv4-series VMs featuring Intel Xeon Platinum 8272CL processors against older Esv3-series VMs"
-    publishedDateTime: 2021-09-24T07:00:00Z
-    webUrl: "https://www.pr.com/press-release/826368"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 47
-    images:
-      - url: "https://img.pr.com/release/2109/416814/pressrelease_416814_1632412085.png"
-        width: 1000
-        height: 1294
-        isCached: true
 
 secured: "FrQUXLZMHLfcHhuq6QI6sGLqpMesKDhmdV3Qwp0rjZcfxheUc6TK7LGD9U7vE7a9cjSXiQLjBQlGedapSbFc7/H9Rd2bh2K8BCA3xfxm0PH87lMbX/JdjZi+mA12DgFty6wwOTFSZf9IbIhxY2vnY+VOZSylrsbjjaAWpULvJHkv7ie7+Q/TeBDl6EOlnKFvc0BJ1QsVYk4tPf6iCcohxctEygbT17g8SclRi1aucxbSTjYD19u0c2fyOi9afNqNgoQvRw0EZr/nQzq5HiOEAshmhTpd7l91q3nEcp5kaF9eaZ4PJnXEV07MWTziun3UtOTTZZcQCXmlWDJjQ8rqcvI8WddyIrVRP20SXQKbE/0=;ynkPweDCePa90WsY+Ypxlg=="
 ---

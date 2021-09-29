@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Here's everything Amazon announced at its big product event — including a $999 robot"
+  - title: "Here’s everything Amazon announced at its big product event — including a $999 robot"
     excerpt: "Amazon is continuing its quest to cover our homes and bodies with Amazon devices. At a livestreamed media event on Tuesday, the company showed off a handful of new Amazon-branded products, including an Echo device that hangs on the wall and acts as a digital whiteboard for the home,"
-    publishedDateTime: 2021-09-28T17:04:00Z
-    webUrl: "https://www.gwinnettdailypost.com/news/business/heres-everything-amazon-announced-at-its-big-product-event-including-a-999-robot/article_9116a411-3791-54c0-9192-dae8730283cf.html"
+    publishedDateTime: 2021-09-28T23:33:00Z
+    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/09/28/heres-everything-amazon-announced-at-its-big-product-event-including-a-999-robot-2/"
     type: article
     provider:
-      name: Gwinnett Daily Post
-      domain: gwinnettdailypost.com
+      name: Local News 8
+      domain: localnews8.com
     quality: 32
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/c/7b/c7b2c38e-2084-11ec-a8a9-b7c92d7e5a85/6153563ff1438.image.jpg?resize=1119%2C630"
-        width: 1119
-        height: 630
+      - url: "https://localnews8.b-cdn.net/2021/09/hypatia-h_acd09518957fad87a718125dd1afe0aa-h_30d067c7f8b9da956cc608aa0b4cc846-300-scaled.jpg"
+        width: 2560
+        height: 1631
         isCached: true
 
 secured: "vo62PDbpjvN206hvp5QvJauQ0dO+sng9DB2A69zBWWPUGHPEq6Fl57EYB3CqKC50ygjZJlQbQVeyNwXSnaxkwicfkn7P2MS78K6F4XmbO1VFhW2jVNCYGBa8a/BrLrpqou5YHessszQJCJO6c3XP+mHolLlU2E4HgOKj5Hfd3kmzwNXOVomZ4FEuPvMVER6molFjXqsOxRBl9eHCGi1gLxkiomSwKv7X34L+Ceqjur6ATjpS3CRKT0CuW2p3QNGtwuKxxAAQrnrcAspFgUYA7CZSkJnscuuWXX588UxFPbEacI8aCkb3sgmH4aQ+wysOJbHGktiLoklDh4Jab/l6jJEfDXsZm9xNkj7dbs+xjjrUSjP49j9NG9XNOIWaSIfp99CDj8vqLvA5c9TdXpAhU20RdrL9MZuWbz5mIGa7i8Bnql3rVG48B6f6+T/3uK5nIz0/QYYlLUi7In3qKzOOJQMXUdGzctdfJ7Xu+/J5m+EOvz7HEKHXKT6JXwwcqvOCYGlzsJ2J6JrLu66dmISg7w==;8aFdqlUflMINVxgc3lSVzQ=="

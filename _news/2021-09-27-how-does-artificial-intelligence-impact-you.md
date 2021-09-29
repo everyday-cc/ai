@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-27T06:31:00Z
 originalUrl: "https://www.linkedin.com/pulse/how-does-artificial-intelligence-impact-you-ajay-j-pillai"
 webUrl: "https://www.linkedin.com/pulse/how-does-artificial-intelligence-impact-you-ajay-j-pillai"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C5612AQErMIdDyK_BZQ/article-cover_image-shrink_600_2000/0/1632724166896?e=1638403200&v=beta&t=ar0TC2JyBJrGcQpoqembEtjuZVYUgh2ZkZkjmM5zcIA"
@@ -45,6 +46,6 @@ related:
         height: 1362
         isCached: true
 
-secured: "ZOffMJVGinGO7XMJOITEZKJvE2C1CGqk/nLy4wcJFhObFW3DYLltjZJSSz3PJozwCch8o584aApu7lV4WYOyh3Zn26VXvPzh8Cz7/ZRFNO/dk/Rn7SVkXvW1HlHQG1e6J1H/Fp2x8SC2ftMeqjRzfkjVmce7RqhZ/HeWZHRYBrJyOi4BeqrPJkJCZUrMiveybYnK8FnPKBw7LQMhJ5PK8GW6CAVL93nt9wvequanNvvwezm7ISFc0k/ecmvrBAayUQiQLo2XQGmG26a6wB2YG+1+nkAl93kYULtcN0TMI6pXv2GpUvQ3zWtra0MRcEQ4mOjBR1+0B5GwHlJNKCXQI4tQtoYe/TiIrcptybISdUM=;3tOPBA9hlkiL/mvjEqrx3g=="
+secured: "arwF6F10xU5U3b9+X/pIUdU+iAYUO7b5MzTSJwB2ijxQdbCnO9QierLJ8Uddc+kIBRh8aaGpdI2/fVgvsMoXJGRwIhwVIFTFiUxZrdRVhoZVzWk2vCVgHYZMlSQ8TCt1tRLtzdk1T2l/btOkX6vEnzEskQaIKZgqq8QB4cCq+4SwgzE6kFMh01MU8FgbO60cRv3WcXctBnfPIEeCpUE9U7tAjZzhLHYY6ONxu8m/14bcVCqmKqeUTmv1HvCy5mAMdLEHlF/hV7GtOFbTzHYLbCTaCZ2RAMJX4N9uN7M21OzBYVms9yg5e3v8F37zyrFJ14nyiPSFqxNSQX2E1ZNWZYFutfK0rdDaZmBDuqMBtyshm7daNPzxcBW8/TZPTjE3buP/IJoCOc6Dd6AhuVKuqpUjPvtE5rnCGLxGtkiryku61XyFqtjP7a+AAc3pc/dqgfeZzp0+pOJCuNPgJL1OfsPdE0Idc4Kflc0cqXnOl9mYxuKcXLjBNfMZMFr02xtKtnD876KrIYD4xOofBlv8zQ==;pQaKgK1BZZRa3K0x8mUOAw=="
 ---
 

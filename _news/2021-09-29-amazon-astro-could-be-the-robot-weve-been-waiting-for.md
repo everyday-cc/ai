@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-astro-could-be-the-robot
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-astro-could-be-the-robot-weve-been-waiting-for/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon Echo Show, Astro event live blog: Follow our coverage now"
+    excerpt: "The e-commerce giant is holding an invite-only press event now. Find out what's coming to your cart. And Astro, the robot Alexa."
+    publishedDateTime: 2021-09-28T23:58:00Z
+    webUrl: "https://www.cnet.com/home/amazon-echo-show-astro-event-live-blog-follow-our-coverage-now/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-echo-show-astro-event-live-blog-follow-our-coverage-now/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-echo-show-astro-event-live-blog-follow-our-coverage-now/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://www.cnet.com/a/img/nrQga32ASqNPqhWuy9Zbqt9HimI=/647x389:7377x3994/1200x630/2021/09/28/4dcaa407-d125-4473-a62d-b8ba24b4a0a6/hey-disney-echo-show-5-on-white.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Ring, Echo and Astro: Everything Amazon just announced"
     excerpt: "Hardware Some of the products Amazon announced today. Amazon just wrapped up its Fall 2021 event, where the online retail gian. This year's event was different, only because the company normally announces as many as 60 different products."
     publishedDateTime: 2021-09-28T18:45:00Z
@@ -126,6 +142,6 @@ related:
         height: 853
         isCached: true
 
-secured: "hGMR6IW68vKxzRbWkxY82YrpH9PAmSYqKQhE/pNGSEOynk5s7Q+WaVw/OdLYAQPv2yB71rHuTT9/+P+p+DAxplDJrKOYOJejkW6xn3oYhb91eP7xgjX2sCFwVFUf70iK1YM8yThTyYUnMnRlc7PLETH3AU3ToRNCSXOW0xNnIvk6j0Eb/gg07uKmeOYAkgOtgsZj9X4wHPWlF8DiAaI8vPlJDlNn0DrnrsAewm4/tDD9Ur730sA/IaQCUcd1F8zxXSAumkK8aDKF+s41/P/WAo1ASE9pUS10WQSDaonMhtceb7nTk0l8VhbFzRSeig5tb0ZwQK4Rj5lFQQLWjk044fy1SWHeC4BJakkW9enWFzU=;YNCz1vdYr7wwIDZQPOMoHQ=="
+secured: "Xgs8WCXPNMmnUQ+KYydYexnV0lTizLpbP+gOBmRi5+u83mxQCMA8sjtICNZOMu8ced2WvWiNtSkRVYxBQOPqi/yUf9JAwTtGFPCh0IrVDvaqlUKH9OCVc4F5T6Tb4/ep+wS/+EMBTbKBCor4CD4xJPABygkGqFYMkp1B99xkYofAYTY6qA4p/EeOw1FBk3AG11GR5TBSJXkQasJiqB7Wowp46lTMSFMcq17bxMSt1ao2F4nE3VT3vLFEX31gJYkLPgfYk3fZqO3oW7PICPjXLptNDxXkH84xkTSraP5lBBXeq36/r3OxWRj7y8yBbaMKS2gv/D4ml0T7fMOf/aFHhcCu3blS2cK6X4sA5dFUAMwp24HtnAh5ZpvoCyQoTziPhDftVEjrn6uufso+wlYMf3bKqxBnJMQ3a92z6/9s2iAAGvsOCOng7IbotBk1OJfhtG9hYOoUztfp4uzYOl2d9AbZorVxOIAxa3A9JTxij88iAev+4DEksm2uWWBlwohVU8SWqjMa1/hJkcBvhFPWrQ==;oIGoRmwF60fIIm0gpqt0hQ=="
 ---
 

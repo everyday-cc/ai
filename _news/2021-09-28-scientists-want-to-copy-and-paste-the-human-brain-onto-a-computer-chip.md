@@ -39,6 +39,22 @@ related:
         width: 1040
         height: 693
         isCached: true
+  - title: "Tesla Negotiating With Samsung To Produce Next-Gen Full Self-Driving Chip: Reports"
+    excerpt: "A joint project between Tesla and Samsung, which aims to create a full self-driving (FSD) chip is currently under negotiation, according to reports. The said chip, which will be produced by the South Korean electronics giant and designed by the American electric vehicle company as per Electrek,"
+    publishedDateTime: 2021-09-24T12:00:00Z
+    webUrl: "https://www.ibtimes.com/tesla-negotiating-samsung-produce-next-gen-full-self-driving-chip-reports-3303284"
+    ampWebUrl: "https://www.ibtimes.com/tesla-negotiating-samsung-produce-next-gen-full-self-driving-chip-reports-3303284?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tesla-negotiating-samsung-produce-next-gen-full-self-driving-chip-reports-3303284?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/06/electric-car-maker-xpeng-is-chasing-market-leader.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Neural network mimics the human brain to solve complex problems"
     excerpt: "Researchers at , USA, have developed a new computer system that mimics the way the human brain works, with an information processing capacity of up to one mil"
     publishedDateTime: 2021-09-27T19:10:00Z

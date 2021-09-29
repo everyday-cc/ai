@@ -57,17 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facial recognition cannot be a standalone authentication method"
-    excerpt: "As more organisations look to facial recognition to improve their digital identity practices, they must remember that it cannot stand in isolation"
-    publishedDateTime: 2021-09-24T06:00:00Z
-    webUrl: "https://www.computerweekly.com/opinion/Facial-recognition-cannot-be-a-standalone-authentication-method"
-    ampWebUrl: "https://www.computerweekly.com/opinion/Facial-recognition-cannot-be-a-standalone-authentication-method?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/Facial-recognition-cannot-be-a-standalone-authentication-method?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
   - title: "London is buying heaps of facial recognition tech"
     excerpt: "The Metropolitan Police is buying a new facial recognition system that will supercharge its surveillance technology capabilities"
     publishedDateTime: 2021-09-27T05:00:00Z

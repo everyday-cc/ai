@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/28/enterprise-focused-conversational
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/enterprise-focused-conversational-ai-platform-leena-ai-raises-30m/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
+    images:
+      - url: "https://mma.prnewswire.com/media/1637941/Leena_AI_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Leena AI Announces $30M Series B round led by Bessemer Venture Partners"
+    excerpt: "Leena AI, the company that's revolutionizing enterprise employee experience, today announced it has raised a $30 million Series B financing round, bringing the company's total amount raised to $40 million."
+    publishedDateTime: 2021-09-28T15:27:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210928ln22344/leena-ai-announces-30m-series-b-round-led-by-bessemer-venture-partners"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 39
     images:
       - url: "https://mma.prnewswire.com/media/1637941/Leena_AI_Logo.jpg"
         width: 400

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Here's everything Amazon announced at its big product event — including a $999 robot"
+title: "Here’s everything Amazon announced at its big product event — including a $999 robot"
 excerpt: "Amazon is continuing its quest to cover our homes and bodies with Amazon devices. At a livestreamed media event on Tuesday, the company showed off a handful of new Amazon-branded products, including an Echo device that hangs on the wall and acts as a digital whiteboard for the home,"
-publishedDateTime: 2021-09-28T17:04:00Z
-originalUrl: "https://www.gwinnettdailypost.com/news/business/heres-everything-amazon-announced-at-its-big-product-event-including-a-999-robot/article_9116a411-3791-54c0-9192-dae8730283cf.html"
-webUrl: "https://www.gwinnettdailypost.com/news/business/heres-everything-amazon-announced-at-its-big-product-event-including-a-999-robot/article_9116a411-3791-54c0-9192-dae8730283cf.html"
+publishedDateTime: 2021-09-28T23:33:00Z
+originalUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/09/28/heres-everything-amazon-announced-at-its-big-product-event-including-a-999-robot-2/"
+webUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/09/28/heres-everything-amazon-announced-at-its-big-product-event-including-a-999-robot-2/"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Gwinnett Daily Post
-  domain: gwinnettdailypost.com
+  name: Local News 8
+  domain: localnews8.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/c/7b/c7b2c38e-2084-11ec-a8a9-b7c92d7e5a85/6153563ff1438.image.jpg?resize=1119%2C630"
-    width: 1119
-    height: 630
+  - url: "https://localnews8.b-cdn.net/2021/09/hypatia-h_acd09518957fad87a718125dd1afe0aa-h_30d067c7f8b9da956cc608aa0b4cc846-300-scaled.jpg"
+    width: 2560
+    height: 1631
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 576
         isCached: true
 
-secured: "6A1yRqguiVie6htMvrYZOAGp55ZkCgzF/6xuArHoI7dzExcCHIFk12LMSV+2Kj22fpgjhXn9o3308B6JF0VMXy5WkRrD+eMxmetN932CNECrPRIjIFQvziOBBFlLQmEP31lgoDLEGdtbhYKRaoQYmX+gIjo4Z4FYYEN13VAL4RgEnEaZm9B3h7us8O7mCOIhNjR8dzbPs2R7j7pD8A2LuHrNrMBIWHy3DFroa/gk+cJ1eLIuqLEFc5cxvvAQu/xHQFQOyTUX8v1LN837Q7oadK5Kr4luAha2axOX76urLkxKi8devTDGmLDfHxfpy8YMVOvBzWNcxzlfobbvld4vrXUFHkj3W0zeHUkzDBd44M8=;pewTtBtYEoxZa7OzBoKcBw=="
+secured: "gdt2XYohauIOar5vmztj0h1RHhNK312VXj//s70MnvARqU1o1taC17dNrMm89wamdcPmsYo+uvJmd22sDUuYrpBr98ghiCxidcsQjQcyRmkmn2RCyCHSzQLkeczQUnFIPvgUxyyNpg2xC+f3jYFScoeK+Gc77AN87ZbKJYAZIT5QC7fMeg32For1RepUuEguSQB4lUt+9ZSGfmo//ova9xKkKl5y+ZArspqjXjP5lKr/py4a+G6ZcD/r2RauQYnViN+Vx6jBJX6neYw4zOvHu6g2Yg5CPO9gqCUGBQHozz0V6iIaOcPJ2iPriwNoiyCYH+OW9qwNhCwJ+LxjSQaf8NIQhdqkol5Aw4WKeixaPw8=;RctXmYHJiv0Kki5FR0j39g=="
 ---
 

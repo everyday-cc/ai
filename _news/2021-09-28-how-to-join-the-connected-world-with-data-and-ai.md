@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-join-the-connected-w
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-join-the-connected-world-with-data-and-ai/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -24,6 +24,20 @@ topics:
   - AI
 
 related:
+  - title: "Artificial intelligence to better understand our world"
+    excerpt: "While artificial intelligence has been an important tool in gaining a better understanding of our world its imperative that we learn more from it w"
+    publishedDateTime: 2021-09-28T23:08:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271343557/artificial-intelligence-to-better-understand-our-world"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/iau1632869531.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Artificial intelligence to better understand our world"
     excerpt: "While artificial intelligence has been an important tool in gaining a better understanding of our world, it's imperative that we learn more from it."
     publishedDateTime: 2021-09-28T14:23:00Z

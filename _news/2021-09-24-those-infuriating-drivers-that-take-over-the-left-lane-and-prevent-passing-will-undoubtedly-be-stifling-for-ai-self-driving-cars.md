@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/amp/"
 type: article
 quality: 60
-heat: 90
+heat: 110
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Driver Killed By His Own Car Door While Waiting In Line At Fast-Food Drive-Thru, Providing Cautionary Insights For AI Self-Driving Cars"
+    excerpt: "Sad news story about a driver that was killed by his own car door (while in a drive-thru), provides cautionary insights about the advent of AI-based self-driving cars. Here's the insider look."
+    publishedDateTime: 2021-09-27T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/27/driver-killed-by-his-own-car-door-while-waiting-in-line-at-fast-food-drive-thru-providing-cautionary-insights-for-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/27/driver-killed-by-his-own-car-door-while-waiting-in-line-at-fast-food-drive-thru-providing-cautionary-insights-for-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/27/driver-killed-by-his-own-car-door-while-waiting-in-line-at-fast-food-drive-thru-providing-cautionary-insights-for-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 57
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614272b9f18bec6882652695%2F0x0.jpg%3FcropX1%3D23%26cropX2%3D2455%26cropY1%3D23%26cropY2%3D1538"
+        width: 1200
+        height: 748
+        isCached: true
   - title: "California makes zero-emission self-driving vehicles mandatory by 2030"
     excerpt: "California will require all light-duty self-driving vehicles to emit zero emissions starting in 2030. Governor Gavin Newsom signed into law a bill sponsored by environmental groups that would eventually prohibit gas and hybrid-powered autonomous vehicles from operating in the state."
     publishedDateTime: 2021-09-25T05:50:00Z
@@ -72,6 +88,15 @@ related:
       name: Coventry Telegraph
       domain: coventrytelegraph.net
     quality: 4
+  - title: "So 'Self-Driving' Doesn't Mean It Drives Itself? What DOES It Mean, Then?"
+    excerpt: "Tesla, despite insisting (for regulatory purposes, and because it's true) that the \"Self-Driving\" software they're testing isn't really \"autonomous driving,\" is going ahead and opening its Self-Driving beta to any Tesla driver it deems to be a relatively ..."
+    publishedDateTime: 2021-09-27T18:49:00Z
+    webUrl: "https://www.allaccess.com/talk-topics/q/id/57756"
+    type: article
+    provider:
+      name: AllAccess
+      domain: allaccess.com
+    quality: 3
 
 secured: "ZVs087F2xDiP6Ybs48LEGaJ9U9TcaHe+boD5jSsU9x1mCqFYavgAJOEMHpJyhKt58OIni+8IyH/+GD3m143u6oqA78abGN9CmpIN1qnLHtAJOCkyB6Tzk5E10tRx2l8A1EwXiS38+ztBlb8yg8me+b2Dp8M2kaGifH+WRdLWtYwWLGIKS+G6nsqBYYJ4gIqmDi900Iu5d5TbKmH0I4OxuhH0ioJCw+82YEouaRYPBnaiC9+z0S28IW66hfvoWaKa3dsNmOkEVAPAqwoAeU9E6mXx65kYw1FC4NuLBDLJuOYD+GdY5dytShsh9kXg3yeC8CDwpt/kCjwzuzUEpvZPpfabgVWtg+WVdIyIN6WJ0QhQ+pah+fT3huzMOQECCNrZSmB2q+s6k2yxyiqL32K/IfC+7uNRXeWdI8T4ZrDfs6wAjj5kNfcWYHtMOKODqUp2G6xk4hIBhaso8S8Ln6VbOtrilure3p9Ss2CO2HrzVmtgZ2TzWI90aLpOU6Gmyqo2+8x/E9CIbHSnbUEHbaqUvg==;XZGgWl27j8UhLB4AXlC8Eg=="
 ---

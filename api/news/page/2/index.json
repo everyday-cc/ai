@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-28-cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24.md",
+      "title": "Cardano Blockchain Selected to Run AI Modules of Humanoid Robot Grace | Blockchain24",
+      "excerpt": "It was officially announced that the Cardano blockchain plans to use the AI ​​modules of a humanoid robot named Grace. Well, the demand for this robot is not even an issue since robotics for aged care has seen tremendous growth due to the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/",
+      "originalUrl": "https://thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thegoaspotlight.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/amp/",
+      "cdnAmpWebUrl": "https://thegoaspotlight-com.cdn.ampproject.org/c/s/thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/amp/",
+      "publishedDateTime": "2021-09-27T23:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thegoaspotlight",
+        "domain": "thegoaspotlight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-global-artificial-intelligence-ai-speakers-market-report-2021-prominent-key-players-exploring-sales-volume-revenue-and-forecast-by-2027.md",
       "title": "Global Artificial Intelligence (AI) Speakers Market Report 2021 Prominent Key Players, Exploring Sales Volume Revenue and Forecast by 2027",
       "excerpt": "The research study on Global Artificial Intelligence (AI) Speakers Market 2021 by Manufacturers, Regions, Type",
@@ -166,7 +209,7 @@
       "originalUrl": "https://www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -262,7 +305,7 @@
       "originalUrl": "https://www.zdnet.com/article/how-to-join-the-connected-world-with-data-and-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -693,7 +736,7 @@
       "originalUrl": "https://venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -885,7 +928,7 @@
       "originalUrl": "https://www.techspot.com/news/91433-replacing-iphone-13-display-render-face-unusable-unless.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1072,49 +1115,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-tesla-request-button-for-full-self-driving-beta-tests-goes-live-details-here.md",
-      "title": "Tesla Request Button For Full-Self Driving Beta Tests Goes Live - Details Here",
-      "excerpt": "Electric vehicle Tesla users who wish to take part in the company's Full Self-Driving (FSD) Beta programme could now formally request the advanced driver-assist system to be loaded into their vehicle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/auto/tesla-request-button-for-full-self-driving-beta-tests-goes-live-details-here-4251020.html",
-      "originalUrl": "https://www.news18.com/news/auto/tesla-request-button-for-full-self-driving-beta-tests-goes-live-details-here-4251020.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 495,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/08/tesla-model-y-1-163273003216x9.png",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/auto/tesla-request-button-for-full-self-driving-beta-tests-goes-live-details-here-4251020.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/auto/tesla-request-button-for-full-self-driving-beta-tests-goes-live-details-here-4251020.html",
-      "publishedDateTime": "2021-09-27T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },

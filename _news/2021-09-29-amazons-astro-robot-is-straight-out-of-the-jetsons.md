@@ -109,6 +109,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon Echo Show, Astro event live blog: Follow our coverage now"
+    excerpt: "The e-commerce giant is holding an invite-only press event now. Find out what's coming to your cart. And Astro, the robot Alexa."
+    publishedDateTime: 2021-09-28T23:58:00Z
+    webUrl: "https://www.cnet.com/home/amazon-echo-show-astro-event-live-blog-follow-our-coverage-now/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-echo-show-astro-event-live-blog-follow-our-coverage-now/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-echo-show-astro-event-live-blog-follow-our-coverage-now/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://www.cnet.com/a/img/nrQga32ASqNPqhWuy9Zbqt9HimI=/647x389:7377x3994/1200x630/2021/09/28/4dcaa407-d125-4473-a62d-b8ba24b4a0a6/hey-disney-echo-show-5-on-white.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Ring, Echo and Astro: Everything Amazon just announced"
     excerpt: "Hardware Some of the products Amazon announced today. Amazon just wrapped up its Fall 2021 event, where the online retail gian. This year's event was different, only because the company normally announces as many as 60 different products."
     publishedDateTime: 2021-09-28T18:45:00Z

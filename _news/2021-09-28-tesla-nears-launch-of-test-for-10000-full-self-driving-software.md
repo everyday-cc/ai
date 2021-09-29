@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk says Tesla shouldn’t have an NDA for its Full Self-Driving Beta"
+    excerpt: "Elon Musk says Tesla shouldn’t have a non-disclosure agreement (NDA) for its Full Self-Driving (FSD) Beta testers. Yesterday, we reported on Tesla’s NDA for its Full Self-Driving Beta program. In the document,"
+    publishedDateTime: 2021-09-28T23:19:00Z
+    webUrl: "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/"
+    ampWebUrl: "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 88
+    images:
+      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-FSD-Beta-v9-driving-visuzalization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla Request Button For Full-Self Driving Beta Tests Goes Live - Details Here"
     excerpt: "Electric vehicle Tesla users who wish to take part in the company's Full Self-Driving (FSD) Beta programme could now formally request the advanced driver-assist system to be loaded into their vehicle."
     publishedDateTime: 2021-09-27T10:28:00Z
@@ -107,22 +123,6 @@ related:
         width: 3000
         height: 2120
         isCached: true
-  - title: "Tesla Negotiating With Samsung To Produce Next-Gen Full Self-Driving Chip: Reports"
-    excerpt: "A joint project between Tesla and Samsung, which aims to create a full self-driving (FSD) chip is currently under negotiation, according to reports. The said chip, which will be produced by the South Korean electronics giant and designed by the American electric vehicle company as per Electrek,"
-    publishedDateTime: 2021-09-24T12:00:00Z
-    webUrl: "https://www.ibtimes.com/tesla-negotiating-samsung-produce-next-gen-full-self-driving-chip-reports-3303284"
-    ampWebUrl: "https://www.ibtimes.com/tesla-negotiating-samsung-produce-next-gen-full-self-driving-chip-reports-3303284?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tesla-negotiating-samsung-produce-next-gen-full-self-driving-chip-reports-3303284?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/06/electric-car-maker-xpeng-is-chasing-market-leader.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Tesla Starts Judging Owners It Charged $10,000 for Self-Driving"
     excerpt: "Tesla Inc. customers to get access to driver-assistance technology the company has marketed in controversial ways -- as long as they’re on their best behavior. Chief Executive O"
     publishedDateTime: 2021-09-24T13:30:00Z
@@ -168,38 +168,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2021/09/27/21/48467277-0-image-a-4_1632775943927.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "‘Good’ Tesla drivers might be next to get ‘full’ self-driving software"
-    excerpt: "Chief Executive Officer Elon Musk tweeted that the download button customers will see Friday will request car owners’ permission for Tesla to assess their driving behavior for seven days."
-    publishedDateTime: 2021-09-25T12:24:00Z
-    webUrl: "https://www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/"
-    ampWebUrl: "https://www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 59
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/09/Tesla_Crash_88520.jpg?w=1024&#038;h=682"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "‘Good’ Tesla drivers might be next to get ‘full’ self-driving software"
-    excerpt: "Chief Executive Officer Elon Musk tweeted that the download button customers will see Friday will request car owners’ permission for Tesla to assess their driving behavior for seven days."
-    publishedDateTime: 2021-09-25T20:26:00Z
-    webUrl: "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/"
-    ampWebUrl: "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 59
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/09/Tesla_Crash_88520.jpg?w=1024&#038;h=682"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Tesla starts judging owners it charged $10,000 for self-driving"
     excerpt: "The wait is almost over for some Tesla Inc. customers to get access to driver-assistance technology the company has marketed in controversial ways —"
@@ -265,22 +233,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Driver Killed By His Own Car Door While Waiting In Line At Fast-Food Drive-Thru, Providing Cautionary Insights For AI Self-Driving Cars"
-    excerpt: "Sad news story about a driver that was killed by his own car door (while in a drive-thru), provides cautionary insights about the advent of AI-based self-driving cars. Here's the insider look."
-    publishedDateTime: 2021-09-27T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/27/driver-killed-by-his-own-car-door-while-waiting-in-line-at-fast-food-drive-thru-providing-cautionary-insights-for-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/27/driver-killed-by-his-own-car-door-while-waiting-in-line-at-fast-food-drive-thru-providing-cautionary-insights-for-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/27/driver-killed-by-his-own-car-door-while-waiting-in-line-at-fast-food-drive-thru-providing-cautionary-insights-for-ai-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 57
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614272b9f18bec6882652695%2F0x0.jpg%3FcropX1%3D23%26cropX2%3D2455%26cropY1%3D23%26cropY2%3D1538"
-        width: 1200
-        height: 748
-        isCached: true
   - title: "Tesla expands ‘full self-driving’ tests, bucking the feds’ safety concerns"
     excerpt: "Tesla drivers can now use a “request” button on their vehicle’s screen to apply to join a beta test for the full self-driving feature, Elon Musk confirmed."
     publishedDateTime: 2021-09-27T15:35:00Z
@@ -311,6 +263,22 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Tesla’s ‘full self-driving’ could be days away. Here’s what you need to know."
+    excerpt: "CNN Business A wider group of Tesla owners who paid up to $10,000 for what the company calls its “full self-driving” software can now ask the automaker for access"
+    publishedDateTime: 2021-09-28T23:34:00Z
+    webUrl: "https://www.mercurynews.com/2021/09/28/teslas-full-self-driving-could-be-days-away-heres-what-you-need-to-know"
+    ampWebUrl: "https://www.mercurynews.com/2021/09/28/teslas-full-self-driving-could-be-days-away-heres-what-you-need-to-know/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/09/28/teslas-full-self-driving-could-be-days-away-heres-what-you-need-to-know/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 56
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/09/hypatia-h_3fd6c0a39d248694629ed28905a0d199-h_f41e2080efdf75352cea7bf453ee7dcc.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Tesla expands self-driving software test — but only to drivers it deems worthy"
     excerpt: "Tesla is rolling out a new version of its so-called Full Self-Driving system, but to be eligible, car owners who've already paid $10,000 for the software must pass a seven-day driving evaluation."
     publishedDateTime: 2021-09-24T22:20:00Z
@@ -326,22 +294,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/35eccec/2147483647/strip/true/crop/1723x1152+163+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa7%2Fd5%2F8809f9c34d5a5106724b57a3a83d%2Fla-1516891360-5lr9wec3h2-snap-image"
         width: 320
         height: 214
-        isCached: true
-  - title: "Self-driving feature is ready for Tesla owners but regulators are not convinced"
-    excerpt: "TESLA chief executive Elon Musk said in a tweet that Tesla will release a button as soon as Friday, letting owners obtain the upgraded suite of advanced driver assistance features, which Tesla says is a beta,"
-    publishedDateTime: 2021-09-27T16:17:00Z
-    webUrl: "https://www.iol.co.za/technology/self-driving-feature-is-ready-for-tesla-owners-but-regulators-are-not-convinced-70ae8b68-625d-4e73-857e-e359da87af00"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/self-driving-feature-is-ready-for-tesla-owners-but-regulators-are-not-convinced-70ae8b68-625d-4e73-857e-e359da87af00"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/self-driving-feature-is-ready-for-tesla-owners-but-regulators-are-not-convinced-70ae8b68-625d-4e73-857e-e359da87af00"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 55
-    images:
-      - url: "https://image-prod.iol.co.za/resize/650x366/?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/19aa4ab0-9323-59b9-b30e-b8ef1c9e51de&operation=CROP&offset=0x182&resize=3500x1969"
-        width: 650
-        height: 366
         isCached: true
   - title: "Tesla's 'Full Self Driving' request button goes live"
     excerpt: "Electric vehicle Tesla users who wish to take part in the company's Full Self-Driving (FSD) Beta programme could no"
@@ -442,22 +394,6 @@ related:
       - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_720,q_auto:best,w_1280/v1/cms/uploads/z46x0k3fetebxlmui7fl"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Tech Bytes: Reports call Instagram toxic, Apple Watch unlock feature not working, Tesla full self-driving software"
-    excerpt: "Facebook is pushing back against claims that Instagram is “toxic for teens.” A report from the Wall Street Journal recently revealed that Instagram increases body image issues for a"
-    publishedDateTime: 2021-09-27T10:10:00Z
-    webUrl: "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-reports-call-instagram-toxic-apple-watch-unlock-feature-not-working-tesla-full-self-driving-software/"
-    ampWebUrl: "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-reports-call-instagram-toxic-apple-watch-unlock-feature-not-working-tesla-full-self-driving-software/amp/"
-    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-reports-call-instagram-toxic-apple-watch-unlock-feature-not-working-tesla-full-self-driving-software/amp/"
-    type: article
-    provider:
-      name: abc27.com
-      domain: abc27.com
-    quality: 37
-    images:
-      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2021/01/Tech-Bytes.jpg?w=1280"
-        width: 1280
-        height: 563
         isCached: true
   - title: "Tesla to outsource its self-driving chip to Samsung Electronics"
     excerpt: "It is reported that Tesla has decided to outsource its self-driving chip manufacturing to Samsung Electronics. According to the industry on the 24th, Samsung Electronics is reportedly likely to win orders for manufacturing of the HW 4."
@@ -609,15 +545,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "So 'Self-Driving' Doesn't Mean It Drives Itself? What DOES It Mean, Then?"
-    excerpt: "Tesla, despite insisting (for regulatory purposes, and because it's true) that the \"Self-Driving\" software they're testing isn't really \"autonomous driving,\" is going ahead and opening its Self-Driving beta to any Tesla driver it deems to be a relatively ..."
-    publishedDateTime: 2021-09-27T18:49:00Z
-    webUrl: "https://www.allaccess.com/talk-topics/q/id/57756"
-    type: article
-    provider:
-      name: AllAccess
-      domain: allaccess.com
-    quality: 3
 
 secured: "NcXPSlm2zDTAfPdfz3kloxplGA2zjxsUF2OAf0B/fIaSYKXJ3nzSmQlMx2iIiyLi0cOZ2Xhx/b9Dx+Bk/jT6Wl9SwqiBLKZXVPRZbgdOewawLKioJSWeO2GBdciBW+qfHBBX5jwbsmyp/8CZJtKpKSOjPSBZ8PcpnExDt/mXuSI71kYoM8M6ygFSKniKq91wMhX3HC10WBpZPCVTdIlO3tx0UHU2mCb0gghoDrFXTpHsipZxyba50/VNJRtMNMrfpLcWdP5gzl/m9k/igr3zc3MYwROaTyEEYIKGCepLtYQzcRhkOfBn6fe2kC+UTJ3JN79OMO3wleVbLmap1jsSoI02lU6kKum73pQQ8nqyE/ymaHPBCydEBanJLVEs/7DlDaZJa4NvTRTC4VqjKCyX7mPdRr4hT79s1XpbzCFbfWwc9b4VwneBTjX4jNGGe0XIrrzPmPrEF2svC8NILTMsxf7CQyR9aRo1wDL+imK3JlxR5d+B3CO6KSITZzTgvjkxcT1H2ysDUuVEskNUp/6+cA==;UFZgGojdp+kLgyPUMGG13Q=="
 ---

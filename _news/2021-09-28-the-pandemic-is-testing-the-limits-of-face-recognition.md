@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/09/28/1036279/pandemic-unemplo
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/09/28/1036279/pandemic-unemployment-government-face-recognition/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 80
 published: true
 
 provider:

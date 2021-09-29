@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/28/microsoft-launches-data-governanc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/amp/"
 type: article
 quality: 114
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -114,20 +114,6 @@ related:
       - url: "https://www.infosys.com/content/dam/infosys-web/en/global-resource/18/banner/being-resilient-lead-mob.jpg"
         width: 800
         height: 500
-        isCached: true
-  - title: "Principled Technologies Tests Deep Learning Inference Performance on Microsoft Azure Virtual Machines Powered by Intel"
-    excerpt: "Principled Technologies tested newer Microsoft Azure Esv4-series VMs featuring Intel Xeon Platinum 8272CL processors against older Esv3-series VMs"
-    publishedDateTime: 2021-09-24T07:00:00Z
-    webUrl: "https://www.pr.com/press-release/826368"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 47
-    images:
-      - url: "https://img.pr.com/release/2109/416814/pressrelease_416814_1632412085.png"
-        width: 1000
-        height: 1294
         isCached: true
   - title: "AtScale Expands Semantic Layer Solution for Microsoft Excel"
     excerpt: "AtScale expands integrations with Microsoft Excel enabling high-performance, multi-dimensional analysis on live cloud data."

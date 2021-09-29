@@ -125,6 +125,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon Echo Show, Astro event live blog: Follow our coverage now"
+    excerpt: "The e-commerce giant is holding an invite-only press event now. Find out what's coming to your cart. And Astro, the robot Alexa."
+    publishedDateTime: 2021-09-28T23:58:00Z
+    webUrl: "https://www.cnet.com/home/amazon-echo-show-astro-event-live-blog-follow-our-coverage-now/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-echo-show-astro-event-live-blog-follow-our-coverage-now/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-echo-show-astro-event-live-blog-follow-our-coverage-now/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://www.cnet.com/a/img/nrQga32ASqNPqhWuy9Zbqt9HimI=/647x389:7377x3994/1200x630/2021/09/28/4dcaa407-d125-4473-a62d-b8ba24b4a0a6/hey-disney-echo-show-5-on-white.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "7Q8YQ+yJxQWvaVzfYR4+PewPEXQ94gpHulSfaIDlmNI8sf38BF82vpWf3JZd9tfrjE4sBdS4eF+uF01wuBfyw6wHT2nD3qY8ec+iai2Ixd1klEbOnBcG8aZSXireISj0AwzgeTgZpe+ENfKpKE/EG0Or02F03g0M1XBnHDM1WgiisKnRU9DnQVdAuOSiEZB87OcYgoI7csNZN8KMhafnIRGyEDfyJivvH7l/kL/Hs5elegW7Z8TSQfrM8zcArz1A1snccovasf22gTxxCZbJX9kRl0FcTTsmw/tde70gQz0U5qu+Kd78IW44SP/MG2k4l3l6rs/SCYvN0qjgCDi066QPhDuUAioZ+5hOTQ5AKs8=;PYn+jJ1HzAQSv0N4jTD1RA=="
 ---

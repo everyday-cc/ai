@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-09-23-facebooks-chief-technology-officer-to-step-down-in-2022.md",
+      "title": "Facebook’s Chief Technology Officer to Step Down in 2022",
+      "excerpt": "Mike Schroepfer, who leads the company’s artificial intelligence and other technical efforts, said he planned to transition into a role as a senior fellow.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/09/22/technology/facebook-cto-step-down-mike-schroepfer.html",
+      "originalUrl": "https://www.nytimes.com/2021/09/22/technology/facebook-cto-step-down-mike-schroepfer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/22/multimedia/22facebook/22facebook-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/09/22/technology/facebook-cto-step-down-mike-schroepfer.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/22/technology/facebook-cto-step-down-mike-schroepfer.amp.html",
+      "publishedDateTime": "2021-09-22T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-the-state-of-mlops-in-2021-is-dominated-by-startups.md",
       "title": "The state of MLOps in 2021 is dominated by startups",
       "excerpt": "Closing the gaps in MLOps is a lucrative new opportunity for startups, one that Dr. Ori Cohen says has seen $3.8 billion in funding already.",
@@ -1111,57 +1162,6 @@
         "images": [
           {
             "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-data-quality-and-ai-business-value-iteratively-solving-a-chicken-and-egg-problem.md",
-      "title": "Data Quality And AI Business Value: Iteratively Solving A Chicken-And-Egg Problem",
-      "excerpt": "What came first: artificial intelligence (AI) value off the back of strong data or data value off the back of AI? This \"chicken and egg\" conundrum is not only a headscratcher for businesses contemplating the future role of machine learning (ML) in their supply and demand planning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/22/data-quality-and-ai-business-value-iteratively-solving-a-chicken-and-egg-problem/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/22/data-quality-and-ai-business-value-iteratively-solving-a-chicken-and-egg-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f579a2d027e9987faa1ed1%2F0x0.jpg",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/22/data-quality-and-ai-business-value-iteratively-solving-a-chicken-and-egg-problem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/22/data-quality-and-ai-business-value-iteratively-solving-a-chicken-and-egg-problem/amp/",
-      "publishedDateTime": "2021-09-22T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
