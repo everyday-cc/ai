@@ -187,6 +187,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon Astro AI smart home robot with personality from $1,000"
+    excerpt: "The Amazon Astro home robot will be priced at $1,450 but Amazon as part of the Day 1 Editions program is making the Alexa"
+    publishedDateTime: 2021-09-29T10:22:00Z
+    webUrl: "https://www.geeky-gadgets.com/amazon-astro-ai-smart-home-robot-with-personality-29-09-2021/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 54
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/09/Amazon-Astro-home-robot.jpg"
+        width: 700
+        height: 461
+        isCached: true
   - title: "Amazon brings its ‘Astro’ home robot to the market"
     excerpt: "Amazon finally unveiled its first home robot this week, and the company named it Astro. The unit is part of the Day 1 Edition, which means it will be initially sold to a limited number of people. As per CNBC,"
     publishedDateTime: 2021-09-29T05:55:00Z
@@ -200,6 +214,20 @@ related:
       - url: "https://s1.econotimes.com/assets/uploads/202109297151754ed6588c99e_th_1024x0.jpg"
         width: 640
         height: 420
+        isCached: true
+  - title: "Amazon Introduces the Home Robot Astro"
+    excerpt: "The American online sales giant Amazon has introduced an autonomous robot that is designed for home use. It's called the Astro, it's about 50 cm high, and it has a camera that makes it possible to make video calls."
+    publishedDateTime: 2021-09-29T11:48:00Z
+    webUrl: "https://www.novinite.com/articles/211476/Amazon+Introduces+the+Home+Robot+Astro"
+    type: article
+    provider:
+      name: Novinite
+      domain: novinite.com
+    quality: 39
+    images:
+      - url: "https://www.novinite.com/media/images/2021-09/photo_verybig_211476.jpg"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "7Q8YQ+yJxQWvaVzfYR4+PewPEXQ94gpHulSfaIDlmNI8sf38BF82vpWf3JZd9tfrjE4sBdS4eF+uF01wuBfyw6wHT2nD3qY8ec+iai2Ixd1klEbOnBcG8aZSXireISj0AwzgeTgZpe+ENfKpKE/EG0Or02F03g0M1XBnHDM1WgiisKnRU9DnQVdAuOSiEZB87OcYgoI7csNZN8KMhafnIRGyEDfyJivvH7l/kL/Hs5elegW7Z8TSQfrM8zcArz1A1snccovasf22gTxxCZbJX9kRl0FcTTsmw/tde70gQz0U5qu+Kd78IW44SP/MG2k4l3l6rs/SCYvN0qjgCDi066QPhDuUAioZ+5hOTQ5AKs8=;PYn+jJ1HzAQSv0N4jTD1RA=="

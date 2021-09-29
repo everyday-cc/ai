@@ -2,6 +2,187 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-09-23-nvidia-and-open-robotics-accelerate-ros-2-performance.md",
+      "title": "NVIDIA and Open Robotics accelerate ROS 2 performance",
+      "excerpt": "NVIDIA and Open Robotics have entered into an agreement to accelerate ROS 2 performance on NVIDIA’s Jetson edge AI platform and GPU-based systems. These in",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsweekly.com/news/business/nvidia-open-robotics-accelerate-ros-2-performance-2021-09/",
+      "originalUrl": "https://www.electronicsweekly.com/news/business/nvidia-open-robotics-accelerate-ros-2-performance-2021-09/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.electronicsweekly.com/wp-content/uploads/2021/09/23134602/2ED81732-16CA-40BF-8662-7758178B331D.jpeg",
+          "width": 960,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-23T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics Weekly",
+        "domain": "electronicsweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-how-cloud-migration-and-ai-can-help-reduce-carbon-footprint.md",
+      "title": "How Cloud Migration And AI Can Help Reduce Carbon Footprint",
+      "excerpt": "In fact, the goal of the Paris Agreement is to \"limit global warming to well below 2, preferably to 1.5 degrees Celsius, compared to pre-industrial levels.\" To meet this goal, Boston Consulting Group (BCG) notes that \"we must reduce these carbon emissions by 50% by the end of this decade,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/23/how-cloud-migration-and-ai-can-help-reduce-carbon-footprint/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/23/how-cloud-migration-and-ai-can-help-reduce-carbon-footprint/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614b3644cb447db2b4a98211%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/23/how-cloud-migration-and-ai-can-help-reduce-carbon-footprint/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/23/how-cloud-migration-and-ai-can-help-reduce-carbon-footprint/amp/",
+      "publishedDateTime": "2021-09-23T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-conversational-ai-startup-gnaniai-launches-voice-biometrics-software.md",
+      "title": "Conversational AI startup Gnani.ai launches voice biometrics software",
+      "excerpt": "Gnani.ai, conversational AI and voice security domain, announced the launch of its home-grown Voice Biometrics software. Christened armour365™, the biometric solution claims to cater to new and emerging risks",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/",
+      "originalUrl": "https://www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2017/07/Fraud.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/amp/",
+      "publishedDateTime": "2021-09-23T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-national-ai-strategy-can-the-uk-be-the-superpower-it-imagines-itself-to-be.md",
+      "title": "National AI Strategy - can the UK be the superpower it imagines itself to be?",
+      "excerpt": "Does Whitehall have the human intelligence, expertise, and skills to make the UK’s new National AI Strategy work?",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be",
+      "originalUrl": "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2019-11/AAE94690-8272-4B0C-B0F8-0BD74D98E409.jpeg",
+          "width": 640,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be?amp",
+      "publishedDateTime": "2021-09-23T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-ai-ethics-is-growing-up-towards-an-ai-maturity-model-organizations-can-use.md",
       "title": "AI ethics is growing up - towards an AI maturity model organizations can use",
       "excerpt": "When it comes to AI lessons organizations can use, the AI ethics punditry has been spinning its wheels. But there's good news: AI maturity models are emerging.",
@@ -1000,197 +1181,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-a-machine-learning-algorithm-to-target-covid-testing-of-travellers.md",
-      "title": "A machine-learning algorithm to target COVID testing of travellers",
-      "excerpt": "Optimizing the testing of incoming travellers for COVID-19 involves predicting those who are most likely to test positive. A machine-learning algorithm for targeted testing has been implemented at the Greek border.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-021-02556-w",
-      "originalUrl": "https://www.nature.com/articles/d41586-021-02556-w",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-02556-w/d41586-021-02556-w_19664468.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-22T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-greece-used-ai-to-curb-covid-what-other-nations-can-learn.md",
-      "title": "Greece used AI to curb COVID: what other nations can learn",
-      "excerpt": "Governments are hungry to deploy big data in health emergencies. Scientists must help to lay the legal, ethical and logistical groundwork.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-021-02554-y?error=cookies_not_supported&code=f43962d3-2a13-4ce9-808b-ac6b8e509e31",
-      "originalUrl": "https://www.nature.com/articles/d41586-021-02554-y?error=cookies_not_supported&code=8f4770f9-ab1c-4cd2-b94a-d51946023835",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-02554-y/d41586-021-02554-y_19678478.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-22T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-software-ai-accelerators-ai-performance-boost-for-free.md",
-      "title": "Software AI accelerators: AI performance boost for free",
-      "excerpt": "Sponsored Presented by Intel The exponential growth of data has fed artificial intelligence’s voracious appetite and led to its transformation from niche to omnipresent.  An equally important aspect of this AI growth equation is the ever-expanding demands it places on computer system requirements to deliver higher AI performance.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/22/software-ai-accelerators-ai-performance-boost-for-free/",
-      "originalUrl": "https://venturebeat.com/2021/09/22/software-ai-accelerators-ai-performance-boost-for-free/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1312574816.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 586,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/22/software-ai-accelerators-ai-performance-boost-for-free/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/22/software-ai-accelerators-ai-performance-boost-for-free/amp/",
-      "publishedDateTime": "2021-09-22T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-fedex-to-test-auroras-self-driving-trucks-on-dallas-to-houston-route.md",
-      "title": "FedEx to test Aurora’s self-driving trucks on Dallas-to-Houston route",
-      "excerpt": "FedEx has started to use self-driving trucks to haul goods between Dallas and Houston as part of a pilot program with autonomous vehicle startup Aurora and heavy duty vehicle manufacturer Paccar. Paccar trucks that are equipped with Aurora’s technology will be used multiple times a week to",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/22/fedex-to-test-auroras-self-driving-trucks-on-dallas-to-houston-route/",
-      "originalUrl": "https://techcrunch.com/2021/09/22/fedex-to-test-auroras-self-driving-trucks-on-dallas-to-houston-route/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/fedex-aurora.jpg?w=1024",
-          "width": 1024,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/22/fedex-to-test-auroras-self-driving-trucks-on-dallas-to-houston-route/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/fedex-to-test-auroras-self-driving-trucks-on-dallas-to-houston-route/amp/",
-      "publishedDateTime": "2021-09-22T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

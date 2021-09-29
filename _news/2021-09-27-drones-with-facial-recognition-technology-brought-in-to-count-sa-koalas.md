@@ -85,6 +85,15 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "ICE drops $3.9M for Trust Stamp’s facial recognition, London Met taps NEC for $4.2M"
+    excerpt: "The U.S. Immigration and Customs Enforcement signs a $3.9 million contract with Trust Stamp, London Met selects NEC facial recognition system."
+    publishedDateTime: 2021-09-27T18:46:00Z
+    webUrl: "https://www.biometricupdate.com/202109/ice-drops-3-9m-for-trust-stamps-facial-recognition-london-met-taps-nec-for-4-2m"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 15
 
 secured: "rn6yjNnm9yAYt4t/sr3ckuTRltQwujyp0u862kTzzCkTDz4wGSqwkSmEHBMas4dOSNZEZbOOuJTNPtDPmwGx8pGPcAOsPW7zcSId3VRi1+qt9fz8BOJz26//AqhqOWMspfdPJdWN3mCYK2v404FdhtmZHjUR6RyR15Rj6CnChe9zhnoPZs1FlEKM6aRiBYypFgAQutGpobMFaZF6pDLv0j94XcnMQV6m7xV3jiRgV0jo4SrQMNm8rLgvux1FOUvZf5ODW7OqySlATAuDlEnb7rcCSU9UQh2bD4VjjS5HbYzde84gYV8nVZG2stqI9RFKsZxxznSuv95odd57Xj4D+q8j2/jA+y7rJQqm1ssTGmMDTgtxu4Ufnzg74E7lNQGF1Oh37qJJ6ePhaqJnqyrZQzs50d6EQZ0L8UEj7FFyuCU91BaEZojCW7WQKROTtpXet8QVaY8vIHkABa4hUT5CuK4f5r9Sg/flb0Ug5TBFmF1hrJVpYE5lCd8KyWwCtq5HkdboujYr0AooTdirL0ttaA==;nVT2YBpBX4sBZunAHcDmaw=="
 ---

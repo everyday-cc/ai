@@ -2,29 +2,23 @@
 category: news
 title: "Amazon adds offline voice recognition to Alexa devices"
 excerpt: "Amazon has announced a slew of new connected devices and with those come some new Alexa features, including the new privacy feature."
-publishedDateTime: 2021-09-29T09:42:00Z
-originalUrl: "https://telecom.economictimes.indiatimes.com/news/amazon-adds-offline-voice-recognition-to-alexa-devices/86610314"
-webUrl: "https://telecom.economictimes.indiatimes.com/news/amazon-adds-offline-voice-recognition-to-alexa-devices/86610314"
-ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/amazon-adds-offline-voice-recognition-to-alexa-devices/86610314"
-cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/amazon-adds-offline-voice-recognition-to-alexa-devices/86610314"
+publishedDateTime: 2021-09-29T08:11:00Z
+originalUrl: "https://www.sify.com/news/amazon-adds-offline-voice-recognition-to-alexa-devices-news-education-vj3ilBjfhfefi.html"
+webUrl: "https://www.sify.com/news/amazon-adds-offline-voice-recognition-to-alexa-devices-news-education-vj3ilBjfhfefi.html"
+ampWebUrl: "https://www.sify.com/news/amazon-adds-offline-voice-recognition-to-alexa-devices-news-education-vj3ilBjfhfefi.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/amazon-adds-offline-voice-recognition-to-alexa-devices-news-education-vj3ilBjfhfefi.html"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-86610314,imgsize-24893,width-800,height-434,overlay-ettelecom/amazon-adds-offline-voice-recognition-to-alexa-devices.jpg"
-    width: 800
-    height: 434
-    isCached: true
 
 related:
   - title: "On Echo Show 15, Alexa will recognize your face thanks to Amazon's Visual ID"
@@ -59,7 +53,23 @@ related:
         width: 715
         height: 402
         isCached: true
+  - title: "Some Amazon Echo Devices Will Get Offline Alexa Voice Recognition Soon"
+    excerpt: "Amazon launched a bunch of new connected devices at its Sep 28 event. The company also said it is bringing some new privacy-related features to Alexa."
+    publishedDateTime: 2021-09-29T11:50:00Z
+    webUrl: "https://www.androidheadlines.com/2021/09/some-amazon-echo-offline-alexa-voice-recognition.html"
+    ampWebUrl: "https://www.androidheadlines.com/2021/09/some-amazon-echo-offline-alexa-voice-recognition.html?amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/09/some-amazon-echo-offline-alexa-voice-recognition.html?amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 44
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2020/07/Amazon-Alexa-app-UI-logo-AH-2020.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
-secured: "1nbUcil6NwLEECEjKorxtNb3gqRjGBH6+JL56WKje9+Bclq1dZZbGZpqrWE+2MaXmQIS43JaikPc55r1+ualyCenyKdAD1MEF8RzRu07kAekaSQbtkHLXTfPs4ViDHu9nVpOin+khYKy0z3HGYCX3CM7kXAog1z2Toyg5lohKg3G0tpItMtBdggUTY/zXC2rMufuK0bt32himwkPqtIy5aDV6xiP+64h97Iud/So1stri99Y00FB8yhpxwAjuJorWPnepMSK7CtJUapyNafznIIyfzQbvkbT/DzNqqcjPk41ub7C7IhR/CvZyz8Rd9YXFF1Yvj7x3Sh066ubQ+Jr3barUvito1dyj+6nELEFBZQ=;IAAArHvczqjigQm3hXtlEA=="
+secured: "t3j7WlPlgr5bh9Bvvt50J4vs7eoiKlFvpvyXWNFnHgn7xIGoAGCgXTTenp6a/h7JxTP8Av6Hyn8OUOZocwKxei+8wrRIoW6tQuHboMC2evuHOYXMOsmDaOlQZPYlv7TCgiwDEL+x+WdPr0TpjW7PviJhEcHrD2+93giRx1XhxoZDxONyUmkvSlIXDN2hfoZ1jKM/sQEFPBJjl77dlH1V/G3wCraj725pZ29mzgZPdmbefnmZ8KKFxQNGitalR23Ne4D/ZQLfWXC1J4TNleVSePMmjeXND7INFVopAEgNQcw950ly0TiBUyW0TfnPFx4ry6tnruLmih70/IL8EhWL3wJZyGxfAj1JLVsaQcTaDcI=;8+mOEergDe7GDM8/ZH9Y7g=="
 ---
 

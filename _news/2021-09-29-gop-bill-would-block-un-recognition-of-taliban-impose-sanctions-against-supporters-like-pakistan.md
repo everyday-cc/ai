@@ -3,8 +3,8 @@ category: news
 title: "GOP Bill Would Block UN Recognition of Taliban, Impose Sanctions Against Supporters Like Pakistan"
 excerpt: "Twenty-two Republican senators have introduced legislation designed to block Taliban efforts to win international recognition and imposing sanctions against the group and its supporters – with the government of Pakistan singled out."
 publishedDateTime: 2021-09-29T08:57:00Z
-originalUrl: "https://www.cnsnews.com/article/international/patrick-goodenough/gop-bill-would-block-un-recognition-taliban-impose"
-webUrl: "https://www.cnsnews.com/article/international/patrick-goodenough/gop-bill-would-block-un-recognition-taliban-impose"
+originalUrl: "https://www.cnsnews.com/index.php/article/international/patrick-goodenough/gop-bill-would-block-un-recognition-taliban-impose"
+webUrl: "https://www.cnsnews.com/index.php/article/international/patrick-goodenough/gop-bill-would-block-un-recognition-taliban-impose"
 type: article
 quality: 28
 heat: 28
@@ -15,9 +15,9 @@ provider:
   domain: cnsnews.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.cnsnews.com/styles/article_big/s3/2021-09/GOPbill-taliban1.jpg"
@@ -69,6 +69,6 @@ related:
         height: 675
         isCached: true
 
-secured: "ZvXD/KpGkS196zcsGw5e9UGHAVcUlFBxROxKONei74Qskv5NDD17j7/Ts8c/eGuZn/Hl5eHTSbuUJeKLXU4cZjBscc5tQqbWiM1WNPr+ZWGXcbiDrsxjX1P/flnDVTchdG2U5wAMB6mr2OoJkgmhzqJLZ2elWB71gDXoc4qgxeoqiK05vhC1G98RedTzAWmC+Xh3mNAV17VrSEjv77SLASCPfhOfth7SA7lBQ0PtDm3RXIs3sxo0hGgdGbl5tKuLBD/8nRPjcpS242fd+1lN0fzj5gTz3o7V0yiliaDV+0u2Zq/GLAbB9xolBjfZ5iO0RAyTK7xpbQdtsLDT4rDxNhYNVTrsXtM1ny+J31pladY=;o9F0f09cmj70cC1ndrUweQ=="
+secured: "o3wsfQbS/GXEUz3g7SIXr0GRHyO11mq40cgEMB/yxpiwnlxUOD9r//AGapqhamJ79ru5qQBiznF8RWMTrTVsU60JBDDFxoBRgV3h4OaZCCkZPRUP9D66Y8lqQkeSufvi7QgRwEOgHA4fD1Nk1ZtHEXb4IiyEIOOOdifIkCMDTePTv5CvGq5hspXyqNYw8tCHfTqMHh/vOinShfLPPCv99lqcdafsHhG7iL1raObq0fxee0/bJlcWaOOpkWsSpxjGjPqGgpoH7Dmw/+TZRGghqLoKPVPQrXmLaZVPrgJWICZyJtsUIaSwV0vosyB2cAOqqKc5u4bHrgetu+qG7uZXDKRZ6XaqvCEZ2kqcrih86zM=;QaZi9PIMJiLEAcR66jKzsA=="
 ---
 

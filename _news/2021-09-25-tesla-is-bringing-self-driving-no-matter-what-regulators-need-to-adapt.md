@@ -3,8 +3,8 @@ category: news
 title: "Tesla Is Bringing Self-Driving No Matter What. Regulators Need to Adapt."
 excerpt: "San Francisco authorities have expressed concern over Tesla's autonomous driving feature, dubbed Full Self Driving. More broadly, self-driving systems are advancing much faster than regulation."
 publishedDateTime: 2021-09-24T21:37:00Z
-originalUrl: "https://www.barrons.com/articles/tesla-stock-self-driving-regulation-51632504996?refsec=markets"
-webUrl: "https://www.barrons.com/articles/tesla-stock-self-driving-regulation-51632504996?refsec=markets"
+originalUrl: "https://www.barrons.com/articles/tesla-stock-self-driving-regulation-51632504996"
+webUrl: "https://www.barrons.com/articles/tesla-stock-self-driving-regulation-51632504996"
 ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-self-driving-regulation-51632504996"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-self-driving-regulation-51632504996"
 type: article
@@ -511,6 +511,6 @@ related:
         height: 382
         isCached: true
 
-secured: "evYc8JhmCbLAR9L5c+gQ73s38nSKDPMLHwS3EgqBCBnMk1Gt8BCIcUc+6Bcav5RI1kJosFFIdtAM9rLG8H1caLw2rryOlrSt9meWphybl+701hPtGXuyCqwkXhlh91dYbO03Poc2TMqjiMgzx6Fdaev47S7P8WMjArrK7eWfO920+FZ9RxarAHfxd1q8LentwMeVK6JsfI33IowKqX1OzicIO0zCZPJ5oWpfcp22gT3Yd3dTFIKbgJrSgFrbJmATk9pUf3uJVH0031WbzxYrA6RMgkR7xHO2PPumxe4BPD11VDv/+wxvvvh+eHg3RUQLUWgB/wJMuuZ8haJgH9shOxaKOERTj19GydGLH0nQ2gIQu0zD169J/XT4MGVebpQ7waWVbD/sOzRdaYimpnqEKVHUA0AQ2R5V6oFKB/bjgsXc8RxDlT3WYunZMir3HgXYALrH9mIEPnVr+6xkbp0suLzFRSMeiIEat7LoDXtXajl3waOnVDMXnEFGPJlLc5SxKVF6tm8xmBuHybYrG6aDaw==;EIaqZoIsiyzeha3vepICZQ=="
+secured: "Z6togDa1rJZEEEo/m1bzxC4ENyhIXT+QIsDGnBeAHxVdqGLy1EYzDgtF/hbcZAI/PfiWOnBc2KY1weM+xj8b492CVA71xa+vW+oCwEmek04J47iDMoKWrAX5WuZW7Vpj08Sk3369M42ii8EDlDB01Zbq01iUQl7sF/pDBxFEmt/xEve+auMzg+8J2FxnZ1vyZ2BQ7Z2gEhRKwLaQSS5FjJaNVqPahpzCFwFThSBLJVZpbY1wwuE9FfSua59SBLAv8I2NubKNckHdGVeR5zX45zBE5mlW1ZMzsDNU8PyJAQLVveHlrCE3vXDnZXZr7B5FmccRVVD+6dVUuu8TDjHJRj4Kkkaqxu2wfQUnWuYnPzI=;HgvZe6ZzH2+z27tQNQ/eWw=="
 ---
 

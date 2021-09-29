@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/cities/Thiruvananthapuram/online-sessi
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Thiruvananthapuram/online-session-on-ai-today/article36667811.ece/amp/"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "CWU To Host Presentation on Artificial Intelligence in Everyday Life"
-    excerpt: "Software Developer and Data Journalist Meredith Broussard will be presenting the keynote address during a lecture series titled “Artificial Intelligence: The Future is Now” on October 7 at 5:30 p.m. The talk will focus on the impact Artificial Intelligence (AI) has had on our current social and political climate,"
-    publishedDateTime: 2021-09-27T07:00:00Z
-    webUrl: "https://www.cwu.edu/cwu-host-presentation-artificial-intelligence-everyday-life"
+  - title: "A third of businesses plan to set to spend $1 million on AI by 2023"
+    excerpt: "A third of organisations with plans to adopt artificial intelligence (AI) have said they will invest $1 million or more into the technology over the next two years. That's according to Gartner's annual Emerging Technology Product Leaders survey,"
+    publishedDateTime: 2021-09-29T11:52:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361058/organisations-set-to-splash-1m-on-ai-by-2023"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361058/organisations-set-to-splash-1m-on-ai-by-2023?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361058/organisations-set-to-splash-1m-on-ai-by-2023?amp"
     type: article
     provider:
-      name: cwu.edu
-      domain: cwu.edu
-    quality: 37
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 87
     images:
-      - url: "https://www.cwu.edu/sites/default/files/MeredithBroussard1_by_Devin_Curry%20photo.jpg"
-        width: 800
-        height: 553
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1632915680/itpro/Digital_brain_AI_shutterstock.jpg"
+        width: 1260
+        height: 710
         isCached: true
 
 secured: "/80ImyCDrYZqGoXq6UivSSSoNg+8chbs+t2lEkn6V7tD+xl0f5AXAFdW2d/CYsnQumeFqR8TcSXzVHnZkPU2KYnS7afArMTxXK/PYnWQ+Sc79E+umBAI7UDS8AgCcUMCL+Tl2uav71iztqjMj9K0FkAPvrYYys0rIR5C8/NhBkAWRX5gQRa23RO+29+lomRnisvyjqDhIcMHTTKjQCSeq6WHxc9Ah7wdb5K0A2Lq6d4QYYmdnZwnhyC6qGjnw97a9XW2jK8iI+rch2ZOwiG4RNUrbrh9MG2pb+dq4pb98+2N490wZy1mCT5pqNrg/1GHJ5sOBVgDnH84EL8tZ36nFRSMo5xL/ZoCgSOr2BHvcvk=;3edOKJzrlRAiWSjp8M3gdA=="

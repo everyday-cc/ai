@@ -42,20 +42,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "9. AI Is the Friend You Didn’t Know You Already Made"
-    excerpt: "Artificial intelligence (AI) is more than just a buzzword. AI is powering many of the systems and apps we use every day. But what do lawyers think of it? The attitudes fall into two groups. One group really understands what AI is and believes it has a key ..."
-    publishedDateTime: 2021-09-24T17:09:00Z
-    webUrl: "https://www.law.com/lean-adviser/2021/09/24/9-ai-is-the-friend-you-didnt-know-you-already-made/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/419/2021/09/terminator2.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "AI is transforming your job, not terminating it"
     excerpt: "For those who aren’t familiar with the pop-culture reference, the film focuses on self-aware military AI that sets out to exterminate all of humanity using robots, cyborgs and drones. Fast forward to 2021,"
     publishedDateTime: 2021-09-27T07:32:00Z

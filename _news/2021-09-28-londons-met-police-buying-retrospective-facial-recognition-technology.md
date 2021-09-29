@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-police-buying-retrospective-facial-recognition-technology/amp/"
 type: article
 quality: 89
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -89,6 +89,15 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "ICE drops $3.9M for Trust Stamp’s facial recognition, London Met taps NEC for $4.2M"
+    excerpt: "The U.S. Immigration and Customs Enforcement signs a $3.9 million contract with Trust Stamp, London Met selects NEC facial recognition system."
+    publishedDateTime: 2021-09-27T18:46:00Z
+    webUrl: "https://www.biometricupdate.com/202109/ice-drops-3-9m-for-trust-stamps-facial-recognition-london-met-taps-nec-for-4-2m"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 15
 
 secured: "l651F+V2OvvXiDoIzRhbQVYq3ZoQSRP0oCkS9/tCzlYdAfzNjY0v6BLKAhz8JnLJvxQDP0ETBLVzVpWwM/0bhPEteJG+fGM0W4NbIxahYy8aDN8qXwzQNuNLehD8ixWyx324DFnXhDDMYm6SPZUZ86gm0adwlUg8fEIr6+zS39IzpkIryV4fzP48glaQkvCuxGXDZ8iWzNO96FYcJ9YW6uqCDGGygCjL9aYoh5Z4TYOQGi7ftZerNaX5++EfC4N3Z0OOQhJhkVWEfvAhb5RFK4kxn0Zyq4fb5DkhD61RtFwjJ5sC7xRrrEhTiYsZ71JaMbgk6tHZZNP0uACEsQoNYXKk5c8l4tg0JFwqwyMQ3bF8YQnnQxu9Salo6ywwn64cI4ejve30BJrnO1LQmITjCSvhXheCmeK10GR1DdxDxElez1SZLIDwWu9B0BldS7xxC9f7HmTo9M2D5bzs3YNVsuSSADbTzlYBVTslCWqrgTAGEGGLf9oB+0Lqoclu5Mk41WtvKdv1SkrR16NLwTpQhw==;OpgmaOlXP+J0KbbKNWkvIA=="
 ---

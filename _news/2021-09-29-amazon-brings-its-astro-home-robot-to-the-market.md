@@ -197,6 +197,34 @@ related:
         width: 1200
         height: 853
         isCached: true
+  - title: "Amazon Astro AI smart home robot with personality from $1,000"
+    excerpt: "The Amazon Astro home robot will be priced at $1,450 but Amazon as part of the Day 1 Editions program is making the Alexa"
+    publishedDateTime: 2021-09-29T10:22:00Z
+    webUrl: "https://www.geeky-gadgets.com/amazon-astro-ai-smart-home-robot-with-personality-29-09-2021/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 54
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/09/Amazon-Astro-home-robot.jpg"
+        width: 700
+        height: 461
+        isCached: true
+  - title: "Amazon Introduces the Home Robot Astro"
+    excerpt: "The American online sales giant Amazon has introduced an autonomous robot that is designed for home use. It's called the Astro, it's about 50 cm high, and it has a camera that makes it possible to make video calls."
+    publishedDateTime: 2021-09-29T11:48:00Z
+    webUrl: "https://www.novinite.com/articles/211476/Amazon+Introduces+the+Home+Robot+Astro"
+    type: article
+    provider:
+      name: Novinite
+      domain: novinite.com
+    quality: 39
+    images:
+      - url: "https://www.novinite.com/media/images/2021-09/photo_verybig_211476.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "lt2w/LJ7wTZWCR8n2j4TP6EFTiekXr1IEA4ZaXK8iKdxlg2Cq1/4D21cb0ieUC00yLz5lDSZvwufyYnF2XfMnUAyvzdiVGGYmiiIi5HXOTWdcGFlJoM2UP+f/L5JSCOOYg7GfKFlumTAw4cli8Buyj2rg87zDrfjVM2DBs5A8WMvpBBS6OPw9QQse78/l2i2s675BJU0Uw1I2ShGQxY/CBQipOP0jJNtvgJGjmWwz7S82mosGrXq3K88ejA33nJfeyo5+fIQJbe6d4WfGU2rkt36Qtp4MkcCUNUrZF7sUM+Iwvo3A8rmZirAmH0Rb7fDY2bXQV6vHVKf/22qQbLx8wK7y/PsLlJ1pg0jR6fYG2ErOF7BOELqND6OQ/71e34mdHMnyMudgC5sbkN7xab+VZFuoE7J9Ul1zRv9cIC8gATt65Byp0wXcHiJNr1zXvF4kli5da7iLU0ir8d4fyxS6hqwVfKVeaBPA5XAC+Y4r5GAOZ4/iVJV8BDNStA2HJitMalGRySbK5D36tUecU6DhA==;0pKrncb7elFINDHJt2nnPA=="
 ---

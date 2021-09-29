@@ -2,6 +2,259 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-09-07-when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare.md",
+      "title": "When Fintech Meets Healthcare: How can cryptocurrencies and blockchain improve access to healthcare?",
+      "excerpt": "Cryptocurrencies and blockchain technology are used in a wide array of new applications – including in healthcare. Fintech start-ups are the catalyst for many of these recent market innovations – and they aren’t just focused on the banking and financial services sector.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare/",
+      "originalUrl": "https://techbullion.com/when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2021/09/When-Fintech-Meets-Healthcare.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare/amp/",
+      "publishedDateTime": "2021-09-06T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-06-argo-ai-and-volkswagen-show-off-self-driving-vehicle.md",
+      "title": "Argo AI and Volkswagen show off self-driving vehicle",
+      "excerpt": "Argo AI -- the autonomous car venture backed by Volkswagen and Ford -- is gearing up for the 2021 IAA Mobility event in Munich, where it",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
+      "originalUrl": "https://www.techspot.com/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-06-image-11.jpg",
+          "width": 3600,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
+      "publishedDateTime": "2021-09-06T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-06-eager-for-ai-first-you-have-to-train-it.md",
+      "title": "Eager for AI? First you have to train it",
+      "excerpt": "Artificial intelligence can do little fresh out of the box. Few organizations understand how complex and lengthy the training process is.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/06/eager-for-ai-first-you-have-to-train-it/",
+      "originalUrl": "https://venturebeat.com/2021/09/06/eager-for-ai-first-you-have-to-train-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/07/untitled-design16.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/06/eager-for-ai-first-you-have-to-train-it/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/06/eager-for-ai-first-you-have-to-train-it/amp/",
+      "publishedDateTime": "2021-09-06T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-09-06-googles-newest-nest-cam-is-a-solid-security-camera-if-youre-all-in-with-google.md",
+      "title": "Google's Newest Nest Cam Is a Solid Security Camera If You're All In With Google",
+      "excerpt": "But the old Nest cameras don’t have on-device facial and object recognition. They also don’t offer 24/7 live recording or access to the free tier of Nest Aware. As it stands, the new Nest ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/googles-newest-nest-cam-is-a-solid-security-camera-if-y-1847615882",
+      "originalUrl": "https://gizmodo.com/googles-newest-nest-cam-is-a-solid-security-camera-if-y-1847615882",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/655954f657b2763e4d3b212bd0751a0d.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/googles-newest-nest-cam-is-a-solid-security-camera-if-y-1847615882/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/googles-newest-nest-cam-is-a-solid-security-camera-if-y-1847615882/amp",
+      "publishedDateTime": "2021-09-06T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-09-06-mobius-labs-nabs-6m-to-help-more-sectors-tap-into-computer-vision.md",
+      "title": "Mobius Labs nabs $6M to help more sectors tap into computer vision",
+      "excerpt": "Berlin-based Mobius Labs has closed a €5.2 million (~$6.1M) funding round off the back of increased demand for its computer vision training platform. The Series A investment is led by Ventech VC, along with Atlantic Labs,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/06/mobius-labs-nabs-6m-to-help-more-sectors-tap-into-computer-vision/",
+      "originalUrl": "https://techcrunch.com/2021/09/06/mobius-labs-nabs-6m-to-help-more-sectors-tap-into-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1162249239.jpg?w=1024",
+          "width": 1024,
+          "height": 689,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/06/mobius-labs-nabs-6m-to-help-more-sectors-tap-into-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/06/mobius-labs-nabs-6m-to-help-more-sectors-tap-into-computer-vision/amp/",
+      "publishedDateTime": "2021-09-06T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-06-the-covid-19-effect-artificial-intelligence-automation-market-booms.md",
       "title": "The COVID-19 Effect: Artificial Intelligence Automation Market Booms",
       "excerpt": "In Johannes words: “The robots escaped the manufacturing sector and went ... who take care of the sick and elderly among others are those now replaced with Artificial Intelligence Technology. A 2020 survey by the World Economic Forum, a non-profit ...",
@@ -902,231 +1155,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-court-ruling-uspto-cannot-issue-patents-to-an-artificial-intelligence.md",
-      "title": "Court ruling: USPTO cannot issue patents to an artificial intelligence",
-      "excerpt": "A court in Alexandria, Virginia, ruled that inventions can only be patented under the name of a \"natural person.\" The decision was made against someone who",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html",
-      "originalUrl": "https://www.techspot.com/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-03-image-42.jpg",
-          "width": 2560,
-          "height": 1696,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html",
-      "publishedDateTime": "2021-09-03T17:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-australia-debuts-orwellian-new-app-using-facial-recognition-geolocation-to-enforce-quarantine.md",
-      "title": "Australia debuts 'Orwellian' new app using facial recognition, geolocation to enforce quarantine",
-      "excerpt": "The government of South Australia has launched an \"Orwellian\" new COVID-19 quarantine app, complete with facial recognition and geolocation, to enforce 14-day quarantines for travel. The policy actually represents an improvement over the current pandemic restrictions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/australia-debuts-new-orwellian-app-using-facial-recognition-geolocation-to-enforce-quarantine",
-      "originalUrl": "https://www.foxnews.com/world/australia-debuts-new-orwellian-app-using-facial-recognition-geolocation-to-enforce-quarantine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02834334-5d94-481f-9107-cf7509528d96/aa6b228a-b84e-4c99-931b-60e018cf0274/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/australia-debuts-new-orwellian-app-using-facial-recognition-geolocation-to-enforce-quarantine.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/australia-debuts-new-orwellian-app-using-facial-recognition-geolocation-to-enforce-quarantine.amp",
-      "publishedDateTime": "2021-09-03T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-ai-in-social-media-market-new-release-predicted-to-hold-a-huge-impact-on-sales-in-2021-aws-facebook-google.md",
-      "title": "AI in Social Media Market (New Release) Predicted to Hold a Huge Impact on Sales in 2021 – AWS , Facebook , Google",
-      "excerpt": "Pune, Maharashtra, India, September 4 2021 (Wiredrelease) MarketResearch.Biz –:Global AI in Social Media Market Analysis to 2021-2030 By MarketResearch.Biz is a specialized and in-intensity ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-in-social-media-market-new-release-predicted-to-hold-a-huge-impact-on-sales-in-2021-aws-facebook-google",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-social-media-market-new-release-predicted-to-hold-a-huge-impact-on-sales-in-2021-aws-facebook-google",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/06/Cybercrime-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-03T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Sales",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-us-far-field-speech-recognition-market-2021-is-booming-across-the-globe-by-segments-share-size-growth-and-forecast-to-2028.md",
-      "title": "U.S Far-field Speech Recognition Market 2021 Is Booming Across the Globe by Segments, Share, Size, Growth and Forecast to 2028",
-      "excerpt": "\"Global Far-field Speech Recognition Industry: with growing significant CAGR during 2021-2028. New Research Report on Far-field Speech Recognition Market which covers Market Overv",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/mediareleases/148958/us-far-field-speech-recognition-market-2021-is/",
-      "originalUrl": "https://www.arnnet.com.au/mediareleases/148958/us-far-field-speech-recognition-market-2021-is/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-03T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-parents-lawsuit-over-lockport-facial-recognition-system-ends.md",
-      "title": "Parents' lawsuit over Lockport facial recognition system ends",
-      "excerpt": "A judge said the approval was invalidated when former Gov. Andrew M. Cuomo signed a law in December 2020 banning the use of facial recognition technology in schools.",
-      "sourceUrl": null,
-      "webUrl": "https://buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.html",
-      "originalUrl": "https://buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/f/45/f4555f2d-8ce6-550b-82e9-417e781ab8b7/5ef133e01db3f.image.jpg?resize=1024%2C759",
-          "width": 1024,
-          "height": 759,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.amp.html",
-      "cdnAmpWebUrl": "https://buffalonews-com.cdn.ampproject.org/c/s/buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.amp.html",
-      "publishedDateTime": "2021-09-03T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Buffalo News",
-        "domain": "buffalonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

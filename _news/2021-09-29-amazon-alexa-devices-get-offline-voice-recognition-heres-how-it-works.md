@@ -43,23 +43,34 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Amazon adds offline voice recognition to Alexa devices"
-    excerpt: "Amazon has announced a slew of new connected devices and with those come some new Alexa features, including the new privacy feature."
-    publishedDateTime: 2021-09-29T09:42:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/amazon-adds-offline-voice-recognition-to-alexa-devices/86610314"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/amazon-adds-offline-voice-recognition-to-alexa-devices/86610314"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/amazon-adds-offline-voice-recognition-to-alexa-devices/86610314"
+  - title: "Some Amazon Echo Devices Will Get Offline Alexa Voice Recognition Soon"
+    excerpt: "Amazon launched a bunch of new connected devices at its Sep 28 event. The company also said it is bringing some new privacy-related features to Alexa."
+    publishedDateTime: 2021-09-29T11:50:00Z
+    webUrl: "https://www.androidheadlines.com/2021/09/some-amazon-echo-offline-alexa-voice-recognition.html"
+    ampWebUrl: "https://www.androidheadlines.com/2021/09/some-amazon-echo-offline-alexa-voice-recognition.html?amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/09/some-amazon-echo-offline-alexa-voice-recognition.html?amp"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
+      name: Android
+      domain: androidheadlines.com
     quality: 44
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-86610314,imgsize-24893,width-800,height-434,overlay-ettelecom/amazon-adds-offline-voice-recognition-to-alexa-devices.jpg"
-        width: 800
-        height: 434
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2020/07/Amazon-Alexa-app-UI-logo-AH-2020.jpg"
+        width: 1920
+        height: 1080
         isCached: true
+  - title: "Amazon adds offline voice recognition to Alexa devices"
+    excerpt: "Amazon has announced a slew of new connected devices and with those come some new Alexa features, including the new privacy feature."
+    publishedDateTime: 2021-09-29T08:11:00Z
+    webUrl: "https://www.sify.com/news/amazon-adds-offline-voice-recognition-to-alexa-devices-news-education-vj3ilBjfhfefi.html"
+    ampWebUrl: "https://www.sify.com/news/amazon-adds-offline-voice-recognition-to-alexa-devices-news-education-vj3ilBjfhfefi.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/amazon-adds-offline-voice-recognition-to-alexa-devices-news-education-vj3ilBjfhfefi.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 24
 
-secured: "R9ZiKtU/pBogmsYnK9pj/E2b195BgvdPduyv7uAtw57HjsKnxuFkaIkVlNwv0U1hSarN5YB+bZ4mCYPlQPImT61eGBOqoKSXV4tUxBe/R50JFOvWwEiBTndfqFyEkNPAVfyW3eTPI+Yg9kP6GAzSJe7vXZeSCiuUtDc+8rBj6QNwqeAPZyGuzpA5YGUyjLC7bKT4rF431Uc2bRbKQuGokxRIUkdDWuYnk9CLEd+7sAJIeLHjjoM9X9JnR7R0cHV+9u0fKKlMnB5YzzE+6vNERvr3LCLcwx3AQUfbIOQyJobzZiiyzMFGJsd/Oiww5hYNjaZr8ASE/1MFjWt4rXswGynDqFrN7ltB22I2Zoup9lk=;lpAK0ZP/rY7Hwd7K7uduww=="
+secured: "AHuTHkIt+yFXiOEL/Ee+OSob1Rz87vmQ7uJKqdjf0ZB1ENUqadWeY21KqCM19qyfCpFqtvoEaz9TjAh6JW5UdMrovz9huHgKuHDPtDkH1NUtUzP8xejL13G2yfobtVKpUjzX2CNdKvjb8Ix26AYQYFbZ7JbBozHZ2Zr1HwLlzobnW+VR7DUS584SXbC0N22uIKNd/dmMdTKL+evzI3Th8/xObPDUHIqoqavh2GBLufvEr9Ykl0tltqjBJoE1qW8u0xmEAu5Fjpc8eaTauCnrpLU2Kt9pwDaYrNsXrYmaB3+ApSRtRmGYQ7weAys2mr0wnVXJB9hLMr8uvV0EDi2MqEX6uuyfceoJXIjzeWTiigJdyDZ6gG0K0tuYYeGvPLTK2VN+aCaqWoA5XMfytoO0t49wiSwnWjPzOwhOPws3o/D078CvOseRN4HimmaGtxmYC39AL5XvUPpqKc97MIvdu7eZlQLSZgq2G9+2g+yJ45akh1y5cOp7FZRRy3/XHducsXDL14Qg2An+KNuyj8xBQQ==;HtrhfjXnFg7O+yV4RSQXAw=="
 ---
 

@@ -206,7 +206,7 @@ related:
   - title: "Tesla Is Bringing Self-Driving No Matter What. Regulators Need to Adapt."
     excerpt: "San Francisco authorities have expressed concern over Tesla's autonomous driving feature, dubbed Full Self Driving. More broadly, self-driving systems are advancing much faster than regulation."
     publishedDateTime: 2021-09-24T21:37:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-stock-self-driving-regulation-51632504996?refsec=markets"
+    webUrl: "https://www.barrons.com/articles/tesla-stock-self-driving-regulation-51632504996"
     ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-self-driving-regulation-51632504996"
     cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-self-driving-regulation-51632504996"
     type: article

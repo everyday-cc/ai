@@ -28,7 +28,7 @@ related:
   - title: "GOP Bill Would Block UN Recognition of Taliban, Impose Sanctions Against Supporters Like Pakistan"
     excerpt: "Twenty-two Republican senators have introduced legislation designed to block Taliban efforts to win international recognition and imposing sanctions against the group and its supporters – with the government of Pakistan singled out."
     publishedDateTime: 2021-09-29T08:57:00Z
-    webUrl: "https://www.cnsnews.com/article/international/patrick-goodenough/gop-bill-would-block-un-recognition-taliban-impose"
+    webUrl: "https://www.cnsnews.com/index.php/article/international/patrick-goodenough/gop-bill-would-block-un-recognition-taliban-impose"
     type: article
     provider:
       name: CNSNews.com

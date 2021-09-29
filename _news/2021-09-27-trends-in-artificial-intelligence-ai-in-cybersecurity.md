@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Three Key Artificial Intelligence Applications For Cybersecurity"
-    excerpt: "We are at the doorstep of a new era of smart technology and cybersecurity is already a testing ground. The cybersecurity industry is increasingly impacted by the deployment of solutions supported by a"
-    publishedDateTime: 2021-09-24T17:25:00Z
-    webUrl: "https://www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/"
-    ampWebUrl: "https://www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614e04f5dff3ebea27d194cc%2F0x0.jpg"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Cyber security in the public cloud"
     excerpt: "A brief guide to the network, infrastructure, data, and application security capabilities AWS, Microsoft Azure, and Google Cloud provide to prevent cyber attacks and protect your cloud-based resources and workloads."
     publishedDateTime: 2021-09-27T10:00:00Z
@@ -55,6 +39,20 @@ related:
       - url: "https://images.techhive.com/images/article/2015/10/cloud-security-ts-100622309-large.jpg?auto=webp"
         width: 1200
         height: 899
+        isCached: true
+  - title: "Comparing AWS, Microsoft and Google Cloud: Cyber security in the public cloud"
+    excerpt: "A brief guide to the network, infrastructure, data and app security capabilities AWS, Microsoft Azure and Google Cloud provide to prevent cyber attacks."
+    publishedDateTime: 2021-09-28T07:06:00Z
+    webUrl: "https://www.arnnet.com.au/article/691588/comparing-aws-microsoft-google-cloud-cyber-security-public-cloud/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 70
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/aws_microsoft_google_updated_2.jpg"
+        width: 504
+        height: 315
         isCached: true
   - title: "Applying cybersecurity lessons learned for AI regulation"
     excerpt: "As regulators and insurers work to understand the level of regulatory oversight that is needed for AI innovation, there is a path forward by looking to the recent past. The massive 2015 breach of Anthem’s customer data was a catalyst moment for insurance regulators and led to the Insurance"
@@ -83,22 +81,6 @@ related:
     quality: 30
     images:
       - url: "https://techbullion.com/wp-content/uploads/2021/09/Tim-Liu-VP-and-CTO-of-Hillstone-Network.png"
-        width: 700
-        height: 400
-        isCached: true
-  - title: "Hillstone Networks Provides Cybersecurity Solutions Using Artificial Intelligence: Interview With Co-founder and CTO Timothy Liu."
-    excerpt: "Hillstone Networks helps both small and big enterprises secure their web applications and defend their online infrastructures against cyberattacks with outstanding technology made possible with the help of artificial intelligence."
-    publishedDateTime: 2021-09-29T06:05:00Z
-    webUrl: "https://techbullion.com/hillstone-networks-provides-cybersecurity-solutions-using-artificial-intelligence-interview-with-co-founder-and-cto-timothy-liu/"
-    ampWebUrl: "https://techbullion.com/hillstone-networks-provides-cybersecurity-solutions-using-artificial-intelligence-interview-with-co-founder-and-cto-timothy-liu/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/hillstone-networks-provides-cybersecurity-solutions-using-artificial-intelligence-interview-with-co-founder-and-cto-timothy-liu/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 28
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/09/Tim-Liu-Co-founder-and-CTO-of-Hillstone-Network.png"
         width: 700
         height: 400
         isCached: true

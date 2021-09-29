@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-astro-could-be-the-robot
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-astro-could-be-the-robot-weve-been-waiting-for/"
 type: article
 quality: 104
-heat: 215
+heat: 234
 published: true
 
 provider:
@@ -187,6 +187,20 @@ related:
         width: 1200
         height: 853
         isCached: true
+  - title: "Amazon Astro AI smart home robot with personality from $1,000"
+    excerpt: "The Amazon Astro home robot will be priced at $1,450 but Amazon as part of the Day 1 Editions program is making the Alexa"
+    publishedDateTime: 2021-09-29T10:22:00Z
+    webUrl: "https://www.geeky-gadgets.com/amazon-astro-ai-smart-home-robot-with-personality-29-09-2021/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 54
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/09/Amazon-Astro-home-robot.jpg"
+        width: 700
+        height: 461
+        isCached: true
   - title: "Amazon brings its ‘Astro’ home robot to the market"
     excerpt: "Amazon finally unveiled its first home robot this week, and the company named it Astro. The unit is part of the Day 1 Edition, which means it will be initially sold to a limited number of people. As per CNBC,"
     publishedDateTime: 2021-09-29T05:55:00Z
@@ -200,6 +214,20 @@ related:
       - url: "https://s1.econotimes.com/assets/uploads/202109297151754ed6588c99e_th_1024x0.jpg"
         width: 640
         height: 420
+        isCached: true
+  - title: "Amazon Introduces the Home Robot Astro"
+    excerpt: "The American online sales giant Amazon has introduced an autonomous robot that is designed for home use. It's called the Astro, it's about 50 cm high, and it has a camera that makes it possible to make video calls."
+    publishedDateTime: 2021-09-29T11:48:00Z
+    webUrl: "https://www.novinite.com/articles/211476/Amazon+Introduces+the+Home+Robot+Astro"
+    type: article
+    provider:
+      name: Novinite
+      domain: novinite.com
+    quality: 39
+    images:
+      - url: "https://www.novinite.com/media/images/2021-09/photo_verybig_211476.jpg"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "Xgs8WCXPNMmnUQ+KYydYexnV0lTizLpbP+gOBmRi5+u83mxQCMA8sjtICNZOMu8ced2WvWiNtSkRVYxBQOPqi/yUf9JAwTtGFPCh0IrVDvaqlUKH9OCVc4F5T6Tb4/ep+wS/+EMBTbKBCor4CD4xJPABygkGqFYMkp1B99xkYofAYTY6qA4p/EeOw1FBk3AG11GR5TBSJXkQasJiqB7Wowp46lTMSFMcq17bxMSt1ao2F4nE3VT3vLFEX31gJYkLPgfYk3fZqO3oW7PICPjXLptNDxXkH84xkTSraP5lBBXeq36/r3OxWRj7y8yBbaMKS2gv/D4ml0T7fMOf/aFHhcCu3blS2cK6X4sA5dFUAMwp24HtnAh5ZpvoCyQoTziPhDftVEjrn6uufso+wlYMf3bKqxBnJMQ3a92z6/9s2iAAGvsOCOng7IbotBk1OJfhtG9hYOoUztfp4uzYOl2d9AbZorVxOIAxa3A9JTxij88iAev+4DEksm2uWWBlwohVU8SWqjMa1/hJkcBvhFPWrQ==;oIGoRmwF60fIIm0gpqt0hQ=="

@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-29T06:50:00Z
 originalUrl: "https://www.analyticsinsight.net/the-future-is-already-here-areas-where-artificial-intelligence-is-already-in-use-and-this-is-just-the-beginning/"
 webUrl: "https://www.analyticsinsight.net/the-future-is-already-here-areas-where-artificial-intelligence-is-already-in-use-and-this-is-just-the-beginning/"
 type: article
-quality: 20
-heat: 20
+quality: 22
+heat: 22
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI
   - AI in Robotics
   - AI in Healthcare
+  - IBM AI
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Areas-Where-Artificial-Intelligence-Is-Already-in-Use-and-This-Is-Just-the-Beginning.jpg"

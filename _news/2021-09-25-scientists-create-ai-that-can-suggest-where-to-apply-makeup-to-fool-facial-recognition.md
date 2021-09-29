@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10026371/amp/Scienti
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10026371/amp/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Scientists create artificial intelligence that can suggest where to apply makeup to a person's face to fool facial recognition systems"
+    excerpt: "Researchers at Israel's Ben-Gurion University trained AI software to tell users where to apply subtle contouring to throw off facial recognition systems up to 98.8 percent of the time."
+    publishedDateTime: 2021-09-24T21:38:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10026371/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10026371/amp/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10026371/amp/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 42
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/09/24/22/48356691-0-image-a-11_1632518646328.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Adversarial Makeup: Your Contouring Skills Could Defeat Facial Recognition"
     excerpt: "Facial recognition is everywhere these days. Cloud servers churn through every picture uploaded to social media, phone cameras help put faces to names, and CCTV systems are being used to trace"
     publishedDateTime: 2021-09-25T02:00:00Z

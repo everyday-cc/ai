@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-20-top-5-machine-learning-trends-in-2021-2022.md",
+      "title": "Top 5 Machine Learning Trends in 2021-2022",
+      "excerpt": "Trend 2. AutoML Auto-ML brings improved data labeling tools to the table and enables the possibility of automatic tuning of neural network architectures. Evgeniy Krasnokutsky PhD, AI/ML Solution ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210920ph08435/top-5-machine-learning-trends-in-2021-2022",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210920ph08435/top-5-machine-learning-trends-in-2021-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-20T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-18-computer-vision-can-help-spot-cyber-threats-with-startling-accuracy.md",
       "title": "Computer vision can help spot cyber threats with startling accuracy",
       "excerpt": "In 2019, cybersecurity researchers created a machine learning model that could detect malware based on images created from the content of application files.",
@@ -208,6 +242,50 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-heart-to-heart-hospice-receives-medalogix-muse-trailblazer-award-for-adopting-machine-learning-technology.md",
+      "title": "Heart to Heart Hospice Receives Medalogix Muse Trailblazer Award for Adopting Machine Learning Technology",
+      "excerpt": "Medalogix (  a premiere health-tech company using machine learning to advance patient care within home health, palliative, and hospice care settings, has partnered with Homecare HomebaseSM (HCHB) to announce Heart to Heart Hospice as the winner of the Medalogix Muse Trailblazer Award.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-health-texas-dallas-8d1aafeaba43856a011f9e8c010650a4",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-health-texas-dallas-8d1aafeaba43856a011f9e8c010650a4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-16T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1248,92 +1326,6 @@
         "name": "manometcurrent.com",
         "domain": "manometcurrent.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-11-artificial-neural-network-market-research-by-global-size-share-growth-technological-innovation-current-trends-opportunities-and-challenges.md",
-      "title": "Artificial Neural Network Market Research By Global Size, Share, Growth, Technological Innovation, Current Trends, Opportunities And Challenges",
-      "excerpt": "An artificial neural network resembles the function and structure of the human’s brain neuron system which facilitates improved analytical output. Artificial neural network finds application in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2019/09/artificial-neural-network-market-research-by-global-size-share-growth-technological-innovation-current-trends-opportunities-and-challenges.html",
-      "originalUrl": "https://www.medgadget.com/2019/09/artificial-neural-network-market-research-by-global-size-share-growth-technological-innovation-current-trends-opportunities-and-challenges.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-10T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-datarobot-ceo-dan-wright-coming-to-tc-sessions-saas-to-discuss-role-of-data-in-machine-learning.md",
-      "title": "DataRobot CEO Dan Wright coming to TC Sessions: SaaS to discuss role of data in machine learning",
-      "excerpt": "Just about every company is sitting on vast amounts of data, which they can use to their advantage if they can just learn how to harness it. Data is actually the fuel for machine learning models, and with the proper tools,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/10/datarobot-ceo-dan-wright-coming-to-tc-sessions-saas-to-discuss-role-of-data-in-machine-learning/",
-      "originalUrl": "https://techcrunch.com/2021/09/10/datarobot-ceo-dan-wright-coming-to-tc-sessions-saas-to-discuss-role-of-data-in-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/datarobot_wp.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/10/datarobot-ceo-dan-wright-coming-to-tc-sessions-saas-to-discuss-role-of-data-in-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/10/datarobot-ceo-dan-wright-coming-to-tc-sessions-saas-to-discuss-role-of-data-in-machine-learning/amp/",
-      "publishedDateTime": "2021-09-10T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

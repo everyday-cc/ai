@@ -41,6 +41,22 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Scientists create artificial intelligence that can suggest where to apply makeup to a person's face to fool facial recognition systems"
+    excerpt: "Researchers at Israel's Ben-Gurion University trained AI software to tell users where to apply subtle contouring to throw off facial recognition systems up to 98.8 percent of the time."
+    publishedDateTime: 2021-09-24T21:38:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10026371/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10026371/amp/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10026371/amp/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 42
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/09/24/22/48356691-0-image-a-11_1632518646328.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "TZtgTNYFA2ASTl0QdkOO8lO9sCtDpiwnqSGAuZ7n6VNf8wR/cgmHMy4uXShEsT7/CB5Lr5l7gdDr56Ane1JzOPUHsCyMJXFoihIYb3BcPOtwhZWAdTT15hLGRgvNTA2zVyepQCOYbdJ+Itdi2k1kf+mkEmf0pIpK0xdTVl7bQE0f+clxgChrqVHHXGewx+7HtcL2VsvtCw4DIkJS4YJGPJId7Js9VVnstfIzOvdn14JoLyfkUspCcSsC55CK/MgdZzGAd1hUGiO7MiiTL2DIRfOf/W6Q6VMHxhOg1C5xroicZfzmM9bUjr3M41mavaySDSJXgInQMxFfBC90pkXtg/Dttp9y7Bokq6lOPPhf0O3VAuBNYp/ZpYDOpuxLP0IAstmGMOwjQkz07E7anYHZLTaClS+N6i5Nb0GbTkRTLSxPyMYC0Ci8d1nZDrYT1iKa2b4aTEpiU60Amv9JlDGzRg4jKKbKW5/s8gdqeuUbBp8Wyd1wNiXn31olWA8xCPmOQ8MuYkDyBPwQm88IQkhADw==;eLQ3Kc7RgVk/Gc8JFPunKQ=="
 ---

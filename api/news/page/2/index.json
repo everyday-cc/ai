@@ -2,6 +2,203 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-28-leena-ai-raises-30-mn-series-b-round-led-by-bessemer-venture-partners.md",
+      "title": "Leena AI Raises $30 Mn Series B Round Led By Bessemer Venture Partners",
+      "excerpt": "The new capital will accelerate product innovation to meet global demand for the platform for new and existing customers",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/388110",
+      "originalUrl": "https://www.entrepreneur.com/article/388110",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1632836657-marcel-strauss-oTtgJcrs72w-unsplash.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-battery-ventures-leads-arize-ais-19m-round-for-ml-observability.md",
+      "title": "Battery Ventures leads Arize AI’s $19M round for ML observability",
+      "excerpt": "Companies use data to build models that they use to automate decisions, but without visibility, it’s difficult to determine if the models are accountable, fair and responsible.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/28/battery-ventures-leads-arize-ais-19m-round-for-ml-observability/",
+      "originalUrl": "https://techcrunch.com/2021/09/28/battery-ventures-leads-arize-ais-19m-round-for-ml-observability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/DSC_0597.jpg?w=1000",
+          "width": 1000,
+          "height": 665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/28/battery-ventures-leads-arize-ais-19m-round-for-ml-observability/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/28/battery-ventures-leads-arize-ais-19m-round-for-ml-observability/amp/",
+      "publishedDateTime": "2021-09-28T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-kodiak-launches-its-4th-generation-self-driving-semi-truck.md",
+      "title": "Kodiak launches its 4th-generation self-driving semi-truck",
+      "excerpt": "That move towards autonomy in the trucking industry is where Kodiak Robotics comes in, with its fourth-generation Kodiak Driver system, which the company announced on Tuesday. The system is somewhat unique from others on the road in its modularity and ease of installation on any modern Class 8 truck,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/kodiak-autonomous-semi-truck-launched/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/kodiak-autonomous-semi-truck-launched/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/fXRtRHYXHsgvDiRTPEUy6OR0_EU=/2021/09/27/de369ec4-cdeb-4aa1-bbf8-c04f0dda9fb2/767a6856-1.jpg",
+          "width": 1200,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/kodiak-autonomous-semi-truck-launched/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/kodiak-autonomous-semi-truck-launched/",
+      "publishedDateTime": "2021-09-28T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-iit-roorkee-establishes-school-of-data-science-and-artificial-intelligence.md",
+      "title": "IIT Roorkee Establishes School Of Data Science And Artificial Intelligence",
+      "excerpt": "IIT Roorkee has established the Mehta Family School of Data Science and Artificial Intelligence. The school will be supported by global experts from AI field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.republicworld.com/india-news/education/iit-roorkee-establishes-school-of-data-science-and-artificial-intelligence.html",
+      "originalUrl": "https://www.republicworld.com/india-news/education/iit-roorkee-establishes-school-of-data-science-and-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/vnndh5facmejvpp2_1632831742.jpeg",
+          "width": 768,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.republicworld.com/amp/india-news/education/iit-roorkee-establishes-school-of-data-science-and-artificial-intelligence.html",
+      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/education/iit-roorkee-establishes-school-of-data-science-and-artificial-intelligence.html",
+      "publishedDateTime": "2021-09-28T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RepublicWorld",
+        "domain": "republicworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-londons-met-police-buying-retrospective-facial-recognition-technology.md",
       "title": "London's Met Police Buying Retrospective Facial Recognition Technology",
       "excerpt": "The UK's Metropolitan Police Service has been authorised to buy and use retrospective facial recognition technology.",
@@ -10,7 +207,7 @@
       "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-police-buying-retrospective-facial-recognition-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -191,51 +388,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-28-comparing-aws-microsoft-and-google-cloud-cyber-security-in-the-public-cloud.md",
-      "title": "Comparing AWS, Microsoft and Google Cloud: Cyber security in the public cloud",
-      "excerpt": "A brief guide to the network, infrastructure, data and app security capabilities AWS, Microsoft Azure and Google Cloud provide to prevent cyber attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/691588/comparing-aws-microsoft-google-cloud-cyber-security-public-cloud/",
-      "originalUrl": "https://www.arnnet.com.au/article/691588/comparing-aws-microsoft-google-cloud-cyber-security-public-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/aws_microsoft_google_updated_2.jpg",
-          "width": 504,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T00:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-28-5-women-in-fintech-whore-now-taking-over-indias-finance-domain.md",
       "title": "5 Women In Fintech Who’re Now Taking Over India’s Finance Domain",
       "excerpt": "Women have been financially independent since just a century or so in India. Now, in the 21st century we have some inspiring women in Fintech who are making a wave.",
@@ -330,7 +482,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-report-2021-prominent-key-players-exploring-sales-volume-revenue-and-forecast-by-2027-2021-09-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1054,147 +1206,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-the-limitations-of-ai-safety-tools.md",
-      "title": "The limitations of AI safety tools",
-      "excerpt": "Firms including OpenAI have developed safety tools to constrain AI decision-making. But there's a limit to what these tools can accomplish.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/",
-      "originalUrl": "https://venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/self-driving-car.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/amp/",
-      "publishedDateTime": "2021-09-27T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-will-ai-revolutionize-regtech-part-1-faster-easier-richer.md",
-      "title": "Will AI Revolutionize Regtech? Part 1: Faster, Easier, Richer",
-      "excerpt": "Later this year at the NSCP National Conference, I’ll be speaking on a panel with Jane Stabile and Andrew Siegel on the topic “Will AI Revolutionize the Financial Services Industry?” To help promote the event,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-1%3A-faster-easier-richer-2021-09-27",
-      "originalUrl": "https://www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-1%3A-faster-easier-richer-2021-09-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-1%3A-faster-easier-richer-2021-09-27?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-1%3A-faster-easier-richer-2021-09-27?amp",
-      "publishedDateTime": "2021-09-27T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-crm-marketing-startup-optimove-raises-75m.md",
-      "title": "CRM marketing startup Optimove raises $75M",
-      "excerpt": "Optimove, a company developing customer relationship management software, has raised $75 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/27/crm-marketing-startup-optimove-raises-75m/",
-      "originalUrl": "https://venturebeat.com/2021/09/27/crm-marketing-startup-optimove-raises-75m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/big_data-e1629907579542.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/27/crm-marketing-startup-optimove-raises-75m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/27/crm-marketing-startup-optimove-raises-75m/amp/",
-      "publishedDateTime": "2021-09-27T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "AI in Sales"
       ]
     }
   ],

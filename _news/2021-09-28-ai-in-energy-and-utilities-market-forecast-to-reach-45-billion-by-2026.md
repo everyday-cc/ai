@@ -29,6 +29,17 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 64
+  - title: "Artificial Intelligence for Marketing Market Likely to Boost Future Growth by 2026 | IBM, Google, Amazon, Microsoft"
+    excerpt: "Advance Market Analytics published a new research publication on Artificial Intelligence for Marketing Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends"
+    publishedDateTime: 2021-09-29T10:18:00Z
+    webUrl: "https://www.openpr.com/news/2411287/artificial-intelligence-for-marketing-market-likely-to-boost"
+    ampWebUrl: "https://www.openpr.com/amp/2411287/artificial-intelligence-for-marketing-market-likely-to-boost"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2411287/artificial-intelligence-for-marketing-market-likely-to-boost"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 51
   - title: "Artificial Intelligence in Education Market Recent Trends, Growth and High Demand During Forecast by 2030"
     excerpt: "Introduction. Education is one of the fastest growing industry verticals adopting artificial intelligence. This is due to the g"
     publishedDateTime: 2021-09-24T19:29:00Z
