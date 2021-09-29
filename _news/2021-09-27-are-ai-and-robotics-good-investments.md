@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/ai-robotics-good-investments-james-
 webUrl: "https://www.linkedin.com/pulse/ai-robotics-good-investments-james-sanders"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.bthaber.com/wp-content/uploads/2021/09/SiberGuvenlik01.jpg"
         width: 800
         height: 480
+        isCached: true
+  - title: "Tech leaders plan large AI investment, but adoption woes remain"
+    excerpt: "Four in 10 technology decision-makers say emerging AI applications are still under development, a Gartner survey found."
+    publishedDateTime: 2021-09-29T07:47:00Z
+    webUrl: "https://www.ciodive.com/news/AI-budgets-2022-gartner/607320/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 37
+    images:
+      - url: "https://www.ciodive.com/user_media/cache/9a/ea/9aea78894e609e11cd5d472cbea4d079.jpg"
+        width: 770
+        height: 364
         isCached: true
 
 secured: "aNODzVhDzlopl6xVcxL4OFEZ+xzMNz7jc8vndVs9ToGLwgyaQTywksLkVCMqkyj4xAYut2JjVQYEpU1Avz3OQWk3YFf9RCzZbe2x8IFMZpyiAsaBuEk261ucxda/J4AJ9tzEClGjWRmmxcRbTZiZH1X8tjJXdkZ6cTv5LpIvtJFTSqzq+bWNgcw1f4oq6gutF7vBFymWn9npALGBHgbVRae9xu2kv7I+4SR89GyyzmgfFMfzGESMGeFJe7F/2CMFOyVvUsSfOb0kQ3ayLOaSo4dgLNlOZyM+XH8O7+eWlixqK7clhhovfdrxHCl7TBjkMtO4g84NZs8nbW1wpMO4RBZ+DJCMcNUv1eywmzCvsug=;LDHG5WLjDXk1GJorK8Mk5A=="

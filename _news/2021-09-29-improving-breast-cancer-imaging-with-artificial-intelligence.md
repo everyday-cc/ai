@@ -82,6 +82,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Living with Artificial Intelligence — this year’s Reith Lectures"
+    excerpt: "Living with Artificial Intelligence is the theme of this year's Reith lecturer Stuart Russell — the four lectures will be held across the UK"
+    publishedDateTime: 2021-09-28T15:06:00Z
+    webUrl: "https://cultbox.co.uk/news/living-with-artificial-intelligence-this-years-reith-lectures"
+    type: article
+    provider:
+      name: CultBox
+      domain: cultbox.co.uk
+    quality: 37
+    images:
+      - url: "https://cultbox.co.uk/wp-content/uploads/2021/09/Living-with-Artificial-Intelligence.jpg"
+        width: 1456
+        height: 819
+        isCached: true
 
 secured: "NyxE4L3wCmsevHuXjNd+CnYi4TiI7r4g8zgcR8GGJohmjYHEkQzcRNdZhHmlYgIK9kEg9A2T6Qfpjm9012t4gKCZJgoz45Vz83n6SIrPPMyGk1Pie6kVlqr5KcRqyfU7rWZMEQWP45rkpFKid2F5K/GtEThrymltY5e3OD6s8L35+3IUauBPPf+iG/NA1BMDaS6lpkIldGYoAnTF1q1ck7RDNqXORAFk6Tw0rIvKAuS+KPFSSbDayH9Z2lKkrVCam0EbOm1y0mcxxLkt8xHMcm4vtRYC/sbhNhp+lgQgCp/k4y8vi/wg1PyN894ZSXGu6LKSY/oGrW+GQ0oCeKkJ8KHsP+VvQhQVg7O8LGgw31L1dZkDS3pV531RU5ZEqelnWrJxfXiGrK4EvuDJZOtIWb4MRtghJqB3Lj3h4O9KIwVppPJSXJ50jcAFHfblowEoGHXUX6n2U1cVuNnb82vF1+cPRHSCFnpRUO6wNdrFqx+BjENDtF1NMGqXgvwX28aW+1lh4/T/qWA3kPLB8BSYRA==;4H8wWry2chDT4TkwVoRlEA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://techhq.com/2021/09/researchers-having-a-whale-of-a-time-wi
 webUrl: "https://techhq.com/2021/09/researchers-having-a-whale-of-a-time-with-deep-learning-ai-algorithms/"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/3/5d/35d5ca8b-389b-5c80-8773-b5f41d8e14c6/5f89083f5eec0.image.jpg?crop=1780%2C1001%2C0%2C81&resize=1024%2C576&order=crop%2Cresize"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Living with Artificial Intelligence — this year’s Reith Lectures"
+    excerpt: "Living with Artificial Intelligence is the theme of this year's Reith lecturer Stuart Russell — the four lectures will be held across the UK"
+    publishedDateTime: 2021-09-28T15:06:00Z
+    webUrl: "https://cultbox.co.uk/news/living-with-artificial-intelligence-this-years-reith-lectures"
+    type: article
+    provider:
+      name: CultBox
+      domain: cultbox.co.uk
+    quality: 37
+    images:
+      - url: "https://cultbox.co.uk/wp-content/uploads/2021/09/Living-with-Artificial-Intelligence.jpg"
+        width: 1456
+        height: 819
         isCached: true
   - title: "Improving Breast Cancer Imaging with Artificial Intelligence"
     excerpt: "A study led by New York University (NYU) researchers created an artificial intelligence tool to improve the accuracy of breast cancer imaging. The computer program was trained to identify patterns among thousands of breast ultrasound images to aid physicians in diagnosing."

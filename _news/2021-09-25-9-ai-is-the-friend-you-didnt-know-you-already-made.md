@@ -54,17 +54,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "How AI Is Transforming The Software Development Process"
-    excerpt: "There are several ways artificial intelligence (AI) is transforming the software development process. According to recent reports, the worldwide artificial intelligence market is projected to reach over $340 billion this year."
-    publishedDateTime: 2021-09-24T14:41:00Z
-    webUrl: "https://www.techzone360.com/topics/techzone/articles/2021/09/24/450084-how-ai-transforming-software-development-process.htm"
-    ampWebUrl: "http://www.techzone360.com/topics/techzone/articles/2021/09/24/450084-how-ai-transforming-software-development-process.htm/amp"
-    cdnAmpWebUrl: "https://www-techzone360-com.cdn.ampproject.org/c/www.techzone360.com/topics/techzone/articles/2021/09/24/450084-how-ai-transforming-software-development-process.htm/amp"
-    type: article
-    provider:
-      name: Tech Zone 360
-      domain: techzone360.com
-    quality: 37
   - title: "AI is transforming your job, not terminating it"
     excerpt: "For those who aren’t familiar with the pop-culture reference, the film focuses on self-aware military AI that sets out to exterminate all of humanity using robots, cyborgs and drones. Fast forward to 2021,"
     publishedDateTime: 2021-09-27T07:32:00Z

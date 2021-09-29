@@ -127,20 +127,6 @@ related:
         width: 3000
         height: 2120
         isCached: true
-  - title: "Tesla Starts Judging Owners It Charged $10,000 for Self-Driving"
-    excerpt: "Tesla Inc. customers to get access to driver-assistance technology the company has marketed in controversial ways -- as long as they’re on their best behavior. Chief Executive O"
-    publishedDateTime: 2021-09-24T13:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-09-24/tesla-starts-judging-owners-it-charged-10-000-for-self-driving"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iup7L8IXuFtE/v0/1200x883.jpg"
-        width: 1200
-        height: 883
-        isCached: true
   - title: "Tesla uses YouTubers to test self-driving tech on public streets rather than trained safety drivers"
     excerpt: "Safety experts are outraged Tesla lets would-be influencers test version 10.1 of its Full Self-Driving AI. One YouTuber lurched toward pedestrians when his steering wheel suddenly veered right."
     publishedDateTime: 2021-09-27T21:42:00Z
@@ -480,15 +466,6 @@ related:
         width: 960
         height: 480
         isCached: true
-  - title: "Tesla's plans to test new 'self-driving' tech raises concerns"
-    excerpt: "Release plans for #Tesla's \"Full Self Driving\" features has local transportation agency concerned over driver safety. #SiliconValley #SanFrancisco #selfdriving"
-    publishedDateTime: 2021-09-24T14:23:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/09/24/teslas-planned-test-of-new-self-driving.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
   - title: "Tesla's Public Rollout of Full Self-Driving Beta Has San Francisco Officials Worried"
     excerpt: "We guess you could say Elon Musk did his job properly because it's hard to imagine there is anyone at this point who doesn't know about Tesla's Full Self-Driving Beta (FSD Beta) Advanced Driver's Assistance System (ADAS)."
     publishedDateTime: 2021-09-24T15:05:00Z

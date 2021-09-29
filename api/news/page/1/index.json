@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-29-vice-president-calls-for-ai-solutions-in-agriculture-health-education.md",
+      "title": "Vice President calls for AI solutions in agriculture, health, education",
+      "excerpt": "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to delive..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-86606103,imgsize-21820,width-800,height-434,overlay-etcio/vice-president-calls-for-ai-solutions-in-agriculture-health-education.jpg",
+          "width": 800,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103",
+      "publishedDateTime": "2021-09-28T23:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-gbg-wins-best-aimachine-learning-innovation-of-the-year-award.md",
       "title": "GBG wins Best AI/Machine Learning Innovation of the Year award",
       "excerpt": "Judges praise GBG’s technology for reducing false positives and improving fraud detection SINGAPORE - Media OutReach  - 29 September 2021 - GBG (AIM:GBG), the global expert in digital identity, helping businesses prevent fraud",
@@ -54,7 +98,7 @@
       "originalUrl": "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 468,
+      "heat": 448,
       "tags": null,
       "images": [
         {
@@ -210,7 +254,7 @@
       "originalUrl": "https://www.cnet.com/home/smart-home/amazon-astro-could-be-the-robot-weve-been-waiting-for/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -251,50 +295,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-vice-president-calls-for-ai-solutions-in-agriculture-health-education.md",
-      "title": "Vice President calls for AI solutions in agriculture, health, education",
-      "excerpt": "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1102881265/Vice-President-calls-for-AI-solutions-in-agriculture-health-education",
-      "originalUrl": "https://menafn.com/1102881265/Vice-President-calls-for-AI-solutions-in-agriculture-health-education",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2021-09/28/I_c99edimage_story.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Education"
       ]
     },
     {

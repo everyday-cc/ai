@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-09-22-googles-former-ai-ethics-chief-has-a-plan-to-rethink-big-tech.md",
+      "title": "Google’s Former AI Ethics Chief Has a Plan to Rethink Big Tech",
+      "excerpt": "Timnit Gebru is one of the leading voices working on ethics in artificial intelligence. Her research has explored ways to combat biases, such as racism and sexism, that creep into AI through flawed data and creators.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloombergquint.com/businessweek/timnit-gebru-former-google-ai-ethics-chief-has-plan-to-rethink-big-tech",
+      "originalUrl": "https://www.bloombergquint.com/businessweek/timnit-gebru-former-google-ai-ethics-chief-has-plan-to-rethink-big-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irT_4KqQZRVY/v1/560x-1.jpg",
+          "width": 560,
+          "height": 705,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BloombergQuint",
+        "domain": "bloombergquint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-arkq-uniquely-positioned-to-capitalize-on-robotics-trends.md",
       "title": "ARKQ Uniquely Positioned to Capitalize on Robotics Trends",
       "excerpt": "Amid an array of technological advancements, robotics investing is gaining a broader audience, and exchange traded funds issuers are meeting that demand. However, the various robotics ETFs on the market today aren't carbon copies of each other,",
@@ -1126,48 +1169,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-press-release-deepspatial-inc-files-patent-for-artificial-intelligence-driven-retail-management-software.md",
-      "title": "Press Release: Deepspatial Inc. Files Patent for Artificial Intelligence Driven Retail Management Software",
-      "excerpt": "Deepspatial Inc. (CSE:DSAI) (\"Deepspatial\" or the \"Company\") is pleased to announce that it has filed patent application number 63244524 - Computer Implemented Method and System for Retail Management and Optimization with the United States Patent and Trademark Office (USPTO) for its proprietary methods of retail management with enhanced user experience for dynamic planning and decision making.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sharecast.com/news/market_reports/press-release-deepspatial-inc-files-patent-for-artificial-intelligence-driven-retail-management-software--8108547.html",
-      "originalUrl": "https://www.sharecast.com/news/market_reports/press-release-deepspatial-inc-files-patent-for-artificial-intelligence-driven-retail-management-software--8108547.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.s3wfg.com/web/img/images_uploaded/amp_dl.jpg",
-          "width": 620,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sharecast.com/amp/news/market_reports/press-release-deepspatial-inc-files-patent-for-artificial-intelligence-driven-retail-management-software--8108547.html",
-      "cdnAmpWebUrl": "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/market_reports/press-release-deepspatial-inc-files-patent-for-artificial-intelligence-driven-retail-management-software--8108547.html",
-      "publishedDateTime": "2021-09-21T05:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sharecast",
-        "domain": "sharecast.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

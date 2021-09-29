@@ -42,17 +42,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "How AI Is Transforming The Software Development Process"
-    excerpt: "There are several ways artificial intelligence (AI) is transforming the software development process. According to recent reports, the worldwide artificial intelligence market is projected to reach over $340 billion this year."
-    publishedDateTime: 2021-09-24T14:41:00Z
-    webUrl: "https://www.techzone360.com/topics/techzone/articles/2021/09/24/450084-how-ai-transforming-software-development-process.htm"
-    ampWebUrl: "http://www.techzone360.com/topics/techzone/articles/2021/09/24/450084-how-ai-transforming-software-development-process.htm/amp"
-    cdnAmpWebUrl: "https://www-techzone360-com.cdn.ampproject.org/c/www.techzone360.com/topics/techzone/articles/2021/09/24/450084-how-ai-transforming-software-development-process.htm/amp"
-    type: article
-    provider:
-      name: Tech Zone 360
-      domain: techzone360.com
-    quality: 37
   - title: "9. AI Is the Friend You Didn’t Know You Already Made"
     excerpt: "Artificial intelligence (AI) is more than just a buzzword. AI is powering many of the systems and apps we use every day. But what do lawyers think of it? The attitudes fall into two groups. One group really understands what AI is and believes it has a key ..."
     publishedDateTime: 2021-09-24T17:09:00Z
@@ -82,6 +71,6 @@ related:
         height: 270
         isCached: true
 
-secured: "YbznV3n5ajshzj7nbjVz00yZvA+/Wg1WksNUNGLQ4LzSg7bAl7uuzOj92bGiOdOHL8spjCYio6aKC8PVApioZYo0lb08aT4V/sx6ypJeEVYaMLrjwx7cE3kk14ASlEYQmcFYpwOvYzeSJnSpg6kSeCG74rsXuC5PFizAa819N6JRxlWmr7EDGfvJo3MpttZCevv40q33TsYrzTHjDD9rwImjGY1XwVNOalPj9Edm+//DV+FilHrEBCDeGWmqwyIXnofr+qAGyTOkNZY/J3QGJfyQefD1rwuPrcGcBRti60RSb7Tp34TdxuQcr/8p+Y885t3R8BSseh4WIs5FbzKcoFdiIxgepPUj6T6V9xlnHKI=;A4gvwYPzYkcN2altxNbU2Q=="
+secured: "auAmQh2bSespw3nob87SmHq3AkPCj5CdKw838b5kMKOf+IYIBJnvJ8ZEtYCGB1r5yN9U9z9Ees05f+Uh55u4v5hDkU+A7x0SWjzAj+SQp62xWOmczVQ0iPWBcLI6DWWlCAE8lIaqr7cpf9ohHlDHiSPfDtxMiPEtX1QCUOyb7ziQM0PY+HZL9/ArintqYVZ0JyEg70zl/9YT3hRp+yBMqJ+5ge5aOeicIetwvqkxLH6U6LcTeGtqz3gvJLZ+N5rpczZ2gGsU2rCI4KRZ1dDaOh11ruQROVbeC05wSxDsh64MtvkbiW1hvRJt1ULwHzDGPYNWysXDB2nQw5ed9eq9Q1bUH0JZCDsi0D/V2+Ds70QWKyVM0lAlH0aKZuVbqT/4f177BOmAfBy97xLCCBL+IeeNHaxkoRjVzFWRfMvPS8qbNtuY/x50hFOMEdsKkoC1RRUb9cbvWea/0CwQbXISNm7ERkgoYfGyAIy/CBuYNft4ia/7xArd9xjaHAhBbA4yxvE2HnTuCfc3iTYwH8VGcQ==;FBv96rpqgihQXfjyAh6Ffw=="
 ---
 

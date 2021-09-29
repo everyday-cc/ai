@@ -1,28 +1,46 @@
 ---
 category: news
-title: "Short Term Course on Artificial Intelligence for Teachers commences with great zeal & enthusiasm at MIT Centre for Future Skills Excellence"
-excerpt: "MIT Centre for Future Skills Excellence (MIT FuSE) and MIT School of Education & Research - MIT Art, Design and Technology University, continues with its endeavour to train school teachers on Artificial Intelligence in Education with its exclusive Short Term Course on Artificial Intelligence for teachers."
-publishedDateTime: 2021-09-29T05:56:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-short-term-course-artificial-intelligence-teachers-commences-with-/2021/09/29/9458565.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-short-term-course-artificial-intelligence-teachers-commences-with-/2021/09/29/9458565.htm"
+title: "Short Term Course on Artificial Intelligence for teachers commences with great zeal & enthusiasm at MIT Centre for future skills excellence"
+excerpt: "MIT Centre for Future Skills Excellence (MIT FuSE) and MIT School of Education & Research - MIT Art, Design and Technology University, continues with its endeavour to train school teachers"
+publishedDateTime: 2021-09-29T07:00:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/short-term-course-on-artificial-intelligence-for-teachers-commences-with-great-zeal-enthusiasm-at-mit-centre-for-future-skills-excellence-121092900450_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/short-term-course-on-artificial-intelligence-for-teachers-commences-with-great-zeal-enthusiasm-at-mit-centre-for-future-skills-excellence-121092900450_1.html"
+ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/short-term-course-on-artificial-intelligence-for-teachers-commences-with-great-zeal-enthusiasm-at-mit-centre-for-future-skills-excellence-121092900450_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/short-term-course-on-artificial-intelligence-for-teachers-commences-with-great-zeal-enthusiasm-at-mit-centre-for-future-skills-excellence-121092900450_1.html"
 type: article
-quality: 3
-heat: 3
+quality: 23
+heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1638403/STC_Inaugural.jpg"
-    width: 400
-    height: 267
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/29/full/20210929115137.jpg"
+    width: 600
+    height: 450
     isCached: true
 
-secured: "aGsXIOYC/jYLPvp7QwTWfbWPyFilWH7dTNBM8QX7XIp9GfMim3xIWfwDm6rgJjwyn7vkgB/BEV//xIReHUvBIo66GUvfmG0wzPAhGBiGuMLw1TaudvmVJgszZn8LAmo7qdJkpRvK/BQ4oerC1Gw4DVtPrKyA8FS2gsMIqLTejaqr4m7GhUaUC/c1qcyHHQaFZr2PTLF3zsxaYLW8+odfQnwWTIO+n/A+Pao/FYEwcO69d1FDD2DasL+qlYBniYvdi1aYvMz5GtfX3plGHD+C0/C9V+9PqV9wxxFbdpPAog5CANRQP+9NkK+2ePpSXd/0ogZ1jwFTxDYTf1vtWAYQRScULpbPGgmgLJEHGCT3gBs=;6ocWvsTZpNw7g56T+dmHIg=="
+related:
+  - title: "Short Term Course on Artificial Intelligence for teachers"
+    excerpt: "The course on Artificial Intelligence was inaugurated today with insightsampblessings from the Top Global Artificial Intelligence Influencers and industry veteran"
+    publishedDateTime: 2021-09-29T07:06:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271348895/short-term-course-on-artificial-intelligence-for-teachers"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 37
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1632898759.jpg"
+        width: 630
+        height: 420
+        isCached: true
+
+secured: "sAOoVc/yBipyWWIboZkBMRY0og9NFNbj910LrrFpMQgm4sDY5SVNAjXcIjBdr+QyTqcs2yLs+6rkX1GXWLXLPotOMIMKwAb25TWaZt9UyhZmr8lvusT96lXiougrPo4sX8T6fCYRKk9H4813ncM+c3ge0EyNvpbotzCgIHhzbIT3xVQ4SSKTSZCuUPOsuWaWDCGw/JvC8S546SlP2r4GuwQ0BO0myzXuv4g/uGcmPDlTepfhHPXEF+UGgWzF7eEKm+3jxbptjQcx1XErpYAEjdxVDpNejkzqDln/MLWRaQDqxcGviQgaaOCxd14fhIp8dzkzA1Zjm0+f+jC2mS/oel8G4zcWE4AIPSYg8GLaPH4=;pEwsk0xAek8ljcCAjm1kYg=="
 ---
 

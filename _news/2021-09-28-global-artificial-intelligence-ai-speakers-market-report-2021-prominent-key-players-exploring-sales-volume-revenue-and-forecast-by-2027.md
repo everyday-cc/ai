@@ -45,6 +45,20 @@ related:
         width: 604
         height: 400
         isCached: true
+  - title: "Machine Vision Systems Market Report 2021 Offered by Practical Features, Leading Vendors, End Uses, Product Types and Revenue by 2026"
+    excerpt: "Sep 28, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Machine Vision Systems Market” Report"
+    publishedDateTime: 2021-09-28T11:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-vision-systems-market-report-2021-offered-by-practical-features-leading-vendors-end-uses-product-types-and-revenue-by-2026-2021-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence in IoT Market 2021 Size Share Upcoming Trends Segmentation, Opportunities and Forecast To 2026"
     excerpt: "The New Report Global Artificial Intelligence in IoT Market published by Reports Web covers the competitive landscape analysis and its growth prospects over the coming years The report also covers the major region such as North America Europe Asia Pacific"
     publishedDateTime: 2021-09-28T09:45:00Z
@@ -81,15 +95,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 9
-  - title: "Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Construction market report provides"
-    publishedDateTime: 2021-09-24T13:18:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4908381-global-artificial-intelligence-ai-in-construction-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 6
 
 secured: "2IGbTt9bzzmIFpGBvPDiseViII/0uFh1MsR68Yg072RS/ZOtynuAJj8OGVaebkXE1lUwPIT6woEyPN3vt/1VO3yrUBu7YdlozBAylajgP42cNY8Ys0I8zutQ2O1tQBsAWjAyGsF5f2FOfKWGAFpBOqM4Do4HeoLSameTPem6hxH4LpPMtRLOgENjL1aibgmdDGSeGMSuAbWo0XISuf6DjQn8l56+87m5wKJXOiGKQgCWCigOIGgjnPoOJoU0YETVjc40XdR1Trg8wouNYZ1cHO+WVWIxK+kV4SYqOLr9x0eMwEIvr/psuwFBnATLikH3I31QZnDGypBL5WlctbwjXT6rcT1PQsngKwIFihGm7G0=;mg5s5nvgC4EG25tauUXrmQ=="
 ---

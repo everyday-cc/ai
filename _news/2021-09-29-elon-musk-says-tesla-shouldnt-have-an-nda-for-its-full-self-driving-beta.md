@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nd
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/amp/"
 type: article
 quality: 88
-heat: 468
+heat: 448
 published: true
 
 provider:
@@ -110,20 +110,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106884111-1621276053397-musk.jpg?v=1621276074"
         width: 3000
         height: 2120
-        isCached: true
-  - title: "Tesla Starts Judging Owners It Charged $10,000 for Self-Driving"
-    excerpt: "Tesla Inc. customers to get access to driver-assistance technology the company has marketed in controversial ways -- as long as they’re on their best behavior. Chief Executive O"
-    publishedDateTime: 2021-09-24T13:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-09-24/tesla-starts-judging-owners-it-charged-10-000-for-self-driving"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iup7L8IXuFtE/v0/1200x883.jpg"
-        width: 1200
-        height: 883
         isCached: true
   - title: "Tesla drivers with a favorable safety score can now request its Full Self-Driving beta, despite criticism from regulators"
     excerpt: "Only Tesla users that have a \"safe\" driving record for an entire week will be granted access to the FSD beta software."
@@ -480,15 +466,6 @@ related:
         width: 960
         height: 480
         isCached: true
-  - title: "Tesla's plans to test new 'self-driving' tech raises concerns"
-    excerpt: "Release plans for #Tesla's \"Full Self Driving\" features has local transportation agency concerned over driver safety. #SiliconValley #SanFrancisco #selfdriving"
-    publishedDateTime: 2021-09-24T14:23:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/09/24/teslas-planned-test-of-new-self-driving.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
   - title: "Tesla's Public Rollout of Full Self-Driving Beta Has San Francisco Officials Worried"
     excerpt: "We guess you could say Elon Musk did his job properly because it's hard to imagine there is anyone at this point who doesn't know about Tesla's Full Self-Driving Beta (FSD Beta) Advanced Driver's Assistance System (ADAS)."
     publishedDateTime: 2021-09-24T15:05:00Z

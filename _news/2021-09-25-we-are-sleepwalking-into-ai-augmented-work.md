@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/25/we-are-sleepwalking-into-ai-augme
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/25/we-are-sleepwalking-into-ai-augmented-work/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Does Artificial Intelligence Compare to Augmented Intelligence?"
-    excerpt: "Both artificial intelligence and augmented intelligence share the same goal but have different approaches to achieve it."
-    publishedDateTime: 2021-09-24T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/how-does-artificial-intelligence-compare-to-augmented-intelligence"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1040557296.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "Watch out how AI and data science are making the current IPL more interesting."
     excerpt: "Cricket and technology work hand in hand. The IPL 2021 is also boosted by AI and data science. Check out how AI and data science are making the current IPL more interesting."
     publishedDateTime: 2021-09-26T08:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -89,6 +89,22 @@ related:
     quality: 30
     images:
       - url: "https://techbullion.com/wp-content/uploads/2021/09/Tim-Liu-VP-and-CTO-of-Hillstone-Network.png"
+        width: 700
+        height: 400
+        isCached: true
+  - title: "Hillstone Networks Provides Cybersecurity Solutions Using Artificial Intelligence: Interview With Co-founder and CTO Timothy Liu."
+    excerpt: "Hillstone Networks helps both small and big enterprises secure their web applications and defend their online infrastructures against cyberattacks with outstanding technology made possible with the help of artificial intelligence."
+    publishedDateTime: 2021-09-29T06:05:00Z
+    webUrl: "https://techbullion.com/hillstone-networks-provides-cybersecurity-solutions-using-artificial-intelligence-interview-with-co-founder-and-cto-timothy-liu/"
+    ampWebUrl: "https://techbullion.com/hillstone-networks-provides-cybersecurity-solutions-using-artificial-intelligence-interview-with-co-founder-and-cto-timothy-liu/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/hillstone-networks-provides-cybersecurity-solutions-using-artificial-intelligence-interview-with-co-founder-and-cto-timothy-liu/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 28
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/09/Tim-Liu-Co-founder-and-CTO-of-Hillstone-Network.png"
         width: 700
         height: 400
         isCached: true

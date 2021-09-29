@@ -56,20 +56,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "How Artificial Intelligence Completed Beethoven’s Unfinished Tenth Symphony"
-    excerpt: "He had started work on his Tenth Symphony but, due to deteriorating health, wasn’t able to make much headway: All he left behind were some musical sketches. Ever since then, Beethoven fans and musicologists have puzzled and lamented over what could have been."
-    publishedDateTime: 2021-09-24T14:53:00Z
-    webUrl: "https://www.smithsonianmag.com/innovation/how-artificial-intelligence-completed-beethovens-unfinished-10th-symphony-180978753/"
-    type: article
-    provider:
-      name: Smithsonian Magazine
-      domain: smithsonianmag.com
-    quality: 35
-    images:
-      - url: "https://th-thumbnailer.cdn-si-edu.com/kwU62fwzptwElM87WV3ScZbZDX4=/fit-in/1600x0/filters:focal(960x722:961x723)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7b/24/7b24f58b-2428-4ef4-8daa-218d89b7c090/violinist-playing-with-beethoven.jpeg"
-        width: 1600
-        height: 1200
-        isCached: true
 
 secured: "j8HxNc9TAqdbLCT/nE9YxJoSXnwaUqAAXFQh/MwYJhjhJu5EvZtE+5U/VB/pAYK+JcEov+7Xlg/ryx/B7P/g8Bz/8sdoYYBm3sg1F1STpUgwRpXDspxIn1qqwdrA/18Xrb9bbAWQpR3Ip/ogWUFpn7G2YDhu9ZYalVkKw1QOCXyq1tTQPwG2DRgPe1cWg+oZo+qQsUgKPWygenzXXH95ZCvfsM1eEybwTA9WVY1alFbaSffFmLTRulywdVv6ObD7ZMslgxeOhoxBqBxYwsV/Oy0OoyQrsJ2Rs367MZbz2EkL9fRHi7dTUeUmzc0LEoHGx1ekGKoUn2FB8AcKORhxeowpVqN1yC6+ayh++n29j0kwD/8Guk5OK1ZAukmtZwP+kZnQENXeUf4ZmUD2WEBNubQxrxdiqmeFDtJpuUjcIrk4OdMWb3XpYMMW4liM6fVm5nSZQLBinO2vhc8Vo1Q9uaswTwDGQsHFGdTTqoU55JhLLZm5IO/bLoRmjxHZFAz08o+m/CVRQLXxQzkz0Od5lg==;b+Tw51DwNr3ZQxFEwBMwmQ=="
 ---

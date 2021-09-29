@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/17645/thailands-first-virtual-influenc
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/17645/thailands-first-virtual-influencer-is-a-21-year-old-woman-powered-by-ai?amp=1"
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 640
     height: 640
     isCached: true
-
-related:
-  - title: "Top 10 AI Thought Leaders and Influencers to Follow in 2021"
-    excerpt: "AI thought leaders and AI influencers guide us towards the latest AI developments. Top AI thought leaders have great experience in disruptive technologies. Here is a list of some AI thought leaders and influencers to follow in 2021."
-    publishedDateTime: 2021-09-24T13:42:00Z
-    webUrl: "https://www.analyticsinsight.net/top-10-ai-thought-leaders-and-influencers-to-follow-in-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Top-10-AI-Thought-Leaders-and-Influencers-to-Follow-in-2021.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "qHI1NI+/kUq2eOLyxnXy6Q96+9YPD0aolz7ImVKngBZlk9CWNNjHloRPHfe01OJx+sLwsnJQ/S1hFdx/vuhXeoSJt1BRpBxyMtf9gL8KgAqJpN3Bo3w5eGQ1ErUo0ibC2wyY6zkiQwbjc0f3vhxD7cdTIjSujr3uu7Y0OWSwpaJpcnOUardn1qUV2fXn0CFrLE/AK4f9wqyd8EKuqM3gffZ6Bvl2ryzbR9KUU9KBx06inJcMzpxlV76I6UdT1r989eRkdzqAtt7I0IG+Ov24t7wMGUGU26S6M+SDyOHZ+mN5hYcVVlxITDMy4qfRTCFyDPC89/R5NKGpI+c0KLhl9FeSse3pegu+5JxhqGbaEhA=;ShWDmSKlgqly95WC1YwE+g=="
 ---

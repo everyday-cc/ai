@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 691
         isCached: true
-  - title: "How Does Artificial Intelligence Compare to Augmented Intelligence?"
-    excerpt: "Both artificial intelligence and augmented intelligence share the same goal but have different approaches to achieve it."
-    publishedDateTime: 2021-09-24T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/how-does-artificial-intelligence-compare-to-augmented-intelligence"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1040557296.jpg"
-        width: 690
-        height: 400
-        isCached: true
 
 secured: "vFCA9ZW/YXjVMFJhvbIO1utDxaRf3wID/P3shtNhbVA/FABXHnvUovZMNOiSWOCL/EdCsf+bkUayLXFQrohuq0iOdUw0yrUczSXilCSrH8DZigPIxIJnRMiNq1utSR92YQqEmnAkrEXAfYqy2sd+S6AKxdaotd69x2QDso6PrSI13VHxLN0+KM5/afvVV//vmlD6fL42WuFNnWw7DCoe8mcmHIb1YSU/FJhb1Sm2m9zIcMcYV/tufU6C5T495f+SnUdvn3lbCSvaxL61zHcUW8Fu7Z5L1jsUx0XAZVTmYx5pKHe7/lDML00Dy5PBgwRyllmiLcH5tX+KWemL73pxwTXbJz25S3ayNZIudhwkxhC2QDpG+NpkESx2lwdNw3aoKrsIIAiE1oA1eRB9qxKT4sKeH9etaV9CVH+I7U4K9FDCuAoIaJEi/fyanpe+UAfE5lZvHfNtsFSbXmQmMdlcIhP3dAb5+N487WGQh22WQfQxfgFMN8v/0fKZDv/p8mlVpI3riaJKNyEz2k8hq2xkwg==;bQwFsR4arwRB1BCciYlb/w=="
 ---

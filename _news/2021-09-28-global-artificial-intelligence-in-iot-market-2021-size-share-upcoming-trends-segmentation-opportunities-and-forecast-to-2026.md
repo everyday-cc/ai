@@ -51,6 +51,20 @@ related:
         width: 604
         height: 400
         isCached: true
+  - title: "Machine Vision Systems Market Report 2021 Offered by Practical Features, Leading Vendors, End Uses, Product Types and Revenue by 2026"
+    excerpt: "Sep 28, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Machine Vision Systems Market” Report"
+    publishedDateTime: 2021-09-28T11:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-vision-systems-market-report-2021-offered-by-practical-features-leading-vendors-end-uses-product-types-and-revenue-by-2026-2021-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Underwater Computer Vision Market 2021 Key Players, Product Type, Geographical Regions and End-User Applicants by 2027"
     excerpt: "The research released by MarketsandResearchbiz named Global Underwater Computer Vision Market 2021 by Company Regi"
     publishedDateTime: 2021-09-27T19:11:00Z
@@ -76,15 +90,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 9
-  - title: "Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Construction market report provides"
-    publishedDateTime: 2021-09-24T13:18:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4908381-global-artificial-intelligence-ai-in-construction-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 6
 
 secured: "QQQvLMRChV5RdV9sKOu1qRh/ud2Nptw1+JLOnHRTy+/k64hcEi5zEwyrdVFDTS1sk7+b4FcUAE51YjW/H2Fk3+4Q42P70zfhIqQfu+WixdkdDufyqqw5TrApkCWiY7a6GqDBCjXd7y/TkgYhlQYspQm0H2hTpj2lEgZNYpp61AzswVHpwJVrf+wT+O4QRnS6mrXwLSbDBBowe6tz1wzo2Y7Jgmp36Qdm5a+dG5JVszy+PcSRqf0JvCPcFTIjct3KArytjcaz+JEwZlkzVEP5DwNZfwXEgXZmjt9KiqQvGLl+2ROjt3hc4aHRafiyl2mkrul4OGsOSekphZRgUIONQMRNXrGnpHLp+psckXuRoJs=;2YwKjTPbGzmY/5i5N8eWbA=="
 ---

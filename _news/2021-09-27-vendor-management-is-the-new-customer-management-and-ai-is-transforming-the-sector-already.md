@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/09/26/vendor-management
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/26/vendor-management-is-the-new-customer-management-and-ai-is-transforming-the-sector-already/amp/"
 type: article
 quality: 77
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -44,17 +44,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "How AI Is Transforming The Software Development Process"
-    excerpt: "There are several ways artificial intelligence (AI) is transforming the software development process. According to recent reports, the worldwide artificial intelligence market is projected to reach over $340 billion this year."
-    publishedDateTime: 2021-09-24T14:41:00Z
-    webUrl: "https://www.techzone360.com/topics/techzone/articles/2021/09/24/450084-how-ai-transforming-software-development-process.htm"
-    ampWebUrl: "http://www.techzone360.com/topics/techzone/articles/2021/09/24/450084-how-ai-transforming-software-development-process.htm/amp"
-    cdnAmpWebUrl: "https://www-techzone360-com.cdn.ampproject.org/c/www.techzone360.com/topics/techzone/articles/2021/09/24/450084-how-ai-transforming-software-development-process.htm/amp"
-    type: article
-    provider:
-      name: Tech Zone 360
-      domain: techzone360.com
-    quality: 37
   - title: "9. AI Is the Friend You Didn’t Know You Already Made"
     excerpt: "Artificial intelligence (AI) is more than just a buzzword. AI is powering many of the systems and apps we use every day. But what do lawyers think of it? The attitudes fall into two groups. One group really understands what AI is and believes it has a key ..."
     publishedDateTime: 2021-09-24T17:09:00Z

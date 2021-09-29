@@ -24,6 +24,17 @@ images:
     height: 320
     isCached: true
 
+related:
+  - title: "California Says Self-Driving Vehicles Must be Zero Emission"
+    excerpt: "California Gov. Gavin Newsom has signed legislation that mandates all light-duty autonomous vehicles in the state to produce zero emissions, reports Tech Crunch. The law would take effect in 2030. Click here to read more."
+    publishedDateTime: 2021-09-28T20:28:00Z
+    webUrl: "https://www.glassbytes.com/2021/09/california-says-self-driving-vehicles-must-be-zero-emission/"
+    type: article
+    provider:
+      name: South Carolina Governor
+      domain: glassbytes.com
+    quality: 4
+
 secured: "4t/qvvD4jCYHnGjKqtKKoTh+CHxt/1/YyPqJjsNnA9r/AQN/F81SQRQ+3ci0VuSNG3ay0FWllyl/mWAU4lh8mhRtpzLQb4VOj+ZF+3VUkmIOXCuVcjt6ZfZsYPpqUZwqt9MKkSlWriV2ccgj0qTQUVnG51oEtkuOGmgBj91BBYnZ3BYQ9r4sTNHyZOg3gll8Iz1s7cRtPMyT6CaSHJHlcRRumw+fVWjXdAbJYW9aNJh15uroqR/NRVmeNXKUIApKGXMaXi+t+2pWjgGfcjMRUTJ4aI2nMJqaIhKl/ArCOtl1md1cXnVBh49KxgkAbMvxD/lwH6cNViQFFCI914OvaJ3sWNgmuvd63GxPgUk0v7w=;hiHw/fDycnzXHuteoGJ2bA=="
 ---
 

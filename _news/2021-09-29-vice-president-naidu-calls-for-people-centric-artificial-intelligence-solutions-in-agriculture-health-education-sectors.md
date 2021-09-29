@@ -26,18 +26,20 @@ images:
 
 related:
   - title: "Vice President calls for AI solutions in agriculture, health, education"
-    excerpt: "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial"
-    publishedDateTime: 2021-09-28T20:04:00Z
-    webUrl: "https://menafn.com/1102881265/Vice-President-calls-for-AI-solutions-in-agriculture-health-education"
+    excerpt: "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to delive.."
+    publishedDateTime: 2021-09-29T06:07:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 56
+      name: India Times
+      domain: indiatimes.com
+    quality: 76
     images:
-      - url: "https://menafn.com/updates/pr/2021-09/28/I_c99edimage_story.jpg"
-        width: 400
-        height: 267
+      - url: "https://etimg.etb2bimg.com/thumb/msid-86606103,imgsize-21820,width-800,height-434,overlay-etcio/vice-president-calls-for-ai-solutions-in-agriculture-health-education.jpg"
+        width: 800
+        height: 434
         isCached: true
   - title: "6 steps for seamlessly integrating an artificial intelligence solution into daily clinical practice"
     excerpt: "Imaging stakeholders have written plenty about the promise of artificial intelligence but not much on how to integrate AI solutions into daily clinical practice. Experts with University Hospitals are attempting to fill the void,"

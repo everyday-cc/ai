@@ -53,6 +53,20 @@ related:
         width: 800
         height: 480
         isCached: true
+  - title: "Tech leaders plan large AI investment, but adoption woes remain"
+    excerpt: "Four in 10 technology decision-makers say emerging AI applications are still under development, a Gartner survey found."
+    publishedDateTime: 2021-09-29T07:47:00Z
+    webUrl: "https://www.ciodive.com/news/AI-budgets-2022-gartner/607320/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 37
+    images:
+      - url: "https://www.ciodive.com/user_media/cache/9a/ea/9aea78894e609e11cd5d472cbea4d079.jpg"
+        width: 770
+        height: 364
+        isCached: true
 
 secured: "4tlmu49SiZfcJPJOLNExPYDW1XXdrVOIQoJVXIYeWEBUVeofFikhyItHJQDdXcrPUUJyVRLhIVse9v4Ysb/tKF6jEzwc7S4oKawuo0ug5wbgz6y05NdfrhWaChcXszsRb1D7T+ACLPjGdqu8bUDmp1mtbu/VohW4xIl5yKOwPScWarj+LKkq4Gpe0COF28kBXcYHQJlN4pnSvMGMdE3wAlahABh/mF06sIHNJUqLMZ9BRmJg8MX9vsWnOLqaf/JexQA51/dbsvfOLcxmyJUCP+q2YT9V2rYljx9l3PaJiYkY8qIo5+Sx8h48O0VHfJzQtd8z0EfEkwkHhvNYbK+pINjnmRIbWVYRQFfNWiPPGeI=;bogCMO8ogs9yD5UzGNoZuQ=="
 ---

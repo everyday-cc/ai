@@ -53,6 +53,22 @@ related:
         width: 417
         height: 250
         isCached: true
+  - title: "High Demand for Electronic Skin in the Healthcare Sector To Treat Diabetes and Cardiology Diseases is Driving Market Growth"
+    excerpt: "The global electronic skin market is expected to reach a market size of USD 20.02 Billion in 2027 and register a robust CAGR over the forecast period, according to the latest report by Reports and Data."
+    publishedDateTime: 2021-09-29T07:42:00Z
+    webUrl: "https://techbullion.com/high-demand-for-electronic-skin-in-the-healthcare-sector-to-treat-diabetes-and-cardiology-diseases-is-driving-market-growth/"
+    ampWebUrl: "https://techbullion.com/high-demand-for-electronic-skin-in-the-healthcare-sector-to-treat-diabetes-and-cardiology-diseases-is-driving-market-growth/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/high-demand-for-electronic-skin-in-the-healthcare-sector-to-treat-diabetes-and-cardiology-diseases-is-driving-market-growth/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 35
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/09/technology.jpg"
+        width: 870
+        height: 580
+        isCached: true
 
 secured: "PyeqpXA1YAgolkTdgztWSpUMCjcIHXoNPZEf4CWtneUGWS5P/5qm1XpGYKpHUs8PmK2PyVV0sKPXOR5I2VxoA5bfJ9MqqWLzs5AUHOnwMU02/S3uQ7q2mXbfD6Gtte3/w2RNOIjt/hjlfZhMm57bt+s0zaQzhw/qLfP6znLvZZgKRokU6S0rQ/2bncZcwPnLYLg6QPHH2fdFr7EHj+vcRIvnnOVsoAXgu8pOBYSrOSm/qWaMFHHT/iYE1dGX3RccNSXZMh8UGPgaTRkj3Fpe//3BFwkKx5BSaCbXVRBbwxZb+bNRRbGZ9lmHyikGndQIwY5CvNbwr3JE1G/88OY4nthcz1e+4Jx5rW5wCW++C0U=;5f/XrsWhxRRvD1Z3jbK8JA=="
 ---

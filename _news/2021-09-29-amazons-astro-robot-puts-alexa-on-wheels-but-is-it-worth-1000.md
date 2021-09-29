@@ -139,6 +139,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon unveils smart thermostat, 15-inch Echo Show, Astro home robot in new wave of devices"
+    excerpt: "Amazon started its annual Echo and Alexa devices and services event on Tuesday morning with the announcement of a $59.99 smart thermostat. The device undercuts existing smart thermostats on price."
+    publishedDateTime: 2021-09-28T09:15:00Z
+    webUrl: "https://www.geekwire.com/2021/amazon-announces-60-alexa-enabled-smart-thermostat-partnership-honeywell/"
+    ampWebUrl: "https://www.geekwire.com/2021/amazon-announces-60-alexa-enabled-smart-thermostat-partnership-honeywell/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/amazon-announces-60-alexa-enabled-smart-thermostat-partnership-honeywell/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 79
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/09/thermostat-630x347.png"
+        width: 630
+        height: 347
+        isCached: true
   - title: "Amazon Echo Show, Astro event live blog: Follow our coverage now"
     excerpt: "The e-commerce giant is holding an invite-only press event now. Find out what's coming to your cart. And Astro, the robot Alexa."
     publishedDateTime: 2021-09-28T23:58:00Z
@@ -170,6 +186,20 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/r/2021/09/28/429ab9c8-f7a9-4134-89cd-319199be058b/resize/1200xauto/5c766dcf1e48192ab21955afb5a34de7/halo-view-hero.png"
         width: 1200
         height: 853
+        isCached: true
+  - title: "Amazon brings its ‘Astro’ home robot to the market"
+    excerpt: "Amazon finally unveiled its first home robot this week, and the company named it Astro. The unit is part of the Day 1 Edition, which means it will be initially sold to a limited number of people. As per CNBC,"
+    publishedDateTime: 2021-09-29T05:55:00Z
+    webUrl: "https://www.econotimes.com/Amazon-brings-its-Astro-home-robot-to-the-market-1618187"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 39
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/202109297151754ed6588c99e_th_1024x0.jpg"
+        width: 640
+        height: 420
         isCached: true
 
 secured: "gA/2PNUb9KdI/dRyuXWXXjMaw7zUpuBytKp1E6M7dDA0OFeqKHNnaOwP54b8EvoOoqSq7FdiDvgIEdwy7sZ/0BZSlxe4bGxxazyU3Sx7PBB52vNKT7O2/tNc9kbYDBGnIv7W8D0FliatdvGSqrEOIwB80UjxHu3ibM0cBwUSx7P8rQOeU2nAvfarLcgUkA7w06FreR1COrSOjEcTKRooB7yGNsi3WTby+c4KYa3s6sVFwwV7bCfj/HmKr4nofns+W0h3y0XLXkDFaFBIt3jnczCg85+CZbL23ovgFI4ttnh+hnwcy5UAkzotOXZX/NnWT9eFXAB4bg3QDp7wh+i5Vlvd/99vB2ZfqdaaGPD0ZoY=;PnYccXxLRLwuPZscW3jbDw=="

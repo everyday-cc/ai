@@ -67,20 +67,6 @@ related:
         width: 720
         height: 451
         isCached: true
-  - title: "Keystroke tracking, screenshots, and facial recognition: The boss may be watching long after the pandemic ends"
-    excerpt: "Companies are increasingly turning to surveillance software tools as they consider permanent remote work policies."
-    publishedDateTime: 2021-09-24T14:29:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/09/24/remote-work-from-home-surveillance/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 19
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-23-2021/t_1f37886c6abf44fcb037e167c31f2efc_name_abril_worksurveil.png&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
 
 secured: "vffuwQDyVvMfC9TLWislWuG5aotwSdbOyCvpUB9EKjSXREVB2PAaLcRf3ZQerLHz/Asdjka8vpm88AqfNXKnRwLHGAf/bxi7abhv+V0WL0skJeMLgoyYuZjbC5+3dsmCqFA4WyLOBFHJfh4eQSbr0e3EYirB0HvTCk6hnuM4QUUszAetPWiLihFd+DOeKy5E3RQ9jQh4lpYaIBwLzEMywWZgwrsG/93cS7H5sMREQPVD3de+7UPUMQlLTBfNpCQBrMP/a6KNxZOGj+kLT9pWC0zZSVerkkFpG8wLxWOD99GdVvHdxMWNV2DLNTj08hoJijAgjLpEf+97AfSikZon97F6OehT2ZOEN1n4zI9x9KbTLc3JdBNU7ifhQ289hOzyNlsAjK1lvOLPq0Fuw3q9NklNI61zh8L7tIeUAEIKwXaBMncJHoMCtLBxFaKt0M8txJqR01Ga075y7AyTWwNPSCLkR2E/UYDkeG2JPGZQzCp4A+sDLhSbLxa5rnGSV1OYiMXYwvwVeF2YCE9XFmslsQ==;nLV0NQnHZb4ZATkp4okaWA=="
 ---

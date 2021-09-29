@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Vice President calls for AI solutions in agriculture, health, education"
-excerpt: "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial"
-publishedDateTime: 2021-09-28T20:04:00Z
-originalUrl: "https://menafn.com/1102881265/Vice-President-calls-for-AI-solutions-in-agriculture-health-education"
-webUrl: "https://menafn.com/1102881265/Vice-President-calls-for-AI-solutions-in-agriculture-health-education"
+excerpt: "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to delive.."
+publishedDateTime: 2021-09-29T06:07:00Z
+originalUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
+webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
+ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
+cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
 type: article
-quality: 56
-heat: 96
+quality: 76
+heat: 116
 published: true
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - Natural Language Processing
@@ -20,9 +22,9 @@ topics:
   - AI in Education
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-09/28/I_c99edimage_story.jpg"
-    width: 400
-    height: 267
+  - url: "https://etimg.etb2bimg.com/thumb/msid-86606103,imgsize-21820,width-800,height-434,overlay-etcio/vice-president-calls-for-ai-solutions-in-agriculture-health-education.jpg"
+    width: 800
+    height: 434
     isCached: true
 
 related:
@@ -83,6 +85,6 @@ related:
         height: 563
         isCached: true
 
-secured: "DdOFqwuTmrA7ofDEtLYZajLOuPQbFlrk0V0WFwJ4BSGYXitCSFV8cFr4fkh/Hbc3oo6f9Zb5TRRZ7wwA5AF1pqx/uYpuGFb28WMPwfelw5PVnkp3tEYJdT29tXm8YcaXM7x63cou8Ni/j+tOz1051oPPlAzupMMo4YCXdDvCajyjUfHcjsvRnsvEt3ucCS4h4gfduAJSJeE/YoUYbo18/qdMprqhmXzNAVB3aSKNs3RtccAyUgBR4mpgC937swmG90iaMi6OorhaWISygTXP5xnra7g9XyPDz+0Xv+6sEG33oSd9LnQTrX2AVCr0BmNCK9WIukjLQhI6SfS7ZXkS/K3LzAHgwMI+dL6sT0q3+2s=;NloRkRBgkELh7sKMoCvc0Q=="
+secured: "n642u5LzyH5w8YFGSFmoRHBmBu/X0fKT5j49DdJOjz9cz5bZx6TXBVPdDsitFZRwxVmCoG66s1Q/jHOcuKY45ODJ3XRhogwpLJrRm78GTFylHZEzumgo6hDf/4LV48xhL8Lhemrl4p3zKjC0ywkal8s1I4T8wUYlYDsQ57Mut+JTrGvkQVHdvFzqG5EL8Y0Kt/skaI/sLgBWokVCiYqZj4m61UxPgHGoZBvNiABLBTyeZfvZxNCwVE9bSZjReXdh1SbOJfPlRZTXOxMh2v+2YVKnUtaNHUdlY7DFZLsCK0G0c/NWhGmV4IzjuLuXce6EplKBYbG8VZfrt/Fmm0Iij3+cnjBbDVQ9Pru5AuJ/BFY=;jePA5rCQjuc8u5t9eXMtpw=="
 ---
 

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "AWS and Komprise Bring Intelligent Data Management to Public Sector Customers"
-excerpt: "Komprise , a leader in analytics-driven data management as a service, today announces a special offer with Amazon Web Services (AWS) to attendees of the AWS D.C. Summit , taking place September 28 and 29,"
-publishedDateTime: 2021-09-28T10:42:00Z
-originalUrl: "https://menafn.com/1102876314/AWS-and-Komprise-Bring-Intelligent-Data-Management-to-Public-Sector-Customers"
-webUrl: "https://menafn.com/1102876314/AWS-and-Komprise-Bring-Intelligent-Data-Management-to-Public-Sector-Customers"
+excerpt: "Komprise, a leader in analytics-driven data management as a service, today announces a special offer with Amazon Web Services (AWS) to attendees of the AWS D.C. Summit, taking place September 28 and 29,"
+publishedDateTime: 2021-09-28T09:02:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-data-management-web-services-02a53570c58f7eca7b0f0027d12170a4"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-data-management-web-services-02a53570c58f7eca7b0f0027d12170a4"
 type: article
 quality: 36
 heat: 36
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?959340"
-    width: 375
-    height: 250
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "5GeztAC9HmHt1epJ9ZukLxhrseljyYLvtSTBMZfVlHkzjBiB6ebqPXeM8AQMiKZa2ATWWIHFd8j9AGnL3DZM2Qpzvx61xZeytQCvqqD7znAFzarmAgJVTa/V8S7Yvu4f1tAg5zTVSZHbPjW1JkslNKVpS99tFmPwvseOXIvZ44Dr8RsvA/Gckj5lQUVj8yqhYNkinjhyzVJkVpv7cdFcvOpDtm+CnnWntc/nNLsHpsAMoJAaRxVIsERIm4XNliPZpkSJX7+WYAZ18Q01BNEkR24Lvem4iEAdZbDHpg1VSfLBFHW8HSERKsoiHKx+dRy/ADeqO5+tCJjeKgI3HpQYy9MUWgTvV4hk2gEW8U/FYrQ=;CPopTC1oG7F7DWlqJlUh7A=="
+secured: "WwVppjJOCth9brBQPXRmQSp4sPqV817Te8MHlr1ZHiwpoVssa2DAAgSchdMiht7ExNKS4c2PMndEyJkK358FC0fuQLCJOBH3gAAv2MnaeZdwlvA9YEIvxIqVaTplAdYmhDgCKpYbokWBFYbdkaz2ttH1W2cfvL1tY827Ob3nZRzsaJ924a/4h7WPcYk5gDgWkTXnNkc1Renp3rhY5CFv4IseH4t5d+3OybJrMEfdQ3kKasP9cP4lEb03bVLGF0R2ntfVuWmE/Odq0v+5+5+orTeAuiQVIzBNow8Go2xTeAJv7AICzEQixJVUhsPTr8sHy0tTTvISY4mRaXpl2lddrs9x5nw/Zk0dYwbuWAUWjGg=;aGq1eykYsEX3TApeiIMlag=="
 ---
 

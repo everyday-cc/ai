@@ -41,6 +41,17 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "AWS launches new programme to advance health equity"
+    excerpt: "The $40m global health equity programme will fund projects that improve health outcomes for underserved communities"
+    publishedDateTime: 2021-09-29T02:37:00Z
+    webUrl: "https://www.computerweekly.com/news/252507296/AWS-launches-new-programme-to-advance-health-equity"
+    ampWebUrl: "https://www.computerweekly.com/news/252507296/AWS-launches-new-programme-to-advance-health-equity?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252507296/AWS-launches-new-programme-to-advance-health-equity?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
 
 secured: "TLGQay1zQxruwKuG2bjkawkgP29VewtyG6MdGNGdinoeziv0OCIIWIA/eO0s6rTt/MMBcaMHxFYIeo52qaUAHmyiAx/OA6KGOeAlCzrU6dcIy4tfjY73egVlaoSgX7L08fsbPhMBcVncoG2T8m5PmLR5x9WRXH2y80Yy4PXcInaHg/kCqb5/6BJLXc1wPBtwQBd0YYcPAPgOj7V2mTNZda/uRP992D2o9gvwvQfHmrHUPDXmgowlF8hqJKlyWO5u9YZvxAJd/8vArtrHbqUwEHI5sKaujATwwaWVCLsVHD8Oqru8Hh14MDifTwZ65ckpLmM+OPUWsB3rYScnU2J1aKce5pZmQZpqCafSCBPqHNk=;SAWYxXMCNYs819GzhGIZww=="
 ---
