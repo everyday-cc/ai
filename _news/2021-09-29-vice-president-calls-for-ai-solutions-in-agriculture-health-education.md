@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1102881265/Vice-President-calls-for-AI-solution
 webUrl: "https://menafn.com/1102881265/Vice-President-calls-for-AI-solutions-in-agriculture-health-education"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2020-11/web-4861605_1920_copy.jpg?h=e5aec6c8&itok=dFJso2e9"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Vice President Naidu calls for people-centric AI solutions"
+    excerpt: "Vice President Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence AI to deliver benefits to"
+    publishedDateTime: 2021-09-29T01:27:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271345250/vice-president-naidu-calls-for-people-centric-ai-solutions"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1632878409.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Just how smart are trucking artificial intelligence solutions?"
     excerpt: "The headline question is where my conversation with Nauto’s Chief Product Officer Yoav Banin ends up. As an artificial intelligence (A.I.) and computer vision provider, Nauto uses its algorithms to identify things like potential pedestrian collision,"

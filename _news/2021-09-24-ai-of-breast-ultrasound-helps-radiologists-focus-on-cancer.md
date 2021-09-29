@@ -7,7 +7,7 @@ originalUrl: "https://www.auntminnie.com/index.aspx?sec=sup&sub=ult&pag=dis&Item
 webUrl: "https://www.auntminnie.com/index.aspx?sec=sup&sub=ult&pag=dis&ItemID=133582"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence tool improves accuracy of breast cancer imaging"
-    excerpt: "A computer program trained to see patterns among thousands of breast ultrasound images can aid physicians in accurately diagnosing breast cancer, a new study shows."
-    publishedDateTime: 2021-09-24T09:00:00Z
-    webUrl: "https://medicalxpress.com/news/2021-09-artificial-intelligence-tool-accuracy-breast.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-09-artificial-intelligence-tool-accuracy-breast.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-artificial-intelligence-tool-accuracy-breast.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/breast.jpg"
-        width: 1920
-        height: 1296
-        isCached: true
-  - title: "Artificial Intelligence Tool Improves Accuracy of Breast Cancer Ultrasound Imaging"
-    excerpt: "A computer program trained to see patterns among thousands of breast ultrasound images can aid physicians in accurately diagnosing breast cancer, a new study shows. When tested separately on 44,755 already completed ultrasound exams,"
-    publishedDateTime: 2021-09-24T09:00:00Z
-    webUrl: "https://scitechdaily.com/artificial-intelligence-tool-improves-accuracy-of-breast-cancer-ultrasound-imaging/"
-    ampWebUrl: "https://scitechdaily.com/artificial-intelligence-tool-improves-accuracy-of-breast-cancer-ultrasound-imaging/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-tool-improves-accuracy-of-breast-cancer-ultrasound-imaging/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 51
-    images:
-      - url: "https://scitechdaily.com/images/Breast-Cancer-Ultrasound-777x518.jpg"
-        width: 777
-        height: 518
-        isCached: true
   - title: "Artificial Intelligence System Improves Breast Cancer Detection"
     excerpt: "Researchers develop artificial intelligence (AI) system that achieves radiologist-level accuracy in identifying breast cancer in ultrasound images."
     publishedDateTime: 2021-09-27T12:00:00Z
@@ -70,20 +38,6 @@ related:
       - url: "https://www.genengnews.com/wp-content/uploads/2018/08/June4_2014_21425225_BreastCancerBlackWhiteIllustration_ProteinBreastCancerSpread2311152102.jpg"
         width: 500
         height: 305
-        isCached: true
-  - title: "Improving Breast Cancer Imaging with Artificial Intelligence"
-    excerpt: "A study led by New York University (NYU) researchers created an artificial intelligence tool to improve the accuracy of breast cancer imaging. The computer program was trained to identify patterns among thousands of breast ultrasound images to aid physicians in diagnosing."
-    publishedDateTime: 2021-09-28T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/improving-breast-cancer-imaging-with-artificial-intelligence"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 37
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-845751048.jpg"
-        width: 690
-        height: 400
         isCached: true
   - title: "AI tool increases radiologists’ accuracy at spotting breast cancer on ultrasound scans by 37%"
     excerpt: "An artificial intelligence tool is helping increase radiologists’ ability to correctly spot breast cancer on ultrasound by 37% while also dropping the number of biopsies and false positives. Researchers hope AI can alleviate these concerns while broadening access."

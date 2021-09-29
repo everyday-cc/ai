@@ -38,6 +38,20 @@ related:
         width: 376
         height: 250
         isCached: true
+  - title: "Construction Robots Market Estimated to Reach $156.4 Million by 2026"
+    excerpt: "The Global  Construction Robots Market  is estimated to reach $156.4 million by 2026, growing at a CAGR of 14.6% from 2"
+    publishedDateTime: 2021-09-29T00:41:00Z
+    webUrl: "https://menafn.com/1102882255/Construction-Robots-Market-Estimated-to-Reach-1564-Million-by-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?959340"
+        width: 375
+        height: 250
+        isCached: true
   - title: "The Worldwide Microprocessor and GPU Industry is Expected to Reach $89.3 Billion by 2027 - ResearchAndMarkets.com"
     excerpt: "The \"Microprocessor and GPU - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Amid the COVID-19 crisis, the global market for Microprocessor and GPU estimated at US$77."
     publishedDateTime: 2021-09-27T11:27:00Z

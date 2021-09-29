@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Here’s everything Amazon announced at its big product event — including a $999 robot"
-excerpt: "Amazon is continuing its quest to cover our homes and bodies with Amazon devices. At a livestreamed media event on Tuesday, the company showed off a handful of new Amazon-branded products, including an Echo device that hangs on the wall and acts as a digital whiteboard for the home,"
-publishedDateTime: 2021-09-28T23:33:00Z
-originalUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/09/28/heres-everything-amazon-announced-at-its-big-product-event-including-a-999-robot-2/"
-webUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/09/28/heres-everything-amazon-announced-at-its-big-product-event-including-a-999-robot-2/"
+title: "Here's everything Amazon announced at its big product event — including a $999 robot"
+excerpt: "Amazon is continuing its quest to cover our homes and bodies with Amazon devices.At a livestreamed media event on Tuesday, the company showed off a handful of new Amazon-branded products, including an Echo device that hangs on the wall and acts as a digital whiteboard for the home,"
+publishedDateTime: 2021-09-29T00:49:00Z
+originalUrl: "https://www.wesh.com/article/amazon-product-event-2021/37780898"
+webUrl: "https://www.wesh.com/article/amazon-product-event-2021/37780898"
+ampWebUrl: "https://www.wesh.com/amp/article/amazon-product-event-2021/37780898"
+cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/amazon-product-event-2021/37780898"
 type: article
-quality: 32
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Local News 8
-  domain: localnews8.com
+  name: WESH
+  domain: wesh.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://localnews8.b-cdn.net/2021/09/hypatia-h_acd09518957fad87a718125dd1afe0aa-h_30d067c7f8b9da956cc608aa0b4cc846-300-scaled.jpg"
-    width: 2560
-    height: 1631
+  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/astro-1632878350.jpg?crop=0.979xw:0.980xh;0,0&resize=1200:*"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -42,6 +44,6 @@ related:
         height: 576
         isCached: true
 
-secured: "gdt2XYohauIOar5vmztj0h1RHhNK312VXj//s70MnvARqU1o1taC17dNrMm89wamdcPmsYo+uvJmd22sDUuYrpBr98ghiCxidcsQjQcyRmkmn2RCyCHSzQLkeczQUnFIPvgUxyyNpg2xC+f3jYFScoeK+Gc77AN87ZbKJYAZIT5QC7fMeg32For1RepUuEguSQB4lUt+9ZSGfmo//ova9xKkKl5y+ZArspqjXjP5lKr/py4a+G6ZcD/r2RauQYnViN+Vx6jBJX6neYw4zOvHu6g2Yg5CPO9gqCUGBQHozz0V6iIaOcPJ2iPriwNoiyCYH+OW9qwNhCwJ+LxjSQaf8NIQhdqkol5Aw4WKeixaPw8=;RctXmYHJiv0Kki5FR0j39g=="
+secured: "WtMN1LboewVz6HPalW2p5Cl+rnen/DT5BqMrkNwMUj0XwIZqgsU92CoNOvT5hCYWJPIb9T90Bjdmq99dkUrBIgyi9QcnfGVdg0DOMV15e8swIB7YvwwYv3o/lk/7PSWTOabApKwRbewjIjFhFHgjjA0Lz28xnRPNj5PWhOONEB/5tCDBMzoxBsmJt23WbKaqGMaV5Rk6+mdmKBd6T4y6ymvrW7opFlLtfvmbYWSRmPZDnF3D4n0XvyfHdC3YEggCnEfpV9Ku7Ij3BCijeAxAx4GiQJuGvoTdc6eicXcsZEzq9epRizXsFHFekW76+jtV4ebEP1yYFZifR/xHJX+acAHudhRrRfN1R/+f29RwQEw=;sDjhUZw0M5HqfJZbSdrurw=="
 ---
 

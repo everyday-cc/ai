@@ -25,16 +25,16 @@ images:
 
 related:
   - title: "This Is the Secret Sauce Behind Effective AI and ML Technology"
-    excerpt: "It's a solution making it possible for businesses that haven't yet adopted AI to get in the game. It is virtually impossible to find a cutting-edge company today that doesn’t claim to be built on artificial intelligence (AI) or use machine learning (ML) in some capacity."
-    publishedDateTime: 2021-09-28T17:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/386824"
+    excerpt: "The truth is, it is extraordinarily difficult to build an AI model that can be retrained, relearn and continuously updated, and most companies do not have that level of sophisticated technology. Even so,"
+    publishedDateTime: 2021-09-28T23:25:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/This-Is-the-Secret-Sauce-Behind-Effective-AI-and-16493704.php"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 84
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 54
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1632333370-shutterstock-1086908591.jpg"
+      - url: "https://s.hdnux.com/photos/01/22/05/77/21520356/3/rawImage.jpg"
         width: 2000
         height: 1333
         isCached: true

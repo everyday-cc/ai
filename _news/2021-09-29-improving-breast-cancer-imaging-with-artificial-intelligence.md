@@ -24,79 +24,63 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence tool improves accuracy of breast cancer imaging"
-    excerpt: "A computer program trained to see patterns among thousands of breast ultrasound images can aid physicians in accurately diagnosing breast cancer, a new study shows."
-    publishedDateTime: 2021-09-24T09:00:00Z
-    webUrl: "https://medicalxpress.com/news/2021-09-artificial-intelligence-tool-accuracy-breast.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-09-artificial-intelligence-tool-accuracy-breast.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-artificial-intelligence-tool-accuracy-breast.amp"
+  - title: "Researchers having a whale of a time with deep learning AI algorithms"
+    excerpt: "Researchers are using deep learning AI algorithms to understand and communicate with whales. Deep learning AI algorithms are becoming the key technology in some of the most complicated use cases around the world."
+    publishedDateTime: 2021-09-24T15:59:00Z
+    webUrl: "https://techhq.com/2021/09/researchers-having-a-whale-of-a-time-with-deep-learning-ai-algorithms/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
+      name: TechHQ
+      domain: techhq.com
+    quality: 54
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/breast.jpg"
-        width: 1920
-        height: 1296
+      - url: "https://cdn.techhq.com/wp-content/uploads/2021/09/000_9LP9TU-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
-  - title: "Artificial Intelligence Tool Improves Accuracy of Breast Cancer Ultrasound Imaging"
-    excerpt: "A computer program trained to see patterns among thousands of breast ultrasound images can aid physicians in accurately diagnosing breast cancer, a new study shows. When tested separately on 44,755 already completed ultrasound exams,"
-    publishedDateTime: 2021-09-24T09:00:00Z
-    webUrl: "https://scitechdaily.com/artificial-intelligence-tool-improves-accuracy-of-breast-cancer-ultrasound-imaging/"
-    ampWebUrl: "https://scitechdaily.com/artificial-intelligence-tool-improves-accuracy-of-breast-cancer-ultrasound-imaging/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-tool-improves-accuracy-of-breast-cancer-ultrasound-imaging/amp/"
+  - title: "US researchers aim to identify autism earlier using artificial intelligence"
+    excerpt: "Researchers at West Virginia University are turning to artificial intelligence to devise a way to properly diagnosis autism spectrum disorder."
+    publishedDateTime: 2021-09-28T10:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/09/28/us-researchers-aim-to-identify-autism-earlier-using-artificial-intelligence"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 51
+      name: The Star
+      domain: thestar.com.my
+    quality: 50
     images:
-      - url: "https://scitechdaily.com/images/Breast-Cancer-Ultrasound-777x518.jpg"
-        width: 777
-        height: 518
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/09/28/1310995.jpeg"
+        width: 1240
+        height: 1240
         isCached: true
-  - title: "AI of breast ultrasound helps radiologists focus on cancer"
-    excerpt: "An artificial intelligence (AI) algorithm was able to significantly reduce false positives in breast ultrasound, potentially avoiding the need for one out of four biopsies, in a study published online September 24 in Nature Communications."
-    publishedDateTime: 2021-09-24T15:16:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=sup&sub=ult&pag=dis&ItemID=133582"
+  - title: "WVU researchers aim to identify autism earlier using artificial intelligence"
+    excerpt: "Researchers at University are turning to artificial intelligence to devise a way to properly diagnosis autism spectrum disorder."
+    publishedDateTime: 2021-09-27T04:00:00Z
+    webUrl: "https://www.timeswv.com/news/monday_news/wvu-researchers-aim-to-identify-autism-earlier-using-artificial-intelligence/article_866ba520-1f27-11ec-832b-d36d79a54f59.html"
     type: article
     provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 39
+      name: Times West Virginia
+      domain: timeswv.com
+    quality: 49
     images:
-      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_09_24_15_57_9400_2021_09_24_ai_breast_ultrasound_clinical_image_social.jpg"
-        width: 1200
+      - url: "https://bloximages.chicago2.vip.townnews.com/timeswv.com/content/tncms/assets/v3/editorial/b/5c/b5cfcd7c-1f28-11ec-b5f1-3b7112da030b/61510eaa1f703.image.jpg?resize=952%2C630"
+        width: 952
         height: 630
         isCached: true
-  - title: "Artificial Intelligence System Improves Breast Cancer Detection"
-    excerpt: "Researchers develop artificial intelligence (AI) system that achieves radiologist-level accuracy in identifying breast cancer in ultrasound images."
-    publishedDateTime: 2021-09-27T12:00:00Z
-    webUrl: "https://www.genengnews.com/news/artificial-intelligence-system-improves-breast-cancer-detection/"
+  - title: "Mayo, Google Research develop new AI algorithm to improve brain stimulation devices to treat disease"
+    excerpt: "ROCHESTER, Minn. ― For millions of people with epilepsy and movement disorders such as Parkinson’s disease, electrical stimulation of the brain already is widening treatment possibilities. In the future,"
+    publishedDateTime: 2021-09-26T07:00:00Z
+    webUrl: "https://tucson.com/lifestyles/health-med-fit/mayo-google-research-develop-new-ai-algorithm-to-improve-brain-stimulation-devices-to-treat-disease/article_382d42c4-196e-11ec-b3b0-0f5f1483be5e.html"
+    ampWebUrl: "https://tucson.com/lifestyles/health-med-fit/mayo-google-research-develop-new-ai-algorithm-to-improve-brain-stimulation-devices-to-treat-disease/article_382d42c4-196e-11ec-b3b0-0f5f1483be5e.amp.html"
+    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/lifestyles/health-med-fit/mayo-google-research-develop-new-ai-algorithm-to-improve-brain-stimulation-devices-to-treat-disease/article_382d42c4-196e-11ec-b3b0-0f5f1483be5e.amp.html"
     type: article
     provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 39
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 42
     images:
-      - url: "https://www.genengnews.com/wp-content/uploads/2018/08/June4_2014_21425225_BreastCancerBlackWhiteIllustration_ProteinBreastCancerSpread2311152102.jpg"
-        width: 500
-        height: 305
-        isCached: true
-  - title: "AI tool increases radiologists’ accuracy at spotting breast cancer on ultrasound scans by 37%"
-    excerpt: "An artificial intelligence tool is helping increase radiologists’ ability to correctly spot breast cancer on ultrasound by 37% while also dropping the number of biopsies and false positives. Researchers hope AI can alleviate these concerns while broadening access."
-    publishedDateTime: 2021-09-28T06:04:00Z
-    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/artificial-intelligence-ai-nyu-langone-breast-cancer"
-    type: article
-    provider:
-      name: Radiology Business
-      domain: radiologybusiness.com
-    quality: 26
-    images:
-      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2021-03/istock-695955360.jpg?h=9d96f97f&itok=LObO_P6U"
-        width: 1200
-        height: 630
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/3/5d/35d5ca8b-389b-5c80-8773-b5f41d8e14c6/5f89083f5eec0.image.jpg?crop=1780%2C1001%2C0%2C81&resize=1024%2C576&order=crop%2Cresize"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "NyxE4L3wCmsevHuXjNd+CnYi4TiI7r4g8zgcR8GGJohmjYHEkQzcRNdZhHmlYgIK9kEg9A2T6Qfpjm9012t4gKCZJgoz45Vz83n6SIrPPMyGk1Pie6kVlqr5KcRqyfU7rWZMEQWP45rkpFKid2F5K/GtEThrymltY5e3OD6s8L35+3IUauBPPf+iG/NA1BMDaS6lpkIldGYoAnTF1q1ck7RDNqXORAFk6Tw0rIvKAuS+KPFSSbDayH9Z2lKkrVCam0EbOm1y0mcxxLkt8xHMcm4vtRYC/sbhNhp+lgQgCp/k4y8vi/wg1PyN894ZSXGu6LKSY/oGrW+GQ0oCeKkJ8KHsP+VvQhQVg7O8LGgw31L1dZkDS3pV531RU5ZEqelnWrJxfXiGrK4EvuDJZOtIWb4MRtghJqB3Lj3h4O9KIwVppPJSXJ50jcAFHfblowEoGHXUX6n2U1cVuNnb82vF1+cPRHSCFnpRUO6wNdrFqx+BjENDtF1NMGqXgvwX28aW+1lh4/T/qWA3kPLB8BSYRA==;4H8wWry2chDT4TkwVoRlEA=="

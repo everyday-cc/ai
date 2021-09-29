@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vice President Naidu calls for people-centric AI solutions"
+    excerpt: "Vice President Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence AI to deliver benefits to"
+    publishedDateTime: 2021-09-29T01:27:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271345250/vice-president-naidu-calls-for-people-centric-ai-solutions"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1632878409.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "yihfmpn3SLipH6z+RonYclLrgb/HTvodKXkgQMjofBuP+Uv6KYijMXK1y6JuVKibwAj/Didc1yJhhFluMTHSwqzajaEX7ZDe6vph8TZZ6wirqRNK8bg0aKyz1CJkORa4H6pnoG6SUwficuQ40cKOx7PRBaofKFUEcgW3bP3hjjHBX3kCO4clWGHuQ0tu8RMxFWtkisO3lalC1+iZWdbz2JMwZ/Rp1koIzqxXuuFt8UJtHyhkMBWiB77a5LlVjtzrC6ZW0tMkaQpoCPQKDe5KlL377L1ZysyCVNRntauFz5Uc/vCuV04q/mM9c1zEWzy/0hI9BR85YKf56K5/72fMwMdpWEkqZxQMefNoiH1BjnKXvwq7xObtjI22djloXUns9DuF0Nk7Tjm86oZ8YUsTauBbYF2AStUP5fMPFFP6qQQOu+P7bzFMU6ovXyeqPT66A7BMptn9hJG+1nRf0XnfhgSZhVK0Ma7Nr9jYA7Cpbn2fvttWi3zBU2b8rM2fLrsI11o+lSTGKuKah2JrGvIVZA==;K2Xn/x7CcLifaMXqMeaIDA=="
 ---

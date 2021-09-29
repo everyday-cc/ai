@@ -40,20 +40,6 @@ related:
         width: 500
         height: 256
         isCached: true
-  - title: "Real Fake: Playing with Reality in the Age of AI, Deepfakes and the Metaverse"
-    excerpt: "Real Fake. Digital technology is giving us something akin to superpowers. Will we use them to obliterate the distinctions between authenticity and inauthenticity, reality and virtuality, human and machine?"
-    publishedDateTime: 2021-09-24T07:12:00Z
-    webUrl: "https://www.amazon.co.uk/Real-Fake-Playing-Deepfakes-Metaverse-ebook/dp/B09GV4718D"
-    type: article
-    provider:
-      name: Amazon Associates UK
-      domain: amazon.co.uk
-    quality: 36
-    images:
-      - url: "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png"
-        width: 350
-        height: 450
-        isCached: true
 
 secured: "h8Oa79+XpxPwQSAaGBN30WR2W1PgC8BhWOdxkhRun5wkWSNE6e29SPGAGdpWEEPzUPgw/5KWfckyrLUbdwBl9OKB2mjadueKkxLTdP4irWZqzGdn+UFpikBEqjTOwyd43Ckd9YTKS5JLLuSfxzMDHRKZJteDGYAVYptt/TWD6M7cdC3D9nRS7gg+eVDAPqWFIo//1a1oSj3LSJHuro0P9dqqlIv40HGsr3iq3KjEUe1z8RVAFuLWQfoQbIEtqpwHHEJtlY6gVHlwaXhYIXBOvcxCeS+P3aty9snD5JP3ykBiscYqDFTmlrpMHBYNEGzB7oA43VN6gPe+/Z87nTeNSe1v7RjncXxr1sNHNWmrA1/aGu0cGEUIzLKPMEycrIgZTWu3FcCb7Gk9aYNEe4SPn6X7LHH2n7OREhmhtcEwn8Vmvn5/lMQU/DCix3vT6XGCzT8zjC5Vq2YoaX/UCMmFkdtzPZdbysDdlUnAnHWu1ZrTGwoe7i9DyFc4heb6Et0l8qZic4iUclgTY+Ghjsk1Uw==;YpEPPt338WPoEp0bLAf+Mg=="
 ---

@@ -265,6 +265,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Tesla's 'full self-driving' feature could be days away for approved drivers"
+    excerpt: "A wider group of Tesla owners who paid up to $10,000 for what the company calls its \"full self-driving\" software can now ask the automaker for access to a test"
+    publishedDateTime: 2021-09-29T00:30:00Z
+    webUrl: "https://madison.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_28e2555a-2519-587d-aac8-6bd59e63d461.html"
+    ampWebUrl: "https://madison.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_28e2555a-2519-587d-aac8-6bd59e63d461.amp.html"
+    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_28e2555a-2519-587d-aac8-6bd59e63d461.amp.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 57
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/2a/a2a79db2-f230-5ec1-8847-4b7462a145ce/6153906b928f3.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Tesla to outsource its self-driving chip to Samsung"
     excerpt: "It is reported that Tesla has decided to outsource its self-driving chip manufacturing to Samsung Electronics. According to the industry on the 24th, Samsung Electronics is reportedly likely to win orders for manufacturing of the HW 4."
     publishedDateTime: 2021-09-27T04:58:00Z
@@ -546,6 +562,6 @@ related:
         height: 382
         isCached: true
 
-secured: "IRnVJHnPdXsLUVvIUO34+RM9jLX6j5gbW8Mrx8GrCbGrAcLN9ZiFeGRd/rDPHD0LdaZh35FqpGatUBUaCO5VXl6HANSgM+h+2irOrpPdRrv9TvoN835pd3v6SjsK9xk05uQWIINf5XLrfA31bbmbXq7iYxTzWi/kvN7uAuZEdbocowI07IStSoD385qumH6JeVy5c4qpX2WZ+Ep3VF3mL4pJqaS86cPOZmtZ2ZuXT7Bpg551YTfFGl+pMtHUtLj9MbOVbGQwqInKHoeCCTAJ6bL6Xt+lvi+ACtT51IOzH/Y4yXHVxKAxZmkfKAFLBplmEes+mNiCX2ACt6lxVCeiRADlYIlAc+YPnr27/UePHKY=;JvXK1Bf2cxd3boIeSPprCg=="
+secured: "CGyvktH1yWbAmkhflPxPvU/HXQeAUp2sHez73hiPsZy5Qx49hBMRYZ5JuW+DCyTW9YwcVmWAxOVY0sNcnmgPpsnCkTS9EskYkYfqmWJ8Yo91gkHFTC4rZENkz8V9CT0Uhu/GrD160NeOxFugiC+B4/g+naOvw7l60rA0exg3wNfNF9hmD+jVe8YYttJdhtmmGh0jSWrmFLh13+seLNH9KIZ4bLezSBuvJzEkZ1Cd0AGxWffcB+yuiN6oodg/AGX/+LpzqauqhXP2JkCDo/IP9ZQt7OmNngtipBCxp3plPvkTI5T5mjONaLFtDEAih7fZtW+ob73FYFOqcxX2eC0oCb0EjmOf5hrV9NkQFPRAup3KQKjrH+qt/Mj46dJIszVISItHBj4CpnYdNZRy2wYfG3QZGTzwoz9qVoSWC4WTGsoecfl9ADm3A1uqiF/xxImFn1+L0ANf6xr7TfvSeIWoiofURgx/bzfBsl3ekT4w3BkN75ix8HfkQ21ee/0O38W50aYAHnogwZDnQfUavtDF6g==;WILXYWZWZeEUKKQyeS95ug=="
 ---
 

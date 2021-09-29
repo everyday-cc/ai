@@ -7,7 +7,7 @@ originalUrl: "https://www.securitysystemsnews.com/article/briefcam-s-video-analy
 webUrl: "https://www.securitysystemsnews.com/article/briefcam-s-video-analytics-available-on-axis-deep-learning-cameras"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Datatron Awarded U.S. Patent for Methodology for Modeling Machine Learning and Analytics"
+    excerpt: "Datatron has received a new U.S. patent for its methodology for modeling machine learning and analytics, the company announced today. This expands Datatron's patent portfolio for machine learning (ML) methods and technologies in a production environment,"
+    publishedDateTime: 2021-09-28T12:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-datatron-awarded-us-patent-methodology-modeling-machine-learning-/2021/09/28/9457617.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
 
 secured: "WD5O5ccJL646PmT7Nmu++dq0sRXszmce05NhRXjdIxfl790ouXW4bN+w8KBKHkLAx273mOby/quNswcjOdSSspv87SmiU7+wDqwBWRvTgLWMnsjApBaO02NGQZswb5m8YnEib5Ob4jouhpyK9sLrXdUwv1mH/S6qXI6984t53p4vtxeH8Jl6P2yN8EhdBzm4/D94AomW1p68K6x+nwGmQUxGbi1UnKCcwqU3OSxKLa7oYnAQ956/uXbDCrCcI4EDtJ665NaU44hUJEF17rh5Bk6cmx0lw2ibb7OO/qoZllYTVVPs3ncGUJ2b7gvGmbsSgWvkAhY/A8lt2Gm1ZJpuoKjU+gaIuTi1PmdPNkiCKaI=;6bayevbs4ljAmAxtuZL8jA=="
 ---

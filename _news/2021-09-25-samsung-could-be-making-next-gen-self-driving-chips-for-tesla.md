@@ -72,22 +72,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Chinese self-driving startup Momenta raises $300 million from GM"
-    excerpt: "General Motors said on Thursday that it will invest $300 million in Momenta, a Chinese autonomous vehicle startup. In March, the five-year-old startup closed a $500 million Series C from investors, including state-owned automaker SAIC,"
-    publishedDateTime: 2021-09-24T07:47:00Z
-    webUrl: "https://technode.com/2021/09/24/chinese-self-driving-startup-momenta-raises-300-million-from-gm/"
-    ampWebUrl: "https://technode.com/2021/09/24/chinese-self-driving-startup-momenta-raises-300-million-from-gm/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/09/24/chinese-self-driving-startup-momenta-raises-300-million-from-gm/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 59
-    images:
-      - url: "https://i2.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
   - title: "Xiaomi invests in Chinese self-driving chip unicorn Black Sesame"
     excerpt: "Black Sesame Technologies, a Chinese developer of artificial intelligence-based self-driving computing chips, says it is close to a valuation of nearly $2 billion after raising \"hundreds of millions of U."
     publishedDateTime: 2021-09-26T01:17:00Z

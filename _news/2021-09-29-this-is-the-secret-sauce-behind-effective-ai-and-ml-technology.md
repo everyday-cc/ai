@@ -1,29 +1,25 @@
 ---
 category: news
 title: "This Is the Secret Sauce Behind Effective AI and ML Technology"
-excerpt: "It's a solution making it possible for businesses that haven't yet adopted AI to get in the game. It is virtually impossible to find a cutting-edge company today that doesn’t claim to be built on artificial intelligence (AI) or use machine learning (ML) in some capacity."
-publishedDateTime: 2021-09-28T17:30:00Z
-originalUrl: "https://www.entrepreneur.com/article/386824"
-webUrl: "https://www.entrepreneur.com/article/386824"
+excerpt: "The truth is, it is extraordinarily difficult to build an AI model that can be retrained, relearn and continuously updated, and most companies do not have that level of sophisticated technology. Even so,"
+publishedDateTime: 2021-09-28T23:25:00Z
+originalUrl: "https://www.stamfordadvocate.com/business/article/This-Is-the-Secret-Sauce-Behind-Effective-AI-and-16493704.php"
+webUrl: "https://www.stamfordadvocate.com/business/article/This-Is-the-Secret-Sauce-Behind-Effective-AI-and-16493704.php"
 type: article
-quality: 84
-heat: 94
-published: true
+quality: 54
+heat: 64
+published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: "https://assets.entrepreneur.com/content/3x2/2000/1632333370-shutterstock-1086908591.jpg"
+  - url: "https://s.hdnux.com/photos/01/22/05/77/21520356/3/rawImage.jpg"
     width: 2000
     height: 1333
     isCached: true
@@ -44,6 +40,6 @@ related:
         height: 238
         isCached: true
 
-secured: "Ak+PccFJSWeR5neHhqEl70ys2kl6GJavTebt8UO0vsfm9AXKrSORRMUs6N5epD83uQoFgHFBfKT5FfCwf72CQcLohU3tI6LLqSbinqTuHU+tKaYbRqbs6T6xjOSyUSB+xpbAhx+xQ0FcfbUi2fnTM9+8HYddNQpgTWVvju7X6oldg5VbBqHNzAjeLXeEhxQKtVd6MF4S/wIKhT8QJtPUDX2Mi6Y22cOOjkwfeUbZmrWHAvHFN4wXe/URmfDdCtkPDrJ7+9h8cSsVLRdBh0ZVTn9R4+p+A7wbnpO2MW8D3sM5MVqwUzax9QuR1oc/dwfJ9cjKUrUBxTmcDHN4Vlp8LZqqdzS3P8YaDW5oSeUmWVU=;XhyBAp33Xvfys+NZbvcqAg=="
+secured: "r/Upj+tHDtEaGX5l4c5NiXNiSDplhO4CodSNk42zSfJ9dUrijx3keJCHw4OKpwubVHbo49YBpFr/3L/vh/5gi73QNaMH/75MTcK778wNGoHPZ3HbzTGtLzOUjpcY/jDdJnIQOXtEGX4EVYejxkhr50/rqE8UmkOeu+7w2CCD4LecRDq9Z0jq8oEBvHv8lClK0uJRaZSCrV8ZYu3mfZkJPPe/dZu8atr7iOhZZhuZ1+oVlQMvf4TK1TpNp4eiDQER7RFsD47XAGuB0T+2Cf053sJboldsjpQ0xmd8KT1vyEcoMR08Uf7mlkSmbkjmjwCqbJ4vtTP09BRfpQkPUS+tAZIqYET2JYcRmNoVAHa8ofU=;1PP3ps441J+7RP8y/BKE5w=="
 ---
 

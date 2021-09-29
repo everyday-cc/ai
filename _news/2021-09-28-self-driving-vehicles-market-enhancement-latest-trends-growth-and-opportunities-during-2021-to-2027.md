@@ -62,6 +62,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 12
+  - title: "Global Underwater Computer Vision Market 2021 Key Players, Product Type, Geographical Regions and End-User Applicants by 2027"
+    excerpt: "The research released by MarketsandResearchbiz named Global Underwater Computer Vision Market 2021 by Company Regi"
+    publishedDateTime: 2021-09-27T19:11:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271325720/global-underwater-computer-vision-market-2021-key-players-product-type-geographical-regions-and-end-user-applicants-by-2027"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 12
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1632803637705.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Construction Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Construction market report provides"
     publishedDateTime: 2021-09-24T13:18:00Z

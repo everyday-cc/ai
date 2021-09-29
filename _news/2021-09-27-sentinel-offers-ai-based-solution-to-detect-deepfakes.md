@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Real Fake: Playing with Reality in the Age of AI, Deepfakes and the Metaverse"
-    excerpt: "Real Fake. Digital technology is giving us something akin to superpowers. Will we use them to obliterate the distinctions between authenticity and inauthenticity, reality and virtuality, human and machine?"
-    publishedDateTime: 2021-09-24T07:12:00Z
-    webUrl: "https://www.amazon.co.uk/Real-Fake-Playing-Deepfakes-Metaverse-ebook/dp/B09GV4718D"
-    type: article
-    provider:
-      name: Amazon Associates UK
-      domain: amazon.co.uk
-    quality: 36
-    images:
-      - url: "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png"
-        width: 350
-        height: 450
-        isCached: true
   - title: "Multi-spectral face biometrics, emotion recognition and deepfakes discussed at EAB seminar"
     excerpt: "The state of the art in several areas related to face biometrics and computer vision were explored in the latest virtual lunch talk held by the EAB."
     publishedDateTime: 2021-09-24T15:19:00Z

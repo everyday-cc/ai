@@ -24,49 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "The impact of conversational AI on critical services"
-    excerpt: "AI could also be a game-changing communication tool for critical service providers. How? By empowering customer service departments"
-    publishedDateTime: 2021-09-24T08:00:00Z
-    webUrl: "https://www.itproportal.com/features/the-impact-of-conversational-ai-on-critical-services/"
-    ampWebUrl: "https://www.itproportal.com/amp/features/the-impact-of-conversational-ai-on-critical-services/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/the-impact-of-conversational-ai-on-critical-services/"
+  - title: "Using AI and old reports to understand new medical images"
+    excerpt: "Getting a quick and accurate reading of an X-ray or some other medical images can be vital to a patient's health and might even save a life. Obtaining such an assessment depends on the availability of a skilled radiologist and,"
+    publishedDateTime: 2021-09-27T16:23:00Z
+    webUrl: "https://techxplore.com/news/2021-09-ai-medical-images.html"
+    ampWebUrl: "https://techxplore.com/news/2021-09-ai-medical-images.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-ai-medical-images.amp"
     type: article
     provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 59
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 57
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ADy2QfDipAoaDjWjQ4zRq-1200-80.jpg"
-        width: 800
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/using-ai-and-old-repor.jpg"
+        width: 900
+        height: 491
+        isCached: true
+  - title: "Siemens is a global leader in AI when it comes to medical imaging"
+    excerpt: "Siemens has remained a global leader for nearly 20years when it comes to AI patent applications in medical imaging. Let’s see how Siemens healthineers is leveraging AI into a clinical routine in this article."
+    publishedDateTime: 2021-09-24T11:45:00Z
+    webUrl: "https://www.analyticsinsight.net/how-is-siemens-leveraging-ai-into-clinical-routine-to-keep-pace-in-the-market/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Siemens.jpg"
+        width: 900
         height: 500
-        isCached: true
-  - title: "Comment: How AI is enhancing localisation"
-    excerpt: "When it comes to how automated localisation works, Papercup has simplified this process so customers are able to receive a dubbing service for a fraction of the usual price. Our proposition pairs Automatic Speech Recognition,"
-    publishedDateTime: 2021-09-24T11:32:00Z
-    webUrl: "https://www.broadcastnow.co.uk/tech/comment-how-ai-is-enhancing-localisation/5163486.article"
-    type: article
-    provider:
-      name: Broadcast
-      domain: broadcastnow.co.uk
-    quality: 39
-    images:
-      - url: "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/3/1/7/1354317_amir_474952.jpg"
-        width: 1024
-        height: 536
-        isCached: true
-  - title: "2nd Annual Artificial Intelligence for Information Accessibility Conference highlights the International Day for Universal Access to Information"
-    excerpt: "Recognised annually on the 28th of September, this year's themes of the the International Day for Universal Access to Information (IDUAI) are “What We Know about our Right to Know” and \"The Right to Know - Building Back Better with Access to Information\"."
-    publishedDateTime: 2021-09-28T12:35:00Z
-    webUrl: "https://www.pressreleasepoint.com/2nd-annual-artificial-intelligence-information-accessibility-conference-highlights-international-day"
-    type: article
-    provider:
-      name: KLAS Press Release
-      domain: pressreleasepoint.com
-    quality: 2
-    images:
-      - url: "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png"
-        width: 256
-        height: 256
         isCached: true
 
 secured: "SukvCMBRsJWiPmieEfW7Mb1E6eiPcy/nNY7pA7EcOLrgEoeyBqv18Q7EfUTavbjKD3CPzRfZJocFfJbysKxlIfCvrk0Y7khNtBY5F1HhWPt2FbRs4CIrgXFWL8NQKYlCaYWJzxhavCkaKYylPZi+wJsnXeunayWApIfLIKSousZigsltKC4qY3EGZJm9Vk4MDlIEG+zEDXiVRn5HsyDUwq4dg9PnpxT2dgTuf2EnF/rLaaglz6g6G5wNSi6PwPORYXF4HJHB/im25b4a4j35Co1ErO+6AZ1RyGM+reuRmhikSNGy+uPeGKd044mVhXzfjJ/2FcwttvS1Ued1cmJfyFcTKcFriylstVk/JkM3M/kk9/gv7xG1VOed7kViAGtOJjE53aLIKKad6ZO/h576OCNqvMfadzOmWlGg1921EVQiPBZ40FnrM3FdXhTqNyEY3TCQBUMchz2rvwEiM4vJT1+gMntYHfaSaK/r5xDCOOqzylu+eIeUqfY170B8nbf4QIceW+8w6fRIRmdubdHG3Q==;azNk0bJZTTei11A47dIxgQ=="

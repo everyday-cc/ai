@@ -7,7 +7,7 @@ originalUrl: "https://www.greencarcongress.com/2021/09/20210924-momenta.html"
 webUrl: "https://media.gm.com/media/cn/en/gm/news.detail.html/content/Pages/news/cn/en/2021/Sept/0923-gm.html"
 type: article
 quality: 115
-heat: 215
+heat: 205
 published: true
 
 provider:
@@ -56,22 +56,6 @@ related:
       - url: "https://images.news18.com/ibnlive/uploads/2021/09/samsung-reuters-img-163248230716x9.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Chinese self-driving startup Momenta raises $300 million from GM"
-    excerpt: "General Motors said on Thursday that it will invest $300 million in Momenta, a Chinese autonomous vehicle startup. In March, the five-year-old startup closed a $500 million Series C from investors, including state-owned automaker SAIC,"
-    publishedDateTime: 2021-09-24T07:47:00Z
-    webUrl: "https://technode.com/2021/09/24/chinese-self-driving-startup-momenta-raises-300-million-from-gm/"
-    ampWebUrl: "https://technode.com/2021/09/24/chinese-self-driving-startup-momenta-raises-300-million-from-gm/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/09/24/chinese-self-driving-startup-momenta-raises-300-million-from-gm/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 59
-    images:
-      - url: "https://i2.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
         isCached: true
   - title: "Samsung could be making next-gen self-driving chips for Tesla"
     excerpt: "Samsung and Tesla are in talks to make the next-generation chips for Tesla's upcoming Hardware 4. Which is to come with Cybertruck in a year."

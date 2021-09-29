@@ -39,6 +39,20 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Vice President Naidu calls for people-centric AI solutions"
+    excerpt: "Vice President Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence AI to deliver benefits to"
+    publishedDateTime: 2021-09-29T01:27:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271345250/vice-president-naidu-calls-for-people-centric-ai-solutions"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1632878409.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Just how smart are trucking artificial intelligence solutions?"
     excerpt: "The headline question is where my conversation with Nauto’s Chief Product Officer Yoav Banin ends up. As an artificial intelligence (A.I.) and computer vision provider, Nauto uses its algorithms to identify things like potential pedestrian collision,"
     publishedDateTime: 2021-09-28T12:00:00Z

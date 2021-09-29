@@ -60,6 +60,20 @@ related:
       name: The Next Web
       domain: thenextweb.com
     quality: 63
+  - title: "Samsung Wants To ‘Copy and Paste’ the Brain on Neuromorphic Chips"
+    excerpt: "South Korean tech giant Samsung is considering developing brain-like chips by borrowing existing brain structures. The tech firm puts forward a vision to “copy and paste” the brain’s neuronal connection map onto a computer chip."
+    publishedDateTime: 2021-09-28T22:53:00Z
+    webUrl: "https://www.industrytap.com/samsung-wants-to-copy-and-paste-the-brain-on-neuromorphic-chips/60329"
+    type: article
+    provider:
+      name: Industry Tap
+      domain: industrytap.com
+    quality: 54
+    images:
+      - url: "https://www.industrytap.com/wp-content/uploads/2021/09/brain.jpg"
+        width: 744
+        height: 419
+        isCached: true
 
 secured: "1xVVhtiKAkP5WBCiWo+eAID7MWCFyyRdqipb7scxirMHgKdyZ4FNdDGQ/QMmOwZsL8oUurHZMK5mem2JaOFP1WG71q73PRnnQcHD8tQ+AP5BAqvy791FDtvflfZ7q1KPP9+gzU6NGOSFbG26nvn3FvPuj76zsVtZNe7IdQzsMfBCw05ED3nfdTZWPYarq6c4/K+45h4ez4xBf5n6WhgNcPxYV1V9MGNWfgrlX/RAN44nfgO7fOQkWYqaNQvn+V44GQZYwVzTy1jf3SOyY1Fw9+2iV/jplZv3eudhOd5EFPXlArsya9ctlT43zZnSo9Nbi9a0Vx5cXN+nl8TW7QoFdwzLwHhU4+bTjlS0i0td/8OKBkHTfCtsu7ytVk8GRwVNs6RQ2nptimsb1zJGvnML+3IvrbHGHwi85jI3as3Bm2Q2uTqK3FviTb1VTDl0Aw84n9Qoi2ALn58Yngu4DweIG1VDle98r1YKjIq5J+2ChZvrPXcMrUe66PGqPKXRh34o4s5YEZpOXOBV9nQojZIczA==;cE4LHIuMLH39RqO9uWPtSw=="
 ---

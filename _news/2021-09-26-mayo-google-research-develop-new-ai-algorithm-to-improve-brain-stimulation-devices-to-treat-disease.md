@@ -68,6 +68,20 @@ related:
         width: 952
         height: 630
         isCached: true
+  - title: "Improving Breast Cancer Imaging with Artificial Intelligence"
+    excerpt: "A study led by New York University (NYU) researchers created an artificial intelligence tool to improve the accuracy of breast cancer imaging. The computer program was trained to identify patterns among thousands of breast ultrasound images to aid physicians in diagnosing."
+    publishedDateTime: 2021-09-28T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/improving-breast-cancer-imaging-with-artificial-intelligence"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-845751048.jpg"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "1bKVPrnJvt3GAMubGbcbg8kNOop+OzMR/ZxH2FSoYnZW9ze/LwlT06Itvn8Gh39kRa5XTdobv5MfPNaECZrGhbjNNW7rWYmhFrxGW389MYyvSXA64JoO/49dDHvcrQtAyWUd/b/pk4TMcXvQh+7eSWsgKYVovhr/ojg2WcBOqGhy0JhFLgzCBvYw/y110bwfu7DMaheb2MxhY27lAeAyPTztIAdM6hlz9g4gn/rNQctbRuy34KeldAGIZpt7t8A/Lsu0t5SCsESPR0jyx5jjjCUOftSUxq2+AccOR0iK62G0Rr+KraJiOuLwp8haDZGYJuPfDn3ITF4nkY/0cT7lByUHldtytNpVnpKtWtBhrSibuhMZxF2wM45SnUER+XiWoRuIyfbMsIKSZF4t2bkqlxC8SKorEt/6p5eXfbpAl2fWsWvLs0HYvjBUNNYmsIuSNHlv/WygKcWoA6xQghvsURkiGugVLoRIbfY4dsQcMICv14wETDoQxZLa3TEDG2cghbEz7m16j7sRtbdDpUMpRw==;J7mD0+G/SlCSiIL90gYfqQ=="
 ---

@@ -53,6 +53,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Datatron Awarded U.S. Patent for Methodology for Modeling Machine Learning and Analytics"
+    excerpt: "Datatron has received a new U.S. patent for its methodology for modeling machine learning and analytics, the company announced today. This expands Datatron's patent portfolio for machine learning (ML) methods and technologies in a production environment,"
+    publishedDateTime: 2021-09-28T12:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-datatron-awarded-us-patent-methodology-modeling-machine-learning-/2021/09/28/9457617.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
 
 secured: "Suc8O5DgIFOvpYNTdlTQdzH9wBQEld9Ax+FsB4QO7+qlEL/9WaMZnVA5WjaiJXPIlISHYsSJjZBam0n1D/W7yoh4mWcreeWsakyAOLSUqb7E2+zFwThH2i11qVHt2u8g21M5cHWdkzaKe1BDQ5FqZJvB8/7YzCGs3yHZ9LyBPShhBi3qGvwTMY0HKYowKSRTf5rrD0DVFz7hfBf/lsTBtLcGBoyz4IsgVYYGU2TWDo+s5yHgeKXk6TUh3/uAdEirxNV8KSOaCV+do95eoEZEIp+HgYK8Dy3U/RXLCwMPm7lGXZj+5tCGpcOGtHnL3ykxeP2q8uvtLYsohr6bAQCjl81cTivmTmTO4UxGV7dHXyIYjera386q4PcaVzk4AO+xo9WezIKpSoi/Dj5DJLYbErSf/WC/RgggC+Cd/pL1SwDV8zH0yeT6PKFFjKeNC1HUajwHTW1hzT+9UB3p9yd7TrU0L5W8oHEkhn2hzn2KoQQLehoahH4kT3BcMO28ZnA7rouyNrDqPm1UaxI0kXGIQg==;EIzlG6xnWQHcG6058rxn4Q=="
 ---
