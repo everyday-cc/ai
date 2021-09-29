@@ -1,20 +1,18 @@
 ---
 category: news
 title: "GBG wins Best AI/Machine Learning Innovation of the Year award"
-excerpt: "Judges praise GBG’s technology for reducing false positives and improving fraud detection SINGAPORE - Media OutReach  - 29 September 2021 - GBG (AIM:GBG), the global expert in digital identity, helping businesses prevent fraud"
-publishedDateTime: 2021-09-29T05:00:00Z
-originalUrl: "https://www.asiaone.com/business/gbg-wins-best-aimachine-learning-innovation-year-award"
-webUrl: "https://www.asiaone.com/business/gbg-wins-best-aimachine-learning-innovation-year-award"
-ampWebUrl: "https://www.asiaone.com/business/gbg-wins-best-aimachine-learning-innovation-year-award?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/gbg-wins-best-aimachine-learning-innovation-year-award?amp"
+excerpt: "SINGAPORE - Media OutReach - 29 September 2021 - GBG (AIM:GBG), the global expert in digital identity, helping businesses prevent f"
+publishedDateTime: 2021-09-29T08:42:00Z
+originalUrl: "https://menafn.com/1102883927/GBG-wins-Best-AIMachine-Learning-Innovation-of-the-Year-award"
+webUrl: "https://menafn.com/1102883927/GBG-wins-Best-AIMachine-Learning-Innovation-of-the-Year-award"
 type: article
-quality: 76
-heat: 86
-published: true
+quality: 56
+heat: 66
+published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Finance
@@ -22,9 +20,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Sep2021/GBG-logo_17.jpg?itok=ny88hqjt"
-    width: 763
-    height: 509
+  - url: "https://menafn.com/updates/pr/2021-09/29/MOL_82acefbd-3_Image_In_Body.jpg"
+    width: 318
+    height: 213
     isCached: true
 
 related:
@@ -43,6 +41,6 @@ related:
         height: 234
         isCached: true
 
-secured: "LscZqCoTmSIZBwOXLG5UYyWzWheI/d0boVAYGuECMHteqSb773IaXbaTjlWGvCRdiMhF3Aob3ojVlRbcEZdcbCOjkFE1RrJ97nOLwaa2JSEKIZPOIGsTRRspeJzlVfnj5wLAv5Z1wL8gs+tuPl5O89goTMG67Xx3MyUSPxfXTxbejMmupMtEPCWIzuX93KRK9Omy5zVGPF/y0DoQOF4Eoa8kTkjM3Az1W37v0hUdtHegqfWRuwYLWWTzK53te/uwrz3Afk341mwoGSNNfm5Bm3bxBJvD92/8n27C9eNZ5X+dZMj5x6zPmalqrpIPhDlOOD3/IeC8XKzk+tzxdrt6lV7SUJrs7mgoGRuJmcfB8nzFFU0FaTg8Y+A6ZMzns3RmJcjaP4AEqL5T3yMh3E1X/AHb5ZDUdy4SRRtXRsM5uWJJPt+tqfcbzK+BSMQMYvTWtLlXNm2dsPFXlQRclSPtRyD7SAia2Sm1Aw4rF/raMXFNCs8lWolqrZsevqBZWioAvL0HQg02Cti+BlCYYTr37g==;XldmIVx7S7WpOrY2NbqqdA=="
+secured: "6gYogynZ45aOAJCFijo0NIr44Z4iEd8JlLXbab4oZH0GEfqOaveXVidBfByuFkx/IkCYqUXAcKyqy2vSvTgu5OldLp0ingDoH2aVDtqleFbNGTvi0VuPLGu3A8sxThwStlbfjbY2NHcvziAblNiW/Gt8utQzuDDQUtNovCRXAIwmGrbHYAaO5yMG80tJaekbJm/qBaZHxwQs8qsl448+8Jwp+jmX9Z5q1yGhemmDvG8qKagxphBC7tWJGwfkN92CoDqtMzdznO8BNOo/3/512pMpaZQPE461sePw2t5YV6jZO868WOVbllm9A8K3G6qAqMpTQ053j/DnQvuXo4irwQXfEYpRMayf6Ha34ScDttM=;e+gaCjroXGFAgp8KmB+OsA=="
 ---
 

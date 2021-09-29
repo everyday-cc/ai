@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202109/paravision-enhances-video-f
 webUrl: "https://www.biometricupdate.com/202109/paravision-enhances-video-facial-recognition-with-streaming-container-update"
 type: article
 quality: 51
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "COVID-19: Coming to grips with facial recognition scans part of home isolation experience"
+    excerpt: "Using a location checking app and doing a facial recognition scan were part of a South Australian's daily duties during a home isolation trial. The government is expected to release more details of its pilot home isolation scheme for businesses tomorrow with a long list of companies keen to get onboard."
+    publishedDateTime: 2021-09-28T08:31:00Z
+    webUrl: "https://www.newshub.co.nz/home/new-zealand/2021/09/covid-19-coming-to-grips-with-facial-recognition-scans-part-of-home-isolation-experience.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2021/09/covid-19-coming-to-grips-with-facial-recognition-scans-part-of-home-isolation-experience.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2021/09/covid-19-coming-to-grips-with-facial-recognition-scans-part-of-home-isolation-experience.amp.html"
+    type: article
+    provider:
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 50
+    images:
+      - url: "https://www.newshub.co.nz/home/politics/2021/09/covid-19-christmas-clash-national-s-tantalising-travel-idea-shot-down-by-jacinda-ardern/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1632807622245/Jacinda-Ardern-Judith-Collins-Newshub-1120.jpg"
+        width: 768
+        height: 438
+        isCached: true
   - title: "Paravision brings edge-to-cloud facial recognition to AI digital ID disruption party"
     excerpt: "Paravision CMO Joey Pritikin and President and COO Benji Hutchison joined Biometric Update to discuss what the Converge mega-launch means for the industry."
     publishedDateTime: 2021-09-28T18:02:00Z
@@ -42,7 +58,7 @@ related:
   - title: "Amid Rapid Adoption, Paravision Unveils New Computer Vision Capabilities, Making Face ..."
     excerpt: "Paravision, the U.S.-based leader in mission-critical face recognition and computer vision, today announced an array of new and updated products that make face recognition solutions faster, more accurate and secure,"
     publishedDateTime: 2021-09-28T16:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8"
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8"
     type: article
     provider:
       name: Associated Press

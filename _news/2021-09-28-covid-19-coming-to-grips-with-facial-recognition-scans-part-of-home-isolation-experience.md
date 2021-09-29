@@ -27,59 +27,62 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning helps predict new drug combinations to fight Covid-19"
-    excerpt: "A neural network developed at MIT and elsewhere identifies synergistic drug blends for treating viruses like SARS-CoV-2. The work was carried out primarily within the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Broad Institute of MIT and Harvard."
-    publishedDateTime: 2021-09-24T16:25:00Z
-    webUrl: "https://news.mit.edu/2021/deep-learning-helps-predict-new-drug-combinations-fight-covid-19-0924"
+  - title: "Paravision enhances video facial recognition with Streaming Container update"
+    excerpt: "The Paravision Streaming Container is fully modular and is designed to be deployed alongside Paravision’s other cloud-ready, Docker container-based products."
+    publishedDateTime: 2021-09-28T18:02:00Z
+    webUrl: "https://www.biometricupdate.com/202109/paravision-enhances-video-facial-recognition-with-streaming-container-update"
     type: article
     provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 71
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 51
     images:
-      - url: "https://news.mit.edu/sites/default/files/images/202109/covid-virus_0.jpg"
-        width: 1500
-        height: 1000
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg"
+        width: 2048
+        height: 1366
         isCached: true
-  - title: "From AI to computer vision: How cult.fit stepped up to deliver holistic solutions post Covid-19"
-    excerpt: "Covid-19 locked us in our homes and shut gyms down, amongst other things. But here's a company that stepped up its game to change things for the better, virtually and otherwise."
-    publishedDateTime: 2021-09-28T21:28:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/from-ai-to-computer-vision-how-cult-fit-stepped-up-to-deliver-holistic-solutions-post-covid19-71632820468048.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/from-ai-to-computer-vision-how-cult-fit-stepped-up-to-deliver-holistic-solutions-post-covid19-71632820468048.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/from-ai-to-computer-vision-how-cult-fit-stepped-up-to-deliver-holistic-solutions-post-covid19-71632820468048.html"
+  - title: "Paravision brings edge-to-cloud facial recognition to AI digital ID disruption party"
+    excerpt: "Paravision CMO Joey Pritikin and President and COO Benji Hutchison joined Biometric Update to discuss what the Converge mega-launch means for the industry."
+    publishedDateTime: 2021-09-28T18:02:00Z
+    webUrl: "https://www.biometricupdate.com/202109/paravision-brings-edge-to-cloud-facial-recognition-to-ai-digital-id-disruption-party"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 62
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 49
     images:
-      - url: "https://images.hindustantimes.com/tech/img/2021/09/28/1600x900/Ankit_Gupta_pic_1632822190235_1632822210350.jpg"
-        width: 1600
-        height: 900
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+        width: 2048
+        height: 1365
         isCached: true
-  - title: "E-Commerce Trends Post Covid-19: Artificial Intelligence is Taking Over E-Commerce"
-    excerpt: "The latest applications of big data, artificial intelligence, voice search and machine learning in e-commerce are taking customer experience and satisfaction to a new level post Covid-19."
-    publishedDateTime: 2021-09-27T16:29:00Z
-    webUrl: "https://www.bbntimes.com/companies/e-commerce-trends-post-covid-19-artificial-intelligence-is-taking-over-e-commerce"
+  - title: "Amid Rapid Adoption, Paravision Unveils New Computer Vision Capabilities, Making Face ..."
+    excerpt: "Paravision, the U.S.-based leader in mission-critical face recognition and computer vision, today announced an array of new and updated products that make face recognition solutions faster, more accurate and secure,"
+    publishedDateTime: 2021-09-28T16:02:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 31
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
     images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/E-Commerce_Trends_Post_Covid-19-_Artificial_Intelligence_is_Taking_Over_E-Commerce.jpeg"
-        width: 1619
-        height: 1080
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Deep learning helps predict new drug combinations to fight COVID-19"
-    excerpt: "COVID-19 has caused more than 2.5 million deaths worldwide and the search for new medications and treatments remains impotence. In relation to this, MIT CSAIL researchers are trying to help and for this they have created a deep learning system that helps predict new drug combinations to fight COVID-19."
-    publishedDateTime: 2021-09-27T19:08:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/deep-learning-helps-predict-new-drug-combinations-to-fight-covid-19/article"
+  - title: "Paying with a glance: Moscow’s latest expansion of facial-recognition tech"
+    excerpt: "Facial-recognition cameras are being rolled out across Moscow's metro system as a way to allow passengers to pay for their fare simply by showing their faces, without the need for a ticket or a transit card."
+    publishedDateTime: 2021-09-27T08:57:00Z
+    webUrl: "https://www.france24.com/en/video/20210927-paying-with-a-glance-moscow-s-latest-expansion-of-facial-recognition-tech"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 19
+      name: France 24
+      domain: france24.com
+    quality: 22
+    images:
+      - url: "https://s.france24.com/media/display/7917ec02-1f6e-11ec-a6f6-005056a90284/w:1280/p:16x9/vignette%20facepay.JPG"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "NQvMeoU3KYUUxHNYA849BezgWhqFvV2OPzYndTv7Eqh6koqhf7C2PqZFL2yEG0i0tqyHUFLwIRxh/+0KK88w4QIrhvOecBBlunrM2001P+14VdqCCfv6QGamWTpZCAheNyfsTDdgDVcK9bobO5kODHCzEou5/KGl7NqdzJ8n8Hx51PAy+tD8QdJjEkzvOmQ6z9kz/R2u7GyeAvHM1rcw8mxm6zQSkHdn4c5PiCYrV0T1pIZBSNgiyAmF4TpqbAhQMRuXYnb6BRWxURBwwKVqz8GwN/9s3hhimzmzddMrr5OqlArn/YHL8IdTg4WMp9NeJwAALA+pJrlTOTrsWQ9qJxD8vRJT/mtg2ONowzAY5tsfQa3Rwdm2vuqKhsL7c1VyqwYznTtG/DeLQl/lugwmsUsk/iNlIoO05dFPYHMDhN2kQWKrB99oZrHLNyi9WlRSKyNiBUATBNo1dSJtf6y0c9FnyEAnOMis19+aFRGULpiw5+ea8jKdDk4SHM/csdP1YZpoE16bgrw4oojy6xO7iA==;8twYeWmAvWOsKK4hfeDO0A=="
 ---

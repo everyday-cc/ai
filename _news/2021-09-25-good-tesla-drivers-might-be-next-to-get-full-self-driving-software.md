@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-i
 cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 1280
         height: 563
         isCached: true
+  - title: "Here's What to Know About TSLA's Full Self Driving Mode"
+    excerpt: "But they'll first have to show that they're a sufficiently safe driver by allowing Tesla to analyze data on their driving behavior."
+    publishedDateTime: 2021-09-29T05:00:00Z
+    webUrl: "https://www.realclearmarkets.com/2021/09/29/heres_what_to_know_about_tslas_full_self_driving_mode_796582.html"
+    type: article
+    provider:
+      name: RealClearMarkets
+      domain: realclearmarkets.com
+    quality: 19
 
 secured: "eIjIOlob2H7/arUy/g6E/7Akychqusl8fYNtCS5cyK4SJuwGETbSC35ohwwKZgP0s7nOR1K0QIJwBcBKEeIUCjd9guafkGPQeInFzg4qONdJyFbE9aLLA1srY+xM53DOV7Le8wp3tIpaoKlTzdqdDNfzA8KuIA+f07d4wydZXDRl4sbyLRBz0R9E7esaiV36hmFcXHhqXVN4vG2KA4g9HLy6D421DRiFYi/39hb/zKrwOuNBzOvh3nGCcMtxr6MPxiFTCoTxK9DXlcv/AXSulSTqQIQ2PRZVXCdZNnIovoL5rmCqzYmx5fHgH0Y7MhOrc+/bk/dE+1HIDw5mmkaUy7e+jYHRtJLdhutzh+4Ft+HW+ilpr9nu7Sojx3YKO7uSdEkwnhh+ruVdfp8AAHy/XyiJyCVttTWC71NI52wWmD89BHB5GUWOO+8WY7d9EtQuXX7i8GhZEI2ZwxPbdlDRcMu27DlTMEhlpeaL0qOmZX5iwGqSVasxdRvK8Iiwuw4DczbjExUq6dmNtnVMkhKvvA==;QjISzwpZxi7b7YHlAD6XqQ=="
 ---

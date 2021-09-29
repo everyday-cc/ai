@@ -21,21 +21,14 @@ topics:
 
 related:
   - title: "The 3 Best AI Stocks To Buy for Massive Upside Potential"
-    excerpt: "Many companies have benefited from their application of AI. But these three AI stocks have the most upside potential in the space."
-    publishedDateTime: 2021-09-28T11:28:00Z
-    webUrl: "https://investorplace.com/2021/09/the-3-best-ai-stocks-to-buy-for-massive-upside-potential/"
-    ampWebUrl: "https://investorplace.com/2021/09/the-3-best-ai-stocks-to-buy-for-massive-upside-potential/amp/"
-    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/09/the-3-best-ai-stocks-to-buy-for-massive-upside-potential/amp/"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) has been the focal point of science fiction for"
+    publishedDateTime: 2021-09-28T15:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-to-buy-for-massive-upside-potential-1030830001"
     type: article
     provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 57
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2021/04/ai-stocks-3.jpg"
-        width: 1600
-        height: 900
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Here are top artificial intelligence mergers and acquisitions in September 2021"
     excerpt: "The tech giants are always ready to acquire smaller organizations, concentrated principally in niche and imaginative regions. This article features the top artificial intelligence (AI) mergers and acquisitions in September 2021."
     publishedDateTime: 2021-09-28T10:59:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/28/microsoft-launches-data-governanc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/amp/"
 type: article
 quality: 114
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2020/08/christopher-gower-m_HRfLhgABo-unsplash-scaled.jpg"
         width: 2560
         height: 1704
-        isCached: true
-  - title: "Why Wells Fargo picked both Microsoft Azure and Google Cloud"
-    excerpt: "The bank wanted to diversify its risk and use different cloud-computing services for routine and unpredictable workloads, explains Saul Van Beurden, the head of technology at Wells."
-    publishedDateTime: 2021-09-24T16:18:00Z
-    webUrl: "https://www.americanbanker.com/news/why-wells-fargo-picked-both-microsoft-azure-and-google-cloud"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 54
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/df00aa1/2147483647/strip/true/crop/1400x735+0+65/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F16%2F46%2Fc143e5604932b082b06e60d47617%2Fsaul-van-beurden-2.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "SSE Renewables uses Microsoft AI to improve conservation efforts"
     excerpt: "Wind farm operator SSE Renewables is trialling a new way to count puffins on the Isle of May, Scotland, using artificial intelligence (AI), machine learning and image recognition technology. The project,"

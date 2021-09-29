@@ -359,34 +359,6 @@ related:
         width: 1199
         height: 702
         isCached: true
-  - title: "Pass the Test and Tesla Owners Might Get Full Self-Driving Beta Access"
-    excerpt: "The wait is almost over for some Tesla Inc. customers to get access to driver-assistance technology the company has marketed in controversial ways — as long as they’re on their best behavior."
-    publishedDateTime: 2021-09-24T16:30:00Z
-    webUrl: "https://www.ttnews.com/articles/pass-test-and-tesla-owners-might-get-full-self-driving-beta-access"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 39
-    images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/tesla-steering-wheel-1200_0.jpg?itok=oBtgkHGp"
-        width: 470
-        height: 246
-        isCached: true
-  - title: "San Francisco Takes Issue with Tesla Full Self-Driving Testing"
-    excerpt: "Tesla is getting ready to release Full Self-Driving to the masses, but the San Francisco County Transit Authority (SFCTA) raises some concerns about the software’s safety. In addition to worries about how well it performs,"
-    publishedDateTime: 2021-09-24T16:47:00Z
-    webUrl: "https://www.thedetroitbureau.com/2021/09/san-francisco-takes-issue-with-tesla-full-self-driving-testing/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 39
-    images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2015/06/San-Francisco.jpg"
-        width: 1356
-        height: 750
-        isCached: true
   - title: "Tesla Full Self-Driving goes live in the USA"
     excerpt: "The controversial tech will be made available to drivers who pass a series of safety tests. Electric vehicle specialist Tesla rolled out a new software"
     publishedDateTime: 2021-09-27T02:09:00Z
@@ -465,20 +437,6 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F09%2Ftesla-drivers-ca-request-full-self-driving-beta-despite-safety-concerns-tw.jpg?w=960&cbr=1&q=90&fit=max"
         width: 960
         height: 480
-        isCached: true
-  - title: "Tesla's Public Rollout of Full Self-Driving Beta Has San Francisco Officials Worried"
-    excerpt: "We guess you could say Elon Musk did his job properly because it's hard to imagine there is anyone at this point who doesn't know about Tesla's Full Self-Driving Beta (FSD Beta) Advanced Driver's Assistance System (ADAS)."
-    publishedDateTime: 2021-09-24T15:05:00Z
-    webUrl: "https://www.autoevolution.com/news/tesla-s-public-rollout-of-full-self-driving-beta-has-san-francisco-officials-worried-170187.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 32
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-s-public-rollout-of-full-self-driving-beta-has-san-francisco-officials-worried-170187_1.jpg"
-        width: 1655
-        height: 888
         isCached: true
   - title: "Tesla owners: You can now request the Full Self-Driving beta test but you better be a good driver"
     excerpt: "With Tesla’s Full Self-Driving feature continuing to receive updates, it was announced recently that the company would begin rolling out requests for the FSD beta. According to The Washington Post, this means that drivers can now upgrade their cars to the FSD versions by requesting the feature."

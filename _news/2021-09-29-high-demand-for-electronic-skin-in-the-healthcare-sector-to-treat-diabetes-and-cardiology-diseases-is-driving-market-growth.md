@@ -56,6 +56,20 @@ related:
         width: 417
         height: 250
         isCached: true
+  - title: "Facial Recognition Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2025"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Sep 28, 2021, 23:53 /Comserve / -- The report predicts the global facial recognition market to grow with a CAGR of 17.61% over the forecast period from 2019-2025. The report on the global facial recognition market provides qualitative and quantitative analysis for the period from 2017 to 2025."
+    publishedDateTime: 2021-09-29T08:46:00Z
+    webUrl: "https://menafn.com/1102884214/Facial-Recognition-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2025"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 25
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?430465"
+        width: 413
+        height: 250
+        isCached: true
   - title: "Language Services Market Outlook By Industry Size, Share, Revenue, Regions and Top Key Players Analysis"
     excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Sep 28, 2021, 08:33 /Comserve / -- Language Services Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies,"
     publishedDateTime: 2021-09-28T19:42:00Z
@@ -71,6 +85,6 @@ related:
         height: 250
         isCached: true
 
-secured: "6dn9k7OmOAOzI+MkpDmRYuz8CPJYNpg10DbZ1BpqIdzZFVTxyzrMl9OIYLH7IM01aXh5nsDdzpA/mWPAIdPCOCYweRqCSnnlVYcsrK8HmsOdWq9ufRb8wZ6+d66zCxrEHL69CYcSVW5Hs9T3BL5RzWe/x2Iig8sryvYzqyoJxxp6ZWFdTvE4BmjbX4tr2p4ysMA+KF24WW0wkCryN30NHDcZPbQygRW00zRple5RrBH36xK5DvxUeCipX+AoB0oOZpRxOje6RITec68JV0Scg5dA8zI6bPabhpce12EKnH4UR9FVaIaw+OSYFESKy8VBLUHEnKXMtNIqb00kDrQcszG2zy5o0XJVeDSahdGqQDg=;OcRAW1XajUWBB+x/IouwlA=="
+secured: "msj88fIDDv9VhEPmttvb07mcom0nimSzFupXEeW0xJ1E2xX84cYseXpvmXBxtgqVp5/6l2LXyYiGmJ24dZwG9bKB43/2Sjmzy6gj08ab7Ld1mCRSfpSRUnlxciKADeTyeQ4ZaEh4nm6dN3loZB1jWs5QC+/Mu0jKkG5KFmmuNzWS4wyu0jraoh2Imx3f8fTWueGgdE5dWt/s5A3tcuj0J3p//UGQWTA9lbipj3PmB2pj3uRSD3ao24CGseGBy8WjDy8CiJU0+CV12ggaFRx/LTkcVa6frtsbvVnshIilHAxGD3yMhyGonFul0Xr9gm/XDXCeiQSsuLZKKMvw+tpyIWB4qlphrIPOJ3gT9dRBkIhhzIqX71UMEAPi17hLgKoveWeHnhLuC42TutTgll6LxLwuAEBMtntbdvFEF2MsvEV2x7GXdK/CU0IeM+Q0TXPZsn3TZfC5dU9hNjoBJ/fDhIbQExeKLrVaPDxp8zHr9j2QmsuMPS0Vb5XnkJfTtIsk8qHtRsmnYTjwFUh0OdY0vg==;srMuJ0SpYHdsHchQCLIXCA=="
 ---
 

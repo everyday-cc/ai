@@ -50,20 +50,6 @@ related:
       name: The Next Web
       domain: thenextweb.com
     quality: 63
-  - title: "Samsung in talks with Tesla to make next-gen self-driving chips: Report"
-    excerpt: "Samsung is reportedly in talks with Tesla to make next-generation self-driving chips based on Samsung’s 7-nanometre chip production process. According to the Korean Economic Daily, both the companies have discussed chip design multiple times and have also exchanged chip prototypes for the upcoming Hardware 4 self-driving system from Tesla."
-    publishedDateTime: 2021-09-24T16:41:00Z
-    webUrl: "https://www.imdb.com/news/ni63428658/"
-    type: article
-    provider:
-      name: IMDb
-      domain: imdb.com
-    quality: 39
-    images:
-      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-        width: 1000
-        height: 1000
-        isCached: true
   - title: "Neural network mimics the human brain to solve complex problems"
     excerpt: "Researchers at , USA, have developed a new computer system that mimics the way the human brain works, with an information processing capacity of up to one mil"
     publishedDateTime: 2021-09-27T19:10:00Z

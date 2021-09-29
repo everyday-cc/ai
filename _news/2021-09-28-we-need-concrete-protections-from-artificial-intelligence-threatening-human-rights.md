@@ -20,34 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Thoughts on AI ethics getting concrete and useful"
-    excerpt: "A new paper offers a solid accounting of tools that makers and end users can employ to better ensure algorithms are ethically sourced, developed and deployed."
-    publishedDateTime: 2021-09-24T16:25:00Z
-    webUrl: "https://www.biometricupdate.com/202109/thoughts-on-ai-ethics-getting-concrete-and-useful"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Reports put spotlight on ethics of AI"
-    excerpt: "United Nations, University of Toronto cite ‘worrying developments,’ call for greater oversight, transparency"
-    publishedDateTime: 2021-09-28T19:51:00Z
-    webUrl: "https://www.hrreporter.com/focus-areas/automation-ai/reports-put-spotlight-on-ethics-of-ai/360241"
-    type: article
-    provider:
-      name: Canadian HR Reporter
-      domain: hrreporter.com
-    quality: 54
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/ca/126/0395_637684553973336327.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "We need concrete protections from artificial intelligence threatening human rights"
     excerpt: "Events over the past few years have revealed several human rights violations associated with increasing advances in artificial intelligence (AI)."
     publishedDateTime: 2021-09-27T11:32:00Z

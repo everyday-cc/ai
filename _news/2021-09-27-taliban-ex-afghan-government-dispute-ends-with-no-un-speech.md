@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/article/united-nations-general-assembly-afghani
 webUrl: "https://apnews.com/article/united-nations-general-assembly-afghanistan-united-nations-taliban-90837664228c6cd964432655135e33ea"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "GOP Bill Would Block UN Recognition of Taliban, Impose Sanctions Against Supporters Like Pakistan"
+    excerpt: "Twenty-two Republican senators have introduced legislation designed to block Taliban efforts to win international recognition and imposing sanctions against the group and its supporters – with the government of Pakistan singled out."
+    publishedDateTime: 2021-09-29T08:57:00Z
+    webUrl: "https://www.cnsnews.com/article/international/patrick-goodenough/gop-bill-would-block-un-recognition-taliban-impose"
+    type: article
+    provider:
+      name: CNSNews.com
+      domain: cnsnews.com
+    quality: 28
+    images:
+      - url: "https://cdn.cnsnews.com/styles/article_big/s3/2021-09/GOPbill-taliban1.jpg"
+        width: 700
+        height: 368
+        isCached: true
   - title: "Taliban, ex-Afghan government dispute ends with no UN speech"
     excerpt: "The dispute between Afghanistan’s new Taliban rulers and its former government over who should speak at the United Nations’ annual meeting of world leaders finally has an"
     publishedDateTime: 2021-09-28T02:05:00Z

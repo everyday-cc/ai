@@ -7,7 +7,7 @@ originalUrl: "https://www.genengnews.com/news/artificial-intelligence-system-imp
 webUrl: "https://www.genengnews.com/news/artificial-intelligence-system-improves-breast-cancer-detection/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI of breast ultrasound helps radiologists focus on cancer"
-    excerpt: "An artificial intelligence (AI) algorithm was able to significantly reduce false positives in breast ultrasound, potentially avoiding the need for one out of four biopsies, in a study published online September 24 in Nature Communications."
-    publishedDateTime: 2021-09-24T15:16:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=sup&sub=ult&pag=dis&ItemID=133582"
+  - title: "Improving Breast Cancer Imaging with Artificial Intelligence"
+    excerpt: "A study led by New York University (NYU) researchers created an artificial intelligence tool to improve the accuracy of breast cancer imaging. The computer program was trained to identify patterns among thousands of breast ultrasound images to aid physicians in diagnosing."
+    publishedDateTime: 2021-09-28T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/improving-breast-cancer-imaging-with-artificial-intelligence"
     type: article
     provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 39
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
     images:
-      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_09_24_15_57_9400_2021_09_24_ai_breast_ultrasound_clinical_image_social.jpg"
-        width: 1200
-        height: 630
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-845751048.jpg"
+        width: 690
+        height: 400
         isCached: true
   - title: "AI tool increases radiologists’ accuracy at spotting breast cancer on ultrasound scans by 37%"
     excerpt: "An artificial intelligence tool is helping increase radiologists’ ability to correctly spot breast cancer on ultrasound by 37% while also dropping the number of biopsies and false positives. Researchers hope AI can alleviate these concerns while broadening access."

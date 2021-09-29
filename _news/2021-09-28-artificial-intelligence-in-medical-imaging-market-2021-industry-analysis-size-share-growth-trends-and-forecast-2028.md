@@ -21,35 +21,77 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Vietnam Pharmaceuticals Market to Grow Along With Healthcare Industry until 2026"
-    excerpt: "Advanced medicine development is driving the growth of Vietnam Pharmaceuticals Market in the forecast period 2022 2026 According to TechSci report on Vietnam Pharmaceuticals Market By Drug Type Generic Drugs v s Branded Drugs By Product Type Prescription Drugs v"
-    publishedDateTime: 2021-09-27T09:41:00Z
-    webUrl: "https://www.openpr.com/news/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare"
-    ampWebUrl: "https://www.openpr.com/amp/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare"
+  - title: "Scope of AI, Deep Learning and Neural Network, 2021 Market Research Report"
+    excerpt: "The \"Next Wave of Deep Learning Models & Applications (RNN, CNN, and GaN)\" report has been added to ResearchAndMarkets.com's offering. As digitization progresses across industries, AI is gaining a ubiquitous adoption as more and more business processes are being automated."
+    publishedDateTime: 2021-09-29T09:42:00Z
+    webUrl: "https://menafn.com/1102884604/Scope-of-AI-Deep-Learning-and-Neural-Network-2021-Market-Research-Report"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 54
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 67
     images:
-      - url: "https://cdn.openpr.com/U/9/U927716201_g.jpg"
-        width: 400
-        height: 300
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?430465"
+        width: 413
+        height: 250
         isCached: true
-  - title: "United States Natural Language Processing Markets to 2026: Rapid Innovations in the Healthcare Industry to Give a Healthy Push to Market Growth"
-    excerpt: "The \"United States Natural Language Processing Market, By Component (Solution and Services), By Deployment (On-Premise, Cloud), By"
-    publishedDateTime: 2021-09-28T15:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/united-states-natural-language-processing-markets-to-2026-rapid-innovations-in-the-healthcare-industry-to-give-a-healthy-push-to-market-growth-301386797.html"
+  - title: "Using AI and old reports to understand new medical images"
+    excerpt: "Getting a quick and accurate reading of an X-ray or some other medical images can be vital to a patient's health and might even save a life. Obtaining such an assessment depends on the availability of a skilled radiologist and,"
+    publishedDateTime: 2021-09-27T16:23:00Z
+    webUrl: "https://techxplore.com/news/2021-09-ai-medical-images.html"
+    ampWebUrl: "https://techxplore.com/news/2021-09-ai-medical-images.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-ai-medical-images.amp"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 20
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 57
     images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/using-ai-and-old-repor.jpg"
+        width: 900
+        height: 491
+        isCached: true
+  - title: "Global Machine Learning Artificial intelligence Market 2021 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2027"
+    excerpt: "The earliest projects by MarketQuest.biz titled Global Machine Learning Artificial intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2027 delivers a thorough analysis of the market,"
+    publishedDateTime: 2021-09-28T04:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-artificial-intelligence-market-2021-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2027-2021-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Worldwide Microprocessor and GPU Industry is Expected to Reach $89.3 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"Microprocessor and GPU - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Amid the COVID-19 crisis, the global market for Microprocessor and GPU estimated at US$77."
+    publishedDateTime: 2021-09-27T11:27:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=536873"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 18
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "Global Microprocessor and GPU Market (2020 to 2027) - by Product, GPU Type, Application and Geography - ResearchAndMarkets.com"
+    excerpt: "The Microprocessor and GPU Market is anticipated to grow at the rate of 6.2% CAGR by 2027. The microprocessor is also known as the control processing unit of a computer system that executes arithmetic and logic operations,"
+    publishedDateTime: 2021-09-27T10:47:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=536832"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 11
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "8b+V6DVAAc3VL6+7V2x/Py9BMojqf0CKbWlQrWZbu4G3OjFEuHqv58e9UCty7nEDS1GXnaSq510+dmSb9tYrFavT4N8RxmYkKMUmYm0MroZ8t921osyov7Fg+Y5kA2i5fw6byozbdI0NHkpUYPOBvLNEbvfE+fEmDfVdW3zAmRVeeYo+we3sdaz1LhN31SjaBzWSYBHQNU5AzxnyGV1GOsxQgZQfZX13ptiefoV/a+zVG8EWh+DubRxT8I8PoaADrPVZ+ghyLhZf/B2VOQZQj8sGcBr+6gpCkCa/MNaHlbIc/gtgH2lnifr5Z9Qv01NnRP5ONxdCjzqdyz/CtQM+myzFPj5j7SB0ypRHow3X17A=;8fuhmmaCIqr8jumKK6mW8Q=="

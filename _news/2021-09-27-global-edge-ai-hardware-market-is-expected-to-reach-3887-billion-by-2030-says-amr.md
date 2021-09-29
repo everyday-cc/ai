@@ -52,20 +52,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "The Worldwide Microprocessor and GPU Industry is Expected to Reach $89.3 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The \"Microprocessor and GPU - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Amid the COVID-19 crisis, the global market for Microprocessor and GPU estimated at US$77."
-    publishedDateTime: 2021-09-27T11:27:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=536873"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 18
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "8FwT/IK9oO708q7XJYfjD/nz2q2rYxZ+vyvjhGXSwns0zRmKUbU6i2LyCFZ/tVRfo7weoXnBTpzXCNryIvho3JrZ3REDdGUVdXj5AIjz1C4ZqQg7DRriCdT3sb4OLt0reiDeysLUkqKPQhVgbgjwriLyUVpCA38fpZcELxUZEJ6uYb2J3a9gdnj8M1VW+dYpBqdTZK9snfw6rh+0gbya5QA3sFtB4gdrn6U7RyQLRuwYHEvP3f86hSqD5EGB/4zx5EX743G/6chgMmPAaD4/JsTQL/el4X031tkoxJXoPIrpeIITP/dinUKmZBFtCQXbxRtS4QDCuNh2jdY0te/zpO35GlNpy961TqVNsgoSkAk=;CNE/FvTj3AdGnWj3Bhkfsw=="
 ---

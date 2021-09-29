@@ -1,27 +1,27 @@
 ---
 category: news
 title: "QU colleges hold event on machine learning in medicine"
-excerpt: "College of Medicine and College of Engineering collaborated in organising the first Artificial intelligence in Medicine Students Journal Club titled “Machine learning in medicine.”"
-publishedDateTime: 2021-09-29T06:10:00Z
-originalUrl: "https://thepeninsulaqatar.com/article/29/09/2021/QU-colleges-hold-event-on-machine-learning-in-medicine"
-webUrl: "https://thepeninsulaqatar.com/article/29/09/2021/QU-colleges-hold-event-on-machine-learning-in-medicine"
+excerpt: "College of Medicine and College of Engineering collaborated in organising the first Artificial intelligence in Medicine Students Journal Club titled“Machine learning in medicine.” The virtual event was attended by around 60 students from the QU Health cluster,"
+publishedDateTime: 2021-09-29T08:41:00Z
+originalUrl: "https://menafn.com/1102883901/QU-colleges-hold-event-on-machine-learning-in-medicine"
+webUrl: "https://menafn.com/1102883901/QU-colleges-hold-event-on-machine-learning-in-medicine"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: The Peninsula
-  domain: thepeninsulaqatar.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://thepeninsulaqatar.com/images/front/whatsapp.png"
-    width: 400
-    height: 284
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?430465"
+    width: 413
+    height: 250
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 355
         isCached: true
 
-secured: "PsXH3qpGFEGFfRI168uai0F1D7tWDbA8hz0lsxNj0FYhRdA7G339TkSNRwChUzx4Z2KPIqOeX3ypgx/3rKdOilb68szuiuZ276YhmVEToWzxAohMPXBc2vOT/JO7iYqYy3pPnVFm+Q3mCpyV7btPRZYf/As3J8xIOrd35sbc+FJlup1l4T5GjNm0322XOJWf/nEjAMDRfzGPEljkzwVaMAlChgsqY64WdkRmLzdfAvqQbylenLE4+qn9R5c/C1JUx7l14wU2vznlgxufn3GfEuR00JPN9YYOtvXE0eUV6LkgJGQGQ/Cv+xk6jnhjm+DVKZaMWyb7CWlKHAX8pzjakmO0P5ccjS/K9TWhckdF48Y=;4vCJ8rmb/Rql2DeXHKdj4Q=="
+secured: "bKiQZah/yYDxJ7dGI83RCb8cl3qiZ3RqwB7Py5ifBEq1TVwxIG0oMm4TvPTVDA4qgzUxlVjmOtW1a20iFfZiYBD+gdEzmrNzJyXLbm8eRlpB9H8yBA+hKfToIJZteTG2KFCSX5neDXc6U/duYs/Fpd/nC+5KdlFClubMWqdvd0GaHrrWrmJc1n5IXRxN6J07CZUr1LjHATqA6IQZ/u7Lr6P9C51CyGnc+hPEzCs6ByP4jB/0CBqevKfbu4gGohDwqCK9RSOuvf76ip3mVN9rbO24boUoGbH7tkGicKzwMP4puepX2O65TI6YCqjaLa9g2bCstnQybVxf8Q1NNmBnYt8Zp3Szjvtte2FI6PVEYfo=;Q9wdg7d8gB82H8it+DYXuQ=="
 ---
 

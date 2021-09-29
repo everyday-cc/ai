@@ -2,9 +2,9 @@
 category: news
 title: "Artificial intelligence used in Scotland for life-saving heart operations"
 excerpt: "Artificial intelligence (AI) is being used to help provide life-saving operations for heart patients in what is said to be a Scottish first."
-publishedDateTime: 2021-09-29T07:09:00Z
-originalUrl: "https://www.heraldscotland.com/news/19611850.artificial-intelligence-used-scotland-life-saving-heart-operations/"
-webUrl: "https://www.heraldscotland.com/news/19611850.artificial-intelligence-used-scotland-life-saving-heart-operations/"
+publishedDateTime: 2021-09-29T07:28:00Z
+originalUrl: "https://www.heraldscotland.com/news/19611850.artificial-intelligence-used-scotland-life-saving-heart-operations/?ref=rss"
+webUrl: "https://www.heraldscotland.com/news/19611850.artificial-intelligence-used-scotland-life-saving-heart-operations/?ref=rss"
 type: article
 quality: 36
 heat: 36
@@ -23,6 +23,6 @@ images:
     height: 1621
     isCached: true
 
-secured: "6zAsvlqvr/ex/P2gfukqGxtBymBJ517OG75h/MunedoAEmjISsBYc73rVH314JYatoJbqfuuQrq+AxQGShRCZoxtioLHtM9cJS9OCrSn+w5pA4TWglqV4XXm+He4Va9w7pIylB3ISFjIRHyOQfvq8gaPAfbpyjDcwGljuMjGzpyFhjmjSfuez0/U8/SX3DQRA0BHB7egdICyLYZTYUhicnZKREC6hQ5KB/PieFf6op2EYWO0Qb9I3foQDLTSQU5lOM1kTEt9kBHdZCsBxSsqLS+ixO9Y7OT+IqfTjHT1UQDqQUnb1bJQ0p3qyVcCHlvKCUdIlawh8mlPAyhhm0Yf68vmplT4hLWLdm/tbvHGRy0=;3hrKEXq06qTCm4vMhLxmeA=="
+secured: "n9dwh71VLQXzWCVteSCb6YO9ffRdmeOj9UFn5/yQ0M3j4zDV4XZ66VFOw2l21to6/gjIaAqCoxVdNH/DOZQ64s1jxIqG4r/GlZEMLNfSIj+lpCQxKjDbqvPgn2fR7JB8YFuFyq/J3INvMG/ablLkp+bBIPpxKNGXettf0ObNSSg9EVrw3UEFAryVikmonLlt1NSRiTkMxm+ySvg2kDpGh8x4WzNf1GZkQebRNAUFz/qfFQMiu68001wyECPVkFmg2WZ342Wc6CvmjwKYLZeAYxusx5ujYt+0MJazVRqjhi9N9ojzRw8xYKfXnexMPIHleaMLTh+H/W+8iFcp9eqAPlr0P7sYka/uAAdvRj6djM0=;y5uKbWqlOLtLUo01t9agfg=="
 ---
 

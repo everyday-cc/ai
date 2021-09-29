@@ -42,18 +42,18 @@ related:
         height: 856
         isCached: true
   - title: "Artificial Intelligence company EAIGLE rolls out a new proof of vaccination platform to give U.S. organizations greater health and safety protection"
-    excerpt: "PRNewswire/ - Artificial Intelligence (AI) company EAIGLE Inc., specializing in COVID-19 solution technologies, has"
-    publishedDateTime: 2021-09-28T13:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-company-eaigle-rolls-out-a-new-proof-of-vaccination-platform-to-give-u-s-organizations-greater-health-and-safety-protection-1030827609"
+    excerpt: "PRNewswire/ - Artificial Intelligence (AI) company EAIGLE Inc., specializing in COVID-19 solution technologies, has rolled out a new proof of vaccination platform to provide U.S. organizations with an additional layer of health and safety protection amid the rise of vaccine mandates."
+    publishedDateTime: 2021-09-28T11:42:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-business-technology-health-artificial-intelligence-68784361e9b56b0170f032e0be5490be"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
+      name: Associated Press
+      domain: apnews.com
+    quality: 13
     images:
-      - url: "https://mma.prnewswire.com/media/1636849/EAIGLE_Artificial_Intelligence_company_EAIGLE_rolls_out_a_new_pr.jpg"
-        width: 400
-        height: 267
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "wv82TYmWmd9qlc/Z4Q19w2zITRetP1DsiDJlD7fOxvKZLpH91OqZ3mQuTciB3G88JXyhbRB3nKUPBjWukK/RxgpAGddgypq1HQ+NXLRfgNnJusMxoKleneDMrQw5M7L+hcZ0W0L3qV6ptvSskXxN9q9Op4QmnHEVAj55Ahv9rKCHvFQCJqx1Qx4aritWtXgE1bkqh6jhlYSrOdJfvZHrkEXYWiMaMcTLpSqOtJAgFM/QazqeC6ZbM9q1vTkchHYMU4H1N9pK+Zf2ao1QHyXxUtNDezLd6opRdynk08GdIb3uasgcsQmgeocMhXi3AD6CPLAQxVjAtSVS2/LoeeFFW3O1eD1xsYVYtJbfl4mFS6mGdXyxHN82cwo/X248oRqMydgRAiWN8MvCvP4LYzieoNoKC/AeUTuMTgZs/d0iNzFxgVci/FJa+1FuLtxN/F9sMUirh6EZOBWq3Af2srzNcAa5OL7O82n9LSnWUlZdTJb9jRfhDe5MF4iCQYfUQlUoEKOVSdUj3wo74lTYxRyDOg==;wBoAfkFQENBDKY0rp3SFKw=="

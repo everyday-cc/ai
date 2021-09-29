@@ -9,8 +9,8 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/from-ai-to-computer-vi
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/from-ai-to-computer-vision-how-cult-fit-stepped-up-to-deliver-holistic-solutions-post-covid19-71632820468048.html"
 type: article
 quality: 62
-heat: -1
-published: false
+heat: 82
+published: true
 
 provider:
   name: Hindustan Times
@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning helps predict new drug combinations to fight Covid-19"
-    excerpt: "A neural network developed at MIT and elsewhere identifies synergistic drug blends for treating viruses like SARS-CoV-2. The work was carried out primarily within the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Broad Institute of MIT and Harvard."
-    publishedDateTime: 2021-09-24T16:25:00Z
-    webUrl: "https://news.mit.edu/2021/deep-learning-helps-predict-new-drug-combinations-fight-covid-19-0924"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 71
-    images:
-      - url: "https://news.mit.edu/sites/default/files/images/202109/covid-virus_0.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
-  - title: "COVID-19: Coming to grips with facial recognition scans part of home isolation experience"
-    excerpt: "Using a location checking app and doing a facial recognition scan were part of a South Australian's daily duties during a home isolation trial. The government is expected to release more details of its pilot home isolation scheme for businesses tomorrow with a long list of companies keen to get onboard."
-    publishedDateTime: 2021-09-28T08:31:00Z
-    webUrl: "https://www.newshub.co.nz/home/new-zealand/2021/09/covid-19-coming-to-grips-with-facial-recognition-scans-part-of-home-isolation-experience.html"
-    ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2021/09/covid-19-coming-to-grips-with-facial-recognition-scans-part-of-home-isolation-experience.amp.html"
-    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2021/09/covid-19-coming-to-grips-with-facial-recognition-scans-part-of-home-isolation-experience.amp.html"
-    type: article
-    provider:
-      name: Newshub
-      domain: newshub.co.nz
-    quality: 50
-    images:
-      - url: "https://www.newshub.co.nz/home/politics/2021/09/covid-19-christmas-clash-national-s-tantalising-travel-idea-shot-down-by-jacinda-ardern/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1632807622245/Jacinda-Ardern-Judith-Collins-Newshub-1120.jpg"
-        width: 768
-        height: 438
-        isCached: true
   - title: "E-Commerce Trends Post Covid-19: Artificial Intelligence is Taking Over E-Commerce"
     excerpt: "The latest applications of big data, artificial intelligence, voice search and machine learning in e-commerce are taking customer experience and satisfaction to a new level post Covid-19."
     publishedDateTime: 2021-09-27T16:29:00Z

@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI of breast ultrasound helps radiologists focus on cancer"
-    excerpt: "An artificial intelligence (AI) algorithm was able to significantly reduce false positives in breast ultrasound, potentially avoiding the need for one out of four biopsies, in a study published online September 24 in Nature Communications."
-    publishedDateTime: 2021-09-24T15:16:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=sup&sub=ult&pag=dis&ItemID=133582"
-    type: article
-    provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 39
-    images:
-      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_09_24_15_57_9400_2021_09_24_ai_breast_ultrasound_clinical_image_social.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence System Improves Breast Cancer Detection"
     excerpt: "Researchers develop artificial intelligence (AI) system that achieves radiologist-level accuracy in identifying breast cancer in ultrasound images."
     publishedDateTime: 2021-09-27T12:00:00Z
@@ -51,6 +37,20 @@ related:
       - url: "https://www.genengnews.com/wp-content/uploads/2018/08/June4_2014_21425225_BreastCancerBlackWhiteIllustration_ProteinBreastCancerSpread2311152102.jpg"
         width: 500
         height: 305
+        isCached: true
+  - title: "Improving Breast Cancer Imaging with Artificial Intelligence"
+    excerpt: "A study led by New York University (NYU) researchers created an artificial intelligence tool to improve the accuracy of breast cancer imaging. The computer program was trained to identify patterns among thousands of breast ultrasound images to aid physicians in diagnosing."
+    publishedDateTime: 2021-09-28T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/improving-breast-cancer-imaging-with-artificial-intelligence"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-845751048.jpg"
+        width: 690
+        height: 400
         isCached: true
 
 secured: "CvsVSJ3hX/jZ2eqA1HViQ7mxSYraLxLlBfLSXoaZ4Oo/+wo1NQfpYDyAXSkDWX3nx18S6LNT1fXQqfCOO0Bik2AX7FGv/6715ubtb/YEKRxq8/1FUO5i98L1MgCgOTKC+lxVIiL0wkgc91Gj5v2xVbJBtqYPrOAG8V2apYjIFhNyTLM0FAm6fc45biHCuu/E2GZQpGoQL8Fqhez81yBpfTrV5boEKMhYjkVyOGz4wtzjqdHc0WNFB/MIstjSJiOaQFZ7HIUDPXyniV+KlgPbRjSgVkt3gMCSgtT5L+7Ij0Vs7gCKtDGzxFYKEw8VFdMmrks9CJs14p2fDK6CZQg9PHghSQwkMYMeiBU7NQYg5Un0lCDtbAK7nV7/dmb1grRtu2Em9AWNSr5I2NdGSAG1T/4QKrhmj1vpeuQst4Jxj2eMC3T+NRcSpRTIEDbftgVZVxgITvfDi0eHNgz0/tQKUgMBZnOOlUoqkmzsUc1fmGAj0WaDQX1qjh9Ik5d4oRDdXJvvHmpE4gn0e0NrhNl0JQ==;8fw4u+CVi+BloY7LOjgvKw=="
