@@ -55,6 +55,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Employee Management Platform Leena AI raises $30M In Series B"
+    excerpt: "Leena AI's employee solutions help streamline workflows with its artificially intelligent platform that can answer queries automatically."
+    publishedDateTime: 2021-09-29T05:55:00Z
+    webUrl: "https://analyticsindiamag.com/employee-management-platform-leena-ai-raises-30m-in-series-b/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/AIM-Illustration-3.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
 
 secured: "xXXEPhTv8ZNS0M9lzqzCasPsKpe6omAPZCeG1yEywP27et+/tiiGAMjzNk+uFeaud0+5VlOf9toHKwIMKkXQ5zsbfJn6u3ljwF0i90zJEIy4v2IVq4avclH7G0qYWII7eSo7lX2BUS4xvYkhw8ApkwAOfPjKHNU6tGLWXFQSvIT2TMntRXFRD3324YhM//apVxraT66eN9EqV/c7yhuEgm7kGRl1Rig2M93lzDuJ9hpfst8ooM33yc9hx5CromXzMP4xOttWcBAAztpes1/4NGsjdxLr03BGEmL77jDd2YkC6NqftbqO1kVBnLcpwP0baA8feqmdSPpTZlj6Ele/RzgL/oC0V5GkWkacfMo/Ttc=;yMl4MsxrR/bD1zHxaXqcHw=="
 ---

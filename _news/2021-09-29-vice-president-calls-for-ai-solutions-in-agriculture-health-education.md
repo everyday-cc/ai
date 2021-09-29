@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Vice President calls for AI solutions in agriculture, health, education"
-excerpt: "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to deliver benefits to the people and enhance their quality of life."
-publishedDateTime: 2021-09-29T02:52:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=878108"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=878108"
+excerpt: "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial"
+publishedDateTime: 2021-09-28T20:04:00Z
+originalUrl: "https://menafn.com/1102881265/Vice-President-calls-for-AI-solutions-in-agriculture-health-education"
+webUrl: "https://menafn.com/1102881265/Vice-President-calls-for-AI-solutions-in-agriculture-health-education"
 type: article
 quality: 56
 heat: 96
 published: true
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Natural Language Processing
@@ -20,9 +20,9 @@ topics:
   - AI in Education
 
 images:
-  - url: "http://www.daijiworld.in/images3/daya_270921_fldgs6.jpg"
-    width: 640
-    height: 449
+  - url: "https://menafn.com/updates/pr/2021-09/28/I_c99edimage_story.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -83,6 +83,6 @@ related:
         height: 563
         isCached: true
 
-secured: "fbEApwpWYAk2AXIohh7/+ZgDIH3CfvmAbyAwR7jm8Em4sEIC7GxJ83woeBdMX3xC3HrR8YpAP1xExuolhKHB7HVXB7Emmz+x/aeh7VYyPg/bpMA7A1LflIiJRoZIGJK53CRQ/IuAdNvdV9+QOVVCf5JQkmvGkHJ4dYUusl5lCELuBvtvJJ2q8UgHxR1xBeLD31RoGie9qJlyUlX+tbun58Q9spG/2dJn5RUmzWPly1fz95niAajBIVgEk4rrLLchMobRXLXK/en1xN08QtZyJVmcQ35l4iT3yBZtWg414CP620chVei1yjnQiuVbKw5xeR9JfRk/7VHCtIoAaqLUbJ88CdB4p3DG9d0IQgFUI8k=;FRlVBQzelqkBqAPEIEp3Cg=="
+secured: "DdOFqwuTmrA7ofDEtLYZajLOuPQbFlrk0V0WFwJ4BSGYXitCSFV8cFr4fkh/Hbc3oo6f9Zb5TRRZ7wwA5AF1pqx/uYpuGFb28WMPwfelw5PVnkp3tEYJdT29tXm8YcaXM7x63cou8Ni/j+tOz1051oPPlAzupMMo4YCXdDvCajyjUfHcjsvRnsvEt3ucCS4h4gfduAJSJeE/YoUYbo18/qdMprqhmXzNAVB3aSKNs3RtccAyUgBR4mpgC937swmG90iaMi6OorhaWISygTXP5xnra7g9XyPDz+0Xv+6sEG33oSd9LnQTrX2AVCr0BmNCK9WIukjLQhI6SfS7ZXkS/K3LzAHgwMI+dL6sT0q3+2s=;NloRkRBgkELh7sKMoCvc0Q=="
 ---
 

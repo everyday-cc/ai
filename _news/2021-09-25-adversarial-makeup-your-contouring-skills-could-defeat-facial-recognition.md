@@ -41,22 +41,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Simple make-up tips can help you avoid face recognition software"
-    excerpt: "AI software identifies which areas of your face you should subtly change with makeup to fool facial recognition technology – and it works 98.8 per cent of the time"
-    publishedDateTime: 2021-09-24T11:20:00Z
-    webUrl: "https://www.newscientist.com/article/2291357-simple-make-up-tips-can-help-you-avoid-face-recognition-software/"
-    ampWebUrl: "https://www.newscientist.com/article/2291357-simple-make-up-tips-can-help-you-avoid-face-recognition-software/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2291357-simple-make-up-tips-can-help-you-avoid-face-recognition-software/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 59
-    images:
-      - url: "https://www.newscientist.com/build/images/barrier/barrier-digital.7276f163.png"
-        width: 483
-        height: 400
-        isCached: true
 
 secured: "TZtgTNYFA2ASTl0QdkOO8lO9sCtDpiwnqSGAuZ7n6VNf8wR/cgmHMy4uXShEsT7/CB5Lr5l7gdDr56Ane1JzOPUHsCyMJXFoihIYb3BcPOtwhZWAdTT15hLGRgvNTA2zVyepQCOYbdJ+Itdi2k1kf+mkEmf0pIpK0xdTVl7bQE0f+clxgChrqVHHXGewx+7HtcL2VsvtCw4DIkJS4YJGPJId7Js9VVnstfIzOvdn14JoLyfkUspCcSsC55CK/MgdZzGAd1hUGiO7MiiTL2DIRfOf/W6Q6VMHxhOg1C5xroicZfzmM9bUjr3M41mavaySDSJXgInQMxFfBC90pkXtg/Dttp9y7Bokq6lOPPhf0O3VAuBNYp/ZpYDOpuxLP0IAstmGMOwjQkz07E7anYHZLTaClS+N6i5Nb0GbTkRTLSxPyMYC0Ci8d1nZDrYT1iKa2b4aTEpiU60Amv9JlDGzRg4jKKbKW5/s8gdqeuUbBp8Wyd1wNiXn31olWA8xCPmOQ8MuYkDyBPwQm88IQkhADw==;eLQ3Kc7RgVk/Gc8JFPunKQ=="
 ---

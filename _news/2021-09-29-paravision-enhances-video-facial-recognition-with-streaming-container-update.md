@@ -7,8 +7,8 @@ originalUrl: "https://www.biometricupdate.com/202109/paravision-enhances-video-f
 webUrl: "https://www.biometricupdate.com/202109/paravision-enhances-video-facial-recognition-with-streaming-container-update"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: Biometric Companies
@@ -25,72 +25,48 @@ images:
     isCached: true
 
 related:
-  - title: "Android update teases improved accessibility options for handwriting, facial recognition"
-    excerpt: "Google is launching 13 new Android features this autumn, including new accessibility features, improvements to Waze, and alerts to remind you to look up from the phone screen while walking. The tech giant is launching two new accessibility features to help people with motor and speech impairments,"
-    publishedDateTime: 2021-09-24T12:54:00Z
-    webUrl: "https://www.itpro.co.uk/mobile/google-android/361007/android-accessibility-facial-recognition-handwriting-autumn"
+  - title: "Paravision brings edge-to-cloud facial recognition to AI digital ID disruption party"
+    excerpt: "Paravision CMO Joey Pritikin and President and COO Benji Hutchison joined Biometric Update to discuss what the Converge mega-launch means for the industry."
+    publishedDateTime: 2021-09-28T18:02:00Z
+    webUrl: "https://www.biometricupdate.com/202109/paravision-brings-edge-to-cloud-facial-recognition-to-ai-digital-id-disruption-party"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 62
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 49
     images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1632486148/Google_android_new_features.png"
-        width: 1260
-        height: 710
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+        width: 2048
+        height: 1365
         isCached: true
-  - title: "Worried About Facial Recognition? Big Tech Wants Your Anal Prints Too"
-    excerpt: "Privacy concerns related to the implications of facial recognition have been raised several times but you may not have thought much about a very different part of your body being scanned. Sanjiv Gambhir,"
-    publishedDateTime: 2021-09-27T10:16:00Z
-    webUrl: "https://www.thequint.com/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too"
-    ampWebUrl: "https://www.thequint.com/amp/story/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too"
-    cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too"
+  - title: "Amid Rapid Adoption, Paravision Unveils New Computer Vision Capabilities, Making Face ..."
+    excerpt: "Paravision, the U.S.-based leader in mission-critical face recognition and computer vision, today announced an array of new and updated products that make face recognition solutions faster, more accurate and secure,"
+    publishedDateTime: 2021-09-28T16:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8"
     type: article
     provider:
-      name: The Quint
-      domain: thequint.com
-    quality: 59
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
     images:
-      - url: "https://images.thequint.com/thequint%2F2020-02%2F18813c2f-9015-42ff-b4e4-712fc1e86819%2FiStock_1165098319.jpg"
-        width: 745
-        height: 419
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Absa launches facial recognition"
-    excerpt: "Absa has launched facial recognition in its Android and iOS apps, allowing clients to authenticate certain transactions by scanning their faces. The bank notified clients of the new feature with a pop-up message that appears when you sign in to your Internet banking profile."
-    publishedDateTime: 2021-09-26T15:39:00Z
-    webUrl: "https://mybroadband.co.za/news/security/413610-absa-launches-facial-recognition.html"
-    ampWebUrl: "https://mybroadband.co.za/news/security/413610-absa-launches-facial-recognition.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/security/413610-absa-launches-facial-recognition.html/amp"
+  - title: "Paying with a glance: Moscow’s latest expansion of facial-recognition tech"
+    excerpt: "Facial-recognition cameras are being rolled out across Moscow's metro system as a way to allow passengers to pay for their fare simply by showing their faces, without the need for a ticket or a transit card."
+    publishedDateTime: 2021-09-27T08:57:00Z
+    webUrl: "https://www.france24.com/en/video/20210927-paying-with-a-glance-moscow-s-latest-expansion-of-facial-recognition-tech"
     type: article
     provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
-  - title: "Keystroke tracking, screenshots, and facial recognition: The boss may be watching long after the pandemic ends"
-    excerpt: "Companies are increasingly turning to surveillance software tools as they consider permanent remote work policies."
-    publishedDateTime: 2021-09-24T14:29:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/09/24/remote-work-from-home-surveillance/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 19
+      name: France 24
+      domain: france24.com
+    quality: 22
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-23-2021/t_1f37886c6abf44fcb037e167c31f2efc_name_abril_worksurveil.png&w=1440"
-        width: 1440
-        height: 810
+      - url: "https://s.france24.com/media/display/7917ec02-1f6e-11ec-a6f6-005056a90284/w:1280/p:16x9/vignette%20facepay.JPG"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Keystroke tracking, screenshots, and facial recognition: The boss may be watching long after the pandemic ends"
-    excerpt: "Companies are increasingly turning to surveillance software tools as they consider permanent remote work policies. Some workers say remote-work surveillance has gone too far, calling the tracking systems intrusive,"
-    publishedDateTime: 2021-09-28T13:02:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/keystroke-tracking-screenshots-and-facial-recognition-the-boss-may-be-watching-long-after-the-pandemic-ends/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/keystroke-tracking-screenshots-and-facial-recognition-the-boss-may-be-watching-long-after-the-pandemic-ends/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/keystroke-tracking-screenshots-and-facial-recognition-the-boss-may-be-watching-long-after-the-pandemic-ends/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 19
 
 secured: "L1eMgvg6sFvYbfhVtKCZVNFMB4kvvkDuUaj6XlesoJQv5L9NUwaRNVroCQzk2wVhw7DXdciuda/OskOc97YZa44u7+mdgt+pdkGxHQ77FcsycrqDnF1hjclxm70TfpR42K1EIuT8FfI9V9fNaMffhCyEM0I99GyWdCx/Ty472I4oPHoundvsF3zrZF3VAJjIQSvO0b2uvQ4GUkE4/XPAk9/r8W94ISLyporOfwLlH5mvf82K/YbQU0rtJxIU3CfL/+kgzoEe4xSqwfLU8xetLxQHv7AVO5hMJNFHXo3eiNL+ChW1h35m4fRjOItluh4tRx3oLsWK6sbfRkCnygvooBlNa5ywFZKc2+Nkjf/nXgnwUwZq3qVp5rpof2ewLoW6ysxUnpl25IvlJRND5STlF28i5n6QPnmzqlRTIMEmxCX/jF+hKRS34beDHZsU38PUJXxL0Nu1aZC08vg5mOAORswaP13aO+ey0wdZc4no5JUCojvH6Dy+AObcJeftkGiBa8QOKmQCzwy0Y4XDTJkc5g==;oZpE2qi793tqTSHdSZCK2g=="
 ---

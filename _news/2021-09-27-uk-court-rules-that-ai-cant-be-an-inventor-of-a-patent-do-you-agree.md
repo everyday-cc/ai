@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/artificial-intelligence-cannot-be-a
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/artificial-intelligence-cannot-be-awarded-patent-under-uk-law"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI cannot be the inventor of patents, UK court rules"
-    excerpt: "The UK Court of Appeal has ruled that artificial intelligence (AI) cannot hold ownership of new patents, in a two-to-one majority verdict. The appeal was heard after Stephen Thaler, CEO of Imagination Engines,"
-    publishedDateTime: 2021-09-24T11:21:00Z
-    webUrl: "https://artificialinventor.com/dabus/"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 167
-    images:
-      - url: "https://artificialinventor.com/wp-content/uploads/2020/07/the-new-image-1.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Can AI qualify as an “inventor” for the purposes of patent law?"
     excerpt: "Can Artificial Intelligence qualify as an \"inventor\" for the purposes of patent law? No, says the Court of Appeal"
     publishedDateTime: 2021-09-28T09:52:00Z

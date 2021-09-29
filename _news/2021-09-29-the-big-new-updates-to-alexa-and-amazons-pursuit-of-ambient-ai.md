@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "On Echo Show 15, Alexa will recognize your face thanks to Amazon's Visual ID"
-    excerpt: "The facial recognition feature is designed to recognize you whenever you're in front of the camera, so Alexa can show you personalized content."
-    publishedDateTime: 2021-09-28T17:50:00Z
-    webUrl: "https://www.cnet.com/home/on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazon-visual-id/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazon-visual-id/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazon-visual-id/"
+  - title: "Alexa’s new features will let users personalize the AI to their own needs"
+    excerpt: "Amazon is preparing to roll out a trio of new features that will allow consumers to further personalize their Alexa experience by helping train the Alexa AI using simple tools. In a few months’ time,"
+    publishedDateTime: 2021-09-28T16:45:00Z
+    webUrl: "https://techcrunch.com/2021/09/28/alexas-new-features-will-let-users-personalize-the-a-i-to-their-own-needs/"
+    ampWebUrl: "https://techcrunch.com/2021/09/28/alexas-new-features-will-let-users-personalize-the-a-i-to-their-own-needs/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/28/alexas-new-features-will-let-users-personalize-the-a-i-to-their-own-needs/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 71
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 86
     images:
-      - url: "https://www.cnet.com/a/img/wSUdygEwDttHCwHEvFXE1Cdrr1Y=/1200x630/2021/09/28/4dcf3368-d754-460b-a198-30a291b1c153/screen-shot-2021-09-28-at-9-15-25-am.png"
-        width: 1200
-        height: 630
+      - url: "https://techcrunch.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-28-at-12.16.26-PM.jpg?w=680"
+        width: 680
+        height: 382
         isCached: true
 
 secured: "7g8I75A8KLEx0JXxtMSo54ZAaoMNdlVbD+i3ItqxKl+BY9gIwifLLwLDFrqsiOuOJ/ie/YkXo5mcQIay13KQufUMSvCMLgmolOiMm47Ko5tFuVdTOKSRhQvTG4PhF291ja9tsluFpE1iQdFNztjceOB1ZTJbSt6CqZZfHu7IAknaTmI4Bt0Cmxwa0NiZJxSV5hBb01KQsG+Pm8tDnvDZIjgTeWaC5gqI7FJXI9oAtFSjg26DznmgHGaDC2LF9BR7KEnlIm364uD4VNr3Ki3XfA1eZZ1GLB+xzb1S8StYlKNfkCf8waCTcTIqW0cp1oHWX5d4a6DgUIfx1Ts77iorhmY1s+5Da3OUaJxyqGT5ixboitHx/D5+01gEcE4FQK0uFp4cJhqmWKQ0vCwcGvAzRUWJ+64Xzz4Z6R04oc9dJTS+yeMna1NKBzklNNBMdHzcaX8O6JpALM0lDRUdPB+vDr3teTvst7In8w5Wzk3ypB0vGWDXsdDBnKVwPAcmlxBwXRkw1bb+8YBl+dvKGmDQug==;6Wg26Yd87+rX5GIiXzayEg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10026371/amp/Scienti
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10026371/amp/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Simple make-up tips can help you avoid face recognition software"
-    excerpt: "AI software identifies which areas of your face you should subtly change with makeup to fool facial recognition technology – and it works 98.8 per cent of the time"
-    publishedDateTime: 2021-09-24T11:20:00Z
-    webUrl: "https://www.newscientist.com/article/2291357-simple-make-up-tips-can-help-you-avoid-face-recognition-software/"
-    ampWebUrl: "https://www.newscientist.com/article/2291357-simple-make-up-tips-can-help-you-avoid-face-recognition-software/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2291357-simple-make-up-tips-can-help-you-avoid-face-recognition-software/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 59
-    images:
-      - url: "https://www.newscientist.com/build/images/barrier/barrier-digital.7276f163.png"
-        width: 483
-        height: 400
-        isCached: true
   - title: "Adversarial Makeup: Your Contouring Skills Could Defeat Facial Recognition"
     excerpt: "Facial recognition is everywhere these days. Cloud servers churn through every picture uploaded to social media, phone cameras help put faces to names, and CCTV systems are being used to trace"
     publishedDateTime: 2021-09-25T02:00:00Z

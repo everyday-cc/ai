@@ -1,31 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence company EAIGLE rolls out a new proof of vaccination platform to give U.S. organizations greater health and safety protection"
-excerpt: "PRNewswire/ - Artificial Intelligence (AI) company EAIGLE Inc., specializing in COVID-19 solution technologies, has"
-publishedDateTime: 2021-09-28T11:21:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-company-eaigle-rolls-out-a-new-proof-of-vaccination-platform-to-give-u-s-organizations-greater-health-and-safety-protection-1030827609"
-webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-company-eaigle-rolls-out-a-new-proof-of-vaccination-platform-to-give-u-s-organizations-greater-health-and-safety-protection-1030827609"
+excerpt: "PRNewswire/ - Artificial Intelligence (AI) company EAIGLE Inc., specializing in COVID-19 solution technologies, has rolled out a new proof of vaccination platform to provide U.S. organizations with an additional layer of health and safety protection amid the rise of vaccine mandates."
+publishedDateTime: 2021-09-28T11:42:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-business-technology-health-artificial-intelligence-68784361e9b56b0170f032e0be5490be"
+webUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-business-technology-health-artificial-intelligence-68784361e9b56b0170f032e0be5490be"
 type: article
-quality: 45
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1636849/EAIGLE_Artificial_Intelligence_company_EAIGLE_rolls_out_a_new_pr.jpg"
-    width: 400
-    height: 267
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -60,6 +55,6 @@ related:
         height: 682
         isCached: true
 
-secured: "1/qjR/yHV3YaAdB2QxwNDMxCLzXASRH2QpERVFh85J8q973FV3af/xyhf6N0AoL5uRyjXGZ8O1uNnjAR9nk/UuQDaaPStKFVpRw99rr93xUZEPnlmjywpivxInJcwQ+3lnE56jitq5rInmGy1Ub6kMuVmMcXLegLbGfzqDSN2CGKCe2DNSVjm22p1VOgMCzzmy8umXpLL54rJ/7fZ4d3ojQsfqskoQWMiwt/4iHp2ZGmQEpbKsWfMoVNVod7ZFDZ5ARczzFNl3EOtCUivz360Jfnvyru+I1Ch06LPEDKMxRD3XrfkvFMMMPPovKKId0PtwaZWe5LX7uWX6A/wJNAt8hHd0VFOUpy9WvZ24d7UxlXAxfIysKubbODmRxgXJCbWesqIOdfggmdKMDRJzzdTGiNClJfm1+pd7w+2c6N2/IytKGM+5yhV/MyUA/i4VUvG9F56xAJ4oySLUGtgxOtiLlL4mEXwBSJaaqcW31otWqZsAzOeq1RWlck8H0re+qvm8cKPim/yjSdbx6a+o+xOw==;vFqCmmmpvZ4vzwoauHVW1g=="
+secured: "EkJ4+PkDwIQ3KKcSRdh7QsPCa/JfnYtgWWoKRC7AFRy7SxY81cPGCnTS6d4bBWA4LN3CMcr9R+9yTF9zmYZNATG3TEUuzlViOD8dGllm9tuw69LqilmRvE9Q78LXW9kKP7WE9X/gaSfCA9hS6hfPwDhvii4PfJW+cbc5X8Dqy7E6oWorVLbqhuCMRipb5KUHgM4CWzCJm69t297Mt15lanudqBI8vX5pGvSjBnu00TAGFL+83I0yDPW/f2nVj5u4ig92++3+7WpAIHy5RqJyn/fpAankefWu5/J93PSE+bL8n3J6yvWx93ihNifiLpyP4uHjn1GLVJSqvUsLHBuj/vLs7VRM7FWBKV7rvxTrCcM=;umUwsdiuePPNKaEw9FW6cA=="
 ---
 

@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI cannot be the inventor of patents, UK court rules"
-    excerpt: "The UK Court of Appeal has ruled that artificial intelligence (AI) cannot hold ownership of new patents, in a two-to-one majority verdict. The appeal was heard after Stephen Thaler, CEO of Imagination Engines,"
-    publishedDateTime: 2021-09-24T11:21:00Z
-    webUrl: "https://artificialinventor.com/dabus/"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 167
-    images:
-      - url: "https://artificialinventor.com/wp-content/uploads/2020/07/the-new-image-1.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "UK Court Rules That AI Can’t Be An Inventor Of A Patent, Do You Agree?"
     excerpt: "We are now facing a similar problem with artificial intelligence and patents across the pond in the United Kingdom, where a court has ruled that patents must list humans as inventors, not AI. In 2015,"
     publishedDateTime: 2021-09-26T17:06:00Z

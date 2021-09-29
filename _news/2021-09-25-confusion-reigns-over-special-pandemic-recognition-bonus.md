@@ -57,6 +57,31 @@ related:
         width: 720
         height: 451
         isCached: true
+  - title: "Keystroke tracking, screenshots, and facial recognition: The boss may be watching long after the pandemic ends"
+    excerpt: "Companies are increasingly turning to surveillance software tools as they consider permanent remote work policies."
+    publishedDateTime: 2021-09-24T14:29:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/09/24/remote-work-from-home-surveillance/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 19
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-23-2021/t_1f37886c6abf44fcb037e167c31f2efc_name_abril_worksurveil.png&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Keystroke tracking, screenshots, and facial recognition: The boss may be watching long after the pandemic ends"
+    excerpt: "Companies are increasingly turning to surveillance software tools as they consider permanent remote work policies. Some workers say remote-work surveillance has gone too far, calling the tracking systems intrusive,"
+    publishedDateTime: 2021-09-28T13:02:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/keystroke-tracking-screenshots-and-facial-recognition-the-boss-may-be-watching-long-after-the-pandemic-ends/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/keystroke-tracking-screenshots-and-facial-recognition-the-boss-may-be-watching-long-after-the-pandemic-ends/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/keystroke-tracking-screenshots-and-facial-recognition-the-boss-may-be-watching-long-after-the-pandemic-ends/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
 
 secured: "cnEOAThkto3g3157WIQNluqMPe206RGkt0iDxlWr3tcr6PKS2ZkhlyX3zZuyoIMs8JPEMicHXq5WsNLByVMb91VbG5VER+LA4DPqDd9vufpE2U6oXatpclR/tpg/88ufdKqbTvv6GtZIA+b7SsTWxmY6YQdLrshyxwp3GCBHhQxAxhno3Q8k+HKx2+yPUsIRA0caf5ipMlhixgfWueT88LenS76awEJGukiBCo8hwtKXj/wFxITh+QPs+21WCXbO6c2tPNm7t2vG66JZlg3VozOwEPwIiE7dtu/0jMvt5B2qZy+RHJn2qRrm2KA0NLLJzq2Zor3VM8JR3FCAf8f9fqYWlQOuL5X5TfUysQHfFjQ=;9r1npGXo9avw3WB7WWdTbQ=="
 ---

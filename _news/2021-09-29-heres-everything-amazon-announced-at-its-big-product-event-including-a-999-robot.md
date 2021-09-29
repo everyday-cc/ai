@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Here’s everything Amazon announced at its big product event — including a $999 robot"
-excerpt: "Amazon is continuing its quest to cover our homes and bodies with Amazon devices. At a live-streamed media event on Tuesday, the company showed off a handful of new Amazon-branded products, including an Echo device that hangs on the wall and acts as a digital whiteboard for the home,"
-publishedDateTime: 2021-09-29T03:53:00Z
-originalUrl: "https://www.eastidahonews.com/2021/09/heres-everything-amazon-announced-at-its-big-product-event-including-a-999-robot/"
-webUrl: "https://www.eastidahonews.com/2021/09/heres-everything-amazon-announced-at-its-big-product-event-including-a-999-robot/"
+title: "Here's everything Amazon announced at its big product event — including a $999 robot"
+excerpt: "Amazon is continuing its quest to cover our homes and bodies with Amazon devices.At a livestreamed media event on Tuesday, the company showed off a handful of new Amazon-branded products, including an Echo device that hangs on the wall and acts as a digital whiteboard for the home,"
+publishedDateTime: 2021-09-29T00:49:00Z
+originalUrl: "https://www.kcra.com/article/amazon-product-event-2021/37780898"
+webUrl: "https://www.kcra.com/article/amazon-product-event-2021/37780898"
+ampWebUrl: "https://www.kcra.com/amp/article/amazon-product-event-2021/37780898"
+cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/amazon-product-event-2021/37780898"
 type: article
-quality: 32
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: East Idaho News
-  domain: eastidahonews.com
+  name: KCRA
+  domain: kcra.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://s3-assets.eastidahonews.com/wp-content/uploads/2021/09/28155210/amazon-glow.jpg"
-    width: 900
-    height: 506
+  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/astro-1632878350.jpg?crop=0.979xw:0.980xh;0,0&resize=1200:*"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -42,6 +44,6 @@ related:
         height: 576
         isCached: true
 
-secured: "zdZ4XC8SKbDcOuTagXRllMl/k+iz65cafIhU2J1UWNaFLlOcEBiaeP+Np+NBprBv9sdk0PnoDMQpSEoTQqMjEywIK07a+b8dfC3b6bsBs0HcLmCX6M9Pj25iu8uhIqk8CkPPTbtR2uk+I91rDxGA1C4CB2ow3n/meU01rq37R0ZAG544yvo0DX0EmkAmKPEr9D9Yy4+x4ZPn6XImoLJBiQMOp/eXQMHOb5l5PhL/PheeeYqYRcW6i8L6PLL88wHkxUigZKc62aWUYWEce3QzKFyud+S2y0O5xOWjkG3ZML1z8TvL9Bde6IDpmm98mFW/DDWLDs7XPtURDoVi2l7lsJorCNEDTqxJdN66ThAH3AQ=;NOBtONsXXogOgUcE0Z7dbA=="
+secured: "mkNSbwZgZFp+fOol7ifPvuB2N5DsLAZOL0Gx4xXLTZ7LxRzmOAx7G4ZMFBn+uwj3lmnxfXLnP+cKpQXjQ8Z+AduvdDKf/fGIMQHEq2YACJog277Q0ItiYn15VJZE4tRi2iXvrpvD2KOOjnNqOQ++U4WO6wHzt41PZWht3SnoFF7A2tPlHMPY7fJtJVktlsT+lWCDuoId4PnGxqUjg75YCeHEnsA/ER95oNWxHxHHR9M3x0WRr6BCMpNE+jxBmYvZ/tv1Uz0bK+EAqdBpNZ/XWf8UYB5xboJUVx2077tSAPmC1GmxYaz4XzGD2mYZPDPcsi/eyPjpXyho9QIxUBnfPyZdRlnJHPKTe4XsbLvM2MY=;Xz/ZyoIPP77cBdUEBc8Xnw=="
 ---
 

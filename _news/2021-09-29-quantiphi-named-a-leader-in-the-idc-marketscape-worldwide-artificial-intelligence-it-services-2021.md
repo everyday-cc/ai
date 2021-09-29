@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Quantiphi Named a Leader in the IDC MarketScape Worldwide Artificial Intelligence IT Services, 2021"
-excerpt: "Quantiphi, an AI-first digital engineering company, today announced that it has been named a Leader in the IDC"
+excerpt: "Worldwide Artificial Intelligence IT Services 2021 Vendor Assessment as a leader, an evaluation based on a comprehensive"
 publishedDateTime: 2021-09-29T03:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/09/n23147958/quantiphi-named-a-leader-in-the-idc-marketscape-worldwide-artificial-intelligence-it-services-2021"
-webUrl: "https://www.benzinga.com/pressreleases/21/09/n23147958/quantiphi-named-a-leader-in-the-idc-marketscape-worldwide-artificial-intelligence-it-services-2021"
-ampWebUrl: "https://www.benzinga.com/amp/content/23147958"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23147958"
+originalUrl: "https://www.benzinga.com/pressreleases/21/09/p23147966/quantiphi-named-a-leader-in-the-idc-marketscape-worldwide-artificial-intelligence-it-services-2021"
+webUrl: "https://www.benzinga.com/pressreleases/21/09/p23147966/quantiphi-named-a-leader-in-the-idc-marketscape-worldwide-artificial-intelligence-it-services-2021"
+ampWebUrl: "https://www.benzinga.com/amp/content/23147966"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23147966"
 type: article
 quality: 43
 heat: 43
@@ -25,6 +25,6 @@ images:
     height: 600
     isCached: true
 
-secured: "dY2eVY8GmnV22QuHkvgJlCDrb5/43hUSJUgnIyZR2JVSMdczbblceF4qFZB7udk4QqQ81AS0WIKDEvpdom4o0XV9/fvYoNtvhvk7fB6yZrEMr4e7OKVO9lHCLsUpr/obrvwQvzdb4QZT3W3KaorHvvt1OIV21P1UG8QkqcYTe3g3pt1hE2/ax5b1DREBVVYq055X1Xt5xjsC6ZTbvAtPNP+FwbTHfOnUFN/So3g/Dim0EZacQPq1JpTELCacsfTYRmwhJsggPsDAMPpW/gfHdIZqx7iOchi5qGDc5ZtiwAUZ8CUUIHSjjWpnU/MP1vEjSbecrB31K/F/10vjzLFPnIBuF8xV8WH2npmk/HMlNXA=;TEIIgd1kUgnUEeOt1P/IFA=="
+secured: "syr2pe+M04dfOPNGUaeqq+YMi7SXO+6LnovheMVgsDyVMjsKAnUeCO2z+mi0zM8q0MOFScADv+bP89k4GjzRYLEiVqqcCZuaKz1+l5/j8PPaH4hdJ6gpaxNIX97BvHkeG3i2cwmsWDwDf0BXxLzGTBCZlx2zocqDjRab7NQFBb2yqE3BT84v/OL5tGnGWrtLDty40s2oLI9/Y66Cl1+/R8GzHXLs3WJNULn7A68qf+QtNrZQG+RBvbtdYLDuhZVqUCAeoIugaOQrPNAs+yzibnspae9gMPfd8hkHwOObyO1AJNUrsTVfmbTtO+CSOLXlJITCL5ZO7Dd7ChAWgWfT9zqZq9RoUBhAWpsX4OQ7pro=;v6x9tY2BrcAFrLLTYWBNZw=="
 ---
 

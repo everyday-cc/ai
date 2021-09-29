@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-09-ai-medical-images.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-ai-medical-images.amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: techxplore.com
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Siemens is a global leader in AI when it comes to medical imaging"
-    excerpt: "Siemens has remained a global leader for nearly 20years when it comes to AI patent applications in medical imaging. Let’s see how Siemens healthineers is leveraging AI into a clinical routine in this article."
-    publishedDateTime: 2021-09-24T11:45:00Z
-    webUrl: "https://www.analyticsinsight.net/how-is-siemens-leveraging-ai-into-clinical-routine-to-keep-pace-in-the-market/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Siemens.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Imagining the future of artificial intelligence and its potential impact"
     excerpt: "ABC News' Linsey Davis speaks with former president of Google China, and bestselling author Kai-Fu Lee on his new book, \"AI 2041: Ten Visions for Our Future.\""
     publishedDateTime: 2021-09-28T01:42:00Z

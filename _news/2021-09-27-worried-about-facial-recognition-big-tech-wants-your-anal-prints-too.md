@@ -27,33 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Android update teases improved accessibility options for handwriting, facial recognition"
-    excerpt: "Google is launching 13 new Android features this autumn, including new accessibility features, improvements to Waze, and alerts to remind you to look up from the phone screen while walking. The tech giant is launching two new accessibility features to help people with motor and speech impairments,"
-    publishedDateTime: 2021-09-24T12:54:00Z
-    webUrl: "https://www.itpro.co.uk/mobile/google-android/361007/android-accessibility-facial-recognition-handwriting-autumn"
+  - title: "Absa Launches Facial Recognition Tech in South Africa"
+    excerpt: "Absa, one of South Africa’s largest banks and a pan-African lender, has officially launched facial recognition technology in its Android and iOS apps, which some users will need to utilize to authenticate certain transactions through facial scans."
+    publishedDateTime: 2021-09-27T08:06:00Z
+    webUrl: "https://www.itnewsafrica.com/2021/09/absa-launches-facial-recognition-tech-in-south-africa/"
+    ampWebUrl: "https://www.itnewsafrica.com/2021/09/absa-launches-facial-recognition-tech-in-south-africa/?amp"
+    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/09/absa-launches-facial-recognition-tech-in-south-africa/?amp"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 62
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 59
     images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1632486148/Google_android_new_features.png"
-        width: 1260
-        height: 710
-        isCached: true
-  - title: "Paravision enhances video facial recognition with Streaming Container update"
-    excerpt: "The Paravision Streaming Container is fully modular and is designed to be deployed alongside Paravision’s other cloud-ready, Docker container-based products."
-    publishedDateTime: 2021-09-28T18:02:00Z
-    webUrl: "https://www.biometricupdate.com/202109/paravision-enhances-video-facial-recognition-with-streaming-container-update"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 51
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg"
-        width: 2048
-        height: 1366
+      - url: "https://www.itnewsafrica.com/wp-content/uploads/2021/09/Absa-Facial-Recognition-Tech.jpeg"
+        width: 800
+        height: 520
         isCached: true
   - title: "Absa launches facial recognition"
     excerpt: "Absa has launched facial recognition in its Android and iOS apps, allowing clients to authenticate certain transactions by scanning their faces. The bank notified clients of the new feature with a pop-up message that appears when you sign in to your Internet banking profile."
@@ -66,31 +54,20 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
-  - title: "Keystroke tracking, screenshots, and facial recognition: The boss may be watching long after the pandemic ends"
-    excerpt: "Companies are increasingly turning to surveillance software tools as they consider permanent remote work policies."
-    publishedDateTime: 2021-09-24T14:29:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/09/24/remote-work-from-home-surveillance/"
+  - title: "Victoria launches home quarantine trial using facial recognition tech"
+    excerpt: "The Victorian government has launched a trial of home quarantine in the state for returning residents using facial recognition and geolocation technology, the latest in a number of states to embark on similar pilots."
+    publishedDateTime: 2021-09-28T06:27:00Z
+    webUrl: "https://www.innovationaus.com/victoria-launches-home-quarantine-trial-using-facial-recognition-tech/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 19
+      name: Innovation
+      domain: innovationaus.com
+    quality: 39
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-23-2021/t_1f37886c6abf44fcb037e167c31f2efc_name_abril_worksurveil.png&w=1440"
-        width: 1440
-        height: 810
+      - url: "https://www.innovationaus.com/wp-content/uploads/2020/05/Privacy_683752018_OP.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Keystroke tracking, screenshots, and facial recognition: The boss may be watching long after the pandemic ends"
-    excerpt: "Companies are increasingly turning to surveillance software tools as they consider permanent remote work policies. Some workers say remote-work surveillance has gone too far, calling the tracking systems intrusive,"
-    publishedDateTime: 2021-09-28T13:02:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/keystroke-tracking-screenshots-and-facial-recognition-the-boss-may-be-watching-long-after-the-pandemic-ends/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/keystroke-tracking-screenshots-and-facial-recognition-the-boss-may-be-watching-long-after-the-pandemic-ends/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/keystroke-tracking-screenshots-and-facial-recognition-the-boss-may-be-watching-long-after-the-pandemic-ends/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 19
 
 secured: "iwANG51d8WQPqr9piDKMAp9UcxLFv6h3A2dJf9VKPKiOM0sxIi8gnjjLACreu7b0b0pX7iQtZal/EufSj2WduO/xb3WdICYqobNfdI2FwHWoi7vfzQRKnQE/B5WHQphGK8A5Hal4UCClf0ikcWocEoos62zRK8939O4vbm0nyboSPgahBeCOBfaHLoNQN8jNpGqHo7ON2yZLRDTB3tnk8NwjT3BUNVIl0QRy+VhFTW5FlvO/7erfNU26wjPt34pWbfALWQoLg/Bl+GutH1DFdQ+5ny7bhT/ZGoC4gU1+t1Tk9N85qtwARGUZtIY5juBT3dsrQY3t40xZq0xaY1d/BHTYfASbWdneQUygAvvehT8ahJJpd09nkot+RnJPJCUj0YEsr7d3+pVLp3J6S2/ERW8lMiDrvA7WERSpGc03RoCYfamf2j+PKwStf3HsfRH5eYqSURupuSlXT6VLZWaniV3u8t8iutiTKeuo8Kmla3INmcFQcunZFpSzOXqakGwi86uhKhDk9zN+bFntE2rLrw==;F0dfQk3G2LXJiV2n7sxZeg=="
 ---

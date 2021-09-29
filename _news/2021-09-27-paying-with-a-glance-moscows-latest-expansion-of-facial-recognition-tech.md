@@ -7,7 +7,7 @@ originalUrl: "https://www.france24.com/en/video/20210927-paying-with-a-glance-mo
 webUrl: "https://www.france24.com/en/video/20210927-paying-with-a-glance-moscow-s-latest-expansion-of-facial-recognition-tech"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,48 @@ images:
     isCached: true
 
 related:
-  - title: "JR East scraps plan to identify past offenders with facial recognition camera"
-    excerpt: "In light of the Tokyo 2020 Olympics, major train company JR East upped their security game by installing facial recognition cameras at stations in an attempt to curb possible terrorism attacks. Using their database of images collected from JR East station surveillance cameras,"
-    publishedDateTime: 2021-09-26T21:19:00Z
-    webUrl: "https://japantoday.com/category/national/japanese-train-operator-scraps-plan-to-identify-past-offenders-with-facial-recognition-camera"
+  - title: "Paravision enhances video facial recognition with Streaming Container update"
+    excerpt: "The Paravision Streaming Container is fully modular and is designed to be deployed alongside Paravision’s other cloud-ready, Docker container-based products."
+    publishedDateTime: 2021-09-28T18:02:00Z
+    webUrl: "https://www.biometricupdate.com/202109/paravision-enhances-video-facial-recognition-with-streaming-container-update"
     type: article
     provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 16
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 51
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
+  - title: "Paravision brings edge-to-cloud facial recognition to AI digital ID disruption party"
+    excerpt: "Paravision CMO Joey Pritikin and President and COO Benji Hutchison joined Biometric Update to discuss what the Converge mega-launch means for the industry."
+    publishedDateTime: 2021-09-28T18:02:00Z
+    webUrl: "https://www.biometricupdate.com/202109/paravision-brings-edge-to-cloud-facial-recognition-to-ai-digital-id-disruption-party"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 49
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Amid Rapid Adoption, Paravision Unveils New Computer Vision Capabilities, Making Face ..."
+    excerpt: "Paravision, the U.S.-based leader in mission-critical face recognition and computer vision, today announced an array of new and updated products that make face recognition solutions faster, more accurate and secure,"
+    publishedDateTime: 2021-09-28T16:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "5gsmXan3r8eARgeOcsq+2SfTXHbfpnJtLLxOyrbZElIB1YROzCn+eysVGVaeIAxvtNo8zYEW8ZQjQ+VcLObAb0egcaxtF2IXsDFeW67DtRKDu2Utgp0Vr0fMppUhV0rgQW43CwgoBI5cvUkV3QRI+p7NOiufgJFiGHFTJj/46FFxhG4of1Fi2J+ix2ZHoG3brA0PwfYIBqZX5DJB9ehcBg7tQfaw5AuOvxmDp+d7QJcJAA3S/1kzjwwcP3q0FHQ836PjY4Cy+5Ue6zeYABXEvYM0KUWkC4yMC9wk0tu9vd5xluyTrSdIA+16eyGjPrNFCnv5vunkdnf8+656yyAbu4M4KQhdspw1DxzxoVKhZedXTqiNBKKJprxxbGyFYGDExXxwQgNLl5Oypw/rZVWSDB9WFI3bKG+6KKnSdfhXAtRJaZR/WnmWt2mtJ0LNVX+cvxJhRplsT5l1EHiTLQVt8gT8bY1FMUOPtqrW37Au5jN5o53lPRnjOP5GxFWzQ8SZPm0ZaP970+FkDuYINa1P1g==;VWPXjgHXvXn8TnfqXbrO5g=="
 ---

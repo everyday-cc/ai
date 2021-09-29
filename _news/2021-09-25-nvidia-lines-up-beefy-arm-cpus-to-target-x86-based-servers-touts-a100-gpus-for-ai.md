@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/nvidia-arm-cpus-a100-gpus-x86-based
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-arm-cpus-a100-gpus-x86-based-servers"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/56321/content/small_nvidia_arm_server.jpg"
         width: 708
         height: 400
-        isCached: true
-  - title: "NVIDIA claims ARM’s chips are capable of beating x86 A100 processors"
-    excerpt: "But the servers are always touted to have the absolute edge of high-performance compute then are an area where x86 has typically reigned supreme. The ARM-based A100 server CPUs managed to beat x86 in the niche 3d-Unit workload."
-    publishedDateTime: 2021-09-24T11:19:00Z
-    webUrl: "https://technosports.co.in/2021/09/24/nvidia-claims-arms-chips-are-capable-of-beating-x86-a100-processors/"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 54
-    images:
-      - url: "https://i1.wp.com/technosports.co.in/wp-content/uploads/2021/09/MLP2-Arm-x1280.jpg?fit=1280%2C690&#038;ssl=1"
-        width: 1280
-        height: 690
         isCached: true
 
 secured: "l8FPJi59aD5b2jEfT51gm2YhWLmJHxwUjmYBz+FHqn0bafBWOFRvi39CjrJd8ddRSig+jWgQvMH135uwBGQA5Y85SLiqSlYKi4qgCODZN/esFaG1ihjGZZrShm6owP8p23X9CQcq+HLv4tG4hlyqgdlZk37cR41hYojmo14Br8u/WpUq9P4uZvZSejK2FdOY8jjYWAwXpJYFJ1fmnenrG2aBbAmBw+/vo+3owa4radChOsxkXc3rkq6oJX1912z9wWXUoePFyT8RbuxgAksIxlNderLc4SwmQnZozySsecaq5RMol07iC3TLLjfBpONny/BPxAimRRc9vXgPoyWEs6GFd7nliFscpgx72PHxx7UHIXDX7JxcyY7YA8LvaHrU2yHK7vbi75I+qd3vddo5HVYXrIMaZITDSI9m4ncsx09RYgQNC1aDLwh6AGh6duucgkkl4QMeQVqNYXtSplkaxqjOo6xQ45gzHrlYe5FMYoGzMU/w8r+FMeHKTWyT6c1qdREcs1Y+VPWwdkN7fVw2sw==;ko4DHEQqxmaljJVJZdo4xA=="

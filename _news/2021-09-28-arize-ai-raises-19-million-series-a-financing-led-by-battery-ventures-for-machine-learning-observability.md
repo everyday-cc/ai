@@ -6,7 +6,7 @@ publishedDateTime: 2021-09-28T15:25:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-d02717b99e8aa68228a928142048d770"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-d02717b99e8aa68228a928142048d770"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

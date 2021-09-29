@@ -8,7 +8,7 @@ webUrl: "https://www.govtech.com/accelerategov/news/how-ai-can-help-government-d
 ampWebUrl: "https://www.govtech.com/accelerategov/news/how-ai-can-help-government-deliver-better-outcomes?_amp=true"
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/accelerategov/news/how-ai-can-help-government-deliver-better-outcomes?_amp=true"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 related:
   - title: "How artificial intelligence can help prevent heart disease misdiagnosis"

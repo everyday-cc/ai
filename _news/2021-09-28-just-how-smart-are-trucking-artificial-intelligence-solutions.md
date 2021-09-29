@@ -25,18 +25,18 @@ images:
 
 related:
   - title: "Vice President calls for AI solutions in agriculture, health, education"
-    excerpt: "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to deliver benefits to the people and enhance their quality of life."
-    publishedDateTime: 2021-09-29T02:52:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=878108"
+    excerpt: "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial"
+    publishedDateTime: 2021-09-28T20:04:00Z
+    webUrl: "https://menafn.com/1102881265/Vice-President-calls-for-AI-solutions-in-agriculture-health-education"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 56
     images:
-      - url: "http://www.daijiworld.in/images3/daya_270921_fldgs6.jpg"
-        width: 640
-        height: 449
+      - url: "https://menafn.com/updates/pr/2021-09/28/I_c99edimage_story.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "Vice President Naidu calls for people-centric Artificial Intelligence solutions in agriculture, health, education sectors"
     excerpt: "Vice President Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to deliver benefits to the people and enhance the quality of life."

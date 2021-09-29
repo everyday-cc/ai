@@ -111,22 +111,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Samsung May Make Next-Gen Self-Driving Chips For Tesla In The Future: Report"
-    excerpt: "Samsung is reportedly in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday."
-    publishedDateTime: 2021-09-24T11:19:00Z
-    webUrl: "https://www.news18.com/news/tech/samsung-may-make-next-gen-self-driving-chips-for-tesla-in-the-future-report-4241621.html"
-    ampWebUrl: "https://www.news18.com/amp/news/tech/samsung-may-make-next-gen-self-driving-chips-for-tesla-in-the-future-report-4241621.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/tech/samsung-may-make-next-gen-self-driving-chips-for-tesla-in-the-future-report-4241621.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 73
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/09/samsung-reuters-img-163248230716x9.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Tesla Starts Judging Owners It Charged $10,000 for Self-Driving"
     excerpt: "Tesla Inc. customers to get access to driver-assistance technology the company has marketed in controversial ways -- as long as they’re on their best behavior. Chief Executive O"
     publishedDateTime: 2021-09-24T13:30:00Z

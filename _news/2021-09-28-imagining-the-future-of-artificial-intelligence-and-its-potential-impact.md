@@ -40,20 +40,6 @@ related:
         width: 900
         height: 491
         isCached: true
-  - title: "Siemens is a global leader in AI when it comes to medical imaging"
-    excerpt: "Siemens has remained a global leader for nearly 20years when it comes to AI patent applications in medical imaging. Let’s see how Siemens healthineers is leveraging AI into a clinical routine in this article."
-    publishedDateTime: 2021-09-24T11:45:00Z
-    webUrl: "https://www.analyticsinsight.net/how-is-siemens-leveraging-ai-into-clinical-routine-to-keep-pace-in-the-market/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Siemens.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "SukvCMBRsJWiPmieEfW7Mb1E6eiPcy/nNY7pA7EcOLrgEoeyBqv18Q7EfUTavbjKD3CPzRfZJocFfJbysKxlIfCvrk0Y7khNtBY5F1HhWPt2FbRs4CIrgXFWL8NQKYlCaYWJzxhavCkaKYylPZi+wJsnXeunayWApIfLIKSousZigsltKC4qY3EGZJm9Vk4MDlIEG+zEDXiVRn5HsyDUwq4dg9PnpxT2dgTuf2EnF/rLaaglz6g6G5wNSi6PwPORYXF4HJHB/im25b4a4j35Co1ErO+6AZ1RyGM+reuRmhikSNGy+uPeGKd044mVhXzfjJ/2FcwttvS1Ued1cmJfyFcTKcFriylstVk/JkM3M/kk9/gv7xG1VOed7kViAGtOJjE53aLIKKad6ZO/h576OCNqvMfadzOmWlGg1921EVQiPBZ40FnrM3FdXhTqNyEY3TCQBUMchz2rvwEiM4vJT1+gMntYHfaSaK/r5xDCOOqzylu+eIeUqfY170B8nbf4QIceW+8w6fRIRmdubdHG3Q==;azNk0bJZTTei11A47dIxgQ=="
 ---

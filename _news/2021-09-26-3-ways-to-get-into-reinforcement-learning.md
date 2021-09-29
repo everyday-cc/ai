@@ -1,29 +1,29 @@
 ---
 category: news
 title: "3 ways to get into reinforcement learning"
-excerpt: "There weren’t platforms like Alteryx, Dataiku, SageMaker, or SAS to enable a machine learning proof of concept or manage the end-to-end MLops lifecycles. Reinforcement learning is a teaching ..."
-publishedDateTime: 2021-09-26T10:51:00Z
-originalUrl: "https://www.arnnet.com.au/article/686379/3-ways-get-into-reinforcement-learning/"
-webUrl: "https://www.arnnet.com.au/article/686379/3-ways-get-into-reinforcement-learning/"
+excerpt: "AWS introduced DeepRacer in November 2018 as the “fastest way to get rolling with machine learning.” In December 2020, they had more than 10,000 competitors and a grand prize that included US$10,000 of AWS promotional credits. Don’t let the ..."
+publishedDateTime: 2021-09-26T10:53:00Z
+originalUrl: "https://www.reseller.co.nz/article/686379/3-ways-get-into-reinforcement-learning/?fpid=1"
+webUrl: "https://www.reseller.co.nz/article/686379/3-ways-get-into-reinforcement-learning/?fpid=1"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_m_113932028_learn_-_copy_1.jpg"
+  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_m_113932028_learn_-_copy_1.jpg"
     width: 472
     height: 315
     isCached: true
 
-secured: "61aT4HVuR0pdEzCqX6Gr83VdIF3A//A1gwhEr3Fny3hizTtUqspzqEuyQM3ekfNgKPJl/Uf7O4fRqXHJxRDIjT5JV/zDrqLuUHuJKm9WHUJkG7TLRmlvsvMWFnEhKjHrFBZH8l8MVkH3OxJOaEHYpQTgdaNlHyOE8Atgu8zF/3ZRDmTGiwIbm5A2QhVYSI7NmKoewO0BD9oDYaA3M2V9EkQq3vruiXl6+KJmYMcitrrP1c87qK8rCI16axVw6ip0e3A+10xccdZhmybhpsq9JIqJg5AqT05Lqn/VWCzbOyrkh4DkvUjPZNQYvBMaQ0XXtuGlQLZ1LjUFRWn8j4H0U+R6OHa/bwIBHb8i17dzmt0=;rKBVYFa+VXBsU6Ak0B0q1A=="
+secured: "Xtp8e0S/E5w+G/4B4iCC6J1fqK214yccO6cSHywHrl2DrrlvcPyoj6/2nxCk0T8Zu15PFnGyPmYoykctH01Q71U3+3mYi71uQV+djL3lXPjLKwP/KZSxQ7uO/kw3F8x1HrepiRWVtPfCMPOePLsUpjoS3TW1IUHcq9ja/EqwJnCLHX8ho+wTWMux8yd/4RJDhtQLVhMYElv7yLZme3ElZ+A256EKzjkxx3OB+O6N7ilLvVziM+OLOlOay7f5Qjkb8cHzhQNBY43HQsotf2GQmQ2L5w8rRMnVSR/dTjsSCSD95EcVVQ8KvDGkA/vh0/5tRfqgPnBzGTh2BA46waQNwvVKdYILtUFXO/i9yqgYv5A=;rKhz8Xp+QnoZv62rEOEZQg=="
 ---
 
