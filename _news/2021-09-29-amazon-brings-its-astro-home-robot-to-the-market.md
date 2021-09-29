@@ -197,6 +197,22 @@ related:
         width: 1200
         height: 853
         isCached: true
+  - title: "Amazon's New Home Robot Astro Just Launched. And It Could Be a Nightmare"
+    excerpt: "After the success of Alexa, Amazon built Astro, a moving assistant, but it reportedly works poorly and will follow people around, recording them."
+    publishedDateTime: 2021-09-29T13:26:00Z
+    webUrl: "https://interestingengineering.com/amazons-new-home-robot-astro-just-launched-and-it-could-be-a-nightmare"
+    ampWebUrl: "https://amp.interestingengineering.com/amazons-new-home-robot-astro-just-launched-and-it-could-be-a-nightmare"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/amazons-new-home-robot-astro-just-launched-and-it-could-be-a-nightmare"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 58
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/Z3G8xm8yGm/sizes/astro-1920_resize_md.png"
+        width: 744
+        height: 419
+        isCached: true
   - title: "Amazon Astro AI smart home robot with personality from $1,000"
     excerpt: "The Amazon Astro home robot will be priced at $1,450 but Amazon as part of the Day 1 Editions program is making the Alexa"
     publishedDateTime: 2021-09-29T10:22:00Z
@@ -211,6 +227,22 @@ related:
         width: 700
         height: 461
         isCached: true
+  - title: "Amazon's new robot Astro is deemed a 'disaster that's not ready for release' by its designers"
+    excerpt: "The Alexa-powered household robot was unveiled by the Seattle-based retail giant as an autonomous device that can monitor a person's home while they are not there."
+    publishedDateTime: 2021-09-29T13:48:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10041117/Amazons-new-robot-Astro-deemed-disaster-thats-not-ready-release-designers.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10041117/amp/Amazons-new-robot-Astro-deemed-disaster-thats-not-ready-release-designers.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10041117/amp/Amazons-new-robot-Astro-deemed-disaster-thats-not-ready-release-designers.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 48
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/09/29/14/48547483-0-image-a-25_1632923284642.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Amazon Introduces the Home Robot Astro"
     excerpt: "The American online sales giant Amazon has introduced an autonomous robot that is designed for home use. It's called the Astro, it's about 50 cm high, and it has a camera that makes it possible to make video calls."
     publishedDateTime: 2021-09-29T11:48:00Z
@@ -224,6 +256,20 @@ related:
       - url: "https://www.novinite.com/media/images/2021-09/photo_verybig_211476.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Who wants to say hello to Astro? Amazon’s cool new home robot"
+    excerpt: "Described as \"Alexa on wheels\", Amazon has just announced its newest innovation: A little robotic helper named Astro."
+    publishedDateTime: 2021-09-29T13:07:00Z
+    webUrl: "https://barrie360.com/amazon-astro-home-robot/"
+    type: article
+    provider:
+      name: barrie360
+      domain: barrie360.com
+    quality: 39
+    images:
+      - url: "https://barrie360.com/wp-content/uploads/2021/09/Amazon-Astro.jpg"
+        width: 1000
+        height: 500
         isCached: true
 
 secured: "lt2w/LJ7wTZWCR8n2j4TP6EFTiekXr1IEA4ZaXK8iKdxlg2Cq1/4D21cb0ieUC00yLz5lDSZvwufyYnF2XfMnUAyvzdiVGGYmiiIi5HXOTWdcGFlJoM2UP+f/L5JSCOOYg7GfKFlumTAw4cli8Buyj2rg87zDrfjVM2DBs5A8WMvpBBS6OPw9QQse78/l2i2s675BJU0Uw1I2ShGQxY/CBQipOP0jJNtvgJGjmWwz7S82mosGrXq3K88ejA33nJfeyo5+fIQJbe6d4WfGU2rkt36Qtp4MkcCUNUrZF7sUM+Iwvo3A8rmZirAmH0Rb7fDY2bXQV6vHVKf/22qQbLx8wK7y/PsLlJ1pg0jR6fYG2ErOF7BOELqND6OQ/71e34mdHMnyMudgC5sbkN7xab+VZFuoE7J9Ul1zRv9cIC8gATt65Byp0wXcHiJNr1zXvF4kli5da7iLU0ir8d4fyxS6hqwVfKVeaBPA5XAC+Y4r5GAOZ4/iVJV8BDNStA2HJitMalGRySbK5D36tUecU6DhA==;0pKrncb7elFINDHJt2nnPA=="

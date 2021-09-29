@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence for Edge Devices Market Trends, Industry Growth, Size, Share, Demand and Forecast to 2025"
-    excerpt: "The global Artificial Intelligence for Edge Devices market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 25.7% in the forecast period of 2020 to 2025 and will expected to reach 6131."
-    publishedDateTime: 2021-09-24T19:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-trends-industry-growth-size-share-demand-and-forecast-to-2025-2021-09-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Computer Vision in Healthcare Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2025"
     excerpt: "The report on the global computer vision in healthcare market provides qualitative and quantitative analysis for the period from 2017 to 2025. The report predicts the global computer vision in healthcare market to grow with a CAGR of 45."
     publishedDateTime: 2021-09-28T19:42:00Z

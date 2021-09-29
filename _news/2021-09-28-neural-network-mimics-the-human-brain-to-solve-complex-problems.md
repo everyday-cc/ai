@@ -58,6 +58,34 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "Samsung to “copy paste” the brain onto 3D chips – a precursor to human-like AI?"
+    excerpt: "By borrowing existing brain structures, the tech firm has proposed a method that would \"copy and paste\" a brain's neuron wiring map to 3D chips."
+    publishedDateTime: 2021-09-29T12:30:00Z
+    webUrl: "https://techhq.com/2021/09/samsung-to-copy-paste-the-brain-onto-3d-chips-a-precursor-to-human-like-ai/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 50
+    images:
+      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/09/000_1MF9O7-scaled.jpg"
+        width: 2560
+        height: 1703
+        isCached: true
+  - title: "Samsung has come up with a way to copy the human brain. How will artificial intelligence change the technology of the future?"
+    excerpt: "Monitoring Desk Samsung described the ability to copy the brain At the end of September, the specialists of the Korean company, together with scientists from Harvard University, presented the concept of imitating the human brain using semiconductor chips."
+    publishedDateTime: 2021-09-29T13:34:00Z
+    webUrl: "https://thefrontierpost.com/samsung-has-come-up-with-a-way-to-copy-the-human-brain-how-will-artificial-intelligence-change-the-technology-of-the-future/"
+    type: article
+    provider:
+      name: The Frontier Post
+      domain: thefrontierpost.com
+    quality: 25
+    images:
+      - url: "https://i0.wp.com/thefrontierpost.com/wp-content/uploads/2021/09/Samsung-has-come-up-with.jpg?fit=700%2C600&#038;ssl=1"
+        width: 700
+        height: 600
+        isCached: true
 
 secured: "1xVVhtiKAkP5WBCiWo+eAID7MWCFyyRdqipb7scxirMHgKdyZ4FNdDGQ/QMmOwZsL8oUurHZMK5mem2JaOFP1WG71q73PRnnQcHD8tQ+AP5BAqvy791FDtvflfZ7q1KPP9+gzU6NGOSFbG26nvn3FvPuj76zsVtZNe7IdQzsMfBCw05ED3nfdTZWPYarq6c4/K+45h4ez4xBf5n6WhgNcPxYV1V9MGNWfgrlX/RAN44nfgO7fOQkWYqaNQvn+V44GQZYwVzTy1jf3SOyY1Fw9+2iV/jplZv3eudhOd5EFPXlArsya9ctlT43zZnSo9Nbi9a0Vx5cXN+nl8TW7QoFdwzLwHhU4+bTjlS0i0td/8OKBkHTfCtsu7ytVk8GRwVNs6RQ2nptimsb1zJGvnML+3IvrbHGHwi85jI3as3Bm2Q2uTqK3FviTb1VTDl0Aw84n9Qoi2ALn58Yngu4DweIG1VDle98r1YKjIq5J+2ChZvrPXcMrUe66PGqPKXRh34o4s5YEZpOXOBV9nQojZIczA==;cE4LHIuMLH39RqO9uWPtSw=="
 ---

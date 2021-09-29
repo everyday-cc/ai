@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1102880797/Computer-Vision-in-Healthcare-Market
 webUrl: "https://menafn.com/1102880797/Computer-Vision-in-Healthcare-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2025"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence for Edge Devices Market Trends, Industry Growth, Size, Share, Demand and Forecast to 2025"
-    excerpt: "The global Artificial Intelligence for Edge Devices market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 25.7% in the forecast period of 2020 to 2025 and will expected to reach 6131."
-    publishedDateTime: 2021-09-24T19:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-trends-industry-growth-size-share-demand-and-forecast-to-2025-2021-09-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "High Demand for Electronic Skin in the Healthcare Sector To Treat Diabetes and Cardiology Diseases is Driving Market Growth"
     excerpt: "The global electronic skin market is expected to reach a market size of USD 20.02 Billion in 2027 and register a robust CAGR over the forecast period, according to the latest report by Reports and Data."
     publishedDateTime: 2021-09-29T07:42:00Z

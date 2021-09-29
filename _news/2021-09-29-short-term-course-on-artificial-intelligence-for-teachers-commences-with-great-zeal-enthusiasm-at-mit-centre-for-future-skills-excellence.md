@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Short Term Course on Artificial Intelligence for teachers commences with great zeal & enthusiasm at MIT Centre for future skills excellence"
-excerpt: "MIT Centre for Future Skills Excellence (MIT FuSE) and MIT School of Education & Research - MIT Art, Design and Technology University, continues with its endeavour to train school teachers"
-publishedDateTime: 2021-09-29T07:00:00Z
-originalUrl: "https://www.business-standard.com/content/press-releases-ani/short-term-course-on-artificial-intelligence-for-teachers-commences-with-great-zeal-enthusiasm-at-mit-centre-for-future-skills-excellence-121092900450_1.html"
-webUrl: "https://www.business-standard.com/content/press-releases-ani/short-term-course-on-artificial-intelligence-for-teachers-commences-with-great-zeal-enthusiasm-at-mit-centre-for-future-skills-excellence-121092900450_1.html"
-ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/short-term-course-on-artificial-intelligence-for-teachers-commences-with-great-zeal-enthusiasm-at-mit-centre-for-future-skills-excellence-121092900450_1.html"
-cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/short-term-course-on-artificial-intelligence-for-teachers-commences-with-great-zeal-enthusiasm-at-mit-centre-for-future-skills-excellence-121092900450_1.html"
+title: "Short Term Course on Artificial Intelligence for Teachers commences with great zeal & enthusiasm at MIT Centre for Future Skills Excellence"
+excerpt: "MIT Centre for Future Skills Excellence (MIT FuSE) and MIT School of Education & Research - MIT Art, Design and Technology University, continues with its endeavour to train school teachers on Artificial Intelligence in Education with its exclusive Short Term Course on Artificial Intelligence for teachers."
+publishedDateTime: 2021-09-29T08:03:00Z
+originalUrl: "https://cloud-computing.tmcnet.com/news/2021/09/29/9458565.htm"
+webUrl: "https://cloud-computing.tmcnet.com/news/2021/09/29/9458565.htm"
 type: article
-quality: 23
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/29/full/20210929115137.jpg"
-    width: 600
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1638403/STC_Inaugural.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -41,6 +39,6 @@ related:
         height: 420
         isCached: true
 
-secured: "WcUlKtYEmlf/SVM3ta24rzhQ/6Q3uC5zZNymcDUbzgkAsPk3+T6goTd6xpbacP/IcRIc+G/kr5NP20YXFy9bxxO1mkJ8K6cvDs/rMWGmXjGEOgrzlv+rqVGu3avWJ40kmiCk1XT4s3VO5ePLHFjK6bA4mbTqf2TrqHT+0S3Vg3D4otvM7/7I7Od2rzCoQSx33EvgrGZCDV7xDQxuM10RPb2PG98pvwLY3MG8dFN1BCecNkGoF1H6KT9cmgD1P8TkArVhfBjgQptoB9VUWC0J+7zw2KRtC2tf6McwLuh5KMSrkzzhKEBQXAbyCNXCLJ/sk2xaE80bKruz/xV2ikGgySQjYQZkhRS7pJp4s77NBhuWbzQC1/XWhUIpsMrKds88uLt7geN/iiZlZY0MtSxQDLG+tJSHF91VHiGQsL+avh6ereK8IrjObnq1Wp1+AyJo3Eg+s/PnabAIvXIscEI1SB0N9p65oKwNEaZED+1bPxQSAuhW9nO5B5RPPiP0PwNWJxjzDwqyn1yhHPPXkgzokQ==;77aIXUm2I0R0iqgplYJarQ=="
+secured: "2VEqGnj65EJrOPGIpEDQbQienzjKCjVJizx3eCko5Tp+NUMn3Fd6KUSDnazVQa5c2xiKpIDAvnKCdh9xEHRPTRB9YVRAs89IO2VcAmpHNjQke7jUnLmCzUqpl6mHXr5NptiQpjnBZFz2qUivHP5wvNeAbprsci4AvciIn0D0GIZGpISjTrwCrXp2mfkwLK0Y4Mxj2y9bPH9YD03inR2x3w7IxDXXm7WvyXpfLU7Lt1S7Uz+b+oYUiH2cLFrjoIvu4DZZ8iHc0BttHUEMBkFtGp9M18Y+1ilfv310SZR3u5A8rAHR8Gx+n0dN6b6ehZs6weG0LmHOJQX/FUaF8uGMtkKC/UBnf1Ob6oDDx5nshos=;5YRYicnVSRyGzXbzRjcWCw=="
 ---
 

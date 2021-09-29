@@ -43,17 +43,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 51
-  - title: "Artificial Intelligence in Education Market Recent Trends, Growth and High Demand During Forecast by 2030"
-    excerpt: "Introduction. Education is one of the fastest growing industry verticals adopting artificial intelligence. This is due to the g"
-    publishedDateTime: 2021-09-24T19:29:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-education-market-recent-trends-growth-and-high-demand-during-forecast-by-2030/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-education-market-recent-trends-growth-and-high-demand-during-forecast-by-2030/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-education-market-recent-trends-growth-and-high-demand-during-forecast-by-2030/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 37
   - title: "Voice Recognition for Smartphones Market to Witness Huge Growth by 2027 | Apple, Google, Microsoft"
     excerpt: "The latest Voice Recognition for Smartphones market study offers an all inclusive analysis of the major strategies corporate models and market shares of the most noticeable players in this market The study offers a thorough analysis of the key persuading"
     publishedDateTime: 2021-09-28T09:04:00Z

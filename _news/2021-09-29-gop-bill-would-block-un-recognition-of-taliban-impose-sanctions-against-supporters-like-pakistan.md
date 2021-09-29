@@ -3,11 +3,11 @@ category: news
 title: "GOP Bill Would Block UN Recognition of Taliban, Impose Sanctions Against Supporters Like Pakistan"
 excerpt: "Twenty-two Republican senators have introduced legislation designed to block Taliban efforts to win international recognition and imposing sanctions against the group and its supporters – with the government of Pakistan singled out."
 publishedDateTime: 2021-09-29T08:57:00Z
-originalUrl: "https://www.cnsnews.com/index.php/article/international/patrick-goodenough/gop-bill-would-block-un-recognition-taliban-impose"
-webUrl: "https://www.cnsnews.com/index.php/article/international/patrick-goodenough/gop-bill-would-block-un-recognition-taliban-impose"
+originalUrl: "https://www.cnsnews.com/article/international/patrick-goodenough/gop-bill-would-block-un-recognition-taliban-impose"
+webUrl: "https://www.cnsnews.com/article/international/patrick-goodenough/gop-bill-would-block-un-recognition-taliban-impose"
 type: article
-quality: 28
-heat: 28
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -15,9 +15,8 @@ provider:
   domain: cnsnews.com
 
 topics:
-  - Computer Vision
-  - AI
   - Natural Language Processing
+  - AI
 
 images:
   - url: "https://cdn.cnsnews.com/styles/article_big/s3/2021-09/GOPbill-taliban1.jpg"
@@ -69,6 +68,6 @@ related:
         height: 675
         isCached: true
 
-secured: "o3wsfQbS/GXEUz3g7SIXr0GRHyO11mq40cgEMB/yxpiwnlxUOD9r//AGapqhamJ79ru5qQBiznF8RWMTrTVsU60JBDDFxoBRgV3h4OaZCCkZPRUP9D66Y8lqQkeSufvi7QgRwEOgHA4fD1Nk1ZtHEXb4IiyEIOOOdifIkCMDTePTv5CvGq5hspXyqNYw8tCHfTqMHh/vOinShfLPPCv99lqcdafsHhG7iL1raObq0fxee0/bJlcWaOOpkWsSpxjGjPqGgpoH7Dmw/+TZRGghqLoKPVPQrXmLaZVPrgJWICZyJtsUIaSwV0vosyB2cAOqqKc5u4bHrgetu+qG7uZXDKRZ6XaqvCEZ2kqcrih86zM=;QaZi9PIMJiLEAcR66jKzsA=="
+secured: "Z4qW3o0KxdTYa60QFwJgbUJR9lwxea4Bz2REF4/t4trzbJMwcurGSCwn2ot/BDX89WfFWoONiRI575WnCX4Qd9Nq46HHfXjtn5wfFvQvTyXpCgzX1skB+hRU4HYQhmpEM6qVy6rKk/fbHUBtZ65xeULU5omCVGeaYoQoKyIfHetjvTsDxVSqRsEo+PqDa1YuOazH3BjzQxJw4w2HLnf1/NQPcLt7Ayvz7u6N7vISMoHgpToCfEy0Xob4TMHimFQIyLcqzy3SnnUOj1ymTMOnOGE0hLw/9rWPX6Dw9eTeGZKeBkG8FKRtKu5G80wSBSBX2l75Ua6gMDzbKzwIcyzjXjB9yziZWHvUqGCSwkWwW8A=;jDhMJNerdYTJAgjGj55LYw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/on-echo-show-15-alexa-will-reco
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazon-visual-id/"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 715
         height: 402
         isCached: true
+  - title: "Amazon brings offline voice recognition to Alexa devices"
+    excerpt: "Amazon brings offline voice recognition, shares details on the privacy features coming to the latest Alexa devices, the company announced a slew of connected devices including Echo Show 15, a new household robot Astro,"
+    publishedDateTime: 2021-09-29T12:39:00Z
+    webUrl: "https://www.bgr.in/news/amazon-brings-offline-voice-recognition-to-alexa-devices-hardware-event-2021-astro-echo-show-15-1011217/"
+    ampWebUrl: "https://www.bgr.in/news/amazon-brings-offline-voice-recognition-to-alexa-devices-hardware-event-2021-astro-echo-show-15-1011217/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/amazon-brings-offline-voice-recognition-to-alexa-devices-hardware-event-2021-astro-echo-show-15-1011217/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: www.bgr.in
+    quality: 44
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2021/09/Amazon-Alexa-offline.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Some Amazon Echo Devices Will Get Offline Alexa Voice Recognition Soon"
     excerpt: "Amazon launched a bunch of new connected devices at its Sep 28 event. The company also said it is bringing some new privacy-related features to Alexa."
     publishedDateTime: 2021-09-29T11:50:00Z
@@ -64,16 +80,19 @@ related:
         height: 1080
         isCached: true
   - title: "Amazon adds offline voice recognition to Alexa devices"
-    excerpt: "Amazon has announced a slew of new connected devices and with those come some new Alexa features, including the new privacy feature."
-    publishedDateTime: 2021-09-29T08:11:00Z
-    webUrl: "https://www.sify.com/news/amazon-adds-offline-voice-recognition-to-alexa-devices-news-education-vj3ilBjfhfefi.html"
-    ampWebUrl: "https://www.sify.com/news/amazon-adds-offline-voice-recognition-to-alexa-devices-news-education-vj3ilBjfhfefi.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/amazon-adds-offline-voice-recognition-to-alexa-devices-news-education-vj3ilBjfhfefi.html"
+    excerpt: "Amazon has announced a slew of new connected devices and with those come some new Alexa features, including the new privacy feature. Soon,"
+    publishedDateTime: 2021-09-29T08:17:00Z
+    webUrl: "https://telanganatoday.com/amazon-adds-offline-voice-recognition-to-alexa-devices"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
+      name: Telangana Today
+      domain: telanganatoday.com
     quality: 24
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2021/09/Amazon-Alexa.jpg"
+        width: 680
+        height: 370
+        isCached: true
 
 secured: "hkcAmURltYmv+0VWfiRKvjHieGbDmSWoBok89SlcD0S2Z9rU8rcLBlFtF52VRj1UgCYpyEychLxFqlESnfjB7N+6N5R7jHarS12Xxp0t2s+RweyH79Uf0dR8ja0Se+YEXmRUqiPU4VJjVUHPmfHPwt+uVVylQcZTY9SzucVZXp6HZEIU+3RQajPPTbl0jTkXNwk3xv0/ewg5VGXhaETVCNjCot2b1EDxzy4rO2yDt/S1GxWeWgPiOUlN/ZiidKTfraBkqEuk/XzqZUMcMOWwjCNcBl6GlkG1SfXUjSxJiLbfyQPBOWwcQ6roTvpqYoQWQW6YKEJfGthhrJieUUBUum5HDbRh2yiJlnj578hKya4=;b3K9hYMjjW/6sd43LhfYMg=="
 ---

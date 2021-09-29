@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Amazon adds offline voice recognition to Alexa devices"
-excerpt: "Amazon has announced a slew of new connected devices and with those come some new Alexa features, including the new privacy feature."
-publishedDateTime: 2021-09-29T08:11:00Z
-originalUrl: "https://www.sify.com/news/amazon-adds-offline-voice-recognition-to-alexa-devices-news-education-vj3ilBjfhfefi.html"
-webUrl: "https://www.sify.com/news/amazon-adds-offline-voice-recognition-to-alexa-devices-news-education-vj3ilBjfhfefi.html"
-ampWebUrl: "https://www.sify.com/news/amazon-adds-offline-voice-recognition-to-alexa-devices-news-education-vj3ilBjfhfefi.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/amazon-adds-offline-voice-recognition-to-alexa-devices-news-education-vj3ilBjfhfefi.html"
+excerpt: "Amazon has announced a slew of new connected devices and with those come some new Alexa features, including the new privacy feature. Soon,"
+publishedDateTime: 2021-09-29T08:17:00Z
+originalUrl: "https://telanganatoday.com/amazon-adds-offline-voice-recognition-to-alexa-devices"
+webUrl: "https://telanganatoday.com/amazon-adds-offline-voice-recognition-to-alexa-devices"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Telangana Today
+  domain: telanganatoday.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://cdn.telanganatoday.com/wp-content/uploads/2021/09/Amazon-Alexa.jpg"
+    width: 680
+    height: 370
+    isCached: true
 
 related:
   - title: "On Echo Show 15, Alexa will recognize your face thanks to Amazon's Visual ID"
@@ -53,6 +57,22 @@ related:
         width: 715
         height: 402
         isCached: true
+  - title: "Amazon brings offline voice recognition to Alexa devices"
+    excerpt: "Amazon brings offline voice recognition, shares details on the privacy features coming to the latest Alexa devices, the company announced a slew of connected devices including Echo Show 15, a new household robot Astro,"
+    publishedDateTime: 2021-09-29T12:39:00Z
+    webUrl: "https://www.bgr.in/news/amazon-brings-offline-voice-recognition-to-alexa-devices-hardware-event-2021-astro-echo-show-15-1011217/"
+    ampWebUrl: "https://www.bgr.in/news/amazon-brings-offline-voice-recognition-to-alexa-devices-hardware-event-2021-astro-echo-show-15-1011217/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/amazon-brings-offline-voice-recognition-to-alexa-devices-hardware-event-2021-astro-echo-show-15-1011217/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: www.bgr.in
+    quality: 44
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2021/09/Amazon-Alexa-offline.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Some Amazon Echo Devices Will Get Offline Alexa Voice Recognition Soon"
     excerpt: "Amazon launched a bunch of new connected devices at its Sep 28 event. The company also said it is bringing some new privacy-related features to Alexa."
     publishedDateTime: 2021-09-29T11:50:00Z
@@ -70,6 +90,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "t3j7WlPlgr5bh9Bvvt50J4vs7eoiKlFvpvyXWNFnHgn7xIGoAGCgXTTenp6a/h7JxTP8Av6Hyn8OUOZocwKxei+8wrRIoW6tQuHboMC2evuHOYXMOsmDaOlQZPYlv7TCgiwDEL+x+WdPr0TpjW7PviJhEcHrD2+93giRx1XhxoZDxONyUmkvSlIXDN2hfoZ1jKM/sQEFPBJjl77dlH1V/G3wCraj725pZ29mzgZPdmbefnmZ8KKFxQNGitalR23Ne4D/ZQLfWXC1J4TNleVSePMmjeXND7INFVopAEgNQcw950ly0TiBUyW0TfnPFx4ry6tnruLmih70/IL8EhWL3wJZyGxfAj1JLVsaQcTaDcI=;8+mOEergDe7GDM8/ZH9Y7g=="
+secured: "kXVwDXprPWdqle0cCRZ1B51TBKDguere00ZHtHoU9bi6euzwsOFsWdGpzX+I/9EkGwNcnGPUrucrH2Cvj6NPsE6q7iuC1ULlm2CWdNoge7LtLFsRz9pnbOguKfWhaJbFlsvnm9YM/1Teloc8C5SVvWDD0mIpD5o+KAInU38nq4lJEkk2U/rGcl/wkRvrgmTadi9L6/a4Yolxg511IcCiDgPHdIHlYknue3o6XqDuc+3WuRFH3TugdF+FM7hWks7Lix+Q0pxX2bIgJeGliEaRMsntNLrGXz9rDju1EdltagjjStNnb1GXINH+76OiqIxJIOc+JFl90aK5lgs1xE8dZ/An/kAQIJm3JvhYj579yW8=;PWinlIj1QuF8dYPJezjL0Q=="
 ---
 

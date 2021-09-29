@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/edge-compu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/27/edge-computings-applications-in-autonomous-driving-and-business-at-large/amp/"
 type: article
 quality: 73
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "AMD Announces Ambitious Goal to Increase Energy Efficiency of Processors Running AI Training and High Performance Computing Applications 30x by 2025"
+    excerpt: "AMD Announces Ambitious Goal to Increase Energy Efficiency of Processors Running AI Training and High Performance Computing Applications 30x by 2025"
+    publishedDateTime: 2021-09-29T13:03:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/09/29/amd-announces-ambitious-goal-to-increase-energy-efficiency-of-processors-running"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 0
 
 secured: "3j4WIAn18/iV9sg/a9Jejjy1Ai9LAHbbRdBZj72x3rCqwbMgu43/19Y6C6lsJx5X1ActmXtNCWqdqvnVEApUJUtVWs9WHmlJpWE+FatSOWn65VZw9wkRyLYuisHRUqAo0Lt205gPDlScjLP0ZwRoED/mokhazGhRRuTldBCW/mwySq7CidUQEIgqtFVXwqD/c73PPEjHIUDwT4NXOzcgusz34OST3/ZLdctBlzHRBbyy7VhjiUc/awzIK/eBYuazwML1DqRWHdL6e2MkcCFP/S9fwweRRklhXM8yGh+f0NpYuVvylyhHc8pjj9NmE91xUa0T+l0H6K9BhPvyBpr+DUYPYqjSgd9KM7DNMpg1mGMF3OcngweMwsromaeVzgV0O8m+f/+RKWn9NxEkRLs6GH00jBrY1vKyEXIZvky6smoISa79XKm+xBpOSSvTbxyNLaWNWUGIIJOV+SBI2acBQvIpx8mMnakhlSNMgtjGD0g4qtU1Bp9swlhIpIQICUwf8LqM/A3ct9HMDPz9zC5Oxg==;Joo62Ac57QZceZuC4uacQg=="
 ---

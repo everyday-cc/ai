@@ -40,7 +40,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 43
+    quality: 45
     images:
       - url: "https://mma.prnewswire.com/media/1636849/EAIGLE_Artificial_Intelligence_company_EAIGLE_rolls_out_a_new_pr.jpg"
         width: 400

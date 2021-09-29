@@ -9,7 +9,7 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/california-makes-zeroemission-sel
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/california-makes-zeroemission-selfdriving-vehicles-mandatory-by-2030-1632549035227"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Enlisting the power of AI to fight California wildfires"
+    excerpt: "For the past decade in Los Angeles and the State of California, the question is not if there will be wildfires—but rather when and where they will sprout up and how to protect people from these threats."
+    publishedDateTime: 2021-09-29T13:09:00Z
+    webUrl: "https://techxplore.com/news/2021-09-power-ai-california-wildfires.html"
+    ampWebUrl: "https://techxplore.com/news/2021-09-power-ai-california-wildfires.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-power-ai-california-wildfires.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/enlisting-the-power-of.jpg"
+        width: 1199
+        height: 601
+        isCached: true
   - title: "California Says Self-Driving Vehicles Must Be Zero Emission"
     excerpt: "Looking to the future, the state will require autonomous vehicles to be all-electric by 2030. ALEXANDRIA, Va.—California Gov. Gavin Newsom has signed legislation that mandates all light-duty autonomous vehicles in the state to produce zero emissions,"
     publishedDateTime: 2021-09-28T00:00:00Z

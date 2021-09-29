@@ -385,20 +385,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Tesla Eyes Samsung to Produce Its Next-Generation Self-Driving Auto Chips"
-    excerpt: "Tesla is in talks with Samsung to make its HW 4.0 chips based on the Korean tech giant's 7-nanometre chip production process. Samsung is expected to win the Tesla new chip deal over its competitor, the semiconductor company TSMC."
-    publishedDateTime: 2021-09-24T20:04:00Z
-    webUrl: "https://www.autoevolution.com/news/tesla-eyes-samsung-to-produce-its-next-generation-self-driving-auto-chips-170200.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 38
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-eyes-samsung-to-produce-its-next-generation-self-driving-auto-chips-170200_1.jpg"
-        width: 1240
-        height: 620
-        isCached: true
   - title: "Tesla to outsource its self-driving chip to Samsung Electronics"
     excerpt: "It is reported that Tesla has decided to outsource its self-driving chip manufacturing to Samsung Electronics. According to the industry on the 24th, Samsung Electronics is reportedly likely to win orders for manufacturing of the HW 4."
     publishedDateTime: 2021-09-27T05:16:00Z

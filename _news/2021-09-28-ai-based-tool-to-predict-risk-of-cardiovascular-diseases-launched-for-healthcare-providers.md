@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/newsscroll/amp/aibased-tool-to-predict-
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://www.thehindubusinessline.com/news/1z9fn8/article36722756.ece/ALTERNATES/LANDSCAPE_615/bl29StatesHeart"
         width: 615
         height: 384
+        isCached: true
+  - title: "Artificial intelligence tool to predict the risk of psychotic illness"
+    excerpt: "One-third of children with a microdeletion of chromosome 22 will later develop a psychotic illness such as schizophrenia. But how do we know which of these children might be affected? Today, various studies have contributed to the understanding of the neurobiological mechanisms that are associated with the development of psychotic illnesses."
+    publishedDateTime: 2021-09-29T13:14:00Z
+    webUrl: "https://www.news-medical.net/news/20210929/Artificial-intelligence-tool-to-predict-the-risk-of-psychotic-illness.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210929/Artificial-intelligence-tool-to-predict-the-risk-of-psychotic-illness.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210929/Artificial-intelligence-tool-to-predict-the-risk-of-psychotic-illness.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 57
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "0W+zgFd7qpgnEpJcH/dz6iy1q8+hn//TDqRyNTQR3hXgFoPiZ5NIjtRU6kw8oXAMhIkvZff9jZr2BG0CUmicAjovkMRG9tV7/3kA7m2YcvNazDCYWBmbp4QZCjaIUQwMT9wVBQ2IB69OKeYZWvu4XOpfG9oRX+Ur6UQP5J594lOop1kSecx3Ps7qSOAu/hg3gOi8zRjpUcf/spBbllzPYBmBTsmrF8z879JTefKlu6xrVnMM5d/Hy4Jp51uYtr8IR0tYdhbupLGulsWfnOMaCnMVfXpbp0WPXz1VXgmqvZBSDu5Xz4TCoGs/LvaYLICuIFGs6RXB6cjvvf4ocDZHbDWFPB0X8O1f+pM5l1heYzM=;fWWzRTZ79phS+mKai43sXw=="

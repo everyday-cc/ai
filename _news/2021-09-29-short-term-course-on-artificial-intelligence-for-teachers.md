@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Short Term Course on Artificial Intelligence for teachers commences with great zeal & enthusiasm at MIT Centre for future skills excellence"
-    excerpt: "MIT Centre for Future Skills Excellence (MIT FuSE) and MIT School of Education & Research - MIT Art, Design and Technology University, continues with its endeavour to train school teachers"
-    publishedDateTime: 2021-09-29T07:00:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/short-term-course-on-artificial-intelligence-for-teachers-commences-with-great-zeal-enthusiasm-at-mit-centre-for-future-skills-excellence-121092900450_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/short-term-course-on-artificial-intelligence-for-teachers-commences-with-great-zeal-enthusiasm-at-mit-centre-for-future-skills-excellence-121092900450_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/short-term-course-on-artificial-intelligence-for-teachers-commences-with-great-zeal-enthusiasm-at-mit-centre-for-future-skills-excellence-121092900450_1.html"
+  - title: "Short Term Course on Artificial Intelligence for Teachers commences with great zeal & enthusiasm at MIT Centre for Future Skills Excellence"
+    excerpt: "MIT Centre for Future Skills Excellence (MIT FuSE) and MIT School of Education & Research - MIT Art, Design and Technology University, continues with its endeavour to train school teachers on Artificial Intelligence in Education with its exclusive Short Term Course on Artificial Intelligence for teachers."
+    publishedDateTime: 2021-09-29T08:03:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2021/09/29/9458565.htm"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 23
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/29/full/20210929115137.jpg"
-        width: 600
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1638403/STC_Inaugural.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "fcR91B22Sf8V/tNAGVfGYll3fN/Mpt/R5Q4kMt+RdH208/yzyti+7eoYjEs55qLxQtWERPVSEUE4o/PouZl/0Xqq84eXwx8fi6GKLGx/yYY8E510tCdIG5dz3T9hRWm1SZinqFqdJgLdxTUJpsnRgjcmMVBnEyBd3KbIHBQO7UIH+wdi+vBlHskofBIMQvdYdxd9pXpgT9VXnvBMjq4k3JhC4FNryaKb8RJNVf7yQuZKzf7c0fTAyFTUpmxH1oRmoi3IuFta15aNCGj2N6NjXO4rk6ueROUIiL0ENNEk0NAeBDrfHSFhsPU27th6Tg5uB/z2odz3rgpqZivMN399SNx2e+Zki3yIYWH8qQkjJmhqyPNxzd76M6JARU2phGfPL3Jof3mGLwfhbrGTzEfzbZkmzNYw/sJ8PpmWE7PuPq4Ncfok3846xQuzBq/y9V6dB5Fcstwo63LWAL0Tm1zpHbAzgnZsBOwoYj+1JroUFPysOLTENeyQs+4I5lqH/ZcWjs6e/9J+OLHdYl90dVgrDA==;C0GwjwNlnSWySq+WsnWEmg=="

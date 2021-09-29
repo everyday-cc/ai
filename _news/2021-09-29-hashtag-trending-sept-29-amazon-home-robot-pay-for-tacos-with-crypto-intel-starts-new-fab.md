@@ -1,31 +1,31 @@
 ---
 category: news
 title: "Hashtag Trending Sept. 29 – Amazon home robot; Pay for tacos with crypto; Intel starts new fab"
-excerpt: "Shecter. Before we start today’s episode, our sponsor Acronis will be hosting a panel discussion on the Canadian security landscape. If you want to learn how to best respond to a cyberattack, attend the expert briefing “It’s time for SMBs to focus more on business continuity” on October 12th."
-publishedDateTime: 2021-09-29T09:06:00Z
-originalUrl: "https://www.itbusiness.ca/news/hashtag-trending-sept-29-amazon-home-robot-pay-for-tacos-with-crypto-intel-starts-new-fab/119641"
-webUrl: "https://www.itbusiness.ca/news/hashtag-trending-sept-29-amazon-home-robot-pay-for-tacos-with-crypto-intel-starts-new-fab/119641"
-ampWebUrl: "https://www.itbusiness.ca/news/hashtag-trending-sept-29-amazon-home-robot-pay-for-tacos-with-crypto-intel-starts-new-fab/119641?amp=1"
-cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/hashtag-trending-sept-29-amazon-home-robot-pay-for-tacos-with-crypto-intel-starts-new-fab/119641?amp=1"
+excerpt: "Shecter. Before we start today’s episode, our sponsor Acronis will be hosting a panel discussion on the Canadian security landscape. If you want to learn how to best respond to a cyberattack, attend the expert briefing \"It's time for SMBs to focus more on business continuity\" on"
+publishedDateTime: 2021-09-29T13:07:00Z
+originalUrl: "https://www.itworldcanada.com/article/hashtag-trending-sept-29-amazon-home-robot-pay-for-tacos-with-crypto-intel-starts-new-fab/459344"
+webUrl: "https://www.itworldcanada.com/article/hashtag-trending-sept-29-amazon-home-robot-pay-for-tacos-with-crypto-intel-starts-new-fab/459344"
+ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-sept-29-amazon-home-robot-pay-for-tacos-with-crypto-intel-starts-new-fab/459344?amp=1"
+cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-sept-29-amazon-home-robot-pay-for-tacos-with-crypto-intel-starts-new-fab/459344?amp=1"
 type: article
 quality: 47
 heat: 47
 published: false
 
 provider:
-  name: IT Business
-  domain: itbusiness.ca
+  name: IT World Canada
+  domain: itworldcanada.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://i.itbusiness.ca/wp-content/uploads/2018/01/ht_banner-hashtag-trending-620x250.jpg"
-    width: 620
-    height: 250
+  - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png"
+    width: 1500
+    height: 1500
     isCached: true
 
-secured: "ui+r63Kti/QdjlzgMrKtzh+oFFPZSGQU2bD09QVwI1Cn4uz8nYV2iyMK2K+5M1Vezx7Qq1JCCPR4auP7u4/QKT4T3/iA2qWZrG5bP2QXM3NmdcCZjSiIEdmV4Xieb50lVA9WxcfT8c02sKdc4eQKscCWsj5rD66pfZMPDM1T/hhcibO5joTGzxpoIJHndRT8GcAfW60ZbJKB6dq4HEwPoCcP5PaLJtHydzTVLHONT7lXNvdnXODkYV2/JK9Cffk9lZAAKLVMTtLsOZteEZUPwXV80uI9zGHUkwkz+I50NeZOh3+36nnpKow+hRUYrgkREJCQ9dZoVweBDGxSyooz4oarP8H44Xfeoi6CWKRTfpzT/J8PnQ1Xv2VhfXBA/gZiPN/7mrsY6l2g2rtKk5kWJyCKBxsECrmqvOk6r79lhZkQmkIUbJHWjbnzzCtheLy46bcs5N6LDwbhf/QpS5aAUOY2QumKZVzKj7TqEWNrf/G/v9zdDu/ks2vfFZEdtskaO30/Me4T/mTWnlkJhYbBFg==;A7CM+pd7YWa4NEhHs9KSiQ=="
+secured: "jjCesJPbs1i8FwsqhPXhmSNMLRgThkI5fbJimkCCC8K/PWiqY1imqCYJK/qwZNA93WSxwVmYsRB6xZYaFiLKqSrH9VNw7xdyZIKXMNCYqEu0wTFahrQyINPZgehGerYhJRwDV36xRJZnlJ8oWphFrsROjTZJ4Hj4c4aoXWTqJt10ivt9gaPfWDBvHmv+4OlyS+F9sJW9fKMSMmCLzug8wzf8V9jGyqiWORuXEWyHs1NxuB2f5QnZZYnCEXAe5kLOEjjG8z8A86SMrvSY4F8OWWVwwS9nYlTyn16gmkd8P3LT9sh9F2YP9T1jFYrpzKjXU+/elK2qHNW6E26BGJ+6eJ66hduZwl8B6fS6FeBWzLM=;qGneJa5Seg0wtYGo+W+eJg=="
 ---
 

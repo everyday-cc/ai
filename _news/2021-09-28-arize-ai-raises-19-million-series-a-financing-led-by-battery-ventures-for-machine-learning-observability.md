@@ -42,6 +42,20 @@ related:
         width: 1000
         height: 665
         isCached: true
+  - title: "Arize AI Raises $19M in Series A Financing"
+    excerpt: "Arize AI, a Berkeley, Calif.-based leader in ML observability and model monitoring, raised $19m in Series A financing"
+    publishedDateTime: 2021-09-29T11:18:00Z
+    webUrl: "https://www.finsmes.com/2021/09/arize-ai-raises-19m-in-series-a-financing.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/09/arize.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "YgyLM0oIpDrfsLp2xbMLZ+DitbbuzxSwoTiw8D2obbkPuzDnUfCD1CaLpi4Z2QYZL+XYwWztdCbmTTfGPbTLM+kBQ0yKb6SN4+fcB6d/t8wNIDlP4wPmFHfMkDq4gpx9vIWszM8QoNGNgbodRhUHKWvs2YJInjJ+16wIM0qhIr8K16upa18Ar/pSvAphdVJbsbdV/otVNKaTXjhFbeLEDlPuxWnu/8KhBIhZMTH5uvtFCEkpdcTmyD0KXPAGaIawAkefazQaOTImLnf/C4woeWzKOm6ZCbpxbsbMKCxyuRhHD/ZTex8vfiTrv1OTsRvg6LCR1Xit1X9ZZ3qEv/8JT+/JuDyE+cEozF5NJgnfZxs=;LPfoF8v4tweDQ0mcN7dwFw=="
 ---

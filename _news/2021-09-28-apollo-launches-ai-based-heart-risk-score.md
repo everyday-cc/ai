@@ -43,6 +43,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Artificial intelligence tool to predict the risk of psychotic illness"
+    excerpt: "One-third of children with a microdeletion of chromosome 22 will later develop a psychotic illness such as schizophrenia. But how do we know which of these children might be affected? Today, various studies have contributed to the understanding of the neurobiological mechanisms that are associated with the development of psychotic illnesses."
+    publishedDateTime: 2021-09-29T13:14:00Z
+    webUrl: "https://www.news-medical.net/news/20210929/Artificial-intelligence-tool-to-predict-the-risk-of-psychotic-illness.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210929/Artificial-intelligence-tool-to-predict-the-risk-of-psychotic-illness.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210929/Artificial-intelligence-tool-to-predict-the-risk-of-psychotic-illness.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 57
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "TJxs+JoW8XrQ0RKLymyD8Y65MVTfTDpXJ+Upqvh/8I8XC3EzPwme9w37qC52QchIssMDp+ZjKOVbZ5ZqN/Jjl4k/mDlbm1j382B9oaBHtVrm/BcG3dY86vlH2LDCUTzaykWk8C7wAMHybOrhbFzbvdjA0IVJTenIHHNgJ61MYV72gAr5pJoseXfQKJehhydw1bhZDBX/FcEQ56/f1M30AL13jlqBGIm3iTe9NeQawJ35qCSYf1COuzsLTyn4AXhWReRSdblSoyuxG/QG/L31zTQFKAClkTQ40RnZDWOcvmYsAKEm1YLjS+hHLys9myhI2k1pRg3zojhXl0g1dCrIgxrT/LtVkMtWc6yYnALFxLM+tkrhNeEpaJ729mHD6bEIf+9+MSI0XaI8OauDOZvZJ48g41xu35Y7nDL5uKkujXNK0yJeNRhL8bdFmUbV80ZAzOjlKVoE/BPnCmlhMN8Pu7ovbtYb75bV9HH9mjOyaxyQfEVeHFPpx3VBKhD2nb7QHrclNh+TjdNjGgIoBVH9+w==;WZ6FnXQatW4GU3bIWfD7Hw=="
 ---

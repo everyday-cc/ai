@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Enlisting the power of AI to fight California wildfires"
+    excerpt: "For the past decade in Los Angeles and the State of California, the question is not if there will be wildfires—but rather when and where they will sprout up and how to protect people from these threats."
+    publishedDateTime: 2021-09-29T13:09:00Z
+    webUrl: "https://techxplore.com/news/2021-09-power-ai-california-wildfires.html"
+    ampWebUrl: "https://techxplore.com/news/2021-09-power-ai-california-wildfires.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-power-ai-california-wildfires.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/enlisting-the-power-of.jpg"
+        width: 1199
+        height: 601
+        isCached: true
   - title: "California makes zero-emission self-driving vehicles mandatory by 2030"
     excerpt: "California will require all light-duty self-driving vehicles to emit zero emissions starting in 2030. Governor Gavin Newsom signed into law a bill sponsored by environmental groups that would eventually prohibit gas and hybrid-powered autonomous vehicles from operating in the state."
     publishedDateTime: 2021-09-25T05:50:00Z

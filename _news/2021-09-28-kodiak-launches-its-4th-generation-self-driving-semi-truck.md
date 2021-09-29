@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/kodiak-autonomous-semi-truck-la
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/kodiak-autonomous-semi-truck-launched/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Kodiak to double its self-driving truck fleet"
+    excerpt: "Kodiak Robotics Inc. has introduced its fourth-generation autonomous truck with plans to more than double the size of its self-driving fleet in the next few years. The new autonomous truck will feature: Hesai 360° scanning lidars for side- and rear-view detection Bridgestone Americas smart sensing tire technology The trucks will debut beginning in the fourth quarter of 2021 as Kodiak begins to take delivery of 15 new tractors."
+    publishedDateTime: 2021-09-29T12:39:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17251/kodiak-to-double-its-self-driving-truck-fleet"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 24
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/251/17251/Kodiak_Autonomous_Truck.jpg"
+        width: 752
+        height: 501
         isCached: true
 
 secured: "CmNFmFXk7SHcaVMr23P1TzCrSn0WT43KjNMRXZ85/OibpKl8AWEDeJLU4CrQBRiSQQhf3L13c6VUTq0jUj3jNLnuw4Y4G0KOCVAal16xXqHIad9UcGNlOePRHAz5OniT+sCVo1Nh5CX+i8IdsCmFFj4w/7MigDgkJbA2A3cw4sgIRXPRk9TodG78wOuZSDKj5SiqzSKdQ0xyBwNIPFmJ9PxUQ6klMKS6LqfmaQx4zLjyYgvUdshAiY88M9HYNHPe8lKSGGTKSoAWS+e26RxdsCy7nvsQSMUqFjkyTF+3AJFk799sK9n0oquJnll1lhlqrQsZc1OZ+WS2bvOT2X4I1ZZsHWMtaLGmbs+emoOOUUQ=;QOROqeVCQYgfkAOaosR39A=="

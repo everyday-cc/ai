@@ -197,6 +197,22 @@ related:
         width: 1200
         height: 853
         isCached: true
+  - title: "Amazon's New Home Robot Astro Just Launched. And It Could Be a Nightmare"
+    excerpt: "After the success of Alexa, Amazon built Astro, a moving assistant, but it reportedly works poorly and will follow people around, recording them."
+    publishedDateTime: 2021-09-29T13:26:00Z
+    webUrl: "https://interestingengineering.com/amazons-new-home-robot-astro-just-launched-and-it-could-be-a-nightmare"
+    ampWebUrl: "https://amp.interestingengineering.com/amazons-new-home-robot-astro-just-launched-and-it-could-be-a-nightmare"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/amazons-new-home-robot-astro-just-launched-and-it-could-be-a-nightmare"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 58
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/Z3G8xm8yGm/sizes/astro-1920_resize_md.png"
+        width: 744
+        height: 419
+        isCached: true
   - title: "Amazon Astro AI smart home robot with personality from $1,000"
     excerpt: "The Amazon Astro home robot will be priced at $1,450 but Amazon as part of the Day 1 Editions program is making the Alexa"
     publishedDateTime: 2021-09-29T10:22:00Z
@@ -211,6 +227,22 @@ related:
         width: 700
         height: 461
         isCached: true
+  - title: "Amazon's new robot Astro is deemed a 'disaster that's not ready for release' by its designers"
+    excerpt: "The Alexa-powered household robot was unveiled by the Seattle-based retail giant as an autonomous device that can monitor a person's home while they are not there."
+    publishedDateTime: 2021-09-29T13:48:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10041117/Amazons-new-robot-Astro-deemed-disaster-thats-not-ready-release-designers.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10041117/amp/Amazons-new-robot-Astro-deemed-disaster-thats-not-ready-release-designers.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10041117/amp/Amazons-new-robot-Astro-deemed-disaster-thats-not-ready-release-designers.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 48
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/09/29/14/48547483-0-image-a-25_1632923284642.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Amazon brings its ‘Astro’ home robot to the market"
     excerpt: "Amazon finally unveiled its first home robot this week, and the company named it Astro. The unit is part of the Day 1 Edition, which means it will be initially sold to a limited number of people. As per CNBC,"
     publishedDateTime: 2021-09-29T05:55:00Z
@@ -224,6 +256,20 @@ related:
       - url: "https://s1.econotimes.com/assets/uploads/202109297151754ed6588c99e_th_1024x0.jpg"
         width: 640
         height: 420
+        isCached: true
+  - title: "Who wants to say hello to Astro? Amazon’s cool new home robot"
+    excerpt: "Described as \"Alexa on wheels\", Amazon has just announced its newest innovation: A little robotic helper named Astro."
+    publishedDateTime: 2021-09-29T13:07:00Z
+    webUrl: "https://barrie360.com/amazon-astro-home-robot/"
+    type: article
+    provider:
+      name: barrie360
+      domain: barrie360.com
+    quality: 39
+    images:
+      - url: "https://barrie360.com/wp-content/uploads/2021/09/Amazon-Astro.jpg"
+        width: 1000
+        height: 500
         isCached: true
 
 secured: "ORKeNs/vRWD2vljnOYxMtjRosgpBS+gRWKZm1FpbNzlkgGIrtFFxJHwZqQB3HWV1wyeHh4IJKWszaR+PCwQf8j2OkBakAVSdFC3MFPoPfRGD0I8Fii7cT3/zLfXAVKv1jzlbvDnqvDiIPpYhX/Csxnq38/5jSsZQPM35C/eoDxeEQk7QKe9rstfqht5zNOFytD2T9GrnuCRnmJ4pPYjp4Y9/pXohRtC4SfZPNbmamwaJKzN4uyTHwfQfdHeY+YAkCzYll8ASZN5OznTdivFldfp193VzstZu+TqYEqlRi9hq/mFPnOOk7BIsJ4boZC+BKSwtRpBU7yOg8BzDRNBK0mquPlQpDsJHvpgY40u+VEk=;w16cTvxj3vX9GnePZBIyYQ=="

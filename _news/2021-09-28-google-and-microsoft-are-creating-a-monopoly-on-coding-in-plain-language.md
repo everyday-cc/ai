@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google and Microsoft are creating a monopoly on coding in plain language"
-    excerpt: "Natural language coding means that people won’t need to learn specialized coding languages to write programs or design websites. But large corporations will control the means of translation."
-    publishedDateTime: 2021-09-24T20:21:00Z
-    webUrl: "https://www.queensu.ca/gazette/stories/google-and-microsoft-are-creating-monopoly-coding-plain-language"
-    type: article
-    provider:
-      name: Queen's University
-      domain: queensu.ca
-    quality: 55
-    images:
-      - url: "https://www.queensu.ca/gazette/sites/default/files/assets/socialmedia/TW%20Coding%20arnold-francisca-nPhl2x4fk2s-unsplash.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "SSE Renewables uses Microsoft AI to improve conservation efforts"
     excerpt: "Wind farm operator SSE Renewables is trialling a new way to count puffins on the Isle of May, Scotland, using artificial intelligence (AI), machine learning and image recognition technology. The project,"
     publishedDateTime: 2021-09-27T16:09:00Z

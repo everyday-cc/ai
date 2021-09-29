@@ -1,18 +1,20 @@
 ---
 category: news
 title: "SmartCard Marketing Systems Inc. (OTCQB:SMKG) Announces Multiple FinTech and PayTech Commercial Deployments in the USA, Philippines, Guyana & China"
-excerpt: "September 28, 2021 - SmartCard Marketing Systems Inc. (OTCQB:SMKG): The SmartCard Marketing portfolio consists of the largest wholly owned Intellectual Properties suite for multiple industries that can be also be combined to offer a powerful go-to-market for Banks,"
-publishedDateTime: 2021-09-28T15:46:00Z
-originalUrl: "https://apnews.com/press-release/newmediawire/business-technology-china-philippines-guyana-e8b067053fa42fd3a1c3196d9b956b88"
-webUrl: "https://apnews.com/press-release/newmediawire/business-technology-china-philippines-guyana-e8b067053fa42fd3a1c3196d9b956b88"
+excerpt: "SmartCard Marketing Systems Inc. (OTCQB:SMKG): The SmartCard Marketing portfolio consists of the largest wholly owned Intellectual Properties suite for multiple industries that can be also be combined to offer a powerful go-to-market for Banks,"
+publishedDateTime: 2021-09-28T15:33:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/09/g23137788/smartcard-marketing-systems-inc-otcqb-smkg-announces-multiple-fintech-and-paytech-commercial-deplo"
+webUrl: "https://www.benzinga.com/pressreleases/21/09/g23137788/smartcard-marketing-systems-inc-otcqb-smkg-announces-multiple-fintech-and-paytech-commercial-deplo"
+ampWebUrl: "https://www.benzinga.com/amp/content/23137788"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23137788"
 type: article
-quality: 3
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
@@ -20,9 +22,9 @@ topics:
   - AI in Marketing
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -41,6 +43,6 @@ related:
         height: 300
         isCached: true
 
-secured: "0wzhe58t5oQ9Rj9lOVBSjVjOnHJImmD3xaaq1LeYo2YkO/lGuUSEIG73OXainJ9PfnOG4/cM4/sdqoX7dfgJACt6D8N8y39gsUSAmByvtN1WKm0DwgI7D8ykIrEQdPJMJMU9I39JfpeG/8R9XnUJ39ay8SIz23TTy+JOmdFcLLk8zqB3oSdNe1885HlABuYZyBaBN8ClKNXOsiJH1eQILjUjwu93xRy5lvog9FBDVC6cxDAk0u1nvpxPW9Z+ViidwZb13NYUwiz3Y5DsmNgLi+3f8ThAqLCnS3vtlnliFul17EKDKMbiQWdjmY93AmPF95og6vvn+/GbM1CujqOip4CWwHzNtZOe9ECe/A3H+U8=;Ie8p4jdF+2JfGUw8lglYog=="
+secured: "beIYzA8sVA0zYer8t1DfkUtXkFoVfj4OO1feZnaesJWUdxDegk/vUZAJSrICpgoRwrKRhyWyou157q2yXkVBCeTQF53FBHRGhx//jOw12gzDZZF4HlWl1xsdTfOah/TXklRLRCxLGEjKO9926QY4q/RuZ55ahm1qwwOFl9DdqvsumZPU/FfqflHUA4n7Pi8KaJ9s+Pq9ZGEFJ+pR6Ft1p4hSze1Qmxsc6tTzKYjwOkoSVieNhrDtr5OoFAemKnfDpNjlrZNLFGJK1KR/4RbewkuDbK8PjkBRt8CMiEk9S01ZUTiMMWyXRccjTB6x0O91QCvd/1M4QzfQTadidtwiqEUS0XujgbQTuYB+0eKwf3c=;X89MOnBHRdPtdE5//PqeKw=="
 ---
 

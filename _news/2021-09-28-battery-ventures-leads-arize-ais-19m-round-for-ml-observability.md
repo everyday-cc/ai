@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/28/battery-ventures-leads-arize-ais-1
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/28/battery-ventures-leads-arize-ais-19m-round-for-ml-observability/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Arize AI Raises $19M in Series A Financing"
+    excerpt: "Arize AI, a Berkeley, Calif.-based leader in ML observability and model monitoring, raised $19m in Series A financing"
+    publishedDateTime: 2021-09-29T11:18:00Z
+    webUrl: "https://www.finsmes.com/2021/09/arize-ai-raises-19m-in-series-a-financing.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/09/arize.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "BeK3U9myR3iGBvhMO96+Hk4yRYhaxCm3S0K4pIe9DKBbQSQx4dHjXrsa4dHa6soo7VyWxIRR3FsvnMY330WeAsOl0jrhpTcJq1M5rJvXJnLc4dYUNHB0GQjNSkvHJNZZt8e2BOVoI8YZybs65cQ3NbwCGAfUPVdiLyaP2vt8RTinfnPLly5wKmCtzyEFOoyVlT0s1/ASPm4ztwXlAhfNCkwUgGtCJEBaoLDQBiRYEO+b0Nz1LwY+p/DlzA/2Kh9qJxNOceDQy6Mj9++bPJNKnWYXo8pgoogZDz6RCDxHGU9Giy5ZvXeK5Jwsp8pcs380PEWjJ0zNVUa3gEk6yYlFIfVdbOWNpkHI83GsCmO3U5k=;9ebIc1aqtvgv+XLNb7CLBQ=="

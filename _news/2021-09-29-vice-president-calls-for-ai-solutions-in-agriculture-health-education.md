@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technolog
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
 type: article
 quality: 76
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Naidu calls for people-centric Artificial Intelligence solutions in agriculture, health, education sectors"
-    excerpt: "Vice President Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to deliver benefits to the people and enhance the quality of life."
-    publishedDateTime: 2021-09-29T02:00:00Z
-    webUrl: "https://www.sify.com/news/vice-president-naidu-calls-for-people-centric-artificial-intelligence-solutions-in-agriculture-health-education-sectors-news-national-vj3caeadddcdj.html"
+  - title: "How to Transfer Fundamental AI Advances into Practical Solutions for Healthcare"
+    excerpt: "In this special guest feature, Dave DeCaprio, CTO and Co-founder, ClosedLoop.ai, discusses what it really takes to make AI that physicians trust. There are significant challenges that go beyond the algorithms when applying AI to healthcare."
+    publishedDateTime: 2021-09-29T13:00:00Z
+    webUrl: "https://insidebigdata.com/2021/09/29/how-to-transfer-fundamental-ai-advances-into-practical-solutions-for-healthcare/"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 44
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 52
     images:
-      - url: "https://aniportalimages.s3.amazonaws.com/media/details/dgcghfgdcdcfscf202109230651412021092308023020210929004348.jpg"
-        width: 600
-        height: 450
+      - url: "https://insidebigdata.com/wp-content/uploads/2020/03/IBD_PNYWPCover2020-03-16_8-53-21.jpg"
+        width: 252
+        height: 355
         isCached: true
   - title: "6 steps for seamlessly integrating an artificial intelligence solution into daily clinical practice"
     excerpt: "Imaging stakeholders have written plenty about the promise of artificial intelligence but not much on how to integrate AI solutions into daily clinical practice. Experts with University Hospitals are attempting to fill the void,"
@@ -84,6 +84,15 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Vice President Naidu calls for people-centric Artificial Intelligence solutions in agriculture, health, education sectors"
+    excerpt: "In this regard, Naidu urged educational institutions, researchers, and developers to come out with practical AI solutions in the fields of agriculture, health, and education. Enumerating possible applications for AI,"
+    publishedDateTime: 2021-09-29T13:46:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/India/20210929/3828057.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 24
 
 secured: "Z98YwMiXN0w7bZ6hlHqZJzTp6FUMAWE+ikgkl8ZBcSvgpVz6U8N5ix4W8x+yetGBUwAwryTadrjkSNr7q9DZjltqQL3iYygGEW/cv39PvczFN+xfoAYsnLFKBPaO/yeRtZXrGuSUHeQ+8R0MTJoKDJbrov4KL/zbY76DrgHCq9rAlbcgWbHktf/KDEU0MKq2pPyyfsXbx5H/MjNZoMrtjtJzTI4vsV0sierbFwkv+dzbLfCFs7hRuRTHd8CgNFi1+XHJRf4ZRTYNhFHkukVu3MVO38GZXBWOLswTnn8b2kT+OYSl7xXvLXJa4aZi35u78hbpS4wmmSTQEWV75ef+GnogqfbTBycuJzblbyGV8/PqHy86mguSv7diEM7OKhaiHuyWG+saOFDP4J+KZ4I2aMab7+hberQQjTKaR34HGtCKw3imLvUncyofY2LSIODc+WsS5sgJ5MIT8mPKX8xclc3jSb4ogjMfVRwuK4X9B5kWvuCNm2x3Y92IH0l8/4UEwS+M7R6OsfUiyvDFOdoEmQ==;YITBdARschaAIFueBwOEFA=="
 ---

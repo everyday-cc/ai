@@ -41,19 +41,19 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "Vice President Naidu calls for people-centric Artificial Intelligence solutions in agriculture, health, education sectors"
-    excerpt: "Vice President Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to deliver benefits to the people and enhance the quality of life."
-    publishedDateTime: 2021-09-29T02:00:00Z
-    webUrl: "https://www.sify.com/news/vice-president-naidu-calls-for-people-centric-artificial-intelligence-solutions-in-agriculture-health-education-sectors-news-national-vj3caeadddcdj.html"
+  - title: "How to Transfer Fundamental AI Advances into Practical Solutions for Healthcare"
+    excerpt: "In this special guest feature, Dave DeCaprio, CTO and Co-founder, ClosedLoop.ai, discusses what it really takes to make AI that physicians trust. There are significant challenges that go beyond the algorithms when applying AI to healthcare."
+    publishedDateTime: 2021-09-29T13:00:00Z
+    webUrl: "https://insidebigdata.com/2021/09/29/how-to-transfer-fundamental-ai-advances-into-practical-solutions-for-healthcare/"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 44
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 52
     images:
-      - url: "https://aniportalimages.s3.amazonaws.com/media/details/dgcghfgdcdcfscf202109230651412021092308023020210929004348.jpg"
-        width: 600
-        height: 450
+      - url: "https://insidebigdata.com/wp-content/uploads/2020/03/IBD_PNYWPCover2020-03-16_8-53-21.jpg"
+        width: 252
+        height: 355
         isCached: true
   - title: "Vice President Naidu calls for people-centric AI solutions"
     excerpt: "Vice President Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence AI to deliver benefits to"
@@ -83,6 +83,15 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Vice President Naidu calls for people-centric Artificial Intelligence solutions in agriculture, health, education sectors"
+    excerpt: "In this regard, Naidu urged educational institutions, researchers, and developers to come out with practical AI solutions in the fields of agriculture, health, and education. Enumerating possible applications for AI,"
+    publishedDateTime: 2021-09-29T13:46:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/India/20210929/3828057.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 24
 
 secured: "Cs2MoFOmOL8AxHwQPco27c3t06Kml5eChPvOp5jjoyySBcDMgyOp1TTabPjaCCLirSrHKH840fawiDlHINGWTScnVWESTeDnzhHmqqERd6SW9jeF8imFl4f3kcKapcg1xkt+DRPhbI5tpstuiKHjXoHCA+TjaWFqIUsEpVRBy1P936zCOG26Fgu3F5Xrve1y7XHbRjFhggkkgdkbPTlPUTuydUPVYweUx0wvEiyWLZEEJTRfwBYCT7Iat6aS7dIkOA/5N7cSnBGjfQk86kvSzAUr6CF8L0f+IIxcOfrTv9bergVh7mqgs5aYtNiU50Gy9ocxs02XyruHEYobf5rPzHixBmfyxnSQzpYqEEUiVWgCbM21H14KPeNYj5KSkQcdtoGPkB4GAuK+DWEwXQz7KRiMdQ0jmm9kqJhmDIqzur2k1v6Z1XhAMLJyOBUNl8aMGbbhnwBpuACltV7D3zh0hRWb3lb3lWNjLFFHqXNY8jZTkHDcS9s2YaDLEA8XUvxq8R6S52lzvDlkUlOm59Gy+A==;rJBGQyep7+NgEWjiaLfiNw=="
 ---

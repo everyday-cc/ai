@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Vice President Naidu calls for people-centric Artificial Intelligence solutions in agriculture, health, education sectors"
-excerpt: "Vice President Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to deliver benefits to the people and enhance the quality of life."
-publishedDateTime: 2021-09-29T02:00:00Z
-originalUrl: "https://www.sify.com/news/vice-president-naidu-calls-for-people-centric-artificial-intelligence-solutions-in-agriculture-health-education-sectors-news-national-vj3caeadddcdj.html"
-webUrl: "https://www.sify.com/news/vice-president-naidu-calls-for-people-centric-artificial-intelligence-solutions-in-agriculture-health-education-sectors-news-national-vj3caeadddcdj.html"
+excerpt: "In this regard, Naidu urged educational institutions, researchers, and developers to come out with practical AI solutions in the fields of agriculture, health, and education. Enumerating possible applications for AI,"
+publishedDateTime: 2021-09-29T13:46:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/India/20210929/3828057.html"
+webUrl: "https://news.webindia123.com/news/Articles/India/20210929/3828057.html"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI
   - AI in Education
-
-images:
-  - url: "https://aniportalimages.s3.amazonaws.com/media/details/dgcghfgdcdcfscf202109230651412021092308023020210929004348.jpg"
-    width: 600
-    height: 450
-    isCached: true
 
 related:
   - title: "Vice President calls for AI solutions in agriculture, health, education"
@@ -40,6 +34,20 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-86606103,imgsize-21820,width-800,height-434,overlay-etcio/vice-president-calls-for-ai-solutions-in-agriculture-health-education.jpg"
         width: 800
         height: 434
+        isCached: true
+  - title: "How to Transfer Fundamental AI Advances into Practical Solutions for Healthcare"
+    excerpt: "In this special guest feature, Dave DeCaprio, CTO and Co-founder, ClosedLoop.ai, discusses what it really takes to make AI that physicians trust. There are significant challenges that go beyond the algorithms when applying AI to healthcare."
+    publishedDateTime: 2021-09-29T13:00:00Z
+    webUrl: "https://insidebigdata.com/2021/09/29/how-to-transfer-fundamental-ai-advances-into-practical-solutions-for-healthcare/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 52
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2020/03/IBD_PNYWPCover2020-03-16_8-53-21.jpg"
+        width: 252
+        height: 355
         isCached: true
   - title: "6 steps for seamlessly integrating an artificial intelligence solution into daily clinical practice"
     excerpt: "Imaging stakeholders have written plenty about the promise of artificial intelligence but not much on how to integrate AI solutions into daily clinical practice. Experts with University Hospitals are attempting to fill the void,"
@@ -84,6 +92,6 @@ related:
         height: 563
         isCached: true
 
-secured: "z1lIH1gBRcnFPZS5hUXfYx6SXsURLyn1J7hY5sicmHD1GIkqlECg5s6URZHOSxbwkv6LMoWYw9slIuwE8D/FV7F0fmpy4nE3SihFfWShVFtMYjB+U4e0qMS3VrSFf1cGE9SvERFtaZKGPCbCXpDRLdi7E8cZUuPKfPZk8mEwgPjs47/1/qUq2RplWaDgtbl1mTm51hoQCGsjeBnFN9UieYesy/Dn+8sXzQ6l04Au9VmFWhQV7srVQpGpIW8dltLsjSW1THe2PPWLzRJMth324/BWcqncDxD+0lHrYo0xx0OUpBfsCPe6OSJpQq5M9aU7pfBe8lWHoGUKJMRCOW+IAKCDsbPqzAEU3ha+1FAeNRs=;hqx5vzeuPbFfzEulk2JMdg=="
+secured: "90V6Mxo9MGySDxsRbbiXQkUpgFWsTArxiLHb856kmSegduZwpv7H9owIEMCXOxgNx9hpNuyFYxseLhiZ3KrfEZcrN7Q4D0ny+HihRvP4Ru8V+uxiH4S/dyZnQuz6fCzphIAj9b5sz4ZKSusbE3zEDWw6Qu5NnExVhkya4PbWPC1tPqdZbj2UtoleykuWdRR5l50LpxZiKcofKDkNal7ULSooOwDXqzDzFSeHHKQNhMMZUYm/voWYp3bbkeRpX1ZxXn+cN3db1pP90WpYtQTjj9HsqJelqf+ZnEEsSw8i+pReU9opT4skb/ZaRg4JxGw2I16C/jBwN92TYr/VzOIlxaJwRRn5Fjv+MIg+2t7z/gg=;R07YgT60UNc0L7SkV9mHMw=="
 ---
 
