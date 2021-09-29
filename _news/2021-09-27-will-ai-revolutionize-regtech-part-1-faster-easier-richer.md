@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-1
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-1%3A-faster-easier-richer-2021-09-27?amp"
 type: article
 quality: 71
-heat: 81
+heat: 82
 published: true
 
 provider:

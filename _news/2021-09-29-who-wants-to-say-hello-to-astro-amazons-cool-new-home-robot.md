@@ -271,7 +271,21 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "The robot home invasion is official, as Amazon unveils Astro"
+    excerpt: "Astro is the first Amazon robot for homes that is designed to help customers with a range of tasks like home monitoring and keeping in touch with family."
+    publishedDateTime: 2021-09-29T13:07:00Z
+    webUrl: "https://techhq.com/2021/09/the-robot-home-invasion-is-official-as-amazon-unveils-astro/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 39
+    images:
+      - url: "https://cdn2.techhq.com/wp-content/uploads/2021/09/063_1343644718-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
 
-secured: "5rD422xyukNW59EjJVUNCEYa5GklEmN8juqyJ4llVHhsmjxtDHRjFRXxrV1rQiR7nQ0nfVYl2K4N0LlZqBmzXbAax6ovvEV5y3NBVf2dSlLDHw/PvtEOIFfs/QFH1/8Mv7pKxo3CwGGyV/4XcMeX0A7qtAwzz/qodSk5Saxh2j2WZZ55XgFYpEOPzgjk2YflPz0lEJS8lf4IGgPEHomlJsrOf7ctkGtcd1Fv79A8q8wxmt2rzb/t6quKkqCQbY4Sxf2RWc8/H8h8XDkDJe2NrnokuoFIIuywemNgm2k6LI2zm83hfoEi/lZLCAtHq7/PdlGX983f+GsaMifsEmzqDELRVq7iunUHEk+TJaFcI3o=;YdNo1zxENBsSKNmF7eh8Sg=="
+secured: "1hU9OC9DGBoFs4CDazkqHNqQ1YA+oS4g734OtZxo3lNnS41u4RT5HiYlAI7dW2eURDOQmvqmqXJSGD2RcCGRgOMJdm0WnzaobYSb5KzQXtnF/k1rC75BxXACnpa8Lzhi42ZsXaByyW/HZbUBXfDRJ9Awu/GaJ9GHTVoNfz4Z0xI0pZR2BuCgsmYVfepEiRsujYBHy4I5jyGMF/Bt3x4LCKrtUEyZ7y6dVOWkGzsj7psZUALDsXQ0YMvxv2VHiqbA8O16JVAM6q9mrbFzw9Ll6j2OqTC4FG2NkZhbKJxBjvyAby6HJigAygwUDnTKrbVxOvUn5GeiQbEFHvYc+dLgEJSY9F0sgXPxfirIF78pgebzTVE8aZevIFOJwHCzAZthMSGlrDkfQ3+DqLq/EX5n/5xwjwk4g1Z/InMm7rsSvieY7l/gAJDr6XYdprKTMVRVMZIK6Zr6Xvr+KgfD3BZ6JaxSeo1h1gGYG9JaSBiQHEFucVap2bUAvr7PtVXwFX16xbTq316QkWRY28BjPqWJoA==;9dED5GnwDTqJjyGdO0dtqg=="
 ---
 

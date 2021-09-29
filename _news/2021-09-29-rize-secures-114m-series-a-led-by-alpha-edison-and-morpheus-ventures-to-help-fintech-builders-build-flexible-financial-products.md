@@ -2,28 +2,22 @@
 category: news
 title: "Rize Secures $11.4M Series A Led by Alpha Edison and Morpheus Ventures to Help Fintech Builders Build Flexible Financial Products"
 excerpt: "Rize Money Inc., a fintech infrastructure platform, has raised $11.4M Series A funding led by Alpha Edison and Morpheus Ventures. Existing backers include Rucker Park Capital, Walkabout Ventures, Raptor Group,"
-publishedDateTime: 2021-09-29T13:14:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-f2a25b63a7149ddfca8fde41973f3973"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-f2a25b63a7149ddfca8fde41973f3973"
+publishedDateTime: 2021-09-29T12:34:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-rize-secures-114m-series-led-alpha-edison-morpheus-/2021/09/29/9458886.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-rize-secures-114m-series-led-alpha-edison-morpheus-/2021/09/29/9458886.htm"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "hu09GuvpvSmSd67m6Ro9B1sRcYPnNO8g/p56Ti6VXSjGgQiLlfnVJld/tiGdRxA024vSfjlMKS3ch3AY808uf7Dy9Wntnjvzi7CQL3dSFMGeSLyR6QTvbreGjM93qqNg/2RFqEPrnDHuJnIqqaUgdxEZpxx0Ms/HUzhukWK9/zcSrS0WBF/x3Mp87esUZffukiHffhXcaOlzvTdchQzbwu9X/NaLuwkCt6ZXpP/nZspAIpINRLHSz4yZhr27lxFBn9wnqc6NKTvRm9eEXAdsII54AeybyGm9YwigT/mKiieWZBlZEp7POASpoNiKf5jPs3MqpbCVDHggEqAmqM1M94qzZv90z/fuYWU2cS1QDVc=;NM7X6gFfSr5uyPyxD8ItPw=="
+secured: "no+HgZPv25fvaMb7McFofBX/+PstJ0wDeI0VkAqTiQjxR/KagTkwKX8xfj+Zp8RlbKLyPltd+7NqSF0u9lYsffAHGOvCS9Mpjnyh4mMTIgusDZ8M6kXYnsoKRuBBnB7dySm4/TaoxJS95GyuZ89f7D4OKcPM7rgxs0vHzg8yEDzToJx0rnLWSaGjygWys3LyIQ02Ys5rJdAwIUVuKP2OtVLW1f5vSwExhDclCR7IcHfniHGf3RPWgCam49TdyKmzzDVlZgx/WR4oLSU2Kq2/3opce4CCplvv1v66RQzYytYxAI/LlU+5nGaqpFtbaU1RKtNG/wzeICO/3Of8w3Ry77FcTGzGK26XwMFup3hsPFCLKtqujpAHmiklBIhtF+14eugYFoL2LTip1Je5L5eyN3e5QHn3zzUOQSaG1m/fsSRz7Z107wUyFfqyK7rh4lb9SBlxI6BjzOAqszwxCFiwreKizMUtC2mDSeAUc1hLo5cAXd5B41ew1TEg3j8WtyzeqJ8zaWtpmFQERfBoUiE2MQ==;sHxPz29QBVa+AzDPx555ZQ=="
 ---
 

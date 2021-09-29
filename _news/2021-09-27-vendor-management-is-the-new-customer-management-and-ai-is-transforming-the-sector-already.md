@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/09/26/vendor-management
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/26/vendor-management-is-the-new-customer-management-and-ai-is-transforming-the-sector-already/amp/"
 type: article
 quality: 77
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://www.retailgazette.co.uk/wp-content/uploads/2021/06/Roubler-1-696x270.png"
         width: 696
         height: 270
+        isCached: true
+  - title: "How artificial intelligence can benefit the egg sector"
+    excerpt: "Artificial intelligence not only makes data gathering and processing easier, it unlocks the possibility of predicting what will happen next in the layer barn."
+    publishedDateTime: 2021-09-29T12:29:00Z
+    webUrl: "https://www.wattagnet.com/articles/43655-how-artificial-intelligence-can-benefit-the-egg-sector"
+    type: article
+    provider:
+      name: WATTAgNet
+      domain: wattagnet.com
+    quality: 37
+    images:
+      - url: "https://www.wattagnet.com/ext/resources/2021/09/29/Madual-data-recording.JPG?height=1200&t=1632918473&width=635"
+        width: 635
+        height: 846
         isCached: true
 
 secured: "ZeO4aeTKoqa6fVK8dVR/6yGkEfYHHSYnBkGPKx0UdcAZ4ZHaD9exS93CAfgxG1e7TZ1aETHdLqTwmuyeoqNLK5fAKlkttJvWOaDA/SRdB+dvCMbPufkgpxsGlPugQtp/3UakcoT9yzDLXwp5I7KTQOmGQUypRbt5WhX8Otg54VTuD2mQG6SMLW6yfJlsyKqw5KdlUealcWXbQm5OeJNqZitVgSdoySirsAJyYlHYoclZptLah+jEIUki43/sBd/VcdFBfwB19MxOsLpMokYr/3hEGR59gqVfoRmgFMYh3wosky65s3D7qrcNsB8OndXhKTdXW3LHMjIkb6PStwYKRb5gGtC6OFzltki/3o/U7GdTHXVOo35bAReAdF6rHPQMwf9xqXGPs+7N2l34C+emmhcB4OBJFpblBiIbs4xaPxtq7UtvmeJRcc0qGHE6P3XHeFzme4k3YNlijSj3A7+4JDYOUChAPaDi7UoC341Q/wIvwSKyTcterk+LVXXOPLBar1XsADeaqaXl8O427Zm1/Q==;tSBQtSLjlCj+jyuXrzhGkA=="

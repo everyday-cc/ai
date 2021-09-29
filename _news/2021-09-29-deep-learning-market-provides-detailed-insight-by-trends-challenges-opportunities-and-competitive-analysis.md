@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2411602/deep-learning-market-provides-det
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2411602/deep-learning-market-provides-detailed-insight-by-trends"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: openpr.com
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Beyond Codes signs 7 AI product companies"
+    excerpt: "A global Lead Generation company, Beyond Codes is assisting some of the fastest growing IT companies to expand their market reach through B2B appointment setting, Account Based Marketing and Events & Webinars."
+    publishedDateTime: 2021-09-29T15:31:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-943fb4476b84f2330cbc820c5eefb8fb"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Global Artificial Intelligence Market Trends, Strategies, And Opportunities In The Market 2021-2030"
     excerpt: "Artificial Intelligence Global Market Report 2021: COVID-19 Growth And Change. The Business Research Company's Artificial Intelligence Global Market Report"
     publishedDateTime: 2021-09-26T01:54:00Z

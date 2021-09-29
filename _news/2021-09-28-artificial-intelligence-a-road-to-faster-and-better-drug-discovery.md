@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-28T08:00:00Z
 originalUrl: "https://www.labiotech.eu/partner/ai-better-drug-discovery-design/"
 webUrl: "https://www.labiotech.eu/partner/ai-better-drug-discovery-design/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mk0labiotecheugl43g7.kinstacdn.com/wp-content/uploads/2021/09/CRL_HEADER.jpg"
@@ -24,6 +25,6 @@ images:
     height: 559
     isCached: true
 
-secured: "+7kpRMmlM+AOr6XIEOTVrvZ8kQzdTh6qNuQDASZuZYBvonte8dC0Nw5siLne7MwQFMq5EGduhYHgqXFgTnM5+z8lO5FNLK4vQeS7W0mdI69ewMU8p7VNAPqVKwFoLB6Tib0+u5K+3tcPg1xhL97Ad+i/1KN4gOA+hJGAtAokFPuY0KyOMqMVER2arxvbwkpXmY0W4Aln5hZJT/Ul4YyXA/jul3DilG+dYtOfrprhb0Hrrw72I4Kh1qmRf+7nVrDoK3qPgjsKa9NoFwGiYWqTAw+RARrAG8ybxLT8L/djC1GTr1i234RZrS5S4G6bTqVLM1GPsewgU526rp5EX0LBpoPktO82LJNgYCPkb0fCKpc=;GiouWSL9dqpaQQEsqsYuyw=="
+secured: "io4d54I58hiJOTcbpUbq+H3C19/+nu2Br2l7c/ecPglrORBbBgV/+s8YWNut2AVuxkM8XA3B/JiIJn+k9mrU99Y7caPeS2ESnriNwEJAd5EWqE/pBTkwclXD/701DJHa4WfBUJBTZlL+gwJTR3PXmE53vlOnqQXqD2h/w9sIXi4LsJiGOvioURhpKbmf0YtOv9P9ZPJqpZP8LO4ZLunbCIsV880Mic6FNblChqHz3gCeM9T1ocplUZdPn2yEUG5zogcQU1NtzKJjbYj/Sa7cNb7YXF5oNhVX3xGxYN2cHNGE3EFgD63gAiJrA7VUEgYso1ZXJ20jqYWuSgEOFyusBmiWH8ROd2/pw4BW+/iu5MpEWezAVg56KGkEhDhsos/QTxpHclVULyJTuMroKB5vAWw614p2wKU6mnJS3aCyXyVkaSLraOa/kApNTlWo+Xpv7mKMQJ3JrjAP4uVN2/vvBV3RugFRMWAAJjeWKTJA2jx/iUD/TrRNpjcu8EZFrvAhWaQViV3FeRvcBRq3pSCDVA==;J/KPIAhiAUJXTztNNie6Yg=="
 ---
 

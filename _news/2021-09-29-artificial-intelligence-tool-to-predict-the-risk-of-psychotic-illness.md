@@ -58,6 +58,22 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "AI-Powered Tool To Predict Cardiac Risk In Indians More Accurately"
+    excerpt: "An Artificial Intelligence-powered tool to more accurately predict heart disease risk among Indians and recommend modifiable changes to prevent heart attacks has been launched by Apollo Hospitals in partnership with Microsoft."
+    publishedDateTime: 2021-09-29T14:52:00Z
+    webUrl: "https://www.ndtv.com/india-news/ai-powered-tool-to-predict-cardiac-risk-in-indians-more-accurately-2558126"
+    ampWebUrl: "https://www.ndtv.com/india-news/ai-powered-tool-to-predict-cardiac-risk-in-indians-more-accurately-2558126?amp=1&akamai-rum=off"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/ai-powered-tool-to-predict-cardiac-risk-in-indians-more-accurately-2558126?amp=1&akamai-rum=off"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
+    images:
+      - url: "https://c.ndtvimg.com/2021-09/8c9s1ge_heart-risk_625x300_29_September_21.jpg"
+        width: 650
+        height: 400
+        isCached: true
 
 secured: "HjpV2LTFOGY9e4OIyj0Hyf5cEvi0ISlzpqBGh4XHguoSrF27oItGFeCVJl40Y8F87ofsv9qDc/dLimd1AM0/O10FIeG539uTMplKsyCtTlNECFumrufnnxcQdAn2BYoShwg5QKExs6hGvjeFIJfUVKArpXCIPtVMh0Ii20WT+/yvipKZQxr/AtWMk0SzJwzt6Fx4UlNitVbFCBLkKtV40SClrrXvIfSl7sLbbmqgW6a9HSJtCQ4MqC5ziaHoFgkYHvDHr1C5u2EkwqQLQoeaASSv5wTdIpEnl1LASZZXVdtDnrF4/NufA2spVpNwqps+9PpUN0Z/B77z/L3Z5F9DXRzQEnZu0SQL+9UgFhcvOCw=;kWETHZwxJ6LKW8pJkSMs7A=="
 ---

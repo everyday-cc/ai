@@ -37,13 +37,13 @@ related:
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 57
+    quality: 59
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-driven-dynamic-face.jpg"
         width: 2880
         height: 3449
         isCached: true
 
-secured: "8OrT+CMz9LMXH1tQDx4bFUa1K9a6kNSFsc+Dtkc5Ip5DsQvH6YyfJqSqhwdFaSKQGs3aZG2PWyW5nKMlHGzVLwKnpsSF1o9Z+uHhvtR5eTfsnAkiRxzUVobK+CZ8wtNKcsk5XY5W3YICbyBT0f9ApoJEuUm86k0QHCVxTtOb3uqsjrZR0bOS5agZoi7BQEWJxagLn3CnKsiVGFicQCkebc9P2mJgPJxZ022w6WjSgpkv0Cnv0cQL90m5MWJmolcQ/lSfCWl9PR2yldMKR1qyq+lHi+1dznIsg98dkOELWMeU0BAczMij/EW9x0lTAJVQfVgkb44+ai8qD/x3rpGUfShBCo2/lQOtvROHcD88nJ0=;076OtgUsxJs9UYCEMKAGAw=="
+secured: "EIKu+XeneVXoXD8p39YOTJtDxYRzdfXUvlCDSOmA15vxNxetllg4yEORJC32YVsYj7zMXWMTmLI4bR6XdcyeWbuFgUxJCCDza87OE/+6hp99Z8FqckKVMDDp/wzXwqTMU++hCPaWUr0RsuT06MBsFbrmqdVnX6l9mM4NrClyHcs/+02Thg6sabBoY49eI+FHSiPhJxw6WrzJAH1rc3QzQICgJKwovw9Eyz1a8yDyp0KUVi15jxqHza7OEbo49S2/+nBRhPl/t9HX5O2gizSPIUtkntFCqVsSTuotnFk1EQp9qKbgWF5YFD38QMdbjxJM9GyggoVa7eiK0sPwv8LAx85K4IMcwzvHY02OLfAdPae9rQN2eR5O5Bpodnyk3WbvvHl2Cp1VrZ5ix7r9zozeCC+C176kyh9po0+YGXjxcghscleM0afM3RSl5bbkA2qAKu4ijRiCAu9fCOQtYVhbp5Kn7hU9kMWx4K+EObbwKf0Fq8jNaEEqHOODsGsL2T19zkF/OWkTR2xW7CMx4SU+6g==;rnHsFZ2H2fR8QmeWZwm7kQ=="
 ---
 

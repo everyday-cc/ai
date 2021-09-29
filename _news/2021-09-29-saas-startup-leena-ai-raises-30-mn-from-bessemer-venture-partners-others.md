@@ -98,6 +98,20 @@ related:
         width: 2240
         height: 1260
         isCached: true
+  - title: "HR-tech startup Leena AI raises $30 mn in Series B funding led by Bessemer"
+    excerpt: "HR-tech startup Leena AI said on Wednesday it has raised $30 million (about Rs 222 crore) in a Series B funding round led by Bessemer"
+    publishedDateTime: 2021-09-29T15:08:00Z
+    webUrl: "https://www.vccircle.com/hr-tech-startup-leena-ai-raises-30-mn-in-series-b-funding-led-by-bessemer"
+    type: article
+    provider:
+      name: VCCircle
+      domain: vccircle.com
+    quality: 35
+    images:
+      - url: "https://assets.vccircle.com/uploads/2019/06/Fundraisingrf.jpg"
+        width: 810
+        height: 506
+        isCached: true
 
 secured: "cIX0VzrEfzCVe1OTcn65KpEuemVz4WOUAI11HQWAEvWj9amaOEc+lFaitbiBWJ9zYA0XaKxGfWGVSLAglFl7V4LPer8Flv2B7zPldRwLk/Aut8o/fBZvTVXFjLAlarv+b7WVBSZsOT79Ha/T7PgG2j/u2IWcGqoIuohqccNFxY5voyQtiIp1EvQ+ZfEij4C/7Nu/b1zmF2V2kA7JIm6Qzv7+9qmum5z9xWeg0k7e0Yi+EtL222FY9nWjxKHKD8Q+8/6sDAEXc9pI1DkIeC4MbS7NOk+oPxQ+2TtxjzOt4OY5ZbRW9TSp32M1E4Yt8GpLDr5BW3aGOwjU1Kr28AQx7Kf7U0nY0h0ZOmZJPdPUh1BWYohbqZDW0msIF2Hdw1f/XlwCVV5On0NjxgBtRdhxA8csZPd6zTAW/3mPAHAeqEv0P0i3f/rHCyV2kR9/cMdvZJQPWzgekH2QJqwd8zMTqgtP82ht6FaBwm1TYkwyetBwPyIeWT4QL6YFMMf8423maWHB4+4XmCYBm83ScAS+7Q==;yI6fhbFFn4OnUL2kK4mN7g=="
 ---

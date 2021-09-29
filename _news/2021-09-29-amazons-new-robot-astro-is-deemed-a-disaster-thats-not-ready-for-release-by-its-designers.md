@@ -257,6 +257,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "The robot home invasion is official, as Amazon unveils Astro"
+    excerpt: "Astro is the first Amazon robot for homes that is designed to help customers with a range of tasks like home monitoring and keeping in touch with family."
+    publishedDateTime: 2021-09-29T13:07:00Z
+    webUrl: "https://techhq.com/2021/09/the-robot-home-invasion-is-official-as-amazon-unveils-astro/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 39
+    images:
+      - url: "https://cdn2.techhq.com/wp-content/uploads/2021/09/063_1343644718-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Who wants to say hello to Astro? Amazon’s cool new home robot"
     excerpt: "Described as \"Alexa on wheels\", Amazon has just announced its newest innovation: A little robotic helper named Astro."
     publishedDateTime: 2021-09-29T13:07:00Z
@@ -272,6 +286,6 @@ related:
         height: 500
         isCached: true
 
-secured: "s2XXStHBFrEdJsBr7WqGzXIuI0wQ5cnjngwwTTs+auoh6fHFnIkwIJvB7ZgJ+X8hJO2XWwjzwzNNSB7RbPO/RbY2n5EjSNeXz5IwoAUSZXISpJa+rueHRIPzzd2DHMYw9/l2UJGW1hcxlzDSLcrWy9Ew16kNncntvM6Jg6Pzyg18PeNc1l1a1BLAKqilKpzfrfEYSba0v3DfFmmpg3IgFIOib9Qfb7hdBKuxictp89tv75p7yqpNnCJ5xDfuCuOklVYoexhHW1F2uGga41TiGxItdfyDvY06lHSJHx+H6qkHxDiFymoOjGqYWzltFbHSvyaRAVpwiiqznNYUfIdkyHAOzMbWMgt49GV2/7V+VmA=;tOAf6hP0YTA8tPFDbbrYhA=="
+secured: "DO/0HpNjnjsIWt0boFj5NwmVkeb8yANOnmGM/F73+Jw+qCe4/OQjvcMykMDi2M9kXfDRe8XiVlZ4FZHZR9bg7pvwnZM/nCDVTwe4L/4Vk0XcGmPm3GBXNR4QSUKTTPvYvn9c0j2NmpWLBknBnxyEp96AoWcXs1ApPce9hW3kYSn3VrE1juvzpwwF1vshVHCP/yrAN/PskbFuri79EO4EEc14OXIQQhjBgFDq+bbLxvnS445o6Q6GNxeotPPSajYGhsHNtkCO43VpnYWmVwZ9pKRpPQgTbl6rb60ZFok8RsCCtzVY/xjgEl3S1I5P6rYSCqs1Y7sBwa+FteHLM3YtqXN9/FP66kEXFAVLykQfo0SPm1d6IY6FpDBfkU7eOsBGhXrwLuigb0fIDMQSHR/piXorRR3s+MR4RmvII3wWEasxExBMLROI09Dv0UkMM4TIu8RDpwKSVW6bY9efmRPe1kLU+O9hYCxf4PZyfmB0KzGwbgYuMCfG4ktfVib3L51Aj8aBwmm1MCmkHlGZADtwwg==;cifGUXpHcbhMegg3RW6lEw=="
 ---
 

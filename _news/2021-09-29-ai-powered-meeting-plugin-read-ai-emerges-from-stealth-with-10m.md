@@ -1,0 +1,80 @@
+---
+category: news
+title: "AI-powered meeting plugin Read AI emerges from stealth with $10M"
+excerpt: "Read AI, a company developing a platform to analyze virtual meetings, has emerged from stealth with $10 million in venture capital."
+publishedDateTime: 2021-09-29T15:30:00Z
+originalUrl: "https://venturebeat.com/2021/09/29/ai-powered-meeting-plugin-read-ai-emerges-from-stealth-with-10m/"
+webUrl: "https://venturebeat.com/2021/09/29/ai-powered-meeting-plugin-read-ai-emerges-from-stealth-with-10m/"
+ampWebUrl: "https://venturebeat.com/2021/09/29/ai-powered-meeting-plugin-read-ai-emerges-from-stealth-with-10m/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/ai-powered-meeting-plugin-read-ai-emerges-from-stealth-with-10m/amp/"
+type: article
+quality: 87
+heat: 117
+published: true
+
+provider:
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2021/09/remote_workforce.jpg?w=1200&strip=all"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "Read AI raises $10M, creates virtual meeting dashboard to show you when you talk too much"
+    excerpt: "Read AI wants all meeting goers to be engaged and feel productive, and it has developed a real-time shared dashboard to alert meeting participants when things are going well or not so well. The Seattle-based company emerged from stealth mode Wednesday with its first financing,"
+    publishedDateTime: 2021-09-29T15:30:00Z
+    webUrl: "https://techcrunch.com/2021/09/29/read-ai-raises-10m-creates-virtual-meeting-dashboard-to-show-you-when-you-talk-too-much/"
+    ampWebUrl: "https://techcrunch.com/2021/09/29/read-ai-raises-10m-creates-virtual-meeting-dashboard-to-show-you-when-you-talk-too-much/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/29/read-ai-raises-10m-creates-virtual-meeting-dashboard-to-show-you-when-you-talk-too-much/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 78
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1218040751.jpg?w=1024"
+        width: 1024
+        height: 833
+        isCached: true
+  - title: "Living with Artificial Intelligence — this year’s Reith Lectures"
+    excerpt: "Living with Artificial Intelligence is the theme of this year's Reith lecturer Stuart Russell — the four lectures will be held across the UK"
+    publishedDateTime: 2021-09-28T15:06:00Z
+    webUrl: "https://cultbox.co.uk/news/living-with-artificial-intelligence-this-years-reith-lectures"
+    type: article
+    provider:
+      name: CultBox
+      domain: cultbox.co.uk
+    quality: 37
+    images:
+      - url: "https://cultbox.co.uk/wp-content/uploads/2021/09/Living-with-Artificial-Intelligence.jpg"
+        width: 1456
+        height: 819
+        isCached: true
+  - title: "Improving Breast Cancer Imaging with Artificial Intelligence"
+    excerpt: "A study led by New York University (NYU) researchers created an artificial intelligence tool to improve the accuracy of breast cancer imaging. The computer program was trained to identify patterns among thousands of breast ultrasound images to aid physicians in diagnosing."
+    publishedDateTime: 2021-09-28T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/improving-breast-cancer-imaging-with-artificial-intelligence"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-845751048.jpg"
+        width: 690
+        height: 400
+        isCached: true
+
+secured: "heHjYH6GSE2jv2yXA6FCHzIfwTOqvWbTRH5waB2LsToJhQ5KyN4oXR3+KEH+n4uk0BL/iXVwIwAzaCx9zzRGMCYcVoZJ9iW9zwU9g4s2diuCLJD5rO+RTnlfTqXhvyCDCS8LOIeRnw73NOAMZZfrTRZx9Dc3NDbp4YZw77otmrxqg5a8CeT9J53+wnYvJahCnPUyg1c3CUUtk/qnjHcvs4fWaTBoSnDTQP6Hv47prAorxfrrFhdEBrg2gRiQRolJZ7fX9Bj7yIhoMOF06pdyIVAz4I6FhxrjvUtWAkrGaOFc4ZNleWyKqByx6oplUm7C3LIYlm+KU3RTioSOQTuPJfkMm+YWBSKmig4PsFsqLyU=;iGUrGQPRkTsxhLbXrf/TTA=="
+---
+

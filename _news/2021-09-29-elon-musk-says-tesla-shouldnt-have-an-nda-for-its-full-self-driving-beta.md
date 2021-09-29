@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nd
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/amp/"
 type: article
 quality: 88
-heat: 408
+heat: 368
 published: true
 
 provider:
@@ -207,22 +207,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Tesla Is Bringing Self-Driving No Matter What. Regulators Need to Adapt."
-    excerpt: "San Francisco authorities have expressed concern over Tesla's autonomous driving feature, dubbed Full Self Driving. More broadly, self-driving systems are advancing much faster than regulation."
-    publishedDateTime: 2021-09-24T21:37:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-stock-self-driving-regulation-51632504996"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-self-driving-regulation-51632504996"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-self-driving-regulation-51632504996"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 58
-    images:
-      - url: "https://images.barrons.com/im-406428/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Tesla expands ‘full self-driving’ tests, bucking the feds’ safety concerns"
     excerpt: "Tesla drivers can now use a “request” button on their vehicle’s screen to apply to join a beta test for the full self-driving feature, Elon Musk confirmed."
     publishedDateTime: 2021-09-27T15:35:00Z
@@ -298,22 +282,6 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/09/hypatia-h_3fd6c0a39d248694629ed28905a0d199-h_f41e2080efdf75352cea7bf453ee7dcc.jpg?w=1024&#038;h=682"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Tesla expands self-driving software test — but only to drivers it deems worthy"
-    excerpt: "Tesla is rolling out a new version of its so-called Full Self-Driving system, but to be eligible, car owners who've already paid $10,000 for the software must pass a seven-day driving evaluation."
-    publishedDateTime: 2021-09-24T22:20:00Z
-    webUrl: "https://www.latimes.com/business/technology/story/2021-09-24/tesla-expands-self-driving-software-test-but-only-to-drivers-it-deems-worthy"
-    ampWebUrl: "https://www.latimes.com/business/technology/story/2021-09-24/tesla-expands-self-driving-software-test-but-only-to-drivers-it-deems-worthy?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/technology/story/2021-09-24/tesla-expands-self-driving-software-test-but-only-to-drivers-it-deems-worthy?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 55
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/35eccec/2147483647/strip/true/crop/1723x1152+163+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa7%2Fd5%2F8809f9c34d5a5106724b57a3a83d%2Fla-1516891360-5lr9wec3h2-snap-image"
-        width: 320
-        height: 214
         isCached: true
   - title: "Tesla's 'Full Self Driving' request button goes live"
     excerpt: "Electric vehicle Tesla users who wish to take part in the company's Full Self-Driving (FSD) Beta programme could no"
@@ -437,34 +405,6 @@ related:
       - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2020/09/tesla-hw2-autopilot-promo-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Tesla owners can now request ‘Full Self-Driving’, prompting criticism from regulators and safety advocates"
-    excerpt: "Tesla began letting owners request its “Full Self-Driving” software early Saturday, opening up for wide release its most advanced driver-assistance suite and signaling thousands of drivers will soon be on the road with the unregulated and largely untested features."
-    publishedDateTime: 2021-09-24T22:45:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/09/24/tesla-full-self-driving/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 21
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6IVIAUA35II6ZPVIGCHKCNCZJ4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Tesla owners could soon gain ‘Full Self-Driving’ access at the touch of a button, prompting criticism from regulators and safety advocates"
-    excerpt: "Tesla is expected to issue a wide release software it deems to be self-driving, giving owners the option as soon as midnight to upgrade to its most advanced driver-assistance suite and soon putting thousands of drivers on the road with the unregulated and largely untested features."
-    publishedDateTime: 2021-09-24T22:45:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/09/24/tesla-full-self-driving/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 20
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6IVIAUA35II6ZPVIGCHKCNCZJ4.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Tesla Has NDA-Signing Fans Out Testing Its Self-Driving Cars"
     excerpt: "Instead of deploying trained safety drivers, the electric car maker reportedly has YouTube fans driving around to determine if its new driverless software is safe."

@@ -70,6 +70,20 @@ related:
         width: 696
         height: 270
         isCached: true
+  - title: "How artificial intelligence can benefit the egg sector"
+    excerpt: "Artificial intelligence not only makes data gathering and processing easier, it unlocks the possibility of predicting what will happen next in the layer barn."
+    publishedDateTime: 2021-09-29T12:29:00Z
+    webUrl: "https://www.wattagnet.com/articles/43655-how-artificial-intelligence-can-benefit-the-egg-sector"
+    type: article
+    provider:
+      name: WATTAgNet
+      domain: wattagnet.com
+    quality: 37
+    images:
+      - url: "https://www.wattagnet.com/ext/resources/2021/09/29/Madual-data-recording.JPG?height=1200&t=1632918473&width=635"
+        width: 635
+        height: 846
+        isCached: true
 
 secured: "auAmQh2bSespw3nob87SmHq3AkPCj5CdKw838b5kMKOf+IYIBJnvJ8ZEtYCGB1r5yN9U9z9Ees05f+Uh55u4v5hDkU+A7x0SWjzAj+SQp62xWOmczVQ0iPWBcLI6DWWlCAE8lIaqr7cpf9ohHlDHiSPfDtxMiPEtX1QCUOyb7ziQM0PY+HZL9/ArintqYVZ0JyEg70zl/9YT3hRp+yBMqJ+5ge5aOeicIetwvqkxLH6U6LcTeGtqz3gvJLZ+N5rpczZ2gGsU2rCI4KRZ1dDaOh11ruQROVbeC05wSxDsh64MtvkbiW1hvRJt1ULwHzDGPYNWysXDB2nQw5ed9eq9Q1bUH0JZCDsi0D/V2+Ds70QWKyVM0lAlH0aKZuVbqT/4f177BOmAfBy97xLCCBL+IeeNHaxkoRjVzFWRfMvPS8qbNtuY/x50hFOMEdsKkoC1RRUb9cbvWea/0CwQbXISNm7ERkgoYfGyAIy/CBuYNft4ia/7xArd9xjaHAhBbA4yxvE2HnTuCfc3iTYwH8VGcQ==;FBv96rpqgihQXfjyAh6Ffw=="
 ---

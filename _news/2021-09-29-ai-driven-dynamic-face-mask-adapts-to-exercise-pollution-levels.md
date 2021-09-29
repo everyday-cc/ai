@@ -8,7 +8,7 @@ webUrl: "https://phys.org/news/2021-09-ai-driven-dynamic-mask-pollution.html"
 ampWebUrl: "https://phys.org/news/2021-09-ai-driven-dynamic-mask-pollution.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-09-ai-driven-dynamic-mask-pollution.amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-driven-dynamic-face.jpg"
@@ -43,6 +44,6 @@ related:
         height: 930
         isCached: true
 
-secured: "i6GxyoBWLc6g3oDeXdT8zlP/oAiAwN+8bu+Ne0TdCEFMXo+UcDMxjPtn1zczS3ZLUKT4TY0IHq0TEpTCTcQTVePnPiVfiqxLOGAj500Rj8B+6Zbu55nOofbO4v07bLj6qytV4XGmwCyV17wX1MgURRDUkaYwEpQTH3axfNakoI6p1Y5bM7msYC5VGUCsvPRqonpPiEW6VLce9w3ClxBHbE+MQxMZv8lOydHa3idFwdoa3KxYBJogPV3tfYtsM5Amx7EEju9GlU2VxUP2nFCj6KzYnVyes/krN5PDzB+x3lvbIMq1Ho2AEnEt1dLcqiMBl5qsnwct+7Swl3giGuHruemorwJxIwadSzaMIu32jB8=;txQ+yH9pcNumbpV5lZd4xg=="
+secured: "c3s26uaCzWKOWrCcc/BGdfyU5Un4Qz9TtkIljd5rLd5eo5PDzpNQ/NREe7cNar4P1S8Dbcu2g5wNZAs4BmqM/PKd+8o4j3d//vdWNlKwmmecUL1DfBsKRQqk8959NxqDqzcnEJY5w1DBUr5VN2lYu1wGNmKzrkUA1UyVxZNm++BoJ/3Kl3tn9PUUgVUUHcqwRLMxqF3fSdOXb0d+smwzCfFjfHHvmu7comvdl1EvrWOy3SZ436Ebyi6GSEiUAqsxx6kwp7YbKWDb8CQaC2OrYbdMMJALkSl0wMa5pOm5EntGkGMLxKQSQT2Lq2fCKjJFgrKhtD4aL2scq8HJCugfZ6JLk4OHBHTptYtcsAfS7wcJebVATgGoBRWlKhH2npCQP6nghk4ZRP/MLVcnhREYjG2AlzM/aaGupfGhiktp0ttbFau0MN5LK5ochGiHumzMJPHTEtnI23VIPraFJ6JyfV9YX526LYJu7mihx7rPC5a7T/O6ucPBkzIXa8LvvmL9KJRkl7ht2wBnd5L+IAlaEA==;l2bHJiA6xKOmMet4ROaaiA=="
 ---
 

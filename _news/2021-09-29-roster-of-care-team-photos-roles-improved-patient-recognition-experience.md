@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Roster of care team photos, roles improved patient recognition, experience"
-excerpt: "Offering patients a roster of clinicians on their care team increased recognition of each clinician’s name and face during their treatment period, something patients also reported as highly significant to their care,"
-publishedDateTime: 2021-09-29T13:01:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/929455"
-webUrl: "https://www.eurekalert.org/news-releases/929455"
+excerpt: "Offering patients a roster of clinicians on their care team increased recognition of each clinician's name and face during their treatment period, something patients also reported as highly significant to their care,"
+publishedDateTime: 2021-09-29T15:46:00Z
+originalUrl: "https://medicalxpress.com/news/2021-09-roster-team-photos-roles-patient.html"
+webUrl: "https://medicalxpress.com/news/2021-09-roster-team-photos-roles-patient.html"
 type: article
-quality: 2
-heat: 2
+quality: 22
+heat: 22
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "0WIoZcJqvAdYyUr0nZfdPI/S6w7ITxrMA/K0WNAC1cCHDiKOj3kEd2ebS278OPOrOuV6KJnoHciWUWLV+x3CEyZIg/2QOWp4rFHP++10nOySwyNof35wWm8ZhTyHilM/HfnPHmTMRK+BJosEhjsyzHQflcfIFxlifTraIfQ85CKtbBHKG4M/ZpxPuj/yGuYLxsY9R15FC3M/50n9VTJRr5kvWawlYRVxAtW/yHF5jwBMhcQxvU06gb6NlPJdJTr4s8+x7Ft4NTk3G0JvNS6zezLwMJu3XAQOjE2x4jnfitc8txEmePKIq9tZbD9OFvdKumqtMtproI1CPYIALyMD0jp2fMgPYR1JKXcHJ1f1FTc=;UfUXxbDBs75ax0jTvjZlAA=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/10-patient.jpg"
+    width: 2880
+    height: 1920
+    isCached: true
+
+secured: "nPbufEPYFAcKN37PqwU5KEQNXSlUQo+ZWWsLEWo/RGQZTCfCb3KDan8nENjxHuCJ5s4qEgB99ojWTVy7VYrz1W6vh6SvjDE0Z7zCvGGfjirZeSZFtxh+sWJC3CpWm4Yr6Z+rrkgHEQJoFOfs4F9UZrfx+9isYOhAvziTlQ9fcRfBrTsfw1YtN1EbCnioIffUZGiT0Ux3MSbPIRsAR71536J1xrpuaeOrxhmQn3RY1g0XZ6Vk5eyMX1WSOD5P3M0KkTG5hT59V9jDSa++HRKDgTnGX4KKOAr6T71DWeeYPX3D0BnRgfeQoap4iwflIYY+nQhuCUPdIRxhFBX4ydsJRBChdUk6fXOYj5vLj+GKqR0=;1cLrjd4BxuNku/7zR3tL6A=="
 ---
 
