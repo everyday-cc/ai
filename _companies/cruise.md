@@ -2,7 +2,7 @@
 name: "Cruise"
 overview: "DataRobot is the leader in enterprise AI, delivering trusted AI technology and ROI enablement services to global enterprises. Learn more at https://t.co/KudGk1wzvJ."
 type: "profile"
-heat: 50
+heat: 115
 
 website: http://www.getcruise.com/
 
@@ -49,6 +49,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=4lYNckVMys4"
 
-secured: "deEZGnXgxwAhoF4nJbKRMdw7tqloxux27fO1ItPCERE5bChDv6pq6yr6mdqYshBcZEKhkK/WBeAXPfTxUpFfjD/2rT3qgxPph/u1SAkJmbsDn1TtNlQVB6BUiYckH1zuvwsh/tdSqlseyheyrn5B5+GsVJ6rzyQw8jfh6m/j7S+S4d8FVEA43kbMPHWWur6OqMifKln+VKrdvAt1kucM1tmAC3/+S6dhxflEKpPIY3OcDOci55YdOLdjglM4KhAUCTvCA02pK6hK1Uhb8FaV3R5GJgX6T1aMW3a/8JoNRFWSpaS7Z9/c5DeU0TmBn2pzNXy8HfwLu1SVzlxWRzA2HKC/L4F+VVZAV9puFKl4wtq2Oq9t6aHDtGy3Vyo0Q2mts+hZyP56gbm4lZs0AvxoAk2fH8lCRY+vJ9SlZMo/98w=;Z45PhlTIoF4uVuKnSspE1w=="
+secured: "P6/3MMEestkVy8F2G8LMLnJx+IFvjz1gGt8dH3+7pujFimIpNdJPnX3km5S3iSq0+/rCeoGC0C2C+nrEimpotImcXp41dswJKW64fauP3h7TCHwFYsXWpfLTx1SOQQcMts7x+e4iPknEgXGh4tSLf7zWuxFBhzbJ4++mX+lxCqhDMLUNZ/xe4JvVeSCNXonuc+bRpuviW5x46hAjIQnU4Um771WLaSedr0t85xREppgcVwsXYZjncjuNQQ3CbBjqBndD+qZ374iesLqtoWxVrF13NoINJWuWQfRTczu4VBi9tk2p0S9oLGcJYLX5C6HXoC00DFaM+4O8FAYelpKi6p+Kh5/nmcuWx/7DrrRTLJFqN8tNeesU6uS4ZF93vExaHjegZ5Igq/5GpiGlLgiFFk/nFLTBWJgC4zx80EBbrN0=;uDFh2Up2KH74ifoInE802g=="
 ---
 
