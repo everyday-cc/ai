@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "foodvisor_app"
   url: "https://twitter.com/foodvisor_app"
-  followers: 1190
+  followers: 1191
 
 size: 11-50 employees
 yearFounded: 2015
