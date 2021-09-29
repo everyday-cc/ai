@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1102884604/Scope-of-AI-Deep-Learning-and-Neural
 webUrl: "https://menafn.com/1102884604/Scope-of-AI-Deep-Learning-and-Neural-Network-2021-Market-Research-Report"
 type: article
 quality: 67
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -93,6 +93,20 @@ related:
       - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
         width: 580
         height: 339
+        isCached: true
+  - title: "Global Laser Processing Market Research Report (2021 to 2026) - by Vertical, Configuration, Application and Region"
+    excerpt: "The \"Laser Processing Market Research Report by Vertical, by Configuration, by Application, by Region - Global Forecast to 2026 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-09-29T19:24:00Z
+    webUrl: "https://www.lelezard.com/en/news-20022226.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 2
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/mining-industry.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "Cz0FftUwJ7ajWEQqIGVnKlm4z33eGdEksQjYf/hx/pPitk9qI6m/kUbuILdPC00MHVkQ+QFCoLxVmPtCDaaxBBgpC4t38ktD9ZkjBFg4TQ9tvFXuXAa3f+4iUIc5NVb2Hqk22PGqYIP2kvlqwvvHFLjYClNEF/0S6GZXEllH6A84IC4v+S3QnC+blk/xh10WwRo1BiyIM5GajqNNaqld2RdmsRnlWL+ouKxnIuxMUsi0dgMQ7eJaScipOmwImsQoQVhz58QgcXbHibGoQicgUFdbA9YTcfLMdhBghTaVqJu4KH6LkLMfGtHAwJj1nvPom+dz7QUlLMvYsb61VXK9wn/8f4M2/pXeDYcE0+xKaPc=;sT+s4qWS7MtVe7Jofncx5w=="

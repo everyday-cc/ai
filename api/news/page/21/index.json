@@ -2,6 +2,92 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-09-13-its-best-to-wait-on-baidu-stock-in-light-of-chinas-crackdown.md",
+      "title": "It’s Best to Wait on Baidu Stock in Light of China’s Crackdown",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Although I continue to believe that Baidu (NASDAQ:BIDU) stock has multiple",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/its-best-to-wait-on-bidu-stock-in-light-of-chinas-crackdown-1030795277",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/its-best-to-wait-on-bidu-stock-in-light-of-chinas-crackdown-1030795277",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-linux-developers-talk-again-about-an-accelerator-subsystem-or-moving-them-into-the-gpudrm-area.md",
+      "title": "Linux Developers Talk Again About An Accelerator Subsystem - Or Moving Them Into The GPU/DRM Area",
+      "excerpt": "On and off for years has been talk of an accelerator subsystem for the Linux kernel considering that for now most AI training/inference accelerator drivers end up lodged within the \"char/misc\" area of the kernel.",
+      "sourceUrl": null,
+      "webUrl": "https://phoronix.com/scan.php?page=news_item&px=Accel-Drivers-2021-Discussion",
+      "originalUrl": "https://phoronix.com/scan.php?page=news_item&px=Accel-Drivers-2021-Discussion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://phoronix.com/assets/categories/linuxkernel.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T02:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "phoronix.com",
+        "domain": "phoronix.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-13-israeli-firm-unveils-armed-robot-to-patrol-volatile-borders.md",
       "title": "Israeli Firm Unveils Armed Robot to Patrol Volatile Borders",
       "excerpt": "An Israeli defense contractor on Monday unveiled a remote-controlled armed robot it says can patrol battle zones, track infiltrators and open fire. The unmanned vehicle is the latest addition to the world of drone technology,",
@@ -990,91 +1076,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-11-artificial-neural-network-market-research-by-global-size-share-growth-technological-innovation-current-trends-opportunities-and-challenges.md",
-      "title": "Artificial Neural Network Market Research By Global Size, Share, Growth, Technological Innovation, Current Trends, Opportunities And Challenges",
-      "excerpt": "An artificial neural network resembles the function and structure of the human’s brain neuron system which facilitates improved analytical output. Artificial neural network finds application in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2019/09/artificial-neural-network-market-research-by-global-size-share-growth-technological-innovation-current-trends-opportunities-and-challenges.html",
-      "originalUrl": "https://www.medgadget.com/2019/09/artificial-neural-network-market-research-by-global-size-share-growth-technological-innovation-current-trends-opportunities-and-challenges.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-10T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-11-ai-drives-data-analytics-surge-study-finds.md",
-      "title": "AI drives data analytics surge, study finds",
-      "excerpt": "The Transform Technology Summits start October 13th with Low-Code/No Code ... “Trends in Data, AI and Analytics, 2021” surveyed a wide range of enterprise IT shops and found that many were ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/10/ai-drives-data-analytics-surge-study-finds/",
-      "originalUrl": "https://venturebeat.com/2021/09/10/ai-drives-data-analytics-surge-study-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/databases.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/10/ai-drives-data-analytics-surge-study-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/10/ai-drives-data-analytics-surge-study-finds/amp/",
-      "publishedDateTime": "2021-09-10T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -18,6 +18,17 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "Sumo Logic Addresses Digital Transformation Complexity Driven By Exponential Growth of Digital Services"
+    excerpt: "Digital transformation continues to accelerate, giving rise to the number of digital services that companies build, rent, or outsource to drive their customer experiences and revenue growth. In short,"
+    publishedDateTime: 2021-09-29T18:48:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2021/09/29/9459297.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "ChXwIIZM4Qt3p1RQacABWQmQlGVIOosIHtIFVhSfU52Sd2V8kI/hfwBgRcoUILDtuLG1Pwbs0qfBO2HuZewRDFlAfRqXJMiqwG7QUwfFHONxoDtDJtIpLjBT+WY5M4x+EV3NgFSyaSjbWs9iiLxOpJrqFfFkTkRcY7ngl+vPfS4jGbDgSTJL5YLlZDRMP1kE9hX9oaDOcX3lKl+RN/oyxtTS4cy2TPvxTDbYieLiwcaSbXZr3zgpsHny5MgMHEKvjX9nUAxJLrXeA6oTEbetAYGntjwC1DFfUfO+dgj58/NDG+Wr2K7LpxvzvLyJKF6MBqgPc4JX2wySyYmqa1hg5rVs4Mwn+adVzAd32kPypNT0uXLav6vPWSKrtza4i6On+dQHh/lqpAdzUS42l3IllYpWCH4MVniQgQD3EMC20SGSmL9u+m4jcBS3ITlMs4UOwXSDKbfNzNVqKrTgA7GSlABHZfAVR02eEhZCIkcSRb12gG5Q6m84Oeo+QpemY1X8JYM5ABAPQBHOIoZ9SgQo0A==;nAG5u9GCX8bFyCB+XnNoqQ=="
 ---
 

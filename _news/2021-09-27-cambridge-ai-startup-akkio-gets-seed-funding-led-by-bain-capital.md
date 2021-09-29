@@ -32,20 +32,6 @@ related:
         width: 2947
         height: 2121
         isCached: true
-  - title: "Akkio Raises $3 Million for AI Platform for Everyday Business Users"
-    excerpt: "Akkio, developers of an artificial intelligence (AI) platform for non-data scientists, today announced the closing of a seed investment round of $3 million led by Bain Capital Ventures. “Akkio is on a mission to automate decision-making for business users by harnessing the incredible power of machine learning (ML) and artificial intelligence,"
-    publishedDateTime: 2021-09-27T11:44:00Z
-    webUrl: "https://menafn.com/1102869901/Akkio-Raises-3-Million-for-AI-Platform-for-Everyday-Business-Users"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?170893"
-        width: 445
-        height: 249
-        isCached: true
 
 secured: "9osyK++xJ6P/KwZpbwaX5UA/cT6KAMCMAAPP/1iwTa+cfnx/WCeKNz4SZCj5ZWEC6ZukBiTCWagU5Lwsbq972xazak5eebKp8aVG4bubgrE48iDQHXNxHZkQnftnAqVK3mv7nwQVlvyhjPiCq3bsSpSZnZRhTmcJOx189Q90aUFSuXtbZmsc99dMuJpmogbD5GU878HS2MNgqqkCk0QXiETOVVINBrQ6GaKcbnd05wY6526uQbolEcWobe/4s3VWke1hywV8dR/SEoMUa2r7ouZwBy2etgOwBbSKK4YX3flWRZLhZrLhzLlo7GxeiEAi4rxhrjNcbx14ktgWGGICkEyN0FXEIx3FJD2R7aaChzogFgMPesoONumVKDlEuNP1bN5ZBZitIfMPjqVYLhcS9v6xPoXyp5nz/3mRzRl2mPlVrnLyD71t8lWeCirj0CdyZ9iMY3+oezkYBQc4DLZun/M25NNIdUdrLvCl9/092K+6HqsWLBmYlWHDabv/84smWQ/pVYugWLWFF0YApMtdhg==;bY2cHxtPKCbeLqKMS119Pg=="
 ---

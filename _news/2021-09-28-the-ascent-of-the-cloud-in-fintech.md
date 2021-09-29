@@ -41,6 +41,17 @@ related:
         width: 1000
         height: 499
         isCached: true
+  - title: "Good Stocks To Buy Right Now ? 5 Fintech Stocks To Watch"
+    excerpt: "Top Fintech Stocks To Check Out Before Next Month. After another day of losses, the stock market today appears keen to recover. While this is happening, fintech stocks continue"
+    publishedDateTime: 2021-09-29T18:07:00Z
+    webUrl: "https://www.nasdaq.com/articles/good-stocks-to-buy-right-now-5-fintech-stocks-to-watch-2021-09-29"
+    ampWebUrl: "https://www.nasdaq.com/articles/good-stocks-to-buy-right-now-5-fintech-stocks-to-watch-2021-09-29?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/good-stocks-to-buy-right-now-5-fintech-stocks-to-watch-2021-09-29?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Entrepreneur First Announces Investment In Six Indian Tech Start-Ups"
     excerpt: "Entrepreneur First (EF), a UK-based global talent investor, has announced an investment in six cutting-edge tech start-ups from India. With the latest funding, EF has invested in 34 tech start-ups in the country since its launch in India in 2019."
     publishedDateTime: 2021-09-29T09:37:00Z

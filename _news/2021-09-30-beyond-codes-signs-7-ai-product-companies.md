@@ -54,6 +54,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Machine Learning Tests Abilities of Rare-Earth Phosphates Given Atmospheric Extremes"
+    excerpt: "Materials and mechanical scientists are using machine learning to rapidly vet combinations of elements that could be used in next-generation environmental barrier coatings needed to protect vehicles traveling in the extreme conditions of aerospace and space environments."
+    publishedDateTime: 2021-09-29T16:01:00Z
+    webUrl: "https://news.rpi.edu/content/2021/09/29/machine-learning-tests-abilities-rare-earth-phosphates-given-atmospheric-extremes"
+    type: article
+    provider:
+      name: RPI News
+      domain: rpi.edu
+    quality: 32
+    images:
+      - url: "https://rpi.edu/dept/cct/apps/web-branding/v1/header/meganav/img/thearch.jpg"
+        width: 667
+        height: 446
+        isCached: true
   - title: "Global Artificial Intelligence Market Trends, Strategies, And Opportunities In The Market 2021-2030"
     excerpt: "Artificial Intelligence Global Market Report 2021: COVID-19 Growth And Change. The Business Research Company's Artificial Intelligence Global Market Report"
     publishedDateTime: 2021-09-26T01:54:00Z

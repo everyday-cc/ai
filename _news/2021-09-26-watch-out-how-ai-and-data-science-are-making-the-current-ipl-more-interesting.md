@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 691
         isCached: true
+  - title: "Soft Robotics Moves into AI"
+    excerpt: "Exclusive - Technologies from Soft Robotics are on display across the show floor on robotic systems at BCA (Booth SU-7155/7156), Fanuc (Booth C-1441), Harpak-Ulma (Boot"
+    publishedDateTime: 2021-09-29T18:00:00Z
+    webUrl: "https://www.packworld.com/PACKEXPO/article/21735125/soft-robotics-moves-into-ai"
+    type: article
+    provider:
+      name: Packaging World
+      domain: packworld.com
+    quality: 69
+    images:
+      - url: "https://img.packworld.com/files/base/pmmi/all/image/2021/09/Soft_Robotics.614bb12ec3cc1.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 443
+        height: 613
+        isCached: true
 
 secured: "vFCA9ZW/YXjVMFJhvbIO1utDxaRf3wID/P3shtNhbVA/FABXHnvUovZMNOiSWOCL/EdCsf+bkUayLXFQrohuq0iOdUw0yrUczSXilCSrH8DZigPIxIJnRMiNq1utSR92YQqEmnAkrEXAfYqy2sd+S6AKxdaotd69x2QDso6PrSI13VHxLN0+KM5/afvVV//vmlD6fL42WuFNnWw7DCoe8mcmHIb1YSU/FJhb1Sm2m9zIcMcYV/tufU6C5T495f+SnUdvn3lbCSvaxL61zHcUW8Fu7Z5L1jsUx0XAZVTmYx5pKHe7/lDML00Dy5PBgwRyllmiLcH5tX+KWemL73pxwTXbJz25S3ayNZIudhwkxhC2QDpG+NpkESx2lwdNw3aoKrsIIAiE1oA1eRB9qxKT4sKeH9etaV9CVH+I7U4K9FDCuAoIaJEi/fyanpe+UAfE5lZvHfNtsFSbXmQmMdlcIhP3dAb5+N487WGQh22WQfQxfgFMN8v/0fKZDv/p8mlVpI3riaJKNyEz2k8hq2xkwg==;bQwFsR4arwRB1BCciYlb/w=="
 ---

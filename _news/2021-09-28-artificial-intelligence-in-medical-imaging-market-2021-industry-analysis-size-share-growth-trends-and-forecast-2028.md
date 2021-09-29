@@ -93,6 +93,20 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Global Laser Processing Market Research Report (2021 to 2026) - by Vertical, Configuration, Application and Region"
+    excerpt: "The \"Laser Processing Market Research Report by Vertical, by Configuration, by Application, by Region - Global Forecast to 2026 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-09-29T19:24:00Z
+    webUrl: "https://www.lelezard.com/en/news-20022226.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 2
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/mining-industry.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "8b+V6DVAAc3VL6+7V2x/Py9BMojqf0CKbWlQrWZbu4G3OjFEuHqv58e9UCty7nEDS1GXnaSq510+dmSb9tYrFavT4N8RxmYkKMUmYm0MroZ8t921osyov7Fg+Y5kA2i5fw6byozbdI0NHkpUYPOBvLNEbvfE+fEmDfVdW3zAmRVeeYo+we3sdaz1LhN31SjaBzWSYBHQNU5AzxnyGV1GOsxQgZQfZX13ptiefoV/a+zVG8EWh+DubRxT8I8PoaADrPVZ+ghyLhZf/B2VOQZQj8sGcBr+6gpCkCa/MNaHlbIc/gtgH2lnifr5Z9Qv01NnRP5ONxdCjzqdyz/CtQM+myzFPj5j7SB0ypRHow3X17A=;8fuhmmaCIqr8jumKK6mW8Q=="
 ---

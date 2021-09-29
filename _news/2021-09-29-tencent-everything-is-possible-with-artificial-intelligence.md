@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-29T14:30:00Z
 originalUrl: "https://www.analyticsinsight.net/tencent-everything-is-possible-with-artificial-intelligence/"
 webUrl: "https://www.analyticsinsight.net/tencent-everything-is-possible-with-artificial-intelligence/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Everything-is-Possible-with-Artificial-Intelligence.jpg"

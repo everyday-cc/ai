@@ -40,20 +40,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "How AI is transforming the world of finance"
-    excerpt: "From barter to paper currency to plastic money to contactless cards, the world of payments has come a long way. AI promises to usher in a new world of frictionless and seamless payments"
-    publishedDateTime: 2021-09-29T05:48:00Z
-    webUrl: "https://www.forbesindia.com/blog/technology/how-ai-is-transforming-the-world-of-finance/"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 56
-    images:
-      - url: "https://www.forbesindia.com/blog/wp-content/uploads/2021/09/AI-Fintech.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Trust is key to the health sector embracing AI"
     excerpt: "By Leisa Maddoux, EY Global and US Health Transformation Practice Leader Health organizations are increasingly using artificial intelligence (AI) to drive performance. In a recent EY webcast, “How health organizations can build and safeguard trust in AI,"
     publishedDateTime: 2021-09-28T16:30:00Z

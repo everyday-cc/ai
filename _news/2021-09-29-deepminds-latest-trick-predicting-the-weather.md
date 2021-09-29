@@ -89,6 +89,20 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "DeepMind develops AI that can forecast the weather"
+    excerpt: "The project is a collaboration between DeepMind and the Met Office, the U.K.’s national weather service. The researchers involved in the initiative developed an AI system capable of forecasting rainfall up to two hours ahead of time."
+    publishedDateTime: 2021-09-29T19:14:00Z
+    webUrl: "https://siliconangle.com/2021/09/29/deepmind-develops-ai-can-forecast-weather/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/deepmind.png"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "rJlJS0GWXOd65Io4+m1h3I8Au7YdahQNOO1Oak0yMGRmVvUzr3rj+erxaCDFHvJv3fOWWPIDgCdh3rYyZUpG0pvYjMKvnW/DqJQhq1XnrbdBTsWfI0mBk/14gaiwkjaxFIRmuLbPAXSVC4csW8n/iQSN2w2JkJF1QJycjju3PAO19a6OgwVqDWSoShrcyPyHyobkulc+MzwqBQm+wMV+k7iOBWqgi69KzuXGmukyzKp7nWwUM86f5sQVOAzBASq/G3oZu0O++HFuWYIS6CS29rV/DBNELZ2Cnti/HMq7N/Y1UoWnYsKlPjjnQrfGNc9W2rl1JXIIZB8vCj3JMWUqLTTA+2e1qWORbGB4mi6cWrJRHfoHcxQy3NNpslgfpoqKNBBbgh3CQ89D1RuLfsDU5aZ7yS3CsWqe8VxyTOGRjE3n+pbnvyqld4AqJPlqPaWyc/eKj2Az2xcInBrWr4XBFQbwKTeLNPmvs/kdb+gwc2p8fge1ljQzdU36OvfL8DNIMkksisu7eJis6u46Q1FX5w==;1hkjkRCEWFiiQM3lPZi/5Q=="
 ---

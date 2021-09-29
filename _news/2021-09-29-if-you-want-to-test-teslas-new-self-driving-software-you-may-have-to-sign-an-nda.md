@@ -219,6 +219,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Samsung Will Create Chips For Tesla’s Next-Gen Self-Driving Computer"
+    excerpt: "Tesla is expected to source its next-generation chip from Samsung Electronics. The forthcoming Tesla Cybertruck will debut with Tesla’s new Hardware 4 computer and according to The Korea Economic Daily,"
+    publishedDateTime: 2021-09-29T18:05:00Z
+    webUrl: "https://www.carscoops.com/2021/09/samsung-will-create-chips-for-teslas-next-gen-self-driving-computer/"
+    ampWebUrl: "https://www.carscoops.com/2021/09/samsung-will-create-chips-for-teslas-next-gen-self-driving-computer/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/09/samsung-will-create-chips-for-teslas-next-gen-self-driving-computer/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 59
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/09/Samsung-Tesla-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Tesla expands ‘full self-driving’ tests, bucking the feds’ safety concerns"
     excerpt: "Tesla drivers can now use a “request” button on their vehicle’s screen to apply to join a beta test for the full self-driving feature, Elon Musk confirmed."
     publishedDateTime: 2021-09-27T15:35:00Z
@@ -322,6 +338,22 @@ related:
       - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
         width: 1000
         height: 1000
+        isCached: true
+  - title: "Tesla Has Been Sued For The Self-Driving Car That Hit And Injured Police Officers"
+    excerpt: "Advertisement Our day isn’t complete without a Tesla-related headline in the news (bad publicity is still publicity I guess?) In recent news which was due to past unresolved matters, five Texas cops filed a lawsuit against Tesla over a crash caused by the car’s Autopilot mode (the irony."
+    publishedDateTime: 2021-09-29T17:56:00Z
+    webUrl: "https://wonderfulengineering.com/tesla-has-been-sued-for-the-self-driving-car-that-hit-and-injured-police-officers/"
+    ampWebUrl: "https://wonderfulengineering.com/tesla-has-been-sued-for-the-self-driving-car-that-hit-and-injured-police-officers/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/tesla-has-been-sued-for-the-self-driving-car-that-hit-and-injured-police-officers/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 54
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/09/1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Tesla plans to start adding 1,000 new Full Self-Driving Beta testers per day: CEO Elon Musk"
     excerpt: "Tesla CEO Elon Musk has announced that Tesla plans to start adding 1,000 new Full Self-Driving Beta testers per day based on their \"safety score\" starting next week. The electric vehicle company's plan for a \"wider release\" of its Full Self-Driving Beta,"
@@ -453,6 +485,6 @@ related:
         height: 382
         isCached: true
 
-secured: "eGuKj97AETMZGhtPGuAfdBuic2piKTVTvMs+WxmZPxv65HWwg82MoKffpQ5bV/FVgKV9o6WBjOz5A9mcCJhpJ7+t1S1CxxZt2+vHdivvkPSGeYRfBffVKPHEW1xaGISyhERXaCDgnia0xa7Q4Lvc2drafU4PZtmgmuA9p6MxevCtJJtk6YacD8mnQcVjF+Az7V7R2q5zbugrngnK+pUY1y3CXA1M0yZtWlkCzOea+NXjT8y0uYLo59lL5LmE1uuuhNFV3llL+2lcrFQEEUvk8ccM9bBaiBDtUTGHkxP+iuJ1MLCHqVggwD5yR50mT60vjUyguwp+Shew8eusY/DyNp27bku5aLz+A7m1+SlUBDc=;Q8A/mW5E8IcP4Ixoo6JFag=="
+secured: "PUxyCqieW926f2PQsEwBGaHGb81yicNNORA+2GxL+r8cldBrrW8zdvWd1aPsXdRmnKpvVXx7Euas1O6faLFslg1sptnS7mfcE2YG91miIqKL4SUMHXUI0b5+EGXhFQPxQdUqqnMNbZJ2PiZyv7J0QgrHiIgMtrTAVX5NWj7efw3Ms3+Ck+2pBAc5zQbKk0AL3UDVLP4aIV1zUh4oz5DuvROx28hyh84dNYNJEIAI3gIhHhThFt1RRUKuiv8CACS5lbSdZpIMHtXqU6Ssj7NBd6V/POsn1diZW8jIdDKE+I3jXiWzmctlonLQfTRuFv3drv7pir5o11XnH8trQ/ZSbNrjVa8wq/dwalMafSlOzRJB6/DjlFKR4S5Ryl1UI4OIIQ55oWBQ4vZ9hEId36yj4I86p99zMD6fCeKYlkkGGW082OpfrHyPUd69tsHwiH+03DdkhtzZBFJTPV5jNLl9o/NmvuVBwdeoGCX5KAgyW7xJ2D5rKloIP9dp7pokmxrxrpaoEzd9yQeE/3UhpBzjtQ==;rTxZ8iPfgKcm2PbbQQjjHA=="
 ---
 

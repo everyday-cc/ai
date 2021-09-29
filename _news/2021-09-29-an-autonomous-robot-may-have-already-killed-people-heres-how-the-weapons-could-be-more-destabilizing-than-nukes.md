@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/an-autonomous-robot-may-have-already
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/an-autonomous-robot-may-have-already-killed-people-heres-how-the-weapons-could-be-more-destabilizing-than-nukes-168049"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -27,16 +27,30 @@ images:
     isCached: true
 
 related:
-  - title: "An autonomous robot may have already killed people - here's how the weapons could be more destabilizing than nukes"
+  - title: "An Autonomous Robot May Have Already Killed People"
     excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
-    publishedDateTime: 2021-09-29T17:07:00Z
-    webUrl: "https://www.ourmidland.com/news/article/An-autonomous-robot-may-have-already-killed-16495797.php"
-    ampWebUrl: "https://www.ourmidland.com/news/amp/An-autonomous-robot-may-have-already-killed-16495797.php"
-    cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/An-autonomous-robot-may-have-already-killed-16495797.php"
+    publishedDateTime: 2021-09-29T14:00:00Z
+    webUrl: "https://www.manufacturing.net/home/news/21747325/an-autonomous-robot-may-have-already-killed-people"
     type: article
     provider:
-      name: Our Midland MI
-      domain: ourmidland.com
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/09/16x9/file_20210927_21_wsi2zg.61547119a8d65.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 677
+        isCached: true
+  - title: "An autonomous robot may have already killed people - here's how the weapons could be more destabilizing than nukes"
+    excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
+    publishedDateTime: 2021-09-29T19:07:00Z
+    webUrl: "https://www.seattlepi.com/news/article/An-autonomous-robot-may-have-already-killed-16495797.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/An-autonomous-robot-may-have-already-killed-16495797.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/An-autonomous-robot-may-have-already-killed-16495797.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
     quality: 37
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"

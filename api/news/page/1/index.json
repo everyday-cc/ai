@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-29-how-ai-is-making-information-more-useful.md",
+      "title": "How AI is making information more useful",
+      "excerpt": "Today, there’s more information accessible at people’s fingertips than at any point in human history. And advances in artificial intelligence will radically transform the way we use that information, with the ability to uncover new insights that can help us both in our daily lives and in the ways we",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/search/how-ai-making-information-more-useful/",
+      "originalUrl": "https://blog.google/products/search/how-ai-making-information-more-useful/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/search_on.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-29T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-ai-artificial-intelligence-poised-to-transform-the-massive-construction-industry.md",
       "title": "AI (Artificial Intelligence): Poised To Transform The Massive Construction Industry",
       "excerpt": "But if you look at the S-1 filing, there are some interesting details about the construction industry. For example, the investment in technologies has generally lagged (this is based on research from McKinsey) and the levels are only more than for agriculture and hunting.",
@@ -371,7 +423,7 @@
       "originalUrl": "https://venturebeat.com/2021/09/29/deepmind-claims-its-ai-weather-forecasting-model-beats-conventional-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 152,
       "tags": null,
       "images": [
         {
@@ -498,6 +550,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-ai-powered-document-processing-platform-zuva-raises-20m.md",
+      "title": "AI-powered document processing platform Zuva raises $20M",
+      "excerpt": "Zuva, an AI-powered document processing platform, today announced that it closed a $20 million series A funding round led by New York-based Insight Partners. The company says that",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/29/ai-powered-document-processing-platform-zuva-raises-20m/",
+      "originalUrl": "https://venturebeat.com/2021/09/29/ai-powered-document-processing-platform-zuva-raises-20m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/29/ai-powered-document-processing-platform-zuva-raises-20m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/ai-powered-document-processing-platform-zuva-raises-20m/amp/",
+      "publishedDateTime": "2021-09-29T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -654,7 +757,7 @@
       "originalUrl": "https://www.openpr.com/news/2411602/deep-learning-market-provides-detailed-insight-by-trends",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -884,7 +987,7 @@
       "originalUrl": "https://menafn.com/1102884604/Scope-of-AI-Deep-Learning-and-Neural-Network-2021-Market-Research-Report",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -963,6 +1066,58 @@
       ]
     },
     {
+      "path": "_news/2021-09-29-nowcasting-the-next-hour-of-rain.md",
+      "title": "Nowcasting the Next Hour of Rain",
+      "excerpt": "Our latest research and state-of-the-art model advances the science of Precipitation Nowcasting.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/nowcasting",
+      "originalUrl": "https://deepmind.com/blog/article/nowcasting",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/tPtvqnIoqRR2CtHpVYwurl5HNRtQ8lXfcNVxRmuOSSihah1Ocz2SwC3elaT49gSy6u0ozVr2VT_RgxPRCUGYFdbrRDFgQkVGIqx7EX-ZvofXV68acg",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-elon-musk-says-tesla-shouldnt-have-an-nda-for-its-full-self-driving-beta.md",
       "title": "Elon Musk says Tesla shouldn’t have an NDA for its Full Self-Driving Beta",
       "excerpt": "Elon Musk says Tesla shouldn’t have a non-disclosure agreement (NDA) for its Full Self-Driving (FSD) Beta testers. Yesterday, we reported on Tesla’s NDA for its Full Self-Driving Beta program. In the document,",
@@ -971,7 +1126,7 @@
       "originalUrl": "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 378,
+      "heat": 398,
       "tags": null,
       "images": [
         {
@@ -1062,154 +1217,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-from-ai-to-computer-vision-how-cultfit-stepped-up-to-deliver-holistic-solutions-post-covid-19.md",
-      "title": "From AI to computer vision: How cult.fit stepped up to deliver holistic solutions post Covid-19",
-      "excerpt": "Covid-19 locked us in our homes and shut gyms down, amongst other things. But here's a company that stepped up its game to change things for the better, virtually and otherwise.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/from-ai-to-computer-vision-how-cult-fit-stepped-up-to-deliver-holistic-solutions-post-covid19-71632820468048.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/from-ai-to-computer-vision-how-cult-fit-stepped-up-to-deliver-holistic-solutions-post-covid19-71632820468048.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2021/09/28/1600x900/Ankit_Gupta_pic_1632822190235_1632822210350.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/from-ai-to-computer-vision-how-cult-fit-stepped-up-to-deliver-holistic-solutions-post-covid19-71632820468048.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/from-ai-to-computer-vision-how-cult-fit-stepped-up-to-deliver-holistic-solutions-post-covid19-71632820468048.html",
-      "publishedDateTime": "2021-09-28T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-a-developers-guide-to-machine-learning-security.md",
-      "title": "A developer’s guide to machine learning security",
-      "excerpt": "Adversarial attacks are different from other threats programmers face, so they need to understand the weak spots in machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/28/a-developers-guide-to-machine-learning-security/",
-      "originalUrl": "https://venturebeat.com/2021/09/28/a-developers-guide-to-machine-learning-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/machine-learning-security-for-developers-1-e1632767450503.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/28/a-developers-guide-to-machine-learning-security/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/a-developers-guide-to-machine-learning-security/amp/",
-      "publishedDateTime": "2021-09-28T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-amazon-astro-could-be-the-robot-weve-been-waiting-for.md",
-      "title": "Amazon Astro could be the robot we've been waiting for",
-      "excerpt": "Inspired by science fiction, cute as a button, capable and smart -- Amazon's $1,000 home robot Astro is here to help.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/home/smart-home/amazon-astro-could-be-the-robot-weve-been-waiting-for/",
-      "originalUrl": "https://www.cnet.com/home/smart-home/amazon-astro-could-be-the-robot-weve-been-waiting-for/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 284,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/1apgttjzwvxskXvt2B8u4qNGCmo=/0x38:2300x1330/1200x630/2021/09/28/4fc6682b-c610-466c-a707-cc906c33fdc5/astro.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-astro-could-be-the-robot-weve-been-waiting-for/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-astro-could-be-the-robot-weve-been-waiting-for/",
-      "publishedDateTime": "2021-09-28T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

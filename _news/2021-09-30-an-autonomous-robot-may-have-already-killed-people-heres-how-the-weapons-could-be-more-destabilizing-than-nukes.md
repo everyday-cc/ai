@@ -2,19 +2,19 @@
 category: news
 title: "An autonomous robot may have already killed people - here's how the weapons could be more destabilizing than nukes"
 excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
-publishedDateTime: 2021-09-29T17:07:00Z
-originalUrl: "https://www.ourmidland.com/news/article/An-autonomous-robot-may-have-already-killed-16495797.php"
-webUrl: "https://www.ourmidland.com/news/article/An-autonomous-robot-may-have-already-killed-16495797.php"
-ampWebUrl: "https://www.ourmidland.com/news/amp/An-autonomous-robot-may-have-already-killed-16495797.php"
-cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/An-autonomous-robot-may-have-already-killed-16495797.php"
+publishedDateTime: 2021-09-29T19:07:00Z
+originalUrl: "https://www.seattlepi.com/news/article/An-autonomous-robot-may-have-already-killed-16495797.php"
+webUrl: "https://www.seattlepi.com/news/article/An-autonomous-robot-may-have-already-killed-16495797.php"
+ampWebUrl: "https://www.seattlepi.com/news/amp/An-autonomous-robot-may-have-already-killed-16495797.php"
+cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/An-autonomous-robot-may-have-already-killed-16495797.php"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Our Midland MI
-  domain: ourmidland.com
+  name: seattlepi.com
+  domain: seattlepi.com
 
 topics:
   - AI in Robotics
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "An Autonomous Robot May Have Already Killed People"
+    excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
+    publishedDateTime: 2021-09-29T14:00:00Z
+    webUrl: "https://www.manufacturing.net/home/news/21747325/an-autonomous-robot-may-have-already-killed-people"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/09/16x9/file_20210927_21_wsi2zg.61547119a8d65.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 677
+        isCached: true
   - title: "An autonomous robot may have already killed people – here’s how the weapons could be more destabilizing than nukes"
     excerpt: "Sci-fi nightmares of a robot apocalypse aside, autonomous weapons are a very real threat to humanity. An expert on the weapons explains how the emerging arms race could be humanity’s last."
     publishedDateTime: 2021-09-29T12:23:00Z
@@ -44,6 +58,6 @@ related:
         height: 213
         isCached: true
 
-secured: "tNHu1igWlnLPZP5+beBSVFdTSOkTJSYQLggyOixo5FLe6j6I+jMWuGllb+p3SPtJWVMn3O9gW3SvuWgKvo6E1Hg0kiLpurFP4rM9B2OrWVi/IErFIBgYCqYaCM+GDTVozd/6Lxe/50/8owPZGip0XmgqE7Au/0ofex8Q47uWZHXAVAph+iIX/FyOUUFsXmZSxy8U4I1E+1F9rTnLvZ4UNfBmTQTpZPjiWpZ3z5iUrUifNukZUcCNsl5zK5sW2gy+viszUkqwaTVlKCnTiVq4U+cAjcPVHHHPrW76DFna/zP9SQzvk2zyRmnUWChzuPs0JDrdo5ahwuCOjNOAlZEXJe+XaqPP16A3gXXoQsAvrhs=;ND/Nt/npu85hEi4LchqAfQ=="
+secured: "Ua4wQvEkFzz47lHtLI9QBZlbNyeVysUeJ/RDi+3XBA/e9mPDpj3UX3ICRa8iBlOJPMd/gMdkYxW+Ztts5u1TyGMJzY0uq4TLTUlpJr7D/gi9btIOoAHd/SpVQrALBgT8ZHQvnvPkTUHx/KG0pm6LmcAnVPRN2jiA8BGkp8eL2jza2aLZ8aiN/JRteZmp31QJJOHRs/BFIYIV9RooLxpCFYyt2OCt9VYjaSGfUDK6PDYm9O/tcdCQXPXmpHtooG0zEYnXTEq9NNyB+GFEyCxMJHTIxFOOIQ3hkaRutQWxiQI5+iIdRnRKTlChX28jpaFNJsJqm5MeqqEqE1OFxOQVCpACiA48b/tLHj9VDep3x/g=;uVMHfCMouhcDXzDfD0lQoQ=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://siliconangle.com/2021/09/27/cloud-artificial-intelligence-
 webUrl: "https://siliconangle.com/2021/09/27/cloud-artificial-intelligence-startup-akkio-raises-3m-bain-capital/"
 type: article
 quality: 51
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: SiliconANGLE
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Akkio Raises $3 Million for AI Platform for Everyday Business Users"
-    excerpt: "Akkio, developers of an artificial intelligence (AI) platform for non-data scientists, today announced the closing of a seed investment round of $3 million led by Bain Capital Ventures. “Akkio is on a mission to automate decision-making for business users by harnessing the incredible power of machine learning (ML) and artificial intelligence,"
-    publishedDateTime: 2021-09-27T11:44:00Z
-    webUrl: "https://menafn.com/1102869901/Akkio-Raises-3-Million-for-AI-Platform-for-Everyday-Business-Users"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?170893"
-        width: 445
-        height: 249
-        isCached: true
   - title: "Cambridge AI startup Akkio gets seed funding led by Bain Capital"
     excerpt: "Akkio, a Cambridge startup building a \"no code\" AI platform, received $3 million in seed funding led by Bain Capital."
     publishedDateTime: 2021-09-27T16:25:00Z

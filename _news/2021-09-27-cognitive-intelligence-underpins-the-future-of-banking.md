@@ -7,7 +7,7 @@ originalUrl: "https://internationalbanker.com/banking/cognitive-intelligence-und
 webUrl: "https://internationalbanker.com/banking/cognitive-intelligence-underpins-the-future-of-banking/"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 975
     height: 650
     isCached: true
+
+related:
+  - title: "Loopio Introduces Response Intelligencetm to Improve the RFP Experience through Machine Learning"
+    excerpt: "Loopio, the leader in RFP response software, announced at its annual conference, Loopicon, the next era of RFP response technology: Response Intelligencetm. Fueled by Loopio's proprietary machine learning technology,"
+    publishedDateTime: 2021-09-29T18:05:00Z
+    webUrl: "https://www.lelezard.com/en/news-20022108.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 26
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "Jismfae9kGxIMpRStw90aYCzxfSSRoAG1AHLNo0RFvrfW7NKbjdbJnqHjpD6zbacr0tR2kbliqZVY5tm4l2YL3OoOoBUUEsE/qzbRxo/Fm30vMCM80UTku9HNlIcY9V8VyapU3YMRu34OWeUqicVSm3NqQNobnJYwY+Y6kRhVFUzLV5kt5N2bvp0U5eEJni52PU4WW6iMUUCwTnSXElb8GaoMR9kN3CwRvIX0ChEutrP32axms3vPLByYV6jYwIvhoJcOQ4d3pEfLkshgH6k9KQcgft+ZW3QkjN0UKn9oceDBmwqbOqwOf5SG+wpbhtWKQbEGF4KPGxK8m2mSxmYK4pBP2fcjpY6uADQu8HlZtU=;btcKE7tfIo2bqqR/h/PFdw=="
 ---

@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-16-googles-deepmind-and-the-nhs-a-glimpse-of-what-ai-means-for-the-future-of-healthcare.md",
+      "title": "Google's DeepMind and the NHS: A glimpse of what AI means for the future of healthcare",
+      "excerpt": "Take the agreements between Google subsidiary DeepMind and the likes of Moorfields Eye Hospital and University College London Hospitals (UCLH) Trust: both pave the way for a future where the routine work of reading scans is done by an algorithm rather than ...",
+      "sourceUrl": null,
+      "webUrl": "https://thearabianpost.com/googles-deepmind-and-the-nhs-a-glimpse-of-what-ai-means-for-the-future-of-healthcare/",
+      "originalUrl": "https://thearabianpost.com/googles-deepmind-and-the-nhs-a-glimpse-of-what-ai-means-for-the-future-of-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thearabianpost.com/wp-content/uploads/2020/07/Advertise-on-arabian-post-1.gif",
+          "width": 375,
+          "height": 312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thearabianpost.com",
+        "domain": "thearabianpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-deepminds-alphazero-crushes-chess.md",
+      "title": "DeepMind’s AlphaZero crushes chess",
+      "excerpt": "The AlphaZero algorithm developed by Google and DeepMind took just four hours of playing against itself to synthesise the chess knowledge of one and a half millennium and reach a level where it not only surpassed humans but crushed the reigning World ...",
+      "sourceUrl": null,
+      "webUrl": "https://chess24.com/en/read/news/deepmind-s-alphazero-crushes-chess",
+      "originalUrl": "https://chess24.com/en/read/news/deepmind-s-alphazero-crushes-chess",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-eu-west-1.amazonaws.com/de.cisha.live/Qtlc_rHnRr-w3OiWaRn_FQ/410x260/original",
+          "width": 410,
+          "height": 260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-12T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "chess",
+        "domain": "chess24.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-tensorflow-with-sagemaker-on-pycharm.md",
       "title": "TensorFlow with SageMaker on Pycharm",
       "excerpt": "Amazon SageMaker is a fully managed machine learning service. With SageMaker, data scientists and developers can quickly and easily build and train machine learning models, and then directly deploy them into a production-ready hosted environment.",
@@ -1348,93 +1435,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-deepminds-epistemic-neural-networks-open-new-avenues-for-uncertainty-modelling-in-large-and-complex-dl-systems.md",
-      "title": "DeepMind’s Epistemic Neural Networks Open New Avenues for Uncertainty Modelling in Large and Complex DL Systems",
-      "excerpt": "Although effective uncertainty estimation can be a key consideration in the development of safe and fair artificial intelligence systems, most of today’s large-scale deep learning applications are lacking in this regard.",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2021/07/26/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-69/",
-      "originalUrl": "https://syncedreview.com/2021/07/26/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-69/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
-          "width": 790,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2021/07/26/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-69/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/07/26/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-69/amp/",
-      "publishedDateTime": "2021-07-26T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-artificial-intelligence-predicts-the-shapes-of-molecules-to-come.md",
-      "title": "Artificial intelligence predicts the shapes of molecules to come",
-      "excerpt": "So last fall, after reading that an artificial intelligence lab in London called DeepMind had built a system that automatically predicts the shapes of enzymes and other proteins, McGeehan asked ...",
-      "sourceUrl": null,
-      "webUrl": "https://bdnews24.com/science/2021/07/26/artificial-intelligence-predicts-the-shapes-of-molecules-to-come",
-      "originalUrl": "https://bdnews24.com/science/2021/07/26/artificial-intelligence-predicts-the-shapes-of-molecules-to-come",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d30fl32nd2baj9.cloudfront.net/media/2021/07/26/protein-shapes-260721-01.jpg/BINARY/protein-shapes-260721-01.jpg",
-          "width": 1024,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.bdnews24.com/amp/en/detail/science/1918656",
-      "cdnAmpWebUrl": "https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/en/detail/science/1918656",
-      "publishedDateTime": "2021-07-26T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bdnews24.com",
-        "domain": "bdnews24.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

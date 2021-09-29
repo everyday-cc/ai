@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/for-self-driving-cars-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/for-self-driving-cars-the-hot-new-technology-is-radar/amp-11632583538046.html"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "For Self-Driving Cars, the Hot New Technology Is… Radar"
-    excerpt: "Companies are improving and adapting the century-old technology to help vehicles operate more safely with less human involvement."
-    publishedDateTime: 2021-09-25T03:00:00Z
-    webUrl: "https://www.wsj.com/articles/for-self-driving-cars-the-hot-new-technology-is-radar-11632542430"
-    ampWebUrl: "https://www.wsj.com/amp/articles/for-self-driving-cars-the-hot-new-technology-is-radar-11632542430"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/for-self-driving-cars-the-hot-new-technology-is-radar-11632542430"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
-    images:
-      - url: "https://images.wsj.net/im-406622/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "GM Invests $300 Million in Momenta to Deliver Self-Driving Technologies in China"
     excerpt: "General Motors announced it will invest $300 million in Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China. “Customers in China are embracing electrification and advanced self-driving technology faster than anywhere else in the world,"
     publishedDateTime: 2021-09-27T16:31:00Z

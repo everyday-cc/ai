@@ -45,20 +45,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "How AI is transforming the world of finance"
-    excerpt: "From barter to paper currency to plastic money to contactless cards, the world of payments has come a long way. AI promises to usher in a new world of frictionless and seamless payments"
-    publishedDateTime: 2021-09-29T05:48:00Z
-    webUrl: "https://www.forbesindia.com/blog/technology/how-ai-is-transforming-the-world-of-finance/"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 56
-    images:
-      - url: "https://www.forbesindia.com/blog/wp-content/uploads/2021/09/AI-Fintech.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "AI is transforming your job, not terminating it"
     excerpt: "For those who aren’t familiar with the pop-culture reference, the film focuses on self-aware military AI that sets out to exterminate all of humanity using robots, cyborgs and drones. Fast forward to 2021,"
     publishedDateTime: 2021-09-27T07:32:00Z

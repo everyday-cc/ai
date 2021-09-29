@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "For Self-Driving Cars, the Hot New Technology Is… Radar"
-    excerpt: "Companies are improving and adapting the century-old technology to help vehicles operate more safely with less human involvement."
-    publishedDateTime: 2021-09-25T03:00:00Z
-    webUrl: "https://www.wsj.com/articles/for-self-driving-cars-the-hot-new-technology-is-radar-11632542430"
-    ampWebUrl: "https://www.wsj.com/amp/articles/for-self-driving-cars-the-hot-new-technology-is-radar-11632542430"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/for-self-driving-cars-the-hot-new-technology-is-radar-11632542430"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
-    images:
-      - url: "https://images.wsj.net/im-406622/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "For self-driving cars, the hot new technology is… radar"
     excerpt: "Companies are improving and adapting the century-old technology to help vehicles operate more safely with less human involvement"
     publishedDateTime: 2021-09-26T01:30:00Z

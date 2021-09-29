@@ -211,6 +211,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Samsung Will Create Chips For Tesla’s Next-Gen Self-Driving Computer"
+    excerpt: "Tesla is expected to source its next-generation chip from Samsung Electronics. The forthcoming Tesla Cybertruck will debut with Tesla’s new Hardware 4 computer and according to The Korea Economic Daily,"
+    publishedDateTime: 2021-09-29T18:05:00Z
+    webUrl: "https://www.carscoops.com/2021/09/samsung-will-create-chips-for-teslas-next-gen-self-driving-computer/"
+    ampWebUrl: "https://www.carscoops.com/2021/09/samsung-will-create-chips-for-teslas-next-gen-self-driving-computer/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/09/samsung-will-create-chips-for-teslas-next-gen-self-driving-computer/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 59
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/09/Samsung-Tesla-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Tesla expands ‘full self-driving’ tests, bucking the feds’ safety concerns"
     excerpt: "Tesla drivers can now use a “request” button on their vehicle’s screen to apply to join a beta test for the full self-driving feature, Elon Musk confirmed."
     publishedDateTime: 2021-09-27T15:35:00Z
@@ -314,6 +330,22 @@ related:
       - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
         width: 1000
         height: 1000
+        isCached: true
+  - title: "Tesla Has Been Sued For The Self-Driving Car That Hit And Injured Police Officers"
+    excerpt: "Advertisement Our day isn’t complete without a Tesla-related headline in the news (bad publicity is still publicity I guess?) In recent news which was due to past unresolved matters, five Texas cops filed a lawsuit against Tesla over a crash caused by the car’s Autopilot mode (the irony."
+    publishedDateTime: 2021-09-29T17:56:00Z
+    webUrl: "https://wonderfulengineering.com/tesla-has-been-sued-for-the-self-driving-car-that-hit-and-injured-police-officers/"
+    ampWebUrl: "https://wonderfulengineering.com/tesla-has-been-sued-for-the-self-driving-car-that-hit-and-injured-police-officers/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/tesla-has-been-sued-for-the-self-driving-car-that-hit-and-injured-police-officers/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 54
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/09/1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "If You Want to Test Tesla’s New Self-Driving Software, You May Have to Sign an NDA"
     excerpt: "Tesla is requiring some of its self-driving software testers to sign nondisclosure agreements before receiving the upgrade. What gives?"
