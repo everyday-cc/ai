@@ -9,7 +9,7 @@ ampWebUrl: "https://www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-
 cdnAmpWebUrl: "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -65,6 +65,20 @@ related:
       - url: "https://www.industrytap.com/wp-content/uploads/2021/09/brain.jpg"
         width: 744
         height: 419
+        isCached: true
+  - title: "Samsung in talks with Tesla to make next-gen self-driving chips: Report"
+    excerpt: "Samsung is reportedly in talks with Tesla to make next-generation self-driving chips based on Samsung’s 7-nanometre chip production process. According to the Korean Economic Daily, both the companies have discussed chip design multiple times and have also exchanged chip prototypes for the upcoming Hardware 4 self-driving system from Tesla."
+    publishedDateTime: 2021-09-24T16:41:00Z
+    webUrl: "https://www.imdb.com/news/ni63428658/"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 39
+    images:
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
         isCached: true
   - title: "Neural network mimics the human brain to solve complex problems"
     excerpt: "Researchers at , USA, have developed a new computer system that mimics the way the human brain works, with an information processing capacity of up to one mil"

@@ -25,136 +25,70 @@ images:
     isCached: true
 
 related:
-  - title: "GM invests $300M in Momenta to deliver next-generation self-driving technologies in China"
-    excerpt: "General Motors will invest $300 million in China-based Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China. Momenta has pioneered a scalable path toward full autonomous driving by combining a data-driven approach with iterating algorithms—referred to as its “flywheel approach”—as well as a"
-    publishedDateTime: 2021-09-24T10:47:00Z
-    webUrl: "https://media.gm.com/media/cn/en/gm/news.detail.html/content/Pages/news/cn/en/2021/Sept/0923-gm.html"
+  - title: "Samsung Wants To Make An AI Chip That Mimics The Human Brain"
+    excerpt: "Samsung, together with researchers from Harvard University, have published a paper that puts forth their idea of making neuromorphic chips, semiconductor technology that mimics the human brain by \"copying and pasting\"."
+    publishedDateTime: 2021-09-28T00:40:00Z
+    webUrl: "https://www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/"
+    ampWebUrl: "https://www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/amp/"
+    cdnAmpWebUrl: "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/amp/"
     type: article
     provider:
-      name: Green Car Congress
-      domain: greencarcongress.com
-    quality: 115
-    images:
-      - url: "https://media.gm.com/content/dam/company/img/cn/GMChina_QR_2021.png"
-        width: 1128
-        height: 1132
-        isCached: true
-  - title: "Kodiak launches its 4th-generation self-driving semi-truck"
-    excerpt: "That move towards autonomy in the trucking industry is where Kodiak Robotics comes in, with its fourth-generation Kodiak Driver system, which the company announced on Tuesday. The system is somewhat unique from others on the road in its modularity and ease of installation on any modern Class 8 truck,"
-    publishedDateTime: 2021-09-28T13:00:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/kodiak-autonomous-semi-truck-launched/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/kodiak-autonomous-semi-truck-launched/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/kodiak-autonomous-semi-truck-launched/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
+      name: Lowyat.net
+      domain: lowyat.net
     quality: 74
     images:
-      - url: "https://www.cnet.com/a/img/fXRtRHYXHsgvDiRTPEUy6OR0_EU=/2021/09/27/de369ec4-cdeb-4aa1-bbf8-c04f0dda9fb2/767a6856-1.jpg"
-        width: 1200
-        height: 629
+      - url: "https://www.lowyat.net/wp-content/uploads/2021/09/Brain-computer-network.jpg"
+        width: 1040
+        height: 693
         isCached: true
-  - title: "Samsung May Make Next-Gen Self-Driving Chips For Tesla In The Future: Report"
-    excerpt: "Samsung is reportedly in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday."
-    publishedDateTime: 2021-09-24T11:19:00Z
-    webUrl: "https://www.news18.com/news/tech/samsung-may-make-next-gen-self-driving-chips-for-tesla-in-the-future-report-4241621.html"
-    ampWebUrl: "https://www.news18.com/amp/news/tech/samsung-may-make-next-gen-self-driving-chips-for-tesla-in-the-future-report-4241621.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/tech/samsung-may-make-next-gen-self-driving-chips-for-tesla-in-the-future-report-4241621.html"
+  - title: "Tesla Negotiating With Samsung To Produce Next-Gen Full Self-Driving Chip: Reports"
+    excerpt: "A joint project between Tesla and Samsung, which aims to create a full self-driving (FSD) chip is currently under negotiation, according to reports. The said chip, which will be produced by the South Korean electronics giant and designed by the American electric vehicle company as per Electrek,"
+    publishedDateTime: 2021-09-24T12:00:00Z
+    webUrl: "https://www.ibtimes.com/tesla-negotiating-samsung-produce-next-gen-full-self-driving-chip-reports-3303284"
+    ampWebUrl: "https://www.ibtimes.com/tesla-negotiating-samsung-produce-next-gen-full-self-driving-chip-reports-3303284?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tesla-negotiating-samsung-produce-next-gen-full-self-driving-chip-reports-3303284?amp=1"
     type: article
     provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 73
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
     images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/09/samsung-reuters-img-163248230716x9.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Samsung could be making next-gen self-driving chips for Tesla"
-    excerpt: "Samsung and Tesla are in talks to make the next-generation chips for Tesla's upcoming Hardware 4. Which is to come with Cybertruck in a year."
-    publishedDateTime: 2021-09-25T05:15:00Z
-    webUrl: "https://techstory.in/samsung-could-make-next-gen-self-driving-chips-for-tesla/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 56
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/09/Tesla-Chip.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Xiaomi invests in Chinese self-driving chip unicorn Black Sesame"
-    excerpt: "Black Sesame Technologies, a Chinese developer of artificial intelligence-based self-driving computing chips, says it is close to a valuation of nearly $2 billion after raising \"hundreds of millions of U."
-    publishedDateTime: 2021-09-26T01:17:00Z
-    webUrl: "https://asia.nikkei.com/Spotlight/DealStreetAsia/Xiaomi-invests-in-Chinese-self-driving-chip-unicorn-Black-Sesame"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 41
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F6%252F3%252F1%252F6%252F36566136-1-eng-GB%252FRTX8473F.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/06/electric-car-maker-xpeng-is-chasing-market-leader.jpg"
         width: 1024
-        height: 512
+        height: 682
         isCached: true
-  - title: "Tesla Eyes Samsung to Produce Its Next-Generation Self-Driving Auto Chips"
-    excerpt: "Tesla is in talks with Samsung to make its HW 4.0 chips based on the Korean tech giant's 7-nanometre chip production process. Samsung is expected to win the Tesla new chip deal over its competitor, the semiconductor company TSMC."
-    publishedDateTime: 2021-09-24T20:04:00Z
-    webUrl: "https://www.autoevolution.com/news/tesla-eyes-samsung-to-produce-its-next-generation-self-driving-auto-chips-170200.html"
+  - title: "Scientists want to ‘copy and paste’ the human brain onto a computer chip"
+    excerpt: "Researchers from Samsung and Harvard University have proposed \"copying and pasting\" the brain onto memory networks to build smarter computer chips."
+    publishedDateTime: 2021-09-27T19:23:00Z
+    webUrl: "https://thenextweb.com/news/samsung-harvard-scientists-want-copy-and-paste-brain-onto-computer-chips"
     type: article
     provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 38
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 63
+  - title: "Samsung Wants To ‘Copy and Paste’ the Brain on Neuromorphic Chips"
+    excerpt: "South Korean tech giant Samsung is considering developing brain-like chips by borrowing existing brain structures. The tech firm puts forward a vision to “copy and paste” the brain’s neuronal connection map onto a computer chip."
+    publishedDateTime: 2021-09-28T22:53:00Z
+    webUrl: "https://www.industrytap.com/samsung-wants-to-copy-and-paste-the-brain-on-neuromorphic-chips/60329"
+    type: article
+    provider:
+      name: Industry Tap
+      domain: industrytap.com
+    quality: 54
     images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-eyes-samsung-to-produce-its-next-generation-self-driving-auto-chips-170200_1.jpg"
-        width: 1240
-        height: 620
+      - url: "https://www.industrytap.com/wp-content/uploads/2021/09/brain.jpg"
+        width: 744
+        height: 419
         isCached: true
-  - title: "Kodiak Robotics Unveils Its Next-Generation Autonomous Truck with Plans to More than Double Its Self-Driving Fleet"
-    excerpt: "Kodiak Robotics, Inc., a leading self-driving trucking company, announced today its fourth-generation autonomous truck. This new truck will feature Luminar's Iris LiDAR, ZF Full Range Radar, Hesa i 360-degree scanning LiDARs for side- and rear-view detection,"
-    publishedDateTime: 2021-09-28T13:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-kodiak-robotics-unveils-its-next-generation-autonomous-truck-/2021/09/28/9457853.htm"
+  - title: "Neural network mimics the human brain to solve complex problems"
+    excerpt: "Researchers at , USA, have developed a new computer system that mimics the way the human brain works, with an information processing capacity of up to one mil"
+    publishedDateTime: 2021-09-27T19:10:00Z
+    webUrl: "https://www.clarepeople.com/4614-neural-network-mimics-the-human-brain-to-solve-complex-problems/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: The Clare People
+      domain: clarepeople.com
     quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1636255/Kodiak_Autonomous_Truck.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "GM invests $300 million in Chinese self-driving startup"
-    excerpt: "General Motors will invest $300 million in Momenta, a China-based self-driving startup, to accelerate the use of autonomous technology in future GM vehicles for the Chinese market. According to GM, Chinese customers are embracing electrification and self-driving technology faster than other parts of the world."
-    publishedDateTime: 2021-09-24T12:35:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17234/gm-invests-300-million-in-chinese-self-driving-startup"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 24
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/234/17234/Momenta.png"
-        width: 752
-        height: 554
-        isCached: true
-  - title: "GM Invests $300 Million in Momenta to Deliver Self-Driving Technologies in China"
-    excerpt: "General Motors announced it will invest $300 million in Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China. “Customers in China are embracing electrification and advanced self-driving technology faster than anywhere else in the world,"
-    publishedDateTime: 2021-09-27T16:31:00Z
-    webUrl: "https://collisionweek.com/2021/09/27/gm-invests-300-million-momenta-deliver-self-driving-technologies-china/"
-    type: article
-    provider:
-      name: CollisionWeek
-      domain: collisionweek.com
-    quality: 19
-    images:
-      - url: "https://collisionweek.com/wp-content/uploads/2021/04/IBIS-2021-USA.png"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "DTu8EWTKbJLv2Awdmdj86gZlb6SGx2lcTOZSofzALzQUqhdpkvXhL3W4oiwpqFkSJ493Uh/I6Q29y2yXzOo6Gz/qhVwxWCVG4Utmhc8r6pXGYhVbg/f/MXYsxvmCtvTsKM4BbrvrO5lLDmNIUN1CnprxCFHH3vlix1Gmj+sOAQRQc12pR4RNxDI1rwB2P9u3FWC/jXQtjotYl/0Xt8wXV7a7hXi0XjAPXAhbKloXOKzc5eV7NH/Q8Y6JtFi2QzF7s9H15dVUupZlhJs4KNwcL0IA8kP6evYGFZNEnQleFNFzooeLAKfkySVHDuqT1ZHFloktdjRK/lsfJ3uulpZ5MBdl1dMYLOcBZR1IAlu4lByQDGWPjRg42dPoYPZRnYURE8OB6wqg6l+T6otXxUBe82nBrFAKN2YX/q2+Pv72qHjDq1TdWqpKQKZvNp7s3q2A+hDQmdhsU0owjSTv0F+vIlHWME4BQpOrLVqT0dyLM0i0srWK6tTLFTUNrqfEy68LypchDTVCVCWK1KnC1j2+IA==;J+jMT4yAHUhucAPIm7qRYw=="
 ---

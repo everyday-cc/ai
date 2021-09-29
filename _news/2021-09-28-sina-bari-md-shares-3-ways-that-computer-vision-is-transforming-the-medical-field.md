@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Sina Bari MD Shares 3 Ways that Computer Vision is Transforming the Medical Field"
-excerpt: "The medical field is constantly evolving in our day and age, as is technology. We are all familiar with the types of technology, computers, cellphones and software that’s out there. But when it comes to the specifics and details of technology or a form of artificial intelligence,"
-publishedDateTime: 2021-09-28T14:00:00Z
-originalUrl: "https://ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/"
-webUrl: "https://ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/"
-ampWebUrl: "https://ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/?amp=1"
-cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/?amp=1"
+excerpt: "The medical field is constantly evolving in our day and age, as is technology. We are all familiar with the types of technology, computers, cellphone"
+publishedDateTime: 2021-09-28T12:42:00Z
+originalUrl: "https://menafn.com/1102877240/Sina-Bari-MD-Shares-3-Ways-that-Computer-Vision-is-Transforming-the-Medical-Field"
+webUrl: "https://menafn.com/1102877240/Sina-Bari-MD-Shares-3-Ways-that-Computer-Vision-is-Transforming-the-Medical-Field"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Inter Press Service
-  domain: ipsnews.net
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://submission.icrowdmarketing.com/assets/source/users/2087/Sina%20Bari%20MD%20Shares%20How%20Computer%20Vision%20is%20Transforming%20the%20Medical%20Field.jpg?1632508900522"
-    width: 1600
-    height: 1067
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?425135"
+    width: 416
+    height: 250
     isCached: true
 
-secured: "OoeleK/+xVKuVKAy8gB2CiNa9qpyTTEcT0TJzywpqarexqajyvv3GH4lCfpizD68MXcPJAy7FbU93493bL29KJGZi6K+/2NffgYUBNqSU+RfBPTBsYf3ZGemSlAr+HJ4rMOPp/iDMXViUfkG4dkdpAkAfyCjbzz8hsJER/1N5bXCD85Kp+5YmUZmw//Aovo0QpxSBa5KnVbj3D7GQdVlh/Q/M3K7gWgEj/hPD66Xw6jnCS0aVbgEuiLwbiUYB9HFRj8creyVM2iNgLMGaBZh4/+qHYtXy60ywQDs9odgYHT53QAMkb3hp+oysSeby+6tMk61lqEIxqd2EiuNGvKqLJTn7FQE5cUFYj7okCppkrA=;ykRdOfLv3dJCggcZDhLrFQ=="
+secured: "Y6P0XJBjYPH7SfpQ0duKwtuss+99QDTHmw8FYS9fBQGpVFR9BvQt1WtwujXkOiOSqa7EEmROC6DKpNR9874sKREbpB2qxvrHSqmVJJN9oh3vyG6Uhx6DgxaCiQCxFAGctTSw/p92gqPOEWwLO7YvXPkDPM7aGDJjGeDiY4a7rpLHThF0hkx/fLS3iMYUM/UpmPPivyB1Udj7w/pr9vUO+XEO4jOct9TA5vTS4bvbiv3VgzFRqCi0h/cfKVDhirFiqEO29QNV42CtH8xhWU7AJ4bEvaqxsPFLJG3Uvwo3vI+TucCIx/8I0TAxxf+Mo1CmwoSRZu81U8gxchxhJMHDXa66Lo2iPXjF+PoYsybljYo=;aoMvBdFWrSf9raSwQbUTHg=="
 ---
 

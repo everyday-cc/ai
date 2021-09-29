@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-september-2021-09-25?amp"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Nasdaq
@@ -20,19 +20,21 @@ topics:
   - AI
 
 related:
-  - title: "Amazon's September Echo event: What we expect from Ring and Alexa"
-    excerpt: "Amazon is holding its annual event Sept. 28, and promises news about devices, services and more. Here's what we're hoping to see."
-    publishedDateTime: 2021-09-24T11:00:15Z
-    webUrl: "https://www.aboutamazon.com/news/devices/amazon-devices-services-news-september-2021"
+  - title: "The 3 Best AI Stocks To Buy for Massive Upside Potential"
+    excerpt: "Many companies have benefited from their application of AI. But these three AI stocks have the most upside potential in the space."
+    publishedDateTime: 2021-09-28T11:28:00Z
+    webUrl: "https://investorplace.com/2021/09/the-3-best-ai-stocks-to-buy-for-massive-upside-potential/"
+    ampWebUrl: "https://investorplace.com/2021/09/the-3-best-ai-stocks-to-buy-for-massive-upside-potential/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/09/the-3-best-ai-stocks-to-buy-for-massive-upside-potential/amp/"
     type: article
     provider:
-      name: aboutamazon.com/news/devices/amazon-devices-services-news-september-2021
-      domain: aboutamazon.com/news/devices/amazon-devices-services-news-september-2021
-    quality: 122
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 57
     images:
-      - url: "https://assets.aboutamazon.com/dims4/default/b073721/2147483647/strip/true/crop/2357x1179+74+690/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fab%2F7d%2F7387c5c34035af9dafce465fe433%2Famazon-org-smile-extruded-sq.jpg"
-        width: 1200
-        height: 600
+      - url: "https://investorplace.com/wp-content/uploads/2021/04/ai-stocks-3.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Here are top artificial intelligence mergers and acquisitions in September 2021"
     excerpt: "The tech giants are always ready to acquire smaller organizations, concentrated principally in niche and imaginative regions. This article features the top artificial intelligence (AI) mergers and acquisitions in September 2021."

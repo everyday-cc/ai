@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-28-5-women-in-fintech-whore-now-taking-over-indias-finance-domain.md",
+      "title": "5 Women In Fintech Who’re Now Taking Over India’s Finance Domain",
+      "excerpt": "Women have been financially independent since just a century or so in India. Now, in the 21st century we have some inspiring women in Fintech who are making a wave.",
+      "sourceUrl": null,
+      "webUrl": "https://www.womensweb.in/2021/09/women-in-fintech-entrepreneurs-taking-over-indias-finance-domain-oct21wk1sr/",
+      "originalUrl": "https://www.womensweb.in/2021/09/women-in-fintech-entrepreneurs-taking-over-indias-finance-domain-oct21wk1sr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.womensweb.in/wp-content/volume_blr1_01/uploads/2021/09/women-in-fintech-3.png",
+          "width": 1000,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T23:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Women's Web",
+        "domain": "womensweb.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-will-ai-revolutionize-regtech-part-1-faster-easier-richer.md",
       "title": "Will AI Revolutionize Regtech? Part 1: Faster, Easier, Richer",
       "excerpt": "Later this year at the NSCP National Conference, I’ll be speaking on a panel with Jane Stabile and Andrew Siegel on the topic “Will AI Revolutionize the Financial Services Industry?” To help promote the event,",
@@ -1304,51 +1347,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-12-zillow-zillow-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise-fintech-zoom.md",
-      "title": "Zillow – Zillow – Leading MLOps Tools Are The Next Frontier Of Scaling AI In The Enterprise | Fintech Zoom",
-      "excerpt": "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom.",
-      "sourceUrl": null,
-      "webUrl": "https://fintechzoom.com/fintech_news_zillow/zillow-zillow-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise-fintech-zoom/",
-      "originalUrl": "https://fintechzoom.com/fintech_news_zillow/zillow-zillow-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise-fintech-zoom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fintechzoom.com/wp-content/uploads/2021/09/1631318839_0x0.jpg",
-          "width": 1200,
-          "height": 754,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-12T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechzoom",
-        "domain": "fintechzoom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI",
-        "AI in Finance"
       ]
     }
   ],

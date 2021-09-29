@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Vice President calls for AI solutions in agriculture, health, education"
-excerpt: "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial"
-publishedDateTime: 2021-09-28T20:04:00Z
-originalUrl: "https://menafn.com/1102881265/Vice-President-calls-for-AI-solutions-in-agriculture-health-education"
-webUrl: "https://menafn.com/1102881265/Vice-President-calls-for-AI-solutions-in-agriculture-health-education"
+excerpt: "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to deliver benefits to the people and enhance their quality of life."
+publishedDateTime: 2021-09-29T02:52:00Z
+originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=878108"
+webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=878108"
 type: article
 quality: 56
-heat: 86
+heat: 96
 published: true
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Daijiworld
+  domain: daijiworld.com
 
 topics:
   - Natural Language Processing
@@ -20,12 +20,26 @@ topics:
   - AI in Education
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-09/28/I_c99edimage_story.jpg"
-    width: 400
-    height: 267
+  - url: "http://www.daijiworld.in/images3/daya_270921_fldgs6.jpg"
+    width: 640
+    height: 449
     isCached: true
 
 related:
+  - title: "Vice President Naidu calls for people-centric Artificial Intelligence solutions in agriculture, health, education sectors"
+    excerpt: "Vice President Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to deliver benefits to the people and enhance the quality of life."
+    publishedDateTime: 2021-09-29T02:00:00Z
+    webUrl: "https://www.sify.com/news/vice-president-naidu-calls-for-people-centric-artificial-intelligence-solutions-in-agriculture-health-education-sectors-news-national-vj3caeadddcdj.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 44
+    images:
+      - url: "https://aniportalimages.s3.amazonaws.com/media/details/dgcghfgdcdcfscf202109230651412021092308023020210929004348.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "6 steps for seamlessly integrating an artificial intelligence solution into daily clinical practice"
     excerpt: "Imaging stakeholders have written plenty about the promise of artificial intelligence but not much on how to integrate AI solutions into daily clinical practice. Experts with University Hospitals are attempting to fill the void,"
     publishedDateTime: 2021-09-28T20:31:00Z
@@ -69,6 +83,6 @@ related:
         height: 563
         isCached: true
 
-secured: "YS3Bn3KrPxLbzhh+zdtKqpjnSV3aLroUWPhGMbmqqGSf11HRYlRAHbS3ks6f8rM18DLNhbSsOB6/Os5hu0g7AtRiexq4NPBZQKjd6rlg6yZk1VYydBxztJYAN+OkaEiXz6Mjh8UPMWUm03DyIaTgGvddS6zRCHXNHRbwyc2i/eO87IjDz3GU9SZJoRAaHdrKqD5QPGQCmlSvZCx/Uh0ENeroScQ0R4LCGgOYs6CGplE3uFpKYYWh6DkeElRR0f2ZKLRsrYXpYOOQQEdckcw9RJ8NVJEh0NK7C7CdghlPzwoj5o9gvqhvUhpdikXkMvWdRZv+D09PXgPVY4cDDp4fmRSnAbFhswJWsGjZ7Dq7epZKwCGEU25sg+kJBU0ayjJTLdVFRy1uKCfh9O3lJCwZlCgK9M0UIdjNb2u+lBvvGaDyiM1LyPAowZYehPcZcIS7QoiHihbJaJRl7rZrE29MbL1v78cVE5tAndgkrEJmDr8oEtwW42z7QPyGds+0ve4oQvNxmiRs5HdtUMpMCdUZUw==;0KzkhVzoVCrys+yx5VHn8Q=="
+secured: "fbEApwpWYAk2AXIohh7/+ZgDIH3CfvmAbyAwR7jm8Em4sEIC7GxJ83woeBdMX3xC3HrR8YpAP1xExuolhKHB7HVXB7Emmz+x/aeh7VYyPg/bpMA7A1LflIiJRoZIGJK53CRQ/IuAdNvdV9+QOVVCf5JQkmvGkHJ4dYUusl5lCELuBvtvJJ2q8UgHxR1xBeLD31RoGie9qJlyUlX+tbun58Q9spG/2dJn5RUmzWPly1fz95niAajBIVgEk4rrLLchMobRXLXK/en1xN08QtZyJVmcQ35l4iT3yBZtWg414CP620chVei1yjnQiuVbKw5xeR9JfRk/7VHCtIoAaqLUbJ88CdB4p3DG9d0IQgFUI8k=;FRlVBQzelqkBqAPEIEp3Cg=="
 ---
 

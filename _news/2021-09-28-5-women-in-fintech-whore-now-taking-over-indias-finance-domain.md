@@ -7,8 +7,8 @@ originalUrl: "https://www.womensweb.in/2021/09/women-in-fintech-entrepreneurs-ta
 webUrl: "https://www.womensweb.in/2021/09/women-in-fintech-entrepreneurs-taking-over-indias-finance-domain-oct21wk1sr/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 164
+published: true
 
 provider:
   name: Women's Web
@@ -25,68 +25,152 @@ images:
     isCached: true
 
 related:
-  - title: "MeitY and AWS partner to support DeepTech innovation in India"
-    excerpt: "The MeitY Startup Hub, an initiative of the Ministry of Electronics and IT has entered into a Memorandum of Understanding (MoU) with Amazon Internet Services, which undertakes the resale"
-    publishedDateTime: 2021-09-24T09:05:00Z
-    webUrl: "https://www.dqindia.com/meity-aws-partner-support-deeptech-innovation-india/"
-    ampWebUrl: "https://www.dqindia.com/meity-aws-partner-support-deeptech-innovation-india/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/meity-aws-partner-support-deeptech-innovation-india/amp/"
+  - title: "The ascent of the cloud in fintech"
+    excerpt: "For India, it’s a case of the right place, right time, right conditions for the enthusiastic adoption of cloud tech for financial entities"
+    publishedDateTime: 2021-09-28T12:01:00Z
+    webUrl: "https://www.dqindia.com/the-ascent-of-the-cloud-in-fintech/"
+    ampWebUrl: "https://www.dqindia.com/the-ascent-of-the-cloud-in-fintech/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/the-ascent-of-the-cloud-in-fintech/amp/"
     type: article
     provider:
       name: Dataquest
       domain: dqindia.com
-    quality: 59
+    quality: 44
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/06/deeptech.jpg"
-        width: 850
+      - url: "https://www.dqindia.com/wp-content/uploads/2019/05/Paper-Business-Computing-Save-World-Hand-Cloud-2104829.jpg"
+        width: 598
         height: 400
         isCached: true
-  - title: "MeitY Startup Hub and AWS collaborate to support startup growth in India"
-    excerpt: "MeitY Startup Hub and AWS will work together to identify startups with deep technology capabilities.Initially, the collaboration will focus on startups addressing healthcare, agriculture, public safety,"
-    publishedDateTime: 2021-09-26T11:29:00Z
-    webUrl: "https://www.livemint.com/news/india/meity-startup-hub-and-aws-collaborate-to-support-startup-growth-in-india-11632653878805.html"
-    ampWebUrl: "https://www.livemint.com/news/india/meity-startup-hub-and-aws-collaborate-to-support-startup-growth-in-india/amp-11632653878805.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/meity-startup-hub-and-aws-collaborate-to-support-startup-growth-in-india/amp-11632653878805.html"
+  - title: "Five Economic Benefits From Bank And Fintech Firm Partnerships"
+    excerpt: "The connection between banks and FinTech companies means heightened trust backed by better tech, stronger security and less room for errors"
+    publishedDateTime: 2021-09-24T16:41:00Z
+    webUrl: "https://www.valuewalk.com/five-economic-benefits-from-bank-and-fintech-firm-partnerships/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 58
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 39
     images:
-      - url: "https://images.livemint.com/img/2021/09/26/600x338/aws-kMdH--621x414@LiveMint_1632655708567.jpg"
+      - url: "https://valuewalk.b-cdn.net/wp-content/uploads/2020/05/fintech_1589276958.jpg"
+        width: 1200
+        height: 764
+        isCached: true
+  - title: "Five Economic Benefits From Bank And Fintech Firm Partnerships"
+    excerpt: "Q2 2021 hedge fund letters, conferences and Read More In fact, Capgemini's World FinTech Report of 2021 details how banks can leverage the new competitive market in depth. Just as we watched large and small businesses alike drastically adapt to the digital demands of Covid in 2020,"
+    publishedDateTime: 2021-09-25T04:56:00Z
+    webUrl: "https://menafn.com/1102859487/Five-Economic-Benefits-From-Bank-And-Fintech-Firm-Partnerships&source=138"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-09/24/V_b0f64image_story.jpg"
         width: 600
-        height: 337
+        height: 382
         isCached: true
-  - title: "AWS collaborates with MeitY to support startup growth and innovation in India"
-    excerpt: "As part of this new collaboration, MeitY Startup Hub and AWS will work together to identify startups with deep technology capabilities, and enable and empower them to build impactful solutions to address the biggest problems facing society in India."
-    publishedDateTime: 2021-09-24T12:32:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/aws-collaborates-with-meity-to-support-startup-growth-and-innovation-in-india/articleshow/86482985.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/aws-collaborates-with-meity-to-support-startup-growth-and-innovation-in-india/amp_articleshow/86482985.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/aws-collaborates-with-meity-to-support-startup-growth-and-innovation-in-india/amp_articleshow/86482985.cms"
+  - title: "Software platform Manch, fintech startup The Money Club raise funds"
+    excerpt: "Bengaluru-based software platform Manch Technologies on Tuesday said it has closed a $1.1 million pre-Series A round led by Bharat"
+    publishedDateTime: 2021-09-28T12:51:00Z
+    webUrl: "https://www.vccircle.com/manch-astrome-glamyo-health-the-money-club-raise-funds"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 56
+      name: VCCircle
+      domain: vccircle.com
+    quality: 39
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-17802,msid-86482988/amazon.jpg"
-        width: 600
-        height: 450
+      - url: "https://assets.vccircle.com/uploads/2021/08/Securefundrfxl.jpg"
+        width: 810
+        height: 506
         isCached: true
-  - title: "MeitY Startup Hub and AWS collaborate to support startup growth and innovation in India"
-    excerpt: "The MeitY Startup Hub, an initiative of the Ministry of Electronics and IT (MeitY) has entered into a Memorandum of Understanding (MoU) with Amazon Internet Ser"
-    publishedDateTime: 2021-09-24T10:01:00Z
-    webUrl: "https://technuter.com/breaking-news/meity-startup-hub-and-aws-collaborate-to-support-startup-growth-and-innovation-in-india.html"
+  - title: "ARGO Named a 2021 Top 100 FinTech Provider by IDC Financial Insights"
+    excerpt: "ARGO, the leading provider of high-value technology and analytical-sciences software for the financial services and healthcare industries, announced today that it has been named as a Top 100 FinTech Provider in the 2021 IDC FinTech Rankings,"
+    publishedDateTime: 2021-09-27T13:10:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=537047"
     type: article
     provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 31
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
     images:
-      - url: "https://technuter.com/wp-content/uploads/2019/03/aws-logo.jpg"
-        width: 277
-        height: 239
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
+  - title: "The future of payroll is FinTech"
+    excerpt: "The CloudPay NOW app provides easily accessible financial wellbeing tools and information for use while financial decisions are being made."
+    publishedDateTime: 2021-09-27T07:44:00Z
+    webUrl: "https://business-reporter.co.uk/2021/09/27/the-future-of-payroll-is-fintech/"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 24
+    images:
+      - url: "https://businessreporter-197a1.kxcdn.com/wp-content/uploads/2021/09/CloudPay-header-image.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Coin, a FinTech startup launches Coin Wallet"
+    excerpt: "Coin, a US-based FinTech start-up founded by Microsoft alumni ... Coin Wallet is an all-in-one decentralized cryptocurrency exchange, wallet, and AI assistant. Coin Wallet is non-custodial, resides in a browser extension, and includes an integrated ..."
+    publishedDateTime: 2021-09-28T05:31:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/coin-a-fintech-startup-launches-coin-wallet/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/Accelerating-transformation-through-Cloud@2x.png"
+        width: 401
+        height: 400
+        isCached: true
+  - title: "The Advantages of Developing a Mobile App for a FinTech Industry"
+    excerpt: "We live in some technologically exciting times. Every industry or company benefits from having an app ready to help its customers. No matter the industry they are in, more and more companies already have an app connecting them with their customers."
+    publishedDateTime: 2021-09-28T17:56:00Z
+    webUrl: "https://finchannel.com/the-advantages-of-developing-a-mobile-app-for-a-fintech-industry/"
+    type: article
+    provider:
+      name: The Financial
+      domain: finchannel.com
+    quality: 24
+    images:
+      - url: "https://finchannel.com/wp-content/uploads/2017/11/Magazine_FinTech.jpg"
+        width: 800
+        height: 549
+        isCached: true
+  - title: "Thesis Intern at AI for Fintech Research"
+    excerpt: "Thesis Intern at AI for Fintech Research With millions of customers and thousands of employees worldwide, software and data analytics are at the heart of ING's business and operations."
+    publishedDateTime: 2021-09-25T08:51:00Z
+    webUrl: "https://www.banken.nl/stages/2144/ing/thesis-intern-at-ai-for-fintech-research"
+    type: article
+    provider:
+      name: banken
+      domain: banken.nl
+    quality: 19
+  - title: "The Rise of Insurtech In The Pandemic Era: FinTech is Transforming The Insurance Industry"
+    excerpt: "Insurtech has recently emerged in the insurance space growing by leaps and bounds, helping organizations protect their business and execute transactions remotely during the"
+    publishedDateTime: 2021-09-25T22:53:00Z
+    webUrl: "https://www.bbntimes.com/financial/the-rise-of-insurtech-in-the-pandemic-era-fintech-is-transforming-the-insurance-industry"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 15
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Rise_of_Insurtech_In_The_Pandemic_Era-_FinTech_is_Transforming_The_Insurance_Industry.jpg"
+        width: 1687
+        height: 1080
+        isCached: true
+  - title: "FINTECH attracts senior talents as investment ramps up in Asian Trade Finance centre"
+    excerpt: "Leading hyper growth FINTECH in trade and supply chain finance #dltledgers has appointed Sanjeev Chatrath as their new Chief Revenue Officer"
+    publishedDateTime: 2021-09-27T07:17:00Z
+    webUrl: "https://www.shippingandfreightresource.com/fintech-attracts-senior-talents-as-investment-ramps-up-in-asian-trade-finance-centre/"
+    type: article
+    provider:
+      name: shippingandfreightresource.com
+      domain: shippingandfreightresource.com
+    quality: 12
 
 secured: "u6PgDR6w6hBU/9ylFAhXMjcg5Pbd467+deAHVRYowlewmC+lxLY0uC7a+aZylacgba4x2MOWmcyvEBRCVAHdaej8qT1YJtc3L6q5qoSe68UdbKOfZskv9Ez61lcAyNxb+RvwgwZPinzzw4Rc91okNDZDoQvwsirvoomNZFq6ZadAZKGCaTCamNe62xkdJs5Al7CHN0TyP9jtyGoeDHriesvgiuSeO0o547bvyoEcfwjD3AZvU9pyXRNONe/pPpopZVbdk++SkLcBrqacZFpqdPNDUTdpITrKhF3lJZ9J0Ly/UqfP+C214sbLIEZvNFxNKGGCvGqA2K7XUfXt+dD7zHm11Mn16zQfjYCyWA5EtcI=;wFbO/lBgUMJCaJfwGhBKfA=="
 ---

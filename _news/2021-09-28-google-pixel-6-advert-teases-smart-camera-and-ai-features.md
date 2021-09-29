@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 775
         isCached: true
-  - title: "Boosting HR Efficiencies through Artificial Intelligence"
-    excerpt: "Mindful of the company’s growth projections, Wipro HRSS hoped to design and implement a system that not only enhanced the employee experience, but also generated measurable business value by accelerating process turnaround times,"
-    publishedDateTime: 2021-09-24T10:35:00Z
-    webUrl: "https://www.wipro.com/analytics/boosting-hr-efficiencies-through-artificial-intelligence/"
-    type: article
-    provider:
-      name: Wipro
-      domain: wipro.com
-    quality: 37
-    images:
-      - url: "https://www.wipro.com/content/dam/nexus/en/service-lines/analytics/images/og-boosting-hr-efficiencies-through-artificial-intelligence-i-1153851708-502x263.png"
-        width: 502
-        height: 263
-        isCached: true
   - title: "Nosh uses AI to help people and businesses cut down on their food waste"
     excerpt: "When founder Somdip Dey was a computer science masters student at the University of Manchester, his parents got in a terrible car accident. He"
     publishedDateTime: 2021-09-27T04:31:00Z

@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 797
         isCached: true
-  - title: "Boosting HR Efficiencies through Artificial Intelligence"
-    excerpt: "Mindful of the company’s growth projections, Wipro HRSS hoped to design and implement a system that not only enhanced the employee experience, but also generated measurable business value by accelerating process turnaround times,"
-    publishedDateTime: 2021-09-24T10:35:00Z
-    webUrl: "https://www.wipro.com/analytics/boosting-hr-efficiencies-through-artificial-intelligence/"
-    type: article
-    provider:
-      name: Wipro
-      domain: wipro.com
-    quality: 37
-    images:
-      - url: "https://www.wipro.com/content/dam/nexus/en/service-lines/analytics/images/og-boosting-hr-efficiencies-through-artificial-intelligence-i-1153851708-502x263.png"
-        width: 502
-        height: 263
-        isCached: true
 
 secured: "9mB9hSD0+gjdaxyDmbpF+SY3dQA+n9v4qQ8hHcSowKprOYpE5EJEP4GuXRJZ9Lwy7tKZXx6Sf5blqPLMrxe5g9l6Arv0+su2okxePKFYatpu1dpF5KJZqsbypFcHqb9EwOIi2Ku3y7Yul3znpQKpPZIcqdUqK8ncZiRX1gmPRuCwHk7bg/i6owVOYlqEhGz7+6bIay4F+nYoJP9bSx8qXTd8ULE6uAEFd1+apy3yB/LCrJpm2tPZqJeAeSiONpOf3+XDVPYunQoGROZiDAnbVZtfTJjgrp6n3MT+3XwjONASrpT+Diywnp2542K4gJTZLe+7zyuoxRi9hndB1hUkFM1GeJuAdIDF0hauWry778o=;Q8ewPXKxiPDQp8+w2S7+YQ=="
 ---

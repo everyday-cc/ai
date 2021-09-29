@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/for-self-driving-cars-the-hot-new-t
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/for-self-driving-cars-the-hot-new-technology-is-radar-11632542430"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://images.livemint.com/img/2021/09/25/600x338/googlecars-kY8D--621x414@LiveMint_1632583693837.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "GM Invests $300 Million in Momenta to Deliver Self-Driving Technologies in China"
+    excerpt: "General Motors announced it will invest $300 million in Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China. “Customers in China are embracing electrification and advanced self-driving technology faster than anywhere else in the world,"
+    publishedDateTime: 2021-09-27T16:31:00Z
+    webUrl: "https://collisionweek.com/2021/09/27/gm-invests-300-million-momenta-deliver-self-driving-technologies-china/"
+    type: article
+    provider:
+      name: CollisionWeek
+      domain: collisionweek.com
+    quality: 19
+    images:
+      - url: "https://collisionweek.com/wp-content/uploads/2021/04/IBIS-2021-USA.png"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "9HoO/JgvWW5OvNjXddWpuZUYUBWjJMlNNknrAtKTvvhy4j9+qg/W4GTOnfH2XExhCuvgI0p05UtEi0jISMN2sCefg+fTOkPgec7q+VwV7NeHdQhudbFcuBTLQoYWYBiqlfE2HBfF3RNpDlI3TnujQi4+wPzT2Ll7PHLr5OyGSToPIJOn90o1M2rcVHmkNy03sq6Io4Yj5Bv87voXpmrD5ppuSSK2sCtyQAj7X3Cxb7jJFGGxTBW7Ok5M+oAGTZrtho+Zs4zcWArfhNz4gBf0Obh0R1yJXH7Guch2uObpZIm7odjXWHqNRZR5JwsQYxoNvFVVXPzYQrPhUn0KUvOawSQFWsx29zQrXqPCRe+t1yzZJ5KHWgpcrvcJpd9aTPUuUWdvTaSl2++t2Vk/xIiZVAnicEMj/AK5l8/W7BcXaWiNcPP2Fln0teoSDB20txDjFx5fPBI4AUlTfTw7I2+0q/l0se5LGt5exhl0WIg9cYI4nVGjAIVXIbboIkivNpHIuDGZaJEcZeQ6x276OUCtQA==;GezIBbs9PFvHXIrBshOXag=="

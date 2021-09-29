@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "MeitY and AWS partner to support DeepTech innovation in India"
-    excerpt: "The MeitY Startup Hub, an initiative of the Ministry of Electronics and IT has entered into a Memorandum of Understanding (MoU) with Amazon Internet Services, which undertakes the resale"
-    publishedDateTime: 2021-09-24T09:05:00Z
-    webUrl: "https://www.dqindia.com/meity-aws-partner-support-deeptech-innovation-india/"
-    ampWebUrl: "https://www.dqindia.com/meity-aws-partner-support-deeptech-innovation-india/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/meity-aws-partner-support-deeptech-innovation-india/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 59
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/06/deeptech.jpg"
-        width: 850
-        height: 400
-        isCached: true
   - title: "MeitY Startup Hub and AWS collaborate to support startup growth in India"
     excerpt: "MeitY Startup Hub and AWS will work together to identify startups with deep technology capabilities.Initially, the collaboration will focus on startups addressing healthcare, agriculture, public safety,"
     publishedDateTime: 2021-09-26T11:29:00Z
@@ -58,34 +42,6 @@ related:
       - url: "https://images.livemint.com/img/2021/09/26/600x338/aws-kMdH--621x414@LiveMint_1632655708567.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "5 Women In Fintech Who’re Now Taking Over India’s Finance Domain"
-    excerpt: "Women have been financially independent since just a century or so in India. Now, in the 21st century we have some inspiring women in Fintech who are making a wave."
-    publishedDateTime: 2021-09-28T06:24:00Z
-    webUrl: "https://www.womensweb.in/2021/09/women-in-fintech-entrepreneurs-taking-over-indias-finance-domain-oct21wk1sr/"
-    type: article
-    provider:
-      name: Women's Web
-      domain: womensweb.in
-    quality: 54
-    images:
-      - url: "https://www.womensweb.in/wp-content/volume_blr1_01/uploads/2021/09/women-in-fintech-3.png"
-        width: 1000
-        height: 499
-        isCached: true
-  - title: "MeitY Startup Hub and AWS collaborate to support startup growth and innovation in India"
-    excerpt: "The MeitY Startup Hub, an initiative of the Ministry of Electronics and IT (MeitY) has entered into a Memorandum of Understanding (MoU) with Amazon Internet Ser"
-    publishedDateTime: 2021-09-24T10:01:00Z
-    webUrl: "https://technuter.com/breaking-news/meity-startup-hub-and-aws-collaborate-to-support-startup-growth-and-innovation-in-india.html"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 31
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2019/03/aws-logo.jpg"
-        width: 277
-        height: 239
         isCached: true
 
 secured: "+MPZOvTtXQHaV4YX+Gy6r0Qk6GsbjckQNObq1rnRzBIieBFw4NNXG31CvyrupbRg8j7bTDPthu4Ig7ri19aJta181AOZB3DyNMhQEpDLWwmeAOfw95X5H0s3J4DUEjVTJAoQ5SYKFUt1JVZk2WXyHc942xitOcXFVr7StbdVzJonQ3PbZdw3s/yTs/kr/GBuR6w9ZKAoNJqxr+OC4kBg3Wh/UNHXT4NwD3oqjSQaL4Nf3rB+sQEvYz/EC61XY6ZGa2x599DEHyvvPHamrtJ81kWBlp47lUSFeE6t9OqMoMQOPAS9hb8XkEbj13qIop9RavQKfYaBJ0v/+8f1oeBuIXdBTAgkkRXs/05R02ZiCI6jcW7ohDtjI9ljOp8vyA7myRVBzlE+yh54+1n4QO1K2bykWtbmN81HS0XDpgypfM4FYuQLSZ0NKqUr7Q9LKpg+bLKh9Vd6gzK1YbmPJTfSuXNOkIDApMAQcNMkXYRyeDl8zY2/XcdYCn7OrtGkxwgE07tMdY+PncNslN/0C9qZDQ==;vr/P6Q6lKLv88HBVp7kZ7w=="

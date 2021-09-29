@@ -144,33 +144,24 @@
     {
       "path": "_news/2021-09-21-ibm-and-airspan-networks-plan-to-work-to-accelerate-5g-enabled-open-ran-adoption-in-europe.md",
       "title": "IBM and Airspan Networks Plan to Work to Accelerate 5G-enabled Open RAN Adoption in Europe",
-      "excerpt": "IBM is expected to provide its Global Business Services technology integration services, as well as IBM Cloud Pak for Network Automation and IBM Cloud Pak for Watson AIOps, to allow customers to ...",
+      "excerpt": "IBM is expected to provide its Global Business Services technology integration services, as well as IBM Cloud Pak for Network Automation and IBM Cloud Pak for Watson AIOps ... s leading global hybrid cloud and AI orchestration services.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/09/b23024132/ibm-and-airspan-networks-plan-to-work-to-accelerate-5g-enabled-open-ran-adoption-in-europe",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/b23024132/ibm-and-airspan-networks-plan-to-work-to-accelerate-5g-enabled-open-ran-adoption-in-europe",
+      "webUrl": "https://stockhouse.com/news/press-releases/2021/09/21/ibm-and-airspan-networks-plan-to-work-to-accelerate-5g-enabled-open-ran-adoption",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2021/09/21/ibm-and-airspan-networks-plan-to-work-to-accelerate-5g-enabled-open-ran-adoption",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/23024132",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23024132",
-      "publishedDateTime": "2021-09-20T21:33:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-20T21:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
         "images": null,
         "publishers": null,
         "authors": null

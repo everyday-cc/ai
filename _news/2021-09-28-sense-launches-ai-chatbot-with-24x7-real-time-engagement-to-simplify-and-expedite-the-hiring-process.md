@@ -40,15 +40,6 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "LAW-U: Legal Guidance Through Artificial Intelligence Chatbot for Sexual Violence Victims and Survivors"
-    excerpt: "Sexual violence is a severe and chronic occurrence around the world that has not been resolved. The stigmatized nature of sexual violence has forced victims and survivors to accept prejudiced accusations cultivated from discriminatory norms when they are never at fault nor responsible for such violations against their sexuality."
-    publishedDateTime: 2021-09-24T09:36:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9539229"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 1
 
 secured: "WRHsYX4le7ngJc7JVRknU74cFaysfIwsSnBctjlqhVd/BrVDIwuTu6ZmzroGMdmPtYKmH9q2TnfTzCzRpxW7Eixa94VaLNn5obAu4wIn35bqivsmAIkicUvWMzIHICxtFhpI86vfi1wj7hGymP+HHS9JBlKvfAq0q5ZvUZ7Oy/8Id5fupEZ6n3ux8WMVi88rtnYcKF+hew8vSBQNk6Lz/0oAX+SHYa4DZ6ZI5GFlVTI5BqfcOSl8k0aGlXmlIhlaYdDQnXYGKio6f6WufyoPGpIBxEyHkykkqxbTJClVzBhERcjc2Kj0vaI8JoQ9DUsPKmghcfR/Yg8ORFv8y451XiBNdO/DuEVFjdKMws9YtVU=;Ki/zq1qWGwT4vzXC4+D4ng=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/7t5W2reCUYkYMbnF9WiRQ7-1200-80.jpg"
         width: 1200
         height: 797
-        isCached: true
-  - title: "Boosting HR Efficiencies through Artificial Intelligence"
-    excerpt: "Mindful of the company’s growth projections, Wipro HRSS hoped to design and implement a system that not only enhanced the employee experience, but also generated measurable business value by accelerating process turnaround times,"
-    publishedDateTime: 2021-09-24T10:35:00Z
-    webUrl: "https://www.wipro.com/analytics/boosting-hr-efficiencies-through-artificial-intelligence/"
-    type: article
-    provider:
-      name: Wipro
-      domain: wipro.com
-    quality: 37
-    images:
-      - url: "https://www.wipro.com/content/dam/nexus/en/service-lines/analytics/images/og-boosting-hr-efficiencies-through-artificial-intelligence-i-1153851708-502x263.png"
-        width: 502
-        height: 263
         isCached: true
   - title: "Nosh uses AI to help people and businesses cut down on their food waste"
     excerpt: "When founder Somdip Dey was a computer science masters student at the University of Manchester, his parents got in a terrible car accident. He"

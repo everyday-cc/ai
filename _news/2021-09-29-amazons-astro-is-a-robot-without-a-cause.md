@@ -79,6 +79,36 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon’s Astro robot puts Alexa on wheels — but is it worth $1,000?"
+    excerpt: "We got to see Amazon’s latest gadget early — it’s the long-rumored robot. We spent about 50 minutes with Astro. Like robots of the past (some have fizzled out, others have gone extinct like Anki’s Vector and Cozmo robots),"
+    publishedDateTime: 2021-09-28T17:15:00Z
+    webUrl: "https://www.cnn.com/2021/09/28/cnn-underscored/astro-amazon-robot-hands-on/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/28/cnn-underscored/astro-amazon-robot-hands-on/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/28/cnn-underscored/astro-amazon-robot-hands-on/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 89
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/210928125815-1-amazon-astro.jpg?q=x_0,y_0,h_2268,w_4030,c_fill/w_800"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Amazon Astro could be the first mainstream robot assistant"
+    excerpt: "Ever since Amazon introduced Alexa to the world and invested heavily in its personal assistant AI, it seemed we all knew where the company was eventually heading: personal robots. That moment has finally arrived."
+    publishedDateTime: 2021-09-29T01:53:00Z
+    webUrl: "https://thenextweb.com/news/amazon-astro-robot-assistant"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FSnag_72f2a89.png&signature=24f080df35275ccae424a76bc49e5f44"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Amazon’s Astro robot is straight out of The Jetsons"
     excerpt: "Amazon is rolling out (literally) a robot that can help monitor your home. Powered by Amazon Alexa and a bunch of artificial intelligence (AI) technology while patrolling about on a set of wheels, the Astro robot can handle numerous tasks,"
     publishedDateTime: 2021-09-28T18:58:00Z

@@ -26,135 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "GM invests $300M in Momenta to deliver next-generation self-driving technologies in China"
-    excerpt: "General Motors will invest $300 million in China-based Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China. Momenta has pioneered a scalable path toward full autonomous driving by combining a data-driven approach with iterating algorithms—referred to as its “flywheel approach”—as well as a"
-    publishedDateTime: 2021-09-24T10:47:00Z
-    webUrl: "https://media.gm.com/media/cn/en/gm/news.detail.html/content/Pages/news/cn/en/2021/Sept/0923-gm.html"
+  - title: "Can SenseTime become a Chinese AI champion?"
+    excerpt: "Known for its expertise in facial recognition, SenseTime has raised more than $3bn from investors including SoftBank, Alibaba, Tiger Global and Silver Lake, making it one of the four most hyped AI companies in China,"
+    publishedDateTime: 2021-09-28T23:01:00Z
+    webUrl: "https://www.ft.com/content/c735e0f3-5704-47b5-a76f-7a02d53a1525"
+    ampWebUrl: "https://amp.ft.com/content/c735e0f3-5704-47b5-a76f-7a02d53a1525"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/c735e0f3-5704-47b5-a76f-7a02d53a1525"
     type: article
     provider:
-      name: Green Car Congress
-      domain: greencarcongress.com
-    quality: 115
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
     images:
-      - url: "https://media.gm.com/content/dam/company/img/cn/GMChina_QR_2021.png"
-        width: 1128
-        height: 1132
-        isCached: true
-  - title: "Kodiak launches its 4th-generation self-driving semi-truck"
-    excerpt: "That move towards autonomy in the trucking industry is where Kodiak Robotics comes in, with its fourth-generation Kodiak Driver system, which the company announced on Tuesday. The system is somewhat unique from others on the road in its modularity and ease of installation on any modern Class 8 truck,"
-    publishedDateTime: 2021-09-28T13:00:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/kodiak-autonomous-semi-truck-launched/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/kodiak-autonomous-semi-truck-launched/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/kodiak-autonomous-semi-truck-launched/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://www.cnet.com/a/img/fXRtRHYXHsgvDiRTPEUy6OR0_EU=/2021/09/27/de369ec4-cdeb-4aa1-bbf8-c04f0dda9fb2/767a6856-1.jpg"
-        width: 1200
-        height: 629
-        isCached: true
-  - title: "Samsung May Make Next-Gen Self-Driving Chips For Tesla In The Future: Report"
-    excerpt: "Samsung is reportedly in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday."
-    publishedDateTime: 2021-09-24T11:19:00Z
-    webUrl: "https://www.news18.com/news/tech/samsung-may-make-next-gen-self-driving-chips-for-tesla-in-the-future-report-4241621.html"
-    ampWebUrl: "https://www.news18.com/amp/news/tech/samsung-may-make-next-gen-self-driving-chips-for-tesla-in-the-future-report-4241621.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/tech/samsung-may-make-next-gen-self-driving-chips-for-tesla-in-the-future-report-4241621.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 73
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/09/samsung-reuters-img-163248230716x9.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Samsung could be making next-gen self-driving chips for Tesla"
-    excerpt: "Samsung and Tesla are in talks to make the next-generation chips for Tesla's upcoming Hardware 4. Which is to come with Cybertruck in a year."
-    publishedDateTime: 2021-09-25T05:15:00Z
-    webUrl: "https://techstory.in/samsung-could-make-next-gen-self-driving-chips-for-tesla/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 56
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/09/Tesla-Chip.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Samsung in talks with Tesla to make next-gen self-driving chips: Report"
-    excerpt: "Samsung is reportedly in talks with Tesla to make next-generation self-driving chips based on Samsung’s 7-nanometre chip production process. According to the Korean Economic Daily, both the companies have discussed chip design multiple times and have also exchanged chip prototypes for the upcoming Hardware 4 self-driving system from Tesla."
-    publishedDateTime: 2021-09-24T16:41:00Z
-    webUrl: "https://www.imdb.com/news/ni63428658/"
-    type: article
-    provider:
-      name: IMDb
-      domain: imdb.com
-    quality: 39
-    images:
-      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-        width: 1000
-        height: 1000
-        isCached: true
-  - title: "Tesla Eyes Samsung to Produce Its Next-Generation Self-Driving Auto Chips"
-    excerpt: "Tesla is in talks with Samsung to make its HW 4.0 chips based on the Korean tech giant's 7-nanometre chip production process. Samsung is expected to win the Tesla new chip deal over its competitor, the semiconductor company TSMC."
-    publishedDateTime: 2021-09-24T20:04:00Z
-    webUrl: "https://www.autoevolution.com/news/tesla-eyes-samsung-to-produce-its-next-generation-self-driving-auto-chips-170200.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 38
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-eyes-samsung-to-produce-its-next-generation-self-driving-auto-chips-170200_1.jpg"
-        width: 1240
-        height: 620
-        isCached: true
-  - title: "Kodiak Robotics Unveils Its Next-Generation Autonomous Truck with Plans to More than Double Its Self-Driving Fleet"
-    excerpt: "Kodiak Robotics, Inc., a leading self-driving trucking company, announced today its fourth-generation autonomous truck. This new truck will feature Luminar's Iris LiDAR, ZF Full Range Radar, Hesa i 360-degree scanning LiDARs for side- and rear-view detection,"
-    publishedDateTime: 2021-09-28T13:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-kodiak-robotics-unveils-its-next-generation-autonomous-truck-/2021/09/28/9457853.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1636255/Kodiak_Autonomous_Truck.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "GM invests $300 million in Chinese self-driving startup"
-    excerpt: "General Motors will invest $300 million in Momenta, a China-based self-driving startup, to accelerate the use of autonomous technology in future GM vehicles for the Chinese market. According to GM, Chinese customers are embracing electrification and self-driving technology faster than other parts of the world."
-    publishedDateTime: 2021-09-24T12:35:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17234/gm-invests-300-million-in-chinese-self-driving-startup"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 24
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/234/17234/Momenta.png"
-        width: 752
-        height: 554
-        isCached: true
-  - title: "GM Invests $300 Million in Momenta to Deliver Self-Driving Technologies in China"
-    excerpt: "General Motors announced it will invest $300 million in Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China. “Customers in China are embracing electrification and advanced self-driving technology faster than anywhere else in the world,"
-    publishedDateTime: 2021-09-27T16:31:00Z
-    webUrl: "https://collisionweek.com/2021/09/27/gm-invests-300-million-momenta-deliver-self-driving-technologies-china/"
-    type: article
-    provider:
-      name: CollisionWeek
-      domain: collisionweek.com
-    quality: 19
-    images:
-      - url: "https://collisionweek.com/wp-content/uploads/2021/04/IBIS-2021-USA.png"
-        width: 300
-        height: 250
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd6c748xw2pzm8.cloudfront.net%2Fprod%2Fa78e9530-2073-11ec-803a-576a26cae162-standard.png?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 293
         isCached: true
 
 secured: "dtr78K31rN1An7vWJOhQkTL/cefI4u09Ec58PiyW95t/RZTa2yMUqcht7Fuos4GFHkJj0vqOoNzMRNd3LTRxaDc3ugCXjRPWKxSdLYg+34JVIiFYuV6IYF7eNnNu6k0ofWSsnY12hPmukoTQ7AstmXFTeHbHOyXS3xXF1WBrr9gKl+n9H5GI8m+wNyfetU9ST5bsLSwgG4jon6Xhs1r3H7Sy+Q+TT3EDL1WrD6eafRIZxE1jXroZnBryNMjmXxYwzAm2URQc6bPLwB/hLeIOVgY6tEaoj3XnneuBhFRUlh29hlThQJVXAOj+w2mOfdJR25VBDdjpWPjFUIDivaCKu8ewPVNDmEnzakYwiHqfT9y1oZ9x5NSuoxEk3Z+gdeWWYkZ8c2xR8kwFQUiPHf+xZCX6gIflcvuO/0kFR42Klc0EMYrjSovzMcdUNxT63yLZjbA/2Ae3duWpLULk2Mw5f3Jy9iNpI23eUy0YWdH17Wq7/Az/Iu6cOCflma16ho6juKeEXKaFo5zGblxyQGEg0g==;KRylxjTShTJsBibzMHruCw=="

@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Arize AI Raises $19 Million Series A Financing Led by Battery Ventures for Machine Learning Observability"
-excerpt: "Arize AI, the leader in ML observability and model monitoring, today announced it has raised $19 million in Series A financing. The round"
-publishedDateTime: 2021-09-28T13:15:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/arize-ai-raises-19-million-series-a-financing-led-by-battery-ventures-for-machine-learning-observability-301385881.html"
-webUrl: "https://www.prnewswire.com/news-releases/arize-ai-raises-19-million-series-a-financing-led-by-battery-ventures-for-machine-learning-observability-301385881.html"
+excerpt: "Arize AI, the leader in ML observability and model monitoring, today announced it has raised $19 million in Series A financing. The round was led by Battery Ventures with participation from previous investors Foundation Capital,"
+publishedDateTime: 2021-09-28T15:25:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-d02717b99e8aa68228a928142048d770"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-d02717b99e8aa68228a928142048d770"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1276605/Arize_AI_Logo.jpg?p=facebook"
-    width: 2696
-    height: 1414
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -43,6 +42,6 @@ related:
         height: 665
         isCached: true
 
-secured: "9XTAqhgjPyJtRdQwq0N07rBbgm5w0pJpHP8v969KFB5esvWh3Cjo7DFUnBuVMlk/Bp1Zi6Sr8fzvbYCPbIXyv+dI9trwh/KGKcB+B5H7E/WC+zCD94L+mvvNq7O3djqeN9VoZ2pLkpOlCkBaUrkHL07ZYizKhDaS34E5/CNRiZ5AQlYoO2ZkmSQamp4GXwz3UF4x5B0QRt/CBM/XoLkA3i3E4snb02RphKEYwfUhm1bg5IbgH7KZO4f/5RhXOvu7kVqfsLKXhpFOrIqj3jBmaIiNAR9WC3SV0WGwG2dUCxfS6kfPcUxdthSf+9/7Gp6seSCdFY3F2GQCA+2w7Gt3moF4Zyw/0wo7jyVN7px8/fc=;Fsj4rE20twgFoBSFTyRYxg=="
+secured: "upkcyDuCtbs9I7NxmrOSE1RnQn73utsFbjAB0F4TXYt8neirvMH/WicdJ4yRDjV3+7RkawFx3kvvkUK9hToKahJeY7IBrzwv2bf0tRJEOVoRKdjplWZH/SkzhNnEPxhcqjNHPUNjRI38SRaviQafgkBVAQkPoI9I2GZwpC5sqy1UsLUwOpZU+s15q7XgQhG9rncTQ2oO35NIhCu/UqHSJ6HYkm01mvKzuh3BCqHe+stU1t9zCy1tzsSsoyizkC0kO7pkm9OdcvbXslib0BxI9VT4bJGDIlJsRA1qUVOcUUmJI74bnM/zqaCNJvWV4lQYAMcHU8SBuxTuUt8C6kfb1FXui40Y3VZD+STKH5Um+Gg=;ttfoCUVn75t3uwUoMk6Lhw=="
 ---
 

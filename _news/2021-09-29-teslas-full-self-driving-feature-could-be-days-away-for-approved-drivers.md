@@ -107,6 +107,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Samsung May Make Next-Gen Self-Driving Chips For Tesla In The Future: Report"
+    excerpt: "Samsung is reportedly in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday."
+    publishedDateTime: 2021-09-24T11:19:00Z
+    webUrl: "https://www.news18.com/news/tech/samsung-may-make-next-gen-self-driving-chips-for-tesla-in-the-future-report-4241621.html"
+    ampWebUrl: "https://www.news18.com/amp/news/tech/samsung-may-make-next-gen-self-driving-chips-for-tesla-in-the-future-report-4241621.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/tech/samsung-may-make-next-gen-self-driving-chips-for-tesla-in-the-future-report-4241621.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 73
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/09/samsung-reuters-img-163248230716x9.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Tesla drivers can now request Full Self-Driving Beta with the press of a button, despite safety concerns"
     excerpt: "Tesla rolled out a long-awaited software update late Friday that allows customers to request access to its controversial, Full Self-Driving Beta (FSD) program. Drivers who get a high safety score from Tesla will get access."
     publishedDateTime: 2021-09-25T20:28:00Z
@@ -265,6 +281,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Samsung could be making next-gen self-driving chips for Tesla"
+    excerpt: "Samsung and Tesla are in talks to make the next-generation chips for Tesla's upcoming Hardware 4. Which is to come with Cybertruck in a year."
+    publishedDateTime: 2021-09-25T05:15:00Z
+    webUrl: "https://techstory.in/samsung-could-make-next-gen-self-driving-chips-for-tesla/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 56
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/09/Tesla-Chip.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Tesla to outsource its self-driving chip to Samsung"
     excerpt: "It is reported that Tesla has decided to outsource its self-driving chip manufacturing to Samsung Electronics. According to the industry on the 24th, Samsung Electronics is reportedly likely to win orders for manufacturing of the HW 4."
     publishedDateTime: 2021-09-27T04:58:00Z
@@ -355,20 +385,6 @@ related:
         width: 1199
         height: 702
         isCached: true
-  - title: "San Francisco raises concerns about Tesla 'self-driving' system as public test nears"
-    excerpt: "Tilly Chang, executive director of the The San Francisco County Transportation Authority, said in a statement to Reuters that a human driver should \"continuously monitor\" Tesla's so-called Full Self-Driving system."
-    publishedDateTime: 2021-09-24T10:50:00Z
-    webUrl: "https://www.autonews.com/regulation-safety/san-francisco-joins-chorus-safety-concerns-over-teslas-self-driving-system"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 47
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Tesla%20logo%20car%20web.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Pass the Test and Tesla Owners Might Get Full Self-Driving Beta Access"
     excerpt: "The wait is almost over for some Tesla Inc. customers to get access to driver-assistance technology the company has marketed in controversial ways — as long as they’re on their best behavior."
     publishedDateTime: 2021-09-24T16:30:00Z
@@ -410,6 +426,20 @@ related:
       - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_720,q_auto:best,w_1280/v1/cms/uploads/z46x0k3fetebxlmui7fl"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Tesla Eyes Samsung to Produce Its Next-Generation Self-Driving Auto Chips"
+    excerpt: "Tesla is in talks with Samsung to make its HW 4.0 chips based on the Korean tech giant's 7-nanometre chip production process. Samsung is expected to win the Tesla new chip deal over its competitor, the semiconductor company TSMC."
+    publishedDateTime: 2021-09-24T20:04:00Z
+    webUrl: "https://www.autoevolution.com/news/tesla-eyes-samsung-to-produce-its-next-generation-self-driving-auto-chips-170200.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 38
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-eyes-samsung-to-produce-its-next-generation-self-driving-auto-chips-170200_1.jpg"
+        width: 1240
+        height: 620
         isCached: true
   - title: "Tesla to outsource its self-driving chip to Samsung Electronics"
     excerpt: "It is reported that Tesla has decided to outsource its self-driving chip manufacturing to Samsung Electronics. According to the industry on the 24th, Samsung Electronics is reportedly likely to win orders for manufacturing of the HW 4."
@@ -562,6 +592,6 @@ related:
         height: 382
         isCached: true
 
-secured: "ffp8BrpfIKFVvxCFgamzUEvrGjeDkneL5F2/Qy7/K5ROOuec1Ryy5gzBl8bC9S58MD9sPtJWHEHWUGjlg1cBrSKtFo8KZc3fdzA0YLxSDAjCmC9hVa1RExIZYZ2zerH+Hk2fXTSC3bAi+6YMp/UwyE7glZzkHSuuBABHx0UwjK9ArAoJ3hbaE0q5q6As+/9lzVklo9MLPeyCpomkJ3clE3AWE8Gl3cwj2XUoALx1ofXYiVlkm4uoG4E3ypCHOzBq20MDoUwCCdbVv/GdouNLn45xefZtaKEJfUFK7Hj0b/FwKbBJe32+9AWm8q8cGGxr1S8vydYEvtQdCqnflUpXeOpsR2pa9T2Lm0FTjZcvdDo=;ntWNUntzPtga5d3hy6f60g=="
+secured: "3nz1rgrfDaPX1c2NNBS9IguHv37ADN+32piqsy3usOMzqyOs6BN+jV/GMStGYAqeqTAd5KjGTa38Z0TlcCCPOKiunLT9VVs4OpntlpgWB32nWMgbFayoIIXn33frsJ+FvRe1TN4eXGNIx4nhC3qQyrR6fTqy8EQSnQ5A2q0TRv66diV0P8ePrdLI9UIRAQ7wOscA7bVGqwvC+cmlXcClngHFGM590aNEv4XkV+RDKjzxycmk8aEJYVDFKe9HX2DVrxg8aa98SC0pHF/OtO7xqZZqtDVBzh65FMkqILPRx0uAkyq8pN/og4QDvJ/ylNhVDJm0+OIhvllnGRXwDSnPAp+2OCkEE5tgBbTkHjiTP19LCM88ZksK+R4G+smkAAtJL9fcH+1MArUfyuV9sBqU14hSwYpKhdebJOClZCfSzq52DYvrB7y3ubbjPIxCO4Gy6ePEhfC2BUWkBB662iacbX9AwRer9tMlmTtO32bh8mmm2RSCxNLPz08Bx9PFytSwhKYybb7ScHZDvBzKwRRoeA==;YU0k86sZkMkDljSMfsarKQ=="
 ---
 

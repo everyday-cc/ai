@@ -74,6 +74,20 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "Samsung in talks with Tesla to make next-gen self-driving chips: Report"
+    excerpt: "Samsung is reportedly in talks with Tesla to make next-generation self-driving chips based on Samsung’s 7-nanometre chip production process. According to the Korean Economic Daily, both the companies have discussed chip design multiple times and have also exchanged chip prototypes for the upcoming Hardware 4 self-driving system from Tesla."
+    publishedDateTime: 2021-09-24T16:41:00Z
+    webUrl: "https://www.imdb.com/news/ni63428658/"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 39
+    images:
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
+        isCached: true
 
 secured: "1xVVhtiKAkP5WBCiWo+eAID7MWCFyyRdqipb7scxirMHgKdyZ4FNdDGQ/QMmOwZsL8oUurHZMK5mem2JaOFP1WG71q73PRnnQcHD8tQ+AP5BAqvy791FDtvflfZ7q1KPP9+gzU6NGOSFbG26nvn3FvPuj76zsVtZNe7IdQzsMfBCw05ED3nfdTZWPYarq6c4/K+45h4ez4xBf5n6WhgNcPxYV1V9MGNWfgrlX/RAN44nfgO7fOQkWYqaNQvn+V44GQZYwVzTy1jf3SOyY1Fw9+2iV/jplZv3eudhOd5EFPXlArsya9ctlT43zZnSo9Nbi9a0Vx5cXN+nl8TW7QoFdwzLwHhU4+bTjlS0i0td/8OKBkHTfCtsu7ytVk8GRwVNs6RQ2nptimsb1zJGvnML+3IvrbHGHwi85jI3as3Bm2Q2uTqK3FviTb1VTDl0Aw84n9Qoi2ALn58Yngu4DweIG1VDle98r1YKjIq5J+2ChZvrPXcMrUe66PGqPKXRh34o4s5YEZpOXOBV9nQojZIczA==;cE4LHIuMLH39RqO9uWPtSw=="
 ---

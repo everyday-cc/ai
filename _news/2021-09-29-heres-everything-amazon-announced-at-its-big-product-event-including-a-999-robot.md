@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Here's everything Amazon announced at its big product event — including a $999 robot"
-excerpt: "Amazon is continuing its quest to cover our homes and bodies with Amazon devices.At a livestreamed media event on Tuesday, the company showed off a handful of new Amazon-branded products, including an Echo device that hangs on the wall and acts as a digital whiteboard for the home,"
-publishedDateTime: 2021-09-29T00:49:00Z
-originalUrl: "https://www.wesh.com/article/amazon-product-event-2021/37780898"
-webUrl: "https://www.wesh.com/article/amazon-product-event-2021/37780898"
-ampWebUrl: "https://www.wesh.com/amp/article/amazon-product-event-2021/37780898"
-cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/amazon-product-event-2021/37780898"
+title: "Here’s everything Amazon announced at its big product event — including a $999 robot"
+excerpt: "Amazon is continuing its quest to cover our homes and bodies with Amazon devices. At a live-streamed media event on Tuesday, the company showed off a handful of new Amazon-branded products, including an Echo device that hangs on the wall and acts as a digital whiteboard for the home,"
+publishedDateTime: 2021-09-29T03:53:00Z
+originalUrl: "https://www.eastidahonews.com/2021/09/heres-everything-amazon-announced-at-its-big-product-event-including-a-999-robot/"
+webUrl: "https://www.eastidahonews.com/2021/09/heres-everything-amazon-announced-at-its-big-product-event-including-a-999-robot/"
 type: article
-quality: 52
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: WESH
-  domain: wesh.com
+  name: East Idaho News
+  domain: eastidahonews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/astro-1632878350.jpg?crop=0.979xw:0.980xh;0,0&resize=1200:*"
-    width: 1200
-    height: 675
+  - url: "https://s3-assets.eastidahonews.com/wp-content/uploads/2021/09/28155210/amazon-glow.jpg"
+    width: 900
+    height: 506
     isCached: true
 
 related:
@@ -44,6 +42,6 @@ related:
         height: 576
         isCached: true
 
-secured: "WtMN1LboewVz6HPalW2p5Cl+rnen/DT5BqMrkNwMUj0XwIZqgsU92CoNOvT5hCYWJPIb9T90Bjdmq99dkUrBIgyi9QcnfGVdg0DOMV15e8swIB7YvwwYv3o/lk/7PSWTOabApKwRbewjIjFhFHgjjA0Lz28xnRPNj5PWhOONEB/5tCDBMzoxBsmJt23WbKaqGMaV5Rk6+mdmKBd6T4y6ymvrW7opFlLtfvmbYWSRmPZDnF3D4n0XvyfHdC3YEggCnEfpV9Ku7Ij3BCijeAxAx4GiQJuGvoTdc6eicXcsZEzq9epRizXsFHFekW76+jtV4ebEP1yYFZifR/xHJX+acAHudhRrRfN1R/+f29RwQEw=;sDjhUZw0M5HqfJZbSdrurw=="
+secured: "zdZ4XC8SKbDcOuTagXRllMl/k+iz65cafIhU2J1UWNaFLlOcEBiaeP+Np+NBprBv9sdk0PnoDMQpSEoTQqMjEywIK07a+b8dfC3b6bsBs0HcLmCX6M9Pj25iu8uhIqk8CkPPTbtR2uk+I91rDxGA1C4CB2ow3n/meU01rq37R0ZAG544yvo0DX0EmkAmKPEr9D9Yy4+x4ZPn6XImoLJBiQMOp/eXQMHOb5l5PhL/PheeeYqYRcW6i8L6PLL88wHkxUigZKc62aWUYWEce3QzKFyud+S2y0O5xOWjkG3ZML1z8TvL9Bde6IDpmm98mFW/DDWLDs7XPtURDoVi2l7lsJorCNEDTqxJdN66ThAH3AQ=;NOBtONsXXogOgUcE0Z7dbA=="
 ---
 

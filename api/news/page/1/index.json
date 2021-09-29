@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-29-vice-president-calls-for-ai-solutions-in-agriculture-health-education.md",
+      "title": "Vice President calls for AI solutions in agriculture, health, education",
+      "excerpt": "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to deliver benefits to the people and enhance their quality of life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.daijiworld.com/news/newsDisplay?newsID=878108",
+      "originalUrl": "https://www.daijiworld.com/news/newsDisplay?newsID=878108",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.daijiworld.in/images3/daya_270921_fldgs6.jpg",
+          "width": 640,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T19:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daijiworld",
+        "domain": "daijiworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-elon-musk-says-tesla-shouldnt-have-an-nda-for-its-full-self-driving-beta.md",
       "title": "Elon Musk says Tesla shouldn’t have an NDA for its Full Self-Driving Beta",
       "excerpt": "Elon Musk says Tesla shouldn’t have a non-disclosure agreement (NDA) for its Full Self-Driving (FSD) Beta testers. Yesterday, we reported on Tesla’s NDA for its Full Self-Driving Beta program. In the document,",
@@ -10,7 +54,7 @@
       "originalUrl": "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 458,
+      "heat": 478,
       "tags": null,
       "images": [
         {
@@ -166,7 +210,7 @@
       "originalUrl": "https://www.cnet.com/home/smart-home/amazon-astro-could-be-the-robot-weve-been-waiting-for/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -207,50 +251,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-vice-president-calls-for-ai-solutions-in-agriculture-health-education.md",
-      "title": "Vice President calls for AI solutions in agriculture, health, education",
-      "excerpt": "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1102881265/Vice-President-calls-for-AI-solutions-in-agriculture-health-education",
-      "originalUrl": "https://menafn.com/1102881265/Vice-President-calls-for-AI-solutions-in-agriculture-health-education",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2021-09/28/I_c99edimage_story.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Education"
       ]
     },
     {
@@ -513,7 +513,7 @@
       "originalUrl": "https://techcrunch.com/2021/09/28/why-amazon-built-a-home-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -910,6 +910,58 @@
       ]
     },
     {
+      "path": "_news/2021-09-28-kodiak-launches-its-4th-generation-self-driving-semi-truck.md",
+      "title": "Kodiak launches its 4th-generation self-driving semi-truck",
+      "excerpt": "That move towards autonomy in the trucking industry is where Kodiak Robotics comes in, with its fourth-generation Kodiak Driver system, which the company announced on Tuesday. The system is somewhat unique from others on the road in its modularity and ease of installation on any modern Class 8 truck,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/kodiak-autonomous-semi-truck-launched/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/kodiak-autonomous-semi-truck-launched/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/fXRtRHYXHsgvDiRTPEUy6OR0_EU=/2021/09/27/de369ec4-cdeb-4aa1-bbf8-c04f0dda9fb2/767a6856-1.jpg",
+          "width": 1200,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/kodiak-autonomous-semi-truck-launched/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/kodiak-autonomous-semi-truck-launched/",
+      "publishedDateTime": "2021-09-28T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-iit-roorkee-establishes-school-of-data-science-and-artificial-intelligence.md",
       "title": "IIT Roorkee Establishes School Of Data Science And Artificial Intelligence",
       "excerpt": "IIT Roorkee has established the Mehta Family School of Data Science and Artificial Intelligence. The school will be supported by global experts from AI field.",
@@ -1012,7 +1064,7 @@
       "originalUrl": "https://telecom.economictimes.indiatimes.com/news/jio-pilots-ai-chatbot-using-homegrown-5g-ran-and-sa-core/86584171",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -1054,7 +1106,7 @@
       "originalUrl": "https://www.technologyreview.com/2021/09/28/1036279/pandemic-unemployment-government-face-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1183,49 +1235,6 @@
         "AI",
         "AI in Security",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24.md",
-      "title": "Cardano Blockchain Selected to Run AI Modules of Humanoid Robot Grace | Blockchain24",
-      "excerpt": "It was officially announced that the Cardano blockchain plans to use the AI ​​modules of a humanoid robot named Grace. Well, the demand for this robot is not even an issue since robotics for aged care has seen tremendous growth due to the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/",
-      "originalUrl": "https://thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thegoaspotlight.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/amp/",
-      "cdnAmpWebUrl": "https://thegoaspotlight-com.cdn.ampproject.org/c/s/thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/amp/",
-      "publishedDateTime": "2021-09-27T23:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thegoaspotlight",
-        "domain": "thegoaspotlight.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
