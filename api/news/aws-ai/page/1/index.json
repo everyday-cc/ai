@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-30-niti-aayog-aws-intel-collaborate-for-experience-studio.md",
+      "title": "NITI Aayog, AWS, Intel collaborate for experience studio",
+      "excerpt": "Niti Aayog, Amazon Web Services (AWS) and Intel have come together to establish a new experience studio that will be a hub for collaboration and experimentation. The studio has been set up at the Niti Aayog Frontier Technologies Cloud Innovation Centre (CIC) in Niti Aayog''s premises here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/newsscroll/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369",
+      "originalUrl": "https://www.outlookindia.com/newsscroll/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369",
+      "publishedDateTime": "2021-09-30T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-aws-releases-new-container-monitoring-service.md",
       "title": "AWS Releases New Container Monitoring Service",
       "excerpt": "Amazon Managed Service for Prometheus is fully compatible with open-source Prometheus and provides the same familiar time series data model.",
@@ -1398,40 +1441,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-aws-to-build-new-uci-track-champions-league-data-platform-for-discovery.md",
-      "title": "AWS to build new UCI Track Champions League data platform for Discovery",
-      "excerpt": "The new AWS fan engagement platform for the UCI Track Champions League is part of new tie-up with media giant's events arm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sportspromedia.com/news/aws-uci-track-champions-league-discovery-sports-events-app-cycling-amazon/",
-      "originalUrl": "https://www.sportspromedia.com/news/aws-uci-track-champions-league-discovery-sports-events-app-cycling-amazon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SportsPro",
-        "domain": "sportspromedia.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

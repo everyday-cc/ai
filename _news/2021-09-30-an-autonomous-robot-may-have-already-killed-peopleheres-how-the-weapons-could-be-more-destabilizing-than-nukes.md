@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "An Autonomous Robot May Have Already Killed People"
-    excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
-    publishedDateTime: 2021-09-29T14:00:00Z
-    webUrl: "https://www.manufacturing.net/home/news/21747325/an-autonomous-robot-may-have-already-killed-people"
+  - title: "Could Autonomous Robots Be More Dangerous than Nukes?"
+    excerpt: "Without established regulations and prohibitions on autonomous weapons, they could pose a great danger and possibly destabilize current nuclear strategies."
+    publishedDateTime: 2021-09-30T15:04:00Z
+    webUrl: "https://interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes"
+    ampWebUrl: "https://amp.interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes"
     type: article
     provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 59
     images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/09/16x9/file_20210927_21_wsi2zg.61547119a8d65.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 677
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/3oOpl2P5OW/sizes/could-autonomous-robots-be-more-dangerous-than-nukes_resize_md.jpg"
+        width: 744
+        height: 419
         isCached: true
   - title: "An autonomous robot may have already killed people – here’s how the weapons could be more destabilizing than nukes"
     excerpt: "Sci-fi nightmares of a robot apocalypse aside, autonomous weapons are a very real threat to humanity. An expert on the weapons explains how the emerging arms race could be humanity’s last."
@@ -74,6 +76,6 @@ related:
         height: 336
         isCached: true
 
-secured: "fyOtQ3b3CNvyb4WZ8Hx1fziybyGpdPK0YIJY2GjGtxNNcNA9fb9cZvwsH5N9PJePgO8JEWf9Yf/jNjOFwHESKSC91jZwDXxXFFlpWPwYuIxZ+1NkAyaE6aDhMs3lD3rk5LPM3QSA1wY4z/qcTX4LMqfJIROVwLPHv9kDnzH3bQkRIhCNSjGnSfBAB4EDnWCwSeglX4TXy2WAgdVz3cgAxcXSvgq87ZYjywAZES0V/i/9mTud2l4mefTzJmZzFnRcIDypTkhQjPNnJf/jzzdEpTFMQ2+VTmcjiPy3eG6siqc9Wwys1c8w9v8pIGs+mVKn6Vd+vFgWGeqXjQKhURtrlreFSq5Zo85BN/d2Xg0LzDQ=;yyvRZj5asqrvu+8rF4Vxtg=="
+secured: "03o0gOqlAgWX+rhTrHPMn+Q50UPjgrRwy7K23D6vUcx+Ws9ubQdMDYJ8MzNsHDokhiOJvb2EhcONdHchRQpi9H40Y2QpNDc9yj7KGqGLPD+qQRlvVgCkq1K/ZmQM6v0GUy2Mhr1OUyjd8eGbpBWaVlme7UG3iosrgkKBjBR7GZvs/alLr0ePwBbgTwRDBEf1S0Q56HLkvf5PgyG9QD4BP+5DFFtJ+e7qjtSerBOIwpxPW0X5rU05bVtfTww8kubzSQsuNvGF+DP/BOmbI6g0pCzIKDtXZoYV6Cp0fA4zZ4wwmr9f7CMegS0vg+98m91VvFc4KPWEBfqlk18i41PThMASZNaq6Q0O789w2vW4MZAX2qlJ5tC2+ZiORH5L/IBJlTIW3nS7bMUDaulUrMUWk+ZKHrKBupmPjY8Mz9Yifuiu8WkScVXcaEw1FNIPwzViSiIdUQh5Me9N5JVCpuGySMLufVpiEmCyyhn7Kxyqoze4NMl6eIkqletvmOIo8T42OwTv3JEBXtlk0Oy4Ody7Dg==;Dk7PWjCdDCOkVNaFX+ZQ3w=="
 ---
 

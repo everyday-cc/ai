@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tool
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1636849/EAIGLE_Artificial_Intelligence_company_EAIGLE_rolls_out_a_new_pr.jpg"
         width: 400
         height: 267
+        isCached: true
+  - title: "The Human Costs of AI"
+    excerpt: "In 2015 a cohort of well-known scientists and entrepreneurs including Stephen Hawking, Elon Musk, and Steve Wozniak issued a public letter urging"
+    publishedDateTime: 2021-09-30T02:23:00Z
+    webUrl: "https://www.nybooks.com/articles/2021/10/21/human-costs-artificial-intelligence/"
+    type: article
+    provider:
+      name: The New York Review of Books
+      domain: nybooks.com
+    quality: 41
+    images:
+      - url: "https://www.nybooks.com/wp-content/uploads/2021/09/halpern_1-102121crop.jpg"
+        width: 1790
+        height: 1194
         isCached: true
   - title: "COVID-19 and city safety: The power of AI"
     excerpt: "A new report demonstrates how deep learning can provide an overview of the relative safety of cities during coronavirus."

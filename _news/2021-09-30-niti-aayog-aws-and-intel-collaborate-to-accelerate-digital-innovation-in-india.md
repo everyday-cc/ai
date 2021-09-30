@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "NITI Aayog, AWS, Intel collaborate for experience studio"
+    excerpt: "Niti Aayog, Amazon Web Services (AWS) and Intel have come together to establish a new experience studio that will be a hub for collaboration and experimentation. The studio has been set up at the Niti Aayog Frontier Technologies Cloud Innovation Centre (CIC) in Niti Aayog''s premises here."
+    publishedDateTime: 2021-09-30T14:54:00Z
+    webUrl: "https://www.outlookindia.com/newsscroll/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369"
+    ampWebUrl: "https://www.outlookindia.com/newsscroll/amp/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 59
+    images:
+      - url: "https://www.outlookindia.com/public/uploads/no-image-new.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "MeitY Startup Hub and AWS collaborate to support startup growth in India"
     excerpt: "MeitY Startup Hub and AWS will work together to identify startups with deep technology capabilities.Initially, the collaboration will focus on startups addressing healthcare, agriculture, public safety,"
     publishedDateTime: 2021-09-26T11:29:00Z
@@ -42,6 +58,6 @@ related:
         height: 337
         isCached: true
 
-secured: "P5YMQpw34w+ARvDm63J9US1VzunDyJv/xwmTsCmA2rUIjsCv+Nw/D5mBA54zOwvGOAoc6H3WKOgLJtMv5v2apaq/57kFOqnNHvv9aVwmZjteUNqm/pThwOylxVzUfnoeRZykN01ljKg2khlmgJwVrzEKNrQc916OOlWUEaO3K6kfHNIooPg0TtkYQnkT6SuljUltrRcibnK/B8Coos3AisdaiyIjVNcsIJl1o2HHH8SgaxljegbRMUmrWm+9w1N0zTb8SiVMb2w38IpBiO7Ns9vwuA01+pjMe9frLaZnbpADC9OpXLPVMsaNFmByv5ZTHubrdjbIWExfXcMy2IfaHntC/HyHupzuiCdMmJEkk/Q=;rY72a+hQSpO05N6HkeaY1A=="
+secured: "1pbEgcxhJnqYWXuRvIs8LaxuWpbZ5lfzq5e4uX9L7/dlxbxZkPKsDSPpbbpzyU3InLoCj715pXtNX1WieAg4yc7fmTbFCj1K7fGh/I20H9X6o8u+hBogMYxpTBRO/CbPHqS8HAF8LN1cp7OF4X332UVdo5uFGhOrUnpOQ8hyOHeDZJjUcuiq9+G4zjsWuBmK1xxKkqiEIsrxap1VDx062Dfs5e5bUmR7PUo+8Q6E+z1lEnrsxn9Yrd+w/wsbqWj5usHA0Iro3TLkj2rMVNqvN5u5lVB1A5awXN/69CEdLhuMc1C+8A2BdepeU3Q0IQWvwnGRnX8L4JpF00R2XcbpdfSjJxTU6JSc9KXMw8IM+3vCtppsHpfJvyZME3F0350tBHX2jI/4F3iC72dOIK2lFnH1ToIr3/h0tBE24FqEPc7gzx8dSRIEap+mJvGq8FY937Xb2/hx7ieMIfQH6vSRFcIS6Gbi3rLMWP/fCJSmDmE7/rOpj8+ADPjr7ABhDB5B3O7vYxVVBQp8HuufDZEFJA==;ccXS38FHG90bihBR/4iKxQ=="
 ---
 

@@ -65,7 +65,7 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 24
+    quality: 26
   - title: "Artificial Retinal Implants Market Size 2021 By Trends Evaluation Forecast to 2027"
     excerpt: "The Global Artificial Retinal Implants Market Report 2021 to 2027 could be a fundamental examination of the global analysis Trending innovation advertise drivers sectional declination analysis measurements advertise forecasts manufacturers and hardware merchants are all included within the substance The"
     publishedDateTime: 2021-09-29T09:59:00Z

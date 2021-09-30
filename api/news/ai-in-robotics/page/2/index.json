@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-22-robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process.md",
+      "title": "Robots and machine learning researchers combine forces to speed up the drug development process",
+      "excerpt": "IBM Research and Arctoris are bringing the power of artificial intelligence and robotic automation to the process of developing new drugs. The two companies aim to make smarter ch",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process/",
+      "originalUrl": "https://www.techrepublic.com/article/robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/09/21/da423e03-baee-48a1-a496-5d7b1687a678/resize/1200x/cb835c5e04a13149c7d356d4637df0e7/arctoris-ulysses-platform.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process/",
+      "publishedDateTime": "2021-09-22T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-amp-robotics-installs-its-first-recycling-robots-in-the-united-kingdom-and-ireland-with-recyco.md",
       "title": "AMP Robotics Installs its First Recycling Robots in the United Kingdom and Ireland with Recyco",
       "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in AI, robotics, and infrastructure for the waste and recycling industry, has installed its first AI-guided robotics systems in the UK and Ireland with Recyco, a leading recycling and waste management business in Northern Ireland.",
@@ -1306,49 +1359,6 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-artificial-intelligence-market-is-anticipated-to-expand-at-a-cagr-of-29-from-2021-to-2031.md",
-      "title": "Artificial Intelligence Market is anticipated to expand at a CAGR of ~29% from 2021 to 2031",
-      "excerpt": "Transparency Market Research delivers key insights on the global artificial intelligence market. In terms of revenue, the global artificial intelligence market is estimated to expand at a CAGR of ~29% during the forecast period,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-market-is-anticipated-to-expand-at-a-cagr-of-29-from-2021-to-2031/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-market-is-anticipated-to-expand-at-a-cagr-of-29-from-2021-to-2031/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/10-6-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-market-is-anticipated-to-expand-at-a-cagr-of-29-from-2021-to-2031/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-is-anticipated-to-expand-at-a-cagr-of-29-from-2021-to-2031/?amp=1",
-      "publishedDateTime": "2021-09-13T23:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

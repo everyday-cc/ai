@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Making Linux Offline Voice Recognition Easier"
-    excerpt: "For just about any task you care to name, a Linux-based desktop computer can get the job done using applications that rival or exceed those found on other platforms. However, that doesn’t"
-    publishedDateTime: 2021-09-25T23:00:00Z
-    webUrl: "https://hackaday.com/2021/09/25/making-linux-offline-voice-recognition-easier/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 24
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2021/09/nyt-crossword-puzzle-file-format-change-thumb2.jpg?w=600&#038;h=600"
-        width: 600
-        height: 600
-        isCached: true
 
 secured: "tgcOSCMwUh9UyiVYY3xkyes/mI3pxSsOncumR+jRaAvThluMkHjoolwDKoOZj3eXA2FXQrYkzmaArBP1nHpwAIXj60B5OiGjoPRUohpdcfBprQK4K0iyrheZ0Oxvlc6FJwfJZDw/aRa7jYtT/l+weEUnFQ2lm34MHQvPvr/ZFUbz0Njg3l0C9fYHkXF8gUKwQZbFeFWn3qyOtHjNmD6QuQOE1RlWwK1FUB9QQvSMcFtCPGY5yxi1z5tmIqXfzxIJ1I2W3WEV9eyrLE6TCgiTCFysFxsgGOyA8go5o97aRjekEWLQTLY1xlICB3mPbjJdVF0zPBkiMzKjKpZyW7PcGolLVu87ajyTH1q+K42KcvtAs1K27KG743RtD7FqRoGwwCWYKZxqMewgPIklynEvEyCYJRsyHzQDAo127RZcLMXemrNg5f5Uy4FvGfTVHIk4/zFgdkS/p4RoPFLgWpCJzT3vBQyrIQ5bfGlMpPwcv9cCN5VY3XBCaLl0+G1OT/aA04Yx0a0jpLMKEKVXOL3U6g==;bR1Tah3Iz1Shq1BwuiidQQ=="
 ---

@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-14-neureality-collaborates-with-xilinx-to-deliver-neurealitys-novel-ai-centric-server-to-the-market.md",
+      "title": "NeuReality collaborates with Xilinx to deliver NeuReality's novel AI-centric server to the market",
+      "excerpt": "NeuReality, an Israeli AI startup developing high performance AI compute platforms for cloud data centers and edge nodes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/09/n22933078/neureality-collaborates-with-xilinx-to-deliver-neurealitys-novel-ai-centric-server-to-the-market",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/n22933078/neureality-collaborates-with-xilinx-to-deliver-neurealitys-novel-ai-centric-server-to-the-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-gpu-as-a-service-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025.md",
+      "title": "GPU as a Service Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025",
+      "excerpt": "A comprehensive research study on GPU as a Service market added on Market Study Report provides insights into the market size and growth trends of this industry over the forecast timeline. The study evaluates key aspects of GPU as a Service market in terms of the demand landscape,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-09-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-09-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-the-view-from-the-ai-hw-summit-what-was-the-best-ai-hw-in-2021.md",
       "title": "The View From The AI HW Summit: What Was The Best AI HW In 2021?",
       "excerpt": "You can view my full presentation here for those with an interest. Each of the following are covered briefly in the presentation link. Its hard to pick just 10 news items from the last year, but here’s my top-of-mind list of hardware and software in AI.",
@@ -1310,92 +1396,6 @@
       "provider": {
         "name": "finsmes.com",
         "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-ibm-unveils-chip-for-accelerating-ai-inference-engines.md",
-      "title": "IBM Unveils Chip for Accelerating AI Inference Engines",
-      "excerpt": "The IBM Telum Processor is the company’s first chip capable of providing that acceleration capability while transactions are processing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusinessedge.com/development/ibm-unveils-chip-for-accelerating-ai-inference-engines/",
-      "originalUrl": "https://www.itbusinessedge.com/development/ibm-unveils-chip-for-accelerating-ai-inference-engines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itbusinessedge.com/wp-content/uploads/2021/06/IBM-sues-GlobalFoundries.jpg",
-          "width": 600,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-25T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business Edge",
-        "domain": "itbusinessedge.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-nvidia-powers-polaris-supercomputer-with-2240-gpus-for-massive-ai-workloads.md",
-      "title": "NVIDIA Powers Polaris Supercomputer With 2,240 GPUs For Massive AI Workloads",
-      "excerpt": "The US Department of Energy's Argonne National Laboratory is much more fortunate, having procured a whopping 2,240 NVIDIA A100 Tensor Core GPUs (based on Ampere) for its Polaris supercomputer to \"supercharge researcher and discovery.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads",
-      "originalUrl": "https://hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/56074/content/small_polaris_supercomputer.jpg",
-          "width": 708,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-2240-gpus-polaris-supercomputer-ai-workloads",
-      "publishedDateTime": "2021-08-25T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
         "images": null,
         "publishers": null,
         "authors": null

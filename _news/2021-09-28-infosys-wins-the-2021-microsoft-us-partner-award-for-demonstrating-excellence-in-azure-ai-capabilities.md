@@ -83,6 +83,20 @@ related:
         width: 443
         height: 250
         isCached: true
+  - title: "smartShift achieves the SAP on Microsoft Azure Advanced Specialization"
+    excerpt: "Shift a leading provider of automated transformations and management of legacy enterprise systems in the cloud today announced it has achieved SAP on Microsoft Azure Advanced Specialization. The advanced specialization is designed for"
+    publishedDateTime: 2021-09-30T14:07:00Z
+    webUrl: "https://www.lelezard.com/en/news-20023960.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 54
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "AWS Announces General Availability of Amazon Managed Service for Prometheus"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Managed Service for Prometheus, a scalable, secure, and highly available service that makes it easier for customers to monitor containerized applications."
     publishedDateTime: 2021-09-29T21:04:00Z

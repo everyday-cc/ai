@@ -52,20 +52,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Rat catchers turn hi-tech with facial recognition"
-    excerpt: "Charles Dickens once described rats as “fine, stealthy, secret fellows”, but the days of their stealth and secrecy may be over. The pest control firm Rentokil I"
-    publishedDateTime: 2021-09-25T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/rat-catchers-turn-hi-tech-with-facial-recognition-0qz6z6kk2"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F81d51e16-1e31-11ec-b8f6-2f9fbbeddc5b.jpg?crop=3487%2C1961%2C84%2C898&resize=1200"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "London is buying heaps of facial recognition tech"
     excerpt: "The Metropolitan Police is buying a new facial recognition system that will supercharge its surveillance technology capabilities"
     publishedDateTime: 2021-09-27T05:00:00Z

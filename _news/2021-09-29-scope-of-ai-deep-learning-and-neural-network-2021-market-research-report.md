@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1102884604/Scope-of-AI-Deep-Learning-and-Neural
 webUrl: "https://menafn.com/1102884604/Scope-of-AI-Deep-Learning-and-Neural-Network-2021-Market-Research-Report"
 type: article
 quality: 67
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI and old reports to understand new medical images"
-    excerpt: "Getting a quick and accurate reading of an X-ray or some other medical images can be vital to a patient's health and might even save a life. Obtaining such an assessment depends on the availability of a skilled radiologist and,"
-    publishedDateTime: 2021-09-27T16:23:00Z
-    webUrl: "https://techxplore.com/news/2021-09-ai-medical-images.html"
-    ampWebUrl: "https://techxplore.com/news/2021-09-ai-medical-images.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-ai-medical-images.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/using-ai-and-old-repor.jpg"
-        width: 900
-        height: 491
-        isCached: true
   - title: "Global Machine Learning Artificial intelligence Market 2021 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2027"
     excerpt: "The earliest projects by MarketQuest.biz titled Global Machine Learning Artificial intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2027 delivers a thorough analysis of the market,"
     publishedDateTime: 2021-09-28T04:13:00Z

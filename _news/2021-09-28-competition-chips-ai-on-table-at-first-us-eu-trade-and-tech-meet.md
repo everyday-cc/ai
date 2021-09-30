@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "U.S., EU launch consultations on tech regulations, chips, China trade"
-    excerpt: "U.S. and European Union trade and competition officials launched a new forum on Wednesday joining forces to better compete with China, shield sensitive technologies, boost semiconductor supplies and coordinate regulation of large technology firms."
-    publishedDateTime: 2021-09-29T16:34:00Z
-    webUrl: "https://www.metro.us/u-s-eu-launch-consultations/"
-    ampWebUrl: "https://www.metro.us/u-s-eu-agree-to/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/u-s-eu-agree-to/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 59
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH8S0NM-BASEIMAGE.jpg"
-        width: 800
-        height: 531
-        isCached: true
   - title: "US, EU to cooperate on chip supply, tech trade"
     excerpt: "The United States and the European Union agreed on Thursday to work together on a number of technology, economic, and trade issues at the first meeting of its Trade and Technology Council. The two"
     publishedDateTime: 2021-09-29T21:47:00Z
@@ -117,6 +101,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "U.S., EU launch consultations on tech regulations, chips, China trade"
+    excerpt: "U.S. and European Union trade and competition officials launched a new forum on Wednesday joining forces to better compete with China, shield sensitive technologies, boost semiconductor supplies and coordinate regulation of large technology firms."
+    publishedDateTime: 2021-09-29T14:24:00Z
+    webUrl: "https://news.trust.org/item/20210929162405-vt5nk"
+    type: article
+    provider:
+      name: Thomson Reuters Foundation
+      domain: trust.org
+    quality: 19
 
 secured: "ts+CPl7YLsrT1a7xLIHHLVvyzT2hBJOULhTVt1sdFHgUefGTY6VU3XFfqMMT+C0Ozfz1j3euPBRMBisorEMkgl7FuuMWIay+amn27YEcAobmxw5bYOUIRuCjtcvH+QOVjmzEQjS5RVZQ3pUlu0WLruFpIlk3LORAFywJB3Azk0qV48EnV+ohnCLCWnXzYx0VvhduAD67Ozqvd+FpxloCSAY66YGo/lQXc0m8tX21MJQTT+NKNoAwfaPRZ77ZKmjudTOqqey1rfisqz9mc2nStecfxb6iIedd1+GLyN+AGUaF21/zNtQizVHVg24iwDlUjBOxBDCGoKuPi3JQdOmtqO2ZiqETmV58hj/Y51Q4Awhy/A/zyudurC7o+Qwd1Z9FzWwyLDZEe/DsGe2/h2aTKY8ye71NMnw+x8YT5VFbGmpp2AguH4N1GWMttRSjz4jxcj+rrrXkCzy6D5SmxZGP69VxUpS46A0DS0MKE9Eckq4pVtA/+BiqhN9AYYNAkc1mqbPthR8zRf3wTQgGaEbXOg==;omLQl/isq69a+6JjzZ95bw=="
 ---

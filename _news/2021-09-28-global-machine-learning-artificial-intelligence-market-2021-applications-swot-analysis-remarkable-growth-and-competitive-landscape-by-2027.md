@@ -43,22 +43,6 @@ related:
         width: 413
         height: 250
         isCached: true
-  - title: "Using AI and old reports to understand new medical images"
-    excerpt: "Getting a quick and accurate reading of an X-ray or some other medical images can be vital to a patient's health and might even save a life. Obtaining such an assessment depends on the availability of a skilled radiologist and,"
-    publishedDateTime: 2021-09-27T16:23:00Z
-    webUrl: "https://techxplore.com/news/2021-09-ai-medical-images.html"
-    ampWebUrl: "https://techxplore.com/news/2021-09-ai-medical-images.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-ai-medical-images.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/using-ai-and-old-repor.jpg"
-        width: 900
-        height: 491
-        isCached: true
   - title: "The Worldwide Microprocessor and GPU Industry is Expected to Reach $89.3 Billion by 2027 - ResearchAndMarkets.com"
     excerpt: "The \"Microprocessor and GPU - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Amid the COVID-19 crisis, the global market for Microprocessor and GPU estimated at US$77."
     publishedDateTime: 2021-09-27T11:27:00Z

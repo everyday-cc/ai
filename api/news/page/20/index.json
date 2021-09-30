@@ -2,6 +2,531 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-09-14-ai-driven-api-security-startup-neosec-launches-with-207m-in-new-funding.md",
+      "title": "AI-driven API security startup Neosec launches with $20.7M in new funding",
+      "excerpt": "Artificial intelligence-driven application programming interface security startup Neosec launched out of stealth mode today with an announcement that it has raised $20.7 million in new funding. The Series A round included True Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/09/14/ai-driven-api-security-startup-neosec-launches-20-7m-new-funding",
+      "originalUrl": "https://siliconangle.com/2021/09/14/ai-driven-api-security-startup-neosec-launches-20-7m-new-funding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-gpu-as-a-service-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025.md",
+      "title": "GPU as a Service Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025",
+      "excerpt": "A comprehensive research study on GPU as a Service market added on Market Study Report provides insights into the market size and growth trends of this industry over the forecast timeline. The study evaluates key aspects of GPU as a Service market in terms of the demand landscape,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-09-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-09-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-the-view-from-the-ai-hw-summit-what-was-the-best-ai-hw-in-2021.md",
+      "title": "The View From The AI HW Summit: What Was The Best AI HW In 2021?",
+      "excerpt": "You can view my full presentation here for those with an interest. Each of the following are covered briefly in the presentation link. Its hard to pick just 10 news items from the last year, but here’s my top-of-mind list of hardware and software in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/09/14/the-view-from-the-ai-hw-summit--the-best-2021-ai-hw-is/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/09/14/the-view-from-the-ai-hw-summit--the-best-2021-ai-hw-is/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613797c2915d9892cb74af55%2F0x0.jpg",
+          "width": 1124,
+          "height": 1060,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-dish-selects-ibms-ai-powered-automation-and-network-orchestration-software-and-services-for-new-cloud-native-5g-network.md",
+      "title": "DISH Selects IBM's AI-Powered Automation and Network Orchestration Software and Services for New Cloud-Native 5G Network",
+      "excerpt": "applying advanced AI with IBM Watson and orchestration capabilities to help optimize network operations and performance. As a result, DISH can accelerate time to market for new innovative ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/dish-selects-ibms-ai-powered-automation-and-network-orchestration-software-and-services-for-new-cloud/article_2d3e1368-319f-5536-8ade-367afe426a97.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/dish-selects-ibms-ai-powered-automation-and-network-orchestration-software-and-services-for-new-cloud/article_2d3e1368-319f-5536-8ade-367afe426a97.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T05:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-ibm-focuses-on-ai-business-adds-new-features-to-watson.md",
+      "title": "IBM Focuses on AI Business, Adds New Features to Watson",
+      "excerpt": "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Read more on \"Zacks\" SHARE THIS POST Ai Holdings NewsMORE Related Stocks Find News News",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-focuses-on-ai-business--adds-new-features-to-watson-10522185",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-focuses-on-ai-business--adds-new-features-to-watson-10522185",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-alibaba-invests-in-chinese-self-driving-unicorn-in-latest-electric-vehicle-move.md",
+      "title": "Alibaba Invests in Chinese Self-Driving Unicorn in Latest Electric Vehicle Move",
+      "excerpt": "Chinese e-commerce giant Alibaba Group Holding has led a $300 million funding round for one of China’s newest self-driving car start-ups. Shenzhen-based Deeproute said in a statement on Tuesday ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/alibaba-invests-in-chinese-self-driving-unicorn-in-latest-electric-vehicle-move-51631636823",
+      "originalUrl": "https://www.barrons.com/articles/alibaba-invests-in-chinese-self-driving-unicorn-in-latest-electric-vehicle-move-51631636823",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-368481/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/alibaba-invests-in-chinese-self-driving-unicorn-in-latest-electric-vehicle-move-51631636823",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/alibaba-invests-in-chinese-self-driving-unicorn-in-latest-electric-vehicle-move-51631636823",
+      "publishedDateTime": "2021-09-14T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-aci-worldwide-ranked-in-the-top-20-largest-global-providers-of-financial-technology-by-idc-fintech-rankings.md",
+      "title": "ACI Worldwide Ranked in the Top 20 Largest Global Providers of Financial Technology by IDC FinTech Rankings",
+      "excerpt": "ACI Worldwide, a leading global provider of real-time payments and digital payment software solutions, today announced its ranking in the IDC (News - Alert) Financial Insights 2021 FinTech Rankings. ACI is ranked 19 on this international list of financial technology companies that were judged according to their global revenues attributed to financial institutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aci-worldwide-ranked-the-top-20-largest-global-/2021/09/14/9448212.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aci-worldwide-ranked-the-top-20-largest-global-/2021/09/14/9448212.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-logistics-robotics-startup-ambi-raises-26m.md",
+      "title": "Logistics robotics startup Ambi raises $26M",
+      "excerpt": "Ambi Robotics emerged from stealth with a $6 million raise. Today the Bay Area-based firm is back with several times that, announcing a $26 million Series A, led by Tiger Global. The new round also features participation from existing investors,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/",
+      "originalUrl": "https://techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/Ambi-Robotics_Founders-1.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/amp/",
+      "publishedDateTime": "2021-09-14T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-worldwide-artificial-intelligence-chip-market-size-to-reach-9118-billion-by-2025.md",
+      "title": "Worldwide Artificial Intelligence Chip Market Size to Reach $91.18 Billion by 2025",
+      "excerpt": "Allied Market Research published a research report on the artificial intelligence chip market The findings of the report states that the global market for artificial intelligence chip is expected to reach 91 18 billion by 2025 manifesting a CAGR of",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2392032/worldwide-artificial-intelligence-chip-market-size-to-reach",
+      "originalUrl": "https://www.openpr.com/news/2392032/worldwide-artificial-intelligence-chip-market-size-to-reach",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/9/U914943029_g.jpg",
+          "width": 790,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2392032/worldwide-artificial-intelligence-chip-market-size-to-reach",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2392032/worldwide-artificial-intelligence-chip-market-size-to-reach",
+      "publishedDateTime": "2021-09-14T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-ai-system-on-chip-that-runs-on-solar-power.md",
+      "title": "AI System-on-Chip That Runs On Solar Power",
+      "excerpt": "Researchers have found a way to get around the issues of AI-led technologies with their newly developed system-on-chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsforu.com/tech-zone/processor-tech/ai-system-on-chip-that-runs-on-solar-power",
+      "originalUrl": "https://www.electronicsforu.com/tech-zone/processor-tech/ai-system-on-chip-that-runs-on-solar-power",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/09/ai-system-on-chip-runs.jpg",
+          "width": 800,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.electronicsforu.com/tech-zone/processor-tech/ai-system-on-chip-that-runs-on-solar-power/amp",
+      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/tech-zone/processor-tech/ai-system-on-chip-that-runs-on-solar-power/amp",
+      "publishedDateTime": "2021-09-14T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics For You",
+        "domain": "electronicsforu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-futuristic-ai-based-computing-devices-physicists-simulate-artificial-brain-networks-with-new-quantum-materials.md",
+      "title": "Futuristic AI-Based Computing Devices: Physicists Simulate Artificial Brain Networks With New Quantum Materials",
+      "excerpt": "Pandemic lockdown forces a new perspective on designs for futuristic AI-based computing devices. Isaac Newton’s groundbreaking scientific productivity while isolated from the spread of bubonic plague is legendary.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/futuristic-ai-based-computing-devices-physicists-simulate-artificial-brain-networks-with-new-quantum-materials/",
+      "originalUrl": "https://scitechdaily.com/futuristic-ai-based-computing-devices-physicists-simulate-artificial-brain-networks-with-new-quantum-materials/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Complex-Emergent-Behaviors-777x466.jpg",
+          "width": 777,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/futuristic-ai-based-computing-devices-physicists-simulate-artificial-brain-networks-with-new-quantum-materials/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/futuristic-ai-based-computing-devices-physicists-simulate-artificial-brain-networks-with-new-quantum-materials/amp/",
+      "publishedDateTime": "2021-09-14T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-growing-demand-for-deep-learing-through-neural-networks-is-driving-the-demand-for-the-market.md",
+      "title": "Growing demand for deep learing through neural networks is driving the demand for the market.",
+      "excerpt": "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to be driven owing to extensive rise in the big data analytics, emergence of the deep learning through neural networks and cognitive analytical procedures in various verticals including IT & Telecommunication,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/deep-neural-networks-market-research-report-by-product-global-forecast-to-2027-cumulative-impact-of-covid-19key-player-are-oracle-microsoft-ibm-qualcomm-intel-ward-systems-starmind-neural/",
+      "originalUrl": "https://manometcurrent.com/deep-neural-networks-market-research-report-by-product-global-forecast-to-2027-cumulative-impact-of-covid-19key-player-are-oracle-microsoft-ibm-qualcomm-intel-ward-systems-starmind-neural/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/1-17.jpg",
+          "width": 700,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/deep-neural-networks-market-research-report-by-product-global-forecast-to-2027-cumulative-impact-of-covid-19key-player-are-oracle-microsoft-ibm-qualcomm-intel-ward-systems-starmind-neural/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-neural-networks-market-research-report-by-product-global-forecast-to-2027-cumulative-impact-of-covid-19key-player-are-oracle-microsoft-ibm-qualcomm-intel-ward-systems-starmind-neural/?amp=1",
+      "publishedDateTime": "2021-09-14T03:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-machine-learning-is-moving-beyond-the-hype.md",
       "title": "Machine learning is moving beyond the hype",
       "excerpt": "Today, companies across every industry are deploying millions of machine learning models across multiple lines of business. Soon every enterprise will take part.",
@@ -565,522 +1090,6 @@
       "provider": {
         "name": "Control Engineering",
         "domain": "controleng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-computer-vision-for-visual-effects.md",
-      "title": "Computer Vision for Visual Effects",
-      "excerpt": "These effects are made possible by research from the field of computer vision, the study of how to automatically understand images. Computer Vision for Visual Effects will educate students, engineers, and researchers about the fundamental computer vision ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/co/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/computer-vision-visual-effects",
-      "originalUrl": "https://www.cambridge.org/co/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/computer-vision-visual-effects",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T21:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-deepmind-introduces-reinforcement-learning-lecture-series-2021-heres-what-you-can-learn.md",
-      "title": "DeepMind Introduces Reinforcement Learning Lecture Series 2021, Here’s What You Can Learn",
-      "excerpt": "The series comprises 13 lectures covering the fundamentals of reinforcement learning and planning in sequential decision problems.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/deepmind-introduces-reinforcement-learning-lecture-series-2021-heres-what-you-can-learn/",
-      "originalUrl": "https://analyticsindiamag.com/deepmind-introduces-reinforcement-learning-lecture-series-2021-heres-what-you-can-learn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/09/DeepMind-Reinforcement-Learning-Lecture-Series-2021.jpg",
-          "width": 2240,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T21:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-its-best-to-wait-on-baidu-stock-in-light-of-chinas-crackdown.md",
-      "title": "It’s Best to Wait on Baidu Stock in Light of China’s Crackdown",
-      "excerpt": "I’m cautious on the name mainly because I believe that it could easily become a target for China’s zealous tech regulators. For BIDU stock, it’s a very good sign that Baidu has apparently ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2021/09/its-best-to-wait-on-bidu-stock-in-light-of-chinas-crackdown/",
-      "originalUrl": "https://investorplace.com/2021/09/its-best-to-wait-on-bidu-stock-in-light-of-chinas-crackdown/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/08/bidu-stock.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2021/09/its-best-to-wait-on-bidu-stock-in-light-of-chinas-crackdown/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/09/its-best-to-wait-on-bidu-stock-in-light-of-chinas-crackdown/amp/",
-      "publishedDateTime": "2021-09-13T21:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-apple-taps-more-drivers-to-test-self-driving-cars-in-california.md",
-      "title": "Apple taps more drivers to test self-driving cars in California",
-      "excerpt": "Apple is continuing efforts to advance internal self-driving car technology, with the iPhone maker recently registering more drivers to pilot technology test beds on California roads.",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/21/09/14/apple-taps-more-drivers-to-test-self-driving-cars-in-california",
-      "originalUrl": "https://appleinsider.com/articles/21/09/14/apple-taps-more-drivers-to-test-self-driving-cars-in-california",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/44393-86171-210914-AppleTestVehicle-xl.jpg",
-          "width": 870,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/21/09/14/apple-taps-more-drivers-to-test-self-driving-cars-in-california/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/09/14/apple-taps-more-drivers-to-test-self-driving-cars-in-california/amp/",
-      "publishedDateTime": "2021-09-13T20:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-how-3d-profiling-gives-computer-vision-an-added-dimension.md",
-      "title": "How 3D Profiling Gives Computer Vision An Added Dimension",
-      "excerpt": "Computer vision’s list of application areas grows almost on a daily basis. The presence of computer vision in smart cities and smart hospitals, combined with 3D profiling, opens exciting possibilities for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2021/09/13/how-3d-profiling-gives-computer-vision-an-added-dimension/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2021/09/13/how-3d-profiling-gives-computer-vision-an-added-dimension/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61400fe8844e4b30d03ef8bf%2F0x0.jpg",
-          "width": 1000,
-          "height": 357,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2021/09/13/how-3d-profiling-gives-computer-vision-an-added-dimension/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2021/09/13/how-3d-profiling-gives-computer-vision-an-added-dimension/amp/",
-      "publishedDateTime": "2021-09-13T19:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-computer-and-human-vision-perspectives.md",
-      "title": "Computer and Human Vision Perspectives",
-      "excerpt": "The result of a series of four highly successful workshops on the topic, the book gathers many of the most distinguished researchers from both computer and human vision to reflect on their experience, identify open problems, and foster a cross-disciplinary ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/sm/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/object-categorization-computer-and-human-vision-perspectives?format=HB&isbn=9780521887380",
-      "originalUrl": "https://www.cambridge.org/sm/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/object-categorization-computer-and-human-vision-perspectives?format=HB&isbn=9780521887380",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T19:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-researchers-platforms-like-facebook-have-played-major-role-in-fueling-polarization.md",
-      "title": "Researchers: Platforms like Facebook have played ‘major role’ in fueling polarization",
-      "excerpt": "The company says that existing research shows that “social media ... and at least one Facebook executive, Yann Le Cun, Facebook’s top AI scientist. While the report is careful to point out ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/social-media-political-polarization-nyu-report-223945859.html",
-      "originalUrl": "https://www.engadget.com/social-media-political-polarization-nyu-report-223945859.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-09/be6ce8b0-14d9-11ec-bfaf-2f7745f633a8",
-          "width": 4545,
-          "height": 3030,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/social-media-political-polarization-nyu-report-223945859.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/social-media-political-polarization-nyu-report-223945859.html",
-      "publishedDateTime": "2021-09-13T19:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-should-facial-recognition-software-be-installed-in-schools.md",
-      "title": "Should facial recognition software be installed in schools?",
-      "excerpt": "Lawmakers are looking at another issue in school, facial recognition software. The ACLU is launching a week of action, asking legislators in the state to pass a bill regulating the use of facial recognition in schools,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wwlp.com/news/political-news/should-facial-recognition-software-be-installed-in-schools/",
-      "originalUrl": "https://www.wwlp.com/news/political-news/should-facial-recognition-software-be-installed-in-schools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wwlp.com/wp-content/uploads/sites/26/2019/10/springfield-facial-recognition.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wwlp.com/news/political-news/should-facial-recognition-software-be-installed-in-schools/amp/",
-      "cdnAmpWebUrl": "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/political-news/should-facial-recognition-software-be-installed-in-schools/amp/",
-      "publishedDateTime": "2021-09-13T19:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WWLP",
-        "domain": "wwlp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-on-hindi-divas-garuda-prakashan-announces-publishing-partnership-with-iit-bombay-project-for-indian-language-translation-of-engineering-books.md",
-      "title": "On Hindi Divas, Garuda Prakashan announces publishing partnership with IIT-Bombay project for Indian language translation of engineering books",
-      "excerpt": "Mumbai: Joining forces with the premier Indian Institute of Technology (IIT) Bombay for an Indian-language end-to-end translation ecosystem, Garuda Prakashan is playing an important role of a publishing partner for Project Udaan.",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/on-hindi-divas-garuda-prakashan-announces-publishing-partnership-with-iit-bombay-project-for-indian-language-translation-of-engineering-books/",
-      "originalUrl": "https://indiaeducationdiary.in/on-hindi-divas-garuda-prakashan-announces-publishing-partnership-with-iit-bombay-project-for-indian-language-translation-of-engineering-books/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/on-hindi-divas-garuda-prakashan-announces-publishing-partnership-with-iit-bombay-project-for-indian-language-translation-of-engineering-books/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/on-hindi-divas-garuda-prakashan-announces-publishing-partnership-with-iit-bombay-project-for-indian-language-translation-of-engineering-books/",
-      "publishedDateTime": "2021-09-13T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-collaborative-robot-leverages-motion-control-speed-and-agility.md",
-      "title": "Collaborative Robot Leverages Motion Control Speed and Agility",
-      "excerpt": "With that in mind, ABB has identified three growing trends in ... covering automation and control, motion control, power transmission, robotics, and fluid power.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/collaborative-robot-leverages-motion-control-speed-and-agility",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/collaborative-robot-leverages-motion-control-speed-and-agility",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/YuMi%20VIII.jpg",
-          "width": 7360,
-          "height": 5197,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-dish-to-use-ibms-ai-powered-automation-software.md",
-      "title": "Dish to use IBM's AI-powered automation software",
-      "excerpt": "applying advanced AI with IBM Watson and orchestration capabilities to help optimize network operations and performance. As a result, DISH can accelerate time to market for new innovative services ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.lightreading.com/aiautomation/dish-to-use-ibms-ai-powered-automation-software/d/d-id/772073",
-      "originalUrl": "https://www.lightreading.com/aiautomation/dish-to-use-ibms-ai-powered-automation-software/d/d-id/772073",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.lightreading.com/lightreading/LR_fb_button.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Light Reading",
-        "domain": "lightreading.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-robots-step-into-the-covid-19-danger-zone.md",
-      "title": "Robots Step into the COVID-19 Danger Zone",
-      "excerpt": "mind-numbing and boring jobs. Now they can do jobs in plants while humans are sheltering.” Bogart began by creating robots for movie sets. “We started in the 80s designing robots for motion pictures, mostly motion control. We moved movie cameras and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/robots-step-covid-19-danger-zone",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/robots-step-covid-19-danger-zone",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/OB7%20opening%20machine%20door%20%28002%29.jpg",
-          "width": 3264,
-          "height": 1836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
         "images": null,
         "publishers": null,
         "authors": null

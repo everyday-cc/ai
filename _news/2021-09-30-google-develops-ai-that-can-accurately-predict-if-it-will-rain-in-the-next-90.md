@@ -9,7 +9,7 @@ ampWebUrl: "https://en.mogaznews.com/Technology/amp/1838298"
 cdnAmpWebUrl: "https://en-mogaznews-com.cdn.ampproject.org/c/s/en.mogaznews.com/Technology/amp/1838298"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI can predict if it will rain in two hours' time"
+    excerpt: "Artificial intelligence can tell whether it is going to rain in the next two hours, research suggests. Scientists at Google-owned London AI lab DeepMind and the University of Exeter partnered with the Met Office to build the so-called nowcasting system."
+    publishedDateTime: 2021-09-30T10:56:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-58748934?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-58748934.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-58748934.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1428E/production/_120747528_whatsubject.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Hey Google, do I need an umbrella? Tech giant develops AI 'now-casting' system that can accurately predict if it will rain in the next 90 minutes"
     excerpt: "Experts at Google's London-based DeepMind company have created a 'nowcasting' system which they claim is more accurate at predicting rain within the next 90 minutes than existing models."
     publishedDateTime: 2021-09-30T11:55:00Z

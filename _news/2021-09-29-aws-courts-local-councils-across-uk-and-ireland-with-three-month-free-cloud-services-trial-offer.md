@@ -26,6 +26,22 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "AWS launches free digital transformation support to UK local councils"
+    excerpt: "AWS has launched a three-month programme that provides local councils and government authorities with free access to consulting services, software, and infrastructure solutions from AWS and its partner network."
+    publishedDateTime: 2021-09-30T14:25:00Z
+    webUrl: "https://www.channelweb.co.uk/news/4037960/aws-launches-free-digital-transformation-support-uk-local-councils"
+    type: article
+    provider:
+      name: CRN
+      domain: channelweb.co.uk
+    quality: 39
+    images:
+      - url: "https://www.channelweb.co.uk/api/v1/wps/04f5420/503030f7-901d-4072-a346-86daedb4203c/7/AWS-sign-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
+
 secured: "cub6j5BghICU2q9G4tQaMFQy53YltSe9WaO5dcXg54AcciMuzVGquXQDLiXZ/e5eh8S76LhvN1UEwqjh/86iCzNUfKP6QkOZFiSUAK91nA9dm2VfphuHUmpCGV9aUYbatoIBt0Tex7geP+Z+NEzhzosZNY9B/+uoA0OEbl5/09pFPO13GJd6aZZabWxGYQD/bSHLu9+CEle4tenEZI+kBK1Iyam+hGXTxp1IhRzFdCwJnk4cBm2WW83NdVDsRbMly6UFJClpe+/3ruUrwiNoAb1BylveSWkqXUjl9Yrdh+5QvJ3yrvZMXth8K0+oyt6KSTnSFN3PlQx3/pF3MKVN3aZOvow7zzHCN2AzI3G5uZ5CsZ0OEt6zIXnQr2LcyniUz6yyLA+MULDbHfFzP9ezRCSlxkpADuQmt7wFxOG0g0Flnt0JtYGxcRyKL+icH9lJbSSsqn1WapOvZTEH7zAY5KN8+ZM2Ca+oRQc0XszRUDnaPMzMb6FVklm5nr3WSmdOS+hoLIqedFrwvHG/ezIDjQ==;BidWLsv3XQvt3Oko/RX5Qw=="
 ---
 

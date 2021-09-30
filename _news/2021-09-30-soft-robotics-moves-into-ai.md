@@ -53,6 +53,15 @@ related:
         width: 800
         height: 480
         isCached: true
+  - title: "BGV Raises $110M to focus on Enterprise AI and Cross-Border Investments"
+    excerpt: "Silicon Valley-based venture capital (VC) firm Benhamou Global Ventures (BGV), which invests in Enterprise 4.0 companies globally, today announced its fourth fund, closing at $110M, 60% larger than its third fund."
+    publishedDateTime: 2021-09-30T15:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bgv-raises-110m-to-focus-on-enterprise-ai-and-cross-border-investments-1030834672"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Tech leaders plan large AI investment, but adoption woes remain"
     excerpt: "Four in 10 technology decision-makers say emerging AI applications are still under development, a Gartner survey found."
     publishedDateTime: 2021-09-29T07:47:00Z

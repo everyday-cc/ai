@@ -70,6 +70,20 @@ related:
         width: 443
         height: 250
         isCached: true
+  - title: "smartShift achieves the SAP on Microsoft Azure Advanced Specialization"
+    excerpt: "Shift a leading provider of automated transformations and management of legacy enterprise systems in the cloud today announced it has achieved SAP on Microsoft Azure Advanced Specialization. The advanced specialization is designed for"
+    publishedDateTime: 2021-09-30T14:07:00Z
+    webUrl: "https://www.lelezard.com/en/news-20023960.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 54
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Infosys Wins the 2021 Microsoft US Partner Award for Demonstrating Excellence in Azure AI Capabilities"
     excerpt: "Infosys Wins the 2021 Microsoft US Partner Award for Demonstrating Excellence in Azure AI Capabilities. Infosys has won the ‘2021 Microsoft US Partner Award’ for demonstrating"
     publishedDateTime: 2021-09-27T17:06:00Z

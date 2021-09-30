@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "U.S., EU launch consultations on tech regulations, chips, China trade"
-    excerpt: "U.S. and European Union trade and competition officials launched a new forum on Wednesday joining forces to better compete with China, shield sensitive technologies, boost semiconductor supplies and coordinate regulation of large technology firms."
-    publishedDateTime: 2021-09-29T16:34:00Z
-    webUrl: "https://www.metro.us/u-s-eu-launch-consultations/"
-    ampWebUrl: "https://www.metro.us/u-s-eu-agree-to/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/u-s-eu-agree-to/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 59
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH8S0NM-BASEIMAGE.jpg"
-        width: 800
-        height: 531
-        isCached: true
   - title: "Chips, AI on table at first US-EU trade and tech meet"
     excerpt: "WASHINGTON: The United States and the European Union hope to discuss chip shortages, artificial intelligence (AI) and tech competition issues during the first Trade and Tech Council (TTC) meeting this week,"
     publishedDateTime: 2021-09-29T03:00:00Z
@@ -113,6 +97,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "U.S., EU launch consultations on tech regulations, chips, China trade"
+    excerpt: "U.S. and European Union trade and competition officials launched a new forum on Wednesday joining forces to better compete with China, shield sensitive technologies, boost semiconductor supplies and coordinate regulation of large technology firms."
+    publishedDateTime: 2021-09-29T14:24:00Z
+    webUrl: "https://news.trust.org/item/20210929162405-vt5nk"
+    type: article
+    provider:
+      name: Thomson Reuters Foundation
+      domain: trust.org
+    quality: 19
 
 secured: "pGXrTOexwNHRNrDQpFWQtQXnTS2lCcP7W3eBtLBDtrHyV7lVL3nfdbWHnkinW5nr5/mi/IbcWq0hWHvt6TK+BzD4Nms+YaPVfKIKon+RBYnu5nAj98cmDRWHRxspvH/pxSaqm1idIsARYtBncvNc1IsMn6mpgrl3M6elZpxw+Oc0Y4zBgt3fOcjPC3gNDB2YuQvphHnC+45bQeLVkP553sAoPfHNYh+wRDVxlc+LmXu27NiOaqa2F5KmDSb2S0n0bWjkc9H3++3niS+WBvoQbGIk0AR4QBeWTUiMfbxxUAJcNDPXdL2cypw7JYwBL0bzVOzynO7tE7ZnewfbyLoUWutAVA1/6DBcAZ9fArffRbo=;ZJhQLFKkdxcUATdHkWR4oA=="
 ---

@@ -2,29 +2,21 @@
 category: news
 title: "U.S., EU launch consultations on tech regulations, chips, China trade"
 excerpt: "U.S. and European Union trade and competition officials launched a new forum on Wednesday joining forces to better compete with China, shield sensitive technologies, boost semiconductor supplies and coordinate regulation of large technology firms."
-publishedDateTime: 2021-09-29T16:34:00Z
-originalUrl: "https://www.metro.us/u-s-eu-launch-consultations/"
-webUrl: "https://www.metro.us/u-s-eu-launch-consultations/"
-ampWebUrl: "https://www.metro.us/u-s-eu-agree-to/amp/"
-cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/u-s-eu-agree-to/amp/"
+publishedDateTime: 2021-09-29T14:24:00Z
+originalUrl: "https://news.trust.org/item/20210929162405-vt5nk"
+webUrl: "https://news.trust.org/item/20210929162405-vt5nk"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Metro US
-  domain: metro.us
+  name: Thomson Reuters Foundation
+  domain: trust.org
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH8S0NM-BASEIMAGE.jpg"
-    width: 800
-    height: 531
-    isCached: true
 
 related:
   - title: "Competition, chips, AI on table at first U.S.-EU trade and tech meet"
@@ -114,6 +106,6 @@ related:
         height: 676
         isCached: true
 
-secured: "EPhtDwBYw/kNTmi2wga+UXvlWtzlDs253AUF0ulRgyvjAczJClHvLa0rIoDkfTDPpg530iKgjUagSWxJfrRqoOnA+Al+kze3kx0TcmEGXaKZrU2ZL1OugjkLCE4GObweOdvbmtYZ2HAT7dboUFu/6tDnTcAJTOf0CFsX5KKNcSlmBVK2GKhmbQczH5kioMQO40j9UXKBIzezmFd6gaF4j7D7cmTr5dcDxv3yzDhURe6O3AVghP/Mb4cbLQQkjz/fR8wEROL+cM2q8X/BHYCgWA+Q4b11QmqZyPyUVejSH2OXQLRZ1ZO3BdN+sbhb73PHXbvVWg751yLeNhQYHusgaUcrPrZGXoMFT+rVnhFT7wAUGygI/GNYJuAb6ta5rg7Vr1vm+Gc3yDQY2iKFFdma7oRexTG8HHnKzniHJOoN+iBYVNmwYQ2n57BpQrH0UM00ZVTXOtv782lADSb1asknZTHjhOWZGhjko0T+Bq2K2sYuAeVbSUI4yz5bPRcayt1VlkJCB+nnZy9Ot5dEUe4oAg==;xn5TpomcuO1dzJc4VXBN7g=="
+secured: "MynjgXxRGrQrqFuhRU6w/Bg866Jvilp67mUsvbIb1tygCg4IWrl0TKhOs7qoxEqjDXKthEoLRaLEZyP8h2rDYWuwD5djRS5BbaePoLBOgMSFbZ6Gzn0v1OlFoiaiuBVrwb3HpXZyknzPS4iSSkg4qjHhL+zpBcY0OftmP9udyBZCnE6QRRTLFCH25emkNZ8DpHCjeuld8EvflekPrBsf6k2nDj3lzfK0XlcgAoqNp6HOeKQKS/s4EqTMVjkZfoPNHR/P3OEW6+r9X3HT05qu4iAkdYAWdgPgJIxsLQWQy7OaBXmcDDlPwfgvpOPTT3fd7J8QNcv8DVo1Q0fHdFpkU/F70IwJ4Urjshny13lNi+U=;zFFs3ZP2j+gFlt9FYAq+Ng=="
 ---
 

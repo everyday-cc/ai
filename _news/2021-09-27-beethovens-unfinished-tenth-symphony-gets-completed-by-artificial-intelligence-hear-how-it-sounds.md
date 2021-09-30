@@ -72,6 +72,20 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Scientists Built an Artificial Intelligence to Finish Beethoven’s Tenth Symphony"
+    excerpt: "We don't know what Beethoven meant to do for his unfinished 10th Symphony. But what if we could plug his music into an AI to figure it out?"
+    publishedDateTime: 2021-09-30T14:44:00Z
+    webUrl: "https://www.extremetech.com/extreme/327722-scientists-built-an-artificial-intelligence-to-finish-beethovens-tenth-symphony"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 32
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2021/09/Ninth_Symphony_original-feature-crop.png"
+        width: 716
+        height: 395
+        isCached: true
 
 secured: "j8HxNc9TAqdbLCT/nE9YxJoSXnwaUqAAXFQh/MwYJhjhJu5EvZtE+5U/VB/pAYK+JcEov+7Xlg/ryx/B7P/g8Bz/8sdoYYBm3sg1F1STpUgwRpXDspxIn1qqwdrA/18Xrb9bbAWQpR3Ip/ogWUFpn7G2YDhu9ZYalVkKw1QOCXyq1tTQPwG2DRgPe1cWg+oZo+qQsUgKPWygenzXXH95ZCvfsM1eEybwTA9WVY1alFbaSffFmLTRulywdVv6ObD7ZMslgxeOhoxBqBxYwsV/Oy0OoyQrsJ2Rs367MZbz2EkL9fRHi7dTUeUmzc0LEoHGx1ekGKoUn2FB8AcKORhxeowpVqN1yC6+ayh++n29j0kwD/8Guk5OK1ZAukmtZwP+kZnQENXeUf4ZmUD2WEBNubQxrxdiqmeFDtJpuUjcIrk4OdMWb3XpYMMW4liM6fVm5nSZQLBinO2vhc8Vo1Q9uaswTwDGQsHFGdTTqoU55JhLLZm5IO/bLoRmjxHZFAz08o+m/CVRQLXxQzkz0Od5lg==;b+Tw51DwNr3ZQxFEwBMwmQ=="
 ---

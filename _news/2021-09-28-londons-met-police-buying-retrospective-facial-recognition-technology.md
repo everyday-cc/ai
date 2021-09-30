@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-police-buying-retrospective-facial-recognition-technology/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://images.7news.com.au/publication/C-4080682/0f134acc7c5a8ba7bcc54b94b6534f2008dd7154-16x9-x0y0w1600h900.jpg?imwidth=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Rat catchers turn hi-tech with facial recognition"
-    excerpt: "Charles Dickens once described rats as “fine, stealthy, secret fellows”, but the days of their stealth and secrecy may be over. The pest control firm Rentokil I"
-    publishedDateTime: 2021-09-25T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/rat-catchers-turn-hi-tech-with-facial-recognition-0qz6z6kk2"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F81d51e16-1e31-11ec-b8f6-2f9fbbeddc5b.jpg?crop=3487%2C1961%2C84%2C898&resize=1200"
-        width: 1200
-        height: 674
         isCached: true
   - title: "London is buying heaps of facial recognition tech"
     excerpt: "The Metropolitan Police is buying a new facial recognition system that will supercharge its surveillance technology capabilities"

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-15-skit-launches-on-microsoft-azure-marketplace-to-accelerate-innovations-and-target-over-140-global-geographies.md",
+      "title": "Skit launches on Microsoft Azure Marketplace to accelerate innovations and target over 140 global geographies",
+      "excerpt": "Leading Voice AI Company, Skit today has announced that its solution has launched on Microsoft Azure Marketplace, to unlock its growth capabilities. The availability will help Skit accelerate innovations and scale operations,",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/skit-launches-on-microsoft-azure-marketplace-to-accelerate-innovations-and-target-over-140-global-geographies/",
+      "originalUrl": "https://indiaeducationdiary.in/skit-launches-on-microsoft-azure-marketplace-to-accelerate-innovations-and-target-over-140-global-geographies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/skit-launches-on-microsoft-azure-marketplace-to-accelerate-innovations-and-target-over-140-global-geographies/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/skit-launches-on-microsoft-azure-marketplace-to-accelerate-innovations-and-target-over-140-global-geographies/",
+      "publishedDateTime": "2021-09-14T20:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-mendix-low-code-paas-adds-industry-clouds-for-key-business-sectors.md",
       "title": "Mendix low-code PaaS adds Industry Clouds for key business sectors",
       "excerpt": "At its Mendix World event, the low-code vendor announced ways for ISVs and partners to sell on its marketplace, as well as new AI, automation and Data Hub capabilities.",
@@ -1343,50 +1386,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-artificial-intelligence-in-accounting-market-major-competitor-and-strategies-analysis-aws-microsoft-intuit.md",
-      "title": "Artificial Intelligence in Accounting Market Major Competitor and Strategies Analysis| AWS, Microsoft, Intuit",
-      "excerpt": "Pune, Maharashtra, India, September 3 2021 (Wiredrelease) MarketResearch.Biz –:Global Artificial Intelligence in Accounting Market Analysis to 2021-2030 By MarketResearch.Biz is a specialized ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-accounting-market-major-competitor-and-strategies-analysis-aws-microsoft-intuit",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-accounting-market-major-competitor-and-strategies-analysis-aws-microsoft-intuit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/06/Cybercrime-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-02T23:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

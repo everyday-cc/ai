@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/28/microsoft-launches-data-governanc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/amp/"
 type: article
 quality: 114
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?950318"
         width: 443
         height: 250
+        isCached: true
+  - title: "smartShift achieves the SAP on Microsoft Azure Advanced Specialization"
+    excerpt: "Shift a leading provider of automated transformations and management of legacy enterprise systems in the cloud today announced it has achieved SAP on Microsoft Azure Advanced Specialization. The advanced specialization is designed for"
+    publishedDateTime: 2021-09-30T14:07:00Z
+    webUrl: "https://www.lelezard.com/en/news-20023960.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 54
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Infosys Wins the 2021 Microsoft US Partner Award for Demonstrating Excellence in Azure AI Capabilities"
     excerpt: "Infosys Wins the 2021 Microsoft US Partner Award for Demonstrating Excellence in Azure AI Capabilities. Infosys has won the ‘2021 Microsoft US Partner Award’ for demonstrating"

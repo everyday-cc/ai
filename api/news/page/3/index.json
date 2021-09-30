@@ -2,6 +2,589 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-29-a-third-of-businesses-plan-to-set-to-spend-1-million-on-ai-by-2023.md",
+      "title": "A third of businesses plan to set to spend $1 million on AI by 2023",
+      "excerpt": "A third of organisations with plans to adopt artificial intelligence (AI) have said they will invest $1 million or more into the technology over the next two years. That's according to Gartner's annual Emerging Technology Product Leaders survey,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361058/organisations-set-to-splash-1m-on-ai-by-2023",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361058/organisations-set-to-splash-1m-on-ai-by-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1632915680/itpro/Digital_brain_AI_shutterstock.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361058/organisations-set-to-splash-1m-on-ai-by-2023?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361058/organisations-set-to-splash-1m-on-ai-by-2023?amp",
+      "publishedDateTime": "2021-09-29T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-why-are-retailers-using-automl-for-offering-personalized-products.md",
+      "title": "Why Are Retailers Using AutoML for Offering Personalized Products?",
+      "excerpt": "The automated machine learning AutoML market is expected to accelerate at a monumental CAGR of 43 7 during the forecast period 2020 2030 on account of the increasing importance of predictive lead scoring spurring demand for efficient fraud detection solutions",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2411573/why-are-retailers-using-automl-for-offering-personalized",
+      "originalUrl": "https://www.openpr.com/news/2411573/why-are-retailers-using-automl-for-offering-personalized",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/9/U929540614_g.jpg",
+          "width": 800,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2411573/why-are-retailers-using-automl-for-offering-personalized",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2411573/why-are-retailers-using-automl-for-offering-personalized",
+      "publishedDateTime": "2021-09-29T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-raleigh-ai-startup-pryon-led-by-triangle-based-serial-entrepreneur-raises-12m.md",
+      "title": "Raleigh AI startup Pryon, led by Triangle-based serial entrepreneur, raises $12M",
+      "excerpt": "AI company Pryon, based in Raleigh, has raised nearly $12 million in equity financing, according to an SEC filing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wraltechwire.com/2021/09/29/raleigh-ai-startup-pryon-led-by-triangle-based-serial-entrepreneur-raises-12m/",
+      "originalUrl": "https://www.wraltechwire.com/2021/09/29/raleigh-ai-startup-pryon-led-by-triangle-based-serial-entrepreneur-raises-12m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wraltechwire.com/wp-content/uploads/2021/09/Pryon_Screenshot_Website-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wraltechwire.com/2021/09/29/raleigh-ai-startup-pryon-led-by-triangle-based-serial-entrepreneur-raises-12m/?amp=1",
+      "cdnAmpWebUrl": "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/09/29/raleigh-ai-startup-pryon-led-by-triangle-based-serial-entrepreneur-raises-12m/?amp=1",
+      "publishedDateTime": "2021-09-29T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-tech-recruiting-startup-andela-raises-200-million-in-round-led-by-softbank.md",
+      "title": "Tech-Recruiting Startup Andela Raises $200 Million in Round Led by SoftBank",
+      "excerpt": "Andela uses AI to help employers look beyond Silicon Valley for talent and tap a broader range of markets such as Africa and Latin America",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/tech-recruiting-startup-andela-raises-200-million-in-round-led-by-softbank-11632913202",
+      "originalUrl": "https://www.wsj.com/articles/tech-recruiting-startup-andela-raises-200-million-in-round-led-by-softbank-11632913202",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-408465?width=860&height=573",
+          "width": 860,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/tech-recruiting-startup-andela-raises-200-million-in-round-led-by-softbank-11632913202",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-recruiting-startup-andela-raises-200-million-in-round-led-by-softbank-11632913202",
+      "publishedDateTime": "2021-09-29T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-scope-of-ai-deep-learning-and-neural-network-2021-market-research-report.md",
+      "title": "Scope of AI, Deep Learning and Neural Network, 2021 Market Research Report",
+      "excerpt": "The \"Next Wave of Deep Learning Models & Applications (RNN, CNN, and GaN)\" report has been added to ResearchAndMarkets.com's offering. As digitization progresses across industries, AI is gaining a ubiquitous adoption as more and more business processes are being automated.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1102884604/Scope-of-AI-Deep-Learning-and-Neural-Network-2021-Market-Research-Report",
+      "originalUrl": "https://menafn.com/1102884604/Scope-of-AI-Deep-Learning-and-Neural-Network-2021-Market-Research-Report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?430465",
+          "width": 413,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-29T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-nowcasting-the-next-hour-of-rain.md",
+      "title": "Nowcasting the Next Hour of Rain",
+      "excerpt": "Our latest research and state-of-the-art model advances the science of Precipitation Nowcasting.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/nowcasting",
+      "originalUrl": "https://deepmind.com/blog/article/nowcasting",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/tPtvqnIoqRR2CtHpVYwurl5HNRtQ8lXfcNVxRmuOSSihah1Ocz2SwC3elaT49gSy6u0ozVr2VT_RgxPRCUGYFdbrRDFgQkVGIqx7EX-ZvofXV68acg",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-elon-musk-says-tesla-shouldnt-have-an-nda-for-its-full-self-driving-beta.md",
+      "title": "Elon Musk says Tesla shouldn’t have an NDA for its Full Self-Driving Beta",
+      "excerpt": "Elon Musk says Tesla shouldn’t have a non-disclosure agreement (NDA) for its Full Self-Driving (FSD) Beta testers. Yesterday, we reported on Tesla’s NDA for its Full Self-Driving Beta program. In the document,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/",
+      "originalUrl": "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 458,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-FSD-Beta-v9-driving-visuzalization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/amp/",
+      "publishedDateTime": "2021-09-28T16:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-researchers-use-ai-to-determine-which-animal-diseases-will-infect-humans-next.md",
+      "title": "Researchers use AI to determine which animal diseases will infect humans next",
+      "excerpt": "Zoonotic diseases such as COVID-19, those that can make the jump from animals to humans, are one of the most difficult to study. AI is here to help.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/researchers-use-ai-determine-which-animal-diseases-infect-humans",
+      "originalUrl": "https://thenextweb.com/news/researchers-use-ai-determine-which-animal-diseases-infect-humans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F02%2FUntitled-design-2021-02-09T192235.448.png&signature=50a8988ccb139ffc1da8785499bb4513",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T15:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-from-ai-to-computer-vision-how-cultfit-stepped-up-to-deliver-holistic-solutions-post-covid-19.md",
+      "title": "From AI to computer vision: How cult.fit stepped up to deliver holistic solutions post Covid-19",
+      "excerpt": "Covid-19 locked us in our homes and shut gyms down, amongst other things. But here's a company that stepped up its game to change things for the better, virtually and otherwise.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/from-ai-to-computer-vision-how-cult-fit-stepped-up-to-deliver-holistic-solutions-post-covid19-71632820468048.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/from-ai-to-computer-vision-how-cult-fit-stepped-up-to-deliver-holistic-solutions-post-covid19-71632820468048.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2021/09/28/1600x900/Ankit_Gupta_pic_1632822190235_1632822210350.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/from-ai-to-computer-vision-how-cult-fit-stepped-up-to-deliver-holistic-solutions-post-covid19-71632820468048.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/from-ai-to-computer-vision-how-cult-fit-stepped-up-to-deliver-holistic-solutions-post-covid19-71632820468048.html",
+      "publishedDateTime": "2021-09-28T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-a-developers-guide-to-machine-learning-security.md",
+      "title": "A developer’s guide to machine learning security",
+      "excerpt": "Adversarial attacks are different from other threats programmers face, so they need to understand the weak spots in machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/28/a-developers-guide-to-machine-learning-security/",
+      "originalUrl": "https://venturebeat.com/2021/09/28/a-developers-guide-to-machine-learning-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/machine-learning-security-for-developers-1-e1632767450503.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/28/a-developers-guide-to-machine-learning-security/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/a-developers-guide-to-machine-learning-security/amp/",
+      "publishedDateTime": "2021-09-28T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-ai-powered-contract-management-platform-malbek-lands-153m.md",
+      "title": "AI-powered contract management platform Malbek lands $15.3M",
+      "excerpt": "Malbek, an AI contract lifecycle management startup based Somerset, New Jersey, has raised $15.3 million in a venture round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/28/ai-powered-contract-management-platform-malbek-lands-15-3m/",
+      "originalUrl": "https://venturebeat.com/2021/09/28/ai-powered-contract-management-platform-malbek-lands-15-3m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-544306297-e1628772672593.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/28/ai-powered-contract-management-platform-malbek-lands-15-3m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/ai-powered-contract-management-platform-malbek-lands-15-3m/amp/",
+      "publishedDateTime": "2021-09-28T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-heidrick-struggles-partners-with-eightfold-ai-to-develop-new-digital-platform.md",
+      "title": "Heidrick & Struggles Partners With Eightfold AI To Develop New Digital Platform",
+      "excerpt": "Heidrick & Struggles International, Inc. (NASDAQ:HSII) and Eightfold AI, an AI-driven talent development platform, have partnered to develop a new digital leadership platform inte",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/heidrick-struggles-partners-with-eightfold-ai-to-develop-new-digital-platform-1030829003",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/heidrick-struggles-partners-with-eightfold-ai-to-develop-new-digital-platform-1030829003",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/industrial_pic_690.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T12:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-amazons-new-toys-from-999-robot-to-home-security-kids-entertainment-and-much-more.md",
       "title": "Amazon’s new toys: From $999 robot to home security, kids entertainment and much more",
       "excerpt": "Amazon shows off a handful of new Amazon-branded products, including an Echo device that hangs on the wall and acts as a digital whiteboard for the home, an interactive video chat portal for kids, and",
@@ -236,7 +819,7 @@
       "originalUrl": "https://sdtimes.com/ai/ibm-and-linux-foundation-ai-and-data-announce-machine-learning-exchange/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -487,7 +1070,7 @@
       "originalUrl": "https://venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -621,590 +1204,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-build-or-buy-ai-three-factors-that-can-determine-your-strategy.md",
-      "title": "Build Or Buy AI: Three Factors That Can Determine Your Strategy",
-      "excerpt": "To build the right ModelOps pipeline — one that can adapt to future needs — organizations must plan for shifting priorities and make insightful decisions that will stand the test of time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/28/build-or-buy-ai-three-factors-that-can-determine-your-strategy/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/28/build-or-buy-ai-three-factors-that-can-determine-your-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ccae14f704a6c42d127c1d%2F0x0.jpg",
-          "width": 1200,
-          "height": 815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/28/build-or-buy-ai-three-factors-that-can-determine-your-strategy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/28/build-or-buy-ai-three-factors-that-can-determine-your-strategy/amp/",
-      "publishedDateTime": "2021-09-28T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-horizon3ai-recognized-in-2021-gartner-hype-cycle-for-security-operations.md",
-      "title": "Horizon3.ai recognized in 2021 Gartner® Hype Cycle™ for Security Operations",
-      "excerpt": "Horizon3.ai, a leading provider of Autonomous Pentesting as a Service (APTaaS), was identified as a Sample Vendor in the 2021 Gartner Hype Cycle for Security Operations report in the Autonomous Penetration Testing and Red Teaming category.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/horizon3-ai-recognized-in-2021-gartner-hype-cycle-for-security-operations-1030828421",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/horizon3-ai-recognized-in-2021-gartner-hype-cycle-for-security-operations-1030828421",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1637368/1920x1080_Horizon3ai_CrossedOut_Gartner2_Logo.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-enterprise-ai-platform-leena-ai-raises-30m-to-be-a-siri-for-employees.md",
-      "title": "Enterprise AI platform Leena AI raises $30M to be a ‘Siri for employees’",
-      "excerpt": "Leena AI, an AI-powered conversational platform used by major enterprises such as Nestlé, has raised $30 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/28/enterprise-focused-conversational-ai-platform-leena-ai-raises-30m/",
-      "originalUrl": "https://venturebeat.com/2021/09/28/enterprise-focused-conversational-ai-platform-leena-ai-raises-30m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/transform.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/28/enterprise-focused-conversational-ai-platform-leena-ai-raises-30m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/enterprise-focused-conversational-ai-platform-leena-ai-raises-30m/amp/",
-      "publishedDateTime": "2021-09-28T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-leena-ai-gets-30-million-funding-from-bessemer-b-capital.md",
-      "title": "Leena AI gets $30 million funding from Bessemer, B Capital",
-      "excerpt": "The funding will help enterprise SaaS startup Leena AI launch new products, enter new geographies like North America and Europe, and hire talent for marketing and sales.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/funding/leena-ai-gets-30-million-funding-from-bessemer-b-capital/articleshow/86586687.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/funding/leena-ai-gets-30-million-funding-from-bessemer-b-capital/articleshow/86586687.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-62692,msid-86586647/adit-jain-leena-ai-.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/funding/leena-ai-gets-30-million-funding-from-bessemer-b-capital/amp_articleshow/86586687.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/leena-ai-gets-30-million-funding-from-bessemer-b-capital/amp_articleshow/86586687.cms",
-      "publishedDateTime": "2021-09-28T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-battery-ventures-leads-arize-ais-19m-round-for-ml-observability.md",
-      "title": "Battery Ventures leads Arize AI’s $19M round for ML observability",
-      "excerpt": "Companies use data to build models that they use to automate decisions, but without visibility, it’s difficult to determine if the models are accountable, fair and responsible.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/28/battery-ventures-leads-arize-ais-19m-round-for-ml-observability/",
-      "originalUrl": "https://techcrunch.com/2021/09/28/battery-ventures-leads-arize-ais-19m-round-for-ml-observability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/DSC_0597.jpg?w=1000",
-          "width": 1000,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/28/battery-ventures-leads-arize-ais-19m-round-for-ml-observability/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/28/battery-ventures-leads-arize-ais-19m-round-for-ml-observability/amp/",
-      "publishedDateTime": "2021-09-28T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-kodiak-launches-its-4th-generation-self-driving-semi-truck.md",
-      "title": "Kodiak launches its 4th-generation self-driving semi-truck",
-      "excerpt": "That move towards autonomy in the trucking industry is where Kodiak Robotics comes in, with its fourth-generation Kodiak Driver system, which the company announced on Tuesday. The system is somewhat unique from others on the road in its modularity and ease of installation on any modern Class 8 truck,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/kodiak-autonomous-semi-truck-launched/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/kodiak-autonomous-semi-truck-launched/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/fXRtRHYXHsgvDiRTPEUy6OR0_EU=/2021/09/27/de369ec4-cdeb-4aa1-bbf8-c04f0dda9fb2/767a6856-1.jpg",
-          "width": 1200,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/kodiak-autonomous-semi-truck-launched/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/kodiak-autonomous-semi-truck-launched/",
-      "publishedDateTime": "2021-09-28T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-iit-roorkee-establishes-school-of-data-science-and-artificial-intelligence.md",
-      "title": "IIT Roorkee Establishes School Of Data Science And Artificial Intelligence",
-      "excerpt": "IIT Roorkee has established the Mehta Family School of Data Science and Artificial Intelligence. The school will be supported by global experts from AI field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.republicworld.com/india-news/education/iit-roorkee-establishes-school-of-data-science-and-artificial-intelligence.html",
-      "originalUrl": "https://www.republicworld.com/india-news/education/iit-roorkee-establishes-school-of-data-science-and-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/vnndh5facmejvpp2_1632831742.jpeg",
-          "width": 768,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.republicworld.com/amp/india-news/education/iit-roorkee-establishes-school-of-data-science-and-artificial-intelligence.html",
-      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/education/iit-roorkee-establishes-school-of-data-science-and-artificial-intelligence.html",
-      "publishedDateTime": "2021-09-28T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RepublicWorld",
-        "domain": "republicworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-londons-met-police-buying-retrospective-facial-recognition-technology.md",
-      "title": "London's Met Police Buying Retrospective Facial Recognition Technology",
-      "excerpt": "The UK's Metropolitan Police Service has been authorised to buy and use retrospective facial recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-police-buying-retrospective-facial-recognition-technology/",
-      "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-police-buying-retrospective-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6152fd755997c9c246b71a4c%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-police-buying-retrospective-facial-recognition-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-police-buying-retrospective-facial-recognition-technology/amp/",
-      "publishedDateTime": "2021-09-28T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-the-pandemic-is-testing-the-limits-of-face-recognition.md",
-      "title": "The pandemic is testing the limits of face recognition",
-      "excerpt": "Government use of face ID systems exploded during the pandemic—but tying it to critical services has left some people locked out at the moment they needed help the most.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/09/28/1036279/pandemic-unemployment-government-face-recognition/",
-      "originalUrl": "https://www.technologyreview.com/2021/09/28/1036279/pandemic-unemployment-government-face-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/09/face-1.jpg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/09/28/1036279/pandemic-unemployment-government-face-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/09/28/1036279/pandemic-unemployment-government-face-recognition/amp/",
-      "publishedDateTime": "2021-09-28T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-vista-bets-on-software-robotics-with-15-bln-blue-prism-takeover.md",
-      "title": "Vista bets on software robotics with $1.5 bln Blue Prism takeover",
-      "excerpt": "U.S. private equity firm Vista Equity is to buy British software firm Blue Prism for 1.1 billion pounds ($1.50 billion) in a bid to grow its automation technology portfolio.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/vista-bets-software-robotics-with-15-bln-blue-prism-takeover-2021-09-28/",
-      "originalUrl": "https://www.reuters.com/business/vista-bets-software-robotics-with-15-bln-blue-prism-takeover-2021-09-28/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/Ps_pUXXr-VOsMVHcTJuBUgdfAg8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MN5L6SSIVZOILDV27WI64T56Q4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T00:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24.md",
-      "title": "Cardano Blockchain Selected to Run AI Modules of Humanoid Robot Grace | Blockchain24",
-      "excerpt": "It was officially announced that the Cardano blockchain plans to use the AI ​​modules of a humanoid robot named Grace. Well, the demand for this robot is not even an issue since robotics for aged care has seen tremendous growth due to the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/",
-      "originalUrl": "https://thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thegoaspotlight.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/amp/",
-      "cdnAmpWebUrl": "https://thegoaspotlight-com.cdn.ampproject.org/c/s/thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/amp/",
-      "publishedDateTime": "2021-09-27T23:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thegoaspotlight",
-        "domain": "thegoaspotlight.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-global-artificial-intelligence-ai-speakers-market-report-2021-prominent-key-players-exploring-sales-volume-revenue-and-forecast-by-2027.md",
-      "title": "Global Artificial Intelligence (AI) Speakers Market Report 2021 Prominent Key Players, Exploring Sales Volume Revenue and Forecast by 2027",
-      "excerpt": "The research study on Global Artificial Intelligence (AI) Speakers Market 2021 by Manufacturers, Regions, Type",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-report-2021-prominent-key-players-exploring-sales-volume-revenue-and-forecast-by-2027-2021-09-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-report-2021-prominent-key-players-exploring-sales-volume-revenue-and-forecast-by-2027-2021-09-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T20:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

@@ -51,6 +51,17 @@ related:
         width: 870
         height: 580
         isCached: true
+  - title: "Artificial Intelligence Market Key Drivers, Restraints, Industry Size & Share, Opportunities, Trends, and Forecasts up to 2028"
+    excerpt: "The global Artificial Intelligence Market is expected to rise with an impressive CAGR and generate the highest revenue by 2026 Fortune Business Insights in its latest report published this information The report is titled Artificial Intelligence AI Market Size Share"
+    publishedDateTime: 2021-09-30T13:32:00Z
+    webUrl: "https://www.openpr.com/news/2413197/artificial-intelligence-market-key-drivers-restraints"
+    ampWebUrl: "https://www.openpr.com/amp/2413197/artificial-intelligence-market-key-drivers-restraints"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2413197/artificial-intelligence-market-key-drivers-restraints"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 26
   - title: "Facial Recognition Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2025"
     excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Sep 28, 2021, 23:53 /Comserve / -- The report predicts the global facial recognition market to grow with a CAGR of 17.61% over the forecast period from 2019-2025. The report on the global facial recognition market provides qualitative and quantitative analysis for the period from 2017 to 2025."
     publishedDateTime: 2021-09-29T08:46:00Z
@@ -65,17 +76,6 @@ related:
         width: 413
         height: 250
         isCached: true
-  - title: "Artificial Intelligence Market Key Drivers, Restraints, Industry Size & Share, Opportunities, Trends, and Forecasts up to 2028"
-    excerpt: "The global Artificial Intelligence Market is expected to rise with an impressive CAGR and generate the highest revenue by 2026 Fortune Business Insights in its latest report published this information The report is titled Artificial Intelligence AI Market Size Share"
-    publishedDateTime: 2021-09-30T13:32:00Z
-    webUrl: "https://www.openpr.com/news/2413197/artificial-intelligence-market-key-drivers-restraints"
-    ampWebUrl: "https://www.openpr.com/amp/2413197/artificial-intelligence-market-key-drivers-restraints"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2413197/artificial-intelligence-market-key-drivers-restraints"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
   - title: "Language Services Market Outlook By Industry Size, Share, Revenue, Regions and Top Key Players Analysis"
     excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Sep 28, 2021, 08:33 /Comserve / -- Language Services Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies,"
     publishedDateTime: 2021-09-28T19:42:00Z

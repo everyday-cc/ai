@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-30-intel-announces-neuromorphic-loihi-2-ai-hw-and-lava-sw.md",
+      "title": "Intel Announces Neuromorphic Loihi 2 AI HW And Lava SW",
+      "excerpt": "Intel Research believes that brain-like Neuromorphic computing could hold the key to AI efficiency and capabilities. Intel has announced the availability of the second generation",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/09/30/intel-announces-neuromorphic-loihi-2-ai-hw-and-lava-sw/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/09/30/intel-announces-neuromorphic-loihi-2-ai-hw-and-lava-sw/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6154ba7665c245693b2c8592%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2490%26cropY1%3D128%26cropY2%3D1529",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/09/30/intel-announces-neuromorphic-loihi-2-ai-hw-and-lava-sw/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/09/30/intel-announces-neuromorphic-loihi-2-ai-hw-and-lava-sw/amp/",
+      "publishedDateTime": "2021-09-30T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond.md",
+      "title": "Semiconductor Stocks That Stand To Gain Through The Chip Shortage And Beyond",
+      "excerpt": "Our theme on Stocks That Benefit From The Semiconductor Shortage, which includes companies that produce machinery and tools for chipmaking and semiconductor players with their own fab capacity, has returned about 26% year-to-date,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/09/30/semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/09/30/semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe2ea7a3525e3f86a796cf5%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/09/30/semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/09/30/semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond/amp/",
+      "publishedDateTime": "2021-09-30T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-amd-wants-to-make-its-chips-30-times-more-energy-efficient-by-2025.md",
       "title": "AMD wants to make its chips 30 times more energy-efficient by 2025",
       "excerpt": "For years, Intel had been sitting on its CPU throne, gradually losing its drive to innovate process technology. Instead, the company chose to take the \"abnormally",
@@ -209,7 +313,7 @@
       "originalUrl": "https://www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1346,92 +1450,6 @@
         "name": "blocksandfiles",
         "domain": "blocksandfiles.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-neureality-collaborates-with-xilinx-to-deliver-neurealitys-novel-ai-centric-server-to-the-market.md",
-      "title": "NeuReality collaborates with Xilinx to deliver NeuReality's novel AI-centric server to the market",
-      "excerpt": "NeuReality, an Israeli AI startup developing high performance AI compute platforms for cloud data centers and edge nodes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/09/n22933078/neureality-collaborates-with-xilinx-to-deliver-neurealitys-novel-ai-centric-server-to-the-market",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/n22933078/neureality-collaborates-with-xilinx-to-deliver-neurealitys-novel-ai-centric-server-to-the-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-gpu-as-a-service-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025.md",
-      "title": "GPU as a Service Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025",
-      "excerpt": "A comprehensive research study on GPU as a Service market added on Market Study Report provides insights into the market size and growth trends of this industry over the forecast timeline. The study evaluates key aspects of GPU as a Service market in terms of the demand landscape,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-09-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-09-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -8,7 +8,7 @@ webUrl: "https://www.openpr.com/news/2413197/artificial-intelligence-market-key-
 ampWebUrl: "https://www.openpr.com/amp/2413197/artificial-intelligence-market-key-drivers-restraints"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2413197/artificial-intelligence-market-key-drivers-restraints"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Computer Vision in Healthcare Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2025"

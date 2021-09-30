@@ -39,6 +39,15 @@ related:
         width: 970
         height: 632
         isCached: true
+  - title: "Local startup lands angel funding to help care for the neurodiverse"
+    excerpt: "After hitting the iOS app store in June with its digital tool to care for those on the autism spectrum, a local startup is looking to expand with a fresh round of funding. Red Oak-based ASD.ai, the developer of mobile app Rootines,"
+    publishedDateTime: 2021-09-30T14:21:00Z
+    webUrl: "https://www.bizjournals.com/dallas/inno/stories/fundings/2021/09/30/asdai-angel-funding-tamara-jackson.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 2
 
 secured: "yFAhouT+AVq3Kv10prG344aPZid9dQFypgZQ907HQt7VMkpz3lJZoXYTYHKF/euHQhZ3nmLob82IBQFKeoYtE94lc2SZKareqZT1dyCqTG4iogWw/Crm4EkcaUZF3wLb/Yuski2IsYTbM0z3+9u/J9q9vkLk71AOvf/3uldaOjeWTNNsb/Eyyyaq10Ci3wq1UwmAX6mSSDk2kC2NVkhjxFECJBUCV88v3kym9K9++/aV1yHjyRI91qidJYWiCMd0yk1I91ANQ+7TEJLe75s84QhzYSKvnsbVtef+0dktJ39tm1ZwsfWYuCF9IEC3AA3k7fjhCWJVIK3paebP9oAWcLv9UfpJsIyzGHGkoZv5hzdT0U3flYX5beWXBB5+J2Ca/Q9F68V2hv0BR1DLhQxTpKEBbfQZtj7fnk/FmNSDhz+0U1E5qD4J64vkuGn5jGE8NLjttHrbtE5jR40EKH9MFCDBEywdIt3LArZtHJtsGt/4FNu/VHR90Dtgz15UnhJl7NMfR5s2pi656XOyyT/QhA==;0VgVpra/15o5iarsz4ftJw=="
 ---

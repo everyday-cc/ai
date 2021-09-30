@@ -106,6 +106,20 @@ related:
         width: 401
         height: 401
         isCached: true
+  - title: "AI in Fintech Market Size to Reach USD 17440 Million by 2027 at CAGR 17.9% - Valuates Reports"
+    excerpt: "The AI in Fintech Market is Segmented by Type (Software Tools, Platforms), Application (Virtual Assistant, Business Analytics and"
+    publishedDateTime: 2021-09-30T14:00:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/ai-in-fintech-market-size-to-reach-usd-17440-million-by-2027-at-cagr-17-9-valuates-reports-873130618.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
+        isCached: true
   - title: "5 FinTech companies helping MSMEs scale their businesses"
     excerpt: "One sector hit the hardest by the pandemic has been the MSMEs. A number of entrepreneurs have reported the inability to survive"
     publishedDateTime: 2021-09-27T06:26:00Z
@@ -147,20 +161,6 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/Accelerating-transformation-through-Cloud@2x.png"
         width: 401
         height: 400
-        isCached: true
-  - title: "The Rise of Insurtech In The Pandemic Era: FinTech is Transforming The Insurance Industry"
-    excerpt: "Insurtech has recently emerged in the insurance space growing by leaps and bounds, helping organizations protect their business and execute transactions remotely during the"
-    publishedDateTime: 2021-09-25T22:53:00Z
-    webUrl: "https://www.bbntimes.com/financial/the-rise-of-insurtech-in-the-pandemic-era-fintech-is-transforming-the-insurance-industry"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 15
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Rise_of_Insurtech_In_The_Pandemic_Era-_FinTech_is_Transforming_The_Insurance_Industry.jpg"
-        width: 1687
-        height: 1080
         isCached: true
   - title: "The International Cricket Council Announces Strategic Partnership With FinTech Infrastructure Leader: Nium"
     excerpt: "The International Cricket Council (ICC) announced today that it has entered a multi-year strategic partnership with Nium, a leading global financial technology (FinTech) infrastructure company. Nium provides banks and businesses with access to"

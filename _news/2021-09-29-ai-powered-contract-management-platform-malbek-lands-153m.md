@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/28/ai-powered-contract-management-pl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/ai-powered-contract-management-platform-malbek-lands-15-3m/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,38 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/08/3fb9dd87-044a-4aaf-9fa1-93be7fa400a4-e1597178224936.png?w=1200&strip=all"
         width: 1199
         height: 598
+        isCached: true
+  - title: "SoftBank-Backed ContractPodAi Notches $115M for AI-Powered Legal Platform"
+    excerpt: "The capital will be used to grow the startup’s contract lifecycle management platform powered by artificial intelligence and to continue international expansion."
+    publishedDateTime: 2021-09-30T12:31:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/contractpodai-notches-115m-for-ai-powered-legal-platform/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/contractpodai-notches-115m-for-ai-powered-legal-platform/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/contractpodai-notches-115m-for-ai-powered-legal-platform/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 56
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/09/legal-software-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "Recent Merger Unites Artificial Intelligence, Management Platform Companies"
+    excerpt: "UNU, an artificial intelligence ag tech company, has acquired Artemis, an enterprise Cultivation Management Platform."
+    publishedDateTime: 2021-09-30T14:33:00Z
+    webUrl: "https://www.greenhousegrower.com/technology/recent-merger-unites-artificial-intelligence-management-platform-companies/"
+    ampWebUrl: "https://www.greenhousegrower.com/technology/recent-merger-unites-artificial-intelligence-management-platform-companies/?amp"
+    cdnAmpWebUrl: "https://www-greenhousegrower-com.cdn.ampproject.org/c/s/www.greenhousegrower.com/technology/recent-merger-unites-artificial-intelligence-management-platform-companies/?amp"
+    type: article
+    provider:
+      name: Greenhouse Grower
+      domain: greenhousegrower.com
+    quality: 55
+    images:
+      - url: "https://files.greenhousegrower.com/greenhousegrow/wp-content/uploads/2021/09/iUNU.jpg"
+        width: 896
+        height: 504
         isCached: true
 
 secured: "3LUE08RDDS8OVDWdQZ0xwFw+mw4ypGUa2A5uKc9tpXDSek6uO7TuzlKyvtXzYtUonhLZ2pCp0e/qlGbBooGK0Zwl0h1f67bq6U9WFlPc/PkIhnP+9OGx6H3nlzoz1tZ9pYGpRBWStvwdckofpoQM4moTNyQiCjxei10irWqC/JZSrEebLpu0e+znVJBSy4fg7dzml9x4DuNgzF5hdZJQUdVO+hl8kpWpoJAVnwSVGtfgnZyITeDjXRYAIysRfFkAWRssQvSSAuzhnf6KBEFakiffTSALu/CmwJfywdTB1z0bE4tlM9/ZltBCweU6GCDdrPG1TxYu1cs/TQpWjTRzSkTIeNbbswJJvBok4MuoWydPU/2/khb55BQCEtyHdCZQTva19eac6Pxbk7+BzZhEiizuIpg7lY5+vZRPJnlgtODqrHXXRQH6V7ezuN9ZCjdTGIf8q834zUbUW4a8tQOkB4VqNb2rBfSJTs1H9EOiZWShlDYqTpzVHGFmAXy6nElQpzhT82HYBp9O85cDhssJtw==;xDyNfhyUr64VRWu+5RbLpw=="

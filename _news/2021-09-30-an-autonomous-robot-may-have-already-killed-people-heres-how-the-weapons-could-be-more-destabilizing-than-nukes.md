@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "An Autonomous Robot May Have Already Killed People"
-    excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
-    publishedDateTime: 2021-09-29T14:00:00Z
-    webUrl: "https://www.manufacturing.net/home/news/21747325/an-autonomous-robot-may-have-already-killed-people"
+  - title: "Could Autonomous Robots Be More Dangerous than Nukes?"
+    excerpt: "Without established regulations and prohibitions on autonomous weapons, they could pose a great danger and possibly destabilize current nuclear strategies."
+    publishedDateTime: 2021-09-30T15:04:00Z
+    webUrl: "https://interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes"
+    ampWebUrl: "https://amp.interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes"
     type: article
     provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 59
     images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/09/16x9/file_20210927_21_wsi2zg.61547119a8d65.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 677
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/3oOpl2P5OW/sizes/could-autonomous-robots-be-more-dangerous-than-nukes_resize_md.jpg"
+        width: 744
+        height: 419
         isCached: true
   - title: "An autonomous robot may have already killed people—here's how the weapons could be more destabilizing than nukes"
     excerpt: "Autonomous weapon systems—commonly known as killer robots—may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."

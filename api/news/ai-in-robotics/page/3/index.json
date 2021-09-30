@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-14-artificial-intelligence-market-is-anticipated-to-expand-at-a-cagr-of-29-from-2021-to-2031.md",
+      "title": "Artificial Intelligence Market is anticipated to expand at a CAGR of ~29% from 2021 to 2031",
+      "excerpt": "Transparency Market Research delivers key insights on the global artificial intelligence market. In terms of revenue, the global artificial intelligence market is estimated to expand at a CAGR of ~29% during the forecast period,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/artificial-intelligence-market-is-anticipated-to-expand-at-a-cagr-of-29-from-2021-to-2031/",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-market-is-anticipated-to-expand-at-a-cagr-of-29-from-2021-to-2031/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/10-6-390x220.jpg",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-market-is-anticipated-to-expand-at-a-cagr-of-29-from-2021-to-2031/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-is-anticipated-to-expand-at-a-cagr-of-29-from-2021-to-2031/?amp=1",
+      "publishedDateTime": "2021-09-13T23:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-five-ways-to-improve-operational-excellence-in-robotic-welding-automation.md",
       "title": "Five ways to improve operational excellence in robotic welding automation",
       "excerpt": "Control Engineering - When it comes to any manufacturing process and not just improving robotic welding automation, companies should be asking what their goals are. “People",
@@ -1264,40 +1307,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-sonoco-son-inks-deal-with-amp-robotics-boosts-paper-can-recycling.md",
-      "title": "Sonoco (SON) Inks Deal With AMP Robotics, Boosts Paper Can Recycling",
-      "excerpt": "Sonoco Products Company SON has joined forces with AMP Robotics to recycle the spiral wound paper canister with steel bottom produced by it and other manufacturers. Recycled steel usage has a 45% lesser environmental impact when compared to producing an equal amount from a virgin material,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/sonoco-son-inks-deal-with-amp-robotics-boosts-paper-can-recycling-2021-09-08",
-      "originalUrl": "https://www.nasdaq.com/articles/sonoco-son-inks-deal-with-amp-robotics-boosts-paper-can-recycling-2021-09-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/sonoco-son-inks-deal-with-amp-robotics-boosts-paper-can-recycling-2021-09-08?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sonoco-son-inks-deal-with-amp-robotics-boosts-paper-can-recycling-2021-09-08?amp",
-      "publishedDateTime": "2021-09-08T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

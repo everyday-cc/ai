@@ -9,7 +9,7 @@ ampWebUrl: "https://www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-
 cdnAmpWebUrl: "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       name: The Next Web
       domain: thenextweb.com
     quality: 63
-  - title: "Samsung Wants To ‘Copy and Paste’ the Brain on Neuromorphic Chips"
-    excerpt: "South Korean tech giant Samsung is considering developing brain-like chips by borrowing existing brain structures. The tech firm puts forward a vision to “copy and paste” the brain’s neuronal connection map onto a computer chip."
-    publishedDateTime: 2021-09-28T22:53:00Z
-    webUrl: "https://www.industrytap.com/samsung-wants-to-copy-and-paste-the-brain-on-neuromorphic-chips/60329"
-    type: article
-    provider:
-      name: Industry Tap
-      domain: industrytap.com
-    quality: 54
-    images:
-      - url: "https://www.industrytap.com/wp-content/uploads/2021/09/brain.jpg"
-        width: 744
-        height: 419
-        isCached: true
   - title: "Samsung to “copy paste” the brain onto 3D chips – a precursor to human-like AI?"
     excerpt: "By borrowing existing brain structures, the tech firm has proposed a method that would \"copy and paste\" a brain's neuron wiring map to 3D chips."
     publishedDateTime: 2021-09-29T12:30:00Z

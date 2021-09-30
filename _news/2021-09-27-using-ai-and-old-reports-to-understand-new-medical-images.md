@@ -26,100 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Scope of AI, Deep Learning and Neural Network, 2021 Market Research Report"
-    excerpt: "The \"Next Wave of Deep Learning Models & Applications (RNN, CNN, and GaN)\" report has been added to ResearchAndMarkets.com's offering. As digitization progresses across industries, AI is gaining a ubiquitous adoption as more and more business processes are being automated."
-    publishedDateTime: 2021-09-29T09:42:00Z
-    webUrl: "https://menafn.com/1102884604/Scope-of-AI-Deep-Learning-and-Neural-Network-2021-Market-Research-Report"
+  - title: "AI's push to understand psychiatry research has the potential to tackle mental illness"
+    excerpt: "Psychiatry researchers are using AI to tackle mental illness, with the goal of creating more effective and personalized treatment plans."
+    publishedDateTime: 2021-09-30T14:12:00Z
+    webUrl: "https://www.businessinsider.com/how-ai-is-advancing-psychiatry-medicine-to-tackle-mental-illness-2021-9"
+    ampWebUrl: "https://www.businessinsider.com/how-ai-is-advancing-psychiatry-medicine-to-tackle-mental-illness-2021-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-is-advancing-psychiatry-medicine-to-tackle-mental-illness-2021-9?amp"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 67
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?430465"
-        width: 413
-        height: 250
-        isCached: true
-  - title: "Global Machine Learning Artificial intelligence Market 2021 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2027"
-    excerpt: "The earliest projects by MarketQuest.biz titled Global Machine Learning Artificial intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2027 delivers a thorough analysis of the market,"
-    publishedDateTime: 2021-09-28T04:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-artificial-intelligence-market-2021-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2027-2021-09-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://i.insider.com/5ff8a8fabde805001980beed?width=1200&format=jpeg"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "The Worldwide Microprocessor and GPU Industry is Expected to Reach $89.3 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The \"Microprocessor and GPU - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Amid the COVID-19 crisis, the global market for Microprocessor and GPU estimated at US$77."
-    publishedDateTime: 2021-09-27T11:27:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=536873"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 18
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Artificial Intelligence in Medical Imaging Market 2021 Industry Analysis, Size, Share, Growth, Trends and Forecast 2028"
-    excerpt: "DBMR has presented updated research report on Artificial Intelligence in Medical Imaging Market offering insightful information like market share market size and growth rate during the forecast period 2021 2028 that are precisely projected based on type application sales channel"
-    publishedDateTime: 2021-09-28T11:47:00Z
-    webUrl: "https://www.openpr.com/news/2409862/artificial-intelligence-in-medical-imaging-market-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2409862/artificial-intelligence-in-medical-imaging-market-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2409862/artificial-intelligence-in-medical-imaging-market-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 15
-  - title: "The Worldwide Edge AI Hardware Industry is Expected to Grow at a CAGR of 17.1% from 2021 to 2026 - ResearchAndMarkets.com"
-    excerpt: "The \"Global Edge AI Hardware Market with COVID-19 Impact Analysis by Device, Processor (CPU, GPU, ASICs), End-user, Function (Training, Inference), Power (Less Than 1W, 1-3 W, 3-5 W, 5-10W, More Than 10W) and Region - Forecast to 2026\" report"
-    publishedDateTime: 2021-09-30T09:41:00Z
-    webUrl: "https://www.lelezard.com/en/news-20022824.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 14
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
-        isCached: true
-  - title: "Global Microprocessor and GPU Market (2020 to 2027) - by Product, GPU Type, Application and Geography - ResearchAndMarkets.com"
-    excerpt: "The Microprocessor and GPU Market is anticipated to grow at the rate of 6.2% CAGR by 2027. The microprocessor is also known as the control processing unit of a computer system that executes arithmetic and logic operations,"
-    publishedDateTime: 2021-09-27T10:47:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=536832"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 11
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Global Laser Processing Market Research Report (2021 to 2026) - by Vertical, Configuration, Application and Region"
-    excerpt: "The \"Laser Processing Market Research Report by Vertical, by Configuration, by Application, by Region - Global Forecast to 2026 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-09-29T19:24:00Z
-    webUrl: "https://www.lelezard.com/en/news-20022226.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 2
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/mining-industry.jpg"
-        width: 640
-        height: 480
+        height: 600
         isCached: true
 
 secured: "SvxoidfB4bKLLX7QopOgo6defGoLUnj91liLISSZB32cNMmqpA+xEQUcc0qcGiPc7U2/53EOjsFpXACxQRFKA9nqMeggy3Za0wYtM5dMEdIbpkGw02h/L/QWwk+t3vT7Z1+8Xz7PD2BPaU1PM2b5HMYtHwzOczwSK/DxiKxeIRR7ui1pllnFpKwYqCoLcTVHrtBdz1ZNddDCGHf6VIAnZ0gPgPLJLkGxXGX4zWwA/GYhebUgvJrb0WaWtwfwqqBJ3XC+EQbvtF0URN9Ig4x5ArzsmmpuUgrDgICll35Jbkgyw/wdbNP/gxo+olubPKFG9wbR0u1HP9WoPAXT8EwvdSQV4r+KHIB3TJlUMIkSbql+/0vzTkVOyfGzJXxV7P7SXciyhKwfRVpvF3rHXOkMSx5os/9m9PjHHwC3R5FSeV0r7z90iI2Ijfe6iGi/loCH6SnDT2Im40UT1jzUf73Lu+qRwJceatGU8iSGxqf4l4QDmR6gD6SFx9sXXS90wBHF7kgBVwV2eri3lzjJfBK0nw==;xvULH8LaBHvcMnH3cYt8fQ=="
