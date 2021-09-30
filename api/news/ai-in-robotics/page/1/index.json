@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-30-honda-reveals-evtol-plans-future-robots-and-dreams-of-helping-colonize-the-moon.md",
+      "title": "Honda reveals eVTOL plans, future robots and dreams of helping colonize the moon",
+      "excerpt": "These are some big time aspirations from the carmaker, but it's all part of a plan to tackle other issues beyond traditional transportation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/honda-evtol-robots-colonize-moon/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/honda-evtol-robots-colonize-moon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/lcRp-47lWgWxs2fqLwA9_Lom8Yo=/2021/09/29/ad56b966-12bb-4145-bbbb-0826ab7721d3/ogi-honda.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/honda-evtol-robots-colonize-moon/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-evtol-robots-colonize-moon/",
+      "publishedDateTime": "2021-09-30T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-johnson-controls-chooses-ava-robotics-to-power-the-new-tyco-security-robot-designed-for-business-applications.md",
       "title": "Johnson Controls chooses Ava Robotics to power the new Tyco Security Robot, designed for business applications",
       "excerpt": "Johnson Controls has chosen Ava Robotics, a globally renowned company in designing and developing intelligent robots for workplace applications, to improve human productivity, safety and quality",
@@ -254,7 +306,7 @@
       "originalUrl": "https://thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -402,7 +454,7 @@
       "originalUrl": "https://www.linkedin.com/pulse/ai-robotics-good-investments-james-sanders",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1358,40 +1410,6 @@
       "provider": {
         "name": "아크로팬",
         "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-arkq-uniquely-positioned-to-capitalize-on-robotics-trends.md",
-      "title": "ARKQ Uniquely Positioned to Capitalize on Robotics Trends",
-      "excerpt": "Amid an array of technological advancements, robotics investing is gaining a broader audience, and exchange traded funds issuers are meeting that demand. However, the various robotics ETFs on the market today aren't carbon copies of each other,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/arkq-uniquely-positioned-to-capitalize-on-robotics-trends-2021-09-21",
-      "originalUrl": "https://www.nasdaq.com/articles/arkq-uniquely-positioned-to-capitalize-on-robotics-trends-2021-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/arkq-uniquely-positioned-to-capitalize-on-robotics-trends-2021-09-21?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/arkq-uniquely-positioned-to-capitalize-on-robotics-trends-2021-09-21?amp",
-      "publishedDateTime": "2021-09-21T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

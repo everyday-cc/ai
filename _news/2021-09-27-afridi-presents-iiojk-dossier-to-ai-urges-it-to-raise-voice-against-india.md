@@ -9,7 +9,7 @@ ampWebUrl: "https://www.brecorder.com/news/amp/40122807"
 cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40122807"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/50-most-influential-AI-Leaders-.jpg"
         width: 2240
         height: 1260
-        isCached: true
-  - title: "Modi’s speech at UN glaring contradiction to India’s abuses in IIOJK"
-    excerpt: "Indian Prime Minister Narendra Modi in his speech at the United Nations General Assembly expressed concern over threat of terrorism"
-    publishedDateTime: 2021-09-25T15:53:00Z
-    webUrl: "https://www.app.com.pk/top-news/modis-speech-at-un-glaring-contradiction-to-indias-abuses-in-iiojk/"
-    type: article
-    provider:
-      name: Associated Press of Pakistan
-      domain: app.com.pk
-    quality: 24
-    images:
-      - url: "https://www.app.com.pk/wp-content/uploads/2021/09/Dtitle.jpg"
-        width: 976
-        height: 857
         isCached: true
 
 secured: "vvSl3KE71KHREe28CeoYbGVIHejyjMgMiZqDOS2KSfsgvZ5qclcsavVlcp84lGMROYgVI5iaDM7LMlG4vl0inhJCexFUz5HQttLtHfflGoEc6Uk785/SfPizB65Em81eL0Ohi0RokZWaBCsIKbFB3dEB4RPxwNbhByIwdQMgumCFL6YG+exnCBcBjAtdpEekMieH5FAEAb6qR4Whj2cjwGyBrNP99M9sO0yFvRLBtV+v4ch8CS4c6S1QDU82gyIgYLYF9pWzN3Y4YQQY32zrG2nc8Dv50TZ6cX0sPZRssoMceo2Qs/eZG6IxkqeeXiHkyaXooB0oI5DP3/mIK/q7+4xERd5TX3B1HGh27h7SReU=;YqKg4y+17Ncxvv5JSu5/uw=="

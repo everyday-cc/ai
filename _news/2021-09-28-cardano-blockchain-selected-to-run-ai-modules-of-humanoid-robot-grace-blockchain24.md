@@ -9,7 +9,7 @@ ampWebUrl: "https://thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-t
 cdnAmpWebUrl: "https://thegoaspotlight-com.cdn.ampproject.org/c/s/thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/amp/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Sims Creator Uses Blockchain, AI in New Video Game About You"
+    excerpt: "The creator of life-simulation video game The Sims is releasing a new title where players meet their inner id, and he’s using artificial intelligence and the blockchain to do it."
+    publishedDateTime: 2021-09-28T09:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-09-28/sims-creator-uses-blockchain-ai-in-new-video-game-about-you"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iA7qqgcxrefs/v0/1200x900.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Blockchain, AI among fastest growing startup sub-sectors globally: report"
     excerpt: "Other sectors like cybersecurity, edtech, cleantech, and gaming are maturing at significant rates, seeing a collective growth of 33% in Series A funding and 3% exits over the past five years."
     publishedDateTime: 2021-09-27T07:15:00Z

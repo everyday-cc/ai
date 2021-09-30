@@ -1,0 +1,66 @@
+---
+category: news
+title: "Sims Creator Uses Blockchain, AI in New Video Game About You"
+excerpt: "The creator of life-simulation video game The Sims is releasing a new title where players meet their inner id, and he’s using artificial intelligence and the blockchain to do it."
+publishedDateTime: 2021-09-28T09:00:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2021-09-28/sims-creator-uses-blockchain-ai-in-new-video-game-about-you"
+webUrl: "https://www.bloomberg.com/news/articles/2021-09-28/sims-creator-uses-blockchain-ai-in-new-video-game-about-you"
+type: article
+quality: 67
+heat: -1
+published: false
+
+provider:
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iA7qqgcxrefs/v0/1200x900.jpg"
+    width: 1200
+    height: 900
+    isCached: true
+
+related:
+  - title: "Cardano Blockchain Selected to Run AI Modules of Humanoid Robot Grace | Blockchain24"
+    excerpt: "It was officially announced that the Cardano blockchain plans to use the AI ​​modules of a humanoid robot named Grace. Well, the demand for this robot is not even an issue since robotics for aged care has seen tremendous growth due to the pandemic."
+    publishedDateTime: 2021-09-28T06:08:00Z
+    webUrl: "https://thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/"
+    ampWebUrl: "https://thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/amp/"
+    cdnAmpWebUrl: "https://thegoaspotlight-com.cdn.ampproject.org/c/s/thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/amp/"
+    type: article
+    provider:
+      name: thegoaspotlight
+      domain: thegoaspotlight.com
+    quality: 67
+    images:
+      - url: "https://thegoaspotlight.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
+  - title: "Blockchain, AI among fastest growing startup sub-sectors globally: report"
+    excerpt: "Other sectors like cybersecurity, edtech, cleantech, and gaming are maturing at significant rates, seeing a collective growth of 33% in Series A funding and 3% exits over the past five years."
+    publishedDateTime: 2021-09-27T07:15:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/blockchain-ai-among-fastest-growing-startup-sub-sectors-globally/article36690477.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/blockchain-ai-among-fastest-growing-startup-sub-sectors-globally/article36690477.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/blockchain-ai-among-fastest-growing-startup-sub-sectors-globally/article36690477.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 60
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/3vuxxj/article36690603.ece/ALTERNATES/LANDSCAPE_615/robot-reutersjpg"
+        width: 615
+        height: 384
+        isCached: true
+
+secured: "WTDyruoxNDSHuUlBWLKVHNea0MVW2rCi7EXgqXMuRYg2OaIDFopthSLJRkvidsy8GANgMX6OJiO5iWAiIfnqLfNYKlquN873675NSFIhU68bCCnevxcLnRUwEgt/iRjW4vntuk8BdfczQ3X6c85i/dZPQOtLNI3C6WprSbHOuY17lTW5vKbngpBxi1HFkrimhLwyO5AQtkG8bH1seae/L+acH66bHmxWTsT/cud0hFTxQ09B3n46n6HVcGZ2T56z3PaUWKSbK2F1YoQDu9d7Xg4/VDNzoideCfd9HnTawNzliAo7aOlgtLZ87scRIGNwWOPcRuQgNTKKyihMoGsO9LKM4ctTkrwpqvwYOHBBkv0=;vMAs0oxllRM8HrqXeAszJQ=="
+---
+

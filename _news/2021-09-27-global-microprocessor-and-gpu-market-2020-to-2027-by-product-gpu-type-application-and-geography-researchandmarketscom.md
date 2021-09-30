@@ -94,6 +94,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 15
+  - title: "The Worldwide Edge AI Hardware Industry is Expected to Grow at a CAGR of 17.1% from 2021 to 2026 - ResearchAndMarkets.com"
+    excerpt: "The \"Global Edge AI Hardware Market with COVID-19 Impact Analysis by Device, Processor (CPU, GPU, ASICs), End-user, Function (Training, Inference), Power (Less Than 1W, 1-3 W, 3-5 W, 5-10W, More Than 10W) and Region - Forecast to 2026\" report"
+    publishedDateTime: 2021-09-30T09:41:00Z
+    webUrl: "https://www.lelezard.com/en/news-20022824.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 14
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
+        isCached: true
   - title: "Global Laser Processing Market Research Report (2021 to 2026) - by Vertical, Configuration, Application and Region"
     excerpt: "The \"Laser Processing Market Research Report by Vertical, by Configuration, by Application, by Region - Global Forecast to 2026 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-09-29T19:24:00Z

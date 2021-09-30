@@ -57,20 +57,6 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "Modi’s speech at UN glaring contradiction to India’s abuses in IIOJK"
-    excerpt: "Indian Prime Minister Narendra Modi in his speech at the United Nations General Assembly expressed concern over threat of terrorism"
-    publishedDateTime: 2021-09-25T15:53:00Z
-    webUrl: "https://www.app.com.pk/top-news/modis-speech-at-un-glaring-contradiction-to-indias-abuses-in-iiojk/"
-    type: article
-    provider:
-      name: Associated Press of Pakistan
-      domain: app.com.pk
-    quality: 24
-    images:
-      - url: "https://www.app.com.pk/wp-content/uploads/2021/09/Dtitle.jpg"
-        width: 976
-        height: 857
-        isCached: true
 
 secured: "mGDRjz+wam20DngrFAR/ZY++MLfAD8LzaJLDT0trnZfI/+X/b9PQp93h7tF3FreD8tivKUz5ufJUeJNnrb3fztqjjnoyw6QgBZwzCcvUpprtLofuuJY7O7kQ34y8Du7+i58HewhLlGWIT/sYDtIRfXW9yV1UEjf7K2Jth26pQcXFQQ0Z9X8jueNHB41qWAWYsU5Lc8CEgCQBO7q0TaEKmC6j0ndkmsvAGOWrlGmQ7ObUOgNZGJlOw1fh5cmBbEa7aJIMqULa6yDK/IzeveZuirKsEJMkLqx52aPyR3nHk20LLSVYs86P3DgeRYv14ZaGuCT86mheowRRkZYY/NKbTsc9nj/DJ0yahy3og1OCsO0=;OTwoFHeUBywXkFD5Cyajzw=="
 ---

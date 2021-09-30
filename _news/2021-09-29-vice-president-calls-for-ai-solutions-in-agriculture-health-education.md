@@ -1,47 +1,27 @@
 ---
 category: news
 title: "Vice President calls for AI solutions in agriculture, health, education"
-excerpt: "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to delive.."
-publishedDateTime: 2021-09-29T06:07:00Z
-originalUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
-webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
-ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
-cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
+excerpt: "He also suggested exploring AI-based smart solutions in health such as remote diagnosis, and automatic translation of English texts to Indian languages in education. \"If such solutions can be ..."
+publishedDateTime: 2021-09-28T18:31:00Z
+originalUrl: "https://www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
+webUrl: "https://www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
+ampWebUrl: "https://www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
 type: article
-quality: 76
-heat: 126
+quality: 56
+heat: 96
 published: true
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - Natural Language Processing
   - AI
   - AI in Education
 
-images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-86606103,imgsize-21820,width-800,height-434,overlay-etcio/vice-president-calls-for-ai-solutions-in-agriculture-health-education.jpg"
-    width: 800
-    height: 434
-    isCached: true
-
 related:
-  - title: "How to Transfer Fundamental AI Advances into Practical Solutions for Healthcare"
-    excerpt: "In this special guest feature, Dave DeCaprio, CTO and Co-founder, ClosedLoop.ai, discusses what it really takes to make AI that physicians trust. There are significant challenges that go beyond the algorithms when applying AI to healthcare."
-    publishedDateTime: 2021-09-29T13:00:00Z
-    webUrl: "https://insidebigdata.com/2021/09/29/how-to-transfer-fundamental-ai-advances-into-practical-solutions-for-healthcare/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 52
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2020/03/IBD_PNYWPCover2020-03-16_8-53-21.jpg"
-        width: 252
-        height: 355
-        isCached: true
   - title: "Vice President Naidu calls for people-centric Artificial Intelligence solutions in agriculture, health, education sectors"
     excerpt: "Vice President Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence AI to deliver benefits to"
     publishedDateTime: 2021-09-29T16:24:00Z
@@ -99,6 +79,6 @@ related:
         height: 563
         isCached: true
 
-secured: "Y70Kv9kztXoMGaTbJk05qjd9yxp//j7Rk9HwirOPczhjGKbLuAFUvfCXCVdnTD6qogJ1FM68+K2Or0bsk/3qHs0xYjVGSPYl3IGBzHZS4xmjtEm7FjqGlxNcWnkjb3RP8wnMX0sgvEYl20M8shjP+/DaUmIKU4jx4iocW09zP6Mbns2ile3OyiwaTplq9QAXYvWV+cENp0Kzd3V7yVbOi4eWpU340l1ee3Sfj/BPxH/11mYfY7lLtD8Uxo9bvh0hkCixyVlTcr2H7N15A+RBoMJmOvV1MltJXbbL4UMiKZUDEtkPmht4SkIaF8s0ycHe4HZgyc6iBaOnNu7xlP2TbjdBEpK75Vv54L5l9j96mus=;Cs6sj2RfiIw55JZXitK9mQ=="
+secured: "TqSDPHaewjjQg5B1xziPqJkms2BpWj+gmoZCRUMFgGTWPRBLqV6dQ5A0LAgh+umJ+0m6YZbZrMcUGFKeWx1/c+ZqUbuG/jqlqb1Xvetx1xt7p8+uIN23j2VmE/h8uWLUKIqTHPuutLZ82dRyzu8glK3LyNjNzI5PpK22dQg8EUY2n4cGvXu3TG2nPtrFFsDFn4kuY9BeGFSgy6B6P6GaSQAuTTH1a60IWmgztuadbQcY5NMwCV2VaVa2VpJlr/ksRDzGJetAkgtEgDzbd4/7Y9ueZFmQIW606ISuPYrRR6IqgZmCFIZEUhFdynBdT18lr5z3nWXj489RSBAmcy/KQsieaclPxAziuTSHn8SuSng=;RFvACTk3VA9QgOS29deMXQ=="
 ---
 

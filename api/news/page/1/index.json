@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-30-honda-reveals-evtol-plans-future-robots-and-dreams-of-helping-colonize-the-moon.md",
+      "title": "Honda reveals eVTOL plans, future robots and dreams of helping colonize the moon",
+      "excerpt": "These are some big time aspirations from the carmaker, but it's all part of a plan to tackle other issues beyond traditional transportation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/honda-evtol-robots-colonize-moon/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/honda-evtol-robots-colonize-moon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/lcRp-47lWgWxs2fqLwA9_Lom8Yo=/2021/09/29/ad56b966-12bb-4145-bbbb-0826ab7721d3/ogi-honda.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/honda-evtol-robots-colonize-moon/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-evtol-robots-colonize-moon/",
+      "publishedDateTime": "2021-09-30T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-aws-releases-new-container-monitoring-service.md",
       "title": "AWS Releases New Container Monitoring Service",
       "excerpt": "Amazon Managed Service for Prometheus is fully compatible with open-source Prometheus and provides the same familiar time series data model.",
@@ -236,7 +288,7 @@
       "originalUrl": "https://www.zdnet.com/article/legal-framework-for-artificial-intelligence-advances-in-brazil/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -633,7 +685,7 @@
       "originalUrl": "https://blog.google/products/search/how-ai-making-information-more-useful/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -685,7 +737,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/29/ai-artificial-intelligence-poised-to-transform-the-massive-construction-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1164,57 +1216,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-ai-powered-document-processing-platform-zuva-raises-20m.md",
-      "title": "AI-powered document processing platform Zuva raises $20M",
-      "excerpt": "Zuva, an AI-powered document processing platform, today announced that it closed a $20 million series A funding round led by New York-based Insight Partners. The company says that",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/29/ai-powered-document-processing-platform-zuva-raises-20m/",
-      "originalUrl": "https://venturebeat.com/2021/09/29/ai-powered-document-processing-platform-zuva-raises-20m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/29/ai-powered-document-processing-platform-zuva-raises-20m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/ai-powered-document-processing-platform-zuva-raises-20m/amp/",
-      "publishedDateTime": "2021-09-29T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

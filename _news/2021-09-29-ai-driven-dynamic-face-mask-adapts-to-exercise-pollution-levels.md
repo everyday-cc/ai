@@ -1,27 +1,28 @@
 ---
 category: news
 title: "AI-driven dynamic face mask adapts to exercise, pollution levels"
-excerpt: "During the coronavirus pandemic, many people have grown accustomed to wearing face masks to protect themselves and others, but that doesn’t mean the masks are always comfortable — especially during exercise."
-publishedDateTime: 2021-09-29T12:05:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/929507"
-webUrl: "https://www.eurekalert.org/news-releases/929507"
+excerpt: "During the coronavirus pandemic, many people have grown accustomed to wearing face masks to protect themselves and others, but that doesn't mean the masks are always comfortable—especially during exercise."
+publishedDateTime: 2021-09-29T12:00:00Z
+originalUrl: "https://phys.org/news/2021-09-ai-driven-dynamic-mask-pollution.html"
+webUrl: "https://phys.org/news/2021-09-ai-driven-dynamic-mask-pollution.html"
+ampWebUrl: "https://phys.org/news/2021-09-ai-driven-dynamic-mask-pollution.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-09-ai-driven-dynamic-mask-pollution.amp"
 type: article
-quality: 39
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
-  - AI Hardware
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c9c0061c-0bae-4399-9d78-c89af9de2f14/Rendition/thumbnail/Content/Public"
-    width: 251
-    height: 300
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-driven-dynamic-face.jpg"
+    width: 2880
+    height: 3449
     isCached: true
 
 related:
@@ -41,6 +42,31 @@ related:
         width: 777
         height: 930
         isCached: true
+  - title: "AI-driven dynamic face mask adapts to exercise, pollution levels"
+    excerpt: "Researchers have developed a dynamic respirator that modulates its pore size in response to changing conditions, such as exercise or air pollution levels, allowing the wearer to breathe easier when the highest levels of filtration are not required."
+    publishedDateTime: 2021-09-29T17:51:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/09/210929080258.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
+  - title: "Researchers Develops AI-Driven Dynamic Face Mask To Adapt To Exercise And Pollution Levels"
+    excerpt: "The COVID-19 with its effect on the global populace had a lot of people the adorning facemasks to protect them"
+    publishedDateTime: 2021-09-30T06:30:00Z
+    webUrl: "https://techbooky.com/researchers-develops-ai-driven-dynamic-face-mask-to-adapt-to-exercise-and-pollution-levels/"
+    ampWebUrl: "https://techbooky.com/researchers-develops-ai-driven-dynamic-face-mask-to-adapt-to-exercise-and-pollution-levels/?amp=1"
+    cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/researchers-develops-ai-driven-dynamic-face-mask-to-adapt-to-exercise-and-pollution-levels/?amp=1"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 49
+    images:
+      - url: "https://techbooky.com/wp-content/uploads/2021/09/AI-Driven-Dynamic-Face-Mask.jpg"
+        width: 1804
+        height: 2160
+        isCached: true
   - title: "AI-driven dynamic nanofiber face mask adapts to exercise, pollution levels"
     excerpt: "Reseaerchers have developed a dynamic respirator that modulates its pore size in response to changing conditions, such as exercise or air pollution levels, allowing the wearer to breathe easier when the highest levels of filtration are not required."
     publishedDateTime: 2021-09-29T12:23:00Z
@@ -56,6 +82,6 @@ related:
         height: 338
         isCached: true
 
-secured: "KcbanYtbe1ptD09ZPhLT3I1ySgvC80bQWEx6QArZyBjVotyINjIT5QnveulLbvn+YkGf0KVlGIr8z+fNWZ/iEZwTTuk7UOmrhiC4Q9xN/KBsBuZ24RJIBcU7rXdaE6lGWCjWuxmP4MAmnvGQE1vxXd5G+khuXNuO+0i3vC6A3kLz32SdjC/4bT1e1PGVJJk9V0KhyEg/HPw2qdczSCh2BmJbz6hQuk+HFql7nGdGuMCe340RxbPiVd1LcLCut1XaN/iJwOhLMI5EevjQasX2EULlrTn8+fuKYReFl39yBkGHowggXr3Vn85849zK5k+VHeo0QQ4tpr9HWm4BX1Rk0Ih732bpIlimu8wgYMJLLFA=;iQ1uVncEIKeFY9ZDzWFm/Q=="
+secured: "bjGMUdxFgAwIUbOZ+vsRZZUX+MUz3S5TMIA7+25ARD+AH1BuH+IOFrMgwpj87q7wO0ybGA4gg3+fWWakbgncwPgb7BKFMmZe44eXCVvflvHvY15lzyJD+oKWRT1kDopaqJB5wDap+BvWcKuVjNxEtUo0FLLmi2/6Uu1qEZZKxhF0evt+sjE5+ZRIrnAxZFMjFWkylVfBeXmo4oLv9Gr5iSCd0JP9PAhQ7tIbD+lWztye0McFe3mKEP3qQjS4Zt1u10dNPUgvF8Vti5rhD/jftJh2FZbGhsBxYcNgzJlbRnR/GC2bZcveA9k+AMupgOZZM6zKn4o2jIgx0gGIhJVw6H/oHzJRQr10gOhotCkHxjU=;dx8AAbmdlnBTGlfL7ATxXA=="
 ---
 

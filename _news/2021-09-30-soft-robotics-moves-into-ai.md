@@ -25,34 +25,60 @@ images:
     isCached: true
 
 related:
-  - title: "We are sleepwalking into AI-augmented work"
-    excerpt: "The narrative that AI won't take our jobs but will instead magically make human work more fulfilling is a dangerous myth."
-    publishedDateTime: 2021-09-25T15:40:00Z
-    webUrl: "https://venturebeat.com/2021/09/25/we-are-sleepwalking-into-ai-augmented-work/"
-    ampWebUrl: "https://venturebeat.com/2021/09/25/we-are-sleepwalking-into-ai-augmented-work/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/25/we-are-sleepwalking-into-ai-augmented-work/amp/"
+  - title: "Are AI and Robotics Good Investments?"
+    excerpt: "It is expected that the robotics market will grow by over $150 billion US dollars by 2025, and that is not only down to growth in commercial use, but it is also anticipated that robotics will become a more integral part of our everyday lives."
+    publishedDateTime: 2021-09-27T15:20:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-robotics-good-investments-james-sanders"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 69
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/unemployment.jpg?w=1200&strip=all"
-        width: 1200
-        height: 691
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQH77ghKDP70-w/article-cover_image-shrink_600_2000/0/1632755863578?e=1638403200&v=beta&t=A58t5OOMkAvh-TmlkABJ27muW8H8czOLBQc8y627e_s"
+        width: 739
+        height: 489
         isCached: true
-  - title: "Watch out how AI and data science are making the current IPL more interesting."
-    excerpt: "Cricket and technology work hand in hand. The IPL 2021 is also boosted by AI and data science. Check out how AI and data science are making the current IPL more interesting."
-    publishedDateTime: 2021-09-26T08:30:00Z
-    webUrl: "https://www.analyticsinsight.net/how-can-ai-and-data-science-make-ipl-2021-more-interesting/"
+  - title: "Artificial intelligence-based security service receives investment"
+    excerpt: "Eyedius, which provides artificial intelligence supported alarm and proactive security services by using the existing security cameras of the users, has completed its new investment round that will accelerate its growth in Turkey and the global market."
+    publishedDateTime: 2021-09-27T09:04:00Z
+    webUrl: "https://www.bthaber.com/artificial-intelligence-based-security-service-receives-investment/"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 35
+      name: bthaber.com
+      domain: bthaber.com
+    quality: 54
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/How-Can-AI-and-Data-Science-Make-IPL-2021-More-Interesting.jpg"
-        width: 900
+      - url: "https://www.bthaber.com/wp-content/uploads/2021/09/SiberGuvenlik01.jpg"
+        width: 800
+        height: 480
+        isCached: true
+  - title: "Tech leaders plan large AI investment, but adoption woes remain"
+    excerpt: "Four in 10 technology decision-makers say emerging AI applications are still under development, a Gartner survey found."
+    publishedDateTime: 2021-09-29T07:47:00Z
+    webUrl: "https://www.ciodive.com/news/AI-budgets-2022-gartner/607320/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 37
+    images:
+      - url: "https://www.ciodive.com/user_media/cache/9a/ea/9aea78894e609e11cd5d472cbea4d079.jpg"
+        width: 770
+        height: 364
+        isCached: true
+  - title: "Venture capital investments in artificial intelligence"
+    excerpt: "New analysis of global investments by venture capitalists (VC) in private companies focused on artificial intelligence (AI) found VC investments in AI to be growing at a dramatic pace. The United States and the People’s Republic of China are"
+    publishedDateTime: 2021-09-30T05:41:00Z
+    webUrl: "https://www.oecd.org/publications/venture-capital-investments-in-artificial-intelligence-f97beae7-en.htm"
+    type: article
+    provider:
+      name: OECD
+      domain: oecd.org
+    quality: 37
+    images:
+      - url: "https://assets.oecdcode.org/covers/1000~social/g27270fa.jpg"
+        width: 1000
         height: 500
         isCached: true
 

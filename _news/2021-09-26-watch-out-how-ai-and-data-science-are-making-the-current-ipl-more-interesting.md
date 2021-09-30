@@ -25,35 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "We are sleepwalking into AI-augmented work"
-    excerpt: "The narrative that AI won't take our jobs but will instead magically make human work more fulfilling is a dangerous myth."
-    publishedDateTime: 2021-09-25T15:40:00Z
-    webUrl: "https://venturebeat.com/2021/09/25/we-are-sleepwalking-into-ai-augmented-work/"
-    ampWebUrl: "https://venturebeat.com/2021/09/25/we-are-sleepwalking-into-ai-augmented-work/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/25/we-are-sleepwalking-into-ai-augmented-work/amp/"
+  - title: "How AI is making information more useful"
+    excerpt: "Today, there’s more information accessible at people’s fingertips than at any point in human history. And advances in artificial intelligence will radically transform the way we use that information, with the ability to uncover new insights that can help us both in our daily lives and in the ways we"
+    publishedDateTime: 2021-09-29T17:45:00Z
+    webUrl: "https://blog.google/products/search/how-ai-making-information-more-useful/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Google
+      domain: blog.google
     quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/unemployment.jpg?w=1200&strip=all"
-        width: 1200
-        height: 691
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/search_on.max-1300x1300.jpg"
+        width: 1300
+        height: 733
         isCached: true
-  - title: "Soft Robotics Moves into AI"
-    excerpt: "Exclusive - Technologies from Soft Robotics are on display across the show floor on robotic systems at BCA (Booth SU-7155/7156), Fanuc (Booth C-1441), Harpak-Ulma (Boot"
-    publishedDateTime: 2021-09-29T18:00:00Z
-    webUrl: "https://www.packworld.com/PACKEXPO/article/21735125/soft-robotics-moves-into-ai"
+  - title: "How AI is transforming the world of finance"
+    excerpt: "From barter to paper currency to plastic money to contactless cards, the world of payments has come a long way. AI promises to usher in a new world of frictionless and seamless payments"
+    publishedDateTime: 2021-09-29T05:48:00Z
+    webUrl: "https://www.forbesindia.com/blog/technology/how-ai-is-transforming-the-world-of-finance/"
     type: article
     provider:
-      name: Packaging World
-      domain: packworld.com
-    quality: 69
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 56
     images:
-      - url: "https://img.packworld.com/files/base/pmmi/all/image/2021/09/Soft_Robotics.614bb12ec3cc1.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 443
-        height: 613
+      - url: "https://www.forbesindia.com/blog/wp-content/uploads/2021/09/AI-Fintech.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Kore.ai raises $50M for its AI-powered experience optimization platform"
+    excerpt: "Startup Kore.ai Inc. today announced that it has raised a $50 million funding round led by Vistara Growth and PNC to fuel the growth of its software platform, which helps companies build artificial intelligence assistants to automate repetitive business tasks."
+    publishedDateTime: 2021-09-29T20:45:00Z
+    webUrl: "https://siliconangle.com/2021/09/29/kore-ai-raises-50m-ai-powered-experience-optimization-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/image-7.png"
+        width: 932
+        height: 517
+        isCached: true
+  - title: "2nd Annual Artificial Intelligence for Information Accessibility Conference highlights the International Day for Universal Access to Information"
+    excerpt: "Recognised annually on the 28th of September, this year's themes of the the International Day for Universal Access to Information (IDUAI) are “What We Know about our Right to Know” and \"The Right to Know - Building Back Better with Access to Information\"."
+    publishedDateTime: 2021-09-28T12:35:00Z
+    webUrl: "https://www.pressreleasepoint.com/2nd-annual-artificial-intelligence-information-accessibility-conference-highlights-international-day"
+    type: article
+    provider:
+      name: KLAS Press Release
+      domain: pressreleasepoint.com
+    quality: 2
+    images:
+      - url: "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png"
+        width: 256
+        height: 256
         isCached: true
 
 secured: "vFCA9ZW/YXjVMFJhvbIO1utDxaRf3wID/P3shtNhbVA/FABXHnvUovZMNOiSWOCL/EdCsf+bkUayLXFQrohuq0iOdUw0yrUczSXilCSrH8DZigPIxIJnRMiNq1utSR92YQqEmnAkrEXAfYqy2sd+S6AKxdaotd69x2QDso6PrSI13VHxLN0+KM5/afvVV//vmlD6fL42WuFNnWw7DCoe8mcmHIb1YSU/FJhb1Sm2m9zIcMcYV/tufU6C5T495f+SnUdvn3lbCSvaxL61zHcUW8Fu7Z5L1jsUx0XAZVTmYx5pKHe7/lDML00Dy5PBgwRyllmiLcH5tX+KWemL73pxwTXbJz25S3ayNZIudhwkxhC2QDpG+NpkESx2lwdNw3aoKrsIIAiE1oA1eRB9qxKT4sKeH9etaV9CVH+I7U4K9FDCuAoIaJEi/fyanpe+UAfE5lZvHfNtsFSbXmQmMdlcIhP3dAb5+N487WGQh22WQfQxfgFMN8v/0fKZDv/p8mlVpI3riaJKNyEz2k8hq2xkwg==;bQwFsR4arwRB1BCciYlb/w=="

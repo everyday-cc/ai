@@ -851,34 +851,34 @@
     {
       "path": "_news/2021-09-16-heart-to-heart-hospice-receives-medalogix-muse-trailblazer-award-for-adopting-machine-learning-technology.md",
       "title": "Heart to Heart Hospice Receives Medalogix Muse Trailblazer Award for Adopting Machine Learning Technology",
-      "excerpt": "Medalogix ( a premiere health-tech company using machine learning to advance patient care within home health, palliative, and hospice care settings, has partnered with Homecare Homebase SM (HCHB) to announce Heart to Heart Hospice as the winner of the Medalogix Muse Trailblazer Award.",
+      "excerpt": "Medalogix (  a premiere health-tech company using machine learning to advance patient care within home health, palliative, and hospice care settings, has partnered with Homecare HomebaseSM (HCHB) to announce Heart to Heart Hospice as the winner of the Medalogix Muse Trailblazer Award.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/heart-to-heart-hospice-receives-medalogix-muse-trailblazer-award-for-adopting-machine-learning-technology-1030804160",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/heart-to-heart-hospice-receives-medalogix-muse-trailblazer-award-for-adopting-machine-learning-technology-1030804160",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-health-texas-dallas-8d1aafeaba43856a011f9e8c010650a4",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-health-texas-dallas-8d1aafeaba43856a011f9e8c010650a4",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-16T04:19:00-07:00",
+      "publishedDateTime": "2021-09-16T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

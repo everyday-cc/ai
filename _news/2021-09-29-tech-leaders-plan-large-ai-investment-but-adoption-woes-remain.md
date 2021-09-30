@@ -38,6 +38,20 @@ related:
         width: 739
         height: 489
         isCached: true
+  - title: "Soft Robotics Moves into AI"
+    excerpt: "Exclusive - Technologies from Soft Robotics are on display across the show floor on robotic systems at BCA (Booth SU-7155/7156), Fanuc (Booth C-1441), Harpak-Ulma (Boot"
+    publishedDateTime: 2021-09-29T18:00:00Z
+    webUrl: "https://www.packworld.com/PACKEXPO/article/21735125/soft-robotics-moves-into-ai"
+    type: article
+    provider:
+      name: Packaging World
+      domain: packworld.com
+    quality: 69
+    images:
+      - url: "https://img.packworld.com/files/base/pmmi/all/image/2021/09/Soft_Robotics.614bb12ec3cc1.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 443
+        height: 613
+        isCached: true
   - title: "Artificial intelligence-based security service receives investment"
     excerpt: "Eyedius, which provides artificial intelligence supported alarm and proactive security services by using the existing security cameras of the users, has completed its new investment round that will accelerate its growth in Turkey and the global market."
     publishedDateTime: 2021-09-27T09:04:00Z

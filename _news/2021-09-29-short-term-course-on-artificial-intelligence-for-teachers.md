@@ -39,18 +39,18 @@ related:
         height: 420
         isCached: true
   - title: "Short Term Course on Artificial Intelligence for Teachers commences with great zeal & enthusiasm at MIT Centre for Future Skills Excellence"
-    excerpt: "MIT Centre for Future Skills Excellence (MIT FuSE) and MIT School of Education & Research - MIT Art, Design and Technology"
-    publishedDateTime: 2021-09-29T15:23:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/short-term-course-on-artificial-intelligence-for-teachers-commences-with-great-zeal-amp-enthusiasm-at-mit-centre-for-future-skills-excellence-889509829.html"
+    excerpt: "MIT Centre for Future Skills Excellence (MIT FuSE) and MIT School of Education & Research - MIT Art, Design and Technology University, continues with its endeavour to train school teachers on Artificial Intelligence in Education with its exclusive Short Term Course on Artificial Intelligence for teachers."
+    publishedDateTime: 2021-09-29T05:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-short-term-course-artificial-intelligence-teachers-commences-with-/2021/09/29/9458565.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 3
     images:
-      - url: "https://mma.prnewswire.com/media/1638403/STC_Inaugural.jpg?p=facebook"
-        width: 2700
-        height: 1413
+      - url: "https://mma.prnewswire.com/media/1638403/STC_Inaugural.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "fcR91B22Sf8V/tNAGVfGYll3fN/Mpt/R5Q4kMt+RdH208/yzyti+7eoYjEs55qLxQtWERPVSEUE4o/PouZl/0Xqq84eXwx8fi6GKLGx/yYY8E510tCdIG5dz3T9hRWm1SZinqFqdJgLdxTUJpsnRgjcmMVBnEyBd3KbIHBQO7UIH+wdi+vBlHskofBIMQvdYdxd9pXpgT9VXnvBMjq4k3JhC4FNryaKb8RJNVf7yQuZKzf7c0fTAyFTUpmxH1oRmoi3IuFta15aNCGj2N6NjXO4rk6ueROUIiL0ENNEk0NAeBDrfHSFhsPU27th6Tg5uB/z2odz3rgpqZivMN399SNx2e+Zki3yIYWH8qQkjJmhqyPNxzd76M6JARU2phGfPL3Jof3mGLwfhbrGTzEfzbZkmzNYw/sJ8PpmWE7PuPq4Ncfok3846xQuzBq/y9V6dB5Fcstwo63LWAL0Tm1zpHbAzgnZsBOwoYj+1JroUFPysOLTENeyQs+4I5lqH/ZcWjs6e/9J+OLHdYl90dVgrDA==;C0GwjwNlnSWySq+WsnWEmg=="

@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1102884604/Scope-of-AI-Deep-Learning-and-Neural
 webUrl: "https://menafn.com/1102884604/Scope-of-AI-Deep-Learning-and-Neural-Network-2021-Market-Research-Report"
 type: article
 quality: 67
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -80,6 +80,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 15
+  - title: "The Worldwide Edge AI Hardware Industry is Expected to Grow at a CAGR of 17.1% from 2021 to 2026 - ResearchAndMarkets.com"
+    excerpt: "The \"Global Edge AI Hardware Market with COVID-19 Impact Analysis by Device, Processor (CPU, GPU, ASICs), End-user, Function (Training, Inference), Power (Less Than 1W, 1-3 W, 3-5 W, 5-10W, More Than 10W) and Region - Forecast to 2026\" report"
+    publishedDateTime: 2021-09-30T09:41:00Z
+    webUrl: "https://www.lelezard.com/en/news-20022824.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 14
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
+        isCached: true
   - title: "Global Microprocessor and GPU Market (2020 to 2027) - by Product, GPU Type, Application and Geography - ResearchAndMarkets.com"
     excerpt: "The Microprocessor and GPU Market is anticipated to grow at the rate of 6.2% CAGR by 2027. The microprocessor is also known as the control processing unit of a computer system that executes arithmetic and logic operations,"
     publishedDateTime: 2021-09-27T10:47:00Z

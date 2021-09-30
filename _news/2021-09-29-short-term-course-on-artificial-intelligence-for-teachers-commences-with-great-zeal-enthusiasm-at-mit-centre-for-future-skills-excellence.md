@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Short Term Course on Artificial Intelligence for Teachers commences with great zeal & enthusiasm at MIT Centre for Future Skills Excellence"
-excerpt: "MIT Centre for Future Skills Excellence (MIT FuSE) and MIT School of Education & Research - MIT Art, Design and Technology"
-publishedDateTime: 2021-09-29T15:23:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/short-term-course-on-artificial-intelligence-for-teachers-commences-with-great-zeal-amp-enthusiasm-at-mit-centre-for-future-skills-excellence-889509829.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/short-term-course-on-artificial-intelligence-for-teachers-commences-with-great-zeal-amp-enthusiasm-at-mit-centre-for-future-skills-excellence-889509829.html"
+excerpt: "MIT Centre for Future Skills Excellence (MIT FuSE) and MIT School of Education & Research - MIT Art, Design and Technology University, continues with its endeavour to train school teachers on Artificial Intelligence in Education with its exclusive Short Term Course on Artificial Intelligence for teachers."
+publishedDateTime: 2021-09-29T05:56:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-short-term-course-artificial-intelligence-teachers-commences-with-/2021/09/29/9458565.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-short-term-course-artificial-intelligence-teachers-commences-with-/2021/09/29/9458565.htm"
 type: article
 quality: 3
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1638403/STC_Inaugural.jpg?p=facebook"
-    width: 2700
-    height: 1413
+  - url: "https://mma.prnewswire.com/media/1638403/STC_Inaugural.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -53,6 +53,6 @@ related:
         height: 420
         isCached: true
 
-secured: "0cjlOlZTC/2wHfhWRfv4h9SqOeJFbDnGf/dECE+oBDv4OfSTCEOM6Sk3KeVB6BQ1ruEqYTh5jdv7AZcb42KgofWRHDk5Mns39BdjYWV2JRAqPeGTKh4ezITnZF3SVz+43CwpMAnZZ0dBoyEJNveEct43xNBoFUOkei36otutZTR5BokZETU2MKQaNYmKOGybAbBTxdJ+enskL+MELoXERtg9awo2ANwjOLwL5up8GtTMaNeUAukN0+cXNFQ0Ha1NNwn//c5ogHnhqS3g8AJkE+qIDLgYE64tnSEbyOu60TEhjxkXZaqS4np3VBOIr3MFHq1Fi9d2i2u2jkWyDpzObn0XO5d7hqu66/O6Y7Tu9vuq9l9Odext4ofEqp7qFud1MWbuFX+6Q6hECuaKuCyhJ4XH5LNCP5MsbHmvVJzaTezo3oKxCxQ3BHdpk5CMP8KAynVtk6TPRTcgTGNiDHP+iNa3169K7/uoNOyE054/iqwLXbqtCMFQZAqLikO88E6SWSWN3/jEAyNQ54vqZndOcw==;a2bniFNcFUDbgyAypOkNPg=="
+secured: "ny36WBdNGp962ldoDE1DS1bSj4oae9O7nywbhay+FwVLvbHUSQvRWD1TQwIpuIa2MlZe+jTK8uR2QpNMISd5s+s35tNKWBnUDvHuL7NnqGIOrncKmuEZX04kbXhZRgCzG3bML/vFJb1Jf70srZeoIks6OzJABhuaLC3SOGeSHT4pqQTQNA2QQmmXoNXmwIB8jALNo5I3qaaIutdYa4gQ4hAwnLvg0QDdfh2tOvF7wjkiVPLrSP4gsqKSxqKjFHhpAkC4moidhkJLh8+BfbmtHsgGIS/QpSkcbWvuchmE7edwGTmnLpbJi8N2eHapu5jhaut23y+fMLy/T+RJOJlKu5kaliUahYVFjI393do4w2c=;8tsHBTutGLM38S/BsFGOsg=="
 ---
 

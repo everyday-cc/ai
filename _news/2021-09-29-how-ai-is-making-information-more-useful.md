@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/products/search/how-ai-making-information-more
 webUrl: "https://blog.google/products/search/how-ai-making-information-more-useful/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/image-7.png"
         width: 932
         height: 517
+        isCached: true
+  - title: "Watch out how AI and data science are making the current IPL more interesting."
+    excerpt: "Cricket and technology work hand in hand. The IPL 2021 is also boosted by AI and data science. Check out how AI and data science are making the current IPL more interesting."
+    publishedDateTime: 2021-09-26T08:30:00Z
+    webUrl: "https://www.analyticsinsight.net/how-can-ai-and-data-science-make-ipl-2021-more-interesting/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 35
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/How-Can-AI-and-Data-Science-Make-IPL-2021-More-Interesting.jpg"
+        width: 900
+        height: 500
         isCached: true
   - title: "2nd Annual Artificial Intelligence for Information Accessibility Conference highlights the International Day for Universal Access to Information"
     excerpt: "Recognised annually on the 28th of September, this year's themes of the the International Day for Universal Access to Information (IDUAI) are “What We Know about our Right to Know” and \"The Right to Know - Building Back Better with Access to Information\"."

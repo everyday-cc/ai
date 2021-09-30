@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 828
         isCached: true
-  - title: "AI adoption in the ETF industry begins to grow"
-    excerpt: "Industry figures are divided on whether the systems can truly remove human bias and how much supervision they need"
-    publishedDateTime: 2021-09-25T16:00:00Z
-    webUrl: "https://www.ft.com/content/775c9361-4921-4e72-973e-d672d8a60084"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6bf94666-f096-4ca6-a793-781625785692.jpg?source=next-opengraph&fit=scale-down&width=900"
-        width: 900
-        height: 506
-        isCached: true
 
 secured: "ssguwy0WlX6YjrIvVfWM2zSawu8bX+EdhLmMfz7HiOyK3hsAGjgomOiIIR2/hYofEMa1O7FxPeqzeWvuYAF9gYk03+ZzIoF2IpHipzhxtBu5ChtdBz7qL34Dzf+QQ5tdhLDJJXMojd8Mn2UoZQ1JRa7RYu4UD2fAyNABOM7l+MTCFqiekW7kfi/f0YKnsBihO8DsVasZrj1TQ1EjmvMbSgvDe1JGyvGZ97V9mLZ6XdkrGpXDCXiGN7j9ITqgyRXEjrRdwQGSfqBoxqMCTQkLr0DDHGvsOzEMVabHAmkn/unu4lwtl7lEFbyn8TSfaqk8NvQ0rNbkWIFj0RVQQUG9o3YhNo4GzR8mk+Gxn2coYZ8=;HyGcvhNCv6rTLMVbLFZpvg=="
 ---

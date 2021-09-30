@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Heart to Heart Hospice Receives Medalogix Muse Trailblazer Award for Adopting Machine Learning Technology"
-excerpt: "Medalogix ( a premiere health-tech company using machine learning to advance patient care within home health, palliative, and hospice care settings, has partnered with Homecare Homebase SM (HCHB) to announce Heart to Heart Hospice as the winner of the Medalogix Muse Trailblazer Award."
-publishedDateTime: 2021-09-16T11:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/heart-to-heart-hospice-receives-medalogix-muse-trailblazer-award-for-adopting-machine-learning-technology-1030804160"
-webUrl: "https://markets.businessinsider.com/news/stocks/heart-to-heart-hospice-receives-medalogix-muse-trailblazer-award-for-adopting-machine-learning-technology-1030804160"
+excerpt: "Medalogix (  a premiere health-tech company using machine learning to advance patient care within home health, palliative, and hospice care settings, has partnered with Homecare HomebaseSM (HCHB) to announce Heart to Heart Hospice as the winner of the Medalogix Muse Trailblazer Award."
+publishedDateTime: 2021-09-16T11:00:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-texas-dallas-8d1aafeaba43856a011f9e8c010650a4"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-texas-dallas-8d1aafeaba43856a011f9e8c010650a4"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-secured: "Xd2kmz5Al1xmQLTpaBCAGivoo5MwcnRcgpO2aDXoLQ71yiv6AlANKG9uor3ARuKWgzJm6192h9boldZ84aKosJ0mYKFTVZuvmp7Nk9LfgzUDtgblkiXi3sIDxXnCIhQz2aAKPCf+VnwFSV+XX9h3V8BwNlEMNHRhQx+MGdNWDVNP/Gn7LzBvK0ML1GdFbaXi1WkEd+yW+esF9OQiU2FGCDbMdq7ZA/+RoLSq9+gUDqnewlJYRJ0P76pa4DAyHzgtjIF1vtkF6UASmZKrVYBhWtsLQQ6DZNy2gXkPA3sGFoxZKjirl8PYBf79Lzywcj9b4HM4NLzjdeEqKcXxYQVHxX8joRKpVDb8l6vVRTb8u9E=;p8kwbZ7u47j1Rm5gFMMTpg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "nDgSYGa8o3cLKUsONuLhywNfY7MDfoCeuKlhfHa4o9uXXPMVSoz8705QZRPLbssokhLXDIHNdD3X0uo8hG2/tCi2yLwSmReVv7enIWypVPvo5oWxRihSqcYMz0WTGu2iPuWA+2X7LFAOpa7iakhej45gcQlvZW0VmywdQ1IlpHwMGBG/mdfQaXXyclgGAPCUXRcJw5ODlHP6seYF24C3Yn7W9EpXw2h0B9JEwo3EBU6XOg4wi+z9eFQ3Ug6V8dDKlKwATTLk+eTw87fWOJqkTZqra2NXuU6KkFPS+sAY+lOSzZkVIeCtzdztUY6bWomCf6DFfy8f3gGcT5tDFBnW9ra8+yhdsZxSHMMk/nmMsSI=;VMQtMpprVfNf3lQAM/YNtg=="
 ---
 
