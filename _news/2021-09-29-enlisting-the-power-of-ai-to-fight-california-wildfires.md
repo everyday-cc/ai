@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-09-power-ai-california-wildfires.am
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-power-ai-california-wildfires.amp"
 type: article
 quality: 57
-heat: 78
+heat: 77
 published: true
 
 provider:

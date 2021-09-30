@@ -1,29 +1,23 @@
 ---
 category: news
 title: "GrayMatter Robotics Raises $4.1M Seed Round"
-excerpt: "GrayMatter Robotics, creator of smart robotic assistants that help humans more safely and effectively do surface treatment tasks such as sanding and spraying"
-publishedDateTime: 2021-09-29T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/graymatter-robotics-raises-4-1m-seed-round/article_a8e198ac-36c0-5cea-b558-988632b8412f.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/graymatter-robotics-raises-4-1m-seed-round/article_a8e198ac-36c0-5cea-b558-988632b8412f.html"
+excerpt: "GrayMatter Robotics, creator of smart robotic assistants that help humans more safely and effectively do surface treatment tasks such as sanding and spraying on manufacturing lines, announced today that it has raised a $4."
+publishedDateTime: 2021-09-29T14:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-graymatter-robotics-raises-41m-seed-round-/2021/09/29/9459142.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-graymatter-robotics-raises-41m-seed-round-/2021/09/29/9459142.htm"
 type: article
-quality: 69
-heat: 69
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "WTokzvgdO1NZU24beicKS5MtjG+kw2YWHykx0O0N16dSUBqEZYKzNt6p4vVMPAeIANEi5McWV5/ForNrR0tdLJsM5kItXNMbjWgrQ1FZnCPH6n+abJlS/0uoG5XDHDoGCAcCrbVDF2c/ZwTixGmOIamma7Fm8QtHOpQqotpcseMyMC8jPe+6ReCJPeaizoPyBhPmlGPL0Du+l1PJb1o9n46gg4PFHa0f99VXj3/hOIT1HehijT3XkDewEpbRTmm2KhGDade8fha061cJo+qeVa1uGH2oDFfnTFOqRJtsrrzr6cKxO0+PiD5pTaUse5QjlzEnbrjcPek704btzBYFYRLyMhsYCfk9djd4cpvNgqA=;cL7tqy/QnyaT1gTCXCnHEg=="
+secured: "vewSDhrjCuXE6qc7R1TGFkIBWdUHegikHlcL0bK5kylVjtuyNtzcr+HajDXiPMlztLIOoofRIoOf4pph6Pd3hw72XcEV92bGjaqaCW3tFRoExXhhf92xoeFD+DcBw6UlOzIxwY41RzprXxJIJvZAp0v9MnpXuFW4oPvQXUoJHli3oqq8Wgams97MUBMCjVDvmW9sd0n03uLG/ZRoLajcbtyxrDOLmFvBe0f+fd4o04gGFlJ61StdvBxOuqn4DWmQDqEpndeVHYiXUiJru/zGpA/eX1jvA3AHJFT4iBeZuqQ2KlDW7TQW2HHBsQYHJHRNjxAZDDv5Qs2hBx8zHHwIjSd+F/AXcosCx4o17LGcaEQ=;38QRVFFQe6tf/krYnCCtzA=="
 ---
 

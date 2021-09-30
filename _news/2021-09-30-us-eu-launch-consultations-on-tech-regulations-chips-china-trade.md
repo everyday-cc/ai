@@ -94,6 +94,20 @@ related:
         width: 1240
         height: 827
         isCached: true
+  - title: "First U.S.- EU trade and tech meeting brings competition, chips, AI on table"
+    excerpt: "Monitoring Desk The United States and the European Union hope to discuss chip shortages, artificial intelligence (AI) and tech competition issues during the first Trade and Tech Council (TTC) meeting this week,"
+    publishedDateTime: 2021-09-28T08:29:00Z
+    webUrl: "https://thefrontierpost.com/first-u-s-eu-trade-and-tech-meeting-brings-competition-chips-ai-on-table/"
+    type: article
+    provider:
+      name: The Frontier Post
+      domain: thefrontierpost.com
+    quality: 51
+    images:
+      - url: "https://i0.wp.com/thefrontierpost.com/wp-content/uploads/2021/09/13-18.jpg?fit=959%2C539&#038;ssl=1"
+        width: 959
+        height: 539
+        isCached: true
 
 secured: "gQLjK+R1kCRJoRoM9vJwWrkWbOqCZflpSkZHRln2+wPGofZ+EW6cmLZGvDH2V7fkSMKm+kJp7057P/TpGZNDHf4ZdElGC41uJ8eVZPukMCzQ8BogDa93RDJBKWFQhuxoj8gcUPbhwuw6J5lB3YqJER6REaVzReg0GMspaJ5CocOaLiLCIA4zI9U3w6MKZfNV4agpRG8tN50O5OyV5Lypojdm5u9Wywkz6QjYgEfjlnqTNqoau+LvVEqqCpYaL2pOUm9POqqe/x3BMsRWdE6JfJu2LL8JO6/pb7EqnQY0TNW1h7PLl1aInHEneKaa3F4/y9Mp0u4aamlR1hULIgKKZnPSHIgkeHCjCgTRWLYNP4Q=;beeIHHueAisr9itfEBSbPA=="
 ---

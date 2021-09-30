@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/tech-recruiting-startup-andela-rais
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-recruiting-startup-andela-raises-200-million-in-round-led-by-softbank-11632913202"
 type: article
 quality: 85
-heat: 96
+heat: 95
 published: true
 
 provider:

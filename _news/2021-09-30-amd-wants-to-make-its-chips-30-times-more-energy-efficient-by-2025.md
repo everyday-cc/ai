@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91485-amd-wants-make-chips-30-time
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91485-amd-wants-make-chips-30-times-more-energy.html"
 type: article
 quality: 89
-heat: 99
+heat: 101
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/29/tonic-ai-which-taps-ai-to-generat
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/tonic-ai-which-taps-ai-to-generate-synthetic-tabular-data-raises-35m/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 99
 published: true
 
 provider:
