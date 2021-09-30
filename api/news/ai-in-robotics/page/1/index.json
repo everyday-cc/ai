@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-30-top-three-trends-in-robotics-the-cambrian-explosion-is-happening.md",
+      "title": "Top Three Trends In Robotics: The Cambrian Explosion Is Happening",
+      "excerpt": "As more infrastructure is being architected, different schools of thought are emerging. Proponents of a particular school have their own world view on how robots will become ubiquitous and help mankind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/30/top-three-trends-in-robotics-the-cambrian-explosion-is-happening/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/30/top-three-trends-in-robotics-the-cambrian-explosion-is-happening/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609a9c1bf4942207102ea502%2F0x0.jpg%3FcropX1%3D628%26cropX2%3D4001%26cropY1%3D0%26cropY2%3D2250",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/30/top-three-trends-in-robotics-the-cambrian-explosion-is-happening/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/09/30/top-three-trends-in-robotics-the-cambrian-explosion-is-happening/amp/",
+      "publishedDateTime": "2021-09-30T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-honda-reveals-evtol-plans-future-robots-and-dreams-of-helping-colonize-the-moon.md",
       "title": "Honda reveals eVTOL plans, future robots and dreams of helping colonize the moon",
       "excerpt": "These are some big time aspirations from the carmaker, but it's all part of a plan to tackle other issues beyond traditional transportation.",
@@ -98,21 +150,21 @@
       ]
     },
     {
-      "path": "_news/2021-09-29-amazon-astro-could-be-the-robot-weve-been-waiting-for.md",
-      "title": "Amazon Astro could be the robot we've been waiting for",
-      "excerpt": "Inspired by science fiction, cute as a button, capable and smart -- Amazon's $1,000 home robot Astro is here to help.",
+      "path": "_news/2021-09-29-graymatter-robotics-raises-41m-seed-round.md",
+      "title": "GrayMatter Robotics Raises $4.1M Seed Round",
+      "excerpt": "GrayMatter Robotics, creator of smart robotic assistants that help humans more safely and effectively do surface treatment tasks such as sanding and spraying",
       "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/home/smart-home/amazon-astro-could-be-the-robot-weve-been-waiting-for/",
-      "originalUrl": "https://www.cnet.com/home/smart-home/amazon-astro-could-be-the-robot-weve-been-waiting-for/",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/graymatter-robotics-raises-4-1m-seed-round/article_a8e198ac-36c0-5cea-b558-988632b8412f.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/graymatter-robotics-raises-4-1m-seed-round/article_a8e198ac-36c0-5cea-b558-988632b8412f.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 294,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://www.cnet.com/a/img/1apgttjzwvxskXvt2B8u4qNGCmo=/0x38:2300x1330/1200x630/2021/09/28/4fc6682b-c610-466c-a707-cc906c33fdc5/astro.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -120,23 +172,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-astro-could-be-the-robot-weve-been-waiting-for/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-astro-could-be-the-robot-weve-been-waiting-for/",
-      "publishedDateTime": "2021-09-28T13:43:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-29T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -194,21 +237,21 @@
       ]
     },
     {
-      "path": "_news/2021-09-29-why-amazon-built-a-home-robot.md",
-      "title": "Why Amazon built a home robot",
-      "excerpt": "Robot’s CEO once told me, with a wink, that he didn’t become a truly successful roboticist until he became a vacuum salesman. It’s a good line, and one that betrays some fundamental truths about the industry.",
+      "path": "_news/2021-09-29-amazon-announces-astro-the-home-robot.md",
+      "title": "Amazon announces Astro the home robot",
+      "excerpt": "Amazon is launching Astro, its first household robot, powered by its Alexa smart home technology. The company said it can be remote-controlled when not at home, to check on pets, people, or home security.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/28/why-amazon-built-a-home-robot/",
-      "originalUrl": "https://techcrunch.com/2021/09/28/why-amazon-built-a-home-robot/",
+      "webUrl": "https://www.bbc.com/news/technology-58727057",
+      "originalUrl": "https://www.bbc.com/news/technology-58727057.amp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 409,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/Astro-Mute.jpg?w=600",
-          "width": 600,
-          "height": 450,
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/C262/production/_120726794_astromovingaroundhome.jpg",
+          "width": 1024,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -216,16 +259,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/28/why-amazon-built-a-home-robot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/28/why-amazon-built-a-home-robot/amp/",
-      "publishedDateTime": "2021-09-28T10:03:00-07:00",
+      "ampWebUrl": "https://www.bbc.com/news/technology-58727057.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-58727057.amp",
+      "publishedDateTime": "2021-09-28T10:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "BBC",
+        "domain": "bbc.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -241,8 +284,8 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1378,49 +1421,6 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-amp-robotics-installs-its-first-recycling-robots-in-the-united-kingdom-and-ireland-with-recyco.md",
-      "title": "AMP Robotics Installs its First Recycling Robots in the United Kingdom and Ireland with Recyco",
-      "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in AI, robotics, and infrastructure for the waste and recycling industry, has installed its first AI-guided robotics systems in the UK and Ireland with Recyco, a leading recycling and waste management business in Northern Ireland.",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=534676",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=534676",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-22T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

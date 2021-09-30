@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/website/amp/entrepreneur-first-announce
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/entrepreneur-first-announces-investment-in-six-indian-tech-start-ups/396147"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -26,47 +26,28 @@ images:
     isCached: true
 
 related:
-  - title: "5 Women In Fintech Who’re Now Taking Over India’s Finance Domain"
-    excerpt: "Women have been financially independent since just a century or so in India. Now, in the 21st century we have some inspiring women in Fintech who are making a wave."
-    publishedDateTime: 2021-09-28T06:24:00Z
-    webUrl: "https://www.womensweb.in/2021/09/women-in-fintech-entrepreneurs-taking-over-indias-finance-domain-oct21wk1sr/"
+  - title: "Beenext co-leads $48m round of Indian healthtech startup"
+    excerpt: "MFine, an Indian digital health startup, has raked in US$48 million in a series C round co-led by Singapore venture capital firm Beenext and US-based Moore Strategic Ventures. the Indian firm’s existing investors,"
+    publishedDateTime: 2021-09-29T04:39:00Z
+    webUrl: "https://www.techinasia.com/beenext-coleads-48m-round-mfine"
     type: article
     provider:
-      name: Women's Web
-      domain: womensweb.in
-    quality: 54
-    images:
-      - url: "https://www.womensweb.in/wp-content/volume_blr1_01/uploads/2021/09/women-in-fintech-3.png"
-        width: 1000
-        height: 499
-        isCached: true
-  - title: "ARGO Named a 2021 Top 100 FinTech Provider by IDC Financial Insights"
-    excerpt: "ARGO, the leading provider of high-value technology and analytical-sciences software for the financial services and healthcare industries, announced today that it has been named as a Top 100 FinTech Provider in the 2021 IDC FinTech Rankings,"
-    publishedDateTime: 2021-09-27T13:10:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=537047"
+      name: Techinasia
+      domain: techinasia.com
+    quality: 32
+  - title: "Best Smartphones releasing in India at the end of 2021"
+    excerpt: "Although 2021 is nearing an end, there are still a number of smartphones to look out for. Here are seven that are set to release in India."
+    publishedDateTime: 2021-09-28T17:25:00Z
+    webUrl: "https://www.desiblitz.com/content/best-smartphones-releasing-in-india-at-the-end-of-2021"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
+      name: Desi Blitz
+      domain: desiblitz.com
     quality: 24
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "The Rise of Insurtech In The Pandemic Era: FinTech is Transforming The Insurance Industry"
-    excerpt: "Insurtech has recently emerged in the insurance space growing by leaps and bounds, helping organizations protect their business and execute transactions remotely during the"
-    publishedDateTime: 2021-09-25T22:53:00Z
-    webUrl: "https://www.bbntimes.com/financial/the-rise-of-insurtech-in-the-pandemic-era-fintech-is-transforming-the-insurance-industry"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 15
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Rise_of_Insurtech_In_The_Pandemic_Era-_FinTech_is_Transforming_The_Insurance_Industry.jpg"
-        width: 1687
-        height: 1080
+      - url: "https://www.desiblitz.com/wp-content/uploads/2021/09/Best-Smartphones-releasing-in-India-at-the-end-of-2021-f.jpg"
+        width: 685
+        height: 336
         isCached: true
   - title: "FINTECH attracts senior talents as investment ramps up in Asian Trade Finance centre"
     excerpt: "Leading hyper growth FINTECH in trade and supply chain finance #dltledgers has appointed Sanjeev Chatrath as their new Chief Revenue Officer"

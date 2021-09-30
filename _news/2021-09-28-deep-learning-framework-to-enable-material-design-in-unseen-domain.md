@@ -26,20 +26,20 @@ images:
 
 related:
   - title: "Improving machine learning for materials design"
-    excerpt: "TSUKUBA, Japan, Sep 30, 2021 - (ACN Newswire) - A new approach can train a machine learning model to predict the properties of a material using only data obtained through simple measurements, saving time and money compared with those currently used."
-    publishedDateTime: 2021-09-30T07:00:00Z
-    webUrl: "https://www.asiaone.com/business/improving-machine-learning-materials-design"
-    ampWebUrl: "https://www.asiaone.com/business/improving-machine-learning-materials-design?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/improving-machine-learning-materials-design?amp"
+    excerpt: "A new approach can train a machine learning model to predict the properties of a material using only data obtained through simple measurements, saving time and money compared with those currently used."
+    publishedDateTime: 2021-09-30T12:26:00Z
+    webUrl: "https://techxplore.com/news/2021-09-machine-materials.html"
+    ampWebUrl: "https://techxplore.com/news/2021-09-machine-materials.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-machine-materials.amp"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
+      name: techxplore.com
+      domain: techxplore.com
     quality: 59
     images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Sep2021/asiaone_default.jpg?itok=emraNYfZ"
-        width: 763
-        height: 509
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/improving-machine-lear.jpg"
+        width: 500
+        height: 289
         isCached: true
 
 secured: "nbmBmtR/OQeoTG1ZbdKur//XWIOxPe3LNMLhl7m7oAm0ZVrnFi6knHAIXwAYRwlCImkHpLZKrZCjP91YrLFUQqXhiZpU+pxCewruQcPmImOc9PGNOFO16GpdgljXZqdxO+ha18jm4mv95uCj3Qonr9Vk0G93C0EM/2ffuaNvbVZLSwMnzsLACF3vWVSU1eGSHW1u/ZF/gbG4WrXbGZBesT6Y/CpJ/00F6pVy6Kis+A9or8VxNIop/JvOxjX0VfSfZaCujpDUCB8s0aRgssCzMFUd+9IE42MBTSCD80HM9/yEOiFoCqXr8ZnVKcQ3TXWtNWWnu2jnw7/BxPYjoHMKKWTQRTn01W6kHbTLZtbRngYTqoikDtAQkGwei8yTg/SDigdZQiDHubS213NOWpcvZdLrp6NzEPPyzqkIzpzl7u4LynTY2sIa7g9fFUSzLRhwJ3+AUVPO6x3tkPrJu5nWznqWgsHDEiFdEJVovpjx6Wprijg6/ilggR0omegAW58L+hdKy1Kav8PBTAr+TO978Q==;JMtK7Fyi5wjoDx5hJudkAw=="

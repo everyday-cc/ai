@@ -21,148 +21,161 @@ topics:
   - AI
 
 related:
-  - title: "Global Artificial Intelligence (AI) Speakers Market Report 2021 Prominent Key Players, Exploring Sales Volume Revenue and Forecast by 2027"
-    excerpt: "The research study on Global Artificial Intelligence (AI) Speakers Market 2021 by Manufacturers, Regions, Type"
-    publishedDateTime: 2021-09-28T03:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-report-2021-prominent-key-players-exploring-sales-volume-revenue-and-forecast-by-2027-2021-09-27"
+  - title: "FinTech Can Help Fill Climate Resilience Gaps In Emerging Markets"
+    excerpt: "New financial technology (fintech) is helping increase climate resilience across all sectors — most notably on agriculture and energy businesses in emerging markets."
+    publishedDateTime: 2021-09-30T12:43:00Z
+    webUrl: "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/"
+    ampWebUrl: "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155ae7c589358c2fe64a735%2F0x0.jpg"
         width: 1200
-        height: 630
+        height: 798
         isCached: true
-  - title: "AI in Education Market Future Trends, Prominent Players, Covid 19 Impact and Forecast by 2030"
-    excerpt: "The global artificial intelligence AI in education market had a valuation of 1 1 billion in 2019 and it is predicted to generate a revenue of 25 7 billion by 2030 According to the estimates of P S Intelligence a"
-    publishedDateTime: 2021-09-29T11:37:00Z
-    webUrl: "https://www.openpr.com/news/2411586/ai-in-education-market-future-trends-prominent-players-covid"
-    ampWebUrl: "https://www.openpr.com/amp/2411586/ai-in-education-market-future-trends-prominent-players-covid"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2411586/ai-in-education-market-future-trends-prominent-players-covid"
+  - title: "5 Women In Fintech Who’re Now Taking Over India’s Finance Domain"
+    excerpt: "Women have been financially independent since just a century or so in India. Now, in the 21st century we have some inspiring women in Fintech who are making a wave."
+    publishedDateTime: 2021-09-28T06:24:00Z
+    webUrl: "https://www.womensweb.in/2021/09/women-in-fintech-entrepreneurs-taking-over-indias-finance-domain-oct21wk1sr/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 63
+      name: Women's Web
+      domain: womensweb.in
+    quality: 54
     images:
-      - url: "https://cdn.openpr.com/U/9/U929455223_g.jpg"
-        width: 800
-        height: 464
+      - url: "https://www.womensweb.in/wp-content/volume_blr1_01/uploads/2021/09/women-in-fintech-3.png"
+        width: 1000
+        height: 499
         isCached: true
-  - title: "Artificial Intelligence (AI) in Mining Market Future Developments, Companies, Trends, Share and Size Forecast"
-    excerpt: "ReportsnReports has uploaded a latest report on Artificial Intelligence AI in Mining Industry from its research database Artificial Intelligence AI in Mining Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence AI in"
-    publishedDateTime: 2021-09-27T11:58:00Z
-    webUrl: "https://www.openpr.com/news/2408036/artificial-intelligence-ai-in-mining-market-future"
-    ampWebUrl: "https://www.openpr.com/amp/2408036/artificial-intelligence-ai-in-mining-market-future"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2408036/artificial-intelligence-ai-in-mining-market-future"
+  - title: "Good Stocks To Buy Right Now ? 5 Fintech Stocks To Watch"
+    excerpt: "Top Fintech Stocks To Check Out Before Next Month. After another day of losses, the stock market today appears keen to recover. While this is happening, fintech stocks continue"
+    publishedDateTime: 2021-09-29T18:07:00Z
+    webUrl: "https://www.nasdaq.com/articles/good-stocks-to-buy-right-now-5-fintech-stocks-to-watch-2021-09-29"
+    ampWebUrl: "https://www.nasdaq.com/articles/good-stocks-to-buy-right-now-5-fintech-stocks-to-watch-2021-09-29?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/good-stocks-to-buy-right-now-5-fintech-stocks-to-watch-2021-09-29?amp"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 53
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "The ascent of the cloud in fintech"
+    excerpt: "For India, it’s a case of the right place, right time, right conditions for the enthusiastic adoption of cloud tech for financial entities"
+    publishedDateTime: 2021-09-28T12:01:00Z
+    webUrl: "https://www.dqindia.com/the-ascent-of-the-cloud-in-fintech/"
+    ampWebUrl: "https://www.dqindia.com/the-ascent-of-the-cloud-in-fintech/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/the-ascent-of-the-cloud-in-fintech/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 44
     images:
-      - url: "https://cdn.openpr.com/U/9/U927717989_g.jpg"
-        width: 604
+      - url: "https://www.dqindia.com/wp-content/uploads/2019/05/Paper-Business-Computing-Save-World-Hand-Cloud-2104829.jpg"
+        width: 598
         height: 400
         isCached: true
-  - title: "Self-driving Cars and Trucks Market Analysis by Size, Status and Forecast to 2021-2026"
-    excerpt: "Latest released Global Self-driving Cars and Trucks Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings, market price,"
-    publishedDateTime: 2021-09-29T20:45:00Z
-    webUrl: "https://manometcurrent.com/self-driving-cars-and-trucks-market-analysis-by-size-status-and-forecast-to-2021-2026/"
-    ampWebUrl: "https://manometcurrent.com/self-driving-cars-and-trucks-market-analysis-by-size-status-and-forecast-to-2021-2026/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/self-driving-cars-and-trucks-market-analysis-by-size-status-and-forecast-to-2021-2026/?amp=1"
+  - title: "Software platform Manch, fintech startup The Money Club raise funds"
+    excerpt: "Bengaluru-based software platform Manch Technologies on Tuesday said it has closed a $1.1 million pre-Series A round led by Bharat"
+    publishedDateTime: 2021-09-28T12:51:00Z
+    webUrl: "https://www.vccircle.com/manch-astrome-glamyo-health-the-money-club-raise-funds"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 36
+      name: VCCircle
+      domain: vccircle.com
+    quality: 39
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/09/Calibre-Market-Research-5-390x220.png"
-        width: 390
-        height: 220
+      - url: "https://assets.vccircle.com/uploads/2021/08/Securefundrfxl.jpg"
+        width: 810
+        height: 506
         isCached: true
-  - title: "Cognitive Computing Market Revenue, Major Players, Consumer Trends, Analysis & Forecast Till 2027"
-    excerpt: "United States OR Portland The Cognitive Computing Market 2021 report is a comprehensive professional and in depth research of market that delivers significant data for those who are seeking information for the Cognitive Computing industry The market report delivers the"
-    publishedDateTime: 2021-09-29T11:39:00Z
-    webUrl: "https://www.openpr.com/news/2411600/cognitive-computing-market-revenue-major-players-consumer"
-    ampWebUrl: "https://www.openpr.com/amp/2411600/cognitive-computing-market-revenue-major-players-consumer"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2411600/cognitive-computing-market-revenue-major-players-consumer"
+  - title: "M2P Fintech expands its product offering by acquiring Origa.ai."
+    excerpt: "M2P Fintech, an Asian API infrastructure company, has acquired Origa.ai to bolster its technology capabilities around the new-age collection."
+    publishedDateTime: 2021-09-30T10:24:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/m2p-fintech-expands-its-product-offering-by-acquiring-origa-ai/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 31
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
     images:
-      - url: "https://cdn.openpr.com/U/9/U929767438_g.jpg"
-        width: 674
-        height: 450
-        isCached: true
-  - title: "Machine Vision Systems Market Report 2021 Offered by Practical Features, Leading Vendors, End Uses, Product Types and Revenue by 2026"
-    excerpt: "Sep 28, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Machine Vision Systems Market” Report"
-    publishedDateTime: 2021-09-28T11:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-vision-systems-market-report-2021-offered-by-practical-features-leading-vendors-end-uses-product-types-and-revenue-by-2026-2021-09-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 23
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Disc Replacement Market Latest Development Forecast 2021 to 2027"
-    excerpt: "Posted on September 29, 2021 by Market Insights Reports Artificial Disc Replacement Market Latest Development Forecast 2021 to 2027 The Global <st"
-    publishedDateTime: 2021-09-29T12:44:00Z
-    webUrl: "https://menafn.com/1102885965/Artificial-Disc-Replacement-Market-Latest-Development-Forecast-2021-to-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 22
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?947121"
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/WK_Sep2021@2x.png"
         width: 401
-        height: 250
+        height: 401
         isCached: true
-  - title: "Global Artificial Intelligence in IoT Market 2021 Size Share Upcoming Trends Segmentation, Opportunities and Forecast To 2026"
-    excerpt: "The New Report Global Artificial Intelligence in IoT Market published by Reports Web covers the competitive landscape analysis and its growth prospects over the coming years The report also covers the major region such as North America Europe Asia Pacific"
-    publishedDateTime: 2021-09-28T09:45:00Z
-    webUrl: "https://www.openpr.com/news/2409288/global-artificial-intelligence-in-iot-market-2021-size-share"
-    ampWebUrl: "https://www.openpr.com/amp/2409288/global-artificial-intelligence-in-iot-market-2021-size-share"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2409288/global-artificial-intelligence-in-iot-market-2021-size-share"
+  - title: "5 FinTech companies helping MSMEs scale their businesses"
+    excerpt: "One sector hit the hardest by the pandemic has been the MSMEs. A number of entrepreneurs have reported the inability to survive"
+    publishedDateTime: 2021-09-27T06:26:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-fintech-companies-helping-msmes-scale-their-businesses/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 12
-  - title: "Global Underwater Computer Vision Market 2021 Key Players, Product Type, Geographical Regions and End-User Applicants by 2027"
-    excerpt: "The research released by MarketsandResearchbiz named Global Underwater Computer Vision Market 2021 by Company Regi"
-    publishedDateTime: 2021-09-27T19:11:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271325720/global-underwater-computer-vision-market-2021-key-players-product-type-geographical-regions-and-end-user-applicants-by-2027"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 12
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1632803637705.jpg"
-        width: 630
-        height: 420
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Singapore-financial-technology-1.jpg"
+        width: 300
+        height: 300
         isCached: true
-  - title: "Self-driving Vehicles Market Enhancement, Latest Trends, Growth and Opportunities during 2021 to 2027"
-    excerpt: "The Self driving Vehicles Market research report provides detailed observation of several aspects including the rate of growth regional scope and recent developments by the primary market players The report offers Porter s Five Forces PESTEL and market analysis to"
-    publishedDateTime: 2021-09-28T09:48:00Z
-    webUrl: "https://www.openpr.com/news/2409307/self-driving-vehicles-market-enhancement-latest-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2409307/self-driving-vehicles-market-enhancement-latest-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2409307/self-driving-vehicles-market-enhancement-latest-trends"
+  - title: "The future of payroll is FinTech"
+    excerpt: "The CloudPay NOW app provides easily accessible financial wellbeing tools and information for use while financial decisions are being made."
+    publishedDateTime: 2021-09-27T07:44:00Z
+    webUrl: "https://business-reporter.co.uk/2021/09/27/the-future-of-payroll-is-fintech/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 9
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 24
+    images:
+      - url: "https://businessreporter-197a1.kxcdn.com/wp-content/uploads/2021/09/CloudPay-header-image.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Coin, a FinTech startup launches Coin Wallet"
+    excerpt: "Coin, a US-based FinTech start-up founded by Microsoft alumni ... Coin Wallet is an all-in-one decentralized cryptocurrency exchange, wallet, and AI assistant. Coin Wallet is non-custodial, resides in a browser extension, and includes an integrated ..."
+    publishedDateTime: 2021-09-28T05:31:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/coin-a-fintech-startup-launches-coin-wallet/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/Accelerating-transformation-through-Cloud@2x.png"
+        width: 401
+        height: 400
+        isCached: true
+  - title: "The Rise of Insurtech In The Pandemic Era: FinTech is Transforming The Insurance Industry"
+    excerpt: "Insurtech has recently emerged in the insurance space growing by leaps and bounds, helping organizations protect their business and execute transactions remotely during the"
+    publishedDateTime: 2021-09-25T22:53:00Z
+    webUrl: "https://www.bbntimes.com/financial/the-rise-of-insurtech-in-the-pandemic-era-fintech-is-transforming-the-insurance-industry"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 15
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Rise_of_Insurtech_In_The_Pandemic_Era-_FinTech_is_Transforming_The_Insurance_Industry.jpg"
+        width: 1687
+        height: 1080
+        isCached: true
+  - title: "The International Cricket Council Announces Strategic Partnership With FinTech Infrastructure Leader: Nium"
+    excerpt: "The International Cricket Council (ICC) announced today that it has entered a multi-year strategic partnership with Nium, a leading global financial technology (FinTech) infrastructure company. Nium provides banks and businesses with access to"
+    publishedDateTime: 2021-09-30T06:46:00Z
+    webUrl: "https://www.lelezard.com/en/news-20022685.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 6
+    images:
+      - url: "https://mma.prnewswire.com/media/1639444/ICC_Nium_partnership.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "fTuxJou74EnDEEEshr5LDvSYDfip7wuklD7InROU1m8pnIrpHo4iBZEaJkj47aLr2a0YIsH5j6CHvCJtOi7z4tnj/CrDot8zcNnv5AX3sjtjJQJGY8ZUV1YpHWBUCTuJFkqxhTEHvjJntJbD2qTo4FTZCCM5N/geTEaAMMQPs/snkfR7V7PskNsR1KUxXJn0eoRaWdVHsuqjaU8oWleJJ21hGbG5Z4UW6Ocujwx9nkrY0cH5iUwyM/VlQB71tjUDG3gaOc1mr5dqer6YaAYAEhOxysCx2/seccHyYlag0rpqETq1NrmkHdhME8Iz0B4C/7k4p5/77ppPe9csnLOxix+JJ1j9cbOChJ2kVK7AQ5U=;fdgPaZycTLTZqzEwWu2GtQ=="
 ---

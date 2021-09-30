@@ -50,7 +50,7 @@ related:
     provider:
       name: Business Matters
       domain: bmmagazine.co.uk
-    quality: 57
+    quality: 59
     images:
       - url: "https://bmmagazine.co.uk/wp-content/uploads/2021/09/shutterstock_1154438635-scaled.jpg"
         width: 850

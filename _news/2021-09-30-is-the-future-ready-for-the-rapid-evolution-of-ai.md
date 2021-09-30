@@ -8,8 +8,8 @@ webUrl: "https://thebftonline.com/30/09/2021/is-the-future-ready-for-the-rapid-e
 ampWebUrl: "https://thebftonline.com/30/09/2021/is-the-future-ready-for-the-rapid-evolution-of-ai/?amp"
 cdnAmpWebUrl: "https://thebftonline-com.cdn.ampproject.org/c/s/thebftonline.com/30/09/2021/is-the-future-ready-for-the-rapid-evolution-of-ai/?amp"
 type: article
-quality: 59
-heat: 79
+quality: 61
+heat: 81
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://i2.wp.com/thebftonline.com/wp-content/uploads/2021/09/sweet-girl-e1632994668420.jpg?fit=447%2C327&ssl=1"
@@ -58,6 +59,6 @@ related:
         height: 276
         isCached: true
 
-secured: "SZ6u2BZ56/WpfWFrDC/FcJikohAw25O7Ep6fhZPHmSexo7QZYAqdC0zjQlfUwH8n+QETD4nSyZUCen2FXTr3LW7FsWREvN/uWtv0rCorRijo8xtFQx6Jg3RB59kASyzaMEI+WKe4ZhYjRjiLiuApIkgozcgsZrRQwXeIJj4cYZqWx/CW3fU/KrNFL6BpAlbky2dZnU5L7oDBcgvtPg8657+0QYG/3hwzfIESIWcxWx3wPZ+uLYGFbiExuaStYVWHIPC+fCJIpd94gqFv0mIwuwEkGSh/qti0o1Im+0IHnWcNV+/VfJRkh48Uzh2sQiJhjwkk4SXlBXWrwHz+ZZXi7Gt8rroC1fnqJWna8/IlmXY=;WA6VpA/ZoDKfg5IB2HZIPg=="
+secured: "MEx45Nqfkdlg37EQJbHBDRjAl6hcxMlQyg6EzdHGSJRpbMA4evgmADcJvy/CbvZovDBYtrmQw1iRinUkK05M2lAAnOeDAS/1+rPcqnIpgueLkklPLc4pU7A8cFns8u/ySxdoWhSrjDcGh2On8WRJioxdWh0Bd6HtEHLnmFq5LWAw8nCvY25WH1aQIan2Io8iXcgoN/cdhFUzerSdGfEz/0aO6DDhukukPKadxQ8vEURPIHWwM0TffX54P4XjZNf4Du0xq8tD63w+9LwjSsUkeTRbi5RcFAaFtX/gDZpjI0O5Bsakj7C6R9K7qjE28vs4nxU6fnV+fGeDT6corq1muDVMfsm+dXyoTTJlqjTAvQllf0wCSodgYSDEuyP0oSw85PvbRNLL0i9yKDeRIDES2d6kky0zpdPMpoJU6GaiDSnuNdK9jXV/Ef7Wnhws8b5LXPp0CmuT9GaaahY7Edsl63kVALkzlu2/UxzUDiPR4HK878iCClayGfQ4b4FKoevx5Za45zQ1ajGwYWoTb3PNvQ==;Xcg7otAefFz/d0XfKwDEgw=="
 ---
 

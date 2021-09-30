@@ -46,6 +46,36 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "BGV closes fourth fund with $110M aimed at immigrant enterprise AI, cross-border startups"
+    excerpt: "Silicon Valley-based venture capital (VC) firm Benhamou Global Ventures, known as BGV, closed its fourth fund with $110 million to support global enterprise companies. The new fund is 60% larger than its third fund and will be invested similarly,"
+    publishedDateTime: 2021-09-30T13:30:00Z
+    webUrl: "https://techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/"
+    ampWebUrl: "https://techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 80
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1152284190.jpg?w=1024"
+        width: 1024
+        height: 655
+        isCached: true
+  - title: "Grow and protect your wealth with AI technology"
+    excerpt: "Some popular stock indices include: l The Nasdaq 100, the top 100 technology companies listed on the Nasdaq by market cap. l The S&P 500, the 500 biggest companies on the New York Stock Exchange by market cap."
+    publishedDateTime: 2021-09-30T12:45:00Z
+    webUrl: "https://gulfnews.com/business/grow-and-protect-your-wealth-with-ai-technology-1.1633005760082"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 39
+    images:
+      - url: "https://imagevars.gulfnews.com/2021/09/30/Stock-Hunt_17c36bc2396_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
   - title: "Living with Artificial Intelligence — this year’s Reith Lectures"
     excerpt: "Living with Artificial Intelligence is the theme of this year's Reith lecturer Stuart Russell — the four lectures will be held across the UK"
     publishedDateTime: 2021-09-28T15:06:00Z

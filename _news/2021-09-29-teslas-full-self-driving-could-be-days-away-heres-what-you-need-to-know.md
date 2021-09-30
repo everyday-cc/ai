@@ -37,7 +37,7 @@ related:
     provider:
       name: Electrek
       domain: electrek.co
-    quality: 88
+    quality: 188
     images:
       - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-FSD-Beta-v9-driving-visuzalization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
@@ -90,22 +90,6 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2021/09/27/600x338/2021-08-16T184505Z_1_LYNXMPEH7F10O_RTROPTP_3_TESLA-MOTORS-AUTOPILOT_1632452498622_1632717502544.JPG"
         width: 600
         height: 338
-        isCached: true
-  - title: "Tesla drivers can now request Full Self-Driving Beta with the press of a button, despite safety concerns"
-    excerpt: "Tesla rolled out a long-awaited software update late Friday that allows customers to request access to its controversial, Full Self-Driving Beta (FSD) program. Drivers who get a high safety score from Tesla will get access."
-    publishedDateTime: 2021-09-25T20:28:00Z
-    webUrl: "https://www.cnbc.com/2021/09/25/tesla-drivers-can-request-fsd-beta-with-a-button-press-despite-safety-concerns.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/09/25/tesla-drivers-can-request-fsd-beta-with-a-button-press-despite-safety-concerns.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/09/25/tesla-drivers-can-request-fsd-beta-with-a-button-press-despite-safety-concerns.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 72
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106884111-1621276053397-musk.jpg?v=1621276074"
-        width: 3000
-        height: 2120
         isCached: true
   - title: "Tesla drivers with a favorable safety score can now request its Full Self-Driving beta, despite criticism from regulators"
     excerpt: "Only Tesla users that have a \"safe\" driving record for an entire week will be granted access to the FSD beta software."
@@ -377,20 +361,6 @@ related:
       - url: "https://localnews8.b-cdn.net/2020/12/Joint-KIFI-Local-News-8-and-MIFI-Eyewitness-News-3-Now-logo-scaled.jpg"
         width: 2560
         height: 1441
-        isCached: true
-  - title: "Tesla Releases Latest Version of 'Full Self Driving Capability,' but It Requires Owners to Pass a Safety Test"
-    excerpt: "With the release of the beta version of Tesla's Full Self-Driving Capability, Consumer Reports says the required seven-day driver evaluation underscores the system’s own limitations."
-    publishedDateTime: 2021-09-25T19:46:00Z
-    webUrl: "https://www.consumerreports.org/car-safety/car-safety-tesla-full-self-driving-capability-beta-a6537700136/"
-    type: article
-    provider:
-      name: Consumer Reports
-      domain: consumerreports.org
-    quality: 35
-    images:
-      - url: "https://article.images.consumerreports.org/image/upload/v1632589204/prod/content/dam/CRO-Images-2021/Cars/09Sept/CR-Cars-InlineHero-Tesla-Model-Y-driving-ATC-9-21"
-        width: 1199
-        height: 674
         isCached: true
   - title: "Tesla Allows Drivers to Request Full Self-Driving Beta Despite Safety Concerns"
     excerpt: "Despite multiple concerns surrounding the safety concerns of Tesla ‘s Autopilot feature, the electric vehicles company has now given its drivers access to the “Full Self-Driving” (FSD) program. With just a touch of the “request” button,"

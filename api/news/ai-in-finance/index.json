@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-09-30-dmi-alternatives-raises-40-mn-for-fintech-fund.md",
-      "title": "DMI Alternatives raises $40 mn for fintech fund",
-      "excerpt": "Within the Fintech ecosystem, Sparkle focuses on alternative lending, consumer finance, financial services IT, payments, regtech, wealthtech and AI-ML platforms to drive automation. A key differentiator for Sparkle is its strategic relationship with DMI ...",
+      "path": "_news/2021-09-30-fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets.md",
+      "title": "FinTech Can Help Fill Climate Resilience Gaps In Emerging Markets",
+      "excerpt": "New financial technology (fintech) is helping increase climate resilience across all sectors — most notably on agriculture and energy businesses in emerging markets.",
       "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/news/dmi-alternatives-raises-40-mn-for-fintech-fund-11632995681857.html",
-      "originalUrl": "https://www.livemint.com/companies/news/dmi-alternatives-raises-40-mn-for-fintech-fund-11632995681857.html",
+      "webUrl": "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/",
+      "originalUrl": "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 184,
       "tags": null,
       "images": [
         {
-          "url": "https://images.livemint.com/img/2021/09/30/600x338/DMI_1632997037719_1632997047813.JPG",
-          "width": 600,
-          "height": 338,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155ae7c589358c2fe64a735%2F0x0.jpg",
+          "width": 1200,
+          "height": 798,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/news/dmi-alternatives-raises-40-mn-for-fintech-fund/amp-11632995681857.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/dmi-alternatives-raises-40-mn-for-fintech-fund/amp-11632995681857.html",
-      "publishedDateTime": "2021-09-30T03:19:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/amp/",
+      "publishedDateTime": "2021-09-30T05:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -138,49 +147,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-5-women-in-fintech-whore-now-taking-over-indias-finance-domain.md",
-      "title": "5 Women In Fintech Who’re Now Taking Over India’s Finance Domain",
-      "excerpt": "Women have been financially independent since just a century or so in India. Now, in the 21st century we have some inspiring women in Fintech who are making a wave.",
-      "sourceUrl": null,
-      "webUrl": "https://www.womensweb.in/2021/09/women-in-fintech-entrepreneurs-taking-over-indias-finance-domain-oct21wk1sr/",
-      "originalUrl": "https://www.womensweb.in/2021/09/women-in-fintech-entrepreneurs-taking-over-indias-finance-domain-oct21wk1sr/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.womensweb.in/wp-content/volume_blr1_01/uploads/2021/09/women-in-fintech-3.png",
-          "width": 1000,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T23:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Women's Web",
-        "domain": "womensweb.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     },
     {
@@ -1346,6 +1312,40 @@
       "provider": {
         "name": "Morningstar, Inc.",
         "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-aci-worldwide-ranked-in-the-top-20-largest-global-providers-of-financial-technology-by-idc-fintech-rankings.md",
+      "title": "ACI Worldwide Ranked in the Top 20 Largest Global Providers of Financial Technology by IDC FinTech Rankings",
+      "excerpt": "ACI Worldwide, a leading global provider of real-time payments and digital payment software solutions, today announced its ranking in the IDC (News - Alert) Financial Insights 2021 FinTech Rankings. ACI is ranked 19 on this international list of financial technology companies that were judged according to their global revenues attributed to financial institutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aci-worldwide-ranked-the-top-20-largest-global-/2021/09/14/9448212.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aci-worldwide-ranked-the-top-20-largest-global-/2021/09/14/9448212.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

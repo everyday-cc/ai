@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Improving machine learning for materials design"
-excerpt: "TSUKUBA, Japan, Sep 30, 2021 - (ACN Newswire) - A new approach can train a machine learning model to predict the properties of a material using only data obtained through simple measurements, saving time and money compared with those currently used."
-publishedDateTime: 2021-09-30T07:00:00Z
-originalUrl: "https://www.asiaone.com/business/improving-machine-learning-materials-design"
-webUrl: "https://www.asiaone.com/business/improving-machine-learning-materials-design"
-ampWebUrl: "https://www.asiaone.com/business/improving-machine-learning-materials-design?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/improving-machine-learning-materials-design?amp"
+excerpt: "A new approach can train a machine learning model to predict the properties of a material using only data obtained through simple measurements, saving time and money compared with those currently used."
+publishedDateTime: 2021-09-30T12:26:00Z
+originalUrl: "https://techxplore.com/news/2021-09-machine-materials.html"
+webUrl: "https://techxplore.com/news/2021-09-machine-materials.html"
+ampWebUrl: "https://techxplore.com/news/2021-09-machine-materials.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-machine-materials.amp"
 type: article
 quality: 59
 heat: 69
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Sep2021/asiaone_default.jpg?itok=emraNYfZ"
-    width: 763
-    height: 509
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/improving-machine-lear.jpg"
+    width: 500
+    height: 289
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 250
         isCached: true
 
-secured: "JZqFGjaWXc7UBJwFPlsw7Nuhq05sV0tpYl6yJkUia07/NoRk23fjLna3ktrr+zLpEdNASzF2YyvTIKELF+Tlt1KeP0qCMPjhgbwZbLb80NafrzPnJ2QF5NQZevwcW+wRJ1Ly7CaPVDx49TgFUQIA4EycXak3692GJlvZmQP7rbzMko6ASYbiQmQFvQRKWlEUeWgRXHPzk+p7znzvUL8qU6Z+CxEUeHPY3VNq+0IYL/FCtqaHGzi3DSLHVoBMbECXSWZpgQiPWQpljmdNtNeRqe9JGipN2L/CmKhonj7+gB0oM4Lnmpw7zSH3PfxxzjFhD3/KdRcdobp5a2c9ORJBZCR1sczO5x0Hnxc+05m+Xyo=;ECVhXeE3mBsEPSzU2vd3Yg=="
+secured: "Hs4DOMURrh+HsiFaD7FefvbVwgyjP5hKLMZM45d6EzRD8nAuXttmSCXlclwNTwPKMOF5aUYnTS8w2nqmz8B4Kul1FK4QNVxdk/n1m+oBU2EUghKoWTj3NEjDzgxUVDpCi/0wQX8kJogJzZBc0d+qk7vg5KfU9KnIejWDTTTotRQEKffDoKgt70e6TXpVETM9aF0TMdlP+8Gk0to/DcYXMsnzedyjEjtGZZZcD5aMndmYHDRaPmEIh2fySpt8HCjrq49YE1pr1kJSkdpEW0znhgHKRdP1BBI3sRuCJRcULWs3zRuGh3AYCfuos230W6sAmpLa92xlsAPe6mrqgHuU6WD/WwgmPtU1ctdYox6k10I=;6C42mk4jtAEEemo3upxXCA=="
 ---
 

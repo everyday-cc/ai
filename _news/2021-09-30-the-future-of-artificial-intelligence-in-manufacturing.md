@@ -8,7 +8,7 @@ webUrl: "https://bmmagazine.co.uk/business/the-future-of-artificial-intelligence
 ampWebUrl: "https://bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/?amp"
 cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/?amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://bmmagazine.co.uk/wp-content/uploads/2021/09/shutterstock_1154438635-scaled.jpg"
@@ -97,6 +98,6 @@ related:
         height: 256
         isCached: true
 
-secured: "cW/5X6w6DxzVb0sqTNBneqDBqu2hbVbqbX3RoyqCVl7qHJCFgwROD162nYRJoGHlqQxjEapddg5gZCP70M2qJNtq6kSZG+A9g//sQoLbkev/g9UwC+xEn/AmCN0fDoCobvKrswneZGKEVK0qdF6YLfKmTbxyTruG2YAcumqhi+bqqwpWiLudb6fEc2QZW4lK0HjTcLBPBzD185dKdwsvOM+v0NYvzN+ZyJGQa02r3jFx+Hputy4hOE2rHp4Za2cuwUyJXfPdDlDn14ADQaVLBBYiKxyPRpxW+xGYwj/LYOqjYePNsRHvBqJHr9ZoSSU/8Z6nIs8e4tCbWaKnlCBKNzOQ4K1SK14QIZ9/W0leKO0=;GfphomQIVAUxXBzdD5Uxiw=="
+secured: "cB8HlzWQiFSfb4HAYP/Xg9vfEDooovKcBYvh/UtpnV/ZDYQfPZvT8WZ64FCJNBPFbdEodhJ9hCaIi+zTufKIEmIfdaNACaCPwQVh09aUB1NLlpwCynYFDN5SurLpBoF1yVnuUg3Kjf2ONFJ2iOMoTrm8jyRwM0ZXVpfXpnuFH/X+Ee0n6FbokXK2VHqBk4TXaJbbtmwhXudGSINKHg3CBG6PFCBkZ0MiQWv2tA5Z0RKhYKblMPOZLPvlcroEclRKxd8AYd9vDY+xo57vDKwQkwB5AdZ2spOgnj1MpmZYbOHemQSju+6ZmPhOYhFFZPzUpqgapY8re4HLHWCs7HI9bJJfvIoOza7Mb/3Ep0YXcWX+QuBrILgvMt2RbusWfpqXRuTcX1ioyBoQydqjUBkAnT3a84b5K7ixtagF73EsvMhVlrRlbve50gHHLQmPC2bNnJYNG3r+P0x4IoumEFokrSjpeS6Pqb3+kpt6RqrpbPw8coWrmUhL0a0Ik/smyqF4UPm9mTr0iEKU6VNqpDPg8w==;hDidstCOt7k5OvB2Wjnuqw=="
 ---
 

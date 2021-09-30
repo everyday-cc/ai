@@ -36,7 +36,7 @@ related:
     provider:
       name: business
       domain: thebftonline.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://i2.wp.com/thebftonline.com/wp-content/uploads/2021/09/sweet-girl-e1632994668420.jpg?fit=447%2C327&ssl=1"
         width: 447

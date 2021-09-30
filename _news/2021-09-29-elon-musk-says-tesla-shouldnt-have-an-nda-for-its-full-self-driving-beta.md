@@ -8,8 +8,8 @@ webUrl: "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-f
 ampWebUrl: "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/amp/"
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/amp/"
 type: article
-quality: 88
-heat: 378
+quality: 188
+heat: 458
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2021/09/27/600x338/2021-08-16T184505Z_1_LYNXMPEH7F10O_RTROPTP_3_TESLA-MOTORS-AUTOPILOT_1632452498622_1632717502544.JPG"
         width: 600
         height: 338
-        isCached: true
-  - title: "Tesla drivers can now request Full Self-Driving Beta with the press of a button, despite safety concerns"
-    excerpt: "Tesla rolled out a long-awaited software update late Friday that allows customers to request access to its controversial, Full Self-Driving Beta (FSD) program. Drivers who get a high safety score from Tesla will get access."
-    publishedDateTime: 2021-09-25T20:28:00Z
-    webUrl: "https://www.cnbc.com/2021/09/25/tesla-drivers-can-request-fsd-beta-with-a-button-press-despite-safety-concerns.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/09/25/tesla-drivers-can-request-fsd-beta-with-a-button-press-despite-safety-concerns.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/09/25/tesla-drivers-can-request-fsd-beta-with-a-button-press-despite-safety-concerns.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 72
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106884111-1621276053397-musk.jpg?v=1621276074"
-        width: 3000
-        height: 2120
         isCached: true
   - title: "Tesla drivers with a favorable safety score can now request its Full Self-Driving beta, despite criticism from regulators"
     excerpt: "Only Tesla users that have a \"safe\" driving record for an entire week will be granted access to the FSD beta software."
@@ -382,20 +366,6 @@ related:
         width: 2560
         height: 1441
         isCached: true
-  - title: "Tesla Releases Latest Version of 'Full Self Driving Capability,' but It Requires Owners to Pass a Safety Test"
-    excerpt: "With the release of the beta version of Tesla's Full Self-Driving Capability, Consumer Reports says the required seven-day driver evaluation underscores the system’s own limitations."
-    publishedDateTime: 2021-09-25T19:46:00Z
-    webUrl: "https://www.consumerreports.org/car-safety/car-safety-tesla-full-self-driving-capability-beta-a6537700136/"
-    type: article
-    provider:
-      name: Consumer Reports
-      domain: consumerreports.org
-    quality: 35
-    images:
-      - url: "https://article.images.consumerreports.org/image/upload/v1632589204/prod/content/dam/CRO-Images-2021/Cars/09Sept/CR-Cars-InlineHero-Tesla-Model-Y-driving-ATC-9-21"
-        width: 1199
-        height: 674
-        isCached: true
   - title: "Tesla Allows Drivers to Request Full Self-Driving Beta Despite Safety Concerns"
     excerpt: "Despite multiple concerns surrounding the safety concerns of Tesla ‘s Autopilot feature, the electric vehicles company has now given its drivers access to the “Full Self-Driving” (FSD) program. With just a touch of the “request” button,"
     publishedDateTime: 2021-09-28T06:57:00Z
@@ -459,6 +429,6 @@ related:
         height: 382
         isCached: true
 
-secured: "SKk/Z0Zt1r9Dg5NlA2jh+K+93FC6ovn8QWgFYeVSQTOaS1XrTsBk182QLuM5ivehrdR/czvLLRGQ/v3tZ7rEBuTr6M1ZmMab0hEddJtYSB0eV1jZtryNXBBo0UPw3CVe4cQs5C96Mjz41VTA9FX4t5PHC2WYG09PddBPCGVAle/DhpRthfjKSV6+sfoRHJw3KIU1PoSejBhfkBbtCiI0XhrXn03S+aQcK5f7+aUosJOCRLBzxNDPxXVh/nFRGwKMsCUw7bhVtfOTdJKPJVPAjBNndrRwCDw8/rGSj1qW4ZY36nvWQZqrVShXolXPG1sxG40cTkwolaaIg3hS3IYSfyjZCsPIvSVyq6XdjbdTa3U=;vyJGyUgZfJCf1vkwPJGP5g=="
+secured: "ZxGAud9M/SDDMwLhpsyghykSP9Snccd2rKTIFBJPKPnlmFYpOCv8SaaGLnCkuhBofEALMHzAq6saxc/mLthS+9ko7sGnCT1kOLfWVVBiFtnbNdi9rO3GDXuf69kQpv+cm4BY9p/UDM1+tDV+uRqizxejco5bRq0VbimnjuA1eJQbij0xoLpYxs2YR0DUU3gocakZUxGjrrhBRjfWE0JFgjONJh4Cwe8LYkAlnVVlBJ6Ap10BawX7169aGhuLdkJsSKUCh/cPn4we4B9zlyYUl163B5LhS1aS1QDn/+5u7pC1FRDr0FfHdqNb2g6t1hsx21TpIyk06cAg9cXff9kK/3W7na7/ADq2Avji2xHshpVyS6b1hMglvP1232TG/a2kilnyJ6A2JzFQFFusiuzXA/8MZqfd5wjMiUDBYUsp9N5NifcooGpa42vKTQMBz+6+FhHHCuYzRfoV/2bHcn4NYnHkrPF2PjjLLPOTz4CyqdLMYNopxRnyrhOPw96JWr8FMIgfva/YtUjDhTkjgVq/4YLQxPaJF4Uutb3JxUdraIU=;hnvgKrAlIrZ2IJgpIkL7aA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.iol.co.za/amp/technology/self-driving-feature-is-ready-f
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/self-driving-feature-is-ready-for-tesla-owners-but-regulators-are-not-convinced-70ae8b68-625d-4e73-857e-e359da87af00"
 type: article
 quality: 55
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘Good’ Tesla drivers might be next to get ‘full’ self-driving software"
-    excerpt: "Chief Executive Officer Elon Musk tweeted that the download button customers will see Friday will request car owners’ permission for Tesla to assess their driving behavior for seven days."
-    publishedDateTime: 2021-09-25T20:26:00Z
-    webUrl: "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/"
-    ampWebUrl: "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 59
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/09/Tesla_Crash_88520.jpg?w=1024&#038;h=682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Tech Bytes: Reports call Instagram toxic, Apple Watch unlock feature not working, Tesla full self-driving software"
     excerpt: "Facebook is pushing back against claims that Instagram is “toxic for teens.” A report from the Wall Street Journal recently revealed that Instagram increases body image issues for a"
     publishedDateTime: 2021-09-27T10:10:00Z
@@ -59,15 +43,6 @@ related:
         width: 1280
         height: 563
         isCached: true
-  - title: "Here's What to Know About TSLA's Full Self Driving Mode"
-    excerpt: "But they'll first have to show that they're a sufficiently safe driver by allowing Tesla to analyze data on their driving behavior."
-    publishedDateTime: 2021-09-29T05:00:00Z
-    webUrl: "https://www.realclearmarkets.com/2021/09/29/heres_what_to_know_about_tslas_full_self_driving_mode_796582.html"
-    type: article
-    provider:
-      name: RealClearMarkets
-      domain: realclearmarkets.com
-    quality: 19
 
 secured: "eWtt+dNBpbV/SF1Jsw2wMuM3hxxmMpt1D6vBGQUAEVHOr/8mDGJua2pIykeIJPxVjEXGRMmOcHKCHGeH6O1J2XSzsi7nhNk/doUd3QgSOn+arqaSdD0UDOdEOcgCb28enVjdpzaV1FUo2keJND0qFNkK4ZPXLv1/9SEucFOuMwP1q3FE78g3WQeQce9FKXHzudUh3e7ZtNl56b9b2+CwdJhaUQefg0rkRXgpNvFYqKInXYfEC350PKN5HnYXJuNEj3WaYcS/elbYoOQnAQEWssr88seJkUNoQyGRci1PAFc9nkqlNyVc8Ullw873d0pwQjFDtovHa+Fd+jS8x2C78zjy7gR4IQJ69eyPEkkQ7nE=;QaqK0tdCnm+eeIoISVdA3A=="
 ---

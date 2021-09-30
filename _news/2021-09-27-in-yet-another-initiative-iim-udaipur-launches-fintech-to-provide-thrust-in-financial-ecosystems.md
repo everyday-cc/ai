@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1102870429/In-yet-another-initiative-IIM-Udaipu
 webUrl: "https://menafn.com/1102870429/In-yet-another-initiative-IIM-Udaipur-launches-Fintech-to-provide-thrust-in-financial-ecosystems"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,36 @@ images:
     width: 680
     height: 420
     isCached: true
+
+related:
+  - title: "ARGO Named a 2021 Top 100 FinTech Provider by IDC Financial Insights"
+    excerpt: "ARGO, the leading provider of high-value technology and analytical-sciences software for the financial services and healthcare industries, announced today that it has been named as a Top 100 FinTech Provider in the 2021 IDC FinTech Rankings,"
+    publishedDateTime: 2021-09-27T13:10:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=537047"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "TrueNorth Joins Visa Fintech Partner Connect Program"
+    excerpt: "TrueNorth, a global fintech software development company, today announced it has joined Visa Fintech Partner Connect?a program designed to help Visa's issuing clients quickly connect with a vetted and curated set of technology providers."
+    publishedDateTime: 2021-09-29T15:40:00Z
+    webUrl: "https://www.lelezard.com/en/news-20021860.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 24
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "Nqt+9swjKqef1Use/OAz+7dLgFl8xj/RH5jypSb+MpIBwKF0Jpc0LGYluJe5plFO3NW8NDN3dC+fpamX92CGOMtZnYvMFlwONQ1R3rmAKTGw3S2B5jbTiMZpa5lCETAGUQWkMTrp7B9/7CY7ckm1R5YBc+gx9TjoGLBvrQ9Hf3/pJuQVfy3Kzz9GCuB/o95FJxBXa/Azw2bjrz/Rw/Vd9VSxv7nuVhEHZWK63v9zHrgQZ5P6oERL5l2EEnH4MisN11bmx/jbhWRYyRXQ4RUGWQ+oQjEUv1DYQTlLYvayHWoDkDr0pdjK3PzOMiPZFXgnWlk5Ik2mroibXsjjDJj1hgtNMKXvEdUcpSFZppgku54=;UnjhUc2/ULtdJJ7WJFLsgw=="
 ---

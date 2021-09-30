@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 677
         isCached: true
+  - title: "An autonomous robot may have already killed people—here's how the weapons could be more destabilizing than nukes"
+    excerpt: "Autonomous weapon systems—commonly known as killer robots—may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
+    publishedDateTime: 2021-09-30T12:45:00Z
+    webUrl: "https://techxplore.com/news/2021-09-autonomous-robot-peoplehere-weapons-destabilizing.html"
+    ampWebUrl: "https://techxplore.com/news/2021-09-autonomous-robot-peoplehere-weapons-destabilizing.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-autonomous-robot-peoplehere-weapons-destabilizing.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 38
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/an-autonomous-robot-ma.jpg"
+        width: 1356
+        height: 668
+        isCached: true
   - title: "An autonomous robot may have already killed people – here’s how the weapons could be more destabilizing than nukes"
     excerpt: "Sci-fi nightmares of a robot apocalypse aside, autonomous weapons are a very real threat to humanity. An expert on the weapons explains how the emerging arms race could be humanity’s last."
     publishedDateTime: 2021-09-29T12:23:00Z

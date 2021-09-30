@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon announces Astro the home robot"
+    excerpt: "Amazon is launching Astro, its first household robot, powered by its Alexa smart home technology. The company said it can be remote-controlled when not at home, to check on pets, people, or home security."
+    publishedDateTime: 2021-09-28T17:50:00Z
+    webUrl: "https://www.bbc.com/news/technology-58727057"
+    ampWebUrl: "https://www.bbc.com/news/technology-58727057.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-58727057.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 189
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/C262/production/_120726794_astromovingaroundhome.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Amazon Astro could be the robot we've been waiting for"
     excerpt: "Inspired by science fiction, cute as a button, capable and smart -- Amazon's $1,000 home robot Astro is here to help."
     publishedDateTime: 2021-09-28T20:43:00Z
@@ -107,6 +123,22 @@ related:
     images:
       - url: "https://media.cnn.com/api/v1/images/stellar/prod/210928125815-1-amazon-astro.jpg?q=x_0,y_0,h_2268,w_4030,c_fill/w_800"
         width: 800
+        height: 450
+        isCached: true
+  - title: "Why Amazon built a home robot"
+    excerpt: "Robot’s CEO once told me, with a wink, that he didn’t become a truly successful roboticist until he became a vacuum salesman. It’s a good line, and one that betrays some fundamental truths about the industry."
+    publishedDateTime: 2021-09-28T17:03:00Z
+    webUrl: "https://techcrunch.com/2021/09/28/why-amazon-built-a-home-robot/"
+    ampWebUrl: "https://techcrunch.com/2021/09/28/why-amazon-built-a-home-robot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/28/why-amazon-built-a-home-robot/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/09/Astro-Mute.jpg?w=600"
+        width: 600
         height: 450
         isCached: true
   - title: "Amazon (AMZN) Boosts Robotics Efforts With Astro Launch"
@@ -197,6 +229,20 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/r/2021/09/28/429ab9c8-f7a9-4134-89cd-319199be058b/resize/1200xauto/5c766dcf1e48192ab21955afb5a34de7/halo-view-hero.png"
         width: 1200
         height: 853
+        isCached: true
+  - title: "Meet Amazon’s Astro: a multifunctional home assistant robot"
+    excerpt: "Amazon has unveiled its latest innovative home assistant robot on wheels, named Astro. The Amazon Astro will cost $1,000 and Amazon is offering an opportunity for potential buyers to request an invitation to buy it because it is a limited-version product."
+    publishedDateTime: 2021-09-28T20:20:00Z
+    webUrl: "https://www.gizmochina.com/2021/09/28/amazon-astro-multifunctional-home-assistant-robot/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 69
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/09/amazon-astro-2.png"
+        width: 739
+        height: 405
         isCached: true
   - title: "Amazon Announced Astro Home Robot"
     excerpt: "Tech giants Amazon Inc (AMZN) have unveiled its home robot, named Astro, on Tuesday in the fall hardware event. The robot is calibrated to watch over homes, carry small things, play with children, play music,"

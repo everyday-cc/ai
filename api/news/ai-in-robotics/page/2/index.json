@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-22-amp-robotics-installs-its-first-recycling-robots-in-the-united-kingdom-and-ireland-with-recyco.md",
+      "title": "AMP Robotics Installs its First Recycling Robots in the United Kingdom and Ireland with Recyco",
+      "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in AI, robotics, and infrastructure for the waste and recycling industry, has installed its first AI-guided robotics systems in the UK and Ireland with Recyco, a leading recycling and waste management business in Northern Ireland.",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=534676",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=534676",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-22T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-arkq-uniquely-positioned-to-capitalize-on-robotics-trends.md",
       "title": "ARKQ Uniquely Positioned to Capitalize on Robotics Trends",
       "excerpt": "Amid an array of technological advancements, robotics investing is gaining a broader audience, and exchange traded funds issuers are meeting that demand. However, the various robotics ETFs on the market today aren't carbon copies of each other,",
@@ -1295,49 +1338,6 @@
       "provider": {
         "name": "manometcurrent.com",
         "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-five-ways-to-improve-operational-excellence-in-robotic-welding-automation.md",
-      "title": "Five ways to improve operational excellence in robotic welding automation",
-      "excerpt": "Control Engineering - When it comes to any manufacturing process and not just improving robotic welding automation, companies should be asking what their goals are. “People",
-      "sourceUrl": null,
-      "webUrl": "https://www.controleng.com/articles/five-ways-to-improve-operational-excellence-in-robotic-welding-automation/",
-      "originalUrl": "https://www.controleng.com/articles/five-ways-to-improve-operational-excellence-in-robotic-welding-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.controleng.com/wp-content/uploads/sites/2/2021/09/CTL2109_WEB_IMG_Balluff_RoboticWelding_ContinuousImprovement-Slider.jpeg",
-          "width": 645,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T22:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Control Engineering",
-        "domain": "controleng.com",
         "images": null,
         "publishers": null,
         "authors": null

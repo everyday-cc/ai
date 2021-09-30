@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-20021860.html"
 webUrl: "https://www.lelezard.com/en/news-20021860.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,36 @@ images:
     width: 640
     height: 480
     isCached: true
+
+related:
+  - title: "ARGO Named a 2021 Top 100 FinTech Provider by IDC Financial Insights"
+    excerpt: "ARGO, the leading provider of high-value technology and analytical-sciences software for the financial services and healthcare industries, announced today that it has been named as a Top 100 FinTech Provider in the 2021 IDC FinTech Rankings,"
+    publishedDateTime: 2021-09-27T13:10:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=537047"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "“In yet another initiative, IIM Udaipur launches ‘Fintech’ to provide thrust in financial ecosystems”"
+    excerpt: "Udaipur: Indian Institute of Management Udaipur has announced the launch of Fintech this month. Being one of its kind, FinTech"
+    publishedDateTime: 2021-09-27T12:42:00Z
+    webUrl: "https://menafn.com/1102870429/In-yet-another-initiative-IIM-Udaipur-launches-Fintech-to-provide-thrust-in-financial-ecosystems"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2021-09/27/pr_11781_0cccf8cf_image_story.jpg"
+        width: 680
+        height: 420
+        isCached: true
 
 secured: "wgDJpD0Cq9WPn40BIbdS+AaHjeCM3nBOJiF/8Ds2Cpd/zw4LSj3Bw+BUyOck6feS9uQqSnxFU82kqbz6+wfT+zr0Zr+FEVEJ9wj3gCzbJFZ630vfCijSgsEt6R0Ozt0p/GOxT7qd66a+q/DFMNNMVqidCNqgld623FAGl1fur4pJx/YJ6y1UNZMmoGZqMrHJ0umPpNTCUyJsjUlGTYkatSDcMwmHG2Uz1+NcRz7fmrWJnVWFnMpb9plBHeUitHhFt2fHYLpI7WmJ94Xf1REvmz88tKZL+nZLlsw8CEIgt0n/nz3+B+OGkfLVbTstCiil8blvHXqSPCwQKE9Nsrk8im781N5/41O9jFMoNOzTJNw=;tQcvIcfayyb9llR3fz4KVw=="
 ---

@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "DMI Alternatives raises $40 mn for fintech fund"
-    excerpt: "Within the Fintech ecosystem, Sparkle focuses on alternative lending, consumer finance, financial services IT, payments, regtech, wealthtech and AI-ML platforms to drive automation. A key differentiator for Sparkle is its strategic relationship with DMI ..."
-    publishedDateTime: 2021-09-30T10:19:00Z
-    webUrl: "https://www.livemint.com/companies/news/dmi-alternatives-raises-40-mn-for-fintech-fund-11632995681857.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/dmi-alternatives-raises-40-mn-for-fintech-fund/amp-11632995681857.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/dmi-alternatives-raises-40-mn-for-fintech-fund/amp-11632995681857.html"
+  - title: "FinTech Can Help Fill Climate Resilience Gaps In Emerging Markets"
+    excerpt: "New financial technology (fintech) is helping increase climate resilience across all sectors — most notably on agriculture and energy businesses in emerging markets."
+    publishedDateTime: 2021-09-30T12:43:00Z
+    webUrl: "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/"
+    ampWebUrl: "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/amp/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://images.livemint.com/img/2021/09/30/600x338/DMI_1632997037719_1632997047813.JPG"
-        width: 600
-        height: 338
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155ae7c589358c2fe64a735%2F0x0.jpg"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "5 Women In Fintech Who’re Now Taking Over India’s Finance Domain"
+    excerpt: "Women have been financially independent since just a century or so in India. Now, in the 21st century we have some inspiring women in Fintech who are making a wave."
+    publishedDateTime: 2021-09-28T06:24:00Z
+    webUrl: "https://www.womensweb.in/2021/09/women-in-fintech-entrepreneurs-taking-over-indias-finance-domain-oct21wk1sr/"
+    type: article
+    provider:
+      name: Women's Web
+      domain: womensweb.in
+    quality: 54
+    images:
+      - url: "https://www.womensweb.in/wp-content/volume_blr1_01/uploads/2021/09/women-in-fintech-3.png"
+        width: 1000
+        height: 499
         isCached: true
   - title: "Good Stocks To Buy Right Now ? 5 Fintech Stocks To Watch"
     excerpt: "Top Fintech Stocks To Check Out Before Next Month. After another day of losses, the stock market today appears keen to recover. While this is happening, fintech stocks continue"
@@ -82,6 +96,20 @@ related:
         width: 810
         height: 506
         isCached: true
+  - title: "M2P Fintech expands its product offering by acquiring Origa.ai."
+    excerpt: "M2P Fintech, an Asian API infrastructure company, has acquired Origa.ai to bolster its technology capabilities around the new-age collection."
+    publishedDateTime: 2021-09-30T10:24:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/m2p-fintech-expands-its-product-offering-by-acquiring-origa-ai/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/WK_Sep2021@2x.png"
+        width: 401
+        height: 401
+        isCached: true
   - title: "5 FinTech companies helping MSMEs scale their businesses"
     excerpt: "One sector hit the hardest by the pandemic has been the MSMEs. A number of entrepreneurs have reported the inability to survive"
     publishedDateTime: 2021-09-27T06:26:00Z
@@ -109,6 +137,31 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/Accelerating-transformation-through-Cloud@2x.png"
         width: 401
         height: 400
+        isCached: true
+  - title: "AI in Fintech Market Report 2020 Market Size by Key Players, Types, Applications, Countries, Forecast by 2027"
+    excerpt: "AI in fintech market is expected to reach USD 9125 4 million by 2027 witnessing market growth at a rate of 65 7 in the forecast period of 2020 to 2027 The market has witness significant growth in the years"
+    publishedDateTime: 2021-09-29T14:35:00Z
+    webUrl: "https://www.openpr.com/news/2411934/ai-in-fintech-market-report-2020-market-size-by-key-players"
+    ampWebUrl: "https://www.openpr.com/amp/2411934/ai-in-fintech-market-report-2020-market-size-by-key-players"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2411934/ai-in-fintech-market-report-2020-market-size-by-key-players"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 20
+  - title: "The Rise of Insurtech In The Pandemic Era: FinTech is Transforming The Insurance Industry"
+    excerpt: "Insurtech has recently emerged in the insurance space growing by leaps and bounds, helping organizations protect their business and execute transactions remotely during the"
+    publishedDateTime: 2021-09-25T22:53:00Z
+    webUrl: "https://www.bbntimes.com/financial/the-rise-of-insurtech-in-the-pandemic-era-fintech-is-transforming-the-insurance-industry"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 15
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Rise_of_Insurtech_In_The_Pandemic_Era-_FinTech_is_Transforming_The_Insurance_Industry.jpg"
+        width: 1687
+        height: 1080
         isCached: true
   - title: "The International Cricket Council Announces Strategic Partnership With FinTech Infrastructure Leader: Nium"
     excerpt: "The International Cricket Council (ICC) announced today that it has entered a multi-year strategic partnership with Nium, a leading global financial technology (FinTech) infrastructure company. Nium provides banks and businesses with access to"

@@ -26,6 +26,17 @@ images:
     height: 345
     isCached: true
 
+related:
+  - title: "Building the GPU-accelerated Datacenter"
+    excerpt: "Sponsored Post] To learn about GPU-accelerated datacenters, join the upcoming live webinar from Thinkmate and PNY. You'll hear about the future of the datacenter, why the GPU is crucial, the technology behind GPU acceleration,"
+    publishedDateTime: 2021-09-30T12:37:00Z
+    webUrl: "https://insidehpc.com/2021/09/building-the-gpu-accelerated-datacenter/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
+
 secured: "uBzAtRVHWh5Xnueqru97bPtoMvZ6hskQuu21AYduU+y8LDbXFyve7SLmBxFBrZHllQxdIHSTMxLYniNR9ROCfQ1mjUdAePN/KrGDgokMsiHUwoL/kjZL98naefZosehOCJ2CgV8fWk7emzS9Cb6fEVpm/y+BTFO3Cnj+uK8JbiNVPPAqC4uykI0Dcbb0tl0r93k2jD4JypY0VHVSf9I+U9u7/E681ju3JnEJ3Nqm0fJrpxCSqF/YvMfkoSJqrVB9o/n9lmCSknSpyr2agEphJYQ9axmFP4ThHc+litSPJDlGU0S0lAt5mGq0HllB5beeg5zkScK0xFfgOKbsnI/3T3fDfFensKWGoiGq8WCkNamKv/yMi78OWj2oRA5PDCFGfoM7LbRTxwCvOmNy2Xjv4fVamphPVjXKRzKR9ir8TslUCrvay5Wkew6cb4aPvONlAYRHBj4m/9oQ9QQ/PxRF8t21a8fE7FE8uCXVqALAGAOJofLlQUrSR/oI7WfuJB9JBrevtP53REDAsEJcpJo8+Q==;409XonJwBR/opKDRiagYLg=="
 ---
 

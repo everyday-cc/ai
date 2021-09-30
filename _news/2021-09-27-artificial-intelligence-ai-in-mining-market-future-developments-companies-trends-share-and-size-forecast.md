@@ -56,6 +56,22 @@ related:
         width: 800
         height: 464
         isCached: true
+  - title: "Artificial Intelligence (AI) in Medical Diagnostics Market Detailed Analysis and Forecast 2020-2030"
+    excerpt: "Artificial Intelligence (AI) in Medical Diagnostics Overview. Artificial intelligence (AI) has shown transformative potential in medical and healthcare industry. In particular, th"
+    publishedDateTime: 2021-09-30T02:19:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-medical-diagnostics-market-detailed-analysis-and-forecast-2020-2030/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-medical-diagnostics-market-detailed-analysis-and-forecast-2020-2030/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-medical-diagnostics-market-detailed-analysis-and-forecast-2020-2030/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 60
+    images:
+      - url: "https://cdn.openpr.com/T/b/Tb09292789_g.jpg"
+        width: 800
+        height: 433
+        isCached: true
   - title: "Self-driving Cars and Trucks Market Analysis by Size, Status and Forecast to 2021-2026"
     excerpt: "Latest released Global Self-driving Cars and Trucks Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings, market price,"
     publishedDateTime: 2021-09-29T20:45:00Z
@@ -116,17 +132,6 @@ related:
         width: 401
         height: 250
         isCached: true
-  - title: "AI in Fintech Market Report 2020 Market Size by Key Players, Types, Applications, Countries, Forecast by 2027"
-    excerpt: "AI in fintech market is expected to reach USD 9125 4 million by 2027 witnessing market growth at a rate of 65 7 in the forecast period of 2020 to 2027 The market has witness significant growth in the years"
-    publishedDateTime: 2021-09-29T14:35:00Z
-    webUrl: "https://www.openpr.com/news/2411934/ai-in-fintech-market-report-2020-market-size-by-key-players"
-    ampWebUrl: "https://www.openpr.com/amp/2411934/ai-in-fintech-market-report-2020-market-size-by-key-players"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2411934/ai-in-fintech-market-report-2020-market-size-by-key-players"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 20
   - title: "Global Artificial Intelligence in IoT Market 2021 Size Share Upcoming Trends Segmentation, Opportunities and Forecast To 2026"
     excerpt: "The New Report Global Artificial Intelligence in IoT Market published by Reports Web covers the competitive landscape analysis and its growth prospects over the coming years The report also covers the major region such as North America Europe Asia Pacific"
     publishedDateTime: 2021-09-28T09:45:00Z

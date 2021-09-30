@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/29/ai-powered-meeting-plugin-read-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/ai-powered-meeting-plugin-read-ai-emerges-from-stealth-with-10m/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "BGV closes fourth fund with $110M aimed at immigrant enterprise AI, cross-border startups"
+    excerpt: "Silicon Valley-based venture capital (VC) firm Benhamou Global Ventures, known as BGV, closed its fourth fund with $110 million to support global enterprise companies. The new fund is 60% larger than its third fund and will be invested similarly,"
+    publishedDateTime: 2021-09-30T13:30:00Z
+    webUrl: "https://techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/"
+    ampWebUrl: "https://techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 80
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1152284190.jpg?w=1024"
+        width: 1024
+        height: 655
+        isCached: true
   - title: "Read AI raises $10M, creates virtual meeting dashboard to show you when you talk too much"
     excerpt: "Read AI wants all meeting goers to be engaged and feel productive, and it has developed a real-time shared dashboard to alert meeting participants when things are going well or not so well. The Seattle-based company emerged from stealth mode Wednesday with its first financing,"
     publishedDateTime: 2021-09-29T15:30:00Z
@@ -45,6 +61,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1218040751.jpg?w=1024"
         width: 1024
         height: 833
+        isCached: true
+  - title: "Grow and protect your wealth with AI technology"
+    excerpt: "Some popular stock indices include: l The Nasdaq 100, the top 100 technology companies listed on the Nasdaq by market cap. l The S&P 500, the 500 biggest companies on the New York Stock Exchange by market cap."
+    publishedDateTime: 2021-09-30T12:45:00Z
+    webUrl: "https://gulfnews.com/business/grow-and-protect-your-wealth-with-ai-technology-1.1633005760082"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 39
+    images:
+      - url: "https://imagevars.gulfnews.com/2021/09/30/Stock-Hunt_17c36bc2396_medium.jpg"
+        width: 540
+        height: 405
         isCached: true
   - title: "Living with Artificial Intelligence — this year’s Reith Lectures"
     excerpt: "Living with Artificial Intelligence is the theme of this year's Reith lecturer Stuart Russell — the four lectures will be held across the UK"
