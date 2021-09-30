@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "Anomali"
   url: "https://twitter.com/Anomali"
-  followers: 8922
+  followers: 8923
 
 locations:
   - Redwood City, CA
@@ -22,7 +22,7 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/704208076216233984/GCReHMVS_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1443654202434076673/fq7eA6HD_400x400.png"
     width: 400
     height: 400
     isCached: true
