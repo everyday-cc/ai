@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/ai-robotics-good-investments-james-
 webUrl: "https://www.linkedin.com/pulse/ai-robotics-good-investments-james-sanders"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://www.ciodive.com/user_media/cache/9a/ea/9aea78894e609e11cd5d472cbea4d079.jpg"
         width: 770
         height: 364
+        isCached: true
+  - title: "Venture capital investments in artificial intelligence"
+    excerpt: "New analysis of global investments by venture capitalists (VC) in private companies focused on artificial intelligence (AI) found VC investments in AI to be growing at a dramatic pace. The United States and the People’s Republic of China are"
+    publishedDateTime: 2021-09-30T05:41:00Z
+    webUrl: "https://www.oecd.org/publications/venture-capital-investments-in-artificial-intelligence-f97beae7-en.htm"
+    type: article
+    provider:
+      name: OECD
+      domain: oecd.org
+    quality: 37
+    images:
+      - url: "https://assets.oecdcode.org/covers/1000~social/g27270fa.jpg"
+        width: 1000
+        height: 500
         isCached: true
 
 secured: "aNODzVhDzlopl6xVcxL4OFEZ+xzMNz7jc8vndVs9ToGLwgyaQTywksLkVCMqkyj4xAYut2JjVQYEpU1Avz3OQWk3YFf9RCzZbe2x8IFMZpyiAsaBuEk261ucxda/J4AJ9tzEClGjWRmmxcRbTZiZH1X8tjJXdkZ6cTv5LpIvtJFTSqzq+bWNgcw1f4oq6gutF7vBFymWn9npALGBHgbVRae9xu2kv7I+4SR89GyyzmgfFMfzGESMGeFJe7F/2CMFOyVvUsSfOb0kQ3ayLOaSo4dgLNlOZyM+XH8O7+eWlixqK7clhhovfdrxHCl7TBjkMtO4g84NZs8nbW1wpMO4RBZ+DJCMcNUv1eywmzCvsug=;LDHG5WLjDXk1GJorK8Mk5A=="

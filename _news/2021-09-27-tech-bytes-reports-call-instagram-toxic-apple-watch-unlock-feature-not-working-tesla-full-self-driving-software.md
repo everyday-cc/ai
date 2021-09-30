@@ -29,22 +29,6 @@ images:
 related:
   - title: "‘Good’ Tesla drivers might be next to get ‘full’ self-driving software"
     excerpt: "Chief Executive Officer Elon Musk tweeted that the download button customers will see Friday will request car owners’ permission for Tesla to assess their driving behavior for seven days."
-    publishedDateTime: 2021-09-25T12:24:00Z
-    webUrl: "https://www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/"
-    ampWebUrl: "https://www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 59
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/09/Tesla_Crash_88520.jpg?w=1024&#038;h=682"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "‘Good’ Tesla drivers might be next to get ‘full’ self-driving software"
-    excerpt: "Chief Executive Officer Elon Musk tweeted that the download button customers will see Friday will request car owners’ permission for Tesla to assess their driving behavior for seven days."
     publishedDateTime: 2021-09-25T20:26:00Z
     webUrl: "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/"
     ampWebUrl: "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/"

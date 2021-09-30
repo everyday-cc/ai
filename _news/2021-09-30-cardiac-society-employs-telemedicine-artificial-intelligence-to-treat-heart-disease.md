@@ -8,8 +8,8 @@ webUrl: "https://guardian.ng/news/cardiac-society-employs-telemedicine-artificia
 ampWebUrl: "https://guardian.ng/news/cardiac-society-employs-telemedicine-artificial-intelligence-to-treat-heart-disease/amp"
 cdnAmpWebUrl: "https://guardian-ng.cdn.ampproject.org/c/s/guardian.ng/news/cardiac-society-employs-telemedicine-artificial-intelligence-to-treat-heart-disease/amp"
 type: article
-quality: 50
-heat: 50
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://guardian.ng/wp-content/uploads/2020/02/heart-640x360.jpg"
@@ -25,6 +26,6 @@ images:
     height: 360
     isCached: true
 
-secured: "w5vVnviieq1jo/mHQQkKupbGNKl+ilpiBLKaORn483Pg8kPnfTGXU4zz5QPePcmqs/TtzAZ0yuAKs9GdxE3X2IUnUtJ32Ynii/UcWo3Wb3ENzqmw8obE/Pp3QQCpQdojXu92x5dSXeY8efj7kX9mR2zK7sLfGUCgHBdUbIb7yzqkzOH3Wa6Fnn8pxmD3qMn6q92YaCXTRW01HkP/s2viuHIHBVC7B3WFZHLlJX57qT5YNlYQc6DZZaXLkOb+CtLqQNifINSwysLyZbC1qaeSnWf185Cs0BXUAB20TW2qbPwBYQ2bljAIShOJpb6XlHxhnroenLe0b7nsFmNaBdbOCdrcwQuZ4qP6o9aw0h5pubI=;gU+ukcRZIAB8yz+dVBPzeg=="
+secured: "8YrxifRtxzuPrMytmnuwSF0dYFFDPW2kKeRqgS0UxTiYrWqFoBNtBSfq6b1HunU1A5UwGRHZOGIUYYl8sF9uwARVVjJWLL5C+l3y5ieNCRWkIdzDxzc6T30Ff/4lp5XO3WTnZQHn3EX+zZ/fWqSilS2z7ri+ubJ47DBzfZAxUONQ87KeIPFUOwX6EyFGct/q8Zm/pBHxgff8pRCcj9X7CObOfLJaSnkiP/nd8yCcLND7gPTNz3ONBWJt8E74CKJZuMRJomdETg1aNne72LWgIWSJz+z2l6uykw43WEgDEwUNlYi/0n9jZj2CQDcMdqSmtMzKmTHCaenFsLYqK/SvimELyJPjAL4YjbBfqaBEPPw4qM5P2l5Dw4lMp0o7sYoL1HoPvzUSKhBxcpfGBuOp7wLqxUI7zx5jonQ+BLORh3l2B23YWjrbXnSvrvsUwRJXIkkFAMEybpsbXr+1TN3wvLlCA71aM8A2w73Z3GAPXgQSEtTqQdM824y179YsdlaTpoq4Mn6GthlZDAnIY7yzcw==;AmaEVw77WzEkQiKhYcfEKg=="
 ---
 

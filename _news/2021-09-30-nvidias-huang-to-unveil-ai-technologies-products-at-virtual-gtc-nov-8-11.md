@@ -64,6 +64,22 @@ related:
         width: 1209
         height: 680
         isCached: true
+  - title: "NVIDIA CEO Jensen Huang to Unveil New AI Technologies, Products in GTC Keynote Hundreds of Industry and AI Leaders to Speak at November Event"
+    excerpt: "NVIDIA today announced that it will host a global, virtual GTC from Nov. 8-11, featuring a news-filled keynote by NVIDIA - Report on The Eastern Herald"
+    publishedDateTime: 2021-09-30T04:30:00Z
+    webUrl: "https://www.easternherald.com/2021/09/30/nvidia-ceo-jensen-huang-to-unveil-new-ai-technologies-products-in-gtc-keynote-hundreds-of-industry-and-ai-leaders-to-speak-at-november-event/"
+    ampWebUrl: "https://www.easternherald.com/2021/09/30/nvidia-ceo-jensen-huang-to-unveil-new-ai-technologies-products-in-gtc-keynote-hundreds-of-industry-and-ai-leaders-to-speak-at-november-event/?amp=1"
+    cdnAmpWebUrl: "https://www-easternherald-com.cdn.ampproject.org/c/s/www.easternherald.com/2021/09/30/nvidia-ceo-jensen-huang-to-unveil-new-ai-technologies-products-in-gtc-keynote-hundreds-of-industry-and-ai-leaders-to-speak-at-november-event/?amp=1"
+    type: article
+    provider:
+      name: easternherald.com
+      domain: easternherald.com
+    quality: 24
+    images:
+      - url: "https://www.easternherald.com/wp-content/uploads/2020/09/placeholder-image-TEH.jpg"
+        width: 1200
+        height: 682
+        isCached: true
   - title: "NVIDIA invites devs to test their DLSS on NVIDIA's own supercomputers"
     excerpt: "NVIDIA is inviting developers to test its latest builds of DLSS on their supercomputer, provide feedback for future improvement."
     publishedDateTime: 2021-09-27T04:10:00Z

@@ -44,22 +44,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "The ascent of the cloud in fintech"
-    excerpt: "For India, it’s a case of the right place, right time, right conditions for the enthusiastic adoption of cloud tech for financial entities"
-    publishedDateTime: 2021-09-28T12:01:00Z
-    webUrl: "https://www.dqindia.com/the-ascent-of-the-cloud-in-fintech/"
-    ampWebUrl: "https://www.dqindia.com/the-ascent-of-the-cloud-in-fintech/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/the-ascent-of-the-cloud-in-fintech/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 44
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2019/05/Paper-Business-Computing-Save-World-Hand-Cloud-2104829.jpg"
-        width: 598
-        height: 400
-        isCached: true
   - title: "Entrepreneur First Announces Investment In Six Indian Tech Start-Ups"
     excerpt: "Entrepreneur First (EF), a UK-based global talent investor, has announced an investment in six cutting-edge tech start-ups from India. With the latest funding, EF has invested in 34 tech start-ups in the country since its launch in India in 2019."
     publishedDateTime: 2021-09-29T09:37:00Z
@@ -76,20 +60,6 @@ related:
         width: 550
         height: 450
         isCached: true
-  - title: "Software platform Manch, fintech startup The Money Club raise funds"
-    excerpt: "Bengaluru-based software platform Manch Technologies on Tuesday said it has closed a $1.1 million pre-Series A round led by Bharat"
-    publishedDateTime: 2021-09-28T12:51:00Z
-    webUrl: "https://www.vccircle.com/manch-astrome-glamyo-health-the-money-club-raise-funds"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 39
-    images:
-      - url: "https://assets.vccircle.com/uploads/2021/08/Securefundrfxl.jpg"
-        width: 810
-        height: 506
-        isCached: true
   - title: "ARGO Named a 2021 Top 100 FinTech Provider by IDC Financial Insights"
     excerpt: "ARGO, the leading provider of high-value technology and analytical-sciences software for the financial services and healthcare industries, announced today that it has been named as a Top 100 FinTech Provider in the 2021 IDC FinTech Rankings,"
     publishedDateTime: 2021-09-27T13:10:00Z
@@ -103,34 +73,6 @@ related:
       - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
         width: 580
         height: 339
-        isCached: true
-  - title: "The future of payroll is FinTech"
-    excerpt: "The CloudPay NOW app provides easily accessible financial wellbeing tools and information for use while financial decisions are being made."
-    publishedDateTime: 2021-09-27T07:44:00Z
-    webUrl: "https://business-reporter.co.uk/2021/09/27/the-future-of-payroll-is-fintech/"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 24
-    images:
-      - url: "https://businessreporter-197a1.kxcdn.com/wp-content/uploads/2021/09/CloudPay-header-image.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Coin, a FinTech startup launches Coin Wallet"
-    excerpt: "Coin, a US-based FinTech start-up founded by Microsoft alumni ... Coin Wallet is an all-in-one decentralized cryptocurrency exchange, wallet, and AI assistant. Coin Wallet is non-custodial, resides in a browser extension, and includes an integrated ..."
-    publishedDateTime: 2021-09-28T05:31:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/coin-a-fintech-startup-launches-coin-wallet/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/Accelerating-transformation-through-Cloud@2x.png"
-        width: 401
-        height: 400
         isCached: true
   - title: "The Rise of Insurtech In The Pandemic Era: FinTech is Transforming The Insurance Industry"
     excerpt: "Insurtech has recently emerged in the insurance space growing by leaps and bounds, helping organizations protect their business and execute transactions remotely during the"

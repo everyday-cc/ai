@@ -45,15 +45,20 @@ related:
         isCached: true
   - title: "U.S., EU launch consultations on tech regulations, chips, China trade"
     excerpt: "U.S. and European Union trade and competition officials launched a new forum on Wednesday joining forces to better compete with China, shield sensitive technologies, boost semiconductor supplies and coordinate regulation of large technology firms."
-    publishedDateTime: 2021-09-29T16:24:00Z
-    webUrl: "https://www.nasdaq.com/articles/u.s.-eu-launch-consultations-on-tech-regulations-chips-china-trade-2021-09-29"
-    ampWebUrl: "https://www.nasdaq.com/articles/u.s.-eu-launch-consultations-on-tech-regulations-chips-china-trade-2021-09-29?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-eu-launch-consultations-on-tech-regulations-chips-china-trade-2021-09-29?amp"
+    publishedDateTime: 2021-09-29T16:34:00Z
+    webUrl: "https://www.metro.us/u-s-eu-launch-consultations/"
+    ampWebUrl: "https://www.metro.us/u-s-eu-agree-to/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/u-s-eu-agree-to/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
+      name: Metro US
+      domain: metro.us
+    quality: 59
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH8S0NM-BASEIMAGE.jpg"
+        width: 800
+        height: 531
+        isCached: true
   - title: "US, EU to cooperate on chip supply, tech trade"
     excerpt: "The United States and the European Union agreed on Thursday to work together on a number of technology, economic, and trade issues at the first meeting of its Trade and Technology Council. The two"
     publishedDateTime: 2021-09-29T21:47:00Z
@@ -113,6 +118,6 @@ related:
         height: 676
         isCached: true
 
-secured: "uYWxnOIVJRkCM29p5fqgTMA/7MnjhlAz9KEe5Vc4qPZ/oFkMSEGiXdIPCAa3i2/HKhsusUSTqzpteudFdAzfp92zLtqyBUQyNVhi7VA5XUOrWZAMrWw8izoidlHP4s+zQVNdCSnOfSh3buAJnKBp+/Lx7G0amWgPTd7q9snAaNK5J+y/yJkj2ftf0cdWvBGEEh3ZVPG4OgOSFcV5A9+/IBRkweMpokEth4n+kD7qGR7Ur8OwCw/tdiHsQHK/CS7r7axE9mnL6UoP/Xm/zvfvScLYt7pMWaACwhEp6Ew/+7MM6sqZVoQbgEtEauVjQIlxerOjxK/vTIR6Hi44PUAZ1MjAPPwbrrfcZqF/mHdVApE=;WUA/xAP9mqoZt8tCLT/AEA=="
+secured: "aGYgCdvGYZqq+fizdZhx9uw9npHpxu/ZVjySDkCq2eGN6sVHZwZodq/GgXbIpOFGci9nM1f/Pf7+1PCDH9C2uqw7VXcLyRHppIW4xdJoyiG9dXGzQUMR402SKsmWex3zCHXZHg3RrLlRUotYPOcbr/oDBbXv88rV5K6RPuu8dcFWQtZ7hKhFiIV4D1vVNEgAgwax0nanG1PdVDqcFvduX2rbSsEixBg5ey+zsQaIHssFHMKdy/U74XQNtQrnyjYB7ww/ODgdxVQX8bdMEpdM2JQ5IakETl/AoKbJAY4cjR7cWE6+P1nT41blXC65vAsyPmgtzTcwfnjTo5nMNlL5DSbQItOIBZaQXVjfVoSdL+m1xRCSFoC/USQr5fE3067x24NO12AYV8d2fy8NEfsnOCId7avrro3WR01uOznORNRU9DvRAhr+BKasUZ2WjY98pDVTEpnYtzP6ei/X9FMoqqTdglUMDrDO5thV6CaKf48b6c+Sm1T7bPZFKbONbzJOjb0nx3IP5BRqon5FXLwWuA==;v/zGG/rLm+MvDzzr2h8ziA=="
 ---
 

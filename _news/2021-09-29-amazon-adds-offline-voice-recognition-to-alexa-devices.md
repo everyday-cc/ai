@@ -89,6 +89,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Amazon adds offline voice recognition to Alexa devices"
+    excerpt: "Amazon has announced a slew of new connected devices and with those come some new Alexa features, including the new privacy feature."
+    publishedDateTime: 2021-09-30T05:09:00Z
+    webUrl: "https://www.sentinelassam.com/international/amazon-adds-offline-voice-recognition-to-alexa-devices-556979"
+    ampWebUrl: "https://www.sentinelassam.com/amp/international/amazon-adds-offline-voice-recognition-to-alexa-devices-556979"
+    cdnAmpWebUrl: "https://www-sentinelassam-com.cdn.ampproject.org/c/s/www.sentinelassam.com/amp/international/amazon-adds-offline-voice-recognition-to-alexa-devices-556979"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: sentinelassam.com
+    quality: 44
+    images:
+      - url: "https://assets.sentinelassam.com/h-upload/2021/09/30/257594-amazonalexaians.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "hn3K3q+5weUXzR0VG5ra10T4qnL2HODOR9EHS/BKz55lqJ+pV8iLO+WJmQC7OLF6eVRn6y/F5nw5uhKUQ6GfK2IHHUO6djBL5nqqzP17KcKRaI/NTbKeXdKIW/My+KH+ALzmz7GtSjG2vub0iTEGeFjPHiSondY0MyvIzft4erI6m1QN4mPzU1r8xAnYZ4XtiSFEIQ17C+iqG85/SGkKrdusuBdkO88CZMU/VEaKDDuT3SKQikYfUyKN1o/RsGY+huMh4nX7V1oI/bv+MhhRxUOrpyXWydGLcJP5vO7odrVCch3gI6BNFC5PY0tgxnKgXz1GJa0qCT5ptfDA7EZYo+/FZZVajLsZ4wm+KvVrTuUfHRp0dsxyk6dOMZvvhczxt3zh/6aEAdu3iW8/I3FLMww5+ZHGbe60ztdvVqdUifdC2UUKpsKjRg5PmdXSu2Zq09F/z13tR9OkrGT6qjn1jMV4O5zdRXPkpqvhVV4dAcb27hsyTLwaypJeAr88OKYZ2I7xsL1E5FJGwEokT7sVdQ==;U7ajnCpbW/bW+0ie+dZrMg=="
 ---

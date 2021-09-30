@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/on-echo-show-15-alexa-will-reco
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazon-visual-id/"
 type: article
 quality: 71
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2020/07/Amazon-Alexa-app-UI-logo-AH-2020.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Amazon adds offline voice recognition to Alexa devices"
+    excerpt: "Amazon has announced a slew of new connected devices and with those come some new Alexa features, including the new privacy feature."
+    publishedDateTime: 2021-09-30T05:09:00Z
+    webUrl: "https://www.sentinelassam.com/international/amazon-adds-offline-voice-recognition-to-alexa-devices-556979"
+    ampWebUrl: "https://www.sentinelassam.com/amp/international/amazon-adds-offline-voice-recognition-to-alexa-devices-556979"
+    cdnAmpWebUrl: "https://www-sentinelassam-com.cdn.ampproject.org/c/s/www.sentinelassam.com/amp/international/amazon-adds-offline-voice-recognition-to-alexa-devices-556979"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: sentinelassam.com
+    quality: 44
+    images:
+      - url: "https://assets.sentinelassam.com/h-upload/2021/09/30/257594-amazonalexaians.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "Amazon adds offline voice recognition to Alexa devices"
     excerpt: "Amazon has announced a slew of new connected devices and with those come some new Alexa features, including the new privacy feature. Soon,"

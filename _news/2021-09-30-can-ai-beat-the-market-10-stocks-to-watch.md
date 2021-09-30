@@ -35,17 +35,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "3 Top Artificial Intelligence Stocks to Buy in September"
-    excerpt: "A rtificial intelligence has become an integral part of many technology applications and software, from what online ads shoppers see to how spam gets filtered out of our email inboxes. But some companies aren't just implementing AI into their services;"
-    publishedDateTime: 2021-09-25T11:45:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-september-2021-09-25?time=1632570002"
-    ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-september-2021-09-25?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-september-2021-09-25?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
   - title: "The 3 Best AI Stocks To Buy for Massive Upside Potential"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) has been the focal point of science fiction for"
     publishedDateTime: 2021-09-28T15:28:00Z

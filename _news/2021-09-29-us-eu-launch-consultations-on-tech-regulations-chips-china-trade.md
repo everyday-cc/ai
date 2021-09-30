@@ -2,23 +2,29 @@
 category: news
 title: "U.S., EU launch consultations on tech regulations, chips, China trade"
 excerpt: "U.S. and European Union trade and competition officials launched a new forum on Wednesday joining forces to better compete with China, shield sensitive technologies, boost semiconductor supplies and coordinate regulation of large technology firms."
-publishedDateTime: 2021-09-29T16:24:00Z
-originalUrl: "https://www.nasdaq.com/articles/u.s.-eu-launch-consultations-on-tech-regulations-chips-china-trade-2021-09-29"
-webUrl: "https://www.nasdaq.com/articles/u.s.-eu-launch-consultations-on-tech-regulations-chips-china-trade-2021-09-29"
-ampWebUrl: "https://www.nasdaq.com/articles/u.s.-eu-launch-consultations-on-tech-regulations-chips-china-trade-2021-09-29?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-eu-launch-consultations-on-tech-regulations-chips-china-trade-2021-09-29?amp"
+publishedDateTime: 2021-09-29T16:34:00Z
+originalUrl: "https://www.metro.us/u-s-eu-launch-consultations/"
+webUrl: "https://www.metro.us/u-s-eu-launch-consultations/"
+ampWebUrl: "https://www.metro.us/u-s-eu-agree-to/amp/"
+cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/u-s-eu-agree-to/amp/"
 type: article
-quality: 69
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Metro US
+  domain: metro.us
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH8S0NM-BASEIMAGE.jpg"
+    width: 800
+    height: 531
+    isCached: true
 
 related:
   - title: "Competition, chips, AI on table at first U.S.-EU trade and tech meet"
@@ -108,6 +114,6 @@ related:
         height: 676
         isCached: true
 
-secured: "9ffBI1Zq8KAQY/GB3/qMnO07gVXwC3nir9rS4Z9dTAS/p53NzfsUQl9AX9ByOV31EI5IZaGM/AszLotpdjuIQ93S/wdyFZBpdubV2OX+WqEkE1aRYLXrKNvB6NLOTtUdhIDiTyQVXBN3pEvATUdhI3OLybA73I20pWpIPB68VZqPFbEfVqV20J0ASe+LVAcSvonxBmvC6grip0Qk2z0+LtNFNnWIJ1g39+mkxWb+h8LouTV5dwW+vwtPaZC4J7fRkasVSHk14rslNFjmZUuSdAjitcxFdiuz2XqzutxOkFql6ZfGwEactvOoVkB066KJo5J5Hz93EDJJbpabuYPc7qTssXfnfxbk76I/V3uShfdR5IiyAI5MeBOoGc2lL5poLbtlSOSvGXsizZbHWxYLKR+T1bMT6tZ6iGyAS0VMBT3Bc4FuG6gOqfvW4XgIUlR3uvtvW2W+2sGF56hlgAzmxWQhlgekYvqTqdoRX2ouUtPQ2BI3k0H/bFf66Wqf3eLzXn6EmuniogIXY3a00jGqsA==;tJBC2s+hQWdCfvSyEaF2Bw=="
+secured: "U40KKomtdeRM9nQss87PVYv3NPI0lTHMzSDniGlsjMlZMVOI8cVWWmaMvZRGVzL+4A9qnHvyp2mXzWA392+9+cDKCsyBnQzWGjXSeoYzKtQzH0AQptCGL39eVrKg4oXRwWX2Uzy1JdqozXPJcEkI3LOzBeMR/wGqmlAvquFodnrIhb9uHB9ADYLYBZnEAm6AEYR6r64t/8558vOhz6j0gM5iLUbjl56zeU5hilR4AKFk6ygA5zE21G+43dW3n8wSKPzlz/9e2MyX9NBRNbgsIEdcHZDyuCqvHS0fQ7bnEnAeI4rVqBt7ZLceXQcR6/Eo11skR7N2vqHnZbJ60KiHTEnZpWI0F9RYs3HhZn9B7UQ=;xeUJSlwQiYFioMawNK3fFw=="
 ---
 

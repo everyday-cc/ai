@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "U.S., EU launch consultations on tech regulations, chips, China trade"
-    excerpt: "U.S. and European Union trade and competition officials launched a new forum on Wednesday joining forces to better compete with China, shield sensitive technologies, boost semiconductor supplies and coordinate regulation of large technology firms."
-    publishedDateTime: 2021-09-29T16:24:00Z
-    webUrl: "https://www.nasdaq.com/articles/u.s.-eu-launch-consultations-on-tech-regulations-chips-china-trade-2021-09-29"
-    ampWebUrl: "https://www.nasdaq.com/articles/u.s.-eu-launch-consultations-on-tech-regulations-chips-china-trade-2021-09-29?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-eu-launch-consultations-on-tech-regulations-chips-china-trade-2021-09-29?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "U.S., EU agree to work on chip supplies, tech rules, China trade"
     excerpt: "The United States and European Union agreed on Wednesday to deepen transatlantic cooperation to strengthen semiconductor supply chains, curb China's non-market trade practices and take a more unified approach to regulating big,"
     publishedDateTime: 2021-09-29T22:47:00Z
@@ -65,6 +54,22 @@ related:
       - url: "https://www.reuters.com/resizer/QBsO6Th9MsOu5oTWJVWzip48cR0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I7DURYCRLZOA5BEUHD36PYJAKA.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "U.S., EU launch consultations on tech regulations, chips, China trade"
+    excerpt: "U.S. and European Union trade and competition officials launched a new forum on Wednesday joining forces to better compete with China, shield sensitive technologies, boost semiconductor supplies and coordinate regulation of large technology firms."
+    publishedDateTime: 2021-09-29T16:34:00Z
+    webUrl: "https://www.metro.us/u-s-eu-launch-consultations/"
+    ampWebUrl: "https://www.metro.us/u-s-eu-agree-to/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/u-s-eu-agree-to/amp/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 59
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH8S0NM-BASEIMAGE.jpg"
+        width: 800
+        height: 531
         isCached: true
   - title: "Chips, AI on table at first US-EU trade and tech meet"
     excerpt: "WASHINGTON: The United States and the European Union hope to discuss chip shortages, artificial intelligence (AI) and tech competition issues during the first Trade and Tech Council (TTC) meeting this week,"

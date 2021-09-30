@@ -76,6 +76,22 @@ related:
         height: 1080
         isCached: true
   - title: "Amazon adds offline voice recognition to Alexa devices"
+    excerpt: "Amazon has announced a slew of new connected devices and with those come some new Alexa features, including the new privacy feature."
+    publishedDateTime: 2021-09-30T05:09:00Z
+    webUrl: "https://www.sentinelassam.com/international/amazon-adds-offline-voice-recognition-to-alexa-devices-556979"
+    ampWebUrl: "https://www.sentinelassam.com/amp/international/amazon-adds-offline-voice-recognition-to-alexa-devices-556979"
+    cdnAmpWebUrl: "https://www-sentinelassam-com.cdn.ampproject.org/c/s/www.sentinelassam.com/amp/international/amazon-adds-offline-voice-recognition-to-alexa-devices-556979"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: sentinelassam.com
+    quality: 44
+    images:
+      - url: "https://assets.sentinelassam.com/h-upload/2021/09/30/257594-amazonalexaians.jpg"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "Amazon adds offline voice recognition to Alexa devices"
     excerpt: "Amazon has announced a slew of new connected devices and with those come some new Alexa features, including the new privacy feature. Soon,"
     publishedDateTime: 2021-09-29T08:17:00Z
     webUrl: "https://telanganatoday.com/amazon-adds-offline-voice-recognition-to-alexa-devices"

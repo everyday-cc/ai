@@ -654,18 +654,27 @@
       "title": "R&D tax experts Counting King save businesses over £3 million in six months",
       "excerpt": "As part of this, Counting King is hosting Innovation North West, which will bring together leading industry experts including AWS DeepRacer, Viscgo and the Graphene Engineering Innovation Centre. Established in 2020 by Gary Hilton and Sam Dallow ...",
       "sourceUrl": null,
-      "webUrl": "https://bdaily.co.uk/index.php/articles/2021/09/23/rd-tax-experts-counting-king-save-businesses-over-3-million-in-six-months",
-      "originalUrl": "https://bdaily.co.uk/index.php/articles/2021/09/23/rd-tax-experts-counting-king-save-businesses-over-3-million-in-six-months",
+      "webUrl": "https://bdaily.co.uk/articles/2021/09/23/rd-tax-experts-counting-king-save-businesses-over-3-million-in-six-months",
+      "originalUrl": "https://bdaily.co.uk/articles/2021/09/23/rd-tax-experts-counting-king-save-businesses-over-3-million-in-six-months",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bdaily.co.uk/images/uploads/lH9QZdH6kUupgbgaaE6DDrJPmKzrqSuvEU2YWhmR.jpeg?w=940&h=430&fm=jpg&fit=crop-2-39&s=e3b83a4adab4eb45bee02e4e0bf27200",
+          "width": 940,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-23T05:53:00-07:00",
+      "publishedDateTime": "2021-09-23T04:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Bdaily Business Network",

@@ -41,6 +41,20 @@ related:
         width: 652
         height: 367
         isCached: true
+  - title: "Overcoming AI Challenges with IBM’s AI Ladder"
+    excerpt: "With $16 trillion up for grabs by 2030, there’s a race to be leaders and pioneers in the brave new world of AI and automation. Across every industry, we see an acceleration in the rollout of smart, co"
+    publishedDateTime: 2021-09-30T05:54:00Z
+    webUrl: "https://www.linkedin.com/pulse/overcoming-ai-challenges-ibms-ladder-bernard-marr"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEXLjbNFPcZPQ/article-cover_image-shrink_720_1280/0/1632980971371?e=1638403200&v=beta&t=G-yU0u-ghg2L-ea61NBCrtc7lJxBUYJ_ZYu8D4WsmhU"
+        width: 1152
+        height: 720
+        isCached: true
 
 secured: "/k5PpARhi2gp3JPtl0sjDUJV0ItSE5quPJ3PK2tjdv06mjujZ9OdAo35aTW/y1K9lEGQpDPbFuM0K+Ygcr+2yKPx8JWELtMQfYddQAE66ZH34cfsc7Gqk2Fiimb6bOD0UP9ywD/MJFowXJ1VQ9J+QiDaudtXYPCnx+nFA8QkrffyGz769zGX5QM+9qbcKeQ65vt+h5y5pQXbDQi0qzDHKdDOEn8p58qPWaXrAvebZ6zXCCfiU67TpN6kfwpx6lyGFeRlC6D5I7wZGP3YM8dZSQB6NHmVqHj4ZrBszBInGi0oCbApLhqdIkY4+ltdwcI03unwfzLaTt1xY16GODWtyuvAZBtGT1PO3Z+vU+uxJQhSu26zabyED01Er7iYltv3jG5JfwZZyoivo+IQZqcjddfDSIuWrVuVBhLRSTPfsf0Mt0AhBXzjPCDX0r/kvU0KdRwjszxN58H18hWvst//PAhfvlefucORmZGcBClpLh4QVJbPnq4gSErZBl9sYxrvZU8iEtY4WygVUrm9PTeb5w==;QGJVbJXViBoCanM/MOjh4A=="
 ---

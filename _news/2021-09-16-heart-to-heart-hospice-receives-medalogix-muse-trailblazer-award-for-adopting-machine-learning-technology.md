@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Heart to Heart Hospice Receives Medalogix Muse Trailblazer Award for Adopting Machine Learning Technology"
-excerpt: "Medalogix (  a premiere health-tech company using machine learning to advance patient care within home health, palliative, and hospice care settings, has partnered with Homecare HomebaseSM (HCHB) to announce Heart to Heart Hospice as the winner of the Medalogix Muse Trailblazer Award."
-publishedDateTime: 2021-09-16T11:00:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-texas-dallas-8d1aafeaba43856a011f9e8c010650a4"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-texas-dallas-8d1aafeaba43856a011f9e8c010650a4"
+excerpt: "Medalogix ( a premiere health-tech company using machine learning to advance patient care within home health, palliative, and hospice care settings, has partnered with Homecare Homebase SM (HCHB) to announce Heart to Heart Hospice as the winner of the Medalogix Muse Trailblazer Award."
+publishedDateTime: 2021-09-16T11:19:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/heart-to-heart-hospice-receives-medalogix-muse-trailblazer-award-for-adopting-machine-learning-technology-1030804160"
+webUrl: "https://markets.businessinsider.com/news/stocks/heart-to-heart-hospice-receives-medalogix-muse-trailblazer-award-for-adopting-machine-learning-technology-1030804160"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "lI0DAVH9Y2R/8afIr9gXy3fVTfO6l+YASEeM9Yea1AfkrpPq/bLUk4D4wfxcHINSHoYKxU4JmRVQ1jxHs60LorIggOGcD5/Q+pX1vq52mQv5se2/a6vcuH2Gry8lFfDkDd3kKFnbvBPjdbp+8oj4BViGpMYjZwsM8mgSJG6ORp0K3bsG/rvaf9pRb3UiqEtkCV/VG9UeVRyqC2h1DWC1Shm3tO4HAL+nTWJ/nykW7WGFMM6dadvuLzj9I9yoesFYq2cmhRVaUwh4kl/0o6KOqw+30IKNvWFtr2oWtnwct5qKk6esX/d9VFpSGujHmgVsiaVXAIgdlyBHsDjDga8+mCflby1f6l0sMofDWwcuBC4=;CiRMU6CwkckMpUgYR+b/+Q=="
+secured: "Xd2kmz5Al1xmQLTpaBCAGivoo5MwcnRcgpO2aDXoLQ71yiv6AlANKG9uor3ARuKWgzJm6192h9boldZ84aKosJ0mYKFTVZuvmp7Nk9LfgzUDtgblkiXi3sIDxXnCIhQz2aAKPCf+VnwFSV+XX9h3V8BwNlEMNHRhQx+MGdNWDVNP/Gn7LzBvK0ML1GdFbaXi1WkEd+yW+esF9OQiU2FGCDbMdq7ZA/+RoLSq9+gUDqnewlJYRJ0P76pa4DAyHzgtjIF1vtkF6UASmZKrVYBhWtsLQQ6DZNy2gXkPA3sGFoxZKjirl8PYBf79Lzywcj9b4HM4NLzjdeEqKcXxYQVHxX8joRKpVDb8l6vVRTb8u9E=;p8kwbZ7u47j1Rm5gFMMTpg=="
 ---
 

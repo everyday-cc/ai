@@ -3,21 +3,27 @@ category: news
 title: "BrainChip Goes Virtually Everywhere at AI Everywhere Forum 2021"
 excerpt: "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology, today announced that Vice President of Worldwide Sales Rob Telson will present “Intelligent AI Everywhere” at the AI Everywhere Forum September 28 at 1:15 p."
 publishedDateTime: 2021-09-27T23:41:00Z
-originalUrl: "https://www.financialbuzz.com/brainchip-goes-virtually-everywhere-at-ai-everywhere-forum-2021/"
-webUrl: "https://www.financialbuzz.com/brainchip-goes-virtually-everywhere-at-ai-everywhere-forum-2021/"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-brainchip-holdings-ltd-5e8d200749cc445e8620e9cd9502b40e"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-brainchip-holdings-ltd-5e8d200749cc445e8620e9cd9502b40e"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "C9mc3Sg6YUzy99XBjmzmGxjbRL+5Tyn9k8xhZ7pDusDXG5UuQQ7WnmE5Ai+mG3EA0p+iJWUc0Uf+639TWBWJce2/Xy3n+nZ4y+wO39Iis+FbG5q/Tl8r6oDm5AimfDYp7h6qEI3T2piJBz3dbVnwRcMFIax/HxcS8W2OGdOHJyMoaKKb6ER6ZzydYWEcNS9Ly/GrUhyH4AIGMLj9uqocMWWFfTf0ze5YLhap5C3jsEkJuhSjkJObIeNJ17Zb1X5pfTFxGyO4hI7qIZGWOXkkgZHkimQEycBuNoMIMzBUFG6ASrnqj85CIHLoaoWFp+5Bd6mj7tmY9GvKN1DAwnhiJ/ULiLxoHOG06PwuBZIVwX0=;x4qH0wiQi2Ggmdleja3NUA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "YtmSi9T19sXxRFU6PDN8oMYHDXs9JMvwffwZrT3DAgBSrRCIWcIBEXPytjM0+0V+eHO/2bJaIK7DDhomvCtHlRgsx0UWCuPddd/pDkg4m+mTKbuGfpoFaAsmJYkSLwssHPgAeVcrEU7waHF5MGm39cgRL4nUR1WNRYKwWQJ4JdE4zMtrNqL89a9kuTdfeQelslTOsZBzAUI+UdPQJ+WRfsgTukY3TL2nzGaqaFf3NnyE/UVFzmZmLlAgYW5QsWkAa5RnTIynOkdRULrCbBd1aOzKDbeXK0tPpOWn/g8uhxcp98RLMDhfo4hZr9BfYplCzhoXZ6mI90NDo3z8nPbVEHam5HRFO/IJjgw05e3Rxtw=;RzMH+oLYsfmh5v71OEjbGQ=="
 ---
 

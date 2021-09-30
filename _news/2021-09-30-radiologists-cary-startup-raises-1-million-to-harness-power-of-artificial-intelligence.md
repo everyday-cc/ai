@@ -50,6 +50,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Gartner: Tech providers to invest over $1 million in AI"
+    excerpt: "One-third of technology and service provider organisations with artificial intelligence (AI) technology plans said they would invest $1 million or more. Gartner: Tech providers to invest over $1 million in AI."
+    publishedDateTime: 2021-09-30T05:40:00Z
+    webUrl: "https://www.itp.net/emergent-tech/gartner-tech-providers-to-invest-over-1-million-in-ai"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 17
 
 secured: "vjgiLMeduPUkpZN0HnAtNt02/ZDazMq3AJP2P8CuG//tNn5D7037kv5ZRSVXLNx7Wx7QYohpT4AoT4Bv8+zH+FoouD62KG362xQCeL8AzIrW26YKPBvMdOHmf/kkVC+nIOXwCh2l+I7yhXKGjFDLdbDkAFYlN+Y1LUk17onPBI+xkP9LBh2YE1cdTz2msf/zIduugWFCu5c7NDavaA63tp+PRu91ZXxa7g8gZz7KWAhWw+HUQ7NMChnzpgyWREOvY8kQsY0ma6o13Cfd2tZVh7JuLXTiTpoR53rqt3/XktWnHFaziNT30Zo0IH5n3v41oLrqpowdfUoenNm2wIm7d2xQxTqDOyypSHHCNooVv1XgBfzKtUN9p+SPfjC5MlgEne7utbRxqWzXyUBPUZJ/tPc1hiXJlZljTyibBAfinVt2D/rk4Mv0AxFuqlakeSgOccyShpU7b00HdE1de8hOm0fCtiY/FvyE3UPoy/DIetl1JD+FAyzZBgg5M+oGqCrWmbp5xMqA6QqTJn+LjdDjAA==;AxHhFJdCCNtFyozqY8jjgA=="
 ---

@@ -56,6 +56,22 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "NVIDIA CEO Jensen Huang to Unveil New AI Technologies, Products in GTC Keynote Hundreds of Industry and AI Leaders to Speak at November Event"
+    excerpt: "NVIDIA today announced that it will host a global, virtual GTC from Nov. 8-11, featuring a news-filled keynote by NVIDIA - Report on The Eastern Herald"
+    publishedDateTime: 2021-09-30T04:30:00Z
+    webUrl: "https://www.easternherald.com/2021/09/30/nvidia-ceo-jensen-huang-to-unveil-new-ai-technologies-products-in-gtc-keynote-hundreds-of-industry-and-ai-leaders-to-speak-at-november-event/"
+    ampWebUrl: "https://www.easternherald.com/2021/09/30/nvidia-ceo-jensen-huang-to-unveil-new-ai-technologies-products-in-gtc-keynote-hundreds-of-industry-and-ai-leaders-to-speak-at-november-event/?amp=1"
+    cdnAmpWebUrl: "https://www-easternherald-com.cdn.ampproject.org/c/s/www.easternherald.com/2021/09/30/nvidia-ceo-jensen-huang-to-unveil-new-ai-technologies-products-in-gtc-keynote-hundreds-of-industry-and-ai-leaders-to-speak-at-november-event/?amp=1"
+    type: article
+    provider:
+      name: easternherald.com
+      domain: easternherald.com
+    quality: 24
+    images:
+      - url: "https://www.easternherald.com/wp-content/uploads/2020/09/placeholder-image-TEH.jpg"
+        width: 1200
+        height: 682
+        isCached: true
   - title: "NVIDIA’s Huang to Unveil AI Technologies, Products at Virtual GTC, Nov. 8-11"
     excerpt: "NVIDIA today announced that it will host a global, virtual GTC from Nov. 8-11, featuring a keynote by NVIDIA founder and CEO Jensen Huang and talks from AI research and industry leaders. Agenda and registration information can be found here."
     publishedDateTime: 2021-09-29T18:38:00Z
@@ -84,6 +100,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "66+G+5YZEsZg7FQwWeWPvyXfgKKOt2LNgaaWhm7no7uy5QfqIOg0BMz6GFivtD8BZMKAAo+yqQ6BAAA2tuGl0MjoGqMrve7jZq9eTbRnSMd3nJcBCGyAmJqveov1rsz3oWkWopIzwtgcM4Y3VuJ9FkBK8SZjLqVg1qfeN0C8Cev4+BSM631uY1uDPjO57uhC9AfOye8qARy70kPDFQRQTP1/ub9zfVlJwzfiD9AoV2tbZAlnz2sASlrZGHfN5uehs1a6EkDRJPecLC31IhXKZsujIq00A0jM0GJXI9KyQdZjuQEgkyCjrzhKtaXas42MM+9VDscYOVhmS4X0U3BLIveIsSibSjdC+q+aeKYEilQ=;GQxzJMm4BlKTWflassq4zA=="
+secured: "/nvufbScpzV+bmnz10gcNAjL595BIot+1hN+nX1RR/N/Zuvl2+ZLRrUdNqg2YYNY3KMFrPfoN8IP06lD3xlU4RUeWPzPxe383sKiDz/G80I3LbCyRV0TtxelzoXIwuWreZAMqHFvLhRPjGJZLYgBwcc0ija+waB+uOvdxTyK9I4qRc4aqfP8ymC9LW7nDGwUhAeOGqNHVVYzQBPA9o6bHhD/qFlXy0UL1PFHeOxvGj9DpNomWHdsK8/47ytpAiyTfxXQ3pOzis7gQ7DtTCnwZN4wya9ZQfYiikjJtP0PaG9DxsdcsvJJEclYG2Tm7UbejCTS5SzHc//gCChgK1Mq0rEhDDz1dem47bmtw7fLkuVoQZx1V7ZjoVaTgodqILW1d7GUNELdy5OSR2a7j+VqscjsFA1/qPvTuurJbw5hnToLj3CMcgs4lWgQirQDKacNCQsjkRkkAAggUFsyzVl2t7VXoNNX5t4yMc/tA7hU1hrf/C48P9Kdrf5hSeOwQZmMsiiNpxZ0ybuyMIJkOPSJdQ==;nMwl8dlsmvG/imJN+U9IaA=="
 ---
 

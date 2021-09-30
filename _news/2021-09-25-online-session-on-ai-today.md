@@ -52,6 +52,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 23
+  - title: "Gartner: Tech providers to invest over $1 million in AI"
+    excerpt: "One-third of technology and service provider organisations with artificial intelligence (AI) technology plans said they would invest $1 million or more. Gartner: Tech providers to invest over $1 million in AI."
+    publishedDateTime: 2021-09-30T05:40:00Z
+    webUrl: "https://www.itp.net/emergent-tech/gartner-tech-providers-to-invest-over-1-million-in-ai"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 17
 
 secured: "/80ImyCDrYZqGoXq6UivSSSoNg+8chbs+t2lEkn6V7tD+xl0f5AXAFdW2d/CYsnQumeFqR8TcSXzVHnZkPU2KYnS7afArMTxXK/PYnWQ+Sc79E+umBAI7UDS8AgCcUMCL+Tl2uav71iztqjMj9K0FkAPvrYYys0rIR5C8/NhBkAWRX5gQRa23RO+29+lomRnisvyjqDhIcMHTTKjQCSeq6WHxc9Ah7wdb5K0A2Lq6d4QYYmdnZwnhyC6qGjnw97a9XW2jK8iI+rch2ZOwiG4RNUrbrh9MG2pb+dq4pb98+2N490wZy1mCT5pqNrg/1GHJ5sOBVgDnH84EL8tZ36nFRSMo5xL/ZoCgSOr2BHvcvk=;3edOKJzrlRAiWSjp8M3gdA=="
 ---

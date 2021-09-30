@@ -9,7 +9,7 @@ ampWebUrl: "https://9to5mac.com/2021/09/29/apples-senior-director-of-ai-and-ml-t
 cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/09/29/apples-senior-director-of-ai-and-ml-to-speak-at-nvidia-gtc-2021-conference/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
         width: 1209
         height: 680
         isCached: true
+  - title: "NVIDIA CEO Jensen Huang to Unveil New AI Technologies, Products in GTC Keynote Hundreds of Industry and AI Leaders to Speak at November Event"
+    excerpt: "NVIDIA today announced that it will host a global, virtual GTC from Nov. 8-11, featuring a news-filled keynote by NVIDIA - Report on The Eastern Herald"
+    publishedDateTime: 2021-09-30T04:30:00Z
+    webUrl: "https://www.easternherald.com/2021/09/30/nvidia-ceo-jensen-huang-to-unveil-new-ai-technologies-products-in-gtc-keynote-hundreds-of-industry-and-ai-leaders-to-speak-at-november-event/"
+    ampWebUrl: "https://www.easternherald.com/2021/09/30/nvidia-ceo-jensen-huang-to-unveil-new-ai-technologies-products-in-gtc-keynote-hundreds-of-industry-and-ai-leaders-to-speak-at-november-event/?amp=1"
+    cdnAmpWebUrl: "https://www-easternherald-com.cdn.ampproject.org/c/s/www.easternherald.com/2021/09/30/nvidia-ceo-jensen-huang-to-unveil-new-ai-technologies-products-in-gtc-keynote-hundreds-of-industry-and-ai-leaders-to-speak-at-november-event/?amp=1"
+    type: article
+    provider:
+      name: easternherald.com
+      domain: easternherald.com
+    quality: 24
+    images:
+      - url: "https://www.easternherald.com/wp-content/uploads/2020/09/placeholder-image-TEH.jpg"
+        width: 1200
+        height: 682
+        isCached: true
   - title: "NVIDIA’s Huang to Unveil AI Technologies, Products at Virtual GTC, Nov. 8-11"
     excerpt: "NVIDIA today announced that it will host a global, virtual GTC from Nov. 8-11, featuring a keynote by NVIDIA founder and CEO Jensen Huang and talks from AI research and industry leaders. Agenda and registration information can be found here."
     publishedDateTime: 2021-09-29T18:38:00Z
@@ -84,6 +100,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "A7tnGO/m/VFCGOekayHWRSd+4eZvAYIZMM+YDmkNkvHDvMuEa6eyozxrH0vH6fyHolVlC1j/rOHznfRbStZsQ5czTsQu1KFB3iwAaHDvXCNibTgIRAaJUZ4WLm7PB2wIBW2G7dVaYryZuAkFeJ4d8mhZ1ktZDhw4LBrb99Ac+bo2Bbyuh16kt+CorF9X2vsp9X7BdaNaemb2KOexY21/yL/VyDxeTU0wN/nyAjgF8+L3PC+uIkrgfmhH/UL8R2RqtrXTH2l1aSyMXGRzBixuqs1wh8ahsM4uZF0ySyQXau1QQ3v/qLPK6lRmUW/EhnvtmzieszKCtoiOwQSq/o3U/z03X7rzOKSa+3WD9MjxXcw=;t0Iy8tsEXrpRzwiorX8Aog=="
+secured: "A1xy/1ORUfokGm8erJ/8UKRuc0/iT0DTAXOdXfRbDzbmPB2NpAc6f5rbTfIgSMsx8uPCK6qv2NJlt/SZx9w1Vtqbf+dmQHJ62g7ptvHOWA12Y3+ldPzJL6jeRVBnw8foAe68oeDGBgKbAU2m9Oyt38+A1+U1iKhfH3tWcPuuwHcNAElEP5qHIMV9AAvQoBTBgAFogr3J2syu5uFJDHpOWSZBlSmzI3bV7lMtMIdj9HXLKZJdtLNljMg/HorfBMnvNNyEnCGegE6TXKKrlmzJxlB8rboL4WnpTcYZvc3oLH2qx10yvD61vFGF53IfOtEkL9MpAoFwZsXgp8vf+Q3g6JzqPGJI3VPltg2oKlffPTHeDy97V67LKHnncSkD6Eu22XNGBOCsGIjoCMy+ONCa6bgJ6p7n98DfC073JVuOrur0/0g0FsKDRVNDroDfLk8FCFsBxMH6iDctklrix14AogduYbYYDVvG30/pjBNsuXze5ugovXytFNFW7Gvf/+VK6zCCKLCgtnOjNoSAOJMKRQ==;ACfc2daekyWBDyyx1BU02Q=="
 ---
 
