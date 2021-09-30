@@ -51,6 +51,20 @@ related:
         width: 790
         height: 496
         isCached: true
+  - title: "GM Now Testing Self-Driving Cars in Scottsdale"
+    excerpt: "General Motors announced last week that it's begun testing its driverless cars in the upscale Phoenix suburb, the Associated Press reported. Scottsdale is the second city in which GM is conducting the tests — it's been testing the cars in San Francisco since May."
+    publishedDateTime: 2021-09-29T22:01:00Z
+    webUrl: "https://www.arizonahighways.com/index.php/blog/gm-now-testing-self-driving-cars-scottsdale"
+    type: article
+    provider:
+      name: Arizona Highways
+      domain: arizonahighways.com
+    quality: 24
+    images:
+      - url: "https://www.arizonahighways.com/sites/default/files/styles/article_hero_image_1474x475/public/chevy_bolt_scottsdale.jpg?itok=hM1VqsJP"
+        width: 1240
+        height: 475
+        isCached: true
 
 secured: "zYwRbr577OF9B2D5aCvb39i+5W2jGHScjUTqkMx+hy+a5qjALW/kFs4Vx7e+DVagvX1b+dGzEZ10MWQWNISarhpxp7e+HRrwyPAF0u1nrhRlBXOQ/AGxRpXd1BIWSltBjHzz+DEc9zV09HLRoq7amkXQX3t5vA9qCdrZrpinge17M11/S8YNW98Y3YRamaTH+7UdYlRbZ5JHlSMFpvVbPpkhmpz4TXX67PO3VlyXHnIErBhHFAPrVcC485fCF1G/TcnyRtntb5f3AGAyUH8PIBpTe6TRIrFsDMmGLIuqyii23ZB3io0YqIlGksNXCsTM8GYY4dHdNlxxbXechJRCCtnLR/A40n8rSUH78HAscqU=;3614nG+dlvU9syvNFawFyg=="
 ---

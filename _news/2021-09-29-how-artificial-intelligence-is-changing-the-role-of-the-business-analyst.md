@@ -44,6 +44,22 @@ related:
         width: 536
         height: 267
         isCached: true
+  - title: "OpenAI is working on an artificial intelligence model capable of summarizing books"
+    excerpt: "OPEN-AI, the \"capped\" for-profit company founded by Elon Musk, is continuing to improve its GPT-3 language model and is developing a tool for summarizing books or texts. It's a development that could benefit businesses in particular."
+    publishedDateTime: 2021-09-30T00:10:00Z
+    webUrl: "https://www.astroawani.com/berita-dunia/openai-working-artificial-intelligence-model-capable-summarizing-books-322510"
+    ampWebUrl: "https://www.astroawani.com/berita-dunia/openai-working-artificial-intelligence-model-capable-summarizing-books-322510?amp=1"
+    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/openai-working-artificial-intelligence-model-capable-summarizing-books-322510?amp=1"
+    type: article
+    provider:
+      name: Astro Awani
+      domain: astroawani.com
+    quality: 68
+    images:
+      - url: "https://img.astroawani.com/2021-09/41632888862_OpenAI.jpg"
+        width: 590
+        height: 400
+        isCached: true
   - title: "OpenAI is working on an artificial intelligence model capable of summarising books"
     excerpt: "OpenAI, the “capped” for-profit company founded by Elon Musk, is continuing to improve its GPT-3 language model and is developing a tool for summarising books or texts. It’s a development that could benefit businesses in particular."
     publishedDateTime: 2021-09-28T23:10:00Z
@@ -110,6 +126,6 @@ related:
       domain: cbo.gov
     quality: 30
 
-secured: "qS4jEUd/UXSDbzX6TNVvNujxoC7S4O4VVKH/jCq3Cmjmcw/H6O8xOQIoH9ABwBlxDEAFQKjYk+NNDfUpuY8oYdwbK5DqMEzRcIR6P3KKZomNJuMA7otGZ1IjKVFOQX5jw03NZExzVDBQ83EPhF7wWg1+neeVHMdMp64ZWBsZ5KhEPLg3eSCYOr508lTrGDAo4moR+uYiC10awvHuTSnM8VktkATGF4x9lvoRWW+gMdj2gL5956ovvffGTaW3q9rT6Q0ESMHMXG0ChbV60LGcakgJiDZcY2h5ZjcDptXzbPfttKjsreeh7mr9ws+UpgW2lA0GUek14o1tDWu+d2JnN17QDC3LFFJOQ6u8YzRWC3s=;fQCI2WJy7WUAKC8csxulmg=="
+secured: "DgU+TJjzxjWmrIqZaJCnqrVTkayRy8psxoMzE48DJC1I2Wf7zOhLJB5rguoAxKOKbEv/Cp15JFwkeWgF+A09TtoVhGCN23sbenlp7Cc9N5iPWHePvxUpka4a9A+cxsQWlk/tfJBSf1mYEV5R+lgm1jtfSImvG5FYiZTLmBgKOl29Fog09T4dsbFBSY73FM+igx9y0cn2HhEwrFKbm3qByO8g0906Emuf+ED9nDaMHyqmEI3W/+quV+voUlr+tOsnP8QzltoCcV/6YhRSy2ZyetLX/+HZRRNOHd8BskI32p+YctzWtd8assqEJOOeu4VGKyJJoHaw2y82YHUAPZkKzYuraj7PG+2iFdWfxX3CN892ItDgoI2ADSiDegvwQ0Z2QLrdFhehY/BhN8owf31G49MQiBU+KvdP/lZnEaHKp3v/htf3Ty2R3WoXe7r/3tsV5GahZmM9AjsLc0Q8sUXfaNA47CgjbT4n12AB28LkbcfLjrBaBkBW167KhiystVgrecQXmCTQ2+S1YBKwEDnp4A==;xinvkU9vStt49mKnxBKYsg=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-29T18:38:00Z
 originalUrl: "https://insidehpc.com/2021/09/nvidias-huang-to-unveil-ai-technologies-products-at-virtual-gtc-nov-8-11/"
 webUrl: "https://insidehpc.com/2021/09/nvidias-huang-to-unveil-ai-technologies-products-at-virtual-gtc-nov-8-11/"
 type: article
-quality: 16
-heat: 16
+quality: 18
+heat: 18
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Robotics
 
 related:
   - title: "NVIDIA CEO Jensen Huang to Unveil New AI Technologies, Products in GTC Keynote; Hundreds of Industry and AI Leaders to Speak at November Event"

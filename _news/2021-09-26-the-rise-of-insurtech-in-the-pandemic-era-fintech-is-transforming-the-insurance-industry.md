@@ -138,29 +138,6 @@ related:
         width: 401
         height: 400
         isCached: true
-  - title: "The Advantages of Developing a Mobile App for a FinTech Industry"
-    excerpt: "We live in some technologically exciting times. Every industry or company benefits from having an app ready to help its customers. No matter the industry they are in, more and more companies already have an app connecting them with their customers."
-    publishedDateTime: 2021-09-28T17:56:00Z
-    webUrl: "https://finchannel.com/the-advantages-of-developing-a-mobile-app-for-a-fintech-industry/"
-    type: article
-    provider:
-      name: The Financial
-      domain: finchannel.com
-    quality: 24
-    images:
-      - url: "https://finchannel.com/wp-content/uploads/2017/11/Magazine_FinTech.jpg"
-        width: 800
-        height: 549
-        isCached: true
-  - title: "Thesis Intern at AI for Fintech Research"
-    excerpt: "Thesis Intern at AI for Fintech Research With millions of customers and thousands of employees worldwide, software and data analytics are at the heart of ING's business and operations."
-    publishedDateTime: 2021-09-25T08:51:00Z
-    webUrl: "https://www.banken.nl/stages/2144/ing/thesis-intern-at-ai-for-fintech-research"
-    type: article
-    provider:
-      name: banken
-      domain: banken.nl
-    quality: 19
   - title: "FINTECH attracts senior talents as investment ramps up in Asian Trade Finance centre"
     excerpt: "Leading hyper growth FINTECH in trade and supply chain finance #dltledgers has appointed Sanjeev Chatrath as their new Chief Revenue Officer"
     publishedDateTime: 2021-09-27T07:17:00Z

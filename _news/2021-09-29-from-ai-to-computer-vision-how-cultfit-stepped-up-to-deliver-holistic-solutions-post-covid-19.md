@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/from-ai-to-computer-vi
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/from-ai-to-computer-vision-how-cult-fit-stepped-up-to-deliver-holistic-solutions-post-covid19-71632820468048.html"
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 1619
         height: 1080
         isCached: true
+  - title: "Deep Learning Helps Predict Drug Combinations to Fight COVID-19"
+    excerpt: "A team led by researchers at the Massachusetts Institute of Technology (MIT) used deep learning to identify drug combinations that can fight COVID-19 by modeling interactions between drugs and known biological targets related to the virus."
+    publishedDateTime: 2021-09-28T00:00:00Z
+    webUrl: "https://cacm.acm.org/news/255862-deep-learning-helps-predict-drug-combinations-to-fight-covid-19/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
   - title: "Deep learning helps predict new drug combinations to fight COVID-19"
     excerpt: "COVID-19 has caused more than 2.5 million deaths worldwide and the search for new medications and treatments remains impotence. In relation to this, MIT CSAIL researchers are trying to help and for this they have created a deep learning system that helps predict new drug combinations to fight COVID-19."
     publishedDateTime: 2021-09-27T19:08:00Z

@@ -34,6 +34,22 @@ related:
         width: 536
         height: 267
         isCached: true
+  - title: "OpenAI is working on an artificial intelligence model capable of summarizing books"
+    excerpt: "OPEN-AI, the \"capped\" for-profit company founded by Elon Musk, is continuing to improve its GPT-3 language model and is developing a tool for summarizing books or texts. It's a development that could benefit businesses in particular."
+    publishedDateTime: 2021-09-30T00:10:00Z
+    webUrl: "https://www.astroawani.com/berita-dunia/openai-working-artificial-intelligence-model-capable-summarizing-books-322510"
+    ampWebUrl: "https://www.astroawani.com/berita-dunia/openai-working-artificial-intelligence-model-capable-summarizing-books-322510?amp=1"
+    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/openai-working-artificial-intelligence-model-capable-summarizing-books-322510?amp=1"
+    type: article
+    provider:
+      name: Astro Awani
+      domain: astroawani.com
+    quality: 68
+    images:
+      - url: "https://img.astroawani.com/2021-09/41632888862_OpenAI.jpg"
+        width: 590
+        height: 400
+        isCached: true
   - title: "OpenAI is working on an artificial intelligence model capable of summarising books"
     excerpt: "OpenAI, the “capped” for-profit company founded by Elon Musk, is continuing to improve its GPT-3 language model and is developing a tool for summarising books or texts. It’s a development that could benefit businesses in particular."
     publishedDateTime: 2021-09-28T23:10:00Z

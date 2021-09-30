@@ -1,27 +1,31 @@
 ---
 category: news
-title: "US, EU agree to work on chip supplies, tech rules, China trade"
+title: "U.S., EU agree to work on chip supplies, tech rules, China trade"
 excerpt: "The United States and European Union agreed on Wednesday to deepen transatlantic cooperation to strengthen semiconductor supply chains, curb China's non-market trade practices and take a more unified approach to regulating big,"
-publishedDateTime: 2021-09-29T23:54:00Z
-originalUrl: "https://www.channelnewsasia.com/business/us-eu-agree-work-chip-supplies-tech-rules-china-trade-2210611"
-webUrl: "https://www.channelnewsasia.com/business/us-eu-agree-work-chip-supplies-tech-rules-china-trade-2210611"
+publishedDateTime: 2021-09-29T22:47:00Z
+originalUrl: "https://www.reuters.com/technology/us-eu-launch-consultations-tech-regulations-trade-china-2021-09-29/"
+webUrl: "https://www.reuters.com/technology/us-eu-launch-consultations-tech-regulations-trade-china-2021-09-29/"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--TpYmSaCZ--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-09-29t232146z_1_lynxmpeh8s1dj_rtroptp_3_usa-trade-eu.jpg?itok=LPVWio3o"
+  - url: "https://www.reuters.com/resizer/QBsO6Th9MsOu5oTWJVWzip48cR0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I7DURYCRLZOA5BEUHD36PYJAKA.jpg"
     width: 1200
-    height: 676
+    height: 628
     isCached: true
 
 related:
@@ -95,6 +99,6 @@ related:
         height: 676
         isCached: true
 
-secured: "epSRHpkyCArRzQSYieILoV7J54qlD3h9RVQLzVG2aR4xgfBRyIkO+7fik1zac1nDCrjIlWQtPaV4TgTxttEYacMvPD4rPJIunkgAoAu5Cmd/7UbPTjLxeKuW9TPSb2fV3pt7l2lqxWTA/nhVyDFNKjCjaobQhWyodg8oYRBun16m8viJYyhEiDzTDxbVuxK9d7LwLML3elN8J9YEKBjUhelIurl0176sDLcr1pjDQ28XzyjalzcI3jkvZ/faURp1wwD3LUvxHG72pj2nOTE2RBvenaqU2EnoB2rHP1cxNx95hNJnP/srYUYTSMEVxF18VrJBeX+XKuh0PYUgpe8PZ3oJ9f26BXtFHq/VnTUj+ho=;5o9uQ7VDfgTUMQi4TnYuQA=="
+secured: "uYWxnOIVJRkCM29p5fqgTMA/7MnjhlAz9KEe5Vc4qPZ/oFkMSEGiXdIPCAa3i2/HKhsusUSTqzpteudFdAzfp92zLtqyBUQyNVhi7VA5XUOrWZAMrWw8izoidlHP4s+zQVNdCSnOfSh3buAJnKBp+/Lx7G0amWgPTd7q9snAaNK5J+y/yJkj2ftf0cdWvBGEEh3ZVPG4OgOSFcV5A9+/IBRkweMpokEth4n+kD7qGR7Ur8OwCw/tdiHsQHK/CS7r7axE9mnL6UoP/Xm/zvfvScLYt7pMWaACwhEp6Ew/+7MM6sqZVoQbgEtEauVjQIlxerOjxK/vTIR6Hi44PUAZ1MjAPPwbrrfcZqF/mHdVApE=;WUA/xAP9mqoZt8tCLT/AEA=="
 ---
 

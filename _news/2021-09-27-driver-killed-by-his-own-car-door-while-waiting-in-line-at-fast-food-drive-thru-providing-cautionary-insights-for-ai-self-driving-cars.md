@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/27/driver-killed-by-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/27/driver-killed-by-his-own-car-door-while-waiting-in-line-at-fast-food-drive-thru-providing-cautionary-insights-for-ai-self-driving-cars/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://static.scientificamerican.com/sciam/cache/file/315BB2AC-9758-418B-A7808363D6F29820.jpg"
         width: 790
         height: 496
+        isCached: true
+  - title: "GM Now Testing Self-Driving Cars in Scottsdale"
+    excerpt: "General Motors announced last week that it's begun testing its driverless cars in the upscale Phoenix suburb, the Associated Press reported. Scottsdale is the second city in which GM is conducting the tests — it's been testing the cars in San Francisco since May."
+    publishedDateTime: 2021-09-29T22:01:00Z
+    webUrl: "https://www.arizonahighways.com/index.php/blog/gm-now-testing-self-driving-cars-scottsdale"
+    type: article
+    provider:
+      name: Arizona Highways
+      domain: arizonahighways.com
+    quality: 24
+    images:
+      - url: "https://www.arizonahighways.com/sites/default/files/styles/article_hero_image_1474x475/public/chevy_bolt_scottsdale.jpg?itok=hM1VqsJP"
+        width: 1240
+        height: 475
         isCached: true
   - title: "So 'Self-Driving' Doesn't Mean It Drives Itself? What DOES It Mean, Then?"
     excerpt: "Tesla, despite insisting (for regulatory purposes, and because it's true) that the \"Self-Driving\" software they're testing isn't really \"autonomous driving,\" is going ahead and opening its Self-Driving beta to any Tesla driver it deems to be a relatively ..."

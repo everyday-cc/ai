@@ -84,6 +84,20 @@ related:
         width: 541
         height: 334
         isCached: true
+  - title: "UK-based Startup Robo Shadow Launches Free Cyber Security Platform"
+    excerpt: "UK based Cyber Security start-up, Robo Shadow, have launched their initial product set as they attempt to take on the big guns in Cyber Security."
+    publishedDateTime: 2021-09-30T01:35:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/20933-uk-based-startup-robo-shadow-launches-free-cyber-security-platform"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 39
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/42300e05b555db7df4e0178bba624534.jpg?t=20210930_013327"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Hillstone Networks Provides Cybersecurity Solutions Using Artificial Intelligence: Interview With Vice President Timothy Liu."
     excerpt: "Hillstone Networks helps both small and big enterprises secure their web applications and defend their online infrastructures against cyberattacks with outstanding technology made possible with the help of artificial intelligence."
     publishedDateTime: 2021-09-28T19:37:00Z

@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Music scholars and computer scientists completed Beethoven's Tenth Symphony aided by machine learning"
+    excerpt: "In 1817, the Royal Philharmonic Society in London commissioned Ludwig Von Beethoven to compose his Ninth and Tenth symphonies. He completed the Ninth Symphony, which concludes"
+    publishedDateTime: 2021-09-30T00:06:00Z
+    webUrl: "https://www.techspot.com/news/91493-music-scholars-computer-scientists-completed-beethoven-tenth-symphony.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/91493-music-scholars-computer-scientists-completed-beethoven-tenth-symphony.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91493-music-scholars-computer-scientists-completed-beethoven-tenth-symphony.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-29-image-48.jpg"
+        width: 2560
+        height: 1864
+        isCached: true
   - title: "An AI finished Beethoven’s final symphony. But is it good?"
     excerpt: "The AI version of Beethoven's 10th symphony is almost as immaculate as the master composer's original works. Listen to a preview here."
     publishedDateTime: 2021-09-26T23:00:00Z

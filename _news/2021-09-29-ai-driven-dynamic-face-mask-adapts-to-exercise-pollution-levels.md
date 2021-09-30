@@ -1,29 +1,27 @@
 ---
 category: news
 title: "AI-driven dynamic face mask adapts to exercise, pollution levels"
-excerpt: "During the coronavirus pandemic, many people have grown accustomed to wearing face masks to protect themselves and others, but that doesn't mean the masks are always comfortable—especially during exercise."
-publishedDateTime: 2021-09-29T12:00:00Z
-originalUrl: "https://phys.org/news/2021-09-ai-driven-dynamic-mask-pollution.html"
-webUrl: "https://phys.org/news/2021-09-ai-driven-dynamic-mask-pollution.html"
-ampWebUrl: "https://phys.org/news/2021-09-ai-driven-dynamic-mask-pollution.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-09-ai-driven-dynamic-mask-pollution.amp"
+excerpt: "During the coronavirus pandemic, many people have grown accustomed to wearing face masks to protect themselves and others, but that doesn’t mean the masks are always comfortable — especially during exercise."
+publishedDateTime: 2021-09-29T12:05:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/929507"
+webUrl: "https://www.eurekalert.org/news-releases/929507"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
-  - AI
   - AI Hardware
+  - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-driven-dynamic-face.jpg"
-    width: 2880
-    height: 3449
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c9c0061c-0bae-4399-9d78-c89af9de2f14/Rendition/thumbnail/Content/Public"
+    width: 251
+    height: 300
     isCached: true
 
 related:
@@ -44,6 +42,6 @@ related:
         height: 930
         isCached: true
 
-secured: "c3s26uaCzWKOWrCcc/BGdfyU5Un4Qz9TtkIljd5rLd5eo5PDzpNQ/NREe7cNar4P1S8Dbcu2g5wNZAs4BmqM/PKd+8o4j3d//vdWNlKwmmecUL1DfBsKRQqk8959NxqDqzcnEJY5w1DBUr5VN2lYu1wGNmKzrkUA1UyVxZNm++BoJ/3Kl3tn9PUUgVUUHcqwRLMxqF3fSdOXb0d+smwzCfFjfHHvmu7comvdl1EvrWOy3SZ436Ebyi6GSEiUAqsxx6kwp7YbKWDb8CQaC2OrYbdMMJALkSl0wMa5pOm5EntGkGMLxKQSQT2Lq2fCKjJFgrKhtD4aL2scq8HJCugfZ6JLk4OHBHTptYtcsAfS7wcJebVATgGoBRWlKhH2npCQP6nghk4ZRP/MLVcnhREYjG2AlzM/aaGupfGhiktp0ttbFau0MN5LK5ochGiHumzMJPHTEtnI23VIPraFJ6JyfV9YX526LYJu7mihx7rPC5a7T/O6ucPBkzIXa8LvvmL9KJRkl7ht2wBnd5L+IAlaEA==;l2bHJiA6xKOmMet4ROaaiA=="
+secured: "X4GvU8PX47sRnk++32CUsn1JVKZ+Qtv12n42X3S/NEV1LDkDCEGeScuzRhurcC6la+L7GcOaPC6fcZzs/Dn21+Wu+8sMDz2aqCVc8ags/orZLx4TFXtVGhxrv4pTdUdNGc2nyacagvbzvqW3HmOdqyB6DFgmLk2rI93U29zq7OlYUqnzuLk588DhBPoNqZUZ5DMq2/E+2ijJsoe/lpvuCx9NBKcXjNJ67RV56pQ8V1MXt5mooNyWgtxEtSvMgXiwkfOEfGRM1FTIlbAI9JPCoFwargqxmzIDJbF7j6lWpOnoJeu/OXdHimlv7OZEP0Dl9wcLFGG6BgVgxZzzAqB7m0Gfn9aFNLBSy0xG7y5SpSA=;8NrJ3G5jL30lyXr4Hq6GBg=="
 ---
 

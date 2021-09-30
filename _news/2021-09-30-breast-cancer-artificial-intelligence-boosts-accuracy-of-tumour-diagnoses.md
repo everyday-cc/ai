@@ -8,8 +8,8 @@ webUrl: "https://www.sciencefocus.com/news/breast-cancer-artificial-intelligence
 ampWebUrl: "https://www.sciencefocus.com/news/breast-cancer-artificial-intelligence-boosts-accuracy-of-tumour-diagnoses/amp/"
 cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/breast-cancer-artificial-intelligence-boosts-accuracy-of-tumour-diagnoses/amp/"
 type: article
-quality: 55
-heat: 55
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/09/GettyImages-1128870494-5b9c18f.jpg?quality=90&crop=4px,0px,1192px,513px&resize=960,413"
@@ -25,6 +26,6 @@ images:
     height: 413
     isCached: true
 
-secured: "U4358J0boF9Xy89d6B9Z9CH9b8yov6fU8LdnixzGJks7tTdzghybrQRNeF7tA9PnPWdcH3fI5TE6fO0AtuyPdDhqCAQiYQVaItEybIykloqWRuLeyU0qAKame3D3Gi7/m4eSlFsnO/y68pcKJxV/GwkI8j3GRZwVfnWJ+3+URr9J5fAxlnJvFObrpZbL7Y1h9ko8iU4Kx+hH0EW8XoHbFo9L0USyVAQz4b1KDiWXDXrZNluiXu781QXCrq5EcxoRL/qfRMhIImRr4x3ywiArO3pEdz2kmcr5JUGfxPYtrYBw3ytHdsDBwUcD+xS6f2dmI82OP1ZD+ajLsTpmqA/HGPvzvhBHhL4zMuVa6m7+G8o=;tiBDPNmKkfb1iHfPFBTDOA=="
+secured: "/KOuyzN9DEQ3RsBMVroTiD6iXFXDhSQUACkT5Csi0z1687V74c9jwcX4gI8OAJ/HzRgJZ8/YFqC2qVwA5w3ZJTJihpEnPi947Zx8CxKAIU9YVbbMX1y5RNjkYGwAxnb1gUg7XNuymH5SZTSPBir7xHhoQYOdLC0+uW9AlzJmjbhG8T2b6E5WuABAOntfxEBnUbp29bFWH5hADoo0vXJo0dvXuc1HmKVBP04vqX5psGSYXr+xzi+8x9x2CSIX6kF5/LiQf4MWZWehC9YNcMAyujbcsN5/48IqAkOnXZ6d+qkw5AN/4PTUCz4kmM+tii8tDP1nQNclNppVN+CZ/mJxDur6Jv+2jsjwQroszkE8nw3z4QYMEr9/OpIMz17w3bYDdsipOuMl8FzF7qWVmOc6sBRYiqqR4KcQoYCcQ/bkVHHt4khXElvjH6PPDnCulGEB4SmbUF2UmJ9h+rk4QaTz/XXdistbQY/0XnaShbZXcSg5VoqZOcf7Rjm8qHMs1AA0xc9J9455QtL3seGOV/3mrg==;Xy1nruu82oawldKWBaxZBw=="
 ---
 

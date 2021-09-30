@@ -9,8 +9,8 @@ ampWebUrl: "https://www.popsci.com/technology/beethoven-10th-symphony-ai/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/beethoven-10th-symphony-ai/?amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Popular Science
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Music scholars and computer scientists completed Beethoven's Tenth Symphony aided by machine learning"
+    excerpt: "In 1817, the Royal Philharmonic Society in London commissioned Ludwig Von Beethoven to compose his Ninth and Tenth symphonies. He completed the Ninth Symphony, which concludes"
+    publishedDateTime: 2021-09-30T00:06:00Z
+    webUrl: "https://www.techspot.com/news/91493-music-scholars-computer-scientists-completed-beethoven-tenth-symphony.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/91493-music-scholars-computer-scientists-completed-beethoven-tenth-symphony.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91493-music-scholars-computer-scientists-completed-beethoven-tenth-symphony.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-29-image-48.jpg"
+        width: 2560
+        height: 1864
+        isCached: true
   - title: "Beethoven’s unfinished Tenth Symphony completed by artificial intelligence"
     excerpt: "Beethoven’s previously unfinished Tenth Symphony has been completed by artificial intelligence technology. The work will have its world premiere in Germany next month, 194 years after the composer’s death."
     publishedDateTime: 2021-09-28T13:44:00Z

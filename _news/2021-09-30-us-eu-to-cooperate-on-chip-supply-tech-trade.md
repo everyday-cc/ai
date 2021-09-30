@@ -52,6 +52,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "U.S., EU agree to work on chip supplies, tech rules, China trade"
+    excerpt: "The United States and European Union agreed on Wednesday to deepen transatlantic cooperation to strengthen semiconductor supply chains, curb China's non-market trade practices and take a more unified approach to regulating big,"
+    publishedDateTime: 2021-09-29T22:47:00Z
+    webUrl: "https://www.reuters.com/technology/us-eu-launch-consultations-tech-regulations-trade-china-2021-09-29/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/QBsO6Th9MsOu5oTWJVWzip48cR0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I7DURYCRLZOA5BEUHD36PYJAKA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Chips, AI on table at first US-EU trade and tech meet"
     excerpt: "WASHINGTON: The United States and the European Union hope to discuss chip shortages, artificial intelligence (AI) and tech competition issues during the first Trade and Tech Council (TTC) meeting this week,"
     publishedDateTime: 2021-09-29T03:00:00Z
@@ -65,20 +79,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2021/09/29/1311368.jpg"
         width: 1240
         height: 827
-        isCached: true
-  - title: "US, EU agree to work on chip supplies, tech rules, China trade"
-    excerpt: "The United States and European Union agreed on Wednesday to deepen transatlantic cooperation to strengthen semiconductor supply chains, curb China's non-market trade practices and take a more unified approach to regulating big,"
-    publishedDateTime: 2021-09-29T23:54:00Z
-    webUrl: "https://www.channelnewsasia.com/business/us-eu-agree-work-chip-supplies-tech-rules-china-trade-2210611"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--TpYmSaCZ--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-09-29t232146z_1_lynxmpeh8s1dj_rtroptp_3_usa-trade-eu.jpg?itok=LPVWio3o"
-        width: 1200
-        height: 676
         isCached: true
   - title: "US, EU launch consultations on tech regulations, chips, China trade"
     excerpt: "PITTSBURGH/WASHINGTON: US and European Union trade and competition officials launched a new forum on Wednesday joining forces to better compete with China, shield sensitive technologies, boost semiconductor supplies and coordinate regulation of large technology firms."

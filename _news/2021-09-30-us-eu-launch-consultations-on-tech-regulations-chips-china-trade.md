@@ -50,6 +50,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "U.S., EU agree to work on chip supplies, tech rules, China trade"
+    excerpt: "The United States and European Union agreed on Wednesday to deepen transatlantic cooperation to strengthen semiconductor supply chains, curb China's non-market trade practices and take a more unified approach to regulating big,"
+    publishedDateTime: 2021-09-29T22:47:00Z
+    webUrl: "https://www.reuters.com/technology/us-eu-launch-consultations-tech-regulations-trade-china-2021-09-29/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/QBsO6Th9MsOu5oTWJVWzip48cR0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I7DURYCRLZOA5BEUHD36PYJAKA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "US, EU to cooperate on chip supply, tech trade"
     excerpt: "The United States and the European Union agreed on Thursday to work together on a number of technology, economic, and trade issues at the first meeting of its Trade and Technology Council. The two"
     publishedDateTime: 2021-09-29T21:47:00Z
@@ -79,20 +93,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2021/09/29/1311368.jpg"
         width: 1240
         height: 827
-        isCached: true
-  - title: "US, EU agree to work on chip supplies, tech rules, China trade"
-    excerpt: "The United States and European Union agreed on Wednesday to deepen transatlantic cooperation to strengthen semiconductor supply chains, curb China's non-market trade practices and take a more unified approach to regulating big,"
-    publishedDateTime: 2021-09-29T23:54:00Z
-    webUrl: "https://www.channelnewsasia.com/business/us-eu-agree-work-chip-supplies-tech-rules-china-trade-2210611"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--TpYmSaCZ--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-09-29t232146z_1_lynxmpeh8s1dj_rtroptp_3_usa-trade-eu.jpg?itok=LPVWio3o"
-        width: 1200
-        height: 676
         isCached: true
 
 secured: "gQLjK+R1kCRJoRoM9vJwWrkWbOqCZflpSkZHRln2+wPGofZ+EW6cmLZGvDH2V7fkSMKm+kJp7057P/TpGZNDHf4ZdElGC41uJ8eVZPukMCzQ8BogDa93RDJBKWFQhuxoj8gcUPbhwuw6J5lB3YqJER6REaVzReg0GMspaJ5CocOaLiLCIA4zI9U3w6MKZfNV4agpRG8tN50O5OyV5Lypojdm5u9Wywkz6QjYgEfjlnqTNqoau+LvVEqqCpYaL2pOUm9POqqe/x3BMsRWdE6JfJu2LL8JO6/pb7EqnQY0TNW1h7PLl1aInHEneKaa3F4/y9Mp0u4aamlR1hULIgKKZnPSHIgkeHCjCgTRWLYNP4Q=;beeIHHueAisr9itfEBSbPA=="

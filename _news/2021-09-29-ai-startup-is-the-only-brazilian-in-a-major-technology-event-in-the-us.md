@@ -7,7 +7,7 @@ originalUrl: "https://www.clarepeople.com/5036-ai-startup-is-the-only-brazilian-
 webUrl: "https://www.clarepeople.com/5036-ai-startup-is-the-only-brazilian-in-a-major-technology-event-in-the-us/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,19 @@ images:
     width: 780
     height: 470
     isCached: true
+
+related:
+  - title: "Legal framework for artificial intelligence advances in Brazil"
+    excerpt: "The Congress passed a bill that outlines guidelines for public policies and principles to be followed by companies, which now needs to be voted by the Senate."
+    publishedDateTime: 2021-09-30T01:07:00Z
+    webUrl: "https://www.zdnet.com/article/legal-framework-for-artificial-intelligence-advances-in-brazil/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/legal-framework-for-artificial-intelligence-advances-in-brazil/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/legal-framework-for-artificial-intelligence-advances-in-brazil/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
 
 secured: "XsKAb1DHBLb1zzsq7fnHpKex+B0/Q2QX/u8CAgDojTnK5ycYYi9o6H6HJmzy7OF4bOEJWIX84Xf/i4moiT/PZx9QVJYm/KjcwPuDQlvSL5r2DsUeY6iDqqLUmg5rnuV9Vj/nUR5hsDMPvbjR0IUrbNNyq+DDjPOcvS/8m6ZtBzK1QjxbQTOI04p+HWzlfAfG9NDXVdbzzEk3tkjBz5gdjQjHg3BbIRW99JoIdi8YSDi0LogIX5LFUI6hREIitvLk2PFWKmMu4UafzDZ2XOtgNlBGpEbPFWo+KjovcfbFt0zmFRygCUxhUMfkoc//59pLcNoJXLaEQIrbuV5p+AiVsyAzZrQJaSjv1WqbZeec80b9jHDvKjlZl/nQg1wVoOeqt8ydezAthuaYG/BnviLGSTu+o6Iu9/yo0dEGMRnO9S14Qh+/jC47StBEN0cmuZOZWRHoj5mERW7QhHMxlBptWDqeZtEoyYlT63FbPQCom5Sy/H4x1t7T3WMqwRo0f6VX/hdaKaVnl8S2/spG5vNGQA==;Jh2x51OqSsivDPOyb9JsLg=="
 ---

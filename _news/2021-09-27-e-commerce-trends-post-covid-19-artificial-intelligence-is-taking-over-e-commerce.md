@@ -40,6 +40,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Deep Learning Helps Predict Drug Combinations to Fight COVID-19"
+    excerpt: "A team led by researchers at the Massachusetts Institute of Technology (MIT) used deep learning to identify drug combinations that can fight COVID-19 by modeling interactions between drugs and known biological targets related to the virus."
+    publishedDateTime: 2021-09-28T00:00:00Z
+    webUrl: "https://cacm.acm.org/news/255862-deep-learning-helps-predict-drug-combinations-to-fight-covid-19/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
   - title: "Deep learning helps predict new drug combinations to fight COVID-19"
     excerpt: "COVID-19 has caused more than 2.5 million deaths worldwide and the search for new medications and treatments remains impotence. In relation to this, MIT CSAIL researchers are trying to help and for this they have created a deep learning system that helps predict new drug combinations to fight COVID-19."
     publishedDateTime: 2021-09-27T19:08:00Z
