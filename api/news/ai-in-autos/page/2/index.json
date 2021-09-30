@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-16-a-report-on-the-eus-proposed-artificial-intelligence-law-focuses-on-high-risk-ai.md",
+      "title": "A report on the EU’s proposed ‘Artificial Intelligence’ law focuses on high-risk AI",
+      "excerpt": "More than 300 companies have made statements about the proposed European law around artificial intelligence, presented last April. Its adoption will facilitate the classification of AI systems ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/09/16/a-report-on-the-eus-proposed-artificial-intelligence-law-focuses-on-high-risk-ai",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/09/16/a-report-on-the-eus-proposed-artificial-intelligence-law-focuses-on-high-risk-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/09/16/1295588.jpg",
+          "width": 1240,
+          "height": 743,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T17:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-worldwide-data-collection-and-labeling-industry-to-2028-featuring-global-technology-solutions-alegion-and-labelbox-among-others.md",
+      "title": "Worldwide Data Collection and Labeling Industry to 2028 - Featuring Global Technology Solutions, Alegion and Labelbox Among Others",
+      "excerpt": "SpaceX is targeting Wednesday, September 15 at 8:02 p.m. for launch of the Inspiration4 mission – the world’s first all-civilian human spaceflight to orbit – aboard SpaceX’s Falcon 9 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/worldwide-data-collection-and-labeling-industry-to-2028---featuring-global-technology-solutions-alegion/article_197d5e85-9bad-5451-b649-52d6e0f78ed5.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/worldwide-data-collection-and-labeling-industry-to-2028---featuring-global-technology-solutions-alegion/article_197d5e85-9bad-5451-b649-52d6e0f78ed5.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T17:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-16-walmart-self-driving-delivery-service-coming-to-three-cities.md",
       "title": "Walmart Self-Driving Delivery Service Coming to Three Cities",
       "excerpt": "Ford Motor Co. and Argo AI have joined forces with Walmart to roll out an autonomous vehicle delivery service in Washington, D.C.; Miami, Fla.; and Austin, Texas. The service is expected to grow to other cities.",
@@ -261,49 +347,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-14-this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity.md",
-      "title": "This Indian company is tapping into the huge autonomous driving opportunity",
-      "excerpt": "Be it artificial intelligence (AI), 5G ... Global companies such as Tesla and Waymo are leading the race when it comes to automated driving. But what about Indian companies?",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity-11631619999017.html",
-      "originalUrl": "https://www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity-11631619999017.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/09/14/600x338/car-kHv--621x414@LiveMint_1631620785356.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity/amp-11631619999017.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity/amp-11631619999017.html",
-      "publishedDateTime": "2021-09-14T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-14-its-best-to-wait-on-baidu-stock-in-light-of-chinas-crackdown.md",
       "title": "It’s Best to Wait on Baidu Stock in Light of China’s Crackdown",
       "excerpt": "I’m cautious on the name mainly because I believe that it could easily become a target for China’s zealous tech regulators. For BIDU stock, it’s a very good sign that Baidu has apparently ...",
@@ -376,6 +419,49 @@
       "provider": {
         "name": "AppleInsider",
         "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity.md",
+      "title": "This Indian Company is Tapping into the Huge Autonomous Driving Opportunity",
+      "excerpt": "Today, technological changes are very dynamic and Indian companies are at the forefront. Be it artificial intelligence (AI), 5G, drone technology or electric vehicles (EVs), Indian companies are tapping into these huge opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.equitymaster.com/detail.asp?date=09/14/2021&story=6",
+      "originalUrl": "https://www.equitymaster.com/detail.asp?date=09/14/2021&story=6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eqimg.com/images/2021/09142021-image3-equitymaster.jpg",
+          "width": 350,
+          "height": 212,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.equitymaster.com/detail-amp.asp?date=09/14/2021&story=6&title=This-Indian-Company-is-Tapping-into-the-Huge-Autonomous-Driving-Opportunity",
+      "cdnAmpWebUrl": "https://www-equitymaster-com.cdn.ampproject.org/c/s/www.equitymaster.com/detail-amp.asp?date=09/14/2021&story=6&title=This-Indian-Company-is-Tapping-into-the-Huge-Autonomous-Driving-Opportunity",
+      "publishedDateTime": "2021-09-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Equitymaster",
+        "domain": "equitymaster.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1236,110 +1322,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-japan-steps-up-self-driving-to-revive-rural-areas-help-elderly.md",
-      "title": "Japan Steps Up Self-Driving to Revive Rural Areas, Help Elderly",
-      "excerpt": "Japan is bolstering its autonomous driving ambitions with a new project to be formally introduced Wednesday to expand the use of self-driving vehicles in more than 40 locations around the country by 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-09-07/japan-steps-up-self-driving-to-revive-rural-areas-help-elderly",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-07/japan-steps-up-self-driving-to-revive-rural-areas-help-elderly",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iamawYFonON0/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-06T20:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-argo-ai-and-volkswagen-show-off-self-driving-vehicle.md",
-      "title": "Argo AI and Volkswagen show off self-driving vehicle",
-      "excerpt": "Argo AI -- the autonomous car venture backed by Volkswagen and Ford -- is gearing up for the 2021 IAA Mobility event in Munich, where it",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
-      "originalUrl": "https://www.techspot.com/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-06-image-11.jpg",
-          "width": 3600,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
-      "publishedDateTime": "2021-09-06T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

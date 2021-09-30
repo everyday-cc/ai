@@ -1,28 +1,28 @@
 ---
 category: news
-title: "This Indian company is tapping into the huge autonomous driving opportunity"
-excerpt: "Be it artificial intelligence (AI), 5G ... Global companies such as Tesla and Waymo are leading the race when it comes to automated driving. But what about Indian companies?"
-publishedDateTime: 2021-09-14T13:01:00Z
-originalUrl: "https://www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity-11631619999017.html"
-webUrl: "https://www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity-11631619999017.html"
-ampWebUrl: "https://www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity/amp-11631619999017.html"
-cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity/amp-11631619999017.html"
+title: "This Indian Company is Tapping into the Huge Autonomous Driving Opportunity"
+excerpt: "Today, technological changes are very dynamic and Indian companies are at the forefront. Be it artificial intelligence (AI), 5G, drone technology or electric vehicles (EVs), Indian companies are tapping into these huge opportunities."
+publishedDateTime: 2021-09-14T00:00:00Z
+originalUrl: "https://www.equitymaster.com/detail.asp?date=09/14/2021&story=6"
+webUrl: "https://www.equitymaster.com/detail.asp?date=09/14/2021&story=6"
+ampWebUrl: "https://www.equitymaster.com/detail-amp.asp?date=09/14/2021&story=6&title=This-Indian-Company-is-Tapping-into-the-Huge-Autonomous-Driving-Opportunity"
+cdnAmpWebUrl: "https://www-equitymaster-com.cdn.ampproject.org/c/s/www.equitymaster.com/detail-amp.asp?date=09/14/2021&story=6&title=This-Indian-Company-is-Tapping-into-the-Huge-Autonomous-Driving-Opportunity"
 type: article
 
 provider:
-  name: Mint
-  domain: livemint.com
+  name: Equitymaster
+  domain: equitymaster.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.livemint.com/img/2021/09/14/600x338/car-kHv--621x414@LiveMint_1631620785356.jpg"
-    width: 600
-    height: 338
+  - url: "https://www.eqimg.com/images/2021/09142021-image3-equitymaster.jpg"
+    width: 350
+    height: 212
     isCached: true
 
-secured: "DzoOwj3+rnvhMH5a4ZezFCtExjDrWLwgMEwSrETP+4oltVG2HALQQGDR/UJi3JpjLHmgHJqoXBsAUOVujh6emHVFpf7ofvYzCMucBw8ZBx5bovklvBvhh94u77ub3imxL6pYjAjFcKlwMIeOwp7van39qvV1OgTH6dbMKq0ZMi8y14JTq8fezQJsDFmDoa3Fyct7lYZePmTZZ7KzKp/EqTplQNt3cZr/RESmfTGK+BakPNJPgH09h2rl1nu/XqhRIJOtLntTvk+bBdX//aByOuSeRolCMF5QpmCfRlvZyhXIBGQhp8Y7eGCiq11ZwTdbWHNvs3G6WYLPbAjiQXbgk/Du4j4feYd6fG373QF12Rg=;/LetGfX3qBDssz1fuJ4Q0w=="
+secured: "azFwggM4c6tk0FWLKgirr5T492RalM9+Hyu8BHzhKF7wDdesZ/cAl/kpMrMR/pmMCOFd4UZTSXlGrjoH/KBcpD1B6+v+F65S3U6vIZ8kUTYiQ4XOQJeEmak3SUD8iu6wSoqNFF4p/4jDZux8u0iRwmud8zzzDeyFauPiN0M7WP4yBkutSuQubqILUk4BoYRpLKSXAOBKtezJcm1uJHrspcb5G1LmcwM/22UqVDNKOIYDPPRid9u8b26Qm2JcnG61Km4X3A40qKYL9mki4qTXJAscXbTOyTLd6T3YxV/vvvfmtBlmfdJHovejWJ/UE3ortlSkpzNZePS+bfck23fhWDaxkD37carEsKN+U6DwnEM=;+g1/6K+sD6GVKhZzinlyuA=="
 ---
 

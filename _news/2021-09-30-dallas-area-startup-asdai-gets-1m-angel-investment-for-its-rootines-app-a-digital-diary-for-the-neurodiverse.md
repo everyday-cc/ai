@@ -7,7 +7,7 @@ originalUrl: "https://dallasinnovates.com/dallas-area-startup-asd-ai-gets-1m-ang
 webUrl: "https://dallasinnovates.com/dallas-area-startup-asd-ai-gets-1m-angel-investment-for-its-rootines-app-a-digital-diary-for-the-neurodiverse/"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 970
     height: 632
     isCached: true
+
+related:
+  - title: "Orange Neurosciences’ Digital Therapy Platform is Helping Neurodiverse Students Overcome Pandemic Challenges"
+    excerpt: "A recent study by Stanford University states that reading skills have stalled among students due to school closures, with reading fluency in second and"
+    publishedDateTime: 2021-09-30T07:00:00Z
+    webUrl: "https://www.pr.com/press-release/845640"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 20
+    images:
+      - url: "https://img.pr.com/release/2109/487252/pressrelease_487252_1632834543.png"
+        width: 442
+        height: 341
+        isCached: true
 
 secured: "P2HciQ20FLB1rbSSoBBLPpIcZBc+LNy55g9qlLBKNtsbpJh71Zq8cNCc2YHSAfi7u7pAjhPUna0Nu9o22ZkqcGIyJ74S82lmaT0HLaX6pmmpqXmASeHTq/O31ROJDaicC3vS3wFdJ/+Tof0tD1NCoZo1a5XlhHZBFYktDGxEWow0HZs09ABej7tP/FaZ50YsyHCjOMCP/XiQP8BXIVKywZXDByLQ+KPrnbI1RCopS3+adVFQdWJJQLjQ2opuyJdXSFlLW60oBBfjALNBcBTH3WkB7XzFuWbGwmgIeyu0qTHUCgsSCZQg8BEUNOHSi8Lt/u7rNmm0+O+iubahZCxN5U+VUD/6O69WjjmhRrhceJcG8nxiX3Jz1aio4VhM7/HyxYDLdvxvPVSOnhfrr05OSys7D55KbFtQ5f27tvQUjDb768+R7n1YHQ9UmHUVmMeN0s6je9KSh7nWMTANK80tbffpHwdxkYulP9/DYkb0LTZGsTleE3OaBzP46oNMR5D0y9IYljKJKsJOoDzm63bjKA==;PfjvJluJPVBuBQGue2sMEw=="
 ---

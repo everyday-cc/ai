@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361058
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361058/organisations-set-to-splash-1m-on-ai-by-2023?amp"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Online session on AI today"
-    excerpt: "Prathidhwani, a welfare organisation of IT employees, will organise its 100th session under the aegis of the Prathidhwani Technical Forum on Sunday from 11 a.m. to 1 p.m. The session on ‘How Artificial Intelligence is impacting social change and accessibility’ will have Robin Tommy,"
-    publishedDateTime: 2021-09-25T13:22:00Z
-    webUrl: "https://www.thehindu.com/news/cities/Thiruvananthapuram/online-session-on-ai-today/article36667811.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/Thiruvananthapuram/online-session-on-ai-today/article36667811.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Thiruvananthapuram/online-session-on-ai-today/article36667811.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Radiologist's Cary startup raises $1 million to harness power of artificial intelligence"
     excerpt: "A Cary-based artificial intelligence startup cofounded by a radiologist has closed its first million-dollar round. CoRead AI Inc. closed on more than $1 million in equity financing on Sept. 10 from three investors."
     publishedDateTime: 2021-09-29T17:32:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/929901"
 webUrl: "https://www.eurekalert.org/news-releases/929901"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -26,18 +26,20 @@ images:
 
 related:
   - title: "Improving machine learning for materials design"
-    excerpt: "A quick, cost-effective approach improves the accuracy with which machine learning models can predict the properties of new materials.  <br/"
-    publishedDateTime: 2021-09-30T03:42:00Z
-    webUrl: "https://menafn.com/1102889416/Improving-machine-learning-for-materials-design"
+    excerpt: "TSUKUBA, Japan, Sep 30, 2021 - (ACN Newswire) - A new approach can train a machine learning model to predict the properties of a material using only data obtained through simple measurements, saving time and money compared with those currently used."
+    publishedDateTime: 2021-09-30T07:00:00Z
+    webUrl: "https://www.asiaone.com/business/improving-machine-learning-materials-design"
+    ampWebUrl: "https://www.asiaone.com/business/improving-machine-learning-materials-design?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/improving-machine-learning-materials-design?amp"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
+      name: Asia One
+      domain: asiaone.com
+    quality: 59
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?824576"
-        width: 445
-        height: 250
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Sep2021/asiaone_default.jpg?itok=emraNYfZ"
+        width: 763
+        height: 509
         isCached: true
 
 secured: "nbmBmtR/OQeoTG1ZbdKur//XWIOxPe3LNMLhl7m7oAm0ZVrnFi6knHAIXwAYRwlCImkHpLZKrZCjP91YrLFUQqXhiZpU+pxCewruQcPmImOc9PGNOFO16GpdgljXZqdxO+ha18jm4mv95uCj3Qonr9Vk0G93C0EM/2ffuaNvbVZLSwMnzsLACF3vWVSU1eGSHW1u/ZF/gbG4WrXbGZBesT6Y/CpJ/00F6pVy6Kis+A9or8VxNIop/JvOxjX0VfSfZaCujpDUCB8s0aRgssCzMFUd+9IE42MBTSCD80HM9/yEOiFoCqXr8ZnVKcQ3TXWtNWWnu2jnw7/BxPYjoHMKKWTQRTn01W6kHbTLZtbRngYTqoikDtAQkGwei8yTg/SDigdZQiDHubS213NOWpcvZdLrp6NzEPPyzqkIzpzl7u4LynTY2sIa7g9fFUSzLRhwJ3+AUVPO6x3tkPrJu5nWznqWgsHDEiFdEJVovpjx6Wprijg6/ilggR0omegAW58L+hdKy1Kav8PBTAr+TO978Q==;JMtK7Fyi5wjoDx5hJudkAw=="

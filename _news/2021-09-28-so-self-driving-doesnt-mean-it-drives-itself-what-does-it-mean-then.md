@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 748
         isCached: true
-  - title: "‘Self-Driving’ Cars Begin to Emerge from a Cloud of Hype"
-    excerpt: "The term “self-driving” has lost its original intended meaning because the driving assistance feature on the cars that have been labeled “full self-driving” cannot maneuver without constant human supervision,"
-    publishedDateTime: 2021-09-25T14:09:00Z
-    webUrl: "https://www.scientificamerican.com/article/self-driving-cars-begin-to-emerge-from-a-cloud-of-hype/"
-    ampWebUrl: "https://www.scientificamerican.com/article/self-driving-cars-begin-to-emerge-from-a-cloud-of-hype/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/self-driving-cars-begin-to-emerge-from-a-cloud-of-hype/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 44
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/315BB2AC-9758-418B-A7808363D6F29820.jpg"
-        width: 790
-        height: 496
-        isCached: true
   - title: "GM Now Testing Self-Driving Cars in Scottsdale"
     excerpt: "General Motors announced last week that it's begun testing its driverless cars in the upscale Phoenix suburb, the Associated Press reported. Scottsdale is the second city in which GM is conducting the tests — it's been testing the cars in San Francisco since May."
     publishedDateTime: 2021-09-29T22:01:00Z

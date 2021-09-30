@@ -71,6 +71,22 @@ related:
         width: 604
         height: 400
         isCached: true
+  - title: "Self-driving Cars and Trucks Market Analysis by Size, Status and Forecast to 2021-2026"
+    excerpt: "Latest released Global Self-driving Cars and Trucks Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings, market price,"
+    publishedDateTime: 2021-09-29T20:45:00Z
+    webUrl: "https://manometcurrent.com/self-driving-cars-and-trucks-market-analysis-by-size-status-and-forecast-to-2021-2026/"
+    ampWebUrl: "https://manometcurrent.com/self-driving-cars-and-trucks-market-analysis-by-size-status-and-forecast-to-2021-2026/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/self-driving-cars-and-trucks-market-analysis-by-size-status-and-forecast-to-2021-2026/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 36
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/09/Calibre-Market-Research-5-390x220.png"
+        width: 390
+        height: 220
+        isCached: true
   - title: "Cognitive Computing Market Revenue, Major Players, Consumer Trends, Analysis & Forecast Till 2027"
     excerpt: "United States OR Portland The Cognitive Computing Market 2021 report is a comprehensive professional and in depth research of market that delivers significant data for those who are seeking information for the Cognitive Computing industry The market report delivers the"
     publishedDateTime: 2021-09-29T11:39:00Z

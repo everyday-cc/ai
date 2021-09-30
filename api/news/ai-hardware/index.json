@@ -10,7 +10,7 @@
       "originalUrl": "https://www.techspot.com/news/91485-amd-wants-make-chips-30-times-more-energy.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -93,6 +93,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-ai-driven-dynamic-face-mask-adapts-to-exercise-and-pollution-levels.md",
+      "title": "AI-Driven Dynamic Face Mask Adapts To Exercise and Pollution Levels",
+      "excerpt": "During the coronavirus pandemic, many people have grown accustomed to wearing face masks to protect themselves and others, but that doesn’t mean the masks are always comfortable — especially during exercise.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/ai-driven-dynamic-face-mask-adapts-to-exercise-and-pollution-levels/",
+      "originalUrl": "https://scitechdaily.com/ai-driven-dynamic-face-mask-adapts-to-exercise-and-pollution-levels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/AI-Driven-Dynamic-Face-Mask-777x930.jpg",
+          "width": 777,
+          "height": 930,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/ai-driven-dynamic-face-mask-adapts-to-exercise-and-pollution-levels/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/ai-driven-dynamic-face-mask-adapts-to-exercise-and-pollution-levels/amp/",
+      "publishedDateTime": "2021-09-29T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1382,58 +1425,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-the-view-from-the-ai-hw-summit-what-was-the-best-ai-hw-in-2021.md",
-      "title": "The View From The AI HW Summit: What Was The Best AI HW In 2021?",
-      "excerpt": "You can view my full presentation here for those with an interest. Each of the following are covered briefly in the presentation link. Its hard to pick just 10 news items from the last year, but here’s my top-of-mind list of hardware and software in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/09/14/the-view-from-the-ai-hw-summit--the-best-2021-ai-hw-is/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/09/14/the-view-from-the-ai-hw-summit--the-best-2021-ai-hw-is/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613797c2915d9892cb74af55%2F0x0.jpg",
-          "width": 1124,
-          "height": 1060,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

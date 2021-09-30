@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "4 ways Google’s newest AI breakthrough will improve your search results"
+    excerpt: "After unveiling its “MUM” algorithm in May, Google is showing off ways it will tie together related text, images, and video to make searching easier."
+    publishedDateTime: 2021-09-29T23:24:00Z
+    webUrl: "https://www.fastcompany.com/90681337/google-mum-search"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/09/p-1-how-googleand8217s-newest-ai-breakthrough-is-improving-search-Search-On-MUM-x-Lens-.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "1bKVPrnJvt3GAMubGbcbg8kNOop+OzMR/ZxH2FSoYnZW9ze/LwlT06Itvn8Gh39kRa5XTdobv5MfPNaECZrGhbjNNW7rWYmhFrxGW389MYyvSXA64JoO/49dDHvcrQtAyWUd/b/pk4TMcXvQh+7eSWsgKYVovhr/ojg2WcBOqGhy0JhFLgzCBvYw/y110bwfu7DMaheb2MxhY27lAeAyPTztIAdM6hlz9g4gn/rNQctbRuy34KeldAGIZpt7t8A/Lsu0t5SCsESPR0jyx5jjjCUOftSUxq2+AccOR0iK62G0Rr+KraJiOuLwp8haDZGYJuPfDn3ITF4nkY/0cT7lByUHldtytNpVnpKtWtBhrSibuhMZxF2wM45SnUER+XiWoRuIyfbMsIKSZF4t2bkqlxC8SKorEt/6p5eXfbpAl2fWsWvLs0HYvjBUNNYmsIuSNHlv/WygKcWoA6xQghvsURkiGugVLoRIbfY4dsQcMICv14wETDoQxZLa3TEDG2cghbEz7m16j7sRtbdDpUMpRw==;J7mD0+G/SlCSiIL90gYfqQ=="
 ---

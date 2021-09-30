@@ -2,6 +2,162 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-27-driver-killed-by-his-own-car-door-while-waiting-in-line-at-fast-food-drive-thru-providing-cautionary-insights-for-ai-self-driving-cars.md",
+      "title": "Driver Killed By His Own Car Door While Waiting In Line At Fast-Food Drive-Thru, Providing Cautionary Insights For AI Self-Driving Cars",
+      "excerpt": "Sad news story about a driver that was killed by his own car door (while in a drive-thru), provides cautionary insights about the advent of AI-based self-driving cars. Here's the insider look.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/27/driver-killed-by-his-own-car-door-while-waiting-in-line-at-fast-food-drive-thru-providing-cautionary-insights-for-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/27/driver-killed-by-his-own-car-door-while-waiting-in-line-at-fast-food-drive-thru-providing-cautionary-insights-for-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614272b9f18bec6882652695%2F0x0.jpg%3FcropX1%3D23%26cropX2%3D2455%26cropY1%3D23%26cropY2%3D1538",
+          "width": 1200,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/27/driver-killed-by-his-own-car-door-while-waiting-in-line-at-fast-food-drive-thru-providing-cautionary-insights-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/27/driver-killed-by-his-own-car-door-while-waiting-in-line-at-fast-food-drive-thru-providing-cautionary-insights-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-09-27T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-google-is-trying-to-make-its-cloud-more-attractive-to-app-developers.md",
+      "title": "Google is trying to make its cloud more attractive to app developers",
+      "excerpt": "AWS still leads with a 32% share of spending, followed by Microsoft Azure's 19% and Google Cloud's 7%. Google is focusing on machine learning, analytics and data management. Apple and Google have reduced platform commissions for their respective app ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/google-is-trying-to-make-its-cloud-more-attractive-to-app-developers/",
+      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/google-is-trying-to-make-its-cloud-more-attractive-to-app-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/24/233629f0-3087-439c-b2ea-3a229ab17af3/thumbnail/1200x675/e09a6de7f7548d8d07a36872bb51025e/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/google-is-trying-to-make-its-cloud-more-attractive-to-app-developers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/google-is-trying-to-make-its-cloud-more-attractive-to-app-developers/",
+      "publishedDateTime": "2021-09-27T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-are-ai-and-robotics-good-investments.md",
+      "title": "Are AI and Robotics Good Investments?",
+      "excerpt": "It is expected that the robotics market will grow by over $150 billion US dollars by 2025, and that is not only down to growth in commercial use, but it is also anticipated that robotics will become a more integral part of our everyday lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ai-robotics-good-investments-james-sanders",
+      "originalUrl": "https://www.linkedin.com/pulse/ai-robotics-good-investments-james-sanders",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQH77ghKDP70-w/article-cover_image-shrink_600_2000/0/1632755863578?e=1638403200&v=beta&t=A58t5OOMkAvh-TmlkABJ27muW8H8czOLBQc8y627e_s",
+          "width": 739,
+          "height": 489,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-an-ultralow-power-artificial-synapse-for-next-generation-ai-systems.md",
       "title": "An ultralow power artificial synapse for next-generation AI systems",
       "excerpt": "Brain-inspired computing is a promising candidate for next-generation computing technologies. Developing next-generation advanced artificial intelligence (AI) systems that can be as energy-efficient,",
@@ -678,6 +834,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-27-vietnam-pharmaceuticals-market-to-grow-along-with-healthcare-industry-until-2026.md",
+      "title": "Vietnam Pharmaceuticals Market to Grow Along With Healthcare Industry until 2026",
+      "excerpt": "Advanced medicine development is driving the growth of Vietnam Pharmaceuticals Market in the forecast period 2022 2026 According to TechSci report on Vietnam Pharmaceuticals Market By Drug Type Generic Drugs v s Branded Drugs By Product Type Prescription Drugs v",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare",
+      "originalUrl": "https://www.openpr.com/news/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/9/U927716201_g.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare",
+      "publishedDateTime": "2021-09-27T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-baker-mckenzie-taps-new-leads-for-data-and-machine-learning-team.md",
       "title": "Baker McKenzie taps new leads for data and machine learning team",
       "excerpt": "Baker McKenzie has tapped two \"co-founders\" to lead its new data science and machine learning team, artificial intelligence legal pro Brian Kuhn and Danielle Benecke, an IP and tech senior associate at the firm.",
@@ -991,195 +1190,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-26-bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide.md",
-      "title": "Bennett to urge action on Iran in UN speech, won’t focus on Palestinians — aide",
-      "excerpt": "PM will warn at UN that world at a ‘critical stage in the Iranian nuclear program’; adviser says Israel’s ties with world ‘multi-faceted,’ mustn’t be defined by Palestinian issue",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide/",
-      "originalUrl": "https://www.timesofisrael.com/bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2021/09/F210912OF03-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide/amp/",
-      "publishedDateTime": "2021-09-26T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-26-the-lse-alumni-turning-their-university-into-a-startup-powerhouse.md",
-      "title": "The LSE Alumni Turning Their University Into A Startup Powerhouse",
-      "excerpt": "A Google-backed student Lead, a CEO of a unicorn, and a college VC fund are joining forces to create a startup powerhouse in one of London’s most iconic universities, the London School of Economics (LSE),",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alisoncoleman/2021/09/26/the-lse-alumni-turning-their-university-into-a-startup-powerhouse/",
-      "originalUrl": "https://www.forbes.com/sites/alisoncoleman/2021/09/26/the-lse-alumni-turning-their-university-into-a-startup-powerhouse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6150287d385a514f31a2a155%2F0x0.jpg",
-          "width": 1200,
-          "height": 758,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alisoncoleman/2021/09/26/the-lse-alumni-turning-their-university-into-a-startup-powerhouse/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisoncoleman/2021/09/26/the-lse-alumni-turning-their-university-into-a-startup-powerhouse/amp/",
-      "publishedDateTime": "2021-09-26T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-26-good-tesla-drivers-might-be-next-to-get-full-self-driving-software.md",
-      "title": "‘Good’ Tesla drivers might be next to get ‘full’ self-driving software",
-      "excerpt": "Chief Executive Officer Elon Musk tweeted that the download button customers will see Friday will request car owners’ permission for Tesla to assess their driving behavior for seven days.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/",
-      "originalUrl": "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2021/09/Tesla_Crash_88520.jpg?w=1024&#038;h=682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/",
-      "publishedDateTime": "2021-09-25T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-we-are-sleepwalking-into-ai-augmented-work.md",
-      "title": "We are sleepwalking into AI-augmented work",
-      "excerpt": "The narrative that AI won't take our jobs but will instead magically make human work more fulfilling is a dangerous myth.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/25/we-are-sleepwalking-into-ai-augmented-work/",
-      "originalUrl": "https://venturebeat.com/2021/09/25/we-are-sleepwalking-into-ai-augmented-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/unemployment.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 691,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/25/we-are-sleepwalking-into-ai-augmented-work/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/25/we-are-sleepwalking-into-ai-augmented-work/amp/",
-      "publishedDateTime": "2021-09-25T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

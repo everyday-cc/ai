@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-27-chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars.md",
+      "title": "Chances Of Collisions Involving Urgently Underway Police Cars And AI Self-Driving Cars",
+      "excerpt": "Regrettably there are going to be instances of urgently underway police cars that collide with self-driving cars, though there are means to try and reduce those chances.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60722c4f3955ebfd3665bef7%2F0x0.jpg%3FcropX1%3D237%26cropX2%3D4511%26cropY1%3D440%26cropY2%3D2845",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-08-27T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-4-top-autonomous-vehicle-stocks-to-watch-before-september-2021.md",
+      "title": "4 Top Autonomous Vehicle Stocks To Watch Before September 2021",
+      "excerpt": "Recently, Baidu has been pushing forward with its ... But what some may not be aware of is, Alphabet also has a self-driving car project that was started more than a decade ago with the goal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-top-autonomous-vehicle-stocks-to-watch-before-september-2021-2021-08-27",
+      "originalUrl": "https://www.nasdaq.com/articles/4-top-autonomous-vehicle-stocks-to-watch-before-september-2021-2021-08-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-top-autonomous-vehicle-stocks-to-watch-before-september-2021-2021-08-27?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-autonomous-vehicle-stocks-to-watch-before-september-2021-2021-08-27?amp",
+      "publishedDateTime": "2021-08-27T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-good-to-know-headlines-self-driving-taxis-and-flamin-hot-cheetos-flavored-mountain-dew.md",
       "title": "‘Good to Know’ headlines: Self-driving taxis and Flamin’ Hot Cheetos flavored Mountain Dew",
       "excerpt": "NBC News' Vicky Nguyen reports on a new app that is set to offer self-driving taxis, logging into virtual meetings using A.I., and Mountain Dew’s new Flamin’ Hot Cheetos inspired drink.",
@@ -1334,93 +1420,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-what-does-artificial-intelligence-actually-mean.md",
-      "title": "What does artificial intelligence actually mean?",
-      "excerpt": "Whenever I think of artificial intelligence ... a specific problem without the intervention of humans. AI is used in self-driving cars, manufacturing robots, financial investing, social media ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bordermail.com.au/story/7394944/what-does-artificial-intelligence-actually-mean/",
-      "originalUrl": "https://www.bordermail.com.au/story/7394944/what-does-artificial-intelligence-actually-mean/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bordermail.com.au/images/transform/v1/crop/frm/vHY76HvbmdzrEjnU6er3NK/db703a13-220a-4faa-a2db-5d8ab70e57a0.jpg/r0_342_6720_4139_w1200_h678_fmax.jpg",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-23T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Border Mail",
-        "domain": "bordermail.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-new-chip-helps-chinese-tech-brand-baidu-to-make-level-5-fully-autonomous-robocar.md",
-      "title": "New Chip Helps Chinese Tech Brand Baidu to Make Level 5 Fully Autonomous 'Robocar'",
-      "excerpt": "At the end of 2018, John Krafcik, boss of Waymo at the time (Alphabet’s autonomous car ... The production of a new second-generation Kunlun chip specialized in calculations and artificial intelligence seems to be part of the solution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/auto/new-chip-helps-chinese-tech-brand-baidu-to-make-level-5-fully-autonomous-robocar-4115870.html",
-      "originalUrl": "https://www.news18.com/news/auto/new-chip-helps-chinese-tech-brand-baidu-to-make-level-5-fully-autonomous-robocar-4115870.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/08/baidu_co_founder_ceo_robin_li_cctv_host_beining_sa_sit-162969138516x9.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/auto/new-chip-helps-chinese-tech-brand-baidu-to-make-level-5-fully-autonomous-robocar-4115870.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/auto/new-chip-helps-chinese-tech-brand-baidu-to-make-level-5-fully-autonomous-robocar-4115870.html",
-      "publishedDateTime": "2021-08-22T21:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

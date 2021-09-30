@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/09/29/deepmind-claims-its-ai-weather-fo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/deepmind-claims-its-ai-weather-forecasting-model-beats-conventional-models/amp/"
 type: article
 quality: 102
-heat: 152
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind AI predicts incoming rainfall with high accuracy"
+    excerpt: "Having flexed its muscles in predicting kidney injury, toppling Go champions and solving 50-year-old science problems, artificial intelligence company DeepMind is now dipping its toes in weather forecasting."
+    publishedDateTime: 2021-09-30T06:00:00Z
+    webUrl: "https://newatlas.com/computers/deepmind-ai-predicts-incoming-rainfall-high-accuracy/"
+    ampWebUrl: "https://newatlas.com/computers/deepmind-ai-predicts-incoming-rainfall-high-accuracy/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/deepmind-ai-predicts-incoming-rainfall-high-accuracy/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 104
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/e6a3fa7/2147483647/strip/true/crop/450x300+130+0/resize/1200x800!/format/webp/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0c%2F2a%2F6f5446b646bd850633c0c1663837%2Funnamed.gif"
+        width: 710
+        height: 300
+        isCached: true
   - title: "DeepMind AI can accurately predict if it will rain in next 90 minutes"
     excerpt: "AI software developed by DeepMind and the Met Office in the UK can predict whether it will rain within 90 minutes more accurately than current forecasting models"
     publishedDateTime: 2021-09-29T15:12:00Z

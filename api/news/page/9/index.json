@@ -2,6 +2,189 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-09-22-how-artificial-intelligence-is-changing-the-future-of-digital-marketing.md",
+      "title": "How Artificial Intelligence Is Changing the Future of Digital Marketing",
+      "excerpt": "Introduction According to a survey conducted by PwC, 72% of business leaders use AI for their business advantage. The",
+      "sourceUrl": null,
+      "webUrl": "https://www.business2community.com/digital-marketing/how-artificial-intelligence-is-changing-the-future-of-digital-marketing-02432101",
+      "originalUrl": "https://www.business2community.com/digital-marketing/how-artificial-intelligence-is-changing-the-future-of-digital-marketing-02432101",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.business2community.com/wp-content/uploads/2021/09/corporate-management-strategy-solution-branding-concept-900x546.jpg",
+          "width": 900,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business2community.com/digital-marketing/how-artificial-intelligence-is-changing-the-future-of-digital-marketing-02432101/amp",
+      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/digital-marketing/how-artificial-intelligence-is-changing-the-future-of-digital-marketing-02432101/amp",
+      "publishedDateTime": "2021-09-22T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-clearsense-acquires-plug-and-play-ai-analytics-firm.md",
+      "title": "Clearsense Acquires Plug-and-Play AI Analytics Firm",
+      "excerpt": "Clearsense, an AI-powered data analytics platform company that translates healthcare data into highly consumable insights, today announced the acquisition of Compellon, a privately-held, plug-and-play AI analytics company based in Lake Forest,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/clearsense-acquires-plug-and-play-ai-analytics-firm-1030815362",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/clearsense-acquires-plug-and-play-ai-analytics-firm-1030815362",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1602054/Clearsense_Logo.jpg",
+          "width": 400,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-22T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks.md",
+      "title": "New UT program puts focus on ethical AI, building robots to do ‘helpful tasks’",
+      "excerpt": "How does society approach the ethical use of artificial intelligence and building robots? It’s a question students at the University of Texas at Austin will soon have to take a deeper look into. Called CREATE (Convergent,",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/",
+      "originalUrl": "https://www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2021/09/University-of-Texas-taking-closer-look-at-ethical-AI.png?w=1280",
+          "width": 566,
+          "height": 353,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/amp/",
+      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/amp/",
+      "publishedDateTime": "2021-09-22T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXAN",
+        "domain": "kxan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-ai-in-automotive-transportation-global-market-outlook-2021-2026.md",
+      "title": "AI in Automotive & Transportation: Global Market Outlook 2021-2026",
+      "excerpt": "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. According to the report,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/09/g23046975/ai-in-automotive-transportation-global-market-outlook-2021-2026",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/g23046975/ai-in-automotive-transportation-global-market-outlook-2021-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/23046975",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23046975",
+      "publishedDateTime": "2021-09-22T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process.md",
       "title": "Robots and machine learning researchers combine forces to speed up the drug development process",
       "excerpt": "IBM Research and Arctoris are bringing the power of artificial intelligence and robotic automation to the process of developing new drugs. The two companies aim to make smarter ch",
@@ -985,204 +1168,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-project44-acquires-last-mile-delivery-startup-convey-for-255m.md",
-      "title": "Project44 acquires last-mile delivery startup Convey for $255M",
-      "excerpt": "Project44 has acquired last-mile delivery startup Convey for $255 million, marking the company's largest purchase to date.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/21/project44-acquires-last-mile-delivery-startup-convey-for-255m/",
-      "originalUrl": "https://venturebeat.com/2021/09/21/project44-acquires-last-mile-delivery-startup-convey-for-255m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Austrian_Post_-_Roller_cages_2-e1608654110915.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/21/project44-acquires-last-mile-delivery-startup-convey-for-255m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/21/project44-acquires-last-mile-delivery-startup-convey-for-255m/amp/",
-      "publishedDateTime": "2021-09-21T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-this-company-is-making-ai-robots-to-help-farmers.md",
-      "title": "This company is making AI robots to help farmers",
-      "excerpt": "UK start-up Small Robot Company is bringing autonomous farming to life with robots that can identify and precisely kill weeds in cropland.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/videos/business/2021/09/21/marketplace-europe-small-robot-farming.cnnbusiness",
-      "originalUrl": "https://edition.cnn.com/videos/business/2021/09/21/marketplace-europe-small-robot-farming.cnnbusiness",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210921105220-small-robot-farming-super-tease.jpeg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/09/21/marketplace-europe-small-robot-farming.cnnbusiness",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/09/21/marketplace-europe-small-robot-farming.cnnbusiness",
-      "publishedDateTime": "2021-09-21T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-ssc-services-for-education-launches-national-employee-recognition-program.md",
-      "title": "SSC Services for Education Launches National Employee Recognition Program",
-      "excerpt": "SSC Services for Education (SCC), a leading national facilities and grounds management provider for K-12 schools and universities across the country, has announced a new employee recognition program,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/business-education-knoxville-4c5b6b85b06ad39a3960db2ec798e4f5",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/business-education-knoxville-4c5b6b85b06ad39a3960db2ec798e4f5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-21T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-googler-marian-croak-is-now-in-the-inventors-hall-of-fame.md",
-      "title": "Googler Marian Croak is now in the Inventors Hall of Fame",
-      "excerpt": "Look around you right now and consider everything that was created by an inventor. The computer you’re reading this article on, the internet necessary to load this article, the electricity that powers the screen, even the coffee maker you used this morning. To recognize the incredible contributions of",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/marian-croak-inventors-hall-fame/",
-      "originalUrl": "https://blog.google/technology/ai/marian-croak-inventors-hall-fame/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/marian2.max-1300x1300.png",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/marian-croak-inventors-hall-fame/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/marian-croak-inventors-hall-fame/amp/",
-      "publishedDateTime": "2021-09-21T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

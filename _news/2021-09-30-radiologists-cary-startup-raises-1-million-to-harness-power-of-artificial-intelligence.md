@@ -34,22 +34,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Online session on AI today"
-    excerpt: "Prathidhwani, a welfare organisation of IT employees, will organise its 100th session under the aegis of the Prathidhwani Technical Forum on Sunday from 11 a.m. to 1 p.m. The session on ‘How Artificial Intelligence is impacting social change and accessibility’ will have Robin Tommy,"
-    publishedDateTime: 2021-09-25T13:22:00Z
-    webUrl: "https://www.thehindu.com/news/cities/Thiruvananthapuram/online-session-on-ai-today/article36667811.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/Thiruvananthapuram/online-session-on-ai-today/article36667811.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Thiruvananthapuram/online-session-on-ai-today/article36667811.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Gartner: Tech providers to invest over $1 million in AI"
     excerpt: "One-third of technology and service provider organisations with artificial intelligence (AI) technology plans said they would invest $1 million or more. Gartner: Tech providers to invest over $1 million in AI."
     publishedDateTime: 2021-09-30T05:40:00Z

@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-07-japan-steps-up-self-driving-to-revive-rural-areas-help-elderly.md",
+      "title": "Japan Steps Up Self-Driving to Revive Rural Areas, Help Elderly",
+      "excerpt": "Japan is bolstering its autonomous driving ambitions with a new project to be formally introduced Wednesday to expand the use of self-driving vehicles in more than 40 locations around the country by 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-09-07/japan-steps-up-self-driving-to-revive-rural-areas-help-elderly",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-07/japan-steps-up-self-driving-to-revive-rural-areas-help-elderly",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iamawYFonON0/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-06T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-06-argo-ai-and-volkswagen-show-off-self-driving-vehicle.md",
+      "title": "Argo AI and Volkswagen show off self-driving vehicle",
+      "excerpt": "Argo AI -- the autonomous car venture backed by Volkswagen and Ford -- is gearing up for the 2021 IAA Mobility event in Munich, where it",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
+      "originalUrl": "https://www.techspot.com/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-06-image-11.jpg",
+          "width": 3600,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
+      "publishedDateTime": "2021-09-06T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-06-vws-self-driving-partner-closing-in-on-german-public-road-tests.md",
       "title": "VW’s Self-Driving Partner Closing In on German Public Road Tests",
       "excerpt": "Volkswagen AG’s partner developing self-driving technology is just a few months away from starting to test autonomous vehicles on public roads in Germany.",
@@ -1320,92 +1424,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars.md",
-      "title": "Chances Of Collisions Involving Urgently Underway Police Cars And AI Self-Driving Cars",
-      "excerpt": "Regrettably there are going to be instances of urgently underway police cars that collide with self-driving cars, though there are means to try and reduce those chances.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60722c4f3955ebfd3665bef7%2F0x0.jpg%3FcropX1%3D237%26cropX2%3D4511%26cropY1%3D440%26cropY2%3D2845",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-08-27T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-4-top-autonomous-vehicle-stocks-to-watch-before-september-2021.md",
-      "title": "4 Top Autonomous Vehicle Stocks To Watch Before September 2021",
-      "excerpt": "Recently, Baidu has been pushing forward with its ... But what some may not be aware of is, Alphabet also has a self-driving car project that was started more than a decade ago with the goal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-top-autonomous-vehicle-stocks-to-watch-before-september-2021-2021-08-27",
-      "originalUrl": "https://www.nasdaq.com/articles/4-top-autonomous-vehicle-stocks-to-watch-before-september-2021-2021-08-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-top-autonomous-vehicle-stocks-to-watch-before-september-2021-2021-08-27?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-autonomous-vehicle-stocks-to-watch-before-september-2021-2021-08-27?amp",
-      "publishedDateTime": "2021-08-27T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -41,6 +41,20 @@ related:
         width: 777
         height: 930
         isCached: true
+  - title: "AI-driven dynamic nanofiber face mask adapts to exercise, pollution levels"
+    excerpt: "Reseaerchers have developed a dynamic respirator that modulates its pore size in response to changing conditions, such as exercise or air pollution levels, allowing the wearer to breathe easier when the highest levels of filtration are not required."
+    publishedDateTime: 2021-09-29T12:23:00Z
+    webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=58848.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 37
+    images:
+      - url: "https://www.nanowerk.com/nanotechnology-news2/id58848_1.png"
+        width: 450
+        height: 338
+        isCached: true
 
 secured: "KcbanYtbe1ptD09ZPhLT3I1ySgvC80bQWEx6QArZyBjVotyINjIT5QnveulLbvn+YkGf0KVlGIr8z+fNWZ/iEZwTTuk7UOmrhiC4Q9xN/KBsBuZ24RJIBcU7rXdaE6lGWCjWuxmP4MAmnvGQE1vxXd5G+khuXNuO+0i3vC6A3kLz32SdjC/4bT1e1PGVJJk9V0KhyEg/HPw2qdczSCh2BmJbz6hQuk+HFql7nGdGuMCe340RxbPiVd1LcLCut1XaN/iJwOhLMI5EevjQasX2EULlrTn8+fuKYReFl39yBkGHowggXr3Vn85849zK5k+VHeo0QQ4tpr9HWm4BX1Rk0Ih732bpIlimu8wgYMJLLFA=;iQ1uVncEIKeFY9ZDzWFm/Q=="
 ---

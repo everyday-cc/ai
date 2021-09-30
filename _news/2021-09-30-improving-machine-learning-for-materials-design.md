@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Improving machine learning for materials design"
-excerpt: "A quick, cost-effective approach improves the accuracy with which machine learning models can predict the properties of new materials.  <br/"
-publishedDateTime: 2021-09-30T03:42:00Z
-originalUrl: "https://menafn.com/1102889416/Improving-machine-learning-for-materials-design"
-webUrl: "https://menafn.com/1102889416/Improving-machine-learning-for-materials-design"
+excerpt: "TSUKUBA, Japan, Sep 30, 2021 - (ACN Newswire) - A new approach can train a machine learning model to predict the properties of a material using only data obtained through simple measurements, saving time and money compared with those currently used."
+publishedDateTime: 2021-09-30T07:00:00Z
+originalUrl: "https://www.asiaone.com/business/improving-machine-learning-materials-design"
+webUrl: "https://www.asiaone.com/business/improving-machine-learning-materials-design"
+ampWebUrl: "https://www.asiaone.com/business/improving-machine-learning-materials-design?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/improving-machine-learning-materials-design?amp"
 type: article
-quality: 39
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?824576"
-    width: 445
-    height: 250
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Sep2021/asiaone_default.jpg?itok=emraNYfZ"
+    width: 763
+    height: 509
     isCached: true
 
 related:
@@ -40,6 +42,6 @@ related:
         height: 250
         isCached: true
 
-secured: "xUnNw5jawhIPYxzRXF55QcTHlmeeNa4sYZ29K2yj1WV0Rfzv6ZIsvFgqGWUenoWFcjMHsgF7t5+o7Mzva+jArZWt2muyuGMjVlTBQiId+1ejJVurPmprgcmXUKtwqZIyLM0l9MmEJwcKEK2cTGTBoAciyvf1Nt6Ss95RsQGTgdyKERoxx8+W2lhIzsOOFUmTFUtX8mfTdKY4RVRrON6urNQuqAnns/CRzjR4hW6el/kYfi28nYP46ij+FDm/2RJ3aMb+4Q9Qp7m3qfxRTMcIjqdvNmfn/DKaACqJZrSL2VuAnMo30/f+myrInAAdDoqjSENFqYozyRFAruhFzvVOCIokJFN/ZP6v5NThTr5uObU=;R3O7c83MFHzMDVP5UOM/dg=="
+secured: "JZqFGjaWXc7UBJwFPlsw7Nuhq05sV0tpYl6yJkUia07/NoRk23fjLna3ktrr+zLpEdNASzF2YyvTIKELF+Tlt1KeP0qCMPjhgbwZbLb80NafrzPnJ2QF5NQZevwcW+wRJ1Ly7CaPVDx49TgFUQIA4EycXak3692GJlvZmQP7rbzMko6ASYbiQmQFvQRKWlEUeWgRXHPzk+p7znzvUL8qU6Z+CxEUeHPY3VNq+0IYL/FCtqaHGzi3DSLHVoBMbECXSWZpgQiPWQpljmdNtNeRqe9JGipN2L/CmKhonj7+gB0oM4Lnmpw7zSH3PfxxzjFhD3/KdRcdobp5a2c9ORJBZCR1sczO5x0Hnxc+05m+Xyo=;ECVhXeE3mBsEPSzU2vd3Yg=="
 ---
 

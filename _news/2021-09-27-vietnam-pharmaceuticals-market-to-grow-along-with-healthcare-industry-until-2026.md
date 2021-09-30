@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2407519/vietnam-pharmaceuticals-market-to
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: openpr.com
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Healthcare in 2021 - an interview with industry leading experts"
+    excerpt: "We got a lucky chance to talk with the founders of DeHealth LLC — a digital health project that is going to change the current healthcare paradigm and make affordable quality healthcare available worldwide."
+    publishedDateTime: 2021-09-30T07:00:00Z
+    webUrl: "https://www.investing.com/news/cryptocurrency-news/healthcare-in-2021--an-interview-with-industry-leading-experts-2630604"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 39
+    images:
+      - url: "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1556528132.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "United States Natural Language Processing Markets to 2026: Rapid Innovations in the Healthcare Industry to Give a Healthy Push to Market Growth"
     excerpt: "The \"United States Natural Language Processing Market, By Component (Solution and Services), By Deployment (On-Premise, Cloud), By"
     publishedDateTime: 2021-09-28T15:45:00Z

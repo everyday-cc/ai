@@ -22,17 +22,20 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Artificial Intelligence (Ai) In Education Market to Eyewitness Massive Growth by 2026"
-    excerpt: "HTF MI Analyst have added a new research study on Title Worldwide Artificial Intelligence (Ai) In Education Market In-depth Research Report 2021, Forecast to 2026 with detailed information of Product Types [,"
-    publishedDateTime: 2021-09-25T13:08:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-education-market-to-eyewitness-massive-growth-by-2026/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-education-market-to-eyewitness-massive-growth-by-2026/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-education-market-to-eyewitness-massive-growth-by-2026/?amp=1"
+  - title: "Artificial Intelligence Ai In Retail Market to See Major Growth by 2026 | IBM, Microsoft, Nvidia"
+    excerpt: "The latest independent research document on Worldwide Artificial Intelligence Ai In Retail examine investment in Market. It describes how compan"
+    publishedDateTime: 2021-09-30T00:42:00Z
+    webUrl: "https://menafn.com/1102889202/Artificial-Intelligence-Ai-In-Retail-Market-to-See-Major-Growth-by-2026-IBM-Microsoft-Nvidia"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 64
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 56
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?882567"
+        width: 442
+        height: 250
+        isCached: true
   - title: "Artificial Intelligence for Marketing Market Likely to Boost Future Growth by 2026 | IBM, Google, Amazon, Microsoft"
     excerpt: "Advance Market Analytics published a new research publication on Artificial Intelligence for Marketing Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends"
     publishedDateTime: 2021-09-29T10:18:00Z
@@ -44,51 +47,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 51
-  - title: "Voice Recognition Vehicle Access Market to Witness Huge Growth by 2026 | Alphabet, Apple, Nuance Communications"
-    excerpt: "Advance Market Analytics published a new research publication on ”Global Voice Recognition Vehicle Access Market Insights, to 2026” with 232+ pages and enriched with self-explained Tables and charts in presentable format."
-    publishedDateTime: 2021-09-28T15:07:00Z
-    webUrl: "https://manometcurrent.com/voice-recognition-vehicle-access-market-to-witness-huge-growth-by-2026-alphabet-apple-nuance-communications/"
-    ampWebUrl: "https://manometcurrent.com/voice-recognition-vehicle-access-market-to-witness-huge-growth-by-2026-alphabet-apple-nuance-communications/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/voice-recognition-vehicle-access-market-to-witness-huge-growth-by-2026-alphabet-apple-nuance-communications/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 24
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/09/Adult-Toys-for-Women-Market-390x220.jpeg"
-        width: 390
-        height: 220
-        isCached: true
-  - title: "Fintech Market Is Likely to Experience a Tremendous Growth in Near Future"
-    excerpt: "HTF MI Analyst have added a new research study on Title Worldwide Fintech Market In-depth Research Report 2021, Forecast to 2026 with detailed information of Product Types [, Fintech markets by type,"
-    publishedDateTime: 2021-09-25T13:07:00Z
-    webUrl: "https://manometcurrent.com/fintech-market-is-likely-to-experience-a-tremendous-growth-in-near-future/"
-    ampWebUrl: "https://manometcurrent.com/fintech-market-is-likely-to-experience-a-tremendous-growth-in-near-future/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/fintech-market-is-likely-to-experience-a-tremendous-growth-in-near-future/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 23
-  - title: "AI in Energy and Utilities Market Forecast to Reach $4.5 Billion by 2026"
-    excerpt: "Technological Advancement Driving New Applications and Rise of Microgrid Adoption Driving the Growth of AI in Energy and Utilities Market The <st"
-    publishedDateTime: 2021-09-27T19:51:00Z
-    webUrl: "https://menafn.com/1102871862/AI-in-Energy-and-Utilities-Market-Forecast-to-Reach-45-Billion-by-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 16
-  - title: "Artificial Intelligence in Energy Market to Eyewitness Massive Growth by 2026 | Grid4C, Watty, BuildingIQ"
-    excerpt: "COVID 19 Outbreak Global Artificial Intelligence in Energy Industry Market Report Development Trends Threats Opportunities and Competitive Landscape in 2020 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic"
-    publishedDateTime: 2021-09-27T19:26:00Z
-    webUrl: "https://www.openpr.com/news/2408599/artificial-intelligence-in-energy-market-to-eyewitness-massive"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "zF2O64cV7AgR1mgocPHFCwCtoccF0Q78jxyOpgbETMf1A5YRjdGCvr0P4ESKN0VLVRrg8VDS4vzSflSZ57hhghcdPRPbUbw7V+rKOZWL7NF7odK5mGfpcfsjt0qE9ZoZmXOiAHyNZlyWdSu5sa1G5F7SM5h7Qg5lSEyzWJshxk/S0ept/+nOvGPgvj9/Ao3GgyV3LmoGdEdvUMarw5yv2DqDBr7W06Qw0+AUxvGXc3n1V658IrxF9SvkyfyjDWH1WTO1lUNVAg1ru0odasG52usQfae+JmdiHfup+q6fYHUZs1tIBBx6cApZm8T7rxsoMk/vlLnUoP7TMaMsN0Q+lO4Yf6leAihpA7hhUESQ4WY=;GKuQPW/PsmGPT1+BA/jHjA=="
 ---

@@ -39,20 +39,6 @@ related:
         width: 739
         height: 489
         isCached: true
-  - title: "Here are the top eight scariest AI and robotics moments in the history of mankind"
-    excerpt: "Robots are sweeping the world, from amazon’s Alexa to full functioning human-like androids. However, there is a dark side to robots, and here are the eight scariest AI and robotics incidence in history."
-    publishedDateTime: 2021-09-25T13:30:00Z
-    webUrl: "https://www.analyticsinsight.net/top-8-scariest-ai-and-robotics-moments-in-history/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 64
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/10-Scariest-AI-and-Robotic-Moments-in-history.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Tech leaders plan large AI investment, but adoption woes remain"
     excerpt: "Four in 10 technology decision-makers say emerging AI applications are still under development, a Gartner survey found."
     publishedDateTime: 2021-09-29T07:47:00Z

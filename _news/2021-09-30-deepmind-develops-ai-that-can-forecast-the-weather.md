@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind AI predicts incoming rainfall with high accuracy"
+    excerpt: "Having flexed its muscles in predicting kidney injury, toppling Go champions and solving 50-year-old science problems, artificial intelligence company DeepMind is now dipping its toes in weather forecasting."
+    publishedDateTime: 2021-09-30T06:00:00Z
+    webUrl: "https://newatlas.com/computers/deepmind-ai-predicts-incoming-rainfall-high-accuracy/"
+    ampWebUrl: "https://newatlas.com/computers/deepmind-ai-predicts-incoming-rainfall-high-accuracy/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/deepmind-ai-predicts-incoming-rainfall-high-accuracy/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 104
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/e6a3fa7/2147483647/strip/true/crop/450x300+130+0/resize/1200x800!/format/webp/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0c%2F2a%2F6f5446b646bd850633c0c1663837%2Funnamed.gif"
+        width: 710
+        height: 300
+        isCached: true
   - title: "DeepMind claims its AI weather forecasting model beats conventional models"
     excerpt: "Alphabet's DeepMind claims that its short-term, AI-powered weather forecasting model is more accurate than competing methods."
     publishedDateTime: 2021-09-29T15:00:00Z
