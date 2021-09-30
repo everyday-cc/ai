@@ -42,6 +42,20 @@ related:
         width: 3840
         height: 2160
         isCached: true
+  - title: "AMD Wants to Improve AI, HPC Efficiency 30x by 2025"
+    excerpt: "AMD has announced a major new efficiency initiative that’s intended to build off its previous 25×20 project. The company will now work to deliver a 30x improvement in energy efficiency in AI and high performance computing overall,"
+    publishedDateTime: 2021-09-30T11:30:00Z
+    webUrl: "https://www.extremetech.com/computing/327706-amd-wants-to-improve-ai-hpc-efficiency-30x-by-2025"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2021/09/AMD-Combined-Feature.png"
+        width: 1344
+        height: 743
+        isCached: true
 
 secured: "sVIjcZjkVRQIrNqvExI6Xu/xrqCWaG9GUFFtezIyPMj634uSYfiaJachOQUzdlcv/16z/c2XHtVqitUlBvAiMI2xu8lOjE3fo4DZijKYMNYEcKmLhPhzMlENFEIT+p31HVn9ianB83j/hCBQhjwjBrNgnXB1WWTaixNbrF896ngZnjVU7h+Kc+ncwEtwVyEbXNektjYUeH0cwQoJQcOq5JcdWEswtdu5mR1Re5nlTdm9lyfPEbrNh9Y+a09/AlZCrfrmSi/qomOGX1p81Css8wEKmxV94e33V99jcEK+QqwR5A9PQHCoGigPn+xT6Ywhmz1yqL4Qicr39Uv1Ku7DgxwVMCWihtwqgLYA7OwqkSim5/W+o/pf+NByyvq5oOwJPiXNE2SBVVHBzhOUfGNTxDvV0f0G2YkwWSqVWu9PgZsfYkWZDnIFgwmW7nva5hqoiIoL87QSs16113hCb4w/ECsYt5MPoAnSSO5EPJpNcgt7/dvGaEJa5dRaNSYpZ5rh+zNYP+QYCp8im9o/gphImw==;r/qItuEaU3/vtf4nx48iFQ=="
 ---

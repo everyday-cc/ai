@@ -9,8 +9,8 @@ ampWebUrl: "https://www.brecorder.com/news/amp/40122807"
 cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40122807"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Business Recorder
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Modi’s speech at UNGA glaring contradiction to India’s abuses in IIOJK"
-    excerpt: "Indian Prime Minister conveniently forgot what was happening right under his nose in Indian Illegally Occupied Jammu and Kashmir during UNGA speech"
-    publishedDateTime: 2021-09-25T18:20:00Z
-    webUrl: "https://tribune.com.pk/story/2321921/modis-speech-at-unga-glaring-contradiction-to-indias-abuses-in-iiojk"
-    ampWebUrl: "https://tribune.com.pk/story/2321921/modis-speech-at-unga-glaring-contradiction-to-indias-abuses-in-iiojk?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2321921/modis-speech-at-unga-glaring-contradiction-to-indias-abuses-in-iiojk?amp=1"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 44
-    images:
-      - url: " https://i.tribune.com.pk/media/images/Indian-Prime-Minister-Narendra-Modi1632594412-0/Indian-Prime-Minister-Narendra-Modi1632594412-0.jpg  "
-        width: 640
-        height: 480
-        isCached: true
   - title: "50 Most Influential AI Leaders In India – 2021"
     excerpt: "Analytics India Magazine brings to you its annual list of the 50 Most Influential AI Leaders In India for the year 2021. Selected on the basis of the expertise they hold in the field of AI and Data Science,"
     publishedDateTime: 2021-09-27T05:28:00Z

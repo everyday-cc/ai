@@ -40,7 +40,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 83
+    quality: 85
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/08/3fb9dd87-044a-4aaf-9fa1-93be7fa400a4-e1597178224936.png?w=1200&strip=all"
         width: 1199

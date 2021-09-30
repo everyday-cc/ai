@@ -2,6 +2,91 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-09-14-startup-algoriffix-pitches-ai-as-your-co-writer-technology.md",
+      "title": "Startup Algoriffix pitches ‘AI as your co-writer’ technology",
+      "excerpt": "The latest startup touting this idea is Algoriffix, which is developing a system that can be used by musicians, composers and producers. ‘AI as your co-writer’ is the slogan, with the suggestion that people “upload your unaccompanied solo or stem and let our algorithms recognise notes and recommend the meter and harmony that fit best your performance”.",
+      "sourceUrl": null,
+      "webUrl": "https://musically.com/2021/09/14/startup-algoriffix-pitches-ai-as-your-co-writer-technology/",
+      "originalUrl": "https://musically.com/2021/09/14/startup-algoriffix-pitches-ai-as-your-co-writer-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://musically.com/wp-content/uploads/2021/09/algoriffix.jpg",
+          "width": 1500,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Music Ally",
+        "domain": "musically.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-facebook-takes-a-stab-at-true-speech-to-speech-translation-via-textless-nlp.md",
+      "title": "Facebook Takes a Stab at True Speech-to-Speech Translation via Textless NLP",
+      "excerpt": "Facebook sees textless NLP as making automatic speech translation obsolete by working in true end-to-end fashion: from speech input to speech output.",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/facebook-takes-a-stab-at-true-speech-to-speech-translation-via-textless-nlp/",
+      "originalUrl": "https://slator.com/facebook-takes-a-stab-at-true-speech-to-speech-translation-via-textless-nlp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slator.com/assets/2021/09/Facebook-Speech-to-Speech-Translation.png",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T01:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-temenos-and-ibm-collaborate-to-accelerate-hybrid-cloud-adoption-in-the-financial-services-industry.md",
       "title": "Temenos and IBM Collaborate to Accelerate Hybrid Cloud Adoption in the Financial Services Industry",
       "excerpt": "Temenos (SIX: TEMN), the banking software company, today announced the availability of Temenos Transact next-generation core banking with Red Hat OpenShift on IBM Cloud, to accelerate hybrid cloud adoption within the financial services industry.",
@@ -905,49 +990,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-14-this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity.md",
-      "title": "This Indian Company is Tapping into the Huge Autonomous Driving Opportunity",
-      "excerpt": "Today, technological changes are very dynamic and Indian companies are at the forefront. Be it artificial intelligence (AI), 5G, drone technology or electric vehicles (EVs), Indian companies are tapping into these huge opportunities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.equitymaster.com/detail.asp?date=09/14/2021&story=6",
-      "originalUrl": "https://www.equitymaster.com/detail.asp?date=09/14/2021&story=6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eqimg.com/images/2021/09142021-image3-equitymaster.jpg",
-          "width": 350,
-          "height": 212,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.equitymaster.com/detail-amp.asp?date=09/14/2021&story=6&title=This-Indian-Company-is-Tapping-into-the-Huge-Autonomous-Driving-Opportunity",
-      "cdnAmpWebUrl": "https://www-equitymaster-com.cdn.ampproject.org/c/s/www.equitymaster.com/detail-amp.asp?date=09/14/2021&story=6&title=This-Indian-Company-is-Tapping-into-the-Huge-Autonomous-Driving-Opportunity",
-      "publishedDateTime": "2021-09-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Equitymaster",
-        "domain": "equitymaster.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-14-facebook-researchers-platforms-like-facebook-have-played-major-role-in-fueling-polarization.md",
       "title": "Facebook – Researchers: Platforms like Facebook have played ‘major role’ in fueling polarization",
       "excerpt": "Social media platforms like Facebook “have played a major role in exacerbating political polarization that can lead to such extremist violence,” according to a from researchers at New York University’s Stern Center for Business and Human Rights.",
@@ -1021,58 +1063,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-qualcomm-technologies-ai-software-broad-and-deep-ai.md",
-      "title": "Qualcomm Technologies AI Software: Broad And Deep AI.",
-      "excerpt": "QTI software supports multiple hardware accelerators in both Snapdragon and the Cloud while making it easy for developers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/09/13/qualcomm-technologies-ai-software-broad-and-deep-ai/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/09/13/qualcomm-technologies-ai-software-broad-and-deep-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613942cb0d1ab212923a4ecc%2F0x0.jpg",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/09/13/qualcomm-technologies-ai-software-broad-and-deep-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/09/13/qualcomm-technologies-ai-software-broad-and-deep-ai/amp/",
-      "publishedDateTime": "2021-09-13T15:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

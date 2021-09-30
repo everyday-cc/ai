@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91485-amd-wants-make-chips-30-time
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91485-amd-wants-make-chips-30-times-more-energy.html"
 type: article
 quality: 89
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2021/09/AMD_E_Blk_RGB.jpg"
         width: 1015
         height: 391
+        isCached: true
+  - title: "AMD Wants to Improve AI, HPC Efficiency 30x by 2025"
+    excerpt: "AMD has announced a major new efficiency initiative that’s intended to build off its previous 25×20 project. The company will now work to deliver a 30x improvement in energy efficiency in AI and high performance computing overall,"
+    publishedDateTime: 2021-09-30T11:30:00Z
+    webUrl: "https://www.extremetech.com/computing/327706-amd-wants-to-improve-ai-hpc-efficiency-30x-by-2025"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2021/09/AMD-Combined-Feature.png"
+        width: 1344
+        height: 743
         isCached: true
 
 secured: "MiiMTK7n2EA3Zt2418bZhezd43+slqdGLxyWNOT1frKCpBkeRgC3ACnBCSoAYhjvhOqy36Pl8luuW1hhJQcMfHbnvNhUYjRSd+bV7AuUSnydYOTvwKbipHoNk5sdUHvLZQUypoHtFxuV5l1ZmQmduucOMxrmtRx8CMUfWh/Fjey4PMuPo8K2wWZ1CdJmE+O+nULXfh81X9Zwgm+PH/hHeNwWYTqZPcpjUFxctFZFKhZW9BtDcVnIHTwK0oUqRdZcl+HXMq5YTy/N6aC3/FQjf0uqkQtQ9b7Zd2tiOPrwy849WWdSFPthtDD4PCk50lGs+KfG8WNNN0O9OWcq4H6XuisrTdjB58TKEDw15hi6xDTmXYHBiVQaj3TZyOgZxFo7nZ26A+UVcGSEaLqtumvo6h+6ld0spd5cl62GR9OzbgZtDrwc/GfDMPa3OzCko5V1mwwGr7/2BZePV/QDkKw+XfOb65ADLJu8K+Ad/fjtBp5d97cwwRRgwq/GBpleohgLGFvJWfM3E5lIHFG8Y6tCFA==;PQH6HB2I9dZuOGjGgzkyXA=="

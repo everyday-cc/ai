@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nd
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/amp/"
 type: article
 quality: 88
-heat: 388
+heat: 378
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Tesla Full Self Driving Beta Button is Live"
-    excerpt: "The Tesla full self-driving beta button is live. Tesla owners can now request to become part of the full self-driving beta. The system will monitor driving for 7 days and if the person is deemed to be a safe driver then they will be given access based upon Tesla’s selection criteria and timing."
-    publishedDateTime: 2021-09-25T17:27:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/09/tesla-full-self-driving-beta-button-is-live.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/09/tesla-full-self-driving-beta-button-is-live.html"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/09/tesla-full-self-driving-beta-button-is-live.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 74
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/09/FSDbetabutton.jpeg"
-        width: 1023
-        height: 887
         isCached: true
   - title: "Tesla rolls out Full Self Driving beta request button for owners"
     excerpt: "US National Transportation Safety Board Chair Jennifer Homendy expressed safety concerns after Tesla rolled out the Full Self Driving (FSD) beta request button..The FSD beta is an unfinished version of the company's premium driver-assistance software."

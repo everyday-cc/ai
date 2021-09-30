@@ -25,22 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech startup The Money Club raises $1.7M from SOSV and Venture Catalysts"
-    excerpt: "The startup has created a money pooling engine where users from all over the country get verified and matched into groups where they start their gamified money clubbing journey with other verified peers from small pooled amounts to bigger pooled amounts based on their behaviour on the platform."
-    publishedDateTime: 2021-09-30T04:37:00Z
-    webUrl: "https://www.dqindia.com/fintech-startup-the-money-club-raises-1-7m-from-sosv-and-venture-catalysts/"
-    ampWebUrl: "https://www.dqindia.com/fintech-startup-the-money-club-raises-1-7m-from-sosv-and-venture-catalysts/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/fintech-startup-the-money-club-raises-1-7m-from-sosv-and-venture-catalysts/amp/"
+  - title: "DMI Alternatives raises $40 mn for fintech fund"
+    excerpt: "Within the Fintech ecosystem, Sparkle focuses on alternative lending, consumer finance, financial services IT, payments, regtech, wealthtech and AI-ML platforms to drive automation. A key differentiator for Sparkle is its strategic relationship with DMI ..."
+    publishedDateTime: 2021-09-30T10:19:00Z
+    webUrl: "https://www.livemint.com/companies/news/dmi-alternatives-raises-40-mn-for-fintech-fund-11632995681857.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/dmi-alternatives-raises-40-mn-for-fintech-fund/amp-11632995681857.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/dmi-alternatives-raises-40-mn-for-fintech-fund/amp-11632995681857.html"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 57
+      name: Mint
+      domain: livemint.com
+    quality: 59
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2016/12/fund.jpg"
-        width: 327
-        height: 235
+      - url: "https://images.livemint.com/img/2021/09/30/600x338/DMI_1632997037719_1632997047813.JPG"
+        width: 600
+        height: 338
         isCached: true
+  - title: "Good Stocks To Buy Right Now ? 5 Fintech Stocks To Watch"
+    excerpt: "Top Fintech Stocks To Check Out Before Next Month. After another day of losses, the stock market today appears keen to recover. While this is happening, fintech stocks continue"
+    publishedDateTime: 2021-09-29T18:07:00Z
+    webUrl: "https://www.nasdaq.com/articles/good-stocks-to-buy-right-now-5-fintech-stocks-to-watch-2021-09-29"
+    ampWebUrl: "https://www.nasdaq.com/articles/good-stocks-to-buy-right-now-5-fintech-stocks-to-watch-2021-09-29?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/good-stocks-to-buy-right-now-5-fintech-stocks-to-watch-2021-09-29?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "The ascent of the cloud in fintech"
     excerpt: "For India, it’s a case of the right place, right time, right conditions for the enthusiastic adoption of cloud tech for financial entities"
     publishedDateTime: 2021-09-28T12:01:00Z
@@ -71,6 +82,20 @@ related:
         width: 810
         height: 506
         isCached: true
+  - title: "5 FinTech companies helping MSMEs scale their businesses"
+    excerpt: "One sector hit the hardest by the pandemic has been the MSMEs. A number of entrepreneurs have reported the inability to survive"
+    publishedDateTime: 2021-09-27T06:26:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-fintech-companies-helping-msmes-scale-their-businesses/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Singapore-financial-technology-1.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Coin, a FinTech startup launches Coin Wallet"
     excerpt: "Coin, a US-based FinTech start-up founded by Microsoft alumni ... Coin Wallet is an all-in-one decentralized cryptocurrency exchange, wallet, and AI assistant. Coin Wallet is non-custodial, resides in a browser extension, and includes an integrated ..."
     publishedDateTime: 2021-09-28T05:31:00Z
@@ -84,6 +109,20 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/Accelerating-transformation-through-Cloud@2x.png"
         width: 401
         height: 400
+        isCached: true
+  - title: "The International Cricket Council Announces Strategic Partnership With FinTech Infrastructure Leader: Nium"
+    excerpt: "The International Cricket Council (ICC) announced today that it has entered a multi-year strategic partnership with Nium, a leading global financial technology (FinTech) infrastructure company. Nium provides banks and businesses with access to"
+    publishedDateTime: 2021-09-30T06:46:00Z
+    webUrl: "https://www.lelezard.com/en/news-20022685.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 6
+    images:
+      - url: "https://mma.prnewswire.com/media/1639444/ICC_Nium_partnership.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "ilroYR1IOCp+IdpXfk3A1N5tbwD/HNAel3v7VpOgPLYxhp9tIyVZRi56pp1VKtIdEn9UNP8pdLGN4bRO5g6VFEnLqE2zNwupyS/Twzp+jun7trBmNyQhcmLjc7Q9L82MHq4dVrrBa61ii+V5cqDWj6lqozQLDWJwgCuo7XsOeWmuIhitBpqso2o63PDIuqK0+QRy4Eq6MZxKfGtuDOF3scBJmhSbL+09XzJCCE0SdgLxZZpQVaguYsXFPYNsdGGc9Ru41L+tZExxxGYEGWlw4hWvU/PpqPNaxl1CooupDRWDfr5md9AwX+Zo1rinBPeoVAB+/yRhcZzrzuU8rwpIH+FojtqwvvboFe1C14IgzOloW082SdGD+tz/azcJpCPM2un5SufUxvhphbBXkKh8kAPRva7hm6t3p1n/NC+smgLE8J0fMkZHZYbrTqCRCPXw8KOnL7m87h7XAN2YbnCyXykGpkJRE1kiluApLJF62fbvAwxSln438V/44D8rYqqsFQlo27ZDIdunHbKQa//rsQ==;gUMMsSeiDD1vFzB9F7Qa/w=="

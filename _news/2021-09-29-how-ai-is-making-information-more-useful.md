@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/products/search/how-ai-making-information-more
 webUrl: "https://blog.google/products/search/how-ai-making-information-more-useful/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Future of Artificial Intelligence In Manufacturing"
+    excerpt: "Any company working in the manufacturing industry is likely to know that AI has been making significant improvements with a range of applications."
+    publishedDateTime: 2021-09-30T11:11:00Z
+    webUrl: "https://bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/"
+    ampWebUrl: "https://bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/?amp"
+    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/?amp"
+    type: article
+    provider:
+      name: Business Matters
+      domain: bmmagazine.co.uk
+    quality: 57
+    images:
+      - url: "https://bmmagazine.co.uk/wp-content/uploads/2021/09/shutterstock_1154438635-scaled.jpg"
+        width: 850
+        height: 375
+        isCached: true
   - title: "How AI is transforming the world of finance"
     excerpt: "From barter to paper currency to plastic money to contactless cards, the world of payments has come a long way. AI promises to usher in a new world of frictionless and seamless payments"
     publishedDateTime: 2021-09-29T05:48:00Z

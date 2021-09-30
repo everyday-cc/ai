@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/meity-startup-hub-and-aws-collab
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/meity-startup-hub-and-aws-collaborate-to-support-startup-growth-in-india/amp-11632653878805.html"
 type: article
 quality: 58
-heat: 58
+heat: 68
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 600
     height: 337
     isCached: true
+
+related:
+  - title: "NITI Aayog, AWS, and Intel Collaborate to Accelerate Digital Innovation in India"
+    excerpt: "The National Institution for Transforming India (NITI Aayog), the Government of India’s national policy think tank, Amazon Web Services (AWS), and Intel have come together to establish a new experienc"
+    publishedDateTime: 2021-09-30T06:13:00Z
+    webUrl: "https://indiaeducationdiary.in/niti-aayog-aws-and-intel-collaborate-to-accelerate-digital-innovation-in-india/"
+    ampWebUrl: "https://indiaeducationdiary.in/niti-aayog-aws-and-intel-collaborate-to-accelerate-digital-innovation-in-india/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/niti-aayog-aws-and-intel-collaborate-to-accelerate-digital-innovation-in-india/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 54
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
+        isCached: true
 
 secured: "8QbwffNF6ihrTGs+vsOfd+gAJbEtXD6aUkZPco6pl4OiacSi6zKuZGnVHDTL9FO4+0VRc4MqnQu9+BIu71qeGfqOn94NDMFXHr7ufB8cn68aNdJLtWd+nIb98PrdFlvDHZB4MQXg2BOmFcyqZcHjdqtL8Pl5c9XM4wYI368VBfYLqJtW1TOi9lQaHHEX1UHpex/dKRcuEYypEZ1eE8cIKQ9OdxbcGGz2Dk8Glg0lzlxZasv3I66JmAF0FW9i27JTMnuigPeeTg7hvFbhssR3lMe9sO9DGWyR070Huz+Rd+gc7YTyd9MDVW6Jld2KHhrLyQEctDAaC9B5rIWTqbX2nzDRP18twIEiti+OhaNYteoTZa8i+HjR9McRV7c5WYuc0qRdPymx5nZusos1BRlPsi5rbIIxKG1clKMJlQ5oCjLP2fbZHX1i5lXJGufIXYprA52RBfrg9deerNVKiIAmQU/fLvB9Zf8eA23dhr3HJfgfvk6N3s+m/2jT+NgGdNwnbiYhHs17HGsnj8X1nzM+IQ==;Hrks31PSllFlWH3U81HQdw=="
 ---

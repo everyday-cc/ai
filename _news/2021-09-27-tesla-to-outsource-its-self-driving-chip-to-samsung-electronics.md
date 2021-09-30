@@ -68,22 +68,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla Full Self Driving Beta Button is Live"
-    excerpt: "The Tesla full self-driving beta button is live. Tesla owners can now request to become part of the full self-driving beta. The system will monitor driving for 7 days and if the person is deemed to be a safe driver then they will be given access based upon Tesla’s selection criteria and timing."
-    publishedDateTime: 2021-09-25T17:27:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/09/tesla-full-self-driving-beta-button-is-live.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/09/tesla-full-self-driving-beta-button-is-live.html"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/09/tesla-full-self-driving-beta-button-is-live.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 74
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/09/FSDbetabutton.jpeg"
-        width: 1023
-        height: 887
-        isCached: true
   - title: "Tesla rolls out Full Self Driving beta request button for owners"
     excerpt: "US National Transportation Safety Board Chair Jennifer Homendy expressed safety concerns after Tesla rolled out the Full Self Driving (FSD) beta request button..The FSD beta is an unfinished version of the company's premium driver-assistance software."
     publishedDateTime: 2021-09-27T04:42:00Z

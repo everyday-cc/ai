@@ -40,17 +40,6 @@ related:
         width: 1000
         height: 499
         isCached: true
-  - title: "Good Stocks To Buy Right Now ? 5 Fintech Stocks To Watch"
-    excerpt: "Top Fintech Stocks To Check Out Before Next Month. After another day of losses, the stock market today appears keen to recover. While this is happening, fintech stocks continue"
-    publishedDateTime: 2021-09-29T18:07:00Z
-    webUrl: "https://www.nasdaq.com/articles/good-stocks-to-buy-right-now-5-fintech-stocks-to-watch-2021-09-29"
-    ampWebUrl: "https://www.nasdaq.com/articles/good-stocks-to-buy-right-now-5-fintech-stocks-to-watch-2021-09-29?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/good-stocks-to-buy-right-now-5-fintech-stocks-to-watch-2021-09-29?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "ARGO Named a 2021 Top 100 FinTech Provider by IDC Financial Insights"
     excerpt: "ARGO, the leading provider of high-value technology and analytical-sciences software for the financial services and healthcare industries, announced today that it has been named as a Top 100 FinTech Provider in the 2021 IDC FinTech Rankings,"
     publishedDateTime: 2021-09-27T13:10:00Z

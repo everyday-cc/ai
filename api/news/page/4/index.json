@@ -2,6 +2,91 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-28-how-to-join-the-connected-world-with-data-and-ai.md",
+      "title": "How to join the connected world with data and AI",
+      "excerpt": "If there was one key fact for data and analytic professionals to learn in the past year, it's that our data and AI foundations weren't as ready for this challenge as they could have been.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-to-join-the-connected-world-with-data-and-ai/",
+      "originalUrl": "https://www.zdnet.com/article/how-to-join-the-connected-world-with-data-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-join-the-connected-world-with-data-and-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-join-the-connected-world-with-data-and-ai/",
+      "publishedDateTime": "2021-09-27T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-facial-recognition-contractor-clearview-ai-withdraws-subpoenas-served-on-nonprofit.md",
+      "title": "Facial recognition contractor Clearview AI withdraws subpoenas served on nonprofit",
+      "excerpt": "A technology company that provides facial recognition technology to at least four government agencies has withdrawn subpoenas it served on a nonprofit. Clearview AI this morning announced that it would not pursue the court orders,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fedscoop.com/facial-recognition-contractor-clearview-ai-withdraws-subpoenas-served-on-nonprofit/",
+      "originalUrl": "https://www.fedscoop.com/facial-recognition-contractor-clearview-ai-withdraws-subpoenas-served-on-nonprofit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png",
+          "width": 629,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-ounass-increases-its-revenue-using-amazon-sagemaker-with-a-word2vec-based-recommender-system.md",
       "title": "Ounass increases its revenue using Amazon SageMaker with a Word2vec based recommender system",
       "excerpt": "Based in Dubai, Ounass is the Middle East’s leading ecommerce platform for luxury goods. Scouring the globe for leading trends, Ounass’s expert team reports on the latest fashion updates, coveted insider information, and exclusive interviews for customers to read and shop. With more than 230,000 unique",
@@ -601,48 +686,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-27-4-reasons-why-explainable-ai-is-the-future-of-ai.md",
-      "title": "4 Reasons Why Explainable AI Is the Future of AI",
-      "excerpt": "If you're using Google docs, Ink for All or any number of digital tools, AI is being baked in. AI is already making decisions in the workplace, around hiring, customer service and more. However, a recurring issue with AI is that it can be a bit of a \"black box\" or mystery as to how it arrived at its decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-experience/4-reasons-why-explainable-ai-is-the-future-of-ai/",
-      "originalUrl": "https://www.cmswire.com/digital-experience/4-reasons-why-explainable-ai-is-the-future-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/a2e7d04f0627476d9d02a6ea0bc73c85.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-experience/4-reasons-why-explainable-ai-is-the-future-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/4-reasons-why-explainable-ai-is-the-future-of-ai/amp/",
-      "publishedDateTime": "2021-09-27T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-27-preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning.md",
       "title": "Preparing for the 'golden age' of artificial intelligence and machine learning",
       "excerpt": "The latest ZDNet survey on AI actionability and accountability finds that IT teams are taking a direct lead, with most companies building in-house systems. However, oversight of AI-generated decisions is lagging.",
@@ -929,6 +972,50 @@
       ]
     },
     {
+      "path": "_news/2021-09-27-how-machine-learning-is-having-an-impact-on-education.md",
+      "title": "How Machine Learning Is Having an Impact on Education",
+      "excerpt": "Discovery Education has partnered with Amazon Web Services to enhance its platform with machine learning. It’s one of many ways machine learning is being used in K-12 today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techlearning.com/news/how-machine-learning-is-having-an-impact-on-education",
+      "originalUrl": "https://www.techlearning.com/news/how-machine-learning-is-having-an-impact-on-education",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/6Lsb8NHNBrb5a3TjXUcC5R-1200-80.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techlearning.com",
+        "domain": "techlearning.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-baker-mckenzie-taps-new-leads-for-data-and-machine-learning-team.md",
       "title": "Baker McKenzie taps new leads for data and machine learning team",
       "excerpt": "Baker McKenzie has tapped two \"co-founders\" to lead its new data science and machine learning team, artificial intelligence legal pro Brian Kuhn and Danielle Benecke, an IP and tech senior associate at the firm.",
@@ -1106,90 +1193,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-et-startup-awards-2021-kovai-wins-the-bootstrap-champ-award.md",
-      "title": "ET Startup Awards 2021: Kovai wins the Bootstrap Champ award",
-      "excerpt": "The SaaS startup, which went head-to-head with Cardinality.ai, eventually ended up becoming the Bootstrap Champ due its financial heft and ability to inspire entrepreneurs to build global businesses from smaller cities and towns.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/startups/et-startup-awards-2021-kovai-wins-the-bootstrap-champ-award/articleshow/86533513.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/et-startup-awards-2021-kovai-wins-the-bootstrap-champ-award/articleshow/86533513.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1129326,msid-86533494/winners-slides_et-startup-awards-2021_ettech.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/startups/et-startup-awards-2021-kovai-wins-the-bootstrap-champ-award/amp_articleshow/86533513.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/et-startup-awards-2021-kovai-wins-the-bootstrap-champ-award/amp_articleshow/86533513.cms",
-      "publishedDateTime": "2021-09-26T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-afridi-presents-iiojk-dossier-to-ai-urges-it-to-raise-voice-against-india.md",
-      "title": "Afridi presents IIOJK dossier to AI, urges it to raise voice against India",
-      "excerpt": "ISLAMABAD: Chairman of the Parliamentary Committee on Kashmir Shehryar Afridi has presented a dossier to the Amnesty International on human rights violations in Indian Illegally Occupied Jammu and Kashmir (IIOJK) and urged it to raise its voice and ask the United Nations (UN) and other humanitarian organisations to save the suffering Kashmiris from Indian genocide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.brecorder.com/news/40122807/afridi-presents-iiojk-dossier-to-ai-urges-it-to-raise-voice-against-india",
-      "originalUrl": "https://www.brecorder.com/news/40122807/afridi-presents-iiojk-dossier-to-ai-urges-it-to-raise-voice-against-india",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.brecorder.com/large/2021/09/6150f532ee1ff.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.brecorder.com/news/amp/40122807",
-      "cdnAmpWebUrl": "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40122807",
-      "publishedDateTime": "2021-09-26T17:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Recorder",
-        "domain": "brecorder.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

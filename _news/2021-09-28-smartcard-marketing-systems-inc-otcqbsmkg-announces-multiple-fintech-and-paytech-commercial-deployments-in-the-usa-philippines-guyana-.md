@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/23137788"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23137788"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "5 FinTech companies helping MSMEs scale their businesses"
-    excerpt: "One sector hit the hardest by the pandemic has been the MSMEs. A number of entrepreneurs have reported the inability to survive"
-    publishedDateTime: 2021-09-27T06:26:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-fintech-companies-helping-msmes-scale-their-businesses/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Singapore-financial-technology-1.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "beIYzA8sVA0zYer8t1DfkUtXkFoVfj4OO1feZnaesJWUdxDegk/vUZAJSrICpgoRwrKRhyWyou157q2yXkVBCeTQF53FBHRGhx//jOw12gzDZZF4HlWl1xsdTfOah/TXklRLRCxLGEjKO9926QY4q/RuZ55ahm1qwwOFl9DdqvsumZPU/FfqflHUA4n7Pi8KaJ9s+Pq9ZGEFJ+pR6Ft1p4hSze1Qmxsc6tTzKYjwOkoSVieNhrDtr5OoFAemKnfDpNjlrZNLFGJK1KR/4RbewkuDbK8PjkBRt8CMiEk9S01ZUTiMMWyXRccjTB6x0O91QCvd/1M4QzfQTadidtwiqEUS0XujgbQTuYB+0eKwf3c=;X89MOnBHRdPtdE5//PqeKw=="
 ---

@@ -25,6 +25,22 @@ images:
     height: 359
     isCached: true
 
+related:
+  - title: "Eagle Eye Networks Acquires Surveillance AI Leader Uncanny Vision"
+    excerpt: "Eagle Eye Networks, the global leader in cloud video surveillance, today announced the acquisition of artificial intelligence leader Uncanny Vision, accelerating the company's leadership in providing AI and analytics to make customers'"
+    publishedDateTime: 2021-09-30T11:12:00Z
+    webUrl: "https://www.lelezard.com/en/news-20023036.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 39
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+
 secured: "4FQhZPDFeQ0QFjoFqs4mfvI+XeOrZ+2j7GksP/JtioR1ftVtkm7KopNTHbGF/Hq8cBrepjFdjtAyEt3GKyzrQrFw6VikRTK5zI8gwsQD+sFvGRRdcg3E2343uVX6FmntGOIKorMwk9Tx4/BxRlrNwBUfxE09Dz8Ejw3pZZZEVlxexpDE9rQXer4A+1rUtYazC2XZ6K+oamc26zKhAToDOIjD26HwLQQg9dRY0Pne4oyhROLtNnRnTDVWJG6L+2LJ+DQp/6YepkxfA2NL5smE8F0U/TMWrOqDg7Rt8TAbRzcQlQDEqfenxorWEiBbAkIXK9XnthsRwecpmm1j9WxH5MFreXg7dKYw0x8PFJqfumdgnTAULdwRi5yfxhlSz7mZLSmDDWtD4pdzrASvVvoqb7XzncBtyueaukoWvLQ/4YzFZ4mB+LP1VqSThjskuELeUmOOmu6ukmTYSWUB+v8wevHs+QTyMnsvejLO0mEv91mWdGltRDPR9dK3jX7682ooKFhz/R54cMc4vOaVSUS2PA==;om6RLo7R6peHftwH7lZCZQ=="
 ---
 

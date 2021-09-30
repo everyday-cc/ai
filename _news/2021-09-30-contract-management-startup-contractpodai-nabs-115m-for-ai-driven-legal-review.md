@@ -8,7 +8,7 @@ webUrl: "https://venturebeat.com/2021/09/30/contract-management-startup-contract
 ampWebUrl: "https://venturebeat.com/2021/09/30/contract-management-startup-contractpodai-nabs-115m-for-ai-driven-legal-review/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/30/contract-management-startup-contractpodai-nabs-115m-for-ai-driven-legal-review/amp/"
 type: article
-quality: 83
+quality: 85
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/08/3fb9dd87-044a-4aaf-9fa1-93be7fa400a4-e1597178224936.png?w=1200&strip=all"
@@ -47,6 +48,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ljPkWzMMQ1E4DCmVM93bRXLmw++htJL0qXC2ug/sBKISJEFQvOUZPNpc2G3kPEcGxPBwsqH7ME0sh8HSRempMA8FRCeUEmaK7JjTw0d14+D5AllZuubK68EfzSOlCiJwd21O6mulsRuSUu8jWCeEqfcroZf2A6v8U9VNJIjnLSm7/dWwvFDEpmmhVaijN0VyoBhfoJBJYzToIrxVa8+0WbL1ME4YGh3zpr8e10R/WgT7qvsXoFZUJQ41ZFK8olZ5tLkiYjpzMf99DhANGn2HYZrTenYiryVCKo8bP7NWRbGl70f1WKRvO5tccd8/f4Svd81yBW2SJaYUxDhegxzZ3ZFoF1XaKQSOJyURao5kie0=;dfQ2tS+2pQN5Jny0Qx0TmA=="
+secured: "i25OEcB5VEreUNeQnuZ+Jp2bSXsTkhVGVU1IO7xhl8PZmC22K/BhBePaMkrCXu+jdt1H+TKJiCvJhEo13ujK15qb7lrnsf48MdvtIfOzlbPpvKAhcPehqp0pRcNpVmROjVDhlIIYfWQZqow5HGnYEXHN0hg2tv7fSCT4V5dDTnOY3Ef0BmU5hhsAeV+1zMKQNaiue1Fx+Q4uKzIll1Py1K7yrGqWoPYJ+hXQE74ALe7dIU2j6JmPz1TU6I2ICpq6u7Mc6+hbqAOSqdNQOav3IQX3QxUP48oAsD7YuO384GEimbnayutEgl899Rqps1trIMt7Ht/PJWqUDYFHxOkTrW66mulMK12nbZId6//37vruLbdhfneUYUF2eQmMApqg+qZ9QKSPDSXCpsE/Vm2M3n5QIOjEfHcQw7QXMY8tElcW0LY91O2PCy9V3n9u/CdbadiZ2CtZ4m7vOw8zd00ling5nPu6Peq0GHQRNA+KrCHisCb2exy+/L99FxAhF+/qWP68EEvvDFO+aeC7UplCdA==;wZmqpL2E6BB2RxfMM+4ZsQ=="
 ---
 

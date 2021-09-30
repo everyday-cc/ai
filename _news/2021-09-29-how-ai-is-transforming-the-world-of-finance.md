@@ -40,6 +40,22 @@ related:
         width: 1300
         height: 733
         isCached: true
+  - title: "The Future of Artificial Intelligence In Manufacturing"
+    excerpt: "Any company working in the manufacturing industry is likely to know that AI has been making significant improvements with a range of applications."
+    publishedDateTime: 2021-09-30T11:11:00Z
+    webUrl: "https://bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/"
+    ampWebUrl: "https://bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/?amp"
+    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/?amp"
+    type: article
+    provider:
+      name: Business Matters
+      domain: bmmagazine.co.uk
+    quality: 57
+    images:
+      - url: "https://bmmagazine.co.uk/wp-content/uploads/2021/09/shutterstock_1154438635-scaled.jpg"
+        width: 850
+        height: 375
+        isCached: true
   - title: "Kore.ai raises $50M for its AI-powered experience optimization platform"
     excerpt: "Startup Kore.ai Inc. today announced that it has raised a $50 million funding round led by Vistara Growth and PNC to fuel the growth of its software platform, which helps companies build artificial intelligence assistants to automate repetitive business tasks."
     publishedDateTime: 2021-09-29T20:45:00Z

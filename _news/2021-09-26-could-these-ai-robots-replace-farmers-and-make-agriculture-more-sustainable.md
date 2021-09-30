@@ -25,103 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "4 Reasons Why Explainable AI Is the Future of AI"
-    excerpt: "If you're using Google docs, Ink for All or any number of digital tools, AI is being baked in. AI is already making decisions in the workplace, around hiring, customer service and more. However, a recurring issue with AI is that it can be a bit of a \"black box\" or mystery as to how it arrived at its decisions."
-    publishedDateTime: 2021-09-27T11:41:00Z
-    webUrl: "https://www.cmswire.com/digital-experience/4-reasons-why-explainable-ai-is-the-future-of-ai/"
-    ampWebUrl: "https://www.cmswire.com/digital-experience/4-reasons-why-explainable-ai-is-the-future-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/4-reasons-why-explainable-ai-is-the-future-of-ai/amp/"
+  - title: "Robots farm more sustainably than humans"
+    excerpt: "A California-based company is developing an artificial intelligence solution to the carbon footprint of agriculture"
+    publishedDateTime: 2021-09-28T08:11:00Z
+    webUrl: "https://www.energylivenews.com/2021/09/28/robots-farm-more-sustainably-than-humans/"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 57
-    images:
-      - url: "https://www.cmswire.com/-/media/a2e7d04f0627476d9d02a6ea0bc73c85.ashx?mw=1024"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Responsible artificial intelligence means responsible use"
-    excerpt: "This is akin to expecting a car to be responsible as opposed to its driver. Instead, it comes down to the responsible use of AI. There are four main reasons why organisations need to examine this issue."
-    publishedDateTime: 2021-09-29T15:40:00Z
-    webUrl: "https://mg.co.za/opinion/2021-09-29-responsible-artificial-intelligence-means-responsible-use/"
-    ampWebUrl: "https://mg.co.za/opinion/2021-09-29-responsible-artificial-intelligence-means-responsible-use/?amp"
-    cdnAmpWebUrl: "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/opinion/2021-09-29-responsible-artificial-intelligence-means-responsible-use/?amp"
-    type: article
-    provider:
-      name: mg.co.za
-      domain: mg.co.za
-    quality: 57
-    images:
-      - url: "https://media.mg.co.za/wp-media/2020/03/a44e475b-artificialintelligence.jpeg"
-        width: 696
-        height: 445
-        isCached: true
-  - title: "Responsible AI: 8 Steps to auditable artificial intelligence"
-    excerpt: "With novel artificial intelligence (AI) applications multiplying like rabbits these days, it may seem like the current wave of AI innovation is all beer and skittles. Lawsuits have a way of sobering up any metaphorical party and,"
-    publishedDateTime: 2021-09-27T11:43:00Z
-    webUrl: "https://gadget.co.za/responsible-ai-8-steps-to-auditable-artificial-intelligence/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
+      name: Energy Live News
+      domain: energylivenews.com
     quality: 54
     images:
-      - url: "https://i2.wp.com/gadget.co.za/wp-content/uploads/2019/04/Ai-Artificial-Intelligence-Droid-Robot-Android-2228610.jpg?resize=960%2C600&#038;ssl=1"
-        width: 960
-        height: 600
+      - url: "https://www.energylivenews.com/wp-content/uploads/2021/09/iron-ox.jpg"
+        width: 720
+        height: 412
         isCached: true
-  - title: "XAI: Explainable artificial intelligence"
-    excerpt: "Excella’s Claire Walsh and Henry Jai discuss the challenges in using artificial intelligence, and how AI is implemented."
-    publishedDateTime: 2021-09-27T10:38:00Z
-    webUrl: "https://federalnewsnetwork.com/federal-tech-talk/2021/09/xai-explainable-artificial-intelligence/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 54
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/09/Walsh_Jai_500x300.png"
-        width: 500
-        height: 300
-        isCached: true
-  - title: "Why AI Needs the Liberal Arts"
-    excerpt: "Colby College in Maine is investing $30 million to create the Davis Institute for Artificial Intelligence, the first cross-disciplinary institute for AI at a liberal arts institution. Among its goals: utilizing AI to transform teaching,"
-    publishedDateTime: 2021-09-28T21:19:00Z
-    webUrl: "https://campustechnology.com/Articles/2021/09/28/Podcast-Why-AI-Needs-the-Liberal-Arts.aspx?p=1"
-    type: article
-    provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 39
-    images:
-      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/Podcasts/2020/CTInsiderPodcast644x300.jpg"
-        width: 644
-        height: 300
-        isCached: true
-  - title: "The Future Is Already Here: Areas Where Artificial Intelligence Is Already in Use and This Is Just the Beginning"
-    excerpt: "In medicine, search, languages, automobiles, and, of course, advertising, artificial intelligence has driven innovation. Here's how we assess the impact of artificial intelligence on our daily lives."
-    publishedDateTime: 2021-09-29T06:50:00Z
-    webUrl: "https://www.analyticsinsight.net/the-future-is-already-here-areas-where-artificial-intelligence-is-already-in-use-and-this-is-just-the-beginning/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 22
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Areas-Where-Artificial-Intelligence-Is-Already-in-Use-and-This-Is-Just-the-Beginning.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "The future of dental care"
-    excerpt: "The future of dental care. Jana Denzel explores artificial intelligence and the role it will play in the world of dentistry. Movies such as The Terminator and I, Robot hauntingly"
-    publishedDateTime: 2021-09-27T18:16:00Z
-    webUrl: "https://dentistry.co.uk/2021/09/27/the-future-of-dental-care-artificial-intelligence/"
-    type: article
-    provider:
-      name: Dentistry
-      domain: dentistry.co.uk
-    quality: 4
 
 secured: "jhEGfG0OHdr3tJN5AUoYLqtyehihZcsMWCWXWNzFFYxGecThc1lJFxzeo1YVkrIEkxaPQzhyUHYpyBtnrYGIsXvFfVOnxQKhW1KgeHdqrloKA5+sQULQyYompDOs2/Vgf+OZauqWf3L8lsxcRPrn5SHoibcvYYtd+0+O+XLIIgFRizB3TlE9KJMUW7fu0iI2gJjygJ62azEPXC+3RMetXp7Yyw9EBYmB5qndXcKL1FW7gMZFA7g9TkfYTAukSK4PxqRC/3Me1i1WEi0OMwpHG3vtjfuc+Cwib+cRVXBK7a8WnH+Aygao/8Lop1Uq7ueo1UkMCjscnm1PVYYWVykfZtzJ6HtKBU0QElbrx6I6fqNERheog/24Ob9WZIYZnA2vEyWC7z4+dPfv/dpYpd+nzTWXDQgjFuWr5mtQ2PuI/8Rqvv7ZCrSHaA8VhsqOjpomqDwE7NtDScIwK59p1gQr2BT6z6l6C+5TY++vss9Lmg3+EM/56KmWZ4k4A+yxW++ikAsszn2KeBxaKUXD3OSFjw==;DVAxPPVD9b/GJ3gCCjDQZw=="
 ---

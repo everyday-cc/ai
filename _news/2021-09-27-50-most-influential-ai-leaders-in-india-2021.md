@@ -40,22 +40,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Modi’s speech at UNGA glaring contradiction to India’s abuses in IIOJK"
-    excerpt: "Indian Prime Minister conveniently forgot what was happening right under his nose in Indian Illegally Occupied Jammu and Kashmir during UNGA speech"
-    publishedDateTime: 2021-09-25T18:20:00Z
-    webUrl: "https://tribune.com.pk/story/2321921/modis-speech-at-unga-glaring-contradiction-to-indias-abuses-in-iiojk"
-    ampWebUrl: "https://tribune.com.pk/story/2321921/modis-speech-at-unga-glaring-contradiction-to-indias-abuses-in-iiojk?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2321921/modis-speech-at-unga-glaring-contradiction-to-indias-abuses-in-iiojk?amp=1"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 44
-    images:
-      - url: " https://i.tribune.com.pk/media/images/Indian-Prime-Minister-Narendra-Modi1632594412-0/Indian-Prime-Minister-Narendra-Modi1632594412-0.jpg  "
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "VLYmozTAhvBdMifn0fgJo/KQFIUx/kib0wHDaMXj48HMov/0Z6Ngot642OsHkiHl3lUNQmjen6xtIW+VyTxdyLsD4iIZFceHjNYvp962IoDuL2Olc/uWJBd9omz87jcsIJsuGHrHpGPTqmylPcoB0+WT2mzXuONLaTNaQ/KwhYjjVISnYpxGbvXHVILLgAPus8SQbojCTxgn8nV7oxGuderCXzvB7/USJaU0eCxJt73IzxBT0XGQ/nyYBv9W6pLQFpvzYHikkvRo19R1LsjRRwqIfUZIpb7jtppT5Ukr+QwezunM2wff10b2LrSaT09VQFybyxBbyAGjVKNyOMsP+9uuxhVC4t7xUIt6ArHqsbU=;S5kIGWeW+F/0IO6WHlByJQ=="
 ---
