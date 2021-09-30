@@ -24,79 +24,49 @@ images:
     isCached: true
 
 related:
-  - title: "4 Reasons Why Explainable AI Is the Future of AI"
-    excerpt: "If you're using Google docs, Ink for All or any number of digital tools, AI is being baked in. AI is already making decisions in the workplace, around hiring, customer service and more. However, a recurring issue with AI is that it can be a bit of a \"black box\" or mystery as to how it arrived at its decisions."
-    publishedDateTime: 2021-09-27T11:41:00Z
-    webUrl: "https://www.cmswire.com/digital-experience/4-reasons-why-explainable-ai-is-the-future-of-ai/"
-    ampWebUrl: "https://www.cmswire.com/digital-experience/4-reasons-why-explainable-ai-is-the-future-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/4-reasons-why-explainable-ai-is-the-future-of-ai/amp/"
+  - title: "Assessing the intersection of open source and AI"
+    excerpt: "The idea that open source tools, libraries, and communities are creating AI projects in the usual fast-and-loose fashion sparks unease."
+    publishedDateTime: 2021-09-29T23:40:00Z
+    webUrl: "https://venturebeat.com/2021/09/29/assessing-the-intersection-of-open-source-and-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/09/29/assessing-the-intersection-of-open-source-and-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/assessing-the-intersection-of-open-source-and-ai/amp/"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 57
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://www.cmswire.com/-/media/a2e7d04f0627476d9d02a6ea0bc73c85.ashx?mw=1024"
-        width: 640
-        height: 480
+      - url: "https://venturebeat.com/wp-content/uploads/2021/09/artificial-intelligence-3706562-e1632761155672.jpg?fit=800%2C267&strip=all"
+        width: 536
+        height: 267
         isCached: true
-  - title: "Responsible artificial intelligence means responsible use"
-    excerpt: "This is akin to expecting a car to be responsible as opposed to its driver. Instead, it comes down to the responsible use of AI. There are four main reasons why organisations need to examine this issue."
-    publishedDateTime: 2021-09-29T15:40:00Z
-    webUrl: "https://mg.co.za/opinion/2021-09-29-responsible-artificial-intelligence-means-responsible-use/"
-    ampWebUrl: "https://mg.co.za/opinion/2021-09-29-responsible-artificial-intelligence-means-responsible-use/?amp"
-    cdnAmpWebUrl: "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/opinion/2021-09-29-responsible-artificial-intelligence-means-responsible-use/?amp"
+  - title: "OpenAI is working on an artificial intelligence model capable of summarising books"
+    excerpt: "OpenAI, the “capped” for-profit company founded by Elon Musk, is continuing to improve its GPT-3 language model and is developing a tool for summarising books or texts. It’s a development that could benefit businesses in particular."
+    publishedDateTime: 2021-09-28T23:10:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/09/29/openai-is-working-on-an-artificial-intelligence-model-capable-of-summarising-books"
     type: article
     provider:
-      name: mg.co.za
-      domain: mg.co.za
-    quality: 57
+      name: The Star
+      domain: thestar.com.my
+    quality: 48
     images:
-      - url: "https://media.mg.co.za/wp-media/2020/03/a44e475b-artificialintelligence.jpeg"
-        width: 696
-        height: 445
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/09/29/1311520.jpg"
+        width: 1240
+        height: 840
         isCached: true
-  - title: "Responsible AI: 8 Steps to auditable artificial intelligence"
-    excerpt: "With novel artificial intelligence (AI) applications multiplying like rabbits these days, it may seem like the current wave of AI innovation is all beer and skittles. Lawsuits have a way of sobering up any metaphorical party and,"
-    publishedDateTime: 2021-09-27T11:43:00Z
-    webUrl: "https://gadget.co.za/responsible-ai-8-steps-to-auditable-artificial-intelligence/"
+  - title: "Dubai Taxi and BluWave-ai Launch Innovative Partnership for AI-Enabled Taxi Fleet Electrification and Optimization"
+    excerpt: "One of the top fleets globally deploying Tesla EV's working with BluWave-ai EV Fleet Orchestrator Platform to drive innovation in the United Arab"
+    publishedDateTime: 2021-09-29T12:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/dubai-taxi-and-bluwave-ai-launch-innovative-partnership-for-ai-enabled-taxi-fleet-electrification-and-optimization-1030830890"
     type: article
     provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
     images:
-      - url: "https://i2.wp.com/gadget.co.za/wp-content/uploads/2019/04/Ai-Artificial-Intelligence-Droid-Robot-Android-2228610.jpg?resize=960%2C600&#038;ssl=1"
-        width: 960
-        height: 600
-        isCached: true
-  - title: "XAI: Explainable artificial intelligence"
-    excerpt: "Excella’s Claire Walsh and Henry Jai discuss the challenges in using artificial intelligence, and how AI is implemented."
-    publishedDateTime: 2021-09-27T10:38:00Z
-    webUrl: "https://federalnewsnetwork.com/federal-tech-talk/2021/09/xai-explainable-artificial-intelligence/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 54
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/09/Walsh_Jai_500x300.png"
-        width: 500
-        height: 300
-        isCached: true
-  - title: "Could these AI robots replace farmers and make agriculture more sustainable?"
-    excerpt: "Farming with AI-powered robots could be the next big thing in sustainable food production and the idea already has Bill Gates' support."
-    publishedDateTime: 2021-09-26T05:01:00Z
-    webUrl: "https://www.euronews.com/green/2021/09/26/could-these-ai-robots-replace-farmers-and-make-agriculture-more-sustainable"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 51
-    images:
-      - url: "https://static.euronews.com/articles/stories/06/09/68/14/1000x563_cmsv2_54af742a-f000-577f-bfb5-406b515acc05-6096814.jpg"
-        width: 1000
-        height: 563
+      - url: "https://mma.prnewswire.com/media/1638018/BluWave_ai_Dubai_Taxi_and_BluWave_ai_Launch_Innovative_Partnersh.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "The Divine and Felonious Nature of Artificial intelligence"
     excerpt: "Artificial intelligence (AI) has become commonplace in our everyday lives, and Deep Learning AI techniques have enabled computers to beat humans at complex games, drive cars, and even written books. In 1998,"
@@ -112,20 +82,6 @@ related:
         width: 1400
         height: 800
         isCached: true
-  - title: "Why AI Needs the Liberal Arts"
-    excerpt: "Colby College in Maine is investing $30 million to create the Davis Institute for Artificial Intelligence, the first cross-disciplinary institute for AI at a liberal arts institution. Among its goals: utilizing AI to transform teaching,"
-    publishedDateTime: 2021-09-28T21:19:00Z
-    webUrl: "https://campustechnology.com/Articles/2021/09/28/Podcast-Why-AI-Needs-the-Liberal-Arts.aspx?p=1"
-    type: article
-    provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 39
-    images:
-      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/Podcasts/2020/CTInsiderPodcast644x300.jpg"
-        width: 644
-        height: 300
-        isCached: true
   - title: "How artificial intelligence is changing the role of the business analyst"
     excerpt: "| \\ ˈdī-nə-ˌsȯr  \\  One who is, out-of-date, or obsolete   Strange how certain words conjure up thoughts of an ever-changing, progressive world that, like tide and time, wait for no man. And somewhere"
     publishedDateTime: 2021-09-28T18:47:00Z
@@ -140,29 +96,15 @@ related:
         width: 935
         height: 720
         isCached: true
-  - title: "The Future Is Already Here: Areas Where Artificial Intelligence Is Already in Use and This Is Just the Beginning"
-    excerpt: "In medicine, search, languages, automobiles, and, of course, advertising, artificial intelligence has driven innovation. Here's how we assess the impact of artificial intelligence on our daily lives."
-    publishedDateTime: 2021-09-29T06:50:00Z
-    webUrl: "https://www.analyticsinsight.net/the-future-is-already-here-areas-where-artificial-intelligence-is-already-in-use-and-this-is-just-the-beginning/"
+  - title: "S. 2551, Artificial Intelligence Training for the Acquisition Workforce Act"
+    excerpt: "Artificial Intelligence (AI) allows computer systems to perform tasks that require human intelligence. S. 2551 would require the Office of Management and Budget (OMB) to establish a training program to provide federal procurement officials with an introductory understanding of the operational benefits and privacy risks of AI."
+    publishedDateTime: 2021-09-28T20:05:00Z
+    webUrl: "https://www.cbo.gov/publication/57513"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 22
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Areas-Where-Artificial-Intelligence-Is-Already-in-Use-and-This-Is-Just-the-Beginning.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "The future of dental care"
-    excerpt: "The future of dental care. Jana Denzel explores artificial intelligence and the role it will play in the world of dentistry. Movies such as The Terminator and I, Robot hauntingly"
-    publishedDateTime: 2021-09-27T18:16:00Z
-    webUrl: "https://dentistry.co.uk/2021/09/27/the-future-of-dental-care-artificial-intelligence/"
-    type: article
-    provider:
-      name: Dentistry
-      domain: dentistry.co.uk
-    quality: 4
+      name: Congressional Budget Office
+      domain: cbo.gov
+    quality: 30
 
 secured: "SukvCMBRsJWiPmieEfW7Mb1E6eiPcy/nNY7pA7EcOLrgEoeyBqv18Q7EfUTavbjKD3CPzRfZJocFfJbysKxlIfCvrk0Y7khNtBY5F1HhWPt2FbRs4CIrgXFWL8NQKYlCaYWJzxhavCkaKYylPZi+wJsnXeunayWApIfLIKSousZigsltKC4qY3EGZJm9Vk4MDlIEG+zEDXiVRn5HsyDUwq4dg9PnpxT2dgTuf2EnF/rLaaglz6g6G5wNSi6PwPORYXF4HJHB/im25b4a4j35Co1ErO+6AZ1RyGM+reuRmhikSNGy+uPeGKd044mVhXzfjJ/2FcwttvS1Ued1cmJfyFcTKcFriylstVk/JkM3M/kk9/gv7xG1VOed7kViAGtOJjE53aLIKKad6ZO/h576OCNqvMfadzOmWlGg1921EVQiPBZ40FnrM3FdXhTqNyEY3TCQBUMchz2rvwEiM4vJT1+gMntYHfaSaK/r5xDCOOqzylu+eIeUqfY170B8nbf4QIceW+8w6fRIRmdubdHG3Q==;azNk0bJZTTei11A47dIxgQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/jio-pilots-ai-
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/jio-pilots-ai-chatbot-using-homegrown-5g-ran-and-sa-core/86584171"
 type: article
 quality: 57
-heat: 70
-published: true
+heat: 67
+published: false
 
 provider:
   name: India Times

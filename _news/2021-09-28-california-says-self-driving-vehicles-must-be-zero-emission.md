@@ -41,22 +41,6 @@ related:
         width: 1199
         height: 601
         isCached: true
-  - title: "California makes zero-emission self-driving vehicles mandatory by 2030"
-    excerpt: "California will require all light-duty self-driving vehicles to emit zero emissions starting in 2030. Governor Gavin Newsom signed into law a bill sponsored by environmental groups that would eventually prohibit gas and hybrid-powered autonomous vehicles from operating in the state."
-    publishedDateTime: 2021-09-25T05:50:00Z
-    webUrl: "https://inshorts.com/en/news/california-makes-zeroemission-selfdriving-vehicles-mandatory-by-2030-1632549035227"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/california-makes-zeroemission-selfdriving-vehicles-mandatory-by-2030-1632549035227"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/california-makes-zeroemission-selfdriving-vehicles-mandatory-by-2030-1632549035227"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 44
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/09_sep/25_sat/img_1632546759149_925.jpg?"
-        width: 1080
-        height: 1748
-        isCached: true
   - title: "California Says Self-Driving Vehicles Must be Zero Emission"
     excerpt: "California Gov. Gavin Newsom has signed legislation that mandates all light-duty autonomous vehicles in the state to produce zero emissions, reports Tech Crunch. The law would take effect in 2030. Click here to read more."
     publishedDateTime: 2021-09-28T20:28:00Z

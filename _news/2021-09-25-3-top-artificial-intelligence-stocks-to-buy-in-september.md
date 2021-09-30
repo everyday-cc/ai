@@ -34,6 +34,17 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Can AI Beat the Market? 10 Stocks to Watch"
+    excerpt: "Traditionally, powerful artificial intelligence systems – and the high-octane brain power needed to develop and operate them – that target stocks to watch have been available only to institutional investors."
+    publishedDateTime: 2021-09-29T17:33:00Z
+    webUrl: "https://www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch-2021-09-29"
+    ampWebUrl: "https://www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch-2021-09-29?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch-2021-09-29?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "The 3 Best AI Stocks To Buy for Massive Upside Potential"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) has been the focal point of science fiction for"
     publishedDateTime: 2021-09-28T15:28:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/competition-chips-ai-table-firs
 webUrl: "https://www.reuters.com/technology/competition-chips-ai-table-first-us-eu-trade-tech-meet-2021-09-27/"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "U.S., EU agree to work on chip supplies, tech rules, China trade"
-    excerpt: "The United States and European Union agreed on Wednesday to deepen transatlantic cooperation to strengthen semiconductor supply chains, curb China's non-market trade practices and take a more unified approach to regulating big,"
-    publishedDateTime: 2021-09-29T20:29:00Z
-    webUrl: "https://www.reuters.com/technology/us-eu-launch-consultations-tech-regulations-trade-china-2021-09-29/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/QBsO6Th9MsOu5oTWJVWzip48cR0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I7DURYCRLZOA5BEUHD36PYJAKA.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "US, EU to cooperate on chip supply, tech trade"
     excerpt: "The United States and the European Union agreed on Thursday to work together on a number of technology, economic, and trade issues at the first meeting of its Trade and Technology Council. The two"
     publishedDateTime: 2021-09-29T21:47:00Z
@@ -83,6 +69,34 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2021/09/29/1311368.jpg"
         width: 1240
         height: 827
+        isCached: true
+  - title: "US, EU agree to work on chip supplies, tech rules, China trade"
+    excerpt: "The United States and European Union agreed on Wednesday to deepen transatlantic cooperation to strengthen semiconductor supply chains, curb China's non-market trade practices and take a more unified approach to regulating big,"
+    publishedDateTime: 2021-09-29T23:54:00Z
+    webUrl: "https://www.channelnewsasia.com/business/us-eu-agree-work-chip-supplies-tech-rules-china-trade-2210611"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--TpYmSaCZ--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-09-29t232146z_1_lynxmpeh8s1dj_rtroptp_3_usa-trade-eu.jpg?itok=LPVWio3o"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "US, EU launch consultations on tech regulations, chips, China trade"
+    excerpt: "PITTSBURGH/WASHINGTON: US and European Union trade and competition officials launched a new forum on Wednesday joining forces to better compete with China, shield sensitive technologies, boost semiconductor supplies and coordinate regulation of large technology firms."
+    publishedDateTime: 2021-09-29T23:54:00Z
+    webUrl: "https://www.channelnewsasia.com/business/us-eu-launch-consultations-tech-regulations-chips-china-trade-2210611"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--TpYmSaCZ--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-09-29t232146z_1_lynxmpeh8s1dj_rtroptp_3_usa-trade-eu.jpg?itok=LPVWio3o"
+        width: 1200
+        height: 676
         isCached: true
 
 secured: "ts+CPl7YLsrT1a7xLIHHLVvyzT2hBJOULhTVt1sdFHgUefGTY6VU3XFfqMMT+C0Ozfz1j3euPBRMBisorEMkgl7FuuMWIay+amn27YEcAobmxw5bYOUIRuCjtcvH+QOVjmzEQjS5RVZQ3pUlu0WLruFpIlk3LORAFywJB3Azk0qV48EnV+ohnCLCWnXzYx0VvhduAD67Ozqvd+FpxloCSAY66YGo/lQXc0m8tX21MJQTT+NKNoAwfaPRZ77ZKmjudTOqqey1rfisqz9mc2nStecfxb6iIedd1+GLyN+AGUaF21/zNtQizVHVg24iwDlUjBOxBDCGoKuPi3JQdOmtqO2ZiqETmV58hj/Y51Q4Awhy/A/zyudurC7o+Qwd1Z9FzWwyLDZEe/DsGe2/h2aTKY8ye71NMnw+x8YT5VFbGmpp2AguH4N1GWMttRSjz4jxcj+rrrXkCzy6D5SmxZGP69VxUpS46A0DS0MKE9Eckq4pVtA/+BiqhN9AYYNAkc1mqbPthR8zRf3wTQgGaEbXOg==;omLQl/isq69a+6JjzZ95bw=="

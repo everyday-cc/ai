@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/388408"
 webUrl: "https://www.entrepreneur.com/article/388408"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     isCached: true
 
 related:
+  - title: "Can AI Beat the Market? 10 Stocks to Watch"
+    excerpt: "Traditionally, powerful artificial intelligence systems – and the high-octane brain power needed to develop and operate them – that target stocks to watch have been available only to institutional investors."
+    publishedDateTime: 2021-09-29T17:33:00Z
+    webUrl: "https://www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch-2021-09-29"
+    ampWebUrl: "https://www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch-2021-09-29?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch-2021-09-29?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "3 Top Artificial Intelligence Stocks to Buy in September"
     excerpt: "A rtificial intelligence has become an integral part of many technology applications and software, from what online ads shoppers see to how spam gets filtered out of our email inboxes. But some companies aren't just implementing AI into their services;"
     publishedDateTime: 2021-09-25T11:45:00Z

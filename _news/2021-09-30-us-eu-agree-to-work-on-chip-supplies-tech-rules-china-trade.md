@@ -1,31 +1,27 @@
 ---
 category: news
-title: "U.S., EU agree to work on chip supplies, tech rules, China trade"
+title: "US, EU agree to work on chip supplies, tech rules, China trade"
 excerpt: "The United States and European Union agreed on Wednesday to deepen transatlantic cooperation to strengthen semiconductor supply chains, curb China's non-market trade practices and take a more unified approach to regulating big,"
-publishedDateTime: 2021-09-29T20:29:00Z
-originalUrl: "https://www.reuters.com/technology/us-eu-launch-consultations-tech-regulations-trade-china-2021-09-29/"
-webUrl: "https://www.reuters.com/technology/us-eu-launch-consultations-tech-regulations-trade-china-2021-09-29/"
+publishedDateTime: 2021-09-29T23:54:00Z
+originalUrl: "https://www.channelnewsasia.com/business/us-eu-agree-work-chip-supplies-tech-rules-china-trade-2210611"
+webUrl: "https://www.channelnewsasia.com/business/us-eu-agree-work-chip-supplies-tech-rules-china-trade-2210611"
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/QBsO6Th9MsOu5oTWJVWzip48cR0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I7DURYCRLZOA5BEUHD36PYJAKA.jpg"
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--TpYmSaCZ--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-09-29t232146z_1_lynxmpeh8s1dj_rtroptp_3_usa-trade-eu.jpg?itok=LPVWio3o"
     width: 1200
-    height: 628
+    height: 676
     isCached: true
 
 related:
@@ -84,7 +80,21 @@ related:
         width: 1240
         height: 827
         isCached: true
+  - title: "US, EU launch consultations on tech regulations, chips, China trade"
+    excerpt: "PITTSBURGH/WASHINGTON: US and European Union trade and competition officials launched a new forum on Wednesday joining forces to better compete with China, shield sensitive technologies, boost semiconductor supplies and coordinate regulation of large technology firms."
+    publishedDateTime: 2021-09-29T23:54:00Z
+    webUrl: "https://www.channelnewsasia.com/business/us-eu-launch-consultations-tech-regulations-chips-china-trade-2210611"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--TpYmSaCZ--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-09-29t232146z_1_lynxmpeh8s1dj_rtroptp_3_usa-trade-eu.jpg?itok=LPVWio3o"
+        width: 1200
+        height: 676
+        isCached: true
 
-secured: "VdY1dRNQH6CU1eWbOGIITbo5HnCQ656DgLe9+mFR1thhV0bGMpBdS8C75dW409pB0HtvpNTFZw4G//YaZ8KR/Mai+08E8SExIKKlLR6Dkd00r/S8W/NBud+rMPc8WSn+VWlCNc5MWpGCg4AtnntlNqpBiWtpkRQgnL8Vo3sBTxWng0EFxdoNKc0r+N/DYxZKS8Bv6fNUXHPykH9+L3/ht4fVLz6A8bIMIrRDJ1BmkJPUuF4W/DHTdRm2SaVDSKBBbpnt7NtJSVwzdR3fpjkFyeiDpv0awRQ5iqilqOMR8o9+A7GKBE9Tivr2Jg72jxpsD/FD1kRtgNxV1sEr7BDCMCYWaEjifZGqXKevigaUb0Q=;GcVtsEKaqYVJTAXYieYQ/Q=="
+secured: "epSRHpkyCArRzQSYieILoV7J54qlD3h9RVQLzVG2aR4xgfBRyIkO+7fik1zac1nDCrjIlWQtPaV4TgTxttEYacMvPD4rPJIunkgAoAu5Cmd/7UbPTjLxeKuW9TPSb2fV3pt7l2lqxWTA/nhVyDFNKjCjaobQhWyodg8oYRBun16m8viJYyhEiDzTDxbVuxK9d7LwLML3elN8J9YEKBjUhelIurl0176sDLcr1pjDQ28XzyjalzcI3jkvZ/faURp1wwD3LUvxHG72pj2nOTE2RBvenaqU2EnoB2rHP1cxNx95hNJnP/srYUYTSMEVxF18VrJBeX+XKuh0PYUgpe8PZ3oJ9f26BXtFHq/VnTUj+ho=;5o9uQ7VDfgTUMQi4TnYuQA=="
 ---
 

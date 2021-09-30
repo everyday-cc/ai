@@ -41,22 +41,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Confusion reigns over special pandemic recognition bonus"
-    excerpt: "A special recognition bonus is on the cards for those who shouldered the greatest burden during the pandemic. Politicians have been effusive in praising healthcare workers and others for their service but unions want those words translated into."
-    publishedDateTime: 2021-09-25T06:00:00Z
-    webUrl: "https://www.rte.ie/news/2021/0926/1248883-pandemic-dividend/"
-    ampWebUrl: "https://amp.rte.ie/amp/1248883/ "
-    cdnAmpWebUrl: "https://amp-rte-ie.cdn.ampproject.org/c/s/amp.rte.ie/amp/1248883/ "
-    type: article
-    provider:
-      name: RTE Online
-      domain: www.rte.ie
-    quality: 44
-    images:
-      - url: "https://img.rasset.ie/0015baca-642.jpg"
-        width: 642
-        height: 361
-        isCached: true
   - title: "Keystroke tracking, screenshots, and facial recognition: The boss may be watching long after the pandemic ends"
     excerpt: "Companies are increasingly turning to surveillance software tools as they consider permanent remote work policies. Some workers say remote-work surveillance has gone too far, calling the tracking systems intrusive,"
     publishedDateTime: 2021-09-28T13:02:00Z

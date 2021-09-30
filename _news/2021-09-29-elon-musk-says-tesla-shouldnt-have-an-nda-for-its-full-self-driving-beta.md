@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nd
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/amp/"
 type: article
 quality: 88
-heat: 398
+heat: 388
 published: true
 
 provider:
@@ -254,20 +254,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/2a/a2a79db2-f230-5ec1-8847-4b7462a145ce/6153906b928f3.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Samsung could be making next-gen self-driving chips for Tesla"
-    excerpt: "Samsung and Tesla are in talks to make the next-generation chips for Tesla's upcoming Hardware 4. Which is to come with Cybertruck in a year."
-    publishedDateTime: 2021-09-25T05:15:00Z
-    webUrl: "https://techstory.in/samsung-could-make-next-gen-self-driving-chips-for-tesla/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 56
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/09/Tesla-Chip.jpg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Tesla to outsource its self-driving chip to Samsung"
     excerpt: "It is reported that Tesla has decided to outsource its self-driving chip manufacturing to Samsung Electronics. According to the industry on the 24th, Samsung Electronics is reportedly likely to win orders for manufacturing of the HW 4."

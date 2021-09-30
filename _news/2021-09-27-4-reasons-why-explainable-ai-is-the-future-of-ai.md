@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/digital-experience/4-reasons-why-explainable
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/4-reasons-why-explainable-ai-is-the-future-of-ai/amp/"
 type: article
 quality: 57
-heat: 157
+heat: 127
 published: true
 
 provider:
@@ -84,20 +84,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "The Divine and Felonious Nature of Artificial intelligence"
-    excerpt: "Artificial intelligence (AI) has become commonplace in our everyday lives, and Deep Learning AI techniques have enabled computers to beat humans at complex games, drive cars, and even written books. In 1998,"
-    publishedDateTime: 2021-09-27T19:58:00Z
-    webUrl: "https://www.linkedin.com/pulse/divine-felonious-nature-artificial-intelligence-john-willis"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 41
-    images:
-      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
-        width: 1400
-        height: 800
-        isCached: true
   - title: "Why AI Needs the Liberal Arts"
     excerpt: "Colby College in Maine is investing $30 million to create the Davis Institute for Artificial Intelligence, the first cross-disciplinary institute for AI at a liberal arts institution. Among its goals: utilizing AI to transform teaching,"
     publishedDateTime: 2021-09-28T21:19:00Z
@@ -111,34 +97,6 @@ related:
       - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/Podcasts/2020/CTInsiderPodcast644x300.jpg"
         width: 644
         height: 300
-        isCached: true
-  - title: "Imagining the future of artificial intelligence and its potential impact"
-    excerpt: "ABC News' Linsey Davis speaks with former president of Google China, and bestselling author Kai-Fu Lee on his new book, \"AI 2041: Ten Visions for Our Future.\""
-    publishedDateTime: 2021-09-28T01:42:00Z
-    webUrl: "https://abcnews.go.com/US/video/imagining-future-artificial-intelligence-potential-impact-80270401"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 36
-    images:
-      - url: "https://s.abcnews.com/images/US/210927_abcnl_prime_lee_hpMain_16x9_608.jpg"
-        width: 608
-        height: 342
-        isCached: true
-  - title: "How artificial intelligence is changing the role of the business analyst"
-    excerpt: "| \\ ˈdī-nə-ˌsȯr  \\  One who is, out-of-date, or obsolete   Strange how certain words conjure up thoughts of an ever-changing, progressive world that, like tide and time, wait for no man. And somewhere"
-    publishedDateTime: 2021-09-28T18:47:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-changing-role-business-analyst-datta"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 36
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGvgj1s1Js4GA/article-cover_image-shrink_720_1280/0/1632854039147?e=1638403200&v=beta&t=Ot4MMfLHafXYiAQuzTh3_CIr4yDkaE1CFodgceUeWQI"
-        width: 935
-        height: 720
         isCached: true
   - title: "The Future Is Already Here: Areas Where Artificial Intelligence Is Already in Use and This Is Just the Beginning"
     excerpt: "In medicine, search, languages, automobiles, and, of course, advertising, artificial intelligence has driven innovation. Here's how we assess the impact of artificial intelligence on our daily lives."

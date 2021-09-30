@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/09/28/1036279/pandemic-unemplo
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/09/28/1036279/pandemic-unemployment-government-face-recognition/amp/"
 type: article
 quality: 59
-heat: 91
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Confusion reigns over special pandemic recognition bonus"
-    excerpt: "A special recognition bonus is on the cards for those who shouldered the greatest burden during the pandemic. Politicians have been effusive in praising healthcare workers and others for their service but unions want those words translated into."
-    publishedDateTime: 2021-09-25T06:00:00Z
-    webUrl: "https://www.rte.ie/news/2021/0926/1248883-pandemic-dividend/"
-    ampWebUrl: "https://amp.rte.ie/amp/1248883/ "
-    cdnAmpWebUrl: "https://amp-rte-ie.cdn.ampproject.org/c/s/amp.rte.ie/amp/1248883/ "
-    type: article
-    provider:
-      name: RTE Online
-      domain: www.rte.ie
-    quality: 44
-    images:
-      - url: "https://img.rasset.ie/0015baca-642.jpg"
-        width: 642
-        height: 361
-        isCached: true
   - title: "Coming to grips with facial recognition scans part of home isolation experience"
     excerpt: "Using a location checking app and doing a facial recognition scan were part of a South Australian's daily duties during a home isolation trial."
     publishedDateTime: 2021-09-28T09:08:00Z
