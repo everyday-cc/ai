@@ -7,8 +7,8 @@ originalUrl: "https://analyticsindiamag.com/aws-releases-new-container-monitorin
 webUrl: "https://analyticsindiamag.com/aws-releases-new-container-monitoring-service/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Analytics India Magazine
@@ -25,24 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "AWS adds new features to Amazon Connect"
-    excerpt: "Amazon Web Services (AWS) has announced three new capabilities for its omnichannel cloud contact center Amazon Connect. Powered by artificial intelligence (AI) and machine learning (ML), Amazon Connect simplifies automated interactions,"
-    publishedDateTime: 2021-09-27T12:58:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361022/aws-adds-new-features-to-amazon-connect"
+  - title: "Amazon (AMZN) Bolsters AWS Portfolio With New Managed Service"
+    excerpt: "Amazon’s AMZN cloud division, Amazon Web Services (“AWS”), has made its Amazon Managed Service for Prometheus, which is fully compatible with open-source Prometheus, generally available. Notably, the underlined service is a fully managed scalable and secured monitoring service,"
+    publishedDateTime: 2021-09-30T17:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/388659"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 49
-  - title: "AWS adds new updates to Amazon Connect"
-    excerpt: "Amazon Web Services updates new capabilities for Amazon Connect to improve contact centre agent productivity and provide more effective, personal, and natural customer interactions. AWS shares that the new features are designed to give agents the right information at the right time to answer"
-    publishedDateTime: 2021-09-27T22:48:00Z
-    webUrl: "https://itwire.com/business-it/aws-adds-new-updates-to-amazon-connect.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 19
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-388659.jpeg"
+        width: 635
+        height: 400
+        isCached: true
 
 secured: "G3xOEjr3KfmPbwlyNkkl7orhdC6jubwenFoya1gpCUyWtneRFAalfQI3EjpfDrXipL4SsFEelxhpog6o32wgus6jDVDu5yHsN17P4+88beoR7nyr7PlQyUxVLBW9MvuIZB2IpOGNXfdZfKH5VUQwol3eKgJ7IJGUn/eKCU4qyH9MfXKFqJJ24FAWJxLwKvueHJlp9IfrVHGh/fwqzdriEjg/7g/dGsEa1w7RHYa103qChL5tnus/CsIvHg3vjGsKAm1rxbe3BRi3oWRr12qXTqQPIN+oM3nRduAc4xPBGlfaYa8d39Z+XJ52qEPY/IGKZzKRhv0J7ZCWh2AJjCX/5HigvtRQis4ItajGrFYf9z7rEh5O90r0fPSiH4SYif7Ss3ZnUbiF0+A1nUp2Hj9MXxUA2pai5O/jPFYyqzJJHjZvF02WBYLafdjkAJ+ySr6NqOhRoCarUx1A1ksOlK+0yOO5KZt0AR+i1HriSXmjXG9ZWuEEhukAP9X5nZl6/TQaKE1sIvE6B7K3IELeOvyjyg==;nbZw/rosO6kgm6V+e8t14g=="
 ---

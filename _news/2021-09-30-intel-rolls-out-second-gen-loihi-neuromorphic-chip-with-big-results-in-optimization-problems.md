@@ -91,7 +91,23 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "Intel's Loihi 2 Processor Gets Even Faster At Computing AI Workloads Like A Human Brain"
+    excerpt: "Loihi 2 improves upon the first-gen neuromorphic chip in every way, and will be the first commercial chip to be fabbed on Intel 4."
+    publishedDateTime: 2021-09-30T16:24:00Z
+    webUrl: "https://hothardware.com/news/intel-launches-loihi-2-its-second-generation-neuromorphic-processor"
+    ampWebUrl: "https://amp.hothardware.com/news/intel-launches-loihi-2-its-second-generation-neuromorphic-processor"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-launches-loihi-2-its-second-generation-neuromorphic-processor"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 51
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/56368/content/intel-loihi2-fingertip-hero.png"
+        width: 708
+        height: 502
+        isCached: true
 
-secured: "vg+c1+QNA/UmyB7rPwVnWqRU2P/CK0VjDXQcZcCTVqLOtHQCc1aqcVOij1L0CzdY05EcgIllAuxxQ6tETfjAmh2ari7a9viiUiaH9Ad7sYTKs/oBoWZbdDqa69xVYrjl8H/dEy1f8h6Foqi0WG7cGEbzPS7LKNsQlDBf4oYd6M06/QvtjnQLhsdY5ahcWPma2HnjUb+6LX3uledggziGwl0/dKNJdzVK0idCBLw98NrLleIlsuNtD9+zvQrGRUMYIecg92fwZCSat++lhSvLIXCRrbN9QZOedhl9UACWnhA/SXNmEJ73ANPtFV//tU+q9zii/eS/ALeOR6r3JL2odOgY+Psf9zHVGMgFTdoUMbs=;mZhNyc0abPDp1Qh8xCJEYw=="
+secured: "f6d+HatObvt/Se2UTvoNciomahZIjLzYsxMa5vC9El1MGVwljD5GiFjC3egARVlZc6oXe25tbFqgKe+5dVfymgOYvIvczySINfgVaESKgpJHI6ArOz8+3OTIMwF2CH614Asv435cZszNdazkJ1+u21b1ZNI5/QdZ15kXyMsCYqi4ojPjrmq5T+VYXlKIYgLnnNsloVzm9sbIPOJ7F1f5/OhW6u+yjjgY5jTLJ4109RgmTznKQ7H4l4OvnCbeNexEdXE6WoMHcFiAEpg/aea3lDxkFnklRutZlTYFvAe7OclBHAReyXF7TLpLQHezrkK43qC4YKQyobVzpw5fwqeuuZby18nX7LgR9GPtxdCOPlO8jbo/jmYvWAckqTCXXy1OvmHJSphBam66HR75qWVBa++SEScSPFMTjtNbEtQSPrlvOvLyCBo9agc8MiT35cTAl0o9CWeT6tJSRzfCyX8EzFf1vazKLwsfCEyQqVyVe7/rEOFBMYch+pSCe/UWQW7x5UZl65vWjG/v7WZhEnnlkw==;bQXyM3uXDMO+xgSgnPGTFg=="
 ---
 

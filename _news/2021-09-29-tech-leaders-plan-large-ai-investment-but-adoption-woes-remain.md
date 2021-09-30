@@ -75,20 +75,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Venture capital investments in artificial intelligence"
-    excerpt: "New analysis of global investments by venture capitalists (VC) in private companies focused on artificial intelligence (AI) found VC investments in AI to be growing at a dramatic pace. The United States and the People’s Republic of China are"
-    publishedDateTime: 2021-09-30T05:41:00Z
-    webUrl: "https://www.oecd.org/publications/venture-capital-investments-in-artificial-intelligence-f97beae7-en.htm"
-    type: article
-    provider:
-      name: OECD
-      domain: oecd.org
-    quality: 37
-    images:
-      - url: "https://assets.oecdcode.org/covers/1000~social/g27270fa.jpg"
-        width: 1000
-        height: 500
-        isCached: true
 
 secured: "fRnJ4UFB3AXYwt9l8DSvUIDfxH7b6znfLa1wNo6ZUTvljz7lz9JbHieqmrY7qh5+AAwTyl6sd309whOFfmTSvXyYoyYA5k94ze2f9lhtmdwnGeyrWj/IYuMVfl7MhYYbNxqrVOZTsJkS6bPYuO2fFbjqiS85zN+sXXeVtQQytRAHnyjp2ArK8Y1aP0S+k5xedg1JE7znTbPU6Rkxo1bVD0DwkNqSfryX8jwVRQ+jtJjT6CTssGM6Lxy0uTWgghfaCOhLN+TlDNrydH//+ZE9gmmsVwfcHXb1eFoODhdyvJlWUjwbJDbYhcvUmDaeHF1oJzGnRzxhaETAHngoUrglabTzQJrZ4+Jb8jD5tYr9TWI=;pO3mfh/SJ0qEpZquAli5ig=="
 ---

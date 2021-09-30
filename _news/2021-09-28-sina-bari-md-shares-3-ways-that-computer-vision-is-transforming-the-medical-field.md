@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Sina Bari MD Shares 3 Ways that Computer Vision is Transforming the Medical Field"
-excerpt: "The medical field is constantly evolving in our day and age, as is technology. We are all familiar with the types of technology, computers, cellphone"
-publishedDateTime: 2021-09-28T12:42:00Z
-originalUrl: "https://menafn.com/1102877240/Sina-Bari-MD-Shares-3-Ways-that-Computer-Vision-is-Transforming-the-Medical-Field"
-webUrl: "https://menafn.com/1102877240/Sina-Bari-MD-Shares-3-Ways-that-Computer-Vision-is-Transforming-the-Medical-Field"
+excerpt: "The medical field is constantly evolving in our day and age, as is technology. We are all familiar with the types of technology, computers, cellphones and software that’s out there. But when it comes to the specifics and details of technology or a form of artificial intelligence,"
+publishedDateTime: 2021-09-28T14:00:00Z
+originalUrl: "https://ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/"
+webUrl: "https://ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/"
+ampWebUrl: "https://ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/?amp=1"
+cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/?amp=1"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Inter Press Service
+  domain: ipsnews.net
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?382080"
-    width: 416
-    height: 250
+  - url: "https://submission.icrowdmarketing.com/assets/source/users/2087/Sina%20Bari%20MD%20Shares%20How%20Computer%20Vision%20is%20Transforming%20the%20Medical%20Field.jpg?1632508900522"
+    width: 1600
+    height: 1067
     isCached: true
 
-secured: "2DdNRs/6OCzwLnM11rrvaZK3FF32zgJl0gqoXJUZ6LeLxFFz3aw9lj3mDmKDSEyVi/eT5Uo5sAkGeLvrzeRHh2lIkfEDprTBvp5GtaibHw+8Y9shd/a8yUFg31uHJPA8BmmLyvprLgIAxFbHJpCIM5GVqT7chb/a+Waj2TWchHoKNbROmzdCWO5ipvURpyZZDSLWwNB4PLfBjF8Y+yd3sKfTsliw9PqkICS55SSl/3Ljw7r93FpRf6Ks+/l1k9fGDoQYjBINAZQZBxHD06uJ4AQKps/G4gVsCTEyg8ySO8EYN8SVh24rlstGQ1THBFYPzpAlx2gw8Q4LjMDzPlQvRByU0Fh0R0ckrhH/o2tllU8=;5NiRJQ1QMwZF5TlMxgr4Zg=="
+secured: "b24bEtLyUxyix7wnWVWI8E3KfYWxGxMrX5ocFbWfvyE2UeMN6rJ2sZ7XZ7JqdYQHm8SD2X/1LhROLaEYEyHXiYVBqOyVPZzQktJIfsX2ohYBI1/eVqK/C0OpgZhbZD0rU+yXvB237+yMWG3mejj735jfpT66wgvLAhBhbR+bV6McfxVHc1nGAq2zczuX0t+nIXPUQBJhEYWVCn11hDJexOzyE5MVC1rX+Yh17dfPJbkFII6YPOOWfbEkddVUKHhLWz/ycbVfImKrbMXELV2RopUaxlB6vee3XHxRUg2W0NM9Qz4CS8HNF3kVHi3DddKzL0c8xYiw2Bms+0xrkrJDfFOTKL9EUyxGZItKBGba2/g=;7d4sZ76dkJFi4Yzm4CZIKA=="
 ---
 

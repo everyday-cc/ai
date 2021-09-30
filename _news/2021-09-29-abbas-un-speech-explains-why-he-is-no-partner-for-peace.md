@@ -24,6 +24,22 @@ images:
     height: 1080
     isCached: true
 
+related:
+  - title: "Mahmoud Abbas UN Speech is All Bark and No Bite"
+    excerpt: "Peace be upon you.” Palestinian President Mahmoud Abbas uttered these hospitable words to conclude a hostile speech against his usual suspect, namely Israel, in a pre-recorded speech to the United Nations General Assembly."
+    publishedDateTime: 2021-09-30T17:45:00Z
+    webUrl: "https://www.sdjewishworld.com/2021/09/30/mahmoud-abbas-un-speech-is-all-bark-and-no-bite/"
+    type: article
+    provider:
+      name: sdjewishworld.com
+      domain: sdjewishworld.com
+    quality: 24
+    images:
+      - url: "https://www.sdjewishworld.com/wp-content/uploads/2021/05/seacrest-village-may-17-2021.jpg"
+        width: 625
+        height: 521
+        isCached: true
+
 secured: "X8vLlwTbLYt16VZVZz3YaSvK/gKMfUyHHfWkR+y2dtj9O581yTGLfewiJfrOPvXenj1yzD0DiYVVJ4yKMYIUV/VRrlTjBe8i6aZJOcbd4IoMmJF8BhG9Zdle9WwoEvFGuX4cevxmAy2xr3ErBoQ/R6XzHCQ7Ut0a9fDUQBCOzW4VXDcTok/1d7Sadl3Gaz8JgVE4n1hARfdHOumxzpQo4fzZp1CuQoTijA9ezNLj0O5/aTK0YThd6rMRoNJDELlDPLie8zGe6Ue6xi0FlcvcVusf4mLnm/59oB1D5qWBmrue9aboxk8xLf0SgITzvKgxVP9iQ/u4pOmL7IDSGfMHX6yMxks48RiOI4J5Vfy4jFc=;GJmVVty8bvRQjDVeXmHidw=="
 ---
 

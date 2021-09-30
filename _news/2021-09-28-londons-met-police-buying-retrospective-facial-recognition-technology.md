@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-police-buying-retrospective-facial-recognition-technology/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://images.7news.com.au/publication/C-4080682/0f134acc7c5a8ba7bcc54b94b6534f2008dd7154-16x9-x0y0w1600h900.jpg?imwidth=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Secretive facial recognition trial at Wellington Airport went against Privacy Commissioner's advice"
+    excerpt: "Aviation Security went ahead with the trial of a new facial-recognition scanning tool at Wellington Airport, despite serious concerns from the Privacy Commissioner. The secretive months-long trial, which is still ongoing,"
+    publishedDateTime: 2021-09-30T16:00:00Z
+    webUrl: "https://www.stuff.co.nz/national/politics/300420063/secretive-facial-recognition-trial-at-wellington-airport-went-against-privacy-commissioners-advice"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 40
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/v/1/m/y/image.related.StuffLandscapeSixteenByNine.1420x800.4yv1lr.png/1633012249632.jpg"
+        width: 1420
+        height: 798
         isCached: true
   - title: "London is buying heaps of facial recognition tech"
     excerpt: "The Metropolitan Police is buying a new facial recognition system that will supercharge its surveillance technology capabilities"

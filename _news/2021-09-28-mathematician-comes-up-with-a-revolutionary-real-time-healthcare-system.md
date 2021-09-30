@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/23126167"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23126167"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 460
     height: 480
     isCached: true
+
+related:
+  - title: "Cardinal Health's (CAH) Unit to Aid Canadian Healthcare System"
+    excerpt: "Cardinal Health's (CAH) subsidiary to support the Canadian Healthcare system against COVID-19 with vaccination policy."
+    publishedDateTime: 2021-09-30T16:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/388628"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 84
+    images:
+      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-388628.jpeg"
+        width: 635
+        height: 400
+        isCached: true
 
 secured: "EYrxRMuaL/GDY5n+uZ2R1svfgfsszzalUz76hHlvD8RKuEAoDl0QWkDB6v21Y7okIijh9QuVvBxkJpAHGsCKlW/i6suHOSBAmI5gzmX9pSPLGYtfxVvJf/wDHYdH4Q/bHbGeo1xM7NCCN99C5v961NLVDBnVkL6fYYB+UeeeSlTvwPV+cCKNflA5khMNIFF+dwr36lMQdRZCHuapRj2uOdvdw7qFOzshN0qG6p3/UI7kc6UIKxrHDV0KSENC2iTalAQR6OaE5u7eeyRkiYRmaDCuieYUQOcr3h5JkEajQiUbkFIFsMKRsk4nXhskTP/pomER40Wu2dChOSG6InlhhCGDa38MCmiokS87UQWaBIDgSG0Ie6XJq9IS3Fwlr5+5mhQPaoAdPuTO0jTyq+Dztu1iqhnjMMJ76uptfPAfsACNRc8F8ETiTKFq9JaSzxcw17WqXkEScmrBeOC3hUt0BDk8sPPPcHKDjjjcrElthh3+YIvMAZ4tzztE6e38hfjhFOb7tP91Rpqgp0d96hDNSQ==;P5gKAhOW4F55rejQuVrpRA=="
 ---

@@ -87,6 +87,22 @@ related:
         width: 600
         height: 404
         isCached: true
+  - title: "Intel's Loihi 2 Processor Gets Even Faster At Computing AI Workloads Like A Human Brain"
+    excerpt: "Loihi 2 improves upon the first-gen neuromorphic chip in every way, and will be the first commercial chip to be fabbed on Intel 4."
+    publishedDateTime: 2021-09-30T16:24:00Z
+    webUrl: "https://hothardware.com/news/intel-launches-loihi-2-its-second-generation-neuromorphic-processor"
+    ampWebUrl: "https://amp.hothardware.com/news/intel-launches-loihi-2-its-second-generation-neuromorphic-processor"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-launches-loihi-2-its-second-generation-neuromorphic-processor"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 51
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/56368/content/intel-loihi2-fingertip-hero.png"
+        width: 708
+        height: 502
+        isCached: true
 
 secured: "Tj2V1+70UZt1d3ZtTJxQmPYTgOSyAqEzdnQR/EFJo/A33ZOhw7GVDwWQQIGudf/hS/o6zk9zR8XY1bloK/bkZaIP2jXMN4WG6lVd1cQxx6W/2sKpIOJyQKfGF7YcIhtpRbixuO2yednMJWtenQxZCvbfe3Kyu5o15JcGhPZJG8N3tNMBO3QOfLhGdLxQ1nRJXRIo0Rd11+kVDEo2o1QAH025SDgszhiCrriqacKUftDsAuqlYDWLSV4WoFCmaDdn9u6MugXo9xv791jagppAimZ8/4MdlyqtDfMwP4/ly8co7Mf0s3eYA0VqoA0Z+rz32vYuEhB4bt72lVx/2txKd5LsIU3qhDb2JRyf07G228+S9eVJhiBDMbAgSccEqnNNaUQrr9QZGCDzXe1T7ywrzOieO1WxvdaGccOiCKX+RmJ0Q4VmI4SblWQSk+cMwl6KArH3GJAO56xUw3kAlzfR4UzuN3DuNl8QU02f2uUYPhvLeC4vnZ+CokTW8HsI5ZQNH0MDPHzgrcYm4LOLlSLdVw==;solkjM7criQoJlOkj3ypBQ=="
 ---

@@ -247,22 +247,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Tesla’s ‘full self-driving’ could be days away. Here’s what you need to know."
-    excerpt: "CNN Business A wider group of Tesla owners who paid up to $10,000 for what the company calls its “full self-driving” software can now ask the automaker for access"
-    publishedDateTime: 2021-09-28T23:34:00Z
-    webUrl: "https://www.mercurynews.com/2021/09/28/teslas-full-self-driving-could-be-days-away-heres-what-you-need-to-know"
-    ampWebUrl: "https://www.mercurynews.com/2021/09/28/teslas-full-self-driving-could-be-days-away-heres-what-you-need-to-know/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/09/28/teslas-full-self-driving-could-be-days-away-heres-what-you-need-to-know/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 56
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/09/hypatia-h_3fd6c0a39d248694629ed28905a0d199-h_f41e2080efdf75352cea7bf453ee7dcc.jpg?w=1024&#038;h=682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Tesla's 'Full Self Driving' request button goes live"
     excerpt: "Electric vehicle Tesla users who wish to take part in the company's Full Self-Driving (FSD) Beta programme could no"
     publishedDateTime: 2021-09-26T07:42:00Z
@@ -376,6 +360,20 @@ related:
         width: 2560
         height: 1441
         isCached: true
+  - title: "Tesla's 'full self-driving' could be days away. Here's what you need to know."
+    excerpt: "Tesla claimed in 2016 that all of its new vehicles had the hardware capability for \"full self-driving\" and that it would soon offer the complementary software to make the cars drive themselves. Musk has said that he thinks people will be able to fall asleep in Teslas as they drive."
+    publishedDateTime: 2021-09-29T05:50:00Z
+    webUrl: "https://www.kten.com/story/44839823/teslas-full-self-driving-could-be-days-away-heres-what-you-need-to-know"
+    type: article
+    provider:
+      name: KTEN
+      domain: kten.com
+    quality: 36
+    images:
+      - url: "https://CNNWIRE.images.worldnow.com/images/21451695_G.jpg?lastEditedDate=1632832225000"
+        width: 500
+        height: 333
+        isCached: true
   - title: "Tesla owners: You can now request the Full Self-Driving beta test but you better be a good driver"
     excerpt: "With Tesla’s Full Self-Driving feature continuing to receive updates, it was announced recently that the company would begin rolling out requests for the FSD beta. According to The Washington Post, this means that drivers can now upgrade their cars to the FSD versions by requesting the feature."
     publishedDateTime: 2021-09-27T13:14:00Z
@@ -408,22 +406,6 @@ related:
       name: MobileSyrup
       domain: mobilesyrup.com
     quality: 19
-  - title: "Tesla owners can now choose 'full self-driving' software at the press of a button for the first time: Thousands could soon hit the road with the unregulated features"
-    excerpt: "Tesla has rolled out software update that allows customers to request access to its controversial, Full Self-Driving program despite ongoing investigations into a series of U.S. crashes."
-    publishedDateTime: 2021-09-26T01:02:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-10028917/Tesla-owners-choose-self-driving-software-meaning-thousands-soon-hit-road.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-10028917/amp/Tesla-owners-choose-self-driving-software-meaning-thousands-soon-hit-road.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10028917/amp/Tesla-owners-choose-self-driving-software-meaning-thousands-soon-hit-road.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 12
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/09/26/01/48394343-0-image-a-8_1632616775975.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "/Kklt0aTnUpJz5yBg7DSIBOMDlM5mSx8ffv+QgJ7k0v0Wg+eTR3LpEDF8KbagEI3+OBaSPOPP4882E9XCKlor9N6npsPliErWHPe9sa8V3pKL6FU4NrExbz82KaeYTosgBIeQs94AuzmqCopcs896wU1MgmEmia4w4cPfC6Lk27Ci81aK/so4wdhhO/TuRg1DBcYjiw2pGr9PVTsHZQTJUgYBGtQ+ILRPisp2Wyahr4hvi6lpEcYuxdWhMWgaRhdzLihLCv9/OM4j1K21gP2MMeA3fmqbjFw01ml9a4TUFIU78ZQbd3vbRuan7pcpqF3LvbALPatncazg6y0sTxswXwxoNLFEm5Mv9A3JE1bkjv6npaSkMWsjSjNkxUtG7legEpzLX7edzGkipXd9aPNaRkBth6ZOXTT7Xr6Xzf3++uvOYhSkVyiFItMMniIIlF9oNFQ+YVs9qAoRATiUH05ldVCk29roaOfotzD6oh/LjXENLPvI2/MTf33yg1ol7cd5XoGAQ/1VMF1b8NRibpXhg==;yjaoDRO/tUaiTdDG6fd09Q=="
 ---

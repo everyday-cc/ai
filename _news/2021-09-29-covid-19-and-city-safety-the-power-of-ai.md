@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 856
         isCached: true
+  - title: "AI Innovations In Media And Communications"
+    excerpt: "My last blog discussed AI innovations in the health care sector, and this one will share a few perspectives of new developments in the Media and Communications Industry."
+    publishedDateTime: 2021-09-30T17:19:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155ef71088eada6a8f3c806%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Artificial Intelligence company EAIGLE rolls out a new proof of vaccination platform to give U.S. organizations greater health and safety protection"
     excerpt: "PRNewswire/ - Artificial Intelligence (AI) company EAIGLE Inc., specializing in COVID-19 solution technologies, has"
     publishedDateTime: 2021-09-28T13:16:00Z

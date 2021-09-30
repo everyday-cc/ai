@@ -91,7 +91,23 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "Intel's Loihi 2 Processor Gets Even Faster At Computing AI Workloads Like A Human Brain"
+    excerpt: "Loihi 2 improves upon the first-gen neuromorphic chip in every way, and will be the first commercial chip to be fabbed on Intel 4."
+    publishedDateTime: 2021-09-30T16:24:00Z
+    webUrl: "https://hothardware.com/news/intel-launches-loihi-2-its-second-generation-neuromorphic-processor"
+    ampWebUrl: "https://amp.hothardware.com/news/intel-launches-loihi-2-its-second-generation-neuromorphic-processor"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-launches-loihi-2-its-second-generation-neuromorphic-processor"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 51
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/56368/content/intel-loihi2-fingertip-hero.png"
+        width: 708
+        height: 502
+        isCached: true
 
-secured: "BO4Fdw/WLfIsEZfuBgOxIX5yeCckQM2yGE6n6p65eDEL//qyEIFntz4E4bfFHoOG319RA386JtAPcX1NlYRkl+FoFNqz1VNNDdhMni0V2SOUK7FHop4hJTlRHoT1/ALL/ifLJZpbGjHMGxfwKldO/1szNrOdkYr/x2dbr2KND6drgSs31j/Q4fo8ybcn/jc8w4nBwxQLn5TXp0HZxI/6dPA8EIqrQ17ND6MRndA1Rmqe7VSrDZOPCBVOrrYwjPmyaLD+hTR4pmJrn2dsYcp+6eEiGCL41zO5tYJIpIsZ7XEg1uHfVEkOc43GPsqSWp4SzvaddL5nQRLWBZdsqbjlAHNHljHNRRUaU2zTya1FQLs=;Y/kQrXhgBmrccrDQJhzNIQ=="
+secured: "d31B/CkzlPBfti9M7xlko2/fkuXPcgXX+QaJDUESkORAQHdRREpcm7ZXbNLXQOWH2pHmm5tuEsxQLogtnWbIwHJK96oB5i6HExWTkBXOOVrXlEjEkk2Ff3X+4EqPuT7Xd3+39IEr7EXhLzgx91xCreaaaVB3B4sYVVu8Y2N1La8A/2iTqx+gkhb24bOEX4hKpKvpqUl8OubS20cirT/F833II7t9lfWehWWRRmm7L+pXASE+Sw7ithK7zSicTbg+YdkgVgcDwYLW9YoECgVQFF8Nj8bpSp88Dwlb5kHIKA3BDBG/j4bMkd0p+SX+Eap7fYz4dUpz8Xkk6snfPR0H4nnBGxHOGov+CVfX/LZy+kmzteUj0f26xYpS6AHxZqlV9krQO9LPcFchmxEL3ve3+E7B63SkHTN1WFT8MXIC12uwXKJzKt74kMY0uprKhbQG00lfuOFT4vsmfk0O3spFbDw0wtGAy9cBMcEsNhhWhrusXvjQkfWiUcV9p0zI9qCn2VsL2+gyuD89XqqHA7j+gQ==;a8KDxMv8bbyiRfDUPjnPBQ=="
 ---
 

@@ -76,20 +76,6 @@ related:
         width: 770
         height: 364
         isCached: true
-  - title: "Venture capital investments in artificial intelligence"
-    excerpt: "New analysis of global investments by venture capitalists (VC) in private companies focused on artificial intelligence (AI) found VC investments in AI to be growing at a dramatic pace. The United States and the People’s Republic of China are"
-    publishedDateTime: 2021-09-30T05:41:00Z
-    webUrl: "https://www.oecd.org/publications/venture-capital-investments-in-artificial-intelligence-f97beae7-en.htm"
-    type: article
-    provider:
-      name: OECD
-      domain: oecd.org
-    quality: 37
-    images:
-      - url: "https://assets.oecdcode.org/covers/1000~social/g27270fa.jpg"
-        width: 1000
-        height: 500
-        isCached: true
 
 secured: "2rJwsp0nd9RgL96y4dVUtRKFoBkjI2Cz32+aX1zyVlhoVHPMSpiKzCnCA2NhU4Re/MNdxnaAE11NmJcKsx5iMeHIcFfwW9pDoKfBPFScmqKtUijOMuSWbJutzAYg3/ZXsIpNJA2MghnGbXr8MKV7dFFWo55vNHh3Tm6x6ke1ZX3R/9Sy2ZiHQu4nB61w1Y6nmBHYA2+agGcSUd0rMWZt3jNliBV4+XNzclw2/G728eY7SYSAsBgBDtTGMKe70Xi3W426St37CfpMOv8Xc7/v9wchn9+NONojN8DvKHKoebW/3EmwzG7peDE9BN3zPt0H8bVShQC8YDFe0XYxYuLsjW7ZxyiaDpbZKOqgKWndacD67brKT8m/Dl23Eh8ERlfdyczr0TuBqqn78GbF+gKS4sKkxnrLUyxjlyqCOIBfF70XUuh8s4Wz6Xo7JLpaxYbA8S3It/LjP7X2t9IKflBD0aRgv3Wt0j2lExR/AvpXQpH0+no5IUm4TuBUOTB8q9GYJlKmoatq1EqjUPD+I3d3lw==;Q0oRrR7aPzsABOhCC/3IyA=="
 ---

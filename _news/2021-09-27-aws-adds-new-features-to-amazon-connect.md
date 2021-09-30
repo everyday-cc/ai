@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361022/aws-a
 webUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361022/aws-adds-new-features-to-amazon-connect"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,19 +23,33 @@ topics:
   - AI
 
 related:
-  - title: "AWS Releases New Container Monitoring Service"
-    excerpt: "Amazon Managed Service for Prometheus is fully compatible with open-source Prometheus and provides the same familiar time series data model."
-    publishedDateTime: 2021-09-30T07:25:00Z
-    webUrl: "https://analyticsindiamag.com/aws-releases-new-container-monitoring-service/"
+  - title: "AWS Shares New Business Momentum Milestones and Announces Three New Capabilities for Amazon Connect"
+    excerpt: "Today at Enterprise Connect, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company , shared new business momentum milestones and announced three new capabilities for Amazon Connect that improve contact center agent productivity and"
+    publishedDateTime: 2021-09-27T12:14:00Z
+    webUrl: "https://www.lelezard.com/en/news-20015891.html"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 25
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/AIM-Illustration12-1.jpg"
-        width: 2240
-        height: 1260
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "AWS Shares New Business Momentum Milestones and Announces Three New Capabilities for Amazon Connect"
+    excerpt: "Today at Enterprise Connect, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), shared new business momentum milestones and announced three new capabilities for Amazon Connect that improve contact center agent productivity and provide superior service by making customer interactions more effective,"
+    publishedDateTime: 2021-09-27T20:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-lifestyle-technology-business-middle-east-62bd656b2fe240a1a17519adbb362d4a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "AWS adds new updates to Amazon Connect"
     excerpt: "Amazon Web Services updates new capabilities for Amazon Connect to improve contact centre agent productivity and provide more effective, personal, and natural customer interactions. AWS shares that the new features are designed to give agents the right information at the right time to answer"

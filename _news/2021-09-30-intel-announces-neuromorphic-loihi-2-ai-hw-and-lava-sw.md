@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/09/30/intel-announces-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/09/30/intel-announces-neuromorphic-loihi-2-ai-hw-and-lava-sw/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -91,7 +91,23 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "Intel's Loihi 2 Processor Gets Even Faster At Computing AI Workloads Like A Human Brain"
+    excerpt: "Loihi 2 improves upon the first-gen neuromorphic chip in every way, and will be the first commercial chip to be fabbed on Intel 4."
+    publishedDateTime: 2021-09-30T16:24:00Z
+    webUrl: "https://hothardware.com/news/intel-launches-loihi-2-its-second-generation-neuromorphic-processor"
+    ampWebUrl: "https://amp.hothardware.com/news/intel-launches-loihi-2-its-second-generation-neuromorphic-processor"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-launches-loihi-2-its-second-generation-neuromorphic-processor"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 51
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/56368/content/intel-loihi2-fingertip-hero.png"
+        width: 708
+        height: 502
+        isCached: true
 
-secured: "Le8rOGti+KKvUNR+9+2ujjNx/2KT8VxBY6+Iq6YHRpyRywYgeLw8bLFxFGZSYvEgefoy9tis7WPo5G33KcYml0wKNUZexyEKySONE14WWg75yxkTKxKmR4kGAgzqRUMKuoqCY5p76tsd50vdgKljUpGfYwi296L/acVj5jY81WP+CVuzPd0N1ACFRFH1iIINSxmujRoQQGfe1I546Rdl6oX9KgB6Fr/VM8JDLFTe8SWYJbkMDMvhPyWZcIll48GdtxwbkAQVnRYYnhs/tN3eF8hhMRVT4keArNb3OEuM6auE1w96j1Vu2wTCDYjsHswIUjRNWmsSv+DoG4uensNFRUmyzu/eO9bHmMtEQnst1fw=;q9bNYjZ3y7e6KhOI6s3SHg=="
+secured: "3BwPjNlq55nBqqOoy2pKnygjFUzhaf5QNq9c7qUC0SC6c5HmAdirZulFx+D/BUQU48RbiFskxqwJ0QoDUpa2jkdimq1jLNiAtHXVPaH/ubAS8m3jVxtRtr2PBq+UZfdIRAVh9IeR6/0sH4TQpwQq/b6sv/CeOroTUKYaoQXR+CqsAHUjjVmuvmEMvLmrjzSZUeP6eHQD2jaxzi46F2EZDqtAiRXWhEatGB8XWFRzmDuHhucFPfb96gDiPIbZe881tribRraR9bXzuUfPw9UlHlD5kFvAl/6nJ+/4UhRZSItOJHNu9uYRUjbbyDURoFIsptHVEiq/kCWAKkm6fvLmWj3j8uC8xdjrad2LQlsjqVN1abubYNgMEAH3IPWUKVevRwe12z2luwwiJ8Fif4vq2XHISjHQEsA6shEptuJRY9TRcFBOx9yVf0Ple3HNS/+OdSqwPNqkGixTZfj9zZgjlhDe/Q4Zg8S00/uERMP2abN6hLF2R5vwgwJAvRN30Eo+TrY18KzyFUD3/k1yScWTkg==;wwHaOzawdnJYx4pZEylstQ=="
 ---
 

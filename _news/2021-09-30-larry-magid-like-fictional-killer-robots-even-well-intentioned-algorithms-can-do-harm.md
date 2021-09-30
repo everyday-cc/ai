@@ -2,30 +2,30 @@
 category: news
 title: "Larry Magid: Like fictional killer robots, even well-intentioned algorithms can do harm"
 excerpt: "Robots with artificial-intelligence-driven algorithms become monsters that unleash horrors not fully intended by the humans who programmed them. For now at least, such stories remain the realm of science fiction,"
-publishedDateTime: 2021-09-30T15:08:00Z
-originalUrl: "https://www.eastbaytimes.com/2021/09/30/larry-magid-like-fictional-killer-robots-even-well-intentioned-algorithms-can-do-harm/"
-webUrl: "https://www.eastbaytimes.com/2021/09/30/larry-magid-like-fictional-killer-robots-even-well-intentioned-algorithms-can-do-harm/"
-ampWebUrl: "https://www.eastbaytimes.com/2021/09/30/larry-magid-like-fictional-killer-robots-even-well-intentioned-algorithms-can-do-harm/amp/"
-cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/09/30/larry-magid-like-fictional-killer-robots-even-well-intentioned-algorithms-can-do-harm/amp/"
+publishedDateTime: 2021-09-30T14:00:00Z
+originalUrl: "https://www.mercurynews.com/2021/09/30/larry-magid-like-fictional-killer-robots-even-well-intentioned-algorithms-can-do-harm/"
+webUrl: "https://www.mercurynews.com/2021/09/30/larry-magid-like-fictional-killer-robots-even-well-intentioned-algorithms-can-do-harm/"
+ampWebUrl: "https://www.mercurynews.com/2021/09/30/larry-magid-like-fictional-killer-robots-even-well-intentioned-algorithms-can-do-harm/amp/"
+cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/09/30/larry-magid-like-fictional-killer-robots-even-well-intentioned-algorithms-can-do-harm/amp/"
 type: article
 quality: 51
 heat: 51
 published: false
 
 provider:
-  name: East Bay Times
-  domain: eastbaytimes.com
+  name: Mercury News
+  domain: mercurynews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/09/magid_larry-4.jpg?w=1024&#038;h=709"
+  - url: "https://www.mercurynews.com/wp-content/uploads/2016/08/magid_larry.jpg?w=1024&#038;h=709"
     width: 1024
     height: 708
     isCached: true
 
-secured: "lh6LPVs03D1SAcj1iu+1krMJHDjIe7mamr6g2AkFjQvDmQg32WdoGFMfCk13FDwKwiG85vqR/2OizHA1UpC6WKCqnwpuU6mF4FvtqqC0nr2FX4nS6440rPfz9jV5MBgcOvSFmPqkh9RFQyRs1pij8DTq9vcHbdocv9nHBgAB9X5WXw63qTQM7pP5NT+adCAHBpoUpnYq0OV6Bv7dEJHUXwj+qa7Jo7K+u3Yd+JAH4/uT8VPwgp2EHnrptA4OiyCehgS1HYBsoceedXARDVmacOROEkbE7XLk8Xqp7XRppTLg25AKLAxoEc5Z/rMVUbGlLLIaBd2glq3OO5Lfrf7BODmef+1DgdxCLKxHsY/aViE=;kPEs/h7oZQlb9qmhTWw99w=="
+secured: "f5zW97qmPiBIhC7L2JjtoqYZMZGfzjgI4qpCLvhSvICqoG3qriQ4P6nsXSEjD9tbgxMnDj0hiWDoSs4FWDyLmuIhQw4IFUGEBNTOsyC8KPJu0PPVqV7HGxyXMRDy9aSMCQ7FTwHVJ6Ch5v38G58Pn645fR/kWqoZ8IhpYvzxKRZo2nos5Vj1Q0UfVIN/4MLnV40W44F7gfSEi0VCw7Y+o4Dx6wU0fL66s4b5C+frffmNnZnhtRGKzbkaDCb8LljbxVG3/V4L5qeWDX76KAFotAQyS+GLtiKaa9zEv6XpPMNn08YYzT2Ag6lR4Y0E8lLz78qINh/TkYwJXjmA9RWMDxZRzhoMVgbwPeBrUVxiLGw=;/5siUsUuN+N8/DR6CF/XcQ=="
 ---
 
