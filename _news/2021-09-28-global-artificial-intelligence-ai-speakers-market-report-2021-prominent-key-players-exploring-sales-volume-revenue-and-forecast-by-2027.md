@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-report-2021-prominent-key-players-exploring-sales-volume-revenue-and-forecast-by-2027-2021-09-27"
 type: article
 quality: 65
-heat: 165
+heat: 155
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
       - url: "https://cdn.openpr.com/T/b/Tb09292789_g.jpg"
         width: 800
         height: 433
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Mining Market Future Developments, Companies, Trends, Share and Size Forecast"
-    excerpt: "ReportsnReports has uploaded a latest report on Artificial Intelligence AI in Mining Industry from its research database Artificial Intelligence AI in Mining Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence AI in"
-    publishedDateTime: 2021-09-27T11:58:00Z
-    webUrl: "https://www.openpr.com/news/2408036/artificial-intelligence-ai-in-mining-market-future"
-    ampWebUrl: "https://www.openpr.com/amp/2408036/artificial-intelligence-ai-in-mining-market-future"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2408036/artificial-intelligence-ai-in-mining-market-future"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 53
-    images:
-      - url: "https://cdn.openpr.com/U/9/U927717989_g.jpg"
-        width: 604
-        height: 400
         isCached: true
   - title: "Self-driving Cars and Trucks Market Analysis by Size, Status and Forecast to 2021-2026"
     excerpt: "Latest released Global Self-driving Cars and Trucks Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings, market price,"

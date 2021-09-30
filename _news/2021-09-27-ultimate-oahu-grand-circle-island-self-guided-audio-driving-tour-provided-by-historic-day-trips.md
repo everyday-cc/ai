@@ -7,7 +7,7 @@ originalUrl: "https://www.tripadvisor.co.uk/AttractionProductReview-g29222-d2365
 webUrl: "https://www.tripadvisor.co.uk/AttractionProductReview-g29222-d23658128-Ultimate_Oahu_Grand_Circle_Island_Self_Guided_Audio_Driving_Tour-Oahu_Hawaii.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Valley Forge National Historical Park Self-Guided Driving Tour provided by Adventures Abroad"
-    excerpt: "Welcome to Valley Forge National Military Park, a historic American Revolution site! In the icy December of 1777, General George Washington camped the Continental Army here to wait out the long winter."
-    publishedDateTime: 2021-09-26T01:52:00Z
-    webUrl: "https://www.tripadvisor.co.uk/AttractionProductReview-g52930-d23656692-Valley_Forge_National_Historical_Park_Self_Guided_Driving_Tour-King_of_Prussia_Penn.html"
-    type: article
-    provider:
-      name: tripadvisor.co.uk
-      domain: tripadvisor.co.uk
-    quality: 13
-    images:
-      - url: "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0c/01/16/c5.jpg"
-        width: 720
-        height: 480
-        isCached: true
 
 secured: "Bqt4Fcvc10bQrXHBUK3hgJ440srxfzePMXHOsdlpSB3s0wA9bHUH4YYKtYag2RlTN2yMjx+liM8mmQA9uOg351NFivh5kY3w3XRh3vQ2P6jufRH2yhj7J54+ZA9Omf6f91RFjrQgl08KVhkeGPdW7dIrIiihoQM+D7Q/NtWqFMmJ4LB64f7O6xhoSJoo3gev9XVJS06VGlOKMqaa2JTcymZvCJKRZYDlV77rMUTp0Onk0FJyVcK3lc/ndIVh0ZENQ/ptwCGz7ZIpl/guM1Tg/JeKkFrclIOzSPTHccI7Gz2q3IwB9ZXOU1TH8wefaJjKxa8lGPjzDJx8nOXGtyoGoos7ytc8afbVMTi4oma4UvAJPVsMKLMO52vb8xlfR00IFLUyw1fY5ZAk6sI1vrPoI5NlGLh0BXQNk++P/h9TS6AiqLnNHRtLX6jgqmOt6YhLyDGE+fgokBuDrDMyWSjGboU8A08JeHbD7fhqvRFH/cc1NkKSfqu47qiV6+zarBuycBVFYQLVFCRNv+JDKwIgTg==;Fes7rB4+Ho3VQiJudjn22Q=="
 ---

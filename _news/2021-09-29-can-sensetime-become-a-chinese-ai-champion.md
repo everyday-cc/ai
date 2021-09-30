@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/c735e0f3-5704-47b5-a76f-7a02d53a1525"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/c735e0f3-5704-47b5-a76f-7a02d53a1525"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 500
     height: 293
     isCached: true
-
-related:
-  - title: "Xiaomi invests in Chinese self-driving chip unicorn Black Sesame"
-    excerpt: "Black Sesame Technologies, a Chinese developer of artificial intelligence-based self-driving computing chips, says it is close to a valuation of nearly $2 billion after raising \"hundreds of millions of U."
-    publishedDateTime: 2021-09-26T01:17:00Z
-    webUrl: "https://asia.nikkei.com/Spotlight/DealStreetAsia/Xiaomi-invests-in-Chinese-self-driving-chip-unicorn-Black-Sesame"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 41
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F6%252F3%252F1%252F6%252F36566136-1-eng-GB%252FRTX8473F.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "iq4zJWMfOZlVE8Hs+pRTsDC28DJTxavGudp8iTasF+qCkpI0SVeGY537KTuqKUcy07ta0D5aUSObvxuMs1ptnj4qY4oe/vWV9+yIkelPHtdzJLR6vrV2CXrQExqHkEggrAUpakUcrUcsRK9p7D/QvvP0IhPf2qcqsmaxdiSqtOhK2ZqSf9tnACa/ZRKy4SluEU+E9k2WTiEybAgHgGlYiWcGbLIaJ73MuBxuG6Il4kMe5FaOQJD5X9M7LqPB2XaiIaAdtkrzDk329nq2YhbktrqEM/hHujFTsWWGdQzsEcYbq1v4uD8HcvVS7Sn6Ua6BDnrEze28e4Y1Jj+gw2fAmgv3ZTVQZHCH7iGL4WCtzcl3d0ArKox5yjCBzFjxei/wWOTJVLC1juXmFIIP0WgRhw8/YwbDcj/J0C9ZcKU5ZGCYW4TWcvaFR2AQnY+vNg1eVvkPj6803u2V3C4sMjurTrGGxA3QsuXKNaRnsDHAAr5Kui7n1gpKotk9qanzyxvKfF+eRsEaQA+1aA+sH6j6ww==;7QSv89diLw1ywQZ2EFWJxA=="
 ---

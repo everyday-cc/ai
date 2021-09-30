@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202109/paravision-enhances-video-f
 webUrl: "https://www.biometricupdate.com/202109/paravision-enhances-video-facial-recognition-with-streaming-container-update"
 type: article
 quality: 51
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "Paravision launches Android facial recognition SDK for custom app development"
+    excerpt: "The SDK functions for face detection, landmark detection, biometric image quality analysis, template creation, and 1:1 facial verification and 1:N face matching"
+    publishedDateTime: 2021-09-28T20:37:00Z
+    webUrl: "https://www.biometricupdate.com/202109/paravision-launches-android-facial-recognition-sdk-for-custom-app-development"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/06/25135841/selfie-for-onboarding-identity-verification.jpg"
+        width: 864
+        height: 554
         isCached: true
   - title: "Amid Rapid Adoption, Paravision Unveils New Computer Vision Capabilities, Making Face ..."
     excerpt: "Paravision, the U.S.-based leader in mission-critical face recognition and computer vision, today announced an array of new and updated products that make face recognition solutions faster, more accurate and secure,"

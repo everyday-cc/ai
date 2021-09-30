@@ -57,6 +57,20 @@ related:
         width: 590
         height: 400
         isCached: true
+  - title: "Marketing Artificial Intelligence: AI, Marketing, and the Future of Business"
+    excerpt: "Artificial intelligence is forecasted to have trillions of dollars of impact on businesses and the economy, yet many marketers struggle to understand what it is and how to apply it in their marketing efforts."
+    publishedDateTime: 2021-09-30T19:43:00Z
+    webUrl: "https://www.amazon.co.uk/Marketing-Artificial-Intelligence-Future-Business-ebook/dp/B09HH2LZ9M"
+    type: article
+    provider:
+      name: Amazon Associates UK
+      domain: amazon.co.uk
+    quality: 66
+    images:
+      - url: "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png"
+        width: 350
+        height: 450
+        isCached: true
   - title: "Dubai Taxi and BluWave-ai Launch Innovative Partnership for AI-Enabled Taxi Fleet Electrification and Optimization"
     excerpt: "One of the top fleets globally deploying Tesla EV's working with BluWave-ai EV Fleet Orchestrator Platform to drive innovation in the United Arab"
     publishedDateTime: 2021-09-29T12:10:00Z

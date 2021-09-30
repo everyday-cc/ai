@@ -69,6 +69,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Paravision launches Android facial recognition SDK for custom app development"
+    excerpt: "The SDK functions for face detection, landmark detection, biometric image quality analysis, template creation, and 1:1 facial verification and 1:N face matching"
+    publishedDateTime: 2021-09-28T20:37:00Z
+    webUrl: "https://www.biometricupdate.com/202109/paravision-launches-android-facial-recognition-sdk-for-custom-app-development"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/06/25135841/selfie-for-onboarding-identity-verification.jpg"
+        width: 864
+        height: 554
+        isCached: true
   - title: "Paying with a glance: Moscow’s latest expansion of facial-recognition tech"
     excerpt: "Facial-recognition cameras are being rolled out across Moscow's metro system as a way to allow passengers to pay for their fare simply by showing their faces, without the need for a ticket or a transit card."
     publishedDateTime: 2021-09-27T08:57:00Z

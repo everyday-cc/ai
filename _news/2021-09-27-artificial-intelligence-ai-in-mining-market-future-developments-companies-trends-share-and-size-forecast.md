@@ -26,148 +26,48 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence (AI) Speakers Market Report 2021 Prominent Key Players, Exploring Sales Volume Revenue and Forecast by 2027"
-    excerpt: "The research study on Global Artificial Intelligence (AI) Speakers Market 2021 by Manufacturers, Regions, Type"
-    publishedDateTime: 2021-09-28T03:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-report-2021-prominent-key-players-exploring-sales-volume-revenue-and-forecast-by-2027-2021-09-27"
+  - title: "AI and Software Development: Let the Revolution Begin"
+    excerpt: "With help from AI-Augmented development tools – including no code and low code – software development will move far faster, and be open to non-tech types as well."
+    publishedDateTime: 2021-09-30T19:42:00Z
+    webUrl: "https://www.eweek.com/big-data-and-analytics/ai-and-software-development-let-the-revolution-begin/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
+      name: eWeek
+      domain: eweek.com
+    quality: 67
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.eweek.com/wp-content/uploads/2021/04/circuit-board.jpg"
+        width: 1920
+        height: 1280
         isCached: true
-  - title: "AI in Education Market Future Trends, Prominent Players, Covid 19 Impact and Forecast by 2030"
-    excerpt: "The global artificial intelligence AI in education market had a valuation of 1 1 billion in 2019 and it is predicted to generate a revenue of 25 7 billion by 2030 According to the estimates of P S Intelligence a"
-    publishedDateTime: 2021-09-29T11:37:00Z
-    webUrl: "https://www.openpr.com/news/2411586/ai-in-education-market-future-trends-prominent-players-covid"
-    ampWebUrl: "https://www.openpr.com/amp/2411586/ai-in-education-market-future-trends-prominent-players-covid"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2411586/ai-in-education-market-future-trends-prominent-players-covid"
+  - title: "Event Round up: Sino-UK AI Innovation and Development Forum"
+    excerpt: "On 23 rd September, during 2021 London Tech Week, Sino-International Entrepreneurs Federation (SIEF) Technology and Innovation Committee and Xinchuang Tech have put up a successful online forum in partnership with techUK,"
+    publishedDateTime: 2021-09-28T11:57:00Z
+    webUrl: "https://www.techuk.org/resource/event-round-up-sino-uk-ai-innovation-and-development-forum.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 63
+      name: techUK
+      domain: techuk.org
+    quality: 37
     images:
-      - url: "https://cdn.openpr.com/U/9/U929455223_g.jpg"
-        width: 800
-        height: 464
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/4fc666e1-629d-43e3-b9992413968badad/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/Sino-event.jpg"
+        width: 400
+        height: 225
         isCached: true
-  - title: "Artificial Intelligence (AI) in Medical Diagnostics Market Detailed Analysis and Forecast 2020-2030"
-    excerpt: "Artificial Intelligence (AI) in Medical Diagnostics Overview. Artificial intelligence (AI) has shown transformative potential in medical and healthcare industry. In particular, th"
-    publishedDateTime: 2021-09-30T02:19:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-medical-diagnostics-market-detailed-analysis-and-forecast-2020-2030/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-medical-diagnostics-market-detailed-analysis-and-forecast-2020-2030/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-medical-diagnostics-market-detailed-analysis-and-forecast-2020-2030/?amp=1"
+  - title: "Syntiant Brings Artificial Intelligence Development to Everyone, Everywhere with Introduction ..."
+    excerpt: "Tiny Machine Learning Development Board Now Available for Building Low-Power Voice, Audio and Sensor Applications using Edge Impulse’s Embedded ML Platform. Smallest Form Factor"
+    publishedDateTime: 2021-09-29T12:22:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-artificial-intelligence-ecf3c7b26c7dcc133f0d6a911c24a51d"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 60
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
     images:
-      - url: "https://cdn.openpr.com/T/b/Tb09292789_g.jpg"
-        width: 800
-        height: 433
-        isCached: true
-  - title: "Self-driving Cars and Trucks Market Analysis by Size, Status and Forecast to 2021-2026"
-    excerpt: "Latest released Global Self-driving Cars and Trucks Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings, market price,"
-    publishedDateTime: 2021-09-29T20:45:00Z
-    webUrl: "https://manometcurrent.com/self-driving-cars-and-trucks-market-analysis-by-size-status-and-forecast-to-2021-2026/"
-    ampWebUrl: "https://manometcurrent.com/self-driving-cars-and-trucks-market-analysis-by-size-status-and-forecast-to-2021-2026/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/self-driving-cars-and-trucks-market-analysis-by-size-status-and-forecast-to-2021-2026/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 36
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/09/Calibre-Market-Research-5-390x220.png"
-        width: 390
-        height: 220
-        isCached: true
-  - title: "Cognitive Computing Market Revenue, Major Players, Consumer Trends, Analysis & Forecast Till 2027"
-    excerpt: "United States OR Portland The Cognitive Computing Market 2021 report is a comprehensive professional and in depth research of market that delivers significant data for those who are seeking information for the Cognitive Computing industry The market report delivers the"
-    publishedDateTime: 2021-09-29T11:39:00Z
-    webUrl: "https://www.openpr.com/news/2411600/cognitive-computing-market-revenue-major-players-consumer"
-    ampWebUrl: "https://www.openpr.com/amp/2411600/cognitive-computing-market-revenue-major-players-consumer"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2411600/cognitive-computing-market-revenue-major-players-consumer"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 31
-    images:
-      - url: "https://cdn.openpr.com/U/9/U929767438_g.jpg"
-        width: 674
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
         height: 450
         isCached: true
-  - title: "Machine Vision Systems Market Report 2021 Offered by Practical Features, Leading Vendors, End Uses, Product Types and Revenue by 2026"
-    excerpt: "Sep 28, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Machine Vision Systems Market” Report"
-    publishedDateTime: 2021-09-28T11:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-vision-systems-market-report-2021-offered-by-practical-features-leading-vendors-end-uses-product-types-and-revenue-by-2026-2021-09-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 23
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Disc Replacement Market Latest Development Forecast 2021 to 2027"
-    excerpt: "Posted on September 29, 2021 by Market Insights Reports Artificial Disc Replacement Market Latest Development Forecast 2021 to 2027 The Global <st"
-    publishedDateTime: 2021-09-29T12:44:00Z
-    webUrl: "https://menafn.com/1102885965/Artificial-Disc-Replacement-Market-Latest-Development-Forecast-2021-to-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 22
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?947121"
-        width: 401
-        height: 250
-        isCached: true
-  - title: "Global Artificial Intelligence in IoT Market 2021 Size Share Upcoming Trends Segmentation, Opportunities and Forecast To 2026"
-    excerpt: "The New Report Global Artificial Intelligence in IoT Market published by Reports Web covers the competitive landscape analysis and its growth prospects over the coming years The report also covers the major region such as North America Europe Asia Pacific"
-    publishedDateTime: 2021-09-28T09:45:00Z
-    webUrl: "https://www.openpr.com/news/2409288/global-artificial-intelligence-in-iot-market-2021-size-share"
-    ampWebUrl: "https://www.openpr.com/amp/2409288/global-artificial-intelligence-in-iot-market-2021-size-share"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2409288/global-artificial-intelligence-in-iot-market-2021-size-share"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 12
-  - title: "Global Underwater Computer Vision Market 2021 Key Players, Product Type, Geographical Regions and End-User Applicants by 2027"
-    excerpt: "The research released by MarketsandResearchbiz named Global Underwater Computer Vision Market 2021 by Company Regi"
-    publishedDateTime: 2021-09-27T19:11:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271325720/global-underwater-computer-vision-market-2021-key-players-product-type-geographical-regions-and-end-user-applicants-by-2027"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 12
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1632803637705.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Self-driving Vehicles Market Enhancement, Latest Trends, Growth and Opportunities during 2021 to 2027"
-    excerpt: "The Self driving Vehicles Market research report provides detailed observation of several aspects including the rate of growth regional scope and recent developments by the primary market players The report offers Porter s Five Forces PESTEL and market analysis to"
-    publishedDateTime: 2021-09-28T09:48:00Z
-    webUrl: "https://www.openpr.com/news/2409307/self-driving-vehicles-market-enhancement-latest-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2409307/self-driving-vehicles-market-enhancement-latest-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2409307/self-driving-vehicles-market-enhancement-latest-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 9
 
 secured: "AQ6m08aJANcghqJLAhu5K2ctM+lJIV7a+AFfqA1D3ivVldv3kPTaqpaRN4bHtCUBgPnSxKvYgSU27mL2bD91f8W2cs5KwyomQ0J+6FFIlQrrOAjbA22GBm3Z4RVlNWSQ9dHPPWnPOwINswkMGPWO5ZkR4edK8XMW9T3qKkVAv2tTVmWiAIHdCBPBmuNvG6OQfe8jFIh30levqVNYP2hoUf+x7I3qEmRFCHI9gffhLhuBZpkgS9L0JiftZwhhvWjb78iRg6HDP+xmI9dft72BbjvfxDIMmS0BWsULfN0JmIFEfzawFDIpoXwQ7PDPWvzl4V5JwUF8uKcdmPge8AEue9j7nDgbGA05LfuWJb+kecic+4D5h3OzAi8eX2m4hvqaIUYrcWgPlcWS6gWsTUWUb3ZkK4HwiVg5zbVD/0kJTg8Xz0/fHVi7uwm7bNQ7Xhi66CzP5qbh49mLDK5t4jqKIuu5doVA+N5Idcrm6Up/SIPPttsGpkhvPEtOpzjUkdVA/I9eWZCBioGgazOD+KCrXw==;JIXG/Cn0AqD+5MChaAiOZA=="
 ---

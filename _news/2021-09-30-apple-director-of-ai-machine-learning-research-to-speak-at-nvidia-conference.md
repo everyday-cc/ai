@@ -72,6 +72,22 @@ related:
         width: 1200
         height: 682
         isCached: true
+  - title: "NVIDIA CEO Jensen Huang to Unveil New AI Technologies, Products in GTC Keynote; Hundreds of Industry and AI Leaders to Speak at November Event"
+    excerpt: "NVIDIA today announced that it will host a global, virtual GTC from Nov. 8-11, featuring a news-filled keynote by NVIDIA founder and CEO Jensen Huang and talks from some of the world’s preeminent AI research and industry leaders."
+    publishedDateTime: 2021-09-30T17:39:00Z
+    webUrl: "https://www.outlookindia.com/newsscroll/nvidia-ceo-jensen-huang-to-unveil-new-ai-technologies-products-in-gtc-keynote-hundreds-of-industry-and-ai-leaders-to-speak-at-november-event/2169881"
+    ampWebUrl: "https://www.outlookindia.com/newsscroll/amp/nvidia-ceo-jensen-huang-to-unveil-new-ai-technologies-products-in-gtc-keynote-hundreds-of-industry-and-ai-leaders-to-speak-at-november-event/2169881"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/nvidia-ceo-jensen-huang-to-unveil-new-ai-technologies-products-in-gtc-keynote-hundreds-of-industry-and-ai-leaders-to-speak-at-november-event/2169881"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 23
+    images:
+      - url: "https://www.outlookindia.com/public/uploads/no-image-new.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "NVIDIA’s Huang to Unveil AI Technologies, Products at Virtual GTC, Nov. 8-11"
     excerpt: "NVIDIA today announced that it will host a global, virtual GTC from Nov. 8-11, featuring a keynote by NVIDIA founder and CEO Jensen Huang and talks from AI research and industry leaders. Agenda and registration information can be found here."
     publishedDateTime: 2021-09-29T18:38:00Z

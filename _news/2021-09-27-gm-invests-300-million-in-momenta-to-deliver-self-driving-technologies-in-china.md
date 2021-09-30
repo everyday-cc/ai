@@ -7,7 +7,7 @@ originalUrl: "https://collisionweek.com/2021/09/27/gm-invests-300-million-moment
 webUrl: "https://collisionweek.com/2021/09/27/gm-invests-300-million-momenta-deliver-self-driving-technologies-china/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "For self-driving cars, the hot new technology is… radar"
-    excerpt: "Companies are improving and adapting the century-old technology to help vehicles operate more safely with less human involvement"
-    publishedDateTime: 2021-09-26T01:30:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/for-self-driving-cars-the-hot-new-technology-is-radar-11632583538046.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/for-self-driving-cars-the-hot-new-technology-is-radar/amp-11632583538046.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/for-self-driving-cars-the-hot-new-technology-is-radar/amp-11632583538046.html"
+  - title: "EXCLUSIVE: Hennessy Capital Investment Merger Partner, Plus To Deliver Initial Self-Driving Technology Units To Heavy Duty Truck Manufacturer FAW"
+    excerpt: "Plus (formerly Plus.ai), a global provider of self-driving truck technology, today announced the delivery of the initial production batch of PlusDrive autonomous driving units the world's largest heavy-duty truck manufacturer FAW."
+    publishedDateTime: 2021-09-29T11:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/exclusive-hennessy-capital-investment-merger-partner-plus-to-deliver-initial-self-driving-technology-units-to-heavy-duty-truck-manufacturer-faw-1030830565"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 44
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 17
     images:
-      - url: "https://images.livemint.com/img/2021/09/25/600x338/googlecars-kY8D--621x414@LiveMint_1632583693837.jpg"
-        width: 600
-        height: 337
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/plus_truck.jpg"
+        width: 1024
+        height: 768
         isCached: true
 
 secured: "S9D11KxYr47r34nC7QkeJwKmYSIR/86NcxEmPc7fhr8sq+o9q/GMvV2S5ZxVnrZeU87+CUrwxuNBU5qGdSdPV0YlQRzjaHdufkut3pV+ZA0E3FR5o81Fw+28g79BGzK62zvRlDP5BP3QIvXE1j+pxFzOVFu/jMmK1+Z0lLcknYliqCIHkxz4nIYTFQENeHnYocfrbIfMx/Ltv8Qd0pDHibJJk587kTQJ4sINlEh/nH46MgwljmkXmYuMTP3vapacLqhlWAcu6Dpsnb7vfpcj0wAHnkq/C5LUa52U7JmzA7sta0lsjmEbrkjRC3LceGDc+w8/s7Z+b+T8vLHWINIX0rZ0AFnpDPz8Is/lMvqXYf8=;GugjhDJ+XXQBXgl2ZrBaJA=="

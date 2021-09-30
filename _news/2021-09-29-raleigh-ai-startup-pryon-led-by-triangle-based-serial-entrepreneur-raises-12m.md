@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wraltechwire.com/2021/09/29/raleigh-ai-startup-pryon-led
 cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/09/29/raleigh-ai-startup-pryon-led-by-triangle-based-serial-entrepreneur-raises-12m/?amp=1"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 52
+published: false
 
 provider:
   name: WRAL TechWire
@@ -24,31 +24,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "Jordan’s Xina AI raises $ 1 million Seed round"
-    excerpt: "Amman-based AI startup Xina AI has raised $1 million in a Seed round, led by Jordanian angel investors. Founded in"
-    publishedDateTime: 2021-09-29T11:22:00Z
-    webUrl: "https://www.wamda.com/2021/09/jordan-xina-ai-raises-1-million-seed-round"
-    type: article
-    provider:
-      name: wamda.com
-      domain: wamda.com
-    quality: 37
-    images:
-      - url: "https://cdn.wamda.com/thumbnails/23ded044a8d7036.jpg"
-        width: 600
-        height: 436
-        isCached: true
-  - title: "Amazon-backed microphone startup Vesper raises $18 million"
-    excerpt: "Vesper, a Boston-based smart microphone which Amazon has repeatedly invested in, has raised another $18 million."
-    publishedDateTime: 2021-09-29T16:00:00Z
-    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2021/09/29/vesper-microphones-funding.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "qmnzyDCwUlDgpdrH1CQNRGk2yrTH7fNSdDR7xEnddeWCjfK/3SLyTwKfu7c7o6xVgI0ta+rE1b2o4cE4zxgjaYhBQkgIrqvy6EDlvnW3Vp10lcrrinKwwQfANAsDeVrxJDRPaPegnyc6UhZ+TnwHtL/SuX/p5KEeNyAd+YnPuXcPxyvtGSPVB054bzi6nE8N6NF4O9uBfkK/pHlc7llpEcRxhS1ndjjQzMvlry8wL+tde0CCrLmGtNMdQv3kPg19MXa0cp8aOT75vxtXo7f7/555z0V66cb4vs1FW21mo7uqeFaXdhpYmL14GqNImpHjP6Q9ud3yOge0uiQuqBPBoIAOokvhqs8qsoDJYgiihG/t2RSGD8tyM+STEkPjYw7T2nsQtY8wlAckIzqnauGwQK1iBD/qeTxtxZIBr/egI/jJYRqknhjlR/K1Y7nyGPhslA7U3ctpd9zqZ3L47vK/TxaXWy4zPVgwfbKF0Q8xDSRMb+77OeQZvK33/MKQ3rZDV8qmPREN0BLqeg3iGwl8gw==;uRWjam+bYrQUWhYiF2HEIA=="
 ---

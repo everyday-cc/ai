@@ -18,21 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "Raleigh AI startup Pryon, led by Triangle-based serial entrepreneur, raises $12M"
-    excerpt: "AI company Pryon, based in Raleigh, has raised nearly $12 million in equity financing, according to an SEC filing."
-    publishedDateTime: 2021-09-29T11:08:00Z
-    webUrl: "https://www.wraltechwire.com/2021/09/29/raleigh-ai-startup-pryon-led-by-triangle-based-serial-entrepreneur-raises-12m/"
-    ampWebUrl: "https://www.wraltechwire.com/2021/09/29/raleigh-ai-startup-pryon-led-by-triangle-based-serial-entrepreneur-raises-12m/?amp=1"
-    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/09/29/raleigh-ai-startup-pryon-led-by-triangle-based-serial-entrepreneur-raises-12m/?amp=1"
+  - title: "BUET grad’s AI startup raises $4.1 million"
+    excerpt: "AI startup Gray Matter Robotics, headed by BUET graduate Ariyan Kabir, has raised $4.1 million in seed round funding. Stage Venture Partners and Calibrate Ventures led the round, along with 3M Ventures,"
+    publishedDateTime: 2021-09-30T19:11:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/buet-grads-ai-startup-raises-41-million-2187806"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/buet-grads-ai-startup-raises-41-million-2187806?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/buet-grads-ai-startup-raises-41-million-2187806?amp"
     type: article
     provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 52
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 59
     images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/09/Pryon_Screenshot_Website-1024x576.jpg"
-        width: 1024
-        height: 576
+      - url: "https://img.thedailystar.net/sites/default/files/styles/social_share/public/images/2021/09/30/maxresdefault_9.jpg?itok=imnCCvTE"
+        width: 750
+        height: 393
         isCached: true
   - title: "Jordan’s Xina AI raises $ 1 million Seed round"
     excerpt: "Amman-based AI startup Xina AI has raised $1 million in a Seed round, led by Jordanian angel investors. Founded in"

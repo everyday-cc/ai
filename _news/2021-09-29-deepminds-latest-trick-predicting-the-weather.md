@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind claims its AI weather forecasting model beats conventional models"
+    excerpt: "Alphabet's DeepMind claims that its short-term, AI-powered weather forecasting model is more accurate than competing methods."
+    publishedDateTime: 2021-09-29T15:00:00Z
+    webUrl: "https://venturebeat.com/2021/09/29/deepmind-claims-its-ai-weather-forecasting-model-beats-conventional-models/"
+    ampWebUrl: "https://venturebeat.com/2021/09/29/deepmind-claims-its-ai-weather-forecasting-model-beats-conventional-models/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/deepmind-claims-its-ai-weather-forecasting-model-beats-conventional-models/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-520682906-e1619014289419.jpg?fit=800%2C600&strip=all"
+        width: 800
+        height: 400
+        isCached: true
   - title: "DeepMind AI predicts incoming rainfall with high accuracy"
     excerpt: "Having flexed its muscles in predicting kidney injury, toppling Go champions and solving 50-year-old science problems, artificial intelligence company DeepMind is now dipping its toes in weather forecasting."
     publishedDateTime: 2021-09-30T06:00:00Z
@@ -40,38 +56,6 @@ related:
       - url: "https://assets.newatlas.com/dims4/default/e6a3fa7/2147483647/strip/true/crop/450x300+130+0/resize/1200x800!/format/webp/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0c%2F2a%2F6f5446b646bd850633c0c1663837%2Funnamed.gif"
         width: 710
         height: 300
-        isCached: true
-  - title: "DeepMind claims its AI weather forecasting model beats conventional models"
-    excerpt: "Alphabet's DeepMind claims that its short-term, AI-powered weather forecasting model is more accurate than competing methods."
-    publishedDateTime: 2021-09-29T15:00:00Z
-    webUrl: "https://venturebeat.com/2021/09/29/deepmind-claims-its-ai-weather-forecasting-model-beats-conventional-models/"
-    ampWebUrl: "https://venturebeat.com/2021/09/29/deepmind-claims-its-ai-weather-forecasting-model-beats-conventional-models/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/deepmind-claims-its-ai-weather-forecasting-model-beats-conventional-models/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 102
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-520682906-e1619014289419.jpg?fit=800%2C600&strip=all"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "UK class action-style suit filed over DeepMind NHS health data scandal"
-    excerpt: "A UK law firm is bringing a class-action style claim over a patient health data scandal that dates back to 2015 and involves the Google-owned AI company DeepMind, after it was quietly passed medical information on over a million patients by an NHS Trust as part of an app development project."
-    publishedDateTime: 2021-09-30T15:04:00Z
-    webUrl: "https://techcrunch.com/2021/09/30/uk-class-action-style-suit-filed-over-deepmind-nhs-health-data-scandal/"
-    ampWebUrl: "https://techcrunch.com/2021/09/30/uk-class-action-style-suit-filed-over-deepmind-nhs-health-data-scandal/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/30/uk-class-action-style-suit-filed-over-deepmind-nhs-health-data-scandal/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2016/05/p1040482.jpg?w=1024"
-        width: 1024
-        height: 768
         isCached: true
   - title: "DeepMind AI can accurately predict if it will rain in next 90 minutes"
     excerpt: "AI software developed by DeepMind and the Met Office in the UK can predict whether it will rain within 90 minutes more accurately than current forecasting models"
@@ -120,22 +104,6 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2021/09/gettyimages-462881839.jpg?w=3000"
         width: 3000
         height: 1688
-        isCached: true
-  - title: "Using deep generative radar models to predict rainfall over following 90 minutes"
-    excerpt: "A team of researchers at Google's DeepMind, working with a group at the U.K.s Met Office, has applied their knowledge of deep learning methods to the science of \"nowcasting\"—predicting whether it will rain in a given place in the following two hours."
-    publishedDateTime: 2021-09-30T15:00:00Z
-    webUrl: "https://techxplore.com/news/2021-09-deep-radar-rainfall-minutes.html"
-    ampWebUrl: "https://techxplore.com/news/2021-09-deep-radar-rainfall-minutes.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-deep-radar-rainfall-minutes.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 56
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/severeweather.jpg"
-        width: 1920
-        height: 1120
         isCached: true
   - title: "DeepMind develops AI that can forecast the weather"
     excerpt: "The project is a collaboration between DeepMind and the Met Office, the U.K.’s national weather service. The researchers involved in the initiative developed an AI system capable of forecasting rainfall up to two hours ahead of time."

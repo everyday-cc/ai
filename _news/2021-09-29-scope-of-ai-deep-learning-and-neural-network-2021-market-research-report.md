@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1102884604/Scope-of-AI-Deep-Learning-and-Neural
 webUrl: "https://menafn.com/1102884604/Scope-of-AI-Deep-Learning-and-Neural-Network-2021-Market-Research-Report"
 type: article
 quality: 67
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -34,6 +34,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Chipsets Market Research Report to understand the Competitive Dynamics of an Industry (2021 to 2028)"
+    excerpt: "The Artificial Intelligence Chipsets Market is segmented on the lines of its component, technology, end-user and"
+    publishedDateTime: 2021-09-28T18:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-research-report-to-understand-the-competitive-dynamics-of-an-industry-2021-to-2028-2021-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
