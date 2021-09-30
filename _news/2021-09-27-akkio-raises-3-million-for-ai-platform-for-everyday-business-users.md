@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Hayden AI Raises $20M, Its Third Investment Round in a Year"
+    excerpt: "The startup, only two years old, has now raised more than $30 million from investors. Amid its rapid growth, the company is looking at expanding its traffic automation platform toward self-driving vehicles."
+    publishedDateTime: 2021-09-30T20:42:00Z
+    webUrl: "https://www.govtech.com/biz/hayden-ai-raises-20m-its-third-investment-round-in-a-year"
+    ampWebUrl: "https://www.govtech.com/biz/hayden-ai-raises-20m-its-third-investment-round-in-a-year?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/biz/hayden-ai-raises-20m-its-third-investment-round-in-a-year?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/d79d319/2147483647/strip/true/crop/1170x610+0+119/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fb6%2Fad%2F2ee45bc48289cd1f01e0bddb037b%2Fbus-flickr-iridecapitalmetro.jpg"
+        width: 840
+        height: 438
+        isCached: true
 
 secured: "oZ5B/ENIIBHr53Gz6F7c1lRGGOAvLHhZtnisshteW11JxVDzn6soLjH86OiCxxhuSfeqzCv/NlHltYrkVz/OJ/prim9ucD/TlwjnOP1H0tfY3PPS+qNe/MY5suMOXGQJARNjGcgByCwKRFh9Kkh3tkGQeW7HkWk72ovSC8vkUxjimwNNZkB3nGOpVZXr/XVaw0/Lrz1fNmk9MkREWCiACz3HjFlQez/WTknLMyooOdAowEG00uyzFM8hHRVhhGIs+lvId+xPuXO+RoX3TGxOS1ifNQf7y6ARg2p+mnbBH8oKub/ylreEAmi9JTmzrmu6m3iTytwGv8TH36zW4K9C/yszS8JbgimuR9AldL6+WCM=;kydUvQNSK3GgxzxxWj9ADw=="
 ---

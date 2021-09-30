@@ -49,6 +49,20 @@ related:
         width: 1240
         height: 475
         isCached: true
+  - title: "Understanding The Levels Of Self-Driving Cars"
+    excerpt: "Why AI Autonomous Cars Aren't Yet Paying Attention To Honking Horns   - AI Trends Since semi-autonomous cars require a human driver, the adoption of those types of cars won’t be markedly different from driving conventional vehicles,"
+    publishedDateTime: 2021-09-30T03:19:00Z
+    webUrl: "https://www.linkedin.com/pulse/understanding-levels-self-driving-cars-leslie-liu"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHg-yrjFww8cQ/article-cover_image-shrink_600_2000/0/1632971974983?e=1638403200&v=beta&t=YE_jXhBZY1iC4Il9T-I-qCnFhxg_HRkB6GCPfuDaaYo"
+        width: 910
+        height: 390
+        isCached: true
 
 secured: "zYwRbr577OF9B2D5aCvb39i+5W2jGHScjUTqkMx+hy+a5qjALW/kFs4Vx7e+DVagvX1b+dGzEZ10MWQWNISarhpxp7e+HRrwyPAF0u1nrhRlBXOQ/AGxRpXd1BIWSltBjHzz+DEc9zV09HLRoq7amkXQX3t5vA9qCdrZrpinge17M11/S8YNW98Y3YRamaTH+7UdYlRbZ5JHlSMFpvVbPpkhmpz4TXX67PO3VlyXHnIErBhHFAPrVcC485fCF1G/TcnyRtntb5f3AGAyUH8PIBpTe6TRIrFsDMmGLIuqyii23ZB3io0YqIlGksNXCsTM8GYY4dHdNlxxbXechJRCCtnLR/A40n8rSUH78HAscqU=;3614nG+dlvU9syvNFawFyg=="
 ---

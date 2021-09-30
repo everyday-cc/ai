@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/388408"
 webUrl: "https://www.entrepreneur.com/article/388408"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -56,6 +56,17 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "3 Top Artificial Intelligence Stocks to Buy This Month"
+    excerpt: "Artificial intelligence (AI) has become a buzzword. But, it may be deserving of the hype given the technology's potential to disrupt various industries. Therefore, fundamentally sound AI stocks Cisco Systems (CSCO),"
+    publishedDateTime: 2021-09-30T20:34:00Z
+    webUrl: "https://stocknews.com/news/csco-stm-bdc-3-top-artificial-intelligence-stocks-to-buy-this-month/"
+    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
+    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
+    type: article
+    provider:
+      name: Stock News
+      domain: stocknews.com
+    quality: 39
 
 secured: "lj3znM4S7lDmRUGdU02BoYv1mxsQw18Xuf3gQiEyoZ4ESjkoscW3KcLXSyvnmcWah6RWJVNZdHJD5Tm56cMoHf8pVJ3NYtJEHNhybeNbf7o1ZfOPI9et+Li1Y+JGVUv3AuPte8+BOUCIyDaECUT3qUwFMAOf9Xw07A3nBh+LDPMvBM6NCcbK80nAeCBrGlZyimHiYfeVvDGepn6paQh03T5GQYv1FO/+jQWA9a34jLV5Tg6zPysemwliaUJnVN2oGkxsq4X7n+/MKRx7NEHp6UGOYF9yD+WWc66id4waR1wjjyVEMZdAzLJ+m4bbsVw3BmNxuxudtC4mY2wcxJh8wKgAvLA+uQNU94kmBIMtUXs=;sEgBeweAVKNi6GauDhZyJA=="
 ---

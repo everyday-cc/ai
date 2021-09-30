@@ -39,6 +39,22 @@ related:
         width: 1300
         height: 733
         isCached: true
+  - title: "Google is using artificial intelligence to make information more useful"
+    excerpt: "At its Search On event this week, Google revealed details about how it plans to use a technology it calls Multitask Unified Model (MUM), which should"
+    publishedDateTime: 2021-09-30T20:52:00Z
+    webUrl: "https://www.techspot.com/news/91514-google-using-artificial-intelligence-make-information-more-useful.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/91514-google-using-artificial-intelligence-make-information-more-useful.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91514-google-using-artificial-intelligence-make-information-more-useful.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 87
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-30-image-36.jpg"
+        width: 1680
+        height: 1120
+        isCached: true
   - title: "The Future of Artificial Intelligence In Manufacturing"
     excerpt: "Any company working in the manufacturing industry is likely to know that AI has been making significant improvements with a range of applications."
     publishedDateTime: 2021-09-30T11:11:00Z

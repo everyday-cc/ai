@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hyperlink InfoSystem To Showcase AI, IoT, and Next-gen Tech Solutions At GITEX Technology Week 2021"
-    excerpt: "GITEX Technology Week is one of the biggest technology events for MENA Countries in which businesses around the world sho"
-    publishedDateTime: 2021-09-26T03:15:00Z
-    webUrl: "https://menafn.com/1102863593/Hyperlink-InfoSystem-To-Showcase-AI-IoT-and-Next-gen-Tech-Solutions-At-GITEX-Technology-Week-2021&source=25"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 23
-    images:
-      - url: "https://menafn.com/updates/pr/2021-09/25/M_24a29image_story.jpg"
-        width: 800
-        height: 420
-        isCached: true
   - title: "SambaNova Systems to Showcase World’s Most Advanced Software, Hardware and Services for AI at GITEX 2021"
     excerpt: "SambaNova Systems, the company building the industry’s most advanced software, hardware and services to run AI applications, announced today that it will be attending GITEX Technology Week 2021 as part of the company’s goal to expand Artificial Intelligence and Machine Learning adoption in the Middle East and around the world."
     publishedDateTime: 2021-09-27T16:11:00Z

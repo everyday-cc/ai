@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/09/30/intel-announces-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/09/30/intel-announces-neuromorphic-loihi-2-ai-hw-and-lava-sw/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/56368/content/intel-loihi2-fingertip-hero.png"
         width: 708
         height: 502
+        isCached: true
+  - title: "Intel’s new neuromorphic Loihi 2 chip brings tenfold performance boost"
+    excerpt: "The company says that Loihi 2 is up to 10 times faster than its previous neuromorphic processor. Loihi 2 is significant for several reasons. It represents a new milestone in Intel’s efforts to develop neuromorphic processors,"
+    publishedDateTime: 2021-09-30T19:42:00Z
+    webUrl: "https://siliconangle.com/2021/09/30/intels-new-neuromorphic-loihi-2-chip-brings-tenfold-performance-boost/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/intel.png"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "3BwPjNlq55nBqqOoy2pKnygjFUzhaf5QNq9c7qUC0SC6c5HmAdirZulFx+D/BUQU48RbiFskxqwJ0QoDUpa2jkdimq1jLNiAtHXVPaH/ubAS8m3jVxtRtr2PBq+UZfdIRAVh9IeR6/0sH4TQpwQq/b6sv/CeOroTUKYaoQXR+CqsAHUjjVmuvmEMvLmrjzSZUeP6eHQD2jaxzi46F2EZDqtAiRXWhEatGB8XWFRzmDuHhucFPfb96gDiPIbZe881tribRraR9bXzuUfPw9UlHlD5kFvAl/6nJ+/4UhRZSItOJHNu9uYRUjbbyDURoFIsptHVEiq/kCWAKkm6fvLmWj3j8uC8xdjrad2LQlsjqVN1abubYNgMEAH3IPWUKVevRwe12z2luwwiJ8Fif4vq2XHISjHQEsA6shEptuJRY9TRcFBOx9yVf0Ple3HNS/+OdSqwPNqkGixTZfj9zZgjlhDe/Q4Zg8S00/uERMP2abN6hLF2R5vwgwJAvRN30Eo+TrY18KzyFUD3/k1yScWTkg==;wwHaOzawdnJYx4pZEylstQ=="

@@ -3,8 +3,8 @@ category: news
 title: "AWS to build new UCI Track Champions League data platform for Discovery"
 excerpt: "The new AWS fan engagement platform for the UCI Track Champions League is part of new tie-up with media giant's events arm."
 publishedDateTime: 2021-09-15T16:56:00Z
-originalUrl: "https://www.sportspromedia.com/news/aws-uci-track-champions-league-discovery-sports-events-app-cycling-amazon/"
-webUrl: "https://www.sportspromedia.com/news/aws-uci-track-champions-league-discovery-sports-events-app-cycling-amazon/"
+originalUrl: "https://www.sportspromedia.com/news/aws-uci-track-champions-league-discovery-sports-events-app-cycling-amazon/?blocktaxonomy=smartseries"
+webUrl: "https://www.sportspromedia.com/news/aws-uci-track-champions-league-discovery-sports-events-app-cycling-amazon/?blocktaxonomy=smartseries"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "zD7vFwcFljq6wNEH8sozlZu4pSYKy55jPNl/qT5DYjRJy+982AzA28cQnXpugkqlek9U8+vtTq1Bd62oiYQH6nD/ZfOuEsSN5u83NLO7GlQFjFmrtDC012/CxNNlE4v94ghvKZvAec4irSIhK+BkOtbTvpw98wyccLRy27/v2uLshiOAf45SVF1Ylvu/tR0uR5UZGQ/JJtd0Z15TUxiKFH1fX9hDdXOfsNnZhTDckVi0UYBnpgZ3DoAQ+eMgKLIVGljGUyR0wHQhsRQ4h+a45EDPxTdN7iy/CxZMht6XYGvQFfFiaObBoSKx4kWQ+EjqAASDfLSBtatmMsl2zmdMiYZf4mq3bxbu61DSWXnUAq9GZcyqybotoGUw8dciA78QIht+krwdQhpH6sbm36d6HOND3FG95SyjvHIXKUxc8YHDaB/JmlmOD221ibKv2ZAI/nN3Xn3W7swDTxtKkGKD8f9Tf2BtkASwKNiiy6Qd8pIZu1qFhYZcKH3Tv7ZnD9/t90AOTHWL/cKcOTcg28ZnSA==;6+0uLp3BJRvRSOMfWSSdKg=="
+secured: "iVQXoR3DUVIhlHdGdzvANTXEvHpm3NuwjaVgnb09hjUwzBBCjoq1aONpyddI/Be2itTMcfwvKxKKz07z3KrZsqqirynHy72+FIKk+fiptJGIddvtqnBzFRloEqV0kpP7lAJg9crLMHrk1yJVJIps6zJSGcnZqr1ybejiK23fw7junx+mwsTZAPxrb3Xp58udYQ90bvueUEvXvlsXHjwreIPmC0dKkvLkhFFFUzJWbv3ftCLAqXkj/Cm1ozYrNop5M4f7mLW7OGqqz0SkAD2Q7oJ35qXF5ANPEIynSoFngF9kA/GTZbwBYYy19HmUDUFVPha1GDaV+GhNLow7p4ZxOHzIHZN24d+0J0uvTEuJ8FiyK92vohOjERYXnF9RRGtfzS4hrun3kkJiR1nFg8kBwchMpoaRIbCFA0O/+KJlV0k5Hk5A7M60L3ESqL0JielNEktijhat1MliC+6zRoRggGU3fltwJY9sR/Ou/MqkVDvHXT7SXJQ5vZJAVachSYkDYszFANBNyxzIWN0s1CQiXw==;1PZOyPBh+PY/FdbwtkGI4A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/27/driver-killed-by-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/27/driver-killed-by-his-own-car-door-while-waiting-in-line-at-fast-food-drive-thru-providing-cautionary-insights-for-ai-self-driving-cars/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.arizonahighways.com/sites/default/files/styles/article_hero_image_1474x475/public/chevy_bolt_scottsdale.jpg?itok=hM1VqsJP"
         width: 1240
         height: 475
+        isCached: true
+  - title: "Understanding The Levels Of Self-Driving Cars"
+    excerpt: "Why AI Autonomous Cars Aren't Yet Paying Attention To Honking Horns   - AI Trends Since semi-autonomous cars require a human driver, the adoption of those types of cars won’t be markedly different from driving conventional vehicles,"
+    publishedDateTime: 2021-09-30T03:19:00Z
+    webUrl: "https://www.linkedin.com/pulse/understanding-levels-self-driving-cars-leslie-liu"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHg-yrjFww8cQ/article-cover_image-shrink_600_2000/0/1632971974983?e=1638403200&v=beta&t=YE_jXhBZY1iC4Il9T-I-qCnFhxg_HRkB6GCPfuDaaYo"
+        width: 910
+        height: 390
         isCached: true
   - title: "So 'Self-Driving' Doesn't Mean It Drives Itself? What DOES It Mean, Then?"
     excerpt: "Tesla, despite insisting (for regulatory purposes, and because it's true) that the \"Self-Driving\" software they're testing isn't really \"autonomous driving,\" is going ahead and opening its Self-Driving beta to any Tesla driver it deems to be a relatively ..."

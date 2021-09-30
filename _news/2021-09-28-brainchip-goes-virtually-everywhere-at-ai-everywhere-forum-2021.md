@@ -1,23 +1,25 @@
 ---
 category: news
 title: "BrainChip Goes Virtually Everywhere at AI Everywhere Forum 2021"
-excerpt: "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology, today announced that Vice President of Worldwide Sales Rob Telson will present “Intelligent AI Everywhere” at the AI Everywhere Forum September 28 at 1:15 p."
+excerpt: "Company executives offer their expertise on AI at the edge during conference presentation, virtual Q&A sessions BrainChip Holdings Ltd (ASX: BRN), (OTCQX:BRCHF), a"
 publishedDateTime: 2021-09-27T23:41:00Z
-originalUrl: "https://www.financialbuzz.com/brainchip-goes-virtually-everywhere-at-ai-everywhere-forum-2021/"
-webUrl: "https://www.financialbuzz.com/brainchip-goes-virtually-everywhere-at-ai-everywhere-forum-2021/"
+originalUrl: "https://www.benzinga.com/pressreleases/21/09/b23125189/brainchip-goes-virtually-everywhere-at-ai-everywhere-forum-2021"
+webUrl: "https://www.benzinga.com/pressreleases/21/09/b23125189/brainchip-goes-virtually-everywhere-at-ai-everywhere-forum-2021"
+ampWebUrl: "https://www.benzinga.com/amp/content/23125189"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23125189"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "BruglyjBGdwjlrIqeAKgxQCzA1TZ1d0k+KH2Nj9oKEokrE3OLwX+vp3bPdssIev2FbCTEIUEEYWUhnHuRM1mq3fJ4PNNT5mSqbbFUwKB5MSjhXOM4ugAtVKOKNKeJmJotlNmSffr6HHPoD0NwxiHXIkSbqkUmkMf9+cOKbotEHBeW+TOuMcBm6Wv9aaMYy83+9A0VuTVw+LtSA7reSKDl6DuSviBA26liyIZTh1VwakqTewl+ntXtVErwD1RyllzY7+sxF45E7VStITHFX+4+zihqeUJhSim7gFYzYJ0PoRddomUp4aMxysu8S3CbtuTVTq9EO/I8W2QhHhAW9lEJH7PoNWStxrzpcMddaWVOUQ=;kAc9NEHrqEcGbDYxbuMz8g=="
+secured: "SFG4x6dr9bAg5FVwfY1+qX7NNfkbEBVFN9c07RCHdeHcTFMJAj8biNFwrmxApEl5X0OYW0MkoszMQ7y3YDUeloqt5Yspr81AL/gg5fL935YrJ+nHttOE/IvG1qlydWQMLd8Jdpl+ZHN6wCCvEN3u4R2BKdPL1XkD4l5/uAlOx4zlpltvhwJY9/8CHkZUD4HWvEt3rtkY9ZFqgRJLCvbZWfyosAikOrg+Mqbpx4Z464TJbhk+UX/4ffMY2kRzeyTEDHs6QveIG1k+Gb1IrmMId72lXKCslT6LvEZ+krsda6SgrnUMFcJgDyO74uTjt1SZ/VzO5vpyMf+p1A+tuW01RpaHgGt1/NO94so4azg5zfA=;Lk/ib46GBRoq1x5MjV4OxQ=="
 ---
 

@@ -52,6 +52,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "3 Top Artificial Intelligence Stocks to Buy This Month"
+    excerpt: "Artificial intelligence (AI) has become a buzzword. But, it may be deserving of the hype given the technology's potential to disrupt various industries. Therefore, fundamentally sound AI stocks Cisco Systems (CSCO),"
+    publishedDateTime: 2021-09-30T20:34:00Z
+    webUrl: "https://stocknews.com/news/csco-stm-bdc-3-top-artificial-intelligence-stocks-to-buy-this-month/"
+    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
+    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
+    type: article
+    provider:
+      name: Stock News
+      domain: stocknews.com
+    quality: 39
 
 secured: "3TplsNLi4BaYkhDD67SlvtR+oiKIbTkaq3r0cVSa8xo5HwL7U5+Cv2PFFlRjSjG51pzChihrPPWIqRnqyNLVUUVyxH+GjcJAcEdelseQt4OAIvvNu4arwtQbpsvwxCP7fIneHIQwKoq1zC+yuF6yjzFj69Urh4jPzYeqDZx9sAFWy/Iu0qfNaoCqtxCdu4tfsLuMPTx4S2rTTWUXqNKLvyHCtBNl7K+tRxiCuBHHrcZLWfSiMC79jr1SKkqttxOJ40/MZW28Q0rxG437SVGOqOV9if0ejyd04xikH3mstk7XjslTM9iuvUrLED923V6Ef6N4KFoMciQv0oJzQ6Jew+9r8uPOR0mRbVECdcGE4EQ=;llgBe1hBnQUXkyqbj5baDg=="
 ---

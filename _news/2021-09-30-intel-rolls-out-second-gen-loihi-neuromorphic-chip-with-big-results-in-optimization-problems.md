@@ -107,6 +107,20 @@ related:
         width: 708
         height: 502
         isCached: true
+  - title: "Intel’s new neuromorphic Loihi 2 chip brings tenfold performance boost"
+    excerpt: "The company says that Loihi 2 is up to 10 times faster than its previous neuromorphic processor. Loihi 2 is significant for several reasons. It represents a new milestone in Intel’s efforts to develop neuromorphic processors,"
+    publishedDateTime: 2021-09-30T19:42:00Z
+    webUrl: "https://siliconangle.com/2021/09/30/intels-new-neuromorphic-loihi-2-chip-brings-tenfold-performance-boost/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/intel.png"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "f6d+HatObvt/Se2UTvoNciomahZIjLzYsxMa5vC9El1MGVwljD5GiFjC3egARVlZc6oXe25tbFqgKe+5dVfymgOYvIvczySINfgVaESKgpJHI6ArOz8+3OTIMwF2CH614Asv435cZszNdazkJ1+u21b1ZNI5/QdZ15kXyMsCYqi4ojPjrmq5T+VYXlKIYgLnnNsloVzm9sbIPOJ7F1f5/OhW6u+yjjgY5jTLJ4109RgmTznKQ7H4l4OvnCbeNexEdXE6WoMHcFiAEpg/aea3lDxkFnklRutZlTYFvAe7OclBHAReyXF7TLpLQHezrkK43qC4YKQyobVzpw5fwqeuuZby18nX7LgR9GPtxdCOPlO8jbo/jmYvWAckqTCXXy1OvmHJSphBam66HR75qWVBa++SEScSPFMTjtNbEtQSPrlvOvLyCBo9agc8MiT35cTAl0o9CWeT6tJSRzfCyX8EzFf1vazKLwsfCEyQqVyVe7/rEOFBMYch+pSCe/UWQW7x5UZl65vWjG/v7WZhEnnlkw==;bQXyM3uXDMO+xgSgnPGTFg=="
 ---
