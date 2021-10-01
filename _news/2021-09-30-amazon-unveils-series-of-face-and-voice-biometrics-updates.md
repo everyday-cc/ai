@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202109/amazon-unveils-series-of-fa
 webUrl: "https://www.biometricupdate.com/202109/amazon-unveils-series-of-face-and-voice-biometrics-updates"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "IQ-AI says new publication shows impact of Imaging Biometrics software solutions"
+    excerpt: "Neurosurgery Open published a study that suggested that IB Clinic should be routinely used to optimise surgical guidance and pathologic diagnosis"
+    publishedDateTime: 2021-10-01T11:43:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/961962/iq-ai-says-new-publication-shows-impact-of-imaging-biometrics-software-solutions-961962.html"
+    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/961962"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/961962"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 52
+    images:
+      - url: "https://www.proactiveinvestors.com//thumbs/upload/News/Image/2021_10/1200z740_1633080116_shutterstock_570241147-(1).jpg"
+        width: 1200
+        height: 740
+        isCached: true
   - title: "Auraya launches voice biometrics for forensics, adds SaaS delivery model"
     excerpt: "The new offering is the renamed third-generation of EVA Fraud Manager, which is now available through an SaaS delivery model."
     publishedDateTime: 2021-09-29T19:50:00Z

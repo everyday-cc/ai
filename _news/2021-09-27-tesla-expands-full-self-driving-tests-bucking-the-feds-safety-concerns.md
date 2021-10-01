@@ -171,6 +171,22 @@ related:
         width: 1024
         height: 555
         isCached: true
+  - title: "Tesla’s full self-driving mode is actually not fully self-driving"
+    excerpt: "The capability is marketed as a way to take your hands off the wheel, but some experts, including Alistair Weaver of Edmunds, say the technology isn't ready."
+    publishedDateTime: 2021-09-30T16:17:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving/"
+    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving?amp"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving?amp"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 59
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2021/09/GettyImages-490598518.jpg?fit=740%2C416"
+        width: 740
+        height: 416
+        isCached: true
   - title: "Tesla's 'full self-driving' feature could be days away for approved drivers"
     excerpt: "A wider group of Tesla owners who paid up to $10,000 for what the company calls its \"full self-driving\" software can now ask the automaker for access to a test"
     publishedDateTime: 2021-09-29T00:30:00Z

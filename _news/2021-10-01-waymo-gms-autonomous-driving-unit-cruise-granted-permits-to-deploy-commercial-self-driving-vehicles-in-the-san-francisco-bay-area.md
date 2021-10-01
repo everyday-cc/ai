@@ -25,23 +25,16 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving startup Aurora maps out commercial strategy"
+  - title: "Self-Driving Startup Aurora Maps Out Commercial Strategy"
     excerpt: "Self-driving startup Aurora says it has discovered a path to turn costly self-driving vehicles into a profitable business, showcasing its technology to investors this week ahead of a public listing it hopes will provide some $2 billion in additional funding."
-    publishedDateTime: 2021-09-30T19:30:00Z
-    webUrl: "https://www.reuters.com/article/aurora-autonomous/refile-self-driving-startup-aurora-maps-out-commercial-strategy-idUSL8N2QU6AD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2GQ1YO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2GQ1YO"
+    publishedDateTime: 2021-09-30T17:07:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-09-30/self-driving-startup-aurora-maps-out-commercial-strategy"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210930&t=2&i=1576450918&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH8T103"
-        width: 726
-        height: 545
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
 
-secured: "9CUz0KILFBlFElgo3hHtY/Pj8RiftsMMPB2kHPuDATO4pC6FFAFkSmJB1r1SKSrF/KVLybRZvMvd2WJruM/UUMp4jN+jyIPI1ET/CIgFzXrtyowhzeSUa55s9lYisN9s73+4JO5HfQgbMdLxAbG4Z8/VEp/WMJjFWWz4EynbDS5te0/5t0fDiAuMmSQnriajyuJFnQMh6ZaVpK+v4YpSTAd7UJTVGZIKKBsKO+E56CbglB3bO259suzp8aTsYQej5raxuOBWTZ8Y6RfqXfdYXKRiNP7uL4byIyw9YQrX8VMt7LEbFZF5rg2E7U1pw4u5iEm9sojDbsUACOtbgiPPKLbIoG82EGOZINlHo/0gYHw=;so+/r/0HI7XdVx1AuDo4tA=="
+secured: "Og6LpH19PhZU+fjsyzZf43op9fFk8qaQuDm5cshTxn+BAlXap0oLddZwTKn5WSYq2YMFXnt3KmkYsruvZwWjYfpDCQ96xlm7HARW0/9joB76qV93Xysfq/l1VFqPdqcyIspHug/hxA3g9yUsVukIXi56bgwrFhS3eJMQaL6dbcw4Ttcubr6pM/rus9eP7qhiFx3+cCCxjc8IqBoPLIySG/rDs4wRjhX5lhyYecCMUqe2JWh6Gdhkj8zM1JxcKcIshmaZQLBQUvZ/TrhI3Ojisuk110FUKzY07zf/glrKjUSe3Qa1Wl2cFG5RxaoNDxjYftybFlxJY6ejZEPfSydZIjMlVTKMdTTeYIA5J/JxryeWDq2sgZBr8SNRfSzv+ZaPgpAQWeKqiZ8agYYOgU9jxnqhG/TYG2jp+VoRsUjZoisyL3T1DGJkTXw5mWsms94+wcF2gcrVGETyHP43T+KyrEn7aF1ubrutj3A4y0ZUfs6bh5AUfybElyF5fhD7ZQxZVTpt8ys0EY/NQR1NYIAwZg==;nMxJKfHIUnENjm06wLGLvw=="
 ---
 

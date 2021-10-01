@@ -53,6 +53,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Fintech investments are on high level – Top 10 countries leaders for H1′ 2021"
+    excerpt: "The global fintech market made a strong start in 2021. Global fintech investments recorded $98 billion in H1, 2021 with 2.456 deals, according to KPMG insights. In H2, 2021 global fintech investments reached 87 billion dollars."
+    publishedDateTime: 2021-10-01T11:16:00Z
+    webUrl: "https://ceoworld.biz/2021/10/01/fintech-investments-are-on-high-level-top-10-countries-leaders-for-h1-2021/"
+    type: article
+    provider:
+      name: CEOWORLD magazine
+      domain: ceoworld.biz
+    quality: 21
+    images:
+      - url: "https://cdn.ceoworld.biz/wp-content/uploads/2021/10/Fintech.jpg"
+        width: 960
+        height: 539
+        isCached: true
 
 secured: "b5/VrXzKpmr3NpNeAh3rypKudvAS+k2xSto48O6s+aXYiPzrQgqmZBYtDr/dgumagAULBlVEGPDa3Tdtbqe2EnD6dD/DT+SE8aJgzKwVw0KGPIrI7PWUR5lOpdHruBLcGMHPCBmI4ahW2+tL3/xOAtLTqoubYGFdNy2NEEBX0vlY0QFDM/59N/yVTal/4QXeERVAs0gf9ZcKnZT9uwCkel9ykOO9DE8iOX11N+0rKPXbNfYqDDrSMb3pCkOlnANnBd1go8GjbL4mviSix0muUnrBP6sMThnlX4wJbC+jVDLm1oE2Eh0Ps4CgF3yaHtEqRukb4S7Xk2wDpVth9qv4t7dduhGV/0l3raSl/y565tz/1RMzr7gsm9gXNjL0/icCzEomus/BNXaVNygyA6V65GAjn/fugsOdlPAW4Oxz974dARybZjq/LkiiOulKykJJUMExrjgeXJyex+iYF++yB5NFttBVwf8Bz36y1/pCZuFLcUa5RxD9a0QikQHJQjLEEQZDyj4EHbdV6qw6Xt3obg==;/M1Dd9VvcNNtUY0I6f1veg=="
 ---

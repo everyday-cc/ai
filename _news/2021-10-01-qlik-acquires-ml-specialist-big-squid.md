@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Qlik acquires Big Squid for augmented analytics with no-code automated ML"
+    excerpt: "Qlik acquires Big Squid for augmented analytics with no-code automated ML Qlik announced the acquisition of Big Squid, a leading provider of no-code automated machine learning (AutoML), to expand data and"
+    publishedDateTime: 2021-10-01T10:52:00Z
+    webUrl: "https://www.dqindia.com/80112-2/"
+    ampWebUrl: "https://www.dqindia.com/80112-2/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/80112-2/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 58
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2017/02/RPA.jpeg"
+        width: 540
+        height: 370
+        isCached: true
   - title: "Qlik Expands Into Machine Learning Realm With Big Squid Acquisition"
     excerpt: "Big data analysis software vendor Qlik is acquiring Big Squid and its no-code automated machine learning AutoML tools to boost augmented analytics."
     publishedDateTime: 2021-09-30T04:55:00Z
@@ -40,18 +56,18 @@ related:
         height: 1300
         isCached: true
   - title: "Qlik acquires Big Squid"
-    excerpt: "Data analytics and integration solutions company Qlik has acquired no-code automated machine learning (AutoML) provider Big Squid. Qlik announced the move as part of its move to expand its data and analytics teams’ ability to leverage advanced augmented analytics capabilities such as key driver"
-    publishedDateTime: 2021-09-30T23:48:00Z
-    webUrl: "https://itwire.com/strategy/qlik-acquires-big-squid.html"
+    excerpt: "Qlik announced the acquisition of Big Squid, a leading provider of no-code automated machine learning (AutoML), to expand data and analytics teams’ ability to"
+    publishedDateTime: 2021-10-01T11:03:00Z
+    webUrl: "https://technuter.com/channel-news/qlik-acquires-big-squid.html"
     type: article
     provider:
-      name: ITWire
-      domain: itwire.com
+      name: technuter.com
+      domain: technuter.com
     quality: 24
     images:
-      - url: "https://itwire.com/media/k2/items/cache/c47dbbac9debca97d35c612a099c13a0_M.jpg"
-        width: 375
-        height: 339
+      - url: "https://technuter.com/wp-content/uploads/2020/05/Qlik.jpg"
+        width: 333
+        height: 285
         isCached: true
 
 secured: "ps0kvD6GuQqcPI6qqLHndubyvydN+msunpo0DCIYjwxMrK0yviRI4P2jwAI+/IT7ucqYx8Al6LTUqdbmHuT74pkZSCZMCRocCWJ0YsG16BK+wmDTwXEiqhQrnvzyiruROx60/2f3UuhADsJjcCNteGqdCIS3uAl1QHZAf+tYoqM/aNbjRvlZEYHsmCDuozp9tkIAU1ASxlcfbqmjMnom/3OmyP1ixgZ0lgYudAZ/74REfxKx5OubshyqDavRZn8W+YQ62TZLf0QYlUQYbqC6J1TXjJ/CqYwRvEIhIjk9YhWiuPA5YC1GpDyIm847/egIeAVrcggWXObZlBfHICbtVJkp8VmCxyNFnHB+Byte0C1xYvrF8VI20nmfWWTWK9oVjjxy2o7DEqU/+ESF2eIbDyNbf8bUEXxBI7PqAZqqplusipmbkIjJZkSDAPF3Pytma0VolPHCqXDmVRvVCjB36gfkUZ5U+ZJFJt1ph8ht7HM7Mou+DKguzymmbQCIUW1/8JeozyjnhS2viqwxuphZAw==;Ggska9PFLsliy6tvEH2Dbg=="

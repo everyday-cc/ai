@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/applications-os/qlik-expands-into-machine
 webUrl: "https://www.crn.com/news/applications-os/qlik-expands-into-machine-learning-realm-with-big-squid-acquisition"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Qlik acquires Big Squid for augmented analytics with no-code automated ML"
+    excerpt: "Qlik acquires Big Squid for augmented analytics with no-code automated ML Qlik announced the acquisition of Big Squid, a leading provider of no-code automated machine learning (AutoML), to expand data and"
+    publishedDateTime: 2021-10-01T10:52:00Z
+    webUrl: "https://www.dqindia.com/80112-2/"
+    ampWebUrl: "https://www.dqindia.com/80112-2/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/80112-2/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 58
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2017/02/RPA.jpeg"
+        width: 540
+        height: 370
+        isCached: true
   - title: "Qlik acquires ML specialist Big Squid"
     excerpt: "Data analytics and integration software vendor Qlik Technologies has acquired Big Squid, a developer of automated machine learning technology, in a move that expands Qlik’s augmented analytics capabilities and builds on its “active intelligence” initiative."
     publishedDateTime: 2021-09-30T19:28:00Z
@@ -40,18 +56,18 @@ related:
         height: 900
         isCached: true
   - title: "Qlik acquires Big Squid"
-    excerpt: "Data analytics and integration solutions company Qlik has acquired no-code automated machine learning (AutoML) provider Big Squid. Qlik announced the move as part of its move to expand its data and analytics teams’ ability to leverage advanced augmented analytics capabilities such as key driver"
-    publishedDateTime: 2021-09-30T23:48:00Z
-    webUrl: "https://itwire.com/strategy/qlik-acquires-big-squid.html"
+    excerpt: "Qlik announced the acquisition of Big Squid, a leading provider of no-code automated machine learning (AutoML), to expand data and analytics teams’ ability to"
+    publishedDateTime: 2021-10-01T11:03:00Z
+    webUrl: "https://technuter.com/channel-news/qlik-acquires-big-squid.html"
     type: article
     provider:
-      name: ITWire
-      domain: itwire.com
+      name: technuter.com
+      domain: technuter.com
     quality: 24
     images:
-      - url: "https://itwire.com/media/k2/items/cache/c47dbbac9debca97d35c612a099c13a0_M.jpg"
-        width: 375
-        height: 339
+      - url: "https://technuter.com/wp-content/uploads/2020/05/Qlik.jpg"
+        width: 333
+        height: 285
         isCached: true
 
 secured: "sqA2MNFcheSpYPBZaPFW2pk+AE+aigmKK7E2j6UWk5BLkZE9GT0RBoJE2yJ2JtjbP6eQNfuLAKicc6YTwWR+fQry+A0nitVMoU2RtT0i9YBCCXdgZvRYh1Kh2fhwhiHPzWhiXaRYXwpR+7tRLw5ihlz6/sbX2dZVnz2JbH8d/+p/XjVRIUSWxO/AQU0Y2ySMm1uJLW+za5+Y4xznBQm462PBhUJ9qloPCAv8xnnwjYqzavXfoDfwyTzFqo0a+5DERKP3uKHIJZw3tJujZj7eBmn6LAYxpZ7yScT9GgnPEpTF8e93oZRp0u1m/lX7e8SJIAPp8CNi5+rhz9yQM6zCBNc44sBndRa6E11GH+qqOKg=;W4+0iBAIfIqP2B7ifK3Owg=="

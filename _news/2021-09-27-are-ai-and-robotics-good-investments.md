@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/ai-robotics-good-investments-james-
 webUrl: "https://www.linkedin.com/pulse/ai-robotics-good-investments-james-sanders"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -80,6 +80,15 @@ related:
         width: 770
         height: 364
         isCached: true
+  - title: "Launching AI Enabled Appreciate - A trusted partner for better returns and global investments"
+    excerpt: "Appreciate will help one invest in US equities to access better returns - so they can get more value for their investment, and can lower risk through global diversification. Today, international investing is plagued by complicated paperwork,"
+    publishedDateTime: 2021-10-01T11:02:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-launching-ai-enabled-appreciate-trusted-partner-better-returns-/2021/10/01/9460636.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "aNODzVhDzlopl6xVcxL4OFEZ+xzMNz7jc8vndVs9ToGLwgyaQTywksLkVCMqkyj4xAYut2JjVQYEpU1Avz3OQWk3YFf9RCzZbe2x8IFMZpyiAsaBuEk261ucxda/J4AJ9tzEClGjWRmmxcRbTZiZH1X8tjJXdkZ6cTv5LpIvtJFTSqzq+bWNgcw1f4oq6gutF7vBFymWn9npALGBHgbVRae9xu2kv7I+4SR89GyyzmgfFMfzGESMGeFJe7F/2CMFOyVvUsSfOb0kQ3ayLOaSo4dgLNlOZyM+XH8O7+eWlixqK7clhhovfdrxHCl7TBjkMtO4g84NZs8nbW1wpMO4RBZ+DJCMcNUv1eywmzCvsug=;LDHG5WLjDXk1GJorK8Mk5A=="
 ---
