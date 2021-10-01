@@ -11,7 +11,7 @@ affiliation:
 twitter:
   username: geoffreyhinton
   url: https://twitter.com/geoffreyhinton
-  followers: 126749
+  followers: 126746
 
 googleScholar:
   url: https://scholar.google.com/citations?user=JicYPdAAAAAJ
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Geoffrey Hinton"
 
-secured: "431P9OTpYLYFiDYdlz4AYZoQaqSFfbRefaFeSmdSXnSyD3Lyb4oar4LW06CRBXwRpFoAh/qaR0roWq5W9MBBHUnJ/yMFjYVuaVEHSlWjBSTjXM1Ej/+kwaqB3tAfFIT+neFscOz8/uPfzwIp0uLpMjT17rIFib6ZhZr9sxVMVa5JkvTk/vvqSpCKGVkWkT3QRBXbBqsGmMHGa6DEWQOqw96ff60n5Nn45ld0QLQTReY7GModl9MEM58IBpOW62UYJIhIuSn1HjIIBs30NDyKiSR08VelM9kodUSt3InkFSuGxX97y3u/sJHhMPpoQwxrQ9F/Vr05BllQF8ha+0qt1KZcR3S50+k3K7xTMAuxaF1nGq6NP0eiRktgnFjkOzRO75Sb3Y7fyCwp9CC7ZXm14WDdhlNKZ2aj98rmb075Ub0=;PivGOS6Xmjeol0B2qOT3RA=="
+secured: "sMJTXRTaV/wHDFPoVV2DGURH8PK+aT5Ndvb4cegK0321URiAEsFw2DFEsQOXSW19nRJ5fve1RUNF9hgC8x1KAUbCym4dpkCxJFOhsibkOoOPKl3FUmXJqptOX6KNllfTJhHNzWr5Qobfsk8AvPB0vrnziY328g70Hm/uIlgH7W0JP8D0JE2kSn1c9bBAo1uaqNOp7gZ7XPfl2FSiJnfEmnmB5Wt4ZHser2e77NyJAhRPQukSkwL0G19RkUH6xiVUMEgPtoyiBFWXU3zxaiQMbanHJ1iWRf8GjMUfbUZOv4BFIWMOgTCAovEqBj4PY0Pkg61UsSIrWCCf6ceuyHGIq4c+VhOBzCMTtBiIKArkOrRcyIqeegxvRtckjZuqftTQ3ICYa1umKVzK+tDwWhUfWLu5OdvJ6h/aJclERw59HcQ=;hUjphfIuPfkhZ2FYBmhBeg=="
 ---
 
