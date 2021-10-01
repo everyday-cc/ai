@@ -99,6 +99,20 @@ related:
         width: 932
         height: 517
         isCached: true
+  - title: "More Organizations Saving Time and Costs on Data Breaches with Automation and AI"
+    excerpt: "Cost of a Data Breach report shows, AI and automation can reduce the cost of a data breach. See how organizations with AI security fared in 2021."
+    publishedDateTime: 2021-10-01T17:30:00Z
+    webUrl: "https://securityintelligence.com/posts/save-time-money-data-breach-security-ai-automation/"
+    type: article
+    provider:
+      name: Hack
+      domain: securityintelligence.com
+    quality: 32
+    images:
+      - url: "https://securityintelligence.com/wp-content/uploads/2021/10/Data-Breach-1.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "D52havg/SvHBKB6q4B/gOaGxX07NLe28MJ4IyDRjzyxSOH6jFkBvrXPzGc1TcQHhmLM4VBT6kRtqP+VqAbPmSDt6al6rQOhA/OfJY72xw7gfX4El3n4ORDGYLbto2XzJvChepVybjpFfo91Yuoq+lG7srX0CBrffyopN+JIAgrqgUgjQ8b9Vun9RRADE1MBgvGQJJdS+ozylbRTCCE0JaSM2qGbXt+LkbwZbmwMmvgReWVFXMU5K40Xov878R64oe2ElpiH7228ktLc27agngZJml/A6NpP6LW1lzF92YQs2BZ2PUJNukEfENzcieBevHWEKwwCPSLfOm28KekA4/0YfySDHMhvr7L2HDfAQU44=;A7sSvCxxIlMB6TgMF/nU2Q=="
 ---

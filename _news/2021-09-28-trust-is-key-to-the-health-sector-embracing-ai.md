@@ -29,49 +29,53 @@ images:
     isCached: true
 
 related:
-  - title: "Vendor Management Is The New Customer Management, And AI Is Transforming The Sector Already"
-    excerpt: "Sourcing and vendor management are more complex than ever, as companies move into emerging fields and leverage third-party suppliers to provide what cannot be internally produced. Vendors play long-term and essential roles in businesses."
-    publishedDateTime: 2021-09-26T23:55:00Z
-    webUrl: "https://www.forbes.com/sites/anniebrown/2021/09/26/vendor-management-is-the-new-customer-management-and-ai-is-transforming-the-sector-already/"
-    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/09/26/vendor-management-is-the-new-customer-management-and-ai-is-transforming-the-sector-already/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/26/vendor-management-is-the-new-customer-management-and-ai-is-transforming-the-sector-already/amp/"
+  - title: "How AI deployment is changing the game of healthcare ecosystem"
+    excerpt: "While deployment of intelligent bots in healthcare sector, has many beneﬁts and futuristic possibilities, Ayush Verma, Practice Lead, AI & ML and Shveta Raina AVP, Communication & People Strategy, Avizva point out that most healthcare providers refuse to let go of legacy systems and resist adapting."
+    publishedDateTime: 2021-10-01T06:17:00Z
+    webUrl: "https://www.expresshealthcare.in/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/"
+    ampWebUrl: "https://www.expresshealthcare.in/amp/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/"
+    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 77
+      name: expresshealthcare
+      domain: expresshealthcare.in
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6151081fe5f90b68e8c672ff%2F0x0.jpg"
-        width: 720
-        height: 480
+      - url: "https://cdn.expresshealthcare.in/wp-content/uploads/2021/10/01121218/EH_Ayush-Verma_Shveta-Raina_Avizva_750.jpg"
+        width: 750
+        height: 400
         isCached: true
-  - title: "AI is transforming your job, not terminating it"
-    excerpt: "For those who aren’t familiar with the pop-culture reference, the film focuses on self-aware military AI that sets out to exterminate all of humanity using robots, cyborgs and drones. Fast forward to 2021,"
-    publishedDateTime: 2021-09-27T07:32:00Z
-    webUrl: "https://www.retailgazette.co.uk/blog/2021/09/ai-is-transforming-your-job-not-terminating-it/"
+  - title: "How the AI Economy is Shaping Cities"
+    excerpt: "Like other technologies, artificial intelligence tech seems to be clustering in a small group of cities, prompting questions about its uneven deployment."
+    publishedDateTime: 2021-09-27T17:00:00Z
+    webUrl: "https://www.planetizen.com/news/2021/09/114779-how-ai-economy-shaping-cities"
+    ampWebUrl: "https://www.planetizen.com/news/2021/09/114779-how-ai-economy-shaping-cities?amp"
+    cdnAmpWebUrl: "https://www-planetizen-com.cdn.ampproject.org/c/s/www.planetizen.com/news/2021/09/114779-how-ai-economy-shaping-cities?amp"
     type: article
     provider:
-      name: Retail Gazette
-      domain: retailgazette.co.uk
-    quality: 37
+      name: PLANetizen
+      domain: planetizen.com
+    quality: 57
     images:
-      - url: "https://www.retailgazette.co.uk/wp-content/uploads/2021/06/Roubler-1-696x270.png"
-        width: 696
-        height: 270
+      - url: "https://www.planetizen.com/files/images/shutterstock_566361814.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "How artificial intelligence can benefit the egg sector"
-    excerpt: "Artificial intelligence not only makes data gathering and processing easier, it unlocks the possibility of predicting what will happen next in the layer barn."
-    publishedDateTime: 2021-09-29T12:29:00Z
-    webUrl: "https://www.wattagnet.com/articles/43655-how-artificial-intelligence-can-benefit-the-egg-sector"
+  - title: "In health care, many AI developers are white men. UNT is trying to diversify the field"
+    excerpt: "NIH has awarded $100 million to UNT’s Health Science Center to lead a project to train a more diverse artificial intelligence workforce."
+    publishedDateTime: 2021-10-01T13:45:00Z
+    webUrl: "https://www.star-telegram.com/news/local/crossroads-lab/article254627992.html"
+    ampWebUrl: "https://amp.star-telegram.com/news/local/crossroads-lab/article254627992.html"
+    cdnAmpWebUrl: "https://amp-star--telegram-com.cdn.ampproject.org/c/s/amp.star-telegram.com/news/local/crossroads-lab/article254627992.html"
     type: article
     provider:
-      name: WATTAgNet
-      domain: wattagnet.com
-    quality: 37
+      name: Fort Worth Star-Telegram
+      domain: star-telegram.com
+    quality: 51
     images:
-      - url: "https://www.wattagnet.com/ext/resources/2021/09/29/Madual-data-recording.JPG?height=1200&t=1632918473&width=635"
-        width: 635
-        height: 846
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998025001/2340e14e-4f45-4695-9892-84dcbc329c46/72b75ebd-71db-476e-b439-8f39c1841709/1280x720/match/image.jpg"
+        width: 1280
+        height: 717
         isCached: true
 
 secured: "Vlu+DKU/go/3U27hgbkxpDeQjL04V7vMZ4rYqRYHNKNoFciS5S6DEw2S3MIkVjQpvv4uyCgVbVH8+PeQl1z5t+hHreS2S2eE+jpoi9fBlJPK10eEIxOncZhxdWM+OH5tbMSSiV2U2G+vVBMuw0uHdEZxa7y8wsXe7GL88/As8iUtfxWeAmLlcRzKjCeFa924OeVwyCmzKAQr9/sPPZfFsn/H10M7Iv8WVjEQU47zwP+YyirN8BsOZ0tLA087m+1Xt9uO2mgG3k3a9mYoX8mJTquRvzyldSyy73dy2rwTjpHeFPNmhV4GX8qDilrhAYRn6B8ZeO1F8JBZa4Zar1OJcPFa7URY3v6+76RfrLU8Cvp3Tzh/jX1yMT9DSaxbV4iIF8eu3BcrH2mCXOQKx13HHFTzikxQQahZlE2G40Pmf6zHpBPrANHR9AuCqSblx36bhG4+rUQwuVHiO/2suFVyfAgmBLWfO+Seoj/h90hlcsoWLe4gKMtNxjBIBN3VzFKUFB9D7mxnZPLJVkOJiiBKEg==;XeYkvX6DRIhkMslXRfz9bQ=="

@@ -24,49 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Vendor Management Is The New Customer Management, And AI Is Transforming The Sector Already"
-    excerpt: "Sourcing and vendor management are more complex than ever, as companies move into emerging fields and leverage third-party suppliers to provide what cannot be internally produced. Vendors play long-term and essential roles in businesses."
-    publishedDateTime: 2021-09-26T23:55:00Z
-    webUrl: "https://www.forbes.com/sites/anniebrown/2021/09/26/vendor-management-is-the-new-customer-management-and-ai-is-transforming-the-sector-already/"
-    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/09/26/vendor-management-is-the-new-customer-management-and-ai-is-transforming-the-sector-already/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/26/vendor-management-is-the-new-customer-management-and-ai-is-transforming-the-sector-already/amp/"
+  - title: "Sina Bari MD Shares 3 Ways that Computer Vision is Transforming the Medical Field"
+    excerpt: "The medical field is constantly evolving in our day and age, as is technology. We are all familiar with the types of technology, computers, cellphones and software that’s out there. But when it comes to the specifics and details of technology or a form of artificial intelligence,"
+    publishedDateTime: 2021-09-28T14:00:00Z
+    webUrl: "https://ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/"
+    ampWebUrl: "https://ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/?amp=1"
+    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/?amp=1"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 77
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 54
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6151081fe5f90b68e8c672ff%2F0x0.jpg"
-        width: 720
-        height: 480
-        isCached: true
-  - title: "Trust is key to the health sector embracing AI"
-    excerpt: "By Leisa Maddoux, EY Global and US Health Transformation Practice Leader Health organizations are increasingly using artificial intelligence (AI) to drive performance. In a recent EY webcast, “How health organizations can build and safeguard trust in AI,"
-    publishedDateTime: 2021-09-28T16:30:00Z
-    webUrl: "https://www.linkedin.com/pulse/trust-key-health-sector-embracing-ai-leisa-maddoux"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEmNAEyV91W1g/article-cover_image-shrink_600_2000/0/1632846361133?e=1638403200&v=beta&t=Q_ppLIh8pBtI8ppd600m8F9rcl0OviCSLK3ztcRb-8A"
-        width: 744
-        height: 400
-        isCached: true
-  - title: "How artificial intelligence can benefit the egg sector"
-    excerpt: "Artificial intelligence not only makes data gathering and processing easier, it unlocks the possibility of predicting what will happen next in the layer barn."
-    publishedDateTime: 2021-09-29T12:29:00Z
-    webUrl: "https://www.wattagnet.com/articles/43655-how-artificial-intelligence-can-benefit-the-egg-sector"
-    type: article
-    provider:
-      name: WATTAgNet
-      domain: wattagnet.com
-    quality: 37
-    images:
-      - url: "https://www.wattagnet.com/ext/resources/2021/09/29/Madual-data-recording.JPG?height=1200&t=1632918473&width=635"
-        width: 635
-        height: 846
+      - url: "https://submission.icrowdmarketing.com/assets/source/users/2087/Sina%20Bari%20MD%20Shares%20How%20Computer%20Vision%20is%20Transforming%20the%20Medical%20Field.jpg?1632508900522"
+        width: 1600
+        height: 1067
         isCached: true
 
 secured: "96YjkfyHraFBrIvOyNvet2RGT9D993AVs9GNMs3NUR9R9xDzwhJ9F9LCt15Ufpl5lo3YJTYBmXi56iqCwB1CLrUd4iVNyNhOblXI8j07L2uXtY13WWlR3XrydWAE6QV5zB5lX+NLR5HAX27IF2gbCixVnNZLn4dwBM+duA1ixBZZmQ8GtbupdvyRJrn909J+5iFcwAomI9FTfVfXF6rmbQ5Ewxoogw7ssVKUDqydbLycp8am43TQQhLaujANPuEMCj4y/qdPNcPgmyl52a35RaIhlivWbWig7R9ekZqMFdAPvoTOsC8ClP6Jj3XZmdxNRXqY/Mw24hgs5JcAyCNrZzZzQ2s5XYV3d/on+vgjukw=;tJlYUQU+qCldtN6Z4apjBg=="

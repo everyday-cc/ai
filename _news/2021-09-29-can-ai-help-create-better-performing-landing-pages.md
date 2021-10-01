@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/paultalbot/2021/09/29/can-ai-help-creat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultalbot/2021/09/29/can-ai-help-create-better-performing-landing-pages/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "How sea slugs can create better artificial intelligence systems"
+    excerpt: "Control Engineering - For artificial intelligence to get any smarter, it needs first to be as intelligent as one of the simplest creatures in the animal kingdom: the sea slug."
+    publishedDateTime: 2021-10-01T16:07:00Z
+    webUrl: "https://www.controleng.com/articles/how-sea-slugs-can-create-better-artificial-intelligence-systems/"
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 41
+    images:
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/10/CTL2110_WEB_IMG_Purdue_QuantumAI_SeaSlug-Slider.jpeg"
+        width: 645
+        height: 350
+        isCached: true
 
 secured: "rhWFEv0Ky9K1DMme+29hagxAiZ2CD/yHrJtL+vXelT3g46tolnRtHkQnMVqFNxJwP2/ZAtEuoEhFuH3NWWdjz4pUlHBsZITkThLKUy5N69sqYdhBk48alhN6YlaLWzBbod7cXwy654sAqWmD1DFRI8I50JEXHvFiZqvUL91pR3Yq5oqmGtECvDqw9K0We5siUOV82t61+MzhKbJbfeo88HTD/RFk3B+IlAcrtoCN6W8yA5d/FQpKupaxatKvUFu9dtrvpNnlFEqBgvKpvKZQYxKiahEGhhAlaGEJQpAZT6nq7rO/eUuW6mRmvSj1K2PsvGZkSBWc2xc0ePOd5dBWBcMuj9gQeu36Cp0Ys04wwSlutNsqJwA/ENg7kY4Ed6fNH7IK4WHvCCG1lmneJFLQUaS29VM9Aali+oIiFPxgxNOE34S9THyRxUagCRxMDQL1bdr6HK1inRTkVTXgbQoWpJKQtPjF6HMh4mmoudFDxCdDrEJuF8oobjW7/lrDbsF+Qxo2po32+7vIAWoqVUelBQ==;bMQlHsAfcDwwxFde4HyYsw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nd
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/amp/"
 type: article
 quality: 188
-heat: 428
+heat: 438
 published: true
 
 provider:
@@ -298,6 +298,20 @@ related:
       - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_720,q_auto:best,w_1280/v1/cms/uploads/z46x0k3fetebxlmui7fl"
         width: 1280
         height: 720
+        isCached: true
+  - title: "See how Tesla's 'full self-driving' mode works"
+    excerpt: "Despite concerns from regulators,Tesla is rolling out its autonomous driving feature to some owners who can prove they are safe drivers."
+    publishedDateTime: 2021-10-01T16:10:00Z
+    webUrl: "https://www.djournal.com/news/national/see-how-teslas-full-self-driving-mode-works/video_c3d1edf3-9356-5541-921a-32e8dc6459a8.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/c/3d/c3d1edf3-9356-5541-921a-32e8dc6459a8/615737b6b66a8.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
         isCached: true
   - title: "Tesla to outsource its self-driving chip to Samsung Electronics"
     excerpt: "It is reported that Tesla has decided to outsource its self-driving chip manufacturing to Samsung Electronics. According to the industry on the 24th, Samsung Electronics is reportedly likely to win orders for manufacturing of the HW 4."

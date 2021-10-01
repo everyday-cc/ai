@@ -9,7 +9,7 @@ ampWebUrl: "https://www.expresshealthcare.in/amp/news/how-ai-deployment-is-chang
 cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998025001/2340e14e-4f45-4695-9892-84dcbc329c46/72b75ebd-71db-476e-b439-8f39c1841709/1280x720/match/image.jpg"
         width: 1280
         height: 717
+        isCached: true
+  - title: "Trust is key to the health sector embracing AI"
+    excerpt: "By Leisa Maddoux, EY Global and US Health Transformation Practice Leader Health organizations are increasingly using artificial intelligence (AI) to drive performance. In a recent EY webcast, “How health organizations can build and safeguard trust in AI,"
+    publishedDateTime: 2021-09-28T16:30:00Z
+    webUrl: "https://www.linkedin.com/pulse/trust-key-health-sector-embracing-ai-leisa-maddoux"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEmNAEyV91W1g/article-cover_image-shrink_600_2000/0/1632846361133?e=1638403200&v=beta&t=Q_ppLIh8pBtI8ppd600m8F9rcl0OviCSLK3ztcRb-8A"
+        width: 744
+        height: 400
         isCached: true
 
 secured: "gmseIExjvTslkpobyORdXyWjS6wYt00pspUigz3WaWYZtLUDCMWfzI2cl8AXO+gQnTg8zUQA/At+/YBQBOvCRW7rSIW6GsyIpjoe/qEG275olRvreqDVSU/l4mkUpbcWe5qw49HB5XbFcflg2AMMKtamO3qulmuSM7URv12f7AEnWTQgOP3w4/ZmsXzaHyBYizDJOdjeAw7W4180NuQaZRPqiDN1VKW/vSrrb5FwCDWnFpaMInFlTTk1VLJ1L0+e5bTatfOat/jyQJ4MMAua2J1pY9fikV5S4z3rQlkKpLbI3b8bnwu9GdBbbODqIDYUe8FPfT2gf5mCkNVfuaS4+DMYFjmzBh9xwizkVYr+wsQ=;CU3GCGe+ZXCnc0WosDr6yw=="

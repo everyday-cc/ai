@@ -20,6 +20,22 @@ topics:
   - Google AI
   - AI
 
+related:
+  - title: "Google and its AI startup sued, accused of accessing 1.6M patient records without consent"
+    excerpt: "Google and its artificial intelligence startup, DeepMind, are being sued in London over the lab's handling of the health data of over a million patients in the development of a patient-monitoring app,"
+    publishedDateTime: 2021-10-01T15:03:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/google-and-its-ai-startup-sued-accused-of-accessing-1-6m-patient-records-without-consent.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 30
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg"
+        width: 400
+        height: 300
+        isCached: true
+
 secured: "bFFcIvCoM1NasV1cOCQiNp2SApVWyDivDijcn4RWn1OzcnZ4vgT8ld60YU5nIFN6t3N0mEbKIYIEdpqRfbNkYmZfddhGHSf503VC/Zh8pU5cQeAWNuOwCHDTonkbdpCStH7/R+Qjk9e2e+8MXApqc1pR8Ueipps/vT399DDiO8BgbO9rYXe5Bfche2t8y5KZ1f6YeI4t7cPY3ORYhLptFvOvr3tfiROOh24SoesVGd5XoUk/J4RcewDs7lDiPEf5ELToxAl/HdG/Bg5pFtZpXlAQoboUwVoE1x1M2roHfEXd5AepyXZRQpgJQp1CBz4n7JPgwhsX84lcyIYTAdklsAp7791XRz8jJSrY6L8oM3Y=;mysbsBUqsOBcHepDbV+pJQ=="
 ---
 

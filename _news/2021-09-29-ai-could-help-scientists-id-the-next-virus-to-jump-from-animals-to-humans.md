@@ -35,6 +35,22 @@ related:
       name: Phys.org
       domain: phys.org
     quality: 117
+  - title: "AI used to predict which animal viruses are likely to infect humans: study"
+    excerpt: "Artificial intelligence (AI) could be key in helping scientists identify the next animal virus that is capable of infecting humans, according to researchers."
+    publishedDateTime: 2021-10-01T16:11:00Z
+    webUrl: "https://www.foxnews.com/science/ai-predict-animal-viruses-likely-infect-humans-study"
+    ampWebUrl: "https://www.foxnews.com/science/ai-predict-animal-viruses-likely-infect-humans-study.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/ai-predict-animal-viruses-likely-infect-humans-study.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 85
+    images:
+      - url: "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2019/09/23/720/405/694940094001_6088542466001_6088555437001-vs.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Researchers use AI to determine which animal diseases will infect humans next"
     excerpt: "Zoonotic diseases such as COVID-19, those that can make the jump from animals to humans, are one of the most difficult to study. AI is here to help."
     publishedDateTime: 2021-09-28T22:26:00Z

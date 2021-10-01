@@ -299,6 +299,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "See how Tesla's 'full self-driving' mode works"
+    excerpt: "Despite concerns from regulators,Tesla is rolling out its autonomous driving feature to some owners who can prove they are safe drivers."
+    publishedDateTime: 2021-10-01T16:10:00Z
+    webUrl: "https://www.djournal.com/news/national/see-how-teslas-full-self-driving-mode-works/video_c3d1edf3-9356-5541-921a-32e8dc6459a8.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/c/3d/c3d1edf3-9356-5541-921a-32e8dc6459a8/615737b6b66a8.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
   - title: "Tesla to outsource its self-driving chip to Samsung Electronics"
     excerpt: "It is reported that Tesla has decided to outsource its self-driving chip manufacturing to Samsung Electronics. According to the industry on the 24th, Samsung Electronics is reportedly likely to win orders for manufacturing of the HW 4."
     publishedDateTime: 2021-09-27T05:16:00Z

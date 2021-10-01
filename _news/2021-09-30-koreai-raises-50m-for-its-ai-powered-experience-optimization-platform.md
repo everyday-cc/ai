@@ -84,6 +84,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "More Organizations Saving Time and Costs on Data Breaches with Automation and AI"
+    excerpt: "Cost of a Data Breach report shows, AI and automation can reduce the cost of a data breach. See how organizations with AI security fared in 2021."
+    publishedDateTime: 2021-10-01T17:30:00Z
+    webUrl: "https://securityintelligence.com/posts/save-time-money-data-breach-security-ai-automation/"
+    type: article
+    provider:
+      name: Hack
+      domain: securityintelligence.com
+    quality: 32
+    images:
+      - url: "https://securityintelligence.com/wp-content/uploads/2021/10/Data-Breach-1.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2nd Annual Artificial Intelligence for Information Accessibility Conference highlights the International Day for Universal Access to Information"
     excerpt: "Recognised annually on the 28th of September, this year's themes of the the International Day for Universal Access to Information (IDUAI) are “What We Know about our Right to Know” and \"The Right to Know - Building Back Better with Access to Information\"."
     publishedDateTime: 2021-09-28T12:35:00Z

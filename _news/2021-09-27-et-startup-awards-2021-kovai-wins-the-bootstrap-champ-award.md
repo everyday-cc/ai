@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/tech/startups/et-startup-awards-2021-kov
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/et-startup-awards-2021-kovai-wins-the-bootstrap-champ-award/amp_articleshow/86533513.cms"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 57
+published: false
 
 provider:
   name: India Times
@@ -24,40 +24,6 @@ images:
     width: 600
     height: 450
     isCached: true
-
-related:
-  - title: "ET Startup Awards 2021: Genrobotic Innovations wins the Social Enterprise award"
-    excerpt: "Using cutting-edge technology to overcome some of the most deep-rooted social issues such as manual scavenging helped Genrobotic Innovations emerge as the winner in the Social Enterprise category of ET Startup Awards 2021."
-    publishedDateTime: 2021-09-27T00:55:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/et-startup-awards-2021-genrobotic-innovations-wins-the-social-enterprise-award/articleshow/86538441.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/et-startup-awards-2021-genrobotic-innovations-wins-the-social-enterprise-award/amp_articleshow/86538441.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/et-startup-awards-2021-genrobotic-innovations-wins-the-social-enterprise-award/amp_articleshow/86538441.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 55
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-54180,msid-86538547/genrobotic-innovations.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "ET Startup Awards 2021: Log 9 Materials wins the Top Innovator award"
-    excerpt: "Log 9 has successfully demonstrated its technology to fast-charge electric vehicles in pilots with leading e-commerce and logistics majors such as Amazon, Shadowfax, Porter and Flipkart."
-    publishedDateTime: 2021-09-27T00:40:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/et-startup-awards-2021-log-9-materials-wins-the-top-innovator-award/articleshow/86533244.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/et-startup-awards-2021-log-9-materials-wins-the-top-innovator-award/amp_articleshow/86533244.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/et-startup-awards-2021-log-9-materials-wins-the-top-innovator-award/amp_articleshow/86533244.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 42
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-792388,msid-86533241/winners-slides_et-startup-awards-2021_ettech2.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "wsG0Bso4vCphNB8BrQzE2oWbdS2xNQocb7Neb4L5T3en8NycC7JchW0mY7Ss78/rxmgLqGnJm8+1sC7044iSATg9wo1uqCYwV4D6GnspEwZfDfMsmnCSTsoAXIMDaLHdctYn/gpQnigyQzQXOVmaS0Xz6Cg+knVIKsR8hOfMMWICP0AXQyOUUD0GRflqzJ0sqOjwUpX+53HkP5Iewc/f/qF7/zZeWSlW3ZJIBCWWneUjgPJ0mTmXHhCesPxQAOWAw9/lVLyJ4NyktWh9McMhRzPxe8wjKb8XDxDw/tYbopuSjG9vsAVmCw8sPVJj3mTRq/eJc7zgTyq0leo0Xp00nEGXL8EWf5ijV7FcMCJGqgg=;zOFy2LYyX613xb/r0RftPA=="
 ---

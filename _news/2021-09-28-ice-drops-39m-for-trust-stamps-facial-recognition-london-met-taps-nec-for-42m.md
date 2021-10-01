@@ -52,6 +52,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Met Police purchase new retrospective facial-recognition system"
+    excerpt: "New £3mn retrospective facial-recognition software purchased by the Met Police will be deployed in coming months amid continuing controversy around the use of biometric technologies by law enforcement"
+    publishedDateTime: 2021-10-01T11:30:00Z
+    webUrl: "https://www.computerweekly.com/news/252507569/Met-Police-purchase-new-retrospective-facial-recognition-system"
+    ampWebUrl: "https://www.computerweekly.com/news/252507569/Met-Police-purchase-new-retrospective-facial-recognition-system?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252507569/Met-Police-purchase-new-retrospective-facial-recognition-system?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 44
+    images:
+      - url: "https://www.computerweekly.com/visuals/German/article/CCTV-facial-recognition-3-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "Secretive facial recognition trial at Wellington Airport went against Privacy Commissioner's advice"
     excerpt: "Aviation Security went ahead with the trial of a new facial-recognition scanning tool at Wellington Airport, despite serious concerns from the Privacy Commissioner. The secretive months-long trial, which is still ongoing,"
     publishedDateTime: 2021-09-30T16:00:00Z

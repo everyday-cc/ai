@@ -41,6 +41,22 @@ related:
         width: 635
         height: 400
         isCached: true
+  - title: "Is Hospital at Home the Future of Healthcare?"
+    excerpt: "Traditional healthcare organizations have a role to play in home healthcare, with remote patient monitoring devices, data integration and artificial intelligence supporting virtual care platform efforts."
+    publishedDateTime: 2021-10-01T17:15:00Z
+    webUrl: "https://healthtechmagazine.net/article/2021/10/hospital-home-future-healthcare"
+    ampWebUrl: "https://healthtechmagazine.net/article/2021/10/hospital-home-future-healthcare?amp"
+    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2021/10/hospital-home-future-healthcare?amp"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 59
+    images:
+      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202110/hospital%20at%20home.jpg?itok=Iw8VzoH8"
+        width: 1440
+        height: 500
+        isCached: true
 
 secured: "EYrxRMuaL/GDY5n+uZ2R1svfgfsszzalUz76hHlvD8RKuEAoDl0QWkDB6v21Y7okIijh9QuVvBxkJpAHGsCKlW/i6suHOSBAmI5gzmX9pSPLGYtfxVvJf/wDHYdH4Q/bHbGeo1xM7NCCN99C5v961NLVDBnVkL6fYYB+UeeeSlTvwPV+cCKNflA5khMNIFF+dwr36lMQdRZCHuapRj2uOdvdw7qFOzshN0qG6p3/UI7kc6UIKxrHDV0KSENC2iTalAQR6OaE5u7eeyRkiYRmaDCuieYUQOcr3h5JkEajQiUbkFIFsMKRsk4nXhskTP/pomER40Wu2dChOSG6InlhhCGDa38MCmiokS87UQWaBIDgSG0Ie6XJq9IS3Fwlr5+5mhQPaoAdPuTO0jTyq+Dztu1iqhnjMMJ76uptfPAfsACNRc8F8ETiTKFq9JaSzxcw17WqXkEScmrBeOC3hUt0BDk8sPPPcHKDjjjcrElthh3+YIvMAZ4tzztE6e38hfjhFOb7tP91Rpqgp0d96hDNSQ==;P5gKAhOW4F55rejQuVrpRA=="
 ---

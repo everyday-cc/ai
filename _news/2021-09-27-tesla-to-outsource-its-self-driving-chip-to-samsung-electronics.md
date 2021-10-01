@@ -304,6 +304,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "See how Tesla's 'full self-driving' mode works"
+    excerpt: "Despite concerns from regulators,Tesla is rolling out its autonomous driving feature to some owners who can prove they are safe drivers."
+    publishedDateTime: 2021-10-01T16:10:00Z
+    webUrl: "https://www.djournal.com/news/national/see-how-teslas-full-self-driving-mode-works/video_c3d1edf3-9356-5541-921a-32e8dc6459a8.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/c/3d/c3d1edf3-9356-5541-921a-32e8dc6459a8/615737b6b66a8.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
   - title: "Tesla’s ‘full self-driving’ could be days away. Here’s what you need to know."
     excerpt: "By Matt McFarland, CNN Business A wider group of Tesla owners who paid up to $10,000 for what the company calls its “full self-driving” software can now ask the automaker for access to a test version of the feature."
     publishedDateTime: 2021-09-28T15:39:00Z

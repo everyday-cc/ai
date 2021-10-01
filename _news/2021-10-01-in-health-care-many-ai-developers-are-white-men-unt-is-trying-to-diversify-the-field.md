@@ -59,6 +59,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Trust is key to the health sector embracing AI"
+    excerpt: "By Leisa Maddoux, EY Global and US Health Transformation Practice Leader Health organizations are increasingly using artificial intelligence (AI) to drive performance. In a recent EY webcast, “How health organizations can build and safeguard trust in AI,"
+    publishedDateTime: 2021-09-28T16:30:00Z
+    webUrl: "https://www.linkedin.com/pulse/trust-key-health-sector-embracing-ai-leisa-maddoux"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEmNAEyV91W1g/article-cover_image-shrink_600_2000/0/1632846361133?e=1638403200&v=beta&t=Q_ppLIh8pBtI8ppd600m8F9rcl0OviCSLK3ztcRb-8A"
+        width: 744
+        height: 400
+        isCached: true
 
 secured: "i7rC3twrHm5x++bKtc2P/2mmUFxWwaTKH76WUbZzWgpL9SngUS2PEcGVjSrIeqHx6VxDC0G4kVotCQrmExoJh3YfGXvmRt0oX+bjFEcUIIN8tQJLh9mYGlttbVnSc/Mmw2/kOg6JPTLGpJRACNklF0uY0HI7/hdr/oPWCC7Ykf4rMdBCCRSLMaYBDtrt+3nEXkqqyWmsFLvuMe7g/lHX5AnXfKeYycIu0OOBtUj+APZ096Yj4iupFBi5/pOg47twPnlYvQbVkvOhDt6ONgqo3W5AJp6Tm8nvaJcKyqCc8p0HrI8CXc4NL0/SjNF8ZcKulmImz/mXiXcbMnJIPUzGP6kibk2OWEmuvUB5tA2ZOsw=;G18e+xRDssyh1Rr/3NP5ww=="
 ---

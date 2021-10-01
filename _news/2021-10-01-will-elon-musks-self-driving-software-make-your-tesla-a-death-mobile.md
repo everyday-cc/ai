@@ -295,6 +295,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "See how Tesla's 'full self-driving' mode works"
+    excerpt: "Despite concerns from regulators,Tesla is rolling out its autonomous driving feature to some owners who can prove they are safe drivers."
+    publishedDateTime: 2021-10-01T16:10:00Z
+    webUrl: "https://www.djournal.com/news/national/see-how-teslas-full-self-driving-mode-works/video_c3d1edf3-9356-5541-921a-32e8dc6459a8.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/c/3d/c3d1edf3-9356-5541-921a-32e8dc6459a8/615737b6b66a8.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
   - title: "Tesla to outsource its self-driving chip to Samsung Electronics"
     excerpt: "It is reported that Tesla has decided to outsource its self-driving chip manufacturing to Samsung Electronics. According to the industry on the 24th, Samsung Electronics is reportedly likely to win orders for manufacturing of the HW 4."
     publishedDateTime: 2021-09-27T05:16:00Z
@@ -379,6 +393,6 @@ related:
       domain: mobilesyrup.com
     quality: 19
 
-secured: "thnpBu4eZ16tUQnhuyK+JmqavLglhIbexpxHItzgoBqw/9BzuaKAWmuSqKdfkNStFjYWI01+naeV4i0Kgtg9+Q4dXgP4mJBSGoxF9BMuZOIqWJhgWNYWBBOOt6N3v9HY09jYVTLuzCstbXyVFtN4SSBlEajaG4ttEQ8HeCUmcK+nlYW8h1i30cd4oVO0TnfFOXApckEXo8dBmxW0kE5VsHJqXr3VstVdJlZ5LfhBb2HjZ0hxW0ue/O08KWFPsAHnupRcIoklYMKm3D88Dy1QFjWGcC0favMNmWdfHGlGTXCKlyHDBsWKj6f2dDMFhSj7Vsy2km/1O/NwMTEcpJNGJpGkLDS6hJFQpuqLiHGMdSw=;PLB4LFZRL5fYvg9zrJVjaQ=="
+secured: "oy24knx0sKrKRasi1RFwV+pp0k8IG40MtMtF8SmmzCdqHxjqLH3bBfO7u4zB0G4u3M/9hamTMqJJbXcaOcTr36qLAqmVuimuMBRFtSBURfjXI0D5GhDrzIDdiEevdFGy9GjP+PWrFYV4PqwF3NSJrjnnSTSIcTRkp+KrEyBtHFR5VOzo4wVX66EvxLZqnxodbu1GV7QcCtGb5Gjtbh8SiAZm8YqAIEFJrmuKVp42iKssvCJUS/8ydMV/znxW27mlestjNbakJfJYTkB//+CzLxdjgpv04pOdzduCGe61EHYPxhBUqt5+RTi7mRbhTy405eaW73wVG8feqGquXpOCHIWgaGpnToLzlOe0bLUhxjjpSm25h4q0qLwYvOhwx2ySM9mb63fJNktj3QTuGTw7/dU5f/ugh/SiSlpcEztLHQ2LdeMFnlOTsT/Ku03jkWfo+yLkXGsbDhYpqbgfDmh5ntZoY0uTiWah/sDF9p0OGFT+BhcejJoeTNEPgq326cRQoe+OhJcD65pAP+3lS5kzYQ==;hGaouHjkunwlZG6SdmHCBw=="
 ---
 
