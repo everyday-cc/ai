@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nd
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/amp/"
 type: article
 quality: 188
-heat: 448
+heat: 438
 published: true
 
 provider:
@@ -236,20 +236,6 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1632718804.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "Tesla's 'Full Self Driving' request button goes live"
-    excerpt: "Electric vehicle Tesla users who wish to take part in the company's Full Self-Driving (FSD) Beta programme could no"
-    publishedDateTime: 2021-09-26T07:42:00Z
-    webUrl: "https://menafn.com/1102864523/Teslas-Full-Self-Driving-request-button-goes-live"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2021-09/26/I_1361bimage_story.jpg"
-        width: 400
-        height: 300
         isCached: true
   - title: "Tesla's 'Full Self Driving' request button goes live"
     excerpt: "Electric vehicle Tesla users who wish to take part in the company’s Full Self-Driving (Fsd) Beta programme could now formally request the advanced driver-assist system to be loaded into their vehicle."

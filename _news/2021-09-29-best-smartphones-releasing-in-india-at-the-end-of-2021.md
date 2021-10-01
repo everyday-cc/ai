@@ -41,6 +41,22 @@ related:
         width: 550
         height: 450
         isCached: true
+  - title: "Entrepreneur First announces investment in six Indian tech start-ups"
+    excerpt: "EF’s latest ‘Investor Reveal’ introduced six promising start-ups to top early-stage investors in the country. - From genomics-based diagnostics technology for faster, more accurate and affordable Covid testing to NLP-based in-site search engine for online commerce and AI-powered music creator tool for video and podcast content creators,"
+    publishedDateTime: 2021-10-01T01:53:00Z
+    webUrl: "https://www.livemint.com/brand-post/entrepreneur-first-announces-investment-in-six-indian-tech-startups-11633006694107.html"
+    ampWebUrl: "https://www.livemint.com/brand-post/entrepreneur-first-announces-investment-in-six-indian-tech-startups/amp-11633006694107.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-post/entrepreneur-first-announces-investment-in-six-indian-tech-startups/amp-11633006694107.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 42
+    images:
+      - url: "https://images.livemint.com/img/2021/09/30/600x338/i5_1633007074702_1633007081099.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Beenext co-leads $48m round of Indian healthtech startup"
     excerpt: "MFine, an Indian digital health startup, has raked in US$48 million in a series C round co-led by Singapore venture capital firm Beenext and US-based Moore Strategic Ventures. the Indian firm’s existing investors,"
     publishedDateTime: 2021-09-29T04:39:00Z

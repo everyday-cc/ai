@@ -32,20 +32,18 @@ images:
 
 related:
   - title: "Honda sees its future in air taxis, rockets and moon robots"
-    excerpt: "Honda’s vision of how people will work, travel and spend leisure time in the future will help expand its business beyond cars, lawn mowers and motorcycles. The efforts are a key component of Honda’s “2030 Vision\" to broaden the definition of mobility and to improve peoples’ daily lives."
-    publishedDateTime: 2021-09-30T23:41:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/cars/honda-sees-its-future-in-air-taxis-rockets-and-moon-robots-41633002979984.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/honda-sees-its-future-in-air-taxis-rockets-and-moon-robots/amp-41633002979984.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/honda-sees-its-future-in-air-taxis-rockets-and-moon-robots/amp-41633002979984.html"
+    excerpt: "Honda's vision of how people will work, travel and spend leisure time in the future will help expand its business beyond cars, lawn mowers and motorcycles. The efforts are a key component of Honda's \"2030 Vision\" to broaden the definition of mobility and to improve peoples' daily lives."
+    publishedDateTime: 2021-10-01T00:14:00Z
+    webUrl: "https://www.nationthailand.com/tech/40006870"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 74
+      name: nationthailand
+      domain: nationthailand.com
+    quality: 54
     images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/09/30/600x338/britain-aerospace-farnborough-business-rolls_7a38d51c-89b5-11e8-a23e-bc16ac6b2c17_1633003834924.jpg"
-        width: 600
-        height: 338
+      - url: "https://media.nationthailand.com/uploads/images/md/2021/10/yrHKYUG2ssVzuXoZG4Gz.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Honda Announces Plans To Expand Research in Air Taxis, Robots and Space Technology"
     excerpt: "Honda Motor Company on Thursday announced plans to increase research and development across three technological categories: space technology, robots and electric vertical takeoff and landing aircrafts (eVTOL),"

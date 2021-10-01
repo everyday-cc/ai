@@ -105,6 +105,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "US, EU to work on chip supplies, tech rules"
+    excerpt: "WASHINGTON: The United States and European Union (EU) have agreed to deepen transatlantic cooperation to strengthen semiconductor supply chains, curb China’s non-market trade practices and take a more unified approach to regulating big,"
+    publishedDateTime: 2021-10-01T01:03:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2021/10/01/us-eu-to-work-on-chip-supplies-tech-rules"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/10/01/1314486.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "MynjgXxRGrQrqFuhRU6w/Bg866Jvilp67mUsvbIb1tygCg4IWrl0TKhOs7qoxEqjDXKthEoLRaLEZyP8h2rDYWuwD5djRS5BbaePoLBOgMSFbZ6Gzn0v1OlFoiaiuBVrwb3HpXZyknzPS4iSSkg4qjHhL+zpBcY0OftmP9udyBZCnE6QRRTLFCH25emkNZ8DpHCjeuld8EvflekPrBsf6k2nDj3lzfK0XlcgAoqNp6HOeKQKS/s4EqTMVjkZfoPNHR/P3OEW6+r9X3HT05qu4iAkdYAWdgPgJIxsLQWQy7OaBXmcDDlPwfgvpOPTT3fd7J8QNcv8DVo1Q0fHdFpkU/F70IwJ4Urjshny13lNi+U=;zFFs3ZP2j+gFlt9FYAq+Ng=="
 ---

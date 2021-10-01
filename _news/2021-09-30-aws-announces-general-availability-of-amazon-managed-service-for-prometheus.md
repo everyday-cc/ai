@@ -3,20 +3,26 @@ category: news
 title: "AWS Announces General Availability of Amazon Managed Service for Prometheus"
 excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Managed Service for Prometheus, a scalable, secure, and highly available service that makes it easier for customers to monitor containerized applications."
 publishedDateTime: 2021-09-29T21:04:00Z
-originalUrl: "https://www.financialbuzz.com/aws-announces-general-availability-of-amazon-managed-service-for-prometheus/"
-webUrl: "https://www.financialbuzz.com/aws-announces-general-availability-of-amazon-managed-service-for-prometheus/"
+originalUrl: "https://apnews.com/press-release/business-wire/business-technology-amazoncom-inc-web-services-0089902c40cb4d9eae515700894c692a"
+webUrl: "https://apnews.com/press-release/business-wire/business-technology-amazoncom-inc-web-services-0089902c40cb4d9eae515700894c692a"
 type: article
-quality: 32
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft launches data governance service Azure Purview in general availability"
@@ -115,6 +121,6 @@ related:
       domain: tdwi.org
     quality: 21
 
-secured: "rDRju7Ac0gi5kE5xqRmXdjqvKWxnIY0GyME5QR4aIlSNOgTHYeBzYxRAjUJ6dbLXIgloftGLA07d5oKWfWupbqpFHALnGtuIG9oVx+7cjsHzxmZbsglDvJIh1mEgEFeu8TQb3UPH5NyndIFvFTZWB3QRS1Aq1H6Ca61vvRKIdnQ8KATWHthC67bVDywUsk+9ok+wtAZQHeRmi7QAm9XCvUGIASxujWGiZQJDOj3EjXrfVlML0fjHs05EJElN6q0ZAfyMqRNx7VB2Xfgh1LVUF2MCCsSDroaUIOCTaR5FKR5DQYAS/qpPb0lM2J3O6uxIlPbGtyfvV81KdLyw9zevkUWNPQQoYcb0oSaD3c8HMSo=;y8sdTd2+lACGLLq3O9ohbw=="
+secured: "EMJp6mmeJubmci5yInYoCV4D04ziGWCyEWWmZQw70XnR/pzcBOQbznBz0NJiQAnOfeaehTxD5KiTzh1xV/saepI5zE2BNWljOIqdDEPiGzT2uMXnaqPPSw5tQGJ3Fv+03hUBpKHpEgV+Cp7OVyIzDV9YKLvrUNURqqkhXywkkMChUVn/PjxJHk+ISF+NU72T1x3x+YvmDctvwfnY7LyB0ENzC4VhzR/53JTkVQ6EQh+sMnqYZAnD0iwmowTLju2uLjH6UGgUqCQVwkzM6xMxX7+0P200vFjD9hBC30wOGVzTj8BaHzHwgyzd0OvY4S3PFZJua6Udf7NWKAi13YgdnhV4yFcg2KjJvPPYdRuTLpQ=;Gr/uOW19lBXOKfAtklt67Q=="
 ---
 

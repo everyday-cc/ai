@@ -3,8 +3,8 @@ category: news
 title: "Amid Rapid Adoption, Paravision Unveils New Computer Vision Capabilities, Making Face ..."
 excerpt: "Paravision, the U.S.-based leader in mission-critical face recognition and computer vision, today announced an array of new and updated products that make face recognition solutions faster, more accurate and secure,"
 publishedDateTime: 2021-09-28T16:02:00Z
-originalUrl: "https://apnews.com/press-release/GlobeNewswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8"
-webUrl: "https://apnews.com/press-release/GlobeNewswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8"
+originalUrl: "https://apnews.com/press-release/globe-newswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8"
+webUrl: "https://apnews.com/press-release/globe-newswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8"
 type: article
 quality: 30
 heat: -1
@@ -69,6 +69,34 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Facial recognition trial not needed, says privacy commissioner"
+    excerpt: "Using facial recognition to figure out how long people will wait in a queue is like using a sledgehammer to crack a nut. That's according to the Privacy Commissioner who has serious concerns about the scanning tool being used at Wellington Airport."
+    publishedDateTime: 2021-10-01T01:02:00Z
+    webUrl: "https://www.rnz.co.nz/national/programmes/middayreport/audio/2018814656/facial-recognition-trial-not-needed-says-privacy-commissioner"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 39
+    images:
+      - url: "https://www.rnz.co.nz/assets/news_crops/123200/eight_col_126044392_m.jpg?1621998715"
+        width: 720
+        height: 450
+        isCached: true
+  - title: "Facial recognition trial upsets privacy commissioner"
+    excerpt: "Using facial recognition to figure out how long people will wait in a queue is like using a sledgehammer to crack a nut. That's according to the Privacy Commissioner who has serious concerns about the scanning tool being used at Wellington Airport The tool is used to count passengers passing through security and how long they wait in a line."
+    publishedDateTime: 2021-10-01T00:38:00Z
+    webUrl: "https://www.rnz.co.nz/national/programmes/middayreport/audio/2018814656/facial-recognition-trial-upsets-privacy-commissioner"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 39
+    images:
+      - url: "https://www.rnz.co.nz/assets/news_crops/123200/eight_col_126044392_m.jpg?1621998715"
+        width: 720
+        height: 450
+        isCached: true
   - title: "Paravision launches Android facial recognition SDK for custom app development"
     excerpt: "The SDK functions for face detection, landmark detection, biometric image quality analysis, template creation, and 1:1 facial verification and 1:N face matching"
     publishedDateTime: 2021-09-28T20:37:00Z
@@ -98,6 +126,6 @@ related:
         height: 720
         isCached: true
 
-secured: "GAItwGKlVKl07dzvbLT84l2GO8VPRjth9PlahaGJmHM/lDhXgiKNYH6e1lqwOe69NA8aeV780AuJXcL2z7vjtqhLCxbygUc/x/M+eFVfkeLvNES28Q2ok9kFCprR/PH2ZQC8mM8o334KnKRaCbgCRWw+5UcBiIcHtahhz9DpxdkQmJOGeiap+SAsBcz5XlQ8XPDCFVzqcarzuzCACpr05k2PFxFgUqhXDdK3BrZZNHVtezC8hTUAS9H8KviKtPO23TTUUpA1P+jCe51wwFTLtDkTk2++wQItnYoRmxBcDjvG0F1weC+zteSfC3Ej/D+V2LntWfvxHRWWkPTTla5sh2fNYK7UD6AkQRheeSA+k8s=;isOzzJuYCZp0CXeP5y+M6Q=="
+secured: "ikgxce0hly8matyqlIESFKpJzJYWvDzMunbe6sl3hKpHKqfowTAmxwWWqzRjcMKP6Sz1BwOmd+4IuN4Q8ZFbysE/yqVar1sMdSYE7qfJT/T8R4PaWASk893sbyHnhQlR34YqmzAtobXioQUHvOgkvcdRBqCEAhpnhb0iWuPqSxh3yhIKPVP4whRYx81mg0mvyYJzH4pxKutLVs9dQYVtcLoNwic0gEPuECnsvD+x4tYiyOAZ+wZSb8FEJp/+uslONdzgYPOvoAJ1TEUV6FKAlba7cByCATDE3PV/kz7eIdotPIlrNksvGJJI3TdepVXI0NiaF+l54EJTqSRnLYyvFpTe2/P6rsOBRnAe1QhS9Yw=;vpfKvuAijAol67ndJv37uA=="
 ---
 

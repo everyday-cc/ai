@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Most Organizations Don’t Care if Surveillance AI Is Biased"
+    excerpt: "Nearly 2 out of 3 survey respondents say they either don't care or aren't sure if they care if their AI-powered security cameras are biased."
+    publishedDateTime: 2021-09-27T10:07:00Z
+    webUrl: "https://www.campussafetymagazine.com/news/most-organizations-dont-care-if-surveillance-ai-is-biased/"
+    type: article
+    provider:
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 39
+    images:
+      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2021/09/Artificial-intelligence-Adobe-by-Alex-scaled.jpeg"
+        width: 2560
+        height: 893
+        isCached: true
   - title: "Eagle Eye Networks Acquires Surveillance AI Leader Uncanny Vision"
     excerpt: "Eagle Eye Networks, the global leader in cloud video surveillance, today announced the acquisition of artificial intelligence leader Uncanny Vision, accelerating the company's leadership in providing AI and analytics to make customers'"
     publishedDateTime: 2021-09-30T11:12:00Z

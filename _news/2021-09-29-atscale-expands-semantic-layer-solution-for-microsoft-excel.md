@@ -109,12 +109,17 @@ related:
   - title: "AWS Announces General Availability of Amazon Managed Service for Prometheus"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Managed Service for Prometheus, a scalable, secure, and highly available service that makes it easier for customers to monitor containerized applications."
     publishedDateTime: 2021-09-29T21:04:00Z
-    webUrl: "https://www.financialbuzz.com/aws-announces-general-availability-of-amazon-managed-service-for-prometheus/"
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-amazoncom-inc-web-services-0089902c40cb4d9eae515700894c692a"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 32
+      name: Associated Press
+      domain: apnews.com
+    quality: 52
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "FrQUXLZMHLfcHhuq6QI6sGLqpMesKDhmdV3Qwp0rjZcfxheUc6TK7LGD9U7vE7a9cjSXiQLjBQlGedapSbFc7/H9Rd2bh2K8BCA3xfxm0PH87lMbX/JdjZi+mA12DgFty6wwOTFSZf9IbIhxY2vnY+VOZSylrsbjjaAWpULvJHkv7ie7+Q/TeBDl6EOlnKFvc0BJ1QsVYk4tPf6iCcohxctEygbT17g8SclRi1aucxbSTjYD19u0c2fyOi9afNqNgoQvRw0EZr/nQzq5HiOEAshmhTpd7l91q3nEcp5kaF9eaZ4PJnXEV07MWTziun3UtOTTZZcQCXmlWDJjQ8rqcvI8WddyIrVRP20SXQKbE/0=;ynkPweDCePa90WsY+Ypxlg=="
 ---

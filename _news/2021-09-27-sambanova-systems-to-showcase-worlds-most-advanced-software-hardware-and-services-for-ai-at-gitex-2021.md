@@ -25,31 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "SambaNova Systems to showcase world's most advanced software, hardware and services for AI at GITEX 2021"
-    excerpt: "The Silicon Valley-based company will show off its state-of-the-art Dataflow-as-a-Service™offering, which will advance AI and Machine Learning adoption in the Middle East"
-    publishedDateTime: 2021-09-26T07:12:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/SambaNova_Systems_to_showcase_worlds_most_advanced_software_hardware_and_services_for_AI_at_GITEX_2021nbsp-ZAWYA20210926053351/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210926053351/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210926053351/"
+  - title: "Nokia wins 5G World award for most innovative machine learning software product"
+    excerpt: "Nokia announced that 5G World has honoured it with the “Most Innovative Artificial Intelligence or Machine Learning Technology for the Network” Award for Anomaly Detection Service, a software product jointly developed with Vodafone,"
+    publishedDateTime: 2021-09-28T02:41:00Z
+    webUrl: "https://itwire.com/5g/nokia-wins-5g-world-award-for-most-innovative-machine-learning-software-product.html"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 42
+      name: ITWire
+      domain: itwire.com
+    quality: 39
     images:
-      - url: "https://images.zawya.com/pr/images/2021/ChristopherKenny_2021_09_26.jpg"
-        width: 450
-        height: 450
+      - url: "https://itwire.com/media/k2/items/cache/56617f2b209834f1b01c7f7db764d8c9_L.jpg"
+        width: 1024
+        height: 575
         isCached: true
-  - title: "GITEX 2021: SambaNova Systems is bringing its AI-related products to the region"
-    excerpt: "The company will feature Dataflow-as-a-Service offering, which will advance AI and Machine Learning adoption in the Middle East. GITEX 2021: SambaNova Systems is bringing its AI-related products to the region."
-    publishedDateTime: 2021-09-26T13:18:00Z
-    webUrl: "https://www.itp.net/gitex/gitex-2021-sambanova-systems-is-bringing-its-ai-related-products-to-the-region"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 15
   - title: "SambaNova Systems to Showcase World’s Most Advanced Software, Hardware and Services for AI at GITEX 2021"
     excerpt: "SambaNova Systems, the company building the industry’s most advanced software, hardware and services to run AI applications, announced today that it w"
     publishedDateTime: 2021-09-27T20:11:00Z

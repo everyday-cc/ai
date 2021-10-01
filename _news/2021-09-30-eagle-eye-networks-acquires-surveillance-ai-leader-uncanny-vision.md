@@ -39,6 +39,20 @@ related:
         width: 650
         height: 359
         isCached: true
+  - title: "Most Organizations Don’t Care if Surveillance AI Is Biased"
+    excerpt: "Nearly 2 out of 3 survey respondents say they either don't care or aren't sure if they care if their AI-powered security cameras are biased."
+    publishedDateTime: 2021-09-27T10:07:00Z
+    webUrl: "https://www.campussafetymagazine.com/news/most-organizations-dont-care-if-surveillance-ai-is-biased/"
+    type: article
+    provider:
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 39
+    images:
+      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2021/09/Artificial-intelligence-Adobe-by-Alex-scaled.jpeg"
+        width: 2560
+        height: 893
+        isCached: true
 
 secured: "4xBfNE941tEXGyki6cjhwiEDQD3qB2Cc826ZIkJ+YOM//+xMUN1GgqR71sBwCPBwusnA92urbmfT8ADh4cjRJLtCJkwSiLaspnUNsWvaxyDkazahJhZO0AElfpt8mpV+3eKFN8iKUWGnYlH8nILvJjSZb830uDW+Ebrs95oYvUkEnMOu7KTkkZLziGFf235fLoFL8KXMuBXFGrCoDDFycfMaQz8k9tCaDrx9B2Veokdk4Io6GNSE9DL1C1IhzhcHuoE7QfZVOEs6q6SSdfzUdXde2MSkU2bvJ20hmIO98ziBvR+H0KMfRgcjl4hDtodjgTOW6M50EE7QRQDWuJ2E+wCa3d6Udn2APXOecPK9uTQ=;w/c/q0Kt3EHf9QgubX0GPQ=="
 ---

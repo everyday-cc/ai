@@ -247,20 +247,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Tesla's 'Full Self Driving' request button goes live"
-    excerpt: "Electric vehicle Tesla users who wish to take part in the company's Full Self-Driving (FSD) Beta programme could no"
-    publishedDateTime: 2021-09-26T07:42:00Z
-    webUrl: "https://menafn.com/1102864523/Teslas-Full-Self-Driving-request-button-goes-live"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2021-09/26/I_1361bimage_story.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Tesla Has Been Sued For The Self-Driving Car That Hit And Injured Police Officers"
     excerpt: "Advertisement Our day isn’t complete without a Tesla-related headline in the news (bad publicity is still publicity I guess?) In recent news which was due to past unresolved matters, five Texas cops filed a lawsuit against Tesla over a crash caused by the car’s Autopilot mode (the irony."
     publishedDateTime: 2021-09-29T17:56:00Z

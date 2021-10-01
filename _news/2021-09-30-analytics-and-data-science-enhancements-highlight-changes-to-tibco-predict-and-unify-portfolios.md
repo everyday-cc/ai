@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "TIBCO Accelerates Time-to-Insights with Revolutionary Enhancements to Analytics Portfolio"
+    excerpt: "TIBCO Software Inc., a global leader in enterprise data, empowers its customers to connect, unify, and confidently predict business outcomes, solving the world's most complex data-driven challenges. Today,"
+    publishedDateTime: 2021-10-01T00:07:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/204922/tibco-accelerates-time-to-insights-with/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
 
 secured: "TE942wcBQnYFSyl0zprfiF60Uhr7TGeDbLSOfhlRof9X9Mjd+f3EvWqDM54+8us6oLXptb8r1FhpFRTRXVpPCmdPEG5z+1AoNzA1m9wvqce8QP+QKQ/DKTPxBKQG+AeSp9qT9VGMbAU3efvm62NMjt7lIwCX+fXFpYnmb34vxEofF/+Pzp+wkKMyaxay+qqC+zHuCnPEyvmqzOSsPuYbCG2NXafwjKzMGboeXrBApsUjf3kz5cfmiuK3f+MolMOdvsUm9OBEE0ptJ+yX9F18pt94gRi1Qn+sghLBk9R/P2HCOplK52rf1an4u2IySdghGIAAxQlpUvRP0yfFBZAsa49d2R7YgGkoufAw+5oZkdYlcRqdrnB1NfaL8Z5mMGoeKgbTDaM8Rx0IlmL3qJvcy0O7iz2+ruFqImtSBN1hQiOV7wrjktwdBU4w4Ize/UECVorEgBZ+zzhhFv+a2bwvxR29ftTLDJZ7DOwHv2oKlk0UD+UzMUQce8oDb7iuA5yTuoZ8fmdaQinNZf6Hpd7iCA==;jQv0kWLt1vX/B58U7VxAyg=="
 ---

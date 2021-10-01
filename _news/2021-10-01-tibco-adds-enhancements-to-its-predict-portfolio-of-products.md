@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/tibco-adds-enhanceme
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/tibco-adds-enhancements-to-its-predict-portfolio-of-products/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "TIBCO Accelerates Time-to-Insights with Revolutionary Enhancements to Analytics Portfolio"
+    excerpt: "TIBCO Software Inc., a global leader in enterprise data, empowers its customers to connect, unify, and confidently predict business outcomes, solving the world's most complex data-driven challenges. Today,"
+    publishedDateTime: 2021-10-01T00:07:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/204922/tibco-accelerates-time-to-insights-with/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
 
 secured: "rOWe9HbjLJytuPKq7F0kvZxHbpiVt5/hXeiBp3Wj8LKSdNJKuAgO1+UhHNTe9BYD6twu+0/YjeNfgWFFnbRd/ffisu0adTq31TDemXiIBN530TquHPbCVNiEF0sgVVr0BNErKGXNsFeK98UHp7+q16T6LUyn9vTvqFVBXH1A4LTuzwONh4Sm/kvPRRsf5G6Y9AHa3guvB+Xl8Dey6nU+W5xyA5dIdZ0iBqMYP/4Eoj3buHUOJCeibBcNGm6c9AavIKiEY+zKi132/rp3XwOS1V6SJaWEoLXsw/vba853kc9ekwGBfRTKhm2CSpcXRFpBIhjlaTxWxN7i5Z+IQbho13f2MTGjhhfYog0qLL5frbU=;SCbgKNXVe98dsrWMAcS6Ng=="
 ---

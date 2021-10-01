@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Acclarent Launches First ENT Navigation Technology Powered by Artificial Intelligence"
-excerpt: "Acclarent, Inc., part of the Johnson & Johnson Medical Devices Companies, * and a leader in developing minimally-invasive Ear, Nose & Throat (ENT) technologies, today announced the U.S. launch of its first-ever AI-powered ENT technology,"
-publishedDateTime: 2021-09-30T20:58:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/09/30/9460511.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/09/30/9460511.htm"
+excerpt: "Acclarent, Inc., part of the Johnson & Johnson Medical Devices Companies,* and a leader in developing minimally-invasive Ear, Nose & Throat (ENT) technologies,"
+publishedDateTime: 2021-09-30T23:03:00Z
+originalUrl: "https://www.fltimes.com/business/national/acclarent-launches-first-ent-navigation-technology-powered-by-artificial-intelligence/article_00a57f13-c513-5218-a453-f1d972f3adc3.html"
+webUrl: "https://www.fltimes.com/business/national/acclarent-launches-first-ent-navigation-technology-powered-by-artificial-intelligence/article_00a57f13-c513-5218-a453-f1d972f3adc3.html"
 type: article
-quality: 12
-heat: 12
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Finger Lakes Times
+  domain: fltimes.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "MlivCmiv+lvTkUnZSp481CsIYJL8WIobOqXCNeYgH2soe1LrNyjPVHiaZJH6c9gItxxLeWcEipM4TNuhAyz7rEI6q1rz/RfwFvLHPNQ1iMZJGwU6PinbcTswyHkiolNFwc1u2zPN3aNd8r2AqfFkpLMBsYcZbfRP+eS2Rb38cYvr1bEICewQUXWqLO9ECF4LI0f+Ulwszs40+r0t/PGYR3R61+V7GWxJv4u9ILxh3ei4SvDao0rtvyTr/Hb5XiPVb7gZjlPEJPDJXf1mELrybTfxTT4IkqKj3lAkPIuPoSXaxw0qC1jIYlRhOrUCaVyw8EUYau/Xe4sI/6uO22MGz4Bj+3oeh9YLVU9Q0XYM7zU=;uB+MOB1GWqDmXvlf0qBUIg=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/eedition/e/be/ebe3fbe4-e576-532f-85e9-f3bf2725259d/61550d4476fd6.preview-300.jpg?resize=300%2C600"
+    width: 300
+    height: 600
+    isCached: true
+
+secured: "tS9TyDQQpEvSiN5Zp4Sd/qD3CH4MN4mXJ9jkGkWcCjiMB9U0UzwmLg4jwFKXxNInBtvrXubknDhAk7cdch8lazEYlTVaS0tlWCXjwMJH9DGPrAiKGVeDpITj7bQnPvBoVozeDC2CMcDy2NZFsxR8cplrPNo/MRv5eyjznAsFrxVSyJyISMAaQQ5IQixE0Udxo71Caq4s75voE6fIJox4U8tEyTyvoI76f3+11hxJFL8HqwVvfbxjDwW8H0jKCQ7qt+ywKdRtx4F6LylLapPE+i3NUsRBnAEctAKNJSfUM2/g8/j44+qTTlS36hp3kjniBIpnNPNiSY6pZJZKJ43VFVVB3fxaJ9htFru8WBFIQ6M=;SUjWmnMpHYP8vOItCS1Geg=="
 ---
 

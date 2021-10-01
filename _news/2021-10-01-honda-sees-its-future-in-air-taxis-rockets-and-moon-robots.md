@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Honda sees its future in air taxis, rockets and moon robots"
-excerpt: "Honda’s vision of how people will work, travel and spend leisure time in the future will help expand its business beyond cars, lawn mowers and motorcycles. The efforts are a key component of Honda’s “2030 Vision\" to broaden the definition of mobility and to improve peoples’ daily lives."
-publishedDateTime: 2021-09-30T23:41:00Z
-originalUrl: "https://auto.hindustantimes.com/auto/cars/honda-sees-its-future-in-air-taxis-rockets-and-moon-robots-41633002979984.html"
-webUrl: "https://auto.hindustantimes.com/auto/cars/honda-sees-its-future-in-air-taxis-rockets-and-moon-robots-41633002979984.html"
-ampWebUrl: "https://auto.hindustantimes.com/auto/cars/honda-sees-its-future-in-air-taxis-rockets-and-moon-robots/amp-41633002979984.html"
-cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/honda-sees-its-future-in-air-taxis-rockets-and-moon-robots/amp-41633002979984.html"
+excerpt: "Honda's vision of how people will work, travel and spend leisure time in the future will help expand its business beyond cars, lawn mowers and motorcycles. The efforts are a key component of Honda's \"2030 Vision\" to broaden the definition of mobility and to improve peoples' daily lives."
+publishedDateTime: 2021-10-01T00:14:00Z
+originalUrl: "https://www.nationthailand.com/tech/40006870"
+webUrl: "https://www.nationthailand.com/tech/40006870"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Hindustan Times
-  domain: hindustantimes.com
+  name: nationthailand
+  domain: nationthailand.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://images.hindustantimes.com/auto/img/2021/09/30/600x338/britain-aerospace-farnborough-business-rolls_7a38d51c-89b5-11e8-a23e-bc16ac6b2c17_1633003834924.jpg"
-    width: 600
-    height: 338
+  - url: "https://media.nationthailand.com/uploads/images/md/2021/10/yrHKYUG2ssVzuXoZG4Gz.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -58,6 +56,6 @@ related:
         height: 480
         isCached: true
 
-secured: "y2Jrr0+gwMpGbWvyuEbLVugBn16tRZIBev+g7Ok99dta7MKQvRoyHaZU8DfjsLNO9J9rUjIEk7fpHLkIM1UqeaGtmayyHfbMMWp1JQI45STcyySP0wmnlnRtm0yaoZ+Shegczdp7b3cjwYvozSy7QnAF8wSkKkpEhC9o6uEPRojwqFq78dJ0p+fiSwj5EbE3AR8PrBnKcYwiFxs0RbkrKSPOP8IxiP+x4oIxI1hLIExGJSYc46TaFWlV9+GD5Zy5IBlmC55GWvudWOrS0IQ9vCB2pLQK5lB+97RIfqPK+GWedDLsPH67GBx+ihfJzWfZyN6ByCLc2pEN89qtrspJfHnpC1XEVUd+2zfZ5OzFFUA=;kb4iBJmiJw286AslfJTbpg=="
+secured: "xUE48uH5oP9tNnt764T7QnHy+OnjG12G6xPtbdXfP/AV7XFEj9O2eGUnB9nrX5Ldyq2o85vdjnyymOS/KOz+Y28AY+Zv6D2lQrA95EeAcubiAEM5Xj5OSylqwQTmwJF0Ax18IcR+ASwvEDOO8/kKka41FJvnRfmwTXYbCxQohXm1tX1QPgINzxbO0lgwXIxfNuz5+RwX2wQK11G801PjAqfjnxrTOuZhGewCifARS1FEr5wcsMsPUUKSCFWMh/QylDus9FeIUUCjroM0yv7vNSSMuju3BinT16DMOokpaL19OkaOjz0wio14wi/xU3+ugI1wkzpanyn+wjyXnBIYmjT8WmR25R3xaIE6GtZLfHg=;59mceteqQo6k2h14ve26/g=="
 ---
 

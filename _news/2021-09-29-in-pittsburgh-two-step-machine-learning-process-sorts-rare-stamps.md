@@ -39,6 +39,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Commerce Secretary Signals Feds Could Invest In Pittsburgh’s Bid To Become Self-Driving Powerhouse"
+    excerpt: "U.S. Commerce Secretary Gina Raimondo said investments in the tech industry would create jobs across Pittsburgh's economy. She spoke after trade and technology talks between the U.S. and the European Union concluded in Pittsburgh Thursday."
+    publishedDateTime: 2021-09-30T22:57:00Z
+    webUrl: "https://www.wesa.fm/economy-business/2021-09-30/commerce-secretary-signals-feds-could-invest-in-pittsburghs-self-driving-tech-sector"
+    type: article
+    provider:
+      name: WESA
+      domain: wesa.fm
+    quality: 10
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/7b69ee2/2147483647/strip/true/crop/4800x2520+0+157/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F63%2Fe6%2Fe6e0cd254588be7e8f8971e9c4c7%2Fraimondo-photo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "N260hh0Aob3KXvLYmDZs2NsZR1e/kcmUdT/VRhHgFBD6/CHPf/Ke0EBMdfWBJlUANYdlLfukxwlbMoJOGBwnkzpgVlASIl/m4Rj6ysqwxw50XJ5I2OoaJ9LJHmBq91KSqHG4ssFU+VJrwA/YkE5ApXgVHrKMrYzCS+4tpIEHmnN4GoNdfp7eeDTqJQDBFUy3fR2CBXMguxTojswhqWYYZGbXukxQvZAU5PGiAUOa74myAdo9ldwcEQo/sSrIpz2nrw9PoPafwiXGLOSSRUxaYdrK9QpNN6/aibdBvTRane/3aOyt/ioGx37YuBhVjjeuXzdwxc5C/vCsknsjmbD+Fe1eHBM9jdiYPSr3Ejn/rvuFLcJ3FV3jUnkFc/LbbT1ulgCZw1M1Sx1gJJOvk3h40ilD3hh9IMLjHhiv5SZp38vl/zIzl1bvRF8e+luJ93J9fSIw0zjLcLbgmURMZMAYJsOlvi81A53q15qxGAEbn0qwlDva/kZbDQc2o9bS/ATQLKqWy5Uu30MXgdqA3E0wnw==;uCIYRVDlRrNUbxbgKFiAcw=="
 ---

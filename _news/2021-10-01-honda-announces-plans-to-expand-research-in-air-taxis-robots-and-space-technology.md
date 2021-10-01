@@ -42,20 +42,18 @@ related:
         height: 630
         isCached: true
   - title: "Honda sees its future in air taxis, rockets and moon robots"
-    excerpt: "Honda’s vision of how people will work, travel and spend leisure time in the future will help expand its business beyond cars, lawn mowers and motorcycles. The efforts are a key component of Honda’s “2030 Vision\" to broaden the definition of mobility and to improve peoples’ daily lives."
-    publishedDateTime: 2021-09-30T23:41:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/cars/honda-sees-its-future-in-air-taxis-rockets-and-moon-robots-41633002979984.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/honda-sees-its-future-in-air-taxis-rockets-and-moon-robots/amp-41633002979984.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/honda-sees-its-future-in-air-taxis-rockets-and-moon-robots/amp-41633002979984.html"
+    excerpt: "Honda's vision of how people will work, travel and spend leisure time in the future will help expand its business beyond cars, lawn mowers and motorcycles. The efforts are a key component of Honda's \"2030 Vision\" to broaden the definition of mobility and to improve peoples' daily lives."
+    publishedDateTime: 2021-10-01T00:14:00Z
+    webUrl: "https://www.nationthailand.com/tech/40006870"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 74
+      name: nationthailand
+      domain: nationthailand.com
+    quality: 54
     images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/09/30/600x338/britain-aerospace-farnborough-business-rolls_7a38d51c-89b5-11e8-a23e-bc16ac6b2c17_1633003834924.jpg"
-        width: 600
-        height: 338
+      - url: "https://media.nationthailand.com/uploads/images/md/2021/10/yrHKYUG2ssVzuXoZG4Gz.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "UA22Z0kN1fbX9teW9fVSMYRC8FXm+6LHjJnIn3BYjgCRcbZuXaw67twbD+8JkS4ounQiSNB75hqiGEBxb3u1m0INEapX4tliPxEEEQDSqvV4BAPEBJsJb/hIYIIVANAUlfb3XwoedvTmvDBsorkC7dVEpi/Aw/FrJ+1s+svFdCkAXWTu/ZGHwoLrOdeD5jcZIowPjnjeYmIVaeOs1QMZgv90v5auag8+CBa+1ilUODCTjQs035Ezz9ZWHe+UCJghvbspZ67wClmXtyt05SNRGv0GRFXVgz0/QVxeLCWlZnkjiWE7nljOPvx+tUfoplOGa1rcbCKzAcobbyg0dPEhKddsRUGc3T9xcQ9VFrALgX6nRrjCu29RLx2ZYeRQqhaYt+dyzDYZQ9ofatrNwwFPgOHFmf9sNetTsBpZG1wrNjQyg++CtrjLqiFpsafsqIm84Aa8lULYhaeznYzvPHRTHJZKnq8ii4kLi7tGFpGL+eRBw1D/InUKm854S4x4utSXGZ5fOXWQAxLchiGrA2xaiw==;MA91MhLD02sVBIT5G87Ieg=="

@@ -26,6 +26,31 @@ images:
     height: 575
     isCached: true
 
+related:
+  - title: "SambaNova Systems to Showcase World’s Most Advanced Software, Hardware and Services for AI at GITEX 2021"
+    excerpt: "SambaNova Systems, the company building the industry’s most advanced software, hardware and services to run AI applications, announced today that it will be attending GITEX Technology Week 2021 as part of the company’s goal to expand Artificial Intelligence and Machine Learning adoption in the Middle East and around the world."
+    publishedDateTime: 2021-09-27T16:11:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/business-technology-middle-east-software-artificial-intelligence-afcb708b9c2e4ebbb17a353aa4d97cfc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "SambaNova Systems to Showcase World’s Most Advanced Software, Hardware and Services for AI at GITEX 2021"
+    excerpt: "SambaNova Systems, the company building the industry’s most advanced software, hardware and services to run AI applications, announced today that it w"
+    publishedDateTime: 2021-09-27T20:11:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210927005667/en/SambaNova-Systems-to-Showcase-World’s-Most-Advanced-Software-Hardware-and-Services-for-AI-at-GITEX-2021"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 2
+
 secured: "mPlgB0v42AYsPci8oBTkzNnHrDQ0ZqbsTSthbGOk7JYg4DcXOC6FlcZ5lP+locTN0oowwHYwwUQg9C5RzOSWXF8OHQ5x5g2Hl40IY0mndjMd7oyVGN/GLx7kZMEtpWk+0rrtVXeTwUWOi09C1SqYActQCVW1W6ysY4zvunOusahnNnO9JC3pft9SQDXInG57u8ivWvplBQm3ROS+cG5adPjqzgYBO1slqrBwAKwxPH30TiyC+FLdkVSzqMy5gzU+RC3ZAq0j4QO3TEJ+e5A4MpC58+4LKKt6tT70OI5nZ/HAlL+w92SkaYeC56ZCT0q9jUMFCOr+iwxrKBMSCkeqnB0r0jJjr68lgQ50ldTFSIQ=;M4srMZ7iP7MFrSnaisAkQg=="
 ---
 
