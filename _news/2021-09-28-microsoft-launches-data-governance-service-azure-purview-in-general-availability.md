@@ -60,18 +60,18 @@ related:
         height: 443
         isCached: true
   - title: "Augmented Intelligence Market is Going to Boom with Microsoft, Google, AWS"
-    excerpt: "A Latest intelligence report published by AMA Research with title “ Augmented Intelligence Market Outlook to 2026. A detailed study accumulated to offer Latest insights about acute features of the Global Augmented Intelligence Market ."
-    publishedDateTime: 2021-09-28T20:45:00Z
-    webUrl: "https://menafn.com/1102881322/Augmented-Intelligence-Market-is-Going-to-Boom-with-Microsoft-Google-AWS"
+    excerpt: "A Latest intelligence report published by AMA Research with title \"Augmented Intelligence Market Outlook to 2026. A detailed study accumulated to offer Latest insights about acute features of the Global Augmented Intelligence Market."
+    publishedDateTime: 2021-09-28T20:12:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271341702/augmented-intelligence-market-is-going-to-boom-with-microsoft-google-aws"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 54
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?950318"
-        width: 443
-        height: 250
+      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/09/824-1632824413.ama-logo.png"
+        width: 300
+        height: 300
         isCached: true
   - title: "smartShift achieves the SAP on Microsoft Azure Advanced Specialization"
     excerpt: "Shift a leading provider of automated transformations and management of legacy enterprise systems in the cloud today announced it has achieved SAP on Microsoft Azure Advanced Specialization. The advanced specialization is designed for"

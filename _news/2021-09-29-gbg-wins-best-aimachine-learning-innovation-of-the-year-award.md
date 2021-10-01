@@ -7,8 +7,8 @@ originalUrl: "https://menafn.com/1102883927/GBG-wins-Best-AIMachine-Learning-Inn
 webUrl: "https://menafn.com/1102883927/GBG-wins-Best-AIMachine-Learning-Innovation-of-the-Year-award"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Middle East North Africa Financial Network
@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "GBG wins Best AI/Machine Learning Innovation of the Year award"
+    excerpt: "Judges praise GBG’s technology for reducing false positives and improving fraud detection SINGAPORE – Media OutReach – 29 September 2021 – GBG (AIM:GBG), the global expert in digital identity, helping businesses prevent fraud and meet complex compliance requirements,"
+    publishedDateTime: 2021-10-01T08:41:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/gbg-wins-best-ai-machine-learning-innovation-of-the-year-award/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/category/news/gbg-wins-best-ai-machine-learning-innovation-of-the-year-award/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/gbg-wins-best-ai-machine-learning-innovation-of-the-year-award/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 56
   - title: "Best AI and machine learning innovation: GBG"
     excerpt: "In this area, machine learning can play a part in identifying and mapping out new patterns, tracking highly suspicious activities and known fraud better than a traditional rules-based engine. Dev Dhiman,"
     publishedDateTime: 2021-09-29T03:15:00Z

@@ -107,22 +107,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Tesla starts judging owners it charged $10,000 for self-driving"
-    excerpt: "The wait is almost over for some Tesla Inc. customers to get access to driver-assistance technology the company has marketed in controversial ways —"
-    publishedDateTime: 2021-09-26T16:58:00Z
-    webUrl: "https://www.dallasnews.com/business/autos/2021/09/26/tesla-starts-judging-owners-it-charged-10000-for-self-driving/"
-    ampWebUrl: "https://www.dallasnews.com/business/autos/2021/09/26/tesla-starts-judging-owners-it-charged-10000-for-self-driving/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2021/09/26/tesla-starts-judging-owners-it-charged-10000-for-self-driving/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 59
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/sbYttjb7sj7EA4MYM7NrEfpCTWI=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/6VNLZQXXUFDBVJJA72CJUUMS7A.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Police Sue Tesla for Self-Driving Car That Injured Five Officers"
     excerpt: "Five Texas cops filed a lawsuit against Tesla on Monday over a crash seemingly caused by the car’s semiautonomous Autopilot mode. Back in February, the cops had pulled over another car when the Model X crashed into their vehicles at 70 miles per hour,"
     publishedDateTime: 2021-09-28T17:23:00Z

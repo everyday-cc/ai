@@ -37,6 +37,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "NITI Aayog, AWS, Intel collaborate to launch experience studio for startups"
+    excerpt: "The Studio will help showcase the potential of technologies such as AI, ML, IoT, AR and VR, blockchain, and robotics to accelerate their application."
+    publishedDateTime: 2021-10-01T09:22:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/niti-aayog-aws-intel-collaborate-to-launch-experience-studio-for-startups-71633080159545.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/niti-aayog-aws-intel-collaborate-to-launch-experience-studio-for-startups-71633080159545.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/niti-aayog-aws-intel-collaborate-to-launch-experience-studio-for-startups-71633080159545.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 57
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2021/10/01/1600x900/5c119348-4f48-11eb-a590-57d88199e656_1616069758670_1633080829993.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "NITI Aayog, AWS, and Intel Collaborate to Accelerate Digital Innovation in India"
     excerpt: "The National Institution for Transforming India (NITI Aayog), the Government of India’s national policy think tank, Amazon Web Services (AWS), and Intel have"
     publishedDateTime: 2021-09-30T12:14:00Z

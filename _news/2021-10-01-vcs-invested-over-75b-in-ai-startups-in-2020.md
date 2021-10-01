@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/30/vcs-invested-over-75b-in-ai-start
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/30/vcs-invested-over-75b-in-ai-startups-in-2020/amp/"
 type: article
 quality: 87
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://assets.oecdcode.org/covers/1000~social/g27270fa.jpg"
         width: 1000
         height: 500
+        isCached: true
+  - title: "Global venture capitalists invested over $75bn in AI startups in 2020"
+    excerpt: "The global investments by venture capitalists (VC) in private companies focused on artificial intelligence (AI) are growing at a dramatic pace, said a study. According to a new report from the Organization for Economic Cooperation and Development (OECD),"
+    publishedDateTime: 2021-10-01T08:25:00Z
+    webUrl: "https://www.opalesque.com/687754/Global_venture_capitalists_invested_over_in_AI775.html"
+    type: article
+    provider:
+      name: Opalesque
+      domain: opalesque.com
+    quality: 37
+    images:
+      - url: "https://www.opalesque.com/images/The-Great-Migration-Box-Banner.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "GTG9lCG1OoEIVCv8QOue8gwbDOsKn6Ca4RnCVZaErTNJOJVl9QAhpAuMq23YugWxZZa+M69mzD/ctApWYZWSB4iwAgrb+dVBgVW0OSfJoQj34xMl069+OqQXqKKvmh/m5HHDaIPisJuU5V1U2SjONK1sDhCS22+44VidChHfiQU2L1B7SMPDYTGXjjUHShyTNSEoNajWi9P+hAICUJ/s3L61CFf7939kQN1DZt69yK4JMAeQQTpK/7ug9B5hjEl5F2ddr+XwY10c8EM1yPh7gYj2IZ0pLSLsZ7LOZJXvn7Fvqj0xAcVHPT25Uf7dSakkINUTl333BfnLUGd9InRCEFQxMop77x5OtJObvNbXdmk90KtCAZ4s5lsamh4BpdXWXuhWDUCZVB7JT3BjK8y9Sa7s0MXttFdigZ39X/jeHXQp92qmFQU6YrNSAPoQdheCh/maV3Ot9ZMs7T8hlezPNze/HH2FdhpBjbXT8jxbWAB+ZyiDrWzvSy9ZYAxnpGv/AczWdv6sTD7r55L1XGkIBw==;4oc3YPKnqJU8Dmyi5CDolw=="

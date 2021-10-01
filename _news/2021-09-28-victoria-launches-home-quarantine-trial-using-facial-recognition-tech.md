@@ -57,17 +57,6 @@ related:
         width: 745
         height: 419
         isCached: true
-  - title: "Absa launches facial recognition"
-    excerpt: "Absa has launched facial recognition in its Android and iOS apps, allowing clients to authenticate certain transactions by scanning their faces. The bank notified clients of the new feature with a pop-up message that appears when you sign in to your Internet banking profile."
-    publishedDateTime: 2021-09-26T15:39:00Z
-    webUrl: "https://mybroadband.co.za/news/security/413610-absa-launches-facial-recognition.html"
-    ampWebUrl: "https://mybroadband.co.za/news/security/413610-absa-launches-facial-recognition.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/security/413610-absa-launches-facial-recognition.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
 
 secured: "Eu3yt3D+LrZbLs9b5O7+0S9Syp07Sc9F9UhCYMWFr9mUYucgus1FhbDFZr3JPfz1MqmwrM7egZM+K0zQHWzcVmAvgxb9oSBg9y++TH8cQXESni25LOzRGa+taJaY06E5hMHm8ZrqvW4DTy3dz1qEaU6+Lxe6QJfZNqKcyEmHOgUQZXN7vqZQkxPN5hggioQct/B7uQNYFOKDKSsGbCTo/rEv16dz2J8UF7tVuRyetchsaa9rbq+FNGOBvuOHsca2MaSK/ts0BLeU5ioChe1MnxMs8J1gA50E206KWb/yzdF8pEZ8VRWf6BnxCeYDirJNnlVIGci84wmixGBhgVbOxSoYIj6WO639iyOyR1zFREa8NBOx2V3HpaSXyRUkEPETQtHRRpVu9Sw1Wt/HD2hzL+ToacWrvXM0blm8dAe+ZESQUO7FbE9QVVDO3+T5OFH9kFD6f9Y1x+iUj9T9OLHBhR9P9Du6/ftbW9LN7T7jXhXF4UoDhJIKreng6mACQzQmXc86JiNpnPTIHufkedCw3A==;aQEM2cwXefaFvfuoxPuFRg=="
 ---

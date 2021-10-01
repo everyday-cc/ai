@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Augmented Intelligence Market is Going to Boom with Microsoft, Google, AWS"
-excerpt: "A Latest intelligence report published by AMA Research with title “ Augmented Intelligence Market Outlook to 2026. A detailed study accumulated to offer Latest insights about acute features of the Global Augmented Intelligence Market ."
-publishedDateTime: 2021-09-28T20:45:00Z
-originalUrl: "https://menafn.com/1102881322/Augmented-Intelligence-Market-is-Going-to-Boom-with-Microsoft-Google-AWS"
-webUrl: "https://menafn.com/1102881322/Augmented-Intelligence-Market-is-Going-to-Boom-with-Microsoft-Google-AWS"
+excerpt: "A Latest intelligence report published by AMA Research with title \"Augmented Intelligence Market Outlook to 2026. A detailed study accumulated to offer Latest insights about acute features of the Global Augmented Intelligence Market."
+publishedDateTime: 2021-09-28T20:12:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/271341702/augmented-intelligence-market-is-going-to-boom-with-microsoft-google-aws"
+webUrl: "https://www.bignewsnetwork.com/news/271341702/augmented-intelligence-market-is-going-to-boom-with-microsoft-google-aws"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - AWS AI
@@ -20,9 +20,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?950318"
-    width: 443
-    height: 250
+  - url: "https://icrowdnewswire.com/wp-content/uploads/2021/09/824-1632824413.ama-logo.png"
+    width: 300
+    height: 300
     isCached: true
 
 related:
@@ -122,6 +122,6 @@ related:
       domain: tdwi.org
     quality: 21
 
-secured: "pAIyYsC+lAjKFfVqdIKKsVYH5U6026hbLNTK9x5UFJxLJMgkAra6ytGDNxH3Z6anFpvPmiOhzw2A/N0ZPAR9ToZDdmNVahhVd4ikfM/lefrDZtxZWZDq4jXfbcvJElOrq298mw+TVVZlN7XNc0FtdzXwNyFk+RQbOmwJTiiBu+LIanYCPNXWjQskXVdf99p/we8ZN4+2leG2aM85lyFCg/BmWLy6vPyGh9ZO6+kDEVIx8r9Pt1SMRl2ip09OokLcpBi4mOFkGpEiv1T5ZZL9hX9R0nqiYUpfoSgTfMST6M/+DvGnruLMXeP8GvNaopXsu7iH7pqa2SI8v3wYs8xpUWUWaI/v5ClHf4edT553sO4=;aYan0wwQlsILocoYAZielw=="
+secured: "aWa4ih91VIDgLHAvG5gmRLs42zng2K8WGL04mlCEHFcuL9W092RxuuyiOVcHvrJ9QqOw/qpXi0FbhTU1BBOB6ktbPB78cOoAKwYtHxK1mYci8MbPGUlI3GnqHzx+Mi9GIy96AEx+dPG6C2g5k/cuG/Yqwd9b0u+Z6Qt+N+DskOcyIFZOQvY8MBhdNjW58+CVCt20wsdx3fr9zo7HVfl1Dt0gud2PGFcmxwHUnxOmfz1KW+F1iZpVBtWtcD8WAtjwMF26SN2pwB1rE7M8l4F2HTt/5QbrkaZXtdJmq1uJYeT5h3YEvkMG3jyC4Yy9VmEB9jnvvW0Vqjt7jW+QrCK3ORoCcFQNjlgE44z40fmXEOc=;Qv4zXgEf5KbBAa3Fe90eGg=="
 ---
 

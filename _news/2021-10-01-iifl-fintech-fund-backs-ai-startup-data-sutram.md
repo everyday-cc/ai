@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-01T07:39:00Z
 originalUrl: "https://www.vccircle.com/iifl-fintech-fund-backs-ai-startup-data-sutram"
 webUrl: "https://www.vccircle.com/iifl-fintech-fund-backs-ai-startup-data-sutram"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://assets.vccircle.com/uploads/2019/05/Fundingrf2.jpg"
@@ -57,6 +58,6 @@ related:
         height: 628
         isCached: true
 
-secured: "w0zv1gODppHE85DYt+GmPaKdQCQ8QJ2uK0vijDybDcH7eWB/kGU2UKEqgpBp2Xv/4r371hdKilgzS3Ad4Tw7Qv/vzK12DfYkf1WczS8191GIroL+5fbt4Zf5dyVPEQnfgJ5D1y56Cv1VJPzy64Wikl4MkQBQ8q7Q4E1uwA9Ega7yiSQJT+orCeXct0/qsUDzpLFpPWrEzeOC7uraIadw1141LQJo1khrdi9IagFvHGjifW0zOCOosHa1mXhmuHptWl/Op3ZIEwa81OJY/0MuE0i3cn70xKz6svdGg7e0mKK0sDHfMRzKDIwcdW/v+wD+ZJ4+c81APbgXlpsySgzy0mnUWsZLl1EwKVBK+T7AFHo=;RsYEQ3sUq8oxwmAedu/qXw=="
+secured: "cRkysZnfhtAlLAufl4FGF1jn0HQplbDPSqldDQjEAv42eLqgBdh+Fr6UKpXKXYEaXckiA2FjshfoHX0t8fJr5FFFNJXs+u1GSW3ev6SaP/ATQfrI0SpR28y0uyEEpeSsJCSUxPt8QCQ5q+2xkPODjL0rFjkXivX3vIbpBelsiEoxFcEp3z/AsR6E3lrBTyOEUjqY7P1IhgidUQwQsPu6OjSfIFi/DGUkcKxvDUTfmRAzuXWGoG/Bj5GYcJSK/H4D98Epph52UFUN6B5xClsq43ZlOK2Dufo76JEj8Yp3UPaChCGyeKNg3c3K+V6u741qAKn7acaJGRtnPUT9vdPsPSKA/h4qEtVNO2CFug3DpSrLLx3c0IwRVzK4lNnpeYVQOqH+jEn54+z91IpDvNSYGDeIi71+aR8t3/6TaTXhPwJ1rJedjoQev8VXfM4m73PTwezLJgvHbbd5CpyL0S32m1kEndtytZRY4kIHehXd9hgkzqW0KxwJOngr5z94JAxyVw3kpA0HMCxfgbNijHXRHA==;SQd+jZry8fggd8Wtz/Z5AQ=="
 ---
 

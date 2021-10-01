@@ -3,8 +3,8 @@ category: news
 title: "Waymo & GM's Autonomous Driving Unit Cruise Granted Permits to Deploy Commercial Self-Driving Vehicles in the San Francisco Bay Area"
 excerpt: "Alphabet’s self-driving division Waymo, along with Cruise, the autonomous driving unit of automaker General Motors, have each been issued permits by California’s Department of Motor Vehicles (DMV) to deploy commercial self-driving vehicles carrying paying customers."
 publishedDateTime: 2021-09-30T23:30:00Z
-originalUrl: "https://www.futurecar.com/4900/Waymo-&-GM’s-Autonomous-Driving-Unit-Cruise-Granted-Permits-to-Deploy-Commercial-Self-Driving-Vehicles-in-the-San-Francisco-Bay-Area"
-webUrl: "https://www.futurecar.com/4900/Waymo-&-GM’s-Autonomous-Driving-Unit-Cruise-Granted-Permits-to-Deploy-Commercial-Self-Driving-Vehicles-in-the-San-Francisco-Bay-Area"
+originalUrl: "https://www.futurecar.com/4900/Waymo-and-GM’s-Autonomous-Driving-Unit-Cruise-Granted-Permits-to-Deploy-Commercial-Self-Driving-Vehicles-in-the-San-Francisco-Bay-Area"
+webUrl: "https://www.futurecar.com/4900/Waymo-and-GM’s-Autonomous-Driving-Unit-Cruise-Granted-Permits-to-Deploy-Commercial-Self-Driving-Vehicles-in-the-San-Francisco-Bay-Area"
 type: article
 quality: 8
 heat: -1
@@ -42,6 +42,6 @@ related:
         height: 545
         isCached: true
 
-secured: "qS3RZEtouuxS7tZHmxlS4LeqaEFTb+wk9vX5oqRVT0qB8+yY7AXeko0mN1AQxP/w4/dU3AzqgbNA1h7Into3M3lgD1FAusbHQbHmXvrLU2t75m6JNTnwC/bPzcjk11XI76vjzgrpovAgqEjCAPtXVrEjVVQPEJcL86cglpmpk8gv4sY96tR0cj+hOY763vyPhZvYeTbCF5/z4M3LF4wW0vfk0BL3vMmcSeQsX33nQvtStjb5gHYSspQSLZISijlzFDl4DPP3kg0nfQZXfB91QOqXg4ijWeSJoPsgmac8V/pqJel7Y2w1m4zNGYn8NPw6jKDdzALcxzukPfThrwY/wmEtCwnCJCFR2LHfNrbzMs2g4sDM6J2w7WFl7AEF2AwCjswajMsk7g5lpoV8gJ5g6OMjbubeHz8fzT2WIOj8XKC5loWGVKVUrBGZkqNEjfjQBQ5DIAtkeYhhN/SKsVikMEEqoLWLUQ9rZOdIaMqNWHPoWIdMjzGpLXga/u8CGoLKLsHmj+RIcUUoEgqNsCjLHw==;Feij+RUcNq8C5Xvzb8QxiQ=="
+secured: "9CUz0KILFBlFElgo3hHtY/Pj8RiftsMMPB2kHPuDATO4pC6FFAFkSmJB1r1SKSrF/KVLybRZvMvd2WJruM/UUMp4jN+jyIPI1ET/CIgFzXrtyowhzeSUa55s9lYisN9s73+4JO5HfQgbMdLxAbG4Z8/VEp/WMJjFWWz4EynbDS5te0/5t0fDiAuMmSQnriajyuJFnQMh6ZaVpK+v4YpSTAd7UJTVGZIKKBsKO+E56CbglB3bO259suzp8aTsYQej5raxuOBWTZ8Y6RfqXfdYXKRiNP7uL4byIyw9YQrX8VMt7LEbFZF5rg2E7U1pw4u5iEm9sojDbsUACOtbgiPPKLbIoG82EGOZINlHo/0gYHw=;so+/r/0HI7XdVx1AuDo4tA=="
 ---
 

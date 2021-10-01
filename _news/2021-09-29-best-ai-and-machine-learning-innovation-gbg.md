@@ -39,6 +39,17 @@ related:
         width: 318
         height: 213
         isCached: true
+  - title: "GBG wins Best AI/Machine Learning Innovation of the Year award"
+    excerpt: "Judges praise GBG’s technology for reducing false positives and improving fraud detection SINGAPORE – Media OutReach – 29 September 2021 – GBG (AIM:GBG), the global expert in digital identity, helping businesses prevent fraud and meet complex compliance requirements,"
+    publishedDateTime: 2021-10-01T08:41:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/gbg-wins-best-ai-machine-learning-innovation-of-the-year-award/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/category/news/gbg-wins-best-ai-machine-learning-innovation-of-the-year-award/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/gbg-wins-best-ai-machine-learning-innovation-of-the-year-award/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 56
 
 secured: "R6Cdg5EalCVIBxrk6AYwJfD8tmKVt/xyv1q+cRgglWpuvbrFMclyIIw1ibPQzQy2kigyWIeTOoysjJ97d3OjrVwH9qeuTbcidBSDXBXPKFUxWQuejKafVTehdZ8CMKTqH1SZ+adYLYn7oNdtmCclw38a2CTrNe5qJQc/xfodeE1BdIngokLBtyze/OjGmAjSOsrjXrG+sZnTdluOEoY/bodx209DOb34qRH36WyHIje1RigRnEz8lvLG+SPe7rYub0LOoE8LaJKukY+vczuF3ki8H2x7i3HltF8wB3F8AydzPQb9HTleqvstyzXtsGiOKfp02SPSBzSzrha+zgebEGiA3X2IhVYAeKu17MDojZU9QuyK3gkox4MunCC8m1H8essEUMxB2dyNy3c1Loyk8WvuwOPXmbx+wEaCA3+6f1u5wR7zTOIfcUd2cpLGlJ0hZ5jn/DkyK5g+NdAXCTejANBS09s8zRF2/FWZbUsIV9+87SOBmhNcp82qT/vtYGNyW8TyRL1sH17ejEQsFw7G2Q==;bW6MoaNL6CD7oMnJyLcVFQ=="
 ---

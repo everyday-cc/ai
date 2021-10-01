@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Interface Masters Develops Tahoe 8830 Network Appliance for Advanced Artificial Intelligence and Machine Learning Applications"
-excerpt: "Technologies announces Tahoe 8830, an off-the-shelf artificial intelligence and machine learning workhorse which 'rounds out' Interface Masters family of ARM (News - Alert) ® and MIPs based network appliances."
-publishedDateTime: 2021-09-30T14:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/09/30/9460153.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/09/30/9460153.htm"
+excerpt: "Interface Masters Technologies announces Tahoe 8830, an off-the-shelf artificial intelligence and machine learning workhorse which ‘rounds out’ Interface Masters family of ARM ® and MIPs based network appliances."
+publishedDateTime: 2021-09-30T14:04:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-880c78d088a84fdda83af43a9a0fc31a"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-880c78d088a84fdda83af43a9a0fc31a"
 type: article
-quality: 6
-heat: 6
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
   - Machine Learning
 
-secured: "2FsDuW+0crMy2/jDTDqNhC7/QsGFvVVaO407He4YyGiy4mEUvoHS6sKDxvycK9xHrA+Zbkz1q0AE2/sS1TYJhYxTGfifoWWCdKSpbFNm62gDPDLU2sXMZL095erGFTfk4huvRZ61Kp8PK7m4cMRWsjcrc93j/CDs3YkJwy2mWDLvp0JTAbjUQ9ySnjNNh6RtFhR/fZjDjcMe/hx5MhfX4kqWexZpyz24pyLamKiZeIp9zvAuESQ1JVpJoXa3rsSglwaedW8USXtR2/i60JOiz+8SY2GhsNRjPYMhghvPJzChhWJbAtvLON8yzNTznfG5rQvr159SKQLMnMw1+U6dkEmPmVxssoSM59Jnj0S/E4+hPAA7IvrEgjBflcg5GJZSTZfSSIUwclk3EBID56otpurq2bEgoOf2AAIqSIsPDNpP/G/cH0R9l5osy2qgO/2o4XrsN1pRdCKPTW+MQM4BKAMN9++ehypDX6q7v5aFrVfzwZxPP9c4W2qkIfePyqZIkyn527CCJ7ZhdrBMEmOETg==;LBNnzL2KY9q1kGdwE0mKMA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "zUsWHVjuPtemGkllTSDgiqAXCAx5mPQBdwXWVjL1t7SMK60z2lm39AzRm/nRC7hKxWuwa30/+zaco1UfKx5osg5H+pc2V9LOflfoxGluA+T8k8IXZ4y/sCqej9JSa59mMGURl3ih2ZywFP9zlZ4bdEpKzdxlIpH6p+DeWY6l4cS+r+9PvuTMSr6tRQfQQy9tN9XzBrFhg5F8Y+8yH7HKilwGeGOKPwmffGXk3Ye0KisFe8eR0TA7JEHtBDuCz+jr5fwiJQX81N5h3+OD2kM29sOvlY9zgjdQMtmnosZQdZdOmzBVvaWvHYuXAiUURnRZnP1pWYZ+DxXTkB78HwRMLg35B/DS7/09T1UB/QcjIZs=;aNGKhhPlXrX3Eu9bg94RgA=="
 ---
 

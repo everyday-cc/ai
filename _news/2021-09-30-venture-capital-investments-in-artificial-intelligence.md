@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Global venture capitalists invested over $75bn in AI startups in 2020"
+    excerpt: "The global investments by venture capitalists (VC) in private companies focused on artificial intelligence (AI) are growing at a dramatic pace, said a study. According to a new report from the Organization for Economic Cooperation and Development (OECD),"
+    publishedDateTime: 2021-10-01T08:25:00Z
+    webUrl: "https://www.opalesque.com/687754/Global_venture_capitalists_invested_over_in_AI775.html"
+    type: article
+    provider:
+      name: Opalesque
+      domain: opalesque.com
+    quality: 37
+    images:
+      - url: "https://www.opalesque.com/images/The-Great-Migration-Box-Banner.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "zXUtHw5iXmfAiwWqguBeG2rQL0jR+Dhule9mP4H4Si/8KYzRqbHsxFMxmbjwH1CjpLnYsfhDbhcaVO5ITH+IcWTZi5PHyNWMmBN8iKE1QegyZKQAD/0e5Cvn3R0ew5yMsML+pyUCdmYiQCx7YSIKk9on33Fbra2TDP96lNJU2tFA+9W+1iKsDvw2Qv0p4vYZ5EAT/9FchWOWONbzAcKmQDnvJCgbmJGg+DME/AREB0YTBQ0yLD3Erpin7NUa8VlXjKeh2ZRa3woBiMgKGzli6C2L4xA1O3dz4yN7VRuprukEegdJMfSvTzErCMkbfYP2tYAYoMpBCTRVnrFBoTm72uJGpGP9BCF0hiTyvg9su+U=;M9VIcwCrigIOL6hgtIN+SA=="
 ---

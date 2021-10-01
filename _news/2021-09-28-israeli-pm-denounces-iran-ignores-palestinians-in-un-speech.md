@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bennett to urge action on Iran in UN speech, won’t focus on Palestinians — aide"
-    excerpt: "PM will warn at UN that world at a ‘critical stage in the Iranian nuclear program’; adviser says Israel’s ties with world ‘multi-faceted,’ mustn’t be defined by Palestinian issue"
-    publishedDateTime: 2021-09-26T15:56:00Z
-    webUrl: "https://www.timesofisrael.com/bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide/"
-    ampWebUrl: "https://www.timesofisrael.com/bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide/amp/"
-    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide/amp/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 55
-    images:
-      - url: "https://static.timesofisrael.com/www/uploads/2021/09/F210912OF03-640x400.jpg"
-        width: 640
-        height: 400
-        isCached: true
   - title: "Israeli PM denounces Iran, ignores Palestinians in UN speech"
     excerpt: "In his maiden speech to Naftali Bennett made no mention of Israel's decadeslong conflict with the Palestinians and instead sought to portray Iran as a menace to global security. “Iran’s nuclear program has hit a watershed moment,"
     publishedDateTime: 2021-09-27T14:49:00Z

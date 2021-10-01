@@ -36,21 +36,14 @@ related:
         height: 900
         isCached: true
   - title: "The 3 Best AI Stocks To Buy for Massive Upside Potential"
-    excerpt: "Many companies have benefited from their application of AI. But these three AI stocks have the most upside potential in the space."
-    publishedDateTime: 2021-09-28T11:28:00Z
-    webUrl: "https://investorplace.com/2021/09/the-3-best-ai-stocks-to-buy-for-massive-upside-potential/"
-    ampWebUrl: "https://investorplace.com/2021/09/the-3-best-ai-stocks-to-buy-for-massive-upside-potential/amp/"
-    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/09/the-3-best-ai-stocks-to-buy-for-massive-upside-potential/amp/"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) has been the focal point of science fiction for"
+    publishedDateTime: 2021-09-28T15:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-to-buy-for-massive-upside-potential-1030830001"
     type: article
     provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 59
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2019/10/artificial-intelligence.jpg"
-        width: 1600
-        height: 900
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "3 Top Artificial Intelligence Stocks to Buy This Month"
     excerpt: "Artificial intelligence (AI) has become a buzzword. But, it may be deserving of the hype given the technology's potential to disrupt various industries. Therefore, fundamentally sound AI stocks Cisco Systems (CSCO),"
     publishedDateTime: 2021-09-30T20:34:00Z

@@ -59,6 +59,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Tech Digest daily roundup: AI can tell if it’s going to rain in next 2 hours"
+    excerpt: "AI can tell whether it's going to rain in next two hours. Scientists at DeepMind and the University of Exeter partnered with the Met Office"
+    publishedDateTime: 2021-10-01T09:35:00Z
+    webUrl: "https://www.techdigest.tv/2021/10/tech-digest-daily-roundup-ai-can-tell-if-its-going-to-rain-in-next-2-hours.html"
+    type: article
+    provider:
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 36
+    images:
+      - url: "https://www.techdigest.tv/wp-content/uploads/2021/10/Screenshot-2021-10-01-at-10.19.36.png"
+        width: 1194
+        height: 639
+        isCached: true
 
 secured: "iiqs2bnv4qUiH4NRBbdDmwvr+U5G4nhcNWQM06nlNLbZi69vd5vD4yNkKxWT9iI8EaPFJiLOouNDWz2VYNKi4zyh6+EryFK2wPHI0UovK4UGfG3T134jP/ntGy2BfBk07lSvVi/FuqZwUywZ8JsBLSZoeJox2NW1rRSShdBG9SWFn4eV6132b097NMI2uwW2a7un6PJnbB3kBERzaguFcREn3Q5BZR+5d1jx2ZxR7Gmq5Rf2fOC+p8mQ0cpvTbUFl5N3GTaM9e2/hX1xxYjQhVSeqr/YxqL8o4RItAFIGkewrDju8UQIXf4qMTCsC/feGN6PKBZJFJ0Dr5AEUairQZpiiO9YDtiy0PsiZJQyHjlMMK7IYG9vExmyUa3d0rdTuyNqC2ZDMWv5pbj2jHwrbaUS+EVHo+f19r4tBWMXhOIyFUZdwXyyeD7GvJb203vVkUnuPK7jxYWwO5Eh/exDZoL14mfCk2yWR30HMg1Gz8y3k1JVS6jIHgApIXshQrGHRU3wT6zJ9rIWwJ/6VxYKCQ==;f8ZoNrlV3a03bIszd8OcKg=="
 ---

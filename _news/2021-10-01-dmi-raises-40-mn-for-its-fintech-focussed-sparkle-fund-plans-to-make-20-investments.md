@@ -51,7 +51,7 @@ related:
     provider:
       name: VCCircle
       domain: vccircle.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://assets.vccircle.com/uploads/2019/05/Fundingrf2.jpg"
         width: 810
