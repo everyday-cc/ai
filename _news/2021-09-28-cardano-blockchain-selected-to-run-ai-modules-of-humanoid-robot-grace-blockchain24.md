@@ -9,7 +9,7 @@ ampWebUrl: "https://thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-t
 cdnAmpWebUrl: "https://thegoaspotlight-com.cdn.ampproject.org/c/s/thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/amp/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -57,6 +57,17 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Fetch.ai Partners with Algbra, Bridging AI and Blockchain with Banking Solutions for Ethical Finance and Minority Communities"
+    excerpt: "Fetch.ai ( a Cambridge-based artificial intelligence lab building an open-access decentralised machine learning network for smart infrastructure, announced today a research and development partnership with Algbra,"
+    publishedDateTime: 2021-10-01T05:32:00Z
+    webUrl: "https://www.finyear.com/Fetch-ai-Partners-with-Algbra-Bridging-AI-and-Blockchain-with-Banking-Solutions-for-Ethical-Finance-and-Minority_a45460.html"
+    ampWebUrl: "https://www.finyear.com/Fetch-ai-Partners-with-Algbra-Bridging-AI-and-Blockchain-with-Banking-Solutions-for-Ethical-Finance-and-Minority_a45460.amp.html"
+    cdnAmpWebUrl: "https://www-finyear-com.cdn.ampproject.org/c/s/www.finyear.com/Fetch-ai-Partners-with-Algbra-Bridging-AI-and-Blockchain-with-Banking-Solutions-for-Ethical-Finance-and-Minority_a45460.amp.html"
+    type: article
+    provider:
+      name: FinYear
+      domain: finyear.com
+    quality: 59
 
 secured: "gHj89nlHFcY41ZXnWgHAs1N2NwW8Xhtx+ef1otGw0gZHUKYFAq/Wa3F1HYDqtK5k8wOP+9DyWrw0Suf7XJdrXMpJvLeBlADKX0Yvu06khydbwiY9oaOnZVaQmgVphfwcBv0rt0OaqtM8MACmXsXJqkQazFlioi+4T2swAigqMep1TbVtlMdnvkh+8ff52F4SUjOBNjg/LDg037yTw01nyeS/JAVsSBcrsNzn78qifIGXtaN1q3tx74tX4rCqYE5vVnCj6/f7RIsENuSaGx1EyA7no8XokB2Q2XdPngLfJ7xl8CmZpWbFwbvgT1AVcfTtzkN8fFn8MdNNe4bAKwGRVTdhSzKvgiBwKTdRYgOCR5c=;NdjGacdEiw8M6/h4Hr/U8A=="
 ---

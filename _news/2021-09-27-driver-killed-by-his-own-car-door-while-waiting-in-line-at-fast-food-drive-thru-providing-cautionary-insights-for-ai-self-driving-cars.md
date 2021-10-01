@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/27/driver-killed-by-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/27/driver-killed-by-his-own-car-door-while-waiting-in-line-at-fast-food-drive-thru-providing-cautionary-insights-for-ai-self-driving-cars/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Accor’s Bold Partnership for Self-Driving Vehicles Hinges on This"
+    excerpt: "A successful rollout of Accor’s self-driving vehicles hinges on if — a very big if — city governments can agree to re-toggle their infrastructures. That’s a big ask for something pitched as a place to sip champagne and get a workout in the middle of city traffic."
+    publishedDateTime: 2021-10-01T05:30:00Z
+    webUrl: "https://skift.com/2021/10/01/accors-bold-partnership-for-self-driving-vehicles-hinges-on-this/"
+    ampWebUrl: "https://skift.com/2021/10/01/accors-bold-partnership-for-self-driving-vehicles-hinges-on-this/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2021/10/01/accors-bold-partnership-for-self-driving-vehicles-hinges-on-this/amp/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 44
+    images:
+      - url: "https://skift.com/wp-content/uploads/2021/09/Citroen-Accor-Sofitel-e1633025208185.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "GM Now Testing Self-Driving Cars in Scottsdale"
     excerpt: "General Motors announced last week that it's begun testing its driverless cars in the upscale Phoenix suburb, the Associated Press reported. Scottsdale is the second city in which GM is conducting the tests — it's been testing the cars in San Francisco since May."
     publishedDateTime: 2021-09-29T22:01:00Z

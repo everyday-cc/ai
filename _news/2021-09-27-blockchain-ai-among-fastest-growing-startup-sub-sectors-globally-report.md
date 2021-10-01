@@ -58,6 +58,17 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Fetch.ai Partners with Algbra, Bridging AI and Blockchain with Banking Solutions for Ethical Finance and Minority Communities"
+    excerpt: "Fetch.ai ( a Cambridge-based artificial intelligence lab building an open-access decentralised machine learning network for smart infrastructure, announced today a research and development partnership with Algbra,"
+    publishedDateTime: 2021-10-01T05:32:00Z
+    webUrl: "https://www.finyear.com/Fetch-ai-Partners-with-Algbra-Bridging-AI-and-Blockchain-with-Banking-Solutions-for-Ethical-Finance-and-Minority_a45460.html"
+    ampWebUrl: "https://www.finyear.com/Fetch-ai-Partners-with-Algbra-Bridging-AI-and-Blockchain-with-Banking-Solutions-for-Ethical-Finance-and-Minority_a45460.amp.html"
+    cdnAmpWebUrl: "https://www-finyear-com.cdn.ampproject.org/c/s/www.finyear.com/Fetch-ai-Partners-with-Algbra-Bridging-AI-and-Blockchain-with-Banking-Solutions-for-Ethical-Finance-and-Minority_a45460.amp.html"
+    type: article
+    provider:
+      name: FinYear
+      domain: finyear.com
+    quality: 59
 
 secured: "ZKxWfrDNSn9Osvuf8td7oWgYHnb7oZovDCwXdatlOD8U7mdadkBQZQU2d+2yZh8hBgxVW7o+WUEmAm8Y9iDzIK1/OAEArr3gbJtUzfY/2/IEEDvKZBorUgUFs0AZUV2NxdNAw5U7jn4GfdF/v2kVKrUhpH8XUxr8eZSAupzZGX8zAO9TB6N4lOcY2tFfQOsYjPPr8gPm6JxymDFcnDjPewZWXZEgQyGtA9x9yWl9VaMmPkKZ7/sFb7En9U9/3kh5YrKkriFLUo81Lsv+POUUKv6FwXiJ0xUilhev57StugVusrFS9nGc1RWK09LUv6gDxy3NF8X+ftw7EEMOskv0FoFeJ0F509seEHYwWEKe51EEuaKXu++yhplrvQaSTLBkWDVFtU4mQym6zjV0tolHyEjwEZBdPT9eHTG8nHSSu5dOGFuvVnYOTg1Xe+Ttm1PuYS4GHDxIRzfx0CT+ne+xxT3a61oISSyiT7I3MAX51jadOFoBUYxDmqypplDg88KI9Kty4TpC0d9iTSRWoR2XLQ==;GWlYLe3T3LAsTfpcAtpU/Q=="
 ---

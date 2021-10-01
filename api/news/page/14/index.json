@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-09-18-honor-and-microsoft-join-hands-to-develop-new-ai-devices.md",
+      "title": "Honor and Microsoft Join Hands to Develop New AI Devices",
+      "excerpt": "Honor and Microsoft have announced an expansion of an ongoing partnership between the two companies, under which they will collaborate on Microsoft cloud adoption, personal and mobile computing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/technology/tech-news/honor-and-microsoft-join-hands-to-develop-new-ai-devices-707015",
+      "originalUrl": "https://www.thehansindia.com/technology/tech-news/honor-and-microsoft-join-hands-to-develop-new-ai-devices-707015",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/09/18/1112310-microsoft.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/honor-and-microsoft-join-hands-to-develop-new-ai-devices-707015",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/honor-and-microsoft-join-hands-to-develop-new-ai-devices-707015",
+      "publishedDateTime": "2021-09-18T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-18-how-to-detect-your-childs-emotional-distress-before-the-schools-ai-does.md",
       "title": "How to Detect Your Child’s Emotional Distress Before the School’s AI Does",
       "excerpt": "School districts use bots to monitor student email and web searches for signs of self-harm or violence; tips for parents on being proactive about their teens’ and tweens’ mental health.",
@@ -1121,49 +1164,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-naver-bolsters-ai-rd-capability-appoints-global-leading-ai-professionals-in-search-quality-and-natural-language-processing.md",
-      "title": "NAVER Bolsters AI R&D Capability, Appoints Global leading AI Professionals in Search Quality and Natural Language Processing",
-      "excerpt": "Dr. Young-Bum Kim and Professor Tetsuya Sakai seasoned researchers in search quality evaluation and natural language processing joined NAVER",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/naver-bolsters-ai-r-d-capability-appoints-global-leading-ai-professionals-in-search-quality-and-natural-language-processing-1030805988",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/naver-bolsters-ai-r-d-capability-appoints-global-leading-ai-professionals-in-search-quality-and-natural-language-processing-1030805988",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-16T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -41,6 +41,20 @@ related:
         width: 1199
         height: 601
         isCached: true
+  - title: "GM's Cruise, Alphabet's Waymo win permits to offer self-driving rides to passengers in California"
+    excerpt: "General Motors Co's Cruise and Alphabet Inc's Waymo self-driving car subsidiaries on Thursday became the first companies to receive autonomous vehicle permits to offer rides to passengers in California."
+    publishedDateTime: 2021-09-30T20:18:00Z
+    webUrl: "https://www.reuters.com/technology/gms-cruise-gets-permit-give-driverless-rides-passengers-san-francisco-2021-09-30/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 56
+    images:
+      - url: "https://www.reuters.com/resizer/onS7SUrJwaZORG20XaAFkrVAaLY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5DC26PQB6JLU3LAHXWIEHJOJ3U.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "California Says Self-Driving Vehicles Must be Zero Emission"
     excerpt: "California Gov. Gavin Newsom has signed legislation that mandates all light-duty autonomous vehicles in the state to produce zero emissions, reports Tech Crunch. The law would take effect in 2030. Click here to read more."
     publishedDateTime: 2021-09-28T20:28:00Z

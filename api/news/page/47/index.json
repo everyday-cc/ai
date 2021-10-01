@@ -2,6 +2,49 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-08-24-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank.md",
+      "title": "Fintech-focused Corporate Accelerator Program Launched in Egypt by Arab Bank",
+      "excerpt": "Fintech-focused corporate accelerator program launched in Egypt by Arab Bank. Initiative will support adoption of modern financial services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/Abu-Simbel-Temples-Egypt-aussieactive-unsplash-300x219.jpg",
+          "width": 300,
+          "height": 219,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/amp/",
+      "publishedDateTime": "2021-08-23T19:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-air-charter-services-market-size-trends-and-key-players-gama-aviation-air-charter-service-air-partner-netjets-delta-private-jets.md",
       "title": "Air Charter Services Market Size, Trends, and Key Players – Gama Aviation, Air Charter Service, Air Partner, NetJets, Delta Private Jets.",
       "excerpt": "Air Charter Services Market was valued at USD 25,574.6 Million in 2018 and is projected to reach USD 34,930.2 Million by 2026, growing at a CAGR of 4.04% from 2019 to 2026. Get | Download Sample Copy with TOC,",
@@ -1144,49 +1187,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-robots-continue-to-drive-innovation-in-modern-transportation.md",
-      "title": "Robots Continue to Drive Innovation in Modern Transportation",
-      "excerpt": "Modern transportation wouldn’t be the same without robots, and the future will only serve to solidify this. Here’s how robots are pushing the transportation industry forward and where they could go from here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.roboticstomorrow.com/story/2021/08/robots-continue-to-drive-innovation-in-modern-transportation/17335/",
-      "originalUrl": "https://www.roboticstomorrow.com/story/2021/08/robots-continue-to-drive-innovation-in-modern-transportation/17335/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.roboticstomorrow.com/images/upload/images/Depositphotos_171792660_original(2).jpg",
-          "width": 720,
-          "height": 484,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-23T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robotics Tomorrow",
-        "domain": "roboticstomorrow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

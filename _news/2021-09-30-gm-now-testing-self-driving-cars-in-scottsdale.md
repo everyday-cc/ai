@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 748
         isCached: true
+  - title: "Accor’s Bold Partnership for Self-Driving Vehicles Hinges on This"
+    excerpt: "A successful rollout of Accor’s self-driving vehicles hinges on if — a very big if — city governments can agree to re-toggle their infrastructures. That’s a big ask for something pitched as a place to sip champagne and get a workout in the middle of city traffic."
+    publishedDateTime: 2021-10-01T05:30:00Z
+    webUrl: "https://skift.com/2021/10/01/accors-bold-partnership-for-self-driving-vehicles-hinges-on-this/"
+    ampWebUrl: "https://skift.com/2021/10/01/accors-bold-partnership-for-self-driving-vehicles-hinges-on-this/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2021/10/01/accors-bold-partnership-for-self-driving-vehicles-hinges-on-this/amp/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 44
+    images:
+      - url: "https://skift.com/wp-content/uploads/2021/09/Citroen-Accor-Sofitel-e1633025208185.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Understanding The Levels Of Self-Driving Cars"
     excerpt: "Why AI Autonomous Cars Aren't Yet Paying Attention To Honking Horns   - AI Trends Since semi-autonomous cars require a human driver, the adoption of those types of cars won’t be markedly different from driving conventional vehicles,"
     publishedDateTime: 2021-09-30T03:19:00Z

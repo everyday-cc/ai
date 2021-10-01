@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Computer Vision Market Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Computer Vision Market for 2021 till 2030. Report further now discus"
+    publishedDateTime: 2021-10-01T04:41:00Z
+    webUrl: "https://menafn.com/1102897488/Computer-Vision-Market-Top-Companies-Business-Growth-And-Investment-Opportunities-Share-and-Forecasts-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 20
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?775382"
+        width: 343
+        height: 250
+        isCached: true
   - title: "Worldwide Mission Critical Communications Industry Report to 2026 - 5 Cases Studies Included"
     excerpt: "The \"Mission Critical Communications Market by Enterprise, Industrial and Government Solutions 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. The market for mission critical communications is rapidly evolving as developing technologies supply solutions necessary to meet emerging demand for improved voice,"
     publishedDateTime: 2021-09-30T19:42:00Z

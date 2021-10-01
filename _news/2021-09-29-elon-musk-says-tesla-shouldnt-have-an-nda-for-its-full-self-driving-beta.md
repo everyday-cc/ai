@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nd
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/amp/"
 type: article
 quality: 188
-heat: 438
+heat: 428
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2021/09/27/600x338/2021-08-16T184505Z_1_LYNXMPEH7F10O_RTROPTP_3_TESLA-MOTORS-AUTOPILOT_1632452498622_1632717502544.JPG"
         width: 600
         height: 338
-        isCached: true
-  - title: "Tesla drivers with a favorable safety score can now request its Full Self-Driving beta, despite criticism from regulators"
-    excerpt: "Only Tesla users that have a \"safe\" driving record for an entire week will be granted access to the FSD beta software."
-    publishedDateTime: 2021-09-26T11:38:00Z
-    webUrl: "https://www.businessinsider.com/tesla-full-self-driving-elon-musk-beta-update-safety-score-2021-9"
-    ampWebUrl: "https://www.businessinsider.com/tesla-full-self-driving-elon-musk-beta-update-safety-score-2021-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-full-self-driving-elon-musk-beta-update-safety-score-2021-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-    images:
-      - url: "https://i.insider.com/61504467b414c10018627303?width=1200&format=jpeg"
-        width: 1024
-        height: 512
         isCached: true
   - title: "Tesla uses YouTubers to test self-driving tech on public streets rather than trained safety drivers"
     excerpt: "Safety experts are outraged Tesla lets would-be influencers test version 10.1 of its Full Self-Driving AI. One YouTuber lurched toward pedestrians when his steering wheel suddenly veered right."
