@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "trinthq"
   url: "https://twitter.com/trinthq"
-  followers: 1935
+  followers: 1934
 
 size: 11-50 employees
 yearFounded: 2014
