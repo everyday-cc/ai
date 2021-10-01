@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/virtu-financial-enab
 webUrl: "https://aws.amazon.com/blogs/machine-learning/virtu-financial-enables-its-customers-to-apply-advanced-analytics-and-machine-learning-on-trade-and-market-data-by-provisioning-amazon-sagemaker/"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -97,6 +97,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 10
+  - title: "From carbon-negative insect feed to AI and data analytics: Meet 11 start-ups advancing sustainable livestock and aquaculture production"
+    excerpt: "The featured start-ups are tackling a range of livestock, dairy and aquaculture challenges with gamechanging technologies including carbon-negative insect feed, novel bioactive peptides, IoT, AI and data analytics,"
+    publishedDateTime: 2021-10-01T15:39:00Z
+    webUrl: "https://www.thepigsite.com/news/2021/10/from-carbon-negative-insect-feed-to-ai-and-data-analytics-meet-11-start-ups-advancing-sustainable-livestock-and-aquaculture-production"
+    type: article
+    provider:
+      name: The Pig Site
+      domain: thepigsite.com
+    quality: 5
+    images:
+      - url: "https://5mpublishing.sirv.com/pig%2Farticles%2FSponsors-articles%2Fanimal-ag-tech-logo-1.PNG?scale.option=fill&scale.width=1200&scale.height=630&crop.width=1200&crop.height=630&crop.y=center&crop.x=center"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "QMmnsBgDC8csc0hNv2SITZqfgmwVVwAuRIXIG2971DvMCkzd7XdC/H7A+o31bcigTq/z/3SNF1nVviqgrJHbetVCWoUQk9qBD0rmwGnoGhvLol/6kLlgjI+3E+UAfMc7Boofv+/SDdl1vCfXyXIODO6s4OhvgYtBthQFXro8QkabYA47+Ym+9i89wUiFsgbJ+dElFpoRCrRMVELlF+QSCFqXyawvQNLUt0cbomnwUBjlYtpevI+CKzrnzDf41IBwk2C4ormtVxAq5x6kQgLV+zmwwV9hs82QMkNWOw0wt+h33beEm4gmStNJGmkLGsA4NLvlQqkVQZ6WTAsn14OEAIHhgZpo4OtFzp3IOq2UMkY=;wf6eJopk9YPV6yex9O2F4w=="
 ---

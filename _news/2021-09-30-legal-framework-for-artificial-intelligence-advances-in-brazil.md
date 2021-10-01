@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/legal-framework-for-artific
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/legal-framework-for-artificial-intelligence-advances-in-brazil/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -24,20 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "How to Transfer Fundamental AI Advances into Practical Solutions for Healthcare"
-    excerpt: "In this special guest feature, Dave DeCaprio, CTO and Co-founder, ClosedLoop.ai, discusses what it really takes to make AI that physicians trust. There are significant challenges that go beyond the algorithms when applying AI to healthcare."
-    publishedDateTime: 2021-09-29T13:00:00Z
-    webUrl: "https://insidebigdata.com/2021/09/29/how-to-transfer-fundamental-ai-advances-into-practical-solutions-for-healthcare/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 52
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2020/03/IBD_PNYWPCover2020-03-16_8-53-21.jpg"
-        width: 252
-        height: 355
-        isCached: true
   - title: "AI startup is the only Brazilian in a major technology event in the US"
     excerpt: "KubeCon, one of the largest conferences on open source technologies in the world, this year will feature the participation of the Brazilian startup 4intelligence, which develops artificial intelligence solutions for companies."
     publishedDateTime: 2021-09-29T03:10:00Z

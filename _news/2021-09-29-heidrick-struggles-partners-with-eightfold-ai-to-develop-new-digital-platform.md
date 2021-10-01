@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/heidrick-struggles
 webUrl: "https://markets.businessinsider.com/news/stocks/heidrick-struggles-partners-with-eightfold-ai-to-develop-new-digital-platform-1030829003"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Heidrick & Struggles and Eightfold AI Form Alliance"
+    excerpt: "The demand for AI specialists focused on data and machine learning is growing exponentially internationally and the search for top talent is increasing, according to executive recruiters. To that end,"
+    publishedDateTime: 2021-10-01T12:51:00Z
+    webUrl: "https://huntscanlon.com/heidrick-struggles-and-eightfold-ai-form-alliance/"
+    type: article
+    provider:
+      name: Hunt Scanlon Media
+      domain: huntscanlon.com
+    quality: 37
+    images:
+      - url: "https://huntscanlon.com/wp-content/uploads/2021/10/story1-e1633092660383.jpg"
+        width: 487
+        height: 274
+        isCached: true
   - title: "The AI-powered Employee Experience Arrives, as Eightfold AI Rolls Out Self-Service Capabilities and New Reporting Dashboards"
     excerpt: "Eightfold AI, the provider of the Talent Intelligence Platform ™, today at HR Tech 2021 announced several new breakthroughs and capabilities, including a consumer-grade user experience, and powerful new reporting and analytics enhancements,"
     publishedDateTime: 2021-09-28T13:05:00Z

@@ -187,6 +187,22 @@ related:
         width: 740
         height: 416
         isCached: true
+  - title: "Will Elon Musk’s “Self-Driving” Software Make Your Tesla a Death-Mobile?"
+    excerpt: "Tesla Inc. (NASDAQ: TSLA) announced its beta test version of its “Full Self-Driving Capability” software would now be available to select owners. The system is touted as Tesla's most advanced ever, and promises to expand its Autopilot’s capabilities to work on city streets and offer the ability to navigate the vehicle turn by turn,"
+    publishedDateTime: 2021-10-01T15:49:00Z
+    webUrl: "https://www.energyandcapital.com/articles/will-elon-musk-s-self-driving-software-make-your-tesla-a-death-mobile-/100163"
+    ampWebUrl: "https://www.energyandcapital.com/amp/articles/will-elon-musk-s-self-driving-software-make-your-tesla-a-death-mobile-/100163"
+    cdnAmpWebUrl: "https://www-energyandcapital-com.cdn.ampproject.org/c/s/www.energyandcapital.com/amp/articles/will-elon-musk-s-self-driving-software-make-your-tesla-a-death-mobile-/100163"
+    type: article
+    provider:
+      name: Energy and Capital
+      domain: energyandcapital.com
+    quality: 58
+    images:
+      - url: "https://assets.angelpub.com/images/2021/39/av-market-demand-2020to2030-68348.png"
+        width: 600
+        height: 300
+        isCached: true
   - title: "Tesla's 'full self-driving' feature could be days away for approved drivers"
     excerpt: "A wider group of Tesla owners who paid up to $10,000 for what the company calls its \"full self-driving\" software can now ask the automaker for access to a test"
     publishedDateTime: 2021-09-29T00:30:00Z
@@ -216,20 +232,6 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1632718804.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "Tesla's 'Full Self Driving' request button goes live"
-    excerpt: "Electric vehicle Tesla users who wish to take part in the company’s Full Self-Driving (Fsd) Beta programme could now formally request the advanced driver-assist system to be loaded into their vehicle."
-    publishedDateTime: 2021-09-26T21:32:00Z
-    webUrl: "https://www.imdb.com/news/ni63429991/"
-    type: article
-    provider:
-      name: IMDb
-      domain: imdb.com
-    quality: 54
-    images:
-      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-        width: 1000
-        height: 1000
         isCached: true
   - title: "Tesla Has Been Sued For The Self-Driving Car That Hit And Injured Police Officers"
     excerpt: "Advertisement Our day isn’t complete without a Tesla-related headline in the news (bad publicity is still publicity I guess?) In recent news which was due to past unresolved matters, five Texas cops filed a lawsuit against Tesla over a crash caused by the car’s Autopilot mode (the irony."

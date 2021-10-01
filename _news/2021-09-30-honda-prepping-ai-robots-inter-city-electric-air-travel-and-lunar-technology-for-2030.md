@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/honda-prepping-ai-robots-in
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/"
 type: article
 quality: 79
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 432
     isCached: true
+
+related:
+  - title: "Honda’s Vision Includes Air Taxis, Rockets and Robots"
+    excerpt: "A part of its “2030 Vision,” the company from Tokyo is looking to the sky and to robots and sees these advancements being offered by the 2030s and 40s. The first is air taxis. This would build on HondaJet,"
+    publishedDateTime: 2021-10-01T15:25:00Z
+    webUrl: "https://www.manufacturing.net/video/video/21747589/hondas-vision-includes-air-taxis-rockets-and-robots"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 54
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/10/mm1021.6157238e46294.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "UwKCm9Tq9yfAuUbcXulg3wvteaZruIxMTg/kMuTSsB5/y3UuIqpm/yWNobUJYW81oHrpdAOvZbSHH6JJYavfUj1cjRIWpNR3ZJLjjjPfSVA3yLtN0vpd3XXm5eTnB1FoYoKBmMdmhqijaVMtiYEOaZVcAENCERKLlfchBye0yZUmGCoa61ovGUM11aQx7eTO1DneI/RKlqPlhEG7EkQEcpIIsSvC1HC/MYDcqlxvsSI9bgMmC4w694SLaUbaHWJxYFfDPldpmMWNl98kAt/9lasOxW5T1USYNITRJOh+tkQ3U/WX0I59ymor3RQmUaz9aEDcsjWTJIUr5soXo4hjN0kclruEx+9Nt+gY1HH47DnSk8GuCo+aaVfFpXO1oT/A6suGVid2HerL4VtCtmShlAMtMWOCRUJTTaNMDZnZTPNhu/FAlG6CPAIo8aeQJuhh4zWaH4GcG7u3SmOyWY5RmuW02RhgexjQTSnXlSmB+LEqM3MSlvpefBl09eS/SdXeFeRx4n6jVvQcrryTaHLlfw==;+Bt2kq+kYrTO3YJQ7SWMuw=="
 ---

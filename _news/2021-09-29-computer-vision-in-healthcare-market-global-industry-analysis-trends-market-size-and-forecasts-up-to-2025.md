@@ -92,6 +92,20 @@ related:
         width: 444
         height: 250
         isCached: true
+  - title: "Voice Assistant Application Market worth $11.2 billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to a research report \"Voice Assistant Application Market with COVID-19 Impact by Component, Deployment Mode, Organization"
+    publishedDateTime: 2021-10-01T14:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/voice-assistant-application-market-worth-11-2-billion-by-2026--exclusive-report-by-marketsandmarkets-301389633.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 8
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
+        isCached: true
 
 secured: "+FjG57qf0Tza3lhPRNcGj2GprqfJnfD68lo/teD1UiuwKal5/DOsl6k8Zd3TwDdCPf4KrojuKIaSwauxzHy1wuHyUqlOHMSW6aj9NTzHTZeAWreRkBrQja9uZCJEyWG744ASV9PFLyx29TBv4iFzB3GfUR8Ao+3mjl7Ylwq6QEkoca+h3XIdnJFhqYJaJXLPScmCx9Dpr+QVCmkmtCfLRCbzHK1VshXM3hZSXdyPsjhw5rHRkhtBIsKZ/X2NDC4ZjHiNRBkwBkJCsG4rDwnHcsiTfB5r8hteq0ljrnhIp0WdjWHsMxDG0l0+XGIP+VRvEy7aliA7HfygcVWY7uMbvp3/P9Q9EueK+s+FL2YTDwQ=;7AAaxXcAeiOA553ow2mWuA=="
 ---

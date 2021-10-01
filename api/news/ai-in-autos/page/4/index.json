@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-28-toyota-suspends-self-driving-vehicles-after-accident-at-olympic-village.md",
+      "title": "Toyota suspends self-driving vehicles after accident at Olympic village",
+      "excerpt": "Toyota Motor said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/toyota-suspends-self-driving-vehicles-after-accident-olympic-village-n1277849",
+      "originalUrl": "https://www.nbcnews.com/news/world/toyota-suspends-self-driving-vehicles-after-accident-olympic-village-n1277849",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 364,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_34/3502164/210828-toyota-epalette-mb-1553.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1277849",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277849",
+      "publishedDateTime": "2021-08-28T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023.md",
+      "title": "5% of Dubai Taxi's fleet to be self-driving cabs by 2023",
+      "excerpt": "By 2023, five per cent of Dubai Taxi’s fleet will be converted into self-driving cabs, the Roads and Transport Authority (RTA) said on Saturday. The RTA recently signed a partnership agreement with General Motors-backed Cruise to run driverless taxis and shared transport service in Dubai,",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023",
+      "originalUrl": "https://www.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amp.khaleejtimes.com/storyimage/KT/20210828/ARTICLE/210829143/AR/0/AR-210829143.jpg&NCS_modified=20210829010133&MaxH=225&imageVersion=16by9",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023",
+      "cdnAmpWebUrl": "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023",
+      "publishedDateTime": "2021-08-28T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-28-gatik-joins-the-driverless-self-driving-car-club.md",
       "title": "Gatik joins the driverless self-driving car club",
       "excerpt": "Walmart’s cargo-hauling partner moves to scale sans humans..Gatik engineers and algorithms laboriously study a route for weeks before letting the robots steer and are able to program specifically for certain sticky points.",
@@ -1300,111 +1386,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-tesla-to-be-the-most-deeply-integrated-automative-company-in-the-world-with-ai-day-plans-fully-implemented-says-ark.md",
-      "title": "Tesla To Be The Most 'Deeply Integrated Automative Company' In The World With AI Day Plans Fully-Implemented, Says Ark",
-      "excerpt": "If Tesla Inc (NASDAQ: TSLA) manages to fully implement its AI Day agenda, it would become the most deeply integrated “automotive company” in the world, as per Ark Invest.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tesla-to-be-the-most-deeply-integrated-automative-company-in-the-world-with-ai-day-plans-fully-implemented-says-ark-1030754545",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tesla-to-be-the-most-deeply-integrated-automative-company-in-the-world-with-ai-day-plans-fully-implemented-says-ark-1030754545",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/milan-csizmadia-d0v_dqo_xum-unsplash_5_1.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T04:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-bln-valuation.md",
-      "title": "Baidu's AI voice assistant Xiaodu closes funding at $5.1 bln valuation",
-      "excerpt": "Aug 24 (Reuters) - Chinese tech giant Baidu Inc (9888.HK) said on Tuesday its artificial intelligence (AI) voice assistant Xiaodu Technology has closed Series B financing at a $5.1 billion valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-china-baidu/baidus-ai-voice-assistant-xiaodu-closes-funding-at-5-1-billion-valuation-idUSKBN2FP0VB",
-      "originalUrl": "https://www.reuters.com/article/us-china-baidu/baidus-ai-voice-assistant-xiaodu-closes-funding-at-5-1-billion-valuation-idUSKBN2FP0VB",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/rq8m88P7hJlC56k45Ywc844Ve7U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/655WP46C6BOUPP74MRQOESNVDE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

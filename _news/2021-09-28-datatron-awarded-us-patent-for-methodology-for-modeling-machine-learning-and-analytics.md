@@ -91,6 +91,20 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "From carbon-negative insect feed to AI and data analytics: Meet 11 start-ups advancing sustainable livestock and aquaculture production"
+    excerpt: "The featured start-ups are tackling a range of livestock, dairy and aquaculture challenges with gamechanging technologies including carbon-negative insect feed, novel bioactive peptides, IoT, AI and data analytics,"
+    publishedDateTime: 2021-10-01T15:39:00Z
+    webUrl: "https://www.thepigsite.com/news/2021/10/from-carbon-negative-insect-feed-to-ai-and-data-analytics-meet-11-start-ups-advancing-sustainable-livestock-and-aquaculture-production"
+    type: article
+    provider:
+      name: The Pig Site
+      domain: thepigsite.com
+    quality: 5
+    images:
+      - url: "https://5mpublishing.sirv.com/pig%2Farticles%2FSponsors-articles%2Fanimal-ag-tech-logo-1.PNG?scale.option=fill&scale.width=1200&scale.height=630&crop.width=1200&crop.height=630&crop.y=center&crop.x=center"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "/nonl3LU5G1rruZgMcL/OPrSVX29kxkzDFtLAHnPoGrNOqFi7JxjAwTsUIiUoE2OTDp2B0TtQne4WdAXyFxMvoFjQyhg90bQoQnfuHtUV3Bo15EIgKXW7QzLD4mBbYFIahbrD7ntSfC1fkWjVacTo4fhpYeZcnxpvZ50QIk4ujoc21LAf9cBIjq5IkyZg3zrFNni+2/gTYRART3H3mhdQmDlp4Goh686Xmpsw3O8zMekvwcw58uehTfcLiYu+pbB4R/iIBvJUdNZ4t8/hdSnzZ1M1qZKv4GPZ9WkRbRdRl7GhC7HY85NKEJULMVzfMRUHErn4eMte592Z1FejcvNFXBNMrc0j8JIJqtWmbYIfbw=;faPQIW/uvinArnOhd+xU5w=="
 ---

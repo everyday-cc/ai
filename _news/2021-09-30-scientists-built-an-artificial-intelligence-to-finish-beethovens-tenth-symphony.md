@@ -40,22 +40,6 @@ related:
         width: 2560
         height: 1864
         isCached: true
-  - title: "An AI finished Beethoven’s final symphony. But is it good?"
-    excerpt: "The AI version of Beethoven's 10th symphony is almost as immaculate as the master composer's original works. Listen to a preview here."
-    publishedDateTime: 2021-09-26T23:00:00Z
-    webUrl: "https://www.popsci.com/technology/beethoven-10th-symphony-ai/"
-    ampWebUrl: "https://www.popsci.com/technology/beethoven-10th-symphony-ai/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/beethoven-10th-symphony-ai/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2021/09/24/beethoven-piano-music.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Beethoven’s unfinished Tenth Symphony completed by artificial intelligence"
     excerpt: "Beethoven’s previously unfinished Tenth Symphony has been completed by artificial intelligence technology. The work will have its world premiere in Germany next month, 194 years after the composer’s death."
     publishedDateTime: 2021-09-28T13:44:00Z

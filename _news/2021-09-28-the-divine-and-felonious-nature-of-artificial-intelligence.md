@@ -140,7 +140,7 @@ related:
     provider:
       name: Analytics Insight
       domain: analyticsinsight.net
-    quality: 33
+    quality: 35
     images:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-10-Indian-AI-Startups-that-have-raised-funding-in-2021.jpg"
         width: 900

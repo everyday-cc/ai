@@ -2,6 +2,152 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-30-ai-identifies-american-airlines-group-inc-among-todays-top-shorts-to-close-september-trading.md",
+      "title": "AI Identifies American Airlines Group Inc Among Today’s Top Shorts To Close September Trading",
+      "excerpt": "The Dow Jones gained 107 points, or 0.3%, the S&P 500 added 0.3%, and Nasdaq bounced back 0.4%. Make the most of this market with today's best short plays from Q.ai's deep learning algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2021/09/30/ai-identifies-american-airlines-group-inc-among-todays-top-shorts-to-close-september-trading/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2021/09/30/ai-identifies-american-airlines-group-inc-among-todays-top-shorts-to-close-september-trading/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603e639d5b5af6ccf84c4227%2F0x0.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2021/09/30/ai-identifies-american-airlines-group-inc-among-todays-top-shorts-to-close-september-trading/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/09/30/ai-identifies-american-airlines-group-inc-among-todays-top-shorts-to-close-september-trading/amp/",
+      "publishedDateTime": "2021-09-30T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-could-autonomous-robots-be-more-dangerous-than-nukes.md",
+      "title": "Could Autonomous Robots Be More Dangerous than Nukes?",
+      "excerpt": "Without established regulations and prohibitions on autonomous weapons, they could pose a great danger and possibly destabilize current nuclear strategies.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes",
+      "originalUrl": "https://interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/3oOpl2P5OW/sizes/could-autonomous-robots-be-more-dangerous-than-nukes_resize_md.jpg",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes",
+      "publishedDateTime": "2021-09-30T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-uk-class-action-style-suit-filed-over-deepmind-nhs-health-data-scandal.md",
+      "title": "UK class action-style suit filed over DeepMind NHS health data scandal",
+      "excerpt": "A UK law firm is bringing a class-action style claim over a patient health data scandal that dates back to 2015 and involves the Google-owned AI company DeepMind, after it was quietly passed medical information on over a million patients by an NHS Trust as part of an app development project.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/30/uk-class-action-style-suit-filed-over-deepmind-nhs-health-data-scandal/",
+      "originalUrl": "https://techcrunch.com/2021/09/30/uk-class-action-style-suit-filed-over-deepmind-nhs-health-data-scandal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2016/05/p1040482.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/30/uk-class-action-style-suit-filed-over-deepmind-nhs-health-data-scandal/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/30/uk-class-action-style-suit-filed-over-deepmind-nhs-health-data-scandal/amp/",
+      "publishedDateTime": "2021-09-30T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-intel-announces-neuromorphic-loihi-2-ai-hw-and-lava-sw.md",
       "title": "Intel Announces Neuromorphic Loihi 2 AI HW And Lava SW",
       "excerpt": "Intel Research believes that brain-like Neuromorphic computing could hold the key to AI efficiency and capabilities. Intel has announced the availability of the second generation",
@@ -942,7 +1088,7 @@
       "originalUrl": "https://www.zdnet.com/article/legal-framework-for-artificial-intelligence-advances-in-brazil/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1068,162 +1214,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-music-scholars-and-computer-scientists-completed-beethovens-tenth-symphony-aided-by-machine-learning.md",
-      "title": "Music scholars and computer scientists completed Beethoven's Tenth Symphony aided by machine learning",
-      "excerpt": "In 1817, the Royal Philharmonic Society in London commissioned Ludwig Von Beethoven to compose his Ninth and Tenth symphonies. He completed the Ninth Symphony, which concludes",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91493-music-scholars-computer-scientists-completed-beethoven-tenth-symphony.html",
-      "originalUrl": "https://www.techspot.com/news/91493-music-scholars-computer-scientists-completed-beethoven-tenth-symphony.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-29-image-48.jpg",
-          "width": 2560,
-          "height": 1864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91493-music-scholars-computer-scientists-completed-beethoven-tenth-symphony.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91493-music-scholars-computer-scientists-completed-beethoven-tenth-symphony.html",
-      "publishedDateTime": "2021-09-29T17:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-assessing-the-intersection-of-open-source-and-ai.md",
-      "title": "Assessing the intersection of open source and AI",
-      "excerpt": "The idea that open source tools, libraries, and communities are creating AI projects in the usual fast-and-loose fashion sparks unease.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/29/assessing-the-intersection-of-open-source-and-ai/",
-      "originalUrl": "https://venturebeat.com/2021/09/29/assessing-the-intersection-of-open-source-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/artificial-intelligence-3706562-e1632761155672.jpg?fit=800%2C267&strip=all",
-          "width": 536,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/29/assessing-the-intersection-of-open-source-and-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/assessing-the-intersection-of-open-source-and-ai/amp/",
-      "publishedDateTime": "2021-09-29T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-virtu-financial-enables-its-customers-to-apply-advanced-analytics-and-machine-learning-on-trade-and-market-data-by-provisioning-amazon-sagemaker.md",
-      "title": "Virtu Financial enables its customers to apply advanced analytics and machine learning on trade and market data by provisioning Amazon SageMaker",
-      "excerpt": "This is a guest post by Erin Stanton, who currently runs the Global Client Support organization for Virtu Analytics.&nbsp; Virtu Financial is a leading provider of financial services and products that uses cutting-edge technology to deliver liquidity to the global markets and innovative, transparent",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/virtu-financial-enables-its-customers-to-apply-advanced-analytics-and-machine-learning-on-trade-and-market-data-by-provisioning-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/virtu-financial-enables-its-customers-to-apply-advanced-analytics-and-machine-learning-on-trade-and-market-data-by-provisioning-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/29/ML-5556-image001-revised.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-29T14:54:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

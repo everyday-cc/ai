@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Google, DeepMind at Odds with Britain’s National Health"
+    excerpt: "Google and sister firm DeepMind are facing legal action for the way in which they obtained and processed over a million patient health records without consent in the U.K. British law firm Mishcon de Reya has filed a claim"
+    publishedDateTime: 2021-10-01T14:09:00Z
+    webUrl: "https://www.baystreet.ca/articles/techinsider/70760/100121"
+    type: article
+    provider:
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 54
+    images:
+      - url: "http://www.baystreet.ca/images/articlegroups/original/17/private/google-headquarters-sign.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
 
 secured: "/jCM85Y5Jjm83ebYJ+SOKebfYm2GaznPT/z+caRGfkOqR/+pUdoreKxOuSJ515o3lEqmWSaUPQb8qTkhc3vD7pvyKwHqKboCrgQN/sXxBwlNWfqhSHIR8lDxeaBi6bgDlHWnPzMI3EWKyD0QrgtmFrLTtG66YmvsugifPBOKFuSFn/1tuOCfd5D88BkEQXaTIjTIzmBlUaBL6ppd9oiTK8JafIg1dOXtXT/7nDPeKZTTuc7lrNs62ialztQ3LU4rfFLArOP8b7vFUOADhRUEpWBEKKxvRWZglQ3Djaefro5jgw1uVx+EvFLcn6vDopjQq4UdXhrlrC8/BdfzxJYYqGs9nYQRsWmL4Jx0aETE0rpAt9Un0Zl1hlQyok56WpoavgUcGxcBKdfDptnJZ4R57UYB9SuQOEQTdUjqnJUHdvKIigZOh+SQKq1jkofsXWyRJNkRv3jA8GyPQINogDX0hvrnBEQmr1Hiw6/2/K/BQUh1Az3wXYTvl3Peqxvd2zqgROXH5ea5VDXeFSW54yEMCA==;MDLBf2MNFcM1bDIH5DFqgw=="
 ---

@@ -35,20 +35,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
-  - title: "How to Transfer Fundamental AI Advances into Practical Solutions for Healthcare"
-    excerpt: "In this special guest feature, Dave DeCaprio, CTO and Co-founder, ClosedLoop.ai, discusses what it really takes to make AI that physicians trust. There are significant challenges that go beyond the algorithms when applying AI to healthcare."
-    publishedDateTime: 2021-09-29T13:00:00Z
-    webUrl: "https://insidebigdata.com/2021/09/29/how-to-transfer-fundamental-ai-advances-into-practical-solutions-for-healthcare/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 52
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2020/03/IBD_PNYWPCover2020-03-16_8-53-21.jpg"
-        width: 252
-        height: 355
-        isCached: true
 
 secured: "XsKAb1DHBLb1zzsq7fnHpKex+B0/Q2QX/u8CAgDojTnK5ycYYi9o6H6HJmzy7OF4bOEJWIX84Xf/i4moiT/PZx9QVJYm/KjcwPuDQlvSL5r2DsUeY6iDqqLUmg5rnuV9Vj/nUR5hsDMPvbjR0IUrbNNyq+DDjPOcvS/8m6ZtBzK1QjxbQTOI04p+HWzlfAfG9NDXVdbzzEk3tkjBz5gdjQjHg3BbIRW99JoIdi8YSDi0LogIX5LFUI6hREIitvLk2PFWKmMu4UafzDZ2XOtgNlBGpEbPFWo+KjovcfbFt0zmFRygCUxhUMfkoc//59pLcNoJXLaEQIrbuV5p+AiVsyAzZrQJaSjv1WqbZeec80b9jHDvKjlZl/nQg1wVoOeqt8ydezAthuaYG/BnviLGSTu+o6Iu9/yo0dEGMRnO9S14Qh+/jC47StBEN0cmuZOZWRHoj5mERW7QhHMxlBptWDqeZtEoyYlT63FbPQCom5Sy/H4x1t7T3WMqwRo0f6VX/hdaKaVnl8S2/spG5vNGQA==;Jh2x51OqSsivDPOyb9JsLg=="
 ---

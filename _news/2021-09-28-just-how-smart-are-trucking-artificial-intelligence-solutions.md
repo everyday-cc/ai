@@ -77,6 +77,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Smart Agriculture Solutions Get Smarter"
+    excerpt: "Enabling the Connected Farm In today’s Smart Agriculture industry, it’s clear that all the major challenges in that space lead to IoT solutions. Advances"
+    publishedDateTime: 2021-10-01T14:21:00Z
+    webUrl: "https://circuitcellar.com/research-design-hub/tech-trends/smart-agriculture-solutions-get-smarter/"
+    type: article
+    provider:
+      name: Circuit Cellar
+      domain: circuitcellar.com
+    quality: 24
+    images:
+      - url: "https://i2.wp.com/circuitcellar.com/wp-content/uploads/2021/07/370_Jeff_TS_Figure_2.jpg?resize=447%2C216&#038;ssl=1"
+        width: 447
+        height: 216
+        isCached: true
 
 secured: "yihfmpn3SLipH6z+RonYclLrgb/HTvodKXkgQMjofBuP+Uv6KYijMXK1y6JuVKibwAj/Didc1yJhhFluMTHSwqzajaEX7ZDe6vph8TZZ6wirqRNK8bg0aKyz1CJkORa4H6pnoG6SUwficuQ40cKOx7PRBaofKFUEcgW3bP3hjjHBX3kCO4clWGHuQ0tu8RMxFWtkisO3lalC1+iZWdbz2JMwZ/Rp1koIzqxXuuFt8UJtHyhkMBWiB77a5LlVjtzrC6ZW0tMkaQpoCPQKDe5KlL377L1ZysyCVNRntauFz5Uc/vCuV04q/mM9c1zEWzy/0hI9BR85YKf56K5/72fMwMdpWEkqZxQMefNoiH1BjnKXvwq7xObtjI22djloXUns9DuF0Nk7Tjm86oZ8YUsTauBbYF2AStUP5fMPFFP6qQQOu+P7bzFMU6ovXyeqPT66A7BMptn9hJG+1nRf0XnfhgSZhVK0Ma7Nr9jYA7Cpbn2fvttWi3zBU2b8rM2fLrsI11o+lSTGKuKah2JrGvIVZA==;K2Xn/x7CcLifaMXqMeaIDA=="
 ---

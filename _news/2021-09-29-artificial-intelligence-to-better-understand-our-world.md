@@ -36,22 +36,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
-  - title: "Rising Volume of Complex Data and Reduction in Hardware Costs is Projected to Drive Growth of the Artificial Intelligence in Healthcare Market"
-    excerpt: "The global artificial intelligence in healthcare market is expected to reach a market size of USD 61.59 Billion by 2027 and register a substantially high CAGR over the forecast period, according to a new report by Reports and Data."
-    publishedDateTime: 2021-09-29T08:11:00Z
-    webUrl: "https://techbullion.com/rising-volume-of-complex-data-and-reduction-in-hardware-costs-is-projected-to-drive-growth-of-the-artificial-intelligence-in-healthcare-market/"
-    ampWebUrl: "https://techbullion.com/rising-volume-of-complex-data-and-reduction-in-hardware-costs-is-projected-to-drive-growth-of-the-artificial-intelligence-in-healthcare-market/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/rising-volume-of-complex-data-and-reduction-in-hardware-costs-is-projected-to-drive-growth-of-the-artificial-intelligence-in-healthcare-market/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 38
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/09/Artificial-Intelligence-in-Healthcare-Market.jpg"
-        width: 870
-        height: 580
-        isCached: true
   - title: "Artificial intelligence to better understand our world"
     excerpt: "While artificial intelligence has been an important tool in gaining a better understanding of our world, it's imperative that we learn more from it."
     publishedDateTime: 2021-09-28T14:23:00Z

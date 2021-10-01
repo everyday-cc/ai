@@ -7,7 +7,7 @@ originalUrl: "https://www.publicnow.com/view/5BD396B2E003ED1214C42812014AD3C9348
 webUrl: "https://www.publicnow.com/view/5BD396B2E003ED1214C42812014AD3C9348E547C"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Cloudastructure Expands its Solution Offerings to Include Advanced AI Analytics"
+    excerpt: "Cloudastructure, a cloud-native AI surveillance company, is adding a new enterprise-grade solution with robust administration and safety features as well as AI analytics to its suite of offerings to meet the growing needs of its larger customers."
+    publishedDateTime: 2021-10-01T15:40:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Cloudastructure-Expands-its-Solution-Offerings-to-Include-Advanced-AI-Analytics-149309.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 33
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "tpbzQJ4acEtpMpa2uLH+AFBDXBcy4pXCKezz4EYBgRz/4bUdIDWyGiQyyrLDJTkNsjlnw5m3ECSSUFY4K6/lQrjcPUlbcOv3xg820m0MsfL5+gEmcxMuyA44/my0gt+gvh/RHxzsom7jCh0Ktgubvqaukl2J3pn9oGgC5ZlVD6F4pIciPwhXqMJckQ4pa4LEIddhNd/GcDhnPw+x7SLaELKaAQhwdpEYJL69Drr93tcUopEe484f7n4ENiuNhBtBcWZsFslqHuqHXgnlX2sUn1uBJoQMBk58Etx6XuPYAmtx0ji1NGaw+A0O9q3DX74TgOJfmGLUE6lMDK/aLcbXCP+QZmfVNceNRKJMP5ZtBSg=;TTPMNlJvVLRqFXVkJKvQmA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sify.com/news/vice-president-calls-for-ai-solutions-in-a
 cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
 type: article
 quality: 56
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://s18391.pcdn.co/wp-content/uploads/2021/09/nauto-1400-1000x563.jpg"
         width: 1000
         height: 563
+        isCached: true
+  - title: "Smart Agriculture Solutions Get Smarter"
+    excerpt: "Enabling the Connected Farm In today’s Smart Agriculture industry, it’s clear that all the major challenges in that space lead to IoT solutions. Advances"
+    publishedDateTime: 2021-10-01T14:21:00Z
+    webUrl: "https://circuitcellar.com/research-design-hub/tech-trends/smart-agriculture-solutions-get-smarter/"
+    type: article
+    provider:
+      name: Circuit Cellar
+      domain: circuitcellar.com
+    quality: 24
+    images:
+      - url: "https://i2.wp.com/circuitcellar.com/wp-content/uploads/2021/07/370_Jeff_TS_Figure_2.jpg?resize=447%2C216&#038;ssl=1"
+        width: 447
+        height: 216
         isCached: true
 
 secured: "TqSDPHaewjjQg5B1xziPqJkms2BpWj+gmoZCRUMFgGTWPRBLqV6dQ5A0LAgh+umJ+0m6YZbZrMcUGFKeWx1/c+ZqUbuG/jqlqb1Xvetx1xt7p8+uIN23j2VmE/h8uWLUKIqTHPuutLZ82dRyzu8glK3LyNjNzI5PpK22dQg8EUY2n4cGvXu3TG2nPtrFFsDFn4kuY9BeGFSgy6B6P6GaSQAuTTH1a60IWmgztuadbQcY5NMwCV2VaVa2VpJlr/ksRDzGJetAkgtEgDzbd4/7Y9ueZFmQIW606ISuPYrRR6IqgZmCFIZEUhFdynBdT18lr5z3nWXj489RSBAmcy/KQsieaclPxAziuTSHn8SuSng=;RFvACTk3VA9QgOS29deMXQ=="

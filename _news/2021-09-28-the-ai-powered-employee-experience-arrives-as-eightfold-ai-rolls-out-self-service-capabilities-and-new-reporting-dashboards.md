@@ -32,6 +32,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Heidrick & Struggles and Eightfold AI Form Alliance"
+    excerpt: "The demand for AI specialists focused on data and machine learning is growing exponentially internationally and the search for top talent is increasing, according to executive recruiters. To that end,"
+    publishedDateTime: 2021-10-01T12:51:00Z
+    webUrl: "https://huntscanlon.com/heidrick-struggles-and-eightfold-ai-form-alliance/"
+    type: article
+    provider:
+      name: Hunt Scanlon Media
+      domain: huntscanlon.com
+    quality: 37
+    images:
+      - url: "https://huntscanlon.com/wp-content/uploads/2021/10/story1-e1633092660383.jpg"
+        width: 487
+        height: 274
+        isCached: true
 
 secured: "QewXjNY2Cc8HGkZclRiMovtCbszFjNS/oScNABZCaPG4ia6rHyO8q0YDv5iPwIulYxhjxdR6gDMMuke4n4T+r8M7b+GArYlG+JM1c2+dEKTj0nd0mauDYslCLTCslkuzwEo9dsQR6nWeaaQexKo03cHLDlF2vgcU7TjepwK/hhqzmEtW3WXxVncIpNyCGRcJvsGx4bBcNjB5t00aef0y/dyVOq+dEXSi4lTtBjqVcK+biPMpf/YXRq38XnEWdj9ETUCHJuAw3O+7ItHTkJVUwH5A6GTSyBAb5PWErqRqqTWzdGDs8GAKb9EpMgyOMzEZk929BVeiIIYXmcyd7XLintjAxRuZWqR7HcO7aTd2HF8=;qU0lGpmI6MTdzpdM723KxQ=="
 ---

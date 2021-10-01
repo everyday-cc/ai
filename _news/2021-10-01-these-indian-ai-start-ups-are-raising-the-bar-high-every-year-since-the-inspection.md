@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-01T12:38:00Z
 originalUrl: "https://www.analyticsinsight.net/top-10-indian-ai-start-ups-that-have-raised-funding-in-2021/"
 webUrl: "https://www.analyticsinsight.net/top-10-indian-ai-start-ups-that-have-raised-funding-in-2021/"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-10-Indian-AI-Startups-that-have-raised-funding-in-2021.jpg"
@@ -151,6 +152,6 @@ related:
       domain: cbo.gov
     quality: 30
 
-secured: "cGEmfULVtH2sJXtZ47YbJdfaXQvucRi/a5y3/17EA/0t6IsAjTCorc4O0IWGAfyWKBgab+b7pIch0kH0ZkTlQKajyYcSSt+ajf5Zg1OOxS2/69nMLMZjY809MQPCFWMwf+rQHUgqkzcg4XbDoUOQAxefqaaV8h/yxXYe//sMVCFTDrxB9gG17i4ecDce0QWrhd/+l6XAlEjJSXqUDNb9kfPV5N7j8ii6hO9/NGJY6zc2HqxNdMje9z2dmza2hG2jTBE+Bintcu5hTUTNqlkWZccxA7mzogoCl+FHYjeDuUcY6RCZbi/WPdRfB3/yYNo4Z7YRkuSKE/gFA0H8SIqiNVc3gEKdHPfBc/OKMWqHGJ8=;oS9nkfz2COHzaxcePqaQHg=="
+secured: "ePL72SwEevRO/E7SZnyUWAXUvjVq+v7pWCDgXK5voK/FH2qah7AIH10ZN4XP/i67vYzCSnopnN0qg7cnAHyuvzRWmyD6rnsqWVs/vIWN8BwF+LBA4CopSE4LBu2t7IkuwFlFgxFAsEoDNQ0HpsjzeHcJe1Fq5QiLmsNWmKG4YCBV8KOiSk/Vrk5Ee6kPXNiauFPklq5xh50fgT3xlJ7QHYbnyjyVkPyqth+lOvgSHbekpKfcengAUXTsTwsLcypeibJkLTYPPVQ+GPeObB0E1PqFhR0SZOEtuGXiVD5q0TLTCw0X95qDdFsGDMLg0Y8jFn6UZcG7iTqQ543/rDQp+vqcx5dyWGN+Xqvw9shnCXrMOKjwtTrkGvXBZ+lo2OA09hRWaonAZz8KDi45jRdJwwBsgG+/XUj2vdAoc3S2cOEoHIk3cwW17dJWnX5jVpzQw9uEJLEDOGsmqAXNK34FBTxN9i3ozoITmnKYmAx0gC7SD5h4dvZn6VVaE/Gy0uPlXqHVg6rc2DF8qK3/XpSvMA==;Sk38yXYwr+foP3iWvd/LTw=="
 ---
 

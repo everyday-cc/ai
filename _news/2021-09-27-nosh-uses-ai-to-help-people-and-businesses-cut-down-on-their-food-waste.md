@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 797
         isCached: true
+  - title: "How to Use AI to Drive Business Growth in the Tech Era"
+    excerpt: "AI allows for that. And from the looks of things, that will be nearly half of all US-based businesses within the next 12 months. However, even though the capabilities are there, it’s largely untapped potential."
+    publishedDateTime: 2021-10-01T13:30:00Z
+    webUrl: "https://www.business2community.com/business-innovation/how-to-use-ai-to-drive-business-growth-in-the-tech-era-02433972"
+    ampWebUrl: "https://www.business2community.com/business-innovation/how-to-use-ai-to-drive-business-growth-in-the-tech-era-02433972/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/how-to-use-ai-to-drive-business-growth-in-the-tech-era-02433972/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 57
+    images:
+      - url: "https://cdn.business2community.com/wp-content/uploads/2021/09/Business-Technology-900x643.png"
+        width: 900
+        height: 643
+        isCached: true
 
 secured: "9mB9hSD0+gjdaxyDmbpF+SY3dQA+n9v4qQ8hHcSowKprOYpE5EJEP4GuXRJZ9Lwy7tKZXx6Sf5blqPLMrxe5g9l6Arv0+su2okxePKFYatpu1dpF5KJZqsbypFcHqb9EwOIi2Ku3y7Yul3znpQKpPZIcqdUqK8ncZiRX1gmPRuCwHk7bg/i6owVOYlqEhGz7+6bIay4F+nYoJP9bSx8qXTd8ULE6uAEFd1+apy3yB/LCrJpm2tPZqJeAeSiONpOf3+XDVPYunQoGROZiDAnbVZtfTJjgrp6n3MT+3XwjONASrpT+Diywnp2542K4gJTZLe+7zyuoxRi9hndB1hUkFM1GeJuAdIDF0hauWry778o=;Q8ewPXKxiPDQp8+w2S7+YQ=="
 ---
