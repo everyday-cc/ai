@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 11056656
+        "followers": 11056958
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -82,7 +82,7 @@
       "twitter": {
         "username": "Microsoft",
         "url": "https://twitter.com/Microsoft",
-        "followers": 9721450
+        "followers": 9721443
       },
       "size": "10,001+ employees",
       "yearFounded": 1975,
@@ -128,7 +128,7 @@
       "twitter": {
         "username": "amazon",
         "url": "https://twitter.com/amazon",
-        "followers": 3887812
+        "followers": 3887914
       },
       "size": "10,001+ employees",
       "yearFounded": 1994,
@@ -314,7 +314,7 @@
       "twitter": {
         "username": "GoogleAI",
         "url": "https://twitter.com/GoogleAI",
-        "followers": 1624323
+        "followers": 1624333
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -360,7 +360,7 @@
       "twitter": {
         "username": "capitalcom",
         "url": "https://twitter.com/capitalcom",
-        "followers": 44806
+        "followers": 44814
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -417,7 +417,7 @@
       "twitter": {
         "username": "OpenAI",
         "url": "https://twitter.com/OpenAI",
-        "followers": 604651
+        "followers": 604665
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -431,7 +431,7 @@
         "AI",
         "Computer Vision"
       ],
-      "heat": 341,
+      "heat": 340,
       "tags": [
         "Non-profit"
       ],
@@ -513,7 +513,7 @@
       "twitter": {
         "username": "facebookai",
         "url": "https://twitter.com/facebookai",
-        "followers": 155947
+        "followers": 155960
       },
       "size": "10,001+ employees",
       "yearFounded": 2004,
@@ -527,7 +527,7 @@
         "AI",
         "Facebook AI"
       ],
-      "heat": 300,
+      "heat": 299,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1396953660018630658/wlmRTSpz_400x400.jpg",
@@ -566,7 +566,7 @@
       "twitter": {
         "username": "cisco",
         "url": "https://twitter.com/cisco",
-        "followers": 718639
+        "followers": 718633
       },
       "size": "10,001+ employees",
       "yearFounded": 1984,
@@ -608,7 +608,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1064749
+        "followers": 1064745
       },
       "yearFounded": 0,
       "locations": [
@@ -625,6 +625,58 @@
           "width": 400,
           "height": 400,
           "title": "Uber",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/algolia.md",
+      "title": "Algolia",
+      "excerpt": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/algolia/index.json",
+      "webUrl": "https://everyday.cc/ai/company/algolia/",
+      "type": "profile",
+      "name": "Algolia",
+      "overview": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
+      "website": "https://www.algolia.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/algolia",
+        "followers": 12683
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/algolia"
+      },
+      "twitter": {
+        "username": "algolia",
+        "url": "https://twitter.com/algolia",
+        "followers": 23003
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=vDsOQ58TrI0"
+        }
+      ],
+      "heat": 252,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1410973316152713221/EzAAH_y9_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Algolia",
           "isCached": true
         }
       ],
@@ -669,65 +721,13 @@
           "url": "https://www.youtube.com/watch?v=e9dLt_TUXAc"
         }
       ],
-      "heat": 253,
+      "heat": 252,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1348748676282388482/nr8ZuLBE_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Hugging Face",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/algolia.md",
-      "title": "Algolia",
-      "excerpt": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/algolia/index.json",
-      "webUrl": "https://everyday.cc/ai/company/algolia/",
-      "type": "profile",
-      "name": "Algolia",
-      "overview": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
-      "website": "https://www.algolia.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/algolia",
-        "followers": 12683
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/algolia"
-      },
-      "twitter": {
-        "username": "algolia",
-        "url": "https://twitter.com/algolia",
-        "followers": 22997
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=vDsOQ58TrI0"
-        }
-      ],
-      "heat": 252,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1410973316152713221/EzAAH_y9_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Algolia",
           "isCached": true
         }
       ],
@@ -753,7 +753,7 @@
       "twitter": {
         "username": "anacondainc",
         "url": "https://twitter.com/anacondainc",
-        "followers": 66295
+        "followers": 66297
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -1002,7 +1002,7 @@
       "twitter": {
         "username": "BaiduResearch",
         "url": "https://twitter.com/BaiduResearch",
-        "followers": 55896
+        "followers": 55895
       },
       "size": "10,001+ employees",
       "yearFounded": 2000,
@@ -1055,7 +1055,7 @@
       "twitter": {
         "username": "grammarly",
         "url": "https://twitter.com/grammarly",
-        "followers": 204303
+        "followers": 204301
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -1104,7 +1104,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 76442
+        "followers": 76443
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -1164,7 +1164,7 @@
       "twitter": {
         "username": "salesforce",
         "url": "https://twitter.com/salesforce",
-        "followers": 555004
+        "followers": 555003
       },
       "size": "10,001+ employees",
       "yearFounded": 1999,
@@ -1210,7 +1210,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 69032
+        "followers": 69037
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -1263,7 +1263,7 @@
       "twitter": {
         "username": "Affirm",
         "url": "https://twitter.com/Affirm",
-        "followers": 13238
+        "followers": 13239
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -1364,7 +1364,7 @@
       "twitter": {
         "username": "tencentglobal",
         "url": "https://twitter.com/tencentglobal",
-        "followers": 32354
+        "followers": 32355
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -1406,7 +1406,7 @@
       "twitter": {
         "username": "moveworks",
         "url": "https://twitter.com/moveworks",
-        "followers": 4435
+        "followers": 4439
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -1459,7 +1459,7 @@
       "twitter": {
         "username": "ubtechrobotics",
         "url": "https://twitter.com/ubtechrobotics",
-        "followers": 83579
+        "followers": 83583
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -1518,7 +1518,7 @@
       "twitter": {
         "username": "argoai",
         "url": "https://twitter.com/argoai",
-        "followers": 7053
+        "followers": 7058
       },
       "size": "501-1,000 employees",
       "yearFounded": 2016,
@@ -1568,7 +1568,7 @@
       "twitter": {
         "username": "scale_ai",
         "url": "https://twitter.com/scale_ai",
-        "followers": 11318
+        "followers": 11317
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -1630,7 +1630,7 @@
       "twitter": {
         "username": "aurora_inno",
         "url": "https://twitter.com/aurora_inno",
-        "followers": 11212
+        "followers": 11213
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
