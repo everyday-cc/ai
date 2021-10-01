@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1102884604/Scope-of-AI-Deep-Learning-and-Neural
 webUrl: "https://menafn.com/1102884604/Scope-of-AI-Deep-Learning-and-Neural-Network-2021-Market-Research-Report"
 type: article
 quality: 67
-heat: 139
+heat: 137
 published: true
 
 provider:

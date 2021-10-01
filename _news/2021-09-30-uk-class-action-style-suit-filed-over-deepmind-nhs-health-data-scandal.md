@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/30/uk-class-action-style-suit-filed-o
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/30/uk-class-action-style-suit-filed-over-deepmind-nhs-health-data-scandal/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1024
     height: 768
     isCached: true
+
+related:
+  - title: "Google’s DeepMind faces suit over access to NHS patient records"
+    excerpt: "London-based firm Mishcon de Reya said it filed a claim in the U.K.’s High Court, alleging that Google’s access of 1.6 million people’s medical records broke privacy rules. NHS’ Royal Free London had struck an agreement with DeepMind in 2015 to build a system for alerting clinicians."
+    publishedDateTime: 2021-09-30T21:15:00Z
+    webUrl: "https://medcitynews.com/2021/09/googles-deepmind-faces-suit-over-access-to-nhs-patient-records/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 39
+    images:
+      - url: "https://medcitynews.com/uploads/2017/11/GettyImages-483265099-300x229.jpg"
+        width: 300
+        height: 229
+        isCached: true
 
 secured: "CosxVXLDHdnJ2msO+eQqoBx6rks/tQpXNS+JpwVXmlII44ukAFn2M+1G1YifD40SukP3C+5Fxybe1n8rrJ+n2Mp3HFiMqKwTigwkJsVEOoHqw9+SYFI9eXOnlNnoOJuHoKxowBXNHQjqvfAQnFns9sV2kgtc7KRZMu4quV42F+xa7jP6pUEX9S5hXajE5ETZVJmkwP3y3e20LbImCH98oQTLNx4OcU/8s5NTcb5tbks9M0GdPM5gnryK69raZ8jc21oXumz4Z19l7pudTq4huVvgHlBPr2XNdfOqrTFhC7cQmjoIy2jFmmd46nfAMhi+6s5PNLtbyyrH7Z3ChD0Fx5DF6ICwVF9gs+mMmbGIQEHAx4AW4BXMNlfzULrpCm5bLaGcxWMWUutMIGw8eQJQAwXH46Oxp/4xJcP3dflUe6Uu3L7K0RwtAiEx7xw11AW4lmv3IxJeaZ+xtiQWTbEZb83fEPE1jXZh68/GUmW/F/0EWt5gevbrHaalyLGdiRS84lZc3V+ZrXd/YInEWBsO5w==;QD9SmPqV36rh3gBD5pTo/w=="
 ---
