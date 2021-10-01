@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-01-honda-sets-its-sights-on-an-evtol-telepresence-robot-and-space-tech.md",
+      "title": "Honda sets its sights on an eVTOL, telepresence robot and space tech",
+      "excerpt": "Honda has laid out new technologies it plans to pursue in the coming decades. Building on current areas of expertise, the company will look to develop an eVTOL for inter-city transport, a robot that will act as an avatar for users to perform tasks remotely,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/",
+      "originalUrl": "https://newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/dd2dba0/2147483647/strip/true/crop/1620x1080+597+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F45%2F76%2F52fc0bd94744bc076553e9b6fa34%2Fhonda-evtol.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/?amp=true",
+      "publishedDateTime": "2021-09-30T23:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-01-beware-professional-services-workers-robots-are-coming-for-your-job-too.md",
       "title": "Beware Professional Services Workers: Robots Are Coming For Your Job Too!",
       "excerpt": "For the most part, the biggest fears of many during this period of rapid technology advancement has been that blue collar positions, the laborers and builders of the world, would be the ones finding their positions threatened the most.",
@@ -244,58 +296,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-30-honda-reveals-evtol-plans-future-robots-and-dreams-of-helping-colonize-the-moon.md",
-      "title": "Honda reveals eVTOL plans, future robots and dreams of helping colonize the moon",
-      "excerpt": "These are some big time aspirations from the carmaker, but it's all part of a plan to tackle other issues beyond traditional transportation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/honda-evtol-robots-colonize-moon/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/honda-evtol-robots-colonize-moon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/lcRp-47lWgWxs2fqLwA9_Lom8Yo=/2021/09/29/ad56b966-12bb-4145-bbbb-0826ab7721d3/ogi-honda.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/honda-evtol-robots-colonize-moon/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-evtol-robots-colonize-moon/",
-      "publishedDateTime": "2021-09-30T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-30-johnson-controls-chooses-ava-robotics-to-power-the-new-tyco-security-robot-designed-for-business-applications.md",
       "title": "Johnson Controls chooses Ava Robotics to power the new Tyco Security Robot, designed for business applications",
       "excerpt": "Johnson Controls has chosen Ava Robotics, a globally renowned company in designing and developing intelligent robots for workplace applications, to improve human productivity, safety and quality",
@@ -380,6 +380,59 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-amazons-new-1000-home-patrolling-robot-is-flawed-and-could-fall-down-stairs-report-says.md",
+      "title": "Amazon's new $1,000 home-patrolling robot is flawed and could fall down stairs, report says",
+      "excerpt": "Amazon announced a new $1,000 home-patrolling robot called Astro. Two people who worked on Astro told Vice they believe the robot's release is premature. Amazon said the characterization of Astro ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/amazon-astro-robot-may-fall-down-stairs-report-says-2021-9",
+      "originalUrl": "https://www.businessinsider.com/amazon-astro-robot-may-fall-down-stairs-report-says-2021-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/615448c7b414c1001862dd24?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/amazon-astro-robot-may-fall-down-stairs-report-says-2021-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-astro-robot-may-fall-down-stairs-report-says-2021-9?amp",
+      "publishedDateTime": "2021-09-29T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1372,49 +1425,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-robotics-and-blockchain-top-the-list-of-fastest-growing-industries.md",
-      "title": "Robotics and Blockchain Top the List of Fastest-Growing Industries",
-      "excerpt": "Agricultural technology, big data, and other tech sectors continued speedy growth, according to a new report on the global state of entrepreneurship.",
-      "sourceUrl": null,
-      "webUrl": "https://www.inc.com/gabrielle-bienasz/global-startup-ecosystem-report-robotics-artificial-intelligence.html",
-      "originalUrl": "https://www.inc.com/gabrielle-bienasz/global-startup-ecosystem-report-robotics-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-916478814_481999_mpzers.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-22T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inc",
-        "domain": "inc.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

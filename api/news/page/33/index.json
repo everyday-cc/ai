@@ -2,6 +2,92 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-09-03-susan-bathalon-participating-in-an-astm-task-group-teleconference-on-computer-vision-based-drowning-detection-systems-for-residential-swimming.md",
+      "title": "Susan Bathalon Participating in an ASTM Task group Teleconference on Computer Vision-Based Drowning Detection Systems for Residential Swimming Pools",
+      "excerpt": "Add to Calendar 09/03/2021 2:30 pm 09/03/2021 3:30 pm America/New_York Susan Bathalon Participating in an ASTM Task group Teleconference on Computer Vision-Based Drowning Detection Systems for Residential Swimming Pools Susan Bathalon from the Office of Hazard Identification and Reduction (EXHR) will participate in an ASTM technology task group teleconference to discuss the drowning sensor detection systems in residential swimming pools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cpsc.gov/zhT-CN/Newsroom/Public-Calendar/2021-09-03T143000/Susan-Bathalon-Participating-in-an-ASTM-Task-group-Teleconference-on-Computer-Vision-Based-Drowning-Detection-Systems-for-Residential-Swimming-Pools?language=id",
+      "originalUrl": "https://www.cpsc.gov/zhT-CN/Newsroom/Public-Calendar/2021-09-03T143000/Susan-Bathalon-Participating-in-an-ASTM-Task-group-Teleconference-on-Computer-Vision-Based-Drowning-Detection-Systems-for-Residential-Swimming-Pools?language=id",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Consumer Protection Safety Commission",
+        "domain": "cpsc.gov",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-runai-integrates-gpu-optimization-tool-with-mlops-platforms.md",
+      "title": "Run:AI integrates GPU optimization tool with MLOps platforms",
+      "excerpt": "Run:AI has added support for MLflow and Kubeflow to its tool for managing machine learning business operations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/02/runai-integrates-gpu-optimization-tool-with-mlops-platforms/",
+      "originalUrl": "https://venturebeat.com/2021/09/02/runai-integrates-gpu-optimization-tool-with-mlops-platforms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/tech-5090539-e1628190005687.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/02/runai-integrates-gpu-optimization-tool-with-mlops-platforms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/02/runai-integrates-gpu-optimization-tool-with-mlops-platforms/amp/",
+      "publishedDateTime": "2021-09-02T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-09-02-build-machine-learning-at-the-edge-applications-using-amazon-sagemaker-edge-manager-and-aws-iot-greengrass-v2.md",
       "title": "Build machine learning at the edge applications using Amazon SageMaker Edge Manager and AWS IoT Greengrass V2",
       "excerpt": "Running machine learning (ML) models at the edge can be a powerful enhancement for Internet of Things (IoT) solutions that must perform inference without a constant connection back to the cloud. Although there are numerous ways to train ML models for countless applications, effectively optimizing and",
@@ -1079,110 +1165,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-ai-powered-weed-destroying-startup-harvests-27m-round-farmers-say-laser-blasting-machine-saves-time-and-cuts-pesticide-use.md",
-      "title": "AI-powered weed destroying startup harvests $27M round, farmers say laser-blasting machine saves time and cuts pesticide use",
-      "excerpt": "The Seattle-based startup just landed $27 million to help meet demand. Its AI-powered autonomous robot uses computer vision software to identify weeds growing in fields, and then zaps them with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/carbon-robotics-raises-27m-ai-powered-weed-destroying-machine-used-farmers/",
-      "originalUrl": "https://www.geekwire.com/2021/carbon-robotics-raises-27m-ai-powered-weed-destroying-machine-used-farmers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/08/Bud-in-CA-630x473.jpg",
-          "width": 630,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/carbon-robotics-raises-27m-ai-powered-weed-destroying-machine-used-farmers/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/carbon-robotics-raises-27m-ai-powered-weed-destroying-machine-used-farmers/amp/",
-      "publishedDateTime": "2021-09-01T21:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-tesla-now-aims-for-full-self-driving-beta-public-release-september-25th-u.md",
-      "title": "Tesla now aims for Full Self-Driving Beta public release ~September 25th (U)",
-      "excerpt": "In a series of new Tweets, Tesla CEO Elon Musk has pinpointed the target delivery date of the “FSD opt-in Button” to on or around September 25th Elon Musk is now saying that Tesla is aiming for the wider public release of its Full S Beta in about four weeks.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/09/01/tesla-full-self-driving-beta-public-release-4-weeks/",
-      "originalUrl": "https://electrek.co/2021/09/01/tesla-full-self-driving-beta-public-release-4-weeks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/09/01/tesla-full-self-driving-beta-public-release-4-weeks/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/01/tesla-full-self-driving-beta-public-release-4-weeks/",
-      "publishedDateTime": "2021-09-01T20:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

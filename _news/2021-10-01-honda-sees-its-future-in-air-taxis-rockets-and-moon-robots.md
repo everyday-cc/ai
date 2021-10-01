@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Honda sets its sights on an eVTOL, telepresence robot and space tech"
+    excerpt: "Honda has laid out new technologies it plans to pursue in the coming decades. Building on current areas of expertise, the company will look to develop an eVTOL for inter-city transport, a robot that will act as an avatar for users to perform tasks remotely,"
+    publishedDateTime: 2021-10-01T06:43:00Z
+    webUrl: "https://newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/"
+    ampWebUrl: "https://newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 89
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/dd2dba0/2147483647/strip/true/crop/1620x1080+597+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F45%2F76%2F52fc0bd94744bc076553e9b6fa34%2Fhonda-evtol.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Honda reveals eVTOL plans, future robots and dreams of helping colonize the moon"
     excerpt: "These are some big time aspirations from the carmaker, but it's all part of a plan to tackle other issues beyond traditional transportation."
     publishedDateTime: 2021-09-30T09:00:00Z

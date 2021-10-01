@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/honda-evtol-robots-colonize-moo
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-evtol-robots-colonize-moon/"
 type: article
 quality: 84
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNET
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Honda sets its sights on an eVTOL, telepresence robot and space tech"
+    excerpt: "Honda has laid out new technologies it plans to pursue in the coming decades. Building on current areas of expertise, the company will look to develop an eVTOL for inter-city transport, a robot that will act as an avatar for users to perform tasks remotely,"
+    publishedDateTime: 2021-10-01T06:43:00Z
+    webUrl: "https://newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/"
+    ampWebUrl: "https://newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 89
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/dd2dba0/2147483647/strip/true/crop/1620x1080+597+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F45%2F76%2F52fc0bd94744bc076553e9b6fa34%2Fhonda-evtol.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Honda sees its future in air taxis, rockets and moon robots"
     excerpt: "Honda's vision of how people will work, travel and spend leisure time in the future will help expand its business beyond cars, lawn mowers and motorcycles. The efforts are a key component of Honda's \"2030 Vision\" to broaden the definition of mobility and to improve peoples' daily lives."
     publishedDateTime: 2021-10-01T00:14:00Z

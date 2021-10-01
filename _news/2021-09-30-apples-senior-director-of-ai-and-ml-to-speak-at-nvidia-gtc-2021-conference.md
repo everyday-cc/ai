@@ -9,7 +9,7 @@ ampWebUrl: "https://9to5mac.com/2021/09/29/apples-senior-director-of-ai-and-ml-t
 cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/09/29/apples-senior-director-of-ai-and-ml-to-speak-at-nvidia-gtc-2021-conference/amp/"
 type: article
 quality: 74
-heat: 145
+heat: 144
 published: true
 
 provider:

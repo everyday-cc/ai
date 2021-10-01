@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/fintech-startup-the-money-club-raises-1-7m-f
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/fintech-startup-the-money-club-raises-1-7m-from-sosv-and-venture-catalysts/amp/"
 type: article
 quality: 57
-heat: 58
+heat: 57
 published: false
 
 provider:

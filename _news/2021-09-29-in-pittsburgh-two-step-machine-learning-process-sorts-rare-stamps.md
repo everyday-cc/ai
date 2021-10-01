@@ -39,6 +39,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Pittsburgh's technology hub touted as U.S. commerce secretary tours space robotics facility"
+    excerpt: "Once known as a city reliant on steel production, Pittsburgh is now touted as a technology hub with a focus on innovation. “It’s incredible the transformation that has happened in this city in the last few decades,"
+    publishedDateTime: 2021-09-30T20:19:00Z
+    webUrl: "https://triblive.com/local/pittsburghs-technology-hub-touted-as-commerce-commerce-tours-space-robotics-facility/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 44
+    images:
+      - url: "https://assets-varnish.triblive.com/2021/09/4291492_web1_ptr-Astrobotic3-100121.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Commerce Secretary Signals Feds Could Invest In Pittsburgh’s Bid To Become Self-Driving Powerhouse"
     excerpt: "U.S. Commerce Secretary Gina Raimondo said investments in the tech industry would create jobs across Pittsburgh's economy. She spoke after trade and technology talks between the U.S. and the European Union concluded in Pittsburgh Thursday."
     publishedDateTime: 2021-09-30T22:57:00Z

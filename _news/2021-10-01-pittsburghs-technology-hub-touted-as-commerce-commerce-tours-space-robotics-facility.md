@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Pittsburgh's technology hub touted as U.S. commerce secretary tours space robotics facility"
+    excerpt: "Once known as a city reliant on steel production, Pittsburgh is now touted as a technology hub with a focus on innovation. “It’s incredible the transformation that has happened in this city in the last few decades,"
+    publishedDateTime: 2021-09-30T20:19:00Z
+    webUrl: "https://triblive.com/local/pittsburghs-technology-hub-touted-as-commerce-commerce-tours-space-robotics-facility/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 44
+    images:
+      - url: "https://assets-varnish.triblive.com/2021/09/4291492_web1_ptr-Astrobotic3-100121.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "In Pittsburgh, Two-Step Machine Learning Process Sorts Rare Stamps"
     excerpt: "Setting aside the relatively recent rise of electronic signatures, personalized stamps have been a popular form of identification for formal documents in"
     publishedDateTime: 2021-09-28T18:59:00Z

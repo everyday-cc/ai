@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-30-is-identity-theft-fraud-heres-how-ai-and-graphing-tools-help-solve-the-puzzle.md",
+      "title": "Is Identity Theft Fraud? Here’s How AI And Graphing Tools Help Solve The Puzzle",
+      "excerpt": "While identity theft and fraud are related, they’re not equivalent, which means that relying solely on PII and credit bureau data to verify someone is who they say they are is a dangerous — and incomplete — approach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/is-identity-theft-fraud-heres-how-ai-and-graphing-tools-help-solve-the-puzzle/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/is-identity-theft-fraud-heres-how-ai-and-graphing-tools-help-solve-the-puzzle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61548377d01fdff342398689%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/is-identity-theft-fraud-heres-how-ai-and-graphing-tools-help-solve-the-puzzle/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/30/is-identity-theft-fraud-heres-how-ai-and-graphing-tools-help-solve-the-puzzle/amp/",
+      "publishedDateTime": "2021-09-30T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-are-ai-ethics-teams-doomed-to-be-a-facade-the-women-who-pioneered-them-weigh-in.md",
       "title": "Are AI ethics teams doomed to be a facade? The women who pioneered them weigh in",
       "excerpt": "Timnit Gebru, Margaret Mitchell, and other leaders discuss tensions surrounding AI ethics in big tech and what teams need to succeed.",
@@ -399,6 +450,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-30-dmi-alternatives-raises-40-mn-for-fintech-fund.md",
+      "title": "DMI Alternatives raises $40 mn for fintech fund",
+      "excerpt": "Within the Fintech ecosystem, Sparkle focuses on alternative lending, consumer finance, financial services IT, payments, regtech, wealthtech and AI-ML platforms to drive automation. A key differentiator for Sparkle is its strategic relationship with DMI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/news/dmi-alternatives-raises-40-mn-for-fintech-fund-11632995681857.html",
+      "originalUrl": "https://www.livemint.com/companies/news/dmi-alternatives-raises-40-mn-for-fintech-fund-11632995681857.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/09/30/600x338/DMI_1632997037719_1632997047813.JPG",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/news/dmi-alternatives-raises-40-mn-for-fintech-fund/amp-11632995681857.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/dmi-alternatives-raises-40-mn-for-fintech-fund/amp-11632995681857.html",
+      "publishedDateTime": "2021-09-30T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-uk-ai-strategy-focused-on-economic-growth-resilience-and-ethics.md",
       "title": "UK AI strategy focused on economic growth, resilience and ethics",
       "excerpt": "Chris Eastham of law firm Fieldfisher looks at the government’s National Artificial Intelligence Strategy, and the merits of the 10-year plan and its approach.",
@@ -438,58 +532,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-honda-reveals-evtol-plans-future-robots-and-dreams-of-helping-colonize-the-moon.md",
-      "title": "Honda reveals eVTOL plans, future robots and dreams of helping colonize the moon",
-      "excerpt": "These are some big time aspirations from the carmaker, but it's all part of a plan to tackle other issues beyond traditional transportation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/honda-evtol-robots-colonize-moon/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/honda-evtol-robots-colonize-moon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/lcRp-47lWgWxs2fqLwA9_Lom8Yo=/2021/09/29/ad56b966-12bb-4145-bbbb-0826ab7721d3/ogi-honda.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/honda-evtol-robots-colonize-moon/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-evtol-robots-colonize-moon/",
-      "publishedDateTime": "2021-09-30T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -546,7 +588,7 @@
       "originalUrl": "https://9to5mac.com/2021/09/29/apples-senior-director-of-ai-and-ml-to-speak-at-nvidia-gtc-2021-conference/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1182,58 +1224,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-how-human-rights-by-design-can-save-us-from-ai-misuse.md",
-      "title": "How ‘human rights by design’ can save us from AI misuse",
-      "excerpt": "We need concrete protections from artificial intelligence undermining social justice. The 'Human Rights by Design' approach could help.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/how-human-rights-by-design-can-save-us-from-ai-misuse-syndication",
-      "originalUrl": "https://thenextweb.com/news/how-human-rights-by-design-can-save-us-from-ai-misuse-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2Fjustice-ai-hed.jpg&signature=d92b53ea08ecea5bd123ec48ac93dca6",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-29T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

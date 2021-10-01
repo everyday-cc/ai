@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/30/vcs-invested-over-75b-in-ai-start
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/30/vcs-invested-over-75b-in-ai-startups-in-2020/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 99
 published: true
 
 provider:

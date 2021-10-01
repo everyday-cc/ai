@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/29/ai-powered-document-processing-pl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/ai-powered-document-processing-platform-zuva-raises-20m/amp/"
 type: article
 quality: 87
-heat: 110
+heat: 111
 published: true
 
 provider:

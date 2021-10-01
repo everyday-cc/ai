@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/companies/news/dmi-alternatives-raises-40-m
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/dmi-alternatives-raises-40-mn-for-fintech-fund/amp-11632995681857.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Mint
@@ -42,6 +42,20 @@ related:
       - url: "https://inc42.com/wp-content/uploads/2021/09/GST-Social-2.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "IIFL Fintech Fund backs AI startup Data Sutram"
+    excerpt: "Extrapolate Advisors Pvt Ltd, which runs the Kolkata-based AI startup Data Sutram, has raised funding for an undisclosed amount"
+    publishedDateTime: 2021-10-01T07:39:00Z
+    webUrl: "https://www.vccircle.com/iifl-fintech-fund-backs-ai-startup-data-sutram"
+    type: article
+    provider:
+      name: VCCircle
+      domain: vccircle.com
+    quality: 37
+    images:
+      - url: "https://assets.vccircle.com/uploads/2019/05/Fundingrf2.jpg"
+        width: 810
+        height: 506
         isCached: true
 
 secured: "GvDWJXcfyx6In2RG3Htny7l8yY5LT6VsqZC4Q7zjY0LGCQX6OrcjLddguisVM4VRR8GAmknw45jNa9zqUD55NNuW7GTNubHf40BpItk0XNczaH5kZxmb+kHbJGrsk7tGuzTN2ZTDRIWcJF9GcIGB3SE65KT6Up6XsyVKj87Ye3raEl0IkExN2cduaQqFvIswDdpZ+ffaNwV1zGx+FZnT+rU/CLSwVB0CxUENoG+K91yVrvb1+RjVlOcikJ8WZ4+l/jVgAtc0QokN8KPydGw30eExIww8oyP2W7I4dV6egIVBYr3513QWurrd6/WIq0RXD9IYya0yMU3YZL+MpN83EMmpqUJ+rzQr3uwFEtUzzNWyiuYbirXRaJvyrPkp2/nZ4nm+kBAkTUOBKP0u5X7yHnv44tffDUPkIlomBYmg051Azc0Ie7IadYK5jJPsscq3oEMH8HHFuH7kibAgGmUoHELkl+7Hebs2tkDKBDTfT7wUa1e9k588XbEYQRsAu9OtSJ+8FriddNp/5E+rwwkUVg==;Gs4DMXwYNXotmFWqL3laTw=="

@@ -290,6 +290,59 @@
       ]
     },
     {
+      "path": "_news/2021-09-29-amazons-new-1000-home-patrolling-robot-is-flawed-and-could-fall-down-stairs-report-says.md",
+      "title": "Amazon's new $1,000 home-patrolling robot is flawed and could fall down stairs, report says",
+      "excerpt": "Amazon announced a new $1,000 home-patrolling robot called Astro. Two people who worked on Astro told Vice they believe the robot's release is premature. Amazon said the characterization of Astro ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/amazon-astro-robot-may-fall-down-stairs-report-says-2021-9",
+      "originalUrl": "https://www.businessinsider.com/amazon-astro-robot-may-fall-down-stairs-report-says-2021-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/615448c7b414c1001862dd24?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/amazon-astro-robot-may-fall-down-stairs-report-says-2021-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-astro-robot-may-fall-down-stairs-report-says-2021-9?amp",
+      "publishedDateTime": "2021-09-29T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-ounass-increases-its-revenue-using-amazon-sagemaker-with-a-word2vec-based-recommender-system.md",
       "title": "Ounass increases its revenue using Amazon SageMaker with a Word2vec based recommender system",
       "excerpt": "Based in Dubai, Ounass is the Middle East’s leading ecommerce platform for luxury goods. Scouring the globe for leading trends, Ounass’s expert team reports on the latest fashion updates, coveted insider information, and exclusive interviews for customers to read and shop. With more than 230,000 unique",
@@ -1398,50 +1451,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-artificial-intelligence-ai-in-education-market-rising-demand-growth-trend-insights-for-next-5-years.md",
-      "title": "Artificial Intelligence (Ai) In Education Market Rising Demand, Growth, Trend & Insights for Next 5 Years",
-      "excerpt": "Latest published market study on Worldwide Artificial Intelligence (Ai) In Education Market provides an overview of the current market dynamics in the Worldwide Artificial Intelligence (Ai) In Education space,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-ai-in-education-market-rising-demand-growth-trend-insights-for-next-5-years/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-ai-in-education-market-rising-demand-growth-trend-insights-for-next-5-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/10-6-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-ai-in-education-market-rising-demand-growth-trend-insights-for-next-5-years/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-education-market-rising-demand-growth-trend-insights-for-next-5-years/?amp=1",
-      "publishedDateTime": "2021-09-15T18:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
       ]
     }
   ],
