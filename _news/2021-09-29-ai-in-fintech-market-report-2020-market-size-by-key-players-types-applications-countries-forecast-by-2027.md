@@ -106,6 +106,20 @@ related:
         width: 401
         height: 401
         isCached: true
+  - title: "Key Ways Fintech is Transforming Investment Banking"
+    excerpt: "The conventional investment banking business has struggled to adapt to legacy technology, but as the digital revolution sweeps across finance, now is the moment to shift. Fremont, CA: FinTech will change investment banking in various ways,"
+    publishedDateTime: 2021-10-01T13:24:00Z
+    webUrl: "https://www.cioapplications.com/news/key-ways-fintech-is-transforming-investment-banking-nid-8601.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/uivp4451.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "AI in Fintech Market Size to Reach USD 17440 Million by 2027 at CAGR 17.9% - Valuates Reports"
     excerpt: "The AI in Fintech Market is Segmented by Type (Software Tools, Platforms), Application (Virtual Assistant, Business Analytics and"
     publishedDateTime: 2021-09-30T14:00:00Z

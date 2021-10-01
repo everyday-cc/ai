@@ -9,8 +9,8 @@ ampWebUrl: "https://9to5mac.com/2021/09/29/apples-senior-director-of-ai-and-ml-t
 cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/09/29/apples-senior-director-of-ai-and-ml-to-speak-at-nvidia-gtc-2021-conference/amp/"
 type: article
 quality: 74
-heat: 144
-published: true
+heat: -1
+published: false
 
 provider:
   name: 9to5Mac
@@ -28,33 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "VMware Extends vSphere to Capabilities for Nvidia’s AI and GPUs"
-    excerpt: "VMware’s VMware vSphere 7 Update 3 release serves to further unlock access to Nvidia vGPUs and AI with self-service API options, while also offering a number of new capabilities for vSphere for applications running in or on virtual machines (VMs),"
-    publishedDateTime: 2021-09-29T17:26:00Z
-    webUrl: "https://thenewstack.io/vmware-extends-vsphere-to-capabilities-for-nvidias-ai-and-gpus/"
+  - title: "NVIDIA CEO Jensen Huang to Unveil New AI Technologies, Products in GTC Keynote; Hundreds of Industry and AI Leaders to Speak at November Event"
+    excerpt: "NVIDIA today announced that it will host a global, virtual GTC from Nov. 8-11, featuring a news-filled keynote by NVIDIA founder and CEO Jensen Huang and talks from some of the world’s preeminent AI research and industry leaders."
+    publishedDateTime: 2021-09-29T13:11:00Z
+    webUrl: "https://nvidianews.nvidia.com/news/nvidia-ceo-jensen-huang-to-unveil-new-ai-technologies-products-in-gtc-keynote-hundreds-of-industry-and-ai-leaders-to-speak-at-november-event"
     type: article
     provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 54
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 101
     images:
-      - url: "https://cdn.thenewstack.io/media/2021/09/4e14c3dc-img_1550-1.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Apple director of AI, machine learning research to speak at Nvidia conference"
-    excerpt: "Apple's senior director of AI and machine learning research, Samy Bengio, is slated to be a speaker at Nvidia's annual GTC conference in November."
-    publishedDateTime: 2021-09-30T03:01:00Z
-    webUrl: "https://appleinsider.com/articles/21/09/30/apple-director-of-ai-machine-learning-research-to-speak-at-nvidia-conference"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 53
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/44775-87025-5d7e4fb4-fbba-4bf7-9c3d-584318e0762e-xl.jpg"
-        width: 1209
-        height: 680
+      - url: "https://s3.amazonaws.com/cms.ipressroom.com/219/files/20218/615463e6ed6ae576b5d4ba51_5d7e4fb4-fbba-4bf7-9c3d-584318e0762e/5d7e4fb4-fbba-4bf7-9c3d-584318e0762e_mid.jpg"
+        width: 700
+        height: 393
         isCached: true
   - title: "NVIDIA CEO Jensen Huang to Unveil New AI Technologies, Products in GTC Keynote Hundreds of Industry and AI Leaders to Speak at November Event"
     excerpt: "NVIDIA today announced that it will host a global, virtual GTC from Nov. 8-11, featuring a news-filled keynote by NVIDIA - Report on The Eastern Herald"
@@ -97,24 +83,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 18
-  - title: "NVIDIA invites devs to test their DLSS on NVIDIA's own supercomputers"
-    excerpt: "NVIDIA is inviting developers to test its latest builds of DLSS on their supercomputer, provide feedback for future improvement."
-    publishedDateTime: 2021-09-27T04:10:00Z
-    webUrl: "https://www.tweaktown.com/news/81827/nvidia-invites-devs-to-test-their-dlss-on-nvidias-own-supercomputers/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 4
-  - title: "NVIDIA CEO Jensen Huang to Unveil New AI Technologies, Products in GTC Keynote; Hundreds of Industry and AI Leaders to Speak at November Event"
-    excerpt: "NVIDIA today announced that it will host a global, virtual GTC from Nov. 8-11, featuring a news-filled keynote by NVIDIA founder and CEO Jensen Huang and talks from some of the world’s preeminent AI research and industry leaders."
-    publishedDateTime: 2021-09-29T13:11:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-nvidia-ceo-jensen-huang-unveil-new-ai-technologies-/2021/09/29/9458934.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "A1xy/1ORUfokGm8erJ/8UKRuc0/iT0DTAXOdXfRbDzbmPB2NpAc6f5rbTfIgSMsx8uPCK6qv2NJlt/SZx9w1Vtqbf+dmQHJ62g7ptvHOWA12Y3+ldPzJL6jeRVBnw8foAe68oeDGBgKbAU2m9Oyt38+A1+U1iKhfH3tWcPuuwHcNAElEP5qHIMV9AAvQoBTBgAFogr3J2syu5uFJDHpOWSZBlSmzI3bV7lMtMIdj9HXLKZJdtLNljMg/HorfBMnvNNyEnCGegE6TXKKrlmzJxlB8rboL4WnpTcYZvc3oLH2qx10yvD61vFGF53IfOtEkL9MpAoFwZsXgp8vf+Q3g6JzqPGJI3VPltg2oKlffPTHeDy97V67LKHnncSkD6Eu22XNGBOCsGIjoCMy+ONCa6bgJ6p7n98DfC073JVuOrur0/0g0FsKDRVNDroDfLk8FCFsBxMH6iDctklrix14AogduYbYYDVvG30/pjBNsuXze5ugovXytFNFW7Gvf/+VK6zCCKLCgtnOjNoSAOJMKRQ==;ACfc2daekyWBDyyx1BU02Q=="
 ---

@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Honda plans new air taxi, robotics and space technologies"
+    excerpt: "These areas include developing a new electric vertical take-off and landing (eVTOL) air taxi, new robots and space vehicles. The Honda eVTOL aircraft leverages Honda’s electrifi"
+    publishedDateTime: 2021-10-01T12:45:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17269/honda-plans-new-air-taxi-robotics-and-space-technologies"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 69
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/269/17269/Honda_eVTOL.jpg"
+        width: 752
+        height: 270
+        isCached: true
   - title: "Honda Announces Plans To Expand Research in Air Taxis, Robots and Space Technology"
     excerpt: "Honda Motor Company on Thursday announced plans to increase research and development across three technological categories: space technology, robots and electric vertical takeoff and landing aircrafts (eVTOL),"
     publishedDateTime: 2021-09-30T18:20:00Z

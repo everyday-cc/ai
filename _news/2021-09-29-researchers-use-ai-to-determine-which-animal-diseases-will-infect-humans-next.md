@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/researchers-use-ai-determine-which-ani
 webUrl: "https://thenextweb.com/news/researchers-use-ai-determine-which-animal-diseases-infect-humans"
 type: article
 quality: 64
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Next Web
@@ -31,19 +31,12 @@ related:
   - title: "AI may predict the next virus to jump from animals to humans"
     excerpt: "Most emerging infectious diseases of humans (like COVID-19) are zoonotic—caused by viruses originating from other animal species. Identifying high-risk viruses earlier can improve research and surveillance priorities."
     publishedDateTime: 2021-09-28T18:00:00Z
-    webUrl: "https://phys.org/news/2021-09-ai-virus-animals-humans.html"
-    ampWebUrl: "https://phys.org/news/2021-09-ai-virus-animals-humans.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-09-ai-virus-animals-humans.amp"
+    webUrl: "https://www.sciencedaily.com/releases/2021/09/210928141839.htm"
     type: article
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-may-predict-the-nex.jpg"
-        width: 2880
-        height: 2160
-        isCached: true
+    quality: 117
   - title: "AI could help scientists ID the next virus to jump from animals to humans"
     excerpt: "In a new proof-of-concept study, published Tuesday in the journal PLOS Biology, researchers suggest artificial intelligence can be used to predict the likelihood that an animal-infecting virus will infect humans."
     publishedDateTime: 2021-09-28T20:53:00Z
@@ -60,6 +53,22 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "Artificial intelligence could help to predict the next virus to jump from animals to humans"
+    excerpt: "The researchers' machine learning models could allow scientists to pre-emptively develop vaccines to protect against the most likely candidates."
+    publishedDateTime: 2021-09-28T18:01:00Z
+    webUrl: "https://www.sciencefocus.com/news/artificial-intelligence-could-help-to-predict-the-next-virus-to-jump-from-animals-to-humans/"
+    ampWebUrl: "https://www.sciencefocus.com/news/artificial-intelligence-could-help-to-predict-the-next-virus-to-jump-from-animals-to-humans/amp/"
+    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/artificial-intelligence-could-help-to-predict-the-next-virus-to-jump-from-animals-to-humans/amp/"
+    type: article
+    provider:
+      name: BBC Focus
+      domain: sciencefocus.com
+    quality: 47
+    images:
+      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/09/GettyImages-179770787-a4e5dd4.jpg?quality=90&crop=7px,140px,1186px,510px&resize=960,413"
+        width: 960
+        height: 413
+        isCached: true
   - title: "Machine learning can predict which animal viruses risk infecting humans"
     excerpt: "Scientists have developed a new machine learning method that can accurately predict which animal viruses could go on to infect humans in the future, using only information encoded in the viral genome"
     publishedDateTime: 2021-09-28T18:40:00Z
@@ -73,20 +82,6 @@ related:
       - url: "https://www.gla.ac.uk/media/Media_721239_smxx.jpg"
         width: 650
         height: 397
-        isCached: true
-  - title: "FDA clears artificial intelligence tool for incidentally determining heart disease risk via CT"
-    excerpt: "The U.S. Food and Drug Administration has cleared a new artificial intelligence solution to help physicians incidentally detect patients’ risk of heard disease via commonly ordered CT scans. HealthCCSng is the eighth FDA-cleared product from Israel-based Zebra Medical Vision,"
-    publishedDateTime: 2021-09-28T05:52:00Z
-    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/fda-artificial-intelligence-zebra-medical-nanox-heart"
-    type: article
-    provider:
-      name: Radiology Business
-      domain: radiologybusiness.com
-    quality: 25
-    images:
-      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2021-05/iStock-917337130.jpg?h=9d96f97f&itok=8hrn6Oek"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "+1WFAQ+Qupi1nh9vz/rclqWuhZtO+pDnABLLB0c2KRNTjRYM3orl/GvkC3t1nSGx8jfAhSSslMA6WU32bjlSTlIGLsP4YqpxuV1SgWFjxtHCUojhonDOh/Oe1lSKJWEc0q2Ij6mA5XGjcM+PH8zq1b9hUSrsCEDrpYWIkAACRBNAWKYMiqnRYw1dl7TXqKv9XywuTy1anFyYanGf1hXxYKu9IK+xYzNp1J0MvAMVwLE97xQe5nlvf4zjl+S75uiKL3BgVVWVSn5omaDyQtGBxl0KFA1NNZkbwCaYPzBuau2CxhjwAqGcHXMslGHdsJU/kMJT3pFKS5DMLZ48Ddmy7nLSz4SsbRmtifUUSpIj5+/NRYwmw3vEWc5cXsoOI/8ag5mc0AqlifhnPSIirS6XwB0bXSSuRdcDpFLfmoTB0PaxJ3qEoOS7YtC3r3P619h9xT9dE/fXlzD/aJ67wkKpt88NvUtydN1DnVGc9Jz9KnWbj5Kyynz1mEMYxGSFF57IeW7j56JHeSZ0KzV2obvd2A==;NfI7YGqNulpWqEHAU19S8w=="

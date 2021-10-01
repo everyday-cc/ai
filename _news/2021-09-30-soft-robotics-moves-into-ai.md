@@ -3,23 +3,23 @@ category: news
 title: "Soft Robotics Moves into AI"
 excerpt: "Exclusive - Technologies from Soft Robotics are on display across the show floor on robotic systems at BCA (Booth SU-7155/7156), Fanuc (Booth C-1441), Harpak-Ulma (Boot"
 publishedDateTime: 2021-09-29T18:00:00Z
-originalUrl: "https://www.automationworld.com/home/article/21735125/soft-robotics-moves-into-ai"
-webUrl: "https://www.automationworld.com/home/article/21735125/soft-robotics-moves-into-ai"
+originalUrl: "https://www.packworld.com/PACKEXPO/article/21735125/soft-robotics-moves-into-ai"
+webUrl: "https://www.packworld.com/PACKEXPO/article/21735125/soft-robotics-moves-into-ai"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Automation World
-  domain: automationworld.com
+  name: Packaging World
+  domain: packworld.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/09/Soft_Robotics.614bb12ec3cc1.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+  - url: "https://img.packworld.com/files/base/pmmi/all/image/2021/09/Soft_Robotics.614bb12ec3cc1.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
     width: 443
     height: 613
     isCached: true
@@ -86,6 +86,6 @@ related:
       domain: tmcnet.com
     quality: 6
 
-secured: "Flh3yKDGdSJ1kRzDXiJrTauYpx9/Jq8cgf1PgSuWlTPJINuYspH6aBEAR8uZaDKfk3iBYdQF80LesrOnc6+uZeEZ5FYQydIZEqJmMyzNo/Ezw4uEkOa56s4G5Fd5HZnBRrZK4nuDM28zTUHt0+eukUCObx1I9aiiWBjq5KDciSGfrDdstKjvOHkh2itWJLTKWMlFvXZGQRdneNueTXxjf5axxwFKx/Csg+U56FnuPEZCt2rNQn846fw+AsCKtjHFB5YGhqBFyhyYlsQtWrq2lX4MuX5DHhkDXk5Lw8nu1SXg3dLmnYwDU3o0T/x/4ACmQPRr4CTzoCqjxzFVtOXRxrop4v4GTya11O77G4dX0ZQ=;N3Vm26+d9KSCFjhVWwYakw=="
+secured: "eWTkSOnJ2Q7JjKVDeI6dBCzph732DzavY4i/YGhbUaLE7wxaS2x95APS5RngzGRBCXmKN+M/NuzRl4OYlEid2aalplj9YZRDJRq3k9NpwcA15LyisRZDjzbGdlOQ2cZqLdp4qfBbn3xl/VINpekQ900lPTj4cp6vZVhSBHWgzjZDdp4GU0CJ9l6CwQ9JEbp9hsY/wU2zktn18XdhIXMOkVLkaldCLr/YHP5fdbRCIJlrSj13FTHqDLpvp34RKX/wsyYZ+8Qp66jkWJGG9ZELrD0OC4wKGkpH7t8AjOTjjXJIBWWd3tOf2u0oqhhDAtzSxjrIguI+FeUOJlLtiw+Ke9HXw2Aif2qo5+ylDClbvP8=;rkypXAON5K1x4q1fmXLUuQ=="
 ---
 

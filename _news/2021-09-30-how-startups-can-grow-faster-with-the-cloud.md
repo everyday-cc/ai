@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/awsstartups/2021/09/29/how-startups-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/awsstartups/2021/09/29/how-startups-can-grow-faster-with-the-cloud/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

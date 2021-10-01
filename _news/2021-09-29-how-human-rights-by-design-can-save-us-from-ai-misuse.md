@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/how-human-rights-by-design-can-save-us
 webUrl: "https://thenextweb.com/news/how-human-rights-by-design-can-save-us-from-ai-misuse-syndication"
 type: article
 quality: 69
-heat: 90
+heat: 89
 published: true
 
 provider:

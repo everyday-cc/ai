@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/29/assessing-the-intersection-of-ope
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/assessing-the-intersection-of-open-source-and-ai/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -129,6 +129,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQGvgj1s1Js4GA/article-cover_image-shrink_720_1280/0/1632854039147?e=1638403200&v=beta&t=Ot4MMfLHafXYiAQuzTh3_CIr4yDkaE1CFodgceUeWQI"
         width: 935
         height: 720
+        isCached: true
+  - title: "These Indian AI start-ups are raising the bar high every year since the inspection"
+    excerpt: "Did you know, according to the latest research Indian AI start-ups have raised about US$836.3 million in 2020. Here are the top 10 Indian AI start-ups that have raised funding in 2021 on AI technologies."
+    publishedDateTime: 2021-10-01T12:38:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-indian-ai-start-ups-that-have-raised-funding-in-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 33
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-10-Indian-AI-Startups-that-have-raised-funding-in-2021.jpg"
+        width: 900
+        height: 500
         isCached: true
   - title: "S. 2551, Artificial Intelligence Training for the Acquisition Workforce Act"
     excerpt: "Artificial Intelligence (AI) allows computer systems to perform tasks that require human intelligence. S. 2551 would require the Office of Management and Budget (OMB) to establish a training program to provide federal procurement officials with an introductory understanding of the operational benefits and privacy risks of AI."

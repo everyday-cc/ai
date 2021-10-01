@@ -3,8 +3,8 @@ category: news
 title: "Tesla Is Bringing Self-Driving No Matter What. Regulators Need to Adapt."
 excerpt: "San Francisco authorities have expressed concern over Tesla's autonomous driving feature, dubbed Full Self Driving. More broadly, self-driving systems are advancing much faster than regulation."
 publishedDateTime: 2021-09-24T21:37:00Z
-originalUrl: "https://www.barrons.com/articles/tesla-stock-self-driving-regulation-51632504996?refsec=technology"
-webUrl: "https://www.barrons.com/articles/tesla-stock-self-driving-regulation-51632504996?refsec=technology"
+originalUrl: "https://www.barrons.com/articles/tesla-stock-self-driving-regulation-51632504996"
+webUrl: "https://www.barrons.com/articles/tesla-stock-self-driving-regulation-51632504996"
 ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-self-driving-regulation-51632504996"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-self-driving-regulation-51632504996"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 640
     isCached: true
 
-secured: "6CTC82E+SXXzCqo6DWJ+s04sFhhjpC7gz+fQsPUlS5p1IOwtMnvBmSYxBMqspjkvrFMrmIgFSTcsnttAD2NDTBHzXiTYx+IYopvjlDl53w/42qW0wHzjjtlHrYwnlUaH6GRS9sYFFr3rmbs48AoHVwZYjsw3WuYQL7m3IBAf6SBOpzS01wIMNkTp39wDi+D3NozqD+8luDjqpHQCBjipfpXRsu2+Ew2VckSWvG1fMiZQNNbY+Y1njh7yg6rau/FYe0TBDGdclH+ivpQ82J3Xt7dIq9E5Vcu+hrB6TJZg3U1a2NAhfbjO9nxH0qwIcFGIvpvh3YJguKZDXRZzXL7+YSxLZquhc6JxJ2cpFphPHRc=;+kzfqe6EgDKGFUapSAxBbw=="
+secured: "bUMjCX5ep6rET5YE7FJ/a04fPHLWBGTliachcaNw09YQP36po4bbwFXtgbn5UDgCwnVfbG06MqVj8PZC6A16cgu21Ip3fZUF4zE7jN1p3FuzT6s1gG/6Y7WjOHR6X++5eSa0/kSExZPgdUdBo7h9OPCC5D274GZhqyk0tOC7dpi4+r00/ZKQdqs9VhQAsbFRY8oYGzGgkmiD23YxpnrHN//IzhOEZGw5Mvdt8pyBbOYHicY4bGVutaU9s4wsMayQ1ddvVY6R/IG3dkgGByH71g5aDEjwHNy3HObGg45dndqSqzTCrQMSfHuz6VPpgkrdZahjhQ0UX8hQtkMcLYIGuFW2mtQounbZWxs2YdnS+18=;9bVAcwfLIIGtRJQZOdeD2w=="
 ---
 

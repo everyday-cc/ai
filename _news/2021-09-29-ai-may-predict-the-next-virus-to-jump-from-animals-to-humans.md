@@ -4,13 +4,11 @@ title: "AI may predict the next virus to jump from animals to humans"
 excerpt: "Most emerging infectious diseases of humans (like COVID-19) are zoonotic—caused by viruses originating from other animal species. Identifying high-risk viruses earlier can improve research and surveillance priorities."
 publishedDateTime: 2021-09-28T18:00:00Z
 originalUrl: "https://phys.org/news/2021-09-ai-virus-animals-humans.html"
-webUrl: "https://phys.org/news/2021-09-ai-virus-animals-humans.html"
-ampWebUrl: "https://phys.org/news/2021-09-ai-virus-animals-humans.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-09-ai-virus-animals-humans.amp"
+webUrl: "https://www.sciencedaily.com/releases/2021/09/210928141839.htm"
 type: article
-quality: 57
-heat: -1
-published: false
+quality: 117
+heat: 157
+published: true
 
 provider:
   name: Phys.org
@@ -18,12 +16,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-may-predict-the-nex.jpg"
-    width: 2880
-    height: 2160
-    isCached: true
 
 related:
   - title: "Researchers use AI to determine which animal diseases will infect humans next"
@@ -56,6 +48,22 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "Artificial intelligence could help to predict the next virus to jump from animals to humans"
+    excerpt: "The researchers' machine learning models could allow scientists to pre-emptively develop vaccines to protect against the most likely candidates."
+    publishedDateTime: 2021-09-28T18:01:00Z
+    webUrl: "https://www.sciencefocus.com/news/artificial-intelligence-could-help-to-predict-the-next-virus-to-jump-from-animals-to-humans/"
+    ampWebUrl: "https://www.sciencefocus.com/news/artificial-intelligence-could-help-to-predict-the-next-virus-to-jump-from-animals-to-humans/amp/"
+    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/artificial-intelligence-could-help-to-predict-the-next-virus-to-jump-from-animals-to-humans/amp/"
+    type: article
+    provider:
+      name: BBC Focus
+      domain: sciencefocus.com
+    quality: 47
+    images:
+      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/09/GettyImages-179770787-a4e5dd4.jpg?quality=90&crop=7px,140px,1186px,510px&resize=960,413"
+        width: 960
+        height: 413
+        isCached: true
   - title: "Machine learning can predict which animal viruses risk infecting humans"
     excerpt: "Scientists have developed a new machine learning method that can accurately predict which animal viruses could go on to infect humans in the future, using only information encoded in the viral genome"
     publishedDateTime: 2021-09-28T18:40:00Z
@@ -70,21 +78,7 @@ related:
         width: 650
         height: 397
         isCached: true
-  - title: "FDA clears artificial intelligence tool for incidentally determining heart disease risk via CT"
-    excerpt: "The U.S. Food and Drug Administration has cleared a new artificial intelligence solution to help physicians incidentally detect patients’ risk of heard disease via commonly ordered CT scans. HealthCCSng is the eighth FDA-cleared product from Israel-based Zebra Medical Vision,"
-    publishedDateTime: 2021-09-28T05:52:00Z
-    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/fda-artificial-intelligence-zebra-medical-nanox-heart"
-    type: article
-    provider:
-      name: Radiology Business
-      domain: radiologybusiness.com
-    quality: 25
-    images:
-      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2021-05/iStock-917337130.jpg?h=9d96f97f&itok=8hrn6Oek"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "oSd7GQvuY/5B9wgU+7G7T2VeAcCo1suOX/qvrNn+7WSHFd8wJOMoERcq3VvKel88as5heLCtZNfPO1vXoULxwWXkAb8C1fhUYQ4oTPgpywrStTmvPP3MYAYtSX9WlLwwgbNONRvktB0TDYIZhbYcTzlmMfcFNJ+JCICjVrLPHG24fq8QQC5pMeRQRQ1omi5Mfs5yR+hT5USzg93rkvs+fwLxxFlAX74pf4FMtA2FFJkV8MU/PHAaaKjxprpMAF0zgWPwc9n2uGa1Rga+ZY+NQhqjuOw+/45o1L8iidlAQduNXRcCmTK+Nm0UBqqoAT5iCZe0lE4YpusrpnXTOMnhXhz+F0avGuWBFyle1eW7aWvPA2Erfj8MY7QjSkQCgzBGIXM90WoQqlMWVLeZazHantytQEOyZkaHZUKyRNckD+VUrLsR3MPbiqLYyCgfVR+ce1ErPDhBe3Qt/2LksiNxcHPrZrjaQxPZ/cfuJraYSjnCz7SlgAWe06hHlrn9PVo4SUBnSGhXXKsWaytQuVqHPQ==;uOdwE6nWU+709PQcp1r/uQ=="
+secured: "m1oXrRD6T+pMrbbxIaKxRpOO5st1nRKjcztuJEtnW/rryN3/f1MSbBMjvO+cwaNI0OEtz66143R6T+codCq9GumJdrLoIZEC1lvA2SLfXpksk3kCXH9T2PnV9vH4yV4Ec9Lf+bsYVFWrrTUVXhTEwf9lcT+I4Dr1Sp+US0njC6DvgjDcsIl+AjqqYwHu6DA2bmCtIVrXwa8q5BqBSoE89R//nsqPpvQtP+mw+rj+VsEi9pkC0PwyY8qqSBCh/6U+DCtbogMqVxF5kQ2DvxX2zv3rh/RQocZ/9Xx6Gnk1Kaf+HZA61EqmAb8MvK8lxz3/VhHNgh4yuWQQ2ltVZVhvpVaaOVTnuzCT6OmHq11pd+0cq3nS0cPt6aYRQi7o57PygHv8CWW5wD3tBcHWM84aL16j6NNKBGP0zq/GZH7DEGzDc58M5oveEh5mb27+Fw/kfS/7kg+ahL8Uxy/iJzxJ+UkHfYKwRK83a42TS8xzQg/rLN5JLFTAobVCcQr7MDEapzbXWIsXwfqgfhZdXbmFUhlJcHyvhSfm36WkBuiI+cU=;2q2VnNDbFaGOg8e227KUqw=="
 ---
 

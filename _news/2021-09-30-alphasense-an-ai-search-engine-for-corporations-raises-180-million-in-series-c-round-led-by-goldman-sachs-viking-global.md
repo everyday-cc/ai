@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/isabelcontreras/2021/09/30/alphasense-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isabelcontreras/2021/09/30/alphasense-an-ai-search-engine-for-corporations-raises-180-million-in-series-c-round-led-by-goldman-sachs-viking-global/amp/"
 type: article
 quality: 61
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "AlphaSense raises $180 mn Series C funding from Viking Global, Goldman Sachs, others"
+    excerpt: "AlphaSense, a market intelligence and search platform, on Friday said it has raised $180 million (about Rs 1,336.5 crore) in funding led by Viking Global Investors and the Growth Equity business within Goldman Sachs Asset Management."
+    publishedDateTime: 2021-10-01T09:36:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/alphasense-raises-180-million-series-c-led-by-viking-global-and-goldman-sachs-joined-by-morgan-stanley-citi-bank-of-america-barclays-wells-fargo-cowen-alliancebernstein-866205418.html"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 110
 
 secured: "YeVoG8C9PydL45dWTPs8881FQU9+6zqgxhTwjOZofzCcVsEmMg3+JOMr3ItXU2WJX9H2pe+B6R4l1A7fvqM3D1WTDbGPDrqrYYGnQSIhRYibfhc8BlLLlWdUEsoie1AuoPYpRgsU4bL8FK+S2s1M5JPPlioEGA0koD9zC3yTF1JO68bWu6Egx35SSxBp69IoYtCmgGAojDOY+SDt+ROAVV9jnJuZQ+PZY7hUEt3suQ3E/zBfxTE9LUjwvo+XU3S9HDILylZnVtX6TcLUqNBTvn5szng1+IqXH672W9TUNaFuJPKsGZMWIRh/y4YFrkK59b0YOgBiog4gX2/ftQzBOBTuLPOztzSU124xwIugn4pXV43wqBt4PJXWiYL8BTO2Hho4YGmlD83d7Wl26EAn2OB1w7gXue+Ty7R3Zx/6qnVbyTHWSotqFJi3WjE88g5qlrvlDuKMmCb6fDj/ZXdhXNHGJiqsldcLoc5vJ8t9fFOAfpcQK9tIr0uMO+4t8dUh42w08jmmvMtT/X+NAbmx8g==;d9qPORGlq9FrDXK0iK/Huw=="
 ---

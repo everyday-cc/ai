@@ -110,6 +110,20 @@ related:
         width: 401
         height: 401
         isCached: true
+  - title: "Key Ways Fintech is Transforming Investment Banking"
+    excerpt: "The conventional investment banking business has struggled to adapt to legacy technology, but as the digital revolution sweeps across finance, now is the moment to shift. Fremont, CA: FinTech will change investment banking in various ways,"
+    publishedDateTime: 2021-10-01T13:24:00Z
+    webUrl: "https://www.cioapplications.com/news/key-ways-fintech-is-transforming-investment-banking-nid-8601.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/uivp4451.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "5 FinTech companies helping MSMEs scale their businesses"
     excerpt: "One sector hit the hardest by the pandemic has been the MSMEs. A number of entrepreneurs have reported the inability to survive"
     publishedDateTime: 2021-09-27T06:26:00Z

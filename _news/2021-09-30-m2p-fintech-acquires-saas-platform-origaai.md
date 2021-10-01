@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "M2P Fintech Acquires Saas Platform Origa.ai To Ramp Up Tech Offerings"
+    excerpt: "M2P Fintech said in a press release the acquisition will help the firm to bolster its technology capabilities around new age collection."
+    publishedDateTime: 2021-10-01T13:13:00Z
+    webUrl: "https://www.outlookindia.com/website/story/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389"
+    ampWebUrl: "https://www.outlookindia.com/website/amp/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 59
+    images:
+      - url: "https://images.outlookindia.com/public/uploads/articles/2021/10/1/m2p_550_550.jpg"
+        width: 550
+        height: 367
+        isCached: true
   - title: "M2P Fintech Acquires Loan Recovery SaaS Startup Origa AI To Bolster Debt Management Stack"
     excerpt: "The deal between Origa and M2P was a mix of cash and stock, bringing the valuation of the acquisition to $2 Mn - $2.5 Mn."
     publishedDateTime: 2021-09-30T13:23:00Z

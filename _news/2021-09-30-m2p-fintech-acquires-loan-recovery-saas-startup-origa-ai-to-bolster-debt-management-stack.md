@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/m2p-fintech-acquires-loan-recovery-saas-start
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/m2p-fintech-acquires-loan-recovery-saas-startup-origa-ai-to-bolster-debt-management-stack/amp/"
 type: article
 quality: 50
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "M2P Fintech Acquires Saas Platform Origa.ai To Ramp Up Tech Offerings"
+    excerpt: "M2P Fintech said in a press release the acquisition will help the firm to bolster its technology capabilities around new age collection."
+    publishedDateTime: 2021-10-01T13:13:00Z
+    webUrl: "https://www.outlookindia.com/website/story/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389"
+    ampWebUrl: "https://www.outlookindia.com/website/amp/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 59
+    images:
+      - url: "https://images.outlookindia.com/public/uploads/articles/2021/10/1/m2p_550_550.jpg"
+        width: 550
+        height: 367
+        isCached: true
   - title: "M2P Fintech acquires SaaS platform Origa.ai"
     excerpt: "Chennai-based M2P Fintech, also known as Yap, on Thursday announced the acquisition of Origa.ai — a Bengaluru-based Software as a service (SaaS) technology platform that allows both fintech and traditional lenders to manage their collection operations and repayment analytics through intuitive analytics."
     publishedDateTime: 2021-09-30T08:52:00Z

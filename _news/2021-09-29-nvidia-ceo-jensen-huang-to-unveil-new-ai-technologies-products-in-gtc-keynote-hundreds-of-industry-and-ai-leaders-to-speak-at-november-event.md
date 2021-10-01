@@ -4,19 +4,24 @@ title: "NVIDIA CEO Jensen Huang to Unveil New AI Technologies, Products in GTC K
 excerpt: "NVIDIA today announced that it will host a global, virtual GTC from Nov. 8-11, featuring a news-filled keynote by NVIDIA founder and CEO Jensen Huang and talks from some of the world’s preeminent AI research and industry leaders."
 publishedDateTime: 2021-09-29T13:11:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-nvidia-ceo-jensen-huang-unveil-new-ai-technologies-/2021/09/29/9458934.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-nvidia-ceo-jensen-huang-unveil-new-ai-technologies-/2021/09/29/9458934.htm"
+webUrl: "https://nvidianews.nvidia.com/news/nvidia-ceo-jensen-huang-to-unveil-new-ai-technologies-products-in-gtc-keynote-hundreds-of-industry-and-ai-leaders-to-speak-at-november-event"
 type: article
-quality: 0
-heat: -1
-published: false
+quality: 101
+heat: 141
+published: true
 
 provider:
   name: TMCnet
   domain: tmcnet.com
 
 topics:
-  - AI in Robotics
   - AI
+
+images:
+  - url: "https://s3.amazonaws.com/cms.ipressroom.com/219/files/20218/615463e6ed6ae576b5d4ba51_5d7e4fb4-fbba-4bf7-9c3d-584318e0762e/5d7e4fb4-fbba-4bf7-9c3d-584318e0762e_mid.jpg"
+    width: 700
+    height: 393
+    isCached: true
 
 related:
   - title: "Apple’s Senior Director of AI and ML to speak at NVIDIA GTC 2021 conference"
@@ -34,34 +39,6 @@ related:
       - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/NVIDIA-GTC-2021.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "VMware Extends vSphere to Capabilities for Nvidia’s AI and GPUs"
-    excerpt: "VMware’s VMware vSphere 7 Update 3 release serves to further unlock access to Nvidia vGPUs and AI with self-service API options, while also offering a number of new capabilities for vSphere for applications running in or on virtual machines (VMs),"
-    publishedDateTime: 2021-09-29T17:26:00Z
-    webUrl: "https://thenewstack.io/vmware-extends-vsphere-to-capabilities-for-nvidias-ai-and-gpus/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 54
-    images:
-      - url: "https://cdn.thenewstack.io/media/2021/09/4e14c3dc-img_1550-1.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Apple director of AI, machine learning research to speak at Nvidia conference"
-    excerpt: "Apple's senior director of AI and machine learning research, Samy Bengio, is slated to be a speaker at Nvidia's annual GTC conference in November."
-    publishedDateTime: 2021-09-30T03:01:00Z
-    webUrl: "https://appleinsider.com/articles/21/09/30/apple-director-of-ai-machine-learning-research-to-speak-at-nvidia-conference"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 53
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/44775-87025-5d7e4fb4-fbba-4bf7-9c3d-584318e0762e-xl.jpg"
-        width: 1209
-        height: 680
         isCached: true
   - title: "NVIDIA CEO Jensen Huang to Unveil New AI Technologies, Products in GTC Keynote Hundreds of Industry and AI Leaders to Speak at November Event"
     excerpt: "NVIDIA today announced that it will host a global, virtual GTC from Nov. 8-11, featuring a news-filled keynote by NVIDIA - Report on The Eastern Herald"
@@ -104,16 +81,7 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 18
-  - title: "NVIDIA invites devs to test their DLSS on NVIDIA's own supercomputers"
-    excerpt: "NVIDIA is inviting developers to test its latest builds of DLSS on their supercomputer, provide feedback for future improvement."
-    publishedDateTime: 2021-09-27T04:10:00Z
-    webUrl: "https://www.tweaktown.com/news/81827/nvidia-invites-devs-to-test-their-dlss-on-nvidias-own-supercomputers/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 4
 
-secured: "Ur+uSU8WbDSvJWersGyNEMXWajqXb0+1ZNGmKm7ncVCZLqc/cUMafe0eHIxNoZQHnD1aDHqvkTb+LjkYbZzeET+fZ2JR0SqpMdPCcL2yWRGGmGuNSnf8u0tQzGI9xPk7rr0/j+nQ/CtYDFh6rsR8SIseE359QPUx2DZbpJyn673+Hg9p+oA8VwN7yckrM6oVkqfSN6yL3wwnzogb79W7gUXQ9n7HUppYE25KhxHlB6/Z8U+o/fqY7E5Nap9iUBzKbjIAeHPfpcEXXfb2ChitNVLUW9hKCsf5kIb2ZyTZpymGYw35m4rR5K/J2ck4XiV41WsVciPVXgy8Tpe7xVk+stIJFTayN1jEYTb1ks1JFt0=;0at1BIOyWj9YTy3jVya6Cg=="
+secured: "wFKy3D+kKhOGlvXSbBZlWDnBOEuqb57UMNdy47AAm3+Aklpi6wzTqXigCbbeiDM5tH34pjDRfBFUBwz/ts0JDXt0Y5Rs70XXxFW1Z/LkxOQjhpAgLkQBEPC+AaV5bSs21REsgEitzgu3mXc9Dq13mdGeNzBgLB1vuHiQGY8UC74jaGev4bD3P74k6XomjL8vx1aXLGkF0ka9d8rIPAH02zHYK5vIzWOZxoFLQVQijs5jCjhDJ1Oyyf96KcB7QujxOo9baOguexcin4Xf7YGN06UJMdcPcVifh5uS0rNByjO5ZKDXyykV53nVwVZhin1FbqYhOpcfkDY7mJRK1OUh10MHSe1cMwiZX5y0/oR/VbI=;A6gqCfaeQCsUmkDaLhU9lg=="
 ---
 

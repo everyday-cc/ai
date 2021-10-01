@@ -8,9 +8,9 @@ webUrl: "https://techcrunch.com/2021/09/29/tonic-ai-raises-35m-series-b-to-help-
 ampWebUrl: "https://techcrunch.com/2021/09/29/tonic-ai-raises-35m-series-b-to-help-engineers-create-synthetic-data-sets/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/29/tonic-ai-raises-35m-series-b-to-help-engineers-create-synthetic-data-sets/amp/"
 type: article
-quality: 85
-heat: -1
-published: false
+quality: 185
+heat: 205
+published: true
 
 provider:
   name: TechCrunch
@@ -46,7 +46,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Japan races to hire 270,000 artificial intelligence engineers"
+    excerpt: "Already behind other countries in nurturing the IT professionals indispensable to a digital transformation, Japan in 2030 is expected to have 270,000 artificial intelligence and Internet of Things jobs that it will be unable to fill."
+    publishedDateTime: 2021-09-30T05:01:00Z
+    webUrl: "https://asia.nikkei.com/Spotlight/Datawatch/Japan-races-to-hire-270-000-artificial-intelligence-engineers"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F0%252F8%252F2%252F36572802-1-eng-GB%252F%25E3%2582%25A2%25E3%2583%25BC%25E3%2583%2588%25E3%2583%259B%25E3%2582%2599%25E3%2583%25BC%25E3%2583%2588%25E3%2582%2599%25202%25404x-100.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
 
-secured: "N9OdkXGdl3XyCEBf1rVjK7rCKI/vtxvFwDLB0tuu0sdr/Md7zXiE0gzzaIU1fc9oTfEVpSdKhYxDa6XDDx00GBXj0U6SPcrKdUU28iD2HFQvqe80u7NdCeQP4AaDIe3u3X8FEdZb6K4bvbQKWzkSl7sfaa2wDVzcX5ACXjnAYU1KvIY5mv28vHHo7S8L63MuaqP3ZQcA3epl4Eo43MEfz40U5eSYKHGkQb83NNJQ3euIt4sN2uiTlkPcA4xDWl4Wlv0e5dmzOqLsvJZ9mflxUk4iPMdMiW8QagXJw4aU7SvTgMm8nLbZSt+K6qQGTN+53AO+OAY8uqL1IdwgwWtSQ66gaTVBtoDz5L326u8q2vPr8P/jh6q97hSscemBuNUSWpr24JmrXvUlPoERxsxyxn9DIWQMEgyzGiKIFX5lxhIpPgDT6I6KGdxxACyE6UeTQI4R+W8HVqrPi/qW86TsSGeOW1vUI4+VQvDVqsqbIqUZ8QEySEQKO8f4jfVDSUVqxNPYN+48IKSiz/V/Ch+oyw==;Ci3txgRMOJZ8TR/VWFG4Dw=="
+secured: "5Uc147v5L/mXnZ65NeqXfHr756pVNOqCDeEzKyhI+YsiGDXhpU815ZntErKYTfG1MjctqTkIabxJ/v+tkH9v+LyIb3zneGrrV4FKjzUkQvCYzPwgv7/8c1U6ITcTCliFJOzpO7y7Gt4/lzjF24qgOG1ypUAnss0+qq6Qc9pEb0mOzTnzavgsd7Vh40fv+gr0pViKxvH+3P2LpYqW1ptEmOI4NQw3G+ueygMR+9KjHwB4nq6R4kW5v5pkt3SqdtosIa2HjkMDlx8pYrum1AA20f9s6ZYcEJaSJPYwRMs3cwdEMFCaUQDysZAHJ8MC2RWYm5vvKrlItwJGwm7KkXAUVIZyVg8SVNDnPgryxAhdPBoCwfac3oM9h1/7m4zoQvpcMTDN3hWBS/o7c8/oDk6ckKW8bR/0Xrj5Zu76FeWRdHPYeTU00Pd1ur2ZLuP5aVYPRsHndYBYLWe7GtNFgEvzgD3agZVvpONEZOApQfob2ISLrQ481v4lA6CGucEkv9pxFn+Kw6+edO1Zr7/g+O0cW9UvnDH6YfwtOA5YQ2WNhyU=;/xLhZf/Pi4s6NGDKJqHiWQ=="
 ---
 
