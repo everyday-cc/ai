@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/from-ai-to-computer-vi
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/from-ai-to-computer-vision-how-cult-fit-stepped-up-to-deliver-holistic-solutions-post-covid19-71632820468048.html"
 type: article
 quality: 62
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "World First for Artificial Intelligence To Treat COVID-19 Patients Worldwide"
+    excerpt: "Addenbrooke’s Hospital in Cambridge along with 20 other hospitals from across the world and healthcare technology leader, NVIDIA, have used artificial intelligence (AI) to predict Covid patients’ oxygen needs on a global scale."
+    publishedDateTime: 2021-10-01T21:15:00Z
+    webUrl: "https://scitechdaily.com/world-first-for-artificial-intelligence-to-treat-covid-19-patients-worldwide/"
+    ampWebUrl: "https://scitechdaily.com/world-first-for-artificial-intelligence-to-treat-covid-19-patients-worldwide/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/world-first-for-artificial-intelligence-to-treat-covid-19-patients-worldwide/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 56
+    images:
+      - url: "https://scitechdaily.com/images/COVID-Technology-AI-Concept-777x518.jpg"
+        width: 777
+        height: 518
+        isCached: true
   - title: "E-Commerce Trends Post Covid-19: Artificial Intelligence is Taking Over E-Commerce"
     excerpt: "The latest applications of big data, artificial intelligence, voice search and machine learning in e-commerce are taking customer experience and satisfaction to a new level post Covid-19."
     publishedDateTime: 2021-09-27T16:29:00Z

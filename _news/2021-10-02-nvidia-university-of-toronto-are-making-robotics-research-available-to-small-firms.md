@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/01/nvidia-university-of-toronto-are-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/01/nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms/amp/"
 type: article
 quality: 113
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -45,16 +45,7 @@ related:
         width: 1209
         height: 680
         isCached: true
-  - title: "NVIDIA invites devs to test their DLSS on NVIDIA's own supercomputers"
-    excerpt: "NVIDIA is inviting developers to test its latest builds of DLSS on their supercomputer, provide feedback for future improvement."
-    publishedDateTime: 2021-09-27T04:10:00Z
-    webUrl: "https://www.tweaktown.com/news/81827/nvidia-invites-devs-to-test-their-dlss-on-nvidias-own-supercomputers/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 4
 
-secured: "gTRt/4PWZuwizNVX06p01n6Sx2qJCD1RAFDKQvTIzHvIuEjabBv4MiAGTTmrSEPaU/JA6/6sJDLVvDhVI8RPU/GLDG+GVEwl606fGYq7Szr77bqPZi536d34k+lvtI0m7pa4f5QaNm6MphodsTjb7E/fhBcVa1S+89DLqBUXF1gzm0T3q6cXoy7UxCiBOQIMkaHyYPQ/z3ovVn1j6noYXWiwodYnic3GbKIUrrqzZWzuZZGFIdlJ86y9S1PxArxCtZUll9G9kXdbi23mFoLY0PbQH4P/QqXaj4fdAMEnbRJSCqYI3asyPe1rcDDvdls4YuMPQCmzSYhh3GfLHGhDpjJ1elHsrOQ09afXFQC7Jmc=;1RYnh+LBsOG6OG8IjEKK2g=="
+secured: "V7hK/Iga+zxRugwpI93ejge9R3HgeFizQTUK80u8T4TbFjzBaauw4IxBGQ23KIEPQeK1Brf7X2PS33TCvS9fvHWnhq1ElwuZ9tAvJqDi53l2sL2flE2El/LFMAuFF2CccS1nWgnHVwXZKwGYs+J8N8WQBDGLqapsRmcsN3CtOuZfzT629fKy/X+WjG02SloIFVBWMkOtCcm1Vxx7etk0JGozZzns+Rd1gT4PEiqCjF8T4htJLhyTlq/IEd/PbtegEPUiaXeFV5zN/TdWZbzc2PVR5oLChLzeTvpKsgovbv4A1Ppngj7dBBffr8C1fo0MAMgZBFeMCjnmXsjes09Q07tKlQffgBxqf6DU6oJJhbRm5LeMhKxPFTfnDWKQKygXnjxKWJy2sPJs03XyMh6K9XAMYRMRafSUnpT2JZkS0VvD7GcCJ7SOZAL+l+GzE+c0nUdK59m6qo2KCmb9AHPy/svCBCIG5Nv7AnltzTpPPqoLZ+glFUReGm08qXlYYGxZ1iBmDW01aKcwqEiNEozO+Q==;fBSW7BnduLcSFlmSj1R/fg=="
 ---
 

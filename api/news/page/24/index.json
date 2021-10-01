@@ -2,6 +2,58 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-09-13-ai-can-estimate-corporate-greenhouse-gas-emissions.md",
+      "title": "AI can estimate corporate greenhouse gas emissions",
+      "excerpt": "But researchers at Bloomberg Quant Research and Amazon Web Services ... based on where renewable energy is available. Facebook chief AI scientist Yann LeCun and Google Brain cofounder Andrew ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/13/ai-can-estimate-corporate-greenhouse-gas-emissions/",
+      "originalUrl": "https://venturebeat.com/2021/09/13/ai-can-estimate-corporate-greenhouse-gas-emissions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/climate-change-e1571844079918.jpg?w=1200&strip=all",
+          "width": 1198,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/13/ai-can-estimate-corporate-greenhouse-gas-emissions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/13/ai-can-estimate-corporate-greenhouse-gas-emissions/amp/",
+      "publishedDateTime": "2021-09-13T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-13-artificial-intelligence-in-transportation-market-will-grow-exponentially-due-to-adoption-of-smart-mobility.md",
       "title": "Artificial Intelligence In Transportation Market Will Grow Exponentially Due To Adoption Of Smart Mobility",
       "excerpt": "Also, the wide utility of semi-autonomous and self-driven automotive is likely to steer the growth of the global artificial intelligence in transportation market. However, the surging adoption of dockless bikes,",
@@ -1060,49 +1112,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-11-facial-recognition-forecast-at-85b-in-2025-biometric-payment-cards-breaking-out.md",
-      "title": "Facial recognition forecast at $8.5B in 2025, biometric payment cards breaking out",
-      "excerpt": "Signs of market strength for biometric payment cards and facial recognition are prominent among the week’s most-read articles on Biometric Update.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202109/facial-recognition-forecast-at-8-5b-in-2025-biometric-payment-cards-breaking-out",
-      "originalUrl": "https://www.biometricupdate.com/202109/facial-recognition-forecast-at-8-5b-in-2025-biometric-payment-cards-breaking-out",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg",
-          "width": 1800,
-          "height": 734,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-11T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

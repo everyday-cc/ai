@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-police-buying-retrospective-facial-recognition-technology/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://resources.stuff.co.nz/content/dam/images/4/y/v/1/m/y/image.related.StuffLandscapeSixteenByNine.1420x800.4yv1lr.png/1633012249632.jpg"
         width: 1420
         height: 798
-        isCached: true
-  - title: "London is buying heaps of facial recognition tech"
-    excerpt: "The Metropolitan Police is buying a new facial recognition system that will supercharge its surveillance technology capabilities"
-    publishedDateTime: 2021-09-27T05:00:00Z
-    webUrl: "https://www.wired.co.uk/article/met-police-facial-recognition-new"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 39
-    images:
-      - url: "https://media.wired.co.uk/photos/606daa29646b991cdbf60056/16:9/w_1280,c_limit/cctv2.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Met Police to buy retrospective facial recognition technology"
     excerpt: "The Mayor of London's office has approved a proposal allowing the Metropolitan Police to buy and use (RFR) technology to boost its surveillance capabilities. The proposal, which was signed last month,"

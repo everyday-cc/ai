@@ -42,6 +42,22 @@ related:
         width: 1000
         height: 665
         isCached: true
+  - title: "Sumo Logic enhances observability suite for app, infrastructure performance"
+    excerpt: "The new DevSecOps-oriented tools, announced this week at the company's Illuminate virtual conference, are part of Sumo Logic's Continuous Intelligence platform, and designed to provide real-time, deeper insights into critical enterprise infrastructure and applications."
+    publishedDateTime: 2021-10-01T19:42:00Z
+    webUrl: "https://www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.html"
+    ampWebUrl: "https://www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 72
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/07/programmer_certification-skills_code_devops_glasses_student_by-kevin-unsplash-100764315-large.jpg?auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Arize AI Raises $19M in Series A Financing"
     excerpt: "Arize AI, a Berkeley, Calif.-based leader in ML observability and model monitoring, raised $19m in Series A financing"
     publishedDateTime: 2021-09-29T11:18:00Z

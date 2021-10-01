@@ -727,6 +727,50 @@
       ]
     },
     {
+      "path": "_news/2021-09-20-machine-learning-as-a-service-market-2021-deep-analysis-of-current-trends-and-future-demand.md",
+      "title": "Machine Learning As A Service Market 2021: Deep Analysis of Current Trends and Future Demand",
+      "excerpt": "Machine Learning As A Service Market Size, Share & Trends Analysis Report By Component (Software, Services), By Organization Size (Large Enterprises, Small",
+      "sourceUrl": null,
+      "webUrl": "https://www.mynewsdesk.com/brandessence/pressreleases/machine-learning-as-a-service-market-2021-deep-analysis-of-current-trends-and-future-demand-3129625",
+      "originalUrl": "https://www.mynewsdesk.com/brandessence/pressreleases/machine-learning-as-a-service-market-2021-deep-analysis-of-current-trends-and-future-demand-3129625",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resources.mynewsdesk.com/image/upload/c_fill,h_628,q_auto:good,w_1200/pyt4neqcirntw7gawcxa.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-20T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mynewsdesk.com",
+        "domain": "mynewsdesk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-20-4-stocks-to-benefit-from-continued-demand-for-ai.md",
       "title": "4 Stocks to Benefit From Continued Demand for AI",
       "excerpt": "Thanks to these conveniences, companies around the world look set to increase their spending on AI solutions. Per a report by the International Data Corporation published on Aug 4, worldwide revenues for the AI market are expected to grow 15.",
@@ -1331,50 +1375,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-ibm-microsoft-local-firms-team-harness-ai-to-recontour-rural-indias-health-terrain.md",
-      "title": "IBM, Microsoft, Local Firms Team, Harness AI to Recontour Rural India’s Health Terrain",
-      "excerpt": "Second only to China’s, most of India’s over 1.3 billion-strong population lives in villages. “ [I]n rural India, some 840 million people are challenged by obtaining the healthcare they need. For the average citizen,",
-      "sourceUrl": null,
-      "webUrl": "https://www.yicaiglobal.com/news/ibm-microsoft-local-firms-team-harness-ai-to-recontour-rural-india-health-terrain",
-      "originalUrl": "https://www.yicaiglobal.com/news/ibm-microsoft-local-firms-team-harness-ai-to-recontour-rural-india-health-terrain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img.yicaiglobal.com/cdn/news/ibm-microsoft-local-firms-team-harness-ai-to-recontour-rural-india-health-terrain/16204481401716736.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yicai Global",
-        "domain": "yicaiglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

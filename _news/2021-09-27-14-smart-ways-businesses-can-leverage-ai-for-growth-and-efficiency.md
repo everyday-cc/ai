@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://cdn.business2community.com/wp-content/uploads/2021/09/Business-Technology-900x643.png"
         width: 900
         height: 643
-        isCached: true
-  - title: "Nosh uses AI to help people and businesses cut down on their food waste"
-    excerpt: "When founder Somdip Dey was a computer science masters student at the University of Manchester, his parents got in a terrible car accident. He"
-    publishedDateTime: 2021-09-27T04:31:00Z
-    webUrl: "https://businessghana.com/site/news/technology/247242/Nosh-uses-AI-to-help-people-and-businesses-cut-down-on-their-food-waste"
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 37
-    images:
-      - url: "https://businessghana.com/site/img/../../cms/img/news/2021-09-24-16040802.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "ucDPCJmUxBQqoZXzvJcauLKEKhrHlFp+smJl0zBp2pyYtYLBLXnInNfSHX+2EMJscMs4g9xXlntxEvd/NDy+Fw+ZLTfUgH/3HIGf5+0NVLVbDxbShd8A0W4dbPkRPnAwFxO1AlnjggWgzBqnzKVRH/b1UzgSdzEiCLfvIFuGnxp50o54ILgGfbuDtdZz+R8bSgQBN1nTfM7bCXfYFHNF8QFsBEeVdZH3j7l1r2NKz8tunZBQEzzNwgmNnCz8fRvMcXrTGl350CJp/ngDqCLGN/MXjWlPEQ7Q4Lec8BGz5juhtgouu+SLv6O40svav5DvhhRImP5GFJo0jM8Az6BM3pr0qQJhn/bjHNcoTKpJfaMn4lRY4amELZLj+ghc/denLSwT8OXL9/+ozL7GL9N65HoO7R9oG26h3aq/aMwtaNKK2Gj0El3utXn/6jDEvXQQO+Mg1t1CTT0wVOueFufbywESersMHL9wcaQgXsRbJqbbgCCzyR0YPxVTyj0P/rzShNJk19uKFJhq5qWeN6Lf4w==;vYIevlW04zlp3EpbR2b0Qw=="

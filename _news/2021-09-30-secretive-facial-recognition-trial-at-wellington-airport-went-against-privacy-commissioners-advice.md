@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "London is buying heaps of facial recognition tech"
-    excerpt: "The Metropolitan Police is buying a new facial recognition system that will supercharge its surveillance technology capabilities"
-    publishedDateTime: 2021-09-27T05:00:00Z
-    webUrl: "https://www.wired.co.uk/article/met-police-facial-recognition-new"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 39
-    images:
-      - url: "https://media.wired.co.uk/photos/606daa29646b991cdbf60056/16:9/w_1280,c_limit/cctv2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Met Police to buy retrospective facial recognition technology"
     excerpt: "The Mayor of London's office has approved a proposal allowing the Metropolitan Police to buy and use (RFR) technology to boost its surveillance capabilities. The proposal, which was signed last month,"
     publishedDateTime: 2021-09-28T08:07:00Z

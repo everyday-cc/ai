@@ -2,6 +2,49 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-09-11-facial-recognition-forecast-at-85b-in-2025-biometric-payment-cards-breaking-out.md",
+      "title": "Facial recognition forecast at $8.5B in 2025, biometric payment cards breaking out",
+      "excerpt": "Signs of market strength for biometric payment cards and facial recognition are prominent among the week’s most-read articles on Biometric Update.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202109/facial-recognition-forecast-at-8-5b-in-2025-biometric-payment-cards-breaking-out",
+      "originalUrl": "https://www.biometricupdate.com/202109/facial-recognition-forecast-at-8-5b-in-2025-biometric-payment-cards-breaking-out",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg",
+          "width": 1800,
+          "height": 734,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-11T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-11-deep-learning-in-ct-scanners-industry-market-to-witness-huge-growth-by-2028-philips-ge-health-shimadzu.md",
       "title": "Deep Learning in CT Scanners Industry Market to Witness Huge Growth by 2028 | Philips, GE Health, Shimadzu",
       "excerpt": "A new business intelligence report released by JCMR with Global Deep Learning in CT Scanners Industry Market Report has abilities to raise as the most significant market worldwide as it has remained playing a remarkable role in establishing progressive impacts on the universal economy.",
@@ -1112,57 +1155,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-how-to-help-tame-cognitive-bias-in-your-ai-system.md",
-      "title": "How To Help Tame Cognitive Bias In Your AI System",
-      "excerpt": "The more measures and techniques we develop to minimize the transmission of our biases, the more reliable AI will be.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-to-help-tame-cognitive-bias-in-your-ai-system/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-to-help-tame-cognitive-bias-in-your-ai-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-to-help-tame-cognitive-bias-in-your-ai-system/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/10/how-to-help-tame-cognitive-bias-in-your-ai-system/amp/",
-      "publishedDateTime": "2021-09-10T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

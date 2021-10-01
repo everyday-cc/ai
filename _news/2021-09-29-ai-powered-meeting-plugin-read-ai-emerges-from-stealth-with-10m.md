@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/29/ai-powered-meeting-plugin-read-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/ai-powered-meeting-plugin-read-ai-emerges-from-stealth-with-10m/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1218040751.jpg?w=1024"
         width: 1024
         height: 833
+        isCached: true
+  - title: "U of North Texas hospital to lead $100M healthcare AI program"
+    excerpt: "The University of North Texas Health Science Center is launching a $100 million project to increase diversity in healthcare artificial intelligence, according to an Oct. 1 Fort Worth Star-Telegram report."
+    publishedDateTime: 2021-10-01T18:55:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/u-of-north-texas-hospital-to-lead-100m-healthcare-ai-program.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "Grow and protect your wealth with AI technology"
     excerpt: "Some popular stock indices include: l The Nasdaq 100, the top 100 technology companies listed on the Nasdaq by market cap. l The S&P 500, the 500 biggest companies on the New York Stock Exchange by market cap."

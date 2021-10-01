@@ -2,6 +2,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-09-14-ai-system-on-chip-that-runs-on-solar-power.md",
+      "title": "AI System-on-Chip That Runs On Solar Power",
+      "excerpt": "Researchers have found a way to get around the issues of AI-led technologies with their newly developed system-on-chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsforu.com/tech-zone/processor-tech/ai-system-on-chip-that-runs-on-solar-power",
+      "originalUrl": "https://www.electronicsforu.com/tech-zone/processor-tech/ai-system-on-chip-that-runs-on-solar-power",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/09/ai-system-on-chip-runs.jpg",
+          "width": 800,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.electronicsforu.com/tech-zone/processor-tech/ai-system-on-chip-that-runs-on-solar-power/amp",
+      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/tech-zone/processor-tech/ai-system-on-chip-that-runs-on-solar-power/amp",
+      "publishedDateTime": "2021-09-14T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics For You",
+        "domain": "electronicsforu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-futuristic-ai-based-computing-devices-physicists-simulate-artificial-brain-networks-with-new-quantum-materials.md",
       "title": "Futuristic AI-Based Computing Devices: Physicists Simulate Artificial Brain Networks With New Quantum Materials",
       "excerpt": "Pandemic lockdown forces a new perspective on designs for futuristic AI-based computing devices. Isaac Newton’s groundbreaking scientific productivity while isolated from the spread of bubonic plague is legendary.",
@@ -1048,49 +1091,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-collaborative-robot-leverages-motion-control-speed-and-agility.md",
-      "title": "Collaborative Robot Leverages Motion Control Speed and Agility",
-      "excerpt": "With that in mind, ABB has identified three growing trends in ... covering automation and control, motion control, power transmission, robotics, and fluid power.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/collaborative-robot-leverages-motion-control-speed-and-agility",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/collaborative-robot-leverages-motion-control-speed-and-agility",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/YuMi%20VIII.jpg",
-          "width": 7360,
-          "height": 5197,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

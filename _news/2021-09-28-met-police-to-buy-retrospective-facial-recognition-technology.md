@@ -71,20 +71,6 @@ related:
         width: 1420
         height: 798
         isCached: true
-  - title: "London is buying heaps of facial recognition tech"
-    excerpt: "The Metropolitan Police is buying a new facial recognition system that will supercharge its surveillance technology capabilities"
-    publishedDateTime: 2021-09-27T05:00:00Z
-    webUrl: "https://www.wired.co.uk/article/met-police-facial-recognition-new"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 39
-    images:
-      - url: "https://media.wired.co.uk/photos/606daa29646b991cdbf60056/16:9/w_1280,c_limit/cctv2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "ICE drops $3.9M for Trust Stamp’s facial recognition, London Met taps NEC for $4.2M"
     excerpt: "The U.S. Immigration and Customs Enforcement signs a $3.9 million contract with Trust Stamp, London Met selects NEC facial recognition system."
     publishedDateTime: 2021-09-27T18:46:00Z

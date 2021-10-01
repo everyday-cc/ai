@@ -8,7 +8,7 @@ webUrl: "https://manometcurrent.com/artificial-intelligence-in-marketing-market-
 ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-marketing-market-next-big-thing-major-giants-mariana-persado-intel-oracle/?amp=1"
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-marketing-market-next-big-thing-major-giants-mariana-persado-intel-oracle/?amp=1"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Marketing
+  - Facebook AI
 
 related:
   - title: "Deep Learning System Market Next Big Thing | Major Giants: NVIDIA, Intel, Xilinx"

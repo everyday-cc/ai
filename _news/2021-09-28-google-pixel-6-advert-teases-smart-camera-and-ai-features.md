@@ -60,20 +60,6 @@ related:
         width: 900
         height: 643
         isCached: true
-  - title: "Nosh uses AI to help people and businesses cut down on their food waste"
-    excerpt: "When founder Somdip Dey was a computer science masters student at the University of Manchester, his parents got in a terrible car accident. He"
-    publishedDateTime: 2021-09-27T04:31:00Z
-    webUrl: "https://businessghana.com/site/news/technology/247242/Nosh-uses-AI-to-help-people-and-businesses-cut-down-on-their-food-waste"
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 37
-    images:
-      - url: "https://businessghana.com/site/img/../../cms/img/news/2021-09-24-16040802.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "0mu31TH4s3ieLArs+fbSaG2YYUyuyT94LNqU7lhuEQIn2OEtL4UgVxYmgRMaY5TrCrbQnC6oTFafcNmMSNHEQi5sfVdo19Ixzc4ALlS2sr9ucy3jpiT0G/F7DkSsgsdc2iJBgzHD0m05Z6Bz3c5JNG3kney2FzYA/r6INcJYIPsNWZeVCb3rRmFj1QghZiYhavSXLU1H3FLnYTNBFp/ZB5x23P0peM0wdyKWF76xg3j7slC0KVj2zw7ajP9ChFSijRFUcIsBhqqhetgeaVAVeqd0oFCVWt9rNe0CvrdwkqEfwZXGEGa5h3PxkAlLc9llPWvXJqjlX5Cb2+w7Pxbu/x86wGunatYrcoB+pkBR96HqtekFTpgRZ3LEF+4wPNxXuTEP9KfJEdMvJo6FCuS0A8oZXcViQsQ3bJyqrgtXTeBLO2gVnZa86ClpV+l7GRnS4ROFCgRQoIRQAmIvjevTpYoMCKtb3s4HcmUwmA9gLGqnJVKEJmEEcuOmpVgfu7eFjdTFKV3irUkG/VPHcmM46A==;p0mqGbUQ/cLWK0fjb5QPoA=="
 ---

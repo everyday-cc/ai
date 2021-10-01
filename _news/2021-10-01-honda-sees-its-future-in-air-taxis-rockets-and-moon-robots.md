@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Honda sees its future in air taxis, rockets and moon robots"
-excerpt: "Car and motorbike maker Honda Motor Co. is positioning itself for a vertical takeoff. The Tokyo-based company is embarking on efforts to field a new electric-hybrid air taxi, a robot with human-like hands that may one day toil on the moon and a reusable rocket to carry small satellites into space more economically."
-publishedDateTime: 2021-10-01T16:00:00Z
-originalUrl: "https://www.sentinelsource.com/news/national_world/honda-sees-its-future-in-air-taxis-rockets-and-moon-robots/article_0d359f78-39ee-5577-b2ad-6ad62bf5dbcc.html"
-webUrl: "https://www.sentinelsource.com/news/national_world/honda-sees-its-future-in-air-taxis-rockets-and-moon-robots/article_0d359f78-39ee-5577-b2ad-6ad62bf5dbcc.html"
+excerpt: "Honda's vision of how people will work, travel and spend leisure time in the future will help expand its business beyond cars, lawn mowers and motorcycles. The efforts are a key component of Honda's \"2030 Vision\" to broaden the definition of mobility and to improve peoples' daily lives."
+publishedDateTime: 2021-10-01T00:14:00Z
+originalUrl: "https://www.nationthailand.com/tech/40006870"
+webUrl: "https://www.nationthailand.com/tech/40006870"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: The Keene Sentinel
-  domain: sentinelsource.com
+  name: nationthailand
+  domain: nationthailand.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/custom/image/94f334aa-d43b-11eb-b5e9-4f39ce134ddd.jpg"
-    width: 1200
-    height: 480
+  - url: "https://media.nationthailand.com/uploads/images/md/2021/10/yrHKYUG2ssVzuXoZG4Gz.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -86,6 +86,6 @@ related:
         height: 480
         isCached: true
 
-secured: "8APH96lGgrtUBRPHe9cT/QEKETvXAZox6LOFKRhTUTrjoyVfii1Ug02ozFB5Vmfz9SgwqJI4NgIm7AbAaNRo5SYpyXQ3AnxvAD/j0chOc0aLKafvchCbuBH2lqqZ3QyWqdlRMb1fBohKf9kJpN2fLU7/zpYEFA/uBrXa18SEkW9wKedcDLkhBdxcPO409MCHYpIQx4jx691wlZJUnART7ll4oCC5itN0U/4ZQxIwOfUN/613ZRQF2UxMcbI66RILGhltmwW55wpmFMLbIWwi1irIt24K7qoC9pqzovod9x3GDPokYaahaprkfSSDbpdF2emXG7eYlCsLB1YYtKa2u+LnwA5eyiT0bDGWtMqkSvI=;t9Box8ov8MbqugZvH1njJg=="
+secured: "83QmqlAMs9Ir5aD4HtmIGEZ1xCf8hIrgOsYd/Hz75tK85Q+Wn2WSUkUjN3ntB9PFBPskZtwPUiqHMCHyXo+YXyKvWqAa/oVAFvKH7/MN8DsoQaeKubI4SGwVuUUaHkS8qxkdz2QPIBRGDiC5Z8P5GsNr4Ee4Ak1087O3vb13UKb1KOLL2ynRorOZwLzDZOlYgg7b2TzQgBPfy2r4EhaQ33mzZNAEDRHth4KWSrv6YP+vrTXiJEnDLu6IvG9zdOiqQA4tElkz+42+rE0xVzvSf70FZS1Gl4YUT4tQiO5VIBcvOzDyHGkp6/r3aWq+JlqhOV57yJIC6W8KJW4fvLPPjHjbKgEjTVAAlS7zXK2ifF0=;4m0wPTWDxKUkhrJAIqehew=="
 ---
 

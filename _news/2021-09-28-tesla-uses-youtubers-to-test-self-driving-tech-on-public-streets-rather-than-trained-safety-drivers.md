@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla rolls out Full Self Driving beta request button for owners"
-    excerpt: "US National Transportation Safety Board Chair Jennifer Homendy expressed safety concerns after Tesla rolled out the Full Self Driving (FSD) beta request button..The FSD beta is an unfinished version of the company's premium driver-assistance software."
-    publishedDateTime: 2021-09-27T04:42:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/tesla-rolls-out-full-self-driving-beta-request-button-for-owners-41632715060103.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/tesla-rolls-out-full-self-driving-beta-request-button-for-owners/amp-41632715060103.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/tesla-rolls-out-full-self-driving-beta-request-button-for-owners/amp-41632715060103.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 74
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/09/27/600x338/2021-08-16T184505Z_1_LYNXMPEH7F10O_RTROPTP_3_TESLA-MOTORS-AUTOPILOT_1632452498622_1632717502544.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Tesla nears launch of test for $10,000 ‘full self-driving’ software"
     excerpt: "A group of Tesla owners who paid up to $10,000 for what the company calls its \"full self-driving\" software can now ask the automaker for access to a test version of the feature. But they&#03"
     publishedDateTime: 2021-09-28T16:02:00Z
@@ -218,20 +202,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/2a/a2a79db2-f230-5ec1-8847-4b7462a145ce/6153906b928f3.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Tesla to outsource its self-driving chip to Samsung"
-    excerpt: "It is reported that Tesla has decided to outsource its self-driving chip manufacturing to Samsung Electronics. According to the industry on the 24th, Samsung Electronics is reportedly likely to win orders for manufacturing of the HW 4."
-    publishedDateTime: 2021-09-27T04:58:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271318218/tesla-to-outsource-its-self-driving-chip-to-samsung"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 56
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1632718804.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "Tesla Has Been Sued For The Self-Driving Car That Hit And Injured Police Officers"
     excerpt: "Advertisement Our day isn’t complete without a Tesla-related headline in the news (bad publicity is still publicity I guess?) In recent news which was due to past unresolved matters, five Texas cops filed a lawsuit against Tesla over a crash caused by the car’s Autopilot mode (the irony."

@@ -73,6 +73,20 @@ related:
         width: 1024
         height: 833
         isCached: true
+  - title: "U of North Texas hospital to lead $100M healthcare AI program"
+    excerpt: "The University of North Texas Health Science Center is launching a $100 million project to increase diversity in healthcare artificial intelligence, according to an Oct. 1 Fort Worth Star-Telegram report."
+    publishedDateTime: 2021-10-01T18:55:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/u-of-north-texas-hospital-to-lead-100m-healthcare-ai-program.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Living with Artificial Intelligence — this year’s Reith Lectures"
     excerpt: "Living with Artificial Intelligence is the theme of this year's Reith lecturer Stuart Russell — the four lectures will be held across the UK"
     publishedDateTime: 2021-09-28T15:06:00Z

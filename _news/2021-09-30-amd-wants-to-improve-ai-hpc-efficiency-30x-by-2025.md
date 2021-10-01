@@ -41,6 +41,22 @@ related:
         width: 3840
         height: 2160
         isCached: true
+  - title: "AMD aims to increase efficiency of server chips 30x by 2025"
+    excerpt: "AMD aims to improve the efficiency of its server chips by 30x over the next four years by increasing performance while consuming less power."
+    publishedDateTime: 2021-10-01T21:30:00Z
+    webUrl: "https://www.pcinvasion.com/amd-30x-increase-efficiency-by-2025/"
+    ampWebUrl: "https://www.pcinvasion.com/amd-30x-increase-efficiency-by-2025/amp/"
+    cdnAmpWebUrl: "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/amd-30x-increase-efficiency-by-2025/amp/"
+    type: article
+    provider:
+      name: pcinvasion.com
+      domain: pcinvasion.com
+    quality: 74
+    images:
+      - url: "https://www.pcinvasion.com/wp-content/uploads/2021/10/AMD_EPYC_1480x882.jpg"
+        width: 787
+        height: 558
+        isCached: true
   - title: "AMD Targets HPC-AI for 30x CPU-GPU Energy Efficiency Boost by 2025"
     excerpt: "AMD (NASDAQ: AMD) today announced a goal to deliver a 30x increase in energy efficiency for AMD EPYC CPUs and AMD Instinct GPU accelerators used in artificial intelligence (AI) training and high performance computing (HPC) applications by 2025."
     publishedDateTime: 2021-09-29T14:31:00Z

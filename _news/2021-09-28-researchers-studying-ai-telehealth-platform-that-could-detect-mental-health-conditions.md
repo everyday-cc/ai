@@ -7,7 +7,7 @@ originalUrl: "https://www.cbs58.com/news/researchers-study-ai-telehealth-platfor
 webUrl: "https://www.cbs58.com/news/researchers-study-ai-telehealth-platform-that-could-detect-mental-health-conditions"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Backing First Nations-led approaches to AI tech for healthy country"
-    excerpt: "Telstra Foundation is partnering with NAILSMA to support the Healthy Country AI Training initiative, bringing leading technology to the bush."
-    publishedDateTime: 2021-09-27T04:18:00Z
-    webUrl: "https://exchange.telstra.com.au/backing-first-nations-led-approaches-to-ai-tech-for-healthy-country/"
+  - title: "Health2047’s new company plans to use AI, research access to improve clinical decision making"
+    excerpt: "Called RecoverX, the company will leverage AI to mine evidence-based research, medical charts, patient conversations and test results and provide clinical insights for clinicians in real time."
+    publishedDateTime: 2021-10-01T16:50:00Z
+    webUrl: "https://medcitynews.com/2021/10/health2047s-new-company-plans-to-use-ai-research-access-to-improve-clinical-decision-making/"
     type: article
     provider:
-      name: Telstra
-      domain: telstra.com.au
-    quality: 37
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 26
     images:
-      - url: "http://exchange.telstra.com.au/wp-content/uploads/2021/09/nailsma-3.jpg"
-        width: 1420
-        height: 947
+      - url: "https://medcitynews.com/uploads/2019/02/GettyImages-864483382.jpg"
+        width: 724
+        height: 483
         isCached: true
 
 secured: "NfM3qGafEcyaUJ4rjpf5y1zqF/LsyDIcNPHMnKXaOHCZjZ3i3u//m62Lkvmv6rR5K3MQeEU3PVrtVN9kz2zy9M6fNDt6Ca/idslzpTOtBKfKdEAPI3k+QT9zIU+LjnT9p6BijYmBtY0xzn1z30pUngD+3eo7GfrfVOGAAXNBbvOET7cf1gPniLXrPo8A3fVK0U/tFLDA+T1mw2Tq1OP83E2ElhfPtwm2YXP+rONIrv2s3qvhwbaa78A8MQKwIZbjXw/uqsC02Fipq1DkEbB48xaHqJKitVMJZ43y0YLSgRchyCRLSFM8sI6TBSdiyLM2Qz1RX0hh5aA6YDhI7GdCQCzu4HqRHvtiqAAyoqvynsw=;92qGeXKCKEoxjabFiYSMYQ=="
