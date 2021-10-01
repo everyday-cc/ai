@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/27/driver-killed-by-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/27/driver-killed-by-his-own-car-door-while-waiting-in-line-at-fast-food-drive-thru-providing-cautionary-insights-for-ai-self-driving-cars/amp/"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHg-yrjFww8cQ/article-cover_image-shrink_600_2000/0/1632971974983?e=1638403200&v=beta&t=YE_jXhBZY1iC4Il9T-I-qCnFhxg_HRkB6GCPfuDaaYo"
         width: 910
         height: 390
+        isCached: true
+  - title: "Not coming to a road near you: Self-driving cars"
+    excerpt: "The future that never was can also apply to the self-driving car, also known as the autonomous car. They were supposed to be filling our streets by now, but are rarely spotted. Their delayed introduction is actually good news."
+    publishedDateTime: 2021-10-01T19:37:00Z
+    webUrl: "https://www.theglobeandmail.com/business/commentary/article-not-coming-to-a-road-near-you-self-driving-cars/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 24
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/faugYP_x-od_Y4GHm0tAI5URoUw=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/TJ3SH5VPTRDPHN2ZWQPGFIUINM.JPG"
+        width: 1200
+        height: 743
         isCached: true
   - title: "So 'Self-Driving' Doesn't Mean It Drives Itself? What DOES It Mean, Then?"
     excerpt: "Tesla, despite insisting (for regulatory purposes, and because it's true) that the \"Self-Driving\" software they're testing isn't really \"autonomous driving,\" is going ahead and opening its Self-Driving beta to any Tesla driver it deems to be a relatively ..."

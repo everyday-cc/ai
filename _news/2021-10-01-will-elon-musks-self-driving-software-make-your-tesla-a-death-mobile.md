@@ -281,20 +281,6 @@ related:
         width: 1199
         height: 702
         isCached: true
-  - title: "Tesla Full Self-Driving goes live in the USA"
-    excerpt: "The controversial tech will be made available to drivers who pass a series of safety tests. Electric vehicle specialist Tesla rolled out a new software"
-    publishedDateTime: 2021-09-27T02:09:00Z
-    webUrl: "https://www.drive.com.au/news/tesla-full-self-driving-goes-live-in-the-usa/"
-    type: article
-    provider:
-      name: Drive.com.au
-      domain: drive.com.au
-    quality: 39
-    images:
-      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_720,q_auto:best,w_1280/v1/cms/uploads/z46x0k3fetebxlmui7fl"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "See how Tesla's 'full self-driving' mode works"
     excerpt: "Despite concerns from regulators,Tesla is rolling out its autonomous driving feature to some owners who can prove they are safe drivers."
     publishedDateTime: 2021-10-01T16:10:00Z

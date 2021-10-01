@@ -58,18 +58,18 @@ related:
         height: 630
         isCached: true
   - title: "Honda sees its future in air taxis, rockets and moon robots"
-    excerpt: "Honda's vision of how people will work, travel and spend leisure time in the future will help expand its business beyond cars, lawn mowers and motorcycles. The efforts are a key component of Honda's \"2030 Vision\" to broaden the definition of mobility and to improve peoples' daily lives."
-    publishedDateTime: 2021-10-01T00:14:00Z
-    webUrl: "https://www.nationthailand.com/tech/40006870"
+    excerpt: "Car and motorbike maker Honda Motor Co. is positioning itself for a vertical takeoff. The Tokyo-based company is embarking on efforts to field a new electric-hybrid air taxi, a robot with human-like hands that may one day toil on the moon and a reusable rocket to carry small satellites into space more economically."
+    publishedDateTime: 2021-10-01T16:00:00Z
+    webUrl: "https://www.sentinelsource.com/news/national_world/honda-sees-its-future-in-air-taxis-rockets-and-moon-robots/article_0d359f78-39ee-5577-b2ad-6ad62bf5dbcc.html"
     type: article
     provider:
-      name: nationthailand
-      domain: nationthailand.com
+      name: The Keene Sentinel
+      domain: sentinelsource.com
     quality: 54
     images:
-      - url: "https://media.nationthailand.com/uploads/images/md/2021/10/yrHKYUG2ssVzuXoZG4Gz.jpg"
-        width: 1280
-        height: 720
+      - url: "https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/custom/image/94f334aa-d43b-11eb-b5e9-4f39ce134ddd.jpg"
+        width: 1200
+        height: 480
         isCached: true
   - title: "Honda Announces Plans To Expand Research in Air Taxis, Robots and Space Technology"
     excerpt: "Honda Motor Company on Thursday announced plans to increase research and development across three technological categories: space technology, robots and electric vertical takeoff and landing aircrafts (eVTOL),"

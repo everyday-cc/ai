@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/271371452/western-railways-to-
 webUrl: "https://www.bignewsnetwork.com/news/271371452/western-railways-to-install-2729-cameras-across-30-stations-450-to-have-face-recognition-system"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,38 @@ images:
     height: 420
     isCached: true
 
-secured: "xAoC7NZZCHR24lrYrk8ltSP2zuwQppwThqEQes/vPMugjUtCNAWh5TQxIEW6+01BfvHAHqCSWj52p0y0qSQsUgyq441lsr8LBZvcyEIyadIRseaa5E7zWZdfFzJmpITv6peIxU0CwYfs/ki8ZWXQlrKs/kY+jw1slBwB7iyMYbfGEy2SLKjUKOrMK39NRgoWKALdA5iuSQYhe7dS3i9mduhVtedz9W3hkIM9atk0W+rnCPvtliOo1+37cHFLKwOZ1D7MMy+Ghu1QOCkgpQi7lLGq5zHkfrx+3wbyFKlq2Q+nsTPGXcWThzMOQkygk4aFiAuAUC3js4qRIz7PVL2ZjcBasKIxXJV0ny3taTt2iPA=;qSDp5c5/5LnuEImU0uwbLA=="
+related:
+  - title: "Western Railways to install 2,729 cameras with face recognition system across 30 stations"
+    excerpt: "Western Railways to install 2,729 cameras with face recognition system across 30 stations - These cameras have a tilt angle of 180 to 270 degrees that will help in 360 degrees of an area leaving no bl"
+    publishedDateTime: 2021-10-01T18:20:00Z
+    webUrl: "https://www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767"
+    ampWebUrl: "https://www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767/amp"
+    cdnAmpWebUrl: "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767/amp"
+    type: article
+    provider:
+      name: DNA India
+      domain: dnaindia.com
+    quality: 65
+    images:
+      - url: "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/10/01/999016-camera.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Coming to grips with facial recognition scans part of home isolation experience"
+    excerpt: "Using a location checking app and doing a facial recognition scan were part of a South Australian's daily duties during a home isolation trial."
+    publishedDateTime: 2021-09-28T09:08:00Z
+    webUrl: "https://www.rnz.co.nz/news/national/452509/coming-to-grips-with-facial-recognition-scans-part-of-home-isolation-experience"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 35
+    images:
+      - url: "https://www.rnz.co.nz/assets/news/276105/eight_col_tech.jpg?1632812833"
+        width: 720
+        height: 451
+        isCached: true
+
+secured: "A425HLeUGSzyWsrRSR3gzhe7kXPj0wRNHL9M6jbTNHrtiLvtOawUTkwuHa0mTfUSo3c9Ly6CTGBiggeCgW5zXOWRF/OIwABemSEtEA7AMgFwnaLOkoUPqT8Jw+Xm3SEzpIFfUWy9oiGuAcR/F7OKq9GEu6ikuM40X1kaP76kI+ydiZWQpVtVV56kaCoOf+gskaB45ZPJ375Fad+A8GBJtwndiczQclxmuDDdCuJ8iJ4ppT/vn5rRV67o/NpKd6pDifmtHHAZOKDpuvQ5nYKFlOxMjMI9NeaATgMXKipqJ7Oihajt4Axcbvpwx5K8zhe7UnJHg52ua335yCdD5tnBtM4f3o3HXwmX7Px6l8z40Vihra5J2MatVQpqu514LtUquZrQc8Ta9nvElJuSvmf/XHuEzUtjdEQ6CFVGIoU4ZOn/SB3nZ8zzVk3a35cDuWqpCvT9n+JTYIBRT6GKe6gYII4NjCB3Qk4uk/kmQwt3EFZ5M1xrlabsPEvh89brFzl8HBJQBq3H1WSpfYf/FWE9Iw==;pHHM4XvBSoWxADL4180otA=="
 ---
 

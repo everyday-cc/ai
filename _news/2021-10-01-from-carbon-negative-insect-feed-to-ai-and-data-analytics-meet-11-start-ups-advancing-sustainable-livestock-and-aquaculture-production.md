@@ -3,16 +3,16 @@ category: news
 title: "From carbon-negative insect feed to AI and data analytics: Meet 11 start-ups advancing sustainable livestock and aquaculture production"
 excerpt: "The featured start-ups are tackling a range of livestock, dairy and aquaculture challenges with gamechanging technologies including carbon-negative insect feed, novel bioactive peptides, IoT, AI and data analytics,"
 publishedDateTime: 2021-10-01T15:39:00Z
-originalUrl: "https://www.thepoultrysite.com/news/2021/10/from-carbon-negative-insect-feed-to-ai-and-data-analytics-meet-11-start-ups-advancing-sustainable-livestock-and-aquaculture-production"
-webUrl: "https://www.thepoultrysite.com/news/2021/10/from-carbon-negative-insect-feed-to-ai-and-data-analytics-meet-11-start-ups-advancing-sustainable-livestock-and-aquaculture-production"
+originalUrl: "https://www.thepigsite.com/news/2021/10/from-carbon-negative-insect-feed-to-ai-and-data-analytics-meet-11-start-ups-advancing-sustainable-livestock-and-aquaculture-production"
+webUrl: "https://www.thepigsite.com/news/2021/10/from-carbon-negative-insect-feed-to-ai-and-data-analytics-meet-11-start-ups-advancing-sustainable-livestock-and-aquaculture-production"
 type: article
 quality: 5
 heat: -1
 published: false
 
 provider:
-  name: The Poultry Site
-  domain: thepoultrysite.com
+  name: The Pig Site
+  domain: thepigsite.com
 
 topics:
   - AI
@@ -106,6 +106,6 @@ related:
       domain: tmcnet.com
     quality: 10
 
-secured: "pkFOFxcNCWaRCuVG1/5XQneuQt2u3beru+jz31mFGETvkmjz29pN/UlzUhl0BzpSkT8WSz/dVkJ1hUGZXgQsETVbPMXsE2JcH29MM+HERIpvEKFxprDKtjAdfxyuaMa+eb6Oofve3H69sFwYqVnA6UGXrMc/WpssxYsWdzPpDLJceTWN6NXr6zHIIZWXYYXiRcs9cLnQNTTR0SXscO6zprwqGeaRzNrzIbwkxTi5U35ky7kdfmsROmoFNhVfv5vxaqS3ohPvvEjqq/ngiKhfiwIIyS5mJUEd3OWdTMta3CJz9moHqyhhFOcBylSGRr/q95ebpZlMhFk0rko9Wp8/Ax+x7BTsI7NGsimiwwIL/BI=;9CfH0vl5tdeaDiI6r+U7Wg=="
+secured: "vgqPEwlQFmPRoPxVkuQyPU/ZWSgqgMlLtyiaACq/o2P3XPD42WKvQCjsgxWX3OzOpy9nFObLaKRU841Wyc7QsRFW+pT59EuCw/oSlFKir6nm4bDFPRGV+3RzydBh5DpcKmtuoy+56NvDe7tE99tYiit0YE8Ycc/409gjIbXuRj5JnvbRMch28U65R9FC4Dy89C/fZEblaFn7zxhft7CQFf3ix5CfJmhM2o+KoIWUOtYocWvQEq20acv0L5GgkFW+nUlG4O4lEUEXRv/oca96kpzl/vbFS416hLQFUWGBNMM+Pox8774WjGNRExO2r/HsDaaa2R8YgM7lSbn40FjJ3sTJ1LmErMOh+M3E1mbn2uQ=;U/ECZStzqhE3UMYQ2ZLNGA=="
 ---
 

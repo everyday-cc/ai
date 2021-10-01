@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 740
         isCached: true
+  - title: "NZ airport face biometrics trial deployed against Privacy Commissioner advice"
+    excerpt: "New Zealand Aviation Security Service started trials of a new face biometrics system at Wellington Airport despite open concerns from the Privacy Commissioner."
+    publishedDateTime: 2021-10-01T18:21:00Z
+    webUrl: "https://www.biometricupdate.com/202110/nz-airport-face-biometrics-trial-deployed-against-privacy-commissioner-advice"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/13132346/airport-facial-recognition-masks.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Auraya launches voice biometrics for forensics, adds SaaS delivery model"
     excerpt: "The new offering is the renamed third-generation of EVA Fraud Manager, which is now available through an SaaS delivery model."
     publishedDateTime: 2021-09-29T19:50:00Z

@@ -1,47 +1,29 @@
 ---
 category: news
 title: "Sina Bari MD Shares 3 Ways that Computer Vision is Transforming the Medical Field"
-excerpt: "The medical field is constantly evolving in our day and age, as is technology. We are all familiar with the types of technology, computers, cellphones and software that’s out there. But when it comes to the specifics and details of technology or a form of artificial intelligence,"
-publishedDateTime: 2021-09-28T14:00:00Z
-originalUrl: "https://ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/"
-webUrl: "https://ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/"
-ampWebUrl: "https://ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/?amp=1"
-cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/?amp=1"
+excerpt: "The medical field is constantly evolving in our day and age, as is technology. We are all familiar with the types of technology, computers, cellphone"
+publishedDateTime: 2021-09-28T12:42:00Z
+originalUrl: "https://menafn.com/1102877240/Sina-Bari-MD-Shares-3-Ways-that-Computer-Vision-is-Transforming-the-Medical-Field"
+webUrl: "https://menafn.com/1102877240/Sina-Bari-MD-Shares-3-Ways-that-Computer-Vision-is-Transforming-the-Medical-Field"
 type: article
-quality: 54
-heat: 64
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Inter Press Service
-  domain: ipsnews.net
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://submission.icrowdmarketing.com/assets/source/users/2087/Sina%20Bari%20MD%20Shares%20How%20Computer%20Vision%20is%20Transforming%20the%20Medical%20Field.jpg?1632508900522"
-    width: 1600
-    height: 1067
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?381293"
+    width: 444
+    height: 250
     isCached: true
 
-related:
-  - title: "AI is transforming your job, not terminating it"
-    excerpt: "For those who aren’t familiar with the pop-culture reference, the film focuses on self-aware military AI that sets out to exterminate all of humanity using robots, cyborgs and drones. Fast forward to 2021,"
-    publishedDateTime: 2021-09-27T07:32:00Z
-    webUrl: "https://www.retailgazette.co.uk/blog/2021/09/ai-is-transforming-your-job-not-terminating-it/"
-    type: article
-    provider:
-      name: Retail Gazette
-      domain: retailgazette.co.uk
-    quality: 37
-    images:
-      - url: "https://www.retailgazette.co.uk/wp-content/uploads/2021/06/Roubler-1-696x270.png"
-        width: 696
-        height: 270
-        isCached: true
-
-secured: "Siwmi5alXPyMDjH/KyWgQCc/LVhHB7b9gxzhU7BxWhvfmP1aWad6ricYBfkmsQpFWGkfLsbrUHUulRNagC8Pm6ShUqHrEOS1L8LzCz9J+250Uz7RRxTCpDOk42AKzrgLLMl6vhrNAb36ehJiK+OaH63bRLaasxB1bIHoUjIv6i6OefbPo9AjZ7BjJS+VxT8JzoIbNIBCqCNuGETr4TolYLkB85YoP7hTRAbU3cSENjtSNdbvRb+cxOdkxA7koFZAAeOdbDQXB/zhCHXw1YVfmvw9+CV6mSX4+zJf/qtmZjWLd9ayFD7+rA1/4L9k5vQ3lmlQjD/hbV7mK5EZy/rWZdFsNtF2oP+EqkyquVj2jk96UY6gHsXMJeAMWnLhMvR4hyPSq8MSA2CQI7yaOGIQd/RVAeRY2UMIVA6zWy10TJrM204C1p/Ma98MBqsHjBCEoN8tfJf8WLGDyaqzHvAARpc9UllAulasiBxnmCYvnavcSjRtcTPL+O33pNfdOST3omFxRNFEx0FxZFl43R85GA==;jpiFmHenMujj/WwYxD1Peg=="
+secured: "lYvxcQkASDopJCSVUJkgoDunStODaTQioUuewkyob09jknRrdgWk6F4wGI/3Zw5kY8blHM2AGDNcL0nz0IN2/WoQzpm96K49bNqzl47vM8kVU1bXVqL1Ohn9JofQAoxILw5D0xZoghs9hXy86g+JAP8fwfrYeAzGyIFwvSaTi9hb/1oJ5Tkgn3LZAZfvnU0VBR6yarTcrSdiEQfgTAoV5kB5aHGE4PyePXowAoj65Wn2lP2Ay6rjqwMJhm8o2E3ngYBQVLz8s80/jT91PBj+YPVff+KMaR1QsOPktQe0O5YMo6QEFUTHxyZ9hvw/vaQPzx72JEBW/9u/ajY/81z46X1u7jBeHC7AiZvu7HR1obY=;293Kxs7PEXc7lj1l2RpFOA=="
 ---
 

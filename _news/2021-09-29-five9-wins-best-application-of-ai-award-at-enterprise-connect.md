@@ -21,11 +21,11 @@ topics:
   - AI
 
 images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2021/09/29175651/PENNY-TRADE.png"
-    width: 520
-    height: 282
+  - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
+    width: 1200
+    height: 600
     isCached: true
 
-secured: "8OqdiTeyDujtnb5nmdbhjf5gN3JtYovx1GufMrNAEatLsTCIQXf+0GRDIPoQg75AYjmPBD+4RxvPzXbSrjMS1ue57Nr238EVMMZa23aRfyovGQYW5pl+FW3Kpsg7sjeGEJ5sE5M4CrDsXwVu/KsHbJhWgavzEevCpztQ3Ye+xxrLz6s00MdtHUfaW4wGqkClvwFnIeseVc1XQzgTO+cD12g3yEsjVewDv2RYwzDL1Oa1xdlpuwtPKlb+Z8OKzMrc1e4Fmx0y+BvXvqhct8DcOcjiFaE5z5M5VBSgRklh43jcM8UZV4R2QJ/SExUtzzTGvCExUPL1iZPmXLmV6UTUuVdjWFCxM6LpQNGQP8//EfY=;ZO0UzLkeYLwSXrVKJ6oXXg=="
+secured: "Hww9hXKxVEC/96Rzkb+Wnxm+s40PPNb0DStH28xHZpP00ZEYCKowlGP+jjzSrGuqNhBO/JIjLsWcN9trXXDqVly4AUTBOU6q/SrNXyKu+za5XYQfe/D1pZqC+piNmfXe3zwApZXbuo2dYvgcYQVxoFGZaBez9rjehbN2bKFHjG/VnwYAT/VBSpaeKl7YEI3TH9VGp9WqJoKGJU70TTzSqBoDzKBHUGyKu4rLU5wu22q0ussMH0o2AnaDqvCokspkYCaYhmS5CiCQ86dXsrlTVgflLgokFvY1GioIGEon4uoeV3dAGuc5c89m36E0g5xOlx2KbcDUyEdf8PnN4u0y9VdFpukX/UxlVYJiy9bHRto=;QXbAU3LEnT6VAd8aNtAteA=="
 ---
 

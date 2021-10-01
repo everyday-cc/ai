@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2021/09/28/1036279/pandemic-unemplo
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/09/28/1036279/pandemic-unemployment-government-face-recognition/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: MIT Technology Review
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Coming to grips with facial recognition scans part of home isolation experience"
-    excerpt: "Using a location checking app and doing a facial recognition scan were part of a South Australian's daily duties during a home isolation trial."
-    publishedDateTime: 2021-09-28T09:08:00Z
-    webUrl: "https://www.rnz.co.nz/news/national/452509/coming-to-grips-with-facial-recognition-scans-part-of-home-isolation-experience"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 35
-    images:
-      - url: "https://www.rnz.co.nz/assets/news/276105/eight_col_tech.jpg?1632812833"
-        width: 720
-        height: 451
-        isCached: true
   - title: "Keystroke tracking, screenshots, and facial recognition: The boss may be watching long after the pandemic ends"
     excerpt: "Companies are increasingly turning to surveillance software tools as they consider permanent remote work policies. Some workers say remote-work surveillance has gone too far, calling the tracking systems intrusive,"
     publishedDateTime: 2021-09-28T13:02:00Z

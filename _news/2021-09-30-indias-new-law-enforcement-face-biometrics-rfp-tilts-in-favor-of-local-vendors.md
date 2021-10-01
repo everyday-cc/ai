@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 740
         isCached: true
+  - title: "NZ airport face biometrics trial deployed against Privacy Commissioner advice"
+    excerpt: "New Zealand Aviation Security Service started trials of a new face biometrics system at Wellington Airport despite open concerns from the Privacy Commissioner."
+    publishedDateTime: 2021-10-01T18:21:00Z
+    webUrl: "https://www.biometricupdate.com/202110/nz-airport-face-biometrics-trial-deployed-against-privacy-commissioner-advice"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/13132346/airport-facial-recognition-masks.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Amazon unveils series of face and voice biometrics updates"
     excerpt: "Amazon has a series of new updates focusing on the biometric capabilities of some of its hardware products, as well as on the company’s AWS marketplace."
     publishedDateTime: 2021-09-29T19:17:00Z

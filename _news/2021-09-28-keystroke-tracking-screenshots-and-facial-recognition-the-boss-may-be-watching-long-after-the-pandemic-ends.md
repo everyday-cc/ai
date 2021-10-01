@@ -37,20 +37,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Coming to grips with facial recognition scans part of home isolation experience"
-    excerpt: "Using a location checking app and doing a facial recognition scan were part of a South Australian's daily duties during a home isolation trial."
-    publishedDateTime: 2021-09-28T09:08:00Z
-    webUrl: "https://www.rnz.co.nz/news/national/452509/coming-to-grips-with-facial-recognition-scans-part-of-home-isolation-experience"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 35
-    images:
-      - url: "https://www.rnz.co.nz/assets/news/276105/eight_col_tech.jpg?1632812833"
-        width: 720
-        height: 451
-        isCached: true
 
 secured: "vffuwQDyVvMfC9TLWislWuG5aotwSdbOyCvpUB9EKjSXREVB2PAaLcRf3ZQerLHz/Asdjka8vpm88AqfNXKnRwLHGAf/bxi7abhv+V0WL0skJeMLgoyYuZjbC5+3dsmCqFA4WyLOBFHJfh4eQSbr0e3EYirB0HvTCk6hnuM4QUUszAetPWiLihFd+DOeKy5E3RQ9jQh4lpYaIBwLzEMywWZgwrsG/93cS7H5sMREQPVD3de+7UPUMQlLTBfNpCQBrMP/a6KNxZOGj+kLT9pWC0zZSVerkkFpG8wLxWOD99GdVvHdxMWNV2DLNTj08hoJijAgjLpEf+97AfSikZon97F6OehT2ZOEN1n4zI9x9KbTLc3JdBNU7ifhQ289hOzyNlsAjK1lvOLPq0Fuw3q9NklNI61zh8L7tIeUAEIKwXaBMncJHoMCtLBxFaKt0M8txJqR01Ga075y7AyTWwNPSCLkR2E/UYDkeG2JPGZQzCp4A+sDLhSbLxa5rnGSV1OYiMXYwvwVeF2YCE9XFmslsQ==;nLV0NQnHZb4ZATkp4okaWA=="
 ---

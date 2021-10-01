@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-police-buying-retrospective-facial-recognition-technology/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Drones with facial recognition technology brought in to count SA koalas"
-    excerpt: "Drones equipped with facial recognition technology will be used to count and identify South Australia’s koala population thought decimated by recent bushfires. Flinders University researchers will partner with the Koala Life charity and the state government to use the drones to study koalas on Kangaroo Island and in the Adelaide Hills,"
-    publishedDateTime: 2021-09-27T02:23:00Z
-    webUrl: "https://7news.com.au/news/animals/drones-with-facial-recognition-technology-brought-in-to-count-sa-koalas-c-4080682"
-    ampWebUrl: "https://7news.com.au/news/animals/drones-with-facial-recognition-technology-brought-in-to-count-sa-koalas-c-4080682.amp"
-    cdnAmpWebUrl: "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/news/animals/drones-with-facial-recognition-technology-brought-in-to-count-sa-koalas-c-4080682.amp"
-    type: article
-    provider:
-      name: 7news
-      domain: 7news.com.au
-    quality: 59
-    images:
-      - url: "https://images.7news.com.au/publication/C-4080682/0f134acc7c5a8ba7bcc54b94b6534f2008dd7154-16x9-x0y0w1600h900.jpg?imwidth=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Met Police purchase new retrospective facial-recognition system"
     excerpt: "New £3mn retrospective facial-recognition software purchased by the Met Police will be deployed in coming months amid continuing controversy around the use of biometric technologies by law enforcement"
     publishedDateTime: 2021-10-01T11:30:00Z

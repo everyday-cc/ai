@@ -295,20 +295,6 @@ related:
         width: 1199
         height: 702
         isCached: true
-  - title: "Tesla Full Self-Driving goes live in the USA"
-    excerpt: "The controversial tech will be made available to drivers who pass a series of safety tests. Electric vehicle specialist Tesla rolled out a new software"
-    publishedDateTime: 2021-09-27T02:09:00Z
-    webUrl: "https://www.drive.com.au/news/tesla-full-self-driving-goes-live-in-the-usa/"
-    type: article
-    provider:
-      name: Drive.com.au
-      domain: drive.com.au
-    quality: 39
-    images:
-      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_720,q_auto:best,w_1280/v1/cms/uploads/z46x0k3fetebxlmui7fl"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Tesla to outsource its self-driving chip to Samsung Electronics"
     excerpt: "It is reported that Tesla has decided to outsource its self-driving chip manufacturing to Samsung Electronics. According to the industry on the 24th, Samsung Electronics is reportedly likely to win orders for manufacturing of the HW 4."
     publishedDateTime: 2021-09-27T05:16:00Z
@@ -393,6 +379,6 @@ related:
       domain: mobilesyrup.com
     quality: 19
 
-secured: "551eM9T9Oem39Yo+sneBFInD4gK7TZJty2aQumU/nY8F1eqfW/1ZmS+qhWS1Lfq5YkLFe4X98EJtKhW2bj5hR04WCanzj6MV+SNcZMgLpcpL09y/ywoSF9LttLn9Zit7Xe5BSYc9ZXpsnyZC18kemqdZSqk1BCNDvN+kH8MC21oht3JV6/dHuIUvUfdDyiQuU4Bj1/JgRSZFNtMyDLAdiucK1Sfrut0SkheQ6wfnLzWxxA20WBApDkfe8kQSouzM7EA2HzU8GaTEg4GegkW1pXvZ93SsHvSJ5rG3Be9Y0lcscrxCP9tA/tOhqmYLxn7VV2wickz8ukFRhIZLX66NMFvOYjycaQho6gkuIh0CYLw=;LjfOsqJb/2KzPYMoad/fkQ=="
+secured: "2ZkUh2ycNypt1jKIr59etRg0wRfHmVEGkgpdEVxrbOKhUqK/y5DbhdXhs8i5oTq9lbg7Knf86TByp6sDimxqIZ09gROdl8advsVbSxC/wWf0vcgKtANnGqF2D0MxVWxwtEOnImAOeViSebLHIVkVhAyAlVQ8y7OO8RiSIaVa63MC1uoTmBVtweCT3fQ/w4WyaSUus1w2oCiLdMQWyJeydvn9dI3in8Zfzb5PJTB2c/f3u1A19PhsOj9px3d5fXdCYeJEFquJrNIiuaCLi6GBaoU2dIoSFiHBWMyzzpCIXD9riH7t83zMmIs9kBqp7bwh+3yJUbk8+xrJDb0vTvV18EzLL5Kiz8W8s8YeV2bRZsrqgHaRh3wpAfrdeQ2GARBNiwdxS0zzLAj+xfhPUnQRW8SbiJIaF5hKOY4TbeFPeIf4eqTrTH/KCJAVpfBZrgqtXp/W8uTcfFHUb+jbIU6Cqe+ZP4p+UgVEMHuUmTKAGgeSqMtIGL1YZ9a+6ibspYiDoJ1NnVyz+eN6TruzdeV3Mg==;XMfFjYdctngEU7eTUvNG3Q=="
 ---
 

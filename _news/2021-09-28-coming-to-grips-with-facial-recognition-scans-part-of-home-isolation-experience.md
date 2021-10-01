@@ -25,33 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "The pandemic is testing the limits of face recognition"
-    excerpt: "Government use of face ID systems exploded during the pandemic—but tying it to critical services has left some people locked out at the moment they needed help the most."
-    publishedDateTime: 2021-09-28T09:40:00Z
-    webUrl: "https://www.technologyreview.com/2021/09/28/1036279/pandemic-unemployment-government-face-recognition/"
-    ampWebUrl: "https://www.technologyreview.com/2021/09/28/1036279/pandemic-unemployment-government-face-recognition/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/09/28/1036279/pandemic-unemployment-government-face-recognition/amp/"
+  - title: "Western Railways to install 2,729 cameras with face recognition system across 30 stations"
+    excerpt: "Western Railways to install 2,729 cameras with face recognition system across 30 stations - These cameras have a tilt angle of 180 to 270 degrees that will help in 360 degrees of an area leaving no bl"
+    publishedDateTime: 2021-10-01T18:20:00Z
+    webUrl: "https://www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767"
+    ampWebUrl: "https://www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767/amp"
+    cdnAmpWebUrl: "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767/amp"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
+      name: DNA India
+      domain: dnaindia.com
+    quality: 65
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/09/face-1.jpg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/10/01/999016-camera.jpg"
+        width: 640
+        height: 360
         isCached: true
-  - title: "Keystroke tracking, screenshots, and facial recognition: The boss may be watching long after the pandemic ends"
-    excerpt: "Companies are increasingly turning to surveillance software tools as they consider permanent remote work policies. Some workers say remote-work surveillance has gone too far, calling the tracking systems intrusive,"
-    publishedDateTime: 2021-09-28T13:02:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/keystroke-tracking-screenshots-and-facial-recognition-the-boss-may-be-watching-long-after-the-pandemic-ends/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/keystroke-tracking-screenshots-and-facial-recognition-the-boss-may-be-watching-long-after-the-pandemic-ends/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/keystroke-tracking-screenshots-and-facial-recognition-the-boss-may-be-watching-long-after-the-pandemic-ends/?amp=1"
+  - title: "Western Railways to install 2,729 cameras across 30 stations, 450 to have face recognition system"
+    excerpt: "Western Railways is installing 2729 cameras with 4K technology in all of its 30 stations of Mumbai suburban network from Virar to Churchgate said Chief Public"
+    publishedDateTime: 2021-10-01T17:50:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271371452/western-railways-to-install-2729-cameras-across-30-stations-450-to-have-face-recognition-system"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 19
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 41
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1633110183.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "WYWNmQ6blHqpTGU39o9MvVDYiEJfmt1xKuhdTsx/XBZePPGPJbM9N0d+GHURHNznloYMFP2Gfkwe8srWHbkM8OdqHz9x4aksjIjjC5JmIpBZyvBBsc6z3QOgqjflyAk09UKHGJFH8eFbxuIgzsGzS6Rp6slmR6QiHPvcy49EK/dJHImO6azBI+Tp/lDiyUCiI2pCeR7TC/5POmaJHSx+F79t3HMswStXTkJO5WRMX4CQlr4cG2l5X6P5TTtpZXpAQEEQt1sEOg7+UFpCftQPonM0O5NnOI0047SwXNtRz6LTA20TLUxQc62bg6twy3zAnDLZfxiXKUQlsXgbnjlrMRQO9yqbSqLBxPM9JMVkAaA=;Vol4iqBZpuKDgy5v4bxxtQ=="
 ---
