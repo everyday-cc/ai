@@ -2,6 +2,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-09-14-self-driving-cars-will-save-and-improve-lives.md",
+      "title": "Self Driving Cars Will Save and Improve Lives",
+      "excerpt": "If self-driving cars can become ten times safer than human-driven cars and became standard for the world then 1.1 million of the over 1.2 million global",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2021/09/self-driving-cars-will-save-and-improve-lives.html",
+      "originalUrl": "https://www.nextbigfuture.com/2021/09/self-driving-cars-will-save-and-improve-lives.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/09/olddrivers.jpg",
+          "width": 735,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextbigfuture.com/2021/09/self-driving-cars-will-save-and-improve-lives.html",
+      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/09/self-driving-cars-will-save-and-improve-lives.html",
+      "publishedDateTime": "2021-09-14T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-descartes-labs-to-host-geoint-2021-training-workshop-on-creating-machine-learning-based-computer-vision-models-for-planetary-scale-data-analysis.md",
       "title": "Descartes Labs to Host GEOINT 2021 Training Workshop on Creating Machine Learning-Based Computer Vision Models for Planetary Scale Data Analysis",
       "excerpt": "The one-hour workshop, “Advanced Geospatial Analytics Utilizing Ever Increasing Geo Data with Computer Vision at Planetary Scale: Learn to Build and Deploy Machine Learning Models for Young Professionals to Senior Scientists,",
@@ -1014,58 +1057,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-logistics-robotics-startup-ambi-raises-26m.md",
-      "title": "Logistics robotics startup Ambi raises $26M",
-      "excerpt": "Ambi Robotics emerged from stealth with a $6 million raise. Today the Bay Area-based firm is back with several times that, announcing a $26 million Series A, led by Tiger Global. The new round also features participation from existing investors,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/",
-      "originalUrl": "https://techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/Ambi-Robotics_Founders-1.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/amp/",
-      "publishedDateTime": "2021-09-14T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

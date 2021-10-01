@@ -24,20 +24,6 @@ topics:
 
 related:
   - title: "AWS Shares New Business Momentum Milestones and Announces Three New Capabilities for Amazon Connect"
-    excerpt: "Today at Enterprise Connect, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company , shared new business momentum milestones and announced three new capabilities for Amazon Connect that improve contact center agent productivity and"
-    publishedDateTime: 2021-09-27T12:14:00Z
-    webUrl: "https://www.lelezard.com/en/news-20015891.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 25
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "AWS Shares New Business Momentum Milestones and Announces Three New Capabilities for Amazon Connect"
     excerpt: "Today at Enterprise Connect, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), shared new business momentum milestones and announced three new capabilities for Amazon Connect that improve contact center agent productivity and provide superior service by making customer interactions more effective,"
     publishedDateTime: 2021-09-27T20:02:00Z
     webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-lifestyle-technology-business-middle-east-62bd656b2fe240a1a17519adbb362d4a"
@@ -60,6 +46,15 @@ related:
       name: ITWire
       domain: itwire.com
     quality: 19
+  - title: "AWS Shares New Business Momentum Milestones and Announces Three New Capabilities for Amazon Connect"
+    excerpt: "AWS Shares New Momentum Milestones and Announces Three New Capabilities for Amazon Connect. Tens of thousands of AWS customers now using Amazon Connect to support more th"
+    publishedDateTime: 2021-09-27T15:00:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210927005388/aws-shares-new-business-momentum-milestones-and-announces-three-new-capabilities-for-amazon-connect"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 5
 
 secured: "o3HkiIFxp4/DUo6rv8IPrRWpgeP9rnu2+8esRLNtOw1Sg6g+rjrGxoe3i4sbbT+lUO9ddAOPFMTUSJHZrYXzDjQ9mmbQ67KhLhhEyZqF3+muzqReNxd+V4EjtsyEdIeMbEkJLAqDstIBZ9AEM/4+26SSompcQT8V4S1YOV/FUmUDX5teg4KTbMMOGm7/51ACVcAPY8vtfg88N1rjjt7IIYULIz95iB+twKBXXqB27XVBhejeDDiRWEUnK0r/U+ExKRFMDDmDkxr4JtCvJ1y2Y8N26vmE5K33siHOufsD/uAZLH5M95Cs9YQlssWjyGBckOFFBAWN4IBMG+40WRByyJEYpobv2j2dD4WYyRnY8Fm8xXIyoIx+WbF8WAycSmGLUC5nKDdQ0M1RhC16U5PQvdUXgKNOLXdQjGZz7nyBEM+XIpWIj4Mg53YA+7/92EDnRBVlEZyj0Wi96x6hTUIctq1uDUKTrG9jQHyPKfopWZc5HX97MVWBXVAsb+qQIcQ9yVa6ef5Jl/06Z+pjA069hA==;axggYT0G5tMMc0DT84Gf7Q=="
 ---

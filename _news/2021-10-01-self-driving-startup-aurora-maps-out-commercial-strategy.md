@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2GQ1YO"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2GQ1YO"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 726
     height: 545
     isCached: true
+
+related:
+  - title: "Waymo & GM's Autonomous Driving Unit Cruise Granted Permits to Deploy Commercial Self-Driving Vehicles in the San Francisco Bay Area"
+    excerpt: "Alphabet’s self-driving division Waymo, along with Cruise, the autonomous driving unit of automaker General Motors, have each been issued permits by California’s Department of Motor Vehicles (DMV) to deploy commercial self-driving vehicles carrying paying customers."
+    publishedDateTime: 2021-09-30T23:30:00Z
+    webUrl: "https://www.futurecar.com/4900/Waymo-&-GM’s-Autonomous-Driving-Unit-Cruise-Granted-Permits-to-Deploy-Commercial-Self-Driving-Vehicles-in-the-San-Francisco-Bay-Area"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 8
+    images:
+      - url: "https://img.futurecar.com/202109/30/l_6156482843a62.jpeg"
+        width: 800
+        height: 470
+        isCached: true
 
 secured: "+o2Gd2hjBRie1xhAS8LecMzF9WO7qhS8lc9jcr0H3kqJIhCAr9ibvd8bF2lUAMyG7IIkoERsF7UMmK9Ptu0+O9hGaAZlZ+H9vYUBRA7U3G/yggZCH/3p06DJdtWudKAxo7usNubWuLUTTKbwokeGEd1Gp4qa/l8cu2gbhJPwu0Jnz/qIRHq3MMMBiY9fZwF/lWTv5XGWHR8X/HBxv3liobt3gI6n3GX1vfMhvLcPKw3Zxlj7w5jwyjXRnRPB4aKCToh4z4D02OkhExi6/6i+QpyF++wciPtxrB1ENM3eczj7Kl4udxg50ju+C6uFh0PU8zhhbAQXOZO7llKLMn7e40FWz9xheksiJJLiZd7SAeyajZzVgxXI5JMtO/MvErJ5pRhhOsejUPDX5NLzDUTbca3dFNZn6APRLMmBj9Aa22I8lucSj8vzXVPIdq9Xvgz5IaDT8889PKmaygcOVDUspKRYdVlcywQdlMlS3VfQa0PcTFHHh4Y5+TyOIIJD+BDuypN+Lw8kwxCEnD8nKV8X5Q==;rAy0TfecyFCcS3QBq9jd5g=="
 ---

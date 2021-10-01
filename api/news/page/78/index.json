@@ -2,6 +2,57 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2021-08-03-how-ai-inspires-human-versatility-at-work.md",
+      "title": "How AI Inspires Human Versatility At Work",
+      "excerpt": "Below are four fundamentals that acknowledge both AI’s limitations and how it pushes humans to be more versatile at work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/how-ai-inspires-human-versatility-at-work/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/how-ai-inspires-human-versatility-at-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6107f8e32ee0245e4f194ad4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/how-ai-inspires-human-versatility-at-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/03/how-ai-inspires-human-versatility-at-work/amp/",
+      "publishedDateTime": "2021-08-03T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-distinguished-research-scientist-dr-zoltan-tuske-to-join-apptek-and-drive-new-innovations-in-automatic-speech-recognition.md",
       "title": "Distinguished Research Scientist, Dr. Zoltán Tüske, to Join AppTek and Drive New Innovations in Automatic Speech Recognition",
       "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language",
@@ -1113,58 +1164,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-navigating-religion-faith-and-creativity-in-the-age-of-ai.md",
-      "title": "Navigating Religion, Faith, And Creativity In The Age Of AI",
-      "excerpt": "How might advances in AI impact faith, ethics, and morality as we struggle to comprehend what it means for a machine to be human?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610845450dc506a914f2391c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D750%26cropY1%3D166%26cropY2%3D666",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/amp/",
-      "publishedDateTime": "2021-08-02T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

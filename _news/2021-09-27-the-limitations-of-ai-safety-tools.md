@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tool
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155ef71088eada6a8f3c806%2F0x0.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The Ethics Dilemma of AI for Sales"
+    excerpt: "HAVING recently completed Sales Mastery’s third annual AI-for-Sales Study, the buzz generated around the prospect of artificial intelligence augmenting sales organizations is still increasing rather than abating."
+    publishedDateTime: 2021-09-27T04:00:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/Columns-Departments/Reality-Check/The-Ethics-Dilemma-of-AI-for-Sales-149181.aspx"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 71
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/140270-2021_10_realitycheck-ORG.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Artificial Intelligence company EAIGLE rolls out a new proof of vaccination platform to give U.S. organizations greater health and safety protection"
     excerpt: "PRNewswire/ - Artificial Intelligence (AI) company EAIGLE Inc., specializing in COVID-19 solution technologies, has"

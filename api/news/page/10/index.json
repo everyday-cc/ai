@@ -2,6 +2,39 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-09-22-paige-obtains-fda-de-novo-authorization-for-ai-based-pathology-software-to-diagnose-prostate-cancer.md",
+      "title": "Paige Obtains FDA De Novo Authorization for AI-Based Pathology Software to Diagnose Prostate Cancer",
+      "excerpt": "The firm said that in a clinical study pathologists using its Paige Prostate product had a 70 percent reduction in false negative diagnoses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.360dx.com/regulatory-news-fda-approvals/paige-obtains-fda-de-novo-authorization-ai-based-pathology-software",
+      "originalUrl": "https://www.360dx.com/regulatory-news-fda-approvals/paige-obtains-fda-de-novo-authorization-ai-based-pathology-software",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-22T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "360dx",
+        "domain": "360dx.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-new-ai-optimized-software-could-improve-nanoparticle-design-for-cancer-therapy.md",
       "title": "New AI-Optimized Software Could Improve Nanoparticle Design for Cancer Therapy",
       "excerpt": "The EVONANO platform developed at the University of Bristol enables scientists to develop virtual tumors and employ artificial intelligence to make automated optimization of the design of nanoparticles to treat the tumors.",
@@ -1147,40 +1180,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-arkq-uniquely-positioned-to-capitalize-on-robotics-trends.md",
-      "title": "ARKQ Uniquely Positioned to Capitalize on Robotics Trends",
-      "excerpt": "Amid an array of technological advancements, robotics investing is gaining a broader audience, and exchange traded funds issuers are meeting that demand. However, the various robotics ETFs on the market today aren't carbon copies of each other,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/arkq-uniquely-positioned-to-capitalize-on-robotics-trends-2021-09-21",
-      "originalUrl": "https://www.nasdaq.com/articles/arkq-uniquely-positioned-to-capitalize-on-robotics-trends-2021-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/arkq-uniquely-positioned-to-capitalize-on-robotics-trends-2021-09-21?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/arkq-uniquely-positioned-to-capitalize-on-robotics-trends-2021-09-21?amp",
-      "publishedDateTime": "2021-09-21T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

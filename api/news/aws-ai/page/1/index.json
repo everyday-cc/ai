@@ -395,6 +395,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-26-3-ways-to-get-into-reinforcement-learning.md",
+      "title": "3 ways to get into reinforcement learning",
+      "excerpt": "AWS introduced DeepRacer in November 2018 as the “fastest way to get rolling with machine learning.” In December 2020, they had more than 10,000 competitors and a grand prize that included US$10,000 of AWS promotional credits. Don’t let the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/686379/3-ways-get-into-reinforcement-learning/?fpid=1",
+      "originalUrl": "https://www.reseller.co.nz/article/686379/3-ways-get-into-reinforcement-learning/?fpid=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_m_113932028_learn_-_copy_1.jpg",
+          "width": 472,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-26T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-25-artificial-intelligence-ai-in-education-market-to-eyewitness-massive-growth-by-2026.md",
       "title": "Artificial Intelligence (Ai) In Education Market to Eyewitness Massive Growth by 2026",
       "excerpt": "HTF MI Analyst have added a new research study on Title Worldwide Artificial Intelligence (Ai) In Education Market In-depth Research Report 2021, Forecast to 2026 with detailed information of Product Types [,",
@@ -1399,50 +1442,6 @@
         "AWS AI",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-the-machine-learning-imperative-empowering-businesses-to-innovate-faster.md",
-      "title": "The Machine Learning Imperative: Empowering Businesses to Innovate Faster",
-      "excerpt": "Machine Learning (ML) took centre stage at AWS reInvent from being a key focus in the opening keynote by CEO Andy Jassy, to the entire focus of the inaugural ML keynote by Swami Sivasubramanian, VP of",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/companies/the-machine-learning-imperative-empowering-businesses-to-innovate-faster",
-      "originalUrl": "https://www.bbntimes.com/companies/the-machine-learning-imperative-empowering-businesses-to-innovate-faster",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/The_Machine_Learning_Imperative-_Empowering_Businesses_to_Innovate_Faster.jpeg",
-          "width": 1282,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

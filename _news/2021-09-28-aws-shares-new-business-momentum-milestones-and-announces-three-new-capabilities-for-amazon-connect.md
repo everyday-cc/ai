@@ -34,20 +34,6 @@ related:
       name: IT Pro
       domain: itpro.co.uk
     quality: 49
-  - title: "AWS Shares New Business Momentum Milestones and Announces Three New Capabilities for Amazon Connect"
-    excerpt: "Today at Enterprise Connect, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company , shared new business momentum milestones and announced three new capabilities for Amazon Connect that improve contact center agent productivity and"
-    publishedDateTime: 2021-09-27T12:14:00Z
-    webUrl: "https://www.lelezard.com/en/news-20015891.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 25
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "AWS adds new updates to Amazon Connect"
     excerpt: "Amazon Web Services updates new capabilities for Amazon Connect to improve contact centre agent productivity and provide more effective, personal, and natural customer interactions. AWS shares that the new features are designed to give agents the right information at the right time to answer"
     publishedDateTime: 2021-09-27T22:48:00Z
@@ -57,6 +43,15 @@ related:
       name: ITWire
       domain: itwire.com
     quality: 19
+  - title: "AWS Shares New Business Momentum Milestones and Announces Three New Capabilities for Amazon Connect"
+    excerpt: "AWS Shares New Momentum Milestones and Announces Three New Capabilities for Amazon Connect. Tens of thousands of AWS customers now using Amazon Connect to support more th"
+    publishedDateTime: 2021-09-27T15:00:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210927005388/aws-shares-new-business-momentum-milestones-and-announces-three-new-capabilities-for-amazon-connect"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 5
 
 secured: "95ii96R8jIS7Q2xhYRnzPeIqeAeAPcETwmO746Psrh1nmAhmcCEcvNi4fdEJSkqHDsCf20R+P37Athl5KX+ZIhzJQw8E5IRXqIT6WQSHv85jctroXZoVYBhN4jjBFBzKvBcFZPu5JReVPtPqnVOq624e6I4dzwHTTLDBb023owtXVzbLZ58dOCsfU1z0VSQ1YKGuI5ppBCuXotv7pXawBxqFu5d0NM4JLsikttgzLgBhaEvpClsqC+9LeULlAD3IeraQozNvieBYNOTitgS7V238ZGL0axakrJ/NwTYb1jPi0lZPJHXJNyBBnxHt/2fFb6zYUnDNFuRhpB6MvcemFNd1z4IeyGxkwKE0TVjXMus=;LEz0qZqAdjzY5G45RoAH7w=="
 ---

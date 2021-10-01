@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Ethics Dilemma of AI for Sales"
+    excerpt: "HAVING recently completed Sales Mastery’s third annual AI-for-Sales Study, the buzz generated around the prospect of artificial intelligence augmenting sales organizations is still increasing rather than abating."
+    publishedDateTime: 2021-09-27T04:00:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/Columns-Departments/Reality-Check/The-Ethics-Dilemma-of-AI-for-Sales-149181.aspx"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 71
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/140270-2021_10_realitycheck-ORG.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Human Costs of AI"
     excerpt: "In 2015 a cohort of well-known scientists and entrepreneurs including Stephen Hawking, Elon Musk, and Steve Wozniak issued a public letter urging"
     publishedDateTime: 2021-09-30T02:23:00Z

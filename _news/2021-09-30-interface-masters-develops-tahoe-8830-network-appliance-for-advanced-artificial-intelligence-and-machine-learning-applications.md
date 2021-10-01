@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Interface Masters Develops Tahoe 8830 Network Appliance for Advanced Artificial Intelligence and Machine Learning Applications"
-excerpt: "Interface Masters Technologies announces Tahoe 8830, an off-the-shelf artificial intelligence and machine learning workhorse which ‘rounds out’ Interface Masters family of ARM ® and MIPs based network appliances."
-publishedDateTime: 2021-09-30T14:04:00Z
-originalUrl: "https://www.argus-press.com/news/national/article_a520e33b-5525-56b3-90ab-d69c2a317ba8.html"
-webUrl: "https://www.argus-press.com/news/national/article_a520e33b-5525-56b3-90ab-d69c2a317ba8.html"
+excerpt: "Technologies announces Tahoe 8830, an off-the-shelf artificial intelligence and machine learning workhorse which 'rounds out' Interface Masters family of ARM (News - Alert) ® and MIPs based network appliances."
+publishedDateTime: 2021-09-30T14:09:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/09/30/9460153.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/09/30/9460153.htm"
 type: article
-quality: 26
-heat: 26
+quality: 6
+heat: 6
 published: false
 
 provider:
-  name: Argus-Press
-  domain: argus-press.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Machine Learning
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/argus-press.com/content/tncms/assets/v3/editorial/4/d1/4d1d55bb-96c2-5944-b4d9-faa1ba4b49c3/6155c73f74b51.image.jpg?resize=1092%2C630"
-    width: 1092
-    height: 630
-    isCached: true
-
-secured: "pUSMF+9sAhG+/P9MqXO5Gm9IcAMlpGRaNr+iC2lg+LWHHUKNxfrh8/68xvdmebazSb5XW6OX/QeMAcQTFcFUZa12N/mTU9vE11AdVgQE8YqMtEUUz9AE12Fs4KhJS0+O0ZksJWHE1b4AajNcXuhBA2WDI6c/4ohxs56FRETune3zKzDoFZyi7d0sJQv95O6rJKy7h6FUUjf5S5nby3I33a2HFVI5u122UVccI8sakeUDQUGPdnY1kkaRrlWSqbm8+3xAY4cqgozLwPhq1CEvT7rRnro881kUtDKqoh4BgBTPTp/dq1UNx74BRgswrjIAFGFLTu/VZn5C90F6+F/fG+CEvzpk7fad8moF8er/ReA=;IFr1wNhLc53OoCmWJZRGzw=="
+secured: "2FsDuW+0crMy2/jDTDqNhC7/QsGFvVVaO407He4YyGiy4mEUvoHS6sKDxvycK9xHrA+Zbkz1q0AE2/sS1TYJhYxTGfifoWWCdKSpbFNm62gDPDLU2sXMZL095erGFTfk4huvRZ61Kp8PK7m4cMRWsjcrc93j/CDs3YkJwy2mWDLvp0JTAbjUQ9ySnjNNh6RtFhR/fZjDjcMe/hx5MhfX4kqWexZpyz24pyLamKiZeIp9zvAuESQ1JVpJoXa3rsSglwaedW8USXtR2/i60JOiz+8SY2GhsNRjPYMhghvPJzChhWJbAtvLON8yzNTznfG5rQvr159SKQLMnMw1+U6dkEmPmVxssoSM59Jnj0S/E4+hPAA7IvrEgjBflcg5GJZSTZfSSIUwclk3EBID56otpurq2bEgoOf2AAIqSIsPDNpP/G/cH0R9l5osy2qgO/2o4XrsN1pRdCKPTW+MQM4BKAMN9++ehypDX6q7v5aFrVfzwZxPP9c4W2qkIfePyqZIkyn527CCJ7ZhdrBMEmOETg==;LBNnzL2KY9q1kGdwE0mKMA=="
 ---
 

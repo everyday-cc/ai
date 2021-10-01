@@ -2,6 +2,41 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-09-13-attabotics-appoints-cyra-richardson-former-microsoft-and-amazon-executive-and-leader-as-cto-and-cpo-adds-former-softbank-robotics-vp-julien.md",
+      "title": "Attabotics Appoints Cyra Richardson, Former Microsoft and Amazon Executive and Leader, as CTO and CPO; Adds Former SoftBank Robotics VP Julien Seret to Lead Network Supply ...",
+      "excerpt": "She incubated Microsoft’s initial AI offerings, including Azure Cognitive Services and Azure Bot Services, to market into SaaS offerings. Cyra also played a significant role in many of Microsoft ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210913005269/en/Attabotics-Appoints-Cyra-Richardson-Former-Microsoft-and-Amazon-Executive-and-Leader-as-CTO-and-CPO-Adds-Former-SoftBank-Robotics-VP-Julien-Seret-to-Lead-Network-Supply-Chain-Initiatives",
+      "originalUrl": "https://www.businesswire.com/news/home/20210913005269/en/Attabotics-Appoints-Cyra-Richardson-Former-Microsoft-and-Amazon-Executive-and-Leader-as-CTO-and-CPO-Adds-Former-SoftBank-Robotics-VP-Julien-Seret-to-Lead-Network-Supply-Chain-Initiatives",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-13-with-intels-help-community-college-students-can-earn-degree-in-ai.md",
       "title": "With Intel’s Help, Community College Students Can Earn Degree in AI",
       "excerpt": "The need for AI technology in the workforce, across several industries, is critical for U.S. economic growth,” Pat Gelsinger, Intel CEO said announcing a program expansion.",
@@ -1050,49 +1085,6 @@
       "provider": {
         "name": "Daily Mail",
         "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-12-small-mighty-robots-mimic-the-powerful-punch-of-mantis-shrimp.md",
-      "title": "Small, Mighty Robots Mimic the Powerful Punch of Mantis Shrimp",
-      "excerpt": "Modeling the mechanics of the strongest punch in the animal kingdom, researchers with U.S. Army funding built a robot that mimics the movement of the mantis shrimp. These pugnacious crustaceans could pave the way for small,",
-      "sourceUrl": null,
-      "webUrl": "https://neurosciencenews.com/mantis-shrimp-robot-19301/",
-      "originalUrl": "https://neurosciencenews.com/mantis-shrimp-robot-19301/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://neurosciencenews.com/files/2021/09/mantis-shrimp-robot-neurosinces.jpg",
-          "width": 769,
-          "height": 825,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://neurosciencenews.com/mantis-shrimp-robot-19301/amp/",
-      "cdnAmpWebUrl": "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/mantis-shrimp-robot-19301/amp/",
-      "publishedDateTime": "2021-09-11T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neuroscience News",
-        "domain": "neurosciencenews.com",
         "images": null,
         "publishers": null,
         "authors": null
