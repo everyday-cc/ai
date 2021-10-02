@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/29/how-google-plans-to-improve-web-s
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/how-google-plans-to-improve-web-searches-with-multimodal-ai/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

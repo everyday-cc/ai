@@ -7,7 +7,7 @@ originalUrl: "https://www.radiologybusiness.com/topics/imaging-informatics/integ
 webUrl: "https://www.radiologybusiness.com/topics/imaging-informatics/integrating-ai-solution-clinical-practice"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -25,77 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President calls for AI solutions in agriculture, health, education"
-    excerpt: "Jaipur, Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to deliver benefits to the people and enhance ..."
-    publishedDateTime: 2021-09-29T11:35:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
+  - title: "A Practical Guide to Using Machine Learning for RBQM in a New Clinical Trial Landscape, Upcoming Webinar Hosted by Xtalks"
+    excerpt: "Artificial intelligence technology, including machine learning (ML), is an increasingly hot topic in clinical research, but there are still important questions to be answered when putting these systems into action."
+    publishedDateTime: 2021-09-28T12:57:00Z
+    webUrl: "https://www.lelezard.com/en/news-20018267.html"
     type: article
     provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 76
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 14
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-86606103,imgsize-21820,width-800,height-434,overlay-etcio/vice-president-calls-for-ai-solutions-in-agriculture-health-education.jpg"
-        width: 800
-        height: 434
-        isCached: true
-  - title: "Vice President Naidu calls for people-centric Artificial Intelligence solutions in agriculture, health, education sectors"
-    excerpt: "Vice President Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence AI to deliver benefits to"
-    publishedDateTime: 2021-09-29T16:24:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271353157/vice-president-naidu-calls-for-people-centric-artificial-intelligence-solutions-in-agriculture-health-education-sectors"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 44
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1632920594.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Vice President Naidu calls for people-centric AI solutions"
-    excerpt: "Vice President Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence AI to deliver benefits to"
-    publishedDateTime: 2021-09-29T01:27:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271345250/vice-president-naidu-calls-for-people-centric-ai-solutions"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1632878409.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Just how smart are trucking artificial intelligence solutions?"
-    excerpt: "The headline question is where my conversation with Nauto’s Chief Product Officer Yoav Banin ends up. As an artificial intelligence (A.I.) and computer vision provider, Nauto uses its algorithms to identify things like potential pedestrian collision,"
-    publishedDateTime: 2021-09-28T12:00:00Z
-    webUrl: "https://www.fleetequipmentmag.com/trucking-artificial-intelligence-solutions/"
-    type: article
-    provider:
-      name: Fleet Equipment Magazine
-      domain: fleetequipmentmag.com
-    quality: 37
-    images:
-      - url: "https://s18391.pcdn.co/wp-content/uploads/2021/09/nauto-1400-1000x563.jpg"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "Smart Agriculture Solutions Get Smarter"
-    excerpt: "Enabling the Connected Farm In today’s Smart Agriculture industry, it’s clear that all the major challenges in that space lead to IoT solutions. Advances"
-    publishedDateTime: 2021-10-01T14:21:00Z
-    webUrl: "https://circuitcellar.com/research-design-hub/tech-trends/smart-agriculture-solutions-get-smarter/"
-    type: article
-    provider:
-      name: Circuit Cellar
-      domain: circuitcellar.com
-    quality: 24
-    images:
-      - url: "https://i2.wp.com/circuitcellar.com/wp-content/uploads/2021/07/370_Jeff_TS_Figure_2.jpg?resize=447%2C216&#038;ssl=1"
-        width: 447
-        height: 216
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "Cs2MoFOmOL8AxHwQPco27c3t06Kml5eChPvOp5jjoyySBcDMgyOp1TTabPjaCCLirSrHKH840fawiDlHINGWTScnVWESTeDnzhHmqqERd6SW9jeF8imFl4f3kcKapcg1xkt+DRPhbI5tpstuiKHjXoHCA+TjaWFqIUsEpVRBy1P936zCOG26Fgu3F5Xrve1y7XHbRjFhggkkgdkbPTlPUTuydUPVYweUx0wvEiyWLZEEJTRfwBYCT7Iat6aS7dIkOA/5N7cSnBGjfQk86kvSzAUr6CF8L0f+IIxcOfrTv9bergVh7mqgs5aYtNiU50Gy9ocxs02XyruHEYobf5rPzHixBmfyxnSQzpYqEEUiVWgCbM21H14KPeNYj5KSkQcdtoGPkB4GAuK+DWEwXQz7KRiMdQ0jmm9kqJhmDIqzur2k1v6Z1XhAMLJyOBUNl8aMGbbhnwBpuACltV7D3zh0hRWb3lb3lWNjLFFHqXNY8jZTkHDcS9s2YaDLEA8XUvxq8R6S52lzvDlkUlOm59Gy+A==;rJBGQyep7+NgEWjiaLfiNw=="

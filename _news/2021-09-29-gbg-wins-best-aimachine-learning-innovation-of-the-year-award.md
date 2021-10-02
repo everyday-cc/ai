@@ -1,14 +1,14 @@
 ---
 category: news
 title: "GBG wins Best AI/Machine Learning Innovation of the Year award"
-excerpt: "Judges praise GBG's technology for reducing false positives and improving fraud detection  SINGAPORE – Media OutReach – 29 Septem"
+excerpt: "SINGAPORE - Media OutReach - 29 September 2021 - GBG (AIM:GBG), the global expert in digital identity, helping businesses prevent f"
 publishedDateTime: 2021-09-29T08:42:00Z
-originalUrl: "https://menafn.com/1102884008/GBG-wins-Best-AIMachine-Learning-Innovation-of-the-Year-award"
-webUrl: "https://menafn.com/1102884008/GBG-wins-Best-AIMachine-Learning-Innovation-of-the-Year-award"
+originalUrl: "https://menafn.com/1102883927/GBG-wins-Best-AIMachine-Learning-Innovation-of-the-Year-award"
+webUrl: "https://menafn.com/1102883927/GBG-wins-Best-AIMachine-Learning-Innovation-of-the-Year-award"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Middle East North Africa Financial Network
@@ -20,9 +20,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?957675"
-    width: 398
-    height: 250
+  - url: "https://menafn.com/updates/pr/2021-09/29/MOL_82acefbd-3_Image_In_Body.jpg"
+    width: 318
+    height: 213
     isCached: true
 
 related:
@@ -37,21 +37,7 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 56
-  - title: "Best AI and machine learning innovation: GBG"
-    excerpt: "In this area, machine learning can play a part in identifying and mapping out new patterns, tracking highly suspicious activities and known fraud better than a traditional rules-based engine. Dev Dhiman,"
-    publishedDateTime: 2021-09-29T03:15:00Z
-    webUrl: "https://www.risk.net/awards/7875601/best-ai-and-machine-learning-innovation-gbg"
-    type: article
-    provider:
-      name: Risk
-      domain: risk.net
-    quality: 54
-    images:
-      - url: "https://www.risk.net/sites/risk/files/styles/metatag_image/public/2021-09/GBG-Dev-Dhiman.gif?itok=6dd5ALUI"
-        width: 378
-        height: 234
-        isCached: true
 
-secured: "H7r9rhTmsd2kuT6rYlI191Egm/SWCYgzUsmxoocfg9JH9R+TVbokv60M6NNEjOXjETaQB8TSZtwW53nmicF8ddJ62so+5GIB3LrDg0IXtldH1+kcNXnHnRIYhar/FZIArhpJMQNm9H1QX/mJFjvx+OzKPfbl4Qxb5DGBwAJ/qj3BPUGXua4ORFjxTdfQCi8uogq6maV5DDRKD7/MdlVCvZFL3htptejdHhjZMsvcvqygHqcM4LuoO3FdfAuL0gNc0zu1b06u/mZgzOnvVca7dRFva2Mlyv/6TR5fzAdOOjUI9YAF4XBhDj0GMclG9LUJC4wlwQ3S2/O+OwSKR7N2ST5V7eSuumkhT/Ji+NOoLGs=;gWkZqGoLVZ2z4O+tLPw5Vg=="
+secured: "8/oLbRS1a2rDERW5CT4Ol6POq5YwHidWUQg46Ln2ZQhx88QGWsFZOP3NhqAj5YZmmAIt5STpW4+nZIqTAUzFrmGNPoW32TPsDHj2xd/Dajp/NSFpUjaYVygdgq+POs8dGOim0vMGmEVOjtg6GrDOoFANrUY2SWAD+d2Jpk9h71enExMVnxxK8YSTvv/08FTAb9Q7L9wuWX14Cnlp24O73wbk4ENoUpvRRoqDMcsZb/aXS8rGovLo/+qmj7f7eaH4SxPt29gybgvd6TgSbm229sJPKUdRLP7K0kPo9Og3NH/cJDzilVSyfCch9A5TYmcFO5+9u79hAMxdE3YkgfVJsYbgOxPsZ6qrYKvM7G9/sgY=;McuxrKpJvZwC7iveFRjUfA=="
 ---
 

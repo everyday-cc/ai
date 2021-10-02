@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/28/alexas-new-features-will-let-users
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/28/alexas-new-features-will-let-users-personalize-the-a-i-to-their-own-needs/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.popsci.com/uploads/2021/09/28/amazon-.jpeg"
         width: 2000
         height: 1059
+        isCached: true
+  - title: "Artificial intelligence to the rescue"
+    excerpt: "Washington State University will lead a consortium of institutions in the development of new artificial intelligence tools to help address problems in the agricultural field."
+    publishedDateTime: 2021-10-02T07:00:00Z
+    webUrl: "https://lmtribune.com/agriculture/artificial-intelligence-to-the-rescue/article_fd563974-9988-5012-85af-7310e61d0f18.html"
+    type: article
+    provider:
+      name: Lewiston Tribune
+      domain: lmtribune.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/lmtribune.com/content/tncms/assets/v3/editorial/7/3b/73b47508-662a-5d8e-a646-636971f74716/61523f24dd8d4.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
         isCached: true
 
 secured: "W3NxKMuc/VhNBCbPeoDLhpUxkSHJGsubS+tOysylQn1VO+E2B63BTgSiW8dVDDzUg4adMw6HHyrttktG4ELEGvNTg4XdU5P2VTzkHQvEZkCQYQc2yaB6WrUAWyvOharCzDPPLNwoaFA4YJ56cj8rFYssFtLQYhH2Nwx1E+n+oCWPLLbCLl+7Eso+1nC7sVToKLcJy3Is8gaWXLwwcyYFfw9ANosCp9qZshN7bR7gGH891vEwK2KqAMFl3xhqJerPghi3zLA1LXXPN1YysJ3mtVm+ZuB40kiLQQJglWxRC359GaJ9s3Xvy7E9KA0uB7sJaBnIrIiHEjgQiT18kzrt69+L9TItYm0h4xhx8zAFKxJ5VolJdxDxbNYhpc285nrZhieB/6Z5qialQ85TzPVxb4/lrPuRExxZW7LLnKQQN1U7Es3sWxW14z3Lx2sSkdUThl1xRWFZ91GpnndHZS4zdOW4SvvrOBmRWwqSCsZL5WKwgjgP589AaKLBhWtYjexRDbITIqqWEBJ4nuSx6b1vKw==;u12BgUL2Zhn8uIC4tsNBmQ=="

@@ -24,77 +24,77 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President calls for AI solutions in agriculture, health, education"
-    excerpt: "Jaipur, Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to deliver benefits to the people and enhance ..."
-    publishedDateTime: 2021-09-29T11:35:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
+  - title: "IQ-AI says new publication shows impact of Imaging Biometrics software solutions"
+    excerpt: "Neurosurgery Open published a study that suggested that IB Clinic should be routinely used to optimise surgical guidance and pathologic diagnosis"
+    publishedDateTime: 2021-10-01T11:43:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/961962/iq-ai-says-new-publication-shows-impact-of-imaging-biometrics-software-solutions-961962.html"
+    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/961962"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/961962"
     type: article
     provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 76
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 52
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-86606103,imgsize-21820,width-800,height-434,overlay-etcio/vice-president-calls-for-ai-solutions-in-agriculture-health-education.jpg"
-        width: 800
-        height: 434
-        isCached: true
-  - title: "Vice President Naidu calls for people-centric Artificial Intelligence solutions in agriculture, health, education sectors"
-    excerpt: "Vice President Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence AI to deliver benefits to"
-    publishedDateTime: 2021-09-29T16:24:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271353157/vice-president-naidu-calls-for-people-centric-artificial-intelligence-solutions-in-agriculture-health-education-sectors"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 44
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1632920594.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "6 steps for seamlessly integrating an artificial intelligence solution into daily clinical practice"
-    excerpt: "Imaging stakeholders have written plenty about the promise of artificial intelligence but not much on how to integrate AI solutions into daily clinical practice. Experts with University Hospitals are attempting to fill the void,"
-    publishedDateTime: 2021-09-28T20:31:00Z
-    webUrl: "https://www.radiologybusiness.com/topics/imaging-informatics/integrating-ai-solution-clinical-practice"
-    type: article
-    provider:
-      name: Radiology Business
-      domain: radiologybusiness.com
-    quality: 40
-    images:
-      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2020-11/web-4861605_1920_copy.jpg?h=e5aec6c8&itok=dFJso2e9"
+      - url: "https://www.proactiveinvestors.com//thumbs/upload/News/Image/2021_10/1200z740_1633080116_shutterstock_570241147-(1).jpg"
         width: 1200
-        height: 630
+        height: 740
         isCached: true
-  - title: "Vice President Naidu calls for people-centric AI solutions"
-    excerpt: "Vice President Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence AI to deliver benefits to"
-    publishedDateTime: 2021-09-29T01:27:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271345250/vice-president-naidu-calls-for-people-centric-ai-solutions"
+  - title: "NZ airport face biometrics trial deployed against Privacy Commissioner advice"
+    excerpt: "New Zealand Aviation Security Service started trials of a new face biometrics system at Wellington Airport despite open concerns from the Privacy Commissioner."
+    publishedDateTime: 2021-10-01T18:21:00Z
+    webUrl: "https://www.biometricupdate.com/202110/nz-airport-face-biometrics-trial-deployed-against-privacy-commissioner-advice"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
     images:
-      - url: "https://cdn.bignewsnetwork.com/ani1632878409.jpg"
-        width: 630
-        height: 420
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/13132346/airport-facial-recognition-masks.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Smart Agriculture Solutions Get Smarter"
-    excerpt: "Enabling the Connected Farm In today’s Smart Agriculture industry, it’s clear that all the major challenges in that space lead to IoT solutions. Advances"
-    publishedDateTime: 2021-10-01T14:21:00Z
-    webUrl: "https://circuitcellar.com/research-design-hub/tech-trends/smart-agriculture-solutions-get-smarter/"
+  - title: "Amazon unveils series of face and voice biometrics updates"
+    excerpt: "Amazon has a series of new updates focusing on the biometric capabilities of some of its hardware products, as well as on the company’s AWS marketplace."
+    publishedDateTime: 2021-09-29T19:17:00Z
+    webUrl: "https://www.biometricupdate.com/202109/amazon-unveils-series-of-face-and-voice-biometrics-updates"
     type: article
     provider:
-      name: Circuit Cellar
-      domain: circuitcellar.com
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 24
     images:
-      - url: "https://i2.wp.com/circuitcellar.com/wp-content/uploads/2021/07/370_Jeff_TS_Figure_2.jpg?resize=447%2C216&#038;ssl=1"
-        width: 447
-        height: 216
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/08/16125525/amazon.jpeg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Auraya launches voice biometrics for forensics, adds SaaS delivery model"
+    excerpt: "The new offering is the renamed third-generation of EVA Fraud Manager, which is now available through an SaaS delivery model."
+    publishedDateTime: 2021-09-29T19:50:00Z
+    webUrl: "https://www.biometricupdate.com/202109/auraya-launches-voice-biometrics-for-forensics-adds-saas-delivery-model"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 23
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
+        width: 900
+        height: 499
+        isCached: true
+  - title: "India’s new law enforcement face biometrics RFP tilts in favor of local vendors"
+    excerpt: "The system will analyze faces captured by CCTV cameras as well as social media accounts, passport photos, criminal records and newspapers."
+    publishedDateTime: 2021-09-29T18:48:00Z
+    webUrl: "https://www.biometricupdate.com/202109/indias-new-law-enforcement-face-biometrics-rfp-tilts-in-favor-of-local-vendors"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 20
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
         isCached: true
 
 secured: "yihfmpn3SLipH6z+RonYclLrgb/HTvodKXkgQMjofBuP+Uv6KYijMXK1y6JuVKibwAj/Didc1yJhhFluMTHSwqzajaEX7ZDe6vph8TZZ6wirqRNK8bg0aKyz1CJkORa4H6pnoG6SUwficuQ40cKOx7PRBaofKFUEcgW3bP3hjjHBX3kCO4clWGHuQ0tu8RMxFWtkisO3lalC1+iZWdbz2JMwZ/Rp1koIzqxXuuFt8UJtHyhkMBWiB77a5LlVjtzrC6ZW0tMkaQpoCPQKDe5KlL377L1ZysyCVNRntauFz5Uc/vCuV04q/mM9c1zEWzy/0hI9BR85YKf56K5/72fMwMdpWEkqZxQMefNoiH1BjnKXvwq7xObtjI22djloXUns9DuF0Nk7Tjm86oZ8YUsTauBbYF2AStUP5fMPFFP6qQQOu+P7bzFMU6ovXyeqPT66A7BMptn9hJG+1nRf0XnfhgSZhVK0Ma7Nr9jYA7Cpbn2fvttWi3zBU2b8rM2fLrsI11o+lSTGKuKah2JrGvIVZA==;K2Xn/x7CcLifaMXqMeaIDA=="

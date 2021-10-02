@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Qlik acquires Big Squid"
-excerpt: "Qlik announced the acquisition of Big Squid, a leading provider of no-code automated machine learning (AutoML), to expand data and analytics teams’ ability to"
-publishedDateTime: 2021-10-01T11:03:00Z
-originalUrl: "https://technuter.com/channel-news/qlik-acquires-big-squid.html"
-webUrl: "https://technuter.com/channel-news/qlik-acquires-big-squid.html"
+excerpt: "Data analytics and integration solutions company Qlik has acquired no-code automated machine learning (AutoML) provider Big Squid. Qlik announced the move as part of its move to expand its data ..."
+publishedDateTime: 2021-10-01T00:54:00Z
+originalUrl: "https://itwire.com/strategy/qlik-acquires-big-squid.html"
+webUrl: "https://itwire.com/strategy/qlik-acquires-big-squid.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: technuter.com
-  domain: technuter.com
+  name: ITWire
+  domain: itwire.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://technuter.com/wp-content/uploads/2020/05/Qlik.jpg"
-    width: 333
-    height: 285
+  - url: "https://itwire.com/media/k2/items/cache/c47dbbac9debca97d35c612a099c13a0_M.jpg"
+    width: 375
+    height: 339
     isCached: true
 
 related:
@@ -69,7 +69,21 @@ related:
         width: 1401
         height: 900
         isCached: true
+  - title: "Qlik Acquires No-Code AutoML Platform Big Squid"
+    excerpt: "Big Squid will further expand Qlik's existing SaaS roadmap and bring new AutoML augmented analytics capabilities."
+    publishedDateTime: 2021-10-02T06:20:00Z
+    webUrl: "https://analyticsindiamag.com/qlik-acquires-no-code-automl-platform-big-squid/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/09/aim_qlik-compressed.jpg"
+        width: 1280
+        height: 960
+        isCached: true
 
-secured: "vNC9+WBxZDNLpFXKaOhGnTALGF5zekF3g3x6ndme+oEz69lnfk1OsInH8nayOFaxAul3cSxqimJFSLKvZOl/UYeZsVy+uNjPtVa9Dbe5/NrqYHsG33xBPXXkY9p53NJwU2kTuPXzy9oFp0WJKXVregocFyxznvuM6OHLPpTA8GQhAAq4X8weTjfDf+TMAkN53DfjXiBXlRBRiZKfFpRQrchrzdsoYG53cTOnqOYRkB82WxAm/+hIm5slb6hzo1+fsWyNGI9uQaK6BUC4B55DAAiSfQGdiBb9KoFTg3dWQeSFiImgFh7wxSRwboAgx1Tjd3o8UV/VwxY40pDofbx7Q0j7+3QVUj974AUebxI0eydOfbwNK1kHbtn02zLtSkd7LjeZaEdPxvV+RUHZEuYbHmz+DzJS7H0AagLDWCX14O9DAcKk58m3WKLRHXJXG7TjKwAd/bjL9py9Ne7PtUJLama61ek3JNBvs6Mx5dd73db5zXXnRmlBVkji1NmP0K7wBYEziIAuOdRewCuqBXJM5Q==;6ftVhhAp8e0KWfjabMwQEw=="
+secured: "2if1RAVYC+6AD+G6lB8Cw+fp1AEimXjp2sKqWwZ9cclT0jMvH42TiK4h/mo1wOEat2vg+FckWZMaJJnBrXUc7kwPZo98C7WqUN614uP95WJWpRaD8dlsC9gO9GAIB75PBttzq/YBOIDqunwI4GhOp6Vh9w8NKzfycDjxq3qKZBosG9rEwnKUHEO3DWlet4VlsqD6YYEOXpqBZCEIS7mZsa+/WnI6DDEtXvyUYTVuG9kCfVtQ42I4AuQjWr4iK1oXsTytVwycjTS80m1U859GqwTB6WcxJRI7MLRVOiDp4IRpKAdPc+tSenJ5unhWq9cq/3/mwXBWMe0T0pepSX315lu4lSS3suFvJnPbIu5noEE=;lyEsp2uJ5zZ2Xi2xzW1Uzw=="
 ---
 

@@ -23,32 +23,18 @@ topics:
 
 related:
   - title: "GBG wins Best AI/Machine Learning Innovation of the Year award"
-    excerpt: "Judges praise GBG's technology for reducing false positives and improving fraud detection  SINGAPORE – Media OutReach – 29 Septem"
+    excerpt: "SINGAPORE - Media OutReach - 29 September 2021 - GBG (AIM:GBG), the global expert in digital identity, helping businesses prevent f"
     publishedDateTime: 2021-09-29T08:42:00Z
-    webUrl: "https://menafn.com/1102884008/GBG-wins-Best-AIMachine-Learning-Innovation-of-the-Year-award"
+    webUrl: "https://menafn.com/1102883927/GBG-wins-Best-AIMachine-Learning-Innovation-of-the-Year-award"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 56
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?957675"
-        width: 398
-        height: 250
-        isCached: true
-  - title: "Best AI and machine learning innovation: GBG"
-    excerpt: "In this area, machine learning can play a part in identifying and mapping out new patterns, tracking highly suspicious activities and known fraud better than a traditional rules-based engine. Dev Dhiman,"
-    publishedDateTime: 2021-09-29T03:15:00Z
-    webUrl: "https://www.risk.net/awards/7875601/best-ai-and-machine-learning-innovation-gbg"
-    type: article
-    provider:
-      name: Risk
-      domain: risk.net
-    quality: 54
-    images:
-      - url: "https://www.risk.net/sites/risk/files/styles/metatag_image/public/2021-09/GBG-Dev-Dhiman.gif?itok=6dd5ALUI"
-        width: 378
-        height: 234
+      - url: "https://menafn.com/updates/pr/2021-09/29/MOL_82acefbd-3_Image_In_Body.jpg"
+        width: 318
+        height: 213
         isCached: true
 
 secured: "Kybd0EbkhfbHxNWjub2DcLMtZUbBaSvT9h15N5wMjD85x94CMWb7gwUx/3/4IkLtAKuLonlH756mM4OBiKzG2TMNkfrHCd1g0Q+gXEiHF0kJAyquzZDViC01G7y9El8bVsZVMoD4DpHMoByy4URf+CV4NMw8/rmJnWxuu7w0KGXa7X9IyVUc68hzfum70altIrUS5z0pML+MK6K2fTEefVcn1UEr0SD3B8lEx1P6XHkBDoT+rBSbnTkCQQTrwAnASKqJKs6mUUcW1ANkzEHg/M2zbiBab6kHqcHSJzn+gShIW4yR9ciMfZXTMoDUp/WusTzp3vx54aPPyUjZbESA/nWAHzAPk6YGZmS4GIUG3yU=;45NgQlYVwiSc777DYNH/Ig=="

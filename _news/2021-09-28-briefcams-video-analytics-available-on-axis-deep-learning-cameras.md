@@ -55,34 +55,6 @@ related:
         width: 800
         height: 464
         isCached: true
-  - title: "BriefCam Introduces Video Analytics Enabled on Deep Learning Cameras from Axis Communications"
-    excerpt: "BriefCam, the industry’s leading provider of Video Content Analytics and VIDEO SYNOPSIS ® solutions, today announced availability for BriefCam Video Content Analytics on Axis deep learning cameras in December 2021."
-    publishedDateTime: 2021-09-27T13:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/business-technology-e8df96e3f75744caaf15f401d59e171c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Axis launches 8th generation ARTPEC system-on-chip powering deep-learning analytics on the edge"
-    excerpt: "Axis Communications announces the 8th generation of its custom-designed system-on-chip (SoC) made for network video. The ARTPEC-8 SoC was designed first and foremost to create new opportunities for impressive analytics applications based on deep learning on the edge."
-    publishedDateTime: 2021-09-27T13:46:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=537081"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 27
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "Datatron Awarded U.S. Patent for Methodology for Modeling Machine Learning and Analytics"
     excerpt: "Datatron has received a new U.S. patent for its methodology for modeling machine learning and analytics, the company announced today. This expands Datatron's patent portfolio for machine learning (ML) methods and technologies in a production environment,"
     publishedDateTime: 2021-09-28T12:06:00Z

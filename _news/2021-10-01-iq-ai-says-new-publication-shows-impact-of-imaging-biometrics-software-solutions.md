@@ -9,7 +9,7 @@ ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/961962"
 cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/961962"
 type: article
 quality: 52
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Just how smart are trucking artificial intelligence solutions?"
+    excerpt: "The headline question is where my conversation with Nauto’s Chief Product Officer Yoav Banin ends up. As an artificial intelligence (A.I.) and computer vision provider, Nauto uses its algorithms to identify things like potential pedestrian collision,"
+    publishedDateTime: 2021-09-28T12:00:00Z
+    webUrl: "https://www.fleetequipmentmag.com/trucking-artificial-intelligence-solutions/"
+    type: article
+    provider:
+      name: Fleet Equipment Magazine
+      domain: fleetequipmentmag.com
+    quality: 37
+    images:
+      - url: "https://s18391.pcdn.co/wp-content/uploads/2021/09/nauto-1400-1000x563.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "NZ airport face biometrics trial deployed against Privacy Commissioner advice"
     excerpt: "New Zealand Aviation Security Service started trials of a new face biometrics system at Wellington Airport despite open concerns from the Privacy Commissioner."
     publishedDateTime: 2021-10-01T18:21:00Z

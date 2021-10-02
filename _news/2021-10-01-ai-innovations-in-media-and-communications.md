@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 137
+published: true
 
 provider:
   name: Forbes
@@ -30,77 +30,77 @@ images:
     isCached: true
 
 related:
-  - title: "The limitations of AI safety tools"
-    excerpt: "Firms including OpenAI have developed safety tools to constrain AI decision-making. But there's a limit to what these tools can accomplish."
-    publishedDateTime: 2021-09-27T14:10:00Z
-    webUrl: "https://venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/"
-    ampWebUrl: "https://venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/amp/"
+  - title: "Vice President calls for AI solutions in agriculture, health, education"
+    excerpt: "Jaipur, Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to deliver benefits to the people and enhance ..."
+    publishedDateTime: 2021-09-29T11:35:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 76
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/self-driving-car.jpg?w=1200&strip=all"
-        width: 1200
-        height: 856
+      - url: "https://etimg.etb2bimg.com/thumb/msid-86606103,imgsize-21820,width-800,height-434,overlay-etcio/vice-president-calls-for-ai-solutions-in-agriculture-health-education.jpg"
+        width: 800
+        height: 434
         isCached: true
-  - title: "Kai-Fu Lee — The Future of Artificial Intelligence"
-    excerpt: "The extraordinary opportunities—and challenges—presented by artificial intelligence are at the heart of Kai-Fu Lee's new book, AI 2041: Ten Visions for Our Future, a \"scientific fiction\" that sketches 10 possible AI-driven futures that are within the realm of the scientifically possible."
-    publishedDateTime: 2021-10-02T05:47:00Z
-    webUrl: "https://www.hks.harvard.edu/events/kai-fu-lee-future-artificial-intelligence"
+  - title: "Best AI and machine learning innovation: GBG"
+    excerpt: "In this area, machine learning can play a part in identifying and mapping out new patterns, tracking highly suspicious activities and known fraud better than a traditional rules-based engine. Dev Dhiman,"
+    publishedDateTime: 2021-09-29T03:15:00Z
+    webUrl: "https://www.risk.net/awards/7875601/best-ai-and-machine-learning-innovation-gbg"
     type: article
     provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 52
+      name: Risk
+      domain: risk.net
+    quality: 54
     images:
-      - url: "https://www.hks.harvard.edu/sites/default/files/about_us/Twitter-Card.png"
-        width: 840
-        height: 450
+      - url: "https://www.risk.net/sites/risk/files/styles/metatag_image/public/2021-09/GBG-Dev-Dhiman.gif?itok=6dd5ALUI"
+        width: 378
+        height: 234
         isCached: true
-  - title: "Artificial Intelligence company EAIGLE rolls out a new proof of vaccination platform to give U.S. organizations greater health and safety protection"
-    excerpt: "PRNewswire/ - Artificial Intelligence (AI) company EAIGLE Inc., specializing in COVID-19 solution technologies, has"
-    publishedDateTime: 2021-09-28T13:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-company-eaigle-rolls-out-a-new-proof-of-vaccination-platform-to-give-u-s-organizations-greater-health-and-safety-protection-1030827609"
+  - title: "NASSCOM CoE-IoT and AI Evangelizes Digital Healthcare Solutions through Healthcare Innovation Challenge-2"
+    excerpt: "A grand finale event with the announcement of winners today marked the end of first phase and start of next phase focusing on deployment of solutions of Healt"
+    publishedDateTime: 2021-09-30T13:55:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271362699/nasscom-coe-iot-and-ai-evangelizes-digital-healthcare-solutions-through-healthcare-innovation-challenge-2"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1636849/EAIGLE_Artificial_Intelligence_company_EAIGLE_rolls_out_a_new_pr.jpg"
-        width: 400
-        height: 267
+      - url: "https://cdn.bignewsnetwork.com/ani1633009356.jpg"
+        width: 630
+        height: 420
         isCached: true
-  - title: "The Human Costs of AI"
-    excerpt: "In 2015 a cohort of well-known scientists and entrepreneurs including Stephen Hawking, Elon Musk, and Steve Wozniak issued a public letter urging"
-    publishedDateTime: 2021-09-30T02:23:00Z
-    webUrl: "https://www.nybooks.com/articles/2021/10/21/human-costs-artificial-intelligence/"
+  - title: "Social commerce innovation: Unilever unveils beauty startup collaboration platform"
+    excerpt: "Personal care major Unilever has launched a collaboration initiative to partner with forward-thinking beauty startups, scaleups and entrepreneurs specialised in social commerce to drive next-generation in-house innovation across its portfolio of brands."
+    publishedDateTime: 2021-09-30T11:22:00Z
+    webUrl: "https://www.cosmeticsdesign-europe.com/Article/2021/09/30/Unilever-opens-submissions-for-Positive-Beauty-Growth-startup-collaboration-platform"
     type: article
     provider:
-      name: The New York Review of Books
-      domain: nybooks.com
-    quality: 41
+      name: CosmeticsDesign-Euro
+      domain: cosmeticsdesign-europe.com
+    quality: 16
     images:
-      - url: "https://www.nybooks.com/wp-content/uploads/2021/09/halpern_1-102121crop.jpg"
-        width: 1790
-        height: 1194
+      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/cosmetics/cosmeticsdesign-europe.com/headlines/brand-innovation/unilever-opens-submissions-for-positive-beauty-growth-startup-collaboration-platform/12883807-1-eng-GB/Unilever-opens-submissions-for-Positive-Beauty-Growth-startup-collaboration-platform.jpg"
+        width: 724
+        height: 483
         isCached: true
-  - title: "COVID-19 and city safety: The power of AI"
-    excerpt: "A new report demonstrates how deep learning can provide an overview of the relative safety of cities during coronavirus."
-    publishedDateTime: 2021-09-28T19:13:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/covid-19-and-city-safety-the-power-of-ai/article"
+  - title: "Worldwide Mission Critical Communications Industry Report to 2026 - 5 Cases Studies Included"
+    excerpt: "The \"Mission Critical Communications Market by Enterprise, Industrial and Government Solutions 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. The market for mission critical communications is rapidly evolving as developing technologies supply solutions necessary to meet emerging demand for improved voice,"
+    publishedDateTime: 2021-09-30T19:42:00Z
+    webUrl: "https://menafn.com/1102895938/Worldwide-Mission-Critical-Communications-Industry-Report-to-2026-5-Cases-Studies-Included"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 13
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/India-vaccination-AFP-1K.jpg"
-        width: 1024
-        height: 682
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?280675"
+        width: 371
+        height: 250
         isCached: true
 
 secured: "aS1C1vgmCtmbnjYLnNeDvF1840PQdbOFxrmTf3cijYdE+hzjRMH38/Dgg34aFfXVafBS7XYg8YxIP4/Se4z1r0nkt7pVBtPBvxBH2qChvZrwCijpmoZOsBvxrtfolofU5z7zli9azNp2I2lIgkTV9c2QvJyPu3x67D+S7IKp6XbNTrP2esPPqIVOU6WUcK3ICdWzBvMMXLVO2O93GwCbRQLsXuE4TIntH6ccx7SpD9pd98fsoRd+0NCZ7JrFqVSvqdFSbU05cttreaDAh3Zfb43XQetyq4WS08pLQHyTOdZsVU+bWEp9lLh/g6pFWiwPWxOsAnTVDzOGY3/1Dm8F8Rw2PVBgUKLLQKlqJN/x+bWXV2myfUnEKOjXUGnZA8QkgapFuSJic6WeQmlouuMsjO8Rrci73oo09HSv9t97zJD/RWUa52uapEzUPLb+SILP3dQ/jVP2LFNGljGXiPdWzoHPei37TylMGA8Jrq1NbiA54rZrBPlHvpO2ljhuzog/zilzQebGt44ymr+4jO0IwQ==;hgdFtDX8aV3YlWgWafqVYQ=="

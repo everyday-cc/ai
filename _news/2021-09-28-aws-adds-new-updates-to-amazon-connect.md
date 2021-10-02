@@ -33,15 +33,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "AWS Shares New Business Momentum Milestones and Announces Three New Capabilities for Amazon Connect"
-    excerpt: "AWS Shares New Momentum Milestones and Announces Three New Capabilities for Amazon Connect. Tens of thousands of AWS customers now using Amazon Connect to support more th"
-    publishedDateTime: 2021-09-27T15:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210927005388/aws-shares-new-business-momentum-milestones-and-announces-three-new-capabilities-for-amazon-connect"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 5
 
 secured: "KRtUbySvY0oNhfxDW8w/hID3YtgsGl07Yg2h04EYO8W0b0q6J0plptqc1S28BBf1pDcZfGtRmNb0vIayT+65fHUmfNbKXSe4dWPimQ9x9e1Ahvk9FJPW2FhlQuKDV3go3xDVE/8bitSn/On9FZ15GO/cYEVmbzdLxsbecTd3Skwd4uIetpL1+pnU9zwWZFjb1h4qATUvNw/LudH0p3rzp1hhvGCYa+a2H9ZOAWoBpoj2qItbKm2cmBMq9s1+qzF+75YS7ItK80Kkmtraq64IobIu5zqMDYUWS3D/x3KaXAzp365E8UNVEfLQ9qd9PIwWWidYToCTFpJTLr19udDz1pkceoWm+OgK0zR3Kba6YHMgLdYr89rA9vR2TV/pMD9cE1PNX/iYewKEOWvoxGiLNu4t+Km9UM92qgMn07YoWw+ygAY1esCKa9IJ/pW8/VbmOUNihuaX1t+qZOslssvKvPwrJXsWjZhYrTXOrzNGNX4zvAXVAqzw4N83a3oerJr0mKuIsw3Wv2BlZVAWbNvQnA==;lAALFdV4g1PQffWnCXsDGQ=="
 ---

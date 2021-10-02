@@ -9,7 +9,7 @@ ampWebUrl: "https://mynorthwest.com/3168047/israeli-pm-denounces-iran-ignores-pa
 cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3168047/israeli-pm-denounces-iran-ignores-palestinians-in-un-speech/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Israeli PM denounces Iran, ignores Palestinians in UN speech"
-    excerpt: "In his maiden speech to Naftali Bennett made no mention of Israel's decadeslong conflict with the Palestinians and instead sought to portray Iran as a menace to global security. “Iran’s nuclear program has hit a watershed moment,"
-    publishedDateTime: 2021-09-27T14:49:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/israeli-pm-denounces-iran-ignores-palestinians-speech-80258399"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/israeli-pm-denounces-iran-ignores-palestinians-speech-80258399"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/israeli-pm-denounces-iran-ignores-palestinians-speech-80258399"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 44
-    images:
-      - url: "https://s.abcnews.com/images/US/WireAP_1f1f152ce0f34b25be32f76c19988f96_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Bennett Denounces Iran, Ignores Palestinians in U.N. Speech"
     excerpt: "Naftali Bennett, Israel’s new prime minister, appealed to the international community Monday to stand together against Iran, accusing Tehran of marching"
     publishedDateTime: 2021-09-27T18:23:00Z

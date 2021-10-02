@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 740
         isCached: true
+  - title: "Just how smart are trucking artificial intelligence solutions?"
+    excerpt: "The headline question is where my conversation with Nauto’s Chief Product Officer Yoav Banin ends up. As an artificial intelligence (A.I.) and computer vision provider, Nauto uses its algorithms to identify things like potential pedestrian collision,"
+    publishedDateTime: 2021-09-28T12:00:00Z
+    webUrl: "https://www.fleetequipmentmag.com/trucking-artificial-intelligence-solutions/"
+    type: article
+    provider:
+      name: Fleet Equipment Magazine
+      domain: fleetequipmentmag.com
+    quality: 37
+    images:
+      - url: "https://s18391.pcdn.co/wp-content/uploads/2021/09/nauto-1400-1000x563.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Amazon unveils series of face and voice biometrics updates"
     excerpt: "Amazon has a series of new updates focusing on the biometric capabilities of some of its hardware products, as well as on the company’s AWS marketplace."
     publishedDateTime: 2021-09-29T19:17:00Z

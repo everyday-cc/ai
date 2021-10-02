@@ -34,15 +34,6 @@ related:
       name: ITWire
       domain: itwire.com
     quality: 19
-  - title: "AWS Shares New Business Momentum Milestones and Announces Three New Capabilities for Amazon Connect"
-    excerpt: "AWS Shares New Momentum Milestones and Announces Three New Capabilities for Amazon Connect. Tens of thousands of AWS customers now using Amazon Connect to support more th"
-    publishedDateTime: 2021-09-27T15:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210927005388/aws-shares-new-business-momentum-milestones-and-announces-three-new-capabilities-for-amazon-connect"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 5
 
 secured: "95ii96R8jIS7Q2xhYRnzPeIqeAeAPcETwmO746Psrh1nmAhmcCEcvNi4fdEJSkqHDsCf20R+P37Athl5KX+ZIhzJQw8E5IRXqIT6WQSHv85jctroXZoVYBhN4jjBFBzKvBcFZPu5JReVPtPqnVOq624e6I4dzwHTTLDBb023owtXVzbLZ58dOCsfU1z0VSQ1YKGuI5ppBCuXotv7pXawBxqFu5d0NM4JLsikttgzLgBhaEvpClsqC+9LeULlAD3IeraQozNvieBYNOTitgS7V238ZGL0axakrJ/NwTYb1jPi0lZPJHXJNyBBnxHt/2fFb6zYUnDNFuRhpB6MvcemFNd1z4IeyGxkwKE0TVjXMus=;LEz0qZqAdjzY5G45RoAH7w=="
 ---

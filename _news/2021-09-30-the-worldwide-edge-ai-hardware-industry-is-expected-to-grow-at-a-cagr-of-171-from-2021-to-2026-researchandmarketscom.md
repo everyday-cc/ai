@@ -39,20 +39,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Worldwide Mission Critical Communications Industry Report to 2026 - 5 Cases Studies Included"
-    excerpt: "The \"Mission Critical Communications Market by Enterprise, Industrial and Government Solutions 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. The market for mission critical communications is rapidly evolving as developing technologies supply solutions necessary to meet emerging demand for improved voice,"
-    publishedDateTime: 2021-09-30T19:42:00Z
-    webUrl: "https://menafn.com/1102895938/Worldwide-Mission-Critical-Communications-Industry-Report-to-2026-5-Cases-Studies-Included"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 13
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?280675"
-        width: 371
-        height: 250
-        isCached: true
 
 secured: "3tYJibBF/i45ZyOXrWCWzWq6WXuaGZBUfj+HJHn0FUGPSAXnwjnGCu3HKWMWE2Od0og8N8G9pMh42JNKR9nt2QENX0p+gvOLHA8VdD+fHbqkuf6bairk+JpfixsDgBJYVwJEWTT7iBD8gSSlUZBXFCWxSD0nBS6aILf8miPQw8jT/IYmifqFD5R06NyyMaKE+Mh+1VTc0eo4CE0mAL/LCBM/wHLPN65TmVEetZtogLJBSTizzlH/JyUBBN5JupdV+Ew0Ri7hhnp1Iin1MEC6RHfCjhRQEopimln6URN0qH1ulN6aAX34wNbDuRddlEevKqi5/qb62purvpwPDtYDIhKxP3U1+avpdeMDGUQMSC4=;At2uKze8OjCMusraGEtEHQ=="
 ---

@@ -26,79 +26,67 @@ images:
     isCached: true
 
 related:
-  - title: "The limitations of AI safety tools"
-    excerpt: "Firms including OpenAI have developed safety tools to constrain AI decision-making. But there's a limit to what these tools can accomplish."
-    publishedDateTime: 2021-09-27T14:10:00Z
-    webUrl: "https://venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/"
-    ampWebUrl: "https://venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/amp/"
+  - title: "Samsung Wants To Make An AI Chip That Mimics The Human Brain"
+    excerpt: "Samsung, together with researchers from Harvard University, have published a paper that puts forth their idea of making neuromorphic chips, semiconductor technology that mimics the human brain by \"copying and pasting\"."
+    publishedDateTime: 2021-09-28T00:40:00Z
+    webUrl: "https://www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/"
+    ampWebUrl: "https://www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/amp/"
+    cdnAmpWebUrl: "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: Lowyat.net
+      domain: lowyat.net
+    quality: 74
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/self-driving-car.jpg?w=1200&strip=all"
-        width: 1200
-        height: 856
+      - url: "https://www.lowyat.net/wp-content/uploads/2021/09/Brain-computer-network.jpg"
+        width: 1040
+        height: 693
         isCached: true
-  - title: "AI Innovations In Media And Communications"
-    excerpt: "My last blog discussed AI innovations in the health care sector, and this one will share a few perspectives of new developments in the Media and Communications Industry."
-    publishedDateTime: 2021-09-30T17:19:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/amp/"
+  - title: "Scientists want to ‘copy and paste’ the human brain onto a computer chip"
+    excerpt: "Researchers from Samsung and Harvard University have proposed \"copying and pasting\" the brain onto memory networks to build smarter computer chips."
+    publishedDateTime: 2021-09-27T19:23:00Z
+    webUrl: "https://thenextweb.com/news/samsung-harvard-scientists-want-copy-and-paste-brain-onto-computer-chips"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 63
+  - title: "Samsung to “copy paste” the brain onto 3D chips – a precursor to human-like AI?"
+    excerpt: "By borrowing existing brain structures, the tech firm has proposed a method that would \"copy and paste\" a brain's neuron wiring map to 3D chips."
+    publishedDateTime: 2021-09-29T12:30:00Z
+    webUrl: "https://techhq.com/2021/09/samsung-to-copy-paste-the-brain-onto-3d-chips-a-precursor-to-human-like-ai/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 50
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155ef71088eada6a8f3c806%2F0x0.jpg"
-        width: 1200
-        height: 675
+      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/09/000_1MF9O7-scaled.jpg"
+        width: 2560
+        height: 1703
         isCached: true
-  - title: "Kai-Fu Lee — The Future of Artificial Intelligence"
-    excerpt: "The extraordinary opportunities—and challenges—presented by artificial intelligence are at the heart of Kai-Fu Lee's new book, AI 2041: Ten Visions for Our Future, a \"scientific fiction\" that sketches 10 possible AI-driven futures that are within the realm of the scientifically possible."
-    publishedDateTime: 2021-10-02T05:47:00Z
-    webUrl: "https://www.hks.harvard.edu/events/kai-fu-lee-future-artificial-intelligence"
+  - title: "Neural network mimics the human brain to solve complex problems"
+    excerpt: "Researchers at , USA, have developed a new computer system that mimics the way the human brain works, with an information processing capacity of up to one mil"
+    publishedDateTime: 2021-09-27T19:10:00Z
+    webUrl: "https://www.clarepeople.com/4614-neural-network-mimics-the-human-brain-to-solve-complex-problems/"
     type: article
     provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 52
-    images:
-      - url: "https://www.hks.harvard.edu/sites/default/files/about_us/Twitter-Card.png"
-        width: 840
-        height: 450
-        isCached: true
-  - title: "Artificial Intelligence company EAIGLE rolls out a new proof of vaccination platform to give U.S. organizations greater health and safety protection"
-    excerpt: "PRNewswire/ - Artificial Intelligence (AI) company EAIGLE Inc., specializing in COVID-19 solution technologies, has"
-    publishedDateTime: 2021-09-28T13:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-company-eaigle-rolls-out-a-new-proof-of-vaccination-platform-to-give-u-s-organizations-greater-health-and-safety-protection-1030827609"
+      name: The Clare People
+      domain: clarepeople.com
+    quality: 34
+  - title: "Samsung has come up with a way to copy the human brain. How will artificial intelligence change the technology of the future?"
+    excerpt: "Monitoring Desk Samsung described the ability to copy the brain At the end of September, the specialists of the Korean company, together with scientists from Harvard University, presented the concept of imitating the human brain using semiconductor chips."
+    publishedDateTime: 2021-09-29T13:34:00Z
+    webUrl: "https://thefrontierpost.com/samsung-has-come-up-with-a-way-to-copy-the-human-brain-how-will-artificial-intelligence-change-the-technology-of-the-future/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
+      name: The Frontier Post
+      domain: thefrontierpost.com
+    quality: 25
     images:
-      - url: "https://mma.prnewswire.com/media/1636849/EAIGLE_Artificial_Intelligence_company_EAIGLE_rolls_out_a_new_pr.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "COVID-19 and city safety: The power of AI"
-    excerpt: "A new report demonstrates how deep learning can provide an overview of the relative safety of cities during coronavirus."
-    publishedDateTime: 2021-09-28T19:13:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/covid-19-and-city-safety-the-power-of-ai/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/India-vaccination-AFP-1K.jpg"
-        width: 1024
-        height: 682
+      - url: "https://i0.wp.com/thefrontierpost.com/wp-content/uploads/2021/09/Samsung-has-come-up-with.jpg?fit=700%2C600&#038;ssl=1"
+        width: 700
+        height: 600
         isCached: true
 
 secured: "czPZRpRd31IQrAIkGEmwS03uO1NCvogz2FPz+7/xla72ammIAAcaTcwXX4Bwo3Ez892TSG1/cofjpXdEAFQ70byg1zDEO5BRn6gZ9Jk77GM3wIRhOWqSScSXxTppT+KObFFUArPdVK2v2A8d6iQUMeX9FFdAfbxXO6Id/y55WfxBx/7AQ2cVV7cqSV4OP/NDEXZZoN/FHhrJGWV+3ZKZWyPdZJgnzgluEKiXwO73cn7qzzzi0HY7fuEFbm6TixcGHk2SO7uWjATGcAfbK4F7HfzSRrLn8iGyJPNOJtp4es1q88lddlD3536OS4MvWUlNtH+gPrCWkgx8Tf3xHMDPLlog+BtHOnbXfzU5faziB+xRxafPivg4V/qLcxu62VcV5IJffpT23DKNk1LkgNtgGrELwjdXNTLxbIyZJMgTaPKsQ5fHOLiEnR+dc1Ir0/0IAWBWdnu8xqhXQkTJXUFWF4IOm7G3PuvgT8VBAx64qCauNxEmDlvRqjg6L207oENq8WeSPPAt4+C7CANFekP8rQ==;IPB19yxrJBQtouQZeWljHg=="

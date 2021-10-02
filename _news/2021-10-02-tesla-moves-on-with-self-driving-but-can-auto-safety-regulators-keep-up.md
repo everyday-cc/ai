@@ -316,20 +316,6 @@ related:
         width: 960
         height: 480
         isCached: true
-  - title: "Tesla owners: You can now request the Full Self-Driving beta test but you better be a good driver"
-    excerpt: "With Tesla’s Full Self-Driving feature continuing to receive updates, it was announced recently that the company would begin rolling out requests for the FSD beta. According to The Washington Post, this means that drivers can now upgrade their cars to the FSD versions by requesting the feature."
-    publishedDateTime: 2021-09-27T13:14:00Z
-    webUrl: "https://knowtechie.com/tesla-owners-you-can-now-request-the-full-self-driving-beta-test-but-you-better-be-a-good-driver/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 26
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2020/09/tesla-hw2-autopilot-promo-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Tesla Has NDA-Signing Fans Out Testing Its Self-Driving Cars"
     excerpt: "Instead of deploying trained safety drivers, the electric car maker reportedly has YouTube fans driving around to determine if its new driverless software is safe."
     publishedDateTime: 2021-09-27T15:22:00Z

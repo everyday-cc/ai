@@ -63,6 +63,20 @@ related:
         width: 2560
         height: 1703
         isCached: true
+  - title: "The Human Costs of AI"
+    excerpt: "In 2015 a cohort of well-known scientists and entrepreneurs including Stephen Hawking, Elon Musk, and Steve Wozniak issued a public letter urging"
+    publishedDateTime: 2021-09-30T02:23:00Z
+    webUrl: "https://www.nybooks.com/articles/2021/10/21/human-costs-artificial-intelligence/"
+    type: article
+    provider:
+      name: The New York Review of Books
+      domain: nybooks.com
+    quality: 41
+    images:
+      - url: "https://www.nybooks.com/wp-content/uploads/2021/09/halpern_1-102121crop.jpg"
+        width: 1790
+        height: 1194
+        isCached: true
   - title: "Neural network mimics the human brain to solve complex problems"
     excerpt: "Researchers at , USA, have developed a new computer system that mimics the way the human brain works, with an information processing capacity of up to one mil"
     publishedDateTime: 2021-09-27T19:10:00Z
