@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1633009356.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "The Scope of Artificial intelligence in India"
+    excerpt: "Artificial intelligence (AI) has transformed the world of technology. This is the reason why AI investment is increasing. Keep reading to learn about what is the current situation of our country as far as AI is concerned,"
+    publishedDateTime: 2021-10-02T08:30:00Z
+    webUrl: "https://www.analyticsinsight.net/the-scope-of-artificial-intelligence-in-india/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/The-Scope-of-Artificial-intelligence-in-India.jpg"
+        width: 900
+        height: 500
         isCached: true
   - title: "Social commerce innovation: Unilever unveils beauty startup collaboration platform"
     excerpt: "Personal care major Unilever has launched a collaboration initiative to partner with forward-thinking beauty startups, scaleups and entrepreneurs specialised in social commerce to drive next-generation in-house innovation across its portfolio of brands."

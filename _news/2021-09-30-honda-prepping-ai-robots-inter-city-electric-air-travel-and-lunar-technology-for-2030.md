@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/honda-prepping-ai-robots-in
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/"
 type: article
 quality: 79
-heat: 89
+heat: 90
 published: true
 
 provider:

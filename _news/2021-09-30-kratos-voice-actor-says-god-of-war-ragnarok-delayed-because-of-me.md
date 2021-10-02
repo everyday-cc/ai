@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/9/30/22702435/kratos-voic
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/9/30/22702435/kratos-voice-actor-behind-sony-god-of-war-ragnarok-delay-ps5"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

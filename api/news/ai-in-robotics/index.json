@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/01/nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/01/ai-weekly-amazons-custom-ai-features-showcase-the-potential-of-unsupervised-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -490,6 +490,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-30-soft-robotics-moves-into-ai.md",
+      "title": "Soft Robotics Moves into AI",
+      "excerpt": "Exclusive - Technologies from Soft Robotics are on display across the show floor on robotic systems at BCA (Booth SU-7155/7156), Fanuc (Booth C-1441), Harpak-Ulma (Boot",
+      "sourceUrl": null,
+      "webUrl": "https://www.packworld.com/PACKEXPO/article/21735125/soft-robotics-moves-into-ai",
+      "originalUrl": "https://www.packworld.com/PACKEXPO/article/21735125/soft-robotics-moves-into-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.packworld.com/files/base/pmmi/all/image/2021/09/Soft_Robotics.614bb12ec3cc1.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 443,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-29T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Packaging World",
+        "domain": "packworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-graymatter-robotics-raises-41m-seed-round.md",
       "title": "GrayMatter Robotics Raises $4.1M Seed Round",
       "excerpt": "GrayMatter Robotics, creator of smart robotic assistants that help humans more safely and effectively do surface treatment tasks such as sanding and spraying",
@@ -541,7 +584,7 @@
       "originalUrl": "https://www.businessinsider.com/amazon-astro-robot-may-fall-down-stairs-report-says-2021-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1410,50 +1453,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-opinion-how-artificial-intelligence-could-save-your-life.md",
-      "title": "Opinion: How artificial intelligence could save your life",
-      "excerpt": "Machine intelligence implies serious consequences for human life, with mass unemployment being just one example. And yet, the transformative power of AI might actually save people’s lives. AI aims to simulate the human mind’s ability to learn,",
-      "sourceUrl": null,
-      "webUrl": "https://montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life",
-      "originalUrl": "https://montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.prod.postmedia.digital/montrealgazette/wp-content/uploads/2021/09/afp_1qa2a5.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life/wcm/5f1cb3c0-543d-4e66-a770-f4122faac455/amp/",
-      "cdnAmpWebUrl": "https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life/wcm/5f1cb3c0-543d-4e66-a770-f4122faac455/amp/",
-      "publishedDateTime": "2021-09-23T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Montreal News",
-        "domain": "montrealgazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

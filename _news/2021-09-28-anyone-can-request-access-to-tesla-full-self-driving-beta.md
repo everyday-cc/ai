@@ -179,22 +179,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Tesla expands ‘full self-driving’ tests, bucking the feds’ safety concerns"
-    excerpt: "Tesla drivers can now use a “request” button on their vehicle’s screen to apply to join a beta test for the full self-driving feature, Elon Musk confirmed."
-    publishedDateTime: 2021-09-27T15:35:00Z
-    webUrl: "https://nypost.com/2021/09/27/tesla-expands-full-self-driving-tests-bucking-feds-concerns/"
-    ampWebUrl: "https://nypost.com/2021/09/27/tesla-expands-full-self-driving-tests-bucking-feds-concerns/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/27/tesla-expands-full-self-driving-tests-bucking-feds-concerns/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 57
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/tesla-69.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Tesla's 'full self-driving' feature could be days away for approved drivers"
     excerpt: "A wider group of Tesla owners who paid up to $10,000 for what the company calls its \"full self-driving\" software can now ask the automaker for access to a test"
     publishedDateTime: 2021-09-29T00:30:00Z
@@ -324,15 +308,6 @@ related:
         width: 960
         height: 480
         isCached: true
-  - title: "Tesla Has NDA-Signing Fans Out Testing Its Self-Driving Cars"
-    excerpt: "Instead of deploying trained safety drivers, the electric car maker reportedly has YouTube fans driving around to determine if its new driverless software is safe."
-    publishedDateTime: 2021-09-27T15:22:00Z
-    webUrl: "https://www.thedailybeast.com/tesla-has-nda-signing-fans-out-on-americas-streets-testing-its-self-driving-car-software-vice-reports"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 19
 
 secured: "9FMyabftefeUoL92DDAwpN2hKAleb8RsRUdAQ41m00g0YNbRfPsV7+l965LGg3k6beOpfUvhJXlVXkNY8oL3au+VYBV6Nz3q5GlMflrtsZAoa3B6bYWh5Jh6T/l+AXrZegUB4xbg+Ei5prryCyx/ZdPyQ4omOWmFoxd3so0n5kZ5mBB68MVKrGqG7U36krRFwABvADovCJjBntHTXChTGDaPbJXscnV+V4d7/U1JjYKpVR+/UGpldrAd51CKZv1aDQDafmXOL24hy5xeXRX92nyuh7umuZPNbpeBKVcHNRvH+RZzliAgVX3AuxqCpCug/DnSgrqlhL+Y6RM+Wmt63CJWqSpYmjECXj+HLJeYB1emrKf/lXJkbj80c8fii+s6yZHbPz14L8ePvpCjopcffp+is9hXRvZCAZ/dyqx/7sucAA1CqxWjk+xDFsfpIbeoD8CR44I+6S9Mrys61hSBs6yAuJYX/U8jzKXxBboHRj2hIUM+oMUcAyTXuGjeGM1BWeYFTEz8lVBb0CYJyoeV6w==;xJSKKsk7ztuPC+lrZkJ94A=="
 ---

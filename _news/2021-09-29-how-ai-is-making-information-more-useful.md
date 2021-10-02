@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/products/search/how-ai-making-information-more
 webUrl: "https://blog.google/products/search/how-ai-making-information-more-useful/"
 type: article
 quality: 89
-heat: 151
+heat: 149
 published: true
 
 provider:

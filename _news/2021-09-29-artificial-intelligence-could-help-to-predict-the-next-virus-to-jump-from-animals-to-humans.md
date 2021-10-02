@@ -65,6 +65,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI May Predict the Next High-Risk Virus To Jump From Animals to Humans"
+    excerpt: "Most emerging infectious diseases of humans (like COVID-19) are zoonotic – caused by viruses originating from other animal species. Identifying high-risk viruses earlier can improve research and surveillance priorities."
+    publishedDateTime: 2021-10-02T07:58:00Z
+    webUrl: "https://scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/"
+    ampWebUrl: "https://scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 57
+    images:
+      - url: "https://scitechdaily.com/images/Bats-Caught-During-Zoonotic-Virus-Surveillance-777x583.jpg"
+        width: 777
+        height: 583
+        isCached: true
   - title: "AI could help scientists ID the next virus to jump from animals to humans"
     excerpt: "In a new proof-of-concept study, published Tuesday in the journal PLOS Biology, researchers suggest artificial intelligence can be used to predict the likelihood that an animal-infecting virus will infect humans."
     publishedDateTime: 2021-09-28T20:53:00Z

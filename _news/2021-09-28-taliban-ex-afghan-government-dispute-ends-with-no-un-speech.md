@@ -39,34 +39,6 @@ related:
         width: 700
         height: 368
         isCached: true
-  - title: "Taliban, ex-Afghan government dispute ends with no UN speech"
-    excerpt: "The dispute between Afghanistan’s new Taliban rulers and its former government over who should speak at the United Nations' annual meeting of world leaders finally has an answer: no one."
-    publishedDateTime: 2021-09-27T15:26:00Z
-    webUrl: "https://apnews.com/article/united-nations-general-assembly-afghanistan-united-nations-taliban-90837664228c6cd964432655135e33ea"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/9798c56be6964882a11e959407064d87/2000.jpeg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Beijing Cautiously Backs Taliban's Hopes Of International Recognition In Afghanistan"
-    excerpt: "China has emerged as a pragmatic backer of the Taliban’s nascent rule and pushing to get the group more political and economic support."
-    publishedDateTime: 2021-09-27T16:31:00Z
-    webUrl: "https://gandhara.rferl.org/a/china-taliban-support/31480715.html"
-    type: article
-    provider:
-      name: Radio Free Europe/Radio Liberty
-      domain: rferl.org
-    quality: 17
-    images:
-      - url: "https://gdb.rferl.org/b6c7d6f9-176a-4c14-9790-f061ec738dcf_cx0_cy10_cw0_w1200_r1.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "vQKx9qTgrVMb74LEFWw4rpiH0FOcGXioEBt1e1liqJ3lmf9rodKb6XvHuSgSZo6mDAgwzGisMKySXBO+avjanidhKPrHDuxrQUYYiqsQ2mM4GVm27WC9a2lumGSSY1czmzZIzevcP3ZsGjdjUZu53WhPSvIUM3LvEbejcGTJIrNaptmEl2Hp9t3XPnmIzVRBQ4A56tl7RkbJpCuj/JNrLKktjjWWZ9WoQqer1XHrcqIeTTRiXD/A+d4YIrnFmnnfitXbZa8n8vvLKzb3LA4bGJyK/UpdoExSPG95tQXnBN0RIxKaRSXUfHzEOOT9HgJBb0LAuO5Oc8GE53YYFOLoE4dzlN8L9LJLqSkLi9Pl4GA=;TZGl67l5K00MOWriZCzq3w=="
 ---

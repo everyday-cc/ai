@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Marketing
+  - AI in Autos
 
 images:
   - url: "https://www.reuters.com/resizer/auU-eGYlMXaI82GhWXiVQXOg6iA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C3KTSLO2ZRNVLMJPKCCNHB4N44.jpg"

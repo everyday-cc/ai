@@ -50,20 +50,6 @@ related:
         width: 2560
         height: 1704
         isCached: true
-  - title: "SSE Renewables uses Microsoft AI to improve conservation efforts"
-    excerpt: "Wind farm operator SSE Renewables is trialling a new way to count puffins on the Isle of May, Scotland, using artificial intelligence (AI), machine learning and image recognition technology. The project,"
-    publishedDateTime: 2021-09-27T16:09:00Z
-    webUrl: "https://www.technologyrecord.com/Article/sse-renewables-uses-microsoft-ai-to-improve-conservation-efforts-125974"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 54
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10516/img-Microsoft_SSE-Renewables_puffins_web.jpg"
-        width: 940
-        height: 443
-        isCached: true
   - title: "Augmented Intelligence Market is Going to Boom with Microsoft, Google, AWS"
     excerpt: "A Latest intelligence report published by AMA Research with title \"Augmented Intelligence Market Outlook to 2026. A detailed study accumulated to offer Latest insights about acute features of the Global Augmented Intelligence Market."
     publishedDateTime: 2021-09-28T20:12:00Z

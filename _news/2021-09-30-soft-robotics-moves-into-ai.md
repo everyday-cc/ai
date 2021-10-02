@@ -7,8 +7,8 @@ originalUrl: "https://www.packworld.com/PACKEXPO/article/21735125/soft-robotics-
 webUrl: "https://www.packworld.com/PACKEXPO/article/21735125/soft-robotics-moves-into-ai"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Packaging World
@@ -25,52 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Are AI and Robotics Good Investments?"
-    excerpt: "It is expected that the robotics market will grow by over $150 billion US dollars by 2025, and that is not only down to growth in commercial use, but it is also anticipated that robotics will become a more integral part of our everyday lives."
-    publishedDateTime: 2021-09-27T15:20:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-robotics-good-investments-james-sanders"
+  - title: "SMEs fear to be left behind in the move towards AI"
+    excerpt: "As more and more organizations are implementing artificial intelligence (AI) and automation, there are still concerns over Small and Mediums-sized Enterprises (SMEs) getting left behind. Indeed, according to a study by Opinuim,"
+    publishedDateTime: 2021-09-29T09:48:00Z
+    webUrl: "https://www.softwaretestingnews.co.uk/smes-fear-to-be-left-behind-in-the-move-towards-ai/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 69
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQH77ghKDP70-w/article-cover_image-shrink_600_2000/0/1632755863578?e=1638403200&v=beta&t=A58t5OOMkAvh-TmlkABJ27muW8H8czOLBQc8y627e_s"
-        width: 739
-        height: 489
-        isCached: true
-  - title: "BGV Raises $110M to focus on Enterprise AI and Cross-Border Investments"
-    excerpt: "Silicon Valley-based venture capital (VC) firm Benhamou Global Ventures (BGV), which invests in Enterprise 4.0 companies globally, today announced its fourth fund, closing at $110M, 60% larger than its third fund."
-    publishedDateTime: 2021-09-30T15:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/bgv-raises-110m-to-focus-on-enterprise-ai-and-cross-border-investments-1030834672"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "Tech leaders plan large AI investment, but adoption woes remain"
-    excerpt: "Four in 10 technology decision-makers say emerging AI applications are still under development, a Gartner survey found."
-    publishedDateTime: 2021-09-29T07:47:00Z
-    webUrl: "https://www.ciodive.com/news/AI-budgets-2022-gartner/607320/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
+      name: softwaretestingnews.co.uk
+      domain: softwaretestingnews.co.uk
     quality: 37
     images:
-      - url: "https://www.ciodive.com/user_media/cache/9a/ea/9aea78894e609e11cd5d472cbea4d079.jpg"
-        width: 770
-        height: 364
+      - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/09/pawel-czerwinski-7LoWpCOAn6k-unsplash-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Launching AI Enabled Appreciate - A trusted partner for better returns and global investments"
-    excerpt: "Appreciate will help one invest in US equities to access better returns - so they can get more value for their investment, and can lower risk through global diversification. Today, international investing is plagued by complicated paperwork,"
-    publishedDateTime: 2021-10-01T11:02:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-launching-ai-enabled-appreciate-trusted-partner-better-returns-/2021/10/01/9460636.htm"
+  - title: "AI is moving into classrooms to monitor students"
+    excerpt: "It could be a glimpse into the future of classrooms. Artificial intelligence is being incorporated into some classroom curriculums."
+    publishedDateTime: 2021-10-01T14:40:00Z
+    webUrl: "https://www.fox5ny.com/news/ai-is-moving-into-classrooms-to-monitor-students"
+    ampWebUrl: "https://www.fox5ny.com/news/ai-is-moving-into-classrooms-to-monitor-students.amp"
+    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/ai-is-moving-into-classrooms-to-monitor-students.amp"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 37
 
 secured: "B81pWRLUUX7xwbdI33t4nYrj0UV95YvktxHguE6kqlNuXtNZ26kxPPvvugGr25NkDlMRaudwmxVDPGT1kGm5sYXZ1EKJ4PcJFm+o7u6LF9yufgaF5eD1pLMEJsNSyOhGMrKFtNnwDp+Gf6Ih4wZsZtp1KbrYylkvfEhfNkOBM4KkToo3CC91N/wLcDW1miJ2NcYgrHVRQcwUgKH2Q8iTqGpK7Z11+I8iNr0cQ7/ZmoHY74Ba2SLtYSE1i4sz86GUqF9R1BuJ9EMVi6AUz2RzdNVox4q7u1bNPg7vWiakBUrdz2i2eslnIB4FXlvGdVGuh/WX/4iFilMaqvlXog0tuwZz72TODaiCsYJ0pc3DLpglevIlRNtIaTnzZlQIisrOIEg0zG3REkEVNPCx2pTAZSUTSxAJT94B9pdcLvcxHcGXYbVuxshSviCOy0497zaC6oESwsooXzrrqM0Q0+a1LnMosb42H7vhEVl//3KebEB4RI6PlUsrCysiP4YXsAY+zIOpa7wiLV/yKqf0hJn3bQ==;0GrxUVuYRCwLGulb9SaLZw=="
 ---

@@ -72,6 +72,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "The Scope of Artificial intelligence in India"
+    excerpt: "Artificial intelligence (AI) has transformed the world of technology. This is the reason why AI investment is increasing. Keep reading to learn about what is the current situation of our country as far as AI is concerned,"
+    publishedDateTime: 2021-10-02T08:30:00Z
+    webUrl: "https://www.analyticsinsight.net/the-scope-of-artificial-intelligence-in-india/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/The-Scope-of-Artificial-intelligence-in-India.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Social commerce innovation: Unilever unveils beauty startup collaboration platform"
     excerpt: "Personal care major Unilever has launched a collaboration initiative to partner with forward-thinking beauty startups, scaleups and entrepreneurs specialised in social commerce to drive next-generation in-house innovation across its portfolio of brands."
     publishedDateTime: 2021-09-30T11:22:00Z
@@ -101,6 +115,6 @@ related:
         height: 250
         isCached: true
 
-secured: "BNow0cKVoNFLWhrtA8Muy0n+Rh62MBXpU1a7K3KAP+FAUtwxJ+YwzNW9gSWX1q4pE5a36EkbVvpaE9arlZ3f8TupadndLxJwGSqvgNSahFOvZ5LTp+j+0LtUn7dU8HuDul79+V69FasNZTElF2SLow0TSZy5f6Jh8E3YFf1sa5/OXYIBi4LupQR/7jyvV+Cbgsfu1OxCutbTpWXzVfRyjAuh5/6zjAyTeo3hcYZw4fCZ8WZySllmZVyMYcmno4V8RGhSYocZDFWSL+3hijvFR9x4IUdE4+0aipRLWu3LjHXFCE46RmbQi6trBScY53CTMYnXQjLtA1ICccESRofal4aMrH67jDQy3ppZUw8MJV0=;HFE3mOdmCvTzfG2PoYAR/Q=="
+secured: "NXiWtMGfo+zXRv5vt/nAU8+AnRwo2GBPrJvTbmHA0U2r6mkQEhEvNEMS+5A8d11A45jIRp0KcPNS2MEWyQBc0Mb7g2B22kr2GTsNGQoityFtE3dWdGxA37WoJja0JOXrZaxhSLYrsiWyPCiZaD5XICHwrkC+iUAcIaeac0eJaCwbfy6c9GxASuyRTp1iXk6ao7m95Qu9EUDD9VvnyjMhgjdjK2CwVcn+gX1csvy1BO8RCXAsRL/4KNCLYRFpO7p2cnUaJLrbriWoMqW4hS0e7Ub7dGQ++Obc42HKJCdxxWK498vjaKjWJ9l8/sa5yLRr5Zwk0PN58/QjlN3g9S6bPN3gizaII8POHOQhi/1Nwpo=;5fuT6Ma8vLPQnUDPcwVxkQ=="
 ---
 

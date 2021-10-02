@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2408664/14-hours-remaining-to-invest-in-a
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2408664/14-hours-remaining-to-invest-in-axle-ai-on-republic-co"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: openpr.com
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tech leaders plan large AI investment, but adoption woes remain"
+    excerpt: "Four in 10 technology decision-makers say emerging AI applications are still under development, a Gartner survey found."
+    publishedDateTime: 2021-09-29T07:47:00Z
+    webUrl: "https://www.ciodive.com/news/AI-budgets-2022-gartner/607320/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 37
+    images:
+      - url: "https://www.ciodive.com/user_media/cache/9a/ea/9aea78894e609e11cd5d472cbea4d079.jpg"
+        width: 770
+        height: 364
+        isCached: true
   - title: "14 Hours Remaining to Invest in Axle ai on Republic.co"
     excerpt: "Cofounders Sam Bogoch and Patrice Gouttebel Editorial user at Pie Town with axle ai Axle AI - making media smarter <"
     publishedDateTime: 2021-09-27T19:47:00Z

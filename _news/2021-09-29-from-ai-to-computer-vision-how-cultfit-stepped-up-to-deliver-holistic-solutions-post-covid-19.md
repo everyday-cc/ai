@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/from-ai-to-computer-vi
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/from-ai-to-computer-vision-how-cult-fit-stepped-up-to-deliver-holistic-solutions-post-covid19-71632820468048.html"
 type: article
 quality: 62
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://scitechdaily.com/images/COVID-Technology-AI-Concept-777x518.jpg"
         width: 777
         height: 518
-        isCached: true
-  - title: "E-Commerce Trends Post Covid-19: Artificial Intelligence is Taking Over E-Commerce"
-    excerpt: "The latest applications of big data, artificial intelligence, voice search and machine learning in e-commerce are taking customer experience and satisfaction to a new level post Covid-19."
-    publishedDateTime: 2021-09-27T16:29:00Z
-    webUrl: "https://www.bbntimes.com/companies/e-commerce-trends-post-covid-19-artificial-intelligence-is-taking-over-e-commerce"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 31
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/E-Commerce_Trends_Post_Covid-19-_Artificial_Intelligence_is_Taking_Over_E-Commerce.jpeg"
-        width: 1619
-        height: 1080
         isCached: true
   - title: "Deep Learning Helps Predict Drug Combinations to Fight COVID-19"
     excerpt: "A team led by researchers at the Massachusetts Institute of Technology (MIT) used deep learning to identify drug combinations that can fight COVID-19 by modeling interactions between drugs and known biological targets related to the virus."

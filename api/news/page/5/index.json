@@ -2,6 +2,39 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-29-ai-may-predict-the-next-virus-to-jump-from-animals-to-humans.md",
+      "title": "AI may predict the next virus to jump from animals to humans",
+      "excerpt": "Most emerging infectious diseases of humans (like COVID-19) are zoonotic—caused by viruses originating from other animal species. Identifying high-risk viruses earlier can improve research and surveillance priorities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/09/210928141839.htm",
+      "originalUrl": "https://phys.org/news/2021-09-ai-virus-animals-humans.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-amazon-announces-astro-the-home-robot.md",
       "title": "Amazon announces Astro the home robot",
       "excerpt": "Amazon is launching Astro, its first household robot, powered by its Alexa smart home technology. The company said it can be remote-controlled when not at home, to check on pets, people, or home security.",
@@ -365,7 +398,7 @@
       "originalUrl": "https://venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -993,6 +1026,48 @@
       ]
     },
     {
+      "path": "_news/2021-09-28-14-hours-remaining-to-invest-in-axleai-on-republicco.md",
+      "title": "14 Hours Remaining to Invest in Axle.ai on Republic.co",
+      "excerpt": "Company announces 1m in bookings to date in 2021 new customers include WatchMojo Serhant ASG Boston MA USA September 27 2021 Video management software vendor Axle ai is in the home stretch of its 2nd successful equity crowdfund on Republic",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2408664/14-hours-remaining-to-invest-in-axle-ai-on-republic-co",
+      "originalUrl": "https://www.openpr.com/news/2408664/14-hours-remaining-to-invest-in-axle-ai-on-republic-co",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/9/U928106498_g.jpg",
+          "width": 688,
+          "height": 389,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2408664/14-hours-remaining-to-invest-in-axle-ai-on-republic-co",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2408664/14-hours-remaining-to-invest-in-axle-ai-on-republic-co",
+      "publishedDateTime": "2021-09-27T23:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24.md",
       "title": "Cardano Blockchain Selected to Run AI Modules of Humanoid Robot Grace | Blockchain24",
       "excerpt": "It was officially announced that the Cardano blockchain plans to use the AI ​​modules of a humanoid robot named Grace. Well, the demand for this robot is not even an issue since robotics for aged care has seen tremendous growth due to the pandemic.",
@@ -1138,110 +1213,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-anyone-can-download-an-autonomous-research-robot-from-the-air-force-research-laboratory.md",
-      "title": "Anyone Can Download An Autonomous ‘Research Robot’ From The Air Force Research Laboratory",
-      "excerpt": "In the fight to prevail over America’s adversaries by out-innovating them - a fight which has all the hallmarks of a Cold War despite President Biden’s assertions to the contrary - increasing the speed at which physical lab experiments can be done and iterated is vital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/erictegler/2021/09/27/anyone-can-download-an-autonomous-research-robot-from-the-air-force-research-laboratory/",
-      "originalUrl": "https://www.forbes.com/sites/erictegler/2021/09/27/anyone-can-download-an-autonomous-research-robot-from-the-air-force-research-laboratory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614e2c6a619e124d42a2a15d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/erictegler/2021/09/27/anyone-can-download-an-autonomous-research-robot-from-the-air-force-research-laboratory/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/erictegler/2021/09/27/anyone-can-download-an-autonomous-research-robot-from-the-air-force-research-laboratory/amp/",
-      "publishedDateTime": "2021-09-27T19:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-competition-chips-ai-on-table-at-first-us-eu-trade-and-tech-meet.md",
-      "title": "Competition, chips, AI on table at first U.S.-EU trade and tech meet",
-      "excerpt": "The United States and the European Union hope to discuss chip shortages, artificial intelligence (AI) and tech competition issues during the first Trade and Tech Council (TTC) meeting this week, senior U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/competition-chips-ai-table-first-us-eu-trade-tech-meet-2021-09-27/",
-      "originalUrl": "https://www.reuters.com/technology/competition-chips-ai-table-first-us-eu-trade-tech-meet-2021-09-27/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/kG7wTT8IEqmAqeVS3avArZBbvuQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/M3ISMUNRE5KA3GYSTY6XVOPW6E.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T17:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

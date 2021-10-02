@@ -71,6 +71,20 @@ related:
         width: 378
         height: 234
         isCached: true
+  - title: "The Scope of Artificial intelligence in India"
+    excerpt: "Artificial intelligence (AI) has transformed the world of technology. This is the reason why AI investment is increasing. Keep reading to learn about what is the current situation of our country as far as AI is concerned,"
+    publishedDateTime: 2021-10-02T08:30:00Z
+    webUrl: "https://www.analyticsinsight.net/the-scope-of-artificial-intelligence-in-india/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/The-Scope-of-Artificial-intelligence-in-India.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Social commerce innovation: Unilever unveils beauty startup collaboration platform"
     excerpt: "Personal care major Unilever has launched a collaboration initiative to partner with forward-thinking beauty startups, scaleups and entrepreneurs specialised in social commerce to drive next-generation in-house innovation across its portfolio of brands."
     publishedDateTime: 2021-09-30T11:22:00Z

@@ -84,6 +84,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "The Scope of Artificial intelligence in India"
+    excerpt: "Artificial intelligence (AI) has transformed the world of technology. This is the reason why AI investment is increasing. Keep reading to learn about what is the current situation of our country as far as AI is concerned,"
+    publishedDateTime: 2021-10-02T08:30:00Z
+    webUrl: "https://www.analyticsinsight.net/the-scope-of-artificial-intelligence-in-india/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/The-Scope-of-Artificial-intelligence-in-India.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Worldwide Mission Critical Communications Industry Report to 2026 - 5 Cases Studies Included"
     excerpt: "The \"Mission Critical Communications Market by Enterprise, Industrial and Government Solutions 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. The market for mission critical communications is rapidly evolving as developing technologies supply solutions necessary to meet emerging demand for improved voice,"
     publishedDateTime: 2021-09-30T19:42:00Z

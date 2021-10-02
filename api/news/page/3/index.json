@@ -61,7 +61,7 @@
       "originalUrl": "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -813,6 +813,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-30-soft-robotics-moves-into-ai.md",
+      "title": "Soft Robotics Moves into AI",
+      "excerpt": "Exclusive - Technologies from Soft Robotics are on display across the show floor on robotic systems at BCA (Booth SU-7155/7156), Fanuc (Booth C-1441), Harpak-Ulma (Boot",
+      "sourceUrl": null,
+      "webUrl": "https://www.packworld.com/PACKEXPO/article/21735125/soft-robotics-moves-into-ai",
+      "originalUrl": "https://www.packworld.com/PACKEXPO/article/21735125/soft-robotics-moves-into-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.packworld.com/files/base/pmmi/all/image/2021/09/Soft_Robotics.614bb12ec3cc1.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 443,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-29T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Packaging World",
+        "domain": "packworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-how-ai-is-making-information-more-useful.md",
       "title": "How AI is making information more useful",
       "excerpt": "Today, there’s more information accessible at people’s fingertips than at any point in human history. And advances in artificial intelligence will radically transform the way we use that information, with the ability to uncover new insights that can help us both in our daily lives and in the ways we",
@@ -821,7 +864,7 @@
       "originalUrl": "https://blog.google/products/search/how-ai-making-information-more-useful/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -977,7 +1020,7 @@
       "originalUrl": "https://techcrunch.com/2021/09/29/google-is-redesigning-search-using-a-i-technologies-and-new-features/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1171,57 +1214,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-ai-powered-meeting-plugin-read-ai-emerges-from-stealth-with-10m.md",
-      "title": "AI-powered meeting plugin Read AI emerges from stealth with $10M",
-      "excerpt": "Read AI, a company developing a platform to analyze virtual meetings, has emerged from stealth with $10 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/29/ai-powered-meeting-plugin-read-ai-emerges-from-stealth-with-10m/",
-      "originalUrl": "https://venturebeat.com/2021/09/29/ai-powered-meeting-plugin-read-ai-emerges-from-stealth-with-10m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/remote_workforce.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/29/ai-powered-meeting-plugin-read-ai-emerges-from-stealth-with-10m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/ai-powered-meeting-plugin-read-ai-emerges-from-stealth-with-10m/amp/",
-      "publishedDateTime": "2021-09-29T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

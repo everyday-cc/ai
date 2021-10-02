@@ -62,6 +62,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Bahrain-based Regional Data Center Announced at Seamless ME FinTech Conference and Expo"
+    excerpt: "Chief Executive, Mohammed Ali Al Qaed led the Bahrain delegation participating in the Seamless Middle East Conference and Expo, held under the patronage of UAE Deputy Prime Minister and Minister of Interior,"
+    publishedDateTime: 2021-10-02T08:24:00Z
+    webUrl: "https://www.bahrainthisweek.com/bahrain-based-regional-data-center-announced-at-seamless-me-fintech-conference-and-expo/"
+    ampWebUrl: "https://www.bahrainthisweek.com/bahrain-based-regional-data-center-announced-at-seamless-me-fintech-conference-and-expo/?amp"
+    cdnAmpWebUrl: "https://www-bahrainthisweek-com.cdn.ampproject.org/c/s/www.bahrainthisweek.com/bahrain-based-regional-data-center-announced-at-seamless-me-fintech-conference-and-expo/?amp"
+    type: article
+    provider:
+      name: bahrainthisweek.com
+      domain: bahrainthisweek.com
+    quality: 51
+    images:
+      - url: "https://www.bahrainthisweek.com/wp-content/uploads/2021/09/Official-893x1024.jpg"
+        width: 893
+        height: 1024
+        isCached: true
   - title: "The ascent of the cloud in fintech"
     excerpt: "For India, it’s a case of the right place, right time, right conditions for the enthusiastic adoption of cloud tech for financial entities"
     publishedDateTime: 2021-09-28T12:01:00Z

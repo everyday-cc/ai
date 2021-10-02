@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/29/google-is-redesigning-search-using
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/29/google-is-redesigning-search-using-a-i-technologies-and-new-features/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 147
 published: true
 
 provider:
@@ -73,38 +73,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/7t5W2reCUYkYMbnF9WiRQ7-1200-80.jpg"
         width: 1200
         height: 797
-        isCached: true
-  - title: "Using AI and old reports to understand new medical images"
-    excerpt: "Getting a quick and accurate reading of an X-ray or some other medical images can be vital to a patient's health and might even save a life. Obtaining such an assessment depends on the availability of a skilled radiologist and,"
-    publishedDateTime: 2021-09-27T16:23:00Z
-    webUrl: "https://techxplore.com/news/2021-09-ai-medical-images.html"
-    ampWebUrl: "https://techxplore.com/news/2021-09-ai-medical-images.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-ai-medical-images.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/using-ai-and-old-repor.jpg"
-        width: 900
-        height: 491
-        isCached: true
-  - title: "How the AI Economy is Shaping Cities"
-    excerpt: "Like other technologies, artificial intelligence tech seems to be clustering in a small group of cities, prompting questions about its uneven deployment."
-    publishedDateTime: 2021-09-27T17:00:00Z
-    webUrl: "https://www.planetizen.com/news/2021/09/114779-how-ai-economy-shaping-cities"
-    ampWebUrl: "https://www.planetizen.com/news/2021/09/114779-how-ai-economy-shaping-cities?amp"
-    cdnAmpWebUrl: "https://www-planetizen-com.cdn.ampproject.org/c/s/www.planetizen.com/news/2021/09/114779-how-ai-economy-shaping-cities?amp"
-    type: article
-    provider:
-      name: PLANetizen
-      domain: planetizen.com
-    quality: 57
-    images:
-      - url: "https://www.planetizen.com/files/images/shutterstock_566361814.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "US researchers aim to identify autism earlier using artificial intelligence"
     excerpt: "Researchers at West Virginia University are turning to artificial intelligence to devise a way to properly diagnosis autism spectrum disorder."
