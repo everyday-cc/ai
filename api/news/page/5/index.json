@@ -2,6 +2,91 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-29-ai-may-predict-the-next-virus-to-jump-from-animals-to-humans.md",
+      "title": "AI may predict the next virus to jump from animals to humans",
+      "excerpt": "Most emerging infectious diseases of humans (like COVID-19) are zoonotic—caused by viruses originating from other animal species. Identifying high-risk viruses earlier can improve research and surveillance priorities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/09/210928141839.htm",
+      "originalUrl": "https://phys.org/news/2021-09-ai-virus-animals-humans.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-amazon-announces-astro-the-home-robot.md",
+      "title": "Amazon announces Astro the home robot",
+      "excerpt": "Amazon is launching Astro, its first household robot, powered by its Alexa smart home technology. The company said it can be remote-controlled when not at home, to check on pets, people, or home security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-58727057",
+      "originalUrl": "https://www.bbc.com/news/technology-58727057.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 419,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/C262/production/_120726794_astromovingaroundhome.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-58727057.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-58727057.amp",
+      "publishedDateTime": "2021-09-28T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazons-visual-id.md",
       "title": "On Echo Show 15, Alexa will recognize your face thanks to Amazon's Visual ID",
       "excerpt": "The facial recognition feature is designed to recognize you whenever you're in front of the camera, so Alexa can show you personalized content.",
@@ -896,6 +981,51 @@
       ]
     },
     {
+      "path": "_news/2021-09-28-comparing-aws-microsoft-and-google-cloud-cyber-security-in-the-public-cloud.md",
+      "title": "Comparing AWS, Microsoft and Google Cloud: Cyber security in the public cloud",
+      "excerpt": "A brief guide to the network, infrastructure, data and app security capabilities AWS, Microsoft Azure and Google Cloud provide to prevent cyber attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/691588/comparing-aws-microsoft-google-cloud-cyber-security-public-cloud/",
+      "originalUrl": "https://www.arnnet.com.au/article/691588/comparing-aws-microsoft-google-cloud-cyber-security-public-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/aws_microsoft_google_updated_2.jpg",
+          "width": 504,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T00:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24.md",
       "title": "Cardano Blockchain Selected to Run AI Modules of Humanoid Robot Grace | Blockchain24",
       "excerpt": "It was officially announced that the Cardano blockchain plans to use the AI ​​modules of a humanoid robot named Grace. Well, the demand for this robot is not even an issue since robotics for aged care has seen tremendous growth due to the pandemic.",
@@ -939,6 +1069,59 @@
       ]
     },
     {
+      "path": "_news/2021-09-28-artificial-intelligence-chipsets-market-size-outlook-opportunity-and-demand-analysis-report-by-2026.md",
+      "title": "Artificial Intelligence Chipsets Market Size Outlook, Opportunity and Demand Analysis Report by 2026",
+      "excerpt": "The Artificial Intelligence Chipsets (AI) Market growth is ascribed to massive growth of e-commerce as well as social media platforms. The increasing use of social media and ecommerce platforms has further led to strong growth in data volume,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-outlook-opportunity-and-demand-analysis-report-by-2026-2021-09-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-outlook-opportunity-and-demand-analysis-report-by-2026-2021-09-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T21:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-global-artificial-intelligence-ai-speakers-market-report-2021-prominent-key-players-exploring-sales-volume-revenue-and-forecast-by-2027.md",
       "title": "Global Artificial Intelligence (AI) Speakers Market Report 2021 Prominent Key Players, Exploring Sales Volume Revenue and Forecast by 2027",
       "excerpt": "The research study on Global Artificial Intelligence (AI) Speakers Market 2021 by Manufacturers, Regions, Type",
@@ -947,7 +1130,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-report-2021-prominent-key-players-exploring-sales-volume-revenue-and-forecast-by-2027-2021-09-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1039,196 +1222,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-competition-chips-ai-on-table-at-first-us-eu-trade-and-tech-meet.md",
-      "title": "Competition, chips, AI on table at first U.S.-EU trade and tech meet",
-      "excerpt": "The United States and the European Union hope to discuss chip shortages, artificial intelligence (AI) and tech competition issues during the first Trade and Tech Council (TTC) meeting this week, senior U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/competition-chips-ai-table-first-us-eu-trade-tech-meet-2021-09-27/",
-      "originalUrl": "https://www.reuters.com/technology/competition-chips-ai-table-first-us-eu-trade-tech-meet-2021-09-27/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/kG7wTT8IEqmAqeVS3avArZBbvuQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/M3ISMUNRE5KA3GYSTY6XVOPW6E.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T17:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain.md",
-      "title": "Samsung Wants To Make An AI Chip That Mimics The Human Brain",
-      "excerpt": "Samsung, together with researchers from Harvard University, have published a paper that puts forth their idea of making neuromorphic chips, semiconductor technology that mimics the human brain by \"copying and pasting\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/",
-      "originalUrl": "https://www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lowyat.net/wp-content/uploads/2021/09/Brain-computer-network.jpg",
-          "width": 1040,
-          "height": 693,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/amp/",
-      "cdnAmpWebUrl": "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/amp/",
-      "publishedDateTime": "2021-09-27T17:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lowyat.net",
-        "domain": "lowyat.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-beyond-the-robot-butler-ai-and-customer-experience-have-more-in-common-than-you-may-think.md",
-      "title": "Beyond The ‘Robot Butler,’ AI And Customer Experience Have More In Common Than You May Think",
-      "excerpt": "I hosted a panel called “Driving value through customer experience” with Meenakshi Nagarajan, SVP for Recurring Revenue and Loyalty at Panera Bread, and Kapil Gupta, Head of Data Science and Trust at Airbnb.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/arunshastri/2021/09/27/beyond-the-robot-butler-ai-and-customer-experience-have-more-in-common-than-you-may-think/",
-      "originalUrl": "https://www.forbes.com/sites/arunshastri/2021/09/27/beyond-the-robot-butler-ai-and-customer-experience-have-more-in-common-than-you-may-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6152431d1941c61b5e7a70e3%2F0x0.jpg",
-          "width": 1200,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/arunshastri/2021/09/27/beyond-the-robot-butler-ai-and-customer-experience-have-more-in-common-than-you-may-think/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2021/09/27/beyond-the-robot-butler-ai-and-customer-experience-have-more-in-common-than-you-may-think/amp/",
-      "publishedDateTime": "2021-09-27T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-how-to-join-the-connected-world-with-data-and-ai.md",
-      "title": "How to join the connected world with data and AI",
-      "excerpt": "If there was one key fact for data and analytic professionals to learn in the past year, it's that our data and AI foundations weren't as ready for this challenge as they could have been.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-to-join-the-connected-world-with-data-and-ai/",
-      "originalUrl": "https://www.zdnet.com/article/how-to-join-the-connected-world-with-data-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-join-the-connected-world-with-data-and-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-join-the-connected-world-with-data-and-ai/",
-      "publishedDateTime": "2021-09-27T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91493-music-scholars-computer-scie
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91493-music-scholars-computer-scientists-completed-beethoven-tenth-symphony.html"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2021/10/02/00/48661433-0-image-a-109_1633132521169.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "Beethoven’s Unfinished Tenth Symphony Gets Completed by Artificial Intelligence: Hear How It Sounds"
-    excerpt: "Few symphonies are as well-known as Beethoven's Ninth, an assertion supported by the fact that it's no doubt playing in your head even as you read this."
-    publishedDateTime: 2021-09-27T11:00:00Z
-    webUrl: "https://www.openculture.com/2021/09/beethovens-unfinished-tenth-symphony-gets-completed-by-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Open Culture
-      domain: openculture.com
-    quality: 23
-    images:
-      - url: "https://cdn8.openculture.com/2017/03/13231534/beethoven-e1489473756721.jpg"
-        width: 700
-        height: 394
         isCached: true
 
 secured: "LNy3tSv0XEhI9+HuZQTolh41/5moneeBW6lSRCUfiB3f1ZxXYJVmpb8s1fVPXpi+Vdp9WVjQKPXcU8z58Q9JYtM62LLZuYz38zqGOdS5Gb8GdW1uFMoVjrlgISqrdiTCRAKYWVPRA0NIPTdRDPcVi491Z17EKEFENXplBbcB37VxjHyzweybsKgsvnm2xH4SPVTy7A6wD2FZQVB/M/6gbYaC/DbnfhYYcRQZIn1ucHWgGLqe4XIBR6wL4nQMsj42bDoFNZ+cKM4PqJOdEXFQOqBlifF36ApBjV+Us1dXYbFoqmdZSbWVcQcSDMqFGVx0oCgQz7TMrYovJHF4MYuwdTn2ioUgKg2ec0Uy08XeFYRoZWXn1+y4hFDv+YAqeKzdGOtRfCgJmxot0fawtrTYNBUnYtj0JdfzZaM5WTsq/CuHG0rravQmgZQ+v3ImV022SoZBqcEHPVQrJArFr1PAfzuDDwGzj6fJP53maPimGBI4GrdkNQ83QKh4c4kSzq5Mq4gKnzK+atbIJsUIHXd+AA==;JRJKlKEw5FhxXeA4CSK3Xg=="

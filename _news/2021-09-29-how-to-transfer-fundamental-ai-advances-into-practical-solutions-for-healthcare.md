@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 633
         isCached: true
+  - title: "How AI in Healthcare is Giving a Digital Twist to Clinical Decisions"
+    excerpt: "AI has been introduced into the healthcare system as a result of the digital wave. However, as technology evolves and more medical services are disrupted, healthcare companies are shifting from artificial intelligence to augmented intelligence."
+    publishedDateTime: 2021-10-01T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/how-ai-in-healthcare-is-giving-a-digital-twist-to-clinical-decisions-nid-8587.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/sql884506.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "Rising Volume of Complex Data and Reduction in Hardware Costs is Projected to Drive Growth of the Artificial Intelligence in Healthcare Market"
     excerpt: "The global artificial intelligence in healthcare market is expected to reach a market size of USD 61.59 Billion by 2027 and register a substantially high CAGR over the forecast period, according to a new report by Reports and Data."
     publishedDateTime: 2021-09-29T08:11:00Z

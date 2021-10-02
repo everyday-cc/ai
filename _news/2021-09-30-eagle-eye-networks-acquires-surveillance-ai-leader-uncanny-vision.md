@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "An insider’s guide to data governance, AI and turtle surveillance"
-    excerpt: "Lee Hickin outlines the importance of getting the basics of good data governance right ‒ what's vital to protect and how to do that well. To wrap up, he also shares his favourite examples of where artificial intelligence is being used successfully and what responsible use of AI really requires."
-    publishedDateTime: 2021-09-27T10:49:00Z
-    webUrl: "https://aicd.companydirectors.com.au/membership/company-director-magazine/directors-on-digital/bonus-episode"
+  - title: "Eagle Eye Networks acquires AI leader Uncanny Vision"
+    excerpt: "Global cloud video surveillance leader Eagle Eye Networks announced the acquisition of artificial intelligence innovator, Uncanny Vision, including the company’s"
+    publishedDateTime: 2021-09-30T14:32:00Z
+    webUrl: "https://www.securitysystemsnews.com/article/eagle-eye-networks-acquires-ai-leader-uncanny-vision"
     type: article
     provider:
-      name: companydirectors.com.au
-      domain: companydirectors.com.au
-    quality: 41
-    images:
-      - url: "https://aicd.companydirectors.com.au/-/media/cd2/resources/membership/company-directors-magazine/2021/june/directors-on-digital-podcast-tile_approved-for-sitecore-2.ashx"
-        width: 650
-        height: 359
-        isCached: true
-  - title: "Most Organizations Don’t Care if Surveillance AI Is Biased"
-    excerpt: "Nearly 2 out of 3 survey respondents say they either don't care or aren't sure if they care if their AI-powered security cameras are biased."
-    publishedDateTime: 2021-09-27T10:07:00Z
-    webUrl: "https://www.campussafetymagazine.com/news/most-organizations-dont-care-if-surveillance-ai-is-biased/"
-    type: article
-    provider:
-      name: Campus Safety Magazine
-      domain: campussafetymagazine.com
+      name: Security Systems News
+      domain: securitysystemsnews.com
     quality: 39
     images:
-      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2021/09/Artificial-intelligence-Adobe-by-Alex-scaled.jpeg"
-        width: 2560
-        height: 893
+      - url: "https://www.securitysystemsnews.com/uploads/blog/2efe987e116833292ff04295978f0b9c.jpg"
+        width: 260
+        height: 260
         isCached: true
 
 secured: "4xBfNE941tEXGyki6cjhwiEDQD3qB2Cc826ZIkJ+YOM//+xMUN1GgqR71sBwCPBwusnA92urbmfT8ADh4cjRJLtCJkwSiLaspnUNsWvaxyDkazahJhZO0AElfpt8mpV+3eKFN8iKUWGnYlH8nILvJjSZb830uDW+Ebrs95oYvUkEnMOu7KTkkZLziGFf235fLoFL8KXMuBXFGrCoDDFycfMaQz8k9tCaDrx9B2Veokdk4Io6GNSE9DL1C1IhzhcHuoE7QfZVOEs6q6SSdfzUdXde2MSkU2bvJ20hmIO98ziBvR+H0KMfRgcjl4hDtodjgTOW6M50EE7QRQDWuJ2E+wCa3d6Udn2APXOecPK9uTQ=;w/c/q0Kt3EHf9QgubX0GPQ=="

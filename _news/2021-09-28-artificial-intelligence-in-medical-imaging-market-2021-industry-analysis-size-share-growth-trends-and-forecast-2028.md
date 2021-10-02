@@ -21,114 +21,99 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Scope of AI, Deep Learning and Neural Network, 2021 Market Research Report"
-    excerpt: "The \"Next Wave of Deep Learning Models & Applications (RNN, CNN, and GaN)\" report has been added to ResearchAndMarkets.com's offering. As digitization progresses across industries, AI is gaining a ubiquitous adoption as more and more business processes are being automated."
-    publishedDateTime: 2021-09-29T09:42:00Z
-    webUrl: "https://menafn.com/1102884604/Scope-of-AI-Deep-Learning-and-Neural-Network-2021-Market-Research-Report"
+  - title: "Computer Vision in Healthcare Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2025"
+    excerpt: "The report on the global computer vision in healthcare market provides qualitative and quantitative analysis for the period from 2017 to 2025. The report predicts the global computer vision in healthcare market to grow with a CAGR of 45."
+    publishedDateTime: 2021-09-28T19:42:00Z
+    webUrl: "https://menafn.com/1102880797/Computer-Vision-in-Healthcare-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2025"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 67
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_4.jpg?728200"
+        width: 417
+        height: 250
+        isCached: true
+  - title: "High Demand for Electronic Skin in the Healthcare Sector To Treat Diabetes and Cardiology Diseases is Driving Market Growth"
+    excerpt: "The global electronic skin market is expected to reach a market size of USD 20.02 Billion in 2027 and register a robust CAGR over the forecast period, according to the latest report by Reports and Data."
+    publishedDateTime: 2021-09-29T07:42:00Z
+    webUrl: "https://techbullion.com/high-demand-for-electronic-skin-in-the-healthcare-sector-to-treat-diabetes-and-cardiology-diseases-is-driving-market-growth/"
+    ampWebUrl: "https://techbullion.com/high-demand-for-electronic-skin-in-the-healthcare-sector-to-treat-diabetes-and-cardiology-diseases-is-driving-market-growth/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/high-demand-for-electronic-skin-in-the-healthcare-sector-to-treat-diabetes-and-cardiology-diseases-is-driving-market-growth/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 35
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/09/technology.jpg"
+        width: 870
+        height: 580
+        isCached: true
+  - title: "Artificial Intelligence Market Key Drivers, Restraints, Industry Size & Share, Opportunities, Trends, and Forecasts up to 2028"
+    excerpt: "The global Artificial Intelligence Market is expected to rise with an impressive CAGR and generate the highest revenue by 2026 Fortune Business Insights in its latest report published this information The report is titled Artificial Intelligence AI Market Size Share"
+    publishedDateTime: 2021-09-30T13:32:00Z
+    webUrl: "https://www.openpr.com/news/2413197/artificial-intelligence-market-key-drivers-restraints"
+    ampWebUrl: "https://www.openpr.com/amp/2413197/artificial-intelligence-market-key-drivers-restraints"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2413197/artificial-intelligence-market-key-drivers-restraints"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 26
+  - title: "Facial Recognition Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2025"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Sep 28, 2021, 23:53 /Comserve / -- The report predicts the global facial recognition market to grow with a CAGR of 17.61% over the forecast period from 2019-2025. The report on the global facial recognition market provides qualitative and quantitative analysis for the period from 2017 to 2025."
+    publishedDateTime: 2021-09-29T08:46:00Z
+    webUrl: "https://menafn.com/1102884214/Facial-Recognition-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2025"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 25
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?430465"
         width: 413
         height: 250
         isCached: true
-  - title: "Global Machine Learning Artificial intelligence Market 2021 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2027"
-    excerpt: "The earliest projects by MarketQuest.biz titled Global Machine Learning Artificial intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2027 delivers a thorough analysis of the market,"
-    publishedDateTime: 2021-09-28T04:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-artificial-intelligence-market-2021-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2027-2021-09-28"
+  - title: "Artificial Retinal Implants Market Size 2021 By Trends Evaluation Forecast to 2027"
+    excerpt: "The Global Artificial Retinal Implants Market Report 2021 to 2027 could be a fundamental examination of the global analysis Trending innovation advertise drivers sectional declination analysis measurements advertise forecasts manufacturers and hardware merchants are all included within the substance The"
+    publishedDateTime: 2021-09-29T09:59:00Z
+    webUrl: "https://www.openpr.com/news/2411240/artificial-retinal-implants-market-size-2021-by-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2411240/artificial-retinal-implants-market-size-2021-by-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2411240/artificial-retinal-implants-market-size-2021-by-trends"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Chipsets Market Research Report to understand the Competitive Dynamics of an Industry (2021 to 2028)"
-    excerpt: "The Artificial Intelligence Chipsets Market is segmented on the lines of its component, technology, end-user and"
-    publishedDateTime: 2021-09-28T18:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-research-report-to-understand-the-competitive-dynamics-of-an-industry-2021-to-2028-2021-09-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Construction Market Analysis by Size, Status and Forecast to 2021-2026"
-    excerpt: "Latest released Global Artificial Intelligence (AI) in Construction Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings,"
-    publishedDateTime: 2021-09-29T20:47:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-construction-market-analysis-by-size-status-and-forecast-to-2021-2026/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-construction-market-analysis-by-size-status-and-forecast-to-2021-2026/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-construction-market-analysis-by-size-status-and-forecast-to-2021-2026/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 36
-  - title: "The Worldwide Microprocessor and GPU Industry is Expected to Reach $89.3 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The \"Microprocessor and GPU - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Amid the COVID-19 crisis, the global market for Microprocessor and GPU estimated at US$77."
-    publishedDateTime: 2021-09-27T11:27:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=536873"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
+      name: openpr.com
+      domain: openpr.com
     quality: 18
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "The Worldwide Edge AI Hardware Industry is Expected to Grow at a CAGR of 17.1% from 2021 to 2026 - ResearchAndMarkets.com"
-    excerpt: "The \"Global Edge AI Hardware Market with COVID-19 Impact Analysis by Device, Processor (CPU, GPU, ASICs), End-user, Function (Training, Inference), Power (Less Than 1W, 1-3 W, 3-5 W, 5-10W, More Than 10W) and Region - Forecast to 2026\" report"
-    publishedDateTime: 2021-09-30T09:41:00Z
-    webUrl: "https://www.lelezard.com/en/news-20022824.html"
+  - title: "Language Services Market Outlook By Industry Size, Share, Revenue, Regions and Top Key Players Analysis"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Sep 28, 2021, 08:33 /Comserve / -- Language Services Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies,"
+    publishedDateTime: 2021-09-28T19:42:00Z
+    webUrl: "https://menafn.com/1102880814/Language-Services-Market-Outlook-By-Industry-Size-Share-Revenue-Regions-and-Top-Key-Players-Analysis"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 14
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 8
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?378237"
+        width: 444
+        height: 250
         isCached: true
-  - title: "Global Microprocessor and GPU Market (2020 to 2027) - by Product, GPU Type, Application and Geography - ResearchAndMarkets.com"
-    excerpt: "The Microprocessor and GPU Market is anticipated to grow at the rate of 6.2% CAGR by 2027. The microprocessor is also known as the control processing unit of a computer system that executes arithmetic and logic operations,"
-    publishedDateTime: 2021-09-27T10:47:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=536832"
+  - title: "Voice Assistant Application Market worth $11.2 billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to a research report \"Voice Assistant Application Market with COVID-19 Impact by Component, Deployment Mode, Organization"
+    publishedDateTime: 2021-10-01T14:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/voice-assistant-application-market-worth-11-2-billion-by-2026--exclusive-report-by-marketsandmarkets-301389633.html"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 11
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 8
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Global Laser Processing Market Research Report (2021 to 2026) - by Vertical, Configuration, Application and Region"
-    excerpt: "The \"Laser Processing Market Research Report by Vertical, by Configuration, by Application, by Region - Global Forecast to 2026 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-09-29T19:24:00Z
-    webUrl: "https://www.lelezard.com/en/news-20022226.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 2
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/mining-industry.jpg"
-        width: 640
-        height: 480
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
         isCached: true
 
 secured: "8b+V6DVAAc3VL6+7V2x/Py9BMojqf0CKbWlQrWZbu4G3OjFEuHqv58e9UCty7nEDS1GXnaSq510+dmSb9tYrFavT4N8RxmYkKMUmYm0MroZ8t921osyov7Fg+Y5kA2i5fw6byozbdI0NHkpUYPOBvLNEbvfE+fEmDfVdW3zAmRVeeYo+we3sdaz1LhN31SjaBzWSYBHQNU5AzxnyGV1GOsxQgZQfZX13ptiefoV/a+zVG8EWh+DubRxT8I8PoaADrPVZ+ghyLhZf/B2VOQZQj8sGcBr+6gpCkCa/MNaHlbIc/gtgH2lnifr5Z9Qv01NnRP5ONxdCjzqdyz/CtQM+myzFPj5j7SB0ypRHow3X17A=;8fuhmmaCIqr8jumKK6mW8Q=="

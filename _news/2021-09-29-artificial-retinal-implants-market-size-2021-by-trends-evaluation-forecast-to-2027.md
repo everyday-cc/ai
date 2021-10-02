@@ -76,6 +76,17 @@ related:
         width: 413
         height: 250
         isCached: true
+  - title: "Artificial Intelligence in Medical Imaging Market 2021 Industry Analysis, Size, Share, Growth, Trends and Forecast 2028"
+    excerpt: "DBMR has presented updated research report on Artificial Intelligence in Medical Imaging Market offering insightful information like market share market size and growth rate during the forecast period 2021 2028 that are precisely projected based on type application sales channel"
+    publishedDateTime: 2021-09-28T11:47:00Z
+    webUrl: "https://www.openpr.com/news/2409862/artificial-intelligence-in-medical-imaging-market-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2409862/artificial-intelligence-in-medical-imaging-market-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2409862/artificial-intelligence-in-medical-imaging-market-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 15
   - title: "Language Services Market Outlook By Industry Size, Share, Revenue, Regions and Top Key Players Analysis"
     excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Sep 28, 2021, 08:33 /Comserve / -- Language Services Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies,"
     publishedDateTime: 2021-09-28T19:42:00Z

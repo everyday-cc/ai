@@ -24,81 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Cyber security in the public cloud"
-    excerpt: "A brief guide to the network, infrastructure, data, and application security capabilities AWS, Microsoft Azure, and Google Cloud provide to prevent cyber attacks and protect your cloud-based resources and workloads."
-    publishedDateTime: 2021-09-27T10:00:00Z
-    webUrl: "https://www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.html"
-    ampWebUrl: "https://www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.amp.html"
+  - title: "Insect farm uses artificial intelligence to promote food security"
+    excerpt: "UK-based insect mini-farm innovator, Better Origin, uses artificial intelligence (AI) technology to convert local food waste into high-quality animal feed in the form of insect larvae. It aims to help the food industry achieve its net-zero targets,"
+    publishedDateTime: 2021-09-28T14:02:00Z
+    webUrl: "https://www.foodnavigator.com/Article/2021/09/28/Insect-farm-uses-artificial-intelligence-to-promote-food-security"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 91
+      name: FoodNavigator
+      domain: foodnavigator.com
+    quality: 54
     images:
-      - url: "https://images.techhive.com/images/article/2015/10/cloud-security-ts-100622309-large.jpg?auto=webp"
-        width: 1200
-        height: 899
-        isCached: true
-  - title: "Comparing AWS, Microsoft and Google Cloud: Cyber security in the public cloud"
-    excerpt: "A brief guide to the network, infrastructure, data and app security capabilities AWS, Microsoft Azure and Google Cloud provide to prevent cyber attacks."
-    publishedDateTime: 2021-09-28T07:06:00Z
-    webUrl: "https://www.arnnet.com.au/article/691588/comparing-aws-microsoft-google-cloud-cyber-security-public-cloud/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 70
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/aws_microsoft_google_updated_2.jpg"
-        width: 504
-        height: 315
-        isCached: true
-  - title: "Artificial Intelligence-based Cybersecurity Market By Advanced Technology, Demand, Growth, Opportunity"
-    excerpt: "Artificial intelligence has been advancing by leaps and bounds in recent years. Artificial intelligence-based cybersecurity can be defined as the integration of AI technology to streamline complex processes of cybersecurity to make the system more secure,"
-    publishedDateTime: 2021-09-28T06:07:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-based-cybersecurity-market-by-advanced-technology-demand-growth-opportunity/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-based-cybersecurity-market-by-advanced-technology-demand-growth-opportunity/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-based-cybersecurity-market-by-advanced-technology-demand-growth-opportunity/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 41
-    images:
-      - url: "https://www.transparencymarketresearch.com/images/artificial-intelligence-based-cybersecurity-market-size-and-forecast.jpg"
-        width: 541
-        height: 334
-        isCached: true
-  - title: "UK-based Startup Robo Shadow Launches Free Cyber Security Platform"
-    excerpt: "UK based Cyber Security start-up, Robo Shadow, have launched their initial product set as they attempt to take on the big guns in Cyber Security."
-    publishedDateTime: 2021-09-30T01:35:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/20933-uk-based-startup-robo-shadow-launches-free-cyber-security-platform"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 39
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/42300e05b555db7df4e0178bba624534.jpg?t=20210930_013327"
-        width: 752
-        height: 408
-        isCached: true
-  - title: "Hillstone Networks Provides Cybersecurity Solutions Using Artificial Intelligence: Interview With Vice President Timothy Liu."
-    excerpt: "Hillstone Networks helps both small and big enterprises secure their web applications and defend their online infrastructures against cyberattacks with outstanding technology made possible with the help of artificial intelligence."
-    publishedDateTime: 2021-09-28T19:37:00Z
-    webUrl: "https://techbullion.com/hillstone-networks-provides-cybersecurity-solutions-using-artificial-intelligence-interview-with-vice-president-timothy-liu/"
-    ampWebUrl: "https://techbullion.com/hillstone-networks-provides-cybersecurity-solutions-using-artificial-intelligence-interview-with-vice-president-timothy-liu/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/hillstone-networks-provides-cybersecurity-solutions-using-artificial-intelligence-interview-with-vice-president-timothy-liu/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 30
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/09/Tim-Liu-VP-and-CTO-of-Hillstone-Network.png"
-        width: 700
-        height: 400
+      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/news/business/insect-farm-uses-artificial-intelligence-to-promote-food-security/12854568-1-eng-GB/Insect-farm-uses-artificial-intelligence-to-promote-food-security.png"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "hIl2D0jslKWmkXzatHtLDKMDGoovjrrR1LBXEe5mSFcsJFcEKRqArlgiOIZEpW1pH/jYQ6njcqNHLEu43uzlUBsNPEwGyVwX/KRzZDLDfIcfdqsUcQIukM8cp3m8hV4fXYwMp9BcfDJHh69k7HMrGMdmdLJOSlq4kBN+IkPPVJ2e6fUXN0ekNxJ1Q4s807h+s+oauNRmLjbJ7ngLtaI8m1xOvtjuTIT3yy3+JX6SWszGi1OnmROVFJIXUuu109xMYmfYA3Cf/Xi+gtzxOXUl9394TVs7fVC+ZUsTH8ujtp95Eat4Hz/m/MS8hyLvjufUgHnn/Dl2eTX9M1lSz8O7QovKHgsdHiBa2xnY+gskwNA=;7OcAWgdEM+69XcoDgBcG8g=="

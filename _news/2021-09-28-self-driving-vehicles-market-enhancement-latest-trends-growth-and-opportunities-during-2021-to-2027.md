@@ -67,6 +67,31 @@ related:
         width: 800
         height: 433
         isCached: true
+  - title: "Global Machine Learning Artificial intelligence Market 2021 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2027"
+    excerpt: "The earliest projects by MarketQuest.biz titled Global Machine Learning Artificial intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2027 delivers a thorough analysis of the market,"
+    publishedDateTime: 2021-09-28T04:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-artificial-intelligence-market-2021-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2027-2021-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Construction Market Analysis by Size, Status and Forecast to 2021-2026"
+    excerpt: "Latest released Global Artificial Intelligence (AI) in Construction Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings,"
+    publishedDateTime: 2021-09-29T20:47:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-construction-market-analysis-by-size-status-and-forecast-to-2021-2026/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-construction-market-analysis-by-size-status-and-forecast-to-2021-2026/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-construction-market-analysis-by-size-status-and-forecast-to-2021-2026/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 36
   - title: "Self-driving Cars and Trucks Market Analysis by Size, Status and Forecast to 2021-2026"
     excerpt: "Latest released Global Self-driving Cars and Trucks Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings, market price,"
     publishedDateTime: 2021-09-29T20:45:00Z
@@ -151,6 +176,20 @@ related:
       - url: "https://cdn.bignewsnetwork.com/cus1632803637705.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "Global Laser Processing Market Research Report (2021 to 2026) - by Vertical, Configuration, Application and Region"
+    excerpt: "The \"Laser Processing Market Research Report by Vertical, by Configuration, by Application, by Region - Global Forecast to 2026 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-09-29T19:24:00Z
+    webUrl: "https://www.lelezard.com/en/news-20022226.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 2
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/mining-industry.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "d9kZmZFCB6uakkukJgb7kcFzB6W0l2MDB9cuC66SNzusMr5mZ26nnkbOM4rLpLJZPo7En0XD5DjyHGqK/b3bW2J2OY/Gkv1o+ASYGbJiPpD6htFp7OuXiaYrFgcCruNHfIqXcvNKsWRu2IZ2qSkR5u0hrhrfh4slwmWwqYFevOpjp9xdUkXPL2+vH5v1FzamenY6DqYRqih5pHwJr/Yja4f/yrlIC56bJHq8E24vxUpcxjg1YvimBQDIO4AxPcqEK9nyGXUyR7mncwbZJykUv25xAFkNr+w13vj7m48esNI87OMeS6bGgt19xlvaErQeFMJVgQKDwFhzQvbr6bBbz9+50v6sug8xVBN2c2QHiKE=;8/HeeOQuMFPDJqsl6nd+KA=="

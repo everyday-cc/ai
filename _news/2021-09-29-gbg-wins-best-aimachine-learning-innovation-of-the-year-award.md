@@ -1,10 +1,10 @@
 ---
 category: news
 title: "GBG wins Best AI/Machine Learning Innovation of the Year award"
-excerpt: "SINGAPORE - Media OutReach - 29 September 2021 - GBG (AIM:GBG), the global expert in digital identity, helping businesses prevent f"
+excerpt: "Judges praise GBG's technology for reducing false positives and improving fraud detection  SINGAPORE – Media OutReach – 29 Septem"
 publishedDateTime: 2021-09-29T08:42:00Z
-originalUrl: "https://menafn.com/1102883927/GBG-wins-Best-AIMachine-Learning-Innovation-of-the-Year-award"
-webUrl: "https://menafn.com/1102883927/GBG-wins-Best-AIMachine-Learning-Innovation-of-the-Year-award"
+originalUrl: "https://menafn.com/1102884008/GBG-wins-Best-AIMachine-Learning-Innovation-of-the-Year-award"
+webUrl: "https://menafn.com/1102884008/GBG-wins-Best-AIMachine-Learning-Innovation-of-the-Year-award"
 type: article
 quality: 56
 heat: 76
@@ -20,9 +20,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-09/29/MOL_82acefbd-3_Image_In_Body.jpg"
-    width: 318
-    height: 213
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?957675"
+    width: 398
+    height: 250
     isCached: true
 
 related:
@@ -52,6 +52,6 @@ related:
         height: 234
         isCached: true
 
-secured: "L3LW4mjtqjW8wVuVntYA2DpitbWA7/exHNhTrMt6VjP2dsgEgaKzXCHh0pz7eod26wxB6Xr1tzQixwZ97EcyhySz7oQ5An0Y5S9LNGAKuwbPn5iWEfxwb8mVhvGSj8t9WMrIYoAk/Mrgf1SG3MEH3jLdbkUa+d7gDzJQzPE9mrcagHlXHFKBm7r6Q4Q8vxvmSWtSVd0jE937QFpFWUegsdl/RkaZep/3Y+PpEKYkhwNKYN3O3bTQo4ukxSjnoaaO5GQrK6ZyZ4duvlRDNcGEuJ1gZVc6lsy6kgrRGT6K0RTNBIkNxj1JAMw4xnZqbFiT13yl6c1Y9a+JJqpLNsY4GdkZ0Ye0qQvkREqsiVAI0DT8gOp6axNmI5WId/QCN+Ganr6ELCGydebMuoxRNvNcTDFWYPMY9j+5AvKy9jcOC+aYpDXA8lwgTVVK5BlOwQUippbxkQkjJXlB46aTryxmIQdHMYdMVmdxwevaXxaL365AldiY+JciIqr/fPvdiCOr/m408Ht8sVYCjrwdL01Xsg==;UMOX3cZUP6BE412mvxG7Xg=="
+secured: "H7r9rhTmsd2kuT6rYlI191Egm/SWCYgzUsmxoocfg9JH9R+TVbokv60M6NNEjOXjETaQB8TSZtwW53nmicF8ddJ62so+5GIB3LrDg0IXtldH1+kcNXnHnRIYhar/FZIArhpJMQNm9H1QX/mJFjvx+OzKPfbl4Qxb5DGBwAJ/qj3BPUGXua4ORFjxTdfQCi8uogq6maV5DDRKD7/MdlVCvZFL3htptejdHhjZMsvcvqygHqcM4LuoO3FdfAuL0gNc0zu1b06u/mZgzOnvVca7dRFva2Mlyv/6TR5fzAdOOjUI9YAF4XBhDj0GMclG9LUJC4wlwQ3S2/O+OwSKR7N2ST5V7eSuumkhT/Ji+NOoLGs=;gWkZqGoLVZ2z4O+tLPw5Vg=="
 ---
 

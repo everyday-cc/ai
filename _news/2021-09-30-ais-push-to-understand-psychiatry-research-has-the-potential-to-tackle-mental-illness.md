@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/how-ai-is-advancing-psychiatry-medic
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-is-advancing-psychiatry-medicine-to-tackle-mental-illness-2021-9?amp"
 type: article
 quality: 79
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Using AI and old reports to understand new medical images"
-    excerpt: "Getting a quick and accurate reading of an X-ray or some other medical images can be vital to a patient's health and might even save a life. Obtaining such an assessment depends on the availability of a skilled radiologist and,"
-    publishedDateTime: 2021-09-27T16:23:00Z
-    webUrl: "https://techxplore.com/news/2021-09-ai-medical-images.html"
-    ampWebUrl: "https://techxplore.com/news/2021-09-ai-medical-images.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-ai-medical-images.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/using-ai-and-old-repor.jpg"
-        width: 900
-        height: 491
-        isCached: true
 
 secured: "WNx7phNefYyyOE53Y2yExHGPy3e4p2r7eYHlhNZDJtH+yHDhQCbj1XXJLeb1JBnVyg/L6Y9zSBGEvHzbPRoLmXG7yO0k5icfFpslc0n1VF/ui1s1+O7SN6ur9N/mKEk/f/7DEsWUlN/sYEjRg+BmwHZHicvOfaxRT7FCOOg9VCrw/XpKpV7ABEUpy4VOU3cXJzkHycpFBXrBj+C5WihESjksixqURq0u0VbNo/zSDZdjWz4RhMwoCApKUJHgeigN94NTg8QipuVJrK3OcPvMIFsO087+S+QZ1KOjh1YecU1q9ViA1dhDTCNTTXojntFfypGpPE9S4GMFzX/6+hQqOO2dDlI1uPW5IxRIQJsX6e5qBB10C7WGV+Ic5zFc/g2ffamlSxweNeMHGULHDGnF1S3hwXf5sUOcl4r7QVGoJWX07+x7ntDQisSfYkcsdkjF83d/Yf7DalBdB2ML3D/wemV0GImUAyDP+VBMUDD61ruDIwV/Y4URDszY++qQQI/FI3OzGhp4lpiA5kfI8B9t0w==;/UX/sebiuJ1pybhBkX80LA=="
 ---

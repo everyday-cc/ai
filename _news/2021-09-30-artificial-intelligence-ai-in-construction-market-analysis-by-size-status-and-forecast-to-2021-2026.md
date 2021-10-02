@@ -20,19 +20,51 @@ topics:
   - AI
 
 related:
-  - title: "Scope of AI, Deep Learning and Neural Network, 2021 Market Research Report"
-    excerpt: "The \"Next Wave of Deep Learning Models & Applications (RNN, CNN, and GaN)\" report has been added to ResearchAndMarkets.com's offering. As digitization progresses across industries, AI is gaining a ubiquitous adoption as more and more business processes are being automated."
-    publishedDateTime: 2021-09-29T09:42:00Z
-    webUrl: "https://menafn.com/1102884604/Scope-of-AI-Deep-Learning-and-Neural-Network-2021-Market-Research-Report"
+  - title: "Global Artificial Intelligence (AI) Speakers Market Report 2021 Prominent Key Players, Exploring Sales Volume Revenue and Forecast by 2027"
+    excerpt: "The research study on Global Artificial Intelligence (AI) Speakers Market 2021 by Manufacturers, Regions, Type"
+    publishedDateTime: 2021-09-28T03:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-report-2021-prominent-key-players-exploring-sales-volume-revenue-and-forecast-by-2027-2021-09-27"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 67
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?430465"
-        width: 413
-        height: 250
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Education Market Future Trends, Prominent Players, Covid 19 Impact and Forecast by 2030"
+    excerpt: "The global artificial intelligence AI in education market had a valuation of 1 1 billion in 2019 and it is predicted to generate a revenue of 25 7 billion by 2030 According to the estimates of P S Intelligence a"
+    publishedDateTime: 2021-09-29T11:37:00Z
+    webUrl: "https://www.openpr.com/news/2411586/ai-in-education-market-future-trends-prominent-players-covid"
+    ampWebUrl: "https://www.openpr.com/amp/2411586/ai-in-education-market-future-trends-prominent-players-covid"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2411586/ai-in-education-market-future-trends-prominent-players-covid"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 63
+    images:
+      - url: "https://cdn.openpr.com/U/9/U929455223_g.jpg"
+        width: 800
+        height: 464
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Medical Diagnostics Market Detailed Analysis and Forecast 2020-2030"
+    excerpt: "Artificial Intelligence (AI) in Medical Diagnostics Overview. Artificial intelligence (AI) has shown transformative potential in medical and healthcare industry. In particular, th"
+    publishedDateTime: 2021-09-30T02:19:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-medical-diagnostics-market-detailed-analysis-and-forecast-2020-2030/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-medical-diagnostics-market-detailed-analysis-and-forecast-2020-2030/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-medical-diagnostics-market-detailed-analysis-and-forecast-2020-2030/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 60
+    images:
+      - url: "https://cdn.openpr.com/T/b/Tb09292789_g.jpg"
+        width: 800
+        height: 433
         isCached: true
   - title: "Global Machine Learning Artificial intelligence Market 2021 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2027"
     excerpt: "The earliest projects by MarketQuest.biz titled Global Machine Learning Artificial intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2027 delivers a thorough analysis of the market,"
@@ -48,73 +80,102 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Chipsets Market Research Report to understand the Competitive Dynamics of an Industry (2021 to 2028)"
-    excerpt: "The Artificial Intelligence Chipsets Market is segmented on the lines of its component, technology, end-user and"
-    publishedDateTime: 2021-09-28T18:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-research-report-to-understand-the-competitive-dynamics-of-an-industry-2021-to-2028-2021-09-28"
+  - title: "Self-driving Cars and Trucks Market Analysis by Size, Status and Forecast to 2021-2026"
+    excerpt: "Latest released Global Self-driving Cars and Trucks Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings, market price,"
+    publishedDateTime: 2021-09-29T20:45:00Z
+    webUrl: "https://manometcurrent.com/self-driving-cars-and-trucks-market-analysis-by-size-status-and-forecast-to-2021-2026/"
+    ampWebUrl: "https://manometcurrent.com/self-driving-cars-and-trucks-market-analysis-by-size-status-and-forecast-to-2021-2026/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/self-driving-cars-and-trucks-market-analysis-by-size-status-and-forecast-to-2021-2026/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 36
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/09/Calibre-Market-Research-5-390x220.png"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Cognitive Computing Market Revenue, Major Players, Consumer Trends, Analysis & Forecast Till 2027"
+    excerpt: "United States OR Portland The Cognitive Computing Market 2021 report is a comprehensive professional and in depth research of market that delivers significant data for those who are seeking information for the Cognitive Computing industry The market report delivers the"
+    publishedDateTime: 2021-09-29T11:39:00Z
+    webUrl: "https://www.openpr.com/news/2411600/cognitive-computing-market-revenue-major-players-consumer"
+    ampWebUrl: "https://www.openpr.com/amp/2411600/cognitive-computing-market-revenue-major-players-consumer"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2411600/cognitive-computing-market-revenue-major-players-consumer"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
+    images:
+      - url: "https://cdn.openpr.com/U/9/U929767438_g.jpg"
+        width: 674
+        height: 450
+        isCached: true
+  - title: "Machine Vision Systems Market Report 2021 Offered by Practical Features, Leading Vendors, End Uses, Product Types and Revenue by 2026"
+    excerpt: "Sep 28, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Machine Vision Systems Market” Report"
+    publishedDateTime: 2021-09-28T11:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-vision-systems-market-report-2021-offered-by-practical-features-leading-vendors-end-uses-product-types-and-revenue-by-2026-2021-09-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
+    quality: 23
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "The Worldwide Microprocessor and GPU Industry is Expected to Reach $89.3 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The \"Microprocessor and GPU - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Amid the COVID-19 crisis, the global market for Microprocessor and GPU estimated at US$77."
-    publishedDateTime: 2021-09-27T11:27:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=536873"
+  - title: "Artificial Disc Replacement Market Latest Development Forecast 2021 to 2027"
+    excerpt: "Posted on September 29, 2021 by Market Insights Reports Artificial Disc Replacement Market Latest Development Forecast 2021 to 2027 The Global <st"
+    publishedDateTime: 2021-09-29T12:44:00Z
+    webUrl: "https://menafn.com/1102885965/Artificial-Disc-Replacement-Market-Latest-Development-Forecast-2021-to-2027"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 18
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 22
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?947121"
+        width: 401
+        height: 250
         isCached: true
-  - title: "Artificial Intelligence in Medical Imaging Market 2021 Industry Analysis, Size, Share, Growth, Trends and Forecast 2028"
-    excerpt: "DBMR has presented updated research report on Artificial Intelligence in Medical Imaging Market offering insightful information like market share market size and growth rate during the forecast period 2021 2028 that are precisely projected based on type application sales channel"
-    publishedDateTime: 2021-09-28T11:47:00Z
-    webUrl: "https://www.openpr.com/news/2409862/artificial-intelligence-in-medical-imaging-market-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2409862/artificial-intelligence-in-medical-imaging-market-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2409862/artificial-intelligence-in-medical-imaging-market-2021"
+  - title: "Global Artificial Intelligence in IoT Market 2021 Size Share Upcoming Trends Segmentation, Opportunities and Forecast To 2026"
+    excerpt: "The New Report Global Artificial Intelligence in IoT Market published by Reports Web covers the competitive landscape analysis and its growth prospects over the coming years The report also covers the major region such as North America Europe Asia Pacific"
+    publishedDateTime: 2021-09-28T09:45:00Z
+    webUrl: "https://www.openpr.com/news/2409288/global-artificial-intelligence-in-iot-market-2021-size-share"
+    ampWebUrl: "https://www.openpr.com/amp/2409288/global-artificial-intelligence-in-iot-market-2021-size-share"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2409288/global-artificial-intelligence-in-iot-market-2021-size-share"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 15
-  - title: "The Worldwide Edge AI Hardware Industry is Expected to Grow at a CAGR of 17.1% from 2021 to 2026 - ResearchAndMarkets.com"
-    excerpt: "The \"Global Edge AI Hardware Market with COVID-19 Impact Analysis by Device, Processor (CPU, GPU, ASICs), End-user, Function (Training, Inference), Power (Less Than 1W, 1-3 W, 3-5 W, 5-10W, More Than 10W) and Region - Forecast to 2026\" report"
-    publishedDateTime: 2021-09-30T09:41:00Z
-    webUrl: "https://www.lelezard.com/en/news-20022824.html"
+    quality: 12
+  - title: "Global Underwater Computer Vision Market 2021 Key Players, Product Type, Geographical Regions and End-User Applicants by 2027"
+    excerpt: "The research released by MarketsandResearchbiz named Global Underwater Computer Vision Market 2021 by Company Regi"
+    publishedDateTime: 2021-09-27T19:11:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271325720/global-underwater-computer-vision-market-2021-key-players-product-type-geographical-regions-and-end-user-applicants-by-2027"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 14
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 12
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
+      - url: "https://cdn.bignewsnetwork.com/cus1632803637705.jpg"
+        width: 630
+        height: 420
         isCached: true
-  - title: "Global Microprocessor and GPU Market (2020 to 2027) - by Product, GPU Type, Application and Geography - ResearchAndMarkets.com"
-    excerpt: "The Microprocessor and GPU Market is anticipated to grow at the rate of 6.2% CAGR by 2027. The microprocessor is also known as the control processing unit of a computer system that executes arithmetic and logic operations,"
-    publishedDateTime: 2021-09-27T10:47:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=536832"
+  - title: "Self-driving Vehicles Market Enhancement, Latest Trends, Growth and Opportunities during 2021 to 2027"
+    excerpt: "The Self driving Vehicles Market research report provides detailed observation of several aspects including the rate of growth regional scope and recent developments by the primary market players The report offers Porter s Five Forces PESTEL and market analysis to"
+    publishedDateTime: 2021-09-28T09:48:00Z
+    webUrl: "https://www.openpr.com/news/2409307/self-driving-vehicles-market-enhancement-latest-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2409307/self-driving-vehicles-market-enhancement-latest-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2409307/self-driving-vehicles-market-enhancement-latest-trends"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 11
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 9
   - title: "Global Laser Processing Market Research Report (2021 to 2026) - by Vertical, Configuration, Application and Region"
     excerpt: "The \"Laser Processing Market Research Report by Vertical, by Configuration, by Application, by Region - Global Forecast to 2026 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-09-29T19:24:00Z

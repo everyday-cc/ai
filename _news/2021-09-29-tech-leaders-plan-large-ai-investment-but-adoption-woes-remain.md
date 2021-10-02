@@ -52,20 +52,6 @@ related:
         width: 443
         height: 613
         isCached: true
-  - title: "Artificial intelligence-based security service receives investment"
-    excerpt: "Eyedius, which provides artificial intelligence supported alarm and proactive security services by using the existing security cameras of the users, has completed its new investment round that will accelerate its growth in Turkey and the global market."
-    publishedDateTime: 2021-09-27T09:04:00Z
-    webUrl: "https://www.bthaber.com/artificial-intelligence-based-security-service-receives-investment/"
-    type: article
-    provider:
-      name: bthaber.com
-      domain: bthaber.com
-    quality: 54
-    images:
-      - url: "https://www.bthaber.com/wp-content/uploads/2021/09/SiberGuvenlik01.jpg"
-        width: 800
-        height: 480
-        isCached: true
   - title: "BGV Raises $110M to focus on Enterprise AI and Cross-Border Investments"
     excerpt: "Silicon Valley-based venture capital (VC) firm Benhamou Global Ventures (BGV), which invests in Enterprise 4.0 companies globally, today announced its fourth fund, closing at $110M, 60% larger than its third fund."
     publishedDateTime: 2021-09-30T15:08:00Z

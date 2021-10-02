@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-20-baidu-reveals-its-maximally-autonomous-robocar.md",
+      "title": "Baidu reveals its maximally autonomous ‘robocar’",
+      "excerpt": "At the end of 2018, John Krafcik, boss of Waymo at the time (Alphabet ... Kunlun chip specialised in calculations and artificial intelligence seems to be part of the solution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/08/20/baidu-reveals-its-maximally-autonomous-robocar",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/08/20/baidu-reveals-its-maximally-autonomous-robocar",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/08/20/1262768.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-20-tesla-to-hold-ai-day-at-a-time-of-new-scrutiny-what-to-expect.md",
       "title": "Tesla to Hold AI Day at a Time of New Scrutiny: What to Expect",
       "excerpt": "The world’s most valuable car maker is holding an event to promote its use of artificial intelligence, just as federal regulators this week announced a new investigation into the company’s Autopilot driver assistance technology.",
@@ -1354,50 +1397,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-getting-started-with-the-aws-deepracer-offroad-sample-project.md",
-      "title": "Getting started with the AWS DeepRacer Offroad sample project",
-      "excerpt": "The AWS DeepRacer Offroad sample project is a sample application built on top of the existing AWS DeepRacer application that adds additional capability to the AWS DeepRacer device to autonomously navigate through a path of QR codes by decoding the ...",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/aws-deepracer/aws-deepracer-offroad-sample-project/blob/main/getting-started.md",
-      "originalUrl": "https://github.com/aws-deepracer/aws-deepracer-offroad-sample-project/blob/main/getting-started.md",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opengraph.githubassets.com/2155729e54c4bf5f0daf5f0d6135b373bf5b9f812118fc22c12c966f51502308/aws-deepracer/aws-deepracer-offroad-sample-project",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-14T17:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

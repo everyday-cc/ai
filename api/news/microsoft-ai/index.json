@@ -158,6 +158,50 @@
       ]
     },
     {
+      "path": "_news/2021-09-30-immuniweb-launches-free-cloud-security-test-to-detect-unprotected-storage.md",
+      "title": "ImmuniWeb Launches Free Cloud Security Test to Detect Unprotected Storage",
+      "excerpt": "The IDC cloud security survey 2021 states that as many as 98% of companies were victims of a cloud data breach within the past 18 months. Fostered by the pandemic, small and large organizations from all over the world are migrating their data and infrastructure into a public cloud,",
+      "sourceUrl": null,
+      "webUrl": "https://thehackernews.com/2021/09/immuniweb-launches-free-cloud-security.html",
+      "originalUrl": "https://thehackernews.com/2021/09/immuniweb-launches-free-cloud-security.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehackernews.com/images/-md3YVJjBNZY/YVSuqolg06I/AAAAAAAABRA/69R-lwGKrmURHClMyTIQ7NDOS3eUN0b_QCLcBGAsYHQ/s728-e1000/cloud-security-test.jpg",
+          "width": 728,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehackernews.com/2021/09/immuniweb-launches-free-cloud-security.html?amp=1",
+      "cdnAmpWebUrl": "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2021/09/immuniweb-launches-free-cloud-security.html?amp=1",
+      "publishedDateTime": "2021-09-30T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hacker News",
+        "domain": "thehackernews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-artificial-intelligence-ai-in-retail-market-to-see-major-growth-by-2026-ibm-microsoft-nvidia.md",
       "title": "Artificial Intelligence Ai In Retail Market to See Major Growth by 2026 | IBM, Microsoft, Nvidia",
       "excerpt": "The latest independent research document on Worldwide Artificial Intelligence Ai In Retail examine investment in Market. It describes how compan",
@@ -294,6 +338,51 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-comparing-aws-microsoft-and-google-cloud-cyber-security-in-the-public-cloud.md",
+      "title": "Comparing AWS, Microsoft and Google Cloud: Cyber security in the public cloud",
+      "excerpt": "A brief guide to the network, infrastructure, data and app security capabilities AWS, Microsoft Azure and Google Cloud provide to prevent cyber attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/691588/comparing-aws-microsoft-google-cloud-cyber-security-public-cloud/",
+      "originalUrl": "https://www.arnnet.com.au/article/691588/comparing-aws-microsoft-google-cloud-cyber-security-public-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/aws_microsoft_google_updated_2.jpg",
+          "width": 504,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T00:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security",
+        "Microsoft AI"
       ]
     },
     {
@@ -1306,75 +1395,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-in-car-speech-recognition-system-market-2021-analysis-by-top-manufacturers-lumenvox-microsoft-alphabet.md",
-      "title": "In-car Speech Recognition System Market 2021 Analysis by Top Manufacturers - LumenVox, Microsoft, Alphabet",
-      "excerpt": "The In car Speech Recognition System Market research report provides detailed observation of several aspects including the rate of growth regional scope and recent developments by the primary market players The report offers Porter s Five Forces PESTEL and market",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2394373/in-car-speech-recognition-system-market-2021-analysis-by-top",
-      "originalUrl": "https://www.openpr.com/news/2394373/in-car-speech-recognition-system-market-2021-analysis-by-top",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2394373/in-car-speech-recognition-system-market-2021-analysis-by-top",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2394373/in-car-speech-recognition-system-market-2021-analysis-by-top",
-      "publishedDateTime": "2021-09-15T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences.md",
-      "title": "Former BigHand Head of Product joins Wilson Allen as Director of Data Sciences",
-      "excerpt": "Wilson Allen today announced the addition of James Baldassarra as Director of Data Sciences. In his new role at the company, Baldassarra will be responsible for rolling out Wilson’s Managed Analytics Services,",
-      "sourceUrl": null,
-      "webUrl": "https://www.legalitprofessionals.com/global-news/12672-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences",
-      "originalUrl": "https://www.legalitprofessionals.com/global-news/12672-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "legalitprofessionals.com",
-        "domain": "legalitprofessionals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

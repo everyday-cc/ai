@@ -2,6 +2,179 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-09-07-alphabets-deepmind-forms-ethics-unit-for-artificial-intelligence.md",
+      "title": "Alphabet's DeepMind Forms Ethics Unit for Artificial Intelligence",
+      "excerpt": "DeepMind, the Google sibling focusing on artificial intelligence, has announced the launch of an \"ethics and society\" unit to study the impact of new technologies on society. The announcement by the London-based group acquired by Google parent Alphabet is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/22024286/alphabets-deepmind-forms-ethics-unit-for-artificial-intelligence",
+      "originalUrl": "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/22024286/alphabets-deepmind-forms-ethics-unit-for-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.industryweek.com/files/base/ebm/industryweek/image/2019/04/industryweek_24951_ai_0.png?auto=format&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IndustryWeek",
+        "domain": "industryweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-deepmind-is-working-on-a-solution-to-bias-in-ai.md",
+      "title": "DeepMind Is Working on a Solution to Bias in AI",
+      "excerpt": "In DeepMind's hypothetical college admissions example: qualifications (Q), gender (G), and choice of department (D), all factor into whether a candidate is admitted (A). A Causal Bayesian Network can identify causal and non casual relationships between ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
+      "originalUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/DeepMind%20CBN%20example.png",
+          "width": 1178,
+          "height": 1070,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-googles-newest-nest-cam-is-a-solid-security-camera-if-youre-all-in-with-google.md",
+      "title": "Google’s Newest Nest Cam Is a Solid Security Camera If You’re All In With Google",
+      "excerpt": "But the old Nest cameras don’t have on-device facial and object recognition. They also don’t offer 24/7 live recording or access to the free tier of Nest Aware. As it stands, the new Nest ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2021/09/googles-newest-nest-cam-is-a-solid-security-camera-if-youre-all-in-with-google/",
+      "originalUrl": "https://www.gizmodo.com.au/2021/09/googles-newest-nest-cam-is-a-solid-security-camera-if-youre-all-in-with-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgix.gizmodo.com.au/content/uploads/sites/2/2021/09/06/655954f657b2763e4d3b212bd0751a0d.png?ar=16%3A9&auto=format&fit=crop&q=65&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2021/09/googles-newest-nest-cam-is-a-solid-security-camera-if-youre-all-in-with-google/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2021/09/googles-newest-nest-cam-is-a-solid-security-camera-if-youre-all-in-with-google/amp/",
+      "publishedDateTime": "2021-09-06T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo Australia",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-why-coders-love-the-ai-that-could-put-them-out-of-a-job.md",
+      "title": "Why coders love the AI that could put them out of a job",
+      "excerpt": "As a programmer, far from seeing the tool as risking her job she likes the idea of having AI to support her with \"the more boring parts\" of coding, like checking over complicated",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/business-57914432",
+      "originalUrl": "https://www.bbc.co.uk/news/business-57914432",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/6736/production/_119522462_ai.janineluk-herpicture.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/business-57914432.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-57914432.amp",
+      "publishedDateTime": "2021-09-06T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare.md",
       "title": "When Fintech Meets Healthcare: How can cryptocurrencies and blockchain improve access to healthcare?",
       "excerpt": "Cryptocurrencies and blockchain technology are used in a wide array of new applications – including in healthcare. Fintech start-ups are the catalyst for many of these recent market innovations – and they aren’t just focused on the banking and financial services sector.",
@@ -977,184 +1150,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-05-companies-need-more-workers-why-do-they-reject-millions-of-resumes.md",
-      "title": "Companies Need More Workers. Why Do They Reject Millions of Résumés?",
-      "excerpt": "Companies are desperate to hire, and yet some workers still can’t seem to find jobs. Here may be one reason why ... do the job they are supposed to do. They also exclude more than 10 million ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/companies-need-more-workers-why-do-they-reject-millions-of-resumes-11630728008?mod=djemalertNEWS",
-      "originalUrl": "https://www.wsj.com/articles/companies-need-more-workers-why-do-they-reject-millions-of-resumes-11630728008",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-395991/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/companies-need-more-workers-why-do-they-reject-millions-of-resumes-11630728008",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/companies-need-more-workers-why-do-they-reject-millions-of-resumes-11630728008",
-      "publishedDateTime": "2021-09-04T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-susan-bathalon-participating-in-an-astm-task-group-teleconference-on-computer-vision-based-drowning-detection-systems-for-residential-swimming.md",
-      "title": "Susan Bathalon Participating in an ASTM Task group Teleconference on Computer Vision-Based Drowning Detection Systems for Residential Swimming Pools",
-      "excerpt": "Add to Calendar 09/13/2021 3:00 pm 09/13/2021 4:00 pm America/New_York Susan Bathalon Participating in an ASTM Task group Teleconference on Computer Vision-Based Drowning Detection Systems for Residential Swimming Pools Susan Bathalon from the Office of Hazard Identification and Reduction (EXHR) will participate in an ASTM task group teleconference to discuss drowning sensor detection systems in residential swimming pools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cpsc.gov/th/Newsroom/Public-Calendar/2021-09-13T150000/Susan-Bathalon-Participating-in-an-ASTM-Task-group-Teleconference-on-Computer-Vision-Based-Drowning-Detection-Systems-for-Residential-Swimming-Pools?language=ko",
-      "originalUrl": "https://www.cpsc.gov/th/Newsroom/Public-Calendar/2021-09-13T150000/Susan-Bathalon-Participating-in-an-ASTM-Task-group-Teleconference-on-Computer-Vision-Based-Drowning-Detection-Systems-for-Residential-Swimming-Pools?language=ko",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-04T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Consumer Protection Safety Commission",
-        "domain": "cpsc.gov",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-facebook-apologizes-after-its-ai-software-labels-black-men-primates-in-a-video-featured-on-the-platform.md",
-      "title": "Facebook apologizes after its AI software labels Black men 'primates' in a video featured on the platform",
-      "excerpt": "Facebook called the offensive labeling of Black men an \"unacceptable error\" and said it disabled the topic-recommendation software in question.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.html",
-      "originalUrl": "https://www.msn.com/en-us/finance/other/facebook-apologizes-after-its-ai-software-labels-black-men-primates-in-a-video-featured-on-the-platform/ar-AAO5KzT",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 220,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/09/03/business/03economy-briefing-facebook/03economy-briefing-facebook-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.amp.html",
-      "publishedDateTime": "2021-09-04T02:22:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/2021/09/03/technology/facebook-ai-race-primates.html",
-        "domain": "com/2021/09/03/technology/facebook-ai-race-primates.html",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-ai-weekly-an-outline-for-government-regulation-of-ai.md",
-      "title": "AI Weekly: An outline for government regulation of AI",
-      "excerpt": "The Transform Technology Summits start October 13th with Low-Code/No Code: Enabling Enterprise Agility. Register now! Governments face a range of policy challenges around AI technologies, many of which are exacerbated by the fact that they lack sufficiently detailed information.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/03/ai-weekly-an-outline-for-government-regulation-of-ai/",
-      "originalUrl": "https://venturebeat.com/2021/09/03/ai-weekly-an-outline-for-government-regulation-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/government_meeting.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/03/ai-weekly-an-outline-for-government-regulation-of-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/03/ai-weekly-an-outline-for-government-regulation-of-ai/amp/",
-      "publishedDateTime": "2021-09-04T01:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

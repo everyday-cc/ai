@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla Request Button For Full-Self Driving Beta Tests Goes Live - Details Here"
-    excerpt: "Electric vehicle Tesla users who wish to take part in the company's Full Self-Driving (FSD) Beta programme could now formally request the advanced driver-assist system to be loaded into their vehicle."
-    publishedDateTime: 2021-09-27T10:28:00Z
-    webUrl: "https://www.news18.com/news/auto/tesla-request-button-for-full-self-driving-beta-tests-goes-live-details-here-4251020.html"
-    ampWebUrl: "https://www.news18.com/amp/news/auto/tesla-request-button-for-full-self-driving-beta-tests-goes-live-details-here-4251020.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/auto/tesla-request-button-for-full-self-driving-beta-tests-goes-live-details-here-4251020.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 85
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/08/tesla-model-y-1-163273003216x9.png"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Tesla uses YouTubers to test self-driving tech on public streets rather than trained safety drivers"
     excerpt: "Safety experts are outraged Tesla lets would-be influencers test version 10.1 of its Full Self-Driving AI. One YouTuber lurched toward pedestrians when his steering wheel suddenly veered right."
     publishedDateTime: 2021-09-27T21:42:00Z
@@ -271,6 +255,15 @@ related:
         width: 1199
         height: 702
         isCached: true
+  - title: "Elon Musk unveils plans for humanoid robot that uses Tesla's artificial intelligence"
+    excerpt: "Thursday amid renewed criticism for Autopilot, its most-talked-about AI-based system, as it unveiled its next big project: a humanoid robot. At the company's first AI Day, Chief Executive Elon Musk gave a preview of the Tesla Bot,"
+    publishedDateTime: 2021-10-01T22:16:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/202110011198/elon-musk-unveils-plans-for-humanoid-robot-that-uses-teslas-artificial-intelligence"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 44
   - title: "See how Tesla's 'full self-driving' mode works"
     excerpt: "Despite concerns from regulators,Tesla is rolling out its autonomous driving feature to some owners who can prove they are safe drivers."
     publishedDateTime: 2021-10-01T16:10:00Z

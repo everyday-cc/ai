@@ -777,6 +777,59 @@
       ]
     },
     {
+      "path": "_news/2021-09-28-artificial-intelligence-chipsets-market-size-outlook-opportunity-and-demand-analysis-report-by-2026.md",
+      "title": "Artificial Intelligence Chipsets Market Size Outlook, Opportunity and Demand Analysis Report by 2026",
+      "excerpt": "The Artificial Intelligence Chipsets (AI) Market growth is ascribed to massive growth of e-commerce as well as social media platforms. The increasing use of social media and ecommerce platforms has further led to strong growth in data volume,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-outlook-opportunity-and-demand-analysis-report-by-2026-2021-09-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-outlook-opportunity-and-demand-analysis-report-by-2026-2021-09-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T21:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-anyone-can-download-an-autonomous-research-robot-from-the-air-force-research-laboratory.md",
       "title": "Anyone Can Download An Autonomous ‘Research Robot’ From The Air Force Research Laboratory",
       "excerpt": "In the fight to prevail over America’s adversaries by out-innovating them - a fight which has all the hallmarks of a Cold War despite President Biden’s assertions to the contrary - increasing the speed at which physical lab experiments can be done and iterated is vital.",
@@ -890,7 +943,7 @@
       "originalUrl": "https://www.linkedin.com/pulse/ai-robotics-good-investments-james-sanders",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1399,50 +1452,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-nvidia-and-open-robotics-accelerate-ros-2-performance.md",
-      "title": "NVIDIA and Open Robotics accelerate ROS 2 performance",
-      "excerpt": "NVIDIA and Open Robotics have entered into an agreement to accelerate ROS 2 performance on NVIDIA’s Jetson edge AI platform and GPU-based systems. These in",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsweekly.com/news/business/nvidia-open-robotics-accelerate-ros-2-performance-2021-09/",
-      "originalUrl": "https://www.electronicsweekly.com/news/business/nvidia-open-robotics-accelerate-ros-2-performance-2021-09/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.electronicsweekly.com/wp-content/uploads/2021/09/23134602/2ED81732-16CA-40BF-8662-7758178B331D.jpeg",
-          "width": 960,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-23T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics Weekly",
-        "domain": "electronicsweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI",
         "AI in Robotics"
       ]

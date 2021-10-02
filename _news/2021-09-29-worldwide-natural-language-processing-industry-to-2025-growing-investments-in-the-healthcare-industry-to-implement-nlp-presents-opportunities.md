@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Worldwide Edge AI Hardware Industry is Expected to Grow at a CAGR of 17.1% from 2021 to 2026 - ResearchAndMarkets.com"
+    excerpt: "The \"Global Edge AI Hardware Market with COVID-19 Impact Analysis by Device, Processor (CPU, GPU, ASICs), End-user, Function (Training, Inference), Power (Less Than 1W, 1-3 W, 3-5 W, 5-10W, More Than 10W) and Region - Forecast to 2026\" report"
+    publishedDateTime: 2021-09-30T09:41:00Z
+    webUrl: "https://www.lelezard.com/en/news-20022824.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 14
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
+        isCached: true
   - title: "Worldwide Mission Critical Communications Industry Report to 2026 - 5 Cases Studies Included"
     excerpt: "The \"Mission Critical Communications Market by Enterprise, Industrial and Government Solutions 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. The market for mission critical communications is rapidly evolving as developing technologies supply solutions necessary to meet emerging demand for improved voice,"
     publishedDateTime: 2021-09-30T19:42:00Z

@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vietnam Pharmaceuticals Market to Grow Along With Healthcare Industry until 2026"
-    excerpt: "Advanced medicine development is driving the growth of Vietnam Pharmaceuticals Market in the forecast period 2022 2026 According to TechSci report on Vietnam Pharmaceuticals Market By Drug Type Generic Drugs v s Branded Drugs By Product Type Prescription Drugs v"
-    publishedDateTime: 2021-09-27T09:41:00Z
-    webUrl: "https://www.openpr.com/news/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare"
-    ampWebUrl: "https://www.openpr.com/amp/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 54
-    images:
-      - url: "https://cdn.openpr.com/U/9/U927716201_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Healthcare in 2021 - an interview with industry leading experts"
     excerpt: "We got a lucky chance to talk with the founders of DeHealth LLC — a digital health project that is going to change the current healthcare paradigm and make affordable quality healthcare available worldwide."
     publishedDateTime: 2021-09-30T07:00:00Z

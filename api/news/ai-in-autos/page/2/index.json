@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-17-baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-to-automate-road-freight.md",
+      "title": "Baidu-Backed DeepWay Unveils Smart New Energy Heavy-Duty Truck to Automate Road Freight",
+      "excerpt": "Powered by Baidu's globally recognized AI technology ... The first generation of Xingtu is designed to enable L3 self-driving on high-speed freight routes and achieve L4 capabilities on these ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/09/n22986992/baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-to-automate-road-freight",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/n22986992/baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-to-automate-road-freight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1628715/Xingtu.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22986992",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22986992",
+      "publishedDateTime": "2021-09-17T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-17-tesla-will-make-sure-you-are-a-good-driver-before-giving-you-access-to-full-self-driving-beta.md",
       "title": "Tesla will make sure you are a good driver before giving you access to Full Self-Driving Beta",
       "excerpt": "Elon Musk said that Tesla will use its telemetry data to make sure customers are “good” drivers before allowing them to access its Full Self-Driving Beta software. This is a tricky situation since those customers already paid for the software.",
@@ -1284,50 +1327,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-botz-a-robotics-ai-etf-with-a-strong-track-record.md",
-      "title": "BOTZ: A Robotics & AI ETF With A Strong Track Record",
-      "excerpt": "Technology stocks, ETFs, portfolio strategy, renewable energy, and O&G companies. Primary goal is growing net-worth. I typically allocate a portion of my own portfolio and devote some of my SA ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4454193-botz-a-robotics-and-ai-etf-with-a-strong-track-record",
-      "originalUrl": "https://seekingalpha.com/article/4454193-botz-a-robotics-and-ai-etf-with-a-strong-track-record",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1280407804/medium_image_1280407804.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4454193-botz-a-robotics-and-ai-etf-with-a-strong-track-record",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4454193-botz-a-robotics-and-ai-etf-with-a-strong-track-record",
-      "publishedDateTime": "2021-09-09T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

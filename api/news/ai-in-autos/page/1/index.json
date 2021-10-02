@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-02-gms-cruise-waymo-get-permits-for-self-driving-rides-in-san-francisco.md",
+      "title": "GM’s Cruise, Waymo get permits for self driving rides in San Francisco",
+      "excerpt": "GM's Cruise and Alphabet's Waymo are the first companies to get permits to give rides in its autonomous vehicles to passengers.",
+      "sourceUrl": null,
+      "webUrl": "https://techstory.in/gms-cruise-waymo-get-permits-for-self-driving-rides-in-san-francisco/",
+      "originalUrl": "https://techstory.in/gms-cruise-waymo-get-permits-for-self-driving-rides-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2021/10/im-409850.jpg",
+          "width": 700,
+          "height": 458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-01T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech",
+        "domain": "techstory.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-elon-musk-says-tesla-shouldnt-have-an-nda-for-its-full-self-driving-beta.md",
       "title": "Elon Musk says Tesla shouldn’t have an NDA for its Full Self-Driving Beta",
       "excerpt": "Elon Musk says Tesla shouldn’t have a non-disclosure agreement (NDA) for its Full Self-Driving (FSD) Beta testers. Yesterday, we reported on Tesla’s NDA for its Full Self-Driving Beta program. In the document,",
@@ -1396,49 +1439,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-to-automate-road-freight.md",
-      "title": "Baidu-Backed DeepWay Unveils Smart New Energy Heavy-Duty Truck to Automate Road Freight",
-      "excerpt": "Powered by Baidu's globally recognized AI technology ... The first generation of Xingtu is designed to enable L3 self-driving on high-speed freight routes and achieve L4 capabilities on these ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/09/n22986992/baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-to-automate-road-freight",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/n22986992/baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-to-automate-road-freight",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1628715/Xingtu.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22986992",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22986992",
-      "publishedDateTime": "2021-09-17T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

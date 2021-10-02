@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-report-2021-prominent-key-players-exploring-sales-volume-revenue-and-forecast-by-2027-2021-09-27"
 type: article
 quality: 65
-heat: 155
+heat: 185
 published: true
 
 provider:
@@ -61,6 +61,31 @@ related:
         width: 800
         height: 433
         isCached: true
+  - title: "Global Machine Learning Artificial intelligence Market 2021 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2027"
+    excerpt: "The earliest projects by MarketQuest.biz titled Global Machine Learning Artificial intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2027 delivers a thorough analysis of the market,"
+    publishedDateTime: 2021-09-28T04:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-artificial-intelligence-market-2021-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2027-2021-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Construction Market Analysis by Size, Status and Forecast to 2021-2026"
+    excerpt: "Latest released Global Artificial Intelligence (AI) in Construction Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings,"
+    publishedDateTime: 2021-09-29T20:47:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-construction-market-analysis-by-size-status-and-forecast-to-2021-2026/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-construction-market-analysis-by-size-status-and-forecast-to-2021-2026/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-construction-market-analysis-by-size-status-and-forecast-to-2021-2026/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 36
   - title: "Self-driving Cars and Trucks Market Analysis by Size, Status and Forecast to 2021-2026"
     excerpt: "Latest released Global Self-driving Cars and Trucks Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings, market price,"
     publishedDateTime: 2021-09-29T20:45:00Z
@@ -157,6 +182,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 9
+  - title: "Global Laser Processing Market Research Report (2021 to 2026) - by Vertical, Configuration, Application and Region"
+    excerpt: "The \"Laser Processing Market Research Report by Vertical, by Configuration, by Application, by Region - Global Forecast to 2026 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-09-29T19:24:00Z
+    webUrl: "https://www.lelezard.com/en/news-20022226.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 2
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/mining-industry.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "2IGbTt9bzzmIFpGBvPDiseViII/0uFh1MsR68Yg072RS/ZOtynuAJj8OGVaebkXE1lUwPIT6woEyPN3vt/1VO3yrUBu7YdlozBAylajgP42cNY8Ys0I8zutQ2O1tQBsAWjAyGsF5f2FOfKWGAFpBOqM4Do4HeoLSameTPem6hxH4LpPMtRLOgENjL1aibgmdDGSeGMSuAbWo0XISuf6DjQn8l56+87m5wKJXOiGKQgCWCigOIGgjnPoOJoU0YETVjc40XdR1Trg8wouNYZ1cHO+WVWIxK+kV4SYqOLr9x0eMwEIvr/psuwFBnATLikH3I31QZnDGypBL5WlctbwjXT6rcT1PQsngKwIFihGm7G0=;mg5s5nvgC4EG25tauUXrmQ=="
 ---

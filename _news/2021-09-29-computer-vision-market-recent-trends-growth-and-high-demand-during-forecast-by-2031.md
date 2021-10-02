@@ -22,18 +22,18 @@ topics:
 
 related:
   - title: "Computer Vision Market Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for  Computer Vision Market  for 2021 till"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Computer Vision Market for 2021 till 2030. Report further now discus"
     publishedDateTime: 2021-10-01T04:41:00Z
-    webUrl: "https://menafn.com/1102897489/Computer-Vision-Market-Top-Companies-Business-Growth-And-Investment-Opportunities-Share-and-Forecasts-2030"
+    webUrl: "https://menafn.com/1102897488/Computer-Vision-Market-Top-Companies-Business-Growth-And-Investment-Opportunities-Share-and-Forecasts-2030"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 20
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?655954"
-        width: 444
-        height: 249
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?957675"
+        width: 398
+        height: 250
         isCached: true
 
 secured: "d6SAoYJ6Jm4Ynk18nrPNB9NLjdF4pkgSW50+tWv/9ARfwm15TnhAnuBmJ+FOoJe3fWD4jWLfSXlcarVToxIb7SoxBhjZDNzswJQlYUD9gwGSF41EghdfAu1UPdC0cIJMtnW8XLattWjoqD6x8l/zE+4wdfQD6mqTyj6tOT9j8rQpiTF82Yxkxru3//gt9gZq9FTJ0mYKkedqeuUilJSCmGekgsBp/SxWmH5cbTyiUJ+CXzu3PGRDQrir7Ri5wk3C5ebxeUq69aGtmVdYCnn+kjTyPsD4+p+5toDTs4saoETQCEADEzCknwB8g8chMXPGswDxl+NIP/PrmSMRUJ5wc4xOfTWv9JThqbvf8H0RKfo=;+yeoacHCCN1tYQRfpWMDEg=="

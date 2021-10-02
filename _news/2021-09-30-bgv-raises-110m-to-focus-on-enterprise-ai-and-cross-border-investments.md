@@ -50,20 +50,6 @@ related:
         width: 443
         height: 613
         isCached: true
-  - title: "Artificial intelligence-based security service receives investment"
-    excerpt: "Eyedius, which provides artificial intelligence supported alarm and proactive security services by using the existing security cameras of the users, has completed its new investment round that will accelerate its growth in Turkey and the global market."
-    publishedDateTime: 2021-09-27T09:04:00Z
-    webUrl: "https://www.bthaber.com/artificial-intelligence-based-security-service-receives-investment/"
-    type: article
-    provider:
-      name: bthaber.com
-      domain: bthaber.com
-    quality: 54
-    images:
-      - url: "https://www.bthaber.com/wp-content/uploads/2021/09/SiberGuvenlik01.jpg"
-        width: 800
-        height: 480
-        isCached: true
   - title: "Tech leaders plan large AI investment, but adoption woes remain"
     excerpt: "Four in 10 technology decision-makers say emerging AI applications are still under development, a Gartner survey found."
     publishedDateTime: 2021-09-29T07:47:00Z

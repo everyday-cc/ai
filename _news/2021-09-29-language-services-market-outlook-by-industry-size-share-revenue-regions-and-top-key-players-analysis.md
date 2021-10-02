@@ -91,6 +91,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 18
+  - title: "Artificial Intelligence in Medical Imaging Market 2021 Industry Analysis, Size, Share, Growth, Trends and Forecast 2028"
+    excerpt: "DBMR has presented updated research report on Artificial Intelligence in Medical Imaging Market offering insightful information like market share market size and growth rate during the forecast period 2021 2028 that are precisely projected based on type application sales channel"
+    publishedDateTime: 2021-09-28T11:47:00Z
+    webUrl: "https://www.openpr.com/news/2409862/artificial-intelligence-in-medical-imaging-market-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2409862/artificial-intelligence-in-medical-imaging-market-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2409862/artificial-intelligence-in-medical-imaging-market-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 15
   - title: "Voice Assistant Application Market worth $11.2 billion by 2026 - Exclusive Report by MarketsandMarkets™"
     excerpt: "According to a research report \"Voice Assistant Application Market with COVID-19 Impact by Component, Deployment Mode, Organization"
     publishedDateTime: 2021-10-01T14:30:00Z

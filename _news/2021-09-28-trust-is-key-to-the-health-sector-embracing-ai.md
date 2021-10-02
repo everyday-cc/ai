@@ -45,22 +45,6 @@ related:
         width: 750
         height: 400
         isCached: true
-  - title: "How the AI Economy is Shaping Cities"
-    excerpt: "Like other technologies, artificial intelligence tech seems to be clustering in a small group of cities, prompting questions about its uneven deployment."
-    publishedDateTime: 2021-09-27T17:00:00Z
-    webUrl: "https://www.planetizen.com/news/2021/09/114779-how-ai-economy-shaping-cities"
-    ampWebUrl: "https://www.planetizen.com/news/2021/09/114779-how-ai-economy-shaping-cities?amp"
-    cdnAmpWebUrl: "https://www-planetizen-com.cdn.ampproject.org/c/s/www.planetizen.com/news/2021/09/114779-how-ai-economy-shaping-cities?amp"
-    type: article
-    provider:
-      name: PLANetizen
-      domain: planetizen.com
-    quality: 57
-    images:
-      - url: "https://www.planetizen.com/files/images/shutterstock_566361814.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "In health care, many AI developers are white men. UNT is trying to diversify the field"
     excerpt: "NIH has awarded $100 million to UNT’s Health Science Center to lead a project to train a more diverse artificial intelligence workforce."
     publishedDateTime: 2021-10-01T13:45:00Z

@@ -25,18 +25,20 @@ images:
 
 related:
   - title: "Vice President calls for AI solutions in agriculture, health, education"
-    excerpt: "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to deliver benefits to the people and enhance their quality of life."
-    publishedDateTime: 2021-09-29T02:52:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=878108"
+    excerpt: "Jaipur, Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to deliver benefits to the people and enhance ..."
+    publishedDateTime: 2021-09-29T11:35:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 56
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 76
     images:
-      - url: "http://www.daijiworld.in/images3/sq_021320_westline2.jpg"
-        width: 280
-        height: 250
+      - url: "https://etimg.etb2bimg.com/thumb/msid-86606103,imgsize-21820,width-800,height-434,overlay-etcio/vice-president-calls-for-ai-solutions-in-agriculture-health-education.jpg"
+        width: 800
+        height: 434
         isCached: true
   - title: "Vice President Naidu calls for people-centric Artificial Intelligence solutions in agriculture, health, education sectors"
     excerpt: "Vice President Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence AI to deliver benefits to"

@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Vice President calls for AI solutions in agriculture, health, education"
-excerpt: "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to deliver benefits to the people and enhance their quality of life."
-publishedDateTime: 2021-09-29T02:52:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=878108"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=878108"
+excerpt: "Jaipur, Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to deliver benefits to the people and enhance ..."
+publishedDateTime: 2021-09-29T11:35:00Z
+originalUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
+webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
+ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
+cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
 type: article
-quality: 56
-heat: 106
+quality: 76
+heat: 126
 published: true
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: cio.economictimes.indiatimes
+  domain: indiatimes.com
 
 topics:
   - Natural Language Processing
@@ -20,9 +22,9 @@ topics:
   - AI in Education
 
 images:
-  - url: "http://www.daijiworld.in/images3/sq_021320_westline2.jpg"
-    width: 280
-    height: 250
+  - url: "https://etimg.etb2bimg.com/thumb/msid-86606103,imgsize-21820,width-800,height-434,overlay-etcio/vice-president-calls-for-ai-solutions-in-agriculture-health-education.jpg"
+    width: 800
+    height: 434
     isCached: true
 
 related:
@@ -97,6 +99,6 @@ related:
         height: 216
         isCached: true
 
-secured: "dhVM92y9kTFfxEMVLuz2TxGWnhZiGrMIt52jIYPPsHIhOFY7J+DLYz5F5ow2HInXxdc3wGT8S9cbdI/qXJFgWGXi6FLdZVprsDnSP4StdYbQY+tN8nGsHGA8w1NExNca8143i/iUX0YGZxKzdHabTe4pjmyBpXwNDds1M9EhNK4SvqF3r8UJQiICsPy39YkfsKfYfqcXfUEzBnqBVTma/6IG/S3r00Rq9ZdPfihjPre3wrIHjkvsdh3Rdx6N/MSAGp/Ko6ZXD8QHF0ghHg9ayjfeebLGyhOzKAnU6cvhVzpvJ0Q+NWDS8QGtOJFAvQY62X1Ed3sgxe7+3xcNAetmet1vodQXsaemfnG/y3M5M6k=;5QFGPTz/MQVmgx4IsyacMQ=="
+secured: "S9CTtNEclKJ7WqXpTsSM7LsrEkfsvny4HyoXLMDYALUPC5l6Gr6K7VG+Kpcg3OAwcwzygdCtHTmhdOuWIRhFTDttcrlAGIIF+BbAcLAuQugTHJ5K31sX/1yuBt7k3LV9A8tx2OR1yI35alC4a7fH4RnLXOB6lUWgwUMyC4gvhmnnX6uE8OHiwkrqL0/wqYyk8ald1nXkTNrPLn0sgL2giGIr2NYHMHnUo4UcHNM8nOznOvWnkfrfTqrA0pxrFrajZQ6PhXH3umdlAwc0sQXZYvzgv2Wcq1PEpcFuHdMxgAaw0P1iB+DkFTrMIhgz3rhGACQZwCf5UeNwdo8PooVYBz2EKhidzVVMXLn98eL2bx8=;rmh1ohcu399gI2Xbu8wlHA=="
 ---
 

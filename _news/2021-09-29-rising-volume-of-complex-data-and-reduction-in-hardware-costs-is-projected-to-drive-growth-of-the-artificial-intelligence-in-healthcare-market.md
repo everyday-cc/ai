@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 633
         isCached: true
+  - title: "How AI in Healthcare is Giving a Digital Twist to Clinical Decisions"
+    excerpt: "AI has been introduced into the healthcare system as a result of the digital wave. However, as technology evolves and more medical services are disrupted, healthcare companies are shifting from artificial intelligence to augmented intelligence."
+    publishedDateTime: 2021-10-01T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/how-ai-in-healthcare-is-giving-a-digital-twist-to-clinical-decisions-nid-8587.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/sql884506.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "How to Transfer Fundamental AI Advances into Practical Solutions for Healthcare"
     excerpt: "In this special guest feature, Dave DeCaprio, CTO and Co-founder, ClosedLoop.ai, discusses what it really takes to make AI that physicians trust. There are significant challenges that go beyond the algorithms when applying AI to healthcare."
     publishedDateTime: 2021-09-29T13:00:00Z
