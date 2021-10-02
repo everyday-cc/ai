@@ -77,20 +77,6 @@ related:
         width: 1200
         height: 802
         isCached: true
-  - title: "Innatera’s Neuromorphic AI Chip to Accelerate Spiking Neural Networks"
-    excerpt: "The startup receives first ultra-low power chips from fab, reveals architectural details, recruits Cadence and Synopsys co-founder as chairman."
-    publishedDateTime: 2021-09-28T00:52:00Z
-    webUrl: "https://www.eetindia.co.in/innateras-neuromorphic-ai-chip-to-accelerate-spiking-neural-networks/"
-    type: article
-    provider:
-      name: eetindia.co.in
-      domain: eetindia.co.in
-    quality: 54
-    images:
-      - url: "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/09/Innatera-chip-photo-1.jpg"
-        width: 600
-        height: 404
-        isCached: true
   - title: "Intel’s new neuromorphic Loihi 2 chip brings tenfold performance boost"
     excerpt: "The company says that Loihi 2 is up to 10 times faster than its previous neuromorphic processor. Loihi 2 is significant for several reasons. It represents a new milestone in Intel’s efforts to develop neuromorphic processors,"
     publishedDateTime: 2021-09-30T19:42:00Z

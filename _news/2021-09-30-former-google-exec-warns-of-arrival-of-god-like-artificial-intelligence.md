@@ -24,6 +24,22 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "Former Google Exec Warns Of Apocalyptic Threat: Artificial Intelligence Researchers Are ‘Creating God’"
+    excerpt: "Ex-Google R & D executive Mo Gawdat warns that researchers who are developing artificial intelligence are \"creating God.\""
+    publishedDateTime: 2021-10-02T15:47:00Z
+    webUrl: "https://brobible.com/culture/article/mo-gawdat-warns-artificial-intelligence-researchers-creating-god/"
+    type: article
+    provider:
+      name: BroBible
+      domain: brobible.com
+    quality: 23
+    images:
+      - url: "https://brobible.com/wp-content/uploads/2021/10/Mo-Gawdat-Ex-Google-Executive-Warns-Artificial-Intelligence-Researchers-Are-Creating-God.png"
+        width: 1920
+        height: 1120
+        isCached: true
+
 secured: "rE8Cl4WEk0HwyJJSTK76VsK2LkjwdyTYcyfxbE2BmefO2trBIIlYrflsnUghuWmbr2rbX+bzB+kWi/AFUEpAhxZWONWN0gNlUjxenAOBDNUqI8Purx9jQR7aGvh4qhQgJd0H8KMNodNyg/dZu2WZTmsDjR8IeXAT1PJmaNNMXEvgFarSgdToN/4W2ojgQZU1npK5nBW5Uf0TcJO9QgP2sw/UdNCt1SOVTvVDnG2uimxLD+L4vmaIjN81HE0vxLGKxwDycVpDUJAI7O8nRBcMcNlQjPHsEDkVqlLCHJfDHTo6g9zmiUpf5nUBFc3zSX1VukeCobRgoKqYwD3J0F2Br4BQw1+Bf07Awrfb30tS/Y7Wt8oJ0EaRrfWb/QRzcKZuEcJ4oiK0Z0yv0yvcG0xq18+OEoVW82QLpVukYGy6di+xg42h7GEIBtuagPqMllHwbC+dYbRdLgrLd6pDQ6tZiGkuDW1/Q+TlpYgNDDnpvErtMbQq80FAx4Gao9O5FVFbzHCdwJ2atLiy/t77MTmdtQ==;ORiFwzfJC6Rsr9j0hpGCtQ=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/technology/us-eu-launch-consultations-tech
 webUrl: "https://www.reuters.com/technology/us-eu-launch-consultations-tech-regulations-trade-china-2021-09-29/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 149
+published: true
 
 provider:
   name: Reuters
@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Competition, chips, AI on table at first U.S.-EU trade and tech meet"
-    excerpt: "The United States and the European Union hope to discuss chip shortages, artificial intelligence (AI) and tech competition issues during the first Trade and Tech Council (TTC) meeting this week, senior U."
-    publishedDateTime: 2021-09-28T00:59:00Z
-    webUrl: "https://www.reuters.com/technology/competition-chips-ai-table-first-us-eu-trade-tech-meet-2021-09-27/"
+  - title: "EU, US join hands on chip supplies, big tech"
+    excerpt: "The European Union (EU) and US reaffirmed a commitment to build partnerships aimed at rebalancing global semiconductor supply chains."
+    publishedDateTime: 2021-09-30T10:41:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/home-banner/eu-us-join-hands-on-chip-supplies-big-tech"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/home-banner/eu-us-join-hands-on-chip-supplies-big-tech/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/home-banner/eu-us-join-hands-on-chip-supplies-big-tech/amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 59
     images:
-      - url: "https://www.reuters.com/resizer/kG7wTT8IEqmAqeVS3avArZBbvuQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/M3ISMUNRE5KA3GYSTY6XVOPW6E.jpg"
-        width: 1200
-        height: 628
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2019/04/MWL2019_Collaboration_Team_Partner-e1611073647646.jpg"
+        width: 600
+        height: 375
         isCached: true
   - title: "US, EU to cooperate on chip supply, tech trade"
     excerpt: "The United States and the European Union agreed on Thursday to work together on a number of technology, economic, and trade issues at the first meeting of its Trade and Technology Council. The two"
@@ -86,6 +88,20 @@ related:
       - url: "https://i0.wp.com/thefrontierpost.com/wp-content/uploads/2021/09/13-18.jpg?fit=959%2C539&#038;ssl=1"
         width: 959
         height: 539
+        isCached: true
+  - title: "US and EU work together to sort out chip shortage"
+    excerpt: "More unified approach on Big Tech regulation The United States and European Union agreed on Wednesday to deepen transatlantic cooperation to strengthen semiconductor supply chains, and take a more unified approach to regulating big,"
+    publishedDateTime: 2021-09-30T10:05:00Z
+    webUrl: "https://www.fudzilla.com/news/53630-us-and-eu-work-together-to-sort-out-chip-shortage"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/136c4e64104efe23e64e05aeef8e534a_L.jpg"
+        width: 620
+        height: 465
         isCached: true
   - title: "US, EU launch consultations on tech regulations, chips, China trade"
     excerpt: "PITTSBURGH/WASHINGTON: US and European Union trade and competition officials launched a new forum on Wednesday joining forces to better compete with China, shield sensitive technologies, boost semiconductor supplies and coordinate regulation of large technology firms."

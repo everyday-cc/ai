@@ -45,20 +45,6 @@ related:
         width: 1199
         height: 601
         isCached: true
-  - title: "California Says Self-Driving Vehicles Must Be Zero Emission"
-    excerpt: "Looking to the future, the state will require autonomous vehicles to be all-electric by 2030. ALEXANDRIA, Va.—California Gov. Gavin Newsom has signed legislation that mandates all light-duty autonomous vehicles in the state to produce zero emissions,"
-    publishedDateTime: 2021-09-28T00:00:00Z
-    webUrl: "https://www.pressreleasepoint.com/california-says-self-driving-vehicles-must-be-zero-emission"
-    type: article
-    provider:
-      name: KLAS Press Release
-      domain: pressreleasepoint.com
-    quality: 24
-    images:
-      - url: "http://www.convenience.org/CMSPages/GetFile.aspx?guid=56c9ff40-3899-4dca-ba24-57bc212a4283"
-        width: 770
-        height: 320
-        isCached: true
   - title: "California Says Self-Driving Vehicles Must be Zero Emission"
     excerpt: "California Gov. Gavin Newsom has signed legislation that mandates all light-duty autonomous vehicles in the state to produce zero emissions, reports Tech Crunch. The law would take effect in 2030. Click here to read more."
     publishedDateTime: 2021-09-28T20:28:00Z

@@ -87,20 +87,6 @@ related:
         width: 1200
         height: 802
         isCached: true
-  - title: "Innatera’s Neuromorphic AI Chip to Accelerate Spiking Neural Networks"
-    excerpt: "The startup receives first ultra-low power chips from fab, reveals architectural details, recruits Cadence and Synopsys co-founder as chairman."
-    publishedDateTime: 2021-09-28T00:52:00Z
-    webUrl: "https://www.eetindia.co.in/innateras-neuromorphic-ai-chip-to-accelerate-spiking-neural-networks/"
-    type: article
-    provider:
-      name: eetindia.co.in
-      domain: eetindia.co.in
-    quality: 54
-    images:
-      - url: "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/09/Innatera-chip-photo-1.jpg"
-        width: 600
-        height: 404
-        isCached: true
 
 secured: "PktRxDCxLp0Zu1rAxaxtErMpwTUR43X5bdjpecyFbXrIoLWClMN4SH73+EOUsx8/uEtdyQwmQIo04kFRG+legBub0Cxu6uVlr3rnuvZ4fXcEC5OJoQNiKhtezdeN94P/Rf+5eBMJncte38mCQnyXYDLih6lTKKdBit82D1aevVLkcm29EDUKpOZaxr0qfnUde/ExOEDQGhJReRvIkUF63+sD8e3KJFdU5Avnm7Me6mUId/0MRP9HMSz/5VQEkM5gvgFaidHPj4dmtZsTU6dQRHY38ya7STVdyCCdS+64rNyB52uLSvyNqQP50V1oSqeqwq5hfVmgo7mHTheKJvMXTzgjpBqW1ZX4XY6vqarQP4sxFC3HSmAwk2UtRapZnwRq1tySQ+RA6EiC9+gyodehTpJRwoShTwDrQrCCWsXXLGi/V7cJWchr9kYgT5BXJ13ufD+tR9YjA0W3EyVUze3QckW2lhwqdSzPU+jQwndFJTmrBbMF4vZFS03CDEoRliy7rwdx0H30BlhTbqeS20tkKQ==;2VJBKxtIcHk5GYmLFcIAXw=="
 ---

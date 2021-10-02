@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung Wants To Make An AI Chip That Mimics The Human Brain"
-    excerpt: "Samsung, together with researchers from Harvard University, have published a paper that puts forth their idea of making neuromorphic chips, semiconductor technology that mimics the human brain by \"copying and pasting\"."
-    publishedDateTime: 2021-09-28T00:40:00Z
-    webUrl: "https://www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/"
-    ampWebUrl: "https://www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/amp/"
-    cdnAmpWebUrl: "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/amp/"
-    type: article
-    provider:
-      name: Lowyat.net
-      domain: lowyat.net
-    quality: 74
-    images:
-      - url: "https://www.lowyat.net/wp-content/uploads/2021/09/Brain-computer-network.jpg"
-        width: 1040
-        height: 693
-        isCached: true
   - title: "Samsung Wants To ‘Copy and Paste’ the Brain on Neuromorphic Chips"
     excerpt: "South Korean tech giant Samsung is considering developing brain-like chips by borrowing existing brain structures. The tech firm puts forward a vision to “copy and paste” the brain’s neuronal connection map onto a computer chip."
     publishedDateTime: 2021-09-28T22:53:00Z
@@ -54,34 +38,6 @@ related:
       - url: "https://www.industrytap.com/wp-content/uploads/2021/09/brain.jpg"
         width: 744
         height: 419
-        isCached: true
-  - title: "The Human Costs of AI"
-    excerpt: "In 2015 a cohort of well-known scientists and entrepreneurs including Stephen Hawking, Elon Musk, and Steve Wozniak issued a public letter urging"
-    publishedDateTime: 2021-09-30T02:23:00Z
-    webUrl: "https://www.nybooks.com/articles/2021/10/21/human-costs-artificial-intelligence/"
-    type: article
-    provider:
-      name: The New York Review of Books
-      domain: nybooks.com
-    quality: 41
-    images:
-      - url: "https://www.nybooks.com/wp-content/uploads/2021/09/halpern_1-102121crop.jpg"
-        width: 1790
-        height: 1194
-        isCached: true
-  - title: "Samsung has come up with a way to copy the human brain. How will artificial intelligence change the technology of the future?"
-    excerpt: "Monitoring Desk Samsung described the ability to copy the brain At the end of September, the specialists of the Korean company, together with scientists from Harvard University, presented the concept of imitating the human brain using semiconductor chips."
-    publishedDateTime: 2021-09-29T13:34:00Z
-    webUrl: "https://thefrontierpost.com/samsung-has-come-up-with-a-way-to-copy-the-human-brain-how-will-artificial-intelligence-change-the-technology-of-the-future/"
-    type: article
-    provider:
-      name: The Frontier Post
-      domain: thefrontierpost.com
-    quality: 25
-    images:
-      - url: "https://i0.wp.com/thefrontierpost.com/wp-content/uploads/2021/09/Samsung-has-come-up-with.jpg?fit=700%2C600&#038;ssl=1"
-        width: 700
-        height: 600
         isCached: true
 
 secured: "e70SZJ9Pxd/BfVYPuHdHkhXa3mGPoCF9xbZdSf4kGflCQBGauv772AfHWwJ0xEcjGwQpZkLeT2VoObb8exkVWnN7Pm3VCrWCcZDrKs2NzOlnoYmJqRTy7QncF/012lnLUZsaDSOOLGqfoJCvzLIaiTPQOoewM6E10sncp7jUFxEG0ibn6XejjiBcMVjaVqHpxK16wRe2TR4AmU0i6Q1WxBaPBj618KsfmmmwEXklON0Lqq9wlTsZ6DBKjyP8bFWxPsq3YAXodClssziHEyQSnu/wyZFWxKU5ieB6J70pLE924jeYkTna1enpAlpy67suWPwk1hOkvKm0bEjXkNIX44tDbO6sB8mtZ8NrkJ2NEUf7tWXz7czq/uFwKF93x8sMWk1c+yH2MjUXA5BtoWu2UNuyTRhgYFUZXXOvcRwNZKNmDPxjMSZ1UkKsIIpNDifS/A2hW0+A6yYdP1Myz4TJeadBZRc9P1Aa4pZFMqMQ40qeDadTc1jPKX8OE4bHHbuNCtyAhaBb07hlFAegLSkYXA==;qipQ/EW7H8l/NMXK95pZ4g=="
