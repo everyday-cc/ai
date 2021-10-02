@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/29/google-is-redesigning-search-using
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/29/google-is-redesigning-search-using-a-i-technologies-and-new-features/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -57,22 +57,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FGoogle-search-hed.jpg&signature=281c56c07399e375ba57b374aeca8acd"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Google Pixel 6 advert teases smart camera and AI features"
-    excerpt: "A new Google Pixel 6 advertisement has teased a suite of smart features that upcoming phones are likely to have, potentially offering improved language translation and boosted computational photography."
-    publishedDateTime: 2021-09-28T05:01:00Z
-    webUrl: "https://www.tomsguide.com/uk/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
-    ampWebUrl: "https://www.tomsguide.com/uk/amp/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 61
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/7t5W2reCUYkYMbnF9WiRQ7-1200-80.jpg"
-        width: 1200
-        height: 797
         isCached: true
   - title: "US researchers aim to identify autism earlier using artificial intelligence"
     excerpt: "Researchers at West Virginia University are turning to artificial intelligence to devise a way to properly diagnosis autism spectrum disorder."

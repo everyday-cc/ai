@@ -2,13 +2,10 @@
 category: news
 title: "AI/ML Innovations’ Tech2Heal Readies Its Remote Patient Monitoring Platform For Deployment"
 excerpt: "Product roll out and pilot studies planned for the fourth quarter 2021 TORONTO, ON / ACCESSWIRE / September 28, 2021 / AI/ML Innovations Inc. (CSE:AIML)(OTCQB:AIMLF)(FSE:42FB), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,"
-publishedDateTime: 2021-09-28T11:31:00Z
-originalUrl: "https://apnews.com/press-release/Accesswire/business-lifestyle-technology-health-artificial-intelligence-3f41066c118695d81c863123926e8d81"
-webUrl: "https://apnews.com/press-release/Accesswire/business-lifestyle-technology-health-artificial-intelligence-3f41066c118695d81c863123926e8d81"
+publishedDateTime: 2021-09-28T04:06:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/business-lifestyle-technology-health-artificial-intelligence-e12507d0d150725bc0281828cb8b96d2"
+webUrl: "https://apnews.com/press-release/accesswire/business-lifestyle-technology-health-artificial-intelligence-e12507d0d150725bc0281828cb8b96d2"
 type: article
-quality: 46
-heat: 46
-published: false
 
 provider:
   name: Associated Press
@@ -25,6 +22,6 @@ images:
     height: 450
     isCached: true
 
-secured: "fEpwuVidZ8ncu3LS6oIaA7oICkZYKkiAtgXK8IwiWnE0nHWXt/fiU5TyAid6gVtSK95AM2DVryONis9FwOXUVJRX0IpyKBqCQGMQyIVS9i7/0JvbjYA5iEn+uqKpdMbvmAgYNRVEr6qzrsSmv3GyRzaTjdGAh0WZh1FjANDrkZvtEwFKE0HeRvz9URjrffo76ENx2Ad03nXBOJxlXDPDd/vkub+oqUWxddiYMe94SNRP9ha+SwNSp8a9Tp0v1gIYYBXIZnK/PuCh/TvWlgQpK4QHpgt80w8orwfbBd6FTkaZUR5VOyaQW+c5FLQte9Va5UL+6S31NsBrM3bUiGfJtO02R3O8z02Z+S6FHof2Lyo=;jTNflYDpNERkBWRjT5Lc4g=="
+secured: "JKAN8hhJOwUwZOlhwCGPwDAAhDc65jwJwLk5dT91JNX8fJYlY+51fvC9tuqM/eWPuXnXU3ydZ895cxl9yu1Jab5oPmFLlNa8oih4k6xb8/0sY+yDUunnysLYchYZSO/Gb/vhme23Ahwh4FMI9kb4RSf7SHXeFA0nsHamw+x+8Aw4jnvMjiAWgmw1grj0Qr6hKCrbyy/rh+QTDrBpUWGIxnZ2Z/rsYpKqpvLL7g/wH8foFz41Tl/L6evA6aD3ptzmNW/RdEByREBlk/yCHZY00mnz0wBtLBRgMvXi50FX5GEnyNfMg7KZq9ynsbOhpUJKiDmmVYPk80g2oE6wM7rbARJXihPri1KSdh1e2j26q0M=;rP+O8is1MrBd7yCXCn+mQQ=="
 ---
 

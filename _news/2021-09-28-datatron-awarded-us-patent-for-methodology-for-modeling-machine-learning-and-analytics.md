@@ -49,6 +49,20 @@ related:
         width: 800
         height: 464
         isCached: true
+  - title: "BriefCam Video Analytics Now Enabled on Axis Deep Learning Cameras"
+    excerpt: "Edge video processing on Axis deep learning cameras is a new hybrid development option for the BriefCam platform."
+    publishedDateTime: 2021-10-02T08:00:00Z
+    webUrl: "https://www.campussafetymagazine.com/press-release/briefcam-video-analytics-axis-deep-learning-cameras/"
+    type: article
+    provider:
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 39
+    images:
+      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2021/09/osu-1.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "From carbon-negative insect feed to AI and data analytics: Meet 11 start-ups advancing sustainable livestock and aquaculture production"
     excerpt: "The featured start-ups are tackling a range of livestock, dairy and aquaculture challenges with gamechanging technologies including carbon-negative insect feed, novel bioactive peptides, IoT, AI and data analytics,"
     publishedDateTime: 2021-10-01T15:39:00Z

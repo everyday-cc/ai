@@ -54,6 +54,20 @@ related:
         width: 800
         height: 464
         isCached: true
+  - title: "BriefCam Video Analytics Now Enabled on Axis Deep Learning Cameras"
+    excerpt: "Edge video processing on Axis deep learning cameras is a new hybrid development option for the BriefCam platform."
+    publishedDateTime: 2021-10-02T08:00:00Z
+    webUrl: "https://www.campussafetymagazine.com/press-release/briefcam-video-analytics-axis-deep-learning-cameras/"
+    type: article
+    provider:
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 39
+    images:
+      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2021/09/osu-1.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Datatron Awarded U.S. Patent for Methodology for Modeling Machine Learning and Analytics"
     excerpt: "Datatron has received a new U.S. patent for its methodology for modeling machine learning and analytics, the company announced today. This expands Datatron's patent portfolio for machine learning (ML) methods and technologies in a production environment,"
     publishedDateTime: 2021-09-28T12:06:00Z

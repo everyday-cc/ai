@@ -3,25 +3,25 @@ category: news
 title: "Tesla's 'full self-driving' feature could be days away for approved drivers"
 excerpt: "A wider group of Tesla owners who paid up to $10,000 for what the company calls its \"full self-driving\" software can now ask the automaker for access to a test"
 publishedDateTime: 2021-09-29T00:30:00Z
-originalUrl: "https://missoulian.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_68c5ee37-8102-5e50-b69b-9a8ef16bf66e.html"
-webUrl: "https://missoulian.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_68c5ee37-8102-5e50-b69b-9a8ef16bf66e.html"
-ampWebUrl: "https://missoulian.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_68c5ee37-8102-5e50-b69b-9a8ef16bf66e.amp.html"
-cdnAmpWebUrl: "https://missoulian-com.cdn.ampproject.org/c/s/missoulian.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_68c5ee37-8102-5e50-b69b-9a8ef16bf66e.amp.html"
+originalUrl: "https://madison.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_28e2555a-2519-587d-aac8-6bd59e63d461.html"
+webUrl: "https://madison.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_28e2555a-2519-587d-aac8-6bd59e63d461.html"
+ampWebUrl: "https://madison.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_28e2555a-2519-587d-aac8-6bd59e63d461.amp.html"
+cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_28e2555a-2519-587d-aac8-6bd59e63d461.amp.html"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Missoulian
-  domain: missoulian.com
+  name: Madison.com
+  domain: madison.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/3/d9/3d93cdde-e179-52a4-864c-30463b5c0339/6153906c76267.image.jpg?resize=1024%2C682"
+  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/2a/a2a79db2-f230-5ec1-8847-4b7462a145ce/6153906b928f3.image.jpg?resize=1024%2C682"
     width: 1024
     height: 682
     isCached: true
@@ -285,6 +285,6 @@ related:
         height: 480
         isCached: true
 
-secured: "z1qXc1FLD4C0zjgVSp9fyVyecMzm9OFfAVFKrt8+cos810qB3uGzj+RDvYC9seCCho5XoaJeJDvrEzj/eF7TPM/b9N+2qk1QxLzzCOUFN95LAEBFzknD+EvZNfygzpPez2KsMqn1VdXNwTtY9tZkCAbhMVX1YCbWkxyBK56/2iSL2hpJRQrcKZRyNVdxvucfc5qA4O/phu3e+KvWiXFsL7AX7fsuHdCSsp4uROQjk/x2Z6pgbhYmZ1ylsDGj9doRCvQH6Q3ZPM6SsOhJRjzPPGeSd1Q/9qMiLUPAtfsHBv9Y1qFi6++GFU+VaakopPaV2gF/YimpiC3tMpJh31NsX3Wbb43/UzXe0dG+ttvKDPGxCDHHceaJt5nCa1C0QFeDHTVttifJarGJI4t8h32FM6Bx6rLd19bzfYKyTSk6ZdMHNJ15vlpWPk2T+KSgJzA3dsvHYjPWbwiAx39fzQeoOc3rkTmLiIMzhXMFEwt4LYVIaWbEIhXRqsrZ7Pfmy1V7P9Y0YF/tXrGkYClpHWY24w==;Ycvkdgm+fyiw/3q+hkgf1g=="
+secured: "1JQ2hq/YVuJpoDqDOMDXv6TFSAbFgAjBnt9hfT7LoV9/8CtuVZ3mppQzWpDJHd5B+xZRCTvFToEZhlJbg96dcNkuSuGIZl3A4O0egt1iaUAEgk18Nh9iUgvI4uZHhuHssjrJEbwmk3yz6fL/uGTM56jW/RVxn1RyyweDwJlJs2MycLFGXjeWd7vgTJCtNjdnakkOqZ3NWgExv0V39gM6Bl5XtCcJrgjDe/fuBUVsZR7JlB6KcKkRh9iM5qnj7Wvk6zcz8tzLVFFhQQ/1Ed2Tm9+U2MkcWYoA2/y5SCOrOcmOlDpHONAfucCgN1BvjPBnguqY89y9tRyd1vYF8VABhRfsiyefimSzCnvXLXkAEr0=;RMJSBmldWtTfwDsbPIJXAw=="
 ---
 

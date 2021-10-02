@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/big-data-and-analytics/ai-and-software-devel
 webUrl: "https://www.eweek.com/big-data-and-analytics/ai-and-software-development-let-the-revolution-begin/"
 type: article
 quality: 67
-heat: 99
+heat: 97
 published: true
 
 provider:

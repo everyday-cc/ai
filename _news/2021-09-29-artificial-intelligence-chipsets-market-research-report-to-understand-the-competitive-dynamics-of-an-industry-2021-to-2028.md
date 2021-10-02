@@ -29,29 +29,22 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Chipsets Market Size Outlook, Opportunity and Demand Analysis Report by 2026"
-    excerpt: "The Artificial Intelligence Chipsets (AI) Market growth is ascribed to massive growth of e-commerce as well as social media platforms. The increasing use of social media and ecommerce platforms has further led to strong growth in data volume,"
-    publishedDateTime: 2021-09-28T04:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-outlook-opportunity-and-demand-analysis-report-by-2026-2021-09-28"
+  - title: "Europe to dominate the Healthcare Chatbots Market through 2026 – TechSci Research"
+    excerpt: "Rising demand of telemedicine and advancements in technology is expected to drive the demand for global healthcare chatbots market in forecast period According to TechSci Research report Global Healthcare Chatbots Market By Component Solutions Services By Type Prescriptive Chatbots Conversational"
+    publishedDateTime: 2021-09-29T05:46:00Z
+    webUrl: "https://www.openpr.com/news/2410619/europe-to-dominate-the-healthcare-chatbots-market-through-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2410619/europe-to-dominate-the-healthcare-chatbots-market-through-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2410619/europe-to-dominate-the-healthcare-chatbots-market-through-2026"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
+      name: openpr.com
+      domain: openpr.com
+    quality: 54
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/9/U929868971_g.jpg"
+        width: 450
+        height: 300
         isCached: true
-  - title: "AI in Financial Asset Management Market | Demand and Scope with"
-    excerpt: "Report Pages ] In recent years, financial institutions are adopting the artificial intelligence (AI) technology for managing their financial assets and reducing operating cost, thereby increasing the revenue."
-    publishedDateTime: 2021-09-29T10:50:00Z
-    webUrl: "https://www.pr-inside.com/ai-in-financial-asset-management-market-demand-and-scope-with-r4848905.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 19
 
 secured: "m2nL2Jn5X+aDieG4aL87DYUiJLTPw/z+Csg7jbYtRMZZQJEU35amsKS1uEerzkRU+TQRA06dsiM5+aFwfAznMvxjSkaAVthVKovh8513n+ZQT/U3lK3O59RxHEyaZ6+mlz6rZ/gNyaZrZPtEi70apnsLrBCo5iRXAHm6PqFhjegVLhOdNUe+VlTU2kCQO5vL23yRiP8alg3MU+I8lDORwh66iq94wuUYMzHF8tlHIwaBNF52O1GVaesU8SYOa4bZs6YmpDU2ToJq5bt86kd4RGJQjfKcuTOf5slRgZizHs6XbjgBNn3RKVHusas3Fnen6Qb7qitmjEWloo0ybzO60y5+0z1ez7LsKtVJNe8ak/U=;8UgzlTuZoEDc1BaObvRGkw=="
 ---

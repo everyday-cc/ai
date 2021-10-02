@@ -39,6 +39,15 @@ related:
         width: 1222
         height: 812
         isCached: true
+  - title: "An autonomous robot may have already killed people"
+    excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
+    publishedDateTime: 2021-10-02T21:16:00Z
+    webUrl: "https://japantoday.com/category/features/opinions/An-autonomous-robot-may-have-already-killed-people"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 19
 
 secured: "59mnHjfNVwfU7pO+35ih5cYpDZtezP5G/sGvI0uOnJFz7XRKENki7psw3f1qjG4onqrbcF5qG5xSVod9nY2apl8yzbYU6RI0tfwuFDuLhscxNJjbfLQUWF0Ivxvzgoaaev0NMo+QeHPmvvVQ6vNqyMePuULFTemfcgTo7NvJtE73dhItq7T0j5nwuJzHIujkubqE3pMEoK+x2Io04AEvQkLBVuh2zgQTJMP9JqqQr13tPVV3HbpNl3WM3QB7+U1TX+7uODGoeLPpKC+ascWTiMEgi5A4ohmxSleBlnP+aPIcl5Vq3di7n5xY7NUK6BP+rNsy706z+MeygplQSRtIvc71a7EX9r5aQhQVZyHHxh3tCW8bZKiapJR0yZkHqIomVCF265OjRrFP0slrNgaiYuWWA8bEvCrc3r/jcMsQ9yR31q4yfNhLVlJumWzCapPR/cDZeiLjpqHnZyij5d0OSOzakKYpeIBk1Mj0ae2+5S0cs0faoohPYIOnXG2VqxCdkT5zBkUYpjCWRrTdx7IVgA==;vvhpqkRwEwJdnpUSlwHqug=="
 ---

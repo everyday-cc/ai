@@ -27,22 +27,77 @@ images:
     isCached: true
 
 related:
-  - title: "From AI to computer vision: How cult.fit stepped up to deliver holistic solutions post Covid-19"
-    excerpt: "Covid-19 locked us in our homes and shut gyms down, amongst other things. But here's a company that stepped up its game to change things for the better, virtually and otherwise."
-    publishedDateTime: 2021-09-28T21:28:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/from-ai-to-computer-vision-how-cult-fit-stepped-up-to-deliver-holistic-solutions-post-covid19-71632820468048.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/from-ai-to-computer-vision-how-cult-fit-stepped-up-to-deliver-holistic-solutions-post-covid19-71632820468048.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/from-ai-to-computer-vision-how-cult-fit-stepped-up-to-deliver-holistic-solutions-post-covid19-71632820468048.html"
+  - title: "AI in Education Market Future Trends, Prominent Players, Covid 19 Impact and Forecast by 2030"
+    excerpt: "The global artificial intelligence AI in education market had a valuation of 1 1 billion in 2019 and it is predicted to generate a revenue of 25 7 billion by 2030 According to the estimates of P S Intelligence a"
+    publishedDateTime: 2021-09-29T11:37:00Z
+    webUrl: "https://www.openpr.com/news/2411586/ai-in-education-market-future-trends-prominent-players-covid"
+    ampWebUrl: "https://www.openpr.com/amp/2411586/ai-in-education-market-future-trends-prominent-players-covid"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2411586/ai-in-education-market-future-trends-prominent-players-covid"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 62
+      name: openpr.com
+      domain: openpr.com
+    quality: 63
     images:
-      - url: "https://images.hindustantimes.com/tech/img/2021/09/28/1600x900/Ankit_Gupta_pic_1632822190235_1632822210350.jpg"
-        width: 1600
-        height: 900
+      - url: "https://cdn.openpr.com/U/9/U929455223_g.jpg"
+        width: 800
+        height: 464
         isCached: true
+  - title: "Artificial Intelligence (AI) in Construction Market Analysis by Size, Status and Forecast to 2021-2026"
+    excerpt: "Latest released Global Artificial Intelligence (AI) in Construction Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings,"
+    publishedDateTime: 2021-09-29T20:47:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-construction-market-analysis-by-size-status-and-forecast-to-2021-2026/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-construction-market-analysis-by-size-status-and-forecast-to-2021-2026/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-construction-market-analysis-by-size-status-and-forecast-to-2021-2026/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 36
+  - title: "Computer Vision Market Recent Trends, Growth and High Demand During Forecast by 2031"
+    excerpt: "The growing advancements in the latest technologies and the widened scope of computer vision systems in a plethora of industries such as consumer electronics, education, healthcare, manufacturing, security,"
+    publishedDateTime: 2021-09-29T16:03:00Z
+    webUrl: "https://manometcurrent.com/computer-vision-market-recent-trends-growth-and-high-demand-during-forecast-by-2031/"
+    ampWebUrl: "https://manometcurrent.com/computer-vision-market-recent-trends-growth-and-high-demand-during-forecast-by-2031/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/computer-vision-market-recent-trends-growth-and-high-demand-during-forecast-by-2031/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 32
+  - title: "Artificial Retinal Implants Market Size 2021 By Trends Evaluation Forecast to 2027"
+    excerpt: "The Global Artificial Retinal Implants Market Report 2021 to 2027 could be a fundamental examination of the global analysis Trending innovation advertise drivers sectional declination analysis measurements advertise forecasts manufacturers and hardware merchants are all included within the substance The"
+    publishedDateTime: 2021-09-29T09:59:00Z
+    webUrl: "https://www.openpr.com/news/2411240/artificial-retinal-implants-market-size-2021-by-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2411240/artificial-retinal-implants-market-size-2021-by-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2411240/artificial-retinal-implants-market-size-2021-by-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
+  - title: "Artificial Intelligence in Medical Imaging Market 2021 Industry Analysis, Size, Share, Growth, Trends and Forecast 2028"
+    excerpt: "DBMR has presented updated research report on Artificial Intelligence in Medical Imaging Market offering insightful information like market share market size and growth rate during the forecast period 2021 2028 that are precisely projected based on type application sales channel"
+    publishedDateTime: 2021-09-28T11:47:00Z
+    webUrl: "https://www.openpr.com/news/2409862/artificial-intelligence-in-medical-imaging-market-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2409862/artificial-intelligence-in-medical-imaging-market-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2409862/artificial-intelligence-in-medical-imaging-market-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 15
+  - title: "Global Artificial Intelligence in IoT Market 2021 Size Share Upcoming Trends Segmentation, Opportunities and Forecast To 2026"
+    excerpt: "The New Report Global Artificial Intelligence in IoT Market published by Reports Web covers the competitive landscape analysis and its growth prospects over the coming years The report also covers the major region such as North America Europe Asia Pacific"
+    publishedDateTime: 2021-09-28T09:45:00Z
+    webUrl: "https://www.openpr.com/news/2409288/global-artificial-intelligence-in-iot-market-2021-size-share"
+    ampWebUrl: "https://www.openpr.com/amp/2409288/global-artificial-intelligence-in-iot-market-2021-size-share"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2409288/global-artificial-intelligence-in-iot-market-2021-size-share"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 12
 
 secured: "gwTr8fDfdY06CMC4jgczzEBcg3lQqZX9v/ez1pib1F95tSGi1ZONygVFFjJaGi+4XDPkyZrXG2ZumXeou8UFfW57tCf9OdOct1PpdxE3oONRN6BAcVyjo695loCSs2ej0oHt7fr0pbi1U7BlAuN3xnFxnAWYLzK7LbnkTJruWRYOvd+yhHJLlF/CJOtSCLcr0bZq0hZ9FF5Nkvd0WzwiJeTIBf6PuW/EX/4aQdyBnso2PkgpmY8V+vWehApbl+QiJh+WyhUmwU3uFXTX5ZByFv06ljseDgaOy3doFNW0ubbTTvWPk31FurXd8usFv7kTsZszCJr0U/R8woG/J+yKCStzvu3s2PYJV/6bIRptoVaZyu3LA5S95qHwbGstmthJRPJKuMZLuO6nvZb6pmwDI9ePrkRnvR+ebNB+AWwX8Kfgju3dcbe5s6hgs6/MoSGVypH5hEBKQ16J3LE1Aak6MiaR3GqBhNc2R7r+isamJ6ZbxNRYbuxKvjnXsnr6b0QRditFvnrjgwJmTByMZyy7Fw==;914d2wc94CJjPoEU4z3eFA=="
 ---

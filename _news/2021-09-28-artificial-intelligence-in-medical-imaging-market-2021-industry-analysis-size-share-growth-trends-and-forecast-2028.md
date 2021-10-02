@@ -21,61 +21,60 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Computer Vision in Healthcare Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2025"
-    excerpt: "The report on the global computer vision in healthcare market provides qualitative and quantitative analysis for the period from 2017 to 2025. The report predicts the global computer vision in healthcare market to grow with a CAGR of 45."
-    publishedDateTime: 2021-09-28T19:42:00Z
-    webUrl: "https://menafn.com/1102880797/Computer-Vision-in-Healthcare-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2025"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_4.jpg?728200"
-        width: 417
-        height: 250
-        isCached: true
-  - title: "High Demand for Electronic Skin in the Healthcare Sector To Treat Diabetes and Cardiology Diseases is Driving Market Growth"
-    excerpt: "The global electronic skin market is expected to reach a market size of USD 20.02 Billion in 2027 and register a robust CAGR over the forecast period, according to the latest report by Reports and Data."
-    publishedDateTime: 2021-09-29T07:42:00Z
-    webUrl: "https://techbullion.com/high-demand-for-electronic-skin-in-the-healthcare-sector-to-treat-diabetes-and-cardiology-diseases-is-driving-market-growth/"
-    ampWebUrl: "https://techbullion.com/high-demand-for-electronic-skin-in-the-healthcare-sector-to-treat-diabetes-and-cardiology-diseases-is-driving-market-growth/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/high-demand-for-electronic-skin-in-the-healthcare-sector-to-treat-diabetes-and-cardiology-diseases-is-driving-market-growth/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 35
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/09/technology.jpg"
-        width: 870
-        height: 580
-        isCached: true
-  - title: "Artificial Intelligence Market Key Drivers, Restraints, Industry Size & Share, Opportunities, Trends, and Forecasts up to 2028"
-    excerpt: "The global Artificial Intelligence Market is expected to rise with an impressive CAGR and generate the highest revenue by 2026 Fortune Business Insights in its latest report published this information The report is titled Artificial Intelligence AI Market Size Share"
-    publishedDateTime: 2021-09-30T13:32:00Z
-    webUrl: "https://www.openpr.com/news/2413197/artificial-intelligence-market-key-drivers-restraints"
-    ampWebUrl: "https://www.openpr.com/amp/2413197/artificial-intelligence-market-key-drivers-restraints"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2413197/artificial-intelligence-market-key-drivers-restraints"
+  - title: "AI in Education Market Future Trends, Prominent Players, Covid 19 Impact and Forecast by 2030"
+    excerpt: "The global artificial intelligence AI in education market had a valuation of 1 1 billion in 2019 and it is predicted to generate a revenue of 25 7 billion by 2030 According to the estimates of P S Intelligence a"
+    publishedDateTime: 2021-09-29T11:37:00Z
+    webUrl: "https://www.openpr.com/news/2411586/ai-in-education-market-future-trends-prominent-players-covid"
+    ampWebUrl: "https://www.openpr.com/amp/2411586/ai-in-education-market-future-trends-prominent-players-covid"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2411586/ai-in-education-market-future-trends-prominent-players-covid"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 26
-  - title: "Facial Recognition Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2025"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Sep 28, 2021, 23:53 /Comserve / -- The report predicts the global facial recognition market to grow with a CAGR of 17.61% over the forecast period from 2019-2025. The report on the global facial recognition market provides qualitative and quantitative analysis for the period from 2017 to 2025."
-    publishedDateTime: 2021-09-29T08:46:00Z
-    webUrl: "https://menafn.com/1102884214/Facial-Recognition-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2025"
+    quality: 63
+    images:
+      - url: "https://cdn.openpr.com/U/9/U929455223_g.jpg"
+        width: 800
+        height: 464
+        isCached: true
+  - title: "World First for Artificial Intelligence To Treat COVID-19 Patients Worldwide"
+    excerpt: "Addenbrooke’s Hospital in Cambridge along with 20 other hospitals from across the world and healthcare technology leader, NVIDIA, have used artificial intelligence (AI) to predict Covid patients’ oxygen needs on a global scale."
+    publishedDateTime: 2021-10-01T21:15:00Z
+    webUrl: "https://scitechdaily.com/world-first-for-artificial-intelligence-to-treat-covid-19-patients-worldwide/"
+    ampWebUrl: "https://scitechdaily.com/world-first-for-artificial-intelligence-to-treat-covid-19-patients-worldwide/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/world-first-for-artificial-intelligence-to-treat-covid-19-patients-worldwide/amp/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 56
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?430465"
-        width: 413
-        height: 250
+      - url: "https://scitechdaily.com/images/COVID-Technology-AI-Concept-777x518.jpg"
+        width: 777
+        height: 518
         isCached: true
+  - title: "Artificial Intelligence (AI) in Construction Market Analysis by Size, Status and Forecast to 2021-2026"
+    excerpt: "Latest released Global Artificial Intelligence (AI) in Construction Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings,"
+    publishedDateTime: 2021-09-29T20:47:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-construction-market-analysis-by-size-status-and-forecast-to-2021-2026/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-construction-market-analysis-by-size-status-and-forecast-to-2021-2026/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-construction-market-analysis-by-size-status-and-forecast-to-2021-2026/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 36
+  - title: "Computer Vision Market Recent Trends, Growth and High Demand During Forecast by 2031"
+    excerpt: "The growing advancements in the latest technologies and the widened scope of computer vision systems in a plethora of industries such as consumer electronics, education, healthcare, manufacturing, security,"
+    publishedDateTime: 2021-09-29T16:03:00Z
+    webUrl: "https://manometcurrent.com/computer-vision-market-recent-trends-growth-and-high-demand-during-forecast-by-2031/"
+    ampWebUrl: "https://manometcurrent.com/computer-vision-market-recent-trends-growth-and-high-demand-during-forecast-by-2031/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/computer-vision-market-recent-trends-growth-and-high-demand-during-forecast-by-2031/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 32
   - title: "Artificial Retinal Implants Market Size 2021 By Trends Evaluation Forecast to 2027"
     excerpt: "The Global Artificial Retinal Implants Market Report 2021 to 2027 could be a fundamental examination of the global analysis Trending innovation advertise drivers sectional declination analysis measurements advertise forecasts manufacturers and hardware merchants are all included within the substance The"
     publishedDateTime: 2021-09-29T09:59:00Z
@@ -87,34 +86,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 18
-  - title: "Language Services Market Outlook By Industry Size, Share, Revenue, Regions and Top Key Players Analysis"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Sep 28, 2021, 08:33 /Comserve / -- Language Services Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies,"
-    publishedDateTime: 2021-09-28T19:42:00Z
-    webUrl: "https://menafn.com/1102880814/Language-Services-Market-Outlook-By-Industry-Size-Share-Revenue-Regions-and-Top-Key-Players-Analysis"
+  - title: "Global Artificial Intelligence in IoT Market 2021 Size Share Upcoming Trends Segmentation, Opportunities and Forecast To 2026"
+    excerpt: "The New Report Global Artificial Intelligence in IoT Market published by Reports Web covers the competitive landscape analysis and its growth prospects over the coming years The report also covers the major region such as North America Europe Asia Pacific"
+    publishedDateTime: 2021-09-28T09:45:00Z
+    webUrl: "https://www.openpr.com/news/2409288/global-artificial-intelligence-in-iot-market-2021-size-share"
+    ampWebUrl: "https://www.openpr.com/amp/2409288/global-artificial-intelligence-in-iot-market-2021-size-share"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2409288/global-artificial-intelligence-in-iot-market-2021-size-share"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 8
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?378237"
-        width: 444
-        height: 250
-        isCached: true
-  - title: "Voice Assistant Application Market worth $11.2 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to a research report \"Voice Assistant Application Market with COVID-19 Impact by Component, Deployment Mode, Organization"
-    publishedDateTime: 2021-10-01T14:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/voice-assistant-application-market-worth-11-2-billion-by-2026--exclusive-report-by-marketsandmarkets-301389633.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 8
-    images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
-        width: 666
-        height: 350
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 12
 
 secured: "8b+V6DVAAc3VL6+7V2x/Py9BMojqf0CKbWlQrWZbu4G3OjFEuHqv58e9UCty7nEDS1GXnaSq510+dmSb9tYrFavT4N8RxmYkKMUmYm0MroZ8t921osyov7Fg+Y5kA2i5fw6byozbdI0NHkpUYPOBvLNEbvfE+fEmDfVdW3zAmRVeeYo+we3sdaz1LhN31SjaBzWSYBHQNU5AzxnyGV1GOsxQgZQfZX13ptiefoV/a+zVG8EWh+DubRxT8I8PoaADrPVZ+ghyLhZf/B2VOQZQj8sGcBr+6gpCkCa/MNaHlbIc/gtgH2lnifr5Z9Qv01NnRP5ONxdCjzqdyz/CtQM+myzFPj5j7SB0ypRHow3X17A=;8fuhmmaCIqr8jumKK6mW8Q=="
 ---

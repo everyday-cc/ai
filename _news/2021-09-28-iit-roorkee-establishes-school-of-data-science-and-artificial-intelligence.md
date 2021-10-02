@@ -9,7 +9,7 @@ ampWebUrl: "https://www.republicworld.com/amp/india-news/education/iit-roorkee-e
 cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/education/iit-roorkee-establishes-school-of-data-science-and-artificial-intelligence.html"
 type: article
 quality: 55
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -48,22 +48,6 @@ related:
     webUrl: "https://www.news18.com/news/education-career/iit-roorkee-mehta-family-foundation-collaborate-to-set-up-school-of-data-science-and-ai-4258064.html"
     ampWebUrl: "https://www.news18.com/amp/news/education-career/iit-roorkee-mehta-family-foundation-collaborate-to-set-up-school-of-data-science-and-ai-4258064.html"
     cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iit-roorkee-mehta-family-foundation-collaborate-to-set-up-school-of-data-science-and-ai-4258064.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 48
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/09/iitroorkee-163280505216x9.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "IIT Roorkee to Offer Degrees in Data Science, Artificial Intelligence, Sets up New School"
-    excerpt: "Roorkee has set up the Mehta Family School of Data Science and Artificial Intelligence in collaborating with the Mehta Family Foundation (MFF), USA."
-    publishedDateTime: 2021-09-28T04:58:00Z
-    webUrl: "https://www.news18.com/news/education-career/iit-roorkee-to-offer-degrees-in-data-science-artificial-intelligence-sets-up-new-school-4255271.html"
-    ampWebUrl: "https://www.news18.com/amp/news/education-career/iit-roorkee-to-offer-degrees-in-data-science-artificial-intelligence-sets-up-new-school-4255271.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iit-roorkee-to-offer-degrees-in-data-science-artificial-intelligence-sets-up-new-school-4255271.html"
     type: article
     provider:
       name: CNN-News18

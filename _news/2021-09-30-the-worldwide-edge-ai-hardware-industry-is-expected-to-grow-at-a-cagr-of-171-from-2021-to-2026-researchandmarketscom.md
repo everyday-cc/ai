@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Retail Artificial Intelligence (AI) Growth Opportunities Research Report 2021 - ResearchAndMarkets.com"
+    excerpt: "Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. AI Solutions to Drive the Future Growth Potential in the Retail Space for Technology Providers With a record 12,200 outlets being shuttered in the US in 2020 alone,"
+    publishedDateTime: 2021-09-29T09:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-artificial-intelligence-04b0b15ab95e4f9c9ae8d7958ed78574"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Worldwide Natural Language Processing Industry to 2025 - Growing Investments in the Healthcare Industry to Implement NLP Presents Opportunities - Rese"
     excerpt: "The \"Natural Language Processing Market Research Report by Industry, by Type, by Technology, by Application, by Region - Global Forecast to 2025 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-09-29T15:29:00Z
@@ -38,6 +52,45 @@ related:
       - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
         width: 580
         height: 339
+        isCached: true
+  - title: "Computer Vision Market Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Computer Vision Market for 2021 till 2030. Report further now discus"
+    publishedDateTime: 2021-10-01T04:41:00Z
+    webUrl: "https://menafn.com/1102897488/Computer-Vision-Market-Top-Companies-Business-Growth-And-Investment-Opportunities-Share-and-Forecasts-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 20
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?957675"
+        width: 398
+        height: 250
+        isCached: true
+  - title: "Self-driving Vehicles Market Enhancement, Latest Trends, Growth and Opportunities during 2021 to 2027"
+    excerpt: "The Self driving Vehicles Market research report provides detailed observation of several aspects including the rate of growth regional scope and recent developments by the primary market players The report offers Porter s Five Forces PESTEL and market analysis to"
+    publishedDateTime: 2021-09-28T09:48:00Z
+    webUrl: "https://www.openpr.com/news/2409307/self-driving-vehicles-market-enhancement-latest-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2409307/self-driving-vehicles-market-enhancement-latest-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2409307/self-driving-vehicles-market-enhancement-latest-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 9
+  - title: "Global Laser Processing Market Research Report (2021 to 2026) - by Vertical, Configuration, Application and Region"
+    excerpt: "The \"Laser Processing Market Research Report by Vertical, by Configuration, by Application, by Region - Global Forecast to 2026 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-09-29T19:24:00Z
+    webUrl: "https://www.lelezard.com/en/news-20022226.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 2
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/mining-industry.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "3tYJibBF/i45ZyOXrWCWzWq6WXuaGZBUfj+HJHn0FUGPSAXnwjnGCu3HKWMWE2Od0og8N8G9pMh42JNKR9nt2QENX0p+gvOLHA8VdD+fHbqkuf6bairk+JpfixsDgBJYVwJEWTT7iBD8gSSlUZBXFCWxSD0nBS6aILf8miPQw8jT/IYmifqFD5R06NyyMaKE+Mh+1VTc0eo4CE0mAL/LCBM/wHLPN65TmVEetZtogLJBSTizzlH/JyUBBN5JupdV+Ew0Ri7hhnp1Iin1MEC6RHfCjhRQEopimln6URN0qH1ulN6aAX34wNbDuRddlEevKqi5/qb62purvpwPDtYDIhKxP3U1+avpdeMDGUQMSC4=;At2uKze8OjCMusraGEtEHQ=="
