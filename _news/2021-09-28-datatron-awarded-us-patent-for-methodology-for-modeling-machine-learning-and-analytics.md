@@ -49,20 +49,6 @@ related:
         width: 800
         height: 464
         isCached: true
-  - title: "BriefCam’s video analytics available on Axis Deep Learning Cameras"
-    excerpt: "BOSTON—BriefCam, the industry’s leading provider of Video Content Analytics and VIDEO SYNOPSIS solutions, announced availability for BriefCam Video Content Analytics on Axis deep learning cameras in"
-    publishedDateTime: 2021-09-27T17:22:00Z
-    webUrl: "https://www.securitysystemsnews.com/article/briefcam-s-video-analytics-available-on-axis-deep-learning-cameras"
-    type: article
-    provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
-    quality: 54
-    images:
-      - url: "https://www.securitysystemsnews.com/images/og-default-image.png"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "From carbon-negative insect feed to AI and data analytics: Meet 11 start-ups advancing sustainable livestock and aquaculture production"
     excerpt: "The featured start-ups are tackling a range of livestock, dairy and aquaculture challenges with gamechanging technologies including carbon-negative insect feed, novel bioactive peptides, IoT, AI and data analytics,"
     publishedDateTime: 2021-10-01T15:39:00Z

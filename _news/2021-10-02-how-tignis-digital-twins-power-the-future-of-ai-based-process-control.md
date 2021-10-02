@@ -43,15 +43,20 @@ related:
         width: 840
         height: 450
         isCached: true
-  - title: "The future of dental care"
-    excerpt: "The future of dental care. Jana Denzel explores artificial intelligence and the role it will play in the world of dentistry. Movies such as The Terminator and I, Robot hauntingly"
-    publishedDateTime: 2021-09-27T18:16:00Z
-    webUrl: "https://dentistry.co.uk/2021/09/27/the-future-of-dental-care-artificial-intelligence/"
+  - title: "The Hot Topic at G2E 2021? The Future of AI for Casinos"
+    excerpt: "In order to accommodate for the high level of interest, the education session has moved to a larger venue. It will take place"
+    publishedDateTime: 2021-10-02T04:06:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-hot-topic-at-g2e-2021-the-future-of-ai-for-casinos/article_c05ffc53-f05d-5d0f-9649-ad7ce2a89cbd.html"
     type: article
     provider:
-      name: Dentistry
-      domain: dentistry.co.uk
-    quality: 4
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/c6/0c67eb7c-ce3b-5bf5-bfcc-97a74a5826d2/6157dece2b1b2.image.jpg?resize=1200%2C627"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "HNB7toD6l1ZARF0Xe7y1S+3VG1i1E3n0YhE+qpFq3RJeTkRFOQ+zuufJ+OKnnjDKhg2oaeu2SSRdLEjntC/QQLIKHAVzhS1d1T83UEIA3FnbSb/wmVNYTYdlxFiIzToO8Bmqt8SfPNuvySTFfy12CUr7efZkLrOTsXc9GCPkr1MPvv0DY52qZ7o9nsuz7BkuQUlFrqvIchrCK5wTQgeXAfaJ+vJjXCMgGByCAB0b3yqLvB58QuX3zS8AwuMLVd5bhmGoNDq6XpRXuXN5keD2A+pw25T8csbxRkHKiK6+y9tUFWkAafRJfPUFD//e0JWJaGcVoRBetYl0accYY8N+dLXNBWVM3yPmQL+lk5/IfOQ=;237UD/qutRZtKEXJNHKINw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://ktla.com/morning-news/technology/amazons-latest-smart-home-d
 cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/morning-news/technology/amazons-latest-smart-home-devices-include-a-wandering-security-robot-and-an-inexpensive-alexa-thermostat/amp/"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,40 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Amazon & home security: Robots inside, drones outside, cameras all around"
+    excerpt: "Amazon's vision for the future of home security includes drones flying over your roof, outdoor cameras that monitor for possible trespassers and cute robots patrolling indoors. Here's a look"
+    publishedDateTime: 2021-10-02T11:41:00Z
+    webUrl: "https://www.wraltechwire.com/2021/10/02/amazon-home-security-robots-inside-drones-outside-cameras-all-around/"
+    ampWebUrl: "https://www.wraltechwire.com/2021/10/02/amazon-home-security-robots-inside-drones-outside-cameras-all-around/?amp=1"
+    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/10/02/amazon-home-security-robots-inside-drones-outside-cameras-all-around/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 75
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/10/amazon-astro-bot-e1633113427996-1024x575.jpg"
+        width: 1024
+        height: 575
+        isCached: true
+  - title: "Amazon's controversial vision for the future of your home security"
+    excerpt: "Amazon's vision for the future of home security includes drones flying over your roof, outdoor cameras that monitor for possible trespassers and cute robots patrolling indoors. During an invite-only press conference on Tuesday,"
+    publishedDateTime: 2021-10-01T10:30:00Z
+    webUrl: "https://www.waaytv.com/content/national/575435212.html"
+    ampWebUrl: "http://www.waaytv.com/templates/AMP?contentID=575435212"
+    cdnAmpWebUrl: "https://www-waaytv-com.cdn.ampproject.org/c/www.waaytv.com/templates/AMP?contentID=575435212"
+    type: article
+    provider:
+      name: WAAY-TV
+      domain: waaytv.com
+    quality: 61
+    images:
+      - url: "http://media.heartlandtv.com/designimages/WEBWAAY640x380-copy2020.png"
+        width: 640
+        height: 380
+        isCached: true
 
 secured: "e5YRkhrOstZC8ZOsRDifcIvdtJ3apfIvjPLKh2CxjLW5tJpmg7Tl+ufVX9RnsdC0R+GHe/RiXXkMpJC+F3cZRFBcOe0mutYwhfIPZaNNYDQ4N+kaHwj9aQoqKSOW/jVxUB/rXCNR6US/x3ufUoabsmCt6sexcKrGLx8fV3wBn5NCg98QXs0iBzAZGDKMbRvqUkii14o8PuqEWNjFDOVlM+up0kwwGp7huAJkEDvFkgMIlQf8kNk9X9Gg3MfxECyjFzmTBs1Vo6ZbcCiNRHVcFvPNO9oXTlGg/Dc33pa9/huNsFgQMi0Q+pz49rBo7g9LHnGQ1XlA3zu00xKIppRQK3Nlq5zFAGoD0nUwtzsL8JLLGqo5yDnsM1aRC2M97xWQuC6qjO4efTd1PVn/Wu3sQ9bdQXvLZepiM35Sg2/E67YXEHplbHMqJoXVYtHDuxBtuk7vVPxDrVK/q5ra603Bi6OiJAILn82D3o8pNwsvwTpTLi/IgUJxl3miW8P4bwcEGesMM6u2U6gWG2uY4B9woQ==;D0tXFNx1LgWNa1rGT/eDiA=="
 ---

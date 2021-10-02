@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/virtu-financial-enab
 webUrl: "https://aws.amazon.com/blogs/machine-learning/virtu-financial-enables-its-customers-to-apply-advanced-analytics-and-machine-learning-on-trade-and-market-data-by-provisioning-amazon-sagemaker/"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://cdn.openpr.com/U/9/U929293741_g.jpg"
         width: 800
         height: 464
-        isCached: true
-  - title: "BriefCam’s video analytics available on Axis Deep Learning Cameras"
-    excerpt: "BOSTON—BriefCam, the industry’s leading provider of Video Content Analytics and VIDEO SYNOPSIS solutions, announced availability for BriefCam Video Content Analytics on Axis deep learning cameras in"
-    publishedDateTime: 2021-09-27T17:22:00Z
-    webUrl: "https://www.securitysystemsnews.com/article/briefcam-s-video-analytics-available-on-axis-deep-learning-cameras"
-    type: article
-    provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
-    quality: 54
-    images:
-      - url: "https://www.securitysystemsnews.com/images/og-default-image.png"
-        width: 1200
-        height: 627
         isCached: true
   - title: "Datatron Awarded U.S. Patent for Methodology for Modeling Machine Learning and Analytics"
     excerpt: "Datatron has received a new U.S. patent for its methodology for modeling machine learning and analytics, the company announced today. This expands Datatron's patent portfolio for machine learning (ML) methods and technologies in a production environment,"

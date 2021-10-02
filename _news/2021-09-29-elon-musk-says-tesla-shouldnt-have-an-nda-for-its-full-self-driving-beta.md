@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nd
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/amp/"
 type: article
 quality: 188
-heat: 378
+heat: 368
 published: true
 
 provider:
@@ -304,15 +304,6 @@ related:
         width: 960
         height: 480
         isCached: true
-  - title: "Anyone can request access to Tesla’ Full Self-Driving beta"
-    excerpt: "This new button allows any Tesla driver to request access to the company’s ‘Full Self-Driving’ (not technically full self-driving) beta. Musk says that new entries to the beta program will need to have their driving style assessed by the car for a week to ensure they’re not too aggressive."
-    publishedDateTime: 2021-09-27T18:45:00Z
-    webUrl: "https://mobilesyrup.com/2021/09/27/anyone-can-request-access-to-tesla-full-self-driving-beta/"
-    type: article
-    provider:
-      name: MobileSyrup
-      domain: mobilesyrup.com
-    quality: 19
 
 secured: "ZxGAud9M/SDDMwLhpsyghykSP9Snccd2rKTIFBJPKPnlmFYpOCv8SaaGLnCkuhBofEALMHzAq6saxc/mLthS+9ko7sGnCT1kOLfWVVBiFtnbNdi9rO3GDXuf69kQpv+cm4BY9p/UDM1+tDV+uRqizxejco5bRq0VbimnjuA1eJQbij0xoLpYxs2YR0DUU3gocakZUxGjrrhBRjfWE0JFgjONJh4Cwe8LYkAlnVVlBJ6Ap10BawX7169aGhuLdkJsSKUCh/cPn4we4B9zlyYUl163B5LhS1aS1QDn/+5u7pC1FRDr0FfHdqNb2g6t1hsx21TpIyk06cAg9cXff9kK/3W7na7/ADq2Avji2xHshpVyS6b1hMglvP1232TG/a2kilnyJ6A2JzFQFFusiuzXA/8MZqfd5wjMiUDBYUsp9N5NifcooGpa42vKTQMBz+6+FhHHCuYzRfoV/2bHcn4NYnHkrPF2PjjLLPOTz4CyqdLMYNopxRnyrhOPw96JWr8FMIgfva/YtUjDhTkjgVq/4YLQxPaJF4Uutb3JxUdraIU=;hnvgKrAlIrZ2IJgpIkL7aA=="
 ---

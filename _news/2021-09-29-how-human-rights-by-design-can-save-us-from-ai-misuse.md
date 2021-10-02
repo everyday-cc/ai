@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/how-human-rights-by-design-can-save-us
 webUrl: "https://thenextweb.com/news/how-human-rights-by-design-can-save-us-from-ai-misuse-syndication"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Next Web
@@ -27,19 +27,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "We need concrete protections from artificial intelligence threatening human rights"
-    excerpt: "Events over the past few years have revealed several human rights violations associated with increasing advances in artificial intelligence (AI). Algorithms creat"
-    publishedDateTime: 2021-09-27T17:39:00Z
-    webUrl: "https://nationalpost.com/pmn/news-pmn/we-need-concrete-protections-from-artificial-intelligence-threatening-human-rights"
-    ampWebUrl: "https://nationalpost.com/pmn/news-pmn/we-need-concrete-protections-from-artificial-intelligence-threatening-human-rights/wcm/a8c7f78a-1e98-43e0-986b-81d1c32ccf50/amp/"
-    cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/news-pmn/we-need-concrete-protections-from-artificial-intelligence-threatening-human-rights/wcm/a8c7f78a-1e98-43e0-986b-81d1c32ccf50/amp/"
-    type: article
-    provider:
-      name: National Post
-      domain: nationalpost.com
-    quality: 31
 
 secured: "dGJHE+pIGMF7J+AxKE8h4lx6j9/7/aIf7/suYuJUB5TuzUEPSi/09K+rKGouwpVQbQDHDnWMxfi4osgasJHP+3thMAFvjLjk14yegEw1Z5hltK0S+A7ClCYhgwWBaxVBN2u5GRDbpoEA/xbP8HDhniUScAu+0iF30Og9scrFMFJLfP/7/KWZt7GIGHkex4vjpiamnJDJLXnSdrrnKSpJwW3drfdt5aArNbXTddHSFRiwXGtcMkJI+wCma2Mhxeox1sbTIb+QBLBmyPHwYlAVxu6AqKTKyADdz0QpMSE5u9nLYJb1bb4PGMC7iKHQPSdep0r0XTsqwgOKNvXBgAQxT676yXWKLa9pYhhqCYwdPNdBkBAB/YMIDKCjfTlo6dkfMOUqW0HK5RhnXvFiAzguL0BuVYnfH0NyP9QCuLno5QTfGCpytNLpyN6CdKqqdAqzVtLReb/7SUixfF1kqaZs+Fgykscp5957/HwLo9yb+yJd5xH8E7j1VaoJZe4esSb/LU3Z15NGUuq5aPVDc0ZWpQ==;CfWzKKf0CiY6/8jDY501XQ=="
 ---

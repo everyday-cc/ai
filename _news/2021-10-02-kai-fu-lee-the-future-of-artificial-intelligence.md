@@ -7,7 +7,7 @@ originalUrl: "https://www.hks.harvard.edu/events/kai-fu-lee-future-artificial-in
 webUrl: "https://www.hks.harvard.edu/events/kai-fu-lee-future-artificial-intelligence"
 type: article
 quality: 52
-heat: 72
+heat: 73
 published: true
 
 provider:
@@ -38,15 +38,20 @@ related:
         width: 720
         height: 540
         isCached: true
-  - title: "The future of dental care"
-    excerpt: "The future of dental care. Jana Denzel explores artificial intelligence and the role it will play in the world of dentistry. Movies such as The Terminator and I, Robot hauntingly"
-    publishedDateTime: 2021-09-27T18:16:00Z
-    webUrl: "https://dentistry.co.uk/2021/09/27/the-future-of-dental-care-artificial-intelligence/"
+  - title: "The Hot Topic at G2E 2021? The Future of AI for Casinos"
+    excerpt: "In order to accommodate for the high level of interest, the education session has moved to a larger venue. It will take place"
+    publishedDateTime: 2021-10-02T04:06:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-hot-topic-at-g2e-2021-the-future-of-ai-for-casinos/article_c05ffc53-f05d-5d0f-9649-ad7ce2a89cbd.html"
     type: article
     provider:
-      name: Dentistry
-      domain: dentistry.co.uk
-    quality: 4
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/c6/0c67eb7c-ce3b-5bf5-bfcc-97a74a5826d2/6157dece2b1b2.image.jpg?resize=1200%2C627"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "lXdjfjNoxoKkxAt6eXw64UYEbef42SzZYDGdBdaQegOz6InMxDpp2veuM35z/Rf98ePiCU0rSOaA54GOtyaNN3p8Ct9pv0oAw7lp0WXT11OTZcc7d9ratuq6fHFzEQGD+JBzlUilKovszRMk/h1jdG822gdAs0Qw57sD4CYci+L00lmXewy9+86OuItLRYI6GW4LS8+4XWBcHZcAJDBgN3WWbzojvnhxYjs/9SkszoD4Z/2DuMtLJbSwFbc7GOZ9ILuToOmRg02eKLw9xlwhUC97iAWw9F3SWFGFDDoBw4P+cxmRPqlhnaqzIREupz+sIAJAjv5A48/SCFKiEPj7s2ddqDjjdVODH2Q3P5+MCio=;SDRffna0/FlWslBFQUPuWw=="
 ---

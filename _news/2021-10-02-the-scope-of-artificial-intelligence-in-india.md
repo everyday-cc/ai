@@ -41,20 +41,18 @@ related:
         height: 675
         isCached: true
   - title: "Vice President calls for AI solutions in agriculture, health, education"
-    excerpt: "Jaipur, Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to deliver benefits to the people and enhance ..."
-    publishedDateTime: 2021-09-29T11:35:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
+    excerpt: "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to deliver benefits to the people and enhance their quality of life."
+    publishedDateTime: 2021-09-29T02:52:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=878108"
     type: article
     provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 76
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 56
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-86606103,imgsize-21820,width-800,height-434,overlay-etcio/vice-president-calls-for-ai-solutions-in-agriculture-health-education.jpg"
-        width: 800
-        height: 434
+      - url: "http://www.daijiworld.in/images3/sq_021320_westline2.jpg"
+        width: 280
+        height: 250
         isCached: true
   - title: "Best AI and machine learning innovation: GBG"
     excerpt: "In this area, machine learning can play a part in identifying and mapping out new patterns, tracking highly suspicious activities and known fraud better than a traditional rules-based engine. Dev Dhiman,"
@@ -113,6 +111,6 @@ related:
         height: 250
         isCached: true
 
-secured: "iaocLzkaVKimuGQ+LNvFZFLmfBjTApNsmKCVvAS+GEFTKTxMWOpKBk4UYg1J2p3oCQsXoOq460iWx/jZEPsoJxCWqPEQutzIfS1KZZ0sIf4whDTFZlkhnvpqhq550zv4m5uWPppxdyajXOvZN9UWkM2VJeo1OXvo/fXodNNhuQEi0jyxkndAUgE5VfDTbUc1KTLx2Ii35jGbJzXz8XJj9U8fYA+R3JQp29LnSM7Ai31pgwTcc8hznCz01B5/c84cCIYBzB08X1CCOkklc8amWOE/LcYVrJ+BklVUgVxmP/TbtTPMGB8ZG99j73lD1toV03Nme0MVJsD/HSuah65RL/ZOvwHjO//kLfCu9rxBrdM=;sMuWi7jY2oOeHEkb9gsWdg=="
+secured: "XIotZVB16wHU9knQXOlnuFWhHx7r5mIyLUu1TCYSx96RIsHOK7yrZTYV0ja6HtA1F39APj8JlOr6ROcPaGZc2rrPVDOjwnn2ejwkQ3EMPlVqh4oMKYSXfSp/PTMVGvREMSVLYAGX0GK19WCoAQPKr4W6KAA3ajhiHBosViGe4eiHmjUmy6rc+7S94s0x5z2SY4yP3/R5W3oD/QDEEXRG++jKx/jbAvZjpoe63hmuRlv4Ufj9tXc8v/kxkXTSHzNdhXp9cp6odaOI056ewAeVf9HsVRMXWMcy68s3hVJWfno4Om5Swhl7hVhHtZfNtCJlkR1gdJw0kl6Spurgv8mWh4AktLjcWGbuGe8SMOuckb83bEoFr+gNs6PKcK7tTZ7aJqfy0Znulzke41AdwE3hUyoQsPrBY0h2pU/o4QrXyO/RgPcP9N+cKX8dcPXG+M40orXRMzyqroIgaHgX1iLLeRKqNQmcZtwNcttaAyu9Rt9pSdz7AdLEjvpug49fzOEsTOxJwmBn92c/qbVEW3jJHA==;E0B4Ybgajl+OHquux20+xw=="
 ---
 

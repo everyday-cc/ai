@@ -300,15 +300,6 @@ related:
         width: 960
         height: 480
         isCached: true
-  - title: "Anyone can request access to Tesla’ Full Self-Driving beta"
-    excerpt: "This new button allows any Tesla driver to request access to the company’s ‘Full Self-Driving’ (not technically full self-driving) beta. Musk says that new entries to the beta program will need to have their driving style assessed by the car for a week to ensure they’re not too aggressive."
-    publishedDateTime: 2021-09-27T18:45:00Z
-    webUrl: "https://mobilesyrup.com/2021/09/27/anyone-can-request-access-to-tesla-full-self-driving-beta/"
-    type: article
-    provider:
-      name: MobileSyrup
-      domain: mobilesyrup.com
-    quality: 19
 
 secured: "Wzwq7l/43WwKPlqDSzUOOcku766kSTqovqjpfb5TzheGE/Iqgpu7TwuwvFMCTJj8Y27QCr/qIN9BG0REBU2NrluSOL7Iiwuo6XP+j/TKrHXFiv4BHz3XvOPJ/59ZxI51iHGXHQEkIEnTSrTFQja3AV/v/RsJmD9X/HtmFsgnaIL9BHT+8FeDkqsgyEr+bepoS73zduhS5RnlbN/VGmsWBQA0saSVLx3de3W4AjscUZpNWyCg/m9oeWTgz6Qt4I+2WWACe5BCt56AlpVCwizNlIsrqFmflRMlTuPnpO5kQOU6UBRC7pXvaHmfRsiKPXS/eEv8kdwmB8DlErU5igb3sJLMxOwqBBUw6yyTJ+hu+R8=;bNQDEw3ZPjbxCIdgN4ictQ=="
 ---

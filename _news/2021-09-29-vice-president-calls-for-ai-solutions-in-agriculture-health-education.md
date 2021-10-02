@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Vice President calls for AI solutions in agriculture, health, education"
-excerpt: "Jaipur, Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to deliver benefits to the people and enhance ..."
-publishedDateTime: 2021-09-29T11:35:00Z
-originalUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
-webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
-ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
-cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
+excerpt: "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to deliver benefits to the people and enhance their quality of life."
+publishedDateTime: 2021-09-29T02:52:00Z
+originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=878108"
+webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=878108"
 type: article
-quality: 76
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: cio.economictimes.indiatimes
-  domain: indiatimes.com
+  name: Daijiworld
+  domain: daijiworld.com
 
 topics:
   - Natural Language Processing
@@ -22,9 +20,9 @@ topics:
   - AI in Education
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-86606103,imgsize-21820,width-800,height-434,overlay-etcio/vice-president-calls-for-ai-solutions-in-agriculture-health-education.jpg"
-    width: 800
-    height: 434
+  - url: "http://www.daijiworld.in/images3/sq_021320_westline2.jpg"
+    width: 280
+    height: 250
     isCached: true
 
 related:
@@ -115,6 +113,6 @@ related:
         height: 250
         isCached: true
 
-secured: "NXiWtMGfo+zXRv5vt/nAU8+AnRwo2GBPrJvTbmHA0U2r6mkQEhEvNEMS+5A8d11A45jIRp0KcPNS2MEWyQBc0Mb7g2B22kr2GTsNGQoityFtE3dWdGxA37WoJja0JOXrZaxhSLYrsiWyPCiZaD5XICHwrkC+iUAcIaeac0eJaCwbfy6c9GxASuyRTp1iXk6ao7m95Qu9EUDD9VvnyjMhgjdjK2CwVcn+gX1csvy1BO8RCXAsRL/4KNCLYRFpO7p2cnUaJLrbriWoMqW4hS0e7Ub7dGQ++Obc42HKJCdxxWK498vjaKjWJ9l8/sa5yLRr5Zwk0PN58/QjlN3g9S6bPN3gizaII8POHOQhi/1Nwpo=;5fuT6Ma8vLPQnUDPcwVxkQ=="
+secured: "Kbs2xE9K9nsM5EFf4qJWSMntf+jO3eDilROzzr9HrALHg5JV2YzXAql7v+CF2Z4QACt8b+dw1sfRxIMrb1FCiUg7wbQGki4H2R580zoimWF8FXUhExkki6Ey67OXKUbap0FSVPWfE6uHOp60QYZoscI1TWW6VjU4snBE9V/v7xSjUadYkAYH9keWyAAq1R/sj5TcEo+8ARQNro7Co2TXEzJyCuJcbskz68p4yomcGyYhqVuYTUJg49eHj3qPYuCwOLL2wv+J8vSxyrGp3vFj9YSJbhrSUfHDnNfCnP/Xsx2gjWLlsyUkhiAKAq73YoywiDR/be2yjB2hr6Q+2dfv8EHIdOm9MZjqcF8q9viMD94=;ou3LHtl7/oEYi9ABKiX3SA=="
 ---
 

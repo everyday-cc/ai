@@ -26,26 +26,6 @@ images:
     height: 853
     isCached: true
 
-related:
-  - title: "Bennett Denounces Iran, Ignores Palestinians in U.N. Speech"
-    excerpt: "Naftali Bennett, Israel’s new prime minister, appealed to the international community Monday to stand together against Iran, accusing Tehran of marching"
-    publishedDateTime: 2021-09-27T18:23:00Z
-    webUrl: "https://hamodia.com/2021/09/27/bennett-denounces-iran-ignores-palestinians-in-u-n-speech/"
-    type: article
-    provider:
-      name: Hamodia
-      domain: hamodia.com
-    quality: 4
-  - title: "Israeli prime minister denounces Iran, ignores Palestinians in U.N. speech"
-    excerpt: "In his maiden speech to the U.N. General Assembly, Naftali Bennett accused the Iran of marching forward toward the development of a nuclear weapon and threatened to to act alone if the world does not take action."
-    publishedDateTime: 2021-09-27T18:55:00Z
-    webUrl: "https://www.pbs.org/newshour/world/israeli-prime-minister-denounces-iran-ignores-palestinians-in-u-n-speech"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 2
-
 secured: "iXR3NjW0w6EM7Iy10prV3B/3syMN91ZjDIB98I9y6B/HmhirYzfLOtImrR4xtaQNZzuMbp8nBb+Bdd4ZA1pmFLPmSH/bJLN26xNZS/DDyQa4xWUWpEhdGUfn2+uMPdob1YOUmZOygSM/K2Snk5wq8YYsAseXfJko9jsrFRKaNbZdb6rE0OC4R9VptGKvH+ybbZSzWqYjfgOxyxFib9xLRTIDgWg1rZvf5niPOmIWHWQc5J1bCWHsv9hn0II5MdVJobb1+rcrZ5IznQ8GQF9/Y0CTmgSnWv+oclDliy5VVv0oWaT8EAV5NBm0qKgrk58UCTseMeckqAxNrQhzxsdgVg3op79cQzKaA3gt24xay0o=;SMGuXfYBF8Z691VCUDUH9Q=="
 ---
 
