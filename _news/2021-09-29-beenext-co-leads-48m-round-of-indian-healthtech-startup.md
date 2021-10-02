@@ -54,20 +54,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "50 Most Influential AI Leaders In India – 2021"
-    excerpt: "Analytics India Magazine brings to you its annual list of the 50 Most Influential AI Leaders In India for the year 2021. Selected on the basis of the expertise they hold in the field of AI and Data Science,"
-    publishedDateTime: 2021-09-27T05:28:00Z
-    webUrl: "https://analyticsindiamag.com/50-most-influential-ai-leaders-in-india-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/50-most-influential-AI-Leaders-.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
   - title: "Best Smartphones releasing in India at the end of 2021"
     excerpt: "Although 2021 is nearing an end, there are still a number of smartphones to look out for. Here are seven that are set to release in India."
     publishedDateTime: 2021-09-28T17:25:00Z

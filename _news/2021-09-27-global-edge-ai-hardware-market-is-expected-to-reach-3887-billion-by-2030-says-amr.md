@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Airport Robots Market to Garner $2.56 Billion by 2030: Allied Market Research"
-    excerpt: "As per the report published by Allied Market Research, the global airport robots market generated $565.2 million in 2020, and is expected to reach $2.56 billion by 2030, registering a CAGR of 17.8% from 2021 to 2030."
-    publishedDateTime: 2021-09-27T05:41:00Z
-    webUrl: "https://menafn.com/1102867752/Airport-Robots-Market-to-Garner-256-Billion-by-2030-Allied-Market-Research"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 51
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?767393"
-        width: 376
-        height: 250
-        isCached: true
   - title: "Construction Robots Market Estimated to Reach $156.4 Million by 2026"
     excerpt: "The Global  Construction Robots Market  is estimated to reach $156.4 million by 2026, growing at a CAGR of 14.6% from 2"
     publishedDateTime: 2021-09-29T00:41:00Z
@@ -52,6 +38,31 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Voice Biometric Solutions Market Expected To Reach US$ 13,049.2 Mn By 2026: Transparency Market Research"
+    excerpt: "According to a new market report published by Transparency Market Research, the global voice biometric solution market is expected to reach a value of US$ 13,049.2 Mn by 2026 on account of growing adoption of voice biometric solutions and biometric technology across various industries."
+    publishedDateTime: 2021-09-30T05:14:00Z
+    webUrl: "https://manometcurrent.com/voice-biometric-solutions-market-expected-to-reach-us-13049-2-mn-by-2026-transparency-market-research/"
+    ampWebUrl: "https://manometcurrent.com/voice-biometric-solutions-market-expected-to-reach-us-13049-2-mn-by-2026-transparency-market-research/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/voice-biometric-solutions-market-expected-to-reach-us-13049-2-mn-by-2026-transparency-market-research/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 27
+    images:
+      - url: "https://www.transparencymarketresearch.com/images/voice-biometric-solutions-market.jpg"
+        width: 620
+        height: 420
+        isCached: true
+  - title: "AI in Energy and Utilities Market Forecast to Reach $4.5 Billion by 2026"
+    excerpt: "Technological Advancement Driving New Applications and Rise of Microgrid Adoption Driving the Growth of AI in Energy and Utilities Market The <st"
+    publishedDateTime: 2021-09-27T19:51:00Z
+    webUrl: "https://menafn.com/1102871862/AI-in-Energy-and-Utilities-Market-Forecast-to-Reach-45-Billion-by-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 16
 
 secured: "8FwT/IK9oO708q7XJYfjD/nz2q2rYxZ+vyvjhGXSwns0zRmKUbU6i2LyCFZ/tVRfo7weoXnBTpzXCNryIvho3JrZ3REDdGUVdXj5AIjz1C4ZqQg7DRriCdT3sb4OLt0reiDeysLUkqKPQhVgbgjwriLyUVpCA38fpZcELxUZEJ6uYb2J3a9gdnj8M1VW+dYpBqdTZK9snfw6rh+0gbya5QA3sFtB4gdrn6U7RyQLRuwYHEvP3f86hSqD5EGB/4zx5EX743G/6chgMmPAaD4/JsTQL/el4X031tkoxJXoPIrpeIITP/dinUKmZBFtCQXbxRtS4QDCuNh2jdY0te/zpO35GlNpy961TqVNsgoSkAk=;CNE/FvTj3AdGnWj3Bhkfsw=="
 ---

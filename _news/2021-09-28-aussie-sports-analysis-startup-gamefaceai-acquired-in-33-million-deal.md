@@ -7,7 +7,7 @@ originalUrl: "https://www.smartcompany.com.au/finance/mergers-and-acquisitions/g
 webUrl: "https://www.smartcompany.com.au/finance/mergers-and-acquisitions/gameface-ai-acquired-33-million/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Slinger to Acquire GAMEFACE.AI, an Award-Winning Artificial Intelligence Sports Technology Company"
-    excerpt: "GAMEFACE.AI’s leading AI, data collection and performance analysis capabilities enhance Slinger’s connected sports and technology offering. BALTIMORE, Sept. (GLOBE NE"
-    publishedDateTime: 2021-09-27T06:50:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8332735/slinger-to-acquire-gamefaceai-an-award-winning-artificial-intelligence-sports-technology-company"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 38
-    images:
-      - url: "https://ml.globenewswire.com/media/de2adceb-1e32-48db-99da-f5ff4766e010/medium/slinger-bag.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "US sports gear company snaps up Sydney AI tech startup Gameface for $32 million"
     excerpt: "US venture Slinger Bag is acquiring Sydney player data analytics startup Gameface.ai for US$24 million (A$32m) in an all-stock deal."
     publishedDateTime: 2021-09-28T02:35:00Z

@@ -35,15 +35,6 @@ related:
         width: 343
         height: 250
         isCached: true
-  - title: "AI in Energy and Utilities Market Forecast to Reach $4.5 Billion by 2026"
-    excerpt: "Technological Advancement Driving New Applications and Rise of Microgrid Adoption Driving the Growth of AI in Energy and Utilities Market The <st"
-    publishedDateTime: 2021-09-27T19:51:00Z
-    webUrl: "https://menafn.com/1102871862/AI-in-Energy-and-Utilities-Market-Forecast-to-Reach-45-Billion-by-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 16
 
 secured: "d6SAoYJ6Jm4Ynk18nrPNB9NLjdF4pkgSW50+tWv/9ARfwm15TnhAnuBmJ+FOoJe3fWD4jWLfSXlcarVToxIb7SoxBhjZDNzswJQlYUD9gwGSF41EghdfAu1UPdC0cIJMtnW8XLattWjoqD6x8l/zE+4wdfQD6mqTyj6tOT9j8rQpiTF82Yxkxru3//gt9gZq9FTJ0mYKkedqeuUilJSCmGekgsBp/SxWmH5cbTyiUJ+CXzu3PGRDQrir7Ri5wk3C5ebxeUq69aGtmVdYCnn+kjTyPsD4+p+5toDTs4saoETQCEADEzCknwB8g8chMXPGswDxl+NIP/PrmSMRUJ5wc4xOfTWv9JThqbvf8H0RKfo=;+yeoacHCCN1tYQRfpWMDEg=="
 ---

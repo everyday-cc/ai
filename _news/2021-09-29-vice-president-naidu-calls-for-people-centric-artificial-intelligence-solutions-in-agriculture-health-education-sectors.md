@@ -26,16 +26,19 @@ images:
 
 related:
   - title: "Vice President calls for AI solutions in agriculture, health, education"
-    excerpt: "He also suggested exploring AI-based smart solutions in health such as remote diagnosis, and automatic translation of English texts to Indian languages in education. \"If such solutions can be ..."
-    publishedDateTime: 2021-09-28T18:31:00Z
-    webUrl: "https://www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
-    ampWebUrl: "https://www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
+    excerpt: "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to deliver benefits to the people and enhance their quality of life."
+    publishedDateTime: 2021-09-29T02:52:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=878108"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
+      name: Daijiworld
+      domain: daijiworld.com
     quality: 56
+    images:
+      - url: "http://www.daijiworld.in/images3/sq_021320_westline2.jpg"
+        width: 280
+        height: 250
+        isCached: true
   - title: "6 steps for seamlessly integrating an artificial intelligence solution into daily clinical practice"
     excerpt: "Imaging stakeholders have written plenty about the promise of artificial intelligence but not much on how to integrate AI solutions into daily clinical practice. Experts with University Hospitals are attempting to fill the void,"
     publishedDateTime: 2021-09-28T20:31:00Z

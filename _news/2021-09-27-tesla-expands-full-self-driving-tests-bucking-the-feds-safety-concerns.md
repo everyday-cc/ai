@@ -187,6 +187,22 @@ related:
         width: 600
         height: 300
         isCached: true
+  - title: "Tesla Moves on With Self-Driving. But Can Auto-Safety Regulators Keep Up?"
+    excerpt: "A case in Texas involving a Tesla stirs questions about who is ultimately responsible for a crash in an autonomous vehicle. Tesla argues that its self-driving systems require full engagement by a driver."
+    publishedDateTime: 2021-10-01T22:50:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-self-driving-autopilot-news-51633124303"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-self-driving-autopilot-news-51633124303"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-self-driving-autopilot-news-51633124303"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 58
+    images:
+      - url: "https://images.barrons.com/im-409159/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Tesla's 'full self-driving' feature could be days away for approved drivers"
     excerpt: "A wider group of Tesla owners who paid up to $10,000 for what the company calls its \"full self-driving\" software can now ask the automaker for access to a test"
     publishedDateTime: 2021-09-29T00:30:00Z
@@ -265,15 +281,6 @@ related:
         width: 576
         height: 324
         isCached: true
-  - title: "Tesla to outsource its self-driving chip to Samsung Electronics"
-    excerpt: "It is reported that Tesla has decided to outsource its self-driving chip manufacturing to Samsung Electronics. According to the industry on the 24th, Samsung Electronics is reportedly likely to win orders for manufacturing of the HW 4."
-    publishedDateTime: 2021-09-27T05:16:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/World/20210927/3826878.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 36
   - title: "Tesla’s ‘full self-driving’ could be days away. Here’s what you need to know."
     excerpt: "By Matt McFarland, CNN Business A wider group of Tesla owners who paid up to $10,000 for what the company calls its “full self-driving” software can now ask the automaker for access to a test version of the feature."
     publishedDateTime: 2021-09-28T15:39:00Z

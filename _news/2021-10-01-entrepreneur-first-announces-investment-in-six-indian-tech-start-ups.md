@@ -42,20 +42,6 @@ related:
         width: 550
         height: 450
         isCached: true
-  - title: "50 Most Influential AI Leaders In India – 2021"
-    excerpt: "Analytics India Magazine brings to you its annual list of the 50 Most Influential AI Leaders In India for the year 2021. Selected on the basis of the expertise they hold in the field of AI and Data Science,"
-    publishedDateTime: 2021-09-27T05:28:00Z
-    webUrl: "https://analyticsindiamag.com/50-most-influential-ai-leaders-in-india-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/50-most-influential-AI-Leaders-.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
   - title: "Beenext co-leads $48m round of Indian healthtech startup"
     excerpt: "MFine, an Indian digital health startup, has raked in US$48 million in a series C round co-led by Singapore venture capital firm Beenext and US-based Moore Strategic Ventures. the Indian firm’s existing investors,"
     publishedDateTime: 2021-09-29T04:39:00Z

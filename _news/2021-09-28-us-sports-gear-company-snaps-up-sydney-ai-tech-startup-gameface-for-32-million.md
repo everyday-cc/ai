@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Slinger to Acquire GAMEFACE.AI, an Award-Winning Artificial Intelligence Sports Technology Company"
-    excerpt: "GAMEFACE.AI’s leading AI, data collection and performance analysis capabilities enhance Slinger’s connected sports and technology offering. BALTIMORE, Sept. (GLOBE NE"
-    publishedDateTime: 2021-09-27T06:50:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8332735/slinger-to-acquire-gamefaceai-an-award-winning-artificial-intelligence-sports-technology-company"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 38
-    images:
-      - url: "https://ml.globenewswire.com/media/de2adceb-1e32-48db-99da-f5ff4766e010/medium/slinger-bag.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Aussie sports analysis startup Gameface.AI acquired in $33 million deal"
     excerpt: "Aussie analyst startup Gameface.AI has been acquired by listed sports equipment company Slinger Bags in a deal worth almost $33 million."
     publishedDateTime: 2021-09-28T02:16:00Z

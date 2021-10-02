@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/amazon-astro-robot-may-fall-down-sta
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-astro-robot-may-fall-down-stairs-report-says-2021-9?amp"
 type: article
 quality: 96
-heat: 96
+heat: 97
 published: true
 
 provider:
