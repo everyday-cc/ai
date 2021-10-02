@@ -40,15 +40,20 @@ related:
         width: 1040
         height: 693
         isCached: true
-  - title: "Scientists want to ‘copy and paste’ the human brain onto a computer chip"
-    excerpt: "Researchers from Samsung and Harvard University have proposed \"copying and pasting\" the brain onto memory networks to build smarter computer chips."
-    publishedDateTime: 2021-09-27T19:23:00Z
-    webUrl: "https://thenextweb.com/news/samsung-harvard-scientists-want-copy-and-paste-brain-onto-computer-chips"
+  - title: "Samsung Wants To ‘Copy and Paste’ the Brain on Neuromorphic Chips"
+    excerpt: "South Korean tech giant Samsung is considering developing brain-like chips by borrowing existing brain structures. The tech firm puts forward a vision to “copy and paste” the brain’s neuronal connection map onto a computer chip."
+    publishedDateTime: 2021-09-28T22:53:00Z
+    webUrl: "https://www.industrytap.com/samsung-wants-to-copy-and-paste-the-brain-on-neuromorphic-chips/60329"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 63
+      name: Industry Tap
+      domain: industrytap.com
+    quality: 54
+    images:
+      - url: "https://www.industrytap.com/wp-content/uploads/2021/09/brain.jpg"
+        width: 744
+        height: 419
+        isCached: true
   - title: "Samsung to “copy paste” the brain onto 3D chips – a precursor to human-like AI?"
     excerpt: "By borrowing existing brain structures, the tech firm has proposed a method that would \"copy and paste\" a brain's neuron wiring map to 3D chips."
     publishedDateTime: 2021-09-29T12:30:00Z
@@ -77,15 +82,6 @@ related:
         width: 1790
         height: 1194
         isCached: true
-  - title: "Neural network mimics the human brain to solve complex problems"
-    excerpt: "Researchers at , USA, have developed a new computer system that mimics the way the human brain works, with an information processing capacity of up to one mil"
-    publishedDateTime: 2021-09-27T19:10:00Z
-    webUrl: "https://www.clarepeople.com/4614-neural-network-mimics-the-human-brain-to-solve-complex-problems/"
-    type: article
-    provider:
-      name: The Clare People
-      domain: clarepeople.com
-    quality: 34
 
 secured: "KLSiQ3vgJHUhqEsYlAqzVSyWJgWPc7CmefkHcC4/AL67A4YmAH0nXqdGW6aUmFyS/xUUPSJ8bBWgRVPl58VrEdZyqTSyTI1IMdSJfLeAeLTv+GCGmXZeJmn19ZtorBhkQ3+ITDFC7Cta7BthsdiwIMe8sdKdxBwsmIc/cPLXk8xo1RyxEn4EYz4D/OxR0bSbOcvrieV56BtnW5q1OjGCVISB3lB3Qrubmdv4dWRqjx/vYos8wVA8I3b0OpIxLMWz8Dox9zzPVZbyKnNqXy/Gq0E76jqvrz/8vcLwVjyf1cfYCAzNaQPUZm4WAn+tT6KomCnn57xgd1+slhlm25SX8PK826KQnonxOVEwZ+oKuoKpfEN8D/bQKRypxU07VmcqjgsQGKoDcbgsVXp6gGHcK3ICoszm+HgObwAf+pbX5d/Lj58kZuJbJ6s0KbO3EbvMMZ0E48T9TdpJr3GykvAAFZC4kFqzACDZQ2CKz18OdwpzD/QAu77mo6+q/zcKt+RF8sp+vAnRXRW0D67m2xsRwg==;kji/I1vqDjYYTL17N1kGVg=="
 ---

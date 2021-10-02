@@ -98,20 +98,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "The Divine and Felonious Nature of Artificial intelligence"
-    excerpt: "Artificial intelligence (AI) has become commonplace in our everyday lives, and Deep Learning AI techniques have enabled computers to beat humans at complex games, drive cars, and even written books. In 1998,"
-    publishedDateTime: 2021-09-27T19:58:00Z
-    webUrl: "https://www.linkedin.com/pulse/divine-felonious-nature-artificial-intelligence-john-willis"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 41
-    images:
-      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
-        width: 1400
-        height: 800
-        isCached: true
   - title: "How artificial intelligence is changing the role of the business analyst"
     excerpt: "| \\ ˈdī-nə-ˌsȯr  \\  One who is, out-of-date, or obsolete   Strange how certain words conjure up thoughts of an ever-changing, progressive world that, like tide and time, wait for no man. And somewhere"
     publishedDateTime: 2021-09-28T18:47:00Z

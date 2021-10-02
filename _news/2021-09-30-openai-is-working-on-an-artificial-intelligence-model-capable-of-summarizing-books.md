@@ -85,20 +85,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "The Divine and Felonious Nature of Artificial intelligence"
-    excerpt: "Artificial intelligence (AI) has become commonplace in our everyday lives, and Deep Learning AI techniques have enabled computers to beat humans at complex games, drive cars, and even written books. In 1998,"
-    publishedDateTime: 2021-09-27T19:58:00Z
-    webUrl: "https://www.linkedin.com/pulse/divine-felonious-nature-artificial-intelligence-john-willis"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 41
-    images:
-      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
-        width: 1400
-        height: 800
-        isCached: true
   - title: "Imagining the future of artificial intelligence and its potential impact"
     excerpt: "ABC News' Linsey Davis speaks with former president of Google China, and bestselling author Kai-Fu Lee on his new book, \"AI 2041: Ten Visions for Our Future.\""
     publishedDateTime: 2021-09-28T01:42:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/29/ai-powered-document-processing-pl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/ai-powered-document-processing-platform-zuva-raises-20m/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Hayden AI Raises $20M, Its Third Investment Round in a Year"
-    excerpt: "The startup, only two years old, has now raised more than $30 million from investors. Amid its rapid growth, the company is looking at expanding its traffic automation platform toward self-driving vehicles."
-    publishedDateTime: 2021-09-30T20:42:00Z
-    webUrl: "https://www.govtech.com/biz/hayden-ai-raises-20m-its-third-investment-round-in-a-year"
-    ampWebUrl: "https://www.govtech.com/biz/hayden-ai-raises-20m-its-third-investment-round-in-a-year?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/biz/hayden-ai-raises-20m-its-third-investment-round-in-a-year?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 57
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/d79d319/2147483647/strip/true/crop/1170x610+0+119/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fb6%2Fad%2F2ee45bc48289cd1f01e0bddb037b%2Fbus-flickr-iridecapitalmetro.jpg"
-        width: 840
-        height: 438
-        isCached: true
 
 secured: "lopmZwfefBPBkz4XMTVcY48gi6ZLTqTSFdI0va/n2hvydhJWCbslQgV3bccNPNMEzgNBPGF7CYB30e6uaaXsFgoGaP3FMUsvRnBolvdgSbmNpDSHxmnfutN2Juu0AbnQ+TR866h3KECGQ7Qz6zkERa3ogb4NOtRB/5X6127KbJvpkrVb5XQ+gZ9dADPEd40JvO4Vx8fLiOL97+BHpDAbgt5sFb9U0zcyqGmDP1+gWZP7VMB9iyTOTNXi4bT/rNSAQrqgFkVf2qEgTWhqyR5NdQUQR4KV5WiEOaSoguLWuYiDVpaffzOt1C5I0IRtcKF9X/WaRxbPq6a0MbeNQBpknG2QZLT2EIr0WUkgBHps/4+vs8dQ40E7zSeC3Q0M5pZmUyhLRs7zyl3pfwkVm1v7lsHMgy0K5H8b6G2enn5/8z66lPESuNfDfYIAOeKrsvvcfm4RKgSihuKaus6z4SjjYkORDTMCuk7CFYbWS46EWjfd4+l2Oj3F5ZYPR62o/pDF8CmWXEX3hSNM7vNohnoJRA==;fGRDG8rYP5Y2hHkIDTwdtA=="
 ---

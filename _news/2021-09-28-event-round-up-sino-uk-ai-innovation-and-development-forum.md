@@ -38,6 +38,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "These top AI cities are doing pretty well in the research and development of AI"
+    excerpt: "As we say, data has become wealth today the potential of artificial intelligence is not ignorable under any circumstance. Let’s look at the top AI cities in the world that are doing pretty well to attain advancement in AI."
+    publishedDateTime: 2021-10-02T13:30:00Z
+    webUrl: "https://www.analyticsinsight.net/top-ai-cities-to-know-across-the-globe-in-race-towards-advancement/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 35
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-AI-Cities-to-Know-Across-the-Globe-in-Race-Towards-Advancement.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Syntiant Brings Artificial Intelligence Development to Everyone, Everywhere with Introduction ..."
     excerpt: "Tiny Machine Learning Development Board Now Available for Building Low-Power Voice, Audio and Sensor Applications using Edge Impulse’s Embedded ML Platform. Smallest Form Factor"
     publishedDateTime: 2021-09-29T12:22:00Z

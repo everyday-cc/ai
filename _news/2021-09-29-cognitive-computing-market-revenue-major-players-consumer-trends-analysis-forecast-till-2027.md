@@ -153,20 +153,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 12
-  - title: "Global Underwater Computer Vision Market 2021 Key Players, Product Type, Geographical Regions and End-User Applicants by 2027"
-    excerpt: "The research released by MarketsandResearchbiz named Global Underwater Computer Vision Market 2021 by Company Regi"
-    publishedDateTime: 2021-09-27T19:11:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271325720/global-underwater-computer-vision-market-2021-key-players-product-type-geographical-regions-and-end-user-applicants-by-2027"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 12
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1632803637705.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Self-driving Vehicles Market Enhancement, Latest Trends, Growth and Opportunities during 2021 to 2027"
     excerpt: "The Self driving Vehicles Market research report provides detailed observation of several aspects including the rate of growth regional scope and recent developments by the primary market players The report offers Porter s Five Forces PESTEL and market analysis to"
     publishedDateTime: 2021-09-28T09:48:00Z

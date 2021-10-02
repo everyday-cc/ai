@@ -1,23 +1,23 @@
 ---
 category: news
 title: "GML and EZ-WHEEL Partner to Bring a Unique AI powered Wheel Drive to Autonomous Mobile Robots"
-excerpt: "The award winning ez-Wheel solution when combined with Life-Ready AI from GML will have a big impact to the logistics and supply chain industry by offering a safety certified mobile robotics platform capable of smart features like person tracking,"
-publishedDateTime: 2021-10-01T12:54:00Z
-originalUrl: "https://www.roboticstomorrow.com/content.php?post=17559"
-webUrl: "https://www.roboticstomorrow.com/content.php?post=17559"
+excerpt: "GrAI Matter Labs (GML), a pioneer of brain-inspired computing solutions, announced today that it has entered into a partnership with ez-Wheel, a Frenc"
+publishedDateTime: 2021-10-01T07:42:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210930006064/en/GML-and-EZ-WHEEL-Partner-to-Bring-a-Unique-AI-powered-Wheel-Drive-to-Autonomous-Mobile-Robots"
+webUrl: "https://www.businesswire.com/news/home/20210930006064/en/GML-and-EZ-WHEEL-Partner-to-Bring-a-Unique-AI-powered-Wheel-Drive-to-Autonomous-Mobile-Robots"
 type: article
-quality: 23
-heat: 23
+quality: 8
+heat: 8
 published: false
 
 provider:
-  name: Robotics Tomorrow
-  domain: roboticstomorrow.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AI in Robotics
+  - AI Hardware
   - AI
 
-secured: "1dl5c5te/lCfXf92RoApuovM38piyVyIFotaOPT9WprSbPJ6HT4Hn1HZTRIobYj0scRUY7juB3v88zsfiQmV4CuRfmeNli8Z70Lw9iy9f58OuzeMiH6+RndcVZDb6YNI3wWCN2CJGYcRmmWRObG1PwLWF54c2fgINvkKTfOXDoMtFMVN+3m/+fSeJW78Z8QvWAGLiYFY0ioa8zOK1TBQAijqO2Fv1wGOBEFPSqhurrR+DzOF1nvXP/5NJ57mQGsxuJW4ZxGgBYjBs+RW3EdHyVbgvvHo09V0MSSKxuaH71rSqJZHvd+BBhVFPI+O/OpwYwqRmf/EyEgPX8pDipIyydLlCb6IKVyoPlqZsjZNRdc=;4+9mQ/zUBEu8H68ArKhDNw=="
+secured: "JXnazEp7kxANqIfZqZo4U8IocJQ5bt9YiZIWs6W57i/sugj2m8K3C9BZ4PsnLyXqnzvirunZz2mDqD/5dErfX2dg7ThmY2dYEgVJrhSMQ2izWK+ZyLu6ZSVSU0rdyOoGYuugc4MqT71NwxeWTgGtxlfLX1ULc+w5iYT4Jq9giXTh6zShoAchNlyWDwRUeTZHq3vv8qCqZXa2AZm2HTYlIWHUPGtjp7swBodCLDVo5fuRnRumIASvF541pkAW2/Eel5Nyo3ifBDtUMTLpBWDgBvTTEeI79q63wOofXNUNI3zuHE8zSnhWauQRSF0hX/2R83P2MSA+nsU5ToVhJoQkYSPq3jBwaHeHAVnruMeo69rbiQA0bR9mrSdOPk5nEhkVly0k/lpVjVJ4dn6d7/toMP53WMm+bHnIUfpnRaj3gCGlMyWvOHbyEvYc44Lau9yHAhWY7ktgnOcUVdy13+fAVvq7jZOa3+09lyhBOxZhsZ3zo3rsXN/UOoIn1xXvMhZPbciZLCMxN914oqwTkvenag==;+/799bU6KoaT95VQeFOEXw=="
 ---
 

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Intel advances neuromorphic with Loihi 2, new Lava software framework"
+    excerpt: "Intel has introduced Loihi 2, its second-generation neuromorphic research chip, and Lava, an open-source software framework for developing neuro-inspired applications. Their introduction signals Intel's ongoing progress in advancing neuromorphic technology."
+    publishedDateTime: 2021-10-01T07:08:00Z
+    webUrl: "https://www.intel.com/content/www/us/en/newsroom/news/intel-unveils-neuromorphic-loihi-2-lava-software.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 122
+    images:
+      - url: "https://www.intel.com/content/dam/www/public/us/en/newsroom/posts/galleries/2021-09-30-loihi-2/intel-loihi-2-1-16x9.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Intel Announces Neuromorphic Loihi 2 AI HW And Lava SW"
     excerpt: "Intel Research believes that brain-like Neuromorphic computing could hold the key to AI efficiency and capabilities. Intel has announced the availability of the second generation"
     publishedDateTime: 2021-09-30T15:00:00Z
@@ -86,36 +100,6 @@ related:
       - url: "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/09/Innatera-chip-photo-1.jpg"
         width: 600
         height: 404
-        isCached: true
-  - title: "Samsung Wants To ‘Copy and Paste’ the Brain on Neuromorphic Chips"
-    excerpt: "South Korean tech giant Samsung is considering developing brain-like chips by borrowing existing brain structures. The tech firm puts forward a vision to “copy and paste” the brain’s neuronal connection map onto a computer chip."
-    publishedDateTime: 2021-09-28T22:53:00Z
-    webUrl: "https://www.industrytap.com/samsung-wants-to-copy-and-paste-the-brain-on-neuromorphic-chips/60329"
-    type: article
-    provider:
-      name: Industry Tap
-      domain: industrytap.com
-    quality: 54
-    images:
-      - url: "https://www.industrytap.com/wp-content/uploads/2021/09/brain.jpg"
-        width: 744
-        height: 419
-        isCached: true
-  - title: "Intel's Loihi 2 Processor Gets Even Faster At Computing AI Workloads Like A Human Brain"
-    excerpt: "Loihi 2 improves upon the first-gen neuromorphic chip in every way, and will be the first commercial chip to be fabbed on Intel 4."
-    publishedDateTime: 2021-09-30T16:24:00Z
-    webUrl: "https://hothardware.com/news/intel-launches-loihi-2-its-second-generation-neuromorphic-processor"
-    ampWebUrl: "https://amp.hothardware.com/news/intel-launches-loihi-2-its-second-generation-neuromorphic-processor"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-launches-loihi-2-its-second-generation-neuromorphic-processor"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 51
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/56368/content/intel-loihi2-fingertip-hero.png"
-        width: 708
-        height: 502
         isCached: true
 
 secured: "PktRxDCxLp0Zu1rAxaxtErMpwTUR43X5bdjpecyFbXrIoLWClMN4SH73+EOUsx8/uEtdyQwmQIo04kFRG+legBub0Cxu6uVlr3rnuvZ4fXcEC5OJoQNiKhtezdeN94P/Rf+5eBMJncte38mCQnyXYDLih6lTKKdBit82D1aevVLkcm29EDUKpOZaxr0qfnUde/ExOEDQGhJReRvIkUF63+sD8e3KJFdU5Avnm7Me6mUId/0MRP9HMSz/5VQEkM5gvgFaidHPj4dmtZsTU6dQRHY38ya7STVdyCCdS+64rNyB52uLSvyNqQP50V1oSqeqwq5hfVmgo7mHTheKJvMXTzgjpBqW1ZX4XY6vqarQP4sxFC3HSmAwk2UtRapZnwRq1tySQ+RA6EiC9+gyodehTpJRwoShTwDrQrCCWsXXLGi/V7cJWchr9kYgT5BXJ13ufD+tR9YjA0W3EyVUze3QckW2lhwqdSzPU+jQwndFJTmrBbMF4vZFS03CDEoRliy7rwdx0H30BlhTbqeS20tkKQ==;2VJBKxtIcHk5GYmLFcIAXw=="

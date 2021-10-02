@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/newsscroll/amp/mega-summit-on-artificia
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740"
 type: article
 quality: 73
-heat: 74
+heat: 73
 published: true
 
 provider:

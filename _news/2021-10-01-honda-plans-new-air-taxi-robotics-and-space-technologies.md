@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Honda sets its sights on an eVTOL, telepresence robot and space tech"
-    excerpt: "Honda has laid out new technologies it plans to pursue in the coming decades. Building on current areas of expertise, the company will look to develop an eVTOL for inter-city transport, a robot that will act as an avatar for users to perform tasks remotely,"
-    publishedDateTime: 2021-10-01T06:43:00Z
-    webUrl: "https://newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/"
-    ampWebUrl: "https://newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/?amp=true"
+  - title: "Honda prepping AI robots, inter-city electric air travel and lunar technology for 2030"
+    excerpt: "Honda announced a range of efforts for the coming decade, including travel to the Moon and AI-powered robots. By Jonathan Greig | September 30, 2021 | Topic: Innovation Honda unveiled its priorities for the next decade on Thursday,"
+    publishedDateTime: 2021-09-30T15:45:00Z
+    webUrl: "https://www.zdnet.com/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/"
     type: article
     provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 89
+      name: ZDNet
+      domain: zdnet.com
+    quality: 179
     images:
-      - url: "https://assets.newatlas.com/dims4/default/dd2dba0/2147483647/strip/true/crop/1620x1080+597+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F45%2F76%2F52fc0bd94744bc076553e9b6fa34%2Fhonda-evtol.jpg"
+      - url: "https://www.zdnet.com/a/img/resize/467f6b569a7615928bfd7393b0d0baf4bd9fff42/2021/09/30/369a95d4-aa5c-46e3-b43d-3324f80c308f/honda-evtol.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
-        height: 800
-        isCached: true
-  - title: "Honda reveals eVTOL plans, future robots and dreams of helping colonize the moon"
-    excerpt: "These are some big time aspirations from the carmaker, but it's all part of a plan to tackle other issues beyond traditional transportation."
-    publishedDateTime: 2021-09-30T09:00:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/honda-evtol-robots-colonize-moon/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/honda-evtol-robots-colonize-moon/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-evtol-robots-colonize-moon/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 84
-    images:
-      - url: "https://www.cnet.com/a/img/lcRp-47lWgWxs2fqLwA9_Lom8Yo=/2021/09/29/ad56b966-12bb-4145-bbbb-0826ab7721d3/ogi-honda.jpg"
-        width: 1200
-        height: 630
+        height: 432
         isCached: true
   - title: "Honda sees its future in air taxis, rockets and moon robots"
     excerpt: "Honda's vision of how people will work, travel and spend leisure time in the future will help expand its business beyond cars, lawn mowers and motorcycles. The efforts are a key component of Honda's \"2030 Vision\" to broaden the definition of mobility and to improve peoples' daily lives."
@@ -70,6 +54,20 @@ related:
       - url: "https://media.nationthailand.com/uploads/images/md/2021/10/yrHKYUG2ssVzuXoZG4Gz.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Honda’s Vision Includes Air Taxis, Rockets and Robots"
+    excerpt: "A part of its “2030 Vision,” the company from Tokyo is looking to the sky and to robots and sees these advancements being offered by the 2030s and 40s. The first is air taxis. This would build on HondaJet,"
+    publishedDateTime: 2021-10-01T15:25:00Z
+    webUrl: "https://www.manufacturing.net/video/video/21747589/hondas-vision-includes-air-taxis-rockets-and-robots"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 54
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/10/mm1021.6157238e46294.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Honda Announces Plans To Expand Research in Air Taxis, Robots and Space Technology"
     excerpt: "Honda Motor Company on Thursday announced plans to increase research and development across three technological categories: space technology, robots and electric vertical takeoff and landing aircrafts (eVTOL),"

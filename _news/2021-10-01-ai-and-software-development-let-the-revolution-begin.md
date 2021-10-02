@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/big-data-and-analytics/ai-and-software-devel
 webUrl: "https://www.eweek.com/big-data-and-analytics/ai-and-software-development-let-the-revolution-begin/"
 type: article
 quality: 67
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/4fc666e1-629d-43e3-b9992413968badad/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/Sino-event.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "These top AI cities are doing pretty well in the research and development of AI"
+    excerpt: "As we say, data has become wealth today the potential of artificial intelligence is not ignorable under any circumstance. Let’s look at the top AI cities in the world that are doing pretty well to attain advancement in AI."
+    publishedDateTime: 2021-10-02T13:30:00Z
+    webUrl: "https://www.analyticsinsight.net/top-ai-cities-to-know-across-the-globe-in-race-towards-advancement/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 35
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-AI-Cities-to-Know-Across-the-Globe-in-Race-Towards-Advancement.jpg"
+        width: 900
+        height: 500
         isCached: true
   - title: "Syntiant Brings Artificial Intelligence Development to Everyone, Everywhere with Introduction ..."
     excerpt: "Tiny Machine Learning Development Board Now Available for Building Low-Power Voice, Audio and Sensor Applications using Edge Impulse’s Embedded ML Platform. Smallest Form Factor"

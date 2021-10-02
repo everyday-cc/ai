@@ -42,19 +42,16 @@ related:
         height: 675
         isCached: true
   - title: "Vice President calls for AI solutions in agriculture, health, education"
-    excerpt: "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to deliver benefits to the people and enhance their quality of life."
-    publishedDateTime: 2021-09-29T02:52:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=878108"
+    excerpt: "He also suggested exploring AI-based smart solutions in health such as remote diagnosis, and automatic translation of English texts to Indian languages in education. \"If such solutions can be ..."
+    publishedDateTime: 2021-09-28T23:40:00Z
+    webUrl: "https://www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
+    ampWebUrl: "https://www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
+      name: Sify.com
+      domain: sify.com
     quality: 56
-    images:
-      - url: "http://www.daijiworld.in/images3/sq_021320_westline2.jpg"
-        width: 280
-        height: 250
-        isCached: true
   - title: "Best AI and machine learning innovation: GBG"
     excerpt: "In this area, machine learning can play a part in identifying and mapping out new patterns, tracking highly suspicious activities and known fraud better than a traditional rules-based engine. Dev Dhiman,"
     publishedDateTime: 2021-09-29T03:15:00Z

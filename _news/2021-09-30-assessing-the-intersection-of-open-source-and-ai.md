@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/29/assessing-the-intersection-of-ope
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/assessing-the-intersection-of-open-source-and-ai/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -87,20 +87,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1638018/BluWave_ai_Dubai_Taxi_and_BluWave_ai_Launch_Innovative_Partnersh.jpg"
         width: 400
         height: 225
-        isCached: true
-  - title: "The Divine and Felonious Nature of Artificial intelligence"
-    excerpt: "Artificial intelligence (AI) has become commonplace in our everyday lives, and Deep Learning AI techniques have enabled computers to beat humans at complex games, drive cars, and even written books. In 1998,"
-    publishedDateTime: 2021-09-27T19:58:00Z
-    webUrl: "https://www.linkedin.com/pulse/divine-felonious-nature-artificial-intelligence-john-willis"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 41
-    images:
-      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
-        width: 1400
-        height: 800
         isCached: true
   - title: "Imagining the future of artificial intelligence and its potential impact"
     excerpt: "ABC News' Linsey Davis speaks with former president of Google China, and bestselling author Kai-Fu Lee on his new book, \"AI 2041: Ten Visions for Our Future.\""

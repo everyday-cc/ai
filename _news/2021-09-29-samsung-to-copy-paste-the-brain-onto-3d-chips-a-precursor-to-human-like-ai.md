@@ -41,15 +41,20 @@ related:
         width: 1040
         height: 693
         isCached: true
-  - title: "Scientists want to ‘copy and paste’ the human brain onto a computer chip"
-    excerpt: "Researchers from Samsung and Harvard University have proposed \"copying and pasting\" the brain onto memory networks to build smarter computer chips."
-    publishedDateTime: 2021-09-27T19:23:00Z
-    webUrl: "https://thenextweb.com/news/samsung-harvard-scientists-want-copy-and-paste-brain-onto-computer-chips"
+  - title: "Samsung Wants To ‘Copy and Paste’ the Brain on Neuromorphic Chips"
+    excerpt: "South Korean tech giant Samsung is considering developing brain-like chips by borrowing existing brain structures. The tech firm puts forward a vision to “copy and paste” the brain’s neuronal connection map onto a computer chip."
+    publishedDateTime: 2021-09-28T22:53:00Z
+    webUrl: "https://www.industrytap.com/samsung-wants-to-copy-and-paste-the-brain-on-neuromorphic-chips/60329"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 63
+      name: Industry Tap
+      domain: industrytap.com
+    quality: 54
+    images:
+      - url: "https://www.industrytap.com/wp-content/uploads/2021/09/brain.jpg"
+        width: 744
+        height: 419
+        isCached: true
   - title: "The Human Costs of AI"
     excerpt: "In 2015 a cohort of well-known scientists and entrepreneurs including Stephen Hawking, Elon Musk, and Steve Wozniak issued a public letter urging"
     publishedDateTime: 2021-09-30T02:23:00Z
@@ -64,15 +69,6 @@ related:
         width: 1790
         height: 1194
         isCached: true
-  - title: "Neural network mimics the human brain to solve complex problems"
-    excerpt: "Researchers at , USA, have developed a new computer system that mimics the way the human brain works, with an information processing capacity of up to one mil"
-    publishedDateTime: 2021-09-27T19:10:00Z
-    webUrl: "https://www.clarepeople.com/4614-neural-network-mimics-the-human-brain-to-solve-complex-problems/"
-    type: article
-    provider:
-      name: The Clare People
-      domain: clarepeople.com
-    quality: 34
   - title: "Samsung has come up with a way to copy the human brain. How will artificial intelligence change the technology of the future?"
     excerpt: "Monitoring Desk Samsung described the ability to copy the brain At the end of September, the specialists of the Korean company, together with scientists from Harvard University, presented the concept of imitating the human brain using semiconductor chips."
     publishedDateTime: 2021-09-29T13:34:00Z

@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Vice President calls for AI solutions in agriculture, health, education"
-excerpt: "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to deliver benefits to the people and enhance their quality of life."
-publishedDateTime: 2021-09-29T02:52:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=878108"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=878108"
+excerpt: "He also suggested exploring AI-based smart solutions in health such as remote diagnosis, and automatic translation of English texts to Indian languages in education. \"If such solutions can be ..."
+publishedDateTime: 2021-09-28T23:40:00Z
+originalUrl: "https://www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
+webUrl: "https://www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
+ampWebUrl: "https://www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
 type: article
 quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - Natural Language Processing
   - AI
   - AI in Education
-
-images:
-  - url: "http://www.daijiworld.in/images3/sq_021320_westline2.jpg"
-    width: 280
-    height: 250
-    isCached: true
 
 related:
   - title: "AI Innovations In Media And Communications"
@@ -113,6 +109,6 @@ related:
         height: 250
         isCached: true
 
-secured: "Kbs2xE9K9nsM5EFf4qJWSMntf+jO3eDilROzzr9HrALHg5JV2YzXAql7v+CF2Z4QACt8b+dw1sfRxIMrb1FCiUg7wbQGki4H2R580zoimWF8FXUhExkki6Ey67OXKUbap0FSVPWfE6uHOp60QYZoscI1TWW6VjU4snBE9V/v7xSjUadYkAYH9keWyAAq1R/sj5TcEo+8ARQNro7Co2TXEzJyCuJcbskz68p4yomcGyYhqVuYTUJg49eHj3qPYuCwOLL2wv+J8vSxyrGp3vFj9YSJbhrSUfHDnNfCnP/Xsx2gjWLlsyUkhiAKAq73YoywiDR/be2yjB2hr6Q+2dfv8EHIdOm9MZjqcF8q9viMD94=;ou3LHtl7/oEYi9ABKiX3SA=="
+secured: "u7Bj6do8ETTzyYWQ/cZPgS9zJn+Rbjymz8zvgGQroL4+NlPa++5tGw74X+j5uW/8Z6yhQ2FRVWduRW8rIdpoNJpxWUlomT3HospBl3kTBliqXIOy7MaD/qd7gooxYOAdi6RYIPfZlAROHmbuyjrwe/xdGmXY8L6Pm7YmdF6sxm54AdK2x2aN+0om4UKTAY+RVtj05k6xIDgxG7jwWiKTmKyYLr0qYB+VDOCwQGmwoUL3h15P9OffF6vuAM/ujcW7ZatrZ2izpCeR+fk7A+jJUt4VxUcNU28ExX2erwGav7VqlJ0H0dKErLGjEo7ZcBNlkSU/gpkp6LOpGytajqQQb4M5hGUfmdZaq4APloM7xkM=;LQMUOT0Irx7jEJZxKJZG4A=="
 ---
 

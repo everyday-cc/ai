@@ -53,6 +53,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "These top AI cities are doing pretty well in the research and development of AI"
+    excerpt: "As we say, data has become wealth today the potential of artificial intelligence is not ignorable under any circumstance. Let’s look at the top AI cities in the world that are doing pretty well to attain advancement in AI."
+    publishedDateTime: 2021-10-02T13:30:00Z
+    webUrl: "https://www.analyticsinsight.net/top-ai-cities-to-know-across-the-globe-in-race-towards-advancement/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 35
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-AI-Cities-to-Know-Across-the-Globe-in-Race-Towards-Advancement.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "gGUigItfAcejT2lWRddeNSfi0Y0ly+lKOSoHWCawjceQ0UYtVtFNTaafL9Cv+FvztFrztIKhYmCIYyJV0WTyFlf9eBsd8/AIRkvjUE/yEGK7ZJEqKxOUcKyTcJ8mz0B1jj9Bs59lx4bW9Rx+h0XUx6GlGlSpVBjoDWCDGTZ9QojkkaOlFl2yO1gWKnpp3Kyagstmo+1EaGVjEGVBLWQALgVOih5cMi0x/Tosa3HwoZ8puyPcIDpL6SmW/GMJerMWlpbv3EWGYC3ZFUqVcLrDabEsR1bGE1CEB7ITI991e82fzK279QK8BeZ2JghOss6NoZT0CyQUVC+9yfOzqPyVdBkM3mj0JQ9PN9QJwRAiXVg=;A0wm6ZvUne+E9aw+HM4mUg=="
 ---
