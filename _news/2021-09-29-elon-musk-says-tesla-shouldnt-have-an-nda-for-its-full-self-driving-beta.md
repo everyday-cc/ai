@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nd
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/amp/"
 type: article
 quality: 188
-heat: 368
+heat: 358
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Tesla uses YouTubers to test self-driving tech on public streets rather than trained safety drivers"
-    excerpt: "Safety experts are outraged Tesla lets would-be influencers test version 10.1 of its Full Self-Driving AI. One YouTuber lurched toward pedestrians when his steering wheel suddenly veered right."
-    publishedDateTime: 2021-09-27T21:42:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10034491/Tesla-uses-YouTubers-test-self-driving-tech-public-streets-trained-safety-drivers.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10034491/amp/Tesla-uses-YouTubers-test-self-driving-tech-public-streets-trained-safety-drivers.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10034491/amp/Tesla-uses-YouTubers-test-self-driving-tech-public-streets-trained-safety-drivers.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 60
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/09/27/21/48467277-0-image-a-4_1632775943927.jpg"
-        width: 636
-        height: 382
         isCached: true
   - title: "Tesla nears launch of test for $10,000 ‘full self-driving’ software"
     excerpt: "A group of Tesla owners who paid up to $10,000 for what the company calls its \"full self-driving\" software can now ask the automaker for access to a test version of the feature. But they&#03"

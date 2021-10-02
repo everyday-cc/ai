@@ -7,7 +7,7 @@ originalUrl: "https://www.hks.harvard.edu/events/kai-fu-lee-future-artificial-in
 webUrl: "https://www.hks.harvard.edu/events/kai-fu-lee-future-artificial-intelligence"
 type: article
 quality: 52
-heat: 75
+heat: 76
 published: true
 
 provider:
