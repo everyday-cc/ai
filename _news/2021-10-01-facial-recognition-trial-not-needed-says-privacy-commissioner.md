@@ -25,49 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Paravision enhances video facial recognition with Streaming Container update"
-    excerpt: "The Paravision Streaming Container is fully modular and is designed to be deployed alongside Paravision’s other cloud-ready, Docker container-based products."
-    publishedDateTime: 2021-09-28T18:02:00Z
-    webUrl: "https://www.biometricupdate.com/202109/paravision-enhances-video-facial-recognition-with-streaming-container-update"
+  - title: "Worried About Facial Recognition? Big Tech Wants Your Anal Prints Too"
+    excerpt: "Privacy concerns related to the implications of facial recognition have been raised several times but you may not have thought much about a very different part of your body being scanned. Sanjiv Gambhir,"
+    publishedDateTime: 2021-09-27T10:16:00Z
+    webUrl: "https://www.thequint.com/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too"
+    ampWebUrl: "https://www.thequint.com/amp/story/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too"
+    cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 51
+      name: The Quint
+      domain: thequint.com
+    quality: 59
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg"
-        width: 2048
-        height: 1366
+      - url: "https://images.thequint.com/thequint%2F2020-02%2F18813c2f-9015-42ff-b4e4-712fc1e86819%2FiStock_1165098319.jpg"
+        width: 745
+        height: 419
         isCached: true
-  - title: "COVID-19: Coming to grips with facial recognition scans part of home isolation experience"
-    excerpt: "Using a location checking app and doing a facial recognition scan were part of a South Australian's daily duties during a home isolation trial. The government is expected to release more details of its pilot home isolation scheme for businesses tomorrow with a long list of companies keen to get onboard."
-    publishedDateTime: 2021-09-28T08:31:00Z
-    webUrl: "https://www.newshub.co.nz/home/new-zealand/2021/09/covid-19-coming-to-grips-with-facial-recognition-scans-part-of-home-isolation-experience.html"
-    ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2021/09/covid-19-coming-to-grips-with-facial-recognition-scans-part-of-home-isolation-experience.amp.html"
-    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2021/09/covid-19-coming-to-grips-with-facial-recognition-scans-part-of-home-isolation-experience.amp.html"
+  - title: "The pandemic is testing the limits of face recognition"
+    excerpt: "Government use of face ID systems exploded during the pandemic—but tying it to critical services has left some people locked out at the moment they needed help the most."
+    publishedDateTime: 2021-09-28T09:40:00Z
+    webUrl: "https://www.technologyreview.com/2021/09/28/1036279/pandemic-unemployment-government-face-recognition/"
+    ampWebUrl: "https://www.technologyreview.com/2021/09/28/1036279/pandemic-unemployment-government-face-recognition/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/09/28/1036279/pandemic-unemployment-government-face-recognition/amp/"
     type: article
     provider:
-      name: Newshub
-      domain: newshub.co.nz
-    quality: 50
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
     images:
-      - url: "https://www.newshub.co.nz/home/politics/2021/09/covid-19-christmas-clash-national-s-tantalising-travel-idea-shot-down-by-jacinda-ardern/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1632807622245/Jacinda-Ardern-Judith-Collins-Newshub-1120.jpg"
-        width: 768
-        height: 438
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/09/face-1.jpg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
-  - title: "Paravision brings edge-to-cloud facial recognition to AI digital ID disruption party"
-    excerpt: "Paravision CMO Joey Pritikin and President and COO Benji Hutchison joined Biometric Update to discuss what the Converge mega-launch means for the industry."
-    publishedDateTime: 2021-09-28T18:02:00Z
-    webUrl: "https://www.biometricupdate.com/202109/paravision-brings-edge-to-cloud-facial-recognition-to-ai-digital-id-disruption-party"
+  - title: "A ‘chief’ recognition: Hailey celebrates top cop"
+    excerpt: "Hailey Mayor Martha Burke, right, set aside a few minutes during Monday’s City Council meeting to honor Hailey Police Chief Steve England, left, for 20 years of service with the"
+    publishedDateTime: 2021-09-28T19:58:00Z
+    webUrl: "https://www.mtexpress.com/wood_river_journal/community/a-chief-recognition-hailey-celebrates-top-cop/article_75f36032-2096-11ec-9acc-f7d7578c27e6.html"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 49
+      name: Idaho Mountain Express
+      domain: mtexpress.com
+    quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://bloximages.chicago2.vip.townnews.com/mtexpress.com/content/tncms/assets/v3/editorial/d/63/d6331b9a-2096-11ec-8eb2-3ff1b6bb0633/615374dd0ad90.image.jpg?resize=865%2C630"
+        width: 865
+        height: 630
         isCached: true
   - title: "Facial recognition trial upsets privacy commissioner"
     excerpt: "Using facial recognition to figure out how long people will wait in a queue is like using a sledgehammer to crack a nut. That's according to the Privacy Commissioner who has serious concerns about the scanning tool being used at Wellington Airport The tool is used to count passengers passing through security and how long they wait in a line."
@@ -83,48 +85,17 @@ related:
         width: 720
         height: 450
         isCached: true
-  - title: "Paravision launches Android facial recognition SDK for custom app development"
-    excerpt: "The SDK functions for face detection, landmark detection, biometric image quality analysis, template creation, and 1:1 facial verification and 1:N face matching"
-    publishedDateTime: 2021-09-28T20:37:00Z
-    webUrl: "https://www.biometricupdate.com/202109/paravision-launches-android-facial-recognition-sdk-for-custom-app-development"
+  - title: "Keystroke tracking, screenshots, and facial recognition: The boss may be watching long after the pandemic ends"
+    excerpt: "Companies are increasingly turning to surveillance software tools as they consider permanent remote work policies. Some workers say remote-work surveillance has gone too far, calling the tracking systems intrusive,"
+    publishedDateTime: 2021-09-28T13:02:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/keystroke-tracking-screenshots-and-facial-recognition-the-boss-may-be-watching-long-after-the-pandemic-ends/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/keystroke-tracking-screenshots-and-facial-recognition-the-boss-may-be-watching-long-after-the-pandemic-ends/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/keystroke-tracking-screenshots-and-facial-recognition-the-boss-may-be-watching-long-after-the-pandemic-ends/?amp=1"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/06/25135841/selfie-for-onboarding-identity-verification.jpg"
-        width: 864
-        height: 554
-        isCached: true
-  - title: "Amid Rapid Adoption, Paravision Unveils New Computer Vision Capabilities, Making Face ..."
-    excerpt: "Paravision, the U.S.-based leader in mission-critical face recognition and computer vision, today announced an array of new and updated products that make face recognition solutions faster, more accurate and secure,"
-    publishedDateTime: 2021-09-28T16:02:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Paying with a glance: Moscow’s latest expansion of facial-recognition tech"
-    excerpt: "Facial-recognition cameras are being rolled out across Moscow's metro system as a way to allow passengers to pay for their fare simply by showing their faces, without the need for a ticket or a transit card."
-    publishedDateTime: 2021-09-27T08:57:00Z
-    webUrl: "https://www.france24.com/en/video/20210927-paying-with-a-glance-moscow-s-latest-expansion-of-facial-recognition-tech"
-    type: article
-    provider:
-      name: France 24
-      domain: france24.com
-    quality: 22
-    images:
-      - url: "https://s.france24.com/media/display/7917ec02-1f6e-11ec-a6f6-005056a90284/w:1280/p:16x9/vignette%20facepay.JPG"
-        width: 1280
-        height: 720
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
 
 secured: "jkG2SxF2f3TWZcpPKmvJAKG6smL/d1YWYwbosZpJFFyTacbgNCWwnDe5ygCJgpQY+m6YFsZ5C0Dk8bgSBLEVJtTBuhtN8VtS71f+pKeavBamClEP3GmsF4hm3BLiUsej1/Zrn+YfCZvcYlVI6989hlS6uQrfzNqHBzte90NELIE5Hp2OVQ/BS4EMuHkooY2zrmzIYE8EtITW3wfuhufXndVVDbWn47JNnCrMJhGxqGSa8u5Lcp14Cyc+AE2vXxOy0+NRaruyK3zO5gc9Jfz7DVr83HICN445x8Tey+eF/ctRZU3Ml4gMiHg6ZaHeXGcflWH8vw1ibmgX3Kg3N5XhJVg+bBhyN2EhpTTlUkk6Xwk=;ZfVU4CEkb8KllTPbajoOyw=="
 ---

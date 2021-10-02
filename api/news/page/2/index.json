@@ -1107,6 +1107,48 @@
       ]
     },
     {
+      "path": "_news/2021-09-30-ai-improves-precision-in-breast-cancer-diagnosis.md",
+      "title": "AI improves precision in breast cancer diagnosis",
+      "excerpt": "Researchers at Karolinska Institutet in Sweden have developed an AI-based tool that improves the diagnosis of breast cancer tumors and the ability to predict the risk of recurrence. The greater diagnostic precision can lead to more personalized treatment for the large group of breast cancer patients with intermediate risk tumors.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-09-ai-precision-breast-cancer-diagnosis.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-09-ai-precision-breast-cancer-diagnosis.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-improves-precision.jpg",
+          "width": 2880,
+          "height": 1546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-09-ai-precision-breast-cancer-diagnosis.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-ai-precision-breast-cancer-diagnosis.amp",
+      "publishedDateTime": "2021-09-30T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-how-will-artificial-intelligence-change-our-living-spaces.md",
       "title": "How Will Artificial Intelligence Change Our Living Spaces?",
       "excerpt": "Even though the concept of BIM has been in development since the 1970s, it only became mainstream in the last two decades.",
@@ -1166,7 +1208,7 @@
       "originalUrl": "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -1206,57 +1248,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-decided-to-adopt-ai-four-questions-to-consider-before-you-start.md",
-      "title": "Decided To Adopt AI? Four Questions To Consider Before You Start",
-      "excerpt": "In order to better understand what pitfalls to expect when adopting AI for business processes and how to avoid them, here are a few key questions whose answers should help you successfully start your AI project: 1.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/decided-to-adopt-ai-four-questions-to-consider-before-you-start/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/decided-to-adopt-ai-four-questions-to-consider-before-you-start/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd90debd34413a75364fdda%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/decided-to-adopt-ai-four-questions-to-consider-before-you-start/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/30/decided-to-adopt-ai-four-questions-to-consider-before-you-start/amp/",
-      "publishedDateTime": "2021-09-30T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

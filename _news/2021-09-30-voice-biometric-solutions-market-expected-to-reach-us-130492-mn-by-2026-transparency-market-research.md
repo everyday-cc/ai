@@ -41,20 +41,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Global Edge AI Hardware Market is Expected to Reach $38.87 Billion By 2030: Says AMR"
-    excerpt: "According to the report published by Allied Market Research, the global edge AI hardware market was estimated at $6.88 billion in 2020 and is expected to hit $38.87 billion by 2030, registering a CAGR of 18."
-    publishedDateTime: 2021-09-27T08:52:00Z
-    webUrl: "https://menafn.com/1102868638/Global-Edge-AI-Hardware-Market-is-Expected-to-Reach-3887-Billion-By-2030-Says-AMR"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 30
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?348760"
-        width: 443
-        height: 250
-        isCached: true
   - title: "AI in Energy and Utilities Market Forecast to Reach $4.5 Billion by 2026"
     excerpt: "Technological Advancement Driving New Applications and Rise of Microgrid Adoption Driving the Growth of AI in Energy and Utilities Market The <st"
     publishedDateTime: 2021-09-27T19:51:00Z

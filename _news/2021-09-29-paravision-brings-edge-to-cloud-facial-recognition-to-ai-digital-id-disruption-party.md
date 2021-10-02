@@ -56,34 +56,6 @@ related:
         width: 768
         height: 438
         isCached: true
-  - title: "Facial recognition trial not needed, says privacy commissioner"
-    excerpt: "Using facial recognition to figure out how long people will wait in a queue is like using a sledgehammer to crack a nut. That's according to the Privacy Commissioner who has serious concerns about the scanning tool being used at Wellington Airport."
-    publishedDateTime: 2021-10-01T01:02:00Z
-    webUrl: "https://www.rnz.co.nz/national/programmes/middayreport/audio/2018814656/facial-recognition-trial-not-needed-says-privacy-commissioner"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 39
-    images:
-      - url: "https://www.rnz.co.nz/assets/news_crops/123200/eight_col_126044392_m.jpg?1621998715"
-        width: 720
-        height: 450
-        isCached: true
-  - title: "Facial recognition trial upsets privacy commissioner"
-    excerpt: "Using facial recognition to figure out how long people will wait in a queue is like using a sledgehammer to crack a nut. That's according to the Privacy Commissioner who has serious concerns about the scanning tool being used at Wellington Airport The tool is used to count passengers passing through security and how long they wait in a line."
-    publishedDateTime: 2021-10-01T00:38:00Z
-    webUrl: "https://www.rnz.co.nz/national/programmes/middayreport/audio/2018814656/facial-recognition-trial-upsets-privacy-commissioner"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 39
-    images:
-      - url: "https://www.rnz.co.nz/assets/news_crops/123200/eight_col_126044392_m.jpg?1621998715"
-        width: 720
-        height: 450
-        isCached: true
   - title: "Paravision launches Android facial recognition SDK for custom app development"
     excerpt: "The SDK functions for face detection, landmark detection, biometric image quality analysis, template creation, and 1:1 facial verification and 1:N face matching"
     publishedDateTime: 2021-09-28T20:37:00Z
@@ -111,20 +83,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Paying with a glance: Moscow’s latest expansion of facial-recognition tech"
-    excerpt: "Facial-recognition cameras are being rolled out across Moscow's metro system as a way to allow passengers to pay for their fare simply by showing their faces, without the need for a ticket or a transit card."
-    publishedDateTime: 2021-09-27T08:57:00Z
-    webUrl: "https://www.france24.com/en/video/20210927-paying-with-a-glance-moscow-s-latest-expansion-of-facial-recognition-tech"
-    type: article
-    provider:
-      name: France 24
-      domain: france24.com
-    quality: 22
-    images:
-      - url: "https://s.france24.com/media/display/7917ec02-1f6e-11ec-a6f6-005056a90284/w:1280/p:16x9/vignette%20facepay.JPG"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "OZmbtPRFrQ/+t3cu6enhSxJUoCUhZp8AgWR+vc6+CJz4wgUDUUVD3MKUb/9XGSh+gGFRL1QrlQ7Sw+0NLfW4Hy3SkOdWxVuBgFGhz4Figi0gopR7/UamtRdBsdhvC7tLWqZWlri0yqD9WfhsTaqMLfSLVG9FqOLLdxf6mGeOEgSkINpHAFW2X+mjK0vqEMUGkYA6eNXOPtydRwfpz4HfMB0OHw1izFsIBbxK+NULDXHneyQ004jEBnjU87wL3jMk+OJKWxFMcw22CldWJzdovK2esXL30xqMoQznIqgFtCRMUISYQaCeDfLA0WeSFY8Rmz7UIbhsgSSXOYo+uf0m26txeiyaS2lxHY1G6YfYJh29BXiTlEu75nKLq2BX5hmN78E1xwoPBWMuPOkm/I3G2BrURPlBN0D9ik/w43Qvah6LkFgoIgRgOZ07c9LH2mGOQI+XZuJM8R7sEyuJYGMjvagG8yk47d2XwH2UEhDCxlSQjHAVsfkeZaRGMVng2I4JV8njKMeqqoMfua3vEZEHYA==;/FUbSmK3W9DRif/acB6Qag=="

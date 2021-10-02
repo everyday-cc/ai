@@ -66,15 +66,6 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 32
-  - title: "FINTECH attracts senior talents as investment ramps up in Asian Trade Finance centre"
-    excerpt: "Leading hyper growth FINTECH in trade and supply chain finance #dltledgers has appointed Sanjeev Chatrath as their new Chief Revenue Officer"
-    publishedDateTime: 2021-09-27T07:17:00Z
-    webUrl: "https://www.shippingandfreightresource.com/fintech-attracts-senior-talents-as-investment-ramps-up-in-asian-trade-finance-centre/"
-    type: article
-    provider:
-      name: shippingandfreightresource.com
-      domain: shippingandfreightresource.com
-    quality: 12
 
 secured: "IKYIsw4cO93siVktOaEquG+LpgaHSh0jVY0/auoIqPBu8Hu/yZxI0QgtvQ1wjoUqyNc8jEMuUCFbHkAk31jZL6hXqK+2jTPUkX05Ax9oBKApu/QRuxAU6ZI+t388z3XJIlRIKwxeKkMs7yfHg70v1haQrkUbLuVT5IqbG2pNqCWgPKowJRt01WswECMmMYMJ2Ob5OCn7jvv3hWYPvs4aWvBiN0u0f25TobXkHBQPXgTSbcJ1pmVAW+2rrOvH/Rl2ySo0t4UdGtshfsrqnfrOnHk8H0IjPQg0qh1WtWJYSrGV3CTy9OyCUcXO1c4D1hC+1DxG+ZloQF1I21sMgbFz8E9jLyxwwF7dAM33BEnR4a8=;TUKDYX4an3Mb6TGz+dloCw=="
 ---

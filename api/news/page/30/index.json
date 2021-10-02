@@ -2,6 +2,102 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-09-08-indian-german-scientific-experts-discuss-artificial-intelligence-and-its-implementation.md",
+      "title": "Indian, German Scientific Experts Discuss Artificial Intelligence And Its Implementation",
+      "excerpt": "Indian and German scientific experts discussed five selected thematic areas of mutual interest related to artificial intelligence (AI) and its implementation at a joint virtual workshop, the Department of Science and Technology said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.republicworld.com/india-news/general-news/indian-german-scientific-experts-discuss-artificial-intelligence-and-its-implementation.html",
+      "originalUrl": "https://www.republicworld.com/india-news/general-news/indian-german-scientific-experts-discuss-artificial-intelligence-and-its-implementation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/m5ybyh3tm6gfplbj_1618399351.jpeg",
+          "width": 768,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.republicworld.com/amp/india-news/general-news/indian-german-scientific-experts-discuss-artificial-intelligence-and-its-implementation.html",
+      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/indian-german-scientific-experts-discuss-artificial-intelligence-and-its-implementation.html",
+      "publishedDateTime": "2021-09-07T18:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RepublicWorld",
+        "domain": "republicworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-googles-latest-object-recognition-tech-can-spot-everything-in-your-living-room.md",
+      "title": "Google's latest object recognition tech can spot everything in your living room",
+      "excerpt": "Automatic object recognition in images is currently tricky. Even if a computer has the help of smart algorithms and human assistants, it may not catch everything in a given scene. Google might ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2014-09-08-google-details-object-recognition-tech.html",
+      "originalUrl": "https://www.engadget.com/2014-09-08-google-details-object-recognition-tech.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/wEY2No26Zhf_rg4_wNhEFg--~B/aD0yNjY7dz02MzA7YXBwaWQ9eXRhY2h5b24-/https://o.aolcdn.com/hss/storage/midas/cb433fb6c234b014394ad56714ceee8b/200707597/google-image-recognition-tech.jpg",
+          "width": 630,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-six-masters-two-phd-scholarships-available-at-su-courtesy-of-deepmind.md",
       "title": "Six Masters, two PhD scholarships available at SU courtesy of DeepMind",
       "excerpt": "The DeepMind scholarship programme gives talented students from groups currently underrepresented in machine learning, including women, the support they need to study at leading universities.",
@@ -1085,101 +1181,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-everything-ai-and-robotics-at-techcrunch-disrupt-2021.md",
-      "title": "Everything AI and robotics at TechCrunch Disrupt 2021",
-      "excerpt": "AI is everywhere in tech, and you can bet it will be a vital topic at TechCrunch Disrupt 2021 on 21-23. It’s the driving force behind just about everything from rockets, robotics and customer service to deep science and autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/07/everything-ai-and-robotics-at-techcrunch-disrupt-2021/",
-      "originalUrl": "https://techcrunch.com/2021/09/07/everything-ai-and-robotics-at-techcrunch-disrupt-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Disrupt-Robotics.png?w=1024",
-          "width": 1024,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/07/everything-ai-and-robotics-at-techcrunch-disrupt-2021/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/07/everything-ai-and-robotics-at-techcrunch-disrupt-2021/amp/",
-      "publishedDateTime": "2021-09-07T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-collaboration-overload-is-sinking-productivity.md",
-      "title": "Collaboration Overload Is Sinking Productivity",
-      "excerpt": "And, on a more dubious front, one global services organization implemented ... the inefficiencies and subsequent cognitive switching costs of always-on cultures and 2) the personal motivations ...",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2021/09/collaboration-overload-is-sinking-productivity",
-      "originalUrl": "https://hbr.org/2021/09/collaboration-overload-is-sinking-productivity",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2021/08/Sep21_07_175502607.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2021/09/collaboration-overload-is-sinking-productivity",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/collaboration-overload-is-sinking-productivity",
-      "publishedDateTime": "2021-09-07T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

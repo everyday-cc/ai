@@ -86,6 +86,22 @@ related:
         width: 716
         height: 395
         isCached: true
+  - title: "Beethoven's 10th symphony is finished 194 years after his death - by artificial intelligence that used just 250 surviving bars of notes"
+    excerpt: "Beethoven's 10th symphony has been completed 194 years after his death by a computer that recreated two movements running to 40 minutes in length."
+    publishedDateTime: 2021-10-01T23:57:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-10051295/Beethovens-10th-symphony-finished-194-years-death-artificial-intelligence.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-10051295/amp/Beethovens-10th-symphony-finished-194-years-death-artificial-intelligence.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10051295/amp/Beethovens-10th-symphony-finished-194-years-death-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 25
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/10/02/00/48661433-0-image-a-109_1633132521169.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "j8HxNc9TAqdbLCT/nE9YxJoSXnwaUqAAXFQh/MwYJhjhJu5EvZtE+5U/VB/pAYK+JcEov+7Xlg/ryx/B7P/g8Bz/8sdoYYBm3sg1F1STpUgwRpXDspxIn1qqwdrA/18Xrb9bbAWQpR3Ip/ogWUFpn7G2YDhu9ZYalVkKw1QOCXyq1tTQPwG2DRgPe1cWg+oZo+qQsUgKPWygenzXXH95ZCvfsM1eEybwTA9WVY1alFbaSffFmLTRulywdVv6ObD7ZMslgxeOhoxBqBxYwsV/Oy0OoyQrsJ2Rs367MZbz2EkL9fRHi7dTUeUmzc0LEoHGx1ekGKoUn2FB8AcKORhxeowpVqN1yC6+ayh++n29j0kwD/8Guk5OK1ZAukmtZwP+kZnQENXeUf4ZmUD2WEBNubQxrxdiqmeFDtJpuUjcIrk4OdMWb3XpYMMW4liM6fVm5nSZQLBinO2vhc8Vo1Q9uaswTwDGQsHFGdTTqoU55JhLLZm5IO/bLoRmjxHZFAz08o+m/CVRQLXxQzkz0Od5lg==;b+Tw51DwNr3ZQxFEwBMwmQ=="
 ---

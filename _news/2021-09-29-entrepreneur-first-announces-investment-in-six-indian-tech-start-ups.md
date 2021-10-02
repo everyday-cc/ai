@@ -65,15 +65,6 @@ related:
         width: 685
         height: 336
         isCached: true
-  - title: "FINTECH attracts senior talents as investment ramps up in Asian Trade Finance centre"
-    excerpt: "Leading hyper growth FINTECH in trade and supply chain finance #dltledgers has appointed Sanjeev Chatrath as their new Chief Revenue Officer"
-    publishedDateTime: 2021-09-27T07:17:00Z
-    webUrl: "https://www.shippingandfreightresource.com/fintech-attracts-senior-talents-as-investment-ramps-up-in-asian-trade-finance-centre/"
-    type: article
-    provider:
-      name: shippingandfreightresource.com
-      domain: shippingandfreightresource.com
-    quality: 12
 
 secured: "B4siJM6BttGvJAauz2loFapAjzdciplEHdLPZZ+/OcI5HxV01QTJ2GBzBU0XeijC2re3GKF5dFyYUkfmFx9Dr3Vd3M5whGgXTEHNO6OT0AY2EoPUpgf+RrPKBcUdoHF5lMx/PGcdk4zxhkvz3pmNTrEijrjFfbZGfE3QQnmtcE1KlUouOepGzFcgYBJFILToAgasXO7Embe4PCXsdk+KfVhHKUUcew224iF3X44ax0eUf8kTlesFuDyKH7HozRC1eYWpRr1c3AQF/bkQh+PLjSrbJPB71onc7l59x6+AJ0ECJivgEDTw9hYXLylxe/K7YC9LKxXK3eGKl1VU+hvQg55EoaetVjvTakC906jCyC4=;NH3ytLGltxNDtlA/MmsO7Q=="
 ---

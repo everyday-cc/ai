@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-09-28-facial-recognition-contractor-clearview-ai-withdraws-subpoenas-served-on-nonprofit.md",
+      "title": "Facial recognition contractor Clearview AI withdraws subpoenas served on nonprofit",
+      "excerpt": "A technology company that provides facial recognition technology to at least four government agencies has withdrawn subpoenas it served on a nonprofit. Clearview AI this morning announced that it would not pursue the court orders,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fedscoop.com/facial-recognition-contractor-clearview-ai-withdraws-subpoenas-served-on-nonprofit/",
+      "originalUrl": "https://www.fedscoop.com/facial-recognition-contractor-clearview-ai-withdraws-subpoenas-served-on-nonprofit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png",
+          "width": 629,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-ounass-increases-its-revenue-using-amazon-sagemaker-with-a-word2vec-based-recommender-system.md",
       "title": "Ounass increases its revenue using Amazon SageMaker with a Word2vec based recommender system",
       "excerpt": "Based in Dubai, Ounass is the Middle East’s leading ecommerce platform for luxury goods. Scouring the globe for leading trends, Ounass’s expert team reports on the latest fashion updates, coveted insider information, and exclusive interviews for customers to read and shop. With more than 230,000 unique",
@@ -749,6 +792,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-27-worried-about-facial-recognition-big-tech-wants-your-anal-prints-too.md",
+      "title": "Worried About Facial Recognition? Big Tech Wants Your Anal Prints Too",
+      "excerpt": "Privacy concerns related to the implications of facial recognition have been raised several times but you may not have thought much about a very different part of your body being scanned. Sanjiv Gambhir,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thequint.com/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too",
+      "originalUrl": "https://www.thequint.com/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thequint.com/thequint%2F2020-02%2F18813c2f-9015-42ff-b4e4-712fc1e86819%2FiStock_1165098319.jpg",
+          "width": 745,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thequint.com/amp/story/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too",
+      "cdnAmpWebUrl": "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too",
+      "publishedDateTime": "2021-09-27T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Quint",
+        "domain": "thequint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-ai-navigation-startup-phiar-lands-ex-google-manager-funding-from-telenav.md",
       "title": "AI navigation startup Phiar lands ex-Google manager, funding from Telenav",
       "excerpt": "Phiar, a startup aiming to enhance in-car navigation systems by overlaying directions on real-time video, announced on Monday that Google's head of Android automotive platforms joined as chief executive and State Farm Ventures led a $12 million funding round.",
@@ -790,7 +876,7 @@
       "originalUrl": "https://www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1107,100 +1193,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-vendor-management-is-the-new-customer-management-and-ai-is-transforming-the-sector-already.md",
-      "title": "Vendor Management Is The New Customer Management, And AI Is Transforming The Sector Already",
-      "excerpt": "Sourcing and vendor management are more complex than ever, as companies move into emerging fields and leverage third-party suppliers to provide what cannot be internally produced. Vendors play long-term and essential roles in businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/09/26/vendor-management-is-the-new-customer-management-and-ai-is-transforming-the-sector-already/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/09/26/vendor-management-is-the-new-customer-management-and-ai-is-transforming-the-sector-already/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6151081fe5f90b68e8c672ff%2F0x0.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/09/26/vendor-management-is-the-new-customer-management-and-ai-is-transforming-the-sector-already/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/26/vendor-management-is-the-new-customer-management-and-ai-is-transforming-the-sector-already/amp/",
-      "publishedDateTime": "2021-09-26T16:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-26-bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide.md",
-      "title": "Bennett to urge action on Iran in UN speech, won’t focus on Palestinians — aide",
-      "excerpt": "PM will warn at UN that world at a ‘critical stage in the Iranian nuclear program’; adviser says Israel’s ties with world ‘multi-faceted,’ mustn’t be defined by Palestinian issue",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide/",
-      "originalUrl": "https://www.timesofisrael.com/bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2021/09/F210912OF03-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide/amp/",
-      "publishedDateTime": "2021-09-26T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

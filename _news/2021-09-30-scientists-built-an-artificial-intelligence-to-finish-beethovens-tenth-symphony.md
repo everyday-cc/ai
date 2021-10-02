@@ -72,6 +72,22 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Beethoven's 10th symphony is finished 194 years after his death - by artificial intelligence that used just 250 surviving bars of notes"
+    excerpt: "Beethoven's 10th symphony has been completed 194 years after his death by a computer that recreated two movements running to 40 minutes in length."
+    publishedDateTime: 2021-10-01T23:57:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-10051295/Beethovens-10th-symphony-finished-194-years-death-artificial-intelligence.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-10051295/amp/Beethovens-10th-symphony-finished-194-years-death-artificial-intelligence.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10051295/amp/Beethovens-10th-symphony-finished-194-years-death-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 25
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/10/02/00/48661433-0-image-a-109_1633132521169.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Beethoven’s Unfinished Tenth Symphony Gets Completed by Artificial Intelligence: Hear How It Sounds"
     excerpt: "Few symphonies are as well-known as Beethoven's Ninth, an assertion supported by the fact that it's no doubt playing in your head even as you read this."
     publishedDateTime: 2021-09-27T11:00:00Z

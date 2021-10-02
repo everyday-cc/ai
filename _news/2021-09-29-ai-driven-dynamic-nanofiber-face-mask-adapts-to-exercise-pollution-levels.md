@@ -82,6 +82,20 @@ related:
         width: 1804
         height: 2160
         isCached: true
+  - title: "AI-driven Face Mask Adapts to Exercise, Pollution Levels"
+    excerpt: "Researchers have tracked flies’ ability to interpret information while asleep, showing which parts of the brain remain"
+    publishedDateTime: 2021-10-01T00:00:00Z
+    webUrl: "https://www.laboratoryequipment.com/579723-AI-driven-Face-Mask-Adapts-to-Exercise-Pollution-Levels/"
+    type: article
+    provider:
+      name: Laboratory Equipment
+      domain: laboratoryequipment.com
+    quality: 39
+    images:
+      - url: "https://media.laboratoryequipment.com/m/52/article/579723.jpg"
+        width: 400
+        height: 301
+        isCached: true
 
 secured: "/whxAifGVyKwSa00HbCmmmZboo1pFZacG+lK983WSNuOab8OJ/HhcEXwXdKeOaewobAUlJHShX4Y1MuWGQnbhcVj1El3dw63q4esERuAFWcSlFwiVy2mcsvOKMePxUE+h5hXdY8d8grurpf5lvliNPDMZRALBlANIxzmghu9bnrlaamT8zEW9STIqSjumHOjYbzOs671IRVNvMcvfaJZerbUmwMQAuKBj/IqT45A/yURiiVWpMU83Xl6zaOBDnVjMZi6JEvJN57EI3BgxsWlvlQ1/EnP6kp6nUPD1CdxbW59erNiLUk/F4qMOZxYKhoLbSZvDfcJRbhJwpnUdf5+znzxi1lm+wgtyReWy0a0e0k=;fVzQsZAWU4zjwZizYZDw1w=="
 ---

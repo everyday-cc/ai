@@ -56,20 +56,6 @@ related:
         width: 504
         height: 315
         isCached: true
-  - title: "Trends in Artificial Intelligence (AI) in Cybersecurity"
-    excerpt: "These 5 trends in artificial intelligence (AI) in cybersecurity underscore the overall shift toward AI applications across many fields:"
-    publishedDateTime: 2021-09-27T07:12:00Z
-    webUrl: "https://www.datamation.com/security/artificial-intelligence-ai-in-cybersecurity-trends/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 52
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intellgence-4-scaled.jpeg"
-        width: 2560
-        height: 1493
-        isCached: true
   - title: "UK-based Startup Robo Shadow Launches Free Cyber Security Platform"
     excerpt: "UK based Cyber Security start-up, Robo Shadow, have launched their initial product set as they attempt to take on the big guns in Cyber Security."
     publishedDateTime: 2021-09-30T01:35:00Z

@@ -52,22 +52,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Blockchain, AI among fastest growing startup sub-sectors globally: report"
-    excerpt: "Other sectors like cybersecurity, edtech, cleantech, and gaming are maturing at significant rates, seeing a collective growth of 33% in Series A funding and 3% exits over the past five years."
-    publishedDateTime: 2021-09-27T07:15:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/blockchain-ai-among-fastest-growing-startup-sub-sectors-globally/article36690477.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/blockchain-ai-among-fastest-growing-startup-sub-sectors-globally/article36690477.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/blockchain-ai-among-fastest-growing-startup-sub-sectors-globally/article36690477.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 60
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/3vuxxj/article36690603.ece/ALTERNATES/LANDSCAPE_615/robot-reutersjpg"
-        width: 615
-        height: 384
-        isCached: true
 
 secured: "eqSNGf3XUJ4RRxAX2eK6k96kn7abgx6hODryrR8KR0dFkzVQXxj5gXex3GT7CfdBuM8CJtmymg1Rg8LVNtyegQXcRzLS9aiQzBgeJAoISexfuHtvvUQnAoJF/6+OLhHRerO/2F+QkSElfUq+ZfM5BQH+ZdMSgNoeHoovqV/hykgXvgEs3/5zpXKG2wHaVwsPkyM1uY0/dejbaYpMxAUKgyxZwpdL83M59j8lnRg+SuS0SKGMCIGI7W7uyIMU3PCKmRY9VE0AHepWz5xMoECnL9iDL8QMYAtX+w4ecFmwp8FLw3sMzrtDKagZP83v/GfJs6qVY6akTFlRr6UaNgocfHSEKHWTCFO/htP7Bhzwt3k=;+wJW2dwReedPQR89iVny/w=="
 ---

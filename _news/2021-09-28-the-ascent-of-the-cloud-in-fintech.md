@@ -124,20 +124,6 @@ related:
         width: 920
         height: 482
         isCached: true
-  - title: "The future of payroll is FinTech"
-    excerpt: "The CloudPay NOW app provides easily accessible financial wellbeing tools and information for use while financial decisions are being made."
-    publishedDateTime: 2021-09-27T07:44:00Z
-    webUrl: "https://business-reporter.co.uk/2021/09/27/the-future-of-payroll-is-fintech/"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 24
-    images:
-      - url: "https://businessreporter-197a1.kxcdn.com/wp-content/uploads/2021/09/CloudPay-header-image.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Coin, a FinTech startup launches Coin Wallet"
     excerpt: "Coin, a US-based FinTech start-up founded by Microsoft alumni ... Coin Wallet is an all-in-one decentralized cryptocurrency exchange, wallet, and AI assistant. Coin Wallet is non-custodial, resides in a browser extension, and includes an integrated ..."
     publishedDateTime: 2021-09-28T05:31:00Z

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Edge AI Hardware Market is Expected to Reach $38.87 Billion By 2030: Says AMR"
-    excerpt: "According to the report published by Allied Market Research, the global edge AI hardware market was estimated at $6.88 billion in 2020 and is expected to hit $38.87 billion by 2030, registering a CAGR of 18."
-    publishedDateTime: 2021-09-27T08:52:00Z
-    webUrl: "https://menafn.com/1102868638/Global-Edge-AI-Hardware-Market-is-Expected-to-Reach-3887-Billion-By-2030-Says-AMR"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 30
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?348760"
-        width: 443
-        height: 250
-        isCached: true
   - title: "Voice Biometric Solutions Market Expected To Reach US$ 13,049.2 Mn By 2026: Transparency Market Research"
     excerpt: "According to a new market report published by Transparency Market Research, the global voice biometric solution market is expected to reach a value of US$ 13,049.2 Mn by 2026 on account of growing adoption of voice biometric solutions and biometric technology across various industries."
     publishedDateTime: 2021-09-30T05:14:00Z

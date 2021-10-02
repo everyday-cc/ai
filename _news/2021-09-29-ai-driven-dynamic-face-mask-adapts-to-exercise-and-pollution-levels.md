@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/ai-driven-dynamic-face-mask-adapts-to-exerc
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/ai-driven-dynamic-face-mask-adapts-to-exercise-and-pollution-levels/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       - url: "https://techbooky.com/wp-content/uploads/2021/09/AI-Driven-Dynamic-Face-Mask.jpg"
         width: 1804
         height: 2160
+        isCached: true
+  - title: "AI-driven Face Mask Adapts to Exercise, Pollution Levels"
+    excerpt: "Researchers have tracked flies’ ability to interpret information while asleep, showing which parts of the brain remain"
+    publishedDateTime: 2021-10-01T00:00:00Z
+    webUrl: "https://www.laboratoryequipment.com/579723-AI-driven-Face-Mask-Adapts-to-Exercise-Pollution-Levels/"
+    type: article
+    provider:
+      name: Laboratory Equipment
+      domain: laboratoryequipment.com
+    quality: 39
+    images:
+      - url: "https://media.laboratoryequipment.com/m/52/article/579723.jpg"
+        width: 400
+        height: 301
         isCached: true
   - title: "AI-driven dynamic nanofiber face mask adapts to exercise, pollution levels"
     excerpt: "Reseaerchers have developed a dynamic respirator that modulates its pore size in response to changing conditions, such as exercise or air pollution levels, allowing the wearer to breathe easier when the highest levels of filtration are not required."

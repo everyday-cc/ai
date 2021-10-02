@@ -138,20 +138,6 @@ related:
         width: 920
         height: 482
         isCached: true
-  - title: "The future of payroll is FinTech"
-    excerpt: "The CloudPay NOW app provides easily accessible financial wellbeing tools and information for use while financial decisions are being made."
-    publishedDateTime: 2021-09-27T07:44:00Z
-    webUrl: "https://business-reporter.co.uk/2021/09/27/the-future-of-payroll-is-fintech/"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 24
-    images:
-      - url: "https://businessreporter-197a1.kxcdn.com/wp-content/uploads/2021/09/CloudPay-header-image.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI in Fintech Market Report 2020 Market Size by Key Players, Types, Applications, Countries, Forecast by 2027"
     excerpt: "AI in fintech market is expected to reach USD 9125 4 million by 2027 witnessing market growth at a rate of 65 7 in the forecast period of 2020 to 2027 The market has witness significant growth in the years"
     publishedDateTime: 2021-09-29T14:35:00Z

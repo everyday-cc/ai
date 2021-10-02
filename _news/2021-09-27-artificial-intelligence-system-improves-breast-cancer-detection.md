@@ -7,7 +7,7 @@ originalUrl: "https://www.genengnews.com/news/artificial-intelligence-system-imp
 webUrl: "https://www.genengnews.com/news/artificial-intelligence-system-improves-breast-cancer-detection/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "AI tool increases radiologists’ accuracy at spotting breast cancer on ultrasound scans by 37%"
-    excerpt: "An artificial intelligence tool is helping increase radiologists’ ability to correctly spot breast cancer on ultrasound by 37% while also dropping the number of biopsies and false positives. Researchers hope AI can alleviate these concerns while broadening access."
-    publishedDateTime: 2021-09-28T06:04:00Z
-    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/artificial-intelligence-ai-nyu-langone-breast-cancer"
+  - title: "AI improves precision in breast cancer diagnosis"
+    excerpt: "Researchers at Karolinska Institutet in Sweden have developed an AI-based tool that improves the diagnosis of breast cancer tumors and the ability to predict the risk of recurrence. The greater diagnostic precision can lead to more personalized treatment for the large group of breast cancer patients with intermediate risk tumors."
+    publishedDateTime: 2021-09-30T13:03:00Z
+    webUrl: "https://medicalxpress.com/news/2021-09-ai-precision-breast-cancer-diagnosis.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-09-ai-precision-breast-cancer-diagnosis.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-ai-precision-breast-cancer-diagnosis.amp"
     type: article
     provider:
-      name: Radiology Business
-      domain: radiologybusiness.com
-    quality: 26
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
     images:
-      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2021-03/istock-695955360.jpg?h=9d96f97f&itok=LObO_P6U"
-        width: 1200
-        height: 630
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-improves-precision.jpg"
+        width: 2880
+        height: 1546
+        isCached: true
+  - title: "Breast cancer: Artificial intelligence boosts accuracy of tumour diagnoses"
+    excerpt: "Each year around two million women around the world are diagnosed with breast cancer. Typically, tissue samples of the tumour are taken and analysed and then the cancer is placed into one of three categories – low risk,"
+    publishedDateTime: 2021-09-29T23:05:00Z
+    webUrl: "https://www.sciencefocus.com/news/breast-cancer-artificial-intelligence-boosts-accuracy-of-tumour-diagnoses/"
+    ampWebUrl: "https://www.sciencefocus.com/news/breast-cancer-artificial-intelligence-boosts-accuracy-of-tumour-diagnoses/amp/"
+    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/breast-cancer-artificial-intelligence-boosts-accuracy-of-tumour-diagnoses/amp/"
+    type: article
+    provider:
+      name: BBC Focus
+      domain: sciencefocus.com
+    quality: 57
+    images:
+      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/09/GettyImages-1128870494-5b9c18f.jpg?quality=90&crop=4px,0px,1192px,513px&resize=960,413"
+        width: 960
+        height: 413
         isCached: true
 
 secured: "nHEV0Vyze77IX087zPgXBe7qm7Jn65BLl6TOGX22kuIbi/F9S/w0zasi1yHbKRGdgTfwN8gow4andK25Pvu5FuRgXe99FuC4BpKDwt5lq0pcK6FfvSzzEcGbPNPSbuc67CF0cuLxQ/MXSe2frloh1VS1iF4hiNgB93/udtpW5F7EaZrUWS9VyCcm84uJEuUS7GOf6Th6PJjoEbRygFFOzNYw5yr3QLjp19VFC5APSXlq1BMosCbCETpmvHgKeIMy7xlIDRJUDzfhNqWRgkxFOlMxUFpeieOaCO2G52yAgsHCJ7SGnEcGBHksKOB+AlIZAr/6dYizhbfqD3Kj1YbZ+/PLwkQfkaVpwfnu0DhD0e4=;pZlShoMzxXmuKlQt07hZRg=="

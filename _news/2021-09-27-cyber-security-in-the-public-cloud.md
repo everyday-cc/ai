@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3634111/cyber-security-in-the-publ
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.amp.html"
 type: article
 quality: 91
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/aws_microsoft_google_updated_2.jpg"
         width: 504
         height: 315
-        isCached: true
-  - title: "Trends in Artificial Intelligence (AI) in Cybersecurity"
-    excerpt: "These 5 trends in artificial intelligence (AI) in cybersecurity underscore the overall shift toward AI applications across many fields:"
-    publishedDateTime: 2021-09-27T07:12:00Z
-    webUrl: "https://www.datamation.com/security/artificial-intelligence-ai-in-cybersecurity-trends/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 52
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intellgence-4-scaled.jpeg"
-        width: 2560
-        height: 1493
         isCached: true
   - title: "Artificial Intelligence-based Cybersecurity Market By Advanced Technology, Demand, Growth, Opportunity"
     excerpt: "Artificial intelligence has been advancing by leaps and bounds in recent years. Artificial intelligence-based cybersecurity can be defined as the integration of AI technology to streamline complex processes of cybersecurity to make the system more secure,"
