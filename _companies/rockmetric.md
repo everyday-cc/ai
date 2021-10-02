@@ -2,7 +2,7 @@
 name: "Rockmetric"
 overview: "Rockmetric is a 'Cognitive Data Analyst'​ that automates analysis and insights with a Google-like 'Natural Language Search'​ interface. Large enterprises can deliver sophisticated analysis and adhoc queries at scale instantly without having to expand reporting and analytics teams."
 type: "profile"
-heat: 57
+heat: 41
 
 website: https://www.rockmetric.com/
 
@@ -37,6 +37,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=OZ7_tIGZXus"
 
-secured: "iEqo3F1jha2L04fD4Cj3KF+is7HKzTGmkQwOXjcoS/56pgJwvQGQlOIJSM5+WX3ET9XMziDrKOYZJ3/O2mEiVG98+jwYUa83fVWKm6fqlbxWZOw7htwaSBEy2uZVLgiiS0e5PnL7YGwzkq12Uz1tmup0EANvyswSOoEkPB2oN36zHsF5MBJhO/irVwdmy3iXNM8LHoSBOE1sXRFaKPT70LVxXWYLE3QEc2UOgXVQPm+Z1TjH6fhnWt8VtiKLKVHvAtDKgVK6Zse0qwbZuTGqSIvAlqVD1v70J6aITcN6lgTKjbaY+H7iTBLFK0MV8ddVzd/LyCERCLwIv9wk3+A6ihXuC1IRB5vXK4VwnjdWj1T/zboScMCqyYWf1SmBFtQFzbSvaplMX5Ml0E7VCKVOJw==;Rz/5go400lr0Iei05Dr4xA=="
+secured: "O5e/VpQkPlDN65GiyrW6VNEWXpIrVkpGHFTJPp6a6NYY9P8Hbw3EDb5vEJIygeDf95+r+oN4BQY7mb+ip/rdD86xHqGkRIjyb7jCHPppNZA24Ftp14qIk6W6+AkKFTzkSLpXXDlZqt8kR8yaqYvCw3tf1V1+nxNXtjvm5KuNT+2fQ7i2Qg+i6fxSJ3pak9lfb93ovoCWwj+Joe1ri51chwDZgASoI9SFZDLKfQdkL0pUwUFub8UQDRcimJbbckOT2QwTBpIOQVrSGS8CKCcjaC7+nfnMd55YbntrppRhBkGA0Y1rPwK+vyEzN0pe1Hw0fyHz9r4a1EFOd47KHsT8zntoz+sjKthpznLZ7qvRzEE0MlZ2HtR1er94E3ZioStKqsQfHIRFMkY2dNTddGxxdw==;f2Oxrrw4zO0zOte6VOo+ZA=="
 ---
 
