@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AWS adds new features to Amazon Connect"
-    excerpt: "Amazon Web Services (AWS) has announced three new capabilities for its omnichannel cloud contact center Amazon Connect. Powered by artificial intelligence (AI) and machine learning (ML), Amazon Connect simplifies automated interactions,"
-    publishedDateTime: 2021-09-27T12:58:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361022/aws-adds-new-features-to-amazon-connect"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 49
   - title: "AWS Shares New Business Momentum Milestones and Announces Three New Capabilities for Amazon Connect"
     excerpt: "Today at Enterprise Connect, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), shared new business momentum milestones and announced three new capabilities for Amazon Connect that improve contact center agent productivity and provide superior service by making customer interactions more effective,"
     publishedDateTime: 2021-09-27T20:02:00Z

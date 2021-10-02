@@ -1,31 +1,26 @@
 ---
 category: news
-title: "Artificial Intelligence company EAIGLE rolls out a new proof of vaccination platform to give U.S. organizations greater health and safety protection"
-excerpt: "PRNewswire/ - Artificial Intelligence (AI) company EAIGLE Inc., specializing in COVID-19 solution technologies, has"
-publishedDateTime: 2021-09-28T13:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-company-eaigle-rolls-out-a-new-proof-of-vaccination-platform-to-give-u-s-organizations-greater-health-and-safety-protection-1030827609"
-webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-company-eaigle-rolls-out-a-new-proof-of-vaccination-platform-to-give-u-s-organizations-greater-health-and-safety-protection-1030827609"
+title: "Kai-Fu Lee — The Future of Artificial Intelligence"
+excerpt: "The extraordinary opportunities—and challenges—presented by artificial intelligence are at the heart of Kai-Fu Lee's new book, AI 2041: Ten Visions for Our Future, a \"scientific fiction\" that sketches 10 possible AI-driven futures that are within the realm of the scientifically possible."
+publishedDateTime: 2021-10-02T05:47:00Z
+originalUrl: "https://www.hks.harvard.edu/events/kai-fu-lee-future-artificial-intelligence"
+webUrl: "https://www.hks.harvard.edu/events/kai-fu-lee-future-artificial-intelligence"
 type: article
-quality: 45
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Harvard Medical School
+  domain: harvard.edu
 
 topics:
   - AI
-  - AI in Healthcare
 
 images:
-  - url: "https://mma.prnewswire.com/media/1636849/EAIGLE_Artificial_Intelligence_company_EAIGLE_rolls_out_a_new_pr.jpg"
-    width: 400
-    height: 267
+  - url: "https://www.hks.harvard.edu/sites/default/files/about_us/Twitter-Card.png"
+    width: 840
+    height: 450
     isCached: true
 
 related:
@@ -61,19 +56,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Kai-Fu Lee — The Future of Artificial Intelligence"
-    excerpt: "The extraordinary opportunities—and challenges—presented by artificial intelligence are at the heart of Kai-Fu Lee's new book, AI 2041: Ten Visions for Our Future, a \"scientific fiction\" that sketches 10 possible AI-driven futures that are within the realm of the scientifically possible."
-    publishedDateTime: 2021-10-02T05:47:00Z
-    webUrl: "https://www.hks.harvard.edu/events/kai-fu-lee-future-artificial-intelligence"
+  - title: "Artificial Intelligence company EAIGLE rolls out a new proof of vaccination platform to give U.S. organizations greater health and safety protection"
+    excerpt: "PRNewswire/ - Artificial Intelligence (AI) company EAIGLE Inc., specializing in COVID-19 solution technologies, has"
+    publishedDateTime: 2021-09-28T13:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-company-eaigle-rolls-out-a-new-proof-of-vaccination-platform-to-give-u-s-organizations-greater-health-and-safety-protection-1030827609"
     type: article
     provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 52
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
     images:
-      - url: "https://www.hks.harvard.edu/sites/default/files/about_us/Twitter-Card.png"
-        width: 840
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1636849/EAIGLE_Artificial_Intelligence_company_EAIGLE_rolls_out_a_new_pr.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "The Human Costs of AI"
     excerpt: "In 2015 a cohort of well-known scientists and entrepreneurs including Stephen Hawking, Elon Musk, and Steve Wozniak issued a public letter urging"
@@ -104,6 +99,6 @@ related:
         height: 682
         isCached: true
 
-secured: "SHMamLNeuaVwNuSacQPO/IzRCGpZfut7sIMWvmrBzKOD50/prr4n7QK2IlCtNTmRfF088fZrqHtoGU6O65+IU859LV6LkgT7RkE0RMseVBbTALC0jFG34yabzZLQkrFq3EqshEWHEOkiSsNaPMgynYxAmBYKudjuyBoCKIsUtzGVOImn1z5k0P3bNuBns8Ro6op6049onarBHU+z3aJZVxF6EGqOiu5d4oX+CeY43RJbqtg2E7AbfpaxIukSsyVgaqLtv52sqYZY0/ZZXXnrITCiXfA/ZZ3WqCMAw+biw5qMpJDS5qV8suvRLzyRGOWOKJnKwzHKodMC7JQ5jVUFE1C2aR5A7HDxgsn5WJb4aBElyQQ8SwwpEEMM6TtBJ1kgi+l8IOUmUnx20hxIJBZFnrAgv2wCEw3e2d6awD/9fKjq/HpA5ClFMB1bKGJL5fUDrOciz4FYWQaGPRbixH3pPhAdKL9vDtcZwJyDm3/ENFCpYKAKgHd21xO2IaOFLqM0WwMN2IIyjlY6dnQ1GAjI3Q==;D+BUGTY7YF8nScnmFJnhKw=="
+secured: "DzIt2MCcRvT7hGtUb6+PrlbTxRKfiWVpqkI+HKDi2mUETjNuTs8GARcrJyHIwBuhF9iAXVGq8wYaZsZwSpwTUmSza/Oi/HkK5oIKjfmZLO/j3lPNzwwJRceqx+gGMo5Ys6UEtbD5g8qw79/rttkJ0rcWLCHMrkaEML6l1mlyBcQDRL0FUAAZejHMPvlKFoY5wEtu31ghMuzUkqPe9C08X76UK28yJv9WiAODuO2U7RDwCFwbu4DFViXy0WZhN472wzuQLv6p0br2/1aci66LanaUQ8OYj6GlSSPxS7wqSjXAMuV7Hzolv4Cz1vgH/bCTYZmqKDiOb18fxgz832TwVVbsw89vWlxmFjoa9V0MjEg=;adb843DLSjAJwakzhq48NA=="
 ---
 

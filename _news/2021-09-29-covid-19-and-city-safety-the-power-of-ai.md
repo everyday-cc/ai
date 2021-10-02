@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kai-Fu Lee — The Future of Artificial Intelligence"
+    excerpt: "The extraordinary opportunities—and challenges—presented by artificial intelligence are at the heart of Kai-Fu Lee's new book, AI 2041: Ten Visions for Our Future, a \"scientific fiction\" that sketches 10 possible AI-driven futures that are within the realm of the scientifically possible."
+    publishedDateTime: 2021-10-02T05:47:00Z
+    webUrl: "https://www.hks.harvard.edu/events/kai-fu-lee-future-artificial-intelligence"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 52
+    images:
+      - url: "https://www.hks.harvard.edu/sites/default/files/about_us/Twitter-Card.png"
+        width: 840
+        height: 450
+        isCached: true
   - title: "Artificial Intelligence company EAIGLE rolls out a new proof of vaccination platform to give U.S. organizations greater health and safety protection"
     excerpt: "PRNewswire/ - Artificial Intelligence (AI) company EAIGLE Inc., specializing in COVID-19 solution technologies, has"
     publishedDateTime: 2021-09-28T13:16:00Z

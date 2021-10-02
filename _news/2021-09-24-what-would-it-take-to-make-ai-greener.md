@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI Hardware
 
 images:
   - url: "https://europeansting.files.wordpress.com/2021/09/robotics.webp"

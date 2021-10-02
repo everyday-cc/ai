@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/28/microsoft-launches-data-governanc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/amp/"
 type: article
 quality: 114
-heat: 185
+heat: 184
 published: true
 
 provider:

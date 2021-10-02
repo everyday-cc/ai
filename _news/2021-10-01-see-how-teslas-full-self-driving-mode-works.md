@@ -273,7 +273,7 @@ related:
     provider:
       name: Morningstar, Inc.
       domain: morningstar.com
-    quality: 44
+    quality: 46
   - title: "Tesla’s ‘full self-driving’ could be days away. Here’s what you need to know."
     excerpt: "By Matt McFarland, CNN Business A wider group of Tesla owners who paid up to $10,000 for what the company calls its “full self-driving” software can now ask the automaker for access to a test version of the feature."
     publishedDateTime: 2021-09-28T15:39:00Z

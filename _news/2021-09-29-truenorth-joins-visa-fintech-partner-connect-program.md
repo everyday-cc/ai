@@ -39,20 +39,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "“In yet another initiative, IIM Udaipur launches ‘Fintech’ to provide thrust in financial ecosystems”"
-    excerpt: "Udaipur: Indian Institute of Management Udaipur has announced the launch of Fintech this month. Being one of its kind, FinTech"
-    publishedDateTime: 2021-09-27T12:42:00Z
-    webUrl: "https://menafn.com/1102870429/In-yet-another-initiative-IIM-Udaipur-launches-Fintech-to-provide-thrust-in-financial-ecosystems"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2021-09/27/pr_11781_0cccf8cf_image_story.jpg"
-        width: 680
-        height: 420
-        isCached: true
   - title: "Fintech investments are on high level – Top 10 countries leaders for H1′ 2021"
     excerpt: "The global fintech market made a strong start in 2021. Global fintech investments recorded $98 billion in H1, 2021 with 2.456 deals, according to KPMG insights. In H2, 2021 global fintech investments reached 87 billion dollars."
     publishedDateTime: 2021-10-01T11:16:00Z

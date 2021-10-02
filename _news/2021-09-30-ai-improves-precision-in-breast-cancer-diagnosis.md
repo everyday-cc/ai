@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-09-ai-precision-breast-cancer-di
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-ai-precision-breast-cancer-diagnosis.amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Medical Xpress
@@ -41,20 +41,6 @@ related:
       - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/09/GettyImages-1128870494-5b9c18f.jpg?quality=90&crop=4px,0px,1192px,513px&resize=960,413"
         width: 960
         height: 413
-        isCached: true
-  - title: "Artificial Intelligence System Improves Breast Cancer Detection"
-    excerpt: "Researchers develop artificial intelligence (AI) system that achieves radiologist-level accuracy in identifying breast cancer in ultrasound images."
-    publishedDateTime: 2021-09-27T12:00:00Z
-    webUrl: "https://www.genengnews.com/news/artificial-intelligence-system-improves-breast-cancer-detection/"
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 39
-    images:
-      - url: "https://www.genengnews.com/wp-content/uploads/2018/08/June4_2014_21425225_BreastCancerBlackWhiteIllustration_ProteinBreastCancerSpread2311152102.jpg"
-        width: 500
-        height: 305
         isCached: true
 
 secured: "r0fAfAnaHFvm48GAqK+Kd8t5hgleelOorma5pMo6wxk/1S9uaqqCXGUUo6kohYJ2hHlIAUu2PE5SrnuAj+Ed/K2SpBDM5iZdG/7abbGiZXglBuScBbGlClABFtpNQ9utQWH0bMowB85J4/AlyPmLJV+bToGBDRBOjShEflS7+jf+vPm6LJBPFZxDapBtpLTZJ88+BlPKhMoSypiFKvFQhCIkRxvAnqAwpHJXdiu9HUFxdYXp7pE//S2Rpi04Rh5gMsdVSoc1jbQXa9XH05Edu9xI99A9Us/5wvPrtsqGdeTi1bM6XcX84f4bgA8tSJprmiW8xCGjrAVBOQsvlLbgNLDxOvuL9lLXLc6ihX8hxQ4=;qkeG1C7vsjF1z2T5DfWEtQ=="

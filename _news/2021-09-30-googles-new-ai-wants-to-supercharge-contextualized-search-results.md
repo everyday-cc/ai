@@ -58,6 +58,22 @@ related:
         width: 413
         height: 250
         isCached: true
+  - title: "Google Pixel 6 advert teases smart camera and AI features"
+    excerpt: "A new Google Pixel 6 advertisement has teased a suite of smart features that upcoming phones are likely to have, potentially offering improved language translation and boosted computational photography."
+    publishedDateTime: 2021-09-28T05:01:00Z
+    webUrl: "https://www.tomsguide.com/uk/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
+    ampWebUrl: "https://www.tomsguide.com/uk/amp/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 61
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/7t5W2reCUYkYMbnF9WiRQ7-1200-80.jpg"
+        width: 1200
+        height: 797
+        isCached: true
   - title: "Using AI and old reports to understand new medical images"
     excerpt: "Getting a quick and accurate reading of an X-ray or some other medical images can be vital to a patient's health and might even save a life. Obtaining such an assessment depends on the availability of a skilled radiologist and,"
     publishedDateTime: 2021-09-27T16:23:00Z

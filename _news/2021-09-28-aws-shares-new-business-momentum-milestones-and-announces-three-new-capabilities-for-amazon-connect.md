@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic
 webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-lifestyle-technology-business-middle-east-62bd656b2fe240a1a17519adbb362d4a"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS adds new features to Amazon Connect"
-    excerpt: "Amazon Web Services (AWS) has announced three new capabilities for its omnichannel cloud contact center Amazon Connect. Powered by artificial intelligence (AI) and machine learning (ML), Amazon Connect simplifies automated interactions,"
-    publishedDateTime: 2021-09-27T12:58:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361022/aws-adds-new-features-to-amazon-connect"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 49
   - title: "AWS adds new updates to Amazon Connect"
     excerpt: "Amazon Web Services updates new capabilities for Amazon Connect to improve contact centre agent productivity and provide more effective, personal, and natural customer interactions. AWS shares that the new features are designed to give agents the right information at the right time to answer"
     publishedDateTime: 2021-09-27T22:48:00Z

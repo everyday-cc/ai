@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Replacing your iPhone 13 display will render Face ID unusable, unless Apple does it"
-    excerpt: "By contrast, the Face ID module is simply a capture device that doesn't hold any facial recognition data, which is stored in the iPhone's secure enclave."
-    publishedDateTime: 2021-09-27T11:57:00Z
-    webUrl: "https://www.techspot.com/news/91433-replacing-iphone-13-display-render-face-unusable-unless.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/91433-replacing-iphone-13-display-render-face-unusable-unless.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91433-replacing-iphone-13-display-render-face-unusable-unless.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 68
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-27-image.jpg"
-        width: 1960
-        height: 1102
-        isCached: true
   - title: "iPhone 13’s Face ID discovered not to work after third-party screen replacement"
     excerpt: "The Face ID feature is one of the highlights of the recently unveiled iPhone 13. When activated, Face ID grants access to the iPhone 13 when the phone is brought to a clear view of the owner’s face. It is therefore one of the many options available to unlock the iPhone 13."
     publishedDateTime: 2021-09-28T14:28:00Z

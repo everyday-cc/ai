@@ -263,7 +263,7 @@ related:
     provider:
       name: Morningstar, Inc.
       domain: morningstar.com
-    quality: 44
+    quality: 46
   - title: "See how Tesla's 'full self-driving' mode works"
     excerpt: "Despite concerns from regulators,Tesla is rolling out its autonomous driving feature to some owners who can prove they are safe drivers."
     publishedDateTime: 2021-10-01T16:10:00Z

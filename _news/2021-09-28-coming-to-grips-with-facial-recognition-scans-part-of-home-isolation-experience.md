@@ -42,19 +42,14 @@ related:
         height: 360
         isCached: true
   - title: "Western Railways to install 2,729 cameras across 30 stations, 450 to have face recognition system"
-    excerpt: "Western Railways is installing 2729 cameras with 4K technology in all of its 30 stations of Mumbai suburban network from Virar to Churchgate said Chief Public"
-    publishedDateTime: 2021-10-01T17:50:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271371452/western-railways-to-install-2729-cameras-across-30-stations-450-to-have-face-recognition-system"
+    excerpt: "Speaking to ANI, Sumit Thakur, CPRO, Western Railways said that out of 2,729 cameras, 450 have face recognition technology that will be primarily installed at entry and exit points of the stations. \"Under the integrated surveillance system,"
+    publishedDateTime: 2021-10-02T05:16:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20211001/3829691.html"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 41
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1633110183.jpg"
-        width: 630
-        height: 420
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 21
 
 secured: "WYWNmQ6blHqpTGU39o9MvVDYiEJfmt1xKuhdTsx/XBZePPGPJbM9N0d+GHURHNznloYMFP2Gfkwe8srWHbkM8OdqHz9x4aksjIjjC5JmIpBZyvBBsc6z3QOgqjflyAk09UKHGJFH8eFbxuIgzsGzS6Rp6slmR6QiHPvcy49EK/dJHImO6azBI+Tp/lDiyUCiI2pCeR7TC/5POmaJHSx+F79t3HMswStXTkJO5WRMX4CQlr4cG2l5X6P5TTtpZXpAQEEQt1sEOg7+UFpCftQPonM0O5NnOI0047SwXNtRz6LTA20TLUxQc62bg6twy3zAnDLZfxiXKUQlsXgbnjlrMRQO9yqbSqLBxPM9JMVkAaA=;Vol4iqBZpuKDgy5v4bxxtQ=="
 ---

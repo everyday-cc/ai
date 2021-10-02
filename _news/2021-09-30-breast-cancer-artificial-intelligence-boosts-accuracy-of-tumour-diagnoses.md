@@ -43,20 +43,6 @@ related:
         width: 2880
         height: 1546
         isCached: true
-  - title: "Artificial Intelligence System Improves Breast Cancer Detection"
-    excerpt: "Researchers develop artificial intelligence (AI) system that achieves radiologist-level accuracy in identifying breast cancer in ultrasound images."
-    publishedDateTime: 2021-09-27T12:00:00Z
-    webUrl: "https://www.genengnews.com/news/artificial-intelligence-system-improves-breast-cancer-detection/"
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 39
-    images:
-      - url: "https://www.genengnews.com/wp-content/uploads/2018/08/June4_2014_21425225_BreastCancerBlackWhiteIllustration_ProteinBreastCancerSpread2311152102.jpg"
-        width: 500
-        height: 305
-        isCached: true
 
 secured: "/KOuyzN9DEQ3RsBMVroTiD6iXFXDhSQUACkT5Csi0z1687V74c9jwcX4gI8OAJ/HzRgJZ8/YFqC2qVwA5w3ZJTJihpEnPi947Zx8CxKAIU9YVbbMX1y5RNjkYGwAxnb1gUg7XNuymH5SZTSPBir7xHhoQYOdLC0+uW9AlzJmjbhG8T2b6E5WuABAOntfxEBnUbp29bFWH5hADoo0vXJo0dvXuc1HmKVBP04vqX5psGSYXr+xzi+8x9x2CSIX6kF5/LiQf4MWZWehC9YNcMAyujbcsN5/48IqAkOnXZ6d+qkw5AN/4PTUCz4kmM+tii8tDP1nQNclNppVN+CZ/mJxDur6Jv+2jsjwQroszkE8nw3z4QYMEr9/OpIMz17w3bYDdsipOuMl8FzF7qWVmOc6sBRYiqqR4KcQoYCcQ/bkVHHt4khXElvjH6PPDnCulGEB4SmbUF2UmJ9h+rk4QaTz/XXdistbQY/0XnaShbZXcSg5VoqZOcf7Rjm8qHMs1AA0xc9J9455QtL3seGOV/3mrg==;Xy1nruu82oawldKWBaxZBw=="
 ---

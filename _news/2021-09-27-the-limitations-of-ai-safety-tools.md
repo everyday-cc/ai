@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tool
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155ef71088eada6a8f3c806%2F0x0.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kai-Fu Lee — The Future of Artificial Intelligence"
+    excerpt: "The extraordinary opportunities—and challenges—presented by artificial intelligence are at the heart of Kai-Fu Lee's new book, AI 2041: Ten Visions for Our Future, a \"scientific fiction\" that sketches 10 possible AI-driven futures that are within the realm of the scientifically possible."
+    publishedDateTime: 2021-10-02T05:47:00Z
+    webUrl: "https://www.hks.harvard.edu/events/kai-fu-lee-future-artificial-intelligence"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 52
+    images:
+      - url: "https://www.hks.harvard.edu/sites/default/files/about_us/Twitter-Card.png"
+        width: 840
+        height: 450
         isCached: true
   - title: "Artificial Intelligence company EAIGLE rolls out a new proof of vaccination platform to give U.S. organizations greater health and safety protection"
     excerpt: "PRNewswire/ - Artificial Intelligence (AI) company EAIGLE Inc., specializing in COVID-19 solution technologies, has"

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/29/google-is-redesigning-search-using
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/29/google-is-redesigning-search-using-a-i-technologies-and-new-features/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -57,6 +57,22 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FGoogle-search-hed.jpg&signature=281c56c07399e375ba57b374aeca8acd"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Google Pixel 6 advert teases smart camera and AI features"
+    excerpt: "A new Google Pixel 6 advertisement has teased a suite of smart features that upcoming phones are likely to have, potentially offering improved language translation and boosted computational photography."
+    publishedDateTime: 2021-09-28T05:01:00Z
+    webUrl: "https://www.tomsguide.com/uk/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
+    ampWebUrl: "https://www.tomsguide.com/uk/amp/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/google-pixel-6-advert-teases-smart-camera-and-ai-features"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 61
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/7t5W2reCUYkYMbnF9WiRQ7-1200-80.jpg"
+        width: 1200
+        height: 797
         isCached: true
   - title: "Using AI and old reports to understand new medical images"
     excerpt: "Getting a quick and accurate reading of an X-ray or some other medical images can be vital to a patient's health and might even save a life. Obtaining such an assessment depends on the availability of a skilled radiologist and,"
@@ -133,6 +149,6 @@ related:
         height: 450
         isCached: true
 
-secured: "9BxwMZdh1j1DRjWAhGgtUwL2FYmrPQ3OSFMHcGczTedIN+XT3XoUrp2ADzIxPuhH6C+r0+tuNwPVw3dXmIQDfIQAyxEkmaFnBHYbCoFJvkJC6Q0QJMDYh0qk2qIA9XJFf1PTIVbx5NCLjOUQmHOB/4nnauW0vlOPZv4sNnsuXFZb/zfnXTdemcAagALzEnUI3CeDQD8vrmm1ZCtRS/uZ5JfmQG2kXzmngbKpMLbeMnmhEHGqbTn08bOa0onZekJvnAm6ee4saFjq9HQwVfJ5sw3HNvDxU/tc4AGiJLkhprwssClCigQJutkESI0vnCq+FKHcOSpN9VdFfawI6buEZvtGUCWrZ66tMcEE4wgHn8c=;HcNinCwV26XXuyKs64B1Gw=="
+secured: "VaqI9k2aA0rW4nTKZpqoj2LrjPAB8TIQGxB3c4XzGM7e9/VxfCsfURdTaBWD2+My8Q1tldf/g+rjwymfcsZCUWMrsIaruWZBlHRaXS7uyf1OhnJaZkvweChopTy/NjeGuxf2fWZpM5ZKJelKa57ChRlrxMPcXj3Mw5QnaTJkAXPPCFas+bOzeccI4qUXK1OIdkYp6bbF4pbKLiHi+ksnVSqO7TRmGIbqpXHyjidTBP1q/9TxQbDDRRHqCf2eRcOIeklyQOk5iA/pn1Dty9SXvA2IU3iIlbBbRdOu9xzLD1ZS0gJW+3tubQherpvsNT0lRiKnM21eOqE+s97oBOgcwHCvNk3NuECPfoNif8VKL93QpH6+vepcy5c0nhbZvauj+mDIx98IitsazB3FR0vlLUbsN0F9kw0e6fcIXUnwKQ4MqDtj3eDuGiPiM9N4WLTElrCzLTpvA5wmeDR6BWmePh7sFwPyaq7XZaYZXQgCJYHrqDXB3XPKWjE8SD61kWDwayV/1SDicJPlDfg87mclDw==;RFD7HYj4k/40rBQkiPK4fw=="
 ---
 

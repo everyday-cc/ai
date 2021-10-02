@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-join-the-connected-w
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-join-the-connected-world-with-data-and-ai/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -24,6 +24,22 @@ topics:
   - AI
 
 related:
+  - title: "How to Use AI to Drive Business Growth in the Tech Era"
+    excerpt: "AI allows for that. And from the looks of things, that will be nearly half of all US-based businesses within the next 12 months. However, even though the capabilities are there, it’s largely untapped potential."
+    publishedDateTime: 2021-10-01T13:30:00Z
+    webUrl: "https://www.business2community.com/business-innovation/how-to-use-ai-to-drive-business-growth-in-the-tech-era-02433972"
+    ampWebUrl: "https://www.business2community.com/business-innovation/how-to-use-ai-to-drive-business-growth-in-the-tech-era-02433972/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/how-to-use-ai-to-drive-business-growth-in-the-tech-era-02433972/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 57
+    images:
+      - url: "https://cdn.business2community.com/wp-content/uploads/2021/09/Business-Technology-900x643.png"
+        width: 900
+        height: 643
+        isCached: true
   - title: "Artificial intelligence to better understand our world"
     excerpt: "While artificial intelligence has been an important tool in gaining a better understanding of our world its imperative that we learn more from it w"
     publishedDateTime: 2021-09-28T23:08:00Z

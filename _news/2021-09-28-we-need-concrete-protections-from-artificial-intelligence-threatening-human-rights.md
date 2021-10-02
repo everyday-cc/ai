@@ -34,22 +34,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "We need concrete protections from artificial intelligence threatening human rights"
-    excerpt: "Events over the past few years have revealed several human rights violations associated with increasing advances in artificial intelligence (AI)."
-    publishedDateTime: 2021-09-27T11:32:00Z
-    webUrl: "https://techxplore.com/news/2021-09-concrete-artificial-intelligence-threatening-human.html"
-    ampWebUrl: "https://techxplore.com/news/2021-09-concrete-artificial-intelligence-threatening-human.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-concrete-artificial-intelligence-threatening-human.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/we-need-concrete-prote.jpg"
-        width: 1356
-        height: 668
-        isCached: true
 
 secured: "OnsRvrTQnfQAxNA3ERcag2oENzWA1qnL38f12iIgVAo6NKkTt2s0jTvy8GhGa3RjO84jljf9HOLDRIwYz9oZkY3+ZulBLE9qGJy0h6m1/Bgv+OdzsIoMg2SFGq81yR/JxOZY5im1Txjzfn/gTS/P1VYhBQ0x58zBwHankrUU6BEOuFz72+8lPoXZ6XYAb6G8Ddu1ZqJr+EabB+zW7fxWePiQhMZTOSYsvVMFS9W96y30GzpqtNW3q6GqbLeNjImkPQ6bkbjuDZ2h6KlcBgA3Faif8qWpVOqqSouwX9cFiJvTc9lRsaC9Rzy0JbWewqmddXde6txmccZ3r+8npGcilv8aW4MGTH9qWJ5TxwkiJrY=;J/s2EGRLb3bnljtf45pJyA=="
 ---

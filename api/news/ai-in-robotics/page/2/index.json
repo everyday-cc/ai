@@ -1323,35 +1323,26 @@
       ]
     },
     {
-      "path": "_news/2021-09-15-robot-vacuums-are-learning-to-avoid-dog-poop-but-thats-not-all-they-can-see.md",
-      "title": "Robot vacuums are learning to avoid dog poop. But that's not all they can see.",
-      "excerpt": "In the lab, robots are engineered for mind-blowing displays of perception and agility, like Boston Dynamics’ parkour performing bot and the humanoid shooting hoops at the Olympics.",
+      "path": "_news/2021-09-15-three-stocks-to-profit-from-the-robot-revolution.md",
+      "title": "Three stocks to profit from the robot revolution",
+      "excerpt": "These trends, along with developments in areas such as vision systems and artificial intelligence ... of vision and sensor systems. Teams at Waymo, the self-driving car division of Alphabet ...",
       "sourceUrl": null,
-      "webUrl": "https://www.unionleader.com/news/back_page/robot-vacuums-are-learning-to-avoid-dog-poop-but-thats-not-all-they-can-see/article_78f9a033-f659-52b2-8421-48ad86394958.html",
-      "originalUrl": "https://www.unionleader.com/news/back_page/robot-vacuums-are-learning-to-avoid-dog-poop-but-thats-not-all-they-can-see/article_78f9a033-f659-52b2-8421-48ad86394958.html",
+      "webUrl": "https://moneyweek.com/472370/the-robot-revolution",
+      "originalUrl": "https://moneyweek.com/472370/the-robot-revolution",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T13:49:00-07:00",
+      "ampWebUrl": "https://moneyweek.com/472370/the-robot-revolution?amp",
+      "cdnAmpWebUrl": "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/472370/the-robot-revolution?amp",
+      "publishedDateTime": "2021-09-14T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New Hampshire Union Leader",
-        "domain": "unionleader.com",
+        "name": "MoneyWeek",
+        "domain": "moneyweek.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1361,8 +1352,9 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

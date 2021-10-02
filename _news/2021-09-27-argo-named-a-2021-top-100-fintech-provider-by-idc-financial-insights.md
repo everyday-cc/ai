@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "“In yet another initiative, IIM Udaipur launches ‘Fintech’ to provide thrust in financial ecosystems”"
-    excerpt: "Udaipur: Indian Institute of Management Udaipur has announced the launch of Fintech this month. Being one of its kind, FinTech"
-    publishedDateTime: 2021-09-27T12:42:00Z
-    webUrl: "https://menafn.com/1102870429/In-yet-another-initiative-IIM-Udaipur-launches-Fintech-to-provide-thrust-in-financial-ecosystems"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2021-09/27/pr_11781_0cccf8cf_image_story.jpg"
-        width: 680
-        height: 420
-        isCached: true
   - title: "TrueNorth Joins Visa Fintech Partner Connect Program"
     excerpt: "TrueNorth, a global fintech software development company, today announced it has joined Visa Fintech Partner Connect?a program designed to help Visa's issuing clients quickly connect with a vetted and curated set of technology providers."
     publishedDateTime: 2021-09-29T15:40:00Z

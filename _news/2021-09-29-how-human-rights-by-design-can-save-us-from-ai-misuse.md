@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/how-human-rights-by-design-can-save-us
 webUrl: "https://thenextweb.com/news/how-human-rights-by-design-can-save-us-from-ai-misuse-syndication"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "We need concrete protections from artificial intelligence threatening human rights"
-    excerpt: "Events over the past few years have revealed several human rights violations associated with increasing advances in artificial intelligence (AI)."
-    publishedDateTime: 2021-09-27T11:32:00Z
-    webUrl: "https://techxplore.com/news/2021-09-concrete-artificial-intelligence-threatening-human.html"
-    ampWebUrl: "https://techxplore.com/news/2021-09-concrete-artificial-intelligence-threatening-human.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-concrete-artificial-intelligence-threatening-human.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/we-need-concrete-prote.jpg"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "We need concrete protections from artificial intelligence threatening human rights"
     excerpt: "Events over the past few years have revealed several human rights violations associated with increasing advances in artificial intelligence (AI). Algorithms creat"
     publishedDateTime: 2021-09-27T17:39:00Z
