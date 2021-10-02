@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-09-21-how-an-ai-assisted-robot-gun-assassinated-irans-top-nuclear-scientist.md",
+      "title": "How An AI-Assisted Robot Gun Assassinated Iran's Top Nuclear Scientist",
+      "excerpt": "An AI-assisted remote-controlled gun played a key role in Israel's assassination of Iran's nuclear kingpin, according to a new report by the New York Times",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/technology/how-an-aiassisted-robot-gun-assassinated-irans-top-nuclear-scientist/",
+      "originalUrl": "https://www.iflscience.com/technology/how-an-aiassisted-robot-gun-assassinated-irans-top-nuclear-scientist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/2d15193b-4612-5fd9-801e-59ede04ab106/default-1632224046-iran-military.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.iflscience.com/technology/how-an-aiassisted-robot-gun-assassinated-irans-top-nuclear-scientist/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/how-an-aiassisted-robot-gun-assassinated-irans-top-nuclear-scientist/",
+      "publishedDateTime": "2021-09-21T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-21-ai-might-help-edit-the-next-generation-of-blockbusters.md",
       "title": "AI might help edit the next generation of blockbusters",
       "excerpt": "While AI video editing techniques like deepfakes have not really ... “I think the boundaries between images, and videos, and audio, and 3D, and augmented reality are going to start to blur,” says Prevost. “It used to be that there are people who ...",
@@ -1130,58 +1173,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-intel-covers-arc-gpu-fab-choice-xess-backwards-compatibility-and-other-details-in-new-interview.md",
-      "title": "Intel covers Arc GPU fab choice, XeSS backwards compatibility and other details in new interview",
-      "excerpt": "According to Wccftech's translation, Intel said it chose TSMC's six-nanometer processor node for the Arc Alchemist GPUs over its own node -- probably Intel 7, due",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91331-intel-covers-arc-gpu-fab-choice-xess-backwards.html",
-      "originalUrl": "https://www.techspot.com/news/91331-intel-covers-arc-gpu-fab-choice-xess-backwards.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-03-image-7.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91331-intel-covers-arc-gpu-fab-choice-xess-backwards.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91331-intel-covers-arc-gpu-fab-choice-xess-backwards.html",
-      "publishedDateTime": "2021-09-20T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

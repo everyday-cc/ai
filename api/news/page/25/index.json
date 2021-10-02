@@ -2,6 +2,49 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-09-13-irobots-new-roomba-j7-robot-vacuum-with-ai-object-avoidance-and-storage.md",
+      "title": "iRobot’s new Roomba j7+ robot vacuum with AI, object avoidance, and storage",
+      "excerpt": "Companies like ECOVACS and Trifo are among the few to set out and develop robot vacuums with artificial intelligence capable of avoiding things it might run into that shouldn’t be there. From trying to avoid clog-hazards like socks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pocnetwork.net/technology-news/irobots-new-roomba-j7-robot-vacuum-with-ai-object-avoidance-and-storage/",
+      "originalUrl": "https://www.pocnetwork.net/technology-news/irobots-new-roomba-j7-robot-vacuum-with-ai-object-avoidance-and-storage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pocnetwork.net/wp-content/zuploads/2021/09/Roomba-j7-robot-vacuum.jpg",
+          "width": 773,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-12T22:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Poc Network",
+        "domain": "pocnetwork.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-13-nfl-and-aws-unveil-new-4th-down-metric-to-judge-whether-your-favorite-coach-made-the-right-call.md",
       "title": "NFL and AWS unveil new 4th down metric to judge whether your favorite coach made the right call",
       "excerpt": "The NFL noted that some coaches, like the Cowboys' Mike McCarthy, made a few bad 4th down calls while the Browns' Kevin Stefanksi and Bengals' Zac Taylor made the right decisions down the stretch.",
@@ -1051,58 +1094,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-11-ai-artificial-intelligence-should-you-teach-it-to-your-employees.md",
-      "title": "AI (Artificial Intelligence): Should You Teach It To Your Employees?",
-      "excerpt": "But AI is not easy to implement. Even top-notch companies have challenges and failures. So what can be done? Well, one strategy is to provide AI education to the workforce. “If more people are AI literate and can start to participate and contribute to the process,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/10/ai-artificial-intelligence-should-you-teach-it-to-your-employees/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/10/ai-artificial-intelligence-should-you-teach-it-to-your-employees/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613bae48bbb19cb92da70171%2F0x0.jpg",
-          "width": 1200,
-          "height": 819,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/10/ai-artificial-intelligence-should-you-teach-it-to-your-employees/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/09/10/ai-artificial-intelligence-should-you-teach-it-to-your-employees/amp/",
-      "publishedDateTime": "2021-09-10T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

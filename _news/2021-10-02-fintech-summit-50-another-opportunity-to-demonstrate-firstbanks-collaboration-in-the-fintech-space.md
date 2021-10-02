@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech 5.0: Evaluating How FirstBank Strengthens Collaboration"
+    excerpt: "It was Sir Isaac Newton, in his letter to Robert Hooke in 1675, who wrote the now-famous quote: “If I have seen further (than others), it is by standing on the shoulders of giants.”"
+    publishedDateTime: 2021-10-02T19:40:00Z
+    webUrl: "https://www.herald.ng/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration-2/"
+    ampWebUrl: "https://www.herald.ng/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration-2/amp/"
+    cdnAmpWebUrl: "https://www-herald-ng.cdn.ampproject.org/c/s/www.herald.ng/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration-2/amp/"
+    type: article
+    provider:
+      name: herald.ng
+      domain: herald.ng
+    quality: 59
+    images:
+      - url: "https://i2.wp.com/www.herald.ng/wp-content/uploads/2021/10/FirstBank-HQ-image-scaled.jpg?fit=1024%2C683&ssl=1"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Fintech 5.0: Evaluating How Firstbank Strengthens Collaboration"
     excerpt: "It was Sir Isaac Newton, in his letter to Robert Hooke in 1675, who wrote the now-famous quote: \"If I have seen further (than others), it is by standing on the shoulders of giants.\""
     publishedDateTime: 2021-10-02T11:14:00Z

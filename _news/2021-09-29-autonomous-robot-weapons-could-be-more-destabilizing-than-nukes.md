@@ -41,6 +41,22 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "Worse than nukes? An autonomous robot may have already killed people"
+    excerpt: "Autonomous weapons will undermine humanity’s final stopgap against war crimes and atrocities: the international laws of war."
+    publishedDateTime: 2021-10-02T18:00:00Z
+    webUrl: "https://scroll.in/article/1006658/worse-than-nukes-an-autonomous-robot-may-have-already-killed-people"
+    ampWebUrl: "https://amp.scroll.in/article/1006658/worse-than-nukes-an-autonomous-robot-may-have-already-killed-people"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1006658/worse-than-nukes-an-autonomous-robot-may-have-already-killed-people"
+    type: article
+    provider:
+      name: Scroll
+      domain: scroll.in
+    quality: 59
+    images:
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/164618-kybyqusbld-1633010600.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "An autonomous robot may have already killed people—here's how the weapons could be more destabilizing than nukes"
     excerpt: "Autonomous weapon systems—commonly known as killer robots—may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
     publishedDateTime: 2021-09-30T12:45:00Z

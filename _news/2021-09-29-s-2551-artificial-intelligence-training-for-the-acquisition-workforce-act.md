@@ -64,6 +64,22 @@ related:
         width: 350
         height: 450
         isCached: true
+  - title: "Microbes, Natural Intelligence and Artificial Intelligence"
+    excerpt: "Humanity is an outgrowth of natural life, but it currently enables a phase transition into technological relics that could survive longer than biological creatures. And the same could have happened long ago around other stars that formed billions of years before the sun."
+    publishedDateTime: 2021-10-02T14:59:00Z
+    webUrl: "https://www.scientificamerican.com/article/microbes-natural-intelligence-and-artificial-intelligence/"
+    ampWebUrl: "https://www.scientificamerican.com/article/microbes-natural-intelligence-and-artificial-intelligence/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/microbes-natural-intelligence-and-artificial-intelligence/?amp=true"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 57
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/2919B23F-0C73-466D-859B49145D379F97.jpg"
+        width: 790
+        height: 496
+        isCached: true
   - title: "OpenAI is working on an artificial intelligence model capable of summarising books"
     excerpt: "OpenAI, the “capped” for-profit company founded by Elon Musk, is continuing to improve its GPT-3 language model and is developing a tool for summarising books or texts. It’s a development that could benefit businesses in particular."
     publishedDateTime: 2021-09-28T23:10:00Z
@@ -91,20 +107,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1638018/BluWave_ai_Dubai_Taxi_and_BluWave_ai_Launch_Innovative_Partnersh.jpg"
         width: 400
         height: 225
-        isCached: true
-  - title: "Imagining the future of artificial intelligence and its potential impact"
-    excerpt: "ABC News' Linsey Davis speaks with former president of Google China, and bestselling author Kai-Fu Lee on his new book, \"AI 2041: Ten Visions for Our Future.\""
-    publishedDateTime: 2021-09-28T01:42:00Z
-    webUrl: "https://abcnews.go.com/US/video/imagining-future-artificial-intelligence-potential-impact-80270401"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 36
-    images:
-      - url: "https://s.abcnews.com/images/US/210927_abcnl_prime_lee_hpMain_16x9_608.jpg"
-        width: 608
-        height: 342
         isCached: true
   - title: "How artificial intelligence is changing the role of the business analyst"
     excerpt: "| \\ ˈdī-nə-ˌsȯr  \\  One who is, out-of-date, or obsolete   Strange how certain words conjure up thoughts of an ever-changing, progressive world that, like tide and time, wait for no man. And somewhere"

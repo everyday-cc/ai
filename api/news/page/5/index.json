@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-29-ai-powered-contract-management-platform-malbek-lands-153m.md",
+      "title": "AI-powered contract management platform Malbek lands $15.3M",
+      "excerpt": "Malbek, an AI contract lifecycle management startup based Somerset, New Jersey, has raised $15.3 million in a venture round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/28/ai-powered-contract-management-platform-malbek-lands-15-3m/",
+      "originalUrl": "https://venturebeat.com/2021/09/28/ai-powered-contract-management-platform-malbek-lands-15-3m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-544306297-e1628772672593.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/28/ai-powered-contract-management-platform-malbek-lands-15-3m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/ai-powered-contract-management-platform-malbek-lands-15-3m/amp/",
+      "publishedDateTime": "2021-09-28T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-heidrick-struggles-partners-with-eightfold-ai-to-develop-new-digital-platform.md",
       "title": "Heidrick & Struggles Partners With Eightfold AI To Develop New Digital Platform",
       "excerpt": "Heidrick & Struggles International, Inc. (NASDAQ:HSII) and Eightfold AI, an AI-driven talent development platform, have partnered to develop a new digital leadership platform inte",
@@ -1152,59 +1203,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-artificial-intelligence-chipsets-market-size-outlook-opportunity-and-demand-analysis-report-by-2026.md",
-      "title": "Artificial Intelligence Chipsets Market Size Outlook, Opportunity and Demand Analysis Report by 2026",
-      "excerpt": "The Artificial Intelligence Chipsets (AI) Market growth is ascribed to massive growth of e-commerce as well as social media platforms. The increasing use of social media and ecommerce platforms has further led to strong growth in data volume,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-outlook-opportunity-and-demand-analysis-report-by-2026-2021-09-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-outlook-opportunity-and-demand-analysis-report-by-2026-2021-09-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T21:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

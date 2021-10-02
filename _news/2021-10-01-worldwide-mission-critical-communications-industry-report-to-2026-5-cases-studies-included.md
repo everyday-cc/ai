@@ -42,16 +42,21 @@ related:
         height: 675
         isCached: true
   - title: "Vice President calls for AI solutions in agriculture, health, education"
-    excerpt: "He also suggested exploring AI-based smart solutions in health such as remote diagnosis, and automatic translation of English texts to Indian languages in education. \"If such solutions can be ..."
-    publishedDateTime: 2021-09-28T23:40:00Z
-    webUrl: "https://www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
-    ampWebUrl: "https://www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
+    excerpt: "Jaipur, Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to deliver benefits to the people and enhance ..."
+    publishedDateTime: 2021-09-29T11:35:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 56
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 76
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-86606103,imgsize-21820,width-800,height-434,overlay-etcio/vice-president-calls-for-ai-solutions-in-agriculture-health-education.jpg"
+        width: 800
+        height: 434
+        isCached: true
   - title: "Best AI and machine learning innovation: GBG"
     excerpt: "In this area, machine learning can play a part in identifying and mapping out new patterns, tracking highly suspicious activities and known fraud better than a traditional rules-based engine. Dev Dhiman,"
     publishedDateTime: 2021-09-29T03:15:00Z

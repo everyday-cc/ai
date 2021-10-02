@@ -116,6 +116,20 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "Global Retail Artificial Intelligence (AI) Growth Opportunities Research Report 2021 - ResearchAndMarkets.com"
+    excerpt: "Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. AI Solutions to Drive the Future Growth Potential in the Retail Space for Technology Providers With a record 12,200 outlets being shuttered in the US in 2020 alone,"
+    publishedDateTime: 2021-09-29T09:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-artificial-intelligence-04b0b15ab95e4f9c9ae8d7958ed78574"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Cognitive Computing Market Revenue, Major Players, Consumer Trends, Analysis & Forecast Till 2027"
     excerpt: "United States OR Portland The Cognitive Computing Market 2021 report is a comprehensive professional and in depth research of market that delivers significant data for those who are seeking information for the Cognitive Computing industry The market report delivers the"
     publishedDateTime: 2021-09-29T11:39:00Z

@@ -2,6 +2,57 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-09-22-indian-buy-now-pay-later-startup-zestmoney-raises-50-million-from-australias-zip.md",
+      "title": "Indian buy now, pay later startup ZestMoney raises $50 million from Australia’s Zip",
+      "excerpt": "ZestMoney, a Bangalore-based buy now, pay later platform, said on Wednesday it has raised $50 million in a new financing round from Australia’s Zip as the Indian firm looks to cash in on a trend that is showing wider traction in several global markets.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/21/indian-buy-now-pay-later-startup-zestmoney-raises-50-million-from-australias-zip/",
+      "originalUrl": "https://techcrunch.com/2021/09/21/indian-buy-now-pay-later-startup-zestmoney-raises-50-million-from-australias-zip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/08/ZestMoney-Founders.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/21/indian-buy-now-pay-later-startup-zestmoney-raises-50-million-from-australias-zip/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/21/indian-buy-now-pay-later-startup-zestmoney-raises-50-million-from-australias-zip/amp/",
+      "publishedDateTime": "2021-09-21T22:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-facial-recognition-market-share-industry-analysis-report-2026.md",
       "title": "Facial Recognition Market Share | Industry Analysis Report 2026",
       "excerpt": "Global facial recognition market is growing demand for advanced identification and verification technologies stemming from rising security concerns is poised to drive outlook. Facial recognition systems are witnessing demand from several sectors for precise identification of individuals to ensure security.",
@@ -1122,49 +1173,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-how-an-ai-assisted-robot-gun-assassinated-irans-top-nuclear-scientist.md",
-      "title": "How An AI-Assisted Robot Gun Assassinated Iran's Top Nuclear Scientist",
-      "excerpt": "An AI-assisted remote-controlled gun played a key role in Israel's assassination of Iran's nuclear kingpin, according to a new report by the New York Times",
-      "sourceUrl": null,
-      "webUrl": "https://www.iflscience.com/technology/how-an-aiassisted-robot-gun-assassinated-irans-top-nuclear-scientist/",
-      "originalUrl": "https://www.iflscience.com/technology/how-an-aiassisted-robot-gun-assassinated-irans-top-nuclear-scientist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.iflscience.com/images/2d15193b-4612-5fd9-801e-59ede04ab106/default-1632224046-iran-military.jpg",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.iflscience.com/technology/how-an-aiassisted-robot-gun-assassinated-irans-top-nuclear-scientist/",
-      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/how-an-aiassisted-robot-gun-assassinated-irans-top-nuclear-scientist/",
-      "publishedDateTime": "2021-09-21T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFLScience",
-        "domain": "iflscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,40 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-09-17-artificial-intelligence-market-to-grow-at-a-cagr-of-245-by-2030-tmr.md",
+      "title": "Artificial Intelligence Market to grow at a CAGR of ~24.5% by 2030 – TMR",
+      "excerpt": "Transparency Market Research delivers key insights on the global artificial intelligence market. In terms of revenue, the global artificial intelligence market is estimated to expand at a CAGR of ~ 29% during the forecast period,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-by-2030-tmr/",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-by-2030-tmr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-by-2030-tmr/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-by-2030-tmr/?amp=1",
+      "publishedDateTime": "2021-09-17T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-17-itri-aita-and-ucla-chips-forge-cooperation-on-ai-chip-development.md",
       "title": "ITRI, AITA, and UCLA CHIPS Forge Cooperation on AI Chip Development",
       "excerpt": "DoIT Science and Technology Advisor Xian-Yi Lin stated that the DoIT supports ITRI, ATIA, and UCLA CHIPS in inking a collaborative agreement, which will help the parties quickly grasp international system specification trends in the areas of design,",
@@ -1096,58 +1130,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-ai-startup-sorcero-secures-10m-for-language-intelligence-platform.md",
-      "title": "AI startup Sorcero secures $10M for language intelligence platform",
-      "excerpt": "Sorcero’s natural language processing platform ... reducing time and increasing accuracy,” and if AI is to have a future, it needs a universal translator that plugs into everything, he said.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/16/ai-startup-sorcero-secures-10m-for-language-intelligence-platform/",
-      "originalUrl": "https://techcrunch.com/2021/09/16/ai-startup-sorcero-secures-10m-for-language-intelligence-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1271697775.jpg?w=1024",
-          "width": 1024,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/16/ai-startup-sorcero-secures-10m-for-language-intelligence-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/16/ai-startup-sorcero-secures-10m-for-language-intelligence-platform/amp/",
-      "publishedDateTime": "2021-09-16T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -49,18 +49,13 @@ related:
         isCached: true
   - title: "Arize AI Raises $19 Million Series A Financing Led by Battery Ventures for Machine Learning Observability"
     excerpt: "Arize AI, the leader in ML observability and model monitoring, today announced it has raised $19 million in Series A financing. The round was led by Battery Ventures with participation from previous investors Foundation Capital,"
-    publishedDateTime: 2021-09-28T15:25:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-science-d02717b99e8aa68228a928142048d770"
+    publishedDateTime: 2021-09-28T15:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/arize-ai-raises-19-million-series-a-financing-led-by-battery-ventures-for-machine-learning-observability-1030828252"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Arize AI Raises $19M in Series A Financing"
     excerpt: "Arize AI, a Berkeley, Calif.-based leader in ML observability and model monitoring, raised $19m in Series A financing"
     publishedDateTime: 2021-09-29T11:18:00Z

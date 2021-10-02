@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biometrics providers stake out facial recognition, fingerprint sensor market positions"
+    excerpt: "Interoperability of digital wallets and health passes, smart city biometrics, inclusive national digital ID systems among the most read news topics this week."
+    publishedDateTime: 2021-10-02T18:04:00Z
+    webUrl: "https://www.biometricupdate.com/202110/biometrics-providers-stake-out-facial-recognition-fingerprint-sensor-market-positions"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 31
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/01/04154638/BNP-Paribas-biometric-payment-cards.jpeg"
+        width: 1100
+        height: 733
+        isCached: true
   - title: "Auraya launches voice biometrics for forensics, adds SaaS delivery model"
     excerpt: "The new offering is the renamed third-generation of EVA Fraud Manager, which is now available through an SaaS delivery model."
     publishedDateTime: 2021-09-29T19:50:00Z

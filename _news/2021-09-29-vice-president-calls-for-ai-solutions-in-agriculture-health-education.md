@@ -1,25 +1,31 @@
 ---
 category: news
 title: "Vice President calls for AI solutions in agriculture, health, education"
-excerpt: "He also suggested exploring AI-based smart solutions in health such as remote diagnosis, and automatic translation of English texts to Indian languages in education. \"If such solutions can be ..."
-publishedDateTime: 2021-09-28T23:40:00Z
-originalUrl: "https://www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
-webUrl: "https://www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
-ampWebUrl: "https://www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
+excerpt: "Jaipur, Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to deliver benefits to the people and enhance ..."
+publishedDateTime: 2021-09-29T11:35:00Z
+originalUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
+webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
+ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
+cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
 type: article
-quality: 56
+quality: 76
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: cio.economictimes.indiatimes
+  domain: indiatimes.com
 
 topics:
   - Natural Language Processing
   - AI
   - AI in Education
+
+images:
+  - url: "https://etimg.etb2bimg.com/thumb/msid-86606103,imgsize-21820,width-800,height-434,overlay-etcio/vice-president-calls-for-ai-solutions-in-agriculture-health-education.jpg"
+    width: 800
+    height: 434
+    isCached: true
 
 related:
   - title: "AI Innovations In Media And Communications"
@@ -109,6 +115,6 @@ related:
         height: 250
         isCached: true
 
-secured: "u7Bj6do8ETTzyYWQ/cZPgS9zJn+Rbjymz8zvgGQroL4+NlPa++5tGw74X+j5uW/8Z6yhQ2FRVWduRW8rIdpoNJpxWUlomT3HospBl3kTBliqXIOy7MaD/qd7gooxYOAdi6RYIPfZlAROHmbuyjrwe/xdGmXY8L6Pm7YmdF6sxm54AdK2x2aN+0om4UKTAY+RVtj05k6xIDgxG7jwWiKTmKyYLr0qYB+VDOCwQGmwoUL3h15P9OffF6vuAM/ujcW7ZatrZ2izpCeR+fk7A+jJUt4VxUcNU28ExX2erwGav7VqlJ0H0dKErLGjEo7ZcBNlkSU/gpkp6LOpGytajqQQb4M5hGUfmdZaq4APloM7xkM=;LQMUOT0Irx7jEJZxKJZG4A=="
+secured: "LBZaq9twbONUV1yqjJD9jTxEBzg78UhiXqw3HlAh9WbCTUxfOidEdfh9ZNYzFXMsDL0l8HNFlw8qqdQi7InbMdMXeQBvpx6eGvq9o5OKzz6MqdykgrH7pXerE2YBl4tRfsN3rLalJ8k0nY25knhAiFh46BtBJB3IyxVwBh60w7AnpcmL0LE53XNWCAdbklX1CQrN9dVKcNwjVmm7cql1IbDeDyxlcsfcEdqwouJR82Im/A5BMBz1HLDNu/dXcCuSfkvh/VyX/SB5cg4MycXJFnN37W/Cmy0HKquHc4zfvz8WGWd026dIbVtw+Js1W561MzKvwPLEbo8kXyDFuH9QOJ1PRLSrycaUybuDsz65euQ=;DEvgo1/fq87sNqOwl+mntA=="
 ---
 

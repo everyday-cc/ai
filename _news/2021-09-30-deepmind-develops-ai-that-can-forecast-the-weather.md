@@ -105,6 +105,22 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Engineers At Google’s DeepMind Have Come Up With A New Way To ‘Nowcast’ Weather"
+    excerpt: "Advertisement Besides making weekly or monthly forecasts, weather models are also used to make hourly predictions that are called nowcasting. This is done by a Google-backed artificial intelligence company DeepMind that is making progress in predicting hourly precipitation."
+    publishedDateTime: 2021-10-02T18:54:00Z
+    webUrl: "https://wonderfulengineering.com/engineers-at-googles-deepmind-have-come-up-with-a-new-way-to-nowcast-weather/"
+    ampWebUrl: "https://wonderfulengineering.com/engineers-at-googles-deepmind-have-come-up-with-a-new-way-to-nowcast-weather/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/engineers-at-googles-deepmind-have-come-up-with-a-new-way-to-nowcast-weather/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 55
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/10/dreamstime_s_183430343.jpg"
+        width: 650
+        height: 392
+        isCached: true
   - title: "DeepMind’s latest trick? Predicting the weather"
     excerpt: "After mastering Go and StarCraft, DeepMind is taking its AI into another challenging arena: predicting the weather. The Alphabet-owned company has been quietly working with the Met Office over the past few years,"
     publishedDateTime: 2021-09-29T15:01:00Z

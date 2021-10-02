@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-09-20-ntsb-critical-of-teslas-full-self-driving-upgrade-misleading-and-irresponsible.md",
+      "title": "NTSB critical of Tesla’s ‘Full Self-Driving’ upgrade: ‘misleading and irresponsible’",
+      "excerpt": "Tesla Inc. is readying a major upgrade of its driver-assistance software. The country’s top crash investigator says the move may be premature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/ntsb-critical-of-teslas-full-self-driving-upgrade-misleading-and-irresponsible-11632085619?mod=sue-chang",
+      "originalUrl": "https://www.marketwatch.com/story/ntsb-critical-of-teslas-full-self-driving-upgrade-misleading-and-irresponsible-11632085619?mod=sue-chang",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-367838/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-19T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-19-pentagon-shapes-future-war-advanced-ai-enables-integrated-attacks-in-matter-of-seconds.md",
       "title": "Pentagon Shapes Future War: Advanced AI Enables Integrated Attacks in Matter of Seconds",
       "excerpt": "By Security Television Network, Author: by Kris Osborn, Warrior Maven Click here for updates on this story September 18, 2021 (Security Television Network) — (Washington, D.C.) The Army’s “Project Convergence,",
@@ -1120,40 +1172,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-artificial-intelligence-market-to-grow-at-a-cagr-of-245-by-2030-tmr.md",
-      "title": "Artificial Intelligence Market to grow at a CAGR of ~24.5% by 2030 – TMR",
-      "excerpt": "Transparency Market Research delivers key insights on the global artificial intelligence market. In terms of revenue, the global artificial intelligence market is estimated to expand at a CAGR of ~ 29% during the forecast period,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-by-2030-tmr/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-by-2030-tmr/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-by-2030-tmr/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-by-2030-tmr/?amp=1",
-      "publishedDateTime": "2021-09-17T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

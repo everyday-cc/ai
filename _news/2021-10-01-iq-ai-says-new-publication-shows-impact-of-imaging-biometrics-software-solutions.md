@@ -9,7 +9,7 @@ ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/961962"
 cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/961962"
 type: article
 quality: 52
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/13132346/airport-facial-recognition-masks.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Biometrics providers stake out facial recognition, fingerprint sensor market positions"
+    excerpt: "Interoperability of digital wallets and health passes, smart city biometrics, inclusive national digital ID systems among the most read news topics this week."
+    publishedDateTime: 2021-10-02T18:04:00Z
+    webUrl: "https://www.biometricupdate.com/202110/biometrics-providers-stake-out-facial-recognition-fingerprint-sensor-market-positions"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 31
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/01/04154638/BNP-Paribas-biometric-payment-cards.jpeg"
+        width: 1100
+        height: 733
         isCached: true
   - title: "Amazon unveils series of face and voice biometrics updates"
     excerpt: "Amazon has a series of new updates focusing on the biometric capabilities of some of its hardware products, as well as on the company’s AWS marketplace."
