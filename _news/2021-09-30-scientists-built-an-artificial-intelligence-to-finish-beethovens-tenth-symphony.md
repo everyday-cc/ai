@@ -70,6 +70,20 @@ related:
         width: 1830
         height: 957
         isCached: true
+  - title: "Team uses AI to complete Beethoven's unfinished masterpiece"
+    excerpt: "There is no overstating the German composer's influence on Western music, with enduring classics ranging from his epic \"Ode To Joy\"... (SOUNDBITE OF LUDWIG VAN BEETHOVEN'S \"ODE TO JOY\") MARTIN: ...To his heroic \"Third"
+    publishedDateTime: 2021-10-03T20:34:00Z
+    webUrl: "https://www.knau.org/post/team-uses-ai-complete-beethovens-unfinished-masterpiece"
+    type: article
+    provider:
+      name: KNAU Arizona Public Radio
+      domain: knau.org
+    quality: 37
+    images:
+      - url: "https://www.knau.org/sites/knau/files/201908/knau_blanklogo.png"
+        width: 432
+        height: 216
+        isCached: true
   - title: "Beethoven's 10th symphony is finished 194 years after his death - by artificial intelligence that used just 250 surviving bars of notes"
     excerpt: "Beethoven's 10th symphony has been completed 194 years after his death by a computer that recreated two movements running to 40 minutes in length."
     publishedDateTime: 2021-10-01T23:57:00Z

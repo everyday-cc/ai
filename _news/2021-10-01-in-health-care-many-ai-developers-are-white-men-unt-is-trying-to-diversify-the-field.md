@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "This Healthcare Company Is Using AI to Develop Drugs"
+    excerpt: "L ife sciences company Schrödinger (NASDAQ: SDGR) has developed software that could help drug companies develop medicine using artificial intelligence and physics, and it's already being used by a number of big-name pharma companies."
+    publishedDateTime: 2021-10-03T12:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?time=1633263301"
+    ampWebUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
   - title: "How AI deployment is changing the game of healthcare ecosystem"
     excerpt: "While deployment of intelligent bots in healthcare sector, has many beneﬁts and futuristic possibilities, Ayush Verma, Practice Lead, AI & ML and Shveta Raina AVP, Communication & People Strategy, Avizva point out that most healthcare providers refuse to let go of legacy systems and resist adapting."
     publishedDateTime: 2021-10-01T06:17:00Z
@@ -43,19 +54,19 @@ related:
         width: 750
         height: 400
         isCached: true
-  - title: "Demystifying the Complexity of Enterprise AI Deployment"
-    excerpt: "We’re sitting on the cusp of artificial intelligence (AI) innovation. Consulting organizations like McKinsey and PwC claim that AI is a multi-trillion dollar business opportunity."
-    publishedDateTime: 2021-10-02T16:49:00Z
-    webUrl: "https://www.linkedin.com/pulse/demystifying-complexity-enterprise-ai-deployment-abhishek-nigam-1f"
+  - title: "Health2047’s new company plans to use AI, research access to improve clinical decision making"
+    excerpt: "Called RecoverX, the company will leverage AI to mine evidence-based research, medical charts, patient conversations and test results and provide clinical insights for clinicians in real time."
+    publishedDateTime: 2021-10-01T16:50:00Z
+    webUrl: "https://medcitynews.com/2021/10/health2047s-new-company-plans-to-use-ai-research-access-to-improve-clinical-decision-making/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 26
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQF_Ug79f2a2hQ/article-cover_image-shrink_720_1280/0/1633147479988?e=1639008000&v=beta&t=bxYdpZ_eTV6FnFiEil0SRgCz8BNlwpEWyyyqMa74W2g"
-        width: 1080
-        height: 720
+      - url: "https://medcitynews.com/uploads/2019/02/GettyImages-864483382.jpg"
+        width: 724
+        height: 483
         isCached: true
 
 secured: "i7rC3twrHm5x++bKtc2P/2mmUFxWwaTKH76WUbZzWgpL9SngUS2PEcGVjSrIeqHx6VxDC0G4kVotCQrmExoJh3YfGXvmRt0oX+bjFEcUIIN8tQJLh9mYGlttbVnSc/Mmw2/kOg6JPTLGpJRACNklF0uY0HI7/hdr/oPWCC7Ykf4rMdBCCRSLMaYBDtrt+3nEXkqqyWmsFLvuMe7g/lHX5AnXfKeYycIu0OOBtUj+APZ096Yj4iupFBi5/pOg47twPnlYvQbVkvOhDt6ONgqo3W5AJp6Tm8nvaJcKyqCc8p0HrI8CXc4NL0/SjNF8ZcKulmImz/mXiXcbMnJIPUzGP6kibk2OWEmuvUB5tA2ZOsw=;G18e+xRDssyh1Rr/3NP5ww=="

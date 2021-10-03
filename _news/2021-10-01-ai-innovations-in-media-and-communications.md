@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Best AI and machine learning innovation: GBG"
-    excerpt: "In this area, machine learning can play a part in identifying and mapping out new patterns, tracking highly suspicious activities and known fraud better than a traditional rules-based engine. Dev Dhiman,"
-    publishedDateTime: 2021-09-29T03:15:00Z
-    webUrl: "https://www.risk.net/awards/7875601/best-ai-and-machine-learning-innovation-gbg"
-    type: article
-    provider:
-      name: Risk
-      domain: risk.net
-    quality: 54
-    images:
-      - url: "https://www.risk.net/sites/risk/files/styles/metatag_image/public/2021-09/GBG-Dev-Dhiman.gif?itok=6dd5ALUI"
-        width: 378
-        height: 234
-        isCached: true
   - title: "NASSCOM CoE-IoT and AI Evangelizes Digital Healthcare Solutions through Healthcare Innovation Challenge-2"
     excerpt: "A grand finale event with the announcement of winners today marked the end of first phase and start of next phase focusing on deployment of solutions of Healt"
     publishedDateTime: 2021-09-30T13:55:00Z

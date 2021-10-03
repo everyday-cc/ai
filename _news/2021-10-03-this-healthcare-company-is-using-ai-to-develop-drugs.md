@@ -1,0 +1,73 @@
+---
+category: news
+title: "This Healthcare Company Is Using AI to Develop Drugs"
+excerpt: "L ife sciences company Schrödinger (NASDAQ: SDGR) has developed software that could help drug companies develop medicine using artificial intelligence and physics, and it's already being used by a number of big-name pharma companies."
+publishedDateTime: 2021-10-03T12:15:00Z
+originalUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?time=1633263301"
+webUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?time=1633263301"
+ampWebUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp"
+type: article
+quality: 84
+heat: 114
+published: true
+
+provider:
+  name: Nasdaq
+  domain: nasdaq.com
+
+topics:
+  - AI
+  - AI in Healthcare
+
+related:
+  - title: "How AI deployment is changing the game of healthcare ecosystem"
+    excerpt: "While deployment of intelligent bots in healthcare sector, has many beneﬁts and futuristic possibilities, Ayush Verma, Practice Lead, AI & ML and Shveta Raina AVP, Communication & People Strategy, Avizva point out that most healthcare providers refuse to let go of legacy systems and resist adapting."
+    publishedDateTime: 2021-10-01T06:17:00Z
+    webUrl: "https://www.expresshealthcare.in/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/"
+    ampWebUrl: "https://www.expresshealthcare.in/amp/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/"
+    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/"
+    type: article
+    provider:
+      name: expresshealthcare
+      domain: expresshealthcare.in
+    quality: 74
+    images:
+      - url: "https://cdn.expresshealthcare.in/wp-content/uploads/2021/10/01121218/EH_Ayush-Verma_Shveta-Raina_Avizva_750.jpg"
+        width: 750
+        height: 400
+        isCached: true
+  - title: "In health care, many AI developers are white men. UNT is trying to diversify the field"
+    excerpt: "NIH has awarded $100 million to UNT’s Health Science Center to lead a project to train a more diverse artificial intelligence workforce."
+    publishedDateTime: 2021-10-01T13:45:00Z
+    webUrl: "https://www.star-telegram.com/news/local/crossroads-lab/article254627992.html"
+    ampWebUrl: "https://amp.star-telegram.com/news/local/crossroads-lab/article254627992.html"
+    cdnAmpWebUrl: "https://amp-star--telegram-com.cdn.ampproject.org/c/s/amp.star-telegram.com/news/local/crossroads-lab/article254627992.html"
+    type: article
+    provider:
+      name: Fort Worth Star-Telegram
+      domain: star-telegram.com
+    quality: 51
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998025001/2340e14e-4f45-4695-9892-84dcbc329c46/72b75ebd-71db-476e-b439-8f39c1841709/1280x720/match/image.jpg"
+        width: 1280
+        height: 717
+        isCached: true
+  - title: "Health2047’s new company plans to use AI, research access to improve clinical decision making"
+    excerpt: "Called RecoverX, the company will leverage AI to mine evidence-based research, medical charts, patient conversations and test results and provide clinical insights for clinicians in real time."
+    publishedDateTime: 2021-10-01T16:50:00Z
+    webUrl: "https://medcitynews.com/2021/10/health2047s-new-company-plans-to-use-ai-research-access-to-improve-clinical-decision-making/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 26
+    images:
+      - url: "https://medcitynews.com/uploads/2019/02/GettyImages-864483382.jpg"
+        width: 724
+        height: 483
+        isCached: true
+
+secured: "8fHmK2oVAijWJNWiL5ECmrLxMV0QHCgxVwiQMKI41LBGxYesEoMGn2QXKeQkmTH8zVoYNeYSNpAKIiWKE+cb3l9kKHln7M8zeJVNnD4x0sA0W5rTqfsq0pcQ/BodmD4IO7gbeWKtEwup7XaRPvrgHcKtRD1Rei4tr2NlRUJbtTR+0ak60EgJr2IrFU/vOnyiu0PGD+liIhhjze/pvtJ9VWu7oG/NSUebl5qL71F8oSWlcvpmzCyi1kXSwnVQwYmKOOrHlfHwxMf4sM4kRD9ZqzE4kZxMFtGVvm+7AZypccIyH6Tg+zjLgQQAIrZiVHQAqkUsOZ/Vj6URs4U7nKx6lHy3g64cLV8Gp0oQOv1NtJE=;8rnusvzHZlBgnzho/3SW0A=="
+---
+

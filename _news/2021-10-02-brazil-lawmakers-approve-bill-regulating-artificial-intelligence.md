@@ -35,21 +35,7 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
-  - title: "AI startup is the only Brazilian in a major technology event in the US"
-    excerpt: "KubeCon, one of the largest conferences on open source technologies in the world, this year will feature the participation of the Brazilian startup 4intelligence, which develops artificial intelligence solutions for companies."
-    publishedDateTime: 2021-09-29T03:10:00Z
-    webUrl: "https://www.clarepeople.com/5036-ai-startup-is-the-only-brazilian-in-a-major-technology-event-in-the-us/"
-    type: article
-    provider:
-      name: The Clare People
-      domain: clarepeople.com
-    quality: 37
-    images:
-      - url: "https://www.clarepeople.com/wp-content/uploads/2021/09/5036-ai-startup-is-the-only-brazilian-in-a-major-technology-event-in-the-us-780x470.jpeg"
-        width: 780
-        height: 470
-        isCached: true
 
-secured: "Is//2eZ2c6hsTBigL52nb401hYHE4hoGsWNSX/vwEJ1Fv1ICEemfvYlwbLB31t1vOWLWSQrUsJ35Way9Tp0FxZ8L+QL0oufoAc6G4TTYS0BTwRS/R76xGzjIWstZyF77uh1KRH/XV4VjisLUPZvoJxoRKfw9K142dICJJOSRq90nmPXkjEZBRc4eDoZ4bi3XljUWnn8iHmdviCKrqCQeVArogeGiNipa3GbyCSoUHx091qKtNuNSaqSZL71q3uegxNuOaqPmOKGsmzGdyKMs/ziinQkMpo0OO2QCL5/FFJCbV8zRBJI1/vT52Qn6G05kZISVQsfIVQjuMgDYMG6gHvPAJasZj93SltF3qq92MBM=;RJCXTopBfpsQrt8gL1pMTw=="
+secured: "eGSqDG1kQIs4/hBnm4GXJcD86p0pP+r66SGTbWqOjAJumuG569gxlTfCHDzSVnkfoNt8tc/us0r9RENPPo7svNBP+X+irZkjgkzVQd06cG2VPSXQUUMAunjIeoqMCQed1zrsp9QGBIiQ5q1q6jBzR2tNP5/UbdKxte3QsQLuFesZunwDqVick6nGFUcvL9vCRl0g43HW/oSqKEkyM8Y2CiTKmr9uLzU+LnDFIFdPTh6qLcpSqnh2ZGHeiuUvLdFMKIcutEsjAyGEZEl4OGJUpspxApMQPJXTQPrroihELgHqEFWM5XG0EMVoFDhCuGq+SwO3GiwCONaiTLKq8yU/+Jri27nry7ugp+DKU70h36KlXO1Vi1SAe3JWmJ0FMURtLwUBVIqcT3GBFqZingJypy/tVdy7GHqaX4sNnwUtydeFPRXUx8RJs77pMSkjI+GVSam0J4alhzqhQEXCDaFw8DV+NxtD2hcXO6J3HaHrmyPSX/KFZ8M1H5EUCzJLYmg3EXwtz26lkSs2iLMcSHuF4g==;jUzUbD5HRPnpgUOhzmpC2w=="
 ---
 

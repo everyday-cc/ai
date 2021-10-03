@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/legal-framework-for-artific
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/legal-framework-for-artificial-intelligence-advances-in-brazil/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -24,20 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "AI startup is the only Brazilian in a major technology event in the US"
-    excerpt: "KubeCon, one of the largest conferences on open source technologies in the world, this year will feature the participation of the Brazilian startup 4intelligence, which develops artificial intelligence solutions for companies."
-    publishedDateTime: 2021-09-29T03:10:00Z
-    webUrl: "https://www.clarepeople.com/5036-ai-startup-is-the-only-brazilian-in-a-major-technology-event-in-the-us/"
-    type: article
-    provider:
-      name: The Clare People
-      domain: clarepeople.com
-    quality: 37
-    images:
-      - url: "https://www.clarepeople.com/wp-content/uploads/2021/09/5036-ai-startup-is-the-only-brazilian-in-a-major-technology-event-in-the-us-780x470.jpeg"
-        width: 780
-        height: 470
-        isCached: true
   - title: "Brazil lawmakers approve bill regulating artificial intelligence"
     excerpt: "Brazil's House of Representatives has approved a bill that sets out legal regulations for artificial intelligence (AI). Bill No. 21/20 outlines guidelines to develop and utilize AI in Brazil. The"
     publishedDateTime: 2021-10-02T12:20:00Z

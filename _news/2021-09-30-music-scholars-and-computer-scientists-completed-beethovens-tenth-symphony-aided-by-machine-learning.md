@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91493-music-scholars-computer-scie
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91493-music-scholars-computer-scientists-completed-beethoven-tenth-symphony.html"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.wbaa.org/sites/wbaa/files/202004/logo_white_transparentdropshadow.png"
         width: 1830
         height: 957
+        isCached: true
+  - title: "Team uses AI to complete Beethoven's unfinished masterpiece"
+    excerpt: "There is no overstating the German composer's influence on Western music, with enduring classics ranging from his epic \"Ode To Joy\"... (SOUNDBITE OF LUDWIG VAN BEETHOVEN'S \"ODE TO JOY\") MARTIN: ...To his heroic \"Third"
+    publishedDateTime: 2021-10-03T20:34:00Z
+    webUrl: "https://www.knau.org/post/team-uses-ai-complete-beethovens-unfinished-masterpiece"
+    type: article
+    provider:
+      name: KNAU Arizona Public Radio
+      domain: knau.org
+    quality: 37
+    images:
+      - url: "https://www.knau.org/sites/knau/files/201908/knau_blanklogo.png"
+        width: 432
+        height: 216
         isCached: true
   - title: "Scientists Built an Artificial Intelligence to Finish Beethoven’s Tenth Symphony"
     excerpt: "We don't know what Beethoven meant to do for his unfinished 10th Symphony. But what if we could plug his music into an AI to figure it out?"

@@ -42,15 +42,6 @@ related:
         width: 550
         height: 450
         isCached: true
-  - title: "Beenext co-leads $48m round of Indian healthtech startup"
-    excerpt: "MFine, an Indian digital health startup, has raked in US$48 million in a series C round co-led by Singapore venture capital firm Beenext and US-based Moore Strategic Ventures. the Indian firm’s existing investors,"
-    publishedDateTime: 2021-09-29T04:39:00Z
-    webUrl: "https://www.techinasia.com/beenext-coleads-48m-round-mfine"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 32
 
 secured: "igQjb//ffeXHqrFRS4g/Ki+WbqfGMbjI217o+ZV1EYI+Ucfs8RZsoi5mQIy8GyH1pcctaNkW0s5V9m1mLI0xGmwEL6Dg/ijWHKPb1i0yWVllsopSl8bkz0epHRZhA6fGFF8XiacrxqTfZkb0nn7LRhd6rbfI93flQFl131a5R+Xi/vQfxaZYu9mUUDc9Ju188wPxYYE57xYF/tyeDgXKqs1CDEJGRizvAolT+eAXI2d1YHTbrfCmLhs4HxHu1ZhsG+ap0qWTEuU10wROTRz5N8cm13oo1Hn/pJmWgJEhy4MRnsHCS2WvMQrpnFItZckwBYhYI0sJ/kHxf8LKYZqeRDKB1b2VT3+SOILSEF4rZj8=;WNkdzfHXjNUgc6F9FLLihg=="
 ---

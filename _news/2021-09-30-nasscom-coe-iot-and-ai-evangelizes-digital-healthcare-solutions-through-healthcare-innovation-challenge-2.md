@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Best AI and machine learning innovation: GBG"
-    excerpt: "In this area, machine learning can play a part in identifying and mapping out new patterns, tracking highly suspicious activities and known fraud better than a traditional rules-based engine. Dev Dhiman,"
-    publishedDateTime: 2021-09-29T03:15:00Z
-    webUrl: "https://www.risk.net/awards/7875601/best-ai-and-machine-learning-innovation-gbg"
-    type: article
-    provider:
-      name: Risk
-      domain: risk.net
-    quality: 54
-    images:
-      - url: "https://www.risk.net/sites/risk/files/styles/metatag_image/public/2021-09/GBG-Dev-Dhiman.gif?itok=6dd5ALUI"
-        width: 378
-        height: 234
-        isCached: true
   - title: "The Scope of Artificial intelligence in India"
     excerpt: "Artificial intelligence (AI) has transformed the world of technology. This is the reason why AI investment is increasing. Keep reading to learn about what is the current situation of our country as far as AI is concerned,"
     publishedDateTime: 2021-10-02T08:30:00Z
