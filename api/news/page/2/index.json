@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-01-mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi.md",
+      "title": "Mega summit on artificial intelligence (AI) held in Vigyan Bhawan, New Delhi",
+      "excerpt": "PTI takes no editorial responsibility for the same.) The second edition of the Global Artificial Intelligence Summit & Awards (GAISA), was a two day event, where companies were felicitated for their pioneering work, in the field of AI. New Delhi ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/newsscroll/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "originalUrl": "https://www.outlookindia.com/newsscroll/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "publishedDateTime": "2021-10-01T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-intel-advances-neuromorphic-with-loihi-2-new-lava-software-framework.md",
+      "title": "Intel advances neuromorphic with Loihi 2, new Lava software framework",
+      "excerpt": "Intel has introduced Loihi 2, its second-generation neuromorphic research chip, and Lava, an open-source software framework for developing neuro-inspired applications. Their introduction signals Intel's ongoing progress in advancing neuromorphic technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.intel.com/content/www/us/en/newsroom/news/intel-unveils-neuromorphic-loihi-2-lava-software.html",
+      "originalUrl": "https://www.digitimes.com/news/a20211001PR200.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.intel.com/content/dam/www/public/us/en/newsroom/posts/galleries/2021-09-30-loihi-2/intel-loihi-2-1-16x9.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-01T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-01-honda-sets-its-sights-on-an-evtol-telepresence-robot-and-space-tech.md",
       "title": "Honda sets its sights on an eVTOL, telepresence robot and space tech",
       "excerpt": "Honda has laid out new technologies it plans to pursue in the coming decades. Building on current areas of expertise, the company will look to develop an eVTOL for inter-city transport, a robot that will act as an avatar for users to perform tasks remotely,",
@@ -932,6 +1018,48 @@
       ]
     },
     {
+      "path": "_news/2021-09-30-recent-merger-unites-artificial-intelligence-management-platform-companies.md",
+      "title": "Recent Merger Unites Artificial Intelligence, Management Platform Companies",
+      "excerpt": "UNU, an artificial intelligence ag tech company, has acquired Artemis, an enterprise Cultivation Management Platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.greenhousegrower.com/technology/recent-merger-unites-artificial-intelligence-management-platform-companies/",
+      "originalUrl": "https://www.greenhousegrower.com/technology/recent-merger-unites-artificial-intelligence-management-platform-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.greenhousegrower.com/greenhousegrow/wp-content/uploads/2021/09/iUNU.jpg",
+          "width": 896,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.greenhousegrower.com/technology/recent-merger-unites-artificial-intelligence-management-platform-companies/?amp",
+      "cdnAmpWebUrl": "https://www-greenhousegrower-com.cdn.ampproject.org/c/s/www.greenhousegrower.com/technology/recent-merger-unites-artificial-intelligence-management-platform-companies/?amp",
+      "publishedDateTime": "2021-09-30T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Greenhouse Grower",
+        "domain": "greenhousegrower.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond.md",
       "title": "Semiconductor Stocks That Stand To Gain Through The Chip Shortage And Beyond",
       "excerpt": "Our theme on Stocks That Benefit From The Semiconductor Shortage, which includes companies that produce machinery and tools for chipmaking and semiconductor players with their own fab capacity, has returned about 26% year-to-date,",
@@ -1085,159 +1213,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-ais-push-to-understand-psychiatry-research-has-the-potential-to-tackle-mental-illness.md",
-      "title": "AI's push to understand psychiatry research has the potential to tackle mental illness",
-      "excerpt": "Psychiatry researchers are using AI to tackle mental illness, with the goal of creating more effective and personalized treatment plans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-ai-is-advancing-psychiatry-medicine-to-tackle-mental-illness-2021-9",
-      "originalUrl": "https://www.businessinsider.com/how-ai-is-advancing-psychiatry-medicine-to-tackle-mental-illness-2021-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ff8a8fabde805001980beed?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/how-ai-is-advancing-psychiatry-medicine-to-tackle-mental-illness-2021-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-is-advancing-psychiatry-medicine-to-tackle-mental-illness-2021-9?amp",
-      "publishedDateTime": "2021-09-30T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-blue-prism-investor-coast-to-reject-15-billion-vista-takeover.md",
-      "title": "Blue Prism Investor Coast to Reject $1.5 Billion Vista Takeover",
-      "excerpt": "Coast Capital plans to vote against Vista Equity Partners’s 1.1 billion-pound ($1.5 billion) bid for U.K. automation software developer Blue Prism Group Plc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-09-30/coast-to-vote-against-blue-prism-deal-slams-rushed-process",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-30/coast-to-vote-against-blue-prism-deal-slams-rushed-process",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilxTf6AP_6us/v0/1200x565.jpg",
-          "width": 1200,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-tasqai-promising-faster-data-annotation-for-ai-development-raises-4m.md",
-      "title": "Tasq.ai, promising faster data annotation for AI development, raises $4M",
-      "excerpt": "Tasq.ai announces its $4M seed round, offering a unique value perspective in data annotation for AI developers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/30/tasq-ai-promising-faster-data-annotation-for-ai-development-raises-4m/",
-      "originalUrl": "https://venturebeat.com/2021/09/30/tasq-ai-promising-faster-data-annotation-for-ai-development-raises-4m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1295429677-1-e1629146386206.jpg?fit=800%2C560&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/30/tasq-ai-promising-faster-data-annotation-for-ai-development-raises-4m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/30/tasq-ai-promising-faster-data-annotation-for-ai-development-raises-4m/amp/",
-      "publishedDateTime": "2021-09-30T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

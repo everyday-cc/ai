@@ -47,7 +47,7 @@ related:
   - title: "North Korea develops translator using AI technology: propaganda website"
     excerpt: "North Korea has developed an artificial intelligence-based translation program with enhanced speed and accuracy, a propaganda outlet reported Sunday. DPRK Today, a propaganda website, carried a report introducing the research result of the AI institute of Kim Il-sung University on the creation and introduction of Ryongma,"
     publishedDateTime: 2021-10-03T01:09:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/nation/2021/10/103_316380.html"
+    webUrl: "https://www.koreatimes.co.kr/www/nation/2021/10/103_316380.html?fl"
     ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316380"
     cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316380"
     type: article

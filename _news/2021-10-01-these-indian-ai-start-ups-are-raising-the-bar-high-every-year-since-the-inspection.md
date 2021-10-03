@@ -116,15 +116,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "S. 2551, Artificial Intelligence Training for the Acquisition Workforce Act"
-    excerpt: "Artificial Intelligence (AI) allows computer systems to perform tasks that require human intelligence. S. 2551 would require the Office of Management and Budget (OMB) to establish a training program to provide federal procurement officials with an introductory understanding of the operational benefits and privacy risks of AI."
-    publishedDateTime: 2021-09-28T20:05:00Z
-    webUrl: "https://www.cbo.gov/publication/57513"
-    type: article
-    provider:
-      name: Congressional Budget Office
-      domain: cbo.gov
-    quality: 30
 
 secured: "ePL72SwEevRO/E7SZnyUWAXUvjVq+v7pWCDgXK5voK/FH2qah7AIH10ZN4XP/i67vYzCSnopnN0qg7cnAHyuvzRWmyD6rnsqWVs/vIWN8BwF+LBA4CopSE4LBu2t7IkuwFlFgxFAsEoDNQ0HpsjzeHcJe1Fq5QiLmsNWmKG4YCBV8KOiSk/Vrk5Ee6kPXNiauFPklq5xh50fgT3xlJ7QHYbnyjyVkPyqth+lOvgSHbekpKfcengAUXTsTwsLcypeibJkLTYPPVQ+GPeObB0E1PqFhR0SZOEtuGXiVD5q0TLTCw0X95qDdFsGDMLg0Y8jFn6UZcG7iTqQ543/rDQp+vqcx5dyWGN+Xqvw9shnCXrMOKjwtTrkGvXBZ+lo2OA09hRWaonAZz8KDi45jRdJwwBsgG+/XUj2vdAoc3S2cOEoHIk3cwW17dJWnX5jVpzQw9uEJLEDOGsmqAXNK34FBTxN9i3ozoITmnKYmAx0gC7SD5h4dvZn6VVaE/Gy0uPlXqHVg6rc2DF8qK3/XpSvMA==;Sk38yXYwr+foP3iWvd/LTw=="
 ---

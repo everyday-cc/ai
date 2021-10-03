@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision in Healthcare Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2025"
-    excerpt: "The report on the global computer vision in healthcare market provides qualitative and quantitative analysis for the period from 2017 to 2025. The report predicts the global computer vision in healthcare market to grow with a CAGR of 45."
-    publishedDateTime: 2021-09-28T19:42:00Z
-    webUrl: "https://menafn.com/1102880797/Computer-Vision-in-Healthcare-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2025"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_4.jpg?728200"
-        width: 417
-        height: 250
-        isCached: true
   - title: "Facial Recognition Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2025"
     excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Sep 28, 2021, 23:53 /Comserve / -- The report predicts the global facial recognition market to grow with a CAGR of 17.61% over the forecast period from 2019-2025. The report on the global facial recognition market provides qualitative and quantitative analysis for the period from 2017 to 2025."
     publishedDateTime: 2021-09-29T08:46:00Z

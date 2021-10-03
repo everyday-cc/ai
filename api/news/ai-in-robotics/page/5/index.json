@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-03-elon-musk-tesla-making-a-robot-because-robots-are-coming-anyway.md",
+      "title": "Elon Musk: Tesla Making a Robot Because “Robots Are Coming Anyway”",
+      "excerpt": "For years, Tesla CEO Elon Musk has warned us that artificial intelligence is coming for us all. “I’ve been banging this AI drum for a decade,” Musk told Insider last year. He’s even gone as far as saying that AI is more dangerous than nuclear war.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/elon-musk-robots-coming-anyway",
+      "originalUrl": "https://futurism.com/the-byte/elon-musk-robots-coming-anyway",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2021/09/elon-musk-robots-coming-anyway-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/elon-musk-robots-coming-anyway/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/elon-musk-robots-coming-anyway/amp",
+      "publishedDateTime": "2021-09-02T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-09-03-stow-group-acquires-german-startup-raiser-robotics.md",
       "title": "stow Group acquires German startup Raiser Robotics",
       "excerpt": "Group acquired a majority stake in Raiser Robotics, a German-startup that has developed and automated storage and retrieval system.",
@@ -1352,49 +1396,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-meet-the-voice-behind-mg-astors-ai-assistant.md",
-      "title": "Meet the voice behind MG Astor's AI assistant",
-      "excerpt": "One of the highlights of the upcoming MG Astor is the personal AI assistant. MG has now revealed the voice behind this interactive robot.The carmaker has announced that the AI assistant in the upcoming",
-      "sourceUrl": null,
-      "webUrl": "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant",
-      "originalUrl": "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/20210826_174114.jpg",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant?amp",
-      "cdnAmpWebUrl": "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant?amp",
-      "publishedDateTime": "2021-08-26T22:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Team-BHP.com",
-        "domain": "team-bhp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -36,20 +36,6 @@ related:
         width: 442
         height: 250
         isCached: true
-  - title: "Augmented Intelligence Market is Going to Boom with Microsoft, Google, AWS"
-    excerpt: "A Latest intelligence report published by AMA Research with title \"Augmented Intelligence Market Outlook to 2026. A detailed study accumulated to offer Latest insights about acute features of the Global Augmented Intelligence Market."
-    publishedDateTime: 2021-09-28T20:12:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271341702/augmented-intelligence-market-is-going-to-boom-with-microsoft-google-aws"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 54
-    images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/09/824-1632824413.ama-logo.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Artificial Intelligence for Marketing Market Likely to Boost Future Growth by 2026 | IBM, Google, Amazon, Microsoft"
     excerpt: "Advance Market Analytics published a new research publication on Artificial Intelligence for Marketing Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends"
     publishedDateTime: 2021-09-29T10:18:00Z

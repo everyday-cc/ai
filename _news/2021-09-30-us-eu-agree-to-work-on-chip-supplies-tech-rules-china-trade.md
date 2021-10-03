@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/us-eu-launch-consultations-tech
 webUrl: "https://www.reuters.com/technology/us-eu-launch-consultations-tech-regulations-trade-china-2021-09-29/"
 type: article
 quality: 69
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "US, EU launch consultations on tech regulations, chips, China trade"
-    excerpt: "PITTSBURGH/WASHINGTON: US and European Union trade and competition officials launched a new forum on Wednesday joining forces to better compete with China, shield sensitive technologies, boost semiconductor supplies and coordinate regulation of large technology firms."
-    publishedDateTime: 2021-09-29T23:54:00Z
-    webUrl: "https://www.channelnewsasia.com/business/us-eu-launch-consultations-tech-regulations-chips-china-trade-2210611"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--TpYmSaCZ--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-09-29t232146z_1_lynxmpeh8s1dj_rtroptp_3_usa-trade-eu.jpg?itok=LPVWio3o"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "US, EU to work on chip supplies, tech rules"
     excerpt: "WASHINGTON: The United States and European Union (EU) have agreed to deepen transatlantic cooperation to strengthen semiconductor supply chains, curb China’s non-market trade practices and take a more unified approach to regulating big,"
     publishedDateTime: 2021-10-01T01:03:00Z
@@ -117,15 +103,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "U.S., EU launch consultations on tech regulations, chips, China trade"
-    excerpt: "U.S. and European Union trade and competition officials launched a new forum on Wednesday joining forces to better compete with China, shield sensitive technologies, boost semiconductor supplies and coordinate regulation of large technology firms."
-    publishedDateTime: 2021-09-29T14:24:00Z
-    webUrl: "https://news.trust.org/item/20210929162405-vt5nk"
-    type: article
-    provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 19
 
 secured: "aGYgCdvGYZqq+fizdZhx9uw9npHpxu/ZVjySDkCq2eGN6sVHZwZodq/GgXbIpOFGci9nM1f/Pf7+1PCDH9C2uqw7VXcLyRHppIW4xdJoyiG9dXGzQUMR402SKsmWex3zCHXZHg3RrLlRUotYPOcbr/oDBbXv88rV5K6RPuu8dcFWQtZ7hKhFiIV4D1vVNEgAgwax0nanG1PdVDqcFvduX2rbSsEixBg5ey+zsQaIHssFHMKdy/U74XQNtQrnyjYB7ww/ODgdxVQX8bdMEpdM2JQ5IakETl/AoKbJAY4cjR7cWE6+P1nT41blXC65vAsyPmgtzTcwfnjTo5nMNlL5DSbQItOIBZaQXVjfVoSdL+m1xRCSFoC/USQr5fE3067x24NO12AYV8d2fy8NEfsnOCId7avrro3WR01uOznORNRU9DvRAhr+BKasUZ2WjY98pDVTEpnYtzP6ei/X9FMoqqTdglUMDrDO5thV6CaKf48b6c+Sm1T7bPZFKbONbzJOjb0nx3IP5BRqon5FXLwWuA==;v/zGG/rLm+MvDzzr2h8ziA=="
 ---

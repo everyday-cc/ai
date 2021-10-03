@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/science/ai-predict-animal-viruses-likely-inf
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/ai-predict-animal-viruses-likely-infect-humans-study.amp"
 type: article
 quality: 85
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -75,22 +75,6 @@ related:
       - url: "https://vid.alarabiya.net/images/2020/01/07/69dbd27b-0f11-47e5-a814-58f3bb57d05e/69dbd27b-0f11-47e5-a814-58f3bb57d05e_16x9_600x338.jpg"
         width: 600
         height: 338
-        isCached: true
-  - title: "AI could help scientists ID the next virus to jump from animals to humans"
-    excerpt: "In a new proof-of-concept study, published Tuesday in the journal PLOS Biology, researchers suggest artificial intelligence can be used to predict the likelihood that an animal-infecting virus will infect humans."
-    publishedDateTime: 2021-09-28T20:53:00Z
-    webUrl: "https://www.upi.com/Science_News/2021/09/28/scotland-ai-model-zoonotic-virus/3931632855806/"
-    ampWebUrl: "https://www.upi.com/amp/Science_News/2021/09/28/scotland-ai-model-zoonotic-virus/3931632855806/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/09/28/scotland-ai-model-zoonotic-virus/3931632855806/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 56
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/3931632855806/2021/1/16328623692550/v1.5/AI-could-help-scientists-ID-the-next-virus-to-jump-from-animals-to-humans.jpg"
-        width: 700
-        height: 466
         isCached: true
 
 secured: "6tiEUYZQFypslVKvZpcCQDbLAGO8h4OXnYgY1Dq08PUf0XYwjVnUmzL/zQUVOglx4DpYf+IVqrsdMMHs2EgYg4JA89KWdkCdZNp5P21fmcxhRoy+mWTEEoBovgLd7JODKONKF7BWaJ5fxNtVHhhWP+TXVX4yDhwkc3sGEueaitSSnjIYAp8/swLco15c1K9zHMyj3Y+s3QCLCPv8nzpVpdNgAbTYbJmK25JbiXGG0VKLUvFS4JZQ57zMq6QstA2G5xYADKED17BR1BzGiB6pFFd9RlYTv28aTcLcM0Ka+8yMJRYjJbyYxYy2OWRMzR8m1taLIEPBV4PO92+1CgJqZeBuBP4p6zNSeX5l2bnpv1ngKTPMOHLH11lm7lo9Rnwqp69LiAmKMch++Xv56zpQtBjVyY4fWsZP82HWFvuCIEnVNzynE9c9hX7cyI1UhySq4FlikEod4YTMvZaAwPqja75Gr6i95i5dQedt5EJvWDFnrU/6s+LxAV0GhAiBwpOUfa1N75spYjrtPrrXYZcdOA==;CNTEb5jIq1mbiQRfxZMdsg=="

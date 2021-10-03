@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-03-what-we-can-learn-from-chinas-proposed-ai-regulations.md",
+      "title": "What we can learn from China’s proposed AI regulations",
+      "excerpt": "China's guidelines are the most comprehensive effort to date to regulate recommendation systems. They embody both best and worst practices.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/03/what-we-can-learn-from-chinas-proposed-ai-regulations/",
+      "originalUrl": "https://venturebeat.com/2021/10/03/what-we-can-learn-from-chinas-proposed-ai-regulations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/China.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/03/what-we-can-learn-from-chinas-proposed-ai-regulations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/03/what-we-can-learn-from-chinas-proposed-ai-regulations/amp/",
+      "publishedDateTime": "2021-10-03T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-03-researchers-publish-new-datasets-to-better-train-machine-learning-models-for-drug-discovery.md",
       "title": "Researchers publish new datasets to better train machine learning models for drug discovery",
       "excerpt": "Polymorphs are molecules that have different molecular packing arrangements despite identical chemical compositions.",
@@ -180,6 +231,48 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-10-02-kai-fu-lee-the-future-of-artificial-intelligence.md",
+      "title": "Kai-Fu Lee — The Future of Artificial Intelligence",
+      "excerpt": "The extraordinary opportunities—and challenges—presented by artificial intelligence are at the heart of Kai-Fu Lee's new book, AI 2041: Ten Visions for Our Future, a \"scientific fiction\" that sketches 10 possible AI-driven futures that are within the realm of the scientifically possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hks.harvard.edu/events/kai-fu-lee-future-artificial-intelligence",
+      "originalUrl": "https://www.hks.harvard.edu/events/kai-fu-lee-future-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hks.harvard.edu/sites/default/files/about_us/Twitter-Card.png",
+          "width": 840,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-01T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Medical School",
+        "domain": "harvard.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -583,7 +676,7 @@
       "originalUrl": "https://www.foxnews.com/science/ai-predict-animal-viruses-likely-infect-humans-study",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -634,7 +727,7 @@
       "originalUrl": "https://techcrunch.com/2021/10/01/al-gore-puts-600m-into-uk-green-energy-tech-startup-octopus-energy-group/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1083,92 +1176,6 @@
       "provider": {
         "name": "The Free Press Journal",
         "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi.md",
-      "title": "Mega summit on artificial intelligence (AI) held in Vigyan Bhawan, New Delhi",
-      "excerpt": "PTI takes no editorial responsibility for the same.) The second edition of the Global Artificial Intelligence Summit & Awards (GAISA), was a two day event, where companies were felicitated for their pioneering work, in the field of AI. New Delhi ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/newsscroll/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
-      "originalUrl": "https://www.outlookindia.com/newsscroll/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
-      "publishedDateTime": "2021-10-01T00:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-intel-advances-neuromorphic-with-loihi-2-new-lava-software-framework.md",
-      "title": "Intel advances neuromorphic with Loihi 2, new Lava software framework",
-      "excerpt": "Intel has introduced Loihi 2, its second-generation neuromorphic research chip, and Lava, an open-source software framework for developing neuro-inspired applications. Their introduction signals Intel's ongoing progress in advancing neuromorphic technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.intel.com/content/www/us/en/newsroom/news/intel-unveils-neuromorphic-loihi-2-lava-software.html",
-      "originalUrl": "https://www.digitimes.com/news/a20211001PR200.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.intel.com/content/dam/www/public/us/en/newsroom/posts/galleries/2021-09-30-loihi-2/intel-loihi-2-1-16x9.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-01T00:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
         "images": null,
         "publishers": null,
         "authors": null

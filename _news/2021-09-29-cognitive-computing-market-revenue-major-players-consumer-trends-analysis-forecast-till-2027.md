@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Language Services Market Outlook By Industry Size, Share, Revenue, Regions and Top Key Players Analysis"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Sep 28, 2021, 08:33 /Comserve / -- Language Services Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies,"
-    publishedDateTime: 2021-09-28T19:42:00Z
-    webUrl: "https://menafn.com/1102880814/Language-Services-Market-Outlook-By-Industry-Size-Share-Revenue-Regions-and-Top-Key-Players-Analysis"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 8
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?378237"
-        width: 444
-        height: 250
-        isCached: true
   - title: "Global Laser Processing Market Research Report (2021 to 2026) - by Vertical, Configuration, Application and Region"
     excerpt: "The \"Laser Processing Market Research Report by Vertical, by Configuration, by Application, by Region - Global Forecast to 2026 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-09-29T19:24:00Z

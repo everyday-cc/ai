@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-24-mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78c.md",
+      "title": "Mynd Integrated Solutions acquires Artificial Intelligence Platform Move78(c)",
+      "excerpt": "Mynd Integrated Solutions, one of the leading Finance & Accounting (F & A) and HR outsourcing partners for businesses, awarded by NASSCOM in the AI & ML category, has acquired Move78(c)[?] platform fr",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/content/press-releases-ani/mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78-c-121082401358_1.html",
+      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78-c-121082401358_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/24/full/20210824204718.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78-c-121082401358_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78-c-121082401358_1.html",
+      "publishedDateTime": "2021-08-24T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-at-duocon-2021-duolingo-shares-new-ai-powered-tools-and-plans-to-go-beyond-language-learning.md",
       "title": "At Duocon 2021, Duolingo shares new AI-powered tools and plans to go beyond language learning",
       "excerpt": "Founder Luis von Ahn shared a preview of the elementary school-level math app in development and more updates for the local unicorn.",
@@ -1309,50 +1352,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp.md",
-      "title": "UK Regtech Shield Introduces Alert Transparency Capabilities by Leveraging AI, NLP",
-      "excerpt": "UK Regtech firm Shield has introduced Alert Transparency Capabilities by leveraging AI and natural language processing or NLP.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/09/Regtech-in-the-UK-300x222.jpg",
-          "width": 300,
-          "height": 222,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/amp/",
-      "publishedDateTime": "2021-08-12T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

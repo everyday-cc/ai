@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/29/assessing-the-intersection-of-ope
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/assessing-the-intersection-of-open-source-and-ai/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -118,15 +118,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "S. 2551, Artificial Intelligence Training for the Acquisition Workforce Act"
-    excerpt: "Artificial Intelligence (AI) allows computer systems to perform tasks that require human intelligence. S. 2551 would require the Office of Management and Budget (OMB) to establish a training program to provide federal procurement officials with an introductory understanding of the operational benefits and privacy risks of AI."
-    publishedDateTime: 2021-09-28T20:05:00Z
-    webUrl: "https://www.cbo.gov/publication/57513"
-    type: article
-    provider:
-      name: Congressional Budget Office
-      domain: cbo.gov
-    quality: 30
 
 secured: "TSyuc1WFFEMT2468CVINZPLDZBPaiWTZp5Jk0OKCRIQPMuuiTiK4pwpzztyOaTOsaSn4rZcj42G1U3nQetcprsIuxIZFAnNMj9NItT/v/soSIMyafZCM2dYdIB/pVFba5YvlMMUqpZ3zYR0tFew3QehJtmIhfDd+2FBB1IaCTMTjNXEqpSdg1AWvbqmQ7AxrqqnC82HNe/8GR4UO9igblmkn+I974Tl9sCOWvZ+d+0/0iSqRjebFdpAxjWEmm5ukykh+LO9EUDCr4UEYqP2AqPaKHkmXLt70V92xhhPtmfig9CbPISHLkozCro+sEohugSGRgrVJG7fxcmPK54omC8wRo/xuQVsW4yICaRtxZKW5L9wE3h1g5NpL2o64pdM4EQ7NKtc6ZTsrk/mA9zZbvuF4r+WOJPnWQaoBolu3hiEk8jYn9INB1UFLzYCQTmz7Kxhq4Yju3+0DxxmtQvJQyuyPhhO+Sz/J3vZf1skUzCn0tBJvEIZFtpDmyhqxU9g2EhtpuQGTIWoQ5S4q4VsR2w==;d+aKYh0g4h1hz01UvOBUYw=="
 ---

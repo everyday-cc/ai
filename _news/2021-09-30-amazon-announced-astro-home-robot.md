@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Amazon Astro could be the robot we've been waiting for"
-    excerpt: "Inspired by science fiction, cute as a button, capable and smart -- Amazon's $1,000 home robot Astro is here to help."
-    publishedDateTime: 2021-09-28T20:43:00Z
-    webUrl: "https://www.cnet.com/home/smart-home/amazon-astro-could-be-the-robot-weve-been-waiting-for/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-astro-could-be-the-robot-weve-been-waiting-for/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-astro-could-be-the-robot-weve-been-waiting-for/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 104
-    images:
-      - url: "https://www.cnet.com/a/img/1apgttjzwvxskXvt2B8u4qNGCmo=/0x38:2300x1330/1200x630/2021/09/28/4fc6682b-c610-466c-a707-cc906c33fdc5/astro.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Amazon’s Astro Is a Robot Without a Cause"
     excerpt: "Actually, you get Astro, Amazon’s long-rumored home robot. The company has been working on this for nearly four years, and it has plans for Astro. It’s just not quite sure exactly what those are yet,"
     publishedDateTime: 2021-09-28T21:45:00Z
@@ -93,22 +77,6 @@ related:
       - url: "https://www.cnet.com/a/img/nrQga32ASqNPqhWuy9Zbqt9HimI=/647x389:7377x3994/1200x630/2021/09/28/4dcaa407-d125-4473-a62d-b8ba24b4a0a6/hey-disney-echo-show-5-on-white.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Amazon's New Home Robot Astro Just Launched. And It Could Be a Nightmare"
-    excerpt: "After the success of Alexa, Amazon built Astro, a moving assistant, but it reportedly works poorly and will follow people around, recording them."
-    publishedDateTime: 2021-09-29T13:26:00Z
-    webUrl: "https://interestingengineering.com/amazons-new-home-robot-astro-just-launched-and-it-could-be-a-nightmare"
-    ampWebUrl: "https://amp.interestingengineering.com/amazons-new-home-robot-astro-just-launched-and-it-could-be-a-nightmare"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/amazons-new-home-robot-astro-just-launched-and-it-could-be-a-nightmare"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 58
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/Z3G8xm8yGm/sizes/astro-1920_resize_md.png"
-        width: 744
-        height: 419
         isCached: true
   - title: "Amazon Astro AI smart home robot with personality from $1,000"
     excerpt: "The Amazon Astro home robot will be priced at $1,450 but Amazon as part of the Day 1 Editions program is making the Alexa"

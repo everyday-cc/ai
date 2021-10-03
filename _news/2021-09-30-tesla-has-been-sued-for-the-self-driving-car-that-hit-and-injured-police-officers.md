@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla's 'full self-driving' could be days away"
-    excerpt: "A wider group of Tesla owners who paid up to $10,000 for what the company calls its \"full self-driving\" software can now ask the automaker for access to a test"
-    publishedDateTime: 2021-09-28T19:16:00Z
-    webUrl: "https://www.kctv5.com/teslas-full-self-driving-could-be-days-away/article_e0dd71b4-29c3-5227-a521-a04d18076a02.html?block_id=991173"
-    ampWebUrl: "https://www.kctv5.com/teslas-full-self-driving-could-be-days-away/article_e0dd71b4-29c3-5227-a521-a04d18076a02.amp.html"
-    cdnAmpWebUrl: "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/teslas-full-self-driving-could-be-days-away/article_e0dd71b4-29c3-5227-a521-a04d18076a02.amp.html"
-    type: article
-    provider:
-      name: KCTV News
-      domain: kctv5.com
-    quality: 59
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/assets/v3/editorial/6/7d/67dc3e79-764d-55b6-982b-098397367968/61535f5268e0f.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Samsung Will Create Chips For Tesla’s Next-Gen Self-Driving Computer"
     excerpt: "Tesla is expected to source its next-generation chip from Samsung Electronics. The forthcoming Tesla Cybertruck will debut with Tesla’s new Hardware 4 computer and according to The Korea Economic Daily,"
     publishedDateTime: 2021-09-29T18:05:00Z
@@ -126,16 +110,16 @@ related:
   - title: "Tesla's 'full self-driving' feature could be days away for approved drivers"
     excerpt: "A wider group of Tesla owners who paid up to $10,000 for what the company calls its \"full self-driving\" software can now ask the automaker for access to a test"
     publishedDateTime: 2021-09-29T00:30:00Z
-    webUrl: "https://missoulian.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_68c5ee37-8102-5e50-b69b-9a8ef16bf66e.html"
-    ampWebUrl: "https://missoulian.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_68c5ee37-8102-5e50-b69b-9a8ef16bf66e.amp.html"
-    cdnAmpWebUrl: "https://missoulian-com.cdn.ampproject.org/c/s/missoulian.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_68c5ee37-8102-5e50-b69b-9a8ef16bf66e.amp.html"
+    webUrl: "https://tucson.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_2ae10b4b-66de-5c68-9c7c-37af035b122e.html"
+    ampWebUrl: "https://tucson.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_2ae10b4b-66de-5c68-9c7c-37af035b122e.amp.html"
+    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_2ae10b4b-66de-5c68-9c7c-37af035b122e.amp.html"
     type: article
     provider:
-      name: Missoulian
-      domain: missoulian.com
+      name: Arizona Daily Star
+      domain: tucson.com
     quality: 57
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/3/d9/3d93cdde-e179-52a4-864c-30463b5c0339/6153906c76267.image.jpg?resize=1024%2C682"
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/e/46/e4637dd0-9aeb-5452-b24f-a8a50379cbcd/61539075d1f2e.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
         isCached: true

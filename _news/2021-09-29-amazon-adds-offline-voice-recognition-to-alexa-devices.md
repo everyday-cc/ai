@@ -89,20 +89,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "A ‘chief’ recognition: Hailey celebrates top cop"
-    excerpt: "Hailey Mayor Martha Burke, right, set aside a few minutes during Monday’s City Council meeting to honor Hailey Police Chief Steve England, left, for 20 years of service with the"
-    publishedDateTime: 2021-09-28T19:58:00Z
-    webUrl: "https://www.mtexpress.com/wood_river_journal/community/a-chief-recognition-hailey-celebrates-top-cop/article_75f36032-2096-11ec-9acc-f7d7578c27e6.html"
-    type: article
-    provider:
-      name: Idaho Mountain Express
-      domain: mtexpress.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/mtexpress.com/content/tncms/assets/v3/editorial/d/63/d6331b9a-2096-11ec-8eb2-3ff1b6bb0633/615374dd0ad90.image.jpg?resize=865%2C630"
-        width: 865
-        height: 630
-        isCached: true
   - title: "Alexa, don’t share my data: Amazon introduces on-device processing of voice recordings"
     excerpt: "Soon, Amazon customers in the United States of America can choose to have all of their voice commands processed on."
     publishedDateTime: 2021-10-01T05:11:00Z

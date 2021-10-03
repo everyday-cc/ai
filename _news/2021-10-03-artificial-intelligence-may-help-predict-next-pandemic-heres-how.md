@@ -72,22 +72,6 @@ related:
         width: 777
         height: 583
         isCached: true
-  - title: "AI could help scientists ID the next virus to jump from animals to humans"
-    excerpt: "In a new proof-of-concept study, published Tuesday in the journal PLOS Biology, researchers suggest artificial intelligence can be used to predict the likelihood that an animal-infecting virus will infect humans."
-    publishedDateTime: 2021-09-28T20:53:00Z
-    webUrl: "https://www.upi.com/Science_News/2021/09/28/scotland-ai-model-zoonotic-virus/3931632855806/"
-    ampWebUrl: "https://www.upi.com/amp/Science_News/2021/09/28/scotland-ai-model-zoonotic-virus/3931632855806/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/09/28/scotland-ai-model-zoonotic-virus/3931632855806/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 56
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/3931632855806/2021/1/16328623692550/v1.5/AI-could-help-scientists-ID-the-next-virus-to-jump-from-animals-to-humans.jpg"
-        width: 700
-        height: 466
-        isCached: true
 
 secured: "A3cOAHwsHoH8GIZsCYN9vxR+6rkZ3tASvwswABEv/na9fwvTZrI/Hz6P5G7ZUMQ9PVGrzw4+mQm6INtqThg1HbVOVDlurH1Z9QOCjl0DCO9U8JxSol46Cvck+bSFjpulH9We45C8rYpTCm+HlaW2gQ8QfJoaPVdQvND1LbDASu4jzhDSSblaTHdUHXn96CU+X8uuGFM//knks+/dc7MXIi/z1uYIzhQ7ahQIeMY1dpEeJa2HDgh84iddcXPOTH1gt1Z3LGo88ob6ZcPx51WvZnBTsZG7YW0Sm5T+6FUvCHzbTJf+EvMZmzI8Y80SsUvsdYCtYmNIXB5YAj4uI+506fV7CMxNF1ubMSYdpJtVsdY=;ovLfg2djYRzZtwmv/8gNPw=="
 ---

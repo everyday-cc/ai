@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Team uses AI to complete Beethoven's unfinished masterpiece"
-excerpt: "There is no overstating the German composer's influence on Western music, with enduring classics ranging from his epic \"Ode To Joy\"... (SOUNDBITE OF LUDWIG VAN BEETHOVEN'S \"ODE TO JOY\") MARTIN: ...To his heroic \"Third"
-publishedDateTime: 2021-10-03T02:32:00Z
-originalUrl: "https://www.kunm.org/post/team-uses-ai-complete-beethovens-unfinished-masterpiece"
-webUrl: "https://www.kunm.org/post/team-uses-ai-complete-beethovens-unfinished-masterpiece"
+excerpt: "MARTIN: ...And the fantastical \"Moonlight Sonata.\" (SOUNDBITE OF LUDWIG VAN BEETHOVEN'S \"MOONLIGHT SONATA\") MARTIN: But for all the sonatas, concertos and symphonies Beethoven wrote, there remained one piece he never completed."
+publishedDateTime: 2021-10-03T03:06:00Z
+originalUrl: "https://www.wbaa.org/post/team-uses-ai-complete-beethovens-unfinished-masterpiece"
+webUrl: "https://www.wbaa.org/post/team-uses-ai-complete-beethovens-unfinished-masterpiece"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: KUNM
-  domain: kunm.org
+  name: WBAA
+  domain: wbaa.org
 
 topics:
   - AI
+
+images:
+  - url: "https://www.wbaa.org/sites/wbaa/files/202004/logo_white_transparentdropshadow.png"
+    width: 1830
+    height: 957
+    isCached: true
 
 related:
   - title: "Music scholars and computer scientists completed Beethoven's Tenth Symphony aided by machine learning"
@@ -81,6 +87,6 @@ related:
         height: 382
         isCached: true
 
-secured: "JiyJIbb9balYN8Hm/UEg+0ILO4MAaXFBEWIzYPui03lO0/PzUO+iyfEXuCiBBuAXDLzDWleDL5nOrDdJ/j63erGx2AWFrE4mpfEtqmDYpp4uX7GjqCdI8gBsT24SeT9qMH3cWaeh7yc9bCRXBq0gGh4F/fX/bC8J7oCmIyBbIgkhsbEbN9vK3IAr1KGb/euI9hu9t9usk3JvzgY0hw9rQzapa2CjuMbJnhkH5Mmtybj29bcqIY77393LQaDlpZhbpXoNCWVgBWxaMB1Ll487LA/nnOq1aYO4Sa5p0EydnSrMJWzRYDuOysEpp4DZo+rRON/n3udy7EWoNYL1dnamUw3IxcIypX1Q72y9AaFC/aw=;4mcrxnCq87N9UrVUY4xssw=="
+secured: "GTE9uJ2uF4l2wjOWBT+ZxQVbGmyd9bOqecgKlkNTaLWb/CpKuLFaW6Ctyiw2+d4Ms2bJ4rZASd88rwKzxIAx5k6KtBQFbuvjEG1smzYn2lNmZpGtYtGYgy5QFKRsucJ7uCdQD6Eygk086+hSUhXTz5udHwZ7m0oLXQaZAloF3/Qli7/thGG41EQiykcKskryj/VnQ/fm+8zIHak5cN8dYshQihZbP4B10rGgWw3VJhffXBmQ23TwlzKWsusyPIPhKDlW4JN+2fJBsLlo94ht6f/oUAM36mN4/KuquVISE8Q1ONJdkiQXVRW9JNrl25VZa332wgZlNzW3M/IOmaSY00PipR4BnnN/qLIszt8Md8Q=;v2EpO8/TwlR4FeSnYTa4vw=="
 ---
 

@@ -56,6 +56,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Team uses AI to complete Beethoven's unfinished masterpiece"
+    excerpt: "MARTIN: ...And the fantastical \"Moonlight Sonata.\" (SOUNDBITE OF LUDWIG VAN BEETHOVEN'S \"MOONLIGHT SONATA\") MARTIN: But for all the sonatas, concertos and symphonies Beethoven wrote, there remained one piece he never completed."
+    publishedDateTime: 2021-10-03T03:06:00Z
+    webUrl: "https://www.wbaa.org/post/team-uses-ai-complete-beethovens-unfinished-masterpiece"
+    type: article
+    provider:
+      name: WBAA
+      domain: wbaa.org
+    quality: 37
+    images:
+      - url: "https://www.wbaa.org/sites/wbaa/files/202004/logo_white_transparentdropshadow.png"
+        width: 1830
+        height: 957
+        isCached: true
   - title: "Beethoven's 10th symphony is finished 194 years after his death - by artificial intelligence that used just 250 surviving bars of notes"
     excerpt: "Beethoven's 10th symphony has been completed 194 years after his death by a computer that recreated two movements running to 40 minutes in length."
     publishedDateTime: 2021-10-01T23:57:00Z
@@ -72,15 +86,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Team uses AI to complete Beethoven's unfinished masterpiece"
-    excerpt: "There is no overstating the German composer's influence on Western music, with enduring classics ranging from his epic \"Ode To Joy\"... (SOUNDBITE OF LUDWIG VAN BEETHOVEN'S \"ODE TO JOY\") MARTIN: ...To his heroic \"Third"
-    publishedDateTime: 2021-10-03T02:32:00Z
-    webUrl: "https://www.kunm.org/post/team-uses-ai-complete-beethovens-unfinished-masterpiece"
-    type: article
-    provider:
-      name: KUNM
-      domain: kunm.org
-    quality: 17
 
 secured: "jc/d+mqYA8aSTASNXJ/IsalwD5xWkQ6Zdhe+dALFx89BCUoJOTmvz0ZNmx3LY9PbMCCk+CAmFIAdF3uYKjVsy7gYLhBJao5d5QCLBs5FVPOgyq3covy9fdErlAMf9tfBYCaaeByRABhdMlQ6yH23LRvvuKJWbZRGiAJd9JfBoxfd6Q/tQRoDTQ0mw0rG7jAsDKzZbbPlhRKuVGwPOacqKAC6MwsbWZfFohLCEo9cYM7LswjWzFNWuOlDCH44pRE08+e/D5EQRa+st8CkgoUw+EsHDK9w4UF95+AAfBvDc9p9wfHpYRUWFCzetKhZxh+MCGxjsbMk4jSlhQZC6Dyzc2aXvbMavXsVMulbByHbkJY=;wpcryfqW7KRd3v4b6JhwuQ=="
 ---

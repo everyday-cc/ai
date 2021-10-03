@@ -85,20 +85,6 @@ related:
         width: 1240
         height: 827
         isCached: true
-  - title: "US, EU launch consultations on tech regulations, chips, China trade"
-    excerpt: "PITTSBURGH/WASHINGTON: US and European Union trade and competition officials launched a new forum on Wednesday joining forces to better compete with China, shield sensitive technologies, boost semiconductor supplies and coordinate regulation of large technology firms."
-    publishedDateTime: 2021-09-29T23:54:00Z
-    webUrl: "https://www.channelnewsasia.com/business/us-eu-launch-consultations-tech-regulations-chips-china-trade-2210611"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--TpYmSaCZ--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-09-29t232146z_1_lynxmpeh8s1dj_rtroptp_3_usa-trade-eu.jpg?itok=LPVWio3o"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "US, EU to work on chip supplies, tech rules"
     excerpt: "WASHINGTON: The United States and European Union (EU) have agreed to deepen transatlantic cooperation to strengthen semiconductor supply chains, curb China’s non-market trade practices and take a more unified approach to regulating big,"
     publishedDateTime: 2021-10-01T01:03:00Z
@@ -113,15 +99,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "U.S., EU launch consultations on tech regulations, chips, China trade"
-    excerpt: "U.S. and European Union trade and competition officials launched a new forum on Wednesday joining forces to better compete with China, shield sensitive technologies, boost semiconductor supplies and coordinate regulation of large technology firms."
-    publishedDateTime: 2021-09-29T14:24:00Z
-    webUrl: "https://news.trust.org/item/20210929162405-vt5nk"
-    type: article
-    provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 19
 
 secured: "15OmmLSFvaSl+sfi6q8DYhlpixKPRgoTOyh0511zSQEwS2ltmccdUtDLFfxCID+fzFX3cG0GJvPk4hmRkmJhqrrwwfcfPLkJds1IiN+1O7/MJM3T3VAMyI0cEYyc7h03ouaZQqjla79IDmzkO9TnioiD0/AETpAm0qEgK4PSON6hYd/HRtRyaJjK6WPM7In+dTKOTS8VqXmd7CSGkqacpOCtfZLKJqP3pqYQpLfsBNr7ynhD2f/1jiaMtHQsdyTrdSI8xsgbo/pxHxI0M8abYCq8BlG8Wc/PXlgatgrGhjC3zDdHOrOtcbR4ETsrVyEsHNvMc6xp5RyyXzfGwwhWkLIBOEeQxRh2lSrWAd/WcJFLKNtkLKerqADgbs/DQCsTLFDk62A4MmN4+0N9/TwXihQcKSOj9y+k/FVdwkwXG5JImRlQXXyAcXXdM8Tm4/Ak/Ty0GtYI/03iWaW++F/Gs1hUu4CAwa8DI/RHM0aF5h0Zh3Zu72x/z/4L7QMl793sQMrKUm9+IyGCwCNnnCLY7A==;PykHEEvf9Mhdxb8ayFt9NA=="
 ---

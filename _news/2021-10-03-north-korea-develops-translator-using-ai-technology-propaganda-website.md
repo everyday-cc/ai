@@ -3,8 +3,8 @@ category: news
 title: "North Korea develops translator using AI technology: propaganda website"
 excerpt: "North Korea has developed an artificial intelligence-based translation program with enhanced speed and accuracy, a propaganda outlet reported Sunday. DPRK Today, a propaganda website, carried a report introducing the research result of the AI institute of Kim Il-sung University on the creation and introduction of Ryongma,"
 publishedDateTime: 2021-10-03T01:09:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/nation/2021/10/103_316380.html"
-webUrl: "https://www.koreatimes.co.kr/www/nation/2021/10/103_316380.html"
+originalUrl: "https://www.koreatimes.co.kr/www/nation/2021/10/103_316380.html?fl"
+webUrl: "https://www.koreatimes.co.kr/www/nation/2021/10/103_316380.html?fl"
 ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316380"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316380"
 type: article
@@ -100,6 +100,6 @@ related:
         height: 480
         isCached: true
 
-secured: "g/Y0q+fmW6ZtCj/9+ugem/H2KuLvQ64WIRqDjcQDOFHbbYqcfYWgMrFKHtOfxjsXRBemcqfU2O3ZC13BUoSVdbLqhmNjH8yG8H4nCyMJc63dqQtDVY7DICYr/S84w9JeiAUl9fcF8By2T7Eps6qqnBfZG7ZZsgmPKjzAU4ihF4u/6/pmCX+TWeREthYt1FgGI8j3fZMm6tZv6WrbaAwn91JXFxkhdXAT/hYKHlSOocQYa9EpCDJLZ/9/vLDxFUfdwMLKpdZQSGffBCx4cBz2khqgMnBRXgL7ptaonCAlN7E50qOEQWnZrKCs5bsSm1RFvDTa4Xnvjhjo7FD5XSLwOIHFO6dfN65NjSao4sj6iEb+fJMwLlwfT+o3Ovbni3Al5Ua+aqyGrxkMmBVnyJ7m1yY3FysufHAsq+B3FQ5/egaHBfrELwLDAiobIsoqZPP1gPFRqwQjn2u1alDMyANgsIbQPD20AoA+qdr8/vj82c1YMnkXYFBlWq2AUSAK7UWER/XMZ/LQTEKrRtK/xdUCgw==;bQVKDGBEqRaLgezTPNfTzg=="
+secured: "Oa0euV3MMd3KjKHER9QryPbs+S3PbcXXXdG8LpNPq9EvE05ICKXAaJs1ud31oD5/ABPM8qr6OTS0oDuUT+mjVGHokU728TTSKlsNq6Ga93pkYIEZ1jgyH08f6waIuWe4mG2nkd7yUl0TBc8TN8PGbkfHyT8l0S3EvNyXMLGi6CqIgXNeHKE/95vXzIDHL30ySWi030+Z3WZYgoW/NPBOqvWsgcj/Gpute7gQqz5ngUEXtyCOFp7y40HtibHibt64SsMaj1zNKtPvXLVRRoMgyd955PxxsV8I4EeNZJU0L0AgSqjWjolpN/+L02EsKRRKRQpSg3GmsOh9g9MHRykbpO4x6eJwISbqJNUuBo6W+AI=;xIlk614U6oAAGLX/nIrMFg=="
 ---
 

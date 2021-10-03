@@ -84,6 +84,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "The Role of Artificial Intelligence in the Future of Education"
+    excerpt: "Artificial Intelligence is already being widely employed around the world to better our lives, work, health, and everyday routines, among other things. Furthermore, the solution has significant educational potential,"
+    publishedDateTime: 2021-10-02T15:46:00Z
+    webUrl: "https://www.linkedin.com/pulse/role-artificial-intelligence-future-education-yogesh-khandelwal"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG1wh0a0R6i9A/article-cover_image-shrink_720_1280/0/1633189407713?e=1639008000&v=beta&t=qvFzABCXoEoVg9wK4OjX0No9S-1IUKYkvUBAcgs-ids"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "More Organizations Saving Time and Costs on Data Breaches with Automation and AI"
     excerpt: "Cost of a Data Breach report shows, AI and automation can reduce the cost of a data breach. See how organizations with AI security fared in 2021."
     publishedDateTime: 2021-10-01T17:30:00Z

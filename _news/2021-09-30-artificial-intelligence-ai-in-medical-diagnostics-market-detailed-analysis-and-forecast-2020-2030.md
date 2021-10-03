@@ -9,7 +9,7 @@ ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-medical-dia
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-medical-diagnostics-market-detailed-analysis-and-forecast-2020-2030/?amp=1"
 type: article
 quality: 60
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Computer Vision in Healthcare Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2025"
-    excerpt: "The report on the global computer vision in healthcare market provides qualitative and quantitative analysis for the period from 2017 to 2025. The report predicts the global computer vision in healthcare market to grow with a CAGR of 45."
-    publishedDateTime: 2021-09-28T19:42:00Z
-    webUrl: "https://menafn.com/1102880797/Computer-Vision-in-Healthcare-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2025"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_4.jpg?728200"
-        width: 417
-        height: 250
         isCached: true
   - title: "Self-driving Cars and Trucks Market Analysis by Size, Status and Forecast to 2021-2026"
     excerpt: "Latest released Global Self-driving Cars and Trucks Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings, market price,"

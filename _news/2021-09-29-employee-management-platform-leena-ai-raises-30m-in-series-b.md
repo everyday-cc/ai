@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Leena AI Announces $30M Series B round led by Bessemer Venture Partners"
-    excerpt: "Leena AI, the company that's revolutionizing enterprise employee experience, today announced it has raised a $30 million Series B financing round, bringing the company's total amount raised to $40 million."
-    publishedDateTime: 2021-09-28T20:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/leena-ai-announces-30m-series-b-round-led-by-bessemer-venture-partners-1030829114"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://mma.prnewswire.com/media/1637941/Leena_AI_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "SaaS startup Leena AI raises $30 mn from Bessemer Venture Partners, others"
     excerpt: "Funds raised will accelerate product innovation to meet global demand for the platform for new and existing customers"
     publishedDateTime: 2021-09-29T11:44:00Z

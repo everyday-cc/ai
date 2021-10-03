@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-09-power-ai-california-wildfires.am
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-power-ai-california-wildfires.amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: techxplore.com
@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "California Says Self-Driving Vehicles Must be Zero Emission"
-    excerpt: "California Gov. Gavin Newsom has signed legislation that mandates all light-duty autonomous vehicles in the state to produce zero emissions, reports Tech Crunch. The law would take effect in 2030. Click here to read more."
-    publishedDateTime: 2021-09-28T20:28:00Z
-    webUrl: "https://www.glassbytes.com/2021/09/california-says-self-driving-vehicles-must-be-zero-emission/"
-    type: article
-    provider:
-      name: South Carolina Governor
-      domain: glassbytes.com
-    quality: 4
 
 secured: "ZHhctan7jUCJRurUf7h1CxhSPr5DO2iwyRcN1BYEiTjCcU2k25gmGOCyAPpUcJx+qC7S+WtTW1FIKh04ldmZ1WDja0F8e1VCm8Hj+lyIEyMXwpSk6ZtT1EjdIcxkNJyjrhy4iGTZDEpuI9x8cfSlZmB1zwvxUwHG3FoJDqf7M+wasbF1N4mqM6azWquZRzQYnPNWIonhjCDyFa/0Cui6mH8S6bA9B8wHQ7jzlBPbPgI8oWauSrpW7UVf8ZJNUGPIee6yz+NnHQPhFWg+2V+4IIVS0tn9y9GKleqEdjwPAD8mI+RWEkGaCRfbbMDvYTAv+v6ZdtXMTgmtK1psji/qc38SQyNBYxqwZRqyD2xcM9Q=;bWN4kze9ygRldqd1bBBL1A=="
 ---

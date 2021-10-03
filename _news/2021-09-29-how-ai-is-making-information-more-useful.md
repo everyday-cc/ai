@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/products/search/how-ai-making-information-more
 webUrl: "https://blog.google/products/search/how-ai-making-information-more-useful/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://www.forbesindia.com/blog/wp-content/uploads/2021/09/AI-Fintech.jpg"
         width: 900
         height: 600
+        isCached: true
+  - title: "The Role of Artificial Intelligence in the Future of Education"
+    excerpt: "Artificial Intelligence is already being widely employed around the world to better our lives, work, health, and everyday routines, among other things. Furthermore, the solution has significant educational potential,"
+    publishedDateTime: 2021-10-02T15:46:00Z
+    webUrl: "https://www.linkedin.com/pulse/role-artificial-intelligence-future-education-yogesh-khandelwal"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG1wh0a0R6i9A/article-cover_image-shrink_720_1280/0/1633189407713?e=1639008000&v=beta&t=qvFzABCXoEoVg9wK4OjX0No9S-1IUKYkvUBAcgs-ids"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Kore.ai raises $50M for its AI-powered experience optimization platform"
     excerpt: "Startup Kore.ai Inc. today announced that it has raised a $50 million funding round led by Vistara Growth and PNC to fuel the growth of its software platform, which helps companies build artificial intelligence assistants to automate repetitive business tasks."

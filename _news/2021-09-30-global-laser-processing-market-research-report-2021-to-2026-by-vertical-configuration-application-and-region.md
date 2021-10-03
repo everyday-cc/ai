@@ -55,20 +55,6 @@ related:
         width: 674
         height: 450
         isCached: true
-  - title: "Language Services Market Outlook By Industry Size, Share, Revenue, Regions and Top Key Players Analysis"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Sep 28, 2021, 08:33 /Comserve / -- Language Services Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies,"
-    publishedDateTime: 2021-09-28T19:42:00Z
-    webUrl: "https://menafn.com/1102880814/Language-Services-Market-Outlook-By-Industry-Size-Share-Revenue-Regions-and-Top-Key-Players-Analysis"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 8
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?378237"
-        width: 444
-        height: 250
-        isCached: true
 
 secured: "4lrIfmd4fc8ezIy/WQMEnj5nKM3IlQT97gHShoS9dhVdCFWQvYwRe8nXB2uy69gxdvNtkDl5O9GAQDC2H6C/++SXDu/uT77nMWNqH52BE0gLVXWGU5JNxsdTug0+YsdkERBoT3M6rEYyyXO6Ox2/ZZilHHXgHcUyzmidmTDEyF4ScpjntSDc/4UYJsoN7rm2lYVhMa1f+I0Vtg9vVD5KbWyTJbwVmw65B4uCoGEUMDEf6/lerXX+PRDGMg341qcK+5CF+e3vs1EQfIJspEp/kJ/6ifOSuCFURTUlhxbiLmDBfimwop4uHdq+YKJYDbvwBOQmeJMyXio8xmhk6FM13zGZV8GP2XKSzRkHhBjCBh4=;+OfqxEYK8Ecqk13VxyZkTg=="
 ---
