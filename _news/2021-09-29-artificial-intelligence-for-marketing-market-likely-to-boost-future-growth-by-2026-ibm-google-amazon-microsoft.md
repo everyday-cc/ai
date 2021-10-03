@@ -37,6 +37,20 @@ related:
         width: 442
         height: 250
         isCached: true
+  - title: "Augmented Intelligence Market is Going to Boom with Microsoft, Google, AWS"
+    excerpt: "A Latest intelligence report published by AMA Research with title \"Augmented Intelligence Market Outlook to 2026. A detailed study accumulated to offer Latest insights about acute features of the Global Augmented Intelligence Market."
+    publishedDateTime: 2021-09-28T20:12:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271341702/augmented-intelligence-market-is-going-to-boom-with-microsoft-google-aws"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 54
+    images:
+      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/09/824-1632824413.ama-logo.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Voice Recognition System Market Report Showing Rising Opportunities for Investors Due to Exponential Growth, Key Players – Microsoft,Apple,Alphabet."
     excerpt: "New York, United States : Latest report published by Decisive Markets Insights on Voice Recognition System Market has only 20 licensed copies left with us. We would like you to get the first hand experience of the most granular report published across ..."
     publishedDateTime: 2021-09-30T12:47:00Z

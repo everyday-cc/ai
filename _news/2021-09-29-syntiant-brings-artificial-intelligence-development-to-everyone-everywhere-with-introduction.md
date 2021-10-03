@@ -39,6 +39,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Here's how Amazon, Microsoft, and Google stack up in the race for the best cloud where developers can build software with artificial intelligence"
+    excerpt: "Amazon still operates the largest cloud, and its SageMaker product is seen as a market leader. The cloud-computing boom over the past 15 years dramatically lowered the barrier to accessing the ..."
+    publishedDateTime: 2021-09-28T17:55:00Z
+    webUrl: "https://www.businessinsider.com/amazon-microsoft-and-google-cloud-artificial-intelligence-compared-2021-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://i.insider.com/6024018f67d1e300113c5405?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "These top AI cities are doing pretty well in the research and development of AI"
     excerpt: "As we say, data has become wealth today the potential of artificial intelligence is not ignorable under any circumstance. Let’s look at the top AI cities in the world that are doing pretty well to attain advancement in AI."
     publishedDateTime: 2021-10-02T13:30:00Z

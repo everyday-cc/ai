@@ -125,22 +125,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Why Amazon built a home robot"
-    excerpt: "Robot’s CEO once told me, with a wink, that he didn’t become a truly successful roboticist until he became a vacuum salesman. It’s a good line, and one that betrays some fundamental truths about the industry."
-    publishedDateTime: 2021-09-28T17:03:00Z
-    webUrl: "https://techcrunch.com/2021/09/28/why-amazon-built-a-home-robot/"
-    ampWebUrl: "https://techcrunch.com/2021/09/28/why-amazon-built-a-home-robot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/28/why-amazon-built-a-home-robot/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/09/Astro-Mute.jpg?w=600"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Amazon (AMZN) Boosts Robotics Efforts With Astro Launch"
     excerpt: "Amazon AMZN ramps up its robotics initiatives by launching a home robot called Astro, which rolls around the house autonomously. Astro, which marks itself as the first domestic robot, is embedded with cameras,"
     publishedDateTime: 2021-09-29T15:04:00Z
@@ -165,22 +149,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FSnag_72f2a89.png&signature=24f080df35275ccae424a76bc49e5f44"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Amazon's Astro home robot could help you, party with you and also respect your privacy"
-    excerpt: "Inspired by science fiction, cute as pie, capable and smart -- could Astro be the robot we've been waiting for?"
-    publishedDateTime: 2021-09-28T17:03:00Z
-    webUrl: "https://www.cnet.com/home/smart-home/amazons-astro-home-robot-could-help-you-party-with-you-and-also-respect-your-privacy/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/amazons-astro-home-robot-could-help-you-party-with-you-and-also-respect-your-privacy/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazons-astro-home-robot-could-help-you-party-with-you-and-also-respect-your-privacy/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 81
-    images:
-      - url: "https://www.cnet.com/a/img/eduRn-lJYezKLRTpIe_5im89n9M=/1200x630/2021/09/28/67268085-f7eb-4dae-a460-48076fde79ac/screen-shot-2021-09-28-at-9-54-14-am.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Amazon Echo Show, Astro event live blog: Follow our coverage now"
     excerpt: "The e-commerce giant is holding an invite-only press event now. Find out what's coming to your cart. And Astro, the robot Alexa."

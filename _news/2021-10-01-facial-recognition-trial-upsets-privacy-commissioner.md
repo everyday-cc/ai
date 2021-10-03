@@ -81,20 +81,6 @@ related:
         width: 864
         height: 554
         isCached: true
-  - title: "Amid Rapid Adoption, Paravision Unveils New Computer Vision Capabilities, Making Face ..."
-    excerpt: "Paravision, the U.S.-based leader in mission-critical face recognition and computer vision, today announced an array of new and updated products that make face recognition solutions faster, more accurate and secure,"
-    publishedDateTime: 2021-09-28T16:02:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "Z9RlBi5ud+NBOFVwSHyLIDtjrOGHw+JFSFAc2DeCT3CiJgKubShHkgZlnTKLsEEq5nlf7DsLdE5mlk8jI9f7O0gaEwxisSSttqngvphu0G/uoR/ILq5deMxd5sYIQED/JlBVNzdpy0Qrf9wvjzv0uRBSoxJeMAdbjBA988tIJFLtpY6p9mCwqFlMXRRNL3ZvXQgTs8iZ33db6PFN0XgwZoJeR3MFzpr5J90HJ+WiZVnjPOxNHfcPKT04KmayxTWY8z+eYOPZ6cYx013IuXDFaFW8UJ5f4qPXz2oMAZLDAz1ZLDa8R57nBFTl73JdEoPQ81+8rAZE6CNXKQ/FjtfAM/8ZYQLv8dDKRGcgoGCn6kY=;dpwO/zGBYGe9Oe9/FKAHug=="
 ---

@@ -26,38 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-based tool to predict risk of cardiovascular diseases launched for healthcare providers"
-    excerpt: "An artificial intelligence-based tool to predict risk of cardiovascular diseases for an early intervention was launched on Tuesday for healthcare providers across the country by a leading private healthcare group."
-    publishedDateTime: 2021-09-28T16:54:00Z
-    webUrl: "https://www.outlookindia.com/newsscroll/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999"
-    ampWebUrl: "https://www.outlookindia.com/newsscroll/amp/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 66
-    images:
-      - url: "https://www.outlookindia.com/public/uploads/no-image-new.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Apollo launches AI-based heart risk score"
-    excerpt: "The Apollo Group of Hospitals has launched an artificial intelligence-based Web tool to predict and prevent heart disease. The Cardiovascular Disease Risk Score, which the hospital claims is a first-of-its-kind score developed for Indians,"
-    publishedDateTime: 2021-09-28T16:31:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/apollo-launches-ai-based-heart-risk-score/article36722757.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/news/apollo-launches-ai-based-heart-risk-score/article36722757.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/apollo-launches-ai-based-heart-risk-score/article36722757.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
-    images:
-      - url: "https://www.thehindubusinessline.com/news/1z9fn8/article36722756.ece/ALTERNATES/LANDSCAPE_615/bl29StatesHeart"
-        width: 615
-        height: 384
-        isCached: true
   - title: "AI-Powered Tool To Predict Cardiac Risk In Indians More Accurately"
     excerpt: "An Artificial Intelligence-powered tool to more accurately predict heart disease risk among Indians and recommend modifiable changes to prevent heart attacks has been launched by Apollo Hospitals in partnership with Microsoft."
     publishedDateTime: 2021-09-29T14:52:00Z
@@ -74,6 +42,17 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "AWS, Intel, and NITI Aayog collaborated to accelerate digital innovation in India"
+    excerpt: "The studio is said to serve as an innovation hub for government, healthcare, education, and nonprofit start-ups from India to showcase their solutions"
+    publishedDateTime: 2021-10-01T04:59:00Z
+    webUrl: "https://www.ciol.com/aws-intel-niti-aayog-collaborated-accelerate-digital-innovation-india/"
+    ampWebUrl: "https://www.ciol.com/aws-intel-niti-aayog-collaborated-accelerate-digital-innovation-india/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/aws-intel-niti-aayog-collaborated-accelerate-digital-innovation-india/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 36
 
 secured: "HjpV2LTFOGY9e4OIyj0Hyf5cEvi0ISlzpqBGh4XHguoSrF27oItGFeCVJl40Y8F87ofsv9qDc/dLimd1AM0/O10FIeG539uTMplKsyCtTlNECFumrufnnxcQdAn2BYoShwg5QKExs6hGvjeFIJfUVKArpXCIPtVMh0Ii20WT+/yvipKZQxr/AtWMk0SzJwzt6Fx4UlNitVbFCBLkKtV40SClrrXvIfSl7sLbbmqgW6a9HSJtCQ4MqC5ziaHoFgkYHvDHr1C5u2EkwqQLQoeaASSv5wTdIpEnl1LASZZXVdtDnrF4/NufA2spVpNwqps+9PpUN0Z/B77z/L3Z5F9DXRzQEnZu0SQL+9UgFhcvOCw=;kWETHZwxJ6LKW8pJkSMs7A=="
 ---

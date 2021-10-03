@@ -34,6 +34,22 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "33% of technology providers plan to invest $1 million or more in AI within next two years: Report"
+    excerpt: "A significant number of technology and service provider organisations with artificial intelligence technology plans are planning to increase investment into the technology, according to a recent survey from Gartner Inc."
+    publishedDateTime: 2021-10-03T08:20:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/33-of-technology-providers-plan-to-invest-1-million-or-more-in-ai-within-next-two-years-report/article36803231.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/33-of-technology-providers-plan-to-invest-1-million-or-more-in-ai-within-next-two-years-report/article36803231.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/33-of-technology-providers-plan-to-invest-1-million-or-more-in-ai-within-next-two-years-report/article36803231.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 44
+    images:
+      - url: "https://www.thehindubusinessline.com/opinion/o50gd8/article36594522.ece/ALTERNATES/LANDSCAPE_615/bl22thinkAI"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Radiologist's Cary startup raises $1 million to harness power of artificial intelligence"
     excerpt: "A Cary-based artificial intelligence startup cofounded by a radiologist has closed its first million-dollar round. CoRead AI Inc. closed on more than $1 million in equity financing on Sept. 10 from three investors."
     publishedDateTime: 2021-09-29T17:32:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/29/ai-powered-meeting-plugin-read-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/ai-powered-meeting-plugin-read-ai-emerges-from-stealth-with-10m/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -89,34 +89,6 @@ related:
       - url: "https://imagevars.gulfnews.com/2021/09/30/Stock-Hunt_17c36bc2396_medium.jpg"
         width: 540
         height: 405
-        isCached: true
-  - title: "Living with Artificial Intelligence — this year’s Reith Lectures"
-    excerpt: "Living with Artificial Intelligence is the theme of this year's Reith lecturer Stuart Russell — the four lectures will be held across the UK"
-    publishedDateTime: 2021-09-28T15:06:00Z
-    webUrl: "https://cultbox.co.uk/news/living-with-artificial-intelligence-this-years-reith-lectures"
-    type: article
-    provider:
-      name: CultBox
-      domain: cultbox.co.uk
-    quality: 37
-    images:
-      - url: "https://cultbox.co.uk/wp-content/uploads/2021/09/Living-with-Artificial-Intelligence.jpg"
-        width: 1456
-        height: 819
-        isCached: true
-  - title: "Improving Breast Cancer Imaging with Artificial Intelligence"
-    excerpt: "A study led by New York University (NYU) researchers created an artificial intelligence tool to improve the accuracy of breast cancer imaging. The computer program was trained to identify patterns among thousands of breast ultrasound images to aid physicians in diagnosing."
-    publishedDateTime: 2021-09-28T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/improving-breast-cancer-imaging-with-artificial-intelligence"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 37
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-845751048.jpg"
-        width: 690
-        height: 400
         isCached: true
 
 secured: "fOHP/e69okFCc6A8+S8Kv1nDbs50j90qtfRfZKnFekWTV7lNnyWbBjSQ+H6cpqzIOcP5D9UyfXDCVYiWhwBmMDAM8kjmLeBtB4VAqudJysUAaA98/d9bpbQZglquY8GBCM3I68SgcH6B9m8af/Mgt+oIRL8eyG7Oz5+VFQVrtm1nvCeS3Vi1p4XYwxz+GDxMxGZsoCNRYG+URYTacxFec7PYVwhe2/nZbLq5xchPnkF9WWhyhslqbL0wqHBfUAbLVPhJuoWxpaHZ+5K7oil9B/BE3yg2FHt3+49si+BO+xR4UAIVqkT78rmBFG8YRrMJROsToExNvmTupxYgz0RFOz+2KeY+l341Kg7Nx7iRW4eMPhAR7F7qfK7REzDnqN5WvrpYgNIy0zZc9h6P6E31LuYm+bY3Y4mtZo7+7pxVbmO1JeFOKZZOofe/pxB9t9ZrwHmpyPSmeh/9bwkavZu+lWSTvcVK1IJAYTIPfjcfVf8i8JKqsMAGV7lpVFgDUsSO9UgZB+GjL3g8KKasS23Jsg==;Ezj8W9B7u5DKnfZPlhy/dQ=="

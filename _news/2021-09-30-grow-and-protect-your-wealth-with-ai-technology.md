@@ -87,34 +87,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Living with Artificial Intelligence — this year’s Reith Lectures"
-    excerpt: "Living with Artificial Intelligence is the theme of this year's Reith lecturer Stuart Russell — the four lectures will be held across the UK"
-    publishedDateTime: 2021-09-28T15:06:00Z
-    webUrl: "https://cultbox.co.uk/news/living-with-artificial-intelligence-this-years-reith-lectures"
-    type: article
-    provider:
-      name: CultBox
-      domain: cultbox.co.uk
-    quality: 37
-    images:
-      - url: "https://cultbox.co.uk/wp-content/uploads/2021/09/Living-with-Artificial-Intelligence.jpg"
-        width: 1456
-        height: 819
-        isCached: true
-  - title: "Improving Breast Cancer Imaging with Artificial Intelligence"
-    excerpt: "A study led by New York University (NYU) researchers created an artificial intelligence tool to improve the accuracy of breast cancer imaging. The computer program was trained to identify patterns among thousands of breast ultrasound images to aid physicians in diagnosing."
-    publishedDateTime: 2021-09-28T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/improving-breast-cancer-imaging-with-artificial-intelligence"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 37
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-845751048.jpg"
-        width: 690
-        height: 400
-        isCached: true
 
 secured: "pwJYZRcNuKLUOYWEzUfjv3oyQjPzwuXyW4MNLS/odSZjeQPaNllEo0gQ+TztDPh1s5Pt3Ve++/Pv0sqaPelLewPamRwdWG9VuevNgK8fE6RxwDFwt+WftTcvJlpBm9y2dG2utZHyj3K75KNP9ppm7s2mkM/gqwnZetAEIv8T0yyhuvJoeIIUOYB6YAy38Jt40e2pvaX5+7ckWWC9cM+S2W0o7QXZn6JffHv8IRRIMoBFdPCMzOXRAQjmFzmRZhLkCK3zpSba7obj6yLPv9uinEmoD3ECK1exQIsHo4uRFPYeTjWEkuu81oBx/x1R+CwyVdfMZKryDNAbTbyd83XabSgjYQ9fd8rvoyVEsUyrnj4=;JzAzJQLs0YfqTTjjXrVlOA=="
 ---

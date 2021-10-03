@@ -30,73 +30,62 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft launches data governance service Azure Purview in general availability"
-    excerpt: "Microsoft announced the launch of Azure Purview, a unified data governance solution for on-premises, cloud, and app-based systems. Today marks the broadened availab"
-    publishedDateTime: 2021-09-28T16:00:00Z
-    webUrl: "https://venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/"
-    ampWebUrl: "https://venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/amp/"
+  - title: "AI and Software Development: Let the Revolution Begin"
+    excerpt: "With help from AI-Augmented development tools – including no code and low code – software development will move far faster, and be open to non-tech types as well."
+    publishedDateTime: 2021-09-30T19:42:00Z
+    webUrl: "https://www.eweek.com/big-data-and-analytics/ai-and-software-development-let-the-revolution-begin/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 114
+      name: eWeek
+      domain: eweek.com
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://www.eweek.com/wp-content/uploads/2021/04/circuit-board.jpg"
+        width: 1920
+        height: 1280
         isCached: true
-  - title: "Augmented Intelligence Market is Going to Boom with Microsoft, Google, AWS"
-    excerpt: "A Latest intelligence report published by AMA Research with title \"Augmented Intelligence Market Outlook to 2026. A detailed study accumulated to offer Latest insights about acute features of the Global Augmented Intelligence Market."
-    publishedDateTime: 2021-09-28T20:12:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271341702/augmented-intelligence-market-is-going-to-boom-with-microsoft-google-aws"
+  - title: "These top AI cities are doing pretty well in the research and development of AI"
+    excerpt: "As we say, data has become wealth today the potential of artificial intelligence is not ignorable under any circumstance. Let’s look at the top AI cities in the world that are doing pretty well to attain advancement in AI."
+    publishedDateTime: 2021-10-02T13:30:00Z
+    webUrl: "https://www.analyticsinsight.net/top-ai-cities-to-know-across-the-globe-in-race-towards-advancement/"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 54
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 35
     images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/09/824-1632824413.ama-logo.png"
-        width: 300
-        height: 300
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-AI-Cities-to-Know-Across-the-Globe-in-Race-Towards-Advancement.jpg"
+        width: 900
+        height: 500
         isCached: true
-  - title: "smartShift achieves the SAP on Microsoft Azure Advanced Specialization"
-    excerpt: "Shift a leading provider of automated transformations and management of legacy enterprise systems in the cloud today announced it has achieved SAP on Microsoft Azure Advanced Specialization. The advanced specialization is designed for"
-    publishedDateTime: 2021-09-30T14:07:00Z
-    webUrl: "https://www.lelezard.com/en/news-20023960.html"
+  - title: "Artificial intelligence developments are powering virtual assistant and chatbot predictions"
+    excerpt: "Although chatbots and virtual assistants have existed for a long time, they came to the mainstream only when artificial intelligence invaded the race. Analytics Insight has listed the top 10 virtual assistant and chatbot predictions for 2022."
+    publishedDateTime: 2021-10-03T06:30:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-virtual-assistant-and-chatbot-predictions-for-2022/"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 54
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 27
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-10-Virtual-Assistant-Chatbot-Predictions-for-2022.jpg"
+        width: 900
+        height: 500
         isCached: true
-  - title: "AWS Announces General Availability of Amazon Managed Service for Prometheus"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Managed Service for Prometheus, a scalable, secure, and highly available service that makes it easier for customers to monitor containerized applications."
-    publishedDateTime: 2021-09-29T21:04:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-amazoncom-inc-web-services-0089902c40cb4d9eae515700894c692a"
+  - title: "Syntiant Brings Artificial Intelligence Development to Everyone, Everywhere with Introduction ..."
+    excerpt: "Tiny Machine Learning Development Board Now Available for Building Low-Power Voice, Audio and Sensor Applications using Edge Impulse’s Embedded ML Platform. Smallest Form Factor"
+    publishedDateTime: 2021-09-29T12:22:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-artificial-intelligence-ecf3c7b26c7dcc133f0d6a911c24a51d"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 52
+    quality: 26
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
         isCached: true
-  - title: "AtScale Expands Semantic Layer Solution for Microsoft Excel"
-    excerpt: "AtScale expands integrations with Microsoft Excel enabling high-performance, multi-dimensional analysis on live cloud data."
-    publishedDateTime: 2021-09-28T17:52:00Z
-    webUrl: "https://tdwi.org/articles/2021/09/28/atscale-semantic-layer-solution-for-excel.aspx"
-    type: article
-    provider:
-      name: TDWI
-      domain: tdwi.org
-    quality: 21
 
 secured: "LVNn+xCIAfwsX9aIqeoT4SlC0WoIXIUAc4RupzT6O+0iGrV+h+clUQXQ1Ql5OiZBWpziIt5NGJqkJlxp8BsYyKmwhrB+g+uC7E3tzz8pyxfT9XvRJTezywjnSY8iKsHwzJgWvOruXACQJCC/aATTmbOrodtYm6oyqmpb9fPhqE+mMk1dK9W01mxJwySmoNHw2o2SGr70hKj7EFBKNgqCMV0io4KEdFUUIgQGjNIk+BPrEw4VThocgtJfMbG9F+0N+Fyopbdll8L5tPJWSSwpS+O819ftjkwuQqLhxe+F56Rb/sahnTQpauIGFrfR65vaUhUvnt5JEyUR9iwOrGZXWW1TXNUULWIo5ITQnC9kJ/Q=;Luw3+65CG130dBrFIA6aLA=="
 ---

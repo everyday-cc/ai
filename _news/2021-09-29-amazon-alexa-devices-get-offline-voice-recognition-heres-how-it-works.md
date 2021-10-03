@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The big new updates to Alexa, and Amazon’s pursuit of ambient AI"
+    excerpt: "Amazon's new Alexa updates will allow users to customize it to listen and watch out for specific events at home."
+    publishedDateTime: 2021-09-28T18:30:00Z
+    webUrl: "https://www.popsci.com/technology/amazon-alexa-custom-events-ambient-ai/"
+    ampWebUrl: "https://www.popsci.com/technology/amazon-alexa-custom-events-ambient-ai/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/amazon-alexa-custom-events-ambient-ai/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2021/09/28/amazon-.jpeg"
+        width: 2000
+        height: 1059
+        isCached: true
   - title: "Amazon brings offline voice recognition to Alexa devices"
     excerpt: "Amazon brings offline voice recognition, shares details on the privacy features coming to the latest Alexa devices, the company announced a slew of connected devices including Echo Show 15, a new household robot Astro,"
     publishedDateTime: 2021-09-29T12:39:00Z

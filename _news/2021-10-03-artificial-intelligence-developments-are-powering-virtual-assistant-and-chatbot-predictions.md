@@ -38,6 +38,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Here's how Amazon, Microsoft, and Google stack up in the race for the best cloud where developers can build software with artificial intelligence"
+    excerpt: "Amazon still operates the largest cloud, and its SageMaker product is seen as a market leader. The cloud-computing boom over the past 15 years dramatically lowered the barrier to accessing the ..."
+    publishedDateTime: 2021-09-28T17:55:00Z
+    webUrl: "https://www.businessinsider.com/amazon-microsoft-and-google-cloud-artificial-intelligence-compared-2021-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://i.insider.com/6024018f67d1e300113c5405?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "These top AI cities are doing pretty well in the research and development of AI"
     excerpt: "As we say, data has become wealth today the potential of artificial intelligence is not ignorable under any circumstance. Let’s look at the top AI cities in the world that are doing pretty well to attain advancement in AI."
     publishedDateTime: 2021-10-02T13:30:00Z
@@ -67,6 +81,6 @@ related:
         height: 450
         isCached: true
 
-secured: "QQwThL26ZBjpa2ErD5ZG9svp/wGIFy9lscGDZYv34TncmEfxykm7eYGCjjW/h6DieeiKWlVCraZYVgdOi0E8ovdjXQLCF4hikPxicMLlTVFQXpIOkMtmdcUxEMLsCc3dEIVFWDC9v38OQOw3S0IgFAU/XMYQrVgBR9++g6lkqYb8Wbf2Qr5anM1dW49ZXrsJXznyWIEbdm7dp8TgWiM0XrFz2OHdMd0t4HlaMFjY+An9gRn/RIBEG3wbRrSUXSR/cVU6B5vUCjPBTQXI55EQO98PAJL33u48OyExRuaQZxrfQZlPkasgdBGoMnOBIiwSX9WtqHQqpUH2cQfByOe3GddYy2lSBjkwZ2DF4zwDlP0=;sncfNEskjbOrLhL4oMQh4A=="
+secured: "gjPkaojWvN8R5jD53JZr2GmnQdm4VIbdPuGYVFYQIaSFSYygjjd9GGrWKFk17z8p/hoV9QeeSAFFWDfUibD2NA9Gc1n1w/soliLTe1KKdR7ITtJRUZVhJaFcTgmYemiaz70dEwT/GRuc9xReE4p+bWGx7nCiZl9nXysX7v90x+ixRpxE5EqDhPgT5VTKuyTYiGVfsPfWSG2tZwx9cKEeLgEzEfvGeYw+PIZm523BzVQsbWQwrLi+VzxpzBCXlSHkC31WoCpG2H6WW0/aDvL191sF2FVJUtzXYCtNm3tLqGRr2yW9UXZpEXcuXFzwIDSoa+k/v4EAO9qS6K/7Iohj8mmkP+R2mj1bKmJ73n2yTvdmu2suYYDXgVckZVclHAtbp93ETECbOgL1mSv/z4P0IQgOQAiL+aKF2Z+063DRv7DfbsEOb/4/mOMeIA8tPt/mtWjotP8VQEA3bFRXDcG9fmhYAsqbu+9+5ya1jxOr/WQKjmYl0BBjVRjayVTLkKHIGcUJhMUN8bTeaNARE4HI+Q==;pUytZzdacHF6BvJOESECeQ=="
 ---
 

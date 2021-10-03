@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla nears launch of test for $10,000 ‘full self-driving’ software"
-    excerpt: "A group of Tesla owners who paid up to $10,000 for what the company calls its \"full self-driving\" software can now ask the automaker for access to a test version of the feature. But they&#03"
-    publishedDateTime: 2021-09-28T16:02:00Z
-    webUrl: "https://www.wraltechwire.com/2021/09/28/tesla-nears-launch-of-test-for-10000-full-self-driving-software/"
-    ampWebUrl: "https://www.wraltechwire.com/2021/09/28/tesla-nears-launch-of-test-for-10000-full-self-driving-software/?amp=1"
-    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/09/28/tesla-nears-launch-of-test-for-10000-full-self-driving-software/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 59
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2017/11/tesla_dashboard_autopilot-2880x1050-1-e1522574545164-1024x489.jpg"
-        width: 1024
-        height: 489
-        isCached: true
   - title: "Police Sue Tesla for Self-Driving Car That Injured Five Officers"
     excerpt: "Five Texas cops filed a lawsuit against Tesla on Monday over a crash seemingly caused by the car’s semiautonomous Autopilot mode. Back in February, the cops had pulled over another car when the Model X crashed into their vehicles at 70 miles per hour,"
     publishedDateTime: 2021-09-28T17:23:00Z
@@ -223,20 +207,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/c/3d/c3d1edf3-9356-5541-921a-32e8dc6459a8/615737b6b66a8.image.jpg?resize=576%2C324"
         width: 576
         height: 324
-        isCached: true
-  - title: "Tesla’s ‘full self-driving’ could be days away. Here’s what you need to know."
-    excerpt: "By Matt McFarland, CNN Business A wider group of Tesla owners who paid up to $10,000 for what the company calls its “full self-driving” software can now ask the automaker for access to a test version of the feature."
-    publishedDateTime: 2021-09-28T15:39:00Z
-    webUrl: "https://localnews8.com/news/2021/09/28/teslas-full-self-driving-could-be-days-away-heres-what-you-need-to-know/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 36
-    images:
-      - url: "https://localnews8.b-cdn.net/2020/12/Joint-KIFI-Local-News-8-and-MIFI-Eyewitness-News-3-Now-logo-scaled.jpg"
-        width: 2560
-        height: 1441
         isCached: true
   - title: "Tesla’s ‘Full Self-Driving’ Could be Days Away. Here’s What You Need to Know"
     excerpt: "A wider group of Tesla owners who paid up to $10,000 for what the company calls its “full self-driving” software can now ask the automaker for access to a test version of the feature. But they’ll first have to show"

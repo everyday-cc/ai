@@ -39,20 +39,6 @@ related:
         width: 954
         height: 535
         isCached: true
-  - title: "New IBM and Linux Foundation toolkit makes AI projects more organized"
-    excerpt: "IBM Corp. has teamed up with the The LF AI & Data Foundation, an open-source group operating as part of the Linux Foundation, to launch a new toolkit for managing enterprise machine learning projects."
-    publishedDateTime: 2021-09-28T16:30:00Z
-    webUrl: "https://siliconangle.com/2021/09/28/new-ibm-linux-foundation-toolkit-makes-ai-projects-organized/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/IBM.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "FxuUdsofRFmmNv3PoNsdYlM2g040olgyMjI/WhzmvPT8v27DZSL4Ia0rD6S6ljBhCS0V829DXSa2P1sGpgCm/UZQ2GODoeXkeeoSOHL/fLef6kU9jSwC9WCzw3h/k7rlU+RHfggqgJ1sgfH96AS1aWayhI0TSIHKvC7goqes0vLrGrItk56uFTuFFqTNI277dgHCzmBr/eSScNUpA8xGxnYOcIxJZLjzNwcwmD31q9ocvwxFRf1WYhV9HhzCH8q6hs532LhOUabWuHJAM0RtWgFKrfgBZO9MzxrW2F+uHRsQ5LRWT9BXNfH3wEB9YYVNpUmhqAbUdpy3OXbv085vYz+7sE+E9eG/dHPEUFcRKNI=;xzs5mRodcLJYOIGfAxq69Q=="
 ---

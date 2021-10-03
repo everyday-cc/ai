@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/on-echo-show-15-alexa-will-reco
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazon-visual-id/"
 type: article
 quality: 71
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The big new updates to Alexa, and Amazon’s pursuit of ambient AI"
+    excerpt: "Amazon's new Alexa updates will allow users to customize it to listen and watch out for specific events at home."
+    publishedDateTime: 2021-09-28T18:30:00Z
+    webUrl: "https://www.popsci.com/technology/amazon-alexa-custom-events-ambient-ai/"
+    ampWebUrl: "https://www.popsci.com/technology/amazon-alexa-custom-events-ambient-ai/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/amazon-alexa-custom-events-ambient-ai/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2021/09/28/amazon-.jpeg"
+        width: 2000
+        height: 1059
+        isCached: true
   - title: "Amazon Alexa devices get offline voice recognition: Here's how it works"
     excerpt: "Amazon has just announced a slew of new connected devices and with those come some new Alexa features, including the new privacy feature."
     publishedDateTime: 2021-09-29T09:09:00Z

@@ -405,13 +405,22 @@
       "title": "BrainChip Goes Virtually Everywhere at AI Everywhere Forum 2021",
       "excerpt": "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology, today announced that Vice President of Worldwide Sales Rob Telson will present “Intelligent AI Everywhere” at the AI Everywhere Forum September 28 at 1:15 p.",
       "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/brainchip-goes-virtually-everywhere-at-ai-everywhere-forum-2021/",
-      "originalUrl": "https://www.financialbuzz.com/brainchip-goes-virtually-everywhere-at-ai-everywhere-forum-2021/",
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-brainchip-holdings-ltd-5e8d200749cc445e8620e9cd9502b40e",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-brainchip-holdings-ltd-5e8d200749cc445e8620e9cd9502b40e",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -419,8 +428,8 @@
       "publishedDateTime": "2021-09-27T16:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

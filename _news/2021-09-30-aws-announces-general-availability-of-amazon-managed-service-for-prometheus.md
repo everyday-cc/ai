@@ -25,73 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft launches data governance service Azure Purview in general availability"
-    excerpt: "Microsoft announced the launch of Azure Purview, a unified data governance solution for on-premises, cloud, and app-based systems. Today marks the broadened availab"
-    publishedDateTime: 2021-09-28T16:00:00Z
-    webUrl: "https://venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/"
-    ampWebUrl: "https://venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/amp/"
+  - title: "Amazon (AMZN) Bolsters AWS Portfolio With New Managed Service"
+    excerpt: "Amazon’s AMZN cloud division, Amazon Web Services (“AWS”), has made its Amazon Managed Service for Prometheus, which is fully compatible with open-source Prometheus, generally available. Notably, the underlined service is a fully managed scalable and secured monitoring service,"
+    publishedDateTime: 2021-09-30T15:19:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30"
+    ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30?amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 114
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+  - title: "Amazon (AMZN) Bolsters AWS Portfolio With New Managed Service"
+    excerpt: "Amazon’s AMZN cloud division, Amazon Web Services (“AWS”), has made its Amazon Managed Service for Prometheus, which is fully compatible with open-source Prometheus, generally available. Notably, the underlined service is a fully managed scalable and secured monitoring service,"
+    publishedDateTime: 2021-09-30T17:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/388659"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-388659.jpeg"
+        width: 635
+        height: 400
         isCached: true
-  - title: "Augmented Intelligence Market is Going to Boom with Microsoft, Google, AWS"
-    excerpt: "A Latest intelligence report published by AMA Research with title \"Augmented Intelligence Market Outlook to 2026. A detailed study accumulated to offer Latest insights about acute features of the Global Augmented Intelligence Market."
-    publishedDateTime: 2021-09-28T20:12:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271341702/augmented-intelligence-market-is-going-to-boom-with-microsoft-google-aws"
+  - title: "AWS Releases New Container Monitoring Service"
+    excerpt: "Amazon Managed Service for Prometheus is fully compatible with open-source Prometheus and provides the same familiar time series data model."
+    publishedDateTime: 2021-09-30T07:25:00Z
+    webUrl: "https://analyticsindiamag.com/aws-releases-new-container-monitoring-service/"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 54
     images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/09/824-1632824413.ama-logo.png"
-        width: 300
-        height: 300
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/AIM-Illustration12-1.jpg"
+        width: 2240
+        height: 1260
         isCached: true
-  - title: "smartShift achieves the SAP on Microsoft Azure Advanced Specialization"
-    excerpt: "Shift a leading provider of automated transformations and management of legacy enterprise systems in the cloud today announced it has achieved SAP on Microsoft Azure Advanced Specialization. The advanced specialization is designed for"
-    publishedDateTime: 2021-09-30T14:07:00Z
-    webUrl: "https://www.lelezard.com/en/news-20023960.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 54
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Here's how Amazon, Microsoft, and Google stack up in the race for the best cloud where developers can build software with artificial intelligence"
-    excerpt: "Amazon still operates the largest cloud, and its SageMaker product is seen as a market leader. The cloud-computing boom over the past 15 years dramatically lowered the barrier to accessing the ..."
-    publishedDateTime: 2021-09-28T17:55:00Z
-    webUrl: "https://www.businessinsider.com/amazon-microsoft-and-google-cloud-artificial-intelligence-compared-2021-9"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://i.insider.com/6024018f67d1e300113c5405?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "AtScale Expands Semantic Layer Solution for Microsoft Excel"
-    excerpt: "AtScale expands integrations with Microsoft Excel enabling high-performance, multi-dimensional analysis on live cloud data."
-    publishedDateTime: 2021-09-28T17:52:00Z
-    webUrl: "https://tdwi.org/articles/2021/09/28/atscale-semantic-layer-solution-for-excel.aspx"
-    type: article
-    provider:
-      name: TDWI
-      domain: tdwi.org
-    quality: 21
 
 secured: "EMJp6mmeJubmci5yInYoCV4D04ziGWCyEWWmZQw70XnR/pzcBOQbznBz0NJiQAnOfeaehTxD5KiTzh1xV/saepI5zE2BNWljOIqdDEPiGzT2uMXnaqPPSw5tQGJ3Fv+03hUBpKHpEgV+Cp7OVyIzDV9YKLvrUNURqqkhXywkkMChUVn/PjxJHk+ISF+NU72T1x3x+YvmDctvwfnY7LyB0ENzC4VhzR/53JTkVQ6EQh+sMnqYZAnD0iwmowTLju2uLjH6UGgUqCQVwkzM6xMxX7+0P200vFjD9hBC30wOGVzTj8BaHzHwgyzd0OvY4S3PFZJua6Udf7NWKAi13YgdnhV4yFcg2KjJvPPYdRuTLpQ=;Gr/uOW19lBXOKfAtklt67Q=="
 ---

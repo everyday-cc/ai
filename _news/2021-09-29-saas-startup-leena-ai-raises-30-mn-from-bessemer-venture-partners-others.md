@@ -40,20 +40,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Leena AI Announces $30M Series B round led by Bessemer Venture Partners"
-    excerpt: "Leena AI, the company that's revolutionizing enterprise employee experience, today announced it has raised a $30 million Series B financing round, bringing the company's total amount raised to $40 million."
-    publishedDateTime: 2021-09-28T15:27:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210928ln22344/leena-ai-announces-30m-series-b-round-led-by-bessemer-venture-partners"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1637941/Leena_AI_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Employee Management Platform Leena AI raises $30M In Series B"
     excerpt: "Leena AI's employee solutions help streamline workflows with its artificially intelligent platform that can answer queries automatically."
     publishedDateTime: 2021-09-29T05:55:00Z

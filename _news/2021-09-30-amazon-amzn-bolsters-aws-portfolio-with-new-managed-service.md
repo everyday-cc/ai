@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-w
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30?amp"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/AIM-Illustration12-1.jpg"
         width: 2240
         height: 1260
+        isCached: true
+  - title: "AWS Announces General Availability of Amazon Managed Service for Prometheus"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Managed Service for Prometheus, a scalable, secure, and highly available service that makes it easier for customers to monitor containerized applications."
+    publishedDateTime: 2021-09-29T21:04:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-amazoncom-inc-web-services-0089902c40cb4d9eae515700894c692a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 52
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "ZUYS03McGCF3ssHNwLQdzGCYb7RXNqvFzPBYFlHCONeOW0crYC+dmoZWwvho9nlw80inuyUCAOcXEU4oH3QIXO5KwOcQLNTQaDf9lO8uCPB3gYJGYP5Iy7HZeQsecs4RyvGPijUEG9LbWextXqGFURvuA5ttlG0urptnpJE0RVOfG32VRvizA6DshPM2b46EexPWODIKmjlpuWn7wPz3GLdJfUb/jMJU2pRtOC5Bgg+DyJKW6ZBr/iDyNfNIQadHNg7eDRgT1C5I4zTsp0+tsXJazSQV1ulzooPyST0h72ep5huOw4u3iV0ou4Qd0GWGMEpHPV8LNuI3dPwYr9nlVaoH0ijbrDEYWOVlwYJyfVE=;PJHibNf4QVkiNj7t7zeZeQ=="

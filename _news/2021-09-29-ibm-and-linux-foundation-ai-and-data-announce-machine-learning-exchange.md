@@ -7,7 +7,7 @@ originalUrl: "https://sdtimes.com/ai/ibm-and-linux-foundation-ai-and-data-announ
 webUrl: "https://sdtimes.com/ai/ibm-and-linux-foundation-ai-and-data-announce-machine-learning-exchange/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://www.dbta.com/images/social-logo-2019.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "New IBM and Linux Foundation toolkit makes AI projects more organized"
-    excerpt: "IBM Corp. has teamed up with the The LF AI & Data Foundation, an open-source group operating as part of the Linux Foundation, to launch a new toolkit for managing enterprise machine learning projects."
-    publishedDateTime: 2021-09-28T16:30:00Z
-    webUrl: "https://siliconangle.com/2021/09/28/new-ibm-linux-foundation-toolkit-makes-ai-projects-organized/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/IBM.jpg"
-        width: 800
-        height: 533
         isCached: true
 
 secured: "husVZ026RLUNHa0ZRg6fawafdEhhAE5h/8vMLT98vGv+0MaAQOZWPi3t8158m7Ywiin+3XUXEzbLxNKruZgPGlrn95Uc7fglhwcDzsKrMoDxcft/JKkHRcDiKoo7MRmVoslckA1y9N71j65NUWs9zK6E/1UNCrkVKl00zU7cp/FaDkVdLgVfP9Ge3WOELwcE/WwQjx9QorISnbN+/yZE7tsU3R8eR3Jq/h9/UiiP8COEXElxM0oKAAfG4D8Syp8z3ImybGr+chNO4dIhIL7iy+bGl8nsrnGd3KOFci1uRW+1KRbIWFnocGDBcN2xbK2Lrkq0mLNi5BW+PZvPnk7K1IuF9MmLAQs6pP3LJPZK1RbTZp+ZfDRjm6uOv5NbIuc4Vc+xR0ZPuVp3U/jX5vyHDwXFUY+93D1ehNIuwg7LaKRGi66YeH7AUNyqIOs0vTzRNupb3WMiyygfn6T5oZSM6c/tp8mSeoxCpr+sxdJa+jNM7zCJHJgiBJogxeItCEPZfpyDOK8mdGN+ys+wkj1WIQ==;VOUyOgboQeyJP8jP1SSC+w=="

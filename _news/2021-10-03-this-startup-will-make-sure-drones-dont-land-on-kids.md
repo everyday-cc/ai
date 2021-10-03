@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-03T07:14:00Z
 originalUrl: "https://www.israel21c.org/this-startup-will-make-sure-drones-dont-land-on-kids/"
 webUrl: "https://www.israel21c.org/this-startup-will-make-sure-drones-dont-land-on-kids/"
 type: article
-quality: 22
-heat: 22
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.israel21c.org/wp-content/uploads/2021/09/main.jpg"
@@ -23,6 +24,6 @@ images:
     height: 902
     isCached: true
 
-secured: "7xdYQ/9Htb+DQIm8yPOO29ZVi56nH69gMf9RTkfh5iXfohAOJvdGTF4fP/BartwgRwzr/AbqDehR+6/jAS5kl1djSov0A8B6RTLApyUkkVmh2QLSv+Q8gyfGgfMLWgwMfI8kmbA+Jiy3cUvi3dmFI7Uaa8UIcBm1lLphUoAX0VHbXUxCggT85PUkEbvWy0HlwShARTB4bQHzrk+S/Rre1/arcteMzmWBA4vNTz2W/9YZTl5fftSIJLLE71aFqCO0swubiLtrblnf0hRbeR4K04FM8Q581VFNfZlgX/nSjJ3fW/zCcfbJx0t7kaMUpE/9diDcOj82QYCFD5VhMQZvaD7YevdGHrAvaxhLx39aEog=;mAKcxEm8SifRjNOeKxeDrw=="
+secured: "BnZKYWujMSGrFkl7bl0FVfbQHz58ELNb8Of0ANB3i6jRk6sqxXHtceO9y5P2qpQl14JG7KxX4N4pghYpahQfl0N+RoltniWKYtJBQUV76pP42g+axNBHH1YQV7O2vZHEISZpHNSsXq+6aU1NiThtxV8IAw1o/x/7tJWoCKNApe/cqFMrFjT7RDujOOpY4vBew+JZZZ2E8pvNYUdM96u7So+TrnWFuj8cbX1xSgeS4Hjj3CSa5LF8HlD+kqn4nALlBg24c3UUbzNOHI6dPzcs/qWqV0pJR4lcu8K36kHG5Q6mmEDV8oATkZAIA3xbjtc1DFl7FS9DZLiZJDABM6vZIFYWk5pVtaRIvGCeV7Ww1tm63+UVCJ7FybOzu/p7vDCq7prvhayaGYD2KZ36rCliBuVkpkfVut7FFid8W6WyOIyVk8I5YJt4Zr9MlWl6xN04NMjo7DnHcULJmJpyptFMvSOytzpN715hHFN//pM7p2uG36qgfbczOWcG+h9Ywt5Wj0DuIyaEExVG+XTkPcCUWg==;d1pbZr9ukxc0XDAkSIbdqg=="
 ---
 

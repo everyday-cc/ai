@@ -26,73 +26,42 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft launches data governance service Azure Purview in general availability"
-    excerpt: "Microsoft announced the launch of Azure Purview, a unified data governance solution for on-premises, cloud, and app-based systems. Today marks the broadened availab"
-    publishedDateTime: 2021-09-28T16:00:00Z
-    webUrl: "https://venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/"
-    ampWebUrl: "https://venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/amp/"
+  - title: "Artificial Intelligence Ai In Retail Market to See Major Growth by 2026 | IBM, Microsoft, Nvidia"
+    excerpt: "The latest independent research document on Worldwide Artificial Intelligence Ai In Retail examine investment in Market. It describes how compan"
+    publishedDateTime: 2021-09-30T00:42:00Z
+    webUrl: "https://menafn.com/1102889202/Artificial-Intelligence-Ai-In-Retail-Market-to-See-Major-Growth-by-2026-IBM-Microsoft-Nvidia"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 114
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 56
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?882567"
+        width: 442
+        height: 250
         isCached: true
-  - title: "smartShift achieves the SAP on Microsoft Azure Advanced Specialization"
-    excerpt: "Shift a leading provider of automated transformations and management of legacy enterprise systems in the cloud today announced it has achieved SAP on Microsoft Azure Advanced Specialization. The advanced specialization is designed for"
-    publishedDateTime: 2021-09-30T14:07:00Z
-    webUrl: "https://www.lelezard.com/en/news-20023960.html"
+  - title: "Artificial Intelligence for Marketing Market Likely to Boost Future Growth by 2026 | IBM, Google, Amazon, Microsoft"
+    excerpt: "Advance Market Analytics published a new research publication on Artificial Intelligence for Marketing Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends"
+    publishedDateTime: 2021-09-29T10:18:00Z
+    webUrl: "https://www.openpr.com/news/2411287/artificial-intelligence-for-marketing-market-likely-to-boost"
+    ampWebUrl: "https://www.openpr.com/amp/2411287/artificial-intelligence-for-marketing-market-likely-to-boost"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2411287/artificial-intelligence-for-marketing-market-likely-to-boost"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 54
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "AWS Announces General Availability of Amazon Managed Service for Prometheus"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Managed Service for Prometheus, a scalable, secure, and highly available service that makes it easier for customers to monitor containerized applications."
-    publishedDateTime: 2021-09-29T21:04:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-amazoncom-inc-web-services-0089902c40cb4d9eae515700894c692a"
+      name: openpr.com
+      domain: openpr.com
+    quality: 51
+  - title: "Voice Recognition System Market Report Showing Rising Opportunities for Investors Due to Exponential Growth, Key Players – Microsoft,Apple,Alphabet."
+    excerpt: "New York, United States : Latest report published by Decisive Markets Insights on Voice Recognition System Market has only 20 licensed copies left with us. We would like you to get the first hand experience of the most granular report published across ..."
+    publishedDateTime: 2021-09-30T12:47:00Z
+    webUrl: "https://www.globalbankingandfinance.com/voice-recognition-system-market-report-showing-rising-opportunities-for-investors-due-to-exponential-growth-key-players-microsoftapplealphabet/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/voice-recognition-system-market-report-showing-rising-opportunities-for-investors-due-to-exponential-growth-key-players-microsoftapplealphabet/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/voice-recognition-system-market-report-showing-rising-opportunities-for-investors-due-to-exponential-growth-key-players-microsoftapplealphabet/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 52
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Here's how Amazon, Microsoft, and Google stack up in the race for the best cloud where developers can build software with artificial intelligence"
-    excerpt: "Amazon still operates the largest cloud, and its SageMaker product is seen as a market leader. The cloud-computing boom over the past 15 years dramatically lowered the barrier to accessing the ..."
-    publishedDateTime: 2021-09-28T17:55:00Z
-    webUrl: "https://www.businessinsider.com/amazon-microsoft-and-google-cloud-artificial-intelligence-compared-2021-9"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://i.insider.com/6024018f67d1e300113c5405?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "AtScale Expands Semantic Layer Solution for Microsoft Excel"
-    excerpt: "AtScale expands integrations with Microsoft Excel enabling high-performance, multi-dimensional analysis on live cloud data."
-    publishedDateTime: 2021-09-28T17:52:00Z
-    webUrl: "https://tdwi.org/articles/2021/09/28/atscale-semantic-layer-solution-for-excel.aspx"
-    type: article
-    provider:
-      name: TDWI
-      domain: tdwi.org
-    quality: 21
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 2
 
 secured: "8A46V+oBFRvYFSQZoaNF6LaYklfMqNdjD1fwR/WVrEnjc5in+V3vFMam8UxE5W+kWWcvBYi3JoQRMA0tqPC44nBIH/0wNhDBAKOAmQ3vVXNuPU3iW0vXAi4hWCLmLTP3ezVMw3J0boOCt3AKknCvh1EaaExhslHYAU6t8OJQEbqKFJp44J4+8g2qlBgsDTmEuYPGFLP1zYUp1y8tq2S+34XqmR2OLQLhKQ0sdolDVqE72hwAfvBWqEt9fO7st+DCJ+HGMZ3xxDNRy4imnw3XY/xSrQowDhJ+Y7WaHlEWPf0IoMGtqYVV5bND+sbwUG/FJMoETMgl49g8kis72YCXX3oU68GIIM5xdWbVAulGy02UOBe1CRBgZHPqTCewxDss4RYlUgj70m+WjEqUIE/kfbrdgHHXaRWB4o31Hxs1NdVScWqYxu7dlJ/8ljwaCkNYXKkfdixyTNw2RMXCYY8ecrrNr5XhVZDgLn+lGAQr3Xj2MRaUKW8Y27NRJbQkQiuwmNNBXLFoWjkGxEnm23doUw==;yt2LjAYYGaEKxCIdsknC+Q=="
 ---

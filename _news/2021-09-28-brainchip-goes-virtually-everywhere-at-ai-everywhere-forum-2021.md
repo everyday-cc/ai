@@ -3,18 +3,24 @@ category: news
 title: "BrainChip Goes Virtually Everywhere at AI Everywhere Forum 2021"
 excerpt: "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology, today announced that Vice President of Worldwide Sales Rob Telson will present “Intelligent AI Everywhere” at the AI Everywhere Forum September 28 at 1:15 p."
 publishedDateTime: 2021-09-27T23:41:00Z
-originalUrl: "https://www.financialbuzz.com/brainchip-goes-virtually-everywhere-at-ai-everywhere-forum-2021/"
-webUrl: "https://www.financialbuzz.com/brainchip-goes-virtually-everywhere-at-ai-everywhere-forum-2021/"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-brainchip-holdings-ltd-5e8d200749cc445e8620e9cd9502b40e"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-brainchip-holdings-ltd-5e8d200749cc445e8620e9cd9502b40e"
 type: article
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "6x5360VPpKOOqJPaMrNxcWNcUU9nv1VetdCw7j8lqoIb7XSmZPDO7+TXhL3m6ot4beKK7WH6RaXyYOfl+FnegYA4gsk0QoMh/JendL64XHafV0tw+VMJ9HKFGqwDv/PEQbL29QEZUApr8vCq+c3BZMFQXUJ7gOSZXLPW7CA7A9ogitPVZYWeQrPOQ0O2+LnfTt54rU7UzW0er6d3uwbx2z4Sb9nvx8pCodMxu+QkBjDOk2FPeZF3cu6i5qQbrWHSG6rrJJOlpPP1FluGtr+cEbZyD0bg/9BB1Px7eaNfo4ZBQuWHbhbYm0iTixzGrfxgoP/s9gCkdht4Teozek+dq9y6aZkUnNseVF334EF+NFQ=;BaSv8Z7zO5ui5uyMUrkKfg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "4waGCOCE3yHhNzBA11SaG7I+nV8LJFCVZ/ShULtaunPe7W75H2fCNApm2p7YK6pN1HyMzjBAQk1gmkoMEn8iT4KWlmw5SYsidYeRvKm1AyokdU5pbrUawSQVG9MMpQxXD3piIb9lg8+5O0gli6CkFyZGsp3TX2BzyAIfzNdhuPJ4PGEkavw05xaB6XvJtWnj2LaQGmTlDWVSNeKGSTsKSZyD66VKW2P3+YH+NbxkVFUPNkKFjJTLnWjGH1ACrngI6Rr11DNVHSIjydkfKR8IvqYeGgzeIrk3FUMeQQ/ooPE+QrwSDGg5RQzYeRfsXuh8jh2inUbHX2MxLx32xfT9n6wo5VMndaRLiXbW2rbCuKA=;qYqWrTp13/XZVgarbGJfsw=="
 ---
 
