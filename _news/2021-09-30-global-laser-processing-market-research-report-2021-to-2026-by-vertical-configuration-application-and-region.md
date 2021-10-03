@@ -53,20 +53,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Computer Vision Market Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Computer Vision Market for 2021 till 2030. Report further now discus"
-    publishedDateTime: 2021-10-01T04:41:00Z
-    webUrl: "https://menafn.com/1102897488/Computer-Vision-Market-Top-Companies-Business-Growth-And-Investment-Opportunities-Share-and-Forecasts-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 20
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?957675"
-        width: 398
-        height: 250
-        isCached: true
   - title: "The Worldwide Edge AI Hardware Industry is Expected to Grow at a CAGR of 17.1% from 2021 to 2026 - ResearchAndMarkets.com"
     excerpt: "The \"Global Edge AI Hardware Market with COVID-19 Impact Analysis by Device, Processor (CPU, GPU, ASICs), End-user, Function (Training, Inference), Power (Less Than 1W, 1-3 W, 3-5 W, 5-10W, More Than 10W) and Region - Forecast to 2026\" report"
     publishedDateTime: 2021-09-30T09:41:00Z
@@ -81,6 +67,15 @@ related:
         width: 421
         height: 421
         isCached: true
+  - title: "Computer Vision Market Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for  Computer Vision Market  for 2021 till"
+    publishedDateTime: 2021-10-01T04:41:00Z
+    webUrl: "https://menafn.com/1102897489/Computer-Vision-Market-Top-Companies-Business-Growth-And-Investment-Opportunities-Share-and-Forecasts-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
 
 secured: "4lrIfmd4fc8ezIy/WQMEnj5nKM3IlQT97gHShoS9dhVdCFWQvYwRe8nXB2uy69gxdvNtkDl5O9GAQDC2H6C/++SXDu/uT77nMWNqH52BE0gLVXWGU5JNxsdTug0+YsdkERBoT3M6rEYyyXO6Ox2/ZZilHHXgHcUyzmidmTDEyF4ScpjntSDc/4UYJsoN7rm2lYVhMa1f+I0Vtg9vVD5KbWyTJbwVmw65B4uCoGEUMDEf6/lerXX+PRDGMg341qcK+5CF+e3vs1EQfIJspEp/kJ/6ifOSuCFURTUlhxbiLmDBfimwop4uHdq+YKJYDbvwBOQmeJMyXio8xmhk6FM13zGZV8GP2XKSzRkHhBjCBh4=;+OfqxEYK8Ecqk13VxyZkTg=="
 ---

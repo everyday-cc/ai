@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/big-data-and-analytics/ai-and-software-devel
 webUrl: "https://www.eweek.com/big-data-and-analytics/ai-and-software-development-let-the-revolution-begin/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
     quality: 35
     images:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-AI-Cities-to-Know-Across-the-Globe-in-Race-Towards-Advancement.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Artificial intelligence developments are powering virtual assistant and chatbot predictions"
+    excerpt: "Although chatbots and virtual assistants have existed for a long time, they came to the mainstream only when artificial intelligence invaded the race. Analytics Insight has listed the top 10 virtual assistant and chatbot predictions for 2022."
+    publishedDateTime: 2021-10-03T06:30:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-virtual-assistant-and-chatbot-predictions-for-2022/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 27
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-10-Virtual-Assistant-Chatbot-Predictions-for-2022.jpg"
         width: 900
         height: 500
         isCached: true

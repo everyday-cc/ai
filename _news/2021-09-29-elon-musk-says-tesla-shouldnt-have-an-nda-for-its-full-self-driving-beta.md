@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nd
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/amp/"
 type: article
 quality: 188
-heat: 348
+heat: 338
 published: true
 
 provider:
@@ -190,22 +190,6 @@ related:
       - url: "https://images.barrons.com/im-403553/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Tesla plans to start adding 1,000 new Full Self-Driving Beta testers per day: CEO Elon Musk"
-    excerpt: "Tesla CEO Elon Musk has announced that Tesla plans to start adding 1,000 new Full Self-Driving Beta testers per day based on their \"safety score\" starting next week. The electric vehicle company's plan for a \"wider release\" of its Full Self-Driving Beta,"
-    publishedDateTime: 2021-09-28T13:34:00Z
-    webUrl: "https://www.freepressjournal.in/business/tesla-plans-to-start-adding-1000-new-full-self-driving-beta-testers-per-day-ceo-elon-musk"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/tesla-plans-to-start-adding-1000-new-full-self-driving-beta-testers-per-day-ceo-elon-musk"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/tesla-plans-to-start-adding-1000-new-full-self-driving-beta-testers-per-day-ceo-elon-musk"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 49
-    images:
-      - url: "https://images.assettype.com/freepressjournal/2021-02/f0098ad4-8e8f-429d-b230-0618b588b79d/471763092.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1199
-        height: 702
         isCached: true
   - title: "Elon Musk unveils plans for humanoid robot that uses Tesla's artificial intelligence"
     excerpt: "Thursday amid renewed criticism for Autopilot, its most-talked-about AI-based system, as it unveiled its next big project: a humanoid robot. At the company's first AI Day, Chief Executive Elon Musk gave a preview of the Tesla Bot,"

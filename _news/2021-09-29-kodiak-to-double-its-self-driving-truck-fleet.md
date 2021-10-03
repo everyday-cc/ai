@@ -7,7 +7,7 @@ originalUrl: "https://electronics360.globalspec.com/article/17251/kodiak-to-doub
 webUrl: "https://electronics360.globalspec.com/article/17251/kodiak-to-double-its-self-driving-truck-fleet"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 752
     height: 501
     isCached: true
-
-related:
-  - title: "Kodiak Robotics Unveils Its Next-Generation Autonomous Truck with Plans to More than Double Its Self-Driving Fleet"
-    excerpt: "Kodiak Robotics, Inc., a leading self-driving trucking company, announced today its fourth-generation autonomous truck. This new truck will feature Luminar’s Iris LiDAR, ZF Full Range Radar, Hesa i 360-degree scanning LiDARs for side- and rear-view detection,"
-    publishedDateTime: 2021-09-28T14:27:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-robotics-trucking-5897d89dc650332a96baad26a6abd5ec"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "GYIkmvBiD4PRPnwefiUU6GUwO1vjiq7u36+JXCva+28W+S9TrsLq7HzZbjwuKcqu86Lo2VRrihM5VtvVt82mI8h1EfoiSSKyg6A9+G9eGbFG2Rf6teNd6kYuY+2ccUjA8zYXCouwauXy8CsGE0N4F/7hkKWCes5OKcihjMUeOk0uFfPreZ2kHBU0n0dWYXauB5UJ9PijohdhlJuJQcdS49M5DyU0I21Qgxo8chn8cxviDCJslMKwU7PqGh04nZ64GizDmd/2xi3rH+Pz13lw3WjJq9o8HlTfgd382kjZtwClP6fj697Js7VjxjeqBBH32lHo25qYbMosm60L96INk3ESFZTgtA60JgN9Yp8tatyJ1/fzDnIRbMIFt2eG8pOTy204r68yaU5dJuFFOQNtOaC6a5VThvvLXTYqEovmHGwqw11C/Fa6Ygny8cOok5dZiV8zIfvuOdV4Z8WKO2lH93/O5HGUdtVbmaBXTMtwYExto9gOLPTrwSiL1jsv/cgWQq2ESU+gnXLnBkqFOwRtgQ==;H9sp+mqXLcEV1jk8zjjKCQ=="
 ---

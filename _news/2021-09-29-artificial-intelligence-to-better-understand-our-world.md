@@ -24,22 +24,6 @@ images:
     height: 420
     isCached: true
 
-related:
-  - title: "Artificial intelligence to better understand our world"
-    excerpt: "While artificial intelligence has been an important tool in gaining a better understanding of our world, it's imperative that we learn more from it."
-    publishedDateTime: 2021-09-28T14:23:00Z
-    webUrl: "https://independentaustralia.net/business/business-display/artificial-intelligence-to-better-understand-our-world,15568"
-    type: article
-    provider:
-      name: independentaustralia.net
-      domain: independentaustralia.net
-    quality: 37
-    images:
-      - url: "https://independentaustralia.net/_lib/slir/w900-c4x3/i/article/img/article-15568-hero.jpg"
-        width: 577
-        height: 433
-        isCached: true
-
 secured: "DrMczJ2bnwQpvrA8bEjWc7po3GGr8BvoXbmRirPwMfV28BTgke/DIruDVvsrMKmUhUsYRoxfA9H9CK52IEO/WkXpFnsoqK4CH5M1yVkOG7icCktJKORNnyBTY/FaJRxZJIsaybyyNYDx4jkwX9zzhgO0GZ6P6J8F4L9gEOWdT+D3/ljVuPftmvpMP1CxmGC/V20uC57J+rRWdnc5my0NAVREzKujhSx8+ZTYMY001cmhqAcC8UMxD5omMTPHflT/r1QXHJofJvHE9gXD+4Ft4QU/28HBUqZRqvrmi8j/ECZGyVdNiGTf8P8v8URBcRCWhouIjDKBHUgZ8W6zWrEWtAAXTj/7cEof0KwlrfDnZesQtoRSwFPbHRpWJ0EzcuB/SgbQCBE2KyyI2IXztyoF6dV/vK4cA2N0sp7UMYiWfBbBn6sTp/FkNE281USAZl0QETI0ecGyokiKtlcWJvdsecbRUEzTeUuw6mP0T01ixmCAl4jYyWI3rX9prhI4OR00tqBsfCiEys/Tb17F4vwlbQ==;7D2GEckImfmp/R9ANZF27w=="
 ---
 

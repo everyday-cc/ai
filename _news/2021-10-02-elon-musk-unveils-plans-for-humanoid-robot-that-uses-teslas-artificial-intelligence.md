@@ -197,22 +197,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Tesla plans to start adding 1,000 new Full Self-Driving Beta testers per day: CEO Elon Musk"
-    excerpt: "Tesla CEO Elon Musk has announced that Tesla plans to start adding 1,000 new Full Self-Driving Beta testers per day based on their \"safety score\" starting next week. The electric vehicle company's plan for a \"wider release\" of its Full Self-Driving Beta,"
-    publishedDateTime: 2021-09-28T13:34:00Z
-    webUrl: "https://www.freepressjournal.in/business/tesla-plans-to-start-adding-1000-new-full-self-driving-beta-testers-per-day-ceo-elon-musk"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/tesla-plans-to-start-adding-1000-new-full-self-driving-beta-testers-per-day-ceo-elon-musk"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/tesla-plans-to-start-adding-1000-new-full-self-driving-beta-testers-per-day-ceo-elon-musk"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 49
-    images:
-      - url: "https://images.assettype.com/freepressjournal/2021-02/f0098ad4-8e8f-429d-b230-0618b588b79d/471763092.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1199
-        height: 702
-        isCached: true
   - title: "See how Tesla's 'full self-driving' mode works"
     excerpt: "Despite concerns from regulators,Tesla is rolling out its autonomous driving feature to some owners who can prove they are safe drivers."
     publishedDateTime: 2021-10-01T16:10:00Z

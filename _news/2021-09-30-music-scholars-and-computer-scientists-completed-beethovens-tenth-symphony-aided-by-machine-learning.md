@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91493-music-scholars-computer-scie
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91493-music-scholars-computer-scientists-completed-beethoven-tenth-symphony.html"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Beethoven’s unfinished Tenth Symphony completed by artificial intelligence"
-    excerpt: "Beethoven’s previously unfinished Tenth Symphony has been completed by artificial intelligence technology. The work will have its world premiere in Germany next month, 194 years after the composer’s death."
-    publishedDateTime: 2021-09-28T13:44:00Z
-    webUrl: "https://www.classicfm.com/composers/beethoven/unfinished-tenth-symphony-completed-by-artificial-intelligence/"
-    ampWebUrl: "https://amp.classicfm.com/composers/beethoven/unfinished-tenth-symphony-completed-by-artificial-intelligence/"
-    cdnAmpWebUrl: "https://amp-classicfm-com.cdn.ampproject.org/c/s/amp.classicfm.com/composers/beethoven/unfinished-tenth-symphony-completed-by-artificial-intelligence/"
-    type: article
-    provider:
-      name: Classic FM
-      domain: classicfm.com
-    quality: 55
-    images:
-      - url: "https://imgs.classicfm.com/images/263906?crop=16_9&width=500&relax=1&signature=rIJvuAJCDbhVnFqjIZmy65lTDbE="
-        width: 500
-        height: 281
-        isCached: true
   - title: "Beethoven's 10th symphony is finished 194 years after his death by artificial intelligence"
     excerpt: "Beethoven's 10th symphony has been completed 194 years after his death by a computer that recreated two movements running to 40 minutes in length."
     publishedDateTime: 2021-10-01T23:57:00Z

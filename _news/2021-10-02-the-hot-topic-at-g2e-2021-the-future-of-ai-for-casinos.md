@@ -1,28 +1,26 @@
 ---
 category: news
 title: "The Hot Topic at G2E 2021? The Future of AI for Casinos"
-excerpt: "In order to accommodate for the high level of interest, the education session has moved to a larger venue. It will take place October"
+excerpt: "In order to accommodate for the high level of interest, the education session has moved to a larger venue. It will take place"
 publishedDateTime: 2021-10-02T04:06:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/10/n23206488/the-hot-topic-at-g2e-2021-the-future-of-ai-for-casinos"
-webUrl: "https://www.benzinga.com/pressreleases/21/10/n23206488/the-hot-topic-at-g2e-2021-the-future-of-ai-for-casinos"
-ampWebUrl: "https://www.benzinga.com/amp/content/23206488"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23206488"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-hot-topic-at-g2e-2021-the-future-of-ai-for-casinos/article_c05ffc53-f05d-5d0f-9649-ad7ce2a89cbd.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-hot-topic-at-g2e-2021-the-future-of-ai-for-casinos/article_c05ffc53-f05d-5d0f-9649-ad7ce2a89cbd.html"
 type: article
-quality: 57
-heat: 67
+quality: 37
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1640935/Speaker_Kiran_Brahmandam_G2E_2021.jpg"
-    width: 400
-    height: 209
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/c6/0c67eb7c-ce3b-5bf5-bfcc-97a74a5826d2/6157dece2b1b2.image.jpg?resize=1200%2C627"
+    width: 1200
+    height: 627
     isCached: true
 
 related:
@@ -40,7 +38,21 @@ related:
         width: 840
         height: 450
         isCached: true
+  - title: "How Tignis Digital Twins Power The Future Of AI-Based Process Control"
+    excerpt: "EXECUTIVE SUMMARY The Internet of Things and the Industrial Internet of Things continues to develop with advances in Artificial Intelligence and Machine Learning. New solutions offer cost savings, efficiency gains and improved yield that were not possible before."
+    publishedDateTime: 2021-10-01T17:11:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-tignis-digital-twins-power-future-ai-based-process-chris-rust"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEHlAhAljhByA/article-cover_image-shrink_600_2000/0/1633046716382?e=1638403200&v=beta&t=o8jp1LV_yWTnnO7w992yU-aD2CMof4hF2VnHChNMQUU"
+        width: 720
+        height: 540
+        isCached: true
 
-secured: "6tvvs6QdEy/z2yFwXOlBPlBG4lz3yFWc4WSO62MdOgOkqNHg7TCSqSU4nDJ/Q9ipAmzAiaR22O9A5ZOmrwLv+xFlszqETNtoMqdNSUZaHPkCOkNaRx3iuXNnD4ZRWVq5nZb5kOpp7pTxwr1p3iPc3I5OcKH2ku2rBvpaMObdlqx//oCsLO0Pg8Pt1oIpFtvIS0KLaxSKiAFJt/pPwHKVnBHUXhS+NTHrH8rFTbFjSa0QSBu3V+o73Bd0C3TryjWBMhS5UbLsCMuuI+rLMUUHceqifMuFzg98mbrPOYuGsMZmiH8Ll6rPXqdQIZZoVgbRMVviKe0pORYbpcqFucym3q+UfTnLdLOqVWnFtzlclqzqapHkMxHeyi3b2A9VFVMgXF5Aw25Q0LPKzhVBjVG9wmfewwhep17hqdXV+xARpjVg2hjbrObOV1hIsxcynBUIPV4FrZTOINLMHSN3F+NSq2ywgw9nCUxGiP08UHQ+6Wdti8hyqtpd/En3OESPceJ/epFVMWmFmms3h9gizbZC5A==;y1V4DS3F9JXdRYJHqJm/TA=="
+secured: "zB4NKUeBUkF9agF9fhz0zHtNunnkUVGB8nixkjrZcxHp/uoR00KMbNqrZc+PPnrzs4WF+yjwOisLSAwmOvuHsjY7TS0//EDHbUUBo5464Ma9bLrV/L3Af78rwjHNmUGec9QuXy8sGiFB46kw0zXYqAHnrcb5ZuGEiIr/XAwYB4gaPGUbocH/uGlb7AOpzeHOERwoXaev9eex/sXbIL2qPNRLhsaE5MpfmzuA/4pD9f/MHGTepE+5ygy+SrwzkuCO7GjIn8uF6YdklKS46ECx0V579Orwt6XinmUmbmoyk3mBvgzeo90y/pr/x7CCc8UCmq6eOumr6NcTvFTdtoOyDePFuO1kVU4HfTxzEHAxBK4=;QMv+/4TwN1hpYJRLG768pw=="
 ---
 

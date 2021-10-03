@@ -7,7 +7,7 @@ originalUrl: "https://www.freepressjournal.in/business/alphasense-raises-180-mn-
 webUrl: "https://www.prnewswire.com/in/news-releases/alphasense-raises-180-million-series-c-led-by-viking-global-and-goldman-sachs-joined-by-morgan-stanley-citi-bank-of-america-barclays-wells-fargo-cowen-alliancebernstein-866205418.html"
 type: article
 quality: 110
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -33,6 +33,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6154f9237fb41cfda4054618%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "HR-tech startup Leena AI raises $30 mn in Series B funding led by Bessemer"
+    excerpt: "HR-tech startup Leena AI said on Wednesday it has raised $30 million (about Rs 222 crore) in a Series B funding round led by Bessemer"
+    publishedDateTime: 2021-09-29T15:08:00Z
+    webUrl: "https://www.vccircle.com/hr-tech-startup-leena-ai-raises-30-mn-in-series-b-funding-led-by-bessemer"
+    type: article
+    provider:
+      name: VCCircle
+      domain: vccircle.com
+    quality: 35
+    images:
+      - url: "https://assets.vccircle.com/uploads/2019/06/Fundraisingrf.jpg"
+        width: 810
+        height: 506
         isCached: true
 
 secured: "j4ewx4nF8F3j9VqFbUpTFSVi2QVD53fKqBtfxFkeCrd+lLMJ2Z59BYdclJ12j+FMC4K9jdp05xKE4wjevF9xXAuC5CMsoPekW8YEnaqxR2NsXue/hFMRLXBIniurbuZlLS+UI4rvPhdRLrpOekl8lGO15qW5ysuU/qRubdA8Zjn5BLFjoTNLbMl1S1l+HbYovWFBPu1ENn8/DrI3fj4nUB2uWUAw7i6z1PtOr8cOE5MDWruKcreNOKhcigaRU4iNicsKM/jmK55ilTzp/v2jLyqjEjW9Sk0t+fgqkSFGeeve2kPCVpBBYy9T/kjizPAXzwG5FycPhko/DgqE9XDNNNDIxQ//p+xprHbuziSUvIY=;m7jaeAMgiD/PFoR3vCamHw=="

@@ -61,6 +61,20 @@ related:
         width: 1280
         height: 717
         isCached: true
+  - title: "Demystifying the Complexity of Enterprise AI Deployment"
+    excerpt: "We’re sitting on the cusp of artificial intelligence (AI) innovation. Consulting organizations like McKinsey and PwC claim that AI is a multi-trillion dollar business opportunity."
+    publishedDateTime: 2021-10-02T16:49:00Z
+    webUrl: "https://www.linkedin.com/pulse/demystifying-complexity-enterprise-ai-deployment-abhishek-nigam-1f"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQF_Ug79f2a2hQ/article-cover_image-shrink_720_1280/0/1633147479988?e=1639008000&v=beta&t=bxYdpZ_eTV6FnFiEil0SRgCz8BNlwpEWyyyqMa74W2g"
+        width: 1080
+        height: 720
+        isCached: true
 
 secured: "Vlu+DKU/go/3U27hgbkxpDeQjL04V7vMZ4rYqRYHNKNoFciS5S6DEw2S3MIkVjQpvv4uyCgVbVH8+PeQl1z5t+hHreS2S2eE+jpoi9fBlJPK10eEIxOncZhxdWM+OH5tbMSSiV2U2G+vVBMuw0uHdEZxa7y8wsXe7GL88/As8iUtfxWeAmLlcRzKjCeFa924OeVwyCmzKAQr9/sPPZfFsn/H10M7Iv8WVjEQU47zwP+YyirN8BsOZ0tLA087m+1Xt9uO2mgG3k3a9mYoX8mJTquRvzyldSyy73dy2rwTjpHeFPNmhV4GX8qDilrhAYRn6B8ZeO1F8JBZa4Zar1OJcPFa7URY3v6+76RfrLU8Cvp3Tzh/jX1yMT9DSaxbV4iIF8eu3BcrH2mCXOQKx13HHFTzikxQQahZlE2G40Pmf6zHpBPrANHR9AuCqSblx36bhG4+rUQwuVHiO/2suFVyfAgmBLWfO+Seoj/h90hlcsoWLe4gKMtNxjBIBN3VzFKUFB9D7mxnZPLJVkOJiiBKEg==;XeYkvX6DRIhkMslXRfz9bQ=="
 ---

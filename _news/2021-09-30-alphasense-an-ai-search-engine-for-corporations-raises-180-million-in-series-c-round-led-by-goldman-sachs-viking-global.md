@@ -39,6 +39,20 @@ related:
       name: The Free Press Journal
       domain: freepressjournal.in
     quality: 110
+  - title: "HR-tech startup Leena AI raises $30 mn in Series B funding led by Bessemer"
+    excerpt: "HR-tech startup Leena AI said on Wednesday it has raised $30 million (about Rs 222 crore) in a Series B funding round led by Bessemer"
+    publishedDateTime: 2021-09-29T15:08:00Z
+    webUrl: "https://www.vccircle.com/hr-tech-startup-leena-ai-raises-30-mn-in-series-b-funding-led-by-bessemer"
+    type: article
+    provider:
+      name: VCCircle
+      domain: vccircle.com
+    quality: 35
+    images:
+      - url: "https://assets.vccircle.com/uploads/2019/06/Fundraisingrf.jpg"
+        width: 810
+        height: 506
+        isCached: true
 
 secured: "YeVoG8C9PydL45dWTPs8881FQU9+6zqgxhTwjOZofzCcVsEmMg3+JOMr3ItXU2WJX9H2pe+B6R4l1A7fvqM3D1WTDbGPDrqrYYGnQSIhRYibfhc8BlLLlWdUEsoie1AuoPYpRgsU4bL8FK+S2s1M5JPPlioEGA0koD9zC3yTF1JO68bWu6Egx35SSxBp69IoYtCmgGAojDOY+SDt+ROAVV9jnJuZQ+PZY7hUEt3suQ3E/zBfxTE9LUjwvo+XU3S9HDILylZnVtX6TcLUqNBTvn5szng1+IqXH672W9TUNaFuJPKsGZMWIRh/y4YFrkK59b0YOgBiog4gX2/ftQzBOBTuLPOztzSU124xwIugn4pXV43wqBt4PJXWiYL8BTO2Hho4YGmlD83d7Wl26EAn2OB1w7gXue+Ty7R3Zx/6qnVbyTHWSotqFJi3WjE88g5qlrvlDuKMmCb6fDj/ZXdhXNHGJiqsldcLoc5vJ8t9fFOAfpcQK9tIr0uMO+4t8dUh42w08jmmvMtT/X+NAbmx8g==;d9qPORGlq9FrDXK0iK/Huw=="
 ---

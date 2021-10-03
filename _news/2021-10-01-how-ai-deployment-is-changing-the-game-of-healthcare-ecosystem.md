@@ -9,7 +9,7 @@ ampWebUrl: "https://www.expresshealthcare.in/amp/news/how-ai-deployment-is-chang
 cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQEmNAEyV91W1g/article-cover_image-shrink_600_2000/0/1632846361133?e=1638403200&v=beta&t=Q_ppLIh8pBtI8ppd600m8F9rcl0OviCSLK3ztcRb-8A"
         width: 744
         height: 400
+        isCached: true
+  - title: "Demystifying the Complexity of Enterprise AI Deployment"
+    excerpt: "We’re sitting on the cusp of artificial intelligence (AI) innovation. Consulting organizations like McKinsey and PwC claim that AI is a multi-trillion dollar business opportunity."
+    publishedDateTime: 2021-10-02T16:49:00Z
+    webUrl: "https://www.linkedin.com/pulse/demystifying-complexity-enterprise-ai-deployment-abhishek-nigam-1f"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQF_Ug79f2a2hQ/article-cover_image-shrink_720_1280/0/1633147479988?e=1639008000&v=beta&t=bxYdpZ_eTV6FnFiEil0SRgCz8BNlwpEWyyyqMa74W2g"
+        width: 1080
+        height: 720
         isCached: true
 
 secured: "BpEwBSzT2ODJLtiyu/cSlsBNNLsjU3v/fgo8L9OTcTtZYdSGSYkjqca03qceWUhjSqALMpAIQuAyqNOVz1aT5ZaqEI2uQO431lLDamP60gVy3c6Hh4Jk8SoFVEjJvcGQ/x0d+bhJJl2mBV1vXl2FniPV+xCcyUsHT0A0xhh2N1cDMcmmJ1bxCkkEFPZ4r6dkBlQSuAmH/y83SHesFLOkDC23UjE2t1JSR1mKWvjKZCUGTZm07E8IzvLXMKV0m5S5c/Jyh4YhjxNAbYx/JX1DZBfXWOTTa7tvhQEx/DooURnZv8+g6boKQkWKGXwfcyZFlSG8QpdOGDSOSK98ro6s0p3Jkm2DYTVFOe9iVUo4m+QJ4RPN//ub4dPZNqAzKxXrShT5EGe/KRCNJYkoYT12jGcLHpLG6tkT1hpkiOU1SRDkudDgOipEXg5WBLJBOX4ySvYUk106PfWK94bUH/iFoBBUCMpukxp4cACgTLtFYJQzYyBqOKqGuz3f0qg204UWpHzcq7u9+xK7zFHu23pQvg==;lBgWQ3IWNziHD9sM94eiug=="

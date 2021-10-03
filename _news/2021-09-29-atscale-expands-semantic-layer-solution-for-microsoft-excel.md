@@ -78,6 +78,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Here's how Amazon, Microsoft, and Google stack up in the race for the best cloud where developers can build software with artificial intelligence"
+    excerpt: "Amazon still operates the largest cloud, and its SageMaker product is seen as a market leader. The cloud-computing boom over the past 15 years dramatically lowered the barrier to accessing the ..."
+    publishedDateTime: 2021-09-28T17:55:00Z
+    webUrl: "https://www.businessinsider.com/amazon-microsoft-and-google-cloud-artificial-intelligence-compared-2021-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://i.insider.com/6024018f67d1e300113c5405?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "FrQUXLZMHLfcHhuq6QI6sGLqpMesKDhmdV3Qwp0rjZcfxheUc6TK7LGD9U7vE7a9cjSXiQLjBQlGedapSbFc7/H9Rd2bh2K8BCA3xfxm0PH87lMbX/JdjZi+mA12DgFty6wwOTFSZf9IbIhxY2vnY+VOZSylrsbjjaAWpULvJHkv7ie7+Q/TeBDl6EOlnKFvc0BJ1QsVYk4tPf6iCcohxctEygbT17g8SclRi1aucxbSTjYD19u0c2fyOi9afNqNgoQvRw0EZr/nQzq5HiOEAshmhTpd7l91q3nEcp5kaF9eaZ4PJnXEV07MWTziun3UtOTTZZcQCXmlWDJjQ8rqcvI8WddyIrVRP20SXQKbE/0=;ynkPweDCePa90WsY+Ypxlg=="
 ---

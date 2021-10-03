@@ -53,6 +53,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Artificial intelligence developments are powering virtual assistant and chatbot predictions"
+    excerpt: "Although chatbots and virtual assistants have existed for a long time, they came to the mainstream only when artificial intelligence invaded the race. Analytics Insight has listed the top 10 virtual assistant and chatbot predictions for 2022."
+    publishedDateTime: 2021-10-03T06:30:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-virtual-assistant-and-chatbot-predictions-for-2022/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 27
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-10-Virtual-Assistant-Chatbot-Predictions-for-2022.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "gGUigItfAcejT2lWRddeNSfi0Y0ly+lKOSoHWCawjceQ0UYtVtFNTaafL9Cv+FvztFrztIKhYmCIYyJV0WTyFlf9eBsd8/AIRkvjUE/yEGK7ZJEqKxOUcKyTcJ8mz0B1jj9Bs59lx4bW9Rx+h0XUx6GlGlSpVBjoDWCDGTZ9QojkkaOlFl2yO1gWKnpp3Kyagstmo+1EaGVjEGVBLWQALgVOih5cMi0x/Tosa3HwoZ8puyPcIDpL6SmW/GMJerMWlpbv3EWGYC3ZFUqVcLrDabEsR1bGE1CEB7ITI991e82fzK279QK8BeZ2JghOss6NoZT0CyQUVC+9yfOzqPyVdBkM3mj0JQ9PN9QJwRAiXVg=;A0wm6ZvUne+E9aw+HM4mUg=="
 ---

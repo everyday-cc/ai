@@ -2,32 +2,22 @@
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
 excerpt: "Artificial intelligence (AI) has become a buzzword for nearly every company when touting its products and services. What used to be the domain of only a few technology companies is now pervasive in automobiles,"
-publishedDateTime: 2021-10-02T15:10:00Z
-originalUrl: "https://www.fool.com/investing/2021/10/02/3-top-artificial-intelligence-stocks-buy-right-now/"
-webUrl: "https://www.fool.com/investing/2021/10/02/3-top-artificial-intelligence-stocks-buy-right-now/"
-ampWebUrl: "https://www.fool.com/amp/investing/2021/10/02/3-top-artificial-intelligence-stocks-buy-right-now/"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/10/02/3-top-artificial-intelligence-stocks-buy-right-now/"
+publishedDateTime: 2021-10-02T11:10:00Z
+originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-10-02"
+webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-10-02"
+ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-10-02?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-10-02?amp"
 type: article
-quality: 87
-heat: 131
-published: true
+quality: 67
+heat: -1
+published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
-
-images:
-  - url: "https://media.ycharts.com/charts/4a70d970a0718bc9ede7c616c7a98dc3.png"
-    width: 720
-    height: 433
-    isCached: true
 
 related:
   - title: "The 3 Best AI Stocks To Buy for Massive Upside Potential"
@@ -55,17 +45,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Good Stocks To Buy Right Now ? 5 Fintech Stocks To Watch"
-    excerpt: "Top Fintech Stocks To Check Out Before Next Month. After another day of losses, the stock market today appears keen to recover. While this is happening, fintech stocks continue"
-    publishedDateTime: 2021-09-29T18:07:00Z
-    webUrl: "https://www.nasdaq.com/articles/good-stocks-to-buy-right-now-5-fintech-stocks-to-watch-2021-09-29"
-    ampWebUrl: "https://www.nasdaq.com/articles/good-stocks-to-buy-right-now-5-fintech-stocks-to-watch-2021-09-29?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/good-stocks-to-buy-right-now-5-fintech-stocks-to-watch-2021-09-29?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "3 Top Artificial Intelligence Stocks to Buy This Month"
     excerpt: "Artificial intelligence (AI) has become a buzzword. But, it may be deserving of the hype given the technology's potential to disrupt various industries. Therefore, fundamentally sound AI stocks Cisco Systems (CSCO),"
     publishedDateTime: 2021-09-30T20:34:00Z
@@ -78,6 +57,6 @@ related:
       domain: stocknews.com
     quality: 39
 
-secured: "ppZ1BqG3jDrgc33nrPLJ8PoZqx4qzQLAR5/S1hL96iN83K1BL6g3ztNWIlkivR/2JNUAcUOCHBRjLe7r9a608YIqYT3S30xZlOsb8qI70vFT+P4uirAbYdJQLtC4U1iIgVqN05fO0g7UbYxf11HzU79BpuSRo29TSunRfm/aWfJldYKWEFqB2mCgfyloJiobaJkARXkECb5F1A5wQou8hdNkQ6JYNOA6JecNlA3jC5KKHIIIx2g+vX/2n6XXTGiHJN6l9lUxgSxPStaALIjg9gzlkZ7Gr06WoSNUT3WN5555tPuVbv2bj6VQenTFG/yDTgK7bbcqhA39Uu07genKm77jNpbage0pPC6Y2gO9m09CrEeCTv4mlp1iJPFvSgXJJ22hX3o+ZYfP9ebDzgb3dMPo9AYwYL1b97JQZ9OxJf7w+UQvdW7A/WL7Eqg/v7nxG4rY2Vcn2//tRKvYn4OgJTjhyM91Kf4HTj0qrsUE1fBwa808mHyaWauZn5SO5WULkYkQa78xd1L01EiIZJEqLA==;sa0DIYgH8JpSHp4g+psX4A=="
+secured: "D2ssrPDqZ5un/gyyJqxiDQUnXSFJjHhxf1JdtjdlBky2+vRAhjOd5az5fhYsVUhYL8eJPwYTElliwkuZpSGcxOR3G6rbDiCf03knt/3DgsK0EMKISzxPMs1N5C61KwAzMfcoCpL3P1JKJr4N4nExlbPB4IOULxjFTmXyXCh+jaS9qQ86geNskxJgrntxx32fiLhYGVslYONHXn236VlEAg5M7tSUuc0ZV5zj77/kIM8lt2hyXq/mbcX8UYQ8LL1+S7enMNllAXGxns+x52Qgv9rMT/mCgvLfc09LJdkR7n0kg5tXsN+EfSpenT6stU6yOjnGC5J5bhsaXXEJ4P6mqbkNTB769H5XWin0TDJ1cQZ1RDxrqSLYHS5TBe1tSCGCpBYeeLQ3PN8RC15a4H3gXsfMIOR+IAaxMs3BVotGEgZZJKSAnAUmY02vHBxZEc7UMKNV0uH3a2NxYO6ofhkP1k7oHuaXly8uJkfzLbZ4g3w30xcxOvdv0dua82t/gAnOCT/tn148ckUVReizpbvqOA==;3hHcQt0ivxjPej6TP3SmxA=="
 ---
 

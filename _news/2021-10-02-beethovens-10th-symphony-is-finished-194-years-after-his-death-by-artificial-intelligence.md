@@ -42,22 +42,6 @@ related:
         width: 2560
         height: 1864
         isCached: true
-  - title: "Beethoven’s unfinished Tenth Symphony completed by artificial intelligence"
-    excerpt: "Beethoven’s previously unfinished Tenth Symphony has been completed by artificial intelligence technology. The work will have its world premiere in Germany next month, 194 years after the composer’s death."
-    publishedDateTime: 2021-09-28T13:44:00Z
-    webUrl: "https://www.classicfm.com/composers/beethoven/unfinished-tenth-symphony-completed-by-artificial-intelligence/"
-    ampWebUrl: "https://amp.classicfm.com/composers/beethoven/unfinished-tenth-symphony-completed-by-artificial-intelligence/"
-    cdnAmpWebUrl: "https://amp-classicfm-com.cdn.ampproject.org/c/s/amp.classicfm.com/composers/beethoven/unfinished-tenth-symphony-completed-by-artificial-intelligence/"
-    type: article
-    provider:
-      name: Classic FM
-      domain: classicfm.com
-    quality: 55
-    images:
-      - url: "https://imgs.classicfm.com/images/263906?crop=16_9&width=500&relax=1&signature=rIJvuAJCDbhVnFqjIZmy65lTDbE="
-        width: 500
-        height: 281
-        isCached: true
   - title: "Team uses AI to complete Beethoven's unfinished masterpiece"
     excerpt: "MARTIN: ...And the fantastical \"Moonlight Sonata.\" (SOUNDBITE OF LUDWIG VAN BEETHOVEN'S \"MOONLIGHT SONATA\") MARTIN: But for all the sonatas, concertos and symphonies Beethoven wrote, there remained one piece he never completed."
     publishedDateTime: 2021-10-03T03:06:00Z

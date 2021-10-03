@@ -24,36 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Leena AI gets $30 million funding from Bessemer, B Capital"
-    excerpt: "The funding will help enterprise SaaS startup Leena AI launch new products, enter new geographies like North America and Europe, and hire talent for marketing and sales."
-    publishedDateTime: 2021-09-28T14:00:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/leena-ai-gets-30-million-funding-from-bessemer-b-capital/articleshow/86586687.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/leena-ai-gets-30-million-funding-from-bessemer-b-capital/amp_articleshow/86586687.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/leena-ai-gets-30-million-funding-from-bessemer-b-capital/amp_articleshow/86586687.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 157
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-62692,msid-86586647/adit-jain-leena-ai-.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Leena AI Raises $30 Mn Series B Round Led By Bessemer Venture Partners"
-    excerpt: "The new capital will accelerate product innovation to meet global demand for the platform for new and existing customers"
-    publishedDateTime: 2021-09-28T14:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/388110"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1632836657-marcel-strauss-oTtgJcrs72w-unsplash.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Leena AI Announces $30M Series B round led by Bessemer Venture Partners"
     excerpt: "Leena AI, the company that's revolutionizing enterprise employee experience, today announced it has raised a $30 million Series B financing round, bringing the company's total amount raised to $40 million."
     publishedDateTime: 2021-09-28T20:34:00Z
@@ -97,20 +67,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1637941/Leena_AI_Logo.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "HR-tech startup Leena AI raises $30 mn in Series B funding led by Bessemer"
-    excerpt: "HR-tech startup Leena AI said on Wednesday it has raised $30 million (about Rs 222 crore) in a Series B funding round led by Bessemer"
-    publishedDateTime: 2021-09-29T15:08:00Z
-    webUrl: "https://www.vccircle.com/hr-tech-startup-leena-ai-raises-30-mn-in-series-b-funding-led-by-bessemer"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 35
-    images:
-      - url: "https://assets.vccircle.com/uploads/2019/06/Fundraisingrf.jpg"
-        width: 810
-        height: 506
         isCached: true
 
 secured: "fYzpm0OCOJvQPADLsboDU1uGHf3POU2eFZVkrXmMnK13NpqSRoeDmjJ7UvhtlrZBzr8BBS8AN3z1L37uNih74F7xmDrccKwy4EFKw5c919dVFHA2SBP3LBfKB9nEExwpeLtxYNwo/J7QK3EqJszuOWpK4wW3/RNTEI4NkJBeVdOR9OksqUFlSc3Rl512qXaP5mGL3wIb9JQbrGLL5nYeh+hbZtTmRVy8D04Vx8ne9gELpcCfbW/i2GKreV+nANzMK5VgrKvG4Q3j5+DFh2oTdrPxEhQpqtYl1zIB+qFlkDcZ2Fpni31QRplqefUBjryOuPsbW6dks/hKGwWcHTeAWLmJTKJpKSsqoWYex7bc6gE=;At1GIq0OLdoivD9SEu+BOg=="

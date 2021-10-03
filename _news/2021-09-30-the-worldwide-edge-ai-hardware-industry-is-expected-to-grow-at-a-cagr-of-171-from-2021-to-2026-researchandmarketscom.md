@@ -53,20 +53,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Computer Vision Market Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Computer Vision Market for 2021 till 2030. Report further now discus"
-    publishedDateTime: 2021-10-01T04:41:00Z
-    webUrl: "https://menafn.com/1102897488/Computer-Vision-Market-Top-Companies-Business-Growth-And-Investment-Opportunities-Share-and-Forecasts-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 20
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?957675"
-        width: 398
-        height: 250
-        isCached: true
   - title: "Global Laser Processing Market Research Report (2021 to 2026) - by Vertical, Configuration, Application and Region"
     excerpt: "The \"Laser Processing Market Research Report by Vertical, by Configuration, by Application, by Region - Global Forecast to 2026 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-09-29T19:24:00Z
@@ -81,6 +67,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Computer Vision Market Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for  Computer Vision Market  for 2021 till"
+    publishedDateTime: 2021-10-01T04:41:00Z
+    webUrl: "https://menafn.com/1102897489/Computer-Vision-Market-Top-Companies-Business-Growth-And-Investment-Opportunities-Share-and-Forecasts-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
 
 secured: "3tYJibBF/i45ZyOXrWCWzWq6WXuaGZBUfj+HJHn0FUGPSAXnwjnGCu3HKWMWE2Od0og8N8G9pMh42JNKR9nt2QENX0p+gvOLHA8VdD+fHbqkuf6bairk+JpfixsDgBJYVwJEWTT7iBD8gSSlUZBXFCWxSD0nBS6aILf8miPQw8jT/IYmifqFD5R06NyyMaKE+Mh+1VTc0eo4CE0mAL/LCBM/wHLPN65TmVEetZtogLJBSTizzlH/JyUBBN5JupdV+Ew0Ri7hhnp1Iin1MEC6RHfCjhRQEopimln6URN0qH1ulN6aAX34wNbDuRddlEevKqi5/qb62purvpwPDtYDIhKxP3U1+avpdeMDGUQMSC4=;At2uKze8OjCMusraGEtEHQ=="
 ---
