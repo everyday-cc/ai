@@ -57,20 +57,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Chips, AI on table at first US-EU trade and tech meet"
-    excerpt: "WASHINGTON: The United States and the European Union hope to discuss chip shortages, artificial intelligence (AI) and tech competition issues during the first Trade and Tech Council (TTC) meeting this week,"
-    publishedDateTime: 2021-09-29T03:00:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2021/09/29/chips-ai-on-table-at-first-us-eu-trade-and-tech-meet"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/09/29/1311368.jpg"
-        width: 1240
-        height: 827
-        isCached: true
   - title: "US and EU work together to sort out chip shortage"
     excerpt: "More unified approach on Big Tech regulation The United States and European Union agreed on Wednesday to deepen transatlantic cooperation to strengthen semiconductor supply chains, and take a more unified approach to regulating big,"
     publishedDateTime: 2021-09-30T10:05:00Z

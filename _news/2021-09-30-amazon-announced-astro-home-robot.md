@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Amazon Astro could be the first mainstream robot assistant"
-    excerpt: "Ever since Amazon introduced Alexa to the world and invested heavily in its personal assistant AI, it seemed we all knew where the company was eventually heading: personal robots. That moment has finally arrived."
-    publishedDateTime: 2021-09-29T01:53:00Z
-    webUrl: "https://thenextweb.com/news/amazon-astro-robot-assistant"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FSnag_72f2a89.png&signature=24f080df35275ccae424a76bc49e5f44"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Amazon Introduces the Home Robot Astro"
     excerpt: "The American online sales giant Amazon has introduced an autonomous robot that is designed for home use. It's called the Astro, it's about 50 cm high, and it has a camera that makes it possible to make video calls."
     publishedDateTime: 2021-09-29T11:48:00Z

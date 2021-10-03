@@ -278,6 +278,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-28-artificial-intelligence-the-challenge-for-air-and-space-power.md",
+      "title": "Artificial Intelligence – The Challenge for Air and Space Power",
+      "excerpt": "In this series of blogs, Professor Patrick Baker, takes a deep dive into the world of Artificial Intelligence (AI), the challenges it presents in a defence context, and its potential contributions to air and space power.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kcl.ac.uk/artificial-intelligence-the-challenge-for-air-and-space-power",
+      "originalUrl": "https://www.kcl.ac.uk/artificial-intelligence-the-challenge-for-air-and-space-power",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kcl.ac.uk/newimages/sspp/security/generalschool/feature-800-430/hand-and-robot.x7b5aba48.png?f=webp",
+          "width": 780,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "kcl.ac.uk",
+        "domain": "kcl.ac.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-driver-killed-by-his-own-car-door-while-waiting-in-line-at-fast-food-drive-thru-providing-cautionary-insights-for-ai-self-driving-cars.md",
       "title": "Driver Killed By His Own Car Door While Waiting In Line At Fast-Food Drive-Thru, Providing Cautionary Insights For AI Self-Driving Cars",
       "excerpt": "Sad news story about a driver that was killed by his own car door (while in a drive-thru), provides cautionary insights about the advent of AI-based self-driving cars. Here's the insider look.",
@@ -383,20 +426,20 @@
     },
     {
       "path": "_news/2021-09-27-china-vows-further-curbs-on-disorderly-expansion-by-tech-firms.md",
-      "title": "China vows further curbs on 'disorderly expansion' by tech firms",
-      "excerpt": "Mr Sheng also listed self-driving vehicles and platform economies as ... or smart delivery applications could impact Meituan, for instance, while Baidu has worked on autonomous driving and Alibaba Health Information Technology and JD Health International ...",
+      "title": "China Vows Further Curbs on ‘Disorderly Expansion’ by Tech Firms",
+      "excerpt": "Sheng also listed self-driving vehicles and platform economies as areas that ... Regulation of shared economy or smart delivery applications could impact Meituan, for instance, while Baidu Inc. has worked on autonomous driving and Alibaba Health ...",
       "sourceUrl": null,
-      "webUrl": "https://www.straitstimes.com/asia/east-asia/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms",
-      "originalUrl": "https://www.straitstimes.com/asia/east-asia/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms",
+      "webUrl": "https://www.bloombergquint.com/business/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms",
+      "originalUrl": "https://www.bloombergquint.com/business/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/09/27/mi_apollocar_270921.jpg?itok=XN4SxYfp",
-          "width": 763,
-          "height": 509,
+          "url": "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -406,11 +449,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T02:13:00-07:00",
+      "publishedDateTime": "2021-09-27T01:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Straits Times",
-        "domain": "straitstimes.com",
+        "name": "BloombergQuint",
+        "domain": "bloombergquint.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1340,58 +1383,6 @@
         "name": "InvestorPlace",
         "domain": "investorplace.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-tesla-slips-on-evergrande-contagion-and-report-of-us-vehicle-regulator-concerns-over-self-driving-tech.md",
-      "title": "Tesla slips on Evergrande contagion and report of US vehicle regulator concerns over self-driving tech",
-      "excerpt": "Tesla Model 3 .. Tesla shares pulled back Monday, swept up in contagion fears over the fallout of China's Evergrande property develo",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tesla-stock-price-china-evergrande-self-driving-safety-tech-ntsb-2021-9",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tesla-stock-price-china-evergrande-self-driving-safety-tech-ntsb-2021-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60c36c906d855e0018157852?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/tesla-stock-price-china-evergrande-self-driving-safety-tech-ntsb-2021-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-stock-price-china-evergrande-self-driving-safety-tech-ntsb-2021-9?amp",
-      "publishedDateTime": "2021-09-20T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

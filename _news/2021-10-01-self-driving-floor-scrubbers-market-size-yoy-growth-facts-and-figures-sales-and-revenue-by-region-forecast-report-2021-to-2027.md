@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cognitive Computing Market Revenue, Major Players, Consumer Trends, Analysis & Forecast Till 2027"
+    excerpt: "United States OR Portland The Cognitive Computing Market 2021 report is a comprehensive professional and in depth research of market that delivers significant data for those who are seeking information for the Cognitive Computing industry The market report delivers the"
+    publishedDateTime: 2021-09-29T11:39:00Z
+    webUrl: "https://www.openpr.com/news/2411600/cognitive-computing-market-revenue-major-players-consumer"
+    ampWebUrl: "https://www.openpr.com/amp/2411600/cognitive-computing-market-revenue-major-players-consumer"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2411600/cognitive-computing-market-revenue-major-players-consumer"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
+    images:
+      - url: "https://cdn.openpr.com/U/9/U929767438_g.jpg"
+        width: 674
+        height: 450
+        isCached: true
   - title: "Artificial Intelligence Market Key Drivers, Restraints, Industry Size & Share, Opportunities, Trends, and Forecasts up to 2028"
     excerpt: "The global Artificial Intelligence Market is expected to rise with an impressive CAGR and generate the highest revenue by 2026 Fortune Business Insights in its latest report published this information The report is titled Artificial Intelligence AI Market Size Share"
     publishedDateTime: 2021-09-30T13:32:00Z
@@ -41,6 +57,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 26
+  - title: "Global Laser Processing Market Research Report (2021 to 2026) - by Vertical, Configuration, Application and Region"
+    excerpt: "The \"Laser Processing Market Research Report by Vertical, by Configuration, by Application, by Region - Global Forecast to 2026 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-09-29T19:24:00Z
+    webUrl: "https://www.lelezard.com/en/news-20022226.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 2
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/mining-industry.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "eUy17KryNidwAf+i4rz5fW0xQrr2Sahg3QWImHxjzqD0mz7h7cCIMCA5fAmwxdmx+W0hRTKK749v5/XESifp1S8j6/QvKcLZ9yGb2vHzIV5TeAdnMFZPyuUFZ5u5K7+YYYc40krQSuhoo2fTofipy0+FwQVecThfp+ikaItTaq1YpIWMywd3qD6gsiMPHJReFRs+H+ow9QfpQrHVLa55g1CEevcrlS2DExzwhkznNSvks0bdcsH5+WX60bHrrz3z9nPJYYcjDF0ts9OOb+NUTYTO5w+tYFJL3k3xJbyNfMDCBluStVJs1dMHfybHFnSFD1whQXUJY4ylSS5MF3Tw+qvf7321iOvH8LUnelW4nP0=;sdCPSQOIja3tOC1Wx/MKbw=="
 ---

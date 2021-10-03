@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/03/amazons-astro-robot-a-feat-of-sci
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/03/amazons-astro-robot-a-feat-of-science-or-a-successful-product/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Astro could be the first mainstream robot assistant"
-    excerpt: "Ever since Amazon introduced Alexa to the world and invested heavily in its personal assistant AI, it seemed we all knew where the company was eventually heading: personal robots. That moment has finally arrived."
-    publishedDateTime: 2021-09-29T01:53:00Z
-    webUrl: "https://thenextweb.com/news/amazon-astro-robot-assistant"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FSnag_72f2a89.png&signature=24f080df35275ccae424a76bc49e5f44"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Amazon Announced Astro Home Robot"
     excerpt: "Tech giants Amazon Inc (AMZN) have unveiled its home robot, named Astro, on Tuesday in the fall hardware event. The robot is calibrated to watch over homes, carry small things, play with children, play music,"
     publishedDateTime: 2021-09-29T20:14:00Z
@@ -85,6 +71,6 @@ related:
         height: 1440
         isCached: true
 
-secured: "QQuWXDlPCTvfOE0C5QwPZ+3weQ0iWPfI0aKcpiSsOr0j2MGdQWOhHIETSnUV9oVvgrc+YvpvoflTSj5npmOHxGyQvJPxBPc70MAmSoPQd8zn0yLVe04R8Q8sRpKGSJIwi+iTHwaUGiNfCjXQD6LBdbvZ2vRO8MhksdoRxaiBzBbMme35Vc5zCXv36tdGaBIeB0ywc54rDlVWvvreORZJit0RPedsFnLQDPO9ehFLKradNwzs4oxxXA1NsXSsbL2stqyLSDJ+97bl81iXwEWe5U828e66FXPLWB4ssK4996spJOv6l3Td9vBDeIPd8qsuO5dOcTNBTVI6MT7dhCwoJU2qeTWkzhct5GGnK/EB7KQ=;wTwStbtO8sjX2ZpS7sxPrg=="
+secured: "kLQ8H3bvuHoM2ahPRXB80aGSvL116YNLuq8Vm0JmJAMKD6yz734Foe1+JkBtC8gxYJg04km8613ZNWp0aLFONq2OvdtGMAS5V30FYxd2H23M+yJCUv5nphb3L6unvKEt+Nn6ApuwndbEa8o7pZjJS3gotWbOpqRNhN4iXT2zfLeOhMstJ0fdvqp2i4d+Dd0YiWP5Ucn1iaPnMwzlwDxTDE2sF/Y9nDqYinkpNgh7cR7aDzAFxlJUBut8ZboUOKnEn3z3YEpjzWZsxSVakkxx/heqbmhPVMtf47OAte3RB1rMMbw0UIzvvxaaV++MU4erqjz4piGTg2xrm0FNH/Vxr55ZF7pZzsz0UrbgcOWsAKrXs5bNVtHGfWS1xDQB72qyKNrk3BIFwToW+hQZ0EhZufMgKkU7tp0uycHAt3C/d8R9jWa2quG03nRahGeZ4a7PZjbdAWFXmG5l5mUtA40sZUJQaslZSBIKd8GRhbwN5RecUqa6V4P4VWcd5FbnB9BeFYseuZvAWHSUk3YS0hr97g==;Asok9LvRI0saNHVw4p1baA=="
 ---
 

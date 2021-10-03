@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wraltechwire.com/2021/10/02/amazon-home-security-robots-
 cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/10/02/amazon-home-security-robots-inside-drones-outside-cameras-all-around/?amp=1"
 type: article
 quality: 75
-heat: 117
+heat: 118
 published: true
 
 provider:

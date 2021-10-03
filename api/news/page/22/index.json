@@ -2,6 +2,135 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-09-15-robot-vacuums-are-learning-to-avoid-dog-poop-but-thats-not-all-they-can-see.md",
+      "title": "Robot vacuums are learning to avoid dog poop. But that's not all they can see.",
+      "excerpt": "In the lab, robots are engineered for mind-blowing displays of perception and agility, like Boston Dynamics’ parkour performing bot and the humanoid shooting hoops at the Olympics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unionleader.com/news/back_page/robot-vacuums-are-learning-to-avoid-dog-poop-but-thats-not-all-they-can-see/article_78f9a033-f659-52b2-8421-48ad86394958.html",
+      "originalUrl": "https://www.unionleader.com/news/back_page/robot-vacuums-are-learning-to-avoid-dog-poop-but-thats-not-all-they-can-see/article_78f9a033-f659-52b2-8421-48ad86394958.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Hampshire Union Leader",
+        "domain": "unionleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-automated-boba-bar-startup-integrates-facial-recognition-payments-to-build-loyalty-through-frictionless-convenience.md",
+      "title": "Automated Boba Bar Startup Integrates Facial Recognition Payments to Build Loyalty Through Frictionless Convenience",
+      "excerpt": "Automated boba bar startup Bobacino has partnered with facial recognition payment company PopID to enable consumers to pay for their beverage with their faces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/restaurant-innovation/2021/automated-boba-bar-startup-integrates-facial-recognition-payments/",
+      "originalUrl": "https://www.pymnts.com/restaurant-innovation/2021/automated-boba-bar-startup-integrates-facial-recognition-payments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/09/Bobacino-facial-recognition-payment-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/restaurant-innovation/2021/automated-boba-bar-startup-integrates-facial-recognition-payments/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/restaurant-innovation/2021/automated-boba-bar-startup-integrates-facial-recognition-payments/amp/",
+      "publishedDateTime": "2021-09-14T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-de-wandel-and-mathews-artificial-intelligence-held-artificial-promise-to-yield-health-care-equality.md",
+      "title": "De Wandel and Mathews: Artificial intelligence held artificial promise to yield health care equality",
+      "excerpt": "Despite high expectations that computer technology could balance medical treatment between the races, the result has been the opposite.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/opinion/columnists/de-wandel-and-mathews-artificial-intelligence-held-artificial-promise-to-yield-health-care-equality/article_257e24fa-9074-5739-b74d-62523f311528.html",
+      "originalUrl": "https://www.stltoday.com/opinion/columnists/de-wandel-and-mathews-artificial-intelligence-held-artificial-promise-to-yield-health-care-equality/article_257e24fa-9074-5739-b74d-62523f311528.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517",
+          "width": 600,
+          "height": 517,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-locus-robotics-collects-50-million-in-new-funding-for-amrs.md",
       "title": "Locus Robotics collects $50 million in new funding for AMRs",
       "excerpt": "Warehouse automation provider Locus Robotics today gained new fuel to develop its autonomous mobile robot (AMR) technology for fulfillment tasks, thanks to a $50 million funding round. Massachusetts-based Locus Robotics said the new backing would facilitate continued growth and expansion into new markets around the globe,",
@@ -948,135 +1077,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-dotdata-and-tableau-partner-to-accelerate-augmented-and-predictive-analytics-for-the-business-intelligence-community.md",
-      "title": "dotData and Tableau Partner to Accelerate Augmented and Predictive Analytics for the Business Intelligence Community",
-      "excerpt": "As a result of this partnership, Tableau users will be able to build customized predictive analytics solutions faster and more easily. By combining Tableau’s data preparation and visualization capabilities with dotData’s augmented insights discovery and predictive modeling capabilities,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/science-5a81442f0e74026f77626dfe027d4189",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-5a81442f0e74026f77626dfe027d4189",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-is-the-robot-war-upon-us.md",
-      "title": "Is The Robot War Upon Us?!",
-      "excerpt": "Yikes... For decades, mankind has feared the day technology becomes cleverer than us. Now it’s here, and we were too busy trying to sync our Sonos to notice. Welcome to The Big Techover.... Is The Robot War Upon Us?",
-      "sourceUrl": null,
-      "webUrl": "https://www.cosmopolitanme.com/news/23082-robot-war-tech-intelligence-normal",
-      "originalUrl": "https://www.cosmopolitanme.com/news/23082-robot-war-tech-intelligence-normal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cosmopolitanme.com",
-        "domain": "cosmopolitanme.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-snowflake-launches-financial-services-data-cloud-touts-big-customer-wins.md",
-      "title": "Snowflake launches Financial Services Data Cloud, touts big customer wins",
-      "excerpt": "Snowflake launched its Financial Services Data Cloud with more than 600 industry data partners as well as large customers including BlackRock, Capital One and Western Union. In February, Snowflake ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/snowflake-launches-financial-services-data-cloud-touts-big-customer-wins/",
-      "originalUrl": "https://www.zdnet.com/article/snowflake-launches-financial-services-data-cloud-touts-big-customer-wins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/13/bed3330e-9d63-4f85-8879-0016d089e88a/resize/1200xauto/c1f36f8f4e67cf9809fe57cbd2d6b16c/snowflake-finserv2.png",
-          "width": 1200,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/snowflake-launches-financial-services-data-cloud-touts-big-customer-wins/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/snowflake-launches-financial-services-data-cloud-touts-big-customer-wins/",
-      "publishedDateTime": "2021-09-14T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

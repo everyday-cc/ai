@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Global Voice And Speech Recognition Software Market 2021 Major Players, Competitive Spectrum, Revenue Share and Sales Projections by 2027"
-    excerpt: "Global Voice And Speech Recognition Software Market 2020 by Company, Type and Application, Forecast to 2025 recently presented by MarketQuest.biz concretes the best results, integrated approaches, and the latest technology."
-    publishedDateTime: 2021-09-29T02:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-and-speech-recognition-software-market-2021-major-players-competitive-spectrum-revenue-share-and-sales-projections-by-2027-2021-09-28"
+  - title: "Self-Driving Floor Scrubbers Market Size YoY Growth, Facts and Figures, Sales and Revenue by Region | Forecast Report 2021 to 2027"
+    excerpt: "Oct 01, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" The report analyse the growth rate of"
+    publishedDateTime: 2021-10-01T11:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-floor-scrubbers-market-size-yoy-growth-facts-and-figures-sales-and-revenue-by-region-forecast-report-2021-to-2027-2021-10-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -55,6 +55,17 @@ related:
         width: 674
         height: 450
         isCached: true
+  - title: "Artificial Intelligence Market Key Drivers, Restraints, Industry Size & Share, Opportunities, Trends, and Forecasts up to 2028"
+    excerpt: "The global Artificial Intelligence Market is expected to rise with an impressive CAGR and generate the highest revenue by 2026 Fortune Business Insights in its latest report published this information The report is titled Artificial Intelligence AI Market Size Share"
+    publishedDateTime: 2021-09-30T13:32:00Z
+    webUrl: "https://www.openpr.com/news/2413197/artificial-intelligence-market-key-drivers-restraints"
+    ampWebUrl: "https://www.openpr.com/amp/2413197/artificial-intelligence-market-key-drivers-restraints"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2413197/artificial-intelligence-market-key-drivers-restraints"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 26
 
 secured: "4lrIfmd4fc8ezIy/WQMEnj5nKM3IlQT97gHShoS9dhVdCFWQvYwRe8nXB2uy69gxdvNtkDl5O9GAQDC2H6C/++SXDu/uT77nMWNqH52BE0gLVXWGU5JNxsdTug0+YsdkERBoT3M6rEYyyXO6Ox2/ZZilHHXgHcUyzmidmTDEyF4ScpjntSDc/4UYJsoN7rm2lYVhMa1f+I0Vtg9vVD5KbWyTJbwVmw65B4uCoGEUMDEf6/lerXX+PRDGMg341qcK+5CF+e3vs1EQfIJspEp/kJ/6ifOSuCFURTUlhxbiLmDBfimwop4uHdq+YKJYDbvwBOQmeJMyXio8xmhk6FM13zGZV8GP2XKSzRkHhBjCBh4=;+OfqxEYK8Ecqk13VxyZkTg=="
 ---
