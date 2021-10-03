@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nd
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/amp/"
 type: article
 quality: 188
-heat: 358
+heat: 348
 published: true
 
 provider:
@@ -273,20 +273,6 @@ related:
       - url: "https://CNNWIRE.images.worldnow.com/images/21451695_G.jpg?lastEditedDate=1632832225000"
         width: 500
         height: 333
-        isCached: true
-  - title: "Tesla Allows Drivers to Request Full Self-Driving Beta Despite Safety Concerns"
-    excerpt: "Despite multiple concerns surrounding the safety concerns of Tesla ‘s Autopilot feature, the electric vehicles company has now given its drivers access to the “Full Self-Driving” (FSD) program. With just a touch of the “request” button,"
-    publishedDateTime: 2021-09-28T06:57:00Z
-    webUrl: "https://hypebeast.com/2021/9/tesla-drivers-ca-request-full-self-driving-beta-despite-safety-concerns"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 35
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F09%2Ftesla-drivers-ca-request-full-self-driving-beta-despite-safety-concerns-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
         isCached: true
 
 secured: "ZxGAud9M/SDDMwLhpsyghykSP9Snccd2rKTIFBJPKPnlmFYpOCv8SaaGLnCkuhBofEALMHzAq6saxc/mLthS+9ko7sGnCT1kOLfWVVBiFtnbNdi9rO3GDXuf69kQpv+cm4BY9p/UDM1+tDV+uRqizxejco5bRq0VbimnjuA1eJQbij0xoLpYxs2YR0DUU3gocakZUxGjrrhBRjfWE0JFgjONJh4Cwe8LYkAlnVVlBJ6Ap10BawX7169aGhuLdkJsSKUCh/cPn4we4B9zlyYUl163B5LhS1aS1QDn/+5u7pC1FRDr0FfHdqNb2g6t1hsx21TpIyk06cAg9cXff9kK/3W7na7/ADq2Avji2xHshpVyS6b1hMglvP1232TG/a2kilnyJ6A2JzFQFFusiuzXA/8MZqfd5wjMiUDBYUsp9N5NifcooGpa42vKTQMBz+6+FhHHCuYzRfoV/2bHcn4NYnHkrPF2PjjLLPOTz4CyqdLMYNopxRnyrhOPw96JWr8FMIgfva/YtUjDhTkjgVq/4YLQxPaJF4Uutb3JxUdraIU=;hnvgKrAlIrZ2IJgpIkL7aA=="

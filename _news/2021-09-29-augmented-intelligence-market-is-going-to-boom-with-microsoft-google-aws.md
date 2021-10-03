@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google And Microsoft Are Creating A Monopoly On Coding In Plain Language"
-    excerpt: "Sometimes major shifts happen virtually unnoticed. On May 5, IBM announced Project CodeNet to very little media or academic attention."
-    publishedDateTime: 2021-09-28T06:17:00Z
-    webUrl: "https://www.techfinancials.co.za/2021/09/28/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language/"
-    type: article
-    provider:
-      name: techfinancials
-      domain: techfinancials.co.za
-    quality: 55
-    images:
-      - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2020/08/christopher-gower-m_HRfLhgABo-unsplash-scaled.jpg"
-        width: 2560
-        height: 1704
-        isCached: true
   - title: "smartShift achieves the SAP on Microsoft Azure Advanced Specialization"
     excerpt: "Shift a leading provider of automated transformations and management of legacy enterprise systems in the cloud today announced it has achieved SAP on Microsoft Azure Advanced Specialization. The advanced specialization is designed for"
     publishedDateTime: 2021-09-30T14:07:00Z

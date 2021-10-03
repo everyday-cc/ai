@@ -74,6 +74,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Team uses AI to complete Beethoven's unfinished masterpiece"
+    excerpt: "You won’t find a paywall here. Come as often as you like — we’re not counting. You’ve found a like-minded tribe that cherishes what a free press stands for. If you can spend another ..."
+    publishedDateTime: 2021-10-02T23:57:00Z
+    webUrl: "https://knpr.org/npr/2021-10/team-uses-ai-complete-beethovens-unfinished-masterpiece"
+    type: article
+    provider:
+      name: KNPR
+      domain: knpr.org
+    quality: 37
+    images:
+      - url: "https://knpr.org/sites/default/themes/siteskin/inc/images/ogimg.png"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Scientists Built an Artificial Intelligence to Finish Beethoven’s Tenth Symphony"
     excerpt: "We don't know what Beethoven meant to do for his unfinished 10th Symphony. But what if we could plug his music into an AI to figure it out?"
     publishedDateTime: 2021-09-30T14:44:00Z

@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-09-21-googler-marian-croak-is-now-in-the-inventors-hall-of-fame.md",
+      "title": "Googler Marian Croak is now in the Inventors Hall of Fame",
+      "excerpt": "Look around you right now and consider everything that was created by an inventor. The computer you’re reading this article on, the internet necessary to load this article, the electricity that powers the screen, even the coffee maker you used this morning. To recognize the incredible contributions of",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/marian-croak-inventors-hall-fame/",
+      "originalUrl": "https://blog.google/technology/ai/marian-croak-inventors-hall-fame/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/marian2.max-1300x1300.png",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/marian-croak-inventors-hall-fame/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/marian-croak-inventors-hall-fame/amp/",
+      "publishedDateTime": "2021-09-21T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-21-making-games-immersive-and-engaging-through-aws-aiml.md",
       "title": "Making games immersive and engaging through AWS AI/ML",
       "excerpt": "He also cited the case study of how Sony Interactive Entertainment modernised the PlayStation Playstore, using Amazon SageMaker and Amazon Personalize. In terms of monetisation strategies ...",
@@ -1123,57 +1175,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-putting-the-human-back-into-the-equation-personalization-and-ai-driven-digital-banking-experiences.md",
-      "title": "Putting the human back into the equation: Personalization and AI-driven digital banking experiences",
-      "excerpt": "As more consumers turn to digital tools to manage their finances, banks must be proactive ini creating contextually-relevant experiences .",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/20/putting-the-human-back-into-the-equation-personalization-and-ai-driven-digital-banking-experiences/",
-      "originalUrl": "https://venturebeat.com/2021/09/20/putting-the-human-back-into-the-equation-personalization-and-ai-driven-digital-banking-experiences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-597064809.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/20/putting-the-human-back-into-the-equation-personalization-and-ai-driven-digital-banking-experiences/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/20/putting-the-human-back-into-the-equation-personalization-and-ai-driven-digital-banking-experiences/amp/",
-      "publishedDateTime": "2021-09-20T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

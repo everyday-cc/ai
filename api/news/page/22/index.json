@@ -2,6 +2,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-09-14-new-ai-writes-computer-code-still-not-skynet-but-its-learning.md",
+      "title": "New AI Writes Computer Code: Still Not Skynet, But It’s Learning",
+      "excerpt": "Sometimes, when you feed an AI content from the Internet, it learns natural language. Sometimes, it reads the entire contents of GitHub and learns to produce simple snippets of code. This is the story of what happens when the AI does both.",
+      "sourceUrl": null,
+      "webUrl": "https://www.extremetech.com/extreme/326929-new-ai-writes-computer-code-still-not-skynet-but-its-learning",
+      "originalUrl": "https://www.extremetech.com/extreme/326929-new-ai-writes-computer-code-still-not-skynet-but-its-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.extremetech.com/wp-content/uploads/2015/12/Brain-Machine-2.jpg",
+          "width": 1710,
+          "height": 952,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ExtremeTech",
+        "domain": "extremetech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-taking-lessons-from-a-sea-slug-study-points-to-better-hardware-for-artificial-intelligence.md",
       "title": "Taking lessons from a sea slug, study points to better hardware for artificial intelligence",
       "excerpt": "For artificial intelligence to get any smarter, it needs first to be as intelligent as one of the simplest creatures in the animal kingdom: the sea slug.",
@@ -1050,48 +1093,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-startup-algoriffix-pitches-ai-as-your-co-writer-technology.md",
-      "title": "Startup Algoriffix pitches ‘AI as your co-writer’ technology",
-      "excerpt": "The latest startup touting this idea is Algoriffix, which is developing a system that can be used by musicians, composers and producers. ‘AI as your co-writer’ is the slogan, with the suggestion that people “upload your unaccompanied solo or stem and let our algorithms recognise notes and recommend the meter and harmony that fit best your performance”.",
-      "sourceUrl": null,
-      "webUrl": "https://musically.com/2021/09/14/startup-algoriffix-pitches-ai-as-your-co-writer-technology/",
-      "originalUrl": "https://musically.com/2021/09/14/startup-algoriffix-pitches-ai-as-your-co-writer-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://musically.com/wp-content/uploads/2021/09/algoriffix.jpg",
-          "width": 1500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Music Ally",
-        "domain": "musically.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

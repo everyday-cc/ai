@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "5 Women In Fintech Who’re Now Taking Over India’s Finance Domain"
-    excerpt: "Women have been financially independent since just a century or so in India. Now, in the 21st century we have some inspiring women in Fintech who are making a wave."
-    publishedDateTime: 2021-09-28T06:24:00Z
-    webUrl: "https://www.womensweb.in/2021/09/women-in-fintech-entrepreneurs-taking-over-indias-finance-domain-oct21wk1sr/"
-    type: article
-    provider:
-      name: Women's Web
-      domain: womensweb.in
-    quality: 54
-    images:
-      - url: "https://www.womensweb.in/wp-content/volume_blr1_01/uploads/2021/09/women-in-fintech-3.png"
-        width: 1000
-        height: 499
-        isCached: true
   - title: "The ascent of the cloud in fintech"
     excerpt: "For India, it’s a case of the right place, right time, right conditions for the enthusiastic adoption of cloud tech for financial entities"
     publishedDateTime: 2021-09-28T12:01:00Z
@@ -128,20 +114,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
         width: 920
         height: 482
-        isCached: true
-  - title: "Coin, a FinTech startup launches Coin Wallet"
-    excerpt: "Coin, a US-based FinTech start-up founded by Microsoft alumni ... Coin Wallet is an all-in-one decentralized cryptocurrency exchange, wallet, and AI assistant. Coin Wallet is non-custodial, resides in a browser extension, and includes an integrated ..."
-    publishedDateTime: 2021-09-28T05:31:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/coin-a-fintech-startup-launches-coin-wallet/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/Accelerating-transformation-through-Cloud@2x.png"
-        width: 401
-        height: 400
         isCached: true
   - title: "AI in Fintech Market Report 2020 Market Size by Key Players, Types, Applications, Countries, Forecast by 2027"
     excerpt: "AI in fintech market is expected to reach USD 9125 4 million by 2027 witnessing market growth at a rate of 65 7 in the forecast period of 2020 to 2027 The market has witness significant growth in the years"

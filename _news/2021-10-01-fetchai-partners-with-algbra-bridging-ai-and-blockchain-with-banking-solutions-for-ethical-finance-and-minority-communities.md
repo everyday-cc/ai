@@ -22,22 +22,6 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Cardano Blockchain Selected to Run AI Modules of Humanoid Robot Grace | Blockchain24"
-    excerpt: "It was officially announced that the Cardano blockchain plans to use the AI ​​modules of a humanoid robot named Grace. Well, the demand for this robot is not even an issue since robotics for aged care has seen tremendous growth due to the pandemic."
-    publishedDateTime: 2021-09-28T06:08:00Z
-    webUrl: "https://thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/"
-    ampWebUrl: "https://thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/amp/"
-    cdnAmpWebUrl: "https://thegoaspotlight-com.cdn.ampproject.org/c/s/thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/amp/"
-    type: article
-    provider:
-      name: thegoaspotlight
-      domain: thegoaspotlight.com
-    quality: 67
-    images:
-      - url: "https://thegoaspotlight.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "Sims Creator Uses Blockchain, AI in New Video Game About You"
     excerpt: "The creator of life-simulation video game The Sims is releasing a new title where players meet their inner id, and he’s using artificial intelligence and the blockchain to do it."
     publishedDateTime: 2021-09-28T09:00:00Z

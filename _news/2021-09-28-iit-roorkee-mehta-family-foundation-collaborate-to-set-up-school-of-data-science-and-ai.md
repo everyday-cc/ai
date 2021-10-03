@@ -58,20 +58,6 @@ related:
         width: 850
         height: 454
         isCached: true
-  - title: "IIT Roorkee Launches A New School for Data Science and Artificial Intelligence"
-    excerpt: "A global expert panel will help the School exchange expertise, with the goal of developing new data scientists and AI professionals."
-    publishedDateTime: 2021-09-28T05:38:00Z
-    webUrl: "https://analyticsindiamag.com/iit-roorkee-data-science-and-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 33
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Model_AIM.jpg"
-        width: 486
-        height: 273
-        isCached: true
 
 secured: "c42fzpLgdiPSC7H7iYwEcfXozKUCgIfCpP0tOWyCeZ5w+pOOWUE4MNqYUY0FBTuGF7mkIzG/BJkycPX/PsGlVqrfJM8ueCbLmvZABRCZ3FZ+Jq3scW6JAIDbICjktmZrFHCDb6H0lQFcH4sSepDaLeW3J2ywWPdfZ7P+Y5wnOWiwNUCDxBYwC22eDlsstKSdJd6YDvU0xYTKfTHZERV3OsV1G4pP5FPCALniXlA7JhGx9zhyTHmgJi9n+NaoRtgsEVJCugnInJHLcOl2bi8IxeTNMG5O8TsmTfkdn4bPOC3DZJulFqsyt12/HtbAQdrV1mmQuUKdvu3etABJZE2JIN2Ht9P0PpyKYBz08nyqm3E=;VCegKrydiXiG07eigRMJlQ=="
 ---

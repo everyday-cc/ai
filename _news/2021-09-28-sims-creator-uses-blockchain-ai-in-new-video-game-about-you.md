@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-09-28/sims-creator-us
 webUrl: "https://www.bloomberg.com/news/articles/2021-09-28/sims-creator-uses-blockchain-ai-in-new-video-game-about-you"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Bloomberg
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cardano Blockchain Selected to Run AI Modules of Humanoid Robot Grace | Blockchain24"
-    excerpt: "It was officially announced that the Cardano blockchain plans to use the AI ​​modules of a humanoid robot named Grace. Well, the demand for this robot is not even an issue since robotics for aged care has seen tremendous growth due to the pandemic."
-    publishedDateTime: 2021-09-28T06:08:00Z
-    webUrl: "https://thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/"
-    ampWebUrl: "https://thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/amp/"
-    cdnAmpWebUrl: "https://thegoaspotlight-com.cdn.ampproject.org/c/s/thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/amp/"
-    type: article
-    provider:
-      name: thegoaspotlight
-      domain: thegoaspotlight.com
-    quality: 67
-    images:
-      - url: "https://thegoaspotlight.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "Fetch.ai Partners with Algbra, Bridging AI and Blockchain with Banking Solutions for Ethical Finance and Minority Communities"
     excerpt: "Fetch.ai ( a Cambridge-based artificial intelligence lab building an open-access decentralised machine learning network for smart infrastructure, announced today a research and development partnership with Algbra,"
     publishedDateTime: 2021-10-01T05:32:00Z

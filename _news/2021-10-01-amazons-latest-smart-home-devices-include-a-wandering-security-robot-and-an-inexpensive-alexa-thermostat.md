@@ -60,6 +60,22 @@ related:
         width: 640
         height: 380
         isCached: true
+  - title: "Amazon's controversial vision for the future of your home security"
+    excerpt: "Amazon's vision for the future of home security includes drones flying over your roof, outdoor cameras that monitor for possible trespassers and cute robots patrolling indoors."
+    publishedDateTime: 2021-10-02T21:37:00Z
+    webUrl: "https://www.wcvb.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+    ampWebUrl: "https://www.wcvb.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+    type: article
+    provider:
+      name: WCVB Channel 5 Boston
+      domain: wcvb.com
+    quality: 61
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-7cba5e0629bc8bec312c8080d57b8459-h-a9a0089212e086209aacfe9662e04615-1633212724.jpg?crop=1.00xw:0.752xh;0,0.188xh&resize=1200:*"
+        width: 1200
+        height: 677
+        isCached: true
 
 secured: "e5YRkhrOstZC8ZOsRDifcIvdtJ3apfIvjPLKh2CxjLW5tJpmg7Tl+ufVX9RnsdC0R+GHe/RiXXkMpJC+F3cZRFBcOe0mutYwhfIPZaNNYDQ4N+kaHwj9aQoqKSOW/jVxUB/rXCNR6US/x3ufUoabsmCt6sexcKrGLx8fV3wBn5NCg98QXs0iBzAZGDKMbRvqUkii14o8PuqEWNjFDOVlM+up0kwwGp7huAJkEDvFkgMIlQf8kNk9X9Gg3MfxECyjFzmTBs1Vo6ZbcCiNRHVcFvPNO9oXTlGg/Dc33pa9/huNsFgQMi0Q+pz49rBo7g9LHnGQ1XlA3zu00xKIppRQK3Nlq5zFAGoD0nUwtzsL8JLLGqo5yDnsM1aRC2M97xWQuC6qjO4efTd1PVn/Wu3sQ9bdQXvLZepiM35Sg2/E67YXEHplbHMqJoXVYtHDuxBtuk7vVPxDrVK/q5ra603Bi6OiJAILn82D3o8pNwsvwTpTLi/IgUJxl3miW8P4bwcEGesMM6u2U6gWG2uY4B9woQ==;D0tXFNx1LgWNa1rGT/eDiA=="
 ---

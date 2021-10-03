@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/hillstone-networks-provides-cybersecurity-so
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/hillstone-networks-provides-cybersecurity-solutions-using-artificial-intelligence-interview-with-vice-president-timothy-liu/amp/"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence-based Cybersecurity Market By Advanced Technology, Demand, Growth, Opportunity"
-    excerpt: "Artificial intelligence has been advancing by leaps and bounds in recent years. Artificial intelligence-based cybersecurity can be defined as the integration of AI technology to streamline complex processes of cybersecurity to make the system more secure,"
-    publishedDateTime: 2021-09-28T06:07:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-based-cybersecurity-market-by-advanced-technology-demand-growth-opportunity/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-based-cybersecurity-market-by-advanced-technology-demand-growth-opportunity/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-based-cybersecurity-market-by-advanced-technology-demand-growth-opportunity/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 41
-    images:
-      - url: "https://www.transparencymarketresearch.com/images/artificial-intelligence-based-cybersecurity-market-size-and-forecast.jpg"
-        width: 541
-        height: 334
-        isCached: true
   - title: "Hillstone Networks Provides Cybersecurity Solutions Using Artificial Intelligence: Interview With Co-founder and CTO Timothy Liu."
     excerpt: "Hillstone Networks helps both small and big enterprises secure their web applications and defend their online infrastructures against cyberattacks with outstanding technology made possible with the help of artificial intelligence."
     publishedDateTime: 2021-09-29T06:05:00Z

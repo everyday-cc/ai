@@ -39,22 +39,6 @@ related:
       name: OECD
       domain: oecd.org
     quality: 117
-  - title: "14 Hours Remaining to Invest in Axle.ai on Republic.co"
-    excerpt: "Company announces 1m in bookings to date in 2021 new customers include WatchMojo Serhant ASG Boston MA USA September 27 2021 Video management software vendor Axle ai is in the home stretch of its 2nd successful equity crowdfund on Republic"
-    publishedDateTime: 2021-09-28T06:26:00Z
-    webUrl: "https://www.openpr.com/news/2408664/14-hours-remaining-to-invest-in-axle-ai-on-republic-co"
-    ampWebUrl: "https://www.openpr.com/amp/2408664/14-hours-remaining-to-invest-in-axle-ai-on-republic-co"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2408664/14-hours-remaining-to-invest-in-axle-ai-on-republic-co"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 57
-    images:
-      - url: "https://cdn.openpr.com/U/9/U928106498_g.jpg"
-        width: 688
-        height: 389
-        isCached: true
   - title: "Hayden AI Raises $20M, Its Third Investment Round in a Year"
     excerpt: "The startup, only two years old, has now raised more than $30 million from investors. Amid its rapid growth, the company is looking at expanding its traffic automation platform toward self-driving vehicles."
     publishedDateTime: 2021-09-30T20:42:00Z

@@ -2,6 +2,58 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2021-08-04-differential-privacy-in-tff.md",
+      "title": "Differential Privacy in TFF",
+      "excerpt": "This tutorial will demonstrate the recommended best practice for training models with user-level Differential Privacy using Tensorflow Federated. We will use the DP ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/federated/tutorials/federated_learning_with_differential_privacy?hl=sl",
+      "originalUrl": "https://www.tensorflow.org/federated/tutorials/federated_learning_with_differential_privacy?hl=sl",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=sl",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T19:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-aiml-innovations-inc-to-webcast-live-at-virtualinvestorconferencescom-august-5th.md",
       "title": "AI/ML Innovations Inc. to Webcast Live at VirtualInvestorConferences.com August 5th",
       "excerpt": "AI/ML Innovations Inc. (CSE: AIML) (OTCQB: AIMLF) (\"AIML\" or the \"Company\"), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,",
@@ -1079,49 +1131,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-ampere-computing-buys-an-ai-inference-performance-leap.md",
-      "title": "Ampere Computing Buys An AI Inference Performance Leap",
-      "excerpt": "Machine learning inference models have been running on X86 server processors from the very beginning of the latest – and by far the most successful – AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/08/03/ampere-computing-buys-an-ai-inference-performance-leap/",
-      "originalUrl": "https://www.nextplatform.com/2021/08/03/ampere-computing-buys-an-ai-inference-performance-leap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/ampere-onspecta-logo.jpg",
-          "width": 705,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/08/03/ampere-computing-buys-an-ai-inference-performance-leap/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/03/ampere-computing-buys-an-ai-inference-performance-leap/amp/",
-      "publishedDateTime": "2021-08-03T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

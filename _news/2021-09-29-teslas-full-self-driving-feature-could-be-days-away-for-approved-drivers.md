@@ -270,21 +270,7 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Tesla Allows Drivers to Request Full Self-Driving Beta Despite Safety Concerns"
-    excerpt: "Despite multiple concerns surrounding the safety concerns of Tesla ‘s Autopilot feature, the electric vehicles company has now given its drivers access to the “Full Self-Driving” (FSD) program. With just a touch of the “request” button,"
-    publishedDateTime: 2021-09-28T06:57:00Z
-    webUrl: "https://hypebeast.com/2021/9/tesla-drivers-ca-request-full-self-driving-beta-despite-safety-concerns"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 35
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F09%2Ftesla-drivers-ca-request-full-self-driving-beta-despite-safety-concerns-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
-        isCached: true
 
-secured: "1JQ2hq/YVuJpoDqDOMDXv6TFSAbFgAjBnt9hfT7LoV9/8CtuVZ3mppQzWpDJHd5B+xZRCTvFToEZhlJbg96dcNkuSuGIZl3A4O0egt1iaUAEgk18Nh9iUgvI4uZHhuHssjrJEbwmk3yz6fL/uGTM56jW/RVxn1RyyweDwJlJs2MycLFGXjeWd7vgTJCtNjdnakkOqZ3NWgExv0V39gM6Bl5XtCcJrgjDe/fuBUVsZR7JlB6KcKkRh9iM5qnj7Wvk6zcz8tzLVFFhQQ/1Ed2Tm9+U2MkcWYoA2/y5SCOrOcmOlDpHONAfucCgN1BvjPBnguqY89y9tRyd1vYF8VABhRfsiyefimSzCnvXLXkAEr0=;RMJSBmldWtTfwDsbPIJXAw=="
+secured: "go6oNrEg3r93ySvSWPWnf9dg/cMfS9NcDgdy8PT1bHHvfGZD21RFWKY+4ckRaxOi9dCt25Bamc/T4X+bnthmnjsVb4MwQHcQl2lnsMn5obYF41LlXbwevxqpqEPvjuhVXDLbbezLth+zWyrr2T/9dKhwxIS0YTBGtyAjbedzNH0UPwlE9MKZvgfNxCma0T1pDhj2GlGo69zyo64gk9A+JNt8/Q+kknxYamR07qdFTRAr9BMdr9IEJ5qkV6IMc0nF4HOySjUL6CtTHUevBpk/xyif6V2yhISXT4CEUXdO4h/VuXuFUF0uixB8qmwoV7ofV5p4Doua541pyWS6TjNXDX7k6c2gD/Z+hDUoprEn0y9QyWFEu9mKWtjMqxm9sl6BpSWGhMmE1YR7VgGIirG0ZsRt9iBfvE0+V9xTDSlTtDDAsrAv/qWuj/Fw38nP5RxiiXhlfQxHoxiKwaojo7txYK83vZaL3fwgDx2Gpxbqyevfv7FK80rQZ57H3ylvKyGaPMc5DEn/8crN3PUIf3qwCg==;p3MR+SocGb4yZuqXLs1oHQ=="
 ---
 

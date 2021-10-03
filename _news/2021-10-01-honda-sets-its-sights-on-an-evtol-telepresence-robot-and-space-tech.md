@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/technology/honda-future-focus-evtol-telepresenc
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/?amp=true"
 type: article
 quality: 89
-heat: 101
+heat: 99
 published: true
 
 provider:

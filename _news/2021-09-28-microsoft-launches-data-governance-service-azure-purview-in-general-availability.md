@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/28/microsoft-launches-data-governanc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/amp/"
 type: article
 quality: 114
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google And Microsoft Are Creating A Monopoly On Coding In Plain Language"
-    excerpt: "Sometimes major shifts happen virtually unnoticed. On May 5, IBM announced Project CodeNet to very little media or academic attention."
-    publishedDateTime: 2021-09-28T06:17:00Z
-    webUrl: "https://www.techfinancials.co.za/2021/09/28/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language/"
-    type: article
-    provider:
-      name: techfinancials
-      domain: techfinancials.co.za
-    quality: 55
-    images:
-      - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2020/08/christopher-gower-m_HRfLhgABo-unsplash-scaled.jpg"
-        width: 2560
-        height: 1704
-        isCached: true
   - title: "Augmented Intelligence Market is Going to Boom with Microsoft, Google, AWS"
     excerpt: "A Latest intelligence report published by AMA Research with title \"Augmented Intelligence Market Outlook to 2026. A detailed study accumulated to offer Latest insights about acute features of the Global Augmented Intelligence Market."
     publishedDateTime: 2021-09-28T20:12:00Z
