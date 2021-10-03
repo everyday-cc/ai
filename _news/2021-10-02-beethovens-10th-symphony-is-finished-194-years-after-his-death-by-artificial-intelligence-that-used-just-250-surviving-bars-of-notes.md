@@ -58,20 +58,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Team uses AI to complete Beethoven's unfinished masterpiece"
-    excerpt: "MARTIN: ...And the fantastical \"Moonlight Sonata.\" (SOUNDBITE OF LUDWIG VAN BEETHOVEN'S \"MOONLIGHT SONATA\") MARTIN: But for all the sonatas, concertos and symphonies Beethoven wrote, there remained one piece he never completed."
-    publishedDateTime: 2021-10-03T03:06:00Z
-    webUrl: "https://www.wbaa.org/post/team-uses-ai-complete-beethovens-unfinished-masterpiece"
-    type: article
-    provider:
-      name: WBAA
-      domain: wbaa.org
-    quality: 37
-    images:
-      - url: "https://www.wbaa.org/sites/wbaa/files/202004/logo_white_transparentdropshadow.png"
-        width: 1830
-        height: 957
-        isCached: true
   - title: "Scientists Built an Artificial Intelligence to Finish Beethoven’s Tenth Symphony"
     excerpt: "We don't know what Beethoven meant to do for his unfinished 10th Symphony. But what if we could plug his music into an AI to figure it out?"
     publishedDateTime: 2021-09-30T14:44:00Z
@@ -86,6 +72,15 @@ related:
         width: 716
         height: 395
         isCached: true
+  - title: "Team uses AI to complete Beethoven's unfinished masterpiece"
+    excerpt: "There is no overstating the German composer's influence on Western music, with enduring classics ranging from his epic \"Ode To Joy\"... (SOUNDBITE OF LUDWIG VAN BEETHOVEN'S \"ODE TO JOY\") MARTIN: ...To his heroic \"Third"
+    publishedDateTime: 2021-10-03T02:32:00Z
+    webUrl: "https://www.kunm.org/post/team-uses-ai-complete-beethovens-unfinished-masterpiece"
+    type: article
+    provider:
+      name: KUNM
+      domain: kunm.org
+    quality: 17
 
 secured: "Z4h9NCLBQjR3b0Xx8H1UmhStVyP6w0PlkhEd1aiRjB4Qy7xX4pKmBOtfAbvffEIM/xbJbHZiAoR+NEi+tHhA4lNdh8A2eLM30grZ0uMOMv+HQKtiq7NvOLcx7JqVohtY97OzT27077ldQgnzjXNj6utVqTBIX5aNfIYULcpa8LY9gXJIR33DQhlmBWr/WnEr5YzFKfKlLSQG3qqnUV5lqGicCOKy56QdjdNMj2/eQIjuTvgBkB6YZ7Rzdwy2+NqplLVDXeFRVlnTNy3rD3FTDxd0M3hpyQu8hvQTtPdc14Eu3/JXxRVew23PH+GfpFx5mkYFVXOkst46Huq1CeOLqFaMoO0t82kvyLvzBbD3jZc=;QIDAS5aiRp90gvzSrq1ANw=="
 ---

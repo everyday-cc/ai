@@ -7,7 +7,7 @@ originalUrl: "https://www.rnz.co.nz/national/programmes/middayreport/audio/20188
 webUrl: "https://www.rnz.co.nz/national/programmes/middayreport/audio/2018814656/facial-recognition-trial-not-needed-says-privacy-commissioner"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Paravision enhances video facial recognition with Streaming Container update"
-    excerpt: "The Paravision Streaming Container is fully modular and is designed to be deployed alongside Paravision’s other cloud-ready, Docker container-based products."
-    publishedDateTime: 2021-09-28T18:02:00Z
-    webUrl: "https://www.biometricupdate.com/202109/paravision-enhances-video-facial-recognition-with-streaming-container-update"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 51
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg"
-        width: 2048
-        height: 1366
-        isCached: true
-  - title: "Paravision brings edge-to-cloud facial recognition to AI digital ID disruption party"
-    excerpt: "Paravision CMO Joey Pritikin and President and COO Benji Hutchison joined Biometric Update to discuss what the Converge mega-launch means for the industry."
-    publishedDateTime: 2021-09-28T18:02:00Z
-    webUrl: "https://www.biometricupdate.com/202109/paravision-brings-edge-to-cloud-facial-recognition-to-ai-digital-id-disruption-party"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 49
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Facial recognition trial upsets privacy commissioner"
     excerpt: "Using facial recognition to figure out how long people will wait in a queue is like using a sledgehammer to crack a nut. That's according to the Privacy Commissioner who has serious concerns about the scanning tool being used at Wellington Airport The tool is used to count passengers passing through security and how long they wait in a line."
     publishedDateTime: 2021-10-01T00:38:00Z
@@ -66,20 +38,6 @@ related:
       - url: "https://www.rnz.co.nz/assets/news_crops/123200/eight_col_126044392_m.jpg?1621998715"
         width: 720
         height: 450
-        isCached: true
-  - title: "Paravision launches Android facial recognition SDK for custom app development"
-    excerpt: "The SDK functions for face detection, landmark detection, biometric image quality analysis, template creation, and 1:1 facial verification and 1:N face matching"
-    publishedDateTime: 2021-09-28T20:37:00Z
-    webUrl: "https://www.biometricupdate.com/202109/paravision-launches-android-facial-recognition-sdk-for-custom-app-development"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/06/25135841/selfie-for-onboarding-identity-verification.jpg"
-        width: 864
-        height: 554
         isCached: true
 
 secured: "jkG2SxF2f3TWZcpPKmvJAKG6smL/d1YWYwbosZpJFFyTacbgNCWwnDe5ygCJgpQY+m6YFsZ5C0Dk8bgSBLEVJtTBuhtN8VtS71f+pKeavBamClEP3GmsF4hm3BLiUsej1/Zrn+YfCZvcYlVI6989hlS6uQrfzNqHBzte90NELIE5Hp2OVQ/BS4EMuHkooY2zrmzIYE8EtITW3wfuhufXndVVDbWn47JNnCrMJhGxqGSa8u5Lcp14Cyc+AE2vXxOy0+NRaruyK3zO5gc9Jfz7DVr83HICN445x8Tey+eF/ctRZU3Ml4gMiHg6ZaHeXGcflWH8vw1ibmgX3Kg3N5XhJVg+bBhyN2EhpTTlUkk6Xwk=;ZfVU4CEkb8KllTPbajoOyw=="

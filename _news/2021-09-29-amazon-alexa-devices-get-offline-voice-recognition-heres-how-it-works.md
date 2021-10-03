@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-amazon-alexa-devices
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-amazon-alexa-devices-get-offline-voice-recognition-737347"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "On Echo Show 15, Alexa will recognize your face thanks to Amazon's Visual ID"
-    excerpt: "The facial recognition feature is designed to recognize you whenever you're in front of the camera, so Alexa can show you personalized content."
-    publishedDateTime: 2021-09-28T17:50:00Z
-    webUrl: "https://www.cnet.com/home/on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazon-visual-id/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazon-visual-id/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazon-visual-id/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 71
-    images:
-      - url: "https://www.cnet.com/a/img/wSUdygEwDttHCwHEvFXE1Cdrr1Y=/1200x630/2021/09/28/4dcf3368-d754-460b-a198-30a291b1c153/screen-shot-2021-09-28-at-9-15-25-am.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The big new updates to Alexa, and Amazon’s pursuit of ambient AI"
-    excerpt: "Amazon's new Alexa updates will allow users to customize it to listen and watch out for specific events at home."
-    publishedDateTime: 2021-09-28T18:30:00Z
-    webUrl: "https://www.popsci.com/technology/amazon-alexa-custom-events-ambient-ai/"
-    ampWebUrl: "https://www.popsci.com/technology/amazon-alexa-custom-events-ambient-ai/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/amazon-alexa-custom-events-ambient-ai/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2021/09/28/amazon-.jpeg"
-        width: 2000
-        height: 1059
-        isCached: true
   - title: "Amazon brings offline voice recognition to Alexa devices"
     excerpt: "Amazon brings offline voice recognition, shares details on the privacy features coming to the latest Alexa devices, the company announced a slew of connected devices including Echo Show 15, a new household robot Astro,"
     publishedDateTime: 2021-09-29T12:39:00Z
@@ -107,6 +75,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "A ‘chief’ recognition: Hailey celebrates top cop"
+    excerpt: "Hailey Mayor Martha Burke, right, set aside a few minutes during Monday’s City Council meeting to honor Hailey Police Chief Steve England, left, for 20 years of service with the"
+    publishedDateTime: 2021-09-28T19:58:00Z
+    webUrl: "https://www.mtexpress.com/wood_river_journal/community/a-chief-recognition-hailey-celebrates-top-cop/article_75f36032-2096-11ec-9acc-f7d7578c27e6.html"
+    type: article
+    provider:
+      name: Idaho Mountain Express
+      domain: mtexpress.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/mtexpress.com/content/tncms/assets/v3/editorial/d/63/d6331b9a-2096-11ec-8eb2-3ff1b6bb0633/615374dd0ad90.image.jpg?resize=865%2C630"
+        width: 865
+        height: 630
+        isCached: true
   - title: "Amazon adds offline voice recognition to Alexa devices"
     excerpt: "Amazon has announced a slew of new connected devices and with those come some new Alexa features, including the new privacy feature. Soon,"
     publishedDateTime: 2021-09-29T08:17:00Z
@@ -120,6 +102,20 @@ related:
       - url: "https://cdn.telanganatoday.com/wp-content/uploads/2021/09/Amazon-Alexa.jpg"
         width: 680
         height: 370
+        isCached: true
+  - title: "Alexa, don’t share my data: Amazon introduces on-device processing of voice recordings"
+    excerpt: "Soon, Amazon customers in the United States of America can choose to have all of their voice commands processed on."
+    publishedDateTime: 2021-10-01T05:11:00Z
+    webUrl: "https://www.medianama.com/2021/10/223-amazon-alexa-offline-voice-recognition/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 16
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2018/01/amazon-echo.jpg.jpg"
+        width: 1024
+        height: 768
         isCached: true
 
 secured: "AHuTHkIt+yFXiOEL/Ee+OSob1Rz87vmQ7uJKqdjf0ZB1ENUqadWeY21KqCM19qyfCpFqtvoEaz9TjAh6JW5UdMrovz9huHgKuHDPtDkH1NUtUzP8xejL13G2yfobtVKpUjzX2CNdKvjb8Ix26AYQYFbZ7JbBozHZ2Zr1HwLlzobnW+VR7DUS584SXbC0N22uIKNd/dmMdTKL+evzI3Th8/xObPDUHIqoqavh2GBLufvEr9Ykl0tltqjBJoE1qW8u0xmEAu5Fjpc8eaTauCnrpLU2Kt9pwDaYrNsXrYmaB3+ApSRtRmGYQ7weAys2mr0wnVXJB9hLMr8uvV0EDi2MqEX6uuyfceoJXIjzeWTiigJdyDZ6gG0K0tuYYeGvPLTK2VN+aCaqWoA5XMfytoO0t49wiSwnWjPzOwhOPws3o/D078CvOseRN4HimmaGtxmYC39AL5XvUPpqKc97MIvdu7eZlQLSZgq2G9+2g+yJ45akh1y5cOp7FZRRy3/XHducsXDL14Qg2An+KNuyj8xBQQ==;HtrhfjXnFg7O+yV4RSQXAw=="

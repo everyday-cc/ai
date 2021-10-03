@@ -116,20 +116,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "How artificial intelligence is changing the role of the business analyst"
-    excerpt: "| \\ ˈdī-nə-ˌsȯr  \\  One who is, out-of-date, or obsolete   Strange how certain words conjure up thoughts of an ever-changing, progressive world that, like tide and time, wait for no man. And somewhere"
-    publishedDateTime: 2021-09-28T18:47:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-changing-role-business-analyst-datta"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 36
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGvgj1s1Js4GA/article-cover_image-shrink_720_1280/0/1632854039147?e=1638403200&v=beta&t=Ot4MMfLHafXYiAQuzTh3_CIr4yDkaE1CFodgceUeWQI"
-        width: 935
-        height: 720
-        isCached: true
   - title: "S. 2551, Artificial Intelligence Training for the Acquisition Workforce Act"
     excerpt: "Artificial Intelligence (AI) allows computer systems to perform tasks that require human intelligence. S. 2551 would require the Office of Management and Budget (OMB) to establish a training program to provide federal procurement officials with an introductory understanding of the operational benefits and privacy risks of AI."
     publishedDateTime: 2021-09-28T20:05:00Z

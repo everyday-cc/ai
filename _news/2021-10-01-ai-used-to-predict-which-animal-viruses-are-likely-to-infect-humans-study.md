@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/science/ai-predict-animal-viruses-likely-inf
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/ai-predict-animal-viruses-likely-infect-humans-study.amp"
 type: article
 quality: 85
-heat: -1
-published: false
+heat: 125
+published: true
 
 provider:
   name: Fox News
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI may predict the next virus to jump from animals to humans"
-    excerpt: "Most emerging infectious diseases of humans (like COVID-19) are zoonotic—caused by viruses originating from other animal species. Identifying high-risk viruses earlier can improve research and surveillance priorities."
-    publishedDateTime: 2021-09-28T18:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/09/210928141839.htm"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 117
   - title: "Researchers use AI to determine which animal diseases will infect humans next"
     excerpt: "Zoonotic diseases such as COVID-19, those that can make the jump from animals to humans, are one of the most difficult to study. AI is here to help."
     publishedDateTime: 2021-09-28T22:26:00Z
@@ -100,36 +91,6 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/i/3931632855806/2021/1/16328623692550/v1.5/AI-could-help-scientists-ID-the-next-virus-to-jump-from-animals-to-humans.jpg"
         width: 700
         height: 466
-        isCached: true
-  - title: "Artificial intelligence could help to predict the next virus to jump from animals to humans"
-    excerpt: "The researchers' machine learning models could allow scientists to pre-emptively develop vaccines to protect against the most likely candidates."
-    publishedDateTime: 2021-09-28T18:01:00Z
-    webUrl: "https://www.sciencefocus.com/news/artificial-intelligence-could-help-to-predict-the-next-virus-to-jump-from-animals-to-humans/"
-    ampWebUrl: "https://www.sciencefocus.com/news/artificial-intelligence-could-help-to-predict-the-next-virus-to-jump-from-animals-to-humans/amp/"
-    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/artificial-intelligence-could-help-to-predict-the-next-virus-to-jump-from-animals-to-humans/amp/"
-    type: article
-    provider:
-      name: BBC Focus
-      domain: sciencefocus.com
-    quality: 47
-    images:
-      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/09/GettyImages-179770787-a4e5dd4.jpg?quality=90&crop=7px,140px,1186px,510px&resize=960,413"
-        width: 960
-        height: 413
-        isCached: true
-  - title: "Machine learning can predict which animal viruses risk infecting humans"
-    excerpt: "Scientists have developed a new machine learning method that can accurately predict which animal viruses could go on to infect humans in the future, using only information encoded in the viral genome"
-    publishedDateTime: 2021-09-28T18:40:00Z
-    webUrl: "https://www.gla.ac.uk/news/headline_812367_en.html"
-    type: article
-    provider:
-      name: gla.ac.uk
-      domain: gla.ac.uk
-    quality: 39
-    images:
-      - url: "https://www.gla.ac.uk/media/Media_721239_smxx.jpg"
-        width: 650
-        height: 397
         isCached: true
 
 secured: "6tiEUYZQFypslVKvZpcCQDbLAGO8h4OXnYgY1Dq08PUf0XYwjVnUmzL/zQUVOglx4DpYf+IVqrsdMMHs2EgYg4JA89KWdkCdZNp5P21fmcxhRoy+mWTEEoBovgLd7JODKONKF7BWaJ5fxNtVHhhWP+TXVX4yDhwkc3sGEueaitSSnjIYAp8/swLco15c1K9zHMyj3Y+s3QCLCPv8nzpVpdNgAbTYbJmK25JbiXGG0VKLUvFS4JZQ57zMq6QstA2G5xYADKED17BR1BzGiB6pFFd9RlYTv28aTcLcM0Ka+8yMJRYjJbyYxYy2OWRMzR8m1taLIEPBV4PO92+1CgJqZeBuBP4p6zNSeX5l2bnpv1ngKTPMOHLH11lm7lo9Rnwqp69LiAmKMch++Xv56zpQtBjVyY4fWsZP82HWFvuCIEnVNzynE9c9hX7cyI1UhySq4FlikEod4YTMvZaAwPqja75Gr6i95i5dQedt5EJvWDFnrU/6s+LxAV0GhAiBwpOUfa1N75spYjrtPrrXYZcdOA==;CNTEb5jIq1mbiQRfxZMdsg=="

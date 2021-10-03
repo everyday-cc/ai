@@ -51,20 +51,6 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 32
-  - title: "Best Smartphones releasing in India at the end of 2021"
-    excerpt: "Although 2021 is nearing an end, there are still a number of smartphones to look out for. Here are seven that are set to release in India."
-    publishedDateTime: 2021-09-28T17:25:00Z
-    webUrl: "https://www.desiblitz.com/content/best-smartphones-releasing-in-india-at-the-end-of-2021"
-    type: article
-    provider:
-      name: Desi Blitz
-      domain: desiblitz.com
-    quality: 24
-    images:
-      - url: "https://www.desiblitz.com/wp-content/uploads/2021/09/Best-Smartphones-releasing-in-India-at-the-end-of-2021-f.jpg"
-        width: 685
-        height: 336
-        isCached: true
 
 secured: "B4siJM6BttGvJAauz2loFapAjzdciplEHdLPZZ+/OcI5HxV01QTJ2GBzBU0XeijC2re3GKF5dFyYUkfmFx9Dr3Vd3M5whGgXTEHNO6OT0AY2EoPUpgf+RrPKBcUdoHF5lMx/PGcdk4zxhkvz3pmNTrEijrjFfbZGfE3QQnmtcE1KlUouOepGzFcgYBJFILToAgasXO7Embe4PCXsdk+KfVhHKUUcew224iF3X44ax0eUf8kTlesFuDyKH7HozRC1eYWpRr1c3AQF/bkQh+PLjSrbJPB71onc7l59x6+AJ0ECJivgEDTw9hYXLylxe/K7YC9LKxXK3eGKl1VU+hvQg55EoaetVjvTakC906jCyC4=;NH3ytLGltxNDtlA/MmsO7Q=="
 ---

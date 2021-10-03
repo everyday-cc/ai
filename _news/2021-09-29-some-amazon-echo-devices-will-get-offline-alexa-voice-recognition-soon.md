@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "On Echo Show 15, Alexa will recognize your face thanks to Amazon's Visual ID"
-    excerpt: "The facial recognition feature is designed to recognize you whenever you're in front of the camera, so Alexa can show you personalized content."
-    publishedDateTime: 2021-09-28T17:50:00Z
-    webUrl: "https://www.cnet.com/home/on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazon-visual-id/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazon-visual-id/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazon-visual-id/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 71
-    images:
-      - url: "https://www.cnet.com/a/img/wSUdygEwDttHCwHEvFXE1Cdrr1Y=/1200x630/2021/09/28/4dcf3368-d754-460b-a198-30a291b1c153/screen-shot-2021-09-28-at-9-15-25-am.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The big new updates to Alexa, and Amazon’s pursuit of ambient AI"
-    excerpt: "Amazon's new Alexa updates will allow users to customize it to listen and watch out for specific events at home."
-    publishedDateTime: 2021-09-28T18:30:00Z
-    webUrl: "https://www.popsci.com/technology/amazon-alexa-custom-events-ambient-ai/"
-    ampWebUrl: "https://www.popsci.com/technology/amazon-alexa-custom-events-ambient-ai/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/amazon-alexa-custom-events-ambient-ai/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2021/09/28/amazon-.jpeg"
-        width: 2000
-        height: 1059
-        isCached: true
   - title: "Amazon Alexa devices get offline voice recognition: Here's how it works"
     excerpt: "Amazon has just announced a slew of new connected devices and with those come some new Alexa features, including the new privacy feature."
     publishedDateTime: 2021-09-29T09:09:00Z
@@ -107,6 +75,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "A ‘chief’ recognition: Hailey celebrates top cop"
+    excerpt: "Hailey Mayor Martha Burke, right, set aside a few minutes during Monday’s City Council meeting to honor Hailey Police Chief Steve England, left, for 20 years of service with the"
+    publishedDateTime: 2021-09-28T19:58:00Z
+    webUrl: "https://www.mtexpress.com/wood_river_journal/community/a-chief-recognition-hailey-celebrates-top-cop/article_75f36032-2096-11ec-9acc-f7d7578c27e6.html"
+    type: article
+    provider:
+      name: Idaho Mountain Express
+      domain: mtexpress.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/mtexpress.com/content/tncms/assets/v3/editorial/d/63/d6331b9a-2096-11ec-8eb2-3ff1b6bb0633/615374dd0ad90.image.jpg?resize=865%2C630"
+        width: 865
+        height: 630
+        isCached: true
   - title: "Amazon adds offline voice recognition to Alexa devices"
     excerpt: "Amazon has announced a slew of new connected devices and with those come some new Alexa features, including the new privacy feature. Soon,"
     publishedDateTime: 2021-09-29T08:17:00Z
@@ -120,6 +102,20 @@ related:
       - url: "https://cdn.telanganatoday.com/wp-content/uploads/2021/09/Amazon-Alexa.jpg"
         width: 680
         height: 370
+        isCached: true
+  - title: "Alexa, don’t share my data: Amazon introduces on-device processing of voice recordings"
+    excerpt: "Soon, Amazon customers in the United States of America can choose to have all of their voice commands processed on."
+    publishedDateTime: 2021-10-01T05:11:00Z
+    webUrl: "https://www.medianama.com/2021/10/223-amazon-alexa-offline-voice-recognition/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 16
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2018/01/amazon-echo.jpg.jpg"
+        width: 1024
+        height: 768
         isCached: true
 
 secured: "ahANYCYE1YDWQ7T0JkIHwy0QbF4YtfTViv7meGbh8Mb2cMbxOqZGnGiEyXh0CN45YeGwGbAZNAPJBk4UH35W7Aw71EY+iCwfE6vDU1bcSuO/LjVK2nJGrOrOyRhcn8GJVPmjIpBrKahFvefO1K4va0UfeBR+khrKKzWAO4cs8MmudP/pMsB9zSauGhOZIlHB+iCDbXxbDb7rZQ/VRozWzy9MCn0/OaCcIC0xBdkCf5+Z/NC6jmpJ90MANWnR0qUsflZC1Oc3Qf4iyG/vdDdu3mVqZ8MXm3X9bz5OSah4t2VMW9t27C9Z4mRbN6Xuev+XxPgL9N9pzXq4ie0EmfSjhQDI9mda0vJB7/S9uF6Wdm+66RwYcxwr98gyF5aXjQyMxhtZsL1GOa2N7lGh6J+rxSAo8VGHRMlOnfGuXqIuQrNK5Wu3oEoP1fvCQztaBH9iiapW0GUe45fWi9WgvstvsO8SiJmUcx+0Mdvv/ZBSR9U92YKrcHcv1TY5kZ+MdrHX/vsuwRp9+iWrX6a9SSVddw==;L9nrxUCVRN6qxpqIYYM7Ww=="

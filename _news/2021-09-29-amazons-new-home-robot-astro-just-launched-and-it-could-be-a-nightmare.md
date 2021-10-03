@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon announces Astro the home robot"
-    excerpt: "Amazon is launching Astro, its first household robot, powered by its Alexa smart home technology. The company said it can be remote-controlled when not at home, to check on pets, people, or home security."
-    publishedDateTime: 2021-09-28T17:50:00Z
-    webUrl: "https://www.bbc.com/news/technology-58727057"
-    ampWebUrl: "https://www.bbc.com/news/technology-58727057.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-58727057.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 189
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/C262/production/_120726794_astromovingaroundhome.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Amazon Astro could be the robot we've been waiting for"
     excerpt: "Inspired by science fiction, cute as a button, capable and smart -- Amazon's $1,000 home robot Astro is here to help."
     publishedDateTime: 2021-09-28T20:43:00Z
@@ -56,38 +40,6 @@ related:
     quality: 104
     images:
       - url: "https://www.cnet.com/a/img/1apgttjzwvxskXvt2B8u4qNGCmo=/0x38:2300x1330/1200x630/2021/09/28/4fc6682b-c610-466c-a707-cc906c33fdc5/astro.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Amazon Astro is a $1,000 Alexa-powered home robot"
-    excerpt: "Amazon has unveiled its first robot, Amazon Astro, combining Alexa on a motorized platform that can roam around the home. Astro has a pop-up periscope camera on top, a moving screen on the front,"
-    publishedDateTime: 2021-09-28T17:07:00Z
-    webUrl: "https://www.slashgear.com/amazon-astro-is-a-1000-alexa-powered-home-robot-28692975/"
-    ampWebUrl: "https://www.slashgear.com/amazon-astro-is-a-1000-alexa-powered-home-robot-28692975/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/amazon-astro-is-a-1000-alexa-powered-home-robot-28692975/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/09/amazon-astro-11.jpg"
-        width: 1440
-        height: 806
-        isCached: true
-  - title: "Amazon drops Echo Show 15, Astro robot plus Glow, View, Blink and Ring"
-    excerpt: "The e-commerce giant's invite-only press event brought us Astro, a robot Alexa, a Disney partnership and tons more smart devices."
-    publishedDateTime: 2021-09-28T17:16:00Z
-    webUrl: "https://www.cnet.com/home/amazon-drops-echo-show-15-astro-robot-plus-glow-view-blink-and-ring/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-drops-echo-show-15-astro-robot-plus-glow-view-blink-and-ring/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-drops-echo-show-15-astro-robot-plus-glow-view-blink-and-ring/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/nrQga32ASqNPqhWuy9Zbqt9HimI=/647x389:7377x3994/1200x630/2021/09/28/4dcaa407-d125-4473-a62d-b8ba24b4a0a6/hey-disney-echo-show-5-on-white.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -106,22 +58,6 @@ related:
       - url: "https://media.wired.com/photos/61538083098d958b61f393dc/master/pass/Gear-Amazon-Astro-moving-around-home.jpg"
         width: 2400
         height: 1800
-        isCached: true
-  - title: "Amazon’s Astro robot puts Alexa on wheels — but is it worth $1,000?"
-    excerpt: "We got to see Amazon’s latest gadget early — it’s the long-rumored robot. We spent about 50 minutes with Astro. Like robots of the past (some have fizzled out, others have gone extinct like Anki’s Vector and Cozmo robots),"
-    publishedDateTime: 2021-09-28T17:15:00Z
-    webUrl: "https://www.cnn.com/2021/09/28/cnn-underscored/astro-amazon-robot-hands-on/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/28/cnn-underscored/astro-amazon-robot-hands-on/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/28/cnn-underscored/astro-amazon-robot-hands-on/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 89
-    images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/210928125815-1-amazon-astro.jpg?q=x_0,y_0,h_2268,w_4030,c_fill/w_800"
-        width: 800
-        height: 450
         isCached: true
   - title: "Amazon (AMZN) Boosts Robotics Efforts With Astro Launch"
     excerpt: "Amazon AMZN ramps up its robotics initiatives by launching a home robot called Astro, which rolls around the house autonomously. Astro, which marks itself as the first domestic robot, is embedded with cameras,"
@@ -148,20 +84,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Amazon’s Astro robot is straight out of The Jetsons"
-    excerpt: "Amazon is rolling out (literally) a robot that can help monitor your home. Powered by Amazon Alexa and a bunch of artificial intelligence (AI) technology while patrolling about on a set of wheels, the Astro robot can handle numerous tasks,"
-    publishedDateTime: 2021-09-28T18:58:00Z
-    webUrl: "https://arstechnica.com/gadgets/2021/09/amazons-astro-robot-is-straight-out-of-the-jetsons/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 84
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/09/Astro-moving-around-home-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Amazon Echo Show, Astro event live blog: Follow our coverage now"
     excerpt: "The e-commerce giant is holding an invite-only press event now. Find out what's coming to your cart. And Astro, the robot Alexa."
     publishedDateTime: 2021-09-28T23:58:00Z
@@ -177,36 +99,6 @@ related:
       - url: "https://www.cnet.com/a/img/nrQga32ASqNPqhWuy9Zbqt9HimI=/647x389:7377x3994/1200x630/2021/09/28/4dcaa407-d125-4473-a62d-b8ba24b4a0a6/hey-disney-echo-show-5-on-white.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Ring, Echo and Astro: Everything Amazon just announced"
-    excerpt: "Hardware Some of the products Amazon announced today. Amazon just wrapped up its Fall 2021 event, where the online retail gian. This year's event was different, only because the company normally announces as many as 60 different products."
-    publishedDateTime: 2021-09-28T18:45:00Z
-    webUrl: "https://www.zdnet.com/article/ring-echo-and-astro-everything-amazon-just-announced/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ring-echo-and-astro-everything-amazon-just-announced/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ring-echo-and-astro-everything-amazon-just-announced/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 74
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/r/2021/09/28/429ab9c8-f7a9-4134-89cd-319199be058b/resize/1200xauto/5c766dcf1e48192ab21955afb5a34de7/halo-view-hero.png"
-        width: 1200
-        height: 853
-        isCached: true
-  - title: "Meet Amazon’s Astro: a multifunctional home assistant robot"
-    excerpt: "Amazon has unveiled its latest innovative home assistant robot on wheels, named Astro. The Amazon Astro will cost $1,000 and Amazon is offering an opportunity for potential buyers to request an invitation to buy it because it is a limited-version product."
-    publishedDateTime: 2021-09-28T20:20:00Z
-    webUrl: "https://www.gizmochina.com/2021/09/28/amazon-astro-multifunctional-home-assistant-robot/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 69
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/09/amazon-astro-2.png"
-        width: 739
-        height: 405
         isCached: true
   - title: "Amazon Announced Astro Home Robot"
     excerpt: "Tech giants Amazon Inc (AMZN) have unveiled its home robot, named Astro, on Tuesday in the fall hardware event. The robot is calibrated to watch over homes, carry small things, play with children, play music,"

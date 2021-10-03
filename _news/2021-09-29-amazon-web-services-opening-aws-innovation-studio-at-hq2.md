@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/cloud/amazon-web-services-opening-aws-inn
 webUrl: "https://www.crn.com/news/cloud/amazon-web-services-opening-aws-innovation-studio-at-hq2"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1500
     height: 1127
     isCached: true
-
-related:
-  - title: "AWS unveils plans for new 'Innovation Studio' at Arlington headquarters"
-    excerpt: "AWS revealed plans to open an \"innovation studio\" within HQ2 to work on such societal problems as climate change on a global scale."
-    publishedDateTime: 2021-09-28T18:44:00Z
-    webUrl: "https://www.bizjournals.com/washington/news/2021/09/28/aws-unveils-plans-for-new-innovation-studio-in-hq2.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "KxMiWxODcexy1iztpIoKw8LPjuWNhwcRMuVkloChI/DLiyPR2SelnV7Gn4wunmm6VEyVUzqp0LpV2BeVOzbdRhwcPooOIFskOZCNtSUijNH93Iyq44P4eakWEuY9pm8R6rF9zEsM3zjuxlplgEHADpCLzT3c+2TlkCaQrYrhaWFP3Vc7ZGg8i3EfufnUJa/UGfZjm4fInzVkw9he3yuLrSEQ7ZAIcKuvpxZDVTKnIN3VTdzNlSoJD+cfD0iYexaLcVtZ8l21iLRpQkqgKiBISbdgsmH4Wh8Pz+WJRyEN58wLc+nu+3rl44zwS0fOx7B9L7+vl+HDOfPj6fWqtGk+YIWVCn8yTVy9p292btz/usQZbVxL0gkEJ7vWbLBYvvKPaE8vT2VoL+NI0ofGRo+d/I+nFkHjolkhjLRmECWbd4bu1+chFkBdsCV/svDd4t2uOhrnSxRkglh5A8Tc9hRS2npTb9B5Ud5oKtdGFhL5w//onk9On2LkshTnm4upwMr73AKj+UpoQv+g/1qWmJV1eg==;p8FH7Ax0gWddk0Q18dmOCg=="
 ---

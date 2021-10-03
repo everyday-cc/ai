@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI may predict the next virus to jump from animals to humans"
-    excerpt: "Most emerging infectious diseases of humans (like COVID-19) are zoonotic—caused by viruses originating from other animal species. Identifying high-risk viruses earlier can improve research and surveillance priorities."
-    publishedDateTime: 2021-09-28T18:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/09/210928141839.htm"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 117
   - title: "AI used to predict which animal viruses are likely to infect humans: study"
     excerpt: "Artificial intelligence (AI) could be key in helping scientists identify the next animal virus that is capable of infecting humans, according to researchers."
     publishedDateTime: 2021-10-01T16:11:00Z
@@ -100,36 +91,6 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/i/3931632855806/2021/1/16328623692550/v1.5/AI-could-help-scientists-ID-the-next-virus-to-jump-from-animals-to-humans.jpg"
         width: 700
         height: 466
-        isCached: true
-  - title: "Artificial intelligence could help to predict the next virus to jump from animals to humans"
-    excerpt: "The researchers' machine learning models could allow scientists to pre-emptively develop vaccines to protect against the most likely candidates."
-    publishedDateTime: 2021-09-28T18:01:00Z
-    webUrl: "https://www.sciencefocus.com/news/artificial-intelligence-could-help-to-predict-the-next-virus-to-jump-from-animals-to-humans/"
-    ampWebUrl: "https://www.sciencefocus.com/news/artificial-intelligence-could-help-to-predict-the-next-virus-to-jump-from-animals-to-humans/amp/"
-    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/artificial-intelligence-could-help-to-predict-the-next-virus-to-jump-from-animals-to-humans/amp/"
-    type: article
-    provider:
-      name: BBC Focus
-      domain: sciencefocus.com
-    quality: 47
-    images:
-      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/09/GettyImages-179770787-a4e5dd4.jpg?quality=90&crop=7px,140px,1186px,510px&resize=960,413"
-        width: 960
-        height: 413
-        isCached: true
-  - title: "Machine learning can predict which animal viruses risk infecting humans"
-    excerpt: "Scientists have developed a new machine learning method that can accurately predict which animal viruses could go on to infect humans in the future, using only information encoded in the viral genome"
-    publishedDateTime: 2021-09-28T18:40:00Z
-    webUrl: "https://www.gla.ac.uk/news/headline_812367_en.html"
-    type: article
-    provider:
-      name: gla.ac.uk
-      domain: gla.ac.uk
-    quality: 39
-    images:
-      - url: "https://www.gla.ac.uk/media/Media_721239_smxx.jpg"
-        width: 650
-        height: 397
         isCached: true
 
 secured: "+1WFAQ+Qupi1nh9vz/rclqWuhZtO+pDnABLLB0c2KRNTjRYM3orl/GvkC3t1nSGx8jfAhSSslMA6WU32bjlSTlIGLsP4YqpxuV1SgWFjxtHCUojhonDOh/Oe1lSKJWEc0q2Ij6mA5XGjcM+PH8zq1b9hUSrsCEDrpYWIkAACRBNAWKYMiqnRYw1dl7TXqKv9XywuTy1anFyYanGf1hXxYKu9IK+xYzNp1J0MvAMVwLE97xQe5nlvf4zjl+S75uiKL3BgVVWVSn5omaDyQtGBxl0KFA1NNZkbwCaYPzBuau2CxhjwAqGcHXMslGHdsJU/kMJT3pFKS5DMLZ48Ddmy7nLSz4SsbRmtifUUSpIj5+/NRYwmw3vEWc5cXsoOI/8ag5mc0AqlifhnPSIirS6XwB0bXSSuRdcDpFLfmoTB0PaxJ3qEoOS7YtC3r3P619h9xT9dE/fXlzD/aJ67wkKpt88NvUtydN1DnVGc9Jz9KnWbj5Kyynz1mEMYxGSFF57IeW7j56JHeSZ0KzV2obvd2A==;NfI7YGqNulpWqEHAU19S8w=="

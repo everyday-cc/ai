@@ -54,20 +54,6 @@ related:
         width: 421
         height: 421
         isCached: true
-  - title: "Global Laser Processing Market Research Report (2021 to 2026) - by Vertical, Configuration, Application and Region"
-    excerpt: "The \"Laser Processing Market Research Report by Vertical, by Configuration, by Application, by Region - Global Forecast to 2026 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-09-29T19:24:00Z
-    webUrl: "https://www.lelezard.com/en/news-20022226.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 2
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/mining-industry.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Computer Vision Market Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2030"
     excerpt: "In a recent published report, Kenneth Research has updated the market report for  Computer Vision Market  for 2021 till"
     publishedDateTime: 2021-10-01T04:41:00Z

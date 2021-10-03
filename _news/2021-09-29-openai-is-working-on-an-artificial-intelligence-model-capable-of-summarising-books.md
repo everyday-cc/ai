@@ -101,20 +101,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "How artificial intelligence is changing the role of the business analyst"
-    excerpt: "| \\ ˈdī-nə-ˌsȯr  \\  One who is, out-of-date, or obsolete   Strange how certain words conjure up thoughts of an ever-changing, progressive world that, like tide and time, wait for no man. And somewhere"
-    publishedDateTime: 2021-09-28T18:47:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-changing-role-business-analyst-datta"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 36
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGvgj1s1Js4GA/article-cover_image-shrink_720_1280/0/1632854039147?e=1638403200&v=beta&t=Ot4MMfLHafXYiAQuzTh3_CIr4yDkaE1CFodgceUeWQI"
-        width: 935
-        height: 720
-        isCached: true
   - title: "These Indian AI start-ups are raising the bar high every year since the inspection"
     excerpt: "Did you know, according to the latest research Indian AI start-ups have raised about US$836.3 million in 2020. Here are the top 10 Indian AI start-ups that have raised funding in 2021 on AI technologies."
     publishedDateTime: 2021-10-01T12:38:00Z

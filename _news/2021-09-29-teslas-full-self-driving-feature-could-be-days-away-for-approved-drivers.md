@@ -3,25 +3,25 @@ category: news
 title: "Tesla's 'full self-driving' feature could be days away for approved drivers"
 excerpt: "A wider group of Tesla owners who paid up to $10,000 for what the company calls its \"full self-driving\" software can now ask the automaker for access to a test"
 publishedDateTime: 2021-09-29T00:30:00Z
-originalUrl: "https://madison.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_28e2555a-2519-587d-aac8-6bd59e63d461.html"
-webUrl: "https://madison.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_28e2555a-2519-587d-aac8-6bd59e63d461.html"
-ampWebUrl: "https://madison.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_28e2555a-2519-587d-aac8-6bd59e63d461.amp.html"
-cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_28e2555a-2519-587d-aac8-6bd59e63d461.amp.html"
+originalUrl: "https://missoulian.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_68c5ee37-8102-5e50-b69b-9a8ef16bf66e.html"
+webUrl: "https://missoulian.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_68c5ee37-8102-5e50-b69b-9a8ef16bf66e.html"
+ampWebUrl: "https://missoulian.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_68c5ee37-8102-5e50-b69b-9a8ef16bf66e.amp.html"
+cdnAmpWebUrl: "https://missoulian-com.cdn.ampproject.org/c/s/missoulian.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_68c5ee37-8102-5e50-b69b-9a8ef16bf66e.amp.html"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: Missoulian
+  domain: missoulian.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/2a/a2a79db2-f230-5ec1-8847-4b7462a145ce/6153906b928f3.image.jpg?resize=1024%2C682"
+  - url: "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/3/d9/3d93cdde-e179-52a4-864c-30463b5c0339/6153906c76267.image.jpg?resize=1024%2C682"
     width: 1024
     height: 682
     isCached: true
@@ -42,22 +42,6 @@ related:
       - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-FSD-Beta-v9-driving-visuzalization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Police Sue Tesla for Self-Driving Car That Injured Five Officers"
-    excerpt: "Five Texas cops filed a lawsuit against Tesla on Monday over a crash seemingly caused by the car’s semiautonomous Autopilot mode. Back in February, the cops had pulled over another car when the Model X crashed into their vehicles at 70 miles per hour,"
-    publishedDateTime: 2021-09-28T17:23:00Z
-    webUrl: "https://futurism.com/the-byte/police-sue-tesla-injured-officers"
-    ampWebUrl: "https://futurism.com/police-sue-tesla-injured-officers/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/police-sue-tesla-injured-officers/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2021/09/tessie-cops-600x315.png"
-        width: 600
-        height: 315
         isCached: true
   - title: "Tesla's 'full self-driving' could be days away"
     excerpt: "A wider group of Tesla owners who paid up to $10,000 for what the company calls its \"full self-driving\" software can now ask the automaker for access to a test"
@@ -218,6 +202,6 @@ related:
       domain: glassbytes.com
     quality: 16
 
-secured: "go6oNrEg3r93ySvSWPWnf9dg/cMfS9NcDgdy8PT1bHHvfGZD21RFWKY+4ckRaxOi9dCt25Bamc/T4X+bnthmnjsVb4MwQHcQl2lnsMn5obYF41LlXbwevxqpqEPvjuhVXDLbbezLth+zWyrr2T/9dKhwxIS0YTBGtyAjbedzNH0UPwlE9MKZvgfNxCma0T1pDhj2GlGo69zyo64gk9A+JNt8/Q+kknxYamR07qdFTRAr9BMdr9IEJ5qkV6IMc0nF4HOySjUL6CtTHUevBpk/xyif6V2yhISXT4CEUXdO4h/VuXuFUF0uixB8qmwoV7ofV5p4Doua541pyWS6TjNXDX7k6c2gD/Z+hDUoprEn0y9QyWFEu9mKWtjMqxm9sl6BpSWGhMmE1YR7VgGIirG0ZsRt9iBfvE0+V9xTDSlTtDDAsrAv/qWuj/Fw38nP5RxiiXhlfQxHoxiKwaojo7txYK83vZaL3fwgDx2Gpxbqyevfv7FK80rQZ57H3ylvKyGaPMc5DEn/8crN3PUIf3qwCg==;p3MR+SocGb4yZuqXLs1oHQ=="
+secured: "JJobO4bFCFh784IH6K/pGWGQiAp0F5OwrLlyD5K+s6uZQsDMrIjn2Gz42KigGn99xWbe+2c1OnFQ0cFFL4OPvqgNkO0a1qgdpZNrPP9yLVtYKrWY3W9o0eskBCBzE3PhBeSVuXoFv45iRZ7AUyrs5+noh7kbwkc5784TCy5lWofXhRV61X7A5bbGkR7InCcIplptJvIiQs3xrpCRrQTIn9oZhz8UBuRySAtbu3+uF7sJKRkH5FZbOR3pxdB1tfYPo7qEeMK4zkcAHs9m0YoJIMQU/Qwqgnp/kn+eRTawgunHZD/DaLpx9SYmqh/NsvCZyKANOQgLuk43ziI5gSPBNgUpOZLWfubBxvRU+VDs51s=;FtLvl1G/Up03PlBTADikLg=="
 ---
 

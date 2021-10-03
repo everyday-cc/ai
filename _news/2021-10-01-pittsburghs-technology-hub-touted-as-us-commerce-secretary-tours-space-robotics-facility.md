@@ -39,20 +39,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "In Pittsburgh, Two-Step Machine Learning Process Sorts Rare Stamps"
-    excerpt: "Setting aside the relatively recent rise of electronic signatures, personalized stamps have been a popular form of identification for formal documents in"
-    publishedDateTime: 2021-09-28T18:59:00Z
-    webUrl: "https://www.datanami.com/2021/09/28/in-pittsburgh-two-step-machine-learning-process-sorts-rare-stamps/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/stamp-graph-psc.png"
-        width: 1024
-        height: 853
-        isCached: true
   - title: "Commerce Secretary Signals Feds Could Invest In Pittsburgh’s Bid To Become Self-Driving Powerhouse"
     excerpt: "U.S. Commerce Secretary Gina Raimondo said investments in the tech industry would create jobs across Pittsburgh's economy. She spoke after trade and technology talks between the U.S. and the European Union concluded in Pittsburgh Thursday."
     publishedDateTime: 2021-09-30T22:57:00Z

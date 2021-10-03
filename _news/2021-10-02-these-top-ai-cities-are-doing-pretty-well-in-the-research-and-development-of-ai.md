@@ -39,20 +39,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Here's how Amazon, Microsoft, and Google stack up in the race for the best cloud where developers can build software with artificial intelligence"
-    excerpt: "Amazon still operates the largest cloud, and its SageMaker product is seen as a market leader. The cloud-computing boom over the past 15 years dramatically lowered the barrier to accessing the ..."
-    publishedDateTime: 2021-09-28T17:55:00Z
-    webUrl: "https://www.businessinsider.com/amazon-microsoft-and-google-cloud-artificial-intelligence-compared-2021-9"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://i.insider.com/6024018f67d1e300113c5405?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Artificial intelligence developments are powering virtual assistant and chatbot predictions"
     excerpt: "Although chatbots and virtual assistants have existed for a long time, they came to the mainstream only when artificial intelligence invaded the race. Analytics Insight has listed the top 10 virtual assistant and chatbot predictions for 2022."
     publishedDateTime: 2021-10-03T06:30:00Z
