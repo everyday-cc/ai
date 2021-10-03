@@ -7,7 +7,7 @@ originalUrl: "https://www.oecd.org/publications/venture-capital-investments-in-a
 webUrl: "https://www.oecd-ilibrary.org/science-and-technology/venture-capital-investments-in-artificial-intelligence_f97beae7-en;jsessionid=ExL93HSzRrDDB_HAI5qaSboz.ip-10-240-5-159"
 type: article
 quality: 117
-heat: 187
+heat: 197
 published: true
 
 provider:
@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "AI Innovations In Healthcare"
+    excerpt: "This blog discusses AI Innovations in Healthcare and provides examples of where AI is advancing to increase leadership knowledge. A reference to the The AI Dilemma, a new book by Dr. Cindy Gordon, author of this blog is also highlighted to learn more about AI innovations in healthcare."
+    publishedDateTime: 2021-09-30T14:17:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-healthcare/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155baf730e0300ed464a735%2F0x0.jpg"
+        width: 1200
+        height: 673
+        isCached: true
   - title: "VCs invested over $75B in AI startups in 2020"
     excerpt: "According to a new report from OECD, VCs poured a record amount of money into startups developing AI technologies."
     publishedDateTime: 2021-09-30T17:10:00Z

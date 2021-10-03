@@ -42,6 +42,20 @@ related:
         width: 800
         height: 433
         isCached: true
+  - title: "Global Artificial Intelligence of Things (AIoT) Market 2021 Research Analysis on Competitive landscape and Key Vendors, Forecast by 2027"
+    excerpt: "New exclusive research on Global Artificial Intelligence of Things (AIoT) Market 2021 by Company, Regions, Type"
+    publishedDateTime: 2021-09-29T20:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-of-things-aiot-market-2021-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2027-2021-09-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-driving Cars and Trucks Market Analysis by Size, Status and Forecast to 2021-2026"
     excerpt: "Latest released Global Self-driving Cars and Trucks Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings, market price,"
     publishedDateTime: 2021-09-29T20:45:00Z

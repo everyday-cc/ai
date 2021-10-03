@@ -81,6 +81,22 @@ related:
         width: 777
         height: 583
         isCached: true
+  - title: "Artificial Intelligence may help predict next pandemic, here’s how"
+    excerpt: "Most diseases infectious to humans are zoonotic, caused by viruses originally infecting other animal species, like COVID-19.Identifying such viruses,"
+    publishedDateTime: 2021-10-03T05:28:00Z
+    webUrl: "https://english.alarabiya.net/business/technology/2021/10/03/Artificial-Intelligence-may-help-predict-next-pandemic-here-s-how"
+    ampWebUrl: "https://english.alarabiya.net/amp/business/technology/2021/10/03/Artificial-Intelligence-may-help-predict-next-pandemic-here-s-how"
+    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/business/technology/2021/10/03/Artificial-Intelligence-may-help-predict-next-pandemic-here-s-how"
+    type: article
+    provider:
+      name: العربية.نت
+      domain: alarabiya.net
+    quality: 57
+    images:
+      - url: "https://vid.alarabiya.net/images/2020/01/07/69dbd27b-0f11-47e5-a814-58f3bb57d05e/69dbd27b-0f11-47e5-a814-58f3bb57d05e_16x9_600x338.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Artificial intelligence could help to predict the next virus to jump from animals to humans"
     excerpt: "The researchers' machine learning models could allow scientists to pre-emptively develop vaccines to protect against the most likely candidates."
     publishedDateTime: 2021-09-28T18:01:00Z

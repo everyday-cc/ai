@@ -9,8 +9,8 @@ ampWebUrl: "https://www.infoworld.com/article/3635370/sumo-logic-enhances-observ
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.amp.html"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 82
+published: true
 
 provider:
   name: InfoWorld
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Battery Ventures leads Arize AI’s $19M round for ML observability"
-    excerpt: "Companies use data to build models that they use to automate decisions, but without visibility, it’s difficult to determine if the models are accountable, fair and responsible."
-    publishedDateTime: 2021-09-28T13:00:00Z
-    webUrl: "https://techcrunch.com/2021/09/28/battery-ventures-leads-arize-ais-19m-round-for-ml-observability/"
-    ampWebUrl: "https://techcrunch.com/2021/09/28/battery-ventures-leads-arize-ais-19m-round-for-ml-observability/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/28/battery-ventures-leads-arize-ais-19m-round-for-ml-observability/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/DSC_0597.jpg?w=1000"
-        width: 1000
-        height: 665
-        isCached: true
   - title: "Arize AI Raises $19 Million Series A Financing Led by Battery Ventures for Machine Learning Observability"
     excerpt: "Arize AI, the leader in ML observability and model monitoring, today announced it has raised $19 million in Series A financing. The round was led by Battery Ventures with participation from previous investors Foundation Capital,"
     publishedDateTime: 2021-09-28T15:15:00Z
@@ -56,20 +40,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Arize AI Raises $19M in Series A Financing"
-    excerpt: "Arize AI, a Berkeley, Calif.-based leader in ML observability and model monitoring, raised $19m in Series A financing"
-    publishedDateTime: 2021-09-29T11:18:00Z
-    webUrl: "https://www.finsmes.com/2021/09/arize-ai-raises-19m-in-series-a-financing.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/09/arize.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "lCr7dJODnunfb251lTz5ABUwMqw9s0gqiUazneZlyiXrOg2MzG6Khfd6pahZ34Cb5W8epzV5tyqRXw5PEWAH5YhpkcXAClj3IGMiKoO4/RtbV1YBf9hBJw0Xun10fhumZvLFR1TDtf6grlhhG7HoyxCMmkj/yFrwL119+9U0odzBv2CJOEkEmbPA1xSPzhkd5VcLo+AI9lZq2OeVEy8G6ECB7JW+qBwrouS9+6iR5L0mWTU+SkgNVsGxAFAx5Rt/KXA/SHlTjGQfE0z7x+wwyqLCFrpq/ipDmyEw4FrxzOEmaa2e/ujZiL1ZsLjmU4DKb8g1J9eUjMPH6eB5XhfCHVDWGp85GQTS0DHIQIXc45xkwTrS7H/NvC+RcbFUZv3NVzokmPiCiRQ3xNhOKvGfSeoSorkqRvUg2b3Bp7WL1AcgipNrjmAcgkGYROw1MChWY9CvMpvGoL+b+W6gzfJNM9ep/9irzTIXK3L0rcSsr/8qPq6lv2TVOT/CfHrofu9z85fksXG34sH+GMfafNhOlA==;nILVjo4UWce1/GilQeseNg=="
 ---

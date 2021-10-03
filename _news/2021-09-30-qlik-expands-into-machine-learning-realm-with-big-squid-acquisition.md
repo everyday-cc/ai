@@ -69,6 +69,20 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "How Reliable AI is in Patent Analytics?"
+    excerpt: "We recently conducted a study of innovation and found that the average patents filed in a year have gone up +1800% since 2012. The speed of innovation has gone up by multi-folds, so the researchers and strategists need faster hands or technologies to provide quick yet reliable insights."
+    publishedDateTime: 2021-10-01T01:22:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-reliable-ai-patent-analytics-pranav-sharma"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGk1FBCHuFbdA/article-cover_image-shrink_720_1280/0/1633003255913?e=1639008000&v=beta&t=gZ3ADw8Xji-vydedCWOi_DTRZXZUY52DmqP46Vxid1g"
+        width: 1280
+        height: 682
+        isCached: true
   - title: "Qlik acquires Big Squid"
     excerpt: "Data analytics and integration solutions company Qlik has acquired no-code automated machine learning (AutoML) provider Big Squid. Qlik announced the move as part of its move to expand its data ..."
     publishedDateTime: 2021-10-01T00:54:00Z

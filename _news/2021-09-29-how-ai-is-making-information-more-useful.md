@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/products/search/how-ai-making-information-more
 webUrl: "https://blog.google/products/search/how-ai-making-information-more-useful/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -116,20 +116,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGmyKBct-TaWg/article-cover_image-shrink_720_1280/0/1633115703468?e=1638403200&v=beta&t=lYhzsqOGDrkEHBGeACtqj6r46vmodR0eEfo1XbStQwY"
         width: 1280
         height: 720
-        isCached: true
-  - title: "2nd Annual Artificial Intelligence for Information Accessibility Conference highlights the International Day for Universal Access to Information"
-    excerpt: "Recognised annually on the 28th of September, this year's themes of the the International Day for Universal Access to Information (IDUAI) are “What We Know about our Right to Know” and \"The Right to Know - Building Back Better with Access to Information\"."
-    publishedDateTime: 2021-09-28T12:35:00Z
-    webUrl: "https://www.pressreleasepoint.com/2nd-annual-artificial-intelligence-information-accessibility-conference-highlights-international-day"
-    type: article
-    provider:
-      name: KLAS Press Release
-      domain: pressreleasepoint.com
-    quality: 2
-    images:
-      - url: "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png"
-        width: 256
-        height: 256
         isCached: true
 
 secured: "LOtry6fMilTAv7OcT4Fja1Hc4XzJ6PonhYD0Xjlz3J6fGYIldhgxhbs5T/hU6ADH4lEaIS7eoCWUkor6dfbb2xtV/X68s2CCRuMBIZIYgFri5dFd8DAS/5RWqfaamOdjgRWBcleZbLpze32Qr3lpbH2Hfuv/fBq60TY320pqkI4D+zq05DNPWCWnlvT0hhisR9neKCCDc1NXBa4gS2JtotlXizyoJP295ndBHIGyCt0OEkqUYveCiIGNspBYJVlRZmNw0mj0sL1vPMEqyxM3aT6ISCM+LfjouUrG8MSmSwdfAZbrFJC2cr1GeKlOjgdvbDHgiaVrjES9cHcmiqDU9+Z6OcYn2UkE8ELzjhQci+Q=;5IUkz+unDrSIhvUFvVNyKg=="

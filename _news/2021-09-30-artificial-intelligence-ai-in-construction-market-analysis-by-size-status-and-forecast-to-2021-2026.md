@@ -74,17 +74,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 18
-  - title: "Artificial Intelligence in Medical Imaging Market 2021 Industry Analysis, Size, Share, Growth, Trends and Forecast 2028"
-    excerpt: "DBMR has presented updated research report on Artificial Intelligence in Medical Imaging Market offering insightful information like market share market size and growth rate during the forecast period 2021 2028 that are precisely projected based on type application sales channel"
-    publishedDateTime: 2021-09-28T11:47:00Z
-    webUrl: "https://www.openpr.com/news/2409862/artificial-intelligence-in-medical-imaging-market-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2409862/artificial-intelligence-in-medical-imaging-market-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2409862/artificial-intelligence-in-medical-imaging-market-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 15
 
 secured: "Xd1/QeqSE3Ml6nz9JNDexXGpzJBPfMaPSY0044U+01Qtevs93AoE8AvN/K0Lrl+82MzVVMjYTk8VS6SUD4LHfnIPBnNGjIKPsj3eKu/VaeH908ssoODCx49Szztj2Zd+bu0hnskjNMSTPfOSwiqbJY+9ZbylMVckFvnu5Ns/53xBSvsN6nPdyELQXEyFOsj0c9RZFdIWbam131BTELr5SIt1e6NZyxLH2ZYYEKNN2Z/3H/5R0k10ueL0+fgSjU8sb6l8Z8ZAJS+3rqLQQwc8vAqnZGXdn0nrg30cvPBXPylMhoNm1ivyP8WCaPVU0T8XPVpP2nE/s7dSxPt3KWYTezFj4qjqBcvZnktXXwTBjHs=;bD1EGBYlSvNGTpIWVGquSw=="
 ---

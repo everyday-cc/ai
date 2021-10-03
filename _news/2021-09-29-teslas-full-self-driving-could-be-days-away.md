@@ -254,6 +254,15 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "Tesla’s ‘Full Self-Driving’ Could be Days Away. Here’s What You Need to Know"
+    excerpt: "A wider group of Tesla owners who paid up to $10,000 for what the company calls its “full self-driving” software can now ask the automaker for access to a test version of the feature. But they’ll first have to show"
+    publishedDateTime: 2021-09-30T21:19:00Z
+    webUrl: "https://www.glassbytes.com/2021/09/teslas-full-self-driving-could-be-days-away-heres-what-you-need-to-know/"
+    type: article
+    provider:
+      name: South Carolina Governor
+      domain: glassbytes.com
+    quality: 16
 
 secured: "lvCoTlWD9yiXyThkLG6VAtG6VKz9t8kqOmOBSSnm/ef8szckb004aheaDYkm5nDWwSu1Dot1zMH5i4iQuKMQLTgUsgglTUGCgLyIo0tUlGIrUGCciWX7ICCsEmZF5Gzq7yw35LkeI4mrdy4Ho+H+OU5s7LTXioH5AUPWeP0ctiXqHUHkbdP7oAREIuvuXEYHRQ3mkdURS607ClIcqgTdPCjhoFEmxvQCVFBiUAjkL77whU63hjUdPaSDDGpaip8xxJba85LuML6KOUGNT1dYfH5x5NBAfoEJHI+8asWaAsFpZspSx+cxNm4iqf479irsSmSBo2L1q8+ceU+oynMmIIinKDid/1GbMl+YHWdEy1auJeEF2ocjOpDvmxG9zVCFyyvw1wyJ7oyv2aLt82PLyJBwk9iIxavFcmx0l8ZfjVtWl6FY2wDcVCYyayJ2nbG/+l0csNriFcW+Yqm4vl9zU+HOyiA9RhiKYm+hDWcJYh4mM2qVHilfvBgGLFjl2A+uA3VVJSbpZ3J6X6TTUBNv4g==;OpszsCBbCu9qCePg5+A/sQ=="
 ---

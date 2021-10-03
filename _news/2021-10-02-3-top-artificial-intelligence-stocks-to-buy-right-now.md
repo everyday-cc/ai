@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/10/02/3-top-artificial-intel
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/10/02/3-top-artificial-intelligence-stocks-buy-right-now/"
 type: article
 quality: 87
-heat: 140
+heat: 131
 published: true
 
 provider:
@@ -55,22 +55,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "The 3 Best AI Stocks To Buy for Massive Upside Potential"
-    excerpt: "Many companies have benefited from their application of AI. But these three AI stocks have the most upside potential in the space."
-    publishedDateTime: 2021-09-28T11:28:00Z
-    webUrl: "https://investorplace.com/2021/09/the-3-best-ai-stocks-to-buy-for-massive-upside-potential/"
-    ampWebUrl: "https://investorplace.com/2021/09/the-3-best-ai-stocks-to-buy-for-massive-upside-potential/amp/"
-    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/09/the-3-best-ai-stocks-to-buy-for-massive-upside-potential/amp/"
-    type: article
-    provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 59
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2019/10/artificial-intelligence.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Good Stocks To Buy Right Now ? 5 Fintech Stocks To Watch"
     excerpt: "Top Fintech Stocks To Check Out Before Next Month. After another day of losses, the stock market today appears keen to recover. While this is happening, fintech stocks continue"
     publishedDateTime: 2021-09-29T18:07:00Z

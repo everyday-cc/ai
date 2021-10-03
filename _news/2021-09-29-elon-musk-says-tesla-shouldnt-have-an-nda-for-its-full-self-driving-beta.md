@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nd
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/amp/"
 type: article
 quality: 188
-heat: 338
+heat: 348
 published: true
 
 provider:
@@ -258,6 +258,15 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "Tesla’s ‘Full Self-Driving’ Could be Days Away. Here’s What You Need to Know"
+    excerpt: "A wider group of Tesla owners who paid up to $10,000 for what the company calls its “full self-driving” software can now ask the automaker for access to a test version of the feature. But they’ll first have to show"
+    publishedDateTime: 2021-09-30T21:19:00Z
+    webUrl: "https://www.glassbytes.com/2021/09/teslas-full-self-driving-could-be-days-away-heres-what-you-need-to-know/"
+    type: article
+    provider:
+      name: South Carolina Governor
+      domain: glassbytes.com
+    quality: 16
 
 secured: "ZxGAud9M/SDDMwLhpsyghykSP9Snccd2rKTIFBJPKPnlmFYpOCv8SaaGLnCkuhBofEALMHzAq6saxc/mLthS+9ko7sGnCT1kOLfWVVBiFtnbNdi9rO3GDXuf69kQpv+cm4BY9p/UDM1+tDV+uRqizxejco5bRq0VbimnjuA1eJQbij0xoLpYxs2YR0DUU3gocakZUxGjrrhBRjfWE0JFgjONJh4Cwe8LYkAlnVVlBJ6Ap10BawX7169aGhuLdkJsSKUCh/cPn4we4B9zlyYUl163B5LhS1aS1QDn/+5u7pC1FRDr0FfHdqNb2g6t1hsx21TpIyk06cAg9cXff9kK/3W7na7/ADq2Avji2xHshpVyS6b1hMglvP1232TG/a2kilnyJ6A2JzFQFFusiuzXA/8MZqfd5wjMiUDBYUsp9N5NifcooGpa42vKTQMBz+6+FhHHCuYzRfoV/2bHcn4NYnHkrPF2PjjLLPOTz4CyqdLMYNopxRnyrhOPw96JWr8FMIgfva/YtUjDhTkjgVq/4YLQxPaJF4Uutb3JxUdraIU=;hnvgKrAlIrZ2IJgpIkL7aA=="
 ---

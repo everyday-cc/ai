@@ -39,20 +39,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Event Round up: Sino-UK AI Innovation and Development Forum"
-    excerpt: "On 23 rd September, during 2021 London Tech Week, Sino-International Entrepreneurs Federation (SIEF) Technology and Innovation Committee and Xinchuang Tech have put up a successful online forum in partnership with techUK,"
-    publishedDateTime: 2021-09-28T11:57:00Z
-    webUrl: "https://www.techuk.org/resource/event-round-up-sino-uk-ai-innovation-and-development-forum.html"
-    type: article
-    provider:
-      name: techUK
-      domain: techuk.org
-    quality: 37
-    images:
-      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/4fc666e1-629d-43e3-b9992413968badad/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/Sino-event.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Syntiant Brings Artificial Intelligence Development to Everyone, Everywhere with Introduction ..."
     excerpt: "Tiny Machine Learning Development Board Now Available for Building Low-Power Voice, Audio and Sensor Applications using Edge Impulse’s Embedded ML Platform. Smallest Form Factor"
     publishedDateTime: 2021-09-29T12:22:00Z

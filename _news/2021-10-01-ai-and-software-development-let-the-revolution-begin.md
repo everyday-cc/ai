@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/big-data-and-analytics/ai-and-software-devel
 webUrl: "https://www.eweek.com/big-data-and-analytics/ai-and-software-development-let-the-revolution-begin/"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Event Round up: Sino-UK AI Innovation and Development Forum"
-    excerpt: "On 23 rd September, during 2021 London Tech Week, Sino-International Entrepreneurs Federation (SIEF) Technology and Innovation Committee and Xinchuang Tech have put up a successful online forum in partnership with techUK,"
-    publishedDateTime: 2021-09-28T11:57:00Z
-    webUrl: "https://www.techuk.org/resource/event-round-up-sino-uk-ai-innovation-and-development-forum.html"
-    type: article
-    provider:
-      name: techUK
-      domain: techuk.org
-    quality: 37
-    images:
-      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/4fc666e1-629d-43e3-b9992413968badad/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/Sino-event.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "These top AI cities are doing pretty well in the research and development of AI"
     excerpt: "As we say, data has become wealth today the potential of artificial intelligence is not ignorable under any circumstance. Let’s look at the top AI cities in the world that are doing pretty well to attain advancement in AI."
     publishedDateTime: 2021-10-02T13:30:00Z

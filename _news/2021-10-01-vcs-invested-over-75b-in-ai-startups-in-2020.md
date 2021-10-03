@@ -39,6 +39,22 @@ related:
       name: OECD
       domain: oecd.org
     quality: 117
+  - title: "AI Innovations In Healthcare"
+    excerpt: "This blog discusses AI Innovations in Healthcare and provides examples of where AI is advancing to increase leadership knowledge. A reference to the The AI Dilemma, a new book by Dr. Cindy Gordon, author of this blog is also highlighted to learn more about AI innovations in healthcare."
+    publishedDateTime: 2021-09-30T14:17:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-healthcare/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155baf730e0300ed464a735%2F0x0.jpg"
+        width: 1200
+        height: 673
+        isCached: true
   - title: "Hayden AI Raises $20M, Its Third Investment Round in a Year"
     excerpt: "The startup, only two years old, has now raised more than $30 million from investors. Amid its rapid growth, the company is looking at expanding its traffic automation platform toward self-driving vehicles."
     publishedDateTime: 2021-09-30T20:42:00Z

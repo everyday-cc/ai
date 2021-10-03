@@ -7,8 +7,8 @@ originalUrl: "https://www.biometricupdate.com/202110/new-facial-recognition-ethi
 webUrl: "https://www.biometricupdate.com/202110/new-facial-recognition-ethics-tool-being-tested-in-the-netherlands"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Biometric Companies
@@ -40,17 +40,6 @@ related:
         width: 1600
         height: 1109
         isCached: true
-  - title: "Keystroke tracking, screenshots, and facial recognition: The boss may be watching long after the pandemic ends"
-    excerpt: "Companies are increasingly turning to surveillance software tools as they consider permanent remote work policies. Some workers say remote-work surveillance has gone too far, calling the tracking systems intrusive,"
-    publishedDateTime: 2021-09-28T13:02:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/keystroke-tracking-screenshots-and-facial-recognition-the-boss-may-be-watching-long-after-the-pandemic-ends/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/keystroke-tracking-screenshots-and-facial-recognition-the-boss-may-be-watching-long-after-the-pandemic-ends/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/keystroke-tracking-screenshots-and-facial-recognition-the-boss-may-be-watching-long-after-the-pandemic-ends/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 19
 
 secured: "QDZPDh6s6ESOlZmCvaX5xd+1n/xv0PHxnrD+vVRky0lQy3b3qb7u1voQieWgsmxHVOeyLFHAP4KECq0jYa0iwDn0qYV5FAbrK7+kse0Tqx0bkYRnkXfMjX8v/UeWicJWpClQ5urKkK/BLreyUaz3nzOTuOYy1sgGTGdtJC7RMJ3Nhl5Qxle8FO6XLGmab/r8b99762weYshRqVzyyjmkKdpo58v9w5DP1zRcQGcw9XMOH5DE1dpKCfh3Nol3pZ1Nzebp2f7DN8LJROuWcQ5mVrY+z+wLafMUfKmY69m85jB/DyKBjRuR05r5bBEAjAmUywFFNQTR1l70UCDnUOssXHN4ezeNJBf12hwHyVxC+nZwWTDrnxq9xcXlUhoGtoornsETl+FppUGrzZGTBhn6KSKprOxIlxlfivjGKzDMdDCobhDFMs0m5T8KlpxzJIK0RpIIHasrS5sfNhw/0TvOJ0XfojVzBMp0PdLLYIBUhzvvEWvu31U4BqxSDanEk8MM+xK2gYcuvP7xcwC/a9V/Uw==;lVjcwUpxjPsqzHzfLlezFw=="
 ---

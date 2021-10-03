@@ -32,20 +32,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "A Practical Guide to Using Machine Learning for RBQM in a New Clinical Trial Landscape, Upcoming Webinar Hosted by Xtalks"
-    excerpt: "Artificial intelligence technology, including machine learning (ML), is an increasingly hot topic in clinical research, but there are still important questions to be answered when putting these systems into action."
-    publishedDateTime: 2021-09-28T12:57:00Z
-    webUrl: "https://www.lelezard.com/en/news-20018267.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 14
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "4fqYj0zrqLssqLG3rKtUEfehbpcA7c8lcbIbYQkrOLSX7+4TdfQLI7O0RFFiSxNVTob+DJcGKndd+NIisckHPmAw9L8Xr8U55z0dQo3f5mpEJB1OB5c6o4YVx4gclDI5sj8VW0WARNaklLGKZKVwobel5HRFwBBZpmdfCPN26GBo2fq64CCaWmbQlgkWX+OT4l1UA/oKFgbfMaxpzSfwxk9eR59KBnj39uJBjMDOS8DDCIMr2812lqzKSa/8BYXpkSl5j/ITuT35jfN0EkEbnBTZJj2nQotlDuB1u0NMqRIQBh3GLuGeb83ZS5MKJOOs+UoAiB6aIF7yKDp3j7O0mLLqpgVzs/lwmphoc3JRZbs=;vwnIAUij9xTlpWG/T+PG5A=="
 ---

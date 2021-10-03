@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 134
 published: true
 
 provider:
@@ -46,36 +46,6 @@ related:
       - url: "https://www.bahrainthisweek.com/wp-content/uploads/2021/09/Official-893x1024.jpg"
         width: 893
         height: 1024
-        isCached: true
-  - title: "The ascent of the cloud in fintech"
-    excerpt: "For India, it’s a case of the right place, right time, right conditions for the enthusiastic adoption of cloud tech for financial entities"
-    publishedDateTime: 2021-09-28T12:01:00Z
-    webUrl: "https://www.dqindia.com/the-ascent-of-the-cloud-in-fintech/"
-    ampWebUrl: "https://www.dqindia.com/the-ascent-of-the-cloud-in-fintech/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/the-ascent-of-the-cloud-in-fintech/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 44
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2019/05/Paper-Business-Computing-Save-World-Hand-Cloud-2104829.jpg"
-        width: 598
-        height: 400
-        isCached: true
-  - title: "Software platform Manch, fintech startup The Money Club raise funds"
-    excerpt: "Bengaluru-based software platform Manch Technologies on Tuesday said it has closed a $1.1 million pre-Series A round led by Bharat"
-    publishedDateTime: 2021-09-28T12:51:00Z
-    webUrl: "https://www.vccircle.com/manch-astrome-glamyo-health-the-money-club-raise-funds"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 39
-    images:
-      - url: "https://assets.vccircle.com/uploads/2021/08/Securefundrfxl.jpg"
-        width: 810
-        height: 506
         isCached: true
   - title: "M2P Fintech expands its product offering by acquiring Origa.ai."
     excerpt: "M2P Fintech, an Asian API infrastructure company, has acquired Origa.ai to bolster its technology capabilities around the new-age collection."

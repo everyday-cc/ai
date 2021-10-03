@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2021/09/29/1036329/podcast-how-game
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/09/29/1036329/podcast-how-games-teach-ai-to-learn-for-itself/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: MIT Technology Review
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Innodata Introduces New High-Tech Podcast: Absolute AI"
-    excerpt: "NEW YORK, NY / ACCESSWIRE / September 28, 2021 / Innodata Inc. (NASDAQ:INOD), a leading data engineering company, today announced the launch of its new podcast, Absolute AI, Conversations With the Humans Behind Artificial Intelligence (AI)."
-    publishedDateTime: 2021-09-28T12:21:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-artificial-intelligence-innodata-inc-bed6cfcb5d2a8fa2241b9fedc70440c6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "The Cyberlaw Podcast: AI Dystopia: Only the Elite Will Escape the Algorithm"
     excerpt: "In this episode, we welcome Nick Weaver back for a special appearance thanks to the time-shifting powers of podcast software. He does a sack dance over cryptocurrency, flagging both China’s ban on cryptocurrency transactions and the U."
     publishedDateTime: 2021-09-28T14:55:00Z

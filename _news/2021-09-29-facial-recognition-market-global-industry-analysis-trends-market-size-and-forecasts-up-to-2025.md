@@ -41,6 +41,20 @@ related:
         width: 800
         height: 433
         isCached: true
+  - title: "Global Artificial Intelligence of Things (AIoT) Market 2021 Research Analysis on Competitive landscape and Key Vendors, Forecast by 2027"
+    excerpt: "New exclusive research on Global Artificial Intelligence of Things (AIoT) Market 2021 by Company, Regions, Type"
+    publishedDateTime: 2021-09-29T20:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-of-things-aiot-market-2021-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2027-2021-09-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision in Healthcare Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2025"
     excerpt: "The report on the global computer vision in healthcare market provides qualitative and quantitative analysis for the period from 2017 to 2025. The report predicts the global computer vision in healthcare market to grow with a CAGR of 45."
     publishedDateTime: 2021-09-28T19:42:00Z

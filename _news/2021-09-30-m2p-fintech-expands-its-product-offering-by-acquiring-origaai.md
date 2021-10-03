@@ -57,36 +57,6 @@ related:
         width: 893
         height: 1024
         isCached: true
-  - title: "The ascent of the cloud in fintech"
-    excerpt: "For India, it’s a case of the right place, right time, right conditions for the enthusiastic adoption of cloud tech for financial entities"
-    publishedDateTime: 2021-09-28T12:01:00Z
-    webUrl: "https://www.dqindia.com/the-ascent-of-the-cloud-in-fintech/"
-    ampWebUrl: "https://www.dqindia.com/the-ascent-of-the-cloud-in-fintech/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/the-ascent-of-the-cloud-in-fintech/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 44
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2019/05/Paper-Business-Computing-Save-World-Hand-Cloud-2104829.jpg"
-        width: 598
-        height: 400
-        isCached: true
-  - title: "Software platform Manch, fintech startup The Money Club raise funds"
-    excerpt: "Bengaluru-based software platform Manch Technologies on Tuesday said it has closed a $1.1 million pre-Series A round led by Bharat"
-    publishedDateTime: 2021-09-28T12:51:00Z
-    webUrl: "https://www.vccircle.com/manch-astrome-glamyo-health-the-money-club-raise-funds"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 39
-    images:
-      - url: "https://assets.vccircle.com/uploads/2021/08/Securefundrfxl.jpg"
-        width: 810
-        height: 506
-        isCached: true
   - title: "Key Ways Fintech is Transforming Investment Banking"
     excerpt: "The conventional investment banking business has struggled to adapt to legacy technology, but as the digital revolution sweeps across finance, now is the moment to shift. Fremont, CA: FinTech will change investment banking in various ways,"
     publishedDateTime: 2021-10-01T13:24:00Z

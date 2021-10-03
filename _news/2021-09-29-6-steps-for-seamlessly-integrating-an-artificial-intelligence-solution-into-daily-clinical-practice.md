@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "A Practical Guide to Using Machine Learning for RBQM in a New Clinical Trial Landscape, Upcoming Webinar Hosted by Xtalks"
-    excerpt: "Artificial intelligence technology, including machine learning (ML), is an increasingly hot topic in clinical research, but there are still important questions to be answered when putting these systems into action."
-    publishedDateTime: 2021-09-28T12:57:00Z
-    webUrl: "https://www.lelezard.com/en/news-20018267.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 14
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Research and Industrial Strategies for Next-Generation AI to Accelerate its Diffusion and Avoid Another Winter"
     excerpt: "Research on Artificial Intelligence has been on the rise in recent years and the word artificial intelligence has been a household name. Around the world, governments, organizations, firms, and research centers are investing heavily in developing the research field of artificial intelligence."
     publishedDateTime: 2021-10-02T09:18:00Z

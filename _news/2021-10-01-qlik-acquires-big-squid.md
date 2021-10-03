@@ -83,7 +83,21 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "How Reliable AI is in Patent Analytics?"
+    excerpt: "We recently conducted a study of innovation and found that the average patents filed in a year have gone up +1800% since 2012. The speed of innovation has gone up by multi-folds, so the researchers and strategists need faster hands or technologies to provide quick yet reliable insights."
+    publishedDateTime: 2021-10-01T01:22:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-reliable-ai-patent-analytics-pranav-sharma"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGk1FBCHuFbdA/article-cover_image-shrink_720_1280/0/1633003255913?e=1639008000&v=beta&t=gZ3ADw8Xji-vydedCWOi_DTRZXZUY52DmqP46Vxid1g"
+        width: 1280
+        height: 682
+        isCached: true
 
-secured: "rCi758AhhmlR3ibSimGIdz2O33sjjvIZb61N6/Zp7Ta4uR5gBbSYP8RpqrZ3XmNN1/qrxVmQW+pgdrdOrW8FvkOFO5aujmjjBFmf10v+51zVTNJ1K3LzLDjZJERzhoUkXZnmfiEa346wQwBG3DDpzoesnKKK84AONkHdXB4pRQM4tSqj5Kqff5PoAbne85woNao40AETKZW04QWiclho2Yo11Is+ggL9oaVxioSoISoxGiUT8/zPrJ6DpZkbION8QMrTH0e7LQxqw3IOqa+GpmBXXjzYmHnaoQpoIqUs9NZmr5XuHhsxzNhtav/yPtP1YcutJrLwm/D939z030pR7/m5s+hjQE89z7NPXkavHfg=;Br73cl8L6IFhnlrGSo/rXQ=="
+secured: "f6g/KosL8YNB+zVH5sWtjlEHsT1EIHVCI7xedBwJs0JJzlB4db0ULpT3u91d/GJ8p0DYm34VToMolv3rjVgEyVy6DY67Oh4sMBYd+eOX+MgiwpGxqPe2KTU0fPMKWkbzQ/vI6+Wl2UWllmmkqWYwdTRW11JWnm8/2xb/9o461vyH7GRAD9pVqxnjh6u9qccOlI0vzOZdmRu32NJvZevToAZn/5QVQVkVKoHkmeXCwDG3uS7WHnGej5LvHgfad+dtKs86TpmIDwlg8GUr9yqbitm57PdiLUQpmOovg+vqM3iXUzm5NyAO/AOiFO/IjG/UgupTVe6YSGe3qeLI7l1DnTb3p0uZ+j3XOPrX5Jwps9k=;DrqIbA3i1bTbwHOrO1cJzA=="
 ---
 
