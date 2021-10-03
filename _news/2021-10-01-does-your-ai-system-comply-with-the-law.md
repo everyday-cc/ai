@@ -7,8 +7,8 @@ originalUrl: "https://www.zdnet.com/video/does-your-ai-system-comply-with-the-la
 webUrl: "https://www.zdnet.com/video/does-your-ai-system-comply-with-the-law/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: ZDNet
@@ -26,24 +26,6 @@ images:
     width: 770
     height: 578
     isCached: true
-
-related:
-  - title: "Can AI qualify as an “inventor” for the purposes of patent law?"
-    excerpt: "Can Artificial Intelligence qualify as an \"inventor\" for the purposes of patent law? No, says the Court of Appeal"
-    publishedDateTime: 2021-09-28T09:52:00Z
-    webUrl: "https://ukhumanrightsblog.com/2021/09/28/can-ai-qualify-as-an-inventor-for-the-purposes-of-patent-law/"
-    ampWebUrl: "https://ukhumanrightsblog.com/2021/09/28/can-ai-qualify-as-an-inventor-for-the-purposes-of-patent-law/amp/"
-    cdnAmpWebUrl: "https://ukhumanrightsblog-com.cdn.ampproject.org/c/s/ukhumanrightsblog.com/2021/09/28/can-ai-qualify-as-an-inventor-for-the-purposes-of-patent-law/amp/"
-    type: article
-    provider:
-      name: UK Human Rights Blog
-      domain: ukhumanrightsblog.com
-    quality: 57
-    images:
-      - url: "https://s0.wp.com/i/webclip.png"
-        width: 512
-        height: 512
-        isCached: true
 
 secured: "sH6vW5g33VH7DK9Jxaso4tdJwEHhb7W05O8fpXrWAl7QY9IKzTqxGB8TFObiPbpqnyrqvFcm667LvYjk72DE33QNgep/zrwvrCd3XcoIit75dw+pLrJRZOq+VLAvlgWLRirmSPCks8K/yVbezpdLNsikZmHSCV/LJVD+KIt44cCLeiGu9kIr+s9gD52+tJ+rrDq1QppPN8qjwcHBYke+ZCtmySC7n0pAvjuidaqanP8/EhWh5K146TFYM+jDJIsnCn15ICKoOzWbfJutSmVOe/fGWGjuVYgPpYI2+zamqUHBH5Avnyde1LMRGwfteji61cFK2A1jOhwnzU5dBNy9BBftFdQiG7IzKwA9L6BAW4sizMg8upoWJ+kNNCA1GF9/qLZIHoZauFc8tOp/rEnDIA+kl5XbD2ZjpqZzLZCpYGEqi1HtUl5y+aB1uJ11w78cUr9B9p/E0Z9VhFjYNnQGSFknAltmaFGzcJbRvjbIR03fDAiKVTRCAjLMMESYkdG5ct2PN7FKe2LT8jEW/mDbug==;YG34DlFpv5M+q96fpdZyzA=="
 ---

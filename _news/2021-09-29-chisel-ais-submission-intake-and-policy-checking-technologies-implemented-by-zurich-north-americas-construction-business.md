@@ -68,20 +68,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "US researchers aim to identify autism earlier using artificial intelligence"
-    excerpt: "Researchers at West Virginia University are turning to artificial intelligence to devise a way to properly diagnosis autism spectrum disorder."
-    publishedDateTime: 2021-09-28T10:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/09/28/us-researchers-aim-to-identify-autism-earlier-using-artificial-intelligence"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 50
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/09/28/1310995.jpeg"
-        width: 1240
-        height: 1240
-        isCached: true
   - title: "Beyond Codes signs 7 AI product companies"
     excerpt: "A global Lead Generation company, Beyond Codes is assisting some of the fastest growing IT companies to expand their market reach through B2B appointment setting, Account Based Marketing and Events & Webinars."
     publishedDateTime: 2021-09-29T15:31:00Z

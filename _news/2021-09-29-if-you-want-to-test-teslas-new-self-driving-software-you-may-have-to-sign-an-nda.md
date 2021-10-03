@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla plans to add ~1,000 new Full Self-Driving Beta testers per day based on ‘safety score’"
-    excerpt: "Elon Musk announced that Tesla plans to start adding ~1,000 new Full Self-Driving Beta testers per day based on their ‘safety score’ starting next week. Tesla’s plan for a “wider release” of its Full Self-Driving Beta,"
-    publishedDateTime: 2021-09-28T10:01:00Z
-    webUrl: "https://electrek.co/2021/09/28/tesla-plans-add-1000-full-self-driving-beta-testers-per-day-safety-score/"
-    ampWebUrl: "https://electrek.co/2021/09/28/tesla-plans-add-1000-full-self-driving-beta-testers-per-day-safety-score/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/28/tesla-plans-add-1000-full-self-driving-beta-testers-per-day-safety-score/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 78
-    images:
-      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla nears launch of test for $10,000 ‘full self-driving’ software"
     excerpt: "A group of Tesla owners who paid up to $10,000 for what the company calls its \"full self-driving\" software can now ask the automaker for access to a test version of the feature. But they&#03"
     publishedDateTime: 2021-09-28T16:02:00Z

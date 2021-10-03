@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2411586/ai-in-education-market-future-tre
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2411586/ai-in-education-market-future-trends-prominent-players-covid"
 type: article
 quality: 63
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -87,17 +87,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 15
-  - title: "Global Artificial Intelligence in IoT Market 2021 Size Share Upcoming Trends Segmentation, Opportunities and Forecast To 2026"
-    excerpt: "The New Report Global Artificial Intelligence in IoT Market published by Reports Web covers the competitive landscape analysis and its growth prospects over the coming years The report also covers the major region such as North America Europe Asia Pacific"
-    publishedDateTime: 2021-09-28T09:45:00Z
-    webUrl: "https://www.openpr.com/news/2409288/global-artificial-intelligence-in-iot-market-2021-size-share"
-    ampWebUrl: "https://www.openpr.com/amp/2409288/global-artificial-intelligence-in-iot-market-2021-size-share"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2409288/global-artificial-intelligence-in-iot-market-2021-size-share"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 12
 
 secured: "763t+0WL6OlkOAkq2bKTi+y/aotQuSHBQ1I5seGuq4jUYCwmV8oiIgp9suEQY0sWzPg3+imJZk/nUgsZRUZCXY7hKw8r0gc2F01TTv0WlZ9GEtDwWIdCGTCOec6vr0rREga5f6y3lovHsQpFJa3YZ/A7mC52fpwmy+Rj+ey/Z842/jyBPTuB2VbAc3q0Kj1YwWYYUtSDpj30CiAF1j78zJ+1fUUJ/6l6UlZuz68IrTIYc9tBZlPsfg2EfF0ABlGrqxOtQAeWs/oknG09vIJRASuD76Lnc+GHb99lGLSDZiXubva02+Tq5Ov6R47yVrn1NkSU0OBbdz2pvbLy2HjhnppU3+iwc3H2BlEV4m9PAx8=;46kffFscFR7JZY+xBGtuMg=="
 ---

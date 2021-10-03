@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla plans to add ~1,000 new Full Self-Driving Beta testers per day based on ‘safety score’"
-    excerpt: "Elon Musk announced that Tesla plans to start adding ~1,000 new Full Self-Driving Beta testers per day based on their ‘safety score’ starting next week. Tesla’s plan for a “wider release” of its Full Self-Driving Beta,"
-    publishedDateTime: 2021-09-28T10:01:00Z
-    webUrl: "https://electrek.co/2021/09/28/tesla-plans-add-1000-full-self-driving-beta-testers-per-day-safety-score/"
-    ampWebUrl: "https://electrek.co/2021/09/28/tesla-plans-add-1000-full-self-driving-beta-testers-per-day-safety-score/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/28/tesla-plans-add-1000-full-self-driving-beta-testers-per-day-safety-score/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 78
-    images:
-      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Police Sue Tesla for Self-Driving Car That Injured Five Officers"
     excerpt: "Five Texas cops filed a lawsuit against Tesla on Monday over a crash seemingly caused by the car’s semiautonomous Autopilot mode. Back in February, the cops had pulled over another car when the Model X crashed into their vehicles at 70 miles per hour,"
     publishedDateTime: 2021-09-28T17:23:00Z

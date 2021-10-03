@@ -198,22 +198,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Amazon unveils smart thermostat, 15-inch Echo Show, Astro home robot in new wave of devices"
-    excerpt: "Amazon started its annual Echo and Alexa devices and services event on Tuesday morning with the announcement of a $59.99 smart thermostat. The device undercuts existing smart thermostats on price."
-    publishedDateTime: 2021-09-28T09:15:00Z
-    webUrl: "https://www.geekwire.com/2021/amazon-announces-60-alexa-enabled-smart-thermostat-partnership-honeywell/"
-    ampWebUrl: "https://www.geekwire.com/2021/amazon-announces-60-alexa-enabled-smart-thermostat-partnership-honeywell/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/amazon-announces-60-alexa-enabled-smart-thermostat-partnership-honeywell/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 79
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/09/thermostat-630x347.png"
-        width: 630
-        height: 347
-        isCached: true
   - title: "Ring, Echo and Astro: Everything Amazon just announced"
     excerpt: "Hardware Some of the products Amazon announced today. Amazon just wrapped up its Fall 2021 event, where the online retail gian. This year's event was different, only because the company normally announces as many as 60 different products."
     publishedDateTime: 2021-09-28T18:45:00Z

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Team uses AI to complete Beethoven's unfinished masterpiece"
-excerpt: "You won’t find a paywall here. Come as often as you like — we’re not counting. You’ve found a like-minded tribe that cherishes what a free press stands for. If you can spend another ..."
-publishedDateTime: 2021-10-02T23:57:00Z
-originalUrl: "https://knpr.org/npr/2021-10/team-uses-ai-complete-beethovens-unfinished-masterpiece"
-webUrl: "https://knpr.org/npr/2021-10/team-uses-ai-complete-beethovens-unfinished-masterpiece"
+excerpt: "MARTIN: ...And the fantastical \"Moonlight Sonata.\" (SOUNDBITE OF LUDWIG VAN BEETHOVEN'S \"MOONLIGHT SONATA\") MARTIN: But for all the sonatas, concertos and symphonies Beethoven wrote, there remained one piece he never completed."
+publishedDateTime: 2021-10-03T03:06:00Z
+originalUrl: "https://www.wbaa.org/post/team-uses-ai-complete-beethovens-unfinished-masterpiece"
+webUrl: "https://www.wbaa.org/post/team-uses-ai-complete-beethovens-unfinished-masterpiece"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: KNPR
-  domain: knpr.org
+  name: WBAA
+  domain: wbaa.org
 
 topics:
   - AI
 
 images:
-  - url: "https://knpr.org/sites/default/themes/siteskin/inc/images/ogimg.png"
-    width: 600
-    height: 600
+  - url: "https://www.wbaa.org/sites/wbaa/files/202004/logo_white_transparentdropshadow.png"
+    width: 1830
+    height: 957
     isCached: true
 
 related:
@@ -103,6 +103,6 @@ related:
         height: 382
         isCached: true
 
-secured: "F6nX/6OnMMFRsOp/uIZWdtfRkjUXFk3ycCUJLa1L0vPHRus+xM14cX6wMWHthqM9e1r3a0I7uGiTNZJlYrHjK4n0LK7izXo2sXq7B2QHkgXWgBt32lmRkFSptjf/aBsf1aUGAF3LwvU/r3HVQ2P7uzlCah4JvvIi/c75KmNtFnafbJ2NxxtVA7DUZeU37GXZQvu3tDNAyJTZj+gmV576qaOJKNLt5z/34myGLwurTd2e67Pn0RT192N29mtohNaCVlJerW8uOFzN0L88J4s0x8y2VhE3mL8IKJD+Zqzk9mKCliffV/KndL1H3x/Mo3VLB/ega5xGrqEvZ7wZTUSEGAZ6iLToGuCWwcV9jIhJKXs=;KJW7ONyyveDH2MkuDUjNSg=="
+secured: "gUepaikWBLxTjxlKgLzVbhHlPtehIzrVVXTd1M1a/mHIoSyRpAGj+TGDyrNH3xOKtCtWJEmokeqttpV6kd4nsCkfkpCAQxFelWoRzyJgnkZYMO9Aykn+SCNlcUQG2+3yrfz6d5ml6dBJKPDy/+oQDBzZrD8hFE3vGtOaNDrp4QWXXVuVs7+0OOgi+7OFnhcxmFRjLjTc84/uFm/44lB+Kd9yF2loKBxVgI1S9ckFWnI1BZhItC5fBg7MLD8sfHV21wfdRGgWOC6Ah3gXsNad5QWXKRPLHRrb/WjU9lXTqC6a8zcA/hVAdLcRW5nErLkKlK+LEdMtKOUWMFhkv2N22PMrfPJ5qe5A2/ODOIFsvvc=;mmGFNua54wBKjAYbtie5yw=="
 ---
 

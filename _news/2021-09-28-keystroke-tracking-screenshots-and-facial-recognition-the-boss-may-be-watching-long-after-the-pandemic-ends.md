@@ -21,21 +21,33 @@ topics:
   - AI
 
 related:
-  - title: "The pandemic is testing the limits of face recognition"
-    excerpt: "Government use of face ID systems exploded during the pandemic—but tying it to critical services has left some people locked out at the moment they needed help the most."
-    publishedDateTime: 2021-09-28T09:40:00Z
-    webUrl: "https://www.technologyreview.com/2021/09/28/1036279/pandemic-unemployment-government-face-recognition/"
-    ampWebUrl: "https://www.technologyreview.com/2021/09/28/1036279/pandemic-unemployment-government-face-recognition/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/09/28/1036279/pandemic-unemployment-government-face-recognition/amp/"
+  - title: "New facial recognition ethics tool being tested in the Netherlands"
+    excerpt: "A pilot project has been launched in the Netherlands to see if a proposed governance framework can mitigate risks inherent in facial recognition surveillance."
+    publishedDateTime: 2021-10-01T15:58:00Z
+    webUrl: "https://www.biometricupdate.com/202110/new-facial-recognition-ethics-tool-being-tested-in-the-netherlands"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 56
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/09/face-1.jpg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
+        isCached: true
+  - title: "Proposed facial recognition ban in EU doesn’t go far enough — privacy advocates"
+    excerpt: "Opposition in the European Union to facial recognition surveillance is not appeased by a proposed AI law promoted as being people-centric and risk-based."
+    publishedDateTime: 2021-09-30T16:50:00Z
+    webUrl: "https://www.biometricupdate.com/202109/proposed-facial-recognition-ban-in-eu-doesnt-go-far-enough-privacy-advocates"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
+        width: 1600
+        height: 1109
         isCached: true
 
 secured: "vffuwQDyVvMfC9TLWislWuG5aotwSdbOyCvpUB9EKjSXREVB2PAaLcRf3ZQerLHz/Asdjka8vpm88AqfNXKnRwLHGAf/bxi7abhv+V0WL0skJeMLgoyYuZjbC5+3dsmCqFA4WyLOBFHJfh4eQSbr0e3EYirB0HvTCk6hnuM4QUUszAetPWiLihFd+DOeKy5E3RQ9jQh4lpYaIBwLzEMywWZgwrsG/93cS7H5sMREQPVD3de+7UPUMQlLTBfNpCQBrMP/a6KNxZOGj+kLT9pWC0zZSVerkkFpG8wLxWOD99GdVvHdxMWNV2DLNTj08hoJijAgjLpEf+97AfSikZon97F6OehT2ZOEN1n4zI9x9KbTLc3JdBNU7ifhQ289hOzyNlsAjK1lvOLPq0Fuw3q9NklNI61zh8L7tIeUAEIKwXaBMncJHoMCtLBxFaKt0M8txJqR01Ga075y7AyTWwNPSCLkR2E/UYDkeG2JPGZQzCp4A+sDLhSbLxa5rnGSV1OYiMXYwvwVeF2YCE9XFmslsQ==;nLV0NQnHZb4ZATkp4okaWA=="

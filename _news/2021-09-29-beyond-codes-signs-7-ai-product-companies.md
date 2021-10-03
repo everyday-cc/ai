@@ -68,20 +68,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "US researchers aim to identify autism earlier using artificial intelligence"
-    excerpt: "Researchers at West Virginia University are turning to artificial intelligence to devise a way to properly diagnosis autism spectrum disorder."
-    publishedDateTime: 2021-09-28T10:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/09/28/us-researchers-aim-to-identify-autism-earlier-using-artificial-intelligence"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 50
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/09/28/1310995.jpeg"
-        width: 1240
-        height: 1240
-        isCached: true
   - title: "Chisel AI’s Submission Intake and Policy Checking Technologies Implemented by Zurich North America’s Construction Business"
     excerpt: "Chisel AI, a technology provider for the global insurance industry, today announced that global insurance carrier, Zurich North America has implemented its Submission Intake and Policy Check solutions to automate core Construction underwriting and placement processes,"
     publishedDateTime: 2021-09-29T13:32:00Z

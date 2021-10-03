@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-58727057.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-58727057.amp"
 type: article
 quality: 189
-heat: 419
+heat: 409
 published: true
 
 provider:
@@ -181,22 +181,6 @@ related:
       - url: "https://www.cnet.com/a/img/eduRn-lJYezKLRTpIe_5im89n9M=/1200x630/2021/09/28/67268085-f7eb-4dae-a460-48076fde79ac/screen-shot-2021-09-28-at-9-54-14-am.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Amazon unveils smart thermostat, 15-inch Echo Show, Astro home robot in new wave of devices"
-    excerpt: "Amazon started its annual Echo and Alexa devices and services event on Tuesday morning with the announcement of a $59.99 smart thermostat. The device undercuts existing smart thermostats on price."
-    publishedDateTime: 2021-09-28T09:15:00Z
-    webUrl: "https://www.geekwire.com/2021/amazon-announces-60-alexa-enabled-smart-thermostat-partnership-honeywell/"
-    ampWebUrl: "https://www.geekwire.com/2021/amazon-announces-60-alexa-enabled-smart-thermostat-partnership-honeywell/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/amazon-announces-60-alexa-enabled-smart-thermostat-partnership-honeywell/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 79
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/09/thermostat-630x347.png"
-        width: 630
-        height: 347
         isCached: true
   - title: "Amazon Echo Show, Astro event live blog: Follow our coverage now"
     excerpt: "The e-commerce giant is holding an invite-only press event now. Find out what's coming to your cart. And Astro, the robot Alexa."

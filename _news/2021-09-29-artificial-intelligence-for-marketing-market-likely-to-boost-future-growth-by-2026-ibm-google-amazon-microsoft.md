@@ -37,17 +37,6 @@ related:
         width: 442
         height: 250
         isCached: true
-  - title: "Voice Recognition for Smartphones Market to Witness Huge Growth by 2027 | Apple, Google, Microsoft"
-    excerpt: "The latest Voice Recognition for Smartphones market study offers an all inclusive analysis of the major strategies corporate models and market shares of the most noticeable players in this market The study offers a thorough analysis of the key persuading"
-    publishedDateTime: 2021-09-28T09:04:00Z
-    webUrl: "https://www.openpr.com/news/2409155/voice-recognition-for-smartphones-market-to-witness-huge-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2409155/voice-recognition-for-smartphones-market-to-witness-huge-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2409155/voice-recognition-for-smartphones-market-to-witness-huge-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 27
   - title: "Voice Recognition System Market Report Showing Rising Opportunities for Investors Due to Exponential Growth, Key Players – Microsoft,Apple,Alphabet."
     excerpt: "New York, United States : Latest report published by Decisive Markets Insights on Voice Recognition System Market has only 20 licensed copies left with us. We would like you to get the first hand experience of the most granular report published across ..."
     publishedDateTime: 2021-09-30T12:47:00Z

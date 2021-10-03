@@ -47,17 +47,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 51
-  - title: "Voice Recognition for Smartphones Market to Witness Huge Growth by 2027 | Apple, Google, Microsoft"
-    excerpt: "The latest Voice Recognition for Smartphones market study offers an all inclusive analysis of the major strategies corporate models and market shares of the most noticeable players in this market The study offers a thorough analysis of the key persuading"
-    publishedDateTime: 2021-09-28T09:04:00Z
-    webUrl: "https://www.openpr.com/news/2409155/voice-recognition-for-smartphones-market-to-witness-huge-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2409155/voice-recognition-for-smartphones-market-to-witness-huge-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2409155/voice-recognition-for-smartphones-market-to-witness-huge-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 27
 
 secured: "QjKchmZiEW4uQNq9IgGEchQBijsJbj0kUy616uKobZaUvdFUNzjtyOrAP1P5/AF89O91dcv91XxXKeC1QReSUYWA4yy+UGhdTXgdq4d6VvIMVo67Xyouk7XNxQMlAnVeGFIwf4fsyan8JWcaOAmncM3IZzcJcFi2uDphkPwt2d2Yzcxy16106X4HZqMV70PShKgBufHLk/gkSuQYcXm2COOUToLbdVPEIh3Acwvlq/zh3oR+ThecY4kkZ6xzmRBtT92vWVn5HJMP4FMyLEPeuQcdv1LoImKVoaTw/O0bDFS9+oOtc0DOKDFffM7N3m8OcojggV2WPhiDhFbqAurBEeFpEoUKNazD1qOSeOCy5D4=;vlE6KdbxHElp6VuSEnM2kA=="
 ---

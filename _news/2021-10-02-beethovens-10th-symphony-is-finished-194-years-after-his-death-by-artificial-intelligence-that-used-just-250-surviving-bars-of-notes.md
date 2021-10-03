@@ -75,18 +75,18 @@ related:
         height: 382
         isCached: true
   - title: "Team uses AI to complete Beethoven's unfinished masterpiece"
-    excerpt: "You won’t find a paywall here. Come as often as you like — we’re not counting. You’ve found a like-minded tribe that cherishes what a free press stands for. If you can spend another ..."
-    publishedDateTime: 2021-10-02T23:57:00Z
-    webUrl: "https://knpr.org/npr/2021-10/team-uses-ai-complete-beethovens-unfinished-masterpiece"
+    excerpt: "MARTIN: ...And the fantastical \"Moonlight Sonata.\" (SOUNDBITE OF LUDWIG VAN BEETHOVEN'S \"MOONLIGHT SONATA\") MARTIN: But for all the sonatas, concertos and symphonies Beethoven wrote, there remained one piece he never completed."
+    publishedDateTime: 2021-10-03T03:06:00Z
+    webUrl: "https://www.wbaa.org/post/team-uses-ai-complete-beethovens-unfinished-masterpiece"
     type: article
     provider:
-      name: KNPR
-      domain: knpr.org
+      name: WBAA
+      domain: wbaa.org
     quality: 37
     images:
-      - url: "https://knpr.org/sites/default/themes/siteskin/inc/images/ogimg.png"
-        width: 600
-        height: 600
+      - url: "https://www.wbaa.org/sites/wbaa/files/202004/logo_white_transparentdropshadow.png"
+        width: 1830
+        height: 957
         isCached: true
   - title: "Scientists Built an Artificial Intelligence to Finish Beethoven’s Tenth Symphony"
     excerpt: "We don't know what Beethoven meant to do for his unfinished 10th Symphony. But what if we could plug his music into an AI to figure it out?"
