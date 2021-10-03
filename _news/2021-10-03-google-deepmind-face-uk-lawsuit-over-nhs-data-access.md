@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Google, DeepMind at Odds with Britain’s National Health"
-excerpt: "Google and sister firm DeepMind are facing legal action for the way in which they obtained and processed over a million patient health records without consent in the U.K. British law firm Mishcon de Reya has filed a claim"
-publishedDateTime: 2021-10-01T14:09:00Z
-originalUrl: "https://www.baystreet.ca/techinsider/3184/Google-DeepMind-at-Odds-with-Britains-National-Health"
-webUrl: "https://www.baystreet.ca/techinsider/3184/Google-DeepMind-at-Odds-with-Britains-National-Health"
+title: "Google, DeepMind face UK lawsuit over NHS data access"
+excerpt: "Google and British AI technology subsidiary DeepMind are facing a new claim over NHS data use. The representative action is being brought by law firm Mishcon de Reya on behalf of Andew Prismall and around 1."
+publishedDateTime: 2021-10-03T14:50:00Z
+originalUrl: "https://www.telecompaper.com/news/google-deepmind-face-uk-lawsuit-over-nhs-data-access--1399186"
+webUrl: "https://www.telecompaper.com/news/google-deepmind-face-uk-lawsuit-over-nhs-data-access--1399186"
 type: article
-quality: 54
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: BayStreet
-  domain: baystreet.ca
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - Google AI
   - AI
-
-images:
-  - url: "http://www.baystreet.ca/images/articlegroups/original/17/private/google-headquarters-sign.jpg"
-    width: 1500
-    height: 1000
-    isCached: true
 
 related:
   - title: "UK class action-style suit filed over DeepMind NHS health data scandal"
@@ -57,6 +51,20 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Google, DeepMind at Odds with Britain’s National Health"
+    excerpt: "Google and sister firm DeepMind are facing legal action for the way in which they obtained and processed over a million patient health records without consent in the U.K. British law firm Mishcon de Reya has filed a claim"
+    publishedDateTime: 2021-10-01T14:09:00Z
+    webUrl: "https://www.baystreet.ca/techinsider/3184/Google-DeepMind-at-Odds-with-Britains-National-Health"
+    type: article
+    provider:
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 54
+    images:
+      - url: "http://www.baystreet.ca/images/articlegroups/original/17/private/google-headquarters-sign.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "Google’s DeepMind faces suit over access to NHS patient records"
     excerpt: "London-based firm Mishcon de Reya said it filed a claim in the U.K.’s High Court, alleging that Google’s access of 1.6 million people’s medical records broke privacy rules. NHS’ Royal Free London had struck an agreement with DeepMind in 2015 to build a system for alerting clinicians."
     publishedDateTime: 2021-09-30T21:15:00Z
@@ -71,16 +79,7 @@ related:
         width: 300
         height: 229
         isCached: true
-  - title: "Google, DeepMind face UK lawsuit over NHS data access"
-    excerpt: "Google and British AI technology subsidiary DeepMind are facing a new claim over NHS data use. The representative action is being brought by law firm Mishcon de Reya on behalf of Andew Prismall and around 1."
-    publishedDateTime: 2021-10-03T14:50:00Z
-    webUrl: "https://www.telecompaper.com/news/google-deepmind-face-uk-lawsuit-over-nhs-data-access--1399186"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
-secured: "Kx7mJxSEepL1DHSnjY4QG5Ie/SVINliIxa+gSPc6lfa8yber9LGizOcdaOtGCNrB3PAomw3O2xX1QSkOQ6IeS+R4dXR/KuZtcHfbr9HTCH3yuh0L+osLNryk7KnuIWYRZUjPT7xKA1fhnPGnJoJp2gaqaA2MtO9z5jPlnx58auM31UJUe+OK47Tgaxk2DEjaOlhR4FYdq3F1ZbLegfhylikJBCIA9JhXumLSTGTakrkGISWah0GUyaQGrtWRGKVqR8bVaXHl9p9ii6Z5sDzPsZNOF3eRdeYyvZK8HtlofYCNhqT8W0LG8UDEyOa4iQfv3ZTB2pY0b63RNFlp5x+wz3LqeGvDeb5tzqRj9HDNLrTglyiP/snkr4Z91frKQr7Q/UPqbTIUQpwb035hcDs6hXzKJD0bXZzhkAHuGqi+XWbY3EyT0yk8FgWe635YVACfX+2AFPJL996JomMHxxxEM1wJjHkAqlb+UuenyizuQqLm4ysXqfuCzF34sMJJnRGdCRTJbld+Oy0LynwXI+4Iqg==;obdnf1/RDQR6s7tcnbjtqQ=="
+secured: "n6FxKOK2wa0xbsvlD/eTnZyTBrwpKmvLKhpAvO+A5jTwVo+b7ZxSAAGfm6KQR4C+W7+0u62aNgFKejR0EVT2z/cD0pZtQ4n+T3DT98bRnFKEvmvJLDuZXmR6QdvKQ9+wzdL7cLfWTkdcerC9v3BnsbSBtai24XPtQj8Ix5qDtgezl4OmeAp52zYtzVDv612HZs8h1bjjxZE9vAKMSVYbKIhl2rdycl63OtryxiPqa6dwfCE2Ki0+IS5RDulQfx9NUImtW2P3E2DbVXzBJ2bw+EQkL+o6pK7eeI0niD5ephyaKZwcfKYsVes9cfJpTlQMYggFZZ33gFJlGIIRdFq5OztshSFLo0QHTRyYFIPtfco=;/f3VjRU91kDr4RsXElpnXA=="
 ---
 

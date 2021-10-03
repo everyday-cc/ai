@@ -44,20 +44,6 @@ related:
         width: 652
         height: 367
         isCached: true
-  - title: "3 lessons from IBM on designing responsible, ethical AI"
-    excerpt: "A new report, co-authored by the World Economic Forum and the Markkula Center for Applied Ethics at Santa Clara University, details how IBM is well underway on its mission to develop and advance ethical AI technology."
-    publishedDateTime: 2021-09-28T22:21:00Z
-    webUrl: "https://www.scu.edu/ethics/all-about-ethics/3-lessons-from-ibm-on-designing-responsible-ethical-ai/"
-    type: article
-    provider:
-      name: Santa Clara University
-      domain: scu.edu
-    quality: 54
-    images:
-      - url: "https://www.scu.edu/media/ethics-center/all-about-ethics/IBM_Figure_2-720x679.jpg"
-        width: 720
-        height: 679
-        isCached: true
 
 secured: "45KDj4v2xGR7C1RRhv7N1yblyIq0whFDTXACQkqhSm8WS6KHCHSeNo2PxCxlwYomBoYBNbNK/nAg9p5OWiTnnaeLS/2/+TYpgDB8J2dBgLo/a5qRuSpwnwU41K/TVDhJPXp0MLd1VcLV1lTUNjw9UPQ3iWbtt7f2fEErebwyKZJ1rMvF8/vkRqQ4w3dUPwOHoMrNRMbMkW8Yp6sYVRo30ZzF0Y2qyocRpICCA7lfOQjaUxJ/wKedrTka0aEq6U1lsblIc18seCvdH5u2Esx+ekJVe8K1hcsWC9LY/T2UVO/7l+rMpe/cUMtgicak5px6wpYveR/ZIMIUYjSNZbBejPsBxk874iu01A5DJ3+bBOC63laSaEzVM15dXFqv3xDZfUO6vmZ92dm+Zojj+kX4Q5RGSkVJueqYyjMWePlBLi3i89Vl7iqIm2UP2PuVMXMPQphZsZn1Iafi7GZAoEyopSp2TBSEqwdxs06Q8mk6lrs+ahGrJ0EFPMpajm2v+SO6Y66H3W+vT6Jkt+P8p5wlXQ==;XA4L+cS9gCEfeRbgq++Gsw=="
 ---

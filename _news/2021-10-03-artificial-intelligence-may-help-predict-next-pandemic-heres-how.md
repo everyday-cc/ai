@@ -42,20 +42,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Researchers use AI to determine which animal diseases will infect humans next"
-    excerpt: "Zoonotic diseases such as COVID-19, those that can make the jump from animals to humans, are one of the most difficult to study. AI is here to help."
-    publishedDateTime: 2021-09-28T22:26:00Z
-    webUrl: "https://thenextweb.com/news/researchers-use-ai-determine-which-animal-diseases-infect-humans"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 64
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F02%2FUntitled-design-2021-02-09T192235.448.png&signature=50a8988ccb139ffc1da8785499bb4513"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AI May Predict the Next High-Risk Virus To Jump From Animals to Humans"
     excerpt: "Most emerging infectious diseases of humans (like COVID-19) are zoonotic – caused by viruses originating from other animal species. Identifying high-risk viruses earlier can improve research and surveillance priorities."
     publishedDateTime: 2021-10-02T07:58:00Z

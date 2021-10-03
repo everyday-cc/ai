@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/splunk/2021/10/01/how-to-get-your-cloud
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/splunk/2021/10/01/how-to-get-your-cloud-migration-strategy-right/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

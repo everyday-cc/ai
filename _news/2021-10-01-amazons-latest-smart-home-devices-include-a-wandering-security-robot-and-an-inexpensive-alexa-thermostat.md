@@ -76,6 +76,20 @@ related:
         width: 1200
         height: 677
         isCached: true
+  - title: "Amazon's New Smart Devices Include a Flying Security Camera and a Robot Assistant Named Astro"
+    excerpt: "Amazon’s Astro, Ring Always Home Cam, and Smart Thermostat were announced as part of a new line-up of smart home devices."
+    publishedDateTime: 2021-09-30T13:30:00Z
+    webUrl: "https://www.mentalfloss.com/article/650733/amazon-smart-home-devices-astro-ring-thermostat"
+    type: article
+    provider:
+      name: Mental Floss
+      domain: mentalfloss.com
+    quality: 45
+    images:
+      - url: "https://images2.minutemediacdn.com/image/upload/c_crop,h_707,w_1258,x_0,y_10/v1632943237/shape/mentalfloss/650733-amazon-astro-lead_0.png?itok=pm2HSpJB"
+        width: 1258
+        height: 707
+        isCached: true
 
 secured: "e5YRkhrOstZC8ZOsRDifcIvdtJ3apfIvjPLKh2CxjLW5tJpmg7Tl+ufVX9RnsdC0R+GHe/RiXXkMpJC+F3cZRFBcOe0mutYwhfIPZaNNYDQ4N+kaHwj9aQoqKSOW/jVxUB/rXCNR6US/x3ufUoabsmCt6sexcKrGLx8fV3wBn5NCg98QXs0iBzAZGDKMbRvqUkii14o8PuqEWNjFDOVlM+up0kwwGp7huAJkEDvFkgMIlQf8kNk9X9Gg3MfxECyjFzmTBs1Vo6ZbcCiNRHVcFvPNO9oXTlGg/Dc33pa9/huNsFgQMi0Q+pz49rBo7g9LHnGQ1XlA3zu00xKIppRQK3Nlq5zFAGoD0nUwtzsL8JLLGqo5yDnsM1aRC2M97xWQuC6qjO4efTd1PVn/Wu3sQ9bdQXvLZepiM35Sg2/E67YXEHplbHMqJoXVYtHDuxBtuk7vVPxDrVK/q5ra603Bi6OiJAILn82D3o8pNwsvwTpTLi/IgUJxl3miW8P4bwcEGesMM6u2U6gWG2uY4B9woQ==;D0tXFNx1LgWNa1rGT/eDiA=="
 ---

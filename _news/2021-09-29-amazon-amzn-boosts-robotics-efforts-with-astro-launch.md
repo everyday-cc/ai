@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-boosts-robotics-efforts-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-boosts-robotics-efforts-with-astro-launch-2021-09-29?amp"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 154
+published: true
 
 provider:
   name: Nasdaq
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Amazon’s Astro Is a Robot Without a Cause"
-    excerpt: "Actually, you get Astro, Amazon’s long-rumored home robot. The company has been working on this for nearly four years, and it has plans for Astro. It’s just not quite sure exactly what those are yet,"
-    publishedDateTime: 2021-09-28T21:45:00Z
-    webUrl: "https://www.wired.com/story/amazon-astro/"
-    ampWebUrl: "https://www.wired.com/story/amazon-astro/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-astro/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/61538083098d958b61f393dc/master/pass/Gear-Amazon-Astro-moving-around-home.jpg"
-        width: 2400
-        height: 1800
-        isCached: true
   - title: "Amazon Astro could be the first mainstream robot assistant"
     excerpt: "Ever since Amazon introduced Alexa to the world and invested heavily in its personal assistant AI, it seemed we all knew where the company was eventually heading: personal robots. That moment has finally arrived."
     publishedDateTime: 2021-09-29T01:53:00Z
@@ -51,22 +35,17 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Amazon Echo Show, Astro event live blog: Follow our coverage now"
-    excerpt: "The e-commerce giant is holding an invite-only press event now. Find out what's coming to your cart. And Astro, the robot Alexa."
-    publishedDateTime: 2021-09-28T23:58:00Z
-    webUrl: "https://www.cnet.com/home/amazon-echo-show-astro-event-live-blog-follow-our-coverage-now/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-echo-show-astro-event-live-blog-follow-our-coverage-now/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-echo-show-astro-event-live-blog-follow-our-coverage-now/"
+  - title: "Amazon (AMZN) Bolsters AWS Portfolio With New Managed Service"
+    excerpt: "Amazon’s AMZN cloud division, Amazon Web Services (“AWS”), has made its Amazon Managed Service for Prometheus, which is fully compatible with open-source Prometheus, generally available. Notably, the underlined service is a fully managed scalable and secured monitoring service,"
+    publishedDateTime: 2021-09-30T15:19:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30"
+    ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30?amp"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://www.cnet.com/a/img/nrQga32ASqNPqhWuy9Zbqt9HimI=/647x389:7377x3994/1200x630/2021/09/28/4dcaa407-d125-4473-a62d-b8ba24b4a0a6/hey-disney-echo-show-5-on-white.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Amazon Announced Astro Home Robot"
     excerpt: "Tech giants Amazon Inc (AMZN) have unveiled its home robot, named Astro, on Tuesday in the fall hardware event. The robot is calibrated to watch over homes, carry small things, play with children, play music,"
     publishedDateTime: 2021-09-29T20:14:00Z
@@ -78,6 +57,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Amazon (AMZN) Bolsters AWS Portfolio With New Managed Service"
+    excerpt: "Amazon’s AMZN cloud division, Amazon Web Services (“AWS”), has made its Amazon Managed Service for Prometheus, which is fully compatible with open-source Prometheus, generally available. Notably, the underlined service is a fully managed scalable and secured monitoring service,"
+    publishedDateTime: 2021-09-30T17:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/388659"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-388659.jpeg"
+        width: 635
+        height: 400
+        isCached: true
   - title: "Amazon Astro AI smart home robot with personality from $1,000"
     excerpt: "The Amazon Astro home robot will be priced at $1,450 but Amazon as part of the Day 1 Editions program is making the Alexa"
     publishedDateTime: 2021-09-29T10:22:00Z
@@ -91,50 +84,6 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/09/Amazon-Astro-home-robot.jpg"
         width: 700
         height: 461
-        isCached: true
-  - title: "Amazon's new robot Astro is deemed a 'disaster that's not ready for release' by its designers"
-    excerpt: "The Alexa-powered household robot was unveiled by the Seattle-based retail giant as an autonomous device that can monitor a person's home while they are not there."
-    publishedDateTime: 2021-09-29T13:48:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10041117/Amazons-new-robot-Astro-deemed-disaster-thats-not-ready-release-designers.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10041117/amp/Amazons-new-robot-Astro-deemed-disaster-thats-not-ready-release-designers.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10041117/amp/Amazons-new-robot-Astro-deemed-disaster-thats-not-ready-release-designers.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 48
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/09/29/14/48547483-0-image-a-25_1632923284642.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "Amazon's New Smart Devices Include a Flying Security Camera and a Robot Assistant Named Astro"
-    excerpt: "Amazon’s Astro, Ring Always Home Cam, and Smart Thermostat were announced as part of a new line-up of smart home devices."
-    publishedDateTime: 2021-09-30T13:30:00Z
-    webUrl: "https://www.mentalfloss.com/article/650733/amazon-smart-home-devices-astro-ring-thermostat"
-    type: article
-    provider:
-      name: Mental Floss
-      domain: mentalfloss.com
-    quality: 45
-    images:
-      - url: "https://images2.minutemediacdn.com/image/upload/c_crop,h_707,w_1258,x_0,y_10/v1632943237/shape/mentalfloss/650733-amazon-astro-lead_0.png?itok=pm2HSpJB"
-        width: 1258
-        height: 707
-        isCached: true
-  - title: "Amazon brings its ‘Astro’ home robot to the market"
-    excerpt: "Amazon finally unveiled its first home robot this week, and the company named it Astro. The unit is part of the Day 1 Edition, which means it will be initially sold to a limited number of people. As per CNBC,"
-    publishedDateTime: 2021-09-29T05:55:00Z
-    webUrl: "https://www.econotimes.com/Amazon-brings-its-Astro-home-robot-to-the-market-1618187"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 39
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/202109297151754ed6588c99e_th_1024x0.jpg"
-        width: 640
-        height: 420
         isCached: true
   - title: "Amazon Introduces the Home Robot Astro"
     excerpt: "The American online sales giant Amazon has introduced an autonomous robot that is designed for home use. It's called the Astro, it's about 50 cm high, and it has a camera that makes it possible to make video calls."
@@ -163,20 +112,6 @@ related:
       - url: "https://cdn2.techhq.com/wp-content/uploads/2021/09/063_1343644718-scaled.jpg"
         width: 2560
         height: 1440
-        isCached: true
-  - title: "Who wants to say hello to Astro? Amazon’s cool new home robot"
-    excerpt: "Described as \"Alexa on wheels\", Amazon has just announced its newest innovation: A little robotic helper named Astro."
-    publishedDateTime: 2021-09-29T13:07:00Z
-    webUrl: "https://barrie360.com/amazon-astro-home-robot/"
-    type: article
-    provider:
-      name: barrie360
-      domain: barrie360.com
-    quality: 39
-    images:
-      - url: "https://barrie360.com/wp-content/uploads/2021/09/Amazon-Astro.jpg"
-        width: 1000
-        height: 500
         isCached: true
 
 secured: "lUlvsrpI2m2M2CdUJw8m991PNubTeWCieRvxVMn0gJBwcKh7XV+Ajri8PCgSvjdpVP6H69M5GlNHxJ99YvPGc89kIAHUNxC09T4BXM19kQHClqsMohcwetLFXTv/fOtarEyVr7UPgjTPXW3SW8NRLArkEYUOr40ypBhWEQC/SLTF5F0tSojbWYb5Hh4JvoBzLe+8+TsoGhIW8R93jDNZ7jwKzTcqJI4+LDyEnL2GAuMFuJVv+KkndIuIgVYcJzDIjP2ZvXc7qBDdG2NcFhgoOCTxAPP+kIspskRCgA7qjUDDMAInvwAwI9u8eBmNj+XFGk0c4voaB0T+5ICZBCKpR23XP25K1ov5tjXD1U5REj8=;AROahRu8w3mUE7JR/Q10QA=="

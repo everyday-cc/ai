@@ -7,7 +7,7 @@ originalUrl: "https://techhq.com/2021/09/samsung-to-copy-paste-the-brain-onto-3d
 webUrl: "https://techhq.com/2021/09/samsung-to-copy-paste-the-brain-onto-3d-chips-a-precursor-to-human-like-ai/"
 type: article
 quality: 50
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung Wants To ‘Copy and Paste’ the Brain on Neuromorphic Chips"
-    excerpt: "South Korean tech giant Samsung is considering developing brain-like chips by borrowing existing brain structures. The tech firm puts forward a vision to “copy and paste” the brain’s neuronal connection map onto a computer chip."
-    publishedDateTime: 2021-09-28T22:53:00Z
-    webUrl: "https://www.industrytap.com/samsung-wants-to-copy-and-paste-the-brain-on-neuromorphic-chips/60329"
+  - title: "Samsung has come up with a way to copy the human brain. How will artificial intelligence change the technology of the future?"
+    excerpt: "Monitoring Desk Samsung described the ability to copy the brain At the end of September, the specialists of the Korean company, together with scientists from Harvard University, presented the concept of imitating the human brain using semiconductor chips."
+    publishedDateTime: 2021-09-29T13:34:00Z
+    webUrl: "https://thefrontierpost.com/samsung-has-come-up-with-a-way-to-copy-the-human-brain-how-will-artificial-intelligence-change-the-technology-of-the-future/"
     type: article
     provider:
-      name: Industry Tap
-      domain: industrytap.com
-    quality: 54
+      name: The Frontier Post
+      domain: thefrontierpost.com
+    quality: 25
     images:
-      - url: "https://www.industrytap.com/wp-content/uploads/2021/09/brain.jpg"
-        width: 744
-        height: 419
+      - url: "https://i0.wp.com/thefrontierpost.com/wp-content/uploads/2021/09/Samsung-has-come-up-with.jpg?fit=700%2C600&#038;ssl=1"
+        width: 700
+        height: 600
         isCached: true
 
 secured: "e70SZJ9Pxd/BfVYPuHdHkhXa3mGPoCF9xbZdSf4kGflCQBGauv772AfHWwJ0xEcjGwQpZkLeT2VoObb8exkVWnN7Pm3VCrWCcZDrKs2NzOlnoYmJqRTy7QncF/012lnLUZsaDSOOLGqfoJCvzLIaiTPQOoewM6E10sncp7jUFxEG0ibn6XejjiBcMVjaVqHpxK16wRe2TR4AmU0i6Q1WxBaPBj618KsfmmmwEXklON0Lqq9wlTsZ6DBKjyP8bFWxPsq3YAXodClssziHEyQSnu/wyZFWxKU5ieB6J70pLE924jeYkTna1enpAlpy67suWPwk1hOkvKm0bEjXkNIX44tDbO6sB8mtZ8NrkJ2NEUf7tWXz7czq/uFwKF93x8sMWk1c+yH2MjUXA5BtoWu2UNuyTRhgYFUZXXOvcRwNZKNmDPxjMSZ1UkKsIIpNDifS/A2hW0+A6yYdP1Myz4TJeadBZRc9P1Aa4pZFMqMQ40qeDadTc1jPKX8OE4bHHbuNCtyAhaBb07hlFAegLSkYXA==;qipQ/EW7H8l/NMXK95pZ4g=="

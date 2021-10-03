@@ -3,25 +3,25 @@ category: news
 title: "Tesla's 'full self-driving' feature could be days away for approved drivers"
 excerpt: "A wider group of Tesla owners who paid up to $10,000 for what the company calls its \"full self-driving\" software can now ask the automaker for access to a test"
 publishedDateTime: 2021-09-29T00:30:00Z
-originalUrl: "https://tucson.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_2ae10b4b-66de-5c68-9c7c-37af035b122e.html"
-webUrl: "https://tucson.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_2ae10b4b-66de-5c68-9c7c-37af035b122e.html"
-ampWebUrl: "https://tucson.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_2ae10b4b-66de-5c68-9c7c-37af035b122e.amp.html"
-cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_2ae10b4b-66de-5c68-9c7c-37af035b122e.amp.html"
+originalUrl: "https://missoulian.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_68c5ee37-8102-5e50-b69b-9a8ef16bf66e.html"
+webUrl: "https://missoulian.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_68c5ee37-8102-5e50-b69b-9a8ef16bf66e.html"
+ampWebUrl: "https://missoulian.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_68c5ee37-8102-5e50-b69b-9a8ef16bf66e.amp.html"
+cdnAmpWebUrl: "https://missoulian-com.cdn.ampproject.org/c/s/missoulian.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_68c5ee37-8102-5e50-b69b-9a8ef16bf66e.amp.html"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Arizona Daily Star
-  domain: tucson.com
+  name: Missoulian
+  domain: missoulian.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/e/46/e4637dd0-9aeb-5452-b24f-a8a50379cbcd/61539075d1f2e.image.jpg?resize=1024%2C682"
+  - url: "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/3/d9/3d93cdde-e179-52a4-864c-30463b5c0339/6153906c76267.image.jpg?resize=1024%2C682"
     width: 1024
     height: 682
     isCached: true
@@ -186,6 +186,6 @@ related:
       domain: glassbytes.com
     quality: 16
 
-secured: "XObZhwEDeoBkrI+wiDDPk3b4xIjQyJgZ179CXGxQ077IDHy30db9nwuqbTbrUC1QGY7kyy5QbsRgcKTpXKsA7jstrarrbHIqAMZqKRqbHuMOLkN6QXQpqj2vitchMmo26D4jqnVSG52xM4gzUFptVWxLPT7MdHlasRNXLCN7KqWneHW59gK8DsV0dECkcqxqSy3OuEtNKFsOR4GMrXFrWgM/H0U5SIc/uaSAMB65w1hrLa0Lo8ndYDmepCEBttuK20TaX/yZN4f++A9Qy+flwReMNNyPcPHoFXi29Gv0a7YcJFbeRc9vIveEewRPFPEkvnpiXno1IonEF0NSBgG0TSecylhEoC88lSSeHgSPgMI=;hFEXavpub5E7b8DzhKtcvQ=="
+secured: "yXxvCUuqieiRyaDfF9LfAmPnqx3pwebIY0/HR4s7o2IAHgipXqCI+aTE+dcwNne4CT1j/DdWAhgTVAwHLvv70MIhzTo6/1nRM8cbqc9vQb4x9f8qBDAe66oq1FL1RH6OP8tn2VwPF0PNb/JTrg6pP3xIAaXRNIiYeih7aZ2jtK1BBR9EgWEorcAfiuUOCTv4pqQ0WszHBE1y3ib4ABbu0umruj3UFy6lDpAzZbClZ0Xc/8qC8DTcVc7YYbKsMLH5CYhkAX5RC/8+/6AiZ/dRcD7xjxOa4C86+xc0e4LJZkaMlPuYt+sR95atBoiepSXSX6+BmIiihCPL8ir4saMuqK2PnDfVPnlv0zAHTslD7Ww=;7O/Z92/D4DpSfGvUlM8sQg=="
 ---
 

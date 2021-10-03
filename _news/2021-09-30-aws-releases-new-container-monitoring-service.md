@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/aws-releases-new-container-monitorin
 webUrl: "https://analyticsindiamag.com/aws-releases-new-container-monitoring-service/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,31 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon (AMZN) Bolsters AWS Portfolio With New Managed Service"
-    excerpt: "Amazon’s AMZN cloud division, Amazon Web Services (“AWS”), has made its Amazon Managed Service for Prometheus, which is fully compatible with open-source Prometheus, generally available. Notably, the underlined service is a fully managed scalable and secured monitoring service,"
-    publishedDateTime: 2021-09-30T15:19:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30"
-    ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "Amazon (AMZN) Bolsters AWS Portfolio With New Managed Service"
-    excerpt: "Amazon’s AMZN cloud division, Amazon Web Services (“AWS”), has made its Amazon Managed Service for Prometheus, which is fully compatible with open-source Prometheus, generally available. Notably, the underlined service is a fully managed scalable and secured monitoring service,"
-    publishedDateTime: 2021-09-30T17:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/388659"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-388659.jpeg"
-        width: 635
-        height: 400
-        isCached: true
   - title: "AWS Announces General Availability of Amazon Managed Service for Prometheus"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Managed Service for Prometheus, a scalable, secure, and highly available service that makes it easier for customers to monitor containerized applications."
     publishedDateTime: 2021-09-29T21:04:00Z
