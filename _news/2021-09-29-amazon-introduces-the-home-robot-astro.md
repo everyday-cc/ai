@@ -25,17 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon (AMZN) Boosts Robotics Efforts With Astro Launch"
-    excerpt: "Amazon AMZN ramps up its robotics initiatives by launching a home robot called Astro, which rolls around the house autonomously. Astro, which marks itself as the first domestic robot, is embedded with cameras,"
-    publishedDateTime: 2021-09-29T15:04:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazon-amzn-boosts-robotics-efforts-with-astro-launch-2021-09-29"
-    ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-boosts-robotics-efforts-with-astro-launch-2021-09-29?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-boosts-robotics-efforts-with-astro-launch-2021-09-29?amp"
+  - title: "Amazon’s Astro robot: A feat of science or a successful product?"
+    excerpt: "Astro, Amazon's latest innovation, like an Echo Show on wheels. It packs a lot of technology and shows just how far deep learning has come."
+    publishedDateTime: 2021-10-03T17:20:00Z
+    webUrl: "https://venturebeat.com/2021/10/03/amazons-astro-robot-a-feat-of-science-or-a-successful-product/"
+    ampWebUrl: "https://venturebeat.com/2021/10/03/amazons-astro-robot-a-feat-of-science-or-a-successful-product/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/03/amazons-astro-robot-a-feat-of-science-or-a-successful-product/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/10/Amazon-Astro-robot1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Amazon Astro could be the first mainstream robot assistant"
     excerpt: "Ever since Amazon introduced Alexa to the world and invested heavily in its personal assistant AI, it seemed we all knew where the company was eventually heading: personal robots. That moment has finally arrived."
     publishedDateTime: 2021-09-29T01:53:00Z
@@ -50,17 +55,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Amazon (AMZN) Bolsters AWS Portfolio With New Managed Service"
-    excerpt: "Amazon’s AMZN cloud division, Amazon Web Services (“AWS”), has made its Amazon Managed Service for Prometheus, which is fully compatible with open-source Prometheus, generally available. Notably, the underlined service is a fully managed scalable and secured monitoring service,"
-    publishedDateTime: 2021-09-30T15:19:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30"
-    ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "Amazon Announced Astro Home Robot"
     excerpt: "Tech giants Amazon Inc (AMZN) have unveiled its home robot, named Astro, on Tuesday in the fall hardware event. The robot is calibrated to watch over homes, carry small things, play with children, play music,"
     publishedDateTime: 2021-09-29T20:14:00Z
@@ -72,34 +66,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Amazon (AMZN) Bolsters AWS Portfolio With New Managed Service"
-    excerpt: "Amazon’s AMZN cloud division, Amazon Web Services (“AWS”), has made its Amazon Managed Service for Prometheus, which is fully compatible with open-source Prometheus, generally available. Notably, the underlined service is a fully managed scalable and secured monitoring service,"
-    publishedDateTime: 2021-09-30T17:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/388659"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-388659.jpeg"
-        width: 635
-        height: 400
-        isCached: true
-  - title: "Amazon Astro AI smart home robot with personality from $1,000"
-    excerpt: "The Amazon Astro home robot will be priced at $1,450 but Amazon as part of the Day 1 Editions program is making the Alexa"
-    publishedDateTime: 2021-09-29T10:22:00Z
-    webUrl: "https://www.geeky-gadgets.com/amazon-astro-ai-smart-home-robot-with-personality-29-09-2021/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 54
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/09/Amazon-Astro-home-robot.jpg"
-        width: 700
-        height: 461
-        isCached: true
   - title: "The robot home invasion is official, as Amazon unveils Astro"
     excerpt: "Astro is the first Amazon robot for homes that is designed to help customers with a range of tasks like home monitoring and keeping in touch with family."
     publishedDateTime: 2021-09-29T13:07:00Z

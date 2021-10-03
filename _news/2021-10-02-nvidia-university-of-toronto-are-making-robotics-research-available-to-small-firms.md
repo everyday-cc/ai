@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/01/nvidia-university-of-toronto-are-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/01/nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms/amp/"
 type: article
 quality: 113
-heat: 126
+heat: 127
 published: true
 
 provider:

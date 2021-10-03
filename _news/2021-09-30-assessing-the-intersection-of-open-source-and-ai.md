@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/29/assessing-the-intersection-of-ope
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/assessing-the-intersection-of-open-source-and-ai/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://static.scientificamerican.com/sciam/cache/file/2919B23F-0C73-466D-859B49145D379F97.jpg"
         width: 790
         height: 496
-        isCached: true
-  - title: "OpenAI is working on an artificial intelligence model capable of summarising books"
-    excerpt: "OpenAI, the “capped” for-profit company founded by Elon Musk, is continuing to improve its GPT-3 language model and is developing a tool for summarising books or texts. It’s a development that could benefit businesses in particular."
-    publishedDateTime: 2021-09-28T23:10:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/09/29/openai-is-working-on-an-artificial-intelligence-model-capable-of-summarising-books"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 48
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/09/29/1311520.jpg"
-        width: 1240
-        height: 840
         isCached: true
   - title: "Dubai Taxi and BluWave-ai Launch Innovative Partnership for AI-Enabled Taxi Fleet Electrification and Optimization"
     excerpt: "One of the top fleets globally deploying Tesla EV's working with BluWave-ai EV Fleet Orchestrator Platform to drive innovation in the United Arab"

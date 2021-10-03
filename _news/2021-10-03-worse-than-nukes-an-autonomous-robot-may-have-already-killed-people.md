@@ -43,20 +43,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "Autonomous Robot Weapons Could be More Destabilizing than Nukes"
-    excerpt: "Militaries around the world are working on autonomous machines that are less scary looking but no less lethal. John F. Williams/U.S. Navy James Dawes, Macalester College Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year,"
-    publishedDateTime: 2021-09-29T00:00:00Z
-    webUrl: "https://historynewsnetwork.org/article/181416"
-    type: article
-    provider:
-      name: History News Network
-      domain: historynewsnetwork.org
-    quality: 39
-    images:
-      - url: "https://images.theconversation.com/files/423433/original/file-20210927-21-wsi2zg.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C4928%2C3280&q=45&auto=format&w=754&fit=clip"
-        width: 754
-        height: 502
-        isCached: true
   - title: "An autonomous robot may have already killed people—here's how the weapons could be more destabilizing than nukes"
     excerpt: "Autonomous weapon systems—commonly known as killer robots—may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
     publishedDateTime: 2021-09-30T12:45:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-
 webUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-science-dubai-middle-east-87f39dc4bed333b0340ac71d1aaa9162"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "Have you spotted these robots around Expo 2020 Dubai?"
+    excerpt: "The one-metre-tall orange-coloured robot is the official mascot and guardian of Mission Possible — The Opportunity Pavilion — you can find him around the walkways of Expo 2020 Dubai, dancing with his buddies and cracking a few jokes."
+    publishedDateTime: 2021-10-03T16:28:00Z
+    webUrl: "https://gulfnews.com/expo-2020/experience-the-uae/have-you-spotted-these-robots-around-expo-2020-dubai-1.82706158"
+    ampWebUrl: "https://gulfnews.com/amp/expo-2020/experience-the-uae/have-you-spotted-these-robots-around-expo-2020-dubai-1.82706158"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/expo-2020/experience-the-uae/have-you-spotted-these-robots-around-expo-2020-dubai-1.82706158"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 74
+    images:
+      - url: "https://imagevars.gulfnews.com/2021/10/03/RDS-ROBOT-EXPO-1633277737978_17c46f07c05_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
 
 secured: "I0qxLfVBFAxCXRBykuPrMQZjGrwy8Q5WQaoGCdevLpMTiZNv0xReFCFv/YjGvCDEJavZFpV+qclHiS9bN4M2cSruV3TekWTaOk9KEB81K89OU+IuVIZoEpncPgLZHP0rUgRcRRYdLZrGWqJTWorTMejysEWmlVs5s81+L4uiTvp0wEfCpCyCkhQEX2+yuhiqQcV1QE/ii84yn3WsJs/W/+JEA102LNiKYiAjxzBXwl0FHdwdCdYJArgE8A1q0bmZkdc/qsGuAbkR58yfdPLUMJtqyv4YmBMjJlGMCxUOlg1BA3Vw+wE3kOTglnKu46OwNVr599hJmCzpmEpSlX+59CN8UitrkdUEiCv+sRNJdAU=;fxoIuIj7mDem6f2DaGjNrg=="
 ---

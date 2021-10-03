@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President calls for AI solutions in agriculture, health, education"
-    excerpt: "He also suggested exploring AI-based smart solutions in health such as remote diagnosis, and automatic translation of English texts to Indian languages in education. \"If such solutions can be ..."
-    publishedDateTime: 2021-09-28T23:40:00Z
-    webUrl: "https://www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
-    ampWebUrl: "https://www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 56
   - title: "Best AI and machine learning innovation: GBG"
     excerpt: "In this area, machine learning can play a part in identifying and mapping out new patterns, tracking highly suspicious activities and known fraud better than a traditional rules-based engine. Dev Dhiman,"
     publishedDateTime: 2021-09-29T03:15:00Z

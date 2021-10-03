@@ -90,20 +90,6 @@ related:
         width: 790
         height: 496
         isCached: true
-  - title: "OpenAI is working on an artificial intelligence model capable of summarising books"
-    excerpt: "OpenAI, the “capped” for-profit company founded by Elon Musk, is continuing to improve its GPT-3 language model and is developing a tool for summarising books or texts. It’s a development that could benefit businesses in particular."
-    publishedDateTime: 2021-09-28T23:10:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/09/29/openai-is-working-on-an-artificial-intelligence-model-capable-of-summarising-books"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 48
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/09/29/1311520.jpg"
-        width: 1240
-        height: 840
-        isCached: true
   - title: "These Indian AI start-ups are raising the bar high every year since the inspection"
     excerpt: "Did you know, according to the latest research Indian AI start-ups have raised about US$836.3 million in 2020. Here are the top 10 Indian AI start-ups that have raised funding in 2021 on AI technologies."
     publishedDateTime: 2021-10-01T12:38:00Z

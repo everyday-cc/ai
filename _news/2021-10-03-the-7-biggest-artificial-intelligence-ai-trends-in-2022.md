@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-03T13:16:00Z
 originalUrl: "https://www.linkedin.com/pulse/7-biggest-artificial-intelligence-ai-trends-2022-bernard-marr"
 webUrl: "https://www.linkedin.com/pulse/7-biggest-artificial-intelligence-ai-trends-2022-bernard-marr"
 type: article
-quality: 52
-heat: 52
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -20,6 +20,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI in Robotics
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG0c0tNZYneuA/article-cover_image-shrink_600_2000/0/1633266750161?e=1639008000&v=beta&t=kTQe3TFb_L9KpmaOX5k025SVcG4agCP5muEeIFLJh34"
@@ -27,6 +29,6 @@ images:
     height: 600
     isCached: true
 
-secured: "4dVpraT4/TcZ3I6eX+Fl+nmFZ8jMOuYN/SwlH0IH4cPWwtk4OsiEefOfC2c6nS7GJQBbZclSYr78H+BiowZbmTHVxl+HlxDC8bmZK2rsKT1Nnt7miIVpOE8IBBZQF1Tg1foLZB0dJefOdr9uQmuL7hyN2bcHjqzfl+GrgAyIWB6NNwib1sboS+gXL57rwTw9osJ4UArCh8aLU3UD4xYMKk4jfSPGaeNeRrVtQmX8JDr1q1mT6DBq+0YfwgV1Om/uwKxzK8pJ8Ym33zOMEefBSQpe/qehvbQ9CfrHoYpWZ1lxz4xF9dLQXYolSJViuhcWPY5J4y1BiCnb0DWaKFiTsfmvqVDJgfQmhWfW0W252yY=;YMRf2n33cdcxp1B1R8ogrA=="
+secured: "U5QppkDmWL9PqEF4JO18RWCWxfj+h14IBmsQPTyPPCNjghm063AD2AY0v6h/TIhcNyXy8XyoHgaBzzBMNQrPMRNkXdQ2Mdr0EUasLz/fiYJZnJRJJPXcskxU7fDL4Pm0PcftV2EIWMrc1t8DFkh/R18mUPwTR+pzKAJi9AjUU70jRuRlcaswvcCl83Y4EuPZzd3NJJfquf0m7L+5pQ1WGag91akdyvqE2ontu7FH6rrR4VHDTiVFOMqNJR25uaqA0DR1QfFn2liasGSftVuuGzXk8+SMX6nXKrB+hIGCExAyCeHwNYnYa9zzYvITBsvyQZ6KHlpug734BeuMd89zjR5knUsKG0hRXJpaP/qrjGdGzLahd2thtuyWwAVl7mfI9SNzmZjYCwg+94xM5z7Jmf7VahbW26/1h6llF43UrOUrJssEwLWNDDVQZQM3HQXQIucRDZDTLO3eEwDLh8Y0C+WapftilakfCh+UlTvntA+0Jxob9sFqV5KkDAXueV4CBEXI3Z8Q3+U3kRxnp3mygQ==;MeYbLi17tCCcPQD233sfmA=="
 ---
 

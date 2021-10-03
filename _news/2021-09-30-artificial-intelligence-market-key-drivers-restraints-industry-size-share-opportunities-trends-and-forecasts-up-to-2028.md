@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2413197/artificial-intelligence-market-ke
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2413197/artificial-intelligence-market-key-drivers-restraints"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+
+related:
+  - title: "Self-Driving Floor Scrubbers Market Size YoY Growth, Facts and Figures, Sales and Revenue by Region | Forecast Report 2021 to 2027"
+    excerpt: "Oct 01, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" The report analyse the growth rate of"
+    publishedDateTime: 2021-10-01T11:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-floor-scrubbers-market-size-yoy-growth-facts-and-figures-sales-and-revenue-by-region-forecast-report-2021-to-2027-2021-10-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "v5nWFzV2xeNF1+SFIfvGrfG3am3bzncCQRWEzfCETlwijbpXNz9VEedIiLxtKPXMyzMp1wZ6cUnDZQ7RQZUkaMIzcRDXVC1PPQrgnKC+2WZjZUATHUwz4pgM5hiUhZyjONvMTUqGrwoH2MMaYvpfCOqgWa8+OTmCvFeKRe5vqjoTWhFKRUZoBhar8GhtckjstyF36oXcjUwqgg1HetTd0Hpa7T/PJXXfbzS818MTy4wPz6AS/bF4y3UUfj2uIigHpR2hftkaJyxl1/FKEJnsNavosaplCigsd+VDBUsjwqMVUlBY9kIw03hNJNSBWGF7WCKW1CiN/5wsmdDYTkwGfQL5Pj8Kj2RHcWA/a/r+ajc=;Dymha9aodV/upPyCZcUkZg=="
 ---

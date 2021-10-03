@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President calls for AI solutions in agriculture, health, education"
-    excerpt: "He also suggested exploring AI-based smart solutions in health such as remote diagnosis, and automatic translation of English texts to Indian languages in education. \"If such solutions can be ..."
-    publishedDateTime: 2021-09-28T23:40:00Z
-    webUrl: "https://www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
-    ampWebUrl: "https://www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 56
   - title: "NASSCOM CoE-IoT and AI Evangelizes Digital Healthcare Solutions through Healthcare Innovation Challenge-2"
     excerpt: "A grand finale event with the announcement of winners today marked the end of first phase and start of next phase focusing on deployment of solutions of Healt"
     publishedDateTime: 2021-09-30T13:55:00Z
