@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "Met Police to buy retrospective facial recognition technology"
-    excerpt: "The Mayor of London's office has approved a proposal allowing the Metropolitan Police to buy and use (RFR) technology to boost its surveillance capabilities. The proposal, which was signed last month,"
-    publishedDateTime: 2021-09-28T08:07:00Z
-    webUrl: "https://www.computing.co.uk/news/4037761/met-police-retrospective-facial-recognition-technology"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 39
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/e6a4064/ef09d1db-b609-4429-9970-7831b4d73fd5/5/camera-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
 
 secured: "ocSm1OKjERF6oKORpVeMbIWd2UDr/E8dettTQ41p9zN+UMMz4k1zC/p4tJFtmBQKqUbQUVMuXX6B4oW1Mpzee7p6cxHAr9sdea7soRevwSd4ysBpym6qV3ObgZg6ZHvMEWfWx43V5xN/+faStaAUh4QxwbDZYr1lCjtmPIIqh10dhI3Ff6J9EH9bkMuD4R342rbWU0jpHQXyw/wM8xJn1LP3EzoOwT9Bk0C81KiXTwy1gmz97UXnpzAZxAEIyKW0viv9GwiZTXLtdotTnjF7txtvVq6p3TBpXZPUC/lcqmgGxKZJRL5dLOzZY1+6UpbndSk/ZMqNZgAkOmHSgYCo9TGkdXnW7rm942BjMYs70hD9YqBSN6gzWqxVENb5fDo8y7hT2Jd5S//K1XsmHK0yCZzdd6uh8nT2FgBhq09PhMWZoQdJYktLqqaAdqbqabyrLGKbG2F8/Z28YdR2dkEnek1QxTvGwPP58fRjkXfm0jesf3ienRcOzZzFXxXWejC+vSquaKMPUA/0u5IqIYdSlg==;G3xwJjCasrAK+Dely2PDFw=="
 ---

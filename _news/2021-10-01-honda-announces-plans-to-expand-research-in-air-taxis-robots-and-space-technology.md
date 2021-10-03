@@ -55,6 +55,22 @@ related:
         width: 752
         height: 270
         isCached: true
+  - title: "North Korea develops translator using AI technology: propaganda website"
+    excerpt: "North Korea has developed an artificial intelligence-based translation program with enhanced speed and accuracy, a propaganda outlet reported Sunday. DPRK Today, a propaganda website, carried a report introducing the research result of the AI institute of Kim Il-sung University on the creation and introduction of Ryongma,"
+    publishedDateTime: 2021-10-03T01:09:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/nation/2021/10/103_316380.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316380"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316380"
+    type: article
+    provider:
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 59
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202110/fb09af58482c4d07b89adfed4afbf0af.jpg"
+        width: 980
+        height: 607
+        isCached: true
   - title: "Honda sees its future in air taxis, rockets and moon robots"
     excerpt: "Honda's vision of how people will work, travel and spend leisure time in the future will help expand its business beyond cars, lawn mowers and motorcycles. The efforts are a key component of Honda's \"2030 Vision\" to broaden the definition of mobility and to improve peoples' daily lives."
     publishedDateTime: 2021-10-01T00:14:00Z
