@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-04-alphafold-is-the-most-important-achievement-in-aiever.md",
+      "title": "AlphaFold Is The Most Important Achievement In AI—Ever",
+      "excerpt": "DeepMind's AlphaFold represents the first time a significant scientific problem has been solved by ... [+] AI. It can be difficult to distinguish between substance and hype in the field of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615740b33540fa024d235c55%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1399%26cropY1%3D42%26cropY2%3D829",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/amp/",
+      "publishedDateTime": "2021-10-03T16:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-bengalurus-ksr-station-gets-facial-recognition-system.md",
+      "title": "Bengaluru's KSR station gets facial recognition system",
+      "excerpt": "BENGALURU : A digital cordon envelops the Krantivira Sangolli Rayanna (Bengaluru City) railway station as it has become the first railway station in the country to adopt the Facial Recognition System (FRS) technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/states/karnataka/2021/oct/04/bengalurus-ksr-station-gets-facial-recognition-system-2367253.html",
+      "originalUrl": "https://www.newindianexpress.com/states/karnataka/2021/oct/04/bengalurus-ksr-station-gets-facial-recognition-system-2367253.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/10/4/w600X390/KSR_stn_gets-.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/states/karnataka/2021/oct/04/bengalurus-ksr-station-gets-facial-recognition-system-2367253.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/karnataka/2021/oct/04/bengalurus-ksr-station-gets-facial-recognition-system-2367253.amp",
+      "publishedDateTime": "2021-10-03T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-04-designs-dirty-secrets-and-how-to-address-experience-bias.md",
       "title": "Design’s dirty secrets and how to address experience bias",
       "excerpt": "If the solution to experience bias is variation in front-end design based on the needs of the individual, one way we can radically accelerate that is to understand where automation can be applied.",
@@ -62,7 +157,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/03/amazons-astro-robot-a-feat-of-science-or-a-successful-product/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -204,8 +299,8 @@
       "title": "This Healthcare Company Is Using AI to Develop Drugs",
       "excerpt": "L ife sciences company Schrödinger (NASDAQ: SDGR) has developed software that could help drug companies develop medicine using artificial intelligence and physics, and it's already being used by a number of big-name pharma companies.",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?time=1633263301",
-      "originalUrl": "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?time=1633263301",
+      "webUrl": "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03",
+      "originalUrl": "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03",
       "featuredContent": null,
       "highlight": null,
       "heat": 114,
@@ -229,8 +324,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -467,7 +562,7 @@
       "originalUrl": "https://www.hks.harvard.edu/events/kai-fu-lee-future-artificial-intelligence",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -552,7 +647,7 @@
       "originalUrl": "https://www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -744,7 +839,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/01/nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -796,7 +891,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/01/ai-weekly-amazons-custom-ai-features-showcase-the-potential-of-unsupervised-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -995,49 +1090,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-01-will-elon-musks-self-driving-software-make-your-tesla-a-death-mobile.md",
-      "title": "Will Elon Musk’s “Self-Driving” Software Make Your Tesla a Death-Mobile?",
-      "excerpt": "Tesla Inc. (NASDAQ: TSLA) announced its beta test version of its “Full Self-Driving Capability” software would now be available to select owners. The system is touted as Tesla's most advanced ever, and promises to expand its Autopilot’s capabilities to work on city streets and offer the ability to navigate the vehicle turn by turn,",
-      "sourceUrl": null,
-      "webUrl": "https://www.energyandcapital.com/articles/will-elon-musk-s-self-driving-software-make-your-tesla-a-death-mobile-/100163",
-      "originalUrl": "https://www.energyandcapital.com/articles/will-elon-musk-s-self-driving-software-make-your-tesla-a-death-mobile-/100163",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.angelpub.com/images/2021/39/av-market-demand-2020to2030-68348.png",
-          "width": 600,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.energyandcapital.com/amp/articles/will-elon-musk-s-self-driving-software-make-your-tesla-a-death-mobile-/100163",
-      "cdnAmpWebUrl": "https://www-energyandcapital-com.cdn.ampproject.org/c/s/www.energyandcapital.com/amp/articles/will-elon-musk-s-self-driving-software-make-your-tesla-a-death-mobile-/100163",
-      "publishedDateTime": "2021-10-01T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Energy and Capital",
-        "domain": "energyandcapital.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-01-ai-could-reduce-racial-disparities-in-healthcare.md",
       "title": "AI Could Reduce Racial Disparities In Healthcare",
       "excerpt": "What makes one AI tool shortchange Black patients while another produces more equitable treatment? The difference may boil down to one of the simplest rules of computer programming.",
@@ -1138,57 +1190,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-apples-no-code-trinity-ai-platform-handles-complex-spatial-datasets.md",
-      "title": "Apple’s no-code Trinity AI platform handles complex spatial datasets",
-      "excerpt": "Apple is creating a name for itself in the low-code/no-code movement. Fusemachines CEO Sameer Maskey gave us his take on the new platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/01/apples-no-code-trinity-ai-platform-handles-complex-spatial-datasets/",
-      "originalUrl": "https://venturebeat.com/2021/10/01/apples-no-code-trinity-ai-platform-handles-complex-spatial-datasets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/digitization-6402021_1920-e1632778146499.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/01/apples-no-code-trinity-ai-platform-handles-complex-spatial-datasets/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/01/apples-no-code-trinity-ai-platform-handles-complex-spatial-datasets/amp/",
-      "publishedDateTime": "2021-10-01T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

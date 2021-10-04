@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/03/amazons-astro-robot-a-feat-of-sci
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/03/amazons-astro-robot-a-feat-of-science-or-a-successful-product/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 120
 published: true
 
 provider:

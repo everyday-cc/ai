@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/01/ai-weekly-amazons-custom-ai-featu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/01/ai-weekly-amazons-custom-ai-features-showcase-the-potential-of-unsupervised-learning/amp/"
 type: article
 quality: 84
-heat: 87
+heat: 84
 published: true
 
 provider:

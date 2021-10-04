@@ -24,6 +24,22 @@ images:
     height: 319
     isCached: true
 
+related:
+  - title: "Era of driverless vehicles on the way to reality"
+    excerpt: "With no driver, steering wheel, accelerator or brake pedal, the artificial intelligence-enabled vehicle ... after recent increases in driverless applications. \"To avoid the risk of crowd gathering ..."
+    publishedDateTime: 2021-10-01T02:08:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202110/01/WS615643bca310cdd39bc6cb8b.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202110/01/615643bca310cdd3d810c343.png"
+        width: 479
+        height: 319
+        isCached: true
+
 secured: "cpqHP71XChAqVBLxz7GOTwzxn4kWsEdS+G/ZZqDNqMCVFn/pbTwYd0O1vN6InLBK/onCu/lnu+IDVeuIilviCwyGP7HT5M791jRHsoAq6SXK1zzWlQt8ncwDOZc0OhAtArx4VVKTY2NamBGRF+XcLa+BmObYAwOc3H678U7Yey/MQxA6zVi6vJNuL4BVtT4ec1qRLATObJa5JK2nKQ3WWPiup515KokjW0gHTxhiMcGzRaYIZeCBHX2ROJ28MVlrQ1i/sdS/J5m9YSz5RenqpwnadUALSwpZBmnsa5a7rTz8KUDqyyiP77oKLXhBMfCxI1ek6woX0uEW13HnPRYmsQoXzO5UqlxpbDLziNQUBbxBXXiA1iXJrbSk5KvJtehm6KFGFkeM/bxWE5oeaBsLMIuZKy11PamFvA8Gl0q64sl/0qmhmNrJjtC/picF4mvhhhmWD6NY9vtIdzKmPdnflgW0PiqX2wRtXI2UMv6+NFGyjOw5zPk2+ZLkFcUxohZrKDpNpw6V/r+bwIuqidaU7A==;+//ymkecU5Q1I+mp/LkijA=="
 ---
 

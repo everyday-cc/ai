@@ -7,7 +7,7 @@ originalUrl: "https://www.stuff.co.nz/dominion-post/wellington/126548316/welling
 webUrl: "https://www.stuff.co.nz/dominion-post/wellington/126548316/wellington-today-october-1-suspicious-fire-in-kelburn-facial-recognition-trial-at-wellington-airport-went-against-advice"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,36 @@ images:
     width: 1420
     height: 798
     isCached: true
+
+related:
+  - title: "Secretive facial recognition trial at Wellington Airport went against Privacy Commissioner's advice"
+    excerpt: "Aviation Security went ahead with the trial of a new facial-recognition scanning tool at Wellington Airport, despite serious concerns from the Privacy Commissioner. The secretive months-long trial, which is still ongoing,"
+    publishedDateTime: 2021-09-30T16:00:00Z
+    webUrl: "https://www.stuff.co.nz/national/politics/300420063/secretive-facial-recognition-trial-at-wellington-airport-went-against-privacy-commissioners-advice"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 40
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/v/1/m/y/image.related.StuffLandscapeSixteenByNine.1420x800.4yv1lr.png/1633012249632.jpg"
+        width: 1420
+        height: 798
+        isCached: true
+  - title: "Facial recognition trial not needed, says privacy commissioner"
+    excerpt: "Using facial recognition to figure out how long people will wait in a queue is like using a sledgehammer to crack a nut. That's according to the Privacy Commissioner who has serious concerns about the scanning tool being used at Wellington Airport."
+    publishedDateTime: 2021-10-01T01:02:00Z
+    webUrl: "https://www.rnz.co.nz/national/programmes/middayreport/audio/2018814656/facial-recognition-trial-not-needed-says-privacy-commissioner"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 39
+    images:
+      - url: "https://www.rnz.co.nz/assets/news_crops/123200/eight_col_126044392_m.jpg?1621998715"
+        width: 720
+        height: 450
+        isCached: true
 
 secured: "8CqmFWuBsu5HPgxynr/7WnCNswX1p8d4qWXb9uHMJvK75WMUVsgujaXWZjvJAg8V+axChOtPjZejxx9uhqnR+PkT083fUa1YWtT9u84xG1R/X4f4z7YF/d/CZiKPEdSiV0/RiwRkIJVQYep2732qGvr3+fGkc6/zvHnYH8Fa9MPhCoPd1NnsUzc27PO3tc925/Osnr3gAVbEC0bLbh5tPUf4nLRLOdrRC72yU69KJyiLCAEvWYRVo+oH9PBhS+16bf6334C3mWE8ze0tP9R2j8auwTRUi/6e5O9F5uelPrHUdCyDLQZ/xKavpzm+uDMJqPiTO8h9fDJhrp+6F0DVzAHD2d19kdtXCd+VMZMyi324NUZt6aan1MHk21ORk4BNKhpcqglybtt3kjGhv70XC3tJWDmqB5XLbN1fapnrVXmPNY1MONl0L9drI1RYFaFUqtJu1kp+wGFGZHvJs0zUGw2pCINmHNkUfgcJDK6i3O7hXX199Q6jelu+hKYfcUOGW795AL3B7SSJ6CFMwoAolA==;drTQLV6/2D+zdvSfI2qwWw=="
 ---

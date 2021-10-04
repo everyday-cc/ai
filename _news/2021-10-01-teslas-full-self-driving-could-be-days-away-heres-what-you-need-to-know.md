@@ -35,20 +35,6 @@ related:
         width: 600
         height: 300
         isCached: true
-  - title: "Tesla's 'full self-driving' could be days away. Here's what you need to know."
-    excerpt: "Tesla claimed in 2016 that all of its new vehicles had the hardware capability for \"full self-driving\" and that it would soon offer the complementary software to make the cars drive themselves. Musk has said that he thinks people will be able to fall asleep in Teslas as they drive."
-    publishedDateTime: 2021-09-29T05:50:00Z
-    webUrl: "https://www.kten.com/story/44839823/teslas-full-self-driving-could-be-days-away-heres-what-you-need-to-know"
-    type: article
-    provider:
-      name: KTEN
-      domain: kten.com
-    quality: 36
-    images:
-      - url: "https://CNNWIRE.images.worldnow.com/images/21451695_G.jpg?lastEditedDate=1632832225000"
-        width: 500
-        height: 333
-        isCached: true
 
 secured: "wPh2Wu3l4fvqFM+mCThXch563+4H2UopLLiufMU7QPF9uXujubEigPmEB+ekbbWRVH2tliprmu2FTtwMR+or62DYfv4o4/RJ+m81gcyaWi/LJrZBPf9CRm66E9zTWTjfMspZ7S9W0cffRu4mcgVYVG9t/DG2TSb0+Cu93mwTHbSVOyp3NOUMIYCTzadxaaXWnrEtXczBZa8g3qLb2wldzNB5VMiQi/EECPv9Uz/SNNna07oS+YbRb1sAluFZwzdi/4H+z+pWPO3xNT9BjvqRxtSFwFOwCY38YIK2wLbqtaFbhI9OZwsvo+6mrGARbwbfY62SjrIkmwwq7LNQkJyUafWhn+gTxCoh1nFhqDcZnIY=;VECWeodqtJeX3gCz3QE/Cg=="
 ---

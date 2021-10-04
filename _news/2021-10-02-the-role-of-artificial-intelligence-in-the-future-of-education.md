@@ -75,20 +75,6 @@ related:
         width: 850
         height: 375
         isCached: true
-  - title: "How AI is transforming the world of finance"
-    excerpt: "From barter to paper currency to plastic money to contactless cards, the world of payments has come a long way. AI promises to usher in a new world of frictionless and seamless payments"
-    publishedDateTime: 2021-09-29T05:48:00Z
-    webUrl: "https://www.forbesindia.com/blog/technology/how-ai-is-transforming-the-world-of-finance/"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 56
-    images:
-      - url: "https://www.forbesindia.com/blog/wp-content/uploads/2021/09/AI-Fintech.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Kore.ai raises $50M for its AI-powered experience optimization platform"
     excerpt: "Startup Kore.ai Inc. today announced that it has raised a $50 million funding round led by Vistara Growth and PNC to fuel the growth of its software platform, which helps companies build artificial intelligence assistants to automate repetitive business tasks."
     publishedDateTime: 2021-09-29T20:45:00Z

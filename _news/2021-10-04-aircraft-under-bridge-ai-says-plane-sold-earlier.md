@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Aircraft under bridge: AI says plane sold earlier"
-excerpt: "A social media clip showing an aircraft in Air India colours getting stuck under a foot-over-bridge was sold by the airline and was being transported by its new owner."
-publishedDateTime: 2021-10-03T20:30:00Z
-originalUrl: "https://www.sify.com/news/aircraft-under-bridge-ai-says-plane-sold-earlier-news-national-vkdu4tgbbaheg.html"
-webUrl: "https://www.sify.com/news/aircraft-under-bridge-ai-says-plane-sold-earlier-news-national-vkdu4tgbbaheg.html"
-ampWebUrl: "https://www.sify.com/news/aircraft-under-bridge-ai-says-plane-sold-earlier-news-national-vkdu4tgbbaheg.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/aircraft-under-bridge-ai-says-plane-sold-earlier-news-national-vkdu4tgbbaheg.html"
+excerpt: "A social media clip showing an aircraft in Air India colours getting stuck under a foot-over-bridge was sold by the airl"
+publishedDateTime: 2021-10-03T21:52:00Z
+originalUrl: "https://menafn.com/1102908691/Aircraft-under-bridge-AI-says-plane-sold-earlier"
+webUrl: "https://menafn.com/1102908691/Aircraft-under-bridge-AI-says-plane-sold-earlier"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI
 
-secured: "EwBca+9HcSet5x70O5oPuJ5crtzOkDayX7DazDEekcBzHcP+r+KO2JvEm9hsFEgMzchbwzRMavKtwJ6EDV5uDw5b+Jl/J2Jw59vVjmU28/xLpuf+lI+bmN76IN/WnJv1iQakIFk6TXNtm12IvYHIehh+YE74BQHDik7+1NxFoMXs0qTU/mRL9SGe6qzSPIOxx2GB9Y3pi4IXLPY4TCsCyEd8ihy7CgzA8mEhy/bzPG4URZvvW5wcFICg8J8h9NyUViXa9k/dvS4Vc784loDBxua6zQRx8f8ZZy1WulUYZw5PY8dEuVjBeHDf8zaXztDAwHnX2EUDN5uRN33WLb4g/aHkx/cbqQODxhuX8UW3RQE=;29wmprGKkgWHU/IARRx2bA=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?634932"
+    width: 443
+    height: 250
+    isCached: true
+
+secured: "VaTRUM6a+oSdB0ysMWZ7BMQ9V1QQnr22yjCVPzYBzoR6kEgUgad63tVJlv27Eudz+5CKoUtgfBccQemjxngg7D2TDskfQFTQzZxgVcLWrGmtw1IO06A+6RcVlU/esEJY1qf+uT8f5lJQ6Flm2XrPicft1kRrjmpEQV5OyoeYYjp2elfi8kG9jeVfgEjVUZrF2g9Z311p2B4X7U2s32DCpe3+tRAs+0mxgvOSa60SxeVtlLZX+MU6sDBTOtrkfW9/nGGWUPGI35GZe21nkMgcNgXHQ76mgH3k1owcyGFK18qOw6dWm+n8Szx1qrN7WMsm57vLzysCIgwU/VLb4pe/oPL48uVLwY6mDQJ6/m0/0yE=;hZcW/utci9dG8UlKGxU6tg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.stuff.co.nz/national/politics/300420063/secretive-faci
 webUrl: "https://www.stuff.co.nz/national/politics/300420063/secretive-facial-recognition-trial-at-wellington-airport-went-against-privacy-commissioners-advice"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -25,21 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Met Police purchase new retrospective facial-recognition system"
-    excerpt: "New £3mn retrospective facial-recognition software purchased by the Met Police will be deployed in coming months amid continuing controversy around the use of biometric technologies by law enforcement"
-    publishedDateTime: 2021-10-01T11:30:00Z
-    webUrl: "https://www.computerweekly.com/news/252507569/Met-Police-purchase-new-retrospective-facial-recognition-system"
-    ampWebUrl: "https://www.computerweekly.com/news/252507569/Met-Police-purchase-new-retrospective-facial-recognition-system?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252507569/Met-Police-purchase-new-retrospective-facial-recognition-system?amp=1"
+  - title: "Facial recognition trial not needed, says privacy commissioner"
+    excerpt: "Using facial recognition to figure out how long people will wait in a queue is like using a sledgehammer to crack a nut. That's according to the Privacy Commissioner who has serious concerns about the scanning tool being used at Wellington Airport."
+    publishedDateTime: 2021-10-01T01:02:00Z
+    webUrl: "https://www.rnz.co.nz/national/programmes/middayreport/audio/2018814656/facial-recognition-trial-not-needed-says-privacy-commissioner"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 44
+      name: rnz
+      domain: rnz.co.nz
+    quality: 39
     images:
-      - url: "https://www.computerweekly.com/visuals/German/article/CCTV-facial-recognition-3-adobe.jpg"
-        width: 1200
-        height: 400
+      - url: "https://www.rnz.co.nz/assets/news_crops/123200/eight_col_126044392_m.jpg?1621998715"
+        width: 720
+        height: 450
+        isCached: true
+  - title: "Wellington today, October 1: Suspicious fire in Kelburn, facial recognition trial at Wellington airport went against advice"
+    excerpt: "Here’s what you need to know from The Dominion Post today, plus breaking news and events from around the capital."
+    publishedDateTime: 2021-09-30T18:26:00Z
+    webUrl: "https://www.stuff.co.nz/dominion-post/wellington/126548316/wellington-today-october-1-suspicious-fire-in-kelburn-facial-recognition-trial-at-wellington-airport-went-against-advice"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 28
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/v/1/m/y/image.related.StuffLandscapeSixteenByNine.1420x800.23cdb0.png/1633027910718.jpg"
+        width: 1420
+        height: 798
         isCached: true
 
 secured: "ocSm1OKjERF6oKORpVeMbIWd2UDr/E8dettTQ41p9zN+UMMz4k1zC/p4tJFtmBQKqUbQUVMuXX6B4oW1Mpzee7p6cxHAr9sdea7soRevwSd4ysBpym6qV3ObgZg6ZHvMEWfWx43V5xN/+faStaAUh4QxwbDZYr1lCjtmPIIqh10dhI3Ff6J9EH9bkMuD4R342rbWU0jpHQXyw/wM8xJn1LP3EzoOwT9Bk0C81KiXTwy1gmz97UXnpzAZxAEIyKW0viv9GwiZTXLtdotTnjF7txtvVq6p3TBpXZPUC/lcqmgGxKZJRL5dLOzZY1+6UpbndSk/ZMqNZgAkOmHSgYCo9TGkdXnW7rm942BjMYs70hD9YqBSN6gzWqxVENb5fDo8y7hT2Jd5S//K1XsmHK0yCZzdd6uh8nT2FgBhq09PhMWZoQdJYktLqqaAdqbqabyrLGKbG2F8/Z28YdR2dkEnek1QxTvGwPP58fRjkXfm0jesf3ienRcOzZzFXxXWejC+vSquaKMPUA/0u5IqIYdSlg==;G3xwJjCasrAK+Dely2PDFw=="

@@ -3,8 +3,8 @@ category: news
 title: "This Healthcare Company Is Using AI to Develop Drugs"
 excerpt: "L ife sciences company Schrödinger (NASDAQ: SDGR) has developed software that could help drug companies develop medicine using artificial intelligence and physics, and it's already being used by a number of big-name pharma companies."
 publishedDateTime: 2021-10-03T12:15:00Z
-originalUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?time=1633263301"
-webUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?time=1633263301"
+originalUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03"
+webUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03"
 ampWebUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp"
 type: article
@@ -17,8 +17,8 @@ provider:
   domain: nasdaq.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 related:
   - title: "How AI deployment is changing the game of healthcare ecosystem"
@@ -68,6 +68,6 @@ related:
         height: 483
         isCached: true
 
-secured: "8fHmK2oVAijWJNWiL5ECmrLxMV0QHCgxVwiQMKI41LBGxYesEoMGn2QXKeQkmTH8zVoYNeYSNpAKIiWKE+cb3l9kKHln7M8zeJVNnD4x0sA0W5rTqfsq0pcQ/BodmD4IO7gbeWKtEwup7XaRPvrgHcKtRD1Rei4tr2NlRUJbtTR+0ak60EgJr2IrFU/vOnyiu0PGD+liIhhjze/pvtJ9VWu7oG/NSUebl5qL71F8oSWlcvpmzCyi1kXSwnVQwYmKOOrHlfHwxMf4sM4kRD9ZqzE4kZxMFtGVvm+7AZypccIyH6Tg+zjLgQQAIrZiVHQAqkUsOZ/Vj6URs4U7nKx6lHy3g64cLV8Gp0oQOv1NtJE=;8rnusvzHZlBgnzho/3SW0A=="
+secured: "Extw+9cYK0LojaXCZ/ddZ8KMpIc5ZvJvw5XSX1tNbMhiG1H7rz8LAWapPSctvVfav9cxFo4UACCUZWfl+yuBoidIsTtn9AsZkWhwWL6E+t+gb6krOfgodEnpMUickWalF/n3c1Fzvs2luKmfehFptwgLcKWumZwGA+rqQngNNSM8+sz8Yf1fFzJPQ+VZSEj17TnSvQmk43BpvP4ivbUvF2UICxWsh9BpjhKFWoaoOcPxX4LHJQvFvUulLRI41Ntn74FvI3LRUtLWPZpQ48LTZxSflL75/XC/jvbZKYfPSnmNe1fxAA0NcAx56mPMTzJSmg7VSap7gMe4eeuBbSP+3jyb9iEpnrD9raZxRvo2alg=;F0LmUJQ85b/z8z4jg/5UUA=="
 ---
 

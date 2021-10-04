@@ -9,8 +9,8 @@ ampWebUrl: "https://www.energyandcapital.com/amp/articles/will-elon-musk-s-self-
 cdnAmpWebUrl: "https://www-energyandcapital-com.cdn.ampproject.org/c/s/www.energyandcapital.com/amp/articles/will-elon-musk-s-self-driving-software-make-your-tesla-a-death-mobile-/100163"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Energy and Capital
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla's 'full self-driving' could be days away. Here's what you need to know."
-    excerpt: "Tesla claimed in 2016 that all of its new vehicles had the hardware capability for \"full self-driving\" and that it would soon offer the complementary software to make the cars drive themselves. Musk has said that he thinks people will be able to fall asleep in Teslas as they drive."
-    publishedDateTime: 2021-09-29T05:50:00Z
-    webUrl: "https://www.kten.com/story/44839823/teslas-full-self-driving-could-be-days-away-heres-what-you-need-to-know"
-    type: article
-    provider:
-      name: KTEN
-      domain: kten.com
-    quality: 36
-    images:
-      - url: "https://CNNWIRE.images.worldnow.com/images/21451695_G.jpg?lastEditedDate=1632832225000"
-        width: 500
-        height: 333
-        isCached: true
   - title: "Tesla’s ‘Full Self-Driving’ Could be Days Away. Here’s What You Need to Know"
     excerpt: "A wider group of Tesla owners who paid up to $10,000 for what the company calls its “full self-driving” software can now ask the automaker for access to a test version of the feature. But they’ll first have to show"
     publishedDateTime: 2021-09-30T21:19:00Z

@@ -45,49 +45,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-01-will-elon-musks-self-driving-software-make-your-tesla-a-death-mobile.md",
-      "title": "Will Elon Musk’s “Self-Driving” Software Make Your Tesla a Death-Mobile?",
-      "excerpt": "Tesla Inc. (NASDAQ: TSLA) announced its beta test version of its “Full Self-Driving Capability” software would now be available to select owners. The system is touted as Tesla's most advanced ever, and promises to expand its Autopilot’s capabilities to work on city streets and offer the ability to navigate the vehicle turn by turn,",
-      "sourceUrl": null,
-      "webUrl": "https://www.energyandcapital.com/articles/will-elon-musk-s-self-driving-software-make-your-tesla-a-death-mobile-/100163",
-      "originalUrl": "https://www.energyandcapital.com/articles/will-elon-musk-s-self-driving-software-make-your-tesla-a-death-mobile-/100163",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.angelpub.com/images/2021/39/av-market-demand-2020to2030-68348.png",
-          "width": 600,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.energyandcapital.com/amp/articles/will-elon-musk-s-self-driving-software-make-your-tesla-a-death-mobile-/100163",
-      "cdnAmpWebUrl": "https://www-energyandcapital-com.cdn.ampproject.org/c/s/www.energyandcapital.com/amp/articles/will-elon-musk-s-self-driving-software-make-your-tesla-a-death-mobile-/100163",
-      "publishedDateTime": "2021-10-01T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Energy and Capital",
-        "domain": "energyandcapital.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-30-samsung-will-create-chips-for-teslas-next-gen-self-driving-computer.md",
       "title": "Samsung Will Create Chips For Tesla’s Next-Gen Self-Driving Computer",
       "excerpt": "Tesla is expected to source its next-generation chip from Samsung Electronics. The forthcoming Tesla Cybertruck will debut with Tesla’s new Hardware 4 computer and according to The Korea Economic Daily,",
@@ -135,15 +92,15 @@
       "title": "Tesla's 'full self-driving' feature could be days away for approved drivers",
       "excerpt": "A wider group of Tesla owners who paid up to $10,000 for what the company calls its \"full self-driving\" software can now ask the automaker for access to a test",
       "sourceUrl": null,
-      "webUrl": "https://tucson.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_2ae10b4b-66de-5c68-9c7c-37af035b122e.html",
-      "originalUrl": "https://tucson.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_2ae10b4b-66de-5c68-9c7c-37af035b122e.html",
+      "webUrl": "https://madison.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_28e2555a-2519-587d-aac8-6bd59e63d461.html",
+      "originalUrl": "https://madison.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_28e2555a-2519-587d-aac8-6bd59e63d461.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/e/46/e4637dd0-9aeb-5452-b24f-a8a50379cbcd/61539075d1f2e.image.jpg?resize=1024%2C682",
+          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/2a/a2a79db2-f230-5ec1-8847-4b7462a145ce/6153906b928f3.image.jpg?resize=1024%2C682",
           "width": 1024,
           "height": 682,
           "title": null,
@@ -153,13 +110,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://tucson.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_2ae10b4b-66de-5c68-9c7c-37af035b122e.amp.html",
-      "cdnAmpWebUrl": "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_2ae10b4b-66de-5c68-9c7c-37af035b122e.amp.html",
+      "ampWebUrl": "https://madison.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_28e2555a-2519-587d-aac8-6bd59e63d461.amp.html",
+      "cdnAmpWebUrl": "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_28e2555a-2519-587d-aac8-6bd59e63d461.amp.html",
       "publishedDateTime": "2021-09-28T17:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Arizona Daily Star",
-        "domain": "tucson.com",
+        "name": "Madison.com",
+        "domain": "madison.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1383,6 +1340,58 @@
         "name": "InvestorPlace",
         "domain": "investorplace.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-tesla-slips-on-evergrande-contagion-and-report-of-us-vehicle-regulator-concerns-over-self-driving-tech.md",
+      "title": "Tesla slips on Evergrande contagion and report of US vehicle regulator concerns over self-driving tech",
+      "excerpt": "Tesla Model 3 .. Tesla shares pulled back Monday, swept up in contagion fears over the fallout of China's Evergrande property develo",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tesla-stock-price-china-evergrande-self-driving-safety-tech-ntsb-2021-9",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tesla-stock-price-china-evergrande-self-driving-safety-tech-ntsb-2021-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60c36c906d855e0018157852?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tesla-stock-price-china-evergrande-self-driving-safety-tech-ntsb-2021-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-stock-price-china-evergrande-self-driving-safety-tech-ntsb-2021-9?amp",
+      "publishedDateTime": "2021-09-20T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

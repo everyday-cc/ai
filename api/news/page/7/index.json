@@ -2,20 +2,63 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-09-28-brainchip-goes-virtually-everywhere-at-ai-everywhere-forum-2021.md",
-      "title": "BrainChip Goes Virtually Everywhere at AI Everywhere Forum 2021",
-      "excerpt": "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology, today announced that Vice President of Worldwide Sales Rob Telson will present “Intelligent AI Everywhere” at the AI Everywhere Forum September 28 at 1:15 p.",
+      "path": "_news/2021-09-28-samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain.md",
+      "title": "Samsung Wants To Make An AI Chip That Mimics The Human Brain",
+      "excerpt": "Samsung, together with researchers from Harvard University, have published a paper that puts forth their idea of making neuromorphic chips, semiconductor technology that mimics the human brain by \"copying and pasting\".",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-brainchip-holdings-ltd-5e8d200749cc445e8620e9cd9502b40e",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-brainchip-holdings-ltd-5e8d200749cc445e8620e9cd9502b40e",
+      "webUrl": "https://www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/",
+      "originalUrl": "https://www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lowyat.net/wp-content/uploads/2021/09/Brain-computer-network.jpg",
+          "width": 1040,
+          "height": 693,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/amp/",
+      "cdnAmpWebUrl": "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/amp/",
+      "publishedDateTime": "2021-09-27T17:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lowyat.net",
+        "domain": "lowyat.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-artificial-intelligence-the-challenge-for-air-and-space-power.md",
+      "title": "Artificial Intelligence – The Challenge for Air and Space Power",
+      "excerpt": "In this series of blogs, Professor Patrick Baker, takes a deep dive into the world of Artificial Intelligence (AI), the challenges it presents in a defence context, and its potential contributions to air and space power.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kcl.ac.uk/artificial-intelligence-the-challenge-for-air-and-space-power",
+      "originalUrl": "https://www.kcl.ac.uk/artificial-intelligence-the-challenge-for-air-and-space-power",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
+          "url": "https://www.kcl.ac.uk/newimages/sspp/security/generalschool/feature-800-430/hand-and-robot.x7b5aba48.png?f=webp",
+          "width": 780,
           "height": 450,
           "title": null,
           "attribution": null,
@@ -26,11 +69,54 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "kcl.ac.uk",
+        "domain": "kcl.ac.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-brainchip-goes-virtually-everywhere-at-ai-everywhere-forum-2021.md",
+      "title": "BrainChip Goes Virtually Everywhere at AI Everywhere Forum 2021",
+      "excerpt": "Company executives offer their expertise on AI at the edge during conference presentation, virtual Q&A sessions BrainChip Holdings Ltd (ASX: BRN), (OTCQX:BRCHF), a",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/09/b23125189/brainchip-goes-virtually-everywhere-at-ai-everywhere-forum-2021",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/b23125189/brainchip-goes-virtually-everywhere-at-ai-everywhere-forum-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/23125189",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23125189",
       "publishedDateTime": "2021-09-27T16:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1087,111 +1173,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-cyber-security-in-the-public-cloud.md",
-      "title": "Cyber security in the public cloud",
-      "excerpt": "A brief guide to the network, infrastructure, data, and application security capabilities AWS, Microsoft Azure, and Google Cloud provide to prevent cyber attacks and protect your cloud-based resources and workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.html",
-      "originalUrl": "https://www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2015/10/cloud-security-ts-100622309-large.jpg?auto=webp",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3634111/cyber-security-in-the-public-cloud.amp.html",
-      "publishedDateTime": "2021-09-27T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-dont-rush-to-machine-learning.md",
-      "title": "Don’t rush to machine learning",
-      "excerpt": "It turns out the best way to do machine learning (ML) is sometimes to not do any machine learning at all. In fact, according to Amazon Applied Scientist Eugene Yan, “The first rule of machine learning [is to] start without machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3634401/dont-rush-to-machine-learning.html",
-      "originalUrl": "https://www.infoworld.com/article/3634401/dont-rush-to-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/11/team-of-computer-engineers-work-on-machine-learning-neural-network-picture-id1182697691-100868264-large.jpg?auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3634401/dont-rush-to-machine-learning.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3634401/dont-rush-to-machine-learning.amp.html",
-      "publishedDateTime": "2021-09-27T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

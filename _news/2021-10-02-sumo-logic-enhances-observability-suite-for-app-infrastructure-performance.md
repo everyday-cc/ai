@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3635370/sumo-logic-enhances-observ
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.amp.html"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

@@ -57,20 +57,6 @@ related:
         width: 1680
         height: 1120
         isCached: true
-  - title: "How AI is transforming the world of finance"
-    excerpt: "From barter to paper currency to plastic money to contactless cards, the world of payments has come a long way. AI promises to usher in a new world of frictionless and seamless payments"
-    publishedDateTime: 2021-09-29T05:48:00Z
-    webUrl: "https://www.forbesindia.com/blog/technology/how-ai-is-transforming-the-world-of-finance/"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 56
-    images:
-      - url: "https://www.forbesindia.com/blog/wp-content/uploads/2021/09/AI-Fintech.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "The Role of Artificial Intelligence in the Future of Education"
     excerpt: "Artificial Intelligence is already being widely employed around the world to better our lives, work, health, and everyday routines, among other things. Furthermore, the solution has significant educational potential,"
     publishedDateTime: 2021-10-02T15:46:00Z
