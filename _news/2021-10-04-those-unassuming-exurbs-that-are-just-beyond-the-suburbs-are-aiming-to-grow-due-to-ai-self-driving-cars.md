@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/04/those-unassuming-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/04/those-unassuming-exurbs-that-are-just-beyond-the-suburbs-are-aiming-to-grow-due-to-ai-self-driving-cars/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Understanding The Levels Of Self-Driving Cars"
-    excerpt: "Why AI Autonomous Cars Aren't Yet Paying Attention To Honking Horns   - AI Trends Since semi-autonomous cars require a human driver, the adoption of those types of cars won’t be markedly different from driving conventional vehicles,"
-    publishedDateTime: 2021-09-30T03:19:00Z
-    webUrl: "https://www.linkedin.com/pulse/understanding-levels-self-driving-cars-leslie-liu"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHg-yrjFww8cQ/article-cover_image-shrink_600_2000/0/1632971974983?e=1638403200&v=beta&t=YE_jXhBZY1iC4Il9T-I-qCnFhxg_HRkB6GCPfuDaaYo"
-        width: 910
-        height: 390
-        isCached: true
   - title: "Not coming to a road near you: Self-driving cars"
     excerpt: "The future that never was can also apply to the self-driving car, also known as the autonomous car. They were supposed to be filling our streets by now, but are rarely spotted. Their delayed introduction is actually good news."
     publishedDateTime: 2021-10-01T19:37:00Z

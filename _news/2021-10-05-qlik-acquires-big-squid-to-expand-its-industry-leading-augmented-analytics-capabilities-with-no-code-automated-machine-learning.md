@@ -1,31 +1,24 @@
 ---
 category: news
-title: "How Reliable AI is in Patent Analytics?"
-excerpt: "We recently conducted a study of innovation and found that the average patents filed in a year have gone up +1800% since 2012. The speed of innovation has gone up by multi-folds, so the researchers and strategists need faster hands or technologies to provide quick yet reliable insights."
-publishedDateTime: 2021-10-01T01:22:00Z
-originalUrl: "https://www.linkedin.com/pulse/how-reliable-ai-patent-analytics-pranav-sharma"
-webUrl: "https://www.linkedin.com/pulse/how-reliable-ai-patent-analytics-pranav-sharma"
+title: "Qlik Acquires Big Squid to Expand Its Industry Leading Augmented Analytics Capabilities with No-Code Automated Machine Learning"
+excerpt: "Advances Qlik’s Vision of Active Intelligence by Bringing Data and Analytics Teams Key Driver Analysis, What If Scenario Planning and On-Demand Predictions Directly Within Qlik"
+publishedDateTime: 2021-10-04T21:33:00Z
+originalUrl: "https://www.techwire.net/sponsored/qlik-acquires-big-squid-to-expand-its-industry-leading-augmented-analytics-capabilities-with-no-code-automated-machine-learning"
+webUrl: "https://www.techwire.net/sponsored/qlik-acquires-big-squid-to-expand-its-industry-leading-augmented-analytics-capabilities-with-no-code-automated-machine-learning"
+ampWebUrl: "https://www.techwire.net/sponsored/qlik-acquires-big-squid-to-expand-its-industry-leading-augmented-analytics-capabilities-with-no-code-automated-machine-learning?_amp=true"
+cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/sponsored/qlik-acquires-big-squid-to-expand-its-industry-leading-augmented-analytics-capabilities-with-no-code-automated-machine-learning?_amp=true"
 type: article
-quality: 37
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: LinkedIn
-  domain: linkedin.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: California Techwire
+  domain: techwire.net
 
 topics:
+  - Machine Learning
   - AI
-
-images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGk1FBCHuFbdA/article-cover_image-shrink_720_1280/0/1633003255913?e=1639008000&v=beta&t=gZ3ADw8Xji-vydedCWOi_DTRZXZUY52DmqP46Vxid1g"
-    width: 1280
-    height: 682
-    isCached: true
 
 related:
   - title: "Gap Inc. acquires AI startup CB4 for better retail analytics"
@@ -69,6 +62,20 @@ related:
         width: 500
         height: 326
         isCached: true
+  - title: "How Reliable AI is in Patent Analytics?"
+    excerpt: "We recently conducted a study of innovation and found that the average patents filed in a year have gone up +1800% since 2012. The speed of innovation has gone up by multi-folds, so the researchers and strategists need faster hands or technologies to provide quick yet reliable insights."
+    publishedDateTime: 2021-10-01T01:22:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-reliable-ai-patent-analytics-pranav-sharma"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGk1FBCHuFbdA/article-cover_image-shrink_720_1280/0/1633003255913?e=1639008000&v=beta&t=gZ3ADw8Xji-vydedCWOi_DTRZXZUY52DmqP46Vxid1g"
+        width: 1280
+        height: 682
+        isCached: true
   - title: "Cloudastructure Expands its Solution Offerings to Include Advanced AI Analytics"
     excerpt: "Cloudastructure, a cloud-native AI surveillance company, is adding a new enterprise-grade solution with robust administration and safety features as well as AI analytics to its suite of offerings to meet the growing needs of its larger customers."
     publishedDateTime: 2021-10-01T15:40:00Z
@@ -92,17 +99,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Qlik Acquires Big Squid to Expand Its Industry Leading Augmented Analytics Capabilities with No-Code Automated Machine Learning"
-    excerpt: "Advances Qlik’s Vision of Active Intelligence by Bringing Data and Analytics Teams Key Driver Analysis, What If Scenario Planning and On-Demand Predictions Directly Within Qlik"
-    publishedDateTime: 2021-10-04T21:33:00Z
-    webUrl: "https://www.techwire.net/sponsored/qlik-acquires-big-squid-to-expand-its-industry-leading-augmented-analytics-capabilities-with-no-code-automated-machine-learning"
-    ampWebUrl: "https://www.techwire.net/sponsored/qlik-acquires-big-squid-to-expand-its-industry-leading-augmented-analytics-capabilities-with-no-code-automated-machine-learning?_amp=true"
-    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/sponsored/qlik-acquires-big-squid-to-expand-its-industry-leading-augmented-analytics-capabilities-with-no-code-automated-machine-learning?_amp=true"
-    type: article
-    provider:
-      name: California Techwire
-      domain: techwire.net
-    quality: 11
   - title: "From carbon-negative insect feed to AI and data analytics: Meet 11 start-ups advancing sustainable livestock and aquaculture production"
     excerpt: "The featured start-ups are tackling a range of livestock, dairy and aquaculture challenges with gamechanging technologies including carbon-negative insect feed, novel bioactive peptides, IoT, AI and data analytics,"
     publishedDateTime: 2021-10-01T15:39:00Z
@@ -132,6 +128,6 @@ related:
         height: 480
         isCached: true
 
-secured: "CQA4EHy0MjOIR4UB13K/VMBXMxO7oftEot+FyRohYThZB7skQ36MAuHjxf8EwlTPBD34E8d/nl97I/YoGZdtyzPDUUSMlKq1NVJPcR3b7rQ2zgX0kHtgNrsbUlEzNMhIGy10l65F/gnABq0fPtdD7Vh+cn5JxUAaKgcmnRXZjXbs96fiigVP/PAE6R+EryacfcdJEGfJZLSksG3L7a1YtLFyE5AgS5ZHDq7I8emZPx5uSBG+//lXRJY5LfH+c90LTWXpdNJN8UV5riMMblB9LAJrByHl1fT8incaVCjvK3Qj25o2dv7W/nLVA1kPOnqG2JrHe+U1pJyP8h0dKAxWuPmo/tXYj8PRbhJbGm1DP6BjNWgLOtc0lI3t4ok8NefpfUiFwvoguMWPndUAZs/qvSz1Npk+3dSH9BV/E6YhKVXfEjxcymX0HPfCaf43XOppjly91xW3qDM6eFOMNnzgjl08gEf5VqR8P0/vrULPSyhKshqIWUdA+V4DWRKEaDgxl0WRQB/QZ0W32aqfuAlNZQ==;ajZj8lcsO+iiMPL5WkW6PA=="
+secured: "0Zt8KFeISZy/yXiktIjuCwf8VuaQiG6gLvqBKkjWYDm2QBC3Rcx/HnzI+R/Z3Cn127bCtc1e+gRFFAWqfbu2u3MQ91apCBHqUmm9NB6VrUXAs2rXASP0zF1snYYYVZu72xG5krbrdzpNMNgRR7vMEZNyS0G8wibNCFqRXM7Vy1OL52RG4KVP81JXxTFG/9apysEmh1f4gbM5JFt4JvIDnBVthYYkUSL2NJY/1xcqq4GysweSEh/r4LLi0PHx2NXWu05BPT2TYUB/xbkXn6V1V+PKPhap8CbhmDCxoferz8ijtWblwhktmK60dtZVKfBycFgB4lPcoyJA1wMhwONa2Jb3p46UW1m9XX2lzy9tDL8=;AFtJelTkTWtgeoCE1zc0Jw=="
 ---
 

@@ -23,6 +23,17 @@ images:
     height: 1279
     isCached: true
 
+related:
+  - title: "Artificial intelligence makes it faster, easier to analyze hockey video"
+    excerpt: "Researchers have made a key advancement in the development of technology to automatically analyze video of hockey games using artificial intelligence."
+    publishedDateTime: 2021-10-04T17:03:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/930344"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 17
+
 secured: "pNwQfn1JR6e+b9r2K7wxi6Nr7QbImNsEmie4H4rhCjibY4ez7fMH/FnyEV5koE6kvDp34Z7S+ycuEyemOF9qVbl6zEm5njBNFGnrxBBx3/jc1UF85S926U/Jc7aZAsx0HDvFlYfmd3tmQp5hIKgSrAsDtbKEqylGFftuZfzavyP501Viu1y/ST11liNnlcfJiny1I/ejM7Sv08VUOFkIh0qCuvOEjboNU3I8XkBWpoORU0K6jc/DwLo5D7x7auxi+nW1EElzBviDK+JbQAUnPXlKru8n2o1xqtupxftbM+c/n99S8Y56U17KbH+XV6t/F92H6uB6WhIacSTjnbBXfSzqTanp3uoRv+1MBY67mKlkDVmkG90GrU3O5xToEiCkqHqXYu3JR8A1VyLdz9vrXhPGE6F4dB7ytQES6jUnLOGMgy96asv1SAxqXPC5sfxWlnWQzfob5VBHCECJOanrK2GAcB/CWbkgqxbM8wZUM8rssuhomVdzwxR0ek/W7pAXU9UB1rDnqqSRb8xH9v829A==;AnkK9pXvThgeFDAOJtyU9g=="
 ---
 

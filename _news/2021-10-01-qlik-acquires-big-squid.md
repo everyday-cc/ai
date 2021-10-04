@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qlik Expands Into Machine Learning Realm With Big Squid Acquisition"
-    excerpt: "Big data analysis software vendor Qlik is acquiring Big Squid and its no-code automated machine learning AutoML tools to boost augmented analytics."
-    publishedDateTime: 2021-09-30T04:55:00Z
-    webUrl: "https://www.crn.com/news/applications-os/qlik-expands-into-machine-learning-realm-with-big-squid-acquisition"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0267-11c406e87512-5307b1958bda-1000/123200924.jpeg"
-        width: 1300
-        height: 1300
-        isCached: true
   - title: "Qlik acquires ML specialist Big Squid"
     excerpt: "Data analytics and integration software vendor Qlik Technologies has acquired Big Squid, a developer of automated machine learning technology, in a move that expands Qlik’s augmented analytics capabilities and builds on its “active intelligence” initiative."
     publishedDateTime: 2021-09-30T19:28:00Z
@@ -68,6 +54,6 @@ related:
         height: 960
         isCached: true
 
-secured: "bfPl5IPMXcnS0vTySz1orskyCsymZWHbVkErTlpEI1gecss/9GFrbfu4teJ59TLc0PXYvpaoyxNEUYqQ140KctoSfgOuPnkzjinJVWV7vk7g/Lr754LLdDwqTTcGrmRDOwfqLRRyo9CkRmXqqcTH8Gdk1YXuxhAnOYsRP0r9qRGGyRz6B5kgXMkNekIaQ9f0CKsn0KfWRPi/+vFiFiEVGX+9y/CI7zkAuthr8oN5hB3BN4xmh8RkTTgku3SaR1KVh+Lf/CAhQYZc2qvHqIqpxhTCiloaLrSmqIWcheNCy38zc7XVyztZaFLGYBeKFtNpHLg08l7bMJ9K9hygo1VFmqEjBJSRbXQMlEiwIrDTPGg=;9YxVKlTPudKZDR8+dNS/LA=="
+secured: "+rItxF5PRewtsKoN+LDqkOxngOryShO66nt4/NFqXn6EFSvVuBsyZiYTXrBR2zCcNCezF/uSRWKG8WnmNn2dNcGRcEgJQOFQlDDEAOAI4pEd6f9zTrhCgvUg+klf6u8qLEuL7un1C7+WlD5UUJIyTj1DpIti40yx8B2g1OKH1UISG+VfdEIdxSsOuvFjBqx+rZh7aDyKrE9OuDVvFB0H6jJJmfRb9LIddHzH7X60VFfARNJdztYAYWv3OdOABgsIJvgqm+TnLVLyZ5QulaQeaYMztpp3wNn8dQdKeCIvBSxU4X0bI16Uw7D78OPXmR7OMuyf8MrvLu1rsuQ4LYTO003VmA2B0Uj68EHRt1bSxqk=;3usPK6SDZyy3QuBNYwiE/g=="
 ---
 

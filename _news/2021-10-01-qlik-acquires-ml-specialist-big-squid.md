@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com.au/news/qlik-acquires-ml-specialist-big-squid-
 webUrl: "https://www.crn.com.au/news/qlik-acquires-ml-specialist-big-squid-570648"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qlik Expands Into Machine Learning Realm With Big Squid Acquisition"
-    excerpt: "Big data analysis software vendor Qlik is acquiring Big Squid and its no-code automated machine learning AutoML tools to boost augmented analytics."
-    publishedDateTime: 2021-09-30T04:55:00Z
-    webUrl: "https://www.crn.com/news/applications-os/qlik-expands-into-machine-learning-realm-with-big-squid-acquisition"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0267-11c406e87512-5307b1958bda-1000/123200924.jpeg"
-        width: 1300
-        height: 1300
-        isCached: true
   - title: "Qlik Acquires No-Code AutoML Platform Big Squid"
     excerpt: "Big Squid will further expand Qlik's existing SaaS roadmap and bring new AutoML augmented analytics capabilities."
     publishedDateTime: 2021-10-02T06:20:00Z

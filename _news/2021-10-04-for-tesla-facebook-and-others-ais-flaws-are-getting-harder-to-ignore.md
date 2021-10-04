@@ -2,9 +2,9 @@
 category: news
 title: "For Tesla, Facebook and Others, AI’s Flaws Are Getting Harder to Ignore"
 excerpt: "Investors are pouring money into artificial intelligence, despite clear setbacks in self-driving cars, social media and even healthcare."
-publishedDateTime: 2021-10-04T12:51:00Z
-originalUrl: "https://www.washingtonpost.com/business/for-tesla-facebook-and-others-ais-flaws-are-getting-harder-to-ignore/2021/10/04/30ffd9fe-24e9-11ec-8739-5cb6aba30a30_story.html"
-webUrl: "https://www.washingtonpost.com/business/for-tesla-facebook-and-others-ais-flaws-are-getting-harder-to-ignore/2021/10/04/30ffd9fe-24e9-11ec-8739-5cb6aba30a30_story.html"
+publishedDateTime: 2021-10-04T11:51:00Z
+originalUrl: "https://www.washingtonpost.com/business/for-tesla-facebook-and-others-ais-flaws-are-getting-harder-to-ignore/2021/10/04/30ffd9fe-24e9-11ec-8739-5cb6aba30a30_story.html?amp;amp"
+webUrl: "https://www.washingtonpost.com/business/for-tesla-facebook-and-others-ais-flaws-are-getting-harder-to-ignore/2021/10/04/30ffd9fe-24e9-11ec-8739-5cb6aba30a30_story.html?amp;amp"
 type: article
 quality: 54
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 404
         isCached: true
 
-secured: "c2SEJZ7D0rgT+L2BAW8E5QqR5fy+ql1QLw2Tyl46SbyZIW6IlKYKOnreKuUH9NtyQMcILTKkobfEU6rgowzvhgQ4+YuuJUztJSZpGLUEIj2By8zGvEnTirUMyFft9DNfVnAxRfucqWMKAryQ8MlBEAeCIml4Rq8Hre+kaGubnNUWTc+IkhtjIgAh3UX7UrLjIMDvh5a6gycOFJvuWzZoN6UWhWddGdKBVQsoytgFGeTNlmG3MHH2TQKUksXxMR8Yw/i/Erk1T2gfaHQH6lM0gZHPIKoUwBZpUFXFPvgZMEge8ktvm4dvBFFwRcIlhUmxWG3mbw2fzaHSTQJUI4ISHtovmKpMrrJK3aNTqhajIc8=;DiVZ0nXcF0w9aCrvBdC/kg=="
+secured: "bvpYm+yFhizfUjMh89+mVybT0laHvzVeXw1nUlpqwM6HFHQ8HhKJiBdww0v9jPR3prqLtLXfqFh2x6Y2TqLhVARQ5T+sI7DVVYRvvFk8D/6zraL8/YG2b5Wi4SvGbMQgob5K16yLXq8GJzOwuaeQYF0uad+8rXVMeSt5iT2/DFE0HfXE4zIFLS1Yu+CRztlp5pDhg8zkJcFAlbw15XrNQDly22iUBNCfgzlfClKHNFYBqvTJZmLhxqukbG8HrDI+D/U3/xWq4IrjOjUBVzUGvr9IeNpRt3AbdjujXRtZRuw+84D3FFsxwzhNeWa+Vcagm80xwPTZwo3ngQgLIsWRbWNJH+T2+VOJ/2hXcUyrFlo=;/3wCRRB8Jvjiv+IjAioE/A=="
 ---
 
