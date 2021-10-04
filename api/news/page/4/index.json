@@ -2,6 +2,39 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-30-venture-capital-investments-in-artificial-intelligence.md",
+      "title": "Venture capital investments in artificial intelligence",
+      "excerpt": "New analysis of global investments by venture capitalists (VC) in private companies focused on artificial intelligence (AI) found VC investments in AI to be growing at a dramatic pace. The United States and the People’s Republic of China are",
+      "sourceUrl": null,
+      "webUrl": "https://www.oecd-ilibrary.org/science-and-technology/venture-capital-investments-in-artificial-intelligence_f97beae7-en;jsessionid=ExL93HSzRrDDB_HAI5qaSboz.ip-10-240-5-159",
+      "originalUrl": "https://www.oecd.org/publications/venture-capital-investments-in-artificial-intelligence-f97beae7-en.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-29T22:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "OECD",
+        "domain": "oecd.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-johnson-controls-chooses-ava-robotics-to-power-the-new-tyco-security-robot-designed-for-business-applications.md",
       "title": "Johnson Controls chooses Ava Robotics to power the new Tyco Security Robot, designed for business applications",
       "excerpt": "Johnson Controls has chosen Ava Robotics, a globally renowned company in designing and developing intelligent robots for workplace applications, to improve human productivity, safety and quality",
@@ -86,6 +119,50 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-apples-senior-director-of-ai-and-ml-to-speak-at-nvidia-gtc-2021-conference.md",
+      "title": "Apple’s Senior Director of AI and ML to speak at NVIDIA GTC 2021 conference",
+      "excerpt": "NVIDIA on Wednesday announced the next edition of its annual GTC conference, where the company brings together industry professionals to introduce and discuss new technologies. This year, NVIDIA GTC will have Apple’s Senior Director of AI and ML research Samy Bengio as one of the speakers.",
+      "sourceUrl": null,
+      "webUrl": "https://9to5mac.com/2021/09/29/apples-senior-director-of-ai-and-ml-to-speak-at-nvidia-gtc-2021-conference/",
+      "originalUrl": "https://9to5mac.com/2021/09/29/apples-senior-director-of-ai-and-ml-to-speak-at-nvidia-gtc-2021-conference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/NVIDIA-GTC-2021.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://9to5mac.com/2021/09/29/apples-senior-director-of-ai-and-ml-to-speak-at-nvidia-gtc-2021-conference/amp/",
+      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/09/29/apples-senior-director-of-ai-and-ml-to-speak-at-nvidia-gtc-2021-conference/amp/",
+      "publishedDateTime": "2021-09-29T19:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5Mac",
+        "domain": "9to5mac.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -399,7 +476,7 @@
       "originalUrl": "https://www.techspot.com/news/91485-amd-wants-make-chips-30-times-more-energy.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -534,49 +611,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-soft-robotics-moves-into-ai.md",
-      "title": "Soft Robotics Moves into AI",
-      "excerpt": "Exclusive - Technologies from Soft Robotics are on display across the show floor on robotic systems at BCA (Booth SU-7155/7156), Fanuc (Booth C-1441), Harpak-Ulma (Boot",
-      "sourceUrl": null,
-      "webUrl": "https://www.packworld.com/PACKEXPO/article/21735125/soft-robotics-moves-into-ai",
-      "originalUrl": "https://www.packworld.com/PACKEXPO/article/21735125/soft-robotics-moves-into-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.packworld.com/files/base/pmmi/all/image/2021/09/Soft_Robotics.614bb12ec3cc1.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 443,
-          "height": 613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-29T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Packaging World",
-        "domain": "packworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -745,7 +779,7 @@
       "originalUrl": "https://techcrunch.com/2021/09/29/google-is-redesigning-search-using-a-i-technologies-and-new-features/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -835,58 +869,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-how-human-rights-by-design-can-save-us-from-ai-misuse.md",
-      "title": "How ‘human rights by design’ can save us from AI misuse",
-      "excerpt": "We need concrete protections from artificial intelligence undermining social justice. The 'Human Rights by Design' approach could help.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/how-human-rights-by-design-can-save-us-from-ai-misuse-syndication",
-      "originalUrl": "https://thenextweb.com/news/how-human-rights-by-design-can-save-us-from-ai-misuse-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2Fjustice-ai-hed.jpg&signature=d92b53ea08ecea5bd123ec48ac93dca6",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-29T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     },

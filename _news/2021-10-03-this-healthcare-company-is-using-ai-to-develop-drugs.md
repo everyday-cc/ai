@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp"
 type: article
 quality: 84
-heat: 114
+heat: 115
 published: true
 
 provider:

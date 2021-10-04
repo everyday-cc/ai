@@ -9,8 +9,8 @@ ampWebUrl: "https://9to5mac.com/2021/09/29/apples-senior-director-of-ai-and-ml-t
 cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/09/29/apples-senior-director-of-ai-and-ml-to-speak-at-nvidia-gtc-2021-conference/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: 9to5Mac
@@ -28,20 +28,29 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA CEO Jensen Huang to Unveil New AI Technologies, Products in GTC Keynote; Hundreds of Industry and AI Leaders to Speak at November Event"
-    excerpt: "NVIDIA today announced that it will host a global, virtual GTC from Nov. 8-11, featuring a news-filled keynote by NVIDIA founder and CEO Jensen Huang and talks from some of the world’s preeminent AI research and industry leaders."
-    publishedDateTime: 2021-09-29T13:11:00Z
-    webUrl: "https://nvidianews.nvidia.com/news/nvidia-ceo-jensen-huang-to-unveil-new-ai-technologies-products-in-gtc-keynote-hundreds-of-industry-and-ai-leaders-to-speak-at-november-event"
+  - title: "VMware Extends vSphere to Capabilities for Nvidia’s AI and GPUs"
+    excerpt: "VMware’s VMware vSphere 7 Update 3 release serves to further unlock access to Nvidia vGPUs and AI with self-service API options, while also offering a number of new capabilities for vSphere for applications running in or on virtual machines (VMs),"
+    publishedDateTime: 2021-09-29T17:26:00Z
+    webUrl: "https://thenewstack.io/vmware-extends-vsphere-to-capabilities-for-nvidias-ai-and-gpus/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 101
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 54
     images:
-      - url: "https://s3.amazonaws.com/cms.ipressroom.com/219/files/20218/615463e6ed6ae576b5d4ba51_5d7e4fb4-fbba-4bf7-9c3d-584318e0762e/5d7e4fb4-fbba-4bf7-9c3d-584318e0762e_mid.jpg"
-        width: 700
-        height: 393
+      - url: "https://cdn.thenewstack.io/media/2021/09/4e14c3dc-img_1550-1.jpg"
+        width: 640
+        height: 480
         isCached: true
+  - title: "NVTC partners with NVIDIA Deep Learning Institute to provide online AI courses"
+    excerpt: "The Nasser Artificial Intelligence Research and Development Centre at the Nasser Vocational Training Centre (NVTC) and the NVIDIA Deep Learning Institute have started a collaboration, whereby students in Kingdom of Bahrain benefit from NVIDIA’s online courses in various areas of artificial intelligence (AI)."
+    publishedDateTime: 2021-10-02T15:33:00Z
+    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDolzhnNAYUkFttrHOExbOxo%3d"
+    type: article
+    provider:
+      name: bna.bh
+      domain: www.bna.bh
+    quality: 30
   - title: "NVIDIA CEO Jensen Huang to Unveil New AI Technologies, Products in GTC Keynote Hundreds of Industry and AI Leaders to Speak at November Event"
     excerpt: "NVIDIA today announced that it will host a global, virtual GTC from Nov. 8-11, featuring a news-filled keynote by NVIDIA - Report on The Eastern Herald"
     publishedDateTime: 2021-09-30T04:30:00Z

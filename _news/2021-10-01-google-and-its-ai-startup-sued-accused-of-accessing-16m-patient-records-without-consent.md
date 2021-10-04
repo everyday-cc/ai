@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google sued over DeepMind's access to 1.6 mn UK patients' records"
+    excerpt: "UK-based law firm Mishcon de Reya has filed a class-action lawsuit against Google and DeepMind over their access to confidential medical records of approximately 1.6 million UK patients without their knowledge or consent."
+    publishedDateTime: 2021-10-02T12:00:00Z
+    webUrl: "https://inshorts.com/en/news/google-sued-over-deepminds-access-to-16-mn-uk-patients-records-1633176049372"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/google-sued-over-deepminds-access-to-16-mn-uk-patients-records-1633176049372"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/google-sued-over-deepminds-access-to-16-mn-uk-patients-records-1633176049372"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 59
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/10_oct/2_sat/img_1633173792952_877.jpg?"
+        width: 960
+        height: 640
+        isCached: true
   - title: "Google, AI Unit Hit With Privacy Suit Over Patient Records"
     excerpt: "Approximately 1.6 million consumers have sued Google and its AI technology arm DeepMind in a group action alleging that the companies obtained confidential medical records in violation of U.K. data protection laws."
     publishedDateTime: 2021-09-30T18:10:00Z

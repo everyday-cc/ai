@@ -19,20 +19,54 @@ topics:
   - AI
 
 related:
-  - title: "GrayMatter Robotics Raises $4.1M Seed Round"
-    excerpt: "GrayMatter Robotics, creator of smart robotic assistants that help humans more safely and effectively do surface treatment tasks such as sanding and spraying"
-    publishedDateTime: 2021-09-29T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/graymatter-robotics-raises-4-1m-seed-round/article_a8e198ac-36c0-5cea-b558-988632b8412f.html"
+  - title: "BUET grad’s AI startup raises $4.1 million"
+    excerpt: "AI startup Gray Matter Robotics, headed by BUET graduate Ariyan Kabir, has raised $4.1 million in seed round funding. Stage Venture Partners and Calibrate Ventures led the round, along with 3M Ventures,"
+    publishedDateTime: 2021-09-30T19:11:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/buet-grads-ai-startup-raises-41-million-2187806"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/buet-grads-ai-startup-raises-41-million-2187806?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/buet-grads-ai-startup-raises-41-million-2187806?amp"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 69
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 59
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://img.thedailystar.net/sites/default/files/styles/social_share/public/images/2021/09/30/maxresdefault_9.jpg?itok=imnCCvTE"
+        width: 750
+        height: 393
         isCached: true
+  - title: "Thankful Raises $12 Million for Customer Service AI"
+    excerpt: "Venice-based Thankful AI Inc. raised $12 million in Series A funding for its customer service artificial intelligence platform. Thankful plans to use the funding to further develop its AI to include features such as greater personalization and the ability to upsell in customer service situations."
+    publishedDateTime: 2021-10-04T07:06:00Z
+    webUrl: "https://labusinessjournal.com/news/2021/oct/04/thankful-customer-service-software-12-million/"
+    type: article
+    provider:
+      name: Los Angeles Business Journal
+      domain: labusinessjournal.com
+    quality: 37
+    images:
+      - url: "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/10/01/PG16_TECH_THANKFUL_1004_-_Ted_Mico_t670.png?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Radiologist's Cary startup raises $1 million to harness power of artificial intelligence"
+    excerpt: "A Cary-based artificial intelligence startup cofounded by a radiologist has closed its first million-dollar round. CoRead AI Inc. closed on more than $1 million in equity financing on Sept. 10 from three investors."
+    publishedDateTime: 2021-09-29T17:32:00Z
+    webUrl: "https://www.bizjournals.com/triangle/inno/stories/fundings/2021/09/29/coread-ai-mri-ct-scan-startup-raises-capital.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 23
+  - title: "Amazon-backed microphone startup Vesper raises $18 million"
+    excerpt: "Vesper, a Boston-based smart microphone which Amazon has repeatedly invested in, has raised another $18 million."
+    publishedDateTime: 2021-09-29T16:00:00Z
+    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2021/09/29/vesper-microphones-funding.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "2hUEYaZ5wMcFE0YfnhgTaiocE+t1DIAH7yL080umzszoiMYTbUC1l7jfjHnp2aKQxlLzsdY6FV4ch7v7xce2k5RnUcFjeXXra2gLY0V42/hlnOjcLhIKBPkiJ7QWGY4rp9tFX5OjwKc5ar/1FGNGrc1n/Sgh5o+5i+i2/qQYGTSLOEQOn2hsaxVvA6ZypKp1rAO2W6EOAQCbjUYh2AQGvkB9i69aOsHnQXWvjD2RzU6Yz5MxlR8uvQ/a2GZuuuz40g4lsbW321rkrxJHRX/KKqARVuEW0eZsRTNxPymLriohj8009pLGycCuoDA04g9E9b+miOKp8xv12jgYWAAflnPeXz95rZqDzsMD+bIdf6U=;gl4sheDOYA9zAIGpsg71GQ=="
 ---

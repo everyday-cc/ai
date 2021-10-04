@@ -54,6 +54,50 @@
       ]
     },
     {
+      "path": "_news/2021-10-04-the-quest-to-fuse-ai-and-robotics.md",
+      "title": "The Quest To Fuse AI And Robotics",
+      "excerpt": "DeepMind and other robotics researchers are using a simulation-based technique - sim-to-real - to find a way around the data problem.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/the-quest-to-fuse-ai-and-robotics/",
+      "originalUrl": "https://analyticsindiamag.com/the-quest-to-fuse-ai-and-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/10/Brown-and-Green-DIY-Collage-Interior-Design-Moodboard-Photo-Collage-Blog-Banner-1.jpg",
+          "width": 2240,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-03T21:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-04-alphafold-is-the-most-important-achievement-in-aiever.md",
       "title": "AlphaFold Is The Most Important Achievement In AI—Ever",
       "excerpt": "DeepMind's AlphaFold represents the first time a significant scientific problem has been solved by ... [+] AI. It can be difficult to distinguish between substance and hype in the field of artificial intelligence.",
@@ -62,7 +106,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -210,7 +254,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/03/amazons-astro-robot-a-feat-of-science-or-a-successful-product/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -305,7 +349,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/03/what-we-can-learn-from-chinas-proposed-ai-regulations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -356,7 +400,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 115,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -563,6 +607,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-02-google-sued-over-deepminds-access-to-16-mn-uk-patients-records.md",
+      "title": "Google sued over DeepMind's access to 1.6 mn UK patients' records",
+      "excerpt": "UK-based law firm Mishcon de Reya has filed a class-action lawsuit against Google and DeepMind over their access to confidential medical records of approximately 1.6 million UK patients without their knowledge or consent.",
+      "sourceUrl": null,
+      "webUrl": "https://inshorts.com/en/news/google-sued-over-deepminds-access-to-16-mn-uk-patients-records-1633176049372",
+      "originalUrl": "https://inshorts.com/en/news/google-sued-over-deepminds-access-to-16-mn-uk-patients-records-1633176049372",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/10_oct/2_sat/img_1633173792952_877.jpg?",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/google-sued-over-deepminds-access-to-16-mn-uk-patients-records-1633176049372",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/google-sued-over-deepminds-access-to-16-mn-uk-patients-records-1633176049372",
+      "publishedDateTime": "2021-10-02T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inshorts",
+        "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-02-amazon-home-security-robots-inside-drones-outside-cameras-all-around.md",
       "title": "Amazon & home security: Robots inside, drones outside, cameras all around",
       "excerpt": "Amazon's vision for the future of home security includes drones flying over your roof, outdoor cameras that monitor for possible trespassers and cute robots patrolling indoors. Here's a look",
@@ -604,91 +691,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-kai-fu-lee-the-future-of-artificial-intelligence.md",
-      "title": "Kai-Fu Lee — The Future of Artificial Intelligence",
-      "excerpt": "The extraordinary opportunities—and challenges—presented by artificial intelligence are at the heart of Kai-Fu Lee's new book, AI 2041: Ten Visions for Our Future, a \"scientific fiction\" that sketches 10 possible AI-driven futures that are within the realm of the scientifically possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hks.harvard.edu/events/kai-fu-lee-future-artificial-intelligence",
-      "originalUrl": "https://www.hks.harvard.edu/events/kai-fu-lee-future-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hks.harvard.edu/sites/default/files/about_us/Twitter-Card.png",
-          "width": 840,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-01T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Medical School",
-        "domain": "harvard.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-gms-cruise-waymo-get-permits-for-self-driving-rides-in-san-francisco.md",
-      "title": "GM’s Cruise, Waymo get permits for self driving rides in San Francisco",
-      "excerpt": "GM's Cruise and Alphabet's Waymo are the first companies to get permits to give rides in its autonomous vehicles to passengers.",
-      "sourceUrl": null,
-      "webUrl": "https://techstory.in/gms-cruise-waymo-get-permits-for-self-driving-rides-in-san-francisco/",
-      "originalUrl": "https://techstory.in/gms-cruise-waymo-get-permits-for-self-driving-rides-in-san-francisco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techstory.in/wp-content/uploads/2021/10/im-409850.jpg",
-          "width": 700,
-          "height": 458,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-01T19:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tech",
-        "domain": "techstory.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -743,7 +745,7 @@
       "originalUrl": "https://www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 72,
       "tags": null,
       "images": [
         {

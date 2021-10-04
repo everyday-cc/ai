@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/29/google-is-redesigning-search-using
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/29/google-is-redesigning-search-using-a-i-technologies-and-new-features/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Chisel AI’s Submission Intake and Policy Checking Technologies Implemented by Zurich North America’s Construction Business"
-    excerpt: "Chisel AI, a technology provider for the global insurance industry, today announced that global insurance carrier, Zurich North America has implemented its Submission Intake and Policy Check solutions to automate core Construction underwriting and placement processes,"
-    publishedDateTime: 2021-09-29T13:32:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-north-america-insurance-industry-3dd4cc57890e46dca95fc7cc3e193da2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 11
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

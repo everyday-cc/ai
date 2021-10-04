@@ -9,8 +9,8 @@ ampWebUrl: "https://newatlas.com/computers/deepmind-ai-predicts-incoming-rainfal
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/deepmind-ai-predicts-incoming-rainfall-high-accuracy/?amp=true"
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 214
+published: true
 
 provider:
   name: New Atlas
@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind claims its AI weather forecasting model beats conventional models"
-    excerpt: "Alphabet's DeepMind claims that its short-term, AI-powered weather forecasting model is more accurate than competing methods."
-    publishedDateTime: 2021-09-29T15:00:00Z
-    webUrl: "https://venturebeat.com/2021/09/29/deepmind-claims-its-ai-weather-forecasting-model-beats-conventional-models/"
-    ampWebUrl: "https://venturebeat.com/2021/09/29/deepmind-claims-its-ai-weather-forecasting-model-beats-conventional-models/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/deepmind-claims-its-ai-weather-forecasting-model-beats-conventional-models/amp/"
+  - title: "Google's DeepMind AI Has Just Reduced Conventional Weather Forecasting To Dust"
+    excerpt: "Although it may seem easy, weather forecasting is one of the hardest challenges faced by science. Over the last few decades, meteorologists around the world have tried to come up with the most accurate forecasting models."
+    publishedDateTime: 2021-10-04T07:03:00Z
+    webUrl: "https://in.mashable.com/science/25102/googles-deepmind-ai-has-just-reduced-conventional-weather-forecasting-to-dust"
+    ampWebUrl: "https://in.mashable.com/science/25102/googles-deepmind-ai-has-just-reduced-conventional-weather-forecasting-to-dust?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/science/25102/googles-deepmind-ai-has-just-reduced-conventional-weather-forecasting-to-dust?amp=1"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: Mashable
+      domain: mashable.com
+    quality: 100
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-520682906-e1619014289419.jpg?fit=800%2C600&strip=all"
-        width: 800
-        height: 400
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/shutterstock-246146029_gt84.620.jpg"
+        width: 620
+        height: 349
+        isCached: true
+  - title: "UK class action-style suit filed over DeepMind NHS health data scandal"
+    excerpt: "A UK law firm is bringing a class-action style claim over a patient health data scandal that dates back to 2015 and involves the Google-owned AI company DeepMind, after it was quietly passed medical information on over a million patients by an NHS Trust as part of an app development project."
+    publishedDateTime: 2021-09-30T15:04:00Z
+    webUrl: "https://techcrunch.com/2021/09/30/uk-class-action-style-suit-filed-over-deepmind-nhs-health-data-scandal/"
+    ampWebUrl: "https://techcrunch.com/2021/09/30/uk-class-action-style-suit-filed-over-deepmind-nhs-health-data-scandal/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/30/uk-class-action-style-suit-filed-over-deepmind-nhs-health-data-scandal/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2016/05/p1040482.jpg?w=1024"
+        width: 1024
+        height: 768
         isCached: true
   - title: "DeepMind AI can accurately predict if it will rain in next 90 minutes"
     excerpt: "AI software developed by DeepMind and the Met Office in the UK can predict whether it will rain within 90 minutes more accurately than current forecasting models"
@@ -79,21 +95,21 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "DeepMind’s AI predicts almost exactly when and where it’s going to rain"
-    excerpt: "The firm worked with UK weather forecasters to create a model that was better at making short term predictions than existing systems."
-    publishedDateTime: 2021-09-29T15:00:00Z
-    webUrl: "https://www.technologyreview.com/2021/09/29/1036331/deepminds-ai-predicts-almost-exactly-when-and-where-its-going-to-rain/"
-    ampWebUrl: "https://www.technologyreview.com/2021/09/29/1036331/deepminds-ai-predicts-almost-exactly-when-and-where-its-going-to-rain/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/09/29/1036331/deepminds-ai-predicts-almost-exactly-when-and-where-its-going-to-rain/amp/"
+  - title: "Using deep generative radar models to predict rainfall over following 90 minutes"
+    excerpt: "A team of researchers at Google's DeepMind, working with a group at the U.K.s Met Office, has applied their knowledge of deep learning methods to the science of \"nowcasting\"—predicting whether it will rain in a given place in the following two hours."
+    publishedDateTime: 2021-09-30T15:00:00Z
+    webUrl: "https://techxplore.com/news/2021-09-deep-radar-rainfall-minutes.html"
+    ampWebUrl: "https://techxplore.com/news/2021-09-deep-radar-rainfall-minutes.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-deep-radar-rainfall-minutes.amp"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 74
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 56
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/09/gettyimages-462881839.jpg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/severeweather.jpg"
+        width: 1920
+        height: 1120
         isCached: true
   - title: "Engineers At Google’s DeepMind Have Come Up With A New Way To ‘Nowcast’ Weather"
     excerpt: "Advertisement Besides making weekly or monthly forecasts, weather models are also used to make hourly predictions that are called nowcasting. This is done by a Google-backed artificial intelligence company DeepMind that is making progress in predicting hourly precipitation."
@@ -125,20 +141,57 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "DeepMind’s latest trick? Predicting the weather"
-    excerpt: "After mastering Go and StarCraft, DeepMind is taking its AI into another challenging arena: predicting the weather. The Alphabet-owned company has been quietly working with the Met Office over the past few years,"
-    publishedDateTime: 2021-09-29T15:01:00Z
-    webUrl: "https://www.wired.co.uk/article/deepmind-weather-nowcasting"
+  - title: "Google, DeepMind at Odds with Britain’s National Health"
+    excerpt: "Google and sister firm DeepMind are facing legal action for the way in which they obtained and processed over a million patient health records without consent in the U.K. British law firm Mishcon de Reya has filed a claim"
+    publishedDateTime: 2021-10-01T14:09:00Z
+    webUrl: "https://www.baystreet.ca/techinsider/3184/Google-DeepMind-at-Odds-with-Britains-National-Health"
     type: article
     provider:
-      name: Wired UK
-      domain: wired.co.uk
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 54
+    images:
+      - url: "http://www.baystreet.ca/images/articlegroups/original/17/private/google-headquarters-sign.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
+  - title: "Artificial intelligence can predict rain with unprecedented accuracy"
+    excerpt: "DeepMind has created an artificial intelligence capable of forecasting the weather with impressive accuracy. The company specializes in building AIs focused on problem solving, but has now decided to embrace meteorology as an important field of action."
+    publishedDateTime: 2021-10-03T22:10:00Z
+    webUrl: "https://www.clarepeople.com/5930-artificial-intelligence-can-predict-rain-with-unprecedented-accuracy/"
+    type: article
+    provider:
+      name: The Clare People
+      domain: clarepeople.com
+    quality: 54
+    images:
+      - url: "https://www.clarepeople.com/wp-content/uploads/2021/10/5930-artificial-intelligence-can-predict-rain-with-unprecedented-accuracy-780x470.jpeg"
+        width: 780
+        height: 470
+        isCached: true
+  - title: "Google’s DeepMind faces suit over access to NHS patient records"
+    excerpt: "London-based firm Mishcon de Reya said it filed a claim in the U.K.’s High Court, alleging that Google’s access of 1.6 million people’s medical records broke privacy rules. NHS’ Royal Free London had struck an agreement with DeepMind in 2015 to build a system for alerting clinicians."
+    publishedDateTime: 2021-09-30T21:15:00Z
+    webUrl: "https://medcitynews.com/2021/09/googles-deepmind-faces-suit-over-access-to-nhs-patient-records/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
     quality: 39
     images:
-      - url: "https://media.wired.co.uk/photos/61547e3f2b18401229a84ac6/16:9/w_1280,c_limit/GettyImages-1228861457.jpg"
-        width: 1280
-        height: 720
+      - url: "https://medcitynews.com/uploads/2017/11/GettyImages-483265099-300x229.jpg"
+        width: 300
+        height: 229
         isCached: true
+  - title: "Google, DeepMind face UK lawsuit over NHS data access"
+    excerpt: "Google and British AI technology subsidiary DeepMind are facing a new claim over NHS data use. The representative action is being brought by law firm Mishcon de Reya on behalf of Andew Prismall and around 1."
+    publishedDateTime: 2021-10-03T14:50:00Z
+    webUrl: "https://www.telecompaper.com/news/google-deepmind-face-uk-lawsuit-over-nhs-data-access--1399186"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "oAMhsT8evFdNUHFmG9RuAvXdvfX0kNvqWSBdsOVcmIR6XqymBgTaL1lveNMkuLC3iMPrBRswuwrUYKlaAJ3MTZhqYHx7bpAcWFD38PJA+1hknuNn8jQ+diU6x+hC1b9aX4pmW+82kgI9P/ZvuaiG8GNWnVYHUmqcHiMySmR620HFMmykCXgPcHTVUnEiuctA6HKA79OZ8ifErTOLCNaaQju/hmkM2IqNuvO9y8BCKvlcsihOKasUdN4S01alIm6jRRHydseFDfmLM7jo9wcbBpYc4bQ/1HWGteHgll6Nf5Z1KfvMBIps+OkS1Lf7YWdLid1tB8m0BWMOHsxMKbPpEvKl+XdrVCPS8TCiBLBE7ZUGayUg9sNNwT/kWQjUSWLg/uWTRsx6Uep+gR/DewIm0dJrr4pGXoEqzz7wp8/AWBKvmO5fD8m7Va+hjqrr7Hr150WqMYib352ocKw39HcweOx6/HPF9Z2p02t6LfE9Idw+HqWX7zv1uHIIiLjoQgrzSDNM7G8nwT3C5ySNYZa+Nw==;W26/Thau2FsZTPRZHZct+w=="
 ---

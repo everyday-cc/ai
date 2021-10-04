@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/03/amazons-astro-robot-a-feat-of-sci
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/03/amazons-astro-robot-a-feat-of-science-or-a-successful-product/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "The robot home invasion is official, as Amazon unveils Astro"
-    excerpt: "Astro is the first Amazon robot for homes that is designed to help customers with a range of tasks like home monitoring and keeping in touch with family."
-    publishedDateTime: 2021-09-29T13:07:00Z
-    webUrl: "https://techhq.com/2021/09/the-robot-home-invasion-is-official-as-amazon-unveils-astro/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 39
-    images:
-      - url: "https://cdn2.techhq.com/wp-content/uploads/2021/09/063_1343644718-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
 
 secured: "kLQ8H3bvuHoM2ahPRXB80aGSvL116YNLuq8Vm0JmJAMKD6yz734Foe1+JkBtC8gxYJg04km8613ZNWp0aLFONq2OvdtGMAS5V30FYxd2H23M+yJCUv5nphb3L6unvKEt+Nn6ApuwndbEa8o7pZjJS3gotWbOpqRNhN4iXT2zfLeOhMstJ0fdvqp2i4d+Dd0YiWP5Ucn1iaPnMwzlwDxTDE2sF/Y9nDqYinkpNgh7cR7aDzAFxlJUBut8ZboUOKnEn3z3YEpjzWZsxSVakkxx/heqbmhPVMtf47OAte3RB1rMMbw0UIzvvxaaV++MU4erqjz4piGTg2xrm0FNH/Vxr55ZF7pZzsz0UrbgcOWsAKrXs5bNVtHGfWS1xDQB72qyKNrk3BIFwToW+hQZ0EhZufMgKkU7tp0uycHAt3C/d8R9jWa2quG03nRahGeZ4a7PZjbdAWFXmG5l5mUtA40sZUJQaslZSBIKd8GRhbwN5RecUqa6V4P4VWcd5FbnB9BeFYseuZvAWHSUk3YS0hr97g==;Asok9LvRI0saNHVw4p1baA=="
 ---

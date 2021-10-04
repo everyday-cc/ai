@@ -43,20 +43,6 @@ related:
         width: 3840
         height: 2160
         isCached: true
-  - title: "AMD Targets HPC-AI for 30x CPU-GPU Energy Efficiency Boost by 2025"
-    excerpt: "AMD (NASDAQ: AMD) today announced a goal to deliver a 30x increase in energy efficiency for AMD EPYC CPUs and AMD Instinct GPU accelerators used in artificial intelligence (AI) training and high performance computing (HPC) applications by 2025."
-    publishedDateTime: 2021-09-29T14:31:00Z
-    webUrl: "https://insidehpc.com/2021/09/amd-targets-hpc-ai-for-30x-cpu-gpu-energy-efficiency-boost-by-2025/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 56
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/09/AMD_E_Blk_RGB.jpg"
-        width: 1015
-        height: 391
-        isCached: true
   - title: "AMD Wants to Improve AI, HPC Efficiency 30x by 2025"
     excerpt: "AMD has announced a major new efficiency initiative that’s intended to build off its previous 25×20 project. The company will now work to deliver a 30x improvement in energy efficiency in AI and high performance computing overall,"
     publishedDateTime: 2021-09-30T11:30:00Z

@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "U.S., EU launch consultations on tech regulations, chips, China trade"
-    excerpt: "U.S. and European Union trade and competition officials launched a new forum on Wednesday joining forces to better compete with China, shield sensitive technologies, boost semiconductor supplies and coordinate regulation of large technology firms."
-    publishedDateTime: 2021-09-29T14:24:00Z
-    webUrl: "https://news.trust.org/item/20210929162405-vt5nk"
-    type: article
-    provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 19
 
 secured: "gQLjK+R1kCRJoRoM9vJwWrkWbOqCZflpSkZHRln2+wPGofZ+EW6cmLZGvDH2V7fkSMKm+kJp7057P/TpGZNDHf4ZdElGC41uJ8eVZPukMCzQ8BogDa93RDJBKWFQhuxoj8gcUPbhwuw6J5lB3YqJER6REaVzReg0GMspaJ5CocOaLiLCIA4zI9U3w6MKZfNV4agpRG8tN50O5OyV5Lypojdm5u9Wywkz6QjYgEfjlnqTNqoau+LvVEqqCpYaL2pOUm9POqqe/x3BMsRWdE6JfJu2LL8JO6/pb7EqnQY0TNW1h7PLl1aInHEneKaa3F4/y9Mp0u4aamlR1hULIgKKZnPSHIgkeHCjCgTRWLYNP4Q=;beeIHHueAisr9itfEBSbPA=="
 ---

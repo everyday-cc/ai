@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thedailystar.net/tech-startup/news/buet-grads-ai-startup
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/buet-grads-ai-startup-raises-41-million-2187806?amp"
 type: article
 quality: 59
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,29 @@ images:
     isCached: true
 
 related:
+  - title: "GrayMatter Robotics Raises $4.1M Seed Round"
+    excerpt: "Company will use the funds from Stage Venture Partners, Calibrate Ventures, and others to expand rollouts of its robots used for sanding and finishing parts on manufacturing lines"
+    publishedDateTime: 2021-09-30T13:45:00Z
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=17550"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 49
+  - title: "Thankful Raises $12 Million for Customer Service AI"
+    excerpt: "Venice-based Thankful AI Inc. raised $12 million in Series A funding for its customer service artificial intelligence platform. Thankful plans to use the funding to further develop its AI to include features such as greater personalization and the ability to upsell in customer service situations."
+    publishedDateTime: 2021-10-04T07:06:00Z
+    webUrl: "https://labusinessjournal.com/news/2021/oct/04/thankful-customer-service-software-12-million/"
+    type: article
+    provider:
+      name: Los Angeles Business Journal
+      domain: labusinessjournal.com
+    quality: 37
+    images:
+      - url: "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/10/01/PG16_TECH_THANKFUL_1004_-_Ted_Mico_t670.png?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Radiologist's Cary startup raises $1 million to harness power of artificial intelligence"
     excerpt: "A Cary-based artificial intelligence startup cofounded by a radiologist has closed its first million-dollar round. CoRead AI Inc. closed on more than $1 million in equity financing on Sept. 10 from three investors."
     publishedDateTime: 2021-09-29T17:32:00Z

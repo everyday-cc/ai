@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/03/what-we-can-learn-from-chinas-pro
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/03/what-we-can-learn-from-chinas-proposed-ai-regulations/amp/"
 type: article
 quality: 87
-heat: 112
+heat: 103
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "U.S., EU launch consultations on tech regulations, chips, China trade"
-    excerpt: "U.S. and European Union trade and competition officials launched a new forum on Wednesday joining forces to better compete with China, shield sensitive technologies, boost semiconductor supplies and coordinate regulation of large technology firms."
-    publishedDateTime: 2021-09-29T14:24:00Z
-    webUrl: "https://news.trust.org/item/20210929162405-vt5nk"
-    type: article
-    provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 19
 
 secured: "+AV0bMKpAjchkw1K95yTb6hzcRwKZEc0pCm2U1osUPHinQy9TbA+0A7fh2OPH+6zvuntINPteZROoZeAvtKqqbdz4ZmpTCXBfj6h5BSlJct5wFJ3++ikmLpmhrJR3LpwfxvteTW+vnEPwJKalIp01Y12IHCgZ2wUDijhL2m3sHynRS/BsfTEic4ok9lDQ1YwjjRs7lrDOQErWrRKOI8xk/oOdoDGsOe0BtT5oOu5PXURy4vLVsFiYeV9d8NwkucmxnAjIZ/JjiP5GPpyxsLeJL01N0fZWPBKYQKZ9IKx2MNTroND8cFAk/DR9DlTWfdDCP40NrPVpKKlFVDKQ23EyMTgtki+wyMT4ai6RYR06ehMiC+01ZywtEJzMrszp6WeC2le1weW3Ly4nOwCUYkSVgGb10x9dGjITn9dcoq6UYlD+9rO7gQ1HrhcfjWtUINE09nTsHJ1qDG8k0gGk/WuFP8aqYgvhGkMWt40p9tShctPe7SR40skJgydjOpRORvMYL6fQgS+oyZDSoHAOJ9Bkw==;Cn+PXzhQJuTlXFmL7aosJA=="
 ---

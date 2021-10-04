@@ -34,6 +34,29 @@ related:
         width: 750
         height: 393
         isCached: true
+  - title: "GrayMatter Robotics Raises $4.1M Seed Round"
+    excerpt: "Company will use the funds from Stage Venture Partners, Calibrate Ventures, and others to expand rollouts of its robots used for sanding and finishing parts on manufacturing lines"
+    publishedDateTime: 2021-09-30T13:45:00Z
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=17550"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 49
+  - title: "Thankful Raises $12 Million for Customer Service AI"
+    excerpt: "Venice-based Thankful AI Inc. raised $12 million in Series A funding for its customer service artificial intelligence platform. Thankful plans to use the funding to further develop its AI to include features such as greater personalization and the ability to upsell in customer service situations."
+    publishedDateTime: 2021-10-04T07:06:00Z
+    webUrl: "https://labusinessjournal.com/news/2021/oct/04/thankful-customer-service-software-12-million/"
+    type: article
+    provider:
+      name: Los Angeles Business Journal
+      domain: labusinessjournal.com
+    quality: 37
+    images:
+      - url: "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/10/01/PG16_TECH_THANKFUL_1004_-_Ted_Mico_t670.png?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Amazon-backed microphone startup Vesper raises $18 million"
     excerpt: "Vesper, a Boston-based smart microphone which Amazon has repeatedly invested in, has raised another $18 million."
     publishedDateTime: 2021-09-29T16:00:00Z

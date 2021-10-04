@@ -99,17 +99,6 @@ related:
         width: 920
         height: 482
         isCached: true
-  - title: "AI in Fintech Market Report 2020 Market Size by Key Players, Types, Applications, Countries, Forecast by 2027"
-    excerpt: "AI in fintech market is expected to reach USD 9125 4 million by 2027 witnessing market growth at a rate of 65 7 in the forecast period of 2020 to 2027 The market has witness significant growth in the years"
-    publishedDateTime: 2021-09-29T14:35:00Z
-    webUrl: "https://www.openpr.com/news/2411934/ai-in-fintech-market-report-2020-market-size-by-key-players"
-    ampWebUrl: "https://www.openpr.com/amp/2411934/ai-in-fintech-market-report-2020-market-size-by-key-players"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2411934/ai-in-fintech-market-report-2020-market-size-by-key-players"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 20
 
 secured: "O24ZIgIHf8ZEP2pjGdppB80+tYyyU2752w07EK5+KGw9KA+o+ydunBKwFsa/U6GQ/X6JeHN5Pbnnx/2MHbQR7NDohS5pN9C+5iKrUhXzQS2kgFxttoyW8jwJiTLTXThDJqpgIYGnzJUI6Kh6K2+FjBRgDohEjaT/CVu0uC7Y9xigHJ0mlhD8SaGevm7lSsm1xvvA6RXYsSIsoXBbgERKDajW31i5JUUT8+S3JZFAEPTSKO7UCLZJlKEWguV3CuM88DgqHv4ARS1ODrQ6K6K5Eb+kpRn9VT0cOivkV207lkGe0p+wx23T5TuxTBaR9A2/wdTo7HFoNZxHVoy6OtQQc/mBU2alrJaUJRnwTnp6s5M=;XKTrSCFmPxDX4X/6+hDk5w=="
 ---

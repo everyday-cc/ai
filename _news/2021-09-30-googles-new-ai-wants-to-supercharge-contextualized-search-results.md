@@ -58,20 +58,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Chisel AI’s Submission Intake and Policy Checking Technologies Implemented by Zurich North America’s Construction Business"
-    excerpt: "Chisel AI, a technology provider for the global insurance industry, today announced that global insurance carrier, Zurich North America has implemented its Submission Intake and Policy Check solutions to automate core Construction underwriting and placement processes,"
-    publishedDateTime: 2021-09-29T13:32:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-north-america-insurance-industry-3dd4cc57890e46dca95fc7cc3e193da2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 11
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "6cCtP3DNLL3FIHT6utWgnHMtOFcQXR6eyEuzg8RXAR+SfzPDB3iNpg6S9shMMx4UmZgvnBXE6tf04DEiRsI1K/WqIS5UvTc7smlUmAKTvQorcUXLxyeYdGZ9G9p0nQp4RZozzLd+4JlIjZMGmR8qdn++hOapCy6CtWJ9TwQLp5f53TYOcoWXWMajwRfV71Txn745g9rTp9353ht87RbXIY/VCIeQsAnxuzAxY0tUAAaIk86jy1KCJUsJJesE+KEbzHOYUGwvqSZvDKlCR6fc9ZeB/p+OPO9ueBQzDKHzDzcFppPeUyBrXAwak6GXhoFMGWJ2dcMDhgorNRpb8kPxdznWkiLW8/NCKr3lpuX2k7qEPhN82NW0zrZGLaDqcmXntpwgPoYc7Tauti1l/pjiE2hcoI25R8Fl0/drPmVtAPo6QnHSQ2gWXWbsb3usQFqO+dfwSONNGMt5mR26cwuHLLzxxGW4fezSrAuAcEhwzvj96tF6XHzz1P/iVv5e9Epa9cqlICxG7hF4SCogVzVSrA==;5AH20TJQOakQ2AItZMZ84g=="
 ---

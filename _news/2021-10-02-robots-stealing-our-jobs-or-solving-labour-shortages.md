@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2021/oct/02/robots-stealing-j
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/oct/02/robots-stealing-jobs-labour-shortages-artificial-intelligence-covid"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "Are robots stealing our jobs or solving labour shortages?"
+    excerpt: "As the coronavirus pandemic enveloped the world, businesses increasingly turned to automation in order to address rapidly changing conditions."
+    publishedDateTime: 2021-10-04T06:26:00Z
+    webUrl: "https://bmmagazine.co.uk/in-business/are-robots-stealing-our-jobs-or-solving-labour-shortages/"
+    ampWebUrl: "https://bmmagazine.co.uk/in-business/are-robots-stealing-our-jobs-or-solving-labour-shortages/?amp"
+    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/in-business/are-robots-stealing-our-jobs-or-solving-labour-shortages/?amp"
+    type: article
+    provider:
+      name: Business Matters
+      domain: bmmagazine.co.uk
+    quality: 59
+    images:
+      - url: "https://bmmagazine.co.uk/wp-content/uploads/2021/10/shutterstock_1022667853-scaled.jpg"
+        width: 850
+        height: 567
+        isCached: true
 
 secured: "nsmRojKgR2VPavxxRsyHSooGU9WSL6Gn46uT/1AIVRiHYSsqLq/SbQR6pCClrvHVUXVhCMjAJhpMZ8S5ajNzEWYs7jvH39BVuNrwL67zKdXftIK909JAgcANSXZXZecjFpr3bz3Vkv8kZH/LzNR+RyK+xOwd41rKFdGswyy6Byh3aTswMBCFLWMCbeTHsvmwUVu1YUd1pU0njcsbFwn9gBLfO68Zp+kMT9+rsLqECCd8kFcF3scmsO0nNl3c04qRBGPR/kNpxVAMNmMUc+NcG5/yUECUPGgtXP69nY+8Ww6sV82LAM2DO9+gEM+AgU36QpDUiLTsufz+McXl2c5/62nPVoAtBncOKXMbe6b0jWmUlKQMaKy+Q/6ifNvmt2m0P4xe/SH4wrXMXM0YUDV8Tp0AlUVHeAoESZ6Bxfv2kxbi5mwKj/3sjLIM9fs5NJk2hRZ4eDq47I6nd579ZTYGYRO73mYmSA3dWyoyxFUnkIqqdIz0hQlYgC7mX6yhe+Tf4CIZndS48TkdytqL97JLOQ==;DwGCjvFq2LtWJJrnFF1wkA=="
 ---

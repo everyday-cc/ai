@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2021/09/30/ai-identifies-american-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/09/30/ai-identifies-american-airlines-group-inc-among-todays-top-shorts-to-close-september-trading/amp/"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 900
     height: 600
     isCached: true
+
+related:
+  - title: "Startup Funding: September 2021"
+    excerpt: "Magnetic material startup EnaChip raised $7.1M in venture funding. EnaChip specializes in design, process development, and contract manufacturing of micro-magnetic components and devices mainly on silicon substrates."
+    publishedDateTime: 2021-10-04T07:28:00Z
+    webUrl: "https://semiengineering.com/startup-funding-september-2021/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 2
 
 secured: "ea8wNrve8M7w0E9oG6f18k4LXznzB6C6ZGEaZaVIhIOVAR2khnRF8mUPZJAvEW4eAMUO0NTg2lBT8C7qVDD7+MBWQJjsToNu/Dy9vzwqjugPQ1ojM3jGuNN2/2ExIk6Xv9812qKCWpa79DGQipAIc/q09b8juvNG7NemaV3YLkizR2UK40cYC2/19OGb4CPBACW36CuauWc5c+eyl0/FfH1DosHo2LGYeDTgPACOYmzX84v4h18/5IYF9zXXkctpG/bJALzyX99cPj/Ly6wZka5zMTU+2tOn9CPU6TTGS2Q7NWfbCZ767buGI5emZ2SETWpcyNd1/6EHAY0ta75w8eH4B7EPu5VcliYbhWobQxRre6ti+KKM9LaN4jf5oZYesOMFcMMSDOKiryJ8DbtLVELavSCQkO0eZovn38drPHaCccrwtHfh/TZ1Pp0+HVmz1A2PXN8kihain4Vt0nB5aZrnX7RgYP3yKKpX9fd46x7zvYxn3TvDXObntQCdjcD9CSRr4esmLT0mXRccMVu4xw==;fLihJEwp7XpSzrX314Yzhw=="
 ---

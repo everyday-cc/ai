@@ -57,6 +57,17 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AWS, Intel, and NITI Aayog collaborated to accelerate digital innovation in India"
+    excerpt: "The studio is said to serve as an innovation hub for government, healthcare, education, and nonprofit start-ups from India to showcase their solutions"
+    publishedDateTime: 2021-10-01T04:59:00Z
+    webUrl: "https://www.ciol.com/aws-intel-niti-aayog-collaborated-accelerate-digital-innovation-india/"
+    ampWebUrl: "https://www.ciol.com/aws-intel-niti-aayog-collaborated-accelerate-digital-innovation-india/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/aws-intel-niti-aayog-collaborated-accelerate-digital-innovation-india/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 36
   - title: "NITI Aayog, AWS,and Intel Collaborate to Accelerate Digital Innovation in India"
     excerpt: "The National Institution for Transforming India (NITI Aayog), the Government of India’s national policy think tank, Amazon Web Services (AWS), and Intel have come together to establish a new experience studio at the NITI Aayog Frontier Technologies Cloud Innovation Center (CIC)."
     publishedDateTime: 2021-10-01T04:48:00Z
