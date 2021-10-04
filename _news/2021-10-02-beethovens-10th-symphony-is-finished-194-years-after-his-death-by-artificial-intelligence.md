@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/news/article-10051295/amp/Beethovens-10t
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10051295/amp/Beethovens-10th-symphony-finished-194-years-death-artificial-intelligence.html"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Music scholars and computer scientists completed Beethoven's Tenth Symphony aided by machine learning"
-    excerpt: "In 1817, the Royal Philharmonic Society in London commissioned Ludwig Von Beethoven to compose his Ninth and Tenth symphonies. He completed the Ninth Symphony, which concludes"
-    publishedDateTime: 2021-09-30T00:06:00Z
-    webUrl: "https://www.techspot.com/news/91493-music-scholars-computer-scientists-completed-beethoven-tenth-symphony.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/91493-music-scholars-computer-scientists-completed-beethoven-tenth-symphony.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91493-music-scholars-computer-scientists-completed-beethoven-tenth-symphony.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 89
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-29-image-48.jpg"
-        width: 2560
-        height: 1864
-        isCached: true
   - title: "Team uses AI to complete Beethoven's unfinished masterpiece"
     excerpt: "MARTIN: ...And the fantastical \"Moonlight Sonata.\" (SOUNDBITE OF LUDWIG VAN BEETHOVEN'S \"MOONLIGHT SONATA\") MARTIN: But for all the sonatas, concertos and symphonies Beethoven wrote, there remained one piece he never completed."
     publishedDateTime: 2021-10-03T03:06:00Z

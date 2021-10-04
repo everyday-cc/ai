@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Human Costs of AI"
-    excerpt: "In 2015 a cohort of well-known scientists and entrepreneurs including Stephen Hawking, Elon Musk, and Steve Wozniak issued a public letter urging"
-    publishedDateTime: 2021-09-30T02:23:00Z
-    webUrl: "https://www.nybooks.com/articles/2021/10/21/human-costs-artificial-intelligence/"
+  - title: "AI Pathways race autonomous vehicles at Boys and Girls Club of Western Pa."
+    excerpt: "Students from local high schools kicked off the start of October by partaking in a day-long event of programming and racing autonomous vehicles at the Boys and Girls Club of Western Pennsylvania in Carnegie."
+    publishedDateTime: 2021-10-04T16:45:00Z
+    webUrl: "https://www.wpxi.com/news/business/ai-pathways-race-autonomous-vehicles-boys-girls-club-western-pa/T4SDO5YBPJCTXJGTAJLQC6KRBE/"
+    ampWebUrl: "https://www.wpxi.com/news/business/ai-pathways-race-autonomous-vehicles-boys-girls-club-western-pa/T4SDO5YBPJCTXJGTAJLQC6KRBE/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/business/ai-pathways-race-autonomous-vehicles-boys-girls-club-western-pa/T4SDO5YBPJCTXJGTAJLQC6KRBE/?outputType=amp"
     type: article
     provider:
-      name: The New York Review of Books
-      domain: nybooks.com
-    quality: 41
+      name: WPXI
+      domain: wpxi.com
+    quality: 57
     images:
-      - url: "https://www.nybooks.com/wp-content/uploads/2021/09/halpern_1-102121crop.jpg"
-        width: 1790
-        height: 1194
+      - url: "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/zRrMkwHpM8IA-afhDi6XQ3hDsfc=/1440x960/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/BU5DJAVHN5AUJBZBUCUCSYBOIM.JPG"
+        width: 1440
+        height: 960
         isCached: true
   - title: "The Infamous Trolley Problem At Large-Scale Sideswipes AI Autonomous Cars"
     excerpt: "After a crash or collision, we ought to be able to do a full analysis of what decisions the AI driving system made during the incident."

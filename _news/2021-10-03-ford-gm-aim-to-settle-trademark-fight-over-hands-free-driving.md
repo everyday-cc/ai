@@ -24,6 +24,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "GM, Ford to Settle Suit Over Use of 'BlueCruise' Name for Hands-Free Driving"
+    excerpt: "General Motors Co and Ford Motor Co have agreed to settle a legal battle over the latter's use of the name \"BlueCruise\" to market its hands-free driving technology. In a notice filed in court late on Friday,"
+    publishedDateTime: 2021-10-04T16:31:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2021-10-04/gm-ford-to-settle-suit-over-use-of-bluecruise-name-for-hands-free-driving"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 31
+
 secured: "W8TmIeHCMfunSV1q1y9uGcOeMkhUk5pRROhgXQW0ICnNjg8Bi/quAe9WBBVsyVwD3I1nnO62tT54p7qewkBX7X9fgmsE0+5E2atsjQY/6Eqbsdev5bysMpCP5BBCBaMqH19HBCw33Po15bjLH+z2i8YcM1pffI4TEHeX+o0583Jkbb+CLoDBc/uOpOwHy3qHzZiplICCxOfkUhMOtpqQKIrYZPJDLaRlWQjM3TWp8ySc9IFHeglkGWzKXbj5C90JbOED3B0mmM+65FNVue/t5c0/I5xEeKBIBVdPdZFA/igFFnkqnM8GrKEugckryl/W9lRsV1bQqqWtSnwmxGQ+lD7csnkntCYJxnnIUgm1PQs=;gxXvOxb+WzSH1dX5doq0tA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/automotive/citroen-skate-autonomous-interchange
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/?amp=true"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

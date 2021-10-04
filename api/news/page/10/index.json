@@ -2,59 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2021-09-24-deep-learning-helps-predict-new-drug-combinations-to-fight-covid-19.md",
-      "title": "Deep learning helps predict new drug combinations to fight Covid-19",
-      "excerpt": "A neural network developed at MIT and elsewhere identifies synergistic drug blends for treating viruses like SARS-CoV-2. The work was carried out primarily within the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Broad Institute of MIT and Harvard.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/deep-learning-helps-predict-new-drug-combinations-fight-covid-19-0924",
-      "originalUrl": "https://news.mit.edu/2021/deep-learning-helps-predict-new-drug-combinations-fight-covid-19-0924",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202109/covid-virus_0.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-09-24-thoughts-on-ai-ethics-getting-concrete-and-useful.md",
       "title": "Thoughts on AI ethics getting concrete and useful",
       "excerpt": "A new paper offers a solid accounting of tools that makers and end users can employ to better ensure algorithms are ethically sourced, developed and deployed.",
@@ -1190,6 +1137,49 @@
         "AI Hardware",
         "Microsoft AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-aws-announces-general-availability-of-amazon-quicksight-q.md",
+      "title": "AWS Announces General Availability of Amazon QuickSight Q",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon QuickSight Q, a new capability in Amazon QuickSight that gives anyone in an organization the ability to ask business questions using natural language and receive accurate answers with relevant visualizations that help them gain insights from the data.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/nfl-business-technology-sports-amazoncom-inc-4503228a75bc449b9ac6fa96e29053f4",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/nfl-business-technology-sports-amazoncom-inc-4503228a75bc449b9ac6fa96e29053f4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-23T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     }
   ],

@@ -2,58 +2,6 @@
   "page": 27,
   "value": [
     {
-      "path": "_news/2021-09-13-nfl-and-aws-unveil-new-4th-down-metric-to-judge-whether-your-favorite-coach-made-the-right-call.md",
-      "title": "NFL and AWS unveil new 4th down metric to judge whether your favorite coach made the right call",
-      "excerpt": "The NFL noted that some coaches, like the Cowboys' Mike McCarthy, made a few bad 4th down calls while the Browns' Kevin Stefanksi and Bengals' Zac Taylor made the right decisions down the stretch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nfl-and-aws-unveil-new-4th-down-metric-to-judge-whether-your-favorite-coach-made-the-right-call/",
-      "originalUrl": "https://www.zdnet.com/article/nfl-and-aws-unveil-new-4th-down-metric-to-judge-whether-your-favorite-coach-made-the-right-call/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/13/8bce6146-33fa-449d-aed3-c8bca9b6b0cb/resize/1200xauto/1570385f36251bb981a51328b1d4d19f/screen-shot-2021-09-06-at-10-35-49-pm-1.png",
-          "width": 1200,
-          "height": 713,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nfl-and-aws-unveil-new-4th-down-metric-to-judge-whether-your-favorite-coach-made-the-right-call/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nfl-and-aws-unveil-new-4th-down-metric-to-judge-whether-your-favorite-coach-made-the-right-call/",
-      "publishedDateTime": "2021-09-12T20:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-13-nuix-to-pay-34m-for-us-based-natural-language-processing-vendor-topos-labs.md",
       "title": "Nuix to pay $34m for US-based natural language processing vendor Topos Labs",
       "excerpt": "Australian data management vendor Nuix is set to acquire US-based natural language processing (NLP) software vendor Topos Labs for up to US$25 million (approx. AU$34 million). The terms of the acquisition will see an initial cost of US$5 million with up to US$18.",
@@ -1103,6 +1051,58 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-manage-your-amazon-fraud-detector-resources-in-an-automated-and-secure-manner-using-aws-cloudformation.md",
+      "title": "Manage your Amazon Fraud Detector resources in an automated and secure manner using AWS CloudFormation",
+      "excerpt": "Amazon Fraud Detector is a fully managed service that makes it easy to identify potentially fraudulent online activities, such as the creation of fake accounts or online payment fraud. Unlike general-purpose machine learning (ML) packages, Amazon Fraud Detector is designed specifically to detect fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/manage-your-amazon-fraud-detector-resources-in-an-automated-and-secure-manner-using-aws-cloudformation/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/manage-your-amazon-fraud-detector-resources-in-an-automated-and-secure-manner-using-aws-cloudformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-10T12:16:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

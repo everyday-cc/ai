@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-04-amazon-mit-establish-science-hub-for-robotics-research.md",
+      "title": "Amazon, MIT establish Science Hub for robotics research",
+      "excerpt": "The Science Hub hopes to ensure the benefits of AI and robotics are shared broadly and to promote participation in research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/amazon-mit-establish-science-hub-robotics-research/",
+      "originalUrl": "https://www.therobotreport.com/amazon-mit-establish-science-hub-robotics-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/10/assets.amazon-e1633363084228.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-04-robotics-transforming-knee-replacement-surgeries.md",
       "title": "Robotics transforming knee replacement surgeries",
       "excerpt": "The most advanced innovation is the Navio Surgical System, a robotic platform that does not need any CT scan or MRIs and creates a real-time image of the limb and deformity and the surgeon is able to visualise all around the knee and make a plan on how it is going to be after surgery even before the bone is touched.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.newsx.com/health/robotics-transforming-knee-replacement-surgeries.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1401,49 +1444,6 @@
         "AI Ethics",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-chinese-startup-mech-mind-robotics-banks-usd155-million-in-fundraiser.md",
-      "title": "Chinese Startup Mech-Mind Robotics Banks USD155 Million in Fundraiser",
-      "excerpt": "Mech-Mind Robotics, a Chinese industrial robotics startup, said it has secured CNY1 billion (USD155 million) in its latest funding round led by online services giant Meituan and venture capital firm IDG Capital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.yicaiglobal.com/news/chinese-startup-mech-mind-robotics-banks-usd155-million-in-fundraiser",
-      "originalUrl": "https://www.yicaiglobal.com/news/chinese-startup-mech-mind-robotics-banks-usd155-million-in-fundraiser",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img.yicaiglobal.com/cdn/news/chinese-startup-mech-mind-robotics-banks-usd155-million-in-fundraiser/16477161300426752.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T04:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yicai Global",
-        "domain": "yicaiglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

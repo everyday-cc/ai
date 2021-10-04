@@ -74,6 +74,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "AI used to predict which animal viruses are likely to infect humans: study"
+    excerpt: "Artificial intelligence (AI) could be key in helping scientists identify the next animal virus that is capable of infecting humans, according to researchers. In a Tuesday study pu"
+    publishedDateTime: 2021-10-04T15:53:00Z
+    webUrl: "https://nypost.com/2021/10/04/ai-used-to-predict-which-animal-viruses-are-likely-to-infect-humans-study/"
+    ampWebUrl: "https://nypost.com/2021/10/04/ai-used-to-predict-which-animal-viruses-are-likely-to-infect-humans-study/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/10/04/ai-used-to-predict-which-animal-viruses-are-likely-to-infect-humans-study/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 55
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/10/dennisdavisbrianlaundrie.png?w=1024&#038;strip=all"
+        width: 1023
+        height: 682
+        isCached: true
 
 secured: "58U2EiGoHuRMNB9VWoZW0siVL4Vl678MFhXaRmYjIaJE81bq8pTXDDGhgnIQW2FYw534u0KovwE8GWcwO5i6WO3brnX07OCzvK/Cs8Kf30PDkoSgwh9rXIs+8ITUYEQjB9I/ol08Q8VSXbXz5xy99ghclROeDyeig3uoonddWnRACbHgmh5GLBN/W0vFCFMyAGguSFWEAGBS0+zaGtVUb7ONRczWky/BSoTYkxOOxYSRcodUg3/589hxHhwTlVs0y7Q93LJCljR7soegbl0GVNG3NYPeQEs+WZ3IrdwVzyiL+dGcp0a0kR/5/Qv+cxMRbBlYQrmmTEwltkE17k1DI7ngPCSQ5zmQxdbqggQlnfc=;K99kOW7LbkbeP77pJxQXyg=="
 ---

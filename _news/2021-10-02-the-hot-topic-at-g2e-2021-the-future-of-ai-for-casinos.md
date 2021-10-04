@@ -7,7 +7,7 @@ originalUrl: "https://www.kold.com/prnewswire/2021/10/02/hot-topic-g2e-2021-futu
 webUrl: "https://www.kold.com/prnewswire/2021/10/02/hot-topic-g2e-2021-future-ai-casinos/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,50 +22,6 @@ images:
     width: 980
     height: 512
     isCached: true
-
-related:
-  - title: "Kai-Fu Lee — The Future of Artificial Intelligence"
-    excerpt: "The extraordinary opportunities—and challenges—presented by artificial intelligence are at the heart of Kai-Fu Lee's new book, AI 2041: Ten Visions for Our Future, a \"scientific fiction\" that sketches 10 possible AI-driven futures that are within the realm of the scientifically possible."
-    publishedDateTime: 2021-10-02T05:47:00Z
-    webUrl: "https://www.hks.harvard.edu/events/kai-fu-lee-future-artificial-intelligence"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 52
-    images:
-      - url: "https://www.hks.harvard.edu/sites/default/files/about_us/Twitter-Card.png"
-        width: 840
-        height: 450
-        isCached: true
-  - title: "How Tignis Digital Twins Power The Future Of AI-Based Process Control"
-    excerpt: "EXECUTIVE SUMMARY The Internet of Things and the Industrial Internet of Things continues to develop with advances in Artificial Intelligence and Machine Learning. New solutions offer cost savings, efficiency gains and improved yield that were not possible before."
-    publishedDateTime: 2021-10-01T17:11:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-tignis-digital-twins-power-future-ai-based-process-chris-rust"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEHlAhAljhByA/article-cover_image-shrink_600_2000/0/1633046716382?e=1638403200&v=beta&t=o8jp1LV_yWTnnO7w992yU-aD2CMof4hF2VnHChNMQUU"
-        width: 720
-        height: 540
-        isCached: true
-  - title: "Inside the happy heart of Ai-Ai de las Alas"
-    excerpt: "Everybody’s favorite funny woman Ai-Ai de las Alas has her hands full at this time, especially given that a new season of The Clash has just commenced. It is the singing search program’s fourth season,"
-    publishedDateTime: 2021-10-04T11:33:00Z
-    webUrl: "https://businessmirror.com.ph/2021/10/04/inside-the-happy-heart-of-ai-ai-de-las-alas/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 37
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2021/10/life03-100521.jpg"
-        width: 720
-        height: 838
-        isCached: true
 
 secured: "iek7+EBJmgqxaEl4VKzQKPX1md9VO4zvYoTjSgJ1HkxpVoRkqZ4wp9jX2H54arX8MSyMEikHrho8x1yRrDLcTOI9k0kNELv5JIWeYVtLfvM3C/MG8NtJAoqM+3o0TRlXSgqVIKGZSQPTMx+zEM795bvZqNiBu0zbPjJZHR8VROh2qrj4icowF7ucYnNO9txhdjMJ+u/zYIAjmD7epTWNyl/8StDhZwYtu+CjhosTVUdheqrAC/ur95j4h9Y08L2OTUol8AQJuieKZ8r62GvfW7mVdHURlPC2IE/EPJmpM8FQtmJ7q4RikVZ9fh6UWL3j4VMjosQTgO22xm5qGe20KOJbHAte9cFshzmQargCDL0=;bXewsc/gBuLm2BX5raODbg=="
 ---

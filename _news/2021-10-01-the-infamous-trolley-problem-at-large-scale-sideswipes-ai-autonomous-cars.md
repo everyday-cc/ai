@@ -41,19 +41,21 @@ related:
         width: 1524
         height: 512
         isCached: true
-  - title: "The Human Costs of AI"
-    excerpt: "In 2015 a cohort of well-known scientists and entrepreneurs including Stephen Hawking, Elon Musk, and Steve Wozniak issued a public letter urging"
-    publishedDateTime: 2021-09-30T02:23:00Z
-    webUrl: "https://www.nybooks.com/articles/2021/10/21/human-costs-artificial-intelligence/"
+  - title: "AI Pathways race autonomous vehicles at Boys and Girls Club of Western Pa."
+    excerpt: "Students from local high schools kicked off the start of October by partaking in a day-long event of programming and racing autonomous vehicles at the Boys and Girls Club of Western Pennsylvania in Carnegie."
+    publishedDateTime: 2021-10-04T16:45:00Z
+    webUrl: "https://www.wpxi.com/news/business/ai-pathways-race-autonomous-vehicles-boys-girls-club-western-pa/T4SDO5YBPJCTXJGTAJLQC6KRBE/"
+    ampWebUrl: "https://www.wpxi.com/news/business/ai-pathways-race-autonomous-vehicles-boys-girls-club-western-pa/T4SDO5YBPJCTXJGTAJLQC6KRBE/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/business/ai-pathways-race-autonomous-vehicles-boys-girls-club-western-pa/T4SDO5YBPJCTXJGTAJLQC6KRBE/?outputType=amp"
     type: article
     provider:
-      name: The New York Review of Books
-      domain: nybooks.com
-    quality: 41
+      name: WPXI
+      domain: wpxi.com
+    quality: 57
     images:
-      - url: "https://www.nybooks.com/wp-content/uploads/2021/09/halpern_1-102121crop.jpg"
-        width: 1790
-        height: 1194
+      - url: "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/zRrMkwHpM8IA-afhDi6XQ3hDsfc=/1440x960/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/BU5DJAVHN5AUJBZBUCUCSYBOIM.JPG"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "R7Zj+t8sGzLxBMyY/ziNl3VNt5nJRIUwA9Sx/edBH4y9OfrwfN5F1Of+NoRoZ1a73WsgvWZS2LKNZETbQyqSOFA5PIbJ7cwaAfT3kLQsyCUKnPWs9447hXCcpi7ipv75QOKH8G/989dCq2Yb2TokvJykcfKcbPGeSlmwg0kwLL1Q7G4CPllQOVIoIvi+WWH3pUy7+1ncL6z3CW8UDE4ZtmYBNsqvlwcpkFTSg1rP/TlQAluirJG9yFWTLVPriSkUzP5ORIfPwhAoe9TYc/HBa0mjUXW6oZBR3zXVW1fd//L3XY/KFNWm+icqqiFZ8yOpwTS9qVgyZ9Hn2Jlljvldrcuz6qc2gc4UEo8OP0YXMenX/xdxO/MQV8CrBiNHwFTk/NJanuVaTEW+EKMn0iA6n966bEmssKPlqRSS2tRNuA1JVc8IvDjOuwdtFQulOuenWHx2JenKEvRKnJ1cV/4dgWD0rM8Uh9a0//T4ZB9clFIDMvHCzIQHHhAfHpY0xL2sOvc/d6Pg6LvZPC16vdnA+A==;EXhjDxXXatjGgwJRTpmSEw=="

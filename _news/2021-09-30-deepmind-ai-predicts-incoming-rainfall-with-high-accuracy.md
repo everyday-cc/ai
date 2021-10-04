@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/computers/deepmind-ai-predicts-incoming-rainfal
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/deepmind-ai-predicts-incoming-rainfall-high-accuracy/?amp=true"
 type: article
 quality: 104
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2016/05/p1040482.jpg?w=1024"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Predicting gene expression with AI"
+    excerpt: "Our new Enformer architecture advances genetic research by improving the ability to predict how DNA sequence influences gene expression."
+    publishedDateTime: 2021-10-04T00:00:00Z
+    webUrl: "https://deepmind.com/blog/article/enformer"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 89
+    images:
+      - url: "https://lh3.googleusercontent.com/pygM2sdWIgLuSkuUsnJXZEqO71U9uZ7hSuAngL34OL66t5xgjJT5HujJ0kIirF5g1heZjMuUKrrHuuRZAkFsepPVJYSncAyUJPw-cXFF0fmxxYGBWUpb"
+        width: 512
+        height: 288
         isCached: true
   - title: "Using deep generative radar models to predict rainfall over following 90 minutes"
     excerpt: "A team of researchers at Google's DeepMind, working with a group at the U.K.s Met Office, has applied their knowledge of deep learning methods to the science of \"nowcasting\"—predicting whether it will rain in a given place in the following two hours."

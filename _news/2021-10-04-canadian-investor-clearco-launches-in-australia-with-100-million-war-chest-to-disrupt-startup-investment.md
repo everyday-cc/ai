@@ -40,6 +40,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "These Indian AI start-ups are raising the bar high every year since the inspection"
+    excerpt: "Did you know, according to the latest research Indian AI start-ups have raised about US$836.3 million in 2020. Here are the top 10 Indian AI start-ups that have raised funding in 2021 on AI technologies."
+    publishedDateTime: 2021-10-01T12:38:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-indian-ai-start-ups-that-have-raised-funding-in-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 35
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-10-Indian-AI-Startups-that-have-raised-funding-in-2021.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "5XIxdQxLaXkegvV6LZboQsgw+nwInbakQqGq+zz5nTJXdoM/5w7aKjjmKcH9tHrT6N93vAPHBuvyi8NKqS+/MO5soEVWAqlfIABUTD4J5k2aRetZ+Ny837J4MSZdbT28tTqAEqtudf6JxL9wVFZFbJAH1p74ONVaIg1LXPSEezjVCjqnQsLFQRMo6WkHpu7MeRsvXhf0jOMJ5HDgguPpnNNawWDZmERYo2x9AzQ1iWcio5SjYJSNX2Sm3UCk4Qfah5EowooP0i93iMkzhSNKvkZtELQ2BEo8IaqNfz8W8B3RFFCsjpb8seIKQUfSZ5yUWV8CL5XQ7HjjzIbIwBbvNmtdTLlcvilGEbcnu5Ft/Wo=;RdAFwSq2j9hpNdDSKTPgNg=="
 ---

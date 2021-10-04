@@ -44,6 +44,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Sunak jobs boost puts AI at forefront"
+    excerpt: "Rishi Sunak announced plans to commit more than £500 million in a new round of funding to help people back into work. Delivering his first in-person"
+    publishedDateTime: 2021-10-04T17:54:00Z
+    webUrl: "https://www.smeweb.com/2021/10/04/sunak-jobs-boost-puts-ai-at-forefront/"
+    type: article
+    provider:
+      name: SMEweb
+      domain: smeweb.com
+    quality: 37
+    images:
+      - url: "https://i1.wp.com/www.smeweb.com/wp-content/uploads/2021/10/artificial-intelligence-ge96a5b6f2_640.jpg?fit=640%2C330&ssl=1"
+        width: 640
+        height: 330
+        isCached: true
 
 secured: "oI4d8lTDota24fPnNzoJER79pA3cEJrUOFm0WK2teMgiTSM7Il6Hl8NJXj3KoQPyXmNKbyiR103wYJmzeAATT+gw0Hv+3/J7rPpIPu9WfVBhdkuVeOTbVtHKgMVRw8VBszbT+oFkSgAtyt8OUwUvU4WYEmTSSo9xaPLGOJTpRGC3Zj4zcDI131OtjbvZm35DKSk9tHz13YKpP/Gf32k2k8CEBTqJjZbEa+B7kLUa7vqKlfjoUUTvEQ8OawC8aMoitioafI55q0b637Kgwpmndq0n5ABLPgQLvj9IOZE+I1VwM5Al0c10ndd7PzquSoCDrBCY1fcCUlAQ2bDA8f38g1cB5tnFCcIuSLJtlPDWE00lQdrG/E51e7cus7NeLf5pUBgbXwrNbYcx+pBtm3VHQe6ChBpHUrkSMR6uH34S6ytP2FAqa+S1z8kom8ptoneCA1FYxy91R/n6UWisUc7ccEnuz3arXbc30xujqMt9thbiYWMX3bc5b6hE1KwWzucBjZg0bkHR/k6sAok/BdIzHA==;T+87tbn6rmwDpyl3X69/7Q=="
 ---

@@ -2,48 +2,6 @@
   "page": 32,
   "value": [
     {
-      "path": "_news/2021-09-08-in-the-us-the-ai-industry-risks-becoming-winner-take-most.md",
-      "title": "In the US, the AI Industry Risks Becoming Winner-Take-Most",
-      "excerpt": "A new study warns that the American AI industry is highly concentrated in the San Francisco Bay Area and that this could prove to be a weakness in the long run. The Bay leads all other regions of the country in AI research and investment activity,",
-      "sourceUrl": null,
-      "webUrl": "https://www.brookings.edu/research/the-geography-of-ai/",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/in-the-us-the-ai-industry-risks-becoming-winner-take-most/ar-AAOdK3S",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.brookings.edu/wp-content/uploads/2021/08/shutterstock_1201834804.jpeg",
-          "width": 5555,
-          "height": 3125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.brookings.edu/research/the-geography-of-ai/?amp",
-      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/the-geography-of-ai/?amp",
-      "publishedDateTime": "2021-09-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "brookings.edu/research/the-geography-of-ai/",
-        "domain": "brookings.edu/research/the-geography-of-ai/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-08-bhp-inks-exploration-deal-with-gates-and-bezos-backed-kobold.md",
       "title": "BHP inks exploration deal with Gates and Bezos-backed KoBold",
       "excerpt": "The world’s largest miner will use artificial intelligence tools developed by KoBold Metals, a start-up backed by a coalition of billionaires.",
@@ -1157,6 +1115,40 @@
         "Microsoft AI",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-cohere-raises-40-million-in-series-a-financing-to-make-natural-language-processing-safe-and.md",
+      "title": "Cohere Raises $40 Million in Series A Financing to Make Natural Language Processing Safe and ...",
+      "excerpt": "Cohere, a provider of cutting-edge natural language processing (NLP) models, announced today that it has raised $40 million in series A financing led by Index Ventures with participation from Section 32,",
+      "sourceUrl": null,
+      "webUrl": "https://www.globenewswire.com/news-release/2021/09/07/2292856/0/en/Cohere-Raises-40-Million-in-Series-A-Financing-to-Make-Natural-Language-Processing-Safe-and-Accessible-to-Any-Business.html",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-canada-toronto-7db11d1e127439bf34d702a79d657681",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-07T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

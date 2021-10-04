@@ -157,6 +157,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-01-marketing-artificial-intelligence-ai-marketing-and-the-future-of-business.md",
+      "title": "Marketing Artificial Intelligence: AI, Marketing, and the Future of Business",
+      "excerpt": "Artificial intelligence is forecasted to have trillions of dollars of impact on businesses and the economy, yet many marketers struggle to understand what it is and how to apply it in their marketing efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.amazon.co.uk/Marketing-Artificial-Intelligence-Future-Business-ebook/dp/B09HH2LZ9M",
+      "originalUrl": "https://www.amazon.co.uk/Marketing-Artificial-Intelligence-Future-Business-ebook/dp/B09HH2LZ9M",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png",
+          "width": 350,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-30T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Amazon Associates UK",
+        "domain": "amazon.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-10-01-ai-and-software-development-let-the-revolution-begin.md",
       "title": "AI and Software Development: Let the Revolution Begin",
       "excerpt": "With help from AI-Augmented development tools – including no code and low code – software development will move far faster, and be open to non-tech types as well.",
@@ -259,7 +302,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 177,
       "tags": null,
       "images": [
         {
@@ -1186,59 +1229,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-are-ai-ethics-teams-doomed-to-be-a-facade-the-women-who-pioneered-them-weigh-in.md",
-      "title": "Are AI ethics teams doomed to be a facade? The women who pioneered them weigh in",
-      "excerpt": "Timnit Gebru, Margaret Mitchell, and other leaders discuss tensions surrounding AI ethics in big tech and what teams need to succeed.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/30/are-ai-ethics-teams-doomed-to-be-a-facade-the-women-who-pioneered-them-weigh-in/",
-      "originalUrl": "https://venturebeat.com/2021/09/30/are-ai-ethics-teams-doomed-to-be-a-facade-the-women-who-pioneered-them-weigh-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1283199539-e1632945107378.jpg?fit=768%2C600&strip=all",
-          "width": 768,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/30/are-ai-ethics-teams-doomed-to-be-a-facade-the-women-who-pioneered-them-weigh-in/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/30/are-ai-ethics-teams-doomed-to-be-a-facade-the-women-who-pioneered-them-weigh-in/amp/",
-      "publishedDateTime": "2021-09-30T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
       ]
     }
   ],

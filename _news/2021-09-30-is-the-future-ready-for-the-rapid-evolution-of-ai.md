@@ -9,8 +9,8 @@ ampWebUrl: "https://thebftonline.com/30/09/2021/is-the-future-ready-for-the-rapi
 cdnAmpWebUrl: "https://thebftonline-com.cdn.ampproject.org/c/s/thebftonline.com/30/09/2021/is-the-future-ready-for-the-rapid-evolution-of-ai/?amp"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: business
@@ -26,24 +26,6 @@ images:
     width: 447
     height: 327
     isCached: true
-
-related:
-  - title: "The Future of Artificial Intelligence In Manufacturing"
-    excerpt: "Any company working in the manufacturing industry is likely to know that AI has been making significant improvements with a range of applications."
-    publishedDateTime: 2021-09-30T11:11:00Z
-    webUrl: "https://bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/"
-    ampWebUrl: "https://bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/?amp"
-    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/?amp"
-    type: article
-    provider:
-      name: Business Matters
-      domain: bmmagazine.co.uk
-    quality: 59
-    images:
-      - url: "https://bmmagazine.co.uk/wp-content/uploads/2021/09/shutterstock_1154438635-scaled.jpg"
-        width: 850
-        height: 375
-        isCached: true
 
 secured: "MEx45Nqfkdlg37EQJbHBDRjAl6hcxMlQyg6EzdHGSJRpbMA4evgmADcJvy/CbvZovDBYtrmQw1iRinUkK05M2lAAnOeDAS/1+rPcqnIpgueLkklPLc4pU7A8cFns8u/ySxdoWhSrjDcGh2On8WRJioxdWh0Bd6HtEHLnmFq5LWAw8nCvY25WH1aQIan2Io8iXcgoN/cdhFUzerSdGfEz/0aO6DDhukukPKadxQ8vEURPIHWwM0TffX54P4XjZNf4Du0xq8tD63w+9LwjSsUkeTRbi5RcFAaFtX/gDZpjI0O5Bsakj7C6R9K7qjE28vs4nxU6fnV+fGeDT6corq1muDVMfsm+dXyoTTJlqjTAvQllf0wCSodgYSDEuyP0oSw85PvbRNLL0i9yKDeRIDES2d6kky0zpdPMpoJU6GaiDSnuNdK9jXV/Ef7Wnhws8b5LXPp0CmuT9GaaahY7Edsl63kVALkzlu2/UxzUDiPR4HK878iCClayGfQ4b4FKoevx5Za45zQ1ajGwYWoTb3PNvQ==;Xcg7otAefFz/d0XfKwDEgw=="
 ---

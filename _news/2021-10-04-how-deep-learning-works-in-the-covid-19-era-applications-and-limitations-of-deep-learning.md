@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Role of Artificial Intelligence in the Future of Education"
+    excerpt: "Artificial Intelligence is already being widely employed around the world to better our lives, work, health, and everyday routines, among other things. Furthermore, the solution has significant educational potential,"
+    publishedDateTime: 2021-10-02T15:46:00Z
+    webUrl: "https://www.linkedin.com/pulse/role-artificial-intelligence-future-education-yogesh-khandelwal"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG1wh0a0R6i9A/article-cover_image-shrink_720_1280/0/1633189407713?e=1639008000&v=beta&t=qvFzABCXoEoVg9wK4OjX0No9S-1IUKYkvUBAcgs-ids"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "NASSCOM CoE-IoT and AI Evangelizes Digital Healthcare Solutions through Healthcare Innovation Challenge-2"
     excerpt: "A grand finale event with the announcement of winners today marked the end of first phase and start of next phase focusing on deployment of solutions of Healt"
     publishedDateTime: 2021-09-30T13:55:00Z
@@ -97,6 +111,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Relativity Focuses on International Expansion, Integrations and AI in Relativity Fest Keynote"
+    excerpt: "The virtual Relativity Fest 2021 keynote didn't feature groundbreaking product releases like in years past, but instead upgrades aimed at integrating artificial intelligence into the discovery workflow,"
+    publishedDateTime: 2021-10-04T16:03:00Z
+    webUrl: "https://www.law.com/legaltechnews/2021/10/04/relativity-focuses-on-international-expansion-integrations-and-ai-in-relativity-fest-keynote/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 26
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/10/Relativity-Fest-2018-Logo-Sign-1-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "Social commerce innovation: Unilever unveils beauty startup collaboration platform"
     excerpt: "Personal care major Unilever has launched a collaboration initiative to partner with forward-thinking beauty startups, scaleups and entrepreneurs specialised in social commerce to drive next-generation in-house innovation across its portfolio of brands."
     publishedDateTime: 2021-09-30T11:22:00Z
@@ -126,6 +154,6 @@ related:
         height: 250
         isCached: true
 
-secured: "u/I6SF/mOcaqEdDzCPiho4h9vvfoApA5/SE+Q2Kg6Q71NO3n0XHV904h5klpbazgozIGi0d4GryyvvLF1hXoYqOAyjNcbaV9gQNTcNRWLcP49Ih14gjfPYlcEqXpzAV0IeIPrclAwVpGq1aARvCl6H6IEqhKAL+rFJrBtl3wG92XfsNPp+dmw5F7ld0vLxk7MydQxc/+I/EIx4GEDRYzasOPYLDKa18syVQ2O9jG/c/0PYAGPZc0c8L0tI5rgY793g/bQAVIk4gjaSl7n4CpMfWGRf4KhbS3nTudjqkug81tChsBiKVc3h71gNB2rW7nhrjl5g5PNmipjBqKqxLTVxuA7GtN+JK3674uMKdf8bU=;9WGO4ghjTYMLTAEhT4KlRg=="
+secured: "PY3Q+mddPoL5Tq6hEYom8Lt97T6sn9PAHkKY3gPCt0oIdDH6oxyA6Cc+UlHtnJ54LMVaWLMj2Alk7BPq0vJnnrB6lzPX2csNfNt+LCg0G1tbE+JqXcJWIEHBHzXHAuaGnZGiMnAbZfl/ayn/nhRhzMP31yi9p9JKY6zm0JBOshsMo36RWEt0Amm8NtSb+qsp64z6cDar0K+wVc7l5h3mJmWPWXyjGSDNvJ3eLEqLHOXvGhc1i4LCOi8hTAipT331MlfvoWrLz54LE3oyZQgmxZSL3cR1eCCsLf3aQSbNHA9EyM8ofXkh9f7ZbaSVy2vh6vPFYrG9Rh8cO1RF4M6bcRWLapFoD5Hu089ioF8Ie1IEnIveWKgotgxm/4zc0rkYxSaon4ZpxKK1KZc3jmZIfaaOkg1UKckawBPOnUFVZDJP2R2Ki8ea32PrvAjSGjdueXSwBnxbjrsp+S/4oNQ2OCFdSrsqYXADJo4jpFZn9+nW7G/aUGN7ohUgJamb55oQQQH9GnYv4D3e+3Om+fLsEg==;O65Bg65BE3SKdez6QcoZUg=="
 ---
 

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Role of Artificial Intelligence in the Future of Education"
+    excerpt: "Artificial Intelligence is already being widely employed around the world to better our lives, work, health, and everyday routines, among other things. Furthermore, the solution has significant educational potential,"
+    publishedDateTime: 2021-10-02T15:46:00Z
+    webUrl: "https://www.linkedin.com/pulse/role-artificial-intelligence-future-education-yogesh-khandelwal"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG1wh0a0R6i9A/article-cover_image-shrink_720_1280/0/1633189407713?e=1639008000&v=beta&t=qvFzABCXoEoVg9wK4OjX0No9S-1IUKYkvUBAcgs-ids"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "NASSCOM CoE-IoT and AI Evangelizes Digital Healthcare Solutions through Healthcare Innovation Challenge-2"
     excerpt: "A grand finale event with the announcement of winners today marked the end of first phase and start of next phase focusing on deployment of solutions of Healt"
     publishedDateTime: 2021-09-30T13:55:00Z
@@ -110,6 +124,20 @@ related:
       - url: "https://www.bbntimes.com/images/articles/society/How_Deep_Learning_Works_in_the_Covid-19_Era.jpeg"
         width: 1620
         height: 1080
+        isCached: true
+  - title: "Relativity Focuses on International Expansion, Integrations and AI in Relativity Fest Keynote"
+    excerpt: "The virtual Relativity Fest 2021 keynote didn't feature groundbreaking product releases like in years past, but instead upgrades aimed at integrating artificial intelligence into the discovery workflow,"
+    publishedDateTime: 2021-10-04T16:03:00Z
+    webUrl: "https://www.law.com/legaltechnews/2021/10/04/relativity-focuses-on-international-expansion-integrations-and-ai-in-relativity-fest-keynote/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 26
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/10/Relativity-Fest-2018-Logo-Sign-1-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
   - title: "Social commerce innovation: Unilever unveils beauty startup collaboration platform"
     excerpt: "Personal care major Unilever has launched a collaboration initiative to partner with forward-thinking beauty startups, scaleups and entrepreneurs specialised in social commerce to drive next-generation in-house innovation across its portfolio of brands."

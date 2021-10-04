@@ -2,48 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2021-09-21-press-release-deepspatial-inc-files-patent-for-artificial-intelligence-driven-retail-management-software.md",
-      "title": "Press Release: Deepspatial Inc. Files Patent for Artificial Intelligence Driven Retail Management Software",
-      "excerpt": "Deepspatial Inc. (CSE:DSAI) (\"Deepspatial\" or the \"Company\") is pleased to announce that it has filed patent application number 63244524 - Computer Implemented Method and System for Retail Management and Optimization with the United States Patent and Trademark Office (USPTO) for its proprietary methods of retail management with enhanced user experience for dynamic planning and decision making.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sharecast.com/news/market_reports/press-release-deepspatial-inc-files-patent-for-artificial-intelligence-driven-retail-management-software--8108547.html",
-      "originalUrl": "https://www.sharecast.com/news/market_reports/press-release-deepspatial-inc-files-patent-for-artificial-intelligence-driven-retail-management-software--8108547.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.s3wfg.com/web/img/images_uploaded/amp_dl.jpg",
-          "width": 620,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sharecast.com/amp/news/market_reports/press-release-deepspatial-inc-files-patent-for-artificial-intelligence-driven-retail-management-software--8108547.html",
-      "cdnAmpWebUrl": "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/market_reports/press-release-deepspatial-inc-files-patent-for-artificial-intelligence-driven-retail-management-software--8108547.html",
-      "publishedDateTime": "2021-09-21T05:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sharecast",
-        "domain": "sharecast.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-21-three-ways-ai-is-improving-assistive-technology.md",
       "title": "Three Ways AI Is Improving Assistive Technology",
       "excerpt": "When implemented effectively, assistive technology can improve accessibility and quality of life for all, regardless of ability.",
@@ -1193,6 +1151,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-zoomtopia-ai-and-video-to-power-healthcare.md",
+      "title": "Zoomtopia: AI and Video to Power Healthcare",
+      "excerpt": "At the recent Zoomtopia, the company spotlighted how healthcare providers are actively transitioning to telehealth, representing a significant disruption of the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/cloud/zoomtopia-ai-and-video-to-power-healthcare/",
+      "originalUrl": "https://www.eweek.com/cloud/zoomtopia-ai-and-video-to-power-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/09/Zoom-White.jpg",
+          "width": 1032,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-20T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

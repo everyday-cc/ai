@@ -25,6 +25,22 @@ images:
     height: 616
     isCached: true
 
+related:
+  - title: "AI powered and now publicly traded, Exscientia adds $464M to fuel drug R&D"
+    excerpt: "Exscientia’s IPO and private placement raised $464 million to support its artificial intelligence-based approach to discovering and developing new drugs. In addition to partnerships with pharmaceutical companies,"
+    publishedDateTime: 2021-10-04T16:22:00Z
+    webUrl: "https://medcitynews.com/2021/10/ai-powered-and-now-publicly-traded-exscientia-adds-464m-to-fuel-drug-rd/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 35
+    images:
+      - url: "https://medcitynews.com/uploads/2021/10/Darwin-tree.jpg"
+        width: 1073
+        height: 861
+        isCached: true
+
 secured: "82kP3lqZ8IkYc6utdSZKbMOVzKG94p+tFSy8xuojfRKbmD2YlQY5dRCmzEQ5ZzD4gwHdsf//MTlO/YZlT3FM13mMkza9NcemuauRjSqna2ehFLtzvxXMfAE7/h58/sk6snyvo8Nd2uJvpxkR0TQIopgNRJbVcH59uQKXLICU1ZC8exsPWnp7HGYyC72jKXBGr5Ubgtin2jQnvfrDzPxXapb0eGnDQ6r0gVdXK+pSOReMvyBKn4lVaZeYzhn57NnNU+WP1pP7I/X8zq0PuTyL1FgUccHKHrqZeYhS34nTNoJiWF9JtVr3Lx2TQw5XNY2WBaYPjk7tb/shugXPAaaQ643lxo3Q71FNElJ+UsRbum0=;SYz+C6FN+hrINUsphvs/ZA=="
 ---
 

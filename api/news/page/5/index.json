@@ -2,110 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-09-30-amd-wants-to-make-its-chips-30-times-more-energy-efficient-by-2025.md",
-      "title": "AMD wants to make its chips 30 times more energy-efficient by 2025",
-      "excerpt": "For years, Intel had been sitting on its CPU throne, gradually losing its drive to innovate process technology. Instead, the company chose to take the \"abnormally",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91485-amd-wants-make-chips-30-times-more-energy.html",
-      "originalUrl": "https://www.techspot.com/news/91485-amd-wants-make-chips-30-times-more-energy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-29-image-36.jpg",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91485-amd-wants-make-chips-30-times-more-energy.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91485-amd-wants-make-chips-30-times-more-energy.html",
-      "publishedDateTime": "2021-09-29T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-how-startups-can-grow-faster-with-the-cloud.md",
-      "title": "How Startups Can Grow Faster With The Cloud",
-      "excerpt": "Researching cloud infrastructure while starting a business is often a daunting task for startup founders, many of whom wear multiple hats. On top of identifying the most effective solutions and services,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/awsstartups/2021/09/29/how-startups-can-grow-faster-with-the-cloud/",
-      "originalUrl": "https://www.forbes.com/sites/awsstartups/2021/09/29/how-startups-can-grow-faster-with-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61548e13ab0a838ac5235414%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/awsstartups/2021/09/29/how-startups-can-grow-faster-with-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/awsstartups/2021/09/29/how-startups-can-grow-faster-with-the-cloud/amp/",
-      "publishedDateTime": "2021-09-29T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-30-samsung-will-create-chips-for-teslas-next-gen-self-driving-computer.md",
       "title": "Samsung Will Create Chips For Tesla’s Next-Gen Self-Driving Computer",
       "excerpt": "Tesla is expected to source its next-generation chip from Samsung Electronics. The forthcoming Tesla Cybertruck will debut with Tesla’s new Hardware 4 computer and according to The Korea Economic Daily,",
@@ -1154,6 +1050,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-29-next-wave-of-deep-learning-models-applications-markets-2021-focus-on-rnn-cnn-and-gan-researchandmarketscom.md",
+      "title": "Next Wave of Deep Learning Models & Applications Markets 2021: Focus on RNN, CNN, and GAN - ResearchAndMarkets.com",
+      "excerpt": "The “Next Wave of Deep Learning Models & Applications (RNN, CNN, and GaN)” report has been added to ResearchAndMarkets.com’s offering. As digitization progresses across industries, AI is gaining a ubiquitous adoption as more and more business processes are being automated.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/business-technology-c75da96895804268aa68ebd35cad71f2",
+      "originalUrl": "https://apnews.com/press-release/business-wire/business-technology-c75da96895804268aa68ebd35cad71f2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-29T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-tech-recruiting-startup-andela-raises-200-million-in-round-led-by-softbank.md",
       "title": "Tech-Recruiting Startup Andela Raises $200 Million in Round Led by SoftBank",
       "excerpt": "Andela uses AI to help employers look beyond Silicon Valley for talent and tap a broader range of markets such as Africa and Latin America",
@@ -1202,6 +1141,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-global-voice-and-speech-recognition-software-market-2021-major-players-competitive-spectrum-revenue-share-and-sales-projections-by-2027.md",
+      "title": "Global Voice And Speech Recognition Software Market 2021 Major Players, Competitive Spectrum, Revenue Share and Sales Projections by 2027",
+      "excerpt": "Global Voice And Speech Recognition Software Market 2020 by Company, Type and Application, Forecast to 2025 recently presented by MarketQuest.biz concretes the best results, integrated approaches, and the latest technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-voice-and-speech-recognition-software-market-2021-major-players-competitive-spectrum-revenue-share-and-sales-projections-by-2027-2021-09-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-voice-and-speech-recognition-software-market-2021-major-players-competitive-spectrum-revenue-share-and-sales-projections-by-2027-2021-09-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T19:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales"
       ]
     }
   ],

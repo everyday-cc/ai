@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-09-ai-precision-breast-cancer-di
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-ai-precision-breast-cancer-diagnosis.amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Medical Xpress
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Breast cancer: Artificial intelligence boosts accuracy of tumour diagnoses"
-    excerpt: "Each year around two million women around the world are diagnosed with breast cancer. Typically, tissue samples of the tumour are taken and analysed and then the cancer is placed into one of three categories – low risk,"
-    publishedDateTime: 2021-09-29T23:05:00Z
-    webUrl: "https://www.sciencefocus.com/news/breast-cancer-artificial-intelligence-boosts-accuracy-of-tumour-diagnoses/"
-    ampWebUrl: "https://www.sciencefocus.com/news/breast-cancer-artificial-intelligence-boosts-accuracy-of-tumour-diagnoses/amp/"
-    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/breast-cancer-artificial-intelligence-boosts-accuracy-of-tumour-diagnoses/amp/"
-    type: article
-    provider:
-      name: BBC Focus
-      domain: sciencefocus.com
-    quality: 57
-    images:
-      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/09/GettyImages-1128870494-5b9c18f.jpg?quality=90&crop=4px,0px,1192px,513px&resize=960,413"
-        width: 960
-        height: 413
-        isCached: true
   - title: "AI-based tool set to improve breast cancer diagnosis"
     excerpt: "An AI-based tool that improves breast cancer diagnosis and predicts the risk of recurrence has been developed by researchers in Sweden."
     publishedDateTime: 2021-10-03T23:02:00Z

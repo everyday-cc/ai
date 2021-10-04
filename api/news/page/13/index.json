@@ -2,57 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2021-09-22-how-are-you-planning-to-take-your-ai-experiment-to-production.md",
-      "title": "How Are You Planning To Take Your AI Experiment To Production?",
-      "excerpt": "We hear a lot of buzz about enterprises deploying AI aggressively. However, a 2020 NewVantage Partners survey (via Forbes) found that only 14.6% out of 70 leading enterprises were seen deploying AI capabilities into widespread production.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/22/how-are-you-planning-to-take-your-ai-experiment-to-production/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/22/how-are-you-planning-to-take-your-ai-experiment-to-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d34ea2e22fb5d923a8b3e1%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/22/how-are-you-planning-to-take-your-ai-experiment-to-production/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/22/how-are-you-planning-to-take-your-ai-experiment-to-production/amp/",
-      "publishedDateTime": "2021-09-22T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-22-maicon-2021-marketer-machine-what-assessing-the-impact-of-ai-on-marketing.md",
       "title": "MAICON 2021 - marketer + machine = what? Assessing the impact of AI on marketing",
       "excerpt": "The presence of AI across our lives is tangible now - but what is the specific impact on marketing? That's the core topic at The Marketing AI Institute's MAICON event.",
@@ -1191,6 +1140,40 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-arkq-uniquely-positioned-to-capitalize-on-robotics-trends.md",
+      "title": "ARKQ Uniquely Positioned to Capitalize on Robotics Trends",
+      "excerpt": "Amid an array of technological advancements, robotics investing is gaining a broader audience, and exchange traded funds issuers are meeting that demand. However, the various robotics ETFs on the market today aren't carbon copies of each other,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/arkq-uniquely-positioned-to-capitalize-on-robotics-trends-2021-09-21",
+      "originalUrl": "https://www.nasdaq.com/articles/arkq-uniquely-positioned-to-capitalize-on-robotics-trends-2021-09-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/arkq-uniquely-positioned-to-capitalize-on-robotics-trends-2021-09-21?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/arkq-uniquely-positioned-to-capitalize-on-robotics-trends-2021-09-21?amp",
+      "publishedDateTime": "2021-09-21T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

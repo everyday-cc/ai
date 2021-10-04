@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "These Indian AI start-ups are raising the bar high every year since the inspection"
+    excerpt: "Did you know, according to the latest research Indian AI start-ups have raised about US$836.3 million in 2020. Here are the top 10 Indian AI start-ups that have raised funding in 2021 on AI technologies."
+    publishedDateTime: 2021-10-01T12:38:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-indian-ai-start-ups-that-have-raised-funding-in-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 35
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-10-Indian-AI-Startups-that-have-raised-funding-in-2021.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Canadian investor Clearco launches in Australia with $100 million war chest to disrupt startup investment"
     excerpt: "Capital investor Clearco has launched in Australia with a promise of $100 million on the table to back digital-first e-commerce businesses."
     publishedDateTime: 2021-10-04T05:15:00Z

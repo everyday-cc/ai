@@ -76,6 +76,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Predicting gene expression with AI"
+    excerpt: "Our new Enformer architecture advances genetic research by improving the ability to predict how DNA sequence influences gene expression."
+    publishedDateTime: 2021-10-04T00:00:00Z
+    webUrl: "https://deepmind.com/blog/article/enformer"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 89
+    images:
+      - url: "https://lh3.googleusercontent.com/pygM2sdWIgLuSkuUsnJXZEqO71U9uZ7hSuAngL34OL66t5xgjJT5HujJ0kIirF5g1heZjMuUKrrHuuRZAkFsepPVJYSncAyUJPw-cXFF0fmxxYGBWUpb"
+        width: 512
+        height: 288
+        isCached: true
   - title: "Engineers At Google’s DeepMind Have Come Up With A New Way To ‘Nowcast’ Weather"
     excerpt: "Advertisement Besides making weekly or monthly forecasts, weather models are also used to make hourly predictions that are called nowcasting. This is done by a Google-backed artificial intelligence company DeepMind that is making progress in predicting hourly precipitation."
     publishedDateTime: 2021-10-02T18:54:00Z

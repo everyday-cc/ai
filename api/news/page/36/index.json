@@ -2,57 +2,6 @@
   "page": 36,
   "value": [
     {
-      "path": "_news/2021-09-03-can-ai-direct-movies-this-one-just-did.md",
-      "title": "Can AI Direct Movies? This One Just Did",
-      "excerpt": "Federico Fellini has been gone almost 30 years, but a new film premiering at the Venice Film Festival next week was directed with artificial intelligence that can replicate the famed director’s style.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/can-ai-direct-movies-this-one-just-did",
-      "originalUrl": "https://www.pcmag.com/news/can-ai-direct-movies-this-one-just-did",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/01QLL3aCHDw6RVIA953SWTD-1.1630607174.fit_lim.size_1200x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/can-ai-direct-movies-this-one-just-did?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/can-ai-direct-movies-this-one-just-did?amp=true",
-      "publishedDateTime": "2021-09-03T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-03-meet-the-women-making-waves-in-ai-ethics-research-and-entrepreneurship.md",
       "title": "Meet the women making waves in AI ethics, research, and entrepreneurship",
       "excerpt": "We've been chatting with the winners of VentureBeat's Women in AI awards. Here are the conversations, covering ethics, regulation, and more.",
@@ -1172,6 +1121,58 @@
       "topics": [
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-explosion-snags-6m-on-120m-valuation-to-expand-machine-learning-platform.md",
+      "title": "Explosion snags $6M on $120M valuation to expand machine learning platform",
+      "excerpt": "Explosion, a company that has combined an open source machine learning library with a set of commercial developer tools, announced a $6 million Series A today on a $120 million valuation. The round was led by SignalFire,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/02/explosion-snags-6m-on-120m-valuation-to-expand-machine-learning-platform/",
+      "originalUrl": "https://techcrunch.com/2021/09/02/explosion-snags-6m-on-120m-valuation-to-expand-machine-learning-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1136663830.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/02/explosion-snags-6m-on-120m-valuation-to-expand-machine-learning-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/02/explosion-snags-6m-on-120m-valuation-to-expand-machine-learning-platform/amp/",
+      "publishedDateTime": "2021-09-02T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

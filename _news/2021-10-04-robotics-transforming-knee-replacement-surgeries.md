@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsx.com/amp/health/robotics-transforming-knee-replacem
 cdnAmpWebUrl: "https://www-newsx-com.cdn.ampproject.org/c/s/www.newsx.com/amp/health/robotics-transforming-knee-replacement-surgeries.html"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:
