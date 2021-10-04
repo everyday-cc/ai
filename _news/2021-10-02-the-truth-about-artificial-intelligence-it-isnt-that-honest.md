@@ -3,8 +3,8 @@ category: news
 title: "The truth about artificial intelligence? It isn’t that honest"
 excerpt: "Tests of natural language processing models show that the bigger they are, the bigger liars they are. Should we be worried?"
 publishedDateTime: 2021-10-02T14:00:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2021/oct/02/the-truth-about-artificial-intelligence-it-isnt-that-honest?via=indexdotco"
-webUrl: "https://www.theguardian.com/commentisfree/2021/oct/02/the-truth-about-artificial-intelligence-it-isnt-that-honest?via=indexdotco"
+originalUrl: "https://www.theguardian.com/commentisfree/2021/oct/02/the-truth-about-artificial-intelligence-it-isnt-that-honest?CMP%EF%BF%BD_a-technology_b-gdntech"
+webUrl: "https://www.theguardian.com/commentisfree/2021/oct/02/the-truth-about-artificial-intelligence-it-isnt-that-honest?CMP%EF%BF%BD_a-technology_b-gdntech"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2021/oct/02/the-truth-about-artificial-intelligence-it-isnt-that-honest"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/oct/02/the-truth-about-artificial-intelligence-it-isnt-that-honest"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 360
     isCached: true
 
-secured: "BOiPCDVMrrbjOedQdk4eZdNm8Hnpyo7kJQrxW2d9ISyjzX09nB2Qp1GR/y8offLthk5bsIjhpUDZqvIZ7w5JaurTESo6DfWVdjjBfIxJJSb7Ra9FGAx5k0DMfVzs7W+FO+lxJzXBYrohVsiVnLAAyWwKNb4LI1vIwU9LmAwD2Ds63K7vaE1yHpQ10rzXZ2Skp5xkr4xB931zwnRZCBupOSqDyF/NfmsQIwIWbEevfYq75Oi5js1Wo5DBcjnERAl37kzUP6wkywTnvxTMRXUI+Q6jzBR1gdYgqzHlHpn5qz2Z0+ygm6AR+ybjGBB9n5EUY6XTEFMwE72qxzCV9DXS+rVD0iupbS6IJ2rxfuabsRx/4QYZ6+8jIGu1Dx9c1tT7d0WETCGkXP64hFYJsEGP6a3MJK51ILSTwTlbFPdY+6crNpW3khNEJHQD+NuCyfP8yNtJQJN9yrUH9V13dgdqmPKAvdOe/7MUJkxngslMBXL4bJt5Xi6Yft8SpNf3xK/2TPydooy5R6QAP6jsujl6xw==;F77QO5kSNak4h7OEI1cbeQ=="
+secured: "ngAt3KtV1gTt/a8IYZaS/lNdi7oxuh3LyPfYhNgEKvlpzI+6FzBoW8IpvrTV9/5OqGy5sh7EJB0zualbOuRRnx6BivXH2DZhnInsTci06NaTiZU8TgQQlAlMRhjCzx9engRtKnDO3eIdUg81T427aGM+lkbxPy/4XmQ1iF8ucuIf+JbA9UyCveo//mwbbAioGBrvBEZ31w3Y81M3gw13x4+hChtmsc3oVLFnkC6lQ8XF7qmaBCA29p6XGZks+hTokjM4fczoSttQT4GlenMprFh20SY5dUyOGLFtbSV/zvUV8/iZ1ljW4dyZxvWXrpVV/DuK+IHLsvwtU1YLXIqFQ3zWrZxCd47aC3sAiXaiMaA=;7fMneJZemAV1AoylZ7tPoA=="
 ---
 

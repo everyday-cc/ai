@@ -2,6 +2,154 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-09-28-aiml-innovations-tech2heal-readies-its-remote-patient-monitoring-platform-for-deployment.md",
+      "title": "AI/ML Innovations’ Tech2Heal Readies Its Remote Patient Monitoring Platform For Deployment",
+      "excerpt": "Product roll out and pilot studies planned for the fourth quarter 2021 TORONTO, ON / ACCESSWIRE / September 28, 2021 / AI/ML Innovations Inc. (CSE:AIML)(OTCQB:AIMLF)(FSE:42FB), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/accesswire/business-lifestyle-technology-health-artificial-intelligence-e12507d0d150725bc0281828cb8b96d2",
+      "originalUrl": "https://apnews.com/press-release/accesswire/business-lifestyle-technology-health-artificial-intelligence-e12507d0d150725bc0281828cb8b96d2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T21:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-global-face-recognition-software-market-2021-industry-statistics-emerging-opportunities-revenue-and-volume-analysis-by-2027.md",
+      "title": "Global Face Recognition Software Market 2021 Industry Statistics, Emerging Opportunities, Revenue and Volume Analysis by 2027",
+      "excerpt": "MarketQuest.biz have issued a global study report titled Global Face Recognition Software Market 2021 by Company, Regions, Type and Application, Forecast to 2027 that contains an accurate simulation of industry insight,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-face-recognition-software-market-2021-industry-statistics-emerging-opportunities-revenue-and-volume-analysis-by-2027-2021-09-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-face-recognition-software-market-2021-industry-statistics-emerging-opportunities-revenue-and-volume-analysis-by-2027-2021-09-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-global-artificial-intelligence-ai-speakers-market-report-2021-prominent-key-players-exploring-sales-volume-revenue-and-forecast-by-2027.md",
+      "title": "Global Artificial Intelligence (AI) Speakers Market Report 2021 Prominent Key Players, Exploring Sales Volume Revenue and Forecast by 2027",
+      "excerpt": "The research study on Global Artificial Intelligence (AI) Speakers Market 2021 by Manufacturers, Regions, Type",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-report-2021-prominent-key-players-exploring-sales-volume-revenue-and-forecast-by-2027-2021-09-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-report-2021-prominent-key-players-exploring-sales-volume-revenue-and-forecast-by-2027-2021-09-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T20:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-anyone-can-download-an-autonomous-research-robot-from-the-air-force-research-laboratory.md",
       "title": "Anyone Can Download An Autonomous ‘Research Robot’ From The Air Force Research Laboratory",
       "excerpt": "In the fight to prevail over America’s adversaries by out-innovating them - a fight which has all the hallmarks of a Cold War despite President Biden’s assertions to the contrary - increasing the speed at which physical lab experiments can be done and iterated is vital.",
@@ -196,8 +344,8 @@
       "title": "BrainChip Goes Virtually Everywhere at AI Everywhere Forum 2021",
       "excerpt": "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology, today announced that Vice President of Worldwide Sales Rob Telson will present “Intelligent AI Everywhere” at the AI Everywhere Forum September 28 at 1:15 p.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-brainchip-holdings-ltd-5e8d200749cc445e8620e9cd9502b40e",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-brainchip-holdings-ltd-5e8d200749cc445e8620e9cd9502b40e",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-brainchip-holdings-ltd-5e8d200749cc445e8620e9cd9502b40e",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-brainchip-holdings-ltd-5e8d200749cc445e8620e9cd9502b40e",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1053,154 +1201,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-chinese-startup-mech-mind-robotics-banks-usd155-million-in-fundraiser.md",
-      "title": "Chinese Startup Mech-Mind Robotics Banks USD155 Million in Fundraiser",
-      "excerpt": "Mech-Mind Robotics, a Chinese industrial robotics startup, said it has secured CNY1 billion (USD155 million) in its latest funding round led by online services giant Meituan and venture capital firm IDG Capital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.yicaiglobal.com/news/chinese-startup-mech-mind-robotics-banks-usd155-million-in-fundraiser",
-      "originalUrl": "https://www.yicaiglobal.com/news/chinese-startup-mech-mind-robotics-banks-usd155-million-in-fundraiser",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img.yicaiglobal.com/cdn/news/chinese-startup-mech-mind-robotics-banks-usd155-million-in-fundraiser/16477161300426752.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T04:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yicai Global",
-        "domain": "yicaiglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning.md",
-      "title": "Preparing for the 'golden age' of artificial intelligence and machine learning",
-      "excerpt": "The latest ZDNet survey on AI actionability and accountability finds that IT teams are taking a direct lead, with most companies building in-house systems. However, oversight of AI-generated decisions is lagging.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/16/ac7869f1-2363-4269-a70c-ee49b6b9f6b2/resize/1200xauto/40a66bf643c6438a543924b6dd11d0e0/who-reviews-ai-or-ml-decisions.png",
-          "width": 1200,
-          "height": 721,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
-      "publishedDateTime": "2021-09-27T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-how-a-pet-subscription-startup-is-outfoxing-giants-like-chewy-and-amazon.md",
-      "title": "How a pet subscription startup is outfoxing giants like Chewy and Amazon",
-      "excerpt": "How do you build a subscription box business to rival major brands? PetFriendly, a startup that sells vet-quality flea & tick medication on a subscription model, has found success through personalization,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-a-pet-subscription-startup-is-outfoxing-giants-like-chewy-and-amazon/",
-      "originalUrl": "https://www.zdnet.com/article/how-a-pet-subscription-startup-is-outfoxing-giants-like-chewy-and-amazon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/24/a2d68c1a-71cd-4586-b855-19681a8742f9/resize/1200xauto/4e5c19dae51ada923f1f3e2d32cbfcec/dog-and-laptop.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-a-pet-subscription-startup-is-outfoxing-giants-like-chewy-and-amazon/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-a-pet-subscription-startup-is-outfoxing-giants-like-chewy-and-amazon/",
-      "publishedDateTime": "2021-09-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

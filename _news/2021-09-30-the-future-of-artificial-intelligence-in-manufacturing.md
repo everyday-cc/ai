@@ -85,6 +85,20 @@ related:
         width: 932
         height: 517
         isCached: true
+  - title: "EU is working on legislation on artificial intelligence"
+    excerpt: "Artificial intelligence solutions can be an opportunity to stimulate the economy and make a technological leap. On the other hand, they are also associated with threats, and there are already cases in Europe where artificial intelligence algorithms have been used in a way that raises legal doubts."
+    publishedDateTime: 2021-10-04T09:41:00Z
+    webUrl: "https://wbj.pl/eu-is-working-on-legislation-on-artificial-intelligence/post/132216"
+    type: article
+    provider:
+      name: Warsaw Business Journal
+      domain: wbj.pl
+    quality: 37
+    images:
+      - url: "https://wbj.pl/uploads/images/qd/615acc0819b2d.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "More Organizations Saving Time and Costs on Data Breaches with Automation and AI"
     excerpt: "Cost of a Data Breach report shows, AI and automation can reduce the cost of a data breach. See how organizations with AI security fared in 2021."
     publishedDateTime: 2021-10-01T17:30:00Z

@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon (AMZN) Boosts Robotics Efforts With Astro Launch"
-    excerpt: "Amazon AMZN ramps up its robotics initiatives by launching a home robot called Astro, which rolls around the house autonomously. Astro, which marks itself as the first domestic robot, is embedded with cameras,"
-    publishedDateTime: 2021-09-29T15:04:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazon-amzn-boosts-robotics-efforts-with-astro-launch-2021-09-29"
-    ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-boosts-robotics-efforts-with-astro-launch-2021-09-29?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-boosts-robotics-efforts-with-astro-launch-2021-09-29?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
   - title: "Amazon (AMZN) Bolsters AWS Portfolio With New Managed Service"
     excerpt: "Amazon’s AMZN cloud division, Amazon Web Services (“AWS”), has made its Amazon Managed Service for Prometheus, which is fully compatible with open-source Prometheus, generally available. Notably, the underlined service is a fully managed scalable and secured monitoring service,"
     publishedDateTime: 2021-09-30T15:19:00Z
@@ -51,6 +40,34 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "AWS Releases New Container Monitoring Service"
+    excerpt: "Amazon Managed Service for Prometheus is fully compatible with open-source Prometheus and provides the same familiar time series data model."
+    publishedDateTime: 2021-09-30T07:25:00Z
+    webUrl: "https://analyticsindiamag.com/aws-releases-new-container-monitoring-service/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/AIM-Illustration12-1.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
+  - title: "AWS Announces General Availability of Amazon Managed Service for Prometheus"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Managed Service for Prometheus, a scalable, secure, and highly available service that makes it easier for customers to monitor containerized applications."
+    publishedDateTime: 2021-09-29T21:04:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-amazoncom-inc-web-services-0089902c40cb4d9eae515700894c692a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 52
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "WFlN5soyFdU4PVYH/h3gqgIqJ4KVYf53FKaOTBHKBkaWS322k9ItwQoGJKH4aVoJKcPRqTZXv4Oo4f12bqCKNvglsElKtz+hDWu1Rh93YS9pSPkikTjKSU/7z0AE3OdR2gYgXCtF0gEbftu35WSFd6a8xF0SVh5XhTq2ActhjavNxcBbhxanndT2mM/h6H51mDDY9xSxaXlUhFUH9N7dtFa6OtKateIJ4g88HC7nh59zBLENbcwAhXlW/XjusNqhPInZYmgUmAOVkVEVSNVuCwbhl+LcUBSWPmjQDSvbV/cXK4z1YL2MJLoTUDStm77PYQqOr7EbJTSZxGe1+rKnrM4MlKzO9wVn1FaitaGphUbzVRzdEO8WM89fas8u8h77dYeYsSc2Tly9UZrsdYHzd3jrb0qRqA8IWskxOTwD+TnvprI3B6HcHWXLswSCz04aH0rhYmkDqEyG0UtduZhI0uiVNkvnKKfxFrTJe72Z60dqAaKKop6S3XoP/n9DNwn4yQC587cg5kpBqnVZAcltHw==;1zeRwm2B/HZmgF2vXm2fZA=="
 ---

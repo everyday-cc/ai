@@ -3,85 +3,24 @@ category: news
 title: "CT town at forefront of national debate over facial recognition tech"
 excerpt: "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning the use of facial recognition technology."
 publishedDateTime: 2021-09-21T16:44:00Z
-originalUrl: "https://www.registercitizen.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b"
-webUrl: "https://www.registercitizen.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b"
+originalUrl: "https://www.stamfordadvocate.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b&src=startpromo"
+webUrl: "https://www.stamfordadvocate.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b&src=startpromo"
 type: article
-quality: 41
-heat: -1
-published: false
 
 provider:
-  name: The Register Citizen
-  domain: registercitizen.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/20/22/56/21048234/18/rawImage.jpg"
+  - url: "https://s.hdnux.com/photos/01/20/22/56/21048234/21/rawImage.jpg"
     width: 2048
     height: 1536
     isCached: true
 
-related:
-  - title: "Confusion reigns over special pandemic recognition bonus"
-    excerpt: "A special recognition bonus is on the cards for those who shouldered the greatest burden during the pandemic. Politicians have been effusive in praising healthcare workers and others for their service but unions want those words translated into."
-    publishedDateTime: 2021-09-25T06:00:00Z
-    webUrl: "https://www.rte.ie/news/2021/0926/1248883-pandemic-dividend/"
-    ampWebUrl: "https://amp.rte.ie/amp/1248883/ "
-    cdnAmpWebUrl: "https://amp-rte-ie.cdn.ampproject.org/c/s/amp.rte.ie/amp/1248883/ "
-    type: article
-    provider:
-      name: RTE Online
-      domain: www.rte.ie
-    quality: 44
-    images:
-      - url: "https://img.rasset.ie/0015baca-642.jpg"
-        width: 642
-        height: 361
-        isCached: true
-  - title: "CT town at forefront of national debate over facial recognition tech"
-    excerpt: "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning governmental use of facial recognition technology."
-    publishedDateTime: 2021-09-21T18:13:00Z
-    webUrl: "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b"
-    type: article
-    provider:
-      name: New Haven Register
-      domain: nhregister.com
-    quality: 41
-    images:
-      - url: "https://s.hdnux.com/photos/01/20/22/56/21048234/21/rawImage.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
-  - title: "Concerns over facial recognition in roll-out of Garda body-cams"
-    excerpt: "The meeting heard from a number of concerned bodies regarding the proposed application of the bill, which was first announced last April"
-    publishedDateTime: 2021-09-22T05:30:00Z
-    webUrl: "https://www.irishexaminer.com/news/arid-40703369.html"
-    type: article
-    provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 39
-    images:
-      - url: "https://www.irishexaminer.com/cms_media/module_img/5319/2659796_6_googlediscover_Garda_20from_20Behind_20Generic_1_1_.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Facial recognition cannot be a standalone authentication method"
-    excerpt: "As more organisations look to facial recognition to improve their digital identity practices, they must remember that it cannot stand in isolation"
-    publishedDateTime: 2021-09-24T06:00:00Z
-    webUrl: "https://www.computerweekly.com/opinion/Facial-recognition-cannot-be-a-standalone-authentication-method"
-    ampWebUrl: "https://www.computerweekly.com/opinion/Facial-recognition-cannot-be-a-standalone-authentication-method?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/Facial-recognition-cannot-be-a-standalone-authentication-method?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
-
-secured: "Q9KLWB9vb0zxXJzMHcbQwKxed5NSmVWNcpWekHf4md7Tv4uo17c/7H8bpW7liygHOopjIkE7PmHWa1uBB5X+XvPhww3iKYXOSIJVohhc7M4NQ/uS/tE78IeEhZtR3OCqCA+F/qaX19gQ6mUFdh1k/JBtI/1DKQoS0m3V+N2s8O9AkcXXyaKBFpu/YW5S+LmKBG7lff42WSqXoT4CBHkfaRT6TuDmy6f1S672bJlu9zW33+qpNVCwAX8MBfTc68nfhNdpwZ2SkRMzSnxOmOXky872W/qFqPjP2Qlbm7yriBrwIBXfUX/aPKkhLHGahKY7gn8fw81cO+yhD6d5MBFiyX8W+vy3QEYpHO8w1tFEJ0YudSKXMbeDAsINaQVWUD48EuvcjNoF9Iha1GRFIMwlIpqFYksWzWHZcgbSpRu0xnBplCTWRVJBlfV8c7iNozdMZNeUWdaLxyHBncWUxZ3greL++oKZc8ZnwglqckhuvW6WI/8BCurcIpv8axefuFHW7lJa0vBzSsB4N2pOYlVSwQ==;Lo06fL4qXT5P9qynRze2Ng=="
+secured: "PcYJX5ZQcu80mCjL1pH9AsUoG3fe4vixAFl+PcvKn0zUHrl8rw2XggqErs58HO7b21fuKin32l9Ga2XL57X+u+LfR/tY2/UXwXmciC9KHYad520SzDX/M/RXawrXkKe+r3arS+loSG9BCpj3e20peLu1/eJP7LRXwVoTCDwTPU9pJ7ew8a5OiLgbEHs2Lz9MLkPljCtVJCgZiaEPsId/kB8NKeWZ+2FtIS41wkVswWbSg7KQbI95DaI9EmVWDEYPebl7/bNLx7fs2xRsF368AlvlsSZ7kKm334Zn4jw3Hc+S6qutLGJhS+52zIaqoDRfOmEActrChNtLpUCtFpl8OdVcbzv0bxBEf2HRMrAr4oU=;r602PtMvw9VjFxlRdiUSzQ=="
 ---
 

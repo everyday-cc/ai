@@ -44,20 +44,6 @@ related:
         width: 679
         height: 387
         isCached: true
-  - title: "Beyond Codes signs 7 AI product companies"
-    excerpt: "A global Lead Generation company, Beyond Codes is assisting some of the fastest growing IT companies to expand their market reach through B2B appointment setting, Account Based Marketing and Events & Webinars."
-    publishedDateTime: 2021-09-29T15:31:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-943fb4476b84f2330cbc820c5eefb8fb"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "6cCtP3DNLL3FIHT6utWgnHMtOFcQXR6eyEuzg8RXAR+SfzPDB3iNpg6S9shMMx4UmZgvnBXE6tf04DEiRsI1K/WqIS5UvTc7smlUmAKTvQorcUXLxyeYdGZ9G9p0nQp4RZozzLd+4JlIjZMGmR8qdn++hOapCy6CtWJ9TwQLp5f53TYOcoWXWMajwRfV71Txn745g9rTp9353ht87RbXIY/VCIeQsAnxuzAxY0tUAAaIk86jy1KCJUsJJesE+KEbzHOYUGwvqSZvDKlCR6fc9ZeB/p+OPO9ueBQzDKHzDzcFppPeUyBrXAwak6GXhoFMGWJ2dcMDhgorNRpb8kPxdznWkiLW8/NCKr3lpuX2k7qEPhN82NW0zrZGLaDqcmXntpwgPoYc7Tauti1l/pjiE2hcoI25R8Fl0/drPmVtAPo6QnHSQ2gWXWbsb3usQFqO+dfwSONNGMt5mR26cwuHLLzxxGW4fezSrAuAcEhwzvj96tF6XHzz1P/iVv5e9Epa9cqlICxG7hF4SCogVzVSrA==;5AH20TJQOakQ2AItZMZ84g=="
 ---

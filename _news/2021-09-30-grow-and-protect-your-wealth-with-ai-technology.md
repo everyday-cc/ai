@@ -7,7 +7,7 @@ originalUrl: "https://gulfnews.com/business/grow-and-protect-your-wealth-with-ai
 webUrl: "https://gulfnews.com/business/grow-and-protect-your-wealth-with-ai-technology-1.1633005760082"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,67 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered meeting plugin Read AI emerges from stealth with $10M"
-    excerpt: "Read AI, a company developing a platform to analyze virtual meetings, has emerged from stealth with $10 million in venture capital."
-    publishedDateTime: 2021-09-29T15:30:00Z
-    webUrl: "https://venturebeat.com/2021/09/29/ai-powered-meeting-plugin-read-ai-emerges-from-stealth-with-10m/"
-    ampWebUrl: "https://venturebeat.com/2021/09/29/ai-powered-meeting-plugin-read-ai-emerges-from-stealth-with-10m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/ai-powered-meeting-plugin-read-ai-emerges-from-stealth-with-10m/amp/"
+  - title: "Stimul.ai: Health-tech start-up with an AI cure for hospital waiting lists"
+    excerpt: "Cork start-up Stimul.ai is leveraging Ireland’s greatest AI expertise to find a solution for a worsening healthcare problem."
+    publishedDateTime: 2021-10-04T06:00:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/stimul-ai-health-tech-cork-hospital-waiting-lists"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 35
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/remote_workforce.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "BGV closes fourth fund with $110M aimed at immigrant enterprise AI, cross-border startups"
-    excerpt: "Silicon Valley-based venture capital (VC) firm Benhamou Global Ventures, known as BGV, closed its fourth fund with $110 million to support global enterprise companies. The new fund is 60% larger than its third fund and will be invested similarly,"
-    publishedDateTime: 2021-09-30T13:30:00Z
-    webUrl: "https://techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/"
-    ampWebUrl: "https://techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 80
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1152284190.jpg?w=1024"
-        width: 1024
-        height: 655
-        isCached: true
-  - title: "Read AI raises $10M, creates virtual meeting dashboard to show you when you talk too much"
-    excerpt: "Read AI wants all meeting goers to be engaged and feel productive, and it has developed a real-time shared dashboard to alert meeting participants when things are going well or not so well. The Seattle-based company emerged from stealth mode Wednesday with its first financing,"
-    publishedDateTime: 2021-09-29T15:30:00Z
-    webUrl: "https://techcrunch.com/2021/09/29/read-ai-raises-10m-creates-virtual-meeting-dashboard-to-show-you-when-you-talk-too-much/"
-    ampWebUrl: "https://techcrunch.com/2021/09/29/read-ai-raises-10m-creates-virtual-meeting-dashboard-to-show-you-when-you-talk-too-much/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/29/read-ai-raises-10m-creates-virtual-meeting-dashboard-to-show-you-when-you-talk-too-much/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 78
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1218040751.jpg?w=1024"
-        width: 1024
-        height: 833
-        isCached: true
-  - title: "U of North Texas hospital to lead $100M healthcare AI program"
-    excerpt: "The University of North Texas Health Science Center is launching a $100 million project to increase diversity in healthcare artificial intelligence, according to an Oct. 1 Fort Worth Star-Telegram report."
-    publishedDateTime: 2021-10-01T18:55:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/u-of-north-texas-hospital-to-lead-100m-healthcare-ai-program.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
-        width: 400
-        height: 300
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/10/Naomh_McElhatton_CEO_Barry_O_Sullivan_CAIO.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "pwJYZRcNuKLUOYWEzUfjv3oyQjPzwuXyW4MNLS/odSZjeQPaNllEo0gQ+TztDPh1s5Pt3Ve++/Pv0sqaPelLewPamRwdWG9VuevNgK8fE6RxwDFwt+WftTcvJlpBm9y2dG2utZHyj3K75KNP9ppm7s2mkM/gqwnZetAEIv8T0yyhuvJoeIIUOYB6YAy38Jt40e2pvaX5+7ckWWC9cM+S2W0o7QXZn6JffHv8IRRIMoBFdPCMzOXRAQjmFzmRZhLkCK3zpSba7obj6yLPv9uinEmoD3ECK1exQIsHo4uRFPYeTjWEkuu81oBx/x1R+CwyVdfMZKryDNAbTbyd83XabSgjYQ9fd8rvoyVEsUyrnj4=;JzAzJQLs0YfqTTjjXrVlOA=="

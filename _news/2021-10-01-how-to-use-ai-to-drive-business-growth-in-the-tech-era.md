@@ -54,22 +54,6 @@ related:
         width: 443
         height: 613
         isCached: true
-  - title: "Responsible artificial intelligence means responsible use"
-    excerpt: "This is akin to expecting a car to be responsible as opposed to its driver. Instead, it comes down to the responsible use of AI. There are four main reasons why organisations need to examine this issue."
-    publishedDateTime: 2021-09-29T15:40:00Z
-    webUrl: "https://mg.co.za/opinion/2021-09-29-responsible-artificial-intelligence-means-responsible-use/"
-    ampWebUrl: "https://mg.co.za/opinion/2021-09-29-responsible-artificial-intelligence-means-responsible-use/?amp"
-    cdnAmpWebUrl: "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/opinion/2021-09-29-responsible-artificial-intelligence-means-responsible-use/?amp"
-    type: article
-    provider:
-      name: mg.co.za
-      domain: mg.co.za
-    quality: 57
-    images:
-      - url: "https://media.mg.co.za/wp-media/2020/03/a44e475b-artificialintelligence.jpeg"
-        width: 696
-        height: 445
-        isCached: true
   - title: "Kai-Fu Lee — The Future of Artificial Intelligence"
     excerpt: "The extraordinary opportunities—and challenges—presented by artificial intelligence are at the heart of Kai-Fu Lee's new book, AI 2041: Ten Visions for Our Future, a \"scientific fiction\" that sketches 10 possible AI-driven futures that are within the realm of the scientifically possible."
     publishedDateTime: 2021-10-02T05:47:00Z

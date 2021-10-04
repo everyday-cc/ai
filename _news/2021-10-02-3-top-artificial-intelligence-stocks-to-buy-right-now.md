@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/10/02/3-top-artificial-intel
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/10/02/3-top-artificial-intelligence-stocks-buy-right-now/"
 type: article
 quality: 87
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The 3 Best AI Stocks To Buy for Massive Upside Potential"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Many companies have benefited from their application of AI. But these three AI"
-    publishedDateTime: 2021-09-29T16:03:00Z
-    webUrl: "https://www.entrepreneur.com/article/388408"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/providers/investorplace/hero-image-investorplace-388408.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Can AI Beat the Market? 10 Stocks to Watch"
     excerpt: "Traditionally, powerful artificial intelligence systems – and the high-octane brain power needed to develop and operate them – that target stocks to watch have been available only to institutional investors."
     publishedDateTime: 2021-09-29T17:33:00Z

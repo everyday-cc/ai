@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-20022824.html"
 webUrl: "https://www.lelezard.com/en/news-20022824.html"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Worldwide Natural Language Processing Industry to 2025 - Growing Investments in the Healthcare Industry to Implement NLP Presents Opportunities - Rese"
-    excerpt: "The \"Natural Language Processing Market Research Report by Industry, by Type, by Technology, by Application, by Region - Global Forecast to 2025 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-09-29T15:29:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=538814"
+  - title: "Voice Assistant Application Market worth $11.2 billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to a research report \"Voice Assistant Application Market with COVID-19 Impact by Component, Deployment Mode, Organization"
+    publishedDateTime: 2021-10-01T14:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/voice-assistant-application-market-worth-11-2-billion-by-2026--exclusive-report-by-marketsandmarkets-301389633.html"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 31
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 8
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
         isCached: true
 
 secured: "3tYJibBF/i45ZyOXrWCWzWq6WXuaGZBUfj+HJHn0FUGPSAXnwjnGCu3HKWMWE2Od0og8N8G9pMh42JNKR9nt2QENX0p+gvOLHA8VdD+fHbqkuf6bairk+JpfixsDgBJYVwJEWTT7iBD8gSSlUZBXFCWxSD0nBS6aILf8miPQw8jT/IYmifqFD5R06NyyMaKE+Mh+1VTc0eo4CE0mAL/LCBM/wHLPN65TmVEetZtogLJBSTizzlH/JyUBBN5JupdV+Ew0Ri7hhnp1Iin1MEC6RHfCjhRQEopimln6URN0qH1ulN6aAX34wNbDuRddlEevKqi5/qb62purvpwPDtYDIhKxP3U1+avpdeMDGUQMSC4=;At2uKze8OjCMusraGEtEHQ=="

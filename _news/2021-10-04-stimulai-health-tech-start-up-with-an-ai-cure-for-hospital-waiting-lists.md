@@ -7,7 +7,7 @@ originalUrl: "https://www.siliconrepublic.com/start-ups/stimul-ai-health-tech-co
 webUrl: "https://www.siliconrepublic.com/start-ups/stimul-ai-health-tech-cork-hospital-waiting-lists"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     height: 600
     isCached: true
 
-secured: "OSTCe49yEvy4ioG9HVI9AeQxPJv0ilq3MbabY/rNDjv/3UAM6rjLO+SjrdV3RwBfmrO5tqOAScdI8Wl4NciADgUiW0NDjyB+zTeN3ZkzrIsSUdNaQWiU81ZNcM2fz0NGgJwnhJ9nLi9qu0f3d3hnkAwgqTLkUYxRaemn2UK8uWANiR6gDCHJra3AhHsqltGz9ef/4VuCKefo1pSnbJVb0eHbZj1MW2l2NhjTn5aROHkvTIjcY2q+/YktLWTme4EwOnMnkRptA/eok3xXQksnaaLRV0twxQQsz9n16af46R2eX3iyVjidsLq6Bq1m354hXUqeL+rL+JgdmR56UXtmPidc6G/iHzT1HHpBW2wloEw=;OI5a4y3SJ3GPYJm150eXNw=="
+related:
+  - title: "Grow and protect your wealth with AI technology"
+    excerpt: "Some popular stock indices include: l The Nasdaq 100, the top 100 technology companies listed on the Nasdaq by market cap. l The S&P 500, the 500 biggest companies on the New York Stock Exchange by market cap."
+    publishedDateTime: 2021-09-30T12:45:00Z
+    webUrl: "https://gulfnews.com/business/grow-and-protect-your-wealth-with-ai-technology-1.1633005760082"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 39
+    images:
+      - url: "https://imagevars.gulfnews.com/2021/09/30/Stock-Hunt_17c36bc2396_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
+
+secured: "5h3Np7Gmv9TChdemMohSD4aMF4Tt/vrxhnqzK3x+EUQ+bGWsrRviWWfMXcepPcPLFKneKiK+nYPAhITG07KBni6SxXqHej8OM6+l5HfAFoaI6Gf8fzXAYDjxRKKzGN7BY8UQtXMMNljz5fyj416KPF1taA3DZipFUq9nUr7j36lLL0SNwGCrCFEWDf8233cKCpGLILg8Uva/6qNNInNMsZ70sRrj4BPfycM/JL+DFVwBke3wgxbNdgFQZrWSrxGS8W9fXJ8ggcHoVTzthz8qiB5RMbz38+rAZ9J86arh0u7oM8dSOszyME6gwhLmJZ60n2VwQnPbWRoEQ+AmrsK+1bXFvJsAKuxv/YYZhIbtQC/7aZybGF9FnklCKfbFjaWcVUea6fgnoVUsPmmVRbhvfrq1uY8kQNkT/gQ0Ko+qdLk1LdqVzJXiCvkE7aq/zAF3eYJVOvg2cKg51UwQSFoew1Ujzkd8tXl1vrju6/LVYaC3U/81j5NO77myKSxnItFDcNtW4JyfPDyfkbtSJ017sA==;tfWqCp6RX6hFJIdUPbhp+A=="
 ---
 

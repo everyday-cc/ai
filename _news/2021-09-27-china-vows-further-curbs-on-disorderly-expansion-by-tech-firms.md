@@ -1,26 +1,26 @@
 ---
 category: news
-title: "China Vows Further Curbs on ‘Disorderly Expansion’ by Tech Firms"
-excerpt: "Sheng also listed self-driving vehicles and platform economies as areas that ... Regulation of shared economy or smart delivery applications could impact Meituan, for instance, while Baidu Inc. has worked on autonomous driving and Alibaba Health ..."
-publishedDateTime: 2021-09-27T08:56:00Z
-originalUrl: "https://www.bloombergquint.com/business/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms"
-webUrl: "https://www.bloombergquint.com/business/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms"
+title: "China vows further curbs on 'disorderly expansion' by tech firms"
+excerpt: "Mr Sheng also listed self-driving vehicles and platform economies as ... or smart delivery applications could impact Meituan, for instance, while Baidu has worked on autonomous driving and Alibaba Health Information Technology and JD Health International ..."
+publishedDateTime: 2021-09-27T09:13:00Z
+originalUrl: "https://www.straitstimes.com/asia/east-asia/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms"
+webUrl: "https://www.straitstimes.com/asia/east-asia/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms"
 type: article
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: The Straits Times
+  domain: straitstimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-    width: 1200
-    height: 630
+  - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/09/27/mi_apollocar_270921.jpg?itok=XN4SxYfp"
+    width: 763
+    height: 509
     isCached: true
 
-secured: "93Jq2/7E/UdE5GcuNXsdH8VeS4YU0P+wwet2zDoeW5me+fNNGa4Bxn2b3821MSmHGBSLwuoceEDjmQbuED35VF4ySFZcbU3lGdBQ5SUPvXkO+dxi7FxTkR8pvs1j+PLiRtENYM2glV+keIpuCoWFUPPGHUE0J4/d6wysokC61Yh/Oh9GwBZe2HgDQheBk8lGK8xZgasGvYkmw1AE1D2rei5h/7Lg18OBBGdyqBTdojxJ4YN+PQby4bmcwml3Io8VNXG79RXQUMoQzKGdu7QRDpaEgjcK0rSMsXIh3IVgXiev3eysEvdsiXKGyv87zy2WmF4Ga9Uet/V3UlAP/ZulJAvzukAW/eHQgi+KYTUqjmA=;yk4ncu2qfDynl9p0Z2bcFg=="
+secured: "pmRItL6DA30GPJG7ERr2Hr3NIpLL69DEDaliGaTOx4LLbri/1HK7NNyE14JYD35ARw/PMTXrgxRymynx7D2ajNHSM+hKzMtaRMvPE370AHITZQIDf8ciwPk2+sFTLsOoAqa7fEwBlV5FCHkRtjwwY6Au+5KcfLbBVjrGkN1oGFy3PlNEJacXNPuP2dKer77OaNM+fUWyQ1EP+XZ+DUPY2gHmn4DYl299as3J11XGWVQpn0Mdb8IKy4dtMULj/C+bBLoAOaI7IyY101H8azjH0HB2Wu6MESOk/hELA4g7EQhBWmw4+9TBGl1OdZkG+rEGm9dorvF9WqP9e7KTUhkWrb563bxToQDjCFQIBYbmK4I=;U9rtfoCkcmuEi5G6UPXnAQ=="
 ---
 

@@ -26,22 +26,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Roster of care team photos, roles improved patient recognition, experience"
-    excerpt: "Offering patients a roster of clinicians on their care team increased recognition of each clinician's name and face during their treatment period, something patients also reported as highly significant to their care,"
-    publishedDateTime: 2021-09-29T15:46:00Z
-    webUrl: "https://medicalxpress.com/news/2021-09-roster-team-photos-roles-patient.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 22
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/10-patient.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
-
 secured: "qcsKpdgj4d4G1gpVJPInLyGS1BEObhI4yV70cSmPMFr/NE5F4pPu7HbsPamLvkO0n8shSQddOwxEMMl/J8mZkxNoidxANIDQ1kith5uMWVknXqOyj2YfWF8kf0bBLy0h3oYQ2oAG5RcK3jpWvgjUgq6Re/lUOgnBiJ7qGfZ0T/cxgBdMJFySX1OZqoVNdtg/OHTqM9nD4TjHjug6PgBmZEErc8cFPW1YMsyV5Fb0jmRcHBmZg5Z7Xtl+r1A1vLU4RADDNPq3vr/tbjbFxgQP9DirhAouo3dhEuyyOqcB9Z/KEkqZ0SlzT+25J7aX2RZxQJeHmhB+AgMlY8QSxmW6URMaDOhcKF+p/qmk3bkUlFBC8CFpNRmotfwzwLyrKV+QSuz94NUb2FHCmoay26ganQFTYsRDguveJe31p9uj/GhjmBg5LCGAfinlpZxYe1r4Wenb8HfrAhEN7UW4F9F766x7PTk7LtSBgzgAQW+z2pQD8bNJty53zAz3+eWBr0jpzPTbCzKnEEGBYpSCKoua6A==;hJlV0Su0yB/IelAMkATEMQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2021/09/samsung-will-create-chips-for-tesl
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/09/samsung-will-create-chips-for-teslas-next-gen-self-driving-computer/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -74,22 +74,6 @@ related:
       - url: "https://wonderfulengineering.com/wp-content/uploads/2021/09/1200x630.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "If You Want to Test Tesla’s New Self-Driving Software, You May Have to Sign an NDA"
-    excerpt: "Tesla is requiring some of its self-driving software testers to sign nondisclosure agreements before receiving the upgrade. What gives?"
-    publishedDateTime: 2021-09-29T15:57:00Z
-    webUrl: "https://www.barrons.com/articles/if-you-want-to-test-teslas-new-self-driving-software-you-may-have-to-sign-an-nda-51632931026"
-    ampWebUrl: "https://www.barrons.com/amp/articles/if-you-want-to-test-teslas-new-self-driving-software-you-may-have-to-sign-an-nda-51632931026"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/if-you-want-to-test-teslas-new-self-driving-software-you-may-have-to-sign-an-nda-51632931026"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 53
-    images:
-      - url: "https://images.barrons.com/im-403553/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "See how Tesla's 'full self-driving' mode works"
     excerpt: "Despite concerns from regulators,Tesla is rolling out its autonomous driving feature to some owners who can prove they are safe drivers."

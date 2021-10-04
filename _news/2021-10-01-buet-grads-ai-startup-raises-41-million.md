@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thedailystar.net/tech-startup/news/buet-grads-ai-startup
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/buet-grads-ai-startup-raises-41-million-2187806?amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 23
-  - title: "Amazon-backed microphone startup Vesper raises $18 million"
-    excerpt: "Vesper, a Boston-based smart microphone which Amazon has repeatedly invested in, has raised another $18 million."
-    publishedDateTime: 2021-09-29T16:00:00Z
-    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2021/09/29/vesper-microphones-funding.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "RwMJq14vYOKPTniG802NrMOsw9SsTKMzpzMIxcpVqlN8SDXjvu2YdUCTw7sPlT4LD3BLIQ0TGiZgKSoDqb8/H/6sxst63l/OdJePqS6Dw2ebSGrdhInyZ+niJFXxogHJkKhu0aqkl2p1PUnEXQsvLot1B7jlMCdE6HMsa8a12MYmVi1F0q2pA/rgsZE2Ys3XJRXDAaawCmtmc0iU6nqKwo7M1qLq+itdvwtosjignsdYzqkFokcx+4eJXrZaAEIxRTBoyG+/1hfhQDv35Wnquo57kT24xaFOrgIss/LiH+PzF3gj1KokVPu6VOPvHkLXY716smy6ozFj7Hzpq0EyuS2/bKDiclUIc/gdlB1JcyWGctY7+7e4z98Y9Gp7d9v+469TqAn4fD75OF8lGdoypOtX/q06mibPHDG8CDfFkE1qM2EjHQhtMSxKijA6oleSJqWzbJ+eiWpVW2OazOnCSFb52FrwLtLhvOrjmz9vAMlVA0jhReSvMVeErvUCE2RAucK45U3zKSV7908eiwZGyg==;C8fJ7HoIW3oZYNuZPbYJoA=="
 ---

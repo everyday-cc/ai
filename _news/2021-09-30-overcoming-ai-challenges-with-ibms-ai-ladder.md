@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/overcoming-ai-challenges-ibms-ladde
 webUrl: "https://www.linkedin.com/pulse/overcoming-ai-challenges-ibms-ladder-bernard-marr"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 1152
     height: 720
     isCached: true
-
-related:
-  - title: "To Combat Bias in Advertising, IBM Is Enlisting AI's Help"
-    excerpt: "With an arsenal of data scientists, IBM is not aiming for small goals. They have their eyes on the big prize, demonstrated by one of their recent initiatives: addressing bias in advertising. Spearheading that drive is Randi Stipes,"
-    publishedDateTime: 2021-09-29T15:05:00Z
-    webUrl: "https://www.adweek.com/inside-the-brand/to-combat-bias-in-advertising-ibm-is-enlisting-ais-help/"
-    ampWebUrl: "https://www.adweek.com/inside-the-brand/to-combat-bias-in-advertising-ibm-is-enlisting-ais-help/amp/"
-    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/inside-the-brand/to-combat-bias-in-advertising-ibm-is-enlisting-ais-help/amp/"
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 59
-    images:
-      - url: "https://www.adweek.com/wp-content/uploads/2020/12/MasterclassSocialUnits_Empowering_1200x630-3-1000x525-1-1-652x367.jpg"
-        width: 652
-        height: 367
-        isCached: true
 
 secured: "45KDj4v2xGR7C1RRhv7N1yblyIq0whFDTXACQkqhSm8WS6KHCHSeNo2PxCxlwYomBoYBNbNK/nAg9p5OWiTnnaeLS/2/+TYpgDB8J2dBgLo/a5qRuSpwnwU41K/TVDhJPXp0MLd1VcLV1lTUNjw9UPQ3iWbtt7f2fEErebwyKZJ1rMvF8/vkRqQ4w3dUPwOHoMrNRMbMkW8Yp6sYVRo30ZzF0Y2qyocRpICCA7lfOQjaUxJ/wKedrTka0aEq6U1lsblIc18seCvdH5u2Esx+ekJVe8K1hcsWC9LY/T2UVO/7l+rMpe/cUMtgicak5px6wpYveR/ZIMIUYjSNZbBejPsBxk874iu01A5DJ3+bBOC63laSaEzVM15dXFqv3xDZfUO6vmZ92dm+Zojj+kX4Q5RGSkVJueqYyjMWePlBLi3i89Vl7iqIm2UP2PuVMXMPQphZsZn1Iafi7GZAoEyopSp2TBSEqwdxs06Q8mk6lrs+ahGrJ0EFPMpajm2v+SO6Y66H3W+vT6Jkt+P8p5wlXQ==;XA4L+cS9gCEfeRbgq++Gsw=="
 ---

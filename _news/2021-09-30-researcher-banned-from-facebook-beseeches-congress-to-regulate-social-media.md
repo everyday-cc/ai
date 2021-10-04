@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/nyu-researcher-banned-from-facebook-ur
 webUrl: "https://thenextweb.com/news/nyu-researcher-banned-from-facebook-urges-congress-to-enforce-social-media-transparency"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Gen Z Responds, Demands More From Facebook and Big Socials"
-    excerpt: "Digital natives, tired of being the guinea pig for big social media companies, are taking their message to the global stage at the Youth 4 Youth iSummit , October 14-17th, 2021. Hosted by LookUp.live ,"
-    publishedDateTime: 2021-10-01T04:41:00Z
-    webUrl: "https://menafn.com/1102897419/Gen-Z-Responds-Demands-More-From-Facebook-and-Big-Socials"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2021-09/30/ND_1d11eimage_story.png"
-        width: 1070
-        height: 553
-        isCached: true
 
 secured: "PKYtjwiCNzvqcKhYgX/xiEWXZUOKgksx5HcdPvSYIN/0hSZTVZMF3ACiKfGC2cK0j8vxqCu0voy9XbEVVvat0yT9tVd8sbQVh0DHgLInVoJKQmcK8z1F232kRN6qR5EI7Ybk2Y5QziiAyuREM+cWfdiyF1fFyzXKbrm4yrPANYXgjR3klJwIRqxAcqqEx5huoFeo7k+YCtUp9WNnFb7yiNQpVEUIbBCW/rkMAvJgV/7Ovm2BnsB+YMTW5DGxjhsEu660ZUtC3gu61A8kPr3V+wBAt12sXYgmT2E+0l/1wwvrMcKAnD7zG3VmwP0NBvu/NQThwvdeJBnQsUTAibYgBgeANb9WDcbX3RUr+kokv4pKVHdK2osTZ2jxhlCOXDCaXQS2Im4GWuw9HGhTm3bYuesYAwVG+2g3PAvd06aDmqQ5X9c0UwgDpqHi9e/KzBD85Dn/fWTvr/Nst+hplzFGZoosNgG1qDWLzo7iizGPj1bpLsotM4xSqzwsAUrHoMxLHDjCuQAivhgzASuVPWHF/A==;YwS0a2Zlw5zw3slXnXhQuQ=="
 ---

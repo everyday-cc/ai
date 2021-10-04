@@ -54,22 +54,6 @@ related:
         width: 443
         height: 613
         isCached: true
-  - title: "Responsible artificial intelligence means responsible use"
-    excerpt: "This is akin to expecting a car to be responsible as opposed to its driver. Instead, it comes down to the responsible use of AI. There are four main reasons why organisations need to examine this issue."
-    publishedDateTime: 2021-09-29T15:40:00Z
-    webUrl: "https://mg.co.za/opinion/2021-09-29-responsible-artificial-intelligence-means-responsible-use/"
-    ampWebUrl: "https://mg.co.za/opinion/2021-09-29-responsible-artificial-intelligence-means-responsible-use/?amp"
-    cdnAmpWebUrl: "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/opinion/2021-09-29-responsible-artificial-intelligence-means-responsible-use/?amp"
-    type: article
-    provider:
-      name: mg.co.za
-      domain: mg.co.za
-    quality: 57
-    images:
-      - url: "https://media.mg.co.za/wp-media/2020/03/a44e475b-artificialintelligence.jpeg"
-        width: 696
-        height: 445
-        isCached: true
   - title: "How to Use AI to Drive Business Growth in the Tech Era"
     excerpt: "AI allows for that. And from the looks of things, that will be nearly half of all US-based businesses within the next 12 months. However, even though the capabilities are there, it’s largely untapped potential."
     publishedDateTime: 2021-10-01T13:30:00Z

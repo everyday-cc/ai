@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/29/google-is-redesigning-search-using
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/29/google-is-redesigning-search-using-a-i-technologies-and-new-features/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FGoogle-search-hed.jpg&signature=281c56c07399e375ba57b374aeca8acd"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Beyond Codes signs 7 AI product companies"
-    excerpt: "A global Lead Generation company, Beyond Codes is assisting some of the fastest growing IT companies to expand their market reach through B2B appointment setting, Account Based Marketing and Events & Webinars."
-    publishedDateTime: 2021-09-29T15:31:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-943fb4476b84f2330cbc820c5eefb8fb"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "VaqI9k2aA0rW4nTKZpqoj2LrjPAB8TIQGxB3c4XzGM7e9/VxfCsfURdTaBWD2+My8Q1tldf/g+rjwymfcsZCUWMrsIaruWZBlHRaXS7uyf1OhnJaZkvweChopTy/NjeGuxf2fWZpM5ZKJelKa57ChRlrxMPcXj3Mw5QnaTJkAXPPCFas+bOzeccI4qUXK1OIdkYp6bbF4pbKLiHi+ksnVSqO7TRmGIbqpXHyjidTBP1q/9TxQbDDRRHqCf2eRcOIeklyQOk5iA/pn1Dty9SXvA2IU3iIlbBbRdOu9xzLD1ZS0gJW+3tubQherpvsNT0lRiKnM21eOqE+s97oBOgcwHCvNk3NuECPfoNif8VKL93QpH6+vepcy5c0nhbZvauj+mDIx98IitsazB3FR0vlLUbsN0F9kw0e6fcIXUnwKQ4MqDtj3eDuGiPiM9N4WLTElrCzLTpvA5wmeDR6BWmePh7sFwPyaq7XZaYZXQgCJYHrqDXB3XPKWjE8SD61kWDwayV/1SDicJPlDfg87mclDw==;RFD7HYj4k/40rBQkiPK4fw=="

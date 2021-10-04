@@ -89,22 +89,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "If You Want to Test Tesla’s New Self-Driving Software, You May Have to Sign an NDA"
-    excerpt: "Tesla is requiring some of its self-driving software testers to sign nondisclosure agreements before receiving the upgrade. What gives?"
-    publishedDateTime: 2021-09-29T15:57:00Z
-    webUrl: "https://www.barrons.com/articles/if-you-want-to-test-teslas-new-self-driving-software-you-may-have-to-sign-an-nda-51632931026"
-    ampWebUrl: "https://www.barrons.com/amp/articles/if-you-want-to-test-teslas-new-self-driving-software-you-may-have-to-sign-an-nda-51632931026"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/if-you-want-to-test-teslas-new-self-driving-software-you-may-have-to-sign-an-nda-51632931026"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 53
-    images:
-      - url: "https://images.barrons.com/im-403553/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "2ZkUh2ycNypt1jKIr59etRg0wRfHmVEGkgpdEVxrbOKhUqK/y5DbhdXhs8i5oTq9lbg7Knf86TByp6sDimxqIZ09gROdl8advsVbSxC/wWf0vcgKtANnGqF2D0MxVWxwtEOnImAOeViSebLHIVkVhAyAlVQ8y7OO8RiSIaVa63MC1uoTmBVtweCT3fQ/w4WyaSUus1w2oCiLdMQWyJeydvn9dI3in8Zfzb5PJTB2c/f3u1A19PhsOj9px3d5fXdCYeJEFquJrNIiuaCLi6GBaoU2dIoSFiHBWMyzzpCIXD9riH7t83zMmIs9kBqp7bwh+3yJUbk8+xrJDb0vTvV18EzLL5Kiz8W8s8YeV2bRZsrqgHaRh3wpAfrdeQ2GARBNiwdxS0zzLAj+xfhPUnQRW8SbiJIaF5hKOY4TbeFPeIf4eqTrTH/KCJAVpfBZrgqtXp/W8uTcfFHUb+jbIU6Cqe+ZP4p+UgVEMHuUmTKAGgeSqMtIGL1YZ9a+6ibspYiDoJ1NnVyz+eN6TruzdeV3Mg==;XMfFjYdctngEU7eTUvNG3Q=="
 ---

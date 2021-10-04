@@ -59,38 +59,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "DeepMind AI can accurately predict if it will rain in next 90 minutes"
-    excerpt: "AI software developed by DeepMind and the Met Office in the UK can predict whether it will rain within 90 minutes more accurately than current forecasting models"
-    publishedDateTime: 2021-09-29T15:12:00Z
-    webUrl: "https://www.newscientist.com/article/2291652-deepmind-ai-can-accurately-predict-if-it-will-rain-in-next-90-minutes/"
-    ampWebUrl: "https://www.newscientist.com/article/2291652-deepmind-ai-can-accurately-predict-if-it-will-rain-in-next-90-minutes/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2291652-deepmind-ai-can-accurately-predict-if-it-will-rain-in-next-90-minutes/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 74
-    images:
-      - url: "https://www.newscientist.com/build/images/barrier/barrier-digital.7276f163.png"
-        width: 483
-        height: 400
-        isCached: true
-  - title: "DeepMind and UK’s Met Office use AI to improve weather forecasts"
-    excerpt: "Artificial intelligence improves the accuracy of short-term weather forecasts and particularly the prediction of storms and heavy rain, according to research by the UK Meteorological Office and DeepMind,"
-    publishedDateTime: 2021-09-29T15:05:00Z
-    webUrl: "https://www.ft.com/content/602235aa-7039-472a-80cf-55fa3519ea06"
-    ampWebUrl: "https://amp.ft.com/content/602235aa-7039-472a-80cf-55fa3519ea06"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/602235aa-7039-472a-80cf-55fa3519ea06"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 74
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F86022834-531d-4a99-9d60-a81920b15e1c.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Using deep generative radar models to predict rainfall over following 90 minutes"
     excerpt: "A team of researchers at Google's DeepMind, working with a group at the U.K.s Met Office, has applied their knowledge of deep learning methods to the science of \"nowcasting\"—predicting whether it will rain in a given place in the following two hours."
     publishedDateTime: 2021-09-30T15:00:00Z
@@ -189,6 +157,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "4ikXjpIeyHoKpdXtnfcU6FuouLIdj0THzRdr8+qJcwi517Ne4djblHWw4iSzZrFD1kqVkTC9Ky+3jmG5SQtHZryMU0aHOLidiHWBObeoqTUJy89kXsk+9lpFXQekihW7Kx0PXfDgDnl0afjZGHKDxzkw3Gh7bU0E9uExqjmfbGCcX1KD8oeU6Sq7vS8E94n5qswLzOg/QaeYpfJmIn+Rqhy68atHid7uo7Hppf7luY0LK1Jtj0HMrcw27GvgnUnQv/Zw6yFkcim7OdIdVv6Y+xoufwkG10R2DxfiL5ox/4eP0fySloqXyLsw6psiSNDtLMrD9QRM/U+gJFkXFWfR/rmllJT7f+2t9ACcprVzdS4=;MNiHc0qX/JmXKraFzxZjkg=="
+secured: "4hSVPJb2wV3TqUe0VPf3fSJpjNqNAFkFXuLBrap6ha7tVULyS7BvDaQD+nbzCpUhONpbp3yNpUZYBTnFe/y+IXFhNsY+GOjrdJavo8+WZ2o7JSqWyj0PLofuiVATxXKnGeBw6+CrAi0Accy5pFmtyJ3xQoBs/S8Qr2AUL7rzqq2/xqS8WBD8D1JKPrs8iZ4a/cZUuhjAQB0uqOQKxd+V8hACq1OfbV4ParVIWvKcp3jLF3ZXYx2HEpA102efitW2mX/FMvRcnrHR5KXKUpAZTCtTqIKIWszvzgFJ/lNZZsjSkdQ5uSgtg5dXcMYRMX+FUS44gfbeasJ1x4luqfA9o3hVFXWpNJFky/CVbCsps+gWFsmF1EejeMG64eF9ll+0sA8GvG23lBkTHmxcdfL4KSE01hcMTWho6Q8CpNbRBnvttOVQz0+tSTylv9Zi1c9VOwBxKmRVxGVrPTBEbPs6rgoHuPQFHIuRDZeZuIU9rVBSrRSEknTLZMpil86YEgzgkRZEJHaRSkcIuS4sUiX7ZA==;ISXodOBC1SLakuiQytz/PA=="
 ---
 

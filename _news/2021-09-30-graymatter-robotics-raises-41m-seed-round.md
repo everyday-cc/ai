@@ -58,15 +58,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 23
-  - title: "Amazon-backed microphone startup Vesper raises $18 million"
-    excerpt: "Vesper, a Boston-based smart microphone which Amazon has repeatedly invested in, has raised another $18 million."
-    publishedDateTime: 2021-09-29T16:00:00Z
-    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2021/09/29/vesper-microphones-funding.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "2hUEYaZ5wMcFE0YfnhgTaiocE+t1DIAH7yL080umzszoiMYTbUC1l7jfjHnp2aKQxlLzsdY6FV4ch7v7xce2k5RnUcFjeXXra2gLY0V42/hlnOjcLhIKBPkiJ7QWGY4rp9tFX5OjwKc5ar/1FGNGrc1n/Sgh5o+5i+i2/qQYGTSLOEQOn2hsaxVvA6ZypKp1rAO2W6EOAQCbjUYh2AQGvkB9i69aOsHnQXWvjD2RzU6Yz5MxlR8uvQ/a2GZuuuz40g4lsbW321rkrxJHRX/KKqARVuEW0eZsRTNxPymLriohj8009pLGycCuoDA04g9E9b+miOKp8xv12jgYWAAflnPeXz95rZqDzsMD+bIdf6U=;gl4sheDOYA9zAIGpsg71GQ=="
 ---
