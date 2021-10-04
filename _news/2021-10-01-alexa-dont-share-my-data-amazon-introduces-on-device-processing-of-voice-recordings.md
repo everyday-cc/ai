@@ -89,20 +89,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Amazon adds offline voice recognition to Alexa devices"
-    excerpt: "Amazon has announced a slew of new connected devices and with those come some new Alexa features, including the new privacy feature. Soon,"
-    publishedDateTime: 2021-09-29T08:17:00Z
-    webUrl: "https://telanganatoday.com/amazon-adds-offline-voice-recognition-to-alexa-devices"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 24
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2021/09/Amazon-Alexa.jpg"
-        width: 680
-        height: 370
-        isCached: true
 
 secured: "8HBsVjPeeyj2F9d7noJLo0B55f7ueQULVCeXUTHtG8GoPDLDLMXDo1ENy/IhZbA5RrY9j2sU+V9ucuaHtUEaCmZW2gWUNcDVJUSm73Us/fBuyqK6QpOXCv+4HaQAj9qoCUwpHnkjYH9DrelBcKNvZDJnFqIFLE9bO2XW7+9LfAbE5Xk/RfnXK6MCAkpVPpqnYUwOmhaNYhJphdYLlZ5YgHRYAfYHpits8G/YZ0sgtCtj/pBALLegCw80krWtYm4ZpR+BwDrTEtxzGNUudeh4hR+MYOKzTqTbOihCtcB8i67+pDmmfW0lK2eCEtalOmwY+zoWTbORviHJq+J+9DhvRJFxrsCkKmrMWeBxaZJmqDQ=;no2W4+afZbyHoWXWnRby1w=="
 ---

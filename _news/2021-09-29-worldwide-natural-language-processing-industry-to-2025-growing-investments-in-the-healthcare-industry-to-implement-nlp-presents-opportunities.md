@@ -7,7 +7,7 @@ originalUrl: "https://us.acrofan.com/detail.php?number=538814"
 webUrl: "https://us.acrofan.com/detail.php?number=538814"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Retail Artificial Intelligence (AI) Growth Opportunities Research Report 2021 - ResearchAndMarkets.com"
-    excerpt: "Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. AI Solutions to Drive the Future Growth Potential in the Retail Space for Technology Providers With a record 12,200 outlets being shuttered in the US in 2020 alone,"
-    publishedDateTime: 2021-09-29T09:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-artificial-intelligence-04b0b15ab95e4f9c9ae8d7958ed78574"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "The Worldwide Edge AI Hardware Industry is Expected to Grow at a CAGR of 17.1% from 2021 to 2026 - ResearchAndMarkets.com"
     excerpt: "The \"Global Edge AI Hardware Market with COVID-19 Impact Analysis by Device, Processor (CPU, GPU, ASICs), End-user, Function (Training, Inference), Power (Less Than 1W, 1-3 W, 3-5 W, 5-10W, More Than 10W) and Region - Forecast to 2026\" report"
     publishedDateTime: 2021-09-30T09:41:00Z

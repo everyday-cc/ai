@@ -7,7 +7,7 @@ originalUrl: "https://www.oecd.org/publications/venture-capital-investments-in-a
 webUrl: "https://www.oecd-ilibrary.org/science-and-technology/venture-capital-investments-in-artificial-intelligence_f97beae7-en;jsessionid=ExL93HSzRrDDB_HAI5qaSboz.ip-10-240-5-159"
 type: article
 quality: 117
-heat: 197
+heat: 187
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://www.repairerdrivennews.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-28-at-11.56.38-AM-1024x526.png"
         width: 1024
         height: 526
-        isCached: true
-  - title: "Tech leaders plan large AI investment, but adoption woes remain"
-    excerpt: "Four in 10 technology decision-makers say emerging AI applications are still under development, a Gartner survey found."
-    publishedDateTime: 2021-09-29T07:47:00Z
-    webUrl: "https://www.ciodive.com/news/AI-budgets-2022-gartner/607320/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 37
-    images:
-      - url: "https://www.ciodive.com/user_media/cache/9a/ea/9aea78894e609e11cd5d472cbea4d079.jpg"
-        width: 770
-        height: 364
         isCached: true
   - title: "Global venture capitalists invested over $75bn in AI startups in 2020"
     excerpt: "The global investments by venture capitalists (VC) in private companies focused on artificial intelligence (AI) are growing at a dramatic pace, said a study. According to a new report from the Organization for Economic Cooperation and Development (OECD),"

@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2025"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Sep 28, 2021, 23:53 /Comserve / -- The report predicts the global facial recognition market to grow with a CAGR of 17.61% over the forecast period from 2019-2025. The report on the global facial recognition market provides qualitative and quantitative analysis for the period from 2017 to 2025."
-    publishedDateTime: 2021-09-29T08:46:00Z
-    webUrl: "https://menafn.com/1102884214/Facial-Recognition-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2025"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?430465"
-        width: 413
-        height: 250
-        isCached: true
 
 secured: "9GI0Zn+Z6pMKIKDojqhNAC/OIJ5fVVKyW2TBpv/NIKMf+B6bnTqxL+YMwnWMLjbQquteDZzt7+2NLkv/kePzzL3YJgxQJLXCy+HuvPb6v7VLWiFyjOQqmvWI2D/lZy6V4WsJAFoGYGkqp5bLTWmola4Dk1Dqt2HN8cMCaXgeem+kgVn2NZ/VkA2TB3F3LBnvDnDT5WgpJtaJtegJWAPljo51AQ0mTHCIH5hY3/N9l6BmOSIzZJ8aLPZ80HoeMu/j6dYPrMbUwkdNX1BubgpEP5yGk5uEo+/Gk0SgTMjjtjuqnpJwpQo5CjcL6SrKEBOvTMmGRmDVfXozRmfW5R7Xx/yAmqSRy1X/xfb/oiFJfoI=;NTXLab0jg7RUzKq1NSEvxg=="
 ---

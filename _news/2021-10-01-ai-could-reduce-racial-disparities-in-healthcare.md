@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/ai-could-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/01/ai-could-reduce-racial-disparities-in-healthcare/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://insidebigdata.com/wp-content/uploads/2020/03/IBD_PNYWPCover2020-03-16_8-53-21.jpg"
         width: 252
         height: 355
-        isCached: true
-  - title: "Rising Volume of Complex Data and Reduction in Hardware Costs is Projected to Drive Growth of the Artificial Intelligence in Healthcare Market"
-    excerpt: "The global artificial intelligence in healthcare market is expected to reach a market size of USD 61.59 Billion by 2027 and register a substantially high CAGR over the forecast period, according to a new report by Reports and Data."
-    publishedDateTime: 2021-09-29T08:11:00Z
-    webUrl: "https://techbullion.com/rising-volume-of-complex-data-and-reduction-in-hardware-costs-is-projected-to-drive-growth-of-the-artificial-intelligence-in-healthcare-market/"
-    ampWebUrl: "https://techbullion.com/rising-volume-of-complex-data-and-reduction-in-hardware-costs-is-projected-to-drive-growth-of-the-artificial-intelligence-in-healthcare-market/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/rising-volume-of-complex-data-and-reduction-in-hardware-costs-is-projected-to-drive-growth-of-the-artificial-intelligence-in-healthcare-market/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 38
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/09/Artificial-Intelligence-in-Healthcare-Market.jpg"
-        width: 870
-        height: 580
         isCached: true
 
 secured: "LT7LEEyhiRjVh6CAnWEF2AzOYbv7K7EVQHsa4HYkV9m0YzrSb2HB9Gh1mlcMjtqlQL7kGBCBH+3H22wYVgtBffqNoE6p8roNGzgOgC2BJkBhNXGnMKj7kUgGeg24V8nPHIBEYyMH+eFFjPf1SKLKOIY33jW+F8VCK9SRe4FBKcPEfEtUqvjt7Ny6oilzOkhjityFcQO6yQKCYHc1mrwtpW4EqGWSXnih+mlY9DJnZKoDiM1PTfJ/9UvmeCxDFL50kNW/Oq4uT6ashBXXq3fetwaIC/+4jVR4hGItNnXSMR0kX5+HXHIPMn9qtnx+0ZG908DtC8yraVfhP1dVeUYrgu8GdrQiJ61hMqH5iWd86nJmxPNh2QrkiD7OfDwKTqz2jG5btZLzIT8Le0jAiEWu6ZSnEDph4ytoYBuplyeeZWZpcVhR+4RkFpP4hOmrkEkAjxeb5c7igIB/fOpE36KtpjqVdYy6WNxAMpxxDx8svlNvefr0KbfWu4LsEgxnkpOZz8Y4wnF2yzt+xRbfF28Qew==;HuY+Cnms28p8hmtyjiT/Hw=="

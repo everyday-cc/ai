@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Everything about China’s self-driving vehicle standards"
+    excerpt: "China’s first national standard for self-driving vehicle will come into force in March 2022. The six-tier standard provides official definitions for"
+    publishedDateTime: 2021-10-04T00:50:00Z
+    webUrl: "https://techwireasia.com/2021/10/everything-about-chinas-self-driving-vehicle-standards/"
+    ampWebUrl: "https://techwireasia.com/amp/2021/10/everything-about-chinas-self-driving-vehicle-standards/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/10/everything-about-chinas-self-driving-vehicle-standards/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 44
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/10/Baidu_Apollo_Robotaxi-450x300.jpg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "Lidar, a key sensor for self-driving vehicles"
     excerpt: "I’m pleased to invite you to join us on October 28th at the PhotonicsNXT Fall Summit keynote presentation where we will explain how lidar is becoming a key sensor for automated driving."
     publishedDateTime: 2021-09-30T15:17:00Z

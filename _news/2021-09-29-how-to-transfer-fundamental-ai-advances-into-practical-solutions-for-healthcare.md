@@ -56,22 +56,6 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "Rising Volume of Complex Data and Reduction in Hardware Costs is Projected to Drive Growth of the Artificial Intelligence in Healthcare Market"
-    excerpt: "The global artificial intelligence in healthcare market is expected to reach a market size of USD 61.59 Billion by 2027 and register a substantially high CAGR over the forecast period, according to a new report by Reports and Data."
-    publishedDateTime: 2021-09-29T08:11:00Z
-    webUrl: "https://techbullion.com/rising-volume-of-complex-data-and-reduction-in-hardware-costs-is-projected-to-drive-growth-of-the-artificial-intelligence-in-healthcare-market/"
-    ampWebUrl: "https://techbullion.com/rising-volume-of-complex-data-and-reduction-in-hardware-costs-is-projected-to-drive-growth-of-the-artificial-intelligence-in-healthcare-market/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/rising-volume-of-complex-data-and-reduction-in-hardware-costs-is-projected-to-drive-growth-of-the-artificial-intelligence-in-healthcare-market/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 38
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/09/Artificial-Intelligence-in-Healthcare-Market.jpg"
-        width: 870
-        height: 580
-        isCached: true
 
 secured: "oZ76tm6/qBpHjch4mojO1UnZJE0eGO7SIyb/MzQ/ZScJvprg3zxZIfAX07F0NsG1t3K6c6q1GImuOcvBKmRa96rM3QwLlZmFgOcpjbk0chVNbO0HQ3Qo6TXrP2wZ+isSRlqt4B8ZsrT/0RcZMWALUFrjF0Nt8zw9Zn1MbAyqjnpNcEXUguOjJ01f0Kns0zz09ZoDi/5P8fZvkeehROUHF27tjsdAWUlZE7plkpdVSdv9JadnzP89EXPv2QjvuIxVyWjYPOY/TyNfULtBMc2bTiaqAvOrrOd4YePlC7xj48B6Qj+m7F7fQLO+BWp1eCNr33XtTZkxEjkVYpP+Y73BVCNBLN6AOw2ifzhNe+MXBwFZBlzG3eJr+O248vIuOxY1TCDmsxDG3A78EAEW7kJFLBaHaWerkZ25cVEg/DWro+1obNET1L944eSaWtM+H4C1W80PNlNyN+JiH7Ad69zPkCQe4xACNgW8i9Ac40L4sh24HPDaHCcjA+8K9oY6WWqID0Q6dgb+iQ53sUgDbY7tGA==;+gP7A0c591tpJ916v8eo2Q=="
 ---

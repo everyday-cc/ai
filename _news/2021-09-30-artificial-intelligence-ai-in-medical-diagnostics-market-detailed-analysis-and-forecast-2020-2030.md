@@ -9,7 +9,7 @@ ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-medical-dia
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-medical-diagnostics-market-detailed-analysis-and-forecast-2020-2030/?amp=1"
 type: article
 quality: 60
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://manometcurrent.com/wp-content/uploads/2021/09/Calibre-Market-Research-5-390x220.png"
         width: 390
         height: 220
-        isCached: true
-  - title: "Facial Recognition Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2025"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Sep 28, 2021, 23:53 /Comserve / -- The report predicts the global facial recognition market to grow with a CAGR of 17.61% over the forecast period from 2019-2025. The report on the global facial recognition market provides qualitative and quantitative analysis for the period from 2017 to 2025."
-    publishedDateTime: 2021-09-29T08:46:00Z
-    webUrl: "https://menafn.com/1102884214/Facial-Recognition-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2025"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?430465"
-        width: 413
-        height: 250
         isCached: true
 
 secured: "3U9e842AEXlje4fGzgZ90MPFR3qnhl21XCFqX7BXhpie2xsD9IsnhFbrfWBkoXhRn86OxdHddASMVHy/EW4XktYUqm8WvDA5hVv4VC34k81HCO/78Ch0OkzHRoXS6/jJUxhLvsAfuB1RTuRJIuV4PVjzCOcG5+JBjqvY10bSE/IUllW8PfNc/E1N2Nk8VHuliTKjsjj/BrU6m+QGjp/XgHUXwNHAO6nyOwcyfUbUqv301I05I67YPNeTl/s36+D6GvN+AV49TlA77ofCW76z6afnLv8kBFiuh0id2aOSTgmrPBSu1k2vRMOLFEqxU7Y37H+S3koyRaXyKgi3BnG+w4F8C9DhyQaKo/FRACfgE+CwhcJsxn8tRFJIYt83mqL1e3t05lNaKer0JP/0Udo2xUE1axM7Cdl3ojHTgmNutgkF+LedClkNfxfrpp1yOQLL+yHRhn+WB6e5kCXJxflYtW6666LBts30r+ZvsymMnFmoaE59UmXzadbaKEHDsaDT2mBB3YIhYjommkGovryb2g==;UQzSt5dchDI93qTYL4JJeQ=="

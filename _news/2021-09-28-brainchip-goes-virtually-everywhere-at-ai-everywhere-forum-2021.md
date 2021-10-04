@@ -1,28 +1,26 @@
 ---
 category: news
 title: "BrainChip Goes Virtually Everywhere at AI Everywhere Forum 2021"
-excerpt: "Company executives offer their expertise on AI at the edge during conference presentation, virtual Q&A sessions BrainChip Holdings Ltd (ASX: BRN), (OTCQX:BRCHF), a"
+excerpt: "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology, today announced that Vice President of Worldwide Sales Rob Telson will present “Intelligent AI Everywhere” at the AI Everywhere Forum September 28 at 1:15 p."
 publishedDateTime: 2021-09-27T23:41:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/09/b23125189/brainchip-goes-virtually-everywhere-at-ai-everywhere-forum-2021"
-webUrl: "https://www.benzinga.com/pressreleases/21/09/b23125189/brainchip-goes-virtually-everywhere-at-ai-everywhere-forum-2021"
-ampWebUrl: "https://www.benzinga.com/amp/content/23125189"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23125189"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-brainchip-holdings-ltd-5e8d200749cc445e8620e9cd9502b40e"
+webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-brainchip-holdings-ltd-5e8d200749cc445e8620e9cd9502b40e"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
-    width: 1200
-    height: 600
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "GYOzzsYc8uoV79ylOXYwUb63LUU3+leZZqVOSxBFPTd8tukUl0ayQuLUz5wyqZqeLhNmmpLBzD4vIkIXFMbBUx9hzrvHcFn8dH7CDnBfBHu91omOJvIbDYCBRNt+Wam+59d3lF7hsLbImhEm8Td2FjEzc01ztBDh21TvOuYYBZnzFPjW/iaH21rkK6DeyMzHdAIfT8oeJXG5V/r90NIYWqeSxFyrsqgn4EImwUtsuO8DgsSEcl+UGJjD5KCxTlgpF66b4ik8gQP4y97YSGVay1WS3c31gPtP6gbMcY4njNynxBi70eHZ8KNmRxXc/M+auTKPLaCTPuHiDBmbrkKp6Kn2osPZhCPeeltYh0A+z40=;mdISkyEon0QO7GQBvgZ6Xw=="
+secured: "jaX6KfOfPdxyrc9yP2dFgGsihsnaAu0GOfHdYhSC1FzkNIB0pUi0zxugk5RON4lZLhkU7RSKIdAve2OA3V2hq/Ed7aniTSwiO4ZM2F/biwW6i25gweNNXagdgU/b67r3OVlOSA/aiQkVBY0RgdAbsV4yaz413ttT5sNP0p3XX7dDi5IC3Iv9P0HbXhAiT5gRchOwCeO7xGDkNsxySOD8RIsilm+CZMlnPV7s81SPTLxTPGzFkv0cfFu6XvaCVFUspS8kS4mbqJs9JSTMomI0PQdUhscAVskOQzSkuIA+6C2+Flik5ad70PzosLFbuoaMMENh55tuT/BxbC5emBLZHfKzyOljqPfAJuuvXsxYxqs=;OWmW/ylExoxzJ4eCwM52rQ=="
 ---
 

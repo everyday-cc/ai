@@ -94,20 +94,6 @@ related:
         width: 1024
         height: 526
         isCached: true
-  - title: "Tech leaders plan large AI investment, but adoption woes remain"
-    excerpt: "Four in 10 technology decision-makers say emerging AI applications are still under development, a Gartner survey found."
-    publishedDateTime: 2021-09-29T07:47:00Z
-    webUrl: "https://www.ciodive.com/news/AI-budgets-2022-gartner/607320/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 37
-    images:
-      - url: "https://www.ciodive.com/user_media/cache/9a/ea/9aea78894e609e11cd5d472cbea4d079.jpg"
-        width: 770
-        height: 364
-        isCached: true
   - title: "Global venture capitalists invested over $75bn in AI startups in 2020"
     excerpt: "The global investments by venture capitalists (VC) in private companies focused on artificial intelligence (AI) are growing at a dramatic pace, said a study. According to a new report from the Organization for Economic Cooperation and Development (OECD),"
     publishedDateTime: 2021-10-01T08:25:00Z
