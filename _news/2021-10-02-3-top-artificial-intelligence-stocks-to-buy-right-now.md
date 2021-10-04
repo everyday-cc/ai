@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/10/02/3-top-artificial-intel
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/10/02/3-top-artificial-intelligence-stocks-buy-right-now/"
 type: article
 quality: 87
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "How to get AI analytics right"
+    excerpt: "While there is plenty of anecdotal evidence about how AI will improve analytics, there isn't as much discussion about implementation."
+    publishedDateTime: 2021-10-04T12:32:00Z
+    webUrl: "https://venturebeat.com/2021/10/04/how-to-get-ai-analytics-right/"
+    ampWebUrl: "https://venturebeat.com/2021/10/04/how-to-get-ai-analytics-right/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/04/how-to-get-ai-analytics-right/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/09/network-6511448-e1632770373894.jpg?w=1200&strip=all"
+        width: 1200
+        height: 598
+        isCached: true
   - title: "3 Top Artificial Intelligence Stocks to Buy This Month"
     excerpt: "Artificial intelligence (AI) has become a buzzword. But, it may be deserving of the hype given the technology's potential to disrupt various industries. Therefore, fundamentally sound AI stocks Cisco Systems (CSCO),"
     publishedDateTime: 2021-09-30T20:34:00Z

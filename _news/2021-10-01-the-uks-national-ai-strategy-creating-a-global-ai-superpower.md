@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/uks-national-ai-strategy-creating-g
 webUrl: "https://www.linkedin.com/pulse/uks-national-ai-strategy-creating-global-superpower-catriona-campbell"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 960
     height: 640
     isCached: true
+
+related:
+  - title: "Rishi Sunak launches UK’s new artificial intelligence strategy"
+    excerpt: "UK Chancellor Rishi Sunak on Monday announced a new GBP 34 million National Artificial Intelligence Fund that will support the creation of 2,000 elite AI scholarships to create a high-tech economy of the future."
+    publishedDateTime: 2021-10-04T12:29:00Z
+    webUrl: "https://www.outlookindia.com/newsscroll/rishi-sunak-launches-uks-new-artificial-intelligence-strategy/2172571"
+    ampWebUrl: "https://www.outlookindia.com/newsscroll/amp/rishi-sunak-launches-uks-new-artificial-intelligence-strategy/2172571"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/rishi-sunak-launches-uks-new-artificial-intelligence-strategy/2172571"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 57
+    images:
+      - url: "https://www.outlookindia.com/public/uploads/no-image-new.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "oI4d8lTDota24fPnNzoJER79pA3cEJrUOFm0WK2teMgiTSM7Il6Hl8NJXj3KoQPyXmNKbyiR103wYJmzeAATT+gw0Hv+3/J7rPpIPu9WfVBhdkuVeOTbVtHKgMVRw8VBszbT+oFkSgAtyt8OUwUvU4WYEmTSSo9xaPLGOJTpRGC3Zj4zcDI131OtjbvZm35DKSk9tHz13YKpP/Gf32k2k8CEBTqJjZbEa+B7kLUa7vqKlfjoUUTvEQ8OawC8aMoitioafI55q0b637Kgwpmndq0n5ABLPgQLvj9IOZE+I1VwM5Al0c10ndd7PzquSoCDrBCY1fcCUlAQ2bDA8f38g1cB5tnFCcIuSLJtlPDWE00lQdrG/E51e7cus7NeLf5pUBgbXwrNbYcx+pBtm3VHQe6ChBpHUrkSMR6uH34S6ytP2FAqa+S1z8kom8ptoneCA1FYxy91R/n6UWisUc7ccEnuz3arXbc30xujqMt9thbiYWMX3bc5b6hE1KwWzucBjZg0bkHR/k6sAok/BdIzHA==;T+87tbn6rmwDpyl3X69/7Q=="
 ---

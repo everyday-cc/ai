@@ -105,20 +105,6 @@ related:
         width: 650
         height: 392
         isCached: true
-  - title: "DeepMind develops AI that can forecast the weather"
-    excerpt: "The project is a collaboration between DeepMind and the Met Office, the U.K.’s national weather service. The researchers involved in the initiative developed an AI system capable of forecasting rainfall up to two hours ahead of time."
-    publishedDateTime: 2021-09-29T19:14:00Z
-    webUrl: "https://siliconangle.com/2021/09/29/deepmind-develops-ai-can-forecast-weather/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/deepmind.png"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Artificial intelligence can predict rain with unprecedented accuracy"
     excerpt: "DeepMind has created an artificial intelligence capable of forecasting the weather with impressive accuracy. The company specializes in building AIs focused on problem solving, but has now decided to embrace meteorology as an important field of action."
     publishedDateTime: 2021-10-03T22:10:00Z

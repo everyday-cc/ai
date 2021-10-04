@@ -1,24 +1,24 @@
 ---
 category: news
 title: "SkyX Integrates AI with Aerial System to Offer Midstream Inspection Solution"
-excerpt: "Concept: Canada-based UAV solution offering startup SkyX has offered an AI-integrated aerial pipeline inspection solution. The solution comes with unmanned aerial vehicle (UAV) SkyOne integrated with AI for computer vision analysis."
-publishedDateTime: 2021-10-04T11:12:00Z
-originalUrl: "https://www.pharmaceutical-technology.com/research-reports/skyx-integrates-ai-with-aerial-system-to-offer-midstream-inspection-solution/"
-webUrl: "https://www.pharmaceutical-technology.com/research-reports/skyx-integrates-ai-with-aerial-system-to-offer-midstream-inspection-solution/"
+excerpt: "Canada-based UAV solution offering startup SkyX has offered an AI-integrated aerial pipeline inspection solution."
+publishedDateTime: 2021-10-04T11:00:00Z
+originalUrl: "https://www.just-drinks.com/research-reports/skyx-integrates-ai-with-aerial-system-to-offer-midstream-inspection-solution/"
+webUrl: "https://www.just-drinks.com/research-reports/skyx-integrates-ai-with-aerial-system-to-offer-midstream-inspection-solution/"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Pharmaceutical Technology
-  domain: pharmaceutical-technology.com
+  name: Drinks
+  domain: just-drinks.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/10/shutterstock_1388472764.jpg"
+  - url: "https://www.just-drinks.com/wp-content/uploads/sites/36/2021/10/shutterstock_1388472764.jpg"
     width: 500
     height: 281
     isCached: true
@@ -39,6 +39,6 @@ related:
         height: 450
         isCached: true
 
-secured: "21Cvr3KOJ5utvBcs79/18r2nLjYkSFsCjLGErLaBT/r5e1p81b0D3miRkhX2eU3+jmVyo3VKYsOvziimlm8T+ztSoLd2S/n6pLg2wk94H21jV7BTDxBqj2num3cjtWXzvt9yOS6G2tfciq1JIExqvsHPUvaKYGCuQaMnCnhZnE7VW4kulUeYwEG+Nn+5sw0a4KkSnJhHdUjmpPnkEhxz/Loaf6TeaM/tNsaFxIrtQeEuNYLIQE645xOFnU9mDu34h3Sdah3L6cKnxNDcmTkxpbvf042i5QdcDh2vN4Jk+mgo25vCi0yuZzsfVJOF0iPsYoQN8DTINSC4GjX47l31JKEYqbc+eGJzY63YYmhP4nY=;PMjnlwvXdJDSpDkQ0S7Ogw=="
+secured: "+a9/IxC2HRhC9YO/BVsMoAVXZlO6BWa1QqAvc/MRDa3gsc/wkfXIcHJsiYxe+DHpBBuXNiHITIzNgU4xyQjNkaxsD35XlNH6ZR2TYyBMWm/Q3naRkqfaW59saDfYtshWYJQ2Uwfkcl/5ZMVw5JymaIJoqV1f/wWmnTplD1jWPOZyCWptEMTYuHzmr2U2r3B5Itg2SzYHiyiP4sBf5SyKrhKLT3pnzJU8kWCjN1jL/eexD0Khtz6fn8XOCA6comsQ++IH8xL2JMjhsmDI6K1TozL3XH6dCi6b3vCmm4tWg2PWKebCFISV30q8fmRKvHRaXpjGkEyd2ubVJsPnq09fUN6bKLbZwx5MZpiOsWyHy+g=;JFVFVSZArf0Axpi7HEW/NQ=="
 ---
 

@@ -41,6 +41,22 @@ related:
         width: 720
         height: 433
         isCached: true
+  - title: "How to get AI analytics right"
+    excerpt: "While there is plenty of anecdotal evidence about how AI will improve analytics, there isn't as much discussion about implementation."
+    publishedDateTime: 2021-10-04T12:32:00Z
+    webUrl: "https://venturebeat.com/2021/10/04/how-to-get-ai-analytics-right/"
+    ampWebUrl: "https://venturebeat.com/2021/10/04/how-to-get-ai-analytics-right/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/04/how-to-get-ai-analytics-right/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/09/network-6511448-e1632770373894.jpg?w=1200&strip=all"
+        width: 1200
+        height: 598
+        isCached: true
   - title: "3 Top Artificial Intelligence Stocks to Buy This Month"
     excerpt: "Artificial intelligence (AI) has become a buzzword. But, it may be deserving of the hype given the technology's potential to disrupt various industries. Therefore, fundamentally sound AI stocks Cisco Systems (CSCO),"
     publishedDateTime: 2021-09-30T20:34:00Z
@@ -53,6 +69,6 @@ related:
       domain: stocknews.com
     quality: 39
 
-secured: "8JP4Vy4Yk6RY0u33naR1x/WVH6zVb1zWpcxIn3hXdzNMiGzglIK+7NYcAkwU+owl2Z7nDk9q+mxhyVwDHRTLKbmEYbuRe4wkAP7okzjNaO3plpYyPBgo12lIodHQP2Oi9ezxd0rl0swLf+mqtMhHWyy6yLhdC7/DCDSish63U99YSxY0yYrYIR2/qGv3AbtPp4sly0bcIEeZftEyN4/dWTEFsBC/HjJTTf/AurgU8majNnhuf9bSiOVsIeaREEiw2uO4PdomDRjWr0WRj8x+uR8ADsg62dwLZ99YJefKJbqpR+Jax6pEOxuqCkEqrXnAnJjhgvIxP1bss9Z4qxCjLxaxg0+qXOTh/bksaVJu740=;EPaYXZ3PKxETsZOlG3QYww=="
+secured: "Vk//ByV6Z0DHk6eslr+1xWdXUMEVsTLggNo5sOtNmJCG8E8oZ78mDt+Su4cLwOJyiSzsbEY2nQ8SAfWhOP0GtJfu44T1111P+Ez8/xQTmGP53AEEOo3YKnOBziqJXH0q9qFZBD9XQBjstB2f0hFXWbIX0aCpBsKrB/8jsxguDByiiD7JpfwP03Z+TxHgWGgflE0a3j6J8JbsH+HBae7ZEF11vaMy6WzpJw7zxfxYwzsKwTvvgxjzrihOmyW5rPKJAzLsPMVH7eEdRECh6jER1OkJ3N4cbn32Dq0qSjvMJeWKU6ui8n6K+nEl02X9OgR9dwgKPjNbIfP1FlkdvDmon7QqHxceGKTQvOESKNCZVF95t6oaR4AfNrUtFTyn8WD4IxaQHCQFony2pSlhFAxM3OZpMYVibl7ooDwiOEJblSYskpgwbIyP2cxZ1VE/p5tXXjEQRln57edHHXsIyWXl8O8XXsHofwL4Z5/b3aT5+lHXT/e2HQ5ADIWNsQNGH44Bk44RSzcmsIz4AIbgUUdAqQ==;m2RV3LgD32gJP9B9X9wlOQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/03/amazons-astro-robot-a-feat-of-sci
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/03/amazons-astro-robot-a-feat-of-science-or-a-successful-product/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Amazon Announced Astro Home Robot"
-    excerpt: "Tech giants Amazon Inc (AMZN) have unveiled its home robot, named Astro, on Tuesday in the fall hardware event. The robot is calibrated to watch over homes, carry small things, play with children, play music,"
-    publishedDateTime: 2021-09-29T20:14:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazon-announced-astro-home-robot-2021-09-29"
-    ampWebUrl: "https://www.nasdaq.com/articles/amazon-announced-astro-home-robot-2021-09-29?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-announced-astro-home-robot-2021-09-29?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
 
 secured: "kLQ8H3bvuHoM2ahPRXB80aGSvL116YNLuq8Vm0JmJAMKD6yz734Foe1+JkBtC8gxYJg04km8613ZNWp0aLFONq2OvdtGMAS5V30FYxd2H23M+yJCUv5nphb3L6unvKEt+Nn6ApuwndbEa8o7pZjJS3gotWbOpqRNhN4iXT2zfLeOhMstJ0fdvqp2i4d+Dd0YiWP5Ucn1iaPnMwzlwDxTDE2sF/Y9nDqYinkpNgh7cR7aDzAFxlJUBut8ZboUOKnEn3z3YEpjzWZsxSVakkxx/heqbmhPVMtf47OAte3RB1rMMbw0UIzvvxaaV++MU4erqjz4piGTg2xrm0FNH/Vxr55ZF7pZzsz0UrbgcOWsAKrXs5bNVtHGfWS1xDQB72qyKNrk3BIFwToW+hQZ0EhZufMgKkU7tp0uycHAt3C/d8R9jWa2quG03nRahGeZ4a7PZjbdAWFXmG5l5mUtA40sZUJQaslZSBIKd8GRhbwN5RecUqa6V4P4VWcd5FbnB9BeFYseuZvAWHSUk3YS0hr97g==;Asok9LvRI0saNHVw4p1baA=="
 ---

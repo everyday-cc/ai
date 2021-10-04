@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/self-driving-start-up-aurora-finds-a-way-to-m
 webUrl: "https://techstory.in/self-driving-start-up-aurora-finds-a-way-to-make-profitable-business/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving Aurora maps out route to profit"
+    excerpt: "Posted . Self-driving startup Aurora says it has discovered a path to turn costly self-driving vehicles into a profitable"
+    publishedDateTime: 2021-10-01T14:23:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPhlJ?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/615708fee4b09631b0e41ead-1633093886256?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Self-Driving Startup Aurora Maps Out Commercial Strategy"
     excerpt: "Self-driving startup Aurora says it has discovered a path to turn costly self-driving vehicles into a profitable business, showcasing its technology to investors this week ahead of a public listing it hopes will provide some $2 billion in additional funding."
     publishedDateTime: 2021-09-30T17:07:00Z

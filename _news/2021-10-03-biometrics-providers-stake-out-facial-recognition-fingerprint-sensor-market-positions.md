@@ -66,34 +66,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Amazon unveils series of face and voice biometrics updates"
-    excerpt: "Amazon has a series of new updates focusing on the biometric capabilities of some of its hardware products, as well as on the company’s AWS marketplace."
-    publishedDateTime: 2021-09-29T19:17:00Z
-    webUrl: "https://www.biometricupdate.com/202109/amazon-unveils-series-of-face-and-voice-biometrics-updates"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/08/16125525/amazon.jpeg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Auraya launches voice biometrics for forensics, adds SaaS delivery model"
-    excerpt: "The new offering is the renamed third-generation of EVA Fraud Manager, which is now available through an SaaS delivery model."
-    publishedDateTime: 2021-09-29T19:50:00Z
-    webUrl: "https://www.biometricupdate.com/202109/auraya-launches-voice-biometrics-for-forensics-adds-saas-delivery-model"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 23
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
-        width: 900
-        height: 499
-        isCached: true
 
 secured: "SicjA997lKhPdqZ18zbgTJ0KYgMuuv143gLeXsyfZmR2a2Pi9JEL/+D1kIKg5vtZK1EI258JDnZrWxDOI/R64/L4et8GJVcw246TdhN2OsW7mJlh08IpKP5jAHkwy3pe/Um84K3Hrbh5no3YI9H2hBdotI0HjS5h/qpcSP7jTXzTqhzyWjCgifGkRi/jk1gJjB1zYffRbIm2/6yuU5cf16Cg6+AG8LCUU6HSK99GYeiaS8qc4atPV33twuS8ThUJyAT68UQ8im6U6CTfVEt8rYXNI7i1A/abj7c+kLgxC3wy+REboHIqf/brImbDLdGlFH1FHQz+v8LO9N82l0j5kkTqVqR2saglqmIADAjNRGPJDePzOks6GnhuWBeZphfc0f9Z9pvp7XcB2FAHjMu2CEtZkdtCY3XtAUdejegezOXr+NfgN1SpvvnFHHJ2IY37cky25D/4gaI0jReO9kdOH2CF93F2DHhXYdeAi/nSIOeO6g+2+H/Xy9LmxoY/+QIt3rYiARGiitiHQf7zlteLbA==;Xa1rXntR6Y/U0X29avQ7Qg=="
 ---

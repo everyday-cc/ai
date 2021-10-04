@@ -98,6 +98,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Capitalise.ai and ErisX partner to provide ErisX clients with a unique and innovative trading experience"
+    excerpt: "Capitalise.ai, a leading global provider of a groundbreaking trading analytics and automation platform, and ErisX, a U.S. based crypto spot and regulated futures market, today announced a strategic alliance to offer ErisX Members the ability to"
+    publishedDateTime: 2021-10-04T13:44:00Z
+    webUrl: "https://www.lelezard.com/en/news-20028267.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 22
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Launching AI Enabled Appreciate - A trusted partner for better returns and global investments"
     excerpt: "Appreciate will help one invest in US equities to access better returns - so they can get more value for their investment, and can lower risk through global diversification. Today, international investing is plagued by complicated paperwork,"
     publishedDateTime: 2021-10-01T11:02:00Z

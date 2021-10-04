@@ -64,34 +64,6 @@ related:
         width: 1100
         height: 733
         isCached: true
-  - title: "Amazon unveils series of face and voice biometrics updates"
-    excerpt: "Amazon has a series of new updates focusing on the biometric capabilities of some of its hardware products, as well as on the company’s AWS marketplace."
-    publishedDateTime: 2021-09-29T19:17:00Z
-    webUrl: "https://www.biometricupdate.com/202109/amazon-unveils-series-of-face-and-voice-biometrics-updates"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/08/16125525/amazon.jpeg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Auraya launches voice biometrics for forensics, adds SaaS delivery model"
-    excerpt: "The new offering is the renamed third-generation of EVA Fraud Manager, which is now available through an SaaS delivery model."
-    publishedDateTime: 2021-09-29T19:50:00Z
-    webUrl: "https://www.biometricupdate.com/202109/auraya-launches-voice-biometrics-for-forensics-adds-saas-delivery-model"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 23
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
-        width: 900
-        height: 499
-        isCached: true
 
 secured: "icmrKL4CI99V6guiQRk9taZO22+79gOEYMW/tMwtJAs4v9UCRzbdm10WvtdmccqzyA8sJsRHUZPLVjdtqBrF/fp8Sgb0Rgs1qyQlSh6F4a9JVy8yNxxfK6kLppnR/r6IckES8zQ35FMpR1rttvLTItMhu3gtHKae9j9qa9LYApiFxdWO/KKnSIVfFpNhVKuJVOCJQzYkS1BlyC1F3x1f+kW7qsmJmwye0UwxZc2AhYtkz3ePWQ58fAlUuLzv9W3R0l48LhN9dUUzKPEJx8SBlat+PMoG5VVhtFrm0NkWkLjgfJ+dEDj7LR6t05zCV1mXjdsmBJeUnlpUEbqe5C94AmUgTL5Jll8PIbPS1VC2KYsDZafLWIiua1vtmC0EF+YUiK7MaphTc6aIUSSoNo/ti5ejZs7bIWNNQ+9ybCsFJMCPvv6z22P0gy4AeIuPBFFef/HzfzHLHCDQjGgG3cu0aeb4GAuyxZ1l8V9JKabfL9zqzUccPi2jugimgzEEixDdZsO09PxBJj4EQJ8bAaqqHg==;lvGFKjLtKuOC5CDU0uFnlg=="
 ---

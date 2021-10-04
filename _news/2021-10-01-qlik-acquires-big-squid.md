@@ -97,7 +97,21 @@ related:
         width: 1280
         height: 682
         isCached: true
+  - title: "Cloverleaf Analytics Makes BI More Accessible for Insurers by Launching Natural Language Processing, Chatbot, and Automatic Insights Capabilities"
+    excerpt: "Cloverleaf Analytics (Cloverleaf), a leading purpose-built insurance business intelligence (BI) solution provider, today announced natural language processing (NLP), chatbot, and automatic insights capabilities as new features in the"
+    publishedDateTime: 2021-10-04T12:10:00Z
+    webUrl: "https://www.lelezard.com/en/news-20027679.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 2
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
-secured: "HqfmpwFAF3Ob5xnY2U+IIl3ATfU5r/l+RWIWUJlDs+0uY6hu2J/S25FbPy5VpCa7U5ZrSXcFYqLPC5wG3AYv2Pj1mG/3YK4W60WWKF1qFHlmCyGYTDBFmf8zNOYNmsDFTUFGcJEJcLy5cgQ203tR39kiiBc9f0bvN6nKXoER76AFP2EyrUGePCIP2SFxkzKqiO9AIO5hBezU+mfw76QvaE8hlyTjo19S6yFSJAvuGgVVkEExG3MAZVYLRb9GcqEOpOoUNaUZiSntvpkQ1OU8BJcg8FyC7+RdNZoCYqDaUQL/QltrpxMJGSX0mv1DZPEL1KzTBdJ2ZTo3tBGvKoxN+WKbFnHUmHtnUxT1TfwpB/U=;WnmBn0nLAifgCSFvq7yaaw=="
+secured: "8fwWwOrYGDnKTm9VLjinloAa8ypVk+Pz1qX7wt5VxsZsokLQE4Fugl+dcC3E+xdajnfIgNmHTGGhlp+T+XPlQCHGrGoHqLVFQuhZMfsnsM1dWECx/dxM+ldXZn/YeAyATuHCKZap9lAo4G1AoIP+7bfF0C3hBlQpBU6v/dZ8biAKBaM4mv0kv3frlXzI3r1GjMilY4+phWHDyHX2aryRTRgGfx/TpMowQyOLsM+duku0zd6sIztSsxPteoCfeM3S9OZafsszSgEK0elDWnylAb4e58AqILPzusIkRRTCsVy3N3GXrOwLQpZ8jJFFczw4LG/JFqWDbS818dqTHv0Gux2hGp4zRFvnieGklglTjBs=;tAa8ATJpToHhaLaMTnHX9A=="
 ---
 

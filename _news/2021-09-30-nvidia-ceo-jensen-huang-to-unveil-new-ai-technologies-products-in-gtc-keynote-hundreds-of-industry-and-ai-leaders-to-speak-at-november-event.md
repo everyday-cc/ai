@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Chancellor uses Tory Party conference speech to announce AI scholarships"
+    excerpt: "Artificial intelligence holds the key to unlocking productivity, and developing the right skills to harness this potential was one of the focal points at the Tory Party conference."
+    publishedDateTime: 2021-10-04T13:57:00Z
+    webUrl: "https://www.computerweekly.com/news/252507677/Chancellor-uses-Tory-Party-conference-speech-to-announce-AI-scholarships"
+    ampWebUrl: "https://www.computerweekly.com/news/252507677/Chancellor-uses-Tory-Party-conference-speech-to-announce-AI-scholarships?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252507677/Chancellor-uses-Tory-Party-conference-speech-to-announce-AI-scholarships?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 56
+    images:
+      - url: "https://www.computerweekly.com/visuals/searchEnterpriseAI/ai-platforms/searchEnterpriseAI_023.png"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "NVTC partners with NVIDIA Deep Learning Institute to provide online AI courses"
     excerpt: "The Nasser Artificial Intelligence Research and Development Centre at the Nasser Vocational Training Centre (NVTC) and the NVIDIA Deep Learning Institute have started a collaboration, whereby students in Kingdom of Bahrain benefit from NVIDIA’s online courses in various areas of artificial intelligence (AI)."
     publishedDateTime: 2021-10-02T15:33:00Z

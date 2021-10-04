@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Quest To Fuse AI And Robotics"
-    excerpt: "DeepMind and other robotics researchers are using a simulation-based technique - sim-to-real - to find a way around the data problem."
-    publishedDateTime: 2021-10-04T04:32:00Z
-    webUrl: "https://analyticsindiamag.com/the-quest-to-fuse-ai-and-robotics/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 71
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Brown-and-Green-DIY-Collage-Interior-Design-Moodboard-Photo-Collage-Blog-Banner-1.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
   - title: "How to Use AI to Drive Business Growth in the Tech Era"
     excerpt: "AI allows for that. And from the looks of things, that will be nearly half of all US-based businesses within the next 12 months. However, even though the capabilities are there, it’s largely untapped potential."
     publishedDateTime: 2021-10-01T13:30:00Z
@@ -54,61 +40,19 @@ related:
         width: 900
         height: 643
         isCached: true
-  - title: "Kai-Fu Lee — The Future of Artificial Intelligence"
-    excerpt: "The extraordinary opportunities—and challenges—presented by artificial intelligence are at the heart of Kai-Fu Lee's new book, AI 2041: Ten Visions for Our Future, a \"scientific fiction\" that sketches 10 possible AI-driven futures that are within the realm of the scientifically possible."
-    publishedDateTime: 2021-10-02T05:47:00Z
-    webUrl: "https://www.hks.harvard.edu/events/kai-fu-lee-future-artificial-intelligence"
+  - title: "How Architecture Firms are Leveraging AI to Optimize Their Businesses"
+    excerpt: "How do firms work smarter without spending tons of time wising up? By leveraging artificial intelligence—or AI."
+    publishedDateTime: 2021-10-04T11:39:00Z
+    webUrl: "https://www.archdaily.com/969461/how-architecture-firms-are-leveraging-ai-to-optimize-their-businesses"
     type: article
     provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 52
-    images:
-      - url: "https://www.hks.harvard.edu/sites/default/files/about_us/Twitter-Card.png"
-        width: 840
-        height: 450
-        isCached: true
-  - title: "The Human Costs of AI"
-    excerpt: "In 2015 a cohort of well-known scientists and entrepreneurs including Stephen Hawking, Elon Musk, and Steve Wozniak issued a public letter urging"
-    publishedDateTime: 2021-09-30T02:23:00Z
-    webUrl: "https://www.nybooks.com/articles/2021/10/21/human-costs-artificial-intelligence/"
-    type: article
-    provider:
-      name: The New York Review of Books
-      domain: nybooks.com
-    quality: 41
-    images:
-      - url: "https://www.nybooks.com/wp-content/uploads/2021/09/halpern_1-102121crop.jpg"
-        width: 1790
-        height: 1194
-        isCached: true
-  - title: "When AI and ESG collide"
-    excerpt: "The energy management system developed by cold storage warehouse company Lineage Logistics is one of my favorite examples to extol: When I wrote about it a couple of years ago, the company had managed to cut power consumption in half for facilities where it was deployed,"
-    publishedDateTime: 2021-09-30T09:37:00Z
-    webUrl: "https://www.greenbiz.com/article/when-ai-and-esg-collide"
-    type: article
-    provider:
-      name: GreenBiz
-      domain: greenbiz.com
-    quality: 39
-    images:
-      - url: "https://www.greenbiz.com/sites/default/files/styles/og_image_1200x630/public/2021-09/AI-ESG.jpg?itok=N73Xs27Q"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Inside the happy heart of Ai-Ai de las Alas"
-    excerpt: "Everybody’s favorite funny woman Ai-Ai de las Alas has her hands full at this time, especially given that a new season of The Clash has just commenced. It is the singing search program’s fourth season,"
-    publishedDateTime: 2021-10-04T11:33:00Z
-    webUrl: "https://businessmirror.com.ph/2021/10/04/inside-the-happy-heart-of-ai-ai-de-las-alas/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
+      name: ArchDaily
+      domain: archdaily.com
     quality: 37
     images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2021/10/life03-100521.jpg"
-        width: 720
-        height: 838
+      - url: "https://images.adsttc.com/media/images/6157/5071/f91c/81fc/d800/0033/large_jpg/home-section-hero-img-optimized-1200x1200px.jpg?1633112165"
+        width: 1430
+        height: 903
         isCached: true
 
 secured: "uZ5qmk7TKyCt1GGe/HVZi0TjTpekSMBl5qpqgVMo2OTtmx/M3xTVrJYcEO20wGBMTy/Wd6jC/dhPnJoeNEEY5Fue2+6U3clKWkNXRhOCFzVojWNUCcmKKfXBTnyL7y2CvKQXAA81H1l9SGMI6HhyEO7zS1aQSMOEy71DvPz9EDvtmZFRGHvXLznoGBMlJzcDaaWIWIHupo24+mRUJ++hqSdoc3kewiYXSbVyEH/lqjBq7pIzV05mLRErNbphmeaMj3Zoa4Zb6ouQsE50N9qPQodF4dbJhcOiaXYrfHrfcXx+RvOO2MV1giKe1+PxST6wW4jrLT2WXydSdnN0hWE0uXRuOyXPNKR+4YRHyxW6pW+vRJxAlgdPnJn/3i/mbg8FrLj0DOhvcqrMxi3FQsjOILJWAaBU/o1MgMDwuuIKZ8gkHNa7/KL7359RVywufY6qvPCeBUmIvBuyMKn5eL+5Rm5VYq1h/MlJ8M4yk9ETAS3Nd4XtPC4Ol2lovmZQC/tCtYOqxJywQ9BQrQeY56NhJA==;KeCgilbfHB+nIaV4GOPC6A=="

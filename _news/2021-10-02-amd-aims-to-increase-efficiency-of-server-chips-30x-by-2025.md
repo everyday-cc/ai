@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pcinvasion.com/amd-30x-increase-efficiency-by-2025/amp/"
 cdnAmpWebUrl: "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/amd-30x-increase-efficiency-by-2025/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: pcinvasion.com
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "AMD wants to make its chips 30 times more energy-efficient by 2025"
-    excerpt: "For years, Intel had been sitting on its CPU throne, gradually losing its drive to innovate process technology. Instead, the company chose to take the \"abnormally"
-    publishedDateTime: 2021-09-29T19:58:00Z
-    webUrl: "https://www.techspot.com/news/91485-amd-wants-make-chips-30-times-more-energy.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/91485-amd-wants-make-chips-30-times-more-energy.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91485-amd-wants-make-chips-30-times-more-energy.html"
+  - title: "AMD announces '30x by 2025' AI and HPC efficiency goal"
+    excerpt: "AMD has announced its ambition to increase the energy efficiency of processors running AI training and high performance computing applications 30x by 2025. Industry-wide we expect efficiency improvements in the same timescale,"
+    publishedDateTime: 2021-09-30T09:11:00Z
+    webUrl: "https://hexus.net/tech/news/industry/148445-amd-announces-30x-2025-ai-hpc-efficiency-goal/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 89
+      name: Hexus
+      domain: hexus.net
+    quality: 39
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-29-image-36.jpg"
-        width: 3840
-        height: 2160
+      - url: "https://hexus.net/media/uploaded/2021/9/df182448-0791-46ed-b08f-12f83a1e553b.jpg"
+        width: 515
+        height: 221
         isCached: true
   - title: "AMD Wants to Improve AI, HPC Efficiency 30x by 2025"
     excerpt: "AMD has announced a major new efficiency initiative that’s intended to build off its previous 25×20 project. The company will now work to deliver a 30x improvement in energy efficiency in AI and high performance computing overall,"

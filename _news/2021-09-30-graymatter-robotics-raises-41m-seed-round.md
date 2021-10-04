@@ -35,20 +35,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Kore.ai raises $50M for its AI-powered experience optimization platform"
-    excerpt: "Startup Kore.ai Inc. today announced that it has raised a $50 million funding round led by Vistara Growth and PNC to fuel the growth of its software platform, which helps companies build artificial intelligence assistants to automate repetitive business tasks."
-    publishedDateTime: 2021-09-29T20:45:00Z
-    webUrl: "https://siliconangle.com/2021/09/29/kore-ai-raises-50m-ai-powered-experience-optimization-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/image-7.png"
-        width: 932
-        height: 517
-        isCached: true
   - title: "Thankful Raises $12 Million for Customer Service AI"
     excerpt: "Venice-based Thankful AI Inc. raised $12 million in Series A funding for its customer service artificial intelligence platform. Thankful plans to use the funding to further develop its AI to include features such as greater personalization and the ability to upsell in customer service situations."
     publishedDateTime: 2021-10-04T07:06:00Z

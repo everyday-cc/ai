@@ -59,22 +59,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "An autonomous robot may have already killed people - here's how the weapons could be more destabilizing than nukes"
-    excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
-    publishedDateTime: 2021-09-29T19:07:00Z
-    webUrl: "https://www.seattlepi.com/news/article/An-autonomous-robot-may-have-already-killed-16495797.php"
-    ampWebUrl: "https://www.seattlepi.com/news/amp/An-autonomous-robot-may-have-already-killed-16495797.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/An-autonomous-robot-may-have-already-killed-16495797.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 37
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
 
 secured: "03o0gOqlAgWX+rhTrHPMn+Q50UPjgrRwy7K23D6vUcx+Ws9ubQdMDYJ8MzNsHDokhiOJvb2EhcONdHchRQpi9H40Y2QpNDc9yj7KGqGLPD+qQRlvVgCkq1K/ZmQM6v0GUy2Mhr1OUyjd8eGbpBWaVlme7UG3iosrgkKBjBR7GZvs/alLr0ePwBbgTwRDBEf1S0Q56HLkvf5PgyG9QD4BP+5DFFtJ+e7qjtSerBOIwpxPW0X5rU05bVtfTww8kubzSQsuNvGF+DP/BOmbI6g0pCzIKDtXZoYV6Cp0fA4zZ4wwmr9f7CMegS0vg+98m91VvFc4KPWEBfqlk18i41PThMASZNaq6Q0O789w2vW4MZAX2qlJ5tC2+ZiORH5L/IBJlTIW3nS7bMUDaulUrMUWk+ZKHrKBupmPjY8Mz9Yifuiu8WkScVXcaEw1FNIPwzViSiIdUQh5Me9N5JVCpuGySMLufVpiEmCyyhn7Kxyqoze4NMl6eIkqletvmOIo8T42OwTv3JEBXtlk0Oy4Ody7Dg==;Dk7PWjCdDCOkVNaFX+ZQ3w=="
 ---

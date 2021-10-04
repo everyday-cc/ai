@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-20023960.html"
 webUrl: "https://www.lelezard.com/en/news-20023960.html"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 640
     height: 480
     isCached: true
+
+related:
+  - title: "mPrest mDERMS and mTHM Now Available in the Microsoft Azure Marketplace"
+    excerpt: "(GLOBE NEWSWIRE) -- mPrest, a leading developer and provider of distributed asset orchestration and optimization software for the energy market, today announced its Distributed Energy Resource Management (mDERMS) applications suite and its Transformer Health Management (mTHM) applications suite are now available in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2021-10-04T13:21:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-mprest-mderms-mthm-now-available-the-microsoft-azure-/2021/10/04/9461756.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 49
 
 secured: "ZDnaSCUDgtI5pt1BE+8fgdiNrce9u4SEm0hQs6maulNralGa0zMMTgJovF26F0SM/VM9TyriXWhD26qGQLn7qjEivw5sJcsJ7OSC4AY5cyfQT6L2CG3Q95QGegH4e7xpF43i0Ab4R9Qv4FNCqHQ1wytEklxTHlWaDsUwBSUyVP1aBVQ3L1rwiCASQfMd6WT7ME34GyMsNMVdttUI4QONwWU/yh8GFeqQ+OiL50rarjFPy7bunQRa8F1lSGvEAmPELrdvHbiE35jXrBO2FprW6kPmRMEUYKy0phSeROanNrOd0kD+g8EuoAjk+OSFR9q88jrSentMBYMvbDuhFGhr7AX54Ey8Ja3RH9PJhg1HBuk=;5g4BDor376MXlgeOZkCznw=="
 ---

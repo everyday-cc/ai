@@ -9,7 +9,7 @@ ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/961962"
 cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/961962"
 type: article
 quality: 52
-heat: 102
+heat: 82
 published: true
 
 provider:
@@ -64,34 +64,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/01/04154638/BNP-Paribas-biometric-payment-cards.jpeg"
         width: 1100
         height: 733
-        isCached: true
-  - title: "Amazon unveils series of face and voice biometrics updates"
-    excerpt: "Amazon has a series of new updates focusing on the biometric capabilities of some of its hardware products, as well as on the company’s AWS marketplace."
-    publishedDateTime: 2021-09-29T19:17:00Z
-    webUrl: "https://www.biometricupdate.com/202109/amazon-unveils-series-of-face-and-voice-biometrics-updates"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/08/16125525/amazon.jpeg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Auraya launches voice biometrics for forensics, adds SaaS delivery model"
-    excerpt: "The new offering is the renamed third-generation of EVA Fraud Manager, which is now available through an SaaS delivery model."
-    publishedDateTime: 2021-09-29T19:50:00Z
-    webUrl: "https://www.biometricupdate.com/202109/auraya-launches-voice-biometrics-for-forensics-adds-saas-delivery-model"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 23
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
-        width: 900
-        height: 499
         isCached: true
 
 secured: "CHlQcrplN3HzX/ldqozNT1Dn/DU0eu8tgJbt/TenSEKT9/yYyMSkniU7wJTeS2+vEUaHKVG/Ze61H3+cPGgCQpGvfLN0hJNArgXKiDk7ZlS92YeahO7BZpw8US6w0re3DTC9/DDwST0dCOTupL1O2IlRNUJE2+4OXxEUTuMWVKKPRpMMd26lzhFBPf8RnoJm6nbTQd4s4RTKEca+igzrDD8Mx/0b2NZ7WUNQRnpHgUOpu8qpn7mWCzrKq8v9kzFXkk8DCGX0dwS8ByTbFkroIrWaIZPRzZzN7J0y9vvLOy6lq30mHJxzgP6FYHYLHy8cSufhgNqbTk4L+90diCxASiX5f+kzwQzlXBaq4/lL0pQ=;v5tMRNHcAqe7Pvca54M1jQ=="

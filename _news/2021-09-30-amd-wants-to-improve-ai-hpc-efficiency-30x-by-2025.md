@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AMD wants to make its chips 30 times more energy-efficient by 2025"
-    excerpt: "For years, Intel had been sitting on its CPU throne, gradually losing its drive to innovate process technology. Instead, the company chose to take the \"abnormally"
-    publishedDateTime: 2021-09-29T19:58:00Z
-    webUrl: "https://www.techspot.com/news/91485-amd-wants-make-chips-30-times-more-energy.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/91485-amd-wants-make-chips-30-times-more-energy.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91485-amd-wants-make-chips-30-times-more-energy.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 89
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-29-image-36.jpg"
-        width: 3840
-        height: 2160
-        isCached: true
   - title: "AMD aims to increase efficiency of server chips 30x by 2025"
     excerpt: "AMD aims to improve the efficiency of its server chips by 30x over the next four years by increasing performance while consuming less power."
     publishedDateTime: 2021-10-01T21:30:00Z
@@ -56,6 +40,20 @@ related:
       - url: "https://www.pcinvasion.com/wp-content/uploads/2021/10/AMD_EPYC_1480x882.jpg"
         width: 787
         height: 558
+        isCached: true
+  - title: "AMD announces '30x by 2025' AI and HPC efficiency goal"
+    excerpt: "AMD has announced its ambition to increase the energy efficiency of processors running AI training and high performance computing applications 30x by 2025. Industry-wide we expect efficiency improvements in the same timescale,"
+    publishedDateTime: 2021-09-30T09:11:00Z
+    webUrl: "https://hexus.net/tech/news/industry/148445-amd-announces-30x-2025-ai-hpc-efficiency-goal/"
+    type: article
+    provider:
+      name: Hexus
+      domain: hexus.net
+    quality: 39
+    images:
+      - url: "https://hexus.net/media/uploaded/2021/9/df182448-0791-46ed-b08f-12f83a1e553b.jpg"
+        width: 515
+        height: 221
         isCached: true
 
 secured: "VHGfkD4LndnqK2AYWEZ0h3cttWQ4wo84Jv728U4Kgc0hRnCVCXRG0i9A8insQjDDds+Wi81DGi68l0t8nxYzzailOqid9AFdXvSQslLQvC945l2bAyEl9M2EEK5jqX8IUJbfV4fwaKkCOtgOJIEmBlj09ivoxYjN12zWbtBuSB9NIJizCj/wLgW9UodjVXXPAPM8PWJU0ufxw4IdR2jEVI/4TeTmGHNqD+7OP0gbOiFgefG/NI4ZwLeqBFN2ganQH8/EjXX++Le42R2sDD4sUni6byl1EjRO8fEUvRxhz8uCp8+IAEvkUBtsRvbZ89Ksb+wMdI8U2v48YMa+YLWfHgA4q73974i0+Yrz42IwcvBZSBs8bGwyg22FFoSYxI8ierkqLapgQwB6pvlToCkwjF/fMiFN31hm08kAkWYLKV3dFaaLtuRCe3gOkhh5oQ8Vz1ZUFR8MwOr8lPqIWo229+Vpim4v2qSrfkmHWCbiQoYW3U7w1Kt0klTWp0cGGwBVUgirz8tQT7vRHWxpvrdcug==;ZZw0FCFMndcuX6inyx4muw=="

@@ -37,6 +37,22 @@ related:
         width: 720
         height: 433
         isCached: true
+  - title: "How to get AI analytics right"
+    excerpt: "While there is plenty of anecdotal evidence about how AI will improve analytics, there isn't as much discussion about implementation."
+    publishedDateTime: 2021-10-04T12:32:00Z
+    webUrl: "https://venturebeat.com/2021/10/04/how-to-get-ai-analytics-right/"
+    ampWebUrl: "https://venturebeat.com/2021/10/04/how-to-get-ai-analytics-right/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/04/how-to-get-ai-analytics-right/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/09/network-6511448-e1632770373894.jpg?w=1200&strip=all"
+        width: 1200
+        height: 598
+        isCached: true
   - title: "Analytics Insight describes top artificial intelligence stocks to buy in October"
     excerpt: "This article features the top artificial intelligence stocks to buy in October 2021 from reputed tech companies. Buying AI stocks in October will provide higher revenue through AI model by harnessing artificial intelligence."
     publishedDateTime: 2021-10-04T11:13:00Z

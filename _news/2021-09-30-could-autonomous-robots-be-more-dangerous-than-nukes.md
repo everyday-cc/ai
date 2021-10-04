@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/could-autonomous-robots-be-mo
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/an-autonomous-robot-ma.jpg"
         width: 1356
         height: 668
-        isCached: true
-  - title: "An autonomous robot may have already killed people - here's how the weapons could be more destabilizing than nukes"
-    excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
-    publishedDateTime: 2021-09-29T19:07:00Z
-    webUrl: "https://www.seattlepi.com/news/article/An-autonomous-robot-may-have-already-killed-16495797.php"
-    ampWebUrl: "https://www.seattlepi.com/news/amp/An-autonomous-robot-may-have-already-killed-16495797.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/An-autonomous-robot-may-have-already-killed-16495797.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 37
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
 
 secured: "TNUtiUeXWoRBAz4ItbEYKnijs1KqbWHY/tOQ3xVQ5PB5dE2zK+B8YvKCyVbwzXfX1AzY0QBs2ErBMsv4SryG0L97e6pQrGHjZ/G5gIAlGApsJy0IesY+2DVYi7DtkvwHphctf77fPzraaRHHGUcBaZOMQWkLYT8NLRBNRb12AUOA9wLEZ07Eulv6ABqUJFQwP1uLR9WGV9C1D3+6/ENAIjX/MUJKtH2JUjBtw6HB3gcpYYOdS5VLniqisxB7vLE2XxmvnDrDH+BR5WRH0/gGG2r5vjUa9ocIchb8v3/14/u8T42bJULLmncdkNXd4IQF7NIk6mSMjiSGSEdrt9IWUI4vQQuZ6CReyfDuQNECrFWEHAsdMwrOdxgfPgnjTWITK2Wx4c6nfqJgCS70SSOKIvdg1MZHYqYyPdhQ3+AiVR6wGlCV5TNjtOSHXxNtKZuKgOQCIy2gJTZwRudIPw5QhjSjMF6WLu+DT/1P+HWXtiRVt4l5p1Feda8Fvbid9fy6hTcIGb1NKlJP+zHRP/255w==;d0+W1oAQLLyHcguBORCh0g=="
