@@ -2,7 +2,7 @@
 name: "NAVYA"
 overview: "Neurala is the company behind Brain Builder - the AI software platform powering visual inspections on 53 million devices worldwide."
 type: "profile"
-heat: 31
+heat: 41
 
 website: https://navya.tech
 
@@ -40,6 +40,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Af45fT7nrBA"
 
-secured: "5dkq1EmaclVItSeXhGWutDWdMyPo2VoQTYb17gSMQ+6wTek1LPscfIqvkeKKye+B9nK0Sq0LgQx+ArQhrXA98jRjwmwtyvfEP9h4+n3Oc0UWdrSLLsUQHc97LqZZmwkyzFwwjggNaCmdlG7v80O4ViwzJh7oiPolblwKkE6DBVqFFfkGZ7YCvJoErQv0z4W4Udb1Iz8SWMA12LbhSX+txpjs3Oj/FxmiB7m1w6pAAJO5ygFD844877s4zScACcS5er6KhHQPn+hNhlV7slZ/rfaBQPFsSxRK7zI11hOK36iiRyJfrMj6An3RodtKTq+faasFQCDAyUjYqHgMhtxqTjFcYmlmVW33ez5CfB243vnUA78X1IJSITKJlOF6aE2Ccoa5dQi0EafNFF7WvgogiCGsU6R05HFiQYMJBb2dNMA=;tDyy6QT2glTsBkjGkeKcqg=="
+secured: "6cwb5yZ7/Yk5FQCsyZNDvrSh11ep5N/mt2M8wDJonnxYSZRwJMqVLKjfDurGt1680QNvppKS5dbxAGejTHQHqtsrxKzu4fDKbc4BZIvaratk1yx7UBRLT5msrIdw40Krl3MZrAlqJscSxTxEpmJNvqH2Z2R4CJ62t0OOK8hX/8jhx3wbQPJykvGvDZtvFj6Z8dhdJkfYbWdKmd78igc+6LGa0dd+RTjpfQmSae0fH111qKfcA9bNA6QnVUttEUbP8TECjES0adTSuMHJUwhh4ssiAJMdrbxt9HM7jbmWn1uiyuJTRkl0TphONLF9wFUvtATuaraYDzYD1JSiBFb0tdHb+eqphhW7hSFa6p2tsnXqk/Wjgqpg1Us3cC+8awG//MxvsXYUHMv+apYZaLONtopbwV3c0R5bD8qMbR6zVLc=;LTaPg+/GPIX9Bb062zusyg=="
 ---
 
