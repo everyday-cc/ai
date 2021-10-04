@@ -40,20 +40,6 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "Soft Robotics Moves into AI"
-    excerpt: "Exclusive - Technologies from Soft Robotics are on display across the show floor on robotic systems at BCA (Booth SU-7155/7156), Fanuc (Booth C-1441), Harpak-Ulma (Boot"
-    publishedDateTime: 2021-09-29T18:00:00Z
-    webUrl: "https://www.packworld.com/PACKEXPO/article/21735125/soft-robotics-moves-into-ai"
-    type: article
-    provider:
-      name: Packaging World
-      domain: packworld.com
-    quality: 69
-    images:
-      - url: "https://img.packworld.com/files/base/pmmi/all/image/2021/09/Soft_Robotics.614bb12ec3cc1.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 443
-        height: 613
-        isCached: true
   - title: "Kai-Fu Lee — The Future of Artificial Intelligence"
     excerpt: "The extraordinary opportunities—and challenges—presented by artificial intelligence are at the heart of Kai-Fu Lee's new book, AI 2041: Ten Visions for Our Future, a \"scientific fiction\" that sketches 10 possible AI-driven futures that are within the realm of the scientifically possible."
     publishedDateTime: 2021-10-02T05:47:00Z
@@ -109,6 +95,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/lmtribune.com/content/tncms/assets/v3/editorial/7/3b/73b47508-662a-5d8e-a646-636971f74716/61523f24dd8d4.image.jpg?resize=945%2C630"
         width: 945
         height: 630
+        isCached: true
+  - title: "Inside the happy heart of Ai-Ai de las Alas"
+    excerpt: "Everybody’s favorite funny woman Ai-Ai de las Alas has her hands full at this time, especially given that a new season of The Clash has just commenced. It is the singing search program’s fourth season,"
+    publishedDateTime: 2021-10-04T11:33:00Z
+    webUrl: "https://businessmirror.com.ph/2021/10/04/inside-the-happy-heart-of-ai-ai-de-las-alas/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 37
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2021/10/life03-100521.jpg"
+        width: 720
+        height: 838
         isCached: true
 
 secured: "BvtDv1uoNRKQv099jZAkJcQH1hkiQEgTm+Y/YBbAJXvuLDXSNQGm22L6QKasprdHYj50uhf9bnsaNchy7APVkpQ8jjktZo/bYABfoFRHtbAZr/L2Dg7LlrM/TfXqG6PjeGat/a7tBFr/A7eIyJJI7hVCkEwkRY7bmzJ3K9PKP1IDp3f5PblShWonNM1RUV7bj16Uu1cceK/Uf+XUBjCdFUzzof+SD7Cjpk/kFG0LCUmGDPHJKyU8FAFymAhx9STds5XkCCFKL2ie+tiaaQyT4+j9PhvI5B7lqVSholk1MKdeIY2BqTqSMlPaTFxNw96nMHOH6LRtICuK8+pwzX+qYmC/A8XlO3EWUZ16fmSGnLl6F+lrCotGUafQ17JxoQj6Y+aZWE36A5BSagCPTyABFOUeLSjXhgKA5CVdR6hNKcHrr621gOGP3E7JFBFTLePTf2N+UCnO+Q26A3h/vAFCoj2uQf0KzuZ4hVcPquYvct5PYNble+MdV+qBeEXjpCCU1eUVlULxSn1kDidx+ns7uw==;H7fz//xY/04rHAJbawO2/g=="

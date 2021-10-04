@@ -2,6 +2,213 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-09-24-uks-ai-strategy-is-ambitious-but-needs-funding-to-match-says-facultys-marc-warner.md",
+      "title": "UK’s AI strategy is ‘ambitious’ but needs funding to match, says Faculty’s Marc Warner",
+      "excerpt": "The UK published its first ever national AI strategy this week. The decade-long commitment by the government to levelling up domestic artificial intelligence capabilities — by directing resource and attention toward skills,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/24/uks-ai-strategy-is-ambitious-but-needs-funding-to-match-says-facultys-marc-warner/",
+      "originalUrl": "https://techcrunch.com/2021/09/24/uks-ai-strategy-is-ambitious-but-needs-funding-to-match-says-facultys-marc-warner/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1047349788-1.jpg?w=1024",
+          "width": 1024,
+          "height": 696,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/24/uks-ai-strategy-is-ambitious-but-needs-funding-to-match-says-facultys-marc-warner/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/24/uks-ai-strategy-is-ambitious-but-needs-funding-to-match-says-facultys-marc-warner/amp/",
+      "publishedDateTime": "2021-09-24T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-android-update-teases-improved-accessibility-options-for-handwriting-facial-recognition.md",
+      "title": "Android update teases improved accessibility options for handwriting, facial recognition",
+      "excerpt": "Google is launching 13 new Android features this autumn, including new accessibility features, improvements to Waze, and alerts to remind you to look up from the phone screen while walking. The tech giant is launching two new accessibility features to help people with motor and speech impairments,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/mobile/google-android/361007/android-accessibility-facial-recognition-handwriting-autumn",
+      "originalUrl": "https://www.itpro.co.uk/mobile/google-android/361007/android-accessibility-facial-recognition-handwriting-autumn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1632486148/Google_android_new_features.png",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-24T05:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-how-is-an-ai-vacuum-different-than-a-robot-vacuum.md",
+      "title": "How is an A.I. vacuum different than a robot vacuum?",
+      "excerpt": "If you've been shopping for a robot vacuum, you may have heard that some of these bots have A.I. capabilities. Here's what sets them apart from robo-vacs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/what-is-ai-robot-vacuum/",
+      "originalUrl": "https://www.digitaltrends.com/home/what-is-ai-robot-vacuum/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/samsungs-jetbot-90-ai.jpg",
+          "width": 2416,
+          "height": 1611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/what-is-ai-robot-vacuum/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/what-is-ai-robot-vacuum/?amp",
+      "publishedDateTime": "2021-09-24T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-ai-cannot-be-the-inventor-of-patents-uk-court-rules.md",
+      "title": "AI cannot be the inventor of patents, UK court rules",
+      "excerpt": "The UK Court of Appeal has ruled that artificial intelligence (AI) cannot hold ownership of new patents, in a two-to-one majority verdict. The appeal was heard after Stephen Thaler, CEO of Imagination Engines,",
+      "sourceUrl": null,
+      "webUrl": "https://artificialinventor.com/dabus/",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/360998/uk-rules-that-ai-cannot-be-inventor-of-patents",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://artificialinventor.com/wp-content/uploads/2020/07/the-new-image-1.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-24T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-24-will-amazon-web-services-partnership-restore-snowflakes-triple-digit-growth.md",
       "title": "Will Amazon Web Services Partnership Restore Snowflake’s Triple-Digit Growth?",
       "excerpt": "Snowflake and AWS have a partnership that mixes cooperation and competition. Is that good for Snowflake investors?",
@@ -994,198 +1201,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-gm-invests-300m-in-chinas-self-driving-car-company-momenta.md",
-      "title": "GM invests $300M in China’s self-driving car company Momenta",
-      "excerpt": "General Motors is investing $300 million in China's self-driving car company Momenta. GM said Thursday that the investment will speed up the development of next-generation self-driving technologies in China.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/business-technology-china-3ac51a2f83d29fffa9807a5b74b02070",
-      "originalUrl": "https://apnews.com/article/business-technology-china-3ac51a2f83d29fffa9807a5b74b02070",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/afs-prod/media/1759e8719a7e4b3196a74cd342b7b4ee/3000.jpeg",
-          "width": 2999,
-          "height": 3000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-23T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-korea-economic-daily.md",
-      "title": "Samsung in talks with Tesla to make next-gen self-driving chips -Korea Economic Daily",
-      "excerpt": "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/samsung-talks-with-tesla-make-next-gen-self-driving-chips-korea-economic-daily-2021-09-23/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/samsung-talks-with-tesla-make-next-gen-self-driving-chips-korea-economic-daily-2021-09-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/WvidrcP5l2WCxHpUqCwZpUom3cQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FKIHL5J22BM6LM73QL4MWKOOG4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-23T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-tesla-is-in-talks-with-samsung-to-produce-its-next-gen-full-self-driving-chip.md",
-      "title": "Tesla is in talks with Samsung to produce its next-gen Full Self-Driving chip",
-      "excerpt": "According to a new report from Korea, Tesla is currently in talks with Samsung Electronics to produce its next-gen Full Self-Driving chip. The new chip is expected to first launch in the Tesla Cybertruck next year.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/",
-      "originalUrl": "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 423,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Screen-Shot-2019-04-22-at-2.48.54-PM-e1568302212821.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/amp/",
-      "publishedDateTime": "2021-09-23T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-opinion-how-artificial-intelligence-could-save-your-life.md",
-      "title": "Opinion: How artificial intelligence could save your life",
-      "excerpt": "Machine intelligence implies serious consequences for human life, with mass unemployment being just one example. And yet, the transformative power of AI might actually save people’s lives. AI aims to simulate the human mind’s ability to learn,",
-      "sourceUrl": null,
-      "webUrl": "https://montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life",
-      "originalUrl": "https://montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.prod.postmedia.digital/montrealgazette/wp-content/uploads/2021/09/afp_1qa2a5.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life/wcm/5f1cb3c0-543d-4e66-a770-f4122faac455/amp/",
-      "cdnAmpWebUrl": "https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life/wcm/5f1cb3c0-543d-4e66-a770-f4122faac455/amp/",
-      "publishedDateTime": "2021-09-23T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Montreal News",
-        "domain": "montrealgazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -29,107 +29,92 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is making information more useful"
-    excerpt: "Today, there’s more information accessible at people’s fingertips than at any point in human history. And advances in artificial intelligence will radically transform the way we use that information, with the ability to uncover new insights that can help us both in our daily lives and in the ways we"
-    publishedDateTime: 2021-09-29T17:45:00Z
-    webUrl: "https://blog.google/products/search/how-ai-making-information-more-useful/"
+  - title: "Assessing the intersection of open source and AI"
+    excerpt: "The idea that open source tools, libraries, and communities are creating AI projects in the usual fast-and-loose fashion sparks unease."
+    publishedDateTime: 2021-09-29T23:40:00Z
+    webUrl: "https://venturebeat.com/2021/09/29/assessing-the-intersection-of-open-source-and-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/09/29/assessing-the-intersection-of-open-source-and-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/assessing-the-intersection-of-open-source-and-ai/amp/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 89
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/search_on.max-1300x1300.jpg"
-        width: 1300
-        height: 733
-        isCached: true
-  - title: "Google is using artificial intelligence to make information more useful"
-    excerpt: "At its Search On event this week, Google revealed details about how it plans to use a technology it calls Multitask Unified Model (MUM), which should"
-    publishedDateTime: 2021-09-30T20:52:00Z
-    webUrl: "https://www.techspot.com/news/91514-google-using-artificial-intelligence-make-information-more-useful.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/91514-google-using-artificial-intelligence-make-information-more-useful.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91514-google-using-artificial-intelligence-make-information-more-useful.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-30-image-36.jpg"
-        width: 1680
-        height: 1120
+      - url: "https://venturebeat.com/wp-content/uploads/2021/09/artificial-intelligence-3706562-e1632761155672.jpg?fit=800%2C267&strip=all"
+        width: 536
+        height: 267
         isCached: true
-  - title: "The Future of Artificial Intelligence In Manufacturing"
-    excerpt: "Any company working in the manufacturing industry is likely to know that AI has been making significant improvements with a range of applications."
-    publishedDateTime: 2021-09-30T11:11:00Z
-    webUrl: "https://bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/"
-    ampWebUrl: "https://bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/?amp"
-    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/?amp"
+  - title: "OpenAI is working on an artificial intelligence model capable of summarizing books"
+    excerpt: "OPEN-AI, the \"capped\" for-profit company founded by Elon Musk, is continuing to improve its GPT-3 language model and is developing a tool for summarizing books or texts. It's a development that could benefit businesses in particular."
+    publishedDateTime: 2021-09-30T00:10:00Z
+    webUrl: "https://www.astroawani.com/berita-dunia/openai-working-artificial-intelligence-model-capable-summarizing-books-322510"
+    ampWebUrl: "https://www.astroawani.com/berita-dunia/openai-working-artificial-intelligence-model-capable-summarizing-books-322510?amp=1"
+    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/openai-working-artificial-intelligence-model-capable-summarizing-books-322510?amp=1"
     type: article
     provider:
-      name: Business Matters
-      domain: bmmagazine.co.uk
-    quality: 59
+      name: Astro Awani
+      domain: astroawani.com
+    quality: 68
     images:
-      - url: "https://bmmagazine.co.uk/wp-content/uploads/2021/09/shutterstock_1154438635-scaled.jpg"
-        width: 850
-        height: 375
-        isCached: true
-  - title: "Kore.ai raises $50M for its AI-powered experience optimization platform"
-    excerpt: "Startup Kore.ai Inc. today announced that it has raised a $50 million funding round led by Vistara Growth and PNC to fuel the growth of its software platform, which helps companies build artificial intelligence assistants to automate repetitive business tasks."
-    publishedDateTime: 2021-09-29T20:45:00Z
-    webUrl: "https://siliconangle.com/2021/09/29/kore-ai-raises-50m-ai-powered-experience-optimization-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/image-7.png"
-        width: 932
-        height: 517
-        isCached: true
-  - title: "EU is working on legislation on artificial intelligence"
-    excerpt: "Artificial intelligence solutions can be an opportunity to stimulate the economy and make a technological leap. On the other hand, they are also associated with threats, and there are already cases in Europe where artificial intelligence algorithms have been used in a way that raises legal doubts."
-    publishedDateTime: 2021-10-04T09:41:00Z
-    webUrl: "https://wbj.pl/eu-is-working-on-legislation-on-artificial-intelligence/post/132216"
-    type: article
-    provider:
-      name: Warsaw Business Journal
-      domain: wbj.pl
-    quality: 37
-    images:
-      - url: "https://wbj.pl/uploads/images/qd/615acc0819b2d.jpg"
-        width: 600
+      - url: "https://img.astroawani.com/2021-09/41632888862_OpenAI.jpg"
+        width: 590
         height: 400
         isCached: true
-  - title: "More Organizations Saving Time and Costs on Data Breaches with Automation and AI"
-    excerpt: "Cost of a Data Breach report shows, AI and automation can reduce the cost of a data breach. See how organizations with AI security fared in 2021."
-    publishedDateTime: 2021-10-01T17:30:00Z
-    webUrl: "https://securityintelligence.com/posts/save-time-money-data-breach-security-ai-automation/"
+  - title: "Marketing Artificial Intelligence: AI, Marketing, and the Future of Business"
+    excerpt: "Artificial intelligence is forecasted to have trillions of dollars of impact on businesses and the economy, yet many marketers struggle to understand what it is and how to apply it in their marketing efforts."
+    publishedDateTime: 2021-09-30T19:43:00Z
+    webUrl: "https://www.amazon.co.uk/Marketing-Artificial-Intelligence-Future-Business-ebook/dp/B09HH2LZ9M"
     type: article
     provider:
-      name: Hack
-      domain: securityintelligence.com
-    quality: 32
+      name: Amazon Associates UK
+      domain: amazon.co.uk
+    quality: 66
     images:
-      - url: "https://securityintelligence.com/wp-content/uploads/2021/10/Data-Breach-1.jpeg"
-        width: 1200
-        height: 630
+      - url: "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png"
+        width: 350
+        height: 450
         isCached: true
-  - title: "The Future is Now: How AI in Diagnostic Imaging is Transforming Medical Applications"
-    excerpt: "The Use of AI in Diagnostic Imaging is Booming in Healthcare Industry” Download the most up-to-date research study and application @  AI in diagnostic imaging is gaining prominence and quickly growing industry close to what's to come."
-    publishedDateTime: 2021-10-01T19:22:00Z
-    webUrl: "https://www.linkedin.com/pulse/future-now-how-ai-diagnostic-imaging-transforming-medical-p-mahajan"
+  - title: "Microbes, Natural Intelligence and Artificial Intelligence"
+    excerpt: "Humanity is an outgrowth of natural life, but it currently enables a phase transition into technological relics that could survive longer than biological creatures. And the same could have happened long ago around other stars that formed billions of years before the sun."
+    publishedDateTime: 2021-10-02T14:59:00Z
+    webUrl: "https://www.scientificamerican.com/article/microbes-natural-intelligence-and-artificial-intelligence/"
+    ampWebUrl: "https://www.scientificamerican.com/article/microbes-natural-intelligence-and-artificial-intelligence/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/microbes-natural-intelligence-and-artificial-intelligence/?amp=true"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 30
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 57
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGmyKBct-TaWg/article-cover_image-shrink_720_1280/0/1633115703468?e=1638403200&v=beta&t=lYhzsqOGDrkEHBGeACtqj6r46vmodR0eEfo1XbStQwY"
-        width: 1280
-        height: 720
+      - url: "https://static.scientificamerican.com/sciam/cache/file/2919B23F-0C73-466D-859B49145D379F97.jpg"
+        width: 790
+        height: 496
+        isCached: true
+  - title: "Role of conversational AI in shaping businesses and accelerating growth"
+    excerpt: "The need for humanizing and speeding up customer interactions is rising rapidly. Customers expect businesses to assist them 24/7, anticipate their needs, and provide a quick resolution of issues. Companies deploy AI-powered assistants to"
+    publishedDateTime: 2021-10-04T10:51:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/role-of-conversational-ai-in-shaping-businesses-and-accelerating-growth/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/role-of-conversational-ai-in-shaping-businesses-and-accelerating-growth/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/role-of-conversational-ai-in-shaping-businesses-and-accelerating-growth/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 37
+  - title: "These Indian AI start-ups are raising the bar high every year since the inspection"
+    excerpt: "Did you know, according to the latest research Indian AI start-ups have raised about US$836.3 million in 2020. Here are the top 10 Indian AI start-ups that have raised funding in 2021 on AI technologies."
+    publishedDateTime: 2021-10-01T12:38:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-indian-ai-start-ups-that-have-raised-funding-in-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 35
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-10-Indian-AI-Startups-that-have-raised-funding-in-2021.jpg"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "KEhmQnVI1Il72Pe/6jbpeiloyrJl/Ptqezk7yuXHmfQ3fmuVxmLYOUnGlSzgcIHsu0C4IQAjMFAWwUBx/uskTQI/O1lutnEYs4WnUvhJrlMtrRJZJDGB7R/AbF8YzL5RzqWkWgcAsUDGrR8nMrXGy+CNjyXzX7pErVwgHZcroluXp3E8MPP6VGyDN8XwTuY3QVmduFlN9JfWnsaTv1I22Zl2hdzUozeCInxABi0a2RaLI83buGXgwgdA5twvY3++opI1greSkaJrJbgZ0t1vpyYGW1GoBVrb/XRxiOygLcwf6mLoHWj39LEo0DA+ezSQ3Sk6AHdb9HYcLI6oAuPGdRUH/AW5hJtOYB6MZFq0NpLkYFq+wn1X7NXiXp8/L/J11f3pzeMgzERyZMpGgtBB2PyIPf7CUuPO2vOEBEZtXnuHUhuM89Ny6GxHdQ1wJfB2UmC7Z8EV65Ug+g+rWsuDel5/zbkis+5DfYJgCXm4dCTrTDKexFMAY+lCnVZjBXBZ3nxD5MfVMVJolj1hbtN2cg==;mlSc6DoopLd0IWZMgpkPrA=="

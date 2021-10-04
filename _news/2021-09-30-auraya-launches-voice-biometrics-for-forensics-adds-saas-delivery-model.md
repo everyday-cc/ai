@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 740
         isCached: true
+  - title: "Gnani.ai launches voice biometrics software"
+    excerpt: "Gnani.ai a conversational AI and voice security domain announced the launch of its home-grown voice biometrics software armour365. The biometric solution caters to new and emerging risks in fraud prevention and information security."
+    publishedDateTime: 2021-10-04T11:11:00Z
+    webUrl: "https://www.ciol.com/gnani-ai-launches-voice-biometrics-software/"
+    ampWebUrl: "https://www.ciol.com/gnani-ai-launches-voice-biometrics-software/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/gnani-ai-launches-voice-biometrics-software/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 37
   - title: "NZ airport face biometrics trial deployed against Privacy Commissioner advice"
     excerpt: "New Zealand Aviation Security Service started trials of a new face biometrics system at Wellington Airport despite open concerns from the Privacy Commissioner."
     publishedDateTime: 2021-10-01T18:21:00Z
@@ -82,20 +93,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/08/16125525/amazon.jpeg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "India’s new law enforcement face biometrics RFP tilts in favor of local vendors"
-    excerpt: "The system will analyze faces captured by CCTV cameras as well as social media accounts, passport photos, criminal records and newspapers."
-    publishedDateTime: 2021-09-29T18:48:00Z
-    webUrl: "https://www.biometricupdate.com/202109/indias-new-law-enforcement-face-biometrics-rfp-tilts-in-favor-of-local-vendors"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 20
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
         isCached: true
 
 secured: "/mAyZQ1/P4Ie2GtrIv2Paq4fIX7poFTpjcXGH3QYysEqe0y59KLDQX5EHXCXWGErRHl3VfHx7niYhera44m7jvq5pJ0gZJmDopLT1or/H69tw6+pDIPBQ+PLiePffXhe58N0dEXz3ezPpyipR+LUtAezrzhWGUp45Bo0k4NoCRjprJriW3uoxZ62p1x6sROXnCdvsN0ElNhSeGq+ol2gG/vDgNQR2hbmR6n2t9EyKHOjvOHK6L660whORKBms9aL0fJn5ZeTnpEZQYq4wH8Z7D/rr13wBoUJNLX0/CEIKkj9ulyJd2MfQ2NoqR+VKEDN2DCSLT4YE6i27k/GNpsLHZwGzLiy+XCFtZegaNNo8qNw+cjKVW8EaVM3tt5kxZ8pvt8/+By0BFgZuChbob0iSDV1kwKu98/vjwYijgPLuRQ7Z8IjbjPMV39C5yg618DaORrDpcxlp3lQMCAzi+JyOXhqb77EUpclXxr1HSkSlBmpyis5J72EBmx1PnQn/xSTcXHKPOklzbAYJlS6bumV7w==;d5VRWsxnASvwjf+64UOFgw=="

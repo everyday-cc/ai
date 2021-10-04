@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Skill Development Course on Foundations of Modern Machine Learning launched at IHub-Data, IIIT Hyderabad"
-excerpt: "A 50-week-long online programme on Foundations of Modern Machine Learning designed for the benefit of undergraduate engineering students"
-publishedDateTime: 2021-10-04T08:27:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/skill-development-course-on-foundations-of-modern-machine-learning-launched-at-ihub-data-iiit-hyderabad-848397550.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/skill-development-course-on-foundations-of-modern-machine-learning-launched-at-ihub-data-iiit-hyderabad-848397550.html"
+excerpt: "A 50-week-long online programme on Foundations of Modern Machine Learning designed for the benefit of undergraduate engineering students in India, got underway at IIIT Hyderabad today. Prof"
+publishedDateTime: 2021-10-04T10:00:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/skill-development-course-on-foundations-of-modern-machine-learning-launched-at-ihub-data-iiit-hyderabad-121100400763_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/skill-development-course-on-foundations-of-modern-machine-learning-launched-at-ihub-data-iiit-hyderabad-121100400763_1.html"
 type: article
 quality: 22
 heat: 22
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/600789/IIIT_Hyderabad_Logo.jpg?p=facebook"
-    width: 2398
-    height: 1257
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/04/full/20211004150150.jpg"
+    width: 600
+    height: 450
     isCached: true
 
-secured: "VSB9s6V7gwb/mijL9nx7G0bP0vDSx71ypBrOazSZZ9zHD3bzcJe1HoRaSC74F+bwwiaboQydp/5EQK1a/8STGBghbbfXVMa63h/qvqafmbb+Q0iNv6hM9pmrpF5qUK56ACBTBSHzvfFJanF01d9EGZZtT6+tu5zcV6/ExtV/A6Q8Sx4i0qwGFY6C+FzDBZc+1fMhGhpYIQfNnokPtnNAly6tRK9twuh0CBc7B9Rlp/wvUljT2Ljmh/2YwrDrts4vWLZOFTV3QiKyDBvhaZm9PTg70WEiW2Klmx0qqdF7OIC//D8dYn1fdUASkWzSAMnb1L71O4kycOjGOkn2Wy+JrybPOBTTtsm8HwRHj50KC6I=;Vd7rwtkbL/GBA3K5zEE3gQ=="
+secured: "UOfR9rz7L/53hIpHkE/kUxex7KyIbfcmeQaEf9wpJWll6zm49e0jbF/xzoK8MXLt9xnpvLcfQbDvU6OtOD1d5qL1mv4nWzqdhpVsM1jkJQ2yw9980X0t9M4O1zYD9DDdOo7LIRk+brDxTvznYuGsLuyJdQ033RBIPbq2WhSnkACES2r6H+3iQdotylZieotg2QI7jj4rKCN6/qoIMbq9eQHjwUG8TXybYsToHBfVRKTJPJUoGvrOSzi2+/i7kxccVAN6msez1X3s5jXxtCoKpfIfqxvwi6lk4ok23R40lVr1Rd7xdTv0Nz5wZ6DfPWw6nnqCf9iNWtpfgRxEM5RVcmCOPsboQaf5Bvq8cPJsvlI=;SvkIh60NW4brYV+tjy8vQQ=="
 ---
 

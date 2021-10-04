@@ -39,20 +39,6 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "Soft Robotics Moves into AI"
-    excerpt: "Exclusive - Technologies from Soft Robotics are on display across the show floor on robotic systems at BCA (Booth SU-7155/7156), Fanuc (Booth C-1441), Harpak-Ulma (Boot"
-    publishedDateTime: 2021-09-29T18:00:00Z
-    webUrl: "https://www.packworld.com/PACKEXPO/article/21735125/soft-robotics-moves-into-ai"
-    type: article
-    provider:
-      name: Packaging World
-      domain: packworld.com
-    quality: 69
-    images:
-      - url: "https://img.packworld.com/files/base/pmmi/all/image/2021/09/Soft_Robotics.614bb12ec3cc1.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 443
-        height: 613
-        isCached: true
   - title: "How to Use AI to Drive Business Growth in the Tech Era"
     excerpt: "AI allows for that. And from the looks of things, that will be nearly half of all US-based businesses within the next 12 months. However, even though the capabilities are there, it’s largely untapped potential."
     publishedDateTime: 2021-10-01T13:30:00Z
@@ -110,6 +96,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/lmtribune.com/content/tncms/assets/v3/editorial/7/3b/73b47508-662a-5d8e-a646-636971f74716/61523f24dd8d4.image.jpg?resize=945%2C630"
         width: 945
         height: 630
+        isCached: true
+  - title: "Inside the happy heart of Ai-Ai de las Alas"
+    excerpt: "Everybody’s favorite funny woman Ai-Ai de las Alas has her hands full at this time, especially given that a new season of The Clash has just commenced. It is the singing search program’s fourth season,"
+    publishedDateTime: 2021-10-04T11:33:00Z
+    webUrl: "https://businessmirror.com.ph/2021/10/04/inside-the-happy-heart-of-ai-ai-de-las-alas/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 37
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2021/10/life03-100521.jpg"
+        width: 720
+        height: 838
         isCached: true
 
 secured: "lhke5q872gbL/Q6i+OlfTUCbWUIg1uXCB3pxKbCZtdsoBBULIaG3bj33d9+Ob/syZC2e4rBNrIcvgLeveXE5VNxSWd6yo7p3hYNW2htkWI+L0rN06lWoF07dzgMtPY/kCd6zhqoq9iDcMGE6X6FxyomosR9p0yBXZ9Hum7yp6ZpzhB142P/pgKZvnWuOv08kvUemvlPtGXPtN5y5t+/yhS2qMzNTBj57YdlO8H7cHN7FBC2zACyKj8lI9rCEasaOy4nXmGcmeW8VriQ6RDKVZ6R9Tm+XezGifg8asdq+bAzq1JYLCVb/1pNrmUqmX6ERiLveaLKnxwCnRgj7qs9q71+1tN7/uF5O1JFFmnfJ7UexS3oExoXYeowdvvK1MZi20pEXw5GgxgcizNT9i1PlucoFiaZ3JGe0sWQCAyimdV5kPYaNVlBVmYWJ4VVYKSkkpzuCMW61E/uNn/YNiNvtqBtugQxVVByV3CZhQgQ9dYOIvQwvpw64jCOESPQjrLZ13EgT7LWmplQyQE4R4dQP4Q==;C5rMSwWmdfQFzr7J6C+pxA=="

@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-driven dynamic face mask adapts to exercise, pollution levels"
-    excerpt: "Researchers have developed a dynamic respirator that modulates its pore size in response to changing conditions, such as exercise or air pollution levels, allowing the wearer to breathe easier when the highest levels of filtration are not required."
-    publishedDateTime: 2021-09-29T17:51:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/09/210929080258.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Researchers Develops AI-Driven Dynamic Face Mask To Adapt To Exercise And Pollution Levels"
     excerpt: "The COVID-19 with its effect on the global populace had a lot of people the adorning facemasks to protect them"
     publishedDateTime: 2021-09-30T06:30:00Z

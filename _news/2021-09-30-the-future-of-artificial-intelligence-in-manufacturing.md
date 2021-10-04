@@ -27,105 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is making information more useful"
-    excerpt: "Today, there’s more information accessible at people’s fingertips than at any point in human history. And advances in artificial intelligence will radically transform the way we use that information, with the ability to uncover new insights that can help us both in our daily lives and in the ways we"
-    publishedDateTime: 2021-09-29T17:45:00Z
-    webUrl: "https://blog.google/products/search/how-ai-making-information-more-useful/"
+  - title: "Is the future ready for the rapid evolution of AI?"
+    excerpt: "President of the Academic City University confirming the accreditation and roll out of BSc. Artificial Intelligence (AI) at the institution."
+    publishedDateTime: 2021-09-30T10:33:00Z
+    webUrl: "https://thebftonline.com/30/09/2021/is-the-future-ready-for-the-rapid-evolution-of-ai/"
+    ampWebUrl: "https://thebftonline.com/30/09/2021/is-the-future-ready-for-the-rapid-evolution-of-ai/?amp"
+    cdnAmpWebUrl: "https://thebftonline-com.cdn.ampproject.org/c/s/thebftonline.com/30/09/2021/is-the-future-ready-for-the-rapid-evolution-of-ai/?amp"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 89
+      name: business
+      domain: thebftonline.com
+    quality: 61
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/search_on.max-1300x1300.jpg"
-        width: 1300
-        height: 733
+      - url: "https://i2.wp.com/thebftonline.com/wp-content/uploads/2021/09/sweet-girl-e1632994668420.jpg?fit=447%2C327&ssl=1"
+        width: 447
+        height: 327
         isCached: true
-  - title: "Google is using artificial intelligence to make information more useful"
-    excerpt: "At its Search On event this week, Google revealed details about how it plans to use a technology it calls Multitask Unified Model (MUM), which should"
-    publishedDateTime: 2021-09-30T20:52:00Z
-    webUrl: "https://www.techspot.com/news/91514-google-using-artificial-intelligence-make-information-more-useful.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/91514-google-using-artificial-intelligence-make-information-more-useful.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91514-google-using-artificial-intelligence-make-information-more-useful.html"
+  - title: "Deborah D Kanubala: Is Ghana ready for the rapid evolution of AI?"
+    excerpt: "On one of my social media tours exploring content on Facebook one afternoon, I came across a post by Prof. Fred McBagonluri, President of the Academic City University, confirming the accreditation and roll out of BSc."
+    publishedDateTime: 2021-09-29T22:10:00Z
+    webUrl: "https://www.myjoyonline.com/deborah-d-kanubala-is-ghana-ready-for-the-rapid-evolution-of-ai/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 87
+      name: MyJoyOnline
+      domain: myjoyonline.com
+    quality: 39
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-30-image-36.jpg"
-        width: 1680
-        height: 1120
-        isCached: true
-  - title: "The Role of Artificial Intelligence in the Future of Education"
-    excerpt: "Artificial Intelligence is already being widely employed around the world to better our lives, work, health, and everyday routines, among other things. Furthermore, the solution has significant educational potential,"
-    publishedDateTime: 2021-10-02T15:46:00Z
-    webUrl: "https://www.linkedin.com/pulse/role-artificial-intelligence-future-education-yogesh-khandelwal"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG1wh0a0R6i9A/article-cover_image-shrink_720_1280/0/1633189407713?e=1639008000&v=beta&t=qvFzABCXoEoVg9wK4OjX0No9S-1IUKYkvUBAcgs-ids"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Kore.ai raises $50M for its AI-powered experience optimization platform"
-    excerpt: "Startup Kore.ai Inc. today announced that it has raised a $50 million funding round led by Vistara Growth and PNC to fuel the growth of its software platform, which helps companies build artificial intelligence assistants to automate repetitive business tasks."
-    publishedDateTime: 2021-09-29T20:45:00Z
-    webUrl: "https://siliconangle.com/2021/09/29/kore-ai-raises-50m-ai-powered-experience-optimization-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/image-7.png"
-        width: 932
-        height: 517
-        isCached: true
-  - title: "EU is working on legislation on artificial intelligence"
-    excerpt: "Artificial intelligence solutions can be an opportunity to stimulate the economy and make a technological leap. On the other hand, they are also associated with threats, and there are already cases in Europe where artificial intelligence algorithms have been used in a way that raises legal doubts."
-    publishedDateTime: 2021-10-04T09:41:00Z
-    webUrl: "https://wbj.pl/eu-is-working-on-legislation-on-artificial-intelligence/post/132216"
-    type: article
-    provider:
-      name: Warsaw Business Journal
-      domain: wbj.pl
-    quality: 37
-    images:
-      - url: "https://wbj.pl/uploads/images/qd/615acc0819b2d.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "More Organizations Saving Time and Costs on Data Breaches with Automation and AI"
-    excerpt: "Cost of a Data Breach report shows, AI and automation can reduce the cost of a data breach. See how organizations with AI security fared in 2021."
-    publishedDateTime: 2021-10-01T17:30:00Z
-    webUrl: "https://securityintelligence.com/posts/save-time-money-data-breach-security-ai-automation/"
-    type: article
-    provider:
-      name: Hack
-      domain: securityintelligence.com
-    quality: 32
-    images:
-      - url: "https://securityintelligence.com/wp-content/uploads/2021/10/Data-Breach-1.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The Future is Now: How AI in Diagnostic Imaging is Transforming Medical Applications"
-    excerpt: "The Use of AI in Diagnostic Imaging is Booming in Healthcare Industry” Download the most up-to-date research study and application @  AI in diagnostic imaging is gaining prominence and quickly growing industry close to what's to come."
-    publishedDateTime: 2021-10-01T19:22:00Z
-    webUrl: "https://www.linkedin.com/pulse/future-now-how-ai-diagnostic-imaging-transforming-medical-p-mahajan"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 30
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGmyKBct-TaWg/article-cover_image-shrink_720_1280/0/1633115703468?e=1638403200&v=beta&t=lYhzsqOGDrkEHBGeACtqj6r46vmodR0eEfo1XbStQwY"
-        width: 1280
-        height: 720
+      - url: "https://www.myjoyonline.com/wp-content/uploads/2021/09/Deborah-D-Kanubala-2.jpg"
+        width: 276
+        height: 276
         isCached: true
 
 secured: "cB8HlzWQiFSfb4HAYP/Xg9vfEDooovKcBYvh/UtpnV/ZDYQfPZvT8WZ64FCJNBPFbdEodhJ9hCaIi+zTufKIEmIfdaNACaCPwQVh09aUB1NLlpwCynYFDN5SurLpBoF1yVnuUg3Kjf2ONFJ2iOMoTrm8jyRwM0ZXVpfXpnuFH/X+Ee0n6FbokXK2VHqBk4TXaJbbtmwhXudGSINKHg3CBG6PFCBkZ0MiQWv2tA5Z0RKhYKblMPOZLPvlcroEclRKxd8AYd9vDY+xo57vDKwQkwB5AdZ2spOgnj1MpmZYbOHemQSju+6ZmPhOYhFFZPzUpqgapY8re4HLHWCs7HI9bJJfvIoOza7Mb/3Ep0YXcWX+QuBrILgvMt2RbusWfpqXRuTcX1ioyBoQydqjUBkAnT3a84b5K7ixtagF73EsvMhVlrRlbve50gHHLQmPC2bNnJYNG3r+P0x4IoumEFokrSjpeS6Pqb3+kpt6RqrpbPw8coWrmUhL0a0Ik/smyqF4UPm9mTr0iEKU6VNqpDPg8w==;hDidstCOt7k5OvB2Wjnuqw=="

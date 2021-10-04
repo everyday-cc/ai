@@ -9,8 +9,8 @@ ampWebUrl: "https://www.greenhousegrower.com/technology/recent-merger-unites-art
 cdnAmpWebUrl: "https://www-greenhousegrower-com.cdn.ampproject.org/c/s/www.greenhousegrower.com/technology/recent-merger-unites-artificial-intelligence-management-platform-companies/?amp"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Greenhouse Grower
@@ -40,15 +40,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "AI’s many different personalities"
-    excerpt: "Alphawave shares crash, Streaming piracy, Withings diver’s watch"
-    publishedDateTime: 2021-09-29T17:36:00Z
-    webUrl: "https://www.ft.com/content/96e857a2-aeef-4fd8-912b-35b5432039dd"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "xdmgQXRSo95z/cLiNbMDl9lEpUO0JxkMt83eCBMOdWu/pDQ+vZG5a1W4zz/SgE+8Hdr2N/E5SGURSaSZ562gWit8Vv4LhzYNAohlTglYXuN1BSSXQUB0HHUiCDVh1D1W7Wlybd56Z4oeQISRJ5lxXy2co41u/rHc/HUi7XXtxTZGhmNmhN/vC9gf1TUdfeLjzDQgkuG1+g/bvUHcf9K22e4neEfvPHVRShQZuGsfmKAw/OfPd3N3Fodsx7cfDVu3A61UVy1O+6J8/FxOZUOsbkDVhwH0tJZpXnePs9qQO7drRsZmENIMXP61iVb/zPmzyrpL1DTvPUYCsCVos03p2jypOdYuUImx70a/0JaMGM70oXM5sqdRDReD53TY3yoMIgTY5YkQ+EtwZ3QG+veGGZkqd+ZThGns0pAHiSHgyGvSm5d8wdDL+iO77QGmycCKbtqRXu+HbfAuG5gWDdbCl/Aot1KrEWOduH53/ij/QMBO95HRaUAR4ivii1DO7XHwivDSpYzA+PRAlQLu4QWPcg==;7j+f3uNIICyqK7qsjoyMGQ=="
 ---

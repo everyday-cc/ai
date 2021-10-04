@@ -24,93 +24,49 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is making information more useful"
-    excerpt: "Today, there’s more information accessible at people’s fingertips than at any point in human history. And advances in artificial intelligence will radically transform the way we use that information, with the ability to uncover new insights that can help us both in our daily lives and in the ways we"
-    publishedDateTime: 2021-09-29T17:45:00Z
-    webUrl: "https://blog.google/products/search/how-ai-making-information-more-useful/"
+  - title: "AI Innovations In Media And Communications"
+    excerpt: "My last blog discussed AI innovations in the health care sector, and this one will share a few perspectives of new developments in the Media and Communications Industry."
+    publishedDateTime: 2021-09-30T17:19:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/amp/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 89
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/search_on.max-1300x1300.jpg"
-        width: 1300
-        height: 733
-        isCached: true
-  - title: "Google is using artificial intelligence to make information more useful"
-    excerpt: "At its Search On event this week, Google revealed details about how it plans to use a technology it calls Multitask Unified Model (MUM), which should"
-    publishedDateTime: 2021-09-30T20:52:00Z
-    webUrl: "https://www.techspot.com/news/91514-google-using-artificial-intelligence-make-information-more-useful.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/91514-google-using-artificial-intelligence-make-information-more-useful.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91514-google-using-artificial-intelligence-make-information-more-useful.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-30-image-36.jpg"
-        width: 1680
-        height: 1120
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155ef71088eada6a8f3c806%2F0x0.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "The Future of Artificial Intelligence In Manufacturing"
-    excerpt: "Any company working in the manufacturing industry is likely to know that AI has been making significant improvements with a range of applications."
-    publishedDateTime: 2021-09-30T11:11:00Z
-    webUrl: "https://bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/"
-    ampWebUrl: "https://bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/?amp"
-    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/?amp"
+  - title: "NASSCOM CoE-IoT and AI Evangelizes Digital Healthcare Solutions through Healthcare Innovation Challenge-2"
+    excerpt: "A grand finale event with the announcement of winners today marked the end of first phase and start of next phase focusing on deployment of solutions of Healt"
+    publishedDateTime: 2021-09-30T13:55:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271362699/nasscom-coe-iot-and-ai-evangelizes-digital-healthcare-solutions-through-healthcare-innovation-challenge-2"
     type: article
     provider:
-      name: Business Matters
-      domain: bmmagazine.co.uk
-    quality: 59
-    images:
-      - url: "https://bmmagazine.co.uk/wp-content/uploads/2021/09/shutterstock_1154438635-scaled.jpg"
-        width: 850
-        height: 375
-        isCached: true
-  - title: "The Role of Artificial Intelligence in the Future of Education"
-    excerpt: "Artificial Intelligence is already being widely employed around the world to better our lives, work, health, and everyday routines, among other things. Furthermore, the solution has significant educational potential,"
-    publishedDateTime: 2021-10-02T15:46:00Z
-    webUrl: "https://www.linkedin.com/pulse/role-artificial-intelligence-future-education-yogesh-khandelwal"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG1wh0a0R6i9A/article-cover_image-shrink_720_1280/0/1633189407713?e=1639008000&v=beta&t=qvFzABCXoEoVg9wK4OjX0No9S-1IUKYkvUBAcgs-ids"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Kore.ai raises $50M for its AI-powered experience optimization platform"
-    excerpt: "Startup Kore.ai Inc. today announced that it has raised a $50 million funding round led by Vistara Growth and PNC to fuel the growth of its software platform, which helps companies build artificial intelligence assistants to automate repetitive business tasks."
-    publishedDateTime: 2021-09-29T20:45:00Z
-    webUrl: "https://siliconangle.com/2021/09/29/kore-ai-raises-50m-ai-powered-experience-optimization-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 37
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/image-7.png"
-        width: 932
-        height: 517
+      - url: "https://cdn.bignewsnetwork.com/ani1633009356.jpg"
+        width: 630
+        height: 420
         isCached: true
-  - title: "EU is working on legislation on artificial intelligence"
-    excerpt: "Artificial intelligence solutions can be an opportunity to stimulate the economy and make a technological leap. On the other hand, they are also associated with threats, and there are already cases in Europe where artificial intelligence algorithms have been used in a way that raises legal doubts."
-    publishedDateTime: 2021-10-04T09:41:00Z
-    webUrl: "https://wbj.pl/eu-is-working-on-legislation-on-artificial-intelligence/post/132216"
+  - title: "The Scope of Artificial intelligence in India"
+    excerpt: "Artificial intelligence (AI) has transformed the world of technology. This is the reason why AI investment is increasing. Keep reading to learn about what is the current situation of our country as far as AI is concerned,"
+    publishedDateTime: 2021-10-02T08:30:00Z
+    webUrl: "https://www.analyticsinsight.net/the-scope-of-artificial-intelligence-in-india/"
     type: article
     provider:
-      name: Warsaw Business Journal
-      domain: wbj.pl
+      name: Analytics Insight
+      domain: analyticsinsight.net
     quality: 37
     images:
-      - url: "https://wbj.pl/uploads/images/qd/615acc0819b2d.jpg"
-        width: 600
-        height: 400
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/The-Scope-of-Artificial-intelligence-in-India.jpg"
+        width: 900
+        height: 500
         isCached: true
   - title: "The Future is Now: How AI in Diagnostic Imaging is Transforming Medical Applications"
     excerpt: "The Use of AI in Diagnostic Imaging is Booming in Healthcare Industry” Download the most up-to-date research study and application @  AI in diagnostic imaging is gaining prominence and quickly growing industry close to what's to come."
@@ -125,6 +81,34 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGmyKBct-TaWg/article-cover_image-shrink_720_1280/0/1633115703468?e=1638403200&v=beta&t=lYhzsqOGDrkEHBGeACtqj6r46vmodR0eEfo1XbStQwY"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Social commerce innovation: Unilever unveils beauty startup collaboration platform"
+    excerpt: "Personal care major Unilever has launched a collaboration initiative to partner with forward-thinking beauty startups, scaleups and entrepreneurs specialised in social commerce to drive next-generation in-house innovation across its portfolio of brands."
+    publishedDateTime: 2021-09-30T11:22:00Z
+    webUrl: "https://www.cosmeticsdesign-europe.com/Article/2021/09/30/Unilever-opens-submissions-for-Positive-Beauty-Growth-startup-collaboration-platform"
+    type: article
+    provider:
+      name: CosmeticsDesign-Euro
+      domain: cosmeticsdesign-europe.com
+    quality: 16
+    images:
+      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/cosmetics/cosmeticsdesign-europe.com/headlines/brand-innovation/unilever-opens-submissions-for-positive-beauty-growth-startup-collaboration-platform/12883807-1-eng-GB/Unilever-opens-submissions-for-Positive-Beauty-Growth-startup-collaboration-platform.jpg"
+        width: 724
+        height: 483
+        isCached: true
+  - title: "Worldwide Mission Critical Communications Industry Report to 2026 - 5 Cases Studies Included"
+    excerpt: "The \"Mission Critical Communications Market by Enterprise, Industrial and Government Solutions 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. The market for mission critical communications is rapidly evolving as developing technologies supply solutions necessary to meet emerging demand for improved voice,"
+    publishedDateTime: 2021-09-30T19:42:00Z
+    webUrl: "https://menafn.com/1102895938/Worldwide-Mission-Critical-Communications-Industry-Report-to-2026-5-Cases-Studies-Included"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 13
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?280675"
+        width: 371
+        height: 250
         isCached: true
 
 secured: "nUM7uqRqY5Xuar5x+bA1B6PAPqF4vAu7cZoRFFFb+4eFNIk7sAQbRVevQLkveofRLlqwW2scBeneS1ww685tmX3KqeU7+jTvRL6SvPxt2WUJVAiemh4Q1s7IuOTVAR/4hRzQVT1GUAggVYzg6Xr+PcfYhzpGduxRyS4cNd9lNll2HLqXjypkKZNeooB8K8CWCBICGtw3okRTAOafJfitdjCnfnZPVsRoEtP1yOlvhJYwm6hlRn+ekoRANsjzzK5GT7JXNrs3wnnlMxre0/8H+CUTKNO3OhBtKleO1adkYcmMI+6bgWFyvPim5H10YZFg8WrENyLAjGy8c3SWEck9jBLRkS90FP0pbPZL4+C776E=;CcPLbUQBTH+rJjlzdXvlrQ=="

@@ -35,6 +35,20 @@ related:
         width: 750
         height: 393
         isCached: true
+  - title: "Kore.ai raises $50M for its AI-powered experience optimization platform"
+    excerpt: "Startup Kore.ai Inc. today announced that it has raised a $50 million funding round led by Vistara Growth and PNC to fuel the growth of its software platform, which helps companies build artificial intelligence assistants to automate repetitive business tasks."
+    publishedDateTime: 2021-09-29T20:45:00Z
+    webUrl: "https://siliconangle.com/2021/09/29/kore-ai-raises-50m-ai-powered-experience-optimization-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/image-7.png"
+        width: 932
+        height: 517
+        isCached: true
   - title: "Thankful Raises $12 Million for Customer Service AI"
     excerpt: "Venice-based Thankful AI Inc. raised $12 million in Series A funding for its customer service artificial intelligence platform. Thankful plans to use the funding to further develop its AI to include features such as greater personalization and the ability to upsell in customer service situations."
     publishedDateTime: 2021-10-04T07:06:00Z
@@ -49,15 +63,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Radiologist's Cary startup raises $1 million to harness power of artificial intelligence"
-    excerpt: "A Cary-based artificial intelligence startup cofounded by a radiologist has closed its first million-dollar round. CoRead AI Inc. closed on more than $1 million in equity financing on Sept. 10 from three investors."
-    publishedDateTime: 2021-09-29T17:32:00Z
-    webUrl: "https://www.bizjournals.com/triangle/inno/stories/fundings/2021/09/29/coread-ai-mri-ct-scan-startup-raises-capital.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 23
 
 secured: "2hUEYaZ5wMcFE0YfnhgTaiocE+t1DIAH7yL080umzszoiMYTbUC1l7jfjHnp2aKQxlLzsdY6FV4ch7v7xce2k5RnUcFjeXXra2gLY0V42/hlnOjcLhIKBPkiJ7QWGY4rp9tFX5OjwKc5ar/1FGNGrc1n/Sgh5o+5i+i2/qQYGTSLOEQOn2hsaxVvA6ZypKp1rAO2W6EOAQCbjUYh2AQGvkB9i69aOsHnQXWvjD2RzU6Yz5MxlR8uvQ/a2GZuuuz40g4lsbW321rkrxJHRX/KKqARVuEW0eZsRTNxPymLriohj8009pLGycCuoDA04g9E9b+miOKp8xv12jgYWAAflnPeXz95rZqDzsMD+bIdf6U=;gl4sheDOYA9zAIGpsg71GQ=="
 ---

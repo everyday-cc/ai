@@ -36,6 +36,20 @@ related:
       name: Robotics Tomorrow
       domain: roboticstomorrow.com
     quality: 49
+  - title: "Kore.ai raises $50M for its AI-powered experience optimization platform"
+    excerpt: "Startup Kore.ai Inc. today announced that it has raised a $50 million funding round led by Vistara Growth and PNC to fuel the growth of its software platform, which helps companies build artificial intelligence assistants to automate repetitive business tasks."
+    publishedDateTime: 2021-09-29T20:45:00Z
+    webUrl: "https://siliconangle.com/2021/09/29/kore-ai-raises-50m-ai-powered-experience-optimization-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/image-7.png"
+        width: 932
+        height: 517
+        isCached: true
   - title: "Thankful Raises $12 Million for Customer Service AI"
     excerpt: "Venice-based Thankful AI Inc. raised $12 million in Series A funding for its customer service artificial intelligence platform. Thankful plans to use the funding to further develop its AI to include features such as greater personalization and the ability to upsell in customer service situations."
     publishedDateTime: 2021-10-04T07:06:00Z
@@ -50,15 +64,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Radiologist's Cary startup raises $1 million to harness power of artificial intelligence"
-    excerpt: "A Cary-based artificial intelligence startup cofounded by a radiologist has closed its first million-dollar round. CoRead AI Inc. closed on more than $1 million in equity financing on Sept. 10 from three investors."
-    publishedDateTime: 2021-09-29T17:32:00Z
-    webUrl: "https://www.bizjournals.com/triangle/inno/stories/fundings/2021/09/29/coread-ai-mri-ct-scan-startup-raises-capital.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 23
 
 secured: "RwMJq14vYOKPTniG802NrMOsw9SsTKMzpzMIxcpVqlN8SDXjvu2YdUCTw7sPlT4LD3BLIQ0TGiZgKSoDqb8/H/6sxst63l/OdJePqS6Dw2ebSGrdhInyZ+niJFXxogHJkKhu0aqkl2p1PUnEXQsvLot1B7jlMCdE6HMsa8a12MYmVi1F0q2pA/rgsZE2Ys3XJRXDAaawCmtmc0iU6nqKwo7M1qLq+itdvwtosjignsdYzqkFokcx+4eJXrZaAEIxRTBoyG+/1hfhQDv35Wnquo57kT24xaFOrgIss/LiH+PzF3gj1KokVPu6VOPvHkLXY716smy6ozFj7Hzpq0EyuS2/bKDiclUIc/gdlB1JcyWGctY7+7e4z98Y9Gp7d9v+469TqAn4fD75OF8lGdoypOtX/q06mibPHDG8CDfFkE1qM2EjHQhtMSxKijA6oleSJqWzbJ+eiWpVW2OazOnCSFb52FrwLtLhvOrjmz9vAMlVA0jhReSvMVeErvUCE2RAucK45U3zKSV7908eiwZGyg==;C8fJ7HoIW3oZYNuZPbYJoA=="
 ---

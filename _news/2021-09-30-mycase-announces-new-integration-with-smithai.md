@@ -23,6 +23,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "SkyX Integrates AI with Aerial System to Offer Midstream Inspection Solution"
+    excerpt: "Concept: Canada-based UAV solution offering startup SkyX has offered an AI-integrated aerial pipeline inspection solution. The solution comes with unmanned aerial vehicle (UAV) SkyOne integrated with AI for computer vision analysis."
+    publishedDateTime: 2021-10-04T11:12:00Z
+    webUrl: "https://www.pharmaceutical-technology.com/research-reports/skyx-integrates-ai-with-aerial-system-to-offer-midstream-inspection-solution/"
+    type: article
+    provider:
+      name: Pharmaceutical Technology
+      domain: pharmaceutical-technology.com
+    quality: 34
+    images:
+      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/10/shutterstock_1388472764.jpg"
+        width: 500
+        height: 281
+        isCached: true
+
 secured: "7Rxd1FoxZ2ssjuO5tw3cY0QOUqXpBFUwpFqb95Uu/VIT0SMsEqZXMoIpIxfkzacJ0rKJUwQIrLdMZcPzTPzLuTXVNy6fzqtwUbDPs6u6+5Wj1YweIUOr6YGadLb+S9bAWxsqVQfpO/yGonvrJQt72obqFf6R8oTW0jWvUTyOfEMNL/1FXpf7jsqgNf6iJlNfRLFPzs42GTcigTZDOVTlgjzyzejhwsn7wXs1YiXkHmGnK6N6MA+CKMLEuO1/5vyQYKLUyA2jZatm15pTX2bcCU/ACmQs3FXwXfNdKJZrxUG1DCEzCiy1rlDXnhKsl4dt6EgePo6OKCUETTUz/dmagWhQiEoiAcnSMtMO4ikMGKI=;uu4He/BCKXnBM6UdzZ/T4g=="
 ---
 

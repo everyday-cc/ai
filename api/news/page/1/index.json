@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-04-5-ways-learning-data-science-ai-can-help-you-succeed-in-your-career.md",
+      "title": "5 ways learning Data Science, AI can help you succeed in your career",
+      "excerpt": "In response to the COVID-19 pandemic and acceleration of digitalisation, companies across the world have increased investments in artificial intelligence (AI) and data science (DS). An array of new-age",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/5-ways-learning-data-science-ai-can-help-you-succeed-in-your-career/",
+      "originalUrl": "https://www.dqindia.com/5-ways-learning-data-science-ai-can-help-you-succeed-in-your-career/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/09/AI-is-great-data-is-even-better1.jpg",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/5-ways-learning-data-science-ai-can-help-you-succeed-in-your-career/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/5-ways-learning-data-science-ai-can-help-you-succeed-in-your-career/amp/",
+      "publishedDateTime": "2021-10-04T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.md",
+      "title": "Review: Google Cloud Vertex AI irons out ML platform wrinkles",
+      "excerpt": "Vertex AI greatly improves the integration of Google Cloud’s AI/ML platform and AutoML services, combining a new unified API with very good modeling capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3635151/review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.html",
+      "originalUrl": "https://www.infoworld.com/article/3635151/review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/10/google-cloud-vertex-ai-11-100905535-medium.jpg?auto=webp",
+          "width": 300,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3635151/review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3635151/review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.amp.html",
+      "publishedDateTime": "2021-10-04T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-04-for-tesla-facebook-and-others-ais-flaws-are-getting-harder-to-ignore.md",
       "title": "For Tesla, Facebook and Others, AI’s Flaws Are Getting Harder to Ignore",
       "excerpt": "Investors are pouring money into artificial intelligence, despite clear setbacks in self-driving cars, social media and even healthcare.",
@@ -444,40 +539,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-03-this-healthcare-company-is-using-ai-to-develop-drugs.md",
-      "title": "This Healthcare Company Is Using AI to Develop Drugs",
-      "excerpt": "L ife sciences company Schrödinger (NASDAQ: SDGR) has developed software that could help drug companies develop medicine using artificial intelligence and physics, and it's already being used by a number of big-name pharma companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03",
-      "originalUrl": "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp",
-      "publishedDateTime": "2021-10-03T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-03-explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders.md",
       "title": "Explained: Why Amazon’s Astro ‘robot on wheels’ has rankled privacy crusaders",
       "excerpt": "The robot is designed to move around the home and keep a check on pets, and detect something unusual in the absence of the owner.",
@@ -616,7 +677,7 @@
       "originalUrl": "https://www.fool.com/investing/2021/10/02/3-top-artificial-intelligence-stocks-buy-right-now/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -743,49 +804,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-world-first-for-artificial-intelligence-to-treat-covid-19-patients-worldwide.md",
-      "title": "World First for Artificial Intelligence To Treat COVID-19 Patients Worldwide",
-      "excerpt": "Addenbrooke’s Hospital in Cambridge along with 20 other hospitals from across the world and healthcare technology leader, NVIDIA, have used artificial intelligence (AI) to predict Covid patients’ oxygen needs on a global scale.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/world-first-for-artificial-intelligence-to-treat-covid-19-patients-worldwide/",
-      "originalUrl": "https://scitechdaily.com/world-first-for-artificial-intelligence-to-treat-covid-19-patients-worldwide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/COVID-Technology-AI-Concept-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/world-first-for-artificial-intelligence-to-treat-covid-19-patients-worldwide/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/world-first-for-artificial-intelligence-to-treat-covid-19-patients-worldwide/amp/",
-      "publishedDateTime": "2021-10-01T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     },
     {

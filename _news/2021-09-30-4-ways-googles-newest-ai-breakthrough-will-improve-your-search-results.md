@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "How Google plans to improve web searches with multimodal AI"
-    excerpt: "Google plans to leverage MUM, a sophisticated multimodal AI model, to improve experiences across Search and Lens."
-    publishedDateTime: 2021-09-29T17:15:00Z
-    webUrl: "https://venturebeat.com/2021/09/29/how-google-plans-to-improve-web-searches-with-multimodal-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/09/29/how-google-plans-to-improve-web-searches-with-multimodal-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/how-google-plans-to-improve-web-searches-with-multimodal-ai/amp/"
+  - title: "Google’s new AI wants to supercharge contextualized search results"
+    excerpt: "Google announced a new AI model for multimodal search called MUM (Multitask Unified Model) at its developer conference Google IO in May. Last night, the firm announced a bunch of"
+    publishedDateTime: 2021-09-30T06:58:00Z
+    webUrl: "https://thenextweb.com/news/google-ai-search-mum-features-analysis"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FGoogle-search-hed.jpg&signature=281c56c07399e375ba57b374aeca8acd"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "THCj1D8OVs1Fx7bSVX1M3qqzzNi1ib6owNtJVaSgR4aVDbzFJVqNBleIS1WGu913oHycMbJC1HyRg4P8tz/iAIgR9aM3TLZzlqJtwequWLdPSPVNbOHRCItJ+UW2H+04qpUyHZrcVEx/Xk9qWRQnm9PwT6sfCZbZm2w27u790xS7JjDkS1PfiVAq8Di9bklaE1gDO8opPmvIftbKxSrJTjKhm9LKpX4TYH1FB7XnZP7Z2SQg6S+mq+ISmYKQIWLd9OqoGtXdb8k+fumHBCjqZogDenIjNwuLrrDbMiGPE53Wkw6tKFbOOaciNxU/CiHK0DBEH3ZyrH70USc6b2o5ZkKi9mOdushw+8SOqAvWeFKPSrqxbhCa+2byP4rjerysvhakXdctcD0QIXrNP0UPlHCYbGpdrdswJAN5dwD4UJOqRu9OfmwIQk6+7hLj3nVqBkPdk9BOZbP/LLbMjdytJyMBr9zLjLXPvjj64y8fuNeBbqwp/B4ktnvblVqCjA6NFlHfpDNc31hN+PZVK4memg==;aL3nLwbFpPEfRH5RB4vSBA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -57,6 +57,34 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/The-Scope-of-Artificial-intelligence-in-India.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "More Organizations Saving Time and Costs on Data Breaches with Automation and AI"
+    excerpt: "Cost of a Data Breach report shows, AI and automation can reduce the cost of a data breach. See how organizations with AI security fared in 2021."
+    publishedDateTime: 2021-10-01T17:30:00Z
+    webUrl: "https://securityintelligence.com/posts/save-time-money-data-breach-security-ai-automation/"
+    type: article
+    provider:
+      name: Hack
+      domain: securityintelligence.com
+    quality: 32
+    images:
+      - url: "https://securityintelligence.com/wp-content/uploads/2021/10/Data-Breach-1.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Future is Now: How AI in Diagnostic Imaging is Transforming Medical Applications"
+    excerpt: "The Use of AI in Diagnostic Imaging is Booming in Healthcare Industry” Download the most up-to-date research study and application @  AI in diagnostic imaging is gaining prominence and quickly growing industry close to what's to come."
+    publishedDateTime: 2021-10-01T19:22:00Z
+    webUrl: "https://www.linkedin.com/pulse/future-now-how-ai-diagnostic-imaging-transforming-medical-p-mahajan"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 30
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGmyKBct-TaWg/article-cover_image-shrink_720_1280/0/1633115703468?e=1638403200&v=beta&t=lYhzsqOGDrkEHBGeACtqj6r46vmodR0eEfo1XbStQwY"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Social commerce innovation: Unilever unveils beauty startup collaboration platform"
     excerpt: "Personal care major Unilever has launched a collaboration initiative to partner with forward-thinking beauty startups, scaleups and entrepreneurs specialised in social commerce to drive next-generation in-house innovation across its portfolio of brands."

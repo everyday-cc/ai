@@ -38,20 +38,6 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "Soft Robotics Moves into AI"
-    excerpt: "Exclusive - Technologies from Soft Robotics are on display across the show floor on robotic systems at BCA (Booth SU-7155/7156), Fanuc (Booth C-1441), Harpak-Ulma (Boot"
-    publishedDateTime: 2021-09-29T18:00:00Z
-    webUrl: "https://www.packworld.com/PACKEXPO/article/21735125/soft-robotics-moves-into-ai"
-    type: article
-    provider:
-      name: Packaging World
-      domain: packworld.com
-    quality: 69
-    images:
-      - url: "https://img.packworld.com/files/base/pmmi/all/image/2021/09/Soft_Robotics.614bb12ec3cc1.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 443
-        height: 613
-        isCached: true
   - title: "How to Use AI to Drive Business Growth in the Tech Era"
     excerpt: "AI allows for that. And from the looks of things, that will be nearly half of all US-based businesses within the next 12 months. However, even though the capabilities are there, it’s largely untapped potential."
     publishedDateTime: 2021-10-01T13:30:00Z
@@ -109,6 +95,20 @@ related:
       - url: "https://www.greenbiz.com/sites/default/files/styles/og_image_1200x630/public/2021-09/AI-ESG.jpg?itok=N73Xs27Q"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Inside the happy heart of Ai-Ai de las Alas"
+    excerpt: "Everybody’s favorite funny woman Ai-Ai de las Alas has her hands full at this time, especially given that a new season of The Clash has just commenced. It is the singing search program’s fourth season,"
+    publishedDateTime: 2021-10-04T11:33:00Z
+    webUrl: "https://businessmirror.com.ph/2021/10/04/inside-the-happy-heart-of-ai-ai-de-las-alas/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 37
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2021/10/life03-100521.jpg"
+        width: 720
+        height: 838
         isCached: true
 
 secured: "uZ5qmk7TKyCt1GGe/HVZi0TjTpekSMBl5qpqgVMo2OTtmx/M3xTVrJYcEO20wGBMTy/Wd6jC/dhPnJoeNEEY5Fue2+6U3clKWkNXRhOCFzVojWNUCcmKKfXBTnyL7y2CvKQXAA81H1l9SGMI6HhyEO7zS1aQSMOEy71DvPz9EDvtmZFRGHvXLznoGBMlJzcDaaWIWIHupo24+mRUJ++hqSdoc3kewiYXSbVyEH/lqjBq7pIzV05mLRErNbphmeaMj3Zoa4Zb6ouQsE50N9qPQodF4dbJhcOiaXYrfHrfcXx+RvOO2MV1giKe1+PxST6wW4jrLT2WXydSdnN0hWE0uXRuOyXPNKR+4YRHyxW6pW+vRJxAlgdPnJn/3i/mbg8FrLj0DOhvcqrMxi3FQsjOILJWAaBU/o1MgMDwuuIKZ8gkHNa7/KL7359RVywufY6qvPCeBUmIvBuyMKn5eL+5Rm5VYq1h/MlJ8M4yk9ETAS3Nd4XtPC4Ol2lovmZQC/tCtYOqxJywQ9BQrQeY56NhJA==;KeCgilbfHB+nIaV4GOPC6A=="

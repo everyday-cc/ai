@@ -24,107 +24,44 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is making information more useful"
-    excerpt: "Today, there’s more information accessible at people’s fingertips than at any point in human history. And advances in artificial intelligence will radically transform the way we use that information, with the ability to uncover new insights that can help us both in our daily lives and in the ways we"
-    publishedDateTime: 2021-09-29T17:45:00Z
-    webUrl: "https://blog.google/products/search/how-ai-making-information-more-useful/"
+  - title: "BUET grad’s AI startup raises $4.1 million"
+    excerpt: "AI startup Gray Matter Robotics, headed by BUET graduate Ariyan Kabir, has raised $4.1 million in seed round funding. Stage Venture Partners and Calibrate Ventures led the round, along with 3M Ventures,"
+    publishedDateTime: 2021-09-30T19:11:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/buet-grads-ai-startup-raises-41-million-2187806"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/buet-grads-ai-startup-raises-41-million-2187806?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/buet-grads-ai-startup-raises-41-million-2187806?amp"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 89
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/search_on.max-1300x1300.jpg"
-        width: 1300
-        height: 733
-        isCached: true
-  - title: "Google is using artificial intelligence to make information more useful"
-    excerpt: "At its Search On event this week, Google revealed details about how it plans to use a technology it calls Multitask Unified Model (MUM), which should"
-    publishedDateTime: 2021-09-30T20:52:00Z
-    webUrl: "https://www.techspot.com/news/91514-google-using-artificial-intelligence-make-information-more-useful.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/91514-google-using-artificial-intelligence-make-information-more-useful.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91514-google-using-artificial-intelligence-make-information-more-useful.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 87
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-30-image-36.jpg"
-        width: 1680
-        height: 1120
-        isCached: true
-  - title: "The Future of Artificial Intelligence In Manufacturing"
-    excerpt: "Any company working in the manufacturing industry is likely to know that AI has been making significant improvements with a range of applications."
-    publishedDateTime: 2021-09-30T11:11:00Z
-    webUrl: "https://bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/"
-    ampWebUrl: "https://bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/?amp"
-    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/?amp"
-    type: article
-    provider:
-      name: Business Matters
-      domain: bmmagazine.co.uk
+      name: The Daily Star
+      domain: thedailystar.net
     quality: 59
     images:
-      - url: "https://bmmagazine.co.uk/wp-content/uploads/2021/09/shutterstock_1154438635-scaled.jpg"
-        width: 850
-        height: 375
+      - url: "https://img.thedailystar.net/sites/default/files/styles/social_share/public/images/2021/09/30/maxresdefault_9.jpg?itok=imnCCvTE"
+        width: 750
+        height: 393
         isCached: true
-  - title: "The Role of Artificial Intelligence in the Future of Education"
-    excerpt: "Artificial Intelligence is already being widely employed around the world to better our lives, work, health, and everyday routines, among other things. Furthermore, the solution has significant educational potential,"
-    publishedDateTime: 2021-10-02T15:46:00Z
-    webUrl: "https://www.linkedin.com/pulse/role-artificial-intelligence-future-education-yogesh-khandelwal"
+  - title: "GrayMatter Robotics Raises $4.1M Seed Round"
+    excerpt: "Company will use the funds from Stage Venture Partners, Calibrate Ventures, and others to expand rollouts of its robots used for sanding and finishing parts on manufacturing lines"
+    publishedDateTime: 2021-09-30T13:45:00Z
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=17550"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG1wh0a0R6i9A/article-cover_image-shrink_720_1280/0/1633189407713?e=1639008000&v=beta&t=qvFzABCXoEoVg9wK4OjX0No9S-1IUKYkvUBAcgs-ids"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "EU is working on legislation on artificial intelligence"
-    excerpt: "Artificial intelligence solutions can be an opportunity to stimulate the economy and make a technological leap. On the other hand, they are also associated with threats, and there are already cases in Europe where artificial intelligence algorithms have been used in a way that raises legal doubts."
-    publishedDateTime: 2021-10-04T09:41:00Z
-    webUrl: "https://wbj.pl/eu-is-working-on-legislation-on-artificial-intelligence/post/132216"
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 49
+  - title: "Thankful Raises $12 Million for Customer Service AI"
+    excerpt: "Venice-based Thankful AI Inc. raised $12 million in Series A funding for its customer service artificial intelligence platform. Thankful plans to use the funding to further develop its AI to include features such as greater personalization and the ability to upsell in customer service situations."
+    publishedDateTime: 2021-10-04T07:06:00Z
+    webUrl: "https://labusinessjournal.com/news/2021/oct/04/thankful-customer-service-software-12-million/"
     type: article
     provider:
-      name: Warsaw Business Journal
-      domain: wbj.pl
+      name: Los Angeles Business Journal
+      domain: labusinessjournal.com
     quality: 37
     images:
-      - url: "https://wbj.pl/uploads/images/qd/615acc0819b2d.jpg"
-        width: 600
+      - url: "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/10/01/PG16_TECH_THANKFUL_1004_-_Ted_Mico_t670.png?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d"
+        width: 400
         height: 400
-        isCached: true
-  - title: "More Organizations Saving Time and Costs on Data Breaches with Automation and AI"
-    excerpt: "Cost of a Data Breach report shows, AI and automation can reduce the cost of a data breach. See how organizations with AI security fared in 2021."
-    publishedDateTime: 2021-10-01T17:30:00Z
-    webUrl: "https://securityintelligence.com/posts/save-time-money-data-breach-security-ai-automation/"
-    type: article
-    provider:
-      name: Hack
-      domain: securityintelligence.com
-    quality: 32
-    images:
-      - url: "https://securityintelligence.com/wp-content/uploads/2021/10/Data-Breach-1.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The Future is Now: How AI in Diagnostic Imaging is Transforming Medical Applications"
-    excerpt: "The Use of AI in Diagnostic Imaging is Booming in Healthcare Industry” Download the most up-to-date research study and application @  AI in diagnostic imaging is gaining prominence and quickly growing industry close to what's to come."
-    publishedDateTime: 2021-10-01T19:22:00Z
-    webUrl: "https://www.linkedin.com/pulse/future-now-how-ai-diagnostic-imaging-transforming-medical-p-mahajan"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 30
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGmyKBct-TaWg/article-cover_image-shrink_720_1280/0/1633115703468?e=1638403200&v=beta&t=lYhzsqOGDrkEHBGeACtqj6r46vmodR0eEfo1XbStQwY"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "FfyG974Hdl/Xqg5B7xGIopPaxOJua067eCwHbdt10itNjsjYR6W5+u9OxedvWERgnxrlfx9MheCjgg84qAyTY1C56r5h2P4Oy/8JUG3zjAZO0tiMKQZ/o9OWHc9HC5athZL+dvU36iZ9uJMi7EA9uCmHgRUsRt6ytJSZWToAlNG4z41BRBFdcyWT+qrUXwchCCNePfrAy5RItLKMpJsTB09DfEaTPdT2rtZdcxIEAU+hCujmVkpoKeITpAw55UyHweJsz18jMSeUMwfou8KG/5ESEj0Iab6tgR75LEmR4wRvJBegPrpdi29l9KAoEJ4U8wQrjG+45RjoWylMbaP3RZeUX891qwlov7SArTfU2IjhinaS1buAzV/dXE65WeUlasaXQ9TNRkLjiz+wcjG3Gu6aDtqVa+gFELcacdEOsTO9wlnIVwQLjlZtA7HcwHcDZXVDCNpMeo5OlcIsGcPn3dwJZiDXXH5DKPlGvx/1CH73FxRNjzg2+U+J7U0X7fX/oNn5V4MAgOJesjz2efQScg==;CMicJG+rJZNVH6/J2FNuyQ=="

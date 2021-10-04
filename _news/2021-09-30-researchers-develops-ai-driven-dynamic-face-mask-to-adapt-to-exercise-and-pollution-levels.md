@@ -9,7 +9,7 @@ ampWebUrl: "https://techbooky.com/researchers-develops-ai-driven-dynamic-face-ma
 cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/researchers-develops-ai-driven-dynamic-face-mask-to-adapt-to-exercise-and-pollution-levels/?amp=1"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-driven dynamic face mask adapts to exercise, pollution levels"
-    excerpt: "Researchers have developed a dynamic respirator that modulates its pore size in response to changing conditions, such as exercise or air pollution levels, allowing the wearer to breathe easier when the highest levels of filtration are not required."
-    publishedDateTime: 2021-09-29T17:51:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/09/210929080258.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "AI-driven Face Mask Adapts to Exercise, Pollution Levels"
     excerpt: "Researchers have tracked flies’ ability to interpret information while asleep, showing which parts of the brain remain"
     publishedDateTime: 2021-10-01T00:00:00Z

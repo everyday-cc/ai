@@ -49,15 +49,20 @@ related:
       name: Robotics Tomorrow
       domain: roboticstomorrow.com
     quality: 49
-  - title: "Radiologist's Cary startup raises $1 million to harness power of artificial intelligence"
-    excerpt: "A Cary-based artificial intelligence startup cofounded by a radiologist has closed its first million-dollar round. CoRead AI Inc. closed on more than $1 million in equity financing on Sept. 10 from three investors."
-    publishedDateTime: 2021-09-29T17:32:00Z
-    webUrl: "https://www.bizjournals.com/triangle/inno/stories/fundings/2021/09/29/coread-ai-mri-ct-scan-startup-raises-capital.html"
+  - title: "Kore.ai raises $50M for its AI-powered experience optimization platform"
+    excerpt: "Startup Kore.ai Inc. today announced that it has raised a $50 million funding round led by Vistara Growth and PNC to fuel the growth of its software platform, which helps companies build artificial intelligence assistants to automate repetitive business tasks."
+    publishedDateTime: 2021-09-29T20:45:00Z
+    webUrl: "https://siliconangle.com/2021/09/29/kore-ai-raises-50m-ai-powered-experience-optimization-platform/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 23
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/image-7.png"
+        width: 932
+        height: 517
+        isCached: true
 
 secured: "M1EsJttddrMEQzqR876N/1Gm2zsHwYB+onJCuETK3CVl+qy5y2yo91U+Vj7eVz4EL4OxRijOfywa2gZ6EE5/xe6L3FWoDpY533tRumEFlO3HAt6QzEXaXNmnQf/cLcIHYoNcllMMmgDRjjEJIxlnq4HiUj052/bV0LPTzJM+Cs3oemDO0Qmi73NC6VZRLlRDYFSPkCgawwkVlJqTI1LI8GGlqGXRG+E0P4G3RVuW2icfIzopPMpSh2eoRKozTrSbZvPv754DoYTYRR/I9ORiaOVFyj+X5FaH4NzmtZ9o/kcLNQGJuoaSHEf/ntQMACa85QYLFOgGv+p3+hpzFnDekEtsk7D26YYCK1e3dfJtEm0=;Nu6STa8GvOeccluTtLAJQQ=="
 ---

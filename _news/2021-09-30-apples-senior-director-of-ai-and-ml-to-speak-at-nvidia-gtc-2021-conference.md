@@ -9,7 +9,7 @@ ampWebUrl: "https://9to5mac.com/2021/09/29/apples-senior-director-of-ai-and-ml-t
 cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/09/29/apples-senior-director-of-ai-and-ml-to-speak-at-nvidia-gtc-2021-conference/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 104
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "VMware Extends vSphere to Capabilities for Nvidia’s AI and GPUs"
-    excerpt: "VMware’s VMware vSphere 7 Update 3 release serves to further unlock access to Nvidia vGPUs and AI with self-service API options, while also offering a number of new capabilities for vSphere for applications running in or on virtual machines (VMs),"
-    publishedDateTime: 2021-09-29T17:26:00Z
-    webUrl: "https://thenewstack.io/vmware-extends-vsphere-to-capabilities-for-nvidias-ai-and-gpus/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 54
-    images:
-      - url: "https://cdn.thenewstack.io/media/2021/09/4e14c3dc-img_1550-1.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "NVTC partners with NVIDIA Deep Learning Institute to provide online AI courses"
     excerpt: "The Nasser Artificial Intelligence Research and Development Centre at the Nasser Vocational Training Centre (NVTC) and the NVIDIA Deep Learning Institute have started a collaboration, whereby students in Kingdom of Bahrain benefit from NVIDIA’s online courses in various areas of artificial intelligence (AI)."
     publishedDateTime: 2021-10-02T15:33:00Z
@@ -83,15 +69,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "NVIDIA’s Huang to Unveil AI Technologies, Products at Virtual GTC, Nov. 8-11"
-    excerpt: "NVIDIA today announced that it will host a global, virtual GTC from Nov. 8-11, featuring a keynote by NVIDIA founder and CEO Jensen Huang and talks from AI research and industry leaders. Agenda and registration information can be found here."
-    publishedDateTime: 2021-09-29T18:38:00Z
-    webUrl: "https://insidehpc.com/2021/09/nvidias-huang-to-unveil-ai-technologies-products-at-virtual-gtc-nov-8-11/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 18
 
 secured: "A1xy/1ORUfokGm8erJ/8UKRuc0/iT0DTAXOdXfRbDzbmPB2NpAc6f5rbTfIgSMsx8uPCK6qv2NJlt/SZx9w1Vtqbf+dmQHJ62g7ptvHOWA12Y3+ldPzJL6jeRVBnw8foAe68oeDGBgKbAU2m9Oyt38+A1+U1iKhfH3tWcPuuwHcNAElEP5qHIMV9AAvQoBTBgAFogr3J2syu5uFJDHpOWSZBlSmzI3bV7lMtMIdj9HXLKZJdtLNljMg/HorfBMnvNNyEnCGegE6TXKKrlmzJxlB8rboL4WnpTcYZvc3oLH2qx10yvD61vFGF53IfOtEkL9MpAoFwZsXgp8vf+Q3g6JzqPGJI3VPltg2oKlffPTHeDy97V67LKHnncSkD6Eu22XNGBOCsGIjoCMy+ONCa6bgJ6p7n98DfC073JVuOrur0/0g0FsKDRVNDroDfLk8FCFsBxMH6iDctklrix14AogduYbYYDVvG30/pjBNsuXze5ugovXytFNFW7Gvf/+VK6zCCKLCgtnOjNoSAOJMKRQ==;ACfc2daekyWBDyyx1BU02Q=="
 ---

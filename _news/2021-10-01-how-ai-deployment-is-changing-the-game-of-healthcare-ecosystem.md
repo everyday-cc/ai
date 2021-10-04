@@ -9,8 +9,8 @@ ampWebUrl: "https://www.expresshealthcare.in/amp/news/how-ai-deployment-is-chang
 cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: expresshealthcare
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "This Healthcare Company Is Using AI to Develop Drugs"
-    excerpt: "L ife sciences company Schrödinger (NASDAQ: SDGR) has developed software that could help drug companies develop medicine using artificial intelligence and physics, and it's already being used by a number of big-name pharma companies."
-    publishedDateTime: 2021-10-03T12:15:00Z
-    webUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03"
-    ampWebUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
   - title: "In health care, many AI developers are white men. UNT is trying to diversify the field"
     excerpt: "NIH has awarded $100 million to UNT’s Health Science Center to lead a project to train a more diverse artificial intelligence workforce."
     publishedDateTime: 2021-10-01T13:45:00Z
@@ -54,19 +43,19 @@ related:
         width: 1280
         height: 717
         isCached: true
-  - title: "Health2047’s new company plans to use AI, research access to improve clinical decision making"
-    excerpt: "Called RecoverX, the company will leverage AI to mine evidence-based research, medical charts, patient conversations and test results and provide clinical insights for clinicians in real time."
-    publishedDateTime: 2021-10-01T16:50:00Z
-    webUrl: "https://medcitynews.com/2021/10/health2047s-new-company-plans-to-use-ai-research-access-to-improve-clinical-decision-making/"
+  - title: "Demystifying the Complexity of Enterprise AI Deployment"
+    excerpt: "We’re sitting on the cusp of artificial intelligence (AI) innovation. Consulting organizations like McKinsey and PwC claim that AI is a multi-trillion dollar business opportunity."
+    publishedDateTime: 2021-10-02T16:49:00Z
+    webUrl: "https://www.linkedin.com/pulse/demystifying-complexity-enterprise-ai-deployment-abhishek-nigam-1f"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 26
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
     images:
-      - url: "https://medcitynews.com/uploads/2019/02/GettyImages-864483382.jpg"
-        width: 724
-        height: 483
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQF_Ug79f2a2hQ/article-cover_image-shrink_720_1280/0/1633147479988?e=1639008000&v=beta&t=bxYdpZ_eTV6FnFiEil0SRgCz8BNlwpEWyyyqMa74W2g"
+        width: 1080
+        height: 720
         isCached: true
 
 secured: "BpEwBSzT2ODJLtiyu/cSlsBNNLsjU3v/fgo8L9OTcTtZYdSGSYkjqca03qceWUhjSqALMpAIQuAyqNOVz1aT5ZaqEI2uQO431lLDamP60gVy3c6Hh4Jk8SoFVEjJvcGQ/x0d+bhJJl2mBV1vXl2FniPV+xCcyUsHT0A0xhh2N1cDMcmmJ1bxCkkEFPZ4r6dkBlQSuAmH/y83SHesFLOkDC23UjE2t1JSR1mKWvjKZCUGTZm07E8IzvLXMKV0m5S5c/Jyh4YhjxNAbYx/JX1DZBfXWOTTa7tvhQEx/DooURnZv8+g6boKQkWKGXwfcyZFlSG8QpdOGDSOSK98ro6s0p3Jkm2DYTVFOe9iVUo4m+QJ4RPN//ub4dPZNqAzKxXrShT5EGe/KRCNJYkoYT12jGcLHpLG6tkT1hpkiOU1SRDkudDgOipEXg5WBLJBOX4ySvYUk106PfWK94bUH/iFoBBUCMpukxp4cACgTLtFYJQzYyBqOKqGuz3f0qg204UWpHzcq7u9+xK7zFHu23pQvg==;lBgWQ3IWNziHD9sM94eiug=="

@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/serve-3000-deep-lear
 webUrl: "https://aws.amazon.com/blogs/machine-learning/serve-3000-deep-learning-models-on-amazon-eks-with-aws-inferentia-for-under-50-an-hour/"
 type: article
 quality: 97
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: AWS
@@ -28,22 +28,6 @@ images:
     width: 1260
     height: 487
     isCached: true
-
-related:
-  - title: "Deploy multiple machine learning models for inference on AWS Lambda and Amazon EFS"
-    excerpt: "You can deploy machine learning (ML) models for real-time inference with large libraries or pre-trained models. Common use cases include sentiment analysis, image classification, and search applications. These ML jobs typically vary in duration and require instant scaling to meet peak demand. You want"
-    publishedDateTime: 2021-09-29T17:23:31Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-multiple-machine-learning-models-for-inference-on-aws-lambda-and-amazon-efs/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 100
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/23/ML-3541-image001-1260x561.png"
-        width: 1260
-        height: 561
-        isCached: true
 
 secured: "20q/5xL6cjZ1Cbyq64aKKy5tIX9xe/x1shOCx8rJBStx1sYq3jI57Odlf6FzMGYYoLsMteR8piLrYNqjg5znHAbXy0Q/fTfbolZcRjJju363LhuK/DqALmui8kP7Em6YTcZynm5gz5lBmIv9hbczEK1zvPEUoHsAr/JVgFRUd17uO6EGCOxRqMXeU4mZ0qlB3axqcaRS76cAPSt64BIA0Z1BLzY36yNdGKidlGXBuZbTsVLaOHjyZnXBXZDucdYsG3YCUJ/Ji3QQIucTMnsx9I9UnHj341ZQ5U101honJEg4QnvROvE2arQltzglryBryrRPZbFlqGaGSDv0+Wsb7oroebjfJ7Fcibtr6uLXdu0=;vpg5kKsy291IozUeHGY1Sg=="
 ---

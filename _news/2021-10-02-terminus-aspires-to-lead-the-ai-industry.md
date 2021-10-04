@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI (Artificial Intelligence): Poised To Transform The Massive Construction Industry"
-    excerpt: "But if you look at the S-1 filing, there are some interesting details about the construction industry. For example, the investment in technologies has generally lagged (this is based on research from McKinsey) and the levels are only more than for agriculture and hunting."
-    publishedDateTime: 2021-09-29T17:32:00Z
-    webUrl: "https://www.forbes.com/sites/tomtaulli/2021/09/29/ai-artificial-intelligence-poised-to-transform-the-massive-construction-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2021/09/29/ai-artificial-intelligence-poised-to-transform-the-massive-construction-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/09/29/ai-artificial-intelligence-poised-to-transform-the-massive-construction-industry/amp/"
+  - title: "Top Five Ways AI Is Revolutionizing The Financial Planning Industry"
+    excerpt: "Here's a look at the different segments of the financial planning and analysis (F&PA) industry that are experiencing a revolution propelled by AI."
+    publishedDateTime: 2021-09-30T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/top-five-ways-ai-is-revolutionizing-the-financial-planning-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/top-five-ways-ai-is-revolutionizing-the-financial-planning-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/30/top-five-ways-ai-is-revolutionizing-the-financial-planning-industry/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 96
+    quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61549f1ba14eafa27698887b%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f84ba18d777c465dc98852a%2F0x0.jpg"
         width: 1200
-        height: 828
+        height: 801
+        isCached: true
+  - title: "Artificial Intelligence is changing the dynamics in video editing"
+    excerpt: "This article features about how AI is transforming video editing and techniques in it. Check this article out to learn more."
+    publishedDateTime: 2021-09-29T19:30:00Z
+    webUrl: "https://www.analyticsinsight.net/how-artificial-intelligence-is-transforming-video-editing/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/How-AI-is-Transforming-Video-Editing.jpg"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "7mkvrXEnk0SGHNGf3+/R08V964hQGvJhccqFEeG7gxgm4Qs61I9n0OPJjlQpqryH0v0wzU/uRfDBwxJhi4NPQOC/zZhCuknNL16eNMehQl0oL/k4BLqdmYagFHdgx11HQAN/gHAuTOjEixiOb0MmmXs+3zQWp9WFYmbPwG2Xz1TQrCDqvumxlsdWeEY8EhuYXxAnj1T4B5TqV+y1qVT0RrHwFqH1nCnbu2Ytujc3M5tFfDbUnv7LAPZQNNeCciYVOCFPxsOIi9lBs6YbquQFydmnrC5WASUAMjyeVn3BBQcHY6P53NGe0jPvq6ty2fCS8F0Ah+TESDVk6wxwv8v/fbLfIE5GSXpQ+/zsa6mN90g=;h+lx3zm42/Jaszi1xCUQGA=="

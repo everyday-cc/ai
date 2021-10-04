@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "VMware Extends vSphere to Capabilities for Nvidia’s AI and GPUs"
-    excerpt: "VMware’s VMware vSphere 7 Update 3 release serves to further unlock access to Nvidia vGPUs and AI with self-service API options, while also offering a number of new capabilities for vSphere for applications running in or on virtual machines (VMs),"
-    publishedDateTime: 2021-09-29T17:26:00Z
-    webUrl: "https://thenewstack.io/vmware-extends-vsphere-to-capabilities-for-nvidias-ai-and-gpus/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 54
-    images:
-      - url: "https://cdn.thenewstack.io/media/2021/09/4e14c3dc-img_1550-1.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "NVTC partners with NVIDIA Deep Learning Institute to provide online AI courses"
     excerpt: "The Nasser Artificial Intelligence Research and Development Centre at the Nasser Vocational Training Centre (NVTC) and the NVIDIA Deep Learning Institute have started a collaboration, whereby students in Kingdom of Bahrain benefit from NVIDIA’s online courses in various areas of artificial intelligence (AI)."
     publishedDateTime: 2021-10-02T15:33:00Z
@@ -82,15 +68,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "NVIDIA’s Huang to Unveil AI Technologies, Products at Virtual GTC, Nov. 8-11"
-    excerpt: "NVIDIA today announced that it will host a global, virtual GTC from Nov. 8-11, featuring a keynote by NVIDIA founder and CEO Jensen Huang and talks from AI research and industry leaders. Agenda and registration information can be found here."
-    publishedDateTime: 2021-09-29T18:38:00Z
-    webUrl: "https://insidehpc.com/2021/09/nvidias-huang-to-unveil-ai-technologies-products-at-virtual-gtc-nov-8-11/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 18
 
 secured: "RjKyeCUssEDLFVNBhtgklIVKzyjJAbE0x+3ZQvcS5SMOeDYdPQR8EuIhpV7lxUkLly1hnugnDFITZ5jtf0GMag66lDBANoishlNW9vZr6Ly2ZD38ipTGG3uQDuGRICXLRV2wFWOMzf09QNgnAzeD7SeQDm+eyPLNGgNkQSORs9Bb3cl61lkhwzonI2kBu+VHR85TwLtjOUZa4pzXvbCOtQNB37LABCjc681pI3aP1JZg9DRBvv9519S3AYbcpz7+JORFbUAFuVMTdW7HXyh9lIruMXdTbxzIYYS6fcxS5LGiq9tBZioQRtFn72IMrhn/R+b9OfdHzezas4brNhkTWPKqaCk3MVbB3GFguiPwNjA=;fHK9CuCzqZszCXAQ9VQVZg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/top-five-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/30/top-five-ways-ai-is-revolutionizing-the-financial-planning-industry/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Terminus aspires to lead the AI industry"
+    excerpt: "Terminus Group is a China-based world leading AIoT company and the exclusive robot solution and AIOT application service provider of Expo 2020 Dubai. Founded in late 2015, the company currently has about 1,"
+    publishedDateTime: 2021-10-02T02:16:00Z
+    webUrl: "https://www.globaltimes.cn/page/202110/1235576.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 39
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0//attachment/2021/2021-10-02/d74b984e-b1e2-401c-a427-ce4fd94ac455.jpeg"
+        width: 800
+        height: 480
+        isCached: true
   - title: "Artificial Intelligence is changing the dynamics in video editing"
     excerpt: "This article features about how AI is transforming video editing and techniques in it. Check this article out to learn more."
     publishedDateTime: 2021-09-29T19:30:00Z

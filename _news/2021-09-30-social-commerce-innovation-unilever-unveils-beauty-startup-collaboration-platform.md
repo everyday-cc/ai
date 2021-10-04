@@ -68,6 +68,34 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "More Organizations Saving Time and Costs on Data Breaches with Automation and AI"
+    excerpt: "Cost of a Data Breach report shows, AI and automation can reduce the cost of a data breach. See how organizations with AI security fared in 2021."
+    publishedDateTime: 2021-10-01T17:30:00Z
+    webUrl: "https://securityintelligence.com/posts/save-time-money-data-breach-security-ai-automation/"
+    type: article
+    provider:
+      name: Hack
+      domain: securityintelligence.com
+    quality: 32
+    images:
+      - url: "https://securityintelligence.com/wp-content/uploads/2021/10/Data-Breach-1.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Future is Now: How AI in Diagnostic Imaging is Transforming Medical Applications"
+    excerpt: "The Use of AI in Diagnostic Imaging is Booming in Healthcare Industry” Download the most up-to-date research study and application @  AI in diagnostic imaging is gaining prominence and quickly growing industry close to what's to come."
+    publishedDateTime: 2021-10-01T19:22:00Z
+    webUrl: "https://www.linkedin.com/pulse/future-now-how-ai-diagnostic-imaging-transforming-medical-p-mahajan"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 30
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGmyKBct-TaWg/article-cover_image-shrink_720_1280/0/1633115703468?e=1638403200&v=beta&t=lYhzsqOGDrkEHBGeACtqj6r46vmodR0eEfo1XbStQwY"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Worldwide Mission Critical Communications Industry Report to 2026 - 5 Cases Studies Included"
     excerpt: "The \"Mission Critical Communications Market by Enterprise, Industrial and Government Solutions 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. The market for mission critical communications is rapidly evolving as developing technologies supply solutions necessary to meet emerging demand for improved voice,"
     publishedDateTime: 2021-09-30T19:42:00Z

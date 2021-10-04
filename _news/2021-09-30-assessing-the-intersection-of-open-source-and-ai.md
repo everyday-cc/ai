@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/29/assessing-the-intersection-of-ope
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/assessing-the-intersection-of-open-source-and-ai/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -76,6 +76,31 @@ related:
         width: 790
         height: 496
         isCached: true
+  - title: "The Role of Artificial Intelligence in the Future of Education"
+    excerpt: "Artificial Intelligence is already being widely employed around the world to better our lives, work, health, and everyday routines, among other things. Furthermore, the solution has significant educational potential,"
+    publishedDateTime: 2021-10-02T15:46:00Z
+    webUrl: "https://www.linkedin.com/pulse/role-artificial-intelligence-future-education-yogesh-khandelwal"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG1wh0a0R6i9A/article-cover_image-shrink_720_1280/0/1633189407713?e=1639008000&v=beta&t=qvFzABCXoEoVg9wK4OjX0No9S-1IUKYkvUBAcgs-ids"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Role of conversational AI in shaping businesses and accelerating growth"
+    excerpt: "The need for humanizing and speeding up customer interactions is rising rapidly. Customers expect businesses to assist them 24/7, anticipate their needs, and provide a quick resolution of issues. Companies deploy AI-powered assistants to"
+    publishedDateTime: 2021-10-04T10:51:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/role-of-conversational-ai-in-shaping-businesses-and-accelerating-growth/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/role-of-conversational-ai-in-shaping-businesses-and-accelerating-growth/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/role-of-conversational-ai-in-shaping-businesses-and-accelerating-growth/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 37
   - title: "These Indian AI start-ups are raising the bar high every year since the inspection"
     excerpt: "Did you know, according to the latest research Indian AI start-ups have raised about US$836.3 million in 2020. Here are the top 10 Indian AI start-ups that have raised funding in 2021 on AI technologies."
     publishedDateTime: 2021-10-01T12:38:00Z

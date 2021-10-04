@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Terminus aspires to lead the AI industry"
+    excerpt: "Terminus Group is a China-based world leading AIoT company and the exclusive robot solution and AIOT application service provider of Expo 2020 Dubai. Founded in late 2015, the company currently has about 1,"
+    publishedDateTime: 2021-10-02T02:16:00Z
+    webUrl: "https://www.globaltimes.cn/page/202110/1235576.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 39
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0//attachment/2021/2021-10-02/d74b984e-b1e2-401c-a427-ce4fd94ac455.jpeg"
+        width: 800
+        height: 480
+        isCached: true
 
 secured: "0x3NoyFEJosT+6gzmoJLKphz8gUXrfi/vnKNETXHxgOXGVLHw83yPr8m6LBv2mtR0Q5M30+eCPE7pw+RjCli21qcjE3k027MHRqv7FtjobPTarwfYfqdb7sPNLdZHK10iy+ImZ4GJps66vd05TBXV5JhYfG9FmjNJCJ2GCVpSwyZIVMMbB22hY94xGU/ORjeAVimGF2phfrzdCwNR2i/gWkIn43++VNYV3CepRR+N02NyYj4vPLWy3VdDKjHSSlVTWBeO//+/4FgP/iPhiCkI5rdDtQ9aA9O7yIx7jhuIPimponyXAhWRiDe1yfAg9Xx5ZjzZxmYF0ICT7wBQZhcdXt2ywrTcQWh5gR5SfNFZd2ujkug4O0XQI+l9IAwBF1P3wpTKFWNs/hb89jmppjGq0tg4dGqmgDajuoQdlY11//mdyCGsbVve66DozDaRRcjy/qfCM4pbFb53q+TRead1yozFKCNVVbgeki9P4zWSVQFguwlXrWXZi4TSrTM/vOkqMaR5fQ5dI6e+pCqbDikrQ==;kf0/CZO24nc6lkif872jGw=="
 ---

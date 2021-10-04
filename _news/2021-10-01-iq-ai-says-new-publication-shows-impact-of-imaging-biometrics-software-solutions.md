@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "Gnani.ai launches voice biometrics software"
+    excerpt: "Gnani.ai a conversational AI and voice security domain announced the launch of its home-grown voice biometrics software armour365. The biometric solution caters to new and emerging risks in fraud prevention and information security."
+    publishedDateTime: 2021-10-04T11:11:00Z
+    webUrl: "https://www.ciol.com/gnani-ai-launches-voice-biometrics-software/"
+    ampWebUrl: "https://www.ciol.com/gnani-ai-launches-voice-biometrics-software/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/gnani-ai-launches-voice-biometrics-software/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 37
   - title: "NZ airport face biometrics trial deployed against Privacy Commissioner advice"
     excerpt: "New Zealand Aviation Security Service started trials of a new face biometrics system at Wellington Airport despite open concerns from the Privacy Commissioner."
     publishedDateTime: 2021-10-01T18:21:00Z
@@ -81,20 +92,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
         width: 900
         height: 499
-        isCached: true
-  - title: "India’s new law enforcement face biometrics RFP tilts in favor of local vendors"
-    excerpt: "The system will analyze faces captured by CCTV cameras as well as social media accounts, passport photos, criminal records and newspapers."
-    publishedDateTime: 2021-09-29T18:48:00Z
-    webUrl: "https://www.biometricupdate.com/202109/indias-new-law-enforcement-face-biometrics-rfp-tilts-in-favor-of-local-vendors"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 20
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
         isCached: true
 
 secured: "CHlQcrplN3HzX/ldqozNT1Dn/DU0eu8tgJbt/TenSEKT9/yYyMSkniU7wJTeS2+vEUaHKVG/Ze61H3+cPGgCQpGvfLN0hJNArgXKiDk7ZlS92YeahO7BZpw8US6w0re3DTC9/DDwST0dCOTupL1O2IlRNUJE2+4OXxEUTuMWVKKPRpMMd26lzhFBPf8RnoJm6nbTQd4s4RTKEca+igzrDD8Mx/0b2NZ7WUNQRnpHgUOpu8qpn7mWCzrKq8v9kzFXkk8DCGX0dwS8ByTbFkroIrWaIZPRzZzN7J0y9vvLOy6lq30mHJxzgP6FYHYLHy8cSufhgNqbTk4L+90diCxASiX5f+kzwQzlXBaq4/lL0pQ=;v5tMRNHcAqe7Pvca54M1jQ=="

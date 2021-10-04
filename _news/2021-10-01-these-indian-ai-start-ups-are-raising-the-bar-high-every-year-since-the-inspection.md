@@ -88,6 +88,31 @@ related:
         width: 790
         height: 496
         isCached: true
+  - title: "The Role of Artificial Intelligence in the Future of Education"
+    excerpt: "Artificial Intelligence is already being widely employed around the world to better our lives, work, health, and everyday routines, among other things. Furthermore, the solution has significant educational potential,"
+    publishedDateTime: 2021-10-02T15:46:00Z
+    webUrl: "https://www.linkedin.com/pulse/role-artificial-intelligence-future-education-yogesh-khandelwal"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG1wh0a0R6i9A/article-cover_image-shrink_720_1280/0/1633189407713?e=1639008000&v=beta&t=qvFzABCXoEoVg9wK4OjX0No9S-1IUKYkvUBAcgs-ids"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Role of conversational AI in shaping businesses and accelerating growth"
+    excerpt: "The need for humanizing and speeding up customer interactions is rising rapidly. Customers expect businesses to assist them 24/7, anticipate their needs, and provide a quick resolution of issues. Companies deploy AI-powered assistants to"
+    publishedDateTime: 2021-10-04T10:51:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/role-of-conversational-ai-in-shaping-businesses-and-accelerating-growth/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/role-of-conversational-ai-in-shaping-businesses-and-accelerating-growth/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/role-of-conversational-ai-in-shaping-businesses-and-accelerating-growth/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 37
 
 secured: "ePL72SwEevRO/E7SZnyUWAXUvjVq+v7pWCDgXK5voK/FH2qah7AIH10ZN4XP/i67vYzCSnopnN0qg7cnAHyuvzRWmyD6rnsqWVs/vIWN8BwF+LBA4CopSE4LBu2t7IkuwFlFgxFAsEoDNQ0HpsjzeHcJe1Fq5QiLmsNWmKG4YCBV8KOiSk/Vrk5Ee6kPXNiauFPklq5xh50fgT3xlJ7QHYbnyjyVkPyqth+lOvgSHbekpKfcengAUXTsTwsLcypeibJkLTYPPVQ+GPeObB0E1PqFhR0SZOEtuGXiVD5q0TLTCw0X95qDdFsGDMLg0Y8jFn6UZcG7iTqQ543/rDQp+vqcx5dyWGN+Xqvw9shnCXrMOKjwtTrkGvXBZ+lo2OA09hRWaonAZz8KDi45jRdJwwBsgG+/XUj2vdAoc3S2cOEoHIk3cwW17dJWnX5jVpzQw9uEJLEDOGsmqAXNK34FBTxN9i3ozoITmnKYmAx0gC7SD5h4dvZn6VVaE/Gy0uPlXqHVg6rc2DF8qK3/XpSvMA==;Sk38yXYwr+foP3iWvd/LTw=="
 ---

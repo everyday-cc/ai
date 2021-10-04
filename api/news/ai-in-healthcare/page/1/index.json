@@ -2,83 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-10-03-this-healthcare-company-is-using-ai-to-develop-drugs.md",
-      "title": "This Healthcare Company Is Using AI to Develop Drugs",
-      "excerpt": "L ife sciences company Schrödinger (NASDAQ: SDGR) has developed software that could help drug companies develop medicine using artificial intelligence and physics, and it's already being used by a number of big-name pharma companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03",
-      "originalUrl": "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp",
-      "publishedDateTime": "2021-10-03T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-world-first-for-artificial-intelligence-to-treat-covid-19-patients-worldwide.md",
-      "title": "World First for Artificial Intelligence To Treat COVID-19 Patients Worldwide",
-      "excerpt": "Addenbrooke’s Hospital in Cambridge along with 20 other hospitals from across the world and healthcare technology leader, NVIDIA, have used artificial intelligence (AI) to predict Covid patients’ oxygen needs on a global scale.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/world-first-for-artificial-intelligence-to-treat-covid-19-patients-worldwide/",
-      "originalUrl": "https://scitechdaily.com/world-first-for-artificial-intelligence-to-treat-covid-19-patients-worldwide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/COVID-Technology-AI-Concept-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/world-first-for-artificial-intelligence-to-treat-covid-19-patients-worldwide/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/world-first-for-artificial-intelligence-to-treat-covid-19-patients-worldwide/amp/",
-      "publishedDateTime": "2021-10-01T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-01-ai-could-reduce-racial-disparities-in-healthcare.md",
       "title": "AI Could Reduce Racial Disparities In Healthcare",
       "excerpt": "What makes one AI tool shortchange Black patients while another produces more equitable treatment? The difference may boil down to one of the simplest rules of computer programming.",
@@ -171,6 +94,49 @@
       "topics": [
         "AI",
         "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem.md",
+      "title": "How AI deployment is changing the game of healthcare ecosystem",
+      "excerpt": "While deployment of intelligent bots in healthcare sector, has many beneﬁts and futuristic possibilities, Ayush Verma, Practice Lead, AI & ML and Shveta Raina AVP, Communication & People Strategy, Avizva point out that most healthcare providers refuse to let go of legacy systems and resist adapting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.expresshealthcare.in/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/",
+      "originalUrl": "https://www.expresshealthcare.in/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/10/01121218/EH_Ayush-Verma_Shveta-Raina_Avizva_750.jpg",
+          "width": 750,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.expresshealthcare.in/amp/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/",
+      "cdnAmpWebUrl": "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/",
+      "publishedDateTime": "2021-09-30T23:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "expresshealthcare",
+        "domain": "expresshealthcare.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
         "AI in Healthcare"
       ]
     },
@@ -1370,6 +1336,49 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-top-10-massive-failures-of-artificial-intelligence-till-date.md",
+      "title": "Top 10 Massive Failures of Artificial Intelligence Till Date",
+      "excerpt": "The creation of Artificial Intelligence has been postponed for several millennia and current AI Technology is still far from being able to re-design itself. This article will give an idea of the top AI Failures in this AI era.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/top-10-massive-failures-of-artificial-intelligence-till-date/",
+      "originalUrl": "https://www.analyticsinsight.net/top-10-massive-failures-of-artificial-intelligence-till-date/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Top-10-Massive-Failures-of-Artificial-Intelligence-till-Date.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T06:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
         "images": null,
         "publishers": null,
         "authors": null
