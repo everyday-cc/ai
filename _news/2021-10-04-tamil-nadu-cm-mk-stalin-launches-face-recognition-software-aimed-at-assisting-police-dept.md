@@ -28,16 +28,19 @@ images:
 
 related:
   - title: "TN CM launches face recognition software to aid police probe"
-    excerpt: "Tamil Nadu Chief Minister M.K. Stalin on Monday launched face recognition software to aid the state police in its investigations. The software would help compare the photos of suspects with a data resource of over 5."
-    publishedDateTime: 2021-10-04T11:50:00Z
-    webUrl: "https://www.sify.com/news/tn-cm-launches-face-recognition-software-to-aid-police-probe-news-national-vkelOtbcbeajf.html"
-    ampWebUrl: "https://www.sify.com/news/tn-cm-launches-face-recognition-software-to-aid-police-probe-news-national-vkelOtbcbeajf.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/tn-cm-launches-face-recognition-software-to-aid-police-probe-news-national-vkelOtbcbeajf.html"
+    excerpt: "Tamil Nadu Chief Minister M.K. Stalin on Monday launched face recognition software to aid the state police in its investigations. The software would help"
+    publishedDateTime: 2021-10-04T11:57:00Z
+    webUrl: "https://www.canindia.com/tn-cm-launches-face-recognition-software-to-aid-police-probe/"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
+      name: Canindia.com
+      domain: canindia.com
     quality: 54
+    images:
+      - url: "https://www.canindia.com/wp-content/uploads/2021/08/CIPLACEHOLDER.png"
+        width: 586
+        height: 390
+        isCached: true
   - title: "TN CM launches face recognition software to aid police probe"
     excerpt: "Tamil Nadu Chief Minister M.K. Stalin on Monday launched face recognition software to aid the state police in its investigations. The software would help compare the photos of suspects with a data resource of over 5."
     publishedDateTime: 2021-10-04T17:58:00Z

@@ -39,15 +39,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Gap Inc. Acquires AI Startup CB4"
-    excerpt: "Gap Inc. (NYSE: GPS) has acquired the New York and Tel Aviv based start-up Context-Based 4 Casting Ltd. that uses cutting-edge AI and machine learning tools to transform retail op"
-    publishedDateTime: 2021-10-04T16:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-gap-inc-acquires-ai-startup-cb4-/2021/10/04/9461964.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "SzV7B9fSJlwpFVO4j3KA1U6crMUqDX9WR2WCse9ipInmAShA6ZqXf1I1e2z5oWFHhbtazsFrGyeJn+kS66UDQ9niNx1a5JQXlOhy3cW1tiYim3PZekjiQtL+5kAPPGvpWY/ms+MRMQXvMCNJ+I0rDvNWwXF+nP77gi4Rp6s1PRa557nJ+vG+z9Nekrs6HxDQJxjnzAisjnf5nVZRqQsB+hSFEBFnurDLhRcHDTFBirFVp1pH5J5+HCPtfDhWY6zUBo/3Ekm7PpYXMWrg0TbkteEA5hdnnCVYXMieOR0uVOX39wcB9FcBD/W4o4Xs/r7Hx1GCBtqwss0vhr3q7UBwBgAq+nrmOhiqDtFhGr8RDQYmMeduFW24ItOnEM2tVuybsmIDysU3Rja5wbYksjnQ+b66eHO4RBwle3umx3nlJX+QnLgU1vq0K541svpopghaQHTy1pDuyRrFZi+1dd9S2VcNbNm1x9kh7EqXf9ootQzHpHCWAHyCcRhd26rMLU5PYT7Ue9ih3f0iR8gPieiw/Q==;fhGdAGxJHu/Cg3r/nJc/8Q=="
 ---

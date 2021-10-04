@@ -1,24 +1,28 @@
 ---
 category: news
 title: "TN CM launches face recognition software to aid police probe"
-excerpt: "Tamil Nadu Chief Minister M.K. Stalin on Monday launched face recognition software to aid the state police in its investigations. The software would help compare the photos of suspects with a data resource of over 5."
-publishedDateTime: 2021-10-04T11:50:00Z
-originalUrl: "https://www.sify.com/news/tn-cm-launches-face-recognition-software-to-aid-police-probe-news-national-vkelOtbcbeajf.html"
-webUrl: "https://www.sify.com/news/tn-cm-launches-face-recognition-software-to-aid-police-probe-news-national-vkelOtbcbeajf.html"
-ampWebUrl: "https://www.sify.com/news/tn-cm-launches-face-recognition-software-to-aid-police-probe-news-national-vkelOtbcbeajf.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/tn-cm-launches-face-recognition-software-to-aid-police-probe-news-national-vkelOtbcbeajf.html"
+excerpt: "Tamil Nadu Chief Minister M.K. Stalin on Monday launched face recognition software to aid the state police in its investigations. The software would help"
+publishedDateTime: 2021-10-04T11:57:00Z
+originalUrl: "https://www.canindia.com/tn-cm-launches-face-recognition-software-to-aid-police-probe/"
+webUrl: "https://www.canindia.com/tn-cm-launches-face-recognition-software-to-aid-police-probe/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Canindia.com
+  domain: canindia.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.canindia.com/wp-content/uploads/2021/08/CIPLACEHOLDER.png"
+    width: 586
+    height: 390
+    isCached: true
 
 related:
   - title: "Tamil Nadu CM MK Stalin Launches Face Recognition Software Aimed At Assisting Police Dept"
@@ -47,6 +51,6 @@ related:
       domain: webindia123.com
     quality: 34
 
-secured: "TubfYPJG4EIprLZrEMj36jrQZ/j4EzakQIK5epb+SsKDntLoRLXkmhi5iOxpd+ZBp9MlP8BGjyvVgDYcq9eGPem1DYDaY0kcpUJdUoDLEG91WSVHnqe/2djsbYf6AjgFgY8XzEMvH2Sf9M3+hriRC0f3bg6GEi48fkYC+6StdUajdDN0If4AL3jKFBmzMfKwTNNT+4i6EhFn0IcKZt6rmXqHeNWjEc40XHK/UFdbg4R9EzPHFetDhlkGxGc5OOXmVKwRH8aCpzgjT1WK2yX6eCCFLyyzN6CjpP020uPFjtHdwTnG5iJoi/pZkUL+Clsr3wLyEekhQfyrJY4QfkcRq/hUA0u3CTacfFLhWVI4Ues=;a+6dqUPxPU0mv0wGWmKPGg=="
+secured: "boTnqtPOMqmHyXofBUWG46+B6PVMzjPLZxI0YMrVEsbRN7FGCw1qOrpXsTu3+VrlSfi+pyA2q74XvxeJsUWN3j8w+i8Ue/qTcnogP/qlwxhfKqzUfZtOVX41xhxgrtP26dcwwxoVeXiWGeMzNTfFZ+4XAPGa2VH29yz0oueEyE5J6Cn5vrLB4Cf4wKrjtoTk1Hvs94zXP26OybYIfeEHo+1Ah8EBsj7Z3TeKW6pn6CBBwxPQQLArlo42Enwsgm0Qcn1Q4Cam0VyObAx3x8q4C6oGe2ZCV3M6dneM9OxNEkZt2b6nLnCX5lJJJ5CYU3b5Sx3il5aHfEBLc8yhRcIHv/izsBPEDyxkP4JaovuW3Ug=;3DpDdvZR8Tv9fW5hOhUChw=="
 ---
 

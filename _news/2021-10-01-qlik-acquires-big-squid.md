@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qlik acquires Big Squid for augmented analytics with no-code automated ML"
-    excerpt: "Qlik acquires Big Squid for augmented analytics with no-code automated ML Qlik announced the acquisition of Big Squid, a leading provider of no-code automated machine learning (AutoML), to expand data and"
-    publishedDateTime: 2021-10-01T10:52:00Z
-    webUrl: "https://www.dqindia.com/80112-2/"
-    ampWebUrl: "https://www.dqindia.com/80112-2/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/80112-2/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 58
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2017/02/RPA.jpeg"
-        width: 540
-        height: 370
-        isCached: true
   - title: "Qlik Expands Into Machine Learning Realm With Big Squid Acquisition"
     excerpt: "Big data analysis software vendor Qlik is acquiring Big Squid and its no-code automated machine learning AutoML tools to boost augmented analytics."
     publishedDateTime: 2021-09-30T04:55:00Z
@@ -83,35 +67,7 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "How Reliable AI is in Patent Analytics?"
-    excerpt: "We recently conducted a study of innovation and found that the average patents filed in a year have gone up +1800% since 2012. The speed of innovation has gone up by multi-folds, so the researchers and strategists need faster hands or technologies to provide quick yet reliable insights."
-    publishedDateTime: 2021-10-01T01:22:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-reliable-ai-patent-analytics-pranav-sharma"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGk1FBCHuFbdA/article-cover_image-shrink_720_1280/0/1633003255913?e=1639008000&v=beta&t=gZ3ADw8Xji-vydedCWOi_DTRZXZUY52DmqP46Vxid1g"
-        width: 1280
-        height: 682
-        isCached: true
-  - title: "Cloverleaf Analytics Makes BI More Accessible for Insurers by Launching Natural Language Processing, Chatbot, and Automatic Insights Capabilities"
-    excerpt: "Cloverleaf Analytics (Cloverleaf), a leading purpose-built insurance business intelligence (BI) solution provider, today announced natural language processing (NLP), chatbot, and automatic insights capabilities as new features in the"
-    publishedDateTime: 2021-10-04T12:10:00Z
-    webUrl: "https://www.lelezard.com/en/news-20027679.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 2
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
-secured: "bfSy+9DkkMFidotIUTR6ZxX6V7Kh1wNoMurVqPa9dEeBmlkkp2o3+0135SgI/N4TIRSf7sPcF+owkn+ukuzqXZLSUPPur7qjVZacKuDNyKEvfAJjiYvQGsoAxZs5K8JTqxbapVMrTp0z0EFjHzLOyqilcegQJVdRoqzv4jDX9yZeQLx0bCOMmPPi74nfR6XAHL5aOPmLdexcY6Ez4TXmIzX3zvyRVOG3P7dXINqU3bKsx7+iUZpuBKXn+dC+6avrh1v7r4GkguTLTzZBscwvvCbeD40xtr/nJMBzTnxdRJHNOBzj5YW7xVAnngY1yrtfjm63Nuzz/AGNZJshj66pML6Am5JJ5prvsTny9hfkgeA=;PTw0htrp5HDLL0YKpL6H4g=="
+secured: "bfPl5IPMXcnS0vTySz1orskyCsymZWHbVkErTlpEI1gecss/9GFrbfu4teJ59TLc0PXYvpaoyxNEUYqQ140KctoSfgOuPnkzjinJVWV7vk7g/Lr754LLdDwqTTcGrmRDOwfqLRRyo9CkRmXqqcTH8Gdk1YXuxhAnOYsRP0r9qRGGyRz6B5kgXMkNekIaQ9f0CKsn0KfWRPi/+vFiFiEVGX+9y/CI7zkAuthr8oN5hB3BN4xmh8RkTTgku3SaR1KVh+Lf/CAhQYZc2qvHqIqpxhTCiloaLrSmqIWcheNCy38zc7XVyztZaFLGYBeKFtNpHLg08l7bMJ9K9hygo1VFmqEjBJSRbXQMlEiwIrDTPGg=;9YxVKlTPudKZDR8+dNS/LA=="
 ---
 

@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "GM, Ford to settle suit over ‘BlueCruise’ name for hands-free driving"
+    excerpt: "GM and Ford have agreed to settle a legal battle over the latter’s use of the name “BlueCruise” to market its hands-free driving technology. In a notice filed in court late on"
+    publishedDateTime: 2021-10-04T18:15:00Z
+    webUrl: "https://nypost.com/2021/10/04/gm-ford-to-settle-suit-over-bluecruise-name-for-hands-free-driving/"
+    ampWebUrl: "https://nypost.com/2021/10/04/gm-ford-to-settle-suit-over-bluecruise-name-for-hands-free-driving/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/10/04/gm-ford-to-settle-suit-over-bluecruise-name-for-hands-free-driving/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 44
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/10/bluecruise-09.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Ford, GM aim to settle trademark fight over hands-free driving"
     excerpt: "The tit-for-tat legal skirmish began in July when GM sued Ford for violating its trademarked driver-assist technology."
     publishedDateTime: 2021-10-03T15:40:00Z

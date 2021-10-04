@@ -7,7 +7,7 @@ originalUrl: "https://www.sixteen-nine.net/2021/10/04/ai-driven-generative-art-f
 webUrl: "https://www.sixteen-nine.net/2021/10/04/ai-driven-generative-art-for-video-walls-generates-5m-at-sothebys-nft-auction/"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     height: 465
     isCached: true
 
-secured: "8E/15ZIjG9B2vh2E/oVM41WwtpiV2kdlgLlr2HPA2RgJzGn578mpDibm56SwDke+rJ+fmvAkXL+T5YYpL2PABLXW7iTlMtxZOc3rb/HCI7n28n4ddslZksZrdmA2sxOAN1bROQRPTUwnRY5hyraLvCXKd/YMwN1B7T7jrnDoEFiPwf7PE9SRDcGKB1Ao2dF/1rJBgk+c3m/1YQo8bztbv3XwyEc7rpziaugIse2r5EEQf7iptHD2ryIObh7tEAScZNXtk4vohL+CH8uUBoeOm5WxgaIgTYot/gFMfTC/8gY7QdL2czh3/XwpJCeuBfs+7aqaEAZ4JYfftl4M/hvntIWY2I5jPQFQd5u5lEzrEoI=;sBG1yHxVZnwlrKGXZ8tIGw=="
+related:
+  - title: "Art in Artificial Intelligence: Bangalore artist launches NFT at Sotheby's"
+    excerpt: "Raghava KK’s latest work called ‘La petite mort’, currently up for auction at Sotheby’s in New York, has been creating much curiosity."
+    publishedDateTime: 2021-10-04T19:03:00Z
+    webUrl: "https://www.newindianexpress.com/cities/bengaluru/2021/oct/05/art-in-artificial-intelligence-bangalore-artist-launchesnft-at-sothebys-2367596.html"
+    ampWebUrl: "https://www.newindianexpress.com/cities/bengaluru/2021/oct/05/art-in-artificial-intelligence-bangalore-artist-launchesnft-at-sothebys-2367596.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/bengaluru/2021/oct/05/art-in-artificial-intelligence-bangalore-artist-launchesnft-at-sothebys-2367596.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 55
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/10/5/w600X390/Raghava_KK_Twitter.jpg"
+        width: 600
+        height: 390
+        isCached: true
+
+secured: "k6fZxJFMToRCNdHKL3nIW+mspe5V3eySMe2LOLSE5tYcOIJc3/1VnQxOBdTj3NAkwKoVh+/wCLDoRdiFzVP0kazsLxtZEuNOofNSkmrp/c4ydo5LuP2skdfEbHvmQkBN8rmBIvUfnJhtKrNq53seUCKaADps/ag/slBRng8hoi1cb5dPfonEAsEHSbml8ag//BZRcda8+GnvAS2Wj5U0+wjkA+x8iBK5aC0U4GSGYtpZNkS7imIqN7cOkXPUjw4uZLnLHhN760mGMDy8e0x6Qdt4b65yENbcaEzjHMCphSZ0XZH641iTEsGacoXiDrvzGQsjowM3zxsSZa+AGaqz3TDhm2cin7MtDbucUO8XWTXI0fgLMbTeM9MNwyV9/60Mh5zVqcP0eY14/H5b0bbdjK/OcE/tyQc7BLZO2JSApAGNpgZ2He6E27GnAd6iJMBo+Edo4G8lSV/ExKbzG6bZcK+j4d8L/gmmQR3o8whVSt+IOyw8z79MlGrTb1DUzg3IDIDyfnPnJuE2bX3uJscnOQ==;IqvBoOgtSEB+0axssCY+5w=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.asiaone.com/business/edgecortix-acquires-multiple-patents-d
 ampWebUrl: "https://www.asiaone.com/business/edgecortix-acquires-multiple-patents-dynamic-neural-accelerator-ai-processor-technology?amp"
 cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/edgecortix-acquires-multiple-patents-dynamic-neural-accelerator-ai-processor-technology?amp"
 type: article
-quality: 48
-heat: 48
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Oct2021/pr-newswire_500_4_42.jpg?itok=4Zyygxw8"
@@ -26,6 +27,6 @@ images:
     height: 509
     isCached: true
 
-secured: "YzIqM5Tj112a+RCZu73cRgWoJntIBB2A7KnznPwhdde6yQN7mdubZgEdv4EHFtOIAnFPdy/rk5YpsG6uJJCFjePRaZX3IlU3AWyOmiQHk46u1VHRcP7/Hakpun/FTlMtovK75wgZamyn6f0FmKtx7cenY6MgWkFxjV5KZ269vJgCCaWrPk37uZIjSgSYLpkkx4if1Wba12avnWUzha2/qPoBv2BUpV1IL9P/irdh7uUQYy08slXYnoUFsMEOist67eMpmdJMVlyf7aC95Duq7MH3srtzfyuT3Vsel8rwUBl2nKIltKCCnKP+wAjXHOrIq5XP9XNHfMgyqdFneb/nhjsSDpzVUH4Mw6957L2bn+g=;K9dzbLmHh4nz3Y/UHZM5Vw=="
+secured: "r8lkzAZmZHqRhBzQhwI4p5bo1Xm/WyJiITLhVR+rTsNmbvelwHLnAos2e8B9vt/UFSvC/YP5KacZAqgpUcIxRC8ase94tGULJkHRASYhjwKWTFDzMywg+vd+SN1FxmuMgJrcBUPg4NOkEs9I6Yymvp/rG+f+yNP33qz8DWa3Mz7pArtfLORMkUCc2GpunVr7z8D69fDU4FqyFTD4NSqjwDT0/P3CRUTR6CAs2fETB7y2b8Pn4ewixLOTweGo0TK2Mnd6R1I1ptwXG9UVziwSeOHIwoCj3BJsFO3hlZC76IdmPv0+ulB1+/hx9xBX1KnINV5OG6/A822fWleehOu9nHheyzld0eb4FsrRR5mYOoB039uBUNknks0PaEW45EsGHLBm47kY/WSzRQ5uq7XfmFIpQVpoQRVillgSRS2V6uVN4OFog4MwyZ7ohU18fBNjiNB8FKOVY09sjvQNQkrdt0SxhfZqqkyXe85EbWba/nMCO4gaWL7uW9s0kRr+5VM1jX2MVh0hgq9y40JpnwCc5Q==;bs0dZmipLsdsDaZ9XA3teQ=="
 ---
 

@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Mail.ru offers cloud voice recognition and synthesis service to businesses"
+    excerpt: "Russian internet company Mail.ru Group is offering business customers the option to use the speech recognition and synthesis service Mail.ru Cloud Voice on Mail.ru Cloud Solutions infrastructure. The machine learning-based service assists companies to implement voice technology into their digital services and"
+    publishedDateTime: 2021-10-04T19:32:00Z
+    webUrl: "https://www.telecompaper.com/news/mailru-offers-cloud-voice-recognition-and-synthesis-service-to-businesses--1399339"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "Alexa, don’t share my data: Amazon introduces on-device processing of voice recordings"
     excerpt: "Soon, Amazon customers in the United States of America can choose to have all of their voice commands processed on."
     publishedDateTime: 2021-10-01T05:11:00Z

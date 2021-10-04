@@ -7,7 +7,7 @@ originalUrl: "https://www.autonews.com/technology/ford-gm-aim-settle-trademark-f
 webUrl: "https://www.autonews.com/technology/ford-gm-aim-settle-trademark-fight-over-hands-free-driving"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "GM, Ford to settle suit over ‘BlueCruise’ name for hands-free driving"
+    excerpt: "GM and Ford have agreed to settle a legal battle over the latter’s use of the name “BlueCruise” to market its hands-free driving technology. In a notice filed in court late on"
+    publishedDateTime: 2021-10-04T18:15:00Z
+    webUrl: "https://nypost.com/2021/10/04/gm-ford-to-settle-suit-over-bluecruise-name-for-hands-free-driving/"
+    ampWebUrl: "https://nypost.com/2021/10/04/gm-ford-to-settle-suit-over-bluecruise-name-for-hands-free-driving/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/10/04/gm-ford-to-settle-suit-over-bluecruise-name-for-hands-free-driving/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 44
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/10/bluecruise-09.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "GM, Ford to Settle Suit Over Use of 'BlueCruise' Name for Hands-Free Driving"
     excerpt: "General Motors Co and Ford Motor Co have agreed to settle a legal battle over the latter's use of the name \"BlueCruise\" to market its hands-free driving technology. In a notice filed in court late on Friday,"
     publishedDateTime: 2021-10-04T16:31:00Z

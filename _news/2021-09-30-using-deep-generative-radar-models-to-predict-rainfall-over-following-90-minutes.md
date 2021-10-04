@@ -148,6 +148,20 @@ related:
         width: 300
         height: 229
         isCached: true
+  - title: "Google’s DeepMind has developed an AI-based ‘nowcasting’ system that can predict rain in the next two hours"
+    excerpt: "Now, scientists at Google's London lab DeepMind have built an artificial intelligence (AI)-based forecasting system that, they claim, can predict the likelihood of rain in the next two hours more precisely than existing systems."
+    publishedDateTime: 2021-10-04T19:18:00Z
+    webUrl: "https://techstory.in/googles-deepmind-has-developed-an-ai-based-nowcasting-system-that-can-predict-rain-in-the-next-two-hours/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 36
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/10/Delhi_rain_September_2021_1633094797589.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google, DeepMind face UK lawsuit over NHS data access"
     excerpt: "Google and British AI technology subsidiary DeepMind are facing a new claim over NHS data use. The representative action is being brought by law firm Mishcon de Reya on behalf of Andew Prismall and around 1."
     publishedDateTime: 2021-10-03T14:50:00Z

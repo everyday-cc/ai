@@ -155,6 +155,20 @@ related:
         width: 300
         height: 229
         isCached: true
+  - title: "Google’s DeepMind has developed an AI-based ‘nowcasting’ system that can predict rain in the next two hours"
+    excerpt: "Now, scientists at Google's London lab DeepMind have built an artificial intelligence (AI)-based forecasting system that, they claim, can predict the likelihood of rain in the next two hours more precisely than existing systems."
+    publishedDateTime: 2021-10-04T19:18:00Z
+    webUrl: "https://techstory.in/googles-deepmind-has-developed-an-ai-based-nowcasting-system-that-can-predict-rain-in-the-next-two-hours/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 36
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/10/Delhi_rain_September_2021_1633094797589.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "n6FxKOK2wa0xbsvlD/eTnZyTBrwpKmvLKhpAvO+A5jTwVo+b7ZxSAAGfm6KQR4C+W7+0u62aNgFKejR0EVT2z/cD0pZtQ4n+T3DT98bRnFKEvmvJLDuZXmR6QdvKQ9+wzdL7cLfWTkdcerC9v3BnsbSBtai24XPtQj8Ix5qDtgezl4OmeAp52zYtzVDv612HZs8h1bjjxZE9vAKMSVYbKIhl2rdycl63OtryxiPqa6dwfCE2Ki0+IS5RDulQfx9NUImtW2P3E2DbVXzBJ2bw+EQkL+o6pK7eeI0niD5ephyaKZwcfKYsVes9cfJpTlQMYggFZZ33gFJlGIIRdFq5OztshSFLo0QHTRyYFIPtfco=;/f3VjRU91kDr4RsXElpnXA=="
 ---

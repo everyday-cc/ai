@@ -85,20 +85,6 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "The Human Costs of AI"
-    excerpt: "In 2015 a cohort of well-known scientists and entrepreneurs including Stephen Hawking, Elon Musk, and Steve Wozniak issued a public letter urging"
-    publishedDateTime: 2021-09-30T02:23:00Z
-    webUrl: "https://www.nybooks.com/articles/2021/10/21/human-costs-artificial-intelligence/"
-    type: article
-    provider:
-      name: The New York Review of Books
-      domain: nybooks.com
-    quality: 41
-    images:
-      - url: "https://www.nybooks.com/wp-content/uploads/2021/09/halpern_1-102121crop.jpg"
-        width: 1790
-        height: 1194
-        isCached: true
   - title: "When AI and ESG collide"
     excerpt: "The energy management system developed by cold storage warehouse company Lineage Logistics is one of my favorite examples to extol: When I wrote about it a couple of years ago, the company had managed to cut power consumption in half for facilities where it was deployed,"
     publishedDateTime: 2021-09-30T09:37:00Z
@@ -126,6 +112,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQEHlAhAljhByA/article-cover_image-shrink_600_2000/0/1633046716382?e=1638403200&v=beta&t=o8jp1LV_yWTnnO7w992yU-aD2CMof4hF2VnHChNMQUU"
         width: 720
         height: 540
+        isCached: true
+  - title: "AI is the Future — And It’s Time We Start Embracing It"
+    excerpt: "While we need to be cautious of how we use artificial intelligence (AI), the fact is that it’s a blessing, not a curse. See how:"
+    publishedDateTime: 2021-10-04T18:43:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/ai-is-the-future-and-its-time-we-start-embracing-it/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 39
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-2-1024x389.jpeg"
+        width: 1024
+        height: 389
         isCached: true
   - title: "How Architecture Firms are Leveraging AI to Optimize Their Businesses"
     excerpt: "How do firms work smarter without spending tons of time wising up? By leveraging artificial intelligence—or AI."

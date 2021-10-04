@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-mo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/amp/"
 type: article
 quality: 91
-heat: 95
+heat: 96
 published: true
 
 provider:
