@@ -34,20 +34,15 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Jordan’s Xina AI raises $ 1 million Seed round"
-    excerpt: "Amman-based AI startup Xina AI has raised $1 million in a Seed round, led by Jordanian angel investors. Founded in"
-    publishedDateTime: 2021-09-29T11:22:00Z
-    webUrl: "https://www.wamda.com/2021/09/jordan-xina-ai-raises-1-million-seed-round"
+  - title: "Radiologist's Cary startup raises $1 million to harness power of artificial intelligence"
+    excerpt: "A Cary-based artificial intelligence startup cofounded by a radiologist has closed its first million-dollar round. CoRead AI Inc. closed on more than $1 million in equity financing on Sept. 10 from three investors."
+    publishedDateTime: 2021-09-29T17:32:00Z
+    webUrl: "https://www.bizjournals.com/triangle/inno/stories/fundings/2021/09/29/coread-ai-mri-ct-scan-startup-raises-capital.html"
     type: article
     provider:
-      name: wamda.com
-      domain: wamda.com
-    quality: 37
-    images:
-      - url: "https://cdn.wamda.com/thumbnails/23ded044a8d7036.jpg"
-        width: 600
-        height: 436
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 23
 
 secured: "z6KCqsV1lYnnOvursic2Z9VsUx2BCERKBPJ0p1K1QvmxR1jqO/nm+EBJketkObUUiLBmor7tl70yjmUO07woOynngi5YiXw/PEy0PxDBfSHPEkp/UCFrrDTc5ykT/Urluf4A+9Td8ZX4rmUeHdIwsoEwM5Zn5s9pyzpyUBziibgfz101px6uqB998Zw1ioaQZ2QSiNhjcTXmXScN4vxg64NFr/REIQshE9MdUvXjr+hwmJdGQ8Vnd1GMNwCzRhg7x6NWDPopebSGCNwi4PC6XLbFtq+YLZE/Zc4KZew9ewNHlhKBh1c9DkpOSIab17/xUGUGmbkswNWZ4ZUd2XG9Zdm/rBQ13/ywyxmOD8gUCPIYR6VQIVP8iVY+ET2t9bQwk2qdVWQZ5DzzkGh7+rNdcDhNgdmoFGxXlaZkT8eEHUTTiP1Zipa/fTd2gkenhZ8W4+tdnweKQCURbv1Rpb10CBQ9xR0BJ5TzRKrpjePD7Yq7Z2Er6XStv8CIOPkwidM38iWCMpInzvBg6TuvCdyBag==;DPsMSwePbbBlWlkE/SQOng=="
 ---

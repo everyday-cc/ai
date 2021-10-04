@@ -19,34 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "Worldwide Natural Language Processing Industry to 2025 - Growing Investments in the Healthcare Industry to Implement NLP Presents Opportunities - Rese"
-    excerpt: "The \"Natural Language Processing Market Research Report by Industry, by Type, by Technology, by Application, by Region - Global Forecast to 2025 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-09-29T15:29:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=538814"
+  - title: "Computer Vision Market Recent Trends, Growth and High Demand During Forecast by 2031"
+    excerpt: "The growing advancements in the latest technologies and the widened scope of computer vision systems in a plethora of industries such as consumer electronics, education, healthcare, manufacturing, security,"
+    publishedDateTime: 2021-09-29T16:03:00Z
+    webUrl: "https://manometcurrent.com/computer-vision-market-recent-trends-growth-and-high-demand-during-forecast-by-2031/"
+    ampWebUrl: "https://manometcurrent.com/computer-vision-market-recent-trends-growth-and-high-demand-during-forecast-by-2031/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/computer-vision-market-recent-trends-growth-and-high-demand-during-forecast-by-2031/?amp=1"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 31
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "The Worldwide Edge AI Hardware Industry is Expected to Grow at a CAGR of 17.1% from 2021 to 2026 - ResearchAndMarkets.com"
-    excerpt: "The \"Global Edge AI Hardware Market with COVID-19 Impact Analysis by Device, Processor (CPU, GPU, ASICs), End-user, Function (Training, Inference), Power (Less Than 1W, 1-3 W, 3-5 W, 5-10W, More Than 10W) and Region - Forecast to 2026\" report"
-    publishedDateTime: 2021-09-30T09:41:00Z
-    webUrl: "https://www.lelezard.com/en/news-20022824.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 14
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
-        isCached: true
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 32
 
 secured: "OKuRpZCadfog2xRmJHq+SVVDaH1D8KvF2SuNTGEiM3TBxiAS7q7QBHHDpKv8d86KxTuyELQRkA/gANoOT+FZ+17XKiHlTOpIJ3mDdR2QXCyWSiccn58UtCT0Tyg+h0ftv2nQcEZ6tw6vYYlJACEr1PtQMIODmvsoa0jaWUzaWwRwcPo3Hig/Poi6O9lZvWc4DT28PCPmWWS6TbunfowPLESyjIW4CeKN4xaCM2+OVZgUV3JoUW/JwLXtVr6SE352VIYlaePYBh5cASIRgkWksy2Ec/YUFQTpfLFfJNZvC8VsmpcTDiLORRgf7m8lBXWfLOJL+K3BS/zM0MPLfvFETSnw1DM7IHN2GRYDR0bOaSE=;+zaxDpcACUv390Upy9mRoQ=="
 ---

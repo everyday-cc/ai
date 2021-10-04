@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon brings offline voice recognition to Alexa devices"
-    excerpt: "Amazon brings offline voice recognition, shares details on the privacy features coming to the latest Alexa devices, the company announced a slew of connected devices including Echo Show 15, a new household robot Astro,"
-    publishedDateTime: 2021-09-29T12:39:00Z
-    webUrl: "https://www.bgr.in/news/amazon-brings-offline-voice-recognition-to-alexa-devices-hardware-event-2021-astro-echo-show-15-1011217/"
-    ampWebUrl: "https://www.bgr.in/news/amazon-brings-offline-voice-recognition-to-alexa-devices-hardware-event-2021-astro-echo-show-15-1011217/amp/"
-    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/amazon-brings-offline-voice-recognition-to-alexa-devices-hardware-event-2021-astro-echo-show-15-1011217/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: www.bgr.in
-    quality: 44
-    images:
-      - url: "https://st1.bgr.in/wp-content/uploads/2021/09/Amazon-Alexa-offline.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Some Amazon Echo Devices Will Get Offline Alexa Voice Recognition Soon"
-    excerpt: "Amazon launched a bunch of new connected devices at its Sep 28 event. The company also said it is bringing some new privacy-related features to Alexa."
-    publishedDateTime: 2021-09-29T11:50:00Z
-    webUrl: "https://www.androidheadlines.com/2021/09/some-amazon-echo-offline-alexa-voice-recognition.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/09/some-amazon-echo-offline-alexa-voice-recognition.html?amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/09/some-amazon-echo-offline-alexa-voice-recognition.html?amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 44
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2020/07/Amazon-Alexa-app-UI-logo-AH-2020.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Amazon adds offline voice recognition to Alexa devices"
     excerpt: "Amazon has announced a slew of new connected devices and with those come some new Alexa features, including the new privacy feature."
     publishedDateTime: 2021-09-30T05:09:00Z

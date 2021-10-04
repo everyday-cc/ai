@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Sumo Logic Addresses Digital Transformation Complexity Driven By Exponential Growth of Digital Services"
+    excerpt: "Digital transformation continues to accelerate, giving rise to the number of digital services that companies build, rent, or outsource to drive their customer experiences and revenue growth. In short,"
+    publishedDateTime: 2021-09-29T18:48:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2021/09/29/9459297.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "vDjlT8sS5MYnE7avJe8jHRgoCFdoU13ZAmwyRbDzB8t0bnnGPBZHqLOpArZfvDzSkW8l60sSDX50bQ+/5tliKdggx8k15Egm6gRegllMvOlnDZYWqRhpRaAg42Dso1pxilT5CiPrhMq+erKyXXXkiRTKW3G8Ck1IXDhDSqbToO2zyDq830DmZRq+ONvC/AEA2WjNgKrooMWRIsmRfER/3w2+KgypjQH40W8HR0wl/WPOd2gbfWhm78P6LKEOWfJ4qGpjOT2bxrnJleR8E/AXwC6DMPu1KlH+VhLOO4d/jZLDhDGzo0XCQGbnJIDGUVzA/0ylhEYu0ybsFUaEjZhMmPAkz2GAvQb55rNg5tSPnAk=;g0a9kgDjC3XKb7a+0jphwQ=="
 ---
 

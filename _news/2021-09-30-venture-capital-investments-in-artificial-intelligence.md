@@ -7,7 +7,7 @@ originalUrl: "https://www.oecd.org/publications/venture-capital-investments-in-a
 webUrl: "https://www.oecd-ilibrary.org/science-and-technology/venture-capital-investments-in-artificial-intelligence_f97beae7-en;jsessionid=ExL93HSzRrDDB_HAI5qaSboz.ip-10-240-5-159"
 type: article
 quality: 117
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -89,6 +89,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "UOB invests SG$500m, banking in on AI-driven digital engagement"
+    excerpt: "Multinational investment bank and financial services company, United Overseas Bank (UOB) is investing up to SG $500 million in digital innovation initiatives as it seeks to double its retail customers."
+    publishedDateTime: 2021-10-04T04:59:00Z
+    webUrl: "https://www.marketing-interactive.com/uob-invests-sg500m-banking-in-on-aidriven-digital-engagement"
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 17
   - title: "Launching AI Enabled Appreciate - A trusted partner for better returns and global investments"
     excerpt: "Appreciate will help one invest in US equities to access better returns - so they can get more value for their investment, and can lower risk through global diversification. Today, international investing is plagued by complicated paperwork,"
     publishedDateTime: 2021-10-01T11:02:00Z

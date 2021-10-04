@@ -9,7 +9,7 @@ ampWebUrl: "https://manometcurrent.com/computer-vision-market-recent-trends-grow
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/computer-vision-market-recent-trends-growth-and-high-demand-during-forecast-by-2031/?amp=1"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -21,49 +21,15 @@ topics:
   - AI
 
 related:
-  - title: "AI in Education Market Future Trends, Prominent Players, Covid 19 Impact and Forecast by 2030"
-    excerpt: "The global artificial intelligence AI in education market had a valuation of 1 1 billion in 2019 and it is predicted to generate a revenue of 25 7 billion by 2030 According to the estimates of P S Intelligence a"
-    publishedDateTime: 2021-09-29T11:37:00Z
-    webUrl: "https://www.openpr.com/news/2411586/ai-in-education-market-future-trends-prominent-players-covid"
-    ampWebUrl: "https://www.openpr.com/amp/2411586/ai-in-education-market-future-trends-prominent-players-covid"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2411586/ai-in-education-market-future-trends-prominent-players-covid"
+  - title: "Computer Vision Market Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for  Computer Vision Market  for 2021 till"
+    publishedDateTime: 2021-10-01T04:41:00Z
+    webUrl: "https://menafn.com/1102897489/Computer-Vision-Market-Top-Companies-Business-Growth-And-Investment-Opportunities-Share-and-Forecasts-2030"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 63
-    images:
-      - url: "https://cdn.openpr.com/U/9/U929455223_g.jpg"
-        width: 800
-        height: 464
-        isCached: true
-  - title: "World First for Artificial Intelligence To Treat COVID-19 Patients Worldwide"
-    excerpt: "Addenbrooke’s Hospital in Cambridge along with 20 other hospitals from across the world and healthcare technology leader, NVIDIA, have used artificial intelligence (AI) to predict Covid patients’ oxygen needs on a global scale."
-    publishedDateTime: 2021-10-01T21:15:00Z
-    webUrl: "https://scitechdaily.com/world-first-for-artificial-intelligence-to-treat-covid-19-patients-worldwide/"
-    ampWebUrl: "https://scitechdaily.com/world-first-for-artificial-intelligence-to-treat-covid-19-patients-worldwide/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/world-first-for-artificial-intelligence-to-treat-covid-19-patients-worldwide/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 56
-    images:
-      - url: "https://scitechdaily.com/images/COVID-Technology-AI-Concept-777x518.jpg"
-        width: 777
-        height: 518
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Construction Market Analysis by Size, Status and Forecast to 2021-2026"
-    excerpt: "Latest released Global Artificial Intelligence (AI) in Construction Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings,"
-    publishedDateTime: 2021-09-29T20:47:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-construction-market-analysis-by-size-status-and-forecast-to-2021-2026/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-construction-market-analysis-by-size-status-and-forecast-to-2021-2026/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-construction-market-analysis-by-size-status-and-forecast-to-2021-2026/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 36
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
 
 secured: "d6SAoYJ6Jm4Ynk18nrPNB9NLjdF4pkgSW50+tWv/9ARfwm15TnhAnuBmJ+FOoJe3fWD4jWLfSXlcarVToxIb7SoxBhjZDNzswJQlYUD9gwGSF41EghdfAu1UPdC0cIJMtnW8XLattWjoqD6x8l/zE+4wdfQD6mqTyj6tOT9j8rQpiTF82Yxkxru3//gt9gZq9FTJ0mYKkedqeuUilJSCmGekgsBp/SxWmH5cbTyiUJ+CXzu3PGRDQrir7Ri5wk3C5ebxeUq69aGtmVdYCnn+kjTyPsD4+p+5toDTs4saoETQCEADEzCknwB8g8chMXPGswDxl+NIP/PrmSMRUJ5wc4xOfTWv9JThqbvf8H0RKfo=;+yeoacHCCN1tYQRfpWMDEg=="
 ---

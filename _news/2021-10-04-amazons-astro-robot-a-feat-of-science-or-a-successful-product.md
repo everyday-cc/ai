@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/03/amazons-astro-robot-a-feat-of-sci
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/03/amazons-astro-robot-a-feat-of-science-or-a-successful-product/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Amazon Introduces the Home Robot Astro"
-    excerpt: "The American online sales giant Amazon has introduced an autonomous robot that is designed for home use. It's called the Astro, it's about 50 cm high, and it has a camera that makes it possible to make video calls."
-    publishedDateTime: 2021-09-29T11:48:00Z
-    webUrl: "https://www.novinite.com/articles/211476/Amazon+Introduces+the+Home+Robot+Astro"
-    type: article
-    provider:
-      name: Novinite
-      domain: novinite.com
-    quality: 39
-    images:
-      - url: "https://www.novinite.com/media/images/2021-09/photo_verybig_211476.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "The robot home invasion is official, as Amazon unveils Astro"
     excerpt: "Astro is the first Amazon robot for homes that is designed to help customers with a range of tasks like home monitoring and keeping in touch with family."
     publishedDateTime: 2021-09-29T13:07:00Z

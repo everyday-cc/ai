@@ -39,22 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Deep Learning Market Provides Detailed Insight by Trends, Challenges, Opportunities, and Competitive Analysis"
-    excerpt: "A number of factors such as the rising focus of companies on reducing their operational costs and surging adoption of deep learning solutions in contact centers are projected to boost the growth of the deep learning market at a CAGR"
-    publishedDateTime: 2021-09-29T11:54:00Z
-    webUrl: "https://www.openpr.com/news/2411602/deep-learning-market-provides-detailed-insight-by-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2411602/deep-learning-market-provides-detailed-insight-by-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2411602/deep-learning-market-provides-detailed-insight-by-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 55
-    images:
-      - url: "https://cdn.openpr.com/U/9/U929293741_g.jpg"
-        width: 800
-        height: 464
-        isCached: true
   - title: "From carbon-negative insect feed to AI and data analytics: Meet 11 start-ups advancing sustainable livestock and aquaculture production"
     excerpt: "The featured start-ups are tackling a range of livestock, dairy and aquaculture challenges with gamechanging technologies including carbon-negative insect feed, novel bioactive peptides, IoT, AI and data analytics,"
     publishedDateTime: 2021-10-01T15:39:00Z

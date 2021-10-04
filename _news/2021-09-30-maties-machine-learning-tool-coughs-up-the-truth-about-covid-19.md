@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "World First for Artificial Intelligence To Treat COVID-19 Patients Worldwide"
+    excerpt: "Addenbrooke’s Hospital in Cambridge along with 20 other hospitals from across the world and healthcare technology leader, NVIDIA, have used artificial intelligence (AI) to predict Covid patients’ oxygen needs on a global scale."
+    publishedDateTime: 2021-10-01T21:15:00Z
+    webUrl: "https://scitechdaily.com/world-first-for-artificial-intelligence-to-treat-covid-19-patients-worldwide/"
+    ampWebUrl: "https://scitechdaily.com/world-first-for-artificial-intelligence-to-treat-covid-19-patients-worldwide/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/world-first-for-artificial-intelligence-to-treat-covid-19-patients-worldwide/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 56
+    images:
+      - url: "https://scitechdaily.com/images/COVID-Technology-AI-Concept-777x518.jpg"
+        width: 777
+        height: 518
+        isCached: true
   - title: "Machine learning predicts hospital-onset COVID-19 infections using patient contact networks"
     excerpt: "Researchers from the UK recently developed a real-time machine learning framework that uses dynamic patient contact networks to predict hospital-onset COVID-19 infections (HOCIs) at the patient level."
     publishedDateTime: 2021-10-04T02:43:00Z

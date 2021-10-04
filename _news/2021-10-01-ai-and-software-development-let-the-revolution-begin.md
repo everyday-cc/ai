@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/big-data-and-analytics/ai-and-software-devel
 webUrl: "https://www.eweek.com/big-data-and-analytics/ai-and-software-development-let-the-revolution-begin/"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-10-Virtual-Assistant-Chatbot-Predictions-for-2022.jpg"
         width: 900
         height: 500
-        isCached: true
-  - title: "Syntiant Brings Artificial Intelligence Development to Everyone, Everywhere with Introduction ..."
-    excerpt: "Tiny Machine Learning Development Board Now Available for Building Low-Power Voice, Audio and Sensor Applications using Edge Impulse’s Embedded ML Platform. Smallest Form Factor"
-    publishedDateTime: 2021-09-29T12:22:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-artificial-intelligence-ecf3c7b26c7dcc133f0d6a911c24a51d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "fSImSKDp21n89RCoDW5z5t+XwEZZ6K6G5uiWRfrTdn/r1ThYzl7gGj0L60AMKQmRVK6Jf9bJee/07dA+bj/Rh3Dw5oiYOl5IsAVjeUkKAajppxAPQKOLSbEmH9OsMYuYk/YT9YKd0iFalyaqpmaD3KhiX7wUhZzN7x2rXDlpPup+xs3XUhAnYt2fxv0k0A/pAkrWfVIq29DHt77/+UGLZ+ZpIMO97RTG0XINvErCP/94agslvVkn9SYDx21zNzQWZUY+2x/PA3K6YYCc6ZBhlp2P/51tv7F2rK+3MoHnCLhE9L7UEahVaHGOk8aa3zsmUacdC3qQIhePGyzNS6ftI/kbnMx3CSiImmuVsFQj9/luAwXJQDMTEIWNz51TOgm4z8Pk+m+xLYmU1JQg2x+5VEX7eGnWFO/r6Qei3kM2UFavaDo3ab03YCurB7o6FWOoSQ43J6n360vdcl2maa+AVCJ8lsGGuVL1upmpq7kr0Lj1w0vhxGQvIErx+J5yJpsBt3kPp3EzXfgQ2hbSjSZz1w==;WurjpeoXBX1VNUbY6CLZCw=="

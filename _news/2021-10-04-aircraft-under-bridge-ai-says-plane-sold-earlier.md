@@ -1,30 +1,28 @@
 ---
 category: news
 title: "Aircraft under bridge: AI says plane sold earlier"
-excerpt: "\"This was transported last night by the party. Air India has got no connection whatsoever with the aircraft under any circumstances,\" an official said."
-publishedDateTime: 2021-10-04T02:25:00Z
-originalUrl: "https://www.thestatesman.com/india/aircraft-bridge-ai-says-plane-sold-earlier-1503014314.html"
-webUrl: "https://www.thestatesman.com/india/aircraft-bridge-ai-says-plane-sold-earlier-1503014314.html"
-ampWebUrl: "https://www.thestatesman.com/india/aircraft-bridge-ai-says-plane-sold-earlier-1503014314.html/amp"
-cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/india/aircraft-bridge-ai-says-plane-sold-earlier-1503014314.html/amp"
+excerpt: "A social media clip showing an aircraft in Air India colours getting stuck under a foot-over-bridge was sold by the airline and was being transported by its new owner. According to an airline official,"
+publishedDateTime: 2021-10-04T03:08:00Z
+originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=879699"
+webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=879699"
 type: article
-quality: 57
-heat: 57
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: The Statesman
-  domain: thestatesman.com
+  name: Daijiworld
+  domain: daijiworld.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.thestatesman.com/wp-content/uploads/2021/10/eec268b8434047297020d532ac96dbac-1024x683.jpg"
-    width: 1024
-    height: 683
+  - url: "http://www.daijiworld.in/images3/expert_sq_270217.jpg"
+    width: 280
+    height: 250
     isCached: true
 
-secured: "8SF0Q2NGHC8PfFQQr7+I/QCMMEVUMpFaPGzXqgNfYrKpOfqr20BQeajjd7ZnroDxklBmOPKS4ybNOW1jaiVGPZETLNucJD1y0N2OMX+i/RnB8ed7AGumGwOzWydFAeB8IRBGhoZggspmAAbSj+F/FM+TF0Dg7SDEmV06pCdzaYW9GPZ3fpQoUsCHwqZrSCLv7J2TnYK0fvXDl3JrHSXUA4RbWq6Lk0YWlIkRG4bpUMgcR2qa4QwzkwQlMl5KptXWKyFM1Wmt99fXGDEUIbp9ieIyiaIfDQpy40syH46G+uEtZWCz4MNjw2ouCjNpA0Uqu+FmoMZ5Cuw/Z0/5ny33BQNj2X/OnmEg4dMsmX1aR24=;EagNdHrt6CHMiTynoTFYhg=="
+secured: "Hj2MivNCoARluW+/7Pj16JSpP9U/Od1YBwq0bYRcd7vjImlSfOJuUXFQ+HFytvdiCaQozQJlbqcsVEH00FvBNbprn+DZ6ZippTk4UFwS0+7p0FkpFHC93bX7HHmT1JBFtOP0xzlMCozSMjkClS4ssUsxmm6LajDgREd7aqXbTAiHELv+lMzUIEZCw6RkKDRkzo0VfcgAPk/jR/7JA4Q91wMLn1t2UENNHx8+rVJe0AAL6U3u6aM8lreUSfECIqQLHPRH5CTRmYO5gnT8Wy/wYQHgvfcWZD6+4nhvaykeS5sSAACjWoC6eiADI+41gvusLvTUjCj/IPiIo/+kzxnqmal2W0f7Ip2cYBwTmbxqQMY=;YuJ1T+sfNLB1UeLjK3JHKQ=="
 ---
 

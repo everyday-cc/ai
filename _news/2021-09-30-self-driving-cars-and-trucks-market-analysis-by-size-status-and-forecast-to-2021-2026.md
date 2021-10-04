@@ -57,6 +57,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Construction Market Analysis by Size, Status and Forecast to 2021-2026"
+    excerpt: "Latest released Global Artificial Intelligence (AI) in Construction Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings,"
+    publishedDateTime: 2021-09-29T20:47:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-construction-market-analysis-by-size-status-and-forecast-to-2021-2026/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-construction-market-analysis-by-size-status-and-forecast-to-2021-2026/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-construction-market-analysis-by-size-status-and-forecast-to-2021-2026/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 36
 
 secured: "9GI0Zn+Z6pMKIKDojqhNAC/OIJ5fVVKyW2TBpv/NIKMf+B6bnTqxL+YMwnWMLjbQquteDZzt7+2NLkv/kePzzL3YJgxQJLXCy+HuvPb6v7VLWiFyjOQqmvWI2D/lZy6V4WsJAFoGYGkqp5bLTWmola4Dk1Dqt2HN8cMCaXgeem+kgVn2NZ/VkA2TB3F3LBnvDnDT5WgpJtaJtegJWAPljo51AQ0mTHCIH5hY3/N9l6BmOSIzZJ8aLPZ80HoeMu/j6dYPrMbUwkdNX1BubgpEP5yGk5uEo+/Gk0SgTMjjtjuqnpJwpQo5CjcL6SrKEBOvTMmGRmDVfXozRmfW5R7Xx/yAmqSRy1X/xfb/oiFJfoI=;NTXLab0jg7RUzKq1NSEvxg=="
 ---

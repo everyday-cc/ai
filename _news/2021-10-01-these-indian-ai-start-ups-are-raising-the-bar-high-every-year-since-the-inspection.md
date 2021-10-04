@@ -88,20 +88,6 @@ related:
         width: 790
         height: 496
         isCached: true
-  - title: "Dubai Taxi and BluWave-ai Launch Innovative Partnership for AI-Enabled Taxi Fleet Electrification and Optimization"
-    excerpt: "One of the top fleets globally deploying Tesla EV's working with BluWave-ai EV Fleet Orchestrator Platform to drive innovation in the United Arab"
-    publishedDateTime: 2021-09-29T12:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/dubai-taxi-and-bluwave-ai-launch-innovative-partnership-for-ai-enabled-taxi-fleet-electrification-and-optimization-1030830890"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-    images:
-      - url: "https://mma.prnewswire.com/media/1638018/BluWave_ai_Dubai_Taxi_and_BluWave_ai_Launch_Innovative_Partnersh.jpg"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "ePL72SwEevRO/E7SZnyUWAXUvjVq+v7pWCDgXK5voK/FH2qah7AIH10ZN4XP/i67vYzCSnopnN0qg7cnAHyuvzRWmyD6rnsqWVs/vIWN8BwF+LBA4CopSE4LBu2t7IkuwFlFgxFAsEoDNQ0HpsjzeHcJe1Fq5QiLmsNWmKG4YCBV8KOiSk/Vrk5Ee6kPXNiauFPklq5xh50fgT3xlJ7QHYbnyjyVkPyqth+lOvgSHbekpKfcengAUXTsTwsLcypeibJkLTYPPVQ+GPeObB0E1PqFhR0SZOEtuGXiVD5q0TLTCw0X95qDdFsGDMLg0Y8jFn6UZcG7iTqQ543/rDQp+vqcx5dyWGN+Xqvw9shnCXrMOKjwtTrkGvXBZ+lo2OA09hRWaonAZz8KDi45jRdJwwBsgG+/XUj2vdAoc3S2cOEoHIk3cwW17dJWnX5jVpzQw9uEJLEDOGsmqAXNK34FBTxN9i3ozoITmnKYmAx0gC7SD5h4dvZn6VVaE/Gy0uPlXqHVg6rc2DF8qK3/XpSvMA==;Sk38yXYwr+foP3iWvd/LTw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.sdjewishworld.com/2021/09/30/mahmoud-abbas-un-speech-i
 webUrl: "https://www.sdjewishworld.com/2021/09/30/mahmoud-abbas-un-speech-is-all-bark-and-no-bite/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 625
     height: 521
     isCached: true
-
-related:
-  - title: "Abbas’ UN speech explains why he is no partner for peace"
-    excerpt: "One needs look no further than the recent speech by Palestinian Authority Chairman Mahmoud Abbas, in order to understand why he is not a partner for peace"
-    publishedDateTime: 2021-09-29T12:50:00Z
-    webUrl: "https://palwatch.org/page/29185"
-    type: article
-    provider:
-      name: Palestinian Media Watch
-      domain: palwatch.org
-    quality: 39
-    images:
-      - url: "https://palwatch.org/Storage/Images/2021/abbas-un.png"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "LArcpWRJYVZdN5JC1Vu/jf5tZBfyxAIktBGLRPKXcHZqDj9RcwB2vpv+kqgOz4Ie8xdxxW8W3XDRIcPtP8evpCJBBGNcObHZqBEFOxqOI4ah2s4qaDAYP2k9LwzGOEV2FHCxqWrbzYm8VcfinacX7eMCCwWU8kH0z+k/KpHyZKt8Cs7E4ft3uj9jIe6jX1Icz+shg+OHGBZR425ZthdGMrmac4Yd7TH4ZN5/zhlN2TVJs3OqHtnNu9ieM7AZUXDAi7DQQsFwAteauLFkKgI99J6PDmV1ewXX8asOSLxlmsfH7kiOxYJYPqb4PqJVg4w9QgzQPqIWh+U5ObL0zcgEvsa0R3ktoDcO10cag7tBbpU=;8hWz7eY+owA/EmVl2z1KQg=="
 ---

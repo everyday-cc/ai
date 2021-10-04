@@ -3,22 +3,22 @@ category: news
 title: "The Hot Topic at G2E 2021? The Future of AI for Casinos"
 excerpt: "G2E 2021 kicks off October 4th in Las Vegas, and the most talked about education session is, \"The Future of AI for Casinos\". The session has attracted 500+ registrations."
 publishedDateTime: 2021-10-02T04:06:00Z
-originalUrl: "https://www.wabi.tv/prnewswire/2021/10/02/hot-topic-g2e-2021-future-ai-casinos/"
-webUrl: "https://www.wabi.tv/prnewswire/2021/10/02/hot-topic-g2e-2021-future-ai-casinos/"
+originalUrl: "https://www.kalb.com/prnewswire/2021/10/02/hot-topic-g2e-2021-future-ai-casinos/"
+webUrl: "https://www.kalb.com/prnewswire/2021/10/02/hot-topic-g2e-2021-future-ai-casinos/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: WABI
-  domain: wabi.tv
+  name: KALB
+  domain: kalb.com
 
 topics:
   - AI
 
 images:
-  - url: "https://gray-wabi-prod.cdn.arcpublishing.com/resizer/p4XgaTIn_Bv6bKSzfn_mmH95ItU=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/XQK67ANQ7GRSRAFFLTC5VFWU4A.jpg"
+  - url: "https://gray-kalb-prod.cdn.arcpublishing.com/resizer/p4XgaTIn_Bv6bKSzfn_mmH95ItU=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/XQK67ANQ7GRSRAFFLTC5VFWU4A.jpg"
     width: 980
     height: 512
     isCached: true
@@ -53,6 +53,6 @@ related:
         height: 540
         isCached: true
 
-secured: "SG/QBaPRCl6SQB979WsLlT+0q3BBX2sLwsH5iT/kg82+m/o7dVRBaXWQelhKIP23OneZbxEnJwFRvP4FVcaS6Z3TMgaKMLFKC/vpSIekRBRqzyoZIhKl8njfU6gUl42P5luZd4HyZ/Hd4zr6cPNrBi1NF/Mobbcm2GLuKv1wnh4IvJoCO4FLIzN5HBCR66GrYj05AItLl3irR+MiHGrM+uFWNvcF+n+0AmRkVeGIEAmhNDMsxnZ+z/kysWtiv4qYRmVM2Gxj4XnDUhZkQ1M8B6C1R/TbhB2EuCB3AvHoLDKhYC5Po7I0ZpfX8zqiwoZLrCGCfHEwZrKo4Wj0G46GWiTRJYajKIGUTIO+ttC6Tsc=;w5K/EMgVe2LFLo47xPY3Hw=="
+secured: "KG9qBP8vPtStF1GZbd+/IkwelABAZQLiJstXmYuSu0zbhLjz3Pjn3kEntlvGcL2Tmual0T8Du5aVK15dVzsKqbbkh7m7LCHTkFGEKyUvfDfPFrMdKUefpQq0n2xXlqmvHCDX0lUpy5mvcN32M7yY7LuH5gKjORfv+ahDiGCYJEOCg/QLoA7SK6+wA3SdPOgMUp0AcpqowQ54ewDT4ZQB50fvxEIq2f1jO/2Uh1kDEqRmOCDkL7JUAd/YBz9+BeMCxWpzXKZpXB1e3RecwWkgNbCjJwhvVGG3ep9yiYLmMJm0Mw5W0jrZB0AkKKv4eXArTf0OO1mVyDHMBBrR+Ieeq56rKHDgPSeA/Bs9zTlctgI=;p7qULc1da3UMS2MRMH596w=="
 ---
 

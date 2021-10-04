@@ -27,20 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Jordan’s Xina AI raises $ 1 million Seed round"
-    excerpt: "Amman-based AI startup Xina AI has raised $1 million in a Seed round, led by Jordanian angel investors. Founded in"
-    publishedDateTime: 2021-09-29T11:22:00Z
-    webUrl: "https://www.wamda.com/2021/09/jordan-xina-ai-raises-1-million-seed-round"
+  - title: "Radiologist's Cary startup raises $1 million to harness power of artificial intelligence"
+    excerpt: "A Cary-based artificial intelligence startup cofounded by a radiologist has closed its first million-dollar round. CoRead AI Inc. closed on more than $1 million in equity financing on Sept. 10 from three investors."
+    publishedDateTime: 2021-09-29T17:32:00Z
+    webUrl: "https://www.bizjournals.com/triangle/inno/stories/fundings/2021/09/29/coread-ai-mri-ct-scan-startup-raises-capital.html"
     type: article
     provider:
-      name: wamda.com
-      domain: wamda.com
-    quality: 37
-    images:
-      - url: "https://cdn.wamda.com/thumbnails/23ded044a8d7036.jpg"
-        width: 600
-        height: 436
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 23
   - title: "Amazon-backed microphone startup Vesper raises $18 million"
     excerpt: "Vesper, a Boston-based smart microphone which Amazon has repeatedly invested in, has raised another $18 million."
     publishedDateTime: 2021-09-29T16:00:00Z

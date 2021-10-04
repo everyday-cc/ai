@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/ai-could-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/01/ai-could-reduce-racial-disparities-in-healthcare/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.cioapplications.com/newstransfer/upload/sql884506.jpg"
         width: 450
         height: 308
-        isCached: true
-  - title: "How to Transfer Fundamental AI Advances into Practical Solutions for Healthcare"
-    excerpt: "In this special guest feature, Dave DeCaprio, CTO and Co-founder, ClosedLoop.ai, discusses what it really takes to make AI that physicians trust. There are significant challenges that go beyond the algorithms when applying AI to healthcare."
-    publishedDateTime: 2021-09-29T13:00:00Z
-    webUrl: "https://insidebigdata.com/2021/09/29/how-to-transfer-fundamental-ai-advances-into-practical-solutions-for-healthcare/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 52
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2020/03/IBD_PNYWPCover2020-03-16_8-53-21.jpg"
-        width: 252
-        height: 355
         isCached: true
 
 secured: "LT7LEEyhiRjVh6CAnWEF2AzOYbv7K7EVQHsa4HYkV9m0YzrSb2HB9Gh1mlcMjtqlQL7kGBCBH+3H22wYVgtBffqNoE6p8roNGzgOgC2BJkBhNXGnMKj7kUgGeg24V8nPHIBEYyMH+eFFjPf1SKLKOIY33jW+F8VCK9SRe4FBKcPEfEtUqvjt7Ny6oilzOkhjityFcQO6yQKCYHc1mrwtpW4EqGWSXnih+mlY9DJnZKoDiM1PTfJ/9UvmeCxDFL50kNW/Oq4uT6ashBXXq3fetwaIC/+4jVR4hGItNnXSMR0kX5+HXHIPMn9qtnx+0ZG908DtC8yraVfhP1dVeUYrgu8GdrQiJ61hMqH5iWd86nJmxPNh2QrkiD7OfDwKTqz2jG5btZLzIT8Le0jAiEWu6ZSnEDph4ytoYBuplyeeZWZpcVhR+4RkFpP4hOmrkEkAjxeb5c7igIB/fOpE36KtpjqVdYy6WNxAMpxxDx8svlNvefr0KbfWu4LsEgxnkpOZz8Y4wnF2yzt+xRbfF28Qew==;HuY+Cnms28p8hmtyjiT/Hw=="

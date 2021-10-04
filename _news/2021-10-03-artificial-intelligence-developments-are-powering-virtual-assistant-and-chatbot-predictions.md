@@ -52,20 +52,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Syntiant Brings Artificial Intelligence Development to Everyone, Everywhere with Introduction ..."
-    excerpt: "Tiny Machine Learning Development Board Now Available for Building Low-Power Voice, Audio and Sensor Applications using Edge Impulse’s Embedded ML Platform. Smallest Form Factor"
-    publishedDateTime: 2021-09-29T12:22:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-artificial-intelligence-ecf3c7b26c7dcc133f0d6a911c24a51d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "gjPkaojWvN8R5jD53JZr2GmnQdm4VIbdPuGYVFYQIaSFSYygjjd9GGrWKFk17z8p/hoV9QeeSAFFWDfUibD2NA9Gc1n1w/soliLTe1KKdR7ITtJRUZVhJaFcTgmYemiaz70dEwT/GRuc9xReE4p+bWGx7nCiZl9nXysX7v90x+ixRpxE5EqDhPgT5VTKuyTYiGVfsPfWSG2tZwx9cKEeLgEzEfvGeYw+PIZm523BzVQsbWQwrLi+VzxpzBCXlSHkC31WoCpG2H6WW0/aDvL191sF2FVJUtzXYCtNm3tLqGRr2yW9UXZpEXcuXFzwIDSoa+k/v4EAO9qS6K/7Iohj8mmkP+R2mj1bKmJ73n2yTvdmu2suYYDXgVckZVclHAtbp93ETECbOgL1mSv/z4P0IQgOQAiL+aKF2Z+063DRv7DfbsEOb/4/mOMeIA8tPt/mtWjotP8VQEA3bFRXDcG9fmhYAsqbu+9+5ya1jxOr/WQKjmYl0BBjVRjayVTLkKHIGcUJhMUN8bTeaNARE4HI+Q==;pUytZzdacHF6BvJOESECeQ=="
 ---

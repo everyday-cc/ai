@@ -73,20 +73,6 @@ related:
         width: 790
         height: 496
         isCached: true
-  - title: "Dubai Taxi and BluWave-ai Launch Innovative Partnership for AI-Enabled Taxi Fleet Electrification and Optimization"
-    excerpt: "One of the top fleets globally deploying Tesla EV's working with BluWave-ai EV Fleet Orchestrator Platform to drive innovation in the United Arab"
-    publishedDateTime: 2021-09-29T12:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/dubai-taxi-and-bluwave-ai-launch-innovative-partnership-for-ai-enabled-taxi-fleet-electrification-and-optimization-1030830890"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-    images:
-      - url: "https://mma.prnewswire.com/media/1638018/BluWave_ai_Dubai_Taxi_and_BluWave_ai_Launch_Innovative_Partnersh.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "These Indian AI start-ups are raising the bar high every year since the inspection"
     excerpt: "Did you know, according to the latest research Indian AI start-ups have raised about US$836.3 million in 2020. Here are the top 10 Indian AI start-ups that have raised funding in 2021 on AI technologies."
     publishedDateTime: 2021-10-01T12:38:00Z

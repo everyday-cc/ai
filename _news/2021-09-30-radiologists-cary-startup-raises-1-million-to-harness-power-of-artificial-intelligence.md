@@ -18,46 +18,30 @@ topics:
   - AI
 
 related:
-  - title: "A third of businesses plan to set to spend $1 million on AI by 2023"
-    excerpt: "A third of organisations with plans to adopt artificial intelligence (AI) have said they will invest $1 million or more into the technology over the next two years. That's according to Gartner's annual Emerging Technology Product Leaders survey,"
-    publishedDateTime: 2021-09-29T11:52:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361058/organisations-set-to-splash-1m-on-ai-by-2023"
-    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361058/organisations-set-to-splash-1m-on-ai-by-2023?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361058/organisations-set-to-splash-1m-on-ai-by-2023?amp"
+  - title: "BUET grad’s AI startup raises $4.1 million"
+    excerpt: "AI startup Gray Matter Robotics, headed by BUET graduate Ariyan Kabir, has raised $4.1 million in seed round funding. Stage Venture Partners and Calibrate Ventures led the round, along with 3M Ventures,"
+    publishedDateTime: 2021-09-30T19:11:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/buet-grads-ai-startup-raises-41-million-2187806"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/buet-grads-ai-startup-raises-41-million-2187806?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/buet-grads-ai-startup-raises-41-million-2187806?amp"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 87
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 59
     images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1632915680/itpro/Digital_brain_AI_shutterstock.jpg"
-        width: 1260
-        height: 710
+      - url: "https://img.thedailystar.net/sites/default/files/styles/social_share/public/images/2021/09/30/maxresdefault_9.jpg?itok=imnCCvTE"
+        width: 750
+        height: 393
         isCached: true
-  - title: "33% of technology providers plan to invest $1 million or more in AI within next two years: Report"
-    excerpt: "A significant number of technology and service provider organisations with artificial intelligence technology plans are planning to increase investment into the technology, according to a recent survey from Gartner Inc."
-    publishedDateTime: 2021-10-03T08:20:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/33-of-technology-providers-plan-to-invest-1-million-or-more-in-ai-within-next-two-years-report/article36803231.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/33-of-technology-providers-plan-to-invest-1-million-or-more-in-ai-within-next-two-years-report/article36803231.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/33-of-technology-providers-plan-to-invest-1-million-or-more-in-ai-within-next-two-years-report/article36803231.ece/amp/"
+  - title: "Amazon-backed microphone startup Vesper raises $18 million"
+    excerpt: "Vesper, a Boston-based smart microphone which Amazon has repeatedly invested in, has raised another $18 million."
+    publishedDateTime: 2021-09-29T16:00:00Z
+    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2021/09/29/vesper-microphones-funding.html"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 44
-    images:
-      - url: "https://www.thehindubusinessline.com/opinion/o50gd8/article36594522.ece/ALTERNATES/LANDSCAPE_615/bl22thinkAI"
-        width: 615
-        height: 384
-        isCached: true
-  - title: "Gartner: Tech providers to invest over $1 million in AI"
-    excerpt: "One-third of technology and service provider organisations with artificial intelligence (AI) technology plans said they would invest $1 million or more. Gartner: Tech providers to invest over $1 million in AI."
-    publishedDateTime: 2021-09-30T05:40:00Z
-    webUrl: "https://www.itp.net/emergent-tech/gartner-tech-providers-to-invest-over-1-million-in-ai"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 17
 
 secured: "vjgiLMeduPUkpZN0HnAtNt02/ZDazMq3AJP2P8CuG//tNn5D7037kv5ZRSVXLNx7Wx7QYohpT4AoT4Bv8+zH+FoouD62KG362xQCeL8AzIrW26YKPBvMdOHmf/kkVC+nIOXwCh2l+I7yhXKGjFDLdbDkAFYlN+Y1LUk17onPBI+xkP9LBh2YE1cdTz2msf/zIduugWFCu5c7NDavaA63tp+PRu91ZXxa7g8gZz7KWAhWw+HUQ7NMChnzpgyWREOvY8kQsY0ma6o13Cfd2tZVh7JuLXTiTpoR53rqt3/XktWnHFaziNT30Zo0IH5n3v41oLrqpowdfUoenNm2wIm7d2xQxTqDOyypSHHCNooVv1XgBfzKtUN9p+SPfjC5MlgEne7utbRxqWzXyUBPUZJ/tPc1hiXJlZljTyibBAfinVt2D/rk4Mv0AxFuqlakeSgOccyShpU7b00HdE1de8hOm0fCtiY/FvyE3UPoy/DIetl1JD+FAyzZBgg5M+oGqCrWmbp5xMqA6QqTJn+LjdDjAA==;AxHhFJdCCNtFyozqY8jjgA=="

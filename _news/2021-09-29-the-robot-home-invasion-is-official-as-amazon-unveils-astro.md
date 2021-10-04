@@ -52,20 +52,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Amazon Introduces the Home Robot Astro"
-    excerpt: "The American online sales giant Amazon has introduced an autonomous robot that is designed for home use. It's called the Astro, it's about 50 cm high, and it has a camera that makes it possible to make video calls."
-    publishedDateTime: 2021-09-29T11:48:00Z
-    webUrl: "https://www.novinite.com/articles/211476/Amazon+Introduces+the+Home+Robot+Astro"
-    type: article
-    provider:
-      name: Novinite
-      domain: novinite.com
-    quality: 39
-    images:
-      - url: "https://www.novinite.com/media/images/2021-09/photo_verybig_211476.jpg"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "F2C1/4N4/Vl5jReNyp27ji34UKuvsv3fCaURdn0oRlATxpsAVc4iDkOz80k5WraqN3dhY80kwdSNsrghwtIsOMDszpYPDKpF4AscCNs8uR/Xvr+SpU9G3y6UfDIRPpDqFKFfv+Aov9zPDULKEZN1y9NuMz9WtFSI2dyWFumNPoivF9J75l9eEGJCyuTbvtQXPQ2H7V9cRJK9SmEkp0cVkgmro5mQ9yjHR9WASdr31A6IOSDbXvbCgUgVI2zG0Xz5csY1XwRZOI4u/glPE6M9mWDblJ6bP2fhlm/LeaD09IVTf3VMID/sWxb3qps4PN9tYGLwwbKlO3Fx6aHe41nm97oqs32j1VHPbnKP13HHFI7GAb+Xww5NwoiI2FiGCb/v0AVQRjIqTh17A3MySY/5KkVt348uu7NSOXanbMNK+TnydqRkTaHOg9iFNUFXs9DxCb2/SXZpOiaCpUmjycln9fT4aCr7mBVpeG/Gn0/aDA9+uph1aqTuiofy39qgHBFnalnnGM3AFwMcgN5ucLdroQ==;3sldNwyO5dV/T9umrftqsw=="
 ---

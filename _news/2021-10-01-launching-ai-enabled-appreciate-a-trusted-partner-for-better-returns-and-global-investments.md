@@ -98,6 +98,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "UOB invests SG$500m, banking in on AI-driven digital engagement"
+    excerpt: "Multinational investment bank and financial services company, United Overseas Bank (UOB) is investing up to SG $500 million in digital innovation initiatives as it seeks to double its retail customers."
+    publishedDateTime: 2021-10-04T04:59:00Z
+    webUrl: "https://www.marketing-interactive.com/uob-invests-sg500m-banking-in-on-aidriven-digital-engagement"
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 17
 
 secured: "OI7uGwfy82IemDMn81hOcvdzPCNuxUghei2ds5FHv2PpUxwVquXVVnogn6d6YcVwlL7UogP/25ZleByNxis4oE4VZhOOXgviz4YbVUeXuoiOOOF8lFW8FIwhTGuzjKsJ9ENNLkPrwTO0tf46h615cioMSBdkO6vvUM06+JpHXLquHXXVPSFBzbkWkV2jUCsGrjuQna2kCExHuXfbaaXGT/I11qGeSKK+eMP7/mvYKFz1d5Y4L9041LaAzBxViEn+H3mBjNyHPxwq9wTqwRAXHOwpCOzqIzoK5MaJNiqQwrA19MffK57AaqfvydnYCcnMnkujXDgzyFQNeDh0fq5QoWsmbZBEab3GB+GjkToeQN0=;dlGQjM+8ZMEQwcKFly3AFQ=="
 ---
