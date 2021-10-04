@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Skill Development Course on Foundations of Modern Machine Learning launched at IHub-Data, IIIT Hyderabad"
-excerpt: "A 50-week-long online programme on Foundations of Modern Machine Learning designed for the benefit of undergraduate engineering students in India, got underway at IIIT Hyderabad today. Prof"
-publishedDateTime: 2021-10-04T10:00:00Z
-originalUrl: "https://www.business-standard.com/content/press-releases-ani/skill-development-course-on-foundations-of-modern-machine-learning-launched-at-ihub-data-iiit-hyderabad-121100400763_1.html"
-webUrl: "https://www.business-standard.com/content/press-releases-ani/skill-development-course-on-foundations-of-modern-machine-learning-launched-at-ihub-data-iiit-hyderabad-121100400763_1.html"
+title: "Skill Development Course On Foundations Of Modern Machine Learning Launched At IHub-Data, IIIT Hyderabad"
+excerpt: "A 50-week-long online programme on Foundations of Modern Machine Learning designed for the benefit of undergraduate engineering students in India, got underway at IIIT Hyderabad today. Prof P J Narayanan,"
+publishedDateTime: 2021-10-04T11:26:00Z
+originalUrl: "https://www.republicworld.com/india-news/education/skill-development-course-on-foundations-of-modern-machine-learning-launched-at-ihub-data-iiit-hyderabad.html"
+webUrl: "https://www.republicworld.com/india-news/education/skill-development-course-on-foundations-of-modern-machine-learning-launched-at-ihub-data-iiit-hyderabad.html"
+ampWebUrl: "https://www.republicworld.com/amp/india-news/education/skill-development-course-on-foundations-of-modern-machine-learning-launched-at-ihub-data-iiit-hyderabad.html"
+cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/education/skill-development-course-on-foundations-of-modern-machine-learning-launched-at-ihub-data-iiit-hyderabad.html"
 type: article
-quality: 22
-heat: 22
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: RepublicWorld
+  domain: republicworld.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/04/full/20211004150150.jpg"
-    width: 600
-    height: 450
+  - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/m5ybyh3tm6gfplbj_1618399351.jpeg"
+    width: 768
+    height: 439
     isCached: true
 
-secured: "f1ZsO0YTFVa+bk9wIYF/U2Ph9qJ733sS3KWHmTAUxC3rd2lNuHdlOxDW0pfJpAlOCMfuQICZ5/o8SzMvyWZ1HdHcZr+y4j0/wPnntrWsauZwjhzYu4JYzxwpXMuI1LGXSFCvG10OBNUWg7v0aPBZOtLUmlH5Mt+B31K6/6BpJ7NPfCipqCIOxHLJg1UnNTigSlQ6OZ11hOADwYUax135RzuDqs0TmABo3JN4gMhuuMPaUcx71KImfRteQak3S1lC3m48jGh89Zdwqn6hlBs7LQzNczDr7ihtFIu4suZWUw2pe8qo9fu+rSz0VJ+rXQPC2jdMCNURcJPDf6Ok6rDzd+MMSwpopDu2a7Qf0QrLlzUdg5yAVd3Ao93d6CjuqmmT5cUTrCLeKBekEs0Dlry2/DBkKIJ7MxRRM5fI66JY5plJja7C2/oZYT9uIlUgXhCYSpUWWKstY/VaWJPenAeRBGYTVgreHt5oQHHoHoVaFIZjOVFSMCMct7UNF762JCjFwqeIcHuuS/+hE+Uzhrnz4Q==;xtFTQX99hrpl2M1Xc8comg=="
+secured: "xz2FygQNqaNwc1zGtXVCbPZ2BcdISDFW1WzeOq2Xpq2+CbxJkoXaEdLaUKEc/dd33Z3b2KePToWwzZgC6AUrLUJSP6yu2+wW1sdDU+FkWQ4wICPVQ8QFE4MBGvhWzrvw2vZKuO7FqXZrKYu6Hk48zUZ1PcBDrMlFDzd1g32Hkfa/sEvT9+3AG6nJOj1anGuDR2tcI0lQg2JQ+fT804HQbjm3Y0EHSxGYRhImSEPBTfDM0QoVl/KnOMMvvGZLpygEAPLo15tLQW6BZ/sb6fLgwD1vr1RFmGQ/bJAGX+ZlV28GsncUAwcsbZAR63EdQqf9I6IWPgLDc6/17sLB1SLOzrg9lJx8VAlG2UgVrZ0VU8Q=;BIR5UeXZWxEx+nvZgU1vhA=="
 ---
 

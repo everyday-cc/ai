@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/news/siri-10-year-anniversary"
 webUrl: "https://www.techradar.com/news/siri-10-year-anniversary"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Happy birthday to Siri, the first and most frustrating voice assistant"
+    excerpt: "It's ten years since Apple introduced Siri as a beta service, which means a decade of talking to our iPhone, then Apple Watch, and HomePod."
+    publishedDateTime: 2021-10-04T14:41:00Z
+    webUrl: "https://appleinsider.com/articles/21/10/04/happy-birthday-to-siri-the-first-and-most-frustrating-voice-assistant"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 24
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/44837-87206-000-lead-Siri-xl.jpg"
+        width: 1280
+        height: 714
+        isCached: true
 
 secured: "rdC41XUZqvT6xKkvojo+1UFPPXGtIZlqSLVWBKXVRxor+mc8OdcNfoCLs+mwo9ntMghmiMKgJ87AjPN+RRHsiI8s3hoZ1JbWQptm2biS7hAt1QqdSZVInAyr2cDcCetMMAYSrTYOvkKW9+bmxPGN7Am80WeOo+8XAhWZhjICXeZLPSFDX4yCHn1xUInBgSJFCzSxs8PAaOOXWMAxti7qS1oxAyfIDJyQ0t7zuWOIJl6oNO/yljApA8NJ+MfMOlcDqwG5zSQBBvaWkIeOnKLUfyuSXn+ifHgz/dimwlbYSpn93inlNRTlWFbe9JXLGyxyhuZ7cbccZUH7FuIAbbC6yiiNmCGu+vhn3qJ5mXwvxrt1hQGlr5L8AVoiRprSambvMxqBcrn3WCAyqJm1Vd/1wk85RJE0QUGeXnC4n8zBdC/kNLFlTKcurvu78/nKkAnGljUzEFoYC7XEQvxCdnc5SbOdwsvHZFKvluZem+gMv5SK0thlbEw6V6AVTrUzx+CGeudg3z1mkaOT2VB6R+YTYg==;b66wX0TY7z8exsBZlU4mjA=="
 ---

@@ -83,6 +83,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How Deep Learning Works in the Covid-19 Era: Applications and Limitations of Deep Learning"
+    excerpt: "Deep learning is changing the world during the Covid-19 pandemic by detecting fraud, treating illnesses, developing self-driving cars and helping organizations deal with complicated queries."
+    publishedDateTime: 2021-10-04T14:32:00Z
+    webUrl: "https://www.bbntimes.com/technology/how-deep-learning-works-in-the-covid-19-era-applications-and-limitations-of-deep-learning"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 29
+    images:
+      - url: "https://www.bbntimes.com/images/articles/society/How_Deep_Learning_Works_in_the_Covid-19_Era.jpeg"
+        width: 1620
+        height: 1080
+        isCached: true
   - title: "Social commerce innovation: Unilever unveils beauty startup collaboration platform"
     excerpt: "Personal care major Unilever has launched a collaboration initiative to partner with forward-thinking beauty startups, scaleups and entrepreneurs specialised in social commerce to drive next-generation in-house innovation across its portfolio of brands."
     publishedDateTime: 2021-09-30T11:22:00Z

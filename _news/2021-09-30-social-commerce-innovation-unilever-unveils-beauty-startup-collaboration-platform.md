@@ -96,6 +96,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How Deep Learning Works in the Covid-19 Era: Applications and Limitations of Deep Learning"
+    excerpt: "Deep learning is changing the world during the Covid-19 pandemic by detecting fraud, treating illnesses, developing self-driving cars and helping organizations deal with complicated queries."
+    publishedDateTime: 2021-10-04T14:32:00Z
+    webUrl: "https://www.bbntimes.com/technology/how-deep-learning-works-in-the-covid-19-era-applications-and-limitations-of-deep-learning"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 29
+    images:
+      - url: "https://www.bbntimes.com/images/articles/society/How_Deep_Learning_Works_in_the_Covid-19_Era.jpeg"
+        width: 1620
+        height: 1080
+        isCached: true
   - title: "Worldwide Mission Critical Communications Industry Report to 2026 - 5 Cases Studies Included"
     excerpt: "The \"Mission Critical Communications Market by Enterprise, Industrial and Government Solutions 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. The market for mission critical communications is rapidly evolving as developing technologies supply solutions necessary to meet emerging demand for improved voice,"
     publishedDateTime: 2021-09-30T19:42:00Z

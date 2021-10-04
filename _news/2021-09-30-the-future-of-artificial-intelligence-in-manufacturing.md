@@ -43,20 +43,6 @@ related:
         width: 447
         height: 327
         isCached: true
-  - title: "Deborah D Kanubala: Is Ghana ready for the rapid evolution of AI?"
-    excerpt: "On one of my social media tours exploring content on Facebook one afternoon, I came across a post by Prof. Fred McBagonluri, President of the Academic City University, confirming the accreditation and roll out of BSc."
-    publishedDateTime: 2021-09-29T22:10:00Z
-    webUrl: "https://www.myjoyonline.com/deborah-d-kanubala-is-ghana-ready-for-the-rapid-evolution-of-ai/"
-    type: article
-    provider:
-      name: MyJoyOnline
-      domain: myjoyonline.com
-    quality: 39
-    images:
-      - url: "https://www.myjoyonline.com/wp-content/uploads/2021/09/Deborah-D-Kanubala-2.jpg"
-        width: 276
-        height: 276
-        isCached: true
 
 secured: "cB8HlzWQiFSfb4HAYP/Xg9vfEDooovKcBYvh/UtpnV/ZDYQfPZvT8WZ64FCJNBPFbdEodhJ9hCaIi+zTufKIEmIfdaNACaCPwQVh09aUB1NLlpwCynYFDN5SurLpBoF1yVnuUg3Kjf2ONFJ2iOMoTrm8jyRwM0ZXVpfXpnuFH/X+Ee0n6FbokXK2VHqBk4TXaJbbtmwhXudGSINKHg3CBG6PFCBkZ0MiQWv2tA5Z0RKhYKblMPOZLPvlcroEclRKxd8AYd9vDY+xo57vDKwQkwB5AdZ2spOgnj1MpmZYbOHemQSju+6ZmPhOYhFFZPzUpqgapY8re4HLHWCs7HI9bJJfvIoOza7Mb/3Ep0YXcWX+QuBrILgvMt2RbusWfpqXRuTcX1ioyBoQydqjUBkAnT3a84b5K7ixtagF73EsvMhVlrRlbve50gHHLQmPC2bNnJYNG3r+P0x4IoumEFokrSjpeS6Pqb3+kpt6RqrpbPw8coWrmUhL0a0Ik/smyqF4UPm9mTr0iEKU6VNqpDPg8w==;hDidstCOt7k5OvB2Wjnuqw=="
 ---

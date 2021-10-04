@@ -43,20 +43,6 @@ related:
         width: 840
         height: 450
         isCached: true
-  - title: "The Human Costs of AI"
-    excerpt: "In 2015 a cohort of well-known scientists and entrepreneurs including Stephen Hawking, Elon Musk, and Steve Wozniak issued a public letter urging"
-    publishedDateTime: 2021-09-30T02:23:00Z
-    webUrl: "https://www.nybooks.com/articles/2021/10/21/human-costs-artificial-intelligence/"
-    type: article
-    provider:
-      name: The New York Review of Books
-      domain: nybooks.com
-    quality: 41
-    images:
-      - url: "https://www.nybooks.com/wp-content/uploads/2021/09/halpern_1-102121crop.jpg"
-        width: 1790
-        height: 1194
-        isCached: true
   - title: "The Hot Topic at G2E 2021? The Future of AI for Casinos"
     excerpt: "G2E 2021 kicks off October 4th in Las Vegas, and the most talked about education session is, \"The Future of AI for Casinos\". The session has attracted 500+ registrations."
     publishedDateTime: 2021-10-02T04:06:00Z

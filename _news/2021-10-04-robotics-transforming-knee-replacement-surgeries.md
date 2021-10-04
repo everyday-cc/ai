@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsx.com/amp/health/robotics-transforming-knee-replacem
 cdnAmpWebUrl: "https://www-newsx-com.cdn.ampproject.org/c/s/www.newsx.com/amp/health/robotics-transforming-knee-replacement-surgeries.html"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 675
     isCached: true
 
-secured: "ssOMfjO9mRann8nGnIs6gEAodqPr1Gpja1ESCzY1yG+h5KGGrqJb8NAB/bHYJzMbD2x+pgOVjXgdfPcVoFZWE4qp5SsoRkBEERLD6Vyu9Xxniy5yv92BB5azb4/rIKUySgudecvQjLtET6Dm75/mpTNyh4L6y7OAp2nmoa3eGXeGvdKp8SYw8DrsJvY2SODzM8GxVWU0x2N1TgVILn3pGpTEGdxPPEUv0hWOxG/NY3cx9auRhXUBoLDxsVqYki1S5uUKa/NTiJvc5eG1cOJzY+RhDZR5ieL19xzjg/pirmX4+9JQJYm9DQ8VW73Lur16WczXjVQs0LaEJ1BIHIMKcsYpfEkN4KfKhMH1GuDcBW8=;lQaXG3UFSUqWVzHDqSiF6Q=="
+secured: "Bn+6JyfzWQ0AER//G+CMxNykvNAdwTbQi96AWyuNouAKVWfm4AnksSwB/mVXhPtmYc+fthviJ4hNkNRG2lF/FcO3G3C176rzjlj3eKUD9NOTBNYjuZOIdydvT6Xgbta0D7MnAPn5xLRYw3rN7dv6FwWC2CFKq/0XBFM5ENPKNxd/R1hzyPXdBiPO2ic8WV04eNWe/t8MCO8H8tfgcgETPlsdOR1k8Mt53NhVQ5i8I9KqOtagBw21Gv8I9Bn8B7plWRjjuQy7iiuWBhsCcFCBokaWW5nuRtkajYUVqvL/l6r0mO3To663GvEmUfLSkwswp3Nxgc/ewmXI+ugKy1+MsSHTpScDzJxOnmSq4YS36WjoH6yJRHVZnyiTKMQOqJ96xfPqYuWfgFF6fCuoUVxKxs46jGMzmW4Sx46IcA1ymJb9iMH0D6DQ1FHr8FmNwFv7E04jGaWY2aYaFmCXOB/+S6j+ygrTFTXfjem7aR8o13nix+M4z7X9pmXbxsmPrvBU9oACTZhjO6lOrjQf+0sMYg==;xvEanxT4K3J5N5Hs6ArUjA=="
 ---
 

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Esports Entertainment Group says subsidiary partners with Alpha Esports Tech to develop computer vision for automated game scoring"
+    excerpt: "The computer vision tech will simplify match scoring for popular games such as Call of Duty and Fortnite and allow Alpha Esports Tech's GamerzArena"
+    publishedDateTime: 2021-10-04T12:40:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/962122/esports-entertainment-group-says-subsidiary-partners-with-alpha-esports-tech-to-develop-computer-vision-for-automated-game-scoring-962122.html"
+    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/962122"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/962122"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 44
+    images:
+      - url: "https://www.proactiveinvestors.com//thumbs/upload/News/Image/2021_10/1200z740_1633354087_Screen-Shot-2020-06-04-at-6.19.23-AM.jpg"
+        width: 1200
+        height: 740
+        isCached: true
   - title: "Alpha Esports Tech Inc. Announces Partnership with Esports Entertainment Group to Design Computer Vision for Automated Scoring"
     excerpt: "Alpha Esports Tech Inc. is proud to announce that it has signed a partnership with Esports Entertainment Group ’s newly rebranded subsidiary EEG Labs . EEG Labs was previously known as Genji. The Company and EEG Labs will develop a new computer vision tech system that allows the Company’s online platform,"
     publishedDateTime: 2021-10-04T12:37:00Z
@@ -40,6 +56,6 @@ related:
         height: 334
         isCached: true
 
-secured: "OLIZ1GV6mloDyTzo4w6PksrO333OoC9ZcoLPNqIUL4Qj726AO7/yFIBMccb0aK/T3PKNF6QRJ4yQFviL2piY6msYxRmVvM4CzzGAOct83bvhE1fFO8i5x0NjIyZ/uskNq/0xnCLGv09s85xHoXYe7asF1X2/TRuOSv7Ko3jf0iBHiZXGkXX2fns5/L7hRKY6WcGJSZR6JpwHulBwatTgUTEY+q1L6whpeI6giJwM0q89fPDJQ3h13+ouOUA2qptATNPl/qXgvkZ1nMXVUan/nj9HgNtZtwSYHl/C+jwSZtRyXFl2aewu7A75MQ1xE5cuR2nDugk9HyjQxwHeoseHJ8Z3gjhDJUtczp6sB5sRUz4=;xPCCzYA6K8Sg8lEwMShBng=="
+secured: "W9NUjdAYU7+tzvBguMZm6K9m+Yw1INLtU2rIA6L/K3i6As9SBPo4K/CM8sd2LsszuGpF7322OSzMSUlDDWx0LovV29MExuUlLbhNPtEESkvAaRohT9fe9hC1s8P3fUTN/Q5KXcHIMNstlHASH7Uz9J1mcC2QBtgeNiW9XmUcFVgH9yg7ubyH0l7q8+8oKq4Wtiwt6FnlgBvRiHA508fajn4PpGf/QX6RUzd7XxN5z4cLSn2KyMCSoAtbu+2438Rz8Lfh0fG463ckj/ZuAbHDRvWkkh4bSLp79zaDXRqz8TioTJvGpNWmhJdsOV2/9APOnslpuQod5WGrtkSpnGdT8bMQobHfdXUgOizqu6gVQEUUjNBJat0krvtwmFechhQDLw74lsQAkM6/43ufMG1fgNYyL1BUMuPXmoQ3SoVlVr7BbFnyIvkWnytG/cP0bML9zWj4X3Naxp4a+Z6LHMBf5dU/QHBwpyqHTB3u3fheABxC1xyQaM/GVtgpO6r65sMQmBmeZh7Nv3cv4cG2wjBtnw==;F7jQJhwCN8T3BGdr2MzXtg=="
 ---
 

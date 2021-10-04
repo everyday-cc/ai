@@ -24,33 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Virtu Financial enables its customers to apply advanced analytics and machine learning on trade and market data by provisioning Amazon SageMaker"
-    excerpt: "This is a guest post by Erin Stanton, who currently runs the Global Client Support organization for Virtu Analytics.&nbsp; Virtu Financial is a leading provider of financial services and products that uses cutting-edge technology to deliver liquidity to the global markets and innovative, transparent"
-    publishedDateTime: 2021-09-29T21:54:49Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/virtu-financial-enables-its-customers-to-apply-advanced-analytics-and-machine-learning-on-trade-and-market-data-by-provisioning-amazon-sagemaker/"
+  - title: "Analytics Chip Startup Speedata Emerges from Stealth"
+    excerpt: "There is no shortage of chip startups hoping to claim a piece of the emerging AI pie. But instead of accelerating machine learning workloads, Speedata is"
+    publishedDateTime: 2021-09-30T19:26:00Z
+    webUrl: "https://www.datanami.com/2021/09/30/analytics-chip-startup-speedata-emerges-from-stealth/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 69
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/29/ML-5556-image001-revised.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "BriefCam Video Analytics Now Enabled on Axis Deep Learning Cameras"
-    excerpt: "Edge video processing on Axis deep learning cameras is a new hybrid development option for the BriefCam platform."
-    publishedDateTime: 2021-10-02T08:00:00Z
-    webUrl: "https://www.campussafetymagazine.com/press-release/briefcam-video-analytics-axis-deep-learning-cameras/"
-    type: article
-    provider:
-      name: Campus Safety Magazine
-      domain: campussafetymagazine.com
+      name: datanami.com
+      domain: datanami.com
     quality: 39
     images:
-      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2021/09/osu-1.jpg"
-        width: 1000
-        height: 500
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/speedata_APU.png"
+        width: 500
+        height: 326
+        isCached: true
+  - title: "Speedata outta stealth with $70m in funding and speedy analytics processing chip"
+    excerpt: "Israeli startup Speedata revealed its existence today by showing off its big data analytics processing chip development and a $55 million funding round from keen VCs showing they think it’s a good bet."
+    publishedDateTime: 2021-09-30T12:24:00Z
+    webUrl: "https://blocksandfiles.com/2021/09/30/speedata-outta-stealth-with-70m-in-funding-and-speedy-analytics-processing-chip/"
+    type: article
+    provider:
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 34
+    images:
+      - url: "https://blocksandfiles.com/wp-content/uploads/2021/09/Speedata-APU-image.jpg"
+        width: 950
+        height: 621
         isCached: true
 
 secured: "JsclE1Rt0DBLmSP7b35bJVmDK/XICIXtbc4KGYLMpZISxEfv5/7IL/SME6HdjiCs1Zy2u99QSYxGllRoQsq1q44ChzIxktqQApliApNoPf/YWAQNXXBGe33t5JetlXFswAX6mhcwpR26zQZ+1x4oH4CASeBv2KfQILe4VrkPQ0dgZQ0nOzaqfWA5fdU0yaLy8J5Lz9rEoi5IV57HsfUQOaaZDEwQI4e97cRzdOm8idenDdur9YxMBuE3BFJONYOF2e+NNz4z/Rxwhn8LBJI0Kjutf57O0vjrd6fZH7NiHNJXDMKa7tKsFKo6sKu4NVHg5DVYniiiQQRQ6nvB602gACuwaLVmNgfEgDZeBolF37+1YUFXuvFUXjPjHzIw8iBgkXKP/Dambi5/hlixCIMkkw3F9jUVW7ky9HzUbnoRLPblxrrfO8zZ+ySWgPS9arBcAS+ABTRpIB7ZPTfeGR+k/o9wklyYAClsJGRRGicc5Zab73U2KJp5zx9o8VqeC+3b2T8REfydNyTB1er8Oa84MA==;KdiHLHgE6Qpms47ifbLSBA=="

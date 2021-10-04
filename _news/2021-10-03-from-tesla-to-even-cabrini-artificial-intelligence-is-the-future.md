@@ -7,7 +7,7 @@ originalUrl: "https://www.theloquitur.com/from-tesla-to-even-cabrini-artificial-
 webUrl: "https://www.theloquitur.com/from-tesla-to-even-cabrini-artificial-intelligence-is-the-future/"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -28,31 +28,17 @@ images:
 related:
   - title: "For Tesla, Facebook and Others, AI’s Flaws Are Getting Harder to Ignore"
     excerpt: "Investors are pouring money into artificial intelligence, despite clear setbacks in self-driving cars, social media and even healthcare."
-    publishedDateTime: 2021-10-04T07:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2021-10-04/artificial-intelligence-ain-t-that-smart-look-at-tesla-facebook-healthcare"
+    publishedDateTime: 2021-10-04T12:51:00Z
+    webUrl: "https://www.washingtonpost.com/business/for-tesla-facebook-and-others-ais-flaws-are-getting-harder-to-ignore/2021/10/04/30ffd9fe-24e9-11ec-8739-5cb6aba30a30_story.html"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 84
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 54
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_t5K2dNQfTk/v1/1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Gen Z Responds, Demands More From Facebook and Big Socials"
-    excerpt: "Digital natives, tired of being the guinea pig for big social media companies, are taking their message to the global stage at the Youth 4 Youth iSummit , October 14-17th, 2021. Hosted by LookUp.live ,"
-    publishedDateTime: 2021-10-01T04:41:00Z
-    webUrl: "https://menafn.com/1102897419/Gen-Z-Responds-Demands-More-From-Facebook-and-Big-Socials"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2021-09/30/ND_1d11eimage_story.png"
-        width: 1070
-        height: 553
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
 
 secured: "QuzMujcP21GVcZNarKpqzwPwR+Tsxa0COi2s/YcY2XxMz5Ln3wWb8MmQTAzdC271nxN0MbQaVUfhKpcaA5wcEIXRAxs4P9RlgTg6D91cOtsR/DQbR14q0T2yPGEFdQxmCjOvuEb3nv6rZDGXd1Hr6ntUNuPRizzU2mkANwEUMfmq3Ah5z6HpSw2j397ZKvebbIFK8RzXvnYPcjIlFxc8HHG76JUq3kQyYYscYGDJhEGbMLhf64agQbaag7o1mTgneT1Bv21xxsAyQhM5JqfZLMpxFEu7VMFmP2cjp5r3WuonY/kJGdlMEtoCGFURZzjHqFrU7OENARvJ2BTlDpNZ/G1YI/cYvj19wUkq/dIncic=;tAQDRgruXqNK96TYhGV0/Q=="

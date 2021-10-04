@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dallas-Area Startup ASD.ai Gets $1M Angel Investment for its Rootines App, a “Digital Diary” for the Neurodiverse"
-    excerpt: "Rootines helps the neurodiverse community by tracking their daily moods and routines. Developed initially for those on the autism spectrum, the app will soon support patients with other conditions like ADHD and bi-polar disorder."
-    publishedDateTime: 2021-09-29T21:11:00Z
-    webUrl: "https://dallasinnovates.com/dallas-area-startup-asd-ai-gets-1m-angel-investment-for-its-rootines-app-a-digital-diary-for-the-neurodiverse/"
-    type: article
-    provider:
-      name: dallasinnovates.com
-      domain: dallasinnovates.com
-    quality: 16
-    images:
-      - url: "https://s24806.pcdn.co/wp-content/uploads/2021/09/Rootines-app-mood-tracking.png"
-        width: 970
-        height: 632
-        isCached: true
   - title: "Local startup lands angel funding to help care for the neurodiverse"
     excerpt: "After hitting the iOS app store in June with its digital tool to care for those on the autism spectrum, a local startup is looking to expand with a fresh round of funding. Red Oak-based ASD.ai, the developer of mobile app Rootines,"
     publishedDateTime: 2021-09-30T14:21:00Z

@@ -2,19 +2,19 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-10-04-for-tesla-facebook-and-others-ais-flaws-are-getting-harder-to-ignore.md",
-      "title": "For Tesla, Facebook and Others, AI’s Flaws Are Getting Harder to Ignore",
-      "excerpt": "Investors are pouring money into artificial intelligence, despite clear setbacks in self-driving cars, social media and even healthcare.",
+      "path": "_news/2021-10-04-those-unassuming-exurbs-that-are-just-beyond-the-suburbs-are-aiming-to-grow-due-to-ai-self-driving-cars.md",
+      "title": "Those Unassuming Exurbs That Are Just Beyond The Suburbs Are Aiming To Grow Due To AI Self-Driving Cars",
+      "excerpt": "There are recent headlines that people are moving out to the exurbs, a moniker seldom used but that is increasingly becoming known. The odds are that AI self-driving cars will aid in driving the shift toward living in the exurbs.",
       "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-10-04/artificial-intelligence-ain-t-that-smart-look-at-tesla-facebook-healthcare",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-10-04/artificial-intelligence-ain-t-that-smart-look-at-tesla-facebook-healthcare",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/04/those-unassuming-exurbs-that-are-just-beyond-the-suburbs-are-aiming-to-grow-due-to-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/04/those-unassuming-exurbs-that-are-just-beyond-the-suburbs-are-aiming-to-grow-due-to-ai-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 93,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_t5K2dNQfTk/v1/1200x675.jpg",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ee31af9d9c100bf059d7a9%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3939%26cropY1%3D196%26cropY2%3D2411",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T00:00:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/04/those-unassuming-exurbs-that-are-just-beyond-the-suburbs-are-aiming-to-grow-due-to-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/04/those-unassuming-exurbs-that-are-just-beyond-the-suburbs-are-aiming-to-grow-due-to-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-10-04T08:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,8 +49,51 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-human-vs-artificial-intelligence-in-autonomous-systems.md",
+      "title": "Human vs. Artificial Intelligence in Autonomous Systems",
+      "excerpt": "A common goal, as we see in many articles on AI (artificial intelligence) and ML (machine learning), is to make AI/ML systems more like humans. Some claim that humans are much better at driving road vehicles than self-driving software,",
+      "sourceUrl": null,
+      "webUrl": "https://securityboulevard.com/2021/10/human-vs-artificial-intelligence-in-autonomous-systems/",
+      "originalUrl": "https://securityboulevard.com/2021/10/human-vs-artificial-intelligence-in-autonomous-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securityboulevard.com/wp-content/uploads/2018/01/TwitterLogo-002.jpg",
+          "width": 1524,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://securityboulevard.com/2021/10/human-vs-artificial-intelligence-in-autonomous-systems/amp/",
+      "cdnAmpWebUrl": "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2021/10/human-vs-artificial-intelligence-in-autonomous-systems/amp/",
+      "publishedDateTime": "2021-10-04T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "securityboulevard.com",
+        "domain": "securityboulevard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -591,20 +634,20 @@
     },
     {
       "path": "_news/2021-09-27-china-vows-further-curbs-on-disorderly-expansion-by-tech-firms.md",
-      "title": "China vows further curbs on 'disorderly expansion' by tech firms",
-      "excerpt": "Mr Sheng also listed self-driving vehicles and platform economies as ... or smart delivery applications could impact Meituan, for instance, while Baidu has worked on autonomous driving and Alibaba Health Information Technology and JD Health International ...",
+      "title": "China Vows Further Curbs on ‘Disorderly Expansion’ by Tech Firms",
+      "excerpt": "Sheng also listed self-driving vehicles and platform economies as areas that ... Regulation of shared economy or smart delivery applications could impact Meituan, for instance, while Baidu Inc. has worked on autonomous driving and Alibaba Health ...",
       "sourceUrl": null,
-      "webUrl": "https://www.straitstimes.com/asia/east-asia/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms",
-      "originalUrl": "https://www.straitstimes.com/asia/east-asia/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms",
+      "webUrl": "https://www.bloombergquint.com/business/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms",
+      "originalUrl": "https://www.bloombergquint.com/business/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/09/27/mi_apollocar_270921.jpg?itok=XN4SxYfp",
-          "width": 763,
-          "height": 509,
+          "url": "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -614,11 +657,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T02:13:00-07:00",
+      "publishedDateTime": "2021-09-27T01:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Straits Times",
-        "domain": "straitstimes.com",
+        "name": "BloombergQuint",
+        "domain": "bloombergquint.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1376,49 +1419,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-baidu-inc-bidu-is-2855-lower-this-ytd-is-it-still-time-to-buy.md",
-      "title": "Baidu Inc. [BIDU] is -28.55% lower this YTD. Is it still time to buy?",
-      "excerpt": "BIDU] closed the trading session at $154.50 on 09/20/21. The day’s price range saw the stock hit a low of $152.52, while the highest price level was $158.59. The company report on September 17, 2021 t",
-      "sourceUrl": null,
-      "webUrl": "https://dbtnews.com/2021/09/21/baidu-inc-bidu-is-28-55-lower-this-ytd-is-it-still-time-to-buy/",
-      "originalUrl": "https://dbtnews.com/2021/09/21/baidu-inc-bidu-is-28-55-lower-this-ytd-is-it-still-time-to-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dbtnews.com/wp-content/uploads/2020/01/Image-113.png",
-          "width": 640,
-          "height": 424,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-21T15:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dbtnews",
-        "domain": "dbtnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
