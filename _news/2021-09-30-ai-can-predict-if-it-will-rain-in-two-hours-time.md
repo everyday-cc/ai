@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/technology-58748934.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-58748934.amp"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://en.mogaznews.com/temp/resized/medium_2021-09-30-5807097d22.jpg"
         width: 700
         height: 450
+        isCached: true
+  - title: "Artificial intelligence can predict rain with unprecedented accuracy"
+    excerpt: "DeepMind has created an artificial intelligence capable of forecasting the weather with impressive accuracy. The company specializes in building AIs focused on problem solving, but has now decided to embrace meteorology as an important field of action."
+    publishedDateTime: 2021-10-03T22:10:00Z
+    webUrl: "https://www.clarepeople.com/5930-artificial-intelligence-can-predict-rain-with-unprecedented-accuracy/"
+    type: article
+    provider:
+      name: The Clare People
+      domain: clarepeople.com
+    quality: 54
+    images:
+      - url: "https://www.clarepeople.com/wp-content/uploads/2021/10/5930-artificial-intelligence-can-predict-rain-with-unprecedented-accuracy-780x470.jpeg"
+        width: 780
+        height: 470
         isCached: true
   - title: "Tech Digest daily roundup: AI can tell if it’s going to rain in next 2 hours"
     excerpt: "AI can tell whether it's going to rain in next two hours. Scientists at DeepMind and the University of Exeter partnered with the Met Office"

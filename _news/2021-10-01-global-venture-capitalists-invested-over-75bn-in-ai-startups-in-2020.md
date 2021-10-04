@@ -90,20 +90,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "GM invests in AI technology for radar-based ADAS"
-    excerpt: "General Motors’ venture capital arm has made a multi-million-dollar investment in radar, betting on an artificial intellilgence (AI) technology by a U.S. startup called"
-    publishedDateTime: 2021-09-29T10:30:00Z
-    webUrl: "https://www.repairerdrivennews.com/2021/09/29/gm-invests-in-ai-technology-for-radar-based-adas/"
-    type: article
-    provider:
-      name: Repairer Driven News
-      domain: repairerdrivennews.com
-    quality: 37
-    images:
-      - url: "https://www.repairerdrivennews.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-28-at-11.56.38-AM-1024x526.png"
-        width: 1024
-        height: 526
-        isCached: true
   - title: "Launching AI Enabled Appreciate - A trusted partner for better returns and global investments"
     excerpt: "Appreciate will help one invest in US equities to access better returns - so they can get more value for their investment, and can lower risk through global diversification. Today, international investing is plagued by complicated paperwork,"
     publishedDateTime: 2021-10-01T11:02:00Z

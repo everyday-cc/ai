@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bgr.in/news/amazon-brings-offline-voice-recognition-to-a
 cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/amazon-brings-offline-voice-recognition-to-alexa-devices-hardware-event-2021-astro-echo-show-15-1011217/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Alexa devices get offline voice recognition: Here's how it works"
-    excerpt: "Amazon has just announced a slew of new connected devices and with those come some new Alexa features, including the new privacy feature."
-    publishedDateTime: 2021-09-29T09:09:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news-amazon-alexa-devices-get-offline-voice-recognition-737347"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-amazon-alexa-devices-get-offline-voice-recognition-737347"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-amazon-alexa-devices-get-offline-voice-recognition-737347"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 44
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/09/amazon-echo-devices-1601017459-1632906511.jpg"
-        width: 715
-        height: 402
-        isCached: true
   - title: "Some Amazon Echo Devices Will Get Offline Alexa Voice Recognition Soon"
     excerpt: "Amazon launched a bunch of new connected devices at its Sep 28 event. The company also said it is bringing some new privacy-related features to Alexa."
     publishedDateTime: 2021-09-29T11:50:00Z

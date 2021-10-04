@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/microsy
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/microsys-partners-with-leading-ai-chipmaker-hailo-to-launch-high-performance-embedded-ai-platform/article_9f22889f-e9db-54e5-a997-d98cd6a50dcb.html"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1164
     height: 630
     isCached: true
+
+related:
+  - title: "MicroSys, Hailo Partner to Launch High-Performance, Embedded AI Platform"
+    excerpt: "MicroSys announced its partnership with leading AI (Artificial Intelligence) chipmaker Hailo to launch its miriac AIP-LX2160A"
+    publishedDateTime: 2021-10-04T02:04:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/20958-microsys-hailo-partner-to-launch-high-performance-embedded-ai-platform"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 36
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/b7b8aad800752ed034d3dcc2f502cff2.jpg?t=20211004_020300"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "0zGqsXxOTL9J4DrxzGI0kM2wqWTtJv4/cgTeVmbxnczL+rhhxIrnK8uDvHTMnhHrCbRdE0H3SL6kN91NPblYXwUlCRwBSbvxIkBdFZZS9qJvlnLmMxACPzkkk9BkZHTMz6j0m/WTwZLQxxdEq5BqJXQoKA6iuyLWjwEHTYO1TwCv8Z7qR3vJG93sOkeJuuRoeczL6ZIyejzk2mKuLnCtaNzsFyVgTWZZWKLI1p6sHOV7amFYnV5oA4d3ZoEiBZSR9GbqfNuDXmYiPwek11Yucu0vYErwZGgkVXRP2xbac+TpjMGmqbIOH5crGy5kfbDpa9lBqcystBJGAtBfVI3rbrx1hgFtJ55e9TbWoIkSJt4=;mB6yEz16IvA41NFD+hKTdA=="
 ---

@@ -36,17 +36,6 @@ related:
         width: 442
         height: 250
         isCached: true
-  - title: "Artificial Intelligence for Marketing Market Likely to Boost Future Growth by 2026 | IBM, Google, Amazon, Microsoft"
-    excerpt: "Advance Market Analytics published a new research publication on Artificial Intelligence for Marketing Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends"
-    publishedDateTime: 2021-09-29T10:18:00Z
-    webUrl: "https://www.openpr.com/news/2411287/artificial-intelligence-for-marketing-market-likely-to-boost"
-    ampWebUrl: "https://www.openpr.com/amp/2411287/artificial-intelligence-for-marketing-market-likely-to-boost"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2411287/artificial-intelligence-for-marketing-market-likely-to-boost"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 51
 
 secured: "QjKchmZiEW4uQNq9IgGEchQBijsJbj0kUy616uKobZaUvdFUNzjtyOrAP1P5/AF89O91dcv91XxXKeC1QReSUYWA4yy+UGhdTXgdq4d6VvIMVo67Xyouk7XNxQMlAnVeGFIwf4fsyan8JWcaOAmncM3IZzcJcFi2uDphkPwt2d2Yzcxy16106X4HZqMV70PShKgBufHLk/gkSuQYcXm2COOUToLbdVPEIh3Acwvlq/zh3oR+ThecY4kkZ6xzmRBtT92vWVn5HJMP4FMyLEPeuQcdv1LoImKVoaTw/O0bDFS9+oOtc0DOKDFffM7N3m8OcojggV2WPhiDhFbqAurBEeFpEoUKNazD1qOSeOCy5D4=;vlE6KdbxHElp6VuSEnM2kA=="
 ---

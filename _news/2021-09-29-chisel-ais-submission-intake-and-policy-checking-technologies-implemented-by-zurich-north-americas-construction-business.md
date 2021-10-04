@@ -40,20 +40,6 @@ related:
         width: 679
         height: 387
         isCached: true
-  - title: "Scope of AI, Deep Learning and Neural Network, 2021 Market Research Report"
-    excerpt: "The \"Next Wave of Deep Learning Models & Applications (RNN, CNN, and GaN)\" report has been added to ResearchAndMarkets.com's offering. As digitization progresses across industries, AI is gaining a ubiquitous adoption as more and more business processes are being automated."
-    publishedDateTime: 2021-09-29T09:42:00Z
-    webUrl: "https://menafn.com/1102884604/Scope-of-AI-Deep-Learning-and-Neural-Network-2021-Market-Research-Report"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 67
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?430465"
-        width: 413
-        height: 250
-        isCached: true
   - title: "Google’s new AI wants to supercharge contextualized search results"
     excerpt: "Google announced a new AI model for multimodal search called MUM (Multitask Unified Model) at its developer conference Google IO in May. Last night, the firm announced a bunch of"
     publishedDateTime: 2021-09-30T06:58:00Z

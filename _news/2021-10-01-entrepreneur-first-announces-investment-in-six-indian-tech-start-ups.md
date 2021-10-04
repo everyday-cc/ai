@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/brand-post/entrepreneur-first-announces-inv
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-post/entrepreneur-first-announces-investment-in-six-indian-tech-startups/amp-11633006694107.html"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "Entrepreneur First Announces Investment In Six Indian Tech Start-Ups"
-    excerpt: "Entrepreneur First (EF), a UK-based global talent investor, has announced an investment in six cutting-edge tech start-ups from India. With the latest funding, EF has invested in 34 tech start-ups in the country since its launch in India in 2019."
-    publishedDateTime: 2021-09-29T09:37:00Z
-    webUrl: "https://www.outlookindia.com/website/story/entrepreneur-first-announces-investment-in-six-indian-tech-start-ups/396147"
-    ampWebUrl: "https://www.outlookindia.com/website/amp/entrepreneur-first-announces-investment-in-six-indian-tech-start-ups/396147"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/entrepreneur-first-announces-investment-in-six-indian-tech-start-ups/396147"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 42
-    images:
-      - url: "https://images.outlookindia.com/public/uploads/articles/2021/9/29/spot_2_550_550.PNG"
-        width: 550
-        height: 450
-        isCached: true
 
 secured: "igQjb//ffeXHqrFRS4g/Ki+WbqfGMbjI217o+ZV1EYI+Ucfs8RZsoi5mQIy8GyH1pcctaNkW0s5V9m1mLI0xGmwEL6Dg/ijWHKPb1i0yWVllsopSl8bkz0epHRZhA6fGFF8XiacrxqTfZkb0nn7LRhd6rbfI93flQFl131a5R+Xi/vQfxaZYu9mUUDc9Ju188wPxYYE57xYF/tyeDgXKqs1CDEJGRizvAolT+eAXI2d1YHTbrfCmLhs4HxHu1ZhsG+ap0qWTEuU10wROTRz5N8cm13oo1Hn/pJmWgJEhy4MRnsHCS2WvMQrpnFItZckwBYhYI0sJ/kHxf8LKYZqeRDKB1b2VT3+SOILSEF4rZj8=;WNkdzfHXjNUgc6F9FLLihg=="
 ---

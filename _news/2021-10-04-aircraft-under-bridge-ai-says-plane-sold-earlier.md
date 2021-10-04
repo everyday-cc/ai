@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Aircraft under bridge: AI says plane sold earlier"
-excerpt: "A social media clip showing an aircraft in Air India colours getting stuck under a foot-over-bridge was sold by the airline and was being transported by its new owner. According to an airline official,"
-publishedDateTime: 2021-10-04T01:56:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Business/20211004/3830821.html"
-webUrl: "https://news.webindia123.com/news/Articles/Business/20211004/3830821.html"
+excerpt: "\"This was transported last night by the party. Air India has got no connection whatsoever with the aircraft under any circumstances,\" an official said."
+publishedDateTime: 2021-10-04T02:25:00Z
+originalUrl: "https://www.thestatesman.com/india/aircraft-bridge-ai-says-plane-sold-earlier-1503014314.html"
+webUrl: "https://www.thestatesman.com/india/aircraft-bridge-ai-says-plane-sold-earlier-1503014314.html"
+ampWebUrl: "https://www.thestatesman.com/india/aircraft-bridge-ai-says-plane-sold-earlier-1503014314.html/amp"
+cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/india/aircraft-bridge-ai-says-plane-sold-earlier-1503014314.html/amp"
 type: article
-quality: 17
-heat: 17
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: The Statesman
+  domain: thestatesman.com
 
 topics:
   - AI
 
-secured: "32k8TDQSAVZ+cJMt/9nvPcE6m4Gl3BBHNysxr3Utilu8Io2Y7EzV/GSS+l9MralaWB3AtByzwJ6YYITFwDG6g/Juolt2201923KMAzRQQp73kYrTR76ft+pKV9p3vn+vN0gJjfLon/GcXz1L9vHHmJrnFhy1/pRjU1m37LtUyXlUUHpVFOKMMGv/a9753vsmlQRn+ydH97DU6yXTrRu6Q0m9r7UTPe/Dd/7eFOrgWS45XlOkV30lXf1jfUaYZxTCFrJZfL7dc8ZDa6VTyZ0t7j0T5p3AwI4d+pim1piKbu084EqBoJQaA2Osb1h4lAT9Z44X8JFy7aLJK+LfDxB92GCDydVoiFdEYMo2eoZMol0=;s0fXB3yzCd8WD7ZoIkHgQA=="
+images:
+  - url: "https://www.thestatesman.com/wp-content/uploads/2021/10/eec268b8434047297020d532ac96dbac-1024x683.jpg"
+    width: 1024
+    height: 683
+    isCached: true
+
+secured: "8SF0Q2NGHC8PfFQQr7+I/QCMMEVUMpFaPGzXqgNfYrKpOfqr20BQeajjd7ZnroDxklBmOPKS4ybNOW1jaiVGPZETLNucJD1y0N2OMX+i/RnB8ed7AGumGwOzWydFAeB8IRBGhoZggspmAAbSj+F/FM+TF0Dg7SDEmV06pCdzaYW9GPZ3fpQoUsCHwqZrSCLv7J2TnYK0fvXDl3JrHSXUA4RbWq6Lk0YWlIkRG4bpUMgcR2qa4QwzkwQlMl5KptXWKyFM1Wmt99fXGDEUIbp9ieIyiaIfDQpy40syH46G+uEtZWCz4MNjw2ouCjNpA0Uqu+FmoMZ5Cuw/Z0/5ny33BQNj2X/OnmEg4dMsmX1aR24=;EagNdHrt6CHMiTynoTFYhg=="
 ---
 

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Alexa devices get offline voice recognition: Here's how it works"
-    excerpt: "Amazon has just announced a slew of new connected devices and with those come some new Alexa features, including the new privacy feature."
-    publishedDateTime: 2021-09-29T09:09:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news-amazon-alexa-devices-get-offline-voice-recognition-737347"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-amazon-alexa-devices-get-offline-voice-recognition-737347"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-amazon-alexa-devices-get-offline-voice-recognition-737347"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 44
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/09/amazon-echo-devices-1601017459-1632906511.jpg"
-        width: 715
-        height: 402
-        isCached: true
   - title: "Amazon brings offline voice recognition to Alexa devices"
     excerpt: "Amazon brings offline voice recognition, shares details on the privacy features coming to the latest Alexa devices, the company announced a slew of connected devices including Echo Show 15, a new household robot Astro,"
     publishedDateTime: 2021-09-29T12:39:00Z

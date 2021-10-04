@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-boosts-robotics-efforts-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-boosts-robotics-efforts-with-astro-launch-2021-09-29?amp"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-388659.jpeg"
         width: 635
         height: 400
-        isCached: true
-  - title: "Amazon Astro AI smart home robot with personality from $1,000"
-    excerpt: "The Amazon Astro home robot will be priced at $1,450 but Amazon as part of the Day 1 Editions program is making the Alexa"
-    publishedDateTime: 2021-09-29T10:22:00Z
-    webUrl: "https://www.geeky-gadgets.com/amazon-astro-ai-smart-home-robot-with-personality-29-09-2021/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 54
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/09/Amazon-Astro-home-robot.jpg"
-        width: 700
-        height: 461
         isCached: true
 
 secured: "lUlvsrpI2m2M2CdUJw8m991PNubTeWCieRvxVMn0gJBwcKh7XV+Ajri8PCgSvjdpVP6H69M5GlNHxJ99YvPGc89kIAHUNxC09T4BXM19kQHClqsMohcwetLFXTv/fOtarEyVr7UPgjTPXW3SW8NRLArkEYUOr40ypBhWEQC/SLTF5F0tSojbWYb5Hh4JvoBzLe+8+TsoGhIW8R93jDNZ7jwKzTcqJI4+LDyEnL2GAuMFuJVv+KkndIuIgVYcJzDIjP2ZvXc7qBDdG2NcFhgoOCTxAPP+kIspskRCgA7qjUDDMAInvwAwI9u8eBmNj+XFGk0c4voaB0T+5ICZBCKpR23XP25K1ov5tjXD1U5REj8=;AROahRu8w3mUE7JR/Q10QA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/science/ai-predict-animal-viruses-likely-inf
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/ai-predict-animal-viruses-likely-infect-humans-study.amp"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://vid.alarabiya.net/images/2020/01/07/69dbd27b-0f11-47e5-a814-58f3bb57d05e/69dbd27b-0f11-47e5-a814-58f3bb57d05e_16x9_600x338.jpg"
         width: 600
         height: 338
+        isCached: true
+  - title: "Can artificial intelligence predict which virus can jump from animal to human?"
+    excerpt: "A study used machine learning to predict what viruses can jump from animals to human, and how much of a risk they may pose to people."
+    publishedDateTime: 2021-10-04T02:21:00Z
+    webUrl: "https://www.jpost.com/science/can-artificial-intelligence-predict-which-virus-can-jump-from-animal-to-human-680962"
+    ampWebUrl: "https://m.jpost.com/science/can-artificial-intelligence-predict-which-virus-can-jump-from-animal-to-human-680962/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/science/can-artificial-intelligence-predict-which-virus-can-jump-from-animal-to-human-680962/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 53
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/479447"
+        width: 640
+        height: 428
         isCached: true
 
 secured: "6tiEUYZQFypslVKvZpcCQDbLAGO8h4OXnYgY1Dq08PUf0XYwjVnUmzL/zQUVOglx4DpYf+IVqrsdMMHs2EgYg4JA89KWdkCdZNp5P21fmcxhRoy+mWTEEoBovgLd7JODKONKF7BWaJ5fxNtVHhhWP+TXVX4yDhwkc3sGEueaitSSnjIYAp8/swLco15c1K9zHMyj3Y+s3QCLCPv8nzpVpdNgAbTYbJmK25JbiXGG0VKLUvFS4JZQ57zMq6QstA2G5xYADKED17BR1BzGiB6pFFd9RlYTv28aTcLcM0Ka+8yMJRYjJbyYxYy2OWRMzR8m1taLIEPBV4PO92+1CgJqZeBuBP4p6zNSeX5l2bnpv1ngKTPMOHLH11lm7lo9Rnwqp69LiAmKMch++Xv56zpQtBjVyY4fWsZP82HWFvuCIEnVNzynE9c9hX7cyI1UhySq4FlikEod4YTMvZaAwPqja75Gr6i95i5dQedt5EJvWDFnrU/6s+LxAV0GhAiBwpOUfa1N75spYjrtPrrXYZcdOA==;CNTEb5jIq1mbiQRfxZMdsg=="

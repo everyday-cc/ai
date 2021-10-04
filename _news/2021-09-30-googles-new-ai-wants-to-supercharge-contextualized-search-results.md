@@ -44,20 +44,6 @@ related:
         width: 679
         height: 387
         isCached: true
-  - title: "Scope of AI, Deep Learning and Neural Network, 2021 Market Research Report"
-    excerpt: "The \"Next Wave of Deep Learning Models & Applications (RNN, CNN, and GaN)\" report has been added to ResearchAndMarkets.com's offering. As digitization progresses across industries, AI is gaining a ubiquitous adoption as more and more business processes are being automated."
-    publishedDateTime: 2021-09-29T09:42:00Z
-    webUrl: "https://menafn.com/1102884604/Scope-of-AI-Deep-Learning-and-Neural-Network-2021-Market-Research-Report"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 67
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?430465"
-        width: 413
-        height: 250
-        isCached: true
   - title: "Beyond Codes signs 7 AI product companies"
     excerpt: "A global Lead Generation company, Beyond Codes is assisting some of the fastest growing IT companies to expand their market reach through B2B appointment setting, Account Based Marketing and Events & Webinars."
     publishedDateTime: 2021-09-29T15:31:00Z

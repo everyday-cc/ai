@@ -7,7 +7,7 @@ originalUrl: "https://www.packworld.com/PACKEXPO/article/21735125/soft-robotics-
 webUrl: "https://www.packworld.com/PACKEXPO/article/21735125/soft-robotics-moves-into-ai"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "SMEs fear to be left behind in the move towards AI"
-    excerpt: "As more and more organizations are implementing artificial intelligence (AI) and automation, there are still concerns over Small and Mediums-sized Enterprises (SMEs) getting left behind. Indeed, according to a study by Opinuim,"
-    publishedDateTime: 2021-09-29T09:48:00Z
-    webUrl: "https://www.softwaretestingnews.co.uk/smes-fear-to-be-left-behind-in-the-move-towards-ai/"
-    type: article
-    provider:
-      name: softwaretestingnews.co.uk
-      domain: softwaretestingnews.co.uk
-    quality: 37
-    images:
-      - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/09/pawel-czerwinski-7LoWpCOAn6k-unsplash-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "AI is moving into classrooms to monitor students"
     excerpt: "It could be a glimpse into the future of classrooms. Artificial intelligence is being incorporated into some classroom curriculums."
     publishedDateTime: 2021-10-01T14:40:00Z

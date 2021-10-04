@@ -84,20 +84,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "GM invests in AI technology for radar-based ADAS"
-    excerpt: "General Motors’ venture capital arm has made a multi-million-dollar investment in radar, betting on an artificial intellilgence (AI) technology by a U.S. startup called"
-    publishedDateTime: 2021-09-29T10:30:00Z
-    webUrl: "https://www.repairerdrivennews.com/2021/09/29/gm-invests-in-ai-technology-for-radar-based-adas/"
-    type: article
-    provider:
-      name: Repairer Driven News
-      domain: repairerdrivennews.com
-    quality: 37
-    images:
-      - url: "https://www.repairerdrivennews.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-28-at-11.56.38-AM-1024x526.png"
-        width: 1024
-        height: 526
-        isCached: true
   - title: "Global venture capitalists invested over $75bn in AI startups in 2020"
     excerpt: "The global investments by venture capitalists (VC) in private companies focused on artificial intelligence (AI) are growing at a dramatic pace, said a study. According to a new report from the Organization for Economic Cooperation and Development (OECD),"
     publishedDateTime: 2021-10-01T08:25:00Z

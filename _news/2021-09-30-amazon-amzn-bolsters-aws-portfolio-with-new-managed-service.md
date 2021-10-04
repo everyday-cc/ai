@@ -46,20 +46,6 @@ related:
         width: 635
         height: 400
         isCached: true
-  - title: "Amazon Astro AI smart home robot with personality from $1,000"
-    excerpt: "The Amazon Astro home robot will be priced at $1,450 but Amazon as part of the Day 1 Editions program is making the Alexa"
-    publishedDateTime: 2021-09-29T10:22:00Z
-    webUrl: "https://www.geeky-gadgets.com/amazon-astro-ai-smart-home-robot-with-personality-29-09-2021/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 54
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/09/Amazon-Astro-home-robot.jpg"
-        width: 700
-        height: 461
-        isCached: true
 
 secured: "ZUYS03McGCF3ssHNwLQdzGCYb7RXNqvFzPBYFlHCONeOW0crYC+dmoZWwvho9nlw80inuyUCAOcXEU4oH3QIXO5KwOcQLNTQaDf9lO8uCPB3gYJGYP5Iy7HZeQsecs4RyvGPijUEG9LbWextXqGFURvuA5ttlG0urptnpJE0RVOfG32VRvizA6DshPM2b46EexPWODIKmjlpuWn7wPz3GLdJfUb/jMJU2pRtOC5Bgg+DyJKW6ZBr/iDyNfNIQadHNg7eDRgT1C5I4zTsp0+tsXJazSQV1ulzooPyST0h72ep5huOw4u3iV0ou4Qd0GWGMEpHPV8LNuI3dPwYr9nlVaoH0ijbrDEYWOVlwYJyfVE=;PJHibNf4QVkiNj7t7zeZeQ=="
 ---

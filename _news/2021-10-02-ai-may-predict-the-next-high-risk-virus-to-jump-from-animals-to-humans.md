@@ -58,6 +58,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Can artificial intelligence predict which virus can jump from animal to human?"
+    excerpt: "A study used machine learning to predict what viruses can jump from animals to human, and how much of a risk they may pose to people."
+    publishedDateTime: 2021-10-04T02:21:00Z
+    webUrl: "https://www.jpost.com/science/can-artificial-intelligence-predict-which-virus-can-jump-from-animal-to-human-680962"
+    ampWebUrl: "https://m.jpost.com/science/can-artificial-intelligence-predict-which-virus-can-jump-from-animal-to-human-680962/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/science/can-artificial-intelligence-predict-which-virus-can-jump-from-animal-to-human-680962/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 53
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/479447"
+        width: 640
+        height: 428
+        isCached: true
 
 secured: "lJ5o5HJnuOjPWUkEgM07atDbrXY4JIwWC9uue+y7OHFO9VuI2R8J2/gpTfta1JZuKVTGo5Q02XGMWgH9L8D+q11q/81bCZz635/UTkCQX2L0VlXwblQs5QZnb/3trRwm7UcrsIsQwTKjOhaWpETFUcZzNcR25Gf4Vwu9K+l6kNXs8RAp/slULo5sUxXSSm829GCkutxTPpa6XhACvjakpHM1NLBTRk3JnR+uC7zRi8n2t1THuZIuJS8CmNos8SaDPWmlDo9/eE5RHDadaeW+pGu2DzstxSkQ34Lb0kXdqt+oNItGIffbO297r+j//igS5wQSGhWSplc1hdjUOWrEb99uQ564NJDrE6vjLXBociE=;Rib+LXaIBMwEhjbnw8QrSg=="
 ---

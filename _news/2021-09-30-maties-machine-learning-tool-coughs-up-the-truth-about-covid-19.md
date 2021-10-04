@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times-daily/news/2021-09-29-m
 cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times-daily/news/2021-09-29-maties-machine-learning-tool-coughs-up-the-truth-about-covid-19/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 848
     height: 565
     isCached: true
+
+related:
+  - title: "Machine learning predicts hospital-onset COVID-19 infections using patient contact networks"
+    excerpt: "Researchers from the UK recently developed a real-time machine learning framework that uses dynamic patient contact networks to predict hospital-onset COVID-19 infections (HOCIs) at the patient level."
+    publishedDateTime: 2021-10-04T02:43:00Z
+    webUrl: "https://www.news-medical.net/news/20211003/Machine-learning-predicts-hospital-onset-COVID-19-infections-using-patient-contact-networks.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20211003/Machine-learning-predicts-hospital-onset-COVID-19-infections-using-patient-contact-networks.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211003/Machine-learning-predicts-hospital-onset-COVID-19-infections-using-patient-contact-networks.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 49
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/10/shutterstock_1466404403.jpg"
+        width: 1500
+        height: 899
+        isCached: true
 
 secured: "xQmy4yWS6XGpYlytd1IYiktHLRZpuQy/AP85qR0pj6xnwl/yTZvDswpQlVMYmiGBZP9JoQP9ZlMnepAM1lTwPFqSYmdDyJVY8uqhTHEpcD02NDxh8naFVJnHu8+eJpZOK1T66MS9t3XHuvkUQ9sRcClKZ8fD1cy131fFsREy4MIH3S375x0BcBKUKD/9dcNUNrfY7XNh/TBwe49ItKKxxCsamxYQuvz8Sw3ZJ4MhniVZW4g5JC3x3LyVAaCuBqDmTAbEFIp8jvFwEak4hhYeEqecbfYKiY0r4zPPF9qAyYmhyHlfqvj2gmnTmHfPS8Uve3R0GTATl9TNKGapQd3r6+6Cb4NKxfC7z+M1yPtPNQA=;acxnzvevsJKo6NVju2Ps7g=="
 ---

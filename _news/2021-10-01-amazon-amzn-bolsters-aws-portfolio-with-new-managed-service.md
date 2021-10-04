@@ -51,20 +51,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Amazon Astro AI smart home robot with personality from $1,000"
-    excerpt: "The Amazon Astro home robot will be priced at $1,450 but Amazon as part of the Day 1 Editions program is making the Alexa"
-    publishedDateTime: 2021-09-29T10:22:00Z
-    webUrl: "https://www.geeky-gadgets.com/amazon-astro-ai-smart-home-robot-with-personality-29-09-2021/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 54
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/09/Amazon-Astro-home-robot.jpg"
-        width: 700
-        height: 461
-        isCached: true
 
 secured: "WFlN5soyFdU4PVYH/h3gqgIqJ4KVYf53FKaOTBHKBkaWS322k9ItwQoGJKH4aVoJKcPRqTZXv4Oo4f12bqCKNvglsElKtz+hDWu1Rh93YS9pSPkikTjKSU/7z0AE3OdR2gYgXCtF0gEbftu35WSFd6a8xF0SVh5XhTq2ActhjavNxcBbhxanndT2mM/h6H51mDDY9xSxaXlUhFUH9N7dtFa6OtKateIJ4g88HC7nh59zBLENbcwAhXlW/XjusNqhPInZYmgUmAOVkVEVSNVuCwbhl+LcUBSWPmjQDSvbV/cXK4z1YL2MJLoTUDStm77PYQqOr7EbJTSZxGe1+rKnrM4MlKzO9wVn1FaitaGphUbzVRzdEO8WM89fas8u8h77dYeYsSc2Tly9UZrsdYHzd3jrb0qRqA8IWskxOTwD+TnvprI3B6HcHWXLswSCz04aH0rhYmkDqEyG0UtduZhI0uiVNkvnKKfxFrTJe72Z60dqAaKKop6S3XoP/n9DNwn4yQC587cg5kpBqnVZAcltHw==;1zeRwm2B/HZmgF2vXm2fZA=="
 ---

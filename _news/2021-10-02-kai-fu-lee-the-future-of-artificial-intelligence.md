@@ -41,14 +41,14 @@ related:
   - title: "The Hot Topic at G2E 2021? The Future of AI for Casinos"
     excerpt: "G2E 2021 kicks off October 4th in Las Vegas, and the most talked about education session is, \"The Future of AI for Casinos\". The session has attracted 500+ registrations."
     publishedDateTime: 2021-10-02T04:06:00Z
-    webUrl: "https://www.kold.com/prnewswire/2021/10/02/hot-topic-g2e-2021-future-ai-casinos/"
+    webUrl: "https://www.wabi.tv/prnewswire/2021/10/02/hot-topic-g2e-2021-future-ai-casinos/"
     type: article
     provider:
-      name: TUCSON News Now Kold
-      domain: kold.com
+      name: WABI
+      domain: wabi.tv
     quality: 37
     images:
-      - url: "https://gray-kold-prod.cdn.arcpublishing.com/resizer/p4XgaTIn_Bv6bKSzfn_mmH95ItU=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/XQK67ANQ7GRSRAFFLTC5VFWU4A.jpg"
+      - url: "https://gray-wabi-prod.cdn.arcpublishing.com/resizer/p4XgaTIn_Bv6bKSzfn_mmH95ItU=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/XQK67ANQ7GRSRAFFLTC5VFWU4A.jpg"
         width: 980
         height: 512
         isCached: true
