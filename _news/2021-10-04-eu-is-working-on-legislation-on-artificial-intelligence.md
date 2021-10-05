@@ -7,7 +7,7 @@ originalUrl: "https://wbj.pl/eu-is-working-on-legislation-on-artificial-intellig
 webUrl: "https://wbj.pl/eu-is-working-on-legislation-on-artificial-intelligence/post/132216"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "More Organizations Saving Time and Costs on Data Breaches with Automation and AI"
-    excerpt: "Cost of a Data Breach report shows, AI and automation can reduce the cost of a data breach. See how organizations with AI security fared in 2021."
-    publishedDateTime: 2021-10-01T17:30:00Z
-    webUrl: "https://securityintelligence.com/posts/save-time-money-data-breach-security-ai-automation/"
+  - title: "US, EU to work on chip supplies, tech rules"
+    excerpt: "WASHINGTON: The United States and European Union (EU) have agreed to deepen transatlantic cooperation to strengthen semiconductor supply chains, curb China’s non-market trade practices and take a more unified approach to regulating big,"
+    publishedDateTime: 2021-10-01T01:03:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2021/10/01/us-eu-to-work-on-chip-supplies-tech-rules"
     type: article
     provider:
-      name: Hack
-      domain: securityintelligence.com
-    quality: 32
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
     images:
-      - url: "https://securityintelligence.com/wp-content/uploads/2021/10/Data-Breach-1.jpeg"
-        width: 1200
-        height: 630
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/10/01/1314486.jpg"
+        width: 1240
+        height: 826
         isCached: true
 
 secured: "efKFzLjbtRYbuL3fHCLNbhG5r5ObQAb+HtXWFhIv3+fvpJZ2Pu7piLc9JdReucBbU205X+gJ55BsGpczAQ5kCGOQeyW01g6hYdfwHnEVe7bhBS39FeR2sQMUSdaTqCJaM3tcTSml7QOLp25Fsp+JK8cTxOnFwHiKtJ5WWkQ/VnAWa9fj7cW5cuG/3k5k/B7VScwe19wGPf93x1RTqio6yiEGzOkxnF2a1IamTuc5Fbf+GGAuaOLEmaaaKn1PvgN1u2MTzTrfMffdCxg3mjOQ1Eu0kMmBhqMWPZBC+PXOu6QujnDEuai5q+MxXGYCCf/EHsTZsX24nDbKuMGFtth1Qcm78HdsU7iFhf58Z9pmlXuMzz7KQE+ccjpBSF6VKUi+vXycLWRq3i2iADIjLCoejc/GIZ+JSF8h43bliLkF3tw9mdH2t9AZsF9yx+XYsHqnktq+WhIYreIU3DiXeUjlkkejIWYtXm1i8F0eZit/njB7kf6qx9YMUrJL2Up8gLAIfx2k98JILxnYhCTLVyi2PQ==;OYh+j9Tg3P03kWpM5IG2kg=="

@@ -99,6 +99,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-01-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-tech-offerings.md",
+      "title": "M2P Fintech Acquires Saas Platform Origa.ai To Ramp Up Tech Offerings",
+      "excerpt": "M2P Fintech said in a press release the acquisition will help the firm to bolster its technology capabilities around new age collection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/website/story/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389",
+      "originalUrl": "https://www.outlookindia.com/website/story/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.outlookindia.com/public/uploads/articles/2021/10/1/m2p_550_550.jpg",
+          "width": 550,
+          "height": 367,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/website/amp/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389",
+      "publishedDateTime": "2021-10-01T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets.md",
       "title": "FinTech Can Help Fill Climate Resilience Gaps In Emerging Markets",
       "excerpt": "New financial technology (fintech) is helping increase climate resilience across all sectors — most notably on agriculture and energy businesses in emerging markets.",
@@ -107,7 +150,7 @@
       "originalUrl": "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1318,50 +1361,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-zest-ai-wins-2021-finovate-award-for-best-use-of-aiml.md",
-      "title": "Zest AI Wins 2021 Finovate Award for Best Use of AI/ML",
-      "excerpt": "Zest AI, the leader in software for AI-driven underwriting, today won the 2021 Finovate Award for Best Use of AI/ML. The award goes to the bank, financial institution, or fintech that uses artificial intelligence/machine-learning technology to the greatest effect,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-2acb818ebe1f25e908e4be89872e4639",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-2acb818ebe1f25e908e4be89872e4639",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

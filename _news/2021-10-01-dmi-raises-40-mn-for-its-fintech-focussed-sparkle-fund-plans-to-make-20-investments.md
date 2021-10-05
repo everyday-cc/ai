@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/dmi-closes-40-mn-capital-raise-for-its-fintec
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/dmi-closes-40-mn-capital-raise-for-its-fintech-focussed-sparkle-fund/amp/"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -27,35 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "DMI Alternatives raises $40 mn for fintech fund"
-    excerpt: "Within the Fintech ecosystem, Sparkle focuses on alternative lending, consumer finance, financial services IT, payments, regtech, wealthtech and AI-ML platforms to drive automation. A key differentiator for Sparkle is its strategic relationship with DMI ..."
-    publishedDateTime: 2021-09-30T10:19:00Z
-    webUrl: "https://www.livemint.com/companies/news/dmi-alternatives-raises-40-mn-for-fintech-fund-11632995681857.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/dmi-alternatives-raises-40-mn-for-fintech-fund/amp-11632995681857.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/dmi-alternatives-raises-40-mn-for-fintech-fund/amp-11632995681857.html"
+  - title: "Fintech investments are on high level – Top 10 countries leaders for H1′ 2021"
+    excerpt: "The global fintech market made a strong start in 2021. Global fintech investments recorded $98 billion in H1, 2021 with 2.456 deals, according to KPMG insights. In H2, 2021 global fintech investments reached 87 billion dollars."
+    publishedDateTime: 2021-10-01T11:16:00Z
+    webUrl: "https://ceoworld.biz/2021/10/01/fintech-investments-are-on-high-level-top-10-countries-leaders-for-h1-2021/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
+      name: CEOWORLD magazine
+      domain: ceoworld.biz
+    quality: 21
     images:
-      - url: "https://images.livemint.com/img/2021/09/30/600x338/DMI_1632997037719_1632997047813.JPG"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "IIFL Fintech Fund backs AI startup Data Sutram"
-    excerpt: "Extrapolate Advisors Pvt Ltd, which runs the Kolkata-based AI startup Data Sutram, has raised funding for an undisclosed amount"
-    publishedDateTime: 2021-10-01T07:39:00Z
-    webUrl: "https://www.vccircle.com/iifl-fintech-fund-backs-ai-startup-data-sutram"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 39
-    images:
-      - url: "https://assets.vccircle.com/uploads/2019/05/Fundingrf2.jpg"
-        width: 810
-        height: 506
+      - url: "https://cdn.ceoworld.biz/wp-content/uploads/2021/10/Fintech.jpg"
+        width: 960
+        height: 539
         isCached: true
 
 secured: "HBja3AaK8PduSm5JELGg4QwkDnCEAqaCgJuPO2bIpeKAo/na4aoOMYGihKDIy+dYI8HHh8BDVfmdqW3Hrv05jT9yLDZD7/+tc+YTXVIhlBq6iVJDVuZHnVDgtcb/nPIGCUPIq0hPb2d8+mZt8tPXzxYZjJltdmmUwwlCWS1UV883d5hdpUAvN2x5z0rHjKyR8ndCR5DHSllwthBNzxse5rdoQQ5hEsDzAgh5q0CiThQ44exdJT/v2EQ7mko0IqRO9SGWBUscNRsf0wPOwYZHVj4pAJe9zwvFfMIjqk3PzMQnIOpgkHZz3RL295ljWKbwlW3mhHEWF5pAA3FIHEi7t1eqzfQ5r+pZtF3Zisj7iecn5YU1mieW6r13e3IBRfGNWdvHszwK02KrqK9tyZ3XnOmpXVsss2nvBbEZMW6XiH7xCpFY2A3Da+k5gvpYdgEizC6QbwLuya+9ydJOnjUM6WEn/q9751L8saw/bxRt5L3ItI4Q8QRPHYrHkzWuEA8wSXWRHqox1jf0D+0SifxlLw==;vTXAh8rib+uNmEZ00thTTQ=="

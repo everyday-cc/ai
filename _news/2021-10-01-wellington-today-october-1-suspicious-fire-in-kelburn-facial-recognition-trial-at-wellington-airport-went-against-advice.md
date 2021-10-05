@@ -7,7 +7,7 @@ originalUrl: "https://www.stuff.co.nz/dominion-post/wellington/126548316/welling
 webUrl: "https://www.stuff.co.nz/dominion-post/wellington/126548316/wellington-today-october-1-suspicious-fire-in-kelburn-facial-recognition-trial-at-wellington-airport-went-against-advice"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1420
     height: 798
     isCached: true
-
-related:
-  - title: "Secretive facial recognition trial at Wellington Airport went against Privacy Commissioner's advice"
-    excerpt: "Aviation Security went ahead with the trial of a new facial-recognition scanning tool at Wellington Airport, despite serious concerns from the Privacy Commissioner. The secretive months-long trial, which is still ongoing,"
-    publishedDateTime: 2021-09-30T16:00:00Z
-    webUrl: "https://www.stuff.co.nz/national/politics/300420063/secretive-facial-recognition-trial-at-wellington-airport-went-against-privacy-commissioners-advice"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 40
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/v/1/m/y/image.related.StuffLandscapeSixteenByNine.1420x800.4yv1lr.png/1633012249632.jpg"
-        width: 1420
-        height: 798
-        isCached: true
 
 secured: "8CqmFWuBsu5HPgxynr/7WnCNswX1p8d4qWXb9uHMJvK75WMUVsgujaXWZjvJAg8V+axChOtPjZejxx9uhqnR+PkT083fUa1YWtT9u84xG1R/X4f4z7YF/d/CZiKPEdSiV0/RiwRkIJVQYep2732qGvr3+fGkc6/zvHnYH8Fa9MPhCoPd1NnsUzc27PO3tc925/Osnr3gAVbEC0bLbh5tPUf4nLRLOdrRC72yU69KJyiLCAEvWYRVo+oH9PBhS+16bf6334C3mWE8ze0tP9R2j8auwTRUi/6e5O9F5uelPrHUdCyDLQZ/xKavpzm+uDMJqPiTO8h9fDJhrp+6F0DVzAHD2d19kdtXCd+VMZMyi324NUZt6aan1MHk21ORk4BNKhpcqglybtt3kjGhv70XC3tJWDmqB5XLbN1fapnrVXmPNY1MONl0L9drI1RYFaFUqtJu1kp+wGFGZHvJs0zUGw2pCINmHNkUfgcJDK6i3O7hXX199Q6jelu+hKYfcUOGW795AL3B7SSJ6CFMwoAolA==;drTQLV6/2D+zdvSfI2qwWw=="
 ---

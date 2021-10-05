@@ -9,8 +9,8 @@ ampWebUrl: "https://www.outlookindia.com/website/amp/business-news-m2p-fintech-a
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Outlookindia
@@ -42,6 +42,20 @@ related:
       - url: "https://inc42.com/wp-content/uploads/2021/09/fintech-social-2.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "IIFL Fintech Fund backs AI startup Data Sutram"
+    excerpt: "Extrapolate Advisors Pvt Ltd, which runs the Kolkata-based AI startup Data Sutram, has raised funding for an undisclosed amount"
+    publishedDateTime: 2021-10-01T07:39:00Z
+    webUrl: "https://www.vccircle.com/iifl-fintech-fund-backs-ai-startup-data-sutram"
+    type: article
+    provider:
+      name: VCCircle
+      domain: vccircle.com
+    quality: 39
+    images:
+      - url: "https://assets.vccircle.com/uploads/2019/05/Fundingrf2.jpg"
+        width: 810
+        height: 506
         isCached: true
 
 secured: "yqxPcrH0QpdDY1+TJdSwEOBJytySY1MpHkc8bCTXeeolT6S+ot/B8BGve9r0saU0X1HMuT2xhL0xVW75VxXuvhxDn/D//5yXZc2Mmj+e1E7c33obq4cxFLCcdaSRE/qmrJ6rHxYbSc3whwt0magveiJp5js3fz8DqBtoni881tkOTWlBfbvVkhks15UJtpL2Y2RyiYBallsTJ0JMFtmtxJVnirhElApB+l4HPcwNY3bZ3v4GRRXpsO8xghd2mIuPadYk9PwvNM5xln3UToeCPqIN1HGJzeaNMXG2/TxlpLuw3NFtdfLFxC4u3aP/yhLzKkgqr38wfO07ZRjnFgvzpV0WZQWAWuM0yZdLkifvVJhLUTMm70qrvZsCL+h11V8tzcM3syIcW0mAyiT7kO/iHqiYdLjo6mo3k1KgN+YNphXFaD9xoron/mxa4zVbNumCyRmsglSVHjiVO9scnxcBkBRXJLU06nSlgUNlyCXMrtS5Rhygup56cMj7hBwU6UmUerjjjq7fD54voRR6GH7LEw==;XVegLyEfgvuMTsJp1YFlag=="

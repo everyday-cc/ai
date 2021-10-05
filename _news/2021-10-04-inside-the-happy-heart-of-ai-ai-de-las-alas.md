@@ -24,18 +24,18 @@ images:
     isCached: true
 
 related:
-  - title: "When AI and ESG collide"
-    excerpt: "The energy management system developed by cold storage warehouse company Lineage Logistics is one of my favorite examples to extol: When I wrote about it a couple of years ago, the company had managed to cut power consumption in half for facilities where it was deployed,"
-    publishedDateTime: 2021-09-30T09:37:00Z
-    webUrl: "https://www.greenbiz.com/article/when-ai-and-esg-collide"
+  - title: "Artificial intelligence to the rescue"
+    excerpt: "Washington State University will lead a consortium of institutions in the development of new artificial intelligence tools to help address problems in the agricultural field."
+    publishedDateTime: 2021-10-02T07:00:00Z
+    webUrl: "https://lmtribune.com/agriculture/artificial-intelligence-to-the-rescue/article_fd563974-9988-5012-85af-7310e61d0f18.html"
     type: article
     provider:
-      name: GreenBiz
-      domain: greenbiz.com
-    quality: 39
+      name: Lewiston Tribune
+      domain: lmtribune.com
+    quality: 37
     images:
-      - url: "https://www.greenbiz.com/sites/default/files/styles/og_image_1200x630/public/2021-09/AI-ESG.jpg?itok=N73Xs27Q"
-        width: 1200
+      - url: "https://bloximages.newyork1.vip.townnews.com/lmtribune.com/content/tncms/assets/v3/editorial/7/3b/73b47508-662a-5d8e-a646-636971f74716/61523f24dd8d4.image.jpg?resize=945%2C630"
+        width: 945
         height: 630
         isCached: true
 

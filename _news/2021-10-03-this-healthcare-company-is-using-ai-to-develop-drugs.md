@@ -3,8 +3,8 @@ category: news
 title: "This Healthcare Company Is Using AI to Develop Drugs"
 excerpt: "L ife sciences company Schrödinger (NASDAQ: SDGR) has developed software that could help drug companies develop medicine using artificial intelligence and physics, and it's already being used by a number of big-name pharma companies."
 publishedDateTime: 2021-10-03T12:15:00Z
-originalUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?time=1633263301"
-webUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?time=1633263301"
+originalUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03"
+webUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03"
 ampWebUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp"
 type: article
@@ -200,6 +200,6 @@ related:
         height: 633
         isCached: true
 
-secured: "uFVk1zercL2e0sleILpQxCUDRjEZa2KccWDnr1fFgGL8bKubcSIqhGZlC8C+oLFUft771EFs/yZaKO3tvbJ6UUunTrPgcWxFRoaYbmlFJw3pI1NXJUp2Tw5+9Yr7hPZQ1XOC6lED/NCrsiAEH9k52Q1o7NEJWAr438gBgefWZs375WAi59OEmMRfTXkN9BKhcELSYC5CwdIRWk/P0hXNYEjEcpWzlzGk73HWQwPMwtSraZGIlhqPuFdDnlMtKEmDJqB89VSk/iMgCFRTEvC8CGFeYdQfmGUNsj1h5/mBA/NyCwX7B74wltUAAb0dvJ0qgiTNCT6CAlbot/d3Cjl8Qj+LjeTtLHMyFAXHmDePKf4=;K2kUJmoWemCCEXRhFG6WkA=="
+secured: "rS5lST6GWzDyfpizRi2K8ZqpdcXdv9AFlXYw9Wq6TJIA/T7WbT+Lgd4MCy49Z/ZeVhn0oO5pAd38Dp+bM50PLZZthUc/xgHGLVBNtz6tSA6Nk5P/qEguilYmL3f5ZTSMSTEqX3GHBBB4QQ8WP57K/YPmAEPaLBYr1K5Fqn2VMcGhv2SEc+jn6EA0VqFNfPkToW56hYfa++UM6lrEQtTTFX9v4bmNcUwEK9u4xyzJKE/QPLR+honjPTH1xlZLuRyh3gkJZs3MJkck3njJm7j7eDGDufgXVPfiq9ZBoOrIDn7zYVQ4zDaVWKVf1aPlhc3ncoWr2g5MAO8ypxoRbZrBbyx3C3tW+PVxpJaWuOLkVFc=;zYGgNKNgRk09/qcWGu1pAg=="
 ---
 

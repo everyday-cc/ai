@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.bahrainthisweek.com/wp-content/uploads/2021/09/Official-893x1024.jpg"
         width: 893
         height: 1024
-        isCached: true
-  - title: "M2P Fintech expands its product offering by acquiring Origa.ai."
-    excerpt: "M2P Fintech, an Asian API infrastructure company, has acquired Origa.ai to bolster its technology capabilities around the new-age collection."
-    publishedDateTime: 2021-09-30T10:24:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/m2p-fintech-expands-its-product-offering-by-acquiring-origa-ai/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/WK_Sep2021@2x.png"
-        width: 401
-        height: 401
         isCached: true
   - title: "Key Ways Fintech is Transforming Investment Banking"
     excerpt: "The conventional investment banking business has struggled to adapt to legacy technology, but as the digital revolution sweeps across finance, now is the moment to shift. Fremont, CA: FinTech will change investment banking in various ways,"

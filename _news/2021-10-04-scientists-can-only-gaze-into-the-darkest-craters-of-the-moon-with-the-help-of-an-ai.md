@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sciencealert.com/only-the-ai-horus-is-capable-of-gazing-
 cdnAmpWebUrl: "https://www-sciencealert-com.cdn.ampproject.org/c/s/www.sciencealert.com/only-the-ai-horus-is-capable-of-gazing-into-the-moon-s-darkest-craters/amp"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -24,6 +24,19 @@ images:
     width: 700
     height: 254
     isCached: true
+
+related:
+  - title: "AI experts peer into black, shadowed craters on the Moon"
+    excerpt: "What’s inside those dark spots on the lunar surface?"
+    publishedDateTime: 2021-10-04T18:15:00Z
+    webUrl: "https://omaha.com/news/science/ai-experts-peer-into-black-shadowed-craters-on-the-moon/video_5463f9e6-29ab-5366-b242-e60365697792.html"
+    ampWebUrl: "https://omaha.com/news/science/ai-experts-peer-into-black-shadowed-craters-on-the-moon/video_5463f9e6-29ab-5366-b242-e60365697792.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/science/ai-experts-peer-into-black-shadowed-craters-on-the-moon/video_5463f9e6-29ab-5366-b242-e60365697792.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 37
 
 secured: "9dbYatfBFXPE/iQDsuUrilroTlPUOVjBcOsT9E5TJi99qgHoe+9Ut18DpGN/PnkzXEs8Za5g9dUqzhvHnmWkJwBEFwuzT0bXmomM4SBoxIWF8Wy0ga0u+1CuXgiQNo7BNcIvnDK+7udllmKkX0xadaGHPgabFmSUCqO0mRqeMX6EyqKftQlliEi4WVic79LxqfxEDlh9hR4Lz4CCpXCsoMGGOavfzd5rwX5elYTvjyGwMIb309LiZw/StujZRV0PIamYtPgF1r1+6EArKkorRdNFnbIa/94pfcSqERZra6pa5G3RWvU7vCVJw5oSNeVAZ0Sxti1ul4w/nFuBZR6CyDOp7IAJlkmuNKWLBqj3i/g=;EHg7nsettlgKND60hcXDCw=="
 ---

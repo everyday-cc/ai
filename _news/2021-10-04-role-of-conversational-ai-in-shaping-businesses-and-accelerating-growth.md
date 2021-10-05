@@ -20,20 +20,17 @@ topics:
   - AI
 
 related:
-  - title: "Accelerating Business Results From Machine Learning"
-    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-    publishedDateTime: 2021-10-03T21:00:00Z
-    webUrl: "https://www.computerworld.com/resources/225356/accelerating-business-results-from-machine-learning"
+  - title: "Continental and Horizon Robotics JV accelerates commercialisation AI technology"
+    excerpt: "Technology company Continental, and one of the global leaders in edge Artificial Intelligence (AI) computing platforms Horizon Robotics signed a Joint Venture (JV) contract, focusing on providing hardware and software integrated solutions for Advanced Driver Assistance Systems and automated driving."
+    publishedDateTime: 2021-10-05T03:12:00Z
+    webUrl: "https://www.manufacturingtodayindia.com/sectors/11675-continental-and-horizon-robotics-jv-accelerates-commercialisation-ai-technology"
+    ampWebUrl: "https://www.manufacturingtodayindia.com/sectors/11675-continental-and-horizon-robotics-jv-accelerates-commercialisation-ai-technology?amp"
+    cdnAmpWebUrl: "https://www-manufacturingtodayindia-com.cdn.ampproject.org/c/s/www.manufacturingtodayindia.com/sectors/11675-continental-and-horizon-robotics-jv-accelerates-commercialisation-ai-technology?amp"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 39
-    images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-        width: 300
-        height: 300
-        isCached: true
+      name: manufacturingtodayindia
+      domain: manufacturingtodayindia.com
+    quality: 65
 
 secured: "MGawEH0oOmbQSaDd5oGDKaSgig+EvXc+6yv0ppDvagd0JizGn4U0ZO8VjfS/rw8Uixv6FFVBY97oSxp+15OkLfbm9oxYPt/P7k3CcharHMRALJ81+XKLmqCHZlvP3dAZZqL2Qmj9HIYeezKjuNpcQxdDyBVbRIUgTUaKPAKVt2bFWM+3GRZSmrxQZQKbGxHkuRH4oafMjz1ogapVQZGAcjoOF1NG5rDCguknv7j//e4gw5irSEIyE8j829EXKD95uRRddlMCakJurVjEHo4ou6VocjBqjVh1UGdegpCWzuhihaqnTSEK0/z9gRML9IEoCJ98hZYvoGiddNIdB41fMndzo7R4/2wnA1pgOtNK2xXZKhF1IeqtayI4+Q0EPhgRUoFV7wMmvSxMeBKI/g9sDKUBg4cnWQjyH3RzSgrVh9udoa/xbq+j82m7I1syHlcOdQeFdHFvNni7hg15TICWa79jAog8VWgMZOaHNOCJwPq1UHxL1dYvLJg89fWXS/nuO3a2J7OAL1+MDN+MxTVhZQ==;PLh5louzZwqJLl49MDM3qw=="
 ---

@@ -2,6 +2,126 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-09-23-conversational-ai-startup-gnaniai-launches-voice-biometrics-software.md",
+      "title": "Conversational AI startup Gnani.ai launches voice biometrics software",
+      "excerpt": "Gnani.ai, conversational AI and voice security domain, announced the launch of its home-grown Voice Biometrics software. Christened armour365™, the biometric solution claims to cater to new and emerging risks",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/",
+      "originalUrl": "https://www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2017/07/Fraud.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/conversational-ai-startup-gnani-ai-launches-voice-biometrics-software/amp/",
+      "publishedDateTime": "2021-09-23T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-artificial-intelligence-for-edge-devices-market-is-booming-worldwide-alibaba-mobileye-google.md",
+      "title": "Artificial Intelligence for Edge Devices Market Is Booming Worldwide | Alibaba, Mobileye, Google",
+      "excerpt": "AMA Research recently released research coverage on Global Artificial Intelligence for Edge Devices Market that evaluates and provides market size, trend, and estimation to 2026. The Artificial Intelligence for Edge Devices market study provides ready-to-access and self-analyzed study with significant research data proves to be a useful document for managers,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/artificial-intelligence-for-edge-devices-market-is-booming-worldwide-alibaba-mobileye-google/",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-for-edge-devices-market-is-booming-worldwide-alibaba-mobileye-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-for-edge-devices-market-is-booming-worldwide-alibaba-mobileye-google/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-for-edge-devices-market-is-booming-worldwide-alibaba-mobileye-google/",
+      "publishedDateTime": "2021-09-23T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-national-ai-strategy-can-the-uk-be-the-superpower-it-imagines-itself-to-be.md",
+      "title": "National AI Strategy - can the UK be the superpower it imagines itself to be?",
+      "excerpt": "Does Whitehall have the human intelligence, expertise, and skills to make the UK’s new National AI Strategy work?",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be",
+      "originalUrl": "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2019-11/AAE94690-8272-4B0C-B0F8-0BD74D98E409.jpeg",
+          "width": 640,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be?amp",
+      "publishedDateTime": "2021-09-23T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-ai-ethics-is-growing-up-towards-an-ai-maturity-model-organizations-can-use.md",
       "title": "AI ethics is growing up - towards an AI maturity model organizations can use",
       "excerpt": "When it comes to AI lessons organizations can use, the AI ethics punditry has been spinning its wheels. But there's good news: AI maturity models are emerging.",
@@ -1033,143 +1153,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-uk-announces-a-national-strategy-to-level-up-ai.md",
-      "title": "UK announces a national strategy to ‘level up’ AI",
-      "excerpt": "The UK government has announced a national AI strategy — its first dedicated package aimed at boosting the country’s capabilities in and around machine learning technologies over the longer term. It says it hopes the strategy will lead to an increase in the number and types of AIs",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/22/uk-announces-a-national-strategy-to-level-up-ai/",
-      "originalUrl": "https://techcrunch.com/2021/09/22/uk-announces-a-national-strategy-to-level-up-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1136663877.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/22/uk-announces-a-national-strategy-to-level-up-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/uk-announces-a-national-strategy-to-level-up-ai/amp/",
-      "publishedDateTime": "2021-09-22T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-a-machine-learning-algorithm-to-target-covid-testing-of-travellers.md",
-      "title": "A machine-learning algorithm to target COVID testing of travellers",
-      "excerpt": "Optimizing the testing of incoming travellers for COVID-19 involves predicting those who are most likely to test positive. A machine-learning algorithm for targeted testing has been implemented at the Greek border.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-021-02556-w",
-      "originalUrl": "https://www.nature.com/articles/d41586-021-02556-w",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-02556-w/d41586-021-02556-w_19664468.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-22T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-greece-used-ai-to-curb-covid-what-other-nations-can-learn.md",
-      "title": "Greece used AI to curb COVID: what other nations can learn",
-      "excerpt": "Governments are hungry to deploy big data in health emergencies. Scientists must help to lay the legal, ethical and logistical groundwork.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-021-02554-y?error=cookies_not_supported&code=f43962d3-2a13-4ce9-808b-ac6b8e509e31",
-      "originalUrl": "https://www.nature.com/articles/d41586-021-02554-y?error=cookies_not_supported&code=8f4770f9-ab1c-4cd2-b94a-d51946023835",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-02554-y/d41586-021-02554-y_19678478.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-22T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

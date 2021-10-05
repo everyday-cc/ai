@@ -27,51 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI can predict if it will rain in two hours' time"
-    excerpt: "Artificial intelligence can tell whether it is going to rain in the next two hours, research suggests. Scientists at Google-owned London AI lab DeepMind and the University of Exeter partnered with the Met Office to build the so-called nowcasting system."
-    publishedDateTime: 2021-09-30T10:56:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-58748934?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-58748934.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-58748934.amp"
+  - title: "Using deep generative radar models to predict rainfall over following 90 minutes"
+    excerpt: "A team of researchers at Google's DeepMind, working with a group at the U.K.s Met Office, has applied their knowledge of deep learning methods to the science of \"nowcasting\"—predicting whether it will rain in a given place in the following two hours."
+    publishedDateTime: 2021-09-30T15:00:00Z
+    webUrl: "https://techxplore.com/news/2021-09-deep-radar-rainfall-minutes.html"
+    ampWebUrl: "https://techxplore.com/news/2021-09-deep-radar-rainfall-minutes.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-deep-radar-rainfall-minutes.amp"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 56
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1428E/production/_120747528_whatsubject.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Google develops AI that can accurately predict if it will rain in the next 90 ..."
-    excerpt: "Experts at Google's London-based DeepMind company have created a 'nowcasting' system which they claim is more accurate at predicting rain within the"
-    publishedDateTime: 2021-09-30T12:01:00Z
-    webUrl: "https://en.mogaznews.com/Technology/1838298/Google-develops-AI-that-can-accurately-predict-if-it-will-rain-in-the-next-90-.html"
-    ampWebUrl: "https://en.mogaznews.com/Technology/amp/1838298"
-    cdnAmpWebUrl: "https://en-mogaznews-com.cdn.ampproject.org/c/s/en.mogaznews.com/Technology/amp/1838298"
-    type: article
-    provider:
-      name: en.mogaznews.com
-      domain: mogaznews.com
-    quality: 54
-    images:
-      - url: "https://en.mogaznews.com/temp/resized/medium_2021-09-30-5807097d22.jpg"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Tech Digest daily roundup: AI can tell if it’s going to rain in next 2 hours"
-    excerpt: "AI can tell whether it's going to rain in next two hours. Scientists at DeepMind and the University of Exeter partnered with the Met Office"
-    publishedDateTime: 2021-10-01T09:35:00Z
-    webUrl: "https://www.techdigest.tv/2021/10/tech-digest-daily-roundup-ai-can-tell-if-its-going-to-rain-in-next-2-hours.html"
-    type: article
-    provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 36
-    images:
-      - url: "https://www.techdigest.tv/wp-content/uploads/2021/10/Screenshot-2021-10-01-at-10.19.36.png"
-        width: 1194
-        height: 639
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/severeweather.jpg"
+        width: 1920
+        height: 1120
         isCached: true
 
 secured: "iiqs2bnv4qUiH4NRBbdDmwvr+U5G4nhcNWQM06nlNLbZi69vd5vD4yNkKxWT9iI8EaPFJiLOouNDWz2VYNKi4zyh6+EryFK2wPHI0UovK4UGfG3T134jP/ntGy2BfBk07lSvVi/FuqZwUywZ8JsBLSZoeJox2NW1rRSShdBG9SWFn4eV6132b097NMI2uwW2a7un6PJnbB3kBERzaguFcREn3Q5BZR+5d1jx2ZxR7Gmq5Rf2fOC+p8mQ0cpvTbUFl5N3GTaM9e2/hX1xxYjQhVSeqr/YxqL8o4RItAFIGkewrDju8UQIXf4qMTCsC/feGN6PKBZJFJ0Dr5AEUairQZpiiO9YDtiy0PsiZJQyHjlMMK7IYG9vExmyUa3d0rdTuyNqC2ZDMWv5pbj2jHwrbaUS+EVHo+f19r4tBWMXhOIyFUZdwXyyeD7GvJb203vVkUnuPK7jxYWwO5Eh/exDZoL14mfCk2yWR30HMg1Gz8y3k1JVS6jIHgApIXshQrGHRU3wT6zJ9rIWwJ/6VxYKCQ==;f8ZoNrlV3a03bIszd8OcKg=="

@@ -43,6 +43,20 @@ related:
         width: 550
         height: 367
         isCached: true
+  - title: "IIFL Fintech Fund backs AI startup Data Sutram"
+    excerpt: "Extrapolate Advisors Pvt Ltd, which runs the Kolkata-based AI startup Data Sutram, has raised funding for an undisclosed amount"
+    publishedDateTime: 2021-10-01T07:39:00Z
+    webUrl: "https://www.vccircle.com/iifl-fintech-fund-backs-ai-startup-data-sutram"
+    type: article
+    provider:
+      name: VCCircle
+      domain: vccircle.com
+    quality: 39
+    images:
+      - url: "https://assets.vccircle.com/uploads/2019/05/Fundingrf2.jpg"
+        width: 810
+        height: 506
+        isCached: true
 
 secured: "s5lJa42hUnAAfmZXShttyPQGQBcNRoXPxi0AKIrA9KIQX/EQx4pKxlkVCY7HuZC/G/LTbDD3EZ09YENTKxuNIXM0gcreWRdr5orY6n+8M0Y+o7TbWkvldk0IGmmgBkWmKjx/aXi8d/+8qo8l5iIWfCwaVgQLzCCw/m98pSPXvGTM5GHX6qZPs7TX2Wf1N0zTioJa9vIJ1Skg6tNfWrj9NrSvzhp+ku520Yk/mNHdmMgz232fAOV+dwMeb5LZw5y+ktqfZfFAe6sYFFlCIVLbIEo4blFSflDC2uk71LTjuWOhB5MDQdVJvtUqLbNpDL+Q7mVK4MIMnKbow5i5IY9V66cZhOS4AYoFHUNVyOio10O7sl6Fm45PlvaRi12vhWBjIA3IVNiH3bP76sEZ6Yutc3IfWDba0WsFXGq/cGsUSrqVoTF1JObyzJmQz9tnZh8uYN64wAmzj4rV6xf4/wimhZNhqBDdv2Kacad5OEZABZv9brszzniKKoRX/B4Z6/ezx7EzmTJaLkeSSJl0HUO4LQ==;ca5y5d/3/5hs5b4b3Yy7kw=="
 ---

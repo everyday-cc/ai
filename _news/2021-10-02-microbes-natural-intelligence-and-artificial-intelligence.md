@@ -9,7 +9,7 @@ ampWebUrl: "https://www.scientificamerican.com/article/microbes-natural-intellig
 cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/microbes-natural-intelligence-and-artificial-intelligence/?amp=true"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Development of AI, character intelligence should occur concomitantly"
-    excerpt: "Education, Culture, Research, and Technology Minister Nadiem Makarim called for side-by-side development of artificial intelligence (AI) and character"
-    publishedDateTime: 2021-09-30T09:37:00Z
-    webUrl: "https://en.antaranews.com/news/191793/development-of-ai-character-intelligence-should-occur-concomitantly"
-    ampWebUrl: "https://en.antaranews.com/amp/news/191793/development-of-ai-character-intelligence-should-occur-concomitantly"
-    cdnAmpWebUrl: "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/191793/development-of-ai-character-intelligence-should-occur-concomitantly"
+  - title: "Pursue AI and Data Science at JNTU-H"
+    excerpt: "Hyderabad: Starting this academic year, engineering students, particularly those from conventional branches of the Jawaharlal Nehru Technological University-Hyderabad (JNTU-H) will be allowed to do Honours and Minor programmes in emerging technologies like Data Science and Artificial Intelligence among other areas."
+    publishedDateTime: 2021-10-03T18:22:00Z
+    webUrl: "https://telanganatoday.com/pursue-ai-and-data-science-at-jntu-h"
     type: article
     provider:
-      name: Antara News
-      domain: antaranews.com
-    quality: 57
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 37
     images:
-      - url: "https://img.antaranews.com/cache/800x533/2021/09/30/nads.png"
-        width: 800
-        height: 533
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2021/10/JNTU.jpg"
+        width: 1200
+        height: 801
         isCached: true
 
 secured: "6EJaQqUZKJ0Rsi7eXmjT59sp13rEJpNB7hOAQwWR7mb14AIg9xDAS1a/Gkd5MOHcf8b6IB5QkOVZQWD68dGno8Gq4DzGUb0OQvbNH1PT/7VsKUtf8g/aonNsnVMpcEmx1SuFGG94wJ+/97S88QtWQL28zlz8HiowW4pCgk0GzHQpJ9GNbcvJnFGbL/3nJIpMrf3FiOjQ+wMON9LYP4JAIlJrRzN/xmVUy6cndOqPqgGd587wUZ5bNVbgfaUWRg1P5zknBp3MSYLNr1S2s5EiJ58pWX5/vOQVqZmzLrYT1ENfrycv9InuF8YGPlcO16FLGqlC9BDnhLBKxe+s+69H/WW5GR6FtpkcG9fzeKtmEdVNFJOPAh9+hooONUzqSLxd6tVsDfKSISTmuU3ubeKFsZnj5/X06XASslRftLjjVviULqxjWWiN1WxZnnSaPATG+HJkHxWL7ebn/KoXaEine/FNcXIaEJSQWPuQi7ranr3ERG0x0E/cn3cg9FX/tKlorI6hyA5rPqsCOOeSPAoCag==;R9D6Dex5KgpoKFS3Eto4fQ=="

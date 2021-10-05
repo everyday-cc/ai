@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcinvasion.com/amd-30x-increase-efficiency-by-2025/amp/"
 cdnAmpWebUrl: "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/amd-30x-increase-efficiency-by-2025/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AMD announces '30x by 2025' AI and HPC efficiency goal"
-    excerpt: "AMD has announced its ambition to increase the energy efficiency of processors running AI training and high performance computing applications 30x by 2025. Industry-wide we expect efficiency improvements in the same timescale,"
-    publishedDateTime: 2021-09-30T09:11:00Z
-    webUrl: "https://hexus.net/tech/news/industry/148445-amd-announces-30x-2025-ai-hpc-efficiency-goal/"
-    type: article
-    provider:
-      name: Hexus
-      domain: hexus.net
-    quality: 39
-    images:
-      - url: "https://hexus.net/media/uploaded/2021/9/df182448-0791-46ed-b08f-12f83a1e553b.jpg"
-        width: 515
-        height: 221
-        isCached: true
   - title: "AMD Wants to Improve AI, HPC Efficiency 30x by 2025"
     excerpt: "AMD has announced a major new efficiency initiative that’s intended to build off its previous 25×20 project. The company will now work to deliver a 30x improvement in energy efficiency in AI and high performance computing overall,"
     publishedDateTime: 2021-09-30T11:30:00Z

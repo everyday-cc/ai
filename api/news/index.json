@@ -2,6 +2,83 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-05-continental-and-horizon-robotics-jv-accelerates-commercialisation-ai-technology.md",
+      "title": "Continental and Horizon Robotics JV accelerates commercialisation AI technology",
+      "excerpt": "Technology company Continental, and one of the global leaders in edge Artificial Intelligence (AI) computing platforms Horizon Robotics signed a Joint Venture (JV) contract, focusing on providing hardware and software integrated solutions for Advanced Driver Assistance Systems and automated driving.",
+      "sourceUrl": null,
+      "webUrl": "https://www.manufacturingtodayindia.com/sectors/11675-continental-and-horizon-robotics-jv-accelerates-commercialisation-ai-technology",
+      "originalUrl": "https://www.manufacturingtodayindia.com/sectors/11675-continental-and-horizon-robotics-jv-accelerates-commercialisation-ai-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.manufacturingtodayindia.com/sectors/11675-continental-and-horizon-robotics-jv-accelerates-commercialisation-ai-technology?amp",
+      "cdnAmpWebUrl": "https://www-manufacturingtodayindia-com.cdn.ampproject.org/c/s/www.manufacturingtodayindia.com/sectors/11675-continental-and-horizon-robotics-jv-accelerates-commercialisation-ai-technology?amp",
+      "publishedDateTime": "2021-10-04T20:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manufacturingtodayindia",
+        "domain": "manufacturingtodayindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-city-council-votes-against-ato-rezoning-bans-facial-recognition-technology.md",
+      "title": "City Council votes against ATO rezoning, bans facial recognition technology",
+      "excerpt": "Over 150 people tuned into a WebEx meeting Monday night, most of whom were adamantly against the rezoning of the historic Alpha Tau Omega fraternity house. The West Lafayette City",
+      "sourceUrl": null,
+      "webUrl": "https://www.purdueexponent.org/campus/article_cbf32164-2584-11ec-807a-3fedbb2144b3.html",
+      "originalUrl": "https://www.purdueexponent.org/campus/article_cbf32164-2584-11ec-807a-3fedbb2144b3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/purdueexponent.org/content/tncms/assets/v3/editorial/d/d7/dd7c8dbe-8097-5727-850f-b8ccbd26d4d7/6147ab750e669.image.jpg?resize=945%2C630",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T19:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Purdue Exponent",
+        "domain": "purdueexponent.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-clearview-ai-says-it-can-do-the-computer-enhance-thing.md",
       "title": "Clearview AI Says It Can Do the ‘Computer Enhance’ Thing",
       "excerpt": "The co-founder and CEO of the sketchy face-recognition firm, Hoan Ton-That, says it's working on \"deblur\" and \"mask removal\" tools.",
@@ -644,48 +721,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-04-5-ways-learning-data-science-ai-can-help-you-succeed-in-your-career.md",
-      "title": "5 ways learning Data Science, AI can help you succeed in your career",
-      "excerpt": "In response to the COVID-19 pandemic and acceleration of digitalisation, companies across the world have increased investments in artificial intelligence (AI) and data science (DS). An array of new-age",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/5-ways-learning-data-science-ai-can-help-you-succeed-in-your-career/",
-      "originalUrl": "https://www.dqindia.com/5-ways-learning-data-science-ai-can-help-you-succeed-in-your-career/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/09/AI-is-great-data-is-even-better1.jpg",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/5-ways-learning-data-science-ai-can-help-you-succeed-in-your-career/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/5-ways-learning-data-science-ai-can-help-you-succeed-in-your-career/amp/",
-      "publishedDateTime": "2021-10-04T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-04-review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.md",
       "title": "Review: Google Cloud Vertex AI irons out ML platform wrinkles",
       "excerpt": "Vertex AI greatly improves the integration of Google Cloud’s AI/ML platform and AutoML services, combining a new unified API with very good modeling capabilities.",
@@ -1117,49 +1152,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-03-have-you-spotted-these-robots-around-expo-2020-dubai.md",
-      "title": "Have you spotted these robots around Expo 2020 Dubai?",
-      "excerpt": "The one-metre-tall orange-coloured robot is the official mascot and guardian of Mission Possible — The Opportunity Pavilion — you can find him around the walkways of Expo 2020 Dubai, dancing with his buddies and cracking a few jokes.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/expo-2020/experience-the-uae/have-you-spotted-these-robots-around-expo-2020-dubai-1.82706158",
-      "originalUrl": "https://gulfnews.com/expo-2020/experience-the-uae/have-you-spotted-these-robots-around-expo-2020-dubai-1.82706158",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2021/10/03/RDS-ROBOT-EXPO-1633277737978_17c46f07c05_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/expo-2020/experience-the-uae/have-you-spotted-these-robots-around-expo-2020-dubai-1.82706158",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/expo-2020/experience-the-uae/have-you-spotted-these-robots-around-expo-2020-dubai-1.82706158",
-      "publishedDateTime": "2021-10-03T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

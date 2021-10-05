@@ -41,20 +41,6 @@ related:
         width: 787
         height: 558
         isCached: true
-  - title: "AMD announces '30x by 2025' AI and HPC efficiency goal"
-    excerpt: "AMD has announced its ambition to increase the energy efficiency of processors running AI training and high performance computing applications 30x by 2025. Industry-wide we expect efficiency improvements in the same timescale,"
-    publishedDateTime: 2021-09-30T09:11:00Z
-    webUrl: "https://hexus.net/tech/news/industry/148445-amd-announces-30x-2025-ai-hpc-efficiency-goal/"
-    type: article
-    provider:
-      name: Hexus
-      domain: hexus.net
-    quality: 39
-    images:
-      - url: "https://hexus.net/media/uploaded/2021/9/df182448-0791-46ed-b08f-12f83a1e553b.jpg"
-        width: 515
-        height: 221
-        isCached: true
 
 secured: "VHGfkD4LndnqK2AYWEZ0h3cttWQ4wo84Jv728U4Kgc0hRnCVCXRG0i9A8insQjDDds+Wi81DGi68l0t8nxYzzailOqid9AFdXvSQslLQvC945l2bAyEl9M2EEK5jqX8IUJbfV4fwaKkCOtgOJIEmBlj09ivoxYjN12zWbtBuSB9NIJizCj/wLgW9UodjVXXPAPM8PWJU0ufxw4IdR2jEVI/4TeTmGHNqD+7OP0gbOiFgefG/NI4ZwLeqBFN2ganQH8/EjXX++Le42R2sDD4sUni6byl1EjRO8fEUvRxhz8uCp8+IAEvkUBtsRvbZ89Ksb+wMdI8U2v48YMa+YLWfHgA4q73974i0+Yrz42IwcvBZSBs8bGwyg22FFoSYxI8ierkqLapgQwB6pvlToCkwjF/fMiFN31hm08kAkWYLKV3dFaaLtuRCe3gOkhh5oQ8Vz1ZUFR8MwOr8lPqIWo229+Vpim4v2qSrfkmHWCbiQoYW3U7w1Kt0klTWp0cGGwBVUgirz8tQT7vRHWxpvrdcug==;ZZw0FCFMndcuX6inyx4muw=="
 ---

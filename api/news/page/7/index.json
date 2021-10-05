@@ -2,6 +2,152 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-09-28-zoomtopia-2021-ai-and-video-to-power-healthcare-financial-services.md",
+      "title": "Zoomtopia 2021: AI and Video to Power Healthcare, Financial Services",
+      "excerpt": "At the recent Zoomtopia, the company spotlighted how video and artificial intelligence will great boost the process of digital transformation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/cloud/zoomtopia-2021/",
+      "originalUrl": "https://www.eweek.com/cloud/zoomtopia-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/09/Zoom-White.jpg",
+          "width": 1032,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-adobe-adds-ai-powered-masking-tools-to-lightroom.md",
+      "title": "Adobe adds AI-powered masking tools to Lightroom",
+      "excerpt": "Adobe has revealed some new masking upgrades that are coming to Lightroom, Lightroom Classic and Adobe Camera Raw (or ACR, Photoshop's raw photo processing tool). The company calls it the \"biggest change to providing control over selectively enhancing photos\" since it released Lightroom 2 in 2008.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/adobe-camera-raw-lightroom-classic-mask-features-ai-160056644.html",
+      "originalUrl": "https://www.engadget.com/adobe-camera-raw-lightroom-classic-mask-features-ai-160056644.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/0SAt8C3pZMiN3YYNcl6KTg--~B/Zmk9ZmlsbDtoPTQ1MDt3PTY3NTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2021-09/6bcedf10-2068-11ec-afd7-f6730c12cb32.cf.jpg",
+          "width": 675,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-amid-rapid-adoption-paravision-unveils-new-computer-vision-capabilities-making-face.md",
+      "title": "Amid Rapid Adoption, Paravision Unveils New Computer Vision Capabilities, Making Face ...",
+      "excerpt": "Paravision, the U.S.-based leader in mission-critical face recognition and computer vision, today announced an array of new and updated products that make face recognition solutions faster, more accurate and secure,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-microsoft-launches-data-governance-service-azure-purview-in-general-availability.md",
       "title": "Microsoft launches data governance service Azure Purview in general availability",
       "excerpt": "Microsoft announced the launch of Azure Purview, a unified data governance solution for on-premises, cloud, and app-based systems. Today marks the broadened availab",
@@ -678,15 +824,15 @@
       "title": "Speech Processing Solutions (SPS) becomes a Nuance Dragon Medical One Distributor in Europe and Asia Pacific Region",
       "excerpt": "Speech Processing Solutions (SPS), a leader in professional dictation, has announced they are joining forces with Nuance Communications as an official distributor of Nuance Dragon Medical One, the leading cloud-based speech recognition solution for clinical documentation,",
       "sourceUrl": null,
-      "webUrl": "https://www.valdostadailytimes.com/news/business/speech-processing-solutions-sps-becomes-a-nuance-dragon-medical-one-distributor-in-europe-and-asia/article_4d3a3436-5b19-52cb-bce3-24c520804160.html",
-      "originalUrl": "https://www.valdostadailytimes.com/news/business/speech-processing-solutions-sps-becomes-a-nuance-dragon-medical-one-distributor-in-europe-and-asia/article_4d3a3436-5b19-52cb-bce3-24c520804160.html",
+      "webUrl": "https://www.fltimes.com/business/national/speech-processing-solutions-sps-becomes-a-nuance-dragon-medical-one-distributor-in-europe-and-asia/article_339cb7b4-c942-5e55-9529-dc9747b27fc8.html",
+      "originalUrl": "https://www.fltimes.com/business/national/speech-processing-solutions-sps-becomes-a-nuance-dragon-medical-one-distributor-in-europe-and-asia/article_339cb7b4-c942-5e55-9529-dc9747b27fc8.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/3/05/30589f4e-4ebb-5dda-857d-2b319a9fbeeb/6152c508e11a1.image.jpg?resize=840%2C630",
+          "url": "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/e/43/e4305dae-7d56-5911-9c31-673fb3f58c9d/6152c1705fa0e.image.jpg?crop=1662%2C1247%2C0%2C0&resize=840%2C630&order=crop%2Cresize",
           "width": 840,
           "height": 630,
           "title": null,
@@ -701,8 +847,8 @@
       "publishedDateTime": "2021-09-28T00:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "valdostadailytimes.com",
+        "name": "Finger Lakes Times",
+        "domain": "fltimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1051,135 +1197,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain.md",
-      "title": "Samsung Wants To Make An AI Chip That Mimics The Human Brain",
-      "excerpt": "Samsung, together with researchers from Harvard University, have published a paper that puts forth their idea of making neuromorphic chips, semiconductor technology that mimics the human brain by \"copying and pasting\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/",
-      "originalUrl": "https://www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lowyat.net/wp-content/uploads/2021/09/Brain-computer-network.jpg",
-          "width": 1040,
-          "height": 693,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/amp/",
-      "cdnAmpWebUrl": "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/amp/",
-      "publishedDateTime": "2021-09-27T17:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lowyat.net",
-        "domain": "lowyat.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-artificial-intelligence-the-challenge-for-air-and-space-power.md",
-      "title": "Artificial Intelligence – The Challenge for Air and Space Power",
-      "excerpt": "In this series of blogs, Professor Patrick Baker, takes a deep dive into the world of Artificial Intelligence (AI), the challenges it presents in a defence context, and its potential contributions to air and space power.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kcl.ac.uk/artificial-intelligence-the-challenge-for-air-and-space-power",
-      "originalUrl": "https://www.kcl.ac.uk/artificial-intelligence-the-challenge-for-air-and-space-power",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kcl.ac.uk/newimages/sspp/security/generalschool/feature-800-430/hand-and-robot.x7b5aba48.png?f=webp",
-          "width": 780,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "kcl.ac.uk",
-        "domain": "kcl.ac.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-brainchip-goes-virtually-everywhere-at-ai-everywhere-forum-2021.md",
-      "title": "BrainChip Goes Virtually Everywhere at AI Everywhere Forum 2021",
-      "excerpt": "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology, today announced that Vice President of Worldwide Sales Rob Telson will present “Intelligent AI Everywhere” at the AI Everywhere Forum September 28 at 1:15 p.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-brainchip-holdings-ltd-5e8d200749cc445e8620e9cd9502b40e",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-brainchip-holdings-ltd-5e8d200749cc445e8620e9cd9502b40e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T16:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

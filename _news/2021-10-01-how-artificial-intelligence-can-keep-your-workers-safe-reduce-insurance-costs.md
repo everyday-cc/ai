@@ -40,20 +40,6 @@ related:
         width: 800
         height: 420
         isCached: true
-  - title: "Pursue AI and Data Science at JNTU-H"
-    excerpt: "Hyderabad: Starting this academic year, engineering students, particularly those from conventional branches of the Jawaharlal Nehru Technological University-Hyderabad (JNTU-H) will be allowed to do Honours and Minor programmes in emerging technologies like Data Science and Artificial Intelligence among other areas."
-    publishedDateTime: 2021-10-03T18:22:00Z
-    webUrl: "https://telanganatoday.com/pursue-ai-and-data-science-at-jntu-h"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 37
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2021/10/JNTU.jpg"
-        width: 1200
-        height: 801
-        isCached: true
 
 secured: "YhkgQAc+EQe+g8VqEkXSfwMtn83h3GUzrKm8w7tG3RbPIiM5l5O3TsYj9YQXH+IzrD+E7+7z7axPe00U3FpKqg0yaeDd692gizucNJFe+b+eVKHgQybPCAD8hkP77gZjKtPzmnku53kvUzbqRdXfbEL8mk+RW2D0ywpgiDlAiMW4D8SizHGkp0rW96XsLohv7njptXo3d0OYO4QFQ9VJNN7GgKrGsM8cOjINcHgATDcjORknLPNDC/pIcWI00pWuFFB4moP+UKz70fFc7uEgGrUOFLntdG9HqfDjj90Fh5qw/KuyN3oZ65WjWOBdpiSK3Reh20RCeqd298G0L0VjVepBN8Sz/dDs0VJTPINs/gofdZUHsSOuEznMABXC6yTL7fPpyH9eNXAvqyby25p4Ndho4MuwWv1LNkQ6731itw2Qy9c6geRmu22ZyZcmAaah1YCdKLRPfLe4FdoLRlk3vyb4a3aIeJA/+8aQ+IfZjQ31i/FHnIVs6+0Of4OIl2wjIIWqMdhN/HgT6tCUiSFrCQ==;SfSBKKcU8QwTPrseplsBlA=="
 ---

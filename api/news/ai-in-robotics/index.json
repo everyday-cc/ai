@@ -2,6 +2,40 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-05-continental-and-horizon-robotics-jv-accelerates-commercialisation-ai-technology.md",
+      "title": "Continental and Horizon Robotics JV accelerates commercialisation AI technology",
+      "excerpt": "Technology company Continental, and one of the global leaders in edge Artificial Intelligence (AI) computing platforms Horizon Robotics signed a Joint Venture (JV) contract, focusing on providing hardware and software integrated solutions for Advanced Driver Assistance Systems and automated driving.",
+      "sourceUrl": null,
+      "webUrl": "https://www.manufacturingtodayindia.com/sectors/11675-continental-and-horizon-robotics-jv-accelerates-commercialisation-ai-technology",
+      "originalUrl": "https://www.manufacturingtodayindia.com/sectors/11675-continental-and-horizon-robotics-jv-accelerates-commercialisation-ai-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.manufacturingtodayindia.com/sectors/11675-continental-and-horizon-robotics-jv-accelerates-commercialisation-ai-technology?amp",
+      "cdnAmpWebUrl": "https://www-manufacturingtodayindia-com.cdn.ampproject.org/c/s/www.manufacturingtodayindia.com/sectors/11675-continental-and-horizon-robotics-jv-accelerates-commercialisation-ai-technology?amp",
+      "publishedDateTime": "2021-10-04T20:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manufacturingtodayindia",
+        "domain": "manufacturingtodayindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-04-amazon-mit-establish-science-hub-for-robotics-research.md",
       "title": "Amazon, MIT establish Science Hub for robotics research",
       "excerpt": "The Science Hub hopes to ensure the benefits of AI and robotics are shared broadly and to promote participation in research.",
@@ -1382,58 +1416,6 @@
         "AI Ethics",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-are-ai-and-robotics-good-investments.md",
-      "title": "Are AI and Robotics Good Investments?",
-      "excerpt": "It is expected that the robotics market will grow by over $150 billion US dollars by 2025, and that is not only down to growth in commercial use, but it is also anticipated that robotics will become a more integral part of our everyday lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/ai-robotics-good-investments-james-sanders",
-      "originalUrl": "https://www.linkedin.com/pulse/ai-robotics-good-investments-james-sanders",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQH77ghKDP70-w/article-cover_image-shrink_600_2000/0/1632755863578?e=1638403200&v=beta&t=A58t5OOMkAvh-TmlkABJ27muW8H8czOLBQc8y627e_s",
-          "width": 739,
-          "height": 489,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

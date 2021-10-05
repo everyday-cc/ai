@@ -25,35 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "DMI Alternatives raises $40 mn for fintech fund"
-    excerpt: "Within the Fintech ecosystem, Sparkle focuses on alternative lending, consumer finance, financial services IT, payments, regtech, wealthtech and AI-ML platforms to drive automation. A key differentiator for Sparkle is its strategic relationship with DMI ..."
-    publishedDateTime: 2021-09-30T10:19:00Z
-    webUrl: "https://www.livemint.com/companies/news/dmi-alternatives-raises-40-mn-for-fintech-fund-11632995681857.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/dmi-alternatives-raises-40-mn-for-fintech-fund/amp-11632995681857.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/dmi-alternatives-raises-40-mn-for-fintech-fund/amp-11632995681857.html"
+  - title: "M2P Fintech Acquires Saas Platform Origa.ai To Ramp Up Tech Offerings"
+    excerpt: "M2P Fintech said in a press release the acquisition will help the firm to bolster its technology capabilities around new age collection."
+    publishedDateTime: 2021-10-01T13:13:00Z
+    webUrl: "https://www.outlookindia.com/website/story/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389"
+    ampWebUrl: "https://www.outlookindia.com/website/amp/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
+      name: Outlookindia
+      domain: outlookindia.com
     quality: 59
     images:
-      - url: "https://images.livemint.com/img/2021/09/30/600x338/DMI_1632997037719_1632997047813.JPG"
-        width: 600
-        height: 338
+      - url: "https://images.outlookindia.com/public/uploads/articles/2021/10/1/m2p_550_550.jpg"
+        width: 550
+        height: 367
         isCached: true
-  - title: "DMI Raises $40 Mn For Its Fintech-Focussed Sparkle Fund, Plans To Make 20 Investments"
-    excerpt: "The Sparkle Fund by DMI Alternatives was set up in 2017 to invest in India’s rapidly growing digital finance ecosystem. Sparkle has so far invested $10 Mn across multiple companies including M2P, Credgenics,"
-    publishedDateTime: 2021-09-30T17:03:00Z
-    webUrl: "https://inc42.com/buzz/dmi-closes-40-mn-capital-raise-for-its-fintech-focussed-sparkle-fund/"
-    ampWebUrl: "https://inc42.com/buzz/dmi-closes-40-mn-capital-raise-for-its-fintech-focussed-sparkle-fund/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/dmi-closes-40-mn-capital-raise-for-its-fintech-focussed-sparkle-fund/amp/"
+  - title: "M2P Fintech Acquires Loan Recovery SaaS Startup Origa AI To Bolster Debt Management Stack"
+    excerpt: "The deal between Origa and M2P was a mix of cash and stock, bringing the valuation of the acquisition to $2 Mn - $2.5 Mn."
+    publishedDateTime: 2021-09-30T13:23:00Z
+    webUrl: "https://inc42.com/buzz/m2p-fintech-acquires-loan-recovery-saas-startup-origa-ai-to-bolster-debt-management-stack/"
+    ampWebUrl: "https://inc42.com/buzz/m2p-fintech-acquires-loan-recovery-saas-startup-origa-ai-to-bolster-debt-management-stack/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/m2p-fintech-acquires-loan-recovery-saas-startup-origa-ai-to-bolster-debt-management-stack/amp/"
     type: article
     provider:
       name: inc42.com
       domain: inc42.com
-    quality: 52
+    quality: 50
     images:
-      - url: "https://inc42.com/wp-content/uploads/2021/09/GST-Social-2.jpg"
+      - url: "https://inc42.com/wp-content/uploads/2021/09/fintech-social-2.jpg"
         width: 1200
         height: 628
         isCached: true

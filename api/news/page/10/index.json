@@ -2,6 +2,155 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-09-25-deep-learning-chip-market-share-growth-trends-covid-19-impact-and-forecast-by-2025.md",
+      "title": "Deep Learning Chip Market Share Growth, trends, covid-19 impact, and forecast by 2025",
+      "excerpt": "The global Deep Learning Chip market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 35.5% in the forecast period of 2020 to 2025 and will expected to reach 5831.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-share-growth-trends-covid-19-impact-and-forecast-by-2025-2021-09-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-share-growth-trends-covid-19-impact-and-forecast-by-2025-2021-09-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-24T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-09-25-exclusive-ice-just-paid-39-million-for-rapid-ai-powered-facial-recognition-at-migrant-detention-facilities.md",
+      "title": "Exclusive: ICE just paid $3.9 million for 'rapid' AI-powered facial recognition at migrant detention facilities",
+      "excerpt": "ICE has a new contract with a company called Trust Stamp that says it offers facial matching through 3D renderings of people's heads and faces.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9",
+      "originalUrl": "https://www.businessinsider.com/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images2.markets.businessinsider.com/6010d4561d2df20018b710ac?format=jpeg",
+          "width": 701,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-24T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-09-25-gm-invests-300-million-in-momenta-to-deliver-next-generation-self-driving-technologies-in-china.md",
+      "title": "GM Invests $300 Million in Momenta to Deliver Next-Generation Self-Driving Technologies in China",
+      "excerpt": "General Motors will invest $300 million in Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China. “Customers in China are embracing electrification and advanced self-driving technology faster than anywhere else in the world,",
+      "sourceUrl": null,
+      "webUrl": "https://electriccarsreport.com/2021/09/gm-invests-300-million-in-momenta-to-deliver-next-generation-self-driving-technologies-in-china/",
+      "originalUrl": "https://electriccarsreport.com/2021/09/gm-invests-300-million-in-momenta-to-deliver-next-generation-self-driving-technologies-in-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electriccarsreport.com/wp-content/uploads/2021/09/GM-Momenta.jpg?7a2bad&7a2bad",
+          "width": 640,
+          "height": 321,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-24T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "electriccarsreport.com",
+        "domain": "electriccarsreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-24-customize-amazon-sagemaker-studio-using-lifecycle-configurations.md",
       "title": "Customize Amazon SageMaker Studio using Lifecycle Configurations",
       "excerpt": "Amazon SageMaker Studio is a web-based, integrated development environment (IDE) for machine learning (ML) that lets you build, train, debug, deploy, and monitor your ML models. It provides all the tools you need to take your models from experimentation to production while boosting your productivity.",
@@ -1069,134 +1218,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-meet-deedee-a-twin-cities-thai-restaurants-new-robot-server.md",
-      "title": "Meet ‘DeeDee,’ A Twin Cities Thai Restaurant’s New Robot Server",
-      "excerpt": "DeeDee, a server assistant robot, is the first of its type operating in the state. It can carry food, drinks, and dirty dishes between the kitchen and dining tables.",
-      "sourceUrl": null,
-      "webUrl": "https://minnesota.cbslocal.com/2021/09/24/meet-deedee-a-twin-cities-thai-restaurants-new-robot-server/",
-      "originalUrl": "https://minnesota.cbslocal.com/2021/09/24/meet-deedee-a-twin-cities-thai-restaurants-new-robot-server/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://minnesota.cbslocal.com/wp-content/uploads/sites/15909630/2021/09/DeeDee.jpg?w=1026",
-          "width": 1026,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://minnesota.cbslocal.com/2021/09/24/meet-deedee-a-twin-cities-thai-restaurants-new-robot-server/?amp",
-      "cdnAmpWebUrl": "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2021/09/24/meet-deedee-a-twin-cities-thai-restaurants-new-robot-server/?amp",
-      "publishedDateTime": "2021-09-24T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Local",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-opentrons-raises-200m-in-series-c-funding.md",
-      "title": "Opentrons Raises $200M in Series C Funding",
-      "excerpt": "Opentrons Labworks Inc., a NYC-based lab platform provider, raised $200M in Series C funding. SoftBank Vision Fund 2 led the round with participation by Khosla Ventures. Other investors in Opentrons include Sands Capital,",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2021/09/opentrons-raises-200m-in-series-c-funding.html",
-      "originalUrl": "https://www.finsmes.com/2021/09/opentrons-raises-200m-in-series-c-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2021/09/opentrons.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T02:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-meity-and-aws-partner-to-support-deeptech-innovation-in-india.md",
-      "title": "MeitY and AWS partner to support DeepTech innovation in India",
-      "excerpt": "The MeitY Startup Hub, an initiative of the Ministry of Electronics and IT has entered into a Memorandum of Understanding (MoU) with Amazon Internet Services, which undertakes the resale",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/meity-aws-partner-support-deeptech-innovation-india/",
-      "originalUrl": "https://www.dqindia.com/meity-aws-partner-support-deeptech-innovation-india/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/06/deeptech.jpg",
-          "width": 850,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/meity-aws-partner-support-deeptech-innovation-india/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/meity-aws-partner-support-deeptech-innovation-india/amp/",
-      "publishedDateTime": "2021-09-24T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

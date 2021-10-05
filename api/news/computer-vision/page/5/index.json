@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-18-facial-recognition-boarding-trial-underway-at-newark-airport.md",
+      "title": "Facial Recognition Boarding Trial Underway At Newark Airport",
+      "excerpt": "A biometric self-boarding e-gate York’s Newark Airport. The trial will run until August 31 at Gate 62 of Terminal B. If all goes well, a wider rollout is anticipated. The Port Authority of New York and New Jersey (PANYNJ),",
+      "sourceUrl": null,
+      "webUrl": "https://simpleflying.com/newark-airport-facial-recognition/",
+      "originalUrl": "https://simpleflying.com/newark-airport-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://simpleflying.com/wp-content/uploads/2021/08/Lufthansa-Airbus-A350-941.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://simpleflying.com/newark-airport-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://simpleflying-com.cdn.ampproject.org/c/s/simpleflying.com/newark-airport-facial-recognition/amp/",
+      "publishedDateTime": "2021-08-17T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Simple Flying",
+        "domain": "simpleflying.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-18-hoth-therapeutics-initiates-preclinical-study-of-ht-alz-for-alzheimers-disease.md",
       "title": "Hoth Therapeutics Initiates Preclinical Study of HT-ALZ for Alzheimer's Disease",
       "excerpt": "To evaluate other forms of memory, we will also determine if chronic HT-ALZ treatment influences non-spatial memory using a novel object recognition and novel object location task. These tests ...",
@@ -1233,58 +1276,6 @@
         "name": "eLife",
         "domain": "elifesciences.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-tetavi-raises-20-million-for-its-metaverse-focused-computer-vision-tech.md",
-      "title": "TetaVi Raises $20 Million For Its Metaverse-Focused Computer Vision Tech",
-      "excerpt": "The startup hopes to democratize the ability for consumers to create for the metaverse through its cheaper and more flexible volumetric video software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rebeccaszkutak/2021/08/10/tetavi-raises-20-million-for-its-metaverse-focused-computer-vision-tech/",
-      "originalUrl": "https://www.forbes.com/sites/rebeccaszkutak/2021/08/10/tetavi-raises-20-million-for-its-metaverse-focused-computer-vision-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61119c98afc8b5da845a536c%2F0x0.jpg",
-          "width": 1200,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rebeccaszkutak/2021/08/10/tetavi-raises-20-million-for-its-metaverse-focused-computer-vision-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccaszkutak/2021/08/10/tetavi-raises-20-million-for-its-metaverse-focused-computer-vision-tech/amp/",
-      "publishedDateTime": "2021-08-10T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

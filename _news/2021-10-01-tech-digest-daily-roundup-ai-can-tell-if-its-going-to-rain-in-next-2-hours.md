@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI can predict if it will rain in two hours' time"
-    excerpt: "Artificial intelligence can tell whether it is going to rain in the next two hours, research suggests. Scientists at Google-owned London AI lab DeepMind and the University of Exeter partnered with the Met Office to build the so-called nowcasting system."
-    publishedDateTime: 2021-09-30T10:56:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-58748934?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-58748934.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-58748934.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1428E/production/_120747528_whatsubject.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Google develops AI that can accurately predict if it will rain in the next 90 ..."
     excerpt: "Experts at Google's London-based DeepMind company have created a 'nowcasting' system which they claim is more accurate at predicting rain within the"
     publishedDateTime: 2021-09-30T12:01:00Z
@@ -57,21 +41,19 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Hey Google, do I need an umbrella? Tech giant develops AI 'now-casting' system that can accurately predict if it will rain in the next 90 minutes"
-    excerpt: "Experts at Google's London-based DeepMind company have created a 'nowcasting' system which they claim is more accurate at predicting rain within the next 90 minutes than existing models."
-    publishedDateTime: 2021-09-30T11:55:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10045053/Google-develops-AI-accurately-predict-rain-90-minutes.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10045053/amp/Google-develops-AI-accurately-predict-rain-90-minutes.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10045053/amp/Google-develops-AI-accurately-predict-rain-90-minutes.html"
+  - title: "Robots and artificial intelligence will control humans, predicts ex-Google"
+    excerpt: "Elon Musk believes AI is capable of governing the human species The era of Robot Sapiens: will artificial intelligence dominate the Earth?)The dangers of AI are more subtle than armed robots, say experts Mohammed Gawdat believes that systems known as general artificial intelligence ( AGI),"
+    publishedDateTime: 2021-10-03T15:10:00Z
+    webUrl: "https://www.clarepeople.com/5914-robots-and-artificial-intelligence-will-control-humans-predicts-ex-google/"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 22
+      name: The Clare People
+      domain: clarepeople.com
+    quality: 52
     images:
-      - url: "https://i.dailymail.co.uk/1s/2021/09/30/11/48587827-0-image-a-29_1632996565732.jpg"
-        width: 636
-        height: 382
+      - url: "https://www.clarepeople.com/wp-content/uploads/2021/10/5914-robots-and-artificial-intelligence-will-control-humans-predicts-ex-google-780x470.jpeg"
+        width: 780
+        height: 470
         isCached: true
 
 secured: "riR0VLOGEIjzLRX4GeMaelnhuoQPLZLCysSRdfjofB2T7CXGUklnHtzwJhMq61cv5UZhAvp0ajpJn3mQK1UU/KV2WPLcnpTBOsZUqoq7hBr30XAm1SzscOSLpfMCp7K8xWvrLPOW6xrV5S9Qh4xodFGAoUTbiZqfERqFacB/y0F4OgrBdl7mCxI1g0YEKAW7nPtPf1vRtAdiqF+hwsibNB+Nku8ucf8okzV7JOFofpup7xPWma8JvgpOtm/jWZvvQmi0gyUaBaFbjCW3CPQspOelqFHPF3hitzjJr2TT3YsZrx0KnW//4Ti4aUEYzZXtyD9gg1E3OgBNKY3pa/3mTtI0b4icu/hfFCItnuFcq+4Ty/XzuYF3oITNprOme4rakZvPxj+fyIiFnroOGGgxoQTZF/042RM5OjrZOAHHq8jTKyYqPIBpQLqZnrTR0WT2D0pMJ2g0O3jjBDuYBMFX0ZGCNFpstRW02cBtO79SCguyRJcG1dewhwZAuLOu5rBdDPOr/YR1/8/8NS//30GZNw==;ubMu2J7S1gnNz8vmifHn9Q=="

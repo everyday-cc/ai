@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-07-astronauts-in-space-will-soon-resurrect-an-ai-robot-friend-called-cimon.md",
+      "title": "Astronauts in space will soon resurrect an AI robot friend called CIMON",
+      "excerpt": "The AI-powered robot CIMON has received a software update before an upcoming round of more complex experiments at the International Space Station.",
+      "sourceUrl": null,
+      "webUrl": "https://www.space.com/space-station-ai-robot-cimon-upgrade-for-astronauts",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/astronauts-in-space-will-soon-resurrect-an-ai-robot-friend-called-cimon/ar-AAObHf4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/r7nDQ7LThxRuHp6oMh44Ri-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.space.com/amp/space-station-ai-robot-cimon-upgrade-for-astronauts",
+      "cdnAmpWebUrl": "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/space-station-ai-robot-cimon-upgrade-for-astronauts",
+      "publishedDateTime": "2021-09-07T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "space.com/space-station-ai-robot-cimon-upgrade-for-astronauts",
+        "domain": "space.com/space-station-ai-robot-cimon-upgrade-for-astronauts",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-nitda-trains-178-young-nigerians-on-robotics-emerging-technologies.md",
       "title": "NITDA trains 178 young Nigerians on robotics, emerging technologies",
       "excerpt": "Nigeria’s digital literacy has received a boost with the training of 178 young Nigerians in the just-concluded 10-Days Stem Bootcamp for Kids (SB4Kids)",
@@ -1343,50 +1386,6 @@
       ],
       "topics": [
         "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-29-exclusive-sarcos-ceo-on-whether-tesla-is-late-to-the-robotics-party-ai-utility-in-repetitive-vs-dynamic-tasks-and-more.md",
-      "title": "EXCLUSIVE: Sarcos CEO On Whether Tesla Is Late To The Robotics Party, AI Utility In Repetitive Vs. Dynamic Tasks And More",
-      "excerpt": "See Also: Tesla Places Itself As A Robotics Company With Reach Beyond EVs, Unveils Dojo Chips, Humanoid: Key Takeaways From AI Day “It often takes longer than [Musk] predicts. Still, he has proven it isn’t wise to bet against him,” said Wolff.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/21/08/22689721/exclusive-sarcos-ceo-on-whether-tesla-is-late-to-the-robotics-party-ai-utility-in-repetitive-vs-dyna",
-      "originalUrl": "https://www.benzinga.com/news/21/08/22689721/exclusive-sarcos-ceo-on-whether-tesla-is-late-to-the-robotics-party-ai-utility-in-repetitive-vs-dyna",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/sarcos_civ-wht.3.jpeg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22689721",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22689721",
-      "publishedDateTime": "2021-08-29T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
         "AI in Robotics"
       ]
     }
