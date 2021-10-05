@@ -26,6 +26,24 @@ images:
     height: 1707
     isCached: true
 
-secured: "63x4AI5rTvj7fHOXoB6FYW5++plly4nhnTrasU4aeaQ5pN5QhuC62Fs0ylbUPPzge1hBjAdPHWjNG75YqzllbriqTYl70C1Y2mSbPCuDMDvau/AptFhfrETUtcFqUeSSvTGN7KL3c5a/AX9zLvDIY8f0ZMMxQvEh02uZ4YWl4G6BFPnEUnI4IhG9zZ963g5i6hgN/yk1PWd3ZdN1SRnSha8oGj1LgvUXHiJKUzvcs7JxNH9Nd0SxI82rjEzSs4jifk7GFtm1H6QSD3tAKX1tthVdgrTKqR6rcz6vNxSmsAPTaSwtWRTXmCNLfA2ihj7pqvrzcBv+ZwG0CUd1C2r/V8gXjAT0ysF+KRqnex43VXM=;7ktIpt/LQTCpRq5pXKPGsg=="
+related:
+  - title: "Google Analytics 4 updates include data-driven attribution, machine learning models to fill in measurement gaps and a Search Console integration"
+    excerpt: "Google hasn’t said when it will deprecate Universal Analytics, but the updates and language in the announcement suggest that search marketers should prepare for the change."
+    publishedDateTime: 2021-10-05T20:00:00Z
+    webUrl: "https://searchengineland.com/google-analytics-4-updates-include-data-driven-attribution-machine-learning-models-to-fill-in-measurement-gaps-and-a-search-console-integration-374970"
+    ampWebUrl: "https://searchengineland.com/google-analytics-4-updates-include-data-driven-attribution-machine-learning-models-to-fill-in-measurement-gaps-and-a-search-console-integration-374970/amp"
+    cdnAmpWebUrl: "https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/google-analytics-4-updates-include-data-driven-attribution-machine-learning-models-to-fill-in-measurement-gaps-and-a-search-console-integration-374970/amp"
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 22
+    images:
+      - url: "https://searchengineland.com/figz/wp-content/seloads/2021/05/google_1920.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+
+secured: "0G/RmAEDBBLT6d9OMpWeHxbfI7OUQeBEyJqe8CqOqcYGdee3bqTQWug4PgLOvr5d8ksUz6Xwp6Pi/qC1l8+R0IVpoTdmJxhZIIG+mJeKfJzLa2dL57FoOaM1Q4MWQP2DpW1VsIU5y6jf3lQWaaS1RjhfEct1SiNOreuPoV4HW8bR428u4WNrRDyn8C6rjVLUPp/nLLZAuxXVvsPY3/J2NJZRjuORTzM46mq+DNiUi1SGaFU2+9dX+mvhXl4N/u7kuRlJwlANwVuRHbT7HiUYctP+YzBXEiyCyzMNBs5FOpHCG6eWSQYonOOVISnEpVpRL7JiPbgdrNypZuIcuBpzPauWuBuBpqD1I5jtqZztg7lZWEnHlzg/+WULiSvNOsJiSYXYP59CcXGG/tn9z+uq31tOl/QbmcYzHM8CycGQ3zjPxQTLIH4qcdG88BUq2vQZos2h7ykunKRxjK1FUxrpKcc4jEeXeby9/M17eYZ76ega59VE68OchNN/rdfxgGPgONcUWWlBomup/Degcize4A==;mmLv50mSK2dGLODtMHqxKw=="
 ---
 

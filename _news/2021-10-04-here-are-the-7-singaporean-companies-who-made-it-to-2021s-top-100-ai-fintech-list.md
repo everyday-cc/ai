@@ -39,6 +39,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Quantexa Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
+    excerpt: "CB Insights today named Quantexa to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year's list was unveiled on stage at CB Insights' Future of Fintech conference in New York City."
+    publishedDateTime: 2021-10-05T20:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/10/05/9463460.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "IOwXY2/fK3xbL3+/1xFAalSvzEhLxTQNXwExmB1FoeVi/obb4oeIxA0IzZBR1M9Q8FKKb7k4YVYABLBlr7Ayy0IAi1pVYLmAuvqMfUvnEClfcDtcgW8muDPjA1EvEKIYwzb0u9/s8/IAwgbUJ53x7u4UDno0oDpBXcr6sauGdCxGQwafMqUDZ/0TGLqOc/YFy9I+jjHmYi/zc1+fFjlu0tlRZe8rH6AzSOkGpP68eNVd9aWcDRPnVl603BFaF0viECMX1Rcnga1zV1+AXFecnrfUql3V5r4ZQRYMy6OSLGKGfpoxcoFUy2ezhTuG/c3AUwC2TJ37P6cqsvH3mOBejuJNsGeywTR69u9K8707rY/fqvKp9BiR1G7IFV6875kmBKTwZCSyLYGbdn4kDyF45gx30grGfOQvfmi1CAHSUmX/Beh/L8hbx2MKVGgIGMebwil/vrTbk90KtnEyo6ei3mxV1y1rXwOVbqveBadhiNdWLxV+7xP98RUmokilnCrwI/wzP13O41uH1PBKCYsHKQ==;niscaQKf6+18JZL0zppALw=="
 ---

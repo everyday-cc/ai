@@ -3,13 +3,13 @@ category: news
 title: "This Healthcare Company Is Using AI to Develop Drugs"
 excerpt: "L ife sciences company Schrödinger (NASDAQ: SDGR) has developed software that could help drug companies develop medicine using artificial intelligence and physics, and it's already being used by a number of big-name pharma companies."
 publishedDateTime: 2021-10-03T12:15:00Z
-originalUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?time=1633263301"
-webUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?time=1633263301"
+originalUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03"
+webUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03"
 ampWebUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp"
 type: article
 quality: 84
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
         width: 1280
         height: 717
         isCached: true
+  - title: "How the Automotive Industry is Using AI"
+    excerpt: "Artificial intelligence (AI) in the automotive industry is making vehicles autonomous. Learn about driverless vehicles & AI now:"
+    publishedDateTime: 2021-10-05T20:09:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/ai-in-automotive/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 37
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/10/The-interior-of-an-autonomous-driverless-vehicle.jpeg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Health2047’s new company plans to use AI, research access to improve clinical decision making"
     excerpt: "Called RecoverX, the company will leverage AI to mine evidence-based research, medical charts, patient conversations and test results and provide clinical insights for clinicians in real time."
     publishedDateTime: 2021-10-01T16:50:00Z
@@ -67,7 +81,16 @@ related:
         width: 724
         height: 483
         isCached: true
+  - title: "Infusing AI to governments"
+    excerpt: "Digital transformation is one of the main objectives for governments around the globe. Even though, public sector organizations see digital technologies as a top priority, the majority has not embraced Artificial Intelligence (AI),"
+    publishedDateTime: 2021-10-04T17:11:00Z
+    webUrl: "https://www.linkedin.com/pulse/infusing-ai-governments-yannis-zisos-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 19
 
-secured: "Mq1ZIHQMokO6rn/f8qU2pX5+4rkqc5twHw3LiC0xwE8xC+m7+ojM5tN4i3tbqhQ1LKerKU+6TxRO0q8f3uA1Dh1QkOwz2BG+uhw+4BqEcLbLiAlY8a4MzbhrLyi+aqlWlmQ0JL/H/bJRxn3MoYTysPBkyL69nslf24HS2w4sBKYHADRrIIl/eBsYoI4zuu/rzY74W3r35T7sKYUjc1hfG76vpf+aO5D6QwA8lfUymt81EbNqRbVP/og5LcNWZt78sxHwc5i+++gJm0o2IUbPSnef8gVtQmAaKG36HU5HHgucxYiYXgYlAibK1wEvqdVxqXDGBn087slpvC93toQbz00FdLcjuTd2ej7H1dbgILQ=;hGeHgSeQPMmA74paDKnQSg=="
+secured: "6lusk1NZ6YpEB8HlWOfnuFEhwRfwfggZZKWExhXHD/7wlBeIBKiJXpPsfOPPLVtHzPuzkEuGUgmyP3VL2M0R5Jc1gRbirBCNTGfe/lKTzNMnVlVUn+vJdDFUNcMi9pgG9D6zgYg0SpRaJmvbMHfFY608V3y3z1LULzgf1NBoNfNE1jgZi2eNYwAQFC/4vh2emRaPS/rnmed2l/LkzH5BF0xEpT0iXzfGs9IiNSv5fTQe9+IN4Xi2DyBdKJe7h7WG/p1rWgIvYvANqgzCUH0QZXZ9/dN/Sy2IbseBJjJMCKncAciGrs3pDAXJ6Cj6S5Ble+/IXc/aZedGE7YItVybXfFM0+oCVQ8DHSHlYDLlBIM=;l/VC1e2KtLV16MTUkge67g=="
 ---
 

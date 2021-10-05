@@ -2,17 +2,21 @@
 category: news
 title: "Horizon3.ai Named a Winner of The Pitch 2021 By Constellation Research"
 excerpt: "Horizon3.ai today announced it was named a first-place winner of The Pitch, a new competition for enterprise startups hosted by Constellation Research. The industry wide two-day event brought together startup founders,"
-publishedDateTime: 2021-10-05T18:01:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-horizon3ai-named-winner-the-pitch-2021-constellation-research-/2021/10/05/9463372.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-horizon3ai-named-winner-the-pitch-2021-constellation-research-/2021/10/05/9463372.htm"
+publishedDateTime: 2021-10-05T18:03:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/horizon3-ai-named-a-winner-of-the-pitch-2021-by-constellation-research-1030844893"
+webUrl: "https://markets.businessinsider.com/news/stocks/horizon3-ai-named-a-winner-of-the-pitch-2021-by-constellation-research-1030844893"
 type: article
-quality: 37
-heat: 37
+quality: 67
+heat: 67
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -23,6 +27,6 @@ images:
     height: 400
     isCached: true
 
-secured: "hbnx1xQ6R3B75mxptfjuavuPxmVP+WQjBjgUdaCU4y/QMJLbltHGTd+Iy56+XTx6gcZ8mxrO4OSChyont9ySaDiA/TFj/rwsnjE2KYyY+mMhd3maPFsVoY9qaakX6Bpc31OOAZ0CiazVEf6zEWx0EIOUqgZMSKHemqWSH6+J8U5MZ/DEEzSnv8NuNl0wsDg+xB6GT5SlCVbxC85Q7LmS+HyRxCj5+xvB0SYqVRCr0i8HWIjmtR1Fo8hO6l/vMZ5MNKsuBFFB2/1q4l/hFfmFuq+fhjskQmhzm9R4TiFPH33ipnppTVskMp62j6h4Vf3IN27mHgdwTAzyGAkEAogU/cpqjaWXMXiQHuX0a5kIDxE=;lalgjCFgex8+W1zbjEWAYQ=="
+secured: "Wg08pdeKyJPp+iffaydcRvoHEB745MsQBvYNiOJ36LKKcv22aUhsPO8zgWf22DqUc30cL5zszUkiGDPbBoxF17zYidFpktyxVmbLYdU543zA7aPHumF2AZ5mAl5Fv7gsF9xZaAa23kbcVrXCAjHpDZDaKVouS39OhBpChx504jyCCs2unh1ZW3awPWH+gLCh0gWKWEPkL8JwUEbeQcKTpT0Lzu2PRO/QNrymm7Wi1W7vlJo0gPPzlvjuKVHW2utECsJ5nJiiBQ/E0Q2Eu4oR/UFrufFsJCPSfQpB+qBME3jmEg0xXk5oShI/fvZFMfrOAVNkSNVn7x7B/moeg5SHyySHFPhGwkY2zzjI6e3F7vM=;ZpXMWpaQ2B5olbbCkH4Elg=="
 ---
 

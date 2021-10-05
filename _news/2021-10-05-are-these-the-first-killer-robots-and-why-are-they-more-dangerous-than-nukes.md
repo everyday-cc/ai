@@ -41,20 +41,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "An Autonomous Robot May Have Already Killed Humans"
-    excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
-    publishedDateTime: 2021-10-01T05:00:00Z
-    webUrl: "https://nationalinterest.org/blog/reboot/autonomous-robot-may-have-already-killed-humans-194638"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 39
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/Autonomous%20Robot.jpg"
-        width: 1222
-        height: 812
-        isCached: true
   - title: "An autonomous robot may have already killed people"
     excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
     publishedDateTime: 2021-10-02T21:16:00Z

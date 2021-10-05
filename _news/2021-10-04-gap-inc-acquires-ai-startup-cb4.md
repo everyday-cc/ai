@@ -115,15 +115,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Thales to Spark Innovation among Five AI Startups with Season 3 of"
-    excerpt: "Thales has launched Season 3 of [email protected], a business accelerator designed to help artificial-intelligence focused startups tackle real-world problems. Thales selected fiv"
-    publishedDateTime: 2021-10-01T03:20:00Z
-    webUrl: "https://www.publicnow.com/view/870D873E6E622378CF5A1823C75B1501F88D444B"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 17
 
 secured: "3NHnu0GqoUCR69kBE4LqSA7fCNE5yUm9K1SzyB02IEH3ndZqc3o/s5AUOtSf1hz7+OOSAagvFlaW68u77pR/+I3Un9UNtqpHUI6f+z9xL3RhAd8uUL3V4tgzGpLl5M8A4c6DyOTDWxM03DjVz8Ia1OsHI7yfU9DC4FQrsqiRxIb+tC/7aYmCwavdB5KtW7kDsfAGSidHAZ3kyYKLAwO2pgyje47ZF3PVod/o7hF5lyFJeY/0LPYbtUs8SqCHbaAVp6cyjKpYwNjzFdgKJpVpPwIW8nAygNW98hC988R+BbUaDGFjpMQQ/53xfQItqWRNcTDq8498abnXT6WsWjFTC1hlwLp9tgrdfXOEvEEQH0U=;uNGf4RZfme252ARpcIfLow=="
 ---

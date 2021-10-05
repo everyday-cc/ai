@@ -1,0 +1,91 @@
+---
+category: news
+title: "The Facebook whistleblower says its algorithms are dangerous. Here’s why."
+excerpt: "Frances Haugen’s testimony at the Senate hearing today raised serious questions about how Facebook’s algorithms work—and echoes many findings from our previous investigation."
+publishedDateTime: 2021-10-05T20:16:00Z
+originalUrl: "https://www.technologyreview.com/2021/10/05/1036519/facebook-whistleblower-frances-haugen-algorithms/"
+webUrl: "https://www.technologyreview.com/2021/10/05/1036519/facebook-whistleblower-frances-haugen-algorithms/"
+ampWebUrl: "https://www.technologyreview.com/2021/10/05/1036519/facebook-whistleblower-frances-haugen-algorithms/amp/"
+cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/10/05/1036519/facebook-whistleblower-frances-haugen-algorithms/amp/"
+type: article
+quality: 43
+heat: -1
+published: false
+
+provider:
+  name: MIT Technology Review
+  domain: technologyreview.com
+
+topics:
+  - Facebook AI
+  - AI
+
+images:
+  - url: "https://wp.technologyreview.com/wp-content/uploads/2021/10/gettyimages-1235711856.jpg?w=3000"
+    width: 3000
+    height: 2000
+    isCached: true
+
+related:
+  - title: "For Tesla, Facebook and Others, AI’s Flaws Are Getting Harder to Ignore"
+    excerpt: "Investors are pouring money into artificial intelligence, despite clear setbacks in self-driving cars, social media and even healthcare."
+    publishedDateTime: 2021-10-04T07:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2021-10-04/artificial-intelligence-ain-t-that-smart-look-at-tesla-facebook-healthcare"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_t5K2dNQfTk/v1/1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "For Tesla, Facebook and others, AI’s flaws are getting harder to ignore"
+    excerpt: "Investors are pouring money into artificial intelligence, despite clear setbacks in self-driving cars, social media and even healthcare"
+    publishedDateTime: 2021-10-04T22:49:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/for-tesla-facebook-and-others-ai-s-flaws-are-getting-harder-to-ignore-11633345960984.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/for-tesla-facebook-and-others-ai-s-flaws-are-getting-harder-to-ignore/amp-11633345960984.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/for-tesla-facebook-and-others-ai-s-flaws-are-getting-harder-to-ignore/amp-11633345960984.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 74
+    images:
+      - url: "https://images.livemint.com/img/2021/10/04/600x338/TESLA-MUSK-BIDEN-0_1633346250616_1633346274524.JPG"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "From Tesla to even Cabrini, artificial intelligence is the future"
+    excerpt: "It’s been about a month since Tesla unveiled their version of a humanoid robot at their press event, Tesla AI Day. Elon Musk displayed the image of the 5’8”, 125 pound prototype that is designed to “eliminate boring,"
+    publishedDateTime: 2021-10-02T19:39:00Z
+    webUrl: "https://www.theloquitur.com/from-tesla-to-even-cabrini-artificial-intelligence-is-the-future/"
+    type: article
+    provider:
+      name: Theloquitur.com
+      domain: theloquitur.com
+    quality: 56
+    images:
+      - url: "https://www.theloquitur.com/wp-content/uploads/2021/09/IMG-0266-400x404.jpg"
+        width: 400
+        height: 404
+        isCached: true
+  - title: "Delete Your Face Data on Facebook, Turn Off Facial Recognition"
+    excerpt: "If you want to prevent Facebook from doing it automatically, then follow this simple 2-minute read on \"How to Delete your Face Data on Facebook by Turning Off Facial Recognition\"."
+    publishedDateTime: 2021-10-05T17:31:00Z
+    webUrl: "https://gadgetstouse.com/blog/2021/10/05/delete-your-face-data-facebook-turn-off-facial-recognition/"
+    type: article
+    provider:
+      name: Gadgets To Use
+      domain: gadgetstouse.com
+    quality: 39
+    images:
+      - url: "https://media.gadgetstouse.com/wp-content/uploads/2021/10/featuredimage.jpg"
+        width: 1379
+        height: 776
+        isCached: true
+
+secured: "LV4estTeAlUD482wqnjf2AHL7+Jl2i9tV/QLTWssBMoAR6KrS2R7nLpvIFIhtAvTBda3SBrVDNCdkEf3n/f0nH3Xkh9mKRD/C1HIoeXWr3dTmVb+IqtWTw/O+TjLS7ESWflQKfcjh79SIfr5AbN/5KXblOweNo39Iks+MJPPQnwKTfrCJJiA48AC2L5rz48+nMTlhtb6LG/dWsyw4uM9j0sEOU/PlJaaGkyd5WUxMBs0AF2d0JHHYVJ7gYbvPa2UL2IXQC5rC/NnKokJnfwEFBydsS/1jgu4RvJV8SoyMuOkO5PAYRDBtzQVWKNw1oIk7VeyOnd9QdoYOaAVOrH5ex9BQo9+X4W0KbSgpuPDxOA=;s62rShw/TYwcOkQMmzJ3ig=="
+---
+

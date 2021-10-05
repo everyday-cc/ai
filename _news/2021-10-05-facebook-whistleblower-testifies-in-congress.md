@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/business/live-news/facebook-senate-hearing-1
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/business/live-news/facebook-senate-hearing-10-05-21/index.html"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook whistleblower Frances Haugen testifies before the Senate"
+    excerpt: "After revealing her identity on Sunday night, Frances Haugen — the whistleblower who leaked controversial Facebook documents to The Wall Street Journal — testified before the Senate Committee on Commerce,"
+    publishedDateTime: 2021-10-05T20:17:00Z
+    webUrl: "https://techcrunch.com/2021/10/05/facebook-whistleblower-frances-haugen-testifies-before-the-senate/"
+    ampWebUrl: "https://techcrunch.com/2021/10/05/facebook-whistleblower-frances-haugen-testifies-before-the-senate/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/facebook-whistleblower-frances-haugen-testifies-before-the-senate/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1235713956.jpg?w=1024"
+        width: 1024
+        height: 575
+        isCached: true
   - title: "In Scathing Senate Testimony, Whistleblower Warns Facebook a Threat to Children and Democracy"
     excerpt: "\"I'm here today because I believe Facebook's products harm children, stoke division, and weaken our democracy,\" whistleblower Frances Haugen tells U.S. senators."
     publishedDateTime: 2021-10-05T16:41:00Z

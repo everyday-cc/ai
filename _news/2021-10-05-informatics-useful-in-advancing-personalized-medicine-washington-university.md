@@ -3,8 +3,8 @@ category: news
 title: "Informatics useful in advancing personalized medicine: Washington University"
 excerpt: "A representative from the school explains how tools like artificial intelligence and natural language processing can help elevate personalized medicine."
 publishedDateTime: 2021-10-05T16:05:00Z
-originalUrl: "https://www.outsourcing-pharma.com/Headlines/Clinical-Development/Informatics-useful-in-advancing-personalized-medicine-WashU"
-webUrl: "https://www.outsourcing-pharma.com/Headlines/Clinical-Development/Informatics-useful-in-advancing-personalized-medicine-WashU"
+originalUrl: "https://www.outsourcing-pharma.com/Article/2021/10/05/Informatics-useful-in-advancing-personalized-medicine-WashU"
+webUrl: "https://www.outsourcing-pharma.com/Article/2021/10/05/Informatics-useful-in-advancing-personalized-medicine-WashU"
 type: article
 quality: 21
 heat: 21
@@ -24,6 +24,6 @@ images:
     height: 435
     isCached: true
 
-secured: "W1gamvPm6uhD87nXMAzlutWxUx9rSSR9QO2N67Exw0qBxQ60RQefMtRLVImqS+bkDo5qO88UrvIz/IWcG0evAfHpS5K5HxkQfp1p652mI+FKxTJFh4yRFza+zoGKKqWaf9FtPXHMxqZzwDlGk6XBL2iwKQVHjieXExF3K25XZ4tyKP+aQ58wfig+EzxkouKs/dmAFR/xiP4XCZoeEuCYzu+W1qksJun93j3yYh7AKH0hfnLeyAcn6Wq9iH4Zk3CE+g4faW4HH1ZQbOOjRaMgTjsmPcJoE+SpqQTa5M0udf0zLpDQsajXOmmQsegKwyfTRP8WbXRxW/R+TZFf5cmJBq/74fBP8+duD0lbofZFoKgPZ/rZPJ3WtFqUb9ud8+xcFBK+yEslxsuz6inZcaargjsZ/GZsNV2HEFrSlu3PdjdtUuIuSsggY/8Hq/JBI9AvE+DjJVH4HF2uyE48ulLX2Cytr1flD+EdgMrENpAlb2QLs/6tXfm4xqJri2TNEww92yqmZ5CvO69KaGy8K7qd5A==;IKZmkFzIU7fL78L0S3jWnQ=="
+secured: "LvKIMc6HDR7TfoGHfg2SIY/FmeVyxs6RyYI30LRVvWL36VgN+1mPJgxGlJFahThvRRw5MdG1i+O2BbqZ8O6aPUQzgm+385w/z42xCorYf3x+R3x2sfuHrVA8zPTRomuZ1t1jS2wLy695Y0LCrh7L0YeFRO1nIOzIlVBA/yaoO0ZzER0tCs+S+eDvsvFdSANp1vdNpuY2pUbPMdWjuPsER7zaRne62c+c/ZK9A/hkPiDrO5HIDykZ53Y+87GnIKOIaiMRGgq6KX/jHwXJ+zg8oMOXzkwONOWs6hE3dNWYiw6ZdxoTP+mX/STW7B1+qsncMqt61Pu2aOMjzBLYH25SDBhy4FZ/h0lJpdtl0tCHb0M=;YsFNkJqY5QC9Vak3SbYJfg=="
 ---
 

@@ -3,18 +3,18 @@ category: news
 title: "Amazon's controversial vision for the future of your home security"
 excerpt: "Amazon's vision for the future of home security includes drones flying over your roof, outdoor cameras that monitor for possible trespassers and cute robots patrolling indoors."
 publishedDateTime: 2021-10-02T21:37:00Z
-originalUrl: "https://www.wisn.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
-webUrl: "https://www.wisn.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
-ampWebUrl: "https://www.wisn.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
-cdnAmpWebUrl: "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+originalUrl: "https://www.wcvb.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+webUrl: "https://www.wcvb.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+ampWebUrl: "https://www.wcvb.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
 type: article
 quality: 61
 heat: -1
 published: false
 
 provider:
-  name: WISN 12 NEWS
-  domain: wisn.com
+  name: WCVB Channel 5 Boston
+  domain: wcvb.com
 
 topics:
   - Computer Vision
@@ -77,6 +77,6 @@ related:
         height: 630
         isCached: true
 
-secured: "PtdppEvoCWousSfrlAZrX1sBq93GW91uPPJifGMsP8UIksysvARxBxXDyp7+gLNz+XQeB9uuIvXJMei+FmoorrwRS7lUCBpYbvz83zhx8IZPLT4/GqfiIR2XNzcuN58Hm6kXHurTcVJGzFhYBpKNF5yc5QrXZd8EdPDF+FuTl100aBPJiguiWKO9afvuSCCoV6OI3sr+YFbu43vrDxVYD508+n9jNSgwWa/VVGZF8LQgU/ZSw3dutiIIIzvvj/RPyBrfDfNaAPKl0ERCdNZRsADhcLfSMTWlaCbcSVfW90JtKWv8R/Dp4YbN/UzLw1+j897mNNrf/ouWqfz5L2zW0lZRnahJuB44M3UsLH+Qd3o=;mwmIf/QoJsgDEa2GMNl2Sw=="
+secured: "aU5ynRw8/D/V663Ufe8axlwOdsxxia7QTrSgkzrcBd5o0Ek634bJRa92v3Bjfwz7aK+ILrC3RpV+t5ia3+gg7ZUdgUViZOniZzULNh0fyKxmoP0sskXhoH9CwK0+4CNVcnccTs0/9HkX2tmEdSX4tb8H5i8+EB1m3Tn3NRDcDFgaPxrwV/eC2JXUz6IaU+pJD4ga41DORD61IrpkKr1SBrkpIYyzIYbvCjU/XLDty6l71KDU0s0aAyjnegsXW6mTbQXkYEyiTu5a/nimXv5+RBr5UJHbbA8LcBW0RsuHwwpJcODY0S7qa/wHsJUnwU/2/Do8LCQPZgzB1r/fkcZys79klFx5WmHcf6nP+I74q4Y=;5U7FZNQ832CbRc/cmkobMw=="
 ---
 

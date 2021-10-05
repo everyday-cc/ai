@@ -7,7 +7,7 @@ originalUrl: "https://deepmind.com/blog/article/enformer"
 webUrl: "https://deepmind.com/blog/article/enformer"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 780
         height: 470
         isCached: true
-  - title: "AI soon capable of predicting fatal heart disorders"
-    excerpt: "Scientists have developed an artificial intelligence model that has the ability to predict the occurrence of cardiac arrhythmias."
-    publishedDateTime: 2021-10-01T04:07:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/leisure/health/2021/10/01/ai-soon-capable-of-predicting-fatal-heart-disorders/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
 
 secured: "Ic8e5NyTrnS7fli+8pS/Un7SGSGK/iifNS3muMjbCQhUPED5D95nnVAhwAFVVEpDmiYbpasL7ShfAtPBycb8r+KnZQK0tEM2Eb6/uk22SvjgCY9SvhVNyxF7BIxX/HkrurOnH4TBocIUWu7SJRaEZS3FN9bx3T+0YvTzna1HFwMPDGRcGUwola3ps+bzrDdRl8zgu0AqnyX3VTK9/JNceoIM77A85CQWbds8+SVaC9QAfwqT5QXUw1OELqtvj8OP39lpat96I/L28cUe7NcbaluIzHgBtTf7LcbUNFRiOcVRfkhMJ1bYKdDpB2FAweE4SG0+KN+tfMTEntdvB+892cpdlprda30jjKOjSnHd5oY=;ox9RaivHSkGuUjGW8e+A+A=="
 ---

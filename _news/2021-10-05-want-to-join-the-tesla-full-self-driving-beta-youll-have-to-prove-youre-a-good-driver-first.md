@@ -9,7 +9,7 @@ ampWebUrl: "https://wonderfulengineering.com/want-to-join-the-tesla-full-self-dr
 cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/want-to-join-the-tesla-full-self-driving-beta-youll-have-to-prove-youre-a-good-driver-first/amp/"
 type: article
 quality: 62
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla gears up to launch self-driving software but with a catch"
+    excerpt: "Tesla will monitor driving behaviors before allowing owners to take advantage of its Full Self-Driving software."
+    publishedDateTime: 2021-10-05T10:03:00Z
+    webUrl: "https://www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/"
+    ampWebUrl: "https://www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/?amp=1"
+    cdnAmpWebUrl: "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/?amp=1"
+    type: article
+    provider:
+      name: PropertyCasualty360
+      domain: propertycasualty360.com
+    quality: 59
+    images:
+      - url: "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2021/09/Tesla-autopilot.jpg-image620x372.jpg"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Will Elon Musk’s “Self-Driving” Software Make Your Tesla a Death-Mobile?"
     excerpt: "Tesla Inc. (NASDAQ: TSLA) announced its beta test version of its “Full Self-Driving Capability” software would now be available to select owners. The system is touted as Tesla's most advanced ever, and promises to expand its Autopilot’s capabilities to work on city streets and offer the ability to navigate the vehicle turn by turn,"
     publishedDateTime: 2021-10-01T15:49:00Z

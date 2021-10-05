@@ -43,6 +43,22 @@ related:
         width: 1004
         height: 555
         isCached: true
+  - title: "Tesla gears up to launch self-driving software but with a catch"
+    excerpt: "Tesla will monitor driving behaviors before allowing owners to take advantage of its Full Self-Driving software."
+    publishedDateTime: 2021-10-05T10:03:00Z
+    webUrl: "https://www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/"
+    ampWebUrl: "https://www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/?amp=1"
+    cdnAmpWebUrl: "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/?amp=1"
+    type: article
+    provider:
+      name: PropertyCasualty360
+      domain: propertycasualty360.com
+    quality: 59
+    images:
+      - url: "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2021/09/Tesla-autopilot.jpg-image620x372.jpg"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Tesla Moves on With Self-Driving. But Can Auto-Safety Regulators Keep Up?"
     excerpt: "A case in Texas involving a Tesla stirs questions about who is ultimately responsible for a crash in an autonomous vehicle. Tesla argues that its self-driving systems require full engagement by a driver."
     publishedDateTime: 2021-10-01T22:50:00Z

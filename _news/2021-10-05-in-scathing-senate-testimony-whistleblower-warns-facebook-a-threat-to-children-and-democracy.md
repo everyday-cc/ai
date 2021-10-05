@@ -41,6 +41,22 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Facebook whistleblower Frances Haugen testifies before the Senate"
+    excerpt: "After revealing her identity on Sunday night, Frances Haugen — the whistleblower who leaked controversial Facebook documents to The Wall Street Journal — testified before the Senate Committee on Commerce,"
+    publishedDateTime: 2021-10-05T20:17:00Z
+    webUrl: "https://techcrunch.com/2021/10/05/facebook-whistleblower-frances-haugen-testifies-before-the-senate/"
+    ampWebUrl: "https://techcrunch.com/2021/10/05/facebook-whistleblower-frances-haugen-testifies-before-the-senate/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/facebook-whistleblower-frances-haugen-testifies-before-the-senate/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1235713956.jpg?w=1024"
+        width: 1024
+        height: 575
+        isCached: true
 
 secured: "dkLS1l6r+QukwVszMviQCKp9N9o5D7k9K8q+O6ifyi3WmHNvxLi5PHEbfUcTUXFCBhvEAN1nDEVgMH352h55uHO7tCykmeEwSI/ZIDInafea0iu6Jk0x8QClLkiLY15f5KRyzIHlmfhJBFoLCj3aerZVIO21xCKWWcF2QX49LA8beyZX83iMRdAQHfBJ3usVY0egH9UuEMr9BWp72jX7NivO6MFQxOkwrxgPnaIlRjStb6wu5OpfGr0QHBgUB/EaakznaHfLty7WeeTkufW53TdW9lihsLZb/bgpZ3ym/IiulJEgbllwFDW9CAe9um3lPlxwD0R1ewnlxBK2WtjkLcvIomwR6YPs4TZiF7okY+M=;4tgu3XcQ9cebyDjZDRIqCg=="
 ---

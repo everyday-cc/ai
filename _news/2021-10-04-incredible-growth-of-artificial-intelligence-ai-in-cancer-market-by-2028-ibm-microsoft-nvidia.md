@@ -9,8 +9,8 @@ ampWebUrl: "https://www.globalbankingandfinance.com/incredible-growth-of-artific
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/incredible-growth-of-artificial-intelligence-ai-in-cancer-market-by-2028-ibm-microsoft-nvidia/"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: List of Banks in Belarus
@@ -27,6 +27,17 @@ related:
     webUrl: "https://www.globalbankingandfinance.com/incredible-growth-of-gpu-database-market-by-2028-kinetica-omnisci-sqream/"
     ampWebUrl: "https://www.globalbankingandfinance.com/incredible-growth-of-gpu-database-market-by-2028-kinetica-omnisci-sqream/"
     cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/incredible-growth-of-gpu-database-market-by-2028-kinetica-omnisci-sqream/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 36
+  - title: "Cognitive Computing Market Size, Growth and Key Companies – Microsoft, Google, IBM, Numenta, SAS Institute, AWS"
+    excerpt: "The research study presented here is an intelligent take on the Cognitive Computing Market that explains important aspects such as competition, segmentation, and regional growth in great detail. Accuracy and preciseness are two of the key features of the report that reflect its authenticity."
+    publishedDateTime: 2021-10-05T18:39:00Z
+    webUrl: "https://www.globalbankingandfinance.com/cognitive-computing-market-size-growth-and-key-companies-microsoft-google-ibm-numenta-sas-institute-aws/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/cognitive-computing-market-size-growth-and-key-companies-microsoft-google-ibm-numenta-sas-institute-aws/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/cognitive-computing-market-size-growth-and-key-companies-microsoft-google-ibm-numenta-sas-institute-aws/"
     type: article
     provider:
       name: List of Banks in Belarus

@@ -25,6 +25,20 @@ images:
 
 related:
   - title: "New Study from StrategyR Highlights a $3.5 Billion Global Market for Artificial Intelligence (AI) in Call Centers by 2026"
+    excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
+    publishedDateTime: 2021-10-05T15:55:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-study-from-strategyr-highlights-a-3-5-billion-global-market-for-artificial-intelligence-ai/article_b5013da9-3eda-5d4a-9314-ac1d25eecf40.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 29
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/2a/72a26372-8415-5907-9921-133fb43cfc96/615c7784697c2.image.jpg?resize=1001%2C630"
+        width: 1001
+        height: 630
+        isCached: true
+  - title: "New Study from StrategyR Highlights a $3.5 Billion Global Market for Artificial Intelligence (AI) in Call Centers by 2026"
     excerpt: "September 2021 Executive Pool: 73886 Companies: 110 - Players covered include Artificial Solutions; Avaamo; Avaya; AWS; Conversica; Creativ"
     publishedDateTime: 2021-10-05T17:28:00Z
     webUrl: "https://www.mobilitytechzone.com/lte/news/2021/10/05/9463266.htm"

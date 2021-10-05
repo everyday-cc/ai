@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/ai-and-machine-learning-where-are-the-
 webUrl: "https://www.zdnet.com/video/ai-and-machine-learning-where-are-the-checks-and-balances/"
 type: article
 quality: 84
-heat: 86
+heat: 87
 published: true
 
 provider:

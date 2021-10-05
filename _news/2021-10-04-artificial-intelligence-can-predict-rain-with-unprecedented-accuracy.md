@@ -55,15 +55,6 @@ related:
         width: 2440
         height: 1627
         isCached: true
-  - title: "AI soon capable of predicting fatal heart disorders"
-    excerpt: "Scientists have developed an artificial intelligence model that has the ability to predict the occurrence of cardiac arrhythmias."
-    publishedDateTime: 2021-10-01T04:07:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/leisure/health/2021/10/01/ai-soon-capable-of-predicting-fatal-heart-disorders/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
 
 secured: "+7IqXyF7kAUNTF5iwGVbcW6DRsIf4pzyalaeJfegs/Jfl9KVp+o6tqObmKJtgV7bW3dDHiW6XUDm1A91owHx87pV+0nZCSm3hEqYajwuYxTk6jLF/mAIvK5qawGNdCydxxEM6/S+9T27M07nOeHCgITPqcuBRiTkr9eGp46zHjpBjCN4M95APPG40n7gw03yJMBPDQ/gebiOtqjYagF034YXF6ZAi7j2NhwUEZNBneEkWz17jrf/NnHIXZ+HfJXGor3XIOhmNaFdT3nJrd758itrhJ9I32/oBhYMEZrQQrOxi3TPQue0rM72c1S7RUtlGMwnIZ5Kvw+cIXZchCPWW22aW/ZD5AQr8Mw3csDbrqj6jKj/gHXGedJaQ0xQ3/nqnMrr2JFXt/ZL0A0X9CCcoFQOQ4vsAKUQC52/Z68Pbu8auXMLGmRfgyemxpSxmYM4Mh4FD0kSaWyFIfFmTN0FG+HyP9nP6+3nYhPtxCURnc5iwLc0KBbvR1/fIdNUIHp+e/Q0m2VoMA6QezR9hN+0Ww==;XMQlD4AZHny+TH7A0wd00g=="
 ---

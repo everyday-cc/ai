@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-05T19:34:00Z
 originalUrl: "https://thenewstack.io/vmware-extends-tanzu-support-for-nvidia-ai-enterprise/"
 webUrl: "https://thenewstack.io/vmware-extends-tanzu-support-for-nvidia-ai-enterprise/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://cdn.thenewstack.io/media/2021/10/4b0d619d-screen-shot-2021-10-05-at-17.44.24.png"
@@ -65,6 +66,6 @@ related:
         height: 630
         isCached: true
 
-secured: "IwQa0gtYvTj7VlyGjhKQw4J7HfJKlb1NIYoGlJo/FKcXN/OJha+3RNrd0A81zZzWKCY56jfNhQ/Wubguo/foGJDLfT3J0PWj1p5yx+klyDVy9nNYo8YdfKkZ6v+MbEnYzXujyT1eALzthNEJaL6yZ4IH31Fi+O9AtIP4LV2jbQTrDE+ERvn76q5g8/ynwF8Z44GuXugpZFSXgEIGc3ciksg4a3+8PuNbkCTPzQyG8CGzqqqeeRqghuTP5S2yhXccHAja08BU4V33yM6KcCqY9s5ITHAWlQQeMPBQ/p59+uK/leg1lqLu4SBYlDAC/ABu64Ye7EJaHEDS7xADARKMO/OS3D9wKPuyoW0367szWHE=;Ll0Ng4jHMXaN5gkkpx1ucw=="
+secured: "lRHaU2pL6IV7SJP1Xs5kwXKCS361wtiP5ACqa8W6BXqC9CvOrtfOuEBhUOSfdE5NQCBUX48zj86lCMV+rDZocJBrHDaWXhrdTFZDnBNREd3IDZj+qOZJ5ESmCuKPyXRhCqCtMnkO/n++7yEnpNnIuMx/BECCZ9HNpuq2rcCXNLuqLhS5NzcdR4YK/UV9JnzDyojNZHz04pxzxjLVPtSbcsZoEnIJQe+0caRwOAOIpMNPKqN+tirz7JIBwzCq7LXgJMfBjwXvnwIX4iSNi/dl4I14tRaHqcp+MgWpNvwds4+OeO8bwhL6YePO/B6wwPx060MO1XLZ/YRSSIXgXCslRdXju/8DJ2WHr4UFyODXLK/i044k/Gey8UazPBoKC62nYUvwAkcbuuXbX0nWwC+Ey1XOz9ec/8M8KiMWcJtuO+ZLcbi9/Yo7XEhZLjlc/6WrCt9NACB4i0L3ag6GDKA6wxxLnblaSfVyEPHXmcYQDP2Hi/aCMArIFFQs7XDb/pnmcFHHcGQEubkZcQZE2SpwEA==;URFZ3oHSOHkwl7Zq500OIg=="
 ---
 

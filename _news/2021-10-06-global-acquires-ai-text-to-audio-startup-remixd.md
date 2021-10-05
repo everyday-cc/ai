@@ -107,15 +107,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Thales to Spark Innovation among Five AI Startups with Season 3 of"
-    excerpt: "Thales has launched Season 3 of [email protected], a business accelerator designed to help artificial-intelligence focused startups tackle real-world problems. Thales selected fiv"
-    publishedDateTime: 2021-10-01T03:20:00Z
-    webUrl: "https://www.publicnow.com/view/870D873E6E622378CF5A1823C75B1501F88D444B"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 17
   - title: "Gap Inc. Acquires AI Startup CB4"
     excerpt: "Gap Inc. (NYSE: GPS) has acquired the New York and Tel Aviv based start-up Context-Based 4 Casting Ltd. that uses cutting-edge AI and machine learning tools to transform retail op"
     publishedDateTime: 2021-10-04T16:04:00Z
@@ -126,6 +117,6 @@ related:
       domain: tmcnet.com
     quality: 17
 
-secured: "p1UVppsGlKvkH5NwlJu6NgdTdGjFLXvEma/pUngDCjuQ5LYLR3Zs+x3S9QAQB1PVgPj0c4qcu9LnQmiAnLzelTXS6RXmhF9tJlH2zxFZQ/YIGtpbBAo1MTjnI6zkAV1CsRMLAGN4Gof+WhhXH15hMJbvPgQ8PGYuBdbVAO9gD2AdSnRWd1tqiuh7zzbuQssqdxfzoM2C/zV7OJJglQ6k7x5TxuN1f8uhs0xwSidsN8P8fvLxB2hLszNjyu/m2CZ0pGh0cHb/txfS8MamKEEWskkzFjnKYiA/QedEAvzZ5LqTA111vEx0du0sCgVuEl2UChfCoBv6WuEr/MNcDcTlkAyGB6EyZHtGitpWcI08R90=;XKoOV+9BwotNHb3IqcuTLQ=="
+secured: "L2weqzdTmV0evGysCVMYUz9pCVpEHUlk57D7qinPsN4qKp6Zil85E4gOm7K+pATfvC7ZLS47eMkg1AMwYA74tOPntS6jjJMbe7m0inNj/Bz1cxonblhZNnvB1r+7Dvbzpez/xaTCLD+qWF+My/Afre+U24jQYlRmrXZQ+Cr/XBB3iASXmlboJn+YGGvYnKaSZRhw0nFgYEswKTF+P91cH7qBbKB2gNWb/YVLn8iH5qAyG/v127FQ3L97YJhZ9rglO09N73g0CI+UaXbF2ilLqHWNDL+OB3shMXcrx3wQ7pStoqb5JNALuSTca8z2bVFkgzGPs4Y49QzxkIMD2bkQBotExf8xZogD9AcJskXlnTvNmsDNqdhMJ+foybRa+w7R9WTJ+hgn+E3XVxFDyEEdW9DvRI4ShI1UQP4mr4x3z9+RDo1Nq4NHVkTixlH7QubcGqRQ9vv/bJePdrAm98qXoA9RWQS6u3u7QfK5Yx17uJ2HC8qwl2Vcp2cwbHIH3hwDT2LUnK1SpKCEmF3/JNb5eg==;rl1ebvZqmIG/RNRJJvSmGg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1102901940/ThreeD-Capital-Inc-Reports-Peak-Fint
 webUrl: "https://menafn.com/1102901940/ThreeD-Capital-Inc-Reports-Peak-Fintech-Group-Inc-Completes-Acquisition-of-Cubeler-Inc"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,31 @@ images:
     width: 450
     height: 250
     isCached: true
+
+related:
+  - title: "Cowbell Cyber Named to the 2021 CB Insights Fintech 250"
+    excerpt: "Cowbell® Cyber, the industry's first AI-powered cyber insurance provider for small to medium enterprises (SMEs), today was named to the fourth annual CB Insights Fintech 250, a prestigious list of emerging private companies working on"
+    publishedDateTime: 2021-10-05T20:40:00Z
+    webUrl: "https://www.lelezard.com/en/news-20032044.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 24
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Onfido Named to 2021 CB Insights Fintech 250 List of Top Fintech Startups for Fourth Year Running"
+    excerpt: "CB Insights today named Onfido to its fourth annual Fintech 250 for the fourth year running. Fintech 250 is a prestigious list of emerging private com"
+    publishedDateTime: 2021-10-05T20:44:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211005006187/en/Onfido-Named-to-2021-CB-Insights-Fintech-250-List-of-Top-Fintech-Startups-for-Fourth-Year-Running"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "eyBVQweRdKUEPks9enBO/tBHto8Kye71qRf+QYzLCvnN8fgdUTUawnjMCHZomeg0nuFIGYepUU5Zpg+qINWjRnoL8uVxYhsDkcAOuZATmPzvrELdt3q28H/z5s3zvOkI/i+5ZKZFshbABE4yV6gyqCI4OMIIWcUZ8wFZZ+nGFEOPAAMVuqTLp5s3PQMNw+Lh2AJn8SuyB9LFLWP0YN8lhs5JFYQL97psx5Q5CsHHBelFiy24FHRCfbRAjaxMMaNDGwLRurc/GcdVdk/zTCEc2Mi/kdGzoQHHD9iFiapfy4zYEriVJTAxdF3hxUs7o1AimU/N3WqKQWB/saIinT46zcGYWipVKwWcjOBqvVAuXpc=;3ZY3kP2S/cMnn2dUuMkIsQ=="
 ---

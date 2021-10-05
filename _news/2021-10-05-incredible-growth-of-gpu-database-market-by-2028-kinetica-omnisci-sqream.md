@@ -32,6 +32,17 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 55
+  - title: "Cognitive Computing Market Size, Growth and Key Companies – Microsoft, Google, IBM, Numenta, SAS Institute, AWS"
+    excerpt: "The research study presented here is an intelligent take on the Cognitive Computing Market that explains important aspects such as competition, segmentation, and regional growth in great detail. Accuracy and preciseness are two of the key features of the report that reflect its authenticity."
+    publishedDateTime: 2021-10-05T18:39:00Z
+    webUrl: "https://www.globalbankingandfinance.com/cognitive-computing-market-size-growth-and-key-companies-microsoft-google-ibm-numenta-sas-institute-aws/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/cognitive-computing-market-size-growth-and-key-companies-microsoft-google-ibm-numenta-sas-institute-aws/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/cognitive-computing-market-size-growth-and-key-companies-microsoft-google-ibm-numenta-sas-institute-aws/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 36
 
 secured: "n4x7lNys+IaQp9HMeto1tSe6jzUcqP9Ww9hrjwrPjNJgjzjy5gGtzlHyYAsOtKxNXQtNiQWhJgm2E7f+pQq1Cf3H8z9wOu0EmqqBV6QXqKhfXoNstY19biIgKP04lTUopeFkkVuip4VMYlDA0LPmJ7a2KDHmo+E4s2danRXK3D/RPz+7MgBswhdCLDpGVqFU3ZFDPLUMXOkZPr1u7+37d+wY11ulZ1+MbN/d6mE2YR+hglaMT/vEAYWSa3UjD3RxJurmS8NSzp+FsMqaqWkwfL90Vox2okAfZQ5G4OFyjF1gGPOBgS7L6FWdlGRbPP4TQGRElEHfLhTuQeaypfi2tfu/jpX8CZQS1hm6V8+mG10=;M0ieBT4jWSjDbgltMddiGA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-start
 cdnAmpWebUrl: "https://fashionunited-com.cdn.ampproject.org/c/s/fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600"
 type: article
 quality: 74
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -108,15 +108,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Thales to Spark Innovation among Five AI Startups with Season 3 of"
-    excerpt: "Thales has launched Season 3 of [email protected], a business accelerator designed to help artificial-intelligence focused startups tackle real-world problems. Thales selected fiv"
-    publishedDateTime: 2021-10-01T03:20:00Z
-    webUrl: "https://www.publicnow.com/view/870D873E6E622378CF5A1823C75B1501F88D444B"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 17
   - title: "Gap Inc. Acquires AI Startup CB4"
     excerpt: "Gap Inc. (NYSE: GPS) has acquired the New York and Tel Aviv based start-up Context-Based 4 Casting Ltd. that uses cutting-edge AI and machine learning tools to transform retail op"
     publishedDateTime: 2021-10-04T16:04:00Z
