@@ -2,6 +2,101 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-09-19-mit-researchers-combine-voice-and-object-recognition-in-new-model.md",
+      "title": "MIT researchers combine voice and object recognition in new model",
+      "excerpt": "Researchers at MIT have developed a new system that combines voice and object recognition capable of identifying an object within an image given only a spoken description of that image.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/mit-researchers-combine-voice-and-object-recognition-in-new-model/",
+      "originalUrl": "https://sdtimes.com/ai/mit-researchers-combine-voice-and-object-recognition-in-new-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2018/09/MIT-Audio-Images_0.jpg",
+          "width": 639,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-19-new-deals-may-double-240m-funding-for-mit-ibm-ai-lab-director-says.md",
+      "title": "New Deals May Double $240M Funding For MIT-IBM AI Lab, Director Says",
+      "excerpt": "Now, the Cambridge, MA-based MIT-IBM Watson AI Lab is growing in personnel, funding, partners, and square feet, says David Cox, a former Harvard professor who leads the program for IBM (NYSE ...",
+      "sourceUrl": null,
+      "webUrl": "https://xconomy.com/boston/2019/09/19/new-deals-may-double-240m-funding-for-mit-ibm-ai-lab-director-says/",
+      "originalUrl": "https://xconomy.com/boston/2019/09/19/new-deals-may-double-240m-funding-for-mit-ibm-ai-lab-director-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.xconomy.com/wordpress/wp-content/images/2019/09/19151247/mit-ibm.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Xconomy",
+        "domain": "xconomy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-19-facepalm-as-researchers-crack-advanced-facial-recognition-tech-with-simple-makeup.md",
       "title": "Facepalm As Researchers Crack Advanced Facial Recognition Tech With Simple Makeup",
       "excerpt": "The concerning part of all of this is that the research also explained this “attack has a high level of inconspicuousness and thus can be launched in the real world.”",
@@ -1068,101 +1163,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-2022-genesis-gv60-ev-to-arrive-with-facial-recognition-like-a-smartphone.md",
-      "title": "2022 Genesis GV60 EV to arrive with facial recognition like a smartphone",
-      "excerpt": "It seems the incoming 2022 Genesis GV60 EV will arrive with more than just love-it or hate-it styling, funky paint colors, and a mysterious floating oddity on the center console. In a recent",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/2022-genesis-gv60-ev-to-arrive-with-facial-recognition-like-a-smartphone-17691257/",
-      "originalUrl": "https://www.slashgear.com/2022-genesis-gv60-ev-to-arrive-with-facial-recognition-like-a-smartphone-17691257/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/09/genesis_gv_60_ev_017.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/2022-genesis-gv60-ev-to-arrive-with-facial-recognition-like-a-smartphone-17691257/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/2022-genesis-gv60-ev-to-arrive-with-facial-recognition-like-a-smartphone-17691257/amp/",
-      "publishedDateTime": "2021-09-17T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-science-could-make-self-driving-cars-know-when-theyre-failing-before-its-too-late.md",
-      "title": "Science Could Make Self-Driving Cars Know When They’re Failing, Before It’s Too Late",
-      "excerpt": "No matter what car makers’ marketing says, scientists affirm that the current self-driving technologies are still not safe enough. Various research and development projects continue to improve autonomous driving technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoevolution.com/news/science-could-make-self-driving-cars-know-when-theyre-failing-before-its-too-late-169607.html",
-      "originalUrl": "https://www.autoevolution.com/news/science-could-make-self-driving-cars-know-when-theyre-failing-before-its-too-late-169607.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.cdn.autoevolution.com/images/news/science-could-make-self-driving-cars-know-when-theyre-failing-before-its-too-late-169607-7.jpg",
-          "width": 728,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-17T02:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "autoevolution.com",
-        "domain": "autoevolution.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

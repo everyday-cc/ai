@@ -43,20 +43,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Facial recognition trial upsets privacy commissioner"
-    excerpt: "Using facial recognition to figure out how long people will wait in a queue is like using a sledgehammer to crack a nut. That's according to the Privacy Commissioner who has serious concerns about the scanning tool being used at Wellington Airport The tool is used to count passengers passing through security and how long they wait in a line."
-    publishedDateTime: 2021-10-01T00:38:00Z
-    webUrl: "https://www.rnz.co.nz/national/programmes/middayreport/audio/2018814656/facial-recognition-trial-upsets-privacy-commissioner"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 39
-    images:
-      - url: "https://www.rnz.co.nz/assets/news_crops/123200/eight_col_126044392_m.jpg?1621998715"
-        width: 720
-        height: 450
-        isCached: true
 
 secured: "JygMt452qiHhokPyk+5RXwAS+vjTMmXTvJ262EMrgiNTK4KGOHH3AAeoIOcZXtrkOErEKySFmW3QhpwtlAN6PDCiQMIHU7MR+u8J6co/vzRBe6X0eYoYPg5Mj5QI4d65t5K6aymO9M9NkQy2b0AKy0PV3h9yOS1njKGE0Q8tgQ+t1jAe6S4rdyl+TZ8MmaWK81+UWvWHiYWQ3V8+oPMVFk5BdJs5mkZ5vJSNyXTPIt4eoiMkdYtUOJvs5VAc+rdDoLLn67P9c5TWDuib4l68nrhZAoJvR4jYqFbQCGAwHHnu8BNYkiyoJ33VJSMW3/7qZnrlynB/5E8kdpB3n4tPGYFqJ0hHHmi3rRZs1D5XMwI=;9+IOxaA5JmR2v3J+s1PGtQ=="
 ---

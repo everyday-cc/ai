@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-10-communism-and-sitcoms-inspire-ai-ethics-at-salesforce.md",
+      "title": "Communism and sitcoms inspire AI ethics at Salesforce",
+      "excerpt": "Salesforce VP Yakaira Núñez's experiences taught her that it's important to consider your non-target audience in your AI roadmap.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/",
+      "originalUrl": "https://venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Women-in-AI-Awards-1.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/amp/",
+      "publishedDateTime": "2021-09-10T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-ethics-panels-reject-and-delay-biometrics-ai-projects-for-google-ibm-microsoft.md",
       "title": "Ethics panels reject and delay biometrics, AI projects for Google, IBM, Microsoft",
       "excerpt": "Companies are waiting for regulation from govts and blocs, and also to improve their own tech to avoid issues such as perpetuating biases around race and gender",
@@ -1353,58 +1405,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-ai-weekly-the-road-to-ethical-adoption-of-ai.md",
-      "title": "AI Weekly: The road to ethical adoption of AI",
-      "excerpt": "Adopting AI responsibly isn't easy. Challenges stand in the way -- but they can be overcome with careful design considerations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/13/ai-weekly-the-road-to-ethical-adoption-of-ai/",
-      "originalUrl": "https://venturebeat.com/2021/08/13/ai-weekly-the-road-to-ethical-adoption-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1233936320-e1628785375195.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/13/ai-weekly-the-road-to-ethical-adoption-of-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/13/ai-weekly-the-road-to-ethical-adoption-of-ai/amp/",
-      "publishedDateTime": "2021-08-13T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI Ethics"
       ]

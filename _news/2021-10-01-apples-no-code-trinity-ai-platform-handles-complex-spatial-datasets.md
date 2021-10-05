@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/01/apples-no-code-trinity-ai-platfor
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/01/apples-no-code-trinity-ai-platform-handles-complex-spatial-datasets/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "People.ai Wins Comparably Awards for Best Company Happiness, Best Company Compensation"
+    excerpt: "People.ai, the premiere revenue operations and intelligence (RO&I) platform, today announced it has won the Best Company Happiness and Best Company Compensation awards from Comparably, one of the fastest-growing compensation,"
+    publishedDateTime: 2021-10-05T16:53:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/aee050fb8c1adc651a2efa4004f78a14"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 29
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "NqxLaOUxXfTvXKormz1vrsYuFEyE9Peg84HBoQ3dVJdJFAoM+tmH/7uwakW9cwigblk9VRoS5OKNwDVklaU9aA+O7q50P+tabjLqu8K8412ZHoo+rqgBnuMQ0W1mfZg+n0MX+S80TdTCyfLi+LqsKEjkhMRpE8+XyUarxuVd9LQfCvnp+jBR9Cvelf83FZSMsQQxWAThOs2QIDtwRXKjkfePXJcu/mOnG44XJQj1FLCGvLeUZiD5020skD5CVhg6DZzzpv2SaFVfcbg+oipuxcQWrfZimupwN4jDhJNQbpRMPu3dfHbWU0SI4P1IzsLD/Nd5Csvd49LJJpYwPmHiBFy+wZnXYNOCl4iZC/mkA6Bo5KnNggGAr66VsrVDs6/Nuy7N9nsCXhmBY9fuGuQyt7B7hQpXIYYQlMm+OORsBnXIhvm5ANtnhlztoFrcX2looq8JIR0AQljCTXM0RFcqf1Mg5ei1UjYfRMffkCDnTivEvzEpDWLNRrIIE91krM/8dpMAak9jIzwW6ZI6goJYiA==;mS5Bb2+zy0JKEAUc9vRUUw=="
 ---

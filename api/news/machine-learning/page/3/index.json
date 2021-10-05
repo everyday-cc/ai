@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-16-using-machine-learning-for-anomaly-detection-and-ransomware-recovery.md",
+      "title": "Using Machine Learning for Anomaly Detection and Ransomware Recovery",
+      "excerpt": "Powered by machine learning, Rubrik enables businesses to respond quickly to the latest threats automatically and minimize business disruption and data loss. They can effectively gather a clear picture and better insight into the anomalies that impact their environment regularly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/3633171/using-machine-learning-for-anomaly-detection-and-ransomware-recovery.html",
+      "originalUrl": "https://www.cio.com/article/3633171/using-machine-learning-for-anomaly-detection-and-ransomware-recovery.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/09/artificial-intelligence-machine-learning-and-modern-computer-and-picture-id1209989402-100903158-large.jpg?auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-16T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-16-can-machine-learning-improve-client-outcomes.md",
       "title": "Can machine learning improve client outcomes?",
       "excerpt": "There are a number of perspectives on how data science, artificial intelligence and machine learning could ... operational efficiencies of how financial services practitioners – including ...",
@@ -1257,59 +1301,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-deepmind-aims-to-marry-deep-learning-and-classic-algorithms.md",
-      "title": "DeepMind aims to marry deep learning and classic algorithms",
-      "excerpt": "If successful, DeepMind's goal to bridge deep learning and classical computer science could revolutionize AI and software as we know them.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/10/deepmind-aims-to-marry-deep-learning-and-classic-algorithms/",
-      "originalUrl": "https://venturebeat.com/2021/09/10/deepmind-aims-to-marry-deep-learning-and-classic-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1262867852-e1631215030724.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/10/deepmind-aims-to-marry-deep-learning-and-classic-algorithms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/10/deepmind-aims-to-marry-deep-learning-and-classic-algorithms/amp/",
-      "publishedDateTime": "2021-09-10T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

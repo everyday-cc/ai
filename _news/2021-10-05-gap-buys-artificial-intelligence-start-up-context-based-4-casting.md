@@ -27,18 +27,18 @@ related:
   - title: "Gap Inc. acquires AI startup CB4 to drive sales"
     excerpt: "Gap has acquired AI startup CB4 to improve retail operations through predictive analytics and demand sensing. “We believe artificial intelligence and machine learning will shape the future of our industry."
     publishedDateTime: 2021-10-05T10:26:00Z
-    webUrl: "https://fashionunited.com/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600"
-    ampWebUrl: "https://fashionunited.com/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600?amp=1"
-    cdnAmpWebUrl: "https://fashionunited-com.cdn.ampproject.org/c/s/fashionunited.com/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600?amp=1"
+    webUrl: "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600"
+    ampWebUrl: "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600"
+    cdnAmpWebUrl: "https://fashionunited-com.cdn.ampproject.org/c/s/fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600"
     type: article
     provider:
       name: fashionunited.com
       domain: fashionunited.com
     quality: 74
     images:
-      - url: "https://fashionunited.com/GY-SUw0gbscbZrOmfmjTS0RWCow7dpihQdLyAlmqgR4/resize:fill:740:0:0/gravity:sm/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvbWFzdGVyLzIwMjEvMTAvMDUvMTIwMHB4LWdhcC1sb2dvLXN2Zy1mMHdvaDQ5aC0yMDIxLTEwLTA1LmpwZWc"
-        width: 740
-        height: 459
+      - url: "https://fashionunited.com/UUP2jAnSbMTf2wCkU6WZm5VCOGW7PmAHjB96odlvT0E/resize:fill:1388:781:1/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvbWFzdGVyLzIwMjEvMTAvMDUvMTIwMHB4LWdhcC1sb2dvLXN2Zy1mMHdvaDQ5aC0yMDIxLTEwLTA1LmpwZWc"
+        width: 1388
+        height: 781
         isCached: true
   - title: "Gap Inc. acquires AI startup CB4 for better retail analytics"
     excerpt: "The startup examines point-of-sale (POS) data to uncover consumer demand patterns and identify stores that should be selling more of a specific item."
@@ -79,6 +79,20 @@ related:
         width: 770
         height: 364
         isCached: true
+  - title: "Gap Inc. Acquires US-Israeli Retail AI Startup CB4"
+    excerpt: "CB4’s technology makes recommendations that support new sales and more satisfied customers through the resolution of frequent in-store issues."
+    publishedDateTime: 2021-10-05T16:49:00Z
+    webUrl: "https://nocamels.com/2021/10/gap-inc-acquires-us-israeli-retailai-startup-cb4/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/12/retail.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Thales to Spark Innovation among Five AI Startups with Season 3 of"
     excerpt: "Thales has launched Season 3 of [email protected], a business accelerator designed to help artificial-intelligence focused startups tackle real-world problems. Thales selected fiv"
     publishedDateTime: 2021-10-01T03:20:00Z
@@ -98,6 +112,6 @@ related:
       domain: tmcnet.com
     quality: 17
 
-secured: "Kc4RVsqSW7fVscBjSVFHZE03A287FRnEERkjHMRk+CWY+W0MC7GYXR5a+6aEX2ZHjyF7e0ZCdUcUP6/u7lsmfP+dZndbbixWC+KHmXS2aY0Cep8iEiE92RLTgNVXePox9Alywf88YxjxnTSvhHvj8U+hYmkEbB74wf2Yaz1wczcp5B+AU/mhyHvkQiLEPPuekCvGmfKyUfKJ8XmONKnIXxTOItDlIT6UXq5pam5jlHvsZUGw+4HcCKDAl0tUIIEVXVhgqv+CIv+AknROYU+3VckqD9APrueuzlHr2Nl7ylQyh/E40ESIdBz6MO+qI+grBba++RHZNByVhq+5P2wz6bBynUSS3R/bb108J6LjiKw=;vTPyTgZHWmjQ8o5A/FtEdw=="
+secured: "IO3yGYJnppLwapiS9sidJOWD+sdXq6TNcLYwlISqYz/jW4WU+l5DoW7GsI6gH5ACL8cG9r6eQdI91pMNQoyL8Ms0IG816KRzImvW2EFtMloUhZlaSrul6NYs8VNrffF1dYqHb+cY4RsJICwpcVm21mggG/RlDuVcGrBwYGWT+ZpZYLXeZ/IVlImd0YGoB8J9i0CmN1QwBOfQQPpIal0J2kN68Ohe4wFJhsDHBoRJYf30HzlEws04C8xutyrPHci7QsNQgMDi/fIJpjWQbTTj1oaIG2rp0r9KMss6+nytXthP3a2btM0ySmJtc6E3CAvq9DBRzwPqWbfYcy/wxg4JQgfjgzcsSdDMDQegrkFBKZ+ya40Z5edmvxYvEGygNN5uD0AUjehmWnyw6gSAIdZZ4zwxAN6MCuAz69xENWUoduiP4hatW5/8QcIQ8Uytv4SzF/I00UJ1LVFdefT61SUPDocQ/l1bGmqmOGnnK8SlMFfFnIp/qDnPz5kU+3tumTxeFvpYMn03ifyUQUpaVzLXiQ==;77rRGxYY7hW1PMzsoUPObw=="
 ---
 

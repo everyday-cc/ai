@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-21-ai-weekly-ai-research-still-has-a-reproducibility-problem.md",
+      "title": "AI Weekly: AI research still has a reproducibility problem",
+      "excerpt": "QMIX is a popular algorithm that implements CTDE, and many research groups claim to have designed QMIX algorithms that perform well on difficult benchmarks. But a new paper claims that these algorithms’ improvements might only be the result of code optimizations or “tricks” rather than design innovations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/20/ai-weekly-ai-research-still-has-a-reproducibility-problem/",
+      "originalUrl": "https://venturebeat.com/2021/08/20/ai-weekly-ai-research-still-has-a-reproducibility-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=800%2C414&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/20/ai-weekly-ai-research-still-has-a-reproducibility-problem/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/20/ai-weekly-ai-research-still-has-a-reproducibility-problem/amp/",
+      "publishedDateTime": "2021-08-20T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-facebook-shares-ai-advancements-improving-content-moderation.md",
       "title": "Facebook shares AI advancements improving content moderation",
       "excerpt": "Facebook on Wednesday shared some ... \"Zero shot and few shot learning is one of the many cutting edge AI domains where we've been making major research investments, and we expect to see results ...",
@@ -1315,49 +1367,6 @@
         "Facebook AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-artificial-intelligence-stocks-the-10-best-ai-companies.md",
-      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
-      "excerpt": "AI could be the 21st century's biggest new industry. Long a focal point of science fiction, AI is no longer a curious theme to ponder for the distant future — it's here.",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/",
-      "originalUrl": "https://wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/amp/",
-      "cdnAmpWebUrl": "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/amp/",
-      "publishedDateTime": "2021-07-12T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare",
-        "AI Hardware",
-        "Natural Language Processing",
-        "IBM AI",
-        "Facebook AI",
-        "Microsoft AI",
-        "AI in Robotics",
-        "AWS AI"
       ]
     }
   ],

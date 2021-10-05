@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-06-china-publishes-code-of-ethics-to-regulate-artificial-intelligence-what-would-isaac-asimov-say.md",
+      "title": "China publishes code of ethics to regulate Artificial Intelligence, what would Isaac Asimov say?",
+      "excerpt": "Going ahead of Europe, China has already published a six-point code of ethics to regulate Artificial Intelligence, giving 'full decision-making power' to humans, very similar to Isaac Asimov's laws of robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/389467",
+      "originalUrl": "https://www.entrepreneur.com/article/389467",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1633454310-Oct5InteligenciaArtificialChinacdigoticoleyesIsaacAsimovrobotsrobtica.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-why-we-must-consider-the-intergenerational-impacts-of-ai.md",
       "title": "Why we must consider the intergenerational impacts of AI",
       "excerpt": "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Sara Stratton, Founder, Māori Lab &",
@@ -1335,58 +1388,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-communism-and-sitcoms-inspire-ai-ethics-at-salesforce.md",
-      "title": "Communism and sitcoms inspire AI ethics at Salesforce",
-      "excerpt": "Salesforce VP Yakaira Núñez's experiences taught her that it's important to consider your non-target audience in your AI roadmap.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/",
-      "originalUrl": "https://venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Women-in-AI-Awards-1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/amp/",
-      "publishedDateTime": "2021-09-10T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

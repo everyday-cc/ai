@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-01-mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi.md",
+      "title": "Mega summit on artificial intelligence (AI) held in Vigyan Bhawan, New Delhi",
+      "excerpt": "PTI takes no editorial responsibility for the same.) The second edition of the Global Artificial Intelligence Summit & Awards (GAISA), was a two day event, where companies were felicitated for their pioneering work, in the field of AI. New Delhi ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/newsscroll/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "originalUrl": "https://www.outlookindia.com/newsscroll/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "publishedDateTime": "2021-10-01T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-10-01-intel-advances-neuromorphic-with-loihi-2-new-lava-software-framework.md",
       "title": "Intel advances neuromorphic with Loihi 2, new Lava software framework",
       "excerpt": "Intel has introduced Loihi 2, its second-generation neuromorphic research chip, and Lava, an open-source software framework for developing neuro-inspired applications. Their introduction signals Intel's ongoing progress in advancing neuromorphic technology.",
@@ -52,7 +96,7 @@
       "originalUrl": "https://newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -125,6 +169,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-qlik-acquires-big-squid.md",
+      "title": "Qlik acquires Big Squid",
+      "excerpt": "Data analytics and integration solutions company Qlik has acquired no-code automated machine learning (AutoML) provider Big Squid. Qlik announced the move as part of its move to expand its data ...",
+      "sourceUrl": null,
+      "webUrl": "https://itwire.com/strategy/qlik-acquires-big-squid.html",
+      "originalUrl": "https://itwire.com/strategy/qlik-acquires-big-squid.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/c47dbbac9debca97d35c612a099c13a0_M.jpg",
+          "width": 375,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-30T17:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1116,101 +1203,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-niti-aayog-aws-intel-collaborate-for-experience-studio.md",
-      "title": "NITI Aayog, AWS, Intel collaborate for experience studio",
-      "excerpt": "Niti Aayog, Amazon Web Services (AWS) and Intel have come together to establish a new experience studio that will be a hub for collaboration and experimentation. The studio has been set up at the Niti Aayog Frontier Technologies Cloud Innovation Centre (CIC) in Niti Aayog''s premises here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/newsscroll/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369",
-      "originalUrl": "https://www.outlookindia.com/newsscroll/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369",
-      "publishedDateTime": "2021-09-30T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond.md",
-      "title": "Semiconductor Stocks That Stand To Gain Through The Chip Shortage And Beyond",
-      "excerpt": "Our theme on Stocks That Benefit From The Semiconductor Shortage, which includes companies that produce machinery and tools for chipmaking and semiconductor players with their own fab capacity, has returned about 26% year-to-date,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/09/30/semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/09/30/semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe2ea7a3525e3f86a796cf5%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/09/30/semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/09/30/semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond/amp/",
-      "publishedDateTime": "2021-09-30T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

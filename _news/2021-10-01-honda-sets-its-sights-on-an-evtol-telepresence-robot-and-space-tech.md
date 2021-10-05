@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/technology/honda-future-focus-evtol-telepresenc
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/?amp=true"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FUntitled-design-16-2.jpg&signature=43f2a28c8d2f3abde4fe4d01c91fa1f9"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Honda sees its future in air taxis, rockets and moon robots"
-    excerpt: "Honda's vision of how people will work, travel and spend leisure time in the future will help expand its business beyond cars, lawn mowers and motorcycles. The efforts are a key component of Honda's \"2030 Vision\" to broaden the definition of mobility and to improve peoples' daily lives."
-    publishedDateTime: 2021-10-01T00:14:00Z
-    webUrl: "https://www.nationthailand.com/tech/40006870"
-    type: article
-    provider:
-      name: nationthailand
-      domain: nationthailand.com
-    quality: 54
-    images:
-      - url: "https://media.nationthailand.com/uploads/images/md/2021/10/yrHKYUG2ssVzuXoZG4Gz.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "6N1mWQmnkVQhkGGJ/zaer/yKWTnfYJSxXt7Y64WIOzoIEWEv2jReIYCOaORoApKdKm6NWZp7sl/reKYmjiPnYzvz9mVMeOELNKBeNJs6pNveyPh4SjSoXjoaQoxV9PlAJfqca87UpunWM1LTB9JuITWTviZmFlDyIBRBhOk7zpzvYLJIJGK15EmCtIl6Z+CCblxjB/NBWBHQe0FExtcxaLaTE5jkHyY2N4Ula3QaoVHmFIP1AzHf0KIL40GxhC+ILepMQAXjyd2WVPghohEXEUf2jZF50GdBNwnFSO7ilquXZqyxZvMiq3vYNseoIcuapXZ7YxlobmF+zgrjbyqRoCRkaDw1J+3lKZOXD74uwcTH7lE3LorkXyFee/sGhzAIVaXuIOWv/Bg0An/IgHWE7qo1C14gCaDrqL24UDXojuqx2UEz28iwhzdqev8aV23vyMuO6OX8amw3C+jDx98EVIjRCeUfGdh8zLyfpSL7qXvxFX8U8aXMOJhJag2EY4YxsaU9MrP1JmOat8mkUY5ILA==;BetFyAsC2RAcC3t7VJWkIA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/science/25102/googles-deepmind-ai-has-just-r
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/science/25102/googles-deepmind-ai-has-just-reduced-conventional-weather-forecasting-to-dust?amp=1"
 type: article
 quality: 100
-heat: 180
+heat: 190
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "http://www.baystreet.ca/images/articlegroups/original/17/private/google-headquarters-sign.jpg"
         width: 1500
         height: 1000
+        isCached: true
+  - title: "Google’s London-based AI lab DeepMind in profit for first time"
+    excerpt: "Google’s London-based artificial intelligence lab has moved into the black for the first time after the Silicon Valley giant used more of its discoveries in its"
+    publishedDateTime: 2021-10-05T17:00:00Z
+    webUrl: "https://www.thetimes.co.uk/article/googles-london-based-ai-lab-deepmind-in-profit-for-first-time-2p6wknmdx"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 54
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fcc5d6be0-25f3-11ec-9d7f-240ccd0a3a50.jpg?crop=1760%2C990%2C0%2C92&resize=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Google’s DeepMind turns first profit as revenues soar"
     excerpt: "DeepMind, the London artificial intelligence firm owned by Google, turned its first profit last year and saw revenues soar."

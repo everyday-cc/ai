@@ -6,9 +6,6 @@ publishedDateTime: 2021-10-01T00:54:00Z
 originalUrl: "https://itwire.com/strategy/qlik-acquires-big-squid.html"
 webUrl: "https://itwire.com/strategy/qlik-acquires-big-squid.html"
 type: article
-quality: 24
-heat: -1
-published: false
 
 provider:
   name: ITWire
@@ -24,100 +21,6 @@ images:
     height: 339
     isCached: true
 
-related:
-  - title: "Qlik acquires Big Squid for augmented analytics with no-code automated ML"
-    excerpt: "Qlik acquires Big Squid for augmented analytics with no-code automated ML Qlik announced the acquisition of Big Squid, a leading provider of no-code automated machine learning (AutoML), to expand data and"
-    publishedDateTime: 2021-10-01T10:52:00Z
-    webUrl: "https://www.dqindia.com/80112-2/"
-    ampWebUrl: "https://www.dqindia.com/80112-2/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/80112-2/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 58
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2017/02/RPA.jpeg"
-        width: 540
-        height: 370
-        isCached: true
-  - title: "Qlik Acquires No-Code AutoML Platform Big Squid"
-    excerpt: "Big Squid will further expand Qlik's existing SaaS roadmap and bring new AutoML augmented analytics capabilities."
-    publishedDateTime: 2021-10-02T06:20:00Z
-    webUrl: "https://analyticsindiamag.com/qlik-acquires-no-code-automl-platform-big-squid/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/09/aim_qlik-compressed.jpg"
-        width: 1280
-        height: 960
-        isCached: true
-  - title: "Data Analytics, Artificial Intelligence Lower Hospital Infections"
-    excerpt: "By switching to a data analytics and AI-powered hygiene monitoring system, Novant Health decreased its number of hospital-acquired infections."
-    publishedDateTime: 2021-10-05T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/data-analytics-artificial-intelligence-lower-hospital-infections"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Code_data.jpg"
-        width: 690
-        height: 400
-        isCached: true
-  - title: "How Reliable AI is in Patent Analytics?"
-    excerpt: "We recently conducted a study of innovation and found that the average patents filed in a year have gone up +1800% since 2012. The speed of innovation has gone up by multi-folds, so the researchers and strategists need faster hands or technologies to provide quick yet reliable insights."
-    publishedDateTime: 2021-10-01T01:22:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-reliable-ai-patent-analytics-pranav-sharma"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGk1FBCHuFbdA/article-cover_image-shrink_720_1280/0/1633003255913?e=1639008000&v=beta&t=gZ3ADw8Xji-vydedCWOi_DTRZXZUY52DmqP46Vxid1g"
-        width: 1280
-        height: 682
-        isCached: true
-  - title: "Qlik Acquires Big Squid to Expand Its Industry Leading Augmented Analytics Capabilities with No-Code Automated Machine Learning"
-    excerpt: "Advances Qlik’s Vision of Active Intelligence by Bringing Data and Analytics Teams Key Driver Analysis, What If Scenario Planning and On-Demand Predictions Directly Within Qlik"
-    publishedDateTime: 2021-10-04T21:33:00Z
-    webUrl: "https://www.techwire.net/sponsored/qlik-acquires-big-squid-to-expand-its-industry-leading-augmented-analytics-capabilities-with-no-code-automated-machine-learning"
-    ampWebUrl: "https://www.techwire.net/sponsored/qlik-acquires-big-squid-to-expand-its-industry-leading-augmented-analytics-capabilities-with-no-code-automated-machine-learning?_amp=true"
-    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/sponsored/qlik-acquires-big-squid-to-expand-its-industry-leading-augmented-analytics-capabilities-with-no-code-automated-machine-learning?_amp=true"
-    type: article
-    provider:
-      name: California Techwire
-      domain: techwire.net
-    quality: 11
-  - title: "Cloverleaf Analytics Makes BI More Accessible for Insurers by Launching Natural Language Processing, Chatbot, and Automatic Insights Capabilities"
-    excerpt: "Cloverleaf Analytics (Cloverleaf), a leading purpose-built insurance business intelligence (BI) solution provider, today announced natural language processing (NLP), chatbot, and automatic insights capabilities as new features in the"
-    publishedDateTime: 2021-10-04T12:10:00Z
-    webUrl: "https://www.lelezard.com/en/news-20027679.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 2
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "TIBCO Accelerates Time-to-Insights with Revolutionary Enhancements to Analytics Portfolio"
-    excerpt: "TIBCO Software Inc., a global leader in enterprise data, empowers its customers to connect, unify, and confidently predict business outcomes, solving the world's most complex data-driven challenges. Today,"
-    publishedDateTime: 2021-10-01T00:07:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/204922/tibco-accelerates-time-to-insights-with/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 0
-
-secured: "TYH21qYYLVsvYKaKK1vk4fzW/f84hDBALIFywYykUK/MMMG+/2xjEW0Rd3PUvkbQ/hCSDsApGqQoYG6r0GRhWgqnDrjLA/DYsNr64q1PJ2lwlfXi+4V/yadBXpKd7tPEpSKAwzqjX+cHjjVVERda2AJ9oXp1jWGu/wij/YLlwI9qqLb8BRDGHLGJN50R/aM6jecIX2gRGD8svCkmf4bsBCORzHfUmPuvImGo7Uwhb9zfLttS8MmDMhXo39fzfbVBMqORyR6bm43IJ5GPFdmmgMGuCinknvcdsHivqF5c5mLZOM7CtkzmltSi9M8dugU4VtCtygKHD8b72EFqzykCn//KKmySBysgqkFwPeI1gZY=;gs3XJqIk/bGr1NuPsUSKfA=="
+secured: "Tdck8zfq/FYAetvHpkBEqmUdVidb/NpDcklMrPp+cq7IhClbiTLZZ/auppOtvLw0borqGWEf59htKpw/zh9HFVjScnxeFGrWvhGDB8+Y4HjRHsnnoBkrJgkjYVKE/Bk1H/7ziZ9QroSJWWt+m3WatCrqXcxOBKVj2LXfhkaL8D2J3bki2/pUErcyLYIKcPLta7rhFQZvdMLM2xN4DcuBUR86dw7cvy31fhquWvFrEUO1riW0C7XXDazbRbgjZ5uELJSeYXDYcgJAYOyhqVZsbNElsyUxeeAAlZwrxn8K1tt66ktQ6MSHyFU7op0pipo050Ba3jDGVRGBy5Cz7gk/2Ed+6QTCOclp9SnRbhyDQ4I=;/lXYqISqTN/3TAWgZMHGFA=="
 ---
 

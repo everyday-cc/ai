@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Tascent launches InSight® Access: intuitive, secure biometric recognition to modernize access control for the workplace"
-excerpt: "Tascent Inc., the leader in intuitive biometrics, announces the launch of Tascent™ InSight® Access, a face recognition-based access control service for office buildings and coworking spaces. InSight Access brings intuitive,"
-publishedDateTime: 2021-10-05T12:00:00Z
-originalUrl: "https://www.wdbj7.com/prnewswire/2021/10/05/tascent-launches-insight-access-intuitive-secure-biometric-recognition-modernize-access-control-workplace/"
-webUrl: "https://www.wdbj7.com/prnewswire/2021/10/05/tascent-launches-insight-access-intuitive-secure-biometric-recognition-modernize-access-control-workplace/"
+excerpt: "InSight Access raises the bar with a new smart, compact, easy-to-install wall-mounted endpoint combined with Tascent’s identity management platform, Enterprise Suite. Tascent Inc., the leader in intuitive biometrics,"
+publishedDateTime: 2021-10-05T12:44:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-biometrics-756c1dcb70884cfc1d62609ec9099fe3"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-biometrics-756c1dcb70884cfc1d62609ec9099fe3"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: WDBJ
-  domain: wdbj7.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/zKafltBzatW_IgeviU5xumQxkXs=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/LRP4OP3BCCWUUMQXDAJXULXDPI.jpg"
-    width: 980
-    height: 551
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "87VAbP4kAb1kOt38w5wVruJtPpWTlZckTg3KludHsiab2gZBGZG/YqvyxNXv4QVTZP/hMUTqrTKWvfwpAxGNaErADAQ1QEBKE2nIvV4s/oMxvtXud8vTdGc59GuEvoqUwzkoNZcVsxs7zZJ1fuJQB4DSULtfaCF37rCeBddDS/mA3mPAFno8tQYMRRmAQ9Uxy3peHI4O9mJnoLnIESCdFvfM/Zb3JK21Dx62X8/7uSKn4hnuO9CAttUumPeMVGO2VQOC3/7LFumtlXUU6FB00A5v8cAS55zIT9kO5AgM4MKvgQMxQfvXmqeSZgzRK7sZWS+1tU9cudlC8XQEcFLrBShskcYbQspTnQ92UxVeb8o=;y5wLuydl0NR1/uomPw+xQg=="
+secured: "6karW1jNb730wdFB5uaMAEXPO5u4DUAYBbNZU/YbiSpxcKYzqRo0CT3DcZC9In3KJ1rxaqIrjjBiVoTTefAytgGrpsG9ax4lmvXx29oo9cPv8+unI3ypSEL2GjY7Z7w6dyfDDrSNfJGZWah8dlSZ+/gz/QikMYdUj2KUVweuRA0GCd5i9gIeQtrhEA7GNCuodk9DONmX8YyNXyIn2cRR7mnLCSqskzPJR0930LBKFrerQUNiaFDdUdJf+O5P9tjOEwv5I4mThJrIPj3rdTX22IGqjBsZpwkMrWamsNPA5koS+Y5iwMPKLhbgYkbiIKrqdYqcgLi1meLhkhXIlu+bRcUl4T8JTyqrRpri1EFI8wk=;/uv4ifB3F2MoxU3D1VBUJA=="
 ---
 

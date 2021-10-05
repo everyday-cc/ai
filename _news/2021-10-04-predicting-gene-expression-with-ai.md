@@ -7,7 +7,7 @@ originalUrl: "https://deepmind.com/blog/article/enformer"
 webUrl: "https://deepmind.com/blog/article/enformer"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Gap Continues Tech-Buying Spree with AI Acquisition"
+    excerpt: "Based 4 Casting (CB4), a startup that uses AI and machine learning tools to transform retail operations, increase sales and improve the customer experience. Funded by investors including Sequoia Capital,"
+    publishedDateTime: 2021-10-05T16:44:00Z
+    webUrl: "https://retailtouchpoints.com/features/news-briefs/gap-continues-tech-buying-spree-with-ai-acquisition"
+    ampWebUrl: "https://retailtouchpoints.com/features/news-briefs/gap-continues-tech-buying-spree-with-ai-acquisition/amp"
+    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/news-briefs/gap-continues-tech-buying-spree-with-ai-acquisition/amp"
+    type: article
+    provider:
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 57
+    images:
+      - url: "https://retailtouchpoints.com/wp-content/uploads/2021/02/Gap.jpg"
+        width: 2440
+        height: 1627
+        isCached: true
   - title: "Artificial intelligence can predict rain with unprecedented accuracy"
     excerpt: "DeepMind has created an artificial intelligence capable of forecasting the weather with impressive accuracy. The company specializes in building AIs focused on problem solving, but has now decided to embrace meteorology as an important field of action."
     publishedDateTime: 2021-10-03T22:10:00Z

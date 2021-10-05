@@ -2,6 +2,92 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-09-14-artificial-intelligence-market-is-anticipated-to-expand-at-a-cagr-of-29-from-2021-to-2031.md",
+      "title": "Artificial Intelligence Market is anticipated to expand at a CAGR of ~29% from 2021 to 2031",
+      "excerpt": "Transparency Market Research delivers key insights on the global artificial intelligence market. In terms of revenue, the global artificial intelligence market is estimated to expand at a CAGR of ~29% during the forecast period,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/artificial-intelligence-market-is-anticipated-to-expand-at-a-cagr-of-29-from-2021-to-2031/",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-market-is-anticipated-to-expand-at-a-cagr-of-29-from-2021-to-2031/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/10-6-390x220.jpg",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-market-is-anticipated-to-expand-at-a-cagr-of-29-from-2021-to-2031/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-is-anticipated-to-expand-at-a-cagr-of-29-from-2021-to-2031/?amp=1",
+      "publishedDateTime": "2021-09-13T23:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-interview-with-nitin-aggarwal-technical-pm-at-google-cloud-ai.md",
+      "title": "Interview With Nitin Aggarwal, Technical PM At Google Cloud AI",
+      "excerpt": "I'm a senior Technical Program Manager(PM) with the Cloud AI services team. I lead teams to build products/solutions for our customers.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/interview-nitin-aggarwal-google-cloud-ai/",
+      "originalUrl": "https://analyticsindiamag.com/interview-nitin-aggarwal-google-cloud-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/09/nitin-aggarwal-google-cloud-interview.jpeg",
+          "width": 1601,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T22:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-zoom-will-add-real-time-translation-for-12-languages-next-year.md",
       "title": "Zoom Will Add Real-Time Translation For 12 Languages Next Year",
       "excerpt": "Zoom says its real-time translation function will be up and running next year for 12 languages. The company demoed the feature Monday during its annual Zoomtopia event, and argued that it’ll help break down language barriers during video calls.",
@@ -987,101 +1073,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-c3ai-inc-ai-ceo-tom-siebel-presents-at-piper-sandler-2021-virtual-global-technology-conference-transcript.md",
-      "title": "C3.ai, Inc. (AI) CEO Tom Siebel Presents at Piper Sandler 2021 Virtual Global Technology Conference (Transcript)",
-      "excerpt": "Piper Sandler 2021 Virtual Global Technology Conference Call September 13, 2021 12:00 ET Company Participants Tom Siebel - Chairman and Chief Executive",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4454989-c3-ai-inc-ai-ceo-tom-siebel-presents-piper-sandler-2021-virtual-global-technology-conference",
-      "originalUrl": "https://seekingalpha.com/article/4454989-c3-ai-inc-ai-ceo-tom-siebel-presents-piper-sandler-2021-virtual-global-technology-conference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4454989-c3-ai-inc-ai-ceo-tom-siebel-presents-piper-sandler-2021-virtual-global-technology-conference",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4454989-c3-ai-inc-ai-ceo-tom-siebel-presents-piper-sandler-2021-virtual-global-technology-conference",
-      "publishedDateTime": "2021-09-13T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-bidens-ftc-pick-is-a-privacy-champion-who-wants-limits-on-facial-recognition.md",
-      "title": "Biden’s FTC pick is a privacy champion who wants limits on facial recognition",
-      "excerpt": "President Joe Biden will reportedly nominate Georgetown law professor and privacy researcher Alvaro Bedoya to the Federal Trade Commission. Bedoya is the founding director of Georgetown Law's Center on Privacy & Technology,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2021/09/bidens-ftc-pick-is-a-privacy-champion-who-wants-limits-on-facial-recognition/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2021/09/bidens-ftc-pick-is-a-privacy-champion-who-wants-limits-on-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/getty-eye-scan-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

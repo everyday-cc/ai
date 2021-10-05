@@ -3,13 +3,13 @@ category: news
 title: "Gap Inc. acquires AI startup CB4 to drive sales"
 excerpt: "Gap has acquired AI startup CB4 to improve retail operations through predictive analytics and demand sensing. “We believe artificial intelligence and machine learning will shape the future of our industry."
 publishedDateTime: 2021-10-05T10:26:00Z
-originalUrl: "https://fashionunited.com/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600"
-webUrl: "https://fashionunited.com/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600"
-ampWebUrl: "https://fashionunited.com/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600?amp=1"
-cdnAmpWebUrl: "https://fashionunited-com.cdn.ampproject.org/c/s/fashionunited.com/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600?amp=1"
+originalUrl: "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600"
+webUrl: "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600"
+ampWebUrl: "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600"
+cdnAmpWebUrl: "https://fashionunited-com.cdn.ampproject.org/c/s/fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -21,9 +21,9 @@ topics:
   - AI in Sales
 
 images:
-  - url: "https://fashionunited.com/GY-SUw0gbscbZrOmfmjTS0RWCow7dpihQdLyAlmqgR4/resize:fill:740:0:0/gravity:sm/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvbWFzdGVyLzIwMjEvMTAvMDUvMTIwMHB4LWdhcC1sb2dvLXN2Zy1mMHdvaDQ5aC0yMDIxLTEwLTA1LmpwZWc"
-    width: 740
-    height: 459
+  - url: "https://fashionunited.com/UUP2jAnSbMTf2wCkU6WZm5VCOGW7PmAHjB96odlvT0E/resize:fill:1388:781:1/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvbWFzdGVyLzIwMjEvMTAvMDUvMTIwMHB4LWdhcC1sb2dvLXN2Zy1mMHdvaDQ5aC0yMDIxLTEwLTA1LmpwZWc"
+    width: 1388
+    height: 781
     isCached: true
 
 related:
@@ -80,6 +80,20 @@ related:
         width: 770
         height: 364
         isCached: true
+  - title: "Gap Inc. Acquires US-Israeli Retail AI Startup CB4"
+    excerpt: "CB4’s technology makes recommendations that support new sales and more satisfied customers through the resolution of frequent in-store issues."
+    publishedDateTime: 2021-10-05T16:49:00Z
+    webUrl: "https://nocamels.com/2021/10/gap-inc-acquires-us-israeli-retailai-startup-cb4/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/12/retail.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Thales to Spark Innovation among Five AI Startups with Season 3 of"
     excerpt: "Thales has launched Season 3 of [email protected], a business accelerator designed to help artificial-intelligence focused startups tackle real-world problems. Thales selected fiv"
     publishedDateTime: 2021-10-01T03:20:00Z
@@ -99,6 +113,6 @@ related:
       domain: tmcnet.com
     quality: 17
 
-secured: "UygpaW52v6Po98SUb4f5hFO/i/UsRJnQjw0eUuCuoBnnaLkCjgT6XePgb4xliYdUyp/UTdNdz+ex2x5Gl/ehRxORFY3mLhiQ9D/WL2ugHtIGtQ6LiP/+naWyG4b3JnFmtzpCvpnfOb+hbDp/S1XcIPyzEGvhh4rFSmt9o8I7M8WLGKumfdvhhRHMcZ+4B20Q5rw0zT82ksYiKnu2mw3lseC/CyAubVyC9HzfhWzpAskgxpCaVBHMNiDtjSV9yBK6CviwEtiHzDALxTNRaTN9J3wmGDkrR3XR5cRKAJy51CsD/GUcyYd8tXxcPcbfH5zDBNW3+guphKyvE0T8D+GkXLBF/yXq/grX4EfZc3SauPk=;RaBr03+utNu3z1e3ceE/2A=="
+secured: "3oe6g1te1tSYxuIbZPDCGKqcGmxzcXyQ9UBMlu9UaWvvqTEdNvsH2bhVL0V6+u1ziuDxiJUm+UM8OH9AwOtqi0m/d4Nk6D0UMLUiDgXJzGwHf5jlmZLN+AapNGHdPe/MSqUk0n9aTgFgwuP7BdfULb8aEz3xnk03xZX2ytxvPBOT/B5AqmG8uABYL7Saz6Uk2dkvlbjW5T+g5ZTLnKVS8WbZrLHRkm8uZCzGqGABFLIi2P5/lPnNfQLGU3GNWHpzzqiQHNuUbkr4B4fx8WNCasQvVywGqWh+ybqyBs55cBIr2y4xDSBo3X2EB/irWcfAppwkL82DF1O9e/X6p51h9z4Gkt9cgCByBwkGblFKY1Q=;EHbgNNtHXVlBHw/n2H57rA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/ai-could-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/01/ai-could-reduce-racial-disparities-in-healthcare/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 633
     isCached: true
-
-related:
-  - title: "How AI in Healthcare is Giving a Digital Twist to Clinical Decisions"
-    excerpt: "AI has been introduced into the healthcare system as a result of the digital wave. However, as technology evolves and more medical services are disrupted, healthcare companies are shifting from artificial intelligence to augmented intelligence."
-    publishedDateTime: 2021-10-01T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/how-ai-in-healthcare-is-giving-a-digital-twist-to-clinical-decisions-nid-8587.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 54
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/sql884506.jpg"
-        width: 450
-        height: 308
-        isCached: true
 
 secured: "LT7LEEyhiRjVh6CAnWEF2AzOYbv7K7EVQHsa4HYkV9m0YzrSb2HB9Gh1mlcMjtqlQL7kGBCBH+3H22wYVgtBffqNoE6p8roNGzgOgC2BJkBhNXGnMKj7kUgGeg24V8nPHIBEYyMH+eFFjPf1SKLKOIY33jW+F8VCK9SRe4FBKcPEfEtUqvjt7Ny6oilzOkhjityFcQO6yQKCYHc1mrwtpW4EqGWSXnih+mlY9DJnZKoDiM1PTfJ/9UvmeCxDFL50kNW/Oq4uT6ashBXXq3fetwaIC/+4jVR4hGItNnXSMR0kX5+HXHIPMn9qtnx+0ZG908DtC8yraVfhP1dVeUYrgu8GdrQiJ61hMqH5iWd86nJmxPNh2QrkiD7OfDwKTqz2jG5btZLzIT8Le0jAiEWu6ZSnEDph4ytoYBuplyeeZWZpcVhR+4RkFpP4hOmrkEkAjxeb5c7igIB/fOpE36KtpjqVdYy6WNxAMpxxDx8svlNvefr0KbfWu4LsEgxnkpOZz8Y4wnF2yzt+xRbfF28Qew==;HuY+Cnms28p8hmtyjiT/Hw=="
 ---

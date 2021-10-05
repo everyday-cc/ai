@@ -79,43 +79,6 @@ related:
         width: 1280
         height: 682
         isCached: true
-  - title: "Qlik acquires Big Squid"
-    excerpt: "Data analytics and integration solutions company Qlik has acquired no-code automated machine learning (AutoML) provider Big Squid. Qlik announced the move as part of its move to expand its data ..."
-    publishedDateTime: 2021-10-01T00:54:00Z
-    webUrl: "https://itwire.com/strategy/qlik-acquires-big-squid.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 24
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/c47dbbac9debca97d35c612a099c13a0_M.jpg"
-        width: 375
-        height: 339
-        isCached: true
-  - title: "Cloverleaf Analytics Makes BI More Accessible for Insurers by Launching Natural Language Processing, Chatbot, and Automatic Insights Capabilities"
-    excerpt: "Cloverleaf Analytics (Cloverleaf), a leading purpose-built insurance business intelligence (BI) solution provider, today announced natural language processing (NLP), chatbot, and automatic insights capabilities as new features in the"
-    publishedDateTime: 2021-10-04T12:10:00Z
-    webUrl: "https://www.lelezard.com/en/news-20027679.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 2
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "TIBCO Accelerates Time-to-Insights with Revolutionary Enhancements to Analytics Portfolio"
-    excerpt: "TIBCO Software Inc., a global leader in enterprise data, empowers its customers to connect, unify, and confidently predict business outcomes, solving the world's most complex data-driven challenges. Today,"
-    publishedDateTime: 2021-10-01T00:07:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/204922/tibco-accelerates-time-to-insights-with/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 0
 
 secured: "0Zt8KFeISZy/yXiktIjuCwf8VuaQiG6gLvqBKkjWYDm2QBC3Rcx/HnzI+R/Z3Cn127bCtc1e+gRFFAWqfbu2u3MQ91apCBHqUmm9NB6VrUXAs2rXASP0zF1snYYYVZu72xG5krbrdzpNMNgRR7vMEZNyS0G8wibNCFqRXM7Vy1OL52RG4KVP81JXxTFG/9apysEmh1f4gbM5JFt4JvIDnBVthYYkUSL2NJY/1xcqq4GysweSEh/r4LLi0PHx2NXWu05BPT2TYUB/xbkXn6V1V+PKPhap8CbhmDCxoferz8ijtWblwhktmK60dtZVKfBycFgB4lPcoyJA1wMhwONa2Jb3p46UW1m9XX2lzy9tDL8=;AFtJelTkTWtgeoCE1zc0Jw=="
 ---

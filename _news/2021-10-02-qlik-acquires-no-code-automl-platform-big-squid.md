@@ -69,20 +69,6 @@ related:
         width: 1280
         height: 682
         isCached: true
-  - title: "Qlik acquires Big Squid"
-    excerpt: "Data analytics and integration solutions company Qlik has acquired no-code automated machine learning (AutoML) provider Big Squid. Qlik announced the move as part of its move to expand its data ..."
-    publishedDateTime: 2021-10-01T00:54:00Z
-    webUrl: "https://itwire.com/strategy/qlik-acquires-big-squid.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 24
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/c47dbbac9debca97d35c612a099c13a0_M.jpg"
-        width: 375
-        height: 339
-        isCached: true
   - title: "Qlik Acquires Big Squid to Expand Its Industry Leading Augmented Analytics Capabilities with No-Code Automated Machine Learning"
     excerpt: "Advances Qlik’s Vision of Active Intelligence by Bringing Data and Analytics Teams Key Driver Analysis, What If Scenario Planning and On-Demand Predictions Directly Within Qlik"
     publishedDateTime: 2021-10-04T21:33:00Z
@@ -94,29 +80,6 @@ related:
       name: California Techwire
       domain: techwire.net
     quality: 11
-  - title: "Cloverleaf Analytics Makes BI More Accessible for Insurers by Launching Natural Language Processing, Chatbot, and Automatic Insights Capabilities"
-    excerpt: "Cloverleaf Analytics (Cloverleaf), a leading purpose-built insurance business intelligence (BI) solution provider, today announced natural language processing (NLP), chatbot, and automatic insights capabilities as new features in the"
-    publishedDateTime: 2021-10-04T12:10:00Z
-    webUrl: "https://www.lelezard.com/en/news-20027679.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 2
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "TIBCO Accelerates Time-to-Insights with Revolutionary Enhancements to Analytics Portfolio"
-    excerpt: "TIBCO Software Inc., a global leader in enterprise data, empowers its customers to connect, unify, and confidently predict business outcomes, solving the world's most complex data-driven challenges. Today,"
-    publishedDateTime: 2021-10-01T00:07:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/204922/tibco-accelerates-time-to-insights-with/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 0
 
 secured: "X7p+7jVZY16fAp/9dYndeP/Z5cPlROUz+EarlnEQRyg60Y7KgGrZh3tFwp2HRxX6l1Y2DOqZDqx96psq61IGtV/iIr982i6azhNm+jiPZiQSTmxlFoY6l4aIyDFqMNHNYlMMR0KiO5p/yDZrawsuZa16AraZCtQz3KOj4vQ+l7x9xW/fcoRNYk7mlva1cvWZYB8MwFvKOqqcV6y4ri2oEl5Vpwl9icnbQvNu663KhoIaxn/OznB4SxDrkDrnkE2wRspvgeZCKrLVFDsjdu0GAwdYrGnoPl4yzViGT4VV3WQ0AIJG+iO9uZqlwUp4LQlT2/maf9a5VP2JsM6KNfYCRozO0qM1Cyn7kHdrpyZ2ZAzKAd1VhTSJoOEC8yqeypb9mFkf5Hjnz1BGCgXQI5oM5ljLMqgHCU4qNvKCFzw61Hq57ymCBViBgqxB4t+uhFRCpP4MmvfgiSwMv14K/bmxRvLQJu75UM1nsVINJinMGwrIIpwSw+Ko2DSmo0og7Mu6sVzoZftesTZQS9FEFKbkxA==;ThclWFgHChPxgtoc9kD99g=="
 ---

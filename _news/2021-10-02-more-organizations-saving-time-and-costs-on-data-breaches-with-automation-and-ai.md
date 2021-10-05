@@ -7,7 +7,7 @@ originalUrl: "https://securityintelligence.com/posts/save-time-money-data-breach
 webUrl: "https://securityintelligence.com/posts/save-time-money-data-breach-security-ai-automation/"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI Pattern and Behavior Analysis Are Gaining More Attention than Smoking Guns in Fighting Corruption"
-    excerpt: "Automated analysis of big data and new sentiment processing are opening doors for fraud investigators to hone in on wrongdoing"
-    publishedDateTime: 2021-10-05T11:00:00Z
-    webUrl: "https://www.corporatecomplianceinsights.com/ai-investigations-patterns-gaining-attention-fighting-corruption/"
+  - title: "EU is working on legislation on artificial intelligence"
+    excerpt: "Artificial intelligence solutions can be an opportunity to stimulate the economy and make a technological leap. On the other hand, they are also associated with threats, and there are already cases in Europe where artificial intelligence algorithms have been used in a way that raises legal doubts."
+    publishedDateTime: 2021-10-04T09:41:00Z
+    webUrl: "https://wbj.pl/eu-is-working-on-legislation-on-artificial-intelligence/post/132216"
     type: article
     provider:
-      name: corporatecomplianceinsights.com
-      domain: corporatecomplianceinsights.com
-    quality: 22
+      name: Warsaw Business Journal
+      domain: wbj.pl
+    quality: 37
     images:
-      - url: "https://www.corporatecomplianceinsights.com/wp-content/uploads/2021/09/shutterstock_653380411.jpg"
-        width: 1500
-        height: 1000
+      - url: "https://wbj.pl/uploads/images/qd/615acc0819b2d.jpg"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "nUM7uqRqY5Xuar5x+bA1B6PAPqF4vAu7cZoRFFFb+4eFNIk7sAQbRVevQLkveofRLlqwW2scBeneS1ww685tmX3KqeU7+jTvRL6SvPxt2WUJVAiemh4Q1s7IuOTVAR/4hRzQVT1GUAggVYzg6Xr+PcfYhzpGduxRyS4cNd9lNll2HLqXjypkKZNeooB8K8CWCBICGtw3okRTAOafJfitdjCnfnZPVsRoEtP1yOlvhJYwm6hlRn+ekoRANsjzzK5GT7JXNrs3wnnlMxre0/8H+CUTKNO3OhBtKleO1adkYcmMI+6bgWFyvPim5H10YZFg8WrENyLAjGy8c3SWEck9jBLRkS90FP0pbPZL4+C776E=;CcPLbUQBTH+rJjlzdXvlrQ=="

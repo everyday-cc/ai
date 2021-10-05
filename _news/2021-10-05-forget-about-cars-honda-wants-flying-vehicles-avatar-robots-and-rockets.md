@@ -59,21 +59,7 @@ related:
         width: 752
         height: 270
         isCached: true
-  - title: "Honda sees its future in air taxis, rockets and moon robots"
-    excerpt: "Honda's vision of how people will work, travel and spend leisure time in the future will help expand its business beyond cars, lawn mowers and motorcycles. The efforts are a key component of Honda's \"2030 Vision\" to broaden the definition of mobility and to improve peoples' daily lives."
-    publishedDateTime: 2021-10-01T00:14:00Z
-    webUrl: "https://www.nationthailand.com/tech/40006870"
-    type: article
-    provider:
-      name: nationthailand
-      domain: nationthailand.com
-    quality: 54
-    images:
-      - url: "https://media.nationthailand.com/uploads/images/md/2021/10/yrHKYUG2ssVzuXoZG4Gz.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
-secured: "qt2z06OUtIahdMhY2sovwTE6FOXWnnW8apD/MEwQanmCtTvzP2ZGJUpwhtIuMJM4jZ64Jw/vMezwg9R/OT8J2hutzzZt1jrptD568fZRLNJqZQWQPT0dWjuk6VuPogPDlc672Fq2phaEy2CxDfQp6mIQPbf8klecU14H0P0Pf4ilHlbsQlny2KreiCW/Rbpp/YhaL2Rl0T2ku44/5CpPKc93mycvco6a3ABwlBGMTzTs3IIo8Q2tEZvmAks63t1DQc9m0YCBJda/ocsos0pXRRWiVNa/zqe41GQsF7MBGtO2g1FGHEdHwIodbyZa2J0maJ3sYEAgm1WZY0UpkyJKVtJR32j3dTffV5UWekSUQ4U=;dFCqJ/GMCzPh/hTO4QWN6g=="
+secured: "30P67L0GQw+6n0jnCt2AcgEyUz6bHnRg58h/uZ9qARstPGG70EdkLFA5fkBBFmEdA3YaLyfzmZ77yqGdPf/QQa+EgsWgbeAykuBpdydX4xPr2gFPFRMQ335ZhdK0vAZQ8mwQMwOyuqZXV1L6RTMXHiER0TczdNet5siS//EaRh28b3DC+WFl/2ngRCP2EInYaTwLeTyFHNOWdAjw3c9vArmEHR1Xdh6JTlVfSkmHfsyUHyFvn3Kw5tNa2SqVbacPV1ifJj1kJTJQgsbUgiJs5VkM0IQcdXiblWShs+lWKwccIXwNMywNJ1F3Kk/fPwW43nnOAh/42Bc/b6ZfZxEQVZ+vQAuiQwz+0X1kgLKfFbRLjOfWMO6SOoZS6AlhJUmH/o4Ug96P3tEOTzeHft10YqaI7dCayEsHHhXWwSQkmzCtiXpHNtdJrreWnF80V+1Iqsq9ViqmZaH9HnX3fHzE/QV1NYibHpEun29xxDaPYyQcBcDVUBQUxIUwQtWV/V2wwuf3FAhnJFwKymD2/sxBzg==;IEhe7koWV/+GYbYQ+OYZSg=="
 ---
 
