@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "mPrest mDERMS and mTHM Now Available in the Microsoft Azure Marketplace"
+    excerpt: "TEL AVIV, Israel and BOULDER, Colo., Oct. 04, 2021 (GLOBE NEWSWIRE) -- mPrest , a leading developer and provider of distributed asset orchestration"
+    publishedDateTime: 2021-10-04T22:09:00Z
+    webUrl: "https://menafn.com/1102913249/mPrest-mDERMS-and-mTHM-Now-Available-in-the-Microsoft-Azure-Marketplace"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 69
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?122508"
+        width: 443
+        height: 250
+        isCached: true
   - title: "smartShift achieves the SAP on Microsoft Azure Advanced Specialization"
     excerpt: "Shift a leading provider of automated transformations and management of legacy enterprise systems in the cloud today announced it has achieved SAP on Microsoft Azure Advanced Specialization. The advanced specialization is designed for"
     publishedDateTime: 2021-09-30T14:07:00Z

@@ -99,20 +99,6 @@ related:
         width: 920
         height: 482
         isCached: true
-  - title: "The International Cricket Council Announces Strategic Partnership With FinTech Infrastructure Leader: Nium"
-    excerpt: "The International Cricket Council (ICC) announced today that it has entered a multi-year strategic partnership with Nium, a leading global financial technology (FinTech) infrastructure company. Nium provides banks and businesses with access to"
-    publishedDateTime: 2021-09-30T06:46:00Z
-    webUrl: "https://www.lelezard.com/en/news-20022685.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 6
-    images:
-      - url: "https://mma.prnewswire.com/media/1639444/ICC_Nium_partnership.jpg"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "8oq2SkTzxpeKpdDllNF5ONVTNCPxYmRU0amZOeQcCQLuLpHkbgCS8fiC21ROBBUOxKaXP0PxFT5uR9Vg6rroRWZPcmWbbxyXNrP0gUDMeUHdaIYhlHEPvIbCtwf/UuYIpthVuNNWyJuueZPsXWMLYOEDDM4cMWY02lTvjSsYVHEA/10eRU5c7OcTfk+fij5tkKnKzFzEy2RRroIY/Y6Xdsm6Asfdt/K09O02UgnhDPbUp9FfNt8L+t2nKbMikSiUMUd/kolzjtbUysNLR7WAspgkjuOLJCSY6s1t21qZ5O5G/kpRNQ797ocPQVW1QhMpFZvgkRj7TID7hcy6TNA4s316VGrilT5wqWa4gD1jfEs=;C3Kd/lyQDg1GapeT6D+uRQ=="
 ---

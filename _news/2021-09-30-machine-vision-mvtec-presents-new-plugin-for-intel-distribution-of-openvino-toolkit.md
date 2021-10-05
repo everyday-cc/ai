@@ -7,7 +7,7 @@ originalUrl: "https://www.manufacturingtomorrow.com/news/2021/09/30/machine-visi
 webUrl: "https://www.manufacturingtomorrow.com/news/2021/09/30/machine-vision-mvtec-presents-new-plugin-for-intel-distribution-of-openvino-toolkit/17655/"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Machine vision: MVTec extends deep learning spectrum with HALCON 21.11 Progress"
+    excerpt: "Instance segmentation expands range of deep learning functions • Combination of classic and modern machine vision technologies • HALCON 21.11 will be released on November 17, 2021"
+    publishedDateTime: 2021-10-04T14:24:00Z
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=17574"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 15
   - title: "Machine Vision: MVTec presents new plugin for Intel Distribution of OpenVINO toolkit"
     excerpt: "Significant acceleration of deep learning inference • Support for a wide range of AI accelerator hardware • Plugin is based on new HALCON AI Accelerator Interface (AI²)"
     publishedDateTime: 2021-09-30T17:13:00Z

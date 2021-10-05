@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/why-uxui-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/01/why-uxui-should-be-considered-throughout-the-ai-life-cycle/amp/"
 type: article
 quality: 87
-heat: 91
+heat: 90
 published: true
 
 provider:

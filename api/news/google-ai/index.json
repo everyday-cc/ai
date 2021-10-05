@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-04-googles-deepmind-ai-has-just-reduced-conventional-weather-forecasting-to-dust.md",
+      "title": "Google's DeepMind AI Has Just Reduced Conventional Weather Forecasting To Dust",
+      "excerpt": "Although it may seem easy, weather forecasting is one of the hardest challenges faced by science. Over the last few decades, meteorologists around the world have tried to come up with the most accurate forecasting models.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/science/25102/googles-deepmind-ai-has-just-reduced-conventional-weather-forecasting-to-dust",
+      "originalUrl": "https://in.mashable.com/science/25102/googles-deepmind-ai-has-just-reduced-conventional-weather-forecasting-to-dust",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/shutterstock-246146029_gt84.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/science/25102/googles-deepmind-ai-has-just-reduced-conventional-weather-forecasting-to-dust?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/science/25102/googles-deepmind-ai-has-just-reduced-conventional-weather-forecasting-to-dust?amp=1",
+      "publishedDateTime": "2021-10-04T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-predicting-gene-expression-with-ai.md",
+      "title": "Predicting gene expression with AI",
+      "excerpt": "Our new Enformer architecture advances genetic research by improving the ability to predict how DNA sequence influences gene expression.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/enformer",
+      "originalUrl": "https://deepmind.com/blog/article/enformer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/pygM2sdWIgLuSkuUsnJXZEqO71U9uZ7hSuAngL34OL66t5xgjJT5HujJ0kIirF5g1heZjMuUKrrHuuRZAkFsepPVJYSncAyUJPw-cXFF0fmxxYGBWUpb",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-04-alphafold-is-the-most-important-achievement-in-aiever.md",
       "title": "AlphaFold Is The Most Important Achievement In AI—Ever",
       "excerpt": "DeepMind's AlphaFold represents the first time a significant scientific problem has been solved by ... [+] AI. It can be difficult to distinguish between substance and hype in the field of artificial intelligence.",
@@ -52,49 +147,6 @@
         "Natural Language Processing",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-google-sued-over-deepminds-access-to-16-mn-uk-patients-records.md",
-      "title": "Google sued over DeepMind's access to 1.6 mn UK patients' records",
-      "excerpt": "UK-based law firm Mishcon de Reya has filed a class-action lawsuit against Google and DeepMind over their access to confidential medical records of approximately 1.6 million UK patients without their knowledge or consent.",
-      "sourceUrl": null,
-      "webUrl": "https://inshorts.com/en/news/google-sued-over-deepminds-access-to-16-mn-uk-patients-records-1633176049372",
-      "originalUrl": "https://inshorts.com/en/news/google-sued-over-deepminds-access-to-16-mn-uk-patients-records-1633176049372",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/10_oct/2_sat/img_1633173792952_877.jpg?",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inshorts.com/m/en/amp_news/google-sued-over-deepminds-access-to-16-mn-uk-patients-records-1633176049372",
-      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/google-sued-over-deepminds-access-to-16-mn-uk-patients-records-1633176049372",
-      "publishedDateTime": "2021-10-02T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inshorts",
-        "domain": "inshorts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     },
     {
@@ -1415,58 +1467,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-these-researchers-are-bringing-ai-to-farmers.md",
-      "title": "These researchers are bringing AI to farmers",
-      "excerpt": "“Farmers feed the entire world — so how might we support them to be resilient and build sustainable systems that also support global food security?” It’s a question that Diana Akrong found herself asking last year. Diana is a UX researcher based in Accra, Ghana, and the founding member of Google’s Accra",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/researchers-make-sure-ai-works-for-farmers/",
-      "originalUrl": "https://blog.google/technology/ai/researchers-make-sure-ai-works-for-farmers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_RbHfBqx.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 661,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/researchers-make-sure-ai-works-for-farmers/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/researchers-make-sure-ai-works-for-farmers/amp/",
-      "publishedDateTime": "2021-08-23T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

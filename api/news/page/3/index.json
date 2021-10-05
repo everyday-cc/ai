@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-01-choose-chicago-introduces-ai-tool-named-after-beloved-attraction.md",
+      "title": "Choose Chicago Introduces AI Tool Named After Beloved Attraction",
+      "excerpt": "The Bean has also become the name of a new online system to help users learn more about what to do in the Windy City.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/micheleherrmann/2021/09/30/choose-chicago-introduces-ai-tool-named-after-beloved-attraction/",
+      "originalUrl": "https://www.forbes.com/sites/micheleherrmann/2021/09/30/choose-chicago-introduces-ai-tool-named-after-beloved-attraction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61563d4848edfe31f7ac141f%2F0x0.jpg",
+          "width": 1024,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/micheleherrmann/2021/09/30/choose-chicago-introduces-ai-tool-named-after-beloved-attraction/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/micheleherrmann/2021/09/30/choose-chicago-introduces-ai-tool-named-after-beloved-attraction/amp/",
+      "publishedDateTime": "2021-09-30T17:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-beware-professional-services-workers-robots-are-coming-for-your-job-too.md",
+      "title": "Beware Professional Services Workers: Robots Are Coming For Your Job Too!",
+      "excerpt": "For the most part, the biggest fears of many during this period of rapid technology advancement has been that blue collar positions, the laborers and builders of the world, would be the ones finding their positions threatened the most.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/calvinmackie/2021/09/30/beware-professional-services-workers-robots-are-coming-for-your-job-too/",
+      "originalUrl": "https://www.forbes.com/sites/calvinmackie/2021/09/30/beware-professional-services-workers-robots-are-coming-for-your-job-too/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155ea739694b9b824530a47%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/calvinmackie/2021/09/30/beware-professional-services-workers-robots-are-coming-for-your-job-too/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calvinmackie/2021/09/30/beware-professional-services-workers-robots-are-coming-for-your-job-too/amp/",
+      "publishedDateTime": "2021-09-30T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-serve-3000-deep-learning-models-on-amazon-eks-with-aws-inferentia-for-under-50-an-hour.md",
       "title": "Serve 3,000 deep learning models on Amazon EKS with AWS Inferentia for under $50 an hour",
       "excerpt": "More customers are finding the need to build larger, scalable, and more cost-effective machine learning (ML) inference pipelines in the cloud. Outside of these base prerequisites, the requirements of ML inference pipelines in production vary based on the business use case. A typical inference architecture",
@@ -115,7 +218,7 @@
       "originalUrl": "https://www.techspot.com/news/91514-google-using-artificial-intelligence-make-information-more-useful.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -304,21 +407,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-01-ai-innovations-in-media-and-communications.md",
-      "title": "AI Innovations In Media And Communications",
-      "excerpt": "My last blog discussed AI innovations in the health care sector, and this one will share a few perspectives of new developments in the Media and Communications Industry.",
+      "path": "_news/2021-10-01-vcs-invested-over-75b-in-ai-startups-in-2020.md",
+      "title": "VCs invested over $75B in AI startups in 2020",
+      "excerpt": "According to a new report from OECD, VCs poured a record amount of money into startups developing AI technologies.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/",
+      "webUrl": "https://venturebeat.com/2021/09/30/vcs-invested-over-75b-in-ai-startups-in-2020/",
+      "originalUrl": "https://venturebeat.com/2021/09/30/vcs-invested-over-75b-in-ai-startups-in-2020/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 107,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155ef71088eada6a8f3c806%2F0x0.jpg",
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 675,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -326,16 +429,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/amp/",
-      "publishedDateTime": "2021-09-30T10:19:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/09/30/vcs-invested-over-75b-in-ai-startups-in-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/30/vcs-invested-over-75b-in-ai-startups-in-2020/amp/",
+      "publishedDateTime": "2021-09-30T10:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -563,7 +666,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/388628",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -881,6 +984,48 @@
       ]
     },
     {
+      "path": "_news/2021-09-30-recent-merger-unites-artificial-intelligence-management-platform-companies.md",
+      "title": "Recent Merger Unites Artificial Intelligence, Management Platform Companies",
+      "excerpt": "UNU, an artificial intelligence ag tech company, has acquired Artemis, an enterprise Cultivation Management Platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.greenhousegrower.com/technology/recent-merger-unites-artificial-intelligence-management-platform-companies/",
+      "originalUrl": "https://www.greenhousegrower.com/technology/recent-merger-unites-artificial-intelligence-management-platform-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.greenhousegrower.com/greenhousegrow/wp-content/uploads/2021/09/iUNU.jpg",
+          "width": 896,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.greenhousegrower.com/technology/recent-merger-unites-artificial-intelligence-management-platform-companies/?amp",
+      "cdnAmpWebUrl": "https://www-greenhousegrower-com.cdn.ampproject.org/c/s/www.greenhousegrower.com/technology/recent-merger-unites-artificial-intelligence-management-platform-companies/?amp",
+      "publishedDateTime": "2021-09-30T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Greenhouse Grower",
+        "domain": "greenhousegrower.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond.md",
       "title": "Semiconductor Stocks That Stand To Gain Through The Chip Shortage And Beyond",
       "excerpt": "Our theme on Stocks That Benefit From The Semiconductor Shortage, which includes companies that produce machinery and tools for chipmaking and semiconductor players with their own fab capacity, has returned about 26% year-to-date,",
@@ -986,6 +1131,58 @@
       ]
     },
     {
+      "path": "_news/2021-09-30-ai-innovations-in-healthcare.md",
+      "title": "AI Innovations In Healthcare",
+      "excerpt": "This blog discusses AI Innovations in Healthcare and provides examples of where AI is advancing to increase leadership knowledge. A reference to the The AI Dilemma, a new book by Dr. Cindy Gordon, author of this blog is also highlighted to learn more about AI innovations in healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155baf730e0300ed464a735%2F0x0.jpg",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-healthcare/amp/",
+      "publishedDateTime": "2021-09-30T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-top-five-ways-ai-is-revolutionizing-the-financial-planning-industry.md",
       "title": "Top Five Ways AI Is Revolutionizing The Financial Planning Industry",
       "excerpt": "Here's a look at the different segments of the financial planning and analysis (F&PA) industry that are experiencing a revolution propelled by AI.",
@@ -994,7 +1191,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/top-five-ways-ai-is-revolutionizing-the-financial-planning-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1034,210 +1231,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-ais-push-to-understand-psychiatry-research-has-the-potential-to-tackle-mental-illness.md",
-      "title": "AI's push to understand psychiatry research has the potential to tackle mental illness",
-      "excerpt": "Psychiatry researchers are using AI to tackle mental illness, with the goal of creating more effective and personalized treatment plans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-ai-is-advancing-psychiatry-medicine-to-tackle-mental-illness-2021-9",
-      "originalUrl": "https://www.businessinsider.com/how-ai-is-advancing-psychiatry-medicine-to-tackle-mental-illness-2021-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ff8a8fabde805001980beed?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/how-ai-is-advancing-psychiatry-medicine-to-tackle-mental-illness-2021-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-is-advancing-psychiatry-medicine-to-tackle-mental-illness-2021-9?amp",
-      "publishedDateTime": "2021-09-30T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-blue-prism-investor-coast-to-reject-15-billion-vista-takeover.md",
-      "title": "Blue Prism Investor Coast to Reject $1.5 Billion Vista Takeover",
-      "excerpt": "Coast Capital plans to vote against Vista Equity Partners’s 1.1 billion-pound ($1.5 billion) bid for U.K. automation software developer Blue Prism Group Plc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-09-30/coast-to-vote-against-blue-prism-deal-slams-rushed-process",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-30/coast-to-vote-against-blue-prism-deal-slams-rushed-process",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilxTf6AP_6us/v0/1200x565.jpg",
-          "width": 1200,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-tasqai-promising-faster-data-annotation-for-ai-development-raises-4m.md",
-      "title": "Tasq.ai, promising faster data annotation for AI development, raises $4M",
-      "excerpt": "Tasq.ai announces its $4M seed round, offering a unique value perspective in data annotation for AI developers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/30/tasq-ai-promising-faster-data-annotation-for-ai-development-raises-4m/",
-      "originalUrl": "https://venturebeat.com/2021/09/30/tasq-ai-promising-faster-data-annotation-for-ai-development-raises-4m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1295429677-1-e1629146386206.jpg?fit=800%2C560&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/30/tasq-ai-promising-faster-data-annotation-for-ai-development-raises-4m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/30/tasq-ai-promising-faster-data-annotation-for-ai-development-raises-4m/amp/",
-      "publishedDateTime": "2021-09-30T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-is-identity-theft-fraud-heres-how-ai-and-graphing-tools-help-solve-the-puzzle.md",
-      "title": "Is Identity Theft Fraud? Here’s How AI And Graphing Tools Help Solve The Puzzle",
-      "excerpt": "While identity theft and fraud are related, they’re not equivalent, which means that relying solely on PII and credit bureau data to verify someone is who they say they are is a dangerous — and incomplete — approach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/is-identity-theft-fraud-heres-how-ai-and-graphing-tools-help-solve-the-puzzle/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/is-identity-theft-fraud-heres-how-ai-and-graphing-tools-help-solve-the-puzzle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61548377d01fdff342398689%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/is-identity-theft-fraud-heres-how-ai-and-graphing-tools-help-solve-the-puzzle/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/30/is-identity-theft-fraud-heres-how-ai-and-graphing-tools-help-solve-the-puzzle/amp/",
-      "publishedDateTime": "2021-09-30T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

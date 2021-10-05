@@ -2,6 +2,187 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-03-researchers-publish-new-datasets-to-better-train-machine-learning-models-for-drug-discovery.md",
+      "title": "Researchers publish new datasets to better train machine learning models for drug discovery",
+      "excerpt": "Polymorphs are molecules that have different molecular packing arrangements despite identical chemical compositions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20211002/Researchers-publish-new-datasets-to-better-train-machine-learning-models-for-drug-discovery.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20211002/Researchers-publish-new-datasets-to-better-train-machine-learning-models-for-drug-discovery.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/Drug_use_and_prohibited_substances._-_Image_-_Monika_Gruszewicz_A1_b3acfd6d2daf44ecbd36979af20eb378-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20211002/Researchers-publish-new-datasets-to-better-train-machine-learning-models-for-drug-discovery.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211002/Researchers-publish-new-datasets-to-better-train-machine-learning-models-for-drug-discovery.aspx",
+      "publishedDateTime": "2021-10-02T19:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-03-fintech-50-evaluating-how-firstbank-strengthens-collaboration.md",
+      "title": "Fintech 5.0: Evaluating How FirstBank Strengthens Collaboration",
+      "excerpt": "It was Sir Isaac Newton, in his letter to Robert Hooke in 1675, who wrote the now-famous quote: “If I have seen further (than others), it is by standing on the shoulders of giants.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.herald.ng/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration-2/",
+      "originalUrl": "https://www.herald.ng/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/www.herald.ng/wp-content/uploads/2021/10/FirstBank-HQ-image-scaled.jpg?fit=1024%2C683&ssl=1",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.herald.ng/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration-2/amp/",
+      "cdnAmpWebUrl": "https://www-herald-ng.cdn.ampproject.org/c/s/www.herald.ng/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration-2/amp/",
+      "publishedDateTime": "2021-10-02T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "herald.ng",
+        "domain": "herald.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-02-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "Artificial intelligence (AI) has become a buzzword for nearly every company when touting its products and services. What used to be the domain of only a few technology companies is now pervasive in automobiles,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/10/02/3-top-artificial-intelligence-stocks-buy-right-now/",
+      "originalUrl": "https://www.fool.com/investing/2021/10/02/3-top-artificial-intelligence-stocks-buy-right-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/4a70d970a0718bc9ede7c616c7a98dc3.png",
+          "width": 720,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/10/02/3-top-artificial-intelligence-stocks-buy-right-now/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/10/02/3-top-artificial-intelligence-stocks-buy-right-now/",
+      "publishedDateTime": "2021-10-02T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-02-amazon-home-security-robots-inside-drones-outside-cameras-all-around.md",
+      "title": "Amazon & home security: Robots inside, drones outside, cameras all around",
+      "excerpt": "Amazon's vision for the future of home security includes drones flying over your roof, outdoor cameras that monitor for possible trespassers and cute robots patrolling indoors. Here's a look",
+      "sourceUrl": null,
+      "webUrl": "https://www.wraltechwire.com/2021/10/02/amazon-home-security-robots-inside-drones-outside-cameras-all-around/",
+      "originalUrl": "https://www.wraltechwire.com/2021/10/02/amazon-home-security-robots-inside-drones-outside-cameras-all-around/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wraltechwire.com/wp-content/uploads/2021/10/amazon-astro-bot-e1633113427996-1024x575.jpg",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wraltechwire.com/2021/10/02/amazon-home-security-robots-inside-drones-outside-cameras-all-around/?amp=1",
+      "cdnAmpWebUrl": "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/10/02/amazon-home-security-robots-inside-drones-outside-cameras-all-around/?amp=1",
+      "publishedDateTime": "2021-10-02T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-10-02-amd-aims-to-increase-efficiency-of-server-chips-30x-by-2025.md",
       "title": "AMD aims to increase efficiency of server chips 30x by 2025",
       "excerpt": "AMD aims to improve the efficiency of its server chips by 30x over the next four years by increasing performance while consuming less power.",
@@ -245,7 +426,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/01/nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -493,58 +674,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-ai-could-reduce-racial-disparities-in-healthcare.md",
-      "title": "AI Could Reduce Racial Disparities In Healthcare",
-      "excerpt": "What makes one AI tool shortchange Black patients while another produces more equitable treatment? The difference may boil down to one of the simplest rules of computer programming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/ai-could-reduce-racial-disparities-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/ai-could-reduce-racial-disparities-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f32974509df6c340752fce0%2F0x0.jpg",
-          "width": 1200,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/ai-could-reduce-racial-disparities-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/01/ai-could-reduce-racial-disparities-in-healthcare/amp/",
-      "publishedDateTime": "2021-10-01T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -848,7 +977,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/why-uxui-should-be-considered-throughout-the-ai-life-cycle/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1042,152 +1171,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem.md",
-      "title": "How AI deployment is changing the game of healthcare ecosystem",
-      "excerpt": "While deployment of intelligent bots in healthcare sector, has many beneﬁts and futuristic possibilities, Ayush Verma, Practice Lead, AI & ML and Shveta Raina AVP, Communication & People Strategy, Avizva point out that most healthcare providers refuse to let go of legacy systems and resist adapting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.expresshealthcare.in/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/",
-      "originalUrl": "https://www.expresshealthcare.in/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/10/01121218/EH_Ayush-Verma_Shveta-Raina_Avizva_750.jpg",
-          "width": 750,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.expresshealthcare.in/amp/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/",
-      "cdnAmpWebUrl": "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/",
-      "publishedDateTime": "2021-09-30T23:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "expresshealthcare",
-        "domain": "expresshealthcare.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-choose-chicago-introduces-ai-tool-named-after-beloved-attraction.md",
-      "title": "Choose Chicago Introduces AI Tool Named After Beloved Attraction",
-      "excerpt": "The Bean has also become the name of a new online system to help users learn more about what to do in the Windy City.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/micheleherrmann/2021/09/30/choose-chicago-introduces-ai-tool-named-after-beloved-attraction/",
-      "originalUrl": "https://www.forbes.com/sites/micheleherrmann/2021/09/30/choose-chicago-introduces-ai-tool-named-after-beloved-attraction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61563d4848edfe31f7ac141f%2F0x0.jpg",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/micheleherrmann/2021/09/30/choose-chicago-introduces-ai-tool-named-after-beloved-attraction/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/micheleherrmann/2021/09/30/choose-chicago-introduces-ai-tool-named-after-beloved-attraction/amp/",
-      "publishedDateTime": "2021-09-30T17:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-beware-professional-services-workers-robots-are-coming-for-your-job-too.md",
-      "title": "Beware Professional Services Workers: Robots Are Coming For Your Job Too!",
-      "excerpt": "For the most part, the biggest fears of many during this period of rapid technology advancement has been that blue collar positions, the laborers and builders of the world, would be the ones finding their positions threatened the most.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/calvinmackie/2021/09/30/beware-professional-services-workers-robots-are-coming-for-your-job-too/",
-      "originalUrl": "https://www.forbes.com/sites/calvinmackie/2021/09/30/beware-professional-services-workers-robots-are-coming-for-your-job-too/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155ea739694b9b824530a47%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/calvinmackie/2021/09/30/beware-professional-services-workers-robots-are-coming-for-your-job-too/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calvinmackie/2021/09/30/beware-professional-services-workers-robots-are-coming-for-your-job-too/amp/",
-      "publishedDateTime": "2021-09-30T15:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

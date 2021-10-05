@@ -3,18 +3,18 @@ category: news
 title: "Amazon's controversial vision for the future of your home security"
 excerpt: "Amazon's vision for the future of home security includes drones flying over your roof, outdoor cameras that monitor for possible trespassers and cute robots patrolling indoors."
 publishedDateTime: 2021-10-02T21:37:00Z
-originalUrl: "https://www.wesh.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
-webUrl: "https://www.wesh.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
-ampWebUrl: "https://www.wesh.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
-cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+originalUrl: "https://www.kcra.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+webUrl: "https://www.kcra.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+ampWebUrl: "https://www.kcra.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
 type: article
 quality: 61
 heat: -1
 published: false
 
 provider:
-  name: WESH
-  domain: wesh.com
+  name: KCRA
+  domain: kcra.com
 
 topics:
   - Computer Vision
@@ -91,6 +91,6 @@ related:
         height: 707
         isCached: true
 
-secured: "xze+LUpG8x620RxInK58uEePaUWilIZcBawqyCUVSfEljqsjHN8uNLde+dEw4wZEJ3KFfYaKKjv1LZzkU/5b6pZGq5s2FOTGVj2h0uSHGeP6O7sE2G2xLf99uInm57IM0EzgDTk88t5gs+uFUXTAbduDeFGLA5i4wNslWN8sxcHKBdSgVFAR89ND3SYxh7I6gi5Rh6Pi+lzRLVCYI/1kaoUM0sg2Qnvn199+rXuULSiS4d1+FhWfSGqnB6b450gTRIGy0WCh2PfvABT7me5c26rGE3LgFHBeID7jGYhw6ZSIJOZd86A7FfJc+F+eQCkDMThoCS0C8ox5m+BF3bhg61ZEupgIa5ttKYVi5+kG392Bkak2wDHCiWldaDMQI6L99kCpCS1ozg/HsooL0LGQx3UugekvZJfkB0C71HyDo3iHrAtNZ9UX2iAqU7gW66ONACSlnpJgEToGk4VRwQ8uw6MFPhDGTqp4oUW0sogfnxZ6GHlhgO9CNKOFBO4PmudgFhlXmaAt36dXZqajvHFkNg==;k4cy/6mvdZp9TIwRGvklgQ=="
+secured: "VSK/yQZelL/WjlkS55CE+xE0MtA5RXJissVtHTiKMsZvBoHTFDcinC0DLvwXP3AzW5ekszb2X9QMHEdJx6I0aNAKtty64/RQcSYLCfGsdkJJJmddg3PJQjBsWWUNspDuJ6mr1cs2YMsX6COKKqYvrxC+MwR7KWgTA7L26E4Xqe3XbesRop6lKChNu34t5bQuKdbicwAS/ztU6hyKR4Qrz6wXOsTjTe5ZdIfrgY0+k7l/3NYBBpLDKLaahnVmcSXI0dnoqktYld7J8qWuToWpWq/3fSFUgLWlfwHPk392ErpEBmiP/U1O2T2aOpDITj5NcRbRs6gchH6gbAXZt7Nbrm7WjSQxR7Oc+1n8e+zEHm8=;LMMknETyC5ZJIW6i7mP1sw=="
 ---
 

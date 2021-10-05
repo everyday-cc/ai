@@ -9,7 +9,7 @@ ampWebUrl: "https://www.law360.com/amp/articles/1426802"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1426802"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Google sued over DeepMind's access to 1.6 mn UK patients' records"
-    excerpt: "UK-based law firm Mishcon de Reya has filed a class-action lawsuit against Google and DeepMind over their access to confidential medical records of approximately 1.6 million UK patients without their knowledge or consent."
-    publishedDateTime: 2021-10-02T12:00:00Z
-    webUrl: "https://inshorts.com/en/news/google-sued-over-deepminds-access-to-16-mn-uk-patients-records-1633176049372"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/google-sued-over-deepminds-access-to-16-mn-uk-patients-records-1633176049372"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/google-sued-over-deepminds-access-to-16-mn-uk-patients-records-1633176049372"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 59
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/10_oct/2_sat/img_1633173792952_877.jpg?"
-        width: 960
-        height: 640
-        isCached: true
   - title: "Google and its AI startup sued, accused of accessing 1.6M patient records without consent"
     excerpt: "Google and its artificial intelligence startup, DeepMind, are being sued in London over the lab's handling of the health data of over a million patients in the development of a patient-monitoring app,"
     publishedDateTime: 2021-10-01T15:03:00Z

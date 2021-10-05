@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Secretive facial recognition trial at Wellington Airport went against Privacy Commissioner's advice"
-    excerpt: "Aviation Security went ahead with the trial of a new facial-recognition scanning tool at Wellington Airport, despite serious concerns from the Privacy Commissioner. The secretive months-long trial, which is still ongoing,"
-    publishedDateTime: 2021-09-30T16:00:00Z
-    webUrl: "https://www.stuff.co.nz/national/politics/300420063/secretive-facial-recognition-trial-at-wellington-airport-went-against-privacy-commissioners-advice"
+  - title: "It’s time to start regulating facial recognition technology"
+    excerpt: "Its time for regulation to be stepped up in facial recognition technology as there is no oversight, governance, or accountability at the present moment."
+    publishedDateTime: 2021-10-04T18:13:00Z
+    webUrl: "https://techhq.com/2021/10/regulation-on-facial-recognition-needed/"
     type: article
     provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 40
+      name: TechHQ
+      domain: techhq.com
+    quality: 41
     images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/v/1/m/y/image.related.StuffLandscapeSixteenByNine.1420x800.4yv1lr.png/1633012249632.jpg"
-        width: 1420
-        height: 798
-        isCached: true
-  - title: "Wellington today, October 1: Suspicious fire in Kelburn, facial recognition trial at Wellington airport went against advice"
-    excerpt: "Here’s what you need to know from The Dominion Post today, plus breaking news and events from around the capital."
-    publishedDateTime: 2021-09-30T18:26:00Z
-    webUrl: "https://www.stuff.co.nz/dominion-post/wellington/126548316/wellington-today-october-1-suspicious-fire-in-kelburn-facial-recognition-trial-at-wellington-airport-went-against-advice"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 28
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/v/1/m/y/image.related.StuffLandscapeSixteenByNine.1420x800.23cdb0.png/1633027910718.jpg"
-        width: 1420
-        height: 798
+      - url: "https://cdn2.techhq.com/wp-content/uploads/2018/12/000_1SN6GC.jpg"
+        width: 1024
+        height: 681
         isCached: true
 
 secured: "jkG2SxF2f3TWZcpPKmvJAKG6smL/d1YWYwbosZpJFFyTacbgNCWwnDe5ygCJgpQY+m6YFsZ5C0Dk8bgSBLEVJtTBuhtN8VtS71f+pKeavBamClEP3GmsF4hm3BLiUsej1/Zrn+YfCZvcYlVI6989hlS6uQrfzNqHBzte90NELIE5Hp2OVQ/BS4EMuHkooY2zrmzIYE8EtITW3wfuhufXndVVDbWn47JNnCrMJhGxqGSa8u5Lcp14Cyc+AE2vXxOy0+NRaruyK3zO5gc9Jfz7DVr83HICN445x8Tey+eF/ctRZU3Ml4gMiHg6ZaHeXGcflWH8vw1ibmgX3Kg3N5XhJVg+bBhyN2EhpTTlUkk6Xwk=;ZfVU4CEkb8KllTPbajoOyw=="

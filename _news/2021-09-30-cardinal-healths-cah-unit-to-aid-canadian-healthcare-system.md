@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/388628"
 webUrl: "https://www.entrepreneur.com/article/388628"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 635
     height: 400
     isCached: true
-
-related:
-  - title: "Is Hospital at Home the Future of Healthcare?"
-    excerpt: "Traditional healthcare organizations have a role to play in home healthcare, with remote patient monitoring devices, data integration and artificial intelligence supporting virtual care platform efforts."
-    publishedDateTime: 2021-10-01T17:15:00Z
-    webUrl: "https://healthtechmagazine.net/article/2021/10/hospital-home-future-healthcare"
-    ampWebUrl: "https://healthtechmagazine.net/article/2021/10/hospital-home-future-healthcare?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2021/10/hospital-home-future-healthcare?amp"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 59
-    images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202110/hospital%20at%20home.jpg?itok=Iw8VzoH8"
-        width: 1440
-        height: 500
-        isCached: true
 
 secured: "O93b1cJlfvqqm7hejrb6OcO8lscSkgQFfZp8HePQtIGa0hz6BuJBda/EPuNnblf897Aq2K1ClBTK2eFtlGp6Var+pi+RcVDWvOLh5UQ+P3Hc1uRyMW0Ilvhyyqj4FOp+ej/vcevJlrtv8k5+QAT+1gclFUF2cx50qsn13W0vngKcPY4uhmEUzshwynBi0cQQDHsjlwGf/Hb5iezwAJwrbuZPMWoW72YVJ9nmAKyEvCnZDlrth13SmagIWx5JOlMGVjnEXsm+xWQZukSADRKlErY0qYA5E4RbVpcOqHGa3xpFI2TauIThRTVjqv/y4KxDJoqO01U/hMyAFLjP9ID6h+bsHWO1xJAGIwK33zgjYaY=;gPI15WvVl7UgeAdTw01dVg=="
 ---

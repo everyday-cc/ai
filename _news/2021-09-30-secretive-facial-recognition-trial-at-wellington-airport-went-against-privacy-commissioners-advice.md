@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition trial not needed, says privacy commissioner"
-    excerpt: "Using facial recognition to figure out how long people will wait in a queue is like using a sledgehammer to crack a nut. That's according to the Privacy Commissioner who has serious concerns about the scanning tool being used at Wellington Airport."
-    publishedDateTime: 2021-10-01T01:02:00Z
-    webUrl: "https://www.rnz.co.nz/national/programmes/middayreport/audio/2018814656/facial-recognition-trial-not-needed-says-privacy-commissioner"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 39
-    images:
-      - url: "https://www.rnz.co.nz/assets/news_crops/123200/eight_col_126044392_m.jpg?1621998715"
-        width: 720
-        height: 450
-        isCached: true
   - title: "Wellington today, October 1: Suspicious fire in Kelburn, facial recognition trial at Wellington airport went against advice"
     excerpt: "Here’s what you need to know from The Dominion Post today, plus breaking news and events from around the capital."
     publishedDateTime: 2021-09-30T18:26:00Z

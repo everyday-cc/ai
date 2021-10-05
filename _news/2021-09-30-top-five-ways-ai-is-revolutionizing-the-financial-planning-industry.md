@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/top-five-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/30/top-five-ways-ai-is-revolutionizing-the-financial-planning-industry/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.globaltimes.cn/Portals/0//attachment/2021/2021-10-02/d74b984e-b1e2-401c-a427-ce4fd94ac455.jpeg"
         width: 800
         height: 480
-        isCached: true
-  - title: "Oracle Promotes Responsible Use of AI in Financial Institutions"
-    excerpt: "A recent World Economic Forum survey 1 found that 85% of financial institutions have implemented AI, but some still have concerns about its use. To help financial institutions apply AI responsibly, Oracle has added new AI governance capabilities to its Oracle Financial Services Compliance Studio application."
-    publishedDateTime: 2021-10-04T12:37:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-business-world-economic-forum-31e15a5ead1fb927e02852864d2156d6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "yp9OpeOJBpladK2VIVBnHNW5B7Iva01SIADWbQKMgpBPaLwDWLyuTOjoBgQd4hSRML3zF9bsuyHlQjwlbpnx9uA/8G9zVvr8X8uXEOybqWJo38MJ//WVoKylNPpPuW6eAkju+SB2pGCRAICY6qKahXYolbuiFkEPmllFMPFF3BPQtKN9o1ijVt5GIoW568l43fcmzIuwQ7kcW749sEVqYMmcCR5p4aWivyhS/zt6qJMjJg1UQnToK1PQCc2bx8eff/8aoyFVEdXXLKkMY2UqyY/KKYxJmvn/Xy+26iTSsx3tniVjiS1gEoJbDNFMfygjG7vtPPkFZT6XDzk/zyW6+TNw7BUeUrpIugWFjMiN2ZYCfYHLiWdJ7t2qB2urU9pjtd3cEvWtpJhPzfEQauTTps5Q1ksv0ahIA6lHa0W97FcIviPa+3fxqC2f7R0ugz8ulCUKH3qqF+pGToPw+q2WRLXkcXLE+L+GEyvGT7jGaS+MtV3tRq3jQzZXrSzUaEz+SoYhO8kasoNPlC9ZKkxRBg==;zu6Qd3auBPlRJxbcEzOd8w=="

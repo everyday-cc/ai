@@ -1,30 +1,22 @@
 ---
 category: news
-title: "Skill Development Course On Foundations Of Modern Machine Learning Launched At IHub-Data, IIIT Hyderabad"
+title: "Skill Development Course on Foundations of Modern Machine Learning launched at IHub-Data, IIIT Hyderabad"
 excerpt: "A 50-week-long online programme on Foundations of Modern Machine Learning designed for the benefit of undergraduate engineering students in India, got underway at IIIT Hyderabad today. Prof P J Narayanan,"
-publishedDateTime: 2021-10-04T11:26:00Z
-originalUrl: "https://www.republicworld.com/india-news/education/skill-development-course-on-foundations-of-modern-machine-learning-launched-at-ihub-data-iiit-hyderabad.html"
-webUrl: "https://www.republicworld.com/india-news/education/skill-development-course-on-foundations-of-modern-machine-learning-launched-at-ihub-data-iiit-hyderabad.html"
-ampWebUrl: "https://www.republicworld.com/amp/india-news/education/skill-development-course-on-foundations-of-modern-machine-learning-launched-at-ihub-data-iiit-hyderabad.html"
-cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/education/skill-development-course-on-foundations-of-modern-machine-learning-launched-at-ihub-data-iiit-hyderabad.html"
+publishedDateTime: 2021-10-04T08:31:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-skill-development-course-foundations-modern-machine-learning-launched-/2021/10/04/9461297.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-skill-development-course-foundations-modern-machine-learning-launched-/2021/10/04/9461297.htm"
 type: article
-quality: 42
-heat: 42
+quality: 2
+heat: -1
 published: false
 
 provider:
-  name: RepublicWorld
-  domain: republicworld.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/m5ybyh3tm6gfplbj_1618399351.jpeg"
-    width: 768
-    height: 439
-    isCached: true
 
 related:
   - title: "Skill Development Course on Foundations of Modern Machine Learning launched at IHub-Data, IIIT Hyderabad"
@@ -42,6 +34,6 @@ related:
         height: 1257
         isCached: true
 
-secured: "xz2FygQNqaNwc1zGtXVCbPZ2BcdISDFW1WzeOq2Xpq2+CbxJkoXaEdLaUKEc/dd33Z3b2KePToWwzZgC6AUrLUJSP6yu2+wW1sdDU+FkWQ4wICPVQ8QFE4MBGvhWzrvw2vZKuO7FqXZrKYu6Hk48zUZ1PcBDrMlFDzd1g32Hkfa/sEvT9+3AG6nJOj1anGuDR2tcI0lQg2JQ+fT804HQbjm3Y0EHSxGYRhImSEPBTfDM0QoVl/KnOMMvvGZLpygEAPLo15tLQW6BZ/sb6fLgwD1vr1RFmGQ/bJAGX+ZlV28GsncUAwcsbZAR63EdQqf9I6IWPgLDc6/17sLB1SLOzrg9lJx8VAlG2UgVrZ0VU8Q=;BIR5UeXZWxEx+nvZgU1vhA=="
+secured: "z4kNKj28mKZ7zF+hvb+MPfRJdk+kXNiLPeLVYjfvnat0Uxt1IpTGRXLJeLAwOuCNn1mVElCIgNViWBba5rL7aArOjk8oAKw1dp7vH8BZ7ZJnE8g9fzPdXRu/e14G66YTaIc7zrQdqKg1i9YsUV/HxB/Was5souB0+pdTcArddVNPRZZOkOjJvo3jFvGLnL27SIB3+b1voHG7eVyWhF6vl7IfbxPlHMAMTrtr81Gc2qkZUbPw2yRJ8QbTiOpV7bQjM/eTEWsv5DiG1/v45rsMtc7qzwnOc8O+r1trr8ekMrGhpUUP2zP2S4MXkre0w66sGkecxoENw3yjUqG11F80Foy1IZF5+3pXzW+jjn5B6O8d+XWu+Z4EgvxvAKbwg1RKrjr5GCUSUF9xHtp/13jQc6djAXd4IeZnMZbNBjJoRxoJKeiPbEPdyUbENZf6Z6YFgzokW5RsBgoZ/REn1wzjtrDDTq0PG2lGBZQWX/nTUtBQpx4sOQp8ZCaWavqcJZ529h9zCZgSUaVsGC/UGz/jZg==;hGnoYSZJhPnRkRr5KTdq6A=="
 ---
 

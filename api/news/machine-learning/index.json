@@ -654,19 +654,19 @@
     {
       "path": "_news/2021-09-29-next-wave-of-deep-learning-models-applications-markets-2021-focus-on-rnn-cnn-and-gan-researchandmarketscom.md",
       "title": "Next Wave of Deep Learning Models & Applications Markets 2021: Focus on RNN, CNN, and GAN - ResearchAndMarkets.com",
-      "excerpt": "The “Next Wave of Deep Learning Models & Applications (RNN, CNN, and GaN)” report has been added to ResearchAndMarkets.com’s offering. As digitization progresses across industries, AI is gaining a ubiquitous adoption as more and more business processes are being automated.",
+      "excerpt": "The \"Next Wave of Deep Learning Models & Applications (RNN, CNN, and GaN)\" report has been added to ResearchAndMarkets.com's offering. As digitization progresses across industries, AI is gaining a ubiquitous adoption as more and more business processes are being automated.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/business-technology-c75da96895804268aa68ebd35cad71f2",
-      "originalUrl": "https://apnews.com/press-release/business-wire/business-technology-c75da96895804268aa68ebd35cad71f2",
+      "webUrl": "https://us.acrofan.com/detail.php?number=538420",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=538420",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -679,8 +679,8 @@
       "publishedDateTime": "2021-09-29T03:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "아크로팬",
+        "domain": "acrofan.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -897,6 +897,84 @@
       ]
     },
     {
+      "path": "_news/2021-09-28-machine-learning-as-a-service-mlaas-market-to-rise-cagr-of-3840-by-2025-tmr.md",
+      "title": "Machine Learning as a Service (MLaaS) Market to rise CAGR of 38.40% by 2025 – TMR",
+      "excerpt": "Request a brochure @  The analyst of the TMR publication has notified for a fairly consolidated competitive landscape in the global machine learning as a service market, with leading three companies,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/machine-learning-as-a-service-mlaas-market-to-rise-cagr-of-38-40-by-2025-tmr/",
+      "originalUrl": "https://manometcurrent.com/machine-learning-as-a-service-mlaas-market-to-rise-cagr-of-38-40-by-2025-tmr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/machine-learning-as-a-service-mlaas-market-to-rise-cagr-of-38-40-by-2025-tmr/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/machine-learning-as-a-service-mlaas-market-to-rise-cagr-of-38-40-by-2025-tmr/",
+      "publishedDateTime": "2021-09-28T03:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-deep-learning-market-to-be-worth-72-billion-growing-application-of-deep-learning-to-boost-growth-technavio.md",
+      "title": "Deep Learning Market To Be Worth $ 7.2 Billion | Growing Application Of Deep Learning to Boost Growth | Technavio",
+      "excerpt": "The deep learning market will be driven by the growing application of deep learning. In addition, growing emphasis on cloud-based deep learning will influence the deep learning market growth positively during the next few years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/deep-learning-market-to-be-worth-7-2-billion-growing-application-of-deep-learning-to/article_e9329206-2282-5f6d-9300-cab18a2b4a80.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/deep-learning-market-to-be-worth-7-2-billion-growing-application-of-deep-learning-to/article_e9329206-2282-5f6d-9300-cab18a2b4a80.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/e2/0e26f118-28ad-5c05-889e-0d080d0ee938/61527835e40db.image.jpg?resize=1120%2C630",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-an-ultralow-power-artificial-synapse-for-next-generation-ai-systems.md",
       "title": "An ultralow power artificial synapse for next-generation AI systems",
       "excerpt": "Brain-inspired computing is a promising candidate for next-generation computing technologies. Developing next-generation advanced artificial intelligence (AI) systems that can be as energy-efficient,",
@@ -937,50 +1015,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-axis-launches-8th-generation-artpec-system-on-chip-powering-deep-learning-analytics-on-the-edge.md",
-      "title": "Axis launches 8th generation ARTPEC system-on-chip powering deep-learning analytics on the edge",
-      "excerpt": "Axis Communications announces the 8 th generation of its custom-designed system-on-chip (SoC) made for network video. The ARTPEC-8 SoC was designed first and foremost to create new opportunities for impressive analytics applications based on deep learning on the edge.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-aed33d0da6ef4b06931d144f00697723",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-aed33d0da6ef4b06931d144f00697723",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     },
     {
@@ -1087,6 +1121,41 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-axis-launches-8th-generation-artpec-system-on-chip-powering-deep-learning-analytics-on-the-edge.md",
+      "title": "Axis launches 8th generation ARTPEC system-on-chip powering deep-learning analytics on the edge",
+      "excerpt": "Axis launches 8 th generation ARTPEC system-on-chip powering deep-learning analytics on the edge. Axis Communications announces the 8 th generation of its custom-designed system-o",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20210927005193/axis-launches-8th-generation-artpec-system-on-chip-powering-deep-learning-analytics-on-the-edge",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20210927005193/axis-launches-8th-generation-artpec-system-on-chip-powering-deep-learning-analytics-on-the-edge",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T01:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1384,105 +1453,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-how-do-databases-support-ai-algorithms.md",
-      "title": "How do databases support AI algorithms?",
-      "excerpt": "Register now! Databases have always been able to do simple, clerical work like finding particular records that match some given criteria — say, all users who are between 20 and 30 years old. Lately database companies have been adding artificial intelligence routines into databases so the users can explore the power of these smarter,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/",
-      "originalUrl": "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/cloud-database-GettyImages-969567772-e1627330470267.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/amp/",
-      "publishedDateTime": "2021-09-23T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-uw-research-provides-a-basic-structure-of-neural-networks-in-the-mammalian-brain.md",
-      "title": "UW research provides a basic structure of neural networks in the mammalian brain",
-      "excerpt": "Two University of Wyoming researchers decided to pick each other's brain, so to speak. Specifically, they examined the importance of the frontal cortex, the portion of the brain used in decision-making,",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210922/UW-research-provides-a-basic-structure-of-neural-networks-in-the-mammalian-brain.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210922/UW-research-provides-a-basic-structure-of-neural-networks-in-the-mammalian-brain.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210922/UW-research-provides-a-basic-structure-of-neural-networks-in-the-mammalian-brain.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210922/UW-research-provides-a-basic-structure-of-neural-networks-in-the-mammalian-brain.aspx",
-      "publishedDateTime": "2021-09-22T19:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Making self-driving cars human-friendly"
+    excerpt: "Automated vehicles could be made more pedestrian-friendly thanks to new University of Leeds research which could help them predict when people will cross the road. Scientists investigating how to better understand human behaviour in traffic say that neuroscientific theories of how the brain makes decisions can be used in automated vehicle technology to improve safety and make them more human-friendly."
+    publishedDateTime: 2021-10-04T23:01:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/930450"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/25a5c613-406a-48e8-9eee-63eafff0a504/Rendition/low-res/Content/Public"
+        width: 700
+        height: 466
+        isCached: true
 
 secured: "d4FpmJ0nN05FdV32FyFQesWQ8SxdZ/obqeyavUGuah/ZP4LQPnZprVtjjFq6h3dJIC62Cb6/ecD5Jk1CvyRwZ68uDFlX1qoBeF/hwb3y0cPF+m1LhiV1lRi/Nt461t2S8/2NiMgDh+jdLe1QKDLGRhSoDXWqk0NzNy6PWh1+yxxujHVKnkJ/CH7ch6SGZRRHgaFln81fIDlPoaW5x/WdBqUoaUnzr6J8p3kcMdaqP2WONiqaeRS6Df8iILCLinMUPiohRwW9DhlFzB4+FF/tA6phpIx4blfzUU4C1SIjEzdFUuZ/O8XOVQQWB2Dl42Ufy9K8dcIpxo1gtswaNMHddi14O66V4SOvFOCM1Qv7KbQ=;oZfoq/ujVPo/gIrAvuZhoA=="
 ---

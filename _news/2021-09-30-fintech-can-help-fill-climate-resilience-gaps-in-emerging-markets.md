@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -102,20 +102,6 @@ related:
       - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1310293181_0.jpg.png?itok=PK7CDtDD"
         width: 1200
         height: 630
-        isCached: true
-  - title: "The International Cricket Council Announces Strategic Partnership With FinTech Infrastructure Leader: Nium"
-    excerpt: "The International Cricket Council (ICC) announced today that it has entered a multi-year strategic partnership with Nium, a leading global financial technology (FinTech) infrastructure company. Nium provides banks and businesses with access to"
-    publishedDateTime: 2021-09-30T06:46:00Z
-    webUrl: "https://www.lelezard.com/en/news-20022685.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 6
-    images:
-      - url: "https://mma.prnewswire.com/media/1639444/ICC_Nium_partnership.jpg"
-        width: 400
-        height: 225
         isCached: true
 
 secured: "h1bkA+oWJZlKI3Vu1dkXW7m87ZSPptwYDQHu7v5qkxk/BrsxKwOQ/q6YhD00hl0+mbuNCt8l1lY/ggfd3963a3kIvU47nTJdlCSRXMefif7NDYmJtdcUDmk3h/azqT3yiZfo+X5zbfEh04Ikst0JP6a8ZLKQI7eoE6q9RsUPnoVr2p/oL2ax4awlMipw6nnd+6m6RJW4s1598L2DNW52ozgznhkixyyE8N6/iK7IiLvJ8W5VyvolD/LEZ8Soyw70VEdINaE///hjCdz4t0QrDHRltpE2QOsHmqj+k0SZw9Ny5YJe/I+WQlSTvw8Xf9g53A2kSdgTXpiUbXX/lVNlo9lA0UsqkFSZJv9wKQDZCFrhNRQqc9Jk+S+ZZemNKCzQeSehBbYa/Dj/1OTHKOQVRtoYz8lUZjG2npBoON7jdTHyIEvj8c1oxJMV6MQ8krkURNJhgY/dGhhMMOFQCDoPLdukeUZ+wF6VZtITRHjOgMO/IW47V+56DupHVleT2PSWg0ABM2jxbNfhba7B5Dsm5w==;Ig+UrcbrLjfSsl9FulA1MQ=="

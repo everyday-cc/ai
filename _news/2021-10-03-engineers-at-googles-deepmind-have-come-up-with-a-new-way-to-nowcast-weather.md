@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind AI predicts incoming rainfall with high accuracy"
-    excerpt: "Having flexed its muscles in predicting kidney injury, toppling Go champions and solving 50-year-old science problems, artificial intelligence company DeepMind is now dipping its toes in weather forecasting."
-    publishedDateTime: 2021-09-30T06:00:00Z
-    webUrl: "https://newatlas.com/computers/deepmind-ai-predicts-incoming-rainfall-high-accuracy/"
-    ampWebUrl: "https://newatlas.com/computers/deepmind-ai-predicts-incoming-rainfall-high-accuracy/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/deepmind-ai-predicts-incoming-rainfall-high-accuracy/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 104
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/e6a3fa7/2147483647/strip/true/crop/450x300+130+0/resize/1200x800!/format/webp/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0c%2F2a%2F6f5446b646bd850633c0c1663837%2Funnamed.gif"
-        width: 710
-        height: 300
-        isCached: true
   - title: "Google's DeepMind AI Has Just Reduced Conventional Weather Forecasting To Dust"
     excerpt: "Although it may seem easy, weather forecasting is one of the hardest challenges faced by science. Over the last few decades, meteorologists around the world have tried to come up with the most accurate forecasting models."
     publishedDateTime: 2021-10-04T07:03:00Z
@@ -75,35 +59,21 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Predicting gene expression with AI"
-    excerpt: "Our new Enformer architecture advances genetic research by improving the ability to predict how DNA sequence influences gene expression."
-    publishedDateTime: 2021-10-04T00:00:00Z
-    webUrl: "https://deepmind.com/blog/article/enformer"
+  - title: "Google sued over DeepMind's access to 1.6 mn UK patients' records"
+    excerpt: "UK-based law firm Mishcon de Reya has filed a class-action lawsuit against Google and DeepMind over their access to confidential medical records of approximately 1.6 million UK patients without their knowledge or consent."
+    publishedDateTime: 2021-10-02T12:00:00Z
+    webUrl: "https://inshorts.com/en/news/google-sued-over-deepminds-access-to-16-mn-uk-patients-records-1633176049372"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/google-sued-over-deepminds-access-to-16-mn-uk-patients-records-1633176049372"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/google-sued-over-deepminds-access-to-16-mn-uk-patients-records-1633176049372"
     type: article
     provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 89
+      name: Inshorts
+      domain: inshorts.com
+    quality: 59
     images:
-      - url: "https://lh3.googleusercontent.com/pygM2sdWIgLuSkuUsnJXZEqO71U9uZ7hSuAngL34OL66t5xgjJT5HujJ0kIirF5g1heZjMuUKrrHuuRZAkFsepPVJYSncAyUJPw-cXFF0fmxxYGBWUpb"
-        width: 512
-        height: 288
-        isCached: true
-  - title: "Using deep generative radar models to predict rainfall over following 90 minutes"
-    excerpt: "A team of researchers at Google's DeepMind, working with a group at the U.K.s Met Office, has applied their knowledge of deep learning methods to the science of \"nowcasting\"—predicting whether it will rain in a given place in the following two hours."
-    publishedDateTime: 2021-09-30T15:00:00Z
-    webUrl: "https://techxplore.com/news/2021-09-deep-radar-rainfall-minutes.html"
-    ampWebUrl: "https://techxplore.com/news/2021-09-deep-radar-rainfall-minutes.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-deep-radar-rainfall-minutes.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 56
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/severeweather.jpg"
-        width: 1920
-        height: 1120
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/10_oct/2_sat/img_1633173792952_877.jpg?"
+        width: 960
+        height: 640
         isCached: true
   - title: "Google, DeepMind at Odds with Britain’s National Health"
     excerpt: "Google and sister firm DeepMind are facing legal action for the way in which they obtained and processed over a million patient health records without consent in the U.K. British law firm Mishcon de Reya has filed a claim"
@@ -119,20 +89,6 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "Artificial intelligence can predict rain with unprecedented accuracy"
-    excerpt: "DeepMind has created an artificial intelligence capable of forecasting the weather with impressive accuracy. The company specializes in building AIs focused on problem solving, but has now decided to embrace meteorology as an important field of action."
-    publishedDateTime: 2021-10-03T22:10:00Z
-    webUrl: "https://www.clarepeople.com/5930-artificial-intelligence-can-predict-rain-with-unprecedented-accuracy/"
-    type: article
-    provider:
-      name: The Clare People
-      domain: clarepeople.com
-    quality: 54
-    images:
-      - url: "https://www.clarepeople.com/wp-content/uploads/2021/10/5930-artificial-intelligence-can-predict-rain-with-unprecedented-accuracy-780x470.jpeg"
-        width: 780
-        height: 470
-        isCached: true
   - title: "Google’s DeepMind faces suit over access to NHS patient records"
     excerpt: "London-based firm Mishcon de Reya said it filed a claim in the U.K.’s High Court, alleging that Google’s access of 1.6 million people’s medical records broke privacy rules. NHS’ Royal Free London had struck an agreement with DeepMind in 2015 to build a system for alerting clinicians."
     publishedDateTime: 2021-09-30T21:15:00Z
@@ -146,6 +102,22 @@ related:
       - url: "https://medcitynews.com/uploads/2017/11/GettyImages-483265099-300x229.jpg"
         width: 300
         height: 229
+        isCached: true
+  - title: "Weather forecast revolution as Google tech to allow 'nowcasting' with minute accuracy"
+    excerpt: "WEATHER FORECASTS are set to be revolutionised as engineers at Google's DeepMind have mad e a major advance in what is known as \"nowcasting\"."
+    publishedDateTime: 2021-10-01T13:27:00Z
+    webUrl: "https://www.express.co.uk/news/science/1499552/weather-forecast-google-deepmind-ai-minute-update-met-office-rain-prediction-latest"
+    ampWebUrl: "https://www.express.co.uk/news/science/1499552/weather-forecast-google-deepmind-ai-minute-update-met-office-rain-prediction-latest/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1499552/weather-forecast-google-deepmind-ai-minute-update-met-office-rain-prediction-latest/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 37
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/Improved-weather-forecasts-could-be-around-the-corner-1499552.jpg?r=1633095000876"
+        width: 590
+        height: 350
         isCached: true
   - title: "Google’s DeepMind has developed an AI-based ‘nowcasting’ system that can predict rain in the next two hours"
     excerpt: "Now, scientists at Google's London lab DeepMind have built an artificial intelligence (AI)-based forecasting system that, they claim, can predict the likelihood of rain in the next two hours more precisely than existing systems."

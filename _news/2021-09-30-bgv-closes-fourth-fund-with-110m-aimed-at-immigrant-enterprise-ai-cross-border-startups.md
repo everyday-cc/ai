@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/amp/"
 type: article
 quality: 80
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1024
     height: 655
     isCached: true
+
+related:
+  - title: "BGV Raises $110M to focus on Enterprise AI and Cross-Border Investments"
+    excerpt: "Silicon Valley-based venture capital (VC) firm Benhamou Global Ventures (BGV), which invests in Enterprise 4.0 companies globally, today announced its fourth fund, closing at $110M, 60% larger than its third fund."
+    publishedDateTime: 2021-09-30T15:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bgv-raises-110m-to-focus-on-enterprise-ai-and-cross-border-investments-1030834672"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "NhlqcGebLsWQcvPgX4YKWxq2dHa0g8cKWph8vHU0XNjmpN5emI5lsijbzotxFllzA8q3YKarorFm5kkiEH8eO4wUXWq0MHjZeYvEZqQBmGfekQ9vdJoBy81jd8+WnC4NIst/r+3jaith9wNkuWvWxe7ZxVtVl278JOv3UASjm3EQkRTL5IlEdFsuYC92lzaPHsVpV9L1URcdE8sXr+UQMCmq5M2AQ1euEbp+pLSroBuzbB5nRHjF28oF09KH1bjpcRRDGZ8vHPoIOxw3jDScPPW/c3THOD8N3WhjSN9SYwVfwXx7hKLkz4TjLRAtqM45xMXtHzUhdjNi6HrXwY6S3zYnqLRa1GDQ4QISAjx5zOIX44UaVn37jha4+ImzyENNNEoZjoaKkLkJ3K3TWpURFysJsnX4nMnbaBWlLSj5akScakJtaU087Zoy9bIGdjlriDVjrhpKvrU4pyc3Pm4wka3Wzcvpzfzg4QS7r/JKUX3IB1D5F7O/kKjrOsX9L+jtWbnKbRiuT5aL5nGKdR/YwQ==;EPC19GvEch06D9ypYqbV8A=="
 ---
