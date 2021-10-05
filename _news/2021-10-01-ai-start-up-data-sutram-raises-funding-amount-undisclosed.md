@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/ai-start-up-data-sutram-raises-fundi
 webUrl: "https://analyticsindiamag.com/ai-start-up-data-sutram-raises-funding-amount-undisclosed/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,36 @@ images:
     width: 1120
     height: 630
     isCached: true
+
+related:
+  - title: "AI Startup Domino Data Lab Raises $100 Million in New Funding"
+    excerpt: "Artificial intelligence startup Domino Data Lab has raised $100 million in new funding amid increased business interest in tools that help companies build AI applications"
+    publishedDateTime: 2021-10-05T12:00:00Z
+    webUrl: "https://www.wsj.com/articles/ai-startup-domino-data-lab-raises-100-million-in-new-funding-11633438800?tpl=pe"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-411312/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Thankful Raises $12 Million for Customer Service AI"
+    excerpt: "Venice-based Thankful AI Inc. raised $12 million in Series A funding for its customer service artificial intelligence platform. Thankful plans to use the funding to further develop its AI to include features such as greater personalization and the ability to upsell in customer service situations."
+    publishedDateTime: 2021-10-04T07:06:00Z
+    webUrl: "https://labusinessjournal.com/news/2021/oct/04/thankful-customer-service-software-12-million/"
+    type: article
+    provider:
+      name: Los Angeles Business Journal
+      domain: labusinessjournal.com
+    quality: 37
+    images:
+      - url: "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/10/01/PG16_TECH_THANKFUL_1004_-_Ted_Mico_t670.png?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "uSTPRO7P0DRY1+gJdU08/JexS8ZnLn1vaf/lWERrXGGNgv5A5pM99yqwOkpoZ2u9dk/Z6mFRrkT/r1rnyVOfgSUVqtVfmOtJfCaDMVxRHhQURRDT0oRvZyyIncrYgakTtDISYtexrG9PO7fb00pZVDgkBeXlxdnhQMGMfmYLFL71KjK2gyP6oSJ5g3B5z5kWGAH+GF7DsPq3mlaib4DcNAF+p8BLKxkS5azyaKdFA3ZsmPAq0ntHqXLIZPRBEtxIYCgW6okICC3Hfi5oPISGLCPDKsnVcLoqmKdoIQ2J7sD6axFT46d+PvJDdyBhxA1jDwDLS9Oj7PzvGCa3+VmuJzT7MdB2LjG6W5uuk9Y8OuUw59GCBuqxAkqNQUPT4iWTXAufZ9/rmsODrEzm/Cn1jqW9bE40fViFMEipnistkUJW3KWFFsPn7ueZ57XUXaHZj7SFlqpdcYZC9IGrYqALtQ83zgGT2XimQ9MofEak4R0G9AQvceumR/ui10nm42lWRVK5kiDQ44/cvFAwbOrOlw==;J1NKylu0PIu6/tKprAQ43A=="
 ---

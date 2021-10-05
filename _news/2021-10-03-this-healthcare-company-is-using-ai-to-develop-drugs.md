@@ -3,14 +3,14 @@ category: news
 title: "This Healthcare Company Is Using AI to Develop Drugs"
 excerpt: "L ife sciences company Schrödinger (NASDAQ: SDGR) has developed software that could help drug companies develop medicine using artificial intelligence and physics, and it's already being used by a number of big-name pharma companies."
 publishedDateTime: 2021-10-03T12:15:00Z
-originalUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03"
-webUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03"
+originalUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?time=1633263301"
+webUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?time=1633263301"
 ampWebUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: Nasdaq
@@ -21,23 +21,53 @@ topics:
   - AI
 
 related:
-  - title: "Google is using artificial intelligence to make information more useful"
-    excerpt: "At its Search On event this week, Google revealed details about how it plans to use a technology it calls Multitask Unified Model (MUM), which should"
-    publishedDateTime: 2021-09-30T20:52:00Z
-    webUrl: "https://www.techspot.com/news/91514-google-using-artificial-intelligence-make-information-more-useful.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/91514-google-using-artificial-intelligence-make-information-more-useful.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91514-google-using-artificial-intelligence-make-information-more-useful.html"
+  - title: "How AI deployment is changing the game of healthcare ecosystem"
+    excerpt: "While deployment of intelligent bots in healthcare sector, has many beneﬁts and futuristic possibilities, Ayush Verma, Practice Lead, AI & ML and Shveta Raina AVP, Communication & People Strategy, Avizva point out that most healthcare providers refuse to let go of legacy systems and resist adapting."
+    publishedDateTime: 2021-10-01T06:17:00Z
+    webUrl: "https://www.expresshealthcare.in/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/"
+    ampWebUrl: "https://www.expresshealthcare.in/amp/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/"
+    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 87
+      name: expresshealthcare
+      domain: expresshealthcare.in
+    quality: 74
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-30-image-36.jpg"
-        width: 1680
-        height: 1120
+      - url: "https://cdn.expresshealthcare.in/wp-content/uploads/2021/10/01121218/EH_Ayush-Verma_Shveta-Raina_Avizva_750.jpg"
+        width: 750
+        height: 400
+        isCached: true
+  - title: "In health care, many AI developers are white men. UNT is trying to diversify the field"
+    excerpt: "NIH has awarded $100 million to UNT’s Health Science Center to lead a project to train a more diverse artificial intelligence workforce."
+    publishedDateTime: 2021-10-01T13:45:00Z
+    webUrl: "https://www.star-telegram.com/news/local/crossroads-lab/article254627992.html"
+    ampWebUrl: "https://amp.star-telegram.com/news/local/crossroads-lab/article254627992.html"
+    cdnAmpWebUrl: "https://amp-star--telegram-com.cdn.ampproject.org/c/s/amp.star-telegram.com/news/local/crossroads-lab/article254627992.html"
+    type: article
+    provider:
+      name: Fort Worth Star-Telegram
+      domain: star-telegram.com
+    quality: 51
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998025001/2340e14e-4f45-4695-9892-84dcbc329c46/72b75ebd-71db-476e-b439-8f39c1841709/1280x720/match/image.jpg"
+        width: 1280
+        height: 717
+        isCached: true
+  - title: "Health2047’s new company plans to use AI, research access to improve clinical decision making"
+    excerpt: "Called RecoverX, the company will leverage AI to mine evidence-based research, medical charts, patient conversations and test results and provide clinical insights for clinicians in real time."
+    publishedDateTime: 2021-10-01T16:50:00Z
+    webUrl: "https://medcitynews.com/2021/10/health2047s-new-company-plans-to-use-ai-research-access-to-improve-clinical-decision-making/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 26
+    images:
+      - url: "https://medcitynews.com/uploads/2019/02/GettyImages-864483382.jpg"
+        width: 724
+        height: 483
         isCached: true
 
-secured: "rS5lST6GWzDyfpizRi2K8ZqpdcXdv9AFlXYw9Wq6TJIA/T7WbT+Lgd4MCy49Z/ZeVhn0oO5pAd38Dp+bM50PLZZthUc/xgHGLVBNtz6tSA6Nk5P/qEguilYmL3f5ZTSMSTEqX3GHBBB4QQ8WP57K/YPmAEPaLBYr1K5Fqn2VMcGhv2SEc+jn6EA0VqFNfPkToW56hYfa++UM6lrEQtTTFX9v4bmNcUwEK9u4xyzJKE/QPLR+honjPTH1xlZLuRyh3gkJZs3MJkck3njJm7j7eDGDufgXVPfiq9ZBoOrIDn7zYVQ4zDaVWKVf1aPlhc3ncoWr2g5MAO8ypxoRbZrBbyx3C3tW+PVxpJaWuOLkVFc=;zYGgNKNgRk09/qcWGu1pAg=="
+secured: "Mq1ZIHQMokO6rn/f8qU2pX5+4rkqc5twHw3LiC0xwE8xC+m7+ojM5tN4i3tbqhQ1LKerKU+6TxRO0q8f3uA1Dh1QkOwz2BG+uhw+4BqEcLbLiAlY8a4MzbhrLyi+aqlWlmQ0JL/H/bJRxn3MoYTysPBkyL69nslf24HS2w4sBKYHADRrIIl/eBsYoI4zuu/rzY74W3r35T7sKYUjc1hfG76vpf+aO5D6QwA8lfUymt81EbNqRbVP/og5LcNWZt78sxHwc5i+++gJm0o2IUbPSnef8gVtQmAaKG36HU5HHgucxYiYXgYlAibK1wEvqdVxqXDGBn087slpvC93toQbz00FdLcjuTd2ej7H1dbgILQ=;hGeHgSeQPMmA74paDKnQSg=="
 ---
 

@@ -41,6 +41,22 @@ related:
         width: 540
         height: 405
         isCached: true
+  - title: "Robots at Dubai Expo have multiple roles while interacting with visitors"
+    excerpt: "Dubai, the first World Expo ever held in the Middle East, Africa, and South Asia (MEASA) region got underway on Thursday, visitors to the"
+    publishedDateTime: 2021-10-05T13:19:00Z
+    webUrl: "https://english.alarabiya.net/life-style/travel-and-tourism/2021/10/05/Robots-at-Dubai-Expo-have-multiple-roles-while-interacting-with-visitors"
+    ampWebUrl: "https://english.alarabiya.net/amp/life-style/travel-and-tourism/2021/10/05/Robots-at-Dubai-Expo-have-multiple-roles-while-interacting-with-visitors"
+    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/life-style/travel-and-tourism/2021/10/05/Robots-at-Dubai-Expo-have-multiple-roles-while-interacting-with-visitors"
+    type: article
+    provider:
+      name: العربية.نت
+      domain: alarabiya.net
+    quality: 73
+    images:
+      - url: "https://vid.alarabiya.net/images/2021/10/05/aec11461-ea75-4082-8b28-e9b168a5d468/aec11461-ea75-4082-8b28-e9b168a5d468_16x9_600x338.jpg"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "I0qxLfVBFAxCXRBykuPrMQZjGrwy8Q5WQaoGCdevLpMTiZNv0xReFCFv/YjGvCDEJavZFpV+qclHiS9bN4M2cSruV3TekWTaOk9KEB81K89OU+IuVIZoEpncPgLZHP0rUgRcRRYdLZrGWqJTWorTMejysEWmlVs5s81+L4uiTvp0wEfCpCyCkhQEX2+yuhiqQcV1QE/ii84yn3WsJs/W/+JEA102LNiKYiAjxzBXwl0FHdwdCdYJArgE8A1q0bmZkdc/qsGuAbkR58yfdPLUMJtqyv4YmBMjJlGMCxUOlg1BA3Vw+wE3kOTglnKu46OwNVr599hJmCzpmEpSlX+59CN8UitrkdUEiCv+sRNJdAU=;fxoIuIj7mDem6f2DaGjNrg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/10/02/3-top-artificial-intel
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/10/02/3-top-artificial-intelligence-stocks-buy-right-now/"
 type: article
 quality: 87
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -46,17 +46,6 @@ related:
         width: 1200
         height: 598
         isCached: true
-  - title: "3 Top Artificial Intelligence Stocks to Buy This Month"
-    excerpt: "Artificial intelligence (AI) has become a buzzword. But, it may be deserving of the hype given the technology's potential to disrupt various industries. Therefore, fundamentally sound AI stocks Cisco Systems (CSCO),"
-    publishedDateTime: 2021-09-30T20:34:00Z
-    webUrl: "https://stocknews.com/news/csco-stm-bdc-3-top-artificial-intelligence-stocks-to-buy-this-month/"
-    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
-    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
-    type: article
-    provider:
-      name: Stock News
-      domain: stocknews.com
-    quality: 39
   - title: "Analytics Insight describes top artificial intelligence stocks to buy in October"
     excerpt: "This article features the top artificial intelligence stocks to buy in October 2021 from reputed tech companies. Buying AI stocks in October will provide higher revenue through AI model by harnessing artificial intelligence."
     publishedDateTime: 2021-10-04T11:13:00Z

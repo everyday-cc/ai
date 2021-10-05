@@ -41,20 +41,6 @@ related:
         width: 540
         height: 370
         isCached: true
-  - title: "Qlik acquires ML specialist Big Squid"
-    excerpt: "Data analytics and integration software vendor Qlik Technologies has acquired Big Squid, a developer of automated machine learning technology, in a move that expands Qlik’s augmented analytics capabilities and builds on its “active intelligence” initiative."
-    publishedDateTime: 2021-09-30T19:28:00Z
-    webUrl: "https://www.crn.com.au/news/qlik-acquires-ml-specialist-big-squid-570648"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/iStock-1205639324.jpg"
-        width: 1401
-        height: 900
-        isCached: true
   - title: "Qlik Acquires No-Code AutoML Platform Big Squid"
     excerpt: "Big Squid will further expand Qlik's existing SaaS roadmap and bring new AutoML augmented analytics capabilities."
     publishedDateTime: 2021-10-02T06:20:00Z
@@ -68,6 +54,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2020/09/aim_qlik-compressed.jpg"
         width: 1280
         height: 960
+        isCached: true
+  - title: "Data Analytics, Artificial Intelligence Lower Hospital Infections"
+    excerpt: "By switching to a data analytics and AI-powered hygiene monitoring system, Novant Health decreased its number of hospital-acquired infections."
+    publishedDateTime: 2021-10-05T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/data-analytics-artificial-intelligence-lower-hospital-infections"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Code_data.jpg"
+        width: 690
+        height: 400
         isCached: true
   - title: "How Reliable AI is in Patent Analytics?"
     excerpt: "We recently conducted a study of innovation and found that the average patents filed in a year have gone up +1800% since 2012. The speed of innovation has gone up by multi-folds, so the researchers and strategists need faster hands or technologies to provide quick yet reliable insights."
@@ -109,6 +109,6 @@ related:
         height: 480
         isCached: true
 
-secured: "XRM92eMS0iM3VoKYcJZnQx1DGBgwP9T5y4elStQh6pm/NN49N8QyCOiSVyIU/3iU21s4y2yk9U+SpOXRxT4hfaOzLpDkMWRt5OdI3yPGuj0Xae+w80Ib8OruKVCZQZnVd7c7JiafvhXD4lkSWjQgtabcRBazM6TIoHjFQcj861OEdExW/3jTIkOcdsWgb5dW1L3Dc2TlJEBYGH/csyTh+rysgoSLty0D8GFq6Y0S3cfxjxxPyW3SalepUW4W4JIY5G0cvobaZF4EWpuQR3kkIcs9Yj6hAN2Kf0x5u7PcG9f1hnWcvlBIY2rJViqLiP1OYfxENF68ImCQwdXCb8LtRBH+73RIjaxAjep3KF7XZ7Q=;FyuAwW/8poehEHvm4UENpQ=="
+secured: "4uJDrPmryMW6rj57i9exlZ8PCCGQQVlIzgM+FITXgAJkQQbwUCXeiH9ZQsmOcGH4FJYkBJE8JvTTDaYUYPdDO9DwpjRig8B4aF8Xw+RrQbg958spiw5bp5dBFSTu+Wt3YwMnSadjEOPds684pqloF/mtBKSn/1+4BvCViK5B/qRmVi+olRPO1LuIEai6Gx4Shvay96aCwFQRTFmyzOQG2x9vDrsC50w8kfHpQsy+4hqEwslemQhNbCasiCKGx0nkCiG8eyOix6stTBTqRpGUJPTHcrLyQM8WUn1fhMni2Zi7ugrsrh0IzV8m6iymAM6ErS7ZNlf0OT8I/VG1vxFdswPtlEdU9l8dDlNtS1JiDEo=;aVCmb5z6UBz8rwIGEkkiJw=="
 ---
 

@@ -35,19 +35,19 @@ related:
         width: 1200
         height: 589
         isCached: true
-  - title: "AI and Software Development: Let the Revolution Begin"
-    excerpt: "With help from AI-Augmented development tools – including no code and low code – software development will move far faster, and be open to non-tech types as well."
-    publishedDateTime: 2021-09-30T19:42:00Z
-    webUrl: "https://www.eweek.com/big-data-and-analytics/ai-and-software-development-let-the-revolution-begin/"
+  - title: "NVIDIA and VMware Deepen Collaboration to Simplify Enterprise AI Development and Application Management"
+    excerpt: "NVIDIA and VMware are collaborating to develop an AI-ready enterprise platform that brings the world's leading AI stack and optimized software to the infrastructure used by hundreds of thousands of enterprises worldwide."
+    publishedDateTime: 2021-10-05T13:33:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/NVIDIA-and-VMware-Deepen-Collaboration-to-Simplify-Enterprise-AI-Development-and-Application-Management-149346.aspx"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 67
+      name: dbta.com
+      domain: dbta.com
+    quality: 21
     images:
-      - url: "https://www.eweek.com/wp-content/uploads/2021/04/circuit-board.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Wjr0dZCJIKUVsdJ2fLL8QoPzA16I3N3pbF4ab3GE8Dve9yTEIeRGEsnrCG0CAdHl7k9oTFAXo/ynPjKtlg9c/gRL+4CWJfnDNeZioVgMqFnPEtbGby60uq0PqofneP4vUtNTPPujGn72KEaq5K5wcAvhfRlJ9v/cB637UERhpo5j4YtWO1HLmuLJknnJLXlsHdj65XuaoFdSA3XQ6vAyvHipuxwT0YEkOFfkKP7BKttwUli3s4vDSagIGssGxbZUtdsNO5fzGSZyfpctk+DfZEENHNuD4+AshJ+u3z7rZ/MsQN61p55U8laQRHQGPwUegBWxrVWplmJblL7KBdt6f7gAsad4W40ZKjwkQ21xOD6A+5gqhqpVWnt9/gzR7rTyLaum92a+TuV+7174sa2ohGDx7fP0/Y53IiJo80yLbVF3n3/CTBdeWluMlEAVYgx9yNShAfNKcTpAjhQ2sMSc08KGawa9sh68LoU3D4RvSrmJl0xmMrwh8nIuCiYudULa0YfDj/Ipg0xW6ty1EvoopQ==;mOP2Y7oqsqz5arQFeyoJUQ=="

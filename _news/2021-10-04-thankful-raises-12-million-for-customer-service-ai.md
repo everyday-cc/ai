@@ -24,21 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "BUET grad’s AI startup raises $4.1 million"
-    excerpt: "AI startup Gray Matter Robotics, headed by BUET graduate Ariyan Kabir, has raised $4.1 million in seed round funding. Stage Venture Partners and Calibrate Ventures led the round, along with 3M Ventures,"
-    publishedDateTime: 2021-09-30T19:11:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/buet-grads-ai-startup-raises-41-million-2187806"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/buet-grads-ai-startup-raises-41-million-2187806?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/buet-grads-ai-startup-raises-41-million-2187806?amp"
+  - title: "AI Startup Domino Data Lab Raises $100 Million in New Funding"
+    excerpt: "Artificial intelligence startup Domino Data Lab has raised $100 million in new funding amid increased business interest in tools that help companies build AI applications"
+    publishedDateTime: 2021-10-05T12:00:00Z
+    webUrl: "https://www.wsj.com/articles/ai-startup-domino-data-lab-raises-100-million-in-new-funding-11633438800?tpl=pe"
     type: article
     provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 59
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://img.thedailystar.net/sites/default/files/styles/social_share/public/images/2021/09/30/maxresdefault_9.jpg?itok=imnCCvTE"
-        width: 750
-        height: 393
+      - url: "https://images.wsj.net/im-411312/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "AI Start-up Data Sutram Raises Funding, Amount Undisclosed"
+    excerpt: "IIFL Fintech Fund, one of India’s largest early-stage investors in the fintech space, said that it has invested in the Kolkata-based start-up."
+    publishedDateTime: 2021-10-01T07:10:00Z
+    webUrl: "https://analyticsindiamag.com/ai-start-up-data-sutram-raises-funding-amount-undisclosed/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/AIM-Illustration-2.jpg"
+        width: 1120
+        height: 630
         isCached: true
 
 secured: "M1EsJttddrMEQzqR876N/1Gm2zsHwYB+onJCuETK3CVl+qy5y2yo91U+Vj7eVz4EL4OxRijOfywa2gZ6EE5/xe6L3FWoDpY533tRumEFlO3HAt6QzEXaXNmnQf/cLcIHYoNcllMMmgDRjjEJIxlnq4HiUj052/bV0LPTzJM+Cs3oemDO0Qmi73NC6VZRLlRDYFSPkCgawwkVlJqTI1LI8GGlqGXRG+E0P4G3RVuW2icfIzopPMpSh2eoRKozTrSbZvPv754DoYTYRR/I9ORiaOVFyj+X5FaH4NzmtZ9o/kcLNQGJuoaSHEf/ntQMACa85QYLFOgGv+p3+hpzFnDekEtsk7D26YYCK1e3dfJtEm0=;Nu6STa8GvOeccluTtLAJQQ=="

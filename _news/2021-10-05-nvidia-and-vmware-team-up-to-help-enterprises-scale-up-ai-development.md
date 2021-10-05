@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI and Software Development: Let the Revolution Begin"
-    excerpt: "With help from AI-Augmented development tools – including no code and low code – software development will move far faster, and be open to non-tech types as well."
-    publishedDateTime: 2021-09-30T19:42:00Z
-    webUrl: "https://www.eweek.com/big-data-and-analytics/ai-and-software-development-let-the-revolution-begin/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 67
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2021/04/circuit-board.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "NVTC partners with NVIDIA Deep Learning Institute to provide online AI courses"
     excerpt: "The Nasser Artificial Intelligence Research and Development Centre at the Nasser Vocational Training Centre (NVTC) and the NVIDIA Deep Learning Institute have started a collaboration, whereby students in Kingdom of Bahrain benefit from NVIDIA’s online courses in various areas of artificial intelligence (AI)."
     publishedDateTime: 2021-10-02T15:33:00Z
@@ -53,7 +39,21 @@ related:
       name: bna.bh
       domain: www.bna.bh
     quality: 30
+  - title: "NVIDIA and VMware Deepen Collaboration to Simplify Enterprise AI Development and Application Management"
+    excerpt: "NVIDIA and VMware are collaborating to develop an AI-ready enterprise platform that brings the world's leading AI stack and optimized software to the infrastructure used by hundreds of thousands of enterprises worldwide."
+    publishedDateTime: 2021-10-05T13:33:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/NVIDIA-and-VMware-Deepen-Collaboration-to-Simplify-Enterprise-AI-Development-and-Application-Management-149346.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 21
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "EO1G2yj9uR5QPOmm6/9ctd34SS83/m7613azfewCOj6ZPKWlWIxWKCp0bJGdYFJf1BQU+uzpL0wdMmKZ4FT4aYzuAABOn5Yo/K9FuG25kVHj8b2yXs/oUViP4NlGepVW/fEc46c50xhyj7hGkcwZBARWowzclr+Hic1dGKYXeHG/WdvlFi77zvksKCcwReIxzd9OVIDDry1h4Hf1ePFPV0dJL4jcPLNugT9bncc3SkG9z+J56C8Ng2cQBGYhCChSkgZZvQFrpEdSKGCBQFj99uG1OU1l7TKypFbImVRQRtqTlLlr3pMGDcnm0xdKIbw6hp6PM8i4/jdqjfDCvGVXK5nSbcvsNbheWzDk5pGy8Nc=;4AcEDT4kHUVgGu9HFEQ+Sw=="
+secured: "EypQi0gO6c2pFDA6zbME83YTiJ+z2ADGrIhWB+8qz7xDff7iT2GFVDHRVqPjx480u5Bcf5HMYGf27+kxb4NDUayCeLfKp1xtrAlnxui/lvYZl7RO1M2WQcfRv/a6o2gdROLcRUlXc1B11M5wLr0LJIRHFW1f89kUXFx2I4vGw93AuvJ3Zq5JkB+Lj9udMHaTPPgZLbC8D7owuW7+napsbV6dV8Be0J3zx7dSujhBTA6OW3Ew+DAaSsrvHIyFC1+DUBtlUecZEgWIyY6nR74tMjQCZ/oysUINDgBki0h2jQmaY26mH4NONLWp5HVPzRqlW+ogjcbj20Qz8qKRURjI4pU4RH7+f7wyOdvnpQGWhNROitEzGdOggt4fH9Exyfjz1C/Fo81y3E6q3KrhMRYqc5Dm3tIQDbqVWc6qx1hx1pi0MOPCsHFFhM4fqat9OAMfDWjLRgTd1fdTqMNfWEWm2bbg9unsZVro/tjTYxNiiZHggWze4wSEu4gP5VR1eF5aIMnhb+flW/Ryv/PIGY1qig==;VBeqdaIPFXsras2Jr/FTFA=="
 ---
 

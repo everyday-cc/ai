@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbizcouncil/2021/10/04/how-real-es
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbizcouncil/2021/10/04/how-real-estate-investors-can-use-artificial-intelligence/amp/"
 type: article
 quality: 87
-heat: 109
+heat: 107
 published: true
 
 provider:

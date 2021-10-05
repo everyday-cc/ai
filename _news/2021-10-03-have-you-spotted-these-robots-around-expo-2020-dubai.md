@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/expo-2020/experience-the-uae/have-you-spott
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/expo-2020/experience-the-uae/have-you-spotted-these-robots-around-expo-2020-dubai-1.82706158"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Robots at Dubai Expo have multiple roles while interacting with visitors"
+    excerpt: "Dubai, the first World Expo ever held in the Middle East, Africa, and South Asia (MEASA) region got underway on Thursday, visitors to the"
+    publishedDateTime: 2021-10-05T13:19:00Z
+    webUrl: "https://english.alarabiya.net/life-style/travel-and-tourism/2021/10/05/Robots-at-Dubai-Expo-have-multiple-roles-while-interacting-with-visitors"
+    ampWebUrl: "https://english.alarabiya.net/amp/life-style/travel-and-tourism/2021/10/05/Robots-at-Dubai-Expo-have-multiple-roles-while-interacting-with-visitors"
+    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/life-style/travel-and-tourism/2021/10/05/Robots-at-Dubai-Expo-have-multiple-roles-while-interacting-with-visitors"
+    type: article
+    provider:
+      name: العربية.نت
+      domain: alarabiya.net
+    quality: 73
+    images:
+      - url: "https://vid.alarabiya.net/images/2021/10/05/aec11461-ea75-4082-8b28-e9b168a5d468/aec11461-ea75-4082-8b28-e9b168a5d468_16x9_600x338.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Expo 2020 Dubai: UBTECH Panda Robot turns heads at China Pavilion"
     excerpt: "Expo 2020 Dubai, the first world expo since the outbreak of the COVID-19 pandemic, and the first expo of its kind held in the Middle East, has officially opened on October 1st. With exhibitors from 192 countries,"
     publishedDateTime: 2021-10-01T12:31:00Z

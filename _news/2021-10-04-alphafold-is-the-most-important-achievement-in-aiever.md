@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-mo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/amp/"
 type: article
 quality: 91
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "DeepMind Increases The Accuracy Of AlphaFold, With A New Release"
+    excerpt: "AlphaFold-Multimer analyzes multiple chains during both training and inference, supports both multi-chain featurization and symmetry handling."
+    publishedDateTime: 2021-10-05T13:33:00Z
+    webUrl: "https://analyticsindiamag.com/deepmind-increases-the-accuracy-of-alphafold-with-a-new-release/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Deep.png"
+        width: 1601
+        height: 915
+        isCached: true
 
 secured: "vXfQt3+ikG8S39DJB3U8lEWb4mBi0ikWg5io/K8Azw6o3hFJ6QdUNsJGxP02XnIBnXaTUkoteA+olrRQ042HqLGAX+tKuBPpkkwUwqRRAD/OPpOAdMUP7LWVpnLSrO0PEVmwOZdaoiUW+bI+7AUn55BoXkzlShG94Al5Mjq+Fjrs1NSFPoesZuuTsHK0YHpyGyysA7II7i3BoWqEnlLkZP9NRHaZjl294Jw6fF+YAl38iPOuVO1PW9DBE46+OnwkSEDk63JZ14oKefI6p403WIaw2kJ+YXjrlb4OjSU7VDH5w4HYkKXQC8qDvrt4Ee2LFgkPqALfeWD905G8UiBZC6vvrPHggJQgz6PLZeS3F2JrADV04k6f2buVgqS979/Kz6JekhpYBsSZTxzDwF/aCmaTpEnY6jjAPHR5kCE4SFe2He2x9y9StNP1vnd94d/KmgW6gV99FVgJllfUwlbfa4XnlWYj1sLwRxm8b6qEKpbwnpnX+02rQpl7WYoM1UQpC2SRGgnMw6x1dUElgtodJw==;SFABFL9TjQCvUfHP786x+g=="
 ---

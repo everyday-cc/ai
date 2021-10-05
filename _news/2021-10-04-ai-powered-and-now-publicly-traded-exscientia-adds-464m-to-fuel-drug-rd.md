@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "BRIEF-Exscientia Announces Pricing Of $304.7 Million Upsized Initial Public Offering And $160.0 Million Concurrent Private Placements"
+    excerpt: "Sept 30 (Reuters) - Exscientia PLC: * EXSCIENTIA ANNOUNCES PRICING OF $304.7 ... ITS UPSIZED INITIAL PUBLIC OFFERING OF 13,850,000 ADSS REPRESENTING 13,850,000 ORDINARY SHARES AT AN IPO PRICE ..."
+    publishedDateTime: 2021-10-01T01:57:00Z
+    webUrl: "https://www.thepharmaletter.com/article/exscientia-prices-304-7-million-upsized-ipo"
+    type: article
+    provider:
+      name: thepharmaletter.com/article/exscientia-prices-304-7-million-upsized-ipo
+      domain: thepharmaletter.com/article/exscientia-prices-304-7-million-upsized-ipo
+    quality: 71
   - title: "Startup of the Week: Exscientia"
     excerpt: "Our Startup of the Week for this week is Exscientia, a pioneer in automating drug design and discovery. Visit this page to find out more."
     publishedDateTime: 2021-10-04T10:40:00Z

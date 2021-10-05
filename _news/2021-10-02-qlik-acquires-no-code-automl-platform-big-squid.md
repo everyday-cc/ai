@@ -41,19 +41,19 @@ related:
         width: 540
         height: 370
         isCached: true
-  - title: "Qlik acquires ML specialist Big Squid"
-    excerpt: "Data analytics and integration software vendor Qlik Technologies has acquired Big Squid, a developer of automated machine learning technology, in a move that expands Qlik’s augmented analytics capabilities and builds on its “active intelligence” initiative."
-    publishedDateTime: 2021-09-30T19:28:00Z
-    webUrl: "https://www.crn.com.au/news/qlik-acquires-ml-specialist-big-squid-570648"
+  - title: "Data Analytics, Artificial Intelligence Lower Hospital Infections"
+    excerpt: "By switching to a data analytics and AI-powered hygiene monitoring system, Novant Health decreased its number of hospital-acquired infections."
+    publishedDateTime: 2021-10-05T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/data-analytics-artificial-intelligence-lower-hospital-infections"
     type: article
     provider:
-      name: CRN Australia
-      domain: crn.com.au
+      name: Analytics
+      domain: healthitanalytics.com
     quality: 39
     images:
-      - url: "https://i.nextmedia.com.au/News/iStock-1205639324.jpg"
-        width: 1401
-        height: 900
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Code_data.jpg"
+        width: 690
+        height: 400
         isCached: true
   - title: "How Reliable AI is in Patent Analytics?"
     excerpt: "We recently conducted a study of innovation and found that the average patents filed in a year have gone up +1800% since 2012. The speed of innovation has gone up by multi-folds, so the researchers and strategists need faster hands or technologies to provide quick yet reliable insights."
