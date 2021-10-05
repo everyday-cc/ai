@@ -43,20 +43,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "Lidar, a key sensor for self-driving vehicles"
-    excerpt: "I’m pleased to invite you to join us on October 28th at the PhotonicsNXT Fall Summit keynote presentation where we will explain how lidar is becoming a key sensor for automated driving."
-    publishedDateTime: 2021-09-30T15:17:00Z
-    webUrl: "https://www.laserfocusworld.com/blogs/article/14211352/lidar-a-key-sensor-for-selfdriving-vehicles"
-    type: article
-    provider:
-      name: laserfocusworld.com
-      domain: laserfocusworld.com
-    quality: 24
-    images:
-      - url: "https://img.laserfocusworld.com/files/base/ebm/lfw/image/2021/09/2105LFW_LPMS_supp_9a.6155d1ff5be17.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "KZb6j3z0i9MqnNOe0AIWgfdXf1Ua5F9nRt2YM9vLqoa4cqVc9LlGsSEEruIUeHL6bdPoZt5DRCVRs1BlKgmopNJrsbUHrxWOQYVQP1xISksMFAziy6KZPRDEi4oOPUKYTZyjAchvNCojQa20Mc1zPQPPSUKjwwdl3QxNg5jKl16A9cPEPEB0drbhsS7pkuR+WnWweZKGLIFbVldNZGu7SLSzZ1TRGw70A4VMDx6qbBAZgpt3+CAEwdgq4nBrEbk3hg/i7jdL+QV3SMy+T/yrjSJSUlg/F4Tp6BQZOEP3UzAA1EYq0ocoFyFYlVjOUI2CL9iLVy4+ho21unEOcm5wCkpyAM33Beu3G5ICnUH40thS2XnZjBbtjav5WwFKASJCEbJtfqU1dzGL24ja/i+6oh7S8YxLVK2Ykirqh615jbB66vD+v19HPNTFCwSzNBftXbw9Ca94FLD3DKjPztUq9Py3zdMXubFn4UoSJ36514NAJEgb3GR5wKGsC0U9e7xKcgmxVMj3C4jZBOlFaSOCKA==;aDoviM7ri8rtXFtpHfDyRg=="
 ---

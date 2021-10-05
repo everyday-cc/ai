@@ -2,6 +2,93 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-05-robot-vs-robot-paypal-taps-aiml-in-battle-against-fraudsters-chargebacks-and-passwords.md",
+      "title": "Robot vs. Robot: PayPal Taps AI/ML in Battle Against Fraudsters, Chargebacks and Passwords",
+      "excerpt": "Arthi Rajan Makhija of PayPal discusses how to stay ahead and win the artificial intelligence-machine learning arms race against increasingly well-armed opponents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/security-and-risk/2021/paypal-taps-artificial-intelligence-machine-learning-battle-against-fraudsters-chargebacks-passwords/",
+      "originalUrl": "https://www.pymnts.com/news/security-and-risk/2021/paypal-taps-artificial-intelligence-machine-learning-battle-against-fraudsters-chargebacks-passwords/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/10/Fireside-Chat-with-Arthi-Rajan-Makhija-457x208.png",
+          "width": 457,
+          "height": 208,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/security-and-risk/2021/paypal-taps-artificial-intelligence-machine-learning-battle-against-fraudsters-chargebacks-passwords/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2021/paypal-taps-artificial-intelligence-machine-learning-battle-against-fraudsters-chargebacks-passwords/amp/",
+      "publishedDateTime": "2021-10-05T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-want-to-join-the-tesla-full-self-driving-beta-youll-have-to-prove-youre-a-good-driver-first.md",
+      "title": "Want To Join The Tesla Full Self Driving Beta? You’ll Have To Prove You’re A Good Driver First",
+      "excerpt": "Advertisement If you’re willing to risk your life for the self-driving gimmick, here’s what you can do to join Tesla’s FSD beta… According to InsideEVs, Tesla is finally releasing its Full Self Driving (FSD) Beta button.",
+      "sourceUrl": null,
+      "webUrl": "https://wonderfulengineering.com/want-to-join-the-tesla-full-self-driving-beta-youll-have-to-prove-youre-a-good-driver-first/",
+      "originalUrl": "https://wonderfulengineering.com/want-to-join-the-tesla-full-self-driving-beta-youll-have-to-prove-youre-a-good-driver-first/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/10/0_1lQIq4qEfeHQLgMm.jpg",
+          "width": 1004,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wonderfulengineering.com/want-to-join-the-tesla-full-self-driving-beta-youll-have-to-prove-youre-a-good-driver-first/amp/",
+      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/want-to-join-the-tesla-full-self-driving-beta-youll-have-to-prove-youre-a-good-driver-first/amp/",
+      "publishedDateTime": "2021-10-05T00:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wonderful Engineering",
+        "domain": "wonderfulengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-continental-and-horizon-robotics-jv-accelerates-commercialisation-ai-technology.md",
       "title": "Continental and Horizon Robotics JV accelerates commercialisation AI technology",
       "excerpt": "Technology company Continental, and one of the global leaders in edge Artificial Intelligence (AI) computing platforms Horizon Robotics signed a Joint Venture (JV) contract, focusing on providing hardware and software integrated solutions for Advanced Driver Assistance Systems and automated driving.",
@@ -44,7 +131,7 @@
       "originalUrl": "https://www.purdueexponent.org/campus/article_cbf32164-2584-11ec-807a-3fedbb2144b3.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -224,7 +311,7 @@
       "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-driven-meeting-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -876,7 +963,7 @@
       "originalUrl": "https://in.mashable.com/science/25102/googles-deepmind-ai-has-just-reduced-conventional-weather-forecasting-to-dust",
       "featuredContent": null,
       "highlight": null,
-      "heat": 180,
+      "heat": 170,
       "tags": null,
       "images": [
         {
@@ -1065,101 +1152,6 @@
         "Natural Language Processing",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-bengalurus-ksr-station-gets-facial-recognition-system.md",
-      "title": "Bengaluru's KSR station gets facial recognition system",
-      "excerpt": "BENGALURU : A digital cordon envelops the Krantivira Sangolli Rayanna (Bengaluru City) railway station as it has become the first railway station in the country to adopt the Facial Recognition System (FRS) technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/states/karnataka/2021/oct/04/bengalurus-ksr-station-gets-facial-recognition-system-2367253.html",
-      "originalUrl": "https://www.newindianexpress.com/states/karnataka/2021/oct/04/bengalurus-ksr-station-gets-facial-recognition-system-2367253.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/10/4/w600X390/KSR_stn_gets-.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/states/karnataka/2021/oct/04/bengalurus-ksr-station-gets-facial-recognition-system-2367253.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/karnataka/2021/oct/04/bengalurus-ksr-station-gets-facial-recognition-system-2367253.amp",
-      "publishedDateTime": "2021-10-03T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-designs-dirty-secrets-and-how-to-address-experience-bias.md",
-      "title": "Design’s dirty secrets and how to address experience bias",
-      "excerpt": "If the solution to experience bias is variation in front-end design based on the needs of the individual, one way we can radically accelerate that is to understand where automation can be applied.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/03/designs-dirty-secrets-and-how-to-address-experience-bias/",
-      "originalUrl": "https://techcrunch.com/2021/10/03/designs-dirty-secrets-and-how-to-address-experience-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1297927894.jpg?w=1024",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/03/designs-dirty-secrets-and-how-to-address-experience-bias/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/03/designs-dirty-secrets-and-how-to-address-experience-bias/amp/",
-      "publishedDateTime": "2021-10-03T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

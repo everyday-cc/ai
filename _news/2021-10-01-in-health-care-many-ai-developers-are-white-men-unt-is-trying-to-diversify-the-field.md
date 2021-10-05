@@ -43,6 +43,22 @@ related:
         width: 750
         height: 400
         isCached: true
+  - title: "Is Hospital at Home the Future of Healthcare?"
+    excerpt: "Traditional healthcare organizations have a role to play in home healthcare, with remote patient monitoring devices, data integration and artificial intelligence supporting virtual care platform efforts."
+    publishedDateTime: 2021-10-01T17:15:00Z
+    webUrl: "https://healthtechmagazine.net/article/2021/10/hospital-home-future-healthcare"
+    ampWebUrl: "https://healthtechmagazine.net/article/2021/10/hospital-home-future-healthcare?amp"
+    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2021/10/hospital-home-future-healthcare?amp"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 59
+    images:
+      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202110/hospital%20at%20home.jpg?itok=Iw8VzoH8"
+        width: 1440
+        height: 500
+        isCached: true
   - title: "Demystifying the Complexity of Enterprise AI Deployment"
     excerpt: "We’re sitting on the cusp of artificial intelligence (AI) innovation. Consulting organizations like McKinsey and PwC claim that AI is a multi-trillion dollar business opportunity."
     publishedDateTime: 2021-10-02T16:49:00Z

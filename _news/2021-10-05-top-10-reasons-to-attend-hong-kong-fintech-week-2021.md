@@ -7,7 +7,7 @@ originalUrl: "https://fintechnews.sg/55816/events/top-10-reasons-to-attend-hong-
 webUrl: "https://fintechnews.sg/55816/events/top-10-reasons-to-attend-hong-kong-fintech-week-2021/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 2048
     height: 1136
     isCached: true
+
+related:
+  - title: "Live Event: 3 reasons why APIs are transforming fintech"
+    excerpt: "With startup funding for fintechs in overdrive, APIs are driving forward the industry. Join FinTech & InsurTech Live on October 12-14 to find out more"
+    publishedDateTime: 2021-10-05T09:53:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/live-event-3-reasons-why-apis-are-transforming-fintech"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1298692193.jpg.png?itok=ot0Y-ibm"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "cbKoXuvbwxJaAtyne+TZA5twGhhPVVcnsAQE98ufc77xt9gONDo7lh6AWYplau2kO673QVWEogOm4E0DP3qZQaU8oOUcA7ZlFOi6vmbUFM0zPA3n+DEWv8Udgo3mW3b8qRHKChkkaVxyHXi5PamTWQmtT5rwTMD7Lmw+cS38rx4aFDEZ8IHMGDjvaVHOZWa+t/zgqfcMOTQY/V4ZFbk2GWUDiPhIQPanWd1q5MqVhYWWWucR2wdSoiDzfh1NP90cVzRKEf0D68ODV3Tr/l4vzM0YjS7LoeuP14REcOF6yZwJAwFiXlVW6uQHh4Zk3v/D4t5Oar4TYxB9AcRfwP0sop6sjLZuelktIGBbV7g3P2M=;VlMVL5kS2378CkzTMcYxNw=="
 ---

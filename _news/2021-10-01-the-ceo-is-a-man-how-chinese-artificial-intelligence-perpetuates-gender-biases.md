@@ -9,7 +9,7 @@ ampWebUrl: "https://www.asiaone.com/china/ceo-man-how-chinese-artificial-intelli
 cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/china/ceo-man-how-chinese-artificial-intelligence-perpetuates-gender-biases?amp"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 763
     height: 509
     isCached: true
-
-related:
-  - title: "Continental inks deal with Chinese AI startup"
-    excerpt: "German supplier Continental AG signed an agreement Wednesday with Chinese artificial intelligence startup Horizon Robotics to establish a joint venture in Shanghai to apply technology to smart vehicles."
-    publishedDateTime: 2021-09-30T16:21:00Z
-    webUrl: "https://www.autonews.com/china/continental-inks-deal-chinese-ai-startup"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/preview_20210929-continental_pp_artificial_driver_highway_a820e9681b.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "85Cpw5YJl8s6+JFIty4canIQaAloxOANwiapdKPMcwiLqtNluKLYSeoOspq7IYKPP/mhIzsR0I80R9y3ERafLC8NuTNLo9DVNfyzo8waCd4886WoCiK1KcTW2DM3GdoLIfknBJ+IKV7T3Jb3QXj/I38inR49Xuq21J/WcqAf9H7s38U3BqDO6Q6bbLetcaFTu37u9gydILsuCymVgaqBeCKMql8qkWzqpZEmAReJXmXLds4SZNEc4cKLHB7LTtL+qxap4aTeTLorQtR7sSgD1qmiDOuWKz4xCbS80vhtw4KiTGYtFdi0JyaRzWSPi2rtNVAyNdTGD5zkbl+Pkd+j7oJCGAvAY1HXm7q9TE9I3II=;EO3/eo7NPYo8U515EgK7Aw=="
 ---

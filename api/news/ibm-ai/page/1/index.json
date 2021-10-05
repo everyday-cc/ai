@@ -55,6 +55,40 @@
       ]
     },
     {
+      "path": "_news/2021-09-29-five9-wins-best-application-of-ai-award-at-enterprise-connect.md",
+      "title": "Five9 Wins Best Application of AI Award at Enterprise Connect",
+      "excerpt": "28. Five9 Inference Studio enables companies to build conversational experiences by harnessing and extending the power of the most advanced AI technologies, including Google, Amazon, IBM Watson, and more. Its Task Library offers many pre-built IVA ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2021/09/28/five9-wins-best-application-of-ai-award-at-enterprise-connect",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2021/09/28/five9-wins-best-application-of-ai-award-at-enterprise-connect",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-ibm-and-linux-foundation-ai-and-data-announce-machine-learning-exchange.md",
       "title": "IBM and Linux Foundation AI and Data announce Machine Learning eXchange",
       "excerpt": "IBM and Linux Foundation AI (LFAI) launched Machine Learning eXchange (MLX) as a one stop shop for trusted data and AI artifacts.",
@@ -326,10 +360,10 @@
     {
       "path": "_news/2021-09-21-ibm-and-airspan-networks-plan-to-work-to-accelerate-5g-enabled-open-ran-adoption-in-europe.md",
       "title": "IBM and Airspan Networks Plan to Work to Accelerate 5G-enabled Open RAN Adoption in Europe",
-      "excerpt": "IBM is expected to provide its Global Business Services technology integration services, as well as IBM Cloud Pak for Network Automation and IBM Cloud Pak for Watson AIOps, to allow customers to ...",
+      "excerpt": "Via IBM and Airspan’s planned testbed in Germany and France, European telco customers would have ability to trial edge applications and network slicing over long distances using 5G-enabled Open RAN The goal of developing this testbed is to help clients across Europe innovate and develop multi-vendor solutions designed to address different customer use case requirements,",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210920005972/ibm-and-airspan-networks-plan-to-work-to-accelerate-5g-enabled-open-ran-adoption-in-europe",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210920005972/ibm-and-airspan-networks-plan-to-work-to-accelerate-5g-enabled-open-ran-adoption-in-europe",
+      "webUrl": "https://www.pressreleasepoint.com/ibm-and-airspan-networks-plan-work-accelerate-5g-enabled-open-ran-adoption-europe",
+      "originalUrl": "https://www.pressreleasepoint.com/ibm-and-airspan-networks-plan-work-accelerate-5g-enabled-open-ran-adoption-europe",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -339,11 +373,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-20T23:44:00-07:00",
+      "publishedDateTime": "2021-09-21T04:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
+        "name": "KLAS Press Release",
+        "domain": "pressreleasepoint.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1263,49 +1297,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates.md",
-      "title": "IBM Watson Assistant aims to expand contact center footprint with AI, automation updates",
-      "excerpt": "What is AI? Here's everything you need to know about artificial intelligence IBM also said that Watson Assistant can connect with most contact center platforms without code in as little as an hour.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates/",
-      "publishedDateTime": "2021-09-09T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

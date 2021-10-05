@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-09-ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates.md",
+      "title": "IBM Watson Assistant aims to expand contact center footprint with AI, automation updates",
+      "excerpt": "What is AI? Here's everything you need to know about artificial intelligence IBM also said that Watson Assistant can connect with most contact center platforms without code in as little as an hour.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates/",
+      "publishedDateTime": "2021-09-09T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service.md",
       "title": "IBM Watson Launches New AI and Automation Features to Help Businesses Transform Customer Service",
       "excerpt": "today announced the launch of new AI and automation capabilities in IBM Watson Assistant designed to make it easier for businesses to create enhanced customer service experiences across any ...",
@@ -1318,50 +1361,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-ai-use-cases-are-expanding-and-evolving-in-healthcare.md",
-      "title": "AI use cases are expanding and evolving in healthcare",
-      "excerpt": "The world is increasingly seeing tangible impacts of AI across various industries, including healthcare.  Using AI, healthcare providers can analyze and",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/",
-      "originalUrl": "https://techwireasia.com/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/07/editedGettyImages-1035331882-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/",
-      "publishedDateTime": "2021-07-29T19:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

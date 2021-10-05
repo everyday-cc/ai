@@ -66,6 +66,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "In Russia, 6 centers will become reference points for the development of artificial intelligence"
+    excerpt: "The working group selected applications for grants up to 1 billion rubles. within the framework of the federal project \"Artificial Intelligence\". The total amount of funds, taking into account extra-budgetary financing,"
+    publishedDateTime: 2021-10-05T07:57:00Z
+    webUrl: "https://www.akm.ru/eng/news/in-russia-6-centers-will-become-reference-points-for-the-development-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: akm.ru
+      domain: www.akm.ru
+    quality: 24
+    images:
+      - url: "https://www.akm.ru/upload/iblock/b3d/TSifrovizatsiya_tsifra_tsifrovoy_dvoynik_pixabay_.jpg"
+        width: 691
+        height: 480
+        isCached: true
 
 secured: "gjPkaojWvN8R5jD53JZr2GmnQdm4VIbdPuGYVFYQIaSFSYygjjd9GGrWKFk17z8p/hoV9QeeSAFFWDfUibD2NA9Gc1n1w/soliLTe1KKdR7ITtJRUZVhJaFcTgmYemiaz70dEwT/GRuc9xReE4p+bWGx7nCiZl9nXysX7v90x+ixRpxE5EqDhPgT5VTKuyTYiGVfsPfWSG2tZwx9cKEeLgEzEfvGeYw+PIZm523BzVQsbWQwrLi+VzxpzBCXlSHkC31WoCpG2H6WW0/aDvL191sF2FVJUtzXYCtNm3tLqGRr2yW9UXZpEXcuXFzwIDSoa+k/v4EAO9qS6K/7Iohj8mmkP+R2mj1bKmJ73n2yTvdmu2suYYDXgVckZVclHAtbp93ETECbOgL1mSv/z4P0IQgOQAiL+aKF2Z+063DRv7DfbsEOb/4/mOMeIA8tPt/mtWjotP8VQEA3bFRXDcG9fmhYAsqbu+9+5ya1jxOr/WQKjmYl0BBjVRjayVTLkKHIGcUJhMUN8bTeaNARE4HI+Q==;pUytZzdacHF6BvJOESECeQ=="
 ---

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-05-robot-vs-robot-paypal-taps-aiml-in-battle-against-fraudsters-chargebacks-and-passwords.md",
+      "title": "Robot vs. Robot: PayPal Taps AI/ML in Battle Against Fraudsters, Chargebacks and Passwords",
+      "excerpt": "Arthi Rajan Makhija of PayPal discusses how to stay ahead and win the artificial intelligence-machine learning arms race against increasingly well-armed opponents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/security-and-risk/2021/paypal-taps-artificial-intelligence-machine-learning-battle-against-fraudsters-chargebacks-passwords/",
+      "originalUrl": "https://www.pymnts.com/news/security-and-risk/2021/paypal-taps-artificial-intelligence-machine-learning-battle-against-fraudsters-chargebacks-passwords/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/10/Fireside-Chat-with-Arthi-Rajan-Makhija-457x208.png",
+          "width": 457,
+          "height": 208,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/security-and-risk/2021/paypal-taps-artificial-intelligence-machine-learning-battle-against-fraudsters-chargebacks-passwords/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2021/paypal-taps-artificial-intelligence-machine-learning-battle-against-fraudsters-chargebacks-passwords/amp/",
+      "publishedDateTime": "2021-10-05T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-continental-and-horizon-robotics-jv-accelerates-commercialisation-ai-technology.md",
       "title": "Continental and Horizon Robotics JV accelerates commercialisation AI technology",
       "excerpt": "Technology company Continental, and one of the global leaders in edge Artificial Intelligence (AI) computing platforms Horizon Robotics signed a Joint Venture (JV) contract, focusing on providing hardware and software integrated solutions for Advanced Driver Assistance Systems and automated driving.",
@@ -304,6 +348,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-03-worse-than-nukes-an-autonomous-robot-may-have-already-killed-people.md",
+      "title": "Worse than nukes? An autonomous robot may have already killed people",
+      "excerpt": "Autonomous weapons will undermine humanity’s final stopgap against war crimes and atrocities: the international laws of war.",
+      "sourceUrl": null,
+      "webUrl": "https://scroll.in/article/1006658/worse-than-nukes-an-autonomous-robot-may-have-already-killed-people",
+      "originalUrl": "https://scroll.in/article/1006658/worse-than-nukes-an-autonomous-robot-may-have-already-killed-people",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s01.sgp1.cdn.digitaloceanspaces.com/book/164618-kybyqusbld-1633010600.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scroll.in/article/1006658/worse-than-nukes-an-autonomous-robot-may-have-already-killed-people",
+      "cdnAmpWebUrl": "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1006658/worse-than-nukes-an-autonomous-robot-may-have-already-killed-people",
+      "publishedDateTime": "2021-10-02T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scroll",
+        "domain": "scroll.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-02-amazon-home-security-robots-inside-drones-outside-cameras-all-around.md",
       "title": "Amazon & home security: Robots inside, drones outside, cameras all around",
       "excerpt": "Amazon's vision for the future of home security includes drones flying over your roof, outdoor cameras that monitor for possible trespassers and cute robots patrolling indoors. Here's a look",
@@ -506,7 +593,7 @@
       "originalUrl": "https://newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1303,111 +1390,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-beyond-the-robot-butler-ai-and-customer-experience-have-more-in-common-than-you-may-think.md",
-      "title": "Beyond The ‘Robot Butler,’ AI And Customer Experience Have More In Common Than You May Think",
-      "excerpt": "I hosted a panel called “Driving value through customer experience” with Meenakshi Nagarajan, SVP for Recurring Revenue and Loyalty at Panera Bread, and Kapil Gupta, Head of Data Science and Trust at Airbnb.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/arunshastri/2021/09/27/beyond-the-robot-butler-ai-and-customer-experience-have-more-in-common-than-you-may-think/",
-      "originalUrl": "https://www.forbes.com/sites/arunshastri/2021/09/27/beyond-the-robot-butler-ai-and-customer-experience-have-more-in-common-than-you-may-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6152431d1941c61b5e7a70e3%2F0x0.jpg",
-          "width": 1200,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/arunshastri/2021/09/27/beyond-the-robot-butler-ai-and-customer-experience-have-more-in-common-than-you-may-think/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2021/09/27/beyond-the-robot-butler-ai-and-customer-experience-have-more-in-common-than-you-may-think/amp/",
-      "publishedDateTime": "2021-09-27T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-are-ai-and-robotics-good-investments.md",
-      "title": "Are AI and Robotics Good Investments?",
-      "excerpt": "It is expected that the robotics market will grow by over $150 billion US dollars by 2025, and that is not only down to growth in commercial use, but it is also anticipated that robotics will become a more integral part of our everyday lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/ai-robotics-good-investments-james-sanders",
-      "originalUrl": "https://www.linkedin.com/pulse/ai-robotics-good-investments-james-sanders",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQH77ghKDP70-w/article-cover_image-shrink_600_2000/0/1632755863578?e=1638403200&v=beta&t=A58t5OOMkAvh-TmlkABJ27muW8H8czOLBQc8y627e_s",
-          "width": 739,
-          "height": 489,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

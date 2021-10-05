@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bahrainthisweek.com/bahrain-based-regional-data-center-a
 cdnAmpWebUrl: "https://www-bahrainthisweek-com.cdn.ampproject.org/c/s/www.bahrainthisweek.com/bahrain-based-regional-data-center-announced-at-seamless-me-fintech-conference-and-expo/?amp"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: bahrainthisweek.com
@@ -41,15 +41,6 @@ related:
         width: 401
         height: 401
         isCached: true
-  - title: "Bahrain-based Regional Data Centre announced at Seamless ME FinTech Conference and Expo"
-    excerpt: "Chief Executive, Mohammed Ali Al Qaed led the Bahrain delegation participating in the Seamless Middle East Conference and Expo, held under the patronage of UAE Deputy Prime Minister and Minister of Interior,"
-    publishedDateTime: 2021-09-30T16:03:00Z
-    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDhg0pfzNiEyggWMjhEd%2b1fE%3d"
-    type: article
-    provider:
-      name: bna.bh
-      domain: www.bna.bh
-    quality: 11
 
 secured: "Pi0Y8AlufMrJ5DYnRygARKLEOMaKkfJdxJeAOXxSwZRUyPrvOqn9F18VveNdje0PVIebtoJP4ReYKvUQYcCjafT25inHeJklgty0MVDbZBXY06sU3CHusg0P+xGJVOxOH/jOSlSSOHriL+dwhHvST0DSSHpipcM51DncDpnA+tJY5pS4E1NuSVL/RFg45sJaZWsj0xkkQy6AaC8fUfZK48uAyUbjwJ4uBQf3yCpRC3v4v/wzgy9+cv+RMVpq8Yf9qdUXkwhLuzzTljVvFFVYwnPOCRpSZh/mzswgdTtRDU8WMNbJRMq5e/LhcFsrY9RM6HvO/DXEaaTBpLiFJ0/617fMGu7F1cOOMAWtBAcls7U=;sz9tD+ar5NH5ZOXQa1g+hA=="
 ---

@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Tesla’s full self-driving mode is actually not fully self-driving"
-    excerpt: "The capability is marketed as a way to take your hands off the wheel, but some experts, including Alistair Weaver of Edmunds, say the technology isn't ready."
-    publishedDateTime: 2021-09-30T16:17:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving/"
-    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving?amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving?amp"
+  - title: "Want To Join The Tesla Full Self Driving Beta? You’ll Have To Prove You’re A Good Driver First"
+    excerpt: "Advertisement If you’re willing to risk your life for the self-driving gimmick, here’s what you can do to join Tesla’s FSD beta… According to InsideEVs, Tesla is finally releasing its Full Self Driving (FSD) Beta button."
+    publishedDateTime: 2021-10-05T07:56:00Z
+    webUrl: "https://wonderfulengineering.com/want-to-join-the-tesla-full-self-driving-beta-youll-have-to-prove-youre-a-good-driver-first/"
+    ampWebUrl: "https://wonderfulengineering.com/want-to-join-the-tesla-full-self-driving-beta-youll-have-to-prove-youre-a-good-driver-first/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/want-to-join-the-tesla-full-self-driving-beta-youll-have-to-prove-youre-a-good-driver-first/amp/"
     type: article
     provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 59
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 62
     images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2021/09/GettyImages-490598518.jpg?fit=740%2C416"
-        width: 740
-        height: 416
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/10/0_1lQIq4qEfeHQLgMm.jpg"
+        width: 1004
+        height: 555
         isCached: true
   - title: "Will Elon Musk’s “Self-Driving” Software Make Your Tesla a Death-Mobile?"
     excerpt: "Tesla Inc. (NASDAQ: TSLA) announced its beta test version of its “Full Self-Driving Capability” software would now be available to select owners. The system is touted as Tesla's most advanced ever, and promises to expand its Autopilot’s capabilities to work on city streets and offer the ability to navigate the vehicle turn by turn,"

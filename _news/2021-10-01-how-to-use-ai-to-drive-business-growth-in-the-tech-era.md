@@ -56,6 +56,22 @@ related:
         width: 350
         height: 450
         isCached: true
+  - title: "North Korea develops translator using AI technology: propaganda website"
+    excerpt: "North Korea has developed an artificial intelligence-based translation program with enhanced speed and accuracy, a propaganda outlet reported Sunday. DPRK Today, a propaganda website, carried a report introducing the research result of the AI institute of Kim Il-sung University on the creation and introduction of Ryongma,"
+    publishedDateTime: 2021-10-03T01:09:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/nation/2021/10/103_316380.html?fl"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316380"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316380"
+    type: article
+    provider:
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 59
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202110/fb09af58482c4d07b89adfed4afbf0af.jpg"
+        width: 980
+        height: 607
+        isCached: true
   - title: "Valley teen's AI-driven wildfire prevention system turning heads"
     excerpt: "Basically, what the system does is it detects hot spots which are areas where wildfires can start,” said Prisha. The system she designed uses real-time NASA and NOAA Meteorological data and predicts if an area’s conditions are ripe for disaster."
     publishedDateTime: 2021-10-01T20:56:00Z

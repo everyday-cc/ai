@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.scroll.in/article/1006658/worse-than-nukes-an-autonomous
 cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1006658/worse-than-nukes-an-autonomous-robot-may-have-already-killed-people"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Scroll
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Could Autonomous Robots Be More Dangerous than Nukes?"
-    excerpt: "Without established regulations and prohibitions on autonomous weapons, they could pose a great danger and possibly destabilize current nuclear strategies."
-    publishedDateTime: 2021-09-30T15:04:00Z
-    webUrl: "https://interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes"
-    ampWebUrl: "https://amp.interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes"
+  - title: "An Autonomous Robot May Have Already Killed Humans"
+    excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
+    publishedDateTime: 2021-10-01T05:00:00Z
+    webUrl: "https://nationalinterest.org/blog/reboot/autonomous-robot-may-have-already-killed-humans-194638"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 59
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 39
     images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/3oOpl2P5OW/sizes/could-autonomous-robots-be-more-dangerous-than-nukes_resize_md.jpg"
-        width: 744
-        height: 419
+      - url: "https://nationalinterest.org/sites/default/files/main_images/Autonomous%20Robot.jpg"
+        width: 1222
+        height: 812
         isCached: true
   - title: "Are these the first killer robots – and why are they more dangerous than nukes?"
     excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United"
@@ -57,6 +55,15 @@ related:
         width: 754
         height: 502
         isCached: true
+  - title: "An autonomous robot may have already killed people"
+    excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
+    publishedDateTime: 2021-10-02T21:16:00Z
+    webUrl: "https://japantoday.com/category/features/opinions/An-autonomous-robot-may-have-already-killed-people"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 19
 
 secured: "JB75qZGQAHpEeeCABzf0GG0diDz0UbRHTlTPhRZuTHWi/ICC7MB0LzeTb6BzYALc0e1mU7JlANcuEAzjuTk6le+Ja1BrHsX72ec5s9zczEvzkPm6SLowzRZvNVNvs1CnPmkoVea/SBxiCEr9fRxUmRPyx9Q3mHOIbSKoMI+SMqAiCt/R/IX0irMNcKt7hnFTA/N1ZXoYLMY3yQsa8QZPRT94JdEmhtt/HtwVanOwSPbZTaJYdI9LM4UxMbSXn0nLOmP1egOYj/xnI4l3rRgbj7KvROXMz6OV/RHZT/RcMgbv4OWhdAh50cn093EhvWoAthBXroUuqZJWnHDbkAdDt17X0OlZhwt181qnR7G6J5o=;8hzbHyYkGQ4qMyrLAbG9WQ=="
 ---

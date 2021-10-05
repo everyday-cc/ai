@@ -2,6 +2,153 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-09-29-deepmind-claims-its-ai-weather-forecasting-model-beats-conventional-models.md",
+      "title": "DeepMind claims its AI weather forecasting model beats conventional models",
+      "excerpt": "Alphabet's DeepMind claims that its short-term, AI-powered weather forecasting model is more accurate than competing methods.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/29/deepmind-claims-its-ai-weather-forecasting-model-beats-conventional-models/",
+      "originalUrl": "https://venturebeat.com/2021/09/29/deepmind-claims-its-ai-weather-forecasting-model-beats-conventional-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-520682906-e1619014289419.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/29/deepmind-claims-its-ai-weather-forecasting-model-beats-conventional-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/deepmind-claims-its-ai-weather-forecasting-model-beats-conventional-models/amp/",
+      "publishedDateTime": "2021-09-29T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-ai-powered-tool-to-predict-cardiac-risk-in-indians-more-accurately.md",
+      "title": "AI-Powered Tool To Predict Cardiac Risk In Indians More Accurately",
+      "excerpt": "An Artificial Intelligence-powered tool to more accurately predict heart disease risk among Indians and recommend modifiable changes to prevent heart attacks has been launched by Apollo Hospitals in partnership with Microsoft.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/india-news/ai-powered-tool-to-predict-cardiac-risk-in-indians-more-accurately-2558126",
+      "originalUrl": "https://www.ndtv.com/india-news/ai-powered-tool-to-predict-cardiac-risk-in-indians-more-accurately-2558126",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2021-09/8c9s1ge_heart-risk_625x300_29_September_21.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/india-news/ai-powered-tool-to-predict-cardiac-risk-in-indians-more-accurately-2558126?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/ai-powered-tool-to-predict-cardiac-risk-in-indians-more-accurately-2558126?amp=1&akamai-rum=off",
+      "publishedDateTime": "2021-09-29T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-can-ai-help-create-better-performing-landing-pages.md",
+      "title": "Can AI Help Create Better Performing Landing Pages?",
+      "excerpt": "It now seems impossible to find a marketing challenge where AI isn’t touted or at least considered as a solution. Some tasks clearly lend themselves better to the elixirs of AI than others. One of these may be the optimization of landing pages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paultalbot/2021/09/29/can-ai-help-create-better-performing-landing-pages/",
+      "originalUrl": "https://www.forbes.com/sites/paultalbot/2021/09/29/can-ai-help-create-better-performing-landing-pages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615472b6a9467bdcef235414%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultalbot/2021/09/29/can-ai-help-create-better-performing-landing-pages/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultalbot/2021/09/29/can-ai-help-create-better-performing-landing-pages/amp/",
+      "publishedDateTime": "2021-09-29T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-ai-powered-document-processing-platform-zuva-raises-20m.md",
       "title": "AI-powered document processing platform Zuva raises $20M",
       "excerpt": "Zuva, an AI-powered document processing platform, today announced that it closed a $20 million series A funding round led by New York-based Insight Partners. The company says that",
@@ -917,6 +1064,40 @@
       ]
     },
     {
+      "path": "_news/2021-09-29-five9-wins-best-application-of-ai-award-at-enterprise-connect.md",
+      "title": "Five9 Wins Best Application of AI Award at Enterprise Connect",
+      "excerpt": "28. Five9 Inference Studio enables companies to build conversational experiences by harnessing and extending the power of the most advanced AI technologies, including Google, Amazon, IBM Watson, and more. Its Task Library offers many pre-built IVA ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2021/09/28/five9-wins-best-application-of-ai-award-at-enterprise-connect",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2021/09/28/five9-wins-best-application-of-ai-award-at-enterprise-connect",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-amazon-astro-could-be-the-robot-weve-been-waiting-for.md",
       "title": "Amazon Astro could be the robot we've been waiting for",
       "excerpt": "Inspired by science fiction, cute as a button, capable and smart -- Amazon's $1,000 home robot Astro is here to help.",
@@ -1016,195 +1197,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-ai-powered-contract-management-platform-malbek-lands-153m.md",
-      "title": "AI-powered contract management platform Malbek lands $15.3M",
-      "excerpt": "Malbek, an AI contract lifecycle management startup based Somerset, New Jersey, has raised $15.3 million in a venture round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/28/ai-powered-contract-management-platform-malbek-lands-15-3m/",
-      "originalUrl": "https://venturebeat.com/2021/09/28/ai-powered-contract-management-platform-malbek-lands-15-3m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-544306297-e1628772672593.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/28/ai-powered-contract-management-platform-malbek-lands-15-3m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/ai-powered-contract-management-platform-malbek-lands-15-3m/amp/",
-      "publishedDateTime": "2021-09-28T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-heidrick-struggles-partners-with-eightfold-ai-to-develop-new-digital-platform.md",
-      "title": "Heidrick & Struggles Partners With Eightfold AI To Develop New Digital Platform",
-      "excerpt": "Heidrick & Struggles International, Inc. (NASDAQ:HSII) and Eightfold AI, an AI-driven talent development platform, have partnered to develop a new digital leadership platform inte",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/heidrick-struggles-partners-with-eightfold-ai-to-develop-new-digital-platform-1030829003",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/heidrick-struggles-partners-with-eightfold-ai-to-develop-new-digital-platform-1030829003",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/industrial_pic_690.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T12:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-amazons-new-toys-from-999-robot-to-home-security-kids-entertainment-and-much-more.md",
-      "title": "Amazon’s new toys: From $999 robot to home security, kids entertainment and much more",
-      "excerpt": "Amazon shows off a handful of new Amazon-branded products, including an Echo device that hangs on the wall and acts as a digital whiteboard for the home, an interactive video chat portal for kids, and",
-      "sourceUrl": null,
-      "webUrl": "https://www.wraltechwire.com/2021/09/28/amazons-new-toys-from-999-robot-to-home-security-kids-entertainment-and-much-more/",
-      "originalUrl": "https://www.wraltechwire.com/2021/09/28/amazons-new-toys-from-999-robot-to-home-security-kids-entertainment-and-much-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wraltechwire.com/wp-content/uploads/2021/09/amazon-glow-e1632853917387-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wraltechwire.com/2021/09/28/amazons-new-toys-from-999-robot-to-home-security-kids-entertainment-and-much-more/?amp=1",
-      "cdnAmpWebUrl": "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/09/28/amazons-new-toys-from-999-robot-to-home-security-kids-entertainment-and-much-more/?amp=1",
-      "publishedDateTime": "2021-09-28T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-paravision-enhances-video-facial-recognition-with-streaming-container-update.md",
-      "title": "Paravision enhances video facial recognition with Streaming Container update",
-      "excerpt": "The Paravision Streaming Container is fully modular and is designed to be deployed alongside Paravision’s other cloud-ready, Docker container-based products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202109/paravision-enhances-video-facial-recognition-with-streaming-container-update",
-      "originalUrl": "https://www.biometricupdate.com/202109/paravision-enhances-video-facial-recognition-with-streaming-container-update",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg",
-          "width": 2048,
-          "height": 1366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

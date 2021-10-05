@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-08-secureauth-identity-security-solutions-now-available-in-aws-marketplace.md",
+      "title": "SecureAuth Identity Security Solutions Now Available in AWS Marketplace",
+      "excerpt": "SecureAuth, an identity security leader, today announced the availability of the SecureAuth Identity Platform and the SecureAuth Identity Store in AWS Marketplace. AWS Marketplace is a digital catalog with thousands of software listings",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19986009.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19986009.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-08T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-boost-transcription-accuracy-of-class-lectures-with-custom-language-models-for-amazon-transcribe.md",
       "title": "Boost transcription accuracy of class lectures with custom language models for Amazon Transcribe",
       "excerpt": "Many universities like transcribing their recorded class lectures and later creating captions out of these transcriptions. Amazon Transcribe is a fully-managed automatic speech recognition service (ASR) that makes it easy to add speech-to-text capabilities to voice-enabled applications. Transcribe assists",
@@ -1354,58 +1398,6 @@
         "AWS AI",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-the-us-army-is-using-a-controversial-facial-recognition-technology-that-uses-images-from-social-media-to-identify-people-documents-show.md",
-      "title": "The US Army is using a controversial facial-recognition technology that uses images from social media to identify people, documents show",
-      "excerpt": "Clearview claimed the test used the \"same basic methodology\" the ACLU used to test Amazon's Rekognition system in 2018. At one point, Clearview mentioned the results of the report on its public website, but it has since removed all references. \"There's a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/clearview-ai-facial-recognition-us-army-cid-criminal-command-tech-2021-8",
-      "originalUrl": "https://www.businessinsider.com/clearview-ai-facial-recognition-us-army-cid-criminal-command-tech-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/611fbb651c47770019e69273?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -24,22 +24,6 @@ images:
     height: 591
     isCached: true
 
-related:
-  - title: "Biometrics to replace car keys for Genesis vehicle, Cerence voice control deployed by VinFast"
-    excerpt: "Several technology companies have released new biometrics solutions for the automotive sector including Genesis, Cerence, VinFast and Google."
-    publishedDateTime: 2021-09-30T16:24:00Z
-    webUrl: "https://www.biometricupdate.com/202109/biometrics-to-replace-car-keys-for-genesis-vehicle-cerence-voice-control-deployed-by-vinfast"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 13
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/09183337/automotive-biometrics-large-scaled.jpg"
-        width: 2048
-        height: 1366
-        isCached: true
-
 secured: "pLgKd94rcwKzsdzbBmndf8cPlW3CE1FRsVuhIVta0WgK3vcNaNuJJtLFccuv9L5c6GMFz1pNv6wTPNilxn5v6PjnP0uzxQQHqB/hLTx6E9uTPU13UmeGTJ4IAPjSRB6DCGBDLeBmHE3+LQM0KHIp0zVq9/y7ynK52u8dJJ+7Bqsnk1xVC2C5OJRJ9JIao8D4pla63TzPQnREClQ73LpdenKoKMhGTyX/Dc9pXYTMWAqsBl1YlL6l6vlG2aayg0axlJrx+wLIrEbWLHNk/JAY0mill0E4W0xwpA0vOmXO4fAA2gJQ7QIQe39OASGEVBDaArkj6g1gczsvAm261QTYmKWQSpSW4dEWx+v5pjakfsCimvV9sISTFyATzgdYuRV985sGkdR3blicoBXxrmp1CUEIrghKpcgbuwSgCwM2u0Gr3On8TDkdPqPYJJxi1KqQtBYexRSV8X6E+UDZT0KibEMeIZOCkIBEI6JguWI/B1CJ7BozkQrFHKYwLbDsF43ctwdVKpRs8MTMJ/GwIctDgw==;Kqtx6rTguHYwY93KSg7dmQ=="
 ---
 

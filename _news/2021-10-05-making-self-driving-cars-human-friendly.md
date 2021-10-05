@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Making self-driving cars human-friendly"
-excerpt: "Automated vehicles could be made more pedestrian-friendly thanks to new University of Leeds research which could help them predict when people will cross the road. Scientists investigating how to better understand human behaviour in traffic say that neuroscientific theories of how the brain makes decisions can be used in automated vehicle technology to improve safety and make them more human-friendly."
-publishedDateTime: 2021-10-04T23:01:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/930450"
-webUrl: "https://www.eurekalert.org/news-releases/930450"
+excerpt: "Automated vehicles could be made more pedestrian-friendly thanks to new research which could help them predict when people will cross the road."
+publishedDateTime: 2021-10-05T08:07:00Z
+originalUrl: "https://techxplore.com/news/2021-10-self-driving-cars-human-friendly.html"
+webUrl: "https://techxplore.com/news/2021-10-self-driving-cars-human-friendly.html"
+ampWebUrl: "https://techxplore.com/news/2021-10-self-driving-cars-human-friendly.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-self-driving-cars-human-friendly.amp"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/25a5c613-406a-48e8-9eee-63eafff0a504/Rendition/low-res/Content/Public"
-    width: 700
-    height: 466
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/making-self-driving-ca-1.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -56,6 +58,6 @@ related:
         height: 743
         isCached: true
 
-secured: "nJ7YTvyikFk7n3yhDNRO5PrLnPfCpVyvmtMDO36FFMeLnMEKffzfcRsqRJg4hQ+KL33AbO9lKFAJSqT/oe0V24fgPvezISvUMmNKUYZV8//kDaV4apBcsvSzwlqcGCSE/SwhyWca+cTnPTxeLmsx4L79D+qR1x278fjG/mYMih3kaHcHx44ZfbtuSGc87coMePLloUAkiP64DQj+3ZDnW776edzuuUtkRx7huf/fgUJM/QQJtFgZJ6YXsgvvIEkse5DFwiAraPp26msX6q6YxYnPAWTBdwqYkzCtWT+6eSoXMYeqezQnf1TodP1dclO94amNU0Z6JnH2pu3sxQZ0by7iYixj5cbqcs0kLHeGm6RCjy2oxcHcd/pySn8FJ+o9esYW6RjRGh9Yb4DjGondlz7b1bffol8AnRkf/jI3tioeFPpI3sBgPIrclr0sutv/rFbktX9ifrQFvAXUfphw9VcbKJJPzaCPDfoXnx++hLl+srZ+AzSW01PWGKRsArH8+5PBmp+3BeBKZ8a+waieKQ==;/hfnS7Mu8if6y9nazhvsUw=="
+secured: "BZ79XLmrcwsmWPIDLCqr7du4Erjjy5R59Y5bqhMrhVjUCPppXifcE1ZWGeWTdxic9fGXpT0cwScIeB4FpDeSh3dk94GTN99CQeTCQX08ezh0RsdjoBEaKDeUKogZuwB4J9hlpZ2LVt0vU1fnMKEepF4AAq1CTk7fYyaAXr4A3PIAQReTl76s1T1745EQjnEq4yosTaCSqNF09MgEsHgVjNCsWmIkfZEySFsdxfdx8HhJy8Mwz0pZ7Pd8zbVqPOeUOjZusbISCAWMXO0xE7borC/nZjd1iWc6uDNiBvCivaFl0uKHd/jbduvk49m/ObRQStRClkmf0nbM+yNGeTSCwoHH2vwj+FPTmGcPCXWlkYg=;D+y0tZp09xlTvilZO6flYw=="
 ---
 

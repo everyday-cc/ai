@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Making self-driving cars human-friendly"
+    excerpt: "Automated vehicles could be made more pedestrian-friendly thanks to new research which could help them predict when people will cross the road."
+    publishedDateTime: 2021-10-05T08:07:00Z
+    webUrl: "https://techxplore.com/news/2021-10-self-driving-cars-human-friendly.html"
+    ampWebUrl: "https://techxplore.com/news/2021-10-self-driving-cars-human-friendly.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-self-driving-cars-human-friendly.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/making-self-driving-ca-1.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Not coming to a road near you: Self-driving cars"
     excerpt: "The future that never was can also apply to the self-driving car, also known as the autonomous car. They were supposed to be filling our streets by now, but are rarely spotted. Their delayed introduction is actually good news."
     publishedDateTime: 2021-10-01T19:37:00Z
@@ -44,20 +60,6 @@ related:
       - url: "https://www.theglobeandmail.com/resizer/faugYP_x-od_Y4GHm0tAI5URoUw=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/TJ3SH5VPTRDPHN2ZWQPGFIUINM.JPG"
         width: 1200
         height: 743
-        isCached: true
-  - title: "Making self-driving cars human-friendly"
-    excerpt: "Automated vehicles could be made more pedestrian-friendly thanks to new University of Leeds research which could help them predict when people will cross the road. Scientists investigating how to better understand human behaviour in traffic say that neuroscientific theories of how the brain makes decisions can be used in automated vehicle technology to improve safety and make them more human-friendly."
-    publishedDateTime: 2021-10-04T23:01:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/930450"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/25a5c613-406a-48e8-9eee-63eafff0a504/Rendition/low-res/Content/Public"
-        width: 700
-        height: 466
         isCached: true
 
 secured: "m6WOFzFb7SQ/e8Cx6YZ04z2CCu4vPIgIxifYAGi6u+NDd77iIIq3MtOInaTM1Js+tWhZQId1DiSMtRP5TUsAqr989yxL5A5N42Itnd1GUBjw6mY6Uhy76miqhdQm96MtpeEWnGEDMQbIfPSlFaFLOjYOFfuOs9A5SFjCB8Y1tOod0RC+uC+eU+93SjVyHUFWehaHlFwC5kevYUS00J/sEZ6n2ebdGAq+3aOqW2NF+0u9MYFdEc73wDnCaBktjHkgtOO2oWyyZ22rr2wrmkO2Ay7+0jxXJNTm2+kSigZ7LyXY6C7sDOA2r96ED7QJ+SJw8lPPu73uPd1tQRRAQ3+iJqMJWe9dDu9WpiBQssrjXRPPF/ACrNP4h143bSH7Dni7gXWhazx207P5zli91S0cVC3MOyBW2LIqESYkbXJBq58uzaHABr5sXiBCcJEZFwT1njeUSRZv6h9S8LZTepHmT2gPDoDyhTKPecFPeAoLgNnjn89jqK7W4y30b8NAnXG/dg3CuAkItR3A6ZpmFpmsyA==;Dvex9suPdIO2wF4qO8qahg=="

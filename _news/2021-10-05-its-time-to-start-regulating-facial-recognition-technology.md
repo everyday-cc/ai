@@ -40,20 +40,6 @@ related:
         width: 945
         height: 630
         isCached: true
-  - title: "Secretive facial recognition trial at Wellington Airport went against Privacy Commissioner's advice"
-    excerpt: "Aviation Security went ahead with the trial of a new facial-recognition scanning tool at Wellington Airport, despite serious concerns from the Privacy Commissioner. The secretive months-long trial, which is still ongoing,"
-    publishedDateTime: 2021-09-30T16:00:00Z
-    webUrl: "https://www.stuff.co.nz/national/politics/300420063/secretive-facial-recognition-trial-at-wellington-airport-went-against-privacy-commissioners-advice"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 40
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/v/1/m/y/image.related.StuffLandscapeSixteenByNine.1420x800.4yv1lr.png/1633012249632.jpg"
-        width: 1420
-        height: 798
-        isCached: true
   - title: "West Lafayett City Council Votes in Favor of Banning Government Use of Facial Recognition Technology"
     excerpt: "The West Lafayette City Council took up a vote to ban Government use of Facial Recognition Surveillance technology. The council was split on its decision."
     publishedDateTime: 2021-10-05T06:06:00Z

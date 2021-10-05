@@ -9,7 +9,7 @@ ampWebUrl: "https://www.expresshealthcare.in/amp/news/how-ai-deployment-is-chang
 cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Is Hospital at Home the Future of Healthcare?"
+    excerpt: "Traditional healthcare organizations have a role to play in home healthcare, with remote patient monitoring devices, data integration and artificial intelligence supporting virtual care platform efforts."
+    publishedDateTime: 2021-10-01T17:15:00Z
+    webUrl: "https://healthtechmagazine.net/article/2021/10/hospital-home-future-healthcare"
+    ampWebUrl: "https://healthtechmagazine.net/article/2021/10/hospital-home-future-healthcare?amp"
+    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2021/10/hospital-home-future-healthcare?amp"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 59
+    images:
+      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202110/hospital%20at%20home.jpg?itok=Iw8VzoH8"
+        width: 1440
+        height: 500
+        isCached: true
   - title: "In health care, many AI developers are white men. UNT is trying to diversify the field"
     excerpt: "NIH has awarded $100 million to UNT’s Health Science Center to lead a project to train a more diverse artificial intelligence workforce."
     publishedDateTime: 2021-10-01T13:45:00Z

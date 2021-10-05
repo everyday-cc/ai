@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/big-data-and-analytics/ai-and-software-devel
 webUrl: "https://www.eweek.com/big-data-and-analytics/ai-and-software-development-let-the-revolution-begin/"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-10-Virtual-Assistant-Chatbot-Predictions-for-2022.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "In Russia, 6 centers will become reference points for the development of artificial intelligence"
+    excerpt: "The working group selected applications for grants up to 1 billion rubles. within the framework of the federal project \"Artificial Intelligence\". The total amount of funds, taking into account extra-budgetary financing,"
+    publishedDateTime: 2021-10-05T07:57:00Z
+    webUrl: "https://www.akm.ru/eng/news/in-russia-6-centers-will-become-reference-points-for-the-development-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: akm.ru
+      domain: www.akm.ru
+    quality: 24
+    images:
+      - url: "https://www.akm.ru/upload/iblock/b3d/TSifrovizatsiya_tsifra_tsifrovoy_dvoynik_pixabay_.jpg"
+        width: 691
+        height: 480
         isCached: true
 
 secured: "fSImSKDp21n89RCoDW5z5t+XwEZZ6K6G5uiWRfrTdn/r1ThYzl7gGj0L60AMKQmRVK6Jf9bJee/07dA+bj/Rh3Dw5oiYOl5IsAVjeUkKAajppxAPQKOLSbEmH9OsMYuYk/YT9YKd0iFalyaqpmaD3KhiX7wUhZzN7x2rXDlpPup+xs3XUhAnYt2fxv0k0A/pAkrWfVIq29DHt77/+UGLZ+ZpIMO97RTG0XINvErCP/94agslvVkn9SYDx21zNzQWZUY+2x/PA3K6YYCc6ZBhlp2P/51tv7F2rK+3MoHnCLhE9L7UEahVaHGOk8aa3zsmUacdC3qQIhePGyzNS6ftI/kbnMx3CSiImmuVsFQj9/luAwXJQDMTEIWNz51TOgm4z8Pk+m+xLYmU1JQg2x+5VEX7eGnWFO/r6Qei3kM2UFavaDo3ab03YCurB7o6FWOoSQ43J6n360vdcl2maa+AVCJ8lsGGuVL1upmpq7kr0Lj1w0vhxGQvIErx+J5yJpsBt3kPp3EzXfgQ2hbSjSZz1w==;WurjpeoXBX1VNUbY6CLZCw=="

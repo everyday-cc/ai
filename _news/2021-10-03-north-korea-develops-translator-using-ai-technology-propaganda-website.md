@@ -27,77 +27,95 @@ images:
     isCached: true
 
 related:
-  - title: "Honda prepping AI robots, inter-city electric air travel and lunar technology for 2030"
-    excerpt: "Honda announced a range of efforts for the coming decade, including travel to the Moon and AI-powered robots. By Jonathan Greig | September 30, 2021 | Topic: Innovation Honda unveiled its priorities for the next decade on Thursday,"
-    publishedDateTime: 2021-09-30T15:45:00Z
-    webUrl: "https://www.zdnet.com/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/"
+  - title: "The Future Of AI-Driven Meeting Technology"
+    excerpt: "AI technology is vital for organizations that want to increase cross-team information flow and drive results in an increasingly remote working environment."
+    publishedDateTime: 2021-10-04T20:33:00Z
+    webUrl: "https://www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-driven-meeting-technology/"
+    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-driven-meeting-technology/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-driven-meeting-technology/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 179
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/467f6b569a7615928bfd7393b0d0baf4bd9fff42/2021/09/30/369a95d4-aa5c-46e3-b43d-3324f80c308f/honda-evtol.jpg?width=1200&fit=bounds&auto=webp"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615b62d360ccb5a24706abcf%2F0x0.jpg"
         width: 1200
-        height: 432
+        height: 800
         isCached: true
-  - title: "Honda plans new air taxi, robotics and space technologies"
-    excerpt: "These areas include developing a new electric vertical take-off and landing (eVTOL) air taxi, new robots and space vehicles. The Honda eVTOL aircraft leverages Honda’s electrifi"
-    publishedDateTime: 2021-10-01T12:45:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17269/honda-plans-new-air-taxi-robotics-and-space-technologies"
+  - title: "Marketing Artificial Intelligence: AI, Marketing, and the Future of Business"
+    excerpt: "Artificial intelligence is forecasted to have trillions of dollars of impact on businesses and the economy, yet many marketers struggle to understand what it is and how to apply it in their marketing efforts."
+    publishedDateTime: 2021-09-30T19:43:00Z
+    webUrl: "https://www.amazon.co.uk/Marketing-Artificial-Intelligence-Future-Business-ebook/dp/B09HH2LZ9M"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 69
+      name: Amazon Associates UK
+      domain: amazon.co.uk
+    quality: 66
     images:
-      - url: "https://electronics360.globalspec.com/images/assets/269/17269/Honda_eVTOL.jpg"
-        width: 752
-        height: 270
+      - url: "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png"
+        width: 350
+        height: 450
         isCached: true
-  - title: "Honda sees its future in air taxis, rockets and moon robots"
-    excerpt: "Honda's vision of how people will work, travel and spend leisure time in the future will help expand its business beyond cars, lawn mowers and motorcycles. The efforts are a key component of Honda's \"2030 Vision\" to broaden the definition of mobility and to improve peoples' daily lives."
-    publishedDateTime: 2021-10-01T00:14:00Z
-    webUrl: "https://www.nationthailand.com/tech/40006870"
+  - title: "How to Use AI to Drive Business Growth in the Tech Era"
+    excerpt: "AI allows for that. And from the looks of things, that will be nearly half of all US-based businesses within the next 12 months. However, even though the capabilities are there, it’s largely untapped potential."
+    publishedDateTime: 2021-10-01T13:30:00Z
+    webUrl: "https://www.business2community.com/business-innovation/how-to-use-ai-to-drive-business-growth-in-the-tech-era-02433972"
+    ampWebUrl: "https://www.business2community.com/business-innovation/how-to-use-ai-to-drive-business-growth-in-the-tech-era-02433972/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/how-to-use-ai-to-drive-business-growth-in-the-tech-era-02433972/amp"
     type: article
     provider:
-      name: nationthailand
-      domain: nationthailand.com
-    quality: 54
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 57
     images:
-      - url: "https://media.nationthailand.com/uploads/images/md/2021/10/yrHKYUG2ssVzuXoZG4Gz.jpg"
+      - url: "https://cdn.business2community.com/wp-content/uploads/2021/09/Business-Technology-900x643.png"
+        width: 900
+        height: 643
+        isCached: true
+  - title: "Valley teen's AI-driven wildfire prevention system turning heads"
+    excerpt: "Basically, what the system does is it detects hot spots which are areas where wildfires can start,” said Prisha. The system she designed uses real-time NASA and NOAA Meteorological data and predicts if an area’s conditions are ripe for disaster."
+    publishedDateTime: 2021-10-01T20:56:00Z
+    webUrl: "https://www.abc15.com/news/uplifting-arizona/valley-teens-ai-driven-wildfire-prevention-system-turning-heads"
+    ampWebUrl: "https://www.abc15.com/news/uplifting-arizona/valley-teens-ai-driven-wildfire-prevention-system-turning-heads?_amp=true"
+    cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/uplifting-arizona/valley-teens-ai-driven-wildfire-prevention-system-turning-heads?_amp=true"
+    type: article
+    provider:
+      name: ABC15 Arizona
+      domain: abc15.com
+    quality: 57
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/3704109/2147483647/strip/true/crop/1280x720+0+13/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F9a%2Fcd%2F4dccb5824d7ea8d63b7dc1d4b169%2Fthumbnail-img-2226.jpeg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Honda’s Vision Includes Air Taxis, Rockets and Robots"
-    excerpt: "A part of its “2030 Vision,” the company from Tokyo is looking to the sky and to robots and sees these advancements being offered by the 2030s and 40s. The first is air taxis. This would build on HondaJet,"
-    publishedDateTime: 2021-10-01T15:25:00Z
-    webUrl: "https://www.manufacturing.net/video/video/21747589/hondas-vision-includes-air-taxis-rockets-and-robots"
+  - title: "Do Robot Canines Have a Viable Future in AI Tech?"
+    excerpt: "The rapid advances made in artificial intelligence and machine learning have paved a path toward a more accessible, efficient, and optimized future. However, best practices and ideal applications are still undecided."
+    publishedDateTime: 2021-10-01T22:48:00Z
+    webUrl: "https://www.linkedin.com/pulse/do-robot-canines-have-viable-future-ai-tech-bennat-berger"
     type: article
     provider:
-      name: Manufacturing
-      domain: manufacturing.net
+      name: LinkedIn
+      domain: linkedin.com
     quality: 54
     images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/10/mm1021.6157238e46294.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHfe1z4IYxtJg/article-cover_image-shrink_600_2000/0/1633128504221?e=1639008000&v=beta&t=lL8T7xD9Q9SOBxI4ObhbQJMaPFJN0cDrvULPfPIRFO4"
+        width: 800
+        height: 531
         isCached: true
-  - title: "Honda Announces Plans To Expand Research in Air Taxis, Robots and Space Technology"
-    excerpt: "Honda Motor Company on Thursday announced plans to increase research and development across three technological categories: space technology, robots and electric vertical takeoff and landing aircrafts (eVTOL),"
-    publishedDateTime: 2021-09-30T18:20:00Z
-    webUrl: "https://hypebeast.com/2021/9/honda-research-space-tech-robots-air-taxi"
+  - title: "Kai-Fu Lee — The Future of Artificial Intelligence"
+    excerpt: "The extraordinary opportunities—and challenges—presented by artificial intelligence are at the heart of Kai-Fu Lee's new book, AI 2041: Ten Visions for Our Future, a \"scientific fiction\" that sketches 10 possible AI-driven futures that are within the realm of the scientifically possible."
+    publishedDateTime: 2021-10-02T05:47:00Z
+    webUrl: "https://www.hks.harvard.edu/events/kai-fu-lee-future-artificial-intelligence"
     type: article
     provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 48
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 52
     images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F09%2Fhonda-research-space-tech-robots-air-taxi-TW.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
+      - url: "https://www.hks.harvard.edu/sites/default/files/about_us/Twitter-Card.png"
+        width: 840
+        height: 450
         isCached: true
 
 secured: "9wbUpzGu83TvJvxrhZRhGBIteYpWV7QC0Vu5NLCEIi7usS3N4m4+EzE45n7F47IaIiuom3DTkj4L0swwaZ9aCOSPl+7B1uparxFPfGGQuUtg7gYDO9KQXhAeglpFFtd8b+Zvmby1c6e+QHqRrta1nhR83px5ui5cxVJ45Ug0jPr/uwREaP7CInfSZDsO5WKOMdw6qdZn2PVJpOVAjh8xOVwAJEmy7U3BimRiAb9RJCYf74MVusvaNXkRZ2Qc8vyxmJcFRtck3r/+v56vnp03hqG/kdEJmftP7rMPg/R9Nzpgl2oYMpfEz+OmuMxfW18x/m12xUyOfc542SM8fC9GnsUHZaEfAZyfVBeoLyFeFFdzdWdxkXb2hRc38PB1XJkAn8e+P1cJbnGhxgm90KrsYltX6Oe/nkdm+4oRhrTh0tc8oRMG0xNAXGSI7PkwS7BHwK8ihSh98KyVDaxacGczuTEW7rouH+hlFMnAOxD8b1XQ0OAV0RFDm1WXgzP1iJi+MADZ7Hi+IjsaR1gjXFshdg==;jnn3boShfFIhE6/Mr4vLhQ=="

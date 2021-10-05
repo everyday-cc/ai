@@ -47,20 +47,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "Secretive facial recognition trial at Wellington Airport went against Privacy Commissioner's advice"
-    excerpt: "Aviation Security went ahead with the trial of a new facial-recognition scanning tool at Wellington Airport, despite serious concerns from the Privacy Commissioner. The secretive months-long trial, which is still ongoing,"
-    publishedDateTime: 2021-09-30T16:00:00Z
-    webUrl: "https://www.stuff.co.nz/national/politics/300420063/secretive-facial-recognition-trial-at-wellington-airport-went-against-privacy-commissioners-advice"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 40
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/v/1/m/y/image.related.StuffLandscapeSixteenByNine.1420x800.4yv1lr.png/1633012249632.jpg"
-        width: 1420
-        height: 798
-        isCached: true
 
 secured: "ordfW9FLF8nv6QP7+y6ZXgY3nT7oKG58SeD8ZCcN1QrOfM7ERbwXQm401MKwmtYTki/7kN4hbRcNwdT2lrBFZiC8YNmRybCFB8vMHFt/AepkaBRhHrTnQoxd2dKXp9dNEdeFvanY7J1usSq9Mb3zyEL8nyTFA+eMfKV5c2X2Ki6C+MjkVpVV1LeutJDniBCS0oRyysir7RslzeTP0M41ii38IyUJz0MNZgQ7H/ua0+jAzIS55bPod5VfGa+Box5eL+vlLP1igMDulX+Pl7kMjLqhKctsVsambAm5icam+TpizdUjfUteK1bVbYP0yqYluCvXNQ3kQwZVcFNm4BaBYJPF3Jq3lEzIA2D4YKFkHEKzDjD6OhfqaeR2yI0xjCAV1rq6RxfEsWewE3GEz66feFTdwu7hSALio6Y0xEhZJRMPI1LCmcuaGBPCXKIKBu5PAtnm/CH65s+qGEGd+TXKVONWpcyiUODxtYT9/TM/ycWMK0VFSGEtY8SHwzlqZ4ZRC2jFDsEgWmIOagG2Duv/LA==;cYbAHqz0jzCj45sml7SGKw=="
 ---

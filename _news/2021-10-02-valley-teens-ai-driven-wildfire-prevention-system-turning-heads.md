@@ -56,6 +56,22 @@ related:
         width: 350
         height: 450
         isCached: true
+  - title: "North Korea develops translator using AI technology: propaganda website"
+    excerpt: "North Korea has developed an artificial intelligence-based translation program with enhanced speed and accuracy, a propaganda outlet reported Sunday. DPRK Today, a propaganda website, carried a report introducing the research result of the AI institute of Kim Il-sung University on the creation and introduction of Ryongma,"
+    publishedDateTime: 2021-10-03T01:09:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/nation/2021/10/103_316380.html?fl"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316380"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316380"
+    type: article
+    provider:
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 59
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202110/fb09af58482c4d07b89adfed4afbf0af.jpg"
+        width: 980
+        height: 607
+        isCached: true
   - title: "How to Use AI to Drive Business Growth in the Tech Era"
     excerpt: "AI allows for that. And from the looks of things, that will be nearly half of all US-based businesses within the next 12 months. However, even though the capabilities are there, it’s largely untapped potential."
     publishedDateTime: 2021-10-01T13:30:00Z
