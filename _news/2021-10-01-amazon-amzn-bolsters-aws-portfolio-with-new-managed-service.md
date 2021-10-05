@@ -40,20 +40,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "AWS Releases New Container Monitoring Service"
-    excerpt: "Amazon Managed Service for Prometheus is fully compatible with open-source Prometheus and provides the same familiar time series data model."
-    publishedDateTime: 2021-09-30T07:25:00Z
-    webUrl: "https://analyticsindiamag.com/aws-releases-new-container-monitoring-service/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/AIM-Illustration12-1.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
 
 secured: "WFlN5soyFdU4PVYH/h3gqgIqJ4KVYf53FKaOTBHKBkaWS322k9ItwQoGJKH4aVoJKcPRqTZXv4Oo4f12bqCKNvglsElKtz+hDWu1Rh93YS9pSPkikTjKSU/7z0AE3OdR2gYgXCtF0gEbftu35WSFd6a8xF0SVh5XhTq2ActhjavNxcBbhxanndT2mM/h6H51mDDY9xSxaXlUhFUH9N7dtFa6OtKateIJ4g88HC7nh59zBLENbcwAhXlW/XjusNqhPInZYmgUmAOVkVEVSNVuCwbhl+LcUBSWPmjQDSvbV/cXK4z1YL2MJLoTUDStm77PYQqOr7EbJTSZxGe1+rKnrM4MlKzO9wVn1FaitaGphUbzVRzdEO8WM89fas8u8h77dYeYsSc2Tly9UZrsdYHzd3jrb0qRqA8IWskxOTwD+TnvprI3B6HcHWXLswSCz04aH0rhYmkDqEyG0UtduZhI0uiVNkvnKKfxFrTJe72Z60dqAaKKop6S3XoP/n9DNwn4yQC587cg5kpBqnVZAcltHw==;1zeRwm2B/HZmgF2vXm2fZA=="
 ---

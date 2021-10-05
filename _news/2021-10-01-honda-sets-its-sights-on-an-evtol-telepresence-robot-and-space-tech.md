@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/technology/honda-future-focus-evtol-telepresenc
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/?amp=true"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Honda reveals eVTOL plans, future robots and dreams of helping colonize the moon"
-    excerpt: "These are some big time aspirations from the carmaker, but it's all part of a plan to tackle other issues beyond traditional transportation."
-    publishedDateTime: 2021-09-30T09:00:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/honda-evtol-robots-colonize-moon/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/honda-evtol-robots-colonize-moon/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-evtol-robots-colonize-moon/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 84
-    images:
-      - url: "https://www.cnet.com/a/img/lcRp-47lWgWxs2fqLwA9_Lom8Yo=/2021/09/29/ad56b966-12bb-4145-bbbb-0826ab7721d3/ogi-honda.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "6N1mWQmnkVQhkGGJ/zaer/yKWTnfYJSxXt7Y64WIOzoIEWEv2jReIYCOaORoApKdKm6NWZp7sl/reKYmjiPnYzvz9mVMeOELNKBeNJs6pNveyPh4SjSoXjoaQoxV9PlAJfqca87UpunWM1LTB9JuITWTviZmFlDyIBRBhOk7zpzvYLJIJGK15EmCtIl6Z+CCblxjB/NBWBHQe0FExtcxaLaTE5jkHyY2N4Ula3QaoVHmFIP1AzHf0KIL40GxhC+ILepMQAXjyd2WVPghohEXEUf2jZF50GdBNwnFSO7ilquXZqyxZvMiq3vYNseoIcuapXZ7YxlobmF+zgrjbyqRoCRkaDw1J+3lKZOXD74uwcTH7lE3LorkXyFee/sGhzAIVaXuIOWv/Bg0An/IgHWE7qo1C14gCaDrqL24UDXojuqx2UEz28iwhzdqev8aV23vyMuO6OX8amw3C+jDx98EVIjRCeUfGdh8zLyfpSL7qXvxFX8U8aXMOJhJag2EY4YxsaU9MrP1JmOat8mkUY5ILA==;BetFyAsC2RAcC3t7VJWkIA=="
 ---

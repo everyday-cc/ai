@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/contractpodai-no
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/contractpodai-notches-115m-for-ai-powered-legal-platform/amp/"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Contract management startup ContractPodAI nabs $115M for AI-driven legal review"
-    excerpt: "ContractPodAI, a company developing a platform for AI-powered legal review, has raised $115 million in a funding round led by SoftBank."
-    publishedDateTime: 2021-09-30T08:00:00Z
-    webUrl: "https://venturebeat.com/2021/09/30/contract-management-startup-contractpodai-nabs-115m-for-ai-driven-legal-review/"
-    ampWebUrl: "https://venturebeat.com/2021/09/30/contract-management-startup-contractpodai-nabs-115m-for-ai-driven-legal-review/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/30/contract-management-startup-contractpodai-nabs-115m-for-ai-driven-legal-review/amp/"
+  - title: "Intel- and SoftBank-backed Retrace launches AI-based dental management network"
+    excerpt: "Artificial intelligence-powered dental health startup Retrace Labs Inc., backed by Intel Corp. and SoftBank Group Corp., today launched out of stealth mode with a product claimed to be a first for the U."
+    publishedDateTime: 2021-10-04T12:08:00Z
+    webUrl: "https://siliconangle.com/2021/10/04/intel-softbank-backed-retrace-launches-ai-based-dental-management-network/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/08/3fb9dd87-044a-4aaf-9fa1-93be7fa400a4-e1597178224936.png?w=1200&strip=all"
-        width: 1199
-        height: 598
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/retrace.jpg"
+        width: 800
+        height: 419
         isCached: true
 
 secured: "0J8KWQMArYge5B8QuI646H/kwdiwVO71ZS2WeIe2/+EEKx4c6cDcGbVrK/aiBT6DVuLOelBK3XaPfaj9W/MQFPAcGjrZpQB+ncbLs9eesnPMj+3JAz8Ypui3OHr2NhiydQn8Sh3y5aCxCJM+dGrhjAR8WeE3b4wDX31Gh0jhSLWvt2x51Tz58Y5FJJfTtZTBr6+a4zGFLTILtKhZAbqvVhliMlGuujCZk8LMMp7rHDJR4i64uztNa3ZKm+bUuR7c2I1wS8EBcABWIfUKfxWs32xecBhyVPjBn3urpZcbGM7w6NxSP5QcxiD1RsprCAeP6akAtnkhPQp4nT1Rb0PBH4rbA1EI817Vjlhxr/yWowUoe+dNcmfA43nURmEPXEd1OXK9URvKEGYOK+xNc7v8y8Q9g879DmLWBKR3MnWj+kd/yXjYlz++TYA/30YSQMufJr0UuhDYIH9xjF8sQbpjdo/1TJLtbf3b3A46QprmfZkdTM5Mi2vQo9vpAfERslnmXkZ4g06pr+5W6bnKRglWAw==;YV0LTNCaP9aRpUyeFUs6Sw=="

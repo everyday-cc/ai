@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-04T20:56:00Z
 originalUrl: "https://thewestsidegazette.com/this-startup-will-make-sure-drones-dont-land-on-kids/"
 webUrl: "https://thewestsidegazette.com/this-startup-will-make-sure-drones-dont-land-on-kids/"
 type: article
-quality: 22
+quality: 24
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://thewestsidegazette.com/wp-content/uploads/2021/10/pic-1.jpg"
@@ -39,6 +40,6 @@ related:
         height: 902
         isCached: true
 
-secured: "LMc/sozh6+rKk8MdJVvwbk1q5zwxAJTnMjuB/jHxafNPJvetJVTk8toY6BaQVFjh3Hg0sMKPoX3RqOdvp289OjnCqh3T+fDqslKiCMjRQmqb0A3wCnKKt+zjN+PQxDbyj+sDTgbfPJpLNZXVXz4Sa7q66ljYY9Jvro+wulTf7m9QMo3eqN4im4SBG66y2hEzqxEcGQMNXEtowQcj7O/MRjqD96fAXIypgg5q4IG6aVf8f17+BWsCbLH8ZnVdw+yw9+QKqGZGvCK2jjw033MtwhFnetLsyYOCr11afU7picPUER/E2IQK3KY/OIYvrLMZEjdUZzWDx5y3bl7s6oBV2STrrGEDXS/58icJTA2Qxh4=;BqE/SA5nu6Ouna7/m3PdQA=="
+secured: "PvWEkt/eIWd49fxZFfuc2rNhTtlBXEGpXP/GeUeGqQrd7Cp1RpLkQjT1S+2zfv5D0hnA/k4iVtI5XJCzTDIpzyl9XUiEE7CXZAmlYJZbNBJJdYWHj65ZAssOOza7uoSkuRpdDhCDIDJOCjZEN6FlKY4lQBko3YKTCIE8MyQvFZRqrIJp8T5nzEWUFQX/kA/LI1BpeP6NpklRf5wG1kHmLIpBa4j47azg3NYal97fFDjL56/Q61hFtxsdQzBEeyURuakUe2jhD49PXJFhbGCfD9Ai4dIoE1/5J8qfMuQIx53OOOsetC7jYe5nHnpg1PZ00uNWiqOpkCAQrF8MK1PIE0DI4AfMxTd9TJEeHej5nG07uadt2z3j1mrCXccankCXgg+8SCJUxo0XbIa4mnZ+542Na32XSjmTT/tS2Qon+6sCFSWc/jouoQ4HiLBWe2x2qzyWt3mZ1vP0QduW3mKLJ+yhnrBeWWUijuKKZddo4h0fk0mR7Is4wicqehyRlxJql8hkjsjP6SlUvDvFzmHxmw==;WCAn+UJCoheY3E1eVy8cHQ=="
 ---
 

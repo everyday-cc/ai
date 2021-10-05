@@ -40,21 +40,7 @@ related:
         width: 896
         height: 504
         isCached: true
-  - title: "Beyond Codes signs 7 AI product companies"
-    excerpt: "A global Lead Generation company, Beyond Codes is assisting some of the fastest growing IT companies to expand their market reach through B2B appointment setting, Account-Based Marketing"
-    publishedDateTime: 2021-09-30T07:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/beyond-codes-signs-7-ai-product-companies-121093000499_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 37
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/30/full/20210930102007.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
-secured: "nRLaKMvol3A6lfZ6nWz8P7UKUo3J4EuTlDsfOYQQsRZxDvtTidPygkxyyLGQRFeKuDIJQMs8+L7rUGdqu3Ve9OPRapksf5Jq1SOtx/hPsqA7a0MfNSmrfsjCxD/rfq4ezO41f/hXLUhYFqNEKCqnr+On+3EGI7S7iSxPlCcuRAzU7FJa03aWd8UbqDF9l4ByaL67XYz3xG+pd1XVWmbrxwmKS0vcbUwSGVAsV0EC4rI7iFQ4PaUW4Q1Db16saV25Ck+fICmzlC1MjCelXRyHCprp0tH9M0nkeIempjSvf8QQfJlsp2fxxUpuQS+SrRNgMvoq2g48LNgsCXATLuK3pkwTlDlgPwzI1CpaCj+VQi4=;ggTFZNC+TUOf9KGpCUkGag=="
+secured: "5Srgrv2IsJBCEQETyJPmco5ZUUQLd8unC9wwk5NWAlTkJd5ru7bIaOhpjk9bRUOszP8mIUI1PET1zAjN7EJXtZ2WsMeu9bENw4Ow+WSm5A4HVvPWXcJOLddIRiHiYX2Hp0Vv/0/6gZ8Y5EmYuy91Elkm1M5Yjfrlvrddn5JCsAaqs3Yzr7iqNxwyOxtSgRgRAT1VJo4jUsRTYvINF3n0Mo0xpgGx1yE28abtutOYcrl0v0wSuHrUBbNh92W2z7nN9D+kotGIoA3qZPVduU0eEI7CZ6ST7i19IItlSsfK9J1wzXql2O+q45DvO+p8An2zPvYdnUIBQTMh0Zcx0p+5/Vh7PmpymXmkJLiGJiL/2+Bxl+LDE/Wr/daKyjt0ypE27WDguf2Nn3IKjbapCp4DkIhi4cI2DzlP7DnGuAGljeUUVweqaL9vt6bt/UgRbjQVkJYbia0Pn3Je0+YO+cdZMxs+a3E79swBlukEa0ElKTbB1ZRqKngDPxCewO5hYJODIZ1ELeQvVONalt7X8Yn/ug==;IeZBHVK2M1qMSPK1OyGBow=="
 ---
 

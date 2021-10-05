@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-w
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30?amp"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -34,20 +34,6 @@ related:
       - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-388659.jpeg"
         width: 635
         height: 400
-        isCached: true
-  - title: "AWS Releases New Container Monitoring Service"
-    excerpt: "Amazon Managed Service for Prometheus is fully compatible with open-source Prometheus and provides the same familiar time series data model."
-    publishedDateTime: 2021-09-30T07:25:00Z
-    webUrl: "https://analyticsindiamag.com/aws-releases-new-container-monitoring-service/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/AIM-Illustration12-1.jpg"
-        width: 2240
-        height: 1260
         isCached: true
 
 secured: "ZUYS03McGCF3ssHNwLQdzGCYb7RXNqvFzPBYFlHCONeOW0crYC+dmoZWwvho9nlw80inuyUCAOcXEU4oH3QIXO5KwOcQLNTQaDf9lO8uCPB3gYJGYP5Iy7HZeQsecs4RyvGPijUEG9LbWextXqGFURvuA5ttlG0urptnpJE0RVOfG32VRvizA6DshPM2b46EexPWODIKmjlpuWn7wPz3GLdJfUb/jMJU2pRtOC5Bgg+DyJKW6ZBr/iDyNfNIQadHNg7eDRgT1C5I4zTsp0+tsXJazSQV1ulzooPyST0h72ep5huOw4u3iV0ou4Qd0GWGMEpHPV8LNuI3dPwYr9nlVaoH0ijbrDEYWOVlwYJyfVE=;PJHibNf4QVkiNj7t7zeZeQ=="

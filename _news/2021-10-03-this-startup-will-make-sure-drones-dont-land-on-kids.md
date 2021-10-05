@@ -33,7 +33,7 @@ related:
     provider:
       name: The Westside Gazette
       domain: thewestsidegazette.com
-    quality: 22
+    quality: 24
     images:
       - url: "https://thewestsidegazette.com/wp-content/uploads/2021/10/pic-1.jpg"
         width: 1000

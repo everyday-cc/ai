@@ -9,8 +9,8 @@ ampWebUrl: "https://www.greenhousegrower.com/technology/recent-merger-unites-art
 cdnAmpWebUrl: "https://www-greenhousegrower-com.cdn.ampproject.org/c/s/www.greenhousegrower.com/technology/recent-merger-unites-artificial-intelligence-management-platform-companies/?amp"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Greenhouse Grower
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Beyond Codes signs 7 AI product companies"
-    excerpt: "A global Lead Generation company, Beyond Codes is assisting some of the fastest growing IT companies to expand their market reach through B2B appointment setting, Account-Based Marketing"
-    publishedDateTime: 2021-09-30T07:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/beyond-codes-signs-7-ai-product-companies-121093000499_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 37
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/30/full/20210930102007.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "KION Group invests in AI-based energy management platform for greater sustainability"
     excerpt: "KION acquires a stake of just under 20 percent in ifesca GmbH; positions technology as enabling customers to plan the optimum operating times for their fleets of industrial trucks{/exp:eehive_hacksaw"
     publishedDateTime: 2021-10-04T22:19:00Z
