@@ -101,6 +101,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Global acquires AI text-to-audio startup Remixd"
+    excerpt: "UK-based Global has grabbed Remixd, a tech startup specializing in turning text to audio. Remixd technology is geared to text publishers wishing to enter the audio and audio advertising fields. Presumably the Remixd function,"
+    publishedDateTime: 2021-10-05T19:04:00Z
+    webUrl: "https://rainnews.com/global-acquires-ai-text-to-audio-startup-remixd/"
+    type: article
+    provider:
+      name: Radio & Internet News
+      domain: rainnews.com
+    quality: 37
+    images:
+      - url: "https://rainnews.com/wp-content/uploads/2018/07/RAINdailydigestslides.gif"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Gap Inc. Acquires AI Startup CB4"
     excerpt: "Gap Inc. (NYSE: GPS) has acquired the New York and Tel Aviv based start-up Context-Based 4 Casting Ltd. that uses cutting-edge AI and machine learning tools to transform retail op"
     publishedDateTime: 2021-10-04T16:04:00Z

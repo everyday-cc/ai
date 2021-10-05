@@ -41,20 +41,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "Delete Your Face Data on Facebook, Turn Off Facial Recognition"
-    excerpt: "If you want to prevent Facebook from doing it automatically, then follow this simple 2-minute read on \"How to Delete your Face Data on Facebook by Turning Off Facial Recognition\"."
-    publishedDateTime: 2021-10-05T17:31:00Z
-    webUrl: "https://gadgetstouse.com/blog/2021/10/05/delete-your-face-data-facebook-turn-off-facial-recognition/"
-    type: article
-    provider:
-      name: Gadgets To Use
-      domain: gadgetstouse.com
-    quality: 39
-    images:
-      - url: "https://media.gadgetstouse.com/wp-content/uploads/2021/10/featuredimage.jpg"
-        width: 1379
-        height: 776
-        isCached: true
 
 secured: "dkLS1l6r+QukwVszMviQCKp9N9o5D7k9K8q+O6ifyi3WmHNvxLi5PHEbfUcTUXFCBhvEAN1nDEVgMH352h55uHO7tCykmeEwSI/ZIDInafea0iu6Jk0x8QClLkiLY15f5KRyzIHlmfhJBFoLCj3aerZVIO21xCKWWcF2QX49LA8beyZX83iMRdAQHfBJ3usVY0egH9UuEMr9BWp72jX7NivO6MFQxOkwrxgPnaIlRjStb6wu5OpfGr0QHBgUB/EaakznaHfLty7WeeTkufW53TdW9lihsLZb/bgpZ3ym/IiulJEgbllwFDW9CAe9um3lPlxwD0R1ewnlxBK2WtjkLcvIomwR6YPs4TZiF7okY+M=;4tgu3XcQ9cebyDjZDRIqCg=="
 ---

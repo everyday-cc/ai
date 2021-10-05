@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-05T15:56:00Z
 originalUrl: "https://www.djournal.com/news/nation-world/1st-edge-wins-advanced-technology-international-ati-ota-contract-to-develop-artificial-intelligence-ai-solutions/article_64db59ba-9269-56b7-bb53-3ffec35eaef7.html"
 webUrl: "https://www.djournal.com/news/nation-world/1st-edge-wins-advanced-technology-international-ati-ota-contract-to-develop-artificial-intelligence-ai-solutions/article_64db59ba-9269-56b7-bb53-3ffec35eaef7.html"
 type: article
-quality: 23
-heat: 23
+quality: 25
+heat: 25
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/c4931bce-e1a3-11e6-b934-53284b68f006.jpg"

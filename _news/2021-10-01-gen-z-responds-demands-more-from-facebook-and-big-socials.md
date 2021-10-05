@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "For Tesla, Facebook and Others, AI’s Flaws Are Getting Harder to Ignore"
+    excerpt: "Investors are pouring money into artificial intelligence, despite clear setbacks in self-driving cars, social media and even healthcare."
+    publishedDateTime: 2021-10-04T07:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2021-10-04/artificial-intelligence-ain-t-that-smart-look-at-tesla-facebook-healthcare"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_t5K2dNQfTk/v1/1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "For Tesla, Facebook and others, AI’s flaws are getting harder to ignore"
     excerpt: "Investors are pouring money into artificial intelligence, despite clear setbacks in self-driving cars, social media and even healthcare"
     publishedDateTime: 2021-10-04T22:49:00Z
@@ -55,19 +69,19 @@ related:
         width: 400
         height: 404
         isCached: true
-  - title: "For Tesla, Facebook and Others, AI’s Flaws Are Getting Harder to Ignore"
-    excerpt: "Investors are pouring money into artificial intelligence, despite clear setbacks in self-driving cars, social media and even healthcare."
-    publishedDateTime: 2021-10-04T16:36:00Z
-    webUrl: "https://www.washingtonpost.com/business/for-tesla-facebook-and-others-ais-flaws-are-getting-harder-to-ignore/2021/10/04/30ffd9fe-24e9-11ec-8739-5cb6aba30a30_story.html"
+  - title: "Delete Your Face Data on Facebook, Turn Off Facial Recognition"
+    excerpt: "If you want to prevent Facebook from doing it automatically, then follow this simple 2-minute read on \"How to Delete your Face Data on Facebook by Turning Off Facial Recognition\"."
+    publishedDateTime: 2021-10-05T17:31:00Z
+    webUrl: "https://gadgetstouse.com/blog/2021/10/05/delete-your-face-data-facebook-turn-off-facial-recognition/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 54
+      name: Gadgets To Use
+      domain: gadgetstouse.com
+    quality: 39
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://media.gadgetstouse.com/wp-content/uploads/2021/10/featuredimage.jpg"
+        width: 1379
+        height: 776
         isCached: true
 
 secured: "kIrwW/W1kzpKGA2ko//eifET/XhymSoZ0koh4+CvJd3tCGKVNCZlaOteSUlyw4RimqvDG6HIowAv6HEH9EOnUsdfVm+HHE0Z5L8Id6lieZdFRvg6m8/GPZp8ZUai8/67yT1XTOV9tfkmpQFAk2GbWbN330QZgrAyRS1/OiHgqWnRVInGPVN335djX0p1gxGlVCalvEE3yvtaS2rtyRnmY3BhY3pqvAUe1ZDpL7IuXHAHQPeknxXqK0hLYIjnTXdp23SGXOYkypIvb4Wpg+UWieS7dZ9onvyJIz9GCr2+zaFZ8lXoO+U17CzTtNvOBgRCMf1Ky+oxUvA6tVQI1tUjmragRs49e5ZAqzfWdMpdkY8=;Ki7a3P1pHCKg/sqWbmJIBg=="

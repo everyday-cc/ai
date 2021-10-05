@@ -13,6 +13,10 @@ published: true
 provider:
   name: thepharmaletter.com/article/exscientia-prices-304-7-million-upsized-ipo
   domain: thepharmaletter.com/article/exscientia-prices-304-7-million-upsized-ipo
+  images:
+    - url: "/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI

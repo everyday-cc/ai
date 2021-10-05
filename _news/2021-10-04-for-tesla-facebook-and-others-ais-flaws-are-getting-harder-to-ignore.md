@@ -2,26 +2,30 @@
 category: news
 title: "For Tesla, Facebook and Others, AI’s Flaws Are Getting Harder to Ignore"
 excerpt: "Investors are pouring money into artificial intelligence, despite clear setbacks in self-driving cars, social media and even healthcare."
-publishedDateTime: 2021-10-04T16:36:00Z
-originalUrl: "https://www.washingtonpost.com/business/for-tesla-facebook-and-others-ais-flaws-are-getting-harder-to-ignore/2021/10/04/30ffd9fe-24e9-11ec-8739-5cb6aba30a30_story.html"
-webUrl: "https://www.washingtonpost.com/business/for-tesla-facebook-and-others-ais-flaws-are-getting-harder-to-ignore/2021/10/04/30ffd9fe-24e9-11ec-8739-5cb6aba30a30_story.html"
+publishedDateTime: 2021-10-04T07:00:00Z
+originalUrl: "https://www.bloomberg.com/opinion/articles/2021-10-04/artificial-intelligence-ain-t-that-smart-look-at-tesla-facebook-healthcare"
+webUrl: "https://www.bloomberg.com/opinion/articles/2021-10-04/artificial-intelligence-ain-t-that-smart-look-at-tesla-facebook-healthcare"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 84
+heat: 124
+published: true
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_t5K2dNQfTk/v1/1200x675.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -55,6 +59,20 @@ related:
         width: 400
         height: 404
         isCached: true
+  - title: "Delete Your Face Data on Facebook, Turn Off Facial Recognition"
+    excerpt: "If you want to prevent Facebook from doing it automatically, then follow this simple 2-minute read on \"How to Delete your Face Data on Facebook by Turning Off Facial Recognition\"."
+    publishedDateTime: 2021-10-05T17:31:00Z
+    webUrl: "https://gadgetstouse.com/blog/2021/10/05/delete-your-face-data-facebook-turn-off-facial-recognition/"
+    type: article
+    provider:
+      name: Gadgets To Use
+      domain: gadgetstouse.com
+    quality: 39
+    images:
+      - url: "https://media.gadgetstouse.com/wp-content/uploads/2021/10/featuredimage.jpg"
+        width: 1379
+        height: 776
+        isCached: true
   - title: "Gen Z Responds, Demands More From Facebook and Big Socials"
     excerpt: "Digital natives, tired of being the guinea pig for big social media companies, are taking their message to the global stage at the Youth 4 Youth iSummit , October 14-17th, 2021. Hosted by LookUp.live ,"
     publishedDateTime: 2021-10-01T04:41:00Z
@@ -70,6 +88,6 @@ related:
         height: 553
         isCached: true
 
-secured: "awiKiAl6TueW1RQIIeHSvD7K4GjXkvg5J3/0Igaus+fwwxgR0Vjkcy2bpxV3FhRcQ88Vesijm4Mn3LCN+NLRRIUx3dDB3nJpE1ycYbiJxHqUSDo03Czm+UH8uI2SVg7j+WboeZiiZ5Nc7VjH5W20GJJ4IVHn6cTe+OxRyibF/ax2n555R4UT54VEqPovLoOnRGeZ26k7+xkvZw5rqaIGXjf6BNkbIK8zzEb/ub717Ajt5gBMZKCwCn/WJsvLW8kitNYiwiIDbvpoOk+HBowjC4xzQ7+Vw2+l23f3cvq68U2sNghHZlJKATBhkD0nVzVA/3VcKf7P3+cz/9gDkfclwNROkipIWEaqM8cCRC7UM38=;xxaRzwKU/JhQkic0i7Dd1A=="
+secured: "RXC4zXFPwbPIwy385sXwn6GNeSdUb676+DwOniO4QBPw/5bBLfejdkRq/0/96oH7tOyW45Q4WOMZiUdp+du3fW/016KYHJAPCcldzo+qbyM5rfIsddZkC2eLKJ5GXK4YFo53tXzCJAJCQM/b2qTuq5MatQR7KhTRE0YIwN3O0Zvk4D0+y89XdCTekxGoOYejvOWkLesIbJmdOUDXDXqj/WnvGPQvzh2HN0fvS6CtUYa3tz8JjvP/JKsBAyuK2Kk7cm8gihRvkHMY3s0gGlRcbNJTV0yAj+fcRy8UBwEldqFZ8Sb2vTSwO49Q+K+zdi/OOc6ciJMfI8a6WbL1Z6y0v5kSA7tLCm5tPm9nGUWBTi0=;pbR8/N5gZkpMZtIHFHlFHA=="
 ---
 

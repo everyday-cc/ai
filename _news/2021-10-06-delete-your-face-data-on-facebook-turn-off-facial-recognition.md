@@ -25,35 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook whistleblower testifies in Congress"
-    excerpt: "The Facebook whistleblower who released tens of thousands of pages of internal research and documents will testify today before a Senate subcommittee about the company's impact on kids. Follow here for the latest news."
-    publishedDateTime: 2021-10-05T15:37:00Z
-    webUrl: "https://www.cnn.com/business/live-news/facebook-senate-hearing-10-05-21/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/business/live-news/facebook-senate-hearing-10-05-21/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/business/live-news/facebook-senate-hearing-10-05-21/index.html"
+  - title: "For Tesla, Facebook and Others, AI’s Flaws Are Getting Harder to Ignore"
+    excerpt: "Investors are pouring money into artificial intelligence, despite clear setbacks in self-driving cars, social media and even healthcare."
+    publishedDateTime: 2021-10-04T07:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2021-10-04/artificial-intelligence-ain-t-that-smart-look-at-tesla-facebook-healthcare"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_t5K2dNQfTk/v1/1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "For Tesla, Facebook and others, AI’s flaws are getting harder to ignore"
+    excerpt: "Investors are pouring money into artificial intelligence, despite clear setbacks in self-driving cars, social media and even healthcare"
+    publishedDateTime: 2021-10-04T22:49:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/for-tesla-facebook-and-others-ai-s-flaws-are-getting-harder-to-ignore-11633345960984.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/for-tesla-facebook-and-others-ai-s-flaws-are-getting-harder-to-ignore/amp-11633345960984.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/for-tesla-facebook-and-others-ai-s-flaws-are-getting-harder-to-ignore/amp-11633345960984.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
     quality: 74
     images:
-      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_506/1fa57818-51d7-476d-b66d-5dfcfe95abc3.jpg"
-        width: 900
-        height: 506
+      - url: "https://images.livemint.com/img/2021/10/04/600x338/TESLA-MUSK-BIDEN-0_1633346250616_1633346274524.JPG"
+        width: 600
+        height: 337
         isCached: true
-  - title: "In Scathing Senate Testimony, Whistleblower Warns Facebook a Threat to Children and Democracy"
-    excerpt: "\"I'm here today because I believe Facebook's products harm children, stoke division, and weaken our democracy,\" whistleblower Frances Haugen tells U.S. senators."
-    publishedDateTime: 2021-10-05T16:41:00Z
-    webUrl: "https://www.commondreams.org/news/2021/10/05/scathing-senate-testimony-whistleblower-warns-facebook-threat-children-and-democracy"
+  - title: "From Tesla to even Cabrini, artificial intelligence is the future"
+    excerpt: "It’s been about a month since Tesla unveiled their version of a humanoid robot at their press event, Tesla AI Day. Elon Musk displayed the image of the 5’8”, 125 pound prototype that is designed to “eliminate boring,"
+    publishedDateTime: 2021-10-02T19:39:00Z
+    webUrl: "https://www.theloquitur.com/from-tesla-to-even-cabrini-artificial-intelligence-is-the-future/"
     type: article
     provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 13
+      name: Theloquitur.com
+      domain: theloquitur.com
+    quality: 56
     images:
-      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-10/Frances-Haugen-Getty-3600.jpg?h=ae7bd2d1&itok=qKZwWf8n"
-        width: 1200
-        height: 630
+      - url: "https://www.theloquitur.com/wp-content/uploads/2021/09/IMG-0266-400x404.jpg"
+        width: 400
+        height: 404
+        isCached: true
+  - title: "Gen Z Responds, Demands More From Facebook and Big Socials"
+    excerpt: "Digital natives, tired of being the guinea pig for big social media companies, are taking their message to the global stage at the Youth 4 Youth iSummit , October 14-17th, 2021. Hosted by LookUp.live ,"
+    publishedDateTime: 2021-10-01T04:41:00Z
+    webUrl: "https://menafn.com/1102897419/Gen-Z-Responds-Demands-More-From-Facebook-and-Big-Socials"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2021-09/30/ND_1d11eimage_story.png"
+        width: 1070
+        height: 553
         isCached: true
 
 secured: "RoyjK2q8uWtR8rHh3517UEJbomFCjo5skVpf719/drt21dq6ScDaui4g/w32FUkyKPmnRcvPkzkNgTFBqmitJEQOpD0eDRkPryNKKFBKlcSxE9zKCRdT17Ke2+A7yH9zn1RuqSLQCt8z4xyEcAAnQfZWDekD7QJ34I6DCnKaYn6H/63HC/fTsEB8ryNJuETkTy2EZBdPnTW0Q55gEWe5/QyIFz8yQLT47ti006xtDjvtmwJdUv4tIGLakqxlso99SlvypAEQwn3oDR/oJOZtZ9/ff/OQZazuDaKJM/72mLMO8Rs0/yWjMSgl5RXiBMIHJeG7PiIddG0/dzlmyuUUkgAZF/Z6freUrX4S7XN6t5k=;OpIfJ4cvLDikvtTkhzH2cg=="

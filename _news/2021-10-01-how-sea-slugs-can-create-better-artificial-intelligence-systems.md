@@ -25,22 +25,6 @@ images:
     height: 350
     isCached: true
 
-related:
-  - title: "How AI Can Amplify Human Creativity And Drive Great Customer Experience"
-    excerpt: "Jeremy Wood is the Head of Product Marketing at Adobe APAC. In this piece, he discusses the role of AI in promoting creativity and improving customer experience."
-    publishedDateTime: 2021-10-01T01:32:00Z
-    webUrl: "https://www.bandt.com.au/how-ai-can-amplify-human-creativity-and-drive-great-customer-experience/"
-    type: article
-    provider:
-      name: B and T
-      domain: bandt.com.au
-    quality: 39
-    images:
-      - url: "https://www.bandt.com.au/information/uploads/2021/08/iStock-1249324925.jpg"
-        width: 1254
-        height: 836
-        isCached: true
-
 secured: "mbrST5e1xXdbZPjCvmYArsDe4elOolCJ45NOdJa5/yofA1clttWdyl4FBggl35ndA8JZ3ehSe3B91kJHxMK6ehrPVAlhJXI58c6rfCxpl0omElW0lj3YYkueyGl54pGBvxeLAE20rIsi3BJOod1Mh0tYF46wvInijj/77LUi6v9bw+GolGA6rOGgNW6VQUKA9pWmT/Fze3eE9SxTR+aubfcXjz5xJfyMj9/L657IGMJzPEH6hfSKsDM1btCpjlcXLpklh+B06Wl1ZizKLkiTaiK1SjwYaW6W1d7UCmVazV4dQ8VQwEjmskF+X2xSkf/kQRN+jlZhKYRFx3rhw0wIYP3pn8qbYEMcSliJD5+62sE=;4QdD0ri9fmMnXgK8DMyIEw=="
 ---
 

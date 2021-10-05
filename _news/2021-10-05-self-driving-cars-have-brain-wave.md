@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 743
         isCached: true
+  - title: "Apple Seeking ‘Radar Test Engineer’ for its Self-Driving Car Project"
+    excerpt: "According to a new job listing, Apple is looking for a Radar Test Engineer for its self-driving car project, reaffirming the company’s commitment towards its autonomous, electric vehicle efforts. “Apple SPG is looking for a Radar Test Engineer to join our Sensors team,"
+    publishedDateTime: 2021-10-05T18:51:00Z
+    webUrl: "https://www.iphoneincanada.ca/news/apple-seeking-radar-test-engineer/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 24
+    images:
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/10/apple-car.jpg"
+        width: 640
+        height: 335
+        isCached: true
 
 secured: "3EGxNs9OFm09b6Ugl50yhb/y18+poVpTHNsvMYtGmnheLDe6vGNrusDSJa/2YGovuaztOtMsWDrs2l/wX6xXMpCYWROp1Bt4L33SjiDvD9Lg50iBGmqn7Piw7dqDz7cWFaPbf16GlMCP5YxrwrAd5urTBIiq6tuVDbGKlrdIri4WGjr5BxbbxYv2+HGfseAhwo+MOHKHCV1BTkxILyPOzy7L6QPhHZw2DBl6QuDvrSafk9/F4czYm9dodq4ohg438COd0lpdySS+BE3WNudLccv6zQnP3OpRSZcxiZKuJ6hN/yVcF8rar4jPJEVDwAr+yG4p8TtKtIx4pNAyy1tGDQ7MCXOtHqUiM/d3HAotQPC53aABsmPZWI2G8KUgj4nRJM2GBBlx895KD/iopIqJWNWho/oH+XUE4B9wyyDVr63/mggQD3I30J1qwOY8ZBHJyI79WLd7rmQ2bGq1cP7RPFYQyMTcnC8fhRCINWWDu6ueZ3Gp1bd3mmP0xQDwTvUX2kN7JwvTUWuQQxNQlfOTkw==;izi/RGlhKLCcOA8rJVGCvQ=="
 ---

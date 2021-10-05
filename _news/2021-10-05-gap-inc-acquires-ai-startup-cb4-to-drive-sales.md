@@ -9,7 +9,7 @@ ampWebUrl: "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-start
 cdnAmpWebUrl: "https://fashionunited-com.cdn.ampproject.org/c/s/fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Global acquires AI text-to-audio startup Remixd"
+    excerpt: "UK-based Global has grabbed Remixd, a tech startup specializing in turning text to audio. Remixd technology is geared to text publishers wishing to enter the audio and audio advertising fields. Presumably the Remixd function,"
+    publishedDateTime: 2021-10-05T19:04:00Z
+    webUrl: "https://rainnews.com/global-acquires-ai-text-to-audio-startup-remixd/"
+    type: article
+    provider:
+      name: Radio & Internet News
+      domain: rainnews.com
+    quality: 37
+    images:
+      - url: "https://rainnews.com/wp-content/uploads/2018/07/RAINdailydigestslides.gif"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Thales to Spark Innovation among Five AI Startups with Season 3 of"
     excerpt: "Thales has launched Season 3 of [email protected], a business accelerator designed to help artificial-intelligence focused startups tackle real-world problems. Thales selected fiv"
     publishedDateTime: 2021-10-01T03:20:00Z
@@ -113,6 +127,6 @@ related:
       domain: tmcnet.com
     quality: 17
 
-secured: "3oe6g1te1tSYxuIbZPDCGKqcGmxzcXyQ9UBMlu9UaWvvqTEdNvsH2bhVL0V6+u1ziuDxiJUm+UM8OH9AwOtqi0m/d4Nk6D0UMLUiDgXJzGwHf5jlmZLN+AapNGHdPe/MSqUk0n9aTgFgwuP7BdfULb8aEz3xnk03xZX2ytxvPBOT/B5AqmG8uABYL7Saz6Uk2dkvlbjW5T+g5ZTLnKVS8WbZrLHRkm8uZCzGqGABFLIi2P5/lPnNfQLGU3GNWHpzzqiQHNuUbkr4B4fx8WNCasQvVywGqWh+ybqyBs55cBIr2y4xDSBo3X2EB/irWcfAppwkL82DF1O9e/X6p51h9z4Gkt9cgCByBwkGblFKY1Q=;EHbgNNtHXVlBHw/n2H57rA=="
+secured: "otF3HlWP0uHSSCsyed0wqS2TtQCNU+r9yDpQ7yfWaw6Hhx7LQXohDaYc7CHVBvUWoBtzamD5IjqtwCf7KO+LnLAUP2C+S5O+PqR62YTlGncB8V7W/3Z3iN9qchGw9V7u7uX2tQGjv7YKyDOcxbR/pNo/5E/2UWJVMZK/8bu52U37w46mO70IJOFjZRMF9oXkPkGVjt+NLfspcibx9AjTSNz9Iaic+79XcUO30TcoofYsTQ3hl+ypQHy7DDO4MbYs1ixodBvMgA5kBRMej1JcjFV9T0EjFWy6rH/uKQRHuKMjNlnz0ZIaFHGyvi3MCuRDttz1VJyu6q+Vp5DolTFjfwpNGM70fKDPGeszXPbYoGM4PRIUQZGGj7j3MXQKVbBFJv6M5nITP5FKAsMpULWrV+dSCb50wBpx1bAAqgePfX/w7vgFuFK7+DKJKBBGxM/+rtZl20QULIZ+XdS4Gfag3XyfH8j3DCFacQIa+EFeh7ZfZaQOka+PfXVIEjNHIGqWNtXnf9AGwo6WuiDwF/bh3A==;QDLK++7kUA18WUixuJqKvg=="
 ---
 

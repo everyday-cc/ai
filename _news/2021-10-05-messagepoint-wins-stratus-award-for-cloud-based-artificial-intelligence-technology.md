@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-05T15:54:00Z
 originalUrl: "https://www.cuinsight.com/press-release/messagepoint-wins-stratus-award-for-cloud-based-artificial-intelligence-technology"
 webUrl: "https://www.cuinsight.com/press-release/messagepoint-wins-stratus-award-for-cloud-based-artificial-intelligence-technology"
 type: article
-quality: 31
-heat: 31
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"

@@ -93,6 +93,20 @@ related:
         width: 770
         height: 364
         isCached: true
+  - title: "Global acquires AI text-to-audio startup Remixd"
+    excerpt: "UK-based Global has grabbed Remixd, a tech startup specializing in turning text to audio. Remixd technology is geared to text publishers wishing to enter the audio and audio advertising fields. Presumably the Remixd function,"
+    publishedDateTime: 2021-10-05T19:04:00Z
+    webUrl: "https://rainnews.com/global-acquires-ai-text-to-audio-startup-remixd/"
+    type: article
+    provider:
+      name: Radio & Internet News
+      domain: rainnews.com
+    quality: 37
+    images:
+      - url: "https://rainnews.com/wp-content/uploads/2018/07/RAINdailydigestslides.gif"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Thales to Spark Innovation among Five AI Startups with Season 3 of"
     excerpt: "Thales has launched Season 3 of [email protected], a business accelerator designed to help artificial-intelligence focused startups tackle real-world problems. Thales selected fiv"
     publishedDateTime: 2021-10-01T03:20:00Z
@@ -112,6 +126,6 @@ related:
       domain: tmcnet.com
     quality: 17
 
-secured: "vUXT9HF4nQQFsjkxSNuEmXANfK3zG+R9Z7gggCRL12k2TNG9V0ZDNzpVQbSezkK2wpTOcS7aGyzHizyUWQ6glejQrOb2qtwXibk3bTQqSpYczPLVyQfyAz+cJjdytFntH9fBFkwPp1QQJmFdyL9l96hLifLXNbE7uvwznEL7/sMpcn9vQioA5dheGOiHmJIRfZtO1oGZmPSUOq0OIBMcc0e0sE2aehcBY8SWw2Z/fSu67IDSamS3L0sQ/gWUNHqpmIk/WXiXEF4Q8Uo4Jg6xVAUeTD5iRmda2nq7+LVP69C/MSc1ltP0H8vUl0pbnSI4Dkv6uKG5S92QuYaxw9iJ2qBoX5KnfT3PmNbwr+3R+dc=;L/Z55xyAHMep5/EUAYK+jA=="
+secured: "66m/A0VOkh8/gsof6/RfV77Mwg5pwjtmJkr8Ji4JfWZgkudiMK8hRFZOd5/+EkU1Q1t+4QOigRSQrsH///cXhukcmt8+2VkarcSKsT6m/4wTqMeYtoYLkFvKyEuR5TkuiA81hBAjhsxCBGr4P0ZOscBqNKHgxogtG1dnZd2aa/B5xKTzVLutBgY86jn07fOo0UYTNbAb23LW8QDG4UdlhbXGUPCDIYcGlBgSu5b4OoTLoyQMBPQastnP9gHHwB6LmDAJ/TfgX5GINiNJ6Kdf1tgLFFfx1osuRf7QtxoPFvsBkBdK2SES+O6R3RhrynUV2YHMQTIcPZrab3cPnZjP2sSDNzWuMoqt2TJ31xKcyBrVpvjRS+ZMd9lZVubt4EK043F/1cVisu15pNKlHKJgFLaOrdq6Mf+EE4G+kXlQdxz2lDGfNU5MyHm1HOyUvySl+UQZ7TfV0JpgTBMGx2qxM13DaXpNBizWFP5uUcLl6gUAAZDNio4GkkbQ+4Mn4Ku3qSeZjHRGnZkaXy9MdvyMnw==;HDKXtBTMjUP0FbxAf8FjXA=="
 ---
 

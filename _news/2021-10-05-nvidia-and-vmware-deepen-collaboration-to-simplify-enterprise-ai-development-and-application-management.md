@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 589
         isCached: true
+  - title: "VMware Extends Tanzu Support for Nvidia AI Enterprise"
+    excerpt: "Sphere with Tanzu has been upgraded for developers of AI applications, now including the Kubernetes operater, VMware and Nvidia announced on the first day of VMWorld."
+    publishedDateTime: 2021-10-05T19:34:00Z
+    webUrl: "https://thenewstack.io/vmware-extends-tanzu-support-for-nvidia-ai-enterprise/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 39
+    images:
+      - url: "https://cdn.thenewstack.io/media/2021/10/4b0d619d-screen-shot-2021-10-05-at-17.44.24.png"
+        width: 1242
+        height: 631
+        isCached: true
   - title: "NVTC partners with NVIDIA Deep Learning Institute to provide online AI courses"
     excerpt: "The Nasser Artificial Intelligence Research and Development Centre at the Nasser Vocational Training Centre (NVTC) and the NVIDIA Deep Learning Institute have started a collaboration, whereby students in Kingdom of Bahrain benefit from NVIDIA’s online courses in various areas of artificial intelligence (AI)."
     publishedDateTime: 2021-10-02T15:33:00Z

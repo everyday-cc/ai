@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/04/those-unassuming-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/04/those-unassuming-exurbs-that-are-just-beyond-the-suburbs-are-aiming-to-grow-due-to-ai-self-driving-cars/amp/"
 type: article
 quality: 73
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://www.theglobeandmail.com/resizer/faugYP_x-od_Y4GHm0tAI5URoUw=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/TJ3SH5VPTRDPHN2ZWQPGFIUINM.JPG"
         width: 1200
         height: 743
+        isCached: true
+  - title: "Apple Seeking ‘Radar Test Engineer’ for its Self-Driving Car Project"
+    excerpt: "According to a new job listing, Apple is looking for a Radar Test Engineer for its self-driving car project, reaffirming the company’s commitment towards its autonomous, electric vehicle efforts. “Apple SPG is looking for a Radar Test Engineer to join our Sensors team,"
+    publishedDateTime: 2021-10-05T18:51:00Z
+    webUrl: "https://www.iphoneincanada.ca/news/apple-seeking-radar-test-engineer/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 24
+    images:
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/10/apple-car.jpg"
+        width: 640
+        height: 335
         isCached: true
 
 secured: "m6WOFzFb7SQ/e8Cx6YZ04z2CCu4vPIgIxifYAGi6u+NDd77iIIq3MtOInaTM1Js+tWhZQId1DiSMtRP5TUsAqr989yxL5A5N42Itnd1GUBjw6mY6Uhy76miqhdQm96MtpeEWnGEDMQbIfPSlFaFLOjYOFfuOs9A5SFjCB8Y1tOod0RC+uC+eU+93SjVyHUFWehaHlFwC5kevYUS00J/sEZ6n2ebdGAq+3aOqW2NF+0u9MYFdEc73wDnCaBktjHkgtOO2oWyyZ22rr2wrmkO2Ay7+0jxXJNTm2+kSigZ7LyXY6C7sDOA2r96ED7QJ+SJw8lPPu73uPd1tQRRAQ3+iJqMJWe9dDu9WpiBQssrjXRPPF/ACrNP4h143bSH7Dni7gXWhazx207P5zli91S0cVC3MOyBW2LIqESYkbXJBq58uzaHABr5sXiBCcJEZFwT1njeUSRZv6h9S8LZTepHmT2gPDoDyhTKPecFPeAoLgNnjn89jqK7W4y30b8NAnXG/dg3CuAkItR3A6ZpmFpmsyA==;Dvex9suPdIO2wF4qO8qahg=="

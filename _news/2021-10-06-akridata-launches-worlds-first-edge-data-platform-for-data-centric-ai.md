@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Akridata™ Launches World's First Edge Data Platform for Data-Centric AI"
-excerpt: "Akridata™ Launches World's First Edge Data Platform for Data-Centric AI. SILICON VALLEY, Calif., Oct. 5, 2021 /PRNewswire/ -- Akridata, a category-maker and pioneer in Data-Cent"
-publishedDateTime: 2021-10-05T17:50:00Z
-originalUrl: "https://www.mobilitytechzone.com/lte/news/2021/10/05/9463296.htm"
-webUrl: "https://www.mobilitytechzone.com/lte/news/2021/10/05/9463296.htm"
+title: "Akridata™ Launches World’s First Edge Data Platform for Data-Centric AI"
+excerpt: "Akridata, a category-maker and pioneer in Data-Centric AI, today announced the launch of the Akridata Edge Data Platform™, which creates and manages smart data pipelines and AI workflows spanning Edge-Core-Cloud resources – an industry first."
+publishedDateTime: 2021-10-05T18:05:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/science-technology-business-4c8ea10dce1301dbf506069ae700e519"
+webUrl: "https://apnews.com/press-release/pr-newswire/science-technology-business-4c8ea10dce1301dbf506069ae700e519"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Akridatatm Launches World's First Edge Data Platform for Data-Centric AI"
@@ -43,6 +49,6 @@ related:
       domain: insidehpc.com
     quality: 17
 
-secured: "Cu7EGgOwioXCdi+b/GsvUfGF6H1bWeHkvYEtfEzsSU7/7MiuES5pdhTsewcrVu1ipkooai51KI1ayMTSaOi92OsOlKFN3nHjwp/Qf8EAYmkeqDgSfoS6lu4JnN5aOO6rKNeZLIx+SioHIpF2zUAW7INZAazKMkqtxZlhjSZqZy30ExosDJKeLgoTsqM7O1LHrTnt4afteKhMLvthct02sE2m8zaXlkMhIEPv20kI/Ish2xOEprPthQdkV9yagUOONBXbDH+Ut0UsIi+EURNkmq4GAwuNuwEe1KzFSgMcLwo6scU2cIedo3hjixb0OYFbIhkn/oEcxAzlMrAMfcjvD2ocnF8jLt/atIhvJHDwgdA=;H1RkwJxcLtZEyKPKqV+u7A=="
+secured: "tmdOgNxtfmSTWKMm85fVVf6V4wa3L6vTwXOoRzdcNeEWgo8J9oCIcZFnKwDoCk6M1FNmJ56H2Du+TEzWU6X2jmJhENgp/C43QRz7zYV51oCFUMN77h1RH2xGlX8c5YyGqrM0fSctx/cBniPfXASs0nwMD0/KHWBWLhlEZ2zi3E0TKJM5r6fqJEG5BKMUE/DO3x/ZM7Wdf34s6qjn7xvUVN2lKBdpyUZ5+XCAhVs3POl+4W00nZmA5zcnMa44TGbloGpIOSqVKxgJlfzE/MedD4yhn5gNzVTIWjYebncCOzgKYFqfWkBKkZ4Chkr2CAEyZWSEwRo1PRck313mp3Nt0nsOcgFh7BE6mNvHe1gzwSM=;zXYBM4M+omIexC9VtLtlWg=="
 ---
 

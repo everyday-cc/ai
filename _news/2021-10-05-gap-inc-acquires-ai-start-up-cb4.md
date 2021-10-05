@@ -93,6 +93,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Global acquires AI text-to-audio startup Remixd"
+    excerpt: "UK-based Global has grabbed Remixd, a tech startup specializing in turning text to audio. Remixd technology is geared to text publishers wishing to enter the audio and audio advertising fields. Presumably the Remixd function,"
+    publishedDateTime: 2021-10-05T19:04:00Z
+    webUrl: "https://rainnews.com/global-acquires-ai-text-to-audio-startup-remixd/"
+    type: article
+    provider:
+      name: Radio & Internet News
+      domain: rainnews.com
+    quality: 37
+    images:
+      - url: "https://rainnews.com/wp-content/uploads/2018/07/RAINdailydigestslides.gif"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Thales to Spark Innovation among Five AI Startups with Season 3 of"
     excerpt: "Thales has launched Season 3 of [email protected], a business accelerator designed to help artificial-intelligence focused startups tackle real-world problems. Thales selected fiv"
     publishedDateTime: 2021-10-01T03:20:00Z
