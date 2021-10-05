@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Acclarent Launches First ENT Navigation Technology Powered by Artificial Intelligence"
-    excerpt: "Acclarent, Inc., part of the Johnson & Johnson Medical Devices Companies,* and a leader in developing minimally-invasive Ear, Nose & Throat (ENT) technologies,"
-    publishedDateTime: 2021-09-30T23:03:00Z
-    webUrl: "https://www.fltimes.com/business/national/acclarent-launches-first-ent-navigation-technology-powered-by-artificial-intelligence/article_00a57f13-c513-5218-a453-f1d972f3adc3.html"
-    type: article
-    provider:
-      name: Finger Lakes Times
-      domain: fltimes.com
-    quality: 32
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/eedition/7/36/736ef3cb-73c0-5c26-b75d-da1f38ad27d2/61579b670bd07.preview-300.jpg?resize=300%2C600"
-        width: 300
-        height: 600
-        isCached: true
   - title: "The Future is Now: How AI in Diagnostic Imaging is Transforming Medical Applications"
     excerpt: "The Use of AI in Diagnostic Imaging is Booming in Healthcare Industry” Download the most up-to-date research study and application @  AI in diagnostic imaging is gaining prominence and quickly growing industry close to what's to come."
     publishedDateTime: 2021-10-01T19:22:00Z

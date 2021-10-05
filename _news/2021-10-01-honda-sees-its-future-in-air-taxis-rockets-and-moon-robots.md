@@ -55,6 +55,20 @@ related:
         width: 752
         height: 270
         isCached: true
+  - title: "Forget about cars: Honda wants flying vehicles, avatar robots, and rockets"
+    excerpt: "Honda R&D Co., the company’s innovations arm, will be leading the efforts to produce an eVTOL (electric vertical take-off and landing) aircraft, an avatar robot, and space tech. First up, Honda’s foray into an entirely new"
+    publishedDateTime: 2021-10-05T13:55:00Z
+    webUrl: "https://thenextweb.com/news/forget-about-cars-honda-wants-flying-vehicles-avatar-robots-rockets-lunar-tech"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FUntitled-design-16-2.jpg&signature=43f2a28c8d2f3abde4fe4d01c91fa1f9"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "rdfP65AXf0wqdTKXIYKoOga/R/3YPyXvVVTlXLnp6VS1rcF7N8grXsf45+WjLaPwrfJXnpnTY6DB9bRwlB0Sr0osWbX8yQ+ydWpg9xrmuB7zMwH4bhtyXUPSAPP1j8F1qb6n5/VL3NrKvyBwYwtyTyjtjrmbhpq/c9/Nr01/8LIHGXZb2snZLBU5ecc9f4FNzKn/FKxplheQG3P82OWx6vcl7q9iE5vqoMSgnjq2i+FVPVJ6oUuxvRFmMmDIoUj8wqveuHbeFQsKTlAyAH7OPOyvDqQZQ/QFrHE+STnjrRsHXwkT26ZSFeC0KnEHrIG+f8nM84V9d0G+vKKvGJuBFX+6X5bRg4/MGpkzSVuoApZlaHTBRVc/jD1IcKODqPi9+x66wOfCxKhNFmgmXZnzRI10SD3qcy30BHUaVYtGvG8TGygTiqnTr28pHsukDBNR+Dhyo6R3rWWFo1mXx+kVuA3a88chDQE3LA/0d5HMwC9zYdQaQnCixnH9xTHLk2DjPOAVuQ6inVE6w3TkOkgTag==;TP3YRq40ESPs0ClEesSpYg=="
 ---

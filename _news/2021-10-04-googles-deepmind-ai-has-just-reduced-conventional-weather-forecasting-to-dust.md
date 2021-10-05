@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/science/25102/googles-deepmind-ai-has-just-r
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/science/25102/googles-deepmind-ai-has-just-reduced-conventional-weather-forecasting-to-dust?amp=1"
 type: article
 quality: 100
-heat: 190
+heat: 180
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "http://www.baystreet.ca/images/articlegroups/original/17/private/google-headquarters-sign.jpg"
         width: 1500
         height: 1000
-        isCached: true
-  - title: "Google’s DeepMind faces suit over access to NHS patient records"
-    excerpt: "London-based firm Mishcon de Reya said it filed a claim in the U.K.’s High Court, alleging that Google’s access of 1.6 million people’s medical records broke privacy rules. NHS’ Royal Free London had struck an agreement with DeepMind in 2015 to build a system for alerting clinicians."
-    publishedDateTime: 2021-09-30T21:15:00Z
-    webUrl: "https://medcitynews.com/2021/09/googles-deepmind-faces-suit-over-access-to-nhs-patient-records/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 39
-    images:
-      - url: "https://medcitynews.com/uploads/2017/11/GettyImages-483265099-300x229.jpg"
-        width: 300
-        height: 229
         isCached: true
   - title: "Google’s DeepMind turns first profit as revenues soar"
     excerpt: "DeepMind, the London artificial intelligence firm owned by Google, turned its first profit last year and saw revenues soar."

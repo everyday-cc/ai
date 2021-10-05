@@ -2,17 +2,17 @@
 category: news
 title: "India artificial intelligence market to reach $7.8 bn by 2025"
 excerpt: "The Artificial Intelligence (AI) market in India is set to reach $7.8 billion by 2025 -- covering hardware, software and services markets -- and growing at a CAGR (compound annual growth rate) of 20.2 per cent,"
-publishedDateTime: 2021-10-05T10:11:00Z
-originalUrl: "https://www.sify.com/news/india-artificial-intelligence-market-to-reach-78-bn-by-2025-news-education-vkfkl9bdbjfaa.html"
-webUrl: "https://www.sify.com/news/india-artificial-intelligence-market-to-reach-78-bn-by-2025-news-education-vkfkl9bdbjfaa.html"
+publishedDateTime: 2021-10-05T15:55:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Science/20211005/3831815.html"
+webUrl: "https://news.webindia123.com/news/Articles/Science/20211005/3831815.html"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI
@@ -33,6 +33,22 @@ related:
       - url: "https://images.financialexpress.com/2021/10/Artificial-intelligence.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Artificial intelligence market in India to reach $7.8 billion by 2025: IDC"
+    excerpt: "The artificial intelligence (AI) market in India is expected to grow at a five-year compound annual growth rate (CAGR) of 20.2 per cent and touch USD 7.8 billion in total revenues by 2025, according to research firm IDC."
+    publishedDateTime: 2021-10-05T15:27:00Z
+    webUrl: "https://www.orissapost.com/artificial-intelligence-market-in-india-to-reach-7-8-billion-by-2025-idc/"
+    ampWebUrl: "https://www.orissapost.com/artificial-intelligence-market-in-india-to-reach-7-8-billion-by-2025-idc/"
+    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/artificial-intelligence-market-in-india-to-reach-7-8-billion-by-2025-idc/"
+    type: article
+    provider:
+      name: orissapost.com
+      domain: orissapost.com
+    quality: 55
+    images:
+      - url: "https://www.orissapost.com/wp-content/uploads/2018/11/artificial-intelligence-AI-_1854.jpg"
+        width: 500
+        height: 294
         isCached: true
   - title: "India artificial intelligence market to reach USD 7.8 billion by 2025: IDC"
     excerpt: "The businesses in India will accelerate the adoption of both AI-centric and AI non-centric applications for the next five years, IDC said in a statement."
@@ -76,6 +92,6 @@ related:
         height: 381
         isCached: true
 
-secured: "9ZDv/tPPsARsaUQe/blYRjtiCmqa6rmx76zIrd/FQKyTN/TOa4pQ/1Mjwnk99qY8OM9VJeO0Qi5AeyhZ8qkI83zSTSucN8BN4U15x8A07ygViasqta36rqJSaEXN5ODYyQ/toycr6dvIsXToWW/RTw7YDMQ8utsy4zruYzaMEGPSyYA8VoQXsl+t6ZhRqr5D7RIP/pN2lbipz8o426fBKY3GUliVPnIhIFT9PE/vo0pXaoi1n2y2bPhoQcdlbeDVPxDUW6zBEgHRix4SGgINTmFxTCnPqAEZNUzi6GAS5fVtuYc99jIKyHrtrZJ8osGHwu7ODtt0Sto/axrZgOo3uisJjwPBXa9Ehe3619iyNXY=;VqxKfpin4uDI6t/QITjJHg=="
+secured: "v7bagKbCzDmQLIZixKdj7HBR5k4sTxsYhdxM6GGApTT+xh3YFsxKaAMoEHehA15YPw82saEVKSJXwGtN9u9FBv7E70RjRhnLqlyCrhe3kenK6TCLDptGnl8Srkx1ipwb1rrFf9pysmMNU1XyYKH5tOfaoErNCNxl9nPag5dXMJiE0HBInzBRGgec7mu6yuuE6aPBniG+m+9Os6QI3p807z8m/tZeR9ShVcNnNpsmCxwgeqhX0xAwZ0Q5wXGCeyiM6ExUb5QDzm7paCnaj2FuSj70qHgsrQ1h5lr9WPnxYD0BTP39kzCQMm1PWIVLnFOB+WxZ2qxzfLs04RjCFjTVhZiVMhhEfb1mmgWCPHgUypA=;as1oeI7oZvwv2mvrYKBuvA=="
 ---
 

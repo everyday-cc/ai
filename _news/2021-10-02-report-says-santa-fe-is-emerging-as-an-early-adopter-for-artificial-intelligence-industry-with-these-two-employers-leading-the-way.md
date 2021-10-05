@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/albuquerque/inno/stories/news/2021/10/
 webUrl: "https://www.bizjournals.com/albuquerque/inno/stories/news/2021/10/01/report-says-santa-fe-emerges-as-early-ai-adopter.html"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Boulder emerging as 'early adopter' for artificial intelligence industry, says report"
+    excerpt: "Boulder is one of the smaller metro areas with higher-than-average AI industry activity included in the report."
+    publishedDateTime: 2021-10-05T13:58:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2021/10/05/report-says-boulder-emerges-as-early-ai-adopter.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 12
 
 secured: "WPUdXAlYLhOgwmZGeoxoIX3cigMzgodluiD/S2/TTlCSi4aUZ7BakInvQUYybvu0VehOsZyQKxKlfbsCt0MyGW7ho7e6MfjCZm9e4ldttl7ewgn89PH6rb4sv1wXeQtJaKry3ggftAKlpEZwznRv0vo80MnOQHsVYBE83Fy5po2wTWjwNeGwOfhZ/v5/RprO22hxFNWWW/L6mje2exN8v4HILSTakRvX4S6P4pZanYqBi0M8ZS1ldP/+MXJ6HdhJZzGQLYflnpovscsqaMWvRJHQCuAJiEazpcGcjImCDzGhN2fsasYNH/GxyLJZGe4y763aZ7W7nE118R4UoWZdcUcLqROM5JITdick/pCxkP6toEutVAzlbMsLt/YIsLeFvRbZLKpF4l2Q5KbvGpQHYEx9f8XkRp6Yzg46WImfJQljTkLq+RV+Vm69bPcbg2CiK8qRFsgD8Tgr/WPUZ8D0KdNMnuyPb+bPsZgAudoaR2AGYQ836km8dV/KSpRayXcLPrIqcR3HmCs5qPIzaqRrMg==;gnSBeSG/oPerjJg0SB/ogQ=="
 ---

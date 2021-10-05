@@ -9,7 +9,7 @@ ampWebUrl: "https://wonderfulengineering.com/want-to-join-the-tesla-full-self-dr
 cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/want-to-join-the-tesla-full-self-driving-beta-youll-have-to-prove-youre-a-good-driver-first/amp/"
 type: article
 quality: 62
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -73,15 +73,6 @@ related:
         width: 576
         height: 324
         isCached: true
-  - title: "Tesla’s ‘Full Self-Driving’ Could be Days Away. Here’s What You Need to Know"
-    excerpt: "A wider group of Tesla owners who paid up to $10,000 for what the company calls its “full self-driving” software can now ask the automaker for access to a test version of the feature. But they’ll first have to show"
-    publishedDateTime: 2021-09-30T21:19:00Z
-    webUrl: "https://www.glassbytes.com/2021/09/teslas-full-self-driving-could-be-days-away-heres-what-you-need-to-know/"
-    type: article
-    provider:
-      name: South Carolina Governor
-      domain: glassbytes.com
-    quality: 16
 
 secured: "WWtKHCGogD/M7YT/v54xwyQGh2/6uTkWeja58fD0TPlIC1uHA7Pvr935WkmGUmaTaZSjrP2OQRb89wPQVe6i3p6gHMpZ/+mUjX/J+P4DLvhZfjinSKuNy7CcfVQhDLjfgBA0sMent3UsYPinu4kiNj/NezS5eX6ucU29tCU43H88VIeTMNPK10zV3PzAaiiz23nQhK2SlPi3ER/2NRfmxizt2mpIjJ7HwgA0gwHZ6DdDcHfDs26kSVsxzuH/masUv4QwcuX5Y5TOWCoUI6YAufhjbV95cVnPKgj2hESaFFfx/A0ytoJZNKA/dvzX+ASXlsI8gSfDnM1TUWy1kDi0SxMnJdJBYQqFCLXf4DgbRXLfMZama6o+76geVutGZzPXXWzPi4mTIl0+/uG67QOXx16kAqHaOPyt1Z/+2zuxZZvk0udMlC8HqF3eBxdOxS/kljE05h8tfUjrGptT+9hghZyW1bFWnF+pcZC/hi1wV0tz59fG7jQO7GPfanb5M1KSXzhYBqkwHPvPXhpFaFh8WA==;T+VhowJFQrMV7ob9Iisv/w=="
 ---

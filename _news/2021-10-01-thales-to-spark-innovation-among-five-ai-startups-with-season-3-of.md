@@ -45,6 +45,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
+  - title: "Gap buys artificial intelligence start-up Context-Based 4 Casting"
+    excerpt: "SoQ錫濛譙 / Flickr. US-based lifestyle retailer Gap has purchased artificial intelligence (AI) start-up Context-Based 4 Casting (CB4) for an undisclosed sum. Based in New York, CB4 uses advanced AI and machine learning tools to make predictive analytics and demand sensing to support sales and streamline the customer experience."
+    publishedDateTime: 2021-10-05T15:25:00Z
+    webUrl: "https://www.retail-insight-network.com/news/gap-cb4-acquisition/"
+    type: article
+    provider:
+      name: Verdict Retail
+      domain: retail-insight-network.com
+    quality: 37
+    images:
+      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/10/Gap.jpg"
+        width: 799
+        height: 532
+        isCached: true
   - title: "Gap Inc acquires AI start-up CB4"
     excerpt: "Gap Inc has acquired AI start-up Context-Based 4 Casting Ltd (CB4) that uses machine learning tools to transform retail operations."
     publishedDateTime: 2021-10-05T11:33:00Z
@@ -58,6 +72,20 @@ related:
       - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/10/Gap-Specialty-White-City-Store-Exterior.jpg"
         width: 1773
         height: 1182
+        isCached: true
+  - title: "Gap Inc. acquires artificial intelligence startup CB4"
+    excerpt: "As part of ongoing tech efforts, Gap Inc. on Monday announced that it acquired Context-Based 4 Casting for an undisclosed amount. CB4 is a retail technology startup th"
+    publishedDateTime: 2021-10-05T15:17:00Z
+    webUrl: "https://www.retaildive.com/news/gap-inc-acquires-artificial-intelligence-startup-cb4/607676/"
+    type: article
+    provider:
+      name: Retail Dive
+      domain: retaildive.com
+    quality: 37
+    images:
+      - url: "https://www.retaildive.com/user_media/cache/f4/1b/f41ba6ee5e2df1fa0b31acbcd47305d2.jpg"
+        width: 770
+        height: 364
         isCached: true
   - title: "Gap Inc. Acquires AI Startup CB4"
     excerpt: "Gap Inc. (NYSE: GPS) has acquired the New York and Tel Aviv based start-up Context-Based 4 Casting Ltd. that uses cutting-edge AI and machine learning tools to transform retail op"

@@ -7,7 +7,7 @@ originalUrl: "https://www.theengineer.co.uk/ai-based-tool-improve-breast-cancer-
 webUrl: "https://www.theengineer.co.uk/ai-based-tool-improve-breast-cancer-diagnosis/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,40 @@ images:
     width: 940
     height: 529
     isCached: true
+
+related:
+  - title: "AI helps rule out cancer in dense breasts"
+    excerpt: "An automated system that uses artificial intelligence (AI) can quickly and accurately sift through breast MRIs in women with dense breasts to eliminate those without cancer, freeing up radiologists to focus on more complex cases,"
+    publishedDateTime: 2021-10-05T14:14:00Z
+    webUrl: "https://medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-helps-rule-out-canc.jpg"
+        width: 2400
+        height: 3747
+        isCached: true
+  - title: "Artificial Intelligence Can Quickly and Accurately Rule Out Cancer in Dense Breasts"
+    excerpt: "An automated system that uses artificial intelligence (AI) can quickly and accurately sift through breast MRIs in women with dense breasts to eliminate those without cancer, freeing up radiologists to focus on more complex cases,"
+    publishedDateTime: 2021-10-05T14:00:00Z
+    webUrl: "https://scitechdaily.com/artificial-intelligence-can-quickly-and-accurately-rule-out-cancer-in-dense-breasts/"
+    ampWebUrl: "https://scitechdaily.com/artificial-intelligence-can-quickly-and-accurately-rule-out-cancer-in-dense-breasts/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-can-quickly-and-accurately-rule-out-cancer-in-dense-breasts/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 51
+    images:
+      - url: "https://scitechdaily.com/images/AI-Cancer-in-Dense-Breasts-656x1024.jpg"
+        width: 656
+        height: 1024
+        isCached: true
 
 secured: "R+/UhZay5kUe3vJlJCerwE3aLzqvpVUw44mjTBlOaCADiM336z58mnI4rHkBp96bKLPHMe2dtbRElWUxVUq5zb7ZzSBqGNrs1MxPgczryzk+M209iU5CYPFz6uIwOt+oVMu7SpnQ27KsNq+DSh7CWOdHG4AE522Jz4ScGoOPO+/pknpDsFC1TyDfFxunjV5B3R6xm1yQqs2vdKPZDDVAtLduT5rUMrjZpRsv/i4WYFfzxvdDu3IZnahasmFuF+jbMZwOtpRNt3Xu1kExC23OiR+yXjZ7y6lmqsL/phDELA4/gD+niZPYVRLVutN+IEP/S8sTRuO907p2PHsWWQ4K/zAS0uRhMTdajw3R6p76igwuCvhMLCzTtFUxwqV/Qqb28bxy8KEfkwxftg/xsUZLacOikeBSMYKDvsEAPDKJGz93naOjgtnnMUohyXgK58oPlU7o1No6e566pIlBMXGgENtP8ZnULBaDbjFqtJ3SolWpuOIgMUjBY+XABlCRyz4ujZ/jpO3+MeRgZdW5adYiLA==;FwUnEbxzv1g4/TMHpYZqNg=="
 ---

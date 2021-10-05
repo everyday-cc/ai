@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/80112-2/amp/"
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/80112-2/amp/"
 type: article
 quality: 58
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -108,6 +108,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "TIBCO Accelerates Time-to-Insights with Revolutionary Enhancements to Analytics Portfolio"
+    excerpt: "TIBCO Software Inc., a global leader in enterprise data, empowers its customers to connect, unify, and confidently predict business outcomes, solving the world's most complex data-driven challenges. Today,"
+    publishedDateTime: 2021-10-01T00:07:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/204922/tibco-accelerates-time-to-insights-with/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
 
 secured: "L/WhT9rmf7q5qQKniG1zMi+K1T1yy9WSjOnTeP4rRFGuSEDH62c9uzZlmP6TxTKv1QlCP6lXzjW3iKbNLMSC6p4HVMxfjjX6+1M1Ts4mepmJbbgrlE1UGDT4EeVrz/Tqz75KAHgNy+F7T2gsLFdwm2GOW9bMCl2dQVJyOdC27WD7PXVNDQ7ogn/MFrLjVxs7YKKExpwXUEzQyWfNY6SvQs/m88a3sWW3YyYhJpdDYQZ7TyTeR10RW7RldSHGQHOEpn2ULizC9FRqwbR0ANesxfb6t7/MS00cGUWm2SHU0cnsQaemdATfqV2bSFmq7VAh2HXLd6sHmyCOT4kuSS1ky1t1uWbVNAp93jKwvldbcCTYf/igCFj3paesSXOMuKV1eAz0309CBxWjgxxG19HqWWe9MeJqXR1xQzQp2a6Pu33KeMIcmqWAJvuenHdIWsKjyQso79nNaAgjsS46Cf0/f96z4IuC0Gyt1kIyf0EzR0K0wkzo2QUP/Jq4M6ngfT77WuoeNKF1mgVEd1HbTr+x+g==;9ZmMh/d6fyL+tWqPHCsmIQ=="
 ---

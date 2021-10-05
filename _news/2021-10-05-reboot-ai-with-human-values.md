@@ -57,20 +57,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "The Infamous Trolley Problem At Large-Scale Sideswipes AI Autonomous Cars"
-    excerpt: "After a crash or collision, we ought to be able to do a full analysis of what decisions the AI driving system made during the incident."
-    publishedDateTime: 2021-09-30T21:25:00Z
-    webUrl: "https://www.aitrends.com/ai-insider/the-infamous-trolley-problem-at-large-scale-sideswipes-ai-autonomous-cars/"
-    type: article
-    provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 38
-    images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/09/10-1TrolleyTracks-2.jpeg"
-        width: 550
-        height: 366
-        isCached: true
 
 secured: "oyq7qhrSHxJ0KtVflGPIxxVvNYgt46dYdLPkSpC3ugbhUNTubXlvCkGKIx8sD0e0b73eVBqt1lzYT4sMgetq7kLFs2OVwGwv/J7B6z5+C1Q0CWVz7cDKAwh06zH7FVftEm+OtnukFrIDWeGdnnCNvWn3/n7Izl+L8kUXXCoFl1DMuV7yxH4fBccSbG/X1wYnzGB6wW05PpyFhgYj7BiD+wrGHF33Odc1SpyNE3GN4sJJ0rnZ8jY+KKWpoF1LMGr1K9XLPclSJ5wdnFkppxcBtDLklbc8gpyZQ1ktReN8azfHj3lOFxR+F82+sgX7D3RXMFV0+1XxjR9TBB0d2iP8ZeyAUr1s7o2rftroXiZJUZNKdtmYdqZ0fumtio5nqpDxb7UFmONlYBoM/ByfdnD0hUq5XRqioV3CHnj8BAL44H1sd3a8v3jO1FatHaI4EFQpPrtekGMYAOPN2PRcWzybu4n4bc36PWzw/tdltIPh3S3QsE26vo0Z5Cr+H9JZFSeV7Cgj5IeSRVPTPKOckW+l/g==;cklStH1vZHtpJG6CMnWbOA=="
 ---

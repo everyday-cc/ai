@@ -108,6 +108,15 @@ related:
       name: California Techwire
       domain: techwire.net
     quality: 11
+  - title: "TIBCO Accelerates Time-to-Insights with Revolutionary Enhancements to Analytics Portfolio"
+    excerpt: "TIBCO Software Inc., a global leader in enterprise data, empowers its customers to connect, unify, and confidently predict business outcomes, solving the world's most complex data-driven challenges. Today,"
+    publishedDateTime: 2021-10-01T00:07:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/204922/tibco-accelerates-time-to-insights-with/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
 
 secured: "FAd2AdnI5VshfAjC4aXsPaWp1jXWtI7qRf0XYccIPnVrrPLhEpXtS9ONz1qw7L2qsN0Uu9zAkylz4ChFuwv1DGx3FFIPMM8uAti6Xx0/KRZs6EcN2rPzvdqqXcqTXYXTQ46R7etHbXwdU9aENNyMMIoNG6nXoiNEOUJI3QksVv89v6b/j9jKZxTeHg9zql+rX/4ppMEPG1WDlo55yeA9oASegvojKTtsMrkwZ89lzlvb5Vl6NBvvgNelowaF4OePHJu6a0v9TIdXOgYzaT0trr2ZLc23HoV1BpqfXX9a70jHaVCXMS804fnc73VMeHRoE/qhr4WbWgADmgpx8V99SFZi3Yr+lsWJ1kCS7jzZ5A4=;vbarjaOxAA11zzoh35CihA=="
 ---

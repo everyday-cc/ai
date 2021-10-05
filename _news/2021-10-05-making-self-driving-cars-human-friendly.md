@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Self-driving cars have brain wave"
+    excerpt: "Self-driving supermarkets and autonomous electric taxis capable of slashing emissions in New York are some of the innovations driving the driverless revolution. The issue of safety is the recurring question though,"
+    publishedDateTime: 2021-10-05T14:28:00Z
+    webUrl: "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/"
+    ampWebUrl: "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/amp/"
+    cdnAmpWebUrl: "https://www-innovatorsmag-com.cdn.ampproject.org/c/s/www.innovatorsmag.com/self-driving-cars-have-brain-wave/amp/"
+    type: article
+    provider:
+      name: innovatorsmag.com
+      domain: innovatorsmag.com
+    quality: 59
+    images:
+      - url: "https://www.innovatorsmag.com/wp-content/uploads/2021/10/erik-mclean-ZWW2SDPaC54-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Not coming to a road near you: Self-driving cars"
     excerpt: "The future that never was can also apply to the self-driving car, also known as the autonomous car. They were supposed to be filling our streets by now, but are rarely spotted. Their delayed introduction is actually good news."
     publishedDateTime: 2021-10-01T19:37:00Z

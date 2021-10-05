@@ -9,7 +9,7 @@ ampWebUrl: "https://securityboulevard.com/2021/10/human-vs-artificial-intelligen
 cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2021/10/human-vs-artificial-intelligence-in-autonomous-systems/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02693-2/d41586-021-02693-2_19704840.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "The Infamous Trolley Problem At Large-Scale Sideswipes AI Autonomous Cars"
-    excerpt: "After a crash or collision, we ought to be able to do a full analysis of what decisions the AI driving system made during the incident."
-    publishedDateTime: 2021-09-30T21:25:00Z
-    webUrl: "https://www.aitrends.com/ai-insider/the-infamous-trolley-problem-at-large-scale-sideswipes-ai-autonomous-cars/"
-    type: article
-    provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 38
-    images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/09/10-1TrolleyTracks-2.jpeg"
-        width: 550
-        height: 366
         isCached: true
 
 secured: "CeUCC6NDj47Opgn7mATuw+5zhxA17tzkU/gBEgeboijjaBzswjCruDO10KJUFOF/jaCbbm6GghcsX++K9ucxGlIDDxwfWCNFHsyuCqot5zBpLvz7EfM0SDPmwADkom3pUyjV+YyhxspkOSPV5S+sYP82wbxUOlSmsg6zMSKyPFzfUPaVV9TjqqRzc0nBvNly2HaTQkvXTdamssn/Q1vDgoPD1+dGtWSWZVAXF2wxHU6/NFztDC6K0LOqIYrMhKwd9YZVMZ3PLp36pqU4e25O58KWWh2qAQ4kMnUqyAu5HMzeWkrp540X9qy3AgNmPjslyZSS8xI0UUiHh9Hp8M4vxrIySG8N5ri0LmcEQaNBprc=;eZhnorcevRBwGZvJAQt5yw=="

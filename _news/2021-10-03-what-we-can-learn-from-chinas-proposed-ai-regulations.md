@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/03/what-we-can-learn-from-chinas-pro
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/03/what-we-can-learn-from-chinas-proposed-ai-regulations/amp/"
 type: article
 quality: 87
-heat: 93
+heat: 87
 published: true
 
 provider:

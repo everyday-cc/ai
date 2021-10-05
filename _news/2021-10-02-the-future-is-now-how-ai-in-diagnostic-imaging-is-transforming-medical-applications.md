@@ -42,20 +42,6 @@ related:
         width: 611
         height: 400
         isCached: true
-  - title: "Acclarent Launches First ENT Navigation Technology Powered by Artificial Intelligence"
-    excerpt: "Acclarent, Inc., part of the Johnson & Johnson Medical Devices Companies,* and a leader in developing minimally-invasive Ear, Nose & Throat (ENT) technologies,"
-    publishedDateTime: 2021-09-30T23:03:00Z
-    webUrl: "https://www.fltimes.com/business/national/acclarent-launches-first-ent-navigation-technology-powered-by-artificial-intelligence/article_00a57f13-c513-5218-a453-f1d972f3adc3.html"
-    type: article
-    provider:
-      name: Finger Lakes Times
-      domain: fltimes.com
-    quality: 32
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/eedition/7/36/736ef3cb-73c0-5c26-b75d-da1f38ad27d2/61579b670bd07.preview-300.jpg?resize=300%2C600"
-        width: 300
-        height: 600
-        isCached: true
 
 secured: "oGmy+jKqwszKHFDmcqE8p4mOqO9T5l/mq3HovjM3euxzJT82YNrxv4fo0l7c8j+Q58vVxJaBcqiCA17lSKY4MMTSU0p7KqnUdQAJd5Lwk4P9pZdfYJQMxc4DwBV09yQpkJzUrPK2qzRw7ihG1OS5XsSMDtkjOH3ETwYmTsUD+I8OAKJw9+LcMgSdS/lY09gEJUuxDyPNtXKE1feJxeb4jBkdDB87w4EikNHUR4gqzabWjf0XDliDophvkNxQchf+9dtCakjBJRG2Tif66w6cEa86q5wdplgSzzk+UbF7qczcYNbuoKR2pEEMPKdlOey0iZUSRYrA42UQ9qtQeGET4yi4iguJdFzXOS/iwAJB7EV45aSs/4nREcpynWViytkLg6AK12e+VQ6q1PzeodUxy+EjW/kJ88h5kk6+fCh44kdXSlYVCS05Iae0TnuDHiHEAnpU+DGoZC4nxc4s7qZVt03cBAXj8C//IBPzVELT7wzsHqmmvoElEHXNb02S4vGTxRVFygFVMre4LER5M6JGng==;v97Tng5NGo/ayEyNFFmxqA=="
 ---

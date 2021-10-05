@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Vice President calls for AI solutions in agriculture, health, education"
-excerpt: "Jaipur, Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to deliver benefits to the people and enhance ..."
-publishedDateTime: 2021-09-29T11:35:00Z
-originalUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
-webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
-ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
-cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
+excerpt: "He also suggested exploring AI-based smart solutions in health such as remote diagnosis, and automatic translation of English texts to Indian languages in education. \"If such solutions can be ..."
+publishedDateTime: 2021-09-28T23:40:00Z
+originalUrl: "https://www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
+webUrl: "https://www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
+ampWebUrl: "https://www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
 type: article
 
 provider:
-  name: cio.economictimes.indiatimes
-  domain: indiatimes.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - Natural Language Processing
   - AI
   - AI in Education
 
-images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-86606103,imgsize-21820,width-800,height-434,overlay-etcio/vice-president-calls-for-ai-solutions-in-agriculture-health-education.jpg"
-    width: 800
-    height: 434
-    isCached: true
-
-secured: "//ZG0lC6X866mctz7i3eWzmTMUTWfFyg0k5DQ0imtxSP42jKM8mUNMVF8RFpiXwnMe4yQ9oqFkB+vHowbyG/w5XwPdiyDFcgnm8LjNmWcCm92rSlGJL2Y+4T8hfRnWzhu/xTprk1A9jckgXATCHbHtpKephPd6Pru+XEQB8vgCy4AwiieDyf18/7Ca5dI96ces4SZw5AV27+LIvNyraUGx8Td7mn3mFO9AUgWE+9Lxs3D0HRAkJzg5Bt4KmIWQttfDqjOk+0UF4glhHXwL7tCs2nPxuLWB0lhl4Y9iXP2nzTkauP/KBhoKtt5pjORzZ/vLJ7JXW/6DKeF5jiCmG48qhAFOP7kkIqGq6E7aSq+fM=;FJvBHEQqkIKtlNbzcdrtlw=="
+secured: "G0R/VHeJZd9L1s0wLDLeNSsYf9D5DZDLHEBuo2CP7o2NloA4dNJJn04agzDbk94/dDWUkR57srdFpmxTtq2k6KGMIX1yWZYFIajrZkN6Zs/LBq/pehWvLeMe/uuZpI4UwiziWxV3SjvilNTCaDKPb68BQUkk3wgJwijgCYB6T8nA5YWkP4pm4u3zlXSS/PBNlPmmpKsvcjQ/gSEpzZfFDhxXKAjQMGp1Ft+jUNlx8H7jo/xjsH8zHehgQbe0qgbR/fcEwI8QYzTLta+YpIWlt7sWGivgoHsyC7DpWRos9M8DgpuRl+7PctGo1ESFvHHt8Mu+BCTuca/YEVc19q4c+n9dojoh6CM7qp3snK1thv4=;X3lEkfG1QDQwQv2BHHYiEA=="
 ---
 

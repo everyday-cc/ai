@@ -51,6 +51,34 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
+  - title: "Gap buys artificial intelligence start-up Context-Based 4 Casting"
+    excerpt: "SoQ錫濛譙 / Flickr. US-based lifestyle retailer Gap has purchased artificial intelligence (AI) start-up Context-Based 4 Casting (CB4) for an undisclosed sum. Based in New York, CB4 uses advanced AI and machine learning tools to make predictive analytics and demand sensing to support sales and streamline the customer experience."
+    publishedDateTime: 2021-10-05T15:25:00Z
+    webUrl: "https://www.retail-insight-network.com/news/gap-cb4-acquisition/"
+    type: article
+    provider:
+      name: Verdict Retail
+      domain: retail-insight-network.com
+    quality: 37
+    images:
+      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/10/Gap.jpg"
+        width: 799
+        height: 532
+        isCached: true
+  - title: "Gap Inc. acquires artificial intelligence startup CB4"
+    excerpt: "As part of ongoing tech efforts, Gap Inc. on Monday announced that it acquired Context-Based 4 Casting for an undisclosed amount. CB4 is a retail technology startup th"
+    publishedDateTime: 2021-10-05T15:17:00Z
+    webUrl: "https://www.retaildive.com/news/gap-inc-acquires-artificial-intelligence-startup-cb4/607676/"
+    type: article
+    provider:
+      name: Retail Dive
+      domain: retaildive.com
+    quality: 37
+    images:
+      - url: "https://www.retaildive.com/user_media/cache/f4/1b/f41ba6ee5e2df1fa0b31acbcd47305d2.jpg"
+        width: 770
+        height: 364
+        isCached: true
   - title: "Thales to Spark Innovation among Five AI Startups with Season 3 of"
     excerpt: "Thales has launched Season 3 of [email protected], a business accelerator designed to help artificial-intelligence focused startups tackle real-world problems. Thales selected fiv"
     publishedDateTime: 2021-10-01T03:20:00Z

@@ -1,53 +1,26 @@
 ---
 category: news
 title: "Warehouse robotics startup HAI ROBOTICS secures $200M funding"
-excerpt: "The funding will help the company boost its product fleet through technological upgrades, expanding its global operation networks, optimizing its supply chain management and corporate structure as well as talent."
-publishedDateTime: 2021-09-22T13:09:00Z
-originalUrl: "https://www.roboticstomorrow.com/news/2021/09/22/warehouse-robotics-startup-hai-robotics-secures-200m-funding/17496/"
-webUrl: "https://www.roboticstomorrow.com/news/2021/09/22/warehouse-robotics-startup-hai-robotics-secures-200m-funding/17496/"
+excerpt: "HAI ROBOTICS, a Chinese warehouse robotics startup pioneering in autonomous case-handling robotics (ACR) system, announced that it has secured two new continuous rounds of financing, garnering US$200-odd million in total to be invested in boosting its robot fleet with technological upgrades,"
+publishedDateTime: 2021-09-22T00:17:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-china-robotics-3a3252a8a5e43ccee5902461d5c82422"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-china-robotics-3a3252a8a5e43ccee5902461d5c82422"
 type: article
-quality: 49
-heat: -1
-published: false
 
 provider:
-  name: Robotics Tomorrow
-  domain: roboticstomorrow.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Opentrons Raises $200M in Series C Funding"
-    excerpt: "Opentrons Labworks Inc., a NYC-based lab platform provider, raised $200M in Series C funding. SoftBank Vision Fund 2 led the round with participation by Khosla Ventures. Other investors in Opentrons include Sands Capital,"
-    publishedDateTime: 2021-09-24T09:25:00Z
-    webUrl: "https://www.finsmes.com/2021/09/opentrons-raises-200m-in-series-c-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 137
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/09/opentrons.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Warehouse robotics startup HAI ROBOTICS secures $200M funding"
-    excerpt: "The funding will help the company boost its product fleet through technological upgrades, expanding its global operation networks, optimizing its supply chain management and corporate structure as well as talent."
-    publishedDateTime: 2021-09-23T15:33:00Z
-    webUrl: "https://www.dcvelocity.com/articles/52462-warehouse-robotics-startup-hai-robotics-secures-200m-funding"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 69
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/03bffb1e-8f2e-4728-bb96-020dae72f048.png?height=635&t=1632371812&width=1200"
-        width: 600
-        height: 338
-        isCached: true
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
-secured: "v009rx1wFyqGqNkCeCfMrxzBVrh9fN9Rae9yko64/O6+wctoAbYcDQBKPjPhjkUAx2xJQs3GrYZ5/H+Ps/xssb1FeLk4fkx8vBfE3NtoCbfdVvwNwTaBqMTEfISj9Rs6gd6/sfcmuPFwxwlDD6Zxk/9rxErU5ssCMjEfYT09OaN8fitG7pGM4IndBYEuWw8ov6L0zW8aTYIp31ks+apwnQQnXVw49W/nGbpmdY0zOphEYydX9xfEXEN7sCiB5WG2CYYuFtUbIGKd/3QZYQhKLgDpl9pGxAqFpzkIrcryL9mPTs+Ye8t1VgKGvF075gr6cZibwOsHgFGl1Cu5h2QEQaPkM3FfTyyK7ez8tUNEQcE=;5QQ67TFFw6Gc4PZGNEtE+Q=="
+secured: "67QBAH4rXaLQyitWUViCypnZ2tuTKym563MnsZ0dF7bGA8wnhEPD8fBENWFVszNOCi8w8iYE5FuH/1kZM7dQPiq3Zm8sUV3EBmLOv1vHf7FvFsxWY3auwt+ffvHorVCVyQehuL39+NMi6BAwSzcvrc1Qhjs44f0/Yykg9j440mYdYNbvtmKBBIwTTOfL9IqVnIlZhwcOuJ0xB7w6+YoP0gaIwh9fJeDbov1fp3VP8jq/zuZS90PtkC2bHEFbrTHpC7Hf7TnhrhQE2g6BT5J0D13uUqnxiNnI7lBy1hBGk34upd/xoF+TpUXu8axgZTZaujbk56dfKeSgdEH1uQmntl7Q6dOGVSw89B5xRpl5rvw=;ej3BF86EFN4WJ/oZ9x8pKQ=="
 ---
 

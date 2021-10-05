@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Tascent launches InSight® Access: intuitive, secure biometric recognition to modernize access control for the workplace"
-excerpt: "InSight Access raises the bar with a new smart, compact, easy-to-install wall-mounted endpoint combined with Tascent's identity management platform, Enterprise Suite. Tascent Inc., the leader in intuitive biometrics,"
-publishedDateTime: 2021-10-05T12:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/tascent-launches-insight-access-intuitive-secure-biometric-recognition-to-modernize-access-control-for-the-workplace-1030843544"
-webUrl: "https://markets.businessinsider.com/news/stocks/tascent-launches-insight-access-intuitive-secure-biometric-recognition-to-modernize-access-control-for-the-workplace-1030843544"
+excerpt: "Tascent Inc., the leader in intuitive biometrics, announces the launch of Tascent™ InSight® Access, a face recognition-based access control service for office buildings and coworking spaces. InSight Access brings intuitive,"
+publishedDateTime: 2021-10-05T12:00:00Z
+originalUrl: "https://www.wdbj7.com/prnewswire/2021/10/05/tascent-launches-insight-access-intuitive-secure-biometric-recognition-modernize-access-control-workplace/"
+webUrl: "https://www.wdbj7.com/prnewswire/2021/10/05/tascent-launches-insight-access-intuitive-secure-biometric-recognition-modernize-access-control-workplace/"
 type: article
-quality: 30
-heat: 30
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WDBJ
+  domain: wdbj7.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1652835/Tascent_Inc.jpg"
-    width: 711
-    height: 400
+  - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/zKafltBzatW_IgeviU5xumQxkXs=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/LRP4OP3BCCWUUMQXDAJXULXDPI.jpg"
+    width: 980
+    height: 551
     isCached: true
 
-secured: "8Ylo9EMj/Tmitq39TWVJDuOHlmI8C2XDGoBHF6PrT1Q6tF/rtnYSSzz7FjUBI5/uYj32FVTPt8032G1lHXEoU9maBpLbkrjjuMI7eOUESHUsMtnUaE7mGTKEFv/vGnDETEMgeUiDadXt8eVUweuGg4RosEhILUqU2PyJfgwVi8MoZ+9CsIxpYKcQyVec+JsfaQRUTDKNuQHAoZ5y+njwUyAyg11CKF9A9j/6TC2fAJnvGDG05unM0V8cw2ERUQ6ZkSZkdVXOA04lNrlsb0SdWiMVrdezj2wBn/eiKoermi/ElKOmXJTUNlnE+Aew1K6ZeRZ1TpevVXVSYHAAWgYs4WZ3m+os8igEumfBQ5LMQtQ=;CbIwEkyBECu1pRkl5qwXZA=="
+secured: "87VAbP4kAb1kOt38w5wVruJtPpWTlZckTg3KludHsiab2gZBGZG/YqvyxNXv4QVTZP/hMUTqrTKWvfwpAxGNaErADAQ1QEBKE2nIvV4s/oMxvtXud8vTdGc59GuEvoqUwzkoNZcVsxs7zZJ1fuJQB4DSULtfaCF37rCeBddDS/mA3mPAFno8tQYMRRmAQ9Uxy3peHI4O9mJnoLnIESCdFvfM/Zb3JK21Dx62X8/7uSKn4hnuO9CAttUumPeMVGO2VQOC3/7LFumtlXUU6FB00A5v8cAS55zIT9kO5AgM4MKvgQMxQfvXmqeSZgzRK7sZWS+1tU9cudlC8XQEcFLrBShskcYbQspTnQ92UxVeb8o=;y5wLuydl0NR1/uomPw+xQg=="
 ---
 

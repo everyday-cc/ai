@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial intelligence market in India to reach $7.8 billion by 2025: IDC"
+    excerpt: "The artificial intelligence (AI) market in India is expected to grow at a five-year compound annual growth rate (CAGR) of 20.2 per cent and touch USD 7.8 billion in total revenues by 2025, according to research firm IDC."
+    publishedDateTime: 2021-10-05T15:27:00Z
+    webUrl: "https://www.orissapost.com/artificial-intelligence-market-in-india-to-reach-7-8-billion-by-2025-idc/"
+    ampWebUrl: "https://www.orissapost.com/artificial-intelligence-market-in-india-to-reach-7-8-billion-by-2025-idc/"
+    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/artificial-intelligence-market-in-india-to-reach-7-8-billion-by-2025-idc/"
+    type: article
+    provider:
+      name: orissapost.com
+      domain: orissapost.com
+    quality: 55
+    images:
+      - url: "https://www.orissapost.com/wp-content/uploads/2018/11/artificial-intelligence-AI-_1854.jpg"
+        width: 500
+        height: 294
+        isCached: true
   - title: "India artificial intelligence market to reach USD 7.8 billion by 2025: IDC"
     excerpt: "The businesses in India will accelerate the adoption of both AI-centric and AI non-centric applications for the next five years, IDC said in a statement."
     publishedDateTime: 2021-10-05T10:17:00Z
@@ -69,12 +85,12 @@ related:
     quality: 36
   - title: "India artificial intelligence market to reach $7.8 bn by 2025"
     excerpt: "The Artificial Intelligence (AI) market in India is set to reach $7.8 billion by 2025 -- covering hardware, software and services markets -- and growing at a CAGR (compound annual growth rate) of 20.2 per cent,"
-    publishedDateTime: 2021-10-05T10:11:00Z
-    webUrl: "https://www.sify.com/news/india-artificial-intelligence-market-to-reach-78-bn-by-2025-news-education-vkfkl9bdbjfaa.html"
+    publishedDateTime: 2021-10-05T15:55:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20211005/3831815.html"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
+      name: Webindia 123
+      domain: webindia123.com
     quality: 17
 
 secured: "100gs/8oxzl0b3KZEagxs/wii26+mkmypErU4DB0KtSDIDkDomyLx5ZKOMt7EFIFoxRUXBWMjknMmpAFOdp0QHLfIi2KC2zKCWr3TvuYDXWql35faeP8HBNHpiP5eW/t8f3e1/ZvHqkIX2aWMHtiHYDfxTZC6Aom48J5OJpXKB2RJB+9u+tVfO/rQDro10I+XHrFaA1Kr0CZ8hKPv57KjlArxfmneHrcHt6BQATe1nobpqXWTzIUBDBUJ9JAgU2ErWymUsJyGhAseuZqgbYYAeCJRErUmvurr6r/D+6Iz0KteqstvapbEbvmKsiE9lIrZ9YmT3XpQpZlEwMPodWVR/k6xnLV2fQSEc5SMKPUZHJBOt6Ev6eodSBR114ypWLy1+D6xZKFapPwJVEz9Qocrs/O9+dJM7gsBUUH6RL44T5lSJB7KcpdOAYGBgz77jVjl4uX6Gv9c2q4hG6fdefnMd9RBRVWCrsXVa3Zface6uBCfBJDcvXQyuoifNL2Z7NhuruOxAQLSnUcvBP2apyqRA==;KpFcUsTFjlD8qUlunGcaQg=="
