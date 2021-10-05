@@ -9,8 +9,8 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/niti-aayog-aws-intel-c
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/niti-aayog-aws-intel-collaborate-to-launch-experience-studio-for-startups-71633080159545.html"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Hindustan Times
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "NITI Aayog, AWS, Intel collaborate for experience studio"
-    excerpt: "Niti Aayog, Amazon Web Services (AWS) and Intel have come together to establish a new experience studio that will be a hub for collaboration and experimentation. The studio has been set up at the Niti Aayog Frontier Technologies Cloud Innovation Centre (CIC) in Niti Aayog''s premises here."
-    publishedDateTime: 2021-09-30T14:54:00Z
-    webUrl: "https://www.outlookindia.com/newsscroll/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369"
-    ampWebUrl: "https://www.outlookindia.com/newsscroll/amp/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 59
-    images:
-      - url: "https://www.outlookindia.com/public/uploads/no-image-new.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "AWS, Intel, and NITI Aayog collaborated to accelerate digital innovation in India"
     excerpt: "The studio is said to serve as an innovation hub for government, healthcare, education, and nonprofit start-ups from India to showcase their solutions"
     publishedDateTime: 2021-10-01T04:59:00Z

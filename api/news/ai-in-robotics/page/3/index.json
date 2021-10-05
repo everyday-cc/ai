@@ -2,50 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-09-17-face-recognition-device-market-future-scope-including-key-players-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc.md",
-      "title": "Face Recognition Device Market Future Scope including key players Airware, Inc., 3D Robotics, Dreamhammer Inc., Drone Volt, Dronedeploy Inc.",
-      "excerpt": "Get the inside scoop of the Sample Face Recognition Device report @: jcmarketresearch.com/report-details/1443230/sample Research Methodology while conducting the study of “Global Face Recognition Device Market Data Survey Report 2029” Secondary research Our Face Recognition Device industry analyst refer a broad array of industry sources for our secondary,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/",
-      "originalUrl": "https://manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/10-6-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/?amp=1",
-      "publishedDateTime": "2021-09-17T01:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-09-17-mind-controlled-drones-and-robots-techbbq2021.md",
       "title": "Mind-Controlled Drones and Robots #TechBBQ2021",
       "excerpt": "TechBBQ is one of the biggest tech events in the Nordics that exists to support and strengthen the Nordic startup-ecosystem. During this year's event Sherry List and I held a session on \"Mind-Controlled Drones and Robots\".",
@@ -1313,6 +1269,49 @@
       "provider": {
         "name": "الشرق الأوسط",
         "domain": "aawsat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-irobots-new-roomba-j7-robot-vacuum-with-ai-object-avoidance-and-storage.md",
+      "title": "iRobot’s new Roomba j7+ robot vacuum with AI, object avoidance, and storage",
+      "excerpt": "Companies like ECOVACS and Trifo are among the few to set out and develop robot vacuums with artificial intelligence capable of avoiding things it might run into that shouldn’t be there. From trying to avoid clog-hazards like socks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pocnetwork.net/technology-news/irobots-new-roomba-j7-robot-vacuum-with-ai-object-avoidance-and-storage/",
+      "originalUrl": "https://www.pocnetwork.net/technology-news/irobots-new-roomba-j7-robot-vacuum-with-ai-object-avoidance-and-storage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pocnetwork.net/wp-content/zuploads/2021/09/Roomba-j7-robot-vacuum.jpg",
+          "width": 773,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-12T22:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Poc Network",
+        "domain": "pocnetwork.net",
         "images": null,
         "publishers": null,
         "authors": null

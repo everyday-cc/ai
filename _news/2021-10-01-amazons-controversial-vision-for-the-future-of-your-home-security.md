@@ -47,13 +47,13 @@ related:
   - title: "Amazon's controversial vision for the future of your home security"
     excerpt: "Amazon's vision for the future of home security includes drones flying over your roof, outdoor cameras that monitor for possible trespassers and cute robots patrolling indoors."
     publishedDateTime: 2021-10-02T21:37:00Z
-    webUrl: "https://www.koco.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
-    ampWebUrl: "https://www.koco.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
-    cdnAmpWebUrl: "https://www-koco-com.cdn.ampproject.org/c/s/www.koco.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+    webUrl: "https://www.kcra.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+    ampWebUrl: "https://www.kcra.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
     type: article
     provider:
-      name: KOCO
-      domain: koco.com
+      name: KCRA
+      domain: kcra.com
     quality: 61
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-7cba5e0629bc8bec312c8080d57b8459-h-a9a0089212e086209aacfe9662e04615-1633212724.jpg?crop=1.00xw:0.752xh;0,0.188xh&resize=1200:*"
@@ -75,20 +75,6 @@ related:
       - url: "https://ktla.com/wp-content/uploads/sites/4/2021/09/Promo-Facebook-Facebook-link-image-7.jpeg?w=1280"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Amazon's New Smart Devices Include a Flying Security Camera and a Robot Assistant Named Astro"
-    excerpt: "Amazon’s Astro, Ring Always Home Cam, and Smart Thermostat were announced as part of a new line-up of smart home devices."
-    publishedDateTime: 2021-09-30T13:30:00Z
-    webUrl: "https://www.mentalfloss.com/article/650733/amazon-smart-home-devices-astro-ring-thermostat"
-    type: article
-    provider:
-      name: Mental Floss
-      domain: mentalfloss.com
-    quality: 45
-    images:
-      - url: "https://images2.minutemediacdn.com/image/upload/c_crop,h_707,w_1258,x_0,y_10/v1632943237/shape/mentalfloss/650733-amazon-astro-lead_0.png?itok=pm2HSpJB"
-        width: 1258
-        height: 707
         isCached: true
 
 secured: "TNSLrG8FZdrW5rHLbuG4t5/YrhUJMQ0lVZpYz6pfz2BnbQKTFZvBAxhcKFtC6f50EsB++VICM8C+djTNUkCkzrkZGd3824J9IiQhb8mmjOb60hfFZGCg+eqca22lvE1CSSQ0rOGP5s+HxdvmyASIZOCnztFn5yPVmkum6EFQhmNMdKFhFDcdASOWMHlKfo/9s7LaJhaw45rd8H2wVYoe9zStbO2fOg06KTKVAXVdxGUIP3T/zde1D+QuF4XM7ANEQeauKOiabydEtWtLbtn6CzjUt53rnj2krFvuK5jnWPTXzIXo7N625OcgSIqdgdIvnuI4vd/rNM5d6pZiYFerZM5CXKHXVhtxhmemMVKzPG8=;3sTwOMoAsSV8j2aFnwCYaw=="

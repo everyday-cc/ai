@@ -39,6 +39,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Customized robots for everyone - groundbreaking solution for AI-based system development"
+    excerpt: "Rocks project presents a groundbreaking approach that is set to revolutionize robot development: With the help of artificial intelligence methods, users without any expertise will be able to cost-efficiently design customized robots for their applications."
+    publishedDateTime: 2021-10-05T07:56:00Z
+    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=58871.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 45
+    images:
+      - url: "https://www.nanowerk.com/news2/robotics/id58871_1.png"
+        width: 500
+        height: 333
+        isCached: true
   - title: "Artificial intelligence developments are powering virtual assistant and chatbot predictions"
     excerpt: "Although chatbots and virtual assistants have existed for a long time, they came to the mainstream only when artificial intelligence invaded the race. Analytics Insight has listed the top 10 virtual assistant and chatbot predictions for 2022."
     publishedDateTime: 2021-10-03T06:30:00Z

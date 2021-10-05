@@ -9,7 +9,7 @@ ampWebUrl: "https://www.asiaone.com/business/edgecortix-acquires-multiple-patent
 cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/edgecortix-acquires-multiple-patents-dynamic-neural-accelerator-ai-processor-technology?amp"
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 763
     height: 509
     isCached: true
+
+related:
+  - title: "Pushing the Accelerator: Tesla and Legal AI"
+    excerpt: "By Hugo Seymour, COO, Della What can the legal world learn from the automotive industry’s journey to driverless cars? While everybody talks about it and many claim to be doing it, the reality is"
+    publishedDateTime: 2021-10-05T06:40:00Z
+    webUrl: "https://www.artificiallawyer.com/2021/10/05/pushing-the-accelerator-tesla-and-legal-ai/"
+    type: article
+    provider:
+      name: artificiallawyer.com
+      domain: artificiallawyer.com
+    quality: 54
+    images:
+      - url: "https://www.artificiallawyer.com/wp-content/uploads/2021/10/Screenshot-2021-10-05-at-07.11.58.png"
+        width: 2007
+        height: 1375
+        isCached: true
 
 secured: "r8lkzAZmZHqRhBzQhwI4p5bo1Xm/WyJiITLhVR+rTsNmbvelwHLnAos2e8B9vt/UFSvC/YP5KacZAqgpUcIxRC8ase94tGULJkHRASYhjwKWTFDzMywg+vd+SN1FxmuMgJrcBUPg4NOkEs9I6Yymvp/rG+f+yNP33qz8DWa3Mz7pArtfLORMkUCc2GpunVr7z8D69fDU4FqyFTD4NSqjwDT0/P3CRUTR6CAs2fETB7y2b8Pn4ewixLOTweGo0TK2Mnd6R1I1ptwXG9UVziwSeOHIwoCj3BJsFO3hlZC76IdmPv0+ulB1+/hx9xBX1KnINV5OG6/A822fWleehOu9nHheyzld0eb4FsrRR5mYOoB039uBUNknks0PaEW45EsGHLBm47kY/WSzRQ5uq7XfmFIpQVpoQRVillgSRS2V6uVN4OFog4MwyZ7ohU18fBNjiNB8FKOVY09sjvQNQkrdt0SxhfZqqkyXe85EbWba/nMCO4gaWL7uW9s0kRr+5VM1jX2MVh0hgq9y40JpnwCc5Q==;bs0dZmipLsdsDaZ9XA3teQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wraltechwire.com/2021/10/02/amazon-home-security-robots-
 cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/10/02/amazon-home-security-robots-inside-drones-outside-cameras-all-around/?amp=1"
 type: article
 quality: 75
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -47,13 +47,13 @@ related:
   - title: "Amazon's controversial vision for the future of your home security"
     excerpt: "Amazon's vision for the future of home security includes drones flying over your roof, outdoor cameras that monitor for possible trespassers and cute robots patrolling indoors."
     publishedDateTime: 2021-10-02T21:37:00Z
-    webUrl: "https://www.koco.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
-    ampWebUrl: "https://www.koco.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
-    cdnAmpWebUrl: "https://www-koco-com.cdn.ampproject.org/c/s/www.koco.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+    webUrl: "https://www.kcra.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+    ampWebUrl: "https://www.kcra.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
     type: article
     provider:
-      name: KOCO
-      domain: koco.com
+      name: KCRA
+      domain: kcra.com
     quality: 61
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-7cba5e0629bc8bec312c8080d57b8459-h-a9a0089212e086209aacfe9662e04615-1633212724.jpg?crop=1.00xw:0.752xh;0,0.188xh&resize=1200:*"
@@ -75,20 +75,6 @@ related:
       - url: "https://ktla.com/wp-content/uploads/sites/4/2021/09/Promo-Facebook-Facebook-link-image-7.jpeg?w=1280"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Amazon's New Smart Devices Include a Flying Security Camera and a Robot Assistant Named Astro"
-    excerpt: "Amazon’s Astro, Ring Always Home Cam, and Smart Thermostat were announced as part of a new line-up of smart home devices."
-    publishedDateTime: 2021-09-30T13:30:00Z
-    webUrl: "https://www.mentalfloss.com/article/650733/amazon-smart-home-devices-astro-ring-thermostat"
-    type: article
-    provider:
-      name: Mental Floss
-      domain: mentalfloss.com
-    quality: 45
-    images:
-      - url: "https://images2.minutemediacdn.com/image/upload/c_crop,h_707,w_1258,x_0,y_10/v1632943237/shape/mentalfloss/650733-amazon-astro-lead_0.png?itok=pm2HSpJB"
-        width: 1258
-        height: 707
         isCached: true
 
 secured: "QnD6ojirxyb7tvqRQCcLaQURotOVOM6mWmXUD/OD6aYXjb54tSUUQoM9xaQq2IZig4TDj4/jhkyBsAMVuco7xHOvPbdPfcrrmVqk0vWcIr+yOiV0o027pHNdqiHMAInMk4fl1oPbHhGZKMy1L3usOzY5WubcNh7kHyp5ido5TQiZcOeq0aRCTM3HJj/oe1fUIyhKqkdB0vfuJTX4rW4biCbxdrO376a1baYfZmR2l8a+5cc6i0IaqPs8VF9bCCotXRBw2trD/ZDIuD+tojCjgr8dH/7Xi6Awvms8tno6Qz+UyyCcxGzPQYFwdVqhZi579v6qV32ccuPM7rhI5t6B/5EuNNHc9ACCYJ5mLi5AdbDrsv/8tKWYAMdOxJNPaeJHnjtGAexLY5w+bAJ1wfx/jRd5GviLqb4hEMll4rVEn9HSgxb8y7pJF7QLgeufW3/KNIYpM9D5Q7j9Lhe2utxZ+0Et/WrrGhGptCCqzDS3GNB4XRNFj2zZzq47wm+FqgR5QrJaK0oPMmdRippAdm1How==;9JLA7L9L7ShpknzUfxLEaA=="

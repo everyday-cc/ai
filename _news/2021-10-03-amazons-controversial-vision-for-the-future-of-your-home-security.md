@@ -3,18 +3,18 @@ category: news
 title: "Amazon's controversial vision for the future of your home security"
 excerpt: "Amazon's vision for the future of home security includes drones flying over your roof, outdoor cameras that monitor for possible trespassers and cute robots patrolling indoors."
 publishedDateTime: 2021-10-02T21:37:00Z
-originalUrl: "https://www.koco.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
-webUrl: "https://www.koco.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
-ampWebUrl: "https://www.koco.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
-cdnAmpWebUrl: "https://www-koco-com.cdn.ampproject.org/c/s/www.koco.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+originalUrl: "https://www.kcra.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+webUrl: "https://www.kcra.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+ampWebUrl: "https://www.kcra.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
 type: article
 quality: 61
 heat: -1
 published: false
 
 provider:
-  name: KOCO
-  domain: koco.com
+  name: KCRA
+  domain: kcra.com
 
 topics:
   - Computer Vision
@@ -76,21 +76,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Amazon's New Smart Devices Include a Flying Security Camera and a Robot Assistant Named Astro"
-    excerpt: "Amazon’s Astro, Ring Always Home Cam, and Smart Thermostat were announced as part of a new line-up of smart home devices."
-    publishedDateTime: 2021-09-30T13:30:00Z
-    webUrl: "https://www.mentalfloss.com/article/650733/amazon-smart-home-devices-astro-ring-thermostat"
-    type: article
-    provider:
-      name: Mental Floss
-      domain: mentalfloss.com
-    quality: 45
-    images:
-      - url: "https://images2.minutemediacdn.com/image/upload/c_crop,h_707,w_1258,x_0,y_10/v1632943237/shape/mentalfloss/650733-amazon-astro-lead_0.png?itok=pm2HSpJB"
-        width: 1258
-        height: 707
-        isCached: true
 
-secured: "rPgj0g5iXcsMepKRbWrexvsA8OFK1ha5Us6QFmUGKUNwluL6IHCUzUYrm9+qYDiW93mIodm5v5Ed882GZvuAawADomX+QdZk4mhOJxiXErTWdztfKIpcaJaH8COTy3rRv7jhPtMnwlQ5IW26SowKKg2/GTIG+bS97bVHDLvlP0ttsVFVH5xuqyaGB5rMoHD3XqNCYZlF/1iMkf+5IWUwYDZNYZSvyvx1dt3vMtaNud9TlqGQNC3EzOuylg8/In7rnZVsGUCcH4ZTDSPJi/+h+T3x1Ryk84+goEh6jumu6nRdR7QT5L/F1ctrWybuHo/7Ytk75TX6p2AH+GDpzDSX4bQ5dsp7yCglqCEiJbmLt1I=;ZGn1SH+nhy61oTTrjZjndg=="
+secured: "+uN3PSPohvdPJpnkdy4S2rYejCTeuum03R0XkBMvkitU8dLObV7IxYFcAiTt1czCTSi/vUqws7rT6PU1ENZg0Gq2eB1rVc5Gaf7rlR3ScV8tpuTTzTvU9ftYlFQm3tsyXMSZXf9mIL1VWr6H/RsF3tuHfFJw3LUxIhV/RrvhI83oIL+PE1qweuVlXQpzh8K9LnvQyF78zADfGWBFQ2ulk4yzmvRUNC75LG9DvtOjFQklnciEbz/GlLJTg/ImqnYyxC2WI1EuBjgwl9D7zlnXdGjgHM0RGP/N8vqSYPQ9zPX01OzEkMBPdGfoRdQj5/I95NsFOihhC8+gAg5hbzw86eDjPlJC23ATfJZbjDEtiGg=;gwc5BGwaRVRGiDbAFXKJeQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20211001PR200.html"
 webUrl: "https://www.intel.com/content/www/us/en/newsroom/news/intel-unveils-neuromorphic-loihi-2-lava-software.html"
 type: article
 quality: 122
-heat: 162
+heat: 142
 published: true
 
 provider:
@@ -24,38 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Announces Neuromorphic Loihi 2 AI HW And Lava SW"
-    excerpt: "Intel Research believes that brain-like Neuromorphic computing could hold the key to AI efficiency and capabilities. Intel has announced the availability of the second generation"
-    publishedDateTime: 2021-09-30T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2021/09/30/intel-announces-neuromorphic-loihi-2-ai-hw-and-lava-sw/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/09/30/intel-announces-neuromorphic-loihi-2-ai-hw-and-lava-sw/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/09/30/intel-announces-neuromorphic-loihi-2-ai-hw-and-lava-sw/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6154ba7665c245693b2c8592%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2490%26cropY1%3D128%26cropY2%3D1529"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Intel unveils second-generation neuromorphic computing chip"
-    excerpt: "Intel unveiled the second generation of its neuromorphic chip, which it claims will be able to solve planning and optimization problems."
-    publishedDateTime: 2021-09-30T15:00:00Z
-    webUrl: "https://venturebeat.com/2021/09/30/intel-unveils-second-generation-neuromorphic-computing-chip/"
-    ampWebUrl: "https://venturebeat.com/2021/09/30/intel-unveils-second-generation-neuromorphic-computing-chip/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/30/intel-unveils-second-generation-neuromorphic-computing-chip/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/LoihiFingertip3000-e1632940568814.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Intel rolls out second-gen Loihi neuromorphic chip with big results in optimization problems"
     excerpt: "Intel has multiplied eight-fold the number of spiking neurons, and added much more flexible micro-code. The chip excels at optimization problems, Intel claims."
     publishedDateTime: 2021-09-30T15:28:00Z

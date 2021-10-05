@@ -24,22 +24,6 @@ images:
     height: 683
     isCached: true
 
-related:
-  - title: "CBP building on facial recognition successes as travelers reap benefits of expedited process"
-    excerpt: "To date, U.S. Customs and Border Protection has processed over 100 million travelers through facial biometrics. Facial recognition technology has been championed by supporters for benefits such as improved security and streamlining a wide array of processes."
-    publishedDateTime: 2021-09-30T13:05:00Z
-    webUrl: "https://federalnewsnetwork.com/technology-main/2021/09/cbp-building-on-facial-recognition-successes-as-travelers-reap-benefits-of-expedited-process/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 28
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/09/Biometrics-03.jpg"
-        width: 1097
-        height: 700
-        isCached: true
-
 secured: "Bw3ZqzwlxzISJtcEU6r3U0AemqdLbkH0+9GD4yA+bMVZ0N5r8WCoLOySq1O4Q04uNw9nz2VwbR4cKUiKcyQYUeb0xcTjYlSKz99NVvk+/hPd5qQj04LQBhn7e5JiMUPUbqNtYajnwqdMFB9MUnkThZqZBa+IYLWwhO5ZIIMbalgsUNoexyty53uXnF48oiQi8hhSxKiyDrtMX+wuQDl1PkAvuEjnKoL2g9U69QOGnxSg6ZqNL5cWi9Ob6tsdr48/2Yd/j6dYvjqvuEbvuH9ajh6f0tbm5Vqk901CTQVzy3yJIYnrGu/D2CYAtHLuwUvPkGPizQWgaymi8sCr7YwvXQ0DbsC16+mLvOgq/ttWSf+/wVOIQfIiiY/IlE4G4Z5TxA1yFsdTlPkTYnVbkLxuAcxhRzfsBPHXsRY5AOQN1GvXCpE8cCtSw+LwrQ1nyxVUW7Cgj8C0zugLeLxI2pRPP4x4cgCWS7htCzOj8nxUGku12hOdW47XtOMhHJlKTySstEMVB61drnPL3NJcYdFPDw==;YJllKrjI6Yva4y5lXbxmyQ=="
 ---
 

@@ -27,19 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "U of North Texas hospital to lead $100M healthcare AI program"
-    excerpt: "The University of North Texas Health Science Center is launching a $100 million project to increase diversity in healthcare artificial intelligence, according to an Oct. 1 Fort Worth Star-Telegram report."
-    publishedDateTime: 2021-10-01T18:55:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/u-of-north-texas-hospital-to-lead-100m-healthcare-ai-program.html"
+  - title: "How AI deployment is changing the game of healthcare ecosystem"
+    excerpt: "While deployment of intelligent bots in healthcare sector, has many beneﬁts and futuristic possibilities, Ayush Verma, Practice Lead, AI & ML and Shveta Raina AVP, Communication & People Strategy, Avizva point out that most healthcare providers refuse to let go of legacy systems and resist adapting."
+    publishedDateTime: 2021-10-01T06:17:00Z
+    webUrl: "https://www.expresshealthcare.in/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/"
+    ampWebUrl: "https://www.expresshealthcare.in/amp/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/"
+    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
+      name: expresshealthcare
+      domain: expresshealthcare.in
+    quality: 74
     images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
-        width: 400
-        height: 300
+      - url: "https://cdn.expresshealthcare.in/wp-content/uploads/2021/10/01121218/EH_Ayush-Verma_Shveta-Raina_Avizva_750.jpg"
+        width: 750
+        height: 400
+        isCached: true
+  - title: "Demystifying the Complexity of Enterprise AI Deployment"
+    excerpt: "We’re sitting on the cusp of artificial intelligence (AI) innovation. Consulting organizations like McKinsey and PwC claim that AI is a multi-trillion dollar business opportunity."
+    publishedDateTime: 2021-10-02T16:49:00Z
+    webUrl: "https://www.linkedin.com/pulse/demystifying-complexity-enterprise-ai-deployment-abhishek-nigam-1f"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQF_Ug79f2a2hQ/article-cover_image-shrink_720_1280/0/1633147479988?e=1639008000&v=beta&t=bxYdpZ_eTV6FnFiEil0SRgCz8BNlwpEWyyyqMa74W2g"
+        width: 1080
+        height: 720
         isCached: true
 
 secured: "i7rC3twrHm5x++bKtc2P/2mmUFxWwaTKH76WUbZzWgpL9SngUS2PEcGVjSrIeqHx6VxDC0G4kVotCQrmExoJh3YfGXvmRt0oX+bjFEcUIIN8tQJLh9mYGlttbVnSc/Mmw2/kOg6JPTLGpJRACNklF0uY0HI7/hdr/oPWCC7Ykf4rMdBCCRSLMaYBDtrt+3nEXkqqyWmsFLvuMe7g/lHX5AnXfKeYycIu0OOBtUj+APZ096Yj4iupFBi5/pOg47twPnlYvQbVkvOhDt6ONgqo3W5AJp6Tm8nvaJcKyqCc8p0HrI8CXc4NL0/SjNF8ZcKulmImz/mXiXcbMnJIPUzGP6kibk2OWEmuvUB5tA2ZOsw=;G18e+xRDssyh1Rr/3NP5ww=="

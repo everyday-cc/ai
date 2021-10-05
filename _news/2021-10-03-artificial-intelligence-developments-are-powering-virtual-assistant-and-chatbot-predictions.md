@@ -38,6 +38,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Customized robots for everyone - groundbreaking solution for AI-based system development"
+    excerpt: "Rocks project presents a groundbreaking approach that is set to revolutionize robot development: With the help of artificial intelligence methods, users without any expertise will be able to cost-efficiently design customized robots for their applications."
+    publishedDateTime: 2021-10-05T07:56:00Z
+    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=58871.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 45
+    images:
+      - url: "https://www.nanowerk.com/news2/robotics/id58871_1.png"
+        width: 500
+        height: 333
+        isCached: true
   - title: "These top AI cities are doing pretty well in the research and development of AI"
     excerpt: "As we say, data has become wealth today the potential of artificial intelligence is not ignorable under any circumstance. Let’s look at the top AI cities in the world that are doing pretty well to attain advancement in AI."
     publishedDateTime: 2021-10-02T13:30:00Z

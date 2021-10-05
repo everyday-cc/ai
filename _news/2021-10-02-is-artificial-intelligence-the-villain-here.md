@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-villain-her
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-villain-here-ren-beani"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -28,21 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Is Identity Theft Fraud? Here’s How AI And Graphing Tools Help Solve The Puzzle"
-    excerpt: "While identity theft and fraud are related, they’re not equivalent, which means that relying solely on PII and credit bureau data to verify someone is who they say they are is a dangerous — and incomplete — approach."
-    publishedDateTime: 2021-09-30T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/is-identity-theft-fraud-heres-how-ai-and-graphing-tools-help-solve-the-puzzle/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/is-identity-theft-fraud-heres-how-ai-and-graphing-tools-help-solve-the-puzzle/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/30/is-identity-theft-fraud-heres-how-ai-and-graphing-tools-help-solve-the-puzzle/amp/"
+  - title: "Inside the happy heart of Ai-Ai de las Alas"
+    excerpt: "Everybody’s favorite funny woman Ai-Ai de las Alas has her hands full at this time, especially given that a new season of The Clash has just commenced. It is the singing search program’s fourth season,"
+    publishedDateTime: 2021-10-04T11:33:00Z
+    webUrl: "https://businessmirror.com.ph/2021/10/04/inside-the-happy-heart-of-ai-ai-de-las-alas/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 37
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61548377d01fdff342398689%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2021/10/life03-100521.jpg"
+        width: 720
+        height: 838
         isCached: true
 
 secured: "rxwF03SbEgReDJKVMzL8jw6mG1vSAoU/rsMssAmNROT0rXiGazqGTqNHb+7gOCPmApwr/nzLIpxaeAWlQ3kXSZm9Q8BdsaIbqxWkUPQBQxJVMHtNQqxDkk+oQUctPVvyLu9n4m0k7gJSt4aUQGaYENkM946MhOKgNLfwztzw11cTLSit5MlI1okGbVQ7lLJ1kBsloMyDMdHC6soYUeB9typsEXvLVmyC+ewgT+jHExBmHKqe2omCcPRDhCUdSKqqokYokHAgX5NjC3yyBKYj6AANCrdgkWV23ysVJHb+ML8APlj9RqRAgInFdF4zzPz14rTXd0nwhQXRhGklxPEQ3lUyHjXmEwR59ktQUwyaAdXlGeTXqarpVR7/BQ/FO5KBjBZYdgsBlyDFV5fwK+BTdVTN95xc1DZ/J2sKWLiCIYB3X0Q4rGhKSvXvlJ1XSF0S5GlHCeaxPeHlt85zlas4C6Dbz16MWWZQoEoYjbNZ1hR/B3IFvcYaasB3+bKSNT2MYnmaZdSt7BDWEGAgFOESow==;irD2hSCUkvqDuEya/MSq/w=="

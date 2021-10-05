@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1102913249/mPrest-mDERMS-and-mTHM-Now-Available
 webUrl: "https://menafn.com/1102913249/mPrest-mDERMS-and-mTHM-Now-Available-in-the-Microsoft-Azure-Marketplace"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "smartShift achieves the SAP on Microsoft Azure Advanced Specialization"
-    excerpt: "Shift a leading provider of automated transformations and management of legacy enterprise systems in the cloud today announced it has achieved SAP on Microsoft Azure Advanced Specialization. The advanced specialization is designed for"
-    publishedDateTime: 2021-09-30T14:07:00Z
-    webUrl: "https://www.lelezard.com/en/news-20023960.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 54
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "mPrest mDERMS and mTHM Now Available in the Microsoft Azure Marketplace"
     excerpt: "(GLOBE NEWSWIRE) -- mPrest, a leading developer and provider of distributed asset orchestration and optimization software for the energy market, today announced its Distributed Energy Resource Management (mDERMS) applications suite and its Transformer Health Management (mTHM) applications suite are now available in the Microsoft Azure Marketplace,"
     publishedDateTime: 2021-10-04T13:21:00Z

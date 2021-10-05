@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "NITI Aayog, AWS, Intel collaborate for experience studio"
-    excerpt: "Niti Aayog, Amazon Web Services (AWS) and Intel have come together to establish a new experience studio that will be a hub for collaboration and experimentation. The studio has been set up at the Niti Aayog Frontier Technologies Cloud Innovation Centre (CIC) in Niti Aayog''s premises here."
-    publishedDateTime: 2021-09-30T14:54:00Z
-    webUrl: "https://www.outlookindia.com/newsscroll/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369"
-    ampWebUrl: "https://www.outlookindia.com/newsscroll/amp/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 59
-    images:
-      - url: "https://www.outlookindia.com/public/uploads/no-image-new.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "NITI Aayog, AWS, Intel collaborate to launch experience studio for startups"
     excerpt: "The Studio will help showcase the potential of technologies such as AI, ML, IoT, AR and VR, blockchain, and robotics to accelerate their application."
     publishedDateTime: 2021-10-01T09:22:00Z

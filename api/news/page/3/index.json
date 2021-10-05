@@ -128,6 +128,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-01-niti-aayog-aws-intel-collaborate-to-launch-experience-studio-for-startups.md",
+      "title": "NITI Aayog, AWS, Intel collaborate to launch experience studio for startups",
+      "excerpt": "The Studio will help showcase the potential of technologies such as AI, ML, IoT, AR and VR, blockchain, and robotics to accelerate their application.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/niti-aayog-aws-intel-collaborate-to-launch-experience-studio-for-startups-71633080159545.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/niti-aayog-aws-intel-collaborate-to-launch-experience-studio-for-startups-71633080159545.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2021/10/01/1600x900/5c119348-4f48-11eb-a590-57d88199e656_1616069758670_1633080829993.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/niti-aayog-aws-intel-collaborate-to-launch-experience-studio-for-startups-71633080159545.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/niti-aayog-aws-intel-collaborate-to-launch-experience-studio-for-startups-71633080159545.html",
+      "publishedDateTime": "2021-10-01T02:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-01-mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi.md",
       "title": "Mega summit on artificial intelligence (AI) held in Vigyan Bhawan, New Delhi",
       "excerpt": "PTI takes no editorial responsibility for the same.) The second edition of the Global Artificial Intelligence Summit & Awards (GAISA), was a two day event, where companies were felicitated for their pioneering work, in the field of AI. New Delhi ...",
@@ -180,7 +223,7 @@
       "originalUrl": "https://www.digitimes.com/news/a20211001PR200.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -263,6 +306,49 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem.md",
+      "title": "How AI deployment is changing the game of healthcare ecosystem",
+      "excerpt": "While deployment of intelligent bots in healthcare sector, has many beneﬁts and futuristic possibilities, Ayush Verma, Practice Lead, AI & ML and Shveta Raina AVP, Communication & People Strategy, Avizva point out that most healthcare providers refuse to let go of legacy systems and resist adapting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.expresshealthcare.in/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/",
+      "originalUrl": "https://www.expresshealthcare.in/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/10/01121218/EH_Ayush-Verma_Shveta-Raina_Avizva_750.jpg",
+          "width": 750,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.expresshealthcare.in/amp/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/",
+      "cdnAmpWebUrl": "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/",
+      "publishedDateTime": "2021-09-30T23:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "expresshealthcare",
+        "domain": "expresshealthcare.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -482,7 +568,7 @@
       "originalUrl": "https://www.techspot.com/news/91514-google-using-artificial-intelligence-make-information-more-useful.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -585,7 +671,7 @@
       "originalUrl": "https://www.eweek.com/big-data-and-analytics/ai-and-software-development-let-the-revolution-begin/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -628,21 +714,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-01-buet-grads-ai-startup-raises-41-million.md",
-      "title": "BUET grad’s AI startup raises $4.1 million",
-      "excerpt": "AI startup Gray Matter Robotics, headed by BUET graduate Ariyan Kabir, has raised $4.1 million in seed round funding. Stage Venture Partners and Calibrate Ventures led the round, along with 3M Ventures,",
+      "path": "_news/2021-10-01-ai-innovations-in-media-and-communications.md",
+      "title": "AI Innovations In Media And Communications",
+      "excerpt": "My last blog discussed AI innovations in the health care sector, and this one will share a few perspectives of new developments in the Media and Communications Industry.",
       "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/tech-startup/news/buet-grads-ai-startup-raises-41-million-2187806",
-      "originalUrl": "https://www.thedailystar.net/tech-startup/news/buet-grads-ai-startup-raises-41-million-2187806",
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 167,
       "tags": null,
       "images": [
         {
-          "url": "https://img.thedailystar.net/sites/default/files/styles/social_share/public/images/2021/09/30/maxresdefault_9.jpg?itok=imnCCvTE",
-          "width": 750,
-          "height": 393,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155ef71088eada6a8f3c806%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -650,14 +736,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/tech-startup/news/buet-grads-ai-startup-raises-41-million-2187806?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/buet-grads-ai-startup-raises-41-million-2187806?amp",
-      "publishedDateTime": "2021-09-30T12:11:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/amp/",
+      "publishedDateTime": "2021-09-30T10:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -666,7 +761,6 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -718,6 +812,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-dmi-raises-40-mn-for-its-fintech-focussed-sparkle-fund-plans-to-make-20-investments.md",
+      "title": "DMI Raises $40 Mn For Its Fintech-Focussed Sparkle Fund, Plans To Make 20 Investments",
+      "excerpt": "The Sparkle Fund by DMI Alternatives was set up in 2017 to invest in India’s rapidly growing digital finance ecosystem. Sparkle has so far invested $10 Mn across multiple companies including M2P, Credgenics,",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/dmi-closes-40-mn-capital-raise-for-its-fintech-focussed-sparkle-fund/",
+      "originalUrl": "https://inc42.com/buzz/dmi-closes-40-mn-capital-raise-for-its-fintech-focussed-sparkle-fund/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2021/09/GST-Social-2.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/dmi-closes-40-mn-capital-raise-for-its-fintech-focussed-sparkle-fund/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/dmi-closes-40-mn-capital-raise-for-its-fintech-focussed-sparkle-fund/amp/",
+      "publishedDateTime": "2021-09-30T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -930,7 +1067,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/388628",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1055,152 +1192,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2.md",
-      "title": "Microsoft’s Saqib Shaikh, lead on Seeing AI, is returning to Sight Tech Global, Dec. 1-2",
-      "excerpt": "At last year’s inaugural Sight Tech Global event, a virtual event dedicated to applications of AI and related tech to accessibility for people who are blind, one of the most popular sessions belonged to Saqib Shaikh.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/30/microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2/",
-      "originalUrl": "https://techcrunch.com/2021/09/30/microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DybczED-GKE/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/30/microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/30/microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2/amp/",
-      "publishedDateTime": "2021-09-30T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-ai-identifies-american-airlines-group-inc-among-todays-top-shorts-to-close-september-trading.md",
-      "title": "AI Identifies American Airlines Group Inc Among Today’s Top Shorts To Close September Trading",
-      "excerpt": "The Dow Jones gained 107 points, or 0.3%, the S&P 500 added 0.3%, and Nasdaq bounced back 0.4%. Make the most of this market with today's best short plays from Q.ai's deep learning algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2021/09/30/ai-identifies-american-airlines-group-inc-among-todays-top-shorts-to-close-september-trading/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2021/09/30/ai-identifies-american-airlines-group-inc-among-todays-top-shorts-to-close-september-trading/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603e639d5b5af6ccf84c4227%2F0x0.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2021/09/30/ai-identifies-american-airlines-group-inc-among-todays-top-shorts-to-close-september-trading/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/09/30/ai-identifies-american-airlines-group-inc-among-todays-top-shorts-to-close-september-trading/amp/",
-      "publishedDateTime": "2021-09-30T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-could-autonomous-robots-be-more-dangerous-than-nukes.md",
-      "title": "Could Autonomous Robots Be More Dangerous than Nukes?",
-      "excerpt": "Without established regulations and prohibitions on autonomous weapons, they could pose a great danger and possibly destabilize current nuclear strategies.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes",
-      "originalUrl": "https://interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/3oOpl2P5OW/sizes/could-autonomous-robots-be-more-dangerous-than-nukes_resize_md.jpg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes",
-      "publishedDateTime": "2021-09-30T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

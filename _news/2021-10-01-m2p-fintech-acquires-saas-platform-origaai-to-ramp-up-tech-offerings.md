@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/website/amp/business-news-m2p-fintech-a
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "M2P Fintech Acquires Loan Recovery SaaS Startup Origa AI To Bolster Debt Management Stack"
-    excerpt: "The deal between Origa and M2P was a mix of cash and stock, bringing the valuation of the acquisition to $2 Mn - $2.5 Mn."
-    publishedDateTime: 2021-09-30T13:23:00Z
-    webUrl: "https://inc42.com/buzz/m2p-fintech-acquires-loan-recovery-saas-startup-origa-ai-to-bolster-debt-management-stack/"
-    ampWebUrl: "https://inc42.com/buzz/m2p-fintech-acquires-loan-recovery-saas-startup-origa-ai-to-bolster-debt-management-stack/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/m2p-fintech-acquires-loan-recovery-saas-startup-origa-ai-to-bolster-debt-management-stack/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 50
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2021/09/fintech-social-2.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "IIFL Fintech Fund backs AI startup Data Sutram"
     excerpt: "Extrapolate Advisors Pvt Ltd, which runs the Kolkata-based AI startup Data Sutram, has raised funding for an undisclosed amount"
     publishedDateTime: 2021-10-01T07:39:00Z

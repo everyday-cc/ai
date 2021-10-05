@@ -40,15 +40,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "GrayMatter Robotics Raises $4.1M Seed Round"
-    excerpt: "Company will use the funds from Stage Venture Partners, Calibrate Ventures, and others to expand rollouts of its robots used for sanding and finishing parts on manufacturing lines"
-    publishedDateTime: 2021-09-30T13:45:00Z
-    webUrl: "https://www.roboticstomorrow.com/content.php?post=17550"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 49
 
 secured: "M1EsJttddrMEQzqR876N/1Gm2zsHwYB+onJCuETK3CVl+qy5y2yo91U+Vj7eVz4EL4OxRijOfywa2gZ6EE5/xe6L3FWoDpY533tRumEFlO3HAt6QzEXaXNmnQf/cLcIHYoNcllMMmgDRjjEJIxlnq4HiUj052/bV0LPTzJM+Cs3oemDO0Qmi73NC6VZRLlRDYFSPkCgawwkVlJqTI1LI8GGlqGXRG+E0P4G3RVuW2icfIzopPMpSh2eoRKozTrSbZvPv754DoYTYRR/I9ORiaOVFyj+X5FaH4NzmtZ9o/kcLNQGJuoaSHEf/ntQMACa85QYLFOgGv+p3+hpzFnDekEtsk7D26YYCK1e3dfJtEm0=;Nu6STa8GvOeccluTtLAJQQ=="
 ---

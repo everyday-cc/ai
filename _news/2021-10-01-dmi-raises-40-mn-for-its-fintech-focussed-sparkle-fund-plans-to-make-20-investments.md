@@ -9,8 +9,8 @@ ampWebUrl: "https://inc42.com/buzz/dmi-closes-40-mn-capital-raise-for-its-fintec
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/dmi-closes-40-mn-capital-raise-for-its-fintech-focussed-sparkle-fund/amp/"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: inc42.com
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "BGV Raises $110M to focus on Enterprise AI and Cross-Border Investments"
+    excerpt: "Silicon Valley-based venture capital (VC) firm Benhamou Global Ventures (BGV), which invests in Enterprise 4.0 companies globally, today announced its fourth fund, closing at $110M, 60% larger than its third fund."
+    publishedDateTime: 2021-09-30T15:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bgv-raises-110m-to-focus-on-enterprise-ai-and-cross-border-investments-1030834672"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Fintech investments are on high level – Top 10 countries leaders for H1′ 2021"
     excerpt: "The global fintech market made a strong start in 2021. Global fintech investments recorded $98 billion in H1, 2021 with 2.456 deals, according to KPMG insights. In H2, 2021 global fintech investments reached 87 billion dollars."
     publishedDateTime: 2021-10-01T11:16:00Z

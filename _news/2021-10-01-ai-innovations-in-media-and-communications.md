@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 167
+published: true
 
 provider:
   name: Forbes
@@ -30,95 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Innovations In Healthcare"
-    excerpt: "This blog discusses AI Innovations in Healthcare and provides examples of where AI is advancing to increase leadership knowledge. A reference to the The AI Dilemma, a new book by Dr. Cindy Gordon, author of this blog is also highlighted to learn more about AI innovations in healthcare."
-    publishedDateTime: 2021-09-30T14:17:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-healthcare/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155baf730e0300ed464a735%2F0x0.jpg"
-        width: 1200
-        height: 673
-        isCached: true
-  - title: "AI Could Reduce Racial Disparities In Healthcare"
-    excerpt: "What makes one AI tool shortchange Black patients while another produces more equitable treatment? The difference may boil down to one of the simplest rules of computer programming."
-    publishedDateTime: 2021-10-01T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/ai-could-reduce-racial-disparities-in-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/ai-could-reduce-racial-disparities-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/01/ai-could-reduce-racial-disparities-in-healthcare/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f32974509df6c340752fce0%2F0x0.jpg"
-        width: 1200
-        height: 633
-        isCached: true
-  - title: "This Healthcare Company Is Using AI to Develop Drugs"
-    excerpt: "L ife sciences company Schrödinger (NASDAQ: SDGR) has developed software that could help drug companies develop medicine using artificial intelligence and physics, and it's already being used by a number of big-name pharma companies."
-    publishedDateTime: 2021-10-03T12:15:00Z
-    webUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03"
-    ampWebUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
-  - title: "How AI deployment is changing the game of healthcare ecosystem"
-    excerpt: "While deployment of intelligent bots in healthcare sector, has many beneﬁts and futuristic possibilities, Ayush Verma, Practice Lead, AI & ML and Shveta Raina AVP, Communication & People Strategy, Avizva point out that most healthcare providers refuse to let go of legacy systems and resist adapting."
-    publishedDateTime: 2021-10-01T06:17:00Z
-    webUrl: "https://www.expresshealthcare.in/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/"
-    ampWebUrl: "https://www.expresshealthcare.in/amp/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/"
-    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/"
-    type: article
-    provider:
-      name: expresshealthcare
-      domain: expresshealthcare.in
-    quality: 74
-    images:
-      - url: "https://cdn.expresshealthcare.in/wp-content/uploads/2021/10/01121218/EH_Ayush-Verma_Shveta-Raina_Avizva_750.jpg"
-        width: 750
-        height: 400
-        isCached: true
-  - title: "Is Hospital at Home the Future of Healthcare?"
-    excerpt: "Traditional healthcare organizations have a role to play in home healthcare, with remote patient monitoring devices, data integration and artificial intelligence supporting virtual care platform efforts."
-    publishedDateTime: 2021-10-01T17:15:00Z
-    webUrl: "https://healthtechmagazine.net/article/2021/10/hospital-home-future-healthcare"
-    ampWebUrl: "https://healthtechmagazine.net/article/2021/10/hospital-home-future-healthcare?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2021/10/hospital-home-future-healthcare?amp"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 59
-    images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202110/hospital%20at%20home.jpg?itok=Iw8VzoH8"
-        width: 1440
-        height: 500
-        isCached: true
-  - title: "How AI in Healthcare is Giving a Digital Twist to Clinical Decisions"
-    excerpt: "AI has been introduced into the healthcare system as a result of the digital wave. However, as technology evolves and more medical services are disrupted, healthcare companies are shifting from artificial intelligence to augmented intelligence."
-    publishedDateTime: 2021-10-01T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/how-ai-in-healthcare-is-giving-a-digital-twist-to-clinical-decisions-nid-8587.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 54
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/sql884506.jpg"
-        width: 450
-        height: 308
-        isCached: true
   - title: "The Role of Artificial Intelligence in the Future of Education"
     excerpt: "Artificial Intelligence is already being widely employed around the world to better our lives, work, health, and everyday routines, among other things. Furthermore, the solution has significant educational potential,"
     publishedDateTime: 2021-10-02T15:46:00Z
@@ -133,48 +44,17 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Chatbot Botco.ai receives $3.6m investment to help healthcare organisations"
-    excerpt: "Botco.ai connects with existing CRM and electronic health record systems to help businesses in health provide personalised assistance with privacy and confidentiality."
-    publishedDateTime: 2021-10-04T08:36:00Z
-    webUrl: "https://marketingtechnews.net/news/2021/oct/01/chatbot-botco-ai-receives-3-6m-investment-to-help-healthcare-organisations/"
+  - title: "Australian organisations lack maturity in responsible AI"
+    excerpt: "Most Australian organisations are still in the early stages of their responsible AI efforts despite growing use of AI by businesses and consumers, new study finds"
+    publishedDateTime: 2021-10-05T00:34:00Z
+    webUrl: "https://www.computerweekly.com/news/252507710/Australian-organisations-lack-maturity-in-responsible-AI"
+    ampWebUrl: "https://www.computerweekly.com/news/252507710/Australian-organisations-lack-maturity-in-responsible-AI?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252507710/Australian-organisations-lack-maturity-in-responsible-AI?amp=1"
     type: article
     provider:
-      name: marketingtechnews.net
-      domain: marketingtechnews.net
-    quality: 52
-    images:
-      - url: "https://marketingtechnews.net/wp-content/uploads/sites/6/2020/03/artificial-intelligence-chatbot-cyber-communication-robot-world-and-picture-id700469776.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Oracle Promotes Responsible Use of AI in Financial Institutions"
-    excerpt: "A recent World Economic Forum survey 1 found that 85% of financial institutions have implemented AI, but some still have concerns about its use. To help financial institutions apply AI responsibly, Oracle has added new AI governance capabilities to its Oracle Financial Services Compliance Studio application."
-    publishedDateTime: 2021-10-04T12:37:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-science-business-world-economic-forum-31e15a5ead1fb927e02852864d2156d6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Computer Weekly
+      domain: computerweekly.com
     quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "NASSCOM CoE-IoT and AI Evangelizes Digital Healthcare Solutions through Healthcare Innovation Challenge-2"
-    excerpt: "A grand finale event with the announcement of winners today marked the end of first phase and start of next phase focusing on deployment of solutions of Healt"
-    publishedDateTime: 2021-09-30T13:55:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271362699/nasscom-coe-iot-and-ai-evangelizes-digital-healthcare-solutions-through-healthcare-innovation-challenge-2"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1633009356.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "The Scope of Artificial intelligence in India"
     excerpt: "Artificial intelligence (AI) has transformed the world of technology. This is the reason why AI investment is increasing. Keep reading to learn about what is the current situation of our country as far as AI is concerned,"
     publishedDateTime: 2021-10-02T08:30:00Z
@@ -189,6 +69,48 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "More Organizations Saving Time and Costs on Data Breaches with Automation and AI"
+    excerpt: "Cost of a Data Breach report shows, AI and automation can reduce the cost of a data breach. See how organizations with AI security fared in 2021."
+    publishedDateTime: 2021-10-01T17:30:00Z
+    webUrl: "https://securityintelligence.com/posts/save-time-money-data-breach-security-ai-automation/"
+    type: article
+    provider:
+      name: Hack
+      domain: securityintelligence.com
+    quality: 32
+    images:
+      - url: "https://securityintelligence.com/wp-content/uploads/2021/10/Data-Breach-1.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Future is Now: How AI in Diagnostic Imaging is Transforming Medical Applications"
+    excerpt: "The Use of AI in Diagnostic Imaging is Booming in Healthcare Industry” Download the most up-to-date research study and application @  AI in diagnostic imaging is gaining prominence and quickly growing industry close to what's to come."
+    publishedDateTime: 2021-10-01T19:22:00Z
+    webUrl: "https://www.linkedin.com/pulse/future-now-how-ai-diagnostic-imaging-transforming-medical-p-mahajan"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 30
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGmyKBct-TaWg/article-cover_image-shrink_720_1280/0/1633115703468?e=1638403200&v=beta&t=lYhzsqOGDrkEHBGeACtqj6r46vmodR0eEfo1XbStQwY"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "How Deep Learning Works in the Covid-19 Era: Applications and Limitations of Deep Learning"
+    excerpt: "Deep learning is changing the world during the Covid-19 pandemic by detecting fraud, treating illnesses, developing self-driving cars and helping organizations deal with complicated queries."
+    publishedDateTime: 2021-10-04T14:32:00Z
+    webUrl: "https://www.bbntimes.com/technology/how-deep-learning-works-in-the-covid-19-era-applications-and-limitations-of-deep-learning"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 29
+    images:
+      - url: "https://www.bbntimes.com/images/articles/society/How_Deep_Learning_Works_in_the_Covid-19_Era.jpeg"
+        width: 1620
+        height: 1080
+        isCached: true
   - title: "Relativity Focuses on International Expansion, Integrations and AI in Relativity Fest Keynote"
     excerpt: "The virtual Relativity Fest 2021 keynote didn't feature groundbreaking product releases like in years past, but instead upgrades aimed at integrating artificial intelligence into the discovery workflow,"
     publishedDateTime: 2021-10-04T16:03:00Z
@@ -202,6 +124,20 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/10/Relativity-Fest-2018-Logo-Sign-1-767x633.jpg"
         width: 767
         height: 633
+        isCached: true
+  - title: "Worldwide Mission Critical Communications Industry Report to 2026 - 5 Cases Studies Included"
+    excerpt: "The \"Mission Critical Communications Market by Enterprise, Industrial and Government Solutions 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. The market for mission critical communications is rapidly evolving as developing technologies supply solutions necessary to meet emerging demand for improved voice,"
+    publishedDateTime: 2021-09-30T19:42:00Z
+    webUrl: "https://menafn.com/1102895938/Worldwide-Mission-Critical-Communications-Industry-Report-to-2026-5-Cases-Studies-Included"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 13
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?280675"
+        width: 371
+        height: 250
         isCached: true
 
 secured: "aS1C1vgmCtmbnjYLnNeDvF1840PQdbOFxrmTf3cijYdE+hzjRMH38/Dgg34aFfXVafBS7XYg8YxIP4/Se4z1r0nkt7pVBtPBvxBH2qChvZrwCijpmoZOsBvxrtfolofU5z7zli9azNp2I2lIgkTV9c2QvJyPu3x67D+S7IKp6XbNTrP2esPPqIVOU6WUcK3ICdWzBvMMXLVO2O93GwCbRQLsXuE4TIntH6ccx7SpD9pd98fsoRd+0NCZ7JrFqVSvqdFSbU05cttreaDAh3Zfb43XQetyq4WS08pLQHyTOdZsVU+bWEp9lLh/g6pFWiwPWxOsAnTVDzOGY3/1Dm8F8Rw2PVBgUKLLQKlqJN/x+bWXV2myfUnEKOjXUGnZA8QkgapFuSJic6WeQmlouuMsjO8Rrci73oo09HSv9t97zJD/RWUa52uapEzUPLb+SILP3dQ/jVP2LFNGljGXiPdWzoHPei37TylMGA8Jrq1NbiA54rZrBPlHvpO2ljhuzog/zilzQebGt44ymr+4jO0IwQ==;hgdFtDX8aV3YlWgWafqVYQ=="

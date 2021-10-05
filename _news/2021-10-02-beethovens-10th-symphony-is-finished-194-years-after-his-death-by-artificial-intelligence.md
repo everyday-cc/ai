@@ -54,20 +54,6 @@ related:
         width: 432
         height: 216
         isCached: true
-  - title: "Scientists Built an Artificial Intelligence to Finish Beethoven’s Tenth Symphony"
-    excerpt: "We don't know what Beethoven meant to do for his unfinished 10th Symphony. But what if we could plug his music into an AI to figure it out?"
-    publishedDateTime: 2021-09-30T14:44:00Z
-    webUrl: "https://www.extremetech.com/extreme/327722-scientists-built-an-artificial-intelligence-to-finish-beethovens-tenth-symphony"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 32
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2021/09/Ninth_Symphony_original-feature-crop.png"
-        width: 716
-        height: 395
-        isCached: true
   - title: "Beethoven's 10th symphony is finished 194 years after his death - by artificial intelligence that used just 250 surviving bars of notes"
     excerpt: "Beethoven's 10th symphony has been completed 194 years after his death by a computer that recreated two movements running to 40 minutes in length."
     publishedDateTime: 2021-10-01T23:57:00Z

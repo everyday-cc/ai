@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence to the rescue"
-    excerpt: "Washington State University will lead a consortium of institutions in the development of new artificial intelligence tools to help address problems in the agricultural field."
-    publishedDateTime: 2021-10-02T07:00:00Z
-    webUrl: "https://lmtribune.com/agriculture/artificial-intelligence-to-the-rescue/article_fd563974-9988-5012-85af-7310e61d0f18.html"
+  - title: "Is Artificial Intelligence the villain here?"
+    excerpt: "There was a time when people had to buy the newspaper (news on paper, literally), find the jobs' session, and browse through it to find an advertised open role. If found, they had to mail their #resume to apply,"
+    publishedDateTime: 2021-10-01T18:04:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-villain-here-ren-beani"
     type: article
     provider:
-      name: Lewiston Tribune
-      domain: lmtribune.com
-    quality: 37
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 52
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/lmtribune.com/content/tncms/assets/v3/editorial/7/3b/73b47508-662a-5d8e-a646-636971f74716/61523f24dd8d4.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGgvsMbd7aPXQ/article-cover_image-shrink_600_2000/0/1633111308406?e=1638403200&v=beta&t=qEqV7SMVtgEF4VPoFJz9Bp13rc_ePOvkXAdi--kW-MY"
+        width: 700
+        height: 325
         isCached: true
 
 secured: "kGVKnth9SjPz6AJkICK8KxR75NTgFr/gIwKkCEm80iSOVt6MCpVlkdPQaRq7+GoJTNBnL23MQFqDVgZDpSxkl+RqZlqYKhJtDa1Xg6Rt4HZWJ8MbRwdXf+y8m/jIkT/anBa4Al4ALYfJ6FHun+mx8qZYFUrBoepmRm/rTzbTsJ63ctvz91f4J5ZmBxUG1CBBYxzk54pzfKOTvxaVtVR7RxPP+yvLLE8ypeQLfSncLE238fTSHaxgBmVtzLPhVPcjJ6QGjI4OSRDYxeKmZ7ZJhjmBKQIW79lqV+M0FLO9kWI+pMXNSMRt1+8Vf/vuRzpvRH8GilMgfXkDnbWM8mxIHQWGc9sx+uDcVbgINtmb48inZzifjEKudJQY5w1J4RcHlKs0TseoerCRsn3Q3tabbBg/2q1cgacYPfMXxHfQivaABYgGQFZ6TK0LGOdhwsVHysjsklci/YBKOvtmo2TbQ5wjyyJotVL35hnK7KTqrc0ZxM1qIJcX3AvaRZT0LSjSx4Mcnsds3u0Ol8/p8jBk+Q==;BBGSgZEdIGY7QV5dl0a7YA=="

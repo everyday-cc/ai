@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thedailystar.net/tech-startup/news/buet-grads-ai-startup
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/buet-grads-ai-startup-raises-41-million-2187806?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Daily Star
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "GrayMatter Robotics Raises $4.1M Seed Round"
-    excerpt: "Company will use the funds from Stage Venture Partners, Calibrate Ventures, and others to expand rollouts of its robots used for sanding and finishing parts on manufacturing lines"
-    publishedDateTime: 2021-09-30T13:45:00Z
-    webUrl: "https://www.roboticstomorrow.com/content.php?post=17550"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 49
   - title: "Thankful Raises $12 Million for Customer Service AI"
     excerpt: "Venice-based Thankful AI Inc. raised $12 million in Series A funding for its customer service artificial intelligence platform. Thankful plans to use the funding to further develop its AI to include features such as greater personalization and the ability to upsell in customer service situations."
     publishedDateTime: 2021-10-04T07:06:00Z
