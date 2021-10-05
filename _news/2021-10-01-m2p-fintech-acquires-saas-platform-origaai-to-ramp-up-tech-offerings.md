@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/website/amp/business-news-m2p-fintech-a
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389"
 type: article
 quality: 59
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -56,6 +56,34 @@ related:
       - url: "https://assets.vccircle.com/uploads/2019/05/Fundingrf2.jpg"
         width: 810
         height: 506
+        isCached: true
+  - title: "Key Ways Fintech is Transforming Investment Banking"
+    excerpt: "The conventional investment banking business has struggled to adapt to legacy technology, but as the digital revolution sweeps across finance, now is the moment to shift. Fremont, CA: FinTech will change investment banking in various ways,"
+    publishedDateTime: 2021-10-01T13:24:00Z
+    webUrl: "https://www.cioapplications.com/news/key-ways-fintech-is-transforming-investment-banking-nid-8601.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/uivp4451.jpg"
+        width: 450
+        height: 308
+        isCached: true
+  - title: "Discover new trends for Fintech and Insurtech in 2022"
+    excerpt: "For more info see FinTech & InsurTech Live A recent report by McKinsey shows that there will be five groundbreaking trends that will transform the insurtech and fitnech space over the next decade. These trends will be driven by new technologies and will be transformative both as a combined force,"
+    publishedDateTime: 2021-10-04T12:34:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/discover-new-trends-fintech-and-insurtech-2022"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1310293181_0.jpg.png?itok=PK7CDtDD"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "yqxPcrH0QpdDY1+TJdSwEOBJytySY1MpHkc8bCTXeeolT6S+ot/B8BGve9r0saU0X1HMuT2xhL0xVW75VxXuvhxDn/D//5yXZc2Mmj+e1E7c33obq4cxFLCcdaSRE/qmrJ6rHxYbSc3whwt0magveiJp5js3fz8DqBtoni881tkOTWlBfbvVkhks15UJtpL2Y2RyiYBallsTJ0JMFtmtxJVnirhElApB+l4HPcwNY3bZ3v4GRRXpsO8xghd2mIuPadYk9PwvNM5xln3UToeCPqIN1HGJzeaNMXG2/TxlpLuw3NFtdfLFxC4u3aP/yhLzKkgqr38wfO07ZRjnFgvzpV0WZQWAWuM0yZdLkifvVJhLUTMm70qrvZsCL+h11V8tzcM3syIcW0mAyiT7kO/iHqiYdLjo6mo3k1KgN+YNphXFaD9xoron/mxa4zVbNumCyRmsglSVHjiVO9scnxcBkBRXJLU06nSlgUNlyCXMrtS5Rhygup56cMj7hBwU6UmUerjjjq7fD54voRR6GH7LEw==;XVegLyEfgvuMTsJp1YFlag=="

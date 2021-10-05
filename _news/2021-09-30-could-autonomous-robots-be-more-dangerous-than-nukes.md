@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/could-autonomous-robots-be-mo
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/164618-kybyqusbld-1633010600.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "An autonomous robot may have already killed people—here's how the weapons could be more destabilizing than nukes"
-    excerpt: "Autonomous weapon systems—commonly known as killer robots—may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
-    publishedDateTime: 2021-09-30T12:45:00Z
-    webUrl: "https://techxplore.com/news/2021-09-autonomous-robot-peoplehere-weapons-destabilizing.html"
-    ampWebUrl: "https://techxplore.com/news/2021-09-autonomous-robot-peoplehere-weapons-destabilizing.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-autonomous-robot-peoplehere-weapons-destabilizing.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 38
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/an-autonomous-robot-ma.jpg"
-        width: 1356
-        height: 668
         isCached: true
   - title: "Are these the first killer robots – and why are they more dangerous than nukes?"
     excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/newsscroll/amp/niti-aayog-aws-intel-col
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 36
-  - title: "NITI Aayog, AWS, and Intel Collaborate to Accelerate Digital Innovation in India"
-    excerpt: "The National Institution for Transforming India (NITI Aayog), the Government of India’s national policy think tank, Amazon Web Services (AWS), and Intel have"
-    publishedDateTime: 2021-09-30T12:14:00Z
-    webUrl: "https://technuter.com/tech/niti-aayog-aws-and-intel-collaborate-to-accelerate-digital-innovation-in-india.html"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 34
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2020/02/Niti-Aayog.jpg"
-        width: 317
-        height: 327
-        isCached: true
   - title: "NITI Aayog, AWS,and Intel Collaborate to Accelerate Digital Innovation in India"
     excerpt: "The National Institution for Transforming India (NITI Aayog), the Government of India’s national policy think tank, Amazon Web Services (AWS), and Intel have come together to establish a new experience studio at the NITI Aayog Frontier Technologies Cloud Innovation Center (CIC)."
     publishedDateTime: 2021-10-01T04:48:00Z

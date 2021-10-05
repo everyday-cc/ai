@@ -57,6 +57,34 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Key Ways Fintech is Transforming Investment Banking"
+    excerpt: "The conventional investment banking business has struggled to adapt to legacy technology, but as the digital revolution sweeps across finance, now is the moment to shift. Fremont, CA: FinTech will change investment banking in various ways,"
+    publishedDateTime: 2021-10-01T13:24:00Z
+    webUrl: "https://www.cioapplications.com/news/key-ways-fintech-is-transforming-investment-banking-nid-8601.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/uivp4451.jpg"
+        width: 450
+        height: 308
+        isCached: true
+  - title: "Discover new trends for Fintech and Insurtech in 2022"
+    excerpt: "For more info see FinTech & InsurTech Live A recent report by McKinsey shows that there will be five groundbreaking trends that will transform the insurtech and fitnech space over the next decade. These trends will be driven by new technologies and will be transformative both as a combined force,"
+    publishedDateTime: 2021-10-04T12:34:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/discover-new-trends-fintech-and-insurtech-2022"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1310293181_0.jpg.png?itok=PK7CDtDD"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "cRkysZnfhtAlLAufl4FGF1jn0HQplbDPSqldDQjEAv42eLqgBdh+Fr6UKpXKXYEaXckiA2FjshfoHX0t8fJr5FFFNJXs+u1GSW3ev6SaP/ATQfrI0SpR28y0uyEEpeSsJCSUxPt8QCQ5q+2xkPODjL0rFjkXivX3vIbpBelsiEoxFcEp3z/AsR6E3lrBTyOEUjqY7P1IhgidUQwQsPu6OjSfIFi/DGUkcKxvDUTfmRAzuXWGoG/Bj5GYcJSK/H4D98Epph52UFUN6B5xClsq43ZlOK2Dufo76JEj8Yp3UPaChCGyeKNg3c3K+V6u741qAKn7acaJGRtnPUT9vdPsPSKA/h4qEtVNO2CFug3DpSrLLx3c0IwRVzK4lNnpeYVQOqH+jEn54+z91IpDvNSYGDeIi71+aR8t3/6TaTXhPwJ1rJedjoQev8VXfM4m73PTwezLJgvHbbd5CpyL0S32m1kEndtytZRY4kIHehXd9hgkzqW0KxwJOngr5z94JAxyVw3kpA0HMCxfgbNijHXRHA==;SQd+jZry8fggd8Wtz/Z5AQ=="
 ---

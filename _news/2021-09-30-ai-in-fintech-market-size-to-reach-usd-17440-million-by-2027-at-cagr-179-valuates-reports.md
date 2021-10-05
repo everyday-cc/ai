@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/in/news-releases/ai-in-fintech-market-s
 webUrl: "https://www.prnewswire.com/in/news-releases/ai-in-fintech-market-size-to-reach-usd-17440-million-by-2027-at-cagr-17-9-valuates-reports-873130618.html"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -23,68 +23,6 @@ images:
     width: 920
     height: 482
     isCached: true
-
-related:
-  - title: "FinTech Can Help Fill Climate Resilience Gaps In Emerging Markets"
-    excerpt: "New financial technology (fintech) is helping increase climate resilience across all sectors — most notably on agriculture and energy businesses in emerging markets."
-    publishedDateTime: 2021-09-30T12:43:00Z
-    webUrl: "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/"
-    ampWebUrl: "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155ae7c589358c2fe64a735%2F0x0.jpg"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "Bahrain-based Regional Data Center Announced at Seamless ME FinTech Conference and Expo"
-    excerpt: "Chief Executive, Mohammed Ali Al Qaed led the Bahrain delegation participating in the Seamless Middle East Conference and Expo, held under the patronage of UAE Deputy Prime Minister and Minister of Interior,"
-    publishedDateTime: 2021-10-02T08:24:00Z
-    webUrl: "https://www.bahrainthisweek.com/bahrain-based-regional-data-center-announced-at-seamless-me-fintech-conference-and-expo/"
-    ampWebUrl: "https://www.bahrainthisweek.com/bahrain-based-regional-data-center-announced-at-seamless-me-fintech-conference-and-expo/?amp"
-    cdnAmpWebUrl: "https://www-bahrainthisweek-com.cdn.ampproject.org/c/s/www.bahrainthisweek.com/bahrain-based-regional-data-center-announced-at-seamless-me-fintech-conference-and-expo/?amp"
-    type: article
-    provider:
-      name: bahrainthisweek.com
-      domain: bahrainthisweek.com
-    quality: 51
-    images:
-      - url: "https://www.bahrainthisweek.com/wp-content/uploads/2021/09/Official-893x1024.jpg"
-        width: 893
-        height: 1024
-        isCached: true
-  - title: "Key Ways Fintech is Transforming Investment Banking"
-    excerpt: "The conventional investment banking business has struggled to adapt to legacy technology, but as the digital revolution sweeps across finance, now is the moment to shift. Fremont, CA: FinTech will change investment banking in various ways,"
-    publishedDateTime: 2021-10-01T13:24:00Z
-    webUrl: "https://www.cioapplications.com/news/key-ways-fintech-is-transforming-investment-banking-nid-8601.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/uivp4451.jpg"
-        width: 450
-        height: 308
-        isCached: true
-  - title: "Discover new trends for Fintech and Insurtech in 2022"
-    excerpt: "For more info see FinTech & InsurTech Live A recent report by McKinsey shows that there will be five groundbreaking trends that will transform the insurtech and fitnech space over the next decade. These trends will be driven by new technologies and will be transformative both as a combined force,"
-    publishedDateTime: 2021-10-04T12:34:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/discover-new-trends-fintech-and-insurtech-2022"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1310293181_0.jpg.png?itok=PK7CDtDD"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "v7qwdxJ4rdjjcbbTAKGiYZbnPTgzrjRjuku+WUJDEc5WtWeFye0ZLHFct9UmddSrVq18uPPXG8WagWO1D4UC9WsqAUGkRwxLXgof5jiLTMriNSd2eQ0z7W5DP8J9kw9RcYfVCV8WyndUe6/G6YPJmqH11aa6Dy4cLMf2qdrxjOf+fpQgIe+AEtt8ys+YNE/opHG0qprVfJMtJfw2ET6aIl5hnx8lHFIY4MAKLuDoWxlbUifL7gTZv6fUkH7bspxK2Mp94s6OjY0hN/PkCYo1UQ8/KoNZsOUIXbfYjXI3Ag/HIBZp4tLJtMpbHE7HtMm+I7O2wnmbU4BSfbtvj6Vo+GNdDQyhMoGNJntPGFp5lVaJqk5mx/0tO6GG9C6OclJ7GifEKGxDCRhTev2BddRpkyDml2+HZdZ8vpyy3Ocv4f2BXPDJurmPBq/A21ZHnzgJ3TdM7x/2REuZZ01FzWa3bXdbHcq1ZbbaoBp/SjKxOQgqsBwZFiVMIgYpxiSC0UHOu3odt1JhMImcgSd5ff5vxw==;xgntPcitjqfLkpDpzf0ZNA=="
 ---

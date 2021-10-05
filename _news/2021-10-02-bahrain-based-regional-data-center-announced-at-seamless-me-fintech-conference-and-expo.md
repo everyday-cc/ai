@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bahrainthisweek.com/bahrain-based-regional-data-center-a
 cdnAmpWebUrl: "https://www-bahrainthisweek-com.cdn.ampproject.org/c/s/www.bahrainthisweek.com/bahrain-based-regional-data-center-announced-at-seamless-me-fintech-conference-and-expo/?amp"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: bahrainthisweek.com
@@ -27,64 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "FinTech Can Help Fill Climate Resilience Gaps In Emerging Markets"
-    excerpt: "New financial technology (fintech) is helping increase climate resilience across all sectors — most notably on agriculture and energy businesses in emerging markets."
-    publishedDateTime: 2021-09-30T12:43:00Z
-    webUrl: "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/"
-    ampWebUrl: "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/amp/"
+  - title: "ThreeD Capital announces Peak Fintech completes acquisition of Cubeler"
+    excerpt: "ThreeD Capital Inc., a Canadian-based venture capital firm focused on opportunistic investments in companies, has reported"
+    publishedDateTime: 2021-10-04T05:37:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/threed-capital-announces-peak-fintech-completes-acquisition-of-cubeler/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155ae7c589358c2fe64a735%2F0x0.jpg"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "Key Ways Fintech is Transforming Investment Banking"
-    excerpt: "The conventional investment banking business has struggled to adapt to legacy technology, but as the digital revolution sweeps across finance, now is the moment to shift. Fremont, CA: FinTech will change investment banking in various ways,"
-    publishedDateTime: 2021-10-01T13:24:00Z
-    webUrl: "https://www.cioapplications.com/news/key-ways-fintech-is-transforming-investment-banking-nid-8601.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/uivp4451.jpg"
-        width: 450
-        height: 308
-        isCached: true
-  - title: "AI in Fintech Market Size to Reach USD 17440 Million by 2027 at CAGR 17.9% - Valuates Reports"
-    excerpt: "The AI in Fintech Market is Segmented by Type (Software Tools, Platforms), Application (Virtual Assistant, Business Analytics and"
-    publishedDateTime: 2021-09-30T14:00:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/ai-in-fintech-market-size-to-reach-usd-17440-million-by-2027-at-cagr-17-9-valuates-reports-873130618.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-        width: 920
-        height: 482
-        isCached: true
-  - title: "Discover new trends for Fintech and Insurtech in 2022"
-    excerpt: "For more info see FinTech & InsurTech Live A recent report by McKinsey shows that there will be five groundbreaking trends that will transform the insurtech and fitnech space over the next decade. These trends will be driven by new technologies and will be transformative both as a combined force,"
-    publishedDateTime: 2021-10-04T12:34:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/discover-new-trends-fintech-and-insurtech-2022"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
+      name: IBS
+      domain: ibsintelligence.com
     quality: 24
     images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1310293181_0.jpg.png?itok=PK7CDtDD"
-        width: 1200
-        height: 630
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/WK_Sep2021@2x.png"
+        width: 401
+        height: 401
         isCached: true
+  - title: "Bahrain-based Regional Data Centre announced at Seamless ME FinTech Conference and Expo"
+    excerpt: "Chief Executive, Mohammed Ali Al Qaed led the Bahrain delegation participating in the Seamless Middle East Conference and Expo, held under the patronage of UAE Deputy Prime Minister and Minister of Interior,"
+    publishedDateTime: 2021-09-30T16:03:00Z
+    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDhg0pfzNiEyggWMjhEd%2b1fE%3d"
+    type: article
+    provider:
+      name: bna.bh
+      domain: www.bna.bh
+    quality: 11
 
 secured: "Pi0Y8AlufMrJ5DYnRygARKLEOMaKkfJdxJeAOXxSwZRUyPrvOqn9F18VveNdje0PVIebtoJP4ReYKvUQYcCjafT25inHeJklgty0MVDbZBXY06sU3CHusg0P+xGJVOxOH/jOSlSSOHriL+dwhHvST0DSSHpipcM51DncDpnA+tJY5pS4E1NuSVL/RFg45sJaZWsj0xkkQy6AaC8fUfZK48uAyUbjwJ4uBQf3yCpRC3v4v/wzgy9+cv+RMVpq8Yf9qdUXkwhLuzzTljVvFFVYwnPOCRpSZh/mzswgdTtRDU8WMNbJRMq5e/LhcFsrY9RM6HvO/DXEaaTBpLiFJ0/617fMGu7F1cOOMAWtBAcls7U=;sz9tD+ar5NH5ZOXQa1g+hA=="
 ---

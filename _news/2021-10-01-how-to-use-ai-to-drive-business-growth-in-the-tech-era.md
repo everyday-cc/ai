@@ -56,22 +56,6 @@ related:
         width: 350
         height: 450
         isCached: true
-  - title: "The Future of Artificial Intelligence In Manufacturing"
-    excerpt: "Any company working in the manufacturing industry is likely to know that AI has been making significant improvements with a range of applications."
-    publishedDateTime: 2021-09-30T11:11:00Z
-    webUrl: "https://bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/"
-    ampWebUrl: "https://bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/?amp"
-    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/?amp"
-    type: article
-    provider:
-      name: Business Matters
-      domain: bmmagazine.co.uk
-    quality: 59
-    images:
-      - url: "https://bmmagazine.co.uk/wp-content/uploads/2021/09/shutterstock_1154438635-scaled.jpg"
-        width: 850
-        height: 375
-        isCached: true
   - title: "Valley teen's AI-driven wildfire prevention system turning heads"
     excerpt: "Basically, what the system does is it detects hot spots which are areas where wildfires can start,” said Prisha. The system she designed uses real-time NASA and NOAA Meteorological data and predicts if an area’s conditions are ripe for disaster."
     publishedDateTime: 2021-10-01T20:56:00Z
@@ -115,20 +99,6 @@ related:
       - url: "https://www.hks.harvard.edu/sites/default/files/about_us/Twitter-Card.png"
         width: 840
         height: 450
-        isCached: true
-  - title: "Grow and protect your wealth with AI technology"
-    excerpt: "Some popular stock indices include: l The Nasdaq 100, the top 100 technology companies listed on the Nasdaq by market cap. l The S&P 500, the 500 biggest companies on the New York Stock Exchange by market cap."
-    publishedDateTime: 2021-09-30T12:45:00Z
-    webUrl: "https://gulfnews.com/business/grow-and-protect-your-wealth-with-ai-technology-1.1633005760082"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 39
-    images:
-      - url: "https://imagevars.gulfnews.com/2021/09/30/Stock-Hunt_17c36bc2396_medium.jpg"
-        width: 540
-        height: 405
         isCached: true
 
 secured: "BvtDv1uoNRKQv099jZAkJcQH1hkiQEgTm+Y/YBbAJXvuLDXSNQGm22L6QKasprdHYj50uhf9bnsaNchy7APVkpQ8jjktZo/bYABfoFRHtbAZr/L2Dg7LlrM/TfXqG6PjeGat/a7tBFr/A7eIyJJI7hVCkEwkRY7bmzJ3K9PKP1IDp3f5PblShWonNM1RUV7bj16Uu1cceK/Uf+XUBjCdFUzzof+SD7Cjpk/kFG0LCUmGDPHJKyU8FAFymAhx9STds5XkCCFKL2ie+tiaaQyT4+j9PhvI5B7lqVSholk1MKdeIY2BqTqSMlPaTFxNw96nMHOH6LRtICuK8+pwzX+qYmC/A8XlO3EWUZ16fmSGnLl6F+lrCotGUafQ17JxoQj6Y+aZWE36A5BSagCPTyABFOUeLSjXhgKA5CVdR6hNKcHrr621gOGP3E7JFBFTLePTf2N+UCnO+Q26A3h/vAFCoj2uQf0KzuZ4hVcPquYvct5PYNble+MdV+qBeEXjpCCU1eUVlULxSn1kDidx+ns7uw==;H7fz//xY/04rHAJbawO2/g=="

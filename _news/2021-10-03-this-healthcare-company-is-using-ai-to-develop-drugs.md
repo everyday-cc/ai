@@ -146,7 +146,7 @@ related:
   - title: "Oracle Promotes Responsible Use of AI in Financial Institutions"
     excerpt: "A recent World Economic Forum survey 1 found that 85% of financial institutions have implemented AI, but some still have concerns about its use. To help financial institutions apply AI responsibly, Oracle has added new AI governance capabilities to its Oracle Financial Services Compliance Studio application."
     publishedDateTime: 2021-10-04T12:37:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-business-world-economic-forum-31e15a5ead1fb927e02852864d2156d6"
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-science-business-world-economic-forum-31e15a5ead1fb927e02852864d2156d6"
     type: article
     provider:
       name: Associated Press

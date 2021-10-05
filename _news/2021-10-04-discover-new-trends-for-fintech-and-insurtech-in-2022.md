@@ -25,37 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "FinTech Can Help Fill Climate Resilience Gaps In Emerging Markets"
-    excerpt: "New financial technology (fintech) is helping increase climate resilience across all sectors — most notably on agriculture and energy businesses in emerging markets."
-    publishedDateTime: 2021-09-30T12:43:00Z
-    webUrl: "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/"
-    ampWebUrl: "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/amp/"
+  - title: "M2P Fintech Acquires Saas Platform Origa.ai To Ramp Up Tech Offerings"
+    excerpt: "M2P Fintech said in a press release the acquisition will help the firm to bolster its technology capabilities around new age collection."
+    publishedDateTime: 2021-10-01T13:13:00Z
+    webUrl: "https://www.outlookindia.com/website/story/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389"
+    ampWebUrl: "https://www.outlookindia.com/website/amp/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 59
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155ae7c589358c2fe64a735%2F0x0.jpg"
-        width: 1200
-        height: 798
+      - url: "https://images.outlookindia.com/public/uploads/articles/2021/10/1/m2p_550_550.jpg"
+        width: 550
+        height: 367
         isCached: true
-  - title: "Bahrain-based Regional Data Center Announced at Seamless ME FinTech Conference and Expo"
-    excerpt: "Chief Executive, Mohammed Ali Al Qaed led the Bahrain delegation participating in the Seamless Middle East Conference and Expo, held under the patronage of UAE Deputy Prime Minister and Minister of Interior,"
-    publishedDateTime: 2021-10-02T08:24:00Z
-    webUrl: "https://www.bahrainthisweek.com/bahrain-based-regional-data-center-announced-at-seamless-me-fintech-conference-and-expo/"
-    ampWebUrl: "https://www.bahrainthisweek.com/bahrain-based-regional-data-center-announced-at-seamless-me-fintech-conference-and-expo/?amp"
-    cdnAmpWebUrl: "https://www-bahrainthisweek-com.cdn.ampproject.org/c/s/www.bahrainthisweek.com/bahrain-based-regional-data-center-announced-at-seamless-me-fintech-conference-and-expo/?amp"
+  - title: "M2P Fintech Acquires Loan Recovery SaaS Startup Origa AI To Bolster Debt Management Stack"
+    excerpt: "The deal between Origa and M2P was a mix of cash and stock, bringing the valuation of the acquisition to $2 Mn - $2.5 Mn."
+    publishedDateTime: 2021-09-30T13:23:00Z
+    webUrl: "https://inc42.com/buzz/m2p-fintech-acquires-loan-recovery-saas-startup-origa-ai-to-bolster-debt-management-stack/"
+    ampWebUrl: "https://inc42.com/buzz/m2p-fintech-acquires-loan-recovery-saas-startup-origa-ai-to-bolster-debt-management-stack/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/m2p-fintech-acquires-loan-recovery-saas-startup-origa-ai-to-bolster-debt-management-stack/amp/"
     type: article
     provider:
-      name: bahrainthisweek.com
-      domain: bahrainthisweek.com
-    quality: 51
+      name: inc42.com
+      domain: inc42.com
+    quality: 50
     images:
-      - url: "https://www.bahrainthisweek.com/wp-content/uploads/2021/09/Official-893x1024.jpg"
-        width: 893
-        height: 1024
+      - url: "https://inc42.com/wp-content/uploads/2021/09/fintech-social-2.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "IIFL Fintech Fund backs AI startup Data Sutram"
+    excerpt: "Extrapolate Advisors Pvt Ltd, which runs the Kolkata-based AI startup Data Sutram, has raised funding for an undisclosed amount"
+    publishedDateTime: 2021-10-01T07:39:00Z
+    webUrl: "https://www.vccircle.com/iifl-fintech-fund-backs-ai-startup-data-sutram"
+    type: article
+    provider:
+      name: VCCircle
+      domain: vccircle.com
+    quality: 39
+    images:
+      - url: "https://assets.vccircle.com/uploads/2019/05/Fundingrf2.jpg"
+        width: 810
+        height: 506
         isCached: true
   - title: "Key Ways Fintech is Transforming Investment Banking"
     excerpt: "The conventional investment banking business has struggled to adapt to legacy technology, but as the digital revolution sweeps across finance, now is the moment to shift. Fremont, CA: FinTech will change investment banking in various ways,"
@@ -70,20 +84,6 @@ related:
       - url: "https://www.cioapplications.com/newstransfer/upload/uivp4451.jpg"
         width: 450
         height: 308
-        isCached: true
-  - title: "AI in Fintech Market Size to Reach USD 17440 Million by 2027 at CAGR 17.9% - Valuates Reports"
-    excerpt: "The AI in Fintech Market is Segmented by Type (Software Tools, Platforms), Application (Virtual Assistant, Business Analytics and"
-    publishedDateTime: 2021-09-30T14:00:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/ai-in-fintech-market-size-to-reach-usd-17440-million-by-2027-at-cagr-17-9-valuates-reports-873130618.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-        width: 920
-        height: 482
         isCached: true
 
 secured: "8oq2SkTzxpeKpdDllNF5ONVTNCPxYmRU0amZOeQcCQLuLpHkbgCS8fiC21ROBBUOxKaXP0PxFT5uR9Vg6rroRWZPcmWbbxyXNrP0gUDMeUHdaIYhlHEPvIbCtwf/UuYIpthVuNNWyJuueZPsXWMLYOEDDM4cMWY02lTvjSsYVHEA/10eRU5c7OcTfk+fij5tkKnKzFzEy2RRroIY/Y6Xdsm6Asfdt/K09O02UgnhDPbUp9FfNt8L+t2nKbMikSiUMUd/kolzjtbUysNLR7WAspgkjuOLJCSY6s1t21qZ5O5G/kpRNQ797ocPQVW1QhMpFZvgkRj7TID7hcy6TNA4s316VGrilT5wqWa4gD1jfEs=;C3Kd/lyQDg1GapeT6D+uRQ=="

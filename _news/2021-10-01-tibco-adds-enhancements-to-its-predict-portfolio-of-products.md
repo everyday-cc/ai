@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/tibco-adds-enhanceme
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/tibco-adds-enhancements-to-its-predict-portfolio-of-products/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Analytics and data science enhancements highlight changes to TIBCO Predict and Unify portfolios"
-    excerpt: "These changes are especially significant for channel partners, and coincide with an intensification of TIBCO’s channel strategy also announced at the event."
-    publishedDateTime: 2021-09-30T13:00:00Z
-    webUrl: "https://channelbuzz.ca/2021/09/analytics-and-data-science-enhancements-highlight-changes-to-tibco-predict-and-unify-portfolios-37604/"
-    type: article
-    provider:
-      name: Channel Buzz
-      domain: channelbuzz.ca
-    quality: 12
-    images:
-      - url: "https://i0.wp.com/channelbuzz.ca/wp-content/uploads/2021/09/Mark-Palmer-TIBCO.png?fit=300%2C300&#038;ssl=1"
-        width: 300
-        height: 300
-        isCached: true
   - title: "TIBCO Accelerates Time-to-Insights with Revolutionary Enhancements to Analytics Portfolio"
     excerpt: "TIBCO Software Inc., a global leader in enterprise data, empowers its customers to connect, unify, and confidently predict business outcomes, solving the world's most complex data-driven challenges. Today,"
     publishedDateTime: 2021-10-01T00:07:00Z

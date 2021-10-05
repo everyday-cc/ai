@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-driven-meeting-technology/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 137
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png"
         width: 350
         height: 450
-        isCached: true
-  - title: "The Future of Artificial Intelligence In Manufacturing"
-    excerpt: "Any company working in the manufacturing industry is likely to know that AI has been making significant improvements with a range of applications."
-    publishedDateTime: 2021-09-30T11:11:00Z
-    webUrl: "https://bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/"
-    ampWebUrl: "https://bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/?amp"
-    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/?amp"
-    type: article
-    provider:
-      name: Business Matters
-      domain: bmmagazine.co.uk
-    quality: 59
-    images:
-      - url: "https://bmmagazine.co.uk/wp-content/uploads/2021/09/shutterstock_1154438635-scaled.jpg"
-        width: 850
-        height: 375
         isCached: true
   - title: "How to Use AI to Drive Business Growth in the Tech Era"
     excerpt: "AI allows for that. And from the looks of things, that will be nearly half of all US-based businesses within the next 12 months. However, even though the capabilities are there, it’s largely untapped potential."
@@ -119,20 +103,6 @@ related:
       - url: "https://www.hks.harvard.edu/sites/default/files/about_us/Twitter-Card.png"
         width: 840
         height: 450
-        isCached: true
-  - title: "Grow and protect your wealth with AI technology"
-    excerpt: "Some popular stock indices include: l The Nasdaq 100, the top 100 technology companies listed on the Nasdaq by market cap. l The S&P 500, the 500 biggest companies on the New York Stock Exchange by market cap."
-    publishedDateTime: 2021-09-30T12:45:00Z
-    webUrl: "https://gulfnews.com/business/grow-and-protect-your-wealth-with-ai-technology-1.1633005760082"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 39
-    images:
-      - url: "https://imagevars.gulfnews.com/2021/09/30/Stock-Hunt_17c36bc2396_medium.jpg"
-        width: 540
-        height: 405
         isCached: true
 
 secured: "6DzzGsMvev2rEQlF1zE20MQUocns1KiOWQxt88vGOJ1RzAFLQ+u4k1vxxk7KJktnq0KZp5lWaZ86jcPHLUKdFF0U3AfMGHigtY0FC5/WkEsTvlq/TxFHo6amlKhyIlwh0kxpPiNFbjdQ9qte6OxDrTy+OP1BCqOLJr9BHal+21KMHnG3IoNAXCcWdhyA2Qpbn8lOOBI6Zzfsvque6QSZxVeHWqZCZ4yteAKWYoFUIf8WGXbQM9sMnKlWAD8NFyid/uEw0OyqjyEbNjXubaHmlcD2leJ3XwaLMMeA5vjI2cz74BcHKmmurKjyY9TZKPbyIzJoLWfyV9MaLhzyuDz74j8thytyiyAznCsYy4myC4w=;j3CH9ZCFtzA2/d5KMa8X6Q=="

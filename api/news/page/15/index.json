@@ -2,6 +2,195 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-09-21-apple-reportedly-working-on-iphone-features-that-may-help-diagnose-depression.md",
+      "title": "Apple reportedly working on iPhone features that may help diagnose depression",
+      "excerpt": "The company is looking to identify signs of depression, autism and cognitive decline in iPhone user data, according to The Wall Street Journal. Apple is working with the University of California ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/mobile/apple-reportedly-working-on-depression-diagnosis-feature/",
+      "originalUrl": "https://www.cnet.com/tech/mobile/apple-reportedly-working-on-depression-diagnosis-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/Mm7LdrUmNjnMFP4XSGflLCOufB8=/1200x630/2020/04/22/5c84cb84-75bd-4c05-9645-77dbdc6125c2/coronavirus-iphone-11-gooogle-pixel-3a-1218.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/apple-reportedly-working-on-depression-diagnosis-feature/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-reportedly-working-on-depression-diagnosis-feature/",
+      "publishedDateTime": "2021-09-21T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-f-in-ethics-un-chief-grades-world-on-vaccine-rollout.md",
+      "title": "\"F In Ethics\": UN Chief Grades World On Vaccine Rollout",
+      "excerpt": "United Nations Secretary-General Antonio Guterres termed the inequitable distribution of COVID-19 vaccines as an \"obscenity\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/f-in-ethics-un-chief-antonio-guterres-grades-world-on-vaccine-rollout-2548827",
+      "originalUrl": "https://www.ndtv.com/world-news/f-in-ethics-un-chief-antonio-guterres-grades-world-on-vaccine-rollout-2548827",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2021-08/b5204l5o_antonio-guterresunchiefafp_625x300_16_August_21.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/f-in-ethics-un-chief-antonio-guterres-grades-world-on-vaccine-rollout-2548827?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/f-in-ethics-un-chief-antonio-guterres-grades-world-on-vaccine-rollout-2548827?amp=1&akamai-rum=off",
+      "publishedDateTime": "2021-09-21T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-how-ai-is-redefining-the-human-touch-in-fintech-industry.md",
+      "title": "How AI is redefining the ‘human touch’ in fintech industry",
+      "excerpt": "The key to successfully navigating commercial lending lies in leveraging AI to minimise time, effort and risk at the back-end, so that relationship managers can build stronger relationships with prosp",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/opinion/o50gd8/article36594522.ece/ALTERNATES/LANDSCAPE_615/bl22thinkAI",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece/amp/",
+      "publishedDateTime": "2021-09-21T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-project44-acquires-last-mile-delivery-startup-convey-for-255m.md",
+      "title": "Project44 acquires last-mile delivery startup Convey for $255M",
+      "excerpt": "Project44 has acquired last-mile delivery startup Convey for $255 million, marking the company's largest purchase to date.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/21/project44-acquires-last-mile-delivery-startup-convey-for-255m/",
+      "originalUrl": "https://venturebeat.com/2021/09/21/project44-acquires-last-mile-delivery-startup-convey-for-255m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Austrian_Post_-_Roller_cages_2-e1608654110915.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/21/project44-acquires-last-mile-delivery-startup-convey-for-255m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/21/project44-acquires-last-mile-delivery-startup-convey-for-255m/amp/",
+      "publishedDateTime": "2021-09-21T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-21-this-company-is-making-ai-robots-to-help-farmers.md",
       "title": "This company is making AI robots to help farmers",
       "excerpt": "UK start-up Small Robot Company is bringing autonomous farming to life with robots that can identify and precisely kill weeds in cropland.",
@@ -987,186 +1176,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-digital-freight-startup-transfix-going-public-in-spac-deal.md",
-      "title": "Digital Freight Startup Transfix Going Public in SPAC Deal",
-      "excerpt": "The blank-check merger would help Transfix, which competes with bigger rivals including Uber Freight, expand its business of connecting shippers with truckers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/digital-freight-startup-transfix-going-public-in-spac-deal-11632218400",
-      "originalUrl": "https://www.wsj.com/articles/digital-freight-startup-transfix-going-public-in-spac-deal-11632218400",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-403599/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/digital-freight-startup-transfix-going-public-in-spac-deal-11632218400",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/digital-freight-startup-transfix-going-public-in-spac-deal-11632218400",
-      "publishedDateTime": "2021-09-21T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate.md",
-      "title": "Hashtag Trending September 21- iOS 15; Facebook pushes back on WSJ allegations; AI and real estate",
-      "excerpt": "Shecter Apple rolls out its brand new iOS 15, Facebook disputes Wall Street Journal allegations of toxicity, and AI is changing the real estate game. It’s all the tech news that’s trending right now,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/458698",
-      "originalUrl": "https://www.itworldcanada.com/article/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/458698",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png",
-          "width": 1500,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/458698?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate/458698?amp=1",
-      "publishedDateTime": "2021-09-21T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-machine-learning-at-the-edge-a-hardware-and-software-ecosystem.md",
-      "title": "Machine learning at the edge: A hardware and software ecosystem",
-      "excerpt": "Being able to deploy machine learning applications at the edge bears the promise of unlocking a multi-billion dollar market. For that to happen, hardware and software must work in tandem. Arm's partner ecosystem exemplifies this,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/machine-learning-at-the-edge-a-hardware-and-software-ecosystem/",
-      "originalUrl": "https://www.zdnet.com/article/machine-learning-at-the-edge-a-hardware-and-software-ecosystem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2020/12/11/573aa6b0-7e1d-432c-a6c9-6cc5a633144b/resize/1200xauto/faa21497a2f921c1733110d93cd9fac7/istock-1202641105.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/machine-learning-at-the-edge-a-hardware-and-software-ecosystem/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/machine-learning-at-the-edge-a-hardware-and-software-ecosystem/",
-      "publishedDateTime": "2021-09-20T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-ibm-and-airspan-networks-plan-to-work-to-accelerate-5g-enabled-open-ran-adoption-in-europe.md",
-      "title": "IBM and Airspan Networks Plan to Work to Accelerate 5G-enabled Open RAN Adoption in Europe",
-      "excerpt": "IBM is expected to provide its Global Business Services technology integration services, as well as IBM Cloud Pak for Network Automation and IBM Cloud Pak for Watson AIOps ... s leading global hybrid cloud and AI orchestration services.",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2021/09/21/ibm-and-airspan-networks-plan-to-work-to-accelerate-5g-enabled-open-ran-adoption",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2021/09/21/ibm-and-airspan-networks-plan-to-work-to-accelerate-5g-enabled-open-ran-adoption",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-20T21:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

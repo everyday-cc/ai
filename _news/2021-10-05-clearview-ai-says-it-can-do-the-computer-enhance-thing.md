@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/clearview-ai-says-it-can-do-the-computer-enhance
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-says-it-can-do-the-computer-enhance-thin-1847795776/amp"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 448
     isCached: true
 
-secured: "q2Pva3XHe/TQfEaOm+cMc2cHL4xL8/eC4VuBKPoxeibeGhaOpTCbBZUTL2uW9oVcs6xVcdOvJe8+0IkIcvYBOnFE1D9ngMT7iJDnp1Y+50OXQ6NoxTQNdVvLJXNkWNUMf3XobSjK30N2wWb4t+Qi945dNkkYa5JgVijvDDZ/Ws+fcE6oOnE0vejhpmTZc7E2twzByhzFNVgwh0aB8q/UY+zc5dZ4v8dL1LVfOjK5DxBH/SSlZFt2eqmJefIR2V449iH0S083s4xWTca5dP1/WhCvhVKnRWezMvb8fjnwNZFjoOry6xuQZYp83zoLeGWHjU+bSzFBy83FDksey/cpSz4XQtnpENSUzt2DkU3Vh8w=;6nzR2l3y9G1XwTS9O/N25g=="
+secured: "YBl5rrjmWxiywCPsjz6xQydffIO/xrtOr9ZQZK4IGpEs22ezkQvB/82obpyFNAkohMp+/zXdt07fXTH/A0zVbVNm69eXNNYNXIcUzxyVYmlVOrhzrDX6lDn+RY6015XmNUI36Btp4VdLJ4/bJ4POiZTQyfCnLdKh6OW7LTjF+gpbpaYPx465wcMs/6qaP6n40JF8wl8juUKHf+tsTHnWhiURbozx3UIUzWqO/eReGcHyj2AKUckFJpO4UT8e36d9hdSDWVn4cZI6HaAG6eDZidhyzrvZBilWgBrv8z+f9r7mwygYpqopi2cTEXYw2ponRTkV5yoYHrEmlETKIMR06ChHLSjv9Nwd12PQjQlzvdmgTLr3nKBUcJz3cPqoGTEJpdoDO2DMhNEahVZlKO0rb06KdWC/weUlGqOybzAOwq1HRrfYAPRS9WuiMRQuq8Jqd84F9I5pQcEkaa/jlDX1l49YA5J2DqQvq8eLD5wgO4yhqWKeCHlL4rQmx93rly8J5E6ofIeQM1/7S93HV5Pikg==;0Dsx1xfcNF7INdFlWBL0tg=="
 ---
 

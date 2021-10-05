@@ -54,20 +54,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "NITI Aayog, AWS, and Intel Collaborate to Accelerate Digital Innovation in India"
-    excerpt: "The National Institution for Transforming India (NITI Aayog), the Government of India’s national policy think tank, Amazon Web Services (AWS), and Intel have"
-    publishedDateTime: 2021-09-30T12:14:00Z
-    webUrl: "https://technuter.com/tech/niti-aayog-aws-and-intel-collaborate-to-accelerate-digital-innovation-in-india.html"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 34
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2020/02/Niti-Aayog.jpg"
-        width: 317
-        height: 327
-        isCached: true
   - title: "NITI Aayog, AWS,and Intel Collaborate to Accelerate Digital Innovation in India"
     excerpt: "The National Institution for Transforming India (NITI Aayog), the Government of India’s national policy think tank, Amazon Web Services (AWS), and Intel have come together to establish a new experience studio at the NITI Aayog Frontier Technologies Cloud Innovation Center (CIC)."
     publishedDateTime: 2021-10-01T04:48:00Z

@@ -54,22 +54,6 @@ related:
         width: 350
         height: 450
         isCached: true
-  - title: "The Future of Artificial Intelligence In Manufacturing"
-    excerpt: "Any company working in the manufacturing industry is likely to know that AI has been making significant improvements with a range of applications."
-    publishedDateTime: 2021-09-30T11:11:00Z
-    webUrl: "https://bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/"
-    ampWebUrl: "https://bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/?amp"
-    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/business/the-future-of-artificial-intelligence-in-manufacturing/?amp"
-    type: article
-    provider:
-      name: Business Matters
-      domain: bmmagazine.co.uk
-    quality: 59
-    images:
-      - url: "https://bmmagazine.co.uk/wp-content/uploads/2021/09/shutterstock_1154438635-scaled.jpg"
-        width: 850
-        height: 375
-        isCached: true
   - title: "How to Use AI to Drive Business Growth in the Tech Era"
     excerpt: "AI allows for that. And from the looks of things, that will be nearly half of all US-based businesses within the next 12 months. However, even though the capabilities are there, it’s largely untapped potential."
     publishedDateTime: 2021-10-01T13:30:00Z
@@ -115,20 +99,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHfe1z4IYxtJg/article-cover_image-shrink_600_2000/0/1633128504221?e=1639008000&v=beta&t=lL8T7xD9Q9SOBxI4ObhbQJMaPFJN0cDrvULPfPIRFO4"
         width: 800
         height: 531
-        isCached: true
-  - title: "Grow and protect your wealth with AI technology"
-    excerpt: "Some popular stock indices include: l The Nasdaq 100, the top 100 technology companies listed on the Nasdaq by market cap. l The S&P 500, the 500 biggest companies on the New York Stock Exchange by market cap."
-    publishedDateTime: 2021-09-30T12:45:00Z
-    webUrl: "https://gulfnews.com/business/grow-and-protect-your-wealth-with-ai-technology-1.1633005760082"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 39
-    images:
-      - url: "https://imagevars.gulfnews.com/2021/09/30/Stock-Hunt_17c36bc2396_medium.jpg"
-        width: 540
-        height: 405
         isCached: true
 
 secured: "lXdjfjNoxoKkxAt6eXw64UYEbef42SzZYDGdBdaQegOz6InMxDpp2veuM35z/Rf98ePiCU0rSOaA54GOtyaNN3p8Ct9pv0oAw7lp0WXT11OTZcc7d9ratuq6fHFzEQGD+JBzlUilKovszRMk/h1jdG822gdAs0Qw57sD4CYci+L00lmXewy9+86OuItLRYI6GW4LS8+4XWBcHZcAJDBgN3WWbzojvnhxYjs/9SkszoD4Z/2DuMtLJbSwFbc7GOZ9ILuToOmRg02eKLw9xlwhUC97iAWw9F3SWFGFDDoBw4P+cxmRPqlhnaqzIREupz+sIAJAjv5A48/SCFKiEPj7s2ddqDjjdVODH2Q3P5+MCio=;SDRffna0/FlWslBFQUPuWw=="

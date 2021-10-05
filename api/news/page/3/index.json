@@ -2,6 +2,132 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-01-iq-ai-says-new-publication-shows-impact-of-imaging-biometrics-software-solutions.md",
+      "title": "IQ-AI says new publication shows impact of Imaging Biometrics software solutions",
+      "excerpt": "Neurosurgery Open published a study that suggested that IB Clinic should be routinely used to optimise surgical guidance and pathologic diagnosis",
+      "sourceUrl": null,
+      "webUrl": "https://www.proactiveinvestors.com/companies/news/961962/iq-ai-says-new-publication-shows-impact-of-imaging-biometrics-software-solutions-961962.html",
+      "originalUrl": "https://www.proactiveinvestors.com/companies/news/961962/iq-ai-says-new-publication-shows-impact-of-imaging-biometrics-software-solutions-961962.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.proactiveinvestors.com//thumbs/upload/News/Image/2021_10/1200z740_1633080116_shutterstock_570241147-(1).jpg",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.proactiveinvestors.com/companies/amp/news/961962",
+      "cdnAmpWebUrl": "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/961962",
+      "publishedDateTime": "2021-10-01T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactiveinvestors",
+        "domain": "proactiveinvestors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-why-uxui-should-be-considered-throughout-the-ai-life-cycle.md",
+      "title": "Why UX/UI Should Be Considered Throughout The AI Life Cycle",
+      "excerpt": "Both user experience (UX) and user interface (UI) design play crucial roles in successful AI product development and implementations and should be considered throughout the entirety of the AI life cycle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/why-uxui-should-be-considered-throughout-the-ai-life-cycle/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/why-uxui-should-be-considered-throughout-the-ai-life-cycle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3bdb169d384f635f4653a1%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/why-uxui-should-be-considered-throughout-the-ai-life-cycle/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/01/why-uxui-should-be-considered-throughout-the-ai-life-cycle/amp/",
+      "publishedDateTime": "2021-10-01T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-alphasense-raises-180-mn-series-c-funding-from-viking-global-goldman-sachs-others.md",
+      "title": "AlphaSense raises $180 mn Series C funding from Viking Global, Goldman Sachs, others",
+      "excerpt": "AlphaSense, a market intelligence and search platform, on Friday said it has raised $180 million (about Rs 1,336.5 crore) in funding led by Viking Global Investors and the Growth Equity business within Goldman Sachs Asset Management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/in/news-releases/alphasense-raises-180-million-series-c-led-by-viking-global-and-goldman-sachs-joined-by-morgan-stanley-citi-bank-of-america-barclays-wells-fargo-cowen-alliancebernstein-866205418.html",
+      "originalUrl": "https://www.freepressjournal.in/business/alphasense-raises-180-mn-series-c-funding-from-viking-global-goldman-sachs-others",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-01T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-01-mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi.md",
       "title": "Mega summit on artificial intelligence (AI) held in Vigyan Bhawan, New Delhi",
       "excerpt": "PTI takes no editorial responsibility for the same.) The second edition of the Global Artificial Intelligence Summit & Awards (GAISA), was a two day event, where companies were felicitated for their pioneering work, in the field of AI. New Delhi ...",
@@ -304,7 +430,7 @@
       "originalUrl": "https://www.techrepublic.com/article/tibco-adds-enhancements-to-its-predict-portfolio-of-products/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1044,7 +1170,7 @@
       "originalUrl": "https://interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1076,154 +1202,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-niti-aayog-aws-intel-collaborate-for-experience-studio.md",
-      "title": "NITI Aayog, AWS, Intel collaborate for experience studio",
-      "excerpt": "Niti Aayog, Amazon Web Services (AWS) and Intel have come together to establish a new experience studio that will be a hub for collaboration and experimentation. The studio has been set up at the Niti Aayog Frontier Technologies Cloud Innovation Centre (CIC) in Niti Aayog''s premises here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/newsscroll/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369",
-      "originalUrl": "https://www.outlookindia.com/newsscroll/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369",
-      "publishedDateTime": "2021-09-30T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond.md",
-      "title": "Semiconductor Stocks That Stand To Gain Through The Chip Shortage And Beyond",
-      "excerpt": "Our theme on Stocks That Benefit From The Semiconductor Shortage, which includes companies that produce machinery and tools for chipmaking and semiconductor players with their own fab capacity, has returned about 26% year-to-date,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/09/30/semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/09/30/semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe2ea7a3525e3f86a796cf5%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/09/30/semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/09/30/semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond/amp/",
-      "publishedDateTime": "2021-09-30T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-artificial-intelligence-myth-vs-reality-where-do-healthcare-experts-think-we-stand.md",
-      "title": "Artificial Intelligence Myth Vs Reality: Where Do Healthcare Experts Think We Stand?",
-      "excerpt": "I think of it as a maturation process,” says Dr. John Halamka . “You’re asking why your three-year-old isn’t doing calculus. But can your three-year-old add a column of numbers? That’s actually not so bad.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sethjoseph/2021/09/30/artificial-intelligence-myth-vs-reality-where-do-healthcare-experts-think-we-stand/",
-      "originalUrl": "https://www.forbes.com/sites/sethjoseph/2021/09/30/artificial-intelligence-myth-vs-reality-where-do-healthcare-experts-think-we-stand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155c2ffe2958456f319f3ed%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sethjoseph/2021/09/30/artificial-intelligence-myth-vs-reality-where-do-healthcare-experts-think-we-stand/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sethjoseph/2021/09/30/artificial-intelligence-myth-vs-reality-where-do-healthcare-experts-think-we-stand/amp/",
-      "publishedDateTime": "2021-09-30T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

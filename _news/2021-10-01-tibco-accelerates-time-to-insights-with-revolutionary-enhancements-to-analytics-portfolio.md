@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Analytics and data science enhancements highlight changes to TIBCO Predict and Unify portfolios"
-    excerpt: "These changes are especially significant for channel partners, and coincide with an intensification of TIBCO’s channel strategy also announced at the event."
-    publishedDateTime: 2021-09-30T13:00:00Z
-    webUrl: "https://channelbuzz.ca/2021/09/analytics-and-data-science-enhancements-highlight-changes-to-tibco-predict-and-unify-portfolios-37604/"
-    type: article
-    provider:
-      name: Channel Buzz
-      domain: channelbuzz.ca
-    quality: 12
-    images:
-      - url: "https://i0.wp.com/channelbuzz.ca/wp-content/uploads/2021/09/Mark-Palmer-TIBCO.png?fit=300%2C300&#038;ssl=1"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "pOm2uC77gF/fweNXDYfEry6MzF1Gye4aFsH7wKSC+JEhcFn0rFm/VH/0NS1lw/1q/oXKGumGf/aIBNkEkF4FTv3OLbDjAjP0oviIooXdOfxqmECLtzhaJxluYbry/L8NNweDXMFOq2oebxmsrjaGkNzTYTK7n+y39jUbSi7+1MDRsvjzGbBsUy9XGgqnFstAzBCGdhDk+GC749bHP1YoeDQPWbz6mvPIv4jdlu6LPDptY3h58gDojp58ZlPLEosgrLRXubEOAov6hPNM/PL8tYIxPpm0/JGCcqlSMpyaQ037Lsx6RtDqXb+olRRMeFnOEkR96zVf6ntStTOrSZUCj01ky4vPYBONNVn5tJqXGgs=;J1xfrubJtd+qprZtdYYJFA=="
 ---

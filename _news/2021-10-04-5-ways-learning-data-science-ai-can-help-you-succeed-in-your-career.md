@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dqindia.com/5-ways-learning-data-science-ai-can-help-you
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/5-ways-learning-data-science-ai-can-help-you-succeed-in-your-career/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Dataquest
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Pursue AI and Data Science at JNTU-H"
+    excerpt: "Hyderabad: Starting this academic year, engineering students, particularly those from conventional branches of the Jawaharlal Nehru Technological University-Hyderabad (JNTU-H) will be allowed to do Honours and Minor programmes in emerging technologies like Data Science and Artificial Intelligence among other areas."
+    publishedDateTime: 2021-10-03T18:22:00Z
+    webUrl: "https://telanganatoday.com/pursue-ai-and-data-science-at-jntu-h"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 37
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2021/10/JNTU.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "How Artificial Intelligence Can Keep Your Workers Safe, Reduce Insurance Costs"
     excerpt: "AI and analytics company Newmetrix and 360 photo/video documentation app StructionSite partner to provide construction project risk data. Details here."
     publishedDateTime: 2021-09-30T17:05:00Z

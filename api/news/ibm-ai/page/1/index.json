@@ -108,6 +108,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-28-egypts-ministry-of-supply-and-internal-trade-automates-wheat-silos-processes-in-collaboration-with-ibm-and-acme-saico.md",
+      "title": "Egypt's Ministry of Supply and Internal Trade Automates Wheat Silos Processes in Collaboration with IBM and ACME SAICO",
+      "excerpt": "By offering IBM's AI and hybrid cloud approach ... Authority for Supply Commodities through IBM Cognos Analytics with Watson connected to the automation platform in use. As part of the sustainable ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1102867697/Egypts-Ministry-of-Supply-and-Internal-Trade-Automates-Wheat-Silos-Processes-in-Collaboration-with-IBM-and-ACME-SAICO",
+      "originalUrl": "https://menafn.com/1102867697/Egypts-Ministry-of-Supply-and-Internal-Trade-Automates-Wheat-Silos-Processes-in-Collaboration-with-IBM-and-ACME-SAICO",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?470707",
+          "width": 444,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-24-ibm-research-says-analog-ai-will-be-100x-more-efficient-yes-100x.md",
       "title": "IBM Research Says Analog AI Will Be 100X More Efficient. Yes, 100X.",
       "excerpt": "IBM Research believes it has a handle on how to train AI with analog circuitry. This could be the next wave of innovation.",
@@ -283,10 +326,10 @@
     {
       "path": "_news/2021-09-21-ibm-and-airspan-networks-plan-to-work-to-accelerate-5g-enabled-open-ran-adoption-in-europe.md",
       "title": "IBM and Airspan Networks Plan to Work to Accelerate 5G-enabled Open RAN Adoption in Europe",
-      "excerpt": "IBM is expected to provide its Global Business Services technology integration services, as well as IBM Cloud Pak for Network Automation and IBM Cloud Pak for Watson AIOps ... s leading global hybrid cloud and AI orchestration services.",
+      "excerpt": "IBM is expected to provide its Global Business Services technology integration services, as well as IBM Cloud Pak for Network Automation and IBM Cloud Pak for Watson AIOps, to allow customers to ...",
       "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2021/09/21/ibm-and-airspan-networks-plan-to-work-to-accelerate-5g-enabled-open-ran-adoption",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2021/09/21/ibm-and-airspan-networks-plan-to-work-to-accelerate-5g-enabled-open-ran-adoption",
+      "webUrl": "https://www.morningstar.com/news/business-wire/20210920005972/ibm-and-airspan-networks-plan-to-work-to-accelerate-5g-enabled-open-ran-adoption-in-europe",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20210920005972/ibm-and-airspan-networks-plan-to-work-to-accelerate-5g-enabled-open-ran-adoption-in-europe",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -296,11 +339,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-20T21:08:00-07:00",
+      "publishedDateTime": "2021-09-20T23:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1246,58 +1289,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service.md",
-      "title": "IBM Watson Launches New AI and Automation Features to Help Businesses Transform Customer Service",
-      "excerpt": "today announced the launch of new AI and automation capabilities in IBM Watson Assistant designed to make it easier for businesses to create enhanced customer service experiences across any ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service-1030789862",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service-1030789862",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbizcouncil/2021/10/04/how-real-es
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbizcouncil/2021/10/04/how-real-estate-investors-can-use-artificial-intelligence/amp/"
 type: article
 quality: 87
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 2240
         height: 1260
         isCached: true
+  - title: "Investment Banks to Increase AI in Trading"
+    excerpt: "Investment banks are looking to increase the of artificial intelligence and machine learning in pricing models, and see these technologies as improving client output as well as providing operating efficiency."
+    publishedDateTime: 2021-10-05T04:15:00Z
+    webUrl: "https://www.tradersmagazine.com/xtra/investment-banks-to-increase-ai-in-trading/"
+    type: article
+    provider:
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 17
 
 secured: "aKF8z85SI/5V5QSEiptNkA9hqa903ZXbrKBZKK9ButlUE3bYQPzGLm2sitdiNAeAcdUrjUZOz9ZlUDZOiSL8+amWrAwlW0Cemb8OUHY+137VLxZOqhFrUfPj9zApXEvQ8yG1wqq9ddq3TESgY/I+tisro4yGJvpDc5nIHg6VkIo/K2oN9JQ1IxCrQbDIwew5631hL1G4ISsNL89+yutteM0GfmcjrN1X8BKg5CTz14Iw5og8PjKnhIwCyV7wAzK/OSFII5R2UqnSOP2MK1LLaW9+pSLwlLmX2Hoe3QV6ZZhn2hSryqjuEbCQWE97LPk5m4LmynJIN9yfxcbl9cspSq2k3TcZN6QsczlOjWcOLs4=;dk+gweKl+AyFMSBoRhwUdA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.scientificamerican.com/article/microbes-natural-intellig
 cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/microbes-natural-intelligence-and-artificial-intelligence/?amp=true"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Pursue AI and Data Science at JNTU-H"
-    excerpt: "Hyderabad: Starting this academic year, engineering students, particularly those from conventional branches of the Jawaharlal Nehru Technological University-Hyderabad (JNTU-H) will be allowed to do Honours and Minor programmes in emerging technologies like Data Science and Artificial Intelligence among other areas."
-    publishedDateTime: 2021-10-03T18:22:00Z
-    webUrl: "https://telanganatoday.com/pursue-ai-and-data-science-at-jntu-h"
+  - title: "Humans need AI — and vice versa"
+    excerpt: "We’ve been overselling current capabilities of AI for years, but that doesn’t mean it doesn’t have a bright future. That’s perhaps why Stanford University researchers conceived of a “ One Hundred Year Study on Artificial Intelligence ” (100 years!"
+    publishedDateTime: 2021-10-04T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3635489/humans-need-ai-and-vice-versa.html"
+    ampWebUrl: "https://www.infoworld.com/article/3635489/humans-need-ai-and-vice-versa.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3635489/humans-need-ai-and-vice-versa.amp.html"
     type: article
     provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 37
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
     images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2021/10/JNTU.jpg"
+      - url: "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_robot_touch_human_hand_by_kentoh_gettyimages_1060703206-100817766-large.jpg?auto=webp"
         width: 1200
-        height: 801
+        height: 800
+        isCached: true
+  - title: "Robots and artificial intelligence will control humans, predicts ex-Google"
+    excerpt: "Elon Musk believes AI is capable of governing the human species The era of Robot Sapiens: will artificial intelligence dominate the Earth?)The dangers of AI are more subtle than armed robots, say experts Mohammed Gawdat believes that systems known as general artificial intelligence ( AGI),"
+    publishedDateTime: 2021-10-03T15:10:00Z
+    webUrl: "https://www.clarepeople.com/5914-robots-and-artificial-intelligence-will-control-humans-predicts-ex-google/"
+    type: article
+    provider:
+      name: The Clare People
+      domain: clarepeople.com
+    quality: 52
+    images:
+      - url: "https://www.clarepeople.com/wp-content/uploads/2021/10/5914-robots-and-artificial-intelligence-will-control-humans-predicts-ex-google-780x470.jpeg"
+        width: 780
+        height: 470
         isCached: true
 
 secured: "6EJaQqUZKJ0Rsi7eXmjT59sp13rEJpNB7hOAQwWR7mb14AIg9xDAS1a/Gkd5MOHcf8b6IB5QkOVZQWD68dGno8Gq4DzGUb0OQvbNH1PT/7VsKUtf8g/aonNsnVMpcEmx1SuFGG94wJ+/97S88QtWQL28zlz8HiowW4pCgk0GzHQpJ9GNbcvJnFGbL/3nJIpMrf3FiOjQ+wMON9LYP4JAIlJrRzN/xmVUy6cndOqPqgGd587wUZ5bNVbgfaUWRg1P5zknBp3MSYLNr1S2s5EiJ58pWX5/vOQVqZmzLrYT1ENfrycv9InuF8YGPlcO16FLGqlC9BDnhLBKxe+s+69H/WW5GR6FtpkcG9fzeKtmEdVNFJOPAh9+hooONUzqSLxd6tVsDfKSISTmuU3ubeKFsZnj5/X06XASslRftLjjVviULqxjWWiN1WxZnnSaPATG+HJkHxWL7ebn/KoXaEine/FNcXIaEJSQWPuQi7ranr3ERG0x0E/cn3cg9FX/tKlorI6hyA5rPqsCOOeSPAoCag==;R9D6Dex5KgpoKFS3Eto4fQ=="

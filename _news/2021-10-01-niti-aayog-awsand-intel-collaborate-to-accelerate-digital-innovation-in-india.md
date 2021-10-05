@@ -62,20 +62,6 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 36
-  - title: "NITI Aayog, AWS, and Intel Collaborate to Accelerate Digital Innovation in India"
-    excerpt: "The National Institution for Transforming India (NITI Aayog), the Government of India’s national policy think tank, Amazon Web Services (AWS), and Intel have"
-    publishedDateTime: 2021-09-30T12:14:00Z
-    webUrl: "https://technuter.com/tech/niti-aayog-aws-and-intel-collaborate-to-accelerate-digital-innovation-in-india.html"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 34
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2020/02/Niti-Aayog.jpg"
-        width: 317
-        height: 327
-        isCached: true
 
 secured: "m2ExTIEJquIzJkq85zjsp3EJenRVgLkxJF7r+Q/VI6cJ6WEFWDOCQkZSkfHK8gGTroqImVfYstBQg0yDgATB8Lt5INvUFbjG8ZPhkwZKNAevkuwW2p9U6NS3X3DzebwOpxAsWAixALn7LjunTyZlL2GYCqP8Xx4gpnriuWcqMf9+T5dqRbHpSM/MJrlFinRcOPqZhhk4GJSssIGhfcEed8wtr5OUsUHF8P5p7Skf6jX04NutGMQZoJJt267DDBpbSuElJNBmk/g3+nufbQZNGci1Z7uxHCG9hZwinRNp2GIi2iEmkIVCFiH7KyHDp7zCdMW1ZaamB5duFHGA74bk6hlAU608EuW4SQLmEKRlVK4=;VvFw7vmR029JypM7Gn+kZw=="
 ---
