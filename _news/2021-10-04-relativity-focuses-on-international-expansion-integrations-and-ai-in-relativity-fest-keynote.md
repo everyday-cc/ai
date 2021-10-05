@@ -24,117 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "AI Innovations In Media And Communications"
-    excerpt: "My last blog discussed AI innovations in the health care sector, and this one will share a few perspectives of new developments in the Media and Communications Industry."
-    publishedDateTime: 2021-09-30T17:19:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/amp/"
+  - title: "Why we must consider the intergenerational impacts of AI"
+    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Sara Stratton, Founder, Māori Lab &"
+    publishedDateTime: 2021-10-05T08:30:00Z
+    webUrl: "https://europeansting.com/2021/10/05/why-we-must-consider-the-intergenerational-impacts-of-ai/"
+    ampWebUrl: "https://europeansting.com/2021/10/05/why-we-must-consider-the-intergenerational-impacts-of-ai/amp/"
+    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/10/05/why-we-must-consider-the-intergenerational-impacts-of-ai/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: europeansting.com
+      domain: europeansting.com
+    quality: 59
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155ef71088eada6a8f3c806%2F0x0.jpg"
-        width: 1200
-        height: 675
+      - url: "https://europeansting.files.wordpress.com/2021/10/robots.webp"
+        width: 715
+        height: 1001
         isCached: true
-  - title: "The Role of Artificial Intelligence in the Future of Education"
-    excerpt: "Artificial Intelligence is already being widely employed around the world to better our lives, work, health, and everyday routines, among other things. Furthermore, the solution has significant educational potential,"
-    publishedDateTime: 2021-10-02T15:46:00Z
-    webUrl: "https://www.linkedin.com/pulse/role-artificial-intelligence-future-education-yogesh-khandelwal"
+  - title: "Research and Industrial Strategies for Next-Generation AI to Accelerate its Diffusion and Avoid Another Winter"
+    excerpt: "Research on Artificial Intelligence has been on the rise in recent years and the word artificial intelligence has been a household name. Around the world, governments, organizations, firms, and research centers are investing heavily in developing the research field of artificial intelligence."
+    publishedDateTime: 2021-10-02T09:18:00Z
+    webUrl: "https://www.frontiersin.org/research-topics/27177/research-and-industrial-strategies-for-next-generation-ai-to-accelerate-its-diffusion-and-avoid-anot"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG1wh0a0R6i9A/article-cover_image-shrink_720_1280/0/1633189407713?e=1639008000&v=beta&t=qvFzABCXoEoVg9wK4OjX0No9S-1IUKYkvUBAcgs-ids"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Australian organisations lack maturity in responsible AI"
-    excerpt: "Most Australian organisations are still in the early stages of their responsible AI efforts despite growing use of AI by businesses and consumers, new study finds"
-    publishedDateTime: 2021-10-05T00:34:00Z
-    webUrl: "https://www.computerweekly.com/news/252507710/Australian-organisations-lack-maturity-in-responsible-AI"
-    ampWebUrl: "https://www.computerweekly.com/news/252507710/Australian-organisations-lack-maturity-in-responsible-AI?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252507710/Australian-organisations-lack-maturity-in-responsible-AI?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
-  - title: "The Scope of Artificial intelligence in India"
-    excerpt: "Artificial intelligence (AI) has transformed the world of technology. This is the reason why AI investment is increasing. Keep reading to learn about what is the current situation of our country as far as AI is concerned,"
-    publishedDateTime: 2021-10-02T08:30:00Z
-    webUrl: "https://www.analyticsinsight.net/the-scope-of-artificial-intelligence-in-india/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/The-Scope-of-Artificial-intelligence-in-India.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "More Organizations Saving Time and Costs on Data Breaches with Automation and AI"
-    excerpt: "Cost of a Data Breach report shows, AI and automation can reduce the cost of a data breach. See how organizations with AI security fared in 2021."
-    publishedDateTime: 2021-10-01T17:30:00Z
-    webUrl: "https://securityintelligence.com/posts/save-time-money-data-breach-security-ai-automation/"
-    type: article
-    provider:
-      name: Hack
-      domain: securityintelligence.com
-    quality: 32
-    images:
-      - url: "https://securityintelligence.com/wp-content/uploads/2021/10/Data-Breach-1.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The Future is Now: How AI in Diagnostic Imaging is Transforming Medical Applications"
-    excerpt: "The Use of AI in Diagnostic Imaging is Booming in Healthcare Industry” Download the most up-to-date research study and application @  AI in diagnostic imaging is gaining prominence and quickly growing industry close to what's to come."
-    publishedDateTime: 2021-10-01T19:22:00Z
-    webUrl: "https://www.linkedin.com/pulse/future-now-how-ai-diagnostic-imaging-transforming-medical-p-mahajan"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 30
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGmyKBct-TaWg/article-cover_image-shrink_720_1280/0/1633115703468?e=1638403200&v=beta&t=lYhzsqOGDrkEHBGeACtqj6r46vmodR0eEfo1XbStQwY"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "How Deep Learning Works in the Covid-19 Era: Applications and Limitations of Deep Learning"
-    excerpt: "Deep learning is changing the world during the Covid-19 pandemic by detecting fraud, treating illnesses, developing self-driving cars and helping organizations deal with complicated queries."
-    publishedDateTime: 2021-10-04T14:32:00Z
-    webUrl: "https://www.bbntimes.com/technology/how-deep-learning-works-in-the-covid-19-era-applications-and-limitations-of-deep-learning"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 29
-    images:
-      - url: "https://www.bbntimes.com/images/articles/society/How_Deep_Learning_Works_in_the_Covid-19_Era.jpeg"
-        width: 1620
-        height: 1080
-        isCached: true
-  - title: "Worldwide Mission Critical Communications Industry Report to 2026 - 5 Cases Studies Included"
-    excerpt: "The \"Mission Critical Communications Market by Enterprise, Industrial and Government Solutions 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. The market for mission critical communications is rapidly evolving as developing technologies supply solutions necessary to meet emerging demand for improved voice,"
-    publishedDateTime: 2021-09-30T19:42:00Z
-    webUrl: "https://menafn.com/1102895938/Worldwide-Mission-Critical-Communications-Industry-Report-to-2026-5-Cases-Studies-Included"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 13
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?280675"
-        width: 371
-        height: 250
-        isCached: true
+      name: Frontiers
+      domain: frontiersin.org
+    quality: 0
 
 secured: "PMkDAO1FfL4k4PK/sFoNVlX/gZ+gY0VGIx44HTarJEeXoDdEXJfzm936ebXHZ7UDqxBHBLqWMKgBByhHWCAmXDKK7Q3m42MxH55juQ+lrTvbBOiJv8Dl/PyvvD4INABetEx4uU3MNYMXZOgQqYT32CwR5Th+KoTJPuf7bUMFF+R19MuYK7zXy3c0KrE1QDF11NKL+I74HqGeCURbux5LU+qwd/eI+Yn2uFWMobRH0KaewTomPA19JDzLxiWwHMb4H9r16ZKpF89yDM8/hP4z6V3XUQff5dvEQ5hBGjEn7wTFTL/gbobs/BhwXOmk8EMgFo3/5D0uQp4G62zNp4QTLTd6FZwhFPF+PNtPjPeuSEl6r0nKq4rciqyqRVcfWZmqUrS4L4g++KjPcjI9E59i3lpu4oQZXH3QffHXnn1p/90CrZNOmUoOMYXRpwVcPjtw8B6dok5xjIPtK9TmmNYBXXw+EtG1byceTbbyM0MzAzCvbtu3k3tVGWebWCpX/2P69cepNzQQe6LjyBQr/nJTgw==;hT9hmVNQBWITlsEzCrr4+g=="
 ---

@@ -107,6 +107,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The Role of Artificial Intelligence in the Future of Education"
+    excerpt: "Artificial Intelligence is already being widely employed around the world to better our lives, work, health, and everyday routines, among other things. Furthermore, the solution has significant educational potential,"
+    publishedDateTime: 2021-10-02T15:46:00Z
+    webUrl: "https://www.linkedin.com/pulse/role-artificial-intelligence-future-education-yogesh-khandelwal"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG1wh0a0R6i9A/article-cover_image-shrink_720_1280/0/1633189407713?e=1639008000&v=beta&t=qvFzABCXoEoVg9wK4OjX0No9S-1IUKYkvUBAcgs-ids"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Kai-Fu Lee — The Future of Artificial Intelligence"
     excerpt: "The extraordinary opportunities—and challenges—presented by artificial intelligence are at the heart of Kai-Fu Lee's new book, AI 2041: Ten Visions for Our Future, a \"scientific fiction\" that sketches 10 possible AI-driven futures that are within the realm of the scientifically possible."
     publishedDateTime: 2021-10-02T05:47:00Z
@@ -120,6 +134,20 @@ related:
       - url: "https://www.hks.harvard.edu/sites/default/files/about_us/Twitter-Card.png"
         width: 840
         height: 450
+        isCached: true
+  - title: "The Scope of Artificial intelligence in India"
+    excerpt: "Artificial intelligence (AI) has transformed the world of technology. This is the reason why AI investment is increasing. Keep reading to learn about what is the current situation of our country as far as AI is concerned,"
+    publishedDateTime: 2021-10-02T08:30:00Z
+    webUrl: "https://www.analyticsinsight.net/the-scope-of-artificial-intelligence-in-india/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/The-Scope-of-Artificial-intelligence-in-India.jpg"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "BUj/i7xyQoNbX9kntTg0T6e3fX9PInR6uQg/888htn/gPqrnNveIyXX421S5doyhnK0hUB4Fz2mXXLRr9Vc1WhdyvR3MXAwaqAnd1SXE+sLtomCsEW+Le+i2zNDQMfIu03BFvDGeJdhCOIM/3/LH1sKbVOw+FdSPGj/ZRy0rdpcl9W7zY40ufmXpGOZ7vULObWSS+p7PK22TN6fjD5Er0+8ieHlGaxvJHdNPWqPer169uqqIqLod7uX1/cHniN+8nPkjedZmMoOjDluFxx/+EuSr+CM+RXDfXp6ED/cCvf7wHjog8kz3Li5UcUPlvuGQD1kjwwwqNhorseI40Ud54GmzuEFmGZn1lu/SrX9594PrnILROZrWkllRR5e6522f3BJC9zzrcjBjuibqfYpTKWDePcLRLabs7CC8w8jq7iZA2fyhR5HvPPn0m9hqEvlFMePyjLvhLyqAueQtfvkSIXSKt0Jgr/xNCGDs5KaT9rFlS/7hMZ/rkb0gfcmfb+DLsZ+H9N2WeM8CJRLa8VRBgw==;/8j56QcEnkGbMddDwnQ4OA=="

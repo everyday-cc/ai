@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dqindia.com/5-ways-learning-data-science-ai-can-help-you
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/5-ways-learning-data-science-ai-can-help-you-succeed-in-your-career/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Dataquest
@@ -39,20 +39,6 @@ related:
       - url: "https://cdn.telanganatoday.com/wp-content/uploads/2021/10/JNTU.jpg"
         width: 1200
         height: 801
-        isCached: true
-  - title: "How Artificial Intelligence Can Keep Your Workers Safe, Reduce Insurance Costs"
-    excerpt: "AI and analytics company Newmetrix and 360 photo/video documentation app StructionSite partner to provide construction project risk data. Details here."
-    publishedDateTime: 2021-09-30T17:05:00Z
-    webUrl: "https://www.equipmentworld.com/technology/article/15114793/newmetrix-structionsite-use-ai-to-reduce-construction-risk"
-    type: article
-    provider:
-      name: Equipment World
-      domain: equipmentworld.com
-    quality: 33
-    images:
-      - url: "https://img.equipmentworld.com/files/base/randallreilly/all/image/2021/09/GettyImages_1292577482.6144a1cc01215.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 1200
         isCached: true
 
 secured: "J4jHje5OM/4eekuFamE7Mm1dJ24NX0Jhi5EGUpqt7k+Uk5rrBDLRP0o0QsDOrhgMkgUXVfecFCfCG3CEQQyu1lT50uahOPi1HGyaDmR65yLWd9H7bfpg7BWZVSWQJJxjstPRkrgbmb1PBv6Miq8JSZkjGozhTQH0WqOCd752KCPXJblEdp6EC8IpUk+2j7SyhtRQRKn1W7Iu8FnRdscfD6kKOM866zizvn+CDC7WbFr5YCvWenyQqMYpAWZz7OboZ0PbrcYFzmQwQE02Q7noHBn5bwqeuXAhp9KK0cIPgbgiwHX7KLiTJTmtXPjs/HW4vyhXrLJq3CrkHNuAGC1bu7JYCKcTQRTChLiJg8nLRD53AaOV8BKJ92WPuwP9eeEcdgSRGsmwRUXQak4ELOKltj1w2Of326PVDHf1Nai7zCSETuw/7h25rL+l91OGpwSJ39rv+Fo9gmJOfYpxsQyqCv1d/6jAm6qk16MJZ1PZVeJDigWvf7xIuofunmvVP9lwTkgClGnPvp+eOMAzFinpXA==;xhfT5kAwSHoIHEfRZKbUWw=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://europeansting.com/2021/10/05/why-we-must-consider-the-interg
 cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/10/05/why-we-must-consider-the-intergenerational-impacts-of-ai/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: europeansting.com
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Relativity Focuses on International Expansion, Integrations and AI in Relativity Fest Keynote"
+    excerpt: "The virtual Relativity Fest 2021 keynote didn't feature groundbreaking product releases like in years past, but instead upgrades aimed at integrating artificial intelligence into the discovery workflow,"
+    publishedDateTime: 2021-10-04T16:03:00Z
+    webUrl: "https://www.law.com/legaltechnews/2021/10/04/relativity-focuses-on-international-expansion-integrations-and-ai-in-relativity-fest-keynote/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 26
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/10/Relativity-Fest-2018-Logo-Sign-1-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "Research and Industrial Strategies for Next-Generation AI to Accelerate its Diffusion and Avoid Another Winter"
     excerpt: "Research on Artificial Intelligence has been on the rise in recent years and the word artificial intelligence has been a household name. Around the world, governments, organizations, firms, and research centers are investing heavily in developing the research field of artificial intelligence."
     publishedDateTime: 2021-10-02T09:18:00Z
@@ -37,6 +51,6 @@ related:
       domain: frontiersin.org
     quality: 0
 
-secured: "11glNYbRJNRtbVLvU00p70GW8UbS/TDauaJ2BwjFzMjH/HriefHRqBapXUqZbYxdtfAfXNmonRj9q//7uizfymb0CdbvdQBupGSCogUVvWSkp9T1LfYn2OlfBttVt4Sj0FNt13hFjxxYHR5CwStd+LxMKE1fRSUG6jh5NtfCDQ8RqfcgBhkKATL8Z/Tc+70Z+QHHVO0SuT9TiNWFrQMChFjAr7+aFzVcOVO/4ZFjAWiYfsiB2ym/5qhYaHqLr6WFSGP2NYIf9fQmvn820t2GqbtXVX500UfO9HAFgHfQ+okM80Ex8+bjHQsjWzajugdQq4yJSdak4zKH2yD3/YIsasNYU9XyHXVBsRbn5iZInZ0=;80d4MiAQHrWUOylt0c80ZQ=="
+secured: "jFOvC20JsMHAzCJpeAqQ0Rut6C+mSHObpk9ioWG+v//fJaA3/4lIkbJWTwzuBUZ+fRTRmb/r8MkX/xuvW8mtM3qna4hYMwmA9YlQ0DROJi8021vHBgWLEPULYvWM70AdSearQbe3xeclzIu1r3AYaoPHP+eLm+he1vQE/lhwwpcYihgbMLS2PDLIlbFZlmmce5QMiw6zddoAfkPDqe6TAdU0DTyD58TC7NAK/m4Jld1BW7Qtv6KgoI/tyr9nga/0GvxJ+Hn2jCUPwVd89IZZUoFt1fERey1odwugf30EMeExRDtdpUMkuSkfGg5Crs/DEeRUQ16wmJEZQSah9fGb8KgwLcDCt73WAV163WOs/xhOnoSAs/Mx/OyxGJPs9Zu8KLqkGlDU4bPGouKrO25Nhc5JwaTNM6sxcAXzYsls+90cPHGyNrfIvlINDoDrG+XowyoepdUdPgx5O9qVq+xp/qH2arwPbF6ZBqZ7VrOAGXQvHZPGujzgiP/gbqGxa720ECAkCUAbxqCt1dukQoXSWQ==;ASCi/DNk2O7+X24PU+EBSA=="
 ---
 

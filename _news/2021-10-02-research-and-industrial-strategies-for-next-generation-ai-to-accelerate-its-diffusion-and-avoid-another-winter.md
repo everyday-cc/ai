@@ -34,6 +34,20 @@ related:
         width: 715
         height: 1001
         isCached: true
+  - title: "Relativity Focuses on International Expansion, Integrations and AI in Relativity Fest Keynote"
+    excerpt: "The virtual Relativity Fest 2021 keynote didn't feature groundbreaking product releases like in years past, but instead upgrades aimed at integrating artificial intelligence into the discovery workflow,"
+    publishedDateTime: 2021-10-04T16:03:00Z
+    webUrl: "https://www.law.com/legaltechnews/2021/10/04/relativity-focuses-on-international-expansion-integrations-and-ai-in-relativity-fest-keynote/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 26
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/10/Relativity-Fest-2018-Logo-Sign-1-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "4fqYj0zrqLssqLG3rKtUEfehbpcA7c8lcbIbYQkrOLSX7+4TdfQLI7O0RFFiSxNVTob+DJcGKndd+NIisckHPmAw9L8Xr8U55z0dQo3f5mpEJB1OB5c6o4YVx4gclDI5sj8VW0WARNaklLGKZKVwobel5HRFwBBZpmdfCPN26GBo2fq64CCaWmbQlgkWX+OT4l1UA/oKFgbfMaxpzSfwxk9eR59KBnj39uJBjMDOS8DDCIMr2812lqzKSa/8BYXpkSl5j/ITuT35jfN0EkEbnBTZJj2nQotlDuB1u0NMqRIQBh3GLuGeb83ZS5MKJOOs+UoAiB6aIF7yKDp3j7O0mLLqpgVzs/lwmphoc3JRZbs=;vwnIAUij9xTlpWG/T+PG5A=="
 ---

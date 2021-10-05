@@ -57,6 +57,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Reboot AI with human values"
+    excerpt: "A former head of the European Research Council urges critical thinking about the algorithms that shape our lives and societies."
+    publishedDateTime: 2021-10-05T10:33:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-02693-2"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 39
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02693-2/d41586-021-02693-2_19704840.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "R7Zj+t8sGzLxBMyY/ziNl3VNt5nJRIUwA9Sx/edBH4y9OfrwfN5F1Of+NoRoZ1a73WsgvWZS2LKNZETbQyqSOFA5PIbJ7cwaAfT3kLQsyCUKnPWs9447hXCcpi7ipv75QOKH8G/989dCq2Yb2TokvJykcfKcbPGeSlmwg0kwLL1Q7G4CPllQOVIoIvi+WWH3pUy7+1ncL6z3CW8UDE4ZtmYBNsqvlwcpkFTSg1rP/TlQAluirJG9yFWTLVPriSkUzP5ORIfPwhAoe9TYc/HBa0mjUXW6oZBR3zXVW1fd//L3XY/KFNWm+icqqiFZ8yOpwTS9qVgyZ9Hn2Jlljvldrcuz6qc2gc4UEo8OP0YXMenX/xdxO/MQV8CrBiNHwFTk/NJanuVaTEW+EKMn0iA6n966bEmssKPlqRSS2tRNuA1JVc8IvDjOuwdtFQulOuenWHx2JenKEvRKnJ1cV/4dgWD0rM8Uh9a0//T4ZB9clFIDMvHCzIQHHhAfHpY0xL2sOvc/d6Pg6LvZPC16vdnA+A==;EXhjDxXXatjGgwJRTpmSEw=="
 ---

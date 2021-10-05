@@ -55,20 +55,6 @@ related:
         width: 752
         height: 270
         isCached: true
-  - title: "Honda Announces Plans To Expand Research in Air Taxis, Robots and Space Technology"
-    excerpt: "Honda Motor Company on Thursday announced plans to increase research and development across three technological categories: space technology, robots and electric vertical takeoff and landing aircrafts (eVTOL),"
-    publishedDateTime: 2021-09-30T18:20:00Z
-    webUrl: "https://hypebeast.com/2021/9/honda-research-space-tech-robots-air-taxi"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 48
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F09%2Fhonda-research-space-tech-robots-air-taxi-TW.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
-        isCached: true
 
 secured: "rdfP65AXf0wqdTKXIYKoOga/R/3YPyXvVVTlXLnp6VS1rcF7N8grXsf45+WjLaPwrfJXnpnTY6DB9bRwlB0Sr0osWbX8yQ+ydWpg9xrmuB7zMwH4bhtyXUPSAPP1j8F1qb6n5/VL3NrKvyBwYwtyTyjtjrmbhpq/c9/Nr01/8LIHGXZb2snZLBU5ecc9f4FNzKn/FKxplheQG3P82OWx6vcl7q9iE5vqoMSgnjq2i+FVPVJ6oUuxvRFmMmDIoUj8wqveuHbeFQsKTlAyAH7OPOyvDqQZQ/QFrHE+STnjrRsHXwkT26ZSFeC0KnEHrIG+f8nM84V9d0G+vKKvGJuBFX+6X5bRg4/MGpkzSVuoApZlaHTBRVc/jD1IcKODqPi9+x66wOfCxKhNFmgmXZnzRI10SD3qcy30BHUaVYtGvG8TGygTiqnTr28pHsukDBNR+Dhyo6R3rWWFo1mXx+kVuA3a88chDQE3LA/0d5HMwC9zYdQaQnCixnH9xTHLk2DjPOAVuQ6inVE6w3TkOkgTag==;TP3YRq40ESPs0ClEesSpYg=="
 ---

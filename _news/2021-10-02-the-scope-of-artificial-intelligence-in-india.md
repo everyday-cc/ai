@@ -24,21 +24,97 @@ images:
     isCached: true
 
 related:
-  - title: "AI Innovations In Media And Communications"
-    excerpt: "My last blog discussed AI innovations in the health care sector, and this one will share a few perspectives of new developments in the Media and Communications Industry."
-    publishedDateTime: 2021-09-30T17:19:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/amp/"
+  - title: "The Future Of AI-Driven Meeting Technology"
+    excerpt: "AI technology is vital for organizations that want to increase cross-team information flow and drive results in an increasingly remote working environment."
+    publishedDateTime: 2021-10-04T20:33:00Z
+    webUrl: "https://www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-driven-meeting-technology/"
+    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-driven-meeting-technology/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-driven-meeting-technology/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155ef71088eada6a8f3c806%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615b62d360ccb5a24706abcf%2F0x0.jpg"
         width: 1200
-        height: 675
+        height: 800
+        isCached: true
+  - title: "Marketing Artificial Intelligence: AI, Marketing, and the Future of Business"
+    excerpt: "Artificial intelligence is forecasted to have trillions of dollars of impact on businesses and the economy, yet many marketers struggle to understand what it is and how to apply it in their marketing efforts."
+    publishedDateTime: 2021-09-30T19:43:00Z
+    webUrl: "https://www.amazon.co.uk/Marketing-Artificial-Intelligence-Future-Business-ebook/dp/B09HH2LZ9M"
+    type: article
+    provider:
+      name: Amazon Associates UK
+      domain: amazon.co.uk
+    quality: 66
+    images:
+      - url: "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png"
+        width: 350
+        height: 450
+        isCached: true
+  - title: "North Korea develops translator using AI technology: propaganda website"
+    excerpt: "North Korea has developed an artificial intelligence-based translation program with enhanced speed and accuracy, a propaganda outlet reported Sunday. DPRK Today, a propaganda website, carried a report introducing the research result of the AI institute of Kim Il-sung University on the creation and introduction of Ryongma,"
+    publishedDateTime: 2021-10-03T01:09:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/nation/2021/10/103_316380.html?fl"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316380"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316380"
+    type: article
+    provider:
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 59
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202110/fb09af58482c4d07b89adfed4afbf0af.jpg"
+        width: 980
+        height: 607
+        isCached: true
+  - title: "How to Use AI to Drive Business Growth in the Tech Era"
+    excerpt: "AI allows for that. And from the looks of things, that will be nearly half of all US-based businesses within the next 12 months. However, even though the capabilities are there, it’s largely untapped potential."
+    publishedDateTime: 2021-10-01T13:30:00Z
+    webUrl: "https://www.business2community.com/business-innovation/how-to-use-ai-to-drive-business-growth-in-the-tech-era-02433972"
+    ampWebUrl: "https://www.business2community.com/business-innovation/how-to-use-ai-to-drive-business-growth-in-the-tech-era-02433972/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/how-to-use-ai-to-drive-business-growth-in-the-tech-era-02433972/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 57
+    images:
+      - url: "https://cdn.business2community.com/wp-content/uploads/2021/09/Business-Technology-900x643.png"
+        width: 900
+        height: 643
+        isCached: true
+  - title: "Valley teen's AI-driven wildfire prevention system turning heads"
+    excerpt: "Basically, what the system does is it detects hot spots which are areas where wildfires can start,” said Prisha. The system she designed uses real-time NASA and NOAA Meteorological data and predicts if an area’s conditions are ripe for disaster."
+    publishedDateTime: 2021-10-01T20:56:00Z
+    webUrl: "https://www.abc15.com/news/uplifting-arizona/valley-teens-ai-driven-wildfire-prevention-system-turning-heads"
+    ampWebUrl: "https://www.abc15.com/news/uplifting-arizona/valley-teens-ai-driven-wildfire-prevention-system-turning-heads?_amp=true"
+    cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/uplifting-arizona/valley-teens-ai-driven-wildfire-prevention-system-turning-heads?_amp=true"
+    type: article
+    provider:
+      name: ABC15 Arizona
+      domain: abc15.com
+    quality: 57
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/3704109/2147483647/strip/true/crop/1280x720+0+13/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F9a%2Fcd%2F4dccb5824d7ea8d63b7dc1d4b169%2Fthumbnail-img-2226.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Do Robot Canines Have a Viable Future in AI Tech?"
+    excerpt: "The rapid advances made in artificial intelligence and machine learning have paved a path toward a more accessible, efficient, and optimized future. However, best practices and ideal applications are still undecided."
+    publishedDateTime: 2021-10-01T22:48:00Z
+    webUrl: "https://www.linkedin.com/pulse/do-robot-canines-have-viable-future-ai-tech-bennat-berger"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHfe1z4IYxtJg/article-cover_image-shrink_600_2000/0/1633128504221?e=1639008000&v=beta&t=lL8T7xD9Q9SOBxI4ObhbQJMaPFJN0cDrvULPfPIRFO4"
+        width: 800
+        height: 531
         isCached: true
   - title: "The Role of Artificial Intelligence in the Future of Education"
     excerpt: "Artificial Intelligence is already being widely employed around the world to better our lives, work, health, and everyday routines, among other things. Furthermore, the solution has significant educational potential,"
@@ -54,86 +130,19 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Australian organisations lack maturity in responsible AI"
-    excerpt: "Most Australian organisations are still in the early stages of their responsible AI efforts despite growing use of AI by businesses and consumers, new study finds"
-    publishedDateTime: 2021-10-05T00:34:00Z
-    webUrl: "https://www.computerweekly.com/news/252507710/Australian-organisations-lack-maturity-in-responsible-AI"
-    ampWebUrl: "https://www.computerweekly.com/news/252507710/Australian-organisations-lack-maturity-in-responsible-AI?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252507710/Australian-organisations-lack-maturity-in-responsible-AI?amp=1"
+  - title: "Kai-Fu Lee — The Future of Artificial Intelligence"
+    excerpt: "The extraordinary opportunities—and challenges—presented by artificial intelligence are at the heart of Kai-Fu Lee's new book, AI 2041: Ten Visions for Our Future, a \"scientific fiction\" that sketches 10 possible AI-driven futures that are within the realm of the scientifically possible."
+    publishedDateTime: 2021-10-02T05:47:00Z
+    webUrl: "https://www.hks.harvard.edu/events/kai-fu-lee-future-artificial-intelligence"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
-  - title: "More Organizations Saving Time and Costs on Data Breaches with Automation and AI"
-    excerpt: "Cost of a Data Breach report shows, AI and automation can reduce the cost of a data breach. See how organizations with AI security fared in 2021."
-    publishedDateTime: 2021-10-01T17:30:00Z
-    webUrl: "https://securityintelligence.com/posts/save-time-money-data-breach-security-ai-automation/"
-    type: article
-    provider:
-      name: Hack
-      domain: securityintelligence.com
-    quality: 32
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 52
     images:
-      - url: "https://securityintelligence.com/wp-content/uploads/2021/10/Data-Breach-1.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The Future is Now: How AI in Diagnostic Imaging is Transforming Medical Applications"
-    excerpt: "The Use of AI in Diagnostic Imaging is Booming in Healthcare Industry” Download the most up-to-date research study and application @  AI in diagnostic imaging is gaining prominence and quickly growing industry close to what's to come."
-    publishedDateTime: 2021-10-01T19:22:00Z
-    webUrl: "https://www.linkedin.com/pulse/future-now-how-ai-diagnostic-imaging-transforming-medical-p-mahajan"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 30
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGmyKBct-TaWg/article-cover_image-shrink_720_1280/0/1633115703468?e=1638403200&v=beta&t=lYhzsqOGDrkEHBGeACtqj6r46vmodR0eEfo1XbStQwY"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "How Deep Learning Works in the Covid-19 Era: Applications and Limitations of Deep Learning"
-    excerpt: "Deep learning is changing the world during the Covid-19 pandemic by detecting fraud, treating illnesses, developing self-driving cars and helping organizations deal with complicated queries."
-    publishedDateTime: 2021-10-04T14:32:00Z
-    webUrl: "https://www.bbntimes.com/technology/how-deep-learning-works-in-the-covid-19-era-applications-and-limitations-of-deep-learning"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 29
-    images:
-      - url: "https://www.bbntimes.com/images/articles/society/How_Deep_Learning_Works_in_the_Covid-19_Era.jpeg"
-        width: 1620
-        height: 1080
-        isCached: true
-  - title: "Relativity Focuses on International Expansion, Integrations and AI in Relativity Fest Keynote"
-    excerpt: "The virtual Relativity Fest 2021 keynote didn't feature groundbreaking product releases like in years past, but instead upgrades aimed at integrating artificial intelligence into the discovery workflow,"
-    publishedDateTime: 2021-10-04T16:03:00Z
-    webUrl: "https://www.law.com/legaltechnews/2021/10/04/relativity-focuses-on-international-expansion-integrations-and-ai-in-relativity-fest-keynote/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 26
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/10/Relativity-Fest-2018-Logo-Sign-1-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "Worldwide Mission Critical Communications Industry Report to 2026 - 5 Cases Studies Included"
-    excerpt: "The \"Mission Critical Communications Market by Enterprise, Industrial and Government Solutions 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. The market for mission critical communications is rapidly evolving as developing technologies supply solutions necessary to meet emerging demand for improved voice,"
-    publishedDateTime: 2021-09-30T19:42:00Z
-    webUrl: "https://menafn.com/1102895938/Worldwide-Mission-Critical-Communications-Industry-Report-to-2026-5-Cases-Studies-Included"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 13
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?280675"
-        width: 371
-        height: 250
+      - url: "https://www.hks.harvard.edu/sites/default/files/about_us/Twitter-Card.png"
+        width: 840
+        height: 450
         isCached: true
 
 secured: "XIotZVB16wHU9knQXOlnuFWhHx7r5mIyLUu1TCYSx96RIsHOK7yrZTYV0ja6HtA1F39APj8JlOr6ROcPaGZc2rrPVDOjwnn2ejwkQ3EMPlVqh4oMKYSXfSp/PTMVGvREMSVLYAGX0GK19WCoAQPKr4W6KAA3ajhiHBosViGe4eiHmjUmy6rc+7S94s0x5z2SY4yP3/R5W3oD/QDEEXRG++jKx/jbAvZjpoe63hmuRlv4Ufj9tXc8v/kxkXTSHzNdhXp9cp6odaOI056ewAeVf9HsVRMXWMcy68s3hVJWfno4Om5Swhl7hVhHtZfNtCJlkR1gdJw0kl6Spurgv8mWh4AktLjcWGbuGe8SMOuckb83bEoFr+gNs6PKcK7tTZ7aJqfy0Znulzke41AdwE3hUyoQsPrBY0h2pU/o4QrXyO/RgPcP9N+cKX8dcPXG+M40orXRMzyqroIgaHgX1iLLeRKqNQmcZtwNcttaAyu9Rt9pSdz7AdLEjvpug49fzOEsTOxJwmBn92c/qbVEW3jJHA==;E0B4Ybgajl+OHquux20+xw=="

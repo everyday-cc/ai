@@ -71,6 +71,20 @@ related:
         width: 2093
         height: 1409
         isCached: true
+  - title: "Coastal Community Bank Chooses Finzly's Payment Hub to Power Fintech Partners"
+    excerpt: "Finzly, a fintech provider of modern banking solutions, announced today that Coastal Community Bank, a progressive community bank with assets of over $2 billion, has chosen Finzly's award-winning payment hub,"
+    publishedDateTime: 2021-10-05T10:11:00Z
+    webUrl: "https://www.lelezard.com/en/news-20029611.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 36
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "4Jv8IQDy31RJp6fU+kuj8Sp3j/HgxfYy6Dzc+paSXpVrQjKj3ive4R9efOr8yrYmQCsapMQ+13FX2Xf3OYMNuwodgMGz8G9m1qrp9s+EWZD5CBxdXMg4ZtT6zkG9ETgx5Lukctm6f5PVQNtGUtCi63RbI5bvrpAVYZqZY1ClwlCdLOmWsVl6QBwW1luYcRyUXzOq0NKgKjOcSzlmOmZuAB/gJUk2YHx/1QDCE9LqPgOew8t4kV/UuYqiE/XO/pAcGe4djxPInE7awmsoqmvxIIS9tHP3tXbQL56dHIWuWwnU8zc/sfLoN0TEmv5dzcM+eSCg1j8GIIrtZAM1JWoEF+AZ9FZIrN2UE18I4aDvIhg=;f4JJcwLVTn5Wy7YhTXUZtA=="
 ---

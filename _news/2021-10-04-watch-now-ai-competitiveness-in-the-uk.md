@@ -23,6 +23,22 @@ images:
     height: 267
     isCached: true
 
+related:
+  - title: "Apocalypse Now: The War Between Artificial Intelligence and Diversity, Equity & Inclusion"
+    excerpt: "We stand on the verge of a deadly chasm, the perilous depths of which remain invisible to us. Humanity has a choice to deploy artificial intelligence capabilities to build a future of prosperous equity,"
+    publishedDateTime: 2021-10-04T09:43:00Z
+    webUrl: "https://www.linkedin.com/pulse/apocalypse-now-war-between-artificial-intelligence-equity-akadiri"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 30
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEL5Ax7o0OBQg/article-cover_image-shrink_720_1280/0/1633339813562?e=1639008000&v=beta&t=Nz4rS3f6FVmwk8ufDRZtFC0MEblchNgiPQ4VtMeGZJs"
+        width: 1016
+        height: 720
+        isCached: true
+
 secured: "lzDqn1wHciZjqMfT1dIvM/Vwd4FojWx4dCUsG1jQtVfUg5rK9495gvLenAtlh8gdYSuNdz40CTp1h8MmfruAv+6WeTC3LFKhWyvh219GB6aoT3plQo+eNL+0JAk22ThKpEGsRiKPVOt9o0Bu7Flf46dYqH/j0RYoSZpZU0xoDU1J20nMOrQeAXlZDswivLVLwnDhHMIjCDDDixP/opZnzfVJB3dwaI6zttqMP8wwOGG1V5HUBQBmd+kkFGljqd+PrFlRWTw/Bbwj9L3Zex1P+Kw3SL/XvUPa1nnFpeOWpimNZC16Fig5Fa+sU7l9+NG1JcDz7EdWLZAt7tkLztopIL6HJABc8B/y7Z7nF6S7MCg=;U42BtiMi9NqKmZBF7BEZHw=="
 ---
 

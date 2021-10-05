@@ -40,20 +40,6 @@ related:
         width: 800
         height: 420
         isCached: true
-  - title: "How Artificial Intelligence Can Keep Your Workers Safe, Reduce Insurance Costs"
-    excerpt: "AI and analytics company Newmetrix and 360 photo/video documentation app StructionSite partner to provide construction project risk data. Details here."
-    publishedDateTime: 2021-09-30T17:05:00Z
-    webUrl: "https://www.equipmentworld.com/technology/article/15114793/newmetrix-structionsite-use-ai-to-reduce-construction-risk"
-    type: article
-    provider:
-      name: Equipment World
-      domain: equipmentworld.com
-    quality: 33
-    images:
-      - url: "https://img.equipmentworld.com/files/base/randallreilly/all/image/2021/09/GettyImages_1292577482.6144a1cc01215.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 1200
-        isCached: true
 
 secured: "PO2eQGkwQhqRrukXoH+MCtGlYw1xkjnO4Org89OIGszzRQFBmqc9ZoPrrJvK/+KZDNODU3ONdOGN0TNFoH1fGTu9wDhKtfjUDMmBxht6D2eY9U+06R10fkUi5OgmOFpzgiKQp9oTjtLgGAjd4/iS4g0rwlBCNCRkaNTofMEEt8h7uyLKJJTafFWZPy0JlWeN/kvqhKwZq6MpRvwtWtbccs2xiNmDUdsF3dVsko+EDQQcJfqKMGUWa8BoU19yXVjkvVoT8mX8iDup+8XTUem0I1Jaw1J1jWd8jLB48Z/BVT+r4YNqD1vEzMAznR6zs1zX6MJLGkRmam0rrpRPf+18bCltSdQsGvNqBxAc+W+aICg=;LtBsFGsV0GGtHyuI0XynHw=="
 ---

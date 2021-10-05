@@ -7,7 +7,7 @@ originalUrl: "https://www.americancityandcounty.com/2021/10/01/addressing-facial
 webUrl: "https://www.americancityandcounty.com/2021/10/01/addressing-facial-recognition-inequity-and-access-bias-in-unemployment-insurance-benefits/"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,47 @@ images:
     width: 1024
     height: 683
     isCached: true
+
+related:
+  - title: "This is best practice for using facial recognition in law enforcement"
+    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Lofred Madzou, Project Lead, Artificial Intelligence and"
+    publishedDateTime: 2021-10-05T10:30:00Z
+    webUrl: "https://europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/"
+    ampWebUrl: "https://europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/amp/"
+    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/amp/"
+    type: article
+    provider:
+      name: europeansting.com
+      domain: europeansting.com
+    quality: 59
+    images:
+      - url: "https://europeansting.files.wordpress.com/2021/10/face.webp"
+        width: 687
+        height: 1031
+        isCached: true
+  - title: "It’s time to start regulating facial recognition technology"
+    excerpt: "Its time for regulation to be stepped up in facial recognition technology as there is no oversight, governance, or accountability at the present moment."
+    publishedDateTime: 2021-10-04T18:13:00Z
+    webUrl: "https://techhq.com/2021/10/regulation-on-facial-recognition-needed/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 41
+    images:
+      - url: "https://cdn2.techhq.com/wp-content/uploads/2018/12/000_1SN6GC.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "West Lafayett City Council Votes in Favor of Banning Government Use of Facial Recognition Technology"
+    excerpt: "The West Lafayette City Council took up a vote to ban Government use of Facial Recognition Surveillance technology. The council was split on its decision."
+    publishedDateTime: 2021-10-05T06:06:00Z
+    webUrl: "https://www.wlfi.com/content/news/West-Lafayett-City-Council-Votes-in-Favor-of-Banning-Government-Use-of-Facial-Recognition-Technology-575459661.html"
+    type: article
+    provider:
+      name: WLFI
+      domain: wlfi.com
+    quality: 4
 
 secured: "Bw3ZqzwlxzISJtcEU6r3U0AemqdLbkH0+9GD4yA+bMVZ0N5r8WCoLOySq1O4Q04uNw9nz2VwbR4cKUiKcyQYUeb0xcTjYlSKz99NVvk+/hPd5qQj04LQBhn7e5JiMUPUbqNtYajnwqdMFB9MUnkThZqZBa+IYLWwhO5ZIIMbalgsUNoexyty53uXnF48oiQi8hhSxKiyDrtMX+wuQDl1PkAvuEjnKoL2g9U69QOGnxSg6ZqNL5cWi9Ob6tsdr48/2Yd/j6dYvjqvuEbvuH9ajh6f0tbm5Vqk901CTQVzy3yJIYnrGu/D2CYAtHLuwUvPkGPizQWgaymi8sCr7YwvXQ0DbsC16+mLvOgq/ttWSf+/wVOIQfIiiY/IlE4G4Z5TxA1yFsdTlPkTYnVbkLxuAcxhRzfsBPHXsRY5AOQN1GvXCpE8cCtSw+LwrQ1nyxVUW7Cgj8C0zugLeLxI2pRPP4x4cgCWS7htCzOj8nxUGku12hOdW47XtOMhHJlKTySstEMVB61drnPL3NJcYdFPDw==;YJllKrjI6Yva4y5lXbxmyQ=="
 ---

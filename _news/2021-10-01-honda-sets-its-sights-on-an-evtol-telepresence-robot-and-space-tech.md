@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/technology/honda-future-focus-evtol-telepresenc
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/?amp=true"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://media.nationthailand.com/uploads/images/md/2021/10/yrHKYUG2ssVzuXoZG4Gz.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Honda Announces Plans To Expand Research in Air Taxis, Robots and Space Technology"
-    excerpt: "Honda Motor Company on Thursday announced plans to increase research and development across three technological categories: space technology, robots and electric vertical takeoff and landing aircrafts (eVTOL),"
-    publishedDateTime: 2021-09-30T18:20:00Z
-    webUrl: "https://hypebeast.com/2021/9/honda-research-space-tech-robots-air-taxi"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 48
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F09%2Fhonda-research-space-tech-robots-air-taxi-TW.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
         isCached: true
 
 secured: "6N1mWQmnkVQhkGGJ/zaer/yKWTnfYJSxXt7Y64WIOzoIEWEv2jReIYCOaORoApKdKm6NWZp7sl/reKYmjiPnYzvz9mVMeOELNKBeNJs6pNveyPh4SjSoXjoaQoxV9PlAJfqca87UpunWM1LTB9JuITWTviZmFlDyIBRBhOk7zpzvYLJIJGK15EmCtIl6Z+CCblxjB/NBWBHQe0FExtcxaLaTE5jkHyY2N4Ula3QaoVHmFIP1AzHf0KIL40GxhC+ILepMQAXjyd2WVPghohEXEUf2jZF50GdBNwnFSO7ilquXZqyxZvMiq3vYNseoIcuapXZ7YxlobmF+zgrjbyqRoCRkaDw1J+3lKZOXD74uwcTH7lE3LorkXyFee/sGhzAIVaXuIOWv/Bg0An/IgHWE7qo1C14gCaDrqL24UDXojuqx2UEz28iwhzdqev8aV23vyMuO6OX8amw3C+jDx98EVIjRCeUfGdh8zLyfpSL7qXvxFX8U8aXMOJhJag2EY4YxsaU9MrP1JmOat8mkUY5ILA==;BetFyAsC2RAcC3t7VJWkIA=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDolzhnNAYUkFt
 webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDolzhnNAYUkFttrHOExbOxo%3d"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,38 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Nvidia and VMware team up to help enterprises scale up AI development"
+    excerpt: "AI projects using VMware vSphere with Tanzu can now begin running trials with Nvidia AI Enterprises software suite."
+    publishedDateTime: 2021-10-05T11:00:00Z
+    webUrl: "https://www.zdnet.com/article/nvidia-and-vmware-team-up-to-help-enterprises-scale-up-ai-development/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-and-vmware-team-up-to-help-enterprises-scale-up-ai-development/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-and-vmware-team-up-to-help-enterprises-scale-up-ai-development/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/1c3ac227b0ce47b901cd7969bdb6a3035900d68e/2021/08/24/b3e8396b-756e-4968-b5ac-1fc5d9c07b53/nvidia-ai-enterprise-image.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 589
+        isCached: true
+  - title: "AI and Software Development: Let the Revolution Begin"
+    excerpt: "With help from AI-Augmented development tools – including no code and low code – software development will move far faster, and be open to non-tech types as well."
+    publishedDateTime: 2021-09-30T19:42:00Z
+    webUrl: "https://www.eweek.com/big-data-and-analytics/ai-and-software-development-let-the-revolution-begin/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 67
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2021/04/circuit-board.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "Wjr0dZCJIKUVsdJ2fLL8QoPzA16I3N3pbF4ab3GE8Dve9yTEIeRGEsnrCG0CAdHl7k9oTFAXo/ynPjKtlg9c/gRL+4CWJfnDNeZioVgMqFnPEtbGby60uq0PqofneP4vUtNTPPujGn72KEaq5K5wcAvhfRlJ9v/cB637UERhpo5j4YtWO1HLmuLJknnJLXlsHdj65XuaoFdSA3XQ6vAyvHipuxwT0YEkOFfkKP7BKttwUli3s4vDSagIGssGxbZUtdsNO5fzGSZyfpctk+DfZEENHNuD4+AshJ+u3z7rZ/MsQN61p55U8laQRHQGPwUegBWxrVWplmJblL7KBdt6f7gAsad4W40ZKjwkQ21xOD6A+5gqhqpVWnt9/gzR7rTyLaum92a+TuV+7174sa2ohGDx7fP0/Y53IiJo80yLbVF3n3/CTBdeWluMlEAVYgx9yNShAfNKcTpAjhQ2sMSc08KGawa9sh68LoU3D4RvSrmJl0xmMrwh8nIuCiYudULa0YfDj/Ipg0xW6ty1EvoopQ==;mOP2Y7oqsqz5arQFeyoJUQ=="
 ---

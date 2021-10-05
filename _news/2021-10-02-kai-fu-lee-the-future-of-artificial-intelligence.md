@@ -116,6 +116,34 @@ related:
         width: 800
         height: 531
         isCached: true
+  - title: "The Role of Artificial Intelligence in the Future of Education"
+    excerpt: "Artificial Intelligence is already being widely employed around the world to better our lives, work, health, and everyday routines, among other things. Furthermore, the solution has significant educational potential,"
+    publishedDateTime: 2021-10-02T15:46:00Z
+    webUrl: "https://www.linkedin.com/pulse/role-artificial-intelligence-future-education-yogesh-khandelwal"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG1wh0a0R6i9A/article-cover_image-shrink_720_1280/0/1633189407713?e=1639008000&v=beta&t=qvFzABCXoEoVg9wK4OjX0No9S-1IUKYkvUBAcgs-ids"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "The Scope of Artificial intelligence in India"
+    excerpt: "Artificial intelligence (AI) has transformed the world of technology. This is the reason why AI investment is increasing. Keep reading to learn about what is the current situation of our country as far as AI is concerned,"
+    publishedDateTime: 2021-10-02T08:30:00Z
+    webUrl: "https://www.analyticsinsight.net/the-scope-of-artificial-intelligence-in-india/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/The-Scope-of-Artificial-intelligence-in-India.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "lXdjfjNoxoKkxAt6eXw64UYEbef42SzZYDGdBdaQegOz6InMxDpp2veuM35z/Rf98ePiCU0rSOaA54GOtyaNN3p8Ct9pv0oAw7lp0WXT11OTZcc7d9ratuq6fHFzEQGD+JBzlUilKovszRMk/h1jdG822gdAs0Qw57sD4CYci+L00lmXewy9+86OuItLRYI6GW4LS8+4XWBcHZcAJDBgN3WWbzojvnhxYjs/9SkszoD4Z/2DuMtLJbSwFbc7GOZ9ILuToOmRg02eKLw9xlwhUC97iAWw9F3SWFGFDDoBw4P+cxmRPqlhnaqzIREupz+sIAJAjv5A48/SCFKiEPj7s2ddqDjjdVODH2Q3P5+MCio=;SDRffna0/FlWslBFQUPuWw=="
 ---

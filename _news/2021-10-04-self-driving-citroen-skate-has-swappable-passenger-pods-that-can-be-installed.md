@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Pullman Power Fitness and Citroën create self-driving fitness pod concept"
+    excerpt: "French car manufacturer Citroën and hotel brand Pullman Hotels & Resorts have partnered to create an autonomous"
+    publishedDateTime: 2021-10-05T11:06:00Z
+    webUrl: "https://www.leisureopportunities.co.uk/news/Pullman-and-Citroen-create-self-driving-fitness-pod/348542"
+    type: article
+    provider:
+      name: The Leisure Media Company
+      domain: leisureopportunities.co.uk
+    quality: 23
+    images:
+      - url: "http://www.leisureopportunities.com/images/2021/SOCIAL348542_51682_638286.jpg"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "mj+2v7cXoiyS3TuM0qtNiVNz8419BcGBuAoPW5kipcpxmT4bBFahoSrAaBSSWUjtB8P9YwqCt9OG5shtZm4OLe4XZLjETk16gmXJc6ufz7l9khUYE2/xrvHIydJiM0ZeSCsot3dHsnPp/1/evLvM0KMQLvPUQu4xVs2Xo2m8hn3HIiT4BWLZxsgsoPgkInw4RX3WZh53jvHbkyZj3BLryBNptKOmhFQQi+87pWZrWXE8Vwzp7t74Irm/4RRm5Eyoy1WLOuuo9EkvYCS1SrvwGO/LlrF4G+nuXBqPSiJCJfLUIK3fQUxkO2obVhPY1QDmNe7dreG05aleoySsrUZ45EdtTOg9C86wO1AkAi0d7pl5vApCCVPa79OuzDUO+guAcCmXO50HMUioOWZxuE/mgU1KXZ9BqzoVbAje8wibIYGbTdn0UGGrH83zu51w1E3DOkas8rS1JkieZG54P+PSPgWC4LSqYaqfyYbBGS9iguQooh4lkj6A2Z2DGYwOTYu+Wg6JMRP2IsZlJxNNVGuRFg==;OPtQcli1bLBnU4ikkDSOmw=="
 ---

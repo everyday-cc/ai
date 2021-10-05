@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/automotive/citroen-skate-autonomous-interchange
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/?amp=true"
 type: article
 quality: 74
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://en.mogaznews.com/temp/resized/medium_2021-10-04-7ab3827b8b.jpg"
         width: 700
         height: 450
+        isCached: true
+  - title: "Pullman Power Fitness and Citroën create self-driving fitness pod concept"
+    excerpt: "French car manufacturer Citroën and hotel brand Pullman Hotels & Resorts have partnered to create an autonomous"
+    publishedDateTime: 2021-10-05T11:06:00Z
+    webUrl: "https://www.leisureopportunities.co.uk/news/Pullman-and-Citroen-create-self-driving-fitness-pod/348542"
+    type: article
+    provider:
+      name: The Leisure Media Company
+      domain: leisureopportunities.co.uk
+    quality: 23
+    images:
+      - url: "http://www.leisureopportunities.com/images/2021/SOCIAL348542_51682_638286.jpg"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "fblIz1wk/lXTOpcEeKloKjwT6Dkp1T/BUlo4NYlVl6q9pwrDCNv4f32k8Jx2P+VMEbXiBmuvlmjh60HyLSnLQHYmyle/+w+5jLZlgpJuZTraKX4pAGcMZHshTqX3DcpUsCmOfST9EoiBek3rVCTIs4WwadFDm0eeFKyvW/oQflIrdg+JQMyid7XOfIk4sz0eDfQ+78ofnXc+meq3GbqGWJti5/HXPMnliPRBAKv/xdwIK1igM+N7miMA34bqW9qxSSlRz7mNwxm+wDcL+l0E+Aan1yEQ2tynJsYSq5LKjoTGp3vek0VRxVBQ7w43uuQzxDCEZRk+BZwG10X2M7xK+OcuBbmcYuUoQE0JYuN84am2ZaJAm3nJ2nGALv6orx/WPdMFquSX66IoO5PHVys5CsBGdU9eSrz1T2kstGaBOeckT5WLlWc+sO8IbrZW9qEV9ms0Ss1iWZVyhHRgrOtSYVSe27HmuOJuSWC+zl/h8mwzZmWoc566VNgtpTbPlZhQBfw/y566WEMScdTOrZubKw==;IbVvY0QHTa54oKnMkxyR2Q=="
