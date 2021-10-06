@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2021/oct/02/the-truth-abou
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/oct/02/the-truth-about-artificial-intelligence-it-isnt-that-honest"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,38 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "Will the cloud eat your AI?"
+    excerpt: "Commentary: The big cloud providers have a lot going for them when it comes to artificial intelligence. Does that mean these cloud providers are the only game in town?"
+    publishedDateTime: 2021-10-06T15:10:00Z
+    webUrl: "https://www.techrepublic.com/article/will-the-cloud-eat-your-ai/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/will-the-cloud-eat-your-ai/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/will-the-cloud-eat-your-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/04/19/0961cf8c-af8d-49c8-abd3-70ac81844a82/resize/1200x/94764ed0447c35fbd622da0fed1ec8b9/factory-ai.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Can We Prevent a Rogue Artificial Intelligence?"
+    excerpt: "Artificial superintelligence (ASI) has the potential to be incredibly powerful and poses many questions as to how we appropriately manage it."
+    publishedDateTime: 2021-10-05T23:44:00Z
+    webUrl: "https://www.bbntimes.com/science/can-we-prevent-a-rogue-artificial-intelligence"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 39
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Artificial_Super_Intelligence.jpeg"
+        width: 1030
+        height: 687
+        isCached: true
 
 secured: "xu2PkDezFQ+/9uiUQRezhx9z+EIUDvLEzcgwI75rqNfrGKpODHoGibqkeVL9eQm3MmfCLDlrgjAouSzr1gujxCfLtYiYFrWtEygAX3QcIzBxIydeTi0EiuHZM8w8eXI36RVdHvteKrDDgCKhT2ISuobeX2Ly0zJ6sVrZsD9g3KNdZN0tpdyRbNDzxU7cAMWvBvmo9+lHIJFte3DUxQY6dCdzYfbi6SI1d0/CtZ2GUlvd8FKD54jL+NNnCjPypQZ2Sep9z+z11mTMQZCLPTWVZLC6R87TdNhb9EJX92LEabD8qvaby34aRUyWqrE0PVKIaBTfPEmnEhj1xzXrDZ3t/AdHlkbFInYExudVn6Jk7tI=;8j04yP0HjouCWokt2z5CRw=="
 ---

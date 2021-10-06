@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/05/neural-magic-which-offers-softwar
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/05/neural-magic-which-offers-software-for-growing-edge-ai-market-gets-30-million-boost/amp/"
 type: article
 quality: 81
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Neural Magic raises $30M to shift AI from hardware to software"
+    excerpt: "Somerville AI startup Neural Magic, an AI company trying to replace machine learning hardware with software, has raised $30M in Series A funding."
+    publishedDateTime: 2021-10-06T14:26:00Z
+    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2021/10/06/neural-magic-raises-30-million.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "IDx5MNiAZt53Udffnk0+AxiSzaHJ0ttwNnjvl7g7G/gk0hseA0dpfTGHSfCH7flEv9RAcdL95JD91mZ9wdk3nbeW8dc1bJxctYN79FuU/8nSgULrnWcdQoipmIBCfOO0Ldj8qoz0JOpY2VrgZIFcyELhsoJ8s7Cq3Qt/uzU01npuP1n1D/8zdSckbFTJfszfZhq6ofnTUSZKziCba0DmjNTkydOq64QmiJJ+PhGvu+lKnfhEVJaNfB7PjTjyiRq2AhdFGiuib6JEIW3wWBx1UR1y2iBnaOwW3Uhwpff8hXdJjv10y+WyH1dQ7R6YJ1PV5LG5sdWevbWCtYEvY9MoTwAzk8Pcxh8NJfFivIFXzSyIJ1039n5XjeZ4rj7/ovQ9lsNpi/a1LKwldg0c/3tcyGZ6Z0nausRYUtWBgkU7H3tl/7hnMp2XBWKjIqpub5eD4Lk1T0Wty37aFRNh6W7amWx4Cky/NzmY8SvbSsJhnwuHLZgEMKxFnv8NK7WjhKN5nSZpy5zji6V2Qx12ngvtpQ==;Dees53+CWupgykv3I0LP2A=="
 ---

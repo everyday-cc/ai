@@ -213,6 +213,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Google's health AI startup turns profit for 1st time: 6 details"
+    excerpt: "DeepMind, Google's artificial intelligence startup, has turned a profit for the first time since its inception in 2010, according to an Oct. 5 CNBC report. Six details: DeepMind recorded a $59.6 million profit in 2020 after losing hundreds of millions for the last several years."
+    publishedDateTime: 2021-10-06T14:40:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/google-s-health-ai-startup-turns-profit-for-1st-time-6-details.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Google’s DeepMind has developed an AI-based ‘nowcasting’ system that can predict rain in the next two hours"
     excerpt: "Now, scientists at Google's London lab DeepMind have built an artificial intelligence (AI)-based forecasting system that, they claim, can predict the likelihood of rain in the next two hours more precisely than existing systems."
     publishedDateTime: 2021-10-04T19:18:00Z
@@ -237,6 +251,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "zgF2vatyoIi46g8Qpn7KER8ilY7JpdW0QQmRblmoObenCWRvGsCOhGmlX3uCB3RbyLwn8xB/u+pTv9+dH4p4MmHeVeJ1CWN2FYxnRqVDe+xuedsBhwajYeZJJ930RPZFlnSX6x5blOyMml2PQwDZHqzwRuXBUGXccLxq4F+zJLr+lcsJPAtsoj6zkaR+UZshmyaxBzcEf6BgvnfWXjFp9M5oJ4+JCdfAQM627arziNLS08JUVtQkBp6dc2gCHXRe2HUFtsFMyGg5+qMMrOlUkbdrZstu7mr7wapRNpbc01DZStJwfj7n8boZB/ORPu5G0wlB0AWEHPOVsKUxtK3DVBnA+3D8uUIvdfp0AO8yDyA=;VbaB4ZJKGOTcwFSm1IgP8A=="
+secured: "/udDpQ6acKMMK0GzTCB1Uhv+ZjKe2lMMgzLRnhi8qgeWTvRYWnoafI7qezM4koeWmmVDmP+WN9GJ4IQ0uStz27zqky8S6Crd4nzyzVlxq0FUFwsmwue4G6nq2l5stwu08faHfwg7evstbd5TMEQs1g8nhuEbqnLFU9PAKBB1mWp0qXmNXjVHnmKMDHTrfGUnVmrhFHc2ET5cHvs45dU2cuKbIM0NVw6FF358HQhAvw4TrJi9ELWHPtATXJN8cabE6LuADUhiBy6fOxxNXwC/40YUZaO2EKkV5MXVkMFWLkViwBarpE6+8oKObmSa+XK30iYwqphMiOUt8th9toMZFrXaL9mtKsx0WnBvPp1V+h4moa+yjF3D92HeAYh21OVm9YwRlgpC0j0HzgH5931mT2W3NU2umJjsBZ17z/5ErKOA1RjpdbWiT8A0k+wPyZNXTjxC1qtEBZdGDXaASAbr2goehXR2zcUOdRoVkTpmBX5lelpnxYZbNavV+zIZQVN9Xz082C5ERY8wpIipSSTxpg==;ltEPSJFF7keTnHXOu4m5PA=="
 ---
 

@@ -61,20 +61,6 @@ related:
         width: 980
         height: 607
         isCached: true
-  - title: "Do Robot Canines Have a Viable Future in AI Tech?"
-    excerpt: "The rapid advances made in artificial intelligence and machine learning have paved a path toward a more accessible, efficient, and optimized future. However, best practices and ideal applications are still undecided."
-    publishedDateTime: 2021-10-01T22:48:00Z
-    webUrl: "https://www.linkedin.com/pulse/do-robot-canines-have-viable-future-ai-tech-bennat-berger"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHfe1z4IYxtJg/article-cover_image-shrink_600_2000/0/1633128504221?e=1639008000&v=beta&t=lL8T7xD9Q9SOBxI4ObhbQJMaPFJN0cDrvULPfPIRFO4"
-        width: 800
-        height: 531
-        isCached: true
   - title: "Kai-Fu Lee — The Future of Artificial Intelligence"
     excerpt: "The extraordinary opportunities—and challenges—presented by artificial intelligence are at the heart of Kai-Fu Lee's new book, AI 2041: Ten Visions for Our Future, a \"scientific fiction\" that sketches 10 possible AI-driven futures that are within the realm of the scientifically possible."
     publishedDateTime: 2021-10-02T05:47:00Z

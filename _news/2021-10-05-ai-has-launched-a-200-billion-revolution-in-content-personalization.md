@@ -23,6 +23,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Higher Ed CRM Leader Element451 Launches Predictive Marketing and Expanded Personalization Using Automated Intelligence"
+    excerpt: "Element451, an advanced student engagement CRM for higher ed institutions, today announced enhancements to its behavior-driven Bolt AI that extend the platform’s automated capabilities beyond admissions and enrollment engagement to support the full and increasingly non-linear higher ed student journey."
+    publishedDateTime: 2021-10-06T15:37:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-d334a5b9794aaddb4e1d6308094d8c2f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "gsp02EaamuWHS6NXXMwrrxPtAsT5xzR6Eb9ifeIeOauhnHolu/T9Je4EtPsCIc2ztYj3ZlgIUflysoxXNn+4VwI/W1HaDMrwKyPOmjCNPeFPbaw1S64C0qf9m2SQK9DKWQItIiIgU4/EIVnLlDxwllq6UCTQSoiJiNU4D8lq4h0ANNuZevVXp5R9eDn44xjWM9RNDM7bkylDkuL6LJ5a/ZSTohfVkYw11XisZaCqk7S9tg33xU+3xYHl2NSjcgz6p9dCLLQOxqSflz1YrqyLltRWG1rNAS2GUBZsEWvk4Mh9ohVdEm/uHQ4uGzjKQBWlB26e3U5ZsSywayJ+SW1Ft/HSXHKlmr0B0e4zpIW+/OxVsS0tCma94Lh1ujcJzpijjBVIssCNf+EUM95EIUB/J97rH0y/sWgBtdDN6Szm+nYaxTxDGtFutCbJqop9fQm18LS/NQ1h1/Tkr5B2klu6n+kdBG+3AoSHbRE0jb5j7d7VMHPIB4JuU6E5/zSRWvTh/uPTQFLBZEshobBYZsGnhg==;4hd8NRRmFuBf9fu0pcMLZA=="
 ---
 

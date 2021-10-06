@@ -2,9 +2,9 @@
 category: news
 title: "‘Dystopian world’: Singapore patrol robots stoke fears of surveillance state"
 excerpt: "Trial of robots to police ‘undesirable’ behaviour such as smoking or breaching social-distancing rules"
-publishedDateTime: 2021-10-06T04:05:00Z
-originalUrl: "https://www.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state"
-webUrl: "https://www.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state"
+publishedDateTime: 2021-10-06T12:54:00Z
+originalUrl: "https://www.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state?CMP%EF%BF%BD_gu=&utm_source%EF%BF%BDcebook="
+webUrl: "https://www.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state?CMP%EF%BF%BD_gu=&utm_source%EF%BF%BDcebook="
 ampWebUrl: "https://amp.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state"
 type: article
@@ -167,6 +167,6 @@ related:
       domain: manilastandard.net
     quality: 19
 
-secured: "nk2cUstSBz4GUwnJ1lcM3ftx/VHD0Y6k281zaBICpeYv0+HBMpOfTZGX27InRRBBnccx45GdkRHNL6W7sLFooLt0pNo7rj3wCV1D22qiSGnXvWUnRbF7w6c71JC9DSMLcCO1NLnfNGnHwh62aY3g4cJ935AMmpdYmeUqwCFgXlAgJo0ARsSBCxvniCQlT3UZpsYPlLrdLQBmSMq88c8xmRdMr9zUT1jD1sk91YuxQXuZv6elhuhoQoFRfsiKeop0ggFMqZEtXr/KWxEr09+8Jb55hnttHq+xN+AYiGSV+iwIKWsOteiRUSN3z66ewbZTjkitlTlGnQpp1QQSSNppBMw/B70funxLl55QANk/oP5JCBQgPx0VW+yqm42xsYgHUwFXP62OC05+bOszIPFRieobF3RxII6FAxTIE3+DaAVbtMzk77uNNu8X6M914tIX8edN5VwbjC1AiQCk8JLyniSDXe2oLToKC76YqQ88/D4kYH/8K4FJALWPciShOUxBltWA3P5ngTeuQKNAhQSYPg==;6yw/vEzIVgpJ/HvuTLFiRw=="
+secured: "ZjvLSBne7Xk94opcdf9phLifCBq/b+oCkImQncGl9Q9WUkCn/oR2tyuCtKCuIh1uPr9zzIvlDfPFu5Tjhjlfm9Y72jmWC7lLxZuZuj0IiF+czzyXxFJtr1Zt7sx3a/h/Kvf7n7lYpr8WXsAreWT7FKcvyHNFL+dzU8anVHykrB2QKJ78OkfBdn1GeLpgOHk+mXXs6xJFKCwx4TwJegpqd3bGMcJzG3sypRNwMeN0sancv6mxr6CdYl37WDZh1nBNsQi7tT/DbI0cDu/cfiMV4jA4kWzFPUZ/ZQT0CnlP+ydt6sI4oDNjO1PMVDIgyl0RRJ3dNMV4iePSof5cyY0cYJ4EJzUi4xOjRpB/yjCgxWE=;p44nmvSiNBh6drRRfMnwiA=="
 ---
 

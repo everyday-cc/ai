@@ -59,23 +59,7 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Tesla Moves on With Self-Driving. But Can Auto-Safety Regulators Keep Up?"
-    excerpt: "A case in Texas involving a Tesla stirs questions about who is ultimately responsible for a crash in an autonomous vehicle. Tesla argues that its self-driving systems require full engagement by a driver."
-    publishedDateTime: 2021-10-01T22:50:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-self-driving-autopilot-news-51633124303"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-self-driving-autopilot-news-51633124303"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-self-driving-autopilot-news-51633124303"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 58
-    images:
-      - url: "https://images.barrons.com/im-409159/social"
-        width: 1280
-        height: 640
-        isCached: true
 
-secured: "hwwlXBJi5CrGIlKhFRpybBpIFUEh+usGJiBwG+mcuLq50OnnCCVE98qFQ8TxY/AtqB5S4Du6MjXBGZeKjuuVn5VHyjVnWSyGxAaXIWUiIJl2jbOZGbKjesFYF+zQ3yMdpWUzW31Y9S4heqVOMkAjJYQIxGwHcjvF5hhNcMBW+qsrCakbedOkWP2Wu7fLZM0muU41oG6fL28FpvC1McVqHqIzPpofkpom/YgL7syBrT2H2L90gdlWODucvnoKYJSjDX2logowEUW8bpgOdf8E4GfzH0Ka8jxqf1H/NKuo17i0zQoD7Z23I3n24bl/yez0fRM+E9OdXLSIiM0ZQSuNtHCZpolFGYz23/ZSFQaF48s=;0jsQiDfagI02o/4BLTMP4w=="
+secured: "BTEFXdgObVsqz8gzeqSqd1slO/RDrqZZkxWqgC1tM2R4Zq/OsCovFynlyvL7HtlLBwks8UUZJ1O82IB6zaRYtqsNoWNQnLo3eWq38xcFJ0rSNHLG4Vs+ciwSPeuYbcoSYaGk3h/QJ5X+ZfQiOZucms0wgxerHzsfba3vt3Eu/yXf58TJvNuxp2nQ0aANNUSec7A99Vndl9A9XSx5mKL4U8iUtuFT0cvbttJfOCrM6ZWUl7izBrWWqVlbd7WhqHEFDB2mEVzlotJXolSO1Gt6csdoO5VpSHreJAMtpjQVaVC/BlBzeSt9U+h0hyHlAMztR+xzyvS78Q4gDIgbe92ZhWm3uPTULmJQeQZszVRfskQ/TV8VA353kkw9Du8hYNUzBSeCEaW4ykvrWer8OIxqryAjeYYyOvDE6VWopnnv6oVR39DIDWB/OuGSccvQYA09Tv6abWpgQz+RlsIOAQ+l4GAQnmy9tWR0UKbZj70IirlEXeVsjC1fVAbLLSHBrG2MH7/6Q2tfv9X12oedqHDTbQ==;BeKWsmNHCAo/YGETDwXw6Q=="
 ---
 

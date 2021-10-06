@@ -43,22 +43,6 @@ related:
         width: 1004
         height: 555
         isCached: true
-  - title: "Tesla Moves on With Self-Driving. But Can Auto-Safety Regulators Keep Up?"
-    excerpt: "A case in Texas involving a Tesla stirs questions about who is ultimately responsible for a crash in an autonomous vehicle. Tesla argues that its self-driving systems require full engagement by a driver."
-    publishedDateTime: 2021-10-01T22:50:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-self-driving-autopilot-news-51633124303"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-self-driving-autopilot-news-51633124303"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-self-driving-autopilot-news-51633124303"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 58
-    images:
-      - url: "https://images.barrons.com/im-409159/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Tesla’s Approach to Self-Driving Cars Could Cause Problems Down the Road"
     excerpt: "The car maker is betting that it can develop self driving cars with only optical cameras, while other car makers believe multiple sensors will be required."
     publishedDateTime: 2021-10-06T11:56:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://wonderfulengineering.com/want-to-join-the-tesla-full-self-dr
 cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/want-to-join-the-tesla-full-self-driving-beta-youll-have-to-prove-youre-a-good-driver-first/amp/"
 type: article
 quality: 62
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2021/09/Tesla-autopilot.jpg-image620x372.jpg"
         width: 620
         height: 372
-        isCached: true
-  - title: "Tesla Moves on With Self-Driving. But Can Auto-Safety Regulators Keep Up?"
-    excerpt: "A case in Texas involving a Tesla stirs questions about who is ultimately responsible for a crash in an autonomous vehicle. Tesla argues that its self-driving systems require full engagement by a driver."
-    publishedDateTime: 2021-10-01T22:50:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-self-driving-autopilot-news-51633124303"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-self-driving-autopilot-news-51633124303"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-self-driving-autopilot-news-51633124303"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 58
-    images:
-      - url: "https://images.barrons.com/im-409159/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Tesla’s Approach to Self-Driving Cars Could Cause Problems Down the Road"
     excerpt: "The car maker is betting that it can develop self driving cars with only optical cameras, while other car makers believe multiple sensors will be required."

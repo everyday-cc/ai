@@ -77,8 +77,8 @@ related:
         isCached: true
   - title: "‘Dystopian world’: Singapore patrol robots stoke fears of surveillance state"
     excerpt: "Trial of robots to police ‘undesirable’ behaviour such as smoking or breaching social-distancing rules"
-    publishedDateTime: 2021-10-06T04:05:00Z
-    webUrl: "https://www.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state"
+    publishedDateTime: 2021-10-06T12:54:00Z
+    webUrl: "https://www.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state?CMP%EF%BF%BD_gu=&utm_source%EF%BF%BDcebook="
     ampWebUrl: "https://amp.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state"
     type: article

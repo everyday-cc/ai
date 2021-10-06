@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/10/05/alphabets-deepmind-ai-lab-turns-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/05/alphabets-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever.html"
 type: article
 quality: 159
-heat: 299
+heat: 309
 published: true
 
 provider:
@@ -208,6 +208,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/6496.jpg"
         width: 1200
         height: 1200
+        isCached: true
+  - title: "Google's health AI startup turns profit for 1st time: 6 details"
+    excerpt: "DeepMind, Google's artificial intelligence startup, has turned a profit for the first time since its inception in 2010, according to an Oct. 5 CNBC report. Six details: DeepMind recorded a $59.6 million profit in 2020 after losing hundreds of millions for the last several years."
+    publishedDateTime: 2021-10-06T14:40:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/google-s-health-ai-startup-turns-profit-for-1st-time-6-details.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "Google’s DeepMind has developed an AI-based ‘nowcasting’ system that can predict rain in the next two hours"
     excerpt: "Now, scientists at Google's London lab DeepMind have built an artificial intelligence (AI)-based forecasting system that, they claim, can predict the likelihood of rain in the next two hours more precisely than existing systems."

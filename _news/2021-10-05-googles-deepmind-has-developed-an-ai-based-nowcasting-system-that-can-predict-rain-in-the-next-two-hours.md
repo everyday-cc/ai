@@ -223,6 +223,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Google's health AI startup turns profit for 1st time: 6 details"
+    excerpt: "DeepMind, Google's artificial intelligence startup, has turned a profit for the first time since its inception in 2010, according to an Oct. 5 CNBC report. Six details: DeepMind recorded a $59.6 million profit in 2020 after losing hundreds of millions for the last several years."
+    publishedDateTime: 2021-10-06T14:40:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/google-s-health-ai-startup-turns-profit-for-1st-time-6-details.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Google, DeepMind face UK lawsuit over NHS data access"
     excerpt: "Google and British AI technology subsidiary DeepMind are facing a new claim over NHS data use. The representative action is being brought by law firm Mishcon de Reya on behalf of Andew Prismall and around 1."
     publishedDateTime: 2021-10-03T14:50:00Z

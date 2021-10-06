@@ -57,6 +57,38 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Uber Being Sued Over ‘Racist’ Facial Recognition Algorithm"
+    excerpt: "Uber is being sued over a ‘racist’ facial recognition algorithm that is more likely to lock out drivers with darker skin. With this algorithm, drivers are required to scan their face intermittently before they can access the back-end of the ride-hailing app’s system."
+    publishedDateTime: 2021-10-06T14:53:00Z
+    webUrl: "https://www.unilad.co.uk/news/uber-being-sued-over-racist-facial-recognition-algorithm/"
+    ampWebUrl: "https://www.unilad.co.uk/news/uber-being-sued-over-racist-facial-recognition-algorithm/amp/"
+    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/news/uber-being-sued-over-racist-facial-recognition-algorithm/amp/"
+    type: article
+    provider:
+      name: UNILAD
+      domain: unilad.co.uk
+    quality: 59
+    images:
+      - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F10%2FUber_Sued.jpg"
+        width: 1200
+        height: 619
+        isCached: true
+  - title: "Uber Is Being Sued Over Its \"Racist\" Facial Recognition System"
+    excerpt: "Rideshare company Uber is back in headlines once again, and for the wrong reasons: the company has been accused of using a racially bias ed facial recognition algorithm. T he United Kingdom labor union,"
+    publishedDateTime: 2021-10-06T15:57:00Z
+    webUrl: "https://jalopnik.com/uber-is-being-sued-over-its-racist-facial-recognition-1847809686"
+    ampWebUrl: "https://jalopnik.com/uber-is-being-sued-over-its-racist-facial-recognition-1847809686/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/uber-is-being-sued-over-its-racist-facial-recognition-1847809686/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 59
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/03e8a0e44c23400109e531a7e13340b1.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Striking Uber drivers demand end to ‘racist’ facial recognition software"
     excerpt: "Striking Uber drivers, supported by Black Lives Matter and Union IWGB, are protesting at Uber HQ over 'racist' facial recognition software"
     publishedDateTime: 2021-10-06T12:42:00Z
@@ -71,7 +103,21 @@ related:
         width: 768
         height: 440
         isCached: true
+  - title: "Uber is facing legal action for facial recognition ID checks that are racially biased"
+    excerpt: "In a legal test case, an Uber driver who lost his job when automatic face-scanning software failed to recognize him accuses the company of indirect race discrimination"
+    publishedDateTime: 2021-10-06T14:56:00Z
+    webUrl: "https://techstory.in/uber-is-facing-legal-action-for-facial-recognition-id-checks-that-are-racially-biased/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 32
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/10/PRI203646116.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
-secured: "KSdV+EyPm3IIbTjmaBlW9d8qcSqZgBL6u4c/bRAbgK8RG7ZsfieHRBcJe9UwYj/nts5LP3LlAp8qalPqj7YyCn37BuWeFOjR7p27XARxD3rWSRHvsnruHifBFlpLrovaSWS+tuwlMbsSiP9uTipZml5VdZCBft/TvAPnfzjvqiPjGP3402OyaI+AL+Z691hGMmy8QnxZB1gpq0VEwvsSq9Ltl9Tz7eQl/cec5sOIdDLBoAHy22+JzUeUJ7rm3uclKAinzg3zmi+kbm3y4YiyIObuFydbC23wLcROSTPiVJCNtZcGSK4s2iUPxMkurYi0BUF8lHCd5GwekMX1+baNzt/CXj2Q8tpnnyJM1xRkD3I=;GmSQtoli5sxiCGlHq95wLw=="
+secured: "79r4/MYpK4FbYzU8YYJwFG6Wvx2CvOVStxXXntLY3gaEL0ikSGZoftL/QWPAsrTVIgHJG51WU3PDTa91F/y4CaYpbuV7ZzwSGbAccDAi2FaZTfno4JLfDbPIpTvAcF0TD23iM1i1WRbZsKdetyVVSUyJ83fXy93B6rivq3bIQRfRV6D82JEvhsl/TYBCyWDn6oHP3kUL3P8XL0L5kISxgnaAk3h8v9XCv4tBpMG394Ire90n4rczgCi9/q1yxeHU+NbigX7SyDsM1f28ORXVgkFPOoEhveFyHdMRq+mc9qyAfll/+alGH8UmoyBgF18fPWFPGVOZEfviPM7KIrtxtTT2Sp1LdgmR0S0+xoLPtOPWyCOocZZcS6CRNUv1AwARuK/5tPaTzEK1MjWkWP283VzAD9nuiNSdIWafO6IbunETEj3tmwxA72JjpPcrMXXPE7BH2VSaTSzrcKHpivgN/cA5BqhjRyRV6VuYZPrMgdPHaY5ItW1Xn1YLo5ZG2ooJ05BnycFtj2YdKPCllOFlIQ==;YNfq8IpuWj3vDz0inls7Xw=="
 ---
 

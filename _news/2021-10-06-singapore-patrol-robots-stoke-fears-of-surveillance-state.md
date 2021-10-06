@@ -61,8 +61,8 @@ related:
         isCached: true
   - title: "‘Dystopian world’: Singapore patrol robots stoke fears of surveillance state"
     excerpt: "Trial of robots to police ‘undesirable’ behaviour such as smoking or breaching social-distancing rules"
-    publishedDateTime: 2021-10-06T04:05:00Z
-    webUrl: "https://www.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state"
+    publishedDateTime: 2021-10-06T12:54:00Z
+    webUrl: "https://www.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state?CMP%EF%BF%BD_gu=&utm_source%EF%BF%BDcebook="
     ampWebUrl: "https://amp.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state"
     type: article
@@ -163,6 +163,6 @@ related:
       domain: manilastandard.net
     quality: 19
 
-secured: "HgqXNGjkvNWIPzsgCKbF85DxBrg5sgYA8TP3O+ChT6ZuSJH4/IGDp4TceXflxMp9J9noRhOXBY1Hcu9cB6LE/bBQD9CIPH7zNxcnh6+tm4+AG/SZIQBHGIQWTEf7MXCC4okgFnwt/C/xEPKhAOUwJUkcLjMlC82Osl8wGyrWoE/9kJz8PQL/6B60OTa/ursNOIEuuXfsY9smkhIXKHzhixZkEo7JQdmJ8qvlbUlKF+aDWWMWnURLGE7mNwTdZ84GrCmqiE1P4tIgEbCHVnWkcjLrYpMKTWd0o+5LarTUZJpZVC/vahRtJz/eu+POgLPTDBRQfRKM8r3x1bLGTfme9nYYF0hTgK6mUvTcpDz51nQ=;VgiPTUWy8OpXl+mjEnpTgQ=="
+secured: "W8KEdDkipzyTWjo3GqYdLAv+Cob2q25/PWBSFfYjpkm8N3Okz4/DcKPM65sM8u+P1Pjs0kmsuCTTe4387APvB2SnWXZyFiML3ZsWWDUkD6byRHxiKIwwLJx7Rts2v/S3uvPXn0rimiI4p7y6/0tQSc1+F+IPHGn8rJhc4DLvVlE1fDeOqJCGEjNLIRoxK0o2zlroxeNEqzrTw0ZeEX8XKjxThQcT7Xk+Odwxdt4wZtYA63TAzDpURYf6lTSsXUjuzosaIPMsSwSRrUXMA9GieZcvyrzTbuOWlG2kxxaNU6RA4oF5ApYiKMHbo6ZFIhTFma4RVl+q0pRgQdxs4/iCOuLhd9lKOKGw1/ibLFYi44uBJ9+BDkfVlvg7/7T2Ga48QxvuMk9rmaPtBrnqQ4EOfyWYVFFCuZTPXy9A76qc5OB1DdivTJ8vevOBPbfeDs7jP8fSYxYz2TDxgSo94kC93/JqNmIdeCTKWXLucOBA6k09HH7COBHCHPXruVph0jIYjlbMdVG8om7XTz7QloEc3g==;dn5zCx8G/NhIxcNN1Zx/ZA=="
 ---
 

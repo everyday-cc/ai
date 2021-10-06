@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Facebook Snafu Prompts Realization About Rescuing AI Self-Driving Cars From Single Points Of Failure"
+    excerpt: "Why singles points of failure are dangerous for self-driving cars and how redundancy is needed to aid in reducing risks."
+    publishedDateTime: 2021-10-06T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/06/facebook-snafu-prompts-realization-about-rescuing-ai-self-driving-cars-from-single-points-of-failure/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/06/facebook-snafu-prompts-realization-about-rescuing-ai-self-driving-cars-from-single-points-of-failure/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/06/facebook-snafu-prompts-realization-about-rescuing-ai-self-driving-cars-from-single-points-of-failure/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601893ecc2c4f9d38496d638%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2048%26cropY1%3D219%26cropY2%3D1371"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "From Tesla to even Cabrini, artificial intelligence is the future"
     excerpt: "It’s been about a month since Tesla unveiled their version of a humanoid robot at their press event, Tesla AI Day. Elon Musk displayed the image of the 5’8”, 125 pound prototype that is designed to “eliminate boring,"
     publishedDateTime: 2021-10-02T19:39:00Z
