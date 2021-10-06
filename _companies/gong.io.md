@@ -2,7 +2,7 @@
 name: "Gong.io"
 overview: "Gong.io enables revenue teams to realize their fullest potential by unveiling customer reality."
 type: "profile"
-heat: 93
+heat: 64
 
 website: https://www.gong.io/
 
@@ -33,7 +33,7 @@ topics:
   - AI in Sales
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1414670158837149697/m2ufE7W8_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1445624414955991043/F53hSjjW_400x400.jpg"
     width: 400
     height: 400
     isCached: true
@@ -42,6 +42,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=PGaBhUPCcxU"
 
-secured: "OTUGATtfYVLFr7exdUPKg+/a8uvKRzU5m7c8KFaeGkH9mzhrSLpyrFJiieXuPQFgGY58frWpXRotcBUEBOJrIYWbi2yHGq7CEZoPW6BqR/HB098pWHUOTntUDsBGvTELRZAz993MJkNQCjBdO/auWjZ8E+eEyyaF0K7iC/aLD5eF6mBPPKrg56WfPaCnhlh96kib4huPbxCQXiPZan5KsKzep39JB+Af4MBWl2K9XK/zcMpcjSABos1ms2MlNTG7AtxpNT0gcf7rAYGXOH1bEeSrbzgGWLqJRDIIJMI2yeQC5cv+pUrPUDxupZ0ScYxY5Bji9A8KcMpJQHQFCnnqWFhC37LLZvlJPuLnEA8KG+Xpr7KJtFmhUN4h3RNY1VQR8q3PzPeWFnkgiM3aL+zV5uuRPL9h5ai4ljLmxnE5DCM=;QQolsSr3pRnG9OW2af6TVA=="
+secured: "YkDQVRzBqDP93NpDthU5d5kOaqufvokSiiXIx9mX4ZJlVTuv0bfKg3Jj1RSgzigKIfQEsWkgZ1LQib56MV2oxVnIONzsK6yezCz4NT1O7f1wqfb1XTenW4B7kLDGlDEV3Fn0/ND8omePT8OwFH+fxtvsN8po6v5/53qm0N3ungVXptjLNt3RGaTW/75nRYKSexhDeh3djnn+sJcaa76/Jv/PSt3MXG9M0sZHRr0/+iQ6PH0bEhXjyOkHB3IECvil5YdCUpMVJqnj0BwvsC9SNYrvtSOsQcGadjGvGjOZYEDglCA0NUYM01mmC8d+kCvYjFWwzkyhQfdbArUCLiWsNSbW7FeujUJpIwMQ0kt71nOLGqwknO8RM710hM9brphifbTDByAm5U/+tYcoPNi1XlTBTinHfu49FdSNlSmtrMs=;Qoo9gCoH0bQKQXjwABXM/w=="
 ---
 

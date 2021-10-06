@@ -2,7 +2,7 @@
 name: "Iris.ai"
 overview: "#VoiceFirst community. Voice tech analytics, market insights, and business uses. Powered by Just AI Curated stories on #Conversational AI – https://t.co/qXS4CRgikG"
 type: "profile"
-heat: 50
+heat: 57
 
 website: https://iris.ai/
 
@@ -34,6 +34,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=rgmchbwHKHE"
 
-secured: "joOVf0XrsrzyZcwH+P1AUMIQyiM8CogFAR4DI4HIN3MJmpHBfB+oyHwoq0o9+6JWep+mK/1cGK3s3eIvzZF1cfFf86gswbb+6uv8gX1coisIYTKESw031X4H0nN6RqYzgosIqb9dT6enATEIoXyZfK7+HLrx9oIDLbvfCiGKDW5C3HV2ohm2RqvGfyYuED5PoV6OPHjQmQnDOMw9u4MJ9ySelFXnEaKfZBw5lgA9w5h686f6wNORxKzppycaaLzcakiQgmW1/OFHC6J7gUiFRibvKLR/BAobVfqui/WddgN4cSNIiCMISzgT9gqQDCG0oWwUC2QMsfe4ov2B4z005Bwy4e2VFz26div59unXFBr5coHJ1OeGGWAbjuFGkXoyoPL4B+RY5nQAohnP5gyBxBYuOt1tx9HxELo8/oZJnXc=;JZLJfP6ry1UYUi3WfGHFXw=="
+secured: "IC1uZTtqolVFKZlcCo3/U/Yoy8XbkNp+2QjNUMJvAtSJVR6SGxVoT7IuBmN+BCJl2UCBw0MNmP5Y3BpVkeyoSLIyl+/DXUxzHoP/tu4BJqdJ8huU9Fn4VjxBqE9q/zeFxYIOlzKvb3FB1JU6YAfBys+74n1ogki0X2+/HtudmLWRD2ba/hjfGB1g2NYFtLp33kAKiyBhje34DYXuevmCpvd1jxs5K+idFrQBzjVunuYrcxu+GuXF2KysqtnEfKdu6zR2YawRPZeRwqEZ+OoibwUpHFwQuXWx/Ua2dSnsJxQua1h3BAImvc/bxYx6rJfSJejrGuG+lt9mxAdsvDZ8BwE7kA+d41erhb0qYOdzQH0WZlzd/X/Q5Bu08Df1TVA5Uzl5PgglBSEG2OY9ntDHPRViNxtaI0u9Aa+OYn8lA5Y=;U5YQoIEV4O5ev8tO9uTWlA=="
 ---
 
