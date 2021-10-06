@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/forget-about-cars-honda-wants-flying-v
 webUrl: "https://thenextweb.com/news/forget-about-cars-honda-wants-flying-vehicles-avatar-robots-rockets-lunar-tech"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Next Web
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Honda plans new air taxi, robotics and space technologies"
-    excerpt: "These areas include developing a new electric vertical take-off and landing (eVTOL) air taxi, new robots and space vehicles. The Honda eVTOL aircraft leverages Honda’s electrifi"
-    publishedDateTime: 2021-10-01T12:45:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17269/honda-plans-new-air-taxi-robotics-and-space-technologies"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 69
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/269/17269/Honda_eVTOL.jpg"
-        width: 752
-        height: 270
-        isCached: true
   - title: "Honda’s Vision Includes Air Taxis, Rockets and Robots"
     excerpt: "A part of its “2030 Vision,” the company from Tokyo is looking to the sky and to robots and sees these advancements being offered by the 2030s and 40s. The first is air taxis. This would build on HondaJet,"
     publishedDateTime: 2021-10-01T15:25:00Z

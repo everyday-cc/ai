@@ -44,16 +44,16 @@ related:
         height: 337
         isCached: true
   - title: "Amazon Rolls Out Computer Vision Service to Identify Defects"
-    excerpt: "Amazon has launched a cloud service named Lookout for Vision to detect anomalies and defects in manufactured products."
-    publishedDateTime: 2021-10-04T10:08:00Z
-    webUrl: "https://www.just-style.com/research-reports/amazon-rolls-out-computer-vision-service-to-identify-defects/"
+    excerpt: "Concept: Amazon has launched a cloud service named Lookout for Vision to detect anomalies and defects in manufactured products. Available in select Amazon Web Services (AWS) regions with the AWS console and supporting partners,"
+    publishedDateTime: 2021-10-04T09:52:00Z
+    webUrl: "https://www.pharmaceutical-technology.com/research-reports/amazon-rolls-out-computer-vision-service-to-identify-defects/"
     type: article
     provider:
-      name: Companies
-      domain: just-style.com
+      name: Pharmaceutical Technology
+      domain: pharmaceutical-technology.com
     quality: 39
     images:
-      - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/10/shutterstock_1358359658.jpg"
+      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/10/shutterstock_1358359658.jpg"
         width: 500
         height: 280
         isCached: true

@@ -63,6 +63,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "MEPs back EU facial-recognition ban for police"
+    excerpt: "The European Parliament has backed a moratorium on facial recognition for law-enforcement purposes – bypassing attempts from members of the European People's Party aiming to torpedo the ban on biometric mass surveillance in public spaces."
+    publishedDateTime: 2021-10-06T05:12:00Z
+    webUrl: "https://euobserver.com/democracy/153135"
+    type: article
+    provider:
+      name: EUobserver
+      domain: euobserver.com
+    quality: 24
+    images:
+      - url: "https://s3.eu-central-1.amazonaws.com/euobs-media/ba0ac1bd9cc3914b8374fa3f91e10762-480x.jpg"
+        width: 480
+        height: 322
+        isCached: true
 
 secured: "ordfW9FLF8nv6QP7+y6ZXgY3nT7oKG58SeD8ZCcN1QrOfM7ERbwXQm401MKwmtYTki/7kN4hbRcNwdT2lrBFZiC8YNmRybCFB8vMHFt/AepkaBRhHrTnQoxd2dKXp9dNEdeFvanY7J1usSq9Mb3zyEL8nyTFA+eMfKV5c2X2Ki6C+MjkVpVV1LeutJDniBCS0oRyysir7RslzeTP0M41ii38IyUJz0MNZgQ7H/ua0+jAzIS55bPod5VfGa+Box5eL+vlLP1igMDulX+Pl7kMjLqhKctsVsambAm5icam+TpizdUjfUteK1bVbYP0yqYluCvXNQ3kQwZVcFNm4BaBYJPF3Jq3lEzIA2D4YKFkHEKzDjD6OhfqaeR2yI0xjCAV1rq6RxfEsWewE3GEz66feFTdwu7hSALio6Y0xEhZJRMPI1LCmcuaGBPCXKIKBu5PAtnm/CH65s+qGEGd+TXKVONWpcyiUODxtYT9/TM/ycWMK0VFSGEtY8SHwzlqZ4ZRC2jFDsEgWmIOagG2Duv/LA==;cYbAHqz0jzCj45sml7SGKw=="
 ---

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IQ-AI says new publication shows impact of Imaging Biometrics software solutions"
-    excerpt: "Neurosurgery Open published a study that suggested that IB Clinic should be routinely used to optimise surgical guidance and pathologic diagnosis"
-    publishedDateTime: 2021-10-01T11:43:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/961962/iq-ai-says-new-publication-shows-impact-of-imaging-biometrics-software-solutions-961962.html"
-    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/961962"
-    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/961962"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 52
-    images:
-      - url: "https://www.proactiveinvestors.com//thumbs/upload/News/Image/2021_10/1200z740_1633080116_shutterstock_570241147-(1).jpg"
-        width: 1200
-        height: 740
-        isCached: true
   - title: "Gnani.ai launches voice biometrics software"
     excerpt: "Gnani.ai a conversational AI and voice security domain announced the launch of its home-grown voice biometrics software armour365. The biometric solution caters to new and emerging risks in fraud prevention and information security."
     publishedDateTime: 2021-10-04T11:11:00Z
@@ -65,6 +49,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/13132346/airport-facial-recognition-masks.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Veridas sees strong voice biometrics adoption by call centers, Auraya accredited by AWS"
+    excerpt: "Veridas reports impressive adoption of its voice biometrics by call centers, AWS accreditation for Auraya voice biometrics."
+    publishedDateTime: 2021-10-05T19:59:00Z
+    webUrl: "https://www.biometricupdate.com/202110/veridas-sees-strong-voice-biometrics-adoption-by-call-centers-auraya-accredited-by-aws"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 31
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/30151221/shutterstock_478273420-scaled.jpg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "SicjA997lKhPdqZ18zbgTJ0KYgMuuv143gLeXsyfZmR2a2Pi9JEL/+D1kIKg5vtZK1EI258JDnZrWxDOI/R64/L4et8GJVcw246TdhN2OsW7mJlh08IpKP5jAHkwy3pe/Um84K3Hrbh5no3YI9H2hBdotI0HjS5h/qpcSP7jTXzTqhzyWjCgifGkRi/jk1gJjB1zYffRbIm2/6yuU5cf16Cg6+AG8LCUU6HSK99GYeiaS8qc4atPV33twuS8ThUJyAT68UQ8im6U6CTfVEt8rYXNI7i1A/abj7c+kLgxC3wy+REboHIqf/brImbDLdGlFH1FHQz+v8LO9N82l0j5kkTqVqR2saglqmIADAjNRGPJDePzOks6GnhuWBeZphfc0f9Z9pvp7XcB2FAHjMu2CEtZkdtCY3XtAUdejegezOXr+NfgN1SpvvnFHHJ2IY37cky25D/4gaI0jReO9kdOH2CF93F2DHhXYdeAi/nSIOeO6g+2+H/Xy9LmxoY/+QIt3rYiARGiitiHQf7zlteLbA==;Xa1rXntR6Y/U0X29avQ7Qg=="

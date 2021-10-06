@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/ai-as-service-market-to-witness-
 webUrl: "https://www.digitaljournal.com/pr/ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -25,28 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Incredible Growth of Artificial Intelligence (AI) in Cancer Market by 2028 | IBM, Microsoft, NVIDIA"
-    excerpt: "Get Sample Report Buy Complete Report  Artificial Intelligence (AI) in Cancer Market report focused on the comprehensive analysis of current and future prospects of the Artificial Intelligence (AI) in Cancer industry."
-    publishedDateTime: 2021-10-04T14:25:00Z
-    webUrl: "https://www.globalbankingandfinance.com/incredible-growth-of-artificial-intelligence-ai-in-cancer-market-by-2028-ibm-microsoft-nvidia/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/incredible-growth-of-artificial-intelligence-ai-in-cancer-market-by-2028-ibm-microsoft-nvidia/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/incredible-growth-of-artificial-intelligence-ai-in-cancer-market-by-2028-ibm-microsoft-nvidia/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 55
-  - title: "Incredible Growth of GPU Database Market by 2028 | Kinetica, Omnisci, Sqream"
-    excerpt: "Get Sample Report Buy Complete Report A2Z Market Research announces the release of GPU Database Market research report. The market is predictable to grow at a healthy pace in the coming years. GPU Database Market 2021 research report presents analysis of market size,"
-    publishedDateTime: 2021-10-04T17:54:00Z
-    webUrl: "https://www.globalbankingandfinance.com/incredible-growth-of-gpu-database-market-by-2028-kinetica-omnisci-sqream/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/incredible-growth-of-gpu-database-market-by-2028-kinetica-omnisci-sqream/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/incredible-growth-of-gpu-database-market-by-2028-kinetica-omnisci-sqream/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 36
   - title: "Cognitive Computing Market Size, Growth and Key Companies – Microsoft, Google, IBM, Numenta, SAS Institute, AWS"
     excerpt: "The research study presented here is an intelligent take on the Cognitive Computing Market that explains important aspects such as competition, segmentation, and regional growth in great detail. Accuracy and preciseness are two of the key features of the report that reflect its authenticity."
     publishedDateTime: 2021-10-05T18:39:00Z

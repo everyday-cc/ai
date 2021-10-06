@@ -55,6 +55,20 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "MEPs back EU facial-recognition ban for police"
+    excerpt: "The European Parliament has backed a moratorium on facial recognition for law-enforcement purposes – bypassing attempts from members of the European People's Party aiming to torpedo the ban on biometric mass surveillance in public spaces."
+    publishedDateTime: 2021-10-06T05:12:00Z
+    webUrl: "https://euobserver.com/democracy/153135"
+    type: article
+    provider:
+      name: EUobserver
+      domain: euobserver.com
+    quality: 24
+    images:
+      - url: "https://s3.eu-central-1.amazonaws.com/euobs-media/ba0ac1bd9cc3914b8374fa3f91e10762-480x.jpg"
+        width: 480
+        height: 322
+        isCached: true
   - title: "West Lafayett City Council Votes in Favor of Banning Government Use of Facial Recognition Technology"
     excerpt: "The West Lafayette City Council took up a vote to ban Government use of Facial Recognition Surveillance technology. The council was split on its decision."
     publishedDateTime: 2021-10-05T06:06:00Z

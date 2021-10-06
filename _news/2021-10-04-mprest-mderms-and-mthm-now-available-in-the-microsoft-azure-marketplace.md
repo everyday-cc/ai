@@ -1,22 +1,28 @@
 ---
 category: news
 title: "mPrest mDERMS and mTHM Now Available in the Microsoft Azure Marketplace"
-excerpt: "(GLOBE NEWSWIRE) -- mPrest, a leading developer and provider of distributed asset orchestration and optimization software for the energy market, today announced its Distributed Energy Resource Management (mDERMS) applications suite and its Transformer Health Management (mTHM) applications suite are now available in the Microsoft Azure Marketplace,"
-publishedDateTime: 2021-10-04T13:21:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-mprest-mderms-mthm-now-available-the-microsoft-azure-/2021/10/04/9461756.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-mprest-mderms-mthm-now-available-the-microsoft-azure-/2021/10/04/9461756.htm"
+excerpt: "Azure Marketplace offers world-class quality experiences from ... mPrest’s micro-services based, real-time orchestration and optimization platform brings the power of AI and IoT to the digital transformation of various industries, from energy and smart ..."
+publishedDateTime: 2021-10-04T13:18:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-7267fd563fd0b5bf1ec4e14e2429ec85"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-7267fd563fd0b5bf1ec4e14e2429ec85"
 type: article
-quality: 49
-heat: -1
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "mPrest mDERMS and mTHM Now Available in the Microsoft Azure Marketplace"
@@ -34,6 +40,6 @@ related:
         height: 250
         isCached: true
 
-secured: "HMQDVkeVDxBoB478xTRIj4KQ7g0rBQFawNQjPBZU3sesx/iVLOjUrf005Ggi62fDBDH9GnOlR6hRBx/XRnWXk2aaVHsQydgWALbhaVBZeeNGk3tMMGBckJx7oRcdbTS+RvcPAGdf7X2rhXyyWu6WHRWnpS9xb3C2Lmn1dMnYfwAG5km4/vXIZTN6Vn9Bk8VQaBtdcfVDXh8g5/aXN6Uhg+Dl0F0dBWz6vk9XbBd1hin5fsZauNXE37f3YVPh4CHMdtAvgQn4fqiS4oikFXqR/WfynXYYOcU/hXil6RCkZ10b5ihoJcaQdutIwarBh2aN0CfXO6i8UppwadryL4T0HaXxEBWzlvLR8ToTleZ9ySo=;V+V1Gx3vO4+xW7ivP4YveA=="
+secured: "0J7cCFKeFg3JLcnO6lQw/KzEfXzMpHqHPQxBNQDZei/ThPYNabbIPBieu4kxZvyn1GUVw3P1fHtc5OiOQyGnwJqhDcZZZ6zKbEdQehw8gW1mK/KkEmbcyn9V0xAE8yCuHhGYQ1zLUFlT4rdqpsLS8BDaf6xj+QJAhLvBCScDpbdTatFLF8FmfLk8VOD0hbRmweMSaV83GmIOezxwpvyHPjp2EbrU2JFg3fk9OZZUg7+g2iPgZXoYhkJcSXDOLCWPw8xAJ0ZH/z9Z22IYQCuHtb+8mVBF8hk0Ihb2REBqT3wS76MwMCoeb2q5VwZILvVeqcdkdrI49APgFGjcBb5JJeAV6Fq89ZOq4GjCtxkX+xY=;ceuKHd/KfAXvcW0r6dV8pQ=="
 ---
 

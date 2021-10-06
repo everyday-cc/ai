@@ -9,8 +9,8 @@ ampWebUrl: "https://www.outlookindia.com/newsscroll/amp/rishi-sunak-launches-uks
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/rishi-sunak-launches-uks-new-artificial-intelligence-strategy/2172571"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Outlookindia
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The UK’s National AI Strategy — Creating a Global AI Superpower"
-    excerpt: "With its National AI Strategy, the British government makes a genuine commitment to becoming an AI leader, but is the plan financially viable? On the third day of this year’s London Tech Week, where I proudly spoke during the “Elevating Founders” segment,"
-    publishedDateTime: 2021-10-01T11:10:00Z
-    webUrl: "https://www.linkedin.com/pulse/uks-national-ai-strategy-creating-global-superpower-catriona-campbell"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEMaUzAJMfx1g/article-cover_image-shrink_720_1280/0/1633086199495?e=1638403200&v=beta&t=8J3oHcdBdcht3YiMJww9ymusHuSvpWxF41GEk6z-JJs"
-        width: 960
-        height: 640
-        isCached: true
   - title: "Sunak jobs boost puts AI at forefront"
     excerpt: "Rishi Sunak announced plans to commit more than £500 million in a new round of funding to help people back into work. Delivering his first in-person"
     publishedDateTime: 2021-10-04T17:54:00Z

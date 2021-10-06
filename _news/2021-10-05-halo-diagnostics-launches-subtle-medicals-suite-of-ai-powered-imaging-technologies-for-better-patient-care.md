@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ai In Diagnostic Imaging Market is Projected to be Fueled by Rapid Technological Advancements"
+    excerpt: "Overview. AI in diagnostic imaging is gaining prominence and quickly growing industry close to what’s to come. Execution man-made consciousness"
+    publishedDateTime: 2021-10-06T04:58:00Z
+    webUrl: "https://manometcurrent.com/ai-in-diagnostic-imaging-market-is-projected-to-be-fueled-by-rapid-technological-advancements/"
+    ampWebUrl: "https://manometcurrent.com/ai-in-diagnostic-imaging-market-is-projected-to-be-fueled-by-rapid-technological-advancements/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-diagnostic-imaging-market-is-projected-to-be-fueled-by-rapid-technological-advancements/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 46
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Spiremarket-3-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
   - title: "The Future is Now: How AI in Diagnostic Imaging is Transforming Medical Applications"
     excerpt: "The Use of AI in Diagnostic Imaging is Booming in Healthcare Industry” Download the most up-to-date research study and application @  AI in diagnostic imaging is gaining prominence and quickly growing industry close to what's to come."
     publishedDateTime: 2021-10-01T19:22:00Z

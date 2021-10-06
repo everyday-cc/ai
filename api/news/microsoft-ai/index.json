@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-10-05-mprest-mderms-and-mthm-now-available-in-the-microsoft-azure-marketplace.md",
+      "path": "_news/2021-10-04-mprest-mderms-and-mthm-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "mPrest mDERMS and mTHM Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "TEL AVIV, Israel and BOULDER, Colo., Oct. 04, 2021 (GLOBE NEWSWIRE) -- mPrest , a leading developer and provider of distributed asset orchestration",
+      "excerpt": "Azure Marketplace offers world-class quality experiences from ... mPrest’s micro-services based, real-time orchestration and optimization platform brings the power of AI and IoT to the digital transformation of various industries, from energy and smart ...",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1102913249/mPrest-mDERMS-and-mTHM-Now-Available-in-the-Microsoft-Azure-Marketplace",
-      "originalUrl": "https://menafn.com/1102913249/mPrest-mDERMS-and-mTHM-Now-Available-in-the-Microsoft-Azure-Marketplace",
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-7267fd563fd0b5bf1ec4e14e2429ec85",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-7267fd563fd0b5bf1ec4e14e2429ec85",
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?122508",
-          "width": 443,
-          "height": 250,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T15:09:00-07:00",
+      "publishedDateTime": "2021-10-04T06:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -42,40 +42,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-incredible-growth-of-artificial-intelligence-ai-in-cancer-market-by-2028-ibm-microsoft-nvidia.md",
-      "title": "Incredible Growth of Artificial Intelligence (AI) in Cancer Market by 2028 | IBM, Microsoft, NVIDIA",
-      "excerpt": "Get Sample Report Buy Complete Report  Artificial Intelligence (AI) in Cancer Market report focused on the comprehensive analysis of current and future prospects of the Artificial Intelligence (AI) in Cancer industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/incredible-growth-of-artificial-intelligence-ai-in-cancer-market-by-2028-ibm-microsoft-nvidia/",
-      "originalUrl": "https://www.globalbankingandfinance.com/incredible-growth-of-artificial-intelligence-ai-in-cancer-market-by-2028-ibm-microsoft-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/incredible-growth-of-artificial-intelligence-ai-in-cancer-market-by-2028-ibm-microsoft-nvidia/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/incredible-growth-of-artificial-intelligence-ai-in-cancer-market-by-2028-ibm-microsoft-nvidia/",
-      "publishedDateTime": "2021-10-04T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -1057,6 +1023,49 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-mphasis-acquires-blink-ux-a-user-experience-research-strategy-and-design-firm.md",
+      "title": "Mphasis Acquires Blink UX - a User Experience Research, Strategy, and Design firm",
+      "excerpt": "Blink has been growing at over 40% CAGR in the past three years Strong market synergies from an increased total addressable market in Mphasis direct accounts Leadership accretive: Blink’s leadership team will further strengthen the Mphasis org.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-0b143743ca8d293d5d0a21d3bf63b2c5",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-0b143743ca8d293d5d0a21d3bf63b2c5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T16:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {

@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/expo-2020/experience-the-uae/have-you-spott
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/expo-2020/experience-the-uae/have-you-spotted-these-robots-around-expo-2020-dubai-1.82706158"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://vid.alarabiya.net/images/2021/10/05/aec11461-ea75-4082-8b28-e9b168a5d468/aec11461-ea75-4082-8b28-e9b168a5d468_16x9_600x338.jpg"
         width: 600
         height: 338
-        isCached: true
-  - title: "Expo 2020 Dubai: UBTECH Panda Robot turns heads at China Pavilion"
-    excerpt: "Expo 2020 Dubai, the first world expo since the outbreak of the COVID-19 pandemic, and the first expo of its kind held in the Middle East, has officially opened on October 1st. With exhibitors from 192 countries,"
-    publishedDateTime: 2021-10-01T12:31:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-science-dubai-middle-east-87f39dc4bed333b0340ac71d1aaa9162"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "tdkeBa/s01lizyNfLZ5QbXQhOjtjf+1vT8EprycAUjz4plW+V3ax0MR8kMtmVF5JVYC84pfwEHbm2q7y4NPEgd9SHAhMUeINLrrKjCqTFaMsiC097ZjlXorPu9YwIfPWwMIaUINairsc34Gb6xrLt1bmj4e5epN2ux71P3zEjP+pLeETpmi69Wvi6e7DjOuvvOpYpyPBJ7e9oMyEKw0NFTXWi6NFuu/sonlAnaEYYkQd/nMJaHS2Fehbrhck6YSZgvaxjwLJRW4o4k08ycQHWhWZVKOPEM/Ho5lXpHiYmF7enCB/FZV2SMbA8kv1kpE3xhCJc1ZKFWuSicmdIevkIMtOegoLpwppv4QfGR/aJo8=;8BvSy/Tglcx973kssnVAMA=="

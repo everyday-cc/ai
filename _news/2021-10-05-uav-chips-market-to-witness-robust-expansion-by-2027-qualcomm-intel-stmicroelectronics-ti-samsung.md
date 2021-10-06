@@ -39,6 +39,15 @@ related:
         width: 735
         height: 400
         isCached: true
+  - title: "Samsung AI Forum 2021 Explores Future of AI Research"
+    excerpt: "Leading academics, industry experts to discuss \"AI Research for Tomorrow\" and \"AI in a Human World\" Samsung Electronics announced today that it will hold the Samsung AI Forum 2021 online via its YouTube channel for two days from November 1 to November 2."
+    publishedDateTime: 2021-10-06T02:45:00Z
+    webUrl: "https://www.publicnow.com/view/6DEA41434613B6CD8D837B35D4B09DE3F5EC0942"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 17
 
 secured: "CKm4pjMn6ovumFaCnHam88iFyzxlEmOVleXYZSCFie/MQkdB7m9cXfuwV9JA2ZZfeQYV0Nnh/w7kUI22NJGbnWmy+kXvKb63DEKENKpWH9HTRGnBIyM9PWjJEWeXq/hNyY57a5x6lWXOtptlvbUhZdeQ++xZnIsT9yJSrSApE2/jm6qDJOxTPUaPd5fScY/TkXVTqdRE4dD1JWsVgbUpYHIR9eo8eKJhmHI0U6Wxir/A5UJyJSfGnOIefZWnBhHTYgzItWQknZfjr1idxJ0gkdOHfIOg1rSR7OFNELHDgAm6dt37TZkqHF96m5cDUwfnSMk4WeHxlGk8/sN+HN7Gd44tMbyTbH3owjViY1Yq01Q=;YB7AvK6+b0XsLd+fvCAbog=="
 ---

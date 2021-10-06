@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Amazon Rolls Out Computer Vision Service to Identify Defects"
-excerpt: "Amazon has launched a cloud service named Lookout for Vision to detect anomalies and defects in manufactured products."
-publishedDateTime: 2021-10-04T10:08:00Z
-originalUrl: "https://www.just-style.com/research-reports/amazon-rolls-out-computer-vision-service-to-identify-defects/"
-webUrl: "https://www.just-style.com/research-reports/amazon-rolls-out-computer-vision-service-to-identify-defects/"
+excerpt: "Concept: Amazon has launched a cloud service named Lookout for Vision to detect anomalies and defects in manufactured products. Available in select Amazon Web Services (AWS) regions with the AWS console and supporting partners,"
+publishedDateTime: 2021-10-04T09:52:00Z
+originalUrl: "https://www.pharmaceutical-technology.com/research-reports/amazon-rolls-out-computer-vision-service-to-identify-defects/"
+webUrl: "https://www.pharmaceutical-technology.com/research-reports/amazon-rolls-out-computer-vision-service-to-identify-defects/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Companies
-  domain: just-style.com
+  name: Pharmaceutical Technology
+  domain: pharmaceutical-technology.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/10/shutterstock_1358359658.jpg"
+  - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/10/shutterstock_1358359658.jpg"
     width: 500
     height: 280
     isCached: true
@@ -54,6 +54,6 @@ related:
         height: 337
         isCached: true
 
-secured: "qJdAK9UwuCkowMLbpuw4aKsJTV5ABa7w5YZ7cR3Bnxq6grhAXtNLsdku84KbVUrk9rTKpWaNseepVuZImC+OKEnGWfQ6Km2bldilDQUe5ZKpXmw03ngMB/NnBgOA9G0PD833fy46Dm+jlgvaZsg7QVCgKxEgAf4wiLQ77kWTmDsbpk2KU+Qp07mcNltan7LtEdkO0zzrk5+OOwtXe5f8I9PrnFxifB/fOPUG2F9dNCfe5ooCmkrGnZ8TYOfcviCzl44xPplEYHMZVa21164jqcuCZO9kb64S4y1A4kScmnsUb6PS9yJWCy2fBwR+4DB2hL5o4b9UN2/5pe5vqhlo4JQ0IeOhhLGO6pAOeDvXLfo=;bM7z7Xxp+yrW8vBYmljeBQ=="
+secured: "IEoN2oTBIjcEkbPpl7rdLLWsF9Xcu31nHHZSx3dF1gk054AaDQEUcb09M74MyM6OX829ZpGrpzIm2alUNIS6O1iCfx5/rxJ32NlhvH/z7aljsoMHHBlyD/VGJ2Hy/PSDnLQuRDHL4DEbZNEeFH5yrCFuDgXgY2fnmWMlQ7m+gKwKHGpSk691PljlheO89owwgeAWBp3x1hHl2TpnYgog6fis0fQ44ck3fVjQrgOinCBlp8nJcq4W4IC7F6pwWnwcl2mcxYrcAiZePKPON1CqEoSGgIvZ6kRHvw9L8kasn5B+UJfZB7emuv3SbxbjBtPS53PlvkQ+aUHrq2odACkMgHmEn86G4psFkv8KLvNwyYw=;M2jOp/lmrwJw4sHXC6hs+A=="
 ---
 

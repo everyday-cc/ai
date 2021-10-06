@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "1st Edge Wins Advanced Technology International (ATI) OTA Contract to Develop Artificial Intelligence (AI) Solutions for US Army"
-    excerpt: "Three-year contract will fund development of prototype software to streamline missile defense programs using AI and machine learning"
-    publishedDateTime: 2021-10-05T15:56:00Z
-    webUrl: "https://www.djournal.com/news/nation-world/1st-edge-wins-advanced-technology-international-ati-ota-contract-to-develop-artificial-intelligence-ai-solutions/article_64db59ba-9269-56b7-bb53-3ffec35eaef7.html"
+  - title: "B.Grimm - AltoTech won “The Best Performance ARI Tech Startup Award” from National Innovation Agency"
+    excerpt: "B.Grimm aims to develop new business ventures with digital innovation such as IoT in correspondence with the growing needs in the market. After this project, B.Grimm and AltoTech further have a collaborative project to develop AI and IoT solutions focusing on energy optimization and strategically expand across industries."
+    publishedDateTime: 2021-10-05T08:43:00Z
+    webUrl: "https://www.nationthailand.com/pr-news/business/40007074"
     type: article
     provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 25
+      name: nationthailand
+      domain: nationthailand.com
+    quality: 9
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/c4931bce-e1a3-11e6-b934-53284b68f006.jpg"
-        width: 1200
-        height: 630
+      - url: "https://media.nationthailand.com/uploads/images/md/2021/10/F8tZvTnKWVb4JhtKhB0J.jpg"
+        width: 2160
+        height: 1215
         isCached: true
 
 secured: "HWplM4B2Stks36SsWZmLGy8V5+iO2D2PPGy6nNpLIxfCiMEuigby2pgr5c2iAmAZinz3o1jlZS7PptcFPYkzc7ugC7IwafU5+MV/77drA5eWNWnwexWnTk1UlwGCX2u3yycjETJNSi5T3ch+2CpUaC0mfaks31kEi6lkZQ2mWj1Crpl1e1yVZjSa+2mV7Fw5t/hRxnNpS7AXPmlkn19g8sIWaDR5rqQR6qzzwer+r2lT7d6ZGcvTJgfCx5poqzUogGpXaKA33aJ9U4Ppne4Uy0+4o7CuzIao3ACU14G7+UZw2LLOFAPIgihh7v1if1mltfCH594jqs279K+bHI1KoH0VEV5cNRpGNlDG+HzWzHG7fjHX7K1plwwlIIyrOIVl1uu3h0OaPg6+qHRj89XV+XPMwUpnH1SELEjH8KFqHMTmKb/EmCDJ5Esdi685AQVK1z8xIk+327fDK2aOlND9EovAZSF2ZNUOa/EgPiyItKJ8HSRXTirZ5sm7loww1k/pyF131c9rlI6UYCVoQ+a2Pw==;57rkEcBlcAtRqfbE0UXuug=="

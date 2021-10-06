@@ -41,6 +41,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "AI robots may have already killed in combat"
+    excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent"
+    publishedDateTime: 2021-10-06T04:51:00Z
+    webUrl: "https://menafn.com/1102923168/AI-robots-may-have-already-killed-in-combat"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2021-10/06/AT_957acimage_story.png"
+        width: 800
+        height: 529
+        isCached: true
   - title: "An autonomous robot may have already killed people"
     excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
     publishedDateTime: 2021-10-02T21:16:00Z

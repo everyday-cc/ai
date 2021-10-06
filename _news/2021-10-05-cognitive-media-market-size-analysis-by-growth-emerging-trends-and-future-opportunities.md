@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Image Recognition Market Analysis, Growth, Trends, Forecast by 2024 – TMR"
-    excerpt: "The presence of companies such as Google, Twitter, Facebook, International Business Machines (IBM) Corporation, Apple, etc., which are spearheading the global image recognition market, naturally makes North America the leading regional market for image recognition."
-    publishedDateTime: 2021-10-05T12:22:00Z
-    webUrl: "https://manometcurrent.com/image-recognition-market-analysis-growth-trends-forecast-by-2024-tmr/"
-    ampWebUrl: "https://manometcurrent.com/image-recognition-market-analysis-growth-trends-forecast-by-2024-tmr/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/image-recognition-market-analysis-growth-trends-forecast-by-2024-tmr/?amp=1"
+  - title: "Artificial Intelligence Market 2021-26: Size, Share, Trends, Analysis and Research Report"
+    excerpt: "The global artificial intelligence market reached a value of US$ 40.21 Billion in 2020. Looking forward, IMARC Group expects the market to exhibit robust growth during 2021-2026, according to the latest report by IMARC Group."
+    publishedDateTime: 2021-10-05T07:38:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-market-2021-26-size-share-trends-analysis-and-research-report/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-market-2021-26-size-share-trends-analysis-and-research-report/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-2021-26-size-share-trends-analysis-and-research-report/?amp=1"
     type: article
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 43
+    quality: 48
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Ultrafast-Lasers-Market-A-390x220.jpg"
-        width: 390
-        height: 220
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/artifical-intelligence-market-30.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "G0f7wg8m0jeu0PBp1AEQrFN40knhgBykZI5XDFTEgZTCPaLVf/8+T1M/Fy+QKvi9x3U9XC/9gZ0Kjbh218BcctSP2MhESd/ZLpZ44HgTS09xweFJ4EOVjymse9K18e4kHXFKUBUukE+IlV+7esVRF7B/JGLbuhpID9Vnj2vLRwSB78MhzVKBTSChjID6lOF5Rhugz81valpruTR6CoC0DlsmZcgEAX4Bujv+h3Jjuhr9n2hcxc7ccr8DNa6aZN87hZuKZ4NvkkstRvWle+5wYnDWkmUNSt6DCwOG/+UW3fYGArou0zVtC9UVWVZ9AnlkJGDlCiqzQ2hUgpr1X8HUyKVcewPpldkXynqlKfv0odE=;9+VWgBtAD7Jl21bijz82xA=="

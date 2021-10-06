@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scroll.in/article/1006658/worse-than-nukes-an-autonomous
 cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1006658/worse-than-nukes-an-autonomous-robot-may-have-already-killed-people"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI robots may have already killed in combat"
+    excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent"
+    publishedDateTime: 2021-10-06T04:51:00Z
+    webUrl: "https://menafn.com/1102923168/AI-robots-may-have-already-killed-in-combat"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2021-10/06/AT_957acimage_story.png"
+        width: 800
+        height: 529
+        isCached: true
   - title: "Are these the first killer robots – and why are they more dangerous than nukes?"
     excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United"
     publishedDateTime: 2021-10-04T18:28:00Z
