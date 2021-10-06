@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "gong_io"
   url: "https://twitter.com/gong_io"
-  followers: 6568
+  followers: 6570
 
 size: 201-500 employees
 yearFounded: 2015
@@ -33,7 +33,7 @@ topics:
   - AI in Sales
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1445624414955991043/F53hSjjW_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1445782969088544768/ULVDeanz_400x400.jpg"
     width: 400
     height: 400
     isCached: true
