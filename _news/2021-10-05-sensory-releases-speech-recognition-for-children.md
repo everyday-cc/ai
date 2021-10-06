@@ -39,6 +39,20 @@ related:
         width: 2048
         height: 1335
         isCached: true
+  - title: "Sensory Launches Speech Recognition Model for Children"
+    excerpt: "Sensory has released new speech recognition models that have been specifically trained to recognize children’s unique vocal patterns"
+    publishedDateTime: 2021-10-06T21:28:00Z
+    webUrl: "https://mobileidworld.com/sensory-launches-speech-recognition-model-children-7102103/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 39
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg"
+        width: 800
+        height: 560
+        isCached: true
 
 secured: "y/Uo2TddKOCRAhBN2VhTmKDVgicktFLp6Ce7zJA2rI8azn8ZZqVSJGVAPsTkE8HRznTJlX3GwIiVTSOmoIiS2Skggle4NG060w45CTQRiUgPbneIf8gtHcjnw8LecUA4jjiLcLjRv9OFVB1fXByJn6dup9TWsdegZKATfEsfpe5A2gxxYEjndzMzWLEuMbjLS7E++HWnxyDIqGVSHxYyMIXTOj6Q4VfrIU3OrsrIcRQWlLi65eVuE7EwdTLtf05zaafgDxySule7NwFgRohI8Q92oaW13N0HKpOYoVPviu5ZKUXxbgvGxK+LbAkVPo6bkYz6Yz3hxYMyLDMGBe0cwTczXaevQ/3pXLmo6E6tnY8=;bFMqu3jMBAC9fDTd1ryjYA=="
 ---

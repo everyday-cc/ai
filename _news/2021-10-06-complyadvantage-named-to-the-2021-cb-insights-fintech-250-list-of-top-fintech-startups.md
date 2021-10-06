@@ -41,6 +41,20 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Nova Credit Named to the 2021 CB Insights Fintech 250 List"
+    excerpt: "Nova Credit honored as a top fintech startup for achievements in Credit Score & AnalyticsSAN FRANCISCO--(BUSINESS WIRE)--Nova Credit, the fintech unlocking opportunities for those historically excluded from the credit system and companies looking to serve them,"
+    publishedDateTime: 2021-10-06T15:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=542616"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Cowbell Cyber Named to the 2021 CB Insights Fintech 250"
     excerpt: "Cowbell® Cyber, the industry's first AI-powered cyber insurance provider for small to medium enterprises (SMEs), today was named to the fourth annual CB"
     publishedDateTime: 2021-10-05T20:31:00Z

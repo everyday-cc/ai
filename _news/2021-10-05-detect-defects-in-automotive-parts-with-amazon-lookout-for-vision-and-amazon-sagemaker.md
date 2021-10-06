@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/detect-defects-in-au
 webUrl: "https://aws.amazon.com/blogs/machine-learning/detect-defects-in-automotive-parts-with-amazon-lookout-for-vision-and-amazon-sagemaker/"
 type: article
 quality: 81
-heat: 101
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Run computer vision inference on large videos with Amazon SageMaker asynchronous endpoints"
+    excerpt: "AWS customers are increasingly using computer vision (CV) models on large input payloads that can take a few minutes of processing time. For example, space technology companies work with a stream of high-resolution satellite imagery to detect particular objects of interest. Similarly, healthcare companies"
+    publishedDateTime: 2021-10-06T21:28:48Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-computer-vision-inference-on-large-videos-with-amazon-sagemaker-asynchronous-endpoints/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 96
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/29/ML-5668-Architecture-1.png"
+        width: 902
+        height: 416
+        isCached: true
   - title: "Build a system for catching adverse events in real-time using Amazon SageMaker and Amazon QuickSight"
     excerpt: "Social media platforms provide a channel of communication for consumers to talk about various products, including the medications they take. For pharmaceutical companies, monitoring and effectively tracking product performance provides customer feedback about the product, which is vital to maintaining"
     publishedDateTime: 2021-10-05T20:30:06Z
@@ -42,20 +56,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/11/ML-3952-image004.png"
         width: 864
         height: 337
-        isCached: true
-  - title: "Amazon Rolls Out Computer Vision Service to Identify Defects"
-    excerpt: "Concept: Amazon has launched a cloud service named Lookout for Vision to detect anomalies and defects in manufactured products. Available in select Amazon Web Services (AWS) regions with the AWS console and supporting partners,"
-    publishedDateTime: 2021-10-04T09:52:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/research-reports/amazon-rolls-out-computer-vision-service-to-identify-defects/"
-    type: article
-    provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
-    quality: 39
-    images:
-      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/10/shutterstock_1358359658.jpg"
-        width: 500
-        height: 280
         isCached: true
 
 secured: "vgVqbhEekgpBOFOos5WSxClnnW/RJim6wO40r/hOgnQj6zGdh9a+i48B/KLU3QTo/UsX6KOdbOhW7ifhLSzBGD/37G/CIZVAzYITDCxwQeRKVDPYEdzTNwMzEHI8z0u+q+RSiqdMNmuod3Ij6WugBPl2YaIXDO1xmNvkigjjSMDo9zo8wUKDFMmez8pvQPY0pO/BFVJ+LCNGVclZ8RXadbtd7+LRdMMHM2tVfDzRFfL/swtRWiNDCI8Wt3yttduKGcJNuwsoiL8XylkbyoliiI/7mD+aMWxoazkfCmDR+ECtTkfNWX1qgW0I+IambfEosRfhYbG21ikLeDR0ZECXqzN5DjnyC7G3uRvMw8ecHCA=;eks0PKqZ1WP1lkisCrjy1w=="

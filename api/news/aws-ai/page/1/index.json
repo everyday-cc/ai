@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-10-05-detect-defects-in-automotive-parts-with-amazon-lookout-for-vision-and-amazon-sagemaker.md",
-      "title": "Detect defects in automotive parts with Amazon Lookout for Vision and Amazon SageMaker",
-      "excerpt": "According to a recent study, defective products cost industries over $2 billion from 2012–2017. Defect detection within manufacturing is an important business use case, especially in high-value product industries like the automotive industry. This allows for early diagnosis of anomalies to improve production",
+      "path": "_news/2021-10-06-run-computer-vision-inference-on-large-videos-with-amazon-sagemaker-asynchronous-endpoints.md",
+      "title": "Run computer vision inference on large videos with Amazon SageMaker asynchronous endpoints",
+      "excerpt": "AWS customers are increasingly using computer vision (CV) models on large input payloads that can take a few minutes of processing time. For example, space technology companies work with a stream of high-resolution satellite imagery to detect particular objects of interest. Similarly, healthcare companies",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-defects-in-automotive-parts-with-amazon-lookout-for-vision-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-defects-in-automotive-parts-with-amazon-lookout-for-vision-and-amazon-sagemaker/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-computer-vision-inference-on-large-videos-with-amazon-sagemaker-asynchronous-endpoints/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-computer-vision-inference-on-large-videos-with-amazon-sagemaker-asynchronous-endpoints/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 116,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/04/ML-2758-archdiag-1260x542.png",
-          "width": 1260,
-          "height": 542,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/29/ML-5668-Architecture-1.png",
+          "width": 902,
+          "height": 416,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T15:10:33-07:00",
+      "publishedDateTime": "2021-10-06T14:28:48-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "AI",
-        "AWS AI"
+        "AWS AI",
+        "Computer Vision"
       ]
     },
     {
@@ -62,7 +63,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-a-cross-account-machine-learning-training-and-deployment-environment-with-aws-code-pipeline/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {

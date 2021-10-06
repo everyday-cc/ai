@@ -89,6 +89,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "GM reveals Ultra Cruise, a more advanced semi-self-driving system"
+    excerpt: "General Motors has shown off some aspects of its new upgraded semi-autonomous driving system called Ultra Cruise. The system promises to be a huge leap over GM’s current hands-free driver assistance program Super Cruise."
+    publishedDateTime: 2021-10-06T20:27:00Z
+    webUrl: "https://mobilesyrup.com/2021/10/06/gm-reveals-ultra-cruise-a-more-advanced-semi-self-driving-system/"
+    type: article
+    provider:
+      name: MobileSyrup
+      domain: mobilesyrup.com
+    quality: 24
+    images:
+      - url: "https://cdn.mobilesyrup.com/wp-content/uploads/2021/01/gm-logo-header-scaled.jpg"
+        width: 2560
+        height: 1439
+        isCached: true
 
 secured: "j1U6EhjQryiuq6XU1TW2a/3GoP6m+DdebgLE0VJvD9JywTrilqYtmtxlM0NwsSr78WCdFKQ7UFQ9eWbxRZCEv3eM3tFoJC/hHuubRQm8SkJNkTY3HIzFENCnVekCWQu+w176nG7ze5K+kyxRlW9b8rlXmSm8S8YDj7UONe6VvbnPgbS8PcLYmjLjm6VKMgCt47wd8tHChPSKmeEs6HhgyxIlF7flg3uJKL0PGqT7mms8zAQMS40h1sI38BGANzjG81TjL2Cuj1UvoDMQVTXxmHfJJuZmOxMn2OWjTtcIPtDM6hYk1KYcrimxUTnRm1NeH1TSn71Hl8TBcV8LT0OLSJ2yLFGThX2YEcpP9Zu2C3I=;AyI3qpdm1akNhxiz1QqOwg=="
 ---

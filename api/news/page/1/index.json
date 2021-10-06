@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-06-run-computer-vision-inference-on-large-videos-with-amazon-sagemaker-asynchronous-endpoints.md",
+      "title": "Run computer vision inference on large videos with Amazon SageMaker asynchronous endpoints",
+      "excerpt": "AWS customers are increasingly using computer vision (CV) models on large input payloads that can take a few minutes of processing time. For example, space technology companies work with a stream of high-resolution satellite imagery to detect particular objects of interest. Similarly, healthcare companies",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-computer-vision-inference-on-large-videos-with-amazon-sagemaker-asynchronous-endpoints/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-computer-vision-inference-on-large-videos-with-amazon-sagemaker-asynchronous-endpoints/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/29/ML-5668-Architecture-1.png",
+          "width": 902,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T14:28:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-10-07-ai-enabled-water-management-startup-pulls-35m-funding-round.md",
       "title": "AI-Enabled Water Management Startup Pulls $35M Funding Round",
       "excerpt": "Austin-based Olea Edge Analytics has pulled a massive $35 million round of funding to expand its AI water management systems. The company, founded in 2014, has now raised a total of $50.6 million.<br/",
@@ -157,7 +210,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/gm-ultra-cruise-tesla-full-self-driving-beta-rival/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1150,58 +1203,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-detect-defects-in-automotive-parts-with-amazon-lookout-for-vision-and-amazon-sagemaker.md",
-      "title": "Detect defects in automotive parts with Amazon Lookout for Vision and Amazon SageMaker",
-      "excerpt": "According to a recent study, defective products cost industries over $2 billion from 2012–2017. Defect detection within manufacturing is an important business use case, especially in high-value product industries like the automotive industry. This allows for early diagnosis of anomalies to improve production",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-defects-in-automotive-parts-with-amazon-lookout-for-vision-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-defects-in-automotive-parts-with-amazon-lookout-for-vision-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/04/ML-2758-archdiag-1260x542.png",
-          "width": 1260,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T15:10:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

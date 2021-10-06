@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/gm-ultra-cruise-tesla-full-self
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/gm-ultra-cruise-tesla-full-self-driving-beta-rival/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://images.barrons.com/im-411554/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "GM reveals Ultra Cruise, a more advanced semi-self-driving system"
+    excerpt: "General Motors has shown off some aspects of its new upgraded semi-autonomous driving system called Ultra Cruise. The system promises to be a huge leap over GM’s current hands-free driver assistance program Super Cruise."
+    publishedDateTime: 2021-10-06T20:27:00Z
+    webUrl: "https://mobilesyrup.com/2021/10/06/gm-reveals-ultra-cruise-a-more-advanced-semi-self-driving-system/"
+    type: article
+    provider:
+      name: MobileSyrup
+      domain: mobilesyrup.com
+    quality: 24
+    images:
+      - url: "https://cdn.mobilesyrup.com/wp-content/uploads/2021/01/gm-logo-header-scaled.jpg"
+        width: 2560
+        height: 1439
         isCached: true
   - title: "GM's Ultra Cruise to enable hands-free driving for 95% of driving in 2023"
     excerpt: "GM's Ultra Cruise driver-assist system will arrive in 2023 to go beyond Super Cruise and provide hands-free driving on more than 2 million miles of road in the U.S. and Canada."

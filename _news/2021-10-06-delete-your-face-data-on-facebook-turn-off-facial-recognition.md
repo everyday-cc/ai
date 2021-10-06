@@ -101,6 +101,20 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Need for Rise of Ethical Contents. The Reasons. Today’s Facebook News is just an example. Role of AI"
+    excerpt: "Not just Facebook, any news application can intentionally or unintendedly spread mis-information or wrong content.  Even as in my previous article, there has been mention of foreign forces in playing with the news contents,"
+    publishedDateTime: 2021-10-05T19:46:00Z
+    webUrl: "https://www.linkedin.com/pulse/need-rise-ethical-contents-reasons-todays-facebook-news-nidhika-yadav"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 41
+    images:
+      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
+        width: 1400
+        height: 800
+        isCached: true
 
 secured: "RoyjK2q8uWtR8rHh3517UEJbomFCjo5skVpf719/drt21dq6ScDaui4g/w32FUkyKPmnRcvPkzkNgTFBqmitJEQOpD0eDRkPryNKKFBKlcSxE9zKCRdT17Ke2+A7yH9zn1RuqSLQCt8z4xyEcAAnQfZWDekD7QJ34I6DCnKaYn6H/63HC/fTsEB8ryNJuETkTy2EZBdPnTW0Q55gEWe5/QyIFz8yQLT47ti006xtDjvtmwJdUv4tIGLakqxlso99SlvypAEQwn3oDR/oJOZtZ9/ff/OQZazuDaKJM/72mLMO8Rs0/yWjMSgl5RXiBMIHJeG7PiIddG0/dzlmyuUUkgAZF/Z6freUrX4S7XN6t5k=;OpIfJ4cvLDikvtTkhzH2cg=="
 ---

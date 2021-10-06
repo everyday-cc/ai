@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Run computer vision inference on large videos with Amazon SageMaker asynchronous endpoints"
+    excerpt: "AWS customers are increasingly using computer vision (CV) models on large input payloads that can take a few minutes of processing time. For example, space technology companies work with a stream of high-resolution satellite imagery to detect particular objects of interest. Similarly, healthcare companies"
+    publishedDateTime: 2021-10-06T21:28:48Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-computer-vision-inference-on-large-videos-with-amazon-sagemaker-asynchronous-endpoints/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 96
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/29/ML-5668-Architecture-1.png"
+        width: 902
+        height: 416
+        isCached: true
   - title: "Detect defects in automotive parts with Amazon Lookout for Vision and Amazon SageMaker"
     excerpt: "According to a recent study, defective products cost industries over $2 billion from 2012–2017. Defect detection within manufacturing is an important business use case, especially in high-value product industries like the automotive industry. This allows for early diagnosis of anomalies to improve production"
     publishedDateTime: 2021-10-05T22:10:33Z
@@ -42,20 +56,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/04/ML-2758-archdiag-1260x542.png"
         width: 1260
         height: 542
-        isCached: true
-  - title: "Amazon Rolls Out Computer Vision Service to Identify Defects"
-    excerpt: "Concept: Amazon has launched a cloud service named Lookout for Vision to detect anomalies and defects in manufactured products. Available in select Amazon Web Services (AWS) regions with the AWS console and supporting partners,"
-    publishedDateTime: 2021-10-04T09:52:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/research-reports/amazon-rolls-out-computer-vision-service-to-identify-defects/"
-    type: article
-    provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
-    quality: 39
-    images:
-      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/10/shutterstock_1358359658.jpg"
-        width: 500
-        height: 280
         isCached: true
 
 secured: "XLcu9ksbV44nXTbe2JVkX9UBe5CerQgovfi9itZ766uqeZH2Lp2lgJhuPgFYHitwhvXpUFiJITzw0JV8LaVtG2+rVQSJIafeNgKYDGqqiq2cVW6XDUfbHEONbJNnXdqNkLVGJNrW6360txy+PfNgqe0UqZaudR+oxlxDCiXbc86A5pZbd5tKEZC5sgT/DqwWD8cHDXKgXbB09ZMFeS2KVXKq/90b72g9POOUeeOBasfBxYcaMG/ScyPQhFcWRfzAMs6LXcHmt9OuPK4TcxABWYl48kIZu9ONXYexmYSuXuCi7DcSOPQh1Fcnv7RFreCw+oyD8FJRdY1gPcYXwAa+tciLv5aEJrJgHdP9nuLZSaU=;/bdglz034uFvztFufiE1eg=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/opinion/articles/2021-10-04/artificial-i
 webUrl: "https://www.bloomberg.com/opinion/articles/2021-10-04/artificial-intelligence-ain-t-that-smart-look-at-tesla-facebook-healthcare"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2021/10/gettyimages-1235711856.jpg?w=3000"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "Need for Rise of Ethical Contents. The Reasons. Today’s Facebook News is just an example. Role of AI"
+    excerpt: "Not just Facebook, any news application can intentionally or unintendedly spread mis-information or wrong content.  Even as in my previous article, there has been mention of foreign forces in playing with the news contents,"
+    publishedDateTime: 2021-10-05T19:46:00Z
+    webUrl: "https://www.linkedin.com/pulse/need-rise-ethical-contents-reasons-todays-facebook-news-nidhika-yadav"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 41
+    images:
+      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
+        width: 1400
+        height: 800
         isCached: true
   - title: "Delete Your Face Data on Facebook, Turn Off Facial Recognition"
     excerpt: "If you want to prevent Facebook from doing it automatically, then follow this simple 2-minute read on \"How to Delete your Face Data on Facebook by Turning Off Facial Recognition\"."
