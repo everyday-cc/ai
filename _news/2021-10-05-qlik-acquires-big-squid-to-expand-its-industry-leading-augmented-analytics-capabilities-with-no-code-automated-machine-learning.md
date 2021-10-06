@@ -21,49 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "Qlik acquires Big Squid for augmented analytics with no-code automated ML"
-    excerpt: "Qlik acquires Big Squid for augmented analytics with no-code automated ML Qlik announced the acquisition of Big Squid, a leading provider of no-code automated machine learning (AutoML), to expand data and"
-    publishedDateTime: 2021-10-01T10:52:00Z
-    webUrl: "https://www.dqindia.com/80112-2/"
-    ampWebUrl: "https://www.dqindia.com/80112-2/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/80112-2/amp/"
+  - title: "BriefCam Video Analytics Now Enabled on Axis Deep Learning Cameras"
+    excerpt: "Edge video processing on Axis deep learning cameras is a new hybrid development option for the BriefCam platform."
+    publishedDateTime: 2021-10-02T08:00:00Z
+    webUrl: "https://www.campussafetymagazine.com/press-release/briefcam-video-analytics-axis-deep-learning-cameras/"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 58
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2017/02/RPA.jpeg"
-        width: 540
-        height: 370
-        isCached: true
-  - title: "Qlik Acquires No-Code AutoML Platform Big Squid"
-    excerpt: "Big Squid will further expand Qlik's existing SaaS roadmap and bring new AutoML augmented analytics capabilities."
-    publishedDateTime: 2021-10-02T06:20:00Z
-    webUrl: "https://analyticsindiamag.com/qlik-acquires-no-code-automl-platform-big-squid/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
     quality: 39
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/09/aim_qlik-compressed.jpg"
-        width: 1280
-        height: 960
-        isCached: true
-  - title: "Data Analytics, Artificial Intelligence Lower Hospital Infections"
-    excerpt: "By switching to a data analytics and AI-powered hygiene monitoring system, Novant Health decreased its number of hospital-acquired infections."
-    publishedDateTime: 2021-10-05T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/data-analytics-artificial-intelligence-lower-hospital-infections"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Code_data.jpg"
-        width: 690
-        height: 400
+      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2021/09/osu-1.jpg"
+        width: 1000
+        height: 500
         isCached: true
 
 secured: "0Zt8KFeISZy/yXiktIjuCwf8VuaQiG6gLvqBKkjWYDm2QBC3Rcx/HnzI+R/Z3Cn127bCtc1e+gRFFAWqfbu2u3MQ91apCBHqUmm9NB6VrUXAs2rXASP0zF1snYYYVZu72xG5krbrdzpNMNgRR7vMEZNyS0G8wibNCFqRXM7Vy1OL52RG4KVP81JXxTFG/9apysEmh1f4gbM5JFt4JvIDnBVthYYkUSL2NJY/1xcqq4GysweSEh/r4LLi0PHx2NXWu05BPT2TYUB/xbkXn6V1V+PKPhap8CbhmDCxoferz8ijtWblwhktmK60dtZVKfBycFgB4lPcoyJA1wMhwONa2Jb3p46UW1m9XX2lzy9tDL8=;AFtJelTkTWtgeoCE1zc0Jw=="

@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Amazon Rolls Out Computer Vision Service to Identify Defects"
-excerpt: "Concept: Amazon has launched a cloud service named Lookout for Vision to detect anomalies and defects in manufactured products. Available in select Amazon Web Services (AWS) regions with the AWS console and supporting partners,"
+excerpt: "Amazon has launched a cloud service named Lookout for Vision to detect anomalies and defects in manufactured products."
 publishedDateTime: 2021-10-04T10:08:00Z
-originalUrl: "https://www.power-technology.com/research-reports/amazon-rolls-out-computer-vision-service-to-identify-defects/"
-webUrl: "https://www.power-technology.com/research-reports/amazon-rolls-out-computer-vision-service-to-identify-defects/"
+originalUrl: "https://www.just-style.com/research-reports/amazon-rolls-out-computer-vision-service-to-identify-defects/"
+webUrl: "https://www.just-style.com/research-reports/amazon-rolls-out-computer-vision-service-to-identify-defects/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Power Technology
-  domain: power-technology.com
+  name: Companies
+  domain: just-style.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/10/shutterstock_1358359658.jpg"
+  - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/10/shutterstock_1358359658.jpg"
     width: 500
     height: 280
     isCached: true
@@ -54,6 +54,6 @@ related:
         height: 337
         isCached: true
 
-secured: "bZftrHuZMzEd6CTkisswMqOgkJRiv1rn1KmbtcJVb2AYgSnj23eaQr45gv7Ij69npkSin0Hvnq7K7KQjCiUQFyxms/5Qy8G/UWmhOETQgKj1wMbJWemH+uTY79Q1ZqcecFtRDXNvKG/z5TCqkQtB6E11DGJp7Rjd9y0R4dmHl4AyvQr2wzNm1zFlF/IU9iER2NygGC/fLEO2Vmn+H/9dBTubKNy7N2uSgUhDdsHok8KvGQRT5BW6hGCMPagXGFGwlsutjl1fj3pRY6Xp3UAqeYg+8KtCW1Nu8hagJ4E+uPAUuesu+o+xiFDlbhX+zsOo/VCHxOEmJVNpBg7djBUnWWL9Q+kcxJezH8u2Hjuki3Ug9GMBkc5vFQy0U7ir/qAcMM6i50eW6koOb0Y8sJS2HIryOIUApNBnIMcuk12jgtMHeaTI56EnV5No7sYUpVbEOQcVKMz103sMiDJNoKiurb8yfyR51TUqJMiBfWndNt4IQEDHkP03MN4WG+pU9JMtd7aejGQf6ta9Z0ehxjFcUQ==;+Uo5uOiEiJWH3Sr4ADpxCQ=="
+secured: "qJdAK9UwuCkowMLbpuw4aKsJTV5ABa7w5YZ7cR3Bnxq6grhAXtNLsdku84KbVUrk9rTKpWaNseepVuZImC+OKEnGWfQ6Km2bldilDQUe5ZKpXmw03ngMB/NnBgOA9G0PD833fy46Dm+jlgvaZsg7QVCgKxEgAf4wiLQ77kWTmDsbpk2KU+Qp07mcNltan7LtEdkO0zzrk5+OOwtXe5f8I9PrnFxifB/fOPUG2F9dNCfe5ooCmkrGnZ8TYOfcviCzl44xPplEYHMZVa21164jqcuCZO9kb64S4y1A4kScmnsUb6PS9yJWCy2fBwR+4DB2hL5o4b9UN2/5pe5vqhlo4JQ0IeOhhLGO6pAOeDvXLfo=;bM7z7Xxp+yrW8vBYmljeBQ=="
 ---
 

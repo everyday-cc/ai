@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wraltechwire.com/2021/10/02/amazon-home-security-robots-
 cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/10/02/amazon-home-security-robots-inside-drones-outside-cameras-all-around/?amp=1"
 type: article
 quality: 75
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon's controversial vision for the future of your home security"
-    excerpt: "Amazon's vision for the future of home security includes drones flying over your roof, outdoor cameras that monitor for possible trespassers and cute robots patrolling indoors. During an invite-only press conference on Tuesday,"
-    publishedDateTime: 2021-10-01T10:30:00Z
-    webUrl: "https://www.waaytv.com/content/national/575435212.html"
-    ampWebUrl: "http://www.waaytv.com/templates/AMP?contentID=575435212"
-    cdnAmpWebUrl: "https://www-waaytv-com.cdn.ampproject.org/c/www.waaytv.com/templates/AMP?contentID=575435212"
-    type: article
-    provider:
-      name: WAAY-TV
-      domain: waaytv.com
-    quality: 61
-    images:
-      - url: "http://media.heartlandtv.com/designimages/WEBWAAY640x380-copy2020.png"
-        width: 640
-        height: 380
-        isCached: true
   - title: "Amazon's controversial vision for the future of your home security"
     excerpt: "Amazon's vision for the future of home security includes drones flying over your roof, outdoor cameras that monitor for possible trespassers and cute robots patrolling indoors."
     publishedDateTime: 2021-10-02T21:37:00Z

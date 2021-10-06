@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Data Analytics, Artificial Intelligence Lower Hospital Infections"
+    excerpt: "By switching to a data analytics and AI-powered hygiene monitoring system, Novant Health decreased its number of hospital-acquired infections."
+    publishedDateTime: 2021-10-05T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/data-analytics-artificial-intelligence-lower-hospital-infections"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Code_data.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Google Analytics 4 updates include data-driven attribution, machine learning models to fill in measurement gaps and a Search Console integration"
     excerpt: "Google hasn’t said when it will deprecate Universal Analytics, but the updates and language in the announcement suggest that search marketers should prepare for the change."
     publishedDateTime: 2021-10-05T20:00:00Z

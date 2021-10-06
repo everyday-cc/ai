@@ -25,47 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Qlik acquires Big Squid for augmented analytics with no-code automated ML"
-    excerpt: "Qlik acquires Big Squid for augmented analytics with no-code automated ML Qlik announced the acquisition of Big Squid, a leading provider of no-code automated machine learning (AutoML), to expand data and"
-    publishedDateTime: 2021-10-01T10:52:00Z
-    webUrl: "https://www.dqindia.com/80112-2/"
-    ampWebUrl: "https://www.dqindia.com/80112-2/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/80112-2/amp/"
+  - title: "HPE Converts Analytics, Storage, Data Protection To GreenLake"
+    excerpt: "Since launching GreenLake in 2018 and promising that all of its portfolio would be available as services by next year, Hewlett Packard Enterprise has been"
+    publishedDateTime: 2021-10-05T16:32:00Z
+    webUrl: "https://www.nextplatform.com/2021/10/05/hpe-converts-analytics-storage-data-protection-to-greenlake-services/"
+    ampWebUrl: "https://www.nextplatform.com/2021/10/05/hpe-converts-analytics-storage-data-protection-to-greenlake-services/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/10/05/hpe-converts-analytics-storage-data-protection-to-greenlake-services/amp/"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 58
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 44
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2017/02/RPA.jpeg"
-        width: 540
-        height: 370
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/hpe-lighthouse-greenlake-logo-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
-  - title: "Qlik Acquires No-Code AutoML Platform Big Squid"
-    excerpt: "Big Squid will further expand Qlik's existing SaaS roadmap and bring new AutoML augmented analytics capabilities."
-    publishedDateTime: 2021-10-02T06:20:00Z
-    webUrl: "https://analyticsindiamag.com/qlik-acquires-no-code-automl-platform-big-squid/"
+  - title: "Google Analytics 4 updates include data-driven attribution, machine learning models to fill in measurement gaps and a Search Console integration"
+    excerpt: "Google hasn’t said when it will deprecate Universal Analytics, but the updates and language in the announcement suggest that search marketers should prepare for the change."
+    publishedDateTime: 2021-10-05T20:00:00Z
+    webUrl: "https://searchengineland.com/google-analytics-4-updates-include-data-driven-attribution-machine-learning-models-to-fill-in-measurement-gaps-and-a-search-console-integration-374970"
+    ampWebUrl: "https://searchengineland.com/google-analytics-4-updates-include-data-driven-attribution-machine-learning-models-to-fill-in-measurement-gaps-and-a-search-console-integration-374970/amp"
+    cdnAmpWebUrl: "https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/google-analytics-4-updates-include-data-driven-attribution-machine-learning-models-to-fill-in-measurement-gaps-and-a-search-console-integration-374970/amp"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 22
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/09/aim_qlik-compressed.jpg"
-        width: 1280
-        height: 960
+      - url: "https://searchengineland.com/figz/wp-content/seloads/2021/05/google_1920.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Qlik Acquires Big Squid to Expand Its Industry Leading Augmented Analytics Capabilities with No-Code Automated Machine Learning"
-    excerpt: "Advances Qlik’s Vision of Active Intelligence by Bringing Data and Analytics Teams Key Driver Analysis, What If Scenario Planning and On-Demand Predictions Directly Within Qlik"
-    publishedDateTime: 2021-10-04T21:33:00Z
-    webUrl: "https://www.techwire.net/sponsored/qlik-acquires-big-squid-to-expand-its-industry-leading-augmented-analytics-capabilities-with-no-code-automated-machine-learning"
-    ampWebUrl: "https://www.techwire.net/sponsored/qlik-acquires-big-squid-to-expand-its-industry-leading-augmented-analytics-capabilities-with-no-code-automated-machine-learning?_amp=true"
-    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/sponsored/qlik-acquires-big-squid-to-expand-its-industry-leading-augmented-analytics-capabilities-with-no-code-automated-machine-learning?_amp=true"
-    type: article
-    provider:
-      name: California Techwire
-      domain: techwire.net
-    quality: 11
 
 secured: "OwBkmCNaaYBg3St5k9hl9Xw3vs7JD/592DzkO2aQoYOsITLNIh2VxXJYvLwMdYjgPfqFwk3L4zi74j5UGGw8wk3A2W1i7q7yuyDbWeC2HZVvjUJp+MqORmjngLzkxZdSigMBpK3NXxrgsDkYXr7NhWK1y+JvbklsY9cl+dVvIPqDneep6tYTqd4mga4firhXzM2EYAnPB13RCC/axQH7AB7LBqCE4ePUKgBaKjqyyPEmr16+gBcla440J+x0U+HgqEAuwUejeUi8lOLy/GKSAUdET4DCLieCBN8kOxsDjV1GokBme8ZplJYF27Cam1sao0PgDrHmDg7IOnMefNAAO302idt/mhX68Au/NWo5ZNb+w0abAlJYGhOtYsXQ7rOJFMuU+6TWTnRSuVJvw50SleSjENKFRKARlyzokPsPNVys0CFlncNXbhOCO+YUxqfn80rvKvdKhQBolj+KM3Ids0+5/YjxdgvGKlcDSlP3avGaWyGTmExvNE/1yv+5E+VvVvj4GzAFnH2K/ho7qT+Eqg==;RYoYJHTomy2Mw+F3e2O+7Q=="
 ---

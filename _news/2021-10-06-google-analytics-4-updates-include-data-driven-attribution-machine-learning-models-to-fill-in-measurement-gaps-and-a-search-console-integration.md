@@ -43,6 +43,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Data Analytics, Artificial Intelligence Lower Hospital Infections"
+    excerpt: "By switching to a data analytics and AI-powered hygiene monitoring system, Novant Health decreased its number of hospital-acquired infections."
+    publishedDateTime: 2021-10-05T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/data-analytics-artificial-intelligence-lower-hospital-infections"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Code_data.jpg"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "te5m70nMrKfuyWxRsgzSx2041IznjqoaynvVLxibsADSB41sd/0YssdIfK9gAWiqYoWQmjyQqle73L6QE9MVNerXD29TfDxeOsvcst3lhChdVyy0pc/x5OJ3VkmBIhPow/U/lXhBFklMh8n0SDmiw0gMAvk6DApmzBeyNV5Llyjp3xeliPS+f4l/Q3Uknuxd2OuZL7eVmBS/ULm67vnkT+w2mJkmsM3T0KgIYUJhs8wAJG2o3o2nxlO3nobmJ8VRaFGfRyVT77PHBu/gjewy5NFnF00UOLI44hfRDODaTGi5ctK1hMtFoPL1hJkb5sD8932HJPj3aQt6DU5Ivrcv+L6rkhuM4EdCmGx6NwkBIYkEgiUd8Dnp0qweIz0RF1/aI8UchEXHjMoIIFWADYPlZv5wSTwNn7oVk2ANGK0yllJltcv77fdXQx3cxgNy1VsyrxOWN7XUr/simQFV8buCNq0D6aIp0gx/9pxfBFToPmxRiflkRrnoNQWBmipmzb9hrDD2Lc2gbh27N0I3Q7JvgA==;CTNROlGBem0VxnP1980CSw=="
 ---

@@ -3,26 +3,26 @@ category: news
 title: "Tesla's 'full self-driving' feature could be days away for approved drivers"
 excerpt: "A wider group of Tesla owners who paid up to $10,000 for what the company calls its \"full self-driving\" software can now ask the automaker for access to a test"
 publishedDateTime: 2021-09-29T00:30:00Z
-originalUrl: "https://lacrossetribune.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_d4cb5daa-389d-5156-b221-652949cb4ebd.html"
-webUrl: "https://lacrossetribune.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_d4cb5daa-389d-5156-b221-652949cb4ebd.html"
-ampWebUrl: "https://lacrossetribune.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_d4cb5daa-389d-5156-b221-652949cb4ebd.amp.html"
-cdnAmpWebUrl: "https://lacrossetribune-com.cdn.ampproject.org/c/s/lacrossetribune.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_d4cb5daa-389d-5156-b221-652949cb4ebd.amp.html"
+originalUrl: "https://madison.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_28e2555a-2519-587d-aac8-6bd59e63d461.html"
+webUrl: "https://madison.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_28e2555a-2519-587d-aac8-6bd59e63d461.html"
+ampWebUrl: "https://madison.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_28e2555a-2519-587d-aac8-6bd59e63d461.amp.html"
+cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_28e2555a-2519-587d-aac8-6bd59e63d461.amp.html"
 type: article
 
 provider:
-  name: La Crosse Tribune
-  domain: lacrossetribune.com
+  name: Madison.com
+  domain: madison.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/lacrossetribune.com/content/tncms/assets/v3/editorial/d/25/d255bdea-38b0-5879-979f-d1c4d2a168a6/615390757c2ea.image.jpg?resize=1024%2C682"
+  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/2a/a2a79db2-f230-5ec1-8847-4b7462a145ce/6153906b928f3.image.jpg?resize=1024%2C682"
     width: 1024
     height: 682
     isCached: true
 
-secured: "pHsBAueu3yDJ1Fe0HeZzrgHJXJApcwvvxOaWchUbGdsNM3brF3pn2xL0Ch8bGxZ0RiTya33rnFi54UzlJD2MrKTxHOMPJdLaSHsHNjhl8DUFBRvFOBCAoiHG9MBqSVIjEQA9S92ZqdN+uboK5e8PcWrxKuYbNCGIa0DZBpRjJRBsJtlZsSrAoIbAatuL5Z7p/1p9gXfdRNHmeQsfZPrRonJ4Gh2owtvRTIPwjDjGTlwi++Ymoso8p4lYNQ5szK0LP8GYG5S5sx9XyZdvK1KrpsrAgpVQ1IOBmicGhTl+TLPHsrXn/mcH2BSiN+fUErKYm5mGjP6i6y6t9BHz5DEyCwSnOWnrBYBW81SVo/+KPXI=;xYYKlOUxLoIJyUrA2Kl77g=="
+secured: "dTPUQYtQ9pUcJ/No8caIXAn11KPg4Ym/y319iKud34Jj1V/8ajg7yAnGWaGDdnTCyjviEFc1SA0GSbC81Gf6JtVn9I0rBwbgULk8tOHLH+JmZzes53fU0dLIF40JLmhgVWvJmvG4fgNcHTl3743gxp+q6pHFkT5Ta3Ha8RPundby7i9PLhaW9ive2p1nFCi6rXdZRO15d2PC7+Jelz9ukgW33BbZx0rfVOUImr3KNYGqmWz6l8BXGKlHn+CaH690J/qaVCYoOC7Pt/YnQmQue9UC4xT4w4+8EUb4GkqzgtH/sme/9J60gCjr6lvZ63GbnRxNt29YyCzE1cGUIFrkUpTbf0xpeGe5uxjEVYInmoA=;YNmjmu8L2YdeDNl7CUE3QQ=="
 ---
 
