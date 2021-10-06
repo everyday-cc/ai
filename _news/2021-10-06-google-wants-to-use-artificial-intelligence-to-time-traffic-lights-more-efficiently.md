@@ -7,7 +7,7 @@ originalUrl: "https://economictimes.indiatimes.com/tech/technology/google-wants-
 webUrl: "https://economictimes.indiatimes.com/tech/technology/google-wants-to-use-artificial-intelligence-to-time-traffic-lights-more-efficiently/articleshow/86805352.cms"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,38 @@ images:
     width: 1070
     height: 580
     isCached: true
+
+related:
+  - title: "Google Planning to Use Artificial Intelligence to Cut Traffic Delays, Fuel Use in Brazil"
+    excerpt: "Alphabet Inc's Google cut fuel use and traffic delays by 10% to 20% at four locations in Israel by using artificial intelligence to optimize signal lights and it next plans to test the software in Rio de Janeiro,"
+    publishedDateTime: 2021-10-06T11:30:00Z
+    webUrl: "https://www.news18.com/news/auto/google-planning-to-use-artificial-intelligence-to-cut-traffic-delays-fuel-use-in-brazil-4291247.html"
+    ampWebUrl: "https://www.news18.com/amp/news/auto/google-planning-to-use-artificial-intelligence-to-cut-traffic-delays-fuel-use-in-brazil-4291247.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/auto/google-planning-to-use-artificial-intelligence-to-cut-traffic-delays-fuel-use-in-brazil-4291247.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 48
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/09/google--163351983416x9.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Brazil lawmakers approve bill regulating artificial intelligence"
+    excerpt: "Brazil's House of Representatives has approved a bill that sets out legal regulations for artificial intelligence (AI). Bill No. 21/20 outlines guidelines to develop and utilize AI in Brazil. The"
+    publishedDateTime: 2021-10-02T12:20:00Z
+    webUrl: "https://www.jurist.org/news/2021/10/brazil-lawmakers-approve-bill-regulating-artificial-intelligence/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 37
+    images:
+      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2021/10/computer_code_1633195226.jpg"
+        width: 1280
+        height: 856
+        isCached: true
 
 secured: "CHe9IRFky671k7rqi+ETopAQMgs/h/Z+esCAEqCNfcsuSJPoCAOjM75LTi70LOI90dyPBmMxyO8+NyKD7CjtBCSNmU9SPmGiGriMS8UqJK+AE5O8Dx6zvOzVJepAZM4WVraZANXEi9wxB+LGJLc6S2HkrdpDEw4GHRdGE4wBkDnn2TbtLEISpcgwPsfe9l0MhPPL4+xxrF3+aCQ2s+zc2+RRk6rspBLWj6Nc8eq3SWFqh03d6CYe52UKEviB7bLAHSxh6oixD4hNimNea8G8Xiun6TvV592hpz+sO4ymL0CtVqehcL4HZUms4yROWG9uyoFFNUEa83ej0iBgWlz+iSGQRZczmnVxwVM9dcPs8fo=;QWro2EOQRkNvDJ2/RP/Onw=="
 ---

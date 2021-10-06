@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Aurora CEO Chris Urmson to Discuss Advances in Self-driving With Axios at Industry Event"
-excerpt: "Following Aurora Illuminated Investor & Analyst Days, leadership of self-driving company Aurora will speak at several industry events this week. T"
-publishedDateTime: 2021-10-05T15:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20211005005925/en/Aurora-CEO-Chris-Urmson-to-Discuss-Advances-in-Self-driving-With-Axios-at-Industry-Event"
-webUrl: "https://www.businesswire.com/news/home/20211005005925/en/Aurora-CEO-Chris-Urmson-to-Discuss-Advances-in-Self-driving-With-Axios-at-Industry-Event"
+excerpt: "CEO Chris Urmson to speak at Axios event - “Driving Towards an Autonomous Future” On Wednesday, October 6 at 12:30pm ET co-founder and CEO of Aurora, Chris Urmson, will be int"
+publishedDateTime: 2021-10-05T15:32:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-aurora-bd7c230cc68b4f1c9a2718d20dce2a10"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-aurora-bd7c230cc68b4f1c9a2718d20dce2a10"
 type: article
-quality: 0
-heat: 0
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "FjFUMIZl4nXVURLK5bbRV5W6jQIQLICy4MTUJEFxbhyYU0FFSFF+rDfFj8PWQ5SoilyIhbCZvvO6qTNUvwHPs6G1rCt1Co6K+vtDyOCOd9hMGzmtBIl5fJc8ZrQgE8/Ls6S9LQsATcMqsrdUPNZk4Uy7CpO+Ea0e/Vso9zaHuJqHE3fF7xOsUASKYTEjXtxBheQRGOYbEkZUm+00OYRto2ExLKUavc2nBEUkI5Ce7WlRGSbRbSn0I0D3r0RYKrordsjycgol2h7dLdXRJ1enF8ApfTlaqG42tcdCSF0QTLZliUUbYuJjz8U+yBhKzOBetSJrDyEMQ0OK46kid/KA1rBztC6r0bDyRfRn4SbfMd8=;LOsZF5W7axg2jaF+nr704g=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "u5P6LI1HoMss9SGT+KbYbJu82kC3ZCrO1Io0uLRd/EHs3OYqh7enO0j7o79dxBZq3+VnTi6Ly8Hxs5D5x+erg5toVXULCnNGGnb4fL+GyAIfmEeLirIewpaybE67IyyOeeE7OyGlbd8n+lekeWVKqygAqQdK9n3xrhN/+tbOv7DOHAiGI9vzowjdiDHDYj9gvFuouZYQtzCXvDm8ozzIjR8mGzhjMPFoGFdGshFHNrxHT828ANcxagnw+YfC8ZvwEIho0pScCkhM4Rbck/VQHu5I+vD9GG36J6Qeb0MooPOVKGOJF6vhIEEN2VsUcfyDC+5SbqW3SS6PewRirazFZ0yqGBk9iKcJJ3o/GcSOmmo=;58yy6AiIqNWScBXoZcAdJw=="
 ---
 

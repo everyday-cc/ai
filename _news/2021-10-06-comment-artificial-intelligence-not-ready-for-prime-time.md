@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-06T08:30:00Z
 originalUrl: "https://www.heraldnet.com/opinion/comment-artificial-intelligence-not-ready-for-prime-time/"
 webUrl: "https://www.heraldnet.com/opinion/comment-artificial-intelligence-not-ready-for-prime-time/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"

@@ -87,20 +87,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "Addressing facial recognition inequity and access bias in unemployment insurance benefits"
-    excerpt: "Approximately $800 billion in unemployment benefits have been delivered by the federal government since the onset of the pandemic—a staggering figure reflecti"
-    publishedDateTime: 2021-10-01T17:22:00Z
-    webUrl: "https://www.americancityandcounty.com/2021/10/01/addressing-facial-recognition-inequity-and-access-bias-in-unemployment-insurance-benefits/"
-    type: article
-    provider:
-      name: Government Product News
-      domain: americancityandcounty.com
-    quality: 30
-    images:
-      - url: "https://www.americancityandcounty.com/files/2021/10/alexander-schimmeck-AoI2E_7El1w-unsplash-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "West Lafayett City Council Votes in Favor of Banning Government Use of Facial Recognition Technology"
     excerpt: "The West Lafayette City Council took up a vote to ban Government use of Facial Recognition Surveillance technology. The council was split on its decision."
     publishedDateTime: 2021-10-05T06:06:00Z

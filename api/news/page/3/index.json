@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-04-googles-deepmind-ai-has-just-reduced-conventional-weather-forecasting-to-dust.md",
+      "title": "Google's DeepMind AI Has Just Reduced Conventional Weather Forecasting To Dust",
+      "excerpt": "Although it may seem easy, weather forecasting is one of the hardest challenges faced by science. Over the last few decades, meteorologists around the world have tried to come up with the most accurate forecasting models.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/science/25102/googles-deepmind-ai-has-just-reduced-conventional-weather-forecasting-to-dust",
+      "originalUrl": "https://in.mashable.com/science/25102/googles-deepmind-ai-has-just-reduced-conventional-weather-forecasting-to-dust",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/shutterstock-246146029_gt84.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/science/25102/googles-deepmind-ai-has-just-reduced-conventional-weather-forecasting-to-dust?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/science/25102/googles-deepmind-ai-has-just-reduced-conventional-weather-forecasting-to-dust?amp=1",
+      "publishedDateTime": "2021-10-04T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-04-for-tesla-facebook-and-others-ais-flaws-are-getting-harder-to-ignore.md",
       "title": "For Tesla, Facebook and Others, AI’s Flaws Are Getting Harder to Ignore",
       "excerpt": "Investors are pouring money into artificial intelligence, despite clear setbacks in self-driving cars, social media and even healthcare.",
@@ -462,7 +505,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -529,49 +572,6 @@
         "AWS AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-03-researchers-publish-new-datasets-to-better-train-machine-learning-models-for-drug-discovery.md",
-      "title": "Researchers publish new datasets to better train machine learning models for drug discovery",
-      "excerpt": "Polymorphs are molecules that have different molecular packing arrangements despite identical chemical compositions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20211002/Researchers-publish-new-datasets-to-better-train-machine-learning-models-for-drug-discovery.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20211002/Researchers-publish-new-datasets-to-better-train-machine-learning-models-for-drug-discovery.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/Drug_use_and_prohibited_substances._-_Image_-_Monika_Gruszewicz_A1_b3acfd6d2daf44ecbd36979af20eb378-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20211002/Researchers-publish-new-datasets-to-better-train-machine-learning-models-for-drug-discovery.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211002/Researchers-publish-new-datasets-to-better-train-machine-learning-models-for-drug-discovery.aspx",
-      "publishedDateTime": "2021-10-02T19:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {

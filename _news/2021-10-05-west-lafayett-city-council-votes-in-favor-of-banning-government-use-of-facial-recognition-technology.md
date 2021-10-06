@@ -81,20 +81,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "Addressing facial recognition inequity and access bias in unemployment insurance benefits"
-    excerpt: "Approximately $800 billion in unemployment benefits have been delivered by the federal government since the onset of the pandemic—a staggering figure reflecti"
-    publishedDateTime: 2021-10-01T17:22:00Z
-    webUrl: "https://www.americancityandcounty.com/2021/10/01/addressing-facial-recognition-inequity-and-access-bias-in-unemployment-insurance-benefits/"
-    type: article
-    provider:
-      name: Government Product News
-      domain: americancityandcounty.com
-    quality: 30
-    images:
-      - url: "https://www.americancityandcounty.com/files/2021/10/alexander-schimmeck-AoI2E_7El1w-unsplash-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "MEPs back EU facial-recognition ban for police"
     excerpt: "The European Parliament has backed a moratorium on facial recognition for law-enforcement purposes – bypassing attempts from members of the European People's Party aiming to torpedo the ban on biometric mass surveillance in public spaces."
     publishedDateTime: 2021-10-06T05:12:00Z

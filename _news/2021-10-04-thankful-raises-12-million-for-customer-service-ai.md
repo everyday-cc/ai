@@ -43,14 +43,14 @@ related:
   - title: "Japanese Startup Autify Raises $10M Series A To Advance Software Testing Automation Through No-code Solution"
     excerpt: "Autify, a no-code AI-powered software testing automation platform, announced today that it has raised $10M in Series A funding. Leading the round is World Innovation Lab (WiL), a growth-stage venture capital firm based in Palo Alto and Tokyo."
     publishedDateTime: 2021-10-06T06:06:00Z
-    webUrl: "https://www.wagmtv.com/prnewswire/2021/10/06/japanese-startup-autify-raises-10m-series-advance-software-testing-automation-through-no-code-solution/"
+    webUrl: "https://www.uppermichiganssource.com/prnewswire/2021/10/06/japanese-startup-autify-raises-10m-series-advance-software-testing-automation-through-no-code-solution/"
     type: article
     provider:
-      name: WAGMTV
-      domain: wagmtv.com
+      name: Upper
+      domain: uppermichiganssource.com
     quality: 18
     images:
-      - url: "https://gray-wagm-prod.cdn.arcpublishing.com/resizer/eWPadbZLVdQD65T0SixB6Vk6gnM=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/UGZT4GNOUQYLYDBMSGKR4UJ4O4.jpg"
+      - url: "https://gray-wluc-prod.cdn.arcpublishing.com/resizer/eWPadbZLVdQD65T0SixB6Vk6gnM=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/UGZT4GNOUQYLYDBMSGKR4UJ4O4.jpg"
         width: 980
         height: 653
         isCached: true

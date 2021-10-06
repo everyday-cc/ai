@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/articles/India/20211001/3829691.
 webUrl: "https://news.webindia123.com/news/articles/India/20211001/3829691.html"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Western Railways to install 2,729 cameras with face recognition system across 30 stations"
-    excerpt: "Western Railways to install 2,729 cameras with face recognition system across 30 stations - These cameras have a tilt angle of 180 to 270 degrees that will help in 360 degrees of an area leaving no bl"
-    publishedDateTime: 2021-10-01T18:20:00Z
-    webUrl: "https://www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767"
-    ampWebUrl: "https://www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767/amp"
-    cdnAmpWebUrl: "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767/amp"
-    type: article
-    provider:
-      name: DNA India
-      domain: dnaindia.com
-    quality: 65
-    images:
-      - url: "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/10/01/999016-camera.jpg"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "rOcsYxXC/P8YHFtkvrdX+XQrdZAuMokw5EvAQiKhiXw2oIWSQBatufvhEU5oGU1yUgpDQnlDrVItrqEuDFd8s6qHrwUNuWnzuvHXHz3WBXLBo/bYHX1Zi9ZkcRiZLEyW72S21v6bwCQdaYJShOCo1F3fNXG2filTCZMowqSsIT+FpYIohfHEX0l1GMQNAYKSXKt+/TUUtGM7amaCsffBcuoqT6mzB2E32f4ruIpNkAiPLkBF+AsBcPXzbTI6qcTjrMRN8zeqvHRCt0R/SKaRhTOY+1kNmmYaXrzyohHm818vA+LYRE2vTEgt+GDG/p4Ed7HMia4Q/ug8sw0o0bV5gpPoL6Sk2iCB2q80p+kKDv0=;m+GiD2CeMsxQJGP5iegkOg=="
 ---

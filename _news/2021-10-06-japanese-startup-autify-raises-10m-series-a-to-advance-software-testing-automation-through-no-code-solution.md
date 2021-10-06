@@ -3,22 +3,22 @@ category: news
 title: "Japanese Startup Autify Raises $10M Series A To Advance Software Testing Automation Through No-code Solution"
 excerpt: "Autify, a no-code AI-powered software testing automation platform, announced today that it has raised $10M in Series A funding. Leading the round is World Innovation Lab (WiL), a growth-stage venture capital firm based in Palo Alto and Tokyo."
 publishedDateTime: 2021-10-06T06:06:00Z
-originalUrl: "https://www.wagmtv.com/prnewswire/2021/10/06/japanese-startup-autify-raises-10m-series-advance-software-testing-automation-through-no-code-solution/"
-webUrl: "https://www.wagmtv.com/prnewswire/2021/10/06/japanese-startup-autify-raises-10m-series-advance-software-testing-automation-through-no-code-solution/"
+originalUrl: "https://www.uppermichiganssource.com/prnewswire/2021/10/06/japanese-startup-autify-raises-10m-series-advance-software-testing-automation-through-no-code-solution/"
+webUrl: "https://www.uppermichiganssource.com/prnewswire/2021/10/06/japanese-startup-autify-raises-10m-series-advance-software-testing-automation-through-no-code-solution/"
 type: article
 quality: 18
 heat: -1
 published: false
 
 provider:
-  name: WAGMTV
-  domain: wagmtv.com
+  name: Upper
+  domain: uppermichiganssource.com
 
 topics:
   - AI
 
 images:
-  - url: "https://gray-wagm-prod.cdn.arcpublishing.com/resizer/eWPadbZLVdQD65T0SixB6Vk6gnM=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/UGZT4GNOUQYLYDBMSGKR4UJ4O4.jpg"
+  - url: "https://gray-wluc-prod.cdn.arcpublishing.com/resizer/eWPadbZLVdQD65T0SixB6Vk6gnM=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/UGZT4GNOUQYLYDBMSGKR4UJ4O4.jpg"
     width: 980
     height: 653
     isCached: true
@@ -55,6 +55,6 @@ related:
         height: 400
         isCached: true
 
-secured: "FVpEMJEO4R0/HXqnnkUDwXQBt3p4yfuBBJ2bIa2+ybZZ0Jk4mPTSb42XMy1PapZCtUJfABtyrSgP7U4nJzu5u8H0E4opSqlqcWXFBgRI1U7JPSbZlEalPC1lR28w2Th6+koDD6uF+g07M5yFxEJXicwGjg+2Sg3zGdRuuEuMI65vaRopzGuePOOKzIriRmstPRtpbK3eCDP1iJxT0WWMERj8Lw5oQOHo6NpOwITPERftjakxb8j2kNzqHir3T+FpWfpnTe35cB51bpuP3/payGc0PBGAsT8E6JKr7UDvbIs+rToMHuny6mzwD6hYKtSA4MXlqmrwWpmHvAxeH6ng2LM8wfBV2X0p5PUKOiUoG0M=;OQtqQ2OGN41vJHQWV4EW+g=="
+secured: "S2RDjhczrEa9/DFDVGnlOcxbSWHxw1doUy7k935Q1MkLSTuvB8wCrYcua1BqKI2evXEY0zRonWkVpV9GVzhjR4d7xZ+nShHCdsX3bkH6F69R/tlT8Hj2ZrEN5YLrf5FJ3FZ2X6+Bsz9NXrVUyiP9LEHbG3aUT9WyE9Tmf1w4ae4rszb1fUn9e4yjdmZEnMVW9pnJ67s5nqrMenJ210o/+h/IAQIbMUNHStRIyegHlVdXz69TLxfNMsDd2Pv5tLulE85YLAJFA77sTuX5oJBSpT/4yq9ufNj/b6F3lsAjDpBIiNU8OANvGsMwymK2Y2qExqrA0c9JFvZkl7IlhFx9LB3N8jQpRoSpqnClxtpwE9I=;97qgYXjboW9jIBaQVDvd5Q=="
 ---
 

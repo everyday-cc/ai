@@ -73,20 +73,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "Addressing facial recognition inequity and access bias in unemployment insurance benefits"
-    excerpt: "Approximately $800 billion in unemployment benefits have been delivered by the federal government since the onset of the pandemic—a staggering figure reflecti"
-    publishedDateTime: 2021-10-01T17:22:00Z
-    webUrl: "https://www.americancityandcounty.com/2021/10/01/addressing-facial-recognition-inequity-and-access-bias-in-unemployment-insurance-benefits/"
-    type: article
-    provider:
-      name: Government Product News
-      domain: americancityandcounty.com
-    quality: 30
-    images:
-      - url: "https://www.americancityandcounty.com/files/2021/10/alexander-schimmeck-AoI2E_7El1w-unsplash-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "MEPs back EU facial-recognition ban for police"
     excerpt: "The European Parliament has backed a moratorium on facial recognition for law-enforcement purposes – bypassing attempts from members of the European People's Party aiming to torpedo the ban on biometric mass surveillance in public spaces."
     publishedDateTime: 2021-10-06T05:12:00Z
@@ -111,6 +97,6 @@ related:
       domain: wlfi.com
     quality: 4
 
-secured: "VZSWgpC6gLN7+EncyFKE9naIlhEUoayLmAK5uLoNqbfOn9x8a5vUtUV1BhcXc6CqGiy1krO03VtUj73ay7/4008aTnymlHVSnHi1yujvObNDQ62RyWF012Xjswy7lFyNN225YBm8nJ2Nh4ym1xSRbZySiPOG4ViWf4R4kfInF5LshYpgIKYEfLu/2/TCh7uhbVDFayKVf0dH+4Ba5FWRqwondrX3aMZCavSzon1SnUkMwKLPgWvGIQAC6lZq82sGj8qNrK2H6M3gKgvJl7JGLOikS+xRbkO4zQLGdOhQpzUgdAFkIG5+0A0exGp+c0GwtQHfxoXKCqzYFqikRyhEqBmyulZ7WT5I/lQc/bBzdWQ=;8TYgE2FjaPGeBuJzbuuGeA=="
+secured: "utQn9x7Vjq5Jll6q3dlKpORpLyDXvXUqrZVc7hlzstmRb0lVkYFTpClOd/YBcBuQB0YdngFOt++JaX23PZ0B4iO2yZ8A9g57+eDI7e7Wx38rNYxgxiaNO1aZVpL1BeBZrkHSVH8SDr8x5s/i1UmPhO64xtiXC5YRMnKrQhHUnnDm48szI27kuu9e9oUkKHoFB+Dhk/oT/mUc8j8/vj2N2M1m7Tcuc94Geg5zuN9kVr6Ly3CwnRlAg++qIRpuFr4D5kmSegrmyCO6pSdHTYmsg/O+j4iSUMlpGBm6s+V8n99cFwAFtNmKVhnlzN9Z05snFPzlIyHq5tLM17fCuSG7D/JKovcKUCaRgEKERBcKg9nEhvflqGTQT62gSRO8m2iTXi5A/5hiLnCqTXt/PoUw+ivN+TO5mshptaSpgVx2S4+uBlrwi726/X8hnaCcgiXeHBS/7HdiiKKsMOzsSUVDSYLqsiC2c6CtAMRnc38PXr7zazVOh8FLV9XQD3YkvXl9tg6uZqCB7WLzmAfSnS32hg==;nGAa4NYX9PVwJ3uVmwtTHw=="
 ---
 

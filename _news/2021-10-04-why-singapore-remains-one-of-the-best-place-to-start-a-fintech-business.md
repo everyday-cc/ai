@@ -121,6 +121,38 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Singapore trials patrol robots to warn people of \"undesirable\" behavior: \"It reminds me of Robocop\""
+    excerpt: "Officials say the technology is needed to reduce the policing burden, but some worry \"Robocop\" is becoming all too real."
+    publishedDateTime: 2021-10-06T10:41:00Z
+    webUrl: "https://www.cbsnews.com/news/singapore-robots-patrol-police-undesirable-behavior-robocop/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/singapore-robots-patrol-police-undesirable-behavior-robocop/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/singapore-robots-patrol-police-undesirable-behavior-robocop/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 45
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/10/06/f714e494-d1a9-4b63-b8fc-03a0cef2efb5/thumbnail/1200x630/d5c92593b5eb5087a2f7ef39d4178e07/singapore-robot-xavier-1235122903.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Singapore patrol robots blast warnings at people engaging in ‘undesirable' behaviour, fuel privacy concerns"
+    excerpt: "From vast numbers of CCTV cameras to trials of lampposts kitted out with facial recognition tech, Singapore is seeing an explosion of tools to track its inhabitants."
+    publishedDateTime: 2021-10-06T10:09:00Z
+    webUrl: "https://www.firstpost.com/world/singapore-patrol-robots-blast-warnings-at-people-engaging-in-undesirable-behaviour-fuel-privacy-concerns-10031071.html"
+    ampWebUrl: "https://www.firstpost.com/world/singapore-patrol-robots-blast-warnings-at-people-engaging-in-undesirable-behaviour-fuel-privacy-concerns-10031071.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/world/singapore-patrol-robots-blast-warnings-at-people-engaging-in-undesirable-behaviour-fuel-privacy-concerns-10031071.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 41
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2021/10/640-robots-.jpg"
+        width: 640
+        height: 362
+        isCached: true
 
 secured: "u5eFxJeRQdgVKfljzXXpWZn4t+uPJGI256jkEHiqi80uBkERBT0GP4H/RPwWcDofCf6rsMNuAMgq349seH8D6OVwiVXXw22wrV2WMxVRi+8fcYmLcP2e7+rXE/VeWRWNl/on7hXHoNs+DVSLu6sf6SY1aALXidQlIdBILrQJfHvvktjA2wIj4ZJcPgm/6S7/r116AayuwE+jTH0sKtnpi5XG9W3dpzx9Pmuz5NyjqVdHOW1iEi7pMaNkIJ2BM6rToHpTXcUrjR18BIj3nPV1OegGs2r0XPA0he2/Uu+9MA91Zg++o0dHtE2KixUhnrzMNJOwTvUr04HNLKi6/Ht/ucGTFQ3UYSwZ91Ya9A6+lBLSVsVZegRi8CwV7kI6CiRAUxThqQgl0fXPCX/ff+tklFvwO16XjbJ9LJr5vZzakYWUSp0yCQ3rNvVa7EwgeeLWb0LoaMB9mzvabeBxpEO2Aeh6WgJ0Tjfp+MNtV/dxxwHxnchuc49nN18ZK1vFPfyCg+tOaxYuf1ZF8dyB0lMiEQ==;V/gqKhwNRQMo/KjN43K6og=="
 ---

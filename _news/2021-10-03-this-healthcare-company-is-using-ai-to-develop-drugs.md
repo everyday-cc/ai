@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -34,6 +34,20 @@ related:
       - url: "https://www.datamation.com/wp-content/uploads/2021/10/The-interior-of-an-autonomous-driverless-vehicle.jpeg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "Top 10 companies that are using AI"
+    excerpt: "If you ask about the only technology that is emerging today, that is Artificial intelligence or maybe you can say that it is one of the technologies that today’s companies are adopting it rapidly. There are many companies that are using AI."
+    publishedDateTime: 2021-10-05T13:44:00Z
+    webUrl: "https://www.linkedin.com/pulse/top-10-companies-using-ai-rejwan-bin-sulaiman"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQH4A01QBfCQMA/article-cover_image-shrink_600_2000/0/1633440642620?e=1639008000&v=beta&t=5NRexVdZcF7GI2e93SuDLCKKyXiGpiS-sjLvn0q-vpw"
+        width: 864
+        height: 486
         isCached: true
   - title: "Infusing AI to governments"
     excerpt: "Digital transformation is one of the main objectives for governments around the globe. Even though, public sector organizations see digital technologies as a top priority, the majority has not embraced Artificial Intelligence (AI),"

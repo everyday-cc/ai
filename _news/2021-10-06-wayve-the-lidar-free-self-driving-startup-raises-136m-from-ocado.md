@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 540
     isCached: true
 
-secured: "k5pMucu/8Ja3/ZNIVFFqbyC2sX7X/jQTvRuC6dBvSd1bSFmAgjPy2TLGCcLiV8WrZuBBMYfIYPmhGer6Wqmi9GcvHqAk58SFtaTffsAQpoFZxGYZlhomRTVa+3qLWumuqkvthwCAqwl5zFJ6HGPUbNRCGtIlN0Qi3ns0g/n4YZ08PoiPJPWKJwE+w95ZkzoAaLYa1ndi3CHWoJCxSRRFhdhljS+ZQ/ssVcMPXLCrjSbiaz/OgDPq/YRTk9+882YIttdl09SPGeTVpG/jrD2rTBfXPOjTJC8lbkiL98EMwqp9trDmvF4PAaHQ21eRp2qwvB9o79EQc+rMixa9jKp+0pM3X5d4n8MYUInNgB8AsyA=;6QE+V6OlL0YeIu3hG1icVA=="
+related:
+  - title: "Ocado Invests GBP10 Mln in Self-Driving Startup Wayve for Autonomous Grocery Deliveries"
+    excerpt: "By Joe Hoppe Self-driving technology startup Wayve said Wednesday that it has secured a 10 million-pound ($13.6 million) investment from online grocer"
+    publishedDateTime: 2021-10-06T10:47:00Z
+    webUrl: "https://www.marketwatch.com/story/ocado-invests-gbp10-mln-in-self-driving-startup-wayve-for-autonomous-grocery-deliveries-271633517236"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/ocado-invests-gbp10-mln-in-self-driving-startup-wayve-for-autonomous-grocery-deliveries-271633517236"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ocado-invests-gbp10-mln-in-self-driving-startup-wayve-for-autonomous-grocery-deliveries-271633517236"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "ruLrAmpDvkB6r9C3jsy09D+54hnKDLWeFKGK95z4j0UCHOR7qR+fUmtfcD7OxGbLKxUbTNZ+HzWmZIipoic1IHgVwKNZx0uDst8mtdv71vKFYH4Iv/P4C1hUnKc2Dl6Xg+tGin9z0/unrAMk5m3hN6cC9pE1aHm6hPDyNbnEV7UpyL0HypnYUP1MuDJ//dvTLpUQhaOX32fNmksIMdA6k/wz18Y59OJrHNdKODShUuKTr+893FXZQRR1nQSjdgz7WYVA6FH2AvMln2PwAMTz8p9MOv1Pe92wZkpctxknjaj+oPd5p00KYHB1COAX/9cbusP29VrqsJre4XZSgBjtF8OkfD/oAs/azoWH/cKyZU0PUVB3L3iu/Jn/UVte2H8ZVg8sz4buFfhCrKO89qLBQ9oHvgg5qoxqgasjSPlEJskW78/k2Z1TwGAc3OLPUUGPbcTQ1i/yYTsDtcEnnmch9h6oodvbJRhyEWT5XCXpNJrdMxlDoHnLBt6w6WmATJiSEYro4FWu9e1mrGpksfUeqA==;k+LVCemhj2XJewS05yt4Tw=="
 ---
 

@@ -36,20 +36,6 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 37
-  - title: "NZ airport face biometrics trial deployed against Privacy Commissioner advice"
-    excerpt: "New Zealand Aviation Security Service started trials of a new face biometrics system at Wellington Airport despite open concerns from the Privacy Commissioner."
-    publishedDateTime: 2021-10-01T18:21:00Z
-    webUrl: "https://www.biometricupdate.com/202110/nz-airport-face-biometrics-trial-deployed-against-privacy-commissioner-advice"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/13132346/airport-facial-recognition-masks.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Veridas sees strong voice biometrics adoption by call centers, Auraya accredited by AWS"
     excerpt: "Veridas reports impressive adoption of its voice biometrics by call centers, AWS accreditation for Auraya voice biometrics."
     publishedDateTime: 2021-10-05T19:59:00Z

@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "NZ airport face biometrics trial deployed against Privacy Commissioner advice"
-    excerpt: "New Zealand Aviation Security Service started trials of a new face biometrics system at Wellington Airport despite open concerns from the Privacy Commissioner."
-    publishedDateTime: 2021-10-01T18:21:00Z
-    webUrl: "https://www.biometricupdate.com/202110/nz-airport-face-biometrics-trial-deployed-against-privacy-commissioner-advice"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/13132346/airport-facial-recognition-masks.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Biometrics providers stake out facial recognition, fingerprint sensor market positions"
     excerpt: "Interoperability of digital wallets and health passes, smart city biometrics, inclusive national digital ID systems among the most read news topics this week."
     publishedDateTime: 2021-10-02T18:04:00Z

@@ -107,6 +107,38 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Singapore trials patrol robots to warn people of \"undesirable\" behavior: \"It reminds me of Robocop\""
+    excerpt: "Officials say the technology is needed to reduce the policing burden, but some worry \"Robocop\" is becoming all too real."
+    publishedDateTime: 2021-10-06T10:41:00Z
+    webUrl: "https://www.cbsnews.com/news/singapore-robots-patrol-police-undesirable-behavior-robocop/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/singapore-robots-patrol-police-undesirable-behavior-robocop/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/singapore-robots-patrol-police-undesirable-behavior-robocop/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 45
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/10/06/f714e494-d1a9-4b63-b8fc-03a0cef2efb5/thumbnail/1200x630/d5c92593b5eb5087a2f7ef39d4178e07/singapore-robot-xavier-1235122903.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Singapore patrol robots blast warnings at people engaging in ‘undesirable' behaviour, fuel privacy concerns"
+    excerpt: "From vast numbers of CCTV cameras to trials of lampposts kitted out with facial recognition tech, Singapore is seeing an explosion of tools to track its inhabitants."
+    publishedDateTime: 2021-10-06T10:09:00Z
+    webUrl: "https://www.firstpost.com/world/singapore-patrol-robots-blast-warnings-at-people-engaging-in-undesirable-behaviour-fuel-privacy-concerns-10031071.html"
+    ampWebUrl: "https://www.firstpost.com/world/singapore-patrol-robots-blast-warnings-at-people-engaging-in-undesirable-behaviour-fuel-privacy-concerns-10031071.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/world/singapore-patrol-robots-blast-warnings-at-people-engaging-in-undesirable-behaviour-fuel-privacy-concerns-10031071.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 41
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2021/10/640-robots-.jpg"
+        width: 640
+        height: 362
+        isCached: true
   - title: "Why Singapore Remains One of the Best Place to Start a Fintech Business"
     excerpt: "Singapore has consistently ranked amongst the top locations in the world to start a business, recognized by the global community for its competitive corporate tax rate, skilled workforce, advanced infrastructures,"
     publishedDateTime: 2021-10-04T01:40:00Z

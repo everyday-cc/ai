@@ -1,10 +1,10 @@
 ---
 category: news
 title: "A machine-learning algorithm to target COVID testing of travellers"
-excerpt: "Optimizing the testing of incoming travellers for COVID-19 involves predicting those who are most likely to test positive. A machine-learning algorithm for targeted testing has been implemented at the Greek border."
-publishedDateTime: 2021-09-22T15:19:00Z
-originalUrl: "https://www.nature.com/articles/d41586-021-02556-w"
-webUrl: "https://www.nature.com/articles/d41586-021-02556-w"
+excerpt: "A machine-learning algorithm for targeted testing has been implemented at the Greek border. Automated system allocates COVID tests to people arriving in Greece. Optimizing the testing of incoming travellers for COVID-19 involves predicting those who are ..."
+publishedDateTime: 2021-09-22T15:20:00Z
+originalUrl: "https://www.nature.com/articles/d41586-021-02556-w?error=cookies_not_supported&code=ff72bed4-9b5d-4dbf-9f17-27e0b691c5d3"
+webUrl: "https://www.nature.com/articles/d41586-021-02556-w?error=cookies_not_supported&code=ff72bed4-9b5d-4dbf-9f17-27e0b691c5d3"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 576
     isCached: true
 
-secured: "PgDKBF/ez/6nGCG/1E+v53KCO2LWh3TuMClOptGWn+uzin6Lr2X2seEXEtiy9x5MfSBMLCFc+yV+8+/owHRyDp10LdyKrw8/jtTEfHEaO2zQj24mT+WXCa68PSCUdX7GiO/1EHZoDtMZrmxW5FyIFbBPHdNOSuGGogK8HafZJuc+VQmpbBi+6ZDzMOwg5nH39BPKadOW38puDRG6xHsQrXR56xWR4MGPesbtrLws3Krr0Ld5PPjhvuAslHs6R9kQ9UdR2kgyhdPpXqVDGsiRPZKHpBQxg8X6zCpKU7IrYmWsTuq475wpxonuE+ug+m5ca9DYf4wosWYZes3bt/YrXO1tx33TaWUE6qLioY7aUEcXOyx2+X6xokrDMZoOru5B3PxNAQZtv/gm3tVQ5D3dYKnbLKCdjEBoQbnYl8M+H/s93mQ/paBE+CBXKYEFMV0MluB5kwMyN3ELS72Jz2DNgjIobJIOABYc6zCuhTwyPrTq+KmxuMt5O1tS1AB3LkAYCk9BUv4eTD0erQPe0//dZg==;fMLpmFjwLa5FcQv7HG4T7w=="
+secured: "JdkKycOVWSiI6BSENBZH0qfqdAWdrfCpTaeDJ3thGj1s/k33CVcDS77N5bsDUDH0PXAV9Tta18xA/KWR+7HUGkSFSQwwrkre2cF7FW1tGeQVQ3r6T1oNH3CUHwFNmPOF0xXGYfGAg2UonlIOTLWK83X3cBt9vuHJX1zpeRaldv/ClmkOVBngMsd0iZ6y8QZs04L78ZI8qhimyrQ2JEX6jdiBPZeieKAcsAqkiGYylKkEbFHKybl6AXDMV6PEenuSLcP1+TvB1LDvqJiaJWB2pun+1KFOsflXjsnFjJgbO4sxtF+qR5pDnmAL/FC51sHTSMPD/mdRONT+X0BJTdc5I4xX2sTsj6SMe59mAx+kOek=;j2BhE9/CRyVVngSFuRfUXA=="
 ---
 

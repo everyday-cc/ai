@@ -9,7 +9,7 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/55-selfdriving-ai-robots-deployed
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/55-selfdriving-ai-robots-deployed-to-sort-postal-mails-in-greece-1633433596516"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Robots give Greece's postal service speed boost"
+    excerpt: "There's a new addition to Greece's postal service: a fleet of yellow robots sorting through the mail. Fifty-five small, four-wheeled autonomous mobile robots -- or AMR's -- powered by artificial intelligence,"
+    publishedDateTime: 2021-10-05T15:59:00Z
+    webUrl: "https://www.reuters.com/technology/robots-give-greeces-postal-service-speed-boost-2021-10-05/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/mw--lj5UsgWqAMr7Rax6sj6IVLk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R2WEQVYR3ZNKFC3PWJSIQACGEU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Dozens of Four-Wheeled Autonomous Robots Are Sorting Mail in Greece"
     excerpt: "Robots supplementing the human workforce is no longer uncommon, as we’re now using machines in pretty much all industries. Today’s example is offered by the Hellenic Post in Greece, which now has a fleet of bots sorting the mail."
     publishedDateTime: 2021-10-05T14:57:00Z
