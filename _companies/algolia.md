@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "algolia"
   url: "https://twitter.com/algolia"
-  followers: 23526
+  followers: 23530
 
 size: 201-500 employees
 yearFounded: 2012
