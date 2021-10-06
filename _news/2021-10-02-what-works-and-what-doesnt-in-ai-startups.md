@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/what-works-doesnt-ai-startups-srama
 webUrl: "https://www.linkedin.com/pulse/what-works-doesnt-ai-startups-sramana-mitra"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 693
     height: 375
     isCached: true
+
+related:
+  - title: "What Should Artificial Intelligence do for Air and Space Power in the UK?"
+    excerpt: "A new series of commentary pieces published by the Freeman Air and Space Institute offers a deep dive into the world of Artificial Intelligence (AI), the challenges it presents in a defence context, and its potential contributions to air and space power."
+    publishedDateTime: 2021-10-01T23:50:00Z
+    webUrl: "https://www.kcl.ac.uk/what-should-artificial-intelligence-do-for-air-and-space-power-in-the-uk"
+    type: article
+    provider:
+      name: kcl.ac.uk
+      domain: kcl.ac.uk
+    quality: 51
+    images:
+      - url: "https://www.kcl.ac.uk/newimages/sspp/security/ws/feature-800-430/hand-and-robot-with-fasi.xdbead7ea.png?crop=780,440,0,5&f=webp"
+        width: 780
+        height: 440
+        isCached: true
 
 secured: "plqZ5S9LFiWMDdCGEnmPLf55aQ/yXhYVEi8KXbB37umiFgIVtQ6ZhF+at2yve4P4Fgm6E7jiYv2AGWV/kxCh0V1+u5ylvxQoICJ0aLNalelldIIcc8lWzGEwDPqdxO6NfitcAfjwCcrCVyEOuq0HvOmhsE2AuwqqDh6XdxbaZRqkAs23odbgZ9SA0tpy0cqz/GOaWM/cACaJxdEXdcJfZ0XCnI90qhzluqPm8+d0d1IWgXxDIZXIWuioh2GuCDtUKyvd/rRnX5LoPeyToEDqMwzRG4oOfZwCQEKZyPpTCXG959OSmOlM/kVfZ5OeJeGbggeY8hXxx5Wo/zZx5kJP2aZI/jOELFXj14vSwMwRegcs8UpoJS/OFVw0EZ8KMDt/11xij6yv7QqPM/1DegF0699UwWpRjchberwIQqfIe2VvnJE4f4mimPVT8IIl0JRzIWNiLr5qtLVEfBLlt/yPzm/7wZU3GKJu6/mW0Q4FLg1/h4MhOUrJQNxC5CqYgxpMQ+NCDwUpeXnk2358SZFfmw==;1zLVA/R5XLl8yPOSykoYpw=="
 ---

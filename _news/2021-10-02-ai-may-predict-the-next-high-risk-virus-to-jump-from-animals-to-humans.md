@@ -9,8 +9,8 @@ ampWebUrl: "https://scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/amp/"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: SciTech Daily
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI used to predict which animal viruses are likely to infect humans: study"
-    excerpt: "Artificial intelligence (AI) could be key in helping scientists identify the next animal virus that is capable of infecting humans, according to researchers."
-    publishedDateTime: 2021-10-01T16:11:00Z
-    webUrl: "https://www.foxnews.com/science/ai-predict-animal-viruses-likely-infect-humans-study"
-    ampWebUrl: "https://www.foxnews.com/science/ai-predict-animal-viruses-likely-infect-humans-study.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/ai-predict-animal-viruses-likely-infect-humans-study.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 85
-    images:
-      - url: "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2019/09/23/720/405/694940094001_6088542466001_6088555437001-vs.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Artificial Intelligence may help predict next pandemic, here’s how"
     excerpt: "Most diseases infectious to humans are zoonotic, caused by viruses originally infecting other animal species, like COVID-19.Identifying such viruses,"
     publishedDateTime: 2021-10-03T05:28:00Z

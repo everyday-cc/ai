@@ -59,6 +59,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Google’s elite AI division DeepMind turns in its first profit in years"
+    excerpt: "DeepMind turned in profit for the first time last year with a profit of £43.8 million, compared to a loss of £476 million in 2019."
+    publishedDateTime: 2021-10-06T08:52:00Z
+    webUrl: "https://www.technowize.com/googles-elite-ai-division-deepmind-turns-in-its-first-profit-in-years/"
+    ampWebUrl: "https://www.technowize.com/googles-elite-ai-division-deepmind-turns-in-its-first-profit-in-years/amp/"
+    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/googles-elite-ai-division-deepmind-turns-in-its-first-profit-in-years/amp/"
+    type: article
+    provider:
+      name: Technowize
+      domain: technowize.com
+    quality: 76
+    images:
+      - url: "https://www.technowize.com/wp-content/uploads/2021/10/DeepMinds-first-profit-in-years-e1633510299166.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Engineers At Google’s DeepMind Have Come Up With A New Way To ‘Nowcast’ Weather"
     excerpt: "Advertisement Besides making weekly or monthly forecasts, weather models are also used to make hourly predictions that are called nowcasting. This is done by a Google-backed artificial intelligence company DeepMind that is making progress in predicting hourly precipitation."
     publishedDateTime: 2021-10-02T18:54:00Z

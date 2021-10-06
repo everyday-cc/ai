@@ -42,6 +42,38 @@ related:
         width: 687
         height: 1031
         isCached: true
+  - title: "European Parliament calls for a ban on facial recognition"
+    excerpt: "The European Parliament today called for a ban on police use of facial recognition technology in public places, and on predictive policing, a controversial practice that involves using AI tools in hopes of profiling potential criminals before a crime is even committed."
+    publishedDateTime: 2021-10-06T08:38:00Z
+    webUrl: "https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/"
+    ampWebUrl: "https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/amp/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 59
+    images:
+      - url: "https://www.politico.eu/wp-content/uploads/2021/10/06/GettyImages-1168367649-1200x628.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "POLITICO AI: Decoded: Parliament wants to ban facial recognition— Experimenting with facial recognition rules — Big big bucks in AI"
+    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
+    publishedDateTime: 2021-10-06T09:41:00Z
+    webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-parliament-tests-facial-recognition-waters-experimenting-with-facial-recognition-rules-big-big-bucks-in-ai/"
+    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-parliament-tests-facial-recognition-waters-experimenting-with-facial-recognition-rules-big-big-bucks-in-ai/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-parliament-tests-facial-recognition-waters-experimenting-with-facial-recognition-rules-big-big-bucks-in-ai/amp/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 46
+    images:
+      - url: "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Addressing facial recognition inequity and access bias in unemployment insurance benefits"
     excerpt: "Approximately $800 billion in unemployment benefits have been delivered by the federal government since the onset of the pandemic—a staggering figure reflecti"
     publishedDateTime: 2021-10-01T17:22:00Z

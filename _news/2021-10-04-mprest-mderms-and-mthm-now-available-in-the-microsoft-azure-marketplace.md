@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business
 webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-7267fd563fd0b5bf1ec4e14e2429ec85"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?122508"
         width: 443
+        height: 250
+        isCached: true
+  - title: "Cognitive Services Market Is Booming Worldwide with Microsoft, Google,IBM"
+    excerpt: "It provides language, speech, vision, search, and knowledge APIs. The primary goal of cognitive services is to democratize Artificial Intelligence by boxing it into discrete components that are ..."
+    publishedDateTime: 2021-10-02T12:07:00Z
+    webUrl: "https://menafn.com/1102902620/Cognitive-Services-Market-Is-Booming-Worldwide-with-Microsoft-GoogleIBM"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 53
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?395119"
+        width: 444
         height: 250
         isCached: true
 

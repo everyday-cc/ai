@@ -1,27 +1,26 @@
 ---
 category: news
 title: "1st Edge Wins Advanced Technology International (ATI) OTA Contract to Develop Artificial Intelligence (AI) Solutions for US Army"
-excerpt: "Three-year contract will fund development of prototype software to streamline missile defense programs using AI and machine learning"
-publishedDateTime: 2021-10-05T15:56:00Z
-originalUrl: "https://www.djournal.com/news/nation-world/1st-edge-wins-advanced-technology-international-ati-ota-contract-to-develop-artificial-intelligence-ai-solutions/article_64db59ba-9269-56b7-bb53-3ffec35eaef7.html"
-webUrl: "https://www.djournal.com/news/nation-world/1st-edge-wins-advanced-technology-international-ati-ota-contract-to-develop-artificial-intelligence-ai-solutions/article_64db59ba-9269-56b7-bb53-3ffec35eaef7.html"
+excerpt: "Three-year contract will fund development of prototype software to streamline missile defense programs using AI and machine learning HUNTSVILLE, Ala., Oct. 5, 2021 (SEND2PRESS NEWSWIRE) — 1st Edge, a leader in designing pragmatic solutions using Artificial Intelligence and new technologies,"
+publishedDateTime: 2021-10-05T15:57:00Z
+originalUrl: "https://apnews.com/press-release/send2press/technology-business-huntsville-software-artificial-intelligence-53a14492dfde66eb2050d7790e12c014"
+webUrl: "https://apnews.com/press-release/send2press/technology-business-huntsville-software-artificial-intelligence-53a14492dfde66eb2050d7790e12c014"
 type: article
-quality: 25
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/c4931bce-e1a3-11e6-b934-53284b68f006.jpg"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -66,6 +65,20 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 55
+  - title: "Global Artificial Intelligence (AI) in Medical Market 2021 Status and Outlook, Industry Growth Rate, Opportunities and Challenges to 2027"
+    excerpt: "MarketsandResearch.biz has presented a new market study on Global Artificial Intelligence (AI) in Medical Market 2021 by Company, Regions, Type and Application, Forecast to 2027 which delivers an executive-level market analysis that will help clients to build strategies to expand their market operations."
+    publishedDateTime: 2021-10-06T01:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-medical-market-2021-status-and-outlook-industry-growth-rate-opportunities-and-challenges-to-2027-2021-10-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "New Study from StrategyR Highlights a $3.5 Billion Global Market for Artificial Intelligence (AI) in Call Centers by 2026"
     excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
     publishedDateTime: 2021-10-05T15:55:00Z
@@ -95,6 +108,6 @@ related:
         height: 400
         isCached: true
 
-secured: "gkyhtfjnaUCgp19FsWtoTo39nd8CSg3p9ssNOjugM+H7DJTsO0rk6JtoFRpWrWcxrZAWnaBsjlkJfVTJmSI/oDwxvKAGzEznGBJcNvNlGvLhaRgb1l5C43Y9jrexJMS47TYuPClGtQusPRaYVtCaSmyb45P5wWGDt6bk6zuT6uc2CiZCbpvzCzJjP0LEZnvViEHMZEfSOGIrVaQyx/GJkXVzOHSN1wqisDh6l4htRg+IUCnv14kmb0tDW+ZXzjsj+8bM1DtpOjUKUm++x2PtfPWRYynDGOsmcTwLrTwsOXP/xtPsY4xQDgJRESu/dLKLch3qOCrg3xaWaMnXFPz0zkbAwVH9WGkFRtNlV/Gd3OU=;bcsTi4HDBCLXfGDaNHXzQQ=="
+secured: "DOK79XtLCotkpsbMMegISV0TM7OWMEe/aj7RJaPhLwEibZkRXOZOjMfquv1YGtDfmsBt4CvyaVGXiM5LLhAAnRgUqK+XAMzLQvORkhvpP0bF3orpn1zHTkF47qQO/kuB1i0mzzE/6DJuEq0Q4hVoMfYFBUqGfdYvS3H3s1N4M4MQyt0wRORC1IRP8HDTsMWLbgWznLRn/v+vcY2NSUrVsYZbYnAJ/akSP/alGP0NAm92OhNoF7vaG6KAEJ9+MMhPyJtuDzPdP3Zj+y2ddBoLYYTY5qi8rlnFwf4wo6dgtRCZ2TfLygzD7lVxcqpqzNYr2f6EhaI3jYZior/A3xO79pJpAmAJuvdEmALCpM6xacs=;M0bxE4FuJKFH8r+w0VOfig=="
 ---
 

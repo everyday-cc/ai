@@ -1,30 +1,32 @@
 ---
 category: news
 title: "Artificial intelligence is smart, but does it play well with others?"
-excerpt: "When it comes to games such as chess or Go, artificial intelligence (AI) programs have far surpassed the best players in the world. These \"superhuman\" AIs are unmatched competitors, but perhaps harder than competing against humans is collaborating with them."
-publishedDateTime: 2021-10-04T18:53:00Z
-originalUrl: "https://techxplore.com/news/2021-10-artificial-intelligence-smart.html"
-webUrl: "https://techxplore.com/news/2021-10-artificial-intelligence-smart.html"
-ampWebUrl: "https://techxplore.com/news/2021-10-artificial-intelligence-smart.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-artificial-intelligence-smart.amp"
+excerpt: "When Lincoln Laboratory researchers paired humans up with an AI model trained to play a collaborative card game, they found that humans hated playing with the AI teammate when compared to a simpler rule-based agent."
+publishedDateTime: 2021-10-04T17:15:00Z
+originalUrl: "https://news.mit.edu/2021/does-artificial-intelligence-play-well-others-1004"
+webUrl: "https://news.mit.edu/2021/does-artificial-intelligence-play-well-others-1004"
 type: article
-quality: 57
-heat: 57
+quality: 67
+heat: 67
 published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: Massachusetts Institute of Technology
+  domain: mit.edu
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-35.jpg"
-    width: 900
-    height: 506
+  - url: "https://news.mit.edu/sites/default/files/images/202109/Hanabi-Experiment.png"
+    width: 2000
+    height: 1333
     isCached: true
 
-secured: "3P/eQaHjXlSGrdNSYlXa+62+FeoSUzP3QcBLswqe+Mtr7VWznJp0y+h44YLavzv5W5p8fLvGVb40CIQs8xEoYSXi/uUfRGDxY54mAmH+Vd2zrEmQ8rASrIHWbFnK60/CZ23ELjXvc+LfAD8IzLmPOL7oprISiav6IPLeYAAbMZ/2bI1T9zEcrD1F7COdicA2rHklE8BIX/xO+0i/JYnQ0eHo6otk7kmAyD+aW+VdJcEGpWQNBicQpVMsum2hXgLI3AfTBqqtyJaVQQl0pUXsgiPXz03XLPWVJP6mY79PlzhvkKPRwGhD7bZZmNq6DX4rKp6Bw6iZj63csUHKz8BQ3g0DAkh+1BlBoyeXP5ByY7FASTEx5X8/REyxGfTHZ0xFrsDEd1vf+cXDBFH4HmUY6xIaxpiJaT0DPc1eBwcBsO1essMPOmcebJMiUaU/WwqU8l6g2UaAzUgTVCU9f7PcmNAnJDJQrbFAYDUvPQCiv9QZbCH0mbpBTRFgJJ66m9E8qjUG4GKOY6zy3azkEnZIoA==;MNqrt2/CI1qJlqU8GOcUTQ=="
+secured: "fEGZYM5P6uVL2IgNZX+OtI4rWfEt+yc7ap1rDHWSDGop5HU6QPAkzDX199sc0gb4rTIMBIY7OWXkQVHGhdjJWRocyY925Vhpgl3XLKb/lTJnL+9k1qKzMSK2e/VZbkRD8pq38YeSITxea474+XjohA6qEX8s0XuN6lylfe4kwmskleIoCDO1HBEcJ8X6P23zeGEm3uwlZ8TifaHrPNC3yMOOvQ8w63t+R3dyBrSxJPazG3v+PTvG9We9GxolApYRaWMuOwg9kkqUArAklJVxZ2Ezu4JwaeNkctlH3AfJNaiZLUtCn9zeAGPM18TL/XRYJ0i6QMhfpBp4+nq6SMYWj3BW/6aQWJ+RGSq7tTL8wOc=;8Sh5KEC+9fLEgfK4o52vuw=="
 ---
 

@@ -57,6 +57,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Google’s elite AI division DeepMind turns in its first profit in years"
+    excerpt: "DeepMind turned in profit for the first time last year with a profit of £43.8 million, compared to a loss of £476 million in 2019."
+    publishedDateTime: 2021-10-06T08:52:00Z
+    webUrl: "https://www.technowize.com/googles-elite-ai-division-deepmind-turns-in-its-first-profit-in-years/"
+    ampWebUrl: "https://www.technowize.com/googles-elite-ai-division-deepmind-turns-in-its-first-profit-in-years/amp/"
+    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/googles-elite-ai-division-deepmind-turns-in-its-first-profit-in-years/amp/"
+    type: article
+    provider:
+      name: Technowize
+      domain: technowize.com
+    quality: 76
+    images:
+      - url: "https://www.technowize.com/wp-content/uploads/2021/10/DeepMinds-first-profit-in-years-e1633510299166.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Google sued over DeepMind's access to 1.6 mn UK patients' records"
     excerpt: "UK-based law firm Mishcon de Reya has filed a class-action lawsuit against Google and DeepMind over their access to confidential medical records of approximately 1.6 million UK patients without their knowledge or consent."
     publishedDateTime: 2021-10-02T12:00:00Z
@@ -141,6 +157,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "XRTunyubZW1eYGIDfSCWKhuA2L/VQ+gNYNEw9emCDjQvVV5Gh40nA3X6vHzs7887l5JrEkc/tD5AAkWfHLdMlnDstw4/Jtqve673DLpcDZgwCtPn0B/as9tHkR7M9emdUyIqvDpAfKlSURU0hDgA+qCQjSw2ztkU+cN35Bovg3ezR0ds2g9TkaWbL+4DQAnMIZSIcLlLFpm24L8fnqIWJooxQhBR65MzF/vZNWfKDHFSe930Vc1oK4Qvcy0MvirNEiY0+5gIoTW16EvgKgUXhqqZb6A3dYhLuiFnCIByWM0t2pzef0aSMH79jVqsK4BN3hPPXJnAxNPLEP531EzTLZ9lUmZ0JprxpfIqTd+NAjc=;dYbg9AQsDu/e2TEBCawY0w=="
+secured: "sjjHs7nbdM7q+tkt7hiHi+kYLDS5s4gho7gZkJkXgbGkVQmddvSG2zUXUQ0V/ouzk5YOU/Sv3RfG7RozlAc6X1+neO6xmoFLfSrY/wwaYXWo1G79QmlLYdPCmGerBckWwRdTXQerTgqrJ1GOn0rMVx6k31zvFg9eQFzDIiBOiZ/ogplPypH22oRBvoYNmhfIkMCaBlFdWaVnWMTpmZU3QkiOmkqwncTJZvCUsLujJ24EnujWlAbJRCvofnstSUyutsfL4VtTq+ktdNDxOAqFKfaLx1g215K0Qskb5IgFpq2gKgkPPbLNvvz1wLmkLcdosing/iaDSp9mVz6YM9q0Dpwj4dlb/4gdQTGRsWdujDAH/6adE+Yv9He5Cj74sBAJ52lW2S2INuU0i5yVyFr/nXhOvoWPCiRSIXCuvCN524uA4rtsGB13JtbUPF1PrygBe47R3i5R57KVNzP5LGQKjGVQIHOnlMdxB/ip0k3vonP1zcONM8SEU0Kd54LqJvJGpUPTAeRaHQqDZeOrTGo9Wg==;5ENSIiH0+iLMECPztad2hA=="
 ---
 

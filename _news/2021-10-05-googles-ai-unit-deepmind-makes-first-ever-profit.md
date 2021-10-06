@@ -44,6 +44,22 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Google’s elite AI division DeepMind turns in its first profit in years"
+    excerpt: "DeepMind turned in profit for the first time last year with a profit of £43.8 million, compared to a loss of £476 million in 2019."
+    publishedDateTime: 2021-10-06T08:52:00Z
+    webUrl: "https://www.technowize.com/googles-elite-ai-division-deepmind-turns-in-its-first-profit-in-years/"
+    ampWebUrl: "https://www.technowize.com/googles-elite-ai-division-deepmind-turns-in-its-first-profit-in-years/amp/"
+    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/googles-elite-ai-division-deepmind-turns-in-its-first-profit-in-years/amp/"
+    type: article
+    provider:
+      name: Technowize
+      domain: technowize.com
+    quality: 76
+    images:
+      - url: "https://www.technowize.com/wp-content/uploads/2021/10/DeepMinds-first-profit-in-years-e1633510299166.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Google sued over DeepMind's access to 1.6 mn UK patients' records"
     excerpt: "UK-based law firm Mishcon de Reya has filed a class-action lawsuit against Google and DeepMind over their access to confidential medical records of approximately 1.6 million UK patients without their knowledge or consent."
     publishedDateTime: 2021-10-02T12:00:00Z

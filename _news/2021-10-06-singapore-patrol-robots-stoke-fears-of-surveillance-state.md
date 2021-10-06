@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Singapore patrol robots stoke fears of surveillance state"
-excerpt: "Singapore has trialed patrol robots that blast warnings at people engaging in \"undesirable social behavior\", adding to an arsenal of surveillance technology in the tightly controlled city-state that is fueling privacy concerns."
-publishedDateTime: 2021-10-06T07:28:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/nation/2021/10/683_316577.html?fl"
-webUrl: "https://www.koreatimes.co.kr/www/nation/2021/10/683_316577.html?fl"
-ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316577"
-cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316577"
+excerpt: "Singapore has trialled patrol robots that blast warnings at people engaging in \"undesirable social behaviour\", adding to an arsenal of surveillance technology in the tightly controlled city-state that is fuelling privacy concerns."
+publishedDateTime: 2021-10-06T08:13:00Z
+originalUrl: "https://techxplore.com/news/2021-10-singapore-patrol-robots-stoke-surveillance.html"
+webUrl: "https://techxplore.com/news/2021-10-singapore-patrol-robots-stoke-surveillance.html"
+ampWebUrl: "https://techxplore.com/news/2021-10-singapore-patrol-robots-stoke-surveillance.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-singapore-patrol-robots-stoke-surveillance.amp"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
-  name: koreatimes.co.kr
-  domain: koreatimes.co.kr
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202110/0fe80a9f59bd48d6a2f4efe4b5b2b5be.jpg"
-    width: 980
-    height: 653
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/armed-with-seven-camer.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -75,6 +75,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Singapore: Patrol robots seeking 'undesirable social behaviour' spark privacy concerns"
+    excerpt: "The trial of patrol robots has sparked privacy concerns in Singapore. These robots are designed to blast warnings at people who are seen engaging in \"undesirable social behaviour\".   Singapore is seeing an explosion of tools to track inhabitants."
+    publishedDateTime: 2021-10-06T09:18:00Z
+    webUrl: "https://www.wionews.com/world/singapore-patrol-robots-seeking-undesirable-social-behaviour-spark-privacy-concerns-418598"
+    ampWebUrl: "https://www.wionews.com/world/singapore-patrol-robots-seeking-undesirable-social-behaviour-spark-privacy-concerns-418598/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/world/singapore-patrol-robots-seeking-undesirable-social-behaviour-spark-privacy-concerns-418598/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 51
+    images:
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/10/06/214716-singapore-patrol-robots.jpg"
+        width: 918
+        height: 506
+        isCached: true
   - title: "Robots Patrol Singapore Streets to Police People Engaging in ‘Undesirable Social Behaviour’"
     excerpt: "Officials have long pushed a vision of a hyper-efficient, tech-driven \"smart nation\", but activists say privacy is being sacrificed and people have little control over what happens to their data."
     publishedDateTime: 2021-10-06T04:01:00Z
@@ -106,6 +122,6 @@ related:
         height: 250
         isCached: true
 
-secured: "o5LSH8W2+R4y7WoQl39iNUoYuHSZNc4e4th0xOC8SNpz+ji3Y1ZmRt9QTygWcDwpH9gmrcqjT3WqI4lBrkuj8ytseS5RIBDYMLVLWVxJg5zIAenKqAigtGStEUrcv5TZPP6/I1n9mirR7zmKfNZ8apBKf9F1VMI2OW8mkTwVvI3n5CiHfU9E5lHa/SOdLI8F+StarOVIMLmQkjmfNTj4hStn2sKkW5g4oKoHZObBnJzHJCMZCgkECMB6PY6UaoCkb+k2gwOJZz+RqScca6o9BDfvgl0NKOyN2UlQQTIHZ80MdB6vVr8bFVmSemaeHNe9pUTqTp2LvEyDmVAsvxrVSKwRqo27iKt7quX4rglr6uA=;i9s0NHFYCn5R6nGmWviV9A=="
+secured: "HgqXNGjkvNWIPzsgCKbF85DxBrg5sgYA8TP3O+ChT6ZuSJH4/IGDp4TceXflxMp9J9noRhOXBY1Hcu9cB6LE/bBQD9CIPH7zNxcnh6+tm4+AG/SZIQBHGIQWTEf7MXCC4okgFnwt/C/xEPKhAOUwJUkcLjMlC82Osl8wGyrWoE/9kJz8PQL/6B60OTa/ursNOIEuuXfsY9smkhIXKHzhixZkEo7JQdmJ8qvlbUlKF+aDWWMWnURLGE7mNwTdZ84GrCmqiE1P4tIgEbCHVnWkcjLrYpMKTWd0o+5LarTUZJpZVC/vahRtJz/eu+POgLPTDBRQfRKM8r3x1bLGTfme9nYYF0hTgK6mUvTcpDz51nQ=;VgiPTUWy8OpXl+mjEnpTgQ=="
 ---
 

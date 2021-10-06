@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/forget-about-cars-honda-wants-flying-v
 webUrl: "https://thenextweb.com/news/forget-about-cars-honda-wants-flying-vehicles-avatar-robots-rockets-lunar-tech"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Next Web
@@ -27,22 +27,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Honda’s Vision Includes Air Taxis, Rockets and Robots"
-    excerpt: "A part of its “2030 Vision,” the company from Tokyo is looking to the sky and to robots and sees these advancements being offered by the 2030s and 40s. The first is air taxis. This would build on HondaJet,"
-    publishedDateTime: 2021-10-01T15:25:00Z
-    webUrl: "https://www.manufacturing.net/video/video/21747589/hondas-vision-includes-air-taxis-rockets-and-robots"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 54
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/10/mm1021.6157238e46294.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "30P67L0GQw+6n0jnCt2AcgEyUz6bHnRg58h/uZ9qARstPGG70EdkLFA5fkBBFmEdA3YaLyfzmZ77yqGdPf/QQa+EgsWgbeAykuBpdydX4xPr2gFPFRMQ335ZhdK0vAZQ8mwQMwOyuqZXV1L6RTMXHiER0TczdNet5siS//EaRh28b3DC+WFl/2ngRCP2EInYaTwLeTyFHNOWdAjw3c9vArmEHR1Xdh6JTlVfSkmHfsyUHyFvn3Kw5tNa2SqVbacPV1ifJj1kJTJQgsbUgiJs5VkM0IQcdXiblWShs+lWKwccIXwNMywNJ1F3Kk/fPwW43nnOAh/42Bc/b6ZfZxEQVZ+vQAuiQwz+0X1kgLKfFbRLjOfWMO6SOoZS6AlhJUmH/o4Ug96P3tEOTzeHft10YqaI7dCayEsHHhXWwSQkmzCtiXpHNtdJrreWnF80V+1Iqsq9ViqmZaH9HnX3fHzE/QV1NYibHpEun29xxDaPYyQcBcDVUBQUxIUwQtWV/V2wwuf3FAhnJFwKymD2/sxBzg==;IEhe7koWV/+GYbYQ+OYZSg=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.cioreview.com/news/ethical-issues-of-ai-nid-34549-cid-
 webUrl: "https://www.cioreview.com/news/ethical-issues-of-ai-nid-34549-cid-175.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: CIOReview
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tata Power ropes in AI firm BluWave-ai"
+    excerpt: "Tata Power on Wednesday announced that it has roped in renewable energy AI (artificial intelligence) company BluWave-ai. \"Tata Power, India’s largest integrated power utility, announced that it has signed a three-year commercial agreement with BluWave-ai,"
+    publishedDateTime: 2021-10-06T09:43:00Z
+    webUrl: "https://www.outlookindia.com/newsscroll/tata-power-ropes-in-ai-firm-bluwaveai/2173823"
+    ampWebUrl: "https://www.outlookindia.com/newsscroll/amp/tata-power-ropes-in-ai-firm-bluwaveai/2173823"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/tata-power-ropes-in-ai-firm-bluwaveai/2173823"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 57
+    images:
+      - url: "https://www.outlookindia.com/public/uploads/no-image-new.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "ICAI holds meet on Artificial Intelligence"
     excerpt: "The Institute of Cost Accountants of India (ICAI)-Bhubaneswar Chapter held a seminar on “Artificial Intelligence” at the CMA Bhawan here on Sunday. Chief speaker Nalco GM-Systems (Marketing) Ravi Mani"
     publishedDateTime: 2021-10-05T18:49:00Z
@@ -39,21 +55,7 @@ related:
         width: 325
         height: 325
         isCached: true
-  - title: "Inside the happy heart of Ai-Ai de las Alas"
-    excerpt: "Everybody’s favorite funny woman Ai-Ai de las Alas has her hands full at this time, especially given that a new season of The Clash has just commenced. It is the singing search program’s fourth season,"
-    publishedDateTime: 2021-10-04T11:33:00Z
-    webUrl: "https://businessmirror.com.ph/2021/10/04/inside-the-happy-heart-of-ai-ai-de-las-alas/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 37
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2021/10/life03-100521.jpg"
-        width: 720
-        height: 838
-        isCached: true
 
-secured: "iv+Mn1dVUNu9xqZTbZC/785U/JrDL8zvDDH+R3l0UiCF56TsGwUdo2uuus79icp+aRDoN0AJjpnC6nBagx7LXNIbpl45RQyaqve0DKqXF8KWQOK6atVmBEKaXMfElJ5naOHO0Q7UbE9NSivhoHWkuJ8IbbpK+B0pTHlzZwYk7sAcxhXhaLyJ2F9mdb8YzRpTFWa8AyfxOhToMfMghKrYCY0lz60GPgv1Nj99DBIaz8to0HbfvgDE8ud3T7qqktsiGpQPhalf4DF+Y0MDboGEwsxsUBEv5IGm9RpCpHhZW7eJuUEjaC7ZKy1VyLoYFHpXg3FHfZ0pjX+G20PK9AkDWrKrAUvqpdi3L8P6pzDy7Ug=;SVCCV/T/tjga3bPT7/LZHw=="
+secured: "McvItgVmvBxHWIBd76fh5zt5tV7MCKn+SC6YhxjJRiQj224Ct64iZ5O/LwYOECzzAw7Q06cUKkQk7xlN6OUPQpzNyGhpSWyVn1F0C81w3wDo6Gr3/I650WRSNOocvRzAgBtFLiZZm3/824xEbjyc8EmTN/tQ0YG1mshkqvHw7vYoPzRC5LULjXKUiTWlG+NRkMRzcYwIbD94HcvHb0L9kKm4JdZFxl4f0wZYBaFdnV1vuiunqcxSh1M/6X+WSU+P/mdE94t7p39T85jxz6kuQmoEEmkvLq0shmJdx6K/8shs73aHXShrHf/b3F0FLg94nbWNOBL5Z5iuwFigkOA1NrrWzmirvkDa2iZjB0xMbE+w7EgUax9Cc7dKATfPmaSdIfmo3nePUuHS3RLGiKeANP+7bctLiwlC9BYfd1AvXLuyNfMEub4QS6kDoe2rOfFIVFlXjEj2/DscZ5Ed1qDLioB1kCLNb5D6zJKADYrbdL8VU9PA93rGAI5zElRwzxbZqlrM8meJdhAPLFXyImCAew==;P0j8fN9e3GHwv3up2YMWxA=="
 ---
 

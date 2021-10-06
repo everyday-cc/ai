@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Kiromic BioPharma Announces Chief Financial Officer Transition"
-excerpt: "Kiromic BioPharma, Inc. (\"Kiromic\" or the \"Company\"), a pre-clinical stage biotechnology company using its proprietary DIAMOND® artificial intelligence (\"A.I.\") platform to improve drug discovery and development with a therapeutic focus"
-publishedDateTime: 2021-10-06T02:16:00Z
-originalUrl: "https://www.lelezard.com/en/news-20032288.html"
-webUrl: "https://www.lelezard.com/en/news-20032288.html"
+excerpt: "Kiromic BioPharma, Inc. (NASDAQ: KRBP) (“Kiromic” or the “Company”), a pre-clinical stage biotechnology company using its proprietary DIAMOND ® artificial intelligence (A"
+publishedDateTime: 2021-10-06T09:51:00Z
+originalUrl: "https://www.financialbuzz.com/kiromic-biopharma-announces-chief-financial-officer-transition/"
+webUrl: "https://www.financialbuzz.com/kiromic-biopharma-announces-chief-financial-officer-transition/"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "fZ+eJ9irPGNxCQ+0Hv6ltt1WXuQWKz7ho+2Sa9V1draEWLGB2IINWsAKhducQSegMsMhgjmyaqMVgLqt707e6aa8klY7occ2z3WrHqJuPSmsYBaqe60dotsYXE0fPwtbtJKGLv5wAFktdvtnEtR+Js4X1ZC1WYDt3iscQc5NHqgE40CgtPeIw3poJwpC/k2usdENId68LRh3ymBHgq9UgH86wJXFCG6mSbPk2DleXhZ0FtZniHkGzj8M0eUIzHSnaPLUDtdY/p0gr4shY59FXoppeI8RgKwcnDbTxRGOBjBCXf9BRgcM1W5SfnV3XGN68Z3bbD/R7fNj2Y+yUZkURvKmmQ5T81Tia8c+VNvtyw4=;xXHyZ91pCw80bBnd/6oKJw=="
+secured: "MtqbOS2WFUboxdh2LCBpAoo1HAdme4UE/tJ9uNgaC9v/WLo+hPUy4YAk8E2gIHHSvV1LCGWC/PFfg6PUHjpB3cv4mUS0H+p0VzanTk+GZRj5l+fMhMbFlKk1fHeIFVeTGYy9gyUmiZdJG8bZuuvmgxKX3igN514rn5KC5zSHPhc3TdmshUQ7iTAZAD/pxtvw38bw4LO5tYDt2UzznzmMfCwqe81jhl5RxrXpBlwuH7BUGC23HuKh6k2HEfkE0ZsVBqb84Xs2N0+qDoaRJYop71vTu5au804iwk1Zd5RlI2lqWZJnVgCBOejHsk/ZWaSp55Bm764X0zY091kSHcRgKTJZEFaQQFqZKNnObOm+5ys=;VNBcP/eCcZFV0H3Uhoy5qg=="
 ---
 

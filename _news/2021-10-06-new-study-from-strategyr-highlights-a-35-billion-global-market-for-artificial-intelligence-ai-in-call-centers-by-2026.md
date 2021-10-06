@@ -66,6 +66,20 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 55
+  - title: "Global Artificial Intelligence (AI) in Medical Market 2021 Status and Outlook, Industry Growth Rate, Opportunities and Challenges to 2027"
+    excerpt: "MarketsandResearch.biz has presented a new market study on Global Artificial Intelligence (AI) in Medical Market 2021 by Company, Regions, Type and Application, Forecast to 2027 which delivers an executive-level market analysis that will help clients to build strategies to expand their market operations."
+    publishedDateTime: 2021-10-06T01:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-medical-market-2021-status-and-outlook-industry-growth-rate-opportunities-and-challenges-to-2027-2021-10-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "New Study from StrategyR Highlights a $3.5 Billion Global Market for Artificial Intelligence (AI) in Call Centers by 2026"
     excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
     publishedDateTime: 2021-10-05T15:55:00Z
@@ -81,18 +95,18 @@ related:
         height: 630
         isCached: true
   - title: "1st Edge Wins Advanced Technology International (ATI) OTA Contract to Develop Artificial Intelligence (AI) Solutions for US Army"
-    excerpt: "Three-year contract will fund development of prototype software to streamline missile defense programs using AI and machine learning"
-    publishedDateTime: 2021-10-05T15:56:00Z
-    webUrl: "https://www.djournal.com/news/nation-world/1st-edge-wins-advanced-technology-international-ati-ota-contract-to-develop-artificial-intelligence-ai-solutions/article_64db59ba-9269-56b7-bb53-3ffec35eaef7.html"
+    excerpt: "Three-year contract will fund development of prototype software to streamline missile defense programs using AI and machine learning HUNTSVILLE, Ala., Oct. 5, 2021 (SEND2PRESS NEWSWIRE) — 1st Edge, a leader in designing pragmatic solutions using Artificial Intelligence and new technologies,"
+    publishedDateTime: 2021-10-05T15:57:00Z
+    webUrl: "https://apnews.com/press-release/send2press/technology-business-huntsville-software-artificial-intelligence-53a14492dfde66eb2050d7790e12c014"
     type: article
     provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 25
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/c4931bce-e1a3-11e6-b934-53284b68f006.jpg"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "+yb8mu/8qX4Px8ktSBGKgy8XoNlrI5fZyXPAw82YmkIZnpgNWO11KwB5Xhg69125TBbnTj3CC8aypfkJClkCR+6dU2V0N6f+xyVeOnjYTxFoIVbOUqZKuqWvzb3NCASjeyR1PlSnvdGEQtEcdGhu9slmli89pdBnI5ITiobYJ25Wk3fK5KzwcA8G0Bk25GpleokqMJtDif9wu7M0lVdJQpwUQfnJuBaazPpWD1w54JE4Qe9m7p6UJbRENS0hrKgsXuM4C2QQF63kRDMbCpA5DO7YtQnrC33FmXPjanAeUXSjTWBv0K4GF8tB64UxnlB3H3xhwAIoxd22AHjxZeAZAH70UC/0ShHMsn4L3sdCaQhLl78fP3RMGSI6QGv+dyoYSbSHcEmnjGLZTxEnq07v3HKw/FmPOD8HwO5V9e8Z6U1FpYzXjcfL84rQcj9/arXMVasvaZbFMixQLU/lxLXebQ6FFGbQYgigWYIeuliuhH/4/xXAgSMTg6dOgd76H8RVj1N8/uYGm77x522xR2H0EQ==;yM8KYVCoId+ioDNJCTa/kA=="

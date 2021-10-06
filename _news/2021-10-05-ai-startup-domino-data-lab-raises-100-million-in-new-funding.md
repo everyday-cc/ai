@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/ai-startup-domino-data-lab-raises-100
 webUrl: "https://www.wsj.com/articles/ai-startup-domino-data-lab-raises-100-million-in-new-funding-11633438800?tpl=pe"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Thankful Raises $12 Million for Customer Service AI"
-    excerpt: "Venice-based Thankful AI Inc. raised $12 million in Series A funding for its customer service artificial intelligence platform. Thankful plans to use the funding to further develop its AI to include features such as greater personalization and the ability to upsell in customer service situations."
-    publishedDateTime: 2021-10-04T07:06:00Z
-    webUrl: "https://labusinessjournal.com/news/2021/oct/04/thankful-customer-service-software-12-million/"
-    type: article
-    provider:
-      name: Los Angeles Business Journal
-      domain: labusinessjournal.com
-    quality: 37
-    images:
-      - url: "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/10/01/PG16_TECH_THANKFUL_1004_-_Ted_Mico_t670.png?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Nvidia joins $100M funding round for MLOps startup Domino Data Lab"
     excerpt: "Artificial intelligence startup Domino Data Lab Inc. today disclosed that it has nabbed a $100 million investment from Great Hill Partners, Nvidia Corp. and existing backers. San Francisco-based Domino Data Labs said that it will work more closely with Nvidia following the funding round."
     publishedDateTime: 2021-10-05T17:54:00Z

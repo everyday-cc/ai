@@ -48,20 +48,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Health2047’s new company plans to use AI, research access to improve clinical decision making"
-    excerpt: "Called RecoverX, the company will leverage AI to mine evidence-based research, medical charts, patient conversations and test results and provide clinical insights for clinicians in real time."
-    publishedDateTime: 2021-10-01T16:50:00Z
-    webUrl: "https://medcitynews.com/2021/10/health2047s-new-company-plans-to-use-ai-research-access-to-improve-clinical-decision-making/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 26
-    images:
-      - url: "https://medcitynews.com/uploads/2019/02/GettyImages-864483382.jpg"
-        width: 724
-        height: 483
-        isCached: true
 
 secured: "veEBWR0Spv0kCC8TESBAHTE/rpVGwmDME/2fxclZ9iaydfrdiXgLfKFFH77b9lZMOGdwxMKVDLH0zKLeFHrrtIq6gL5LkjbGo7VfVzTQLJRW1OcrIhT2upRRkIHNzfgvoeUWrqAO/vPtC0G4rUM0zVSEB8KLkzw3Dy5BDbhefUAS7Ks1TcmU5y/uvMsubUG6i3B7/QRSXyisvgkO3jie8ien4I+Pp02evdrD5xtolW7mK7JFxZm8PvvhtZLM/THkz9x0HMNhwu3BvsZhLyCvDBSHabIO24pqh2Kb4Y9a6TMJC2zqHDdLmYRKqqg3eVnsJ6/m7kor0o67MGY+oiiqieOAG0FVTQDg5lmRv+3cp6o=;WL5allaf2WRhpdpR0d9Qzw=="
 ---

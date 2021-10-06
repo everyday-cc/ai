@@ -39,6 +39,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Cognitive Services Market Is Booming Worldwide with Microsoft, Google,IBM"
+    excerpt: "It provides language, speech, vision, search, and knowledge APIs. The primary goal of cognitive services is to democratize Artificial Intelligence by boxing it into discrete components that are ..."
+    publishedDateTime: 2021-10-02T12:07:00Z
+    webUrl: "https://menafn.com/1102902620/Cognitive-Services-Market-Is-Booming-Worldwide-with-Microsoft-GoogleIBM"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 53
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?395119"
+        width: 444
+        height: 250
+        isCached: true
 
 secured: "uYizeAjsqalDPu4Sq9qwq5HTmpVnqtiRkiWkEZUfDsGBQYcMOyebwcM0MsF7iQjvE6Lyqfkf6L0c/hTL4psG6OEb/7Ji7wd/ssYjC1Akzt9rgNVXj3CnSV5IJi74D+kgi6AQrRblY9YFF473GAU/qEXuuwcnsgeSsx+vGywuLRikwvOLn/bjm8gjJ5xZEqkbiCOxGj2vsMCGbLoFVzmrbs0x4GdLppwFPA7TWbRR+I/wswj+srJvzTEaGQzKP/KYaO/+bAE+4r6nEqtpqi45C/FanB9gI9Apph+vqfzOqrDIYNMGTwwJJAAtWiBtYXCvZxWDHTRnSOlzh20ghiruhn2eKmmSu42G+UaxdmVmqzA=;frt2zwOkdLHMyhAmg1vl2Q=="
 ---

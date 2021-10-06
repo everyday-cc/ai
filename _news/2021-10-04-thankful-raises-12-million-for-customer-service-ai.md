@@ -24,33 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI Startup Domino Data Lab Raises $100 Million in New Funding"
-    excerpt: "Artificial intelligence startup Domino Data Lab has raised $100 million in new funding amid increased business interest in tools that help companies build AI applications"
-    publishedDateTime: 2021-10-05T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/ai-startup-domino-data-lab-raises-100-million-in-new-funding-11633438800?tpl=pe"
+  - title: "Kore.ai, which develops workflow automation technologies, raises $70M"
+    excerpt: "Kore.ai, a startup developing a platform for enterprise workflow automation, has raised $70 million in a venture funding round."
+    publishedDateTime: 2021-10-06T06:12:00Z
+    webUrl: "https://venturebeat.com/2021/10/05/kore-ai-which-develops-workflow-automation-technologies-raises-70m/"
+    ampWebUrl: "https://venturebeat.com/2021/10/05/kore-ai-which-develops-workflow-automation-technologies-raises-70m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/05/kore-ai-which-develops-workflow-automation-technologies-raises-70m/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://images.wsj.net/im-411312/social"
-        width: 1280
-        height: 640
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1125283214-e1623872146321.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Nvidia joins $100M funding round for MLOps startup Domino Data Lab"
-    excerpt: "Artificial intelligence startup Domino Data Lab Inc. today disclosed that it has nabbed a $100 million investment from Great Hill Partners, Nvidia Corp. and existing backers. San Francisco-based Domino Data Labs said that it will work more closely with Nvidia following the funding round."
-    publishedDateTime: 2021-10-05T17:54:00Z
-    webUrl: "https://siliconangle.com/2021/10/05/nvidia-joins-100m-funding-round-mlops-startup-domino-data-lab/"
+  - title: "Japanese Startup Autify Raises $10M Series A To Advance Software Testing Automation Through No-code Solution"
+    excerpt: "Autify, a no-code AI-powered software testing automation platform, announced today that it has raised $10M in Series A funding. Leading the round is World Innovation Lab (WiL), a growth-stage venture capital firm based in Palo Alto and Tokyo."
+    publishedDateTime: 2021-10-06T06:06:00Z
+    webUrl: "https://www.wagmtv.com/prnewswire/2021/10/06/japanese-startup-autify-raises-10m-series-advance-software-testing-automation-through-no-code-solution/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 22
+      name: WAGMTV
+      domain: wagmtv.com
+    quality: 18
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/Image-1.png"
-        width: 800
-        height: 450
+      - url: "https://gray-wagm-prod.cdn.arcpublishing.com/resizer/eWPadbZLVdQD65T0SixB6Vk6gnM=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/UGZT4GNOUQYLYDBMSGKR4UJ4O4.jpg"
+        width: 980
+        height: 653
         isCached: true
 
 secured: "M1EsJttddrMEQzqR876N/1Gm2zsHwYB+onJCuETK3CVl+qy5y2yo91U+Vj7eVz4EL4OxRijOfywa2gZ6EE5/xe6L3FWoDpY533tRumEFlO3HAt6QzEXaXNmnQf/cLcIHYoNcllMMmgDRjjEJIxlnq4HiUj052/bV0LPTzJM+Cs3oemDO0Qmi73NC6VZRLlRDYFSPkCgawwkVlJqTI1LI8GGlqGXRG+E0P4G3RVuW2icfIzopPMpSh2eoRKozTrSbZvPv754DoYTYRR/I9ORiaOVFyj+X5FaH4NzmtZ9o/kcLNQGJuoaSHEf/ntQMACa85QYLFOgGv+p3+hpzFnDekEtsk7D26YYCK1e3dfJtEm0=;Nu6STa8GvOeccluTtLAJQQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -34,20 +34,6 @@ related:
       - url: "https://www.datamation.com/wp-content/uploads/2021/10/The-interior-of-an-autonomous-driverless-vehicle.jpeg"
         width: 1400
         height: 933
-        isCached: true
-  - title: "Health2047’s new company plans to use AI, research access to improve clinical decision making"
-    excerpt: "Called RecoverX, the company will leverage AI to mine evidence-based research, medical charts, patient conversations and test results and provide clinical insights for clinicians in real time."
-    publishedDateTime: 2021-10-01T16:50:00Z
-    webUrl: "https://medcitynews.com/2021/10/health2047s-new-company-plans-to-use-ai-research-access-to-improve-clinical-decision-making/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 26
-    images:
-      - url: "https://medcitynews.com/uploads/2019/02/GettyImages-864483382.jpg"
-        width: 724
-        height: 483
         isCached: true
   - title: "Infusing AI to governments"
     excerpt: "Digital transformation is one of the main objectives for governments around the globe. Even though, public sector organizations see digital technologies as a top priority, the majority has not embraced Artificial Intelligence (AI),"

@@ -7,7 +7,7 @@ originalUrl: "https://www.kcl.ac.uk/what-should-artificial-intelligence-do-for-a
 webUrl: "https://www.kcl.ac.uk/what-should-artificial-intelligence-do-for-air-and-space-power-in-the-uk"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI Spots Shipwrecks from the Ocean Surface and the Air"
-    excerpt: "The project focused on the coasts of the mainland U.S. and Puerto Rico is now ready to be used to find unknown or unmapped shipwrecks."
-    publishedDateTime: 2021-10-01T15:12:00Z
-    webUrl: "https://interestingengineering.com/ai-spots-shipwrecks-from-the-ocean-surface-and-the-air"
-    ampWebUrl: "https://amp.interestingengineering.com/ai-spots-shipwrecks-from-the-ocean-surface-and-the-air"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ai-spots-shipwrecks-from-the-ocean-surface-and-the-air"
+  - title: "What Works And What Doesn’t In AI Startups"
+    excerpt: "During this week’s roundtable, we had as our guest Lloyed Lobo, Co-founder and President of Boast.ai, discussing his failures and eventual ... of this same flawed assumption that pervades the startup ecosystem. If you haven’t already, please study ..."
+    publishedDateTime: 2021-10-02T13:23:00Z
+    webUrl: "https://www.linkedin.com/pulse/what-works-doesnt-ai-startups-sramana-mitra"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 57
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
     images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/jg6PJA5ZOx/sizes/shipwreck_resize_md.jpg"
-        width: 744
-        height: 419
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFohExcacnZQw/article-cover_image-shrink_600_2000/0/1633180876248?e=1638403200&v=beta&t=a5PdrmMlj2lKrYXyXwoeRY_tVM5HottpTyN9rGMXBzw"
+        width: 693
+        height: 375
         isCached: true
 
 secured: "SO5153ZkyLxe0GEZ+s29ogsJFZP7g8dzjgssNrmyT/0A8cO0idL3c+scKiiNi4/SXiX8E5ghwAGDmk24yoMGyafPZ+TF8dO6r3QBVV82xrsnyV8ZoYvqEwmyCGhUZMUPVsUYT+yU1rgXfKxj+P9p0jxPMy0dVVuenHXSBtNBOkmj74NPDACtKSPflbc2ZT3U9hrvbTgWmXbM6yb7z1VZSYqmy7b3r+zs2vnkGcOO6/lzDYv+AoIqTCnsJJndX+iYd3z1sf1VDuMNbyGl6vsS0mQ/3xPnJruezuoTQ/1FuTOeNuOIIW3HnMktq2hRx+9FiPQC9cGbiEUeal3KtiYF3LbM+XtPAegLQe9aj9RSs9Q=;KIuPeQOwKvIBEgVp5Y7GnQ=="

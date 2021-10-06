@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tata Power ropes in AI firm BluWave-ai"
+    excerpt: "Tata Power on Wednesday announced that it has roped in renewable energy AI (artificial intelligence) company BluWave-ai. \"Tata Power, India’s largest integrated power utility, announced that it has signed a three-year commercial agreement with BluWave-ai,"
+    publishedDateTime: 2021-10-06T09:43:00Z
+    webUrl: "https://www.outlookindia.com/newsscroll/tata-power-ropes-in-ai-firm-bluwaveai/2173823"
+    ampWebUrl: "https://www.outlookindia.com/newsscroll/amp/tata-power-ropes-in-ai-firm-bluwaveai/2173823"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/tata-power-ropes-in-ai-firm-bluwaveai/2173823"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 57
+    images:
+      - url: "https://www.outlookindia.com/public/uploads/no-image-new.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Ethical Issues of AI"
     excerpt: "Ethical Issues of AI By CIOReview - Tech giants and experts believe that this is the time to discuss the concerns regarding the future of AI as this technology"
     publishedDateTime: 2021-10-06T07:26:00Z
@@ -37,20 +53,6 @@ related:
       - url: "https://www.cioreview.com/newsimages/705x485_cOD76eP5.jpg"
         width: 705
         height: 485
-        isCached: true
-  - title: "Inside the happy heart of Ai-Ai de las Alas"
-    excerpt: "Everybody’s favorite funny woman Ai-Ai de las Alas has her hands full at this time, especially given that a new season of The Clash has just commenced. It is the singing search program’s fourth season,"
-    publishedDateTime: 2021-10-04T11:33:00Z
-    webUrl: "https://businessmirror.com.ph/2021/10/04/inside-the-happy-heart-of-ai-ai-de-las-alas/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 37
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2021/10/life03-100521.jpg"
-        width: 720
-        height: 838
         isCached: true
 
 secured: "OdWhBAjBWVxNgDlH4BzkgB132jpSsqaH93ofY036moT8zHfbURFmDTE493ekShpPR8DOXODE6TvT4GHCrz/zz7vL9O3YvEpavAEa5672IeVbubuAZgHNtk/Sv6HZuMVtDRq+RbAZFc//PzH+5TAfuMhTJ6NyjjzoQiifu0fM8NP/sNG4uWtqr0No1aQ/uUiZiewy1V5CX14l++WzkXqNeVLNCvVfqGU242Czev3z2pDPqXp0JwZqg2OWFLubt1l9O2hBBUZS/k4Wu24frpewysXWuzgfRO1JYBWgV5rS4H1OSCVyqWR1cgmSVGxpXX9iHLWTFUZP05toQjzWS7YbA1nA7pDcuoDMjkVw1oLK7Ko=;06IlYbrGM4YMdzEzM19k0A=="

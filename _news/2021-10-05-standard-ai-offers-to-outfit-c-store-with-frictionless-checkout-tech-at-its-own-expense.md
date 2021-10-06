@@ -23,17 +23,6 @@ images:
     height: 364
     isCached: true
 
-related:
-  - title: "Standard AI Expands Executive Team with Seasoned AI, Retail and Operations Leaders"
-    excerpt: "Standard AI today announced the additions of Jennifer Haroon as CFO and Angie Westbrock as COO to its executive team."
-    publishedDateTime: 2021-10-05T18:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211005005320/en/Standard-AI-Expands-Executive-Team-with-Seasoned-AI-Retail-and-Operations-Leaders"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 11
-
 secured: "V3g9BYm/efqyPrGIOJUSUwjOxvOHDv3vfuOaMvJa2gzEbD6gxFhN0Pd4YPAgiCN5UValMbOu48A4/tq9E4eKPFXfencNEHP6Y1ARpmbYPKYQdmRpchIrsu6I4XSB7qDsW0hpMYK/HvU+iSXTQxv4xzNXQxgQocp4k3c+K01xgHjnU6zWKvjmTGlwbX9JWJathyC2O/TgnEhFNdtbEmsytFjKpytplLNTq3MHpF91xtsxVwxCGjaKmWDrxQdNUuWwPurF4qnGq7dgcwF/7fWgO8Eo+GtheTMTkjLrcQj+tXt9TUEzf3Y8PiU99wlmpXP1vvyQxqcBwiuIhl5t9TMP7MPCWotnwYJdcuTzz+Bkqns=;9GFe+xEWnpokX2pwclAXyg=="
 ---
 
