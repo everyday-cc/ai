@@ -2,31 +2,27 @@
 category: news
 title: "Horizon3.ai Named a Winner of The Pitch 2021 By Constellation Research"
 excerpt: "Horizon3.ai today announced it was named a first-place winner of The Pitch, a new competition for enterprise startups hosted by Constellation Research. The industry wide two-day event brought together startup founders,"
-publishedDateTime: 2021-10-05T18:03:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/horizon3-ai-named-a-winner-of-the-pitch-2021-by-constellation-research-1030844893"
-webUrl: "https://markets.businessinsider.com/news/stocks/horizon3-ai-named-a-winner-of-the-pitch-2021-by-constellation-research-1030844893"
+publishedDateTime: 2021-10-05T17:57:00Z
+originalUrl: "https://www.kwch.com/prnewswire/2021/10/05/horizon3ai-named-winner-pitch-2021-by-constellation-research/"
+webUrl: "https://www.kwch.com/prnewswire/2021/10/05/horizon3ai-named-winner-pitch-2021-by-constellation-research/"
 type: article
-quality: 67
-heat: 67
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KWCH
+  domain: kwch.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1652459/1st_place_winner.jpg"
-    width: 711
-    height: 400
+  - url: "https://gray-kwch-prod.cdn.arcpublishing.com/resizer/l0Hk4rLE_-N80a05lh0rZ_uS6-A=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/R4QCPH4QR42KVW32AQBMCWXUNE.jpg"
+    width: 980
+    height: 551
     isCached: true
 
-secured: "Wg08pdeKyJPp+iffaydcRvoHEB745MsQBvYNiOJ36LKKcv22aUhsPO8zgWf22DqUc30cL5zszUkiGDPbBoxF17zYidFpktyxVmbLYdU543zA7aPHumF2AZ5mAl5Fv7gsF9xZaAa23kbcVrXCAjHpDZDaKVouS39OhBpChx504jyCCs2unh1ZW3awPWH+gLCh0gWKWEPkL8JwUEbeQcKTpT0Lzu2PRO/QNrymm7Wi1W7vlJo0gPPzlvjuKVHW2utECsJ5nJiiBQ/E0Q2Eu4oR/UFrufFsJCPSfQpB+qBME3jmEg0xXk5oShI/fvZFMfrOAVNkSNVn7x7B/moeg5SHyySHFPhGwkY2zzjI6e3F7vM=;ZpXMWpaQ2B5olbbCkH4Elg=="
+secured: "Pa/5bZcMXd2Q0TCMNrabEIP1ZBDZUk6Zo7vM3WrhC3h/tpwpUNVlmBHsIVb4fwpUCVANYMV4Va9PMlEK2a/hmpkUvcr7aQuDFqWsAYraDAzYmQpT2QSOMmMkURAlR5g0tubsOkmCbNefnBJfcmpJcTofp2QouLZVXjZPaP6G81C59I77/+F5en3GthXfQqjrFJJNjthzEdC6fl9mFM1PPEjQb9lShbcjCu/yJQXs/jFUFRoNzwRRCX1OlBUSBvxFfFalofIPnGBgFRkkTSs5ICbDe0NZpKEOVWr+5XrgwsrbHCwLpZ7dlsaHWoTOU2gjkDdXP2Ugih9UJ0NPeIFbyxmfXo01TahU+38paRiHPGE=;S+2vKEHbvhd9m/qpBsE0BA=="
 ---
 

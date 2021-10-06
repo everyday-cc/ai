@@ -33,6 +33,20 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 55
+  - title: "AI as Service Market to Witness Huge Growth by 2026: IBM, Microsoft, Google"
+    excerpt: "This press release was orginally distributed by SBWireEdison, NJ -- (SBWIRE) -- 10/05/2021 -- The latest study released on the Global AI as Service Market"
+    publishedDateTime: 2021-10-05T22:17:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 52
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/218f40d7d6678c04a643c4160e6ade1c30ea2878-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Incredible Growth of GPU Database Market by 2028 | Kinetica, Omnisci, Sqream"
     excerpt: "Get Sample Report Buy Complete Report A2Z Market Research announces the release of GPU Database Market research report. The market is predictable to grow at a healthy pace in the coming years. GPU Database Market 2021 research report presents analysis of market size,"
     publishedDateTime: 2021-10-04T17:54:00Z

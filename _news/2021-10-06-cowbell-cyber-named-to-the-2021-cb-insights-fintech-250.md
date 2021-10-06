@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Cowbell Cyber Named to the 2021 CB Insights Fintech 250"
-excerpt: "Cowbell® Cyber, the industry's first AI-powered cyber insurance provider for small to medium enterprises (SMEs), today was named to the fourth annual CB Insights Fintech 250, a prestigious list of emerging private companies working on"
-publishedDateTime: 2021-10-05T20:40:00Z
-originalUrl: "https://www.lelezard.com/en/news-20032044.html"
-webUrl: "https://www.lelezard.com/en/news-20032044.html"
+excerpt: "Cowbell® Cyber, the industry's first AI-powered cyber insurance provider for small to medium enterprises (SMEs), today was named to the fourth annual CB Insights Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology."
+publishedDateTime: 2021-10-05T20:34:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-cowbell-cyber-named-the-2021-cb-insights-fintech-/2021/10/05/9463467.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-cowbell-cyber-named-the-2021-cb-insights-fintech-/2021/10/05/9463467.htm"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "ThreeD Capital Inc. Reports Peak Fintech Group Inc. Completes Acquisition of Cubeler Inc."
@@ -39,16 +33,7 @@ related:
         width: 450
         height: 250
         isCached: true
-  - title: "Onfido Named to 2021 CB Insights Fintech 250 List of Top Fintech Startups for Fourth Year Running"
-    excerpt: "CB Insights today named Onfido to its fourth annual Fintech 250 for the fourth year running. Fintech 250 is a prestigious list of emerging private com"
-    publishedDateTime: 2021-10-05T20:44:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211005006187/en/Onfido-Named-to-2021-CB-Insights-Fintech-250-List-of-Top-Fintech-Startups-for-Fourth-Year-Running"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
-secured: "P3Hdt1gQSRyxiyC6uKvkQnBdU8RrUrujPjBGkjsc/7O06NA5k7mkt72tXaMv5yRAnjDvy96wtRQ7tlDE9lZfOWlql8Yc82TGcGxEr3hw5ZWDS7BQtsTDar7ZMMipUmw0b4QQGWHKMWRvRMKd9GkCoSwvz62TD3sh3yTsSFO/a5AO5/KT2A7omurRxVak+gjSRsw6U2noUH4skpkHpi3ho6juaTxvwyTbSRbDKdaXg6ICnS/KwusKsmqlWxZDtIA9NWykyXGMDyKLNFyqTpYa9aAzVQlznyF1+0DpcJXrum03VjzoUW2idtNGGkfdh+2U3YpxF2iut2eZ2VAvrKTbjtW5P4bMI43NtcrmJ6tjLbE=;3IfhW0w8GUqzbcPFyMouPw=="
+secured: "fVcKUpJKFkq4GyfcvZAtxUc1EcOYfpeVGLlz5QDvdfEF8hhQRiDTj/xsABCKO47eCmQS1W9amFYbCaC3OlHE1F93Bj/sNWsmQ2yoj3zGzoeSG0HeRS0NstpwJEnKvdGNJu5m+gM7/yiCtFjnWeuJDHhvkcVnoqKtUh6thzwaqcNf9QyCMvKHgTpjVc7NUpBQ/MQ+tQhRlNswkgm1hl0Qb5dAD2sIXDbgtqYcFnhywoba4C1/CN8BldekD3ZwxSRRffam652r4R0JiDEnDf5Aj+8r4Duyr9rgQd1C2bCTlilFv/loRJlM4zy9naRBbdes3QhDIFQvYU0SHXJUoXynN0qatc7+3md7GxySg5XRsew=;EW2HJskvlRCZMeT1rFMamA=="
 ---
 

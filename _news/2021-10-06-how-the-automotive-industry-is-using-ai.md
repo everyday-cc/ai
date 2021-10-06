@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-05T20:09:00Z
 originalUrl: "https://www.datamation.com/artificial-intelligence/ai-in-automotive/"
 webUrl: "https://www.datamation.com/artificial-intelligence/ai-in-automotive/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.datamation.com/wp-content/uploads/2021/10/The-interior-of-an-autonomous-driverless-vehicle.jpeg"
@@ -35,22 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "How AI deployment is changing the game of healthcare ecosystem"
-    excerpt: "While deployment of intelligent bots in healthcare sector, has many beneﬁts and futuristic possibilities, Ayush Verma, Practice Lead, AI & ML and Shveta Raina AVP, Communication & People Strategy, Avizva point out that most healthcare providers refuse to let go of legacy systems and resist adapting."
-    publishedDateTime: 2021-10-01T06:17:00Z
-    webUrl: "https://www.expresshealthcare.in/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/"
-    ampWebUrl: "https://www.expresshealthcare.in/amp/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/"
-    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/how-ai-deployment-is-changing-the-game-of-healthcare-ecosystem/431437/"
-    type: article
-    provider:
-      name: expresshealthcare
-      domain: expresshealthcare.in
-    quality: 74
-    images:
-      - url: "https://cdn.expresshealthcare.in/wp-content/uploads/2021/10/01121218/EH_Ayush-Verma_Shveta-Raina_Avizva_750.jpg"
-        width: 750
-        height: 400
-        isCached: true
   - title: "In health care, many AI developers are white men. UNT is trying to diversify the field"
     excerpt: "NIH has awarded $100 million to UNT’s Health Science Center to lead a project to train a more diverse artificial intelligence workforce."
     publishedDateTime: 2021-10-01T13:45:00Z
@@ -91,6 +76,6 @@ related:
       domain: linkedin.com
     quality: 19
 
-secured: "Lv/nsU95XP8VJnu0EV84K2/yU2RZVke9wKQPgOeYy2SnkSQO8EehvqDEo227NYixT6DkD4ql4Tcc/TBc4Auzpokiuxv78afngCFc+riZ2xipo2QlYxkEHPigpKIzDMZ8sSAbiY9JB5cKYOQAUxHP+mW33D9+TJIyHSlJHSoKkP19MknAWESfS1vEUJfVuYA7hiEjrmW2Pm6uMwA/WMMWXjd7RytBAeOfHTh4qPM7UdLPvX31ndoM2QbuwPPaYNKqkC9xtrhWxdTaJpHeCuriuAvTHMFlU2xQ/u/jk2oZwYJwq0BN4OgS+G4u0rEeRoE7oKsU40JPdTVjX8LPE0kRrsHD2gjHwQSncSfC80eR4YU=;L5iQvdpkEfb0SXtAu3taxA=="
+secured: "NkyPtQs/rpKSlYDl95QClKZkbfgNWyML87LjMBsKES3Sl6n5F5lJcBEAhlM68EvBgEypXLzruej3iKnRRK78fbFw9bM0OjCx6HCal2+u4V5fF2mSXTiiUI1dCRUe9nthgYUvo2kxCnYBwN96TDyuZ/eIgnlRSFABdfwzehOqHZNki7Q560XC195OTEGOFADeSegw/QxCxQM8W554FjAQUcZWE2OfM+ZldxA3uV+XGoYQ0P6RPa9malnbVPCZ6iPX7k0XXM6bav1vnZanR4Zrk64699K3zu45jICqOlseRvhnkBeaFSKYCFadnY29OO6mak2TgXpYHndkTMrFtTqvtOisfehnU5SzLpTzUTzjWG3oxSr7z/Pi2mCvn5c60rjL+L8QeQ7tm09mh+oCKz/RMpCJ23E0NlX2N4v8hBXxkjFGm50m8SZNr06M7UQZQbyI1M0hwqO2rVmgmzTyyBn4kpscf3dJrEilngWtd2fMiDW7KKphbl/Tvy/LtuXYsl3YFcNMA/1uNlvAERWPT+a7KA==;I1PSFbt5C6n2fSJX9cd+/g=="
 ---
 

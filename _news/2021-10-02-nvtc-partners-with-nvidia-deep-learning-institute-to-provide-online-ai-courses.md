@@ -43,7 +43,7 @@ related:
     provider:
       name: thenewstack.io
       domain: thenewstack.io
-    quality: 41
+    quality: 43
     images:
       - url: "https://cdn.thenewstack.io/media/2021/10/4b0d619d-screen-shot-2021-10-05-at-17.44.24.png"
         width: 1242

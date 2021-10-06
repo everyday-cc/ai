@@ -1,27 +1,26 @@
 ---
 category: news
 title: "1st Edge Wins Advanced Technology International (ATI) OTA Contract to Develop Artificial Intelligence (AI) Solutions for US Army"
-excerpt: "Three-year contract will fund development of prototype software to streamline missile defense programs using AI and machine learning"
-publishedDateTime: 2021-10-05T15:56:00Z
-originalUrl: "https://www.djournal.com/news/nation-world/1st-edge-wins-advanced-technology-international-ati-ota-contract-to-develop-artificial-intelligence-ai-solutions/article_64db59ba-9269-56b7-bb53-3ffec35eaef7.html"
-webUrl: "https://www.djournal.com/news/nation-world/1st-edge-wins-advanced-technology-international-ati-ota-contract-to-develop-artificial-intelligence-ai-solutions/article_64db59ba-9269-56b7-bb53-3ffec35eaef7.html"
+excerpt: "Three-year contract will fund development of prototype software to streamline missile defense programs using AI and machine learning HUNTSVILLE, Ala., Oct. 5, 2021 (SEND2PRESS NEWSWIRE) — 1st Edge, a leader in designing pragmatic solutions using Artificial Intelligence and new technologies,"
+publishedDateTime: 2021-10-05T15:57:00Z
+originalUrl: "https://apnews.com/press-release/send2press/technology-business-huntsville-software-artificial-intelligence-53a14492dfde66eb2050d7790e12c014"
+webUrl: "https://apnews.com/press-release/send2press/technology-business-huntsville-software-artificial-intelligence-53a14492dfde66eb2050d7790e12c014"
 type: article
-quality: 25
-heat: 25
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
-  - AI in Healthcare
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/c4931bce-e1a3-11e6-b934-53284b68f006.jpg"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -40,6 +39,6 @@ related:
         height: 545
         isCached: true
 
-secured: "oJOGmxGgfz0mj8hgs16IY126v9FnIQgpE4uWOMuy9c+CUSkq+Uhx8CcngXFNnfHbxnZ7jaAgNaylHf/WEMDrOuCRvJvJ5P7Hzz/GSWaMxEBADyPPDxyAxkB8a2EH7QdDCCLEtCvhXUyAwfJl6S7qR7x2+TZtTbcdbWpIkE68+ZTFCjZr7XAeyHRwFQ6xkXqit+neNlTqX+EIZY92iSBTCu4H/Ip3MddiCj6165iqSwWDBCNrQKGTP9Ihnn3YKN1UKWz2RoLxXwzvC5U+zvY4qU7/hRLJBVC58NZQHyGKtiB3/4PqVUjfIaD77A04QBDB9ZK9lVavc35LIQI0B5v5uTcCT5hBw+Wdc8KSDFVgCu8=;9j8rEhTOTIZ6JDlTxWFA9g=="
+secured: "INWrmbiTyUZmQpXw9J5flzlO6iYVtnth39Saw0/2w4AjGXvap87cOh1PEV2SRcIASkjyfYCHZDjoG0cT5oXhodu7Mr/XelAnfOTYbZTPWN8iln0Ocis15Iz3eTB7it9IwRlpjOn6oeXN9ojuiugj9ASNMh4rOOvBxkVAVYzDUN2IcG/5r+VpNpQ1XaiNGhoTtoCkV0MPF9QMuwrToPagJ3yFLwIvh2+XAEPc4f7H89KHx/QdBYqp8salagSQSZ9C0f7rOIO9DFKmKdbjoeqOcquvWgsdIkzDT+kzHQed5xFzI30wu0/smNxs9cyAFl66HcTInLceDCsDmexprjDDohmpclm5bXOfUKPZY+7CNlU=;vZg+HcLAwuIWvO+sDpMUog=="
 ---
 

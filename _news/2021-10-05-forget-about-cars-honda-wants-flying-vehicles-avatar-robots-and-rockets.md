@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Honda sets its sights on an eVTOL, telepresence robot and space tech"
-    excerpt: "Honda has laid out new technologies it plans to pursue in the coming decades. Building on current areas of expertise, the company will look to develop an eVTOL for inter-city transport, a robot that will act as an avatar for users to perform tasks remotely,"
-    publishedDateTime: 2021-10-01T06:43:00Z
-    webUrl: "https://newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/"
-    ampWebUrl: "https://newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 89
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/dd2dba0/2147483647/strip/true/crop/1620x1080+597+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F45%2F76%2F52fc0bd94744bc076553e9b6fa34%2Fhonda-evtol.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Honda plans new air taxi, robotics and space technologies"
     excerpt: "These areas include developing a new electric vertical take-off and landing (eVTOL) air taxi, new robots and space vehicles. The Honda eVTOL aircraft leverages Honda’s electrifi"
     publishedDateTime: 2021-10-01T12:45:00Z
@@ -58,6 +42,20 @@ related:
       - url: "https://electronics360.globalspec.com/images/assets/269/17269/Honda_eVTOL.jpg"
         width: 752
         height: 270
+        isCached: true
+  - title: "Honda’s Vision Includes Air Taxis, Rockets and Robots"
+    excerpt: "A part of its “2030 Vision,” the company from Tokyo is looking to the sky and to robots and sees these advancements being offered by the 2030s and 40s. The first is air taxis. This would build on HondaJet,"
+    publishedDateTime: 2021-10-01T15:25:00Z
+    webUrl: "https://www.manufacturing.net/video/video/21747589/hondas-vision-includes-air-taxis-rockets-and-robots"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 54
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/10/mm1021.6157238e46294.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "30P67L0GQw+6n0jnCt2AcgEyUz6bHnRg58h/uZ9qARstPGG70EdkLFA5fkBBFmEdA3YaLyfzmZ77yqGdPf/QQa+EgsWgbeAykuBpdydX4xPr2gFPFRMQ335ZhdK0vAZQ8mwQMwOyuqZXV1L6RTMXHiER0TczdNet5siS//EaRh28b3DC+WFl/2ngRCP2EInYaTwLeTyFHNOWdAjw3c9vArmEHR1Xdh6JTlVfSkmHfsyUHyFvn3Kw5tNa2SqVbacPV1ifJj1kJTJQgsbUgiJs5VkM0IQcdXiblWShs+lWKwccIXwNMywNJ1F3Kk/fPwW43nnOAh/42Bc/b6ZfZxEQVZ+vQAuiQwz+0X1kgLKfFbRLjOfWMO6SOoZS6AlhJUmH/o4Ug96P3tEOTzeHft10YqaI7dCayEsHHhXWwSQkmzCtiXpHNtdJrreWnF80V+1Iqsq9ViqmZaH9HnX3fHzE/QV1NYibHpEun29xxDaPYyQcBcDVUBQUxIUwQtWV/V2wwuf3FAhnJFwKymD2/sxBzg==;IEhe7koWV/+GYbYQ+OYZSg=="

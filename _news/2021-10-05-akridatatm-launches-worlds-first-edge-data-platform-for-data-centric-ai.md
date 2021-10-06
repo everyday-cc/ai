@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-20031572.html"
 webUrl: "https://www.lelezard.com/en/news-20031572.html"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Akridata™ Launches World's First Edge Data Platform for Data-Centric AI"
-    excerpt: "Decentralized Software Accelerates Access to Relevant AI Data, Handles Ingest, Catalog, and Exploration of Complex AI Data, and Enables Traceable AI Across Industries"
-    publishedDateTime: 2021-10-05T20:06:00Z
-    webUrl: "https://www.kolotv.com/prnewswire/2021/10/05/akridata-launches-worlds-first-edge-data-platform-data-centric-ai/"
+  - title: "Akridata™ Launches World’s First Edge Data Platform for Data-Centric AI"
+    excerpt: "Akridata, a category-maker and pioneer in Data-Centric AI, today announced the launch of the Akridata Edge Data Platform™, which creates and manages smart data pipelines and AI workflows spanning Edge-Core-Cloud resources – an industry first."
+    publishedDateTime: 2021-10-05T18:05:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/science-technology-business-4c8ea10dce1301dbf506069ae700e519"
     type: article
     provider:
-      name: KOLO TV
-      domain: kolotv.com
-    quality: 19
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Akridata Launches Edge Data Platform for ‘Data-Centric AI’"
     excerpt: "Akridata, which calls itself a category-maker in Data-Centric AI, today announced the launch of the Akridata Edge Data Platform, which creates and manages smart data pipelines and AI workflows spanning Edge-Core-Cloud resources – an industry first."
     publishedDateTime: 2021-10-05T13:42:00Z

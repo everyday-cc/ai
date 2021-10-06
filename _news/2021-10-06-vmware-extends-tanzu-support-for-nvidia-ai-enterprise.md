@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-05T19:34:00Z
 originalUrl: "https://thenewstack.io/vmware-extends-tanzu-support-for-nvidia-ai-enterprise/"
 webUrl: "https://thenewstack.io/vmware-extends-tanzu-support-for-nvidia-ai-enterprise/"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Microsoft AI
   - AI
   - AWS AI
+  - AI Hardware
 
 images:
   - url: "https://cdn.thenewstack.io/media/2021/10/4b0d619d-screen-shot-2021-10-05-at-17.44.24.png"

@@ -32,6 +32,20 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 55
+  - title: "AI as Service Market to Witness Huge Growth by 2026: IBM, Microsoft, Google"
+    excerpt: "This press release was orginally distributed by SBWireEdison, NJ -- (SBWIRE) -- 10/05/2021 -- The latest study released on the Global AI as Service Market"
+    publishedDateTime: 2021-10-05T22:17:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 52
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/218f40d7d6678c04a643c4160e6ade1c30ea2878-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Cognitive Computing Market Size, Growth and Key Companies – Microsoft, Google, IBM, Numenta, SAS Institute, AWS"
     excerpt: "The research study presented here is an intelligent take on the Cognitive Computing Market that explains important aspects such as competition, segmentation, and regional growth in great detail. Accuracy and preciseness are two of the key features of the report that reflect its authenticity."
     publishedDateTime: 2021-10-05T18:39:00Z

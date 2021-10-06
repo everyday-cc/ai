@@ -43,16 +43,19 @@ related:
         height: 1080
         isCached: true
   - title: "Robots give Greece's postal service speed boost"
-    excerpt: "A fleet of fifty-five yellow robots powered by artificial intelligence glide around Hellenic Post's sorting centre in Athens, speeding up an often arduous process."
-    publishedDateTime: 2021-10-05T17:30:00Z
-    webUrl: "https://madison.com/news/world/robots-give-greeces-postal-service-speed-boost/video_a20bfdd7-7011-5574-8ee1-b1ee1d8dec85.html"
-    ampWebUrl: "https://madison.com/news/world/robots-give-greeces-postal-service-speed-boost/video_a20bfdd7-7011-5574-8ee1-b1ee1d8dec85.amp.html"
-    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/world/robots-give-greeces-postal-service-speed-boost/video_a20bfdd7-7011-5574-8ee1-b1ee1d8dec85.amp.html"
+    excerpt: "There's a new addition to Greece's postal service: a fleet of yellow robots sorting through the mail. Fifty-five s"
+    publishedDateTime: 2021-10-05T23:49:00Z
+    webUrl: "https://menafn.com/1102921026/Robots-give-Greeces-postal-service-speed-boost"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-10/05/TP_18604image_story.jpeg"
+        width: 533
+        height: 355
+        isCached: true
 
 secured: "T2IZ+G2mOxumzmiWhVhNcnVi4M0IpI+Ii6IqKYvKcnMEk1CJ6MG9pbGS6VJu+eMaAOVwIXxRL/dH9UlH/6UpabDwryFC3nzgv0+OnbNaj3wot8u99kt8xgVM95mlxfHfVHVY5T2HEnCl0ftO9HGfWnCldbBQkwgz+nC+PKc7YQfA/1BGCZmNx9xxQGZzA6r9Rl+j2amOeJopqbLSPMVYAmYIpXBPNT6kTCkEeBkR4hIsknixRDPeSO7yPABHtp67tUdZ2r7AUF46OEqh8RBPko15TPM48oUQBm/ke0nz4T1Pm/NyC8MhMR+sNdK2ln4kvg0WBb+pQZ63WufeaTRimrhwFkXx14w7emD7aa6KmtmKQJMegLGt44esvUM1HaOnR9o6P9V+h3Ml1R0Djw4bCwmx7wj50mv3xRtfNCqHhb0XPqABg0O7K7f+D0ZH0/lKjKQBxab07UKoiDLpB3OIFzGoRPVdI/grn4O9JivXVkgfmsVV8JFHKgJx/cM1qzJaUHnT/0hRuBYhCrPCgLrmYw==;DZ0ljHEgedzeHo6tHnF94Q=="
 ---

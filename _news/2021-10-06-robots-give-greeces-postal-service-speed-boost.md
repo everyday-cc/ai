@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Robots give Greece's postal service speed boost"
-excerpt: "A fleet of fifty-five yellow robots powered by artificial intelligence glide around Hellenic Post's sorting centre in Athens, speeding up an often arduous process."
-publishedDateTime: 2021-10-05T17:30:00Z
-originalUrl: "https://madison.com/news/world/robots-give-greeces-postal-service-speed-boost/video_a20bfdd7-7011-5574-8ee1-b1ee1d8dec85.html"
-webUrl: "https://madison.com/news/world/robots-give-greeces-postal-service-speed-boost/video_a20bfdd7-7011-5574-8ee1-b1ee1d8dec85.html"
-ampWebUrl: "https://madison.com/news/world/robots-give-greeces-postal-service-speed-boost/video_a20bfdd7-7011-5574-8ee1-b1ee1d8dec85.amp.html"
-cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/world/robots-give-greeces-postal-service-speed-boost/video_a20bfdd7-7011-5574-8ee1-b1ee1d8dec85.amp.html"
+excerpt: "There's a new addition to Greece's postal service: a fleet of yellow robots sorting through the mail. Fifty-five s"
+publishedDateTime: 2021-10-05T23:49:00Z
+originalUrl: "https://menafn.com/1102921026/Robots-give-Greeces-postal-service-speed-boost"
+webUrl: "https://menafn.com/1102921026/Robots-give-Greeces-postal-service-speed-boost"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://menafn.com/updates/pr/2021-10/05/TP_18604image_story.jpeg"
+    width: 533
+    height: 355
+    isCached: true
 
 related:
   - title: "55 self-driving AI robots deployed to sort postal mails in Greece"
@@ -52,6 +56,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "jWjdhN4u65BnMMLhtHPqPPO39MqTg5CoiPX3tLMAR0vHACHjop6+Gic6YNNHKw+7Uaa6W4Qu/0cd6ncTXae/VDQNJ2CovequjxBLN6p4V0MHa63VaC0xwK9yL3FRvl0rz/DyN3bhdETMoy508Tr54GjwlY2XiD8pdR8aaM6td47bAJkALSqEqOAZh6flndhAhwgL33633tw8zV1A6DdAtKXjLTWtm8Bu+LrVynUuwfzt1KIclS/of+PxTj/4V6EmCE9MU44O/9/VLodW4MFVSdxoBRJY5h9grefKwr17McHDoAg77X27ga2eFeQky+ZCu3osE+8CkpqvWoYn1X+35IClD0U1t1NhLNKDzXVyt6GuUWs2THrJYkKntX0y2oqMC0rxnoZjs5DHCpxus54w748x88407lY7XXQR7bqTYdX7g4EVIgkLg+5zadrezrVXMF86fArerboLvP3BoPgnPCtks+1shhfFvGzbw+KiFo9afvxpcbT60ff8OArMp+mQop+KL65+l+25KL7AEvt2zw==;zaIMzL05PNJnC5o/n4naTQ=="
+secured: "OYkzQpZZCXdSYX3lHZyAwZW5P8sXN6WT5v4b4CiRH2zQE7IvrTsLya9NN0kif2SKhC2xuanWBvzOK4AVsqzMqAmliu5jobsoRKlHTgTK+/t23ZIhsBNEKXfOQf3Mpc1yf51I9jWwys0ztNmR126izPw1o3gL3zs9qiQ8Jf2Yh7Ar+79D0UXSfKTQSSDwlDEs8sW/VAt8WhWU9akVwhhMIGZHF6LXB3RfEt3ESf9U0Uo09b44/tcc3N1zGWV6KesqCLV69MQoSOJrwnPsxPKfwWMMMYoYI/HFBhUls1NJg70JPm3FRPcDuln9QFe8x3Klp9iS5vShPu9DyIBfumYca/oiW2o59SwBqZhPCwcqmA0=;jUh3SzX+acSpW54JRG3MWQ=="
 ---
 

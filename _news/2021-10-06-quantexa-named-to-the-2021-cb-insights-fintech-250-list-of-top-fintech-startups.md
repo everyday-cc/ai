@@ -47,6 +47,15 @@ related:
         width: 2048
         height: 1136
         isCached: true
+  - title: "Fundbox Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
+    excerpt: "CB Insights today named Fundbox to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year’s list was unveiled on stage at CB Insights’ Future of Fintech conference in New York City."
+    publishedDateTime: 2021-10-05T15:30:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8368135/fundbox-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "C+vNJpyjDIiLaJnKPLrztkHokGuD73TPA66dM4CY1UsaehE8faQJr9hJp8ijcEbclpC3c6hHXWFcOI+8ulyovCZnfXxcjUaiZS9zRBRuRAJoUdKbPZXNT4d7VX7o9SODKudUGRRoWzHvPEtEQokye4iGbU3yopuW+UiDSIQv4Z91CwdtVxgTNLP2WTEYLcQwrO1LiXUJlh+lDUm/RxYCs0XAvDljwV8sT/zu+aUJXiPONTHqfFF5AjZ7XgfSdBCZMu0a6bmLtyPK/RLHDx0tbM+YNhVKc/aLa7/KNIF6unKNU/xEGpg50YxqQvBrSx7mNYwe4lWU1k480DzIrZdDqdrGuCTyuAuIamkTvPbX8JQ=;sS368+k/83yFU0B9JC+lNQ=="
 ---

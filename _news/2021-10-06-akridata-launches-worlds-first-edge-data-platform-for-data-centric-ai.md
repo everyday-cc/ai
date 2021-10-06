@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Akridata™ Launches World's First Edge Data Platform for Data-Centric AI"
-excerpt: "Decentralized Software Accelerates Access to Relevant AI Data, Handles Ingest, Catalog, and Exploration of Complex AI Data, and Enables Traceable AI Across Industries"
-publishedDateTime: 2021-10-05T20:06:00Z
-originalUrl: "https://www.kolotv.com/prnewswire/2021/10/05/akridata-launches-worlds-first-edge-data-platform-data-centric-ai/"
-webUrl: "https://www.kolotv.com/prnewswire/2021/10/05/akridata-launches-worlds-first-edge-data-platform-data-centric-ai/"
+title: "Akridata™ Launches World’s First Edge Data Platform for Data-Centric AI"
+excerpt: "Akridata, a category-maker and pioneer in Data-Centric AI, today announced the launch of the Akridata Edge Data Platform™, which creates and manages smart data pipelines and AI workflows spanning Edge-Core-Cloud resources – an industry first."
+publishedDateTime: 2021-10-05T18:05:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/science-technology-business-4c8ea10dce1301dbf506069ae700e519"
+webUrl: "https://apnews.com/press-release/pr-newswire/science-technology-business-4c8ea10dce1301dbf506069ae700e519"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: KOLO TV
-  domain: kolotv.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Akridatatm Launches World's First Edge Data Platform for Data-Centric AI"
@@ -43,6 +49,6 @@ related:
       domain: insidehpc.com
     quality: 17
 
-secured: "1mZSvDKHpBjFJO0+E1DaacCSR/Y1EHfjMCRsxIjLNHwTevMbY7AWeieK5OqiuYfRzkAjXMmp1Ui6/qH4F0Cm4PUbZMufQSpuidpjcC1IYi0MbHFp+8gvrz9luzg03bwAXYfZA0gVqF39w/QM7BUc/vSHMrgw9VfMA+H9cB5+DwrRPyuVuH11P03pC/tPyrvhSIN9P8NOyUYVkT21BTg4dijT34tm15UfXIDpdUu99UmMyQuL1vMKFskOTeWh1nvv8EAGU9CIQxI/MbsTYLiHwOv6HPjRAiwDeQmzxXMV3CzPVL3ODYJ9JZY5fp0MxT4Fz8sGkVtmdebjg0qYAR/Co2LPg26c5AEkfd9CNs0+AX8=;ox+WUmcBs15pjJ0aKpYFBA=="
+secured: "Rfm47fyTFoArzrzg2tP7j1FK4kPhoOi4fz9HK58k8Ja1mEjYNalqcYjgh0RyUYZtDuiQDINDJhu+OGBuqMfGCC9BbLN7Ex+olw5TxFual6Q+rxkcuWjsiIC4Lwc7rwie+nmN+oUd1CANA9xqbtJYOLzLLKH3lzSIOMKdPKZwJlw1F8Cfx8BRcq2qP+9ftCgTv116CDNgJd151YatQsjqRLY1YpiD52NN2ka79Nf5ZoLv9PnRnDNKiagMYl033zRKHO4YcqDypsuMs+WpDuvNGwJCWrcOV9ixBbGdhI1CFcrSxd0nrBjJFgcp6TpJwvcDap4NLBVxVKk8HUU5No2Hgrcw9kDNzbBfwRsREB6mz+I=;miyasTtHNPwnMq7bqMg3aQ=="
 ---
 
