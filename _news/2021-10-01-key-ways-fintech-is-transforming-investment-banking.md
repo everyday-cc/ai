@@ -41,20 +41,6 @@ related:
         width: 550
         height: 367
         isCached: true
-  - title: "IIFL Fintech Fund backs AI startup Data Sutram"
-    excerpt: "Extrapolate Advisors Pvt Ltd, which runs the Kolkata-based AI startup Data Sutram, has raised funding for an undisclosed amount"
-    publishedDateTime: 2021-10-01T07:39:00Z
-    webUrl: "https://www.vccircle.com/iifl-fintech-fund-backs-ai-startup-data-sutram"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 39
-    images:
-      - url: "https://assets.vccircle.com/uploads/2019/05/Fundingrf2.jpg"
-        width: 810
-        height: 506
-        isCached: true
   - title: "Discover new trends for Fintech and Insurtech in 2022"
     excerpt: "For more info see FinTech & InsurTech Live A recent report by McKinsey shows that there will be five groundbreaking trends that will transform the insurtech and fitnech space over the next decade. These trends will be driven by new technologies and will be transformative both as a combined force,"
     publishedDateTime: 2021-10-04T12:34:00Z

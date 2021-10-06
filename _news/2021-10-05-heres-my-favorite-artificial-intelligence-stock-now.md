@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Here's My Favorite Artificial Intelligence Stock Now"
-excerpt: "T here are many great companies that could benefit from the surge in artificial intelligence (AI) in the coming years, so how should investors play it? In this Fool Live video clip, recorded on Sept."
+excerpt: "When our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* They just revealed what they believe are the ten best stocks for investors to buy right"
 publishedDateTime: 2021-10-05T13:17:00Z
-originalUrl: "https://www.nasdaq.com/articles/heres-my-favorite-artificial-intelligence-stock-now-2021-10-05?time=1633439401"
-webUrl: "https://www.nasdaq.com/articles/heres-my-favorite-artificial-intelligence-stock-now-2021-10-05?time=1633439401"
+originalUrl: "https://www.nasdaq.com/articles/heres-my-favorite-artificial-intelligence-stock-now-2021-10-05"
+webUrl: "https://www.nasdaq.com/articles/heres-my-favorite-artificial-intelligence-stock-now-2021-10-05"
 ampWebUrl: "https://www.nasdaq.com/articles/heres-my-favorite-artificial-intelligence-stock-now-2021-10-05?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/heres-my-favorite-artificial-intelligence-stock-now-2021-10-05?amp"
 type: article
@@ -19,6 +19,6 @@ provider:
 topics:
   - AI
 
-secured: "j02bsci3Jc3lJH5XU2xd0f1c/rQFP9Krf9gNpi/HqujwlSWA0NRR8TJi3zSqq3Atv8pMvMSFXol8UHqjiiRq7gbTROzoPFegjXej8W2SqB95wg7LPxZxNpSAucb2qlt8M1qYbmssMupi/S7qYDHJPeQrnwKl1nLZjElCv+PC9xQxjPIXtG+Ta3QyOXCXMoygK4gz0yrKm0dA9EdEupds7n2kinGkthK0w7Pt61Y52sZG6SiXzL5FOITifpA6yUifkJBth9NVMX0guh8j4iSTSQEnrLAp6JZ7vbu9ex3oB8kcOuL5o0CXee5U05UHsG0xW9ygHR8OmiGOrV3j3a3e/opBfNKQXegau8Mkb38E7/4=;nMH4ENPnOEIz/nfkH9hmmw=="
+secured: "dYt6P+crb43bqkv1KlDhG0IsSdOjE1wt/RY0PdJTWtu2qy+wUGvhrM35xKJSsRXX+vtyy5abqPG1+l3dK3LR7/B9b+sctewg41o1noU1K/XkvRfQzktGqgNUlb4jjVpfdBOpPE93gStiHKeMETXKwXSZf/QLKkIw9nLhz6sTCFIcX95C9ETXXkyBwGK9PWouW4PzvkUVyU7iwZ3/l/0Rz4uhf7ule2hrYDI5hxvQIgh3IFDBWfCh1eChhfRj9xnKHMo+f4CutXGZhoYHm6uiy/pZANnKlCHjdxOSKbLdcYPAuuc837LynNAEt2uznp20qG67w01VSloKw8vJDDatD6MSYpmMs1ENHebXXb6O8CE=;zdkjyOzKEZLtkFHlK3heTQ=="
 ---
 

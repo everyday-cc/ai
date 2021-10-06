@@ -45,7 +45,7 @@ related:
     provider:
       name: Datamation
       domain: datamation.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.datamation.com/wp-content/uploads/2021/10/The-interior-of-an-autonomous-driverless-vehicle.jpeg"
         width: 1400

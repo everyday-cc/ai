@@ -2,6 +2,144 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-08-27-edtech-language-platform-duolingo-ups-the-ai-ante.md",
+      "title": "EdTech language platform Duolingo ups the AI ante",
+      "excerpt": "In the wake of a noted IPO, EdTech player Duolingo showed off AI-infused updates to its language lesson platform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/27/edtech-language-platform-duolingo-ups-the-ai-ante/",
+      "originalUrl": "https://venturebeat.com/2021/08/27/edtech-language-platform-duolingo-ups-the-ai-ante/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/duolingo-duo.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/27/edtech-language-platform-duolingo-ups-the-ai-ante/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/27/edtech-language-platform-duolingo-ups-the-ai-ante/amp/",
+      "publishedDateTime": "2021-08-27T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-schnuck-markets-expanding-use-of-tally-robots-chainwide.md",
+      "title": "Schnuck Markets expanding use of Tally robots chainwide",
+      "excerpt": "Schnuck Markets Inc. is expanding its use of Tally inventory-taking robots to all of its stores chainwide. Schnuck Markets said Thursday that a multiyear, full-scale rollout now will bring Tally robots to all 111 Schnucks stores.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ksdk.com/article/news/local/business-journal/schnuck-markets-expanding-use-tally-robots-chainwide/63-19ffa56e-e84d-48dc-ac17-0652ea68460c",
+      "originalUrl": "https://www.ksdk.com/article/news/local/business-journal/schnuck-markets-expanding-use-tally-robots-chainwide/63-19ffa56e-e84d-48dc-ac17-0652ea68460c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ksdk.com/assets/KSDK/images/6064e977-d6b9-4a67-9b45-b73059276597/6064e977-d6b9-4a67-9b45-b73059276597_1140x641.png",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ksdk.com/amp/article/news/local/business-journal/schnuck-markets-expanding-use-tally-robots-chainwide/63-19ffa56e-e84d-48dc-ac17-0652ea68460c",
+      "cdnAmpWebUrl": "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/local/business-journal/schnuck-markets-expanding-use-tally-robots-chainwide/63-19ffa56e-e84d-48dc-ac17-0652ea68460c",
+      "publishedDateTime": "2021-08-27T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSDK",
+        "domain": "ksdk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-pos-upgrades-inc-selects-alwaysai-as-its-computer-vision-partner-for-frictionless-self-checkout.md",
+      "title": "POS Upgrades, Inc. Selects alwaysAI® as Its Computer Vision Partner for Frictionless Self-Checkout",
+      "excerpt": "POS Upgrades (POSU), a leader in innovative payment solutions, and computer vision platform leader, alwaysAI ®, have announced a strategic partnership to bring turnkey, high-performance visual recognition systems for food and other items at the point-of-sale to POSU's customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-pos-upgrades-inc-selects-alwaysaireg-as-its-computer-/2021/08/27/9438710.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-pos-upgrades-inc-selects-alwaysaireg-as-its-computer-/2021/08/27/9438710.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1603027/alwaysAI_POS_Upgrades.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-27T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-from-milking-machines-to-restaurant-servers-robots-contribute-to-the-superabundance-of-northwest-foods.md",
       "title": "From milking machines to restaurant servers, robots contribute to the superabundance of Northwest foods",
       "excerpt": "Tech and food have gone together since our ancient ancestors made stone hand axes, and technological developments have been fundamental to the project of feeding humanity since the agricultural revolution millennia ago.",
@@ -997,142 +1135,6 @@
         "AI",
         "Computer Vision",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-caris-precision-oncology-alliance-welcomes-the-oneal-comprehensive-cancer-center-at-university-of-alabama-at-birmingham.md",
-      "title": "Caris Precision Oncology Alliance Welcomes The ONeal Comprehensive Cancer Center at University of Alabama at Birmingham",
-      "excerpt": "The O’Neal Comprehensive Cancer Center at UAB is Alabama’s only cancer center designated by the National Cancer Institute and is at the forefront of improving cancer prevention, diagnosis and treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressreleasepoint.com/caris-precision-oncology-alliance-welcomes-oneal-comprehensive-cancer-center-university-alabama",
-      "originalUrl": "https://www.pressreleasepoint.com/caris-precision-oncology-alliance-welcomes-oneal-comprehensive-cancer-center-university-alabama",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KLAS Press Release",
-        "domain": "pressreleasepoint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service.md",
-      "title": "Zendesk acquires AI automation startup Cleverly to advance customer service",
-      "excerpt": "Zendesk is looking to grow its customer service capabilities, and today it announced the acquisition of early-stage artificial intelligence startup Cleverly. Financial terms of the deal are not being publicly disclosed at this time and Cleverly has not been entirely public about the size of its",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service/?tpcc=ECTW2020",
-      "originalUrl": "https://techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1173385998.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service/amp/",
-      "publishedDateTime": "2021-08-26T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-ai-algorithm-solves-structural-biology-challenges.md",
-      "title": "AI algorithm solves structural biology challenges",
-      "excerpt": "Determining the 3-D shapes of biological molecules is one of the hardest problems in modern biology and medical discovery. Companies and research institutions often spend millions of dollars to determine a molecular structure—and even such massive efforts are frequently unsuccessful.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-08-ai-algorithm-biology.html",
-      "originalUrl": "https://phys.org/news/2021-08-ai-algorithm-biology.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-algorithm-solves-st.jpg",
-          "width": 2475,
-          "height": 3150,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-08-ai-algorithm-biology.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-ai-algorithm-biology.amp",
-      "publishedDateTime": "2021-08-26T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

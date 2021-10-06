@@ -60,22 +60,6 @@ related:
         width: 1200
         height: 677
         isCached: true
-  - title: "Amazon’s latest smart home devices include a wandering security robot and an inexpensive Alexa thermostat"
-    excerpt: "Amazon’s new gadgets expand Alexa into even more facets of life. The company says its goal is to make ambient computing a reality. This is when your gadgets are so smart, they begin to think"
-    publishedDateTime: 2021-10-01T08:00:00Z
-    webUrl: "https://ktla.com/morning-news/technology/amazons-latest-smart-home-devices-include-a-wandering-security-robot-and-an-inexpensive-alexa-thermostat/"
-    ampWebUrl: "https://ktla.com/morning-news/technology/amazons-latest-smart-home-devices-include-a-wandering-security-robot-and-an-inexpensive-alexa-thermostat/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/morning-news/technology/amazons-latest-smart-home-devices-include-a-wandering-security-robot-and-an-inexpensive-alexa-thermostat/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 59
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/09/Promo-Facebook-Facebook-link-image-7.jpeg?w=1280"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "TNSLrG8FZdrW5rHLbuG4t5/YrhUJMQ0lVZpYz6pfz2BnbQKTFZvBAxhcKFtC6f50EsB++VICM8C+djTNUkCkzrkZGd3824J9IiQhb8mmjOb60hfFZGCg+eqca22lvE1CSSQ0rOGP5s+HxdvmyASIZOCnztFn5yPVmkum6EFQhmNMdKFhFDcdASOWMHlKfo/9s7LaJhaw45rd8H2wVYoe9zStbO2fOg06KTKVAXVdxGUIP3T/zde1D+QuF4XM7ANEQeauKOiabydEtWtLbtn6CzjUt53rnj2krFvuK5jnWPTXzIXo7N625OcgSIqdgdIvnuI4vd/rNM5d6pZiYFerZM5CXKHXVhtxhmemMVKzPG8=;3sTwOMoAsSV8j2aFnwCYaw=="
 ---

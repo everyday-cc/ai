@@ -51,6 +51,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Will DeepMind weather forecasts ruin a national obsession?"
+    excerpt: "Which brings us to weather forecasts. They used to just be on radio and TV, eggheads windmilling their arms indecipherably in front of giant maps. Now they’re everywhere. They’re on our phones. They’re on my laptop toolbar."
+    publishedDateTime: 2021-10-01T11:57:00Z
+    webUrl: "https://www.ft.com/content/6c76e699-111c-4c7d-b153-8a115d97bd9a"
+    ampWebUrl: "https://amp.ft.com/content/6c76e699-111c-4c7d-b153-8a115d97bd9a"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/6c76e699-111c-4c7d-b153-8a115d97bd9a"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa725767b-b8b0-46cc-8a8c-426db7aaa8f2.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Google sued over DeepMind's access to 1.6 mn UK patients' records"
     excerpt: "UK-based law firm Mishcon de Reya has filed a class-action lawsuit against Google and DeepMind over their access to confidential medical records of approximately 1.6 million UK patients without their knowledge or consent."
     publishedDateTime: 2021-10-02T12:00:00Z

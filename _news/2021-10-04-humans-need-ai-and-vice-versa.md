@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3635489/humans-need-ai-and-vice-ve
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3635489/humans-need-ai-and-vice-versa.amp.html"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://static.scientificamerican.com/sciam/cache/file/2919B23F-0C73-466D-859B49145D379F97.jpg"
         width: 790
         height: 496
+        isCached: true
+  - title: "Artificial Intelligence and Antitrust Activity"
+    excerpt: "Can A.I. Sniff Out Antitrust Violations?  In a recently published paper, a pair of academics propose that the application of artificial intelligence can offer a potent weapon against antitrust"
+    publishedDateTime: 2021-10-05T23:59:00Z
+    webUrl: "https://www.natlawreview.com/article/artificial-intelligence-and-antitrust-activity"
+    ampWebUrl: "https://www.natlawreview.com/article/artificial-intelligence-and-antitrust-activity?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/artificial-intelligence-and-antitrust-activity?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 57
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
         isCached: true
   - title: "Robots and artificial intelligence will control humans, predicts ex-Google"
     excerpt: "Elon Musk believes AI is capable of governing the human species The era of Robot Sapiens: will artificial intelligence dominate the Earth?)The dangers of AI are more subtle than armed robots, say experts Mohammed Gawdat believes that systems known as general artificial intelligence ( AGI),"

@@ -41,20 +41,6 @@ related:
         width: 550
         height: 367
         isCached: true
-  - title: "IIFL Fintech Fund backs AI startup Data Sutram"
-    excerpt: "Extrapolate Advisors Pvt Ltd, which runs the Kolkata-based AI startup Data Sutram, has raised funding for an undisclosed amount"
-    publishedDateTime: 2021-10-01T07:39:00Z
-    webUrl: "https://www.vccircle.com/iifl-fintech-fund-backs-ai-startup-data-sutram"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 39
-    images:
-      - url: "https://assets.vccircle.com/uploads/2019/05/Fundingrf2.jpg"
-        width: 810
-        height: 506
-        isCached: true
   - title: "Key Ways Fintech is Transforming Investment Banking"
     excerpt: "The conventional investment banking business has struggled to adapt to legacy technology, but as the digital revolution sweeps across finance, now is the moment to shift. Fremont, CA: FinTech will change investment banking in various ways,"
     publishedDateTime: 2021-10-01T13:24:00Z

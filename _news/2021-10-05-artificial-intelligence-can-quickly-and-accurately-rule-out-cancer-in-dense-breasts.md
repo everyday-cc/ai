@@ -42,6 +42,22 @@ related:
         width: 2400
         height: 3747
         isCached: true
+  - title: "Automated system based on AI helps rule out cancer in women with dense breasts"
+    excerpt: "An automated system that uses artificial intelligence (AI) can quickly and accurately sift through breast MRIs in women with dense breasts to eliminate those without cancer, freeing up radiologists to focus on more complex cases,"
+    publishedDateTime: 2021-10-06T00:58:00Z
+    webUrl: "https://www.news-medical.net/news/20211005/Automated-system-based-on-AI-helps-rule-out-cancer-in-women-with-dense-breasts.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20211005/Automated-system-based-on-AI-helps-rule-out-cancer-in-women-with-dense-breasts.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211005/Automated-system-based-on-AI-helps-rule-out-cancer-in-women-with-dense-breasts.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 53
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "AI-based tool set to improve breast cancer diagnosis"
     excerpt: "An AI-based tool that improves breast cancer diagnosis and predicts the risk of recurrence has been developed by researchers in Sweden."
     publishedDateTime: 2021-10-03T23:02:00Z

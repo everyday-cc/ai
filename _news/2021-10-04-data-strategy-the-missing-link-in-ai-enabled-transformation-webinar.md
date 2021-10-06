@@ -7,7 +7,7 @@ originalUrl: "https://hbr.org/sponsored/2021/10/data-strategy-the-missing-link-i
 webUrl: "https://hbr.org/sponsored/2021/10/data-strategy-the-missing-link-in-ai-enabled-transformation-webinar"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,43 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "New Study from StrategyR Highlights a $3.5 Billion Global Market for Artificial Intelligence (AI) in Call Centers by 2026"
-    excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
-    publishedDateTime: 2021-10-05T15:55:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-study-from-strategyr-highlights-a-3-5-billion-global-market-for-artificial-intelligence-ai/article_b5013da9-3eda-5d4a-9314-ac1d25eecf40.html"
+  - title: "Hayden AI Names Transportation Tech Expert Ray Director of Industry Strategy"
+    excerpt: "Hayden AI Technologies has announced the appointment of transit technology expert Renee Autumn Ray as director of Industry Strategy. In her new role, Ray “will refine and execute Hayden AI’s thought leadership strategy, leveraging her experience ..."
+    publishedDateTime: 2021-10-05T22:34:00Z
+    webUrl: "https://www.techwire.net/news/hayden-ai-names-transportation-tech-expert-ray-director-of-industry-strategy"
+    ampWebUrl: "https://www.techwire.net/news/hayden-ai-names-transportation-tech-expert-ray-director-of-industry-strategy?_amp=true"
+    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/hayden-ai-names-transportation-tech-expert-ray-director-of-industry-strategy?_amp=true"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 29
+      name: California Techwire
+      domain: techwire.net
+    quality: 54
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/2a/72a26372-8415-5907-9921-133fb43cfc96/615c7784697c2.image.jpg?resize=1001%2C630"
-        width: 1001
-        height: 630
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/a22a939/2147483647/strip/true/crop/5184x3456+0+0/resize/840x560!/brightness/0x23/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F11%2F99%2F9c9f059045ceb16d6af9428136ab%2Fstrategy.jpg"
+        width: 840
+        height: 560
         isCached: true
-  - title: "New Study from StrategyR Highlights a $3.5 Billion Global Market for Artificial Intelligence (AI) in Call Centers by 2026"
-    excerpt: "September 2021 Executive Pool: 73886 Companies: 110 - Players covered include Artificial Solutions; Avaamo; Avaya; AWS; Conversica; Creativ"
-    publishedDateTime: 2021-10-05T17:28:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/10/05/9463266.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 29
-    images:
-      - url: "https://mma.prnewswire.com/media/1651635/Global_Industry_Analysts_AI_call_centers.jpg"
-        width: 635
-        height: 400
-        isCached: true
-  - title: "Empowering Smart Computing Paradigm: Transformative integration of Edge of Things, AI and Blockchain"
-    excerpt: "The emerging computing paradigm named Edge of Things (EoT) have made their entrances into many areas, such as smart city, healthcare, academics, intelligent transportation, energy consumption, Internet of Drones,"
-    publishedDateTime: 2021-10-03T00:11:00Z
-    webUrl: "https://www.frontiersin.org/research-topics/26673/empowering-smart-computing-paradigm-transformative-integration-of-edge-of-things-ai-and-blockchain"
-    type: article
-    provider:
-      name: Frontiers
-      domain: frontiersin.org
-    quality: 2
 
 secured: "AUlTNhx9EsLKmRMBbQM80SIyvPk7GlstRVtO/mzPLRV/9pEeHT43Ffz6W+xeO6p+8eFLbql1aXU7Iob9aLdO9NkmNYHVRfWNnp8UkwAZIO1aIVcxdnnuE/dA60yOOvH57/LHg6a48DzlLJm+r/Sbp/WkSf0Ha/vGsEfge82Z5V1n+OS98d0TYNV1KL3FpWLIVN9Yu+NqL+z2LTDmfaIhEWdm+/1bZkg+wkfdttrUvotRJi+e1I0LM+GPmyE+CBxKudh27bVK2N39b/n22As0bnIHhQJ7r8+AOuQ3HqPJakUh0UjF09CCPosYf4YOuo4FTmiPdWs9y0K7jcnYEMkrzvlOKasOlNgNp9k7CEl5XJ0nCc8gWUqBqLhttWKZw8OujDglfHXdbYH9Is7IV79JgjbZ72BQIzn/44rm4acmM3ythN9mXnB9HF0GrFHPlbs6t2ahkc6qIGeETbj4ZnoxQv/8l5od0GolUq157tbLLcch3BIT2e6iM16+o+0U2WPLfAH1ctBq0MVeCzn+WYsiWQ==;H/6RgQO8Jc4jNjiuS8C3dg=="
 ---

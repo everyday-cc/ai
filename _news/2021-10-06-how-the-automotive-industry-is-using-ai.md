@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-05T20:09:00Z
 originalUrl: "https://www.datamation.com/artificial-intelligence/ai-in-automotive/"
 webUrl: "https://www.datamation.com/artificial-intelligence/ai-in-automotive/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - AI in Autos
 
 images:
   - url: "https://www.datamation.com/wp-content/uploads/2021/10/The-interior-of-an-autonomous-driverless-vehicle.jpeg"

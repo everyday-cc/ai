@@ -38,20 +38,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "AI Start-up Data Sutram Raises Funding, Amount Undisclosed"
-    excerpt: "IIFL Fintech Fund, one of India’s largest early-stage investors in the fintech space, said that it has invested in the Kolkata-based start-up."
-    publishedDateTime: 2021-10-01T07:10:00Z
-    webUrl: "https://analyticsindiamag.com/ai-start-up-data-sutram-raises-funding-amount-undisclosed/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/AIM-Illustration-2.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Nvidia joins $100M funding round for MLOps startup Domino Data Lab"
     excerpt: "Artificial intelligence startup Domino Data Lab Inc. today disclosed that it has nabbed a $100 million investment from Great Hill Partners, Nvidia Corp. and existing backers. San Francisco-based Domino Data Labs said that it will work more closely with Nvidia following the funding round."
     publishedDateTime: 2021-10-05T17:54:00Z

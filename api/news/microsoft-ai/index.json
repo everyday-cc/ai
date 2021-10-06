@@ -576,6 +576,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-28-callminer-combines-conversation-analytics-platform-with-microsoft-azure-speech-to-text.md",
+      "title": "CallMiner Combines Conversation Analytics Platform With Microsoft Azure Speech to Text",
+      "excerpt": "Microsoft Azure Speech to Text customers can easily procure and deploy CallMiner as an out-of-the-box solution using Azure credits for faster time to valueWALTHAM, Mass.--(BUSINESS WIRE)--CallMiner, a leading provider of conversation analytics to drive business improvement,",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=537739",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=537739",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-comparing-aws-microsoft-and-google-cloud-cyber-security-in-the-public-cloud.md",
       "title": "Comparing AWS, Microsoft and Google Cloud: Cyber security in the public cloud",
       "excerpt": "A brief guide to the network, infrastructure, data and app security capabilities AWS, Microsoft Azure and Google Cloud provide to prevent cyber attacks.",
@@ -1352,50 +1395,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-comparison-of-iot-services-from-aws-azure-and-gcp.md",
-      "title": "Comparison Of IoT Services From AWS, Azure, And GCP",
-      "excerpt": "AWS IoT Core natively integrates with other AWS services like AWS Lambda, Amazon Kinesis, Amazon S3, Amazon Sagemaker, Amazon DynamoDB, CloudWatch, Aws CloudTrail, Amazon QuickSight. AWS IoT Device Defender: AWS IoT Device Defender is another fully managed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fieldtechnologiesonline.com/doc/comparison-of-iot-services-from-aws-azure-and-gcp-0001",
-      "originalUrl": "https://www.fieldtechnologiesonline.com/doc/comparison-of-iot-services-from-aws-azure-and-gcp-0001",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://vertassets.blob.core.windows.net/image/3bd9b1bf/3bd9b1bf-9772-4cf3-a258-630396eff499/istock_1215247403.jpg",
-          "width": 1042,
-          "height": 695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-16T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Field Technologies Online",
-        "domain": "fieldtechnologiesonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

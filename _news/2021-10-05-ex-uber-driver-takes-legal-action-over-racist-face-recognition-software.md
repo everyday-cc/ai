@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2021/oct/05/ex-uber-driver-ta
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/oct/05/ex-uber-driver-takes-legal-action-over-racist-face-recognition-software"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "Uber faces legal action over ‘racially discriminatory’ facial recognition ID checks"
+    excerpt: "Ride-hailing giant Uber is facing a legal challenge over its use of real-time facial recognition technology in a driver and courier identity check system that it uses in the UK. The App Drivers & Couriers Union (ADCU) announced the legal action Tuesday,"
+    publishedDateTime: 2021-10-06T00:40:00Z
+    webUrl: "https://techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/"
+    ampWebUrl: "https://techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 83
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1232204732.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "fr2qovE/MyU8Ja+HI3i2T9mv1jX6ZhLHMSOVzJWc0H3qEImRvBXCkTwHoBd4tcmRjpAP49kRI02w8TcpWHAnhiRRhEINKx0XBoZwYjJGbpEZMs7lVL42ivQPRLcELpl2JnghT/jfL7zHiuKlRwd1IWRTawukYA6WkMdriz8zrl8/6mhyatZqwv63Je4vMP8D62KkicMHsGHk1GqQkAu+ffs2Hv8rqU+6908uIznsz+d13rN35As1LPJoBQ69P1bls84JaIO/8cwDkhLyy2kA0q5qY0U0oaionMoendUjQ/27dVSAIlcr569YKae69v3TXtioPP/StEq2UXsppBmRF3U1RxxojhmvSBRiXVNvoh0iKIIEAsJEJamJO79Bp42+X0+4pK7D/yJzZuDanHOvadYM9WLeiZmXjkIr8JAMK7PQ0mA+XcyWCXKzMhOFqfWdaa1SoebmRjQ1ewgGDU2aBOOcK8fNrfz3HH7Fbd901tyOYUehh+qD8Vt7iAyQXy3Rl/Sx3R71DN1RkgfPLCLHzA==;b2K0g/UjAhM6Dssf+1/LAQ=="
 ---

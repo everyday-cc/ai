@@ -57,6 +57,22 @@ related:
         width: 790
         height: 496
         isCached: true
+  - title: "Artificial Intelligence and Antitrust Activity"
+    excerpt: "Can A.I. Sniff Out Antitrust Violations?  In a recently published paper, a pair of academics propose that the application of artificial intelligence can offer a potent weapon against antitrust"
+    publishedDateTime: 2021-10-05T23:59:00Z
+    webUrl: "https://www.natlawreview.com/article/artificial-intelligence-and-antitrust-activity"
+    ampWebUrl: "https://www.natlawreview.com/article/artificial-intelligence-and-antitrust-activity?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/artificial-intelligence-and-antitrust-activity?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 57
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
 
 secured: "b958eScLV6JaK4MpRLpNmAXQb4VFAivu4G2YHOzK+l6cp+2HG01Wy9LTuu9TeQJptQWclDJ9ivxOZ1ewpNVu7VN/FxJZKxS93x+4iqPkepScgHrYsHrKVmxI9FuV9T6a/EZppi4ocYhUbH8tmNdXr8l+pSQDq+IoYzosftq58SluHqmibfmbcejc0NHPe9VDeQbZfZ4tdPOebxHzDZGj/4AujLTdJuc5gd23wA/WNCF4iwzH3K2J/38cKCDVVgxzL7McQcTqhuuXoRO2C8IBBPaQwGud5WafENHJRWticg2mwgBkHM9k/M1UBQAXuP+BMzGoL2fV1mh2/AQWKwHqfNr+HIQpmgMzy/399okpbKnHNe4wdt4aBD7UynlXKDblBYnEFz+hF9Zw+Q68LcyqkGP+NuiGuirCa7nMOPyNJ37nMZ1AKInxtXsn3XjG99rXerhfdS6I+Bl5/+crU/2Su92O79up09//36Ly2xg3jMxmDu5Y6rcgsj04FqhEBnzZ/vtbaHCC//k0QF7rzczaFQ==;1XJlQvFxkT/sydcs9pMsPQ=="
 ---

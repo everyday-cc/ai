@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/ai-startup-domino-data-lab-raises-100
 webUrl: "https://www.wsj.com/articles/ai-startup-domino-data-lab-raises-100-million-in-new-funding-11633438800?tpl=pe"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Start-up Data Sutram Raises Funding, Amount Undisclosed"
-    excerpt: "IIFL Fintech Fund, one of India’s largest early-stage investors in the fintech space, said that it has invested in the Kolkata-based start-up."
-    publishedDateTime: 2021-10-01T07:10:00Z
-    webUrl: "https://analyticsindiamag.com/ai-start-up-data-sutram-raises-funding-amount-undisclosed/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/AIM-Illustration-2.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Thankful Raises $12 Million for Customer Service AI"
     excerpt: "Venice-based Thankful AI Inc. raised $12 million in Series A funding for its customer service artificial intelligence platform. Thankful plans to use the funding to further develop its AI to include features such as greater personalization and the ability to upsell in customer service situations."
     publishedDateTime: 2021-10-04T07:06:00Z
