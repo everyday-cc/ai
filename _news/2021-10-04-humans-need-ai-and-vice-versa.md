@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3635489/humans-need-ai-and-vice-ve
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3635489/humans-need-ai-and-vice-versa.amp.html"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Brain cell differences could be key to learning in humans and AI"
+    excerpt: "Researchers have found that variability between brain cells might speed up learning and improve the performance of the brain and future AI."
+    publishedDateTime: 2021-10-06T16:00:00Z
+    webUrl: "https://techxplore.com/news/2021-10-brain-cell-differences-key-humans.html"
+    ampWebUrl: "https://techxplore.com/news/2021-10-brain-cell-differences-key-humans.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-brain-cell-differences-key-humans.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/brain-cell-differences.jpg"
+        width: 700
+        height: 484
+        isCached: true
   - title: "Microbes, Natural Intelligence and Artificial Intelligence"
     excerpt: "Humanity is an outgrowth of natural life, but it currently enables a phase transition into technological relics that could survive longer than biological creatures. And the same could have happened long ago around other stars that formed billions of years before the sun."
     publishedDateTime: 2021-10-02T14:59:00Z

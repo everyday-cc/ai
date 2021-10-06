@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Former IBM senior vice president Robert Picciano joins CognitiveScale as CEO"
+    excerpt: "Venture-backed artificial intelligence startup CognitiveScale Inc. today announced that Robert Picciano, a former IBM Corp. senior vice president, is joining as chief executive officer. Picciano headed IBM’s Cognitive Systems business unit until his departure from the company in 2020."
+    publishedDateTime: 2021-10-06T17:12:00Z
+    webUrl: "https://siliconangle.com/2021/10/06/former-ibm-senior-vice-president-robert-picciano-joins-cognitivescale-ceo/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 21
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/theCUBE.png"
+        width: 936
+        height: 522
+        isCached: true
 
 secured: "ttkeyu1umjeWdMRghiLuqJlJnxhLVOnIp8ny5TAxkn5O3qYvB5AEV22KcGik0BQs74k1JYxErgYzN3XDpn4WIP7P0x9ssYn6lyCHkOhSF4M/IfVLP3Ba6Eouiq7BPqI7mJSFCgRYR5S3aU3v1C6oztQKtrPfjE5iPfo1PuTomC2lpw3mY9/AuP7Oo7HUx6zTLn7HEmO39TeMppVexJ5YSLuvKceMdQrH6UeYzacGoeM+/pTW8nl8aWxl2vxeYmlLam/UPOoTmNde4HIrDYh+WtjiiLOu3qm0bDT2/39WxBOQazlAb4BYLrM8dSCpZ+0JOSlMPEQ/of7sSeD+mNnKZRpTIZaA3102xgF7NmUYZNQ=;10TIaLdHwoTvUHevT83E1w=="
 ---

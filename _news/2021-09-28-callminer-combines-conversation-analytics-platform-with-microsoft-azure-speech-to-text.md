@@ -1,26 +1,20 @@
 ---
 category: news
 title: "CallMiner Combines Conversation Analytics Platform With Microsoft Azure Speech to Text"
-excerpt: "Microsoft Azure Speech to Text customers can easily procure and deploy CallMiner as an out-of-the-box solution using Azure credits for faster time to valueWALTHAM, Mass.--(BUSINESS WIRE)--CallMiner, a leading provider of conversation analytics to drive business improvement,"
-publishedDateTime: 2021-09-28T12:30:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=537739"
-webUrl: "https://us.acrofan.com/detail.php?number=537739"
+excerpt: "CallMiner, a leading provider of conversation analytics to drive business improvement, today announced it is enabling organizations to use the power of the CallMiner Eureka Platform with Microsoft ( News - Alert) Azure Speech to Text as a powerful,"
+publishedDateTime: 2021-09-28T12:40:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-callminer-combines-conversation-analytics-platform-with-microsoft-azure-/2021/09/28/9457714.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-callminer-combines-conversation-analytics-platform-with-microsoft-azure-/2021/09/28/9457714.htm"
 type: article
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
-    isCached: true
-
-secured: "5pClJQzYQkz3pH1yieU7sLo3Jwwi54x05iU//Dl90N0RwOQuE29QMIFU0kyHa8jSVt4Tkz5mzU2NYu7FwNCuS5ZgLfunA9alEGgmIDYC2KPMJ7FCMTYvEcDXZKcC+PuCPz7dwm64heR4OgtXXfHZSLjERt5C5NgrNjH4layvXbV97MUNmZKrEBiiz0sLcPfG+apUaBYjkALmnjy9NjyrF4+wkhkb8414BhNRL/1HaR/rS5NWGU3UcwaUA+Hk13KNW5u6LKn6yNtvpeGH+WK2I/KF5A06hj1FLq5Zpo3bT8fB9zK7bBs1gG8rIqm7UrMwtSZ8+wC5BBkY/GDw7A6Zxx/lk2w7bIYGgghrFJjZooU=;6WRo3q8xa0iIMamLbGuRwg=="
+secured: "lYGcRYPysUd2Lcw95PBaNzkoZcXeagiK3cT4o9++BsFiDrM8qXG2DYZdP1RQWJu+jysLFTuW1UNsy0jRNVA+rPxTj0Ur7j53X5VI5YzumY1VA3qrfj8wsZDZ9kemdWrBGP4dzzWBzxihSundu9AqNRjg6QqjQOAXq1uykYmiND7HlARrMmnyBSngRSIC8Mc57GkNnhgoOGoT3BwAX15QabkX5D8x/enP6rVPL93LO34YzBiOBZGwFkz5E3YiufJ3fVVoP51AoksFuXJblu1Cg3V5za99/6b/tBsZesF8ZKlq1CqQqUdAGVPyAw9dmzvM7rIedO7lQFTFgrssDEE0of4aDVCyJnH0VDhYyNvk0a0=;2IZ7SPV6pTMJxc+KAZOjwg=="
 ---
 

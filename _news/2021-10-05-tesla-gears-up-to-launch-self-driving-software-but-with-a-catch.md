@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "GM reveals Ultra Cruise, a proper Tesla Full Self-Driving beta rival"
+    excerpt: "Super Cruise will handle hands-free highway driving; Ultra Cruise, GM promises, will be onboard to tackle hands-free driving in 95% of all scenarios."
+    publishedDateTime: 2021-10-06T16:58:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/gm-ultra-cruise-tesla-full-self-driving-beta-rival/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/gm-ultra-cruise-tesla-full-self-driving-beta-rival/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/gm-ultra-cruise-tesla-full-self-driving-beta-rival/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/HVaaHhjDY5Cu1wSngHfxbRUraKg=/2021/10/06/3836995a-9a1e-4556-896a-24436729ed73/ogi-gm.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Want To Join The Tesla Full Self Driving Beta? You’ll Have To Prove You’re A Good Driver First"
     excerpt: "Advertisement If you’re willing to risk your life for the self-driving gimmick, here’s what you can do to join Tesla’s FSD beta… According to InsideEVs, Tesla is finally releasing its Full Self Driving (FSD) Beta button."
     publishedDateTime: 2021-10-05T07:56:00Z
@@ -58,6 +74,20 @@ related:
       - url: "https://images.barrons.com/im-411554/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "GM's Ultra Cruise to enable hands-free driving for 95% of driving in 2023"
+    excerpt: "GM's Ultra Cruise driver-assist system will arrive in 2023 to go beyond Super Cruise and provide hands-free driving on more than 2 million miles of road in the U.S. and Canada."
+    publishedDateTime: 2021-10-06T16:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1133793_gm-s-ultra-cruise-to-enable-hands-free-driving-for-95-of-driving-in-2023"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 23
+    images:
+      - url: "https://images.hgmsites.net/hug/cadillac-super-cruise_100625565_h.jpg"
+        width: 1920
+        height: 1275
         isCached: true
 
 secured: "Tt6KeFY+iRNjGVZuXA20//F6dxf2lwZP1bONpao8LNNViqgR0SuxThT4nKwsWLMQPb6nbb6bOXo0dqc465YcMbShpm0oDEiSH3xgAtEes5AKYWpocE/iUDRIvjAJFmlLdkY92If1K4On55SabWkPS26f5213LtgNwiXSLFk9mfyYISfwbzxCKc5g2fvPeXs0tOFwUVCGUhBG67egf+ydAAhCaa/Ogd4LDaC+VMNbZ4MzctHLzLxwwNJo9nBHHrfeMLNYkBUGnSHxACHW7hmKTO8G8YOuYR2sY8JflLYdD7pOH4oMtFq/TW0flKJfvxCiRhh8ko7YYNNbibKVgAqPnizsOZ6eqm5WarSYo9mhWzgeQ4QQfurNEOANmkMalUalYPAi5Zp2aKCsNHo0i4Lx3SUAweV7CwoNsLqNKqJUUge8w3GRjDyGkduPg1j1S7l/RwUGd0RFTT7qKwdW57Db1lKXtpIAhCHKn3HjfWxQVOvFgeuySzI+y/pALBjjcyqeamZJPyO6vviOiGlq2Z340w==;CFZjx6vTks13LnmaZx/sXg=="

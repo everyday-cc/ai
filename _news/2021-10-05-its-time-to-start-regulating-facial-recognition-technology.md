@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Canadians asked to comment on draft guidance for police use of facial recognition"
+    excerpt: "Canadian police departments and interested groups have 10 days to submit written opinions on the proposed privacy obligations of law enforcement agencies that want to use facial recognition technology."
+    publishedDateTime: 2021-10-06T16:31:00Z
+    webUrl: "https://www.itworldcanada.com/article/canadians-asked-to-comment-on-draft-guidance-for-police-use-of-facial-recognition/459786"
+    ampWebUrl: "https://www.itworldcanada.com/article/canadians-asked-to-comment-on-draft-guidance-for-police-use-of-facial-recognition/459786?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/canadians-asked-to-comment-on-draft-guidance-for-police-use-of-facial-recognition/459786?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 54
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2020/06/GettyImages-1148006029.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "POLITICO AI: Decoded: Parliament wants to ban facial recognition— Experimenting with facial recognition rules — Big big bucks in AI"
     excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
     publishedDateTime: 2021-10-06T09:41:00Z

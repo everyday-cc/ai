@@ -1,29 +1,45 @@
 ---
 category: news
 title: "Intelligence emerging from random polymer networks"
-excerpt: "Reservoir computing (RC) tackles complex problems by mimicking the way information is processed in animal brains. It relies on a randomly connected network that serves as a reservoir for information and ultimately leads to more efficient outputs."
-publishedDateTime: 2021-10-06T13:36:00Z
-originalUrl: "https://phys.org/news/2021-10-intelligence-emerging-random-polymer-networks.html"
-webUrl: "https://phys.org/news/2021-10-intelligence-emerging-random-polymer-networks.html"
+excerpt: "A team of researchers led by Osaka University assembled a sulfonated polyaniline (SPAN) organic electrochemical network device (OEND) for use in reservoir computing. SPAN was deposited on gold electrodes which formed a disordered network providing humidity-dependent electrical properties."
+publishedDateTime: 2021-10-06T14:02:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/930671"
+webUrl: "https://www.eurekalert.org/news-releases/930671"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
-  - Machine Learning
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2021/intelligence-emerging.jpg"
-    width: 943
-    height: 856
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/e8577f5f-9236-4bec-906a-e12005e2ad3c/Rendition/thumbnail/Content/Public"
+    width: 300
+    height: 272
     isCached: true
 
-secured: "Fut8e3W2rnpG18PocRMHXSmVTSQiXjRwzNXRYVxfUJNp4EEzPI71kURoeX6cioGX1/3JhpUaqeoFE6tLof2I1BEFroAl4j/K2W3HtwzP8ZWBQsZDpns0X93Nr5KxPEeRdCBKYWt/3HzMwT00Xk1HLMNoKDd8aJdN0EmuohptAx1vlHmxTOp0aFreE0HqoGg/LX/ptz8IYvvasgw+fTAPxuDhQk6MTagq6bOYpERNP1XiSHRmtYVHP3fEW1tTn6UhumTWao4iVfZ5W4kmp7nEgVAWcIqPj5RrcIEBzyuGKxkoXr14IscmZ8UvFcxFrbuFW/cl2L9d5ljNgRd/EeYfRpGuAfBn93ScMrnz919MEaU=;ac4bwZJTmEdcPek2Jci38w=="
+related:
+  - title: "Intelligence Emerging from Random Polymer Networks"
+    excerpt: "Neural networks in the brain use electrochemical signals carried by ions. Therefore, an electrochemical approach is a logical choice when choosing a material system for RC. Organic electrochemical field-effect transistors (OECFETs) are popular in bioelectronics;"
+    publishedDateTime: 2021-10-06T17:47:00Z
+    webUrl: "https://www.labmanager.com/news/intelligence-emerging-from-random-polymer-networks-26820"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 24
+    images:
+      - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/26820/aImg/49242/intelligence-emerging-from-random-polymer-networks-m.jpg"
+        width: 800
+        height: 400
+        isCached: true
+
+secured: "DHiRe6kp4XW9BfHUZPm2hmtqBUG/IaSEtduPRdkf001+AOqY7RSAQm7oqi0jJHPdqUTRRk0E0yGqDSPNpLLVplAqfjMaz/mFnP4U8EAW7YufGd+AE/a+3d1R1/0YgQ6AmjnoAl8VugCZl6en1rliaQj8ZMFT7Xo9TwYGeSgFXacpFMt7kWsFTswLuoUymjdhXIrGUIX2rjHTv4GEY6GL9cBTca9/AHmXdbAMIm6eVERZgyl1HgbkbVZzKxwHzU9svdqkCA65xrbfwgI9YzPj3SvWzyclXJIhe4bUqz+ZhzDuQ0+PfUNq7NjIkxUgNHB25KVcfYBlUqh1JFtuuUJVDVnrWmPkNXirNdB7LU0gs1Q=;XOn2RhB8kRWFwAy0yw7d8g=="
 ---
 

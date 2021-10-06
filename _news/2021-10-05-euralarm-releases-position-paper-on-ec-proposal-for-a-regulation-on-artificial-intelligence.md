@@ -25,6 +25,22 @@ images:
     height: 355
     isCached: true
 
+related:
+  - title: "Revival AI Announces Regulation A+ Offering to Revolutionize Bible Publishing Through Customization, AI, and Automation"
+    excerpt: "Revival AI, a Bible customization firm driven by some of today's most groundbreaking technology, is pleased to announce the launch of its Regulation"
+    publishedDateTime: 2021-10-06T16:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/revival-ai-announces-regulation-a-offering-to-revolutionize-bible-publishing-through-customization-ai-and-automation/article_e6a02887-3895-5593-85f0-52b992516690.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 15
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
 secured: "fQahqOGngPYQhz2exJa1zAx38Us0HtKkobNu4hk6DkiJ2qR6cptEYEdq8OyMVT7JCFPDBkSacpyFcIt71ujXf1G+E2JzZIITKfMtSp38gutOXUQe37J00tRlMybluf1GSfAsAgeEx65bIMr0LLlClbldhBgkgIcl2SawQI/E18g4dC1uST2uaB147XoeBiMpksV9SUn+zT1Lt2Uiz4hUh5y5AVTYyWwry9l240G240yvSNjMr7Ap+4OMvv6zZhWqgCbQGagitlfP7CjkSwvNKhwJyYjfMSsgYvXdOsT2Q2FP1lygJ+xruuyKqo/0yj0+nhDB1sc3kIRwCAjaCI0/rVGyHNwuQU6fTxENCZYBzBQcT04ruMThubsYituxfCmxQVGlvzMVPr+iGdqixcSXpQBvfWT3/jxkEKqv/x0I7VyGEvblD65cvqmUlepB9CHyg6YpaaPTtepDDN3hg25fpGbtV3VE1vzNA1JCMEYQSZU3cIwq/D5aWemTe8lN/03+3bVSeR9byn0X2XeDqPTVJQ==;H48InSGy4OmxWf4rOfDqyg=="
 ---
 

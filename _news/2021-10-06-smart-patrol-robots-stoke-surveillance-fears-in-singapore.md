@@ -35,6 +35,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Singapore patrol robots warn people of ‘undesirable’ behavior"
+    excerpt: "Singapore has trialed patrol robots that blast warnings at people engaging in “undesirable social behavior,” adding to an arsenal of surveillance technology in the tightly controlled city-state that is fueling privacy concerns."
+    publishedDateTime: 2021-10-06T10:41:00Z
+    webUrl: "https://wtop.com/world/2021/10/singapore-patrol-robots-warn-people-of-undesirable-behavior/"
+    ampWebUrl: "https://wtop.com/world/2021/10/singapore-patrol-robots-warn-people-of-undesirable-behavior/amp/"
+    cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/world/2021/10/singapore-patrol-robots-warn-people-of-undesirable-behavior/amp/"
+    type: article
+    provider:
+      name: WTOP News
+      domain: wtop.com
+    quality: 59
+    images:
+      - url: "http://cbsnews2.cbsistatic.com/hub/i/r/2021/10/06/f714e494-d1a9-4b63-b8fc-03a0cef2efb5/thumbnail/620x413/9d0ddafff68a9a73fce31f5ebd0ab08e/singapore-robot-xavier-1235122903.jpg#"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Robots Now Patrol Singapore Streets To Deter \"Undesirable Social Behaviour\""
     excerpt: "Singapore has trialled patrol robots that blast warnings at people engaging in \"undesirable social behaviour\", adding to an arsenal of surveillance technology in the tightly controlled city-state that is fuelling privacy concerns."
     publishedDateTime: 2021-10-06T03:02:00Z
@@ -160,6 +176,20 @@ related:
       - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/09/BannerA_04.jpg?x45653"
         width: 300
         height: 250
+        isCached: true
+  - title: "Singapore patrol robots stoke privacy fears"
+    excerpt: "Singapore has trialled patrol robots that blast warnings at people engaging in “undesirable social behavior,” adding to an arsenal of surveillance technology in the tightly controlled city-state that is fueling privacy concerns."
+    publishedDateTime: 2021-10-06T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/world/archives/2021/10/07/2003765694"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 39
+    images:
+      - url: "https://www.taipeitimes.com/images/2021/10/07/P04-211007-319.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "j9SqvzOM+DO4/YPDpeNEpfmbp6+mVUtKOFmcDKb2lPnOcPIIm0Y6iQW01AI4p+lhGtLtkC9NO7nRCSUuhF/0Y7d5N6QWwCTmtN4B7hPb/JDGeBnCNLzPsFm1126XXQhkDyx2Rta/tT6RehAioCRj0402lUUcZmE+/evwn8+kU3lVMsQWDOdQjD5lt+vg18c2BgR12Tja93fSGnDQHNXYfzuQpzc8GRXcKwOKlpZwXnIk4zniLrRl1G2PupUXVUnzGKTnQuKfBELFdzZccX1cNJU70JqppxSpo55kUuiIzOWQwTze7mAJMig27sze5JDAlgODzDaUZIlMJpUyHmZyQlspQIEDxqiI6EVqtoliULA=;2mpSZk2e0mnW0E6qc6gJug=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-10-singapore-patrol-robots-stoke-su
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-singapore-patrol-robots-stoke-surveillance.amp"
 type: article
 quality: 59
-heat: 149
+heat: 169
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Singapore patrol robots warn people of ‘undesirable’ behavior"
+    excerpt: "Singapore has trialed patrol robots that blast warnings at people engaging in “undesirable social behavior,” adding to an arsenal of surveillance technology in the tightly controlled city-state that is fueling privacy concerns."
+    publishedDateTime: 2021-10-06T10:41:00Z
+    webUrl: "https://wtop.com/world/2021/10/singapore-patrol-robots-warn-people-of-undesirable-behavior/"
+    ampWebUrl: "https://wtop.com/world/2021/10/singapore-patrol-robots-warn-people-of-undesirable-behavior/amp/"
+    cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/world/2021/10/singapore-patrol-robots-warn-people-of-undesirable-behavior/amp/"
+    type: article
+    provider:
+      name: WTOP News
+      domain: wtop.com
+    quality: 59
+    images:
+      - url: "http://cbsnews2.cbsistatic.com/hub/i/r/2021/10/06/f714e494-d1a9-4b63-b8fc-03a0cef2efb5/thumbnail/620x413/9d0ddafff68a9a73fce31f5ebd0ab08e/singapore-robot-xavier-1235122903.jpg#"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Robots Now Patrol Singapore Streets To Deter \"Undesirable Social Behaviour\""
     excerpt: "Singapore has trialled patrol robots that blast warnings at people engaging in \"undesirable social behaviour\", adding to an arsenal of surveillance technology in the tightly controlled city-state that is fuelling privacy concerns."
     publishedDateTime: 2021-10-06T03:02:00Z
@@ -152,6 +168,20 @@ related:
       - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/09/BannerA_04.jpg?x45653"
         width: 300
         height: 250
+        isCached: true
+  - title: "Singapore patrol robots stoke privacy fears"
+    excerpt: "Singapore has trialled patrol robots that blast warnings at people engaging in “undesirable social behavior,” adding to an arsenal of surveillance technology in the tightly controlled city-state that is fueling privacy concerns."
+    publishedDateTime: 2021-10-06T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/world/archives/2021/10/07/2003765694"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 39
+    images:
+      - url: "https://www.taipeitimes.com/images/2021/10/07/P04-211007-319.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Smart patrol robots stoke surveillance fears in Singapore"
     excerpt: "Singapore has trialed patrol robots that blast warnings at people engaging in undesirable social behavior, adding to an arsenal of surveillance technology in the tightly controlled city-state that is fueling privacy concerns."

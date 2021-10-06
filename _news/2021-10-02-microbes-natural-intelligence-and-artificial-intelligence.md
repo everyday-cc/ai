@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Brain cell differences could be key to learning in humans and AI"
+    excerpt: "Researchers have found that variability between brain cells might speed up learning and improve the performance of the brain and future AI."
+    publishedDateTime: 2021-10-06T16:00:00Z
+    webUrl: "https://techxplore.com/news/2021-10-brain-cell-differences-key-humans.html"
+    ampWebUrl: "https://techxplore.com/news/2021-10-brain-cell-differences-key-humans.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-brain-cell-differences-key-humans.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/brain-cell-differences.jpg"
+        width: 700
+        height: 484
+        isCached: true
   - title: "Artificial Intelligence and Antitrust Activity"
     excerpt: "Can A.I. Sniff Out Antitrust Violations?  In a recently published paper, a pair of academics propose that the application of artificial intelligence can offer a potent weapon against antitrust"
     publishedDateTime: 2021-10-05T23:59:00Z

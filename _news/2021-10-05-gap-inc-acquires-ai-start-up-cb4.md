@@ -51,6 +51,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
+  - title: "US firm acquires Keralite's AI start-up"
+    excerpt: "Kochi: Uncanny Vision, an artificial intelligence start-up registered in Kerala has been acquired by a US-based company, Eagle Eye Networks, having a global presence. Interestingly, the company has a curious’ triangular South Indian equation’."
+    publishedDateTime: 2021-10-06T15:47:00Z
+    webUrl: "https://english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705"
+    ampWebUrl: "https://english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705"
+    cdnAmpWebUrl: "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705"
+    type: article
+    provider:
+      name: Mathrubhumi
+      domain: mathrubhumi.com
+    quality: 57
+    images:
+      - url: "https://english.mathrubhumi.com/polopoly_fs/1.783633.1452191436!/menu/standard/file/490.png"
+        width: 490
+        height: 268
+        isCached: true
   - title: "Gap Acquires AI Startup CB4; Terms Not Disclosed"
     excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
     publishedDateTime: 2021-10-04T16:00:00Z

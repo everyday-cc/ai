@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-05T14:00:00Z
 originalUrl: "https://www.financialbuzz.com/scaleout-software-announces-machine-learning-capabilities-for-its-scaleout-digital-twin-streaming-service/"
 webUrl: "https://www.financialbuzz.com/scaleout-software-announces-machine-learning-capabilities-for-its-scaleout-digital-twin-streaming-service/"
 type: article
-quality: 4
-heat: 4
+quality: 6
+heat: 6
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Finance
+  - Microsoft AI
 
 related:
   - title: "ScaleOut Software Announces Machine Learning Capabilities for its ScaleOut Digital Twin Streaming Service™"

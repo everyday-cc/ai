@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Uber's 'racist' facial recognition software is firing Black and Asian drivers, former driver claims"
+    excerpt: "Uber is facing legal action for alleged indirect racial discrimination against a driver who claims he was sacked after facial recognition software used by the company failed to recognise him. In an employment tribunal claim filed this week,"
+    publishedDateTime: 2021-10-06T15:37:00Z
+    webUrl: "https://www.euronews.com/next/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-"
+    ampWebUrl: "https://www.euronews.com/next/amp/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-"
+    cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 60
+    images:
+      - url: "https://static.euronews.com/articles/stories/06/13/14/64/1000x563_cmsv2_3a714556-0f52-5d73-a4d7-5352ed7a7c5c-6131464.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Uber Being Sued Over ‘Racist’ Facial Recognition Algorithm"
     excerpt: "Uber is being sued over a ‘racist’ facial recognition algorithm that is more likely to lock out drivers with darker skin. With this algorithm, drivers are required to scan their face intermittently before they can access the back-end of the ride-hailing app’s system."
     publishedDateTime: 2021-10-06T14:53:00Z
@@ -78,6 +94,20 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/03e8a0e44c23400109e531a7e13340b1.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Uber taken to court for ‘racist’ facial recognition software"
+    excerpt: "Lawyers will argue facial recognition systems, including those operated by Uber, are faulty and generate poor accuracy results when used with people of colour. | ITV News London"
+    publishedDateTime: 2021-10-06T14:41:00Z
+    webUrl: "https://www.itv.com/news/london/2021-10-06/uber-taken-to-court-for-racist-facial-recognition-software"
+    type: article
+    provider:
+      name: ITV
+      domain: itv.com
+    quality: 39
+    images:
+      - url: "https://images.ctfassets.net/pjshm78m9jt4/3z7E4ljmpMkSw3eDXBTZJz/92f93330b93942e73a381642640c4f21/uber.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Striking Uber drivers demand end to ‘racist’ facial recognition software"
     excerpt: "Striking Uber drivers, supported by Black Lives Matter and Union IWGB, are protesting at Uber HQ over 'racist' facial recognition software"

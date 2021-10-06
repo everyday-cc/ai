@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-and-vmware-team-up-t
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-and-vmware-team-up-to-help-enterprises-scale-up-ai-development/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "VMware Partners Its Way Deeper into Cloud, Edge, And AI"
+    excerpt: "Software maker VMware has always been about tight partnerships with other tech vendors. When you are middleware between hardware and operating systems,"
+    publishedDateTime: 2021-10-06T16:40:00Z
+    webUrl: "https://www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/"
+    ampWebUrl: "https://www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 61
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/vmware-logo.jpg"
+        width: 776
+        height: 488
+        isCached: true
   - title: "VMware Extends Tanzu Support for Nvidia AI Enterprise"
     excerpt: "Sphere with Tanzu has been upgraded for developers of AI applications, now including the Kubernetes operater, VMware and Nvidia announced on the first day of VMWorld."
     publishedDateTime: 2021-10-05T19:34:00Z

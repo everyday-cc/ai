@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 589
         isCached: true
+  - title: "VMware Partners Its Way Deeper into Cloud, Edge, And AI"
+    excerpt: "Software maker VMware has always been about tight partnerships with other tech vendors. When you are middleware between hardware and operating systems,"
+    publishedDateTime: 2021-10-06T16:40:00Z
+    webUrl: "https://www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/"
+    ampWebUrl: "https://www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 61
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/vmware-logo.jpg"
+        width: 776
+        height: 488
+        isCached: true
   - title: "NVTC partners with NVIDIA Deep Learning Institute to provide online AI courses"
     excerpt: "The Nasser Artificial Intelligence Research and Development Centre at the Nasser Vocational Training Centre (NVTC) and the NVIDIA Deep Learning Institute have started a collaboration, whereby students in Kingdom of Bahrain benefit from NVIDIA’s online courses in various areas of artificial intelligence (AI)."
     publishedDateTime: 2021-10-02T15:33:00Z

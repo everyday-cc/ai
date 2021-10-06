@@ -1,15 +1,17 @@
 ---
 category: news
 title: "Vice President calls for AI solutions in agriculture, health, education"
-excerpt: "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial"
-publishedDateTime: 2021-09-28T20:04:00Z
-originalUrl: "https://menafn.com/1102881265/Vice-President-calls-for-AI-solutions-in-agriculture-health-education"
-webUrl: "https://menafn.com/1102881265/Vice-President-calls-for-AI-solutions-in-agriculture-health-education"
+excerpt: "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to delive.."
+publishedDateTime: 2021-09-29T06:07:00Z
+originalUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
+webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
+ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
+cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - Natural Language Processing
@@ -17,11 +19,11 @@ topics:
   - AI in Education
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-09/28/I_c99edimage_story.jpg"
-    width: 400
-    height: 267
+  - url: "https://etimg.etb2bimg.com/thumb/msid-86606103,imgsize-21820,width-800,height-434,overlay-etcio/vice-president-calls-for-ai-solutions-in-agriculture-health-education.jpg"
+    width: 800
+    height: 434
     isCached: true
 
-secured: "bfj5rzXale0QpNdjlL8izJ9y0ALM6kimDhAue4vjg+7iJBxk4hb6yMX3zd1Q7jsuhTsceyyWBy4LmMHVQ9rdlRNTR10xUyCCdv62hCd/Zvo24F5Yywqx+J2cNutBysMz9sVzrSzZyU/lQcdj7UdTyHKgVnlL2/wDP1S6CiATqfFD72jkReOOkE6yCNAEjG3h2MPukRPWSH9zv7byYQ+qo/LA7bM9hsxmHgVqugyEx4wqXZkUcvMfKuiqRaj0HbRmIMT38Fn/HnZ8lik1/hS0IooPyUz+zpHgF85eJsZUZtLjPVJMXh4dWmVSyL3jXgyYrpxnGaYZ/iqRfAjMQ750lb4CtHSl/GGCumbP5T8cumYt2av6xvfyogKG32Lln2tPFc9M3/OzYLPkB2+1twsSmk3sl7CMCtxtjTa2wLLPJuQfpTT8KoMJ4Y4upOej2yHqLwYQFbpfH1QzlnPhqW6msHsiUb52HM3sg6Nw7ATlfB4QbncQJ30KkBMR04ZdC/eFu5TFAlQBinhLHzqofNdFlg==;aBV0YiPbEAKXzNQMjrM6Jw=="
+secured: "fL6TjvVy3bFwSd2d08Kr7NIDSvyu7EfPAeSdd6Y5mh6gG1IKvZgNVfRyxRyYlicVHaQyeH8wGkUxrNzL/fdUDDe2BVzeTMYGvG5duRJkpf4jU8ryYs75zi1MQJxVVwx05DkdxvrOZck3eL/QaYkHRPkF8iuA2mHwOljUEYUPt/+K5mRXQTNdZzV00YhkRbcpjBOmi0jhkX5Q8yTWamt9oLIO0ykoAk0vlHBQPd/KQ6K+zQRh/MlqWmF1HazmmMjyt7JEMTNrP3PyX6RhBXOGxVWQMWdDPdO3g9d9oYd4ELV3hi04UmLY0fOfRetMndT2U4277bdw5U1xhCPd+8cZ010olOrISQeWcKumf+FfRCw=;vd9+EoFgp3HVMP40lr0YCg=="
 ---
 

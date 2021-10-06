@@ -51,6 +51,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
+  - title: "US firm acquires Keralite's AI start-up"
+    excerpt: "Kochi: Uncanny Vision, an artificial intelligence start-up registered in Kerala has been acquired by a US-based company, Eagle Eye Networks, having a global presence. Interestingly, the company has a curious’ triangular South Indian equation’."
+    publishedDateTime: 2021-10-06T15:47:00Z
+    webUrl: "https://english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705"
+    ampWebUrl: "https://english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705"
+    cdnAmpWebUrl: "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705"
+    type: article
+    provider:
+      name: Mathrubhumi
+      domain: mathrubhumi.com
+    quality: 57
+    images:
+      - url: "https://english.mathrubhumi.com/polopoly_fs/1.783633.1452191436!/menu/standard/file/490.png"
+        width: 490
+        height: 268
+        isCached: true
   - title: "Gap buys artificial intelligence start-up Context-Based 4 Casting"
     excerpt: "SoQ錫濛譙 / Flickr. US-based lifestyle retailer Gap has purchased artificial intelligence (AI) start-up Context-Based 4 Casting (CB4) for an undisclosed sum. Based in New York, CB4 uses advanced AI and machine learning tools to make predictive analytics and demand sensing to support sales and streamline the customer experience."
     publishedDateTime: 2021-10-05T15:25:00Z
