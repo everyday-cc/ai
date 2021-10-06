@@ -40,6 +40,20 @@ related:
         width: 1388
         height: 781
         isCached: true
+  - title: "Gap Acquires AI Startup CB4; Terms Not Disclosed"
+    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
+    publishedDateTime: 2021-10-04T16:00:00Z
+    webUrl: "https://www.benzinga.com/m-a/21/10/23220930/gap-acquires-ai-startup-cb4-terms-not-disclosed"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Gap buys artificial intelligence start-up Context-Based 4 Casting"
     excerpt: "SoQ錫濛譙 / Flickr. US-based lifestyle retailer Gap has purchased artificial intelligence (AI) start-up Context-Based 4 Casting (CB4) for an undisclosed sum. Based in New York, CB4 uses advanced AI and machine learning tools to make predictive analytics and demand sensing to support sales and streamline the customer experience."
     publishedDateTime: 2021-10-05T15:25:00Z

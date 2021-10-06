@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ndtv.com/world-news/singapore-news-robots-patrol-singapo
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/singapore-news-robots-patrol-singapore-streets-to-deter-undesirable-social-behaviour-2565301?amp=1&akamai-rum=off"
 type: article
 quality: 57
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: NDTV
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Singapore patrol robots stoke fears of surveillance state"
+    excerpt: "Singapore has trialed patrol robots that blast warnings at people engaging in \"undesirable social behavior\", adding to an arsenal of surveillance technology in the tightly controlled city-state that is fueling privacy concerns."
+    publishedDateTime: 2021-10-06T07:28:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/nation/2021/10/683_316577.html?fl"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316577"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316577"
+    type: article
+    provider:
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 59
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202110/0fe80a9f59bd48d6a2f4efe4b5b2b5be.jpg"
+        width: 980
+        height: 653
+        isCached: true
   - title: "Robots to patrol Singapore streets to detect 'Undesirable Social Behaviour'"
     excerpt: "Singapore is seeing an explosion of tools to track its inhabitants as it already has vast numbers of CCTV cameras to trials of lampposts kitted out with facial recognition tech"
     publishedDateTime: 2021-10-06T04:54:00Z
@@ -75,21 +91,21 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Singapore Patrol Robots Stoke Fears Of Surveillance State"
-    excerpt: "Singapore has trialled patrol robots that blast warnings at people engaging in \"undesirable social behaviour\", adding to an arsenal of surveillance technology in the tightly controlled city-state that is fuelling privacy concerns."
-    publishedDateTime: 2021-10-06T02:39:00Z
-    webUrl: "https://www.ibtimes.com/singapore-patrol-robots-stoke-fears-surveillance-state-3310221"
+  - title: "Why Singapore Remains One of the Best Place to Start a Fintech Business"
+    excerpt: "Singapore has consistently ranked amongst the top locations in the world to start a business, recognized by the global community for its competitive corporate tax rate, skilled workforce, advanced infrastructures,"
+    publishedDateTime: 2021-10-04T01:40:00Z
+    webUrl: "https://fintechnews.sg/55862/fintech/why-singapore-remains-one-of-the-best-place-to-start-a-fintech-business/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: Fintech Singapore
+      domain: fintechnews.sg
     quality: 39
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/10/05/armed-with-seven-cameras-a-xavier-robot-in.jpg"
-        width: 1024
-        height: 682
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/09/BannerA_04.jpg?x45653"
+        width: 300
+        height: 250
         isCached: true
 
-secured: "lb0rWtC0ty9mkL1VGBm+4JuqZncy4VakWD32Vdl1uFRglhD8Z8+ckkLOrpjJR2GMhiqQlK+a7HbdYN4oeuHQHcz5FZrHl/jE2877xncGpYV/zSg4gmGHPIRD+TjqngRf4Tv/k4enAom7zLWRkQI1VVIXZSoRYAmT/6wPLc12FWx0/jyQKEL21HHS7wwNSxIhHZ/4tXSfUeQmePpnupu54P8nXREK3kEjjlA7J9ftq3LT1yMdQrtBpDY1P0kNiW5AiLzqvOi2ZDIEtZ5VKbm5LkHXoiEioRZPpnyJiI15nuYtSM/IFMlWbrTEHMykOYksK2hg1+bgCkGX9wUMjsY5z6Kw36k+0yDBIhb/g5wL7s8=;Buxvt24s/HrutU4nhsYmxQ=="
+secured: "jSGKKE9z7nzEqrVLW0dLAbAzvv/nCc2Oz3ufqF8zOQcS1MOu+S6nvK4xLskstgEF5pwWTuHSWrOm3INymKPJRyr9HqmbrXzazS0gD3/fFlGOCXecm+MjJS0U8wUKH9OdW3R7qqjZGq8KSQjEm3U7tNHYij59s9AHXeaDVZGujoGP9FQnvuZEhPez+knnQ0J4F/DtZcrjEG1cIQhRmfNXE1jEZs1VX1jNSaJalvxcOaHZya4mY4p3C3fp11srBdCKCmpfoZbxQHxRA8URlFhXccimeBSpbw3fWQfwXEVx2Uko6wOehwqqFIDVjVqsM54V11iXEdA2XcYyOA3LZSxcpSgniM7xbM2cbkrNy8FKdOJbh14avInBUB1yJsmqq2hrMeMp+DSPDq4icJ8y5CpZQn4SYnEqKHLTP7jtII/3i/Gu9gT3cPUko7j7WI5z/gTgD4sG0NbDbjG7fOgOmA7tB8EwyAoMXoKjHmLUccD0Pyn6czKHwB5zGgYJU5AOQ8xr5W5RxSVdFIeupcAeeYrEXw==;EzOicgaSQnWrImufI1DCUw=="
 ---
 

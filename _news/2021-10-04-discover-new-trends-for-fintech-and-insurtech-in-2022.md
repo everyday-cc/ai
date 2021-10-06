@@ -25,35 +25,79 @@ images:
     isCached: true
 
 related:
-  - title: "M2P Fintech Acquires Saas Platform Origa.ai To Ramp Up Tech Offerings"
-    excerpt: "M2P Fintech said in a press release the acquisition will help the firm to bolster its technology capabilities around new age collection."
-    publishedDateTime: 2021-10-01T13:13:00Z
-    webUrl: "https://www.outlookindia.com/website/story/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389"
-    ampWebUrl: "https://www.outlookindia.com/website/amp/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389"
+  - title: "Fintech 5.0: Evaluating How FirstBank Strengthens Collaboration"
+    excerpt: "It was Sir Isaac Newton, in his letter to Robert Hooke in 1675, who wrote the now-famous quote: “If I have seen further (than others), it is by standing on the shoulders of giants.”"
+    publishedDateTime: 2021-10-02T19:40:00Z
+    webUrl: "https://www.herald.ng/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration-2/"
+    ampWebUrl: "https://www.herald.ng/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration-2/amp/"
+    cdnAmpWebUrl: "https://www-herald-ng.cdn.ampproject.org/c/s/www.herald.ng/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration-2/amp/"
     type: article
     provider:
-      name: Outlookindia
-      domain: outlookindia.com
+      name: herald.ng
+      domain: herald.ng
     quality: 59
     images:
-      - url: "https://images.outlookindia.com/public/uploads/articles/2021/10/1/m2p_550_550.jpg"
-        width: 550
-        height: 367
+      - url: "https://i2.wp.com/www.herald.ng/wp-content/uploads/2021/10/FirstBank-HQ-image-scaled.jpg?fit=1024%2C683&ssl=1"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Key Ways Fintech is Transforming Investment Banking"
-    excerpt: "The conventional investment banking business has struggled to adapt to legacy technology, but as the digital revolution sweeps across finance, now is the moment to shift. Fremont, CA: FinTech will change investment banking in various ways,"
-    publishedDateTime: 2021-10-01T13:24:00Z
-    webUrl: "https://www.cioapplications.com/news/key-ways-fintech-is-transforming-investment-banking-nid-8601.html"
+  - title: "Fintech 5.0: Evaluating how FirstBank strengthens collaboration"
+    excerpt: "Take the fintech (financial technology) space in Nigeria, where one bank is known to have stood as a giant with very broad shoulders, having capacities that have been built up and accumulated over 127 continuous years."
+    publishedDateTime: 2021-10-05T07:52:00Z
+    webUrl: "https://nairametrics.com/2021/10/05/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration/"
+    ampWebUrl: "https://nairametrics.com/2021/10/05/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration/?amp=1"
+    cdnAmpWebUrl: "https://nairametrics-com.cdn.ampproject.org/c/s/nairametrics.com/2021/10/05/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration/?amp=1"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
+      name: Nairametrics
+      domain: nairametrics.com
+    quality: 59
+    images:
+      - url: "https://nairametrics-prod-s3.s3.eu-west-2.amazonaws.com/wp-content/uploads/2021/10/05084959/FirstBank-HQ-image.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Fintech 5.0: Evaluating How Firstbank Strengthens Collaboration"
+    excerpt: "It was Sir Isaac Newton, in his letter to Robert Hooke in 1675, who wrote the now-famous quote: \"If I have seen further (than others), it is by standing on the shoulders of giants.\""
+    publishedDateTime: 2021-10-02T11:14:00Z
+    webUrl: "https://www.proshareng.com/news/Fintech/Fintech-5.0--Evaluating-How-Firstbank-St/59290"
+    type: article
+    provider:
+      name: Nigeria
+      domain: proshareng.com
     quality: 39
     images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/uivp4451.jpg"
-        width: 450
-        height: 308
+      - url: "https://www.proshareng.com/admin/upload/news/59290-proshare.jpg"
+        width: 2093
+        height: 1409
+        isCached: true
+  - title: "Coastal Community Bank Chooses Finzly's Payment Hub to Power Fintech Partners"
+    excerpt: "Finzly, a fintech provider of modern banking solutions, announced today that Coastal Community Bank, a progressive community bank with assets of over $2 billion, has chosen Finzly's award-winning payment hub,"
+    publishedDateTime: 2021-10-05T10:11:00Z
+    webUrl: "https://www.lelezard.com/en/news-20029611.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 36
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Fintech Summit 5.0 – Another opportunity to demonstrate FirstBank’s collaboration in the Fintech space"
+    excerpt: "It was Sir Isaac Newton, in his letter to Robert Hooke in 1675, who wrote the now-famous quote: “If I have seen further (than others), it is by standing"
+    publishedDateTime: 2021-10-01T20:14:00Z
+    webUrl: "https://www.okay.ng/fintech-summit-5-0-another-opportunity-to-demonstrate-firstbanks-collaboration-in-the-fintech-space/"
+    type: article
+    provider:
+      name: Okay Nigeria
+      domain: okay.ng
+    quality: 23
+    images:
+      - url: "https://www.okay.ng/wp-content/uploads/2021/06/First-Bank-of-Nigeria-Okay-ng-1.jpg"
+        width: 659
+        height: 380
         isCached: true
 
 secured: "8oq2SkTzxpeKpdDllNF5ONVTNCPxYmRU0amZOeQcCQLuLpHkbgCS8fiC21ROBBUOxKaXP0PxFT5uR9Vg6rroRWZPcmWbbxyXNrP0gUDMeUHdaIYhlHEPvIbCtwf/UuYIpthVuNNWyJuueZPsXWMLYOEDDM4cMWY02lTvjSsYVHEA/10eRU5c7OcTfk+fij5tkKnKzFzEy2RRroIY/Y6Xdsm6Asfdt/K09O02UgnhDPbUp9FfNt8L+t2nKbMikSiUMUd/kolzjtbUysNLR7WAspgkjuOLJCSY6s1t21qZ5O5G/kpRNQ797ocPQVW1QhMpFZvgkRj7TID7hcy6TNA4s316VGrilT5wqWa4gD1jfEs=;C3Kd/lyQDg1GapeT6D+uRQ=="

@@ -20,6 +20,17 @@ topics:
   - AI Ethics
   - Microsoft AI
 
+related:
+  - title: "Sony readies subscription service for AI product developers"
+    excerpt: "TOKYO: Sony Group will start offering subscriptions to artificial intelligence development tools, part of the Japanese company’s push to rely more on recurring revenue and less on hardware sales. The conglomerate said today,"
+    publishedDateTime: 2021-10-06T07:49:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2021/10/06/sony-readies-subscription-service-for-ai-product-developers/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
+
 secured: "tYvwn/iOB/q32K4NZ/vOrhlclkh0dj/YkD2UUTljoKopJTF8DpjpVbJj99k2dvsBI9FvMT51U8Vo65wm/RGYtpVJEDEvvgIvKUi3/I/3XVzNCfoIidTwsKvbBB2DfNy+IAkL6utjEf1My7YKh3x3dzBsQALSoHY7ngCdvcHGxlawgqWKfQ6J07PwRsR1Z7cRK2lJcwg8ca5lhsSrmZ6XeGh6DwHy6iF/FdkSSnq1e0FVuDndXAGNT4Sv4ulJq0lXnRQDCK4S0sRF2kOnnfxO1iMY/iMWQvF8NGOFF+h/cIFbI+JG8UmYMCdz4513PH6VGJpp53AgmX0PvOtfu1T/EBS4WvJ/GWdkmz3DriQBCvk=;lCCyXrfxhLeH3WOq3d8Q3Q=="
 ---
 

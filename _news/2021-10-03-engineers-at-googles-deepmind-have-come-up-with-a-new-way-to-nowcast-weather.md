@@ -75,20 +75,6 @@ related:
         width: 960
         height: 640
         isCached: true
-  - title: "Google, DeepMind at Odds with Britain’s National Health"
-    excerpt: "Google and sister firm DeepMind are facing legal action for the way in which they obtained and processed over a million patient health records without consent in the U.K. British law firm Mishcon de Reya has filed a claim"
-    publishedDateTime: 2021-10-01T14:09:00Z
-    webUrl: "https://www.baystreet.ca/techinsider/3184/Google-DeepMind-at-Odds-with-Britains-National-Health"
-    type: article
-    provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 54
-    images:
-      - url: "http://www.baystreet.ca/images/articlegroups/original/17/private/google-headquarters-sign.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "Google’s London-based AI lab DeepMind in profit for first time"
     excerpt: "Google’s London-based artificial intelligence lab has moved into the black for the first time after the Silicon Valley giant used more of its discoveries in its"
     publishedDateTime: 2021-10-05T17:00:00Z
@@ -117,21 +103,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Weather forecast revolution as Google tech to allow 'nowcasting' with minute accuracy"
-    excerpt: "WEATHER FORECASTS are set to be revolutionised as engineers at Google's DeepMind have mad e a major advance in what is known as \"nowcasting\"."
-    publishedDateTime: 2021-10-01T13:27:00Z
-    webUrl: "https://www.express.co.uk/news/science/1499552/weather-forecast-google-deepmind-ai-minute-update-met-office-rain-prediction-latest"
-    ampWebUrl: "https://www.express.co.uk/news/science/1499552/weather-forecast-google-deepmind-ai-minute-update-met-office-rain-prediction-latest/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1499552/weather-forecast-google-deepmind-ai-minute-update-met-office-rain-prediction-latest/amp"
+  - title: "Alphabet Owned Intelligence Lab DeepMind Turns Its First Profit"
+    excerpt: "DeepMind employs some of the world’s leading AI research scientists, who can command annual salaries of more than $1 million."
+    publishedDateTime: 2021-10-06T06:25:00Z
+    webUrl: "https://analyticsindiamag.com/alphabet-owned-intelligence-lab-deepmind-turns-its-first-profit/"
     type: article
     provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 37
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
     images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/Improved-weather-forecasts-could-be-around-the-corner-1499552.jpg?r=1633095000876"
-        width: 590
-        height: 350
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/6496.jpg"
+        width: 1200
+        height: 1200
         isCached: true
   - title: "Google’s DeepMind has developed an AI-based ‘nowcasting’ system that can predict rain in the next two hours"
     excerpt: "Now, scientists at Google's London lab DeepMind have built an artificial intelligence (AI)-based forecasting system that, they claim, can predict the likelihood of rain in the next two hours more precisely than existing systems."

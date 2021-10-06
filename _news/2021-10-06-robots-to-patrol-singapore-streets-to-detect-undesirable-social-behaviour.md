@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Singapore patrol robots stoke fears of surveillance state"
+    excerpt: "Singapore has trialed patrol robots that blast warnings at people engaging in \"undesirable social behavior\", adding to an arsenal of surveillance technology in the tightly controlled city-state that is fueling privacy concerns."
+    publishedDateTime: 2021-10-06T07:28:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/nation/2021/10/683_316577.html?fl"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316577"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316577"
+    type: article
+    provider:
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 59
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202110/0fe80a9f59bd48d6a2f4efe4b5b2b5be.jpg"
+        width: 980
+        height: 653
+        isCached: true
   - title: "Robots Now Patrol Singapore Streets To Deter \"Undesirable Social Behaviour\""
     excerpt: "Singapore has trialled patrol robots that blast warnings at people engaging in \"undesirable social behaviour\", adding to an arsenal of surveillance technology in the tightly controlled city-state that is fuelling privacy concerns."
     publishedDateTime: 2021-10-06T03:02:00Z
@@ -75,21 +91,21 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Singapore Patrol Robots Stoke Fears Of Surveillance State"
-    excerpt: "Singapore has trialled patrol robots that blast warnings at people engaging in \"undesirable social behaviour\", adding to an arsenal of surveillance technology in the tightly controlled city-state that is fuelling privacy concerns."
-    publishedDateTime: 2021-10-06T02:39:00Z
-    webUrl: "https://www.ibtimes.com/singapore-patrol-robots-stoke-fears-surveillance-state-3310221"
+  - title: "Why Singapore Remains One of the Best Place to Start a Fintech Business"
+    excerpt: "Singapore has consistently ranked amongst the top locations in the world to start a business, recognized by the global community for its competitive corporate tax rate, skilled workforce, advanced infrastructures,"
+    publishedDateTime: 2021-10-04T01:40:00Z
+    webUrl: "https://fintechnews.sg/55862/fintech/why-singapore-remains-one-of-the-best-place-to-start-a-fintech-business/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: Fintech Singapore
+      domain: fintechnews.sg
     quality: 39
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/10/05/armed-with-seven-cameras-a-xavier-robot-in.jpg"
-        width: 1024
-        height: 682
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/09/BannerA_04.jpg?x45653"
+        width: 300
+        height: 250
         isCached: true
 
-secured: "mtLmxhJ8WRFQv9JNCPGxtev0bPvYj1mzsOorL2ScohKBh5Tv8yJPMaT9yELQNKMkI0CAqBIBE1Je0pKZ8nkaybBbQEDkMzqGxDG+jaOp9kMAhMXXeVTWs7ko6WR6Eue+r3hVTuMkY5m9xy/nYoKa0xZgxq/qFIl6C4ua4W2q0HNFQr8thBJuW+HxdswiRB3iSoxNgjOZjyh5b4IWbc7HbtdhSnvWhgfyrWiPt9okO2ARiGgmyuIzJssFUzOzZnM9iaLEZVK9TMRHe1v3g60v42dllJlK/YlFLWBygMK+Fimj65wIUEyAJc1xN7wl6LwEORxABveZc+juAZl9SpIPMyrd3ZwhfD7eX2otoLxbBS8=;eX8iqGfE0TSJkopc1KbW6A=="
+secured: "iyC2r0zSBS4NYoNhucutF7V2wpRTmeLGThRFeyIxFYTboT2mbYNwbPBZs+0IjgRwuz5wFrz4oYNzjKeZApc70Fb2ulloi7HATimkpOlTOT+YHkcRKOaSqpuTN0oGobJPT54e9x59n1KTmkpcUA0nCt/DT7J2d/b0a//iuEJFi/RE9SiSgsXprVkc+yRp4Y7uM+wkXMqbhlV0klo7+/UhT8GKQ7AO3ESSl2NI0MSVlQKJaxM/3OI/MpqG/nzmkHIqwUIKkUmDEeA+UNk4GSja78eOGyc+viXd8XJFaoToedTl/48242wA1nZAfvW3B6152JiYY956FoXwdj6MG6nKWrLlcYm6AVcEKjqnieI2VWH1BOMY4VcCNYRYJDxCa0YkVbRB5mUDTDXVRScW0R9jGgt3BmrpcRrtmAihCg3USTJHoyCp7BDNxMijFp/SA+G/+AAzF41zDgOki0S9pezsfXMQrOG/YugsUpCNo8U/uHRINss7P3pNfzKIvioC7+XfoN4/41xwbWhbzI0r2hprcQ==;R5S3sCWY8MG+BDT+dbXTiA=="
 ---
 

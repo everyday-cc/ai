@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "In health care, many AI developers are white men. UNT is trying to diversify the field"
-    excerpt: "NIH has awarded $100 million to UNT’s Health Science Center to lead a project to train a more diverse artificial intelligence workforce."
-    publishedDateTime: 2021-10-01T13:45:00Z
-    webUrl: "https://www.star-telegram.com/news/local/crossroads-lab/article254627992.html"
-    ampWebUrl: "https://amp.star-telegram.com/news/local/crossroads-lab/article254627992.html"
-    cdnAmpWebUrl: "https://amp-star--telegram-com.cdn.ampproject.org/c/s/amp.star-telegram.com/news/local/crossroads-lab/article254627992.html"
-    type: article
-    provider:
-      name: Fort Worth Star-Telegram
-      domain: star-telegram.com
-    quality: 51
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998025001/2340e14e-4f45-4695-9892-84dcbc329c46/72b75ebd-71db-476e-b439-8f39c1841709/1280x720/match/image.jpg"
-        width: 1280
-        height: 717
-        isCached: true
   - title: "How the Automotive Industry is Using AI"
     excerpt: "Artificial intelligence (AI) in the automotive industry is making vehicles autonomous. Learn about driverless vehicles & AI now:"
     publishedDateTime: 2021-10-05T20:09:00Z

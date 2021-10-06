@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-villain-her
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-villain-here-ren-beani"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 700
     height: 325
     isCached: true
-
-related:
-  - title: "Inside the happy heart of Ai-Ai de las Alas"
-    excerpt: "Everybody’s favorite funny woman Ai-Ai de las Alas has her hands full at this time, especially given that a new season of The Clash has just commenced. It is the singing search program’s fourth season,"
-    publishedDateTime: 2021-10-04T11:33:00Z
-    webUrl: "https://businessmirror.com.ph/2021/10/04/inside-the-happy-heart-of-ai-ai-de-las-alas/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 37
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2021/10/life03-100521.jpg"
-        width: 720
-        height: 838
-        isCached: true
 
 secured: "rxwF03SbEgReDJKVMzL8jw6mG1vSAoU/rsMssAmNROT0rXiGazqGTqNHb+7gOCPmApwr/nzLIpxaeAWlQ3kXSZm9Q8BdsaIbqxWkUPQBQxJVMHtNQqxDkk+oQUctPVvyLu9n4m0k7gJSt4aUQGaYENkM946MhOKgNLfwztzw11cTLSit5MlI1okGbVQ7lLJ1kBsloMyDMdHC6soYUeB9typsEXvLVmyC+ewgT+jHExBmHKqe2omCcPRDhCUdSKqqokYokHAgX5NjC3yyBKYj6AANCrdgkWV23ysVJHb+ML8APlj9RqRAgInFdF4zzPz14rTXd0nwhQXRhGklxPEQ3lUyHjXmEwR59ktQUwyaAdXlGeTXqarpVR7/BQ/FO5KBjBZYdgsBlyDFV5fwK+BTdVTN95xc1DZ/J2sKWLiCIYB3X0Q4rGhKSvXvlJ1XSF0S5GlHCeaxPeHlt85zlas4C6Dbz16MWWZQoEoYjbNZ1hR/B3IFvcYaasB3+bKSNT2MYnmaZdSt7BDWEGAgFOESow==;irD2hSCUkvqDuEya/MSq/w=="
 ---

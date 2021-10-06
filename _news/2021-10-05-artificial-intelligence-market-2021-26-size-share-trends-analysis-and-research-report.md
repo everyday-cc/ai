@@ -8,8 +8,8 @@ webUrl: "https://manometcurrent.com/artificial-intelligence-market-2021-26-size-
 ampWebUrl: "https://manometcurrent.com/artificial-intelligence-market-2021-26-size-share-trends-analysis-and-research-report/?amp=1"
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-2021-26-size-share-trends-analysis-and-research-report/?amp=1"
 type: article
-quality: 48
-heat: 48
+quality: 50
+heat: 60
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://manometcurrent.com/wp-content/uploads/2021/10/artifical-intelligence-market-30.jpg"
@@ -41,6 +42,6 @@ related:
         height: 250
         isCached: true
 
-secured: "dBuDIS7qDb/0o/kCcyYMT6MyZCF6Y+6Fbp4dpSWd4Cth87v/Bm1nZYW7dIOh3lWZHE/z27DCaNpmtqSUCSgLhuZVUnAS3XE6byc1IziPCizpwG1UwdOxTJl4RQKFTWULnrGVqYpvg+qZz+0QHmuz44TnmzAk8VR5Li28TRV6r8oGWsCBctOjNQG0wpEULPanZHKcooNudumL4dsrSD5pl1KRhWI0e7yUJGj2ZhdoEbVeUR4QU4LEybjFNnaJJsUUeMk9m5BFp+A8UrjdhXj+DX58XkpI9ud/uWtjAnbUNnNZYmYpq5kzLbV3fD/JHUYP/EOl60bwK878rpyU4c4b+tnO93djqCNxOKGynShNz14=;gZN4SY6hfdxitVJulZkARg=="
+secured: "1q83jOexzwYIFUGQ+HSigLNePsBSpg71VVV0tHvVoZrGHETskLGks7h71XTn+h7NmazlvAkehUpSXE5W90l8WopUqrv5fxr7ckzkUyR+4/X9fRwsYzbniyrntVc8dF1wq3a5bPZDD7J4gaYo8HyxJVqurOJO5Deg8j0UiY32kblbX8pOKdoakmmrzmowbyP0nIczG5DjAmyBxREgQD24a/Nz+hREYgpnn9ZWv4/dpLK0KZFzlqeMnFrigemnG2xkXvME3A1ERDv3CF74yG6a0lCMo+VtOtvwy25UnIMIIDbA6kPAvuAvffnZV+4cIhXf53rHeX447V7BqLg1maKBcLE5IDtdoXEQQGFl1ao7bt69womt7+Og0bU4dMemqBJIqiR2bibO2xne/7yc5XI1BgllN4oZcaNF/L1alZUBGAMxhPRd3X1AU3sxILrZwTzQTfFH6GwQi5sNpUyce2KCk56+N9ReFsbTQoGnj/RTQEZd6ryN8fBsVMd1HWDhXH79Opy2LT2+0S8wFzohJKuFbw==;T/Rv+C12lUFCtiNzK21JLg=="
 ---
 

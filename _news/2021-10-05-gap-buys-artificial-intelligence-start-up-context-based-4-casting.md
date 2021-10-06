@@ -51,6 +51,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
+  - title: "Gap Acquires AI Startup CB4; Terms Not Disclosed"
+    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
+    publishedDateTime: 2021-10-04T16:00:00Z
+    webUrl: "https://www.benzinga.com/m-a/21/10/23220930/gap-acquires-ai-startup-cb4-terms-not-disclosed"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Gap Inc acquires AI start-up CB4"
     excerpt: "Gap Inc has acquired AI start-up Context-Based 4 Casting Ltd (CB4) that uses machine learning tools to transform retail operations."
     publishedDateTime: 2021-10-05T11:33:00Z

@@ -35,7 +35,7 @@ related:
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 48
+    quality: 50
     images:
       - url: "https://manometcurrent.com/wp-content/uploads/2021/10/artifical-intelligence-market-30.jpg"
         width: 640

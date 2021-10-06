@@ -70,6 +70,20 @@ related:
         width: 432
         height: 216
         isCached: true
+  - title: "Roll over, Beethoven. AI tackles his 10th Symphony."
+    excerpt: "Ludwig van Beethoven never finished his 10th Symphony. But using artificial intelligence, a team of people with a computer has completed it for him."
+    publishedDateTime: 2021-10-05T04:00:00Z
+    webUrl: "https://www.csmonitor.com/Daily/2021/20211005/Roll-over-Beethoven.-AI-tackles-his-10th-Symphony"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 37
+    images:
+      - url: "https://images.csmonitor.com/csm/2021/10/1005%20DDP%20intro%20beethoven.jpg?alias=standard_900x600"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "Z4h9NCLBQjR3b0Xx8H1UmhStVyP6w0PlkhEd1aiRjB4Qy7xX4pKmBOtfAbvffEIM/xbJbHZiAoR+NEi+tHhA4lNdh8A2eLM30grZ0uMOMv+HQKtiq7NvOLcx7JqVohtY97OzT27077ldQgnzjXNj6utVqTBIX5aNfIYULcpa8LY9gXJIR33DQhlmBWr/WnEr5YzFKfKlLSQG3qqnUV5lqGicCOKy56QdjdNMj2/eQIjuTvgBkB6YZ7Rzdwy2+NqplLVDXeFRVlnTNy3rD3FTDxd0M3hpyQu8hvQTtPdc14Eu3/JXxRVew23PH+GfpFx5mkYFVXOkst46Huq1CeOLqFaMoO0t82kvyLvzBbD3jZc=;QIDAS5aiRp90gvzSrq1ANw=="
 ---

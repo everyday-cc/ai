@@ -37,22 +37,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "In health care, many AI developers are white men. UNT is trying to diversify the field"
-    excerpt: "NIH has awarded $100 million to UNT’s Health Science Center to lead a project to train a more diverse artificial intelligence workforce."
-    publishedDateTime: 2021-10-01T13:45:00Z
-    webUrl: "https://www.star-telegram.com/news/local/crossroads-lab/article254627992.html"
-    ampWebUrl: "https://amp.star-telegram.com/news/local/crossroads-lab/article254627992.html"
-    cdnAmpWebUrl: "https://amp-star--telegram-com.cdn.ampproject.org/c/s/amp.star-telegram.com/news/local/crossroads-lab/article254627992.html"
-    type: article
-    provider:
-      name: Fort Worth Star-Telegram
-      domain: star-telegram.com
-    quality: 51
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998025001/2340e14e-4f45-4695-9892-84dcbc329c46/72b75ebd-71db-476e-b439-8f39c1841709/1280x720/match/image.jpg"
-        width: 1280
-        height: 717
-        isCached: true
   - title: "Health2047’s new company plans to use AI, research access to improve clinical decision making"
     excerpt: "Called RecoverX, the company will leverage AI to mine evidence-based research, medical charts, patient conversations and test results and provide clinical insights for clinicians in real time."
     publishedDateTime: 2021-10-01T16:50:00Z

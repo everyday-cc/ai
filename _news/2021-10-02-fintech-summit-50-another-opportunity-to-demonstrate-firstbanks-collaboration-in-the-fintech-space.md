@@ -85,6 +85,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Discover new trends for Fintech and Insurtech in 2022"
+    excerpt: "For more info see FinTech & InsurTech Live A recent report by McKinsey shows that there will be five groundbreaking trends that will transform the insurtech and fitnech space over the next decade. These trends will be driven by new technologies and will be transformative both as a combined force,"
+    publishedDateTime: 2021-10-04T12:34:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/discover-new-trends-fintech-and-insurtech-2022"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1310293181_0.jpg.png?itok=PK7CDtDD"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "4Jv8IQDy31RJp6fU+kuj8Sp3j/HgxfYy6Dzc+paSXpVrQjKj3ive4R9efOr8yrYmQCsapMQ+13FX2Xf3OYMNuwodgMGz8G9m1qrp9s+EWZD5CBxdXMg4ZtT6zkG9ETgx5Lukctm6f5PVQNtGUtCi63RbI5bvrpAVYZqZY1ClwlCdLOmWsVl6QBwW1luYcRyUXzOq0NKgKjOcSzlmOmZuAB/gJUk2YHx/1QDCE9LqPgOew8t4kV/UuYqiE/XO/pAcGe4djxPInE7awmsoqmvxIIS9tHP3tXbQL56dHIWuWwnU8zc/sfLoN0TEmv5dzcM+eSCg1j8GIIrtZAM1JWoEF+AZ9FZIrN2UE18I4aDvIhg=;f4JJcwLVTn5Wy7YhTXUZtA=="
 ---

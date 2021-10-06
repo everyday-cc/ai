@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-10-06-robots-now-patrol-singapore-streets-to-deter-undesirable-social-behaviour.md",
-      "title": "Robots Now Patrol Singapore Streets To Deter \"Undesirable Social Behaviour\"",
-      "excerpt": "Singapore has trialled patrol robots that blast warnings at people engaging in \"undesirable social behaviour\", adding to an arsenal of surveillance technology in the tightly controlled city-state that is fuelling privacy concerns.",
+      "path": "_news/2021-10-06-singapore-patrol-robots-stoke-fears-of-surveillance-state.md",
+      "title": "Singapore patrol robots stoke fears of surveillance state",
+      "excerpt": "Singapore has trialed patrol robots that blast warnings at people engaging in \"undesirable social behavior\", adding to an arsenal of surveillance technology in the tightly controlled city-state that is fueling privacy concerns.",
       "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/singapore-news-robots-patrol-singapore-streets-to-deter-undesirable-social-behaviour-2565301",
-      "originalUrl": "https://www.ndtv.com/world-news/singapore-news-robots-patrol-singapore-streets-to-deter-undesirable-social-behaviour-2565301",
+      "webUrl": "https://www.koreatimes.co.kr/www/nation/2021/10/683_316577.html?fl",
+      "originalUrl": "https://www.koreatimes.co.kr/www/nation/2021/10/683_316577.html?fl",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://c.ndtvimg.com/2021-10/7pf4sup4_singapore-robots-afp_625x300_06_October_21.jpg",
-          "width": 650,
-          "height": 400,
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202110/0fe80a9f59bd48d6a2f4efe4b5b2b5be.jpg",
+          "width": 980,
+          "height": 653,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/singapore-news-robots-patrol-singapore-streets-to-deter-undesirable-social-behaviour-2565301?amp=1&akamai-rum=off",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/singapore-news-robots-patrol-singapore-streets-to-deter-undesirable-social-behaviour-2565301?amp=1&akamai-rum=off",
-      "publishedDateTime": "2021-10-05T20:02:00-07:00",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316577",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316577",
+      "publishedDateTime": "2021-10-06T00:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
         "images": null,
         "publishers": null,
         "authors": null
@@ -42,6 +42,92 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-ethical-issues-of-ai.md",
+      "title": "Ethical Issues of AI",
+      "excerpt": "Ethical Issues of AI By CIOReview - Tech giants and experts believe that this is the time to discuss the concerns regarding the future of AI as this technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/news/ethical-issues-of-ai-nid-34549-cid-175.html",
+      "originalUrl": "https://www.cioreview.com/news/ethical-issues-of-ai-nid-34549-cid-175.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioreview.com/newsimages/705x485_cOD76eP5.jpg",
+          "width": 705,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T00:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-coe-on-artificial-intelligence-to-come-up-in-hubballi-karnataka-education-minister.md",
+      "title": "CoE on Artificial Intelligence to come up in Hubballi: Karnataka education minister",
+      "excerpt": "Ashwath Narayan said the government has brought effective policies to promote innovative technologies and the duration of the internship has been raised from 3 weeks to 30 weeks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/states/karnataka/2021/oct/06/coe-on-artificial-intelligence-to-come-up-in-hubballi-karnataka-education-minister-2368303.html",
+      "originalUrl": "https://www.newindianexpress.com/states/karnataka/2021/oct/06/coe-on-artificial-intelligence-to-come-up-in-hubballi-karnataka-education-minister-2368303.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/10/6/w600X390/CN_aswath_narayana-_Express.JPG",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/states/karnataka/2021/oct/06/coe-on-artificial-intelligence-to-come-up-in-hubballi-karnataka-education-minister-2368303.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/karnataka/2021/oct/06/coe-on-artificial-intelligence-to-come-up-in-hubballi-karnataka-education-minister-2368303.amp",
+      "publishedDateTime": "2021-10-05T22:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
       ]
     },
     {
@@ -408,7 +494,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/389467",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -1121,92 +1207,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-gap-inc-acquires-ai-startup-cb4-to-drive-sales.md",
-      "title": "Gap Inc. acquires AI startup CB4 to drive sales",
-      "excerpt": "Gap has acquired AI startup CB4 to improve retail operations through predictive analytics and demand sensing. “We believe artificial intelligence and machine learning will shape the future of our industry.",
-      "sourceUrl": null,
-      "webUrl": "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600",
-      "originalUrl": "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fashionunited.com/UUP2jAnSbMTf2wCkU6WZm5VCOGW7PmAHjB96odlvT0E/resize:fill:1388:781:1/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvbWFzdGVyLzIwMjEvMTAvMDUvMTIwMHB4LWdhcC1sb2dvLXN2Zy1mMHdvaDQ5aC0yMDIxLTEwLTA1LmpwZWc",
-          "width": 1388,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600",
-      "cdnAmpWebUrl": "https://fashionunited-com.cdn.ampproject.org/c/s/fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600",
-      "publishedDateTime": "2021-10-05T03:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fashionunited.com",
-        "domain": "fashionunited.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-why-we-must-consider-the-intergenerational-impacts-of-ai.md",
-      "title": "Why we must consider the intergenerational impacts of AI",
-      "excerpt": "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Sara Stratton, Founder, Māori Lab &",
-      "sourceUrl": null,
-      "webUrl": "https://europeansting.com/2021/10/05/why-we-must-consider-the-intergenerational-impacts-of-ai/",
-      "originalUrl": "https://europeansting.com/2021/10/05/why-we-must-consider-the-intergenerational-impacts-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://europeansting.files.wordpress.com/2021/10/robots.webp",
-          "width": 715,
-          "height": 1001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://europeansting.com/2021/10/05/why-we-must-consider-the-intergenerational-impacts-of-ai/amp/",
-      "cdnAmpWebUrl": "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/10/05/why-we-must-consider-the-intergenerational-impacts-of-ai/amp/",
-      "publishedDateTime": "2021-10-05T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "europeansting.com",
-        "domain": "europeansting.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

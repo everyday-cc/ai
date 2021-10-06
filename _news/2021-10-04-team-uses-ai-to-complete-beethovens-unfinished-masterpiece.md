@@ -54,6 +54,20 @@ related:
         width: 1830
         height: 957
         isCached: true
+  - title: "Roll over, Beethoven. AI tackles his 10th Symphony."
+    excerpt: "Ludwig van Beethoven never finished his 10th Symphony. But using artificial intelligence, a team of people with a computer has completed it for him."
+    publishedDateTime: 2021-10-05T04:00:00Z
+    webUrl: "https://www.csmonitor.com/Daily/2021/20211005/Roll-over-Beethoven.-AI-tackles-his-10th-Symphony"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 37
+    images:
+      - url: "https://images.csmonitor.com/csm/2021/10/1005%20DDP%20intro%20beethoven.jpg?alias=standard_900x600"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Beethoven's 10th symphony is finished 194 years after his death - by artificial intelligence that used just 250 surviving bars of notes"
     excerpt: "Beethoven's 10th symphony has been completed 194 years after his death by a computer that recreated two movements running to 40 minutes in length."
     publishedDateTime: 2021-10-01T23:57:00Z

@@ -33,6 +33,20 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Here Are The 7 Singaporean Companies Who Made it to 2021’s Top 100 AI Fintech List"
+    excerpt: "Fintech information platform Fintech Global has released its inaugural AIFintech100 list, identifying the 100 most innovative companies building artificial intelligence (AI) and machine learning (ML)"
+    publishedDateTime: 2021-10-04T01:34:00Z
+    webUrl: "https://fintechnews.sg/55919/ai/here-are-the-7-singaporean-companies-who-made-it-to-2021s-top-100-ai-fintech-list/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 33
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/09/7-Singapore-Companies-Make-2021-Top-100-AI-Fintech-List.jpg?x45653"
+        width: 2048
+        height: 1136
+        isCached: true
   - title: "Cowbell Cyber Named to the 2021 CB Insights Fintech 250"
     excerpt: "Cowbell® Cyber, the industry's first AI-powered cyber insurance provider for small to medium enterprises (SMEs), today was named to the fourth annual CB"
     publishedDateTime: 2021-10-05T20:31:00Z
@@ -42,6 +56,24 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 4
+  - title: "Fundbox Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
+    excerpt: "CB Insights today named Fundbox to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year’s list was unveiled on stage at CB Insights’ Future of Fintech conference in New York City."
+    publishedDateTime: 2021-10-05T15:30:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8368135/fundbox-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
+  - title: "Quantexa Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
+    excerpt: "CB Insights today named Quantexa to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year's list was unveiled on stage at CB Insights' Future of Fintech conference in New York City."
+    publishedDateTime: 2021-10-05T20:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/10/05/9463460.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "5aXAANungvgUVcbY6Q+8x5aFUS9RuB/BcgbP/THro2Rn9fmuohj73neSqMYDC8sgJNRyS6CUqcFrYJZ5eQePnI8WVA2sFU0G1cdB8Zki2TJKOwdT1dkdaF32d85K8Yep9sQy6W2q/O1gy9SYCBpB9ySRSgKLYhqJVS2cY2zZJm7K/6hWlpjtIrzJs9v6hLEoUitKAoIZAgCI2jFzT5Ba1qmZDGSq1ijk6fS6zxBsa0N4xG832NzVqrOjKw+V3NegaD52w48tEExoLvvH86IGKLIjDKYbfYd17Z+GoiVPhNmviKIFQzy7YlfUbPMh+DtTL2w7PuDfAJWtV9ynuKDD7Wws9btz4JdeY/JSRad9kcc=;iJwAoX0/NlXFqGnZb7tQAQ=="
 ---

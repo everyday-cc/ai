@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-driven-meeting-technology/amp/"
 type: article
 quality: 87
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202110/fb09af58482c4d07b89adfed4afbf0af.jpg"
         width: 980
         height: 607
-        isCached: true
-  - title: "How to Use AI to Drive Business Growth in the Tech Era"
-    excerpt: "AI allows for that. And from the looks of things, that will be nearly half of all US-based businesses within the next 12 months. However, even though the capabilities are there, it’s largely untapped potential."
-    publishedDateTime: 2021-10-01T13:30:00Z
-    webUrl: "https://www.business2community.com/business-innovation/how-to-use-ai-to-drive-business-growth-in-the-tech-era-02433972"
-    ampWebUrl: "https://www.business2community.com/business-innovation/how-to-use-ai-to-drive-business-growth-in-the-tech-era-02433972/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/how-to-use-ai-to-drive-business-growth-in-the-tech-era-02433972/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 57
-    images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2021/09/Business-Technology-900x643.png"
-        width: 900
-        height: 643
         isCached: true
   - title: "Valley teen's AI-driven wildfire prevention system turning heads"
     excerpt: "Basically, what the system does is it detects hot spots which are areas where wildfires can start,” said Prisha. The system she designed uses real-time NASA and NOAA Meteorological data and predicts if an area’s conditions are ripe for disaster."

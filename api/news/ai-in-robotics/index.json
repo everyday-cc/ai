@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-10-06-robots-now-patrol-singapore-streets-to-deter-undesirable-social-behaviour.md",
-      "title": "Robots Now Patrol Singapore Streets To Deter \"Undesirable Social Behaviour\"",
-      "excerpt": "Singapore has trialled patrol robots that blast warnings at people engaging in \"undesirable social behaviour\", adding to an arsenal of surveillance technology in the tightly controlled city-state that is fuelling privacy concerns.",
+      "path": "_news/2021-10-06-singapore-patrol-robots-stoke-fears-of-surveillance-state.md",
+      "title": "Singapore patrol robots stoke fears of surveillance state",
+      "excerpt": "Singapore has trialed patrol robots that blast warnings at people engaging in \"undesirable social behavior\", adding to an arsenal of surveillance technology in the tightly controlled city-state that is fueling privacy concerns.",
       "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/singapore-news-robots-patrol-singapore-streets-to-deter-undesirable-social-behaviour-2565301",
-      "originalUrl": "https://www.ndtv.com/world-news/singapore-news-robots-patrol-singapore-streets-to-deter-undesirable-social-behaviour-2565301",
+      "webUrl": "https://www.koreatimes.co.kr/www/nation/2021/10/683_316577.html?fl",
+      "originalUrl": "https://www.koreatimes.co.kr/www/nation/2021/10/683_316577.html?fl",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://c.ndtvimg.com/2021-10/7pf4sup4_singapore-robots-afp_625x300_06_October_21.jpg",
-          "width": 650,
-          "height": 400,
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202110/0fe80a9f59bd48d6a2f4efe4b5b2b5be.jpg",
+          "width": 980,
+          "height": 653,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/singapore-news-robots-patrol-singapore-streets-to-deter-undesirable-social-behaviour-2565301?amp=1&akamai-rum=off",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/singapore-news-robots-patrol-singapore-streets-to-deter-undesirable-social-behaviour-2565301?amp=1&akamai-rum=off",
-      "publishedDateTime": "2021-10-05T20:02:00-07:00",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316577",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316577",
+      "publishedDateTime": "2021-10-06T00:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
         "images": null,
         "publishers": null,
         "authors": null
@@ -148,7 +148,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/389467",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 75,
       "tags": null,
       "images": [
         {

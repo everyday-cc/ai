@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Here Are The 7 Singaporean Companies Who Made it to 2021’s Top 100 AI Fintech List"
+    excerpt: "Fintech information platform Fintech Global has released its inaugural AIFintech100 list, identifying the 100 most innovative companies building artificial intelligence (AI) and machine learning (ML)"
+    publishedDateTime: 2021-10-04T01:34:00Z
+    webUrl: "https://fintechnews.sg/55919/ai/here-are-the-7-singaporean-companies-who-made-it-to-2021s-top-100-ai-fintech-list/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 33
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/09/7-Singapore-Companies-Make-2021-Top-100-AI-Fintech-List.jpg?x45653"
+        width: 2048
+        height: 1136
+        isCached: true
   - title: "Cowbell Cyber Named to the 2021 CB Insights Fintech 250"
     excerpt: "Cowbell® Cyber, the industry's first AI-powered cyber insurance provider for small to medium enterprises (SMEs), today was named to the fourth annual CB"
     publishedDateTime: 2021-10-05T20:31:00Z
@@ -34,6 +48,15 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 4
+  - title: "Fundbox Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
+    excerpt: "CB Insights today named Fundbox to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year’s list was unveiled on stage at CB Insights’ Future of Fintech conference in New York City."
+    publishedDateTime: 2021-10-05T15:30:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8368135/fundbox-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
   - title: "Onfido Named to 2021 CB Insights Fintech 250 List of Top Fintech Startups for Fourth Year Running"
     excerpt: "CB Insights today named Onfido to its fourth annual Fintech 250 for the fourth year running. Fintech 250 is a prestigious list of emerging private com"
     publishedDateTime: 2021-10-05T20:44:00Z
@@ -42,6 +65,15 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
+    quality: 0
+  - title: "Quantexa Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
+    excerpt: "CB Insights today named Quantexa to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year's list was unveiled on stage at CB Insights' Future of Fintech conference in New York City."
+    publishedDateTime: 2021-10-05T20:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/10/05/9463460.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "rmctfc22T3D0zit0RI9cfYypxhJ39WeyEqyXNS1O2bS1YqvjLCIoCV8gTTstoqxnqdCnirwIM5JWXas9Oybr8mu5I7DrUVdYqGSA4AUZWsd224wxmxO7yDnAhdLsyQqvswbgI4UTqVxEcl0TYwSL78vjqeXQuVV+heigtUkWCSnjO0e23FcZDotb1bJj5o6CRnqwtFxqo9aTzzd+wSua6/YwfnpGbgtANH2hm3RNSemJGrLNMBWEi+dU8oN3ToUi0OE3yMaQwULTvHvUcL6PAnsHkHEFxbAzpsZPXFbCF3svuEl0nwNEu4VRBSGk5+x1D6k2CS7ifevplsWsxp3xXIZ9DmvcJwV4V/5G7B4iuow=;4zGvya8PC1boUq7xefjKAg=="

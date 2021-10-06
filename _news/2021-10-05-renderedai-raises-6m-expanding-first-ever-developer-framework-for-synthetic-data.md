@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Rendered.ai Raises $6M, Expanding First-ever Developer Framework for Synthetic Data"
-excerpt: "Rendered.ai, the leading platform provider for physics-based synthetic data, today announced the closing of a $6M seed round led by Space Capital. Participating"
-publishedDateTime: 2021-10-05T14:00:00Z
-originalUrl: "https://www.goskagit.com/rendered-ai-raises-6m-expanding-first-ever-developer-framework-for-synthetic-data/article_e763a1d4-2da2-533c-b8f1-ed66e66f336c.html"
-webUrl: "https://www.goskagit.com/rendered-ai-raises-6m-expanding-first-ever-developer-framework-for-synthetic-data/article_e763a1d4-2da2-533c-b8f1-ed66e66f336c.html"
+excerpt: "Rendered.ai, the leading platform provider for physics-based synthetic data, today announced the closing of a $6M seed round led by Space Capital. Participating investors include Tectonic Ventures, Congruent Ventures,"
+publishedDateTime: 2021-10-05T14:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/rendered-ai-raises-6m-expanding-first-ever-developer-framework-for-synthetic-data-1030844215"
+webUrl: "https://markets.businessinsider.com/news/stocks/rendered-ai-raises-6m-expanding-first-ever-developer-framework-for-synthetic-data-1030844215"
 type: article
-quality: 31
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Skagit Valley Herald
-  domain: goskagit.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/assets/v3/editorial/3/99/3995b984-114e-5fa9-9df4-4c0eb6679826/615c5b1fcd3f7.image.jpg?resize=512%2C512"
-    width: 512
-    height: 512
+  - url: "https://mma.prnewswire.com/media/1652913/Rendered_ai_aerial_image.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -41,6 +45,6 @@ related:
         height: 512
         isCached: true
 
-secured: "KqCtxqydKWcREFXbsaONWp6NjZqaif5OLY76u3uMrOHfEpJ8aUxvxBjZGGYAVTDt+3+sW7V/c2HLjdK+/dUh63aBNoDvVwyWVX/vpzzSs9/4Y9dNKFt9tDgkDMBnzYCuKnE/EFQ4rKObBUmBcXXQrrqspgaGgmTyYbjPg7NN+sm7vGWDoPOlOslAaiXbjqt8aq8QSbWEWBMs+NfunCcY+sCYCGNdpAP4TNzBWXC+usnlOugv16ZWX2beoOstVf39yEngIK+QJB2ZpldjvTKVNfKrC0CXjz7CLEppuC6XgqofXMIPLc0ccoAMREs5kWKk5IKXrTUYb0eY7jaCUpL6i/0xiaeF1qkjHZpTiZMber4=;Y5pXu+1Cnjhl0ED68G8QMg=="
+secured: "p64UMBShpPwMyIlXpxxaITZzw/n/4sHmExk32DvuykiPT1Wub+nUlRw8cYAN1pggtsGMqB6WmM61VMNtEyB+FSiEM4uzsaOH9HGYG3Jwr9QySABbf76xFvcpn2+1UDk1CedPpJveNWkMzJC2b8h1J+ETlRGtirae9fOd4t71hcpK0NBscW0GzNgWXXWoMiup44+1ubniXkxAMVoKovbBsVXXIcXdZef5jl5objtUuFfiCbNyQrhFVU0bUS7DKcL1Bbu1paw7TDOkiw2NqdSKQuWrScvhz5oCiaRGoxqN2OJbqX5tYuYMvr7Iqut5MNUq0RYbuotuNMZq29FYyze+MAB+Udy5ZcVgbHv0c8sAJWE=;dJ6yilrj73/QBD2lDG0dig=="
 ---
 

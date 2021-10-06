@@ -7,7 +7,7 @@ originalUrl: "https://fintechnews.sg/55862/fintech/why-singapore-remains-one-of-
 webUrl: "https://fintechnews.sg/55862/fintech/why-singapore-remains-one-of-the-best-place-to-start-a-fintech-business/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,38 +25,86 @@ images:
     isCached: true
 
 related:
-  - title: "Here Are The 7 Singaporean Companies Who Made it to 2021’s Top 100 AI Fintech List"
-    excerpt: "Fintech information platform Fintech Global has released its inaugural AIFintech100 list, identifying the 100 most innovative companies building artificial intelligence (AI) and machine learning (ML)"
-    publishedDateTime: 2021-10-04T01:34:00Z
-    webUrl: "https://fintechnews.sg/55919/ai/here-are-the-7-singaporean-companies-who-made-it-to-2021s-top-100-ai-fintech-list/"
+  - title: "Singapore patrol robots stoke fears of surveillance state"
+    excerpt: "Singapore has trialed patrol robots that blast warnings at people engaging in \"undesirable social behavior\", adding to an arsenal of surveillance technology in the tightly controlled city-state that is fueling privacy concerns."
+    publishedDateTime: 2021-10-06T07:28:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/nation/2021/10/683_316577.html?fl"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316577"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316577"
     type: article
     provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 33
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 59
     images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/09/7-Singapore-Companies-Make-2021-Top-100-AI-Fintech-List.jpg?x45653"
-        width: 2048
-        height: 1136
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202110/0fe80a9f59bd48d6a2f4efe4b5b2b5be.jpg"
+        width: 980
+        height: 653
         isCached: true
-  - title: "Fundbox Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
-    excerpt: "CB Insights today named Fundbox to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year’s list was unveiled on stage at CB Insights’ Future of Fintech conference in New York City."
-    publishedDateTime: 2021-10-05T15:30:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8368135/fundbox-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
+  - title: "Robots Now Patrol Singapore Streets To Deter \"Undesirable Social Behaviour\""
+    excerpt: "Singapore has trialled patrol robots that blast warnings at people engaging in \"undesirable social behaviour\", adding to an arsenal of surveillance technology in the tightly controlled city-state that is fuelling privacy concerns."
+    publishedDateTime: 2021-10-06T03:02:00Z
+    webUrl: "https://www.ndtv.com/world-news/singapore-news-robots-patrol-singapore-streets-to-deter-undesirable-social-behaviour-2565301"
+    ampWebUrl: "https://www.ndtv.com/world-news/singapore-news-robots-patrol-singapore-streets-to-deter-undesirable-social-behaviour-2565301?amp=1&akamai-rum=off"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/singapore-news-robots-patrol-singapore-streets-to-deter-undesirable-social-behaviour-2565301?amp=1&akamai-rum=off"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
-  - title: "Quantexa Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
-    excerpt: "CB Insights today named Quantexa to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year's list was unveiled on stage at CB Insights' Future of Fintech conference in New York City."
-    publishedDateTime: 2021-10-05T20:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/10/05/9463460.htm"
+      name: NDTV
+      domain: ndtv.com
+    quality: 57
+    images:
+      - url: "https://c.ndtvimg.com/2021-10/7pf4sup4_singapore-robots-afp_625x300_06_October_21.jpg"
+        width: 650
+        height: 400
+        isCached: true
+  - title: "Robots to patrol Singapore streets to detect 'Undesirable Social Behaviour'"
+    excerpt: "Singapore is seeing an explosion of tools to track its inhabitants as it already has vast numbers of CCTV cameras to trials of lampposts kitted out with facial recognition tech"
+    publishedDateTime: 2021-10-06T04:54:00Z
+    webUrl: "https://english.jagran.com/world/robots-to-patrol-singapore-streets-to-detect-undesirable-social-behaviour-10033194"
+    ampWebUrl: "https://english.jagran.com/lite/world/robots-to-patrol-singapore-streets-to-detect-undesirable-social-behaviour-10033194"
+    cdnAmpWebUrl: "https://english-jagran-com.cdn.ampproject.org/c/s/english.jagran.com/lite/world/robots-to-patrol-singapore-streets-to-detect-undesirable-social-behaviour-10033194"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Jagran
+      domain: jagran.com
+    quality: 57
+    images:
+      - url: "https://imgeng.jagran.com/images/2021/oct/Singapore1633496465905.jpg"
+        width: 650
+        height: 540
+        isCached: true
+  - title: "‘Dystopian world’: Singapore patrol robots stoke fears of surveillance state"
+    excerpt: "Trial of robots to police ‘undesirable’ behaviour such as smoking or breaching social-distancing rules"
+    publishedDateTime: 2021-10-06T04:05:00Z
+    webUrl: "https://www.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 56
+    images:
+      - url: "https://i.guim.co.uk/img/media/5d311d29a91a6d5e920a7ba5adce0ea4afc089f0/0_44_4438_2663/master/4438.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=df3ab4b9b1d37a4187a079d7adfa4eba"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Robots Patrol Singapore Streets to Police People Engaging in ‘Undesirable Social Behaviour’"
+    excerpt: "Officials have long pushed a vision of a hyper-efficient, tech-driven \"smart nation\", but activists say privacy is being sacrificed and people have little control over what happens to their data."
+    publishedDateTime: 2021-10-06T04:01:00Z
+    webUrl: "https://www.news18.com/news/buzz/robots-patrol-singapore-streets-to-police-people-engaging-in-undesirable-social-behaviour-4288970.html"
+    ampWebUrl: "https://www.news18.com/amp/news/buzz/robots-patrol-singapore-streets-to-police-people-engaging-in-undesirable-social-behaviour-4288970.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/buzz/robots-patrol-singapore-streets-to-police-people-engaging-in-undesirable-social-behaviour-4288970.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 49
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/10/robots-163349274416x9.png"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "u5eFxJeRQdgVKfljzXXpWZn4t+uPJGI256jkEHiqi80uBkERBT0GP4H/RPwWcDofCf6rsMNuAMgq349seH8D6OVwiVXXw22wrV2WMxVRi+8fcYmLcP2e7+rXE/VeWRWNl/on7hXHoNs+DVSLu6sf6SY1aALXidQlIdBILrQJfHvvktjA2wIj4ZJcPgm/6S7/r116AayuwE+jTH0sKtnpi5XG9W3dpzx9Pmuz5NyjqVdHOW1iEi7pMaNkIJ2BM6rToHpTXcUrjR18BIj3nPV1OegGs2r0XPA0he2/Uu+9MA91Zg++o0dHtE2KixUhnrzMNJOwTvUr04HNLKi6/Ht/ucGTFQ3UYSwZ91Ya9A6+lBLSVsVZegRi8CwV7kI6CiRAUxThqQgl0fXPCX/ff+tklFvwO16XjbJ9LJr5vZzakYWUSp0yCQ3rNvVa7EwgeeLWb0LoaMB9mzvabeBxpEO2Aeh6WgJ0Tjfp+MNtV/dxxwHxnchuc49nN18ZK1vFPfyCg+tOaxYuf1ZF8dyB0lMiEQ==;V/gqKhwNRQMo/KjN43K6og=="
 ---

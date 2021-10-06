@@ -24,18 +24,32 @@ images:
     isCached: true
 
 related:
-  - title: "Is Artificial Intelligence the villain here?"
-    excerpt: "There was a time when people had to buy the newspaper (news on paper, literally), find the jobs' session, and browse through it to find an advertised open role. If found, they had to mail their #resume to apply,"
-    publishedDateTime: 2021-10-01T18:04:00Z
-    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-villain-here-ren-beani"
+  - title: "Ethical Issues of AI"
+    excerpt: "Ethical Issues of AI By CIOReview - Tech giants and experts believe that this is the time to discuss the concerns regarding the future of AI as this technology"
+    publishedDateTime: 2021-10-06T07:26:00Z
+    webUrl: "https://www.cioreview.com/news/ethical-issues-of-ai-nid-34549-cid-175.html"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
+      name: CIOReview
+      domain: cioreview.com
+    quality: 54
+    images:
+      - url: "https://www.cioreview.com/newsimages/705x485_cOD76eP5.jpg"
+        width: 705
+        height: 485
+        isCached: true
+  - title: "ICAI holds meet on Artificial Intelligence"
+    excerpt: "The Institute of Cost Accountants of India (ICAI)-Bhubaneswar Chapter held a seminar on “Artificial Intelligence” at the CMA Bhawan here on Sunday. Chief speaker Nalco GM-Systems (Marketing) Ravi Mani"
+    publishedDateTime: 2021-10-05T18:49:00Z
+    webUrl: "https://www.dailypioneer.com/2021/state-editions/icai-holds-meet-on-artificial-intelligence.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
     quality: 52
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGgvsMbd7aPXQ/article-cover_image-shrink_600_2000/0/1633111308406?e=1638403200&v=beta&t=qEqV7SMVtgEF4VPoFJz9Bp13rc_ePOvkXAdi--kW-MY"
-        width: 700
+      - url: "https://www.dailypioneer.com/images/logo.jpg"
+        width: 325
         height: 325
         isCached: true
 
