@@ -153,6 +153,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Smart patrol robots stoke surveillance fears in Singapore"
+    excerpt: "Singapore has trialed patrol robots that blast warnings at people engaging in undesirable social behavior, adding to an arsenal of surveillance technology in the tightly controlled city-state that is fueling privacy concerns."
+    publishedDateTime: 2021-10-06T12:40:00Z
+    webUrl: "https://manilastandard.net/mobile/article/366776"
+    type: article
+    provider:
+      name: Manila Standard
+      domain: manilastandard.net
+    quality: 19
 
 secured: "ykb7vW4pLA2bFUfcntcgzmPUyPG0eizRT/jI2L4DWyEsUXWHPVrtsfvaQm1+QTc7jniJqM0dR5pbQyUbjMw0L6a37M2079Zon4+3qp8Anm4P7fDjz60nUu0IwmxqWSrYKXMNJhe0cOXczILf5Kgx/k53EyxJZZhsDPh48LhAMppqzBIy7k3nSgBlgKbaXoyDfefJh8aHTQB4dwGY8n0+aeQwTXAdbfhGGxRpWh4ZC5mQ6F3MvO+ijctCcy8zTHekH4nr+ymLuR3WFWRV4dzppMNSDojkw/iPjnEKXTDDi/qN3sVx4lYDOmzIu0rzBuW3Putp0VK/G08bLdFs2RuVUapuuPJFlCn6WJ7wy7AtVeY=;kw7cRsdmMg5jFoiJqUmdfw=="
 ---

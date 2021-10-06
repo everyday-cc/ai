@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fintech Summit 5.0 – Another opportunity to demonstrate FirstBank’s collaboration in the Fintech space"
-    excerpt: "It was Sir Isaac Newton, in his letter to Robert Hooke in 1675, who wrote the now-famous quote: “If I have seen further (than others), it is by standing"
-    publishedDateTime: 2021-10-01T20:14:00Z
-    webUrl: "https://www.okay.ng/fintech-summit-5-0-another-opportunity-to-demonstrate-firstbanks-collaboration-in-the-fintech-space/"
-    type: article
-    provider:
-      name: Okay Nigeria
-      domain: okay.ng
-    quality: 23
-    images:
-      - url: "https://www.okay.ng/wp-content/uploads/2021/06/First-Bank-of-Nigeria-Okay-ng-1.jpg"
-        width: 659
-        height: 380
-        isCached: true
 
 secured: "88rFBDn+wMMeV2CKk0ADZBOxPrIqvjhYZcrGDTVq5Andlff/lZJDpwZJu/XER9P+6rekhoEnIdUYDVnP3DXn6iW2pdi8a4jOHOh73ahvmPlSGOvuq6J/e4fnhtbrKOL/vS2KRb8bF3CZAKy+5qvxH9hODuYOfQeJPg6VH+JWDjIVAVqzHbjsKBQZiK84qb/Xp2yC9yLM6SqZICs02Nwc7ME3H5xL+SZ8g2I0mNNuoFEWZvjbyKCTm5kLjxiGVN/a+SAORPJzslsBFKXZS9mc3PLsnuZPZTmNBIXq4iGNyOuXgLVtCAx+qNkUrOMSfmXnrzFM3qoP9lvTuvPPB/uNyuVXQKe/NCr5WJVZzUAWl+hJ4CN9Va0M2bSgYUkn65MQDfdumXN9C0oKROk89sXmolP3qKefy7fdkidxZn95xpkrx9KbwnbrFYv8FzSMJzpF5JFnPnZXl6CjUkY77gFIaq3vUJa68X9HFDoKMp8NgQn2L+K4cxTEhHmQY4L9ilAvFqepsoMc35wmjgL6n1YlEw==;t1FOIKAd4QVkqdwK1f/sYQ=="
 ---

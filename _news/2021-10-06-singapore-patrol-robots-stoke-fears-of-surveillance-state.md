@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-10-singapore-patrol-robots-stoke-su
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-singapore-patrol-robots-stoke-surveillance.amp"
 type: article
 quality: 59
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -153,6 +153,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Smart patrol robots stoke surveillance fears in Singapore"
+    excerpt: "Singapore has trialed patrol robots that blast warnings at people engaging in undesirable social behavior, adding to an arsenal of surveillance technology in the tightly controlled city-state that is fueling privacy concerns."
+    publishedDateTime: 2021-10-06T12:40:00Z
+    webUrl: "https://manilastandard.net/mobile/article/366776"
+    type: article
+    provider:
+      name: Manila Standard
+      domain: manilastandard.net
+    quality: 19
 
 secured: "HgqXNGjkvNWIPzsgCKbF85DxBrg5sgYA8TP3O+ChT6ZuSJH4/IGDp4TceXflxMp9J9noRhOXBY1Hcu9cB6LE/bBQD9CIPH7zNxcnh6+tm4+AG/SZIQBHGIQWTEf7MXCC4okgFnwt/C/xEPKhAOUwJUkcLjMlC82Osl8wGyrWoE/9kJz8PQL/6B60OTa/ursNOIEuuXfsY9smkhIXKHzhixZkEo7JQdmJ8qvlbUlKF+aDWWMWnURLGE7mNwTdZ84GrCmqiE1P4tIgEbCHVnWkcjLrYpMKTWd0o+5LarTUZJpZVC/vahRtJz/eu+POgLPTDBRQfRKM8r3x1bLGTfme9nYYF0hTgK6mUvTcpDz51nQ=;VgiPTUWy8OpXl+mjEnpTgQ=="
 ---

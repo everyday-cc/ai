@@ -39,6 +39,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "Why Enterprise AI Needs Human Intervention"
+    excerpt: "That said, how scared people really are of these things can be best judged by the fact that nearly 10% appear to be scared of zombies! Even still, the fact that people are genuinely scared they will lose their jobs to AI has already been discussed and the fact that UN human rights chief,"
+    publishedDateTime: 2021-10-06T13:25:00Z
+    webUrl: "https://www.cmswire.com/information-management/why-enterprise-ai-needs-human-intervention/"
+    ampWebUrl: "https://www.cmswire.com/information-management/why-enterprise-ai-needs-human-intervention/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/why-enterprise-ai-needs-human-intervention/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 57
+    images:
+      - url: "https://www.cmswire.com/-/media/deccbc7032a842d79d66414eff8994ae.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "WoQN+0K5GG2a3l1VAv7mZydXn0VkcicvwlVrvobVMSAdLVffud6pOW7CNNH8artKNh7nFGAU/JGOU0CrBkBK2yfUeh4Gx6aDCkSKGDGWcx8xNlqq3Lgi4livF0JLfQ3kFfvx6RdIvIIpCORy0aLUARIIRF669iXPaoDJlrs0CnoJ48Kh5Ocrp4zaRtyGp86CsUKzOdp04etqM+Mz2QqLiHj0A7tG6DbJwZExhx/yYvAPSoJIm5N8T/nQp7eQc3AXXpyxfxNVWf6nLRUugRwi1tJ8UlDkeMAoFaABeUNoJyacNxPL+ePFWixw8K05Ok0ho6Cv6XbHn7K9LvVgxpUe2PqmL6lH8MbGotyPUJ9F3Gd9aRYFFNwwDFa/BFVJgGqYGBsa3NADRSIwdqZjWNR59EJEWuvzPuPQyrPsZpHjJbIRJY44yScTEVDZGgNxA2n+c3PztyDn6qAGNplmXXKlqX54Xpi0/HOQVvHyLAHq+X0SrZhpxTzRzE20qiveOZ0/V/epW5ysV3ccKvdK2p2ocQ==;+FKBGJBwsxL1bZZMWF0tIQ=="
 ---

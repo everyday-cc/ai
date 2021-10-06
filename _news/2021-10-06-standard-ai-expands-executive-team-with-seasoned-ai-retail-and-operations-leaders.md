@@ -1,20 +1,21 @@
 ---
 category: news
 title: "Standard AI Expands Executive Team with Seasoned AI, Retail and Operations Leaders"
-excerpt: "Standard AI today announced the additions of Jennifer Haroon as CFO and Angie Westbrock as COO to its executive team."
-publishedDateTime: 2021-10-05T18:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20211005005320/en/Standard-AI-Expands-Executive-Team-with-Seasoned-AI-Retail-and-Operations-Leaders"
-webUrl: "https://www.businesswire.com/news/home/20211005005320/en/Standard-AI-Expands-Executive-Team-with-Seasoned-AI-Retail-and-Operations-Leaders"
+excerpt: "Standard AI, the world’s leading computer vision platform for retail, today announced the addition of Jennifer Haroon as Chief Financial Officer (CFO) and Angie Westbrock as Chief Operating Officer (COO) to its executive team."
+publishedDateTime: 2021-10-06T12:33:00Z
+originalUrl: "https://www.channelbiz.co.uk/press-release/standard-ai-expands-executive-team-with-seasoned-ai-retail-and-operations-leaders/"
+webUrl: "https://www.channelbiz.co.uk/press-release/standard-ai-expands-executive-team-with-seasoned-ai-retail-and-operations-leaders/"
 type: article
-quality: 11
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Channel Biz
+  domain: channelbiz.co.uk
 
 topics:
+  - AI in Autos
   - AI
 
 related:
@@ -33,6 +34,6 @@ related:
         height: 450
         isCached: true
 
-secured: "8uL6vZ8SPFZbzs4FbrratCPQ+M+Fi/UfwRrnfNeGrHVPP6mruaiel0e+kIl/IR9CLSlsE2WxA4iXw2+FZlHsfWF891WLTzFUboHIC6piwQ8sMBPlWaPujEcFSnUG+ClvNRFGIYk+qQx6fMqJQiNX+9qaycZkESf+zHUEZFkU7IkLzZ89Y+T+kQYs4Z6DEzKXhFJFOEbjjPQJrI97/4KjfAVY0c1trraNFN4LUXF7Hx3omg7TGIzdN3x517YXIv2G6XR2fR1Xa1CHO+a0l1gG1gF407fTz2bT98+qxBnaxJ0Unne4p0bLeL6+YVibhjO+pSysO789aK2elhLiC1FtENtkvwmdjUMeMqyUpYY9x94=;UCa1z6wVVJg80TWC3OIQ+w=="
+secured: "dHiXiq+BsmWhfCMwOMo/VmF6iiv4XyYTb6A1XA9ZdKY6LKSFGpLcVGKgLjw2XKvBE4T69vFhxxp4HxNGL9cXspmNVrYZ1Y/3+OsVh4KDO8YY67uO/hBT6kOtfgT62Ah8G74t2OHGW4QtvwrPcqBdgv6raff87IY+i14nfjvfoRFeacPDpd4lZ/2txTkvrN6wvJUP+9WINykSnlqBDWMrayOd087As6Dx+8ej7AGEDamxH5LLlvQ2M5fbUif6LIv5ksI7PheN66y+bt1zInysxmDFZ3mJ7pjQR9/Y7RbnqTzx6qRG2e1+gyIBuZysIG6Ti72UbUX8ny869DIQu/8JYd0fUjvjbVWiC7L4eTTp2G4=;G199LSVjTOydAEbhrthH6Q=="
 ---
 

@@ -24,6 +24,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "NLMK is testing innovations in the field of artificial intelligence"
+    excerpt: "NLMK Group has signed a strategic partnership agreement with the Association of Laboratories for the Development of Artificial Intelligence."
+    publishedDateTime: 2021-10-06T10:14:00Z
+    webUrl: "https://www.akm.ru/eng/news/nlmk-is-testing-innovations-in-the-field-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: akm.ru
+      domain: www.akm.ru
+    quality: 37
+    images:
+      - url: "https://www.akm.ru/upload/iblock/ee5/NLMK_NLMK.jpg"
+        width: 600
+        height: 399
+        isCached: true
+
 secured: "JAF454tB8k+34blNWBauE+AvPrRnl03zoFAYzUr6Nvv7mS0JJscOhfKy9aaR5GaNOB0CkkWquX/dW946EeOhWHam2qFkKaLuyJZxF+loOTvPGziCmtuHIQ269iMtJHgF42QU3AkfkAmlrOI3gqQ9KmnFNgrHnDphZUf6E6Mn583n6XBokkmToJETXMb/GVhPIzB7UHiBngRyzsVPIThTj61UTqTAwlRM/aQ7rkPxWMR9bNA7EZ4ebIaJ/Nmx0PpKYbJkelWxn2C7Eby+xybBCux0j1c1SF2O7BQfrXLYDk2NRA1/X3v/YkmlP2zhvpRLabIlPOsTxVrTdzU1DtS5haP8hiWpGAg/us2b3F/xCv0=;VOVu/SppGsVhGuEOYrDcng=="
 ---
 

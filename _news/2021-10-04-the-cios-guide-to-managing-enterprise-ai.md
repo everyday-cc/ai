@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-cio-guide-to-managing-e
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-cio-guide-to-managing-enterprise-ai/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -25,6 +25,22 @@ topics:
   - AI
 
 related:
+  - title: "Why Enterprise AI Needs Human Intervention"
+    excerpt: "That said, how scared people really are of these things can be best judged by the fact that nearly 10% appear to be scared of zombies! Even still, the fact that people are genuinely scared they will lose their jobs to AI has already been discussed and the fact that UN human rights chief,"
+    publishedDateTime: 2021-10-06T13:25:00Z
+    webUrl: "https://www.cmswire.com/information-management/why-enterprise-ai-needs-human-intervention/"
+    ampWebUrl: "https://www.cmswire.com/information-management/why-enterprise-ai-needs-human-intervention/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/why-enterprise-ai-needs-human-intervention/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 57
+    images:
+      - url: "https://www.cmswire.com/-/media/deccbc7032a842d79d66414eff8994ae.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Demystifying the Complexity of Enterprise AI Deployment"
     excerpt: "We’re sitting on the cusp of artificial intelligence (AI) innovation. Consulting organizations like McKinsey and PwC claim that AI is a multi-trillion dollar business opportunity."
     publishedDateTime: 2021-10-02T16:49:00Z

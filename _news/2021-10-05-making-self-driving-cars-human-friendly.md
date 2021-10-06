@@ -59,20 +59,15 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Not coming to a road near you: Self-driving cars"
-    excerpt: "The future that never was can also apply to the self-driving car, also known as the autonomous car. They were supposed to be filling our streets by now, but are rarely spotted. Their delayed introduction is actually good news."
-    publishedDateTime: 2021-10-01T19:37:00Z
-    webUrl: "https://www.theglobeandmail.com/business/commentary/article-not-coming-to-a-road-near-you-self-driving-cars/"
+  - title: "Making self-driving cars human-friendly"
+    excerpt: "Automated vehicles could be made more pedestrian-friendly thanks to new research which could help them predict when people will cross the road. Scientists investigating how to better understand human behavior in traffic say that neuroscientific theories of how the brain makes decisions can be used in automated vehicle technology to improve safety and make them more human-friendly."
+    publishedDateTime: 2021-10-06T13:07:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/10/211004203419.htm"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 24
-    images:
-      - url: "https://www.theglobeandmail.com/resizer/faugYP_x-od_Y4GHm0tAI5URoUw=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/TJ3SH5VPTRDPHN2ZWQPGFIUINM.JPG"
-        width: 1200
-        height: 743
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
   - title: "Apple Seeking ‘Radar Test Engineer’ for its Self-Driving Car Project"
     excerpt: "According to a new job listing, Apple is looking for a Radar Test Engineer for its self-driving car project, reaffirming the company’s commitment towards its autonomous, electric vehicle efforts. “Apple SPG is looking for a Radar Test Engineer to join our Sensors team,"
     publishedDateTime: 2021-10-05T18:51:00Z

@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Vice President calls for AI solutions in agriculture, health, education"
-excerpt: "He also suggested exploring AI-based smart solutions in health such as remote diagnosis, and automatic translation of English texts to Indian languages in education. \"If such solutions can be ..."
-publishedDateTime: 2021-09-28T23:40:00Z
-originalUrl: "https://www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
-webUrl: "https://www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
-ampWebUrl: "https://www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/vice-president-calls-for-ai-solutions-in-agriculture-health-education-news-national-vj2sk4gijgjbb.html"
+excerpt: "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial"
+publishedDateTime: 2021-09-28T20:04:00Z
+originalUrl: "https://menafn.com/1102881265/Vice-President-calls-for-AI-solutions-in-agriculture-health-education"
+webUrl: "https://menafn.com/1102881265/Vice-President-calls-for-AI-solutions-in-agriculture-health-education"
 type: article
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Natural Language Processing
   - AI
   - AI in Education
 
-secured: "JAadEcC31/p0UGMA0fjrpH4Ud3368k0GIGHHtzu4Be97zHtmEhNneixSnxyRAECUOyYdqqbY3wRDapZsVGsosusff/wP5YPsioWuNQ3vGIA3lAVRPHx14gAAKQy5G9+2HwB9XFgxmdyEDVBGV+wuGJo9JpAZ9PhcBx1SqyPuIuivnZvm8gJETJlRC7/ra3gYNIC0DDLszmmThE8N/0zgyayqgFa75CXqHS4WM45C97nnBis1iQ38K4uLDELJRCCMDqabexrIjHWFeETWdJh5EaRoS+vlrMuBd7M3u/pu+7VrPfQwFxwdtBfW6q9dWg8I6WfBm6kqRc9eOS3EaV6V4YHC08kLpn4RGOVcxTfG0N0=;9o7RThpMaLeyuDfI8Ro4uw=="
+images:
+  - url: "https://menafn.com/updates/pr/2021-09/28/I_c99edimage_story.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+secured: "31vu/L9yrDaA+LMcbizb85skKUo4ZFnswHyj+qZP5l3D/gsctncMhzq9HFjmIhz+DOoWG1SauxNZ1FdZv1/jHYkeSmVzatHN8L1biZBFejTRCwDK0tA0a8HAm9d8+Bzlg5F5l0PbfApzEHYFUySULh04S7q+VqE0HWPQ/+eh9JvQxkRHtE3ZMs5NAO7ekfmxTWZPAZFgqq3cNGQaGw7wf/nd+AKooTA++DF/1t3U6vA9yPLM807n22o9uBP2TsahCU/PG5D7qanYj1R5Huq5728ecwB5vE50phenoNKOOTTs1a2Km7E9qUoahHHAMHYgjzzqMxLLIVln1jlha9JaAYykUN79hieb2w6yqA1Cc34=;Uqx8fnPsTPFQZKvpIxCIWQ=="
 ---
 

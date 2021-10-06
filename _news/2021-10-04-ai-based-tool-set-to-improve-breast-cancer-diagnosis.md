@@ -72,6 +72,15 @@ related:
         width: 656
         height: 1024
         isCached: true
+  - title: "AI Helps Rule Out Cancer in Women With Dense Breasts"
+    excerpt: "While mammograms have reduced deaths by detecting breast cancers when they're small and easier to treat, it's less effective for women with dense breasts. However, a new study finds that supplemental MRI screening can make a difference for these women,"
+    publishedDateTime: 2021-10-06T13:17:00Z
+    webUrl: "https://www.usnews.com/news/health-news/articles/2021-10-06/ai-helps-rule-out-cancer-in-women-with-dense-breasts"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
 
 secured: "R+/UhZay5kUe3vJlJCerwE3aLzqvpVUw44mjTBlOaCADiM336z58mnI4rHkBp96bKLPHMe2dtbRElWUxVUq5zb7ZzSBqGNrs1MxPgczryzk+M209iU5CYPFz6uIwOt+oVMu7SpnQ27KsNq+DSh7CWOdHG4AE522Jz4ScGoOPO+/pknpDsFC1TyDfFxunjV5B3R6xm1yQqs2vdKPZDDVAtLduT5rUMrjZpRsv/i4WYFfzxvdDu3IZnahasmFuF+jbMZwOtpRNt3Xu1kExC23OiR+yXjZ7y6lmqsL/phDELA4/gD+niZPYVRLVutN+IEP/S8sTRuO907p2PHsWWQ4K/zAS0uRhMTdajw3R6p76igwuCvhMLCzTtFUxwqV/Qqb28bxy8KEfkwxftg/xsUZLacOikeBSMYKDvsEAPDKJGz93naOjgtnnMUohyXgK58oPlU7o1No6e566pIlBMXGgENtP8ZnULBaDbjFqtJ3SolWpuOIgMUjBY+XABlCRyz4ujZ/jpO3+MeRgZdW5adYiLA==;FwUnEbxzv1g4/TMHpYZqNg=="
 ---

@@ -8,9 +8,9 @@ webUrl: "https://www.theguardian.com/technology/2021/oct/05/ex-uber-driver-takes
 ampWebUrl: "https://amp.theguardian.com/technology/2021/oct/05/ex-uber-driver-takes-legal-action-over-racist-face-recognition-software"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/oct/05/ex-uber-driver-takes-legal-action-over-racist-face-recognition-software"
 type: article
-quality: 43
-heat: -1
-published: false
+quality: 143
+heat: 173
+published: true
 
 provider:
   name: The Guardian
@@ -47,7 +47,35 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Striking Uber drivers demand end to ‘racist’ facial recognition software"
+    excerpt: "Striking Uber drivers, supported by Black Lives Matter and Union IWGB, are protesting at Uber HQ over 'racist' facial recognition software"
+    publishedDateTime: 2021-10-06T12:42:00Z
+    webUrl: "https://www.bigissue.com/news/employment/uber-drivers-strike-racist-facial-recognition-software-higher-pay/"
+    type: article
+    provider:
+      name: The Big Issue
+      domain: bigissue.com
+    quality: 38
+    images:
+      - url: "http://thebigissue581.wpengine.com/wp-content/uploads/2021/10/UberStrike1-768x440.png"
+        width: 768
+        height: 440
+        isCached: true
+  - title: "Uber sued over ‘racist’ facial recognition algorithm that locks out workers"
+    excerpt: "When you have an job that you think will help you to secure income and it’s taken away unfairly, it’s very difficult’ says a former driver"
+    publishedDateTime: 2021-10-06T10:42:00Z
+    webUrl: "https://www.independent.co.uk/news/business/news/uber-sued-facial-recognition-algorithm-racist-b1933275.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 37
+    images:
+      - url: "https://static.independent.co.uk/2021/10/06/13/PRI203646116.jpg?width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 800
+        isCached: true
 
-secured: "fr2qovE/MyU8Ja+HI3i2T9mv1jX6ZhLHMSOVzJWc0H3qEImRvBXCkTwHoBd4tcmRjpAP49kRI02w8TcpWHAnhiRRhEINKx0XBoZwYjJGbpEZMs7lVL42ivQPRLcELpl2JnghT/jfL7zHiuKlRwd1IWRTawukYA6WkMdriz8zrl8/6mhyatZqwv63Je4vMP8D62KkicMHsGHk1GqQkAu+ffs2Hv8rqU+6908uIznsz+d13rN35As1LPJoBQ69P1bls84JaIO/8cwDkhLyy2kA0q5qY0U0oaionMoendUjQ/27dVSAIlcr569YKae69v3TXtioPP/StEq2UXsppBmRF3U1RxxojhmvSBRiXVNvoh0iKIIEAsJEJamJO79Bp42+X0+4pK7D/yJzZuDanHOvadYM9WLeiZmXjkIr8JAMK7PQ0mA+XcyWCXKzMhOFqfWdaa1SoebmRjQ1ewgGDU2aBOOcK8fNrfz3HH7Fbd901tyOYUehh+qD8Vt7iAyQXy3Rl/Sx3R71DN1RkgfPLCLHzA==;b2K0g/UjAhM6Dssf+1/LAQ=="
+secured: "WGGPWMK303o7AnIRH3ik6RiazgsNobz69+44pm9TgUCnbuH/hSZysV1LX7QfzQK+tO5gvT7ZicONgBlVJ9tD0XiMC07f6FVQHlBUGRd5VhPu7y1X03KkBa1z4HsQs7iJPfHJDr8M+aH8AKkYBbwNL0QikJGNEeA4nwkznr/WJfY/1cB2bFIARzkzTEBmSiSsrQf8/dHCKl5hvfubaHICo3Xfy1o6qyfhBlNFLPMgDXHP7LKGnGz6qAkY8hU8lx4u0AcCDJBmnTPtl7Ovmbq3v06K8rUZ7MC4/HjZUe9I0Ul0EKnbFDvemepFP5JPA6Wzb+z/0D/+4lmLba0RaXI4OP2x3GIBXcEvc6yMdEkrCm7mUNlOcRlpjCdXxU5mx2QDLHrvLDGxRvRuqB33dREqc8+i4czQ6ad6lQYNibVnVp2YR1b1X+9drXEgM/xQhfSZUp6N+MOXoPq3UCqViZMGQT2uvyMyk0psKpMMqK3D2Fpobd+muFBI1gm9/p7pp02vCPDvDY7dQx8VkigkZPACLHrdyDPaSCjjIDU821Dh9NY=;1cMt4lVBNJ0QiFHmzlujlA=="
 ---
 

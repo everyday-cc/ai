@@ -9,7 +9,7 @@ ampWebUrl: "https://europeansting.com/2021/10/05/this-is-best-practice-for-using
 cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://cdn2.techhq.com/wp-content/uploads/2018/12/000_1SN6GC.jpg"
         width: 1024
         height: 681
+        isCached: true
+  - title: "EPP refuse call to ban public facial recognition systems for policing"
+    excerpt: "MEPs for the first time call for a moratorium on the deployment of facial recognition systems for law enforcement purposes"
+    publishedDateTime: 2021-10-06T13:02:00Z
+    webUrl: "https://www.maltatoday.com.mt/news/ewropej/112513/epp_refuse_call_to_ban_public_facial_recognition_systems_for_policing"
+    type: article
+    provider:
+      name: Malta Today
+      domain: maltatoday.com.mt
+    quality: 39
+    images:
+      - url: "http://cdn.maltatoday.com.mt/ui_frontend/thumbnail/684/400/facial_recogniton_cctv.jpeg"
+        width: 684
+        height: 400
         isCached: true
   - title: "MEPs back EU facial-recognition ban for police"
     excerpt: "The European Parliament has backed a moratorium on facial recognition for law-enforcement purposes – bypassing attempts from members of the European People's Party aiming to torpedo the ban on biometric mass surveillance in public spaces."

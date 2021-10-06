@@ -59,6 +59,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla’s Approach to Self-Driving Cars Could Cause Problems Down the Road"
+    excerpt: "The car maker is betting that it can develop self driving cars with only optical cameras, while other car makers believe multiple sensors will be required."
+    publishedDateTime: 2021-10-06T11:56:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-self-driving-51633520175"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-self-driving-51633520175"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-self-driving-51633520175"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 58
+    images:
+      - url: "https://images.barrons.com/im-411554/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "Tt6KeFY+iRNjGVZuXA20//F6dxf2lwZP1bONpao8LNNViqgR0SuxThT4nKwsWLMQPb6nbb6bOXo0dqc465YcMbShpm0oDEiSH3xgAtEes5AKYWpocE/iUDRIvjAJFmlLdkY92If1K4On55SabWkPS26f5213LtgNwiXSLFk9mfyYISfwbzxCKc5g2fvPeXs0tOFwUVCGUhBG67egf+ydAAhCaa/Ogd4LDaC+VMNbZ4MzctHLzLxwwNJo9nBHHrfeMLNYkBUGnSHxACHW7hmKTO8G8YOuYR2sY8JflLYdD7pOH4oMtFq/TW0flKJfvxCiRhh8ko7YYNNbibKVgAqPnizsOZ6eqm5WarSYo9mhWzgeQ4QQfurNEOANmkMalUalYPAi5Zp2aKCsNHo0i4Lx3SUAweV7CwoNsLqNKqJUUge8w3GRjDyGkduPg1j1S7l/RwUGd0RFTT7qKwdW57Db1lKXtpIAhCHKn3HjfWxQVOvFgeuySzI+y/pALBjjcyqeamZJPyO6vviOiGlq2Z340w==;CFZjx6vTks13LnmaZx/sXg=="
 ---

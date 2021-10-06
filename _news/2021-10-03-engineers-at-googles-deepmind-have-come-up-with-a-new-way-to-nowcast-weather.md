@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Alphabet’s DeepMind A.I. lab turns a profit for the first time ever"
+    excerpt: "DeepMind, one of the world's top artificial intelligence labs, has turned a profit for the first time, according to a filing with the U.K. company registry."
+    publishedDateTime: 2021-10-05T12:03:29Z
+    webUrl: "https://www.cnbc.com/2021/10/05/alphabets-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/10/05/alphabets-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/05/alphabets-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever.html"
+    type: article
+    provider:
+      name: com/2021/10/05/alphabets-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever.html
+      domain: com/2021/10/05/alphabets-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever.html
+    quality: 159
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/105099255-DeepMind_Hassabis_WechatIMG253.jpg?v=1529477891"
+        width: 4189
+        height: 2792
+        isCached: true
   - title: "Google's DeepMind AI Has Just Reduced Conventional Weather Forecasting To Dust"
     excerpt: "Although it may seem easy, weather forecasting is one of the hardest challenges faced by science. Over the last few decades, meteorologists around the world have tried to come up with the most accurate forecasting models."
     publishedDateTime: 2021-10-04T07:03:00Z
@@ -42,6 +58,22 @@ related:
       - url: "https://sm.mashable.com/t/mashable_in/photo/default/shutterstock-246146029_gt84.620.jpg"
         width: 620
         height: 349
+        isCached: true
+  - title: "Alphabet helps DeepMind to turn its first ever profit"
+    excerpt: "DeepMind, the London-based AI research firm, has turned a profit for the first time ever, reporting in £43.8 million in profits for 2020. The firm has posted multi-million-pound losses over the last several years and reportedly burned through $649 million in 2019."
+    publishedDateTime: 2021-10-06T12:09:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361135/alphabet-helps-deepmind-to-finally-turn-profit"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361135/alphabet-helps-deepmind-to-finally-turn-profit?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361135/alphabet-helps-deepmind-to-finally-turn-profit?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 89
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1633518860/itpro/DeepMind_magnifying_glass_shutterstock.jpg"
+        width: 1260
+        height: 710
         isCached: true
   - title: "Google’s AI unit DeepMind makes first-ever profit"
     excerpt: "Google’s UK artificial intelligence unit DeepMind made its first-ever profit last year, after losing half a billion pounds in 2019, in the first sign that Google’s huge investment in the research outfit is starting to pay off."
@@ -91,6 +123,22 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Wednesday newspaper round-up: Petrol prices, Amazon, DeepMind"
+    excerpt: "Nearly two-thirds of UK manufacturers expect to raise their prices in the run-up to Christmas after being hit by mounting cost pressures, a leading employers’ group has said. The British Chambers of Commerce said inflation expectations had risen to their highest since its records began at the end of the 1980s,"
+    publishedDateTime: 2021-10-06T06:25:00Z
+    webUrl: "https://www.sharecast.com/news/press-round-up-short-premium/wednesday-newspaper-round-up-petrol-prices-amazon-deepmind--8171858.html"
+    ampWebUrl: "https://www.sharecast.com/amp/news/press-round-up-short-premium/wednesday-newspaper-round-up-petrol-prices-amazon-deepmind--8171858.html"
+    cdnAmpWebUrl: "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/press-round-up-short-premium/wednesday-newspaper-round-up-petrol-prices-amazon-deepmind--8171858.html"
+    type: article
+    provider:
+      name: Sharecast
+      domain: sharecast.com
+    quality: 59
+    images:
+      - url: "https://img2.s3wfg.com/web/img/images_uploaded/a/a/newspapers_media_papers.jpg"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "Google’s London-based AI lab DeepMind in profit for first time"
     excerpt: "Google’s London-based artificial intelligence lab has moved into the black for the first time after the Silicon Valley giant used more of its discoveries in its"
     publishedDateTime: 2021-10-05T17:00:00Z
@@ -104,6 +152,34 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fcc5d6be0-25f3-11ec-9d7f-240ccd0a3a50.jpg?crop=1760%2C990%2C0%2C92&resize=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "New AI Model From DeepMind Can Predict Gene Expression With Greater Accuracy"
+    excerpt: "The idea behind Enformer is to better understand variants in the non-coding genome and predict the effects of any variants on gene expression."
+    publishedDateTime: 2021-10-06T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/new-ai-model-from-deepmind-can-predict-gene-expression-with-greater-accuracy/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 51
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/New-AI-Model-From-DeepMind-Can-Predict-Gene-Expression-With-Greater-Accuracy.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "DeepMind Increases The Accuracy Of AlphaFold, With A New Release"
+    excerpt: "AlphaFold-Multimer analyzes multiple chains during both training and inference, supports both multi-chain featurization and symmetry handling."
+    publishedDateTime: 2021-10-05T13:33:00Z
+    webUrl: "https://analyticsindiamag.com/deepmind-increases-the-accuracy-of-alphafold-with-a-new-release/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Deep.png"
+        width: 1601
+        height: 915
         isCached: true
   - title: "Google’s DeepMind turns first profit as revenues soar"
     excerpt: "DeepMind, the London artificial intelligence firm owned by Google, turned its first profit last year and saw revenues soar."

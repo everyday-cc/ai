@@ -18,17 +18,6 @@ topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Report says Santa Fe is emerging as an 'early adopter' for artificial intelligence industry — with these two employers leading the way"
-    excerpt: "The Brookings Institution report defined \"early adopter\" cities as showing \"above-average involvement\" in artificial intelligence activities:"
-    publishedDateTime: 2021-10-01T20:19:00Z
-    webUrl: "https://www.bizjournals.com/albuquerque/inno/stories/news/2021/10/01/report-says-santa-fe-emerges-as-early-ai-adopter.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
-
 secured: "Aygg8ybBJM7w8Td75LWk7ilAMkY4AUz82lsqT2zGJPsgTU27uzkvUII2/BXZyER5pWHY3iDBRh8o2UeYtswxkHzrBHTOpumFKQaLLUMPtP1x1HzHuLzAxyBwGyx2CRgG7DJ/Ya5LQ140oyLcVH9YZzC968j0XDhaLIcLWDufJrb0MCNAVeyhbH+hEd05POqP1w4HOK8e7Z07Sp/dFsWUO1yB8Ab1KEDLc1kN2ps5mt6TmiCmBiqQ97+LX1Bv63d1tSAWiFXeL3JMeTpJT6Cedjqn1PsA14b3di5aTKyEiK/8iW/ndLC/eDQeVcbyoj4LwYHwDMLvhAdnQtzZCA3rdiSvv/YHCITwkQfa8zm6ek/5xCSgy/RbpSeMGbaJhTT+ZiCXAbibpAkJ3ChMX/CnwFOuoZXAQ+G3mA7dQbKw7RCFQRMJ6eTQe/j8//l6cnrwv9UwOQdHeqZs4NO5hk6KloMysnHmBKYiuEGEUrdmvFhnq4DGmK99t6kLZc4QJLZdxYKTOFNiXmMkCaUYwTMVNg==;lrirAjH4q6RVe1lnv5zEdA=="
 ---
 

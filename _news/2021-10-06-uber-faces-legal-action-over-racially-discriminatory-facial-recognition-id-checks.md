@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/10/05/uber-faces-legal-action-over-racia
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/amp/"
 type: article
 quality: 83
-heat: 93
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -41,11 +41,39 @@ related:
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 43
+    quality: 143
     images:
       - url: "https://i.guim.co.uk/img/media/55c54451224be3752e08c4b3ee40e9886df70ba7/0_217_6500_3900/master/6500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c819f6205781f6edad3b66bedd92282b"
         width: 600
         height: 360
+        isCached: true
+  - title: "Striking Uber drivers demand end to ‘racist’ facial recognition software"
+    excerpt: "Striking Uber drivers, supported by Black Lives Matter and Union IWGB, are protesting at Uber HQ over 'racist' facial recognition software"
+    publishedDateTime: 2021-10-06T12:42:00Z
+    webUrl: "https://www.bigissue.com/news/employment/uber-drivers-strike-racist-facial-recognition-software-higher-pay/"
+    type: article
+    provider:
+      name: The Big Issue
+      domain: bigissue.com
+    quality: 38
+    images:
+      - url: "http://thebigissue581.wpengine.com/wp-content/uploads/2021/10/UberStrike1-768x440.png"
+        width: 768
+        height: 440
+        isCached: true
+  - title: "Uber sued over ‘racist’ facial recognition algorithm that locks out workers"
+    excerpt: "When you have an job that you think will help you to secure income and it’s taken away unfairly, it’s very difficult’ says a former driver"
+    publishedDateTime: 2021-10-06T10:42:00Z
+    webUrl: "https://www.independent.co.uk/news/business/news/uber-sued-facial-recognition-algorithm-racist-b1933275.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 37
+    images:
+      - url: "https://static.independent.co.uk/2021/10/06/13/PRI203646116.jpg?width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "4SlAW+TRThzxtTl7wOkLkFPQKG4Z3/nNNKyg+uDchw/2CpMjFRRsi4xLT77gkLNFUC7E6ncbKP9DZshvgXJHQ55CJEFp52UAVaSber+8x1JHijejmFSHAMYM/OGUws1qllfDBlNBGsC/816vgu3QthZAryUPT4uzLFchoo3HAPgJnbSDGTJHZvwNVR9F4cFMABsgml4QbzmCgtmF+Jv8C3cy9B7wHpEGiFgKI/V9zUQzebSuKZtNn5k4P3XqU4bFPzifgVQNxoJk0Ez0OIqwwMaFB70SPYaSZHxbEAGuYP+LKVEbwHuNCLsvgjgae7T+KJKC0U6c4OAzT352d3KKhoaPrum8ehG2Y7omhbnyrQdSGEl0ZP/7rqS0jBFO/TBVJs+JQF372ppImhPXOGvYrnWzAipNQNUGP1rWkAmqSprO9LRWIbtNcTBBiGgc29ETvvyVi/75Cvf6gYuWz2jhJdTMKyKIsrBE2+z8HkAgOe53QCapLVOnqrJ2SrHYR9uSzJwA1W5c2beNDZLK8UIylg==;CU6c9Xx4zJS/GFXwKx1R3Q=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://wonderfulengineering.com/want-to-join-the-tesla-full-self-dr
 cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/want-to-join-the-tesla-full-self-driving-beta-youll-have-to-prove-youre-a-good-driver-first/amp/"
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
     quality: 58
     images:
       - url: "https://images.barrons.com/im-409159/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Tesla’s Approach to Self-Driving Cars Could Cause Problems Down the Road"
+    excerpt: "The car maker is betting that it can develop self driving cars with only optical cameras, while other car makers believe multiple sensors will be required."
+    publishedDateTime: 2021-10-06T11:56:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-self-driving-51633520175"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-self-driving-51633520175"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-self-driving-51633520175"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 58
+    images:
+      - url: "https://images.barrons.com/im-411554/social"
         width: 1280
         height: 640
         isCached: true

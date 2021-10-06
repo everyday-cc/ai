@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-05T13:44:00Z
 originalUrl: "https://www.linkedin.com/pulse/top-10-companies-using-ai-rejwan-bin-sulaiman"
 webUrl: "https://www.linkedin.com/pulse/top-10-companies-using-ai-rejwan-bin-sulaiman"
 type: article
-quality: 39
+quality: 43
 heat: -1
 published: false
 
@@ -21,6 +21,8 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Facebook AI
+  - Natural Language Processing
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQH4A01QBfCQMA/article-cover_image-shrink_600_2000/0/1633440642620?e=1639008000&v=beta&t=5NRexVdZcF7GI2e93SuDLCKKyXiGpiS-sjLvn0q-vpw"
@@ -64,6 +66,6 @@ related:
       domain: linkedin.com
     quality: 19
 
-secured: "g+VyYxboEyUN2X85bm7RHgDI4he+DEnRUMO1Na05MDVPWzvX3bANfPyGJBqY3GeOcJupisMwnslqfm1qTD5L6YezYKTeel7SZRkXtzwJEgRck51qh/DbK+EhCaGvah2Kx2pyuxbpydr2L4FaGeZVJ5swJ04Ip249B4CEK2AuIFwaobxkHyXEeHXZH4r02U3v6rZtuIUGBXIegQXrtLJlDmSx5h9t3yxR60A5FznjvwUFcKMe+Z0P4toKB0nkpIi89o3G79APRT/15HpRhQeRYKj8roXjgql5OF5m+XhFkT/U2eYldf4PvJ5BrNzgf3Ed8EXGUDmJYJY2XFT1iiDYBedphuLkIchecuv3Ofm5uvU=;2dx+6URsvrD1ybtNa8/keQ=="
+secured: "eHArqnZbPow9jpt/wd21SlhuqT0m5BKEq8Je9MO8d7Ebv0FFQqeIt2Jo5uRTIUhhd8sru9QHHHJQEGVfe8KnlrQnUUX7GjRwVhraZ5ltQlEtw/7CLO9CFhu5sgrajxM7ZiPfz9qo67LxSIBAv2RQmqbuBw5YDrTkj1NQjubmsWe4hmEQaLsIYqq+zSZNNWVfvYKXFLjInYBGBdTLA6KWlKHT8uIfE+GixCA5r6R3i0fgN5uzTJ1spoV30fgEHfGnIENAvOtIq72XUJ657YPna9uQoaLXTx+8o+sAx8B5KRhSIH4skNfDSeOlO6caEy52l2RtxWmhmX7B2jEmO0RLQZxiP2hlfn4pBu0+5QU7fJQorlo6X+7vkwOd5pUGc1ahiMVU1YD54r+3ErhhbNfOoa3TVt9rTo1ll6oN5e/y3ZxD/5AGFDZ7pzkC2Xtj5uzaS8TBg/704WMQZJ83OP7CwtUbdVGJ5K0JC99QDKH41gltgMdHjsojAVuQvL+lo3sZKbiyJ1PnuI/F9Fg/tmMtKQ==;pJ/2TOuGOIw3zyanp5qfBA=="
 ---
 

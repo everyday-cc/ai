@@ -87,6 +87,20 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "EPP refuse call to ban public facial recognition systems for policing"
+    excerpt: "MEPs for the first time call for a moratorium on the deployment of facial recognition systems for law enforcement purposes"
+    publishedDateTime: 2021-10-06T13:02:00Z
+    webUrl: "https://www.maltatoday.com.mt/news/ewropej/112513/epp_refuse_call_to_ban_public_facial_recognition_systems_for_policing"
+    type: article
+    provider:
+      name: Malta Today
+      domain: maltatoday.com.mt
+    quality: 39
+    images:
+      - url: "http://cdn.maltatoday.com.mt/ui_frontend/thumbnail/684/400/facial_recogniton_cctv.jpeg"
+        width: 684
+        height: 400
+        isCached: true
   - title: "West Lafayett City Council Votes in Favor of Banning Government Use of Facial Recognition Technology"
     excerpt: "The West Lafayette City Council took up a vote to ban Government use of Facial Recognition Surveillance technology. The council was split on its decision."
     publishedDateTime: 2021-10-05T06:06:00Z

@@ -40,20 +40,6 @@ related:
         width: 611
         height: 400
         isCached: true
-  - title: "The Future is Now: How AI in Diagnostic Imaging is Transforming Medical Applications"
-    excerpt: "The Use of AI in Diagnostic Imaging is Booming in Healthcare Industry” Download the most up-to-date research study and application @  AI in diagnostic imaging is gaining prominence and quickly growing industry close to what's to come."
-    publishedDateTime: 2021-10-01T19:22:00Z
-    webUrl: "https://www.linkedin.com/pulse/future-now-how-ai-diagnostic-imaging-transforming-medical-p-mahajan"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 30
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGmyKBct-TaWg/article-cover_image-shrink_720_1280/0/1633115703468?e=1638403200&v=beta&t=lYhzsqOGDrkEHBGeACtqj6r46vmodR0eEfo1XbStQwY"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "0FOumbabIz/O976byxv9eWFnS7v/rYDOaceeT/rbcJc07AOd0c1n30DFD1YNu6LcZrJd2JjsGKJ+5YlelXc5rsECqw5blINT2mU/afvBYGiGH/10WIY6ACw/bx3RFmfqM1l/lvBvKcwOlrI//cXckVaPEgKLP5BQwEfgFbPesmwMouQvKqY6nrBrE3UwLQUQso9p0hEQSfI4JuoprGa7mLjCs7p0CACw6livNJjB+QlZLMPY/QaMuGNcYj7cPqJFmWG0idhRQd5E8dXTvJpqB2ca6F/J1jha9Iw4YYg3z67EBTpJMWgK4oBtDJeXgVO4vhKey6cZ+RUWgmXzPy7gVWlK7tYj7KmoPoS66MpBmHU=;pfdIjrcbOYaGWAxMy9OPCw=="
 ---
