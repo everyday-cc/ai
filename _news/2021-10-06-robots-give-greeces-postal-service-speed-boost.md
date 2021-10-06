@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Robots speed up Greece’s postal service"
+    excerpt: "There's a new addition to Greece's postal service: a fleet of yellow robots sorting through the mail. Fifty-five small, four-wheeled autonomous mobile robots -- or AMR's -- powered by artificial intelligence,"
+    publishedDateTime: 2021-10-06T19:41:00Z
+    webUrl: "https://www.thedailystar.net/news/world/news/robots-speed-greeces-postal-service-2192521"
+    ampWebUrl: "https://www.thedailystar.net/news/world/news/robots-speed-greeces-postal-service-2192521?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/news/world/news/robots-speed-greeces-postal-service-2192521?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 59
+    images:
+      - url: "https://img.thedailystar.net/sites/default/files/styles/social_share/public/images/2021/10/07/wor.jpg?itok=16W4Jr70"
+        width: 750
+        height: 393
+        isCached: true
   - title: "Dozens of Four-Wheeled Autonomous Robots Are Sorting Mail in Greece"
     excerpt: "Robots supplementing the human workforce is no longer uncommon, as we’re now using machines in pretty much all industries. Today’s example is offered by the Hellenic Post in Greece, which now has a fleet of bots sorting the mail."
     publishedDateTime: 2021-10-05T14:57:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-06T16:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/revival-ai-announces-regulation-a-offering-to-revolutionize-bible-publishing-through-customization-ai-and-automation/article_e6a02887-3895-5593-85f0-52b992516690.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/revival-ai-announces-regulation-a-offering-to-revolutionize-bible-publishing-through-customization-ai-and-automation/article_e6a02887-3895-5593-85f0-52b992516690.html"
 type: article
-quality: 15
+quality: 17
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"

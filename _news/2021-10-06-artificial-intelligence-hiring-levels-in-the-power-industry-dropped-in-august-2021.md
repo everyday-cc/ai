@@ -7,7 +7,7 @@ originalUrl: "https://www.power-technology.com/features/artificial-intelligence-
 webUrl: "https://www.power-technology.com/features/artificial-intelligence-hiring-power-industry-august-2021/"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Terminus aspires to lead the AI industry"
-    excerpt: "Terminus Group is a China-based world leading AIoT company and the exclusive robot solution and AIOT application service provider of Expo 2020 Dubai. Founded in late 2015, the company currently has about 1,"
-    publishedDateTime: 2021-10-02T02:16:00Z
-    webUrl: "https://www.globaltimes.cn/page/202110/1235576.shtml"
+  - title: "Glider AI wins SIA Shark Tank’s Most Innovative Technology in the Staffing Industry for 2021."
+    excerpt: "In the highly contested SIA Shark Tank competition, Glider AI took the top spot for the most innovative technology in the staffing industry. Serving full time and contingent hiring for tech and non-tech roles,"
+    publishedDateTime: 2021-10-05T17:00:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-sia-c508028a03133d8dcf4ba88262eb0da7"
     type: article
     provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 39
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
     images:
-      - url: "https://www.globaltimes.cn/Portals/0//attachment/2021/2021-10-02/d74b984e-b1e2-401c-a427-ce4fd94ac455.jpeg"
-        width: 800
-        height: 480
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "FLzTO5Ns/YvSoJuleZH5+cxZdjj7JIE3RiOf+cKEtInGhfJfuFJ1MecXAztgSgeACgswXEqpQ99I/2gu55Lk7+JIhiqbNBLKiYtD3QhcVDM2reci9+YQQG+3y2JYs8WSJimdXzbS3qibVP+PLy6LIcy3QWltecSSx4spp6Jx/bzzuHhJHas520xI690ImCa8GldtnwPfIR9h3uW4FH8hX5W2yUk123UvaUDW+WwDCl570haKol9yIlS9JRXMU1XRtV3Z2Q6ICNuYd7FPvlBaT1GKG2IsYK9AUURMVkLV5AiqpWjZKtKGzTDMgMPEX0u5UWCiMaUDhdWqGMK2IzfHHNFeMVONTaUssDkz5q4d51pynhXOPFzrs8TMhoNI+N2inRXIgLsMwlVZkUmnA46ZbqzC3UMQgfclsniWJaMfEQnln1+a4dVm88yS6R2CV45B/QQMmU7Oe8gA1nMLOBpdXHzoxrN9KvIsqCJVNSYYjiH87SBwAeIocie5vYrO6fK39rEwueKhVGirlfct3EHG/A==;wg9CZzPkoL+nCbBhW1FOAA=="

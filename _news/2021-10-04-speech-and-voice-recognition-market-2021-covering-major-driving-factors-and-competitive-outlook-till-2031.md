@@ -41,6 +41,31 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence in Video Games Market 2021 Industry Outlook, Present Scenario of Manufacturers, Analysis and Research Study by 2027"
+    excerpt: "MRInsights.biz has newly added a research report titled Global Artificial Intelligence in Video Games Market Growth (Status and Outlook) 2021-2027 is a detailed and dedicated analysis of the present scenario of the market covering the various aspects applicable to business growth."
+    publishedDateTime: 2021-10-04T11:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-video-games-market-2021-industry-outlook-present-scenario-of-manufacturers-analysis-and-research-study-by-2027-2021-10-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence in Fintech Market Research Report (2021-2027) by Future Trend, Growth rate, Opportunity, Industry Analysis"
+    excerpt: "Global Artificial Intelligence in Fintech Market from 2021 to 2027 has been as of late delivered by MarketsandResearch.biz, which features the future market growth, opportunities, and current elements in the Artificial Intelligence in Fintech business."
+    publishedDateTime: 2021-10-06T10:37:00Z
+    webUrl: "https://manometcurrent.com/global-artificial-intelligence-in-fintech-market-research-report-2021-2027-by-future-trend-growth-rate-opportunity-industry-analysis/"
+    ampWebUrl: "https://manometcurrent.com/global-artificial-intelligence-in-fintech-market-research-report-2021-2027-by-future-trend-growth-rate-opportunity-industry-analysis/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-artificial-intelligence-in-fintech-market-research-report-2021-2027-by-future-trend-growth-rate-opportunity-industry-analysis/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 4
 
 secured: "k2N6GUIQ+vu9BjBU3bNx7IBUgPSX9y5QSoB60rI+TVHpyUIJG3Fz/nulVS9iMXs31pJ137EyXSM2JQ+wTjlgmerHExll8GOgFj3KImwBwYfM5IeylcDhX0y4YnEK8fbuFlFfLvGRiVceCu8u6Vh7AOUzD+mQ1dW0mOCKvxbK9HPZLDqPpaA5HvS3Hh3bYAJRGE7WC4QVnQmdyv/qldsE3cDZJTlbrmrNqMZWkdR4+ntfKXhseKncv53ntvdZvrNB1Vzh3fU+7N59NxfzDXRVCP8fz6jOFGIN5aK58Xh3HEBg8jodsT5rbf3sTpRo3lQ51rldQ089Z47s7dybP/717WM2F//ufhxYOCzAAAUYT1a4XHvxQJZ2thd4mf9y/aD+C8QFAcP6dczq++B+SYceutpP4FTw0r7LiyjXhvgj6mVmFqI5PZUlgNWix2o6Rx1LVUBBZ9Ob9/iVu7tYl/wGNJWs5RFe9iU29rU4m7mAOtwsbZ3AfaU61pPsW4o+dPHoe1EyR+8ofvyYbSgZ48Z3yg==;c4dwUCwUDutCx57kKXwEtw=="
 ---

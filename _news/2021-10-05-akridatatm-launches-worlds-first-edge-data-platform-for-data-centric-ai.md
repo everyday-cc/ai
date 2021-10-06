@@ -39,6 +39,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Akridata™ Launches World's First Edge Data Platform for Data-Centric AI"
+    excerpt: "Decentralized Software Accelerates Access to Relevant AI Data, Handles Ingest, Catalog, and Exploration of Complex AI Data, and Enables Traceable AI Across Industries"
+    publishedDateTime: 2021-10-05T16:17:00Z
+    webUrl: "https://www.fox19.com/prnewswire/2021/10/05/akridata-launches-worlds-first-edge-data-platform-data-centric-ai/"
+    type: article
+    provider:
+      name: WXIX-TV
+      domain: fox19.com
+    quality: 19
   - title: "Akridata Launches Edge Data Platform for ‘Data-Centric AI’"
     excerpt: "Akridata, which calls itself a category-maker in Data-Centric AI, today announced the launch of the Akridata Edge Data Platform, which creates and manages smart data pipelines and AI workflows spanning Edge-Core-Cloud resources – an industry first."
     publishedDateTime: 2021-10-05T13:42:00Z

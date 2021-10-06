@@ -40,6 +40,22 @@ related:
         width: 512
         height: 288
         isCached: true
+  - title: "Driving AI innovation in tandem with regulation"
+    excerpt: "This unleashed criticism that the regulations could slow AI innovation, hamstringing Europe in its competition with the U.S. and China for leadership in AI. For example, Andrew McAfee wrote an article titled “EU proposals to regulate AI are only going to hinder innovation."
+    publishedDateTime: 2021-10-06T18:47:00Z
+    webUrl: "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/"
+    ampWebUrl: "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-853938300.jpg?w=1024"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Artificial intelligence can predict rain with unprecedented accuracy"
     excerpt: "DeepMind has created an artificial intelligence capable of forecasting the weather with impressive accuracy. The company specializes in building AIs focused on problem solving, but has now decided to embrace meteorology as an important field of action."
     publishedDateTime: 2021-10-03T22:10:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.theadvocate.com/acadiana/news/education/article_816229
 webUrl: "https://www.theadvocate.com/acadiana/news/education/article_816229d4-2556-11ec-9d69-a70f34370a28.html"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1124
     height: 630
     isCached: true
+
+related:
+  - title: "Voice of 'Siri' Talks to Lafayette Seventh Graders"
+    excerpt: "Making podcasts for music class, students at Ascension Episcopal School in Louisiana learned about voice acting and recording from actor Susan Bennett, who provided the voice for Apple's virtual assistant Siri."
+    publishedDateTime: 2021-10-06T18:52:00Z
+    webUrl: "https://www.govtech.com/education/k-12/voice-of-siri-talks-to-lafayette-seventh-graders"
+    ampWebUrl: "https://www.govtech.com/education/k-12/voice-of-siri-talks-to-lafayette-seventh-graders?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/voice-of-siri-talks-to-lafayette-seventh-graders?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/53cdcbf/2147483647/strip/true/crop/642x335+0+46/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fc3%2F21%2Fe9ca316935477af3a501b616568c%2Fsiri-642x426.jpg"
+        width: 840
+        height: 438
+        isCached: true
 
 secured: "z9qNFVxNnZDEf7R2h8ESXzktGzIIoyjvr39PY7e12SPIbxpNrXpgbJLq02usXjgJLMIXWh6Nj3M+9elsI4o2AKiHKCp5W/6yWYnBI1Ja9SEXMeasAGjsDqCgL0yhEP+r8MY/kVRJ3Zo4vEknOU/Nf2HX3vlW8dfY8vWN23UgO8x6rUSQA9vgNj5087Ou40Te9Ivjay6b9XOLY/MyI1wtGHbLo5kU9ZNehwIU0Ab4C7mdhZxMBvGq7RfcTPO99epJG9LK3yn2skUFSpGRfc7vuQ3louuOqkZzngANB1sefwAPLB54R0/rEdsf7bNiD1xoRsXF+9DdixvXBvNPqzUMibQecoVivOexaNLCgjqUpLei34OJ9jKzv1+2Wyms4xzhbzBDR7J3/UWyE8qWThAvESA4WxcNm6cC5PUmhct+Y/sSeKv4kIr2vwTJSAU+vc7T+9mBQwzoSfIevRbE+UZiGYeGtTgVH0993wxyAMzzW9B5hyjdfY4e83VWiTqE+IHh70Uo+QEkjbhmTB0vBVwGDA==;4TbNJ2mzIKknVCvWJ8gD4w=="
 ---

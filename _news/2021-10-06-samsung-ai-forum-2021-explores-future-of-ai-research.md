@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Samsung Foundry Innovations Power the Future of Big Data, AI/ML and Smart, Connected Devices"
+    excerpt: "Samsung Electronics, a world leader in advanced semiconductor technology, today unveiled plans for continuous process technology mi"
+    publishedDateTime: 2021-10-06T17:00:00Z
+    webUrl: "https://www.samsungsemiconstory.com/global/samsung-foundry-innovations-power-the-future-of-big-data-ai-ml-and-smart-connected-devices/"
+    type: article
+    provider:
+      name: samsungsemiconstory
+      domain: samsungsemiconstory.com
+    quality: 45
+    images:
+      - url: "https://img.samsungsemiconstory.com/global/wp-content/uploads/2021/10/500x329.jpg"
+        width: 500
+        height: 329
+        isCached: true
   - title: "VUNO Signs Another Deal with Samsung Electronics to Incorporate AI-assisted Solutions into Samsung's Premium Ceiling Type Digital Radiography System"
     excerpt: "South Korean artificial intelligence (AI) developer, VUNO Inc., announced today that the company closed a deal with global medical device manufacturer, Samsung Electronics Co., Ltd., to embed VUNO's artificial intelligence-driven chest X-ray diagnostic solution,"
     publishedDateTime: 2021-10-05T13:13:00Z
@@ -31,20 +45,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1652810/VUNO_Med__Chest_X_ray____GC85A.jpg"
         width: 735
         height: 400
-        isCached: true
-  - title: "UAV Chips Market to Witness Robust Expansion by 2027-Qualcomm, Intel, STMicroelectronics, TI, Samsung"
-    excerpt: "Qualitative Analysis Of UAV Chips Market Revenue & Industry Analysis By 2027   The UAV Chips market is expected to reach USD 219.0"
-    publishedDateTime: 2021-10-04T21:39:00Z
-    webUrl: "https://menafn.com/1102911690/UAV-Chips-Market-to-Witness-Robust-Expansion-by-2027-Qualcomm-Intel-STMicroelectronics-TI-Samsung"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?122508"
-        width: 443
-        height: 250
         isCached: true
 
 secured: "GGVzLB9ou7ZZxyQtBInQYbKA/1xuxhYgwbz2Bfkx2j4lOd5vdjoExb4eWjqukfBZaYnPgMgHLTtKW1ev3AYLVb3VLvovhk1vVMD1jeocJ4a9p2ht6LPwvJcgQdqaUA7BODDcHsak14UOc/Az6u946bEaM8x0gHXeKSFFbU+fEZ403jdAcAEu4qtf+iuaCUpEOAQcQdRMo7KTNFj/VZg38Ruvzt8qOYcKryaufEom/8cwspvqsC2ja8tBDTB+PsMr2pg3F7bzCwuAMmZvTqqFIOLRERykrzaRZHnDV0hn+mgg2SLf3L7VUYAnc91Ma4mcTO4s6loS33nHTidmzNn28W6F5NudUu6HF40M8AnkqM4=;cK43NxjBtn6dRpZMPqvQ9A=="

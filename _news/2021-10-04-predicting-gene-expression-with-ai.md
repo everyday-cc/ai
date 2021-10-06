@@ -7,7 +7,7 @@ originalUrl: "https://deepmind.com/blog/article/enformer"
 webUrl: "https://deepmind.com/blog/article/enformer"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Driving AI innovation in tandem with regulation"
+    excerpt: "This unleashed criticism that the regulations could slow AI innovation, hamstringing Europe in its competition with the U.S. and China for leadership in AI. For example, Andrew McAfee wrote an article titled “EU proposals to regulate AI are only going to hinder innovation."
+    publishedDateTime: 2021-10-06T18:47:00Z
+    webUrl: "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/"
+    ampWebUrl: "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-853938300.jpg?w=1024"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Gap Continues Tech-Buying Spree with AI Acquisition"
     excerpt: "Based 4 Casting (CB4), a startup that uses AI and machine learning tools to transform retail operations, increase sales and improve the customer experience. Funded by investors including Sequoia Capital,"
     publishedDateTime: 2021-10-05T16:44:00Z

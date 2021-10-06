@@ -3,21 +3,25 @@ category: news
 title: "Google tries to make traffic lights more efficient with artificial intelligence"
 excerpt: "Alphabet Inc's Google cut fuel use and traffic delays by 10% to 20% at four locations in Israel by using artificial intelligence to optimize signal lights and it next plans"
 publishedDateTime: 2021-10-06T17:00:00Z
-originalUrl: "https://omaha.com/news/world/google-tries-to-make-traffic-lights-more-efficient-with-artificial-intelligence/video_691ecf7d-2a18-5a4c-b9bb-0d5149ddebac.html"
-webUrl: "https://omaha.com/news/world/google-tries-to-make-traffic-lights-more-efficient-with-artificial-intelligence/video_691ecf7d-2a18-5a4c-b9bb-0d5149ddebac.html"
-ampWebUrl: "https://omaha.com/news/world/google-tries-to-make-traffic-lights-more-efficient-with-artificial-intelligence/video_691ecf7d-2a18-5a4c-b9bb-0d5149ddebac.amp.html"
-cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/world/google-tries-to-make-traffic-lights-more-efficient-with-artificial-intelligence/video_691ecf7d-2a18-5a4c-b9bb-0d5149ddebac.amp.html"
+originalUrl: "https://www.stltoday.com/news/world/google-tries-to-make-traffic-lights-more-efficient-with-artificial-intelligence/video_37aa10bc-08d9-5d91-8287-c97b49de7ecc.html"
+webUrl: "https://www.stltoday.com/news/world/google-tries-to-make-traffic-lights-more-efficient-with-artificial-intelligence/video_37aa10bc-08d9-5d91-8287-c97b49de7ecc.html"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/7a/37aa10bc-08d9-5d91-8287-c97b49de7ecc/615dd64329c4a.preview.png?resize=640%2C360"
+    width: 640
+    height: 360
+    isCached: true
 
 related:
   - title: "Google Planning to Use Artificial Intelligence to Cut Traffic Delays, Fuel Use in Brazil"
@@ -65,6 +69,6 @@ related:
         height: 580
         isCached: true
 
-secured: "gEqtmSywBP9zt1FUZrn8Z55yu3v0WoL6G8u9/L4zG4H+EjIo2Lg34t0pra4A8LnRYpRqlXms6GhOv7biBvKOYlmu/p4IjseuBSP6jtFuRBoSfRqAeqUqpabnr1V0QGDmv/hARNLWql8xWkLYboTvksSUpiuvEEcTAvNJHBxNl/76aC28t53s4etIpiFGbFVEeQwDEEDPpDXALqoOYWEE/D6nVq4kkairRhdivqMallvrmRzI3dttBGiLp9NO/MF6ySUH2jQ/GLdx4YYBgBf3qow7vnhMsd7b2P3e7lOzu+Z7z6M9Q+Lda2yEdRaVoQ7YB9AKrImbSMRxMXUTcf9L9ltu0ZOBINRrRZxKbBKE8jAKd+lULhHYxCP6myvOzUFKBC4gfgkVHw7fL90iyDQXaDmZvSVqcKUi8bxPkvUyChhrN2hzTxFqLmqR5nHatmYVAVs+/A/oTKvkgc66Nw/VcxnVr6BZBD4MYobQDgk3cbVDtWQW5fdPLLM7INiFWLB1MwYIKa3GuY5fTa+EBu1exw==;2bbW7cjqqisIikcGZp2PwQ=="
+secured: "qtQ681tIWSpj+CACJzBnKnOlNui8WlEU7rCRLEvw59ID3UdEDqXS69opJzfcx5fu0yVWBEshREbzQNvyfiRJGkbziRdvSALc/KHcikkhSF8xkWW/xqZl3GrIF0uA4jo/JnNmRry0+gU36ZmDzdQZZ7y4AvXfwZCFUPU9Q9iQlhXiIMo3ljexWznDFoNsmy4DpfhauanqqIbb7rQLbEgZOijQpn3FDO/bQ+K5vsBLc0+mtGLvxiU9xiTHZ/WXVI1tKoehqHoQn9E0OmDWnOUDma4Jxbqt4bz2oEMG0vLyb4eSrqcCHiqWuunQ6pDl/aMr/eOVOCjB6uqe9nFqAACDSEruOiPxsGKhcuT0acriuIc=;tJJpfNCGgyGRYpw3ll4v3w=="
 ---
 

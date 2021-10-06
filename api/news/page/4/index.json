@@ -2,6 +2,91 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-03-what-we-can-learn-from-chinas-proposed-ai-regulations.md",
+      "title": "What we can learn from China’s proposed AI regulations",
+      "excerpt": "China's guidelines are the most comprehensive effort to date to regulate recommendation systems. They embody both best and worst practices.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/03/what-we-can-learn-from-chinas-proposed-ai-regulations/",
+      "originalUrl": "https://venturebeat.com/2021/10/03/what-we-can-learn-from-chinas-proposed-ai-regulations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/China.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/03/what-we-can-learn-from-chinas-proposed-ai-regulations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/03/what-we-can-learn-from-chinas-proposed-ai-regulations/amp/",
+      "publishedDateTime": "2021-10-03T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-03-this-healthcare-company-is-using-ai-to-develop-drugs.md",
+      "title": "This Healthcare Company Is Using AI to Develop Drugs",
+      "excerpt": "L ife sciences company Schrödinger (NASDAQ: SDGR) has developed software that could help drug companies develop medicine using artificial intelligence and physics, and it's already being used by a number of big-name pharma companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03",
+      "originalUrl": "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp",
+      "publishedDateTime": "2021-10-03T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-03-explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders.md",
       "title": "Explained: Why Amazon’s Astro ‘robot on wheels’ has rankled privacy crusaders",
       "excerpt": "The robot is designed to move around the home and keep a check on pets, and detect something unusual in the absence of the owner.",
@@ -1103,91 +1188,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-honda-plans-new-air-taxi-robotics-and-space-technologies.md",
-      "title": "Honda plans new air taxi, robotics and space technologies",
-      "excerpt": "These areas include developing a new electric vertical take-off and landing (eVTOL) air taxi, new robots and space vehicles. The Honda eVTOL aircraft leverages Honda’s electrifi",
-      "sourceUrl": null,
-      "webUrl": "https://electronics360.globalspec.com/article/17269/honda-plans-new-air-taxi-robotics-and-space-technologies",
-      "originalUrl": "https://electronics360.globalspec.com/article/17269/honda-plans-new-air-taxi-robotics-and-space-technologies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electronics360.globalspec.com/images/assets/269/17269/Honda_eVTOL.jpg",
-          "width": 752,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-01T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering360 News",
-        "domain": "globalspec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-iq-ai-says-new-publication-shows-impact-of-imaging-biometrics-software-solutions.md",
-      "title": "IQ-AI says new publication shows impact of Imaging Biometrics software solutions",
-      "excerpt": "Neurosurgery Open published a study that suggested that IB Clinic should be routinely used to optimise surgical guidance and pathologic diagnosis",
-      "sourceUrl": null,
-      "webUrl": "https://www.proactiveinvestors.com/companies/news/961962/iq-ai-says-new-publication-shows-impact-of-imaging-biometrics-software-solutions-961962.html",
-      "originalUrl": "https://www.proactiveinvestors.com/companies/news/961962/iq-ai-says-new-publication-shows-impact-of-imaging-biometrics-software-solutions-961962.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.proactiveinvestors.com//thumbs/upload/News/Image/2021_10/1200z740_1633080116_shutterstock_570241147-(1).jpg",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.proactiveinvestors.com/companies/amp/news/961962",
-      "cdnAmpWebUrl": "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/961962",
-      "publishedDateTime": "2021-10-01T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactiveinvestors",
-        "domain": "proactiveinvestors.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

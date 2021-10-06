@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/vuno-signs-another
 webUrl: "https://markets.businessinsider.com/news/stocks/vuno-signs-another-deal-with-samsung-electronics-to-incorporate-ai-assisted-solutions-into-samsung-s-premium-ceiling-type-digital-radiography-system-1030843899"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "UAV Chips Market to Witness Robust Expansion by 2027-Qualcomm, Intel, STMicroelectronics, TI, Samsung"
-    excerpt: "Qualitative Analysis Of UAV Chips Market Revenue & Industry Analysis By 2027   The UAV Chips market is expected to reach USD 219.0"
-    publishedDateTime: 2021-10-04T21:39:00Z
-    webUrl: "https://menafn.com/1102911690/UAV-Chips-Market-to-Witness-Robust-Expansion-by-2027-Qualcomm-Intel-STMicroelectronics-TI-Samsung"
+  - title: "Samsung Foundry Innovations Power the Future of Big Data, AI/ML and Smart, Connected Devices"
+    excerpt: "Samsung Electronics, a world leader in advanced semiconductor technology, today unveiled plans for continuous process technology mi"
+    publishedDateTime: 2021-10-06T17:00:00Z
+    webUrl: "https://www.samsungsemiconstory.com/global/samsung-foundry-innovations-power-the-future-of-big-data-ai-ml-and-smart-connected-devices/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
+      name: samsungsemiconstory
+      domain: samsungsemiconstory.com
+    quality: 45
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?122508"
-        width: 443
-        height: 250
+      - url: "https://img.samsungsemiconstory.com/global/wp-content/uploads/2021/10/500x329.jpg"
+        width: 500
+        height: 329
         isCached: true
   - title: "Samsung AI Forum 2021 Explores Future of AI Research"
     excerpt: "Leading academics, industry experts to discuss \"AI Research for Tomorrow\" and \"AI in a Human World\" Samsung Electronics announced today that it will hold the Samsung AI Forum 2021 online via its YouTube channel for two days from November 1 to November 2."
