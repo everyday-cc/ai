@@ -312,6 +312,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-23-facebook-cto-mike-schroepfer-to-step-down-next-year.md",
+      "title": "Facebook CTO Mike Schroepfer to Step Down Next Year",
+      "excerpt": "and from helping us develop new technologies like AI and VR to operating our infrastructure and business services at global scale.” Bosworth created Facebook’s AR/VR organization, which was ...",
+      "sourceUrl": null,
+      "webUrl": "https://variety.com/2021/digital/news/facebook-cto-mike-schroepfer-resigns-1235071842/",
+      "originalUrl": "https://variety.com/2021/digital/news/facebook-cto-mike-schroepfer-resigns-1235071842/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://variety.com/wp-content/uploads/2021/09/Facebook-Mike-Schroepfer.jpg?w=1024",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://variety.com/2021/digital/news/facebook-cto-mike-schroepfer-resigns-1235071842/amp/",
+      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2021/digital/news/facebook-cto-mike-schroepfer-resigns-1235071842/amp/",
+      "publishedDateTime": "2021-09-22T18:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Variety",
+        "domain": "variety.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-here-are-the-5-startup-battlefield-finalists-at-disrupt-2021.md",
       "title": "Here are the 5 Startup Battlefield finalists at Disrupt 2021",
       "excerpt": "Over the last two days, 20 companies took the stage in TechCrunch’s Startup Battlefield in a bid to win $100,000 and the Startup Battlefield cup. They had six minutes to present their pitch decks and answered six minutes of questions from noted investors and executives.",
@@ -558,6 +601,41 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-correcting-and-replacing-ionq-and-fidelity-center-for-applied-technology-demonstrate-quantum-machine-learning-for-finance-on-ionq-quantum-computers.md",
+      "title": "CORRECTING and REPLACING IonQ and Fidelity Center for Applied Technology Demonstrate Quantum Machine Learning for Finance on IonQ Quantum Computers",
+      "excerpt": "The application of quantum machine learning to other industries ... “Classical computing enabled breakthroughs in the financial services space, and we expect quantum computing’s impact ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210922005347/en/CORRECTING-and-REPLACING-IonQ-and-Fidelity-Center-for-Applied-Technology-Demonstrate-Quantum-Machine-Learning-for-Finance-on-IonQ-Quantum-Computers",
+      "originalUrl": "https://www.businesswire.com/news/home/20210922005347/en/CORRECTING-and-REPLACING-IonQ-and-Fidelity-Center-for-Applied-Technology-Demonstrate-Quantum-Machine-Learning-for-Finance-on-IonQ-Quantum-Computers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-22T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1086,101 +1164,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-artificial-intelligence-model-predicts-liver-cancer-prognosis.md",
-      "title": "Artificial Intelligence Model Predicts Liver Cancer Prognosis",
-      "excerpt": "Owkin and Cleveland Clinic researchers have developed artificial intelligence model that predicts the prognosis of liver cancer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-model-predicts-liver-cancer-prognosis-203439-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-model-predicts-liver-cancer-prognosis-203439-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/liver-cancer.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-model-predicts-liver-cancer-prognosis-203439-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-model-predicts-liver-cancer-prognosis-203439-1.htm",
-      "publishedDateTime": "2021-09-22T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-uk-announces-a-national-strategy-to-level-up-ai.md",
-      "title": "UK announces a national strategy to ‘level up’ AI",
-      "excerpt": "The UK government has announced a national AI strategy — its first dedicated package aimed at boosting the country’s capabilities in and around machine learning technologies over the longer term. It says it hopes the strategy will lead to an increase in the number and types of AIs",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/22/uk-announces-a-national-strategy-to-level-up-ai/",
-      "originalUrl": "https://techcrunch.com/2021/09/22/uk-announces-a-national-strategy-to-level-up-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1136663877.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/22/uk-announces-a-national-strategy-to-level-up-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/uk-announces-a-national-strategy-to-level-up-ai/amp/",
-      "publishedDateTime": "2021-09-22T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

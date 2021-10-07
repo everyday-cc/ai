@@ -40,15 +40,6 @@ related:
         width: 715
         height: 1001
         isCached: true
-  - title: "Research and Industrial Strategies for Next-Generation AI to Accelerate its Diffusion and Avoid Another Winter"
-    excerpt: "Research on Artificial Intelligence has been on the rise in recent years and the word artificial intelligence has been a household name. Around the world, governments, organizations, firms, and research centers are investing heavily in developing the research field of artificial intelligence."
-    publishedDateTime: 2021-10-02T09:18:00Z
-    webUrl: "https://www.frontiersin.org/research-topics/27177/research-and-industrial-strategies-for-next-generation-ai-to-accelerate-its-diffusion-and-avoid-anot"
-    type: article
-    provider:
-      name: Frontiers
-      domain: frontiersin.org
-    quality: 0
 
 secured: "PMkDAO1FfL4k4PK/sFoNVlX/gZ+gY0VGIx44HTarJEeXoDdEXJfzm936ebXHZ7UDqxBHBLqWMKgBByhHWCAmXDKK7Q3m42MxH55juQ+lrTvbBOiJv8Dl/PyvvD4INABetEx4uU3MNYMXZOgQqYT32CwR5Th+KoTJPuf7bUMFF+R19MuYK7zXy3c0KrE1QDF11NKL+I74HqGeCURbux5LU+qwd/eI+Yn2uFWMobRH0KaewTomPA19JDzLxiWwHMb4H9r16ZKpF89yDM8/hP4z6V3XUQff5dvEQ5hBGjEn7wTFTL/gbobs/BhwXOmk8EMgFo3/5D0uQp4G62zNp4QTLTd6FZwhFPF+PNtPjPeuSEl6r0nKq4rciqyqRVcfWZmqUrS4L4g++KjPcjI9E59i3lpu4oQZXH3QffHXnn1p/90CrZNOmUoOMYXRpwVcPjtw8B6dok5xjIPtK9TmmNYBXXw+EtG1byceTbbyM0MzAzCvbtu3k3tVGWebWCpX/2P69cepNzQQe6LjyBQr/nJTgw==;hT9hmVNQBWITlsEzCrr4+g=="
 ---

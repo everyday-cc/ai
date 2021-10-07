@@ -2,25 +2,26 @@
 category: news
 title: "Olea Edge Analytics Closes $35M Series C Round to Empower Cities with Artificial Intelligence to Recover Lost Water Revenue"
 excerpt: "Olea Edge Analytics, an intelligent edge computing platform for the water utility industry, today announced the closing of $35 million in Series C funding led by New York-based global private equity and venture capital firm Insight Partners."
-publishedDateTime: 2021-10-06T11:02:00Z
-originalUrl: "https://www.argus-press.com/news/national/article_84173302-1114-5a6c-bd69-2cdc0406eabc.html"
-webUrl: "https://www.argus-press.com/news/national/article_84173302-1114-5a6c-bd69-2cdc0406eabc.html"
+publishedDateTime: 2021-10-06T11:06:00Z
+originalUrl: "https://www.lelezard.com/en/news-20032713.html"
+webUrl: "https://www.lelezard.com/en/news-20032713.html"
 type: article
-quality: 11
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Argus-Press
-  domain: argus-press.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/argus-press.com/content/tncms/assets/v3/editorial/4/4a/44afae0a-8610-559c-91df-d398b378ac36/615d85dc5ab7f.image.jpg?resize=702%2C553"
-    width: 702
-    height: 553
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -57,6 +58,6 @@ related:
         height: 336
         isCached: true
 
-secured: "NAcZqGqQDpSWSEk5PSymgjmf1/N+mBVTW7BIYOOKwXSYFZgk9NOy6mNMgI3oNvEgBgRzl7pz9GQyGIeyWl0MqKH1CytJeJdxmWDayHyggPQuzBF2+e7bSgO1uUlQP8hiBBEA+o++2yfmoFexIhet5B9C1bWd8GoDKep0X/cnspItZhtHQNhnjKYJedUBFL5R+vo/vTBf6wfx4AXpSCapWybErmIefm5nXX9gsK9CDhLsLqz/KDS7kjkrtQF/zVmzgJ5OP+ce7mOyQQa4WPFbEBe+7cDG/MXIQXXJPr5XSzX4axh1pXufoR6wrUH4PZVKXt9pqNBTcZTY62sXg2LxNlHH3y7vVe7UCsnfOGhhauM=;NKTVQbRb5xceK9SzpdR9WQ=="
+secured: "rkdCQiUprn9Epi3ScWHdoMi37G38VzPcE6GyNxxAgEKwQQDnc9/ixTQowOMjPsXr18YhIn7nyRHtjh3jltHray51A60OHQwwbLbOuEyzX0YFQ3tQDz3kfZnAlp3iDQJPIKMJlZdZ2BeExi5aHo1SURDabLTsVypKDOP9hrK1fk7YwcKkxs/tEJrwgrXocjw0s7SXRif1Lbq/l6RAjtomCybDvceirBPogaZmcFSiSWNV0bcmsXRz0BleuxIlq865lPkHA8ugdCU/UUgsSuBGHqwBdo8rqrY4POm9A+Y8cCIt8BRZYrkR/+U52V1s5wP8phE7agcgyBKzPRsZVancHcjS16gFJEox+xy5x364v6I=;w/DbqEUmyh94zYDvVCmfYw=="
 ---
 

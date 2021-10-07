@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Curtiss-Wright Debuts its Highest Performance GPU Module for Graphics, Video Processing, and AI/ML at the Tactical Edge"
-excerpt: "NewswireToday - /newswire/ - Ashburn, VA, United States, 2021/10/06 - PacStar 454 NVIDIA GPU Enhanced Server Module combines Intel Xeon D 12-Core processor, NVIDIA Quadro RTX5000"
+excerpt: "NewswireToday - /newswire/ - Ashburn, VA, United States, 2021/10/06 - PacStar 454 NVIDIA GPU Enhanced Server Module combines Intel Xeon D 12-Core processor, NVIDIA Quadro RTX5000 GPU and up to 8 TB of NVMe storage - pacstar."
 publishedDateTime: 2021-10-06T18:27:00Z
-originalUrl: "https://www.newswiretoday.com/news/176367/Curtiss-Wright-Debuts-its-Highest-Performance-GPU-Module-for-Graphics-Video-Processing-and-AI-and-ML-at-the-Tactical-Edge/"
-webUrl: "https://www.newswiretoday.com/news/176367/Curtiss-Wright-Debuts-its-Highest-Performance-GPU-Module-for-Graphics-Video-Processing-and-AI-and-ML-at-the-Tactical-Edge/"
+originalUrl: "https://www.newswiretoday.com/news/176367/"
+webUrl: "https://www.newswiretoday.com/news/176367/"
 type: article
 quality: 27
 heat: 27
@@ -19,6 +19,6 @@ topics:
   - AI
   - Machine Learning
 
-secured: "lqmeQED0Kr85j73yD2aY/KLKZZUsy/S516iBkKp7pca85nZ3Chzrvg4btCKiwc2sbWvNip01D6MwADBIiVHJcLzYu9eN77nKD7wRfH9LNNbvChLuTfYviDWwBSv2QQMZFUyVargtcZ6ZsRvkMxjjA6MnEk9D9ebs5GFcudYWEaLdZBR2lxZqionuf5QWkvcXL5wJjsrAPldQH7nWq6ojDcb55d/+oCfkJS7fhSGIoWfDswRyjw2nBWa8c5mQsYXuKvcSbHDG1S1jDhkp2cZGo8mKhXnvzzMiXAxnPHaHuwtZldL7ViVS3c6OdiBtLXCq9Idwaph7vgfpwSIpm7k5IJzZAvqIDeaak2ygrf/YaoA=;22bG4f3OWHct49IYSq9yNg=="
+secured: "VfR+PKE8kme1hpCIHmvx2V7BcRoHLASnXxh20o06FxD5o6YdQ81N6Nb5Marwt36Mcey892RKOttSwGT5zQfnMdZgHlf6sa1oPkwCofRMEillgw3j3EdQOq55nNlgpfdHlyQZf/ebhDUx1Ng2UPcSkrWoPPqR84BMogqwGdLxTgstzgAu6o9doVePFnjPMvn4U7Ox81inXZfvL0SUY62ZggfEQ+ayN2nNcZC1FF6cPdhV+ZYJfs7WmlNBM9/Xh3QkTej4pCkHV+1VlYsnap42i67rp8Htij+DCSKMkQFwDg7kseLSY3Cf+qBjGR6AgrGA5fBX4l8WU955JdjTjusSb9ckfY0Jj1wKFaOPoyriVxg=;xicLU9WnuOtgeNvGC6yftg=="
 ---
 

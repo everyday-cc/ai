@@ -15,6 +15,10 @@ published: true
 provider:
   name: com/2021/10/05/alphabets-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever.html
   domain: com/2021/10/05/alphabets-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever.html
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -247,6 +251,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "5keoT3UNc2XhaexqFkK/PmIBlCprwJL4jvNf2Gx2vjZxWNU5KGlgUA6OK7YZCsiGdoSdQi7TeDdZp/J47LlGJ9fsONmFc9KQeBofHLbjaJatEOomzlh1UPldTz42PtGOjnga1MU1zQ+JJkJjsa9s4VCTuEd4Tr0gMsG8WPI+WBYbHqD3gCPynbKegKZzrwrRaeTcJe9jqpAIrTlgXswfwJ1z9uNhZrheqXfzpKQ4JqLOf0KYYAlnJ12dB7Z29BlU9HakUr0J7kJE+JKaIf6Fn9vPnEje0z7rFy9/PJQ265kX+AzWHeAaXXZowHVxqpGCnC3Je+DecZi59SZnnFqKBcasjce5NGGC7dMf3pqWYiw=;B8CmCsjhNX4H/HDQu0akbw=="
+secured: "gN0crfz+9f01Fbf/f8nRzs4HLfktY0sCyRmPriCeYghd0tQhwxpEPRQJR8JUReISTBXEXkNKgURwkCnwZv2KEDSQ6zTJ9FZ5A2ZUcbW/I1trXD+npsWPpzlEsRLybEldml/lOrWRvB8hd+loX6+0qryYbn4hyl6RPI9z3XUuiDnLXPCgs9bfJLFOrOZG3bPKYF5eWmt0RvQs9kAmCJOVBcPo4V7Idgq+lw/KRoj2oCMRSFxWPUots1Mmedtee13oZm50w3QvphHGtPi4cMzAxa5wOvWvepTRlg/I9A7GE7iTcMGqs7Zdvp/Ece+IoybirYcKbT4G8KvKvViNqPjeD0fK8poUvt8eg2tX8brZVhigKcM16egTJTmnRQ5ciXB3;xOOI7gV04dHpuA5RFgSSqw=="
 ---
 

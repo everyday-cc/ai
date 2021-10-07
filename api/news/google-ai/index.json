@@ -84,7 +84,16 @@
       "provider": {
         "name": "com/2021/10/05/alphabets-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever.html",
         "domain": "com/2021/10/05/alphabets-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever.html",
-        "images": null,
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -835,7 +835,16 @@
       "provider": {
         "name": "com/2021/10/05/alphabets-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever.html",
         "domain": "com/2021/10/05/alphabets-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever.html",
-        "images": null,
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1080,7 +1089,7 @@
       "originalUrl": "https://europeansting.com/2021/10/05/why-we-must-consider-the-intergenerational-impacts-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {

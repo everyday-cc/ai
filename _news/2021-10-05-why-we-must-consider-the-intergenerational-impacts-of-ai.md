@@ -9,7 +9,7 @@ ampWebUrl: "https://europeansting.com/2021/10/05/why-we-must-consider-the-interg
 cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/10/05/why-we-must-consider-the-intergenerational-impacts-of-ai/amp/"
 type: article
 quality: 59
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Research and Industrial Strategies for Next-Generation AI to Accelerate its Diffusion and Avoid Another Winter"
-    excerpt: "Research on Artificial Intelligence has been on the rise in recent years and the word artificial intelligence has been a household name. Around the world, governments, organizations, firms, and research centers are investing heavily in developing the research field of artificial intelligence."
-    publishedDateTime: 2021-10-02T09:18:00Z
-    webUrl: "https://www.frontiersin.org/research-topics/27177/research-and-industrial-strategies-for-next-generation-ai-to-accelerate-its-diffusion-and-avoid-anot"
-    type: article
-    provider:
-      name: Frontiers
-      domain: frontiersin.org
-    quality: 0
 
 secured: "jFOvC20JsMHAzCJpeAqQ0Rut6C+mSHObpk9ioWG+v//fJaA3/4lIkbJWTwzuBUZ+fRTRmb/r8MkX/xuvW8mtM3qna4hYMwmA9YlQ0DROJi8021vHBgWLEPULYvWM70AdSearQbe3xeclzIu1r3AYaoPHP+eLm+he1vQE/lhwwpcYihgbMLS2PDLIlbFZlmmce5QMiw6zddoAfkPDqe6TAdU0DTyD58TC7NAK/m4Jld1BW7Qtv6KgoI/tyr9nga/0GvxJ+Hn2jCUPwVd89IZZUoFt1fERey1odwugf30EMeExRDtdpUMkuSkfGg5Crs/DEeRUQ16wmJEZQSah9fGb8KgwLcDCt73WAV163WOs/xhOnoSAs/Mx/OyxGJPs9Zu8KLqkGlDU4bPGouKrO25Nhc5JwaTNM6sxcAXzYsls+90cPHGyNrfIvlINDoDrG+XowyoepdUdPgx5O9qVq+xp/qH2arwPbF6ZBqZ7VrOAGXQvHZPGujzgiP/gbqGxa720ECAkCUAbxqCt1dukQoXSWQ==;ASCi/DNk2O7+X24PU+EBSA=="
 ---
