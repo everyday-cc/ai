@@ -2,7 +2,7 @@
 name: "Wayve"
 overview: "Wayve is pioneering artificial intelligence software for self-driving cars. Our unique end-to-end machine learning approach learns to drive in new places more efficiently than competing technology. Our headquarters are in Cambridge, United Kingdom."
 type: "profile"
-heat: 57
+heat: 121
 
 website: https://wayve.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "wayve_ai"
   url: "https://twitter.com/wayve_ai"
-  followers: 2803
+  followers: 2804
 
 size: 11-50 employees
 yearFounded: 2017
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "LLCxxKVuDkIurlyUq/knK+879gXZVRafKgrYLWdLhTQpj6958ShO/wzfaKd9ap6flQMD/hQjTi+xhJNl53JCbzysmZEJFs9B70XEuhb4c0fbxFokYUfWcvc6NJYnAX9DzwXQCdYEhSWd7s6B/MoOWhrwPYpaJ4cH/T/Aqxm6FOOJEwo7NAVVK+XvMuVdxRyPQW088VxdSjEVV3KmkiKOYZZn8/aP2Eg0DAe6/Ef33qXSd5dzw44+/5tVpxAHi2om4VfuVVQqjKG7IOTa8iQW0JLTbuQL2mERBRh4XMhaQTdwJNoYMlULR42kgySna+aXATd1DDeoH8E5V2WuW1l/gr/e6OSR8M+IcmTdntyzG1AyFDy8X0yH5dqSQbWhCKFCiPaWz7weLjvk4zolGYXFUg==;DzHo7ta/j5vl8NRRjEJ/Sg=="
+secured: "0v9LiXRHPHz4HZVQYVdP/rgdcBCZXaFB7nbuLXO3idOcJYxjPoSrhNgVRt3nsftJ++iN+dg/jbWBtx5BwfjgpAg8poG6DapwU7PUXP/YgYjE0iewgieMr1GtcMLxlrZamNVfCnfvNkmc/g+FsDc1qWoIsEYIL6bv58QrqnK+a29S6BrKSb3TS5TE7aTGiwz9GwjFyszldLLfcptzmqPcjqHYo4D0vcCo7t2bkYRFwzGqJXsEnjjxaBqIiVhW1MZw0/el6dteeT6naCnvPbNwCaTQECA1pu1QJDJn4u4OL1nRbFcf7AfD4dvavpj2FnI/Pj9TrwNSt86COFKJ8RKrro9luE7c5K6lAYZjnvB/kesRIkwQDnYXLXDglS8Gr2h/ENRUPrrUi3mcRrtC38jj65Zy3BSVSYI+fcelnKBw8ts=;2JH5wSAPcjg8eqJPUB0BLA=="
 ---
 

@@ -4,7 +4,7 @@ otherNames:
   - "Aira"
 overview: "AI stands for Artificial Intelligence; RA stands for Remote Assistance. When you put them together you get Aira."
 type: "profile"
-heat: 64
+heat: 58
 
 website: https://aira.io/
 
@@ -46,6 +46,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "QRXxgjaHL48t25HQK0iFe21uWCc3z4LHRJ2+yNzGq9je1kq8MZKrfkz85Nmz8v0Zuuo+tP1jh80mUzKYv+BEMbETfrzLHzpz2FxNbG1TzakjqSosQ/tqWEWAb2uyrUsktrVvEm18ZlE7Gm7AYRgVUvTjUg5TLsICQMnCO9wxZkeJrJZRxCAB8ChqMhCoYxWfmCxNr/rv6cx4+bag5azoa6kH/SmkVd+EYEzN8ftEIPczXk9xHgIXb4rLMlpRXP3GQ//9q7EJAhQgTt3owGTOc+ycQ6aOA4cdvXr7zuYdTlny+IziY1jxQFPffZUpYf+D+Wk2YYukIty3kkSBs5sq/wIU9EZVWtle0ElfFPWZIQho6lPeRmoV74gEaw9+e2HeZlHsMQ7+t5xyD4TgYqs7BxEfmAIyCdYptfZflUljfnc=;JVRKQpZ8aO+0TKshdNA/dw=="
+secured: "NgxK6Sg03wlIQF1fNA6wBgUn2Tfdho9Qh+T1NPW4eloB/G+gi9TpLKbRT0y1B1fGSYMOBh9p5UWGVgZKIR2lrqnyigw6y9e3+71dl6itVkfvg8dLjaeGW2O/LCBzEjbCrZLf+pssU2rs2ICEBG8vn4rgDny3a13N4LQem1XnSh0OX1QXITBCke5iX8kLdlXxh9Ljz89g6HreoC0Z4CHY6pl9kxPvYfMfoekEJFRon1GgtqMRnRhBhI/u9pjb6Xupvuq24PubQwuehnM+2o2Xw/GtLMQDXqVY0+UFnvkP6LVThSONg1NPzYBfUJHb76ra4zF0WNCbPzBPJuGWxHTX1hFtMd5bjESYMCOgwMOh67Q00XBhyYp457MgMxDqgZ35U352Q7Lr0Eu3huO4IFcbKxD4LdxwHgAxi4WiF7lTDHw=;2Ba5uLS08PrFvTrf5v4/oQ=="
 ---
 

@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 658
+heat: 607
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 11136726
+  followers: 11137580
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "Sa/qq/kwg2JMF6HYuQlRgkYqff30xX/w2ISrVCE6Dr9X2gRXOk0yyAKodSm9FCWVnnf2E0tKu2UIj15zELJJ8Rk5bFbGUWWRSHux4xVNNsFuMx3EbWz43TH8okPOiImbxgD/U3I5BeaXDCs4NwuK9qONOtP8z1Sfv7T7bV7YVZ3e4JvPp7pcKBNK70swnxCOj4mrADrSY2f8g6I8ZTkBx26AHqoTJOxbEnONu7e7R8vg0DhanXyz/FmJ0crkDSXBuwvgmkv8nom//VyWrOIZ+QyUP/3weIGPAcHeooEu3xyko+EOoIgyqp2xnzjNyv1jou7tuJjF1EplRXwEwxLsUm9bRtlMQgXgWIry4K4ZbFfnTiDcv0ydrtrmf9wCUmBltdEyCngafFjp19sYVbjWO69gDPJ3Fy/fVCboWFgbCQ8=;4kNgr+JMm22c5KAilQ2j2A=="
+secured: "uekevHzP4U1wkhhi0jxn3cVUtHbkMuBG5qP1/UDcsVtysN2j1zrbgOzPGC3eHn/PmdeeRHV+xJ2opCkEurq2BWdkKeEXeC/BPs/56r4jwGRiP5cRYSf4CgRMDhmkUoVA1Ycc6AGYiTyytZEu/moKMAqHNUGeQkLXU58oaQBYaUaM6WbqHhBtzkz0BRyAYrqh6fFtPEt90BoYozR1aAtRPfp3Q6P9PNyEC+bVHiWREFZF501Krbo7rop+hJUXxwe1RsghPk2bm2qzGQUideTv7Fqx6fZKig5Pj6Sg4hk+fQcY/2ndjsVUqIukOKc2UPJyUSVvpL0fq7zIGwdSZk3E86jijiq7WxwfsZ9FiQwMGsXkN5arwNG21YThlUagcwzAvKOs8YFGKKWR6uV5gyWt8ebLQzRcKAyQhuyOwYsNDGo=;7/8rr90Yfd8D4FegbpDQLA=="
 ---
 
