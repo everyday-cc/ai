@@ -25,18 +25,18 @@ images:
 
 related:
   - title: "DreaMed Receives FDA Clearance for its Type 2 Diabetes AI-based Clinical Decision Support System"
-    excerpt: "Following its previous FDA clearance for Type 1 diabetes solution, DreaMed achieves unprecedented validation of its digital endocrinologist expert-care platformTEL AVIV, Israel--(BUSINESS WIRE)--#AI--DreaMed Diabetes AI LTD."
+    excerpt: "DreaMed Diabetes AI LTD. (“DreaMed” or the “Company”), a developer of the Advisor Pro Al Clinical Decision Support System expert-care platform for diabetes, announced today that it has received its 4 th U."
     publishedDateTime: 2021-10-06T13:13:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=542482"
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-tel-aviv-health-diabetes-b8b0d67c11c74d4daa1c164d835a024d"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
+      name: Associated Press
+      domain: apnews.com
     quality: 26
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "CrWGIKiySWFJYoFigf/TTiq/SwJKvDtv6QOgyxK8g1KOwRWy3gF/D6G/4wAN4UjFe2+sTNUI6u6geYdc4mD0WkEmSxL44pKwaul3W/Qz45wNW0XNQNmGt4uqm4mDT5+eFe2cx7hcsQqdhovWNw4JAc13+rj456obwbyYkGJopDC2QrPzAukW/P9OrakcjCg+pkI4GP1VJlddwT9jCWXSTtC/smA742x83I61HhaDS2/EV78vsm6zNze1Rm0WkMn/lEITFvMVv5c1RqSwqxq81x3QlLoWaeFzS5x+YSMfWZpWlUdu2vJ3LApPHxNK59CPy9F0aJBjAdfUZAMl4nBR5ikrgqNdRRbjFzdOKRyT/so=;jGgPMYfe8HJNyB2nLh8JVA=="

@@ -63,6 +63,20 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Airwallex Named to the 2021 CB Insights Fintech 250 List; Recognized as Top Fintech Startup for Fourth Successive Time"
+    excerpt: "CB Insights today named Airwallex to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year's list was unveiled on stage at CB Insights' Future of Fintech"
+    publishedDateTime: 2021-10-07T07:08:00Z
+    webUrl: "https://www.lelezard.com/en/news-20034838.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 15
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Cowbell Cyber Named to the 2021 CB Insights Fintech 250"
     excerpt: "Cowbell® Cyber, the industry's first AI-powered cyber insurance provider for small to medium enterprises (SMEs), today was named to the fourth annual CB"
     publishedDateTime: 2021-10-05T20:31:00Z

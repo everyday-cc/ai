@@ -1,27 +1,27 @@
 ---
 category: news
 title: "DreaMed Receives FDA Clearance for its Type 2 Diabetes AI-based Clinical Decision Support System"
-excerpt: "Following its previous FDA clearance for Type 1 diabetes solution, DreaMed achieves unprecedented validation of its digital endocrinologist expert-care platformTEL AVIV, Israel--(BUSINESS WIRE)--#AI--DreaMed Diabetes AI LTD."
+excerpt: "DreaMed Diabetes AI LTD. (“DreaMed” or the “Company”), a developer of the Advisor Pro Al Clinical Decision Support System expert-care platform for diabetes, announced today that it has received its 4 th U."
 publishedDateTime: 2021-10-06T13:13:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=542482"
-webUrl: "https://us.acrofan.com/detail.php?number=542482"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-tel-aviv-health-diabetes-b8b0d67c11c74d4daa1c164d835a024d"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-tel-aviv-health-diabetes-b8b0d67c11c74d4daa1c164d835a024d"
 type: article
 quality: 26
 heat: -1
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 300
         isCached: true
 
-secured: "l1MWqFawiAINkklSJlmGezi0J9qr1+ofQYQfPJrbjhiQdFCXvW5QH1dlyUll7cz+BKhGflldXwvPsb4oUqjaxz8yN9P3J8dMjDsCrgbQ5rhHB9JYLymWUurzj1N/A8rcLyoBABC2jE7ipjUTR1oVN5wuq+9aBgQxVF3yAY9NslF4OhW5Y5T0QvQplO8wHbx9BcWj1V8AM1XdcKLDVGAk+RQHhQsX+wfkZoT/0pyH0g5Ahl8zcx0uFLabYtKIokKQ8J5iZq+aBqcTyryko9zdLvJ6+C7Ki89CsfPyqoE6qwAFsBgBtDYiux0QGyb5S/lv2/iF74Xf6W7VJUUHt3LE/8mKUb7Vb4+lnD5rA6ftTtA=;H66HM1IhnswQy9FuasNZTw=="
+secured: "XdseA1mw6QEBVN9goPe2/89BKsN5Zoop5pPpO+WfEObdBQCIfjrAux/UaqRN6wJ9smA3dr03gnArQb8Vnw6mVG2rZV5u2cAZnyIHr1yflhMAObSHplX/lBVUQS591tHP3VhAjo43w/+Tje6CmDQUkVIm0t5u7gbZ9WEE0RyDxUaBQ34u2zdKaRXyNPWmtRm2ufy6c1aEX0FvWxYdPCTwJL1ImRBbpkou8lR+tIkgp4WcyWXK4YxPC9mBuY0iNuHvNUQlHIietIJthujlxoaWMTI4Ddbro8VMWpsCChskJvU55rDcr+ep/hHUZedmsTeeLD27mO0eJtnkXtN3nXoRUJ2gJoPoSsUGDgPyYRDarMs=;vMPzLBmUZZM3t+8H/pQPcg=="
 ---
 

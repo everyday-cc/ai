@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3635489/humans-need-ai-and-vice-ve
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3635489/humans-need-ai-and-vice-versa.amp.html"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/brain-cell-differences.jpg"
         width: 700
         height: 484
-        isCached: true
-  - title: "Microbes, Natural Intelligence and Artificial Intelligence"
-    excerpt: "Humanity is an outgrowth of natural life, but it currently enables a phase transition into technological relics that could survive longer than biological creatures. And the same could have happened long ago around other stars that formed billions of years before the sun."
-    publishedDateTime: 2021-10-02T14:59:00Z
-    webUrl: "https://www.scientificamerican.com/article/microbes-natural-intelligence-and-artificial-intelligence/"
-    ampWebUrl: "https://www.scientificamerican.com/article/microbes-natural-intelligence-and-artificial-intelligence/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/microbes-natural-intelligence-and-artificial-intelligence/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 57
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/2919B23F-0C73-466D-859B49145D379F97.jpg"
-        width: 790
-        height: 496
         isCached: true
   - title: "Artificial Intelligence and Antitrust Activity"
     excerpt: "Can A.I. Sniff Out Antitrust Violations?  In a recently published paper, a pair of academics propose that the application of artificial intelligence can offer a potent weapon against antitrust"

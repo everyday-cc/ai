@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI based Edge Computing Chip Market 2021 Industry Growth, Top Players, Segmentation and Forecast to 2027"
+    excerpt: "MarketsandResearch.biz has recently published a report titled Global AI based Edge Computing Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 which assesses dynamic factors,"
+    publishedDateTime: 2021-10-06T23:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2021-industry-growth-top-players-segmentation-and-forecast-to-2027-2021-10-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence in Video Games Market 2021 Industry Outlook, Present Scenario of Manufacturers, Analysis and Research Study by 2027"
     excerpt: "MRInsights.biz has newly added a research report titled Global Artificial Intelligence in Video Games Market Growth (Status and Outlook) 2021-2027 is a detailed and dedicated analysis of the present scenario of the market covering the various aspects applicable to business growth."
     publishedDateTime: 2021-10-04T11:49:00Z

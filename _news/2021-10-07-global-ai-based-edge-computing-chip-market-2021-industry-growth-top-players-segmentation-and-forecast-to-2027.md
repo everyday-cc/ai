@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Global Artificial Intelligence in Video Games Market 2021 Industry Outlook, Present Scenario of Manufacturers, Analysis and Research Study by 2027"
-excerpt: "MRInsights.biz has newly added a research report titled Global Artificial Intelligence in Video Games Market Growth (Status and Outlook) 2021-2027 is a detailed and dedicated analysis of the present scenario of the market covering the various aspects applicable to business growth."
-publishedDateTime: 2021-10-04T11:49:00Z
-originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-video-games-market-2021-industry-outlook-present-scenario-of-manufacturers-analysis-and-research-study-by-2027-2021-10-04"
-webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-video-games-market-2021-industry-outlook-present-scenario-of-manufacturers-analysis-and-research-study-by-2027-2021-10-04"
+title: "Global AI based Edge Computing Chip Market 2021 Industry Growth, Top Players, Segmentation and Forecast to 2027"
+excerpt: "MarketsandResearch.biz has recently published a report titled Global AI based Edge Computing Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 which assesses dynamic factors,"
+publishedDateTime: 2021-10-06T23:54:00Z
+originalUrl: "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2021-industry-growth-top-players-segmentation-and-forecast-to-2027-2021-10-06"
+webUrl: "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2021-industry-growth-top-players-segmentation-and-forecast-to-2027-2021-10-06"
 type: article
-quality: 29
+quality: 64
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - AI Hardware
   - AI
 
 images:
@@ -42,15 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI based Edge Computing Chip Market 2021 Industry Growth, Top Players, Segmentation and Forecast to 2027"
-    excerpt: "MarketsandResearch.biz has recently published a report titled Global AI based Edge Computing Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 which assesses dynamic factors,"
-    publishedDateTime: 2021-10-06T23:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2021-industry-growth-top-players-segmentation-and-forecast-to-2027-2021-10-06"
+  - title: "Global Artificial Intelligence in Video Games Market 2021 Industry Outlook, Present Scenario of Manufacturers, Analysis and Research Study by 2027"
+    excerpt: "MRInsights.biz has newly added a research report titled Global Artificial Intelligence in Video Games Market Growth (Status and Outlook) 2021-2027 is a detailed and dedicated analysis of the present scenario of the market covering the various aspects applicable to business growth."
+    publishedDateTime: 2021-10-04T11:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-video-games-market-2021-industry-outlook-present-scenario-of-manufacturers-analysis-and-research-study-by-2027-2021-10-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 29
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -84,6 +85,6 @@ related:
       domain: manometcurrent.com
     quality: 4
 
-secured: "k6WH+vy7KJJZOXY+z3B+MFnEx1pZFgfEyVXwGehfrQ01BMZ4oq0zNNr49GpJfMumIGwiaHXcMTEh1IoR3XlfHXXIIB9RxtXo9zGkC2UYcRAiGl8BfKTrxMlAi4LobB/0Rpww5MZfuP6HxiPruRDlL1EXqJIehZ2ErawjqESMP+WueR0ZMN7anLaiPEiIAeE/+TdoCZUwHR7R8FS+DIJ5yqJqkIvdSUBdGxYn5Ok0O8HjzqMz3Q+/05/n3A9FXFd/vsUc0pRubfNIHn+MrbJpUWdfjnojZBwWy7MlgRi81hvy8HQRcqspQzlBbzxiiiJ0dfwHPrRAaQsnSkq8Y8vt/lLC2xObSFSo/VyIc53veLg=;52RJZsnFM7QLgge7ixD3lw=="
+secured: "RHJy9W9SLcsC/O09CByMV5ZyeiymzfEjnxArmB1O/f8BTb0RiH4VFaTJ21uR5kynHtAbAU9LsfOv9fzw2t/3arsDDHxbUO3650pa7/ky8EJ7HCZ9iyYxdAymIkm4JOqncex5pVb5Zd1UNTDa5XmF49X8i5XH5Pf0AfkgSmFhU/U/SZrzzrOL9dnAgp+JTmph+oNibfr49j7RGv3CyuFaoac4ZDt6w5+kGEfxzlx2rc1Q5ObZplrS3wU2LBU3esQD9+kGlP4zBKWvyGNhmxELeSKvK4nNL+a6ik/1yQVIH9k29r/u0Sbh00ZG5BROWqeNBs3kzr0uqCfc0rOYUOpIs0YQEEQTEyCF2xLitulUt88=;puqyq7DoC9AX137gIslDOg=="
 ---
 

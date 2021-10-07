@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The truth about artificial intelligence? It isn’t that honest"
-    excerpt: "Tests of natural language processing models show that the bigger they are, the bigger liars they are. Should we be worried?"
-    publishedDateTime: 2021-10-02T14:00:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2021/oct/02/the-truth-about-artificial-intelligence-it-isnt-that-honest?via=indexdotco"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2021/oct/02/the-truth-about-artificial-intelligence-it-isnt-that-honest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/oct/02/the-truth-about-artificial-intelligence-it-isnt-that-honest"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/77f7e6dd9e20cd8afb1eabe3ad8c87d884e22a67/0_260_6559_3936/master/6559.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5dcd4893528815000698238124a544ce"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Do we need international rules for artificial intelligence? Three points in the EU proposal for AI regulation that you should know"
     excerpt: "There is no dedicated legislation on AI in Finland or the European Union. The European Commission has recently made a proposal for regulation of AI. Susanna Lindroos-Hovinheimo, professor in public law at the University of Helsinki,"
     publishedDateTime: 2021-10-06T19:22:00Z

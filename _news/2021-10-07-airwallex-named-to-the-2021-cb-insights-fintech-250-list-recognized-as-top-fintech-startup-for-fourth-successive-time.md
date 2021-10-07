@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Nova Credit Named to the 2021 CB Insights Fintech 250 List"
-excerpt: "Nova Credit honored as a top fintech startup for achievements in Credit Score & AnalyticsSAN FRANCISCO--(BUSINESS WIRE)--Nova Credit, the fintech unlocking opportunities for those historically excluded from the credit system and companies looking to serve them,"
-publishedDateTime: 2021-10-06T15:00:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=542616"
-webUrl: "https://us.acrofan.com/detail.php?number=542616"
+title: "Airwallex Named to the 2021 CB Insights Fintech 250 List; Recognized as Top Fintech Startup for Fourth Successive Time"
+excerpt: "CB Insights today named Airwallex to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year's list was unveiled on stage at CB Insights' Future of Fintech"
+publishedDateTime: 2021-10-07T07:08:00Z
+originalUrl: "https://www.lelezard.com/en/news-20034838.html"
+webUrl: "https://www.lelezard.com/en/news-20034838.html"
 type: article
-quality: 24
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -55,19 +55,19 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Airwallex Named to the 2021 CB Insights Fintech 250 List; Recognized as Top Fintech Startup for Fourth Successive Time"
-    excerpt: "CB Insights today named Airwallex to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year's list was unveiled on stage at CB Insights' Future of Fintech"
-    publishedDateTime: 2021-10-07T07:08:00Z
-    webUrl: "https://www.lelezard.com/en/news-20034838.html"
+  - title: "Nova Credit Named to the 2021 CB Insights Fintech 250 List"
+    excerpt: "Nova Credit honored as a top fintech startup for achievements in Credit Score & AnalyticsSAN FRANCISCO--(BUSINESS WIRE)--Nova Credit, the fintech unlocking opportunities for those historically excluded from the credit system and companies looking to serve them,"
+    publishedDateTime: 2021-10-06T15:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=542616"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 15
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
   - title: "Cowbell Cyber Named to the 2021 CB Insights Fintech 250"
     excerpt: "Cowbell® Cyber, the industry's first AI-powered cyber insurance provider for small to medium enterprises (SMEs), today was named to the fourth annual CB"
@@ -106,6 +106,6 @@ related:
       domain: wcax.com
     quality: 0
 
-secured: "O4mo6zAKIM1AzgObxxCKLJoERPB9m5wNpiMxpXQf3HOLr4RXHI0jUN6S2tr1MIsGJhw0822wAkAVGCdM30PZ+tnE0BidzGx7+2mhcFUxxCrhafgxb5SWDvT5Od/gjGDiNHiBQ5JUfSubZ80jU+MTSAnKlgQfIK4iQCyhGDUnRV7TF5mu3WPq0WcEJ9XjYI01rYYokydbTksaUR8WfcLmlexuvNWJs6CHY31ROHkMvpMkPAi0IE4XY0W5dsx26VfXCXVG7al8JAwTvcTUDyxYIra1IVZECtio/6nKWVVYsdpRBLrkYWNzN/YT73Odtfr+5p5x2fowV86Vv53DxLpwGlbmHDB5doOWIriIdd6nans=;r6zjL543TccET1tE9Svtog=="
+secured: "l0XAga0w+9WEtxsd4FVRs2WmCLvd8JVkX64QRQMfyFalwUgC/wG4Shba3VZP6Nnxb3v66fMkms9m6WKYMBuz3zbhMKpuP1gpGP2nhfpENEBlmcAxV94j3EYyWdVMxIXnhCzlEzE7WxFIqnrToHoOye2ANWdYCViNojl5zSSP1VIR0kyY/E0EM8If4j5vucLnGiBqCCxDNr4/td2atA7PNUN4/zJLXGR4AIIFbSvMG6qeh5m6aLJzsUQ7oJa3RoyyM5+9wM9Ah9iEWAzzwZ4kjzCvGexco/dHt7R05SUPC55MQc5omDCpWeXjEnB8Fn9s2VTsZ28hT8AqbriQzJAcCWVaMAsoaLplJ/KykO+STq0=;cHi9qBhowg113JVtfAmQ4g=="
 ---
 

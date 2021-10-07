@@ -58,22 +58,6 @@ related:
         width: 700
         height: 484
         isCached: true
-  - title: "Microbes, Natural Intelligence and Artificial Intelligence"
-    excerpt: "Humanity is an outgrowth of natural life, but it currently enables a phase transition into technological relics that could survive longer than biological creatures. And the same could have happened long ago around other stars that formed billions of years before the sun."
-    publishedDateTime: 2021-10-02T14:59:00Z
-    webUrl: "https://www.scientificamerican.com/article/microbes-natural-intelligence-and-artificial-intelligence/"
-    ampWebUrl: "https://www.scientificamerican.com/article/microbes-natural-intelligence-and-artificial-intelligence/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/microbes-natural-intelligence-and-artificial-intelligence/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 57
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/2919B23F-0C73-466D-859B49145D379F97.jpg"
-        width: 790
-        height: 496
-        isCached: true
   - title: "Robots and artificial intelligence will control humans, predicts ex-Google"
     excerpt: "Elon Musk believes AI is capable of governing the human species The era of Robot Sapiens: will artificial intelligence dominate the Earth?)The dangers of AI are more subtle than armed robots, say experts Mohammed Gawdat believes that systems known as general artificial intelligence ( AGI),"
     publishedDateTime: 2021-10-03T15:10:00Z

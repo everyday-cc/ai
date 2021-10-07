@@ -57,22 +57,6 @@ related:
         width: 700
         height: 484
         isCached: true
-  - title: "Microbes, Natural Intelligence and Artificial Intelligence"
-    excerpt: "Humanity is an outgrowth of natural life, but it currently enables a phase transition into technological relics that could survive longer than biological creatures. And the same could have happened long ago around other stars that formed billions of years before the sun."
-    publishedDateTime: 2021-10-02T14:59:00Z
-    webUrl: "https://www.scientificamerican.com/article/microbes-natural-intelligence-and-artificial-intelligence/"
-    ampWebUrl: "https://www.scientificamerican.com/article/microbes-natural-intelligence-and-artificial-intelligence/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/microbes-natural-intelligence-and-artificial-intelligence/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 57
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/2919B23F-0C73-466D-859B49145D379F97.jpg"
-        width: 790
-        height: 496
-        isCached: true
   - title: "Artificial Intelligence and Antitrust Activity"
     excerpt: "Can A.I. Sniff Out Antitrust Violations?  In a recently published paper, a pair of academics propose that the application of artificial intelligence can offer a potent weapon against antitrust"
     publishedDateTime: 2021-10-05T23:59:00Z
