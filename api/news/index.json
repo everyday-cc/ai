@@ -2,6 +2,161 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-07-from-science-fiction-to-reality-visual-ai-paves-path-to-autonomous-testing.md",
+      "title": "From Science Fiction To Reality: Visual AI Paves Path To Autonomous Testing",
+      "excerpt": "The beauty of using utilization patterns of users to generate automatic navigation is that it uses the “brain of the masses” to test the utilization patterns that are important to the users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/07/from-science-fiction-to-reality-visual-ai-paves-path-to-autonomous-testing/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/07/from-science-fiction-to-reality-visual-ai-paves-path-to-autonomous-testing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f983ea65a5f45fb278c9dd1%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/07/from-science-fiction-to-reality-visual-ai-paves-path-to-autonomous-testing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/07/from-science-fiction-to-reality-visual-ai-paves-path-to-autonomous-testing/amp/",
+      "publishedDateTime": "2021-10-07T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-07-ai-powered-marketing-platform-alembic-emerges-with-95m.md",
+      "title": "AI-powered marketing platform Alembic emerges with $9.5M",
+      "excerpt": "Alembic, an AI-powered marketing insights platform, has emerged from stealth with $9.5 million in seed funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/07/ai-powered-marketing-platform-alembic-emerges-with-9-5m/",
+      "originalUrl": "https://venturebeat.com/2021/10/07/ai-powered-marketing-platform-alembic-emerges-with-9-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1138451176.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/07/ai-powered-marketing-platform-alembic-emerges-with-9-5m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/ai-powered-marketing-platform-alembic-emerges-with-9-5m/amp/",
+      "publishedDateTime": "2021-10-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-10-07-the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world.md",
+      "title": "The Data and AI landscape 2021: It a MAD, MAD, MAD world",
+      "excerpt": "Data and AI companies used to be considered tech companies. But the wave of IPOs and proliferation of unicorns is turning this market into its own sector. Our question is how sustainable is this MAD new world?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world/",
+      "originalUrl": "https://www.zdnet.com/article/the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/890f80640dd7706a6c82494d036edfe6dca1eeca/2021/10/07/2e0da503-fa3f-4701-8c59-09547ebc7693/data-and-ai-landscape-2021-small-1024x522.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 612,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world/",
+      "publishedDateTime": "2021-10-07T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-07-is-there-too-much-focus-on-intelligence-in-ai.md",
       "title": "Is There Too Much Focus On ‘Intelligence’ In AI?",
       "excerpt": "Apart from life science applications and other expert fields in new technology, is this the best way to enhance productivity in AI? Maybe not. In 2017, Erik Brynjolfsson, Daniel Rock and Chad Syverson wrote a paper titled,",
@@ -10,7 +165,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/07/is-there-too-much-focus-on-intelligence-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -49,7 +204,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -61,7 +217,7 @@
       "originalUrl": "https://menafn.com/1102931771/Artificial-Intelligence-in-Education-Market-Size-By-Model-Forecast-2020-2028",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -92,60 +248,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-europe-wants-to-ban-facial-recognitiontake-note-america.md",
-      "title": "Europe Wants to Ban Facial Recognition—Take Note, America",
-      "excerpt": "On Wednesday, the European Parliament called for a moratorium on police use of the biometric tool. It'd be great if U.S. legislators did the same.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/europe-wants-to-ban-facial-recognition-take-note-ameri-1847809788",
-      "originalUrl": "https://gizmodo.com/europe-wants-to-ban-facial-recognition-take-note-ameri-1847809788",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/18feb09125fbf09b8e9d8c077cb670dd.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/europe-wants-to-ban-facial-recognition-take-note-ameri-1847809788/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/europe-wants-to-ban-facial-recognition-take-note-ameri-1847809788/amp",
-      "publishedDateTime": "2021-10-06T16:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
+        "AI in Education",
+        "AI in Healthcare"
       ]
     },
     {
@@ -306,58 +410,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-07-databricks-acquires-bamboolib-creator-8080-labs.md",
-      "title": "Databricks acquires bamboolib creator 8080 Labs",
-      "excerpt": "Databricks has acquired 8080 Labs, creator of bamboolib, for an undisclosed sum. Bamboolib is a popular UI-based data exploration and transformation tool. The flagship data science solution also facilitates no-code workflows that seamlessly synchronize with the Python ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/acquisition/361140/databricks-acquires-bamboolib-creator-8080-labs",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/acquisition/361140/databricks-acquires-bamboolib-creator-8080-labs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816297/itpro/2017/02/big_databigstock.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/acquisition/361140/databricks-acquires-bamboolib-creator-8080-labs?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/acquisition/361140/databricks-acquires-bamboolib-creator-8080-labs?amp",
-      "publishedDateTime": "2021-10-06T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-06-gm-reveals-ultra-cruise-a-proper-tesla-full-self-driving-beta-rival.md",
       "title": "GM reveals Ultra Cruise, a proper Tesla Full Self-Driving beta rival",
       "excerpt": "Super Cruise will handle hands-free highway driving; Ultra Cruise, GM promises, will be onboard to tackle hands-free driving in 95% of all scenarios.",
@@ -410,6 +462,48 @@
       ]
     },
     {
+      "path": "_news/2021-10-06-databricks-boosts-no-code-data-analytics-ai-capabilities-with-acquisition.md",
+      "title": "Databricks Boosts No-Code Data Analytics, AI Capabilities With Acquisition",
+      "excerpt": "Databricks has acquired 8080 Labs and its Bamboolib data science tool to bolster the Databricks data engineering, data analytics and AI product portfolio.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/applications-os/databricks-boosts-no-code-data-analytics-ai-capabilities-with-acquisition",
+      "originalUrl": "https://www.crn.com/news/applications-os/databricks-boosts-no-code-data-analytics-ai-capabilities-with-acquisition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0267-11c406e87512-5307b1958bda-1000/123200924.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-google-wants-to-use-ai-to-time-traffic-lights-more-efficiently.md",
       "title": "Google wants to use AI to time traffic lights more efficiently",
       "excerpt": "Alphabet Inc's Google cut fuel use and traffic delays by 10% to 20% at four locations in Israel by using artificial intelligence to optimize signal lights and it next plans to test the software in Rio de Janeiro,",
@@ -449,6 +543,39 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-brain-cell-differences-could-be-key-to-learning-in-humans-and-ai.md",
+      "title": "Brain cell differences could be key to learning in humans and AI",
+      "excerpt": "Researchers have found that variability between brain cells might speed up learning and improve the performance of the brain and future AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/10/211006112626.htm",
+      "originalUrl": "https://techxplore.com/news/2021-10-brain-cell-differences-key-humans.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -703,6 +830,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-06-senate-bill-would-require-new-metrics-to-fuse-artificial-intelligence-across-the-us-defense-landscape.md",
+      "title": "Senate Bill Would Require New Metrics to Fuse Artificial Intelligence Across the U.S. Defense Landscape",
+      "excerpt": "S.D., recently introduced legislation that would require the Defense Department to institute performance objectives and metrics to incorporate artificial intelligence and digital readiness across all of its platforms,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextgov.com/emerging-tech/2021/10/senate-bill-would-require-new-metrics-fuse-artificial-intelligence-across-us-defense-landscape/185874/",
+      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/10/senate-bill-would-require-new-metrics-fuse-artificial-intelligence-across-us-defense-landscape/185874/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.nextgov.com/media/img/cd/2021/10/05/AP21271558857270_1/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nextgov",
+        "domain": "nextgov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-box-taps-deep-learning-to-detect-sophisticated-malware.md",
       "title": "Box taps deep learning to detect sophisticated malware",
       "excerpt": "Box has announced a new \"deep scan\" functionality that scans files as they are uploaded to identify sophisticated malware and avert attacks.",
@@ -943,164 +1113,19 @@
       ]
     },
     {
-      "path": "_news/2021-10-06-in-memory-computing-startup-neuroblade-nabs-83m-in-funding.md",
-      "title": "In-memory computing startup NeuroBlade nabs $83M in funding",
-      "excerpt": "NeuroBlade, a startup developing in-memory computing chips and hardware appliances, has raised $83 million in venture funding.",
+      "path": "_news/2021-10-06-european-parliament-backs-ban-on-remote-biometric-surveillance.md",
+      "title": "European Parliament backs ban on remote biometric surveillance",
+      "excerpt": "The European Parliament has voted to back a total ban on biometric mass surveillance. AI-powered remote surveillance technologies such as facial recognition have huge implications for fundamental rights and freedoms like privacy but are already creeping into use in public in Europe.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/06/in-memory-computing-startup-neuroblade-nabs-83m-in-funding/",
-      "originalUrl": "https://venturebeat.com/2021/10/06/in-memory-computing-startup-neuroblade-nabs-83m-in-funding/",
+      "webUrl": "https://techcrunch.com/2021/10/06/european-parliament-backs-ban-on-remote-biometric-surveillance/",
+      "originalUrl": "https://techcrunch.com/2021/10/06/european-parliament-backs-ban-on-remote-biometric-surveillance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 222,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Screenshot-20.png?w=566&resize=566%2C600&strip=all",
-          "width": 566,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/06/in-memory-computing-startup-neuroblade-nabs-83m-in-funding/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/06/in-memory-computing-startup-neuroblade-nabs-83m-in-funding/amp/",
-      "publishedDateTime": "2021-10-06T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-tata-power-ropes-in-ai-firm-bluwave-ai.md",
-      "title": "Tata Power ropes in AI firm BluWave-ai",
-      "excerpt": "Tata Power on Wednesday announced that it has roped in renewable energy AI (artificial intelligence) company BluWave-ai. \"Tata Power, India’s largest integrated power utility, announced that it has signed a three-year commercial agreement with BluWave-ai,",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/newsscroll/tata-power-ropes-in-ai-firm-bluwaveai/2173823",
-      "originalUrl": "https://www.outlookindia.com/newsscroll/tata-power-ropes-in-ai-firm-bluwaveai/2173823",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/tata-power-ropes-in-ai-firm-bluwaveai/2173823",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/tata-power-ropes-in-ai-firm-bluwaveai/2173823",
-      "publishedDateTime": "2021-10-06T02:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-wayve-the-lidar-free-self-driving-startup-raises-136m-from-ocado.md",
-      "title": "Wayve, the Lidar-free self-driving startup, raises $13.6M from Ocado",
-      "excerpt": "Wayve, a U.K.-based self-driving startup that is notable for its use of deep learning and cameras rather than more-costly Lidar and other sensors to guide vehicles, is gearing up for its next stage of development with a strategic backer in its pocket.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/",
-      "originalUrl": "https://techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/wayve-tech.jpg?w=1024",
-          "width": 1024,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/amp/",
-      "publishedDateTime": "2021-10-06T01:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-singapore-patrol-robots-stoke-fears-of-surveillance-state.md",
-      "title": "Singapore patrol robots stoke fears of surveillance state",
-      "excerpt": "Singapore has trialled patrol robots that blast warnings at people engaging in \"undesirable social behaviour\", adding to an arsenal of surveillance technology in the tightly controlled city-state that is fuelling privacy concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-10-singapore-patrol-robots-stoke-surveillance.html",
-      "originalUrl": "https://techxplore.com/news/2021-10-singapore-patrol-robots-stoke-surveillance.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/armed-with-seven-camer.jpg",
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/facial-recognition.jpg?w=1024",
           "width": 1024,
           "height": 682,
           "title": null,
@@ -1110,13 +1135,64 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-10-singapore-patrol-robots-stoke-surveillance.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-singapore-patrol-robots-stoke-surveillance.amp",
-      "publishedDateTime": "2021-10-06T01:13:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2021/10/06/european-parliament-backs-ban-on-remote-biometric-surveillance/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/european-parliament-backs-ban-on-remote-biometric-surveillance/amp/",
+      "publishedDateTime": "2021-10-06T04:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-singapore-patrol-robots-warn-people-of-undesirable-behavior.md",
+      "title": "Singapore patrol robots warn people of ‘undesirable’ behavior",
+      "excerpt": "Singapore has trialed patrol robots that blast warnings at people engaging in “undesirable social behavior,” adding to an arsenal of surveillance technology in the tightly controlled city-state that is fueling privacy concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://wtop.com/world/2021/10/singapore-patrol-robots-warn-people-of-undesirable-behavior/",
+      "originalUrl": "https://wtop.com/world/2021/10/singapore-patrol-robots-warn-people-of-undesirable-behavior/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://cbsnews2.cbsistatic.com/hub/i/r/2021/10/06/f714e494-d1a9-4b63-b8fc-03a0cef2efb5/thumbnail/620x413/9d0ddafff68a9a73fce31f5ebd0ab08e/singapore-robot-xavier-1235122903.jpg#",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wtop.com/world/2021/10/singapore-patrol-robots-warn-people-of-undesirable-behavior/amp/",
+      "cdnAmpWebUrl": "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/world/2021/10/singapore-patrol-robots-warn-people-of-undesirable-behavior/amp/",
+      "publishedDateTime": "2021-10-06T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTOP News",
+        "domain": "wtop.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1127,109 +1203,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-from-drug-design-to-distribution-this-is-how-robotics-ai-and-blockchain-transforms-pharma.md",
-      "title": "From Drug Design To Distribution: This Is How Robotics, A.I. and Blockchain Transforms Pharma",
-      "excerpt": "Exoskeletons to aid pharma factory workers. 3D printing to allow pharmacies to produce drugs on the spot. Blockchain technologies to help fight counterfeit drugs. These are just bits and pieces, but the entire process of the pharmaceutical supply chain will be affected by disruptive technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/from-drug-design-distribution-how-robotics-ai-pharma-meskó-md-phd",
-      "originalUrl": "https://www.linkedin.com/pulse/from-drug-design-distribution-how-robotics-ai-pharma-meskó-md-phd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQH7yBw6eCSWYA/article-cover_image-shrink_720_1280/0/1633506465376?e=1639008000&v=beta&t=_U-6bUqcs-f9bJe726tT0G7pyblRADpeKHyj0nIGonc",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-koreai-which-develops-workflow-automation-technologies-raises-70m.md",
-      "title": "Kore.ai, which develops workflow automation technologies, raises $70M",
-      "excerpt": "Kore.ai, a startup developing a platform for enterprise workflow automation, has raised $70 million in a venture funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/05/kore-ai-which-develops-workflow-automation-technologies-raises-70m/",
-      "originalUrl": "https://venturebeat.com/2021/10/05/kore-ai-which-develops-workflow-automation-technologies-raises-70m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1125283214-e1623872146321.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/05/kore-ai-which-develops-workflow-automation-technologies-raises-70m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/05/kore-ai-which-develops-workflow-automation-technologies-raises-70m/amp/",
-      "publishedDateTime": "2021-10-05T23:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

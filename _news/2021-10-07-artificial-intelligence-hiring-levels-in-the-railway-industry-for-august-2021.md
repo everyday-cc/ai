@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Beverages’ Artificial Intelligence hiring levels hold steady in August – data"
+    excerpt: "The proportion of beverage manufacturing and supply companies hiring for Artificial Intelligence-related positions in August was in line with the previous month, with 30% of the companies included in GlobalData's analysis recruiting for at least one such position."
+    publishedDateTime: 2021-10-07T11:58:00Z
+    webUrl: "https://www.just-drinks.com/features/beverages-artificial-intelligence-hiring-levels-hold-steady-in-august-data/"
+    type: article
+    provider:
+      name: Drinks
+      domain: just-drinks.com
+    quality: 34
+    images:
+      - url: "https://www.just-drinks.com/wp-content/uploads/sites/36/2021/10/Artificial-Intelligence-scaled.jpg"
+        width: 2560
+        height: 1067
+        isCached: true
   - title: "Artificial intelligence hiring levels in the power industry dropped in August 2021"
     excerpt: "The proportion of power industry operations and technologies companies hiring for artificial intelligence related positions dropped in August 2021, with 35.7% of the companies included in our analysis recruiting for at least one such position."
     publishedDateTime: 2021-10-06T15:37:00Z
@@ -67,6 +81,6 @@ related:
         height: 322
         isCached: true
 
-secured: "B8gYg3fTxzYQgRCG29tUkPy78l6c4tCeKoa7i05lbipp/pHaTYdQ6Bm/UBZAnULiCH2qhSuUXO5uGiPNeCwByGpFgao+aVVnr6yA26BE1SFP2oMwyQjl4a/neKXvM+fde5dpbBPn8pPsmAOAgr0AmEiVxEOzavcxv65+29vqa2hBtgerQv0+oV+sHbSqujQh7OeAbnmjcjBBa5Aa/LYqENODDXjDCy8ylQOTPrEDmk33LGvcW3YEnCTvVh6zlkbj9wLKekE+oTIWPVvUtu0YmZyHjHwB46QiVZLKEFlsque0Qo/5SABRTg8heFLyhkks5fIUdUiKscRu4aKrSJgz2OqusXzLp2n5eHhEvvN18XI=;qXOYSD73QDUQTHd/xmmV6Q=="
+secured: "erDd2h5C5mgtq0K4XwJlqwXbrw98gU0AvEoAQa2ByfiCu3OH7h7T9zW1IpUGgf7X5lc0Zq4yBjV4KmEJgkEiwkMA08UkYp4cVX3h6k+5d52BHA6nRE5xjpS1Wg/Lshk2O0E2tqGFx7cI+XhqqIkFLFd3lNFKbGRUlPVdRe4nzrR8dmOtQPFmMONi4y1HEi2C9sTStld80vFhr6tikYwNPx1MWp5JelD22/522CG60tNFxeXk5Iy89cuQW58VNweIaTnUZOwDJ/7/53RQ37J4xDXu+Qyw7YXDLckl4F2QbN2Z8BEUK50LytH6VYat0iRBWsQ53w3JtBIA3GYS+52vCHrYZ/7Xv1JbY96IRjldMMpFZApDy9wXe+arSQbkVj3V/tPBDObwosOSCgUQw62oXlhWyYSDmaUbbdYYYh+1PdoTADFCAAV111dMWQu5yCDZeKL0ZTz1h565TOP86nYN72ZVb0GAuGJiZegyZH/WyQoMuoGHrXoBbgLwXHy09mx1uNeoGjJE3ercX7K1ssJJHw==;EF02LWh/VI02eCpEf3AVSg=="
 ---
 

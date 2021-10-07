@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbizcouncil/2021/10/04/how-real-es
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbizcouncil/2021/10/04/how-real-estate-investors-can-use-artificial-intelligence/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Quest To Fuse AI And Robotics"
-    excerpt: "DeepMind and other robotics researchers are using a simulation-based technique - sim-to-real - to find a way around the data problem."
-    publishedDateTime: 2021-10-04T04:32:00Z
-    webUrl: "https://analyticsindiamag.com/the-quest-to-fuse-ai-and-robotics/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 71
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Brown-and-Green-DIY-Collage-Interior-Design-Moodboard-Photo-Collage-Blog-Banner-1.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
   - title: "Investment Banks to Increase AI in Trading"
     excerpt: "Investment banks are looking to increase the of artificial intelligence and machine learning in pricing models, and see these technologies as improving client output as well as providing operating efficiency."
     publishedDateTime: 2021-10-05T04:15:00Z

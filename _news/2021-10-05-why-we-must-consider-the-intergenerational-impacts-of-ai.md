@@ -9,8 +9,8 @@ ampWebUrl: "https://europeansting.com/2021/10/05/why-we-must-consider-the-interg
 cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/10/05/why-we-must-consider-the-intergenerational-impacts-of-ai/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: europeansting.com
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Dialpad Supports the Next Generation of Artificial Intelligence Startups as National AI Showcase Sponsor"
+    excerpt: "Dialpad Inc., the industry leader in AI-powered communication and collaboration, today announced its official sponsorship of National AI Showcase, an online pitch competition for startups across Canada."
+    publishedDateTime: 2021-10-07T13:16:00Z
+    webUrl: "https://www.lelezard.com/en/news-20035852.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 37
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Relativity Focuses on International Expansion, Integrations and AI in Relativity Fest Keynote"
     excerpt: "The virtual Relativity Fest 2021 keynote didn't feature groundbreaking product releases like in years past, but instead upgrades aimed at integrating artificial intelligence into the discovery workflow,"
     publishedDateTime: 2021-10-04T16:03:00Z

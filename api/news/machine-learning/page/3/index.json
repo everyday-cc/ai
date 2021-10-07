@@ -2,50 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-09-21-making-games-immersive-and-engaging-through-aws-aiml.md",
-      "title": "Making games immersive and engaging through AWS AI/ML",
-      "excerpt": "He also cited the case study of how Sony Interactive Entertainment modernised the PlayStation Playstore, using Amazon SageMaker and Amazon Personalize. In terms of monetisation strategies ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2021/09/making-immersive-engaging-games-through-aws-ai-ml/amp",
-      "originalUrl": "https://yourstory.com/2021/09/making-immersive-engaging-games-through-aws-ai-ml/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Imagek34f-1632226292285.jpg ",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2021/09/making-immersive-engaging-games-through-aws-ai-ml/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/09/making-immersive-engaging-games-through-aws-ai-ml/amp",
-      "publishedDateTime": "2021-09-21T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-09-21-machine-learning-at-the-edge-a-hardware-and-software-ecosystem.md",
       "title": "Machine learning at the edge: A hardware and software ecosystem",
       "excerpt": "Being able to deploy machine learning applications at the edge bears the promise of unlocking a multi-billion dollar market. For that to happen, hardware and software must work in tandem. Arm's partner ecosystem exemplifies this,",
@@ -1355,6 +1311,41 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-descartes-labs-to-host-geoint-2021-training-workshop-on-creating-machine-learning-based-computer-vision-models-for-planetary-scale-data-analysis.md",
+      "title": "Descartes Labs to Host GEOINT 2021 Training Workshop on Creating Machine Learning-Based Computer Vision Models for Planetary Scale Data Analysis",
+      "excerpt": "The one-hour workshop, “Advanced Geospatial Analytics Utilizing Ever Increasing Geo Data with Computer Vision at Planetary Scale: Learn to Build and Deploy Machine Learning Models for Young Professionals to Senior Scientists,",
+      "sourceUrl": null,
+      "webUrl": "https://sensorsandsystems.com/descartes-labs-to-host-geoint-2021-training-workshop-on-creating-machine-learning-based-computer-vision-models-for-planetary-scale-data-analysis/",
+      "originalUrl": "https://sensorsandsystems.com/descartes-labs-to-host-geoint-2021-training-workshop-on-creating-machine-learning-based-computer-vision-models-for-planetary-scale-data-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "sensorsandsystems.com",
+        "domain": "sensorsandsystems.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI",
         "Machine Learning"
       ]

@@ -2,6 +2,246 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-10-01-acclarent-launches-first-ent-navigation-technology-powered-by-artificial-intelligence.md",
+      "title": "Acclarent Launches First ENT Navigation Technology Powered by Artificial Intelligence",
+      "excerpt": "Acclarent, Inc., part of the Johnson & Johnson Medical Devices Companies, * and a leader in developing minimally-invasive Ear, Nose & Throat (ENT) technologies, today announced the U.S. launch of its first-ever AI-powered ENT technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-acclarent-launches-first-ent-navigation-technology-powered-artificial-/2021/09/30/9460511.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-acclarent-launches-first-ent-navigation-technology-powered-artificial-/2021/09/30/9460511.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-30T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-google-is-using-artificial-intelligence-to-make-information-more-useful.md",
+      "title": "Google is using artificial intelligence to make information more useful",
+      "excerpt": "At its Search On event this week, Google revealed details about how it plans to use a technology it calls Multitask Unified Model (MUM), which should",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/91514-google-using-artificial-intelligence-make-information-more-useful.html",
+      "originalUrl": "https://www.techspot.com/news/91514-google-using-artificial-intelligence-make-information-more-useful.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-30-image-36.jpg",
+          "width": 1680,
+          "height": 1120,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/91514-google-using-artificial-intelligence-make-information-more-useful.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91514-google-using-artificial-intelligence-make-information-more-useful.html",
+      "publishedDateTime": "2021-09-30T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-gms-cruise-alphabets-waymo-win-permits-to-offer-self-driving-rides-to-passengers-in-california.md",
+      "title": "GM's Cruise, Alphabet's Waymo win permits to offer self-driving rides to passengers in California",
+      "excerpt": "General Motors Co's Cruise and Alphabet Inc's Waymo self-driving car subsidiaries on Thursday became the first companies to receive autonomous vehicle permits to offer rides to passengers in California.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/gms-cruise-gets-permit-give-driverless-rides-passengers-san-francisco-2021-09-30/",
+      "originalUrl": "https://www.reuters.com/technology/gms-cruise-gets-permit-give-driverless-rides-passengers-san-francisco-2021-09-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/onS7SUrJwaZORG20XaAFkrVAaLY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5DC26PQB6JLU3LAHXWIEHJOJ3U.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-30T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-create-amazon-sagemaker-projects-with-image-building-cicd-pipelines.md",
+      "title": "Create Amazon SageMaker projects with image building CI/CD pipelines",
+      "excerpt": "Amazon SageMaker projects are AWS Service Catalog provisioned products that enable you to easily create end-to-end machine learning (ML) solutions. SageMaker projects give organizations the ability to use templates that bootstrap ML solutions for your users to speed up the start time for ML development.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-projects-with-image-building-ci-cd-pipelines/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-projects-with-image-building-ci-cd-pipelines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/28/ML-5720-image017.jpg",
+          "width": 500,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-30T11:15:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-ai-innovations-in-media-and-communications.md",
+      "title": "AI Innovations In Media And Communications",
+      "excerpt": "My last blog discussed AI innovations in the health care sector, and this one will share a few perspectives of new developments in the Media and Communications Industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155ef71088eada6a8f3c806%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-media-and-communications/amp/",
+      "publishedDateTime": "2021-09-30T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-01-vcs-invested-over-75b-in-ai-startups-in-2020.md",
       "title": "VCs invested over $75B in AI startups in 2020",
       "excerpt": "According to a new report from OECD, VCs poured a record amount of money into startups developing AI technologies.",
@@ -980,266 +1220,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-is-identity-theft-fraud-heres-how-ai-and-graphing-tools-help-solve-the-puzzle.md",
-      "title": "Is Identity Theft Fraud? Here’s How AI And Graphing Tools Help Solve The Puzzle",
-      "excerpt": "While identity theft and fraud are related, they’re not equivalent, which means that relying solely on PII and credit bureau data to verify someone is who they say they are is a dangerous — and incomplete — approach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/is-identity-theft-fraud-heres-how-ai-and-graphing-tools-help-solve-the-puzzle/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/is-identity-theft-fraud-heres-how-ai-and-graphing-tools-help-solve-the-puzzle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61548377d01fdff342398689%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/is-identity-theft-fraud-heres-how-ai-and-graphing-tools-help-solve-the-puzzle/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/30/is-identity-theft-fraud-heres-how-ai-and-graphing-tools-help-solve-the-puzzle/amp/",
-      "publishedDateTime": "2021-09-30T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-are-ai-ethics-teams-doomed-to-be-a-facade-the-women-who-pioneered-them-weigh-in.md",
-      "title": "Are AI ethics teams doomed to be a facade? The women who pioneered them weigh in",
-      "excerpt": "Timnit Gebru, Margaret Mitchell, and other leaders discuss tensions surrounding AI ethics in big tech and what teams need to succeed.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/30/are-ai-ethics-teams-doomed-to-be-a-facade-the-women-who-pioneered-them-weigh-in/",
-      "originalUrl": "https://venturebeat.com/2021/09/30/are-ai-ethics-teams-doomed-to-be-a-facade-the-women-who-pioneered-them-weigh-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1283199539-e1632945107378.jpg?fit=768%2C600&strip=all",
-          "width": 768,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/30/are-ai-ethics-teams-doomed-to-be-a-facade-the-women-who-pioneered-them-weigh-in/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/30/are-ai-ethics-teams-doomed-to-be-a-facade-the-women-who-pioneered-them-weigh-in/amp/",
-      "publishedDateTime": "2021-09-30T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups.md",
-      "title": "BGV closes fourth fund with $110M aimed at immigrant enterprise AI, cross-border startups",
-      "excerpt": "Silicon Valley-based venture capital (VC) firm Benhamou Global Ventures, known as BGV, closed its fourth fund with $110 million to support global enterprise companies. The new fund is 60% larger than its third fund and will be invested similarly,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/",
-      "originalUrl": "https://techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1152284190.jpg?w=1024",
-          "width": 1024,
-          "height": 655,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/amp/",
-      "publishedDateTime": "2021-09-30T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-top-3-duty-of-care-board-and-c-suite-ai-literacy-accountabilities.md",
-      "title": "Top 3 Duty Of Care Board And C-Suite AI Literacy Accountabilities",
-      "excerpt": "Three Duty of Care Board and C Suite AI literacy accountabilities are discussed as a motivator for increased leadership in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/top-3-duty-of-care-board-and-c-suite--ai-literacy-accountabilities/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/top-3-duty-of-care-board-and-c-suite--ai-literacy-accountabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155b581ccb88bc41264a735%2F0x0.jpg",
-          "width": 1200,
-          "height": 588,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/top-3-duty-of-care-board-and-c-suite--ai-literacy-accountabilities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/30/top-3-duty-of-care-board-and-c-suite--ai-literacy-accountabilities/amp/",
-      "publishedDateTime": "2021-09-30T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-top-three-trends-in-robotics-the-cambrian-explosion-is-happening.md",
-      "title": "Top Three Trends In Robotics: The Cambrian Explosion Is Happening",
-      "excerpt": "As more infrastructure is being architected, different schools of thought are emerging. Proponents of a particular school have their own world view on how robots will become ubiquitous and help mankind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/30/top-three-trends-in-robotics-the-cambrian-explosion-is-happening/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/30/top-three-trends-in-robotics-the-cambrian-explosion-is-happening/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609a9c1bf4942207102ea502%2F0x0.jpg%3FcropX1%3D628%26cropX2%3D4001%26cropY1%3D0%26cropY2%3D2250",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/30/top-three-trends-in-robotics-the-cambrian-explosion-is-happening/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/09/30/top-three-trends-in-robotics-the-cambrian-explosion-is-happening/amp/",
-      "publishedDateTime": "2021-09-30T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

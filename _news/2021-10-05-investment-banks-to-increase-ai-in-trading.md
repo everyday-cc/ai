@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Quest To Fuse AI And Robotics"
-    excerpt: "DeepMind and other robotics researchers are using a simulation-based technique - sim-to-real - to find a way around the data problem."
-    publishedDateTime: 2021-10-04T04:32:00Z
-    webUrl: "https://analyticsindiamag.com/the-quest-to-fuse-ai-and-robotics/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 71
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Brown-and-Green-DIY-Collage-Interior-Design-Moodboard-Photo-Collage-Blog-Banner-1.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
 
 secured: "bZM6EZPOH/qVS17wdcyxIIRtMK6JYPQjGjVHB3QREM2huf2Lpn/KVH3cxD4Riy/fwaLF2T+fl6nBw5Vc2WZ/LWMoA0LiCvgqcLw1fg+DtFcP22txnOUf/vPwHKERqusg1xYg6abpKZWN+nCTBv9AyUe24xCO6xglzW3EAt369q6hYrfjBgU9hFvCidUKSBVZDFENqJ3V5BYbr47ZniyGKEt06ZOyjCJuaNysOnVH/DjKmRkatUDrnoQZkSOobXrXEkOF5474VxcNb7q4VuOtRPhJTJ5ZR9uaaTFvSm7wMtM5EkCkoiLOxld52d5gZ7Md3R+XICOO/phYUDgDjsbbJh5gTJlwPY/MFZ/IEHXMI44=;Zx3PeMnZIUnYgAwXE2QZ/w=="
 ---

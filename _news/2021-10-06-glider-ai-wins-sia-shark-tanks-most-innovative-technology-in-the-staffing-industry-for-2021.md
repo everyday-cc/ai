@@ -38,6 +38,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Beverages’ Artificial Intelligence hiring levels hold steady in August – data"
+    excerpt: "The proportion of beverage manufacturing and supply companies hiring for Artificial Intelligence-related positions in August was in line with the previous month, with 30% of the companies included in GlobalData's analysis recruiting for at least one such position."
+    publishedDateTime: 2021-10-07T11:58:00Z
+    webUrl: "https://www.just-drinks.com/features/beverages-artificial-intelligence-hiring-levels-hold-steady-in-august-data/"
+    type: article
+    provider:
+      name: Drinks
+      domain: just-drinks.com
+    quality: 34
+    images:
+      - url: "https://www.just-drinks.com/wp-content/uploads/sites/36/2021/10/Artificial-Intelligence-scaled.jpg"
+        width: 2560
+        height: 1067
+        isCached: true
   - title: "Artificial intelligence hiring levels in the power industry dropped in August 2021"
     excerpt: "The proportion of power industry operations and technologies companies hiring for artificial intelligence related positions dropped in August 2021, with 35.7% of the companies included in our analysis recruiting for at least one such position."
     publishedDateTime: 2021-10-06T15:37:00Z

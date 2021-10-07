@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore patrol robots stoke fears of surveillance state"
-    excerpt: "Singapore has trialled patrol robots that blast warnings at people engaging in \"undesirable social behaviour\", adding to an arsenal of surveillance technology in the tightly controlled city-state that is fuelling privacy concerns."
-    publishedDateTime: 2021-10-06T08:13:00Z
-    webUrl: "https://techxplore.com/news/2021-10-singapore-patrol-robots-stoke-surveillance.html"
-    ampWebUrl: "https://techxplore.com/news/2021-10-singapore-patrol-robots-stoke-surveillance.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-singapore-patrol-robots-stoke-surveillance.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/armed-with-seven-camer.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Singapore patrol robots warn people of ‘undesirable’ behavior"
     excerpt: "Singapore has trialed patrol robots that blast warnings at people engaging in “undesirable social behavior,” adding to an arsenal of surveillance technology in the tightly controlled city-state that is fueling privacy concerns."
     publishedDateTime: 2021-10-06T10:41:00Z
@@ -169,19 +153,19 @@ related:
         width: 640
         height: 362
         isCached: true
-  - title: "Why Singapore Remains One of the Best Place to Start a Fintech Business"
-    excerpt: "Singapore has consistently ranked amongst the top locations in the world to start a business, recognized by the global community for its competitive corporate tax rate, skilled workforce, advanced infrastructures,"
-    publishedDateTime: 2021-10-04T01:40:00Z
-    webUrl: "https://fintechnews.sg/55862/fintech/why-singapore-remains-one-of-the-best-place-to-start-a-fintech-business/"
+  - title: "Singapore Patrol Robots Stoke Fears Of Surveillance State"
+    excerpt: "Singapore has trialled patrol robots that blast warnings at people engaging in \"undesirable social behaviour\", adding to an arsenal of surveillance technology in the tightly controlled city-state that is fuelling privacy concerns."
+    publishedDateTime: 2021-10-06T02:39:00Z
+    webUrl: "https://www.ibtimes.com/singapore-patrol-robots-stoke-fears-surveillance-state-3310221"
     type: article
     provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
+      name: International Business Times
+      domain: ibtimes.com
     quality: 39
     images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/09/BannerA_04.jpg?x45653"
-        width: 300
-        height: 250
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/10/05/armed-with-seven-cameras-a-xavier-robot-in.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Singapore patrol robots stoke fears of surveillance state"
     excerpt: "From vast numbers of CCTV cameras to trials of lampposts kitted out with facial recognition tech, Singapore is seeing an explosion of tools to track its inhabitants."

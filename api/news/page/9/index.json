@@ -2,6 +2,220 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-09-29-william-mills-agency-signs-finalyticsai-for-public-relations-services.md",
+      "title": "William Mills Agency Signs Finalytics.ai for Public Relations Services",
+      "excerpt": "William Mills Agency, the largest, independent public relations and marketing firm specializing in the financial industry, announced today that it has been selected by Finalytics.ai for public relations services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/william-mills-agency-signs-finalytics-ai-for-public-relations-services/",
+      "originalUrl": "https://www.financialbuzz.com/william-mills-agency-signs-finalytics-ai-for-public-relations-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-29T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-global-deep-learning-models-market-report-2021-neural-networks-empowering-the-next-generation-of-ai-applications.md",
+      "title": "Global Deep Learning Models Market Report 2021: Neural Networks Empowering the Next Generation of AI Applications",
+      "excerpt": "The \"Next Wave of Deep Learning Models & Applications (RNN, CNN, and GaN)\" report has been added to ResearchAndMarkets.com's offering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-deep-learning-models-market-report-2021-neural-networks-empowering-the-next-generation-of-ai/article_71a66ad9-6907-56ec-9075-1405f5713615.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-deep-learning-models-market-report-2021-neural-networks-empowering-the-next-generation-of-ai/article_71a66ad9-6907-56ec-9075-1405f5713615.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-29T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-next-wave-of-deep-learning-models-applications-markets-2021-focus-on-rnn-cnn-and-gan-researchandmarketscom.md",
+      "title": "Next Wave of Deep Learning Models & Applications Markets 2021: Focus on RNN, CNN, and GAN - ResearchAndMarkets.com",
+      "excerpt": "The “Next Wave of Deep Learning Models & Applications (RNN, CNN, and GaN)” report has been added to ResearchAndMarkets.com’s offering. As digitization progresses across industries, AI is gaining a ubiquitous adoption as more and more business processes are being automated.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/business-technology-c75da96895804268aa68ebd35cad71f2",
+      "originalUrl": "https://apnews.com/press-release/business-wire/business-technology-c75da96895804268aa68ebd35cad71f2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-29T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-tech-recruiting-startup-andela-raises-200-million-in-round-led-by-softbank.md",
+      "title": "Tech-Recruiting Startup Andela Raises $200 Million in Round Led by SoftBank",
+      "excerpt": "Andela uses AI to help employers look beyond Silicon Valley for talent and tap a broader range of markets such as Africa and Latin America",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/tech-recruiting-startup-andela-raises-200-million-in-round-led-by-softbank-11632913202",
+      "originalUrl": "https://www.wsj.com/articles/tech-recruiting-startup-andela-raises-200-million-in-round-led-by-softbank-11632913202",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-408465?width=860&height=573",
+          "width": 860,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/tech-recruiting-startup-andela-raises-200-million-in-round-led-by-softbank-11632913202",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-recruiting-startup-andela-raises-200-million-in-round-led-by-softbank-11632913202",
+      "publishedDateTime": "2021-09-29T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-ascertainment-of-veterans-with-metastatic-prostate-cancer-in-electronic-health-records-demonstrating-the-case-for-natural-language-processing.md",
+      "title": "Ascertainment of Veterans With Metastatic Prostate Cancer in Electronic Health Records: Demonstrating the Case for Natural Language Processing.",
+      "excerpt": "Prostate cancer (PCa) is among the leading causes of cancer deaths. While localized PCa has a 5-year survival rate approaching 100%, this rate drops to 31% for metastatic prostate cancer (mPCa). Thus,",
+      "sourceUrl": null,
+      "webUrl": "https://www.urotoday.com/recent-abstracts/urologic-oncology/prostate-cancer/132619-ascertainment-of-veterans-with-metastatic-prostate-cancer-in-electronic-health-records-demonstrating-the-case-for-natural-language-processing.html",
+      "originalUrl": "https://www.urotoday.com/recent-abstracts/urologic-oncology/prostate-cancer/132619-ascertainment-of-veterans-with-metastatic-prostate-cancer-in-electronic-health-records-demonstrating-the-case-for-natural-language-processing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.urotoday.com/images/journal_issues/EU-Vol-5-Issue-4-cover2x.jpg",
+          "width": 472,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-29T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UroToday",
+        "domain": "urotoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-global-voice-and-speech-recognition-software-market-2021-major-players-competitive-spectrum-revenue-share-and-sales-projections-by-2027.md",
       "title": "Global Voice And Speech Recognition Software Market 2021 Major Players, Competitive Spectrum, Revenue Share and Sales Projections by 2027",
       "excerpt": "Global Voice And Speech Recognition Software Market 2020 by Company, Type and Application, Forecast to 2025 recently presented by MarketQuest.biz concretes the best results, integrated approaches, and the latest technology.",
@@ -968,247 +1182,6 @@
         "Machine Learning",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-ai-based-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers.md",
-      "title": "AI-based tool to predict risk of cardiovascular diseases launched for healthcare providers",
-      "excerpt": "An artificial intelligence-based tool to predict risk of cardiovascular diseases for an early intervention was launched on Tuesday for healthcare providers across the country by a leading private healthcare group.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/newsscroll/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999",
-      "originalUrl": "https://www.outlookindia.com/newsscroll/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999",
-      "publishedDateTime": "2021-09-28T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-alexas-new-features-will-let-users-personalize-the-ai-to-their-own-needs.md",
-      "title": "Alexa’s new features will let users personalize the AI to their own needs",
-      "excerpt": "Amazon is preparing to roll out a trio of new features that will allow consumers to further personalize their Alexa experience by helping train the Alexa AI using simple tools. In a few months’ time,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/28/alexas-new-features-will-let-users-personalize-the-a-i-to-their-own-needs/",
-      "originalUrl": "https://techcrunch.com/2021/09/28/alexas-new-features-will-let-users-personalize-the-a-i-to-their-own-needs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-28-at-12.16.26-PM.jpg?w=680",
-          "width": 680,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/28/alexas-new-features-will-let-users-personalize-the-a-i-to-their-own-needs/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/28/alexas-new-features-will-let-users-personalize-the-a-i-to-their-own-needs/amp/",
-      "publishedDateTime": "2021-09-28T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-zoomtopia-2021-ai-and-video-to-power-healthcare-financial-services.md",
-      "title": "Zoomtopia 2021: AI and Video to Power Healthcare, Financial Services",
-      "excerpt": "At the recent Zoomtopia, the company spotlighted how video and artificial intelligence will great boost the process of digital transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/cloud/zoomtopia-2021/",
-      "originalUrl": "https://www.eweek.com/cloud/zoomtopia-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/09/Zoom-White.jpg",
-          "width": 1032,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-adobe-adds-ai-powered-masking-tools-to-lightroom.md",
-      "title": "Adobe adds AI-powered masking tools to Lightroom",
-      "excerpt": "Adobe has revealed some new masking upgrades that are coming to Lightroom, Lightroom Classic and Adobe Camera Raw (or ACR, Photoshop's raw photo processing tool). The company calls it the \"biggest change to providing control over selectively enhancing photos\" since it released Lightroom 2 in 2008.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/adobe-camera-raw-lightroom-classic-mask-features-ai-160056644.html",
-      "originalUrl": "https://www.engadget.com/adobe-camera-raw-lightroom-classic-mask-features-ai-160056644.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/0SAt8C3pZMiN3YYNcl6KTg--~B/Zmk9ZmlsbDtoPTQ1MDt3PTY3NTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2021-09/6bcedf10-2068-11ec-afd7-f6730c12cb32.cf.jpg",
-          "width": 675,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-amid-rapid-adoption-paravision-unveils-new-computer-vision-capabilities-making-face.md",
-      "title": "Amid Rapid Adoption, Paravision Unveils New Computer Vision Capabilities, Making Face ...",
-      "excerpt": "Paravision, the U.S.-based leader in mission-critical face recognition and computer vision, today announced an array of new and updated products that make face recognition solutions faster, more accurate and secure,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

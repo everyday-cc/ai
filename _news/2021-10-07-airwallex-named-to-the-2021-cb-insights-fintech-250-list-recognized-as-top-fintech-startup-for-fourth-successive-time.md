@@ -78,15 +78,6 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 4
-  - title: "Fundbox Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
-    excerpt: "CB Insights today named Fundbox to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year’s list was unveiled on stage at CB Insights’ Future of Fintech conference in New York City."
-    publishedDateTime: 2021-10-05T15:30:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8368135/fundbox-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
   - title: "Onfido Named to 2021 CB Insights Fintech 250 List of Top Fintech Startups for Fourth Year Running"
     excerpt: "CB Insights today named Onfido to its fourth annual Fintech 250 for the fourth year running. Fintech 250 is a prestigious list of emerging private com"
     publishedDateTime: 2021-10-05T20:44:00Z
@@ -95,15 +86,6 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 0
-  - title: "Quantexa Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
-    excerpt: "CB Insights today named Quantexa to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year's list was unveiled on stage at CB Insights' Future of Fintech conference in New York City."
-    publishedDateTime: 2021-10-05T20:30:00Z
-    webUrl: "https://www.wcax.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/"
-    type: article
-    provider:
-      name: WCAX3
-      domain: wcax.com
     quality: 0
 
 secured: "lYwXxJW53aFdoSDkbFQk5TC00XlkPrXVySU7I0TAEXTBrLJ5zeaUK08DqHyUKE4OzYO4BGGOcV8bXKp5MQjIs80yN+9bZGEDSfn2gbw8cBbOUO8rVY6vSIO/EJdcNjueAFryRgSDrAxSKtM/GP5IKM7dAc/EagkmK4zBKc9NLSs2I1ORwcfeyRDD0cH1QhV9+/rt+Xhz660XGkv5ngguApF7gjzAkoBubs3Ts8V274HGwknFfvq4fNGrqBg77y7A5GYCWdL0tUh/VqGjdIakTJ/sfnnafeJKoyBjqOdu93CxCfQmR5lk9/E68qf7KFbCGMSZXKnQeCNU8So1Z9KlG7LcXezzKb/BFi6Al2Xpp+4=;TJAWnhWaInZHfs8sRKxgVQ=="

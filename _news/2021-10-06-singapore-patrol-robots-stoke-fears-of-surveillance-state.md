@@ -1,27 +1,25 @@
 ---
 category: news
-title: "Singapore patrol robots stoke fears of surveillance state"
+title: "Singapore Patrol Robots Stoke Fears Of Surveillance State"
 excerpt: "Singapore has trialled patrol robots that blast warnings at people engaging in \"undesirable social behaviour\", adding to an arsenal of surveillance technology in the tightly controlled city-state that is fuelling privacy concerns."
-publishedDateTime: 2021-10-06T08:13:00Z
-originalUrl: "https://techxplore.com/news/2021-10-singapore-patrol-robots-stoke-surveillance.html"
-webUrl: "https://techxplore.com/news/2021-10-singapore-patrol-robots-stoke-surveillance.html"
-ampWebUrl: "https://techxplore.com/news/2021-10-singapore-patrol-robots-stoke-surveillance.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-singapore-patrol-robots-stoke-surveillance.amp"
+publishedDateTime: 2021-10-06T02:39:00Z
+originalUrl: "https://www.ibtimes.com/singapore-patrol-robots-stoke-fears-surveillance-state-3310221"
+webUrl: "https://www.ibtimes.com/singapore-patrol-robots-stoke-fears-surveillance-state-3310221"
 type: article
-quality: 59
-heat: 179
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2021/armed-with-seven-camer.jpg"
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/10/05/armed-with-seven-cameras-a-xavier-robot-in.jpg"
     width: 1024
     height: 682
     isCached: true
@@ -155,20 +153,6 @@ related:
         width: 640
         height: 362
         isCached: true
-  - title: "Why Singapore Remains One of the Best Place to Start a Fintech Business"
-    excerpt: "Singapore has consistently ranked amongst the top locations in the world to start a business, recognized by the global community for its competitive corporate tax rate, skilled workforce, advanced infrastructures,"
-    publishedDateTime: 2021-10-04T01:40:00Z
-    webUrl: "https://fintechnews.sg/55862/fintech/why-singapore-remains-one-of-the-best-place-to-start-a-fintech-business/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 39
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/09/BannerA_04.jpg?x45653"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Singapore patrol robots stoke privacy fears"
     excerpt: "Singapore has trialled patrol robots that blast warnings at people engaging in “undesirable social behavior,” adding to an arsenal of surveillance technology in the tightly controlled city-state that is fueling privacy concerns."
     publishedDateTime: 2021-10-06T16:00:00Z
@@ -207,6 +191,6 @@ related:
       domain: manilastandard.net
     quality: 19
 
-secured: "W8KEdDkipzyTWjo3GqYdLAv+Cob2q25/PWBSFfYjpkm8N3Okz4/DcKPM65sM8u+P1Pjs0kmsuCTTe4387APvB2SnWXZyFiML3ZsWWDUkD6byRHxiKIwwLJx7Rts2v/S3uvPXn0rimiI4p7y6/0tQSc1+F+IPHGn8rJhc4DLvVlE1fDeOqJCGEjNLIRoxK0o2zlroxeNEqzrTw0ZeEX8XKjxThQcT7Xk+Odwxdt4wZtYA63TAzDpURYf6lTSsXUjuzosaIPMsSwSRrUXMA9GieZcvyrzTbuOWlG2kxxaNU6RA4oF5ApYiKMHbo6ZFIhTFma4RVl+q0pRgQdxs4/iCOuLhd9lKOKGw1/ibLFYi44uBJ9+BDkfVlvg7/7T2Ga48QxvuMk9rmaPtBrnqQ4EOfyWYVFFCuZTPXy9A76qc5OB1DdivTJ8vevOBPbfeDs7jP8fSYxYz2TDxgSo94kC93/JqNmIdeCTKWXLucOBA6k09HH7COBHCHPXruVph0jIYjlbMdVG8om7XTz7QloEc3g==;dn5zCx8G/NhIxcNN1Zx/ZA=="
+secured: "g1E4GzQyWVLsrId8A4QXoSP7feQooqJ1CddkjdhAhoTTW7Kwsvwy5VNT9PyG1jMLB5y1qjq6xY4sOgEuTNyRui6hElnHrYdiqffsM1Xz8T98zohg63w/ilpbbRk6AvxsoH6wRRwTCIwbosV+HMGjWsVRGq72S7GHVllU2VgTH0ZJOsSeVA0jnZhdyUkGx0t0kpgC6FLWaZAonVDwAQbeJzB/rWlinOlN/5EqAKC9Hy3Twyb8rKi9i72UfchxFlOt1RZ6h+FMtZqV1+bECaZzGolgCk+PxNwN7DBUAk9NXm0tbeutoxFAkQRMyByeYRwqOzGRL511V5+tWyIv8psw/J1X11ybO4IxBlQo++msV20=;HpL/Pk6032eT4yiYLdIOBA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://nairametrics.com/2021/10/05/fintech-5-0-evaluating-how-first
 cdnAmpWebUrl: "https://nairametrics-com.cdn.ampproject.org/c/s/nairametrics.com/2021/10/05/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration/?amp=1"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Nairametrics
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech 5.0: Evaluating How FirstBank Strengthens Collaboration"
-    excerpt: "It was Sir Isaac Newton, in his letter to Robert Hooke in 1675, who wrote the now-famous quote: “If I have seen further (than others), it is by standing on the shoulders of giants.”"
-    publishedDateTime: 2021-10-02T19:40:00Z
-    webUrl: "https://www.herald.ng/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration-2/"
-    ampWebUrl: "https://www.herald.ng/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration-2/amp/"
-    cdnAmpWebUrl: "https://www-herald-ng.cdn.ampproject.org/c/s/www.herald.ng/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration-2/amp/"
-    type: article
-    provider:
-      name: herald.ng
-      domain: herald.ng
-    quality: 59
-    images:
-      - url: "https://i2.wp.com/www.herald.ng/wp-content/uploads/2021/10/FirstBank-HQ-image-scaled.jpg?fit=1024%2C683&ssl=1"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Coastal Community Bank Chooses Finzly's Payment Hub to Power Fintech Partners"
     excerpt: "Finzly, a fintech provider of modern banking solutions, announced today that Coastal Community Bank, a progressive community bank with assets of over $2 billion, has chosen Finzly's award-winning payment hub,"
     publishedDateTime: 2021-10-05T10:11:00Z

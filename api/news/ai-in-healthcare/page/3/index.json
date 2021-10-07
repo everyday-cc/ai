@@ -2,6 +2,86 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-06-europe-natural-language-processing-nlp-in-healthcare-market-analysis-2021-upcoming-threat-2028.md",
+      "title": "Europe Natural Language Processing (NLP) in Healthcare Market Analysis 2021 | Upcoming threat 2028",
+      "excerpt": "Natural Language Processing (NLP) in Healthcare Market Size By Regional(Europe, North America, South America, Asia Pacific, Middle East And Africa), Industry Growth Opportunity, Price Trends, Competitive Shares, Market Statistics and Forecasts 2021 - 2028 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/mediareleases/162680/europe-natural-language-processing-nlp-in/",
+      "originalUrl": "https://www.reseller.co.nz/mediareleases/162680/europe-natural-language-processing-nlp-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-05T15:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-05-the-latest-trends-in-artificial-intelligence-ai-and-machine-learning-ml.md",
+      "title": "The Latest Trends in Artificial Intelligence (AI) and Machine Learning (ML)",
+      "excerpt": "Artificial intelligence (AI) contains many subfields, including machine learning (ML), which automates analytical model building. It uses methods from neural networks, statistics, operations research and physics to find hidden insights in data without being explicitly programmed where to look or what to conclude.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/technology/the-latest-trends-in-artificial-intelligence-ai-and-machine-learning-ml",
+      "originalUrl": "https://www.bbntimes.com/technology/the-latest-trends-in-artificial-intelligence-ai-and-machine-learning-ml",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/global-economy/AI_Trends_2021-min.jpg",
+          "width": 1600,
+          "height": 1035,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-04T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-09-03-centaur-labs-gets-15-million-to-improve-data-for-healthcare-ai.md",
       "title": "Centaur Labs Gets $15 Million To Improve Data For Healthcare AI",
       "excerpt": "Centaur Labs harnesses collective human intelligence to improve the quality of medical data used by AI systems in healthcare applications.",
@@ -1315,103 +1395,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-the-ai-advantages-for-healthcare-and-finance.md",
-      "title": "The AI advantages for healthcare and finance",
-      "excerpt": "By Evan Schuman When senior executives at two of the world’s most highly-regulated verticals—healthcare and finance—explore ways of improving operations, boosting margins and delivering it all with a strong ROI,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/sponsor/beyond-limits/the-ai-advantages-for-healthcare-and-finance/",
-      "originalUrl": "https://techcrunch.com/sponsor/beyond-limits/the-ai-advantages-for-healthcare-and-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1244301434.jpg?w=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-artificial-intelligence-in-healthcare-market-by-technological-innovations-and-future-growth-2021-2027.md",
-      "title": "Artificial Intelligence in Healthcare Market by Technological Innovations and Future Growth 2021-2027",
-      "excerpt": "The Global Artificial Intelligence in Healthcare Market Research ... and others. March 2020: IBM Watson Health and EBSCO Information Services partnered to provide access to evidence-based drug ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-by-technological-innovations-and-future-growth-2021-2027",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-by-technological-innovations-and-future-growth-2021-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/08/Remembering-September-911-AFP-1K-03-1-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

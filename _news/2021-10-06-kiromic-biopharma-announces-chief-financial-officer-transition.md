@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Kiromic BioPharma Announces Chief Financial Officer Transition"
-excerpt: "Kiromic BioPharma, Inc. (NASDAQ: KRBP) (“Kiromic” or the “Company”), a pre-clinical stage biotechnology company using its proprietary DIAMOND ® artificial intelligence (A"
-publishedDateTime: 2021-10-06T09:51:00Z
-originalUrl: "https://www.financialbuzz.com/kiromic-biopharma-announces-chief-financial-officer-transition/"
-webUrl: "https://www.financialbuzz.com/kiromic-biopharma-announces-chief-financial-officer-transition/"
+excerpt: "Kiromic BioPharma, Inc. (NASDAQ: KRBP)(“Kiromic” or the “Company”), a pre-clinical stage biotechnology company using its proprietary DIAMOND ® artificial intelligence (“A.I.”) platform to improve drug discovery and development with a therapeutic focus on immune-oncology,"
+publishedDateTime: 2021-10-06T02:13:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/business-houston-df71c9531d164b1c97b989b0b0de22ed"
+webUrl: "https://apnews.com/press-release/BusinessWire/business-houston-df71c9531d164b1c97b989b0b0de22ed"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "MtqbOS2WFUboxdh2LCBpAoo1HAdme4UE/tJ9uNgaC9v/WLo+hPUy4YAk8E2gIHHSvV1LCGWC/PFfg6PUHjpB3cv4mUS0H+p0VzanTk+GZRj5l+fMhMbFlKk1fHeIFVeTGYy9gyUmiZdJG8bZuuvmgxKX3igN514rn5KC5zSHPhc3TdmshUQ7iTAZAD/pxtvw38bw4LO5tYDt2UzznzmMfCwqe81jhl5RxrXpBlwuH7BUGC23HuKh6k2HEfkE0ZsVBqb84Xs2N0+qDoaRJYop71vTu5au804iwk1Zd5RlI2lqWZJnVgCBOejHsk/ZWaSp55Bm764X0zY091kSHcRgKTJZEFaQQFqZKNnObOm+5ys=;VNBcP/eCcZFV0H3Uhoy5qg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "HXGqwzQQjF5fO7skc0j96bJQgUTLLFYciBhG9dQv83A+1+3HsA0rRhou8Po76D9UHNjaKnf2wAmuWrmwtv6lFUTtO8jInuOFTc/8LrIO///cjZUobjwTRtqZvx9ngItDzTjte7zihHIA9buvYcjYyecPCcgHwujLKDiVm64yn4nU/TNpasuRZUuNZp07/dyDY+A6XPGaar/d6rlrh4CVetRbp2/Q/Amz9+hI7VULzzQ80HorXQEXurXAPsunak3vN2/lYRxstVHO7vZyQ8xbZgiSnaPO8OPYk+8pDMu1JnNlaJFQltB7KHY4nt66bwtL4Wk3Qnl4K7yTN9dj1f/OP8ozz8vsPiGKR20dzxilIWA=;MlCh+dpRnE9hr28WU3aZ9g=="
 ---
 

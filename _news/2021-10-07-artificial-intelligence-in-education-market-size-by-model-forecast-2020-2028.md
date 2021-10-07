@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-07T08:42:00Z
 originalUrl: "https://menafn.com/1102931771/Artificial-Intelligence-in-Education-Market-Size-By-Model-Forecast-2020-2028"
 webUrl: "https://menafn.com/1102931771/Artificial-Intelligence-in-Education-Market-Size-By-Model-Forecast-2020-2028"
 type: article
-quality: 51
-heat: 101
+quality: 53
+heat: 103
 published: true
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Education
+  - AI in Healthcare
 
 images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?202236"

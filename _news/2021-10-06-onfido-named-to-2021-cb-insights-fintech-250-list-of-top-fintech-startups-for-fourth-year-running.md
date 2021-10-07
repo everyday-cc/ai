@@ -86,24 +86,6 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 4
-  - title: "Fundbox Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
-    excerpt: "CB Insights today named Fundbox to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year’s list was unveiled on stage at CB Insights’ Future of Fintech conference in New York City."
-    publishedDateTime: 2021-10-05T15:30:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8368135/fundbox-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
-  - title: "Quantexa Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
-    excerpt: "CB Insights today named Quantexa to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year's list was unveiled on stage at CB Insights' Future of Fintech conference in New York City."
-    publishedDateTime: 2021-10-05T20:30:00Z
-    webUrl: "https://www.wcax.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/"
-    type: article
-    provider:
-      name: WCAX3
-      domain: wcax.com
-    quality: 0
 
 secured: "5aXAANungvgUVcbY6Q+8x5aFUS9RuB/BcgbP/THro2Rn9fmuohj73neSqMYDC8sgJNRyS6CUqcFrYJZ5eQePnI8WVA2sFU0G1cdB8Zki2TJKOwdT1dkdaF32d85K8Yep9sQy6W2q/O1gy9SYCBpB9ySRSgKLYhqJVS2cY2zZJm7K/6hWlpjtIrzJs9v6hLEoUitKAoIZAgCI2jFzT5Ba1qmZDGSq1ijk6fS6zxBsa0N4xG832NzVqrOjKw+V3NegaD52w48tEExoLvvH86IGKLIjDKYbfYd17Z+GoiVPhNmviKIFQzy7YlfUbPMh+DtTL2w7PuDfAJWtV9ynuKDD7Wws9btz4JdeY/JSRad9kcc=;iJwAoX0/NlXFqGnZb7tQAQ=="
 ---

@@ -24,6 +24,17 @@ images:
     height: 1333
     isCached: true
 
+related:
+  - title: "GBT is Enhancing its Avant! AI Technology to Support Healthcare Advisory System"
+    excerpt: "GBT Technologies Inc. (OTC PINK: GTCH) (\"GBT”, or the “Company”), is enhancing its Avant! AI technology, while enabling a healthcare advisory system. The company is in the process of an enhancement phase to improve Avant!"
+    publishedDateTime: 2021-10-07T12:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-gbt-enhancing-its-avant-ai-technology-support-healthcare-/2021/10/07/9464802.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
+
 secured: "7npFHrdIX/k4zl9066TQ6UcMXggYJATn+FIdL4nktYBKlrfsBze1iE8B8FXUYOrs4XzDTxbSc7uITf9kvlZCqBOVr24EhCck4mIxnnMoT8+X27kTX+pHRIOE6EYG4Z+OZBbzCot+MYIbDYYSeyYzHkyUHtzFUi0xa7MlTBFsu8y4hJIpYosc09RlRoflK2kNL1j4FuBqZpfcPKzcrRxLqRQFM9UpcSW+J3H5F8i8puJ/2pmrPOPqBXuFaQYDMil/iR4VTY8r/nPbSsv1YCVl46NLRcVEiJzj2426+vnWacUlehwIEwwjbwoQTXja/P5zbRuY3zr09WbchEVBSLXIndtA6iUHBKm18O/WUhTEe3k=;Sj8e9YenZK1S/sqmN+bPmQ=="
 ---
 

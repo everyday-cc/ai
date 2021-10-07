@@ -38,6 +38,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Beverages’ Artificial Intelligence hiring levels hold steady in August – data"
+    excerpt: "The proportion of beverage manufacturing and supply companies hiring for Artificial Intelligence-related positions in August was in line with the previous month, with 30% of the companies included in GlobalData's analysis recruiting for at least one such position."
+    publishedDateTime: 2021-10-07T11:58:00Z
+    webUrl: "https://www.just-drinks.com/features/beverages-artificial-intelligence-hiring-levels-hold-steady-in-august-data/"
+    type: article
+    provider:
+      name: Drinks
+      domain: just-drinks.com
+    quality: 34
+    images:
+      - url: "https://www.just-drinks.com/wp-content/uploads/sites/36/2021/10/Artificial-Intelligence-scaled.jpg"
+        width: 2560
+        height: 1067
+        isCached: true
   - title: "Glider AI wins SIA Shark Tank’s Most Innovative Technology in the Staffing Industry for 2021."
     excerpt: "In the highly contested SIA Shark Tank competition, Glider AI took the top spot for the most innovative technology in the staffing industry. Serving full time and contingent hiring for tech and non-tech roles,"
     publishedDateTime: 2021-10-05T17:00:00Z

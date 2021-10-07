@@ -2,6 +2,254 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-06-in-memory-computing-startup-neuroblade-nabs-83m-in-funding.md",
+      "title": "In-memory computing startup NeuroBlade nabs $83M in funding",
+      "excerpt": "NeuroBlade, a startup developing in-memory computing chips and hardware appliances, has raised $83 million in venture funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/06/in-memory-computing-startup-neuroblade-nabs-83m-in-funding/",
+      "originalUrl": "https://venturebeat.com/2021/10/06/in-memory-computing-startup-neuroblade-nabs-83m-in-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Screenshot-20.png?w=566&resize=566%2C600&strip=all",
+          "width": 566,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/06/in-memory-computing-startup-neuroblade-nabs-83m-in-funding/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/06/in-memory-computing-startup-neuroblade-nabs-83m-in-funding/amp/",
+      "publishedDateTime": "2021-10-06T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-tata-power-ropes-in-ai-firm-bluwave-ai.md",
+      "title": "Tata Power ropes in AI firm BluWave-ai",
+      "excerpt": "Tata Power on Wednesday announced that it has roped in renewable energy AI (artificial intelligence) company BluWave-ai. \"Tata Power, India’s largest integrated power utility, announced that it has signed a three-year commercial agreement with BluWave-ai,",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/newsscroll/tata-power-ropes-in-ai-firm-bluwaveai/2173823",
+      "originalUrl": "https://www.outlookindia.com/newsscroll/tata-power-ropes-in-ai-firm-bluwaveai/2173823",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/tata-power-ropes-in-ai-firm-bluwaveai/2173823",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/tata-power-ropes-in-ai-firm-bluwaveai/2173823",
+      "publishedDateTime": "2021-10-06T02:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-wayve-the-lidar-free-self-driving-startup-raises-136m-from-ocado.md",
+      "title": "Wayve, the Lidar-free self-driving startup, raises $13.6M from Ocado",
+      "excerpt": "Wayve, a U.K.-based self-driving startup that is notable for its use of deep learning and cameras rather than more-costly Lidar and other sensors to guide vehicles, is gearing up for its next stage of development with a strategic backer in its pocket.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/",
+      "originalUrl": "https://techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/wayve-tech.jpg?w=1024",
+          "width": 1024,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/amp/",
+      "publishedDateTime": "2021-10-06T01:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-from-drug-design-to-distribution-this-is-how-robotics-ai-and-blockchain-transforms-pharma.md",
+      "title": "From Drug Design To Distribution: This Is How Robotics, A.I. and Blockchain Transforms Pharma",
+      "excerpt": "Exoskeletons to aid pharma factory workers. 3D printing to allow pharmacies to produce drugs on the spot. Blockchain technologies to help fight counterfeit drugs. These are just bits and pieces, but the entire process of the pharmaceutical supply chain will be affected by disruptive technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/from-drug-design-distribution-how-robotics-ai-pharma-meskó-md-phd",
+      "originalUrl": "https://www.linkedin.com/pulse/from-drug-design-distribution-how-robotics-ai-pharma-meskó-md-phd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQH7yBw6eCSWYA/article-cover_image-shrink_720_1280/0/1633506465376?e=1639008000&v=beta&t=_U-6bUqcs-f9bJe726tT0G7pyblRADpeKHyj0nIGonc",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T00:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-koreai-which-develops-workflow-automation-technologies-raises-70m.md",
+      "title": "Kore.ai, which develops workflow automation technologies, raises $70M",
+      "excerpt": "Kore.ai, a startup developing a platform for enterprise workflow automation, has raised $70 million in a venture funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/05/kore-ai-which-develops-workflow-automation-technologies-raises-70m/",
+      "originalUrl": "https://venturebeat.com/2021/10/05/kore-ai-which-develops-workflow-automation-technologies-raises-70m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1125283214-e1623872146321.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/05/kore-ai-which-develops-workflow-automation-technologies-raises-70m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/05/kore-ai-which-develops-workflow-automation-technologies-raises-70m/amp/",
+      "publishedDateTime": "2021-10-05T23:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-coe-on-artificial-intelligence-to-come-up-in-hubballi-karnataka-education-minister.md",
       "title": "CoE on Artificial Intelligence to come up in Hubballi: Karnataka education minister",
       "excerpt": "Ashwath Narayan said the government has brought effective policies to promote innovative technologies and the duration of the internship has been raised from 3 weeks to 30 weeks.",
@@ -994,229 +1242,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-55-self-driving-ai-robots-deployed-to-sort-postal-mails-in-greece.md",
-      "title": "55 self-driving AI robots deployed to sort postal mails in Greece",
-      "excerpt": "Hellenic Post in Athens, Greece, has deployed 55 small, four-wheeled autonomous mobile robots powered by artificial intelligence to sort mails at its centre. The robots scan the postal code, weigh the package and,",
-      "sourceUrl": null,
-      "webUrl": "https://inshorts.com/en/news/55-selfdriving-ai-robots-deployed-to-sort-postal-mails-in-greece-1633433596516",
-      "originalUrl": "https://inshorts.com/en/news/55-selfdriving-ai-robots-deployed-to-sort-postal-mails-in-greece-1633433596516",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/10_oct/5_tue/img_1633432635497_494.jpg?",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inshorts.com/m/en/amp_news/55-selfdriving-ai-robots-deployed-to-sort-postal-mails-in-greece-1633433596516",
-      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/55-selfdriving-ai-robots-deployed-to-sort-postal-mails-in-greece-1633433596516",
-      "publishedDateTime": "2021-10-05T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inshorts",
-        "domain": "inshorts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-artificial-intelligence-market-in-india-to-reach-78-bn-by-2025-idc.md",
-      "title": "Artificial intelligence market in India to reach $7.8 bn by 2025: IDC",
-      "excerpt": "AI software segment is expected to dominate the market and grow from USD 2.8 billion in 2020 at a CAGR of 18.1 per cent by the end of 2025, IDC said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-market-in-india-to-reach-7-8-bn-by-2025-idc/2344290/",
-      "originalUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-market-in-india-to-reach-7-8-bn-by-2025-idc/2344290/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.financialexpress.com/2021/10/Artificial-intelligence.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-market-in-india-to-reach-7-8-bn-by-2025-idc/2344290/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-market-in-india-to-reach-7-8-bn-by-2025-idc/2344290/lite/",
-      "publishedDateTime": "2021-10-05T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-nvidia-and-vmware-team-up-to-help-enterprises-scale-up-ai-development.md",
-      "title": "Nvidia and VMware team up to help enterprises scale up AI development",
-      "excerpt": "AI projects using VMware vSphere with Tanzu can now begin running trials with Nvidia AI Enterprises software suite.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nvidia-and-vmware-team-up-to-help-enterprises-scale-up-ai-development/",
-      "originalUrl": "https://www.zdnet.com/article/nvidia-and-vmware-team-up-to-help-enterprises-scale-up-ai-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/1c3ac227b0ce47b901cd7969bdb6a3035900d68e/2021/08/24/b3e8396b-756e-4968-b5ac-1fc5d9c07b53/nvidia-ai-enterprise-image.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 589,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-and-vmware-team-up-to-help-enterprises-scale-up-ai-development/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-and-vmware-team-up-to-help-enterprises-scale-up-ai-development/",
-      "publishedDateTime": "2021-10-05T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-this-is-best-practice-for-using-facial-recognition-in-law-enforcement.md",
-      "title": "This is best practice for using facial recognition in law enforcement",
-      "excerpt": "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Lofred Madzou, Project Lead, Artificial Intelligence and",
-      "sourceUrl": null,
-      "webUrl": "https://europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/",
-      "originalUrl": "https://europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://europeansting.files.wordpress.com/2021/10/face.webp",
-          "width": 687,
-          "height": 1031,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/amp/",
-      "cdnAmpWebUrl": "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/amp/",
-      "publishedDateTime": "2021-10-05T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "europeansting.com",
-        "domain": "europeansting.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-gap-inc-acquires-ai-startup-cb4-to-drive-sales.md",
-      "title": "Gap Inc. acquires AI startup CB4 to drive sales",
-      "excerpt": "Gap has acquired AI startup CB4 to improve retail operations through predictive analytics and demand sensing. “We believe artificial intelligence and machine learning will shape the future of our industry.",
-      "sourceUrl": null,
-      "webUrl": "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600",
-      "originalUrl": "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fashionunited.com/UUP2jAnSbMTf2wCkU6WZm5VCOGW7PmAHjB96odlvT0E/resize:fill:1388:781:1/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvbWFzdGVyLzIwMjEvMTAvMDUvMTIwMHB4LWdhcC1sb2dvLXN2Zy1mMHdvaDQ5aC0yMDIxLTEwLTA1LmpwZWc",
-          "width": 1388,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600",
-      "cdnAmpWebUrl": "https://fashionunited-com.cdn.ampproject.org/c/s/fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600",
-      "publishedDateTime": "2021-10-05T03:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fashionunited.com",
-        "domain": "fashionunited.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

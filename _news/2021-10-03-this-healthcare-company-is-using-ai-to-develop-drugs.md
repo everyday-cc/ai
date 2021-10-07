@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "How Artificial Intelligence is changing music"
+    excerpt: "Beethoven’s unfinished 10th symphony has just been completed, 194 years after the composer wrote it, by an Artificial Intelligence program as part of an effort at Rutgers University. This sort of development in the world of creativity is critical for two reasons."
+    publishedDateTime: 2021-10-07T12:41:00Z
+    webUrl: "https://www.thehindu.com/entertainment/music/how-artificial-intelligence-is-changing-music/article36876008.ece"
+    ampWebUrl: "https://www.thehindu.com/entertainment/music/how-artificial-intelligence-is-changing-music/article36876008.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/entertainment/music/how-artificial-intelligence-is-changing-music/article36876008.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 57
+    images:
+      - url: "https://www.thehindu.com/entertainment/music/4yoo3m/article36876007.ece/ALTERNATES/LANDSCAPE_615/08frANILSRINIVASANfr21UV8SV6CSjpg"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Top 10 companies that are using AI"
     excerpt: "If you ask about the only technology that is emerging today, that is Artificial intelligence or maybe you can say that it is one of the technologies that today’s companies are adopting it rapidly. There are many companies that are using AI."
     publishedDateTime: 2021-10-05T13:44:00Z

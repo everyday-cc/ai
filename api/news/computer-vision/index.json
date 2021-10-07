@@ -2,59 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-10-07-europe-wants-to-ban-facial-recognitiontake-note-america.md",
-      "title": "Europe Wants to Ban Facial Recognition—Take Note, America",
-      "excerpt": "On Wednesday, the European Parliament called for a moratorium on police use of the biometric tool. It'd be great if U.S. legislators did the same.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/europe-wants-to-ban-facial-recognition-take-note-ameri-1847809788",
-      "originalUrl": "https://gizmodo.com/europe-wants-to-ban-facial-recognition-take-note-ameri-1847809788",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/18feb09125fbf09b8e9d8c077cb670dd.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/europe-wants-to-ban-facial-recognition-take-note-ameri-1847809788/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/europe-wants-to-ban-facial-recognition-take-note-ameri-1847809788/amp",
-      "publishedDateTime": "2021-10-06T16:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2021-10-05-ex-uber-driver-takes-legal-action-over-racist-face-recognition-software.md",
       "title": "Ex-Uber driver takes legal action over ‘racist’ face-recognition software",
       "excerpt": "UK driver alleges his account was illegally deactivated when Uber software decided he was not who he said he was",
@@ -115,7 +62,7 @@
       "originalUrl": "https://europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1449,6 +1396,50 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-researchers-study-recurrent-neural-network-structure-in-the-brain.md",
+      "title": "Researchers study recurrent neural network structure in the brain",
+      "excerpt": "such as language translation and object recognition, by simulating the neural network in the mammalian brain. \"This paper provides a basic structure of neural networks in the mammalian brain.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-09-recurrent-neural-network-brain.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-09-recurrent-neural-network-brain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/researchers-study-recu.jpg",
+          "width": 1800,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-09-recurrent-neural-network-brain.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-recurrent-neural-network-brain.amp",
+      "publishedDateTime": "2021-09-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

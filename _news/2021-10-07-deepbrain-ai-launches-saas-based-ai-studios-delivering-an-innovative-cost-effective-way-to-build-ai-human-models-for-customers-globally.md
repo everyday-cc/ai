@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Deepbrain AI Launches Saas-based AI Studios, Delivering an Innovative, Cost-effective Way to Build AI Human Models for Customers Globally"
-excerpt: "New solution offers over 30 AI models in various languages, including English, Korean, Chinese and Japanese with additional languages to"
-publishedDateTime: 2021-10-07T11:09:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/deepbrain-ai-launches-saas-based-ai-studios-delivering-an-innovative-cost-effective-way-to-build-ai-human-models-for-customers-globally-1030849803"
-webUrl: "https://markets.businessinsider.com/news/stocks/deepbrain-ai-launches-saas-based-ai-studios-delivering-an-innovative-cost-effective-way-to-build-ai-human-models-for-customers-globally-1030849803"
+excerpt: "Deepbrain AI,?a company specializing in real-time artificial intelligence (AI) and a member of Born2Global Centre, today announced the launch of its AI Studios SaaS solution, an innovative video production tool that produces videos with AI Humans without the need to film in-person or employ real people."
+publishedDateTime: 2021-10-07T11:13:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-deepbra-ai-launches-saas-based-ai-studios-delivering-/2021/10/07/9464722.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-deepbra-ai-launches-saas-based-ai-studios-delivering-/2021/10/07/9464722.htm"
 type: article
-quality: 34
-heat: 34
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
@@ -27,6 +23,6 @@ images:
     height: 400
     isCached: true
 
-secured: "769BvK322N0+MqHXNKjnH9kCu9jBesqb00mmuQ7Pe6W6EgzX6N/kM7mJldEAAdfpbatS8Wwar741kvs39Y5EXk+gJrc+hPEjSecAW3XnPnV2cwbL85mOjDqOFQD7aFUXC8l1G+SsyDTIHRphwTw7LDtqgymE29OIW9qZtFaGEjYd4UwfVSQ3qxc58hqjkJo7pPQMOP4xKDL8rxmmNDdbOijQY8uRldjVh5s5caEaK4UiN0l9TVuMAZFMmi8zttwihNgykSkGj926gwoX3ho9MP6jEVTbQy+TaTcpqgez4wsgmDN90b6yymyz4tNbR3MmNdk9i+1IMTOwKBDLYc9oOVEMGo2QOl/SMfILP1FoDWM=;31ytUFjke+zwCSOItD3PbQ=="
+secured: "gE+ivDRQbxpPXrM/CACl17bXL1dhRR18xyw5G4kSVt8gs+H3f1ImAoC1NLdcZf5gYdUGU4IBf+FMKtC1ThWc7qW4+HG+dul4BWc8VZxJq2XNNfMWLMrrC6I6fFLOwMwchUWC7EvPJCiZ5K1jTEZNz59HIUcECF11WgOzwh/u+3PZm33XcQ7b9YOWRb3maChJwzqLQ3tzIb3zoLuAKxWspiFCPS8+UuHeOSqsVo9fMeZsnBUhEmirnLMq4daxKMZd1YTYZfjm45Up6KW1gUDGbVZg94LcEi9VNYKWPHYnxWkgUOn4ev6UfA5yVxZGm/e9cYXE0g3tQb5ZxgrBlh2jryMJhv0bqxgyqcV6X9LEIDo=;HRr41VXgkjyEWlRUxFodhw=="
 ---
 

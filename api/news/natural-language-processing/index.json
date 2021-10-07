@@ -2,59 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-10-07-europe-wants-to-ban-facial-recognitiontake-note-america.md",
-      "title": "Europe Wants to Ban Facial Recognition—Take Note, America",
-      "excerpt": "On Wednesday, the European Parliament called for a moratorium on police use of the biometric tool. It'd be great if U.S. legislators did the same.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/europe-wants-to-ban-facial-recognition-take-note-ameri-1847809788",
-      "originalUrl": "https://gizmodo.com/europe-wants-to-ban-facial-recognition-take-note-ameri-1847809788",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/18feb09125fbf09b8e9d8c077cb670dd.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/europe-wants-to-ban-facial-recognition-take-note-ameri-1847809788/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/europe-wants-to-ban-facial-recognition-take-note-ameri-1847809788/amp",
-      "publishedDateTime": "2021-10-06T16:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2021-10-06-bring-structure-to-diverse-documents-with-amazon-textract-and-transformer-based-models-on-amazon-sagemaker.md",
       "title": "Bring structure to diverse documents with Amazon Textract and transformer-based models on Amazon SageMaker",
       "excerpt": "From application forms, to identity documents, recent utility bills, and bank statements, many business processes today still rely on exchanging and analyzing human-readable documents—particularly in industries like financial services and law. In this post, we show how you can use Amazon SageMaker, an",
@@ -1432,6 +1379,49 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-18-arc-applauds-direct-support-staff-during-recognition-week.md",
+      "title": "ARC applauds direct support staff during recognition week",
+      "excerpt": "Agency works to help people with intellectual and developmental disabilities live their best lives, spokesperson Jared West says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pressrepublican.com/news/local_news/arc-applauds-direct-support-staff-during-recognition-week/article_56f6ebf5-265c-5f39-9fd8-a4271e11f388.html",
+      "originalUrl": "https://www.pressrepublican.com/news/local_news/arc-applauds-direct-support-staff-during-recognition-week/article_56f6ebf5-265c-5f39-9fd8-a4271e11f388.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/pressrepublican.com/content/tncms/assets/v3/editorial/0/90/09029313-49e7-513c-b08a-7390e4774716/614552e903754.image.jpg?resize=450%2C600",
+          "width": 450,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-17T19:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Press-Republican",
+        "domain": "pressrepublican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

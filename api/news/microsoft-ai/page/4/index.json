@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-30-microsoft-collaborates-with-invest-india-to-support-11-tech-startups.md",
+      "title": "Microsoft collaborates with Invest India to support 11 tech startups",
+      "excerpt": "As part of this collaboration, the Microsoft for Startups program will work closely with AGNIi Mission that helps startups become enterprise ready. Microsoft India announced its collaboration with Invest India, Government of India’s national investment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/microsoft-collaborates-invest-india-support-11-tech-startups/",
+      "originalUrl": "https://www.dqindia.com/microsoft-collaborates-invest-india-support-11-tech-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2017/03/IoT-startups.jpg",
+          "width": 3000,
+          "height": 3000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/microsoft-collaborates-invest-india-support-11-tech-startups/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/microsoft-collaborates-invest-india-support-11-tech-startups/amp/",
+      "publishedDateTime": "2021-08-30T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-30-nec-expanding-partnership-with-microsoft-for-digital-transformation-among-customer-base.md",
+      "title": "NEC Expanding Partnership with Microsoft for Digital Transformation Among Customer Base",
+      "excerpt": "NEC is expanding its partnership with Microsoft to help enterprises accelerate their cloud adoptions and digital transformations:",
+      "sourceUrl": null,
+      "webUrl": "https://www.datamation.com/cloud/nec-expanding-partnership-microsoft-digital-transformation-among-customer-base/",
+      "originalUrl": "https://www.datamation.com/cloud/nec-expanding-partnership-microsoft-digital-transformation-among-customer-base/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datamation.com/wp-content/uploads/2020/10/Azure.png",
+          "width": 519,
+          "height": 387,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-30T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-28-celebrity-spotting-amazon-improves-facial-recognition-for-famous-people.md",
       "title": "Celebrity spotting: Amazon improves facial recognition for famous people",
       "excerpt": "The service caters to media companies, and AWS says that Rekognition now \"automatically recognizes tens of thousands of well-known personalities in images and videos using machine learning (ML ... include Microsoft's Azure Face and Google's Cloud ...",
@@ -1256,93 +1342,6 @@
       "provider": {
         "name": "Financial Buzz",
         "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-solve-your-toughest-business-problems-with-ai-and-machine-learning.md",
-      "title": "Solve your toughest business problems with AI and machine learning ",
-      "excerpt": "Today, AI and machine learning are enabling data-driven organizations to accelerate their journey to insights and decisions. With all the latest advancements, AI is no longer limited to only those with deep expertise or a cache of data scientists, and many organizations can now adopt AI and machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/solve-your-toughest-business-problems-with-ai-and-machine-learning/",
-      "originalUrl": "https://azure.microsoft.com/blog/solve-your-toughest-business-problems-with-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T03:00:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-medius-squashes-invoice-lead-times-with-efficient-ai-tech.md",
-      "title": "Medius squashes invoice lead times with efficient AI tech",
-      "excerpt": "Utilizing Microsoft Azure Machine Learning and Artificial Intelligence (AI), with a user-friendly interface, Medius has developed an e-invoicing solution that captures and converts data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/08/n22528768/medius-squashes-invoice-lead-times-with-efficient-ai-tech",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/n22528768/medius-squashes-invoice-lead-times-with-efficient-ai-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22528768",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22528768",
-      "publishedDateTime": "2021-08-17T00:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

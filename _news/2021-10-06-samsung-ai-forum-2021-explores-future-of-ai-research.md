@@ -32,20 +32,6 @@ related:
         width: 500
         height: 329
         isCached: true
-  - title: "VUNO Signs Another Deal with Samsung Electronics to Incorporate AI-assisted Solutions into Samsung's Premium Ceiling Type Digital Radiography System"
-    excerpt: "South Korean artificial intelligence (AI) developer, VUNO Inc., announced today that the company closed a deal with global medical device manufacturer, Samsung Electronics Co., Ltd., to embed VUNO's artificial intelligence-driven chest X-ray diagnostic solution,"
-    publishedDateTime: 2021-10-05T13:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/vuno-signs-another-deal-with-samsung-electronics-to-incorporate-ai-assisted-solutions-into-samsung-s-premium-ceiling-type-digital-radiography-system-1030843899"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
-    images:
-      - url: "https://mma.prnewswire.com/media/1652810/VUNO_Med__Chest_X_ray____GC85A.jpg"
-        width: 735
-        height: 400
-        isCached: true
 
 secured: "GGVzLB9ou7ZZxyQtBInQYbKA/1xuxhYgwbz2Bfkx2j4lOd5vdjoExb4eWjqukfBZaYnPgMgHLTtKW1ev3AYLVb3VLvovhk1vVMD1jeocJ4a9p2ht6LPwvJcgQdqaUA7BODDcHsak14UOc/Az6u946bEaM8x0gHXeKSFFbU+fEZ403jdAcAEu4qtf+iuaCUpEOAQcQdRMo7KTNFj/VZg38Ruvzt8qOYcKryaufEom/8cwspvqsC2ja8tBDTB+PsMr2pg3F7bzCwuAMmZvTqqFIOLRERykrzaRZHnDV0hn+mgg2SLf3L7VUYAnc91Ma4mcTO4s6loS33nHTidmzNn28W6F5NudUu6HF40M8AnkqM4=;cK43NxjBtn6dRpZMPqvQ9A=="
 ---

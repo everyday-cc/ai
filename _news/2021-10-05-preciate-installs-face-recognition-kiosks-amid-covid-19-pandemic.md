@@ -7,7 +7,7 @@ originalUrl: "https://www.pharmaceutical-technology.com/research-reports/preciat
 webUrl: "https://www.pharmaceutical-technology.com/research-reports/preciate-installs-face-recognition-kiosks-amid-covid-19-pandemic/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 500
     height: 284
     isCached: true
+
+related:
+  - title: "The Pandemic is Testing the Limits of Face Recognition"
+    excerpt: "Government use of face ID systems exploded during the pandemic—but tying it to critical services has left some people locked out at the moment they needed help the most. At first glance, JB, an artist based in Los Angeles,"
+    publishedDateTime: 2021-10-07T12:16:00Z
+    webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/the-pandemic-is-testing-the-limits-of-face-recognition/12291/"
+    type: article
+    provider:
+      name: Predictive Analytics World
+      domain: predictiveanalyticsworld.com
+    quality: 39
+    images:
+      - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2021/09/270x270-Coursera-Banner-1.jpg"
+        width: 270
+        height: 270
+        isCached: true
 
 secured: "VWsMPTLKRz7ROrPbx+1y7KkL8X0JO16o7ITqYypV3rBLdhOZkj26fYHEOByWVW7lgdnaF6dJ2z92roWbQYjU5RRiCBZS2KfkNSVbYBh4vVHCdsO35KKSlrIYTsrx1cKtYj9GJLsR/8vb9HPDHa3txNSowERuKzPhj7c+6FGgqUn+mamOV/7748Rn5h+B4X6FVAOE0wW+n2E7dOg0QpT4irUXpVKzqLF6xRv71YK2rjfgHGEK1RLvmHOMPbv61UIfzxgbLSKcWOUiEGy34+0yz426ooeKlChkiwbQEIWfB3UGinH18gVAsaDLSsqkx1SFKlu8ZO6QHUMUETY3rstyrUgTOcF8m9nIEM34imEGLw2P0vOz4DXjKXewbP9gUBZr/k8YRUDkFBnECdFXhX8bLAO+704iJLJbKh+0mhpsypVOLpdF5Wy66hNTeKER56iMG+d6OGRwL31tjEGaHvUEdFdegT694W9PZWfpWMB5yP22m74li3gz3anSkSQjmkfZfEAUIW3w76Motc/4AYPmGA==;Td+KJL4eDYkG6tvsCdkexA=="
 ---

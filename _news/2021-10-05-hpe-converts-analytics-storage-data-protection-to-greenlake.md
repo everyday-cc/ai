@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Databricks Boosts No-Code Data Analytics, AI Capabilities With Acquisition"
+    excerpt: "Databricks has acquired 8080 Labs and its Bamboolib data science tool to bolster the Databricks data engineering, data analytics and AI product portfolio."
+    publishedDateTime: 2021-10-06T16:32:00Z
+    webUrl: "https://www.crn.com/news/applications-os/databricks-boosts-no-code-data-analytics-ai-capabilities-with-acquisition"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 135
+    images:
+      - url: "https://www.crn.com/resources/0267-11c406e87512-5307b1958bda-1000/123200924.jpeg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "How to get AI analytics right"
     excerpt: "While there is plenty of anecdotal evidence about how AI will improve analytics, there isn't as much discussion about implementation."
     publishedDateTime: 2021-10-04T12:32:00Z
@@ -43,6 +57,33 @@ related:
         width: 1200
         height: 598
         isCached: true
+  - title: "Databricks acquires bamboolib creator 8080 Labs"
+    excerpt: "Databricks has acquired 8080 Labs, creator of bamboolib, for an undisclosed sum. Bamboolib is a popular UI-based data exploration and transformation tool. The flagship data science solution also facilitates no-code workflows that seamlessly synchronize with the Python ecosystem."
+    publishedDateTime: 2021-10-06T17:08:00Z
+    webUrl: "https://www.itpro.co.uk/business-strategy/acquisition/361140/databricks-acquires-bamboolib-creator-8080-labs"
+    ampWebUrl: "https://www.itpro.co.uk/business-strategy/acquisition/361140/databricks-acquires-bamboolib-creator-8080-labs?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/acquisition/361140/databricks-acquires-bamboolib-creator-8080-labs?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 74
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816297/itpro/2017/02/big_databigstock.jpg"
+        width: 1260
+        height: 710
+        isCached: true
+  - title: "Databricks, Qlik, Nvidia show AI is heating up"
+    excerpt: "Databricks is announcing its acquisition of 8080 Labs today. This follows Qlik's announcement last week that it's buying Big Squid, and Domino Data lab's announcement yesterday of a $100M Series F funding round,"
+    publishedDateTime: 2021-10-06T13:00:00Z
+    webUrl: "https://www.zdnet.com/article/databricks-qlik-nvidia-show-ai-is-heating-up/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/databricks-qlik-nvidia-show-ai-is-heating-up/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/databricks-qlik-nvidia-show-ai-is-heating-up/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 71
   - title: "Gap Inc. acquires AI startup CB4 for better retail analytics"
     excerpt: "The startup examines point-of-sale (POS) data to uncover consumer demand patterns and identify stores that should be selling more of a specific item."
     publishedDateTime: 2021-10-04T18:28:00Z
@@ -76,34 +117,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Code_data.jpg"
         width: 690
         height: 400
-        isCached: true
-  - title: "NeuroBladers build a processing-in-memory analytics chip and server"
-    excerpt: "An Israeli startup called NeuroBlade has exited stealth mode, built a processing-in-memory (PIM) analytics chip combining DRAM and thousands of cores, put four of them in an analytics accelerating server appliance box,"
-    publishedDateTime: 2021-10-06T11:06:00Z
-    webUrl: "https://blocksandfiles.com/2021/10/06/neurobladers-build-a-processing-in-memory-analytics-chip-and-server/"
-    type: article
-    provider:
-      name: blocksandfiles
-      domain: blocksandfiles.com
-    quality: 39
-    images:
-      - url: "https://blocksandfiles.com/wp-content/uploads/2021/10/NeuroBlade-Xiphos.jpg"
-        width: 950
-        height: 390
-        isCached: true
-  - title: "Vilnius-based speech analytics Oxus.AI raises pre-seed round"
-    excerpt: "Vilnius-based Oxus.AI, a startup aiming to bring the advantages of speech analytics to sales teams working in any language in the world, has raised €800K. The pre-seed round saw participation from 70V,"
-    publishedDateTime: 2021-10-06T11:00:00Z
-    webUrl: "https://arcticstartup.com/vilnius-based-speech-analytics-oxus-ai-raises-pre-seed-round/"
-    type: article
-    provider:
-      name: ArcticStartup
-      domain: arcticstartup.com
-    quality: 39
-    images:
-      - url: "https://arcticstartup.com/wp-content/uploads/2021/10/swg-batch-fullsize-43-scaled.jpg"
-        width: 2560
-        height: 1707
         isCached: true
   - title: "Analytics Insight describes top artificial intelligence stocks to buy in October"
     excerpt: "This article features the top artificial intelligence stocks to buy in October 2021 from reputed tech companies. Buying AI stocks in October will provide higher revenue through AI model by harnessing artificial intelligence."

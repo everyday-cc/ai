@@ -71,20 +71,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "From Tesla to even Cabrini, artificial intelligence is the future"
-    excerpt: "It’s been about a month since Tesla unveiled their version of a humanoid robot at their press event, Tesla AI Day. Elon Musk displayed the image of the 5’8”, 125 pound prototype that is designed to “eliminate boring,"
-    publishedDateTime: 2021-10-02T19:39:00Z
-    webUrl: "https://www.theloquitur.com/from-tesla-to-even-cabrini-artificial-intelligence-is-the-future/"
-    type: article
-    provider:
-      name: Theloquitur.com
-      domain: theloquitur.com
-    quality: 56
-    images:
-      - url: "https://www.theloquitur.com/wp-content/uploads/2021/09/IMG-0266-400x404.jpg"
-        width: 400
-        height: 404
-        isCached: true
   - title: "The Facebook whistleblower says its algorithms are dangerous. Here’s why."
     excerpt: "Frances Haugen’s testimony at the Senate hearing today raised serious questions about how Facebook’s algorithms work—and echoes many findings from our previous investigation."
     publishedDateTime: 2021-10-05T20:16:00Z

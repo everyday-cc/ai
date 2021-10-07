@@ -26,31 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "How Real Estate Investors Can Use Artificial Intelligence"
-    excerpt: "Determining which markets will perform and continue to be strong is complex, but the data provided by AI and ML technology makes the process significantly more reliable."
-    publishedDateTime: 2021-10-04T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbizcouncil/2021/10/04/how-real-estate-investors-can-use-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbizcouncil/2021/10/04/how-real-estate-investors-can-use-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbizcouncil/2021/10/04/how-real-estate-investors-can-use-artificial-intelligence/amp/"
+  - title: "Senate Bill Would Require New Metrics to Fuse Artificial Intelligence Across the U.S. Defense Landscape"
+    excerpt: "S.D., recently introduced legislation that would require the Defense Department to institute performance objectives and metrics to incorporate artificial intelligence and digital readiness across all of its platforms,"
+    publishedDateTime: 2021-10-06T14:00:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/10/senate-bill-would-require-new-metrics-fuse-artificial-intelligence-across-us-defense-landscape/185874/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Nextgov
+      domain: nextgov.com
+    quality: 123
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aebd253bb898555bf94d92%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/10/05/AP21271558857270_1/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Investment Banks to Increase AI in Trading"
-    excerpt: "Investment banks are looking to increase the of artificial intelligence and machine learning in pricing models, and see these technologies as improving client output as well as providing operating efficiency."
-    publishedDateTime: 2021-10-05T04:15:00Z
-    webUrl: "https://www.tradersmagazine.com/xtra/investment-banks-to-increase-ai-in-trading/"
-    type: article
-    provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 17
 
 secured: "WLpC9DzYl3jBFiVudtUJRcBidzQs/AXsSaW0ijTtsXUabYwgpsN/hyoSC0ScyfaM2DOkXW9pLtBosF4WywQuWsJ3VZbkq6tS2FakG2snpv+jkAQ4cSAp2u0OftPZeTRB5eWEdf4ZjWcEcG3xmu/sBaPiKh0OtO/iiqfZfaFg01X1dalZsLQbjauj4NHAulO9zZPhQtn229YXrflu5vP3KWSzj+/ihWa6JfYU0UBEsKC5O4WocJQFB43wLSCKXbBMCXhxIG9Q/zOBDsfMXY1jbHONorknMArLlB/i/GCXkWFlriWyiq/3AFjNo3Kq/Wji/44+05+9veYq8DnzsOvfHGsSTytkt6glvtxvEzBhl92nHOX33ZL4NotFajak5/HOCBaeNrZMQexUt5U4l0coIpcTnJjdwtah+lG3rEZnh22bVoevXoXCD194cNZjZOrjiDQQZvBJHZM9FEvv12uAKrylfBTK3Ht+BFycpFMmVENZ941KVcqsAWT7ik0MkSeblkEotXAJ6+ukPIjvCI6kPg==;7Tb5dOuf6wWqmWdwdWF11A=="
 ---

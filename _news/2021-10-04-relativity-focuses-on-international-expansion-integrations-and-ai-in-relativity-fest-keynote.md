@@ -40,6 +40,20 @@ related:
         width: 715
         height: 1001
         isCached: true
+  - title: "Dialpad Supports the Next Generation of Artificial Intelligence Startups as National AI Showcase Sponsor"
+    excerpt: "Dialpad Inc., the industry leader in AI-powered communication and collaboration, today announced its official sponsorship of National AI Showcase, an online pitch competition for startups across Canada."
+    publishedDateTime: 2021-10-07T13:16:00Z
+    webUrl: "https://www.lelezard.com/en/news-20035852.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 37
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "PMkDAO1FfL4k4PK/sFoNVlX/gZ+gY0VGIx44HTarJEeXoDdEXJfzm936ebXHZ7UDqxBHBLqWMKgBByhHWCAmXDKK7Q3m42MxH55juQ+lrTvbBOiJv8Dl/PyvvD4INABetEx4uU3MNYMXZOgQqYT32CwR5Th+KoTJPuf7bUMFF+R19MuYK7zXy3c0KrE1QDF11NKL+I74HqGeCURbux5LU+qwd/eI+Yn2uFWMobRH0KaewTomPA19JDzLxiWwHMb4H9r16ZKpF89yDM8/hP4z6V3XUQff5dvEQ5hBGjEn7wTFTL/gbobs/BhwXOmk8EMgFo3/5D0uQp4G62zNp4QTLTd6FZwhFPF+PNtPjPeuSEl6r0nKq4rciqyqRVcfWZmqUrS4L4g++KjPcjI9E59i3lpu4oQZXH3QffHXnn1p/90CrZNOmUoOMYXRpwVcPjtw8B6dok5xjIPtK9TmmNYBXXw+EtG1byceTbbyM0MzAzCvbtu3k3tVGWebWCpX/2P69cepNzQQe6LjyBQr/nJTgw==;hT9hmVNQBWITlsEzCrr4+g=="
 ---
