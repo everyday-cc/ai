@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/horizon3-ai-named-
 webUrl: "https://markets.businessinsider.com/news/stocks/horizon3-ai-named-a-winner-of-the-pitch-2021-by-constellation-research-1030844893"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Business Insider
@@ -26,6 +26,17 @@ images:
     width: 711
     height: 400
     isCached: true
+
+related:
+  - title: "Deepcell Wins MICCAI 2021 Startup Village Pitch Competition for Advancing Cell Imaging Through AI"
+    excerpt: "Deepcell, a life science company pioneering AI-powered cell classification and isolation for cell biology and translational research, today announced that the company was awarded the 2021 Startup Village Award from the prestigious MICCAI Society at the 24 th Annual International Conference on Medical Image Computing & Computer Assisted Intervention."
+    publishedDateTime: 2021-10-07T14:01:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211007005380/en/Deepcell-Wins-MICCAI-2021-Startup-Village-Pitch-Competition-for-Advancing-Cell-Imaging-Through-AI"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 4
 
 secured: "MKxrNvfF9WBm69oNBIfWIH+mk/w71MChi0q77uhGxqXafmToNtgzapeL77beeB242rlLf2aDNokDuFNI67E9X5s5mCnQEfKmRQ6mAxeccqyxVlzEPzAeqLPtPusq4+vH/AEOSWhdtrT05j+QVfAvdIh8DbG1ldNzZc+5Orf2fgq+6L9arZzCwOXLa0a+TbgRLLxXGE8qWzEi31G+0KVIGNUduaqE1KZaVoaU7szcCGSMupexWtlpxjIDL2X2e+g3lGO2aCiFe4NNCs2k3DAhEMY9bTJbZPpYVHGqF1AKqcOwiRhds7O+Hc97FdmWRSJCXwBM7p0T3RvpAgbOLtsBolOvDHZxV9fCvx11wsXDNmgndrqtLSafWv8cZEUAEahB8A2uwgbYyZNTpNx2FirtnmNG6CG7a81epPKm+27mAwCME8lyW82zeWj4p4go96XgbtXbDCjoHv8GBXvGhjI4q9gto+ssEOv8CAFaT3ex3CRWtnpbtN/R/z5v5S/MPfyGyo0EV2kln91DS+gouly7wg==;q/1URexdVUaXdHDhCz0zFQ=="
 ---

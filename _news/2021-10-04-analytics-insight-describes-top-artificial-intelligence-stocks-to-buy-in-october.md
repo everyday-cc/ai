@@ -132,6 +132,20 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Level Agency Welcomes New Vice President of Enterprise Data and Analytics"
+    excerpt: "Level Agency, one of Pittsburgh's leading digital marketing agencies, has announced the addition of Eric Liu, Ph.D., MBA. Liu will serve as a member of the agency's Executive Team in the role of Vice President of Enterprise Data and Analytics."
+    publishedDateTime: 2021-10-07T15:42:00Z
+    webUrl: "https://www.lelezard.com/en/news-20036302.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 23
+    images:
+      - url: "https://mma.prnewswire.com/media/1654049/Eric_Liu.jpg"
+        width: 299
+        height: 400
+        isCached: true
   - title: "Google Analytics 4 updates include data-driven attribution, machine learning models to fill in measurement gaps and a Search Console integration"
     excerpt: "Google hasn’t said when it will deprecate Universal Analytics, but the updates and language in the announcement suggest that search marketers should prepare for the change."
     publishedDateTime: 2021-10-05T20:00:00Z

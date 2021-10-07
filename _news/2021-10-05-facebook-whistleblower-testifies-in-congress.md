@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/business/live-news/facebook-senate-hearing-1
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/business/live-news/facebook-senate-hearing-10-05-21/index.html"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1235713956.jpg?w=1024"
         width: 1024
         height: 575
+        isCached: true
+  - title: "RAADR, Inc. Applauds Facebook Whistleblower Francis Haugen For Her Congressional Testimony"
+    excerpt: "RAADR, Inc. (OTC PINK: RDAR), a technology and software development company that monitors cyber-bullying and social media platforms with artificial intelligence announced today that it applauds and unequivocally endorses the testimony of SEC Whistleblower Francis Haugen in a hearing in front of the Subcommittee on Consumer Protection,"
+    publishedDateTime: 2021-10-06T12:58:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-lifestyle-media-product-safety-bdb544c48c84d057212da43cda9d3a95"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "In Scathing Senate Testimony, Whistleblower Warns Facebook a Threat to Children and Democracy"
     excerpt: "\"I'm here today because I believe Facebook's products harm children, stoke division, and weaken our democracy,\" whistleblower Frances Haugen tells U.S. senators."

@@ -70,6 +70,20 @@ related:
         width: 1242
         height: 631
         isCached: true
+  - title: "Here is an overview of how NVIDIA is using technology to meet the demands of AI workloads"
+    excerpt: "NVIDIA has evolved the GPU into a full-stack accelerated computing platform designed to meet the demands of machine learning and artificial intelligence workloads. At the exciting intersection of virtual reality,"
+    publishedDateTime: 2021-10-07T14:30:00Z
+    webUrl: "https://www.analyticsinsight.net/nvidia-strategically-meeting-demands-of-artificial-intelligence-workloads/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 30
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/NVIDIA-Strategically-Meeting-Demands-of-Artificial-Intelligence-Workloads.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "Vlm0FcHGjCTEvVhR4fJpqUiaMyvmyw8JZU4yt+LHtUBEye04jimVLwiWg2HArZo2Z9vvt7fyiRf26hBsKWWzt83ZgYTzsOurLv4JjMMG5lXeszs/ZpYmzaLk7tKVtFjCucPKVOjHSlj0TkzFAcMxCrHM5jfciED6zNfkNkvUIyktNiRl680m9NyM+Cgho1mlc9YNXhs/W8lXTTCr4Hty0BM6BtC951sv0qA6bqwZotdJfxt+MwRg5RUMKKq1yUHsfIOzrw55AAMhHh1H4DZju0s+bX7bo3FvgHEo8NNNZZSeLRiPZ6tUiHGFxcWHoB2xsP2ALOtBO43fzE3zY2lHOoVAHV2lKMwizNn7/Yrs4Ks=;WngG7QUQ4/M8jRte7x1Z/A=="
 ---

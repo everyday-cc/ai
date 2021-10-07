@@ -9,8 +9,8 @@ ampWebUrl: "https://newatlas.com/automotive/gm-ultra-cruise/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/gm-ultra-cruise/?amp=true"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: New Atlas
@@ -31,69 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "GM reveals Ultra Cruise, a proper Tesla Full Self-Driving beta rival"
-    excerpt: "Super Cruise will handle hands-free highway driving; Ultra Cruise, GM promises, will be onboard to tackle hands-free driving in 95% of all scenarios."
-    publishedDateTime: 2021-10-06T16:58:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/gm-ultra-cruise-tesla-full-self-driving-beta-rival/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/gm-ultra-cruise-tesla-full-self-driving-beta-rival/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/gm-ultra-cruise-tesla-full-self-driving-beta-rival/"
+  - title: "GM's self-driving subsidiary Cruise aims for fleet of 1M vehicles by 2030"
+    excerpt: "General Motors subsidiary Cruise is scaling up operations, with a goal of at least 1 million self-driving vehicles in its ride-sharing fleet by 2030."
+    publishedDateTime: 2021-10-07T14:55:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/10/07/Cruise-self-driving-vehicles/1251633613853/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/10/07/Cruise-self-driving-vehicles/1251633613853/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/10/07/Cruise-self-driving-vehicles/1251633613853/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/HVaaHhjDY5Cu1wSngHfxbRUraKg=/2021/10/06/3836995a-9a1e-4556-896a-24436729ed73/ogi-gm.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Want To Join The Tesla Full Self Driving Beta? You’ll Have To Prove You’re A Good Driver First"
-    excerpt: "Advertisement If you’re willing to risk your life for the self-driving gimmick, here’s what you can do to join Tesla’s FSD beta… According to InsideEVs, Tesla is finally releasing its Full Self Driving (FSD) Beta button."
-    publishedDateTime: 2021-10-05T07:56:00Z
-    webUrl: "https://wonderfulengineering.com/want-to-join-the-tesla-full-self-driving-beta-youll-have-to-prove-youre-a-good-driver-first/"
-    ampWebUrl: "https://wonderfulengineering.com/want-to-join-the-tesla-full-self-driving-beta-youll-have-to-prove-youre-a-good-driver-first/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/want-to-join-the-tesla-full-self-driving-beta-youll-have-to-prove-youre-a-good-driver-first/amp/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 62
-    images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/10/0_1lQIq4qEfeHQLgMm.jpg"
-        width: 1004
-        height: 555
-        isCached: true
-  - title: "Tesla gears up to launch self-driving software but with a catch"
-    excerpt: "Tesla will monitor driving behaviors before allowing owners to take advantage of its Full Self-Driving software."
-    publishedDateTime: 2021-10-05T10:03:00Z
-    webUrl: "https://www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/"
-    ampWebUrl: "https://www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/?amp=1"
-    cdnAmpWebUrl: "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/?amp=1"
-    type: article
-    provider:
-      name: PropertyCasualty360
-      domain: propertycasualty360.com
-    quality: 59
-    images:
-      - url: "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2021/09/Tesla-autopilot.jpg-image620x372.jpg"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Tesla’s Approach to Self-Driving Cars Could Cause Problems Down the Road"
-    excerpt: "The car maker is betting that it can develop self driving cars with only optical cameras, while other car makers believe multiple sensors will be required."
-    publishedDateTime: 2021-10-06T11:56:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-self-driving-51633520175"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-self-driving-51633520175"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-self-driving-51633520175"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
+      name: UPI.com
+      domain: upi.com
     quality: 58
     images:
-      - url: "https://images.barrons.com/im-411554/social"
-        width: 1280
-        height: 640
+      - url: "https://cdnph.upi.com/sv/ph/og/i/1251633613853/2021/1/16336147327899/v1.5/GMs-self-driving-subsidiary-Cruise-aims-for-fleet-of-1M-vehicles-by-2030.jpg"
+        width: 563
+        height: 377
         isCached: true
   - title: "General Motors unveils Ultra Cruise self driving tech"
     excerpt: "General Motors has unveiled Ultra Cruise, a new, advanced driver assistance technology which, it said, is a significant next step...Read"
@@ -109,19 +61,19 @@ related:
         width: 682
         height: 383
         isCached: true
-  - title: "GM’s Ultra Cruise Will Leapfrog Tesla Autopilot, Offer Full Hands-Free Driving Virtually Everywhere"
-    excerpt: "GM aims to take the lead in the race to develop autonomous driving with the new Ultra Cruise system. Set to debut in 2023 it will allow hands-free operation on 2 million miles of road - and that will grow to 3."
-    publishedDateTime: 2021-10-06T22:26:00Z
-    webUrl: "https://www.thedetroitbureau.com/2021/10/gms-ultra-cruise-will-leapfrog-tesla-autopilot-offer-full-hands-free-driving-virtually-everywhere/"
+  - title: "Tower Says New Tech A Boon For Self-Driving Cars"
+    excerpt: "Chipmaker Tower Semiconductor, with much of its domestic operations in Newport Beach, says it has helped to develop a new technology that will speed up the introduction of self-driving cars, while also finding future applications in robots and industrial production."
+    publishedDateTime: 2021-10-04T17:06:00Z
+    webUrl: "https://www.ocbj.com/news/2021/oct/04/tower-says-new-tech-boon-self-driving-cars/"
     type: article
     provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 25
+      name: Orange County Business Journal
+      domain: ocbj.com
+    quality: 24
     images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/10/GM-Ultra-Cruise-graphic-1.jpg"
-        width: 1600
-        height: 900
+      - url: "https://ocbj.media.clients.ellingtoncms.com/static-3-jet/zzz_static/ocbj/img/lock.png"
+        width: 256
+        height: 256
         isCached: true
   - title: "GM reveals Ultra Cruise, a more advanced semi-self-driving system"
     excerpt: "General Motors has shown off some aspects of its new upgraded semi-autonomous driving system called Ultra Cruise. The system promises to be a huge leap over GM’s current hands-free driver assistance program Super Cruise."

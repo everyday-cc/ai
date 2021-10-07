@@ -57,6 +57,20 @@ related:
         width: 1024
         height: 575
         isCached: true
+  - title: "RAADR, Inc. Applauds Facebook Whistleblower Francis Haugen For Her Congressional Testimony"
+    excerpt: "RAADR, Inc. (OTC PINK: RDAR), a technology and software development company that monitors cyber-bullying and social media platforms with artificial intelligence announced today that it applauds and unequivocally endorses the testimony of SEC Whistleblower Francis Haugen in a hearing in front of the Subcommittee on Consumer Protection,"
+    publishedDateTime: 2021-10-06T12:58:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-lifestyle-media-product-safety-bdb544c48c84d057212da43cda9d3a95"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "dkLS1l6r+QukwVszMviQCKp9N9o5D7k9K8q+O6ifyi3WmHNvxLi5PHEbfUcTUXFCBhvEAN1nDEVgMH352h55uHO7tCykmeEwSI/ZIDInafea0iu6Jk0x8QClLkiLY15f5KRyzIHlmfhJBFoLCj3aerZVIO21xCKWWcF2QX49LA8beyZX83iMRdAQHfBJ3usVY0egH9UuEMr9BWp72jX7NivO6MFQxOkwrxgPnaIlRjStb6wu5OpfGr0QHBgUB/EaakznaHfLty7WeeTkufW53TdW9lihsLZb/bgpZ3ym/IiulJEgbllwFDW9CAe9um3lPlxwD0R1ewnlxBK2WtjkLcvIomwR6YPs4TZiF7okY+M=;4tgu3XcQ9cebyDjZDRIqCg=="
 ---

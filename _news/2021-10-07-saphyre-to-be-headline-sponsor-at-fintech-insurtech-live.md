@@ -53,6 +53,20 @@ related:
         width: 2048
         height: 1136
         isCached: true
+  - title: "Stampli Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
+    excerpt: "CB Insights today named Stampli to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year's list was unveiled on stage at CB Insights' Future of Fintech conference"
+    publishedDateTime: 2021-10-07T14:26:00Z
+    webUrl: "https://www.lelezard.com/en/news-20036194.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 20
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Fundbox Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
     excerpt: "CB Insights today named Fundbox to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year’s list was unveiled on stage at CB Insights’ Future of Fintech conference in New York City."
     publishedDateTime: 2021-10-05T15:30:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-self-driving-truc
 webUrl: "https://www.marketwatch.com/press-release/global-self-driving-truck-technology-market-2021-industrial-chain-regional-market-scope-key-players-profiles-and-sales-data-to-2027-2021-10-05"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Emotion Detection and Recognition Markets by Solution, Application, Technology, & End-User - Global Forecast to 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"Emotion Detection and Recognition Market 2021-2027\" report has been added to ResearchAndMarkets.com's offering. The Emotion Detection and Recognition Market is anticipated to grow at the rate of 11."
+    publishedDateTime: 2021-10-07T15:25:00Z
+    webUrl: "https://www.lelezard.com/en/news-20036338.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 0
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "RdAaVJHsjH0+7Ybhnqz6Ol9ayoYnebX88CMMqoXiFF69y46sFmNZRJuIQwVxAe0GMf6q1c/nyOcsMQz2tJbD3vZCh4f05oYmhWIbJ7tYQDdL1egup8MpudqVUCexSxEOQFRkr0w88Sqq6SyajkOY+ax3qKSHFIzg25ucYU2J/1zNUp7iSjOOCpl+cofbTe8Jn8pHG0w3LJAb5G+ZyTQPq+7OkRFc5+Ys8dVHfRi+IWvHhChQCYsVi0caWoW/J4Q+oi0PIGxlobOB4bMSB2q9YKdETl9R0t/PL5/tw1Zz/TC8JuvVUm7nVkXObh3L+LolrxXy1B1Jsk8UbywahkO1+JNoY4D1vmT8gKIfmZXLneo=;DXdKRqh3SRRM2aNaL547PA=="
 ---

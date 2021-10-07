@@ -148,6 +148,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Level Agency Welcomes New Vice President of Enterprise Data and Analytics"
+    excerpt: "Level Agency, one of Pittsburgh's leading digital marketing agencies, has announced the addition of Eric Liu, Ph.D., MBA. Liu will serve as a member of the agency's Executive Team in the role of Vice President of Enterprise Data and Analytics."
+    publishedDateTime: 2021-10-07T15:42:00Z
+    webUrl: "https://www.lelezard.com/en/news-20036302.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 23
+    images:
+      - url: "https://mma.prnewswire.com/media/1654049/Eric_Liu.jpg"
+        width: 299
+        height: 400
+        isCached: true
   - title: "getWizer Announces Partnership with Leading Text Analytics Platform, Canvs AI"
     excerpt: "The addition of Canvs AI's automated deep text analysis within getWizer's end-to-end consumer insights platform will help expose new insights previously hidden in large amounts of open-ended text-based questions collected from Qual and Quant surveys."
     publishedDateTime: 2021-10-05T13:29:00Z
