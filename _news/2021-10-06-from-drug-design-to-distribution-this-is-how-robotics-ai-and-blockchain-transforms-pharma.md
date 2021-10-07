@@ -7,8 +7,8 @@ originalUrl: "https://www.linkedin.com/pulse/from-drug-design-distribution-how-r
 webUrl: "https://www.linkedin.com/pulse/from-drug-design-distribution-how-robotics-ai-pharma-meskó-md-phd"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: LinkedIn
@@ -43,15 +43,6 @@ related:
         width: 728
         height: 300
         isCached: true
-  - title: "Empowering Smart Computing Paradigm: Transformative integration of Edge of Things, AI and Blockchain"
-    excerpt: "The emerging computing paradigm named Edge of Things (EoT) have made their entrances into many areas, such as smart city, healthcare, academics, intelligent transportation, energy consumption, Internet of Drones,"
-    publishedDateTime: 2021-10-03T00:11:00Z
-    webUrl: "https://www.frontiersin.org/research-topics/26673/empowering-smart-computing-paradigm-transformative-integration-of-edge-of-things-ai-and-blockchain"
-    type: article
-    provider:
-      name: Frontiers
-      domain: frontiersin.org
-    quality: 2
 
 secured: "TYLmMtDClGOVkNtSMLfYR00G/uOnKRiNdn1rou68aJOTY+WWwihvTCCgWqlewPIPPqzn6K3guMh3mi8xNif2rsonTgDWqMl79hZnIqMpsI88qxJwQbrjs3/BV7+NUBoWsKsJywEZCpg5RuMCSnxnZTCRJ2rlKWZFf3bm+9euBL99hFqjcwl5pmNEhgXm5cH1TRYe/+8yKt+2Uca7VBHotPX5Pk4xKf6v8zMSwSaSPIPq/vzBVTT1QV3UEOYKx6HKYUcI4ZxAN3Mo8gCpd6epgaTSMIFf1fYP7FG9K9cY/vo6ANoWRxPPTaTfESlCPkrr9TcHePVNctSCvopW+HXoQ6o5Mir9R9mGZX1AFB3Vs0hJuR4rxhcyqiqDJxXIoak/cDYBxCl77UFomz6XTP564hQK3Pn9hcUgLg15UtrUrRM5KHpioqB3HPAe3g3KxALbuZ5Wkd4JOKKXSzd/2SmOlO8jqMDxTxS6BnKwH+lo+Nq2rk5jIJE/zSHjzPTA7FykfO+AxukDJZnned8Cqf3FhA==;DSxY/AMgJENAMGRXbnR/NA=="
 ---

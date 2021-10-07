@@ -57,6 +57,20 @@ related:
         width: 2048
         height: 1136
         isCached: true
+  - title: "Saphyre to be headline sponsor at FinTech & InsurTech Live"
+    excerpt: "Leading AI-driven fintech Saphyre is taking a frontline position at FinTech & InsurTech Live The US-based fintech Saphyre is a headline sponsor at the FinTech & InsurTech Live event in London on October 12-14th."
+    publishedDateTime: 2021-10-07T10:55:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/saphyre-be-headline-sponsor-fintech-and-insurtech-live"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/page_1%20%281%29_3.jpg.png?itok=286J2AWF"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "nFvEyYv+/U6tBDtvnsMJj0PlgwZ3GO8fChDdANlzG0JixYjinmB7dHAkuPRSu1THlpREPIozSI7KFycR5wvohYQSYapJYdF7aUWKi1J9eAwBCMexEyhmfGWQ9GmQrtLCssf2taToVmw7RnBlJU3AKgr5TFr1uxodaOQ3bQ6im7dmG6QU2LXNBK9jrDr/Li6UdUmbN+dY72DRWJIWlwToS6xA6/EWLmx1f208IlSeiN6h5LQRt7XhuX3Gxm67ZaHZnWxJ5jUV4eHTb9z/Ip1gd5RzdbClhVni9LHTYWyF7CsPBM7izQ2DiHVUy/RBEDZD5xMvRTY9+nsrPfG1a5/wBTZZdtxQX2Qa1+wwLhgGIjxIjPtWpQwDEOf14qfjp7lEbNjbRnoPyI56GKv/BYei0vs9MDZ1LIAGy6r7YhcOn2zBv9arKTwJrkTCnVPaD4fZW6gQdIFmk7tB83DwVLWndweDCvrDtHHGt4UKQV287BcYXTW23aiO4/RBrYxtch4BhQ4+ws+Wo30Pf2SRTb7wlg==;uEF1D2gsB0JqTAQTB38RCw=="
 ---

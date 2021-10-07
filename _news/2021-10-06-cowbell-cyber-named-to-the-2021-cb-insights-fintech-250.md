@@ -19,6 +19,36 @@ topics:
   - AI
 
 related:
+  - title: "Stampli Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
+    excerpt: "Stampli honored for achievements in AP Automation CB Insights today named Stampli to the fourth annual Fintech 250, a prestigious list of emerging private companies working"
+    publishedDateTime: 2021-10-07T14:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/10/b23280760/stampli-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
+    ampWebUrl: "https://www.benzinga.com/amp/content/23280760"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23280760"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 40
+    images:
+      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Why Singapore Remains One of the Best Place to Start a Fintech Business"
+    excerpt: "Singapore has consistently ranked amongst the top locations in the world to start a business, recognized by the global community for its competitive corporate tax rate, skilled workforce, advanced infrastructures,"
+    publishedDateTime: 2021-10-04T01:40:00Z
+    webUrl: "https://fintechnews.sg/55862/fintech/why-singapore-remains-one-of-the-best-place-to-start-a-fintech-business/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 39
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/09/BannerA_04.jpg?x45653"
+        width: 300
+        height: 250
+        isCached: true
   - title: "ComplyAdvantage Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
     excerpt: "CB Insights today named ComplyAdvantage to the fourth annual Fintech 250, a prestigious list of emerging private"
     publishedDateTime: 2021-10-06T10:00:00Z
@@ -77,6 +107,15 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Fundbox Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
+    excerpt: "CB Insights today named Fundbox to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year’s list was unveiled on stage at CB Insights’ Future of Fintech conference in New York City."
+    publishedDateTime: 2021-10-05T15:30:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8368135/fundbox-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
   - title: "Onfido Named to 2021 CB Insights Fintech 250 List of Top Fintech Startups for Fourth Year Running"
     excerpt: "CB Insights today named Onfido to its fourth annual Fintech 250 for the fourth year running. Fintech 250 is a prestigious list of emerging private com"
     publishedDateTime: 2021-10-05T20:44:00Z
@@ -85,6 +124,15 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
+    quality: 0
+  - title: "Quantexa Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
+    excerpt: "CB Insights today named Quantexa to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year's list was unveiled on stage at CB Insights' Future of Fintech conference in New York City."
+    publishedDateTime: 2021-10-05T20:30:00Z
+    webUrl: "https://www.wcax.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/"
+    type: article
+    provider:
+      name: WCAX3
+      domain: wcax.com
     quality: 0
 
 secured: "+seC+/Ct4HQQw2NCG+uZ/SoTL+l0+WsWBS4HxsLyAr+puIKy/ZyVC+97Oq4ar7BWVUp1hnPY92Yk6X+7JlwZ1U1OyMB1JomAynZ9v47YeOSUl2NaKRj4VKCCN+j6J+V3zIperx2Tdq3YV1frmeM3FaW2Rql+6oFwwDy6VwxCFaGvI6uKHjMzaGr9ymXPLBRvwx6o1zFx9j9Csn5XKPXbhbWSCAaYS8eDA6+Q5Sa6rHPbPDBL85FCcHWAvDfqWA69+kJKUop4nbxKncZ2yzjVvx41+iQj0FGTmSaOxe6RvBKyPChp1si5/2r0hq1KKp+L4BGxREl1oo5dIXEO4NtTOkMsBceT0wBB1hUQDXcrQTc=;ydiwMrgdk5166nZ7J9RiRQ=="

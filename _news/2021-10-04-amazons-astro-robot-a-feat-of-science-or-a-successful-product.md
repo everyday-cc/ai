@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/03/amazons-astro-robot-a-feat-of-sci
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/03/amazons-astro-robot-a-feat-of-science-or-a-successful-product/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Video: Amazon introduces its Astro home robot"
+    excerpt: "In a nod to the animated series The Jetsons, Amazon has developed a robot designed for use in the home. So-named for the Jetson's dog — and not, as would be expected, for the Jetson’s own domestic robot Rosey — Astro is capable of alerting homeowners to unknown visitors in the home and potential hazards such as unattended stoves,"
+    publishedDateTime: 2021-10-07T16:02:00Z
+    webUrl: "https://insights.globalspec.com/article/17430/video-amazon-introduces-its-astro-home-robot"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://insights.globalspec.com/images/assets/430/17430/Astro.png"
+        width: 498
+        height: 514
+        isCached: true
 
 secured: "kLQ8H3bvuHoM2ahPRXB80aGSvL116YNLuq8Vm0JmJAMKD6yz734Foe1+JkBtC8gxYJg04km8613ZNWp0aLFONq2OvdtGMAS5V30FYxd2H23M+yJCUv5nphb3L6unvKEt+Nn6ApuwndbEa8o7pZjJS3gotWbOpqRNhN4iXT2zfLeOhMstJ0fdvqp2i4d+Dd0YiWP5Ucn1iaPnMwzlwDxTDE2sF/Y9nDqYinkpNgh7cR7aDzAFxlJUBut8ZboUOKnEn3z3YEpjzWZsxSVakkxx/heqbmhPVMtf47OAte3RB1rMMbw0UIzvvxaaV++MU4erqjz4piGTg2xrm0FNH/Vxr55ZF7pZzsz0UrbgcOWsAKrXs5bNVtHGfWS1xDQB72qyKNrk3BIFwToW+hQZ0EhZufMgKkU7tp0uycHAt3C/d8R9jWa2quG03nRahGeZ4a7PZjbdAWFXmG5l5mUtA40sZUJQaslZSBIKd8GRhbwN5RecUqa6V4P4VWcd5FbnB9BeFYseuZvAWHSUk3YS0hr97g==;Asok9LvRI0saNHVw4p1baA=="
 ---

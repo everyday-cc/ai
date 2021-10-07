@@ -2,65 +2,20 @@
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
 excerpt: "Artificial intelligence (AI) has become a buzzword for nearly every company when touting its products and services. What used to be the domain of only a few technology companies is now pervasive in automobiles,"
-publishedDateTime: 2021-10-02T15:10:00Z
-originalUrl: "https://www.fool.com/investing/2021/10/02/3-top-artificial-intelligence-stocks-buy-right-now/"
-webUrl: "https://www.fool.com/investing/2021/10/02/3-top-artificial-intelligence-stocks-buy-right-now/"
-ampWebUrl: "https://www.fool.com/amp/investing/2021/10/02/3-top-artificial-intelligence-stocks-buy-right-now/"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/10/02/3-top-artificial-intelligence-stocks-buy-right-now/"
+publishedDateTime: 2021-10-02T11:10:00Z
+originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-10-02"
+webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-10-02"
+ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-10-02?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-10-02?amp"
 type: article
-quality: 87
-heat: 107
-published: true
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
 
-images:
-  - url: "https://media.ycharts.com/charts/4a70d970a0718bc9ede7c616c7a98dc3.png"
-    width: 720
-    height: 433
-    isCached: true
-
-related:
-  - title: "How to get AI analytics right"
-    excerpt: "While there is plenty of anecdotal evidence about how AI will improve analytics, there isn't as much discussion about implementation."
-    publishedDateTime: 2021-10-04T12:32:00Z
-    webUrl: "https://venturebeat.com/2021/10/04/how-to-get-ai-analytics-right/"
-    ampWebUrl: "https://venturebeat.com/2021/10/04/how-to-get-ai-analytics-right/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/04/how-to-get-ai-analytics-right/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/network-6511448-e1632770373894.jpg?w=1200&strip=all"
-        width: 1200
-        height: 598
-        isCached: true
-  - title: "Analytics Insight describes top artificial intelligence stocks to buy in October"
-    excerpt: "This article features the top artificial intelligence stocks to buy in October 2021 from reputed tech companies. Buying AI stocks in October will provide higher revenue through AI model by harnessing artificial intelligence."
-    publishedDateTime: 2021-10-04T11:13:00Z
-    webUrl: "https://www.analyticsinsight.net/profitable-investment-top-artificial-intelligence-stocks-to-buy-in-october-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 34
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-artificial-intelligence-stocks-to-buy-in-October.jpg"
-        width: 900
-        height: 500
-        isCached: true
-
-secured: "qeT7p8y4yliHI1vY/XteEPW3z1aNQDMSV14LkwGkZOPi9t9H1uaumy43jeW/wn5oJxfJDu5UwcVDuIOWiOETrsGXOcFwFG/dtCWMQ521kxBsxOH2N+ev/cpjl+6jAifuhcUd1pSzPmrHFjdSm5C4cUrhkWqi29IWd5oecoXSW7383yle1kllQXhW0Zw/1lXVNmAofFKUAJagRIuJw+vfxgIB8ja2ywQi9ch/PwGSAwOE7jV5+/cMR7XVBtOP2QFV0Utxc8xjux1sPiuTEIy7/ljTOe165fBUeUcehzkGaxftHo/Lf/nUSk1D3pIu2xxtatgokd1CroNNf/0bi2qvprf4aNUROvVFBj6X5VtJD81okevr/VZZVE3L08aZHU8oFJGagLUVpE38fmmDFPIslMR/N3uOcBgUURDGpLFN3ZsOgY86tAALTksm2Kj19BM2WIaXXg3c6llhHb9oumjuUFv99a0IACcnaZNFvi42LG1GYEA7K9O4uQYqWNbhOVJKtUi2PV4RO6rId5guwhf3uA==;GOKUjzUjMiElok00DKm+Og=="
+secured: "ZU6heJJdzjHrbmzrtarUBBrL8QUhzwCHjRzMaGEzP9QSywUWhA+iaX9jjnG5NQCSuLf1/muCAt0A9mqcdTgSQW2w77HNqqWjmRKCEzfXJrP/SnMTu+gV8eVYfqpums2ZCZ6JCW2oLbZxTrVVl6Ws36sxUxtEnl+p0FG93ObP0366dcnhCr95/pJBoboNwVXuRYSyqzdGAhFI/G0Im44LP8JGOtL58aLYTViPV0/AevsUS1eEKMofNokQKrCHXBAncNmG4PhifWFZD8bYaJrUSIJ4qyO5piPHm9HUnR7ii3OlaQm6qcWYAS6iOoyeR1wCCUpRXsVxJFPnbUZ7Uf1003AbvjkQb5c6PJ/YSYmO9h8MKXEWQ7d47J1X8GmjplrDQjrN9BRdVlV+EuWecgf5PQ+bltsiWmzvcsaIDFfU5+BO/0pDOa1+ZevUahb/tQVq4/T/uFBnbDWfQqBOpazKVy4Bh4HK2jKwDm0n9PfCWL14Lj4Jar97PX3fX7YmN3FoVxMb3aplC82smnq/6cfnwQ==;krT5zaW8e75vZnKV9KJIPg=="
 ---
 

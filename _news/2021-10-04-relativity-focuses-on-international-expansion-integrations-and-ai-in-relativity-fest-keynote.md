@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Traditional Customer Relationship Moments vs. AI Moments"
+    excerpt: "A Five-Step Road Map to Implementing Artificial Intelligence in Marketing, by Rajkumar Venkatesan and Jim Lecinski, published by Stanford University Press, ©2021 by"
+    publishedDateTime: 2021-10-07T17:02:00Z
+    webUrl: "https://www.entrepreneur.com/article/389975"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-389975.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Why we must consider the intergenerational impacts of AI"
     excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Sara Stratton, Founder, Māori Lab &"
     publishedDateTime: 2021-10-05T08:30:00Z
@@ -40,19 +54,35 @@ related:
         width: 715
         height: 1001
         isCached: true
-  - title: "Dialpad Supports the Next Generation of Artificial Intelligence Startups as National AI Showcase Sponsor"
-    excerpt: "Dialpad Inc., the industry leader in AI-powered communication and collaboration, today announced its official sponsorship of National AI Showcase, an online pitch competition for startups across Canada."
-    publishedDateTime: 2021-10-07T13:16:00Z
-    webUrl: "https://www.lelezard.com/en/news-20035852.html"
+  - title: "Coding and More to host 2nd edition of International Artificial Intelligence Competition"
+    excerpt: "From October 8 to October 11 2021, Coding and More will host India’s first virtual international hackathon for teen girls in AI. This is in collaboration with TeensinAI, France. As many as 22 countries are participating in this social initiative."
+    publishedDateTime: 2021-10-06T00:20:00Z
+    webUrl: "https://www.freepressjournal.in/lifestyle/coding-and-more-to-host-2nd-edition-of-international-artificial-intelligence-competition"
+    ampWebUrl: "https://www.freepressjournal.in/amp/lifestyle/coding-and-more-to-host-2nd-edition-of-international-artificial-intelligence-competition"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/lifestyle/coding-and-more-to-host-2nd-edition-of-international-artificial-intelligence-competition"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 37
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 50
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://images.assettype.com/freepressjournal/2021-10/fea16da5-0437-419c-b283-32ca8a06a2ff/Info_Advetorial_Oct5.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1199
+        height: 729
+        isCached: true
+  - title: "Revival AI Announces Regulation A+ Offering to Revolutionize Bible Publishing Through Customization, AI, and Automation"
+    excerpt: "Revival AI, a Bible customization firm driven by some of today's most groundbreaking technology, is pleased to announce the launch of its Regulation"
+    publishedDateTime: 2021-10-06T16:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/revival-ai-announces-regulation-a-offering-to-revolutionize-bible-publishing-through-customization-ai-and-automation/article_e6a02887-3895-5593-85f0-52b992516690.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 17
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "PMkDAO1FfL4k4PK/sFoNVlX/gZ+gY0VGIx44HTarJEeXoDdEXJfzm936ebXHZ7UDqxBHBLqWMKgBByhHWCAmXDKK7Q3m42MxH55juQ+lrTvbBOiJv8Dl/PyvvD4INABetEx4uU3MNYMXZOgQqYT32CwR5Th+KoTJPuf7bUMFF+R19MuYK7zXy3c0KrE1QDF11NKL+I74HqGeCURbux5LU+qwd/eI+Yn2uFWMobRH0KaewTomPA19JDzLxiWwHMb4H9r16ZKpF89yDM8/hP4z6V3XUQff5dvEQ5hBGjEn7wTFTL/gbobs/BhwXOmk8EMgFo3/5D0uQp4G62zNp4QTLTd6FZwhFPF+PNtPjPeuSEl6r0nKq4rciqyqRVcfWZmqUrS4L4g++KjPcjI9E59i3lpu4oQZXH3QffHXnn1p/90CrZNOmUoOMYXRpwVcPjtw8B6dok5xjIPtK9TmmNYBXXw+EtG1byceTbbyM0MzAzCvbtu3k3tVGWebWCpX/2P69cepNzQQe6LjyBQr/nJTgw==;hT9hmVNQBWITlsEzCrr4+g=="

@@ -27,28 +27,64 @@ images:
     isCached: true
 
 related:
-  - title: "Continental and Horizon Robotics JV accelerates commercialisation AI technology"
-    excerpt: "Technology company Continental, and one of the global leaders in edge Artificial Intelligence (AI) computing platforms Horizon Robotics signed a Joint Venture (JV) contract, focusing on providing hardware and software integrated solutions for Advanced Driver Assistance Systems and automated driving."
-    publishedDateTime: 2021-10-05T03:12:00Z
-    webUrl: "https://www.manufacturingtodayindia.com/sectors/11675-continental-and-horizon-robotics-jv-accelerates-commercialisation-ai-technology"
-    ampWebUrl: "https://www.manufacturingtodayindia.com/sectors/11675-continental-and-horizon-robotics-jv-accelerates-commercialisation-ai-technology?amp"
-    cdnAmpWebUrl: "https://www-manufacturingtodayindia-com.cdn.ampproject.org/c/s/www.manufacturingtodayindia.com/sectors/11675-continental-and-horizon-robotics-jv-accelerates-commercialisation-ai-technology?amp"
+  - title: "Traditional Customer Relationship Moments vs. AI Moments"
+    excerpt: "A Five-Step Road Map to Implementing Artificial Intelligence in Marketing, by Rajkumar Venkatesan and Jim Lecinski, published by Stanford University Press, ©2021 by"
+    publishedDateTime: 2021-10-07T17:02:00Z
+    webUrl: "https://www.entrepreneur.com/article/389975"
     type: article
     provider:
-      name: manufacturingtodayindia
-      domain: manufacturingtodayindia.com
-    quality: 65
-  - title: "Role of conversational AI in shaping businesses and accelerating growth"
-    excerpt: "The need for humanizing and speeding up customer interactions is rising rapidly. Customers expect businesses to assist them 24/7, anticipate their needs, and provide a quick resolution of issues. Companies deploy AI-powered assistants to"
-    publishedDateTime: 2021-10-04T10:51:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/role-of-conversational-ai-in-shaping-businesses-and-accelerating-growth/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/role-of-conversational-ai-in-shaping-businesses-and-accelerating-growth/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/role-of-conversational-ai-in-shaping-businesses-and-accelerating-growth/"
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-389975.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Why we must consider the intergenerational impacts of AI"
+    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Sara Stratton, Founder, Māori Lab &"
+    publishedDateTime: 2021-10-05T08:30:00Z
+    webUrl: "https://europeansting.com/2021/10/05/why-we-must-consider-the-intergenerational-impacts-of-ai/"
+    ampWebUrl: "https://europeansting.com/2021/10/05/why-we-must-consider-the-intergenerational-impacts-of-ai/amp/"
+    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/10/05/why-we-must-consider-the-intergenerational-impacts-of-ai/amp/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 37
+      name: europeansting.com
+      domain: europeansting.com
+    quality: 59
+    images:
+      - url: "https://europeansting.files.wordpress.com/2021/10/robots.webp"
+        width: 715
+        height: 1001
+        isCached: true
+  - title: "Relativity Focuses on International Expansion, Integrations and AI in Relativity Fest Keynote"
+    excerpt: "The virtual Relativity Fest 2021 keynote didn't feature groundbreaking product releases like in years past, but instead upgrades aimed at integrating artificial intelligence into the discovery workflow,"
+    publishedDateTime: 2021-10-04T16:03:00Z
+    webUrl: "https://www.law.com/legaltechnews/2021/10/04/relativity-focuses-on-international-expansion-integrations-and-ai-in-relativity-fest-keynote/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 26
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/10/Relativity-Fest-2018-Logo-Sign-1-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Revival AI Announces Regulation A+ Offering to Revolutionize Bible Publishing Through Customization, AI, and Automation"
+    excerpt: "Revival AI, a Bible customization firm driven by some of today's most groundbreaking technology, is pleased to announce the launch of its Regulation"
+    publishedDateTime: 2021-10-06T16:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/revival-ai-announces-regulation-a-offering-to-revolutionize-bible-publishing-through-customization-ai-and-automation/article_e6a02887-3895-5593-85f0-52b992516690.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 17
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Qo+ZqYgfpW4N0sx5xlYYs5ix5xQ9f0v4JweytM0pzZOhMvM3B8sfV2OfyzpYlbiyi7kmRpEqR+Igvo32oi+dtftw5aZW8BCjdk9FvwMtrXLuRFBnxtF8OqWymPS71CqpqdS0plsgkXzG5Iv15OgUA4tVLzOZ2UgGNWl4En16SnI2C1nkiocY2JJwgvLp+J/EJG/rYErvtLbD/t2UjLPYN8Zt+8nbIHhzQRSZkAvWlFrWlBDbqSa/kFcI1fmTeI5YZVsvLvciJx5ruNSlcjV7j9vT0MujjvTJnET90HVb789u2Hcwu44PoLR8m+qMFDad3cDI+3WIE+dc34eb42xxTdHISgaA6E/5d12metUPpNHU72XIWwFEO1DQtO7OcmiDGvl7Xq/V4/JT9evxcsHoZpBdoa9hSVmq9QS4Uymm3xzxF7D1ZeVDcgwuscdDaFOsqbY3JH0qDaJ4PepJ22YTcC/sc/gkSKG7q41A8WiEy/WIFPbjs8S+iuCnRkVcAKDbDyQBQuRsmV7flqp63WCDFw==;bkW9l0Q8E3kOcryOSS7CMQ=="
 ---

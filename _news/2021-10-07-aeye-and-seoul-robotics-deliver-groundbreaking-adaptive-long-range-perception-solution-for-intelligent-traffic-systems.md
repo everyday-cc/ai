@@ -1,18 +1,18 @@
 ---
 category: news
 title: "AEye and Seoul Robotics Deliver Groundbreaking Adaptive Long-range Perception Solution for Intelligent Traffic Systems"
-excerpt: "(NASDAQ: LIDR), the global leader in adaptive, high-performance LiDAR solutions, and Seoul Robotics, a 3D computer vision company using AI and deep learning to power the future of autonomy, today announced the integration of AEye's 4Sight M™ LiDAR sensor and Intelligent Detection and Ranging (iDAR™) software platform with Seoul Robotics' SENSR™3D perception software."
-publishedDateTime: 2021-10-07T12:19:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aeye-seoul-robotics-deliver-groundbreaking-adaptive-long-range-/2021/10/07/9464886.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aeye-seoul-robotics-deliver-groundbreaking-adaptive-long-range-/2021/10/07/9464886.htm"
+excerpt: "AEye and Seoul Robotics announce the integration of AEye’s LiDAR with Seoul Robotics’ 3D perception software to enable long-range perception for ITS."
+publishedDateTime: 2021-10-07T16:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211007005365/en/AEye-and-Seoul-Robotics-Deliver-Groundbreaking-Adaptive-Long-range-Perception-Solution-for-Intelligent-Traffic-Systems"
+webUrl: "https://www.businesswire.com/news/home/20211007005365/en/AEye-and-Seoul-Robotics-Deliver-Groundbreaking-Adaptive-Long-range-Perception-Solution-for-Intelligent-Traffic-Systems"
 type: article
 quality: 10
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Robotics
@@ -48,6 +48,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "A9YAhgF1bY7hBabYQCSecMRdTllXme5Akdh2nXtHkB9GvQ/dzS6bq2ZpybRZOT4qlVADpPac7pb99xNSzU9yMQfWg35y8P9RvSjw+31c1tOcHAUUtw3AdL4MGIMtqH8nO4T1Z81o+enOL5Duy38fbNKO8Kb+6cUK7wfXWEw2ZyPpkSvWschMoSfcB4R5H036WSB3EjDU2o21OwPvTm1pVE94/h3WW0hr5W/P/9vrUfBWE4qrGsNhM5YvQleAQs7NV52ONc2wHA/Ytlv5L96eNlXpOK2Wz+ZyTCxADnWAKM34bdVzecwDCZcmJS1MWE0ujGSnKR2ceq6ZqSWxgt4Ga/2ywuvHwDcE4PUTCV2cxSY=;OSlvQFn5O6CuLvq1O1eT/w=="
+secured: "yn3MhYEOO2t1gUJmWEEf9LXP6sGjAnnPKxTbLyVF9PKH60qm4qF9eBkfF43ZA6uBcwQVVNO1DGvzsbW2DT4J8IknTHsWaXdrl3qccmTdiT4SqR+1sODOo/V56Yxo2ldJTVwCKnZDgMt6h5dpkLrq/VTbJeN/9rSbpPLabDelrPFgJxyOZQ/FtrrqFKSoyWazVMtcJfOKRLCelcTjgWw178bf0ZdK8/jIeTEvY+bT6jTezaotLNFDc61Zadh/a21T0RgDd6llg2ePXFTTwT4TPC9/3t1NVk00NOqWG9GxsM7wzsScpQpm8FEkg+v3YGuMpr21bvwEidSUAtNhhWcz3wai5iqL8SEf2eAGOuM8ZCw=;5LESFGeWFZ6C5XS2c1/QDg=="
 ---
 

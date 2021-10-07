@@ -52,6 +52,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "How a Team of Musicologists and Computer Scientists Completed Beethoven’s Unfinished 10th Symphony"
+    excerpt: "Beethoven's unfinished 10th Symphony was to be his magnum opus. Now, using AI, a team has completed it. The symphony will be released in full this Saturday."
+    publishedDateTime: 2021-10-07T16:24:00Z
+    webUrl: "https://singularityhub.com/2021/10/07/how-a-team-of-musicologists-and-computer-scientists-completed-beethovens-unfinished-10th-symphony/"
+    ampWebUrl: "https://singularityhub.com/2021/10/07/how-a-team-of-musicologists-and-computer-scientists-completed-beethovens-unfinished-10th-symphony/amp/"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/10/07/how-a-team-of-musicologists-and-computer-scientists-completed-beethovens-unfinished-10th-symphony/amp/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 28
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2021/10/violinist-playing-with-beethoven-1.jpeg"
+        width: 1068
+        height: 601
+        isCached: true
 
 secured: "GTE9uJ2uF4l2wjOWBT+ZxQVbGmyd9bOqecgKlkNTaLWb/CpKuLFaW6Ctyiw2+d4Ms2bJ4rZASd88rwKzxIAx5k6KtBQFbuvjEG1smzYn2lNmZpGtYtGYgy5QFKRsucJ7uCdQD6Eygk086+hSUhXTz5udHwZ7m0oLXQaZAloF3/Qli7/thGG41EQiykcKskryj/VnQ/fm+8zIHak5cN8dYshQihZbP4B10rGgWw3VJhffXBmQ23TwlzKWsusyPIPhKDlW4JN+2fJBsLlo94ht6f/oUAM36mN4/KuquVISE8Q1ONJdkiQXVRW9JNrl25VZa332wgZlNzW3M/IOmaSY00PipR4BnnN/qLIszt8Md8Q=;v2EpO8/TwlR4FeSnYTa4vw=="
 ---

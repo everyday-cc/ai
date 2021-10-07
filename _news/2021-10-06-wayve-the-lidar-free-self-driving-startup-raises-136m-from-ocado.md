@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Ocado invests in self-driving company"
+    excerpt: "The tech firm’s $13.6 million investment in Wayve follows a similar funding announcement earlier this year as it looks to automate delivery for partner retailers like Kroger."
+    publishedDateTime: 2021-10-07T15:47:00Z
+    webUrl: "https://www.grocerydive.com/news/ocado-invests-in-self-driving-company/607847/"
+    type: article
+    provider:
+      name: grocerydive.com
+      domain: grocerydive.com
+    quality: 24
+    images:
+      - url: "https://www.grocerydive.com/user_media/cache/56/ce/56ce5d5f543d8914e6095342834c3426.jpg"
+        width: 770
+        height: 364
         isCached: true
   - title: "UK's Ocado invests in self-driving startup Wayve"
     excerpt: "British online grocer Ocado is investing 10 million pounds (A$18.6 million) in self-driving technology startup Wayve and a partnership to develop autonomous grocery deliveries that can handle tough traffic on busy city streets."

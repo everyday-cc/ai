@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The future of recruiting: Social media and AI tech go hand in hand"
+    excerpt: "In a job-seeker market, it may be time for recruiters to let go of job boards and meet talent where they are: on social media."
+    publishedDateTime: 2021-10-07T16:27:00Z
+    webUrl: "https://www.benefitnews.com/news/social-media-and-ai-are-recruiting-tools"
+    type: article
+    provider:
+      name: Employee Benefit News
+      domain: benefitnews.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/c13446f/2147483647/strip/true/crop/4608x2419+0+518/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F4a%2F00%2Fcff4502f4e77ab3ddb25621c54a8%2Fpexels-energepiccom-174938.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "9wbUpzGu83TvJvxrhZRhGBIteYpWV7QC0Vu5NLCEIi7usS3N4m4+EzE45n7F47IaIiuom3DTkj4L0swwaZ9aCOSPl+7B1uparxFPfGGQuUtg7gYDO9KQXhAeglpFFtd8b+Zvmby1c6e+QHqRrta1nhR83px5ui5cxVJ45Ug0jPr/uwREaP7CInfSZDsO5WKOMdw6qdZn2PVJpOVAjh8xOVwAJEmy7U3BimRiAb9RJCYf74MVusvaNXkRZ2Qc8vyxmJcFRtck3r/+v56vnp03hqG/kdEJmftP7rMPg/R9Nzpgl2oYMpfEz+OmuMxfW18x/m12xUyOfc542SM8fC9GnsUHZaEfAZyfVBeoLyFeFFdzdWdxkXb2hRc38PB1XJkAn8e+P1cJbnGhxgm90KrsYltX6Oe/nkdm+4oRhrTh0tc8oRMG0xNAXGSI7PkwS7BHwK8ihSh98KyVDaxacGczuTEW7rouH+hlFMnAOxD8b1XQ0OAV0RFDm1WXgzP1iJi+MADZ7Hi+IjsaR1gjXFshdg==;jnn3boShfFIhE6/Mr4vLhQ=="
 ---

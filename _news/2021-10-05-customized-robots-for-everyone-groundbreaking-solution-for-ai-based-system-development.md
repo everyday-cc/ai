@@ -40,13 +40,13 @@ related:
         height: 1000
         isCached: true
   - title: "AEye and Seoul Robotics Deliver Groundbreaking Adaptive Long-range Perception Solution for Intelligent Traffic Systems"
-    excerpt: "(NASDAQ: LIDR), the global leader in adaptive, high-performance LiDAR solutions, and Seoul Robotics, a 3D computer vision company using AI and deep learning to power the future of autonomy, today announced the integration of AEye's 4Sight M™ LiDAR sensor and Intelligent Detection and Ranging (iDAR™) software platform with Seoul Robotics' SENSR™3D perception software."
-    publishedDateTime: 2021-10-07T12:19:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aeye-seoul-robotics-deliver-groundbreaking-adaptive-long-range-/2021/10/07/9464886.htm"
+    excerpt: "AEye and Seoul Robotics announce the integration of AEye’s LiDAR with Seoul Robotics’ 3D perception software to enable long-range perception for ITS."
+    publishedDateTime: 2021-10-07T16:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211007005365/en/AEye-and-Seoul-Robotics-Deliver-Groundbreaking-Adaptive-Long-range-Perception-Solution-for-Intelligent-Traffic-Systems"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 10
 
 secured: "2cdLSSuydIgw16Q37PY6/h+sZ47FRjMZ4DyIFgciZ6oWnzuAeL4+z2H3eCk/GidCbzKzYDO08a+R6P2eRRiEd9iOhGTSC2Ci4ddGO9kIt2C6dfOfTD/Jj93YAhOgQ8rG121mty4voJxMnoyjVduNmv6fmlEzU4c4wYrUeHComqHYlqQAjw9+g8yFG30IWARukngV49wjFNwsWPmYPr7VCQ3Yfug6kh7xHYsfzaVEcOTRi0ly9Y7dTdYbwaQVs7/wcBtUed0ByOagSlmMrAHeq/Cqn+v0FVVattjAuaN1ruOTQNnbSuJxE6ea7PvD26hKNz2o89PJ5t0REqQ/2yTLiLUYLZBFm9Iw9X4OdNZuqNHtMbsSYgX+bOQ9wHoWTePVCDvoDPaJMDmzBBrBpGlIjZ+3okUK5G32bqQTCIZAL1lXUjZoN7nd3nSueYod+3sfc017wb8ug9mgTQMoBineH1u0X488RQzdXf4CwPF6D6tcbxg12QeDqg34TZSOqAG7oVvX6Hwlu8IFNM6KNbjwBg==;juO2XQ5atDott6PeZXFcxQ=="

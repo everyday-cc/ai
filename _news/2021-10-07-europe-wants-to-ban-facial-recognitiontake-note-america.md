@@ -96,6 +96,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "European Parliament entreats a ban on facial recognition."
+    excerpt: "The European parliament seems rather unyielding in its decision to put a ban on the use of facial recognition by police."
+    publishedDateTime: 2021-10-07T16:32:00Z
+    webUrl: "https://techstory.in/european-parliament-entreats-a-ban-on-facial-recognition/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/10/facial-recognition-crowds-1024x536-1.jpg"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "'Historic Moment': EU Approves Call for Sweeping Ban on Facial Recognition Surveillance"
     excerpt: "The European Parliament has overwhelmingly approved a call to ban facial recognition surveillance—a development heralded by the technology's foes as a \"big win for human rights.\" \"Fundamental rights are unconditional,"
     publishedDateTime: 2021-10-06T16:00:00Z

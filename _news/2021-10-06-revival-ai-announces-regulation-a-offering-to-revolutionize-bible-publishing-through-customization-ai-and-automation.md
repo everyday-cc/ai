@@ -26,21 +26,65 @@ images:
     isCached: true
 
 related:
-  - title: "Euralarm releases Position Paper on EC proposal for a regulation on artificial intelligence"
-    excerpt: "Euralarm recently released a Position Paper on the EC proposal for a Regulation on Artificial Intelligence.The Position Paper follows some informal discussions with DG CONNECT and contains"
-    publishedDateTime: 2021-10-05T07:56:00Z
-    webUrl: "https://www.sourcesecurity.com/news/euralarm-releases-position-paper-ec-proposal-co-645-ga.1633417585.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/euralarm-releases-position-paper-ec-proposal-co-645-ga.1633417585.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/euralarm-releases-position-paper-ec-proposal-co-645-ga.1633417585.html"
+  - title: "Traditional Customer Relationship Moments vs. AI Moments"
+    excerpt: "A Five-Step Road Map to Implementing Artificial Intelligence in Marketing, by Rajkumar Venkatesan and Jim Lecinski, published by Stanford University Press, ©2021 by"
+    publishedDateTime: 2021-10-07T17:02:00Z
+    webUrl: "https://www.entrepreneur.com/article/389975"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 47
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
     images:
-      - url: "https://www.sourcesecurity.com/img/news/612/eusas-920x533.jpg"
-        width: 612
-        height: 355
+      - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-389975.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Why we must consider the intergenerational impacts of AI"
+    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Sara Stratton, Founder, Māori Lab &"
+    publishedDateTime: 2021-10-05T08:30:00Z
+    webUrl: "https://europeansting.com/2021/10/05/why-we-must-consider-the-intergenerational-impacts-of-ai/"
+    ampWebUrl: "https://europeansting.com/2021/10/05/why-we-must-consider-the-intergenerational-impacts-of-ai/amp/"
+    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/10/05/why-we-must-consider-the-intergenerational-impacts-of-ai/amp/"
+    type: article
+    provider:
+      name: europeansting.com
+      domain: europeansting.com
+    quality: 59
+    images:
+      - url: "https://europeansting.files.wordpress.com/2021/10/robots.webp"
+        width: 715
+        height: 1001
+        isCached: true
+  - title: "Coding and More to host 2nd edition of International Artificial Intelligence Competition"
+    excerpt: "From October 8 to October 11 2021, Coding and More will host India’s first virtual international hackathon for teen girls in AI. This is in collaboration with TeensinAI, France. As many as 22 countries are participating in this social initiative."
+    publishedDateTime: 2021-10-06T00:20:00Z
+    webUrl: "https://www.freepressjournal.in/lifestyle/coding-and-more-to-host-2nd-edition-of-international-artificial-intelligence-competition"
+    ampWebUrl: "https://www.freepressjournal.in/amp/lifestyle/coding-and-more-to-host-2nd-edition-of-international-artificial-intelligence-competition"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/lifestyle/coding-and-more-to-host-2nd-edition-of-international-artificial-intelligence-competition"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 50
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2021-10/fea16da5-0437-419c-b283-32ca8a06a2ff/Info_Advetorial_Oct5.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1199
+        height: 729
+        isCached: true
+  - title: "Relativity Focuses on International Expansion, Integrations and AI in Relativity Fest Keynote"
+    excerpt: "The virtual Relativity Fest 2021 keynote didn't feature groundbreaking product releases like in years past, but instead upgrades aimed at integrating artificial intelligence into the discovery workflow,"
+    publishedDateTime: 2021-10-04T16:03:00Z
+    webUrl: "https://www.law.com/legaltechnews/2021/10/04/relativity-focuses-on-international-expansion-integrations-and-ai-in-relativity-fest-keynote/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 26
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/10/Relativity-Fest-2018-Logo-Sign-1-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
 
 secured: "oeGlPCF9SCHwhr3jF5nzkUtDQtNzCIdSKYlu3zBjHGQ6eJp199F4WcIwH2uuGxw4ff1xaQgfL4LaAyJxAOAqAwHN9eMV7yXVntxUxH8cy5kXxkvjAPlXpHDQOlB0rjTPbitwfU6qtkf+hAZl5Ehw7ypS4rd2JxEkda1CTOT4h6zzv4eiNxy1l5d2OUPw62TK048UGkvpmIohUjqA711vxd6O/VrGNUejc3HZ8BRdcpHpLX2LU9MHFsfn1DoeQklxrbLgcX1qB/qiAecn69VaYdNUiI/Hn71kSKnKeSMzBC7CDqUApusg2FHjpSqT+ch+zYDM2riZCJVCae/FqEAepnXfIzWCZEbK80OCTmHrk4U=;SxTMKg/KGmYecWCAh/ojKA=="

@@ -43,6 +43,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "GM is coming directly for Tesla with its new hand-free driving system"
+    excerpt: "The prior driver-assist system, Super Cruise, has won yearly accolades from reviewers like Consumer Reports, who consistently preferred it over Tesla’s Full-Self Driving system. That’s mainly down to GM’s system having a camera trained on the driver at all times to monitor how much attention they’re paying to the road."
+    publishedDateTime: 2021-10-07T16:18:00Z
+    webUrl: "https://knowtechie.com/gm-is-coming-directly-for-tesla-with-its-new-hand-free-driving-system/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 39
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2020/10/Cadillac-CT4-V-with-SC-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "BTEFXdgObVsqz8gzeqSqd1slO/RDrqZZkxWqgC1tM2R4Zq/OsCovFynlyvL7HtlLBwks8UUZJ1O82IB6zaRYtqsNoWNQnLo3eWq38xcFJ0rSNHLG4Vs+ciwSPeuYbcoSYaGk3h/QJ5X+ZfQiOZucms0wgxerHzsfba3vt3Eu/yXf58TJvNuxp2nQ0aANNUSec7A99Vndl9A9XSx5mKL4U8iUtuFT0cvbttJfOCrM6ZWUl7izBrWWqVlbd7WhqHEFDB2mEVzlotJXolSO1Gt6csdoO5VpSHreJAMtpjQVaVC/BlBzeSt9U+h0hyHlAMztR+xzyvS78Q4gDIgbe92ZhWm3uPTULmJQeQZszVRfskQ/TV8VA353kkw9Du8hYNUzBSeCEaW4ykvrWer8OIxqryAjeYYyOvDE6VWopnnv6oVR39DIDWB/OuGSccvQYA09Tv6abWpgQz+RlsIOAQ+l4GAQnmy9tWR0UKbZj70IirlEXeVsjC1fVAbLLSHBrG2MH7/6Q2tfv9X12oedqHDTbQ==;BeKWsmNHCAo/YGETDwXw6Q=="
 ---

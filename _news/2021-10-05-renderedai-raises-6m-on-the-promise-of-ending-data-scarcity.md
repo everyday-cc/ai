@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/05/rendered-ai-raises-6m-to-scale-phy
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/rendered-ai-raises-6m-to-scale-physics-based-synthetic-data-developer-platform/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Gretel.ai, a platform for generating synthetic and privacy-preserving data, raises $30M"
+    excerpt: "Gretel.ai, a platform offering a suite of privacy-preserving data tools, has raised $50 million in a venture funding round."
+    publishedDateTime: 2021-10-07T13:00:00Z
+    webUrl: "https://venturebeat.com/2021/10/07/gretel-ai-a-platform-for-generating-synthetic-and-privacy-preserving-data-raises-30m/"
+    ampWebUrl: "https://venturebeat.com/2021/10/07/gretel-ai-a-platform-for-generating-synthetic-and-privacy-preserving-data-raises-30m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/gretel-ai-a-platform-for-generating-synthetic-and-privacy-preserving-data-raises-30m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/data_privacy2-e1623103310296.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Rendered.ai Raises $6M, Expanding First-ever Developer Framework for Synthetic Data"
     excerpt: "Rendered.ai, the leading platform provider for physics-based synthetic data, today announced the closing of a $6M seed round led by Space Capital. Participating investors include Tectonic Ventures, Congruent Ventures,"
     publishedDateTime: 2021-10-05T14:13:00Z

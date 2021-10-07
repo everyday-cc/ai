@@ -7,7 +7,7 @@ originalUrl: "https://fintechnews.sg/55919/ai/here-are-the-7-singaporean-compani
 webUrl: "https://fintechnews.sg/55919/ai/here-are-the-7-singaporean-companies-who-made-it-to-2021s-top-100-ai-fintech-list/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -23,68 +23,6 @@ images:
     width: 2048
     height: 1136
     isCached: true
-
-related:
-  - title: "Why Singapore Remains One of the Best Place to Start a Fintech Business"
-    excerpt: "Singapore has consistently ranked amongst the top locations in the world to start a business, recognized by the global community for its competitive corporate tax rate, skilled workforce, advanced infrastructures,"
-    publishedDateTime: 2021-10-04T01:40:00Z
-    webUrl: "https://fintechnews.sg/55862/fintech/why-singapore-remains-one-of-the-best-place-to-start-a-fintech-business/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 39
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/09/BannerA_04.jpg?x45653"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Saphyre to be headline sponsor at FinTech & InsurTech Live"
-    excerpt: "Leading AI-driven fintech Saphyre is taking a frontline position at FinTech & InsurTech Live The US-based fintech Saphyre is a headline sponsor at the FinTech & InsurTech Live event in London on October 12-14th."
-    publishedDateTime: 2021-10-07T10:55:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/saphyre-be-headline-sponsor-fintech-and-insurtech-live"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/page_1%20%281%29_3.jpg.png?itok=286J2AWF"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Stampli Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
-    excerpt: "CB Insights today named Stampli to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year's list was unveiled on stage at CB Insights' Future of Fintech conference"
-    publishedDateTime: 2021-10-07T14:26:00Z
-    webUrl: "https://www.lelezard.com/en/news-20036194.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 20
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Fundbox Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
-    excerpt: "CB Insights today named Fundbox to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year’s list was unveiled on stage at CB Insights’ Future of Fintech conference in New York City."
-    publishedDateTime: 2021-10-05T15:30:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8368135/fundbox-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
-  - title: "Quantexa Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
-    excerpt: "CB Insights today named Quantexa to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year's list was unveiled on stage at CB Insights' Future of Fintech conference in New York City."
-    publishedDateTime: 2021-10-05T20:30:00Z
-    webUrl: "https://www.wcax.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/"
-    type: article
-    provider:
-      name: WCAX3
-      domain: wcax.com
-    quality: 0
 
 secured: "IOwXY2/fK3xbL3+/1xFAalSvzEhLxTQNXwExmB1FoeVi/obb4oeIxA0IzZBR1M9Q8FKKb7k4YVYABLBlr7Ayy0IAi1pVYLmAuvqMfUvnEClfcDtcgW8muDPjA1EvEKIYwzb0u9/s8/IAwgbUJ53x7u4UDno0oDpBXcr6sauGdCxGQwafMqUDZ/0TGLqOc/YFy9I+jjHmYi/zc1+fFjlu0tlRZe8rH6AzSOkGpP68eNVd9aWcDRPnVl603BFaF0viECMX1Rcnga1zV1+AXFecnrfUql3V5r4ZQRYMy6OSLGKGfpoxcoFUy2ezhTuG/c3AUwC2TJ37P6cqsvH3mOBejuJNsGeywTR69u9K8707rY/fqvKp9BiR1G7IFV6875kmBKTwZCSyLYGbdn4kDyF45gx30grGfOQvfmi1CAHSUmX/Beh/L8hbx2MKVGgIGMebwil/vrTbk90KtnEyo6ei3mxV1y1rXwOVbqveBadhiNdWLxV+7xP98RUmokilnCrwI/wzP13O41uH1PBKCYsHKQ==;niscaQKf6+18JZL0zppALw=="
 ---

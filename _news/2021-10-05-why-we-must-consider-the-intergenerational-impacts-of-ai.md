@@ -9,8 +9,8 @@ ampWebUrl: "https://europeansting.com/2021/10/05/why-we-must-consider-the-interg
 cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/10/05/why-we-must-consider-the-intergenerational-impacts-of-ai/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: europeansting.com
@@ -27,19 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Dialpad Supports the Next Generation of Artificial Intelligence Startups as National AI Showcase Sponsor"
-    excerpt: "Dialpad Inc., the industry leader in AI-powered communication and collaboration, today announced its official sponsorship of National AI Showcase, an online pitch competition for startups across Canada."
-    publishedDateTime: 2021-10-07T13:16:00Z
-    webUrl: "https://www.lelezard.com/en/news-20035852.html"
+  - title: "Traditional Customer Relationship Moments vs. AI Moments"
+    excerpt: "A Five-Step Road Map to Implementing Artificial Intelligence in Marketing, by Rajkumar Venkatesan and Jim Lecinski, published by Stanford University Press, ©2021 by"
+    publishedDateTime: 2021-10-07T17:02:00Z
+    webUrl: "https://www.entrepreneur.com/article/389975"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 37
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-389975.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Coding and More to host 2nd edition of International Artificial Intelligence Competition"
+    excerpt: "From October 8 to October 11 2021, Coding and More will host India’s first virtual international hackathon for teen girls in AI. This is in collaboration with TeensinAI, France. As many as 22 countries are participating in this social initiative."
+    publishedDateTime: 2021-10-06T00:20:00Z
+    webUrl: "https://www.freepressjournal.in/lifestyle/coding-and-more-to-host-2nd-edition-of-international-artificial-intelligence-competition"
+    ampWebUrl: "https://www.freepressjournal.in/amp/lifestyle/coding-and-more-to-host-2nd-edition-of-international-artificial-intelligence-competition"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/lifestyle/coding-and-more-to-host-2nd-edition-of-international-artificial-intelligence-competition"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 50
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2021-10/fea16da5-0437-419c-b283-32ca8a06a2ff/Info_Advetorial_Oct5.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1199
+        height: 729
         isCached: true
   - title: "Relativity Focuses on International Expansion, Integrations and AI in Relativity Fest Keynote"
     excerpt: "The virtual Relativity Fest 2021 keynote didn't feature groundbreaking product releases like in years past, but instead upgrades aimed at integrating artificial intelligence into the discovery workflow,"
@@ -54,6 +70,20 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/10/Relativity-Fest-2018-Logo-Sign-1-767x633.jpg"
         width: 767
         height: 633
+        isCached: true
+  - title: "Revival AI Announces Regulation A+ Offering to Revolutionize Bible Publishing Through Customization, AI, and Automation"
+    excerpt: "Revival AI, a Bible customization firm driven by some of today's most groundbreaking technology, is pleased to announce the launch of its Regulation"
+    publishedDateTime: 2021-10-06T16:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/revival-ai-announces-regulation-a-offering-to-revolutionize-bible-publishing-through-customization-ai-and-automation/article_e6a02887-3895-5593-85f0-52b992516690.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 17
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "jFOvC20JsMHAzCJpeAqQ0Rut6C+mSHObpk9ioWG+v//fJaA3/4lIkbJWTwzuBUZ+fRTRmb/r8MkX/xuvW8mtM3qna4hYMwmA9YlQ0DROJi8021vHBgWLEPULYvWM70AdSearQbe3xeclzIu1r3AYaoPHP+eLm+he1vQE/lhwwpcYihgbMLS2PDLIlbFZlmmce5QMiw6zddoAfkPDqe6TAdU0DTyD58TC7NAK/m4Jld1BW7Qtv6KgoI/tyr9nga/0GvxJ+Hn2jCUPwVd89IZZUoFt1fERey1odwugf30EMeExRDtdpUMkuSkfGg5Crs/DEeRUQ16wmJEZQSah9fGb8KgwLcDCt73WAV163WOs/xhOnoSAs/Mx/OyxGJPs9Zu8KLqkGlDU4bPGouKrO25Nhc5JwaTNM6sxcAXzYsls+90cPHGyNrfIvlINDoDrG+XowyoepdUdPgx5O9qVq+xp/qH2arwPbF6ZBqZ7VrOAGXQvHZPGujzgiP/gbqGxa720ECAkCUAbxqCt1dukQoXSWQ==;ASCi/DNk2O7+X24PU+EBSA=="

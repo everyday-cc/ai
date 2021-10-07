@@ -7,7 +7,7 @@ originalUrl: "https://thenewstack.io/how-dialpad-migrated-its-ai-development-fro
 webUrl: "https://thenewstack.io/how-dialpad-migrated-its-ai-development-from-pip-to-poetry/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1280
     height: 853
     isCached: true
+
+related:
+  - title: "Dialpad Supports the Next Generation of Artificial Intelligence Startups as National AI Showcase Sponsor"
+    excerpt: "Dialpad Inc., the industry leader in AI-powered communication and collaboration, today announced its official sponsorship of National AI Showcase, an online pitch competition for startups across Canada."
+    publishedDateTime: 2021-10-07T13:16:00Z
+    webUrl: "https://www.lelezard.com/en/news-20035852.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 37
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "VxUCVUteL+pExlyeAAau/KwH/S0w7LRqKveX/f9e/SJsAkDw4gHgUQtBJiYAPkLbtGX7GqoIQlBlZLX/oDYVBHsgRuwtYos4xddxMDiTY9GPMKAYuQGyq8TVKAezy4IEV67ZJpYRyLy3jiA+4vy5v32WCfzuYHcGCVbILm6fLBto6fQZuCXQwidUEL9ugOQf8X+rdj2rfJCx4OnDabo3vCGD9cExS/DAJ77fTOZhh12fXAnzfcM/DkmfD1O5/qHqjVrBIiB4RXJhkRRyIgxjP+O1b7XIoNyVm5vufQGSNJ86v5G6r06zB5h8H1n1YeAtwvSjamJN0SxXAYERb0pxlNbT/WIq0MYEGbXgbWh+DOPif3yajjf3Ztfps9RBcXgoHzOVAnpzz9MiHjnqDAO4pPiYeg0B4lpr88nehhy4lWwHx64QtziD3w3q0RBy0vF+4rJUMGoMOCntto2fVb0aLSRw3ffr8pOdklvNz72eVc0ldNClveSqE7Sp/bUs1SezjDqaq3kJ1ZaH1U4Ee92t7A==;cSv5Mw8cPr090ihyioI/tQ=="
 ---

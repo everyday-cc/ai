@@ -44,6 +44,22 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Gretel.ai, a platform for generating synthetic and privacy-preserving data, raises $30M"
+    excerpt: "Gretel.ai, a platform offering a suite of privacy-preserving data tools, has raised $50 million in a venture funding round."
+    publishedDateTime: 2021-10-07T13:00:00Z
+    webUrl: "https://venturebeat.com/2021/10/07/gretel-ai-a-platform-for-generating-synthetic-and-privacy-preserving-data-raises-30m/"
+    ampWebUrl: "https://venturebeat.com/2021/10/07/gretel-ai-a-platform-for-generating-synthetic-and-privacy-preserving-data-raises-30m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/gretel-ai-a-platform-for-generating-synthetic-and-privacy-preserving-data-raises-30m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/data_privacy2-e1623103310296.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "p64UMBShpPwMyIlXpxxaITZzw/n/4sHmExk32DvuykiPT1Wub+nUlRw8cYAN1pggtsGMqB6WmM61VMNtEyB+FSiEM4uzsaOH9HGYG3Jwr9QySABbf76xFvcpn2+1UDk1CedPpJveNWkMzJC2b8h1J+ETlRGtirae9fOd4t71hcpK0NBscW0GzNgWXXWoMiup44+1ubniXkxAMVoKovbBsVXXIcXdZef5jl5objtUuFfiCbNyQrhFVU0bUS7DKcL1Bbu1paw7TDOkiw2NqdSKQuWrScvhz5oCiaRGoxqN2OJbqX5tYuYMvr7Iqut5MNUq0RYbuotuNMZq29FYyze+MAB+Udy5ZcVgbHv0c8sAJWE=;dJ6yilrj73/QBD2lDG0dig=="
 ---

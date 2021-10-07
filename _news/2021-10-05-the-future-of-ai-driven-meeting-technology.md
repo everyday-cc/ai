@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-driven-meeting-technology/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202110/fb09af58482c4d07b89adfed4afbf0af.jpg"
         width: 980
         height: 607
+        isCached: true
+  - title: "The future of recruiting: Social media and AI tech go hand in hand"
+    excerpt: "In a job-seeker market, it may be time for recruiters to let go of job boards and meet talent where they are: on social media."
+    publishedDateTime: 2021-10-07T16:27:00Z
+    webUrl: "https://www.benefitnews.com/news/social-media-and-ai-are-recruiting-tools"
+    type: article
+    provider:
+      name: Employee Benefit News
+      domain: benefitnews.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/c13446f/2147483647/strip/true/crop/4608x2419+0+518/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F4a%2F00%2Fcff4502f4e77ab3ddb25621c54a8%2Fpexels-energepiccom-174938.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "buz6bixd2jX7KSLcTvcH3tU3ZpaborakPqViG/Pw7h7q/qf5dTzPQROq+UGdDjsKlliVHhr2MTMqQ1H7PWWNG//mYDPDATI07Ao4S7CMqfjEDUtb+3qWTj8NnDFo5Luz19s4TaD+03pDLEYlai15humeDqR6Lnkw80mAvCX+OLDk8S9t1w4iK5byh8/1hlaIWnMbquz4Ai4qUdlcfbD6nLldAZ18QHSdRNrEV4a6xDlUxl/zznkC30Aw7C/O1SWAbif5Xnuxj103pw+9hwVNszTbFRiNLXfhUn2HvS+h+orhBTWage+0URzYyVwFGgJ+e62DphdK8Lcvt97BE/Ih+po8xEuHvDc+iI5WJAtqae+v9jiK+Dn4YGfZNtJNTEeXB5V/87nBPQeaGOwoAZ54sKyYHhD3uhATMZbA1YaDpkSyMJHRf+F9h8/dvsQ08ykMt5FdD7EgBG/uHKabS185rwXSwIkzwPRyq9gj8uT3A5XGYshFMFcGLnUodqwmUfF8Am5BKN3GDytxTNngCD4dpw==;DNHwDmiAkBsdU1HTvtkBbg=="

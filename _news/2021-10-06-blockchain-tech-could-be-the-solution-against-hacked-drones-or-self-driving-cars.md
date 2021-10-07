@@ -39,15 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Empowering Smart Computing Paradigm: Transformative integration of Edge of Things, AI and Blockchain"
-    excerpt: "The emerging computing paradigm named Edge of Things (EoT) have made their entrances into many areas, such as smart city, healthcare, academics, intelligent transportation, energy consumption, Internet of Drones,"
-    publishedDateTime: 2021-10-03T00:11:00Z
-    webUrl: "https://www.frontiersin.org/research-topics/26673/empowering-smart-computing-paradigm-transformative-integration-of-edge-of-things-ai-and-blockchain"
-    type: article
-    provider:
-      name: Frontiers
-      domain: frontiersin.org
-    quality: 2
 
 secured: "75mjl51dWAXVUYDGeCJWFpE3WhogZVXnZubIt5bxoglI4QfsACWEuQcOqVC7TKH4sj83Zo9y5E6i+wNwTwk1KIlGwlXWRPFemrq/huC9g+3XgF5XQhRAUOsACFUQOvZVmGfB2i3/E2JQecMJY2gzkx+8agaWFGgEaFOjsCG/8LhikvLtCDLa5b4dTUQvi9BJe/mcXZisr37qzfFQSRy6xHrcsyoaqTMmsMfvJcGo7XDEN2jNsVmzcihwi19D56QTRePDD7I9e/C2PeE1L2gQzNvAnO/LyDgkpS2gzPGTL8Zcc2FFTuIK6AVc8bv/pKuUizhjcJRlKdQAQ16xBybouCDtr8JBLKAQF6NoEyWt/BqZq1FRyS5SOPxojHqDuLxXtt+cSRk+J6V+qI5bObfCKIK7+qlqxXcmDWySdK4hm+T2xB3TZfookJ3dCd0U8rAELhvwUARxA1QD3PGDu7eSTaVJjF8ENQ0VeFCYgZ2potn2Dd4aQ0qIcyYmw3pNje79hnTGvj5xfPxYHblBHKEpNw==;CqOf8OnRPqYdWdTVfJqCzw=="
 ---
