@@ -38,7 +38,7 @@ related:
     provider:
       name: WRAL TechWire
       domain: wraltechwire.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://www.wraltechwire.com/wp-content/uploads/2021/10/Igor2-e1633463598652-1024x577.jpg"
         width: 1024

@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "This is best practice for using facial recognition in law enforcement"
-    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Lofred Madzou, Project Lead, Artificial Intelligence and"
-    publishedDateTime: 2021-10-05T10:30:00Z
-    webUrl: "https://europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/"
-    ampWebUrl: "https://europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/amp/"
-    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/amp/"
+  - title: "Europe Wants to Ban Facial Recognition—Take Note, America"
+    excerpt: "On Wednesday, the European Parliament called for a moratorium on police use of the biometric tool. It'd be great if U.S. legislators did the same."
+    publishedDateTime: 2021-10-06T23:42:00Z
+    webUrl: "https://gizmodo.com/europe-wants-to-ban-facial-recognition-take-note-ameri-1847809788"
+    ampWebUrl: "https://gizmodo.com/europe-wants-to-ban-facial-recognition-take-note-ameri-1847809788/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/europe-wants-to-ban-facial-recognition-take-note-ameri-1847809788/amp"
     type: article
     provider:
-      name: europeansting.com
-      domain: europeansting.com
-    quality: 59
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 91
     images:
-      - url: "https://europeansting.files.wordpress.com/2021/10/face.webp"
-        width: 687
-        height: 1031
-        isCached: true
-  - title: "Canadians asked to comment on draft guidance for police use of facial recognition"
-    excerpt: "Canadian police departments and interested groups have 10 days to submit written opinions on the proposed privacy obligations of law enforcement agencies that want to use facial recognition technology."
-    publishedDateTime: 2021-10-06T16:31:00Z
-    webUrl: "https://www.itworldcanada.com/article/canadians-asked-to-comment-on-draft-guidance-for-police-use-of-facial-recognition/459786"
-    ampWebUrl: "https://www.itworldcanada.com/article/canadians-asked-to-comment-on-draft-guidance-for-police-use-of-facial-recognition/459786?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/canadians-asked-to-comment-on-draft-guidance-for-police-use-of-facial-recognition/459786?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 54
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2020/06/GettyImages-1148006029.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/18feb09125fbf09b8e9d8c077cb670dd.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "POLITICO AI: Decoded: Parliament wants to ban facial recognition— Experimenting with facial recognition rules — Big big bucks in AI"
     excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
@@ -74,20 +58,6 @@ related:
       - url: "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "It’s time to start regulating facial recognition technology"
-    excerpt: "Its time for regulation to be stepped up in facial recognition technology as there is no oversight, governance, or accountability at the present moment."
-    publishedDateTime: 2021-10-04T18:13:00Z
-    webUrl: "https://techhq.com/2021/10/regulation-on-facial-recognition-needed/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 41
-    images:
-      - url: "https://cdn2.techhq.com/wp-content/uploads/2018/12/000_1SN6GC.jpg"
-        width: 1024
-        height: 681
         isCached: true
   - title: "EPP refuse call to ban public facial recognition systems for policing"
     excerpt: "MEPs for the first time call for a moratorium on the deployment of facial recognition systems for law enforcement purposes"
@@ -117,15 +87,6 @@ related:
         width: 480
         height: 322
         isCached: true
-  - title: "West Lafayett City Council Votes in Favor of Banning Government Use of Facial Recognition Technology"
-    excerpt: "The West Lafayette City Council took up a vote to ban Government use of Facial Recognition Surveillance technology. The council was split on its decision."
-    publishedDateTime: 2021-10-05T06:06:00Z
-    webUrl: "https://www.wlfi.com/content/news/West-Lafayett-City-Council-Votes-in-Favor-of-Banning-Government-Use-of-Facial-Recognition-Technology-575459661.html"
-    type: article
-    provider:
-      name: WLFI
-      domain: wlfi.com
-    quality: 4
 
 secured: "utQn9x7Vjq5Jll6q3dlKpORpLyDXvXUqrZVc7hlzstmRb0lVkYFTpClOd/YBcBuQB0YdngFOt++JaX23PZ0B4iO2yZ8A9g57+eDI7e7Wx38rNYxgxiaNO1aZVpL1BeBZrkHSVH8SDr8x5s/i1UmPhO64xtiXC5YRMnKrQhHUnnDm48szI27kuu9e9oUkKHoFB+Dhk/oT/mUc8j8/vj2N2M1m7Tcuc94Geg5zuN9kVr6Ly3CwnRlAg++qIRpuFr4D5kmSegrmyCO6pSdHTYmsg/O+j4iSUMlpGBm6s+V8n99cFwAFtNmKVhnlzN9Z05snFPzlIyHq5tLM17fCuSG7D/JKovcKUCaRgEKERBcKg9nEhvflqGTQT62gSRO8m2iTXi5A/5hiLnCqTXt/PoUw+ivN+TO5mshptaSpgVx2S4+uBlrwi726/X8hnaCcgiXeHBS/7HdiiKKsMOzsSUVDSYLqsiC2c6CtAMRnc38PXr7zazVOh8FLV9XQD3YkvXl9tg6uZqCB7WLzmAfSnS32hg==;nGAa4NYX9PVwJ3uVmwtTHw=="
 ---

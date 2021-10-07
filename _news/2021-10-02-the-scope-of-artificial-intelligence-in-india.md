@@ -70,20 +70,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Kai-Fu Lee — The Future of Artificial Intelligence"
-    excerpt: "The extraordinary opportunities—and challenges—presented by artificial intelligence are at the heart of Kai-Fu Lee's new book, AI 2041: Ten Visions for Our Future, a \"scientific fiction\" that sketches 10 possible AI-driven futures that are within the realm of the scientifically possible."
-    publishedDateTime: 2021-10-02T05:47:00Z
-    webUrl: "https://www.hks.harvard.edu/events/kai-fu-lee-future-artificial-intelligence"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 52
-    images:
-      - url: "https://www.hks.harvard.edu/sites/default/files/about_us/Twitter-Card.png"
-        width: 840
-        height: 450
-        isCached: true
 
 secured: "XIotZVB16wHU9knQXOlnuFWhHx7r5mIyLUu1TCYSx96RIsHOK7yrZTYV0ja6HtA1F39APj8JlOr6ROcPaGZc2rrPVDOjwnn2ejwkQ3EMPlVqh4oMKYSXfSp/PTMVGvREMSVLYAGX0GK19WCoAQPKr4W6KAA3ajhiHBosViGe4eiHmjUmy6rc+7S94s0x5z2SY4yP3/R5W3oD/QDEEXRG++jKx/jbAvZjpoe63hmuRlv4Ufj9tXc8v/kxkXTSHzNdhXp9cp6odaOI056ewAeVf9HsVRMXWMcy68s3hVJWfno4Om5Swhl7hVhHtZfNtCJlkR1gdJw0kl6Spurgv8mWh4AktLjcWGbuGe8SMOuckb83bEoFr+gNs6PKcK7tTZ7aJqfy0Znulzke41AdwE3hUyoQsPrBY0h2pU/o4QrXyO/RgPcP9N+cKX8dcPXG+M40orXRMzyqroIgaHgX1iLLeRKqNQmcZtwNcttaAyu9Rt9pSdz7AdLEjvpug49fzOEsTOxJwmBn92c/qbVEW3jJHA==;E0B4Ybgajl+OHquux20+xw=="
 ---

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GM Ultra Cruise pushes closer to door-to-door self-driving cars"
+    excerpt: "General Motors is officially dialing its self-driving program up from \"Super\" to \"Ultra.\" Set to launch in model year 2023, the all-new Ultra Cruise system promises a full hands-free driving experience in 95 percent of driving scenarios."
+    publishedDateTime: 2021-10-06T21:56:00Z
+    webUrl: "https://newatlas.com/automotive/gm-ultra-cruise/"
+    ampWebUrl: "https://newatlas.com/automotive/gm-ultra-cruise/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/gm-ultra-cruise/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 74
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/156c86d/2147483647/strip/true/crop/1280x853+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F79%2Fc2%2F7037f0204f8b953292f2f8158a36%2F2021-cadillac-escalade-004.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Want To Join The Tesla Full Self Driving Beta? You’ll Have To Prove You’re A Good Driver First"
     excerpt: "Advertisement If you’re willing to risk your life for the self-driving gimmick, here’s what you can do to join Tesla’s FSD beta… According to InsideEVs, Tesla is finally releasing its Full Self Driving (FSD) Beta button."
     publishedDateTime: 2021-10-05T07:56:00Z
@@ -88,6 +104,20 @@ related:
       - url: "https://images.barrons.com/im-411554/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "GM’s Ultra Cruise Will Leapfrog Tesla Autopilot, Offer Full Hands-Free Driving Virtually Everywhere"
+    excerpt: "GM aims to take the lead in the race to develop autonomous driving with the new Ultra Cruise system. Set to debut in 2023 it will allow hands-free operation on 2 million miles of road - and that will grow to 3."
+    publishedDateTime: 2021-10-06T22:26:00Z
+    webUrl: "https://www.thedetroitbureau.com/2021/10/gms-ultra-cruise-will-leapfrog-tesla-autopilot-offer-full-hands-free-driving-virtually-everywhere/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 25
+    images:
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/10/GM-Ultra-Cruise-graphic-1.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "GM's Ultra Cruise to enable hands-free driving for 95% of driving in 2023"
     excerpt: "GM's Ultra Cruise driver-assist system will arrive in 2023 to go beyond Super Cruise and provide hands-free driving on more than 2 million miles of road in the U.S. and Canada."

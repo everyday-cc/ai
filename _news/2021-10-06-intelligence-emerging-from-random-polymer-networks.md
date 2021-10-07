@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Intelligence emerging from random polymer networks"
-excerpt: "A team of researchers led by Osaka University assembled a sulfonated polyaniline (SPAN) organic electrochemical network device (OEND) for use in reservoir computing. SPAN was deposited on gold electrodes which formed a disordered network providing humidity-dependent electrical properties."
-publishedDateTime: 2021-10-06T14:02:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/930671"
-webUrl: "https://www.eurekalert.org/news-releases/930671"
+excerpt: "Reservoir computing (RC) tackles complex problems by mimicking the way information is processed in animal brains. It relies on a randomly connected network that serves as a reservoir for information and ultimately leads to more efficient outputs."
+publishedDateTime: 2021-10-06T13:36:00Z
+originalUrl: "https://phys.org/news/2021-10-intelligence-emerging-random-polymer-networks.html"
+webUrl: "https://phys.org/news/2021-10-intelligence-emerging-random-polymer-networks.html"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
-  - AI in Robotics
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/e8577f5f-9236-4bec-906a-e12005e2ad3c/Rendition/thumbnail/Content/Public"
-    width: 300
-    height: 272
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/intelligence-emerging.jpg"
+    width: 943
+    height: 856
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 400
         isCached: true
 
-secured: "8hpPYiJzqAMCchTkBGcJfeJr+2PCOz3K6m5paD3iB6R0aosrlt9zHfwYQhyefLU9FM2DP3aZLuei0enFXBVMyODmE4NCnYsaydLNosAcdyIV8xf1RRrMN7esXxJ3pdmojHOSgp65FdQBk7oeFQIlcALCjmUD9rCeZni51BC/oFpJbrapNbAeJCcQO0Sk9nDdlVGRTukBw0LOJzU48/hSFZvx/wjsPC5Ilzy23+zfUgeWvyEcH6A961PvlWkb4VCP7kHEvCo9Qaa38inJ5sFtCxnvisRFmtAPeYqyrvFch+dqq9YuIwMUDaRYCY4M0M+IQHP8rOyZbY0W3XYM/XMNh46ey7PQmhSSXQaSP3fxzcE=;pgZh4sfs1jOdiHsmx6jJUA=="
+secured: "KE0PMSIfu9uW1KwGEl/yXweNm6hE+qPpHj/60fMkwCbGE0z6JE+XUjmZGCmTVXDCFklFbkTNJzQTcWzT4YsB+E9Oh344/4JVblL3K5t/SfXhJYXnYUxsJGAWt3byOb63b2uRdDV8Czz68hmPsTZo5Mkv/yFPEUbLyF3oe2LNG+ksyz2wS3gFedNUV1bagFnuDQ+ipVuw+b8SXcpmwn+hC2fC55QuJs7N3YevN8RmgbDx1fhM5k0CBcuXHt2WWq2He76zNlSLYH8jL2XQQzkhiVrx1IBacs2pyBL8viOBLoVxM1HcNOuqmVlz7yrNKkv7zQRxVKTdzt1R1pKN/Pjv7xcR8gYv5GMjSVGOZshIdas=;OUyDhXFiMSTPtkLiGvlAAg=="
 ---
 

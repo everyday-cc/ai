@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Bring structure to diverse documents with Amazon Textract and transformer-based models on Amazon SageMaker"
+    excerpt: "From application forms, to identity documents, recent utility bills, and bank statements, many business processes today still rely on exchanging and analyzing human-readable documents—particularly in industries like financial services and law. In this post, we show how you can use Amazon SageMaker, an"
+    publishedDateTime: 2021-10-06T22:52:26Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-structure-to-diverse-documents-with-amazon-textract-and-transformer-based-models-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 103
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
+        isCached: true
   - title: "Run computer vision inference on large videos with Amazon SageMaker asynchronous endpoints"
     excerpt: "AWS customers are increasingly using computer vision (CV) models on large input payloads that can take a few minutes of processing time. For example, space technology companies work with a stream of high-resolution satellite imagery to detect particular objects of interest. Similarly, healthcare companies"
     publishedDateTime: 2021-10-06T21:28:48Z

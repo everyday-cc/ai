@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/05/autify-advances-no-code-ai-powered
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/autify-advances-no-code-ai-powered-software-testing-automation-platform-with-10m-series-a/amp/"
 type: article
 quality: 77
-heat: 77
+heat: 79
 published: true
 
 provider:

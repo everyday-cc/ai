@@ -8,8 +8,8 @@ webUrl: "https://stockhead.com.au/tech/ai-vetting-of-startups-is-now-a-thing-and
 ampWebUrl: "https://stockhead.com.au/tech/ai-vetting-of-startups-is-now-a-thing-and-could-benefit-both-investors-and-businesses/?amp"
 cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/ai-vetting-of-startups-is-now-a-thing-and-could-benefit-both-investors-and-businesses/?amp"
 type: article
-quality: 50
-heat: 50
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://stockhead.com.au/wp-content/uploads/2021/10/giphy-7.gif"

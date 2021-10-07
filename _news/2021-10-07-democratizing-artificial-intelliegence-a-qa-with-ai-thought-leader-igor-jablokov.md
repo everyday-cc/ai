@@ -8,7 +8,7 @@ webUrl: "https://www.wraltechwire.com/2021/10/06/democratizing-artificial-intell
 ampWebUrl: "https://www.wraltechwire.com/2021/10/06/democratizing-artificial-intelliegence-a-qa-with-ai-thought-leader-igor-jablokov/?amp=1"
 cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/10/06/democratizing-artificial-intelliegence-a-qa-with-ai-thought-leader-igor-jablokov/?amp=1"
 type: article
-quality: 52
+quality: 54
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.wraltechwire.com/wp-content/uploads/2021/10/Igor2-e1633463598652-1024x577.jpg"
@@ -44,6 +45,6 @@ related:
         height: 577
         isCached: true
 
-secured: "L4vm1xv0B65ql7Lr5IITGROrcUxC5iVHdo73+x15MOhHZcckJfvvYqAXt2hJxEPm6w1wyZ+htaNJaJ0/YZFKsm8vykuNYKjlklzZbYfpwgVPu5XXktvZpOZdwmuWVGE9ngg2gPiK7f1RbcQkHtpQMqaFcHTC5za/w2DQu0ZazaMIZWTgbMmPA1UQWWH25ZhZ3MN0yqwC2DHukTimxBzu91kOkhjIxChq6GuU5rbLbOyjsdrIJSsnY0tTGNvb7N86etYTtVJ9V6Yc2J0pFeyKp2hRSt2OnTX6tiC2CaKMvynNo31tuHl/rdqWb1YaVClvFlMWhu5yXNczxBjfIYbvGljTAbqWJeEWG0pgPQOmrMU=;cgFaxB4zAeC7XfdXtPfvrw=="
+secured: "9oD7k4f9seHgHnS4TqiZHiMN/UuAsBcNnO4M4xxuD97To3h022fOAuM+ISv0ODHT8qMI0DCiuX+e8+B/HGh8um4QHZwqf6RbdXRtb7Hb7z4F+zrAOMC+GodQnF/jKMgo9TFbL0rhXgU+4ZMXvzwlHMMxvZWk0a3d/iZ6WmTsMBtks/sjXmGwOhkbrDlbBUccCsNhDKHDax8CkAJPZLqgtWqCwZG6BFJanf900xyCBtwsPhnWp6Iw4gcQh4feWU79t0wzJd1LuLc4nEDimF8Qiy1AOFulIghHrowZ+rG6Gc6w20WMw6WliIH2X4iIkERkyM1yLgQ7lhqdVBllPzImrmoo/J9ZWKZKGfiapKKluT3rvuXJvSvGx37LPsyF61W4h7Y9oQhAEyYpXVox/0IZS2u+n58Szk9wLfWQlsRYh6RsC7af7MaXdbTY0luBtwGG+t033spf3rBJPhVWnigCQxnSCxp8zW+h+WEiGeiL8Z72WHky4kumLh9CzFWlKYv5qFbqrcwGBHK23F5Dd/3b5Q==;BlhbbRUnECrBmTiDaUOYew=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/clearview-ai-says-it-can-do-the-computer-enhance
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-says-it-can-do-the-computer-enhance-thin-1847795776/amp"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

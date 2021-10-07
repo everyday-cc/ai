@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/05/neural-magic-which-offers-softwar
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/05/neural-magic-which-offers-software-for-growing-edge-ai-market-gets-30-million-boost/amp/"
 type: article
 quality: 81
-heat: 91
+heat: 92
 published: true
 
 provider:

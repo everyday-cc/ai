@@ -61,20 +61,6 @@ related:
         width: 980
         height: 607
         isCached: true
-  - title: "Kai-Fu Lee — The Future of Artificial Intelligence"
-    excerpt: "The extraordinary opportunities—and challenges—presented by artificial intelligence are at the heart of Kai-Fu Lee's new book, AI 2041: Ten Visions for Our Future, a \"scientific fiction\" that sketches 10 possible AI-driven futures that are within the realm of the scientifically possible."
-    publishedDateTime: 2021-10-02T05:47:00Z
-    webUrl: "https://www.hks.harvard.edu/events/kai-fu-lee-future-artificial-intelligence"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 52
-    images:
-      - url: "https://www.hks.harvard.edu/sites/default/files/about_us/Twitter-Card.png"
-        width: 840
-        height: 450
-        isCached: true
   - title: "The Scope of Artificial intelligence in India"
     excerpt: "Artificial intelligence (AI) has transformed the world of technology. This is the reason why AI investment is increasing. Keep reading to learn about what is the current situation of our country as far as AI is concerned,"
     publishedDateTime: 2021-10-02T08:30:00Z

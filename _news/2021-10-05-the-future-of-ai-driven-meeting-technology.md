@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-driven-meeting-technology/amp/"
 type: article
 quality: 87
-heat: 129
+heat: 117
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG1wh0a0R6i9A/article-cover_image-shrink_720_1280/0/1633189407713?e=1639008000&v=beta&t=qvFzABCXoEoVg9wK4OjX0No9S-1IUKYkvUBAcgs-ids"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Kai-Fu Lee — The Future of Artificial Intelligence"
-    excerpt: "The extraordinary opportunities—and challenges—presented by artificial intelligence are at the heart of Kai-Fu Lee's new book, AI 2041: Ten Visions for Our Future, a \"scientific fiction\" that sketches 10 possible AI-driven futures that are within the realm of the scientifically possible."
-    publishedDateTime: 2021-10-02T05:47:00Z
-    webUrl: "https://www.hks.harvard.edu/events/kai-fu-lee-future-artificial-intelligence"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 52
-    images:
-      - url: "https://www.hks.harvard.edu/sites/default/files/about_us/Twitter-Card.png"
-        width: 840
-        height: 450
         isCached: true
   - title: "The Scope of Artificial intelligence in India"
     excerpt: "Artificial intelligence (AI) has transformed the world of technology. This is the reason why AI investment is increasing. Keep reading to learn about what is the current situation of our country as far as AI is concerned,"

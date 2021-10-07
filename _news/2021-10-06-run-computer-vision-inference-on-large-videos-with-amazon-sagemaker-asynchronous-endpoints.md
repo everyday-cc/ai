@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/run-computer-vision-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/run-computer-vision-inference-on-large-videos-with-amazon-sagemaker-asynchronous-endpoints/"
 type: article
 quality: 96
-heat: 116
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Bring structure to diverse documents with Amazon Textract and transformer-based models on Amazon SageMaker"
+    excerpt: "From application forms, to identity documents, recent utility bills, and bank statements, many business processes today still rely on exchanging and analyzing human-readable documents—particularly in industries like financial services and law. In this post, we show how you can use Amazon SageMaker, an"
+    publishedDateTime: 2021-10-06T22:52:26Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-structure-to-diverse-documents-with-amazon-textract-and-transformer-based-models-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 103
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
+        isCached: true
   - title: "Detect defects in automotive parts with Amazon Lookout for Vision and Amazon SageMaker"
     excerpt: "According to a recent study, defective products cost industries over $2 billion from 2012–2017. Defect detection within manufacturing is an important business use case, especially in high-value product industries like the automotive industry. This allows for early diagnosis of anomalies to improve production"
     publishedDateTime: 2021-10-05T22:10:33Z

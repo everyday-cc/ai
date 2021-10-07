@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.amp"
 type: article
 quality: 57
-heat: 97
+heat: 98
 published: true
 
 provider:

@@ -40,20 +40,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Artificial intelligence to the rescue"
-    excerpt: "Washington State University will lead a consortium of institutions in the development of new artificial intelligence tools to help address problems in the agricultural field."
-    publishedDateTime: 2021-10-02T07:00:00Z
-    webUrl: "https://lmtribune.com/agriculture/artificial-intelligence-to-the-rescue/article_fd563974-9988-5012-85af-7310e61d0f18.html"
-    type: article
-    provider:
-      name: Lewiston Tribune
-      domain: lmtribune.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/lmtribune.com/content/tncms/assets/v3/editorial/7/3b/73b47508-662a-5d8e-a646-636971f74716/61523f24dd8d4.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
-        isCached: true
 
 secured: "kGVKnth9SjPz6AJkICK8KxR75NTgFr/gIwKkCEm80iSOVt6MCpVlkdPQaRq7+GoJTNBnL23MQFqDVgZDpSxkl+RqZlqYKhJtDa1Xg6Rt4HZWJ8MbRwdXf+y8m/jIkT/anBa4Al4ALYfJ6FHun+mx8qZYFUrBoepmRm/rTzbTsJ63ctvz91f4J5ZmBxUG1CBBYxzk54pzfKOTvxaVtVR7RxPP+yvLLE8ypeQLfSncLE238fTSHaxgBmVtzLPhVPcjJ6QGjI4OSRDYxeKmZ7ZJhjmBKQIW79lqV+M0FLO9kWI+pMXNSMRt1+8Vf/vuRzpvRH8GilMgfXkDnbWM8mxIHQWGc9sx+uDcVbgINtmb48inZzifjEKudJQY5w1J4RcHlKs0TseoerCRsn3Q3tabbBg/2q1cgacYPfMXxHfQivaABYgGQFZ6TK0LGOdhwsVHysjsklci/YBKOvtmo2TbQ5wjyyJotVL35hnK7KTqrc0ZxM1qIJcX3AvaRZT0LSjSx4Mcnsds3u0Ol8/p8jBk+Q==;BBGSgZEdIGY7QV5dl0a7YA=="
 ---
