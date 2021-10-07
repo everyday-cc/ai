@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "facebookai"
   url: "https://twitter.com/facebookai"
-  followers: 159209
+  followers: 159225
 
 size: 10,001+ employees
 yearFounded: 2004
