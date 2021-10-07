@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Ocado Invests GBP10 Million in Self-Driving Startup Wayve for Autonomous Grocery Deliveries"
-excerpt: "Self-driving technology startup Wayve said Wednesday that it has secured a 10 million-pound ($13.6 million) investment from online grocer Ocado Group PLC in a partnership that will develop autonomous grocery deliveries in urban environments."
-publishedDateTime: 2021-10-06T06:02:00Z
-originalUrl: "https://www.morningstar.com/news/dow-jones/202110064841/ocado-invests-gbp10-million-in-self-driving-startup-wayve-for-autonomous-grocery-deliveries"
-webUrl: "https://www.morningstar.com/news/dow-jones/202110064841/ocado-invests-gbp10-million-in-self-driving-startup-wayve-for-autonomous-grocery-deliveries"
+title: "UK's Ocado invests in self-driving startup Wayve"
+excerpt: "British online grocer Ocado is investing 10 million pounds (A$18.6 million) in self-driving technology startup Wayve and a partnership to develop autonomous grocery deliveries that can handle tough traffic on busy city streets."
+publishedDateTime: 2021-10-06T23:45:00Z
+originalUrl: "https://www.itnews.com.au/news/uks-ocado-invests-in-self-driving-startup-wayve-570897"
+webUrl: "https://www.itnews.com.au/news/uks-ocado-invests-in-self-driving-startup-wayve-570897"
 type: article
-quality: 0
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: IT News For Australia Business
+  domain: itnews.com.au
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://i.nextmedia.com.au/News/supermarket_grocery_shutterstock_48473779.jpg"
+    width: 1000
+    height: 669
+    isCached: true
 
 related:
   - title: "Wayve, the Lidar-free self-driving startup, raises $13.6M from Ocado"
@@ -51,21 +57,16 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "UK's Ocado invests in self-driving startup Wayve"
-    excerpt: "British online grocer Ocado is investing 10 million pounds (A$18.6 million) in self-driving technology startup Wayve and a partnership to develop autonomous grocery deliveries that can handle tough traffic on busy city streets."
-    publishedDateTime: 2021-10-06T23:45:00Z
-    webUrl: "https://www.itnews.com.au/news/uks-ocado-invests-in-self-driving-startup-wayve-570897"
+  - title: "Ocado Invests GBP10 Million in Self-Driving Startup Wayve for Autonomous Grocery Deliveries"
+    excerpt: "Self-driving technology startup Wayve said Wednesday that it has secured a 10 million-pound ($13.6 million) investment from online grocer Ocado Group PLC in a partnership that will develop autonomous grocery deliveries in urban environments."
+    publishedDateTime: 2021-10-06T06:02:00Z
+    webUrl: "https://www.morningstar.com/news/dow-jones/202110064841/ocado-invests-gbp10-million-in-self-driving-startup-wayve-for-autonomous-grocery-deliveries"
     type: article
     provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 24
-    images:
-      - url: "https://i.nextmedia.com.au/News/supermarket_grocery_shutterstock_48473779.jpg"
-        width: 1000
-        height: 669
-        isCached: true
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
-secured: "FX5yLvun4CiAyjQEAmQHiHyWfOQAOiev1evPxDx9iFajrikIIoyBf8SBvuiTMNXGqE10+3mLq2UwPDn1LhkjvkYHDX8NYAoTaYQXBDlOEWGizzUmNB8acbdsfJ+x9s3gr8sYtXUYhBkaCmiOVsQ+QD7OzjhIEpeGXZLqDlNbTPWp59Cm6SIzVPVskGJA/lABIAHpYnQyz5XURXB+rgfqBOiTE+4fhHDRZPLQt76EakF8swCtGyFtjUq2FC2pzGnNz0fuASjy+aRAUGMWMCRY1XtjCROyIafveeWNf0wNazY9uaYoP3HIcZUQmrOfJXV57clc9MnUTWOZvVAymv9PDD0jbqCkUU9hAx/tAh2JW6w=;5owoJM215Lxd7HpZS+5iLw=="
+secured: "zy2pWJ6SeytQ5dNb2BpkgbB8tulHMNXhrXQ9FdQr8dghpCGZZYyFolvjO469yRILRj7szx9L/TvLLG6dvb/aJ641k8B4fL2L54qzk8X9gGu7KtkGM1l/8uBTUoQ7+JynJ6FPb6MHHYjjiYLvxEpoZVF0dEnQyRzBJXNxnVkxaCg0MY5jLo8dbgu68XWNcmFlptaIFqF1OButMvRS94XKa3R+Gu1CgMzcEkMTJQ17znNJ64I2goN+VsQ3AOJNyO694woqLVNlK9B3+DzXXIcpR6cFSnwq51YgWNRnb75Vx3p8+HPNjlCvhlqLvloZq/ehl1BPwnaSDKstMW8AkUYUkHaocndbnjkFvQQGDQaMR0w=;j+ijfDmnylcZHsE/4FVBYg=="
 ---
 

@@ -61,20 +61,6 @@ related:
         width: 980
         height: 607
         isCached: true
-  - title: "The Scope of Artificial intelligence in India"
-    excerpt: "Artificial intelligence (AI) has transformed the world of technology. This is the reason why AI investment is increasing. Keep reading to learn about what is the current situation of our country as far as AI is concerned,"
-    publishedDateTime: 2021-10-02T08:30:00Z
-    webUrl: "https://www.analyticsinsight.net/the-scope-of-artificial-intelligence-in-india/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/The-Scope-of-Artificial-intelligence-in-India.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "KEhmQnVI1Il72Pe/6jbpeiloyrJl/Ptqezk7yuXHmfQ3fmuVxmLYOUnGlSzgcIHsu0C4IQAjMFAWwUBx/uskTQI/O1lutnEYs4WnUvhJrlMtrRJZJDGB7R/AbF8YzL5RzqWkWgcAsUDGrR8nMrXGy+CNjyXzX7pErVwgHZcroluXp3E8MPP6VGyDN8XwTuY3QVmduFlN9JfWnsaTv1I22Zl2hdzUozeCInxABi0a2RaLI83buGXgwgdA5twvY3++opI1greSkaJrJbgZ0t1vpyYGW1GoBVrb/XRxiOygLcwf6mLoHWj39LEo0DA+ezSQ3Sk6AHdb9HYcLI6oAuPGdRUH/AW5hJtOYB6MZFq0NpLkYFq+wn1X7NXiXp8/L/J11f3pzeMgzERyZMpGgtBB2PyIPf7CUuPO2vOEBEZtXnuHUhuM89Ny6GxHdQ1wJfB2UmC7Z8EV65Ug+g+rWsuDel5/zbkis+5DfYJgCXm4dCTrTDKexFMAY+lCnVZjBXBZ3nxD5MfVMVJolj1hbtN2cg==;mlSc6DoopLd0IWZMgpkPrA=="
 ---

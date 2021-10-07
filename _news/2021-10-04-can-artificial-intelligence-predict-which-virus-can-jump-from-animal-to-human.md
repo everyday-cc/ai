@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jpost.com/science/can-artificial-intelligence-predict-whic
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/science/can-artificial-intelligence-predict-which-virus-can-jump-from-animal-to-human-680962/amp"
 type: article
 quality: 53
-heat: -1
+heat: 53
 published: false
 
 provider:
@@ -24,56 +24,6 @@ images:
     width: 640
     height: 428
     isCached: true
-
-related:
-  - title: "AI May Predict the Next High-Risk Virus To Jump From Animals to Humans"
-    excerpt: "Most emerging infectious diseases of humans (like COVID-19) are zoonotic – caused by viruses originating from other animal species. Identifying high-risk viruses earlier can improve research and surveillance priorities."
-    publishedDateTime: 2021-10-02T07:58:00Z
-    webUrl: "https://scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/"
-    ampWebUrl: "https://scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 57
-    images:
-      - url: "https://scitechdaily.com/images/Bats-Caught-During-Zoonotic-Virus-Surveillance-777x583.jpg"
-        width: 777
-        height: 583
-        isCached: true
-  - title: "Artificial Intelligence may help predict next pandemic, here’s how"
-    excerpt: "Most diseases infectious to humans are zoonotic, caused by viruses originally infecting other animal species, like COVID-19.Identifying such viruses,"
-    publishedDateTime: 2021-10-03T05:28:00Z
-    webUrl: "https://english.alarabiya.net/business/technology/2021/10/03/Artificial-Intelligence-may-help-predict-next-pandemic-here-s-how"
-    ampWebUrl: "https://english.alarabiya.net/amp/business/technology/2021/10/03/Artificial-Intelligence-may-help-predict-next-pandemic-here-s-how"
-    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/business/technology/2021/10/03/Artificial-Intelligence-may-help-predict-next-pandemic-here-s-how"
-    type: article
-    provider:
-      name: العربية.نت
-      domain: alarabiya.net
-    quality: 57
-    images:
-      - url: "https://vid.alarabiya.net/images/2020/01/07/69dbd27b-0f11-47e5-a814-58f3bb57d05e/69dbd27b-0f11-47e5-a814-58f3bb57d05e_16x9_600x338.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "AI used to predict which animal viruses are likely to infect humans: study"
-    excerpt: "Artificial intelligence (AI) could be key in helping scientists identify the next animal virus that is capable of infecting humans, according to researchers. In a Tuesday study pu"
-    publishedDateTime: 2021-10-04T15:53:00Z
-    webUrl: "https://nypost.com/2021/10/04/ai-used-to-predict-which-animal-viruses-are-likely-to-infect-humans-study/"
-    ampWebUrl: "https://nypost.com/2021/10/04/ai-used-to-predict-which-animal-viruses-are-likely-to-infect-humans-study/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/10/04/ai-used-to-predict-which-animal-viruses-are-likely-to-infect-humans-study/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 55
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/10/dennisdavisbrianlaundrie.png?w=1024&#038;strip=all"
-        width: 1023
-        height: 682
-        isCached: true
 
 secured: "58U2EiGoHuRMNB9VWoZW0siVL4Vl678MFhXaRmYjIaJE81bq8pTXDDGhgnIQW2FYw534u0KovwE8GWcwO5i6WO3brnX07OCzvK/Cs8Kf30PDkoSgwh9rXIs+8ITUYEQjB9I/ol08Q8VSXbXz5xy99ghclROeDyeig3uoonddWnRACbHgmh5GLBN/W0vFCFMyAGguSFWEAGBS0+zaGtVUb7ONRczWky/BSoTYkxOOxYSRcodUg3/589hxHhwTlVs0y7Q93LJCljR7soegbl0GVNG3NYPeQEs+WZ3IrdwVzyiL+dGcp0a0kR/5/Qv+cxMRbBlYQrmmTEwltkE17k1DI7ngPCSQ5zmQxdbqggQlnfc=;K99kOW7LbkbeP77pJxQXyg=="
 ---

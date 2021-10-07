@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/europe-wants-to-ban-facial-recognition-take-note
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/europe-wants-to-ban-facial-recognition-take-note-ameri-1847809788/amp"
 type: article
 quality: 91
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "European Parliament passes non-binding resolution to ban facial recognition"
+    excerpt: "In the midst of supporting a facial recognition ban for law enforcement, the European Commission is reportedly preparing to charge Apple for acting anticompetitively with its NFC block."
+    publishedDateTime: 2021-10-07T00:37:00Z
+    webUrl: "https://www.zdnet.com/article/european-parliament-passes-non-binding-resolution-to-ban-facial-recognition/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/european-parliament-passes-non-binding-resolution-to-ban-facial-recognition/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/european-parliament-passes-non-binding-resolution-to-ban-facial-recognition/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/077f0d0acac61f7819fa5b878c59dba9db36c0e8/2021/05/26/cf8ae2ae-d7f1-441c-bd07-269f57b1c255/facial-recognition-emotion.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "European Parliament calls for a ban on facial recognition"
     excerpt: "The European Parliament today called for a ban on police use of facial recognition technology in public places, and on predictive policing, a controversial practice that involves using AI tools in hopes of profiling potential criminals before a crime is even committed."
     publishedDateTime: 2021-10-06T08:38:00Z
@@ -93,6 +109,6 @@ related:
         height: 322
         isCached: true
 
-secured: "mfQbq2D6kZyDeC7JYRkS36iCQwZNl2XqyHG7bCZzdvp8EkTdX0QoAsg+lo4lXwHhMvQQiIJNd7V0Gcqsn8qHBW1phgB6UezW3DUdUQnrQ1Nyo5tZoWgDOXW+nv7Y1LPAcyNBLyOk9l13kRqhN8PkoHDrhDvxpGbkoVZYY31PoddNARrerSWTHeOHYi+VryEj3B2+QwSruRehMFSDl5qGTYzppcWUegOUs6gRI0S6OPm6wCwNwFuXbsZO+RgwT1eUn2n6u7PczPhqQ4owqr5hQVjJqo04OO/P73kpHVQcJYatunSm+GNzB3eG0P6JLXj+1XdomvSY/A7g2O/q4+iNuXC0ZWQskiGVDbgN82uibsw=;lSl/8ej9NZeGfX96+VK9yw=="
+secured: "3RxkkcL95tkDoBH01N54vVd/JWj+wTRZ3ocDeVqW5SPWZG2JVNfjQO5JYwnT/e8FITmYzWUvIDV4zojs9QtKk1Il9akW73IaLNYsHqU7DkoPhz+hAfliVxJW01n/BxsdzKFmDWctSPk5LwMT91qHeYbyuQwr7EPqDfGH7mrwKmSd77pBE00GaMFTBgGmlTEay3XP4QLQxgbIZmpby/StnBSLCvq/+4a0kFJo1GQm69zdbVtlDFl3nm2PyP2wIEO6xBMFFweFvlxzJDYu+mhWRrv7rCCrhyOL44IaNECfsOuilS5joAtJVc1WnGIEcbZ1oYnJaIn6uOOl47W+gVlvluM3wrBANoplICWhb02ZvOXSYmGlw0zV9xU+NdsYHgO5atYnTHRrsTaSs9OrbylniEoIVDQ0xuZBCPkbJpAEjrLMchRFAokNRBaGrQjEG5YIIqfkf+h1873T8fCN25USpEWB9KDhuSz6Ll0gN5z/mcg/PF79Mr8x0TfmH05UZOYhsOr0qI67HSBYn0kBTPbmSw==;i3/ONZybSbpPapyMwo3bCw=="
 ---
 

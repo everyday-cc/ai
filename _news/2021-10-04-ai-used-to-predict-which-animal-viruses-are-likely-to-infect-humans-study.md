@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI May Predict the Next High-Risk Virus To Jump From Animals to Humans"
-    excerpt: "Most emerging infectious diseases of humans (like COVID-19) are zoonotic – caused by viruses originating from other animal species. Identifying high-risk viruses earlier can improve research and surveillance priorities."
-    publishedDateTime: 2021-10-02T07:58:00Z
-    webUrl: "https://scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/"
-    ampWebUrl: "https://scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 57
-    images:
-      - url: "https://scitechdaily.com/images/Bats-Caught-During-Zoonotic-Virus-Surveillance-777x583.jpg"
-        width: 777
-        height: 583
-        isCached: true
   - title: "Artificial Intelligence may help predict next pandemic, here’s how"
     excerpt: "Most diseases infectious to humans are zoonotic, caused by viruses originally infecting other animal species, like COVID-19.Identifying such viruses,"
     publishedDateTime: 2021-10-03T05:28:00Z
@@ -57,22 +41,6 @@ related:
       - url: "https://vid.alarabiya.net/images/2020/01/07/69dbd27b-0f11-47e5-a814-58f3bb57d05e/69dbd27b-0f11-47e5-a814-58f3bb57d05e_16x9_600x338.jpg"
         width: 600
         height: 338
-        isCached: true
-  - title: "Can artificial intelligence predict which virus can jump from animal to human?"
-    excerpt: "A study used machine learning to predict what viruses can jump from animals to human, and how much of a risk they may pose to people."
-    publishedDateTime: 2021-10-04T02:21:00Z
-    webUrl: "https://www.jpost.com/science/can-artificial-intelligence-predict-which-virus-can-jump-from-animal-to-human-680962"
-    ampWebUrl: "https://m.jpost.com/science/can-artificial-intelligence-predict-which-virus-can-jump-from-animal-to-human-680962/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/science/can-artificial-intelligence-predict-which-virus-can-jump-from-animal-to-human-680962/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 53
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/479447"
-        width: 640
-        height: 428
         isCached: true
 
 secured: "QvaDIGmql7GehdB04s9Kuy1vS4lBiPOLBGktQg8Fyscq8W4vTTfxMDU5rCdtDhR0+GDTkr57Zltib7EfBnLD7XtdccnglHY7I0zIkIKCbOVicp5zXFvJBCVD2pNCQg3QrpPEyl37Lat+LrTLPDZ3VlTRAKq4nI6u5ROlAhya5B47b+i3nocztwYGw/uOGujHV4ZCRAWR1XAx6S45mDCPlbR8DxH+B+jmZhux+1hembC1pW5LVN5nWSqEn4rIeTy3xJfiA4XcAweWoLW2OIe7qym+IKWZRrBshNGSI/f2JZLtAXkuTJupnM9y1XnPHaedPMezvmOFGS0AjRyjHLrxE434yyQutKPrc+QNnpKzk7PsVDSM6UJyTgedxNHV55/7pZMTREkaIq5Vd6kW2fWqO0YSr87rbOZB0M7NQz8uonO7rr5NTU+05kJDjdIKVigF5+Zm4p09GZe55y9WDnwskB5NE51GE/0qj6s8daa1ZetCvSRy5m8bh5PYFHkEZmD2r+sjT4rzjlkMhOZ2kP+1Kg==;bmKmkeHai9rT7+VH+tZDIQ=="

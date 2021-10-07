@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-driven-meeting-technology/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG1wh0a0R6i9A/article-cover_image-shrink_720_1280/0/1633189407713?e=1639008000&v=beta&t=qvFzABCXoEoVg9wK4OjX0No9S-1IUKYkvUBAcgs-ids"
         width: 1280
         height: 640
-        isCached: true
-  - title: "The Scope of Artificial intelligence in India"
-    excerpt: "Artificial intelligence (AI) has transformed the world of technology. This is the reason why AI investment is increasing. Keep reading to learn about what is the current situation of our country as far as AI is concerned,"
-    publishedDateTime: 2021-10-02T08:30:00Z
-    webUrl: "https://www.analyticsinsight.net/the-scope-of-artificial-intelligence-in-india/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/The-Scope-of-Artificial-intelligence-in-India.jpg"
-        width: 900
-        height: 500
         isCached: true
 
 secured: "buz6bixd2jX7KSLcTvcH3tU3ZpaborakPqViG/Pw7h7q/qf5dTzPQROq+UGdDjsKlliVHhr2MTMqQ1H7PWWNG//mYDPDATI07Ao4S7CMqfjEDUtb+3qWTj8NnDFo5Luz19s4TaD+03pDLEYlai15humeDqR6Lnkw80mAvCX+OLDk8S9t1w4iK5byh8/1hlaIWnMbquz4Ai4qUdlcfbD6nLldAZ18QHSdRNrEV4a6xDlUxl/zznkC30Aw7C/O1SWAbif5Xnuxj103pw+9hwVNszTbFRiNLXfhUn2HvS+h+orhBTWage+0URzYyVwFGgJ+e62DphdK8Lcvt97BE/Ih+po8xEuHvDc+iI5WJAtqae+v9jiK+Dn4YGfZNtJNTEeXB5V/87nBPQeaGOwoAZ54sKyYHhD3uhATMZbA1YaDpkSyMJHRf+F9h8/dvsQ08ykMt5FdD7EgBG/uHKabS185rwXSwIkzwPRyq9gj8uT3A5XGYshFMFcGLnUodqwmUfF8Am5BKN3GDytxTNngCD4dpw==;DNHwDmiAkBsdU1HTvtkBbg=="

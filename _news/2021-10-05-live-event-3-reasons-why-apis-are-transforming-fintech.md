@@ -39,6 +39,20 @@ related:
         width: 2048
         height: 1136
         isCached: true
+  - title: "Arkansas Leads the Way in Fintech"
+    excerpt: "Financial technology, or fintech, is booming in Arkansas. In recent years, Arkansas has become increasingly prominent in the fintech space, attracting some of the top talent in the field to our state."
+    publishedDateTime: 2021-10-05T19:37:00Z
+    webUrl: "https://www.linkedin.com/pulse/arkansas-leads-way-fintech-mike-preston"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQF45WR3VdIQow/article-cover_image-shrink_720_1280/0/1633462481396?e=1639008000&v=beta&t=ysiYf_jSRzsbyWyOsyPBTs3sgLZ89jkQtCBCyYGVL5M"
+        width: 1258
+        height: 720
+        isCached: true
 
 secured: "hibBlJ1uFBLKSLjNmGGPombrLIi5QysMjLQ6fS1cjzOIPA4nlaSMonf15HqveoGjCZF6I1xG0NOAMccey0E2AbRRQrfLdDEAhtwe4bGlD16n5LdWnszgXmJwSQ7RR7RyqkNbbRQqhHC+lrLdbjuUXhNNbSfBY8gnbgQYqFa5Y/EoxayrsxTKHeatsbL47kuBnTs+wVbFsKM+fOETJMqJyP3JrF4C4FX1ZlHPE5qOf0DSozO6dP9Mpr3oLx0al6Evrq1AHg1qmx9yV/oOLVOXar9nKwHGzevGCod8j3wgKp6xZQQqsUp5PFH8BcDLUosRlCqymvXqzMX00nl/UT0pgjEAdzvRS37GFd4QaF3j8uPJt/3c733nLHMnvbVi+PkGpQX1BW4hw/zxzQYKHaMBgNy521JcTLLb0SBrlBfsdNGWUL695xcG18vzcApyo7UIHN9KFgYaYu9O5wOc0sYVcbHzGyssUEpyvRXcY4v6MNGXU/5CmAf0Fafv35VllFc+2RBIozDLpwPkvN5pZv6bSw==;Zb2tNJ37vciIXOfs3pJjCA=="
 ---

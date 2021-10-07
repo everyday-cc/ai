@@ -9,7 +9,7 @@ ampWebUrl: "https://english.alarabiya.net/amp/business/technology/2021/10/03/Art
 cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/business/technology/2021/10/03/Artificial-Intelligence-may-help-predict-next-pandemic-here-s-how"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI May Predict the Next High-Risk Virus To Jump From Animals to Humans"
-    excerpt: "Most emerging infectious diseases of humans (like COVID-19) are zoonotic – caused by viruses originating from other animal species. Identifying high-risk viruses earlier can improve research and surveillance priorities."
-    publishedDateTime: 2021-10-02T07:58:00Z
-    webUrl: "https://scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/"
-    ampWebUrl: "https://scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 57
-    images:
-      - url: "https://scitechdaily.com/images/Bats-Caught-During-Zoonotic-Virus-Surveillance-777x583.jpg"
-        width: 777
-        height: 583
-        isCached: true
   - title: "AI used to predict which animal viruses are likely to infect humans: study"
     excerpt: "Artificial intelligence (AI) could be key in helping scientists identify the next animal virus that is capable of infecting humans, according to researchers. In a Tuesday study pu"
     publishedDateTime: 2021-10-04T15:53:00Z
@@ -57,22 +41,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/10/dennisdavisbrianlaundrie.png?w=1024&#038;strip=all"
         width: 1023
         height: 682
-        isCached: true
-  - title: "Can artificial intelligence predict which virus can jump from animal to human?"
-    excerpt: "A study used machine learning to predict what viruses can jump from animals to human, and how much of a risk they may pose to people."
-    publishedDateTime: 2021-10-04T02:21:00Z
-    webUrl: "https://www.jpost.com/science/can-artificial-intelligence-predict-which-virus-can-jump-from-animal-to-human-680962"
-    ampWebUrl: "https://m.jpost.com/science/can-artificial-intelligence-predict-which-virus-can-jump-from-animal-to-human-680962/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/science/can-artificial-intelligence-predict-which-virus-can-jump-from-animal-to-human-680962/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 53
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/479447"
-        width: 640
-        height: 428
         isCached: true
 
 secured: "A3cOAHwsHoH8GIZsCYN9vxR+6rkZ3tASvwswABEv/na9fwvTZrI/Hz6P5G7ZUMQ9PVGrzw4+mQm6INtqThg1HbVOVDlurH1Z9QOCjl0DCO9U8JxSol46Cvck+bSFjpulH9We45C8rYpTCm+HlaW2gQ8QfJoaPVdQvND1LbDASu4jzhDSSblaTHdUHXn96CU+X8uuGFM//knks+/dc7MXIi/z1uYIzhQ7ahQIeMY1dpEeJa2HDgh84iddcXPOTH1gt1Z3LGo88ob6ZcPx51WvZnBTsZG7YW0Sm5T+6FUvCHzbTJf+EvMZmzI8Y80SsUvsdYCtYmNIXB5YAj4uI+506fV7CMxNF1ubMSYdpJtVsdY=;ovLfg2djYRzZtwmv/8gNPw=="

@@ -94,18 +94,18 @@ related:
         height: 400
         isCached: true
   - title: "1st Edge Wins Advanced Technology International (ATI) OTA Contract to Develop Artificial Intelligence (AI) Solutions for US Army"
-    excerpt: "Three-year contract will fund development of prototype software to streamline missile defense programs using AI and machine learning"
-    publishedDateTime: 2021-10-05T15:56:00Z
-    webUrl: "https://www.djournal.com/news/nation-world/1st-edge-wins-advanced-technology-international-ati-ota-contract-to-develop-artificial-intelligence-ai-solutions/article_64db59ba-9269-56b7-bb53-3ffec35eaef7.html"
+    excerpt: "Three-year contract will fund development of prototype software to streamline missile defense programs using AI and machine learning HUNTSVILLE, Ala., Oct. 5, 2021 (SEND2PRESS NEWSWIRE) — 1st Edge, a leader in designing pragmatic solutions using Artificial Intelligence and new technologies,"
+    publishedDateTime: 2021-10-05T15:57:00Z
+    webUrl: "https://apnews.com/press-release/send2press/technology-business-huntsville-software-artificial-intelligence-53a14492dfde66eb2050d7790e12c014"
     type: article
     provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 25
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/c4931bce-e1a3-11e6-b934-53284b68f006.jpg"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "PiPZK/WMTPfwiQYz919EIKCVmjZimM1dtKIGlHEnycC0P93krSOOgJVmucQbYa8Ery31VR3H5ZwZEjh+z51sBpqJ7CpKxyYrudhTL/cE0DXUrgzoM2Dgm5PQbFxbG1kST6F0nM5JSjxZmHh5AuDtlIB9OAF3X73Js6gynrNGgyNZdIJOVzrCV8xth78uBwRSq2jOwqbMx2gKS9Rn8AZzUiEhHkzRyGTn1tfePB2AgqqddSswjIF222bd4MGDQ8etsORSnN4xxe7WNf5Byi3BTPwPs+H/G1yE+6N5kBcQbPEoC6Ze9+2BwKpEaOFDY8YElh419OYeZj+9Cdub7G3ghBBoA7Z9DEyc50lOXtDZ2C4=;k9gYHSguyQVmQlGY60k/gw=="

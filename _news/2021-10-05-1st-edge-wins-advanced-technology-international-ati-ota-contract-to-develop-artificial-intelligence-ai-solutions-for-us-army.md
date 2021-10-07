@@ -1,27 +1,26 @@
 ---
 category: news
 title: "1st Edge Wins Advanced Technology International (ATI) OTA Contract to Develop Artificial Intelligence (AI) Solutions for US Army"
-excerpt: "Three-year contract will fund development of prototype software to streamline missile defense programs using AI and machine learning"
-publishedDateTime: 2021-10-05T15:56:00Z
-originalUrl: "https://www.djournal.com/news/nation-world/1st-edge-wins-advanced-technology-international-ati-ota-contract-to-develop-artificial-intelligence-ai-solutions/article_64db59ba-9269-56b7-bb53-3ffec35eaef7.html"
-webUrl: "https://www.djournal.com/news/nation-world/1st-edge-wins-advanced-technology-international-ati-ota-contract-to-develop-artificial-intelligence-ai-solutions/article_64db59ba-9269-56b7-bb53-3ffec35eaef7.html"
+excerpt: "Three-year contract will fund development of prototype software to streamline missile defense programs using AI and machine learning HUNTSVILLE, Ala., Oct. 5, 2021 (SEND2PRESS NEWSWIRE) — 1st Edge, a leader in designing pragmatic solutions using Artificial Intelligence and new technologies,"
+publishedDateTime: 2021-10-05T15:57:00Z
+originalUrl: "https://apnews.com/press-release/send2press/technology-business-huntsville-software-artificial-intelligence-53a14492dfde66eb2050d7790e12c014"
+webUrl: "https://apnews.com/press-release/send2press/technology-business-huntsville-software-artificial-intelligence-53a14492dfde66eb2050d7790e12c014"
 type: article
-quality: 25
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/c4931bce-e1a3-11e6-b934-53284b68f006.jpg"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -109,6 +108,6 @@ related:
         height: 400
         isCached: true
 
-secured: "nZ1xH29KFI8fVrMW+vEUcpYTRbjEmlnzyMuRws2r/TJZqH4j14zsFRFACoV0qxNHqe2TgBV3CpqZXERLAWvboqfXCB2p1JdG2L+xTHqKZSejzhQWaMkrfPBOZE2G4kvINFC9q3HsmxURWK2KeXhvkDepfwffunI4y8tTpBEOXIR952p7v815bicqtOT9S/rA+6HgjyWj2BWHns9ByXvIAB4uUqRtRqMJd3C/xgUGtYrwo/yZxJUTC6+D/yG0O6/5PFghqkIQyueeA/FEojvk4/DRxaNijQw2Hinkw3cOHdm0Wz8TIAOGAp1cm6aQ36O1e9JQoxCophtHj4AV4ChrAGY4/6wJZDSKLG8scoE3ATc=;WkUC6fumXVMXYxzjHKEoQQ=="
+secured: "KDFk1f6N2BpkfzK/fg8RUfYsgru+MBtMpeOOTk4aKpic65hQqWHw4HMV5MoEFbQbEzFlgSIcNIX9mWNxoZgVB4ieKZc20r0S453J74KXLn5todq0pnX4v3OcUQ58iJ4sOmIpReGg27zCRrtoS18CHYB9dYS3GuMUp5YDNFGJKzcMz+AWAtfcBzmRq/IgEdbHWo+rCaU4oEtSXpL2qJdVuXlyHv1l/NZ83pnXbK+xYcmyIIt6B70D1SGoFyQDWmNlGSzcNg5YnGIJqXgZeG+QzibZ5bf3+9AJuXGjtRxZngMQQe5pX4SnL5W/heQW8mlM8htI9nvlny+1y75RlW2jtg8CSr2LaQOZm5oEc0Ju05g=;43XKCuW7+sOAL/+CxfXrEw=="
 ---
 
