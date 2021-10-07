@@ -2,59 +2,6 @@
   "page": 62,
   "value": [
     {
-      "path": "_news/2021-08-18-chinas-baidu-launches-second-chip-and-a-robocar-as-it-sets-up-future-in-ai-and-autonomous-driving.md",
-      "title": "China's Baidu launches second chip and a 'robocar' as it sets up future in AI and autonomous driving",
-      "excerpt": "Baidu, known as China's biggest search engine player, has focused on diversifying its business beyond advertising to artificial intelligence and driverless cars. In this article GUANGZHOU, China — Chinese internet giant Baidu unveiled its second ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/08/18/baidu-launches-robocar-and-ai-chip-in-bid-to-diversify-business.html",
-      "originalUrl": "https://www.cnbc.com/2021/08/18/baidu-launches-robocar-and-ai-chip-in-bid-to-diversify-business.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106929546-1629264747396-Robin_Li_Baidu_Robocarpic_hd_copy.jpg?v=1629264961",
-          "width": 2891,
-          "height": 1927,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/08/18/baidu-launches-robocar-and-ai-chip-in-bid-to-diversify-business.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/18/baidu-launches-robocar-and-ai-chip-in-bid-to-diversify-business.html",
-      "publishedDateTime": "2021-08-18T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2021-08-18-ai-powered-design-platform-uizard-picks-up-15m.md",
       "title": "AI-powered design platform Uizard picks up $15M",
       "excerpt": "Uizard, an AI-powered mobile app and desktop software design platform, has raised $15 million in venture capital financing.",
@@ -1153,6 +1100,49 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-innovating-with-artificial-intelligence.md",
+      "title": "Innovating With Artificial Intelligence",
+      "excerpt": "It’s been a while since I talked about artificial intelligence — mainly because those articles started to die down or I started reading the same thing over and over. Then other topics emerged within the markets and current events sort of shifted the conversation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wealthdaily.com/articles/innovating-with-artificial-intelligence/99838",
+      "originalUrl": "https://www.wealthdaily.com/articles/innovating-with-artificial-intelligence/99838",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.angelpub.com/2017/39/46975/monica-savaglia-signature-park-avenue-digest.png",
+          "width": 300,
+          "height": 228,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wealthdaily.com/amp/articles/innovating-with-artificial-intelligence/99838",
+      "cdnAmpWebUrl": "https://www-wealthdaily-com.cdn.ampproject.org/c/s/www.wealthdaily.com/amp/articles/innovating-with-artificial-intelligence/99838",
+      "publishedDateTime": "2021-08-17T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wealth Daily",
+        "domain": "wealthdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

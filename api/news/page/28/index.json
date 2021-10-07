@@ -2,49 +2,6 @@
   "page": 28,
   "value": [
     {
-      "path": "_news/2021-09-14-dotdata-and-tableau-partner-to-accelerate-augmented-and-predictive-analytics-for-the-business-intelligence-community.md",
-      "title": "dotData and Tableau Partner to Accelerate Augmented and Predictive Analytics for the Business Intelligence Community",
-      "excerpt": "As a result of this partnership, Tableau users will be able to build customized predictive analytics solutions faster and more easily. By combining Tableau’s data preparation and visualization capabilities with dotData’s augmented insights discovery and predictive modeling capabilities,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/science-5a81442f0e74026f77626dfe027d4189",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-5a81442f0e74026f77626dfe027d4189",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-14-reality-labs-will-take-facebooks-stock-to-new-dimensions.md",
       "title": "Reality Labs Will Take Facebook's Stock To New Dimensions",
       "excerpt": "I am a Research Associate at Beating The Market ... most popular tech stocks and secular growth trends from fintech to AI. If you want to see more of my investing ideas, check out my Twitter ...",
@@ -1091,6 +1048,49 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-artificial-intelligence-market-is-anticipated-to-expand-at-a-cagr-of-29-from-2021-to-2031.md",
+      "title": "Artificial Intelligence Market is anticipated to expand at a CAGR of ~29% from 2021 to 2031",
+      "excerpt": "Transparency Market Research delivers key insights on the global artificial intelligence market. In terms of revenue, the global artificial intelligence market is estimated to expand at a CAGR of ~29% during the forecast period,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/artificial-intelligence-market-is-anticipated-to-expand-at-a-cagr-of-29-from-2021-to-2031/",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-market-is-anticipated-to-expand-at-a-cagr-of-29-from-2021-to-2031/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/10-6-390x220.jpg",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-market-is-anticipated-to-expand-at-a-cagr-of-29-from-2021-to-2031/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-is-anticipated-to-expand-at-a-cagr-of-29-from-2021-to-2031/?amp=1",
+      "publishedDateTime": "2021-09-13T23:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,14 +2,14 @@
 category: news
 title: "Brytlyt Unleashes Serverless GPU-Acceleration for Analytics"
 excerpt: "All functionality is also enhanced by integrated AI and speed of thought processing power. Formally considered an out-of-reach resource, Brytlyt is making advanced GPU-accelerated analytics ..."
-publishedDateTime: 2021-09-15T13:27:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/brytlyt-unleashes-serverless-gpu-acceleration-for-analytics-852984585.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/brytlyt-unleashes-serverless-gpu-acceleration-for-analytics-852984585.html"
+publishedDateTime: 2021-09-15T13:21:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/brytlyt-unleashes-serverless-gpu-acceleration-for-analytics-301377668.html"
+webUrl: "https://www.prnewswire.com/news-releases/brytlyt-unleashes-serverless-gpu-acceleration-for-analytics-301377668.html"
 type: article
 
 provider:
   name: PR Newswire
-  domain: prnewswire.co.uk
+  domain: prnewswire.com
 
 topics:
   - AI Hardware
@@ -21,6 +21,6 @@ images:
     height: 1414
     isCached: true
 
-secured: "I68jwIcClZrdfECCQkBjdudEQXkRi4aaZbUNVlERXJ+RDzDtOGzQLLgihvWUplDFp1XgecleF3ncmEBLXaWeKVE16sq5ZnEfLi0V8IMhibs7Z7++bY/GYpVI7Eqhz9h3NEnUYQ/KU8Wr7tuKp3689nxWD1aAqf+WTS4EseUvyGW787Zu9RzYsT9yKUdw9u+xoTWjuGg1+U8TZmceAtiy2WqG7oBF6eXf0o6U4MWyWit36VofJsYAjPd+ioUCR0lPdDZMRl2F3TQAbVZrVcrGYmgFbNlphjruz1FZSGfW0VleUOIpheZ7pA+m9ZKpLm9SjWrY667nBOfJ80RSRMnfgEgWbEjeYWjrEmcHErVD7Rk=;Egqyr01zkGQQm4Q8aWFqIg=="
+secured: "/8Fb+BpRyZ0ui3b/Rt3fxlMvJjGyVdao/HJop4j7iec1xRvqcPuMzPhN4ZbGzllXZrDE/VAPpdrpOw2Klwg1+qb5A1X0wNecbhiIudDSmroZDPCaWymmW0MhvAzu32O8P4GGKIwBRi9xdZucDHuNigyMXnDulDw+SBlj0iJSo8cXm5xtvVUiWlld50G6cdq3oRIkzjWnqoDCW2kxCy0gdD8KJ28W4QTMuFD0nMrMdgiZKmqILuHw0CdarF5k9wva1Wes8cYUxRQtNeSYw2wdQR24Bnb0a6aq9q6zcBx1akg+jyG8Fo9y0xGc/MRL/iu40v68XZY/FolnogWXzKVh9qevIwZWKGKKVPw1I3hBUV8=;BFzr96abceSl2GG4epOZXQ=="
 ---
 

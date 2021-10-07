@@ -564,7 +564,7 @@
       "originalUrl": "https://medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -710,7 +710,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/05/neural-magic-which-offers-software-for-growing-edge-ai-market-gets-30-million-boost/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -814,7 +814,7 @@
       "originalUrl": "https://www.msn.com/en-us/finance/companies/alphabet-e2-80-99s-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever/ar-AAP9Dua",
       "featuredContent": null,
       "highlight": null,
-      "heat": 309,
+      "heat": 300,
       "tags": null,
       "images": [
         {
@@ -1081,49 +1081,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-05-why-we-must-consider-the-intergenerational-impacts-of-ai.md",
-      "title": "Why we must consider the intergenerational impacts of AI",
-      "excerpt": "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Sara Stratton, Founder, Māori Lab &",
-      "sourceUrl": null,
-      "webUrl": "https://europeansting.com/2021/10/05/why-we-must-consider-the-intergenerational-impacts-of-ai/",
-      "originalUrl": "https://europeansting.com/2021/10/05/why-we-must-consider-the-intergenerational-impacts-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://europeansting.files.wordpress.com/2021/10/robots.webp",
-          "width": 715,
-          "height": 1001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://europeansting.com/2021/10/05/why-we-must-consider-the-intergenerational-impacts-of-ai/amp/",
-      "cdnAmpWebUrl": "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/10/05/why-we-must-consider-the-intergenerational-impacts-of-ai/amp/",
-      "publishedDateTime": "2021-10-05T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "europeansting.com",
-        "domain": "europeansting.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2021-10-05-robot-vs-robot-paypal-taps-aiml-in-battle-against-fraudsters-chargebacks-and-passwords.md",
       "title": "Robot vs. Robot: PayPal Taps AI/ML in Battle Against Fraudsters, Chargebacks and Passwords",
       "excerpt": "Arthi Rajan Makhija of PayPal discusses how to stay ahead and win the artificial intelligence-machine learning arms race against increasingly well-armed opponents.",
@@ -1188,6 +1145,40 @@
       "provider": {
         "name": "manufacturingtodayindia",
         "domain": "manufacturingtodayindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-as-insurers-invest-in-robotics-lever-up-on-ubot.md",
+      "title": "As Insurers Invest in Robotics, Lever Up on UBOT",
+      "excerpt": "Insurance companies are looking to invest more capital into shoring up their robotics to help support core business operations. As such, the Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X ETF (UBOT) is worth noting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/as-insurers-invest-in-robotics-lever-up-on-ubot-2021-10-04",
+      "originalUrl": "https://www.nasdaq.com/articles/as-insurers-invest-in-robotics-lever-up-on-ubot-2021-10-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/as-insurers-invest-in-robotics-lever-up-on-ubot-2021-10-04?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/as-insurers-invest-in-robotics-lever-up-on-ubot-2021-10-04?amp",
+      "publishedDateTime": "2021-10-04T17:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

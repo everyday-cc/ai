@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/sony-unit-to-introduce-edge-ai-sensi
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sony-unit-to-introduce-edge-ai-sensing-platform-service-2021-10-06?amp"
 type: article
 quality: 69
-heat: 99
+heat: 100
 published: true
 
 provider:

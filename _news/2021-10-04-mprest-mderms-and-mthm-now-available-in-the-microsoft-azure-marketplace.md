@@ -1,28 +1,22 @@
 ---
 category: news
 title: "mPrest mDERMS and mTHM Now Available in the Microsoft Azure Marketplace"
-excerpt: "Azure Marketplace offers world-class quality experiences from ... mPrest’s micro-services based, real-time orchestration and optimization platform brings the power of AI and IoT to the digital transformation of various industries, from energy and smart ..."
-publishedDateTime: 2021-10-04T13:18:00Z
-originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-7267fd563fd0b5bf1ec4e14e2429ec85"
-webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-7267fd563fd0b5bf1ec4e14e2429ec85"
+excerpt: "(GLOBE NEWSWIRE) -- mPrest, a leading developer and provider of distributed asset orchestration and optimization software for the energy market, today announced its Distributed Energy Resource Management (mDERMS) applications suite and its Transformer Health Management (mTHM) applications suite are now available in the Microsoft Azure Marketplace,"
+publishedDateTime: 2021-10-04T13:21:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-mprest-mderms-mthm-now-available-the-microsoft-azure-/2021/10/04/9461756.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-mprest-mderms-mthm-now-available-the-microsoft-azure-/2021/10/04/9461756.htm"
 type: article
-quality: 69
-heat: 89
-published: true
+quality: 49
+heat: -1
+published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "mPrest mDERMS and mTHM Now Available in the Microsoft Azure Marketplace"
@@ -39,21 +33,7 @@ related:
         width: 443
         height: 250
         isCached: true
-  - title: "Cognitive Services Market Is Booming Worldwide with Microsoft, Google,IBM"
-    excerpt: "It provides language, speech, vision, search, and knowledge APIs. The primary goal of cognitive services is to democratize Artificial Intelligence by boxing it into discrete components that are ..."
-    publishedDateTime: 2021-10-02T12:07:00Z
-    webUrl: "https://menafn.com/1102902620/Cognitive-Services-Market-Is-Booming-Worldwide-with-Microsoft-GoogleIBM"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 53
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?395119"
-        width: 444
-        height: 250
-        isCached: true
 
-secured: "0J7cCFKeFg3JLcnO6lQw/KzEfXzMpHqHPQxBNQDZei/ThPYNabbIPBieu4kxZvyn1GUVw3P1fHtc5OiOQyGnwJqhDcZZZ6zKbEdQehw8gW1mK/KkEmbcyn9V0xAE8yCuHhGYQ1zLUFlT4rdqpsLS8BDaf6xj+QJAhLvBCScDpbdTatFLF8FmfLk8VOD0hbRmweMSaV83GmIOezxwpvyHPjp2EbrU2JFg3fk9OZZUg7+g2iPgZXoYhkJcSXDOLCWPw8xAJ0ZH/z9Z22IYQCuHtb+8mVBF8hk0Ihb2REBqT3wS76MwMCoeb2q5VwZILvVeqcdkdrI49APgFGjcBb5JJeAV6Fq89ZOq4GjCtxkX+xY=;ceuKHd/KfAXvcW0r6dV8pQ=="
+secured: "UOSEUGe3bihStNU6RTInCkrsrMMhZvM+gyI6ypQkBa5QeIlPI/8AWmz7DK6wS6w7VE8kuuYdVcZeekq3QZpM5XUzuMAhLmyAiPfZqyEwZ4q8Ng1elW2dVMOGJGjwSDTDtKYZbk5SJwfu61z64NI7PmmuRJeEpDp4aAwaWzHe+n4uiu9EJTkCOKTEJ1MKONIS6WygimAwCL9/HSCfZWAohajKIAKqIwJG9M4GclmatfJYhd3b9vhPFcnV9+7HwnD/NHnNCpyaPBix8jmv+Lif2++1XSc47rDgvzCqNvgBzUm7Ub/TVw6HKjuOHb5nbE+Hyww5200Z3PrSKmMn2RLR6bIKlMzL2NbTj49LQbBgGSQ=;4Y62D+X0vWdNNUTf3loPGg=="
 ---
 

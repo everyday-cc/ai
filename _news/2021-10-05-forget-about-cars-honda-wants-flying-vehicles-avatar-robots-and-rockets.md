@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/forget-about-cars-honda-wants-flying-v
 webUrl: "https://thenextweb.com/news/forget-about-cars-honda-wants-flying-vehicles-avatar-robots-rockets-lunar-tech"
 type: article
 quality: 67
-heat: 68
+heat: 67
 published: false
 
 provider:

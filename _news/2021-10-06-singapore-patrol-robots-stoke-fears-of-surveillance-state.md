@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-10-singapore-patrol-robots-stoke-su
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-singapore-patrol-robots-stoke-surveillance.amp"
 type: article
 quality: 59
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -182,6 +182,20 @@ related:
       - url: "https://www.taipeitimes.com/images/2021/10/07/P04-211007-319.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Singapore patrol robots stoke fears of surveillance state"
+    excerpt: "From vast numbers of CCTV cameras to trials of lampposts kitted out with facial recognition tech, Singapore is seeing an explosion of tools to track its inhabitants."
+    publishedDateTime: 2021-10-07T02:54:00Z
+    webUrl: "https://www.japantimes.co.jp/news/2021/10/07/asia-pacific/singapore-robots-surveillance/"
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 39
+    images:
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2021/10/np_file_116541-scaled-870x489.jpeg"
+        width: 870
+        height: 489
         isCached: true
   - title: "Smart patrol robots stoke surveillance fears in Singapore"
     excerpt: "Singapore has trialed patrol robots that blast warnings at people engaging in undesirable social behavior, adding to an arsenal of surveillance technology in the tightly controlled city-state that is fueling privacy concerns."

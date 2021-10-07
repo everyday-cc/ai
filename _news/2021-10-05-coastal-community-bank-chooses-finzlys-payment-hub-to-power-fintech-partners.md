@@ -57,20 +57,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Fintech 5.0: Evaluating How Firstbank Strengthens Collaboration"
-    excerpt: "It was Sir Isaac Newton, in his letter to Robert Hooke in 1675, who wrote the now-famous quote: \"If I have seen further (than others), it is by standing on the shoulders of giants.\""
-    publishedDateTime: 2021-10-02T11:14:00Z
-    webUrl: "https://www.proshareng.com/news/Fintech/Fintech-5.0--Evaluating-How-Firstbank-St/59290"
-    type: article
-    provider:
-      name: Nigeria
-      domain: proshareng.com
-    quality: 39
-    images:
-      - url: "https://www.proshareng.com/admin/upload/news/59290-proshare.jpg"
-        width: 2093
-        height: 1409
-        isCached: true
   - title: "Discover new trends for Fintech and Insurtech in 2022"
     excerpt: "For more info see FinTech & InsurTech Live A recent report by McKinsey shows that there will be five groundbreaking trends that will transform the insurtech and fitnech space over the next decade. These trends will be driven by new technologies and will be transformative both as a combined force,"
     publishedDateTime: 2021-10-04T12:34:00Z

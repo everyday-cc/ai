@@ -191,6 +191,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Singapore patrol robots stoke fears of surveillance state"
+    excerpt: "From vast numbers of CCTV cameras to trials of lampposts kitted out with facial recognition tech, Singapore is seeing an explosion of tools to track its inhabitants."
+    publishedDateTime: 2021-10-07T02:54:00Z
+    webUrl: "https://www.japantimes.co.jp/news/2021/10/07/asia-pacific/singapore-robots-surveillance/"
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 39
+    images:
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2021/10/np_file_116541-scaled-870x489.jpeg"
+        width: 870
+        height: 489
+        isCached: true
 
 secured: "j9SqvzOM+DO4/YPDpeNEpfmbp6+mVUtKOFmcDKb2lPnOcPIIm0Y6iQW01AI4p+lhGtLtkC9NO7nRCSUuhF/0Y7d5N6QWwCTmtN4B7hPb/JDGeBnCNLzPsFm1126XXQhkDyx2Rta/tT6RehAioCRj0402lUUcZmE+/evwn8+kU3lVMsQWDOdQjD5lt+vg18c2BgR12Tja93fSGnDQHNXYfzuQpzc8GRXcKwOKlpZwXnIk4zniLrRl1G2PupUXVUnzGKTnQuKfBELFdzZccX1cNJU70JqppxSpo55kUuiIzOWQwTze7mAJMig27sze5JDAlgODzDaUZIlMJpUyHmZyQlspQIEDxqiI6EVqtoliULA=;2mpSZk2e0mnW0E6qc6gJug=="
 ---

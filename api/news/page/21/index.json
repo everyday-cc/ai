@@ -2,49 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2021-09-19-facepalm-as-researchers-crack-advanced-facial-recognition-tech-with-simple-makeup.md",
-      "title": "Facepalm As Researchers Crack Advanced Facial Recognition Tech With Simple Makeup",
-      "excerpt": "The concerning part of all of this is that the research also explained this “attack has a high level of inconspicuousness and thus can be launched in the real world.”",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/facial-recognition-tricked-with-makeup",
-      "originalUrl": "https://hothardware.com/news/facial-recognition-tricked-with-makeup",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/56270/content/facial-recognition-tricked-with-makeup.jpg",
-          "width": 708,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/facial-recognition-tricked-with-makeup",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/facial-recognition-tricked-with-makeup",
-      "publishedDateTime": "2021-09-18T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-18-computer-vision-can-help-spot-cyber-threats-with-startling-accuracy.md",
       "title": "Computer vision can help spot cyber threats with startling accuracy",
       "excerpt": "In 2019, cybersecurity researchers created a machine learning model that could detect malware based on images created from the content of application files.",
@@ -1163,6 +1120,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-17-nsw-to-trial-geolocation-and-facial-recognition-app-for-home-based-quarantine.md",
+      "title": "NSW to trial geolocation and facial recognition app for home-based quarantine",
+      "excerpt": "Along with the NSW trial, Tasmania will also begin a home-based quarantine trial for residents returning from regional New South Wales next week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/nsw-to-trial-geolocation-and-facial-recognition-app-for-home-based-quarantine/",
+      "originalUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/nsw-to-trial-geolocation-and-facial-recognition-app-for-home-based-quarantine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/nsw-to-trial-geolocation-and-facial-recognition-app-for-home-based-quarantine/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/nsw-to-trial-geolocation-and-facial-recognition-app-for-home-based-quarantine/",
+      "publishedDateTime": "2021-09-17T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

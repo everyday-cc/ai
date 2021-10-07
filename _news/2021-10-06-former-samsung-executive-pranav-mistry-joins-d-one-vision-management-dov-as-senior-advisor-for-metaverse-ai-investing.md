@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Former Samsung Executive Pranav Mistry Joins D. One Vision Management (DOV) as Senior Advisor for Metaverse & AI Investing"
-excerpt: "Former Samsung Executive Pranav Mistry Joins D. One Vision Management (DOV) as Senior Advisor for Metaverse & AI Investing"
+excerpt: "D. One Vision Management (DOV) today announced the appointment of Former CEO and President of Samsung Technology and Advanced Research, Pranav Mistry as a Senior Advisor for AI & Metaverse investing."
 publishedDateTime: 2021-10-05T17:02:00Z
-originalUrl: "https://www.businesswire.com/news/home/20211005006045/en/Former-Samsung-Executive-Pranav-Mistry-Joins-D.-One-Vision-Management-DOV-as-Senior-Advisor-for-Metaverse-AI-Investing"
-webUrl: "https://www.businesswire.com/news/home/20211005006045/en/Former-Samsung-Executive-Pranav-Mistry-Joins-D.-One-Vision-Management-DOV-as-Senior-Advisor-for-Metaverse-AI-Investing"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-13bf9bc250d3418d8b71b72922b79682"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-13bf9bc250d3418d8b71b72922b79682"
 type: article
-quality: 0
-heat: 0
+quality: 13
+heat: 13
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "EegyuOg4TA20o5zDbutf3QkIdXwN53k7S2FIY+h89MD58Oa7ZxEPGZzPIvS1YpRRu7ZphkF4wi/wGJNRKZwrESIokWQRZdh3NTb6dbWnQMOoQSOpiWiM5Kynvq6oOijqp1llKtSzOqTzzOVSmnAMdVgul0Y4xa4JXNVs7oQz+8HqgbtZ42BWrR3iTLkvaXwG6pTt5fYYq2JDwoOMLhjxD80l8g1G4ofPbsYbNKl2x32mDxtwD1+a5qcAFIIfwG13mAeiyOWljRTnmrzeFc/xu84FGse/4/PY9d4VNof3trEAV5uDhlwVKI062VaMRTPg33BB7rDURadraFMsZBEBFZvvTl6PCq+qhGSamXnURUMRsl67foto4325MCF3/9278MEco5mkYzP9DwpzIwabDVcJTlkgzWoWV3jrYbyWHpY6vsk6KxqEZWT9vl0MGxhGwnm7alAh3uADydz+4AWnF/yKieqAVbHpZrHAagAa0LlfyquorVaX1ayVtKBdlxIRwQsx7jBuJe6xFLxHaZjleg==;5ob4D+gkfXBJZpnI1ggSsw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "md7UeIEUMTxRdj/GrlxS47zEiFOVyEXiV730pyewhlB+Vu1ZXTvSNxqwGPN8m2zO4xDv+4+Kc7UNQ6yLqXpMASNwxuTHFhCn5CTXN+kDHZ8urqd+hwzlyAFWuiDfsKZuFQiUKXNM+9WX+eak7CnY/d6Ls7tWYF2NY8Dx7S1JlLP4tHrMCbIbsOb/Lyt//O0maooWd4zE52OLT+Q6EUatPcOGsrI04/9rHxGlGlSlZM0nJMOLken5bqTaoyvQ138a2nLXjIO3IpMoXK6mJR9AZ1rAoXNhqGT33JI1VXjUS4AMegYKZX0+L/xWueLNDjo1r1itPeHshELIVdkrCRBLlZARx9+7GCYSGC+I+hofz9E=;krjC/CXNd6Ps/4y7iHtQWg=="
 ---
 

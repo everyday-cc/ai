@@ -57,20 +57,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Fintech 5.0: Evaluating How Firstbank Strengthens Collaboration"
-    excerpt: "It was Sir Isaac Newton, in his letter to Robert Hooke in 1675, who wrote the now-famous quote: \"If I have seen further (than others), it is by standing on the shoulders of giants.\""
-    publishedDateTime: 2021-10-02T11:14:00Z
-    webUrl: "https://www.proshareng.com/news/Fintech/Fintech-5.0--Evaluating-How-Firstbank-St/59290"
-    type: article
-    provider:
-      name: Nigeria
-      domain: proshareng.com
-    quality: 39
-    images:
-      - url: "https://www.proshareng.com/admin/upload/news/59290-proshare.jpg"
-        width: 2093
-        height: 1409
-        isCached: true
   - title: "Coastal Community Bank Chooses Finzly's Payment Hub to Power Fintech Partners"
     excerpt: "Finzly, a fintech provider of modern banking solutions, announced today that Coastal Community Bank, a progressive community bank with assets of over $2 billion, has chosen Finzly's award-winning payment hub,"
     publishedDateTime: 2021-10-05T10:11:00Z

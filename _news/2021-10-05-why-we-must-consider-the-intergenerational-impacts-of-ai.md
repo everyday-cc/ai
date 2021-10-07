@@ -9,8 +9,8 @@ ampWebUrl: "https://europeansting.com/2021/10/05/why-we-must-consider-the-interg
 cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/10/05/why-we-must-consider-the-intergenerational-impacts-of-ai/amp/"
 type: article
 quality: 59
-heat: 70
-published: true
+heat: 69
+published: false
 
 provider:
   name: europeansting.com

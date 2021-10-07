@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/10/05/alphabets-deepmind-ai-lab-turns-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/05/alphabets-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever.html"
 type: article
 quality: 159
-heat: 309
+heat: 300
 published: true
 
 provider:
@@ -94,22 +94,6 @@ related:
       - url: "https://www.technowize.com/wp-content/uploads/2021/10/DeepMinds-first-profit-in-years-e1633510299166.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "Google sued over DeepMind's access to 1.6 mn UK patients' records"
-    excerpt: "UK-based law firm Mishcon de Reya has filed a class-action lawsuit against Google and DeepMind over their access to confidential medical records of approximately 1.6 million UK patients without their knowledge or consent."
-    publishedDateTime: 2021-10-02T12:00:00Z
-    webUrl: "https://inshorts.com/en/news/google-sued-over-deepminds-access-to-16-mn-uk-patients-records-1633176049372"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/google-sued-over-deepminds-access-to-16-mn-uk-patients-records-1633176049372"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/google-sued-over-deepminds-access-to-16-mn-uk-patients-records-1633176049372"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 59
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/10_oct/2_sat/img_1633173792952_877.jpg?"
-        width: 960
-        height: 640
         isCached: true
   - title: "Wednesday newspaper round-up: Petrol prices, Amazon, DeepMind"
     excerpt: "Nearly two-thirds of UK manufacturers expect to raise their prices in the run-up to Christmas after being hit by mounting cost pressures, a leading employers’ group has said. The British Chambers of Commerce said inflation expectations had risen to their highest since its records began at the end of the 1980s,"

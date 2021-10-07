@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2418361/mobile-artificial-intelligence-ai
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2418361/mobile-artificial-intelligence-ai-market-size-is-expected"
 type: article
 quality: 74
-heat: 135
+heat: 136
 published: true
 
 provider:

@@ -3,21 +3,25 @@ category: news
 title: "Google tries to make traffic lights more efficient with artificial intelligence"
 excerpt: "Alphabet Inc's Google cut fuel use and traffic delays by 10% to 20% at four locations in Israel by using artificial intelligence to optimize signal lights and it next plans"
 publishedDateTime: 2021-10-06T17:00:00Z
-originalUrl: "https://omaha.com/news/world/google-tries-to-make-traffic-lights-more-efficient-with-artificial-intelligence/video_691ecf7d-2a18-5a4c-b9bb-0d5149ddebac.html"
-webUrl: "https://omaha.com/news/world/google-tries-to-make-traffic-lights-more-efficient-with-artificial-intelligence/video_691ecf7d-2a18-5a4c-b9bb-0d5149ddebac.html"
-ampWebUrl: "https://omaha.com/news/world/google-tries-to-make-traffic-lights-more-efficient-with-artificial-intelligence/video_691ecf7d-2a18-5a4c-b9bb-0d5149ddebac.amp.html"
-cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/world/google-tries-to-make-traffic-lights-more-efficient-with-artificial-intelligence/video_691ecf7d-2a18-5a4c-b9bb-0d5149ddebac.amp.html"
+originalUrl: "https://www.stltoday.com/news/world/google-tries-to-make-traffic-lights-more-efficient-with-artificial-intelligence/video_37aa10bc-08d9-5d91-8287-c97b49de7ecc.html"
+webUrl: "https://www.stltoday.com/news/world/google-tries-to-make-traffic-lights-more-efficient-with-artificial-intelligence/video_37aa10bc-08d9-5d91-8287-c97b49de7ecc.html"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/7a/37aa10bc-08d9-5d91-8287-c97b49de7ecc/615dd64329c4a.preview.png?resize=640%2C360"
+    width: 640
+    height: 360
+    isCached: true
 
 related:
   - title: "Google Planning to Use Artificial Intelligence to Cut Traffic Delays, Fuel Use in Brazil"
@@ -36,20 +40,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Brazil lawmakers approve bill regulating artificial intelligence"
-    excerpt: "Brazil's House of Representatives has approved a bill that sets out legal regulations for artificial intelligence (AI). Bill No. 21/20 outlines guidelines to develop and utilize AI in Brazil. The"
-    publishedDateTime: 2021-10-02T12:20:00Z
-    webUrl: "https://www.jurist.org/news/2021/10/brazil-lawmakers-approve-bill-regulating-artificial-intelligence/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 37
-    images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2021/10/computer_code_1633195226.jpg"
-        width: 1280
-        height: 856
-        isCached: true
   - title: "Google wants to use artificial intelligence to time traffic lights more efficiently"
     excerpt: "Google cut fuel use and traffic delays by 10% to 20% at four locations in Israel by using artificial intelligence to optimize signal lights and it next plans to test the software in Rio de Janeiro."
     publishedDateTime: 2021-10-06T07:57:00Z
@@ -65,6 +55,6 @@ related:
         height: 580
         isCached: true
 
-secured: "mKLlUQZZxxg8dqfoEZTY4sVADRQ2JQ2XShpsw/zYqHu+MsZpkXBKYfAWUmP53sH+O+SE8D89A15ypyDX0l7dtRfaMd32gm9IFlRTw02KZ1vT8LPNszZST1qtBkbq07WEC+fHSyfVI2cZpMSJe1n4u0fR5h9HvI6GjhOzcNhHAR0+e22xv6H7C4eZ2DCn8hWQIPfUMZZ0ffYzJQHQRDbABo+NSqTBZ8VWzew6ehk6dmiD+XCDE42KBa6AaoZZmj9FkyX1krC2u2k2/rYPr8IGPczrWAMZkWojdcOBYaTtsrjE1uUZ2LogfX3XB5pl8UXxDMX0ZFWjCVLFBB8UJowEFbqHY+SoszD7+GQ8q7BtqMqPMXsAp35axtRu8XPNm3Zl27KNdvG6Ai1C2Rj2UhBx0s1y+axjabcdx5r47f7lt4UMNmzYBHxc/IpAYRlWPgICHMckdGIfy+6ndvdidQHZWHmLs6LqLHJHkUfIF0P/0cpVv9/7UlmZl/QMLBua7ZSd/FNOrpoajhwNYOYNcfEvYw==;O/GMDAEd+chiyrrakiHE7Q=="
+secured: "a60NGWo1hRkEtqq/K8wGBN6R8BLOqj+lgs/X07d5fB0R5brIGmjY1iBLQCXDKk8aNimYMbUkP8BH4iNR7TQxfRLSCpiOy7KPD39sdvZe8YQVtwTI9CPLsehws0/hRTQEtlRJAgVhRZaE1QUdH1zvBHKuxYsz4bCtrLQfdh9wez1g3POTBvR7bBOeiUtqUYcqVYMH5Byy+5purrrv/vWfNm4LRYQhvwVCwpkBZnVgWvNW1cG3TA3ReHtEibwTwXrY0PfPKv5xsZXzRSYvuyDXnNV6GvAQnYUuw5249DsHT+K+j50k1TFxyi+2w+KNRohQk98gsi/AoeDNg6JclEqbqSK8sePAewHZLZok/eY8+5U=;GeSfUQuZglo393LQjmzfLQ=="
 ---
 

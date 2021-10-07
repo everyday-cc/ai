@@ -107,22 +107,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Google sued over DeepMind's access to 1.6 mn UK patients' records"
-    excerpt: "UK-based law firm Mishcon de Reya has filed a class-action lawsuit against Google and DeepMind over their access to confidential medical records of approximately 1.6 million UK patients without their knowledge or consent."
-    publishedDateTime: 2021-10-02T12:00:00Z
-    webUrl: "https://inshorts.com/en/news/google-sued-over-deepminds-access-to-16-mn-uk-patients-records-1633176049372"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/google-sued-over-deepminds-access-to-16-mn-uk-patients-records-1633176049372"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/google-sued-over-deepminds-access-to-16-mn-uk-patients-records-1633176049372"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 59
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/10_oct/2_sat/img_1633173792952_877.jpg?"
-        width: 960
-        height: 640
-        isCached: true
   - title: "Engineers At Google’s DeepMind Have Come Up With A New Way To ‘Nowcast’ Weather"
     excerpt: "Advertisement Besides making weekly or monthly forecasts, weather models are also used to make hourly predictions that are called nowcasting. This is done by a Google-backed artificial intelligence company DeepMind that is making progress in predicting hourly precipitation."
     publishedDateTime: 2021-10-02T18:54:00Z

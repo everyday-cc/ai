@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/5-ways-learning-data-science-ai-can-help-you
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/5-ways-learning-data-science-ai-can-help-you-succeed-in-your-career/amp/"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Pursue AI and Data Science at JNTU-H"
-    excerpt: "Hyderabad: Starting this academic year, engineering students, particularly those from conventional branches of the Jawaharlal Nehru Technological University-Hyderabad (JNTU-H) will be allowed to do Honours and Minor programmes in emerging technologies like Data Science and Artificial Intelligence among other areas."
-    publishedDateTime: 2021-10-03T18:22:00Z
-    webUrl: "https://telanganatoday.com/pursue-ai-and-data-science-at-jntu-h"
+  - title: "This is how you can level up your resume as an AI specialist"
+    excerpt: "ETCIO spoke with technology leaders and recruitment agencies to understand how you, as an AI specialist, can level up your resume to land just the rig.."
+    publishedDateTime: 2021-10-07T03:27:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/this-is-how-you-can-level-up-your-resume-as-an-ai-specialist/86829106"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/this-is-how-you-can-level-up-your-resume-as-an-ai-specialist/86829106"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/this-is-how-you-can-level-up-your-resume-as-an-ai-specialist/86829106"
     type: article
     provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 37
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2021/10/JNTU.jpg"
-        width: 1200
-        height: 801
+      - url: "https://etimg.etb2bimg.com/thumb/msid-86829106,imgsize-59172,width-800,height-434,overlay-etcio/this-is-how-you-can-level-up-your-resume-as-an-ai-specialist.jpg"
+        width: 800
+        height: 434
         isCached: true
 
 secured: "J4jHje5OM/4eekuFamE7Mm1dJ24NX0Jhi5EGUpqt7k+Uk5rrBDLRP0o0QsDOrhgMkgUXVfecFCfCG3CEQQyu1lT50uahOPi1HGyaDmR65yLWd9H7bfpg7BWZVSWQJJxjstPRkrgbmb1PBv6Miq8JSZkjGozhTQH0WqOCd752KCPXJblEdp6EC8IpUk+2j7SyhtRQRKn1W7Iu8FnRdscfD6kKOM866zizvn+CDC7WbFr5YCvWenyQqMYpAWZz7OboZ0PbrcYFzmQwQE02Q7noHBn5bwqeuXAhp9KK0cIPgbgiwHX7KLiTJTmtXPjs/HW4vyhXrLJq3CrkHNuAGC1bu7JYCKcTQRTChLiJg8nLRD53AaOV8BKJ92WPuwP9eeEcdgSRGsmwRUXQak4ELOKltj1w2Of326PVDHf1Nai7zCSETuw/7h25rL+l91OGpwSJ39rv+Fo9gmJOfYpxsQyqCv1d/6jAm6qk16MJZ1PZVeJDigWvf7xIuofunmvVP9lwTkgClGnPvp+eOMAzFinpXA==;xhfT5kAwSHoIHEfRZKbUWw=="

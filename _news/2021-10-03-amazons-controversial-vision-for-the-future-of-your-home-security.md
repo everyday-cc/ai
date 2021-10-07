@@ -3,18 +3,18 @@ category: news
 title: "Amazon's controversial vision for the future of your home security"
 excerpt: "Amazon's vision for the future of home security includes drones flying over your roof, outdoor cameras that monitor for possible trespassers and cute robots patrolling indoors."
 publishedDateTime: 2021-10-02T21:37:00Z
-originalUrl: "https://www.koat.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
-webUrl: "https://www.koat.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
-ampWebUrl: "https://www.koat.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
-cdnAmpWebUrl: "https://www-koat-com.cdn.ampproject.org/c/s/www.koat.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+originalUrl: "https://www.wcvb.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+webUrl: "https://www.wcvb.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+ampWebUrl: "https://www.wcvb.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
 type: article
 quality: 61
-heat: -1
+heat: 61
 published: false
 
 provider:
-  name: KOAT Albuquerque
-  domain: koat.com
+  name: WCVB Channel 5 Boston
+  domain: wcvb.com
 
 topics:
   - Computer Vision
@@ -27,24 +27,6 @@ images:
     height: 677
     isCached: true
 
-related:
-  - title: "Amazon & home security: Robots inside, drones outside, cameras all around"
-    excerpt: "Amazon's vision for the future of home security includes drones flying over your roof, outdoor cameras that monitor for possible trespassers and cute robots patrolling indoors. Here's a look"
-    publishedDateTime: 2021-10-02T11:41:00Z
-    webUrl: "https://www.wraltechwire.com/2021/10/02/amazon-home-security-robots-inside-drones-outside-cameras-all-around/"
-    ampWebUrl: "https://www.wraltechwire.com/2021/10/02/amazon-home-security-robots-inside-drones-outside-cameras-all-around/?amp=1"
-    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/10/02/amazon-home-security-robots-inside-drones-outside-cameras-all-around/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 75
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/10/amazon-astro-bot-e1633113427996-1024x575.jpg"
-        width: 1024
-        height: 575
-        isCached: true
-
-secured: "0cv7bZnMcdmERX1N2xVJiJ5DeLLqiJwBdihCwGES3llPebI/ZNscuq5FaHKOFs77NtpTtxYrG5jFb4O2NUjIAxg7E9YwyVnZ29w5ktMxPq1S9DsAtEMn4IRfCaSqdXCrhK+CGOB0H/4omAKQl2TmLl7pVsUkFa2m93254D/nL8QBUzELuOm5J8JvCywjlyqvq2jT20PH2rjiOhKiryJkpn2dD/ISEuPVpfumqPYiTAySdOuxod9Jju1lpA4dA4Sz9KhUDFDWqcG9lWj0/hOGOfZM/TD2/yuEHYj/iGYShicDbt0ej+StzGFKtzDgP3iLVOTifPXI1KlAm9XyWZC2MLDy2Q+Ycfj7uiwf78oUjd0=;3zj7bsV6Fz7J9t9isUNzug=="
+secured: "PiQsKVGIEEEwrq4KSPFlqXmHfiE3ZXj7TyqCfl2YxfVTz+nFnUmxhhH//O6ohehY6NeJOsn2WyTNwnXulNansbTDQYOKGjVb115VoAVQOZ3S8rA9B/wCrajm/+fbYiwSMIE3yftsGp2PbaLO7zw8qQsyQH4hqYhCOkErISpAzPKeGxpw3nYQiQVxipIO4huCB0Sa41C3NlqDttMkAeUm+MysJheZl3CFpkrnJ/tANBC7A/BTsLSAYPOzA+4gPv6tAVucz0BfyhXB8WBWSVRPjx6rHtFnlSFLScUGdmR7poL8cc8zDVXOz+fEaCqVBabvt9QtQXK2ppQCnyoF4bVNr5hJbpiRwZ6cLsvJWd9UOiA=;JTt6V2ta2/Iq5vw4oyozSA=="
 ---
 

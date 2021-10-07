@@ -2,40 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-10-05-as-insurers-invest-in-robotics-lever-up-on-ubot.md",
-      "title": "As Insurers Invest in Robotics, Lever Up on UBOT",
-      "excerpt": "Insurance companies are looking to invest more capital into shoring up their robotics to help support core business operations. As such, the Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X ETF (UBOT) is worth noting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/as-insurers-invest-in-robotics-lever-up-on-ubot-2021-10-04",
-      "originalUrl": "https://www.nasdaq.com/articles/as-insurers-invest-in-robotics-lever-up-on-ubot-2021-10-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/as-insurers-invest-in-robotics-lever-up-on-ubot-2021-10-04?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/as-insurers-invest-in-robotics-lever-up-on-ubot-2021-10-04?amp",
-      "publishedDateTime": "2021-10-04T17:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-05-clearview-ai-says-it-can-do-the-computer-enhance-thing.md",
       "title": "Clearview AI Says It Can Do the ‘Computer Enhance’ Thing",
       "excerpt": "The co-founder and CEO of the sketchy face-recognition firm, Hoan Ton-That, says it's working on \"deblur\" and \"mask removal\" tools.",
@@ -83,6 +49,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-mprest-mderms-and-mthm-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "mPrest mDERMS and mTHM Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "TEL AVIV, Israel and BOULDER, Colo., Oct. 04, 2021 (GLOBE NEWSWIRE) -- mPrest , a leading developer and provider of distributed asset orchestration",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1102913249/mPrest-mDERMS-and-mTHM-Now-Available-in-the-Microsoft-Azure-Marketplace",
+      "originalUrl": "https://menafn.com/1102913249/mPrest-mDERMS-and-mTHM-Now-Available-in-the-Microsoft-Azure-Marketplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?122508",
+          "width": 443,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -410,49 +419,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-mprest-mderms-and-mthm-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "mPrest mDERMS and mTHM Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Azure Marketplace offers world-class quality experiences from ... mPrest’s micro-services based, real-time orchestration and optimization platform brings the power of AI and IoT to the digital transformation of various industries, from energy and smart ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-7267fd563fd0b5bf1ec4e14e2429ec85",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-7267fd563fd0b5bf1ec4e14e2429ec85",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -1191,6 +1157,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-03-have-you-spotted-these-robots-around-expo-2020-dubai.md",
+      "title": "Have you spotted these robots around Expo 2020 Dubai?",
+      "excerpt": "The one-metre-tall orange-coloured robot is the official mascot and guardian of Mission Possible — The Opportunity Pavilion — you can find him around the walkways of Expo 2020 Dubai, dancing with his buddies and cracking a few jokes.",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/expo-2020/experience-the-uae/have-you-spotted-these-robots-around-expo-2020-dubai-1.82706158",
+      "originalUrl": "https://gulfnews.com/expo-2020/experience-the-uae/have-you-spotted-these-robots-around-expo-2020-dubai-1.82706158",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2021/10/03/RDS-ROBOT-EXPO-1633277737978_17c46f07c05_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/expo-2020/experience-the-uae/have-you-spotted-these-robots-around-expo-2020-dubai-1.82706158",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/expo-2020/experience-the-uae/have-you-spotted-these-robots-around-expo-2020-dubai-1.82706158",
+      "publishedDateTime": "2021-10-03T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
