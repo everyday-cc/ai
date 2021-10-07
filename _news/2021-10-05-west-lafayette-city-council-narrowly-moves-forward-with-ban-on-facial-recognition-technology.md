@@ -39,6 +39,20 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Ask The Mayor: West Lafayette's John Dennis On Why He Plans To Veto A Ban On Facial Recognition Tech"
+    excerpt: "West Lafayette’s city council discussed whether to ban the use of facial recognition technology at their meeting on"
+    publishedDateTime: 2021-10-07T19:25:00Z
+    webUrl: "https://www.wbaa.org/post/ask-mayor-west-lafayettes-john-dennis-why-he-plans-veto-ban-facial-recognition-tech"
+    type: article
+    provider:
+      name: WBAA
+      domain: wbaa.org
+    quality: 24
+    images:
+      - url: "https://www.wbaa.org/sites/wbaa/files/styles/medium/public/202110/john_dennis_in_studio.jpg"
+        width: 800
+        height: 556
+        isCached: true
 
 secured: "6T6zY8deQkynotcA68WRD+1bhwVMBiQ9sVcvvjVQoCkbJQKDYy3BaZogHM0SI+S/NFBr/pyWjUT01LLCvcZ5QFF6lIjsYQE/nUyVsoGwbygQVzRY5/br3v8vpmElX6/hUJL/7UJX2aFQ9h1PyXxeeNZhNj0tfSM10nRXDFIhAnBwbiMluQQlxpQNTK59cX8D8QDL14aPHU3YHkFuczpK98TzSQc4duwUkGKZyDvDK0mfnba2QirkE/0zGnAq3b901idS1/NzoA8LaZ93ikw9Oh4xsfZWjOvH13NG0AOIcQK965QuuwG+h6KKkhBNN1CuCoN7uXyEPL9sf0ZkLK9nzIMFwAHCvYlrnXXMNhv+bbxByD0UcNAy36Yx9oZUP2HnhkKjguP9sy5la1/YSROV+D1wcLY5/jQmdUZw8Wc+0S+gU1CDkKMXvm66+bLWyJTRgCdCfXxR0j40QcpM7V8qogkNd837iyUVT4nha2c9sG8xVwbGFk4mUU2VKL/QZWpmukJ3SJI62OKdWREAVca/nw==;p+QqZnHoXCS9wqPvLUJ3ow=="
 ---

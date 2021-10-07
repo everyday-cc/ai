@@ -57,6 +57,20 @@ related:
         width: 902
         height: 416
         isCached: true
+  - title: "Build your own brand detection and visibility using Amazon SageMaker Ground Truth and Amazon Rekognition Custom Labels – Part 2: Training and analysis workflows"
+    excerpt: "In Part 1 of this series, we showed how to build a brand detection solution using Amazon SageMaker Ground Truth and Amazon Rekognition Custom Labels. The solution was built on a serverless architecture with a custom user interface to identify a company brand or logo from video content and get an in-depth"
+    publishedDateTime: 2021-10-07T19:12:08Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/part-2-build-your-own-brand-detection-and-visibility-using-amazon-sagemaker-ground-truth-and-amazon-rekognition-custom-labels-training-and-analysis-workflows/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 91
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/23/ML-895-image001.jpg"
+        width: 1510
+        height: 691
+        isCached: true
   - title: "Detect defects in automotive parts with Amazon Lookout for Vision and Amazon SageMaker"
     excerpt: "According to a recent study, defective products cost industries over $2 billion from 2012–2017. Defect detection within manufacturing is an important business use case, especially in high-value product industries like the automotive industry. This allows for early diagnosis of anomalies to improve production"
     publishedDateTime: 2021-10-05T22:10:33Z

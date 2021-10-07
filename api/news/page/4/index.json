@@ -2,6 +2,143 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-04-robotics-transforming-knee-replacement-surgeries.md",
+      "title": "Robotics transforming knee replacement surgeries",
+      "excerpt": "The most advanced innovation is the Navio Surgical System, a robotic platform that does not need any CT scan or MRIs and creates a real-time image of the limb and deformity and the surgeon is able to visualise all around the knee and make a plan on how it is going to be after surgery even before the bone is touched.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsx.com/health/robotics-transforming-knee-replacement-surgeries.html",
+      "originalUrl": "https://www.newsx.com/health/robotics-transforming-knee-replacement-surgeries.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newsx.com/wp-content/uploads/2021/10/robotics-in-knee-replacement-309117-y432JCRT.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsx.com/amp/health/robotics-transforming-knee-replacement-surgeries.html",
+      "cdnAmpWebUrl": "https://www-newsx-com.cdn.ampproject.org/c/s/www.newsx.com/amp/health/robotics-transforming-knee-replacement-surgeries.html",
+      "publishedDateTime": "2021-10-04T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NewsX",
+        "domain": "newsx.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-mprest-mderms-and-mthm-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "mPrest mDERMS and mTHM Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Azure Marketplace offers world-class quality experiences from ... mPrest’s micro-services based, real-time orchestration and optimization platform brings the power of AI and IoT to the digital transformation of various industries, from energy and smart ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-7267fd563fd0b5bf1ec4e14e2429ec85",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-7267fd563fd0b5bf1ec4e14e2429ec85",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-gm-backed-cruise-sees-robotaxi-business-growing-past-50-billion.md",
+      "title": "GM-Backed Cruise Sees Robotaxi Business Growing Past $50 Billion",
+      "excerpt": "Cruise LLC, the autonomous vehicle startup majority-owned by General Motors Co., will tell investors this week that it sees a path for its ride-hailing business to reach $50 billion in revenue as the company ramps up its driverless ride hailing business starting over the next couple of years,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-10-04/gm-backed-cruise-sees-robotaxi-business-growing-past-50-billion",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-10-04/cruise-sees-driverless-ride-hailing-business-topping-50-billion-gm-stock-rises",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iglhlcJ6PXKQ/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T05:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-04-the-cios-guide-to-managing-enterprise-ai.md",
       "title": "The CIO's guide to managing enterprise AI",
       "excerpt": "How should Chief Information Officers prepare to lead AI efforts in the enterprise? The author of a new book explains exactly what you need to know, on episode #706 of the CXOTalk series of conversations with people shaping our world.",
@@ -866,8 +1003,8 @@
       "title": "Amazon's controversial vision for the future of your home security",
       "excerpt": "Amazon's vision for the future of home security includes drones flying over your roof, outdoor cameras that monitor for possible trespassers and cute robots patrolling indoors.",
       "sourceUrl": null,
-      "webUrl": "https://www.wlwt.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
-      "originalUrl": "https://www.wlwt.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
+      "webUrl": "https://www.wcvb.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
+      "originalUrl": "https://www.wcvb.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -884,13 +1021,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wlwt.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
-      "cdnAmpWebUrl": "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
+      "ampWebUrl": "https://www.wcvb.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
+      "cdnAmpWebUrl": "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
       "publishedDateTime": "2021-10-02T14:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WLWT",
-        "domain": "wlwt.com",
+        "name": "WCVB Channel 5 Boston",
+        "domain": "wcvb.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1031,125 +1168,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-amazon-home-security-robots-inside-drones-outside-cameras-all-around.md",
-      "title": "Amazon & home security: Robots inside, drones outside, cameras all around",
-      "excerpt": "Amazon's vision for the future of home security includes drones flying over your roof, outdoor cameras that monitor for possible trespassers and cute robots patrolling indoors. Here's a look",
-      "sourceUrl": null,
-      "webUrl": "https://www.wraltechwire.com/2021/10/02/amazon-home-security-robots-inside-drones-outside-cameras-all-around/",
-      "originalUrl": "https://www.wraltechwire.com/2021/10/02/amazon-home-security-robots-inside-drones-outside-cameras-all-around/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wraltechwire.com/wp-content/uploads/2021/10/amazon-astro-bot-e1633113427996-1024x575.jpg",
-          "width": 1024,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wraltechwire.com/2021/10/02/amazon-home-security-robots-inside-drones-outside-cameras-all-around/?amp=1",
-      "cdnAmpWebUrl": "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/10/02/amazon-home-security-robots-inside-drones-outside-cameras-all-around/?amp=1",
-      "publishedDateTime": "2021-10-02T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "Artificial intelligence (AI) has become a buzzword for nearly every company when touting its products and services. What used to be the domain of only a few technology companies is now pervasive in automobiles,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-10-02",
-      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-10-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-10-02?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-10-02?amp",
-      "publishedDateTime": "2021-10-02T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans.md",
-      "title": "AI May Predict the Next High-Risk Virus To Jump From Animals to Humans",
-      "excerpt": "Most emerging infectious diseases of humans (like COVID-19) are zoonotic – caused by viruses originating from other animal species. Identifying high-risk viruses earlier can improve research and surveillance priorities.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/",
-      "originalUrl": "https://scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Bats-Caught-During-Zoonotic-Virus-Surveillance-777x583.jpg",
-          "width": 777,
-          "height": 583,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/amp/",
-      "publishedDateTime": "2021-10-02T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

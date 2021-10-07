@@ -149,6 +149,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-05-city-council-votes-against-ato-rezoning-bans-facial-recognition-technology.md",
+      "title": "City Council votes against ATO rezoning, bans facial recognition technology",
+      "excerpt": "Over 150 people tuned into a WebEx meeting Monday night, most of whom were adamantly against the rezoning of the historic Alpha Tau Omega fraternity house. The West Lafayette City",
+      "sourceUrl": null,
+      "webUrl": "https://www.purdueexponent.org/campus/article_cbf32164-2584-11ec-807a-3fedbb2144b3.html",
+      "originalUrl": "https://www.purdueexponent.org/campus/article_cbf32164-2584-11ec-807a-3fedbb2144b3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/purdueexponent.org/content/tncms/assets/v3/editorial/d/d7/dd7c8dbe-8097-5727-850f-b8ccbd26d4d7/6147ab750e669.image.jpg?resize=945%2C630",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T19:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Purdue Exponent",
+        "domain": "purdueexponent.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-04-tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept.md",
       "title": "Tamil Nadu CM MK Stalin Launches Face Recognition Software Aimed At Assisting Police Dept",
       "excerpt": "The software would help the police personnel to compare the photos of suspects with a data resource uploaded in the Crime and Criminal Tracking Network and Systems (CCTNS).",
@@ -196,8 +239,8 @@
       "title": "Amazon's controversial vision for the future of your home security",
       "excerpt": "Amazon's vision for the future of home security includes drones flying over your roof, outdoor cameras that monitor for possible trespassers and cute robots patrolling indoors.",
       "sourceUrl": null,
-      "webUrl": "https://www.wlwt.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
-      "originalUrl": "https://www.wlwt.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
+      "webUrl": "https://www.wcvb.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
+      "originalUrl": "https://www.wcvb.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -214,13 +257,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wlwt.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
-      "cdnAmpWebUrl": "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
+      "ampWebUrl": "https://www.wcvb.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
+      "cdnAmpWebUrl": "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
       "publishedDateTime": "2021-10-02T14:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WLWT",
-        "domain": "wlwt.com",
+        "name": "WCVB Channel 5 Boston",
+        "domain": "wcvb.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1371,58 +1414,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-technology-is-a-double-edged-sword-in-the-face-of-repressive-regimes-opinion.md",
-      "title": "Technology is a Double-edged Sword in the Face of Repressive Regimes | Opinion",
-      "excerpt": "Tech companies must be willing to do all they can to prevent authoritarian regimes from accessing and using their services, even though what we see today is quite the opposite as the Taliban has full and easy access to Facebook,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/technology-double-edged-sword-face-repressive-regimes-opinion-1630225",
-      "originalUrl": "https://www.newsweek.com/technology-double-edged-sword-face-repressive-regimes-opinion-1630225",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1896900/people-hold-smartphones-their-hands.jpg",
-          "width": 3300,
-          "height": 2328,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/technology-double-edged-sword-face-repressive-regimes-opinion-1630225?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/technology-double-edged-sword-face-repressive-regimes-opinion-1630225?amp=1",
-      "publishedDateTime": "2021-09-21T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

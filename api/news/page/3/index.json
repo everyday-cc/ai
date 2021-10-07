@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-05-waymo-co-ceo-tekedra-mawakana-on-how-to-get-self-driving-taxis-to-the-mall.md",
+      "title": "Waymo co-CEO Tekedra Mawakana on how to get self-driving taxis to the mall",
+      "excerpt": "Waymo is working on self-driving taxis, which is a huge deal. Ride-sharing apps like Uber and Lyft have remade cities, allowed people to give up their cars, and generally connected the buttons you push on your phone to real things happening in the world more directly than almost any other app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/22708676/waymo-tekedra-mawakana-self-driving-interview",
+      "originalUrl": "https://www.theverge.com/22708676/waymo-tekedra-mawakana-self-driving-interview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/0JPEOcyQDy0owxWrKQLu9MCwm7s=/0x0:2050x1367/1400x933/filters:focal(958x512:1286x840):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69953205/VRG_Decoder_TekedraMawkana_s.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/22708676/waymo-tekedra-mawakana-self-driving-interview",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22708676/waymo-tekedra-mawakana-self-driving-interview",
+      "publishedDateTime": "2021-10-05T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-how-ai-and-automation-can-address-americas-broken-supply-chain.md",
       "title": "How AI And Automation Can Address America's Broken Supply Chain",
       "excerpt": "The global supply chain is broken, and we are seeing this issue play out across manufacturing sectors around the world.",
@@ -606,6 +658,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-05-pushing-the-accelerator-tesla-and-legal-ai.md",
+      "title": "Pushing the Accelerator: Tesla and Legal AI",
+      "excerpt": "By Hugo Seymour, COO, Della What can the legal world learn from the automotive industry’s journey to driverless cars? While everybody talks about it and many claim to be doing it, the reality is",
+      "sourceUrl": null,
+      "webUrl": "https://www.artificiallawyer.com/2021/10/05/pushing-the-accelerator-tesla-and-legal-ai/",
+      "originalUrl": "https://www.artificiallawyer.com/2021/10/05/pushing-the-accelerator-tesla-and-legal-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.artificiallawyer.com/wp-content/uploads/2021/10/Screenshot-2021-10-05-at-07.11.58.png",
+          "width": 2007,
+          "height": 1375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "artificiallawyer.com",
+        "domain": "artificiallawyer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-continental-and-horizon-robotics-jv-accelerates-commercialisation-ai-technology.md",
       "title": "Continental and Horizon Robotics JV accelerates commercialisation AI technology",
       "excerpt": "Technology company Continental, and one of the global leaders in edge Artificial Intelligence (AI) computing platforms Horizon Robotics signed a Joint Venture (JV) contract, focusing on providing hardware and software integrated solutions for Advanced Driver Assistance Systems and automated driving.",
@@ -636,6 +731,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-city-council-votes-against-ato-rezoning-bans-facial-recognition-technology.md",
+      "title": "City Council votes against ATO rezoning, bans facial recognition technology",
+      "excerpt": "Over 150 people tuned into a WebEx meeting Monday night, most of whom were adamantly against the rezoning of the historic Alpha Tau Omega fraternity house. The West Lafayette City",
+      "sourceUrl": null,
+      "webUrl": "https://www.purdueexponent.org/campus/article_cbf32164-2584-11ec-807a-3fedbb2144b3.html",
+      "originalUrl": "https://www.purdueexponent.org/campus/article_cbf32164-2584-11ec-807a-3fedbb2144b3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/purdueexponent.org/content/tncms/assets/v3/editorial/d/d7/dd7c8dbe-8097-5727-850f-b8ccbd26d4d7/6147ab750e669.image.jpg?resize=945%2C630",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T19:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Purdue Exponent",
+        "domain": "purdueexponent.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -733,7 +871,7 @@
       "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-driven-meeting-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1005,143 +1143,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-robotics-transforming-knee-replacement-surgeries.md",
-      "title": "Robotics transforming knee replacement surgeries",
-      "excerpt": "The most advanced innovation is the Navio Surgical System, a robotic platform that does not need any CT scan or MRIs and creates a real-time image of the limb and deformity and the surgeon is able to visualise all around the knee and make a plan on how it is going to be after surgery even before the bone is touched.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsx.com/health/robotics-transforming-knee-replacement-surgeries.html",
-      "originalUrl": "https://www.newsx.com/health/robotics-transforming-knee-replacement-surgeries.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newsx.com/wp-content/uploads/2021/10/robotics-in-knee-replacement-309117-y432JCRT.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsx.com/amp/health/robotics-transforming-knee-replacement-surgeries.html",
-      "cdnAmpWebUrl": "https://www-newsx-com.cdn.ampproject.org/c/s/www.newsx.com/amp/health/robotics-transforming-knee-replacement-surgeries.html",
-      "publishedDateTime": "2021-10-04T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NewsX",
-        "domain": "newsx.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-mprest-mderms-and-mthm-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "mPrest mDERMS and mTHM Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Azure Marketplace offers world-class quality experiences from ... mPrest’s micro-services based, real-time orchestration and optimization platform brings the power of AI and IoT to the digital transformation of various industries, from energy and smart ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-7267fd563fd0b5bf1ec4e14e2429ec85",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-7267fd563fd0b5bf1ec4e14e2429ec85",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-gm-backed-cruise-sees-robotaxi-business-growing-past-50-billion.md",
-      "title": "GM-Backed Cruise Sees Robotaxi Business Growing Past $50 Billion",
-      "excerpt": "Cruise LLC, the autonomous vehicle startup majority-owned by General Motors Co., will tell investors this week that it sees a path for its ride-hailing business to reach $50 billion in revenue as the company ramps up its driverless ride hailing business starting over the next couple of years,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-10-04/gm-backed-cruise-sees-robotaxi-business-growing-past-50-billion",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-10-04/cruise-sees-driverless-ride-hailing-business-topping-50-billion-gm-stock-rises",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iglhlcJ6PXKQ/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T05:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

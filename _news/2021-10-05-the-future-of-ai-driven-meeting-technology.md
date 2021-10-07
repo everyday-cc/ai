@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-driven-meeting-technology/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "North Korea develops translator using AI technology: propaganda website"
-    excerpt: "North Korea has developed an artificial intelligence-based translation program with enhanced speed and accuracy, a propaganda outlet reported Sunday. DPRK Today, a propaganda website, carried a report introducing the research result of the AI institute of Kim Il-sung University on the creation and introduction of Ryongma,"
-    publishedDateTime: 2021-10-03T01:09:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/nation/2021/10/103_316380.html?fl"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316380"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316380"
-    type: article
-    provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 59
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202110/fb09af58482c4d07b89adfed4afbf0af.jpg"
-        width: 980
-        height: 607
-        isCached: true
   - title: "The future of recruiting: Social media and AI tech go hand in hand"
     excerpt: "In a job-seeker market, it may be time for recruiters to let go of job boards and meet talent where they are: on social media."
     publishedDateTime: 2021-10-07T16:27:00Z

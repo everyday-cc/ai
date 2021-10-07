@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-09-botz-a-robotics-ai-etf-with-a-strong-track-record.md",
+      "title": "BOTZ: A Robotics & AI ETF With A Strong Track Record",
+      "excerpt": "Technology stocks, ETFs, portfolio strategy, renewable energy, and O&G companies. Primary goal is growing net-worth. I typically allocate a portion of my own portfolio and devote some of my SA ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4454193-botz-a-robotics-and-ai-etf-with-a-strong-track-record",
+      "originalUrl": "https://seekingalpha.com/article/4454193-botz-a-robotics-and-ai-etf-with-a-strong-track-record",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1280407804/medium_image_1280407804.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4454193-botz-a-robotics-and-ai-etf-with-a-strong-track-record",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4454193-botz-a-robotics-and-ai-etf-with-a-strong-track-record",
+      "publishedDateTime": "2021-09-09T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-irobot-introduces-roomba-j7-robot-vacuum-with-genius-30-home-intelligence-clean-the-way-you-want-so-you-can-human.md",
+      "title": "iRobot Introduces Roomba® j7+ Robot Vacuum with Genius™ 3.0 Home Intelligence - Clean the Way You Want, So You Can Human",
+      "excerpt": "Designed to seamlessly blend into your home, the iRobot Roomba j7+ is a thoughtful, collaborative cleaning partner that delivers superior cleaning performance with every mission. Powered by iRobot Genius 3.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/irobot-introduces-roomba-j7-robot-vacuum-with-genius-3-0-home-intelligence-clean-the-way-you-want-so-you-can-human-1030788791",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/irobot-introduces-roomba-j7-robot-vacuum-with-genius-3-0-home-intelligence-clean-the-way-you-want-so-you-can-human-1030788791",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.multivu.com/players/English/8917451-irobot-introduces-roomba-j7-robot-vacuum-with-genius-3-0-home-intelligence/image/PetWaste_1630535359137-HR.jpg",
+          "width": 2048,
+          "height": 1536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-08T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-this-robot-trader-just-turned-bullish-on-amazon-facebook-and-nvidia-heres-what-it-sold.md",
       "title": "This Robot Trader Just Turned Bullish on Amazon, Facebook, and Nvidia. Here’s What It Sold.",
       "excerpt": "An exchange-traded fund with holdings decided by artificial intelligence ... and Lam Research (LRCX), and beauty products powerhouse Estée Lauder (EL). Facebook and Nvidia’s respective pushes ...",
@@ -1284,102 +1380,6 @@
         "name": "Design News",
         "domain": "designnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-seoul-robotics-launches-3d-perception-software-with-deep-learning.md",
-      "title": "Seoul Robotics launches 3D perception software with deep learning",
-      "excerpt": "Deep learning is at the heart of the new software, allowing Seoul Robotics to improve the perception accuracy of autonomous mobile robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/seoul-robotics-launches-first-3d-perception-software-with-deep-learning/",
-      "originalUrl": "https://www.therobotreport.com/seoul-robotics-launches-first-3d-perception-software-with-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/09/seoul-robotics-2-featured-web.jpg",
-          "width": 771,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-01T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-the-best-deals-to-shop-from-walmarts-labor-day-saleincluding-50-off-a-robot-vacuum.md",
-      "title": "The Best Deals To Shop From Walmart’s Labor Day Sale—Including 50% Off A Robot Vacuum",
-      "excerpt": "Or, if you’re simply interested in browsing some of the best deals the big-box store has to offer, check out our Walmart Labor Day sale picks below. From self-tanners to smart watches, we’ve found all the markdowns worth adding to your cart.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/09/01/walmart-labor-day-sale/",
-      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/09/01/walmart-labor-day-sale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612fb997a4cf7e4d7c15be55%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D302%26cropY2%3D969",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/09/01/walmart-labor-day-sale/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2021/09/01/walmart-labor-day-sale/amp/",
-      "publishedDateTime": "2021-09-01T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

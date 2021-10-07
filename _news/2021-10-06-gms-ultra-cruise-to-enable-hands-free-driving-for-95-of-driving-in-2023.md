@@ -99,6 +99,20 @@ related:
         width: 2560
         height: 1439
         isCached: true
+  - title: "GM Ultra Cruise: Self-Driving Cars Can Finally Ditch Highways"
+    excerpt: "GM announced today its semiautonomous driving system called 'Ultra Cruise.' It aims to leapfrog Tesla in the race to self-driving cars."
+    publishedDateTime: 2021-10-07T18:30:00Z
+    webUrl: "https://gearjunkie.com/news/gm-ultra-cruise-self-driving-cars"
+    type: article
+    provider:
+      name: GearJunkie
+      domain: gearjunkie.com
+    quality: 24
+    images:
+      - url: "https://s3.amazonaws.com/images.gearjunkie.com/uploads/2021/10/GM-UltraCruise-1200x628.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "j1U6EhjQryiuq6XU1TW2a/3GoP6m+DdebgLE0VJvD9JywTrilqYtmtxlM0NwsSr78WCdFKQ7UFQ9eWbxRZCEv3eM3tFoJC/hHuubRQm8SkJNkTY3HIzFENCnVekCWQu+w176nG7ze5K+kyxRlW9b8rlXmSm8S8YDj7UONe6VvbnPgbS8PcLYmjLjm6VKMgCt47wd8tHChPSKmeEs6HhgyxIlF7flg3uJKL0PGqT7mms8zAQMS40h1sI38BGANzjG81TjL2Cuj1UvoDMQVTXxmHfJJuZmOxMn2OWjTtcIPtDM6hYk1KYcrimxUTnRm1NeH1TSn71Hl8TBcV8LT0OLSJ2yLFGThX2YEcpP9Zu2C3I=;AyI3qpdm1akNhxiz1QqOwg=="
 ---

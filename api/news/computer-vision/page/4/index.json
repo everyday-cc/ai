@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-30-chinas-new-data-laws-are-a-risk-factor-in-a-facial-recognition-giants-ipo-filing.md",
+      "title": "China’s new data laws are a risk factor in a facial-recognition giant’s IPO filing",
+      "excerpt": "The firm's lengthy list of risk factors is a reminder that Chinese tech champions face rising scrutiny in both Beijing and Washington.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sensetimes-ipo-filing/",
+      "originalUrl": "https://qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sensetimes-ipo-filing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/02/1581746326404096.png?quality=75&strip=all&w=1200&h=630&crop=1",
+          "width": 875,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sensetimes-ipo-filing/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sensetimes-ipo-filing/amp/",
+      "publishedDateTime": "2021-08-30T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-28-indian-railways-installs-a-facial-recognition-system-to-track-commuters.md",
       "title": "Indian Railways installs a facial recognition system to track commuters",
       "excerpt": "Indian Railways has installed a network of nearly 500 facial recognition cameras to track millions of daily commuters, a report in the Financial Times suggested.",
@@ -1370,49 +1422,6 @@
       "provider": {
         "name": "Consumer Protection Safety Commission",
         "domain": "cpsc.gov",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-how-this-technologist-is-using-beauty-as-a-tool-to-disrupt-facial-recognition.md",
-      "title": "How this technologist is using beauty as a tool to disrupt facial recognition",
-      "excerpt": "The biggest stories of the day delivered to your inbox. By signing up to the Mashable newsletter you agree to receive electronic communications from Mashable that may sometimes include ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/how-to-disrupt-surveillance-facial-recognition-tech",
-      "originalUrl": "https://mashable.com/video/how-to-disrupt-surveillance-facial-recognition-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/videos/00qvEiMeRxzCYbNV2ojrTjw/hero-image.fill.size_1200x675.v1628003112.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
         "images": null,
         "publishers": null,
         "authors": null

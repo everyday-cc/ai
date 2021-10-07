@@ -57,6 +57,20 @@ related:
         width: 902
         height: 416
         isCached: true
+  - title: "Build your own brand detection and visibility using Amazon SageMaker Ground Truth and Amazon Rekognition Custom Labels – Part 2: Training and analysis workflows"
+    excerpt: "In Part 1 of this series, we showed how to build a brand detection solution using Amazon SageMaker Ground Truth and Amazon Rekognition Custom Labels. The solution was built on a serverless architecture with a custom user interface to identify a company brand or logo from video content and get an in-depth"
+    publishedDateTime: 2021-10-07T19:12:08Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/part-2-build-your-own-brand-detection-and-visibility-using-amazon-sagemaker-ground-truth-and-amazon-rekognition-custom-labels-training-and-analysis-workflows/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 91
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/23/ML-895-image001.jpg"
+        width: 1510
+        height: 691
+        isCached: true
   - title: "Build a system for catching adverse events in real-time using Amazon SageMaker and Amazon QuickSight"
     excerpt: "Social media platforms provide a channel of communication for consumers to talk about various products, including the medications they take. For pharmaceutical companies, monitoring and effectively tracking product performance provides customer feedback about the product, which is vital to maintaining"
     publishedDateTime: 2021-10-05T20:30:06Z

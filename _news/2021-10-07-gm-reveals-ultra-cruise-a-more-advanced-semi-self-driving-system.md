@@ -85,6 +85,20 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "GM Ultra Cruise: Self-Driving Cars Can Finally Ditch Highways"
+    excerpt: "GM announced today its semiautonomous driving system called 'Ultra Cruise.' It aims to leapfrog Tesla in the race to self-driving cars."
+    publishedDateTime: 2021-10-07T18:30:00Z
+    webUrl: "https://gearjunkie.com/news/gm-ultra-cruise-self-driving-cars"
+    type: article
+    provider:
+      name: GearJunkie
+      domain: gearjunkie.com
+    quality: 24
+    images:
+      - url: "https://s3.amazonaws.com/images.gearjunkie.com/uploads/2021/10/GM-UltraCruise-1200x628.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "GM's Ultra Cruise to enable hands-free driving for 95% of driving in 2023"
     excerpt: "GM's Ultra Cruise driver-assist system will arrive in 2023 to go beyond Super Cruise and provide hands-free driving on more than 2 million miles of road in the U.S. and Canada."
     publishedDateTime: 2021-10-06T16:00:00Z

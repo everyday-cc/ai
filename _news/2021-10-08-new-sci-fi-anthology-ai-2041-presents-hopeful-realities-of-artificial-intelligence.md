@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-07T17:00:00Z
 originalUrl: "https://www.space.com/artificial-intelligence-anthology-book-interview-excerpt"
 webUrl: "https://www.space.com/artificial-intelligence-anthology-book-interview-excerpt"
 type: article
-quality: 45
-heat: 45
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://cdn.mos.cms.futurecdn.net/9UpcYYVKDe9DLLQurv9r68-1200-80.jpg"

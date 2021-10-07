@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/sony-unit-to-introduce-edge-ai-sensi
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sony-unit-to-introduce-edge-ai-sensing-platform-service-2021-10-06?amp"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Sony to Launch Edge AI Platform Service AITRIOS™"
-    excerpt: "Sony Semiconductor Solutions Corporation . Atsugi, Japan - Sony Semiconductor Solutions Corporation (\"Sony\") announced today that its AITRIOS™ edge AI sensing platform will laun"
-    publishedDateTime: 2021-10-06T00:40:00Z
-    webUrl: "https://www.publicnow.com/view/5E1665784AFAE9C98F12CC20FFF1B504178FEB4D"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 23
   - title: "Sony readies subscription service for AI product developers"
     excerpt: "TOKYO: Sony Group will start offering subscriptions to artificial intelligence development tools, part of the Japanese company’s push to rely more on recurring revenue and less on hardware sales. The conglomerate said today,"
     publishedDateTime: 2021-10-06T07:49:00Z

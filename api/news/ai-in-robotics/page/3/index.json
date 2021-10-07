@@ -281,6 +281,58 @@
       ]
     },
     {
+      "path": "_news/2021-09-22-watch-a-tiny-robot-fly-an-aircraft-nearly-as-well-as-a-real-pilot.md",
+      "title": "Watch a tiny robot fly an aircraft nearly as well as a real pilot",
+      "excerpt": "Besides giving PIBOT enough skill to tackle every stage of flight, they're already translating its skill to real (if remote-controlled) aircraft. It's not hard to envision a future where robots ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2014-09-22-pibot-the-robot-pilot.html",
+      "originalUrl": "https://www.engadget.com/2014-09-22-pibot-the-robot-pilot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/pdNfU4GDZ5SccH4.0t2mTw--~B/aD0zMzc7dz02MzA7YXBwaWQ9eXRhY2h5b24-/https://o.aolcdn.com/hss/storage/midas/3abab4338a51914603e04b0ca71413e/200792512/kaist-pibot-robot-pilot.jpg",
+          "width": 630,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-arkq-uniquely-positioned-to-capitalize-on-robotics-trends.md",
       "title": "ARKQ Uniquely Positioned to Capitalize on Robotics Trends",
       "excerpt": "Amid an array of technological advancements, robotics investing is gaining a broader audience, and exchange traded funds issuers are meeting that demand. However, the various robotics ETFs on the market today aren't carbon copies of each other,",
@@ -493,6 +545,49 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-19-uaeu-turns-to-artificial-intelligence-and-robotics-as-part-of-the-fourth-industrial-revolution.md",
+      "title": "UAEU turns to Artificial Intelligence and Robotics as part of the Fourth Industrial Revolution",
+      "excerpt": "The UAEU's Artificial Intelligence and Robotics Laboratory (AIRL) aligns its work to the UAE's strategic vision. Its initial focus is on education and health technologies. Dr Fady Al-Najjar ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1102819811/UAEU-turns-to-Artificial-Intelligence-and-Robotics-as-part-of-the-Fourth-Industrial-Revolution",
+      "originalUrl": "https://menafn.com/1102819811/UAEU-turns-to-Artificial-Intelligence-and-Robotics-as-part-of-the-Fourth-Industrial-Revolution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2021-09/18/M_7a69eimage_story.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-18T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1256,110 +1351,6 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-ambi-robotics-which-develops-robot-grasping-systems-raises-28m.md",
-      "title": "Ambi Robotics, which develops robot grasping systems, raises $28M",
-      "excerpt": "Ambi Robotics, a startup founded by UC Berkeley roboticist Ken Goldberg, has raised $26 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/14/ambi-robotics-which-develops-robot-grasping-systems-raises-28m/",
-      "originalUrl": "https://venturebeat.com/2021/09/14/ambi-robotics-which-develops-robot-grasping-systems-raises-28m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-553200801-e1630698097462.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/14/ambi-robotics-which-develops-robot-grasping-systems-raises-28m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/14/ambi-robotics-which-develops-robot-grasping-systems-raises-28m/amp/",
-      "publishedDateTime": "2021-09-14T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-researchers-lay-the-groundwork-for-an-ai-hive-mind.md",
-      "title": "Researchers lay the groundwork for an AI hive mind",
-      "excerpt": "Intel's newest AI advances are a rising tide that lifts all vessels. But every science fiction horror story has to start somewhere, behold the hive mind.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/researchers-lay-groundwork-for-ai-hive-mind",
-      "originalUrl": "https://thenextweb.com/news/researchers-lay-groundwork-for-ai-hive-mind",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2Fborgcube.jpg&signature=3f2568c9fafe1daeaffa3bcb4690159a",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

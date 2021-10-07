@@ -40,23 +40,7 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "North Korea develops translator using AI technology: propaganda website"
-    excerpt: "North Korea has developed an artificial intelligence-based translation program with enhanced speed and accuracy, a propaganda outlet reported Sunday. DPRK Today, a propaganda website, carried a report introducing the research result of the AI institute of Kim Il-sung University on the creation and introduction of Ryongma,"
-    publishedDateTime: 2021-10-03T01:09:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/nation/2021/10/103_316380.html?fl"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316380"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316380"
-    type: article
-    provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 59
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202110/fb09af58482c4d07b89adfed4afbf0af.jpg"
-        width: 980
-        height: 607
-        isCached: true
 
-secured: "Sp8F/iE3gjjmBWubvfljfBt+vYOUPHn7JPQ+EhPxleExEg4ze6XGtQ2EvDjs3GsvuQ9K4peSEwVXV6HxkDTSGgBMnYeZkPcpvzcePB/NUhVMuvfAC1FhPvY/CIYFOXkgH7ACDyFYI2/4sMSKzaSAwOVJvdgWDGHf1b0FsZz5orckiPI2OYhuOfYW9VSf3GCTw9bItIARMf5hNfgDuJQSkxoFUP5Ujd63B/PR2i1ArwS1igieZtJ7jd01xGyFrKCcGB9tot5HvkCfMSpwyyOPg7MWmbAAJoIjzlIqNTUvcozCmh6PWnL+iNk/2tt6gL+ebiNnL0fSMAjvE6AAadUxtRhAjI5yg0zuE5AIvlsDjBk=;ZZPhGLAPtYzP80ssSL+yYg=="
+secured: "ePMsYxo8WgMT8wLzsdinteICn4b6raP5OxGtlZUOZcRBoh0yW2JOKWNbStPSuOhbYbr3M8zx+Kjt15dTzxkgj0EnApkNp68pbNO9Ft/5JeGrmVlbW14dwBeV+SVfta6dQGTvLewd2Q0YG9jmzFRbNUjUSTUEOhmmTs3Zs2AW5g469brAGweO9vYpjvczAWiCPTp0JrrsNXTS9u/SsMmB+U6iC5DiwwupSGjwjalpE4UotWMfE4XGEL7tNSatYa9j+9yrfOoJG1R4PQxcjEtxlZvDubJoCtBPeoIZ/JT3CEvVmCOpQUlZLMbdDwcq+4gAM5+s8mm9YGhqpJd8MqC1iVvMJ8HyMCCjfO4fcf1UPnx75Lk805kikVW1z4gQiFAB4eYuRmCu9vdGpmFMJqGfDN3daS1/m7PRZNWQRLY3Xd/UHY7TmbMDbY81/IXeusXka0nAl0J82Rkc68jp8T1mwiBQo1/rlZQgr1bdoLXrQmMbKMvRabQlGuy3n1Juhli8WZuIcr3ykl/LqWQTRe0GGg==;lzZrr+1QQ7fhRVHwIn+B5Q=="
 ---
 

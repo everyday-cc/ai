@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-08-scale-ai-launches-rapid-data-labeling-service.md",
+      "title": "Scale AI launches rapid data-labeling service",
+      "excerpt": "Scale has launched a data-labeling service it says enables rapid and accurate results for companies building AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/07/scale-rapid-promises-quality-data-labeling-for-ai-in-as-little-as-an-hour/",
+      "originalUrl": "https://venturebeat.com/2021/10/07/scale-rapid-promises-quality-data-labeling-for-ai-in-as-little-as-an-hour/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1295429677-1-e1629146386206.jpg?fit=800%2C560&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/07/scale-rapid-promises-quality-data-labeling-for-ai-in-as-little-as-an-hour/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/scale-rapid-promises-quality-data-labeling-for-ai-in-as-little-as-an-hour/amp/",
+      "publishedDateTime": "2021-10-07T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-08-traditional-customer-relationship-moments-vs-ai-moments.md",
       "title": "Traditional Customer Relationship Moments vs. AI Moments",
       "excerpt": "A Five-Step Road Map to Implementing Artificial Intelligence in Marketing, by Rajkumar Venkatesan and Jim Lecinski, published by Stanford University Press, ©2021 by",
@@ -425,7 +476,7 @@
       "originalUrl": "https://menafn.com/1102931771/Artificial-Intelligence-in-Education-Market-Size-By-Model-Forecast-2020-2028",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -469,7 +520,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bring-structure-to-diverse-documents-with-amazon-textract-and-transformer-based-models-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -522,7 +573,7 @@
       "originalUrl": "https://newatlas.com/automotive/gm-ultra-cruise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1141,7 +1192,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/sony-unit-to-introduce-edge-ai-sensing-platform-service-2021-10-06",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1163,57 +1214,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-marc-lore-backed-conversational-commerce-startup-wizard-raises-50m-series-a-from-nea.md",
-      "title": "Marc Lore-backed ‘conversational commerce’ startup Wizard raises $50M Series A from NEA",
-      "excerpt": "Marc Lore, who earlier this year stepped down from his role as Walmart’s head of U.S. e-commerce, is now backing a new startup in the e-commerce space called Wizard. Lore has taken on the roles of co-founder,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/06/marc-lore-backed-conversational-commerce-startup-wizard-raises-50m-series-a-from-nea/",
-      "originalUrl": "https://techcrunch.com/2021/10/06/marc-lore-backed-conversational-commerce-startup-wizard-raises-50m-series-a-from-nea/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/02/shutterstock_373885852.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/06/marc-lore-backed-conversational-commerce-startup-wizard-raises-50m-series-a-from-nea/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/marc-lore-backed-conversational-commerce-startup-wizard-raises-50m-series-a-from-nea/amp/",
-      "publishedDateTime": "2021-10-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

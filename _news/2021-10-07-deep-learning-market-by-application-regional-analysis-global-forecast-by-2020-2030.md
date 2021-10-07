@@ -81,6 +81,20 @@ related:
         width: 444
         height: 250
         isCached: true
+  - title: "Artificial Intelligence Platform Market Size By Component: Market Analysis Report, Forecast 2020-2030"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 07, 2021, 07:30 /Comserve / -- The global Artificial Intelligence Platform market is expected to be around US$ 19.8 Billion by 2025, at a CAGR of more than 28% in the given forecast period."
+    publishedDateTime: 2021-10-07T19:45:00Z
+    webUrl: "https://menafn.com/1102935339/Artificial-Intelligence-Platform-Market-Size-By-Component-Market-Analysis-Report-Forecast-2020-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?228876"
+        width: 413
+        height: 250
+        isCached: true
   - title: "Artificial Intelligence Chipsets Market By Component: Regional Analysis - Global Forecast by 2020 2030"
     excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 06, 2021, 00:24 /Comserve / -- The Artificial Intelligence Chipsets Market is expected to be around US$ 80.20 Billion by 2025 at a CAGR of 36% in the given forecast period."
     publishedDateTime: 2021-10-06T18:45:00Z
