@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-08-finance-insurance-fintechs-future-is-now.md",
+      "title": "Finance & Insurance: Fintech’s Future Is Now",
+      "excerpt": "As the banks shut down during the pandemic, people largely relied on virtual financial services, fueling a dramatic growth in FinTech.",
+      "sourceUrl": null,
+      "webUrl": "https://businessfacilities.com/2021/10/finance-insurance-fintechs-future-is-now/",
+      "originalUrl": "https://businessfacilities.com/2021/10/finance-insurance-fintechs-future-is-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.businessfacilities.com/wp-content/uploads/2021/10/BF-JulAug21_Finance_1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://businessfacilities.com/2021/10/finance-insurance-fintechs-future-is-now/amp/",
+      "cdnAmpWebUrl": "https://businessfacilities-com.cdn.ampproject.org/c/s/businessfacilities.com/2021/10/finance-insurance-fintechs-future-is-now/amp/",
+      "publishedDateTime": "2021-10-07T12:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Facilities",
+        "domain": "businessfacilities.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-1-machine-vision-stock-looking-into-the-future.md",
       "title": "1 Machine-Vision Stock Looking Into the Future",
       "excerpt": "Let's take a look at how these emerging technologies could mean big business down the road for the machine-vision specialist. Image source: . Incorporated in 1981, Cognex develops machine-vision products designed to automate various manufacturing and distribution jobs that would otherwise require human oversight.",
@@ -1289,49 +1332,6 @@
         "AWS AI",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-city-of-pittsburgh-pa-goes-live-on-css-impacts-financial-ecosystems-cloud-as-its-business-tax-management-platform.md",
-      "title": "City of Pittsburgh, PA Goes Live on CSS IMPACT’s Financial Ecosystems Cloud as its Business Tax Management Platform",
-      "excerpt": "On September 1st, 2021, the City of Pittsburgh Pennsylvania, Department of Finance, officially launched CSS IMPACT Financial Cloud as their new Enterprise Business Tax Management Financial Ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidearm.com/news/00047683-city-pittsburgh-pa-goes-live-css-impacts-/",
-      "originalUrl": "https://www.insidearm.com/news/00047683-city-pittsburgh-pa-goes-live-css-impacts-/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.insidearm.com/static/mirrorstage/img/article-share-thumbnail.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-16T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideARM",
-        "domain": "insidearm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

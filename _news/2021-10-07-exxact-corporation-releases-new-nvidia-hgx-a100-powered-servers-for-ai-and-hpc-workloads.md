@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Exxact Corporation Releases New NVIDIA HGX A100 Powered Servers for AI and HPC Workloads"
-excerpt: "Exxact Corporation, a leading provider of high-performance computing (HPC), artificial intelligence (AI), and data center solutions, announced that it is now offering a new line of TENSOREX™ servers featuring the NVIDIA HGX™ A100 platform."
-publishedDateTime: 2021-10-06T18:01:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/science-technology-business-artificial-intelligence-294d7702e9f8e17eb3fa7c4e890fdb9f"
-webUrl: "https://apnews.com/press-release/PRNewswire/science-technology-business-artificial-intelligence-294d7702e9f8e17eb3fa7c4e890fdb9f"
+excerpt: "NVIDIA HGX combines NVIDIA A100 Tensor Core GPUs with high-speed interconnects to form the world's most powerful servers. With 16 A100 GPUs, HGX has up to 1.3 terabytes (TB) of GP"
+publishedDateTime: 2021-10-06T18:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-exxact-corporation-releases-new-nvidia-hgx-a100-powered-/2021/10/06/9464430.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-exxact-corporation-releases-new-nvidia-hgx-a100-powered-/2021/10/06/9464430.htm"
 type: article
-quality: 30
-heat: 30
+quality: 10
+heat: 10
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "5o+JMasU/g9s3ChnhFyXRwdMjSw1tn/znlscNVs47yXeq1UxxTbS0lOMuL0WWXaT37f9y3qDFPbChW4r8Lr0a846I1VXloyI4kDZuP8bMwsLQT5D28cycDbOEr63lZkGkOSj0WmcyVokH5z38LoOLKJA5tLpA5Z4wkN9IWiiz7tes5KwkXw/rkOwNaEVvlFe9Oe4vswqXb4aNA5lCXeEQVQQzz5GAZ6QJ0mi97BeynpDQdBKgyOPbm+GbrGesMJhZeKQliDVzT41R7DxS00b/EeXGcpX2PTEyuhrAUgb9HrCdtYfhuj/5G/L8SphcNb8zT2Vspr2BpbUSgXlesgRHgPHNclD5OWj5P6FDXAK9qA=;QwEMYl1t7xqvlVTH+S9+gA=="
+secured: "KRkqVh01S4+2qDpNw/dKyuO5QFRDr57uxRIpS5e1mG0N/juJNlrC+JgGAg7jI4q+cksmprALgAkfthZcloGJDFvoWp8gBZ6ytPEojHV0YBoSg4gXRqsJ1NcE3UJ2YgNp7dP4U2yq5Ts+y/ua8HepPFhN5+5fntYI5Gl5Tu0YLC6PK9O9RlyMe9OvE71smmBHuU0jovF48kHZXXqLEOTqb4fVjPAYrf9djO3NfdWt0wE9UJrG60sQBiZLwHcL+bt+lEfUaEjMffalIF/yANFGoOiItTGb79rEdri1icFFQbYzQN1UZOcadDGxebiaInkOQJ3Qy45ZdcWqp5VubQqxccLLrhjTIvpFQwa4DOcAq5o=;plB2eRBeAN1mkFXDScfTrw=="
 ---
 

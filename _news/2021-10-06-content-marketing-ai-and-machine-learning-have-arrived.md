@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business2community.com/content-marketing/content-marketi
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/content-marketing/content-marketing-a-i-and-machine-learning-have-arrived-02434915/amp"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "Is Artificial Intelligence (AI) dominating the world of online marketing?"
+    excerpt: "Many online marketing and advertising platforms would have you believe that AI is here now and that you no longer need to worry about content creation or to create your own Facebook or LinkedIn ads ever again."
+    publishedDateTime: 2021-10-07T02:46:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-ai-dominating-world-online-felicidade-jones"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 70
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGfmZBN3jg1QQ/article-cover_image-shrink_600_2000/0/1633551074484?e=1639008000&v=beta&t=UuDTR84fxF0Z2_agyDuXdBR7-zrkm53R4XxUX-Hlnjs"
+        width: 1476
+        height: 600
+        isCached: true
 
 secured: "pr5uSvoTlZumsSEnJVibg/W4tgjHW1IhWj7iWiMG48gU2ECBgSMI1/llFp728rjGHKF7iaXBI8uqahqmDa+V6uZP+P0lxxLdqjfIBISP7L+7bRcRDdx12PkadunMa+oUSfmB2kL3BfeJNSsOiLbSzgMz2EQ4AU/4ZNuYlV3AzzbIFvdHAjFf0ZTdoAk65DZlTA0iLDOhjJnpeqEdZi2g8EbosAUuqrf3TwLQJPZqdWA7WAMzRX2BLBWvtQCjcg2hkbnWss0ycCows8IAzGD16TCAS2M671Aj8gSdafk+bLQvgf6nx+CQ8wBI3pu3ZoU88ZRUi+lsKSFaNJnKDaegsvsra39MdYHqQhuxnZpDyaM=;DGw7al9lfTzwnXG++cSW+Q=="
 ---

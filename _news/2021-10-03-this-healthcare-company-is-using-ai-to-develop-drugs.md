@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -65,15 +65,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Infusing AI to governments"
-    excerpt: "Digital transformation is one of the main objectives for governments around the globe. Even though, public sector organizations see digital technologies as a top priority, the majority has not embraced Artificial Intelligence (AI),"
-    publishedDateTime: 2021-10-04T17:11:00Z
-    webUrl: "https://www.linkedin.com/pulse/infusing-ai-governments-yannis-zisos-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 19
 
 secured: "6lusk1NZ6YpEB8HlWOfnuFEhwRfwfggZZKWExhXHD/7wlBeIBKiJXpPsfOPPLVtHzPuzkEuGUgmyP3VL2M0R5Jc1gRbirBCNTGfe/lKTzNMnVlVUn+vJdDFUNcMi9pgG9D6zgYg0SpRaJmvbMHfFY608V3y3z1LULzgf1NBoNfNE1jgZi2eNYwAQFC/4vh2emRaPS/rnmed2l/LkzH5BF0xEpT0iXzfGs9IiNSv5fTQe9+IN4Xi2DyBdKJe7h7WG/p1rWgIvYvANqgzCUH0QZXZ9/dN/Sy2IbseBJjJMCKncAciGrs3pDAXJ6Cj6S5Ble+/IXc/aZedGE7YItVybXfFM0+oCVQ8DHSHlYDLlBIM=;l/VC1e2KtLV16MTUkge67g=="
 ---

@@ -71,6 +71,15 @@ related:
         width: 682
         height: 383
         isCached: true
+  - title: "General Motors' Cruise To Launch 1 Mln Self-driving Cars By 2030"
+    excerpt: "General Motors Co.'s (GM) autonomous vehicle subsidiary Cruise is planning to launch at least 1 million self-driving cars by the year"
+    publishedDateTime: 2021-10-07T21:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/general-motors-cruise-to-launch-1-mln-self-driving-cars-by-2030-1030851709"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Tower Says New Tech A Boon For Self-Driving Cars"
     excerpt: "Chipmaker Tower Semiconductor, with much of its domestic operations in Newport Beach, says it has helped to develop a new technology that will speed up the introduction of self-driving cars, while also finding future applications in robots and industrial production."
     publishedDateTime: 2021-10-04T17:06:00Z
@@ -114,6 +123,6 @@ related:
         height: 1275
         isCached: true
 
-secured: "Df149oOORrUOH16MYsUR48rqzDX3vMGf3tuuVG2f8Mkyj1yt4rVLlX1XQ5Yb2ItiwQMS+LACNMSiP8cS1WU7+GPSWrU78RP3lzs+3o5CXB0uJYlFCCHZr1S2LA2K9T0wrFU/G0wEXyI0eyRU1GswmixYks/mbDDzBT3Fj1dBJQdibVsAuu30C79WT7uV36HcL1vbxtY1evRaFJQLOQSa0bQlktBWfc6LmTXd0IA2an3LkZk9B99InuRkh7nG/ySBVgHYXvPHyjzUDuSEcB11W1haR3DPQltLoxtXlNBF6D42b43kLeNUQUPYCmvaciJ7lfmbPx3ndv43zvlRERb5MPNRr1MwyDv1BzFP9xn1h2Q=;rczT0nCugsP8LiQlL4PpfQ=="
+secured: "Imu3TKJC5fuSug/LeZGv69FsWbUjORCvlf0U26LiH178cj6yZNOllFFKUI1ipPowg7G2pa9V03SzRxtM5OjToLCe2N0ONQCHRUzJIdzLc6ZLduTdpVhRa+UcdaXGS2ctGN9Q+5mBygucgezf6T86U+BtyxcMiaEDb8D61Jx4PFr5sC9rJprbtj3zDovE8nlNRKNTrLD9zU7hBrtPPtHGV2Tzbp7n7Oey2h7JomFgmMPNODPYn33uwJ2yOkVHc3BvuVzOpFVdZYIwL2e/+L0/xpfp+HIV126sUw8FP/8+7lbdqnZuSeR0a3AsVi0Kg3igWr/riQ6868p28ti+QE7v6VjlqGguHtpuwcnG1epolK8bn7zssZAaWKLuc+hyVS20HpRvttzvSLl8dSsBfQ/fAveQtneop0we70qw8tjg+6SzhHwE/CCdJPEVsNMg/y+hMMHg8XtUCxdejrU9qsf+10/JciFejcG58aqpLBXAdPmdalGxrbIWS7FY6Hs/m/0oEBnRscYjJQwrVZpX39z2/Q==;gCvW7sXOV3h3hZiCwXo5OA=="
 ---
 

@@ -25,20 +25,6 @@ images:
 
 related:
   - title: "Team uses AI to complete Beethoven's unfinished masterpiece"
-    excerpt: "MARTIN: ...And the fantastical \"Moonlight Sonata.\" (SOUNDBITE OF LUDWIG VAN BEETHOVEN'S \"MOONLIGHT SONATA\") MARTIN: But for all the sonatas, concertos and symphonies Beethoven wrote, there remained one piece he never completed."
-    publishedDateTime: 2021-10-03T03:06:00Z
-    webUrl: "https://www.wbaa.org/post/team-uses-ai-complete-beethovens-unfinished-masterpiece"
-    type: article
-    provider:
-      name: WBAA
-      domain: wbaa.org
-    quality: 37
-    images:
-      - url: "https://www.wbaa.org/sites/wbaa/files/202004/logo_white_transparentdropshadow.png"
-        width: 1830
-        height: 957
-        isCached: true
-  - title: "Team uses AI to complete Beethoven's unfinished masterpiece"
     excerpt: "There is no overstating the German composer's influence on Western music, with enduring classics ranging from his epic \"Ode To Joy\"... (SOUNDBITE OF LUDWIG VAN BEETHOVEN'S \"ODE TO JOY\") MARTIN: ...To his heroic \"Third"
     publishedDateTime: 2021-10-03T20:34:00Z
     webUrl: "https://www.knau.org/post/team-uses-ai-complete-beethovens-unfinished-masterpiece"

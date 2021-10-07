@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Far-field Speech Recognition Market 2021 Size, Trends, Scope, Demand, Opportunity and Forecast by 2027| Covering COVID-19 impact Analysis"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “ Far-field Speech Recognition Market ” report covering growth prospects, market development potential, profitability,"
+    publishedDateTime: 2021-10-07T09:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-recognition-market-2021-size-trends-scope-demand-opportunity-and-forecast-by-2027-covering-covid-19-impact-analysis-2021-10-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech and Voice Recognition Market 2021 Covering Major Driving Factors and Competitive Outlook till 2031"
     excerpt: "The Speech and Voice Recognition market study by insightSLICE offers compelling insights into key growth drivers and restraints impacting the market through 2031. The survey offers Speech and Voice Recognition demand outlook and studies opportunities existing in key segments,"
     publishedDateTime: 2021-10-04T12:04:00Z

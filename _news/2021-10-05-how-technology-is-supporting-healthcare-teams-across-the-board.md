@@ -7,7 +7,7 @@ originalUrl: "https://www.openaccessgovernment.org/how-technology-is-supporting-
 webUrl: "https://www.openaccessgovernment.org/how-technology-is-supporting-healthcare-teams-across-the-board/121590/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "GBT is Enhancing its Avant! AI Technology to Support Healthcare Advisory System"
-    excerpt: "GBT Technologies Inc. (OTC PINK: GTCH) (\"GBT”, or the “Company”), is enhancing its Avant! AI technology, while enabling a healthcare advisory system. The company is in the process of an enhancement phase to improve Avant!"
-    publishedDateTime: 2021-10-07T12:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-gbt-enhancing-its-avant-ai-technology-support-healthcare-/2021/10/07/9464802.htm"
+  - title: "AI Technologies Are Being Used to Localize the Bob Ross Channel"
+    excerpt: "Cinedigm is working with the AI-voice startup Papercup to dub the entire catalog of Bob Ross’s iconic painting show for linear AVOD and SVOD platforms"
+    publishedDateTime: 2021-10-07T21:28:00Z
+    webUrl: "https://www.tvtechnology.com/news/ai-technologies-are-being-used-to-localize-the-bob-ross-channel"
+    ampWebUrl: "https://www.tvtechnology.com/amp/news/ai-technologies-are-being-used-to-localize-the-bob-ross-channel"
+    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/ai-technologies-are-being-used-to-localize-the-bob-ross-channel"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 57
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ZQ9Dc8gp5tbh7xLtmLTG67-1200-80.jpg"
+        width: 959
+        height: 585
+        isCached: true
 
 secured: "7npFHrdIX/k4zl9066TQ6UcMXggYJATn+FIdL4nktYBKlrfsBze1iE8B8FXUYOrs4XzDTxbSc7uITf9kvlZCqBOVr24EhCck4mIxnnMoT8+X27kTX+pHRIOE6EYG4Z+OZBbzCot+MYIbDYYSeyYzHkyUHtzFUi0xa7MlTBFsu8y4hJIpYosc09RlRoflK2kNL1j4FuBqZpfcPKzcrRxLqRQFM9UpcSW+J3H5F8i8puJ/2pmrPOPqBXuFaQYDMil/iR4VTY8r/nPbSsv1YCVl46NLRcVEiJzj2426+vnWacUlehwIEwwjbwoQTXja/P5zbRuY3zr09WbchEVBSLXIndtA6iUHBKm18O/WUhTEe3k=;Sj8e9YenZK1S/sqmN+bPmQ=="
 ---

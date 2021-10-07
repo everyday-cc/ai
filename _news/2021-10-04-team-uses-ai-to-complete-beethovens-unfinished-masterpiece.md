@@ -7,7 +7,7 @@ originalUrl: "https://www.knau.org/post/team-uses-ai-complete-beethovens-unfinis
 webUrl: "https://www.knau.org/post/team-uses-ai-complete-beethovens-unfinished-masterpiece"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Team uses AI to complete Beethoven's unfinished masterpiece"
-    excerpt: "MARTIN: ...And the fantastical \"Moonlight Sonata.\" (SOUNDBITE OF LUDWIG VAN BEETHOVEN'S \"MOONLIGHT SONATA\") MARTIN: But for all the sonatas, concertos and symphonies Beethoven wrote, there remained one piece he never completed."
-    publishedDateTime: 2021-10-03T03:06:00Z
-    webUrl: "https://www.wbaa.org/post/team-uses-ai-complete-beethovens-unfinished-masterpiece"
-    type: article
-    provider:
-      name: WBAA
-      domain: wbaa.org
-    quality: 37
-    images:
-      - url: "https://www.wbaa.org/sites/wbaa/files/202004/logo_white_transparentdropshadow.png"
-        width: 1830
-        height: 957
-        isCached: true
   - title: "Roll over, Beethoven. AI tackles his 10th Symphony."
     excerpt: "Ludwig van Beethoven never finished his 10th Symphony. But using artificial intelligence, a team of people with a computer has completed it for him."
     publishedDateTime: 2021-10-05T04:00:00Z

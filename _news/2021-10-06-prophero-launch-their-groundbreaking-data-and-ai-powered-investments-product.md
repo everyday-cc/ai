@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/23247190"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23247190"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 400
     height: 400
     isCached: true
+
+related:
+  - title: "Proptech startup PropHero Launches Data and AI-powered Property Investments Platform"
+    excerpt: "NextGen proptech startup, PropHero, announces the launch of their Data and AI-powered property investment platform  <a href ="
+    publishedDateTime: 2021-10-07T20:42:00Z
+    webUrl: "https://menafn.com/1102935982/Proptech-startup-PropHero-Launches-Data-and-AI-powered-Property-Investments-Platform"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 30
+    images:
+      - url: "https://menafn.com/updates/pr/2021-10/07/G_40d23b2d-1_Image_In_Body.png"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "erjFlTkE+lofFQoEhT0ttJEaAVyl8LIGAgPGg1aO3OrPBUs7KLal1yv8vFJqGsTLYifXBE5RjtGPBkB/Ifb6rwL8f3jhZQODPo6L2HtX5GKe0QSHi5ITk3MqBvhUKmp1jiXcNqrkYv4kws1AMq7um8rH1/da2bvQg9m7Iq3onTb0lrst2+S8eGPphe87eS9XgjCWmLYpfvS32SdbbB1PkbVK5G6X/qU1is9jFbFPpV/di1d3bGA5WBBp8m3VmFARDSL5mtFkvXdwsKirUX/b1YW6sp8xwOuISSWG4XT/jbEU0TjEG+hhGI4Qs5NxL+upG6sXKvnY0KTD3fl1VTK1icBnRbnmW4lE/79iipp5dkI=;jZbXNmlBP5J5wfyPuv10aQ=="
 ---

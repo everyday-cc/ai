@@ -62,6 +62,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Far-field Speech Recognition Market 2021 Size, Trends, Scope, Demand, Opportunity and Forecast by 2027| Covering COVID-19 impact Analysis"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “ Far-field Speech Recognition Market ” report covering growth prospects, market development potential, profitability,"
+    publishedDateTime: 2021-10-07T09:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-recognition-market-2021-size-trends-scope-demand-opportunity-and-forecast-by-2027-covering-covid-19-impact-analysis-2021-10-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence in Video Games Market 2021 Industry Outlook, Present Scenario of Manufacturers, Analysis and Research Study by 2027"
     excerpt: "MRInsights.biz has newly added a research report titled Global Artificial Intelligence in Video Games Market Growth (Status and Outlook) 2021-2027 is a detailed and dedicated analysis of the present scenario of the market covering the various aspects applicable to business growth."
     publishedDateTime: 2021-10-04T11:49:00Z

@@ -23,61 +23,91 @@ topics:
   - AI
 
 related:
-  - title: "This Healthcare Company Is Using AI to Develop Drugs"
-    excerpt: "L ife sciences company Schrödinger (NASDAQ: SDGR) has developed software that could help drug companies develop medicine using artificial intelligence and physics, and it's already being used by a number of big-name pharma companies."
-    publishedDateTime: 2021-10-03T12:15:00Z
-    webUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03"
-    ampWebUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp"
+  - title: "Reinforcement learning improves game testing, AI team finds"
+    excerpt: "Recently, gaming companies have become interested in using reinforcement learning and other machine learning techniques in game development."
+    publishedDateTime: 2021-10-07T21:20:00Z
+    webUrl: "https://venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/"
+    ampWebUrl: "https://venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/10/adversarial-reinforcement-learning-for-procedural-content-generation-1.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Learn AI, including machine learning, for just $3 a course"
+    excerpt: "These 12 expert-led courses contain 79 hours of content covering concepts anyone interested in AI and machine learning needs to know, including Python, TensorFlow and R.."
+    publishedDateTime: 2021-10-05T14:58:00Z
+    webUrl: "https://www.engadget.com/premium-machine-learning-artificial-intelligence-super-bundle-deal-sale-145547107.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
     quality: 84
-  - title: "How Artificial Intelligence is changing music"
-    excerpt: "Beethoven’s unfinished 10th symphony has just been completed, 194 years after the composer wrote it, by an Artificial Intelligence program as part of an effort at Rutgers University. This sort of development in the world of creativity is critical for two reasons."
-    publishedDateTime: 2021-10-07T12:41:00Z
-    webUrl: "https://www.thehindu.com/entertainment/music/how-artificial-intelligence-is-changing-music/article36876008.ece"
-    ampWebUrl: "https://www.thehindu.com/entertainment/music/how-artificial-intelligence-is-changing-music/article36876008.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/entertainment/music/how-artificial-intelligence-is-changing-music/article36876008.ece/amp/"
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-09/7e229fc0-2163-11ec-a98d-f13f6593f430"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "A framework to enhance deep learning using first-spike times"
+    excerpt: "Researchers at Heidelberg University and University of Bern have recently devised a technique to achieve fast and energy-efficient computing using spiking neuromorphic substrates. This strategy, introduced in a paper published in Nature Machine Intelligence,"
+    publishedDateTime: 2021-10-05T13:30:00Z
+    webUrl: "https://techxplore.com/news/2021-10-framework-deep-first-spike.html"
+    ampWebUrl: "https://techxplore.com/news/2021-10-framework-deep-first-spike.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-framework-deep-first-spike.amp"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/a-framework-to-enhance.jpg"
+        width: 732
+        height: 396
+        isCached: true
+  - title: "Scientist looks to AI, lensing to find masses of free-floating planets"
+    excerpt: "Exoplanet hunters have found thousands of planets, most orbiting close to their host stars, but relatively few alien worlds have been detected that float freely through the galaxy as so-called rogue planets,"
+    publishedDateTime: 2021-10-06T10:57:00Z
+    webUrl: "https://phys.org/news/2021-10-scientist-ai-lensing-findmasses-offree-floating.html"
+    ampWebUrl: "https://phys.org/news/2021-10-scientist-ai-lensing-findmasses-offree-floating.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-10-scientist-ai-lensing-findmasses-offree-floating.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
     quality: 57
     images:
-      - url: "https://www.thehindu.com/entertainment/music/4yoo3m/article36876007.ece/ALTERNATES/LANDSCAPE_615/08frANILSRINIVASANfr21UV8SV6CSjpg"
-        width: 615
-        height: 384
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/scientist-looks-to-ai.jpg"
+        width: 2880
+        height: 2160
         isCached: true
-  - title: "Top 10 companies that are using AI"
-    excerpt: "If you ask about the only technology that is emerging today, that is Artificial intelligence or maybe you can say that it is one of the technologies that today’s companies are adopting it rapidly. There are many companies that are using AI."
-    publishedDateTime: 2021-10-05T13:44:00Z
-    webUrl: "https://www.linkedin.com/pulse/top-10-companies-using-ai-rejwan-bin-sulaiman"
+  - title: "Artificial intelligence in software testing: The next big game changer"
+    excerpt: "Artificial intelligence does not require any introduction, as each of us utilizes some form of AI in our daily lives"
+    publishedDateTime: 2021-10-06T09:06:00Z
+    webUrl: "https://www.dqindia.com/artificial-intelligence-in-software-testing-the-next-big-game-changer/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 43
+      name: Dataquest
+      domain: dqindia.com
+    quality: 37
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQH4A01QBfCQMA/article-cover_image-shrink_600_2000/0/1633440642620?e=1639008000&v=beta&t=5NRexVdZcF7GI2e93SuDLCKKyXiGpiS-sjLvn0q-vpw"
-        width: 864
-        height: 486
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/Are-we-expecting-too-much-from-artificial-intelligence.jpg"
+        width: 800
+        height: 420
         isCached: true
-  - title: "How the Automotive Industry is Using AI"
-    excerpt: "Artificial intelligence (AI) in the automotive industry is making vehicles autonomous. Learn about driverless vehicles & AI now:"
-    publishedDateTime: 2021-10-05T20:09:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/ai-in-automotive/"
+  - title: "Investment Banks to Increase AI in Trading"
+    excerpt: "Investment banks are looking to increase the of artificial intelligence and machine learning in pricing models, and see these technologies as improving client output as well as providing operating efficiency."
+    publishedDateTime: 2021-10-05T04:15:00Z
+    webUrl: "https://www.tradersmagazine.com/xtra/investment-banks-to-increase-ai-in-trading/"
     type: article
     provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 41
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/10/The-interior-of-an-autonomous-driverless-vehicle.jpeg"
-        width: 1400
-        height: 933
-        isCached: true
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 17
 
 secured: "veEBWR0Spv0kCC8TESBAHTE/rpVGwmDME/2fxclZ9iaydfrdiXgLfKFFH77b9lZMOGdwxMKVDLH0zKLeFHrrtIq6gL5LkjbGo7VfVzTQLJRW1OcrIhT2upRRkIHNzfgvoeUWrqAO/vPtC0G4rUM0zVSEB8KLkzw3Dy5BDbhefUAS7Ks1TcmU5y/uvMsubUG6i3B7/QRSXyisvgkO3jie8ien4I+Pp02evdrD5xtolW7mK7JFxZm8PvvhtZLM/THkz9x0HMNhwu3BvsZhLyCvDBSHabIO24pqh2Kb4Y9a6TMJC2zqHDdLmYRKqqg3eVnsJ6/m7kor0o67MGY+oiiqieOAG0FVTQDg5lmRv+3cp6o=;WL5allaf2WRhpdpR0d9Qzw=="
 ---

@@ -18,22 +18,91 @@ topics:
   - AI
 
 related:
-  - title: "How Real Estate Investors Can Use Artificial Intelligence"
-    excerpt: "Determining which markets will perform and continue to be strong is complex, but the data provided by AI and ML technology makes the process significantly more reliable."
-    publishedDateTime: 2021-10-04T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbizcouncil/2021/10/04/how-real-estate-investors-can-use-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbizcouncil/2021/10/04/how-real-estate-investors-can-use-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbizcouncil/2021/10/04/how-real-estate-investors-can-use-artificial-intelligence/amp/"
+  - title: "Reinforcement learning improves game testing, AI team finds"
+    excerpt: "Recently, gaming companies have become interested in using reinforcement learning and other machine learning techniques in game development."
+    publishedDateTime: 2021-10-07T21:20:00Z
+    webUrl: "https://venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/"
+    ampWebUrl: "https://venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aebd253bb898555bf94d92%2F0x0.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/10/adversarial-reinforcement-learning-for-procedural-content-generation-1.jpeg?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
+  - title: "Learn AI, including machine learning, for just $3 a course"
+    excerpt: "These 12 expert-led courses contain 79 hours of content covering concepts anyone interested in AI and machine learning needs to know, including Python, TensorFlow and R.."
+    publishedDateTime: 2021-10-05T14:58:00Z
+    webUrl: "https://www.engadget.com/premium-machine-learning-artificial-intelligence-super-bundle-deal-sale-145547107.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 84
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-09/7e229fc0-2163-11ec-a98d-f13f6593f430"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "A framework to enhance deep learning using first-spike times"
+    excerpt: "Researchers at Heidelberg University and University of Bern have recently devised a technique to achieve fast and energy-efficient computing using spiking neuromorphic substrates. This strategy, introduced in a paper published in Nature Machine Intelligence,"
+    publishedDateTime: 2021-10-05T13:30:00Z
+    webUrl: "https://techxplore.com/news/2021-10-framework-deep-first-spike.html"
+    ampWebUrl: "https://techxplore.com/news/2021-10-framework-deep-first-spike.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-framework-deep-first-spike.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/a-framework-to-enhance.jpg"
+        width: 732
+        height: 396
+        isCached: true
+  - title: "Scientist looks to AI, lensing to find masses of free-floating planets"
+    excerpt: "Exoplanet hunters have found thousands of planets, most orbiting close to their host stars, but relatively few alien worlds have been detected that float freely through the galaxy as so-called rogue planets,"
+    publishedDateTime: 2021-10-06T10:57:00Z
+    webUrl: "https://phys.org/news/2021-10-scientist-ai-lensing-findmasses-offree-floating.html"
+    ampWebUrl: "https://phys.org/news/2021-10-scientist-ai-lensing-findmasses-offree-floating.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-10-scientist-ai-lensing-findmasses-offree-floating.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/scientist-looks-to-ai.jpg"
+        width: 2880
+        height: 2160
+        isCached: true
+  - title: "Artificial intelligence in software testing: The next big game changer"
+    excerpt: "Artificial intelligence does not require any introduction, as each of us utilizes some form of AI in our daily lives"
+    publishedDateTime: 2021-10-06T09:06:00Z
+    webUrl: "https://www.dqindia.com/artificial-intelligence-in-software-testing-the-next-big-game-changer/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 37
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/Are-we-expecting-too-much-from-artificial-intelligence.jpg"
+        width: 800
+        height: 420
+        isCached: true
+  - title: "Infusing AI to governments"
+    excerpt: "Digital transformation is one of the main objectives for governments around the globe. Even though, public sector organizations see digital technologies as a top priority, the majority has not embraced Artificial Intelligence (AI),"
+    publishedDateTime: 2021-10-04T17:11:00Z
+    webUrl: "https://www.linkedin.com/pulse/infusing-ai-governments-yannis-zisos-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 19
 
 secured: "bZM6EZPOH/qVS17wdcyxIIRtMK6JYPQjGjVHB3QREM2huf2Lpn/KVH3cxD4Riy/fwaLF2T+fl6nBw5Vc2WZ/LWMoA0LiCvgqcLw1fg+DtFcP22txnOUf/vPwHKERqusg1xYg6abpKZWN+nCTBv9AyUe24xCO6xglzW3EAt369q6hYrfjBgU9hFvCidUKSBVZDFENqJ3V5BYbr47ZniyGKEt06ZOyjCJuaNysOnVH/DjKmRkatUDrnoQZkSOobXrXEkOF5474VxcNb7q4VuOtRPhJTJ5ZR9uaaTFvSm7wMtM5EkCkoiLOxld52d5gZ7Md3R+XICOO/phYUDgDjsbbJh5gTJlwPY/MFZ/IEHXMI44=;Zx3PeMnZIUnYgAwXE2QZ/w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/automotive/gm-ultra-cruise/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/gm-ultra-cruise/?amp=true"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 682
         height: 383
         isCached: true
+  - title: "General Motors' Cruise To Launch 1 Mln Self-driving Cars By 2030"
+    excerpt: "General Motors Co.'s (GM) autonomous vehicle subsidiary Cruise is planning to launch at least 1 million self-driving cars by the year"
+    publishedDateTime: 2021-10-07T21:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/general-motors-cruise-to-launch-1-mln-self-driving-cars-by-2030-1030851709"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Tower Says New Tech A Boon For Self-Driving Cars"
     excerpt: "Chipmaker Tower Semiconductor, with much of its domestic operations in Newport Beach, says it has helped to develop a new technology that will speed up the introduction of self-driving cars, while also finding future applications in robots and industrial production."
     publishedDateTime: 2021-10-04T17:06:00Z

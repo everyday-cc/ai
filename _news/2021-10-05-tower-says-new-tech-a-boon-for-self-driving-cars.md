@@ -71,6 +71,15 @@ related:
         width: 682
         height: 383
         isCached: true
+  - title: "General Motors' Cruise To Launch 1 Mln Self-driving Cars By 2030"
+    excerpt: "General Motors Co.'s (GM) autonomous vehicle subsidiary Cruise is planning to launch at least 1 million self-driving cars by the year"
+    publishedDateTime: 2021-10-07T21:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/general-motors-cruise-to-launch-1-mln-self-driving-cars-by-2030-1030851709"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "GM reveals Ultra Cruise, a more advanced semi-self-driving system"
     excerpt: "General Motors has shown off some aspects of its new upgraded semi-autonomous driving system called Ultra Cruise. The system promises to be a huge leap over GM’s current hands-free driver assistance program Super Cruise."
     publishedDateTime: 2021-10-06T20:27:00Z

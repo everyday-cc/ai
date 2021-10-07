@@ -23,22 +23,6 @@ images:
     height: 1125
     isCached: true
 
-related:
-  - title: "Artificial intelligence in software testing: The next big game changer"
-    excerpt: "Artificial intelligence does not require any introduction, as each of us utilizes some form of AI in our daily lives"
-    publishedDateTime: 2021-10-06T09:06:00Z
-    webUrl: "https://www.dqindia.com/artificial-intelligence-in-software-testing-the-next-big-game-changer/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 37
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/Are-we-expecting-too-much-from-artificial-intelligence.jpg"
-        width: 800
-        height: 420
-        isCached: true
-
 secured: "g9g0U/7S+8Tu7aAxXPGxCxSVChFa9eK+J+OZ/ZVnRRCpjbFDz2+9jwBuR3orTVXdUyotyOeqj/+kxxaZeJ2kZXB4cXwzbEmhBlb/3dAM9a4my+HA836InSM4VDC+T0FVevbkTlaI2Q+5zpoz0Y8ji3T28tV/i7l19aIvbmPMIgtay7+9poPXG9/HGsM0joBxnpqZ2Lt+/f9yiGFpniGviG6Xj8DkQIF5POtScJG5dzbJfvUaixAjKNccPnqp4ynVKHFw4lTgLW/Z55mI3T2kRQaXgY/z2AWxKEXCLYwdqJBpIzGdwqvbN3kpRKHOuqOBy2CVxc1LFucs5wkWXLuKnB+wJ2YndCGqwRBAx6sAL8ghBOGUy5bRTPkYll2Qzg7iAKk9x4MQFNowsLkK24vr7BZsH5UPF5P/xh27m8z6G8ORpH3RMLzjrViQlBzL6G+nJV5If3IrUax9+3tT+ShAyyLbuTETJ1D5407/EIULV11r1efMQFKDlYnjMtTOS2xqn5LMWEkmlEx6tMvVK6oeDw==;WS26xYEui82u7FesK5F2XQ=="
 ---
 

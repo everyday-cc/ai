@@ -67,15 +67,6 @@ related:
         width: 864
         height: 486
         isCached: true
-  - title: "Infusing AI to governments"
-    excerpt: "Digital transformation is one of the main objectives for governments around the globe. Even though, public sector organizations see digital technologies as a top priority, the majority has not embraced Artificial Intelligence (AI),"
-    publishedDateTime: 2021-10-04T17:11:00Z
-    webUrl: "https://www.linkedin.com/pulse/infusing-ai-governments-yannis-zisos-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 19
 
 secured: "NkyPtQs/rpKSlYDl95QClKZkbfgNWyML87LjMBsKES3Sl6n5F5lJcBEAhlM68EvBgEypXLzruej3iKnRRK78fbFw9bM0OjCx6HCal2+u4V5fF2mSXTiiUI1dCRUe9nthgYUvo2kxCnYBwN96TDyuZ/eIgnlRSFABdfwzehOqHZNki7Q560XC195OTEGOFADeSegw/QxCxQM8W554FjAQUcZWE2OfM+ZldxA3uV+XGoYQ0P6RPa9malnbVPCZ6iPX7k0XXM6bav1vnZanR4Zrk64699K3zu45jICqOlseRvhnkBeaFSKYCFadnY29OO6mak2TgXpYHndkTMrFtTqvtOisfehnU5SzLpTzUTzjWG3oxSr7z/Pi2mCvn5c60rjL+L8QeQ7tm09mh+oCKz/RMpCJ23E0NlX2N4v8hBXxkjFGm50m8SZNr06M7UQZQbyI1M0hwqO2rVmgmzTyyBn4kpscf3dJrEilngWtd2fMiDW7KKphbl/Tvy/LtuXYsl3YFcNMA/1uNlvAERWPT+a7KA==;I1PSFbt5C6n2fSJX9cd+/g=="
 ---
