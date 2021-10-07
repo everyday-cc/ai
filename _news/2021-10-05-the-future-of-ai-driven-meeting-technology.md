@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-driven-meeting-technology/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202110/fb09af58482c4d07b89adfed4afbf0af.jpg"
         width: 980
         height: 607
-        isCached: true
-  - title: "The Role of Artificial Intelligence in the Future of Education"
-    excerpt: "Artificial Intelligence is already being widely employed around the world to better our lives, work, health, and everyday routines, among other things. Furthermore, the solution has significant educational potential,"
-    publishedDateTime: 2021-10-02T15:46:00Z
-    webUrl: "https://www.linkedin.com/pulse/role-artificial-intelligence-future-education-yogesh-khandelwal"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG1wh0a0R6i9A/article-cover_image-shrink_720_1280/0/1633189407713?e=1639008000&v=beta&t=qvFzABCXoEoVg9wK4OjX0No9S-1IUKYkvUBAcgs-ids"
-        width: 1280
-        height: 640
         isCached: true
 
 secured: "buz6bixd2jX7KSLcTvcH3tU3ZpaborakPqViG/Pw7h7q/qf5dTzPQROq+UGdDjsKlliVHhr2MTMqQ1H7PWWNG//mYDPDATI07Ao4S7CMqfjEDUtb+3qWTj8NnDFo5Luz19s4TaD+03pDLEYlai15humeDqR6Lnkw80mAvCX+OLDk8S9t1w4iK5byh8/1hlaIWnMbquz4Ai4qUdlcfbD6nLldAZ18QHSdRNrEV4a6xDlUxl/zznkC30Aw7C/O1SWAbif5Xnuxj103pw+9hwVNszTbFRiNLXfhUn2HvS+h+orhBTWage+0URzYyVwFGgJ+e62DphdK8Lcvt97BE/Ih+po8xEuHvDc+iI5WJAtqae+v9jiK+Dn4YGfZNtJNTEeXB5V/87nBPQeaGOwoAZ54sKyYHhD3uhATMZbA1YaDpkSyMJHRf+F9h8/dvsQ08ykMt5FdD7EgBG/uHKabS185rwXSwIkzwPRyq9gj8uT3A5XGYshFMFcGLnUodqwmUfF8Am5BKN3GDytxTNngCD4dpw==;DNHwDmiAkBsdU1HTvtkBbg=="

@@ -70,15 +70,6 @@ related:
         width: 1242
         height: 631
         isCached: true
-  - title: "NVTC partners with NVIDIA Deep Learning Institute to provide online AI courses"
-    excerpt: "The Nasser Artificial Intelligence Research and Development Centre at the Nasser Vocational Training Centre (NVTC) and the NVIDIA Deep Learning Institute have started a collaboration, whereby students in Kingdom of Bahrain benefit from NVIDIA’s online courses in various areas of artificial intelligence (AI)."
-    publishedDateTime: 2021-10-02T15:33:00Z
-    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDolzhnNAYUkFttrHOExbOxo%3d"
-    type: article
-    provider:
-      name: bna.bh
-      domain: www.bna.bh
-    quality: 30
 
 secured: "Vlm0FcHGjCTEvVhR4fJpqUiaMyvmyw8JZU4yt+LHtUBEye04jimVLwiWg2HArZo2Z9vvt7fyiRf26hBsKWWzt83ZgYTzsOurLv4JjMMG5lXeszs/ZpYmzaLk7tKVtFjCucPKVOjHSlj0TkzFAcMxCrHM5jfciED6zNfkNkvUIyktNiRl680m9NyM+Cgho1mlc9YNXhs/W8lXTTCr4Hty0BM6BtC951sv0qA6bqwZotdJfxt+MwRg5RUMKKq1yUHsfIOzrw55AAMhHh1H4DZju0s+bX7bo3FvgHEo8NNNZZSeLRiPZ6tUiHGFxcWHoB2xsP2ALOtBO43fzE3zY2lHOoVAHV2lKMwizNn7/Yrs4Ks=;WngG7QUQ4/M8jRte7x1Z/A=="
 ---

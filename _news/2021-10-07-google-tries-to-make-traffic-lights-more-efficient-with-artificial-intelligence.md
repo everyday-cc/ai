@@ -3,23 +3,41 @@ category: news
 title: "Google tries to make traffic lights more efficient with artificial intelligence"
 excerpt: "Alphabet Inc's Google cut fuel use and traffic delays by 10% to 20% at four locations in Israel by using artificial intelligence to optimize signal lights and it next plans"
 publishedDateTime: 2021-10-06T17:00:00Z
-originalUrl: "https://omaha.com/news/world/google-tries-to-make-traffic-lights-more-efficient-with-artificial-intelligence/video_691ecf7d-2a18-5a4c-b9bb-0d5149ddebac.html"
-webUrl: "https://omaha.com/news/world/google-tries-to-make-traffic-lights-more-efficient-with-artificial-intelligence/video_691ecf7d-2a18-5a4c-b9bb-0d5149ddebac.html"
-ampWebUrl: "https://omaha.com/news/world/google-tries-to-make-traffic-lights-more-efficient-with-artificial-intelligence/video_691ecf7d-2a18-5a4c-b9bb-0d5149ddebac.amp.html"
-cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/world/google-tries-to-make-traffic-lights-more-efficient-with-artificial-intelligence/video_691ecf7d-2a18-5a4c-b9bb-0d5149ddebac.amp.html"
+originalUrl: "https://www.stltoday.com/news/world/google-tries-to-make-traffic-lights-more-efficient-with-artificial-intelligence/video_37aa10bc-08d9-5d91-8287-c97b49de7ecc.html"
+webUrl: "https://www.stltoday.com/news/world/google-tries-to-make-traffic-lights-more-efficient-with-artificial-intelligence/video_37aa10bc-08d9-5d91-8287-c97b49de7ecc.html"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI
 
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/7a/37aa10bc-08d9-5d91-8287-c97b49de7ecc/615dd64329c4a.preview.png?resize=640%2C360"
+    width: 640
+    height: 360
+    isCached: true
+
 related:
+  - title: "Google wants to use AI to time traffic lights more efficiently"
+    excerpt: "Alphabet Inc's Google cut fuel use and traffic delays by 10% to 20% at four locations in Israel by using artificial intelligence to optimize signal lights and it next plans to test the software in Rio de Janeiro,"
+    publishedDateTime: 2021-10-06T16:10:00Z
+    webUrl: "https://www.reuters.com/technology/google-wants-use-ai-time-traffic-lights-more-efficiently-2021-10-06/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/bv8rcqIS1zr-l_bcEZJF0h4_YL4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SZOE3SA4JFIABGHM7BKAVFD63Q.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Google Planning to Use Artificial Intelligence to Cut Traffic Delays, Fuel Use in Brazil"
     excerpt: "Alphabet Inc's Google cut fuel use and traffic delays by 10% to 20% at four locations in Israel by using artificial intelligence to optimize signal lights and it next plans to test the software in Rio de Janeiro,"
     publishedDateTime: 2021-10-06T11:30:00Z
@@ -51,6 +69,6 @@ related:
         height: 580
         isCached: true
 
-secured: "+ZZoNo2zA140R67Xum8bVmQ8vqN+FyLaBKn9mCS/dHJkFUR+if5S9ISj3wFuBU/PXwF3g3uyiU49k/BPZ4pQgUzkJS6Td+jQVWP6ZpNOE6mwi26yjv/3wUgbhUylTtQ3mMXpsrr03FO1TM9haYvYKTI/XmiX/MlduP9cSTUMYWWyqqAeJ5fhMHPpQpHYb4C1+JnZeUChmqsRBWmxQ4oYNWFg6ZjVzg4fa7Xj0Tn+m1ftgKyhlNJyLu5tpWtiqvgAUNkS+19KSnBJDxrjsPap1MBeui+FkRxfHGyYoyW6AfLag5vblR5nVg33sHc53A8JBPAunSe06K8C03gtsMJqz5/e06yrQ1BogCqzM+kHqK5FpZDkH4WzK6TGtAFA+9iuewX4/FtRL/HvzV6Uo54C2UXp6frSw1yy1RCJNXI6iKKtJhZuSbijXSwTFLfltNTowK6B3XHW9B4wHMJ2fnfuWE6F+o1ypSYpjs69GF19v37cmAfVxwA7TqQtu3VcKht7U9cKXfh8moR+Mi7I7mRIIw==;FiL9+6J8aXlREUXSEzC7JQ=="
+secured: "xU9l1uWmNGd4NrNZD4C7I7wfsg1Ys2ab/5l16Soaqpt10K7EZZnDG6ulr0hLH1ULgTt8sAdTgL8fmqd/MsMbQQcnHDVkYnDCwto0Q3IO3QJFqsC3yTTZJIspPN9MslFQJkw0QAZneOkYtEEHvmv3FRlyLm6PJU2xm4LwKDc/zmDeNEAQUqzesjKrPWkhbvKFttvaAGxBYvK27STvsJfLyXWckTiR2xtXqqszJPpf1k8oWeDZ7Odv8QseggUxdW6zZJ54tzY9gpUw6DU2ZhrYFl3Aq8vr+J9ZuVhMQ9jMqruT7oWPyUXd0AgQa+UWoGv1NOGA86iPH44kMQT9W3pBKpdq6Mu4LbTAc1ZPaZW9uXs=;0aoMiUeqtpU9i8XPdzXP0Q=="
 ---
 

@@ -43,20 +43,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Olea Edge Analytics Closes $35M Series C Round to Empower Cities with Artificial Intelligence to Recover Lost Water Revenue"
-    excerpt: "Olea Edge Analytics, an intelligent edge computing platform for the water utility industry, today announced the closing of $35 million in Series C funding led by New York-based global private equity and venture capital firm Insight Partners."
-    publishedDateTime: 2021-10-06T11:06:00Z
-    webUrl: "https://www.lelezard.com/en/news-20032713.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 13
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "I4LtSDs1xeTw5IxLyQ3kZauwcvA4Z/gcEok3KvW0cq4IQ65OJPJYYp9BzVtI13PFWoDYMciOyDpo+Gwpy4C0Ojmd0G36hrzbctwZZWBoSdr4CABuAoiXvOxMpfemiVar2IKSFnom2ufJW6sCJuK/tmY/hItKPlj8c1d2rZoL/x+sQeOSKh3SO0B60ftmkJzjAKMosWUkeLsWD+Su/AHIIzebqt9CTIvq5x3a3vg0+NJxgdpNd6Mj9Do6FvsujDbujK1pf7nZtsQ5kkCFzKWjriRdoGzTTiS1utg9uBFyL1HVICgGwQq5TBtrRPS+R628Cu64fLxmmS2+HIn8Net8eWjQ5bnP1avbRWYnDlQmGt7fUWH5CQ7HMbWD0DT71uRnlPHfAnCVXodFMnjCO/HWJXKiSo8RQAl3fxVXdxWkrQm9ON+zHkdkGYc4UO7PNoWZ5VGpGuxa0vzqNKzrztICAaEQR79q8gX7Z1vbuM5zOlufSq1aLfz9sTdLPDxQq2+wiJtWohRRM39yUpnh5mGpLw==;PEP10sLvJ6P6E4JtOom5Kw=="
 ---

@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Market By Application: Regional Analysis - Global Forecast by 2020 - 2030"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 06, 2021, 00:11 /Comserve / -- The Deep Learning Market is expected to be around US$ 25.50 Billion by 2025 at a CAGR of 42% in the given forecast period. The dynamic nature of business environment in the current global economy is raising the need amongst business professionals to update themselves with current situations in the market."
-    publishedDateTime: 2021-10-06T18:42:00Z
-    webUrl: "https://menafn.com/1102928759/Deep-Learning-Market-By-Application-Regional-Analysis-Global-Forecast-by-2020-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 31
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?160760"
-        width: 374
-        height: 249
-        isCached: true
   - title: "Bot Services Market Insights by Leading Companies, Demand Analysis, Future Growth and Revenue Forecast to 2022"
     excerpt: "The global bot services market size is expected to grow from USD 458.4 million in 2017 to USD 1,783.9 million by 2022, at a Compound Annual Growth Rate (CAGR) of 31.2%. The proliferation of millennial across social media channels and the use of Artificial Intelligence (AI),"
     publishedDateTime: 2021-10-06T18:46:00Z

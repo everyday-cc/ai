@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-05T17:22:00Z
 originalUrl: "https://www.entrepreneur.com/article/389467"
 webUrl: "https://www.entrepreneur.com/article/389467"
 type: article
-quality: 73
-heat: 75
+quality: 75
+heat: 77
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - AI in Robotics
   - AI
   - AI Ethics
+  - AI in Healthcare
 
 images:
   - url: "https://assets.entrepreneur.com/content/3x2/2000/1633454310-Oct5InteligenciaArtificialChinacdigoticoleyesIsaacAsimovrobotsrobtica.jpg"

@@ -34,17 +34,6 @@ related:
         width: 1388
         height: 781
         isCached: true
-  - title: "Gap Inc. acquires AI startup CB4 for better retail analytics"
-    excerpt: "The startup examines point-of-sale (POS) data to uncover consumer demand patterns and identify stores that should be selling more of a specific item."
-    publishedDateTime: 2021-10-04T18:28:00Z
-    webUrl: "https://www.zdnet.com/article/gap-inc-acquires-ai-startup-cb4-for-better-retail-analytics/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/gap-inc-acquires-ai-startup-cb4-for-better-retail-analytics/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/gap-inc-acquires-ai-startup-cb4-for-better-retail-analytics/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
   - title: "US firm acquires Keralite's AI start-up"
     excerpt: "Kochi: Uncanny Vision, an artificial intelligence start-up registered in Kerala has been acquired by a US-based company, Eagle Eye Networks, having a global presence. Interestingly, the company has a curious’ triangular South Indian equation’."
     publishedDateTime: 2021-10-06T15:47:00Z

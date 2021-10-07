@@ -147,6 +147,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Uber facial recognition software to be discriminating over people of colour"
+    excerpt: "A former Uber driver is taking legal action against the firm over its automated face-scanning software that he is claiming to be discriminating. Indeed, the black driver who worked with Uber from 2016 to April 2021 has filed an employment tribunal claim alleging his account was illegally deactivated after the facial verification software didn’t recognize him several times."
+    publishedDateTime: 2021-10-07T09:48:00Z
+    webUrl: "https://www.softwaretestingnews.co.uk/uber-facial-recognition-software-to-be-discriminating-over-people-of-colour/"
+    type: article
+    provider:
+      name: softwaretestingnews.co.uk
+      domain: softwaretestingnews.co.uk
+    quality: 37
+    images:
+      - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/10/Website-2-1024x585.jpg"
+        width: 1024
+        height: 585
+        isCached: true
 
 secured: "UjzhWjGAZfRPdXCKkdGFrBmH6pYwKveZk0ZBUYBx9oxADFaDHgj44Xpg/ggXmgdJT0rYUyDbTl79rvXQjRCJVUBOxpC+GuWu4CTxVXKOIAFmu3bsopLsHIPPo2kk26GMbEWUEgp6bgPaxf8veY3wYpd6Jz7B7XpdyTD32oxKk1ABPaOA/5XxDCY2gSaQlBvHPMtaFGdwQS0gE4sjpcnmGlI3Oj86yAHFRDfIrnpOmu0PFXPzg9IMD8+P6qo8VSOkRZ2kbLRMYsIDDBh1PNms57O6g1eqO5p4rdfal6OmBEe/w5jE8Yx8f151uRFj55INU4VEK3I7Z3vfsjMel9JfOazX1EBRN4SJufFTlCU5FSy5ZI2M8GeKuKdW0mvE6UokEMHSqLpLRqwOjy9GxSMoh0/3PdleGV3mjunNzywzIeopiUfCJ0EXNMbyohI+lwStcKkvZWtxENY1QzYAWJb+7yDl3uAI8OGzH0tdfrWjHRMc+zeCbvjjv8E5ZBU5hufzGnQKqy7pSYVK6ebXh1jXMQ==;e8kbrOUbB8U5UMUiOH6nvg=="
 ---

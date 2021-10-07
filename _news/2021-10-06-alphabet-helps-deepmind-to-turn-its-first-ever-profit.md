@@ -211,6 +211,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Alphabet helps DeepMind to turn its first ever profit"
+    excerpt: "DeepMind, the London-based AI research firm, has turned a profit for the first time ever, reporting in £43.8 million in profits for 2020. The firm has posted multi-million-pound losses over the last several years and reportedly burned through $649 million in 2019."
+    publishedDateTime: 2021-10-07T08:11:00Z
+    webUrl: "https://www.techcentral.ie/alphabet-helps-deepmind-to-turn-its-first-ever-profit/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 39
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2015/02/artificial_intelligence_machine_learning_digital_brain_concept_web.jpg"
+        width: 620
+        height: 350
+        isCached: true
   - title: "Google’s DeepMind has developed an AI-based ‘nowcasting’ system that can predict rain in the next two hours"
     excerpt: "Now, scientists at Google's London lab DeepMind have built an artificial intelligence (AI)-based forecasting system that, they claim, can predict the likelihood of rain in the next two hours more precisely than existing systems."
     publishedDateTime: 2021-10-04T19:18:00Z

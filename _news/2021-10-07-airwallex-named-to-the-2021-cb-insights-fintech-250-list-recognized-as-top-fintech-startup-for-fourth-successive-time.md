@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Airwallex Named to the 2021 CB Insights Fintech 250 List; Recognized as Top Fintech Startup for Fourth Successive Time"
-excerpt: "CB Insights today named Airwallex to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year's list was unveiled on stage at CB Insights' Future of Fintech"
-publishedDateTime: 2021-10-07T07:08:00Z
-originalUrl: "https://www.lelezard.com/en/news-20034838.html"
-webUrl: "https://www.lelezard.com/en/news-20034838.html"
+excerpt: "Airwallex honored for achievements in Payments, Processing & Networks CategorySAN FRANCISCO--(BUSINESS WIRE)--CB Insights today named Airwallex to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology."
+publishedDateTime: 2021-10-07T07:00:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=542920"
+webUrl: "https://us.acrofan.com/detail.php?number=542920"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
     isCached: true
 
 related:
@@ -106,6 +106,6 @@ related:
       domain: wcax.com
     quality: 0
 
-secured: "l0XAga0w+9WEtxsd4FVRs2WmCLvd8JVkX64QRQMfyFalwUgC/wG4Shba3VZP6Nnxb3v66fMkms9m6WKYMBuz3zbhMKpuP1gpGP2nhfpENEBlmcAxV94j3EYyWdVMxIXnhCzlEzE7WxFIqnrToHoOye2ANWdYCViNojl5zSSP1VIR0kyY/E0EM8If4j5vucLnGiBqCCxDNr4/td2atA7PNUN4/zJLXGR4AIIFbSvMG6qeh5m6aLJzsUQ7oJa3RoyyM5+9wM9Ah9iEWAzzwZ4kjzCvGexco/dHt7R05SUPC55MQc5omDCpWeXjEnB8Fn9s2VTsZ28hT8AqbriQzJAcCWVaMAsoaLplJ/KykO+STq0=;cHi9qBhowg113JVtfAmQ4g=="
+secured: "lYwXxJW53aFdoSDkbFQk5TC00XlkPrXVySU7I0TAEXTBrLJ5zeaUK08DqHyUKE4OzYO4BGGOcV8bXKp5MQjIs80yN+9bZGEDSfn2gbw8cBbOUO8rVY6vSIO/EJdcNjueAFryRgSDrAxSKtM/GP5IKM7dAc/EagkmK4zBKc9NLSs2I1ORwcfeyRDD0cH1QhV9+/rt+Xhz660XGkv5ngguApF7gjzAkoBubs3Ts8V274HGwknFfvq4fNGrqBg77y7A5GYCWdL0tUh/VqGjdIakTJ/sfnnafeJKoyBjqOdu93CxCfQmR5lk9/E68qf7KFbCGMSZXKnQeCNU8So1Z9KlG7LcXezzKb/BFi6Al2Xpp+4=;TJAWnhWaInZHfs8sRKxgVQ=="
 ---
 

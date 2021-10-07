@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/03/what-we-can-learn-from-chinas-pro
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/03/what-we-can-learn-from-chinas-proposed-ai-regulations/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "We need concrete protections from artificial intelligence threatening human rights"
+    excerpt: "Events over the past few years have revealed several human rights violations associated with increasing advances in artificial intelligence."
+    publishedDateTime: 2021-10-07T09:34:00Z
+    webUrl: "https://business-reporter.co.uk/2021/10/07/we-need-concrete-protections-from-artificial-intelligence-threatening-human-rights/"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 33
+    images:
+      - url: "https://businessreporter-197a1.kxcdn.com/wp/wp-content/uploads/2021/10/business-technology-internet-and-network-concept-labor-law-lawyer-at-picture-id1206961013.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "+AV0bMKpAjchkw1K95yTb6hzcRwKZEc0pCm2U1osUPHinQy9TbA+0A7fh2OPH+6zvuntINPteZROoZeAvtKqqbdz4ZmpTCXBfj6h5BSlJct5wFJ3++ikmLpmhrJR3LpwfxvteTW+vnEPwJKalIp01Y12IHCgZ2wUDijhL2m3sHynRS/BsfTEic4ok9lDQ1YwjjRs7lrDOQErWrRKOI8xk/oOdoDGsOe0BtT5oOu5PXURy4vLVsFiYeV9d8NwkucmxnAjIZ/JjiP5GPpyxsLeJL01N0fZWPBKYQKZ9IKx2MNTroND8cFAk/DR9DlTWfdDCP40NrPVpKKlFVDKQ23EyMTgtki+wyMT4ai6RYR06ehMiC+01ZywtEJzMrszp6WeC2le1weW3Ly4nOwCUYkSVgGb10x9dGjITn9dcoq6UYlD+9rO7gQ1HrhcfjWtUINE09nTsHJ1qDG8k0gGk/WuFP8aqYgvhGkMWt40p9tShctPe7SR40skJgydjOpRORvMYL6fQgS+oyZDSoHAOJ9Bkw==;Cn+PXzhQJuTlXFmL7aosJA=="

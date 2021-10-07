@@ -58,15 +58,6 @@ related:
         width: 1242
         height: 631
         isCached: true
-  - title: "NVTC partners with NVIDIA Deep Learning Institute to provide online AI courses"
-    excerpt: "The Nasser Artificial Intelligence Research and Development Centre at the Nasser Vocational Training Centre (NVTC) and the NVIDIA Deep Learning Institute have started a collaboration, whereby students in Kingdom of Bahrain benefit from NVIDIA’s online courses in various areas of artificial intelligence (AI)."
-    publishedDateTime: 2021-10-02T15:33:00Z
-    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDolzhnNAYUkFttrHOExbOxo%3d"
-    type: article
-    provider:
-      name: bna.bh
-      domain: www.bna.bh
-    quality: 30
   - title: "NVIDIA and VMware Deepen Collaboration to Simplify Enterprise AI Development and Application Management"
     excerpt: "NVIDIA and VMware are collaborating to develop an AI-ready enterprise platform that brings the world's leading AI stack and optimized software to the infrastructure used by hundreds of thousands of enterprises worldwide."
     publishedDateTime: 2021-10-05T13:33:00Z

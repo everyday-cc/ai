@@ -24,131 +24,167 @@ topics:
   - AI
 
 related:
-  - title: "Gap Inc. acquires AI startup CB4 to drive sales"
-    excerpt: "Gap has acquired AI startup CB4 to improve retail operations through predictive analytics and demand sensing. “We believe artificial intelligence and machine learning will shape the future of our industry."
-    publishedDateTime: 2021-10-05T10:26:00Z
-    webUrl: "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600"
-    ampWebUrl: "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600"
-    cdnAmpWebUrl: "https://fashionunited-com.cdn.ampproject.org/c/s/fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600"
+  - title: "How to get AI analytics right"
+    excerpt: "While there is plenty of anecdotal evidence about how AI will improve analytics, there isn't as much discussion about implementation."
+    publishedDateTime: 2021-10-04T12:32:00Z
+    webUrl: "https://venturebeat.com/2021/10/04/how-to-get-ai-analytics-right/"
+    ampWebUrl: "https://venturebeat.com/2021/10/04/how-to-get-ai-analytics-right/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/04/how-to-get-ai-analytics-right/amp/"
     type: article
     provider:
-      name: fashionunited.com
-      domain: fashionunited.com
-    quality: 74
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://fashionunited.com/UUP2jAnSbMTf2wCkU6WZm5VCOGW7PmAHjB96odlvT0E/resize:fill:1388:781:1/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvbWFzdGVyLzIwMjEvMTAvMDUvMTIwMHB4LWdhcC1sb2dvLXN2Zy1mMHdvaDQ5aC0yMDIxLTEwLTA1LmpwZWc"
-        width: 1388
-        height: 781
-        isCached: true
-  - title: "US firm acquires Keralite's AI start-up"
-    excerpt: "Kochi: Uncanny Vision, an artificial intelligence start-up registered in Kerala has been acquired by a US-based company, Eagle Eye Networks, having a global presence. Interestingly, the company has a curious’ triangular South Indian equation’."
-    publishedDateTime: 2021-10-06T15:47:00Z
-    webUrl: "https://english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705"
-    ampWebUrl: "https://english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705"
-    cdnAmpWebUrl: "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705"
-    type: article
-    provider:
-      name: Mathrubhumi
-      domain: mathrubhumi.com
-    quality: 57
-    images:
-      - url: "https://english.mathrubhumi.com/polopoly_fs/1.783633.1452191436!/menu/standard/file/490.png"
-        width: 490
-        height: 268
-        isCached: true
-  - title: "Gap Acquires AI Startup CB4; Terms Not Disclosed"
-    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
-    publishedDateTime: 2021-10-04T16:00:00Z
-    webUrl: "https://www.benzinga.com/m-a/21/10/23220930/gap-acquires-ai-startup-cb4-terms-not-disclosed"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/09/network-6511448-e1632770373894.jpg?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 598
         isCached: true
-  - title: "Gap buys artificial intelligence start-up Context-Based 4 Casting"
-    excerpt: "SoQ錫濛譙 / Flickr. US-based lifestyle retailer Gap has purchased artificial intelligence (AI) start-up Context-Based 4 Casting (CB4) for an undisclosed sum. Based in New York, CB4 uses advanced AI and machine learning tools to make predictive analytics and demand sensing to support sales and streamline the customer experience."
-    publishedDateTime: 2021-10-05T15:25:00Z
-    webUrl: "https://www.retail-insight-network.com/news/gap-cb4-acquisition/"
+  - title: "Indian data analytics startup used this deck to bank $1.5m"
+    excerpt: "PredictiVu helps its clients better understand the effectiveness of their campaigns through consumer profiles, brand-switching propensity, and other data."
+    publishedDateTime: 2021-10-07T03:56:00Z
+    webUrl: "https://www.techinasia.com/visual-story/predictivu"
     type: article
     provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
-    quality: 37
+      name: Techinasia
+      domain: techinasia.com
+    quality: 49
+  - title: "HPE Converts Analytics, Storage, Data Protection To GreenLake"
+    excerpt: "Since launching GreenLake in 2018 and promising that all of its portfolio would be available as services by next year, Hewlett Packard Enterprise has been"
+    publishedDateTime: 2021-10-05T16:32:00Z
+    webUrl: "https://www.nextplatform.com/2021/10/05/hpe-converts-analytics-storage-data-protection-to-greenlake-services/"
+    ampWebUrl: "https://www.nextplatform.com/2021/10/05/hpe-converts-analytics-storage-data-protection-to-greenlake-services/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/10/05/hpe-converts-analytics-storage-data-protection-to-greenlake-services/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 44
     images:
-      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/10/Gap.jpg"
-        width: 799
-        height: 532
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/hpe-lighthouse-greenlake-logo-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
-  - title: "Gap Inc acquires AI start-up CB4"
-    excerpt: "Gap Inc has acquired AI start-up Context-Based 4 Casting Ltd (CB4) that uses machine learning tools to transform retail operations."
-    publishedDateTime: 2021-10-05T11:33:00Z
-    webUrl: "https://www.just-style.com/news/gap-inc-acquires-ai-start-up-cb4/"
+  - title: "Data Analytics, Artificial Intelligence Lower Hospital Infections"
+    excerpt: "By switching to a data analytics and AI-powered hygiene monitoring system, Novant Health decreased its number of hospital-acquired infections."
+    publishedDateTime: 2021-10-05T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/data-analytics-artificial-intelligence-lower-hospital-infections"
     type: article
     provider:
-      name: Companies
-      domain: just-style.com
-    quality: 37
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
     images:
-      - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/10/Gap-Specialty-White-City-Store-Exterior.jpg"
-        width: 1773
-        height: 1182
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Code_data.jpg"
+        width: 690
+        height: 400
         isCached: true
-  - title: "Gap Inc. acquires artificial intelligence startup CB4"
-    excerpt: "As part of ongoing tech efforts, Gap Inc. on Monday announced that it acquired Context-Based 4 Casting for an undisclosed amount. CB4 is a retail technology startup th"
-    publishedDateTime: 2021-10-05T15:17:00Z
-    webUrl: "https://www.retaildive.com/news/gap-inc-acquires-artificial-intelligence-startup-cb4/607676/"
+  - title: "NeuroBladers build a processing-in-memory analytics chip and server"
+    excerpt: "An Israeli startup called NeuroBlade has exited stealth mode, built a processing-in-memory (PIM) analytics chip combining DRAM and thousands of cores, put four of them in an analytics accelerating server appliance box,"
+    publishedDateTime: 2021-10-06T11:06:00Z
+    webUrl: "https://blocksandfiles.com/2021/10/06/neurobladers-build-a-processing-in-memory-analytics-chip-and-server/"
     type: article
     provider:
-      name: Retail Dive
-      domain: retaildive.com
-    quality: 37
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 39
     images:
-      - url: "https://www.retaildive.com/user_media/cache/f4/1b/f41ba6ee5e2df1fa0b31acbcd47305d2.jpg"
-        width: 770
-        height: 364
+      - url: "https://blocksandfiles.com/wp-content/uploads/2021/10/NeuroBlade-Xiphos.jpg"
+        width: 950
+        height: 390
         isCached: true
-  - title: "Gap Inc. Acquires US-Israeli Retail AI Startup CB4"
-    excerpt: "CB4’s technology makes recommendations that support new sales and more satisfied customers through the resolution of frequent in-store issues."
-    publishedDateTime: 2021-10-05T16:49:00Z
-    webUrl: "https://nocamels.com/2021/10/gap-inc-acquires-us-israeli-retailai-startup-cb4/"
+  - title: "Vilnius-based speech analytics Oxus.AI raises pre-seed round"
+    excerpt: "Vilnius-based Oxus.AI, a startup aiming to bring the advantages of speech analytics to sales teams working in any language in the world, has raised €800K. The pre-seed round saw participation from 70V,"
+    publishedDateTime: 2021-10-06T11:00:00Z
+    webUrl: "https://arcticstartup.com/vilnius-based-speech-analytics-oxus-ai-raises-pre-seed-round/"
     type: article
     provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
+      name: ArcticStartup
+      domain: arcticstartup.com
+    quality: 39
     images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/12/retail.jpg"
-        width: 1200
-        height: 900
+      - url: "https://arcticstartup.com/wp-content/uploads/2021/10/swg-batch-fullsize-43-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
-  - title: "Global acquires AI text-to-audio startup Remixd"
-    excerpt: "UK-based Global has grabbed Remixd, a tech startup specializing in turning text to audio. Remixd technology is geared to text publishers wishing to enter the audio and audio advertising fields. Presumably the Remixd function,"
-    publishedDateTime: 2021-10-05T19:04:00Z
-    webUrl: "https://rainnews.com/global-acquires-ai-text-to-audio-startup-remixd/"
+  - title: "Analytics Insight describes top artificial intelligence stocks to buy in October"
+    excerpt: "This article features the top artificial intelligence stocks to buy in October 2021 from reputed tech companies. Buying AI stocks in October will provide higher revenue through AI model by harnessing artificial intelligence."
+    publishedDateTime: 2021-10-04T11:13:00Z
+    webUrl: "https://www.analyticsinsight.net/profitable-investment-top-artificial-intelligence-stocks-to-buy-in-october-2021/"
     type: article
     provider:
-      name: Radio & Internet News
-      domain: rainnews.com
-    quality: 37
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 34
     images:
-      - url: "https://rainnews.com/wp-content/uploads/2018/07/RAINdailydigestslides.gif"
-        width: 300
-        height: 250
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-artificial-intelligence-stocks-to-buy-in-October.jpg"
+        width: 900
+        height: 500
         isCached: true
-  - title: "Gap Inc. Acquires AI Startup CB4"
-    excerpt: "Gap Inc. (NYSE: GPS) has acquired the New York and Tel Aviv based start-up Context-Based 4 Casting Ltd. that uses cutting-edge AI and machine learning tools to transform retail op"
-    publishedDateTime: 2021-10-04T16:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-gap-inc-acquires-ai-startup-cb4-/2021/10/04/9461964.htm"
+  - title: "Google Analytics 4 updates include data-driven attribution, machine learning models to fill in measurement gaps and a Search Console integration"
+    excerpt: "Google hasn’t said when it will deprecate Universal Analytics, but the updates and language in the announcement suggest that search marketers should prepare for the change."
+    publishedDateTime: 2021-10-05T20:00:00Z
+    webUrl: "https://searchengineland.com/google-analytics-4-updates-include-data-driven-attribution-machine-learning-models-to-fill-in-measurement-gaps-and-a-search-console-integration-374970"
+    ampWebUrl: "https://searchengineland.com/google-analytics-4-updates-include-data-driven-attribution-machine-learning-models-to-fill-in-measurement-gaps-and-a-search-console-integration-374970/amp"
+    cdnAmpWebUrl: "https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/google-analytics-4-updates-include-data-driven-attribution-machine-learning-models-to-fill-in-measurement-gaps-and-a-search-console-integration-374970/amp"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 22
+    images:
+      - url: "https://searchengineland.com/figz/wp-content/seloads/2021/05/google_1920.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "getWizer Announces Partnership with Leading Text Analytics Platform, Canvs AI"
+    excerpt: "The addition of Canvs AI's automated deep text analysis within getWizer's end-to-end consumer insights platform will help expose new insights previously hidden in large amounts of open-ended text-based questions collected from Qual and Quant surveys."
+    publishedDateTime: 2021-10-05T13:29:00Z
+    webUrl: "https://www.nbc12.com/prnewswire/2021/10/05/getwizer-announces-partnership-with-leading-text-analytics-platform-canvs-ai/"
+    type: article
+    provider:
+      name: WWBT
+      domain: nbc12.com
+    quality: 14
+  - title: "Olea Edge Analytics Closes $35M Series C Round to Empower Cities with Artificial Intelligence to Recover Lost Water Revenue"
+    excerpt: "Olea Edge Analytics, an intelligent edge computing platform for the water utility industry, today announced the closing of $35 million in Series C funding led by New York-based global private equity and venture capital firm Insight Partners."
+    publishedDateTime: 2021-10-06T11:06:00Z
+    webUrl: "https://www.lelezard.com/en/news-20032713.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 13
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Qlik Acquires Big Squid to Expand Its Industry Leading Augmented Analytics Capabilities with No-Code Automated Machine Learning"
+    excerpt: "Advances Qlik’s Vision of Active Intelligence by Bringing Data and Analytics Teams Key Driver Analysis, What If Scenario Planning and On-Demand Predictions Directly Within Qlik"
+    publishedDateTime: 2021-10-04T21:33:00Z
+    webUrl: "https://www.techwire.net/sponsored/qlik-acquires-big-squid-to-expand-its-industry-leading-augmented-analytics-capabilities-with-no-code-automated-machine-learning"
+    ampWebUrl: "https://www.techwire.net/sponsored/qlik-acquires-big-squid-to-expand-its-industry-leading-augmented-analytics-capabilities-with-no-code-automated-machine-learning?_amp=true"
+    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/sponsored/qlik-acquires-big-squid-to-expand-its-industry-leading-augmented-analytics-capabilities-with-no-code-automated-machine-learning?_amp=true"
+    type: article
+    provider:
+      name: California Techwire
+      domain: techwire.net
+    quality: 11
+  - title: "Cloverleaf Analytics Makes BI More Accessible for Insurers by Launching Natural Language Processing, Chatbot, and Automatic Insights Capabilities"
+    excerpt: "Cloverleaf Analytics (Cloverleaf), a leading purpose-built insurance business intelligence (BI) solution provider, today announced natural language processing (NLP), chatbot, and automatic insights capabilities as new features in the"
+    publishedDateTime: 2021-10-04T12:10:00Z
+    webUrl: "https://www.lelezard.com/en/news-20027679.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 2
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "jEaTNO0A+OLkEadBbYJL1/w74qsqkFTXygn4xk6c5qMZu4F4T27iEKn+u0qxndCAwkUdwIN85pjZwUA3K2gccZZJl202yOscg16drHQriEgCy64k3hsTaw3oitytNHlwb1C0XC2Ja78RW+i8ZoGnLW2+Gjb/qOpBYvEjDUy8++A5pTYy8M5lLf1bZG2VaYhebaCRUy5xXq3wNE5O5NZw3SRKNkG0mbdoBAs8CjPTSWMUVi4CxIKeoj8QcE1fzRiNwtCPH8Kk7mHe+lLb+y3BVDjwL6PiCdi7FInuvFVQk4xVeVOgWijP3vd3OWam7SfNMMk+mf3y+WhYa7vnQXfXu5wKSiksn+i/boqgJEDSnGSxFDddLlz62tpOC8tiCTHwe7ibMJoVtO6LOYSKfWSTKR6X9Kldt255ZAVlwb9PhJ2U0ETaNIvFifNjTYHP2zsVjN69Ft6gU6v2UqY2h+Rr6C1n0DjW7j1M/9v1ko2eaI/nwoejNVk1Blo43DHCd6ntbdcPZcJn/tYvn/1vMhNYNA==;mEQIl2nCF+g6GXdsokaWJA=="
 ---
