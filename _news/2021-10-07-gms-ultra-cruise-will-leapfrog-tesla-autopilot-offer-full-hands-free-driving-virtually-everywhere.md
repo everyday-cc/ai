@@ -105,6 +105,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "General Motors unveils Ultra Cruise self driving tech"
+    excerpt: "General Motors has unveiled Ultra Cruise, a new, advanced driver assistance technology which, it said, is a significant next step...Read"
+    publishedDateTime: 2021-10-07T10:38:00Z
+    webUrl: "https://www.just-auto.com/news/general-motors-unveils-ultra-cruise-self-driving-tech/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/10/GM-UltraCruise-resize.jpg"
+        width: 682
+        height: 383
+        isCached: true
   - title: "GM reveals Ultra Cruise, a more advanced semi-self-driving system"
     excerpt: "General Motors has shown off some aspects of its new upgraded semi-autonomous driving system called Ultra Cruise. The system promises to be a huge leap over GM’s current hands-free driver assistance program Super Cruise."
     publishedDateTime: 2021-10-06T20:27:00Z

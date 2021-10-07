@@ -7,7 +7,7 @@ originalUrl: "https://www.trustedreviews.com/news/pixel-6-could-finally-see-gboa
 webUrl: "https://www.trustedreviews.com/news/pixel-6-could-finally-see-gboard-enhanced-voice-typing-4171652"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 1670
     isCached: true
 
-secured: "O1zMVOvhUCo8onZVW2VZ1Bibqurb/2xeKGr9Ha113k2gp+m7RmDmWOdAWnAr5I9WR8s9IFaR5xWHtqt+5p7HSNLosoYeI5IA++IIsO8BS/uGiv06w7qGzuLDulvsVykgsTtQDFV3hu8txr6IMg7SRPv1xZpJnMru4I471JYtjaZbz2zwn8iH83N8v8uriUTPTAE529KJ2aP/o918XxVcH4ngcdycdg5tsfqAiklXjqIYQzU6kozLr3CwJNkX2YB1esCS7sbD1p+gNGPEg3LRO/z14QiTi4u3Wxp9Mduczbfj9qCbJPhYTn9BVytTOlB1L2dLs1AHb0b2MfzIvVkHNWKuIHjsYozkgJsz1lkGKJw=;5yiYZ26MtuR+bLpHmkRJtA=="
+related:
+  - title: "Check Out Gboard’s New Google Assistant-Based Voice Typing Feature"
+    excerpt: "The Gboard app on Pixel phones could soon get a Google Assistant-powered voice typing feature. Although this feature was first revealed at the 2019 I/O"
+    publishedDateTime: 2021-10-07T11:33:00Z
+    webUrl: "https://www.androidheadlines.com/2021/10/gboards-google-assistant-voice-typing-feature-pixel.html"
+    ampWebUrl: "https://www.androidheadlines.com/2021/10/gboards-google-assistant-voice-typing-feature-pixel.html?amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/10/gboards-google-assistant-voice-typing-feature-pixel.html?amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 44
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2018/10/AH-Gboard-logo-4.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+
+secured: "uE1dWYfNmt1xghw9WSOJG7Jtxi1c4F9EomH1n7LMNsBETjUQynfaJUDltAGBQNZm1m09sqaEULIxQCO/12HH1NGHxZK17mcoEIi30o1OFc+FO3O7BgSsX+cSUfPetpxYGo3/ERnI631CR5dIQW+f5iQaqHZHT0NAhF+wPdkXoS/8blO46pinRtC/+CqQgHr5tUv2r7aWdgiybslZOgP+ZOOmz5R+dPC9zqd3F20/Gvvaj2RKeYx3z/fb6wF/vUL+n4GusHkd/D/h02bdakHsrQ1uvXSldwUxP33c6TsG8dv/vIiz4xuPDrtzrJ5oufhSNbOqorYd7i46TeJVI8pZT1h0ewAm/lf/SjKoAP8JwWmRxRV4aavF3lIsngw5rdCMVyEtIwdy3Ii/P9W1mxgf5/DZFsj41/wi58SI8bp6+FYloreCktn4SFdu1zCjwEY46I58xZxH+MHejxKybcvq8kDcDGoy8zbeXOKe4E1pO7fpHfhCbgIWGJspVoah4ff4mFOx9El79EUsaRzZr00seg==;p0f8rknjfsam3u8z8YWuow=="
 ---
 

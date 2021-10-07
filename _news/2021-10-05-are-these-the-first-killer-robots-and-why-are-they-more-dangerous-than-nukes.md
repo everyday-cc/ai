@@ -7,7 +7,7 @@ originalUrl: "https://techhq.com/2021/10/are-these-the-first-killer-robots-and-w
 webUrl: "https://techhq.com/2021/10/are-these-the-first-killer-robots-and-why-are-they-more-dangerous-than-nukes/"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -23,47 +23,6 @@ images:
     width: 754
     height: 502
     isCached: true
-
-related:
-  - title: "Worse than nukes? An autonomous robot may have already killed people"
-    excerpt: "Autonomous weapons will undermine humanity’s final stopgap against war crimes and atrocities: the international laws of war."
-    publishedDateTime: 2021-10-02T18:00:00Z
-    webUrl: "https://scroll.in/article/1006658/worse-than-nukes-an-autonomous-robot-may-have-already-killed-people"
-    ampWebUrl: "https://amp.scroll.in/article/1006658/worse-than-nukes-an-autonomous-robot-may-have-already-killed-people"
-    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1006658/worse-than-nukes-an-autonomous-robot-may-have-already-killed-people"
-    type: article
-    provider:
-      name: Scroll
-      domain: scroll.in
-    quality: 59
-    images:
-      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/164618-kybyqusbld-1633010600.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "AI robots may have already killed in combat"
-    excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent"
-    publishedDateTime: 2021-10-06T04:51:00Z
-    webUrl: "https://menafn.com/1102923168/AI-robots-may-have-already-killed-in-combat"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2021-10/06/AT_957acimage_story.png"
-        width: 800
-        height: 529
-        isCached: true
-  - title: "An autonomous robot may have already killed people"
-    excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
-    publishedDateTime: 2021-10-02T21:16:00Z
-    webUrl: "https://japantoday.com/category/features/opinions/An-autonomous-robot-may-have-already-killed-people"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 19
 
 secured: "gFENmR2Zwmbg5FmX6dcKmTIQPHBxwh7RWngan7KOyRwNAjrcbFUlhD40bdpzBBaTbwgC6mHue9JtNK9nwf+zDOdz3rrxao4EEHtW+yxNDs/XzBrVAZIy1U72GJSJ1Z4GdE/CpWKiO/sf4L4Rkpi9+gqaMJ5XFydH000jBCHehJohgV1dlUmiU7QfXLL0VmFujGFlmTd0mciuD1Vu5GA+qp7FLUQmoZWXFtQvhaD8mIs+HEnODmV+fpaMz2aWm3j/IXw6LA+PFJUYhzwgcWtF+4FfVl1VaNPqt6Qo3VyXlharA/gcrx6AOx75x9E5KHXwPyVK3Xc6pMj1JOeNdkI7SmXe5BZyzcD7KFY2HHLNUC0=;YfhB+Y1rMJekbHtwEVoFUg=="
 ---

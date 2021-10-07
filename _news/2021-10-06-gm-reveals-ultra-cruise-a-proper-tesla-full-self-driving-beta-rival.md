@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/gm-ultra-cruise-tesla-full-self
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/gm-ultra-cruise-tesla-full-self-driving-beta-rival/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://images.barrons.com/im-411554/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "General Motors unveils Ultra Cruise self driving tech"
+    excerpt: "General Motors has unveiled Ultra Cruise, a new, advanced driver assistance technology which, it said, is a significant next step...Read"
+    publishedDateTime: 2021-10-07T10:38:00Z
+    webUrl: "https://www.just-auto.com/news/general-motors-unveils-ultra-cruise-self-driving-tech/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/10/GM-UltraCruise-resize.jpg"
+        width: 682
+        height: 383
         isCached: true
   - title: "GM’s Ultra Cruise Will Leapfrog Tesla Autopilot, Offer Full Hands-Free Driving Virtually Everywhere"
     excerpt: "GM aims to take the lead in the race to develop autonomous driving with the new Ultra Cruise system. Set to debut in 2023 it will allow hands-free operation on 2 million miles of road - and that will grow to 3."

@@ -7,7 +7,7 @@ originalUrl: "https://www.power-technology.com/features/artificial-intelligence-
 webUrl: "https://www.power-technology.com/features/artificial-intelligence-hiring-power-industry-august-2021/"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence hiring levels in the railway industry for August 2021"
+    excerpt: "We've analysed hiring patterns using data from GlobalData. The proportion of railway equipment and technologies companies hiring for artificial intelligence related positions rose in August 2021, with 29."
+    publishedDateTime: 2021-10-07T10:28:00Z
+    webUrl: "https://www.railway-technology.com/features/artificial-intelligence-hiring-levels-in-the-railway-industry-for-august-2021/"
+    type: article
+    provider:
+      name: Railway Technology
+      domain: railway-technology.com
+    quality: 49
+    images:
+      - url: "https://www.railway-technology.com/wp-content/uploads/sites/24/2021/09/Konstantin-Planinski-on-Unsplash-800px.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Glider AI wins SIA Shark Tank’s Most Innovative Technology in the Staffing Industry for 2021."
     excerpt: "In the highly contested SIA Shark Tank competition, Glider AI took the top spot for the most innovative technology in the staffing industry. Serving full time and contingent hiring for tech and non-tech roles,"
     publishedDateTime: 2021-10-05T17:00:00Z

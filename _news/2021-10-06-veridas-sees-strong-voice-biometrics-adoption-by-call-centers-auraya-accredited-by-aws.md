@@ -36,20 +36,6 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 37
-  - title: "Biometrics providers stake out facial recognition, fingerprint sensor market positions"
-    excerpt: "Interoperability of digital wallets and health passes, smart city biometrics, inclusive national digital ID systems among the most read news topics this week."
-    publishedDateTime: 2021-10-02T18:04:00Z
-    webUrl: "https://www.biometricupdate.com/202110/biometrics-providers-stake-out-facial-recognition-fingerprint-sensor-market-positions"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 31
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/01/04154638/BNP-Paribas-biometric-payment-cards.jpeg"
-        width: 1100
-        height: 733
-        isCached: true
 
 secured: "qd9BHMpsn8P6U7DosrpcD3WEG0E9USg8emhyFBL6mhhfxoYjgN1Yfqt3G7a5mu+u0qUNK2aNxiDC5PZmvfDOyb9e161BBxYqQkoip4Zg0lfw+fyPo09e9onwguflvicqeSUJvaeIt0hsh6rjNf9dkp2Q3oEMEWFdYf02/deYB/05nuIrYXlB1NuipLrcv7h4rsoraSgrdYpD2kZzw9nOSsIm6eT3OMfba2gWtD/rXBX7zQa3zXHRabdWtr5qHjoji9EjLjRTbaEfB5BN3kYe1hiDaSqtV2Bxk9Zq07jT/liEQAFINMbFreikZ9nq9D9FChp66+2K4pFifH8U1iAhOJEzCc4obrcPfO52jcAQambytkcpuii35feDyjvb4rAvtXYoUC6kpWe9aef0Xxr6IgkjUrxYUmxpQsKPcdTO4NJBBAhs+ve0fvRqHX0wxYRXChk41cWySH6w63O+wxhWb/eDRRUajjJFaoTWT0ayBZeir7JeT2Qm93k1CgV5V4sgP3J+5vJR/GzdSqJwetx4Ag==;mUWy5ftWQJo3AX2zwrtFdQ=="
 ---

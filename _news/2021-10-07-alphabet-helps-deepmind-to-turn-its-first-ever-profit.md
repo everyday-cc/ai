@@ -121,22 +121,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "Engineers At Google’s DeepMind Have Come Up With A New Way To ‘Nowcast’ Weather"
-    excerpt: "Advertisement Besides making weekly or monthly forecasts, weather models are also used to make hourly predictions that are called nowcasting. This is done by a Google-backed artificial intelligence company DeepMind that is making progress in predicting hourly precipitation."
-    publishedDateTime: 2021-10-02T18:54:00Z
-    webUrl: "https://wonderfulengineering.com/engineers-at-googles-deepmind-have-come-up-with-a-new-way-to-nowcast-weather/"
-    ampWebUrl: "https://wonderfulengineering.com/engineers-at-googles-deepmind-have-come-up-with-a-new-way-to-nowcast-weather/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/engineers-at-googles-deepmind-have-come-up-with-a-new-way-to-nowcast-weather/amp/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 55
-    images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/10/dreamstime_s_183430343.jpg"
-        width: 650
-        height: 392
-        isCached: true
   - title: "Google’s London-based AI lab DeepMind in profit for first time"
     excerpt: "Google’s London-based artificial intelligence lab has moved into the black for the first time after the Silicon Valley giant used more of its discoveries in its"
     publishedDateTime: 2021-10-05T17:00:00Z
@@ -245,6 +229,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "TwDpxas/7+2cAgZWasq6Mqczq2CMBW2uibhLGphYYhBHtYatAhWo/vu6xtQjF/ZtcwDH9I12j8GGXW0e7iT5o92U918M1+DCwTKilsFcmJZNCva43lpd4TVq0T2BPvVXZ+O7SpVTpxj+/dkpI7/SKn4PN1CotROUcGGxI2o0dq3gJXbWUmENDcRP47CYBmq3q4W4K7mF9v1jW1CDO4eIoSMqs7znHLDkkywpFjmOYJpWPPbMmKzmLkPTWfXaKiR4wv9YF34pG7Rq2Y11risUGum/913Iv2gJCs8um5SkUg0q91dax6SNTnTWcotm5B6ZEurmmLpktQwbeOVfqNI4OGLIN1+Thw0rzwUX1kZbrPk=;r0lyCJaNuByAKXXfiqxt8w=="
+secured: "YIvcTcnk1dVlfB4QCjGq01qIdXG0hmxHT8G+CiPXkFseqDUApHQ30ltb9V4oZhWFcuqN1zW8nKrHZHPJeXsj+lrz4nQljpRjRyV958GgxZgymeK1gVk5NGndbPGCzYPvL4CZ5kCuNhw+nwWlwlLckTkphHquAHYhoacM3t7fax8bj3lYT6qRKU+i/gztjhVVNGVLTUiPVnnwcTKfOVJvKP5EEjvHXkGjn1sZL9yaWwoeZ+J/FG5JhDzkf419atV9q/uTSvkmlBKGPw5qe7FoWn9mt5FLpKAFDumNXEPS9KSGKEzsdz/dv6LakV5P/iM3y7ZYRPNXfEqh+TwjnZezBj4q8LQF/MFWHj6wYdVRzb3QmNMI9+Ktlf8Q1rsG7NuX+augO62r2byEVuJN0saFwyYORcNCLkEBYfR7FNuEIjMmeH4LEr9drtS8nFL2fpXM4frW7NLkuzMijEg6xZdJBwXgu28vJ6XZWC1pCDSm+yaikIKSBpB0k+cHO2lOOSmAizLELlC7jJfp6YwNNqG/kg==;vb7HqELkxGEIsf7OSVN7bA=="
 ---
 

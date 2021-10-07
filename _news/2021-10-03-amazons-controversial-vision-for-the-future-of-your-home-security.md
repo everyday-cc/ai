@@ -3,18 +3,18 @@ category: news
 title: "Amazon's controversial vision for the future of your home security"
 excerpt: "Amazon's vision for the future of home security includes drones flying over your roof, outdoor cameras that monitor for possible trespassers and cute robots patrolling indoors."
 publishedDateTime: 2021-10-02T21:37:00Z
-originalUrl: "https://www.wcvb.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
-webUrl: "https://www.wcvb.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
-ampWebUrl: "https://www.wcvb.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
-cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+originalUrl: "https://www.koat.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+webUrl: "https://www.koat.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+ampWebUrl: "https://www.koat.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
+cdnAmpWebUrl: "https://www-koat-com.cdn.ampproject.org/c/s/www.koat.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185"
 type: article
 quality: 61
 heat: 61
 published: false
 
 provider:
-  name: WCVB Channel 5 Boston
-  domain: wcvb.com
+  name: KOAT Albuquerque
+  domain: koat.com
 
 topics:
   - Computer Vision
@@ -27,6 +27,6 @@ images:
     height: 677
     isCached: true
 
-secured: "mmoRHR8HL58FRMkDrt+N2SF90E9Belrp0Y8UFEzD7tBmgS1Mrc7YtaDmLbKRvBuBpJOLLMgu+k2C2fu5dbzqcUHH61iG6C6ad39E5Te/cDYKT/2VNC/Dhuj9Uwvc/j5IiLnax+4A1vrNs4RzJQWM9WWOOKei7UC7SEqOt5j2W9eUjhq/fMbViV2I75MwrOSpvDc8xvfdJS5JUzpmDwED3RkPS3sUk1hOwzeDhhpf9P6bM8hfZ2EEhGeUWXVytQc+2iEcRRUHBvA7mSdNmd3xYmxgBk/mqS667RsfWw4YplqkeXqPIFH2Fd5Q8Nwq5ffCsM5l12znaIm4HzOmzbZPi3xpeqMi2z+BlfHzOU5lZLeYvwQH1Z/9tO30VFRVw45mrrgjMLILXvf33MbfwJ37u/+ssUxfLXsqv4ptvPNkNikVPahBH02B13WSbOwyOZVme/rcjndYPzGNBRsnowH+vGzCmwGRlzHfHN8NGUKP8xDZAon/mNDLpM3uqIKaQeHAOlbqkSehaF/GxLnB0DnIBg==;9JgUri14Blco4bsfeAg44w=="
+secured: "T6Sw2DL6SKxIgN+7ZyP4oaDxI/EMScNfl3z51Nb6Oj99dzinbQyUx66vngqOvCWfdjV6ofzIdhojlHJpSxAmbMSmz89ChbOR423Cng+Sg0RAnYKjPB69ZmhLyGEyKFvr8jnGX7vGSLXfIKnP8QDTxYVUDdKt4l4tE8R8ZteBx6gaTiSeZgmHS9BavMmuh5bRurl6JvBxn58uQ6nwedQHVbkb09kdAnhrs7v+qDtSmvMGK05edwU+2zAe2e84Ir01akgFGxo2uavODGs1SiJ3XPWnKDdPcuyO0ZTAekS4L7aWYTSXAymNojCrEGuJYyP4Er/Qve7ImixLcdNz++zU7C+/3eEZL3jb8S1xbvnNen4=;CuXMhhGGxHnUhaXN4eT/vA=="
 ---
 

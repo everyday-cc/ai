@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/forget-about-cars-honda-wants-flying-v
 webUrl: "https://thenextweb.com/news/forget-about-cars-honda-wants-flying-vehicles-avatar-robots-rockets-lunar-tech"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Next Web
@@ -27,6 +27,22 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Honda planning for a future of self-driving cars, robots, and electric VTOL aircraft"
+    excerpt: "Honda builds more than cars, and the Japanese company is looking to get into future city transportation with a VTOL aircraft and space with a robot and a rocket."
+    publishedDateTime: 2021-10-07T10:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1133790_honda-planning-for-a-future-of-self-driving-cars-robots-and-electric-vtol-aircraft"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 32
+    images:
+      - url: "https://images.hgmsites.net/hug/honda-evtol-rendering_100809381_h.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "30P67L0GQw+6n0jnCt2AcgEyUz6bHnRg58h/uZ9qARstPGG70EdkLFA5fkBBFmEdA3YaLyfzmZ77yqGdPf/QQa+EgsWgbeAykuBpdydX4xPr2gFPFRMQ335ZhdK0vAZQ8mwQMwOyuqZXV1L6RTMXHiER0TczdNet5siS//EaRh28b3DC+WFl/2ngRCP2EInYaTwLeTyFHNOWdAjw3c9vArmEHR1Xdh6JTlVfSkmHfsyUHyFvn3Kw5tNa2SqVbacPV1ifJj1kJTJQgsbUgiJs5VkM0IQcdXiblWShs+lWKwccIXwNMywNJ1F3Kk/fPwW43nnOAh/42Bc/b6ZfZxEQVZ+vQAuiQwz+0X1kgLKfFbRLjOfWMO6SOoZS6AlhJUmH/o4Ug96P3tEOTzeHft10YqaI7dCayEsHHhXWwSQkmzCtiXpHNtdJrreWnF80V+1Iqsq9ViqmZaH9HnX3fHzE/QV1NYibHpEun29xxDaPYyQcBcDVUBQUxIUwQtWV/V2wwuf3FAhnJFwKymD2/sxBzg==;IEhe7koWV/+GYbYQ+OYZSg=="
 ---

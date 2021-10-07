@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Biometrics providers stake out facial recognition, fingerprint sensor market positions"
-    excerpt: "Interoperability of digital wallets and health passes, smart city biometrics, inclusive national digital ID systems among the most read news topics this week."
-    publishedDateTime: 2021-10-02T18:04:00Z
-    webUrl: "https://www.biometricupdate.com/202110/biometrics-providers-stake-out-facial-recognition-fingerprint-sensor-market-positions"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 31
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/01/04154638/BNP-Paribas-biometric-payment-cards.jpeg"
-        width: 1100
-        height: 733
-        isCached: true
   - title: "Veridas sees strong voice biometrics adoption by call centers, Auraya accredited by AWS"
     excerpt: "Veridas reports impressive adoption of its voice biometrics by call centers, AWS accreditation for Auraya voice biometrics."
     publishedDateTime: 2021-10-05T19:59:00Z

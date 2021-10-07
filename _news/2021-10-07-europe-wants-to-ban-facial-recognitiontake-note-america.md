@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/europe-wants-to-ban-facial-recognition-take-note
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/europe-wants-to-ban-facial-recognition-take-note-ameri-1847809788/amp"
 type: article
 quality: 91
-heat: 141
+heat: 143
 published: true
 
 provider:
