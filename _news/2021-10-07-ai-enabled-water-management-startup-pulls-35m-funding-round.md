@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/biz/ai-enabled-water-management-startup-pull
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/biz/ai-enabled-water-management-startup-pulls-35m-funding-round?_amp=true"
 type: article
 quality: 57
-heat: 68
+heat: 67
 published: false
 
 provider:

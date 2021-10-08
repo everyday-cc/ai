@@ -8,7 +8,7 @@ webUrl: "https://techbullion.com/how-artificial-intelligence-helps-in-decision-m
 ampWebUrl: "https://techbullion.com/how-artificial-intelligence-helps-in-decision-making/amp/"
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-artificial-intelligence-helps-in-decision-making/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2021/10/AI-robot-scaled.jpeg"
@@ -87,6 +88,6 @@ related:
         height: 470
         isCached: true
 
-secured: "5R1G92uOhENv1kSRbDjteIrZzNelFqAjipUaLNTVNIFj/1OjyAi0/UBl/AcdXyPwbExW5cLFNkGdnv84hum8Z6TCZLPs/N1bZ22+CLZvDrq5tVlUYnf9gjCaj/twwTLYPmX964Jge+ccIdpZI8hR4HAHMEowusnwoUOgrAa9fDtQvflp/2QlW+UntfIbhyLVI2VrSgT0wmdARy7L9mmmylu5O5Co12/KNfp/bf4dJyCzivfT8HEI+0Ls+GmxkqNcKYwMzNybr9NCxpo0/BRjtltjv9AXGg5wreURzdxV6wJxBpzXgWiB8Pl05KuYVmKk8rJEQ6dbq3hAo4GTDwHBFtym2SBYxoIQWKfT2QqC/g8=;SdNa2MUG0DjqH/Zl83jgeA=="
+secured: "sijm1ZgP4eAZED7tmoWcl/Zj4Bo+yW2qnlWDhUgsn/8UC5/P3osYbVsld3e8q+q3dyjqKonTSSUS54uMNNXLK/zeJVmpsZdzDahKVsntjMN0tIbAsrdUREEAQBcRSSTlINY5xpAAVL1gNqgxhY7zKN0YINeIHYLqOolffkXh0xx4dtZQXjaWYbS1oyqgzrRtFk1zPd7VBoIQDio4Si8o28r7zKWjrENjvkTravrt3BEcxwCcylmsLuahYmhtUEHB9Ha2Zh9GwyGAJ9C4h+I2a7TSnhdD46Z0cUehMOtgrxu0hnJryK+BHB7sDNrUdSahat4Csqe5sUleGbfBFZUB4yuqVNPvw3Wv6/jZmXUh+GHyMFKhG3jXX2v4X6fr6jAEXQkBozhjcrBwTAvxPMQg1ipS40XqWacx/5j+I/lcVtI6xYDwUaW/hi26x64J7kwViOqPQglExzEJc8jxCOnqmW/9WCkmSR+IvKIO/K8BiGLekDYOvA+/8B9UO7pCV+BOaS7t2iEo8udJbHhPhZTg1g==;Tw0LAINt/TS92JVAdfJ2XQ=="
 ---
 

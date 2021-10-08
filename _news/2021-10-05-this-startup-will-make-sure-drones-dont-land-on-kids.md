@@ -7,7 +7,7 @@ originalUrl: "https://thewestsidegazette.com/this-startup-will-make-sure-drones-
 webUrl: "https://thewestsidegazette.com/this-startup-will-make-sure-drones-dont-land-on-kids/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1000
     height: 1000
     isCached: true
-
-related:
-  - title: "This startup will make sure drones don’t land on kids"
-    excerpt: "Wonder Robotics plans on turning drones into truly autonomous machines that can fly and land by themselves, no operator needed to avoid obstacles."
-    publishedDateTime: 2021-10-03T07:14:00Z
-    webUrl: "https://www.israel21c.org/this-startup-will-make-sure-drones-dont-land-on-kids/"
-    type: article
-    provider:
-      name: Israel21c
-      domain: israel21c.org
-    quality: 24
-    images:
-      - url: "https://www.israel21c.org/wp-content/uploads/2021/09/main.jpg"
-        width: 1600
-        height: 902
-        isCached: true
 
 secured: "PvWEkt/eIWd49fxZFfuc2rNhTtlBXEGpXP/GeUeGqQrd7Cp1RpLkQjT1S+2zfv5D0hnA/k4iVtI5XJCzTDIpzyl9XUiEE7CXZAmlYJZbNBJJdYWHj65ZAssOOza7uoSkuRpdDhCDIDJOCjZEN6FlKY4lQBko3YKTCIE8MyQvFZRqrIJp8T5nzEWUFQX/kA/LI1BpeP6NpklRf5wG1kHmLIpBa4j47azg3NYal97fFDjL56/Q61hFtxsdQzBEeyURuakUe2jhD49PXJFhbGCfD9Ai4dIoE1/5J8qfMuQIx53OOOsetC7jYe5nHnpg1PZ00uNWiqOpkCAQrF8MK1PIE0DI4AfMxTd9TJEeHej5nG07uadt2z3j1mrCXccankCXgg+8SCJUxo0XbIa4mnZ+542Na32XSjmTT/tS2Qon+6sCFSWc/jouoQ4HiLBWe2x2qzyWt3mZ1vP0QduW3mKLJ+yhnrBeWWUijuKKZddo4h0fk0mR7Is4wicqehyRlxJql8hkjsjP6SlUvDvFzmHxmw==;WCAn+UJCoheY3E1eVy8cHQ=="
 ---

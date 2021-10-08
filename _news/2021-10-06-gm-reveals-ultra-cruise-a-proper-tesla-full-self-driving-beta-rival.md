@@ -63,6 +63,20 @@ related:
         width: 1004
         height: 555
         isCached: true
+  - title: "See how Tesla’s ‘full self-driving’ mode works"
+    excerpt: "Despite concerns from regulators,Tesla is rolling out its autonomous driving feature to some owners who can prove they are safe drivers."
+    publishedDateTime: 2021-10-08T00:52:00Z
+    webUrl: "https://kvia.com/news/2021/10/07/see-how-teslas-full-self-driving-mode-works/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 39
+    images:
+      - url: "https://kvia.b-cdn.net/2021/10/100721-HIKE-FORECAST-375x225.png"
+        width: 375
+        height: 225
+        isCached: true
 
 secured: "CDdXuCUmATeg801gnlktztbCm5d2BdkxDX/XRfrAAkGKYJsh9IzVMbjCnAbyth6O/Db6lzSr/BTtR+GHxYPZe3RRt32ECOt99G84iKGNX89mjYJP7EORpKBe8t+y+Fp29D/q1iQhLCRatNygq8shJVVo2PvcbO+WCYQWloSdyqeaWt13VaediRwZOkiwqmwG61LmIBFMeGk8DomWyvp4hsWZnTbL0G1C1cdBiQod08S08L7xPeUYcUJ2r+OicCo8vd26MXx5Q+OGMExDQkQM+o2YADOekqe5ox7oyZ2sTQaupnq3+0KyvBHxMTMjffXvjG9KC+cF8m2a2fXDQcAGDMIDMCmp5Y/QBZzbmHM1Ml8=;BjhMpseyp0cjGDGBNyeP/A=="
 ---

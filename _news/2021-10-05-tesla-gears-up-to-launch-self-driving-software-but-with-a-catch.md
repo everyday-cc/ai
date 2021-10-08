@@ -9,7 +9,7 @@ ampWebUrl: "https://www.propertycasualty360.com/2021/10/05/tesla-analyzes-drivin
 cdnAmpWebUrl: "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/?amp=1"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla insurance will change the way you think about driving"
+    excerpt: "Elon Musk has revealed more information about Tesla’s car insurance product at the company’s shareholder meeting on Friday morning (Australia time), and it signals a potentially massive shift in driving behaviour."
+    publishedDateTime: 2021-10-08T01:08:00Z
+    webUrl: "https://thedriven.io/2021/10/08/tesla-insurance-will-change-the-way-you-think-about-driving/"
+    ampWebUrl: "https://thedriven.io/2021/10/08/tesla-insurance-will-change-the-way-you-think-about-driving/amp/"
+    cdnAmpWebUrl: "https://thedriven-io.cdn.ampproject.org/c/s/thedriven.io/2021/10/08/tesla-insurance-will-change-the-way-you-think-about-driving/amp/"
+    type: article
+    provider:
+      name: thedriven
+      domain: thedriven.io
+    quality: 59
+    images:
+      - url: "https://thedriven.io/wp-content/uploads/2020/06/tesla-ap-section-hero-carnival@2x.jpg"
+        width: 1160
+        height: 652
+        isCached: true
   - title: "Tesla’s Approach to Self-Driving Cars Could Cause Problems Down the Road"
     excerpt: "The car maker is betting that it can develop self driving cars with only optical cameras, while other car makers believe multiple sensors will be required."
     publishedDateTime: 2021-10-06T11:56:00Z

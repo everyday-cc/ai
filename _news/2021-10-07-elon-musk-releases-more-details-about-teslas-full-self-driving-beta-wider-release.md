@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/10/07/elon-musk-releases-more-details-tesla
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/07/elon-musk-releases-more-details-tesla-full-self-driving-beta-wider-release/amp/"
 type: article
 quality: 97
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://wonderfulengineering.com/wp-content/uploads/2021/10/0_1lQIq4qEfeHQLgMm.jpg"
         width: 1004
         height: 555
+        isCached: true
+  - title: "See how Tesla’s ‘full self-driving’ mode works"
+    excerpt: "Despite concerns from regulators,Tesla is rolling out its autonomous driving feature to some owners who can prove they are safe drivers."
+    publishedDateTime: 2021-10-08T00:52:00Z
+    webUrl: "https://kvia.com/news/2021/10/07/see-how-teslas-full-self-driving-mode-works/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 39
+    images:
+      - url: "https://kvia.b-cdn.net/2021/10/100721-HIKE-FORECAST-375x225.png"
+        width: 375
+        height: 225
         isCached: true
 
 secured: "Aa5U1MC2CISXBB1/JAk4OsthevHaTFuhiB5YlzHxjIZYW+AlX+NtmNqxjLBOfoadQk0RJ6rFyrGBU1KVEEQDg6NXugHOuWd7ZWyamEcm+g4Vd1z5mYuFbZIWP71wpluHH/dD22aoyQG/nZoHflQZrhHbU9BPClXdxPng9QWqGA+6/wQf6fSOrMTI1zRitkCcIMKdonZ/ZOeqWSP67L8COpboqyjkl9V2bsb3fDJMxERCcHLf1ML1c8NmMvIgqiwp3aPBIcFSXRM8EYoDKcUTccvkIWkONGDvXfAxu9e8vbCmiQPhIS/QYW6foVafX3x0FA3ezo8Prmr91/TmNDq5WLUQ/j1dGGL0+yEhP3nFAN1XRdqysDZUxohHLxExZKRr7rEu9wl3+0lMW3T8MeilhwyA42LQZvDpD5KdQq9aYX27rMPBjSCOjdBmFSi3ADA19ObQ03rcLHihISKVvjERIqrLaZLuBfeD3iqX1IoY5uuFG3PuTly0ol7N7iAuTY85X9X6HGRwBQ0DHp969sJEBA==;+2bOMZR2HQUzj2BweKpNXg=="

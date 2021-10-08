@@ -66,7 +66,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://techbullion.com/wp-content/uploads/2021/10/AI-robot-scaled.jpeg"
         width: 2560

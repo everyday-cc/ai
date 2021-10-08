@@ -42,6 +42,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
+  - title: "Rising Funding in Healthcare Artificial Intelligence is rising factor of AI market"
+    excerpt: "Technology (Machine Learning, Context-Aware Computing, NLP), Application (Drug Discovery, Precision Medicine), End User, And Geography – Global Forecast To 2025. According to OECD estimates, 20% of healthcare spend is wasted globally."
+    publishedDateTime: 2021-10-08T01:02:00Z
+    webUrl: "https://www.xing.com/communities/posts/rising-funding-in-healthcare-artificial-intelligence-is-rising-factor-of-ai-market-1015989158"
+    type: article
+    provider:
+      name: XING
+      domain: xing.com
+    quality: 63
+    images:
+      - url: "https://swobj.xingassets.com/v1/communities/public-production/content_images/images/003/961/036/main/AI1.jpg?temp_url_sig=fb8375fbaa2489002e0cc76c5f16b6189c4186fc&temp_url_expires=1633701702"
+        width: 475
+        height: 249
+        isCached: true
   - title: "How the Automotive Industry is Using AI"
     excerpt: "Artificial intelligence (AI) in the automotive industry is making vehicles autonomous. Learn about driverless vehicles & AI now:"
     publishedDateTime: 2021-10-05T20:09:00Z

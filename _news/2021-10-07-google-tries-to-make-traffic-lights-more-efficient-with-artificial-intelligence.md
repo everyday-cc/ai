@@ -56,20 +56,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Here is how ethical AI can play an important part in recruiting and staffing"
-    excerpt: "Ethical AI can be utilized related to different frameworks to automate many enrolling and recruiting measures. Depending upon an association's size, scale, and assets, it may not require its own AI specialists."
-    publishedDateTime: 2021-10-03T07:30:00Z
-    webUrl: "https://www.analyticsinsight.net/need-help-with-recruiting-and-staffing-ethical-ai-might-the-solution/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 51
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Recruiting-and-Staffing-Ethical-AI-Might-the-Solution.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Reboot AI with human values"
     excerpt: "A former head of the European Research Council urges critical thinking about the algorithms that shape our lives and societies."
     publishedDateTime: 2021-10-05T10:33:00Z

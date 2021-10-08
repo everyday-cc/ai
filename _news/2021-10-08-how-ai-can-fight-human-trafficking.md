@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-traffickin
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 130
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.thehindu.com/entertainment/music/4yoo3m/article36876007.ece/ALTERNATES/LANDSCAPE_615/08frANILSRINIVASANfr21UV8SV6CSjpg"
         width: 615
         height: 384
-        isCached: true
-  - title: "Here is how ethical AI can play an important part in recruiting and staffing"
-    excerpt: "Ethical AI can be utilized related to different frameworks to automate many enrolling and recruiting measures. Depending upon an association's size, scale, and assets, it may not require its own AI specialists."
-    publishedDateTime: 2021-10-03T07:30:00Z
-    webUrl: "https://www.analyticsinsight.net/need-help-with-recruiting-and-staffing-ethical-ai-might-the-solution/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 51
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Recruiting-and-Staffing-Ethical-AI-Might-the-Solution.jpg"
-        width: 900
-        height: 500
         isCached: true
   - title: "Reboot AI with human values"
     excerpt: "A former head of the European Research Council urges critical thinking about the algorithms that shape our lives and societies."
@@ -104,6 +90,6 @@ related:
         height: 675
         isCached: true
 
-secured: "bB2ePmfu05N1j7e1IDKnnHx8lmk3+zukwngOQ/9cuJcIenIbCrKx5SuUFDPZrl3pRq1Bj/jrIFPxj6gk85s2+QvRMnbQGb5qqjflWQJn1PbP2HlkB/6H+6Gpoz1Uect3KU5xkpfERSzhPDEB4KxyZVi6ySQtaomDGRRoFUNR7p3RUqBGM0dS0Vualj5eqzodF2Yy/65x7tzizHr948PHFR+PlrCAJnCqo6qE16X5XQ0H8oom0eW1Dt2u1z67HlFgxEeFzBwrmSwf0oZR6OQMIe/Z4/v3REAoay0hlGLUYic1FQZMcSq2c92X00r0WdMKJ2B7UslRmE1qi9DToVyYtGB5VowQOBZ1+uz9aQZJjXk=;Ox/fgQWdP02ZnsYpFca7Ug=="
+secured: "zqrTE2g/gvwY8j5eOK+WWnDa3qlUrehlvvJw7xCMApyp13I7RpqFsx6fkwPMiv0X8Gn7SmzM/ZE2FQNFdBr7KqAHfQQCnMQSydt7s05fKOoxefiSrO+KWHmE/KI2te5AQiL5M5vYuJ13B8C+vX3yRCBCw4E+jdQ2VymtRw7zvUtw/xUYJ5pLRmt7EYhhNzdAknqWDNn9inc1OTph0EtLQAjIV7ibyiV9zQapJj0tHHpgnJbQ1c9vKbEB3hjsEHux/uh5EGk8uxyhI4IiwdysuTPSkrV8iM7HpH6g9QYs8AZS4cFqwbclYH86zKLAHm4vt5FiT7XSuWSl22fEQicdbOWvw3EOgn9kkDsvBCXhB0Zx//Vl6/rlCAVJqHOHaLDt0i+atwSuKJVH2s6wutj4bRH6VWo1v+KgdayF8iOTZtZgr0aw9K1trj8sfQFxhrm0UmralCafpfqedoQ3AzdyMFhihqednT+awVk8BYr3y7Hux/FRo0YeHriQoqL+JBWUhGU1M4RYXZAktLOXglTscA==;e1uIPvIh2cdKI/YcgI+uzA=="
 ---
 

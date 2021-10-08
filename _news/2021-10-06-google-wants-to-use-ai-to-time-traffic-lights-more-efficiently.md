@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/google-wants-use-ai-time-traffi
 webUrl: "https://www.reuters.com/technology/google-wants-use-ai-time-traffic-lights-more-efficiently-2021-10-06/"
 type: article
 quality: 67
-heat: 87
+heat: 88
 published: true
 
 provider:
