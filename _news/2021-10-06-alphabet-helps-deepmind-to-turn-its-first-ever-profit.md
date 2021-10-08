@@ -209,6 +209,20 @@ related:
         width: 620
         height: 350
         isCached: true
+  - title: "Making Sense of DeepMind’s First-Ever Profit"
+    excerpt: "DeepMind has developed breaking innovations, including AlphaFold, a solution to the 50-year-old protein folding problem. According to a corporate filing with the UK company registry published on Tuesday, Google-backed artificial intelligence research firm ..."
+    publishedDateTime: 2021-10-08T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/making-sense-of-deepminds-first-ever-profit/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Behind-DeepMinds-profit-numbers-.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
   - title: "Google’s DeepMind has developed an AI-based ‘nowcasting’ system that can predict rain in the next two hours"
     excerpt: "Now, scientists at Google's London lab DeepMind have built an artificial intelligence (AI)-based forecasting system that, they claim, can predict the likelihood of rain in the next two hours more precisely than existing systems."
     publishedDateTime: 2021-10-04T19:18:00Z

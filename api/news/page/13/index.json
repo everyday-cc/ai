@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-09-27-vietnam-pharmaceuticals-market-to-grow-along-with-healthcare-industry-until-2026.md",
+      "title": "Vietnam Pharmaceuticals Market to Grow Along With Healthcare Industry until 2026",
+      "excerpt": "Advanced medicine development is driving the growth of Vietnam Pharmaceuticals Market in the forecast period 2022 2026 According to TechSci report on Vietnam Pharmaceuticals Market By Drug Type Generic Drugs v s Branded Drugs By Product Type Prescription Drugs v",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare",
+      "originalUrl": "https://www.openpr.com/news/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/9/U927716201_g.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare",
+      "publishedDateTime": "2021-09-27T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-china-vows-further-curbs-on-disorderly-expansion-by-tech-firms.md",
       "title": "China Vows Further Curbs on ‘Disorderly Expansion’ by Tech Firms",
       "excerpt": "Sheng also listed self-driving vehicles and platform economies as areas that ... Regulation of shared economy or smart delivery applications could impact Meituan, for instance, while Baidu Inc. has worked on autonomous driving and Alibaba Health ...",
@@ -1103,49 +1146,6 @@
         "AI",
         "Computer Vision",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-gm-invests-300-million-in-momenta-to-deliver-next-generation-self-driving-technologies-in-china.md",
-      "title": "GM Invests $300 Million in Momenta to Deliver Next-Generation Self-Driving Technologies in China",
-      "excerpt": "General Motors will invest $300 million in Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China. “Customers in China are embracing electrification and advanced self-driving technology faster than anywhere else in the world,",
-      "sourceUrl": null,
-      "webUrl": "https://electriccarsreport.com/2021/09/gm-invests-300-million-in-momenta-to-deliver-next-generation-self-driving-technologies-in-china/",
-      "originalUrl": "https://electriccarsreport.com/2021/09/gm-invests-300-million-in-momenta-to-deliver-next-generation-self-driving-technologies-in-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electriccarsreport.com/wp-content/uploads/2021/09/GM-Momenta.jpg?7a2bad&7a2bad",
-          "width": 640,
-          "height": 321,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "electriccarsreport.com",
-        "domain": "electriccarsreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

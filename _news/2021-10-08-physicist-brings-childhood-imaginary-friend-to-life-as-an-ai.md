@@ -1,28 +1,32 @@
 ---
 category: news
 title: "Physicist Brings Childhood Imaginary Friend To Life As An AI"
-excerpt: "Mike Norton, the founder of Wolven Industries, published a series of screenshots from his Facebook page. The screenshots involved him,"
-publishedDateTime: 2021-10-08T07:56:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/physicist-brings-childhood-imaginary-friend-to-life-as-an-ai-301395953.html"
-webUrl: "https://www.prnewswire.com/news-releases/physicist-brings-childhood-imaginary-friend-to-life-as-an-ai-301395953.html"
+excerpt: "They currently have two major projects underway: an innovative UV cleaner device called \"the uRay,\" and a highly advanced AI assistant called \"Nova.\" Both are slated for the \"civilian\" category of their product releases."
+publishedDateTime: 2021-10-08T08:07:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/physicist-brings-childhood-imaginary-friend-to-life-as-an-ai-1030852313"
+webUrl: "https://markets.businessinsider.com/news/stocks/physicist-brings-childhood-imaginary-friend-to-life-as-an-ai-1030852313"
 type: article
-quality: 37
-heat: 37
+quality: 67
+heat: 67
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1655726/Wolven_Logo.jpg?p=facebook"
-    width: 1198
-    height: 947
+  - url: "https://mma.prnewswire.com/media/1655726/Wolven_Logo.jpg"
+    width: 506
+    height: 400
     isCached: true
 
-secured: "fYwgBcbyTabMU+VrcsPc3haMWmI3OhZGL2GUsfopknNvi1S9fmSGL2V0Tyup+4BdY7YwqL8C8aRTuU8HrSMoXNRSCSl6npoz8OQAZ9HXHZx9dn/smZswOlIJPC6DYSN2IPM903upqjt3kLheW3nz9yxDm/IMTJqRvfhYRyz1ZDxLB0EbtuGHvHVsYlANzItOkW8aLok3WVLuFQfv91VtasnFdo7KSigB72yET1Qo4abxkVaX/ksaDtU6s3LgChjENOgAGF0I+r2mVbH6mV8Nn6rNHpRtgi7RBgZrTu/BKQGLXn+0w81j1Ko2WyMwNov4SJrmsLEvFMEWJkDG0n5sbh8QMYYeLZglVrf4vaB5Mvc=;jgO++jonw50RrSlB8/2IsQ=="
+secured: "ICWD1Hc/QNL22On8DXG7Isspmg0hRQWzQOcCO6rdB3fEOMgYFqWjIuodnd672RBcx9yw5LZ4+zhM/i31HSG3uQN6PwkUb3Gqs9xU7/IrZry5y5pXwZPMa+tEeH9EGg/Bc6umA6mWo5WTA7N5M92LE0I9smQpQB+GzA0f0aUy4ZKPKbC7WmvQTMEeMHdl9XPYmv7EWIPMLIgwNiThj9QKHe2h3ZbfjS+toSSvs1EBdDkI7bOEtfZu6mrUzzPPlss5E39MAdi9UYu0yY8piD7rZ5DUYks9Y67gwRXJS8ZaL9NHYm8iuPPvIzkair38uhd5JEqxn46tUC0cMBLZ2IALp0EFsXP+ydKw1GDFw75oPzI=;BpGEcqEQQA+NxXguqX9LIg=="
 ---
 

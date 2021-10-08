@@ -41,6 +41,20 @@ related:
         width: 790
         height: 466
         isCached: true
+  - title: "AWS Artificial Intelligence (AI) Portfolio Review"
+    excerpt: "AWS reported $106.3 million in AI revenue in 2019, according to an 2020 report by IDC. See below to learn about the broad set of AWS’ ML and AI offerings: SageMaker Autopilot eliminates a portion of the heavy lifting that goes into building ML models and ..."
+    publishedDateTime: 2021-10-06T21:29:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/aws-artificial-intelligence-ai-portfolio/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 69
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/07/AWS-logo.png"
+        width: 1400
+        height: 840
+        isCached: true
   - title: "Artificial Intelligence (AI) in Medical Market Regional Outlook, Competitive Strategies And Forecast up to 2026"
     excerpt: "Market Study Report presents an extensive report on \"Artificial Intelligence (AI) in Medical Market\" report offers detailed profiles of the key players to bring out a clear view of the competitive landscape of the industry."
     publishedDateTime: 2021-10-05T16:46:00Z

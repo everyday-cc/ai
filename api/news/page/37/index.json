@@ -2,6 +2,58 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-09-08-a-chinese-ev-startup-wants-to-build-a-ridable-robot-unicorn-for-kids.md",
+      "title": "A Chinese EV startup wants to build a ridable robot unicorn for kids",
+      "excerpt": "Never mind buying a robot dog for your kids — you might just get them a mythical creature instead. Chinese EV maker Xpeng has teased a robot unicorn meant for children to ride.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/08/a-chinese-ev-startup-wants-to-build-a-ridable-robot-unicorn-for-kids/",
+      "originalUrl": "https://techcrunch.com/2021/09/08/a-chinese-ev-startup-wants-to-build-a-ridable-robot-unicorn-for-kids/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/xpeng-unicorn.jpg?w=1024",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/08/a-chinese-ev-startup-wants-to-build-a-ridable-robot-unicorn-for-kids/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/08/a-chinese-ev-startup-wants-to-build-a-ridable-robot-unicorn-for-kids/amp/",
+      "publishedDateTime": "2021-09-08T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-machine-learning-predicts-patient-response-to-rheumatoid-arthritis-therapy.md",
       "title": "Machine Learning Predicts Patient Response to Rheumatoid Arthritis Therapy",
       "excerpt": "Rheumatoid arthritis treatment may soon be personalized based on new molecular signature models that accurately predicted patient responses to adalimumab and etanercept.",
@@ -1077,58 +1129,6 @@
         "AI",
         "AI in Healthcare",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-global-healthcare-artificial-intelligence-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027.md",
-      "title": "Global Healthcare Artificial Intelligence Market 2021 by Key Players, Segmentation, Industry Growth, Opportunities and Forecast by 2027",
-      "excerpt": "MarketQuest.biz has published another latest research report on Global Healthcare Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2027 that encapsulates vital details about the market current as well as future status during the mentioned forecast period of 2026.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027-2021-09-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027-2021-09-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-07T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

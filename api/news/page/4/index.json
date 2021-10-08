@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-05-as-insurers-invest-in-robotics-lever-up-on-ubot.md",
+      "title": "As Insurers Invest in Robotics, Lever Up on UBOT",
+      "excerpt": "Insurance companies are looking to invest more capital into shoring up their robotics to help support core business operations. As such, the Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X ETF (UBOT) is worth noting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/as-insurers-invest-in-robotics-lever-up-on-ubot-2021-10-04",
+      "originalUrl": "https://www.nasdaq.com/articles/as-insurers-invest-in-robotics-lever-up-on-ubot-2021-10-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/as-insurers-invest-in-robotics-lever-up-on-ubot-2021-10-04?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/as-insurers-invest-in-robotics-lever-up-on-ubot-2021-10-04?amp",
+      "publishedDateTime": "2021-10-04T17:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-clearview-ai-says-it-can-do-the-computer-enhance-thing.md",
       "title": "Clearview AI Says It Can Do the ‘Computer Enhance’ Thing",
       "excerpt": "The co-founder and CEO of the sketchy face-recognition firm, Hoan Ton-That, says it's working on \"deblur\" and \"mask removal\" tools.",
@@ -1158,50 +1192,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-03-explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders.md",
-      "title": "Explained: Why Amazon’s Astro ‘robot on wheels’ has rankled privacy crusaders",
-      "excerpt": "The robot is designed to move around the home and keep a check on pets, and detect something unusual in the absence of the owner.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/explained/explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders-7549238/",
-      "originalUrl": "https://indianexpress.com/article/explained/explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders-7549238/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2021/10/227f04f9c0bc4cceaed880176ef570e9-227f04f9c0bc4cceaed880176ef570e9-2793bc1d66804cf08f75439792eebdc0.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/explained/explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders-7549238/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders-7549238/lite/",
-      "publishedDateTime": "2021-10-03T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

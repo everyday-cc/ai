@@ -2,6 +2,48 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-09-28-how-to-join-the-connected-world-with-data-and-ai.md",
+      "title": "How to join the connected world with data and AI",
+      "excerpt": "If there was one key fact for data and analytic professionals to learn in the past year, it's that our data and AI foundations weren't as ready for this challenge as they could have been.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-to-join-the-connected-world-with-data-and-ai/",
+      "originalUrl": "https://www.zdnet.com/article/how-to-join-the-connected-world-with-data-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-join-the-connected-world-with-data-and-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-join-the-connected-world-with-data-and-ai/",
+      "publishedDateTime": "2021-09-27T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-astera-labs-secures-50m-in-series-c-funding-at-a-950m-valuation-to-accelerate-product-and-customer-momentum.md",
       "title": "Astera Labs Secures $50M in Series-C Funding at a $950M Valuation to Accelerate Product and Customer Momentum",
       "excerpt": "Astera Labs secures $50M Series-C funding round at a $950M valuation to rapidly scale worldwide operations and launch multiple new product lines.",
@@ -1140,49 +1182,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-vietnam-pharmaceuticals-market-to-grow-along-with-healthcare-industry-until-2026.md",
-      "title": "Vietnam Pharmaceuticals Market to Grow Along With Healthcare Industry until 2026",
-      "excerpt": "Advanced medicine development is driving the growth of Vietnam Pharmaceuticals Market in the forecast period 2022 2026 According to TechSci report on Vietnam Pharmaceuticals Market By Drug Type Generic Drugs v s Branded Drugs By Product Type Prescription Drugs v",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare",
-      "originalUrl": "https://www.openpr.com/news/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/9/U927716201_g.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2407519/vietnam-pharmaceuticals-market-to-grow-along-with-healthcare",
-      "publishedDateTime": "2021-09-27T02:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

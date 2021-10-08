@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/10/05/alphabets-deepmind-ai-lab-turns-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/05/alphabets-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever.html"
 type: article
 quality: 159
-heat: 289
+heat: 299
 published: true
 
 provider:
@@ -208,6 +208,20 @@ related:
       - url: "https://www.techcentral.ie/wp-content/uploads/2015/02/artificial_intelligence_machine_learning_digital_brain_concept_web.jpg"
         width: 620
         height: 350
+        isCached: true
+  - title: "Making Sense of DeepMind’s First-Ever Profit"
+    excerpt: "DeepMind has developed breaking innovations, including AlphaFold, a solution to the 50-year-old protein folding problem. According to a corporate filing with the UK company registry published on Tuesday, Google-backed artificial intelligence research firm ..."
+    publishedDateTime: 2021-10-08T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/making-sense-of-deepminds-first-ever-profit/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Behind-DeepMinds-profit-numbers-.jpg"
+        width: 2240
+        height: 1260
         isCached: true
   - title: "Google’s DeepMind has developed an AI-based ‘nowcasting’ system that can predict rain in the next two hours"
     excerpt: "Now, scientists at Google's London lab DeepMind have built an artificial intelligence (AI)-based forecasting system that, they claim, can predict the likelihood of rain in the next two hours more precisely than existing systems."

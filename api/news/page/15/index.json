@@ -2,6 +2,48 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-09-24-opentrons-raises-200m-in-series-c-funding.md",
+      "title": "Opentrons Raises $200M in Series C Funding",
+      "excerpt": "Opentrons Labworks Inc., a NYC-based lab platform provider, raised $200M in Series C funding. SoftBank Vision Fund 2 led the round with participation by Khosla Ventures. Other investors in Opentrons include Sands Capital,",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2021/09/opentrons-raises-200m-in-series-c-funding.html",
+      "originalUrl": "https://www.finsmes.com/2021/09/opentrons-raises-200m-in-series-c-funding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2021/09/opentrons.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-24T02:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "finsmes.com",
+        "domain": "finsmes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-24-meity-and-aws-partner-to-support-deeptech-innovation-in-india.md",
       "title": "MeitY and AWS partner to support DeepTech innovation in India",
       "excerpt": "The MeitY Startup Hub, an initiative of the Ministry of Electronics and IT has entered into a Memorandum of Understanding (MoU) with Amazon Internet Services, which undertakes the resale",
@@ -1139,57 +1181,6 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-how-cloud-migration-and-ai-can-help-reduce-carbon-footprint.md",
-      "title": "How Cloud Migration And AI Can Help Reduce Carbon Footprint",
-      "excerpt": "In fact, the goal of the Paris Agreement is to \"limit global warming to well below 2, preferably to 1.5 degrees Celsius, compared to pre-industrial levels.\" To meet this goal, Boston Consulting Group (BCG) notes that \"we must reduce these carbon emissions by 50% by the end of this decade,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/23/how-cloud-migration-and-ai-can-help-reduce-carbon-footprint/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/23/how-cloud-migration-and-ai-can-help-reduce-carbon-footprint/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614b3644cb447db2b4a98211%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/23/how-cloud-migration-and-ai-can-help-reduce-carbon-footprint/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/23/how-cloud-migration-and-ai-can-help-reduce-carbon-footprint/amp/",
-      "publishedDateTime": "2021-09-23T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

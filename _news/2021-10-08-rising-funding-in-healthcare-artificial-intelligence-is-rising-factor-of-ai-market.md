@@ -7,7 +7,7 @@ originalUrl: "https://www.xing.com/communities/posts/rising-funding-in-healthcar
 webUrl: "https://www.xing.com/communities/posts/rising-funding-in-healthcare-artificial-intelligence-is-rising-factor-of-ai-market-1015989158"
 type: article
 quality: 63
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -38,6 +38,22 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1633602081-mHealthTeamv1.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "AI incubator makes understanding practical applications as easy as P-ai"
+    excerpt: "The only artificial intelligence club at the 5Cs, P-ai helps students of all computer science levels understand and work with AI."
+    publishedDateTime: 2021-10-08T08:07:00Z
+    webUrl: "https://tsl.news/p-ai-incubator/"
+    ampWebUrl: "https://tsl.news/p-ai-incubator/amp/"
+    cdnAmpWebUrl: "https://tsl-news.cdn.ampproject.org/c/s/tsl.news/p-ai-incubator/amp/"
+    type: article
+    provider:
+      name: tsl.news
+      domain: tsl.news
+    quality: 57
+    images:
+      - url: "https://tsl.news/wp-content/uploads/2021/10/Brynne-Barnard-Bahn_-P-ai.jpeg"
+        width: 3177
+        height: 2037
         isCached: true
   - title: "Using AI in Healthcare to Improve Care Delivery Models"
     excerpt: "Artificial intelligence (AI) has remodeled many industries around the globe, and the field of healthcare is no different. Healthcare providers now realize the benefits technology is offering to them."

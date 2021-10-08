@@ -53,6 +53,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "AI incubator makes understanding practical applications as easy as P-ai"
+    excerpt: "The only artificial intelligence club at the 5Cs, P-ai helps students of all computer science levels understand and work with AI."
+    publishedDateTime: 2021-10-08T08:07:00Z
+    webUrl: "https://tsl.news/p-ai-incubator/"
+    ampWebUrl: "https://tsl.news/p-ai-incubator/amp/"
+    cdnAmpWebUrl: "https://tsl-news.cdn.ampproject.org/c/s/tsl.news/p-ai-incubator/amp/"
+    type: article
+    provider:
+      name: tsl.news
+      domain: tsl.news
+    quality: 57
+    images:
+      - url: "https://tsl.news/wp-content/uploads/2021/10/Brynne-Barnard-Bahn_-P-ai.jpeg"
+        width: 3177
+        height: 2037
+        isCached: true
   - title: "Technology Segment to Witness the AI in Healthcare Market significantly from 2019 to 2030"
     excerpt: "AI in healthcare offers the opportunity to help physicians identify better treatment options, detect cancer at an early stage and engage patients for better healthcare. Companies such as IBM have played a big role in pushing AI into healthcare."
     publishedDateTime: 2021-10-08T01:01:00Z

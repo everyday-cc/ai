@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ford, GM aim to settle trademark fight over hands-free driving"
-    excerpt: "The tit-for-tat legal skirmish began in July when GM sued Ford for violating its trademarked driver-assist technology."
-    publishedDateTime: 2021-10-03T15:40:00Z
-    webUrl: "https://www.autonews.com/technology/ford-gm-aim-settle-trademark-fight-over-hands-free-driving"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Last-Mile-BlueCruise_Mustang_Mach-E.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "GM, Ford to Settle Suit Over Use of 'BlueCruise' Name for Hands-Free Driving"
     excerpt: "General Motors Co and Ford Motor Co have agreed to settle a legal battle over the latter's use of the name \"BlueCruise\" to market its hands-free driving technology. In a notice filed in court late on Friday,"
     publishedDateTime: 2021-10-04T16:31:00Z

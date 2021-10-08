@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Qlik acquires Big Squid"
-excerpt: "Data analytics and integration solutions company Qlik has acquired no-code automated machine learning (AutoML) provider Big Squid. Qlik announced the move as part of its move to expand its data ..."
-publishedDateTime: 2021-10-01T00:54:00Z
-originalUrl: "https://itwire.com/strategy/qlik-acquires-big-squid.html"
-webUrl: "https://itwire.com/strategy/qlik-acquires-big-squid.html"
+excerpt: "Qlik announced the acquisition of Big Squid, a leading provider of no-code automated machine learning (AutoML), to expand data and analytics teams’ ability to"
+publishedDateTime: 2021-10-01T11:03:00Z
+originalUrl: "https://technuter.com/channel-news/qlik-acquires-big-squid.html"
+webUrl: "https://technuter.com/channel-news/qlik-acquires-big-squid.html"
 type: article
 
 provider:
-  name: ITWire
-  domain: itwire.com
+  name: technuter.com
+  domain: technuter.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://itwire.com/media/k2/items/cache/c47dbbac9debca97d35c612a099c13a0_M.jpg"
-    width: 375
-    height: 339
+  - url: "https://technuter.com/wp-content/uploads/2020/05/Qlik.jpg"
+    width: 333
+    height: 285
     isCached: true
 
-secured: "cV5XetUDVjmaKGlWoJmVSnBFaU4lLkxlGzoq9zqnFPDyBq4Xr5nnh3m/CAnNPOyN5AVOVI0T6p9TDuEOV5TOCHkModwwVw8+yAvqojAhy3tXfekBS8nmf2sswq0ZHETvGHfEYaspqKhQjYvpJExl56uwUsA3cN1Zjxv41WyP9upq0dySYxORcgUOB/9eEko7j9itmV5wCZKO3ccWDFGpz9bO6aQTtAzkuH5X3T+KLc1M56MnJC9v3FOmD/UXzclU0t46qUwUqSxO426ohY05wGPnffZrVu8ozbHlSDZyTaAIyGd2IXxlWHLX99s1unBh/Xr2gZdIcwshZdclPd9S0slbt6Lni3CjM1g1Q2t/XUo=;yrlkxGOQDzQld50WBYQk1Q=="
+secured: "bukUNayKsbCv3/Ll+XaKryQxnpK66P9T3Ogz44uZSHu6g/fOYnYp/mVGz+zdZAZu92DXs36HgC3Xkwbf+81JH1FwFwsVN82kE+XLx6nh5IG/gN7CXrVz1abF2ZvIswG4bBhh+/2LIVdFABEaWjHX1mRdG/e7seKP3uhiboYsIvHFW9u2NXTjgE/237U5rgN8Fqmts++FDM7pl8CoPiUJKRK21D3DNrkP5JQcIoDfmUJ/CHS4QnrECiuZ6OoDqyC5RC3e9upF1MXbd2MsuTFatk7kCVxso1e+/tL1AP2DDD/1Gzb+KoEWx+SxcBvhefuDf3GBue77xAgFRB3C8FSuwjSKDIlxEp667rMJXmHbHXc=;oy6fjAQ244HOewgQH/ehmQ=="
 ---
 

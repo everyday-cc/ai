@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/will-the-cloud-eat-y
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/will-the-cloud-eat-your-ai/"
 type: article
 quality: 89
-heat: 111
+heat: 112
 published: true
 
 provider:

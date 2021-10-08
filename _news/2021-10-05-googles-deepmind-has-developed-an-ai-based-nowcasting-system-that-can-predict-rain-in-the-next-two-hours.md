@@ -219,6 +219,20 @@ related:
         width: 620
         height: 350
         isCached: true
+  - title: "Making Sense of DeepMind’s First-Ever Profit"
+    excerpt: "DeepMind has developed breaking innovations, including AlphaFold, a solution to the 50-year-old protein folding problem. According to a corporate filing with the UK company registry published on Tuesday, Google-backed artificial intelligence research firm ..."
+    publishedDateTime: 2021-10-08T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/making-sense-of-deepminds-first-ever-profit/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Behind-DeepMinds-profit-numbers-.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
 
 secured: "cPQmkqC8LktQDV+4w6ZQnEnQMT510O5oOHQ5PgVHSn7WkPvI6TKpc15tmVCXcOUoOYVVa2pDobWvibVlXywGfqDVbJGKQWIb3JpzSxq/nTEKf9NLCc72CSyb2bRRaZR7bhr369qt+j7+rvvsDI+oe+4oYiokrRpjv35hbTwCMs6vjNaSAgz8koAx6OBDQhCjhcwb5MmNttSjMfC3h4CvMxnu79walBJSKVVTE1Pb0Rc6zQVr2l1zUyf52ItYuYDeipiNCEEDgiAFZjZYFyHnZDddvU/cNR/I9ZXXV1JddiNvbQYrBxLgryGWpZJOg5oGsmslk5EQZsZPbIaPOn4m/qam5ivUDKXAtCRat6RbFoGO8ttf+Cw7qj+XOXmRakyt6T1QO1tWF2tYbeOeNwpkGp40jh/gKa8+lTAHTsJbypo20Bc0OaW/6tZT+n66l2slYYhfrMPh5E2IJGBYfY9bbV9UIxhP7dFlw0piiMa45NWYbSPfujdI+/meVJdR8XLGB6xk0nin+Zb8XdLto6ANVw==;YM1n091lnsg0sHS4RLXf4Q=="
 ---
