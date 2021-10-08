@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla wants to share ‘Full Self-Driving’ with other automakers when it has yet to deliver it to people who paid for it"
+    excerpt: "Driving” software to other automakers, but the company has yet to deliver the feature to Tesla owners who paid for it. At Tesla’s shareholder’s meeting yesterday, CEO Elon Musk announced that Tesla is considering licensing its “Full Self-Driving” (FSD) software to other automakers: I think Tesla’s open"
+    publishedDateTime: 2021-10-08T19:03:00Z
+    webUrl: "https://electrek.co/2021/10/08/tesla-share-full-self-driving-other-automakers-when-it-has-yet-to-deliver-it-people-who-paid-for-it/"
+    ampWebUrl: "https://electrek.co/2021/10/08/tesla-share-full-self-driving-other-automakers-when-it-has-yet-to-deliver-it-people-who-paid-for-it/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/08/tesla-share-full-self-driving-other-automakers-when-it-has-yet-to-deliver-it-people-who-paid-for-it/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 80
+    images:
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Want To Join The Tesla Full Self Driving Beta? You’ll Have To Prove You’re A Good Driver First"
     excerpt: "Advertisement If you’re willing to risk your life for the self-driving gimmick, here’s what you can do to join Tesla’s FSD beta… According to InsideEVs, Tesla is finally releasing its Full Self Driving (FSD) Beta button."
     publishedDateTime: 2021-10-05T07:56:00Z

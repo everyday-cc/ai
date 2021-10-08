@@ -47,6 +47,20 @@ related:
         width: 1140
         height: 540
         isCached: true
+  - title: "Glia named to the 2021 CB Insights Fintech 250 list of top Fintech Startups"
+    excerpt: "CB Insights today named Glia, a leading provider of Digital Customer Service, to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology."
+    publishedDateTime: 2021-10-07T20:24:00Z
+    webUrl: "https://www.cuinsight.com/press-release/glia-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 22
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
+        width: 792
+        height: 266
+        isCached: true
   - title: "ComplyAdvantage Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
     excerpt: "CB Insights today named ComplyAdvantage to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. These 250 fintech startups are attacking an incredibly diverse array of financial services opportunities across 19 sectors,"
     publishedDateTime: 2021-10-06T10:05:00Z
@@ -84,6 +98,33 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 4
+  - title: "Fundbox Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
+    excerpt: "CB Insights today named Fundbox to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year’s list was unveiled on stage at CB Insights’ Future of Fintech conference in New York City."
+    publishedDateTime: 2021-10-05T15:30:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8368135/fundbox-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
+  - title: "Quantexa Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
+    excerpt: "Quantexa Logo \"This is the fourth class of the Fintech 250, and it's also the most international, representing 26 countries. These 250 fintech startups are attacking an incredibly"
+    publishedDateTime: 2021-10-05T20:30:00Z
+    webUrl: "https://www.wdbj7.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/"
+    type: article
+    provider:
+      name: WDBJ
+      domain: wdbj7.com
+    quality: 0
+  - title: "Stampli Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
+    excerpt: "CB Insights today named Stampli to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year’s list was unveiled on stage at CB Insights’ Future of Fintech conference in New York City."
+    publishedDateTime: 2021-10-07T14:00:00Z
+    webUrl: "https://www.financialbuzz.com/stampli-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "5aXAANungvgUVcbY6Q+8x5aFUS9RuB/BcgbP/THro2Rn9fmuohj73neSqMYDC8sgJNRyS6CUqcFrYJZ5eQePnI8WVA2sFU0G1cdB8Zki2TJKOwdT1dkdaF32d85K8Yep9sQy6W2q/O1gy9SYCBpB9ySRSgKLYhqJVS2cY2zZJm7K/6hWlpjtIrzJs9v6hLEoUitKAoIZAgCI2jFzT5Ba1qmZDGSq1ijk6fS6zxBsa0N4xG832NzVqrOjKw+V3NegaD52w48tEExoLvvH86IGKLIjDKYbfYd17Z+GoiVPhNmviKIFQzy7YlfUbPMh+DtTL2w7PuDfAJWtV9ynuKDD7Wws9btz4JdeY/JSRad9kcc=;iJwAoX0/NlXFqGnZb7tQAQ=="
 ---

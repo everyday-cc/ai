@@ -20,6 +20,20 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "ScaleOut Software Adds Machine Learning Capabilities to its Twin Streaming Service"
+    excerpt: "ScaleOut Software is adding major extensions to its ScaleOut Digital Twin Streaming Service that enable real-time digital twin software to implement and host machine learning and statistical analysis algorithms."
+    publishedDateTime: 2021-10-08T18:40:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/ScaleOut-Software-Adds-Machine-Learning-Capabilities-to-its-Twin-Streaming-Service-149436.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 33
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "ScaleOut Software Announces Machine Learning Capabilities for its ScaleOut Digital Twin Streaming Service"
     excerpt: "ScaleOut Software today announced major extensions to its ScaleOut Digital Twin Streaming Service™ that enable real-time digital twin software to implement and host machine learning and statistical analysis algorithms that immediately identify unexpected behaviors exhibited by incoming telemetry."
     publishedDateTime: 2021-10-05T14:00:00Z

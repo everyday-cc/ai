@@ -31,92 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Those Unassuming Exurbs That Are Just Beyond The Suburbs Are Aiming To Grow Due To AI Self-Driving Cars"
-    excerpt: "There are recent headlines that people are moving out to the exurbs, a moniker seldom used but that is increasingly becoming known. The odds are that AI self-driving cars will aid in driving the shift toward living in the exurbs."
-    publishedDateTime: 2021-10-04T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/04/those-unassuming-exurbs-that-are-just-beyond-the-suburbs-are-aiming-to-grow-due-to-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/04/those-unassuming-exurbs-that-are-just-beyond-the-suburbs-are-aiming-to-grow-due-to-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/04/those-unassuming-exurbs-that-are-just-beyond-the-suburbs-are-aiming-to-grow-due-to-ai-self-driving-cars/amp/"
+  - title: "Thinking About AI To Grow Your Fashion Or Design Brand? Let These Companies Inspire You"
+    excerpt: "Businesses are using advanced AI technologies to drive customer growth, production management, user analytics and more. This is a list of ten companies that are taking AI to the next level so businesses,"
+    publishedDateTime: 2021-10-08T19:41:00Z
+    webUrl: "https://www.forbes.com/sites/rebeccasuhrawardi/2021/10/08/thinking-about-ai-to-grow-your-fashion-or-design-brand-let-these-companies-inspire-you/"
+    ampWebUrl: "https://www.forbes.com/sites/rebeccasuhrawardi/2021/10/08/thinking-about-ai-to-grow-your-fashion-or-design-brand-let-these-companies-inspire-you/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccasuhrawardi/2021/10/08/thinking-about-ai-to-grow-your-fashion-or-design-brand-let-these-companies-inspire-you/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 73
+    quality: 79
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ee31af9d9c100bf059d7a9%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3939%26cropY1%3D196%26cropY2%3D2411"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61608f297f417592678425ab%2F0x0.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Most Self-Driving Demonstrations Are Theater, Here’s How To Make Them More Real"
-    excerpt: "Many self-driving teams have released videos of their cars driving without problems in order to impress. But cherry picked videos say little. By doing a random route at a random time and showing it live,"
-    publishedDateTime: 2021-10-06T17:46:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/amp/"
+  - title: "Everything You Need to Know About Artificial Intelligence, According ..."
+    excerpt: "Chinmaya Madan of Toronto Explains the Ins and Outs of Artificial Intelligence TORONTO, ON / ACCESSWIRE / October 6, 2021 / Starting back in the 1950s, the fathers of the artificial intelligence (AI) field,"
+    publishedDateTime: 2021-10-06T18:15:00Z
+    webUrl: "https://www.pr-inside.com/everything-you-need-to-know-about-artificial-intelligence-according-r4849874.htm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 70
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 36
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615de07c94907055fb9bcce9%2F0x0.jpg"
-        width: 997
-        height: 555
-        isCached: true
-  - title: "Self-driving cars have brain wave"
-    excerpt: "Self-driving supermarkets and autonomous electric taxis capable of slashing emissions in New York are some of the innovations driving the driverless revolution. The issue of safety is the recurring question though,"
-    publishedDateTime: 2021-10-05T14:28:00Z
-    webUrl: "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/"
-    ampWebUrl: "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/amp/"
-    cdnAmpWebUrl: "https://www-innovatorsmag-com.cdn.ampproject.org/c/s/www.innovatorsmag.com/self-driving-cars-have-brain-wave/amp/"
-    type: article
-    provider:
-      name: innovatorsmag.com
-      domain: innovatorsmag.com
-    quality: 59
-    images:
-      - url: "https://www.innovatorsmag.com/wp-content/uploads/2021/10/erik-mclean-ZWW2SDPaC54-unsplash-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Making self-driving cars human-friendly"
-    excerpt: "Automated vehicles could be made more pedestrian-friendly thanks to new research which could help them predict when people will cross the road."
-    publishedDateTime: 2021-10-05T08:07:00Z
-    webUrl: "https://techxplore.com/news/2021-10-self-driving-cars-human-friendly.html"
-    ampWebUrl: "https://techxplore.com/news/2021-10-self-driving-cars-human-friendly.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-self-driving-cars-human-friendly.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/making-self-driving-ca-1.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Making self-driving cars human-friendly"
-    excerpt: "Automated vehicles could be made more pedestrian-friendly thanks to new research which could help them predict when people will cross the road. Scientists investigating how to better understand human behavior in traffic say that neuroscientific theories of how the brain makes decisions can be used in automated vehicle technology to improve safety and make them more human-friendly."
-    publishedDateTime: 2021-10-06T13:07:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/10/211004203419.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 34
-  - title: "Apple Seeking ‘Radar Test Engineer’ for its Self-Driving Car Project"
-    excerpt: "According to a new job listing, Apple is looking for a Radar Test Engineer for its self-driving car project, reaffirming the company’s commitment towards its autonomous, electric vehicle efforts. “Apple SPG is looking for a Radar Test Engineer to join our Sensors team,"
-    publishedDateTime: 2021-10-05T18:51:00Z
-    webUrl: "https://www.iphoneincanada.ca/news/apple-seeking-radar-test-engineer/"
-    type: article
-    provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
-    quality: 24
-    images:
-      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/10/apple-car.jpg"
-        width: 640
-        height: 335
+      - url: "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "eHArqnZbPow9jpt/wd21SlhuqT0m5BKEq8Je9MO8d7Ebv0FFQqeIt2Jo5uRTIUhhd8sru9QHHHJQEGVfe8KnlrQnUUX7GjRwVhraZ5ltQlEtw/7CLO9CFhu5sgrajxM7ZiPfz9qo67LxSIBAv2RQmqbuBw5YDrTkj1NQjubmsWe4hmEQaLsIYqq+zSZNNWVfvYKXFLjInYBGBdTLA6KWlKHT8uIfE+GixCA5r6R3i0fgN5uzTJ1spoV30fgEHfGnIENAvOtIq72XUJ657YPna9uQoaLXTx+8o+sAx8B5KRhSIH4skNfDSeOlO6caEy52l2RtxWmhmX7B2jEmO0RLQZxiP2hlfn4pBu0+5QU7fJQorlo6X+7vkwOd5pUGc1ahiMVU1YD54r+3ErhhbNfOoa3TVt9rTo1ll6oN5e/y3ZxD/5AGFDZ7pzkC2Xtj5uzaS8TBg/704WMQZJ83OP7CwtUbdVGJ5K0JC99QDKH41gltgMdHjsojAVuQvL+lo3sZKbiyJ1PnuI/F9Fg/tmMtKQ==;pJ/2TOuGOIw3zyanp5qfBA=="

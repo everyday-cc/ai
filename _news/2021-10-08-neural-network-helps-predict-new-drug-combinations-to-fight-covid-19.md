@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/neural-network-helps-predict-new-drug-combi
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/neural-network-helps-predict-new-drug-combinations-to-fight-covid-19/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning predicts hospital-onset COVID-19 infections using patient contact networks"
-    excerpt: "Researchers from the UK recently developed a real-time machine learning framework that uses dynamic patient contact networks to predict hospital-onset COVID-19 infections (HOCIs) at the patient level."
-    publishedDateTime: 2021-10-04T02:43:00Z
-    webUrl: "https://www.news-medical.net/news/20211003/Machine-learning-predicts-hospital-onset-COVID-19-infections-using-patient-contact-networks.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20211003/Machine-learning-predicts-hospital-onset-COVID-19-infections-using-patient-contact-networks.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211003/Machine-learning-predicts-hospital-onset-COVID-19-infections-using-patient-contact-networks.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 49
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/10/shutterstock_1466404403.jpg"
-        width: 1500
-        height: 899
-        isCached: true
   - title: "How Deep Learning Works in the Covid-19 Era: Applications and Limitations of Deep Learning"
     excerpt: "Deep learning is changing the world during the Covid-19 pandemic by detecting fraud, treating illnesses, developing self-driving cars and helping organizations deal with complicated queries."
     publishedDateTime: 2021-10-04T14:32:00Z

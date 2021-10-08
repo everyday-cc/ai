@@ -41,20 +41,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "ICAI holds meet on Artificial Intelligence"
-    excerpt: "The Institute of Cost Accountants of India (ICAI)-Bhubaneswar Chapter held a seminar on “Artificial Intelligence” at the CMA Bhawan here on Sunday. Chief speaker Nalco GM-Systems (Marketing) Ravi Mani"
-    publishedDateTime: 2021-10-05T18:49:00Z
-    webUrl: "https://www.dailypioneer.com/2021/state-editions/icai-holds-meet-on-artificial-intelligence.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 52
-    images:
-      - url: "https://www.dailypioneer.com/images/logo.jpg"
-        width: 325
-        height: 325
-        isCached: true
 
 secured: "McvItgVmvBxHWIBd76fh5zt5tV7MCKn+SC6YhxjJRiQj224Ct64iZ5O/LwYOECzzAw7Q06cUKkQk7xlN6OUPQpzNyGhpSWyVn1F0C81w3wDo6Gr3/I650WRSNOocvRzAgBtFLiZZm3/824xEbjyc8EmTN/tQ0YG1mshkqvHw7vYoPzRC5LULjXKUiTWlG+NRkMRzcYwIbD94HcvHb0L9kKm4JdZFxl4f0wZYBaFdnV1vuiunqcxSh1M/6X+WSU+P/mdE94t7p39T85jxz6kuQmoEEmkvLq0shmJdx6K/8shs73aHXShrHf/b3F0FLg94nbWNOBL5Z5iuwFigkOA1NrrWzmirvkDa2iZjB0xMbE+w7EgUax9Cc7dKATfPmaSdIfmo3nePUuHS3RLGiKeANP+7bctLiwlC9BYfd1AvXLuyNfMEub4QS6kDoe2rOfFIVFlXjEj2/DscZ5Ed1qDLioB1kCLNb5D6zJKADYrbdL8VU9PA93rGAI5zElRwzxbZqlrM8meJdhAPLFXyImCAew==;P0j8fN9e3GHwv3up2YMWxA=="
 ---

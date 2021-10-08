@@ -7,7 +7,7 @@ originalUrl: "https://www.xing.com/communities/posts/technology-segment-to-witne
 webUrl: "https://www.xing.com/communities/posts/technology-segment-to-witness-the-ai-in-healthcare-market-significantly-from-2019-to-2030-1018512512"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -26,76 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Rising Funding in Healthcare Artificial Intelligence is rising factor of AI market"
-    excerpt: "Technology (Machine Learning, Context-Aware Computing, NLP), Application (Drug Discovery, Precision Medicine), End User, And Geography – Global Forecast To 2025. According to OECD estimates, 20% of healthcare spend is wasted globally."
-    publishedDateTime: 2021-10-08T01:02:00Z
-    webUrl: "https://www.xing.com/communities/posts/rising-funding-in-healthcare-artificial-intelligence-is-rising-factor-of-ai-market-1015989158"
+  - title: "Healthcare Artificial Intelligence Market Import-Export Ratio, Revenue, Share, Expansion Rate Forecasts to 2019-2025"
+    excerpt: "Healthcare Artificial Intelligence Market will exceed USD 13 billion by 2025; as per a new research report. Advancements in big data analytics is the key impact rendering factor that drives the healthcare artificial intelligence market growth."
+    publishedDateTime: 2021-10-07T19:30:00Z
+    webUrl: "https://www.xing.com/communities/posts/healthcare-artificial-intelligence-market-import-export-ratio-revenue-share-expansion-rate-forecasts-1016803978"
     type: article
     provider:
       name: XING
       domain: xing.com
-    quality: 63
-    images:
-      - url: "https://swobj.xingassets.com/v1/communities/public-production/content_images/images/003/961/036/main/AI1.jpg?temp_url_sig=fb8375fbaa2489002e0cc76c5f16b6189c4186fc&temp_url_expires=1633701702"
-        width: 475
-        height: 249
-        isCached: true
-  - title: "AI-based Employee Wellness platform mHealth Raises Funding From India Accelerator"
-    excerpt: "The company plans to utilize the funds to improve the platform, enhance customer experience and build a larger stack of wellness services on the platform"
-    publishedDateTime: 2021-10-07T10:21:00Z
-    webUrl: "https://www.entrepreneur.com/article/389851"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 62
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1633602081-mHealthTeamv1.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Using AI in Healthcare to Improve Care Delivery Models"
-    excerpt: "Artificial intelligence (AI) has remodeled many industries around the globe, and the field of healthcare is no different. Healthcare providers now realize the benefits technology is offering to them."
-    publishedDateTime: 2021-10-08T05:35:00Z
-    webUrl: "https://www.cioapplications.com/news/using-ai-in-healthcare-to-improve-care-delivery-models-nid-8668.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 54
-    images:
-      - url: "https://www.cioapplications.com/uploaded_images/magazine_img/tk832cioapplications300x400123.jpg"
-        width: 300
-        height: 400
-        isCached: true
-  - title: "Federal Government Spending on AI is Accelerating"
-    excerpt: "The adoption of AI by the US federal government is accelerating, with defense agencies leading the way and services suppliers benefitting."
-    publishedDateTime: 2021-10-07T18:11:00Z
-    webUrl: "https://www.aitrends.com/ai-in-government/federal-government-spending-on-ai-is-accelerating/"
-    type: article
-    provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 39
-    images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/10/10-8FederalAISpending-2.jpeg"
-        width: 550
-        height: 352
-        isCached: true
-  - title: "AI is now spreading in our everyday products"
-    excerpt: "AI features are becoming standard in consumer applications. Yole announces a US$ 5.6 billion market by 2026. Extracted from: Computing and AI technologies for mobile and consumer"
-    publishedDateTime: 2021-10-06T07:19:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-now-spreading-our-everyday-products-sandrine-leroy"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEf6sjUoXLzww/article-cover_image-shrink_720_1280/0/1633504730473?e=1639008000&v=beta&t=_cmbRle7u1TXmwlotEtYwg3J7q2ZbkWGhzHojbm5_Bg"
-        width: 1171
-        height: 720
-        isCached: true
+    quality: 15
 
 secured: "xQc/MgIgs0MLwBOBabTx8/EY2FVv3vD7XkCFgOqaEmWiMEk+gboodNaA1oNhZ2Y4Gy0ly1aceqBYEZb6qtfb/jQRtWWXzglrilFu5Xht6MTxeWnSbrB5UHIrQQ5o5E3lUV8SL07BduAsfwjavCB7wUNWZXHlDyehFl5r820EZxFGigdbOeWTVQaA2m9rnRDGejr81P3sytVFPKd0P6LofYp82g5g2QSHuDC9qUnBdpVTaGS8XwZLDJqlL2P/KVJj+YtOSnFzhIzVfUO2owXzx+FfQAF+sj460Ar0ij+1NU3tBTXg2rlvGn1IOszoGj61+oXG33tk1J7VJ1Ux4k0sJSjrSSBvFxr9vZgMeFGmJO6mFQi3sCM4/O2YRJcrEgQ8eSM2lg5EETXa2u7yxRXq7v70oxC2V2YiuQLCGhMXGS9dAFgpH1Xo6dfUfvwdC4hP6/Z/CNmlWgV91ER1Kj+HIDfqonSGiXkwFkX5rQ1eMaKI2Ap4ykZruwIj/1XYOwNR8TQUoQKg85hvBHrqM0QoAg==;PolVkAR52CFjap52xJOSKg=="
 ---

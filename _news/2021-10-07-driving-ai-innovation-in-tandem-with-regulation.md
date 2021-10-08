@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-wi
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/amp/"
 type: article
 quality: 91
-heat: 351
+heat: 321
 published: true
 
 provider:
@@ -112,22 +112,6 @@ related:
         width: 612
         height: 355
         isCached: true
-  - title: "POLITICO AI: Decoded: Parliament wants to ban facial recognition— Experimenting with facial recognition rules — Big big bucks in AI"
-    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
-    publishedDateTime: 2021-10-06T09:41:00Z
-    webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-parliament-tests-facial-recognition-waters-experimenting-with-facial-recognition-rules-big-big-bucks-in-ai/"
-    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-parliament-tests-facial-recognition-waters-experimenting-with-facial-recognition-rules-big-big-bucks-in-ai/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-parliament-tests-facial-recognition-waters-experimenting-with-facial-recognition-rules-big-big-bucks-in-ai/amp/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 46
-    images:
-      - url: "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Has China beat the West to detailed AI governance rules?"
     excerpt: "The guidelines are described as being among the more specific that have been enacted worldwide, but based on these descriptions, the rules still feel conceptual"
     publishedDateTime: 2021-10-05T17:05:00Z
@@ -169,20 +153,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/ai-in-search-5f88cc960a6ef.png"
         width: 1600
         height: 840
-        isCached: true
-  - title: "EU is working on legislation on artificial intelligence"
-    excerpt: "Artificial intelligence solutions can be an opportunity to stimulate the economy and make a technological leap. On the other hand, they are also associated with threats, and there are already cases in Europe where artificial intelligence algorithms have been used in a way that raises legal doubts."
-    publishedDateTime: 2021-10-04T09:41:00Z
-    webUrl: "https://wbj.pl/eu-is-working-on-legislation-on-artificial-intelligence/post/132216"
-    type: article
-    provider:
-      name: Warsaw Business Journal
-      domain: wbj.pl
-    quality: 37
-    images:
-      - url: "https://wbj.pl/uploads/images/qd/615acc0819b2d.jpg"
-        width: 600
-        height: 400
         isCached: true
   - title: "Role of conversational AI in shaping businesses and accelerating growth"
     excerpt: "The need for humanizing and speeding up customer interactions is rising rapidly. Customers expect businesses to assist them 24/7, anticipate their needs, and provide a quick resolution of issues. Companies deploy AI-powered assistants to"
@@ -320,20 +290,6 @@ related:
       - url: "https://www.akm.ru/upload/iblock/eb7/NLMK_NLMK.jpg"
         width: 600
         height: 399
-        isCached: true
-  - title: "Do we need international rules for artificial intelligence? Three points in the EU proposal for AI regulation that you should know"
-    excerpt: "There is no dedicated legislation on AI in Finland or the European Union. The European Commission has recently made a proposal for regulation of AI. Susanna Lindroos-Hovinheimo, professor in public law at the University of Helsinki,"
-    publishedDateTime: 2021-10-06T19:22:00Z
-    webUrl: "https://www.helsinki.fi/en/news/artificial-intelligence/do-we-need-international-rules-artificial-intelligence-three-points-eu-proposal-ai-regulation-you-should-know"
-    type: article
-    provider:
-      name: Helsinki
-      domain: helsinki.fi
-    quality: 22
-    images:
-      - url: "https://www.helsinki.fi/assets/drupal/styles/og_images/s3/media-image/Susanna%20kuva%201.png?itok=PDMZJ6KA"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Revival AI Announces Regulation A+ Offering to Revolutionize Bible Publishing Through Customization, AI, and Automation"
     excerpt: "Revival AI, a Bible customization firm driven by some of today's most groundbreaking technology, is pleased to announce the launch of its Regulation"

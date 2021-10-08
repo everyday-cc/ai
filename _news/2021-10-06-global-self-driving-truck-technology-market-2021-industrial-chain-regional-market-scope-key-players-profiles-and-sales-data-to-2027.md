@@ -31,20 +31,18 @@ images:
 
 related:
   - title: "Emotion Detection and Recognition Markets by Solution, Application, Technology, & End-User - Global Forecast to 2027 - ResearchAndMarkets.com"
-    excerpt: "The \"Emotion Detection and Recognition Market 2021-2027\" report has been added to ResearchAndMarkets.com's offering. The Emotion Detection and Recognition Market"
+    excerpt: "The “Emotion Detection and Recognition Market 2021-2027” report has been added to ResearchAndMarkets.com’s offering. The Emotion Detection and Recognition Market is anticipated to grow at the rate of 11."
     publishedDateTime: 2021-10-07T14:44:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/10/b23282184/emotion-detection-and-recognition-markets-by-solution-application-technology-end-user-global-forec"
-    ampWebUrl: "https://www.benzinga.com/amp/content/23282184"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23282184"
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-0ff909975c8c48178df310e92e8eadad"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 9
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
     images:
-      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
-        width: 1200
-        height: 600
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "RdAaVJHsjH0+7Ybhnqz6Ol9ayoYnebX88CMMqoXiFF69y46sFmNZRJuIQwVxAe0GMf6q1c/nyOcsMQz2tJbD3vZCh4f05oYmhWIbJ7tYQDdL1egup8MpudqVUCexSxEOQFRkr0w88Sqq6SyajkOY+ax3qKSHFIzg25ucYU2J/1zNUp7iSjOOCpl+cofbTe8Jn8pHG0w3LJAb5G+ZyTQPq+7OkRFc5+Ys8dVHfRi+IWvHhChQCYsVi0caWoW/J4Q+oi0PIGxlobOB4bMSB2q9YKdETl9R0t/PL5/tw1Zz/TC8JuvVUm7nVkXObh3L+LolrxXy1B1Jsk8UbywahkO1+JNoY4D1vmT8gKIfmZXLneo=;DXdKRqh3SRRM2aNaL547PA=="

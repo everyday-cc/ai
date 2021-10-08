@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/ai-now-spreading-our-everyday-produ
 webUrl: "https://www.linkedin.com/pulse/ai-now-spreading-our-everyday-products-sandrine-leroy"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,78 +26,6 @@ images:
     width: 1171
     height: 720
     isCached: true
-
-related:
-  - title: "Rising Funding in Healthcare Artificial Intelligence is rising factor of AI market"
-    excerpt: "Technology (Machine Learning, Context-Aware Computing, NLP), Application (Drug Discovery, Precision Medicine), End User, And Geography – Global Forecast To 2025. According to OECD estimates, 20% of healthcare spend is wasted globally."
-    publishedDateTime: 2021-10-08T01:02:00Z
-    webUrl: "https://www.xing.com/communities/posts/rising-funding-in-healthcare-artificial-intelligence-is-rising-factor-of-ai-market-1015989158"
-    type: article
-    provider:
-      name: XING
-      domain: xing.com
-    quality: 63
-    images:
-      - url: "https://swobj.xingassets.com/v1/communities/public-production/content_images/images/003/961/036/main/AI1.jpg?temp_url_sig=fb8375fbaa2489002e0cc76c5f16b6189c4186fc&temp_url_expires=1633701702"
-        width: 475
-        height: 249
-        isCached: true
-  - title: "AI-based Employee Wellness platform mHealth Raises Funding From India Accelerator"
-    excerpt: "The company plans to utilize the funds to improve the platform, enhance customer experience and build a larger stack of wellness services on the platform"
-    publishedDateTime: 2021-10-07T10:21:00Z
-    webUrl: "https://www.entrepreneur.com/article/389851"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 62
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1633602081-mHealthTeamv1.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Using AI in Healthcare to Improve Care Delivery Models"
-    excerpt: "Artificial intelligence (AI) has remodeled many industries around the globe, and the field of healthcare is no different. Healthcare providers now realize the benefits technology is offering to them."
-    publishedDateTime: 2021-10-08T05:35:00Z
-    webUrl: "https://www.cioapplications.com/news/using-ai-in-healthcare-to-improve-care-delivery-models-nid-8668.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 54
-    images:
-      - url: "https://www.cioapplications.com/uploaded_images/magazine_img/tk832cioapplications300x400123.jpg"
-        width: 300
-        height: 400
-        isCached: true
-  - title: "Technology Segment to Witness the AI in Healthcare Market significantly from 2019 to 2030"
-    excerpt: "AI in healthcare offers the opportunity to help physicians identify better treatment options, detect cancer at an early stage and engage patients for better healthcare. Companies such as IBM have played a big role in pushing AI into healthcare."
-    publishedDateTime: 2021-10-08T01:01:00Z
-    webUrl: "https://www.xing.com/communities/posts/technology-segment-to-witness-the-ai-in-healthcare-market-significantly-from-2019-to-2030-1018512512"
-    type: article
-    provider:
-      name: XING
-      domain: xing.com
-    quality: 47
-    images:
-      - url: "https://swobj.xingassets.com/v1/communities/public-production/content_images/images/005/374/922/main/smart-robotic-artificial-intelligence-medical-set_81522-4748.jpg?temp_url_sig=c6b7267cc7e67978cedab3eedcd727ec1e33b608&temp_url_expires=1633701665"
-        width: 475
-        height: 267
-        isCached: true
-  - title: "Federal Government Spending on AI is Accelerating"
-    excerpt: "The adoption of AI by the US federal government is accelerating, with defense agencies leading the way and services suppliers benefitting."
-    publishedDateTime: 2021-10-07T18:11:00Z
-    webUrl: "https://www.aitrends.com/ai-in-government/federal-government-spending-on-ai-is-accelerating/"
-    type: article
-    provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 39
-    images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/10/10-8FederalAISpending-2.jpeg"
-        width: 550
-        height: 352
-        isCached: true
 
 secured: "9fofQ0DTggwAJtKMJsiOVqBEd81ncSDf7ZwjoFCuNuyYf+lARfjg3R/SCnD7oame0zDv0hcttugajO70Qr/t0inFIetcZpJGCAFy6i1V2EeuO5mg3kA6lQHumCyOSTKrqn3ZuI893qT/tiBcU3WlNlxWcKgxyJ6NSY/jdX+TlqMQwvuU2/lX8/Tm1Z+kJZAv4Tubf3jgx6oCA55bPoMDF1hglujBir7AAtR9GDWkpzbiqZp+FR7HddUeCftLoP5NEWqrEH/GFTp9M9spBaPa4qZGoIRYpuHW5N3ENHrHji6/E+FP8ZO2+gjK9nmSzij+teTDqAq0zCtM2vj//ggzJ4ArowYTkCWk13VFHp/Z9nAuzw5Vcw7VgAKr84qfPJJIw2fvAsJyCn2bHm6i/lMAW9C98fueffuTdgVtR7Reh+TTOUXnlZFjSxcGN1CJ7PiYxwlMrWkL9/W+P9rrI3uoo6zijubY/EXRFbaKpCSxGCTFgAoBrtlpHdM7f7udnhw0hWxKQ0UEjXDPLATYQDaDzA==;YqiKViU/ACAF1K8ylCeyDQ=="
 ---

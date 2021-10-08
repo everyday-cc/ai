@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-08T16:08:00Z
 originalUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-market/"
 webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-market/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.datamation.com/wp-content/uploads/2021/10/artificial-intelligence-g48cb9bf7d_1920.jpg"
@@ -65,6 +66,6 @@ related:
       domain: bio-itworld.com
     quality: 19
 
-secured: "wihYdyog7SV6yXShEnaWsp1UE2nhDT9wfNPHoqqRPiMQamqpqwvtn6akkBNsPSGG/2XWAzgum5WpoBeqJ9aQp1AH9zQ++Oc1N2fNCeV07LmENhvWlRkPqNPZiRZ0J+n62246E4fmIX7kEtay5agQcnHCii//67X3G5a729fkaNYz8KWc3Bfnz7lAH0TnkYNGnZKg3TL8AFZxn4tB4t3wR7gVfEgqiXxCHE2ky5cV4Y2NMNSZn324T10zuB+q7pd+eK4DYUFnFbUWcHgYh6wr0XJ4n6zFnDJHd92FzXXoY+yBcCsZ6RaGLhh0Rb1isw9vZLvfqKDAAi9LxHls9H2o/IEH52/Vf2Le7hne/WYAN9Q=;PePKv/b9aVJWH15qDO066A=="
+secured: "lFD4lTPZ2XtFGbYBvXS9O3CV4JR5LITZ3U/HhH/ma4b668PN6Zb367MIm7FRewkWEz9730VYsXGkgezwYa6Gl3FYuaFf2dGs1T4W1nKQYNs7nzfxIi/PDU6glkHnLw4kaIig/69cw9HgiOL12PxJDLC9kiSQw5Hf/ebkJLkyeUVUVOZQov39DzBASnXifMlKyljJ/GUkgLTwR4YNUEp+wp++cKpDR8IGgfy3X1UR1AXwuT8IoCujUoGDV6Z8NhgXk0+pMZ5UUX9TLwbK0Leycfu5OfHbJy0XssSURFxu7i92lNiMvomBRoHhYDD0NWU5spYvDCh5OI3EhW2mO09VM6AriCyOvN9wJ2NXiHxfpkEd1tXxs8UsZT3DcokMYaer5RXdSyeLGFMcGAEmCiNoP8IKhoR66ROfKjL/PchHftECx1JlwLJss/eFNVy3oAU8h5mVLznTuTc8vHj70mObEjrVODzJd+2ZOucoAn9gr+Iz5xhYVm6S2gBg5FWvW6A7A0rTuI9AaBqZyVURlZiH5A==;k5PeBUdz1x7au6zR7VEreA=="
 ---
 

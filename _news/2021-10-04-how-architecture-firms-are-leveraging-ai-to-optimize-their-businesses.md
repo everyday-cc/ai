@@ -38,6 +38,15 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "AI in Financial Asset Management Market Trends, Business Outlook"
+    excerpt: "Report Pages ] In recent years, financial institutions are adopting the artificial intelligence (AI) technology for managing their financial assets and reducing operating cost, thereby increasing the revenue."
+    publishedDateTime: 2021-10-08T12:12:00Z
+    webUrl: "https://www.pr-inside.com/ai-in-financial-asset-management-market-trends-business-outlook-r4850183.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 19
 
 secured: "DEll3/32fifQ7/zcaJ/cr6cbHKE81jiah0MQuaDTlsS+dut/WhE63Gi36sPISAnrIXiUfTe5kSVQ6x5tHnXgjGHg2K1aisfvrsPDvyuZTDT653ph1a8CDkY6Ggiap4EItpI7Llcvvh09uvcP8I4znVmerVJrfmNfFd1osySK/vTjnCFi/hpZLRY9N9eB/HlQOFC97gsQy0lQ6AqCQO+K5/16LeFnWqjVw+DUKddiyR2t6rtmWk5leTFIbDdEXevgp5oG349pJ0uxDR4mWJT02oN1xRFlnkUMXo+b6xiZisEDUj6voYt1jFyRcGMVbEv5MZ+Kpgs5w0eBaFCAUmC8+YOz671ThtyBriXsz+HSBO4AdzlPY1M3Iknc2qSCslU6DjeGBVTDKyzWR++ubV7CelKbzOUJSdTmtrtd7bv/+IEjZhIRdstQKQ5BehbFYoNKfdQB+GnCLQY6Tlms4THDhZ9QYHIG8+YPhNnpYokidzchWyO7WOmDxjejzpRoeEjFfVLY3LOZHRPHPLqj3Cmg1g==;hUgZwJCE5Re+9xEnwIUQ2w=="
 ---

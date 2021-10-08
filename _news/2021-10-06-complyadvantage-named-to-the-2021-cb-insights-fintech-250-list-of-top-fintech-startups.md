@@ -53,6 +53,20 @@ related:
         width: 1140
         height: 540
         isCached: true
+  - title: "Glia named to the 2021 CB Insights Fintech 250 list of top Fintech Startups"
+    excerpt: "CB Insights today named Glia, a leading provider of Digital Customer Service, to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology."
+    publishedDateTime: 2021-10-07T20:24:00Z
+    webUrl: "https://www.cuinsight.com/press-release/glia-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 22
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
+        width: 792
+        height: 266
+        isCached: true
   - title: "Airwallex Named to the 2021 CB Insights Fintech 250 List; Recognized as Top Fintech Startup for Fourth Successive Time"
     excerpt: "Airwallex honored for achievements in Payments, Processing & Networks CategorySAN FRANCISCO--(BUSINESS WIRE)--CB Insights today named Airwallex to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology."
     publishedDateTime: 2021-10-07T07:00:00Z
@@ -76,6 +90,15 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 4
+  - title: "Fundbox Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
+    excerpt: "CB Insights today named Fundbox to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year’s list was unveiled on stage at CB Insights’ Future of Fintech conference in New York City."
+    publishedDateTime: 2021-10-05T15:30:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8368135/fundbox-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
   - title: "Onfido Named to 2021 CB Insights Fintech 250 List of Top Fintech Startups for Fourth Year Running"
     excerpt: "CB Insights today named Onfido to its fourth annual Fintech 250 for the fourth year running. Fintech 250 is a prestigious list of emerging private com"
     publishedDateTime: 2021-10-05T20:44:00Z
@@ -84,6 +107,24 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
+    quality: 0
+  - title: "Quantexa Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
+    excerpt: "Quantexa Logo \"This is the fourth class of the Fintech 250, and it's also the most international, representing 26 countries. These 250 fintech startups are attacking an incredibly"
+    publishedDateTime: 2021-10-05T20:30:00Z
+    webUrl: "https://www.wdbj7.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/"
+    type: article
+    provider:
+      name: WDBJ
+      domain: wdbj7.com
+    quality: 0
+  - title: "Stampli Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
+    excerpt: "CB Insights today named Stampli to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year’s list was unveiled on stage at CB Insights’ Future of Fintech conference in New York City."
+    publishedDateTime: 2021-10-07T14:00:00Z
+    webUrl: "https://www.financialbuzz.com/stampli-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 0
 
 secured: "3jUjisrTUOWPbxe9+mIJjVCTp3hhqAkxfB0/VJGjPZi2/CsS0qLI5DOlHMkCMAk4g3aVfwBLnjLqM0PRlh4Ws4CYk/X02LWZKKki1zLOCRtNolMMvKSK45aIok9ohMO2hx/A8W9BzTtBkwVvKMa/sAl5bPh8nX7GkMpvX0dtOvADs0ePoFd3eVkWnj5WVsh3dvROmhtl3C8QJWELrvKyBClq8KWN75vVF8v5ewHq0VCxVUTRl337/AwR75K1y1PWPBeZH3hCljpxvGL6/TFf/6etOinjaY9MXbb1E3Dpo1xBnL8d+X1DefBo8eNy56kPz84b8O2umjYSzmqaHSq5DoGjsO/HhsoAiCHzt5pb0Wg=;3RnKCmuOcnqzmD6K/jsM/A=="

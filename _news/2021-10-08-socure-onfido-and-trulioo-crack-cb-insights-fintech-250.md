@@ -39,6 +39,20 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Glia named to the 2021 CB Insights Fintech 250 list of top Fintech Startups"
+    excerpt: "CB Insights today named Glia, a leading provider of Digital Customer Service, to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology."
+    publishedDateTime: 2021-10-07T20:24:00Z
+    webUrl: "https://www.cuinsight.com/press-release/glia-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 22
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
+        width: 792
+        height: 266
+        isCached: true
   - title: "ComplyAdvantage Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
     excerpt: "CB Insights today named ComplyAdvantage to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. These 250 fintech startups are attacking an incredibly diverse array of financial services opportunities across 19 sectors,"
     publishedDateTime: 2021-10-06T10:05:00Z
@@ -76,6 +90,15 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 4
+  - title: "Fundbox Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
+    excerpt: "CB Insights today named Fundbox to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year’s list was unveiled on stage at CB Insights’ Future of Fintech conference in New York City."
+    publishedDateTime: 2021-10-05T15:30:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8368135/fundbox-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
   - title: "Onfido Named to 2021 CB Insights Fintech 250 List of Top Fintech Startups for Fourth Year Running"
     excerpt: "CB Insights today named Onfido to its fourth annual Fintech 250 for the fourth year running. Fintech 250 is a prestigious list of emerging private com"
     publishedDateTime: 2021-10-05T20:44:00Z
@@ -85,7 +108,25 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 0
+  - title: "Quantexa Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
+    excerpt: "Quantexa Logo \"This is the fourth class of the Fintech 250, and it's also the most international, representing 26 countries. These 250 fintech startups are attacking an incredibly"
+    publishedDateTime: 2021-10-05T20:30:00Z
+    webUrl: "https://www.wdbj7.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/"
+    type: article
+    provider:
+      name: WDBJ
+      domain: wdbj7.com
+    quality: 0
+  - title: "Stampli Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
+    excerpt: "CB Insights today named Stampli to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year’s list was unveiled on stage at CB Insights’ Future of Fintech conference in New York City."
+    publishedDateTime: 2021-10-07T14:00:00Z
+    webUrl: "https://www.financialbuzz.com/stampli-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
-secured: "3eoNuTTH7g4VShEf1/Sf8PWMYYwPhctGWmzAPMEMTYl4SpV/nkXCfO/qCLNeYz/JxCwazgUHMc4gz00FkudUecwMioDgQICxzlcTrl7TLYw5V/J6JpzHf/YDNCEn4GVL18RbG4nTc0wEzz8YAeYUoG92egY3xQRf374AEXZroCxe4hY8siqxN4qUJIQYk1cBIznXWrAty2T7TOqlw6JWmySVcC0OlYn/BmbTlveyzG4m/hnUqszLNTw2vJBmmZmxQgx14ynWmPgMtq6S2Jk+GV/zkbWy2DtI6PnpTIL97/EM/Qr2URzi8JXfBpCinHJ1IWYBeQ4+S0dcaHgeR/xOUERot3FLO60cOsqrykOHKkw=;WzIPdGyYKDt1wioPc32YAA=="
+secured: "42kCFpnnMYjycyWW06LxrDnDz66aULWD1E0UxA+DhpZBTcooy4XyzIXjo65taPXsHm0cZjLMti9WFrrGFPVuu6XvIOQ79vfvoYcxcrphMsckx5r9POIxb+Obw55K/lBXwOtZ3rTYUqKbyA9tHZRadprjWFB4mKp0qT1lgtoP15MiRQSy0LanE14t+ISKJGBpYDpzFq2ENJOm1wiQUGP0WMJjwMl7biVGiK1DgqBQ0QjrFkbrqPxFBAenPO+2NjrEzykVzBdsAaTC/89l7PDeVCnlJNLMtC3ugeTP/66c/diLq/38+bPW+2utdfP08K7a/30MVZDJRKVQbowM7qQ4hBpTD+GyhHINDIiy4jdVWQKiSRDTGR7sSnlZs6qivEiW6Y6pBCXEV7EOQfjTWQ590wh2nd/hC6Woo2Bq8ErG8jjnhyjWbzuKwjhdHOwwtjdWMqSJA23b69OUK3zwzSvvKnzTfiWwQYwmGUFT7V8Wj1aPwMqwhqA+4b8dWCzQgWVbspJUCKylsOij1BlurxKywQ==;dpN23ku3CIbE2/F72EYoZw=="
 ---
 

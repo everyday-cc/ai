@@ -53,7 +53,7 @@ related:
     provider:
       name: Datamation
       domain: datamation.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.datamation.com/wp-content/uploads/2021/10/artificial-intelligence-g48cb9bf7d_1920.jpg"
         width: 1920

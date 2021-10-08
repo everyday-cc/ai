@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 682
         isCached: true
+  - title: "Data and Artificial Intelligence - Apeiron Techno Venture's Contribution in the 500 Billion Dollar Opportunity for India"
+    excerpt: "\"Data and artificial intelligence (AI) could add USD 500 billion to India's Gross Domestic Product by 2025, consultancy McKinsey & Co and IT industry lobby group Nasscom have forecasted.\" After considering the past term many data companies including Apeiron Techno Ventures,"
+    publishedDateTime: 2021-10-08T18:16:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20211008/3833427.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "QVHcV0u6SG4u++8r88kS4Bomn3vPsTVtYiNh9/AX5HHSdIAz5s83azxyytZA09M787dfWZJmXRTFVjF/Ui5MwbU/iHD0rxGfE3lTBLFrUMEi6AR621nDvt1WQChsek674r1gRqql/wqvrvMkGEvskCLlRorVxF9NeUltGdLcE7bSi9Ylt0CNkypG6gsuFQHYP7x4HtRpE/AYnKkGXXtFbvGo8GS8hJZ9PdQr6FVKlKEKmuDmdTb/C7/ZcUU9/V3HeDLJaC7/FoDm8TfQPBw8NTjLKhUME7M+b5FOjPZX2yvMpFomI40evTFB9p/Jq+JuIgRYAfHaIXhHBY6zJ8Op3CzxvRSPadviQPPnyxWySXA=;n6tM/rarCDiyhlo5jUk+mg=="
 ---

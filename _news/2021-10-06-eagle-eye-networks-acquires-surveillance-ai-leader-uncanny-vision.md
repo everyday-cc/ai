@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1102921196/Eagle-Eye-Networks-Acquires-Surveill
 webUrl: "https://menafn.com/1102921196/Eagle-Eye-Networks-Acquires-Surveillance-AI-Leader-Uncanny-Vision"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Kerala Based AI Startup Uncanny Vision Acquired by Cloud Video Surveillance Platform Eagle Eye"
-    excerpt: "All 60 Uncanny Vision employees will be retained, and Eagle Eye plans to expand the Bangalore office, current customers will be served same."
-    publishedDateTime: 2021-10-07T06:28:00Z
-    webUrl: "https://analyticsindiamag.com/kerala-based-ai-startup-uncanny-vision-acquired-by-cloud-video-surveillance-platform-eagle-eye/"
+  - title: "BI Leader Qlik Goes AI, Acquires AutoML Provider Big Squid"
+    excerpt: "Qlik, a BI and data integration leader, announced the acquisition of Big Squid and its no-code automated machine learning (AutoML) software platform. This acquisition will expand Qlik’s existing SaaS roadmap and bring new capabilities to the platform."
+    publishedDateTime: 2021-10-08T18:46:00Z
+    webUrl: "https://thenewstack.io/bi-leader-qlik-goes-ai-acquires-automl-provider-big-squid/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 54
+    images:
+      - url: "https://cdn.thenewstack.io/media/2021/10/03142f53-qlik.png"
+        width: 650
+        height: 450
+        isCached: true
+  - title: "Alas, Google Wins The AutoML Race"
+    excerpt: "Google most certainly raises eyebrows when it comes to AutoML. In May 2021, when the tech giant announced the general availability of Vertex AI, it changed the way enterprises look at deploying and maintaining AI models for the better."
+    publishedDateTime: 2021-10-07T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/alas-google-wins-the-automl-race/"
     type: article
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 25
+    quality: 39
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/edited.jpeg"
-        width: 2500
-        height: 1305
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Alas-Google-Wins-The-AutoML-Race-.jpeg"
+        width: 2048
+        height: 1152
         isCached: true
 
 secured: "ZXm/nQweVR9RO32gySfZRFMMzeiYHJfCovFlqp3jU+JMCLq/M9yXIR2vx70qFg/ElqHnY/MBtM+kPk6nR6V9w/GVfeJjaFEOK9ZPt7f3CPa1JnSBeMHEJjXKMMQUzgmdHcgm5M5GYAt/qXmPLM1mtgmt+Z7ZZs1qxUUqoOZhg0lL3aEgD+HF90haPwML+EVJAzolkR5ispXbdd6h3IhhfeWbVX4lyl9TIPBXa8edmassVQkMeV1bdrpzx3Vm74Z1BISqXTCUOPRJ9HOnRN4csRNJoZnmOK8yHlVAWa2cBlscXsPA1WvHzEIMDYUMFP046ewAO5S7D88PmeKEZ3H50wmmeGHqTxc4Fi3RIzNruns=;GbhtkPPnj1YCA+Y2CXiOcA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://europeansting.com/2021/10/05/this-is-best-practice-for-using
 cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 89
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "It’s time to start regulating facial recognition technology"
-    excerpt: "Its time for regulation to be stepped up in facial recognition technology as there is no oversight, governance, or accountability at the present moment."
-    publishedDateTime: 2021-10-04T18:13:00Z
-    webUrl: "https://techhq.com/2021/10/regulation-on-facial-recognition-needed/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 41
-    images:
-      - url: "https://cdn2.techhq.com/wp-content/uploads/2018/12/000_1SN6GC.jpg"
-        width: 1024
-        height: 681
-        isCached: true
   - title: "EPP refuse call to ban public facial recognition systems for policing"
     excerpt: "MEPs for the first time call for a moratorium on the deployment of facial recognition systems for law enforcement purposes"
     publishedDateTime: 2021-10-06T13:02:00Z
@@ -70,20 +56,6 @@ related:
       - url: "http://cdn.maltatoday.com.mt/ui_frontend/thumbnail/684/400/facial_recogniton_cctv.jpeg"
         width: 684
         height: 400
-        isCached: true
-  - title: "MEPs back EU facial-recognition ban for police"
-    excerpt: "The European Parliament has backed a moratorium on facial recognition for law-enforcement purposes – bypassing attempts from members of the European People's Party aiming to torpedo the ban on biometric mass surveillance in public spaces."
-    publishedDateTime: 2021-10-06T05:12:00Z
-    webUrl: "https://euobserver.com/democracy/153135"
-    type: article
-    provider:
-      name: EUobserver
-      domain: euobserver.com
-    quality: 24
-    images:
-      - url: "https://s3.eu-central-1.amazonaws.com/euobs-media/ba0ac1bd9cc3914b8374fa3f91e10762-480x.jpg"
-        width: 480
-        height: 322
         isCached: true
   - title: "West Lafayett City Council Votes in Favor of Banning Government Use of Facial Recognition Technology"
     excerpt: "The West Lafayette City Council took up a vote to ban Government use of Facial Recognition Surveillance technology. The council was split on its decision."

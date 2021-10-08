@@ -7,8 +7,8 @@ originalUrl: "https://www.xing.com/communities/posts/rising-funding-in-healthcar
 webUrl: "https://www.xing.com/communities/posts/rising-funding-in-healthcare-artificial-intelligence-is-rising-factor-of-ai-market-1015989158"
 type: article
 quality: 63
-heat: 113
-published: true
+heat: -1
+published: false
 
 provider:
   name: XING
@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI-based Employee Wellness platform mHealth Raises Funding From India Accelerator"
-    excerpt: "The company plans to utilize the funds to improve the platform, enhance customer experience and build a larger stack of wellness services on the platform"
-    publishedDateTime: 2021-10-07T10:21:00Z
-    webUrl: "https://www.entrepreneur.com/article/389851"
+  - title: "Researchers, UW educators see a bright future for AI in healthcare"
+    excerpt: "The three speakers shared how companies, including Wisconsin’s postsecondary institutions, are using technology to improve human health."
+    publishedDateTime: 2021-10-08T17:45:00Z
+    webUrl: "https://madison.com/ct/news/local/education/researchers-uw-educators-see-a-bright-future-for-ai-in-healthcare/article_e000507c-1f33-5a53-ac2d-44541ad8fad2.html"
+    ampWebUrl: "https://madison.com/news/local/education/researchers-uw-educators-see-a-bright-future-for-ai-in-healthcare/article_e000507c-1f33-5a53-ac2d-44541ad8fad2.amp.html"
+    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/education/researchers-uw-educators-see-a-bright-future-for-ai-in-healthcare/article_e000507c-1f33-5a53-ac2d-44541ad8fad2.amp.html"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 62
+      name: Madison.com
+      domain: madison.com
+    quality: 74
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1633602081-mHealthTeamv1.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/4/34/434fa0a6-a033-58ed-b6ed-576a955cf1b5/61536cc229786.image.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "As Healthcare Sees a Shiny Future with AI, Some See Some Glare"
+    excerpt: "Artificial intelligence technology has reached the point where even early adopters are asking what its limits should be."
+    publishedDateTime: 2021-10-08T13:25:00Z
+    webUrl: "https://www.managedhealthcareexecutive.com/view/as-healthcare-sees-a-shiny-future-with-ai-some-see-some-glare"
+    type: article
+    provider:
+      name: Managed Healthcare Executive
+      domain: managedhealthcareexecutive.com
+    quality: 54
+    images:
+      - url: "https://cdn.sanity.io/images/0vv8moc6/mhe/51bb925ee182929f2934e0f4b6b6e9b20ab2c2cf-1000x600.png?fit=crop&auto=format"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Using AI in Healthcare to Improve Care Delivery Models"
     excerpt: "Artificial intelligence (AI) has remodeled many industries around the globe, and the field of healthcare is no different. Healthcare providers now realize the benefits technology is offering to them."
@@ -52,48 +68,6 @@ related:
       - url: "https://www.cioapplications.com/uploaded_images/magazine_img/tk832cioapplications300x400123.jpg"
         width: 300
         height: 400
-        isCached: true
-  - title: "Technology Segment to Witness the AI in Healthcare Market significantly from 2019 to 2030"
-    excerpt: "AI in healthcare offers the opportunity to help physicians identify better treatment options, detect cancer at an early stage and engage patients for better healthcare. Companies such as IBM have played a big role in pushing AI into healthcare."
-    publishedDateTime: 2021-10-08T01:01:00Z
-    webUrl: "https://www.xing.com/communities/posts/technology-segment-to-witness-the-ai-in-healthcare-market-significantly-from-2019-to-2030-1018512512"
-    type: article
-    provider:
-      name: XING
-      domain: xing.com
-    quality: 47
-    images:
-      - url: "https://swobj.xingassets.com/v1/communities/public-production/content_images/images/005/374/922/main/smart-robotic-artificial-intelligence-medical-set_81522-4748.jpg?temp_url_sig=c6b7267cc7e67978cedab3eedcd727ec1e33b608&temp_url_expires=1633701665"
-        width: 475
-        height: 267
-        isCached: true
-  - title: "Federal Government Spending on AI is Accelerating"
-    excerpt: "The adoption of AI by the US federal government is accelerating, with defense agencies leading the way and services suppliers benefitting."
-    publishedDateTime: 2021-10-07T18:11:00Z
-    webUrl: "https://www.aitrends.com/ai-in-government/federal-government-spending-on-ai-is-accelerating/"
-    type: article
-    provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 39
-    images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/10/10-8FederalAISpending-2.jpeg"
-        width: 550
-        height: 352
-        isCached: true
-  - title: "AI is now spreading in our everyday products"
-    excerpt: "AI features are becoming standard in consumer applications. Yole announces a US$ 5.6 billion market by 2026. Extracted from: Computing and AI technologies for mobile and consumer"
-    publishedDateTime: 2021-10-06T07:19:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-now-spreading-our-everyday-products-sandrine-leroy"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEf6sjUoXLzww/article-cover_image-shrink_720_1280/0/1633504730473?e=1639008000&v=beta&t=_cmbRle7u1TXmwlotEtYwg3J7q2ZbkWGhzHojbm5_Bg"
-        width: 1171
-        height: 720
         isCached: true
 
 secured: "zBGAznZMFsOk4PB/Tiz8J+6AW9ZMO1RmPoJ0OSmxUqWaFgOPu66Ty0cm59OkDKxUyrB3EYD4nR4Ox9OADrrpcDKNMAv/K8oqKllDIEhmbx5TWF5+rPaS0OLkstq+FGin+s6v/ji8dFay9FE9fJeCN2o2uwpXI4C0YZiCSzpO91t6oy0eJ1rTtb8692qRy0mm3xRLYh3BL4FmZwdpGcokYsHlUFeOP7oCHochk2ASwoNBhV864VFGbPM28h58jWf4EbitAUcz7BvGl3wvSexCiUGPIkAxM/QcGZcFccfpILIMxLSLV5wTsqi5uGaLxdySoqJI5gOgoysv+4XJ1UE5Ug9L3knNyjQMzYn7fHVbUgceRj0u7d2tmsUrGF2Ezg1wJTK3UbU0djATiAOcHx6rV/9GkI0ZY6yJoIblu9viJHWcydIUWiRtIWcQSqk+F+BOy0g5d8CDGNS8dojLAhmxCGbcE6WXkMLljr+CzZLywtlk+KHPKxgibYR2uwrKWEaH0FQbbjGCRQPwyfNsTfR2vA==;geRonaqzx2BOWk2ptFubJw=="
