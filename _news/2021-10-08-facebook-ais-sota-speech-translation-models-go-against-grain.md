@@ -1,34 +1,27 @@
 ---
 category: news
-title: "Facebook Snafu Prompts Realization About Rescuing AI Self-Driving Cars From Single Points Of Failure"
-excerpt: "Why singles points of failure are dangerous for self-driving cars and how redundancy is needed to aid in reducing risks."
-publishedDateTime: 2021-10-06T15:30:00Z
-originalUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/06/facebook-snafu-prompts-realization-about-rescuing-ai-self-driving-cars-from-single-points-of-failure/"
-webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/06/facebook-snafu-prompts-realization-about-rescuing-ai-self-driving-cars-from-single-points-of-failure/"
-ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/06/facebook-snafu-prompts-realization-about-rescuing-ai-self-driving-cars-from-single-points-of-failure/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/06/facebook-snafu-prompts-realization-about-rescuing-ai-self-driving-cars-from-single-points-of-failure/amp/"
+title: "Facebook AI’s SOTA Speech Translation Models Go Against Grain"
+excerpt: "Now, Facebook AI and self-described “AI community” Hugging Face have announced the release of their joint state-of-the-art speech translation models. The models build on previ"
+publishedDateTime: 2021-10-08T07:38:00Z
+originalUrl: "https://slator.com/facebook-ai-sota-speech-translation-models-go-against-grain/"
+webUrl: "https://slator.com/facebook-ai-sota-speech-translation-models-go-against-grain/"
 type: article
-quality: 76
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Slator
+  domain: slator.com
 
 topics:
-  - AI in Autos
+  - Natural Language Processing
   - AI
-  - AI Hardware
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601893ecc2c4f9d38496d638%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2048%26cropY1%3D219%26cropY2%3D1371"
-    width: 1200
-    height: 675
+  - url: "https://slator.com/assets/2021/10/Facebook-Speech-to-Speech-Machine-Translation.png"
+    width: 600
+    height: 400
     isCached: true
 
 related:
@@ -43,6 +36,22 @@ related:
     quality: 84
     images:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_t5K2dNQfTk/v1/1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Facebook Snafu Prompts Realization About Rescuing AI Self-Driving Cars From Single Points Of Failure"
+    excerpt: "Why singles points of failure are dangerous for self-driving cars and how redundancy is needed to aid in reducing risks."
+    publishedDateTime: 2021-10-06T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/06/facebook-snafu-prompts-realization-about-rescuing-ai-self-driving-cars-from-single-points-of-failure/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/06/facebook-snafu-prompts-realization-about-rescuing-ai-self-driving-cars-from-single-points-of-failure/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/06/facebook-snafu-prompts-realization-about-rescuing-ai-self-driving-cars-from-single-points-of-failure/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601893ecc2c4f9d38496d638%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2048%26cropY1%3D219%26cropY2%3D1371"
         width: 1200
         height: 675
         isCached: true
@@ -106,21 +115,7 @@ related:
         width: 1379
         height: 776
         isCached: true
-  - title: "Facebook AI’s SOTA Speech Translation Models Go Against Grain"
-    excerpt: "Now, Facebook AI and self-described “AI community” Hugging Face have announced the release of their joint state-of-the-art speech translation models. The models build on previ"
-    publishedDateTime: 2021-10-08T07:38:00Z
-    webUrl: "https://slator.com/facebook-ai-sota-speech-translation-models-go-against-grain/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 39
-    images:
-      - url: "https://slator.com/assets/2021/10/Facebook-Speech-to-Speech-Machine-Translation.png"
-        width: 600
-        height: 400
-        isCached: true
 
-secured: "6MLiAUwBQ0Jnu23xZgfJiXzUy6pju4lTobgcU324+/modfUjNF3rhApxPjqTNykTPXHVIaa5Cv15swg+xvX1aQQIWgHohjCWozumLjjM2wxh5JvaGOoP+09FRnUggDnkblFUJThXUMZo9NIBspWgVw6jcgczfbQNQuGW2IZx0RyQJbzStRSXKg5SZqaOX60i/1MJMfTjcPc3LM4s0lQDsSN8XCz8PfjrEEsHGierigNHsS/P22qjXpogE0c37IHPJ5aIrTRdQwaXyC457PusNJxpIdK8wu8ZGaHImaoEaq0ex7IRZrclLaePX0jbhdPTf+rCfUU8vWaBeL62thmpwj8YK60PbcLhoXYpa3pCx7F+YxGyKWAC3FrT48ypVmK9CzA+I1oTjITMD2boxRmhML0Coe2T+sjsyAt1g7aTwHxZfYs6q1Vj9FWjFdCu8q7RTz02qFI2mcuovVRQ+5oWIGuDpI4IBTqqNSw4YrHYen1Dxw8uNytiHTaVroJJoa26NgEjai8Gyc9Q0VuP2VwY/w==;6Bu/87rf8SVHSdHU6jsLkA=="
+secured: "8ydcsrAMav+2SHxg16HTAXZE4HuMgOPNZWP4181ukGsCouWjy0lHFY939F1teR5sUvr6xFwlYqo5UgPUGOAjBkkZmzdM89qrWiXJNMW+6T2VHt3VKd6M3po2wxKI1mzPW0x2V7MfMpQL/Qke2S7JLR3QL+9AnvpcBpfd6rumpEovi2kAfj+UtDHPts/JbhsR6J0VXYAlavhY4/xzc5HO9sgHnEG0ilGwFrQ0T2QReh19snlWNtSrg4ql3hhUzPQFD3gZaE2acd5J5TvrjTPQuMs49nmqoztpnJ4/f17SnvR8ebTRx2LOc11weSglDEnQpoRc6EXanssGKlMJlzpv8iZN0UEwNNZAItu5ZSJp6AU=;cXiqNI1kjfOOOz+25QZ2Dw=="
 ---
 

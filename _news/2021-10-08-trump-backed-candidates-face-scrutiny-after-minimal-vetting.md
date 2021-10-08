@@ -1,31 +1,23 @@
 ---
 category: news
-title: "Trump-Backed Candidates Face Scrutiny After Minimal Vetting"
-excerpt: "As former President Donald Trump has waded into contested primaries across the country, trying to exact revenge and remake the Republican Party in his image, he has endorsed a series of candidates facing serious allegations."
-publishedDateTime: 2021-10-08T05:47:00Z
-originalUrl: "https://www.nbcnewyork.com/news/politics/trump-backed-candidates-face-scrutiny-after-minimal-vetting/3313048/"
-webUrl: "https://www.nbcnewyork.com/news/politics/trump-backed-candidates-face-scrutiny-after-minimal-vetting/3313048/"
-ampWebUrl: "https://www.nbcnewyork.com/news/politics/trump-backed-candidates-face-scrutiny-after-minimal-vetting/3313048/?amp"
-cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/trump-backed-candidates-face-scrutiny-after-minimal-vetting/3313048/?amp"
+title: "Trump-backed candidates face scrutiny after minimal vetting"
+excerpt: "One has been accused of assaulting another White House aide. Another allegedly threatened his ex-wife’s life, exaggerated claims of financial success and alarmed business associates with his erratic behavior."
+publishedDateTime: 2021-10-08T07:29:00Z
+originalUrl: "https://lasvegassun.com/news/2021/oct/08/trump-backed-candidates-face-scrutiny-after-minima/"
+webUrl: "https://lasvegassun.com/news/2021/oct/08/trump-backed-candidates-face-scrutiny-after-minima/"
 type: article
-quality: 44
-heat: 44
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: NBC New York
-  domain: nbcnewyork.com
+  name: Las Vegas Sun
+  domain: lasvegassun.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://media.nbcnewyork.com/2021/10/GettyImages-1233779991-e1633671773707.jpeg?quality=85&strip=all&resize=1200%2C675"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "J7bcSRDAkVZoUWHXpjCGtsIDndCAesqFZcbwA50ySZM5A9OjO8AFJbrhJaxD6EHMVRvgOPwpevx7NScoW5Ru79vwk/7+25FVHkvjDoNn6gSb/E9qH7g6fhZ0N/cgH2YxDE8KqKqGzTglVPa7WvxXc4q6ZvK8R8mg8ylwfVwbLO0twFTaL2zDU8MNXIEo80gCj1dstXoT64/JRGsVy3BIlI8UgNVQJuoRBH8AZ7yCKpCax5UAjdV8qwW7BeeE9bn5zYct6qNVgQAWs+vKxhimD74vvgY37mXo6+xCdal6mSLCZYKbk2j4JjZQkn9izPkmOqPgQLpZdTmRd6V0cHN+89/b4bfz7YdPNQmnud4ED4U=;ikoLaT8WygkBLatBmnlOYQ=="
+secured: "kgdnnlUYt6ECBtMtZi5dGR5ooo8q9s8Wo6LDEhY2JJyzZrphcTFsR+VIo70amJBpBQXExfWyPF62VHIPtZ0+ULT+CE99u6Gp24PTDnpYhMscGheJlBPQetjiQ9IdEyfQKEZFjDQRLaKGLh57j0felHzyxdsJKUnkhoiu1oQeJYaQkACnRSFWaZHvnp49ZUebhsCcz15lC5qhEKnSXUb3yvf0zKFuR5FvZBiYsB3Y5FU0G0mn4pLGU1edlh+llaY4WWHG4ksL7LStnsu4nVpZfnNEPRpMZqY1kPqhFsmMd2DIC4qMANCAL2XeOFAf9TRoakjdFmUKbugzx5+FpuDCf3Cl9AfCokWxRvGyE2G4HZnzgFvGAVkYG8fXs2GZSwFIvvHuDBngUPs3bRpL0t6A2YaeHkF0LhoyEUTlfNykOemlQ06Vs0phPhhfNY4Evk/lS5KkFS1wlrIDqxUgr6vERSXrFcOVoElg/Ph/wuJXzsoXnoZ5K5Eiyq7mAq5eUYwP5AZ/s8sQJi6e2+rYlt9dIw==;9tYKRZBAd2323QGgFk2W5g=="
 ---
 

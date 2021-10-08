@@ -55,22 +55,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "ComplyAdvantage Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
-    excerpt: "CB Insights today named ComplyAdvantage to the fourth annual Fintech 250, a prestigious list of emerging private"
-    publishedDateTime: 2021-10-06T10:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/10/g23255812/complyadvantage-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
-    ampWebUrl: "https://www.benzinga.com/amp/content/23255812"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23255812"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 36
-    images:
-      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Fairmarkit Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
     excerpt: "Fairmarkit honored for achievements in fintech and automated procurement solutionsNEW YORK--(BUSINESS WIRE)--CB Insights today named Fairmarkit to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology."
     publishedDateTime: 2021-10-05T21:00:00Z
@@ -96,6 +80,20 @@ related:
     quality: 24
     images:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQFuTSfZpL-SCw/article-cover_image-shrink_720_1280/0/1633545034818?e=1639008000&v=beta&t=bUkhk_FhWzDbZ_EZNjK3qg6gvuYUlTUfTdN0ITInCt8"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "ComplyAdvantage Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
+    excerpt: "CB Insights today named ComplyAdvantage to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. These 250 fintech startups are attacking an incredibly diverse array of financial services opportunities across 19 sectors,"
+    publishedDateTime: 2021-10-06T10:05:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/complyadvantage-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 16
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/uploads/2021/04/inn-og-default.jpg"
         width: 1200
         height: 630
         isCached: true

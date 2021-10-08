@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The 7 Biggest Artificial Intelligence (AI) Trends In 2022"
-    excerpt: "In 2022, we will see artificial intelligence continue along the path to becoming the most transformative technology humanity has ever developed. According to Google CEO Sundar Pichai, its impact will be even greater than that of fire or electricity on our development as a species."
-    publishedDateTime: 2021-10-03T13:16:00Z
-    webUrl: "https://www.linkedin.com/pulse/7-biggest-artificial-intelligence-ai-trends-2022-bernard-marr"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG0c0tNZYneuA/article-cover_image-shrink_600_2000/0/1633266750161?e=1639008000&v=beta&t=kTQe3TFb_L9KpmaOX5k025SVcG4agCP5muEeIFLJh34"
-        width: 1290
-        height: 600
-        isCached: true
   - title: "Global Artificial Intelligence (AI) in Medical Market 2021 Status and Outlook, Industry Growth Rate, Opportunities and Challenges to 2027"
     excerpt: "MarketsandResearch.biz has presented a new market study on Global Artificial Intelligence (AI) in Medical Market 2021 by Company, Regions, Type and Application, Forecast to 2027 which delivers an executive-level market analysis that will help clients to build strategies to expand their market operations."
     publishedDateTime: 2021-10-06T01:36:00Z

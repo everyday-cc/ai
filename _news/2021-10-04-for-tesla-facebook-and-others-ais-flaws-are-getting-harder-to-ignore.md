@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/opinion/articles/2021-10-04/artificial-i
 webUrl: "https://www.bloomberg.com/opinion/articles/2021-10-04/artificial-intelligence-ain-t-that-smart-look-at-tesla-facebook-healthcare"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://media.gadgetstouse.com/wp-content/uploads/2021/10/featuredimage.jpg"
         width: 1379
         height: 776
+        isCached: true
+  - title: "Facebook AI’s SOTA Speech Translation Models Go Against Grain"
+    excerpt: "Now, Facebook AI and self-described “AI community” Hugging Face have announced the release of their joint state-of-the-art speech translation models. The models build on previ"
+    publishedDateTime: 2021-10-08T07:38:00Z
+    webUrl: "https://slator.com/facebook-ai-sota-speech-translation-models-go-against-grain/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 39
+    images:
+      - url: "https://slator.com/assets/2021/10/Facebook-Speech-to-Speech-Machine-Translation.png"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "1JqOi+f/f9xrCv6x2ehKjVazuBqQm0rDtjXt6jk6+B4+Yt7An8fF/gEL1t5Zc+HBMAQzJKq3Zm6okHulzZcJsmwztFG7IygAXJwVQJPEw+qb7fdt9myYsXStSREbTZ4eXqzSyrGjWbdCZtyKxaRXCxzjuB6z3IFXzfAiQMdI32GAMKgRNmJzR0qZNGBKaJez/OPcGknkrGQesuoiGdWiXGTA9LIAh/cw9S98uFU06lHUxnLDQ+IR7mM75eLMGsC7cK2LhtsKgJAOk1v2JXKendb20G4ysfYBdlwOzhy2foMSZsu0t0MyUDV+fJANtofqsQTmCILFzNuOWAA/xKYYr5iZvTk6AU1xQ12flcgEfb4RxX2aj0xVCQhc2ptwdVXypNfsyxwfDAYd/Gj0+K9DC+OPK70cDMCseM4XtgsDJLIyEj62AKoftTaxDeaQ6ZSwJFqUf4POezGkZJVXqXrFh4XpPM/As7/fAk287lmm4qaUJKFPuDwhrlRS8cgB7SZvk2Hqifs8R9TooK9WilSSDQ==;Ct1l4+niI5p9n6XL8bE0Rw=="

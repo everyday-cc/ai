@@ -1,29 +1,27 @@
 ---
 category: news
 title: "ComplyAdvantage Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
-excerpt: "CB Insights today named ComplyAdvantage to the fourth annual Fintech 250, a prestigious list of emerging private"
-publishedDateTime: 2021-10-06T10:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/10/g23255812/complyadvantage-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
-webUrl: "https://www.benzinga.com/pressreleases/21/10/g23255812/complyadvantage-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
-ampWebUrl: "https://www.benzinga.com/amp/content/23255812"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23255812"
+excerpt: "CB Insights today named ComplyAdvantage to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. These 250 fintech startups are attacking an incredibly diverse array of financial services opportunities across 19 sectors,"
+publishedDateTime: 2021-10-06T10:05:00Z
+originalUrl: "https://insurancenewsnet.com/oarticle/complyadvantage-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
+webUrl: "https://insurancenewsnet.com/oarticle/complyadvantage-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
 type: article
-quality: 36
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Insurancenewsnet.com
+  domain: insurancenewsnet.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
+  - url: "https://insurancenewsnet.com/wp-content/uploads/2021/04/inn-og-default.jpg"
     width: 1200
-    height: 600
+    height: 630
     isCached: true
 
 related:
@@ -150,6 +148,6 @@ related:
       domain: wcax.com
     quality: 0
 
-secured: "9ZowWGUyFCwyfjuqXJHTlKaP1Qx3AkEpbOY+UMUjTDB8GHyukoxBnxCsS+bQ0Ua94SASy8SyhKfncaT8wdXIJ9M4p4D90o9otB9iss0Soo4M4BhE3+ezrnit6b1IjdXDPOOl9Ejp6DfZ6CWURWQ7kwccULxoQ6TDMYDuQKcf3AHlQCjnaG+qarnTjlRyWvRNpLCoNyeslWM+JBqZf/0gp19jyp4N9vR7Vul2tqO1ABr4ShWLGe4VJNrfH9/RKBJ75Di1yy1qJLWYRnlEo9aXbDWrxgtQuEbdmSaHWXn2Z77SQGuzAqRFiLLtWdqTRd5p9peexlr71n0nDFUONSOxfq0hGQQgl2K0MTwPiyD7WGw=;M5lFLvVsfZcLB0WwhSLU/Q=="
+secured: "3jUjisrTUOWPbxe9+mIJjVCTp3hhqAkxfB0/VJGjPZi2/CsS0qLI5DOlHMkCMAk4g3aVfwBLnjLqM0PRlh4Ws4CYk/X02LWZKKki1zLOCRtNolMMvKSK45aIok9ohMO2hx/A8W9BzTtBkwVvKMa/sAl5bPh8nX7GkMpvX0dtOvADs0ePoFd3eVkWnj5WVsh3dvROmhtl3C8QJWELrvKyBClq8KWN75vVF8v5ewHq0VCxVUTRl337/AwR75K1y1PWPBeZH3hCljpxvGL6/TFf/6etOinjaY9MXbb1E3Dpo1xBnL8d+X1DefBo8eNy56kPz84b8O2umjYSzmqaHSq5DoGjsO/HhsoAiCHzt5pb0Wg=;3RnKCmuOcnqzmD6K/jsM/A=="
 ---
 

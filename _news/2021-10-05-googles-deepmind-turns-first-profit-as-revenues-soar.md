@@ -219,15 +219,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Google, DeepMind face UK lawsuit over NHS data access"
-    excerpt: "Google and British AI technology subsidiary DeepMind are facing a new claim over NHS data use. The representative action is being brought by law firm Mishcon de Reya on behalf of Andew Prismall and around 1."
-    publishedDateTime: 2021-10-03T14:50:00Z
-    webUrl: "https://www.telecompaper.com/news/google-deepmind-face-uk-lawsuit-over-nhs-data-access--1399186"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "koQAaodM/bv46P1BgX277zU3YKwYwjOC3nWUCisO/B9Uk4C4BFMH7HRc2R0MFQd6Hg3UxZUdb9Za/iry8gRpisX5MuF4z7NgPcgK+A/ju2hpT2xFhsIV7V5JgEk9F7E1XM9672mpl/Uto7HK9D616uSGJYKlRnv3ENF7Y/NiFBjvjzwwTfduPfiVzHxFwpRb6UcD7mlBU97dQhC6+zTAORZE5KCPufk7zQ9RAg4S+7WUDx3Rl/BgCQD+l6rEtl0nGKNYv82T3E2QhFV3oZPM0OAALI9a3fSLEKB9CgejOx3wTFEiTDwhfzKwAf7IIgNHxDRbEsfA/U/lN6i/oYSr5u9ufAp5rnN06gucoM2OtoQ=;89jQE12kj1fkDEzDhwK8KQ=="
 ---

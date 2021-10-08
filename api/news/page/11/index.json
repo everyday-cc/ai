@@ -253,24 +253,33 @@
     {
       "path": "_news/2021-09-28-callminer-combines-conversation-analytics-platform-with-microsoft-azure-speech-to-text.md",
       "title": "CallMiner Combines Conversation Analytics Platform With Microsoft Azure Speech to Text",
-      "excerpt": "CallMiner, a leading provider of conversation analytics to drive business improvement, today announced it is enabling organizations to use the power of the CallMiner Eureka Platform with Microsoft ( News - Alert) Azure Speech to Text as a powerful,",
+      "excerpt": "Microsoft Azure Speech to Text customers can easily procure and deploy CallMiner as an out-of-the-box solution using Azure credits for faster time to valueWALTHAM, Mass.--(BUSINESS WIRE)--CallMiner, a leading provider of conversation analytics to drive business improvement,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-callminer-combines-conversation-analytics-platform-with-microsoft-azure-/2021/09/28/9457714.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-callminer-combines-conversation-analytics-platform-with-microsoft-azure-/2021/09/28/9457714.htm",
+      "webUrl": "https://us.acrofan.com/detail.php?number=537739",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=537739",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T05:40:00-07:00",
+      "publishedDateTime": "2021-09-28T05:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "아크로팬",
+        "domain": "acrofan.com",
         "images": null,
         "publishers": null,
         "authors": null

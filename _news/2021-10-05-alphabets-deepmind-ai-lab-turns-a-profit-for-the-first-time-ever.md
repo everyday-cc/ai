@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/10/05/alphabets-deepmind-ai-lab-turns-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/05/alphabets-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever.html"
 type: article
 quality: 159
-heat: 299
+heat: 289
 published: true
 
 provider:
@@ -223,15 +223,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Google, DeepMind face UK lawsuit over NHS data access"
-    excerpt: "Google and British AI technology subsidiary DeepMind are facing a new claim over NHS data use. The representative action is being brought by law firm Mishcon de Reya on behalf of Andew Prismall and around 1."
-    publishedDateTime: 2021-10-03T14:50:00Z
-    webUrl: "https://www.telecompaper.com/news/google-deepmind-face-uk-lawsuit-over-nhs-data-access--1399186"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "gN0crfz+9f01Fbf/f8nRzs4HLfktY0sCyRmPriCeYghd0tQhwxpEPRQJR8JUReISTBXEXkNKgURwkCnwZv2KEDSQ6zTJ9FZ5A2ZUcbW/I1trXD+npsWPpzlEsRLybEldml/lOrWRvB8hd+loX6+0qryYbn4hyl6RPI9z3XUuiDnLXPCgs9bfJLFOrOZG3bPKYF5eWmt0RvQs9kAmCJOVBcPo4V7Idgq+lw/KRoj2oCMRSFxWPUots1Mmedtee13oZm50w3QvphHGtPi4cMzAxa5wOvWvepTRlg/I9A7GE7iTcMGqs7Zdvp/Ece+IoybirYcKbT4G8KvKvViNqPjeD0fK8poUvt8eg2tX8brZVhigKcM16egTJTmnRQ5ciXB3;xOOI7gV04dHpuA5RFgSSqw=="
 ---

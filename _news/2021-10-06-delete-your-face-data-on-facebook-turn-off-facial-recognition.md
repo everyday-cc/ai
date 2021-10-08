@@ -101,6 +101,20 @@ related:
         width: 1400
         height: 800
         isCached: true
+  - title: "Facebook AI’s SOTA Speech Translation Models Go Against Grain"
+    excerpt: "Now, Facebook AI and self-described “AI community” Hugging Face have announced the release of their joint state-of-the-art speech translation models. The models build on previ"
+    publishedDateTime: 2021-10-08T07:38:00Z
+    webUrl: "https://slator.com/facebook-ai-sota-speech-translation-models-go-against-grain/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 39
+    images:
+      - url: "https://slator.com/assets/2021/10/Facebook-Speech-to-Speech-Machine-Translation.png"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "RoyjK2q8uWtR8rHh3517UEJbomFCjo5skVpf719/drt21dq6ScDaui4g/w32FUkyKPmnRcvPkzkNgTFBqmitJEQOpD0eDRkPryNKKFBKlcSxE9zKCRdT17Ke2+A7yH9zn1RuqSLQCt8z4xyEcAAnQfZWDekD7QJ34I6DCnKaYn6H/63HC/fTsEB8ryNJuETkTy2EZBdPnTW0Q55gEWe5/QyIFz8yQLT47ti006xtDjvtmwJdUv4tIGLakqxlso99SlvypAEQwn3oDR/oJOZtZ9/ff/OQZazuDaKJM/72mLMO8Rs0/yWjMSgl5RXiBMIHJeG7PiIddG0/dzlmyuUUkgAZF/Z6freUrX4S7XN6t5k=;OpIfJ4cvLDikvtTkhzH2cg=="
 ---

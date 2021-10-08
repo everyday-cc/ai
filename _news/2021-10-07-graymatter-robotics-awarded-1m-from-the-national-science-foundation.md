@@ -1,22 +1,28 @@
 ---
 category: news
 title: "GrayMatter Robotics Awarded $1M from the National Science Foundation"
-excerpt: "GrayMatter Robotics, a Los Angeles-based AI-Robotics startup, has been awarded a National Science Foundation (NSF) Small Business Innovation Research (SBIR) grant for $1M to conduct research and development (R&D) work on Smart Robotic Cells for Surface Finishing & Treatment Applications on manufacturing lines."
-publishedDateTime: 2021-10-07T13:11:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-graymatter-robotics-awarded-1m-from-national-science-foundation-/2021/10/07/9465026.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-graymatter-robotics-awarded-1m-from-national-science-foundation-/2021/10/07/9465026.htm"
+excerpt: "GrayMatter Robotics, a Los Angeles-based AI-Robotics startup, has been awarded a National Science Foundation (NSF) Small Business Innovation Research (SBIR) grant for $1M to conduct research and development (R&D) work on Smart Robotic Cells for Surface Finishing & Treatment Applications on manufacturing lines."
+publishedDateTime: 2021-10-07T13:19:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/science-technology-business-small-business-robotics-f2f662f111d249f308df8e158ae5571b"
+webUrl: "https://apnews.com/press-release/pr-newswire/science-technology-business-small-business-robotics-f2f662f111d249f308df8e158ae5571b"
 type: article
-quality: 34
-heat: -1
+quality: 54
+heat: 64
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "GrayMatter Robotics Gets $1M From NSF"
@@ -34,6 +40,6 @@ related:
         height: 220
         isCached: true
 
-secured: "/+b43SarAFRLKh/B55qMKsEdGQR9ipMg2Zce5PNvKqv4IiW8QPwLPXr6DzcoBlJiTr+GU9dPHdoPYtYc+xIV1t1EZFu7RkR7VW+V0I1/085gZ1m2Y4NodB0JVYHsUsQjd6KSIghapZG8UujDYfcyPjq01DT6b1jd9CN/Ae6VD1zpO7Mt39Aw079GcA5txUI0Afe7W3eBRmUKht3oyUx0UBuI+FedijhE6cs0Het4Qb0hz9Pdt86c+KLY9ODQjfk6M+Bow8eFhxjNTP09EdrrTQ45wUlkx61I3zvgjOOiCfR+YSSAXN21Jos+cLlGWGXTWHaWm7K4huDIWr/s2KsEn6kgShL0Kwq1gj+3HEbbVAs=;FCh+YIJ5gScZ6ypyLVV09w=="
+secured: "5Qs4U2PWFAYXGVN5zLwp/JCQkaiZrv565G9REtQilmhrS3BGyEa99rHaod12v7JBgvCddx/uKfQbmI7Cym5H7wVRHLqe7cM2yzoahliHzCObFanXm3vecO6BQaN8TQP8yn9mj5hyL7q2+ULSMzs9wijdfsznT99YJGGz2EdF8TU92NAkqkvTT73s1Bglaqnhk07hnnQ2QFPdQEqtqmczz+JuSOicAlw8v4DsA2ZgPsYnmxBMnwDzdlAA/OasixPv9E64FNpMVYQpqrbG6Di9ZyVY9ZCymgeosfhFGln4Al2gBOuVnlx+RsSdiBVm1tnUMhIFYH/ifq0XADiCE/FXhxUnQeVkF0ur7PzsQUM2fHI=;pu3EkU3LfiskOvn3TMpZ0A=="
 ---
 
