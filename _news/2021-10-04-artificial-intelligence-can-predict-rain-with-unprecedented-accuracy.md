@@ -71,6 +71,22 @@ related:
         width: 2440
         height: 1627
         isCached: true
+  - title: "How Artificial Intelligence Helps In Decision Making"
+    excerpt: "It’s incredible how artificial intelligence has drastically changed the way we experience technology. To say that it makes life easier is an understatement. Some may not be aware of it, but AI has become a part of everybody’s life."
+    publishedDateTime: 2021-10-07T23:31:00Z
+    webUrl: "https://techbullion.com/how-artificial-intelligence-helps-in-decision-making/"
+    ampWebUrl: "https://techbullion.com/how-artificial-intelligence-helps-in-decision-making/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-artificial-intelligence-helps-in-decision-making/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 57
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/10/AI-robot-scaled.jpeg"
+        width: 2560
+        height: 1440
+        isCached: true
 
 secured: "+7IqXyF7kAUNTF5iwGVbcW6DRsIf4pzyalaeJfegs/Jfl9KVp+o6tqObmKJtgV7bW3dDHiW6XUDm1A91owHx87pV+0nZCSm3hEqYajwuYxTk6jLF/mAIvK5qawGNdCydxxEM6/S+9T27M07nOeHCgITPqcuBRiTkr9eGp46zHjpBjCN4M95APPG40n7gw03yJMBPDQ/gebiOtqjYagF034YXF6ZAi7j2NhwUEZNBneEkWz17jrf/NnHIXZ+HfJXGor3XIOhmNaFdT3nJrd758itrhJ9I32/oBhYMEZrQQrOxi3TPQue0rM72c1S7RUtlGMwnIZ5Kvw+cIXZchCPWW22aW/ZD5AQr8Mw3csDbrqj6jKj/gHXGedJaQ0xQ3/nqnMrr2JFXt/ZL0A0X9CCcoFQOQ4vsAKUQC52/Z68Pbu8auXMLGmRfgyemxpSxmYM4Mh4FD0kSaWyFIfFmTN0FG+HyP9nP6+3nYhPtxCURnc5iwLc0KBbvR1/fIdNUIHp+e/Q0m2VoMA6QezR9hN+0Ww==;XMQlD4AZHny+TH7A0wd00g=="
 ---

@@ -58,14 +58,16 @@ related:
         height: 377
         isCached: true
   - title: "General Motors' Cruise To Launch 1 Mln Self-driving Cars By 2030"
-    excerpt: "General Motors Co.'s (GM) autonomous vehicle subsidiary Cruise is planning to launch at least 1 million self-driving cars by the year"
-    publishedDateTime: 2021-10-07T21:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/general-motors-cruise-to-launch-1-mln-self-driving-cars-by-2030-1030851709"
+    excerpt: "General Motors Co.'s (GM) autonomous vehicle subsidiary Cruise is planning to launch at least 1 million self-driving cars by the year 2030. General Motors is the majority stake-holder in the autonomous company."
+    publishedDateTime: 2021-10-07T21:30:00Z
+    webUrl: "https://www.nasdaq.com/articles/general-motors-cruise-to-launch-1-mln-self-driving-cars-by-2030-2021-10-07"
+    ampWebUrl: "https://www.nasdaq.com/articles/general-motors-cruise-to-launch-1-mln-self-driving-cars-by-2030-2021-10-07?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/general-motors-cruise-to-launch-1-mln-self-driving-cars-by-2030-2021-10-07?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Tower Says New Tech A Boon For Self-Driving Cars"
     excerpt: "Chipmaker Tower Semiconductor, with much of its domestic operations in Newport Beach, says it has helped to develop a new technology that will speed up the introduction of self-driving cars, while also finding future applications in robots and industrial production."
     publishedDateTime: 2021-10-04T17:06:00Z

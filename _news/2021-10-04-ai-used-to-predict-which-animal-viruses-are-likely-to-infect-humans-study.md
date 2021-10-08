@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2021/10/04/ai-used-to-predict-which-animal-viruse
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/10/04/ai-used-to-predict-which-animal-viruses-are-likely-to-infect-humans-study/amp/"
 type: article
 quality: 55
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence may help predict next pandemic, here’s how"
-    excerpt: "Most diseases infectious to humans are zoonotic, caused by viruses originally infecting other animal species, like COVID-19.Identifying such viruses,"
-    publishedDateTime: 2021-10-03T05:28:00Z
-    webUrl: "https://english.alarabiya.net/business/technology/2021/10/03/Artificial-Intelligence-may-help-predict-next-pandemic-here-s-how"
-    ampWebUrl: "https://english.alarabiya.net/amp/business/technology/2021/10/03/Artificial-Intelligence-may-help-predict-next-pandemic-here-s-how"
-    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/business/technology/2021/10/03/Artificial-Intelligence-may-help-predict-next-pandemic-here-s-how"
+  - title: "Can artificial intelligence predict which virus can jump from animal to human?"
+    excerpt: "A study used machine learning to predict what viruses can jump from animals to human, and how much of a risk they may pose to people."
+    publishedDateTime: 2021-10-04T02:21:00Z
+    webUrl: "https://www.jpost.com/science/can-artificial-intelligence-predict-which-virus-can-jump-from-animal-to-human-680962"
+    ampWebUrl: "https://m.jpost.com/science/can-artificial-intelligence-predict-which-virus-can-jump-from-animal-to-human-680962/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/science/can-artificial-intelligence-predict-which-virus-can-jump-from-animal-to-human-680962/amp"
     type: article
     provider:
-      name: العربية.نت
-      domain: alarabiya.net
-    quality: 57
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 53
     images:
-      - url: "https://vid.alarabiya.net/images/2020/01/07/69dbd27b-0f11-47e5-a814-58f3bb57d05e/69dbd27b-0f11-47e5-a814-58f3bb57d05e_16x9_600x338.jpg"
-        width: 600
-        height: 338
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/479447"
+        width: 640
+        height: 428
         isCached: true
 
 secured: "QvaDIGmql7GehdB04s9Kuy1vS4lBiPOLBGktQg8Fyscq8W4vTTfxMDU5rCdtDhR0+GDTkr57Zltib7EfBnLD7XtdccnglHY7I0zIkIKCbOVicp5zXFvJBCVD2pNCQg3QrpPEyl37Lat+LrTLPDZ3VlTRAKq4nI6u5ROlAhya5B47b+i3nocztwYGw/uOGujHV4ZCRAWR1XAx6S45mDCPlbR8DxH+B+jmZhux+1hembC1pW5LVN5nWSqEn4rIeTy3xJfiA4XcAweWoLW2OIe7qym+IKWZRrBshNGSI/f2JZLtAXkuTJupnM9y1XnPHaedPMezvmOFGS0AjRyjHLrxE434yyQutKPrc+QNnpKzk7PsVDSM6UJyTgedxNHV55/7pZMTREkaIq5Vd6kW2fWqO0YSr87rbOZB0M7NQz8uonO7rr5NTU+05kJDjdIKVigF5+Zm4p09GZe55y9WDnwskB5NE51GE/0qj6s8daa1ZetCvSRy5m8bh5PYFHkEZmD2r+sjT4rzjlkMhOZ2kP+1Kg==;bmKmkeHai9rT7+VH+tZDIQ=="

@@ -134,6 +134,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Gap Inc. Acquires AI Startup CB4"
+    excerpt: "Gap Inc. announced earlier this week that it's acquiring the New York- and Tel Aviv-based startup Context-Based 4 Casting (CB4), which uses artificial intelligence (AI) and machine learning to identify patterns in retail data and identify ways to improve in-store sales."
+    publishedDateTime: 2021-10-07T22:36:00Z
+    webUrl: "https://www.mytotalretail.com/article/gap-inc-acquires-ai-startup-cb4/"
+    type: article
+    provider:
+      name: Total Retail
+      domain: mytotalretail.com
+    quality: 37
+    images:
+      - url: "https://www.mytotalretail.com/wp-content/uploads/sites/14/2020/09/GettyImages-129169006.jpg"
+        width: 1024
+        height: 667
+        isCached: true
 
 secured: "3NHnu0GqoUCR69kBE4LqSA7fCNE5yUm9K1SzyB02IEH3ndZqc3o/s5AUOtSf1hz7+OOSAagvFlaW68u77pR/+I3Un9UNtqpHUI6f+z9xL3RhAd8uUL3V4tgzGpLl5M8A4c6DyOTDWxM03DjVz8Ia1OsHI7yfU9DC4FQrsqiRxIb+tC/7aYmCwavdB5KtW7kDsfAGSidHAZ3kyYKLAwO2pgyje47ZF3PVod/o7hF5lyFJeY/0LPYbtUs8SqCHbaAVp6cyjKpYwNjzFdgKJpVpPwIW8nAygNW98hC988R+BbUaDGFjpMQQ/53xfQItqWRNcTDq8498abnXT6WsWjFTC1hlwLp9tgrdfXOEvEEQH0U=;uNGf4RZfme252ARpcIfLow=="
 ---

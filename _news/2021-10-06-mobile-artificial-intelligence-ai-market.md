@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2418361/mobile-artificial-intelligence-ai
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2418361/mobile-artificial-intelligence-ai-market-size-is-expected"
 type: article
 quality: 74
-heat: 136
+heat: 144
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) in Medical Market Regional Outlook, Competitive Strategies And Forecast up to 2026"
+    excerpt: "Market Study Report presents an extensive report on \"Artificial Intelligence (AI) in Medical Market\" report offers detailed profiles of the key players to bring out a clear view of the competitive landscape of the industry."
+    publishedDateTime: 2021-10-05T16:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-regional-outlook-competitive-strategies-and-forecast-up-to-2026-2021-10-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The 7 Biggest Artificial Intelligence (AI) Trends In 2022"
     excerpt: "In 2022, we will see artificial intelligence continue along the path to becoming the most transformative technology humanity has ever developed. According to Google CEO Sundar Pichai, its impact will be even greater than that of fire or electricity on our development as a species."
     publishedDateTime: 2021-10-03T13:16:00Z

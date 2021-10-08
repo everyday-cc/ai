@@ -35,7 +35,7 @@ related:
     provider:
       name: TV Technology
       domain: tvtechnology.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/ZQ9Dc8gp5tbh7xLtmLTG67-1200-80.jpg"
         width: 959

@@ -9,8 +9,8 @@ ampWebUrl: "https://securityboulevard.com/2021/10/human-vs-artificial-intelligen
 cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2021/10/human-vs-artificial-intelligence-in-autonomous-systems/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: securityboulevard.com
@@ -42,20 +42,6 @@ related:
       - url: "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/zRrMkwHpM8IA-afhDi6XQ3hDsfc=/1440x960/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/BU5DJAVHN5AUJBZBUCUCSYBOIM.JPG"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Reboot AI with human values"
-    excerpt: "A former head of the European Research Council urges critical thinking about the algorithms that shape our lives and societies."
-    publishedDateTime: 2021-10-05T10:33:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-02693-2"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02693-2/d41586-021-02693-2_19704840.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "CeUCC6NDj47Opgn7mATuw+5zhxA17tzkU/gBEgeboijjaBzswjCruDO10KJUFOF/jaCbbm6GghcsX++K9ucxGlIDDxwfWCNFHsyuCqot5zBpLvz7EfM0SDPmwADkom3pUyjV+YyhxspkOSPV5S+sYP82wbxUOlSmsg6zMSKyPFzfUPaVV9TjqqRzc0nBvNly2HaTQkvXTdamssn/Q1vDgoPD1+dGtWSWZVAXF2wxHU6/NFztDC6K0LOqIYrMhKwd9YZVMZ3PLp36pqU4e25O58KWWh2qAQ4kMnUqyAu5HMzeWkrp540X9qy3AgNmPjslyZSS8xI0UUiHh9Hp8M4vxrIySG8N5ri0LmcEQaNBprc=;eZhnorcevRBwGZvJAQt5yw=="

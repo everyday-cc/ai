@@ -46,6 +46,20 @@ related:
         width: 790
         height: 466
         isCached: true
+  - title: "Artificial Intelligence (AI) in Medical Market Regional Outlook, Competitive Strategies And Forecast up to 2026"
+    excerpt: "Market Study Report presents an extensive report on \"Artificial Intelligence (AI) in Medical Market\" report offers detailed profiles of the key players to bring out a clear view of the competitive landscape of the industry."
+    publishedDateTime: 2021-10-05T16:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-regional-outlook-competitive-strategies-and-forecast-up-to-2026-2021-10-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Incredible Growth of Artificial Intelligence (AI) in Cancer Market by 2028 | IBM, Microsoft, NVIDIA"
     excerpt: "Get Sample Report Buy Complete Report  Artificial Intelligence (AI) in Cancer Market report focused on the comprehensive analysis of current and future prospects of the Artificial Intelligence (AI) in Cancer industry."
     publishedDateTime: 2021-10-04T14:25:00Z

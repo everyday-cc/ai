@@ -33,6 +33,15 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "Microsec.ai Launches Solution to Deliver Agentless Runtime Protection for Multi-cloud Infrastructure as a Service"
+    excerpt: "Continuous monitoring of network traffic, data loss prevention, and responsive self-healing protection from threats to cloud-native applications."
+    publishedDateTime: 2021-10-07T22:20:00Z
+    webUrl: "https://www.darkreading.com/cloud/microsec-ai-launches-solution-to-deliver-agentless-runtime-protection-for-multi-cloud-infrastructure-as-a-service"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 0
 
 secured: "vB92LmO9fbvktyN9r6ng/LPIKBF1nN38vTX3Wv44SrQkF2kXjd90dhU0s8S0G2O/L4LnR6K3GtVJivcUdaDZLI+dw7+Op9wsEpdYpZz/7M9DQstV0GfV4O5LbjNUaRsVQWxefT2oAZXX2EmoCOi6EuYRjX6sG9Xy7JEv35u9I6WOPYyLie9s8/euH4K1ONPKHLwP6aWEVVPUBxKBwuJobnzi5G3y2wCANxYIFuQKq/1Kz4ni8lmDp9wATADeKWlGXHTVFmaxemk2CqaOufJl1k8Hm34iGLtH1S4qeqrgc58dr0tZIuSWAVZKPP7pwYDiWPvw4Z6uM0N9c//O2dvi6guNcE0n4r2Xyiy86pCYr18=;yEJ66C/tDJgZdunFCRVHSQ=="
 ---

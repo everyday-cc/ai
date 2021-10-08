@@ -25,35 +25,79 @@ images:
     isCached: true
 
 related:
-  - title: "What we can learn from China’s proposed AI regulations"
-    excerpt: "China's guidelines are the most comprehensive effort to date to regulate recommendation systems. They embody both best and worst practices."
-    publishedDateTime: 2021-10-03T13:21:00Z
-    webUrl: "https://venturebeat.com/2021/10/03/what-we-can-learn-from-chinas-proposed-ai-regulations/"
-    ampWebUrl: "https://venturebeat.com/2021/10/03/what-we-can-learn-from-chinas-proposed-ai-regulations/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/03/what-we-can-learn-from-chinas-proposed-ai-regulations/amp/"
+  - title: "How AI can fight human trafficking"
+    excerpt: "A startup relies on AI-based tools to observe patterns of human trafficking and the larger criminal networks at play."
+    publishedDateTime: 2021-10-07T23:40:00Z
+    webUrl: "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/"
+    ampWebUrl: "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/10/China.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/10/shutterstock_1474099580-2-e1633620164290.jpg?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 600
         isCached: true
-  - title: "Has China beat the West to detailed AI governance rules?"
-    excerpt: "The guidelines are described as being among the more specific that have been enacted worldwide, but based on these descriptions, the rules still feel conceptual"
-    publishedDateTime: 2021-10-05T17:05:00Z
-    webUrl: "https://www.biometricupdate.com/202110/has-china-beat-the-west-to-detailed-ai-governance-rules"
+  - title: "How Artificial Intelligence is changing music"
+    excerpt: "Beethoven’s unfinished 10th symphony has just been completed, 194 years after the composer wrote it, by an Artificial Intelligence program as part of an effort at Rutgers University. This sort of development in the world of creativity is critical for two reasons."
+    publishedDateTime: 2021-10-07T12:41:00Z
+    webUrl: "https://www.thehindu.com/entertainment/music/how-artificial-intelligence-is-changing-music/article36876008.ece"
+    ampWebUrl: "https://www.thehindu.com/entertainment/music/how-artificial-intelligence-is-changing-music/article36876008.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/entertainment/music/how-artificial-intelligence-is-changing-music/article36876008.ece/amp/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: The Hindu
+      domain: thehindu.com
+    quality: 57
+    images:
+      - url: "https://www.thehindu.com/entertainment/music/4yoo3m/article36876007.ece/ALTERNATES/LANDSCAPE_615/08frANILSRINIVASANfr21UV8SV6CSjpg"
+        width: 615
+        height: 384
+        isCached: true
+  - title: "Here is how ethical AI can play an important part in recruiting and staffing"
+    excerpt: "Ethical AI can be utilized related to different frameworks to automate many enrolling and recruiting measures. Depending upon an association's size, scale, and assets, it may not require its own AI specialists."
+    publishedDateTime: 2021-10-03T07:30:00Z
+    webUrl: "https://www.analyticsinsight.net/need-help-with-recruiting-and-staffing-ethical-ai-might-the-solution/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 51
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Recruiting-and-Staffing-Ethical-AI-Might-the-Solution.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Reboot AI with human values"
+    excerpt: "A former head of the European Research Council urges critical thinking about the algorithms that shape our lives and societies."
+    publishedDateTime: 2021-10-05T10:33:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-02693-2"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
     quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
-        width: 1920
-        height: 1080
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02693-2/d41586-021-02693-2_19704840.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Google tries to make traffic lights more efficient with artificial intelligence"
+    excerpt: "Alphabet Inc's Google cut fuel use and traffic delays by 10% to 20% at four locations in Israel by using artificial intelligence to optimize signal lights and it next plans"
+    publishedDateTime: 2021-10-06T17:00:00Z
+    webUrl: "https://www.stltoday.com/news/world/google-tries-to-make-traffic-lights-more-efficient-with-artificial-intelligence/video_37aa10bc-08d9-5d91-8287-c97b49de7ecc.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 33
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/7a/37aa10bc-08d9-5d91-8287-c97b49de7ecc/615dd64329c4a.preview.png?resize=640%2C360"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "mq3s/qeEJhwqX4cUclVHAGd0FiGNxpJuma0e3uANy9MNR2A6Ui3y5CBxxEMvytjYnyMzgOn0+/IMhL08qILroa7EcwR2WVHt8uJYO45XE7mkQVWt1lfpiiob/1Uw2JUm40QOIzsbN+w05NzvmxS3I/ShaAsXgKnPyD0HznBC2WapU+J9ubTQ+ziYhOWOy39Yif9a5A/Mcl/aIwNfSjbRBJbGW9VWv9lFqRlDhlZbdGE1aL/edj/s7MEkysbWz58C3DfBxKMBYoYOxcu+wuZp/8Zgu0y6uCbUySNBt24e+hFkIatf8I2WWoCfL6BeoVR5S/gjc4h0PfCKdmGf7ZpB2DxlhJxK2T7CdZeZcZtNAek=;jKe+Cbsqdq+Jp6Zy2KyNjA=="
