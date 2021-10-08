@@ -1,29 +1,49 @@
 ---
 category: news
 title: "Artificial intelligence can help halve road deaths by 2030"
-excerpt: "Entornointeligente.com / ​Countries and investors need to step up the development and use of artificial intelligence (AI) to keep roads safe for everyone, three UN Special Envoys said on Thursday, leading a new AI for Road Safety initiative."
-publishedDateTime: 2021-10-07T21:16:00Z
-originalUrl: "https://www.entornointeligente.com/07/10/2021/artificial-intelligence-can-help-halve-road-deaths-by-2030/"
-webUrl: "https://www.entornointeligente.com/07/10/2021/artificial-intelligence-can-help-halve-road-deaths-by-2030/"
+excerpt: "Countries and investors need to step up the development and use of artificial intelligence (AI) to keep roads safe for everyone"
+publishedDateTime: 2021-10-08T11:37:00Z
+originalUrl: "https://www.daily-sun.com/post/581176/Artificial-intelligence-can-help-halve-road-deaths-by-2030"
+webUrl: "https://www.daily-sun.com/post/581176/Artificial-intelligence-can-help-halve-road-deaths-by-2030"
+ampWebUrl: "https://www.daily-sun.com/amp/post/581176/Artificial-intelligence-can-help-halve-road-deaths-by-2030"
+cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/581176/Artificial-intelligence-can-help-halve-road-deaths-by-2030"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: Entorno Inteligente
-  domain: entornointeligente.com
+  name: Daily Sun
+  domain: daily-sun.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.entornointeligente.com/wp-content/uploads/2021/10/artificial_intelligence_can_help_halvenroad_deaths_by_2030n.jpg"
-    width: 1171
-    height: 530
+  - url: "https://www.daily-sun.com/assets/news_images/2021/10/08/Artificial_Intelligence.jpg"
+    width: 960
+    height: 564
     isCached: true
 
-secured: "bSovtGBEUiqV67OTkwnBoAIQlMRvrbxF3AHOcBcJphHT4SMIYJ9c1KB/vD5fp1WrGXO5R5Mi8rlE6oUW4GxGgt11PILSJ9sx5e0sWpR68K8QeCyIL6b+Zftps+jiipa1mCniGjvzL1PPH5+ACLeZCiutFh5VeJQ8fKNXVv6Z9VNz67CwHs9izfGLHch1OODRj1gP5C+M260/OfRWG2YKmn2w7zw5xc5uVE5tcB/mo86tFaPKyjyESFOcmOGjLMl4kQmKCo3TaVy1mT+EpQUuOEOn+MbykQlvTkHd5i1FYKgdFu+iZ57t2JbfmCEUqgvucjcwc1zh7mkG81HiKmF3w3t6n00NfT5NBsczs5MZVpY=;JuhkvkwU2PCN3KOskwzBiQ=="
+related:
+  - title: "UN envoys: Artificial intelligence can help halve road deaths by 2030"
+    excerpt: "Countries and investors need to step up the development and use of artificial intelligence (AI) to keep roads safe for everyone, three UN Special Envoys said on Thursday, leading a new AI for Road Safety initiative."
+    publishedDateTime: 2021-10-08T08:23:00Z
+    webUrl: "https://www.today.ng/technology/envoys-artificial-intelligence-help-halve-road-deaths-2030-392770"
+    ampWebUrl: "https://www.today.ng/technology/envoys-artificial-intelligence-help-halve-road-deaths-2030-392770/amp"
+    cdnAmpWebUrl: "https://www-today-ng.cdn.ampproject.org/c/s/www.today.ng/technology/envoys-artificial-intelligence-help-halve-road-deaths-2030-392770/amp"
+    type: article
+    provider:
+      name: TODAY
+      domain: today.ng
+    quality: 59
+    images:
+      - url: "https://www.today.ng/wp-content/uploads/2021/09/29141542.jpg"
+        width: 800
+        height: 552
+        isCached: true
+
+secured: "xcT0oZpliuPCUk5wONgXNU80i9Ulyw+1qOtkGUSrf0kYMaZ+iPu7A0F5NZaaJ4UX3TWSN4tMrCtvg4GCu4FNk32ETe8sizeaRcThbYun3HbYYRY4RWL4MOexeypqWofNk7DNDWrZ8QeV14sy+d34SaWB4yCDLNlTcia96N6FqnEXKKug/V0VUIOS3eP0vmoZd/5tZIu7FWS61OVtRcZDPFLWb4s4i5gMO7/jdz4rIkRSOdKX3b1qfpZU3tZtEacRH/fzKiwzNzaTrb0l15ueXr3tLiELsh5SE6NYZZXzpey6AXvwvGBH3WgQVrJJwb165ac2G+P0gYllCn5qgt08yTsG4zmiqF6vTNQ357AjwEc=;yOeVOUiu+0Dt5R05nGW9Hg=="
 ---
 

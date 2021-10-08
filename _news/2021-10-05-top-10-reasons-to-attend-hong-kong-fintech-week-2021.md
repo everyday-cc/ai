@@ -25,17 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Live Event: 3 reasons why APIs are transforming fintech"
-    excerpt: "With startup funding for fintechs in overdrive, APIs are driving forward the industry. Join FinTech & InsurTech Live on October 12-14 to find out more"
-    publishedDateTime: 2021-10-05T09:53:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/live-event-3-reasons-why-apis-are-transforming-fintech"
+  - title: "China Chip Firm Horizon Robotics Eyes Moving U.S. IPO to Hong Kong"
+    excerpt: "Chinese artificial intelligence-chip startup Horizon Robotics Inc. is considering shifting its potential U.S. initial public offering to Hong Kong in the wake of Beijing’s increasing scrutiny of overseas listings,"
+    publishedDateTime: 2021-10-08T09:54:00Z
+    webUrl: "https://www.bloombergquint.com/china/china-ai-chip-firm-horizon-robotics-said-to-eye-moving-u-s-ipo-to-hong-kong"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 71
     images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1298692193.jpg.png?itok=ot0Y-ibm"
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 630
         isCached: true

@@ -55,6 +55,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Recipe For A Successful Fintech Start-Up"
+    excerpt: "\"You have to, to serve these markets, re-imagine how money can be managed and moved because there’s going to be more change in the next five years in financial services than happened in the past 30\"- Dan Schulman,"
+    publishedDateTime: 2021-10-07T14:04:00Z
+    webUrl: "https://www.linkedin.com/pulse/recipe-successful-fintech-start-up-piyali-guha"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHuK32d3bfxWg/article-cover_image-shrink_600_2000/0/1633614786911?e=1639008000&v=beta&t=KN-1Sph56-Qc6My7-x1N_clEJDJ2bFO9ECQz66tKqhw"
+        width: 750
+        height: 449
+        isCached: true
 
 secured: "8oq2SkTzxpeKpdDllNF5ONVTNCPxYmRU0amZOeQcCQLuLpHkbgCS8fiC21ROBBUOxKaXP0PxFT5uR9Vg6rroRWZPcmWbbxyXNrP0gUDMeUHdaIYhlHEPvIbCtwf/UuYIpthVuNNWyJuueZPsXWMLYOEDDM4cMWY02lTvjSsYVHEA/10eRU5c7OcTfk+fij5tkKnKzFzEy2RRroIY/Y6Xdsm6Asfdt/K09O02UgnhDPbUp9FfNt8L+t2nKbMikSiUMUd/kolzjtbUysNLR7WAspgkjuOLJCSY6s1t21qZ5O5G/kpRNQ797ocPQVW1QhMpFZvgkRj7TID7hcy6TNA4s316VGrilT5wqWa4gD1jfEs=;C3Kd/lyQDg1GapeT6D+uRQ=="
 ---

@@ -108,6 +108,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 4
+  - title: "Artificial Blood Market 2021 – 2028 | Industry Insight By Key Players Cerus Corporation and Baxter International"
+    excerpt: "The Global Artificial Blood Market has witnessed continuous growth in the past few years and is projected to grow even further during the forecast period (2021-2028). The research presents a complete assessment of the market and contains Future trend,"
+    publishedDateTime: 2021-10-08T11:47:00Z
+    webUrl: "https://www.medgadget.com/2021/10/artificial-blood-market-2021-2028-industry-insight-by-key-players-cerus-corporation-and-baxter-international.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
 secured: "k2N6GUIQ+vu9BjBU3bNx7IBUgPSX9y5QSoB60rI+TVHpyUIJG3Fz/nulVS9iMXs31pJ137EyXSM2JQ+wTjlgmerHExll8GOgFj3KImwBwYfM5IeylcDhX0y4YnEK8fbuFlFfLvGRiVceCu8u6Vh7AOUzD+mQ1dW0mOCKvxbK9HPZLDqPpaA5HvS3Hh3bYAJRGE7WC4QVnQmdyv/qldsE3cDZJTlbrmrNqMZWkdR4+ntfKXhseKncv53ntvdZvrNB1Vzh3fU+7N59NxfzDXRVCP8fz6jOFGIN5aK58Xh3HEBg8jodsT5rbf3sTpRo3lQ51rldQ089Z47s7dybP/717WM2F//ufhxYOCzAAAUYT1a4XHvxQJZ2thd4mf9y/aD+C8QFAcP6dczq++B+SYceutpP4FTw0r7LiyjXhvgj6mVmFqI5PZUlgNWix2o6Rx1LVUBBZ9Ob9/iVu7tYl/wGNJWs5RFe9iU29rU4m7mAOtwsbZ3AfaU61pPsW4o+dPHoe1EyR+8ofvyYbSgZ48Z3yg==;c4dwUCwUDutCx57kKXwEtw=="
 ---

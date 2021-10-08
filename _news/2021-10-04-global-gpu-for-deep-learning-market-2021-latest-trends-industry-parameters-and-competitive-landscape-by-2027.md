@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-gpu-for-deep-lear
 webUrl: "https://www.marketwatch.com/press-release/global-gpu-for-deep-learning-market-2021-latest-trends-industry-parameters-and-competitive-landscape-by-2027-2021-10-04"
 type: article
 quality: 67
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -113,6 +113,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 4
+  - title: "Artificial Blood Market 2021 – 2028 | Industry Insight By Key Players Cerus Corporation and Baxter International"
+    excerpt: "The Global Artificial Blood Market has witnessed continuous growth in the past few years and is projected to grow even further during the forecast period (2021-2028). The research presents a complete assessment of the market and contains Future trend,"
+    publishedDateTime: 2021-10-08T11:47:00Z
+    webUrl: "https://www.medgadget.com/2021/10/artificial-blood-market-2021-2028-industry-insight-by-key-players-cerus-corporation-and-baxter-international.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
 secured: "5mbYAagNAccmBk9MBrxrBXivcQiO3SRcjfKNH+bHF0XQO/Ig4gqQJCPkWjpr7uosMumJe7xkaJluZE07coCHCG+wysiUZVdQh3ZMnAbR+5PxbQ50wT6+3TNZXueIpZS6FfcruFyIfLymYKvFxF/b3b0FHOYCltUZpB7rW5zlNKbZiE7o0juSh2IiyX+hTksdIhhcOFCMfQ/8tcOVuGFIolZ3bbpRvVDLf9wi0OfNTXKxmis4uaee/ZYdL+/iRjGlAJPISb7NNCu4fWBr6wLGNqEr7LVl4xZ6o2wE7G6APncxcK+XsVt0d6mtLrWK84FgFh3P9mkIOvqFrfZ4kRcknGk9iLIY6Med1bw+87obg9Q=;hEWb4Yjzo8XLyIag2VUuPg=="
 ---
