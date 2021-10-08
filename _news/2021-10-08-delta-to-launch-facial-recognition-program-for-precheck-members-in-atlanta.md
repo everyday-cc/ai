@@ -41,6 +41,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Delta to expand facial recognition at Atlanta airport"
+    excerpt: "Delta Air Lines plans to soon begin using facial recognition in the domestic terminal at Hartsfield-Jackson Atlanta International Airport, allowing passengers who qualify to go through security and board their flights without showing identification or boarding passes."
+    publishedDateTime: 2021-10-08T21:50:00Z
+    webUrl: "https://www.timesfreepress.com/news/business/story/2021/oct/08/deltexpand-facial-recognitiatlantairport/555693/"
+    type: article
+    provider:
+      name: Times Free Press
+      domain: timesfreepress.com
+    quality: 54
+    images:
+      - url: "https://media.timesfreepress.com/img/photos/2021/04/22/1619121052_Hartsfield_planes_071805_hr--1-_gs_t1070_h1232738d68446476565c200b8eb542ae20d6109b.jpg"
+        width: 1070
+        height: 583
+        isCached: true
   - title: "Self-driving shuttles hit the roads in metro Atlanta city"
     excerpt: "Self-driving shuttles will soon be carrying people through a metro Atlanta city. Peachtree Corners showed off the new autonomous vehicles on Wednesday. Peachtree Corners and their “curiosity lab” is the first in the world to deploy the autonomous shuttles on a city street,"
     publishedDateTime: 2021-10-07T10:13:00Z

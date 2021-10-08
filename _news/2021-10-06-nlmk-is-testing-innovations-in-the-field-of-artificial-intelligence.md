@@ -201,6 +201,20 @@ related:
         width: 600
         height: 415
         isCached: true
+  - title: "Artificial Intelligence and Automation 2021"
+    excerpt: "AI and automation are starting to take more of the human workload. Learn more about these technologies & which jobs will be affected in the future."
+    publishedDateTime: 2021-10-08T20:32:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-and-automation/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 37
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/10/DRL-ICA-82721-scaled.jpeg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "SkyX Integrates AI with Aerial System to Offer Midstream Inspection Solution"
     excerpt: "Canada-based UAV solution offering startup SkyX has offered an AI-integrated aerial pipeline inspection solution."
     publishedDateTime: 2021-10-04T11:00:00Z

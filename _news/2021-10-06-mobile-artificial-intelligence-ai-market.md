@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2418361/mobile-artificial-intelligence-ai
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2418361/mobile-artificial-intelligence-ai-market-size-is-expected"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -40,6 +40,22 @@ related:
       - url: "https://www.datamation.com/wp-content/uploads/2021/07/AWS-logo.png"
         width: 1400
         height: 840
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) Robots Market to Reach $21.4 Billion by 2026"
+    excerpt: "Reportlinker.com announces the release of the report \"Global Artificial Intelligence (AI) Robots Industry\" -  AI also enables robots to establish communication with other robots and humans. For companies,"
+    publishedDateTime: 2021-10-08T13:51:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/10/g23297862/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026"
+    ampWebUrl: "https://www.benzinga.com/amp/content/23297862"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23297862"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 67
+    images:
+      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Artificial Intelligence (AI) in Medical Market Regional Outlook, Competitive Strategies And Forecast up to 2026"
     excerpt: "Market Study Report presents an extensive report on \"Artificial Intelligence (AI) in Medical Market\" report offers detailed profiles of the key players to bring out a clear view of the competitive landscape of the industry."

@@ -3,8 +3,8 @@ category: news
 title: "Amid Rapid Adoption, Paravision Unveils New Computer Vision Capabilities, Making Face ..."
 excerpt: "Paravision, the U.S.-based leader in mission-critical face recognition and computer vision, today announced an array of new and updated products that make face recognition solutions faster, more accurate and secure,"
 publishedDateTime: 2021-09-28T16:02:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8"
-webUrl: "https://apnews.com/press-release/globe-newswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8"
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "70tjRkmvZ/+yiHYYF8TIEvKhbw3W25wp08bH2jP6CgZxo76TWe9s4mugiieTlSgL+rDgbMYR5a9uQpXGsfqZfAIm1Qfw1IU7KUVFXQLzJNGLSFeKtLuFmdmt2/wda9X2ZSvPfg1tvZJS3MbBLbvED4SojmMfmS4woVsgpNL4DyT30oDxdZX0VXAPiB7BZPyGEwkwyPUuVzikgJcROhDOhcUwih4ZnqphnwOU6ioN/L6wJ9juqtK7m5sfg/98PyS/oa7qWrauEqWF29bu4cZ5M/Jd5R2K4SbcFpqpXtnLMPiE2l1vWb15Otpvp46kSvbZ4Tdy2Na0yiuLrW51zMCbP5aem15hR96bJRXWnLYPw5c=;QD/5OYJL+54wEvTXwvKVDw=="
+secured: "hAVU3+CaW+HkNpGaDlMHzBJl9chkH6DrI3Ud0ds9QTcn46AlHHw4V7NWQLrsGuOpsH10tl8NcQd7FWm4a6wmOSjt7Ty9HTCj/yQ+8pf3dXrC+xK/mXojV+mY1ALxbJIWIeUDWwmBXdnXSzbUl2uOCyVDh6+xC0rRfAGH5W2S0ct0qQwM4NLfs24qjft9TpTJ7W2Wzeur96C/GpqIUkguyi2Ic32gXINERRYJKvFLbb+OZjzvXEacRtKB67pDQ6zsAibStjVv93KQ6AoDfIikl+ctQzDquxYdT8woWa7rVDLHS2kiC6ZCGNFmrxHwgqxJ/09sTGeFai954Dji9Uan02cdm8s5qfM8+B9cRlKirhM=;UYYizBcxDA4NcwciOTxf0g=="
 ---
 
