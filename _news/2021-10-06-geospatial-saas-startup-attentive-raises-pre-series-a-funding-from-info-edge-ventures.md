@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Robotics start-up Ishitva raises over $1 mn in Pre-Series A led by Inflection Point Ventures"
+    excerpt: "Ahmedabad-based robotics start-up, Ishitva has raised a Pre-Series A round of over $1 million led by Inflection Point Ventures. Ishitva Robotic Systems (IRS) is an OEM operating in the space of dry waste sorting technology."
+    publishedDateTime: 2021-10-08T09:20:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/robotics-start-up-ishitva-raises-over-1-mn-in-pre-series-a-led-by-inflection-point-ventures/article36893807.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/companies/robotics-start-up-ishitva-raises-over-1-mn-in-pre-series-a-led-by-inflection-point-ventures/article36893807.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/robotics-start-up-ishitva-raises-over-1-mn-in-pre-series-a-led-by-inflection-point-ventures/article36893807.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 78
+    images:
+      - url: "https://www.thehindubusinessline.com/companies/g33g69/article36893806.ece/ALTERNATES/LANDSCAPE_615/bl-robo"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Privacy engineering-as-a-service startup Gretel raises $50M"
     excerpt: "Including the new funding, Gretel has raised $65.5 million to date. Founded in 2020, Gretel offers a data categorization and identification platform designed to test anonymized versions of a data set automatically."
     publishedDateTime: 2021-10-07T15:00:00Z

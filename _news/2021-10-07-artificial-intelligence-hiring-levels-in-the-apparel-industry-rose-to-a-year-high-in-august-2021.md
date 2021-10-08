@@ -52,20 +52,6 @@ related:
         width: 2560
         height: 1067
         isCached: true
-  - title: "Artificial intelligence hiring levels in the power industry dropped in August 2021"
-    excerpt: "The proportion of power industry operations and technologies companies hiring for artificial intelligence related positions dropped in August 2021, with 35.7% of the companies included in our analysis recruiting for at least one such position."
-    publishedDateTime: 2021-10-06T15:37:00Z
-    webUrl: "https://www.power-technology.com/features/artificial-intelligence-hiring-power-industry-august-2021/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 31
-    images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/10/poweraihiringlead.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Glider AI wins SIA Shark Tank’s Most Innovative Technology in the Staffing Industry for 2021."
     excerpt: "In the highly contested SIA Shark Tank competition, Glider AI took the top spot for the most innovative technology in the staffing industry. Serving full time and contingent hiring for tech and non-tech roles,"
     publishedDateTime: 2021-10-05T17:00:00Z

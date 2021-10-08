@@ -20,12 +20,12 @@ topics:
 related:
   - title: "PlatON 2.0 Established A Decentralized Collaborative Privacy Artificial Intelligence Network"
     excerpt: "October 8, 2021) – PlatON, a next-generation Internet infrastructure protocol based on the fundamental properties of blockchain, recently combined blockchain, artificial intelligence and privacy computing technology to establish a decentralized collaborative privacy artificial intelligence network,"
-    publishedDateTime: 2021-10-08T10:44:00Z
-    webUrl: "https://www.thewhig.com/newsfile/99014-platon-2-0-established-a-decentralized-collaborative-privacy-artificial-intelligence-network"
+    publishedDateTime: 2021-10-08T15:46:00Z
+    webUrl: "https://www.standard-freeholder.com/newsfile/99014-platon-2-0-established-a-decentralized-collaborative-privacy-artificial-intelligence-network"
     type: article
     provider:
-      name: Kingston Whig-Standard
-      domain: thewhig.com
+      name: Cornwall Standard Freeholder
+      domain: standard-freeholder.com
     quality: 26
     images:
       - url: "https://smartcdn.prod.postmedia.digital/nexus/wp-content/uploads/2021/07/newsfile-91430.jpg"

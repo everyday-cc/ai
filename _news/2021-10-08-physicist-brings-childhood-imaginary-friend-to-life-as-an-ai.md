@@ -1,24 +1,21 @@
 ---
 category: news
 title: "Physicist Brings Childhood Imaginary Friend To Life As An AI"
-excerpt: "They currently have two major projects underway: an innovative UV cleaner device called \"the uRay,\" and a highly advanced AI assistant called \"Nova.\" Both are slated for the \"civilian\" category of their product releases."
-publishedDateTime: 2021-10-08T08:07:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/physicist-brings-childhood-imaginary-friend-to-life-as-an-ai-1030852313"
-webUrl: "https://markets.businessinsider.com/news/stocks/physicist-brings-childhood-imaginary-friend-to-life-as-an-ai-1030852313"
+excerpt: "Physicist Brings Childhood Imaginary Friend To Life As An AI Hilarious new AI Assistant Amazes Tech Company's Social M"
+publishedDateTime: 2021-10-08T02:56:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20211008ph33787/physicist-brings-childhood-imaginary-friend-to-life-as-an-ai"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20211008ph33787/physicist-brings-childhood-imaginary-friend-to-life-as-an-ai"
 type: article
-quality: 67
-heat: 67
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
@@ -27,6 +24,6 @@ images:
     height: 400
     isCached: true
 
-secured: "0MoE26jmcWbIHbuif5PakwsBsBZVamhjy0b0yNJNPzGok3MrFcAWWVATHqtlyKmb0YxIRP75y9KlE4oVCi79rfblLmaP0sI+BdHKdPjMEbZVpzFW8HqRQ+lFFjllyGueq4H05tZmmK+spa4x8cbm0AQpEXnse+J/CvaB3Bv9ZGmlXhJc+TpfX7fQtcS2KDe4vufvAIf3Yn/hfbVbmrJ8d6jK5lQG/JcTfwNwCaaKqADStFBgWSji52WsxQY8TOMkn3LwukG8JjuvJ+6Emu4BQO9tjc22z9RU6arwSumoBagB5hGtZ0qiaUc0Md5blb1xsqQ3iMTzBUoGdOB2ndSi/gWR5AmiqCTzKJAX9ierovI=;9YGMCcSVLN75TV+hxhH6wQ=="
+secured: "561lX/+OklTkm4aTpBCGyUGilndcx92t98NIYltRU+WcFjeSUlpKSxEzbwCykQkTBwvjaH1AavktIDT7zOsme7TQwQGU7dBxalM36m2rFRmW3Or54Gl1XUvO1NnFjDX0xOSo4cdaNQX4oml1a771FmxyfbcMd4FvuzBjDTeHeDmRcYf7qOIqGuHWRM+TpdPVcMtvq7EyZEXDFXzmGGNYxtxN2aMxVW7f5TM2pDsQCWzKd/MRnYX/cngyk8SgBDTHNpd2eBms3FvTA4lYzpNaisSNB93309ghUUceWwnx+JRr2B2RmjLv5zldDoCdmFFWrbqaqYGaYB9+AtWG8E2O7qI09obMXuz8POwZQIHpk2c=;BhkFhk16cX3QgFLtm0bSsA=="
 ---
 

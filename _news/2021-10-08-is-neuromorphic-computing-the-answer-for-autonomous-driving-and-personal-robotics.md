@@ -39,13 +39,13 @@ related:
     provider:
       name: 3 Quarks Daily
       domain: 3quarksdaily.com
-    quality: 45
+    quality: 62
     images:
       - url: "https://3quarksdaily.com/wp-content/uploads/2021/10/20211001_nf_mike_davies_ca-265x360.jpg"
         width: 265
         height: 360
         isCached: true
 
-secured: "YNMngSyRjErGph1dhr0kRmn6jVPrb6fWthgRDT3HEo+fjn1/CGhjDtlcOezuoR4VG/Y/wiVPKxvj5oJ1PyBwJIUlgOHbFGmh8TSt2GIbdT7ShNlt9DFPDexRk04fwwLDqOHIz5f2m6XxNVguXMKa3d3yIFdKH+JZS/N9labGN/+lKZx9K4eCP2LjfU2atAvvXwU/Ri06jDcm3+YO5Dq2IZhP6A5WN51Xb71eAA76K+XaTP68WqpKtJNZYQxWJ6QWZS+jcm2b1LYq/naPjJwqAD6YaG+tgGIXENlJMR2QtlhfWyQ9qQihq1Hz3gKJqvVQf8blv6GBxcVMcV/Y/NPNTdjDBzcQqZovDiRWfdVlRBM=;PZI8Fv7s7+cch/0lOUK6Jw=="
+secured: "mQLt5a3B8ScsyVuaQIw9neqfrWVViZtLSgswCsbo3saiX24Hp2c1sHO9Q8BLeNS8J99UaWl41y4jHhNC8ER+FFIhnET6dfENzhemqyeWGHGUR7r94loW36/XDikx78Pt7hqjtnd/pofqx4ZzkFcv6aZMnz4Q4cwsmDj56LNHRDrbga6KH9wH+8KcpDxxUJGitYxXFc/aQ+dTzgcMszQ4e1lXEP3QSY7AQQv2WdtnJdmJuLFEKsBhz/ITH0emJlf6Xie3rqqtcbe61R3Nrdao1kW0i9s9aYSvm16i3/N2rSS4FXgVzffhdAwKW1yikZ0Ks9VW/vv+uvLSa/AZmrfLdbdOIwaSp40P31xlaJ/E5FrpB8oYzPWRSbh7yN97ddEjPxrrmLgDP7oSLdsYhCK8c9fR7M2u8GS4Uzhoz7J9xzEAf4ZEBhIMIKB8p1w7Sz0emcH4xEC9lCCk4JLuZ1OMOcuah8C08JFUADoP4UA/SUiveupug9qP6F4AyTiUm8icUkCA7g4bawUsWDVQGYHO3Q==;kQh9X3CCT/YAtNBv/YfJog=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/opinion/articles/2021-10-04/artificial-i
 webUrl: "https://www.bloomberg.com/opinion/articles/2021-10-04/artificial-intelligence-ain-t-that-smart-look-at-tesla-facebook-healthcare"
 type: article
 quality: 84
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -118,6 +118,20 @@ related:
       - url: "https://slator.com/assets/2021/10/Facebook-Speech-to-Speech-Machine-Translation.png"
         width: 600
         height: 400
+        isCached: true
+  - title: "Digital Brief: Facebook fallout, 2022 digital agenda, AI in law enforcement"
+    excerpt: "Welcome to EURACTIV’s Digital Brief, your weekly update on all things digital in the EU. You can subscribe to the newsletter here.  “The things I saw at Facebook over and over again was,"
+    publishedDateTime: 2021-10-08T14:15:00Z
+    webUrl: "https://www.euractiv.com/section/digital/news/digital-brief-facebook-fallout-2022-digital-agenda-ai-in-law-enforcement/"
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 37
+    images:
+      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/10/1-1-800x450.png"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "1JqOi+f/f9xrCv6x2ehKjVazuBqQm0rDtjXt6jk6+B4+Yt7An8fF/gEL1t5Zc+HBMAQzJKq3Zm6okHulzZcJsmwztFG7IygAXJwVQJPEw+qb7fdt9myYsXStSREbTZ4eXqzSyrGjWbdCZtyKxaRXCxzjuB6z3IFXzfAiQMdI32GAMKgRNmJzR0qZNGBKaJez/OPcGknkrGQesuoiGdWiXGTA9LIAh/cw9S98uFU06lHUxnLDQ+IR7mM75eLMGsC7cK2LhtsKgJAOk1v2JXKendb20G4ysfYBdlwOzhy2foMSZsu0t0MyUDV+fJANtofqsQTmCILFzNuOWAA/xKYYr5iZvTk6AU1xQ12flcgEfb4RxX2aj0xVCQhc2ptwdVXypNfsyxwfDAYd/Gj0+K9DC+OPK70cDMCseM4XtgsDJLIyEj62AKoftTaxDeaQ6ZSwJFqUf4POezGkZJVXqXrFh4XpPM/As7/fAk287lmm4qaUJKFPuDwhrlRS8cgB7SZvk2Hqifs8R9TooK9WilSSDQ==;Ct1l4+niI5p9n6XL8bE0Rw=="

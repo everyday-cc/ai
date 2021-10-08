@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/389975"
 webUrl: "https://www.entrepreneur.com/article/389975"
 type: article
 quality: 69
-heat: 109
+heat: 79
 published: true
 
 provider:
@@ -44,50 +44,6 @@ related:
       - url: "https://europeansting.files.wordpress.com/2021/10/robots.webp"
         width: 715
         height: 1001
-        isCached: true
-  - title: "Coding and More to host 2nd edition of International Artificial Intelligence Competition"
-    excerpt: "From October 8 to October 11 2021, Coding and More will host India’s first virtual international hackathon for teen girls in AI. This is in collaboration with TeensinAI, France. As many as 22 countries are participating in this social initiative."
-    publishedDateTime: 2021-10-06T00:20:00Z
-    webUrl: "https://www.freepressjournal.in/lifestyle/coding-and-more-to-host-2nd-edition-of-international-artificial-intelligence-competition"
-    ampWebUrl: "https://www.freepressjournal.in/amp/lifestyle/coding-and-more-to-host-2nd-edition-of-international-artificial-intelligence-competition"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/lifestyle/coding-and-more-to-host-2nd-edition-of-international-artificial-intelligence-competition"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 50
-    images:
-      - url: "https://images.assettype.com/freepressjournal/2021-10/fea16da5-0437-419c-b283-32ca8a06a2ff/Info_Advetorial_Oct5.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1199
-        height: 729
-        isCached: true
-  - title: "Relativity Focuses on International Expansion, Integrations and AI in Relativity Fest Keynote"
-    excerpt: "The virtual Relativity Fest 2021 keynote didn't feature groundbreaking product releases like in years past, but instead upgrades aimed at integrating artificial intelligence into the discovery workflow,"
-    publishedDateTime: 2021-10-04T16:03:00Z
-    webUrl: "https://www.law.com/legaltechnews/2021/10/04/relativity-focuses-on-international-expansion-integrations-and-ai-in-relativity-fest-keynote/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 26
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/10/Relativity-Fest-2018-Logo-Sign-1-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "Revival AI Announces Regulation A+ Offering to Revolutionize Bible Publishing Through Customization, AI, and Automation"
-    excerpt: "Revival AI, a Bible customization firm driven by some of today's most groundbreaking technology, is pleased to announce the launch of its Regulation"
-    publishedDateTime: 2021-10-06T16:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/revival-ai-announces-regulation-a-offering-to-revolutionize-bible-publishing-through-customization-ai-and-automation/article_e6a02887-3895-5593-85f0-52b992516690.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 17
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "JWiZkTRerKiLYseasS8HMyyRoPPISN6VGn6Yd0U3hj/SBbhIRmfCdHaJRhfieAEtBwvza5/E2Gj99ZGETAVYs0+0fLHc1MFyXLCwLfTN3CTqp3eR73CeOlUX7iO1KMaUsS6kGYyfofYx1PB83OTCxFDmvKS9FyvsrDV9JHLTgmfjGSwqydpxZDAsiaACqb++GZfvB0URlNpAwJdHsg8mG9XGQAeSphyKhaj+BIznnR1ta9WxO31p2zhpHsjJGCr6tWpAWR3sVswl8hgSAqzZLrtR/QnbN1WcIKY6Ag6LVHL1MOpnKVKXNZHB48RC/CVazvawJ2hpLjXBwNuO0FI5mxAVeARE+gL/YuQdb6BDVIqXt8Me6b0OOif4j6fbrOww/joc/rgn9Bd+5OJ4vuIhKwhZMg41Qg33627e560t389wLQE2ImxQlVM2mrnyO36pI4ifgg+/K1pKRvnyLg+nArii4eUcss+gKQIs3/ID7vZMoflbqGBblBiDLW2SwZTQdVr54lNdjM3OA1Ero54jRg==;HjmvM+KpkmLqMp9LvS8ouw=="

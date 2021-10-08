@@ -43,21 +43,19 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "POLITICO AI: Decoded: Parliament wants to ban facial recognition— Experimenting with facial recognition rules — Big big bucks in AI"
-    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
-    publishedDateTime: 2021-10-06T09:41:00Z
-    webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-parliament-tests-facial-recognition-waters-experimenting-with-facial-recognition-rules-big-big-bucks-in-ai/"
-    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-parliament-tests-facial-recognition-waters-experimenting-with-facial-recognition-rules-big-big-bucks-in-ai/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-parliament-tests-facial-recognition-waters-experimenting-with-facial-recognition-rules-big-big-bucks-in-ai/amp/"
+  - title: "Delta to Launch Facial Recognition Program for PreCheck Members in Atlanta"
+    excerpt: "Delta Air Lines in the coming weeks will begin a facial recognition program for U.S. Transportation Security Administration PreCheck members at Hartsfield-Jackson Atlanta International Airport, the carrier announced."
+    publishedDateTime: 2021-10-08T14:35:00Z
+    webUrl: "https://www.businesstravelnews.com/Transportation/Air/Delta-to-Launch-Facial-Recognition-Program-for-PreCheck-Members-in-Atlanta"
     type: article
     provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 46
+      name: Business Travel News
+      domain: businesstravelnews.com
+    quality: 37
     images:
-      - url: "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png"
-        width: 1920
-        height: 1080
+      - url: "https://www.businesstravelnews.com/dist/images/BTN-footer-logo-no-tag.png"
+        width: 600
+        height: 398
         isCached: true
 
 secured: "BQWcMdEoU0MtyAi1GNY475hzbZpBNyJj+VsuwxQYmMF0wfcasbg2GkDMO/jtbkdbGXOc5mmdMojicRi4pSFET9bWcOWE6vVqqKn20uUehBwsVYF9jWOUEjLwgGvFvxgHxxAegHFE3P2ZYqt0oO+1btacif5WJpdV2K/odNKPXWgPZphOfWGDwAVUNQiOw0obVoYMBH/Q9ZFsnYtRk+o1a+f6+YX/gHS+j7+o1ssuEIx2aAi+RS6BfYHs+yMAxcsdiwRzlprgs4/Jtcs5oUeA8e1oU9WPP6paER4ADK8lFGPDRiqnKqpL2R6/Zt0/gFj0WWJ+tcP41aihuR8W04lAjpcGokILW9XEbl7wyEh8O1w=;YC5zo0yk3AT8SSd4cOShQA=="

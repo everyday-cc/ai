@@ -3,16 +3,16 @@ category: news
 title: "Quantexa Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
 excerpt: "CB Insights today named Quantexa to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year's list was unveiled on stage at CB Insights' Future of Fintech conference in New York City."
 publishedDateTime: 2021-10-05T20:30:00Z
-originalUrl: "https://www.wcax.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/"
-webUrl: "https://www.wcax.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/"
+originalUrl: "https://www.kcrg.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/"
+webUrl: "https://www.kcrg.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: WCAX3
-  domain: wcax.com
+  name: ABC Kcrg  9
+  domain: kcrg.com
 
 topics:
   - AI in Finance
@@ -80,6 +80,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "koGoqiduNy8nzOhbaunfEQ2uL5MO+BXq0YlXSbEMPIW5Hi8z+GGquSKHOEkrqUqdESWc5jLAoCzC+YK/Gi7HRcBB++j7cqpThgFW1edOdwSDFSnMA5HpHUbPvM1y4bDiqDe4daN0YmMLu/yF6HEoXFrofpRt0jWj4ukVYuQ0L7iOtACPctcwJTBwWDkOi5oB1kSW5EGOzyHeCPw2oNgd0WHfthNeSa6W9zdVVMNwYvQNPO/aKT2XtDnyBmqJwXHm+sbW8zMgXJkT3+Jsi3c6BCByf5IYVCj73c3p0wljpIcb9DMoxtPQE435fVBovs7b5lsQD7gqCv9z1o4KmQvd62faUa466c2n97Va3CboHrc=;qPIEJbBvMuzgRcBSYqhSlQ=="
+secured: "MjSiJoRIxYqjSkoN91NNMNTmvH9FweIvaFSzNBnQgxPjcdYpf4yOjyUq5Uu8fBAFoe0Mae+jYMNsyrsRm2seSbwbYnoBHZH3Tmi9ss8dD1dzSLO3lqolTPFTTGeTFT3vxKolN9CJyjS77ZJkRpD75uxsWddUVKX3C5H5DyHRx2a4/IaMnckOw2D1XoMyNAwYdObKuYUR42FzZc/mgVZgFoSD2elwUy/LW4r2RF+KJI4s0cV5Bewx0wL+3PSqIb8QZWLLlFpdH43kg+TLqoad+5I3xZ1eJEWgiAvWYpJUgxBg9El+uez1pq4GjqGi4iH7MOW/nc+PhZnYnpDOwT6GGp9y2JQNJVEy8KnhQmuM7P8=;DlKesPDApHGYZVvkCt2iBQ=="
 ---
 

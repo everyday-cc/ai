@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-07-from-science-fiction-to-reality-visual-ai-paves-path-to-autonomous-testing.md",
+      "title": "From Science Fiction To Reality: Visual AI Paves Path To Autonomous Testing",
+      "excerpt": "The beauty of using utilization patterns of users to generate automatic navigation is that it uses the “brain of the masses” to test the utilization patterns that are important to the users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/07/from-science-fiction-to-reality-visual-ai-paves-path-to-autonomous-testing/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/07/from-science-fiction-to-reality-visual-ai-paves-path-to-autonomous-testing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f983ea65a5f45fb278c9dd1%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/07/from-science-fiction-to-reality-visual-ai-paves-path-to-autonomous-testing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/07/from-science-fiction-to-reality-visual-ai-paves-path-to-autonomous-testing/amp/",
+      "publishedDateTime": "2021-10-07T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-07-ai-powered-marketing-platform-alembic-emerges-with-95m.md",
+      "title": "AI-powered marketing platform Alembic emerges with $9.5M",
+      "excerpt": "Alembic, an AI-powered marketing insights platform, has emerged from stealth with $9.5 million in seed funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/07/ai-powered-marketing-platform-alembic-emerges-with-9-5m/",
+      "originalUrl": "https://venturebeat.com/2021/10/07/ai-powered-marketing-platform-alembic-emerges-with-9-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1138451176.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/07/ai-powered-marketing-platform-alembic-emerges-with-9-5m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/ai-powered-marketing-platform-alembic-emerges-with-9-5m/amp/",
+      "publishedDateTime": "2021-10-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-10-07-the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world.md",
       "title": "The Data and AI landscape 2021: It a MAD, MAD, MAD world",
       "excerpt": "Data and AI companies used to be considered tech companies. But the wave of IPOs and proliferation of unicorns is turning this market into its own sector. Our question is how sustainable is this MAD new world?",
@@ -62,7 +165,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/07/is-there-too-much-focus-on-intelligence-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -498,6 +601,59 @@
       ]
     },
     {
+      "path": "_news/2021-10-07-driving-ai-innovation-in-tandem-with-regulation.md",
+      "title": "Driving AI innovation in tandem with regulation",
+      "excerpt": "This unleashed criticism that the regulations could slow AI innovation, hamstringing Europe in its competition with the U.S. and China for leadership in AI. For example, Andrew McAfee wrote an article titled “EU proposals to regulate AI are only going to hinder innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/",
+      "originalUrl": "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 351,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-853938300.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/amp/",
+      "publishedDateTime": "2021-10-06T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-databricks-boosts-no-code-data-analytics-ai-capabilities-with-acquisition.md",
       "title": "Databricks Boosts No-Code Data Analytics, AI Capabilities With Acquisition",
       "excerpt": "Databricks has acquired 8080 Labs and its Bamboolib data science tool to bolster the Databricks data engineering, data analytics and AI product portfolio.",
@@ -506,7 +662,7 @@
       "originalUrl": "https://www.crn.com/news/applications-os/databricks-boosts-no-code-data-analytics-ai-capabilities-with-acquisition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 278,
+      "heat": 279,
       "tags": null,
       "images": [
         {
@@ -624,6 +780,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-06-north-america-facial-recognition-market-covid-19-impact-in-depth-industry-analysis-2028.md",
+      "title": "North America Facial Recognition Market Covid-19 Impact In-Depth Industry Analysis 2028",
+      "excerpt": "According To Market Research, The North American Facial Recognition Market Is Anticipated To Rise With A Cagr Of 8.29% In The Estimated Years 2019-2028. The United States And Canada Together Shape The Market In This Region.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-covid-19-impact-in-depth-industry-analysis-2028-2021-10-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-covid-19-impact-in-depth-industry-analysis-2028-2021-10-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-will-the-cloud-eat-your-ai.md",
       "title": "Will the cloud eat your AI?",
       "excerpt": "Commentary: The big cloud providers have a lot going for them when it comes to artificial intelligence. Does that mean these cloud providers are the only game in town?",
@@ -632,7 +840,7 @@
       "originalUrl": "https://www.techrepublic.com/article/will-the-cloud-eat-your-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -991,211 +1199,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-marc-lore-backed-conversational-commerce-startup-wizard-raises-50m-series-a-from-nea.md",
-      "title": "Marc Lore-backed ‘conversational commerce’ startup Wizard raises $50M Series A from NEA",
-      "excerpt": "Marc Lore, who earlier this year stepped down from his role as Walmart’s head of U.S. e-commerce, is now backing a new startup in the e-commerce space called Wizard. Lore has taken on the roles of co-founder,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/06/marc-lore-backed-conversational-commerce-startup-wizard-raises-50m-series-a-from-nea/",
-      "originalUrl": "https://techcrunch.com/2021/10/06/marc-lore-backed-conversational-commerce-startup-wizard-raises-50m-series-a-from-nea/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/02/shutterstock_373885852.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/06/marc-lore-backed-conversational-commerce-startup-wizard-raises-50m-series-a-from-nea/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/marc-lore-backed-conversational-commerce-startup-wizard-raises-50m-series-a-from-nea/amp/",
-      "publishedDateTime": "2021-10-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-how-to-identify-ai-opportunities.md",
-      "title": "How To Identify AI Opportunities",
-      "excerpt": "Businesses might throw more money to new AI in the near future, but that doesn’t guarantee they’ll get a significant return on investment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/06/how-to-identify-ai-opportunities/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/06/how-to-identify-ai-opportunities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c44ab1078324bc668466a%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/06/how-to-identify-ai-opportunities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/06/how-to-identify-ai-opportunities/amp/",
-      "publishedDateTime": "2021-10-06T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-are-we-willing-to-pull-the-plug-tech-projects-are-under-scrutiny-as-digital-ethics-concerns-increase.md",
-      "title": "'Are we willing to pull the plug?' Tech projects are under scrutiny as digital ethics concerns increase",
-      "excerpt": "Tech analysis firm anticipates a shift towards privacy that might mean some tough decisions ahead. By Daphne Leprince-Ringuet | October 6, 2021 | Topic: Artificial Intelligence For now, instead of architecting ethics directly into the product to avoid future harms,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/are-we-willing-to-pull-the-plug-tech-projects-are-under-scrutiny-as-digital-ethics-concerns-increase/",
-      "originalUrl": "https://www.zdnet.com/article/are-we-willing-to-pull-the-plug-tech-projects-are-under-scrutiny-as-digital-ethics-concerns-increase/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/e74ad53f57166489aae254aa3b57879c4135607b/2021/09/21/9ace91bb-15e2-4b5f-90dc-a721785f2af9/shutterstock-129038348.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/are-we-willing-to-pull-the-plug-tech-projects-are-under-scrutiny-as-digital-ethics-concerns-increase/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/are-we-willing-to-pull-the-plug-tech-projects-are-under-scrutiny-as-digital-ethics-concerns-increase/",
-      "publishedDateTime": "2021-10-06T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-european-parliament-backs-ban-on-remote-biometric-surveillance.md",
-      "title": "European Parliament backs ban on remote biometric surveillance",
-      "excerpt": "The European Parliament has voted to back a total ban on biometric mass surveillance. AI-powered remote surveillance technologies such as facial recognition have huge implications for fundamental rights and freedoms like privacy but are already creeping into use in public in Europe.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/06/european-parliament-backs-ban-on-remote-biometric-surveillance/",
-      "originalUrl": "https://techcrunch.com/2021/10/06/european-parliament-backs-ban-on-remote-biometric-surveillance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 232,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/facial-recognition.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/06/european-parliament-backs-ban-on-remote-biometric-surveillance/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/european-parliament-backs-ban-on-remote-biometric-surveillance/amp/",
-      "publishedDateTime": "2021-10-06T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

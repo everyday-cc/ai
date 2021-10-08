@@ -33,15 +33,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Artificial Intelligence Could Power the Next Generation of Aviation"
-    excerpt: "Download Free PDF Brochure @  The global artificial intelligence (AI) in aviation market is expected to be valued at USD 152.4 Million in 2018 and is likely to reach USD 2,222.5 Million by 2025, at a CAGR of 46."
-    publishedDateTime: 2021-10-07T20:35:00Z
-    webUrl: "https://www.xing.com/communities/posts/artificial-intelligence-could-power-the-next-generation-of-aviation-1014567822"
-    type: article
-    provider:
-      name: XING
-      domain: xing.com
-    quality: 17
 
 secured: "2Vlir0Vwd8N+XU6yLQinYvwFvL0cd4FamPxauQ0FZXv+010jKTD+QSxq7YrhKVMvzobLEyEWQDSaKpu9jb8aJ3JffQj7FFpQDFWsU3nFg4+Xw5V3qt9xKdVusAJTU38RtrQcvXQ3gkffJ5GM087dU4Q2OEIIwPe9RwSkxDm0aH17robbMmvsv/br4VSlXEiYIa/TYxYCO2EauR+nTRltaDw059au3xepM4hD5kBGag0YLu7VX5mRwUIi3tmuuhOZBnxI1nHQyB696lrYK5hV4YG5j7uZpLKvJ6OrctekXtkgvTPXDSKCRUmCBcxeh+uFa0PfHJzyVspK14KQo5/LUFpGSmJWrRa38kcaA/qtHMQ=;SSs4+X3PA5WNjq8EgcB9Gg=="
 ---

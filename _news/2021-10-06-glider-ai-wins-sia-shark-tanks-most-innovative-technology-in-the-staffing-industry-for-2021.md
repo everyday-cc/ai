@@ -52,20 +52,6 @@ related:
         width: 2560
         height: 1067
         isCached: true
-  - title: "Artificial intelligence hiring levels in the power industry dropped in August 2021"
-    excerpt: "The proportion of power industry operations and technologies companies hiring for artificial intelligence related positions dropped in August 2021, with 35.7% of the companies included in our analysis recruiting for at least one such position."
-    publishedDateTime: 2021-10-06T15:37:00Z
-    webUrl: "https://www.power-technology.com/features/artificial-intelligence-hiring-power-industry-august-2021/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 31
-    images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/10/poweraihiringlead.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Artificial intelligence hiring levels in the apparel industry rose to a year-high in August 2021"
     excerpt: "The proportion of apparel supply chain companies hiring for artificial intelligence related positions rose to a year-high in August 2021."
     publishedDateTime: 2021-10-07T08:31:00Z

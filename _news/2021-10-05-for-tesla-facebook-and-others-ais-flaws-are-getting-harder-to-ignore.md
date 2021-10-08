@@ -115,6 +115,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Digital Brief: Facebook fallout, 2022 digital agenda, AI in law enforcement"
+    excerpt: "Welcome to EURACTIV’s Digital Brief, your weekly update on all things digital in the EU. You can subscribe to the newsletter here.  “The things I saw at Facebook over and over again was,"
+    publishedDateTime: 2021-10-08T14:15:00Z
+    webUrl: "https://www.euractiv.com/section/digital/news/digital-brief-facebook-fallout-2022-digital-agenda-ai-in-law-enforcement/"
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 37
+    images:
+      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/10/1-1-800x450.png"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "Nm+ozT33MExyh43m7cENvHa6PwoN1HNdwweDyQCL/TkoJPWUhxtbDvHfTFWzdOrKB0qEvD+jKL5knot37wy5Vk/sSwrLXHGt2mjGFMIMsiJD5mB7Bk3lREUOzpr3je9q9kiMTCstBUXD2KZVNA4F8LKxhzJOCU8lTk3c3r51sWg2Epcxkknghj/RuPpT80ukRUdhamjm+R/7iG1ilsfvBn0SVNWprSmXZGoEHfCYVQBy6xs01Ydadc1b6ieCto7FGrQTD/lS5tPgxtB78S1TO+NMEh2y+QZ9IezCv2/qIrAugQj2Tz+5La1ZzILrqFpcY7O7D1Jb/wtT5gUiQReMPsaZ8aHVnHziWjgsumTjtFg=;hwGd/VRUhvA0S5gTX54snA=="
 ---

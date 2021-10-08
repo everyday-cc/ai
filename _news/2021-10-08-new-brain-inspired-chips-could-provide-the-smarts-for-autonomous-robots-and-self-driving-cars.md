@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-08T11:48:00Z
 originalUrl: "https://3quarksdaily.com/3quarksdaily/2021/10/new-brain-inspired-chips-could-provide-the-smarts-for-autonomous-robots-and-self-driving-cars.html"
 webUrl: "https://3quarksdaily.com/3quarksdaily/2021/10/new-brain-inspired-chips-could-provide-the-smarts-for-autonomous-robots-and-self-driving-cars.html"
 type: article
-quality: 45
+quality: 62
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Robotics
+  - AI Hardware
 
 images:
   - url: "https://3quarksdaily.com/wp-content/uploads/2021/10/20211001_nf_mike_davies_ca-265x360.jpg"
@@ -43,6 +44,6 @@ related:
         height: 675
         isCached: true
 
-secured: "0+OyAy61hJX8yrqUOMPnt26NLNaB7ms15Y7whuLBdBY8wxoB7Qr1mBhQGSGE/NCzJTT/kg2QNmg1zWju2Is4WQbtxCGCfk/lRZHo/XZDbBHaukHhu71mEBOE35IaLqIs5wOrsTLp9PXWChwxEs47D/m7fSD3KPaj383R1RPNX6his2TdmTgIxqSmqjxTBUanhTObc+i4YktOGwVVNg3VilIhbZND6cReInWALtwW5S60srOr/RMKYrQCKDGKn28eZXXoMh3qToV4btuFkPjkayAuLmaR9XdwCTrq/5+6oK1Olt9ZUYdiAl2dkEFafy2hlpcziUclxRbatBZ+PzsdqECVzYYRaMf3F3xAqGtIqiM=;a3GSqejpB/0sbhcFyzyGaQ=="
+secured: "oGfJL8gNG9gdyGJjLLiC1Kbopcwyol9uajiDIBUKMA926YhLCX+CYOb4PyqOKIf8OuEcFcKK2JmHPoBDMtUN3RKd/3KFTxNwTMg1nNcQLaiuSVGMl417zXCDDqHGMkCCen+yhW9LXf59V/TNDe+pj7IKnu67welws8U/rRr+t1WYikm38K33f44JtdGvKKH/fpoxBq9+/bijYvWncDUcdkmEx7xZyxFKrFeDVRmfZ/CZ9RYjPP0tR4MYFV66bEG4e0Ipwz/FnrFAuxQvegcE+L9QGQfLfdhvG2RsTTQeqf1yRASZcjkjI88TRHR/L1H86JT1/fIXnnYDKPxK8ryhGyBDbX0EwAqSv6kR5cdmZdDeAcCho17l8e9wTRFA8jAi9PLih+x18Otk33ldRr9EndrM/bC8+ws1NvBkBD+vLRpIucxNbwBjwjBndvFPtkL3xbUmFL6yFbQF2SbNPCXcuT9LhQPyxZgfdHkGZd/OkDrdKBddXU7gRR9qDcLtePuSl09WL0U0tT8Bx4LJ2RbBEw==;pOu8cqi6CKIwvzKlAmxnKw=="
 ---
 

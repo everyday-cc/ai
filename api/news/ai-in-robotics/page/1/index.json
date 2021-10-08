@@ -106,7 +106,7 @@
       "originalUrl": "https://www.business-standard.com/article/companies/robotics-startup-ishitva-raises-1mn-in-pre-series-a-funding-led-by-ipv-121100800076_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -149,7 +149,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -722,40 +722,6 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-continental-and-horizon-robotics-jv-accelerates-commercialisation-ai-technology.md",
-      "title": "Continental and Horizon Robotics JV accelerates commercialisation AI technology",
-      "excerpt": "Technology company Continental, and one of the global leaders in edge Artificial Intelligence (AI) computing platforms Horizon Robotics signed a Joint Venture (JV) contract, focusing on providing hardware and software integrated solutions for Advanced Driver Assistance Systems and automated driving.",
-      "sourceUrl": null,
-      "webUrl": "https://www.manufacturingtodayindia.com/sectors/11675-continental-and-horizon-robotics-jv-accelerates-commercialisation-ai-technology",
-      "originalUrl": "https://www.manufacturingtodayindia.com/sectors/11675-continental-and-horizon-robotics-jv-accelerates-commercialisation-ai-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.manufacturingtodayindia.com/sectors/11675-continental-and-horizon-robotics-jv-accelerates-commercialisation-ai-technology?amp",
-      "cdnAmpWebUrl": "https://www-manufacturingtodayindia-com.cdn.ampproject.org/c/s/www.manufacturingtodayindia.com/sectors/11675-continental-and-horizon-robotics-jv-accelerates-commercialisation-ai-technology?amp",
-      "publishedDateTime": "2021-10-04T20:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manufacturingtodayindia",
-        "domain": "manufacturingtodayindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -1373,6 +1339,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-beware-professional-services-workers-robots-are-coming-for-your-job-too.md",
+      "title": "Beware Professional Services Workers: Robots Are Coming For Your Job Too!",
+      "excerpt": "For the most part, the biggest fears of many during this period of rapid technology advancement has been that blue collar positions, the laborers and builders of the world, would be the ones finding their positions threatened the most.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/calvinmackie/2021/09/30/beware-professional-services-workers-robots-are-coming-for-your-job-too/",
+      "originalUrl": "https://www.forbes.com/sites/calvinmackie/2021/09/30/beware-professional-services-workers-robots-are-coming-for-your-job-too/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155ea739694b9b824530a47%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/calvinmackie/2021/09/30/beware-professional-services-workers-robots-are-coming-for-your-job-too/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calvinmackie/2021/09/30/beware-professional-services-workers-robots-are-coming-for-your-job-too/amp/",
+      "publishedDateTime": "2021-09-30T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

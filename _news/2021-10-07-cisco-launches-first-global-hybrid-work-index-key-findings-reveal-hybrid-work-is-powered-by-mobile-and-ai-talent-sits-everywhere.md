@@ -27,6 +27,19 @@ images:
     height: 211
     isCached: true
 
+related:
+  - title: "Talent sits everywhere with hybrid work powered by mobile and artificial intelligence"
+    excerpt: "Cisco’s Hybrid work index reveals insights on people’s preferences, habits and technology usage in the era of hybrid work."
+    publishedDateTime: 2021-10-08T14:39:00Z
+    webUrl: "https://www.computerweekly.com/news/252507910/Talent-sits-everywhere-with-hybrid-work-powered-by-mobile-and-artificial-intelligence"
+    ampWebUrl: "https://www.computerweekly.com/news/252507910/Talent-sits-everywhere-with-hybrid-work-powered-by-mobile-and-artificial-intelligence?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252507910/Talent-sits-everywhere-with-hybrid-work-powered-by-mobile-and-artificial-intelligence?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 32
+
 secured: "PEqcZZWpZ7dDu0hqiU6meUz/vCIKs50Z0cPhbkayWhoffBcd17+B8puQEEPYpXTRFltpP0l0euyGSodC5QXCIwoN3ZN3rvvO94dAoMoxx257ouzlWvXdNBTsv3wbi8n/SsfAhM9/wjkD1KmFzlj1rHQVDovrDnfKH2EBaK54Gpggqm0Z9mWzj3MMxrJWyYnUma0hwWTSTwjO236138d89n9GDbsi3Cr/oxpFBjtQltTtymO6Hk84AxMEKn+F0dzTYRKpnP4f7P4sQLkoFhrVcpa+VRqd5pQA2lbJrx3GvQj9paSf8vnUe8PHtv48GbTiQmNIJpn0y8Ey5B5BZHr181VrJEMs2uvYF7Rbevtj3BY+lIgb/ATp0lHkIz3/SeQ6Kcl0syjwUyKytce8UTx2+uy/+iIbC+cLj+mb2HWe5BoOhrWDulcGPSup1bvwWM7nxQx+beFF9uRfPj02rMsROoDvn0fRC7fBV+74s/xV2/lGhLLuZQ/+6tsLwl6upNhgEHsZX96OuRhFFggONd4aMg==;J0F8uGyyD59LSyr5l2NDqg=="
 ---
 

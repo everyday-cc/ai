@@ -24,62 +24,366 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence hiring levels in the railway industry for August 2021"
-    excerpt: "We've analysed hiring patterns using data from GlobalData. The proportion of railway equipment and technologies companies hiring for artificial intelligence related positions rose in August 2021, with 29."
-    publishedDateTime: 2021-10-07T10:28:00Z
-    webUrl: "https://www.railway-technology.com/features/artificial-intelligence-hiring-levels-in-the-railway-industry-for-august-2021/"
+  - title: "Driving AI innovation in tandem with regulation"
+    excerpt: "This unleashed criticism that the regulations could slow AI innovation, hamstringing Europe in its competition with the U.S. and China for leadership in AI. For example, Andrew McAfee wrote an article titled “EU proposals to regulate AI are only going to hinder innovation."
+    publishedDateTime: 2021-10-06T18:47:00Z
+    webUrl: "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/"
+    ampWebUrl: "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/amp/"
     type: article
     provider:
-      name: Railway Technology
-      domain: railway-technology.com
-    quality: 49
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 91
     images:
-      - url: "https://www.railway-technology.com/wp-content/uploads/sites/24/2021/09/Konstantin-Planinski-on-Unsplash-800px.jpg"
-        width: 800
-        height: 533
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-853938300.jpg?w=1024"
+        width: 1024
+        height: 768
         isCached: true
-  - title: "Beverages’ Artificial Intelligence hiring levels hold steady in August – data"
-    excerpt: "The proportion of beverage manufacturing and supply companies hiring for Artificial Intelligence-related positions in August was in line with the previous month, with 30% of the companies included in GlobalData's analysis recruiting for at least one such position."
-    publishedDateTime: 2021-10-07T11:58:00Z
-    webUrl: "https://www.just-drinks.com/features/beverages-artificial-intelligence-hiring-levels-hold-steady-in-august-data/"
+  - title: "Predicting gene expression with AI"
+    excerpt: "Our new Enformer architecture advances genetic research by improving the ability to predict how DNA sequence influences gene expression."
+    publishedDateTime: 2021-10-04T00:00:00Z
+    webUrl: "https://deepmind.com/blog/article/enformer"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 89
+    images:
+      - url: "https://lh3.googleusercontent.com/pygM2sdWIgLuSkuUsnJXZEqO71U9uZ7hSuAngL34OL66t5xgjJT5HujJ0kIirF5g1heZjMuUKrrHuuRZAkFsepPVJYSncAyUJPw-cXFF0fmxxYGBWUpb"
+        width: 512
+        height: 288
+        isCached: true
+  - title: "How Artificial Intelligence Helps In Decision Making"
+    excerpt: "It’s incredible how artificial intelligence has drastically changed the way we experience technology. To say that it makes life easier is an understatement. Some may not be aware of it, but AI has become a part of everybody’s life."
+    publishedDateTime: 2021-10-07T23:31:00Z
+    webUrl: "https://techbullion.com/how-artificial-intelligence-helps-in-decision-making/"
+    ampWebUrl: "https://techbullion.com/how-artificial-intelligence-helps-in-decision-making/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-artificial-intelligence-helps-in-decision-making/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 59
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/10/AI-robot-scaled.jpeg"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "Gap Continues Tech-Buying Spree with AI Acquisition"
+    excerpt: "Based 4 Casting (CB4), a startup that uses AI and machine learning tools to transform retail operations, increase sales and improve the customer experience. Funded by investors including Sequoia Capital,"
+    publishedDateTime: 2021-10-05T16:44:00Z
+    webUrl: "https://retailtouchpoints.com/features/news-briefs/gap-continues-tech-buying-spree-with-ai-acquisition"
+    ampWebUrl: "https://retailtouchpoints.com/features/news-briefs/gap-continues-tech-buying-spree-with-ai-acquisition/amp"
+    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/news-briefs/gap-continues-tech-buying-spree-with-ai-acquisition/amp"
+    type: article
+    provider:
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 57
+    images:
+      - url: "https://retailtouchpoints.com/wp-content/uploads/2021/02/Gap.jpg"
+        width: 2440
+        height: 1627
+        isCached: true
+  - title: "AI incubator makes understanding practical applications as easy as P-ai"
+    excerpt: "The only artificial intelligence club at the 5Cs, P-ai helps students of all computer science levels understand and work with AI."
+    publishedDateTime: 2021-10-08T08:07:00Z
+    webUrl: "https://tsl.news/p-ai-incubator/"
+    ampWebUrl: "https://tsl.news/p-ai-incubator/amp/"
+    cdnAmpWebUrl: "https://tsl-news.cdn.ampproject.org/c/s/tsl.news/p-ai-incubator/amp/"
+    type: article
+    provider:
+      name: tsl.news
+      domain: tsl.news
+    quality: 57
+    images:
+      - url: "https://tsl.news/wp-content/uploads/2021/10/Brynne-Barnard-Bahn_-P-ai.jpeg"
+        width: 3177
+        height: 2037
+        isCached: true
+  - title: "Coding and More to host 2nd edition of International Artificial Intelligence Competition"
+    excerpt: "From October 8 to October 11 2021, Coding and More will host India’s first virtual international hackathon for teen girls in AI. This is in collaboration with TeensinAI, France. As many as 22 countries are participating in this social initiative."
+    publishedDateTime: 2021-10-06T00:20:00Z
+    webUrl: "https://www.freepressjournal.in/lifestyle/coding-and-more-to-host-2nd-edition-of-international-artificial-intelligence-competition"
+    ampWebUrl: "https://www.freepressjournal.in/amp/lifestyle/coding-and-more-to-host-2nd-edition-of-international-artificial-intelligence-competition"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/lifestyle/coding-and-more-to-host-2nd-edition-of-international-artificial-intelligence-competition"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 50
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2021-10/fea16da5-0437-419c-b283-32ca8a06a2ff/Info_Advetorial_Oct5.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1199
+        height: 729
+        isCached: true
+  - title: "Euralarm releases Position Paper on EC proposal for a regulation on artificial intelligence"
+    excerpt: "Euralarm recently released a Position Paper on the EC proposal for a Regulation on Artificial Intelligence.The Position Paper follows some informal discussions with DG CONNECT and contains"
+    publishedDateTime: 2021-10-05T07:56:00Z
+    webUrl: "https://www.sourcesecurity.com/news/euralarm-releases-position-paper-ec-proposal-co-645-ga.1633417585.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/euralarm-releases-position-paper-ec-proposal-co-645-ga.1633417585.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/euralarm-releases-position-paper-ec-proposal-co-645-ga.1633417585.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 47
+    images:
+      - url: "https://www.sourcesecurity.com/img/news/612/eusas-920x533.jpg"
+        width: 612
+        height: 355
+        isCached: true
+  - title: "POLITICO AI: Decoded: Parliament wants to ban facial recognition— Experimenting with facial recognition rules — Big big bucks in AI"
+    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
+    publishedDateTime: 2021-10-06T09:41:00Z
+    webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-parliament-tests-facial-recognition-waters-experimenting-with-facial-recognition-rules-big-big-bucks-in-ai/"
+    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-parliament-tests-facial-recognition-waters-experimenting-with-facial-recognition-rules-big-big-bucks-in-ai/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-parliament-tests-facial-recognition-waters-experimenting-with-facial-recognition-rules-big-big-bucks-in-ai/amp/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 46
+    images:
+      - url: "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Has China beat the West to detailed AI governance rules?"
+    excerpt: "The guidelines are described as being among the more specific that have been enacted worldwide, but based on these descriptions, the rules still feel conceptual"
+    publishedDateTime: 2021-10-05T17:05:00Z
+    webUrl: "https://www.biometricupdate.com/202110/has-china-beat-the-west-to-detailed-ai-governance-rules"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Time Is Ripe For Responsible AI In Aviation"
+    excerpt: "AI is here for over 60 years, advances in computing and access to data have allowed many industries to exploit the potential of ML algorithms."
+    publishedDateTime: 2021-10-08T12:31:00Z
+    webUrl: "https://analyticsindiamag.com/time-is-ripe-for-responsible-ai-in-aviation/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Time-Is-Ripe-For-Responsible-AI-In-Aviation.jpg"
+        width: 1600
+        height: 1064
+        isCached: true
+  - title: "Google AI Introduces FLAN, A Language Model with Instruction Fine-Tuning"
+    excerpt: "Fine-tuned LAnguage Net (FLAN) explores a simple technique called instruction fine-tuning, or instruction tuning for short."
+    publishedDateTime: 2021-10-08T10:24:00Z
+    webUrl: "https://analyticsindiamag.com/google-ai-introduces-flan-a-language-model-with-instruction-fine-tuning/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 38
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/ai-in-search-5f88cc960a6ef.png"
+        width: 1600
+        height: 840
+        isCached: true
+  - title: "EU is working on legislation on artificial intelligence"
+    excerpt: "Artificial intelligence solutions can be an opportunity to stimulate the economy and make a technological leap. On the other hand, they are also associated with threats, and there are already cases in Europe where artificial intelligence algorithms have been used in a way that raises legal doubts."
+    publishedDateTime: 2021-10-04T09:41:00Z
+    webUrl: "https://wbj.pl/eu-is-working-on-legislation-on-artificial-intelligence/post/132216"
+    type: article
+    provider:
+      name: Warsaw Business Journal
+      domain: wbj.pl
+    quality: 37
+    images:
+      - url: "https://wbj.pl/uploads/images/qd/615acc0819b2d.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Role of conversational AI in shaping businesses and accelerating growth"
+    excerpt: "The need for humanizing and speeding up customer interactions is rising rapidly. Customers expect businesses to assist them 24/7, anticipate their needs, and provide a quick resolution of issues. Companies deploy AI-powered assistants to"
+    publishedDateTime: 2021-10-04T10:51:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/role-of-conversational-ai-in-shaping-businesses-and-accelerating-growth/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/role-of-conversational-ai-in-shaping-businesses-and-accelerating-growth/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/role-of-conversational-ai-in-shaping-businesses-and-accelerating-growth/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 37
+  - title: "AI Has Launched a $200 Billion Revolution in Content Personalization"
+    excerpt: "Companies looking to make a step change in customer and consumer engagement should investigate this powerful new technology now."
+    publishedDateTime: 2021-10-05T08:45:00Z
+    webUrl: "https://www.bcg.com/publications/2021/ai-content-generation-is-a-2-billion-dollar-revolution-in-content-personalization"
+    type: article
+    provider:
+      name: BCG
+      domain: bcg.com
+    quality: 37
+    images:
+      - url: "https://web-assets.bcg.com/dims4/default/63feea2/2147483647/strip/true/crop/2480x1302+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fboston-consulting-group-brightspot.s3.amazonaws.com%2Fd6%2F22%2Fa38be81d459b84348fb8be76b99c%2Fai-has-launched-a-200-billion-revolution-in-content-personalization-half-cover.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "CWU to host presentation on artificial intelligence"
+    excerpt: "Software developer and data journalist Meredith Broussard will be presenting the keynote address during a Central Washington University lecture series titled “Artificial Intelligence: The Future is Now” at 5:30 p."
+    publishedDateTime: 2021-10-05T15:00:00Z
+    webUrl: "https://www.dailyrecordnews.com/all_access/cwu-to-host-presentation-on-artificial-intelligence/article_e9a0bae0-e3cf-5e47-82b7-0de3dab5a689.html"
+    type: article
+    provider:
+      name: Ellensburg Daily Record
+      domain: dailyrecordnews.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/assets/v3/editorial/d/5e/d5e22581-a245-5a6b-9aa6-7fe0648c085f/615c5e9ebc411.image.jpg?resize=600%2C415"
+        width: 600
+        height: 415
+        isCached: true
+  - title: "NLMK is testing innovations in the field of artificial intelligence"
+    excerpt: "NLMK Group has signed a strategic partnership agreement with the Association of Laboratories for the Development of Artificial Intelligence."
+    publishedDateTime: 2021-10-06T10:14:00Z
+    webUrl: "https://www.akm.ru/eng/news/nlmk-is-testing-innovations-in-the-field-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: akm.ru
+      domain: www.akm.ru
+    quality: 37
+    images:
+      - url: "https://www.akm.ru/upload/iblock/ee5/NLMK_NLMK.jpg"
+        width: 600
+        height: 399
+        isCached: true
+  - title: "SkyX Integrates AI with Aerial System to Offer Midstream Inspection Solution"
+    excerpt: "Canada-based UAV solution offering startup SkyX has offered an AI-integrated aerial pipeline inspection solution."
+    publishedDateTime: 2021-10-04T11:00:00Z
+    webUrl: "https://www.just-drinks.com/research-reports/skyx-integrates-ai-with-aerial-system-to-offer-midstream-inspection-solution/"
     type: article
     provider:
       name: Drinks
       domain: just-drinks.com
     quality: 34
     images:
-      - url: "https://www.just-drinks.com/wp-content/uploads/sites/36/2021/10/Artificial-Intelligence-scaled.jpg"
-        width: 2560
-        height: 1067
+      - url: "https://www.just-drinks.com/wp-content/uploads/sites/36/2021/10/shutterstock_1388472764.jpg"
+        width: 500
+        height: 281
         isCached: true
-  - title: "Glider AI wins SIA Shark Tank’s Most Innovative Technology in the Staffing Industry for 2021."
-    excerpt: "In the highly contested SIA Shark Tank competition, Glider AI took the top spot for the most innovative technology in the staffing industry. Serving full time and contingent hiring for tech and non-tech roles,"
-    publishedDateTime: 2021-10-05T17:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-sia-c508028a03133d8dcf4ba88262eb0da7"
+  - title: "Standard AI Expands Executive Team with Seasoned AI, Retail and Operations Leaders"
+    excerpt: "Standard AI, the world’s leading computer vision platform for retail, today announced the addition of Jennifer Haroon as Chief Financial Officer (CFO) and Angie Westbrock as Chief Operating Officer (COO) to its executive team."
+    publishedDateTime: 2021-10-05T14:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-c6c83a11089a4620971a52f681355a7e"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 26
+    quality: 33
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
         isCached: true
-  - title: "Artificial intelligence hiring levels in the apparel industry rose to a year-high in August 2021"
-    excerpt: "The proportion of apparel supply chain companies hiring for artificial intelligence related positions rose to a year-high in August 2021."
-    publishedDateTime: 2021-10-07T08:31:00Z
-    webUrl: "https://www.just-style.com/features/artificial-intelligence-hiring-levels-in-the-apparel-industry-rose-to-a-year-high-in-august-2021/"
+  - title: "The path to innovation for startup teams in Taipei pursuing digital transformation"
+    excerpt: "Taipei Innovation Summit, organized by the Taipei Entrepreneurs Hub under the guidance of the Taipei City Government Department of Economic Development, took place from September 16-17, 2021. The summit was themed \"Navigating Through Taipei's Digital Transformation\" and invited startup companies to join the discussion on the two topics of financial technology and e-commerce logistics."
+    publishedDateTime: 2021-10-05T01:31:00Z
+    webUrl: "https://www.digitimes.com/news/a20211005VL200.html"
     type: article
     provider:
-      name: Companies
-      domain: just-style.com
-    quality: 24
+      name: Digi Times
+      domain: digitimes.com
+    quality: 31
     images:
-      - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/09/shutterstock_1058815598.jpg"
-        width: 500
-        height: 322
+      - url: "https://www.digitimes.com/newsshow/20211005VL200_files/4_b.jpg"
+        width: 640
+        height: 427
         isCached: true
+  - title: "Relativity Focuses on International Expansion, Integrations and AI in Relativity Fest Keynote"
+    excerpt: "The virtual Relativity Fest 2021 keynote didn't feature groundbreaking product releases like in years past, but instead upgrades aimed at integrating artificial intelligence into the discovery workflow,"
+    publishedDateTime: 2021-10-04T16:03:00Z
+    webUrl: "https://www.law.com/legaltechnews/2021/10/04/relativity-focuses-on-international-expansion-integrations-and-ai-in-relativity-fest-keynote/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 26
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/10/Relativity-Fest-2018-Logo-Sign-1-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "NLMK Group is testing innovations in the field of the Internet of Things and artificial intelligence"
+    excerpt: "NLMK Group, an international metallurgical company, has signed a strategic partnership agreement with ALRII, an independent association of laboratories for the development of artificial intelligence"
+    publishedDateTime: 2021-10-06T11:10:00Z
+    webUrl: "https://www.akm.ru/eng/press/nlmk-group-is-testing-innovations-in-the-field-of-the-internet-of-things-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: akm.ru
+      domain: www.akm.ru
+    quality: 22
+    images:
+      - url: "https://www.akm.ru/upload/iblock/eb7/NLMK_NLMK.jpg"
+        width: 600
+        height: 399
+        isCached: true
+  - title: "Do we need international rules for artificial intelligence? Three points in the EU proposal for AI regulation that you should know"
+    excerpt: "There is no dedicated legislation on AI in Finland or the European Union. The European Commission has recently made a proposal for regulation of AI. Susanna Lindroos-Hovinheimo, professor in public law at the University of Helsinki,"
+    publishedDateTime: 2021-10-06T19:22:00Z
+    webUrl: "https://www.helsinki.fi/en/news/artificial-intelligence/do-we-need-international-rules-artificial-intelligence-three-points-eu-proposal-ai-regulation-you-should-know"
+    type: article
+    provider:
+      name: Helsinki
+      domain: helsinki.fi
+    quality: 22
+    images:
+      - url: "https://www.helsinki.fi/assets/drupal/styles/og_images/s3/media-image/Susanna%20kuva%201.png?itok=PDMZJ6KA"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Revival AI Announces Regulation A+ Offering to Revolutionize Bible Publishing Through Customization, AI, and Automation"
+    excerpt: "Revival AI, a Bible customization firm driven by some of today's most groundbreaking technology, is pleased to announce the launch of its Regulation"
+    publishedDateTime: 2021-10-06T16:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/revival-ai-announces-regulation-a-offering-to-revolutionize-bible-publishing-through-customization-ai-and-automation/article_e6a02887-3895-5593-85f0-52b992516690.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 17
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Artificial Intelligence Could Power the Next Generation of Aviation"
+    excerpt: "Download Free PDF Brochure @  The global artificial intelligence (AI) in aviation market is expected to be valued at USD 152.4 Million in 2018 and is likely to reach USD 2,222.5 Million by 2025, at a CAGR of 46."
+    publishedDateTime: 2021-10-07T20:35:00Z
+    webUrl: "https://www.xing.com/communities/posts/artificial-intelligence-could-power-the-next-generation-of-aviation-1014567822"
+    type: article
+    provider:
+      name: XING
+      domain: xing.com
+    quality: 17
+  - title: "Standard AI Expands Executive Team with Seasoned AI, Retail and Operations Leaders"
+    excerpt: "Standard AI, the world’s leading computer vision platform for retail, today announced the addition of Jennifer Haroon as Chief Financial Officer (CFO) and Angie Westbrock as Chief Operating Officer (COO) to its executive team."
+    publishedDateTime: 2021-10-06T12:33:00Z
+    webUrl: "https://www.channelbiz.co.uk/press-release/standard-ai-expands-executive-team-with-seasoned-ai-retail-and-operations-leaders/"
+    type: article
+    provider:
+      name: Channel Biz
+      domain: channelbiz.co.uk
+    quality: 13
+  - title: "AI-Driven PROVEN Skincare Announces Launch of $60 Million Regulation A+ Offering"
+    excerpt: "PROVEN Skincare (“PROVEN” or the “Company”), an AI-powered, technology first consumer company that formulates and markets personalized skincare produc"
+    publishedDateTime: 2021-10-07T11:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211007005436/en/AI-Driven-PROVEN-Skincare-Announces-Launch-of-60-Million-Regulation-A-Offering"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 12
 
 secured: "FLzTO5Ns/YvSoJuleZH5+cxZdjj7JIE3RiOf+cKEtInGhfJfuFJ1MecXAztgSgeACgswXEqpQ99I/2gu55Lk7+JIhiqbNBLKiYtD3QhcVDM2reci9+YQQG+3y2JYs8WSJimdXzbS3qibVP+PLy6LIcy3QWltecSSx4spp6Jx/bzzuHhJHas520xI690ImCa8GldtnwPfIR9h3uW4FH8hX5W2yUk123UvaUDW+WwDCl570haKol9yIlS9JRXMU1XRtV3Z2Q6ICNuYd7FPvlBaT1GKG2IsYK9AUURMVkLV5AiqpWjZKtKGzTDMgMPEX0u5UWCiMaUDhdWqGMK2IzfHHNFeMVONTaUssDkz5q4d51pynhXOPFzrs8TMhoNI+N2inRXIgLsMwlVZkUmnA46ZbqzC3UMQgfclsniWJaMfEQnln1+a4dVm88yS6R2CV45B/QQMmU7Oe8gA1nMLOBpdXHzoxrN9KvIsqCJVNSYYjiH87SBwAeIocie5vYrO6fK39rEwueKhVGirlfct3EHG/A==;wg9CZzPkoL+nCbBhW1FOAA=="
 ---
