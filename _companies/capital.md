@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "capitalcom"
   url: "https://twitter.com/capitalcom"
-  followers: 46278
+  followers: 46326
 
 size: 51-200 employees
 yearFounded: 2016
