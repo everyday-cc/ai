@@ -2,6 +2,52 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-25-ai-training-growing-pains-at-facebook.md",
+      "title": "AI Training Growing Pains at Facebook",
+      "excerpt": "Facebook has to keep digging into ever-lower levels of its architecture to efficiently make use of endlessly growing training data. This has meant",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/08/25/ai-training-growing-pains-at-facebook/",
+      "originalUrl": "https://www.nextplatform.com/2021/08/25/ai-training-growing-pains-at-facebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_datacenter-racks-woman.jpg",
+          "width": 544,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/08/25/ai-training-growing-pains-at-facebook/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/25/ai-training-growing-pains-at-facebook/amp/",
+      "publishedDateTime": "2021-08-25T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware",
+        "Computer Vision",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-deep-learning-chipset-market.md",
       "title": "Deep Learning Chipset market",
       "excerpt": "The global research report titled Deep Learning Chipset market was published by Absolute Markets Insights. The study elucidates current market statistics, in addition to underlying future ...",
@@ -1280,50 +1326,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-the-collective-benefits-of-artificial-intelligence-and-machine-learning.md",
-      "title": "The Collective Benefits Of Artificial Intelligence And Machine Learning",
-      "excerpt": "T he COVID-19 pandemic has pulled together a variety of factors that have brought the opportunities of artificial intelligence (AI) and machine learning (ML) into sharp focus acro",
-      "sourceUrl": null,
-      "webUrl": "https://www.hellenicshippingnews.com/the-collective-benefits-of-artificial-intelligence-and-machine-learning/",
-      "originalUrl": "https://www.hellenicshippingnews.com/the-collective-benefits-of-artificial-intelligence-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hellenicshippingnews.com/wp-content/uploads/2021/06/plane_view_290_242.jpg",
-          "width": 290,
-          "height": 242,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hellenicshippingnews.com/the-collective-benefits-of-artificial-intelligence-and-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/the-collective-benefits-of-artificial-intelligence-and-machine-learning/amp/",
-      "publishedDateTime": "2021-08-16T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hellenic Shipping News Worldwide",
-        "domain": "hellenicshippingnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI",
         "Machine Learning"
       ]

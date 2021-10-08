@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-23-ai-industry-obsessed-with-speed-is-loathe-to-consider-the-energy-cost-in-latest-mlperf-benchmark.md",
+      "title": "AI industry, obsessed with speed, is loathe to consider the energy cost in latest MLPerf benchmark",
+      "excerpt": "on Wednesday issued the latest vendor results for performance on benchmark tests of machine learning such as object recognition and natural language processing. Compared to the previous report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-industry-obsessed-with-speed-is-loathe-to-consider-the-energy-cost-in-latest-mlperf-benchmark/",
+      "originalUrl": "https://www.zdnet.com/article/ai-industry-obsessed-with-speed-is-loathe-to-consider-the-energy-cost-in-latest-mlperf-benchmark/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ad988efb009532b6ffb0ff752ba39e0e2f795839/2021/10/05/d4f24554-7da2-44c4-8e5d-87c09f1f8234/20210924-tiernan-beth-sus.jpg?width=1200&height=675&fit=crop&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-industry-obsessed-with-speed-is-loathe-to-consider-the-energy-cost-in-latest-mlperf-benchmark/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-industry-obsessed-with-speed-is-loathe-to-consider-the-energy-cost-in-latest-mlperf-benchmark/",
+      "publishedDateTime": "2021-09-22T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-facial-recognition-market-share-industry-analysis-report-2026.md",
       "title": "Facial Recognition Market Share | Industry Analysis Report 2026",
       "excerpt": "Global facial recognition market is growing demand for advanced identification and verification technologies stemming from rising security concerns is poised to drive outlook. Facial recognition systems are witnessing demand from several sectors for precise identification of individuals to ensure security.",
@@ -1314,40 +1366,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-computer-vision-for-visual-effects.md",
-      "title": "Computer Vision for Visual Effects",
-      "excerpt": "These effects are made possible by research from the field of computer vision, the study of how to automatically understand images. Computer Vision for Visual Effects will educate students, engineers, and researchers about the fundamental computer vision ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/co/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/computer-vision-visual-effects",
-      "originalUrl": "https://www.cambridge.org/co/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/computer-vision-visual-effects",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T21:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

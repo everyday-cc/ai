@@ -36,20 +36,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Predicting gene expression with AI"
-    excerpt: "Our new Enformer architecture advances genetic research by improving the ability to predict how DNA sequence influences gene expression."
-    publishedDateTime: 2021-10-04T00:00:00Z
-    webUrl: "https://deepmind.com/blog/article/enformer"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 89
-    images:
-      - url: "https://lh3.googleusercontent.com/pygM2sdWIgLuSkuUsnJXZEqO71U9uZ7hSuAngL34OL66t5xgjJT5HujJ0kIirF5g1heZjMuUKrrHuuRZAkFsepPVJYSncAyUJPw-cXFF0fmxxYGBWUpb"
-        width: 512
-        height: 288
-        isCached: true
   - title: "How Artificial Intelligence Helps In Decision Making"
     excerpt: "It’s incredible how artificial intelligence has drastically changed the way we experience technology. To say that it makes life easier is an understatement. Some may not be aware of it, but AI has become a part of everybody’s life."
     publishedDateTime: 2021-10-07T23:31:00Z
@@ -364,6 +350,15 @@ related:
     provider:
       name: XING
       domain: xing.com
+    quality: 17
+  - title: "Lab Notes: A Pennovation Lab lease deal, an Proscia AI advancement, a cell therapy collaboration and more"
+    excerpt: "Lab Notes has s Pennovation Lab lease deal, an artificial intelligence advancement, a cell therapy collaboration and more."
+    publishedDateTime: 2021-10-08T17:06:00Z
+    webUrl: "https://www.bizjournals.com/philadelphia/inno/stories/news/2021/10/08/lab-notes-interius-proscia-century-therapeutics.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 17
   - title: "Standard AI Expands Executive Team with Seasoned AI, Retail and Operations Leaders"
     excerpt: "Standard AI, the world’s leading computer vision platform for retail, today announced the addition of Jennifer Haroon as Chief Financial Officer (CFO) and Angie Westbrock as Chief Operating Officer (COO) to its executive team."

@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 612
         isCached: true
+  - title: "Artificial Intelligence Market 2021"
+    excerpt: "The artificial intelligence (AI) market is driven by data-based AI & deep learning. Explore our overview of today's artificial intelligence market & forecast now."
+    publishedDateTime: 2021-10-08T16:08:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-market/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 39
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/10/artificial-intelligence-g48cb9bf7d_1920.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Trends from the Trenches 2021: Where Bio-IT Stands on Digital Transformation, Data Transformation, AI/ML"
     excerpt: "The three reported on trends in digital transformation, data transformation, and AI/ML. Kraut led the charge, tackling Digital Transformation as the first trend worth dissecting. A “conglomeration of a bunch of other buzzwords”,"
     publishedDateTime: 2021-10-05T05:01:00Z

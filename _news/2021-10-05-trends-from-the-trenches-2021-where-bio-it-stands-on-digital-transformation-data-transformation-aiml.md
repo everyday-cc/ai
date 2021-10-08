@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market 2021"
+    excerpt: "The artificial intelligence (AI) market is driven by data-based AI & deep learning. Explore our overview of today's artificial intelligence market & forecast now."
+    publishedDateTime: 2021-10-08T16:08:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-market/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 39
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/10/artificial-intelligence-g48cb9bf7d_1920.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "4I8QeV/3PnuxCB/0Fnye4xJph1kjDrQwBFQ21/9IWaiGwMbp6CxkZUte3MHAC4ZivMtR6IICk25gv7tZNGxgj5ZqRa6OG4mSWFy5qxVCFr76BsnybsNNvDNXjIgB9SIWUO9pG0BxUX5w76Iu0RZ4rHE7JDVFny/j4yOpyW0uayKjpr04qgCN6Qk+CpcheuCtjaZy2uIlTwRjk5ULBDDcd0PalZyNaS52F95HaOrYIAq/mgwGPWWZ9iAL3qdVvdvuaaBgrQVIPgIWMpVOD9lKnd6AKsDBDbKUB1oF8DWKnMx96cLER5QS4KayEG09CUgE9AR8TFeuKgMpdgfhAa6blCpOEaZnXnod/3YRHZ+hhFI=;rSEz5Rgg9HLZIAHG9Xm2LQ=="
 ---

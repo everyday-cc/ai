@@ -34,6 +34,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Delta partners with TSA on face biometrics, Emirates and SITA discuss aviation trends"
+    excerpt: "Delta has recently partnered with the U.S. Transport Security Administration (TSA) to deploy face biometrics to streamline check-in and security in Atlanta."
+    publishedDateTime: 2021-10-08T16:38:00Z
+    webUrl: "https://www.biometricupdate.com/202110/delta-partners-with-tsa-on-face-biometrics-emirates-and-sita-discuss-aviation-trends"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 17
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/13132346/airport-facial-recognition-masks.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "icmrKL4CI99V6guiQRk9taZO22+79gOEYMW/tMwtJAs4v9UCRzbdm10WvtdmccqzyA8sJsRHUZPLVjdtqBrF/fp8Sgb0Rgs1qyQlSh6F4a9JVy8yNxxfK6kLppnR/r6IckES8zQ35FMpR1rttvLTItMhu3gtHKae9j9qa9LYApiFxdWO/KKnSIVfFpNhVKuJVOCJQzYkS1BlyC1F3x1f+kW7qsmJmwye0UwxZc2AhYtkz3ePWQ58fAlUuLzv9W3R0l48LhN9dUUzKPEJx8SBlat+PMoG5VVhtFrm0NkWkLjgfJ+dEDj7LR6t05zCV1mXjdsmBJeUnlpUEbqe5C94AmUgTL5Jll8PIbPS1VC2KYsDZafLWIiua1vtmC0EF+YUiK7MaphTc6aIUSSoNo/ti5ejZs7bIWNNQ+9ybCsFJMCPvv6z22P0gy4AeIuPBFFef/HzfzHLHCDQjGgG3cu0aeb4GAuyxZ1l8V9JKabfL9zqzUccPi2jugimgzEEixDdZsO09PxBJj4EQJ8bAaqqHg==;lvGFKjLtKuOC5CDU0uFnlg=="
 ---

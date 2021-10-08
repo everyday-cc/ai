@@ -39,6 +39,20 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Socure, Onfido and Trulioo crack CB Insights’ Fintech 250"
+    excerpt: "The biometrics providers have cracked the CB Insights Fintech 250 list for 2021, with Socure, Onfido and Trulioo all represented on the list."
+    publishedDateTime: 2021-10-08T16:19:00Z
+    webUrl: "https://www.biometricupdate.com/202110/socure-onfido-and-trulioo-crack-cb-insights-fintech-250"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/24181649/awards.png"
+        width: 1140
+        height: 540
+        isCached: true
   - title: "Airwallex Named to the 2021 CB Insights Fintech 250 List; Recognized as Top Fintech Startup for Fourth Successive Time"
     excerpt: "Airwallex honored for achievements in Payments, Processing & Networks CategorySAN FRANCISCO--(BUSINESS WIRE)--CB Insights today named Airwallex to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology."
     publishedDateTime: 2021-10-07T07:00:00Z

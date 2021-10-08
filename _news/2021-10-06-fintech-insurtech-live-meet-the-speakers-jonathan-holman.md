@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Arkansas Leads the Way in Fintech"
-    excerpt: "Financial technology, or fintech, is booming in Arkansas. In recent years, Arkansas has become increasingly prominent in the fintech space, attracting some of the top talent in the field to our state."
-    publishedDateTime: 2021-10-05T19:37:00Z
-    webUrl: "https://www.linkedin.com/pulse/arkansas-leads-way-fintech-mike-preston"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQF45WR3VdIQow/article-cover_image-shrink_720_1280/0/1633462481396?e=1639008000&v=beta&t=ysiYf_jSRzsbyWyOsyPBTs3sgLZ89jkQtCBCyYGVL5M"
-        width: 1258
-        height: 720
-        isCached: true
   - title: "Nova Credit Named to the 2021 CB Insights Fintech 250 List"
     excerpt: "Nova Credit honored as a top fintech startup for achievements in Credit Score & AnalyticsSAN FRANCISCO--(BUSINESS WIRE)--Nova Credit, the fintech unlocking opportunities for those historically excluded from the credit system and companies looking to serve them,"
     publishedDateTime: 2021-10-06T15:00:00Z

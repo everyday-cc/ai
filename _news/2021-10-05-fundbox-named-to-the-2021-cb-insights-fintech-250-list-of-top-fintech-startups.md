@@ -63,12 +63,12 @@ related:
         isCached: true
   - title: "Quantexa Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
     excerpt: "CB Insights today named Quantexa to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year's list was unveiled on stage at CB Insights' Future of Fintech conference in New York City."
-    publishedDateTime: 2021-10-05T20:30:00Z
-    webUrl: "https://www.kcrg.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/"
+    publishedDateTime: 2021-10-05T19:30:00Z
+    webUrl: "https://www.wjhg.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/"
     type: article
     provider:
-      name: ABC Kcrg  9
-      domain: kcrg.com
+      name: WJHG
+      domain: wjhg.com
     quality: 0
   - title: "Stampli Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
     excerpt: "CB Insights today named Stampli to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year’s list was unveiled on stage at CB Insights’ Future of Fintech conference in New York City."

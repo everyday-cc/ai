@@ -66,6 +66,20 @@ related:
         width: 500
         height: 322
         isCached: true
+  - title: "Artificial intelligence hiring levels in the clinical trial operations industry rose in August 2021"
+    excerpt: "The proportion of clinical trial operations companies hiring for artificial intelligence related positions rose in August 2021, with 24.9% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2021-10-08T16:55:00Z
+    webUrl: "https://www.clinicaltrialsarena.com/analysis/artificial-intelligence-hiring-levels-in-the-clinical-trial-operations-industry-rose-in-august-2021/"
+    type: article
+    provider:
+      name: Clinical Trials Arena
+      domain: clinicaltrialsarena.com
+    quality: 23
+    images:
+      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/33/2021/10/shutterstock_1590824851.jpg"
+        width: 1000
+        height: 563
+        isCached: true
 
 secured: "61fIlzI1cdbwPq+uXcG+xDOo8sBoM04bfTTRbnFshFwMFMtiYdaEIox3lcClvT2W0Q4rQGMttnN3nxI1hviSPtxceThznTLoMpbLGPUkXiOE0VU9Chg5k8N825a0XyU07JIElz8gkkLz4f95w0i+JGyUZIh8GNnimGqvYnMgVFPdduLEsYuJf9KY/bGctH5F9eLIePh7LSZjqh0ggCMdGQzaScYoI7Ovf7/1Vxp3fZIGhRNLteFVeSJ0W9WWQYYkASEhiFvyAV4kxIEjwrqjqJUfNx1Y/di1ESXcRNSWAlV+ATng8TBGqv3u2ywDM7ySjE41GBRDQHTuRqMLWYcJF319tZCWT7GFHyaeCyBzIwSzAI6a4sBb6vVJohgs8D0ApWvGjxQUieeAF4k1N9ECePwLRb6yoLu3YrV+LIhu5aUZ9v4do3geMZeT5NTYn40UzaFZLKS6JsFFcpuvoCTijVOjOvl5vx0u30pNZW6ESvgEP3cp2lAoU+UCnl+Ye3eDAIXoC2VEGMGFpDQnAYkpWg==;E4OiZ3OjuGaRRMt5smydVQ=="
 ---

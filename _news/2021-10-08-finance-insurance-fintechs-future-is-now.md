@@ -9,7 +9,7 @@ ampWebUrl: "https://businessfacilities.com/2021/10/finance-insurance-fintechs-fu
 cdnAmpWebUrl: "https://businessfacilities-com.cdn.ampproject.org/c/s/businessfacilities.com/2021/10/finance-insurance-fintechs-future-is-now/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Arkansas Leads the Way in Fintech"
-    excerpt: "Financial technology, or fintech, is booming in Arkansas. In recent years, Arkansas has become increasingly prominent in the fintech space, attracting some of the top talent in the field to our state."
-    publishedDateTime: 2021-10-05T19:37:00Z
-    webUrl: "https://www.linkedin.com/pulse/arkansas-leads-way-fintech-mike-preston"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQF45WR3VdIQow/article-cover_image-shrink_720_1280/0/1633462481396?e=1639008000&v=beta&t=ysiYf_jSRzsbyWyOsyPBTs3sgLZ89jkQtCBCyYGVL5M"
-        width: 1258
-        height: 720
-        isCached: true
   - title: "FinTech & InsurTech Live: Meet the Speakers, Jonathan Holman"
     excerpt: "Corporate & Commercial Banking at Santander. Jonathan Holman is a technologist and banker who runs Digital for Santander in SME, Commercial"
     publishedDateTime: 2021-10-06T15:48:00Z

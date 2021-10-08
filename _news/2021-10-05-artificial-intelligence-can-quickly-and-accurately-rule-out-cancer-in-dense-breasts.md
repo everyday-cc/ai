@@ -83,20 +83,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
-  - title: "AI-based tool set to improve breast cancer diagnosis"
-    excerpt: "An AI-based tool that improves breast cancer diagnosis and predicts the risk of recurrence has been developed by researchers in Sweden."
-    publishedDateTime: 2021-10-03T23:02:00Z
-    webUrl: "https://www.theengineer.co.uk/ai-based-tool-improve-breast-cancer-diagnosis/"
-    type: article
-    provider:
-      name: The Engineer
-      domain: theengineer.co.uk
-    quality: 37
-    images:
-      - url: "https://theengineer.markallengroup.com/production/2021/10/mitosis-3876669_1280.jpg"
-        width: 940
-        height: 529
-        isCached: true
 
 secured: "9cK/fyficuF5kltNk/GUOFx1zrwYpj9nSaZEdMJOvJbGSMZTeypULLso9akq8Z1IY1mAWxkDLzbxVWmZYXfU+2Whcqe9bSUmsyQ5o09XuPqTXkDlHb47da3wNE1hQjWZII7vuekV6gStZ+Kc2RZCgqG1lDh9tApEh1p+kClxQ5ueZK/5CKQK7SS451YegZ5qK2H7zXyAUDHwsp3JRN2DTA0kZn3s9KcJavWmJ/VbMBfp5QQXd14ENnI4ZuHCW6Rstif2rIxvJbjA6GqTbFASpwKwzq+lpdWJBjtUm5uY7dhYshCjsl3xN/8GK3HLqNAk+2CyPKxizfrbQJy+EcyzSSgjQ7/CZjfnarCBBls62ftvlCVhcMES2E+jPfpiUkc9EbElSwXEkGzwGShMuNwbo8fCqXyEVYD5fFa/L72FsPovGRo8+gHjG6acomjA8s/W9iBMDSK4nIc/BPRCMu/1w2KTlXcbvhj9WcK7m7sJriXU6TL+xP0/55CPM/veMJNhYfgRTfcoksQNQtylRAFMmw==;S06/nuTx9pNjYG+1Fkz65Q=="
 ---

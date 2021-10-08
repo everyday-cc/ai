@@ -86,20 +86,6 @@ related:
         width: 656
         height: 1024
         isCached: true
-  - title: "AI-based tool set to improve breast cancer diagnosis"
-    excerpt: "An AI-based tool that improves breast cancer diagnosis and predicts the risk of recurrence has been developed by researchers in Sweden."
-    publishedDateTime: 2021-10-03T23:02:00Z
-    webUrl: "https://www.theengineer.co.uk/ai-based-tool-improve-breast-cancer-diagnosis/"
-    type: article
-    provider:
-      name: The Engineer
-      domain: theengineer.co.uk
-    quality: 37
-    images:
-      - url: "https://theengineer.markallengroup.com/production/2021/10/mitosis-3876669_1280.jpg"
-        width: 940
-        height: 529
-        isCached: true
 
 secured: "uQnmyiYtpwAGxzLGPEXpLyB1XsViQX7HwXRT1e3TXxM4MuhSLXnYJYreGJd3Dp4Oi0B21iPPEedtCN/sAL4cbDZDw+cHSLD2KdK+mkuW/1xkGbAGIH6kkIRkAJlzlV+z3leBUMVwcqT1UhlR1MoII46KgpKW+31XQ19AUNl1Gzt9MK+CPlIm42+39orpSsH9djDae4m2p8BI0Z6u0gP6yzpD9Osg7tJmVaXAjPsesQ8vEdJAvAa0Evefg5zXV4G3NFv9Ql4Y9Eh7os/jnBg+Pblqo2+g/F8qGMEw7X0XSEvlwrt1BjO2zUBLvJ1dHZEenLoWy8yR6jdumnMKIsAAo9snZO4kVak8lr0d7oiWO2dDEBPRb5L+dOpd3idZPUWTgz6VoSj3aroGI1tc7dEeHQ970kxcWkXYZc6FG1jgPcuqCUaUmFv6Pe7uVNrCHA07o6xJ6Q1dttr/tD3uFiGNNb9OxYthzIfpTkZrtszfk1da1htA+VK7daS81UmtWxWtUSsln0IXAIfWNO7aZcZdEQ==;eUXfHeFN7hOlKcMKAEgaQw=="
 ---

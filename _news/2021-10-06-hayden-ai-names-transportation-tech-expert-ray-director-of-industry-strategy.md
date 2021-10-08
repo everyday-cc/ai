@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techwire.net/news/hayden-ai-names-transportation-tech-ex
 cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/hayden-ai-names-transportation-tech-expert-ray-director-of-industry-strategy?_amp=true"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 840
     height: 560
     isCached: true
-
-related:
-  - title: "Data Strategy: The Missing Link in AI-Enabled Transformation Webinar"
-    excerpt: "A recent survey of 247 executives by HBR-AS finds that 61% do not yet have a data strategy specifically optimized for ML and data science. In an HBR-AS audio webinar, Alex Clemente shared the results of this recent pulse survey about data strategy in the field of AI and ML."
-    publishedDateTime: 2021-10-04T00:58:00Z
-    webUrl: "https://hbr.org/sponsored/2021/10/data-strategy-the-missing-link-in-ai-enabled-transformation-webinar"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/10/Cloudera_HBRAS_Webinar_thumb-.png"
-        width: 1220
-        height: 686
-        isCached: true
 
 secured: "bq7PjA+8KPLMSv3/6TEqWT/7f4Ty7A4ACo6HCj6NY6v4Wy+nYV+lZn4hMR8xWw71fYc4/Ah1/54U84FQsFpgItN8Db37KV/vPvVb8ZvUYHXGEJL2C6C55QyzERAQKVD6+9TOVmzx5vlQlpCanfej3gd5GXFcuuuUOhtxeH5brjfL2PjQP+U56SRGoyVxgJzQ1MZcdAeYH3Vv0WStGwvJRsoRk8YV7dyhGMX8Ks8OXbRMXPKbBTrS6vw+NZ9BR2BYoegP1GjphE1DC6vGvGZ/l3rUdbcTIYePIMYNRQOEGWEkaC4WdizD7/QB3ByDPr6+Pus3burKxxp+HRJONz8ojQqgkxOzRmyR8xN+4fwBiEU=;d74TM2WatsiqgTsatLLwQg=="
 ---
