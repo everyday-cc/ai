@@ -7,7 +7,7 @@ originalUrl: "https://deepmind.com/blog/article/enformer"
 webUrl: "https://deepmind.com/blog/article/enformer"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-853938300.jpg?w=1024"
         width: 1024
         height: 768
-        isCached: true
-  - title: "How Artificial Intelligence Helps In Decision Making"
-    excerpt: "It’s incredible how artificial intelligence has drastically changed the way we experience technology. To say that it makes life easier is an understatement. Some may not be aware of it, but AI has become a part of everybody’s life."
-    publishedDateTime: 2021-10-07T23:31:00Z
-    webUrl: "https://techbullion.com/how-artificial-intelligence-helps-in-decision-making/"
-    ampWebUrl: "https://techbullion.com/how-artificial-intelligence-helps-in-decision-making/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-artificial-intelligence-helps-in-decision-making/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 59
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/10/AI-robot-scaled.jpeg"
-        width: 2560
-        height: 1440
         isCached: true
   - title: "Gap Continues Tech-Buying Spree with AI Acquisition"
     excerpt: "Based 4 Casting (CB4), a startup that uses AI and machine learning tools to transform retail operations, increase sales and improve the customer experience. Funded by investors including Sequoia Capital,"

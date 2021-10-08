@@ -7,7 +7,7 @@ originalUrl: "https://www.arlnow.com/2021/10/04/crystal-city-ag-tech-startup-cul
 webUrl: "https://www.arlnow.com/2021/10/04/crystal-city-ag-tech-startup-cultivates-10-3m-in-series-a-funding/"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,52 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Robotics startup Ishitva raises $1mn in pre-series A funding led by IPV"
+    excerpt: "Ahmedabad-based robotics startup Ishitva raised $1 million in pre-series A funding round led by Inflection Point Ventures (IPV). Ishitva is an OEM operating in dry waste sorting technology using AI, ML,"
+    publishedDateTime: 2021-10-08T01:51:00Z
+    webUrl: "https://www.business-standard.com/article/companies/robotics-startup-ishitva-raises-1mn-in-pre-series-a-funding-led-by-ipv-121100800076_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/robotics-startup-ishitva-raises-1mn-in-pre-series-a-funding-led-by-ipv-121100800076_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/robotics-startup-ishitva-raises-1mn-in-pre-series-a-funding-led-by-ipv-121100800076_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 89
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/23/full/1629658476-4597.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Geospatial SaaS Startup Attentive Raises Pre-Series A Funding From Info Edge Ventures"
+    excerpt: "The company will utilize the funds to expand the organization, and further their investment in innovative technology"
+    publishedDateTime: 2021-10-06T08:21:00Z
+    webUrl: "https://www.entrepreneur.com/article/389582"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 60
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1633508484-Attentive1.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Privacy engineering-as-a-service startup Gretel raises $50M"
+    excerpt: "Including the new funding, Gretel has raised $65.5 million to date. Founded in 2020, Gretel offers a data categorization and identification platform designed to test anonymized versions of a data set automatically."
+    publishedDateTime: 2021-10-07T15:00:00Z
+    webUrl: "https://siliconangle.com/2021/10/07/privacy-engineering-service-startup-gretel-raises-50m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/gretel.png"
+        width: 1080
+        height: 608
+        isCached: true
 
 secured: "GNHSiQLm39LSdzUpddTdKT1xFPWoe+WZX2tN/KULmlBUroNDvEWOOcyU8BCemLoPAliYQIR5WGhjmk2mvNMqErt8TTrZxqp3kb2+le+bKmzjCxfDadkYkzHL70P1do2QXszN2Na4yHSxg2CJnC9A+CqFkRm2msHNubSyB6TzhrBdZdkRc6B5jiYxAQ/cYlsxcTXdXv8ov/aOwDdR1+DQsbEnX3A1QIvBnsFUpXLuO22BdNiKvpEUm7X7tTPsMRx0o/ICWpz1wHeNSADPw/eLoQ5kIs7BXUYhCOC7BsEv+IXxnagW6CS57lIfnWuB0lbzCvk9t7SRLS8pvh/N8fdagG40B46DzJuBuKmtN125SqI=;LqD6qBscDJlveJ3atphSZQ=="
 ---

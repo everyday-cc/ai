@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/"
 ampWebUrl: "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/amp/"
 type: article
-quality: 89
-heat: 130
+quality: 91
+heat: 142
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - IBM AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/10/shutterstock_1474099580-2-e1633620164290.jpg?w=1200&strip=all"
@@ -31,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence Helps In Decision Making"
+    excerpt: "It’s incredible how artificial intelligence has drastically changed the way we experience technology. To say that it makes life easier is an understatement. Some may not be aware of it, but AI has become a part of everybody’s life."
+    publishedDateTime: 2021-10-07T23:31:00Z
+    webUrl: "https://techbullion.com/how-artificial-intelligence-helps-in-decision-making/"
+    ampWebUrl: "https://techbullion.com/how-artificial-intelligence-helps-in-decision-making/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-artificial-intelligence-helps-in-decision-making/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 59
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/10/AI-robot-scaled.jpeg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "How Artificial Intelligence is changing music"
     excerpt: "Beethoven’s unfinished 10th symphony has just been completed, 194 years after the composer wrote it, by an Artificial Intelligence program as part of an effort at Rutgers University. This sort of development in the world of creativity is critical for two reasons."
     publishedDateTime: 2021-10-07T12:41:00Z

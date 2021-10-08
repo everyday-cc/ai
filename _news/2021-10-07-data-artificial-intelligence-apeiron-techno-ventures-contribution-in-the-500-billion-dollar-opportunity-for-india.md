@@ -8,8 +8,8 @@ webUrl: "https://www.easternherald.com/2021/10/07/data-artificial-intelligence-a
 ampWebUrl: "https://www.easternherald.com/2021/10/07/data-artificial-intelligence-apeiron-techno-ventures-contribution-in-the-500-billion-dollar-opportunity-for-india/?amp=1"
 cdnAmpWebUrl: "https://www-easternherald-com.cdn.ampproject.org/c/s/www.easternherald.com/2021/10/07/data-artificial-intelligence-apeiron-techno-ventures-contribution-in-the-500-billion-dollar-opportunity-for-india/?amp=1"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.easternherald.com/wp-content/uploads/2020/09/placeholder-image-TEH.jpg"

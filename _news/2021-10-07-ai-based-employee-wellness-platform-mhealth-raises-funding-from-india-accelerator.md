@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/article/389851"
 webUrl: "https://www.entrepreneur.com/article/389851"
 type: article
 quality: 62
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Entrepreneur
@@ -26,6 +26,22 @@ images:
     width: 2000
     height: 1333
     isCached: true
+
+related:
+  - title: "News: AI based corporate wellness startup mHealth raises funding led by India Accelerator"
+    excerpt: "The Delhi based startup helps corporates in streamlining employee wellness programs and bringing the same on a single platform"
+    publishedDateTime: 2021-10-08T02:40:00Z
+    webUrl: "https://www.peoplematters.in/news/wellness/ai-based-corporate-wellness-startup-mhealth-raises-funding-led-by-india-accelerator-31193"
+    type: article
+    provider:
+      name: People Matters
+      domain: peoplematters.in
+    quality: 28
+    images:
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1633064884/ad-kqkzykwk.png"
+        width: 990
+        height: 550
+        isCached: true
 
 secured: "Txx/a+IXYakiSuVeYnH4igjbTLLhBK2LTqdINqC7KRQv8GXr6v2VZXI12PHeVGabAU8D72o6zeAMb4sgsh+iHVhAvHptbZjs9TEoQIOG+JHzrjSh5ceo8PYQH3qSc+mx7IqI7Yc//6R54T1Qd4+UvfxYpqWgasFoJ8x0CvOadjIvpYgq6ahxtQlKn9gH8E0li6hkUCMod6nI2O0Mb2LqRcw7quo7TWGWMTXWi+QzQQRuWACsJ+GrCFPV7+XNR7dPXhz8UCpHapxFMrsGwpHgb4YJhaS10fOw9S9xbkNS3QBac+OzStHw74WPzAMoiqN6uq8MHkOM6ROxRUpnLUsbtiZWN0DWTlM26rLjrl0l5Sw=;Er0Aq5CJbYLui22AJd56SA=="
 ---

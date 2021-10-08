@@ -56,22 +56,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "How Artificial Intelligence Helps In Decision Making"
-    excerpt: "It’s incredible how artificial intelligence has drastically changed the way we experience technology. To say that it makes life easier is an understatement. Some may not be aware of it, but AI has become a part of everybody’s life."
-    publishedDateTime: 2021-10-07T23:31:00Z
-    webUrl: "https://techbullion.com/how-artificial-intelligence-helps-in-decision-making/"
-    ampWebUrl: "https://techbullion.com/how-artificial-intelligence-helps-in-decision-making/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-artificial-intelligence-helps-in-decision-making/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 59
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/10/AI-robot-scaled.jpeg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Artificial intelligence can predict rain with unprecedented accuracy"
     excerpt: "DeepMind has created an artificial intelligence capable of forecasting the weather with impressive accuracy. The company specializes in building AIs focused on problem solving, but has now decided to embrace meteorology as an important field of action."
     publishedDateTime: 2021-10-03T22:10:00Z

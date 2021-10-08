@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence Could Power the Next Generation of Aviation"
 excerpt: "Download Free PDF Brochure @  The global artificial intelligence (AI) in aviation market is expected to be valued at USD 152.4 Million in 2018 and is likely to reach USD 2,222.5 Million by 2025, at a CAGR of 46."
 publishedDateTime: 2021-10-07T20:35:00Z
-originalUrl: "https://www.xing.com/communities/posts/artificial-intelligence-could-power-the-next-generation-of-aviation-1014567789"
-webUrl: "https://www.xing.com/communities/posts/artificial-intelligence-could-power-the-next-generation-of-aviation-1014567789"
+originalUrl: "https://www.xing.com/communities/posts/artificial-intelligence-could-power-the-next-generation-of-aviation-1014567822"
+webUrl: "https://www.xing.com/communities/posts/artificial-intelligence-could-power-the-next-generation-of-aviation-1014567822"
 type: article
 quality: 17
 heat: -1
@@ -42,6 +42,6 @@ related:
       domain: prnewswire.com
     quality: 34
 
-secured: "sYyzqL9ov/IWc8pbNsFoaNQOSBdaH0nXkaWcZTVCaZrSkfHmNEs/5u5DlAkL0RhlFZzDHBBpeyKgoN4K4jJP4aV0FJNYawD3knw8CE7JrCRU+fmpyrOTGlKkEDkitR5Omdgl4mznL1kI5CLuZHRdo2I62vGIke7xoRJ411fA5XiXVAWmVpTYcq1wCxnaARpvnYX/sV6QqIEb6TxMZyTjwk+1x4OvxDi7Ql1I9MALcTF0gBZEQ8FtC9ZfauE0z84RnP0T8GrrxA8PCHp5NSCg9FnKGO7g02MxCP0mZ83Nx+g5eS8eT37Jcz3UiJZ6WYag9XJaC1Oe/37oB9Kd8UpL43YUrWjwya1SZD9UbjPTKqfcYB6iLpmP0lGsBdU6FEyDplczMuVLthx4s7AlQBfnrYnV/Y+56QJNw7h4DmVOPcmVBMetE1rp45H+dFJ8zzQk52bFvYWRiZjfNDOBN8WepXcXQ/FZQofdTWhaF4/bXPYZOb8Y3koTHpXQXrRLIQltESBqWhplMzatMZvkGg6xCg==;+f8s/kr5Qk4gHlPhAPdVPA=="
+secured: "mmQkkVccJxqiQWe2akhbkhX1ZujD3nl386ii1XFLnwVV/Em1SGVGEiceFT0LNz+uZmiK9sIS/XCPne8DG3R7sSYiZO1EgpRKYhm83X/9h9CcPp08fu+3fIM4r4bAJtDCX4I5z8DBpkzlLpgd/SvvKGcUTDikfI4C4PLBUhpJTJQMgNCg+cdm0N00F104ih+gaQ5KNWfSne8E4MoCZl9dUVONokEvKlYuirfJL+44uQsQGLMwN+Tsvo1hPN1c1W0s+tbhlg8y0nmWyX9EXvNYZ9yIbjrX5ODITKAppHr0gNX2OLDMOfRzgSgL7LA8FBuaauKCzjW5pB/a3199jyjyAuwkP90yTH16XNa4TfgbbxMXQtm07/aXPpEg3GrH/kzmMMwrSKuNA2bhABS9Nl4iY8E+XIKY2so/J8Q+8EHZ25TFKsVYys881POcX1pHTRs98oyAOiFaXYHnI/aEx8anb0KLPdmj0mBTdDbYJ7yi7REMKsjBhVssAY9NIJ9vRuJbF2rGxL47QJGHxlM7sPd56A==;MFKQJcK9mLKvFEt13aSo5g=="
 ---
 

@@ -39,6 +39,15 @@ related:
       name: techxplore.com
       domain: techxplore.com
     quality: 117
+  - title: "AI and machine learning could halve preventable errors in medicine"
+    excerpt: "This latter scenario illustrates the potential power of incorporating artificial intelligence (AI) and machine learning (ML) into healthcare for the purposes of averting otherwise preventable deaths."
+    publishedDateTime: 2021-10-08T03:22:00Z
+    webUrl: "https://massivesci.com/articles/ai-artifical-intelligence-machine-learning-healthcare-tedmed/"
+    type: article
+    provider:
+      name: Massive
+      domain: massivesci.com
+    quality: 34
 
 secured: "WuyZ3dFzRgEeyg8OrEEMa6lzZuNwk8I3BPfMivh+5GFJOXidZaWdqK37fW5RJJzq9WtsHm40QzACdkrO5rKgMKtd7TrInhWQ39N8fevwjto9xfs/uY7l3osWs46Af8LpJQZs86rTcNn/ji80pKXgD5j59hL7hq0EPjRO6DdrDSFnErwl4di75Oo6Tv4YLZvJEHw7RJHRQIRBKgPpbMAFF8qPXrlSHu+c19aLnumCvSQDH9AGEqEW5stmqloZ6Z8N5986PB/fRmbJbB+n+iY2lDv9kuezi7DIcBV20sjFEx64cGLC9I/qACVTkOnMnPP82RLGvwaLOkbxr0T6YvQbd3L+7jpqfIsY5Z5u6OUMGdt1wK+YrAP3nrDbG4PNVoz9LkJFN+vjNVNeryqA2Kz/8thAZ97tBFTwrylMm24n72w8AK/2DEJFik50t4n3d21lN65/tbD4mhKt1k7U7OAhE9R7BSIx7RzKm8c0BmE08lOMwka30pcOw5tnQKi+rEoI74rpkSn2w/MSsxcMQJVFYg==;aV894s6C021pV5F5NHr6aQ=="
 ---

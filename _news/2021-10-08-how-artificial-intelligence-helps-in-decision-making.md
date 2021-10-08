@@ -27,65 +27,79 @@ images:
     isCached: true
 
 related:
-  - title: "Predicting gene expression with AI"
-    excerpt: "Our new Enformer architecture advances genetic research by improving the ability to predict how DNA sequence influences gene expression."
-    publishedDateTime: 2021-10-04T00:00:00Z
-    webUrl: "https://deepmind.com/blog/article/enformer"
+  - title: "How AI can fight human trafficking"
+    excerpt: "A startup relies on AI-based tools to observe patterns of human trafficking and the larger criminal networks at play."
+    publishedDateTime: 2021-10-07T23:40:00Z
+    webUrl: "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/"
+    ampWebUrl: "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/amp/"
     type: article
     provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 89
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
     images:
-      - url: "https://lh3.googleusercontent.com/pygM2sdWIgLuSkuUsnJXZEqO71U9uZ7hSuAngL34OL66t5xgjJT5HujJ0kIirF5g1heZjMuUKrrHuuRZAkFsepPVJYSncAyUJPw-cXFF0fmxxYGBWUpb"
-        width: 512
-        height: 288
+      - url: "https://venturebeat.com/wp-content/uploads/2021/10/shutterstock_1474099580-2-e1633620164290.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Driving AI innovation in tandem with regulation"
-    excerpt: "This unleashed criticism that the regulations could slow AI innovation, hamstringing Europe in its competition with the U.S. and China for leadership in AI. For example, Andrew McAfee wrote an article titled “EU proposals to regulate AI are only going to hinder innovation."
-    publishedDateTime: 2021-10-06T18:47:00Z
-    webUrl: "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/"
-    ampWebUrl: "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/amp/"
+  - title: "How Artificial Intelligence is changing music"
+    excerpt: "Beethoven’s unfinished 10th symphony has just been completed, 194 years after the composer wrote it, by an Artificial Intelligence program as part of an effort at Rutgers University. This sort of development in the world of creativity is critical for two reasons."
+    publishedDateTime: 2021-10-07T12:41:00Z
+    webUrl: "https://www.thehindu.com/entertainment/music/how-artificial-intelligence-is-changing-music/article36876008.ece"
+    ampWebUrl: "https://www.thehindu.com/entertainment/music/how-artificial-intelligence-is-changing-music/article36876008.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/entertainment/music/how-artificial-intelligence-is-changing-music/article36876008.ece/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-853938300.jpg?w=1024"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Gap Continues Tech-Buying Spree with AI Acquisition"
-    excerpt: "Based 4 Casting (CB4), a startup that uses AI and machine learning tools to transform retail operations, increase sales and improve the customer experience. Funded by investors including Sequoia Capital,"
-    publishedDateTime: 2021-10-05T16:44:00Z
-    webUrl: "https://retailtouchpoints.com/features/news-briefs/gap-continues-tech-buying-spree-with-ai-acquisition"
-    ampWebUrl: "https://retailtouchpoints.com/features/news-briefs/gap-continues-tech-buying-spree-with-ai-acquisition/amp"
-    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/news-briefs/gap-continues-tech-buying-spree-with-ai-acquisition/amp"
-    type: article
-    provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
+      name: The Hindu
+      domain: thehindu.com
     quality: 57
     images:
-      - url: "https://retailtouchpoints.com/wp-content/uploads/2021/02/Gap.jpg"
-        width: 2440
-        height: 1627
+      - url: "https://www.thehindu.com/entertainment/music/4yoo3m/article36876007.ece/ALTERNATES/LANDSCAPE_615/08frANILSRINIVASANfr21UV8SV6CSjpg"
+        width: 615
+        height: 384
         isCached: true
-  - title: "Artificial intelligence can predict rain with unprecedented accuracy"
-    excerpt: "DeepMind has created an artificial intelligence capable of forecasting the weather with impressive accuracy. The company specializes in building AIs focused on problem solving, but has now decided to embrace meteorology as an important field of action."
-    publishedDateTime: 2021-10-03T22:10:00Z
-    webUrl: "https://www.clarepeople.com/5930-artificial-intelligence-can-predict-rain-with-unprecedented-accuracy/"
+  - title: "Reboot AI with human values"
+    excerpt: "A former head of the European Research Council urges critical thinking about the algorithms that shape our lives and societies."
+    publishedDateTime: 2021-10-05T10:33:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-02693-2"
     type: article
     provider:
-      name: The Clare People
-      domain: clarepeople.com
-    quality: 54
+      name: Nature
+      domain: nature.com
+    quality: 39
     images:
-      - url: "https://www.clarepeople.com/wp-content/uploads/2021/10/5930-artificial-intelligence-can-predict-rain-with-unprecedented-accuracy-780x470.jpeg"
-        width: 780
-        height: 470
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02693-2/d41586-021-02693-2_19704840.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Google tries to make traffic lights more efficient with artificial intelligence"
+    excerpt: "Alphabet Inc's Google cut fuel use and traffic delays by 10% to 20% at four locations in Israel by using artificial intelligence to optimize signal lights and it next plans"
+    publishedDateTime: 2021-10-06T17:00:00Z
+    webUrl: "https://www.stltoday.com/news/world/google-tries-to-make-traffic-lights-more-efficient-with-artificial-intelligence/video_37aa10bc-08d9-5d91-8287-c97b49de7ecc.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 33
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/7a/37aa10bc-08d9-5d91-8287-c97b49de7ecc/615dd64329c4a.preview.png?resize=640%2C360"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "We need concrete protections from artificial intelligence threatening human rights"
+    excerpt: "Events over the past few years have revealed several human rights violations associated with increasing advances in artificial intelligence."
+    publishedDateTime: 2021-10-07T09:34:00Z
+    webUrl: "https://business-reporter.co.uk/2021/10/07/we-need-concrete-protections-from-artificial-intelligence-threatening-human-rights/"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 33
+    images:
+      - url: "https://businessreporter-197a1.kxcdn.com/wp/wp-content/uploads/2021/10/business-technology-internet-and-network-concept-labor-law-lawyer-at-picture-id1206961013.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "sijm1ZgP4eAZED7tmoWcl/Zj4Bo+yW2qnlWDhUgsn/8UC5/P3osYbVsld3e8q+q3dyjqKonTSSUS54uMNNXLK/zeJVmpsZdzDahKVsntjMN0tIbAsrdUREEAQBcRSSTlINY5xpAAVL1gNqgxhY7zKN0YINeIHYLqOolffkXh0xx4dtZQXjaWYbS1oyqgzrRtFk1zPd7VBoIQDio4Si8o28r7zKWjrENjvkTravrt3BEcxwCcylmsLuahYmhtUEHB9Ha2Zh9GwyGAJ9C4h+I2a7TSnhdD46Z0cUehMOtgrxu0hnJryK+BHB7sDNrUdSahat4Csqe5sUleGbfBFZUB4yuqVNPvw3Wv6/jZmXUh+GHyMFKhG3jXX2v4X6fr6jAEXQkBozhjcrBwTAvxPMQg1ipS40XqWacx/5j+I/lcVtI6xYDwUaW/hi26x64J7kwViOqPQglExzEJc8jxCOnqmW/9WCkmSR+IvKIO/K8BiGLekDYOvA+/8B9UO7pCV+BOaS7t2iEo8udJbHhPhZTg1g==;Tw0LAINt/TS92JVAdfJ2XQ=="
