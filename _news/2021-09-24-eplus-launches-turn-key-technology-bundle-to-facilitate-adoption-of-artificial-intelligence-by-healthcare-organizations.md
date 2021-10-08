@@ -1,26 +1,26 @@
 ---
 category: news
 title: "ePlus Launches Turn-Key Technology Bundle to Facilitate Adoption of Artificial Intelligence by Healthcare Organizations"
-excerpt: "Plus’ AI Bundle combines hardware, software and implementation services in partnership with leaders SFL Scientific and John Snow Labs to improve AI development in healthcare organizations from concept to production The AI Workflow Accelerator Bundle for Healthcare provides a complete turn-key platform for AI discovery and visualization,"
-publishedDateTime: 2021-09-24T00:00:00Z
-originalUrl: "https://www.pressreleasepoint.com/eplus-launches-turn-key-technology-bundle-facilitate-adoption-artificial-intelligence-healthcare"
-webUrl: "https://www.pressreleasepoint.com/eplus-launches-turn-key-technology-bundle-facilitate-adoption-artificial-intelligence-healthcare"
+excerpt: "PRNewswire/ -- ePlus inc. (NASDAQ NGS: PLUS – news) today announced that it has launched an artificial intelligence (AI) workflow technology bundle,"
+publishedDateTime: 2021-09-24T12:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/eplus-launches-turn-key-technology-bundle-to-facilitate-adoption-of--artificial-intelligence-by-healthcare-organizations-301384084.html"
+webUrl: "https://www.prnewswire.com/news-releases/eplus-launches-turn-key-technology-bundle-to-facilitate-adoption-of--artificial-intelligence-by-healthcare-organizations-301384084.html"
 type: article
 
 provider:
-  name: KLAS Press Release
-  domain: pressreleasepoint.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png"
-    width: 256
-    height: 256
+  - url: "https://mma.prnewswire.com/media/1582360/ePlus_Logo.jpg?p=facebook"
+    width: 1500
+    height: 785
     isCached: true
 
-secured: "eADKnF9iG9P3mumFBoRfzaJ2HzmzAWCxRHkRfysCIkmoYVQZewRMUIS9K8gPJtJM1cCZiSR4hGqnkxGRYKFjGXMoPqoXapKGb0+p1+1fW/vf2KUV3XFiA86hBRfcRaPYH1z1xnTUs9/aVqMfeEDj4IZbrW8wrmG+hSN/HTrOBfPNTWQpsasspA1Le6bzyUHLafZgIdid9dI4hwl05+JqKvbyY8DFWXokISievAAJ6pjm3d/YWZJKU5knHgfW/XabCOQwet7Ja5nXTEfX7N/wU0SXoawZVN1UrMUEo9jUFq0jeXGZJAgT2HyjS00UcbWg+LbGxP46U34J2SPiDTW3l5y3VHi2mie4Xg7y1YQ7USU=;IbsBtw8/F015HkwPuSHKgw=="
+secured: "whw0Hq228vdDfj9Qf0XieROtx2v6WoJbbKFqYs6c95zMcm7lELxsjG5zTKRI9C/pW8RHDyGMGIv3foH0i+Fl7BlHFsvD6qSPQtTWXMHiHqSaTE66R1clA0aMhaZO0v9HXx0OhF42d9gLsBbfCR5VWdjuj5pFf7jh/5HgDdnqptEOJNO+5bWqT9OBFjy0lVnCplYvRpwqOZk2zwdfLXs4bU0Vwrjp9Od0THz8jZ3osOxiB5iBF+Ibs9rYxzbEf8a63DEyuht4Bpl5xmTTJvQX4sL3JQoyuBSzpOUFd7hc1/sUXPjmI5DbMPjpmlckMZCyFy2GFgCk7RG0nQm5EFemC8MAx5wQ4zTNc9cLpqlGixI=;8rGgX3YdFOZ2eyMemkGOEw=="
 ---
 

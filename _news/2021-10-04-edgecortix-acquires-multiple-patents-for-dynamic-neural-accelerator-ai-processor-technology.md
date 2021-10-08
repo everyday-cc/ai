@@ -42,20 +42,6 @@ related:
         width: 2007
         height: 1375
         isCached: true
-  - title: "Federal Government Spending on AI is Accelerating"
-    excerpt: "The adoption of AI by the US federal government is accelerating, with defense agencies leading the way and services suppliers benefitting."
-    publishedDateTime: 2021-10-07T18:11:00Z
-    webUrl: "https://www.aitrends.com/ai-in-government/federal-government-spending-on-ai-is-accelerating/"
-    type: article
-    provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 39
-    images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/10/10-8FederalAISpending-2.jpeg"
-        width: 550
-        height: 352
-        isCached: true
 
 secured: "r8lkzAZmZHqRhBzQhwI4p5bo1Xm/WyJiITLhVR+rTsNmbvelwHLnAos2e8B9vt/UFSvC/YP5KacZAqgpUcIxRC8ase94tGULJkHRASYhjwKWTFDzMywg+vd+SN1FxmuMgJrcBUPg4NOkEs9I6Yymvp/rG+f+yNP33qz8DWa3Mz7pArtfLORMkUCc2GpunVr7z8D69fDU4FqyFTD4NSqjwDT0/P3CRUTR6CAs2fETB7y2b8Pn4ewixLOTweGo0TK2Mnd6R1I1ptwXG9UVziwSeOHIwoCj3BJsFO3hlZC76IdmPv0+ulB1+/hx9xBX1KnINV5OG6/A822fWleehOu9nHheyzld0eb4FsrRR5mYOoB039uBUNknks0PaEW45EsGHLBm47kY/WSzRQ5uq7XfmFIpQVpoQRVillgSRS2V6uVN4OFog4MwyZ7ohU18fBNjiNB8FKOVY09sjvQNQkrdt0SxhfZqqkyXe85EbWba/nMCO4gaWL7uW9s0kRr+5VM1jX2MVh0hgq9y40JpnwCc5Q==;bs0dZmipLsdsDaZ9XA3teQ=="
 ---

@@ -89,6 +89,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Top 10 companies that are using AI"
+    excerpt: "If you ask about the only technology that is emerging today, that is Artificial intelligence or maybe you can say that it is one of the technologies that today’s companies are adopting it rapidly. There are many companies that are using AI."
+    publishedDateTime: 2021-10-05T13:44:00Z
+    webUrl: "https://www.linkedin.com/pulse/top-10-companies-using-ai-rejwan-bin-sulaiman"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 43
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQH4A01QBfCQMA/article-cover_image-shrink_600_2000/0/1633440642620?e=1639008000&v=beta&t=5NRexVdZcF7GI2e93SuDLCKKyXiGpiS-sjLvn0q-vpw"
+        width: 864
+        height: 486
+        isCached: true
   - title: "Making self-driving cars human-friendly"
     excerpt: "Automated vehicles could be made more pedestrian-friendly thanks to new research which could help them predict when people will cross the road. Scientists investigating how to better understand human behavior in traffic say that neuroscientific theories of how the brain makes decisions can be used in automated vehicle technology to improve safety and make them more human-friendly."
     publishedDateTime: 2021-10-06T13:07:00Z

@@ -1,14 +1,11 @@
 ---
 category: news
 title: "GBG wins Best AI/Machine Learning Innovation of the Year award"
-excerpt: "SINGAPORE - Media OutReach - 29 September 2021 - GBG (AIM:GBG), the global expert in digital identity, helping businesses prevent f"
+excerpt: "Judges praise GBG's technology for reducing false positives and improving fraud detection  SINGAPORE – Media OutReach – 29 Septem"
 publishedDateTime: 2021-09-29T08:42:00Z
-originalUrl: "https://menafn.com/1102883927/GBG-wins-Best-AIMachine-Learning-Innovation-of-the-Year-award"
-webUrl: "https://menafn.com/1102883927/GBG-wins-Best-AIMachine-Learning-Innovation-of-the-Year-award"
+originalUrl: "https://menafn.com/1102884008/GBG-wins-Best-AIMachine-Learning-Innovation-of-the-Year-award"
+webUrl: "https://menafn.com/1102884008/GBG-wins-Best-AIMachine-Learning-Innovation-of-the-Year-award"
 type: article
-quality: 56
-heat: 66
-published: false
 
 provider:
   name: Middle East North Africa Financial Network
@@ -20,24 +17,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-09/29/MOL_82acefbd-3_Image_In_Body.jpg"
-    width: 318
-    height: 213
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?43248"
+    width: 445
+    height: 250
     isCached: true
 
-related:
-  - title: "GBG wins Best AI/Machine Learning Innovation of the Year award"
-    excerpt: "Judges praise GBG’s technology for reducing false positives and improving fraud detection SINGAPORE – Media OutReach – 29 September 2021 – GBG (AIM:GBG), the global expert in digital identity, helping businesses prevent fraud and meet complex compliance requirements,"
-    publishedDateTime: 2021-10-01T08:41:00Z
-    webUrl: "https://www.globalbankingandfinance.com/category/news/gbg-wins-best-ai-machine-learning-innovation-of-the-year-award/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/category/news/gbg-wins-best-ai-machine-learning-innovation-of-the-year-award/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/gbg-wins-best-ai-machine-learning-innovation-of-the-year-award/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 56
-
-secured: "StpKIqrIveb0yniqzWU7EwdRnr0UFxgzr+5ACa3cWuuYXcel/SSXlK5IxwSFxciavXIAGtScf7UcQKlpLqWWawEtGGXDAexMYe/HTwkhYpx/6C+saz4GevfNM+vVMJvVSaNZIKDhNem2e81/F/pqckaEdXPJ807Q24RHk9X5jYCUvgMsXoiVEMTA0fP8TpKdrhGKsqNDB/uk2O4PwEwGIdVCqYURCnQbs1q9T2zZEwzakv+phDPz2EdC2LSM+1crW0SeE/eGz1lsH5/W4p0JqUCxVbVSu/1n2cX26kQPMe4bIJzkuxJkIfAIGL8pwIm1eBvBSj//fgVC4/Ti0zyYRT0URaOdaIbzl0VMVvK3ZtdplPbazEuw/eylADOZWDYc7qjO/4Bseo+4Qg5AL9jMe2Ll5KF5kW96og9rvlLt0em6q8ozZfeKxkA9tLZIqlImoljU0PwezHAlIbF+GPkeajMSIGd/uaQcfIIcVPmNjhilBQbpjjl1BpY2C+FJRsCsYKHxgacw97caGJcex5VkHw==;VIbdIhAHIn4JPsm7D24vmA=="
+secured: "yVu1dVo3GJjXUPXgeIrRYm7YgHp6PzwzE0r9lAO9neVPIOW8j07FSFWnazItTIstjXL0zMUtx+T0uGVNvsaCmfpE3QDk3RdB6Pyff3A5SSGjyhdoC+CVA1//txseMuYryv11THl0kwiYqIm1VZ3+3cB9JiiB+hcPMh/x3gs44eESXxhOQkhrubJdT3JG2eee83PzB9QL3jI6Wk4DR/fSp3hFVDbqQA08n9jZ/mQ5am0YvwZ9o1vAPI5ikU7TsmXGnyb1Gk7fW2K7wSQHu6LPsOuEzrNz7TL+abo75sgqJMfb7vtV6UBgjmT/n70MSAeJcm7Igt42x+QFE83NvcZPUeUjOQCybf2tNUxaLFlK0ko=;umkkD52xQUNh5lNUb1ApdA=="
 ---
 

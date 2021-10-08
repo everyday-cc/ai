@@ -7,8 +7,8 @@ originalUrl: "https://www.xing.com/communities/posts/rising-funding-in-healthcar
 webUrl: "https://www.xing.com/communities/posts/rising-funding-in-healthcare-artificial-intelligence-is-rising-factor-of-ai-market-1015989158"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 113
+published: true
 
 provider:
   name: XING
@@ -25,44 +25,75 @@ images:
     isCached: true
 
 related:
-  - title: "This Healthcare Company Is Using AI to Develop Drugs"
-    excerpt: "L ife sciences company Schrödinger (NASDAQ: SDGR) has developed software that could help drug companies develop medicine using artificial intelligence and physics, and it's already being used by a number of big-name pharma companies."
-    publishedDateTime: 2021-10-03T12:15:00Z
-    webUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03"
-    ampWebUrl: "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp"
+  - title: "AI-based Employee Wellness platform mHealth Raises Funding From India Accelerator"
+    excerpt: "The company plans to utilize the funds to improve the platform, enhance customer experience and build a larger stack of wellness services on the platform"
+    publishedDateTime: 2021-10-07T10:21:00Z
+    webUrl: "https://www.entrepreneur.com/article/389851"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
-  - title: "Top 10 companies that are using AI"
-    excerpt: "If you ask about the only technology that is emerging today, that is Artificial intelligence or maybe you can say that it is one of the technologies that today’s companies are adopting it rapidly. There are many companies that are using AI."
-    publishedDateTime: 2021-10-05T13:44:00Z
-    webUrl: "https://www.linkedin.com/pulse/top-10-companies-using-ai-rejwan-bin-sulaiman"
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 62
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1633602081-mHealthTeamv1.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Using AI in Healthcare to Improve Care Delivery Models"
+    excerpt: "Artificial intelligence (AI) has remodeled many industries around the globe, and the field of healthcare is no different. Healthcare providers now realize the benefits technology is offering to them."
+    publishedDateTime: 2021-10-08T05:35:00Z
+    webUrl: "https://www.cioapplications.com/news/using-ai-in-healthcare-to-improve-care-delivery-models-nid-8668.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
+    images:
+      - url: "https://www.cioapplications.com/uploaded_images/magazine_img/tk832cioapplications300x400123.jpg"
+        width: 300
+        height: 400
+        isCached: true
+  - title: "Technology Segment to Witness the AI in Healthcare Market significantly from 2019 to 2030"
+    excerpt: "AI in healthcare offers the opportunity to help physicians identify better treatment options, detect cancer at an early stage and engage patients for better healthcare. Companies such as IBM have played a big role in pushing AI into healthcare."
+    publishedDateTime: 2021-10-08T01:01:00Z
+    webUrl: "https://www.xing.com/communities/posts/technology-segment-to-witness-the-ai-in-healthcare-market-significantly-from-2019-to-2030-1018512512"
+    type: article
+    provider:
+      name: XING
+      domain: xing.com
+    quality: 47
+    images:
+      - url: "https://swobj.xingassets.com/v1/communities/public-production/content_images/images/005/374/922/main/smart-robotic-artificial-intelligence-medical-set_81522-4748.jpg?temp_url_sig=c6b7267cc7e67978cedab3eedcd727ec1e33b608&temp_url_expires=1633701665"
+        width: 475
+        height: 267
+        isCached: true
+  - title: "Federal Government Spending on AI is Accelerating"
+    excerpt: "The adoption of AI by the US federal government is accelerating, with defense agencies leading the way and services suppliers benefitting."
+    publishedDateTime: 2021-10-07T18:11:00Z
+    webUrl: "https://www.aitrends.com/ai-in-government/federal-government-spending-on-ai-is-accelerating/"
+    type: article
+    provider:
+      name: aitrends
+      domain: aitrends.com
+    quality: 39
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/10/10-8FederalAISpending-2.jpeg"
+        width: 550
+        height: 352
+        isCached: true
+  - title: "AI is now spreading in our everyday products"
+    excerpt: "AI features are becoming standard in consumer applications. Yole announces a US$ 5.6 billion market by 2026. Extracted from: Computing and AI technologies for mobile and consumer"
+    publishedDateTime: 2021-10-06T07:19:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-now-spreading-our-everyday-products-sandrine-leroy"
     type: article
     provider:
       name: LinkedIn
       domain: linkedin.com
-    quality: 43
+    quality: 37
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQH4A01QBfCQMA/article-cover_image-shrink_600_2000/0/1633440642620?e=1639008000&v=beta&t=5NRexVdZcF7GI2e93SuDLCKKyXiGpiS-sjLvn0q-vpw"
-        width: 864
-        height: 486
-        isCached: true
-  - title: "How the Automotive Industry is Using AI"
-    excerpt: "Artificial intelligence (AI) in the automotive industry is making vehicles autonomous. Learn about driverless vehicles & AI now:"
-    publishedDateTime: 2021-10-05T20:09:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/ai-in-automotive/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 41
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/10/The-interior-of-an-autonomous-driverless-vehicle.jpeg"
-        width: 1400
-        height: 933
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEf6sjUoXLzww/article-cover_image-shrink_720_1280/0/1633504730473?e=1639008000&v=beta&t=_cmbRle7u1TXmwlotEtYwg3J7q2ZbkWGhzHojbm5_Bg"
+        width: 1171
+        height: 720
         isCached: true
 
 secured: "zBGAznZMFsOk4PB/Tiz8J+6AW9ZMO1RmPoJ0OSmxUqWaFgOPu66Ty0cm59OkDKxUyrB3EYD4nR4Ox9OADrrpcDKNMAv/K8oqKllDIEhmbx5TWF5+rPaS0OLkstq+FGin+s6v/ji8dFay9FE9fJeCN2o2uwpXI4C0YZiCSzpO91t6oy0eJ1rTtb8692qRy0mm3xRLYh3BL4FmZwdpGcokYsHlUFeOP7oCHochk2ASwoNBhV864VFGbPM28h58jWf4EbitAUcz7BvGl3wvSexCiUGPIkAxM/QcGZcFccfpILIMxLSLV5wTsqi5uGaLxdySoqJI5gOgoysv+4XJ1UE5Ug9L3knNyjQMzYn7fHVbUgceRj0u7d2tmsUrGF2Ezg1wJTK3UbU0djATiAOcHx6rV/9GkI0ZY6yJoIblu9viJHWcydIUWiRtIWcQSqk+F+BOy0g5d8CDGNS8dojLAhmxCGbcE6WXkMLljr+CzZLywtlk+KHPKxgibYR2uwrKWEaH0FQbbjGCRQPwyfNsTfR2vA==;geRonaqzx2BOWk2ptFubJw=="

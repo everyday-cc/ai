@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Using blockchain technology to protect robots"
+    excerpt: "Control Engineering - Imagine a team of autonomous drones equipped with advanced sensing equipment, searching for smoke as they fly high above the Sierra Nevada mountains. Once"
+    publishedDateTime: 2021-10-08T05:02:00Z
+    webUrl: "https://www.controleng.com/articles/using-blockchain-technology-to-protect-robots/"
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 54
+    images:
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/10/CTL2110_WEB_IMG_MIT_Blockchain_Robots-Slider.jpeg"
+        width: 645
+        height: 350
+        isCached: true
 
 secured: "75mjl51dWAXVUYDGeCJWFpE3WhogZVXnZubIt5bxoglI4QfsACWEuQcOqVC7TKH4sj83Zo9y5E6i+wNwTwk1KIlGwlXWRPFemrq/huC9g+3XgF5XQhRAUOsACFUQOvZVmGfB2i3/E2JQecMJY2gzkx+8agaWFGgEaFOjsCG/8LhikvLtCDLa5b4dTUQvi9BJe/mcXZisr37qzfFQSRy6xHrcsyoaqTMmsMfvJcGo7XDEN2jNsVmzcihwi19D56QTRePDD7I9e/C2PeE1L2gQzNvAnO/LyDgkpS2gzPGTL8Zcc2FFTuIK6AVc8bv/pKuUizhjcJRlKdQAQ16xBybouCDtr8JBLKAQF6NoEyWt/BqZq1FRyS5SOPxojHqDuLxXtt+cSRk+J6V+qI5bObfCKIK7+qlqxXcmDWySdK4hm+T2xB3TZfookJ3dCd0U8rAELhvwUARxA1QD3PGDu7eSTaVJjF8ENQ0VeFCYgZ2potn2Dd4aQ0qIcyYmw3pNje79hnTGvj5xfPxYHblBHKEpNw==;CqOf8OnRPqYdWdTVfJqCzw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.socaltech.com/graymatter_robotics_gets__m_from_nsf/s-0
 webUrl: "https://www.socaltech.com/graymatter_robotics_gets__m_from_nsf/s-0081785.html"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -26,19 +26,14 @@ images:
 
 related:
   - title: "GrayMatter Robotics Awarded $1M from the National Science Foundation"
-    excerpt: "GrayMatter Robotics, a Los Angeles-based AI-Robotics startup, has been awarded a National Science Foundation (NSF) Small Business Innovation Research (SBIR) grant for $1M to conduct research and development (R&D) work on Smart Robotic Cells for Surface Finishing & Treatment Applications on manufacturing lines."
-    publishedDateTime: 2021-10-07T13:19:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/science-technology-business-small-business-robotics-f2f662f111d249f308df8e158ae5571b"
+    excerpt: "GrayMatter Robotics, a Los Angeles-based AI-Robotics startup, has been awarded a National Science Foundation (NSF) Small Business Innovation Research (SBIR) grant for $1M to conduct research and development (R&D) work on Smart Robotic Cells for Surface Finishing & Treatment Applications on manufacturing lines."
+    publishedDateTime: 2021-10-07T13:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-graymatter-robotics-awarded-1m-from-national-science-foundation-/2021/10/07/9465026.htm"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "01Y+195xV36OCGDniV/tj4/ejkfJbpAluCjJh9bhqThD3IbL6x9Mh9p+UQVXv4xdAV5SWeeTcKjP2HYKYfIE9ZJlPOtsX17HN1USA21N6BJfP7Zrj8fNhSQ/0V6bVetDOaZaWxESiPY50iRCDVCwsRgKryymBxynUrtNyEv1bPO8KeNYSXZFacL/VumSVWpprkjhxXxMOTAiZhepV7mAIz7Wu6sZI5xQ3SkzqXQmx+gt+cbuIyWYAmYrCzuT1/J/yDNiG2QS/w5xljzXTN165rrll1evqgOOMpqYgD3SHU6bPDtscS9ZC04Xz/2eslKXIKuCULXYW58EnkFJGvGNwpt3w4PYqxRvldJUl1/BCOc=;f1y1Cfkv1g8nY3OQjDJoNA=="
 ---

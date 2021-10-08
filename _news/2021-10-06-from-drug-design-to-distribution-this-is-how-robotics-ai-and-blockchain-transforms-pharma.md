@@ -7,8 +7,8 @@ originalUrl: "https://www.linkedin.com/pulse/from-drug-design-distribution-how-r
 webUrl: "https://www.linkedin.com/pulse/from-drug-design-distribution-how-robotics-ai-pharma-meskó-md-phd"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: LinkedIn
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Using blockchain technology to protect robots"
+    excerpt: "Control Engineering - Imagine a team of autonomous drones equipped with advanced sensing equipment, searching for smoke as they fly high above the Sierra Nevada mountains. Once"
+    publishedDateTime: 2021-10-08T05:02:00Z
+    webUrl: "https://www.controleng.com/articles/using-blockchain-technology-to-protect-robots/"
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 54
+    images:
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/10/CTL2110_WEB_IMG_MIT_Blockchain_Robots-Slider.jpeg"
+        width: 645
+        height: 350
+        isCached: true
   - title: "Blockchain Tech Could Be the Solution Against Hacked Drones or Self-Driving Cars"
     excerpt: "A near future where robotaxis and autonomous trucks are safely sharing the roads with regular vehicles, while cargo drones up in the air are making most of our deliveries, sounds like a wonderful idea."
     publishedDateTime: 2021-10-06T09:42:00Z

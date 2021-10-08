@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Google Tests Artificial Intelligence To Time Traffic Lights In Israel, Curb Pollution"
+    excerpt: "Google has run pilots of the AI-based traffic signal optimiser technology at four locations in Israel to reduce fuel consumption and air pollution."
+    publishedDateTime: 2021-10-08T03:59:00Z
+    webUrl: "https://www.republicworld.com/technology-news/other-tech-news/google-tests-artificial-intelligence-to-time-traffic-lights-in-israel-curb-pollution.html"
+    ampWebUrl: "https://www.republicworld.com/amp/technology-news/other-tech-news/google-tests-artificial-intelligence-to-time-traffic-lights-in-israel-curb-pollution.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/other-tech-news/google-tests-artificial-intelligence-to-time-traffic-lights-in-israel-curb-pollution.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 50
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/irdkhycccbabgqff_1633664717.jpeg"
+        width: 768
+        height: 438
+        isCached: true
   - title: "Google Planning to Use Artificial Intelligence to Cut Traffic Delays, Fuel Use in Brazil"
     excerpt: "Alphabet Inc's Google cut fuel use and traffic delays by 10% to 20% at four locations in Israel by using artificial intelligence to optimize signal lights and it next plans to test the software in Rio de Janeiro,"
     publishedDateTime: 2021-10-06T11:30:00Z
