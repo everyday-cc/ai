@@ -35,7 +35,7 @@ related:
     provider:
       name: SciTech Daily
       domain: scitechdaily.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://scitechdaily.com/images/Machine-Learning-COVID-19-Concept-777x518.jpg"
         width: 777

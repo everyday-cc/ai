@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Time Is Ripe For Responsible AI In Aviation"
+    excerpt: "AI is here for over 60 years, advances in computing and access to data have allowed many industries to exploit the potential of ML algorithms."
+    publishedDateTime: 2021-10-08T12:31:00Z
+    webUrl: "https://analyticsindiamag.com/time-is-ripe-for-responsible-ai-in-aviation/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Time-Is-Ripe-For-Responsible-AI-In-Aviation.jpg"
+        width: 1600
+        height: 1064
+        isCached: true
   - title: "NLMK is testing innovations in the field of artificial intelligence"
     excerpt: "NLMK Group has signed a strategic partnership agreement with the Association of Laboratories for the Development of Artificial Intelligence."
     publishedDateTime: 2021-10-06T10:14:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/07/is-there-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/07/is-there-too-much-focus-on-intelligence-in-ai/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Smart robots do all the work at Nissan’s ‘intelligent’ plant"
-    excerpt: "Nissan’s “intelligent factory” hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint"
-    publishedDateTime: 2021-10-08T10:53:00Z
-    webUrl: "https://www.wboy.com/technology/smart-robots-do-all-the-work-at-nissans-intelligent-plant/"
-    type: article
-    provider:
-      name: 12WBOY
-      domain: wboy.com
-    quality: 39
-    images:
-      - url: "https://www.wboy.com/wp-content/uploads/sites/43/2021/10/69eedfdbf52d49328102d2214f4b30ba.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "iF+uGPTvmFX7o+KOBNcUJ4k8VKDAM0TAq7AYaficLanM+uXHcXkfVzk8yCUTCRqu+exJkDyPo86Hh66Y+QZhXR0A6M9bhr+Wyyczcjvsgp7u9XdN0LCCRJfMJzUhU6UnPcsuMP49Afft4dVwks3TQxXHRmCm9c6ylXuN+F3dkOGu1L8MZfzbDiyymwO4Di3po/N7wBeonBlfDoBEkOUZp1bEwgDsFyTa0Av8dGIFLfngIdfaYgguEx+pyWU7X0OZcdXfO6N1CuZQOFZf5OMX4uLaQ+EYpBDGrGwN+XRF5nR2dN9fXTFbUG6GaePHzjijanwYAvPtqjR7zOhJykz7XrCFSQFYn3aZIALfbCJSylijUNDrMCrxxwffGCgQCRtcn6SMGL8vU+JFYv8L5rMLYVug5YnKad3g9aU9hEPFD3UTu+irjum5JHmQK3gt29V50Ko9uZXkco7Y5BrCJDAMqNfCPKooYXdAmwjo5rUn7tchI2LkpbesEMaRadyzcBwBFjuKX0PkFAN7FSaxi0FYoA==;Ihc/eU9YQ9u/sNENAWrcRQ=="
 ---

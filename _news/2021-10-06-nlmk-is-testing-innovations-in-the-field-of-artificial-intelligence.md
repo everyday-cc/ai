@@ -38,6 +38,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Time Is Ripe For Responsible AI In Aviation"
+    excerpt: "AI is here for over 60 years, advances in computing and access to data have allowed many industries to exploit the potential of ML algorithms."
+    publishedDateTime: 2021-10-08T12:31:00Z
+    webUrl: "https://analyticsindiamag.com/time-is-ripe-for-responsible-ai-in-aviation/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Time-Is-Ripe-For-Responsible-AI-In-Aviation.jpg"
+        width: 1600
+        height: 1064
+        isCached: true
 
 secured: "eu3hHK1DbKwd9I9P8Hc9gmoNi5Aek72bHb3rRWzGvXh4vrofgal16a+8rbNiyy7Qv1lG/tr6FG8NP62vjDzv+/j6mRgZ6Yhp07cThR9vhcR6i0XND7CesgAZGpa28gci4gLv55ME0ErFFj0hU7w+uxkV3wA1+O3GAwn0WAYiuF06wsHTL5r4HEdhDr7MwkaGaWjBSL//MAm4THHHXYPeGjJPl34DGP3rNwqjmiFUZ/qi8eAij5q9K7DLypuToD4YyaWmrMTMamgTgeryg/tEwEoQicU75oLOXuYOYqrO8Ojg88gF0XpAJl+AWK4n2Ne2/g2erEreSeURzNgnQJrCFTAySAgSL0YZb538XRs4Fv8=;9otoN5iWdFeMw1Wnt8ddGQ=="
 ---

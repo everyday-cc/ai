@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-08-neural-network-helps-predict-new-drug-combinations-to-fight-covid-19.md",
+      "title": "Neural Network Helps Predict New Drug Combinations To Fight COVID-19",
+      "excerpt": "Deep learning identifies synergistic drug blends for treating viruses like SARS-CoV-2. The existential threat of Covid-19 has highlighted an acute need to develop working therapeutics against emerging health concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/neural-network-helps-predict-new-drug-combinations-to-fight-covid-19/",
+      "originalUrl": "https://scitechdaily.com/neural-network-helps-predict-new-drug-combinations-to-fight-covid-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Machine-Learning-COVID-19-Concept-777x518.jpg",
+          "width": 777,
+          "height": 518,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/neural-network-helps-predict-new-drug-combinations-to-fight-covid-19/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/neural-network-helps-predict-new-drug-combinations-to-fight-covid-19/amp/",
+      "publishedDateTime": "2021-10-08T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-10-08-rising-funding-in-healthcare-artificial-intelligence-is-rising-factor-of-ai-market.md",
       "title": "Rising Funding in Healthcare Artificial Intelligence is rising factor of AI market",
       "excerpt": "Technology (Machine Learning, Context-Aware Computing, NLP), Application (Drug Discovery, Precision Medicine), End User, And Geography – Global Forecast To 2025. According to OECD estimates, 20% of healthcare spend is wasted globally.",
@@ -53,7 +97,7 @@
       "originalUrl": "https://menafn.com/1102931771/Artificial-Intelligence-in-Education-Market-Size-By-Model-Forecast-2020-2028",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -1341,58 +1385,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-zoomtopia-ai-and-video-to-power-healthcare.md",
-      "title": "Zoomtopia: AI and Video to Power Healthcare",
-      "excerpt": "At the recent Zoomtopia, the company spotlighted how healthcare providers are actively transitioning to telehealth, representing a significant disruption of the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/cloud/zoomtopia-ai-and-video-to-power-healthcare/",
-      "originalUrl": "https://www.eweek.com/cloud/zoomtopia-ai-and-video-to-power-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/09/Zoom-White.jpg",
-          "width": 1032,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-20T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

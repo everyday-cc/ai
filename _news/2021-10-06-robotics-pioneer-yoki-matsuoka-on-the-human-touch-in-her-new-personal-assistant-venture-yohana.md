@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/robotics-pioneer-yoki-matsuoka-human-t
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/robotics-pioneer-yoki-matsuoka-human-touch-new-personal-assistant-venture-yohana/amp/"
 type: article
 quality: 92
-heat: 104
+heat: 102
 published: true
 
 provider:

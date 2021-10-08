@@ -15,9 +15,9 @@ provider:
   domain: wicz.com
 
 topics:
-  - AI in Robotics
-  - AI
   - AI Hardware
+  - AI
+  - AI in Robotics
 
 images:
   - url: "https://EINPRESSWIRE.images.worldnow.com/images/21509858_G.png?lastEditedDate=1633667688000"
@@ -25,6 +25,6 @@ images:
     height: 421
     isCached: true
 
-secured: "lUxAu9I7RaxdZRi2s8Een4Il1ral+YeKFlNL+TEBCxmvQjmE2AoF+5mww0XggwZwGhgmgIFDQUdNzVqJbaz9E5NqW5RQfTEviXF2Q2heXLCkUGkLOvRogZs5V7saLZUdgR2xs6N1FxEbs150PY+fYrU0x13IV9IH8C4ZgoJ95kCPJ6fNEedfwWCujS/P2SDI2TAbsSfsWiWR26DxTPngt10bIWh2/qiOAK1reYmE/HOwF+afGZJf9W3Qxy5mGo7AuojZ9ATx0ZzDhlUYTyyD+NK1wUrE/nlThqNloWEO8s6JqQii7+y0Ifc3Ql4Hh1uJDdRj8yVsPhcombFGw6HKyd+no+CZWRcpwb8DngrJwp8=;oLSkduDvKTS4Nd2+0Fszqg=="
+secured: "gaAhcKPgalHVU/JzNRkVIc3dB89BD14cz5HYQv3vBWVlJSYQ59Yl0ev/MerHURBPmDO3CoIZy6P9FvZih0OFUmJJrOaXdi6hszTdmIvITS3bQZ0Za8pw2xGc8XMRcHmzSD3/X9vMHUY+Caj61ZRsjkjKkARiM40YZLCkbzvXPSSQBF0ngnWOag36TyBYgTCC/E2/XIlw9MiPvwboMgWKzbdWmOof+YzCtoJMaT4oAkTvTrwqXc6xAQMlbFV2rc/DwuY4VRQfrA6IP92U+2HLr4GEzf5vTCVUO9Wm48RAdI/ZcJk+heG3ahdhI2/s5ECgcrqCcf74lgtnwt3PVEsLQHgKnDnV7dwo4atdnO32BjI=;FgGqUa1PoltxB+UiPJZW+Q=="
 ---
 

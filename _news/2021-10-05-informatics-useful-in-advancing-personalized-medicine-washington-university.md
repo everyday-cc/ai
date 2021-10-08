@@ -7,7 +7,7 @@ originalUrl: "https://www.outsourcing-pharma.com/Article/2021/10/05/Informatics-
 webUrl: "https://www.outsourcing-pharma.com/Article/2021/10/05/Informatics-useful-in-advancing-personalized-medicine-WashU"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 750
     height: 435
     isCached: true
+
+related:
+  - title: "AI-Based Natural Language Processing Advances Precision Medicine"
+    excerpt: "Washington University School of Medicine is improving precision medicine research with the adoption of artificial intelligence-based natural language processing tools."
+    publishedDateTime: 2021-10-08T13:31:00Z
+    webUrl: "https://healthitanalytics.com/news/ai-based-natural-language-processing-advances-precision-medicine"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 56
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1127125431.jpeg"
+        width: 700
+        height: 431
+        isCached: true
 
 secured: "283XRbIinNZc0p+YE+Y5dFj31V9gKZ8a7JrRpRCYtrPTb5n1B34XAe58977R67TUtNAiLbznNImzqKb/U1UQsmkUy4iTYwzdLLQ15QnWE1vmS7BtqfcVZ4qCmMth+HhHtHQPxrnntEsj1tN3PAFSQGri6m1oQo+vFRNGqSvgyAu/i6tZNJeJEIEvjugzOljd3CjVauxMtFMVzrxtNAzqj/O9l/AyxGD0OM8MQeShSETIfaSWOD82dbP1aZ0Ls5d/zwsPAmRi7bjXG7t9uO/mrWZRACorzHkzhT+K8gv6KaKjq+8pQx+KQ/WZk+l88mrQm65RJ7uijHTW7zelJdoknPZC2ZsV4sHHFfIHbAOxpLg7UhCZRgdagIOxQuIoe9vpCr8tiv8gQmgig9XZi0NL9jPRYyql1sQYR3hfa/rndpWoeJm2PDP/AuhQrqUB3rOhZne8WTFOqVcbiAubskSyRIQ60qtbkMG5JOqNi50+LYuWvhHNv71losUcl1vGA6mBrErrcuw3pJ+LERFMUixq6A==;O1KPpQML9bPnizDEjcG8gQ=="
 ---

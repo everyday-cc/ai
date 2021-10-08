@@ -123,6 +123,20 @@ related:
         width: 374
         height: 249
         isCached: true
+  - title: "Automotive Artificial Intelligence Market Size By Component: Market Analysis Report, Forecast 2020-2030"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 07, 2021, 07:32 /Comserve / -- The global Automotive Artificial Intelligence market is expected to be around US$ 13.5 Billion by 2025 at a CAGR of 35% in the given forecast period."
+    publishedDateTime: 2021-10-07T19:45:00Z
+    webUrl: "https://menafn.com/1102935337/Automotive-Artificial-Intelligence-Market-Size-By-Component-Market-Analysis-Report-Forecast-2020-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 23
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?982858"
+        width: 366
+        height: 250
+        isCached: true
 
 secured: "DwVd8NuQcN0pXg9X4VKYbWtbgzLjOVGTDQVZCgb3p4mCvfIABar1xMsvA+fOjo/38jO/vaRfB5SHRYxOXHSsIpQg82DpK39NtB0sEobrfZks7/2fbL8UoUUFC9Lz4RQdLmQcGdp3Kn0vKBMTZ5HCbUkhFzjqPYxx1pSSJ7EoBh0JWsb8mVr1e8RDjEOmioomZcMN2CJ5V5uhdMSeiZTMV1v7C3M/rJPRYNFEcZDmBPEbh92ztzI54LVA1YuFyWOMDi1Gkfc/JXrywg22SB0/TNXf1CcMbbxFgNEmfmNRj7bc3YQPhwgrdAH2IwmupoyB4PpyW9Ow9Lox0ZJxDd+2Y45RWuWbQ4KTbA0/5AjOW+c=;YxW9dMjeW2Ir87woBH9p9w=="
 ---

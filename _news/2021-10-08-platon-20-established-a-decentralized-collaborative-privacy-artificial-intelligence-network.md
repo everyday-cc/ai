@@ -1,26 +1,26 @@
 ---
 category: news
 title: "PlatON 2.0 Established A Decentralized Collaborative Privacy Artificial Intelligence Network"
-excerpt: "PlatON 2.0 Established A Decentralized Collaborative Privacy Artificial Intelligence Network Singapore, Singapore--(Newsfile Corp. - October 8, 2"
-publishedDateTime: 2021-10-08T08:31:00Z
-originalUrl: "https://menafn.com/1102938043/PlatON-20-Established-A-Decentralized-Collaborative-Privacy-Artificial-Intelligence-Network"
-webUrl: "https://menafn.com/1102938043/PlatON-20-Established-A-Decentralized-Collaborative-Privacy-Artificial-Intelligence-Network"
+excerpt: "October 8, 2021) – PlatON, a next-generation Internet infrastructure protocol based on the fundamental properties of blockchain, recently combined blockchain, artificial intelligence and privacy computing technology to establish a decentralized collaborative privacy artificial intelligence network,"
+publishedDateTime: 2021-10-08T10:44:00Z
+originalUrl: "https://www.thewhig.com/newsfile/99014-platon-2-0-established-a-decentralized-collaborative-privacy-artificial-intelligence-network"
+webUrl: "https://www.thewhig.com/newsfile/99014-platon-2-0-established-a-decentralized-collaborative-privacy-artificial-intelligence-network"
 type: article
 quality: 26
 heat: 26
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Kingston Whig-Standard
+  domain: thewhig.com
 
 topics:
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?572494"
-    width: 444
-    height: 249
+  - url: "https://smartcdn.prod.postmedia.digital/nexus/wp-content/uploads/2021/07/newsfile-91430.jpg"
+    width: 500
+    height: 375
     isCached: true
 
 related:
@@ -34,6 +34,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "wY+feSz47RQa7f3qIKJEnr8N4L337+Oju2wZpAiAmYQTuH41oyjbGlsh3wd8UVUObKA3c5AimMvu7kRcO856uN2bjGtbDj68OzTUdipe8NsUoAY885i9rkt32w2U/6BzcYFs5ksuhZcQqZGj4gPCMg/rTbsZaNDn4L34g5rkYwLuEsVBCryANOrmzh38WcVq/5i7nB1VeFhbzW9j+w0XttTU7W/SZPER2q4K74H5pUSXvJqNncPZ5c+2T1qEKp/WUyLwIh67F12GPP6p5+XKk6vNfoDEynBAnpKFNtgr7FpdSku2pEAUzC/0XLPB6jliz4VBvruA/U/Z0GprkFxPjiiShxd5Qy/MrB4ljmzpst8=;z6FGuioI/MMEY8KCNfEtIA=="
+secured: "Hltzvr04e5GuUVM+lCYomnuMEN5DujMt09X4eJVZrn8hHn+LejQhj+RbZ3okkXCiKleOerF6/UO2Hy9+1Flew4b8AnHZGr/WhDB/oIzmzqvQ40YOliUvbvu1ePZgPjlwwGNQ7xH1g6JXZ/d/osWwh1wVUGsLX86IETqBgkQ78bvIq9FIb0zIIzKrY6JoSapZHlR/jFog+tNdWY5s4wxKu6igDfDwpfiBHQ2gAncLasGOFIvZJZGPEZ6Jac0MlEKOh99uFReaOXV30TOdf51RlPp5i+nfoY/LjkewA/WexZLEWetkT89RFDVxyWNHaj/5gq6RKFa5PDCRJTWFGXvcaXaMjnfqorsTtE2bHUEUcik=;85TSMr/+rlFldZY3V1nU6g=="
 ---
 

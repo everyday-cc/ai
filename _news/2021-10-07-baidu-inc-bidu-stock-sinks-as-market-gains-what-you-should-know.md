@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/baidu-inc.-bidu-stock-sinks-as-marke
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-inc.-bidu-stock-sinks-as-market-gains%3A-what-you-should-know-2021-10-06?amp"
 type: article
 quality: 69
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,24 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Is Baidu’s Stock Cheap At 150?"
+    excerpt: "Baidu’s stock (NASDAQ: BIDU) has fallen by 30% from $216 to $150 since the end of 2020. In comparison, the broader S&P500 rose by 16% in the same period. Trefis analysis of Baidu’s Valuation is $224,"
+    publishedDateTime: 2021-10-08T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/greatspeculations/2021/10/08/is-baidus-stock-cheap-at-150/"
+    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2021/10/08/is-baidus-stock-cheap-at-150/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/10/08/is-baidus-stock-cheap-at-150/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1061811420%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "KUDjvfd9htxIDpa8XtyC2xmTBnnrgZbMkwDboXvvCE/MiJo9Ql69QUbNoGhLigLWNUU8573JmtE1F3KVBlKxAYpQCInrkHXYkgOWWQ30qYlyVBpyOOibDSTBk6rbYzOX0OdBR89cbswx/iGYY7OmsTAhtDf/ZJro8Sx8tRdKSuvmk/m50wnUKk+RC883Po3dIwnU0pVIF6tkxTQsL6SsTV2hMtCjLyrx0Lsnp9454XZJLscezbJrsG8GI3vb9lgyz+jN0NrOzufH6qonaklf89ZtbMdQehpHo0VDLaggKJp5FgCyLd1isllHUVrDfB4uq6o8oIuXNDVfylFH7rXLZ9Eme9zDSQg8DfG82NQ7t8o=;Fmpsu38YNOplczvh20TLPA=="
 ---

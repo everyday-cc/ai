@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "NLMK Group is testing innovations in the field of the Internet of Things and artificial intelligence"
-    excerpt: "NLMK Group, an international metallurgical company, has signed a strategic partnership agreement with ALRII, an independent association of laboratories for the development of artificial intelligence"
-    publishedDateTime: 2021-10-06T11:10:00Z
-    webUrl: "https://www.akm.ru/eng/press/nlmk-group-is-testing-innovations-in-the-field-of-the-internet-of-things-and-artificial-intelligence/"
+  - title: "Investing Fintech Startup Front Backed by Will Smith’s Dreamers VC"
+    excerpt: "New investors are always seeking information and insight that will help improve their investment decisions. Now with the advent of cryptocurrency, the need for guidance is even greater."
+    publishedDateTime: 2021-10-06T18:30:00Z
+    webUrl: "https://www.linkedin.com/pulse/investing-fintech-startup-front-backed-smiths-dreamers-jeanne-gray"
     type: article
     provider:
-      name: akm.ru
-      domain: www.akm.ru
-    quality: 22
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
     images:
-      - url: "https://www.akm.ru/upload/iblock/eb7/NLMK_NLMK.jpg"
-        width: 600
-        height: 399
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFuTSfZpL-SCw/article-cover_image-shrink_720_1280/0/1633545034818?e=1639008000&v=beta&t=bUkhk_FhWzDbZ_EZNjK3qg6gvuYUlTUfTdN0ITInCt8"
+        width: 1200
+        height: 630
         isCached: true
   - title: "INVESTIGATION NOTICE: The Schall Law Firm Announces it is Investigating Claims Against Peak Fintech Group Inc. and Encourages Investors with Losses to"
     excerpt: "The Schall Law Firm, a national shareholder rights litigation firm, announces that it is investigating claims on behalf of investors of Peak Fintech Group Inc. (“Peak” or “the Company”) (NASDAQ: TNT) for violations of the securities laws."

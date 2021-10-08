@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Team uses AI to complete Beethoven's unfinished masterpiece"
-    excerpt: "There is no overstating the German composer's influence on Western music, with enduring classics ranging from his epic \"Ode To Joy\"... (SOUNDBITE OF LUDWIG VAN BEETHOVEN'S \"ODE TO JOY\") MARTIN: ...To his heroic \"Third"
-    publishedDateTime: 2021-10-03T20:34:00Z
-    webUrl: "https://www.knau.org/post/team-uses-ai-complete-beethovens-unfinished-masterpiece"
-    type: article
-    provider:
-      name: KNAU Arizona Public Radio
-      domain: knau.org
-    quality: 37
-    images:
-      - url: "https://www.knau.org/sites/knau/files/201908/knau_blanklogo.png"
-        width: 432
-        height: 216
-        isCached: true
   - title: "Roll over, Beethoven. AI tackles his 10th Symphony."
     excerpt: "Ludwig van Beethoven never finished his 10th Symphony. But using artificial intelligence, a team of people with a computer has completed it for him."
     publishedDateTime: 2021-10-05T04:00:00Z

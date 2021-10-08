@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI In Computer Vision Market Report Global Industry Analysis By Size, Trends, Share, Competitive Landscape, And Regional Forecast To 2026"
+    excerpt: "The research report on 'AI In Computer Vision market' scrutinizes the current industry scenario to predict market size, market share, and projects valuation for different segmentations of the industry over 2021-2026."
+    publishedDateTime: 2021-10-06T15:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-global-industry-analysis-by-size-trends-share-competitive-landscape-and-regional-forecast-to-2026-2021-10-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Far-field Speech Recognition Market 2021 Size, Trends, Scope, Demand, Opportunity and Forecast by 2027| Covering COVID-19 impact Analysis"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “ Far-field Speech Recognition Market ” report covering growth prospects, market development potential, profitability,"
     publishedDateTime: 2021-10-07T09:16:00Z

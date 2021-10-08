@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/06/how-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/06/how-to-identify-ai-opportunities/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 103
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.csmonitor.com/Daily/2021/20211005/Roll-over-Beethoven.
 webUrl: "https://www.csmonitor.com/Daily/2021/20211005/Roll-over-Beethoven.-AI-tackles-his-10th-Symphony"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Team uses AI to complete Beethoven's unfinished masterpiece"
-    excerpt: "There is no overstating the German composer's influence on Western music, with enduring classics ranging from his epic \"Ode To Joy\"... (SOUNDBITE OF LUDWIG VAN BEETHOVEN'S \"ODE TO JOY\") MARTIN: ...To his heroic \"Third"
-    publishedDateTime: 2021-10-03T20:34:00Z
-    webUrl: "https://www.knau.org/post/team-uses-ai-complete-beethovens-unfinished-masterpiece"
-    type: article
-    provider:
-      name: KNAU Arizona Public Radio
-      domain: knau.org
-    quality: 37
-    images:
-      - url: "https://www.knau.org/sites/knau/files/201908/knau_blanklogo.png"
-        width: 432
-        height: 216
-        isCached: true
   - title: "How a Team of Musicologists and Computer Scientists Completed Beethoven’s Unfinished 10th Symphony"
     excerpt: "Beethoven's unfinished 10th Symphony was to be his magnum opus. Now, using AI, a team has completed it. The symphony will be released in full this Saturday."
     publishedDateTime: 2021-10-07T16:24:00Z

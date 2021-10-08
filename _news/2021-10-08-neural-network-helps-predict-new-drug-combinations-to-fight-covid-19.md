@@ -8,8 +8,8 @@ webUrl: "https://scitechdaily.com/neural-network-helps-predict-new-drug-combinat
 ampWebUrl: "https://scitechdaily.com/neural-network-helps-predict-new-drug-combinations-to-fight-covid-19/amp/"
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/neural-network-helps-predict-new-drug-combinations-to-fight-covid-19/amp/"
 type: article
-quality: 59
-heat: 79
+quality: 61
+heat: 81
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scitechdaily.com/images/Machine-Learning-COVID-19-Concept-777x518.jpg"
@@ -58,6 +59,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "fPiN35AigZkKY8bBWa8ufUQC3tXpqT8a3Up5hcoqjuZO8/nSssnhwnpFwJVWDfYHGnYuyz6ou3uyJsH1Cx5MnPd87UEGjsyIMv1JDjXMGnPK8rDS6sl7m0265LrfKUBsdvhcIYQqiN8zqQPITE32zLmLYYZiE9f4HDp+Pst/yG0g/r9liee4ZlIlNxOW8UXLXAjLCAw0GmO3DM/EQzmiDAIBnm0HUH94kiJArJDMgvT/u6OXJ06t13NRf+7/8mfsa1nodTtCfWcJvRC1qzFh2dR1Xb3CzJSIzqWwkXbcgol1O1ZQHH/08sSJut1gZF6zguveFwv3Mmm1FRQT2tpIUoq/HUk98oKdkr8tGX0bB70=;xr5BqpWqBy/WbBmDIOTrqg=="
+secured: "tEqXA0dYuf6OsrgraG3fFhLow8z5sKYSkV/fX2x8q3xvIbyyD3IgKbdyFl4WLHuLigHKNlbfjSvypkaRGkwkF9zTf1f70eOTWpYWRvYdYwA722hpLES50AafthqMcf3k+49kp0U8BVf/Lt4hYD9/V4RsRz2YAOZnphHU3HQXVRZwpxxyEcsnitnVYi3AEm6wfy3VSS/ujLprPqASgpASYRJUktxglXxZ50VOHOpUsiYC4HK8ACNJTo/9CEFMcfythN2CJP6/NAKFYRH5pjD1acGPXsR0ULpKajetCdB6aNgWJNH7XGgGgBEg8DQAMfeOodrY1kAjAdmj1rOFdVcuN8p0F3bZ1KRJWD8CgKnA1YBDpkiNgG1Pi4wTgMz96mGdBeMDHMErBf5lEmjd2norQk9ZinQFkxpk8524PLyKppkXJtW/EudRGUqvFDUesgVQ+D+u+CN0uLk//Ex2PoWhdIKfgs38waQdlwD/jBGDI3Wdkjcym74Uc1DrHNoOpXdL7tW2nim+iMYv3Z4nidy0yg==;jqyN3ORmmMAijoJ3BGqjBg=="
 ---
 

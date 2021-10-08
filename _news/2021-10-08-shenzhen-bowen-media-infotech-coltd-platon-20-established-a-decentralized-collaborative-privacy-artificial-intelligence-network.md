@@ -19,18 +19,18 @@ topics:
 
 related:
   - title: "PlatON 2.0 Established A Decentralized Collaborative Privacy Artificial Intelligence Network"
-    excerpt: "PlatON 2.0 Established A Decentralized Collaborative Privacy Artificial Intelligence Network Singapore, Singapore--(Newsfile Corp. - October 8, 2"
-    publishedDateTime: 2021-10-08T08:31:00Z
-    webUrl: "https://menafn.com/1102938043/PlatON-20-Established-A-Decentralized-Collaborative-Privacy-Artificial-Intelligence-Network"
+    excerpt: "October 8, 2021) – PlatON, a next-generation Internet infrastructure protocol based on the fundamental properties of blockchain, recently combined blockchain, artificial intelligence and privacy computing technology to establish a decentralized collaborative privacy artificial intelligence network,"
+    publishedDateTime: 2021-10-08T10:44:00Z
+    webUrl: "https://www.thewhig.com/newsfile/99014-platon-2-0-established-a-decentralized-collaborative-privacy-artificial-intelligence-network"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: Kingston Whig-Standard
+      domain: thewhig.com
     quality: 26
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?572494"
-        width: 444
-        height: 249
+      - url: "https://smartcdn.prod.postmedia.digital/nexus/wp-content/uploads/2021/07/newsfile-91430.jpg"
+        width: 500
+        height: 375
         isCached: true
 
 secured: "vKXrfTT5ypkljq0UDS4ASGLMQ2HhuLbCSKJSnW57nKeSMVlSYbdEERRYkAip2FspitvrdbCdrUbd/JmC0pUdWYCmyEePfdUALXzCjJmE3bLhJXzlC7gZ/N9N8fVq7DfJR28X95s/gJSUHKVjdcoCH1l+3s9sJ2IB1pfXeQqqI8hJUa2aQCzDaY0Z8yMAFqNKgySNFoegcBsDwSFlsdbC3HgYYeVLho5lzm/HMc48hG14DBWyqYwJIcXnf0dNcPQHiWjSZycKAEOGzgUYfemkN44cflxermUtii5MKqzK5cg3fK8V8+CVxnTWe8aXGpHKV6DwizltkjYWY/RvjSovJyYHe8NkUPrTzVE/co08+Bg=;duxN+fZc+MHFEOd0lzQ2aQ=="

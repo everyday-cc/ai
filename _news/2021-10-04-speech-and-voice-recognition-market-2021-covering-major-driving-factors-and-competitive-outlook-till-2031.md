@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI In Computer Vision Market Report Global Industry Analysis By Size, Trends, Share, Competitive Landscape, And Regional Forecast To 2026"
+    excerpt: "The research report on 'AI In Computer Vision market' scrutinizes the current industry scenario to predict market size, market share, and projects valuation for different segmentations of the industry over 2021-2026."
+    publishedDateTime: 2021-10-06T15:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-global-industry-analysis-by-size-trends-share-competitive-landscape-and-regional-forecast-to-2026-2021-10-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning as a Service (MLaaS) Market Share 2021: Top Leading Players, Future Trends, Market Size, Growth Prospects and Forecast to 2026"
     excerpt: "Get a Sample Copy of the Report -  Market Analysis and Insights: Global Machine Learning as a Service (MLaaS) Market The Machine Learning as a Service (MLaaS) market revenue was Million USD in 2016, grew to Million USD in 2021,"
     publishedDateTime: 2021-10-05T09:25:00Z

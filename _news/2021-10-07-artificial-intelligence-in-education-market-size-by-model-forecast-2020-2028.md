@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1102931771/Artificial-Intelligence-in-Education
 webUrl: "https://menafn.com/1102931771/Artificial-Intelligence-in-Education-Market-Size-By-Model-Forecast-2020-2028"
 type: article
 quality: 53
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -123,6 +123,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?160760"
         width: 374
         height: 249
+        isCached: true
+  - title: "Automotive Artificial Intelligence Market Size By Component: Market Analysis Report, Forecast 2020-2030"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 07, 2021, 07:32 /Comserve / -- The global Automotive Artificial Intelligence market is expected to be around US$ 13.5 Billion by 2025 at a CAGR of 35% in the given forecast period."
+    publishedDateTime: 2021-10-07T19:45:00Z
+    webUrl: "https://menafn.com/1102935337/Automotive-Artificial-Intelligence-Market-Size-By-Component-Market-Analysis-Report-Forecast-2020-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 23
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?982858"
+        width: 366
+        height: 250
         isCached: true
 
 secured: "0w68qEXCw10ybx3rE82KO6eM6DRacsw2eEWfJyIU2593+V7IbvwzG/ydc0H4fz+Rn4WbvTwqoJRy/Mw5OTunWTwV2R2D1WHhLsSxF+cohXHla3N5TQ8IOdN/hJgb+I25U3dyWgBuUbKh7821OONz4FW3a9mIMPVVZ5sODVzEPfs5rsy9bAoSuHvfxQp8U0u1xhwvRqDakMDppoN7orK0SLPG4Xf4UessZadwlP84GJ04MRZDkf789UFYILbIEG+wOoQHvqkKplhrzYtxq/zbHPoDSlexMZKHlIhfPn6pA15tk6wwIhorOllMrkO30JT+Terrhq1M7tY4CFYdd/EHxHExzzgwvyY6Fd6nxa+l/sc=;OfdFjimR/R+IqyKkqM0OvQ=="

@@ -25,22 +25,6 @@ images:
     height: 432
     isCached: true
 
-related:
-  - title: "How advanced predictive analytics can transform capacity optimization in healthcare — 4 learnings"
-    excerpt: "With advanced predictive analytics and intelligence tools powered by artificial intelligence, Aurora-based University of Colorado Health has optimized capacity demands on beds, supplies and staff. During a virtual session sponsored by LeanTaaS at Becker's 6th Annual Health IT + Revenue Cycle Conference,"
-    publishedDateTime: 2021-10-07T19:27:00Z
-    webUrl: "https://www.beckershospitalreview.com/data-analytics/how-advanced-predictive-analytics-can-transform-capacity-optimization-in-healthcare-4-learnings.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 26
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/data-analytics/5.jpg"
-        width: 400
-        height: 300
-        isCached: true
-
 secured: "GM4ojDeCxdaiRe0d4aeb6E5C7cngZcHMWsccBIDmmnDqvMGJu0pGekeKhFBq89x7S1wJi1cxXVPX1DtkVmQ/BwBZhUFhvQqza81DgjDETEMzZ0uVVXXH+iErMVjmu3L3RnC4VQE2ncSMjYEsWe6Bi6s+HVNHot8USMYtWZvcixocBnrYodkG97M6doR5NdUatRmrU5bkCjP8/m2ynI9U5Vs2ecVh3DoF+AoFImq9tYHMbICWBJGJq7FD+WJuQPpEMiSvD6b3HitxyH86dO1CFndIuGZ21ejPFAf3uZ0PI6sLpLeP07YoheG/5dqY3Wu98Wv+iEYInxfRXh1wpJ1EQJMJp2I8dredvBtSYkfUaek=;0lyU3QK3k2yW3q2EmzxZ3w=="
 ---
 
