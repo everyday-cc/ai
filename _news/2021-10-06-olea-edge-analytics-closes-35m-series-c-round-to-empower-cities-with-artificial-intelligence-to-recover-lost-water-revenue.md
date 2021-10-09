@@ -144,17 +144,6 @@ related:
       name: WWBT
       domain: nbc12.com
     quality: 14
-  - title: "Qlik Acquires Big Squid to Expand Its Industry Leading Augmented Analytics Capabilities with No-Code Automated Machine Learning"
-    excerpt: "Advances Qlik’s Vision of Active Intelligence by Bringing Data and Analytics Teams Key Driver Analysis, What If Scenario Planning and On-Demand Predictions Directly Within Qlik"
-    publishedDateTime: 2021-10-04T21:33:00Z
-    webUrl: "https://www.techwire.net/sponsored/qlik-acquires-big-squid-to-expand-its-industry-leading-augmented-analytics-capabilities-with-no-code-automated-machine-learning"
-    ampWebUrl: "https://www.techwire.net/sponsored/qlik-acquires-big-squid-to-expand-its-industry-leading-augmented-analytics-capabilities-with-no-code-automated-machine-learning?_amp=true"
-    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/sponsored/qlik-acquires-big-squid-to-expand-its-industry-leading-augmented-analytics-capabilities-with-no-code-automated-machine-learning?_amp=true"
-    type: article
-    provider:
-      name: California Techwire
-      domain: techwire.net
-    quality: 11
 
 secured: "c5Rexj5r5EmNrd6+RZXxPGMCgD8YwNzx+G7/jQDCC2bQKDL8U61LjNh2C00959A5+Rv2pVZmxTz3D3VGqVQTKpS9WVJCJxdhyqE7nf6YfGrtRqqTmws3ccxyadwDb2J0pBlQfmZ8MMuTY5ELQCnB2IC7cR9Y6TBDjcXKxrnHgXzND0XxZYOGXMnAuO9eigqLkf/ulTm46KPW2HqALPo0CEzpa68jBTEo3tD2zzMcb6MwmfIOiwUXlpW35qfd/kffGIxNKb61BQv7/VBkkAnOEgiqIcCRAO6Q8OYl+sDmtYEITlbPMMDgIS6SnGVTQRfa+KeIZRmeRX7MmqvUc5hBNOidVUPy6GE2WHmvQGUnih4=;L+4CR1N2s1khKVv3SpKKog=="
 ---

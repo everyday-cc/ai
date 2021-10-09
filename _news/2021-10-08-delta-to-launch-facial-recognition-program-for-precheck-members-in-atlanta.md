@@ -41,6 +41,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Delta Air Lines Expands Facial Recognition Digital ID To Atlanta"
+    excerpt: "Delta is expanding its digital identity experience to its home in Atlanta, Georgia. Domestic passengers of the"
+    publishedDateTime: 2021-10-09T14:20:00Z
+    webUrl: "https://simpleflying.com/delta-facial-recognition-atlanta/"
+    ampWebUrl: "https://simpleflying.com/delta-facial-recognition-atlanta/amp/"
+    cdnAmpWebUrl: "https://simpleflying-com.cdn.ampproject.org/c/s/simpleflying.com/delta-facial-recognition-atlanta/amp/"
+    type: article
+    provider:
+      name: Simple Flying
+      domain: simpleflying.com
+    quality: 74
+    images:
+      - url: "https://simpleflying.com/wp-content/uploads/2021/06/GettyImages-1263005027-scaled.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Delta to expand facial recognition at Atlanta airport"
     excerpt: "Delta Air Lines plans to soon begin using facial recognition in the domestic terminal at Hartsfield-Jackson Atlanta International Airport, allowing passengers who qualify to go through security and board their flights without showing identification or boarding passes."
     publishedDateTime: 2021-10-08T21:50:00Z

@@ -33,20 +33,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "KION Group invests in AI-based energy management platform for greater sustainability"
-    excerpt: "KION acquires a stake of just under 20 percent in ifesca GmbH; positions technology as enabling customers to plan the optimum operating times for their fleets of industrial trucks{/exp:eehive_hacksaw"
-    publishedDateTime: 2021-10-04T22:19:00Z
-    webUrl: "https://www.scmr.com/article/kion_group_invests_in_ai_based_energy_management_platform_for_greater_susta"
-    type: article
-    provider:
-      name: Supply Chain Management Review
-      domain: scmr.com
-    quality: 30
-    images:
-      - url: "https://www.mmh.com/images/2021_article/Linde_MH_X35.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
 
 secured: "yn3MhYEOO2t1gUJmWEEf9LXP6sGjAnnPKxTbLyVF9PKH60qm4qF9eBkfF43ZA6uBcwQVVNO1DGvzsbW2DT4J8IknTHsWaXdrl3qccmTdiT4SqR+1sODOo/V56Yxo2ldJTVwCKnZDgMt6h5dpkLrq/VTbJeN/9rSbpPLabDelrPFgJxyOZQ/FtrrqFKSoyWazVMtcJfOKRLCelcTjgWw178bf0ZdK8/jIeTEvY+bT6jTezaotLNFDc61Zadh/a21T0RgDd6llg2ePXFTTwT4TPC9/3t1NVk00NOqWG9GxsM7wzsScpQpm8FEkg+v3YGuMpr21bvwEidSUAtNhhWcz3wai5iqL8SEf2eAGOuM8ZCw=;5LESFGeWFZ6C5XS2c1/QDg=="
 ---

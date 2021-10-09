@@ -41,20 +41,6 @@ related:
         width: 620
         height: 381
         isCached: true
-  - title: "Cognitive Media Market Size Analysis By Growth, Emerging Trends and Future Opportunities"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 04, 2021, 09:29 /Comserve / -- Cognitive Media Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies,"
-    publishedDateTime: 2021-10-04T22:01:00Z
-    webUrl: "https://menafn.com/1102914417/Cognitive-Media-Market-Size-Analysis-By-Growth-Emerging-Trends-and-Future-Opportunities"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 15
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?122508"
-        width: 443
-        height: 250
-        isCached: true
 
 secured: "7Hwaz3AbXIFmGuXLStw9j1bl9vrNXE+eYKwzZuWJw4JwFc2AO9d8kwKg0U7CyMWI+sv4kslcNDWT+qRzBrQDZ55CKfhKZXuqetRKyNS0JYpnLXkv5WWMEUOIFs1BAarTcKCWFPu3tbhJQpMuKDbPBHD+oJ5ezeJIiEHWXy6lvMQMOGE03BMRPSpoHD8BDOQ3U4JNXjLiUEWsQIEzmzYknpHY2fpEJC603srx3GKpewHwU1vbulgZTIiLui82CHd8DajH2I8sLx9AmXHOUgQslStU6TO1wcuKTbP/daJsxEo15HXsLtj37jhDnbhD39OxYcUe/zb1OwK/u8wTtAn/3tu1Lr/UxIhq/Zkoy9MH03k=;yB2W0RE6wcugXWmadg1ZuA=="
 ---

@@ -57,19 +57,14 @@ related:
         height: 552
         isCached: true
   - title: "Artificial intelligence can help halve road deaths by 2030: UN"
-    excerpt: "The Sustainable Development Goals (SDGs) include a call for action to halve the annual rate of road deaths globally and ensure access to safe, affordable and sustainable transport for everyone by 2030."
-    publishedDateTime: 2021-10-08T18:42:00Z
-    webUrl: "https://menafn.com/1102940748/Artificial-intelligence-can-help-halve-road-deaths-by-2030-UN"
+    excerpt: "Countries and investors need to step up the development and use of artificial intelligence (AI) to keep roads safe for everyone, three UN Special Envoys said on Thursday, leading a new AI for Road Safety initiative."
+    publishedDateTime: 2021-10-09T14:57:00Z
+    webUrl: "https://news.webindia123.com/news/articles/World/20211009/3834328.html"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?383279"
-        width: 375
-        height: 250
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
 
 secured: "4cTMEtxIbyz9y7iwTVvgxYh+kw89PIA0qrWrSJWJhkVTylpO4jTE5LzaVtCcdayOdBRIXZp1Y8tg84zQiNEziN2r9PsdcAJ1YvNMMfwRANA1DUtOhtuk8rsmjGrBlYLT9YqfcE9nUpVb9l28kmttbM1N7mxvx9cPK/62feZ6rl/jQ/7IhkpTMXoiiqjoOUOTNNUS/tfb0yHnNnYFnl2JInCIESL0Z1lhIJSpJ3VRecOZVXZXYnFX2ZZ/hOzU511feeWv2dl4ccqHP31XQcsyPM3b8Ha6fNO19d46uAJVMTbAyjLgcTGV+mjGsJ1bdIHXmeyV/nJlK6DEVM610HVH2E9yTVK23mQgPCXAEV0AVZA=;p4eeaUXQmtxuVCgxd2uGwQ=="
 ---

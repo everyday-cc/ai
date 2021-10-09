@@ -148,17 +148,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Qlik Acquires Big Squid to Expand Its Industry Leading Augmented Analytics Capabilities with No-Code Automated Machine Learning"
-    excerpt: "Advances Qlik’s Vision of Active Intelligence by Bringing Data and Analytics Teams Key Driver Analysis, What If Scenario Planning and On-Demand Predictions Directly Within Qlik"
-    publishedDateTime: 2021-10-04T21:33:00Z
-    webUrl: "https://www.techwire.net/sponsored/qlik-acquires-big-squid-to-expand-its-industry-leading-augmented-analytics-capabilities-with-no-code-automated-machine-learning"
-    ampWebUrl: "https://www.techwire.net/sponsored/qlik-acquires-big-squid-to-expand-its-industry-leading-augmented-analytics-capabilities-with-no-code-automated-machine-learning?_amp=true"
-    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/sponsored/qlik-acquires-big-squid-to-expand-its-industry-leading-augmented-analytics-capabilities-with-no-code-automated-machine-learning?_amp=true"
-    type: article
-    provider:
-      name: California Techwire
-      domain: techwire.net
-    quality: 11
 
 secured: "OKRjf2yd0vc1zoziEmZCDvFXlovnUUlBnBTj///chEbMDTQkiOP8Qw2/tV4FQbkZqJ6gITHxw4/LeCDigLaCr2A3MmGERMVye9x0vJy3t5N+jD4v8ZhoanR1EZ7IDNGdcweIn3GXJtDlPCPOdJ7by+72RYZEGr0pjwxMnDGw9E+sAU53p9i6azxHZN7p+peyVTNImbazL89krLNqwTwpyONgLLL0BWiKzojvonN0toKOBOZXK+v9HPnN85fEU9pNLQlGTXtMo7AM3EpLbAOe+hsEEKp993DtNPZyCRb9rMPz1I/cfDSoVfWYMXBPp2owVdMVkje+QHxmJ+LY2FAasjnHor1/qCrjt7+pTplhldAOzRygILhOO9iGSmX84E63XIHDnMozCqnbBJ/5oitQ1BdHFrec8zdVO8eC+Gbc10Llba6SeLvibkwGoD3xnodEiXyp/e4hJk00RPUnkz7p+fmiYNC/rnIMTF4qQwVY1lxCm+4aT0OWBukrRCBgzXfAL9pFaCmkIuZBGEeQKx5vtQ==;oQYtn3HdpV+8OFjZqq7oag=="
 ---

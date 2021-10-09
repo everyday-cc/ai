@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/10/fiserv-client-service-wat
 webUrl: "https://www.ibm.com/blogs/watson/2021/10/fiserv-client-service-watson-virtual-assistant/"
 type: article
 quality: 105
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     width: 2000
     height: 1007
     isCached: true
+
+related:
+  - title: "IBM Watson's AI features help transform customer service"
+    excerpt: "THE new artificial intelligence (AI) and automation capabilities in Watson Assistant, IBM's intelligent virtual agent, make it easier for businesses to create"
+    publishedDateTime: 2021-10-09T16:00:00Z
+    webUrl: "https://www.manilatimes.net/2021/10/10/business/sunday-business-it/ibm-watsons-ai-features-help-transform-customer-service/1817774"
+    ampWebUrl: "https://www.manilatimes.net/2021/10/10/business/sunday-business-it/ibm-watsons-ai-features-help-transform-customer-service/1817774/amp"
+    cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2021/10/10/business/sunday-business-it/ibm-watsons-ai-features-help-transform-customer-service/1817774/amp"
+    type: article
+    provider:
+      name: The Manila Times
+      domain: manilatimes.net
+    quality: 54
 
 secured: "5ZhQtAA4RjIWLf49oxVg9OJj/4nCwusIZ3qLrycdwacToB+h6axMS2DKSICsSq2no+e2MtdT+gIux1qKCP41FcBrQZRC1r7UKtnMtGUhQMQ1LJJCf8I01rgX10R+PLiS6NS/mcRBbThF8NiRTmwS+PbOtREfKtXx+iRLj+IaZxJXboTQLaxXj1HZnoZC6T6PRaOHlHOQoAVb0Ytct4P3QY+xtVTQdm8vwLL9GJPZ+HrtoTGNJf2ZrMPmdkDkeqs3GSFqgVsVupjUZsdlR9oUTMrz5g3obiimtNLWHp938kB7Gg1jjy7hKvVhNtIQdLIYmXmSCwxZc2PhHU6zIpqZODwaRyNwGxE8MUxXRf4UaI8=;0nuoyuw+PRWbtqj4HYwBZw=="
 ---

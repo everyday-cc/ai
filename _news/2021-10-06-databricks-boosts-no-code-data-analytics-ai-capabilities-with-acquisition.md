@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/applications-os/databricks-boosts-no-code
 webUrl: "https://www.crn.com/news/applications-os/databricks-boosts-no-code-data-analytics-ai-capabilities-with-acquisition"
 type: article
 quality: 135
-heat: 239
+heat: 229
 published: true
 
 provider:
@@ -143,17 +143,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Qlik Acquires Big Squid to Expand Its Industry Leading Augmented Analytics Capabilities with No-Code Automated Machine Learning"
-    excerpt: "Advances Qlik’s Vision of Active Intelligence by Bringing Data and Analytics Teams Key Driver Analysis, What If Scenario Planning and On-Demand Predictions Directly Within Qlik"
-    publishedDateTime: 2021-10-04T21:33:00Z
-    webUrl: "https://www.techwire.net/sponsored/qlik-acquires-big-squid-to-expand-its-industry-leading-augmented-analytics-capabilities-with-no-code-automated-machine-learning"
-    ampWebUrl: "https://www.techwire.net/sponsored/qlik-acquires-big-squid-to-expand-its-industry-leading-augmented-analytics-capabilities-with-no-code-automated-machine-learning?_amp=true"
-    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/sponsored/qlik-acquires-big-squid-to-expand-its-industry-leading-augmented-analytics-capabilities-with-no-code-automated-machine-learning?_amp=true"
-    type: article
-    provider:
-      name: California Techwire
-      domain: techwire.net
-    quality: 11
 
 secured: "/x+mhuoDYkmQDHedszY6q3NqcGR66/q9eWkydpIpV1v8YowFJR1V6uq5h+l5wTeTJz+AXDPFW5P5IhUUPiaL44K129ThlWwBh3fBYcVee9KKQiFswUQtubI5TqnSYoR1i/9D95fPRQv+RiLlu7Ws0H26L8Gp2Ba0+TqPBmAB3FA5c5kxOAN1S5egrCVR91bbDPiWzCySvh5T8rovWDJFe5bazaJcfJoTsUDN7aK9T5/Q88XXGwnKd7gL0ArxF5+S7AcFWQAWPdP3CsYjAVXd44ZPcFs8kCoG/DxuLSkMiHXOjtEOnyrZdfl1G/F4QJJ5wx+UQkerCMmjpEFNGehNTKLwqsEiGv6DrMsCPTtSTAg=;tCswa5Weddh2ub75wjhn/Q=="
 ---

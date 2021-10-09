@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk Says Tesla Full Self Driving Update Delayed."
+    excerpt: "Tesla owners aren't getting the newest version of the electric vehicle pioneer's autonomous driving software just yet."
+    publishedDateTime: 2021-10-09T15:37:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-elon-musk-fsd-update-delayed-51633793644"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-elon-musk-fsd-update-delayed-51633793644"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-elon-musk-fsd-update-delayed-51633793644"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://images.barrons.com/im-403553/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "See how Tesla’s ‘full self-driving’ mode works"
     excerpt: "Despite concerns from regulators,Tesla is rolling out its autonomous driving feature to some owners who can prove they are safe drivers."
     publishedDateTime: 2021-10-08T00:52:00Z

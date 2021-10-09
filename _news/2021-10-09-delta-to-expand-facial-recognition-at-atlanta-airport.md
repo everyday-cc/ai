@@ -41,6 +41,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Delta Air Lines Expands Facial Recognition Digital ID To Atlanta"
+    excerpt: "Delta is expanding its digital identity experience to its home in Atlanta, Georgia. Domestic passengers of the"
+    publishedDateTime: 2021-10-09T14:20:00Z
+    webUrl: "https://simpleflying.com/delta-facial-recognition-atlanta/"
+    ampWebUrl: "https://simpleflying.com/delta-facial-recognition-atlanta/amp/"
+    cdnAmpWebUrl: "https://simpleflying-com.cdn.ampproject.org/c/s/simpleflying.com/delta-facial-recognition-atlanta/amp/"
+    type: article
+    provider:
+      name: Simple Flying
+      domain: simpleflying.com
+    quality: 74
+    images:
+      - url: "https://simpleflying.com/wp-content/uploads/2021/06/GettyImages-1263005027-scaled.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Self-driving shuttles hit the roads in metro Atlanta city"
     excerpt: "Self-driving shuttles will soon be carrying people through a metro Atlanta city. Peachtree Corners showed off the new autonomous vehicles on Wednesday. Peachtree Corners and their “curiosity lab” is the first in the world to deploy the autonomous shuttles on a city street,"
     publishedDateTime: 2021-10-07T10:13:00Z

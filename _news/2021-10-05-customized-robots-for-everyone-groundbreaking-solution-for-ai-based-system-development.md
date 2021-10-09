@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "KION Group invests in AI-based energy management platform for greater sustainability"
-    excerpt: "KION acquires a stake of just under 20 percent in ifesca GmbH; positions technology as enabling customers to plan the optimum operating times for their fleets of industrial trucks{/exp:eehive_hacksaw"
-    publishedDateTime: 2021-10-04T22:19:00Z
-    webUrl: "https://www.scmr.com/article/kion_group_invests_in_ai_based_energy_management_platform_for_greater_susta"
-    type: article
-    provider:
-      name: Supply Chain Management Review
-      domain: scmr.com
-    quality: 30
-    images:
-      - url: "https://www.mmh.com/images/2021_article/Linde_MH_X35.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "AEye and Seoul Robotics Deliver Groundbreaking Adaptive Long-range Perception Solution for Intelligent Traffic Systems"
     excerpt: "AEye and Seoul Robotics announce the integration of AEye’s LiDAR with Seoul Robotics’ 3D perception software to enable long-range perception for ITS."
     publishedDateTime: 2021-10-07T16:00:00Z

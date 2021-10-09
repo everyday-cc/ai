@@ -39,15 +39,6 @@ related:
         width: 376
         height: 250
         isCached: true
-  - title: "Econ Corp Services DBA Investorideas.com: Special Edition AI Eye Podcast - GBT Technologies Inc. CTO Discusses Potential of 3D Multi Planar Chip"
-    excerpt: "October 6, 2021) - Investorideas.com ( a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye featuring an exclusive interview with technology company,"
-    publishedDateTime: 2021-10-04T22:00:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54131777-econ-corp-services-dba-investorideas-com-special-edition-ai-eye-podcast-gbt-technologies-inc-cto-discusses-potential-of-3d-multi-planar-chip-296.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "babx0CQMQnAFdzOsmcm118vC5hnqPJAl5/qd9NrYRP6wTxiWWjFbkUcpY9UwthAU2HtbsgPP14POkUQYJlgwGXgonINkRZgM31sdk66flnk+rSHJ5FgW/8OdVKYwC5rXp1ujzvTb5nvdmILVgN8MFJztSLbI8B5bqwYTNqJcm3Bdf46qBB64QlFPCcpSYFGXBbvsnf5izMcfWEoTSamVpaUM8UT8kiguJtnnJGZQO/tzPGnd7J0hcjL0ODH9iiB91RoYCvUyI3nULmafHYD7p/taf/3tyhRXra494hc2xUWuW1CT/QFP2iGQZz9me9+LprFzUI0qXjuwAj429TYU07sHIDhoxwgLGmn2fCbXyrc=;vxvl35LoeNVqSKt41G4Qpg=="
 ---
