@@ -2,7 +2,7 @@
 name: "Mapegy"
 overview: "Access the latest trends, forecasts, startups, competitors, partners, technologies,"
 type: "profile"
-heat: 41
+heat: 50
 
 website: https://www.mapegy.com/
 
@@ -40,6 +40,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=FM_2nxVEIOs"
 
-secured: "owLSknk63Uevrn6lYedBmvkAa+9xf0IaORMvRnZMfij5fQrMS3VJiryDtaRDyJvQegBTHnwoxlYx1pPT2Oew3hETVowumtfgToGYcho5EIHC1kFpLcRGVNpTemUwpiUPuWKHkdk1tkYnVjT61oUlW9Vb/p4DA3OfFyezN/PN85NDkfJ2uWcyyF7wQ7jgt8D/TF7Wy03WVKSld1IIPuhXTAqao574yQ3KHSolaeMpET1XLx5cBcY0iDIvTTUFx7AW9aQRD85Vhi3lLnDjfOlE19ckDZepejuNM/mndArcdNX159nNC1RnTfiI7xrJ/soZEzs43D58EEeA1iSg/5d0GqCiVIO7h235Lr73KvEqSbBt88rdRF9gCDAjnCXiDG1h7vHIPg/4t5CAAIB+TPUO0g==;sgUPVHClzBhewpWheagUBQ=="
+secured: "P73xaDK9xvu4v6Gw1FN33UsQfmD/gQ14kCIi4m4WpUJ09Cj/mDltpicDWWF+N4Jr5mGW16qbnhqvdcOA3SntWjkju2ka+wVebcYik510jh+ZMLcbRgSvt/ebUP4uJBwMJTkJmBp1Wc7qSOClC7+CtgPpT0Z1z+ZmTQ+6sAAFK0axM6RNFsNgTTz+LuTTJlKxc4CA/Sx24awghNkLwtlbilWxTj4DJQ6nYsw5qIfeYQuX3PH8tfQkTrsifSB4G1TMppCvC60yoa1qA7MDgkyAg1D+wguHL2bWC2aVNZ38fwpoRTZxvssz9EvTm+KydqvXMXKhBQteuKo2smeaKCQRxxXaiBlUEsIh16vSf4G6aT+a/be8lg3cmI0rIwhs1/qXQVlcS2XiHhI3xZrqyMMF8A==;GaDFGJW8t29b3jdra6/QnA=="
 ---
 
