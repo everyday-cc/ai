@@ -57,6 +57,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Robots do the work at Nissan’s ‘intelligent’ plant"
+    excerpt: "Nissan’s “intelligent factory” hardly has any human workers, with robots doing the work. The workers at the factory can focus on more skilled work such as analyzing data collected by the robots, and on maintaining the equipment."
+    publishedDateTime: 2021-10-09T01:49:00Z
+    webUrl: "https://finance-commerce.com/2021/10/robots-do-the-work-at-nissans-intelligent-plant/"
+    type: article
+    provider:
+      name: Finance & Commerce
+      domain: finance-commerce.com
+    quality: 39
+    images:
+      - url: "https://finance-commerce.com/files/2021/10/Nissan.jpg"
+        width: 620
+        height: 330
+        isCached: true
 
 secured: "vHgVkTBJp3fV4CrnzoUwzyqTgc294CtKEJdouOUOx8SZWzrc79Ux2GQXG653Qt35SyCQlu0MON0vsNutm7PlhqP5Izi3LvB4QkuZVyn4WN6iHUy/JgU9+/8N3832Yt2G/1ZvynCvUAGa2AbnBoLoE15eqEDk6lC8g9YDg65uj+usA4XwXxV/zVZG3KeoEw1SrgEUe/Z34Llw034+DFfWqeklUePhEa5nQQr1uGLuAsoC6Y6l629nSUV20dHusA9nFA0LrzIK+4mc4J1ncUxrnNCRFi4BC9dCDjPOxhJp2NJ95xGQX55M7TuyGM72BYfCnrzylXIldoIq9yRmx2zdEHcK2MSqEaEhAoJOcOzFE2rR/wGxU+afqP2QnZzL1joiy2xiuxWYBycDAuqF2ZbV/bVZqttw7/goGgEwXk/OHKCX/aiexKse0LV9e80EvanVDjQmMB2YIwGqfdgRzI+qzYh4XCnWjd51Zp7mcmqihEzUr2uRaBVyRyXFNGIOzvNZ4h7c5WkSYOTFbggahjsO7w==;ihSd4np/SufAjjwcd+nklw=="
 ---

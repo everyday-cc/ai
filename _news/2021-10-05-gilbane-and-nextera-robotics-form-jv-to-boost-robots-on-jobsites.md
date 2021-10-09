@@ -7,7 +7,7 @@ originalUrl: "https://www.enr.com/articles/52574-gilbane-and-nextera-robotics-fo
 webUrl: "https://www.enr.com/articles/52574-gilbane-and-nextera-robotics-form-jv-to-boost-robots-on-jobsites"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gilbane and NeXtera Robotics Form JV to Supply More Robots to Jobsites"
-    excerpt: "Gilbane Building Co. will jump from pilots to full deployment of a jobsite robotics platform developed in joint venture with robotics startup NeXtera."
-    publishedDateTime: 2021-10-04T08:00:00Z
-    webUrl: "https://www.enr.com/articles/52574-gilbane-and-nextera-robotics-form-jv-to-supply-more-robots-to-jobsites"
-    type: article
-    provider:
-      name: Engineering News-Record
-      domain: enr.com
-    quality: 54
-    images:
-      - url: "https://www.enr.com/ext/resources/News/2021/10-Oct/GilbaneNexteragravel.jpg?height=635&t=1633133521&width=1200"
-        width: 900
-        height: 550
-        isCached: true
   - title: "Gilbane Building Company and Nextera Robotics Partner to Automate Construction Management with Autonomous Robots"
     excerpt: "The “Didge” AI Platform Provides Cost-Efficient Tool for Project Management, Safety Monitoring, and Progress Tracking"
     publishedDateTime: 2021-10-05T13:09:00Z

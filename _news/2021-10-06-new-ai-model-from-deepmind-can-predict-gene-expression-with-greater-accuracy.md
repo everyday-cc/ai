@@ -41,22 +41,6 @@ related:
         width: 4189
         height: 2792
         isCached: true
-  - title: "Google's DeepMind AI Has Just Reduced Conventional Weather Forecasting To Dust"
-    excerpt: "Although it may seem easy, weather forecasting is one of the hardest challenges faced by science. Over the last few decades, meteorologists around the world have tried to come up with the most accurate forecasting models."
-    publishedDateTime: 2021-10-04T07:03:00Z
-    webUrl: "https://in.mashable.com/science/25102/googles-deepmind-ai-has-just-reduced-conventional-weather-forecasting-to-dust"
-    ampWebUrl: "https://in.mashable.com/science/25102/googles-deepmind-ai-has-just-reduced-conventional-weather-forecasting-to-dust?amp=1"
-    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/science/25102/googles-deepmind-ai-has-just-reduced-conventional-weather-forecasting-to-dust?amp=1"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 100
-    images:
-      - url: "https://sm.mashable.com/t/mashable_in/photo/default/shutterstock-246146029_gt84.620.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Alphabet helps DeepMind to turn its first ever profit"
     excerpt: "DeepMind, the London-based AI research firm, has turned a profit for the first time ever, reporting in £43.8 million in profits for 2020. The firm has posted multi-million-pound losses over the last several years and reportedly burned through $649 million in 2019."
     publishedDateTime: 2021-10-06T12:09:00Z

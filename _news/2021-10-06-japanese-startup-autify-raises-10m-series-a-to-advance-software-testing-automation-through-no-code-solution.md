@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Thankful Raises $12 Million for Customer Service AI"
-    excerpt: "Venice-based Thankful AI Inc. raised $12 million in Series A funding for its customer service artificial intelligence platform. Thankful plans to use the funding to further develop its AI to include features such as greater personalization and the ability to upsell in customer service situations."
-    publishedDateTime: 2021-10-04T07:06:00Z
-    webUrl: "https://labusinessjournal.com/news/2021/oct/04/thankful-customer-service-software-12-million/"
-    type: article
-    provider:
-      name: Los Angeles Business Journal
-      domain: labusinessjournal.com
-    quality: 37
-    images:
-      - url: "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/10/01/PG16_TECH_THANKFUL_1004_-_Ted_Mico_t670.png?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "S2RDjhczrEa9/DFDVGnlOcxbSWHxw1doUy7k935Q1MkLSTuvB8wCrYcua1BqKI2evXEY0zRonWkVpV9GVzhjR4d7xZ+nShHCdsX3bkH6F69R/tlT8Hj2ZrEN5YLrf5FJ3FZ2X6+Bsz9NXrVUyiP9LEHbG3aUT9WyE9Tmf1w4ae4rszb1fUn9e4yjdmZEnMVW9pnJ67s5nqrMenJ210o/+h/IAQIbMUNHStRIyegHlVdXz69TLxfNMsDd2Pv5tLulE85YLAJFA77sTuX5oJBSpT/4yq9ufNj/b6F3lsAjDpBIiNU8OANvGsMwymK2Y2qExqrA0c9JFvZkl7IlhFx9LB3N8jQpRoSpqnClxtpwE9I=;97qgYXjboW9jIBaQVDvd5Q=="
 ---

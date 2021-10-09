@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Gilbane and NeXtera Robotics Form JV to Supply More Robots to Jobsites"
-    excerpt: "Gilbane Building Co. will jump from pilots to full deployment of a jobsite robotics platform developed in joint venture with robotics startup NeXtera."
-    publishedDateTime: 2021-10-04T08:00:00Z
-    webUrl: "https://www.enr.com/articles/52574-gilbane-and-nextera-robotics-form-jv-to-supply-more-robots-to-jobsites"
-    type: article
-    provider:
-      name: Engineering News-Record
-      domain: enr.com
-    quality: 54
-    images:
-      - url: "https://www.enr.com/ext/resources/News/2021/10-Oct/GilbaneNexteragravel.jpg?height=635&t=1633133521&width=1200"
-        width: 900
-        height: 550
-        isCached: true
   - title: "Gilbane and NeXtera Robotics Form JV to Boost Robots on Jobsites"
     excerpt: "Contractor will jump from pilots to full deployment of a jobsite robotics platform developed with robotics startup NeXtera."
     publishedDateTime: 2021-10-05T00:21:00Z

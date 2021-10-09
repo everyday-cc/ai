@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/05/kore-ai-which-develops-workflow-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/05/kore-ai-which-develops-workflow-automation-technologies-raises-70m/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Thankful Raises $12 Million for Customer Service AI"
-    excerpt: "Venice-based Thankful AI Inc. raised $12 million in Series A funding for its customer service artificial intelligence platform. Thankful plans to use the funding to further develop its AI to include features such as greater personalization and the ability to upsell in customer service situations."
-    publishedDateTime: 2021-10-04T07:06:00Z
-    webUrl: "https://labusinessjournal.com/news/2021/oct/04/thankful-customer-service-software-12-million/"
-    type: article
-    provider:
-      name: Los Angeles Business Journal
-      domain: labusinessjournal.com
-    quality: 37
-    images:
-      - url: "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/10/01/PG16_TECH_THANKFUL_1004_-_Ted_Mico_t670.png?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Japanese Startup Autify Raises $10M Series A To Advance Software Testing Automation Through No-code Solution"
     excerpt: "Autify, a no-code AI-powered software testing automation platform, announced today that it has raised $10M in Series A funding. Leading the round is World Innovation Lab (WiL), a growth-stage venture capital firm based in Palo Alto and Tokyo."
     publishedDateTime: 2021-10-06T06:06:00Z

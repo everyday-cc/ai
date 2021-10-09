@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Quantexa Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
-excerpt: "Quantexa Logo \"This is the fourth class of the Fintech 250, and it's also the most international, representing 26 countries. These 250 fintech startups are attacking an incredibly"
+excerpt: "CB Insights today named Quantexa to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year's list was unveiled on stage at CB Insights' Future of Fintech conference in New York City."
 publishedDateTime: 2021-10-05T20:30:00Z
-originalUrl: "https://www.wdbj7.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/"
-webUrl: "https://www.wdbj7.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/"
+originalUrl: "https://www.kcrg.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/"
+webUrl: "https://www.kcrg.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: WDBJ
-  domain: wdbj7.com
+  name: ABC Kcrg  9
+  domain: kcrg.com
 
 topics:
   - AI in Finance
@@ -126,6 +126,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "Cqc2SVMI/uuDUQ7rC9UG+UFhK3RXEi0O4ENCNJ3H43i2dxfQDsXVYPkWy9YdZL5L1MkLDZYJIc8LQMUSUXDAstJT2wvoqOLgxkUDCj6KuFibw6m1cvoZw7iZCmY3/xEbwJKGVg2kd4V6DnooRQUU6V2HkyyH7jNv6N+ehzhsU4uHMfF4ob0kUHtbHzAMdAJCaPKRR1ESVfx1CDyWyAPw4UpJH2ar8UhDec2YDXoIkFFLB0piMXI3zEHMkzxOTit0DHd11XTBOqguk11quu7yqHC4Y8D9N0H2xJhK4zSsqzi+6CUfI7KVPH7H6vqOweYZBOnZ5RLSg9Y2/k1jPka9YKckfbbAgUvEj6M8VH7Y79M=;Z/lNJDHwlXzGo+eq4tAhRw=="
+secured: "ElibHauuJd//yqwszOHwZlVxJb7agwzai2kZwZjXUlgo/TaXhaILyaGflMlF1jP6ZG4/ELiUACw/vAd/WbM12n1Zgg0t9PjQaMZRnNPBfTnumuR2o1/ALL+R/CuD8fOVqwZQha/uTZf47cnOC/z6DvQ/tkjoq+Y3Hr1MKPDBzbbYzjTSPYa5gUwQxRVW/tEAoXcTIz/1EtVta+KHxYoHbwFz3y2NXQ2SZHFaZw+O8hcXZT6GqT/4XBoPg3f6e3M2/XUtMXCvmRajEzjkLxP1DOeiCZfKI7RDtYHRM0ATvW93uHunlSeCDSg5EE0HH4lSUqhv3vk7Hmj8Tj9V9fWwM3oPU7gWA3+Vrqea/8H2XRo=;rgYPZrgAvw7fjLJDqfILmg=="
 ---
 
