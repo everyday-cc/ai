@@ -7,7 +7,7 @@ originalUrl: "https://www.journalgazette.net/business/20211009/robots-build-vehi
 webUrl: "https://www.journalgazette.net/business/20211009/robots-build-vehicles-at-nissan-plant"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 533
     isCached: true
 
-secured: "nHbuClySYkBHSCg3XeFNbivvV/QKGKDjmtogBp4/qlzlJjm1PG9KafjOOAepegYTJrZs1b4liOqclG8Rzw85GFXqIL3pSPV1M92UdDcyM6oS8gTiT3CVefxdi+iMzrXB9HfSdBCQhralkoewa+KZ4GxMlM0/8C/GUskBt3iKg/NQFGa8iKoMIYn3n/0ADJTtx/GfbFrX/vDtz6IVn7rBkAZ3NRZySMGXG0jDHq1qzk9JlHTwfrriDKjRevSy+UDX/hqSyEIocluUKUaEB1Ed5L6O3dwQWxwQYwq7coc0MwCSdTEBZh4klrx4Y9KAeJ9XR7okHc5bS/CJSzrG7uW+2gEssIa6C19DvXJdDTXj0Qo=;6CJDR0pZoSuJxOr8BEXVXg=="
+related:
+  - title: "Nissan plant heavy on robots"
+    excerpt: "Nissan's \"intelligent factory\" hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs."
+    publishedDateTime: 2021-10-09T06:45:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/oct/09/nissan-plant-heavy-on-robots/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2021/10/08/4D1nissan1009_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
+
+secured: "8m7x+0ZHi4RRB+cdFy4MlwUDnzQgwdLE0ZYF/7y6vg4xUbrePkdUJ9WF51xfxIilaTuYy8oKeKcH2ucy+gtAIQLjd87B11IQ85paXIEvXWLo+EEO8LjB/NGZIzANevI7OlXfe9e1kl1aLdL/XP14CSOsbAuZWtDx/RwSdDEztFmKyTe6F2QWBuLq8lowvyhrzs+EDCGZbnZAbQHPTZr8Zccrv4B0PjJeG6HEsDqfC/vVPi7JSUvJcw2J3XeTCNrov2bGAKV5rLPtiNYOWixu1d1h7PfHFjPzO4e7SkA7V9QweDOjWcCB4I7mq1BmROyjUtTJQCjyBpvUdMwVxEdYEpL8M95r0XpFp4cqia0kJuZaS+4mBwVGqbbcgRzdt/o3uYCE0N/kUbifmfdcQlb6+i/lYi/AGzK0F0u+PwTglvOl0gySoV7l5mCbr46g3P915LIwYuXKTqDA9SQT/7pml9ZU4Mx6Fx9lwzSYVVGePNN9Z9npqsOGXsRM0MGihtrYiSrPyeO3wsdsvmdIBcm1Ew==;s6bhf9DUCD9T9JQuOhZtVQ=="
 ---
 

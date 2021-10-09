@@ -15,6 +15,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "rdGYjqU0/oi9QuGc+HYpvcAreQWgIOd/B1Zqtz3iZRQ/vvm3jmdZcCnmjiiNa2SlpMANKy6rLqrPYt3xAKpY4WIzesMu+Ts9wvptW0C7lXA1UJbE/QJ/2JosVwrqCBHsjP/EGCjWehcqo0W4obpNqm2f9PyGYlm/CsmUYwr3gtMcXt/mhcBcEs00G6lISONtXpNyJJ+SHlClVHoj70qvX3Z+2W0pii1wkUDl0OGps8rzTmquJYyOXJNbPX/CpFu5ayn3TuBesYYjoEJD3vtqr2F9yN9/EB9l+BAhtqnAslNpFBZQGhRdXh1TSHhI/tfBHt2oYjRIAA4LYhWn0F92tza/ZDZV8wngXTyJgoBgi5o=;cgGawhkHacmHMdJ3Fs4b9Q=="
+images:
+  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_m_113932028_learn_-_copy_1.jpg"
+    width: 472
+    height: 315
+    isCached: true
+
+secured: "dMJe3ZojIGnadr7LqQRX9H/UGHq3dWjeHmHNRArnPPtQXTqyu2OmBl5/6pLTXaaQK3PP1rz4uP8w4pkh+Pay5LDXVLIyHK7EWhlEV0Ipi1XeFz1pP4Fq6l2F9lQC9ofD6zTdCX2nqf4Kph5qJGHl7Rxiucb1RIvHaPlAwR3tKLiklkwUeAwptz+OGOewtqyacDcI5s/kCSPScQmT/Yw2JTfUSB/3JWKjBLV9Qgt08I9juGLgy+xguyorTZZRWBn3t+cx9GRnayUCWatTsUYbuoOfX12iaaglvjPqwFoLotoxGLKrPhstKguLRW2XH85vo9igFCitnL32MGQ+7jkVx6GidlNz0rDGoEWiAtyAmCM=;NTWpPsBfgRA145FQECAe1g=="
 ---
 

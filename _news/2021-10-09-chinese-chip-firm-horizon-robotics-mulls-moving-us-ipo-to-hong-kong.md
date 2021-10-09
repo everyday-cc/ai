@@ -9,7 +9,7 @@ ampWebUrl: "https://technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-m
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 2048
         height: 1136
         isCached: true
+  - title: "It is said that Horizon, a Chinese AI chip start-up company, may be listed in Hong Kong next year."
+    excerpt: "The company is working with the financial institutions responsible for mentoring the listing and plans to list in Hong Kong next year, according to people familiar with the matter. They also said the company had planned to list in the US and was expected to raise more than $1 billion."
+    publishedDateTime: 2021-10-09T06:30:00Z
+    webUrl: "https://news.metal.com/newscontent/101614813/It-is-said-that-Horizon-a-Chinese-AI-chip-start-up-company-may-be-listed-in-Hong-Kong-next-year/"
+    type: article
+    provider:
+      name: Metal
+      domain: metal.com
+    quality: 20
 
 secured: "SXXBr8gzjxZ8VSUWOsW9qY0CN8xtlJhixcEIAzdgmwwU6RPqo9OPuWUunCmGnIa5n79X5ZS7aUDhvN/j2DY5qUJQ1aSPstBkHcfV2lEDoT6DIrKapUMbpOZGyFBMje6QjvH6ejl6c69A/zI/trSg0fA3h86l2RyAiwu6LxfdgdgQDnuCLAUBW/+18rm+yE1QjP9Zbd9kuVRo/H1aL8dgbybhBdWEmxtnAP+WSM8nuhgN2drpWX9kBGrY6QGuLEzSxtosJnvNs8QppdtzmQBmveR4ELlQbaxhhLjnOY9DSr149MVgk2OiWWM8JcYoaYH51YjSmxgeK11dabQAs0m4qBuLkFmfC7VWalrVPQ27A4I=;flI3lkuznpHk+mdaUJ/aPA=="
 ---

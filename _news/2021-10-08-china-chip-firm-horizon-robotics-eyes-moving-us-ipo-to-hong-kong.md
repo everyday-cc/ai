@@ -56,6 +56,15 @@ related:
         width: 2048
         height: 1136
         isCached: true
+  - title: "It is said that Horizon, a Chinese AI chip start-up company, may be listed in Hong Kong next year."
+    excerpt: "The company is working with the financial institutions responsible for mentoring the listing and plans to list in Hong Kong next year, according to people familiar with the matter. They also said the company had planned to list in the US and was expected to raise more than $1 billion."
+    publishedDateTime: 2021-10-09T06:30:00Z
+    webUrl: "https://news.metal.com/newscontent/101614813/It-is-said-that-Horizon-a-Chinese-AI-chip-start-up-company-may-be-listed-in-Hong-Kong-next-year/"
+    type: article
+    provider:
+      name: Metal
+      domain: metal.com
+    quality: 20
 
 secured: "cPLvVdq8AW7O2vCXDbz3OX43+oaiayeQBfN56Ro2c9Bcmw2mcIRjGE7d2LbnctvndcpExrv67M0t8CxWMEmcRrdr9fQpPkTY4o4IUUpLhAG7sdF0mHz9XcAexYi2mENQ/3g3j9C/PxOpfQlO8IpH4FedYwI3DIp6tQ1ws8lGJ8ew/QAjUi2qfGtiMSk87i4SVr+or65AFN2+ga3ZAZ52pk4/qxHSTNrEYddYmCeGhAOe0k21RuOGeaT/54G20uAsABiwS1jhp+RYddlEgXsHgOhwkleyqV60tNlBzr5/FrXMFQSA81kNOsC4gguKPNpyR21jaCMPjn7kQeH+r4GOPVrPOMx6h5Z7qnQ4wfZCrrM=;Uak8AZu5/PXew0Qssybb1A=="
 ---

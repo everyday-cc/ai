@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-ai-based-edge-com
 webUrl: "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2021-industry-growth-top-players-segmentation-and-forecast-to-2027-2021-10-06"
 type: article
 quality: 64
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
     excerpt: "The research report on 'AI In Computer Vision market' scrutinizes the current industry scenario to predict market size, market share, and projects valuation for different segmentations of the industry over 2021-2026."
     publishedDateTime: 2021-10-06T15:02:00Z
     webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-global-industry-analysis-by-size-trends-share-competitive-landscape-and-regional-forecast-to-2026-2021-10-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Industrial AI Computers Market Report Provides Marketing Channel, Distributors, Customers and Manufacturing Process Analysis 2021 to 2027"
+    excerpt: "Oct 08, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" The report analyse the growth rate of"
+    publishedDateTime: 2021-10-08T10:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/industrial-ai-computers-market-report-provides-marketing-channel-distributors-customers-and-manufacturing-process-analysis-2021-to-2027-2021-10-08"
     type: article
     provider:
       name: MarketWatch

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wpxi.com/news/business/ai-pathways-race-autonomous-vehic
 cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/business/ai-pathways-race-autonomous-vehicles-boys-girls-club-western-pa/T4SDO5YBPJCTXJGTAJLQC6KRBE/?outputType=amp"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1440
     height: 960
     isCached: true
-
-related:
-  - title: "Human vs. Artificial Intelligence in Autonomous Systems"
-    excerpt: "A common goal, as we see in many articles on AI (artificial intelligence) and ML (machine learning), is to make AI/ML systems more like humans. Some claim that humans are much better at driving road vehicles than self-driving software,"
-    publishedDateTime: 2021-10-04T14:14:00Z
-    webUrl: "https://securityboulevard.com/2021/10/human-vs-artificial-intelligence-in-autonomous-systems/"
-    ampWebUrl: "https://securityboulevard.com/2021/10/human-vs-artificial-intelligence-in-autonomous-systems/amp/"
-    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2021/10/human-vs-artificial-intelligence-in-autonomous-systems/amp/"
-    type: article
-    provider:
-      name: securityboulevard.com
-      domain: securityboulevard.com
-    quality: 59
-    images:
-      - url: "https://securityboulevard.com/wp-content/uploads/2018/01/TwitterLogo-002.jpg"
-        width: 1524
-        height: 512
-        isCached: true
 
 secured: "qUZhXt4XR43V6Yg74ykGxoZA1lHaVS4lJzCZgEW67ipeACGKeIsJuPZihwU9B3QafYl4/ctNifEUuSQsyv748xXlaSDWZCSMGwGYUfY47+tFM2rcf5bbwxaKvpota4c8u//lQkdrLgUFG3aGBAa/bdYVzNWbdKGHQX2GYfM+QJiGkbSViaOizmKsQISvfuzSnPXGjdzb+gP33WUWfZS87JwKFdmq71tAxE+EUHkhhxlQrdkSEAZJNlu7fmkyolYDljzrSE7YXSDQ4A6bgCd48ZxWkVZ6PVltPeoq5khqt6TQ1ytlMreLKJRqJ34KfSpcdeAM+vKarhruVaD5ppw7tB9cuIsM87+kzsKcWfZr4IjWY21l9Dzt1wM3RTdmHMER1Zbyb7zffOonux7BqmGYAeke8TNKV+oOgJE6uXrZc871IoieFEHTzZ/+idV/qZVhuLRHVeDSWgnHH51+gUWAbLLZkDqM697XMo6fe+ZfQ4ViyRamnn2okp68IBSIhXfpfkU4ZKZp3sc9iDxqLLHztg==;ljY/SgXNCqHVjjsXpS0X0Q=="
 ---

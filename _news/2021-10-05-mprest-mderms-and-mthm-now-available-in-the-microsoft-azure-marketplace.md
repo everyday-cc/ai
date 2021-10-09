@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1102913249/mPrest-mDERMS-and-mTHM-Now-Available
 webUrl: "https://menafn.com/1102913249/mPrest-mDERMS-and-mTHM-Now-Available-in-the-Microsoft-Azure-Marketplace"
 type: article
 quality: 69
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 443
     height: 250
     isCached: true
-
-related:
-  - title: "mPrest mDERMS and mTHM Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Azure Marketplace offers world-class quality experiences from ... mPrest’s micro-services based, real-time orchestration and optimization platform brings the power of AI and IoT to the digital transformation of various industries, from energy and smart ..."
-    publishedDateTime: 2021-10-04T13:18:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-7267fd563fd0b5bf1ec4e14e2429ec85"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 69
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "uYizeAjsqalDPu4Sq9qwq5HTmpVnqtiRkiWkEZUfDsGBQYcMOyebwcM0MsF7iQjvE6Lyqfkf6L0c/hTL4psG6OEb/7Ji7wd/ssYjC1Akzt9rgNVXj3CnSV5IJi74D+kgi6AQrRblY9YFF473GAU/qEXuuwcnsgeSsx+vGywuLRikwvOLn/bjm8gjJ5xZEqkbiCOxGj2vsMCGbLoFVzmrbs0x4GdLppwFPA7TWbRR+I/wswj+srJvzTEaGQzKP/KYaO/+bAE+4r6nEqtpqi45C/FanB9gI9Apph+vqfzOqrDIYNMGTwwJJAAtWiBtYXCvZxWDHTRnSOlzh20ghiruhn2eKmmSu42G+UaxdmVmqzA=;frt2zwOkdLHMyhAmg1vl2Q=="
 ---

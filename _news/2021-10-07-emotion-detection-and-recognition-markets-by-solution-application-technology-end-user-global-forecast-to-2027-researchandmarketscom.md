@@ -81,6 +81,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Industrial AI Computers Market Report Provides Marketing Channel, Distributors, Customers and Manufacturing Process Analysis 2021 to 2027"
+    excerpt: "Oct 08, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" The report analyse the growth rate of"
+    publishedDateTime: 2021-10-08T10:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/industrial-ai-computers-market-report-provides-marketing-channel-distributors-customers-and-manufacturing-process-analysis-2021-to-2027-2021-10-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning as a Service (MLaaS) Market Share 2021: Top Leading Players, Future Trends, Market Size, Growth Prospects and Forecast to 2026"
     excerpt: "Get a Sample Copy of the Report -  Market Analysis and Insights: Global Machine Learning as a Service (MLaaS) Market The Machine Learning as a Service (MLaaS) market revenue was Million USD in 2016, grew to Million USD in 2021,"
     publishedDateTime: 2021-10-05T09:25:00Z

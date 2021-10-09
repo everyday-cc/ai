@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tamil Nadu CM MK Stalin Launches Face Recognition Software Aimed At Assisting Police Dept"
-    excerpt: "The software would help the police personnel to compare the photos of suspects with a data resource uploaded in the Crime and Criminal Tracking Network and Systems (CCTNS)."
-    publishedDateTime: 2021-10-04T14:04:00Z
-    webUrl: "https://news.abplive.com/tamil-nadu/tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept-1485919"
-    ampWebUrl: "https://news.abplive.com/tamil-nadu/tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept-1485919/amp"
-    cdnAmpWebUrl: "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/tamil-nadu/tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept-1485919/amp"
-    type: article
-    provider:
-      name: news.abplive
-      domain: abplive.com
-    quality: 65
-    images:
-      - url: "https://feeds.abplive.com/onecms/images/uploaded-images/2021/09/14/004e57e228a060db41cf8e468c733bc5_original.jpg?impolicy=abp_images&imwidth=1200"
-        width: 720
-        height: 540
-        isCached: true
   - title: "Tamil Nadu police's 'Face Recognition Software' has privacy experts worried"
     excerpt: "Tamil Nadu Chief Minister MK Stalin on October 4 announced a Face Recognition Software (FRS) to aid the state police in its investigations. The software, according to the government, would help compare the photos of suspects with a data resource of over 5."
     publishedDateTime: 2021-10-08T12:10:00Z

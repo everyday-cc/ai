@@ -71,17 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Incredible Growth of Artificial Intelligence (AI) in Cancer Market by 2028 | IBM, Microsoft, NVIDIA"
-    excerpt: "Get Sample Report Buy Complete Report  Artificial Intelligence (AI) in Cancer Market report focused on the comprehensive analysis of current and future prospects of the Artificial Intelligence (AI) in Cancer industry."
-    publishedDateTime: 2021-10-04T14:25:00Z
-    webUrl: "https://www.globalbankingandfinance.com/incredible-growth-of-artificial-intelligence-ai-in-cancer-market-by-2028-ibm-microsoft-nvidia/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/incredible-growth-of-artificial-intelligence-ai-in-cancer-market-by-2028-ibm-microsoft-nvidia/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/incredible-growth-of-artificial-intelligence-ai-in-cancer-market-by-2028-ibm-microsoft-nvidia/"
+  - title: "IBM Artificial Intelligence (AI) Portfolio Review"
+    excerpt: "Watson Captioning Live uses a combination of ML, AI, and cognitive speech-to-text applications to deliver automated real-time captions for audio files. Watson Studio is IBM’s software platform for developers, data scientists, and analysts to develop ..."
+    publishedDateTime: 2021-10-07T04:15:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/ibm-artificial-intelligence-ai-portfolio/"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 55
+      name: Datamation
+      domain: datamation.com
+    quality: 54
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/08/IBM-Logo.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Global Artificial Intelligence (AI) in Medical Market 2021 Status and Outlook, Industry Growth Rate, Opportunities and Challenges to 2027"
     excerpt: "MarketsandResearch.biz has presented a new market study on Global Artificial Intelligence (AI) in Medical Market 2021 by Company, Regions, Type and Application, Forecast to 2027 which delivers an executive-level market analysis that will help clients to build strategies to expand their market operations."
     publishedDateTime: 2021-10-06T01:36:00Z
