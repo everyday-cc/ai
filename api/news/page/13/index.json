@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-09-28-deep-learning-market-to-be-worth-72-billion-growing-application-of-deep-learning-to-boost-growth-technavio.md",
+      "title": "Deep Learning Market To Be Worth $ 7.2 Billion | Growing Application Of Deep Learning to Boost Growth | Technavio",
+      "excerpt": "The deep learning market will be driven by the growing application of deep learning. In addition, growing emphasis on cloud-based deep learning will influence the deep learning market growth positively during the next few years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/09/n23125791/deep-learning-market-to-be-worth-7-2-billion-growing-application-of-deep-learning-to-boost-growth-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/n23125791/deep-learning-market-to-be-worth-7-2-billion-growing-application-of-deep-learning-to-boost-growth-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/23125791",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23125791",
+      "publishedDateTime": "2021-09-27T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-competition-chips-ai-on-table-at-first-us-eu-trade-and-tech-meet.md",
       "title": "Competition, chips, AI on table at first U.S.-EU trade and tech meet",
       "excerpt": "The United States and the European Union hope to discuss chip shortages, artificial intelligence (AI) and tech competition issues during the first Trade and Tech Council (TTC) meeting this week, senior U.",
@@ -1131,60 +1174,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning.md",
-      "title": "Preparing for the 'golden age' of artificial intelligence and machine learning",
-      "excerpt": "The latest ZDNet survey on AI actionability and accountability finds that IT teams are taking a direct lead, with most companies building in-house systems. However, oversight of AI-generated decisions is lagging.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/16/ac7869f1-2363-4269-a70c-ee49b6b9f6b2/resize/1200xauto/40a66bf643c6438a543924b6dd11d0e0/who-reviews-ai-or-ml-decisions.png",
-          "width": 1200,
-          "height": 721,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
-      "publishedDateTime": "2021-09-27T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI Ethics"
       ]
     }
   ],

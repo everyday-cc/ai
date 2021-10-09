@@ -212,6 +212,40 @@
       ]
     },
     {
+      "path": "_news/2021-10-05-deepmind-technologies-sued-over-data-sharing.md",
+      "title": "DeepMind Technologies Sued Over Data Sharing",
+      "excerpt": "A law firm in the United Kingdom is suing Google's artificial intelligence (AI) subsidiary DeepMind Technologies over an alleged breach of data protection laws. Mishcon de Reya is bringing a representative suit against DeepMind pertaining to the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infosecurity-magazine.com/news/deepmind-sued-over-data-sharing/",
+      "originalUrl": "https://www.infosecurity-magazine.com/news/deepmind-sued-over-data-sharing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Infosecurity-magazine.com",
+        "domain": "infosecurity-magazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-04-artificial-intelligence-in-platform-as-a-service-paas-market-next-big-thing-major-giants-tensorflow-mircrosoft-aws-wipro.md",
       "title": "Artificial Intelligence In Platform As A Service (Paas) Market Next Big Thing | Major Giants TensorFlow, Mircrosoft, AWS, Wipro",
       "excerpt": "The Worldwide Artificial Intelligence In Platform As A Service (Paas) Market study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short-term challenges they face.",
@@ -1428,58 +1462,6 @@
         "Machine Learning",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-10-things-in-tech-you-need-to-know-today.md",
-      "title": "10 things in tech you need to know today",
-      "excerpt": "Amazon entered the BNPL space, T-Mobile customers frustrated by security breach, and Google shuttered another app: 10 things in tech you need to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/10-things-in-tech-you-need-to-know-today-30-2021-8",
-      "originalUrl": "https://www.businessinsider.com/10-things-in-tech-you-need-to-know-today-30-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/612c0ecb12b9cc00196345f4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/10-things-in-tech-you-need-to-know-today-30-2021-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-tech-you-need-to-know-today-30-2021-8?amp",
-      "publishedDateTime": "2021-08-30T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

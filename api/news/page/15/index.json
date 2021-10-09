@@ -2,6 +2,48 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-09-25-explained-why-artificial-intelligences-religious-biases-are-worrying.md",
+      "title": "Explained: Why Artificial Intelligence’s religious biases are worrying",
+      "excerpt": "Although AI is capable of generating complex and cohesive natural language, a series of recent works demonstrate that they also learn undesired social biases that can perpetuate harmful stereotypes.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/explained/explained-why-artificial-intelligences-religious-biases-are-worrying-7533309/",
+      "originalUrl": "https://indianexpress.com/article/explained/explained-why-artificial-intelligences-religious-biases-are-worrying-7533309/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2021/09/AI.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/explained/explained-why-artificial-intelligences-religious-biases-are-worrying-7533309/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-why-artificial-intelligences-religious-biases-are-worrying-7533309/lite/",
+      "publishedDateTime": "2021-09-24T20:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-25-for-self-driving-cars-the-hot-new-technology-is-radar.md",
       "title": "For Self-Driving Cars, the Hot New Technology Is… Radar",
       "excerpt": "Companies are improving and adapting the century-old technology to help vehicles operate more safely with less human involvement.",
@@ -1169,59 +1211,6 @@
         "Facebook AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-android-update-teases-improved-accessibility-options-for-handwriting-facial-recognition.md",
-      "title": "Android update teases improved accessibility options for handwriting, facial recognition",
-      "excerpt": "Google is launching 13 new Android features this autumn, including new accessibility features, improvements to Waze, and alerts to remind you to look up from the phone screen while walking. The tech giant is launching two new accessibility features to help people with motor and speech impairments,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/mobile/google-android/361007/android-accessibility-facial-recognition-handwriting-autumn",
-      "originalUrl": "https://www.itpro.co.uk/mobile/google-android/361007/android-accessibility-facial-recognition-handwriting-autumn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1632486148/Google_android_new_features.png",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T05:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

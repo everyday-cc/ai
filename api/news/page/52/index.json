@@ -2,6 +2,49 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-08-26-the-ai-training-chip-tencent-has-an-eye-on.md",
+      "title": "The AI Training Chip Tencent Has an Eye On",
+      "excerpt": "It is not news that China wants a rich, native, diverse semiconductor ecosystem to feed its largest consumers of compute. From supercomputing systems to",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/08/26/the-ai-training-chip-tencent-has-an-eye-on/",
+      "originalUrl": "https://www.nextplatform.com/2021/08/26/the-ai-training-chip-tencent-has-an-eye-on/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/Enflame_sd89.jpg",
+          "width": 1300,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/08/26/the-ai-training-chip-tencent-has-an-eye-on/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/26/the-ai-training-chip-tencent-has-an-eye-on/amp/",
+      "publishedDateTime": "2021-08-26T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-5-stocks-to-watch-amid-evolving-machine-learning-applications.md",
       "title": "5 Stocks to Watch Amid Evolving Machine Learning Applications",
       "excerpt": "In the fourth industrial revolution, AI will be the predominant technology, and its subsets ML and deep learning will be driving the change. ML has found its application in multiple disciplines, and businesses can use large data to better understand consumers’ behavior,",
@@ -1097,58 +1140,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-iphone-13-face-id-could-work-with-face-masks-and-foggy-glasses.md",
-      "title": "iPhone 13 Face ID could work with face masks and foggy glasses",
-      "excerpt": "Just when face recognition was shaping up to be the de facto biometric security system for smartphones, the world was hit with a pandemic that required people to wear masks most of the time. That threw off many face recognition systems, including Apple’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/iphone-13-face-id-could-work-with-face-masks-and-foggy-glasses-25688496/",
-      "originalUrl": "https://www.slashgear.com/iphone-13-face-id-could-work-with-face-masks-and-foggy-glasses-25688496/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/08/face-id-prototype-3.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/iphone-13-face-id-could-work-with-face-masks-and-foggy-glasses-25688496/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/iphone-13-face-id-could-work-with-face-masks-and-foggy-glasses-25688496/amp/",
-      "publishedDateTime": "2021-08-25T20:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

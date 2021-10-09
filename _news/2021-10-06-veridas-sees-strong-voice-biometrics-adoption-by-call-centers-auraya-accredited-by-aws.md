@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202110/veridas-sees-strong-voice-b
 webUrl: "https://www.biometricupdate.com/202110/veridas-sees-strong-voice-biometrics-adoption-by-call-centers-auraya-accredited-by-aws"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Face biometrics roll out at airports on three continents amid ethics, oversight debates"
+    excerpt: "Airport deployments of face biometrics were the focus of two of the most widely-read stories on Biometric Update over the past week."
+    publishedDateTime: 2021-10-09T17:25:00Z
+    webUrl: "https://www.biometricupdate.com/202110/face-biometrics-roll-out-at-airports-on-three-continents-amid-ethics-oversight-debates"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 48
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/08135040/biometrics-phone-mask-airport.jpg"
+        width: 929
+        height: 380
+        isCached: true
   - title: "Delta partners with TSA on face biometrics, Emirates and SITA discuss aviation trends"
     excerpt: "Delta has recently partnered with the U.S. Transport Security Administration (TSA) to deploy face biometrics to streamline check-in and security in Atlanta."
     publishedDateTime: 2021-10-08T16:38:00Z

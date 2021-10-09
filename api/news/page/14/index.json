@@ -2,6 +2,60 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-09-27-preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning.md",
+      "title": "Preparing for the 'golden age' of artificial intelligence and machine learning",
+      "excerpt": "The latest ZDNet survey on AI actionability and accountability finds that IT teams are taking a direct lead, with most companies building in-house systems. However, oversight of AI-generated decisions is lagging.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/16/ac7869f1-2363-4269-a70c-ee49b6b9f6b2/resize/1200xauto/40a66bf643c6438a543924b6dd11d0e0/who-reviews-ai-or-ml-decisions.png",
+          "width": 1200,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
+      "publishedDateTime": "2021-09-27T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-how-a-pet-subscription-startup-is-outfoxing-giants-like-chewy-and-amazon.md",
       "title": "How a pet subscription startup is outfoxing giants like Chewy and Amazon",
       "excerpt": "How do you build a subscription box business to rival major brands? PetFriendly, a startup that sells vet-quality flea & tick medication on a subscription model, has found success through personalization,",
@@ -1074,48 +1128,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-explained-why-artificial-intelligences-religious-biases-are-worrying.md",
-      "title": "Explained: Why Artificial Intelligence’s religious biases are worrying",
-      "excerpt": "Although AI is capable of generating complex and cohesive natural language, a series of recent works demonstrate that they also learn undesired social biases that can perpetuate harmful stereotypes.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/explained/explained-why-artificial-intelligences-religious-biases-are-worrying-7533309/",
-      "originalUrl": "https://indianexpress.com/article/explained/explained-why-artificial-intelligences-religious-biases-are-worrying-7533309/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2021/09/AI.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/explained/explained-why-artificial-intelligences-religious-biases-are-worrying-7533309/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-why-artificial-intelligences-religious-biases-are-worrying-7533309/lite/",
-      "publishedDateTime": "2021-09-24T20:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

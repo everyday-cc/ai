@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Stampli Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
-    excerpt: "Stampli honored for achievements in AP Automation CB Insights today named Stampli to the fourth annual Fintech 250, a prestigious list of emerging private companies working"
-    publishedDateTime: 2021-10-07T14:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/10/b23280760/stampli-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
-    ampWebUrl: "https://www.benzinga.com/amp/content/23280760"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23280760"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 40
-    images:
-      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Fairmarkit Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
     excerpt: "Fairmarkit honored for achievements in fintech and automated procurement solutionsNEW YORK--(BUSINESS WIRE)--CB Insights today named Fairmarkit to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology."
     publishedDateTime: 2021-10-05T21:00:00Z
@@ -48,20 +32,6 @@ related:
       - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
         width: 580
         height: 339
-        isCached: true
-  - title: "Investing Fintech Startup Front Backed by Will Smith’s Dreamers VC"
-    excerpt: "New investors are always seeking information and insight that will help improve their investment decisions. Now with the advent of cryptocurrency, the need for guidance is even greater."
-    publishedDateTime: 2021-10-06T18:30:00Z
-    webUrl: "https://www.linkedin.com/pulse/investing-fintech-startup-front-backed-smiths-dreamers-jeanne-gray"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFuTSfZpL-SCw/article-cover_image-shrink_720_1280/0/1633545034818?e=1639008000&v=beta&t=bUkhk_FhWzDbZ_EZNjK3qg6gvuYUlTUfTdN0ITInCt8"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Socure, Onfido and Trulioo crack CB Insights’ Fintech 250"
     excerpt: "The biometrics providers have cracked the CB Insights Fintech 250 list for 2021, with Socure, Onfido and Trulioo all represented on the list."
@@ -145,6 +115,15 @@ related:
     provider:
       name: WCAX3
       domain: wcax.com
+    quality: 0
+  - title: "Stampli Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
+    excerpt: "CB Insights today named Stampli to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year’s list was unveiled on stage at CB Insights’ Future of Fintech conference in New York City."
+    publishedDateTime: 2021-10-07T14:00:00Z
+    webUrl: "https://www.financialbuzz.com/stampli-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 0
 
 secured: "5aXAANungvgUVcbY6Q+8x5aFUS9RuB/BcgbP/THro2Rn9fmuohj73neSqMYDC8sgJNRyS6CUqcFrYJZ5eQePnI8WVA2sFU0G1cdB8Zki2TJKOwdT1dkdaF32d85K8Yep9sQy6W2q/O1gy9SYCBpB9ySRSgKLYhqJVS2cY2zZJm7K/6hWlpjtIrzJs9v6hLEoUitKAoIZAgCI2jFzT5Ba1qmZDGSq1ijk6fS6zxBsa0N4xG832NzVqrOjKw+V3NegaD52w48tEExoLvvH86IGKLIjDKYbfYd17Z+GoiVPhNmviKIFQzy7YlfUbPMh+DtTL2w7PuDfAJWtV9ynuKDD7Wws9btz4JdeY/JSRad9kcc=;iJwAoX0/NlXFqGnZb7tQAQ=="

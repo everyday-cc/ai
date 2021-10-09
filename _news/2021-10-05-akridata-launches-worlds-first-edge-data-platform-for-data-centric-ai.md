@@ -3,16 +3,16 @@ category: news
 title: "Akridata™ Launches World's First Edge Data Platform for Data-Centric AI"
 excerpt: "Decentralized Software Accelerates Access to Relevant AI Data, Handles Ingest, Catalog, and Exploration of Complex AI Data, and Enables Traceable AI Across Industries"
 publishedDateTime: 2021-10-05T16:17:00Z
-originalUrl: "https://www.fox8live.com/prnewswire/2021/10/05/akridata-launches-worlds-first-edge-data-platform-data-centric-ai/"
-webUrl: "https://www.fox8live.com/prnewswire/2021/10/05/akridata-launches-worlds-first-edge-data-platform-data-centric-ai/"
+originalUrl: "https://www.kplctv.com/prnewswire/2021/10/05/akridata-launches-worlds-first-edge-data-platform-data-centric-ai/"
+webUrl: "https://www.kplctv.com/prnewswire/2021/10/05/akridata-launches-worlds-first-edge-data-platform-data-centric-ai/"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: WVUE FOX 8 News
-  domain: fox8live.com
+  name: KPLC
+  domain: kplctv.com
 
 topics:
   - Microsoft AI
@@ -87,6 +87,6 @@ related:
       domain: insidehpc.com
     quality: 17
 
-secured: "bH0djF9B5C9n+dxpZcoryuv0e4f4GZmwS4m2Gqt0RA9rntbZGHOfYs9+QOtQzbavuRQUHMvlyCvIXAxd7vbTaGntFl7UCi713TLNOsaOMcEVIoISrxLDLqsZf9WrqU1GP0aojhvces2QxgakBp3TbrqV+31hmdiSO5uXjffITzCyv1zbptjFgOg6AMX3FZbaze1Rne8kwb788/miRZrI7iJ1AJp6+5r9fRA2zhQlaer4SxGCTAE0qpBRIv9viIg+i/KaJdQBC7nK8XaQ42nRjmvZBIIeCYnKhacSGofBT/M6zsuBkeg8jB8Znt4mFtqsb/tmXYKDrqVMl1nX28VIUCZZ59jiUdd/5YO3gySZn9o=;YiFbSXQsIAO26aguF8QqmA=="
+secured: "Ov4pA8+ZP7DtKDYHx4N6v3ybyeuJuEFkqSRSXNLgOw9QHZrswVmqh01KQBVfNq6mkwfSCPEc0TX1MtYgNoKJsV/FSZFaw650EzRinPpGLLaOSUlhmE5jR9E6f7b+6X/zU4AwE7hOEzj8RL47cy32rum01ow+k0v7aeif1TjNis7xoPRVC7XAtF6fyRLH6pdsVajBOgJlo8deQGlfKUCWwEXgO50TJvWVCrOuXoMldjO5xG5FLnDF68L/EikZgnkynAgCxhJlFqgF8gvSPCj/tlvfJ/fe6bgv0wQODNA+K012AJTyHF1qB4Gam1gsj43TecgGZ1WX+kwTcqy+SCmIF72yZ6cgRrzSxMBMP/C2abk=;qCvdurv27SUeSPwK0gQPjA=="
 ---
 

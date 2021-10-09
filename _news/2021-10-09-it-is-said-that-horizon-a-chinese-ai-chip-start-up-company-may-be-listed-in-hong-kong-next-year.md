@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Top 10 Reasons to Attend Hong Kong Fintech Week 2021"
-    excerpt: "Hong Kong Fintech Week will reinvent your event experience by combining a physical conference with digital access from anywhere in the world."
-    publishedDateTime: 2021-10-05T00:52:00Z
-    webUrl: "https://fintechnews.sg/55816/events/top-10-reasons-to-attend-hong-kong-fintech-week-2021/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/10/Top-10-Reasons-to-Attend-Hong-Kong-Fintech-Week-2021.jpg?x45653"
-        width: 2048
-        height: 1136
-        isCached: true
 
 secured: "Y1KIRirJqPqXlqIiDBjeLc4nQDELTeJwT1D19Awjvn1S3cTGYkhzcgdjYRAmKadhMZObZfNbMWiHZDwZ9Rq1qNlP9u56vux6qxa+etneYclPIh0fDhLQUIQcBSI7ixC2LiAEDvAY3wgiNOlrR5QfFKETzuhVy6JPhdezCFj2tOIQ9q+IXeeUPlArQQDs0yawl/I0B4q3KYaQszCUiblULEUeEDmqW8YpBofDyEnydkrCWW7msph5IspzZqGTXsus1jxQMl3uTB33+BDp/tLxjZiQv2tLsGLW0zBZZyidHAtsqQvREqWUMKokdGBW+yR4cP9e5yUmnI4JEr/MxM/hw9SGfQHg7X7m5KQ05VTP+Q8=;hEnHyuFI/vfxGVXyo9awcg=="
 ---

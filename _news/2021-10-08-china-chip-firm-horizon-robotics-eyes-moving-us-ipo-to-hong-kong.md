@@ -42,20 +42,6 @@ related:
         width: 540
         height: 540
         isCached: true
-  - title: "Top 10 Reasons to Attend Hong Kong Fintech Week 2021"
-    excerpt: "Hong Kong Fintech Week will reinvent your event experience by combining a physical conference with digital access from anywhere in the world."
-    publishedDateTime: 2021-10-05T00:52:00Z
-    webUrl: "https://fintechnews.sg/55816/events/top-10-reasons-to-attend-hong-kong-fintech-week-2021/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/10/Top-10-Reasons-to-Attend-Hong-Kong-Fintech-Week-2021.jpg?x45653"
-        width: 2048
-        height: 1136
-        isCached: true
   - title: "It is said that Horizon, a Chinese AI chip start-up company, may be listed in Hong Kong next year."
     excerpt: "The company is working with the financial institutions responsible for mentoring the listing and plans to list in Hong Kong next year, according to people familiar with the matter. They also said the company had planned to list in the US and was expected to raise more than $1 billion."
     publishedDateTime: 2021-10-09T06:30:00Z
