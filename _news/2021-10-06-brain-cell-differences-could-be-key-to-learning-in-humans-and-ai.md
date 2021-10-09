@@ -7,7 +7,7 @@ originalUrl: "https://techxplore.com/news/2021-10-brain-cell-differences-key-hum
 webUrl: "https://www.sciencedaily.com/releases/2021/10/211006112626.htm"
 type: article
 quality: 117
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Humans need AI — and vice versa"
-    excerpt: "We’ve been overselling current capabilities of AI for years, but that doesn’t mean it doesn’t have a bright future. That’s perhaps why Stanford University researchers conceived of a “ One Hundred Year Study on Artificial Intelligence ” (100 years!"
-    publishedDateTime: 2021-10-04T10:00:00Z
-    webUrl: "https://www.infoworld.com/article/3635489/humans-need-ai-and-vice-versa.html"
-    ampWebUrl: "https://www.infoworld.com/article/3635489/humans-need-ai-and-vice-versa.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3635489/humans-need-ai-and-vice-versa.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_robot_touch_human_hand_by_kentoh_gettyimages_1060703206-100817766-large.jpg?auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI and machine learning could halve preventable errors in medicine"
     excerpt: "This latter scenario illustrates the potential power of incorporating artificial intelligence (AI) and machine learning (ML) into healthcare for the purposes of averting otherwise preventable deaths."
     publishedDateTime: 2021-10-08T03:22:00Z

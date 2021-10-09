@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2021/10/08/is-baidus-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/10/08/is-baidus-stock-cheap-at-150/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Ignore China’s Regulatory Crackdown and Invest in Baidu Stock"
+    excerpt: "Consequently, the shares of several top Chinese businesses, including Baidu (NASDAQ:BIDU) stock, are trading at rather low multiples. Source: Sundry Photography / Shutterstock.com Baidu has been ..."
+    publishedDateTime: 2021-10-06T14:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ignore-chinas-regulatory-crackdown-and-invest-in-bidu-stock-1030847488"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "EviF+F3eTRm/Wb9IlYj2b4vHAG409m7cMrL3b9dLzeT9IsV3x279N2iEVUCM3UaCRAjCC0YBj1Vg2MDOqXB7yd/u5Nnp1of30HAtNcfCoVdsyslugZPogG7NHmCSaBGQJRoHfuijZlB6YVTU2kW7Q/5SEKjzDYmh0hddYfTpYySjNmU//T3hBoy3KxHAikGl4itBjqxP6XeyKXbk7gPbhxOZsVg6UewOZwvDQKrM9PgL34PyB6xSgWkDoIw0vH/MOWS0qRzUBVZw1Vl2GGpTBsQOJOSYLQBI3Xec7QK3UDK2Zn6jfSassXVghTQCW3ivzsMyUq2qAQ2BrV52XBo+jMtXY5irfKRMOh4a/FYXyRHZMB6vyHKXlRK0IHjMb+EeRSXV/QytjR4VRe7/IC3zk4sGuJTtzhjWh5nfG+v6RRQSbJMOmABBzgF6a0BQRy4blK5xVGfR0I0+H6jMk5Z/Sq5kEX2qhxXCHSbC87shptK/Yvzd3RiyFgv6Q4V73zDr7zvf3wJHWG5U7ckzhw/AIA==;MGSWF1xZwn3779k4mpzBrQ=="
 ---

@@ -162,17 +162,6 @@ related:
         width: 1600
         height: 840
         isCached: true
-  - title: "Role of conversational AI in shaping businesses and accelerating growth"
-    excerpt: "The need for humanizing and speeding up customer interactions is rising rapidly. Customers expect businesses to assist them 24/7, anticipate their needs, and provide a quick resolution of issues. Companies deploy AI-powered assistants to"
-    publishedDateTime: 2021-10-04T10:51:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/role-of-conversational-ai-in-shaping-businesses-and-accelerating-growth/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/role-of-conversational-ai-in-shaping-businesses-and-accelerating-growth/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/role-of-conversational-ai-in-shaping-businesses-and-accelerating-growth/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 37
   - title: "CWU to host presentation on artificial intelligence"
     excerpt: "Software developer and data journalist Meredith Broussard will be presenting the keynote address during a Central Washington University lecture series titled “Artificial Intelligence: The Future is Now” at 5:30 p."
     publishedDateTime: 2021-10-05T15:00:00Z
@@ -214,20 +203,6 @@ related:
       - url: "https://www.datamation.com/wp-content/uploads/2021/10/DRL-ICA-82721-scaled.jpeg"
         width: 2560
         height: 1707
-        isCached: true
-  - title: "SkyX Integrates AI with Aerial System to Offer Midstream Inspection Solution"
-    excerpt: "Canada-based UAV solution offering startup SkyX has offered an AI-integrated aerial pipeline inspection solution."
-    publishedDateTime: 2021-10-04T11:00:00Z
-    webUrl: "https://www.just-drinks.com/research-reports/skyx-integrates-ai-with-aerial-system-to-offer-midstream-inspection-solution/"
-    type: article
-    provider:
-      name: Drinks
-      domain: just-drinks.com
-    quality: 34
-    images:
-      - url: "https://www.just-drinks.com/wp-content/uploads/sites/36/2021/10/shutterstock_1388472764.jpg"
-        width: 500
-        height: 281
         isCached: true
   - title: "Standard AI Expands Executive Team with Seasoned AI, Retail and Operations Leaders"
     excerpt: "Standard AI, the world’s leading computer vision platform for retail, today announced the addition of Jennifer Haroon as Chief Financial Officer (CFO) and Angie Westbrock as Chief Operating Officer (COO) to its executive team."

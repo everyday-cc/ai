@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese chip firm Horizon Robotics mulls moving US IPO to Hong Kong"
+    excerpt: "Chinese artificial intelligence chip maker Horizon Robotics is considering moving a US listing plan to Hong Kong as Beijing deepens crackdown on overseas listings, Bloomberg reported on Friday. The firm had been weighing a US initial public offering that could raise as much as $1 billion,"
+    publishedDateTime: 2021-10-09T03:18:00Z
+    webUrl: "https://technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/"
+    ampWebUrl: "https://technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 91
+    images:
+      - url: "https://i2.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
+        isCached: true
   - title: "China Chip Firm Horizon Robotics Eyes Moving U.S. IPO to Hong Kong"
     excerpt: "Chinese artificial intelligence-chip startup Horizon Robotics Inc. is considering shifting its potential U.S. initial public offering to Hong Kong in the wake of Beijing’s increasing scrutiny of overseas listings,"
     publishedDateTime: 2021-10-08T09:54:00Z

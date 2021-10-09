@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "White House proposes tech ‘bill of rights’ to limit AI harms"
-    excerpt: "Top science advisers to President Joe Biden are calling for a new \"bill of rights\" to guard against powerful new artificial intelligence technology. The"
-    publishedDateTime: 2021-10-08T05:12:00Z
-    webUrl: "https://mynorthwest.com/3182403/white-house-proposes-tech-bill-of-rights-to-limit-ai-harms/"
-    ampWebUrl: "https://mynorthwest.com/3182403/white-house-proposes-tech-bill-of-rights-to-limit-ai-harms/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3182403/white-house-proposes-tech-bill-of-rights-to-limit-ai-harms/amp/"
+  - title: "White House proposes tech 'bill of rights' to limit AI harms"
+    excerpt: "The White House's Office of Science and Policy on Friday launched a fact-finding mission to look at facial recognition and other biometric tools used to identify people or assess their emotional or mental states and character."
+    publishedDateTime: 2021-10-08T16:34:00Z
+    webUrl: "https://www.chron.com/news/article/White-House-proposes-tech-bill-of-rights-to-16519406.php"
+    ampWebUrl: "https://www.chron.com/news/amp/White-House-proposes-tech-bill-of-rights-to-16519406.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/White-House-proposes-tech-bill-of-rights-to-16519406.php"
     type: article
     provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 59
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 57
     images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2021/10/ap_b391a4af79a44970802d27dea6418bda.jpg"
-        width: 1280
-        height: 853
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "753xhqrSSHtU5OpqHSXkVYZuj1Lc89X0hu5003iQsyd8IZM492TDdJGzgKLUuIqTqCZCWUtEsuZTHrFFdLtmKSlN1DVJc6aRcEM1VCwQc1cjU3riSd26hT8Tmmoibcd5EsrgtsuhqRU6skF4Ff20zq++ZK1tJHB65QsLxeu4WRui7p9/lEBti1szOw0EOdWW5iF4jVCYD7Q5CCh7KIzfgIO5ubOsIxKUeu+pC67T8HHWxcD3HOV2dNMbE3DmYVlLLKLnza2rBtBZoejpTxWP/wyqq+V28EFWFM2+AfCjrWzREBof+87FXLWyFF6miI2nA0Av1ka0wC74x+x/aSSlb4MEM6BUnJG1J8yM3dYP3nfHbYamU6DAdlqoVd2dPwwdPVPRHOzHbsYaf/BwzsrXohWDHLIlwUjLqrR2rjsxc/n1zL9UmCVt+wuzb596BOa1vft+UruQscUPuhvTCOa9fbU25f4UymgC1STYJv1fco+sOwXefGkiCkulUPl0L1aNJua9dLkFTyjuqhvtIazIGg==;SH9aH2stVsZBk60YRGM3QQ=="

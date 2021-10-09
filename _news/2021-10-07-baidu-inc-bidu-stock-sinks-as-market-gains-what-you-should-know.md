@@ -37,6 +37,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Ignore China’s Regulatory Crackdown and Invest in Baidu Stock"
+    excerpt: "Consequently, the shares of several top Chinese businesses, including Baidu (NASDAQ:BIDU) stock, are trading at rather low multiples. Source: Sundry Photography / Shutterstock.com Baidu has been ..."
+    publishedDateTime: 2021-10-06T14:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ignore-chinas-regulatory-crackdown-and-invest-in-bidu-stock-1030847488"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "KUDjvfd9htxIDpa8XtyC2xmTBnnrgZbMkwDboXvvCE/MiJo9Ql69QUbNoGhLigLWNUU8573JmtE1F3KVBlKxAYpQCInrkHXYkgOWWQ30qYlyVBpyOOibDSTBk6rbYzOX0OdBR89cbswx/iGYY7OmsTAhtDf/ZJro8Sx8tRdKSuvmk/m50wnUKk+RC883Po3dIwnU0pVIF6tkxTQsL6SsTV2hMtCjLyrx0Lsnp9454XZJLscezbJrsG8GI3vb9lgyz+jN0NrOzufH6qonaklf89ZtbMdQehpHo0VDLaggKJp5FgCyLd1isllHUVrDfB4uq6o8oIuXNDVfylFH7rXLZ9Eme9zDSQg8DfG82NQ7t8o=;Fmpsu38YNOplczvh20TLPA=="
 ---

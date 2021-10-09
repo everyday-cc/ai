@@ -7,7 +7,7 @@ originalUrl: "https://appleinsider.com/articles/21/10/04/happy-birthday-to-siri-
 webUrl: "https://appleinsider.com/articles/21/10/04/happy-birthday-to-siri-the-first-and-most-frustrating-voice-assistant"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1280
     height: 714
     isCached: true
-
-related:
-  - title: "10 years of Siri: the history of Apple's voice assistant"
-    excerpt: "Has it really been 10 years of Siri? Somehow, yes. The Apple voice assistant was originally integrated into the iPhone 4S way back in October 2011, and we're now here to wish Siri a very happy 10th birthday."
-    publishedDateTime: 2021-10-04T10:04:00Z
-    webUrl: "https://www.techradar.com/news/siri-10-year-anniversary"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 54
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/NMfLy7Wtgf8vUKAN2RBT79-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "3TjeKd4e80zUkcacZQAX6qgfJ8TGBIKy35qbxsWE66cjdjklnoZlfJx3qnxyzhvyvQ7rCN1AFAUeFXbVVlk89wNgoYC3ABNnM5px6EgOl3DOiABwLyoEGtSJD+Eqr+jIbmojJcd6i4jvD2xJzvH0vtTVymfnbYVoxa0t/VewuSsMeDdbdEdMkQV1eczmsRbO2hOqkJYfngudRIad1aTSI5K0ChXi8DyRZLKx7nC73le8WztrOGu1ArwWVVnXClAv/XwAWifBG4dLLVj4AqtXenCO7ZQ04GCDHjCYijw1/uEZrYB28lEjsPs4jdtWyR6KUJ7IPj+RInxnHik41eFNkVquDTEnEtZa29uWHP6gP5sHtgN7sfeVvffzkvbNZXgAWhzE10cj72CLnMzIW9o8qo/Vni7wS+1iDNwmugz/IdtO4qmGGhssEf9zTj1idqmYUqEHaMG2RqsFG3DZHNUjv8EdSZG44Mi8ddGJFoEOyg160tDqIiVl1Sf6snK4Ed8n8WgWKv1sT3O8yAGLdGhuUg==;EM5gr+jGHBIyvxNr6O4Xpg=="
 ---
