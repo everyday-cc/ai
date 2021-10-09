@@ -45,22 +45,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "How to get AI analytics right"
-    excerpt: "While there is plenty of anecdotal evidence about how AI will improve analytics, there isn't as much discussion about implementation."
-    publishedDateTime: 2021-10-04T12:32:00Z
-    webUrl: "https://venturebeat.com/2021/10/04/how-to-get-ai-analytics-right/"
-    ampWebUrl: "https://venturebeat.com/2021/10/04/how-to-get-ai-analytics-right/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/04/how-to-get-ai-analytics-right/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/network-6511448-e1632770373894.jpg?w=1200&strip=all"
-        width: 1200
-        height: 598
-        isCached: true
   - title: "Databricks, Qlik, Nvidia show AI is heating up"
     excerpt: "Databricks is announcing its acquisition of 8080 Labs today. This follows Qlik's announcement last week that it's buying Big Squid, and Domino Data lab's announcement yesterday of a $100M Series F funding round,"
     publishedDateTime: 2021-10-06T13:00:00Z
@@ -121,20 +105,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Code_data.jpg"
         width: 690
         height: 400
-        isCached: true
-  - title: "Analytics Insight describes top artificial intelligence stocks to buy in October"
-    excerpt: "This article features the top artificial intelligence stocks to buy in October 2021 from reputed tech companies. Buying AI stocks in October will provide higher revenue through AI model by harnessing artificial intelligence."
-    publishedDateTime: 2021-10-04T11:13:00Z
-    webUrl: "https://www.analyticsinsight.net/profitable-investment-top-artificial-intelligence-stocks-to-buy-in-october-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 34
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-artificial-intelligence-stocks-to-buy-in-October.jpg"
-        width: 900
-        height: 500
         isCached: true
   - title: "Level Agency Welcomes New Vice President of Enterprise Data and Analytics"
     excerpt: "Level Agency, one of Pittsburgh's leading digital marketing agencies, has announced the addition of Eric Liu, Ph.D., MBA. Liu will serve as a member of the agency's Executive Team in the role of Vice President of Enterprise Data and Analytics."
@@ -200,20 +170,6 @@ related:
       name: California Techwire
       domain: techwire.net
     quality: 11
-  - title: "Cloverleaf Analytics Makes BI More Accessible for Insurers by Launching Natural Language Processing, Chatbot, and Automatic Insights Capabilities"
-    excerpt: "Cloverleaf Analytics (Cloverleaf), a leading purpose-built insurance business intelligence (BI) solution provider, today announced natural language processing (NLP), chatbot, and automatic insights capabilities as new features in the"
-    publishedDateTime: 2021-10-04T12:10:00Z
-    webUrl: "https://www.lelezard.com/en/news-20027679.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 2
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "TtCbLs1jx6//rh2eUgsfVfTDL7brQNvbiRUabDfezsbEL3ZygdYeUJT4vsN8uVCRyywbFqt83KNoARe9+SLh+Xx2lQQ/oonyIhTo7GpwmpQMrdZf+NhDoPYYCIP0t22jNaDbwJKyKVC8VSYJKDfnZpFxR9ZJ3IDbOUp03LQTYC3k2KLDhs/CD0X2457j3CC9MgHJcqyrczPZkOXiM1TvrdoDi/mMeKI2qnvrrH+tAsXAackgPqyZt2CJTCVeBw0a5JezorysNlBIxlaS0wfzBskb2Wf3yC6snc6qAd8Fr+gxwyV26EtTtCWqXCvH7O4p5rX7DFNn9qVLZ59NMrTvvQHx97RrhkUABy6If3CGwdBH6Dx3lAzeA6Quv4NWR24PI4qoa7z6ZgWyICs8sKwRxne2uFk8DSS2cAwFRB+nLfHVE0Yni8RovMI5ruPvreL+AHkucFRSLJDIfc447wnh+bwpzWDX5l/ylLnkTo3mEXgZauC+H2YbO8kfriH67uu77AYpmDaSfp1eclztlFzi9A==;HkztRQ3JL+tHhniv2zJMHg=="
 ---

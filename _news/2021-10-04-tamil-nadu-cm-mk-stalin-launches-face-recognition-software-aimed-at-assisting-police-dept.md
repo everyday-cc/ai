@@ -9,7 +9,7 @@ ampWebUrl: "https://news.abplive.com/tamil-nadu/tamil-nadu-cm-mk-stalin-launches
 cdnAmpWebUrl: "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/tamil-nadu/tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept-1485919/amp"
 type: article
 quality: 65
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.thenewsminute.com/sites/default/files/facial_recognition_illegal_1200_0.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "TN CM launches face recognition software to aid police probe"
-    excerpt: "Tamil Nadu Chief Minister M.K. Stalin on Monday launched face recognition software to aid the state police in its investigations. The software would help"
-    publishedDateTime: 2021-10-04T11:57:00Z
-    webUrl: "https://www.canindia.com/tn-cm-launches-face-recognition-software-to-aid-police-probe/"
-    type: article
-    provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 54
-    images:
-      - url: "https://www.canindia.com/wp-content/uploads/2021/08/CIPLACEHOLDER.png"
-        width: 586
-        height: 390
         isCached: true
   - title: "Experts worried about police's 'face recognition software' interfering with people's privacy"
     excerpt: "Tamil Nadu Chief Minister MK Stalin on October 4 announced a Face Recognition Software (FRS) to assist the state police in their investigati..|News Track"

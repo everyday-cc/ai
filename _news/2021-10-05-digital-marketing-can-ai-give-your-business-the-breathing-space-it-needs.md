@@ -7,8 +7,8 @@ originalUrl: "https://smarthustle.com/how-ai-supports-businesses-digital-marketi
 webUrl: "https://smarthustle.com/how-ai-supports-businesses-digital-marketing-efforts/"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: smarthustle.com
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Architecture Firms are Leveraging AI to Optimize Their Businesses"
-    excerpt: "How do firms work smarter without spending tons of time wising up? By leveraging artificial intelligence—or AI."
-    publishedDateTime: 2021-10-04T11:39:00Z
-    webUrl: "https://www.archdaily.com/969461/how-architecture-firms-are-leveraging-ai-to-optimize-their-businesses"
-    type: article
-    provider:
-      name: ArchDaily
-      domain: archdaily.com
-    quality: 37
-    images:
-      - url: "https://images.adsttc.com/media/images/6157/5071/f91c/81fc/d800/0033/large_jpg/home-section-hero-img-optimized-1200x1200px.jpg?1633112165"
-        width: 1430
-        height: 903
-        isCached: true
   - title: "AI in Financial Asset Management Market Trends, Business Outlook"
     excerpt: "Report Pages ] In recent years, financial institutions are adopting the artificial intelligence (AI) technology for managing their financial assets and reducing operating cost, thereby increasing the revenue."
     publishedDateTime: 2021-10-08T12:12:00Z

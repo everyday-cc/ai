@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "GM Ultra Cruise pushes closer to door-to-door self-driving cars"
-    excerpt: "General Motors is officially dialing its self-driving program up from \"Super\" to \"Ultra.\" Set to launch in model year 2023, the all-new Ultra Cruise system promises a full hands-free driving experience in 95 percent of driving scenarios."
-    publishedDateTime: 2021-10-06T21:56:00Z
-    webUrl: "https://newatlas.com/automotive/gm-ultra-cruise/"
-    ampWebUrl: "https://newatlas.com/automotive/gm-ultra-cruise/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/gm-ultra-cruise/?amp=true"
+  - title: "GM-backed Cruise targets 1 million self-driving vehicles by 2030"
+    excerpt: "Cruise, General Motors' majority-owned autonomous vehicle subsidiary, is targeting a fleet of 1 million or more self-driving vehicles by 2030."
+    publishedDateTime: 2021-10-07T16:07:00Z
+    webUrl: "https://www.cnbc.com/2021/10/07/gm-backed-cruise-targets-1-million-self-driving-vehicles-by-2030.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/10/07/gm-backed-cruise-targets-1-million-self-driving-vehicles-by-2030.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/07/gm-backed-cruise-targets-1-million-self-driving-vehicles-by-2030.html"
     type: article
     provider:
-      name: New Atlas
-      domain: newatlas.com
+      name: CNBC
+      domain: cnbc.com
     quality: 74
     images:
-      - url: "https://assets.newatlas.com/dims4/default/156c86d/2147483647/strip/true/crop/1280x853+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F79%2Fc2%2F7037f0204f8b953292f2f8158a36%2F2021-cadillac-escalade-004.jpg"
-        width: 1200
-        height: 800
+      - url: "https://image.cnbcfm.com/api/v1/image/106347579-1579655232641cruise2.png?v=1579655319"
+        width: 810
+        height: 421
         isCached: true
   - title: "General Motors' Cruise To Launch 1 Mln Self-driving Cars By 2030"
     excerpt: "General Motors Co.'s (GM) autonomous vehicle subsidiary Cruise is planning to launch at least 1 million self-driving cars by the year 2030. General Motors is the majority stake-holder in the autonomous company."
@@ -54,76 +54,24 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "General Motors unveils Ultra Cruise self driving tech"
-    excerpt: "General Motors has unveiled Ultra Cruise, a new, advanced driver assistance technology which, it said, is a significant next step...Read"
-    publishedDateTime: 2021-10-07T10:38:00Z
-    webUrl: "https://www.just-auto.com/news/general-motors-unveils-ultra-cruise-self-driving-tech/"
+  - title: "GM to invest $300 million in Momenta to develop self-driving tech"
+    excerpt: "General Motors announced today it will invest $300 million in Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China."
+    publishedDateTime: 2021-10-07T15:45:00Z
+    webUrl: "https://www.plantservices.com/industrynews/2021/gm-to-invest-300-million-in-momenta-to-develop-self-driving-tech/"
     type: article
     provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/10/GM-UltraCruise-resize.jpg"
-        width: 682
-        height: 383
-        isCached: true
-  - title: "Tower Says New Tech A Boon For Self-Driving Cars"
-    excerpt: "Chipmaker Tower Semiconductor, with much of its domestic operations in Newport Beach, says it has helped to develop a new technology that will speed up the introduction of self-driving cars, while also finding future applications in robots and industrial production."
-    publishedDateTime: 2021-10-04T17:06:00Z
-    webUrl: "https://www.ocbj.com/news/2021/oct/04/tower-says-new-tech-boon-self-driving-cars/"
+      name: Plant Services
+      domain: plantservices.com
+    quality: 4
+  - title: "Roads for testing self-driving vehicles in Beijing stretch over 1,000 km"
+    excerpt: "BEIJING - A total of 278 roads stretching more than 1,027 km in Beijing have been opened for self-driving vehicle tests as of September end, according to Beijing Innovation Center for Mobility Intelligent (BICMI)."
+    publishedDateTime: 2021-10-09T02:22:00Z
+    webUrl: "https://www.publicnow.com/view/836EE090D9495578FAD7735A9A905A629A25DDDA"
     type: article
     provider:
-      name: Orange County Business Journal
-      domain: ocbj.com
-    quality: 24
-    images:
-      - url: "https://ocbj.media.clients.ellingtoncms.com/static-3-jet/zzz_static/ocbj/img/lock.png"
-        width: 256
-        height: 256
-        isCached: true
-  - title: "GM reveals Ultra Cruise, a more advanced semi-self-driving system"
-    excerpt: "General Motors has shown off some aspects of its new upgraded semi-autonomous driving system called Ultra Cruise. The system promises to be a huge leap over GM’s current hands-free driver assistance program Super Cruise."
-    publishedDateTime: 2021-10-06T20:27:00Z
-    webUrl: "https://mobilesyrup.com/2021/10/06/gm-reveals-ultra-cruise-a-more-advanced-semi-self-driving-system/"
-    type: article
-    provider:
-      name: MobileSyrup
-      domain: mobilesyrup.com
-    quality: 24
-    images:
-      - url: "https://cdn.mobilesyrup.com/wp-content/uploads/2021/01/gm-logo-header-scaled.jpg"
-        width: 2560
-        height: 1439
-        isCached: true
-  - title: "GM Ultra Cruise: Self-Driving Cars Can Finally Ditch Highways"
-    excerpt: "GM announced today its semiautonomous driving system called 'Ultra Cruise.' It aims to leapfrog Tesla in the race to self-driving cars."
-    publishedDateTime: 2021-10-07T18:30:00Z
-    webUrl: "https://gearjunkie.com/news/gm-ultra-cruise-self-driving-cars"
-    type: article
-    provider:
-      name: GearJunkie
-      domain: gearjunkie.com
-    quality: 24
-    images:
-      - url: "https://s3.amazonaws.com/images.gearjunkie.com/uploads/2021/10/GM-UltraCruise-1200x628.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "GM's Ultra Cruise to enable hands-free driving for 95% of driving in 2023"
-    excerpt: "GM's Ultra Cruise driver-assist system will arrive in 2023 to go beyond Super Cruise and provide hands-free driving on more than 2 million miles of road in the U.S. and Canada."
-    publishedDateTime: 2021-10-06T16:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1133793_gm-s-ultra-cruise-to-enable-hands-free-driving-for-95-of-driving-in-2023"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 23
-    images:
-      - url: "https://images.hgmsites.net/hug/cadillac-super-cruise_100625565_h.jpg"
-        width: 1920
-        height: 1275
-        isCached: true
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 3
 
 secured: "gSTYXoMFH0CpGXk/HaPXaV1+zKcw1MyEPnnQKSeFrKRUzdr98Er7sZZ1phZ3YG1THiGSzPE3k7okJ5lSmHzm4k7mJTGIaZ3MWLU6HSFo22jj+CvgrLAqhjIiT1fxKmMnjk/KCIhjSpwCMYSq9MddQu6vbb0s+HDkuDcS6CQe79p1Xb4pNPf4dejUQxulu0s0PJu1A+XwY2s9/cqwtvC0wuuefUS7JMzpK2b3CUeYDZRO7t39qYwOrsPP87Lyp2OJOwFv3eZ53QLTcOjG9mAl5/QAaYpbxizCQFO+80Bdp6tfmMjxJKq4sNmz9Dli8UHL96QjcMw22pmL/rmnAT93QagxAcIXQxYzqN2zMW+QmlCPejmN9a7Ailyf9dH9X18C5t2WJWeszuxyJ6A2qDo9myJxcA5XORm5vURMdGLChdsCDYrcfCRikZTYOSu/+rVfdcqGRHrtjLgWqjrEoX7F9dRQzAdLknkDcvq3kbfuRvoMLrBv2x80/iQU9KCB2lQ6Yd6sU6aX4nle1UU8r2l/eg==;P1+Ssd6GbJ+X7ilGTEBW2g=="
 ---

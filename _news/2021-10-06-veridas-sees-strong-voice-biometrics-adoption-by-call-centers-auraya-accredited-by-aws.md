@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202110/veridas-sees-strong-voice-b
 webUrl: "https://www.biometricupdate.com/202110/veridas-sees-strong-voice-biometrics-adoption-by-call-centers-auraya-accredited-by-aws"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gnani.ai launches voice biometrics software"
-    excerpt: "Gnani.ai a conversational AI and voice security domain announced the launch of its home-grown voice biometrics software armour365. The biometric solution caters to new and emerging risks in fraud prevention and information security."
-    publishedDateTime: 2021-10-04T11:11:00Z
-    webUrl: "https://www.ciol.com/gnani-ai-launches-voice-biometrics-software/"
-    ampWebUrl: "https://www.ciol.com/gnani-ai-launches-voice-biometrics-software/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/gnani-ai-launches-voice-biometrics-software/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 37
   - title: "Delta partners with TSA on face biometrics, Emirates and SITA discuss aviation trends"
     excerpt: "Delta has recently partnered with the U.S. Transport Security Administration (TSA) to deploy face biometrics to streamline check-in and security in Atlanta."
     publishedDateTime: 2021-10-08T16:38:00Z

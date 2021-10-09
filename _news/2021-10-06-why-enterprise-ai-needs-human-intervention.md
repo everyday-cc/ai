@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/information-management/why-enterprise-ai-nee
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/why-enterprise-ai-needs-human-intervention/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     width: 640
     height: 480
     isCached: true
-
-related:
-  - title: "The CIO's guide to managing enterprise AI"
-    excerpt: "How should Chief Information Officers prepare to lead AI efforts in the enterprise? The author of a new book explains exactly what you need to know, on episode #706 of the CXOTalk series of conversations with people shaping our world."
-    publishedDateTime: 2021-10-04T12:34:00Z
-    webUrl: "https://www.zdnet.com/article/the-cio-guide-to-managing-enterprise-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-cio-guide-to-managing-enterprise-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-cio-guide-to-managing-enterprise-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
 
 secured: "XyUE/6PPYSMIpfb++sR47Fxs43YJt/7KIq3ThgpeOL7GZm96/YYCXcJ4qCKdGzWT3Enh2RreCTAi/JRSfczzH+ccipLhlj6R/DivA9uviAPMQCQXGF4a2ayDb+uzKRj16G7V5PevJ6g/sEfgqcQR3+7+Ln8/f9lG0DmulCC5Q6cTpZPWRrZp0OtKzFQL+xBu2ZNTCn9Gl3EUjOPseoRasusC4/QtWrjES0XSzwfXTEg15ij8aBuFURR7TXxHQTMFKs+FSexjkkhbcpy7PHpUuEjgYA6hG1m2Ze0smGb6b/iaA2Sc+3nU4FDQj0zrMnomnVXf8PZw5zhNN8W4FyqRKykFFo8EllIrOqweFLE5d2E=;nwr2Pt4jC0m7B5iS8b1kfA=="
 ---

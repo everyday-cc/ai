@@ -43,20 +43,6 @@ related:
         width: 720
         height: 540
         isCached: true
-  - title: "TN CM launches face recognition software to aid police probe"
-    excerpt: "Tamil Nadu Chief Minister M.K. Stalin on Monday launched face recognition software to aid the state police in its investigations. The software would help"
-    publishedDateTime: 2021-10-04T11:57:00Z
-    webUrl: "https://www.canindia.com/tn-cm-launches-face-recognition-software-to-aid-police-probe/"
-    type: article
-    provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 54
-    images:
-      - url: "https://www.canindia.com/wp-content/uploads/2021/08/CIPLACEHOLDER.png"
-        width: 586
-        height: 390
-        isCached: true
   - title: "Experts worried about police's 'face recognition software' interfering with people's privacy"
     excerpt: "Tamil Nadu Chief Minister MK Stalin on October 4 announced a Face Recognition Software (FRS) to assist the state police in their investigati..|News Track"
     publishedDateTime: 2021-10-08T12:32:00Z

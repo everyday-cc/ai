@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2423251/secure-messaging-in-healthcare-ma
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2423251/secure-messaging-in-healthcare-market-development"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: openpr.com
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Healthcare Clinical Analytics Market To Make A Beeline To Technological Advancements Between 2022"
+    excerpt: "The Healthcare Clinical Analytics Market is expected to be worth US$ 28,000 Million at a CAGR of 15% between 2022 . Healthcare is going the“digital” way. In other words, artificial intelligence (AI)-enabled medical devices and telemedicine are the concrete instances of the proliferation of the digital wave in the healthcare industry."
+    publishedDateTime: 2021-10-09T05:43:00Z
+    webUrl: "https://menafn.com/1102942611/The-Healthcare-Clinical-Analytics-Market-To-Make-A-Beeline-To-Technological-Advancements-Between-2022"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?618537"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Cognitive Media Market Size Analysis By Growth, Emerging Trends and Future Opportunities"
     excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 04, 2021, 09:29 /Comserve / -- Cognitive Media Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies,"
     publishedDateTime: 2021-10-04T22:01:00Z

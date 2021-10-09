@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global GPU for Deep Learning Market 2021 Latest Trends, Industry Parameters and Competitive Landscape by 2027"
-    excerpt: "The most recent paper released by MRInsights.biz called Global GPU for Deep Learning Market Growth 2021-2027 offers a comprehensive critical assessment that includes many aspects of product definition,"
-    publishedDateTime: 2021-10-04T11:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-gpu-for-deep-learning-market-2021-latest-trends-industry-parameters-and-competitive-landscape-by-2027-2021-10-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global AI based Edge Computing Chip Market 2021 Industry Growth, Top Players, Segmentation and Forecast to 2027"
     excerpt: "MarketsandResearch.biz has recently published a report titled Global AI based Edge Computing Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 which assesses dynamic factors,"
     publishedDateTime: 2021-10-06T23:54:00Z
@@ -55,6 +41,34 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Self-Driving Truck Technology Market 2021 Industrial Chain, Regional Market Scope, Key Players Profiles and Sales Data to 2027"
+    excerpt: "Another report named, Global Self-Driving Truck Technology Market 2021 by Company, Regions, Type and Application, Forecast to 2027 has been added into its tremendous archive by MarketsandResearch.biz."
+    publishedDateTime: 2021-10-06T02:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-truck-technology-market-2021-industrial-chain-regional-market-scope-key-players-profiles-and-sales-data-to-2027-2021-10-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Education Market Size By Model: Forecast 2020-2028"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 07, 2021, 04:18 /Comserve / -- The global Artificial Intelligence in Education market is expected to be around US$ 5.80 Billion by 2025 at CAGR of 45% in the given forecast period."
+    publishedDateTime: 2021-10-07T08:42:00Z
+    webUrl: "https://menafn.com/1102931771/Artificial-Intelligence-in-Education-Market-Size-By-Model-Forecast-2020-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 53
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?202236"
+        width: 444
+        height: 250
         isCached: true
   - title: "AI In Computer Vision Market Report Global Industry Analysis By Size, Trends, Share, Competitive Landscape, And Regional Forecast To 2026"
     excerpt: "The research report on 'AI In Computer Vision market' scrutinizes the current industry scenario to predict market size, market share, and projects valuation for different segmentations of the industry over 2021-2026."
@@ -84,48 +98,90 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Far-field Speech Recognition Market 2021 Size, Trends, Scope, Demand, Opportunity and Forecast by 2027| Covering COVID-19 impact Analysis"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “ Far-field Speech Recognition Market ” report covering growth prospects, market development potential, profitability,"
-    publishedDateTime: 2021-10-07T09:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-recognition-market-2021-size-trends-scope-demand-opportunity-and-forecast-by-2027-covering-covid-19-impact-analysis-2021-10-07"
+  - title: "Artificial Intelligence in Security market by Market Research Report - Forecast 2020-2028"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 07, 2021, 07:28 /Comserve / -- The global Artificial Intelligence in Security market is expected to exceed more than US$ 42.30 Billion by 2025, at a CAGR of more than 21% in the given forecast period."
+    publishedDateTime: 2021-10-07T22:07:00Z
+    webUrl: "https://menafn.com/1102935340/Artificial-Intelligence-in-Security-market-by-Market-Research-Report-Forecast-2020-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 47
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?291272"
+        width: 436
+        height: 249
+        isCached: true
+  - title: "Global Cloud Machine Learning Market 2021 Key Business Strategies, Technology Innovation and Regional Data Analysis to 2027"
+    excerpt: "The report named Global Cloud Machine Learning Market 2021 by Company, Regions, Type and Application, Forecast"
+    publishedDateTime: 2021-10-06T03:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cloud-machine-learning-market-2021-key-business-strategies-technology-innovation-and-regional-data-analysis-to-2027-2021-10-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence in Video Games Market 2021 Industry Outlook, Present Scenario of Manufacturers, Analysis and Research Study by 2027"
-    excerpt: "MRInsights.biz has newly added a research report titled Global Artificial Intelligence in Video Games Market Growth (Status and Outlook) 2021-2027 is a detailed and dedicated analysis of the present scenario of the market covering the various aspects applicable to business growth."
-    publishedDateTime: 2021-10-04T11:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-video-games-market-2021-industry-outlook-present-scenario-of-manufacturers-analysis-and-research-study-by-2027-2021-10-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market 2021 Covering Major Driving Factors and Competitive Outlook till 2031"
-    excerpt: "The Speech and Voice Recognition market study by insightSLICE offers compelling insights into key growth drivers and restraints impacting the market through 2031. The survey offers Speech and Voice Recognition demand outlook and studies opportunities existing in key segments,"
-    publishedDateTime: 2021-10-04T12:04:00Z
-    webUrl: "https://manometcurrent.com/speech-and-voice-recognition-market-2021-covering-major-driving-factors-and-competitive-outlook-till-2031/"
-    ampWebUrl: "https://manometcurrent.com/speech-and-voice-recognition-market-2021-covering-major-driving-factors-and-competitive-outlook-till-2031/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/speech-and-voice-recognition-market-2021-covering-major-driving-factors-and-competitive-outlook-till-2031/?amp=1"
+  - title: "Image Recognition Market Analysis, Growth, Trends, Forecast by 2024 – TMR"
+    excerpt: "The presence of companies such as Google, Twitter, Facebook, International Business Machines (IBM) Corporation, Apple, etc., which are spearheading the global image recognition market, naturally makes North America the leading regional market for image recognition."
+    publishedDateTime: 2021-10-05T12:22:00Z
+    webUrl: "https://manometcurrent.com/image-recognition-market-analysis-growth-trends-forecast-by-2024-tmr/"
+    ampWebUrl: "https://manometcurrent.com/image-recognition-market-analysis-growth-trends-forecast-by-2024-tmr/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/image-recognition-market-analysis-growth-trends-forecast-by-2024-tmr/?amp=1"
     type: article
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 27
+    quality: 43
     images:
-      - url: "https://www.business.ru/images/001/1-1.jpg"
-        width: 500
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Ultrafast-Lasers-Market-A-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Artificial Intelligence Chipsets Market By Component: Regional Analysis - Global Forecast by 2020 2030"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 06, 2021, 00:24 /Comserve / -- The Artificial Intelligence Chipsets Market is expected to be around US$ 80.20 Billion by 2025 at a CAGR of 36% in the given forecast period."
+    publishedDateTime: 2021-10-06T18:45:00Z
+    webUrl: "https://menafn.com/1102928735/Artificial-Intelligence-Chipsets-Market-By-Component-Regional-Analysis-Global-Forecast-by-2020-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 23
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?160760"
+        width: 374
+        height: 249
+        isCached: true
+  - title: "Conversational AI Market to Reach $32.62 Billion, Globally, By 2030 at 20.0% CAGR: Allied Market Research"
+    excerpt: "Surge in demand for AI-powered customer support services, growth in adoption of data center applications, and rise in deployment of omni-channel methods drive the growth of the global conversational AI market."
+    publishedDateTime: 2021-10-06T13:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-conversational-ai-market-reach-3262-billion-globally-2030-/2021/10/06/9463990.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 20
+    images:
+      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg "
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Report (2021-2026) with COVID-19 Impact and Interview Excerpts o"
+    excerpt: "The \"Global Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. The \"Global Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market\" is likely to grow at a CAGR of around 23."
+    publishedDateTime: 2021-10-07T09:37:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=542985"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
         height: 339
         isCached: true
   - title: "Global Artificial Intelligence in Fintech Market Research Report (2021-2027) by Future Trend, Growth rate, Opportunity, Industry Analysis"
@@ -139,6 +195,34 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 4
+  - title: "Bot Services Market Insights by Leading Companies, Demand Analysis, Future Growth and Revenue Forecast to 2022"
+    excerpt: "The global bot services market size is expected to grow from USD 458.4 million in 2017 to USD 1,783.9 million by 2022, at a Compound Annual Growth Rate (CAGR) of 31.2%. The proliferation of millennial across social media channels and the use of Artificial Intelligence (AI),"
+    publishedDateTime: 2021-10-06T18:46:00Z
+    webUrl: "https://menafn.com/1102928698/Bot-Services-Market-Insights-by-Leading-Companies-Demand-Analysis-Future-Growth-and-Revenue-Forecast-to-2022"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 4
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?160760"
+        width: 374
+        height: 249
+        isCached: true
+  - title: "Emotion Detection and Recognition Markets by Solution, Application, Technology, & End-User - Global Forecast to 2027 - ResearchAndMarkets.com"
+    excerpt: "The “Emotion Detection and Recognition Market 2021-2027” report has been added to ResearchAndMarkets.com’s offering. The Emotion Detection and Recognition Market is anticipated to grow at the rate of 11."
+    publishedDateTime: 2021-10-07T14:44:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-0ff909975c8c48178df310e92e8eadad"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Artificial Blood Market 2021 – 2028 | Industry Insight By Key Players Cerus Corporation and Baxter International"
     excerpt: "The Global Artificial Blood Market has witnessed continuous growth in the past few years and is projected to grow even further during the forecast period (2021-2028). The research presents a complete assessment of the market and contains Future trend,"
     publishedDateTime: 2021-10-08T11:47:00Z

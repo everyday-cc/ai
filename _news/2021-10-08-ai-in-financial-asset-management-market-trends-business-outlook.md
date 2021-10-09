@@ -33,20 +33,6 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "How Architecture Firms are Leveraging AI to Optimize Their Businesses"
-    excerpt: "How do firms work smarter without spending tons of time wising up? By leveraging artificial intelligence—or AI."
-    publishedDateTime: 2021-10-04T11:39:00Z
-    webUrl: "https://www.archdaily.com/969461/how-architecture-firms-are-leveraging-ai-to-optimize-their-businesses"
-    type: article
-    provider:
-      name: ArchDaily
-      domain: archdaily.com
-    quality: 37
-    images:
-      - url: "https://images.adsttc.com/media/images/6157/5071/f91c/81fc/d800/0033/large_jpg/home-section-hero-img-optimized-1200x1200px.jpg?1633112165"
-        width: 1430
-        height: 903
-        isCached: true
 
 secured: "By0WNVANDHGwbQVr3+27KV8zpPm7wBwu8drV8GA9wQHrTgKnniXvdkrXI6z521OiI3eVaEIao18u0x3I5HJchMp6RxRSgdUOZP1lkbDASvo5k2ssdjbeQD5D6u2zsxRtOiA6hOFN4xdBzhtGQN06BS6LDSseyBmUN90fWYoVQO/0IhoA6/ppsBx5ekecoIokXFltMKnbr7aUmMW8UXHUULNHirw41YnnFp1R9ue02ZZr62LQQYnSWnAYqbEA0XFDi20HkSJ7OwDJIOuXK2VmTkwetUCpyFj4Qitf8gx22yDAm9eT1Xgluh/hSnkBIUC+h1qUpsmEZNh26rXo2jxbgV41q/v47M5eCvvc/gmBR+8=;f0+M06FJr7rxuInMzuajLg=="
 ---

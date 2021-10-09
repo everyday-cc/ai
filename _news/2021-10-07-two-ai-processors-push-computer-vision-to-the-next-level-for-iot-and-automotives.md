@@ -7,7 +7,7 @@ originalUrl: "https://www.allaboutcircuits.com/news/two-ai-processors-push-compu
 webUrl: "https://www.allaboutcircuits.com/news/two-ai-processors-push-computer-vision-to-the-next-level-for-iot-and-automotives/"
 type: article
 quality: 51
-heat: 71
+heat: 75
 published: true
 
 provider:

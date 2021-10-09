@@ -41,33 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "GM's self-driving subsidiary Cruise aims for fleet of 1M vehicles by 2030"
-    excerpt: "General Motors subsidiary Cruise is scaling up operations, with a goal of at least 1 million self-driving vehicles in its ride-sharing fleet by 2030."
-    publishedDateTime: 2021-10-07T14:55:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/10/07/Cruise-self-driving-vehicles/1251633613853/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/10/07/Cruise-self-driving-vehicles/1251633613853/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/10/07/Cruise-self-driving-vehicles/1251633613853/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 58
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/1251633613853/2021/1/16336147327899/v1.5/GMs-self-driving-subsidiary-Cruise-aims-for-fleet-of-1M-vehicles-by-2030.jpg"
-        width: 563
-        height: 377
-        isCached: true
-  - title: "General Motors' Cruise To Launch 1 Mln Self-driving Cars By 2030"
-    excerpt: "General Motors Co.'s (GM) autonomous vehicle subsidiary Cruise is planning to launch at least 1 million self-driving cars by the year 2030. General Motors is the majority stake-holder in the autonomous company."
-    publishedDateTime: 2021-10-07T21:30:00Z
-    webUrl: "https://www.nasdaq.com/articles/general-motors-cruise-to-launch-1-mln-self-driving-cars-by-2030-2021-10-07"
-    ampWebUrl: "https://www.nasdaq.com/articles/general-motors-cruise-to-launch-1-mln-self-driving-cars-by-2030-2021-10-07?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/general-motors-cruise-to-launch-1-mln-self-driving-cars-by-2030-2021-10-07?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Tower Says New Tech A Boon For Self-Driving Cars"
     excerpt: "Chipmaker Tower Semiconductor, with much of its domestic operations in Newport Beach, says it has helped to develop a new technology that will speed up the introduction of self-driving cars, while also finding future applications in robots and industrial production."
     publishedDateTime: 2021-10-04T17:06:00Z

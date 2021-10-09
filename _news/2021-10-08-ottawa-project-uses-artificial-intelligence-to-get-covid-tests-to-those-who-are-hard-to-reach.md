@@ -9,7 +9,7 @@ ampWebUrl: "https://ottawacitizen.com/news/local-news/ottawa-project-uses-artifi
 cdnAmpWebUrl: "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/news/local-news/ottawa-project-uses-artificial-intelligence-to-get-covid-tests-to-those-who-are-hard-to-reach/wcm/204904cc-5521-4b7e-a293-8fffe10e53f5/amp/"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1000
     height: 750
     isCached: true
-
-related:
-  - title: "AI Covid warrior online contest winners announced"
-    excerpt: "Students from Grade 3 to 12 participated and came up with innovative solutions to tackle Covid problem with AI"
-    publishedDateTime: 2021-10-04T11:27:00Z
-    webUrl: "https://www.dqindia.com/ai-covid-warrior-online-contest-winners-announced/"
-    ampWebUrl: "https://www.dqindia.com/ai-covid-warrior-online-contest-winners-announced/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-covid-warrior-online-contest-winners-announced/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 59
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/05/human-simulation-main_opt.jpg"
-        width: 850
-        height: 478
-        isCached: true
 
 secured: "+dkQipU3z4x8artbkTtVCchFjoIPQ9Vc+llufAgF/FttSWqngvi6gm7ABvBflMhx4GvH07G1y0OtalGLO7i15CxRcA0/Yy/nabkLWa1SRSk7LzjcWkGYFkl//S4TXcDNSZam5P0NGlFg1gZMv+NIxhh3EUdmAUJ4m3FbbdDGzovPnONNh+cIdA8jcjRnqRFnS6qoSaC1D0QlPdixLVjNAV5qG/luzYkd9uGiwVh4F/XaI4pM7l0mPrk2vaKOVs2eLLzsH58hM0a7kvMb1QUeeovfd8EinTLXaW+dDGXi5fhSSotZW13kiRFzw6qDPwOq/PxO59jEMtD63F7JRjkklNVgIgZUxOmCr/5lEnmA4Pw=;TiLzSel5+0PrVwWEx+jIgQ=="
 ---

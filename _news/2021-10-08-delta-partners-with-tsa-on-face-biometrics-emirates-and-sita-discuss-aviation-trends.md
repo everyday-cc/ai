@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gnani.ai launches voice biometrics software"
-    excerpt: "Gnani.ai a conversational AI and voice security domain announced the launch of its home-grown voice biometrics software armour365. The biometric solution caters to new and emerging risks in fraud prevention and information security."
-    publishedDateTime: 2021-10-04T11:11:00Z
-    webUrl: "https://www.ciol.com/gnani-ai-launches-voice-biometrics-software/"
-    ampWebUrl: "https://www.ciol.com/gnani-ai-launches-voice-biometrics-software/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/gnani-ai-launches-voice-biometrics-software/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 37
   - title: "Veridas sees strong voice biometrics adoption by call centers, Auraya accredited by AWS"
     excerpt: "Veridas reports impressive adoption of its voice biometrics by call centers, AWS accreditation for Auraya voice biometrics."
     publishedDateTime: 2021-10-05T19:59:00Z
