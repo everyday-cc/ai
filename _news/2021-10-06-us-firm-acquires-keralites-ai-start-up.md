@@ -42,20 +42,6 @@ related:
         width: 1388
         height: 781
         isCached: true
-  - title: "Gap Acquires AI Startup CB4; Terms Not Disclosed"
-    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
-    publishedDateTime: 2021-10-04T16:00:00Z
-    webUrl: "https://www.benzinga.com/m-a/21/10/23220930/gap-acquires-ai-startup-cb4-terms-not-disclosed"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Gap buys artificial intelligence start-up Context-Based 4 Casting"
     excerpt: "SoQ錫濛譙 / Flickr. US-based lifestyle retailer Gap has purchased artificial intelligence (AI) start-up Context-Based 4 Casting (CB4) for an undisclosed sum. Based in New York, CB4 uses advanced AI and machine learning tools to make predictive analytics and demand sensing to support sales and streamline the customer experience."
     publishedDateTime: 2021-10-05T15:25:00Z
@@ -140,15 +126,6 @@ related:
         width: 1024
         height: 667
         isCached: true
-  - title: "Gap Inc. Acquires AI Startup CB4"
-    excerpt: "Gap Inc. (NYSE: GPS) has acquired the New York and Tel Aviv based start-up Context-Based 4 Casting Ltd. that uses cutting-edge AI and machine learning tools to transform retail op"
-    publishedDateTime: 2021-10-04T16:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-gap-inc-acquires-ai-startup-cb4-/2021/10/04/9461964.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "e7A4uwpJzR/hjmPKZ/hBW1QHOmEKFeI0EpCPA0wqowv8qWf/k7oEAJH3D14YlKZIyGtvQrXY/cSN7P16ySwWLoHXhnvI/tOdoGNRMjoGfrZLDqB64p5po85oS7e0tdjG+ipZ6okNeuxI9r5qdqBnTeLNd7i5Gj7feUWBvcLHAXrGX/lYAX/DqOy0+iJh8wwHa2cg6S/3RlgkM7QUoDeOsX/wBq+ZwlpJPAbxvhQeHHrLX6MKQkAg+he6QLwFGyE8BgxcXy9nIwZjxaMm7YpkaVcTmc0RaR+pkKn0asQM2FrJOUxVd6GaB9HckeO1PsB1REMHyNL89H2GkvnaHrWTPoaivsfbNm1GUpLOdysgu7QR/e/BbZXV5931G3JVFa+hGVKoK8W1WgCNmdGX4IXCLYjI1PPOWgUyttaQNmOeGAid4yHTAiOnj/ohMcft4NLjsOLbCg8PsmHTRUcR/ep60sO/Vqz1/v97ebSHgZWhAUrTIYMNWojXfU6mD9LpLvEhMAYQ6QhjeDNICTf0TqPoUg==;rfUVekCgy79PTvGAcmD02A=="
 ---

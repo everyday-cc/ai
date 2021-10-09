@@ -83,6 +83,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Artificial Intelligence Advances Breast Cancer Detection"
+    excerpt: "With artificial intelligence technology, medical professionals can quickly and accurately sort through breast MRIs in patients with dense breast tissue to eliminate those without cancer. Mammography has assisted in reducing breast cancer-related deaths by providing early detection when cancer is still treatable."
+    publishedDateTime: 2021-10-07T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-advances-breast-cancer-detection"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2019-11-18-GettyImages-1047719428.png"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "9cK/fyficuF5kltNk/GUOFx1zrwYpj9nSaZEdMJOvJbGSMZTeypULLso9akq8Z1IY1mAWxkDLzbxVWmZYXfU+2Whcqe9bSUmsyQ5o09XuPqTXkDlHb47da3wNE1hQjWZII7vuekV6gStZ+Kc2RZCgqG1lDh9tApEh1p+kClxQ5ueZK/5CKQK7SS451YegZ5qK2H7zXyAUDHwsp3JRN2DTA0kZn3s9KcJavWmJ/VbMBfp5QQXd14ENnI4ZuHCW6Rstif2rIxvJbjA6GqTbFASpwKwzq+lpdWJBjtUm5uY7dhYshCjsl3xN/8GK3HLqNAk+2CyPKxizfrbQJy+EcyzSSgjQ7/CZjfnarCBBls62ftvlCVhcMES2E+jPfpiUkc9EbElSwXEkGzwGShMuNwbo8fCqXyEVYD5fFa/L72FsPovGRo8+gHjG6acomjA8s/W9iBMDSK4nIc/BPRCMu/1w2KTlXcbvhj9WcK7m7sJriXU6TL+xP0/55CPM/veMJNhYfgRTfcoksQNQtylRAFMmw==;S06/nuTx9pNjYG+1Fkz65Q=="
 ---

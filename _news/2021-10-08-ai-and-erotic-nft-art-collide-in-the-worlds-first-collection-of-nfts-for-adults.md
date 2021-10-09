@@ -27,14 +27,14 @@ related:
   - title: "Avastars And Alethea AI Stage First Conversation Between Intelligent NFTs (iNFTs)"
     excerpt: "AI Collaboration Proves NFTs Aren't Just Capable of Communicating Directly with Humans, but Also with Each Other"
     publishedDateTime: 2021-10-08T20:39:00Z
-    webUrl: "https://www.fox8live.com/prnewswire/2021/10/08/avastars-alethea-ai-stage-first-conversation-between-intelligent-nfts-infts/"
+    webUrl: "https://www.13abc.com/prnewswire/2021/10/08/avastars-alethea-ai-stage-first-conversation-between-intelligent-nfts-infts/"
     type: article
     provider:
-      name: WVUE FOX 8 News
-      domain: fox8live.com
+      name: 13abc.com
+      domain: 13abc.com
     quality: 32
     images:
-      - url: "https://gray-wvue-prod.cdn.arcpublishing.com/resizer/515raYnGYiAh_iZS8u752n1Xt8Y=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/BD6FTZLL7G45EDT4FOKUEZTYEQ.jpg"
+      - url: "https://gray-wtvg-prod.cdn.arcpublishing.com/resizer/515raYnGYiAh_iZS8u752n1Xt8Y=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/BD6FTZLL7G45EDT4FOKUEZTYEQ.jpg"
         width: 980
         height: 551
         isCached: true

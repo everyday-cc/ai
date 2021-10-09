@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.amp"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -83,6 +83,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Artificial Intelligence Advances Breast Cancer Detection"
+    excerpt: "With artificial intelligence technology, medical professionals can quickly and accurately sort through breast MRIs in patients with dense breast tissue to eliminate those without cancer. Mammography has assisted in reducing breast cancer-related deaths by providing early detection when cancer is still treatable."
+    publishedDateTime: 2021-10-07T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-advances-breast-cancer-detection"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2019-11-18-GettyImages-1047719428.png"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "LsXaOUYDfsmDdZiOnDEBAAn1kaMyYgoyq2NFye7OPlLQQ9v5rZUA1bviAsgSFU3U1S78yBkAjwvwfYWbZlo4wPXmvypP+g0+MnkE02j39Iqg0ennsX1Ns/lQtPoH5NqfoWI5hxmDNbTih13HA/nNrZ9shDFRBGHKPGhBzWHLegTBdrbTF3Z8JE0eWLqpFv9ii1spb8sj6/q4pVbEQ3SBk/bxi2wPwOUSkF2NWCgvRZtvHWCO5t7wBwRwqB69xzTlBxujfDcEMAtDOGpOGTmU6e9TJV2y2Q8u/ljtwDSHFHf9d2N7EbWxYrY/8E0RoqB77AtrrY4L6RVKakmM/r4Ay9OVFSS9Xpv2oQhePDFazgw=;qvRZQgai4CsqY0M2hiCUkw=="
 ---

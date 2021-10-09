@@ -7,8 +7,8 @@ originalUrl: "https://www.artificiallawyer.com/2021/10/05/pushing-the-accelerato
 webUrl: "https://www.artificiallawyer.com/2021/10/05/pushing-the-accelerator-tesla-and-legal-ai/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: artificiallawyer.com
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "EdgeCortix Acquires Multiple Patents for Dynamic Neural Accelerator® AI Processor Technology"
-    excerpt: "EdgeCortix Inc. (Tokyo, Japan; CEO: Sakyasingha Dasgupta), the company that enables efficient AI processing at the edge with near"
-    publishedDateTime: 2021-10-04T16:20:00Z
-    webUrl: "https://www.asiaone.com/business/edgecortix-acquires-multiple-patents-dynamic-neural-accelerator-ai-processor-technology"
-    ampWebUrl: "https://www.asiaone.com/business/edgecortix-acquires-multiple-patents-dynamic-neural-accelerator-ai-processor-technology?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/edgecortix-acquires-multiple-patents-dynamic-neural-accelerator-ai-processor-technology?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 50
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Oct2021/pr-newswire_500_4_42.jpg?itok=4Zyygxw8"
-        width: 763
-        height: 509
-        isCached: true
   - title: "Federal Government Spending on AI is Accelerating"
     excerpt: "The adoption of AI by the US federal government is accelerating, with defense agencies leading the way and services suppliers benefitting."
     publishedDateTime: 2021-10-07T18:11:00Z

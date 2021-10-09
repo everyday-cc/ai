@@ -39,22 +39,6 @@ related:
         width: 2007
         height: 1375
         isCached: true
-  - title: "EdgeCortix Acquires Multiple Patents for Dynamic Neural Accelerator® AI Processor Technology"
-    excerpt: "EdgeCortix Inc. (Tokyo, Japan; CEO: Sakyasingha Dasgupta), the company that enables efficient AI processing at the edge with near"
-    publishedDateTime: 2021-10-04T16:20:00Z
-    webUrl: "https://www.asiaone.com/business/edgecortix-acquires-multiple-patents-dynamic-neural-accelerator-ai-processor-technology"
-    ampWebUrl: "https://www.asiaone.com/business/edgecortix-acquires-multiple-patents-dynamic-neural-accelerator-ai-processor-technology?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/edgecortix-acquires-multiple-patents-dynamic-neural-accelerator-ai-processor-technology?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 50
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Oct2021/pr-newswire_500_4_42.jpg?itok=4Zyygxw8"
-        width: 763
-        height: 509
-        isCached: true
 
 secured: "EyYLXxlOhOKbVCVNokJTlcXcg2eeLb91i7BtjQStCKBvftVn8ftuN865j8afFMo9Omx1IdMgxX0JnRtzhpU4EOmRY9tDkLngRdcaSgflrBvWSZjl2SFfkA4W7DR7enFNVDfzIk5Dt1hMlZtdaV2RQDteFKFi+vii67fb9sUUUJVcrN9PEoEjMfcAbNkVcjTWsY5PW7H4H7vGvBSQtgdoxj8Rx6ihrUUOTuy7GASI2i/Rr/y6rLyAZqVZ7hiOtC/LWkY5fa0D3TOaUOeskssiuq+CT6IuEL3sLeRS5tz7iCcFiNMx6pi2IKx3Iz6/CoL7Y0Khjz7bjGO3IqOt3/vt5Q6cT09dkHOZxM9awXJWxalixOdnzF1PfXdQlowPLsajLwSMKEVAOk2EFfbd53y3XQksDfWqfLD949mQqKOqALpV/Vntq/cnfOTzwQJqfOhMmHEvV5hgQSZX34mbLfKqeiaaYirs6SxSPHvfT9YjFjp3Me+o+6p/aZTPo8XPatbdwLyaS681ewsz+IogLTd49Q==;OFIus+Woftug6vmBGwZM+Q=="
 ---

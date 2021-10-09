@@ -41,22 +41,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "How Will Self-Driving Cars Change the Way We Live?"
-    excerpt: "After a few years of radio silence, autonomous vehicles are in the news again. Here is a review of how we thought they might change the world."
-    publishedDateTime: 2021-10-04T16:14:00Z
-    webUrl: "https://www.treehugger.com/how-self-driving-cars-change-the-way-we-live-5204422"
-    ampWebUrl: "https://www.treehugger.com/amp/how-self-driving-cars-change-the-way-we-live-5204422"
-    cdnAmpWebUrl: "https://www-treehugger-com.cdn.ampproject.org/c/s/www.treehugger.com/amp/how-self-driving-cars-change-the-way-we-live-5204422"
-    type: article
-    provider:
-      name: TreeHugger
-      domain: treehugger.com
-    quality: 44
-    images:
-      - url: "https://www.treehugger.com/thmb/IaocmPhCwqF3FFckRlbmiRTjH3A=/3076x1775/filters:fill(auto,1)/chandler_depot-f96eb37f804b4f40b34ccb29392d7d4d.jpeg"
-        width: 3076
-        height: 1775
-        isCached: true
   - title: "Making self-driving cars human-friendly"
     excerpt: "Automated vehicles could be made more pedestrian-friendly thanks to new research which could help them predict when people will cross the road."
     publishedDateTime: 2021-10-05T08:07:00Z
@@ -109,6 +93,20 @@ related:
       - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/10/apple-car.jpg"
         width: 640
         height: 335
+        isCached: true
+  - title: "Apple Admits It’s Working on Self-Driving Car Technology"
+    excerpt: "It’s been a while since we last heard something about the Apple Car, but this doesn’t necessarily mean the Cupertino-based tech giant has abandoned plans for its own self-driving car."
+    publishedDateTime: 2021-10-09T06:41:00Z
+    webUrl: "https://www.autoevolution.com/news/apple-admits-its-working-on-self-driving-car-technology-171342.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 24
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/apple-admits-its-working-on-self-driving-car-technology-171342-7.jpg"
+        width: 728
+        height: 300
         isCached: true
 
 secured: "W0kLu2qQztJ+SWfhubmJNXBzYiQWRO7YDngem5D8GX5C3o8W3QwmYNYsPbGxp9pffNQA/Apht3iZqqCkRFIey6hH+dL1frNktNhmCP4bj1y54I71Zz9xQwi9//UxCP46hfC6q7QUvD2AZPVN0irfeuf5h85f5lgi6oyszzMBoQbhanaXVCVYkrrSfodWF0UjlKkbHceNGKQn5D8sRb3uCSMg6BcM6yVe69IUO/BJamjdphEf17jTHiL32bQy/w/O7CsVfiLBPH0ZB0kdmPPkDpdRtDRZsCqDXy7YVme1JCJK//WhnuC8O8vE2ucumKSOMpR8Tzy4UbBaOK7L+0dpjvqqSGkKitzgOubwLQUgmKo=;PghfXpY1lQ1eb15qivDr2w=="

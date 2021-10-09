@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-ai-based-edge-com
 webUrl: "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2021-industry-growth-top-players-segmentation-and-forecast-to-2027-2021-10-06"
 type: article
 quality: 64
-heat: 224
+heat: 234
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global GPU for Deep Learning Market 2021 with (COVID-19) Impact Analysis, Product Type, Application, Key Manufacturers, Regions and Forecast to 2027"
+    excerpt: "The foremost aim of this report titled Global GPU for Deep Learning Market 2021 by Manufacturers, Regions, Type"
+    publishedDateTime: 2021-10-06T02:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-gpu-for-deep-learning-market-2021-with-covid-19-impact-analysis-product-type-application-key-manufacturers-regions-and-forecast-to-2027-2021-10-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

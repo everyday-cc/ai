@@ -1,32 +1,46 @@
 ---
 category: news
-title: "Self-driving cars have brain wave"
-excerpt: "Self-driving supermarkets and autonomous electric taxis capable of slashing emissions in New York are some of the innovations driving the driverless revolution. The issue of safety is the recurring question though,"
-publishedDateTime: 2021-10-05T14:28:00Z
-originalUrl: "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/"
-webUrl: "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/"
-ampWebUrl: "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/amp/"
-cdnAmpWebUrl: "https://www-innovatorsmag-com.cdn.ampproject.org/c/s/www.innovatorsmag.com/self-driving-cars-have-brain-wave/amp/"
+title: "Apple Admits It’s Working on Self-Driving Car Technology"
+excerpt: "It’s been a while since we last heard something about the Apple Car, but this doesn’t necessarily mean the Cupertino-based tech giant has abandoned plans for its own self-driving car."
+publishedDateTime: 2021-10-09T06:41:00Z
+originalUrl: "https://www.autoevolution.com/news/apple-admits-its-working-on-self-driving-car-technology-171342.html"
+webUrl: "https://www.autoevolution.com/news/apple-admits-its-working-on-self-driving-car-technology-171342.html"
 type: article
-quality: 59
-heat: 119
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: innovatorsmag.com
-  domain: innovatorsmag.com
+  name: autoevolution.com
+  domain: autoevolution.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.innovatorsmag.com/wp-content/uploads/2021/10/erik-mclean-ZWW2SDPaC54-unsplash-scaled.jpg"
-    width: 2560
-    height: 1707
+  - url: "https://s1.cdn.autoevolution.com/images/news/apple-admits-its-working-on-self-driving-car-technology-171342-7.jpg"
+    width: 728
+    height: 300
     isCached: true
 
 related:
+  - title: "Self-driving cars have brain wave"
+    excerpt: "Self-driving supermarkets and autonomous electric taxis capable of slashing emissions in New York are some of the innovations driving the driverless revolution. The issue of safety is the recurring question though,"
+    publishedDateTime: 2021-10-05T14:28:00Z
+    webUrl: "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/"
+    ampWebUrl: "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/amp/"
+    cdnAmpWebUrl: "https://www-innovatorsmag-com.cdn.ampproject.org/c/s/www.innovatorsmag.com/self-driving-cars-have-brain-wave/amp/"
+    type: article
+    provider:
+      name: innovatorsmag.com
+      domain: innovatorsmag.com
+    quality: 59
+    images:
+      - url: "https://www.innovatorsmag.com/wp-content/uploads/2021/10/erik-mclean-ZWW2SDPaC54-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Making self-driving cars human-friendly"
     excerpt: "Automated vehicles could be made more pedestrian-friendly thanks to new research which could help them predict when people will cross the road."
     publishedDateTime: 2021-10-05T08:07:00Z
@@ -94,21 +108,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Apple Admits It’s Working on Self-Driving Car Technology"
-    excerpt: "It’s been a while since we last heard something about the Apple Car, but this doesn’t necessarily mean the Cupertino-based tech giant has abandoned plans for its own self-driving car."
-    publishedDateTime: 2021-10-09T06:41:00Z
-    webUrl: "https://www.autoevolution.com/news/apple-admits-its-working-on-self-driving-car-technology-171342.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 24
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/apple-admits-its-working-on-self-driving-car-technology-171342-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
 
-secured: "3EGxNs9OFm09b6Ugl50yhb/y18+poVpTHNsvMYtGmnheLDe6vGNrusDSJa/2YGovuaztOtMsWDrs2l/wX6xXMpCYWROp1Bt4L33SjiDvD9Lg50iBGmqn7Piw7dqDz7cWFaPbf16GlMCP5YxrwrAd5urTBIiq6tuVDbGKlrdIri4WGjr5BxbbxYv2+HGfseAhwo+MOHKHCV1BTkxILyPOzy7L6QPhHZw2DBl6QuDvrSafk9/F4czYm9dodq4ohg438COd0lpdySS+BE3WNudLccv6zQnP3OpRSZcxiZKuJ6hN/yVcF8rar4jPJEVDwAr+yG4p8TtKtIx4pNAyy1tGDQ7MCXOtHqUiM/d3HAotQPC53aABsmPZWI2G8KUgj4nRJM2GBBlx895KD/iopIqJWNWho/oH+XUE4B9wyyDVr63/mggQD3I30J1qwOY8ZBHJyI79WLd7rmQ2bGq1cP7RPFYQyMTcnC8fhRCINWWDu6ueZ3Gp1bd3mmP0xQDwTvUX2kN7JwvTUWuQQxNQlfOTkw==;izi/RGlhKLCcOA8rJVGCvQ=="
+secured: "mlWxWR7ialGQqPj603f6iumM8YlFNYhjBTcvLTWIPCP0FOj6h9fngtL0TZ9ap05YkM7PLMEt5Z8MCuqHv2VZkXRkoF9pWfap6zTrOQ49fUPmQBw3SbVQIOzWHSG7DqecSW5Uv7mrhVjb7sv1UiJXX/6MJxFonqaroavVizFcuZE2uSiLSucw/VLn+JGbKcolK5QeL9H3bbiG5RRjvecLaZK1b1Nl+JWACctaCFKbb41P7GeJggQqu2Z/PWXOpxeCYCPqeljgLql6V2aQBl45W5wtCDeIQJbFoD+Wb+yvkNSJhmJIxGeY6YC97gnroJOk2JubGErxmInxXFI94Y/AWmqM09eIN1mpIHzg9TifOO8=;FnhEDX+tiEnBNd572EL4oQ=="
 ---
 

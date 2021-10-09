@@ -110,6 +110,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global GPU for Deep Learning Market 2021 with (COVID-19) Impact Analysis, Product Type, Application, Key Manufacturers, Regions and Forecast to 2027"
+    excerpt: "The foremost aim of this report titled Global GPU for Deep Learning Market 2021 by Manufacturers, Regions, Type"
+    publishedDateTime: 2021-10-06T02:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-gpu-for-deep-learning-market-2021-with-covid-19-impact-analysis-product-type-application-key-manufacturers-regions-and-forecast-to-2027-2021-10-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Cloud Machine Learning Market 2021 Key Business Strategies, Technology Innovation and Regional Data Analysis to 2027"
     excerpt: "The report named Global Cloud Machine Learning Market 2021 by Company, Regions, Type and Application, Forecast"
     publishedDateTime: 2021-10-06T03:13:00Z

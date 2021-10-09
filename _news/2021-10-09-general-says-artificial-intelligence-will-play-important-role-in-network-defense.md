@@ -1,22 +1,28 @@
 ---
 category: news
 title: "General Says Artificial Intelligence Will Play Important Role in Network Defense"
-excerpt: "General Says Artificial Intelligence Will Play Important Role in Network Defense. Attacks by hostile governments and"
-publishedDateTime: 2021-10-09T05:50:00Z
-originalUrl: "https://www.globalsecurity.org/military/library/news/2021/10/mil-211008-dodnews01.htm"
-webUrl: "https://www.globalsecurity.org/military/library/news/2021/10/mil-211008-dodnews01.htm"
+excerpt: "Attacks by hostile governments and criminal networks on civilian and DOD cyberspace assets are constant threats, and as artificial intelligence grows in cyberspace, it will become a target as well,"
+publishedDateTime: 2021-10-08T17:37:00Z
+originalUrl: "https://www.defense.gov/News/News-Stories/Article/Article/2805760/general-says-artificial-intelligence-will-play-important-role-in-network-defense/utm_sq/gv8rg5cipk/"
+webUrl: "https://www.defense.gov/News/News-Stories/Article/Article/2805760/general-says-artificial-intelligence-will-play-important-role-in-network-defense/utm_sq/gv8rg5cipk/"
 type: article
-quality: 12
-heat: 12
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: GlobalSecurity.org
-  domain: globalsecurity.org
+  name: US Department of Defense
+  domain: defense.gov
 
 topics:
   - AI
 
-secured: "VU5qRDYAD4vRGiGxC2rx9E9vv7uzoBl44y/USmLk4AnFK6vC/ou9n1jcpooRYojKPK4KzidDV19wJ8gbFM2/vCUBRaAtrVQ1T1FK58qkkruWqPiGTLwG1pFc+hiJio349CDv08M56P407i5ee3pNJhu0Ifa/54RENQv7vot3OWYLk3JjeyFyU9i2/1Rgt+BUWp7x/Ceq52HgPTDCkrnvGtMsEi0ky7OLqvMzC9bpZASzkNpkewVXKUfZDePk1nD1cdwrP0bDkzUCd/opzFAle8Lxi68628A11XTAUX5zFcJkDfyrz9c3P4ibBDi+fUqFrmrFyLT8Jq+xuKdynC2Y+eTBga4fQPy4KERHRGyQdNs=;rOWjQKnpPP3E4cjs0h7zhA=="
+images:
+  - url: "https://media.defense.gov/2021/Oct/08/2002870962/1280/1280/0/210726-M-TP104-1007.JPG"
+    width: 1280
+    height: 853
+    isCached: true
+
+secured: "E1YPwkqiAyLfMJevcZ63E6Qh7GX/RVprv0eoLeNpDnpf45M7I4wCOTx/FwsQseZWlyTzC9C6UjK+qRAzsoxxKeouMBsjCSreRj9GVc4dH7EpV/piUOYuTc9kRrnYSRQxZBm20lTQH2O1z1ch8hx+Fe/mPT7P5s3uENb9OcgngUw9/gRf30vccIsBi9qGHhdwmZrNtq+1H6hHM71qxmAQelg6WKrkajj8/9vvQLJuBnGUeFL/5qJivchhe1rGusn3hBAWjHXarR7D23LYE4ieuY0Hbwgb5vATQ2+KD023tq7rOd9WXQf+rcF7y4VXrHr5LpSh6teqaeXMO+JlBNzCcudWaxw3FsjkB0ORIjS9Z90=;8Y/IcVlXEg/t4t+AAGWPYg=="
 ---
 

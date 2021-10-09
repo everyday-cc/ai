@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-tel-aviv-health-diabetes-b8b0d67c11c74d4daa1c164d835a024d"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "AMA spins out AI-based clinical decision support company"
-    excerpt: "RecoverX, which seeks to support decision-making for physicians in over 30 specialties through its artificial intelligence platform. Five details: RecoverX provides physicians with a short list of insights and next-best action suggestions based on information from clinical charts,"
-    publishedDateTime: 2021-10-04T15:16:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ama-spins-out-ai-based-clinical-decision-support-company.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 37
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg"
-        width: 400
-        height: 300
-        isCached: true
 
 secured: "XdseA1mw6QEBVN9goPe2/89BKsN5Zoop5pPpO+WfEObdBQCIfjrAux/UaqRN6wJ9smA3dr03gnArQb8Vnw6mVG2rZV5u2cAZnyIHr1yflhMAObSHplX/lBVUQS591tHP3VhAjo43w/+Tje6CmDQUkVIm0t5u7gbZ9WEE0RyDxUaBQ34u2zdKaRXyNPWmtRm2ufy6c1aEX0FvWxYdPCTwJL1ImRBbpkou8lR+tIkgp4WcyWXK4YxPC9mBuY0iNuHvNUQlHIietIJthujlxoaWMTI4Ddbro8VMWpsCChskJvU55rDcr+ep/hHUZedmsTeeLD27mO0eJtnkXtN3nXoRUJ2gJoPoSsUGDgPyYRDarMs=;vMPzLBmUZZM3t+8H/pQPcg=="
 ---

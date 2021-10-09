@@ -9,7 +9,7 @@ ampWebUrl: "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-start
 cdnAmpWebUrl: "https://fashionunited-com.cdn.ampproject.org/c/s/fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600"
 type: article
 quality: 74
-heat: 164
+heat: 144
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://english.mathrubhumi.com/polopoly_fs/1.783633.1452191436!/menu/standard/file/490.png"
         width: 490
         height: 268
-        isCached: true
-  - title: "Gap Acquires AI Startup CB4; Terms Not Disclosed"
-    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
-    publishedDateTime: 2021-10-04T16:00:00Z
-    webUrl: "https://www.benzinga.com/m-a/21/10/23220930/gap-acquires-ai-startup-cb4-terms-not-disclosed"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Gap buys artificial intelligence start-up Context-Based 4 Casting"
     excerpt: "SoQ錫濛譙 / Flickr. US-based lifestyle retailer Gap has purchased artificial intelligence (AI) start-up Context-Based 4 Casting (CB4) for an undisclosed sum. Based in New York, CB4 uses advanced AI and machine learning tools to make predictive analytics and demand sensing to support sales and streamline the customer experience."
@@ -141,15 +127,6 @@ related:
         width: 1024
         height: 667
         isCached: true
-  - title: "Gap Inc. Acquires AI Startup CB4"
-    excerpt: "Gap Inc. (NYSE: GPS) has acquired the New York and Tel Aviv based start-up Context-Based 4 Casting Ltd. that uses cutting-edge AI and machine learning tools to transform retail op"
-    publishedDateTime: 2021-10-04T16:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-gap-inc-acquires-ai-startup-cb4-/2021/10/04/9461964.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "otF3HlWP0uHSSCsyed0wqS2TtQCNU+r9yDpQ7yfWaw6Hhx7LQXohDaYc7CHVBvUWoBtzamD5IjqtwCf7KO+LnLAUP2C+S5O+PqR62YTlGncB8V7W/3Z3iN9qchGw9V7u7uX2tQGjv7YKyDOcxbR/pNo/5E/2UWJVMZK/8bu52U37w46mO70IJOFjZRMF9oXkPkGVjt+NLfspcibx9AjTSNz9Iaic+79XcUO30TcoofYsTQ3hl+ypQHy7DDO4MbYs1ixodBvMgA5kBRMej1JcjFV9T0EjFWy6rH/uKQRHuKMjNlnz0ZIaFHGyvi3MCuRDttz1VJyu6q+Vp5DolTFjfwpNGM70fKDPGeszXPbYoGM4PRIUQZGGj7j3MXQKVbBFJv6M5nITP5FKAsMpULWrV+dSCb50wBpx1bAAqgePfX/w7vgFuFK7+DKJKBBGxM/+rtZl20QULIZ+XdS4Gfag3XyfH8j3DCFacQIa+EFeh7ZfZaQOka+PfXVIEjNHIGqWNtXnf9AGwo6WuiDwF/bh3A==;QDLK++7kUA18WUixuJqKvg=="
 ---

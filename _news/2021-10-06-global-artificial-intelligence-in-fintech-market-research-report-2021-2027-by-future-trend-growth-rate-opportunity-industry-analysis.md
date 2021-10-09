@@ -104,6 +104,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global GPU for Deep Learning Market 2021 with (COVID-19) Impact Analysis, Product Type, Application, Key Manufacturers, Regions and Forecast to 2027"
+    excerpt: "The foremost aim of this report titled Global GPU for Deep Learning Market 2021 by Manufacturers, Regions, Type"
+    publishedDateTime: 2021-10-06T02:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-gpu-for-deep-learning-market-2021-with-covid-19-impact-analysis-product-type-application-key-manufacturers-regions-and-forecast-to-2027-2021-10-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Security market by Market Research Report - Forecast 2020-2028"
     excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 07, 2021, 07:28 /Comserve / -- The global Artificial Intelligence in Security market is expected to exceed more than US$ 42.30 Billion by 2025, at a CAGR of more than 21% in the given forecast period."
     publishedDateTime: 2021-10-07T22:07:00Z

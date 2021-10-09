@@ -260,20 +260,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Relativity Focuses on International Expansion, Integrations and AI in Relativity Fest Keynote"
-    excerpt: "The virtual Relativity Fest 2021 keynote didn't feature groundbreaking product releases like in years past, but instead upgrades aimed at integrating artificial intelligence into the discovery workflow,"
-    publishedDateTime: 2021-10-04T16:03:00Z
-    webUrl: "https://www.law.com/legaltechnews/2021/10/04/relativity-focuses-on-international-expansion-integrations-and-ai-in-relativity-fest-keynote/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 26
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/10/Relativity-Fest-2018-Logo-Sign-1-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "Revival AI Announces Regulation A+ Offering to Revolutionize Bible Publishing Through Customization, AI, and Automation"
     excerpt: "Revival AI, a Bible customization firm driven by some of today's most groundbreaking technology, is pleased to announce the launch of its Regulation"
     publishedDateTime: 2021-10-06T16:00:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.openpr.com/news/2423314/artificial-intelligence-in-remote-p
 ampWebUrl: "https://www.openpr.com/amp/2423314/artificial-intelligence-in-remote-patient-monitoring-market"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2423314/artificial-intelligence-in-remote-patient-monitoring-market"
 type: article
-quality: 34
-heat: 34
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://cdn.openpr.com/U/a/Ua09818204_g.jpg"
@@ -25,6 +27,6 @@ images:
     height: 500
     isCached: true
 
-secured: "jusbSp8UeWkGASNsc8S7daxvAe/T18wAmv494DOqz7K4S8OlLc5kHOXl9qYUwbZOr0af8sMvcbX7IY6AJ6wM+JWIfTbTFIAbURAE0QE3ptVROTUjfgyH/VO+R2XZBQ04zvpcer9jDiRjNq/0YpDtws0qx0XNSnc039spVz27NnQ0AfNWRgFMDcTPqtuIYUNeB2lA9Yrc5W3yxajipXHSyQhVFGYhBT5bLzE0WgL3/g7Oqd8tAUBYMx8TuUVYV6Zxxk7DgEIyXro3b4VZKZK4DFxht8NBzZSu0nM4484oGwBC44DBcIu8NAgAhqMVp8k4ZhODZQRCTFHkh14BXFSR6KYpOScpe5ThmRnTJ0LKI7k=;ye9mz9W/8ez7Dz1i9oFEHA=="
+secured: "W2MmC+AwGHYcArfq/yygA35lksPDIKHsFgvrb9AweaIuY4KKkULTnX+gfp2mcoQS96c7NktR92mcK0F92+0ll92Xrp3RqJn52gSiuMYuvCGLyMiCxuDoIAH1s3SC2a+1ageu0VDoLPsG2t01T4Ltnz02RQ5PnQREL11LSzyOQA8alukAX3b1++TNPwbbswQFkcgTjj3FjHQ2Xg7g3pWSf7OmHIXO2cn93vnM6si0uat/spN1FbCj7Px0UlrWi/F3hlQHFtqd0x+8ngjYr42Upjr7Xcu9xGCqB1DLIqDcxD3Fsx+6fxAFKLyNZqoAK2qg3W2pmZldQh4mtr7p8Z1bWUInbrQxI2Ng4EeXzLq9EYGg6kvdzpCFdDOucfQHC+LUGGg/TBSMXt7RxUd19RAaMH9DMfAb0w9qB6AfvesDzBvKD3rnoQS3sSZ/cBN7x3FtDAQqiPL62l2KxEtW21aycf6CTguXqd4AOyr93D6tkURMmURxEF+2DVYD5G/2Kck2QcIbA8fS5C45DjC0djUzdw==;MZ0s3DjijjfPjeN1/CN5Tw=="
 ---
 
