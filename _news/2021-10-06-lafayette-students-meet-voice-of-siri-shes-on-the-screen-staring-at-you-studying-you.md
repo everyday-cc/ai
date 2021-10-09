@@ -41,6 +41,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "West Lafayette City Council narrowly moves forward with ban on facial recognition technology"
+    excerpt: "In a 5-4 vote Monday, the West Lafayette City Council moved forward with an ordinance banning the use of facial recognition technology."
+    publishedDateTime: 2021-10-05T16:04:00Z
+    webUrl: "https://www.wbaa.org/post/west-lafayette-city-council-narrowly-moves-forward-ban-facial-recognition-technology"
+    type: article
+    provider:
+      name: WBAA
+      domain: wbaa.org
+    quality: 28
+    images:
+      - url: "https://www.wbaa.org/sites/wbaa/files/styles/medium/public/202110/8362638676_8c94070476_b.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "z9qNFVxNnZDEf7R2h8ESXzktGzIIoyjvr39PY7e12SPIbxpNrXpgbJLq02usXjgJLMIXWh6Nj3M+9elsI4o2AKiHKCp5W/6yWYnBI1Ja9SEXMeasAGjsDqCgL0yhEP+r8MY/kVRJ3Zo4vEknOU/Nf2HX3vlW8dfY8vWN23UgO8x6rUSQA9vgNj5087Ou40Te9Ivjay6b9XOLY/MyI1wtGHbLo5kU9ZNehwIU0Ab4C7mdhZxMBvGq7RfcTPO99epJG9LK3yn2skUFSpGRfc7vuQ3louuOqkZzngANB1sefwAPLB54R0/rEdsf7bNiD1xoRsXF+9DdixvXBvNPqzUMibQecoVivOexaNLCgjqUpLei34OJ9jKzv1+2Wyms4xzhbzBDR7J3/UWyE8qWThAvESA4WxcNm6cC5PUmhct+Y/sSeKv4kIr2vwTJSAU+vc7T+9mBQwzoSfIevRbE+UZiGYeGtTgVH0993wxyAMzzW9B5hyjdfY4e83VWiTqE+IHh70Uo+QEkjbhmTB0vBVwGDA==;4TbNJ2mzIKknVCvWJ8gD4w=="
 ---

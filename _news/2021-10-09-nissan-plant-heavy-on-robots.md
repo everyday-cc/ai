@@ -26,20 +26,20 @@ images:
 
 related:
   - title: "Smart robots do all the work at Nissan's 'intelligent' plant"
-    excerpt: "The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. “Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence,"
-    publishedDateTime: 2021-10-08T10:49:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171"
+    excerpt: "Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence, analyzing collected data, are able to do it. The technology has developed to that level,"
+    publishedDateTime: 2021-10-08T15:50:00Z
+    webUrl: "https://www.theintelligencer.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
+    ampWebUrl: "https://www.theintelligencer.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
+    cdnAmpWebUrl: "https://www-theintelligencer-com.cdn.ampproject.org/c/s/www.theintelligencer.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Edwardsville Intelligencer
+      domain: theintelligencer.com
     quality: 59
     images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_0eacc915ea814eb4bd2477d4255b3c82_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Robots build vehicles at Nissan plant"
     excerpt: "Nissan's “intelligent factory” hardly has any human workers. The robots do the work, including welding and moun"
@@ -58,7 +58,7 @@ related:
   - title: "Smart robots do all the work at a Nissan plant"
     excerpt: "Nissan’s “intelligent factory” hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their"
     publishedDateTime: 2021-10-09T11:00:00Z
-    webUrl: "https://www.avpress.com/business/smart-robots-do-all-the-work-at-a-nissan-plant/article_3ea5a1f6-28a4-11ec-bda5-cbb55c851e50.html"
+    webUrl: "https://avpress.com/business/smart-robots-do-all-the-work-at-a-nissan-plant/article_3ea5a1f6-28a4-11ec-bda5-cbb55c851e50.html"
     type: article
     provider:
       name: Antelope Valley Press

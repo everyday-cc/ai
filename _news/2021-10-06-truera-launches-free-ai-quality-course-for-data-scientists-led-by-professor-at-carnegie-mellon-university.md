@@ -33,7 +33,7 @@ related:
     provider:
       name: Gulf Times
       domain: gulf-times.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://img.gulf-times.com/Content/Upload/Slider/1020219202327813857731.jpg"
         width: 620

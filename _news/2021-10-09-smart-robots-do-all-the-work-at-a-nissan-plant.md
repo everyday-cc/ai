@@ -3,8 +3,8 @@ category: news
 title: "Smart robots do all the work at a Nissan plant"
 excerpt: "Nissan’s “intelligent factory” hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their"
 publishedDateTime: 2021-10-09T11:00:00Z
-originalUrl: "https://www.avpress.com/business/smart-robots-do-all-the-work-at-a-nissan-plant/article_3ea5a1f6-28a4-11ec-bda5-cbb55c851e50.html"
-webUrl: "https://www.avpress.com/business/smart-robots-do-all-the-work-at-a-nissan-plant/article_3ea5a1f6-28a4-11ec-bda5-cbb55c851e50.html"
+originalUrl: "https://avpress.com/business/smart-robots-do-all-the-work-at-a-nissan-plant/article_3ea5a1f6-28a4-11ec-bda5-cbb55c851e50.html"
+webUrl: "https://avpress.com/business/smart-robots-do-all-the-work-at-a-nissan-plant/article_3ea5a1f6-28a4-11ec-bda5-cbb55c851e50.html"
 type: article
 quality: 39
 heat: -1
@@ -26,20 +26,20 @@ images:
 
 related:
   - title: "Smart robots do all the work at Nissan's 'intelligent' plant"
-    excerpt: "The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. “Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence,"
-    publishedDateTime: 2021-10-08T10:49:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171"
+    excerpt: "Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence, analyzing collected data, are able to do it. The technology has developed to that level,"
+    publishedDateTime: 2021-10-08T15:50:00Z
+    webUrl: "https://www.theintelligencer.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
+    ampWebUrl: "https://www.theintelligencer.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
+    cdnAmpWebUrl: "https://www-theintelligencer-com.cdn.ampproject.org/c/s/www.theintelligencer.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Edwardsville Intelligencer
+      domain: theintelligencer.com
     quality: 59
     images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_0eacc915ea814eb4bd2477d4255b3c82_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Nissan plant heavy on robots"
     excerpt: "Nissan's \"intelligent factory\" hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs."
@@ -70,6 +70,6 @@ related:
         height: 533
         isCached: true
 
-secured: "1f02QDwIc9deOqbi9Fr8uBSrcbgAKX28ChWcZ1XD4fvtfkqBmM6TSfQHl+/FQYcuuGFBtUvlbATX0/2WK63GRdBGjtfx1LPil/Yv670/evdEj52ptbFxrLYviMAVjRpuNMqeA9qHGZKo2qofjzhKB5UdgWQQmLh+eksdzZwaNIhDoMC/Uvz9cNLmdR8Xx0/BYIHayZfZ6gcud/d/cV52G5xEosV/eeZIPKacLOx81y7GYy/BVcM4z0XJlfkvu1WjUKDHh9pME3lsuhhWOdGWb2+xloWySSc81gaeLEnzvggVXBLQbFBMYUTgdkL5yIuMiUs232VIYemKazQ1oQuMzfHtBm1VNbY5dTjrMLO68lO4iw6sqAQ1P3wo6Y5GnJhrGUAVKgbvDsdaWTtnheKDvxRugRSQ4oLQ4QcuNl70CIT/CqTNiFnDtlRr8UB+Flln9w23qfj+b5VSjx3bz/fKzK0sABDNFaoAb7euNmY3rWWCKTZzjt6rDYQ7CZuiadaf9QbozF4QeJQxjtq4m/pWeQ==;XmevMYzSGKDVWGlHnnNIxw=="
+secured: "Y+EjtWRURKcLvkIEP9DeziYm7RsoIg51zVTijOlwkirN83VUaubajNLD2QoZh3QdJ6VRofvJ3xXFyaOzTJsOlWehWuFTF8BUVKTe+EsCNe7no4QsRyov2m12J9SBj7Psdim1xT5fpXUU4+BE3nzs0r9wM28AwGw97IClz1I7PbxdLvbsU+IU96Se9csJsiMsDe6Xjq+p3rYL7lYmDM5JbYNLxb9vFOer83kXD6HWdDKylc8cm0t6mbymwbB2UC/lG2I8812Vk4f93yvDTo9DtJ7fzJMTJ+5m3HjnK7lmFNatDfn7LB+rOAnENLtXnGRQWL4bEClqBDxRpst9TGB89pjwUzbvbZ9Tj/sOe3S0gSs=;Sw3RmgK6UOVhyRTj+c/uKQ=="
 ---
 

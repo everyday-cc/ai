@@ -84,6 +84,15 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "VMware and NVIDIA solutions deliver high performance in machine learning workloads"
+    excerpt: "VMware, with Dell, submitted its first machine learning benchmark results to MLCommons. The results-which show that high performance can be achieved on a VMware virtualized platform featuring NVIDIA GPU and AI technology-were accepted and published in the MLPerf 1."
+    publishedDateTime: 2021-10-09T19:28:00Z
+    webUrl: "https://www.publicnow.com/view/530C12E4A72128CCD3D7F067E79FFE493811054D"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 13
 
 secured: "Vlm0FcHGjCTEvVhR4fJpqUiaMyvmyw8JZU4yt+LHtUBEye04jimVLwiWg2HArZo2Z9vvt7fyiRf26hBsKWWzt83ZgYTzsOurLv4JjMMG5lXeszs/ZpYmzaLk7tKVtFjCucPKVOjHSlj0TkzFAcMxCrHM5jfciED6zNfkNkvUIyktNiRl680m9NyM+Cgho1mlc9YNXhs/W8lXTTCr4Hty0BM6BtC951sv0qA6bqwZotdJfxt+MwRg5RUMKKq1yUHsfIOzrw55AAMhHh1H4DZju0s+bX7bo3FvgHEo8NNNZZSeLRiPZ6tUiHGFxcWHoB2xsP2ALOtBO43fzE3zY2lHOoVAHV2lKMwizNn7/Yrs4Ks=;WngG7QUQ4/M8jRte7x1Z/A=="
 ---

@@ -2,6 +2,100 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-06-ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google.md",
+      "title": "AI as Service Market to Witness Huge Growth by 2026: IBM, Microsoft, Google",
+      "excerpt": "This press release was orginally distributed by SBWireEdison, NJ -- (SBWIRE) -- 10/05/2021 -- The latest study released on the Global AI as Service Market",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/218f40d7d6678c04a643c4160e6ade1c30ea2878-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T15:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-mlops-platform-domino-data-lab-nabs-100m.md",
+      "title": "MLOps platform Domino Data Lab nabs $100M",
+      "excerpt": "Domino Data Lab, an MLOps platform aimed at enterprise customers, has raised $100 million in a funding round, with participation from Nvidia.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/",
+      "originalUrl": "https://venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 202,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/cf29b39c-24c2-421b-b839-f590ce3123f7-e1591042839433.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/amp/",
+      "publishedDateTime": "2021-10-05T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-neutons-blair-newman-on-machine-learning-for-edge-computing.md",
       "title": "Neuton’s Blair Newman on Machine Learning for Edge Computing",
       "excerpt": "Blair Newman, CTO at Neuton, explains how “TinyML” is used to deploy machine learning on tiny microcontrollers at the edge.",
@@ -511,7 +605,7 @@
       "originalUrl": "https://english.alarabiya.net/life-style/travel-and-tourism/2021/10/05/Robots-at-Dubai-Expo-have-multiple-roles-while-interacting-with-visitors",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -900,7 +994,7 @@
       "originalUrl": "https://www.zdnet.com/article/nvidia-and-vmware-team-up-to-help-enterprises-scale-up-ai-development/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -1111,92 +1205,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-fintech-50-evaluating-how-firstbank-strengthens-collaboration.md",
-      "title": "Fintech 5.0: Evaluating how FirstBank strengthens collaboration",
-      "excerpt": "Take the fintech (financial technology) space in Nigeria, where one bank is known to have stood as a giant with very broad shoulders, having capacities that have been built up and accumulated over 127 continuous years.",
-      "sourceUrl": null,
-      "webUrl": "https://nairametrics.com/2021/10/05/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration/",
-      "originalUrl": "https://nairametrics.com/2021/10/05/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nairametrics-prod-s3.s3.eu-west-2.amazonaws.com/wp-content/uploads/2021/10/05084959/FirstBank-HQ-image.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nairametrics.com/2021/10/05/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration/?amp=1",
-      "cdnAmpWebUrl": "https://nairametrics-com.cdn.ampproject.org/c/s/nairametrics.com/2021/10/05/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration/?amp=1",
-      "publishedDateTime": "2021-10-05T00:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nairametrics",
-        "domain": "nairametrics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-artificial-intelligence-market-2021-26-size-share-trends-analysis-and-research-report.md",
-      "title": "Artificial Intelligence Market 2021-26: Size, Share, Trends, Analysis and Research Report",
-      "excerpt": "The global artificial intelligence market reached a value of US$ 40.21 Billion in 2020. Looking forward, IMARC Group expects the market to exhibit robust growth during 2021-2026, according to the latest report by IMARC Group.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-market-2021-26-size-share-trends-analysis-and-research-report/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-market-2021-26-size-share-trends-analysis-and-research-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/10/artifical-intelligence-market-30.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-market-2021-26-size-share-trends-analysis-and-research-report/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-2021-26-size-share-trends-analysis-and-research-report/?amp=1",
-      "publishedDateTime": "2021-10-05T00:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Machine Learning"
       ]

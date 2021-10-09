@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/10/07/elon-musk-releases-more-details-tesla
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/07/elon-musk-releases-more-details-tesla-full-self-driving-beta-wider-release/amp/"
 type: article
 quality: 97
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://kvia.b-cdn.net/2021/10/100721-HIKE-FORECAST-375x225.png"
         width: 375
         height: 225
+        isCached: true
+  - title: "Musk delays Tesla Full Self-Driving beta release over ‘last minute concerns’"
+    excerpt: "Elon Musk took to Twitter to explain Tesla delayed Friday's limited release of the Full Self-Driving beta over \"last minute concerns.\""
+    publishedDateTime: 2021-10-09T18:54:00Z
+    webUrl: "https://mobilesyrup.com/2021/10/09/tesla-full-self-driving-delay-last-minute-concerns/"
+    type: article
+    provider:
+      name: MobileSyrup
+      domain: mobilesyrup.com
+    quality: 36
+    images:
+      - url: "https://cdn.mobilesyrup.com/wp-content/uploads/2021/09/tesla-header-2021-scaled.jpg"
+        width: 2560
+        height: 1439
         isCached: true
 
 secured: "Aa5U1MC2CISXBB1/JAk4OsthevHaTFuhiB5YlzHxjIZYW+AlX+NtmNqxjLBOfoadQk0RJ6rFyrGBU1KVEEQDg6NXugHOuWd7ZWyamEcm+g4Vd1z5mYuFbZIWP71wpluHH/dD22aoyQG/nZoHflQZrhHbU9BPClXdxPng9QWqGA+6/wQf6fSOrMTI1zRitkCcIMKdonZ/ZOeqWSP67L8COpboqyjkl9V2bsb3fDJMxERCcHLf1ML1c8NmMvIgqiwp3aPBIcFSXRM8EYoDKcUTccvkIWkONGDvXfAxu9e8vbCmiQPhIS/QYW6foVafX3x0FA3ezo8Prmr91/TmNDq5WLUQ/j1dGGL0+yEhP3nFAN1XRdqysDZUxohHLxExZKRr7rEu9wl3+0lMW3T8MeilhwyA42LQZvDpD5KdQq9aYX27rMPBjSCOjdBmFSi3ADA19ObQ03rcLHihISKVvjERIqrLaZLuBfeD3iqX1IoY5uuFG3PuTly0ol7N7iAuTY85X9X6HGRwBQ0DHp969sJEBA==;+2bOMZR2HQUzj2BweKpNXg=="

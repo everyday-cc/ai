@@ -262,6 +262,17 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 0
+  - title: "Cognitive Systems Spending Market 2021 by Global Key Players, Types, Applications, Countries, Industry Size and Forecast to 2030"
+    excerpt: "The global COVID-19 pandemic has severely impacted the global economy. However, the banking system is largely considered to be an essential service, which sustains the prospects of cognitive systems spending market during the global pandemic."
+    publishedDateTime: 2021-10-08T19:55:00Z
+    webUrl: "https://www.globalbankingandfinance.com/cognitive-systems-spending-market-2021-by-global-key-players-types-applications-countries-industry-size-and-forecast-to-2030/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/cognitive-systems-spending-market-2021-by-global-key-players-types-applications-countries-industry-size-and-forecast-to-2030/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/cognitive-systems-spending-market-2021-by-global-key-players-types-applications-countries-industry-size-and-forecast-to-2030/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 0
 
 secured: "RdAaVJHsjH0+7Ybhnqz6Ol9ayoYnebX88CMMqoXiFF69y46sFmNZRJuIQwVxAe0GMf6q1c/nyOcsMQz2tJbD3vZCh4f05oYmhWIbJ7tYQDdL1egup8MpudqVUCexSxEOQFRkr0w88Sqq6SyajkOY+ax3qKSHFIzg25ucYU2J/1zNUp7iSjOOCpl+cofbTe8Jn8pHG0w3LJAb5G+ZyTQPq+7OkRFc5+Ys8dVHfRi+IWvHhChQCYsVi0caWoW/J4Q+oi0PIGxlobOB4bMSB2q9YKdETl9R0t/PL5/tw1Zz/TC8JuvVUm7nVkXObh3L+LolrxXy1B1Jsk8UbywahkO1+JNoY4D1vmT8gKIfmZXLneo=;DXdKRqh3SRRM2aNaL547PA=="
 ---

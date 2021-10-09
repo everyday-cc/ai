@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-and-vmware-team-up-t
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-and-vmware-team-up-to-help-enterprises-scale-up-ai-development/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -88,6 +88,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "VMware and NVIDIA solutions deliver high performance in machine learning workloads"
+    excerpt: "VMware, with Dell, submitted its first machine learning benchmark results to MLCommons. The results-which show that high performance can be achieved on a VMware virtualized platform featuring NVIDIA GPU and AI technology-were accepted and published in the MLPerf 1."
+    publishedDateTime: 2021-10-09T19:28:00Z
+    webUrl: "https://www.publicnow.com/view/530C12E4A72128CCD3D7F067E79FFE493811054D"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 13
 
 secured: "EypQi0gO6c2pFDA6zbME83YTiJ+z2ADGrIhWB+8qz7xDff7iT2GFVDHRVqPjx480u5Bcf5HMYGf27+kxb4NDUayCeLfKp1xtrAlnxui/lvYZl7RO1M2WQcfRv/a6o2gdROLcRUlXc1B11M5wLr0LJIRHFW1f89kUXFx2I4vGw93AuvJ3Zq5JkB+Lj9udMHaTPPgZLbC8D7owuW7+napsbV6dV8Be0J3zx7dSujhBTA6OW3Ew+DAaSsrvHIyFC1+DUBtlUecZEgWIyY6nR74tMjQCZ/oysUINDgBki0h2jQmaY26mH4NONLWp5HVPzRqlW+ogjcbj20Qz8qKRURjI4pU4RH7+f7wyOdvnpQGWhNROitEzGdOggt4fH9Exyfjz1C/Fo81y3E6q3KrhMRYqc5Dm3tIQDbqVWc6qx1hx1pi0MOPCsHFFhM4fqat9OAMfDWjLRgTd1fdTqMNfWEWm2bbg9unsZVro/tjTYxNiiZHggWze4wSEu4gP5VR1eF5aIMnhb+flW/Ryv/PIGY1qig==;VBeqdaIPFXsras2Jr/FTFA=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/codifying-humanity-why-robots-should-f
 webUrl: "https://thenextweb.com/news/codifying-humanity-why-robots-should-fear-death"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Next Web
@@ -27,6 +27,17 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "The Great Blockbusters - Blending AI with Humanity!"
+    excerpt: "We’re nearing the end of National Customer Service Week (#NCSW21) and what a great one it’s been!  The theme for today is all about giving your customer service heroes the recognition they deserve. That means giving Agents,"
+    publishedDateTime: 2021-10-08T09:48:00Z
+    webUrl: "https://www.linkedin.com/pulse/great-blockbusters-blending-ai-humanity-paul-wood"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 19
 
 secured: "BgO79+wVJDLMqp9XiBxrAaH+izy+ZJgx6g4vwhFC436wLZ4xORs4Tcgcxobe3ikwkoR4j4MScpEmrzYn86OTEaeF6MIhLu8nbeX3BG4kkWUr+I7tPgX1TYG/b21pOeIiF7eIMBJMbPxvEQcR9KdHXCvRDTtyYloDCMlOd4w54luqFrqYyDdJycM4mzLa5sG4kMbBmEKAF3shEgAyblb4mi2wsztkoV7zEiZDk48Nya1BJ28gYwBPrGQGEyd7nzhtTAC9DZulWeUTYz1JkWHCl3G1bw/f1up6Rr169hNbb5zJN6lu/KLbBp0J4P16ik6aGggt1ndcTWRP02I9diaszQOZ7qbTbZkhneI85nldrUEbD5VLYW5e/CWpNnqju7XXQjJnfqXlcLzD+q8zNeGZ8M7fBTujJKFDKv3JGvK7kfqQvA2Yf8M7ix3Tk00BkMxdMd1Fbs6HSfTfgqjKhzo5DZWWoh07bftHbmcTlc7r5gALz/UrGFxbmIfI67xrXKOTEKJYgWs+s4/jTEhoDCducw==;IXSQ5ov0bBYD8tLuT+Uj7Q=="
 ---

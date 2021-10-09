@@ -226,20 +226,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "The path to innovation for startup teams in Taipei pursuing digital transformation"
-    excerpt: "Taipei Innovation Summit, organized by the Taipei Entrepreneurs Hub under the guidance of the Taipei City Government Department of Economic Development, took place from September 16-17, 2021. The summit was themed \"Navigating Through Taipei's Digital Transformation\" and invited startup companies to join the discussion on the two topics of financial technology and e-commerce logistics."
-    publishedDateTime: 2021-10-05T01:31:00Z
-    webUrl: "https://www.digitimes.com/news/a20211005VL200.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 31
-    images:
-      - url: "https://www.digitimes.com/newsshow/20211005VL200_files/4_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Artificial intelligence hiring levels in the power industry dropped in August 2021"
     excerpt: "The proportion of power industry operations and technologies companies hiring for artificial intelligence related positions dropped in August 2021, with 35.7% of the companies included in our analysis recruiting for at least one such position."
     publishedDateTime: 2021-10-06T15:37:00Z

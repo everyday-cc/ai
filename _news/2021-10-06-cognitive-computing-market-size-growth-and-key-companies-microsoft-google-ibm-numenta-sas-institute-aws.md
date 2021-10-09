@@ -36,6 +36,28 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Cognitive Computing Market Size, Growth and Key Manufacturers – Microsoft, Google, IBM, Numenta, SAS Institute, AWS"
+    excerpt: "The Cognitive Computing Market is expected to surge at a steady CAGR in the coming years, states the latest Verified Market Research® report. The publication offers an insightful take on the historical data of the market and the milestones it has achieved."
+    publishedDateTime: 2021-10-07T22:09:00Z
+    webUrl: "https://manometcurrent.com/cognitive-computing-market-size-trends-and-growth/"
+    ampWebUrl: "https://manometcurrent.com/cognitive-computing-market-size-trends-and-growth/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/cognitive-computing-market-size-trends-and-growth/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 34
+  - title: "Wearable AI Market Size, Growth and Key Manufacturers – Fitbit Inc., Apple Inc., Sony, Google LLC, Samsung, Microsoft Corporation"
+    excerpt: "The Wearable AI Market is expected to surge at a steady CAGR in the coming years, states the latest Verified Market Research® report. The publication offers an insightful take on the historical data of the market and the milestones it has achieved."
+    publishedDateTime: 2021-10-09T10:28:00Z
+    webUrl: "https://manometcurrent.com/wearable-ai-market-size-trends-and-growth/"
+    ampWebUrl: "https://manometcurrent.com/wearable-ai-market-size-trends-and-growth/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/wearable-ai-market-size-trends-and-growth/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 25
 
 secured: "ns6FKehp7ROtkmVHP5tXDH3iMG+r6TgMbuTvgAOpTMBBebWxBKZYMRO1KMQFPqYlSC8kx9ZMJXYpITK6sYjNdstLBp1NQkT8NhVx3LDtanGRWzoeqat94ZiPKLuF7MuyY7xVFYQ1TGwYLDVg5B91hTPpy4R+IF3QTbKOxb0cIDLvHVkaq+MxWdLBquOluCfpmxB91R7gFY5Dq8x+pM1mzZM9/NAufQWDx2uDpL3erBuOlP7PTmWWWPvbRnl85VljseKY/OudZbZTYF2q79uZmv99HmAMWEhzQ5Z6AFtmUMHImBn7hwg8XtXxgaHHHyyiKpJWpPWNAq6SSjP3BIAAspYVziZrjm667goVgQbMOJE=;RJIdVBsB0+cCGf8SMQrkGw=="
 ---

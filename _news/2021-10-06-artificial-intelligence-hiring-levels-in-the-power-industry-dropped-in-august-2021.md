@@ -232,20 +232,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "The path to innovation for startup teams in Taipei pursuing digital transformation"
-    excerpt: "Taipei Innovation Summit, organized by the Taipei Entrepreneurs Hub under the guidance of the Taipei City Government Department of Economic Development, took place from September 16-17, 2021. The summit was themed \"Navigating Through Taipei's Digital Transformation\" and invited startup companies to join the discussion on the two topics of financial technology and e-commerce logistics."
-    publishedDateTime: 2021-10-05T01:31:00Z
-    webUrl: "https://www.digitimes.com/news/a20211005VL200.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 31
-    images:
-      - url: "https://www.digitimes.com/newsshow/20211005VL200_files/4_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "NLMK Group is testing innovations in the field of the Internet of Things and artificial intelligence"
     excerpt: "NLMK Group, an international metallurgical company, has signed a strategic partnership agreement with ALRII, an independent association of laboratories for the development of artificial intelligence"
     publishedDateTime: 2021-10-06T11:10:00Z

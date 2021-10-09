@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "FinTech & InsurTech Live: Meet the Speakers, Tevi Legge"
+    excerpt: "Meet Tevi Legge, Vice President at ATB Financial. Tevi Legge joined ATB 6 years ago from leading a commercial sales team at BDC where she had spent most of her career learning abo"
+    publishedDateTime: 2021-10-07T16:06:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-and-insurtech-live-meet-speakers-tevi-legge"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/ATB%2BLogo.jpg.png?itok=WIMUELme"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Saphyre to be headline sponsor at FinTech & InsurTech Live"
     excerpt: "Leading AI-driven fintech Saphyre is taking a frontline position at FinTech & InsurTech Live The US-based fintech Saphyre is a headline sponsor at the FinTech & InsurTech Live event in London on October 12-14th."
     publishedDateTime: 2021-10-07T10:55:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-ai-based-edge-com
 webUrl: "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2021-industry-growth-top-players-segmentation-and-forecast-to-2027-2021-10-06"
 type: article
 quality: 64
-heat: 234
+heat: 244
 published: true
 
 provider:
@@ -260,6 +260,17 @@ related:
     provider:
       name: Medgadget
       domain: medgadget.com
+    quality: 0
+  - title: "Cognitive Systems Spending Market 2021 by Global Key Players, Types, Applications, Countries, Industry Size and Forecast to 2030"
+    excerpt: "The global COVID-19 pandemic has severely impacted the global economy. However, the banking system is largely considered to be an essential service, which sustains the prospects of cognitive systems spending market during the global pandemic."
+    publishedDateTime: 2021-10-08T19:55:00Z
+    webUrl: "https://www.globalbankingandfinance.com/cognitive-systems-spending-market-2021-by-global-key-players-types-applications-countries-industry-size-and-forecast-to-2030/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/cognitive-systems-spending-market-2021-by-global-key-players-types-applications-countries-industry-size-and-forecast-to-2030/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/cognitive-systems-spending-market-2021-by-global-key-players-types-applications-countries-industry-size-and-forecast-to-2030/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
     quality: 0
 
 secured: "RHJy9W9SLcsC/O09CByMV5ZyeiymzfEjnxArmB1O/f8BTb0RiH4VFaTJ21uR5kynHtAbAU9LsfOv9fzw2t/3arsDDHxbUO3650pa7/ky8EJ7HCZ9iyYxdAymIkm4JOqncex5pVb5Zd1UNTDa5XmF49X8i5XH5Pf0AfkgSmFhU/U/SZrzzrOL9dnAgp+JTmph+oNibfr49j7RGv3CyuFaoac4ZDt6w5+kGEfxzlx2rc1Q5ObZplrS3wU2LBU3esQD9+kGlP4zBKWvyGNhmxELeSKvK4nNL+a6ik/1yQVIH9k29r/u0Sbh00ZG5BROWqeNBs3kzr0uqCfc0rOYUOpIs0YQEEQTEyCF2xLitulUt88=;puqyq7DoC9AX137gIslDOg=="

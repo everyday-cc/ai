@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-09T17:25:00Z
 originalUrl: "https://www.gulf-times.com/story/702014/AI-should-augment-human-intelligence-not-replace-i"
 webUrl: "https://www.gulf-times.com/story/702014/AI-should-augment-human-intelligence-not-replace-i"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://img.gulf-times.com/Content/Upload/Slider/1020219202327813857731.jpg"
@@ -40,6 +41,6 @@ related:
         height: 250
         isCached: true
 
-secured: "pfnxPokX7F/sDIFWKmcoBq9OQ9RHtytf3eHjaS+vO7rgGi29l6UW8rynOKWfOCN3ECkcLeK4M4KIDXajUjp18V32+RTU5Q8GOMkijqjMxtzQ2SNDYmWb2wr5UDbIA6RNZzZepGCNnVxdt0P6eQgCloPqI5XCZ1GZVhVGZfJLd+Trzvuny/ozQD5NatfRqUQQAexFt7iF2/qM/WLW0lqNdxoNPo4e0hh3bM0jg/T2SdjKQqdzv5ryPS9xsgJj34xe7Py3o/21H3xayYXzI0WFhoH1aPMn2YPI7lw2FCBaVHNrcX52KDVhOw4cK35L8ZM9+NOHdShujXnAwrKbahxx35XkKO88Hx3yam8InWpMjZs=;Z5FwYIAg6+IFMbVWSQZUwQ=="
+secured: "JEg4sQct3KYNpYaQ5WXn5UQOhgANe8tvnm6YuWml1JBnPhJZy+vcNMhrxwcyA2I8tyhQlKTHK3TWUA7CNwXzFb76HQzpQtE6tTOUKHO+GUBhtLvWzNm1+vHZDTWJWZd3arkFSCCz7PiVLYOLS1VC0+IbrUL9+ZOxzb8CTdDlqzgmnkb3nsMxMD8nIBPo0XzziQ5pQsGuDFVvZUVlycxt5yS6/fg09k+Hte5CIRec5QZiI0DstsKzELL1FivaCMv18i30uKLHcRm+X5W5vHLVPEKIyzeWa1it5QZKmEcqzQEC/ltAk2ijMBdNtU4QjTw+uZ33yeg/rOqDiStleR+thCW1LkvWvNEsGLR5vRpr2jK2QbSWsHbJsuY8t1nSgTUevcwXFy2vA8M+/HrnpwPnDq9JE4rxFu+jBFrJgdhbhTkpiKzbDF+7IWSDWKzuQP9dIqNLBXhOyTLJO4KM1mOH9oG3H8C/8k/c4unigj8fVHZBDLwDDZPvMbjFBIQWVRTGjf64xgC1s16P/hvyD06ueg==;TqhtmidtfS9NLnXHc2aFsA=="
 ---
 

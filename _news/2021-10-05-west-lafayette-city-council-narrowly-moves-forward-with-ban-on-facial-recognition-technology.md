@@ -25,33 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "City Council votes against ATO rezoning, bans facial recognition technology"
-    excerpt: "Over 150 people tuned into a WebEx meeting Monday night, most of whom were adamantly against the rezoning of the historic Alpha Tau Omega fraternity house. The West Lafayette City"
-    publishedDateTime: 2021-10-05T02:34:00Z
-    webUrl: "https://www.purdueexponent.org/campus/article_cbf32164-2584-11ec-807a-3fedbb2144b3.html"
+  - title: "Voice of 'Siri' Talks to Lafayette Seventh Graders"
+    excerpt: "Making podcasts for music class, students at Ascension Episcopal School in Louisiana learned about voice acting and recording from actor Susan Bennett, who provided the voice for Apple's virtual assistant Siri."
+    publishedDateTime: 2021-10-06T18:52:00Z
+    webUrl: "https://www.govtech.com/education/k-12/voice-of-siri-talks-to-lafayette-seventh-graders"
+    ampWebUrl: "https://www.govtech.com/education/k-12/voice-of-siri-talks-to-lafayette-seventh-graders?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/voice-of-siri-talks-to-lafayette-seventh-graders?_amp=true"
     type: article
     provider:
-      name: Purdue Exponent
-      domain: purdueexponent.org
-    quality: 52
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/purdueexponent.org/content/tncms/assets/v3/editorial/d/d7/dd7c8dbe-8097-5727-850f-b8ccbd26d4d7/6147ab750e669.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/53cdcbf/2147483647/strip/true/crop/642x335+0+46/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fc3%2F21%2Fe9ca316935477af3a501b616568c%2Fsiri-642x426.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "Ask The Mayor: West Lafayette's John Dennis On Why He Plans To Veto A Ban On Facial Recognition Tech"
-    excerpt: "West Lafayette’s city council discussed whether to ban the use of facial recognition technology at their meeting on"
-    publishedDateTime: 2021-10-07T19:25:00Z
-    webUrl: "https://www.wbaa.org/post/ask-mayor-west-lafayettes-john-dennis-why-he-plans-veto-ban-facial-recognition-tech"
+  - title: "Lafayette students meet voice of Siri: 'She's on the screen — staring at you, studying you'"
+    excerpt: "If you've never given much thought to the person behind the voice of Siri, you're not alone. It's something Lafayette students Lilly St. German and Sadie Guillory didn't think about until tasked with creating a podcast about Apple's virtual assistant during their music class."
+    publishedDateTime: 2021-10-06T09:00:00Z
+    webUrl: "https://www.theadvocate.com/acadiana/news/education/article_816229d4-2556-11ec-9d69-a70f34370a28.html"
     type: article
     provider:
-      name: WBAA
-      domain: wbaa.org
-    quality: 24
+      name: The Advocate
+      domain: theadvocate.com
+    quality: 14
     images:
-      - url: "https://www.wbaa.org/sites/wbaa/files/styles/medium/public/202110/john_dennis_in_studio.jpg"
-        width: 800
-        height: 556
+      - url: "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/3/69/369c1b62-c093-578d-b0e5-190a43bd7652/615b6dbd040e9.image.jpg?resize=1124%2C630"
+        width: 1124
+        height: 630
         isCached: true
 
 secured: "6T6zY8deQkynotcA68WRD+1bhwVMBiQ9sVcvvjVQoCkbJQKDYy3BaZogHM0SI+S/NFBr/pyWjUT01LLCvcZ5QFF6lIjsYQE/nUyVsoGwbygQVzRY5/br3v8vpmElX6/hUJL/7UJX2aFQ9h1PyXxeeNZhNj0tfSM10nRXDFIhAnBwbiMluQQlxpQNTK59cX8D8QDL14aPHU3YHkFuczpK98TzSQc4duwUkGKZyDvDK0mfnba2QirkE/0zGnAq3b901idS1/NzoA8LaZ93ikw9Oh4xsfZWjOvH13NG0AOIcQK965QuuwG+h6KKkhBNN1CuCoN7uXyEPL9sf0ZkLK9nzIMFwAHCvYlrnXXMNhv+bbxByD0UcNAy36Yx9oZUP2HnhkKjguP9sy5la1/YSROV+D1wcLY5/jQmdUZw8Wc+0S+gU1CDkKMXvm66+bLWyJTRgCdCfXxR0j40QcpM7V8qogkNd837iyUVT4nha2c9sG8xVwbGFk4mUU2VKL/QZWpmukJ3SJI62OKdWREAVca/nw==;p+QqZnHoXCS9wqPvLUJ3ow=="

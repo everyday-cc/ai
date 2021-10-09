@@ -30,9 +30,9 @@ related:
   - title: "White House proposes tech 'bill of rights' to limit AI harms"
     excerpt: "Top science advisers to President Joe Biden are calling for a new “bill of rights” to guard against powerful new artificial intelligence technology"
     publishedDateTime: 2021-10-08T17:17:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/white-house-proposes-tech-bill-rights-limit-ai-80481588"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/white-house-proposes-tech-bill-rights-limit-ai-80481588"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/white-house-proposes-tech-bill-rights-limit-ai-80481588"
+    webUrl: "https://abcnews.go.com/Technology/wireStory/white-house-proposes-tech-bill-rights-limit-ai-80480774"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/white-house-proposes-tech-bill-rights-limit-ai-80480774"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/white-house-proposes-tech-bill-rights-limit-ai-80480774"
     type: article
     provider:
       name: ABC

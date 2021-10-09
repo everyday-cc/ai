@@ -3,10 +3,10 @@ category: news
 title: "White House proposes tech 'bill of rights' to limit AI harms"
 excerpt: "Top science advisers to President Joe Biden are calling for a new “bill of rights” to guard against powerful new artificial intelligence technology"
 publishedDateTime: 2021-10-08T17:17:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/white-house-proposes-tech-bill-rights-limit-ai-80481588"
-webUrl: "https://abcnews.go.com/Business/wireStory/white-house-proposes-tech-bill-rights-limit-ai-80481588"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/white-house-proposes-tech-bill-rights-limit-ai-80481588"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/white-house-proposes-tech-bill-rights-limit-ai-80481588"
+originalUrl: "https://abcnews.go.com/Technology/wireStory/white-house-proposes-tech-bill-rights-limit-ai-80480774"
+webUrl: "https://abcnews.go.com/Technology/wireStory/white-house-proposes-tech-bill-rights-limit-ai-80480774"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/white-house-proposes-tech-bill-rights-limit-ai-80480774"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/white-house-proposes-tech-bill-rights-limit-ai-80480774"
 type: article
 quality: 57
 heat: -1
@@ -43,6 +43,6 @@ related:
         height: 853
         isCached: true
 
-secured: "ky20TmDVeFs8qpgpmL/fxukOUbwBhlVYV2Cw1d3zNvkrPYk/IQd5a//r4C/sTV+jW1fqfZXL8kuRi/1CdZz/zesFf+oRvtt7iQhpSZAWvVTym+xcwFZEWbBJN+JMaN+qHYObTn2gLlDHoDMROf/OOdkpM/AxdjJlUP73ztoN10cR/eCN0WlT7NinprS5sZZ399UGWfNFAOwHvRKX5jZ3Vyz2w9zQIIfLUjWzZQ+VN2z1DvEHwO4+kpeXTAGoAIIZR2sv+VA/1CtwSEBp09ba6/4HA+/0lXF6ua094uHXp2fbJlNz/KChipoDAUCDCPJU2XF9xbc6QFAubmoa3InSXYgutDrphnSB5petg6Anha3swd6zlCy4tinByxTh8NFI+D0k+ixaxSF1M+1iciSr2s2DC54326RnePCBfK9QoGBX6LCaJf8ib5b8ZTjAs+NgQnIoVKpeIFe5eKvyOJ+yd1RPKHPpnLAd5SB/lxD/8ym6JDEivXGDY64054nqGpdZBnFMaHnGoCxOe/qY3hBtfQ==;LwEhGzFcJNa6xSQROMPedA=="
+secured: "snauj1BwJL3ztqvRW4VUGGb/5MaoK6T7vMoCGoj+0Zp16KefY4VjcjJeOAFT4YKRmgOL1I4rukiR+XZbW+uaHXTR6qDYEmVOsjv29+Kt5gUUdCdzK3vNSVtnLelsXN1AwYRYSDwHzeW6eKIrTUjvjbaIlhFKZ/YNjUri/4mjo43pBZkaCeg+dlb6jC5JI/sV77JEWm9fSmz5oHM/gj1B4W30grJqdRGj0d5xO75to653Rt1lCdu93S8F/zrJa4wRI0FQn/uTexUiO4YDJDK4stdxL0X0AfMqD61WLZGMIgP+6V+K9cuBfIZHLpz1NrYOUcGdfqanGnLNdoT1EpIevY1dE6ly7DuXE4IfNCt0s7Y=;wXFBmffNqyy4qCsarSuM4A=="
 ---
 

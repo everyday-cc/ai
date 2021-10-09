@@ -109,6 +109,20 @@ related:
         width: 375
         height: 225
         isCached: true
+  - title: "Musk delays Tesla Full Self-Driving beta release over ‘last minute concerns’"
+    excerpt: "Elon Musk took to Twitter to explain Tesla delayed Friday's limited release of the Full Self-Driving beta over \"last minute concerns.\""
+    publishedDateTime: 2021-10-09T18:54:00Z
+    webUrl: "https://mobilesyrup.com/2021/10/09/tesla-full-self-driving-delay-last-minute-concerns/"
+    type: article
+    provider:
+      name: MobileSyrup
+      domain: mobilesyrup.com
+    quality: 36
+    images:
+      - url: "https://cdn.mobilesyrup.com/wp-content/uploads/2021/09/tesla-header-2021-scaled.jpg"
+        width: 2560
+        height: 1439
+        isCached: true
 
 secured: "CDdXuCUmATeg801gnlktztbCm5d2BdkxDX/XRfrAAkGKYJsh9IzVMbjCnAbyth6O/Db6lzSr/BTtR+GHxYPZe3RRt32ECOt99G84iKGNX89mjYJP7EORpKBe8t+y+Fp29D/q1iQhLCRatNygq8shJVVo2PvcbO+WCYQWloSdyqeaWt13VaediRwZOkiwqmwG61LmIBFMeGk8DomWyvp4hsWZnTbL0G1C1cdBiQod08S08L7xPeUYcUJ2r+OicCo8vd26MXx5Q+OGMExDQkQM+o2YADOekqe5ox7oyZ2sTQaupnq3+0KyvBHxMTMjffXvjG9KC+cF8m2a2fXDQcAGDMIDMCmp5Y/QBZzbmHM1Ml8=;BjhMpseyp0cjGDGBNyeP/A=="
 ---
