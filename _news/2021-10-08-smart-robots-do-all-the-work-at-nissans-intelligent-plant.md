@@ -1,77 +1,75 @@
 ---
 category: news
-title: "Smart robots do all the work at Nissan’s ‘intelligent’ plant"
-excerpt: "Nissan’s “intelligent factory” hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint"
-publishedDateTime: 2021-10-08T10:53:00Z
-originalUrl: "https://www.wboy.com/technology/smart-robots-do-all-the-work-at-nissans-intelligent-plant/"
-webUrl: "https://www.wboy.com/technology/smart-robots-do-all-the-work-at-nissans-intelligent-plant/"
+title: "Smart robots do all the work at Nissan's 'intelligent' plant"
+excerpt: "The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. “Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence,"
+publishedDateTime: 2021-10-08T10:49:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171"
+webUrl: "https://abcnews.go.com/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 59
+heat: 89
+published: true
 
 provider:
-  name: 12WBOY
-  domain: wboy.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.wboy.com/wp-content/uploads/sites/43/2021/10/69eedfdbf52d49328102d2214f4b30ba.jpg?w=1280"
-    width: 1280
-    height: 853
+  - url: "https://s.abcnews.com/images/Technology/WireAP_0eacc915ea814eb4bd2477d4255b3c82_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
-  - title: "Is There Too Much Focus On ‘Intelligence’ In AI?"
-    excerpt: "Apart from life science applications and other expert fields in new technology, is this the best way to enhance productivity in AI? Maybe not. In 2017, Erik Brynjolfsson, Daniel Rock and Chad Syverson wrote a paper titled,"
-    publishedDateTime: 2021-10-07T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/07/is-there-too-much-focus-on-intelligence-in-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/07/is-there-too-much-focus-on-intelligence-in-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/07/is-there-too-much-focus-on-intelligence-in-ai/amp/"
+  - title: "Nissan plant heavy on robots"
+    excerpt: "Nissan's \"intelligent factory\" hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs."
+    publishedDateTime: 2021-10-09T06:45:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/oct/09/nissan-plant-heavy-on-robots/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615d9fbf8c2f46f4fe359f45%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Smart robots do all the work at Nissan’s ‘intelligent’ plant"
-    excerpt: "Nissan’s “intelligent factory” hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs."
-    publishedDateTime: 2021-10-08T17:34:00Z
-    webUrl: "https://nypost.com/2021/10/08/smart-robots-do-all-the-work-at-nissans-intelligent-plant/"
-    ampWebUrl: "https://nypost.com/2021/10/08/smart-robots-do-all-the-work-at-nissans-intelligent-plant/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/10/08/smart-robots-do-all-the-work-at-nissans-intelligent-plant/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/10/Nissan-3.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Robots do the work at Nissan’s ‘intelligent’ plant"
-    excerpt: "Nissan’s “intelligent factory” hardly has any human workers, with robots doing the work. The workers at the factory can focus on more skilled work such as analyzing data collected by the robots, and on maintaining the equipment."
-    publishedDateTime: 2021-10-09T01:49:00Z
-    webUrl: "https://finance-commerce.com/2021/10/robots-do-the-work-at-nissans-intelligent-plant/"
-    type: article
-    provider:
-      name: Finance & Commerce
-      domain: finance-commerce.com
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
     quality: 39
     images:
-      - url: "https://finance-commerce.com/files/2021/10/Nissan.jpg"
-        width: 620
-        height: 330
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2021/10/08/4D1nissan1009_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Robots build vehicles at Nissan plant"
+    excerpt: "Nissan's “intelligent factory” hardly has any human workers. The robots do the work, including welding and moun"
+    publishedDateTime: 2021-10-09T04:00:00Z
+    webUrl: "https://www.journalgazette.net/business/20211009/robots-build-vehicles-at-nissan-plant"
+    type: article
+    provider:
+      name: The Journal Gazette
+      domain: journalgazette.net
+    quality: 39
+    images:
+      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20211009/ARTICLE/310099979/AR/0/AR-310099979.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Smart robots do all the work at a Nissan plant"
+    excerpt: "Nissan’s “intelligent factory” hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their"
+    publishedDateTime: 2021-10-09T11:00:00Z
+    webUrl: "https://www.avpress.com/business/smart-robots-do-all-the-work-at-a-nissan-plant/article_3ea5a1f6-28a4-11ec-bda5-cbb55c851e50.html"
+    type: article
+    provider:
+      name: Antelope Valley Press
+      domain: avpress.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/avpress.com/content/tncms/assets/v3/editorial/4/dc/4dc4d4ae-28a4-11ec-a9a0-a7d7a5b54784/6160f755176e3.image.jpg?resize=944%2C630"
+        width: 944
+        height: 630
         isCached: true
 
-secured: "s8HGGzx+uAZJxy0dIUTIpkBuCWzatkSQBvGIy8zgJqYq3UWb5Rvb0i3uUF4mEm0XGeJpBY3LvX3p32xjSGlxSNKEpudeCNNlxwT5s5QwBsLgKyg0TZFdyZZ3SGMcOn04CmHjQT+KyXVLFTSEt7SghG02SD/f8e67pvdygHilTkcQYiWs2osH+T9Qc3NwBQVQimauCLSjl3MHlryR+OAkwLY9Y5qZO+CMHQhUqZJDk4NGl7oJpQjUG907Nd9AKya2uzkbWduVHTuyP8orhyk5YnKBK+x3yM0lAleliHpUu8vRo4aA7ejaqqj8WBVdWiM7wxJ+wSbMGVmQastwVINyBelq90+MwA6yoHx2IGIaoSE=;lwj/B7uZ/l+lLUy3p8A5xQ=="
+secured: "BbYp07ud4ck6+hvuWzCsivV0ttfevMk3xaDpGBcvJIhGuNGUjRdWh0i9nAEmcTaCZmqTKe+xqpczharowPXrZlB3R4IcW1O0YaBOxMw+d4pOto1NEwCMGUtmfgcwgEuaDQbw+v5+YDWVnWCQW9fV7Gg7YNXkZndo31wm48o+5l1UVZEBSYrZRVMnii/JHSvq+KLhP1iTZn7AdpYVDAoXbb5x75besl0Wm7m89m2yZHMZt5P+I1ARgkwcLyPq0m92ruvhDCvGJmskpx5bEQ00IWYmFxDInZRoryROxw8xr0iYDRFHUkVPMrjBj2VRBB0RIZHnsFNMPfU0sL02QKQu2YtbRggDeuV3yqHYydoQaCo=;9BAr6dGn8YmOhnIVuWeeug=="
 ---
 

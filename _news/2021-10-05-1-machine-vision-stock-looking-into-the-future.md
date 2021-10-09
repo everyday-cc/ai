@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/1-machine-vision-stock-looking-into-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/1-machine-vision-stock-looking-into-the-future-2021-10-05?amp"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Nasdaq
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Feature Stores Emerging as Must-Have Tech for Machine Learning"
-    excerpt: "Machine learning may be eating software, but it looks as though feature stores may be eating machine learning. In the rush to develop and roll machine"
-    publishedDateTime: 2021-10-04T19:28:00Z
-    webUrl: "https://www.datanami.com/2021/10/04/feature-stores-emerging-as-must-have-tech-for-machine-learning/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 41
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/gears_edge_shutterstock_-jijomathaidesigners.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Intelligent automation brings robots and clothing design to the same chic party"
     excerpt: "Robots might still sound futuristic to some, but automation technologies are already being widely used in many industries comprising from manufacturing,"
     publishedDateTime: 2021-10-05T12:12:00Z

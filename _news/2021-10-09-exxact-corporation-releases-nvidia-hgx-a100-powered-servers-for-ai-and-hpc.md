@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2021/10/exxact-corporation-releases-nvidia-h
 webUrl: "https://insidehpc.com/2021/10/exxact-corporation-releases-nvidia-hgx-a100-powered-servers-for-ai-and-hpc/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -20,14 +20,19 @@ topics:
 
 related:
   - title: "Exxact Corporation Releases New NVIDIA HGX A100 Powered Servers for AI and HPC Workloads"
-    excerpt: "NVIDIA HGX combines NVIDIA A100 Tensor Core GPUs with high-speed interconnects to form the world's most powerful servers. With 16 A100 GPUs, HGX has up to 1.3 terabytes (TB) of GP"
-    publishedDateTime: 2021-10-06T18:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-exxact-corporation-releases-new-nvidia-hgx-a100-powered-/2021/10/06/9464430.htm"
+    excerpt: "Exxact Corporation, a leading provider of high-performance computing (HPC), artificial intelligence (AI), and data center solutions, announced that it is now offering a new line of TENSOREX™ servers featuring the NVIDIA HGX™ A100 platform."
+    publishedDateTime: 2021-10-06T18:01:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/science-technology-business-artificial-intelligence-294d7702e9f8e17eb3fa7c4e890fdb9f"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "aHTire5ZQbLuNe2rL6UJhrvj6Labn5EApuK39zX4h8KJrJeDHyNGYG89NkObQhE4hCCy8szCKdX/Xj8qyFXUVVw3JDWRKpzp1MUoYnGJYlkV3qs4ebWRP4Ql399lFAfiB8g74zxYFfDT/AaQI+PkWwfTbUjPQuYQxxXsjLj4TDZ1R6tAQS/Qa122+s76PToGxM1N5woVuVa2KKYDdV7SMn1meVaHmTnML4UnPJJeVQ6cHfBFDTAATb5glZ/SKplgb1q7YmI6Pdj8U3mCVK4S5QRT4NEfL4Qx1Y5al84fO02tqNJLCJfVub5H65fdc1wFARdxai5vat0zMtV+DDf0kvY/zDhVY3S9HWsu3e8zh9A=;Fphdq4G6sAcMFgyv6AE0yQ=="
 ---

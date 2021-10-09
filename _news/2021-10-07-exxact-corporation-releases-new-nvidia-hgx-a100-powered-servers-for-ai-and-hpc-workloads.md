@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Exxact Corporation Releases New NVIDIA HGX A100 Powered Servers for AI and HPC Workloads"
-excerpt: "NVIDIA HGX combines NVIDIA A100 Tensor Core GPUs with high-speed interconnects to form the world's most powerful servers. With 16 A100 GPUs, HGX has up to 1.3 terabytes (TB) of GP"
-publishedDateTime: 2021-10-06T18:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-exxact-corporation-releases-new-nvidia-hgx-a100-powered-/2021/10/06/9464430.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-exxact-corporation-releases-new-nvidia-hgx-a100-powered-/2021/10/06/9464430.htm"
+excerpt: "Exxact Corporation, a leading provider of high-performance computing (HPC), artificial intelligence (AI), and data center solutions, announced that it is now offering a new line of TENSOREX™ servers featuring the NVIDIA HGX™ A100 platform."
+publishedDateTime: 2021-10-06T18:01:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/science-technology-business-artificial-intelligence-294d7702e9f8e17eb3fa7c4e890fdb9f"
+webUrl: "https://apnews.com/press-release/PRNewswire/science-technology-business-artificial-intelligence-294d7702e9f8e17eb3fa7c4e890fdb9f"
 type: article
-quality: 10
-heat: -1
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Exxact Corporation Releases NVIDIA HGX A100-powered Servers for AI and HPC"
@@ -29,6 +35,6 @@ related:
       domain: insidehpc.com
     quality: 17
 
-secured: "y7f6jsQnYsrDUhCCQbmqKLqFl21IPoMYrq6M9kVwk8fxd79nVKynD7vS+VK2MEEL9mqDNUbFl7Op6+1EZO/5/lWktm7rg2Uq8KVIqLb5pCZ+PFCSPqHBqBGE+jPDmZLuvMXrkYCGneWB7UhRef76HRHSHarjSW2e+u6Phk8cimBMNKabCIgDf83pGUxn+8Apuoy1kEfS+1uPQ+G2ypfNyBizuuclw58TRuymKGHItuVFYfFd5ucdfVLXqWHJQ0JNaUTqtleucD3AXgi5z0eyHwaYMx6KMIfY5Ruh6HHlllG0c6J3O5ssmL70q6ZA2cnDCXm805GepDrizs+mw2mNN7V2OZunZHrCXgDZ0LhUPqg=;32W4QUOzKPx3N6P2aBxdsw=="
+secured: "lt/TSPjGjxifTR54GHm9BSYa/3JcEXoH71xdASw/eUYtz9U9pKzvdp9hy0kaQIADGE3WVyjLGyYbMC6g71+wPrsu4J5IAyRnwqvRT1vQEM8JWhPiejb9G0xancpgmmVNd391Ynzn7Va10ir67vWyOsvtJ0A1PZRxwGlXG8Hl6ZkkCY7E2m593kgp3mJQTyqFuReGeSw8IezNobMDwQfJ6YMoM/ZVEM/xeNLcEfFpBgW57ZEqBXvRaxpxVBbGvMfr8GmWF+ZYTWcZ2+DB5/zC2YRBUM7WybsFoMVqCn3bXtB+kPNriiThpZHO4c94jQB1MqmPdWzozfztX/1UvDTxVTDwA2yGdx0oW39Y6/0uIuk=;HnSdY3eRcUaWZaBOe5vwTw=="
 ---
 

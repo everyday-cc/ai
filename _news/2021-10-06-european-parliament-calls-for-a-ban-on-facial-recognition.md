@@ -43,38 +43,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Europe Wants to Ban Facial Recognition—Take Note, America"
-    excerpt: "On Wednesday, the European Parliament called for a moratorium on police use of the biometric tool. It'd be great if U.S. legislators did the same."
-    publishedDateTime: 2021-10-06T23:42:00Z
-    webUrl: "https://gizmodo.com/europe-wants-to-ban-facial-recognition-take-note-ameri-1847809788"
-    ampWebUrl: "https://gizmodo.com/europe-wants-to-ban-facial-recognition-take-note-ameri-1847809788/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/europe-wants-to-ban-facial-recognition-take-note-ameri-1847809788/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 91
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/18feb09125fbf09b8e9d8c077cb670dd.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "European Parliament passes non-binding resolution to ban facial recognition"
-    excerpt: "In the midst of supporting a facial recognition ban for law enforcement, the European Commission is reportedly preparing to charge Apple for acting anticompetitively with its NFC block."
-    publishedDateTime: 2021-10-07T00:37:00Z
-    webUrl: "https://www.zdnet.com/article/european-parliament-passes-non-binding-resolution-to-ban-facial-recognition/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/european-parliament-passes-non-binding-resolution-to-ban-facial-recognition/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/european-parliament-passes-non-binding-resolution-to-ban-facial-recognition/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/077f0d0acac61f7819fa5b878c59dba9db36c0e8/2021/05/26/cf8ae2ae-d7f1-441c-bd07-269f57b1c255/facial-recognition-emotion.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "European Parliament opposes 'mass surveillance,' calls for a ban on facial recognition tech in public"
     excerpt: "MEPs have officially called for a \"permanent ban\" on the use of automated facial recognition technologies in \"public spaces.\" European citizens, they say,"
     publishedDateTime: 2021-10-07T12:37:00Z
@@ -90,20 +58,6 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-06-image-63.jpg"
         width: 2896
         height: 1947
-        isCached: true
-  - title: "European Parliament entreats a ban on facial recognition."
-    excerpt: "The European parliament seems rather unyielding in its decision to put a ban on the use of facial recognition by police."
-    publishedDateTime: 2021-10-07T16:32:00Z
-    webUrl: "https://techstory.in/european-parliament-entreats-a-ban-on-facial-recognition/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/10/facial-recognition-crowds-1024x536-1.jpg"
-        width: 1024
-        height: 536
         isCached: true
   - title: "'Historic Moment': EU Approves Call for Sweeping Ban on Facial Recognition Surveillance"
     excerpt: "The European Parliament has overwhelmingly approved a call to ban facial recognition surveillance—a development heralded by the technology's foes as a \"big win for human rights.\" \"Fundamental rights are unconditional,"

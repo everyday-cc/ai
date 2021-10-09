@@ -163,20 +163,6 @@ related:
         width: 1024
         height: 585
         isCached: true
-  - title: "Uber is facing legal action for facial recognition ID checks that are racially biased"
-    excerpt: "In a legal test case, an Uber driver who lost his job when automatic face-scanning software failed to recognize him accuses the company of indirect race discrimination"
-    publishedDateTime: 2021-10-06T14:56:00Z
-    webUrl: "https://techstory.in/uber-is-facing-legal-action-for-facial-recognition-id-checks-that-are-racially-biased/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 32
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/10/PRI203646116.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "z6FMyixx3GFrYO3/qmh/CfmHicmrbLz4FF2Ove17ghH6wDyLVs/WhXzZlTgADlOYqsiWYRkuDXCLurHazoMDcBzWQScRTje+aY4Y5JYtB66GElhU05X43wsjqSK8OV8y4gC77S4ofURzxqL9SrnBIJy93HIP8anYmtRhZmbloceYRr7wHo8Chq9X4IC+NRW+l53GxDflTJbR9Cg4/Gq33JZrL9zlFPp3hNSil0BuI6Lvt5xWqX3S2IeG6lYRGTyrzo5DXBeJJzp/mEvl0pxSfVK3X467oz6G7prqC3XejVTHrKNLQP8KP6gxCDe6xBfF5inVt1Qb49r/hrY/m7C9FLOJSrX2LleGpPjtG1Ldy+g=;aVRiembU7/u+md70VumREg=="
 ---

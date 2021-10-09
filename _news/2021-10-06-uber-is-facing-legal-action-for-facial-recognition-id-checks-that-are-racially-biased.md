@@ -25,157 +25,125 @@ images:
     isCached: true
 
 related:
-  - title: "Ex-Uber driver takes legal action over ‘racist’ face-recognition software"
-    excerpt: "UK driver alleges his account was illegally deactivated when Uber software decided he was not who he said he was"
-    publishedDateTime: 2021-10-05T16:01:00Z
-    webUrl: "https://www.theguardian.com/technology/2021/oct/05/ex-uber-driver-takes-legal-action-over-racist-face-recognition-software"
-    ampWebUrl: "https://amp.theguardian.com/technology/2021/oct/05/ex-uber-driver-takes-legal-action-over-racist-face-recognition-software"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/oct/05/ex-uber-driver-takes-legal-action-over-racist-face-recognition-software"
+  - title: "AI Weekly: EU facial recognition ban highlights need for U.S. legislation"
+    excerpt: "European Union regulators propose a ban on facial recognition technologies. It highlights the need for U.S. federal legislation."
+    publishedDateTime: 2021-10-08T18:15:00Z
+    webUrl: "https://venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/"
+    ampWebUrl: "https://venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/amp/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 143
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 203
     images:
-      - url: "https://i.guim.co.uk/img/media/55c54451224be3752e08c4b3ee40e9886df70ba7/0_217_6500_3900/master/6500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c819f6205781f6edad3b66bedd92282b"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Uber faces legal action over ‘racially discriminatory’ facial recognition ID checks"
-    excerpt: "Ride-hailing giant Uber is facing a legal challenge over its use of real-time facial recognition technology in a driver and courier identity check system that it uses in the UK. The App Drivers & Couriers Union (ADCU) announced the legal action Tuesday,"
-    publishedDateTime: 2021-10-06T00:40:00Z
-    webUrl: "https://techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/"
-    ampWebUrl: "https://techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1232204732.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Uber's 'racist' facial recognition software is firing Black and Asian drivers, former driver claims"
-    excerpt: "Uber is facing legal action for alleged indirect racial discrimination against a driver who claims he was sacked after facial recognition software used by the company failed to recognise him. In an employment tribunal claim filed this week,"
-    publishedDateTime: 2021-10-06T15:37:00Z
-    webUrl: "https://www.euronews.com/next/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-"
-    ampWebUrl: "https://www.euronews.com/next/amp/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-"
-    cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 60
-    images:
-      - url: "https://static.euronews.com/articles/stories/06/13/14/64/1000x563_cmsv2_3a714556-0f52-5d73-a4d7-5352ed7a7c5c-6131464.jpg"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "Uber Being Sued Over ‘Racist’ Facial Recognition Algorithm"
-    excerpt: "Uber is being sued over a ‘racist’ facial recognition algorithm that is more likely to lock out drivers with darker skin. With this algorithm, drivers are required to scan their face intermittently before they can access the back-end of the ride-hailing app’s system."
-    publishedDateTime: 2021-10-06T14:53:00Z
-    webUrl: "https://www.unilad.co.uk/news/uber-being-sued-over-racist-facial-recognition-algorithm/"
-    ampWebUrl: "https://www.unilad.co.uk/news/uber-being-sued-over-racist-facial-recognition-algorithm/amp/"
-    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/news/uber-being-sued-over-racist-facial-recognition-algorithm/amp/"
-    type: article
-    provider:
-      name: UNILAD
-      domain: unilad.co.uk
-    quality: 59
-    images:
-      - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F10%2FUber_Sued.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&strip=all"
         width: 1200
-        height: 619
+        height: 600
         isCached: true
-  - title: "Uber Is Being Sued Over Its \"Racist\" Facial Recognition System"
-    excerpt: "Rideshare company Uber is back in headlines once again, and for the wrong reasons: the company has been accused of using a racially bias ed facial recognition algorithm. T he United Kingdom labor union,"
-    publishedDateTime: 2021-10-06T15:57:00Z
-    webUrl: "https://jalopnik.com/uber-is-being-sued-over-its-racist-facial-recognition-1847809686"
-    ampWebUrl: "https://jalopnik.com/uber-is-being-sued-over-its-racist-facial-recognition-1847809686/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/uber-is-being-sued-over-its-racist-facial-recognition-1847809686/amp"
+  - title: "Europe Wants to Ban Facial Recognition—Take Note, America"
+    excerpt: "On Wednesday, the European Parliament called for a moratorium on police use of the biometric tool. It'd be great if U.S. legislators did the same."
+    publishedDateTime: 2021-10-06T23:42:00Z
+    webUrl: "https://gizmodo.com/europe-wants-to-ban-facial-recognition-take-note-ameri-1847809788"
+    ampWebUrl: "https://gizmodo.com/europe-wants-to-ban-facial-recognition-take-note-ameri-1847809788/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/europe-wants-to-ban-facial-recognition-take-note-ameri-1847809788/amp"
     type: article
     provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 59
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 91
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/03e8a0e44c23400109e531a7e13340b1.jpg"
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/18feb09125fbf09b8e9d8c077cb670dd.jpg"
         width: 800
         height: 450
         isCached: true
-  - title: "Face Recognition Software launched"
-    excerpt: "The Face Recognition Software (FRS) for use by city police personnel to aid in investigation was launched here on Wednesday. Commissioner of Police G. Karthikeyan explained the software features and t"
-    publishedDateTime: 2021-10-07T16:51:00Z
-    webUrl: "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/"
+  - title: "European Parliament passes non-binding resolution to ban facial recognition"
+    excerpt: "In the midst of supporting a facial recognition ban for law enforcement, the European Commission is reportedly preparing to charge Apple for acting anticompetitively with its NFC block."
+    publishedDateTime: 2021-10-07T00:37:00Z
+    webUrl: "https://www.zdnet.com/article/european-parliament-passes-non-binding-resolution-to-ban-facial-recognition/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/european-parliament-passes-non-binding-resolution-to-ban-facial-recognition/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/european-parliament-passes-non-binding-resolution-to-ban-facial-recognition/"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Uber taken to court for ‘racist’ facial recognition software"
-    excerpt: "Lawyers will argue facial recognition systems, including those operated by Uber, are faulty and generate poor accuracy results when used with people of colour. | ITV News London"
-    publishedDateTime: 2021-10-06T14:41:00Z
-    webUrl: "https://www.itv.com/news/london/2021-10-06/uber-taken-to-court-for-racist-facial-recognition-software"
-    type: article
-    provider:
-      name: ITV
-      domain: itv.com
-    quality: 39
-    images:
-      - url: "https://images.ctfassets.net/pjshm78m9jt4/3z7E4ljmpMkSw3eDXBTZJz/92f93330b93942e73a381642640c4f21/uber.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Striking Uber drivers demand end to ‘racist’ facial recognition software"
-    excerpt: "Striking Uber drivers, supported by Black Lives Matter and Union IWGB, are protesting at Uber HQ over 'racist' facial recognition software"
-    publishedDateTime: 2021-10-06T12:42:00Z
-    webUrl: "https://www.bigissue.com/news/employment/uber-drivers-strike-racist-facial-recognition-software-higher-pay/"
-    type: article
-    provider:
-      name: The Big Issue
-      domain: bigissue.com
-    quality: 38
-    images:
-      - url: "http://thebigissue581.wpengine.com/wp-content/uploads/2021/10/UberStrike1-768x440.png"
-        width: 768
-        height: 440
-        isCached: true
-  - title: "Uber sued over ‘racist’ facial recognition algorithm that locks out workers"
-    excerpt: "When you have an job that you think will help you to secure income and it’s taken away unfairly, it’s very difficult’ says a former driver"
-    publishedDateTime: 2021-10-06T10:42:00Z
-    webUrl: "https://www.independent.co.uk/news/business/news/uber-sued-facial-recognition-algorithm-racist-b1933275.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 37
-    images:
-      - url: "https://static.independent.co.uk/2021/10/06/13/PRI203646116.jpg?width=1200&auto=webp&quality=75"
+      - url: "https://www.zdnet.com/a/img/resize/077f0d0acac61f7819fa5b878c59dba9db36c0e8/2021/05/26/cf8ae2ae-d7f1-441c-bd07-269f57b1c255/facial-recognition-emotion.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 800
         isCached: true
-  - title: "Uber facial recognition software to be discriminating over people of colour"
-    excerpt: "A former Uber driver is taking legal action against the firm over its automated face-scanning software that he is claiming to be discriminating. Indeed, the black driver who worked with Uber from 2016 to April 2021 has filed an employment tribunal claim alleging his account was illegally deactivated after the facial verification software didn’t recognize him several times."
-    publishedDateTime: 2021-10-07T09:48:00Z
-    webUrl: "https://www.softwaretestingnews.co.uk/uber-facial-recognition-software-to-be-discriminating-over-people-of-colour/"
+  - title: "POLITICO AI: Decoded: Parliament wants to ban facial recognition— Experimenting with facial recognition rules — Big big bucks in AI"
+    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
+    publishedDateTime: 2021-10-06T09:41:00Z
+    webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-parliament-tests-facial-recognition-waters-experimenting-with-facial-recognition-rules-big-big-bucks-in-ai/"
+    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-parliament-tests-facial-recognition-waters-experimenting-with-facial-recognition-rules-big-big-bucks-in-ai/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-parliament-tests-facial-recognition-waters-experimenting-with-facial-recognition-rules-big-big-bucks-in-ai/amp/"
     type: article
     provider:
-      name: softwaretestingnews.co.uk
-      domain: softwaretestingnews.co.uk
-    quality: 37
+      name: POLITICO
+      domain: politico.eu
+    quality: 46
     images:
-      - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/10/Website-2-1024x585.jpg"
+      - url: "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "European Parliament entreats a ban on facial recognition."
+    excerpt: "The European parliament seems rather unyielding in its decision to put a ban on the use of facial recognition by police."
+    publishedDateTime: 2021-10-07T16:32:00Z
+    webUrl: "https://techstory.in/european-parliament-entreats-a-ban-on-facial-recognition/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/10/facial-recognition-crowds-1024x536-1.jpg"
         width: 1024
-        height: 585
+        height: 536
+        isCached: true
+  - title: "EDITORIAL: Clear rules urgently needed for facial recognition data"
+    excerpt: "East Japan Railway Co. has been using thousands of security cameras with facial recognition technology at 110 major railway stations and other facilities in the Tokyo metropolitan area to detect suspicious people."
+    publishedDateTime: 2021-10-08T04:36:00Z
+    webUrl: "https://www.asahi.com/ajw/articles/14456292"
+    type: article
+    provider:
+      name: asahi.com
+      domain: asahi.com
+    quality: 39
+    images:
+      - url: "https://p.potaufeu.asahi.com/1fc2-p/picture/26409728/12d3330251bcbabbe9f42ef7c07b84e0.jpg"
+        width: 660
+        height: 381
+        isCached: true
+  - title: "MEPs back EU facial-recognition ban for police"
+    excerpt: "The European Parliament has backed a moratorium on facial recognition for law-enforcement purposes – bypassing attempts from members of the European People's Party aiming to torpedo the ban on biometric mass surveillance in public spaces."
+    publishedDateTime: 2021-10-06T05:12:00Z
+    webUrl: "https://euobserver.com/democracy/153135"
+    type: article
+    provider:
+      name: EUobserver
+      domain: euobserver.com
+    quality: 24
+    images:
+      - url: "https://s3.eu-central-1.amazonaws.com/euobs-media/ba0ac1bd9cc3914b8374fa3f91e10762-480x.jpg"
+        width: 480
+        height: 322
+        isCached: true
+  - title: "Do we need international rules for artificial intelligence? Three points in the EU proposal for AI regulation that you should know"
+    excerpt: "There is no dedicated legislation on AI in Finland or the European Union. The European Commission has recently made a proposal for regulation of AI. Susanna Lindroos-Hovinheimo, professor in public law at the University of Helsinki,"
+    publishedDateTime: 2021-10-06T19:22:00Z
+    webUrl: "https://www.helsinki.fi/en/news/artificial-intelligence/do-we-need-international-rules-artificial-intelligence-three-points-eu-proposal-ai-regulation-you-should-know"
+    type: article
+    provider:
+      name: Helsinki
+      domain: helsinki.fi
+    quality: 22
+    images:
+      - url: "https://www.helsinki.fi/assets/drupal/styles/og_images/s3/media-image/Susanna%20kuva%201.png?itok=PDMZJ6KA"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "UjzhWjGAZfRPdXCKkdGFrBmH6pYwKveZk0ZBUYBx9oxADFaDHgj44Xpg/ggXmgdJT0rYUyDbTl79rvXQjRCJVUBOxpC+GuWu4CTxVXKOIAFmu3bsopLsHIPPo2kk26GMbEWUEgp6bgPaxf8veY3wYpd6Jz7B7XpdyTD32oxKk1ABPaOA/5XxDCY2gSaQlBvHPMtaFGdwQS0gE4sjpcnmGlI3Oj86yAHFRDfIrnpOmu0PFXPzg9IMD8+P6qo8VSOkRZ2kbLRMYsIDDBh1PNms57O6g1eqO5p4rdfal6OmBEe/w5jE8Yx8f151uRFj55INU4VEK3I7Z3vfsjMel9JfOazX1EBRN4SJufFTlCU5FSy5ZI2M8GeKuKdW0mvE6UokEMHSqLpLRqwOjy9GxSMoh0/3PdleGV3mjunNzywzIeopiUfCJ0EXNMbyohI+lwStcKkvZWtxENY1QzYAWJb+7yDl3uAI8OGzH0tdfrWjHRMc+zeCbvjjv8E5ZBU5hufzGnQKqy7pSYVK6ebXh1jXMQ==;e8kbrOUbB8U5UMUiOH6nvg=="

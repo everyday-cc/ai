@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2021-10-machine-reveal-cells.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-10-machine-reveal-cells.amp"
 type: article
 quality: 74
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Phys.org
@@ -37,7 +37,7 @@ related:
     provider:
       name: News Medical
       domain: news-medical.net
-    quality: 60
+    quality: 160
     images:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/3D_illustration_mitchondria_-_Wire_man__2906c5e1a5514570bffd716b0c282567-620x480.jpg"
         width: 620

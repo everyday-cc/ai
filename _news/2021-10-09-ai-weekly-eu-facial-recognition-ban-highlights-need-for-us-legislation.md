@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-
 ampWebUrl: "https://venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/amp/"
 type: article
-quality: 103
-heat: 143
+quality: 203
+heat: 283
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Europe Wants to Ban Facial Recognition—Take Note, America"
+    excerpt: "On Wednesday, the European Parliament called for a moratorium on police use of the biometric tool. It'd be great if U.S. legislators did the same."
+    publishedDateTime: 2021-10-06T23:42:00Z
+    webUrl: "https://gizmodo.com/europe-wants-to-ban-facial-recognition-take-note-ameri-1847809788"
+    ampWebUrl: "https://gizmodo.com/europe-wants-to-ban-facial-recognition-take-note-ameri-1847809788/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/europe-wants-to-ban-facial-recognition-take-note-ameri-1847809788/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 91
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/18feb09125fbf09b8e9d8c077cb670dd.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "European Parliament passes non-binding resolution to ban facial recognition"
+    excerpt: "In the midst of supporting a facial recognition ban for law enforcement, the European Commission is reportedly preparing to charge Apple for acting anticompetitively with its NFC block."
+    publishedDateTime: 2021-10-07T00:37:00Z
+    webUrl: "https://www.zdnet.com/article/european-parliament-passes-non-binding-resolution-to-ban-facial-recognition/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/european-parliament-passes-non-binding-resolution-to-ban-facial-recognition/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/european-parliament-passes-non-binding-resolution-to-ban-facial-recognition/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/077f0d0acac61f7819fa5b878c59dba9db36c0e8/2021/05/26/cf8ae2ae-d7f1-441c-bd07-269f57b1c255/facial-recognition-emotion.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "POLITICO AI: Decoded: Parliament wants to ban facial recognition— Experimenting with facial recognition rules — Big big bucks in AI"
     excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
     publishedDateTime: 2021-10-06T09:41:00Z
@@ -47,6 +79,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "European Parliament entreats a ban on facial recognition."
+    excerpt: "The European parliament seems rather unyielding in its decision to put a ban on the use of facial recognition by police."
+    publishedDateTime: 2021-10-07T16:32:00Z
+    webUrl: "https://techstory.in/european-parliament-entreats-a-ban-on-facial-recognition/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/10/facial-recognition-crowds-1024x536-1.jpg"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "EDITORIAL: Clear rules urgently needed for facial recognition data"
     excerpt: "East Japan Railway Co. has been using thousands of security cameras with facial recognition technology at 110 major railway stations and other facilities in the Tokyo metropolitan area to detect suspicious people."
     publishedDateTime: 2021-10-08T04:36:00Z
@@ -60,6 +106,20 @@ related:
       - url: "https://p.potaufeu.asahi.com/1fc2-p/picture/26409728/12d3330251bcbabbe9f42ef7c07b84e0.jpg"
         width: 660
         height: 381
+        isCached: true
+  - title: "Uber is facing legal action for facial recognition ID checks that are racially biased"
+    excerpt: "In a legal test case, an Uber driver who lost his job when automatic face-scanning software failed to recognize him accuses the company of indirect race discrimination"
+    publishedDateTime: 2021-10-06T14:56:00Z
+    webUrl: "https://techstory.in/uber-is-facing-legal-action-for-facial-recognition-id-checks-that-are-racially-biased/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 32
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/10/PRI203646116.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "MEPs back EU facial-recognition ban for police"
     excerpt: "The European Parliament has backed a moratorium on facial recognition for law-enforcement purposes – bypassing attempts from members of the European People's Party aiming to torpedo the ban on biometric mass surveillance in public spaces."
@@ -90,6 +150,6 @@ related:
         height: 630
         isCached: true
 
-secured: "lz08k6ndUHfXgj5Crcd+h4zaGwQyqXWVYKkmEXnpa9RVZ/WuPRyEdOzY/uIpGWrnrrATom+47KHvYDJRMIjyJkzIvhY9DI5pS3uboyNhK/Qz6LcbDRiqiAl5UnB3a0a7afQc1eVvcXcW6iWCrQr3s3XMymNw1bOeA0u8UoiJGk1TL2Zup/5SRzLpqjFEn1cmnoWgsiXcukc5LUDFfaBA4SW7tUvD2pcJX+RX3vrAXK+T5Gt5sHs10UkDCil/Hy+om/+SloWLgIY6ShntL/qmV8XKbepXLnWQ3WX7doTMPanOXz7YeP/4Ur/n+FpuGcofeUAaqeTp2ihJEg+omT6FlgswWejOQ0sTNBi200+Dgpyq17jlxVZ8hSBPy3esDlyvdOIO5J1lg6v21dCRxXetqNyy2SraGVL2+VLICKC3ruYDGznKgYcZan92GDQn7hzSifB7FxJ9M7XBsJVUa9aCKR9+mWYeYJBZKkraLhu2R6GUfff7WVN91IMJG203Ufjs5dlmYQVXF7tYbvnh1erGvQ==;1rgRG4ojy9sJOcM/L2cKew=="
+secured: "FBBtsDhSUqCnZa+HNpy+cNukHGTs9RMKsThe9aXIT3paAxFAF4WkV0nHVlySH1AmNRjC67Rv24un+phMcwklevyIWhZCe3DUSBAi0pBlA0YFaJasjZG3vXaiYpASqgeJ895B+1f/mDDaVPzt6Ow87ty9Ac+lKQ71IkCT+Sjsa/N/wEGvdU0DAApK+bOgsRBqKzfCJOufJ8mpDfvb8zqpIU0XUV2LfojLUgiLB7yM2KICai8c2khqg96t/Ci92Qvx2RvqxWF48zezsKvCtWbI1EtBD5kVGpKXxnRk/6hTl6FeHk/oJVqn7nwxa2jqfoi5zr9CgDKN9mjnofDWWf1T9c70pdhgqhrs1bSTAWeSzOO/DH8Yq7QvgfyjchzfebfqRnEBUD8p2jO8yMHtz3bF+7C0YJV7P1JrIwdf5gJp/myn7mTv8luaNw+mGrb9awbhOve0FHlMqcP6p+2K6r3k7cBloTmbwCEB1DO2uKhTvWshlgzJ33vR5ZTaXRvZSWafuxI8K5WkSrc8dDV69apSKv0FiUX2AmpZplLvUomYW5Q=;J6Dhung1KBVMBYdLqZuPpQ=="
 ---
 

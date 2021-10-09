@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Smart robots do all the work at Nissan’s ‘intelligent’ plant"
-    excerpt: "Nissan’s “intelligent factory” hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint"
-    publishedDateTime: 2021-10-08T10:53:00Z
-    webUrl: "https://www.wboy.com/technology/smart-robots-do-all-the-work-at-nissans-intelligent-plant/"
-    type: article
-    provider:
-      name: 12WBOY
-      domain: wboy.com
-    quality: 39
-    images:
-      - url: "https://www.wboy.com/wp-content/uploads/sites/43/2021/10/69eedfdbf52d49328102d2214f4b30ba.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Robots do the work at Nissan’s ‘intelligent’ plant"
     excerpt: "Nissan’s “intelligent factory” hardly has any human workers, with robots doing the work. The workers at the factory can focus on more skilled work such as analyzing data collected by the robots, and on maintaining the equipment."
     publishedDateTime: 2021-10-09T01:49:00Z

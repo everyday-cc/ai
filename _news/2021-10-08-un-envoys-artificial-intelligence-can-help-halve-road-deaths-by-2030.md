@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence can help halve road deaths by 2030, say UN envoys"
+    excerpt: "Countries and investors need to step up the development and use of artificial intelligence (AI) to keep roads safe for everyone, three UN Special Envoys said on Thursday, leading a new AI for Road Safety initiative."
+    publishedDateTime: 2021-10-08T14:51:00Z
+    webUrl: "https://news.un.org/en/story/2021/10/1102522"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 136
+    images:
+      - url: "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/08-12-2020-AI-autonomous-vehicle.jpg/image770x420cropped.jpg"
+        width: 770
+        height: 420
+        isCached: true
   - title: "Artificial intelligence can help halve road deaths by 2030"
     excerpt: "Countries and investors need to step up the development and use of artificial intelligence (AI) to keep roads safe for everyone"
     publishedDateTime: 2021-10-08T11:37:00Z

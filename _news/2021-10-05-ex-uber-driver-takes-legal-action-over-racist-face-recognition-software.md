@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2021/oct/05/ex-uber-driver-ta
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/oct/05/ex-uber-driver-takes-legal-action-over-racist-face-recognition-software"
 type: article
 quality: 143
-heat: 243
+heat: 233
 published: true
 
 provider:
@@ -166,20 +166,6 @@ related:
       - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/10/Website-2-1024x585.jpg"
         width: 1024
         height: 585
-        isCached: true
-  - title: "Uber is facing legal action for facial recognition ID checks that are racially biased"
-    excerpt: "In a legal test case, an Uber driver who lost his job when automatic face-scanning software failed to recognize him accuses the company of indirect race discrimination"
-    publishedDateTime: 2021-10-06T14:56:00Z
-    webUrl: "https://techstory.in/uber-is-facing-legal-action-for-facial-recognition-id-checks-that-are-racially-biased/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 32
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/10/PRI203646116.jpg"
-        width: 640
-        height: 427
         isCached: true
 
 secured: "WGGPWMK303o7AnIRH3ik6RiazgsNobz69+44pm9TgUCnbuH/hSZysV1LX7QfzQK+tO5gvT7ZicONgBlVJ9tD0XiMC07f6FVQHlBUGRd5VhPu7y1X03KkBa1z4HsQs7iJPfHJDr8M+aH8AKkYBbwNL0QikJGNEeA4nwkznr/WJfY/1cB2bFIARzkzTEBmSiSsrQf8/dHCKl5hvfubaHICo3Xfy1o6qyfhBlNFLPMgDXHP7LKGnGz6qAkY8hU8lx4u0AcCDJBmnTPtl7Ovmbq3v06K8rUZ7MC4/HjZUe9I0Ul0EKnbFDvemepFP5JPA6Wzb+z/0D/+4lmLba0RaXI4OP2x3GIBXcEvc6yMdEkrCm7mUNlOcRlpjCdXxU5mx2QDLHrvLDGxRvRuqB33dREqc8+i4czQ6ad6lQYNibVnVp2YR1b1X+9drXEgM/xQhfSZUp6N+MOXoPq3UCqViZMGQT2uvyMyk0psKpMMqK3D2Fpobd+muFBI1gm9/p7pp02vCPDvDY7dQx8VkigkZPACLHrdyDPaSCjjIDU821Dh9NY=;1cMt4lVBNJ0QiFHmzlujlA=="
