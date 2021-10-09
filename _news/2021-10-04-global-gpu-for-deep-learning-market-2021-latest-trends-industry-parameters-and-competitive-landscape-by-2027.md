@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-gpu-for-deep-lear
 webUrl: "https://www.marketwatch.com/press-release/global-gpu-for-deep-learning-market-2021-latest-trends-industry-parameters-and-competitive-landscape-by-2027-2021-10-04"
 type: article
 quality: 67
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Geospatial Analytics Artificial Intelligence Market 2021 Key Players Insights, Growth Challenges and Forecast to 2027"
+    excerpt: "A recently uploaded report namely Global Geospatial Analytics Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2027 has provided unique insights about the market for the given period."
+    publishedDateTime: 2021-10-07T00:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-geospatial-analytics-artificial-intelligence-market-2021-key-players-insights-growth-challenges-and-forecast-to-2027-2021-10-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

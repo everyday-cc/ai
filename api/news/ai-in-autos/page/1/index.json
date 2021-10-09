@@ -254,6 +254,59 @@
       ]
     },
     {
+      "path": "_news/2021-10-06-facebook-snafu-prompts-realization-about-rescuing-ai-self-driving-cars-from-single-points-of-failure.md",
+      "title": "Facebook Snafu Prompts Realization About Rescuing AI Self-Driving Cars From Single Points Of Failure",
+      "excerpt": "Why singles points of failure are dangerous for self-driving cars and how redundancy is needed to aid in reducing risks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/06/facebook-snafu-prompts-realization-about-rescuing-ai-self-driving-cars-from-single-points-of-failure/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/06/facebook-snafu-prompts-realization-about-rescuing-ai-self-driving-cars-from-single-points-of-failure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601893ecc2c4f9d38496d638%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2048%26cropY1%3D219%26cropY2%3D1371",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/06/facebook-snafu-prompts-realization-about-rescuing-ai-self-driving-cars-from-single-points-of-failure/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/06/facebook-snafu-prompts-realization-about-rescuing-ai-self-driving-cars-from-single-points-of-failure/amp/",
+      "publishedDateTime": "2021-10-06T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-wayve-the-lidar-free-self-driving-startup-raises-136m-from-ocado.md",
       "title": "Wayve, the Lidar-free self-driving startup, raises $13.6M from Ocado",
       "excerpt": "Wayve, a U.K.-based self-driving startup that is notable for its use of deep learning and cameras rather than more-costly Lidar and other sensors to guide vehicles, is gearing up for its next stage of development with a strategic backer in its pocket.",
@@ -293,6 +346,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-self-driving-cars-have-brain-wave.md",
+      "title": "Self-driving cars have brain wave",
+      "excerpt": "Self-driving supermarkets and autonomous electric taxis capable of slashing emissions in New York are some of the innovations driving the driverless revolution. The issue of safety is the recurring question though,",
+      "sourceUrl": null,
+      "webUrl": "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/",
+      "originalUrl": "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.innovatorsmag.com/wp-content/uploads/2021/10/erik-mclean-ZWW2SDPaC54-unsplash-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/amp/",
+      "cdnAmpWebUrl": "https://www-innovatorsmag-com.cdn.ampproject.org/c/s/www.innovatorsmag.com/self-driving-cars-have-brain-wave/amp/",
+      "publishedDateTime": "2021-10-05T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "innovatorsmag.com",
+        "domain": "innovatorsmag.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -485,58 +581,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-those-unassuming-exurbs-that-are-just-beyond-the-suburbs-are-aiming-to-grow-due-to-ai-self-driving-cars.md",
-      "title": "Those Unassuming Exurbs That Are Just Beyond The Suburbs Are Aiming To Grow Due To AI Self-Driving Cars",
-      "excerpt": "There are recent headlines that people are moving out to the exurbs, a moniker seldom used but that is increasingly becoming known. The odds are that AI self-driving cars will aid in driving the shift toward living in the exurbs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/04/those-unassuming-exurbs-that-are-just-beyond-the-suburbs-are-aiming-to-grow-due-to-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/04/those-unassuming-exurbs-that-are-just-beyond-the-suburbs-are-aiming-to-grow-due-to-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ee31af9d9c100bf059d7a9%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3939%26cropY1%3D196%26cropY2%3D2411",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/04/those-unassuming-exurbs-that-are-just-beyond-the-suburbs-are-aiming-to-grow-due-to-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/04/those-unassuming-exurbs-that-are-just-beyond-the-suburbs-are-aiming-to-grow-due-to-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-10-04T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -1381,49 +1425,6 @@
       "provider": {
         "name": "Barron's",
         "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-gm-invests-300-million-in-momenta-to-deliver-next-generation-self-driving-technologies-in-china.md",
-      "title": "GM Invests $300 Million in Momenta to Deliver Next-Generation Self-Driving Technologies in China",
-      "excerpt": "General Motors will invest $300 million in Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China. “Customers in China are embracing electrification and advanced self-driving technology faster than anywhere else in the world,",
-      "sourceUrl": null,
-      "webUrl": "https://electriccarsreport.com/2021/09/gm-invests-300-million-in-momenta-to-deliver-next-generation-self-driving-technologies-in-china/",
-      "originalUrl": "https://electriccarsreport.com/2021/09/gm-invests-300-million-in-momenta-to-deliver-next-generation-self-driving-technologies-in-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electriccarsreport.com/wp-content/uploads/2021/09/GM-Momenta.jpg?7a2bad&7a2bad",
-          "width": 640,
-          "height": 321,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "electriccarsreport.com",
-        "domain": "electriccarsreport.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving Citroën Skate carries swappable pods for inner-city travel"
-    excerpt: "Citroën has introduced an interesting mobility concept that brings together several forward-looking transport technologies into one versatile vehicle. The Citroën Skate is a self-driving electric vehicle platform that can be fitted with different types of pods depending on the job at hand,"
-    publishedDateTime: 2021-10-04T05:34:00Z
-    webUrl: "https://newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/"
-    ampWebUrl: "https://newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 74
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/49de448/2147483647/strip/true/crop/1620x1080+150+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F55%2Fbb%2F8ecafcfd49cda55007acc29fd6b4%2Fcitroen-pullman-hero.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Self-driving Citroën Skate has swappable passenger pods that can be installed ..."
     excerpt: "French automaker Citroën has unveiled the Skate, a driverless electric transport with three modules - including a luxury banquette and a fitness pod"
     publishedDateTime: 2021-10-04T15:19:00Z

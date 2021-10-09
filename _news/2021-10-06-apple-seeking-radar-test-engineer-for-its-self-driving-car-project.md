@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Those Unassuming Exurbs That Are Just Beyond The Suburbs Are Aiming To Grow Due To AI Self-Driving Cars"
-    excerpt: "There are recent headlines that people are moving out to the exurbs, a moniker seldom used but that is increasingly becoming known. The odds are that AI self-driving cars will aid in driving the shift toward living in the exurbs."
-    publishedDateTime: 2021-10-04T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/04/those-unassuming-exurbs-that-are-just-beyond-the-suburbs-are-aiming-to-grow-due-to-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/04/those-unassuming-exurbs-that-are-just-beyond-the-suburbs-are-aiming-to-grow-due-to-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/04/those-unassuming-exurbs-that-are-just-beyond-the-suburbs-are-aiming-to-grow-due-to-ai-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ee31af9d9c100bf059d7a9%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3939%26cropY1%3D196%26cropY2%3D2411"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Most Self-Driving Demonstrations Are Theater, Here’s How To Make Them More Real"
-    excerpt: "Many self-driving teams have released videos of their cars driving without problems in order to impress. But cherry picked videos say little. By doing a random route at a random time and showing it live,"
-    publishedDateTime: 2021-10-06T17:46:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 70
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615de07c94907055fb9bcce9%2F0x0.jpg"
-        width: 997
-        height: 555
-        isCached: true
   - title: "Self-driving cars have brain wave"
     excerpt: "Self-driving supermarkets and autonomous electric taxis capable of slashing emissions in New York are some of the innovations driving the driverless revolution. The issue of safety is the recurring question though,"
     publishedDateTime: 2021-10-05T14:28:00Z
@@ -72,6 +40,22 @@ related:
       - url: "https://www.innovatorsmag.com/wp-content/uploads/2021/10/erik-mclean-ZWW2SDPaC54-unsplash-scaled.jpg"
         width: 2560
         height: 1707
+        isCached: true
+  - title: "How Will Self-Driving Cars Change the Way We Live?"
+    excerpt: "After a few years of radio silence, autonomous vehicles are in the news again. Here is a review of how we thought they might change the world."
+    publishedDateTime: 2021-10-04T16:14:00Z
+    webUrl: "https://www.treehugger.com/how-self-driving-cars-change-the-way-we-live-5204422"
+    ampWebUrl: "https://www.treehugger.com/amp/how-self-driving-cars-change-the-way-we-live-5204422"
+    cdnAmpWebUrl: "https://www-treehugger-com.cdn.ampproject.org/c/s/www.treehugger.com/amp/how-self-driving-cars-change-the-way-we-live-5204422"
+    type: article
+    provider:
+      name: TreeHugger
+      domain: treehugger.com
+    quality: 44
+    images:
+      - url: "https://www.treehugger.com/thmb/IaocmPhCwqF3FFckRlbmiRTjH3A=/3076x1775/filters:fill(auto,1)/chandler_depot-f96eb37f804b4f40b34ccb29392d7d4d.jpeg"
+        width: 3076
+        height: 1775
         isCached: true
   - title: "Making self-driving cars human-friendly"
     excerpt: "Automated vehicles could be made more pedestrian-friendly thanks to new research which could help them predict when people will cross the road."
@@ -89,6 +73,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Blockchain Tech Could Be the Solution Against Hacked Drones or Self-Driving Cars"
+    excerpt: "A near future where robotaxis and autonomous trucks are safely sharing the roads with regular vehicles, while cargo drones up in the air are making most of our deliveries, sounds like a wonderful idea."
+    publishedDateTime: 2021-10-06T09:42:00Z
+    webUrl: "https://www.autoevolution.com/news/blockchain-tech-could-be-the-solution-against-hacked-drones-or-self-driving-cars-171057.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 34
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/blockchain-tech-could-be-the-solution-against-hacked-drones-or-self-driving-cars-171057-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
   - title: "Making self-driving cars human-friendly"
     excerpt: "Automated vehicles could be made more pedestrian-friendly thanks to new research which could help them predict when people will cross the road. Scientists investigating how to better understand human behavior in traffic say that neuroscientific theories of how the brain makes decisions can be used in automated vehicle technology to improve safety and make them more human-friendly."
     publishedDateTime: 2021-10-06T13:07:00Z
@@ -98,6 +96,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 34
+  - title: "Geely has built satellites to guide its self-driving cars"
+    excerpt: "After bang-for-your-buck crossovers and sedans, affordable electric vehicles, and high-end smartphones, Geely is now building satellites. Eighteen months after the start of construction of its satellite production and testing center in Taizhou,"
+    publishedDateTime: 2021-10-06T04:30:00Z
+    webUrl: "https://www.topgear.com.ph/news/industry-news/geely-satellites-self-driving-vehicles-a4354-20211006"
+    type: article
+    provider:
+      name: Top Gear Philippines
+      domain: topgear.com.ph
+    quality: 24
+    images:
+      - url: "http://images.summitmedia-digital.com/topgear/images/2021/10/06/geely-satellite-production-self-driving-cars-02-1633490695.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "5L+hX5uNWVCU86fPa9lTV7MCbgZVg0cf1q2P/4P+l0mZta++xyCpSQypT03sSklD80FkzyVtcYS0LpMvtRIAWYwMlZ01FTAxurJkMBdwdMK8iqGTiX34/RX3clCFUAfZ8m0x6NXM/43NYZTBHkSC2QRIgfV4jzj906wj//kufgtpL3iGTng23M9LtOPjDzRuDg8SYawMp6g+9r2tUYB+Jb9qhxrQhGdsDhAFbVZG6ZmnfBnoHK4d5X6YVCtTHqtVMf3mj1328yoBKQTgxEeeU6PBgRqjsSTxyg2e0xipNo2XIHcykGI1qF8PyuS6QwAvvgAK5x2G7gWC5W1H7qpnaRIK7ncMHsOQKfKMjUSK0jc=;emmVXjKUwBJym33FskwQpw=="
 ---

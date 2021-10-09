@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/06/simulated-ai-creatures-demonstrate
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/simulated-ai-creatures-demonstrate-how-mind-and-body-evolve-and-succeed-together/amp/"
 type: article
 quality: 82
-heat: 84
+heat: 82
 published: true
 
 provider:

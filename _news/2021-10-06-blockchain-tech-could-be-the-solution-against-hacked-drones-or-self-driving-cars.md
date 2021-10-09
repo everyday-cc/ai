@@ -25,33 +25,90 @@ images:
     isCached: true
 
 related:
-  - title: "From Drug Design To Distribution: This Is How Robotics, A.I. and Blockchain Transforms Pharma"
-    excerpt: "Exoskeletons to aid pharma factory workers. 3D printing to allow pharmacies to produce drugs on the spot. Blockchain technologies to help fight counterfeit drugs. These are just bits and pieces, but the entire process of the pharmaceutical supply chain will be affected by disruptive technologies."
-    publishedDateTime: 2021-10-06T07:49:00Z
-    webUrl: "https://www.linkedin.com/pulse/from-drug-design-distribution-how-robotics-ai-pharma-meskó-md-phd"
+  - title: "Self-driving cars have brain wave"
+    excerpt: "Self-driving supermarkets and autonomous electric taxis capable of slashing emissions in New York are some of the innovations driving the driverless revolution. The issue of safety is the recurring question though,"
+    publishedDateTime: 2021-10-05T14:28:00Z
+    webUrl: "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/"
+    ampWebUrl: "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/amp/"
+    cdnAmpWebUrl: "https://www-innovatorsmag-com.cdn.ampproject.org/c/s/www.innovatorsmag.com/self-driving-cars-have-brain-wave/amp/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 58
+      name: innovatorsmag.com
+      domain: innovatorsmag.com
+    quality: 59
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQH7yBw6eCSWYA/article-cover_image-shrink_720_1280/0/1633506465376?e=1639008000&v=beta&t=_U-6bUqcs-f9bJe726tT0G7pyblRADpeKHyj0nIGonc"
-        width: 1280
-        height: 720
+      - url: "https://www.innovatorsmag.com/wp-content/uploads/2021/10/erik-mclean-ZWW2SDPaC54-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
-  - title: "Using blockchain technology to protect robots"
-    excerpt: "Control Engineering - Imagine a team of autonomous drones equipped with advanced sensing equipment, searching for smoke as they fly high above the Sierra Nevada mountains. Once"
-    publishedDateTime: 2021-10-08T05:02:00Z
-    webUrl: "https://www.controleng.com/articles/using-blockchain-technology-to-protect-robots/"
+  - title: "How Will Self-Driving Cars Change the Way We Live?"
+    excerpt: "After a few years of radio silence, autonomous vehicles are in the news again. Here is a review of how we thought they might change the world."
+    publishedDateTime: 2021-10-04T16:14:00Z
+    webUrl: "https://www.treehugger.com/how-self-driving-cars-change-the-way-we-live-5204422"
+    ampWebUrl: "https://www.treehugger.com/amp/how-self-driving-cars-change-the-way-we-live-5204422"
+    cdnAmpWebUrl: "https://www-treehugger-com.cdn.ampproject.org/c/s/www.treehugger.com/amp/how-self-driving-cars-change-the-way-we-live-5204422"
     type: article
     provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 54
+      name: TreeHugger
+      domain: treehugger.com
+    quality: 44
     images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/10/CTL2110_WEB_IMG_MIT_Blockchain_Robots-Slider.jpeg"
-        width: 645
-        height: 350
+      - url: "https://www.treehugger.com/thmb/IaocmPhCwqF3FFckRlbmiRTjH3A=/3076x1775/filters:fill(auto,1)/chandler_depot-f96eb37f804b4f40b34ccb29392d7d4d.jpeg"
+        width: 3076
+        height: 1775
+        isCached: true
+  - title: "Making self-driving cars human-friendly"
+    excerpt: "Automated vehicles could be made more pedestrian-friendly thanks to new research which could help them predict when people will cross the road."
+    publishedDateTime: 2021-10-05T08:07:00Z
+    webUrl: "https://techxplore.com/news/2021-10-self-driving-cars-human-friendly.html"
+    ampWebUrl: "https://techxplore.com/news/2021-10-self-driving-cars-human-friendly.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-self-driving-cars-human-friendly.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/making-self-driving-ca-1.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Making self-driving cars human-friendly"
+    excerpt: "Automated vehicles could be made more pedestrian-friendly thanks to new research which could help them predict when people will cross the road. Scientists investigating how to better understand human behavior in traffic say that neuroscientific theories of how the brain makes decisions can be used in automated vehicle technology to improve safety and make them more human-friendly."
+    publishedDateTime: 2021-10-06T13:07:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/10/211004203419.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
+  - title: "Apple Seeking ‘Radar Test Engineer’ for its Self-Driving Car Project"
+    excerpt: "According to a new job listing, Apple is looking for a Radar Test Engineer for its self-driving car project, reaffirming the company’s commitment towards its autonomous, electric vehicle efforts. “Apple SPG is looking for a Radar Test Engineer to join our Sensors team,"
+    publishedDateTime: 2021-10-05T18:51:00Z
+    webUrl: "https://www.iphoneincanada.ca/news/apple-seeking-radar-test-engineer/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 24
+    images:
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/10/apple-car.jpg"
+        width: 640
+        height: 335
+        isCached: true
+  - title: "Geely has built satellites to guide its self-driving cars"
+    excerpt: "After bang-for-your-buck crossovers and sedans, affordable electric vehicles, and high-end smartphones, Geely is now building satellites. Eighteen months after the start of construction of its satellite production and testing center in Taizhou,"
+    publishedDateTime: 2021-10-06T04:30:00Z
+    webUrl: "https://www.topgear.com.ph/news/industry-news/geely-satellites-self-driving-vehicles-a4354-20211006"
+    type: article
+    provider:
+      name: Top Gear Philippines
+      domain: topgear.com.ph
+    quality: 24
+    images:
+      - url: "http://images.summitmedia-digital.com/topgear/images/2021/10/06/geely-satellite-production-self-driving-cars-02-1633490695.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "75mjl51dWAXVUYDGeCJWFpE3WhogZVXnZubIt5bxoglI4QfsACWEuQcOqVC7TKH4sj83Zo9y5E6i+wNwTwk1KIlGwlXWRPFemrq/huC9g+3XgF5XQhRAUOsACFUQOvZVmGfB2i3/E2JQecMJY2gzkx+8agaWFGgEaFOjsCG/8LhikvLtCDLa5b4dTUQvi9BJe/mcXZisr37qzfFQSRy6xHrcsyoaqTMmsMfvJcGo7XDEN2jNsVmzcihwi19D56QTRePDD7I9e/C2PeE1L2gQzNvAnO/LyDgkpS2gzPGTL8Zcc2FFTuIK6AVc8bv/pKuUizhjcJRlKdQAQ16xBybouCDtr8JBLKAQF6NoEyWt/BqZq1FRyS5SOPxojHqDuLxXtt+cSRk+J6V+qI5bObfCKIK7+qlqxXcmDWySdK4hm+T2xB3TZfookJ3dCd0U8rAELhvwUARxA1QD3PGDu7eSTaVJjF8ENQ0VeFCYgZ2potn2Dd4aQ0qIcyYmw3pNje79hnTGvj5xfPxYHblBHKEpNw==;CqOf8OnRPqYdWdTVfJqCzw=="

@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Geospatial Analytics Artificial Intelligence Market 2021 Key Players Insights, Growth Challenges and Forecast to 2027"
+    excerpt: "A recently uploaded report namely Global Geospatial Analytics Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2027 has provided unique insights about the market for the given period."
+    publishedDateTime: 2021-10-07T00:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-geospatial-analytics-artificial-intelligence-market-2021-key-players-insights-growth-challenges-and-forecast-to-2027-2021-10-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Far-field Speech Recognition Market 2021 Size, Trends, Scope, Demand, Opportunity and Forecast by 2027| Covering COVID-19 impact Analysis"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “ Far-field Speech Recognition Market ” report covering growth prospects, market development potential, profitability,"
     publishedDateTime: 2021-10-07T09:16:00Z

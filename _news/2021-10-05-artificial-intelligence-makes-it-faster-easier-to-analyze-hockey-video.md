@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/930344"
 webUrl: "https://www.eurekalert.org/news-releases/930344"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Artificial intelligence makes it faster, easier to analyze hockey video"
-    excerpt: "Researchers have made a key advancement in the development of technology to automatically analyze video of hockey games using artificial intelligence."
-    publishedDateTime: 2021-10-04T06:33:00Z
-    webUrl: "https://phys.org/news/2021-10-artificial-intelligence-faster-easier-hockey.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 37
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/hockey.jpg"
-        width: 1920
-        height: 1279
-        isCached: true
 
 secured: "1/x1K0wYt+4YS8hXQNywL23El1+6H/lm9aj5yUunKHmOpoDZhpkaDKiJ0WTjTcGs6EXe28bOO6jPmqMNZcpBqbRQ9sMReVw4efqkENk0YJkx+KtV46pBW2uvlScjmH0yHrJ+BwdGQ4ms6MVqGp6SJowv7ZtAyOzUEi8s1Ygn5T1JIXmsSEB36vDlWYC/q8ZMbIr4de9uRy+NAA8LrZp+UDnH13M5XpuDunbeZLmwNjFroTho10MpAiwIvJJ1TDwSDiHHg78rFpqgW5SAapJIqo+2StBj1qRwY9vBQItBJMEOMrjh2GFHfv45udL4eOdEnIAiPDoTYFMqsQPs+HtYBJGGSelM6xlexibye/eFOjw=;MaHfUETnt54cZXJc6oFh5A=="
 ---

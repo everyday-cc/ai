@@ -9,7 +9,7 @@ ampWebUrl: "https://en.mogaznews.com/Technology/amp/1840031"
 cdnAmpWebUrl: "https://en-mogaznews-com.cdn.ampproject.org/c/s/en.mogaznews.com/Technology/amp/1840031"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving Citroën Skate carries swappable pods for inner-city travel"
-    excerpt: "Citroën has introduced an interesting mobility concept that brings together several forward-looking transport technologies into one versatile vehicle. The Citroën Skate is a self-driving electric vehicle platform that can be fitted with different types of pods depending on the job at hand,"
-    publishedDateTime: 2021-10-04T05:34:00Z
-    webUrl: "https://newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/"
-    ampWebUrl: "https://newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 74
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/49de448/2147483647/strip/true/crop/1620x1080+150+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F55%2Fbb%2F8ecafcfd49cda55007acc29fd6b4%2Fcitroen-pullman-hero.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Pullman Power Fitness and Citroën create self-driving fitness pod concept"
     excerpt: "French car manufacturer Citroën and hotel brand Pullman Hotels & Resorts have partnered to create an autonomous"
     publishedDateTime: 2021-10-05T11:06:00Z

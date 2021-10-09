@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/business/live-news/facebook-senate-hearing-1
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/business/live-news/facebook-senate-hearing-10-05-21/index.html"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1235713956.jpg?w=1024"
         width: 1024
         height: 575
+        isCached: true
+  - title: "The Facebook whistleblower says its algorithms are dangerous. Here’s why."
+    excerpt: "Frances Haugen’s testimony at the Senate hearing today raised serious questions about how Facebook’s algorithms work—and echoes many findings from our previous investigation."
+    publishedDateTime: 2021-10-05T20:16:00Z
+    webUrl: "https://www.technologyreview.com/2021/10/05/1036519/facebook-whistleblower-frances-haugen-algorithms/"
+    ampWebUrl: "https://www.technologyreview.com/2021/10/05/1036519/facebook-whistleblower-frances-haugen-algorithms/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/10/05/1036519/facebook-whistleblower-frances-haugen-algorithms/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 43
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/10/gettyimages-1235711856.jpg?w=3000"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "RAADR, Inc. Applauds Facebook Whistleblower Francis Haugen For Her Congressional Testimony"
     excerpt: "RAADR, Inc. (OTC PINK: RDAR), a technology and software development company that monitors cyber-bullying and social media platforms with artificial intelligence announced today that it applauds and unequivocally endorses the testimony of SEC Whistleblower Francis Haugen in a hearing in front of the Subcommittee on Consumer Protection,"

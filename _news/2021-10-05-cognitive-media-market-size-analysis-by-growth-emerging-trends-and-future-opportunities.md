@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market 2021-26: Size, Share, Trends, Analysis and Research Report"
-    excerpt: "The global artificial intelligence market reached a value of US$ 40.21 Billion in 2020. Looking forward, IMARC Group expects the market to exhibit robust growth during 2021-2026, according to the latest report by IMARC Group."
-    publishedDateTime: 2021-10-05T07:38:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-market-2021-26-size-share-trends-analysis-and-research-report/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-market-2021-26-size-share-trends-analysis-and-research-report/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-2021-26-size-share-trends-analysis-and-research-report/?amp=1"
+  - title: "Secure Messaging In Healthcare Market Development, Innovation, Opportunities And Growth"
+    excerpt: "The Secure Messaging In Healthcare Market is expected to be worth US 979 Million at a CAGR of 20 between 2019 to 2029 Healthcare is going the digital way In other words artificial intelligence AI enabled medical devices and telemedicine"
+    publishedDateTime: 2021-10-08T23:57:00Z
+    webUrl: "https://www.openpr.com/news/2423251/secure-messaging-in-healthcare-market-development"
+    ampWebUrl: "https://www.openpr.com/amp/2423251/secure-messaging-in-healthcare-market-development"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2423251/secure-messaging-in-healthcare-market-development"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 50
+      name: openpr.com
+      domain: openpr.com
+    quality: 51
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/artifical-intelligence-market-30.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "AI Computing Hardware Market Valuable Growth Prospects, Size, Share, Demand and Current Trends Analysis"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 07, 2021, 02:35 /Comserve / -- AI Computing Hardware Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies,"
-    publishedDateTime: 2021-10-07T08:41:00Z
-    webUrl: "https://menafn.com/1102932014/AI-Computing-Hardware-Market-Valuable-Growth-Prospects-Size-Share-Demand-and-Current-Trends-Analysis"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 23
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?202236"
-        width: 444
-        height: 250
+      - url: "https://cdn.openpr.com/U/a/Ua09944352_g.jpg"
+        width: 620
+        height: 381
         isCached: true
 
 secured: "G0f7wg8m0jeu0PBp1AEQrFN40knhgBykZI5XDFTEgZTCPaLVf/8+T1M/Fy+QKvi9x3U9XC/9gZ0Kjbh218BcctSP2MhESd/ZLpZ44HgTS09xweFJ4EOVjymse9K18e4kHXFKUBUukE+IlV+7esVRF7B/JGLbuhpID9Vnj2vLRwSB78MhzVKBTSChjID6lOF5Rhugz81valpruTR6CoC0DlsmZcgEAX4Bujv+h3Jjuhr9n2hcxc7ccr8DNa6aZN87hZuKZ4NvkkstRvWle+5wYnDWkmUNSt6DCwOG/+UW3fYGArou0zVtC9UVWVZ9AnlkJGDlCiqzQ2hUgpr1X8HUyKVcewPpldkXynqlKfv0odE=;9+VWgBtAD7Jl21bijz82xA=="

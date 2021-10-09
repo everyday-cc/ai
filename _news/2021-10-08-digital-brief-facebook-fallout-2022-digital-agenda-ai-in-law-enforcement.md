@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "For Tesla, Facebook and Others, AI’s Flaws Are Getting Harder to Ignore"
-    excerpt: "Investors are pouring money into artificial intelligence, despite clear setbacks in self-driving cars, social media and even healthcare."
-    publishedDateTime: 2021-10-04T07:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2021-10-04/artificial-intelligence-ain-t-that-smart-look-at-tesla-facebook-healthcare"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_t5K2dNQfTk/v1/1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Facebook Snafu Prompts Realization About Rescuing AI Self-Driving Cars From Single Points Of Failure"
     excerpt: "Why singles points of failure are dangerous for self-driving cars and how redundancy is needed to aid in reducing risks."
     publishedDateTime: 2021-10-06T15:30:00Z
@@ -71,21 +57,37 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "The Facebook whistleblower says its algorithms are dangerous. Here’s why."
-    excerpt: "Frances Haugen’s testimony at the Senate hearing today raised serious questions about how Facebook’s algorithms work—and echoes many findings from our previous investigation."
-    publishedDateTime: 2021-10-05T20:16:00Z
-    webUrl: "https://www.technologyreview.com/2021/10/05/1036519/facebook-whistleblower-frances-haugen-algorithms/"
-    ampWebUrl: "https://www.technologyreview.com/2021/10/05/1036519/facebook-whistleblower-frances-haugen-algorithms/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/10/05/1036519/facebook-whistleblower-frances-haugen-algorithms/amp/"
+  - title: "Those Unassuming Exurbs That Are Just Beyond The Suburbs Are Aiming To Grow Due To AI Self-Driving Cars"
+    excerpt: "There are recent headlines that people are moving out to the exurbs, a moniker seldom used but that is increasingly becoming known. The odds are that AI self-driving cars will aid in driving the shift toward living in the exurbs."
+    publishedDateTime: 2021-10-04T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/04/those-unassuming-exurbs-that-are-just-beyond-the-suburbs-are-aiming-to-grow-due-to-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/04/those-unassuming-exurbs-that-are-just-beyond-the-suburbs-are-aiming-to-grow-due-to-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/04/those-unassuming-exurbs-that-are-just-beyond-the-suburbs-are-aiming-to-grow-due-to-ai-self-driving-cars/amp/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 43
+      name: Forbes
+      domain: forbes.com
+    quality: 73
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/10/gettyimages-1235711856.jpg?w=3000"
-        width: 3000
-        height: 2000
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ee31af9d9c100bf059d7a9%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3939%26cropY1%3D196%26cropY2%3D2411"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Most Self-Driving Demonstrations Are Theater, Here’s How To Make Them More Real"
+    excerpt: "Many self-driving teams have released videos of their cars driving without problems in order to impress. But cherry picked videos say little. By doing a random route at a random time and showing it live,"
+    publishedDateTime: 2021-10-06T17:46:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/"
+    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 70
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615de07c94907055fb9bcce9%2F0x0.jpg"
+        width: 997
+        height: 555
         isCached: true
   - title: "Need for Rise of Ethical Contents. The Reasons. Today’s Facebook News is just an example. Role of AI"
     excerpt: "Not just Facebook, any news application can intentionally or unintendedly spread mis-information or wrong content.  Even as in my previous article, there has been mention of foreign forces in playing with the news contents,"

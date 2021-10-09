@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Computer Vision Market to Reach $41.11 Bn, Globally, by 2030 at 16.0% CAGR: Allied Market Research"
-    excerpt: "Allied Market Research published a report, titled, \"Computer Vision Market by Component (Hardware, Software and Services), Product"
-    publishedDateTime: 2021-10-04T13:10:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-301391685.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
-    images:
-      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
-        width: 2000
-        height: 1046
-        isCached: true
   - title: "Conversational AI Market to Reach $32.62 Billion, Globally, By 2030 at 20.0% CAGR: Allied Market Research"
     excerpt: "Surge in demand for AI-powered customer support services, growth in adoption of data center applications, and rise in deployment of omni-channel methods drive the growth of the global conversational AI market."
     publishedDateTime: 2021-10-06T13:09:00Z

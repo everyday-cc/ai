@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/04/those-unassuming-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/04/those-unassuming-exurbs-that-are-just-beyond-the-suburbs-are-aiming-to-grow-due-to-ai-self-driving-cars/amp/"
 type: article
 quality: 73
-heat: 123
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook Snafu Prompts Realization About Rescuing AI Self-Driving Cars From Single Points Of Failure"
+    excerpt: "Why singles points of failure are dangerous for self-driving cars and how redundancy is needed to aid in reducing risks."
+    publishedDateTime: 2021-10-06T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/06/facebook-snafu-prompts-realization-about-rescuing-ai-self-driving-cars-from-single-points-of-failure/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/06/facebook-snafu-prompts-realization-about-rescuing-ai-self-driving-cars-from-single-points-of-failure/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/06/facebook-snafu-prompts-realization-about-rescuing-ai-self-driving-cars-from-single-points-of-failure/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601893ecc2c4f9d38496d638%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2048%26cropY1%3D219%26cropY2%3D1371"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "For Tesla, Facebook and others, AI’s flaws are getting harder to ignore"
+    excerpt: "Investors are pouring money into artificial intelligence, despite clear setbacks in self-driving cars, social media and even healthcare"
+    publishedDateTime: 2021-10-04T22:49:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/for-tesla-facebook-and-others-ai-s-flaws-are-getting-harder-to-ignore-11633345960984.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/for-tesla-facebook-and-others-ai-s-flaws-are-getting-harder-to-ignore/amp-11633345960984.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/for-tesla-facebook-and-others-ai-s-flaws-are-getting-harder-to-ignore/amp-11633345960984.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 74
+    images:
+      - url: "https://images.livemint.com/img/2021/10/04/600x338/TESLA-MUSK-BIDEN-0_1633346250616_1633346274524.JPG"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Most Self-Driving Demonstrations Are Theater, Here’s How To Make Them More Real"
     excerpt: "Many self-driving teams have released videos of their cars driving without problems in order to impress. But cherry picked videos say little. By doing a random route at a random time and showing it live,"
     publishedDateTime: 2021-10-06T17:46:00Z
@@ -47,60 +79,61 @@ related:
         width: 997
         height: 555
         isCached: true
-  - title: "Self-driving cars have brain wave"
-    excerpt: "Self-driving supermarkets and autonomous electric taxis capable of slashing emissions in New York are some of the innovations driving the driverless revolution. The issue of safety is the recurring question though,"
-    publishedDateTime: 2021-10-05T14:28:00Z
-    webUrl: "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/"
-    ampWebUrl: "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/amp/"
-    cdnAmpWebUrl: "https://www-innovatorsmag-com.cdn.ampproject.org/c/s/www.innovatorsmag.com/self-driving-cars-have-brain-wave/amp/"
+  - title: "Need for Rise of Ethical Contents. The Reasons. Today’s Facebook News is just an example. Role of AI"
+    excerpt: "Not just Facebook, any news application can intentionally or unintendedly spread mis-information or wrong content.  Even as in my previous article, there has been mention of foreign forces in playing with the news contents,"
+    publishedDateTime: 2021-10-05T19:46:00Z
+    webUrl: "https://www.linkedin.com/pulse/need-rise-ethical-contents-reasons-todays-facebook-news-nidhika-yadav"
     type: article
     provider:
-      name: innovatorsmag.com
-      domain: innovatorsmag.com
-    quality: 59
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 41
     images:
-      - url: "https://www.innovatorsmag.com/wp-content/uploads/2021/10/erik-mclean-ZWW2SDPaC54-unsplash-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
+        width: 1400
+        height: 800
         isCached: true
-  - title: "Making self-driving cars human-friendly"
-    excerpt: "Automated vehicles could be made more pedestrian-friendly thanks to new research which could help them predict when people will cross the road."
-    publishedDateTime: 2021-10-05T08:07:00Z
-    webUrl: "https://techxplore.com/news/2021-10-self-driving-cars-human-friendly.html"
-    ampWebUrl: "https://techxplore.com/news/2021-10-self-driving-cars-human-friendly.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-self-driving-cars-human-friendly.amp"
+  - title: "Delete Your Face Data on Facebook, Turn Off Facial Recognition"
+    excerpt: "If you want to prevent Facebook from doing it automatically, then follow this simple 2-minute read on \"How to Delete your Face Data on Facebook by Turning Off Facial Recognition\"."
+    publishedDateTime: 2021-10-05T17:31:00Z
+    webUrl: "https://gadgetstouse.com/blog/2021/10/05/delete-your-face-data-facebook-turn-off-facial-recognition/"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 44
+      name: Gadgets To Use
+      domain: gadgetstouse.com
+    quality: 39
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/making-self-driving-ca-1.jpg"
-        width: 1024
-        height: 682
+      - url: "https://media.gadgetstouse.com/wp-content/uploads/2021/10/featuredimage.jpg"
+        width: 1379
+        height: 776
         isCached: true
-  - title: "Making self-driving cars human-friendly"
-    excerpt: "Automated vehicles could be made more pedestrian-friendly thanks to new research which could help them predict when people will cross the road. Scientists investigating how to better understand human behavior in traffic say that neuroscientific theories of how the brain makes decisions can be used in automated vehicle technology to improve safety and make them more human-friendly."
-    publishedDateTime: 2021-10-06T13:07:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/10/211004203419.htm"
+  - title: "Facebook AI’s SOTA Speech Translation Models Go Against Grain"
+    excerpt: "Now, Facebook AI and self-described “AI community” Hugging Face have announced the release of their joint state-of-the-art speech translation models. The models build on previ"
+    publishedDateTime: 2021-10-08T07:38:00Z
+    webUrl: "https://slator.com/facebook-ai-sota-speech-translation-models-go-against-grain/"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 34
-  - title: "Apple Seeking ‘Radar Test Engineer’ for its Self-Driving Car Project"
-    excerpt: "According to a new job listing, Apple is looking for a Radar Test Engineer for its self-driving car project, reaffirming the company’s commitment towards its autonomous, electric vehicle efforts. “Apple SPG is looking for a Radar Test Engineer to join our Sensors team,"
-    publishedDateTime: 2021-10-05T18:51:00Z
-    webUrl: "https://www.iphoneincanada.ca/news/apple-seeking-radar-test-engineer/"
-    type: article
-    provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
-    quality: 24
+      name: Slator
+      domain: slator.com
+    quality: 39
     images:
-      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/10/apple-car.jpg"
-        width: 640
-        height: 335
+      - url: "https://slator.com/assets/2021/10/Facebook-Speech-to-Speech-Machine-Translation.png"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Digital Brief: Facebook fallout, 2022 digital agenda, AI in law enforcement"
+    excerpt: "Welcome to EURACTIV’s Digital Brief, your weekly update on all things digital in the EU. You can subscribe to the newsletter here.  “The things I saw at Facebook over and over again was,"
+    publishedDateTime: 2021-10-08T14:15:00Z
+    webUrl: "https://www.euractiv.com/section/digital/news/digital-brief-facebook-fallout-2022-digital-agenda-ai-in-law-enforcement/"
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 37
+    images:
+      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/10/1-1-800x450.png"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "m6WOFzFb7SQ/e8Cx6YZ04z2CCu4vPIgIxifYAGi6u+NDd77iIIq3MtOInaTM1Js+tWhZQId1DiSMtRP5TUsAqr989yxL5A5N42Itnd1GUBjw6mY6Uhy76miqhdQm96MtpeEWnGEDMQbIfPSlFaFLOjYOFfuOs9A5SFjCB8Y1tOod0RC+uC+eU+93SjVyHUFWehaHlFwC5kevYUS00J/sEZ6n2ebdGAq+3aOqW2NF+0u9MYFdEc73wDnCaBktjHkgtOO2oWyyZ22rr2wrmkO2Ay7+0jxXJNTm2+kSigZ7LyXY6C7sDOA2r96ED7QJ+SJw8lPPu73uPd1tQRRAQ3+iJqMJWe9dDu9WpiBQssrjXRPPF/ACrNP4h143bSH7Dni7gXWhazx207P5zli91S0cVC3MOyBW2LIqESYkbXJBq58uzaHABr5sXiBCcJEZFwT1njeUSRZv6h9S8LZTepHmT2gPDoDyhTKPecFPeAoLgNnjn89jqK7W4y30b8NAnXG/dg3CuAkItR3A6ZpmFpmsyA==;Dvex9suPdIO2wF4qO8qahg=="

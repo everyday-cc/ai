@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/ml-glossary-five-years-new-languag
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/ml-glossary-five-years-new-language/amp/"
 type: article
 quality: 111
-heat: 115
+heat: 111
 published: true
 
 provider:

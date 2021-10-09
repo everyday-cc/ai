@@ -1,0 +1,29 @@
+---
+category: news
+title: "The machine learning tactics behind PavCon’s predictive models for the Air Force"
+excerpt: "U.S. Air Force contractor. The company also uses that information to improve its current systems and leveraging machine learning and artificial intelligence to predict potential threats and upcoming maintenance."
+publishedDateTime: 2021-10-08T22:25:00Z
+originalUrl: "https://siliconangle.com/2021/10/08/machine-learning-tactics-behind-pavcons-predictive-models-air-force/"
+webUrl: "https://siliconangle.com/2021/10/08/machine-learning-tactics-behind-pavcons-predictive-models-air-force/"
+type: article
+quality: 49
+heat: 49
+published: false
+
+provider:
+  name: SiliconANGLE
+  domain: siliconangle.com
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/9OnEBxL.png"
+    width: 1236
+    height: 784
+    isCached: true
+
+secured: "NqHXX4d5cQQEjsiF6q1xlNu8/yxfuug/nMp95qkDdfyW2kG/OPXTBGFK8PWJI33ZdIedTEUwtJ3oODB/6S9XgTQJcM9WyE788/K9Smd1zpVk//uwqcSZhn365ag4KVRKW4AqUdjeBRaXiedJw6WvAaLvqKogsHVDlLs79tOe9K+Co2Gnb/gmbo/j3lBRAtKm9qecpSw8gua3JIe+5cXvkSPlxNMRZGajOEa2ZYdPtQcbGNIWr0RKvwjcmqN8i7QrPTd9irfW7IwhFj5OuoyouX9HoeB7lNI6GzKSqydgtbxU9dsw5a4D2uzcv0CkLvtGMGFED5v72+ofoqEKvgGxMS/hDNPqs65QtSBnDcu7POQ=;UPEz/MmPdyfCjBD4XbZJjg=="
+---
+

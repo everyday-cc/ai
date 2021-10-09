@@ -27,107 +27,65 @@ images:
     isCached: true
 
 related:
-  - title: "For Tesla, Facebook and Others, AI’s Flaws Are Getting Harder to Ignore"
-    excerpt: "Investors are pouring money into artificial intelligence, despite clear setbacks in self-driving cars, social media and even healthcare."
-    publishedDateTime: 2021-10-04T07:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2021-10-04/artificial-intelligence-ain-t-that-smart-look-at-tesla-facebook-healthcare"
+  - title: "Facebook whistleblower testifies in Congress"
+    excerpt: "The Facebook whistleblower who released tens of thousands of pages of internal research and documents will testify today before a Senate subcommittee about the company's impact on kids. Follow here for the latest news."
+    publishedDateTime: 2021-10-05T15:37:00Z
+    webUrl: "https://www.cnn.com/business/live-news/facebook-senate-hearing-10-05-21/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/business/live-news/facebook-senate-hearing-10-05-21/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/business/live-news/facebook-senate-hearing-10-05-21/index.html"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_t5K2dNQfTk/v1/1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Facebook Snafu Prompts Realization About Rescuing AI Self-Driving Cars From Single Points Of Failure"
-    excerpt: "Why singles points of failure are dangerous for self-driving cars and how redundancy is needed to aid in reducing risks."
-    publishedDateTime: 2021-10-06T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/06/facebook-snafu-prompts-realization-about-rescuing-ai-self-driving-cars-from-single-points-of-failure/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/06/facebook-snafu-prompts-realization-about-rescuing-ai-self-driving-cars-from-single-points-of-failure/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/06/facebook-snafu-prompts-realization-about-rescuing-ai-self-driving-cars-from-single-points-of-failure/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601893ecc2c4f9d38496d638%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2048%26cropY1%3D219%26cropY2%3D1371"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "For Tesla, Facebook and others, AI’s flaws are getting harder to ignore"
-    excerpt: "Investors are pouring money into artificial intelligence, despite clear setbacks in self-driving cars, social media and even healthcare"
-    publishedDateTime: 2021-10-04T22:49:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/for-tesla-facebook-and-others-ai-s-flaws-are-getting-harder-to-ignore-11633345960984.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/for-tesla-facebook-and-others-ai-s-flaws-are-getting-harder-to-ignore/amp-11633345960984.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/for-tesla-facebook-and-others-ai-s-flaws-are-getting-harder-to-ignore/amp-11633345960984.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
+      name: CNN
+      domain: cnn.com
     quality: 74
     images:
-      - url: "https://images.livemint.com/img/2021/10/04/600x338/TESLA-MUSK-BIDEN-0_1633346250616_1633346274524.JPG"
-        width: 600
-        height: 337
+      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_506/1fa57818-51d7-476d-b66d-5dfcfe95abc3.jpg"
+        width: 900
+        height: 506
         isCached: true
-  - title: "Need for Rise of Ethical Contents. The Reasons. Today’s Facebook News is just an example. Role of AI"
-    excerpt: "Not just Facebook, any news application can intentionally or unintendedly spread mis-information or wrong content.  Even as in my previous article, there has been mention of foreign forces in playing with the news contents,"
-    publishedDateTime: 2021-10-05T19:46:00Z
-    webUrl: "https://www.linkedin.com/pulse/need-rise-ethical-contents-reasons-todays-facebook-news-nidhika-yadav"
+  - title: "Facebook whistleblower Frances Haugen testifies before the Senate"
+    excerpt: "After revealing her identity on Sunday night, Frances Haugen — the whistleblower who leaked controversial Facebook documents to The Wall Street Journal — testified before the Senate Committee on Commerce,"
+    publishedDateTime: 2021-10-05T20:17:00Z
+    webUrl: "https://techcrunch.com/2021/10/05/facebook-whistleblower-frances-haugen-testifies-before-the-senate/"
+    ampWebUrl: "https://techcrunch.com/2021/10/05/facebook-whistleblower-frances-haugen-testifies-before-the-senate/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/facebook-whistleblower-frances-haugen-testifies-before-the-senate/amp/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 41
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
     images:
-      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
-        width: 1400
-        height: 800
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1235713956.jpg?w=1024"
+        width: 1024
+        height: 575
         isCached: true
-  - title: "Delete Your Face Data on Facebook, Turn Off Facial Recognition"
-    excerpt: "If you want to prevent Facebook from doing it automatically, then follow this simple 2-minute read on \"How to Delete your Face Data on Facebook by Turning Off Facial Recognition\"."
-    publishedDateTime: 2021-10-05T17:31:00Z
-    webUrl: "https://gadgetstouse.com/blog/2021/10/05/delete-your-face-data-facebook-turn-off-facial-recognition/"
+  - title: "RAADR, Inc. Applauds Facebook Whistleblower Francis Haugen For Her Congressional Testimony"
+    excerpt: "RAADR, Inc. (OTC PINK: RDAR), a technology and software development company that monitors cyber-bullying and social media platforms with artificial intelligence announced today that it applauds and unequivocally endorses the testimony of SEC Whistleblower Francis Haugen in a hearing in front of the Subcommittee on Consumer Protection,"
+    publishedDateTime: 2021-10-06T12:58:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-lifestyle-media-product-safety-bdb544c48c84d057212da43cda9d3a95"
     type: article
     provider:
-      name: Gadgets To Use
-      domain: gadgetstouse.com
-    quality: 39
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
     images:
-      - url: "https://media.gadgetstouse.com/wp-content/uploads/2021/10/featuredimage.jpg"
-        width: 1379
-        height: 776
-        isCached: true
-  - title: "Facebook AI’s SOTA Speech Translation Models Go Against Grain"
-    excerpt: "Now, Facebook AI and self-described “AI community” Hugging Face have announced the release of their joint state-of-the-art speech translation models. The models build on previ"
-    publishedDateTime: 2021-10-08T07:38:00Z
-    webUrl: "https://slator.com/facebook-ai-sota-speech-translation-models-go-against-grain/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 39
-    images:
-      - url: "https://slator.com/assets/2021/10/Facebook-Speech-to-Speech-Machine-Translation.png"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Digital Brief: Facebook fallout, 2022 digital agenda, AI in law enforcement"
-    excerpt: "Welcome to EURACTIV’s Digital Brief, your weekly update on all things digital in the EU. You can subscribe to the newsletter here.  “The things I saw at Facebook over and over again was,"
-    publishedDateTime: 2021-10-08T14:15:00Z
-    webUrl: "https://www.euractiv.com/section/digital/news/digital-brief-facebook-fallout-2022-digital-agenda-ai-in-law-enforcement/"
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 37
-    images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/10/1-1-800x450.png"
-        width: 800
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
         height: 450
+        isCached: true
+  - title: "In Scathing Senate Testimony, Whistleblower Warns Facebook a Threat to Children and Democracy"
+    excerpt: "\"I'm here today because I believe Facebook's products harm children, stoke division, and weaken our democracy,\" whistleblower Frances Haugen tells U.S. senators."
+    publishedDateTime: 2021-10-05T16:41:00Z
+    webUrl: "https://www.commondreams.org/news/2021/10/05/scathing-senate-testimony-whistleblower-warns-facebook-threat-children-and-democracy"
+    type: article
+    provider:
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 13
+    images:
+      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-10/Frances-Haugen-Getty-3600.jpg?h=ae7bd2d1&itok=qKZwWf8n"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "7bIvYrsBvAJZ3GqcU31BnC5CImQfGx8gYCzdh5I48Hj1esS7lIcs5RnWtVgrwW4m+1F7NZJbKLZcsEXXiLzyOeOh106Fm+UeMiJxB44dSSPu+r/ugcFe6/MW/K/yGStLbLic3YKqRI76ULKsNk1SomyCX02t8DA1b7/CbNfAYky3zxbqOsq9VFndaB6al27uO1nUaR/WL/rBjKDjIxUGggjqLrcfF+ygUAqLlxbChFIB8Pzvq41sh5HfWYKrLfgZjgI1KGUtkFXtltwNl6cCA5JxprQgWiD0YgK49RNJTnNo7LBSc6DQd6IGl/dbWrIZsx2ALV2Fevb+nensm74hjVTBIdbYk3ln875rBdoIynqienuL3b+jzUXsvEXW4DWLXgrxNVFOvHYFCoWWrq3COlggYPq76XX4s0VD14FvDkUfti5XpjdO/bq+/gyGOVNgfze4wUr8WqH5ti5Q8+CdI6+cxEheJ+CI289LN/iJ6rbKDwsABM8dwKeasLu//F5r+8Bz4qcY3B6N2cxMgXdNiA==;XjLLqsYK1prAKu5kTzP7+A=="
