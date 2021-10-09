@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence changing accuracy of hurricane forecasts"
-    excerpt: "Researchers at the Pacific Northwest National Laboratory have recently developed a new model that aids in predicting hurricane intensity. It’s one of several models that are used to track"
-    publishedDateTime: 2021-10-04T18:54:00Z
-    webUrl: "https://www.cnyhomepage.com/science-technology/artificial-intelligence-changing-accuracy-of-hurricane-forecasts/"
-    ampWebUrl: "https://www.cnyhomepage.com/science-technology/artificial-intelligence-changing-accuracy-of-hurricane-forecasts/amp/"
-    cdnAmpWebUrl: "https://www-cnyhomepage-com.cdn.ampproject.org/c/s/www.cnyhomepage.com/science-technology/artificial-intelligence-changing-accuracy-of-hurricane-forecasts/amp/"
+  - title: "Ghana: AI Can Predict If It Will Rain in Two Hours' Time"
+    excerpt: "Artificial intelligence can tell whether it is going to rain in the next two hours, research suggests. Scientists at Google-owned London AI lab DeepMind and the University of Exeter partnered with the Met Office to build the so-called nowcasting system."
+    publishedDateTime: 2021-10-05T12:35:00Z
+    webUrl: "https://allafrica.com/stories/202110050850.html"
     type: article
     provider:
-      name: CNY Homepage
-      domain: cnyhomepage.com
-    quality: 59
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 39
     images:
-      - url: "https://www.cnyhomepage.com/wp-content/uploads/sites/6/2021/08/218009d8a2774837b85856198f2d101f-1.jpg?w=1280"
-        width: 1280
-        height: 853
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
         isCached: true
 
 secured: "d2wvIRAs8ZWA9iuLYIMFFjaZ2VvxON/cIZzu3Zt1cGI7Elw+0zVg3kMK1sBHI5hstXgBXvshwnXSI+88uRbdIeI+nehaVrRtYm1DpEcyFBfzX0cs4fV3hz7prkrWIFO2+K34pXiygybq3zW9a/b0yXDawig82woqP420dVThPWgC7zx4mISuU8PcQT+4vngzCzDRvs2VO3qJDrF4Sq+mm4zNI+CL64Qp/hvqEc2S1nkCDfr1yvIkmPRmK70aaDDE0TjEFG1czPgp37QXbtZUteFUaZQpNMlrvPE5OKkKNLwNmtnoocXoMtKGc9qq7QznFG6c2nKVRlY3dzoaG30KEfNwE89mG7o7Gk5qA9Q/adCJS6FLJFO2LVvzWbuM0ewTIlkMD/ZQrtsAeICpptriMwYOZ9oCjjjKDWlsYKo5ad628Q2dY05FcVIiIx8JByd92QHLHv+VKYJ31m4DbEGwPIzeyflPCzlOaOYffyT9aiJLAK1nuKfeJQNSkSLkGgPmbmFUPE5Uy18yqtuFKjSVsg==;QsPX8+2F09HZXD+jZcK30g=="

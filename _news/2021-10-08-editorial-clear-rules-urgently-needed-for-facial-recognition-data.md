@@ -57,20 +57,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "It’s time to start regulating facial recognition technology"
-    excerpt: "Its time for regulation to be stepped up in facial recognition technology as there is no oversight, governance, or accountability at the present moment."
-    publishedDateTime: 2021-10-04T18:13:00Z
-    webUrl: "https://techhq.com/2021/10/regulation-on-facial-recognition-needed/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 41
-    images:
-      - url: "https://cdn2.techhq.com/wp-content/uploads/2018/12/000_1SN6GC.jpg"
-        width: 1024
-        height: 681
-        isCached: true
   - title: "MEPs back EU facial-recognition ban for police"
     excerpt: "The European Parliament has backed a moratorium on facial recognition for law-enforcement purposes – bypassing attempts from members of the European People's Party aiming to torpedo the ban on biometric mass surveillance in public spaces."
     publishedDateTime: 2021-10-06T05:12:00Z

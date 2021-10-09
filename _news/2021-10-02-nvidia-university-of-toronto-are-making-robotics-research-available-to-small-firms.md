@@ -2,11 +2,11 @@
 category: news
 title: "Nvidia, University of Toronto are making robotics research available to small firms"
 excerpt: "Despite progress in the field, research on robotics hands remains extremely expensive and limited to a few very wealthy companies and labs."
-publishedDateTime: 2021-10-01T17:40:00Z
-originalUrl: "https://venturebeat.com/2021/10/01/nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms/?via=indexdotco"
-webUrl: "https://venturebeat.com/2021/10/01/nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms/?via=indexdotco"
-ampWebUrl: "https://venturebeat.com/2021/10/01/nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms/?via=indexdotco&amp"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/01/nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms/?via=indexdotco&amp"
+publishedDateTime: 2021-10-02T00:40:00Z
+originalUrl: "https://venturebeat.com/2021/10/01/nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms/"
+webUrl: "https://venturebeat.com/2021/10/01/nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms/"
+ampWebUrl: "https://venturebeat.com/2021/10/01/nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/01/nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms/amp/"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 600
     isCached: true
 
-secured: "jiKXtp5fUnkw+cGnCQAgcf/7LTFvAD66QYXXxEw2dq9Z4jYZPQ/XIr5RZb/19dPlKzl065pbSEBK8PD8BjQHxJYupEgf4XA0DcJiPRH96wcSIzbXRunvrDZf8yWGRJVrKrh+JtBr6siJZMAeqOofTaBi5R5K1nQj5ht2S5dL1dB/WWRcDj2N8RIA0HNK/FUFQDTZNYA/yKlpSc4d90gAAY0qPJHM1ouOC2nPiGsaTQxItRkFGznBAauts0gIa4aAAOU0vasXs1lf+7aTKFFZvHAqS8cRK5yNrdLlGM2S1QeTYsEqtLZaKnGG4NR41Pzg7LOUj3NEg4ochd2S9UZTXhT7P1gTzq/CncGH75MRSTs=;5ab8yVlFWUPO5C2UFNEPfg=="
+secured: "ySbFqhpi8BMTl1rddZpwpbUHp6TTpNJ3+fkTBxsxUVGFrnXIivot15f/t0713thgLSDVb1V5afJHnYB27Pf3cqQltBSpMsx2PphFzBXw9u2UKFJ3ApPzVBeGIwSKl0kAiqIK7EQy5xc1jm7gZbWKyi6SgLqiv7aKJneLImucOpufWHR6EVcKEREbyMOMWocbWJqI+i2W4diNXEhxydWAs3+m3btI8mlih4SLWVHK52eyEZO3I411neR8v78ZX3uKVTRkb5JUnUsI1QT5vwom8YjRV4cKAgaspFHeajiAT1b376bMU3jZNHlnusdnuTIgmM+OoFsCZoLl6HQowEZfLlaHHUx1rY2JQh4od5juBXY=;SGxdusroAlhQsaBlnf5OLw=="
 ---
 

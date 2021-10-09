@@ -64,17 +64,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 71
-  - title: "Gap Inc. acquires AI startup CB4 for better retail analytics"
-    excerpt: "The startup examines point-of-sale (POS) data to uncover consumer demand patterns and identify stores that should be selling more of a specific item."
-    publishedDateTime: 2021-10-04T18:28:00Z
-    webUrl: "https://www.zdnet.com/article/gap-inc-acquires-ai-startup-cb4-for-better-retail-analytics/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/gap-inc-acquires-ai-startup-cb4-for-better-retail-analytics/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/gap-inc-acquires-ai-startup-cb4-for-better-retail-analytics/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
   - title: "HPE Converts Analytics, Storage, Data Protection To GreenLake"
     excerpt: "Since launching GreenLake in 2018 and promising that all of its portfolio would be available as services by next year, Hewlett Packard Enterprise has been"
     publishedDateTime: 2021-10-05T16:32:00Z

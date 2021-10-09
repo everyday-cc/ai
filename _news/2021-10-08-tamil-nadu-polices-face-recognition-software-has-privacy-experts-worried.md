@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thenewsminute.com/article/tamil-nadu-polices-face-recogn
 cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/tamil-nadu-polices-face-recognition-software-has-privacy-experts-worried-156283?amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The News Minute
@@ -43,15 +43,6 @@ related:
         width: 804
         height: 450
         isCached: true
-  - title: "TN CM launches face recognition software to aid police probe"
-    excerpt: "Tamil Nadu Chief Minister M.K. Stalin on Monday launched face recognition software to aid the state police in its investigations. The software would help compare the photos of suspects with a data resource of over 5."
-    publishedDateTime: 2021-10-04T17:58:00Z
-    webUrl: "https://news.webindia123.com/news/articles/India/20211004/3831265.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
 
 secured: "2yjyzFd87Bw5mIHHMsIXjG7LWGhOvVIjf9UUyCxyBvABC8oRQLM1K3152yC2ln2CyHvH/Dd4JNJBN1D3aGT66qjdlZqB7nJjFTj3O0SdT2pBvOZuDZFKf+42mQiFhOFHdp1zGuDNOu5CcLdnwTYnzeZM2hB5PvFIOFaf02l9GJWSOYJRz0LwfUbPGM+JKWNc3LIVC7kf1ZI4X6zUHgVjZxos1lWU98Ag/42amAko0FLckpqyxeTLvEUFTch3gAT7ttWwcNtRLdEhdaYeI0yOQfxptlFP9n/59c6Qnhcw35Ia11V2LcLoFTmsyfCBDMzFMCiZoSRlkk0n4zpS5o8LBxMGIxZvR3+Jb6NxnvtyNpc=;HCS31XNuUMmvdCL35+116Q=="
 ---

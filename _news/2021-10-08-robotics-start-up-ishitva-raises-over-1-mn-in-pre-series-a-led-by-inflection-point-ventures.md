@@ -71,20 +71,6 @@ related:
         width: 1080
         height: 608
         isCached: true
-  - title: "Crystal City Ag-Tech Startup Cultivates $10.3M in Series A Funding"
-    excerpt: "Properties and written by ARLnow, Startup Monday is a weekly column that profiles Arlington-based startups, founders, and other local technology news. Monday Properties is proudly featuring 1515 Wilson Blvd in Rosslyn."
-    publishedDateTime: 2021-10-04T18:40:00Z
-    webUrl: "https://www.arlnow.com/2021/10/04/crystal-city-ag-tech-startup-cultivates-10-3m-in-series-a-funding/"
-    type: article
-    provider:
-      name: ARLnow.com
-      domain: arlnow.com
-    quality: 22
-    images:
-      - url: "https://s26551.pcdn.co/wp-content/uploads/2021/10/EarthOptics_TechDemoDisplay-1.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "iDLkyGq4mV+aFelNPlM1znP9SQ015qfn//WBK5VyyRavb+GzijZtEZX0Q+CIgISztsWGET3Kzcly2/es11IJCuOKeeK+HNIVARvjB6uV6zEy7OCiwSr5rPeaLT8AHuW/O0hJROEnNd1RoPSjvM0X2S/d4EQorHIj7hDFGu2ysROuLFf07p1m3oFhpYYjr0mjYPb7h5MwFSO0F+OhhXmRpmrWr4NnHt/8SOJQNUyVF3Q+ZB0pGCn+KgBRo7ZM7oIQ0uXaLYw/qOKyovaksnw2sXX69quK7ElxhP0LphuMOENRmHwhxwkpvcZlM+x1feRrrqpnFD2L2S8SAsFRqtzCQ6iF+ZnhrmzjA9eALLF7POOmC/H82E6KIhZ5JijB07QD2+cdlaxmEprxSExxKXwp4QHu+g1lqzZ6qqZQRzN34qh1zphs3Z2FX3/jjBAndBhCTBbzQwZ1XBqUZ/3xpQii1nRYdyhdtC7fq8dY0VIBVISNGZ7HAL1Irn4wvidVhScmzTYPq4e70QtRuceIfbKAWA==;iWSd0EF8S1vObkXjyOIARA=="
 ---

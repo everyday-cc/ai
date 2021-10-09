@@ -91,15 +91,6 @@ related:
         width: 800
         height: 420
         isCached: true
-  - title: "Infusing AI to governments"
-    excerpt: "Digital transformation is one of the main objectives for governments around the globe. Even though, public sector organizations see digital technologies as a top priority, the majority has not embraced Artificial Intelligence (AI),"
-    publishedDateTime: 2021-10-04T17:11:00Z
-    webUrl: "https://www.linkedin.com/pulse/infusing-ai-governments-yannis-zisos-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 19
   - title: "Investment Banks to Increase AI in Trading"
     excerpt: "Investment banks are looking to increase the of artificial intelligence and machine learning in pricing models, and see these technologies as improving client output as well as providing operating efficiency."
     publishedDateTime: 2021-10-05T04:15:00Z

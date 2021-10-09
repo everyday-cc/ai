@@ -59,17 +59,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 71
-  - title: "Gap Inc. acquires AI startup CB4 for better retail analytics"
-    excerpt: "The startup examines point-of-sale (POS) data to uncover consumer demand patterns and identify stores that should be selling more of a specific item."
-    publishedDateTime: 2021-10-04T18:28:00Z
-    webUrl: "https://www.zdnet.com/article/gap-inc-acquires-ai-startup-cb4-for-better-retail-analytics/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/gap-inc-acquires-ai-startup-cb4-for-better-retail-analytics/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/gap-inc-acquires-ai-startup-cb4-for-better-retail-analytics/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
   - title: "Indian data analytics startup used this deck to bank $1.5m"
     excerpt: "PredictiVu helps its clients better understand the effectiveness of their campaigns through consumer profiles, brand-switching propensity, and other data."
     publishedDateTime: 2021-10-07T03:56:00Z

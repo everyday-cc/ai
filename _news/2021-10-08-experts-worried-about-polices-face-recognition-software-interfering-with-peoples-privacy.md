@@ -43,15 +43,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "TN CM launches face recognition software to aid police probe"
-    excerpt: "Tamil Nadu Chief Minister M.K. Stalin on Monday launched face recognition software to aid the state police in its investigations. The software would help compare the photos of suspects with a data resource of over 5."
-    publishedDateTime: 2021-10-04T17:58:00Z
-    webUrl: "https://news.webindia123.com/news/articles/India/20211004/3831265.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
 
 secured: "19FuvJswkCATUZUvzQsyYSCWg/lv5cI6CbmTp0rFrnGWSLkVn2+68k0QNlTkwGMI2JV0JGf4ZhWrLHmTRY0tPN2Z8fi6eE5Wv9jBVCguTb0r1j5C9IwTFSlkq9EGupXrBy5WhmJ3cIMROWKIl2TLEKRF7tOh0CVscg+4DYNkRllXWvesvhiNmlJqWzZPeBLlFVSJMkX5uAipxmtPMChvYNj5xyTd4n4EXZIyRfOx0hqa3uWbTNyQN+GuzCZAVPKUtFQIYe6Q2D3Sn2TU52lJArHgrAkh95jcCQROAwLH4JWNjbp9JhhW0rceOmvBusUaWx8MtAEC0EbWj399BEv+Q9daeZ5WaAyQ0Z3Y19jJDXzLKeaMXHMlphO07Q0LYVh1quid84tAGD426Kl48qWY2CrMtGPN4MqRZ7K6JCSs0S/6zZZ0ziBu4le+Iku67Vg9iQ7cLIMU+CBW6Zd7VKLV0YTpLC2V0ctVQMjeoG4axAFE1f4BnAJydbf0CLdyytTn6LbbvlDPb411VKyJXMGKtQ==;kBzGTBO8Z2IRhf88eViCAQ=="
 ---

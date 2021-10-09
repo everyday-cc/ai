@@ -55,20 +55,6 @@ related:
         width: 682
         height: 383
         isCached: true
-  - title: "Tower Says New Tech A Boon For Self-Driving Cars"
-    excerpt: "Chipmaker Tower Semiconductor, with much of its domestic operations in Newport Beach, says it has helped to develop a new technology that will speed up the introduction of self-driving cars, while also finding future applications in robots and industrial production."
-    publishedDateTime: 2021-10-04T17:06:00Z
-    webUrl: "https://www.ocbj.com/news/2021/oct/04/tower-says-new-tech-boon-self-driving-cars/"
-    type: article
-    provider:
-      name: Orange County Business Journal
-      domain: ocbj.com
-    quality: 24
-    images:
-      - url: "https://ocbj.media.clients.ellingtoncms.com/static-3-jet/zzz_static/ocbj/img/lock.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "GM Ultra Cruise: Self-Driving Cars Can Finally Ditch Highways"
     excerpt: "GM announced today its semiautonomous driving system called 'Ultra Cruise.' It aims to leapfrog Tesla in the race to self-driving cars."
     publishedDateTime: 2021-10-07T18:30:00Z

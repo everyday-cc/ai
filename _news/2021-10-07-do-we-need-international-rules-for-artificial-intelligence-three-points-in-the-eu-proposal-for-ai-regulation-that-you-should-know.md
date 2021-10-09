@@ -56,20 +56,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "It’s time to start regulating facial recognition technology"
-    excerpt: "Its time for regulation to be stepped up in facial recognition technology as there is no oversight, governance, or accountability at the present moment."
-    publishedDateTime: 2021-10-04T18:13:00Z
-    webUrl: "https://techhq.com/2021/10/regulation-on-facial-recognition-needed/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 41
-    images:
-      - url: "https://cdn2.techhq.com/wp-content/uploads/2018/12/000_1SN6GC.jpg"
-        width: 1024
-        height: 681
-        isCached: true
   - title: "EDITORIAL: Clear rules urgently needed for facial recognition data"
     excerpt: "East Japan Railway Co. has been using thousands of security cameras with facial recognition technology at 110 major railway stations and other facilities in the Tokyo metropolitan area to detect suspicious people."
     publishedDateTime: 2021-10-08T04:36:00Z
