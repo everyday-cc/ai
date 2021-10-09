@@ -87,15 +87,6 @@ related:
         width: 800
         height: 420
         isCached: true
-  - title: "Investment Banks to Increase AI in Trading"
-    excerpt: "Investment banks are looking to increase the of artificial intelligence and machine learning in pricing models, and see these technologies as improving client output as well as providing operating efficiency."
-    publishedDateTime: 2021-10-05T04:15:00Z
-    webUrl: "https://www.tradersmagazine.com/xtra/investment-banks-to-increase-ai-in-trading/"
-    type: article
-    provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 17
 
 secured: "5NRNu9R25zirbXdUtTgqx0PyYDdMDOH9xFHIE2ID4tNrSvORb2qs7Z9VaPd+K9LLrL5d/wNmxaZswNeJovDqN1My6amljL5b+vX8AHEVNsvYvaFS+6j/mLNZzqgzKUC9FwC32J/ln/jucvO3Wnns0ZlTYCXq7DvY2z1bKpMXQ80GFaFuWA052cotE9xMdisX6aeSTYX2PQGrA4DNtJHxaP1nVP32tg0Q0r23iGNNtAtoQB8NkerFL+ia3vQEJeNl1AYEe35L8EIf0VoHP6IxIhYJmb2tl2rIftdtfMCOhOc96GksL+9XtmzIZgDQ6f4LfMe7RC5JT98k5IQJa1ep7LSehEtAU6h3S6HSgUaHvCN5G2yVhwSrkJVD+Re4qcZEt9frBuc2eB4RHBCm1cHkjeKyrLU4CSIe/vZ1+BIKVTo0kvjZq2x3Kzs/GiNuK0U80rr6zu79BVppNfNjsBK8l9TqAtEKpfGiCQJetT7Fok54YzBUeOnu1FMPGRPM5XB8iCetwCuo0ue+UZVzb/lbDQ==;mCGPAx6CUishSioIG3VmTA=="
 ---

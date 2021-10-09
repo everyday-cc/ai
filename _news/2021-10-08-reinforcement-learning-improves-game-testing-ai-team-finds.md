@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/07/reinforcement-learning-improves-g
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -91,15 +91,6 @@ related:
         width: 800
         height: 420
         isCached: true
-  - title: "Investment Banks to Increase AI in Trading"
-    excerpt: "Investment banks are looking to increase the of artificial intelligence and machine learning in pricing models, and see these technologies as improving client output as well as providing operating efficiency."
-    publishedDateTime: 2021-10-05T04:15:00Z
-    webUrl: "https://www.tradersmagazine.com/xtra/investment-banks-to-increase-ai-in-trading/"
-    type: article
-    provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 17
 
 secured: "jwFjadsqDaTqNt0Hywh+Yz3EyFAW+JiZUMsX8kS0eXy7CipTNI0Hb4TcU/9fukXxImvwTjWoJFwLHQlb3NpRLO5ATDQU5rG4ZCMDtcCbjQEjqlvOKtN1Rv6PsfIFTZw9+omV0Q6N+s7YhFTHwNubO3F9d6WpCybI357jI/FOQc/crUuPp6CFW/KbbtWHcfqH6jQpSFDjN2S9g6J0kF8TZLz6Kfm63wBMaDIEwAE7/ImjfoY/6WCkJPlLVmRaclEjP17COMNqHlWFjeAGDlxplocuVopZzV/RG6x/Sn1mrSbamFWIGr3Kz5VERCZ0UWorSgVoOai6zstcFv7mPoEj6jHZIFYGGf20zTf9OefwlCtMNN2oexRh72P9HE8LhNw/+UyGZnKlJaMcscwObphEakLtDvcA8DPcsyuXnhkmmW6FBphAZbOYTG+tfEJJhB+v1tdaK9uMmCa9XCYJoP993krzXxeDRUIu6FcLqr5quACI99rJrJwYdUTr+B6RnkBFr9QricmZFkq9UULPHnd6oA==;2It1Qj1MfKDIcgXmRz4OGQ=="
 ---

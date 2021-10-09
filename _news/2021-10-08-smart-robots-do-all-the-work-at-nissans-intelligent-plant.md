@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Smart robots do all the work at Nissan's 'intelligent' plant"
-excerpt: "Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence, analyzing collected data, are able to do it. The technology has developed to that level,"
-publishedDateTime: 2021-10-08T15:50:00Z
-originalUrl: "https://www.theintelligencer.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
-webUrl: "https://www.theintelligencer.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
-ampWebUrl: "https://www.theintelligencer.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
-cdnAmpWebUrl: "https://www-theintelligencer-com.cdn.ampproject.org/c/s/www.theintelligencer.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
+excerpt: "The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. “Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence,"
+publishedDateTime: 2021-10-08T10:49:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171"
+webUrl: "https://abcnews.go.com/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171"
 type: article
 quality: 59
 heat: 89
 published: true
 
 provider:
-  name: Edwardsville Intelligencer
-  domain: theintelligencer.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://s.abcnews.com/images/Technology/WireAP_0eacc915ea814eb4bd2477d4255b3c82_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -70,6 +70,6 @@ related:
         height: 630
         isCached: true
 
-secured: "QqLu7qTGQucbLuMZuSjbYG4oMqdXIT9YA3LSxptuEjCr4J3iNCY96iT7aVbLoXjIXchIWCdpQkUqtXb3vHNiffxddIH8o2H/x71uc6+yPprGoD0Ed+dYHvKZiloJ4wvorjS5yVvAsOI1qLSHZniscWvle+6AtIc3knERADcIHj47Xqi0Q8X8pSz1P+LbB08Z56Rd3Wie+5P552JawEnsZUDKIF07t2xtx1t2jTyv3Tst6Oir+6TpBOzrjubeIHbJ14/wrwwxqosuC57fbZkdNtDVxsAYjSl9hwaxCIt1l2NfL97T7AQMscRkuT8fIyclZ0ZJzCVUPYxYWLPquvIrf9VXO53YNibvg+hzb7njRXU=;abFztfwzt5eLd6fPmvPhww=="
+secured: "7U9+V1cwtpwul916rt5QNBsff4rzzspbU5EmVuXCgfewqrAgOzi1z0kmDg/MufgiX+9gANk7P6XMCn/dghulNsXId1de5+zoX7zWjEDiAFcjPIKbEWLmQn7JAXsHliaErstKzNOUJLAxK2U8mS8wqzx/bu6gQBEArqU/Pma5+wPrtMxl1QFCP2kTv9r+dK5CQ+3TGaLFCgTXgtTInTCWmVmzwFNsRN38uMgENkT86w0vTtH05OIkE8DQdUePq8miOtsQP6r0KR5laHtl8758tiK8Qi7N0Rj/KDwYXGjWWhOkmElSy+FS9246MqEjXgvRRwaqwzF4S42dtvkHRMsx8nlofsifsTr/teBkTF+1bHA=;NjugQCxhaRp2xPOc5QW8pA=="
 ---
 

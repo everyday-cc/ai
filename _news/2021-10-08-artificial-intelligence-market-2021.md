@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trends from the Trenches 2021: Where Bio-IT Stands on Digital Transformation, Data Transformation, AI/ML"
-    excerpt: "The three reported on trends in digital transformation, data transformation, and AI/ML. Kraut led the charge, tackling Digital Transformation as the first trend worth dissecting. A “conglomeration of a bunch of other buzzwords”,"
-    publishedDateTime: 2021-10-05T05:01:00Z
-    webUrl: "https://www.bio-itworld.com/news/2021/10/05/trends-from-the-trenches-2021-where-bio-it-stands-on-digital-transformation-data-transformation-ai-ml"
-    type: article
-    provider:
-      name: Bio IT World
-      domain: bio-itworld.com
-    quality: 19
 
 secured: "lFD4lTPZ2XtFGbYBvXS9O3CV4JR5LITZ3U/HhH/ma4b668PN6Zb367MIm7FRewkWEz9730VYsXGkgezwYa6Gl3FYuaFf2dGs1T4W1nKQYNs7nzfxIi/PDU6glkHnLw4kaIig/69cw9HgiOL12PxJDLC9kiSQw5Hf/ebkJLkyeUVUVOZQov39DzBASnXifMlKyljJ/GUkgLTwR4YNUEp+wp++cKpDR8IGgfy3X1UR1AXwuT8IoCujUoGDV6Z8NhgXk0+pMZ5UUX9TLwbK0Leycfu5OfHbJy0XssSURFxu7i92lNiMvomBRoHhYDD0NWU5spYvDCh5OI3EhW2mO09VM6AriCyOvN9wJ2NXiHxfpkEd1tXxs8UsZT3DcokMYaer5RXdSyeLGFMcGAEmCiNoP8IKhoR66ROfKjL/PchHftECx1JlwLJss/eFNVy3oAU8h5mVLznTuTc8vHj70mObEjrVODzJd+2ZOucoAn9gr+Iz5xhYVm6S2gBg5FWvW6A7A0rTuI9AaBqZyVURlZiH5A==;k5PeBUdz1x7au6zR7VEreA=="
 ---

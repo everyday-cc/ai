@@ -26,20 +26,20 @@ images:
 
 related:
   - title: "Smart robots do all the work at Nissan's 'intelligent' plant"
-    excerpt: "Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence, analyzing collected data, are able to do it. The technology has developed to that level,"
-    publishedDateTime: 2021-10-08T15:50:00Z
-    webUrl: "https://www.theintelligencer.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
-    ampWebUrl: "https://www.theintelligencer.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
-    cdnAmpWebUrl: "https://www-theintelligencer-com.cdn.ampproject.org/c/s/www.theintelligencer.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
+    excerpt: "The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. “Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence,"
+    publishedDateTime: 2021-10-08T10:49:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171"
     type: article
     provider:
-      name: Edwardsville Intelligencer
-      domain: theintelligencer.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 59
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://s.abcnews.com/images/Technology/WireAP_0eacc915ea814eb4bd2477d4255b3c82_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Nissan plant heavy on robots"
     excerpt: "Nissan's \"intelligent factory\" hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs."
@@ -70,6 +70,6 @@ related:
         height: 533
         isCached: true
 
-secured: "Y+EjtWRURKcLvkIEP9DeziYm7RsoIg51zVTijOlwkirN83VUaubajNLD2QoZh3QdJ6VRofvJ3xXFyaOzTJsOlWehWuFTF8BUVKTe+EsCNe7no4QsRyov2m12J9SBj7Psdim1xT5fpXUU4+BE3nzs0r9wM28AwGw97IClz1I7PbxdLvbsU+IU96Se9csJsiMsDe6Xjq+p3rYL7lYmDM5JbYNLxb9vFOer83kXD6HWdDKylc8cm0t6mbymwbB2UC/lG2I8812Vk4f93yvDTo9DtJ7fzJMTJ+5m3HjnK7lmFNatDfn7LB+rOAnENLtXnGRQWL4bEClqBDxRpst9TGB89pjwUzbvbZ9Tj/sOe3S0gSs=;Sw3RmgK6UOVhyRTj+c/uKQ=="
+secured: "I5kuPQ71SLP3YAabqiQ6aoKp5crfoy0LNc0HX24bWbkBSmVSJsEh7QuHU1LQ/KZiO/7Wm4b3VkkprJfrweJpYy9nBFnVGf3lpggLXofRuNRCAE9+9morBnh+SuBzjsA6eHVSRjEjnUu72lcJ/C1FZEpMZ0/h4pw99FzAZrnqMHuY9n9Z3TxAesE1c4j/eQoy6V21FnvKjaMyZNdwu/4yCae1CPT8VRwqLN/cbyZTa7luBvamLhJrHrSMxED/nx25iXPGRlc+PHxpMULNWhdI9AvWW7RDpgBTgKUVSloobtyHI1v7uwjSeIqnAO9GQ1o2rALoeTMgmuQVtHBshzPbKP0Dnj5ibWv0qY5T58bUn8xjHe9QrLQvQEfA0ivK9n7DuYGOf39GqGIiplIp0r83DSfj73r3OAffaH8O0Qcf7LktWqzkxZrcknE83BFo4t28oAOW6M9A/cw378JpPP4hKiRoY3eLA36O35JIc2cRGB+FOSGOv8wa8Mu08Od0q5Z8QW8v8TZMksMIN3q4XBDpNw==;ZiNTwOMcoWphHpfBvbIdOg=="
 ---
 
