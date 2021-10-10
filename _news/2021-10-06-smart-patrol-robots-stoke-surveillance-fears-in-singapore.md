@@ -161,20 +161,6 @@ related:
         width: 640
         height: 362
         isCached: true
-  - title: "Singapore Patrol Robots Stoke Fears Of Surveillance State"
-    excerpt: "Singapore has trialled patrol robots that blast warnings at people engaging in \"undesirable social behaviour\", adding to an arsenal of surveillance technology in the tightly controlled city-state that is fuelling privacy concerns."
-    publishedDateTime: 2021-10-06T02:39:00Z
-    webUrl: "https://www.ibtimes.com/singapore-patrol-robots-stoke-fears-surveillance-state-3310221"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/10/05/armed-with-seven-cameras-a-xavier-robot-in.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Singapore patrol robots stoke privacy fears"
     excerpt: "Singapore has trialled patrol robots that blast warnings at people engaging in “undesirable social behavior,” adding to an arsenal of surveillance technology in the tightly controlled city-state that is fueling privacy concerns."
     publishedDateTime: 2021-10-06T16:00:00Z

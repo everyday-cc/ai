@@ -142,6 +142,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Dozen PSUs on the block after AI privatisation"
+    excerpt: "The Department of Investment and Public Asset Management (DIPAM), which oversees the disinvestment policy, is now planning to cede management control over a dozen public sector enterprises in the next six months."
+    publishedDateTime: 2021-10-10T19:44:00Z
+    webUrl: "https://www.nagalandpost.com/dozen-psus-on-the-block-after-ai-privatisation/242070.html"
+    type: article
+    provider:
+      name: Nagaland Post
+      domain: nagalandpost.com
+    quality: 37
+    images:
+      - url: "http://www.nagalandpost.com/cms/gall_content/2021/10/2021_10$large_air_india_disinvestment_bid_2020.jpg"
+        width: 600
+        height: 350
+        isCached: true
   - title: "NLMK Group is testing innovations in the field of the Internet of Things and artificial intelligence"
     excerpt: "NLMK Group, an international metallurgical company, has signed a strategic partnership agreement with ALRII, an independent association of laboratories for the development of artificial intelligence"
     publishedDateTime: 2021-10-06T11:10:00Z

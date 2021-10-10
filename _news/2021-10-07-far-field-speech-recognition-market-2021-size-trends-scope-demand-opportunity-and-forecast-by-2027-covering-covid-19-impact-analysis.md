@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Industrial AI Computers Market Report Provides Marketing Channel, Distributors, Customers and Manufacturing Process Analysis 2021 to 2027"
+    excerpt: "Oct 08, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" The report analyse the growth rate of"
+    publishedDateTime: 2021-10-08T10:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/industrial-ai-computers-market-report-provides-marketing-channel-distributors-customers-and-manufacturing-process-analysis-2021-to-2027-2021-10-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ys1Yt7DACKOlhirhLn6yEnxfWaWhpMAY/gBHZpGOP3DAf8hgqe+iW1aQuGNgGh55SrFIZpNf31RJUXKI1jvHlfsGW7Fg4Mgsj061JfxstbbwsBj3DhfVUYRXBBeM8nBFA21Ju5oViLj+HrOCw5GZuEsPkm7hCNJB7t2/btYiSmQlUjUSK5iA65jsG7kA20ydOXGL6lmUu6kENsTOSZFzXm0F429yrpq0Sjs0y2VZ7MVJoQQi963JZsTvhRUi4maMLlzhX27qB8e+KOUZs0lgWmuVzCGbIJWcEow7ewLUwnPVet5OHryccIZPfC7hVohfneVxEn+ErINXzw4hWm+n6Omfmj0+xUu81KdXnrLH9ZA=;P3o22lMxQEUa18cR1xMxzA=="
 ---

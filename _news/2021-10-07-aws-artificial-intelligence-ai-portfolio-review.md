@@ -7,8 +7,8 @@ originalUrl: "https://www.datamation.com/artificial-intelligence/aws-artificial-
 webUrl: "https://www.datamation.com/artificial-intelligence/aws-artificial-intelligence-ai-portfolio/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Datamation
@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mobile Artificial Intelligence (AI) Market"
-    excerpt: "Allied Market Research published an exclusive report titled Mobile Artificial Intelligence AI Market by Technology Node 20 28nm 10nm 7nm and Others Component Hardware Software and Services and Application Smartphones Cameras Drones Automotive Robotics AR VR and Others Global Opportunity"
-    publishedDateTime: 2021-10-06T02:43:00Z
-    webUrl: "https://www.openpr.com/news/2418361/mobile-artificial-intelligence-ai-market-size-is-expected"
-    ampWebUrl: "https://www.openpr.com/amp/2418361/mobile-artificial-intelligence-ai-market-size-is-expected"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2418361/mobile-artificial-intelligence-ai-market-size-is-expected"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 74
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua06400465_g.jpg"
-        width: 790
-        height: 466
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) Robots Market to Reach $21.4 Billion by 2026"
-    excerpt: "Reportlinker.com announces the release of the report \"Global Artificial Intelligence (AI) Robots Industry\" -  AI also enables robots to establish communication with other robots and humans. For companies,"
-    publishedDateTime: 2021-10-08T13:51:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/10/g23297862/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026"
-    ampWebUrl: "https://www.benzinga.com/amp/content/23297862"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23297862"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 67
-    images:
-      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "IBM Artificial Intelligence (AI) Portfolio Review"
     excerpt: "Watson Captioning Live uses a combination of ML, AI, and cognitive speech-to-text applications to deliver automated real-time captions for audio files. Watson Studio is IBM’s software platform for developers, data scientists, and analysts to develop ..."
     publishedDateTime: 2021-10-07T04:15:00Z
@@ -70,20 +38,6 @@ related:
       - url: "https://www.datamation.com/wp-content/uploads/2021/08/IBM-Logo.jpg"
         width: 600
         height: 600
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in Medical Market 2021 Status and Outlook, Industry Growth Rate, Opportunities and Challenges to 2027"
-    excerpt: "MarketsandResearch.biz has presented a new market study on Global Artificial Intelligence (AI) in Medical Market 2021 by Company, Regions, Type and Application, Forecast to 2027 which delivers an executive-level market analysis that will help clients to build strategies to expand their market operations."
-    publishedDateTime: 2021-10-06T01:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-medical-market-2021-status-and-outlook-industry-growth-rate-opportunities-and-challenges-to-2027-2021-10-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "+fTxYVSXYmVlBJ9FaX4d3Zfe1Z1lFtVp9kXkpIid3yTBW6hFP35v6xv1rekxM9BIQtlg9j2yPIBQW9yiBohqc3gnSKra6sZqH7Lg1S1U+HBgclA+9h+6goa80jHdu0XlXd4ntCrSYe8mhy5De/nDT4qYYD7JJw7o6OhzHUGfR177nEdwWyF0KXZQLgXQu4dpuX4HRgOVY5dUA0SsF4LOvBvCxBV83KV3GfzTWFembx6VP102KtcGPf1tit5ota21Ch/QSARQvxs8wDyL6dKwVj+Y/23+dIEipw1mz1B+Dc7EvNeTmNyr1/L4W9EZOPea1l65d0V0B0xh3IRcEtoh4BCDTnqdyJWI7Fworlfglo0=;a7A0TLJb+jnIAb5SDDYQag=="

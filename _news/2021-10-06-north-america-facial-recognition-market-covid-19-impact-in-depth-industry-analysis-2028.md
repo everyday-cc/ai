@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/north-america-facial-rec
 webUrl: "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-covid-19-impact-in-depth-industry-analysis-2028-2021-10-06"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Industrial AI Computers Market Report Provides Marketing Channel, Distributors, Customers and Manufacturing Process Analysis 2021 to 2027"
+    excerpt: "Oct 08, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" The report analyse the growth rate of"
+    publishedDateTime: 2021-10-08T10:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/industrial-ai-computers-market-report-provides-marketing-channel-distributors-customers-and-manufacturing-process-analysis-2021-to-2027-2021-10-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Far-field Speech Recognition Market 2021 Size, Trends, Scope, Demand, Opportunity and Forecast by 2027| Covering COVID-19 impact Analysis"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “ Far-field Speech Recognition Market ” report covering growth prospects, market development potential, profitability,"
     publishedDateTime: 2021-10-07T09:16:00Z

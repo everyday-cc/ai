@@ -1,29 +1,29 @@
 ---
 category: news
 title: "The Future of Ai Will Take a Different, More General Approach"
-excerpt: "With this technology, ORBAI aims to develop Human AI, with fluent conversational speech on top of this AGI core, to provide AI professional services, all the way from customer service to legal, medical,"
-publishedDateTime: 2021-10-09T17:49:00Z
-originalUrl: "https://apnews.com/press-release/KISSPR/technology-business-f9e6a3243ceeb63a104b4b459c9479e4"
-webUrl: "https://apnews.com/press-release/KISSPR/technology-business-f9e6a3243ceeb63a104b4b459c9479e4"
+excerpt: "Today, if we browse the Internet for news on AI, we find that AI just accomplished something humans already do, yet far better. Still, it isn't easy to develop artificial general intelligence (AGI) through human-created algorithms."
+publishedDateTime: 2021-10-09T19:49:00Z
+originalUrl: "https://menafn.com/1102945074/The-Future-of-Ai-Will-Take-a-Different-More-General-Approach"
+webUrl: "https://menafn.com/1102945074/The-Future-of-Ai-Will-Take-a-Different-More-General-Approach"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
-  - AI in Robotics
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?930952"
+    width: 384
+    height: 249
     isCached: true
 
-secured: "fGV5qp4yhjzJF399Zs7l7VnnU4vVmAzZ+kyeSeAxyXuKoCp284yRm8eQjDZJ6yvghmLAUafbAhUKwLTCiQukyyCnOsIbtnnqjwz0OCYc7HS3Qk6sgTG6qi4B6Kf7tvCHl8uGSasQYPXMz3afqC4NZ5yi+PA6G9vIP7Qnb5nLs93l1D0jmul7+tNXIbDh2L1vM9tRDnSKOg46q0KOoiYMP8E6tb6XU+0wJHtVrrSM+NTEdXMX1PH3DMvTEby3Ol6VsenPRPcHaeDaspalHkiSoLsdlC6z1BPXa/X/YmFJa5UMREcAopOqmBHdl4+ZssuukIXGFVV+yBdXQ9Ct4A3mPiVcf0uGG77AWTOiZ2eghyY=;35dsyqoSvtUU3Pv6IzkJXA=="
+secured: "qfAhLCmoy6Q8csHF755ShipQlOyZNV8ydiLq1HhHC6ripl3qfnUnVWU+mz3hKJcqLhZ9GiHE9yWntGBz/dQawLd+q0C6l9ED49QI59pdOiBBs43XafXzRNXuhySKpjVmPKiTTfzD651K5mDVL5RqYVnNUwyy0LtpNC0mtBD41Pnh7LyXTkwlWf5LPCHBNomtBA4TkXLB6U2g7K/GpR2LzxbM9hF2ZfIpqLWE8fB63KCZKY1EjdGa14HKC+wVi1+ZxGppvE1V4+fncas36MCYJe8sWPtaV6TYmJvNvWjcvGD9x5WGmNpW6+j/XtDV3m03MULlbnIVPwjOZJ8sMXshGqpCFo4FUIPv/T51nHtHedA=;1PbvJpS8Zxdhj2UBe95HLA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-wi
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/amp/"
 type: article
 quality: 91
-heat: 231
+heat: 241
 published: true
 
 provider:
@@ -133,6 +133,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/10-Strategies-AI-Startups-Should-Follow-to-Become-Big-Tech-Companies.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "Dozen PSUs on the block after AI privatisation"
+    excerpt: "The Department of Investment and Public Asset Management (DIPAM), which oversees the disinvestment policy, is now planning to cede management control over a dozen public sector enterprises in the next six months."
+    publishedDateTime: 2021-10-10T19:44:00Z
+    webUrl: "https://www.nagalandpost.com/dozen-psus-on-the-block-after-ai-privatisation/242070.html"
+    type: article
+    provider:
+      name: Nagaland Post
+      domain: nagalandpost.com
+    quality: 37
+    images:
+      - url: "http://www.nagalandpost.com/cms/gall_content/2021/10/2021_10$large_air_india_disinvestment_bid_2020.jpg"
+        width: 600
+        height: 350
         isCached: true
   - title: "Artificial intelligence hiring levels in the power industry dropped in August 2021"
     excerpt: "The proportion of power industry operations and technologies companies hiring for artificial intelligence related positions dropped in August 2021, with 35.7% of the companies included in our analysis recruiting for at least one such position."
