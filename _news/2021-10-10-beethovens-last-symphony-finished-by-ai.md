@@ -9,7 +9,7 @@ ampWebUrl: "https://tribune.com.pk/story/2324138/beethovens-last-symphony-finish
 cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2324138/beethovens-last-symphony-finished-by-ai?amp=1"
 type: article
 quality: 57
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
         width: 1200
         height: 707
+        isCached: true
+  - title: "How artificial intelligence completed Beethoven’s unfinished tenth symphony"
+    excerpt: "Artificial Intelligence has been used to finish Beethoven’s tenth symphony more than 200 years after is death. Music and technology strategist and CEO of the Karajan Institute, Dr Matthias Röder, came up with the idea."
+    publishedDateTime: 2021-10-10T19:51:00Z
+    webUrl: "https://www.3aw.com.au/how-artificial-intelligence-completed-beethovens-unfinished-tenth-symphony/"
+    type: article
+    provider:
+      name: 3AW
+      domain: 3aw.com.au
+    quality: 35
+    images:
+      - url: "https://www.3aw.com.au/wp-content/uploads/sites/12/2021/10/3aw-image-istock-beethoven.jpg"
+        width: 1195
+        height: 800
         isCached: true
   - title: "How a Team of Musicologists and Computer Scientists Completed Beethoven’s Unfinished 10th Symphony"
     excerpt: "Beethoven's unfinished 10th Symphony was to be his magnum opus. Now, using AI, a team has completed it. The symphony will be released in full this Saturday."

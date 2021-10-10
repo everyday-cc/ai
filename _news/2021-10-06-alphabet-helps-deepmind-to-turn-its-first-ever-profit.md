@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361135
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361135/alphabet-helps-deepmind-to-finally-turn-profit?amp"
 type: article
 quality: 89
-heat: 159
-published: true
+heat: -1
+published: false
 
 provider:
   name: IT Pro
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI lab DeepMind becomes profitable and bolsters relationship with Google"
+    excerpt: "While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's financial reports are also notably vague."
+    publishedDateTime: 2021-10-10T21:20:00Z
+    webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
+    ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 105
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google’s elite AI division DeepMind turns in its first profit in years"
     excerpt: "DeepMind turned in profit for the first time last year with a profit of £43.8 million, compared to a loss of £476 million in 2019."
     publishedDateTime: 2021-10-06T08:52:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://www.technowize.com/wp-content/uploads/2021/10/DeepMinds-first-profit-in-years-e1633510299166.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "Wednesday newspaper round-up: Petrol prices, Amazon, DeepMind"
-    excerpt: "Nearly two-thirds of UK manufacturers expect to raise their prices in the run-up to Christmas after being hit by mounting cost pressures, a leading employers’ group has said. The British Chambers of Commerce said inflation expectations had risen to their highest since its records began at the end of the 1980s,"
-    publishedDateTime: 2021-10-06T06:25:00Z
-    webUrl: "https://www.sharecast.com/news/press-round-up-short-premium/wednesday-newspaper-round-up-petrol-prices-amazon-deepmind--8171858.html"
-    ampWebUrl: "https://www.sharecast.com/amp/news/press-round-up-short-premium/wednesday-newspaper-round-up-petrol-prices-amazon-deepmind--8171858.html"
-    cdnAmpWebUrl: "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/press-round-up-short-premium/wednesday-newspaper-round-up-petrol-prices-amazon-deepmind--8171858.html"
-    type: article
-    provider:
-      name: Sharecast
-      domain: sharecast.com
-    quality: 59
-    images:
-      - url: "https://img2.s3wfg.com/web/img/images_uploaded/a/a/newspapers_media_papers.jpg"
-        width: 1000
-        height: 666
         isCached: true
   - title: "New AI Model From DeepMind Can Predict Gene Expression With Greater Accuracy"
     excerpt: "The idea behind Enformer is to better understand variants in the non-coding genome and predict the effects of any variants on gene expression."
@@ -90,20 +90,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/6496.jpg"
         width: 1200
         height: 1200
-        isCached: true
-  - title: "Google's health AI startup turns profit for 1st time: 6 details"
-    excerpt: "DeepMind, Google's artificial intelligence startup, has turned a profit for the first time since its inception in 2010, according to an Oct. 5 CNBC report. Six details: DeepMind recorded a $59.6 million profit in 2020 after losing hundreds of millions for the last several years."
-    publishedDateTime: 2021-10-06T14:40:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/google-s-health-ai-startup-turns-profit-for-1st-time-6-details.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg"
-        width: 400
-        height: 300
         isCached: true
   - title: "Alphabet helps DeepMind to turn its first ever profit"
     excerpt: "DeepMind, the London-based AI research firm, has turned a profit for the first time ever, reporting in £43.8 million in profits for 2020. The firm has posted multi-million-pound losses over the last several years and reportedly burned through $649 million in 2019."

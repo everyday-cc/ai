@@ -54,6 +54,15 @@ related:
         width: 705
         height: 485
         isCached: true
+  - title: "Tata gets AI for Rs 2700 crore, Power crisis new jolt"
+    excerpt: "The sale of Air India, eight-year tax reprieve to Tatas, a severe power crisis that may give a jolt to industry and agriculture and the stepping down of Chief Economic Advisor K Subramanian give a new twist to the economy."
+    publishedDateTime: 2021-10-10T20:07:00Z
+    webUrl: "https://www.nagalandpost.com/tata-gets-ai-for-rs-2700-crore-power-crisis-new-jolt/242095.html"
+    type: article
+    provider:
+      name: Nagaland Post
+      domain: nagalandpost.com
+    quality: 17
 
 secured: "EC5MA4GVM3tiYMUIygy0ZPhIb+9TkhS4EM1IXmCOi34XQoYU3Q8i6MZGrnTp36361YKxNBGFvyFzZXjdjJz2OEZvbSdM5/JHgikSTv/vaTkJrtuENaFu5sCF0gz19+lZ+tdD7GSxHV50aPOy1n3wcaRAjDf0caQHamnRmxOrMHLa1fAean1esj0AV8aRzbbvWrugT9POo9RGQoWK8L9/NK5XrYXLF5BqK9AKwtkj/zgT8CVE9KWoaJZLFkCnnPkFTbZiRTic5y1/+Cy/+Irr+rs/7Ff2vSOPJanj0MgphXjDznlF2ykZqKrMyXES+o6asypaRoiZ3ynVjc75oMq/da2bll4vmQ6QZsX7V+U9T1s=;hXd3f94Xy+jPL1ZkDVaB0g=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/investing-fintech-startup-front-bac
 webUrl: "https://www.linkedin.com/pulse/investing-fintech-startup-front-backed-smiths-dreamers-jeanne-gray"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,36 @@ images:
     isCached: true
 
 related:
+  - title: "Stampli Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
+    excerpt: "Stampli honored for achievements in AP Automation CB Insights today named Stampli to the fourth annual Fintech 250, a prestigious list of emerging private companies working"
+    publishedDateTime: 2021-10-07T14:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/10/b23280760/stampli-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
+    ampWebUrl: "https://www.benzinga.com/amp/content/23280760"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23280760"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 40
+    images:
+      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Socure, Onfido and Trulioo crack CB Insights’ Fintech 250"
+    excerpt: "The biometrics providers have cracked the CB Insights Fintech 250 list for 2021, with Socure, Onfido and Trulioo all represented on the list."
+    publishedDateTime: 2021-10-08T16:19:00Z
+    webUrl: "https://www.biometricupdate.com/202110/socure-onfido-and-trulioo-crack-cb-insights-fintech-250"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/24181649/awards.png"
+        width: 1140
+        height: 540
+        isCached: true
   - title: "Glia named to the 2021 CB Insights Fintech 250 list of top Fintech Startups"
     excerpt: "CB Insights today named Glia, a leading provider of Digital Customer Service, to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology."
     publishedDateTime: 2021-10-07T20:24:00Z
@@ -43,43 +73,34 @@ related:
         width: 792
         height: 266
         isCached: true
-  - title: "INVESTIGATION ALERT: The Schall Law Firm Announces it is Investigating Claims Against Peak Fintech Group Inc. and Encourages Investors with Losses to"
-    excerpt: "The Schall Law Firm, a national shareholder rights litigation firm, announces that it is investigating claims on behalf of investors of Peak Fintech Group Inc. (“Peak” or “the Company”) (NASDAQ: TNT) for violations of the securities laws."
-    publishedDateTime: 2021-10-06T13:38:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=542524"
+  - title: "ComplyAdvantage Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
+    excerpt: "CB Insights today named ComplyAdvantage to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. These 250 fintech startups are attacking an incredibly diverse array of financial services opportunities across 19 sectors,"
+    publishedDateTime: 2021-10-06T10:05:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/complyadvantage-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 16
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/uploads/2021/04/inn-og-default.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Airwallex Named to the 2021 CB Insights Fintech 250 List; Recognized as Top Fintech Startup for Fourth Successive Time"
+    excerpt: "Airwallex honored for achievements in Payments, Processing & Networks CategorySAN FRANCISCO--(BUSINESS WIRE)--CB Insights today named Airwallex to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology."
+    publishedDateTime: 2021-10-07T07:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=542920"
     type: article
     provider:
       name: 아크로팬
       domain: acrofan.com
-    quality: 0
+    quality: 15
     images:
       - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
         width: 580
         height: 339
         isCached: true
-  - title: "INVESTIGATION NOTICE: The Schall Law Firm Announces it is Investigating Claims Against Peak Fintech Group Inc. and Encourages Investors with Losses to"
-    excerpt: "The Schall Law Firm, a national shareholder rights litigation firm, announces that it is investigating claims on behalf of investors of Peak Fintech Group Inc. (“Peak” or “the Company”) (NASDAQ: TNT) for violations of the securities laws."
-    publishedDateTime: 2021-10-07T12:40:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=543211"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Stampli Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
-    excerpt: "CB Insights today named Stampli to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year’s list was unveiled on stage at CB Insights’ Future of Fintech conference in New York City."
-    publishedDateTime: 2021-10-07T14:00:00Z
-    webUrl: "https://www.financialbuzz.com/stampli-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
 
 secured: "6RCaPCILGza5Z/QSQEJDdndIYOlQ4hNd3AUEAicoLH4xe4c3cUMLpxzRq/Ycg3dYs27ka/B5aYisaeuqKf4c33MBfZJxacJUf9nouPOcpTZTriHfVXeo7Q7QZW2ytkO69Qc3N/zm9ey+uO2smk7ysEFPTo3d6Fh+lShKsJE0aBEpbKhxZX5IC/cC6eWeFZxvaciD4w3npKFpEIs0CiAUpjAniipzyLSWZy+rPcJkClzH2PyRbvCZ3gMaGxrGJZSdH3qcvASMUMhvQ4kja5wST1QRWbsUYDp4jsbM8Tle9JQiuwSqMXZCpHKxl9l/ob/CEZROhkK9ptyjNsQKydZ+rnuOQRGe+fzKo3Ed/48zvCZdRzxkziXhASZYUA2Y9lfVkhtkBB3eys/SxQB6LogixYK8ZceFG56ZmmH2/LHqZJAGsZudmFgCEj8EKpp0LBrc3lkPL3nvQgaVbgfkuQOJG92ZuBqigsYOd9QWLmiOSW2zrSwbvWndbgmeGBJaKTEU7TOJYCh4Op2iFKHK95cVcg==;8bqfsR21bMq/LiK+v+43cQ=="
 ---

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-11-ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google.md",
+      "title": "AI lab DeepMind becomes profitable and bolsters relationship with Google",
+      "excerpt": "While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's financial reports are also notably vague.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/",
+      "originalUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/",
+      "publishedDateTime": "2021-10-10T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-08-what-made-me-want-to-fight-for-fair-ai.md",
       "title": "What made me want to fight for fair AI",
       "excerpt": "My life has always involved centering the voices of those historically marginalized in order to foster equitable communities. Growing up, I lived in a small suburb just outside of Cleveland, Ohio and I was fortunate enough to attend Laurel School, an all-girls school focused on encouraging young women",
@@ -157,58 +210,6 @@
         "AI",
         "Google AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-alphabet-helps-deepmind-to-turn-its-first-ever-profit.md",
-      "title": "Alphabet helps DeepMind to turn its first ever profit",
-      "excerpt": "DeepMind, the London-based AI research firm, has turned a profit for the first time ever, reporting in £43.8 million in profits for 2020. The firm has posted multi-million-pound losses over the last several years and reportedly burned through $649 million in 2019.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361135/alphabet-helps-deepmind-to-finally-turn-profit",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361135/alphabet-helps-deepmind-to-finally-turn-profit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1633518860/itpro/DeepMind_magnifying_glass_shutterstock.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361135/alphabet-helps-deepmind-to-finally-turn-profit?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361135/alphabet-helps-deepmind-to-finally-turn-profit?amp",
-      "publishedDateTime": "2021-10-06T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     },
     {

@@ -2,49 +2,6 @@
   "page": 29,
   "value": [
     {
-      "path": "_news/2021-09-15-dish-selects-ibms-software-for-new-cloud-native-5g-network.md",
-      "title": "Dish Selects IBM's Software for New Cloud-Native 5G Network",
-      "excerpt": "IBM and Dish will apply and implement customized AI-powered automation and network orchestration software to create the first greenfield cloud-native 5G network in the U.S.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvtechnology.com/news/dish-selects-ibms-software-for-new-cloud-native-5g-network",
-      "originalUrl": "https://www.tvtechnology.com/news/dish-selects-ibms-software-for-new-cloud-native-5g-network",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/x2NWaAXax7jBGeBQocpCAG-1200-80.png",
-          "width": 1200,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tvtechnology.com/amp/news/dish-selects-ibms-software-for-new-cloud-native-5g-network",
-      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/dish-selects-ibms-software-for-new-cloud-native-5g-network",
-      "publishedDateTime": "2021-09-15T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TV Technology",
-        "domain": "tvtechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-15-nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data.md",
       "title": "NHS Artificial Intelligence provider reports 160% growth, promising to transform healthcare with better data",
       "excerpt": "RwHealth, the leading provider of Artificial Intelligence to the healthcare industry, has reported 160% year-on-year growth as its data-led solutions are increasingly embraced by NHS trusts, private healthcare providers and pharmaceutical companies.",
@@ -1067,6 +1024,40 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences.md",
+      "title": "Former BigHand Head of Product joins Wilson Allen as Director of Data Sciences",
+      "excerpt": "Wilson Allen today announced the addition of James Baldassarra as Director of Data Sciences. In his new role at the company, Baldassarra will be responsible for rolling out Wilson’s Managed Analytics Services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.legalitprofessionals.com/global-news/12672-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences",
+      "originalUrl": "https://www.legalitprofessionals.com/global-news/12672-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "legalitprofessionals.com",
+        "domain": "legalitprofessionals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

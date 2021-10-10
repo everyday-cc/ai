@@ -42,6 +42,22 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "After Air India privatisation, work to monetise Alliance Air, 3 other AI subsidiaries to start now: DIPAM Secy"
+    excerpt: "Air India Air Transport Services Ltd, Airline Allied Services Ltd, Air India Engineering Services Ltd and Hotel Corporation of India Ltd -- along with non-core assets, painting and artefacts, and other non-operational assets,"
+    publishedDateTime: 2021-10-10T20:25:00Z
+    webUrl: "https://www.livemint.com/news/india/after-air-india-privatisation-work-to-monetise-alliance-air-3-other-ai-subsidiaries-to-start-now-dipam-secy-11633855896028.html"
+    ampWebUrl: "https://www.livemint.com/news/india/after-air-india-privatisation-work-to-monetise-alliance-air-3-other-ai-subsidiaries-to-start-now-dipam-secy/amp-11633855896028.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/after-air-india-privatisation-work-to-monetise-alliance-air-3-other-ai-subsidiaries-to-start-now-dipam-secy/amp-11633855896028.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 37
+    images:
+      - url: "https://images.livemint.com/img/2021/10/10/600x338/INDIA-AVIATION-PRIVATISATION-1_1633856112889_1633856123518.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Work to monetise Alliance Air, 3 other AI subsidiaries to start: DIPAM Secy"
     excerpt: "After AI privatisation, government will now start work on monetising its four other subsidiaries, including Alliance Air, and over Rs 14,700 crore worth non-core assets DIPAM Secy Tuhin Kanta Pandey"
     publishedDateTime: 2021-10-10T08:28:00Z

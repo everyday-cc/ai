@@ -25,17 +25,40 @@ images:
     isCached: true
 
 related:
-  - title: "New Comprehensive Report on Robotaxi Market Share, Revenue and Sales Forecast i=by 2027"
-    excerpt: "The global robotaxi market was valued at US$ 840.6 million in 2021 and is expected to reach 24,322.8 million by 2028, exhibiting a CAGR of 61.72% between 2021 and 2028. Report Pages:[130 Pages]  Market Competitive Landscape:- Major layers operating in the Global Robotaxi Market are: AutoX,"
+  - title: "Global Geospatial Analytics Artificial Intelligence Market 2021 Key Players Insights, Growth Challenges and Forecast to 2027"
+    excerpt: "A recently uploaded report namely Global Geospatial Analytics Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2027 has provided unique insights about the market for the given period."
+    publishedDateTime: 2021-10-07T00:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-geospatial-analytics-artificial-intelligence-market-2021-key-players-insights-growth-challenges-and-forecast-to-2027-2021-10-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Blood Market 2021 – 2028 | Industry Insight By Key Players Cerus Corporation and Baxter International"
+    excerpt: "The Global Artificial Blood Market has witnessed continuous growth in the past few years and is projected to grow even further during the forecast period (2021-2028). The research presents a complete assessment of the market and contains Future trend,"
+    publishedDateTime: 2021-10-08T11:47:00Z
+    webUrl: "https://www.medgadget.com/2021/10/artificial-blood-market-2021-2028-industry-insight-by-key-players-cerus-corporation-and-baxter-international.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
+  - title: "Cognitive Systems Spending Market 2021 by Global Key Players, Types, Applications, Countries, Industry Size and Forecast to 2030"
+    excerpt: "The global COVID-19 pandemic has severely impacted the global economy. However, the banking system is largely considered to be an essential service, which sustains the prospects of cognitive systems spending market during the global pandemic."
     publishedDateTime: 2021-10-08T19:55:00Z
-    webUrl: "https://www.globalbankingandfinance.com/new-comprehensive-report-on-robotaxi-market-share-revenue-and-sales-forecast-iby-2027/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/new-comprehensive-report-on-robotaxi-market-share-revenue-and-sales-forecast-iby-2027/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/new-comprehensive-report-on-robotaxi-market-share-revenue-and-sales-forecast-iby-2027/"
+    webUrl: "https://www.globalbankingandfinance.com/cognitive-systems-spending-market-2021-by-global-key-players-types-applications-countries-industry-size-and-forecast-to-2030/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/cognitive-systems-spending-market-2021-by-global-key-players-types-applications-countries-industry-size-and-forecast-to-2030/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/cognitive-systems-spending-market-2021-by-global-key-players-types-applications-countries-industry-size-and-forecast-to-2030/"
     type: article
     provider:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
-    quality: 33
+    quality: 0
 
 secured: "fG4VoiXq+MOL5QWwuCXkYDa6U+x/5Witgz/y561QCKJEldKFG/4ekBBe4Ss3CoBD2+qAf9sqshSPOayH1SBVT8jKa0RW1+NUh0/91uRwq5ZDYd2bibOzZJM1lHpafXKJgYnYbvXaoOStalAW18N//t9Fi3WAPTCCdzwtMabik3Qp/QmYs3VaMvxaDevy4Cb7mJ2DMM9QKU35XWmo/z7xndWGDgUK3wUKcSL0uktw5ACK7wL4GcNv8pybcr+cHmtx1OzXE8B+apLWbE/HU+XDghwCenxun7Z1aVZSQ+v+NCIJEVitTHe2OpNFx+t2MNmUzocRyFFFwhpbnjmq4TXC3ohplbLf4Krs4twf6qvw/HM=;4brJRoEocIrxxG8487zW2w=="
 ---

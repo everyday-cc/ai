@@ -262,58 +262,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-06-china-publishes-code-of-ethics-to-regulate-artificial-intelligence-what-would-isaac-asimov-say.md",
-      "title": "China publishes code of ethics to regulate Artificial Intelligence, what would Isaac Asimov say?",
-      "excerpt": "Going ahead of Europe, China has already published a six-point code of ethics to regulate Artificial Intelligence, giving 'full decision-making power' to humans, very similar to Isaac Asimov's laws of robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/389467",
-      "originalUrl": "https://www.entrepreneur.com/article/389467",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1633454310-Oct5InteligenciaArtificialChinacdigoticoleyesIsaacAsimovrobotsrobtica.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2021-10-05-fruitcore-robotics-closes-20m-series-a.md",
       "title": "Fruitcore Robotics closes $20M Series A",
       "excerpt": "Fruitcore Robotics plans to expand its engineering, sales and support teams in Europe as it continues to grow.",
@@ -1224,6 +1172,49 @@
       "topics": [
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-tesla-gears-up-to-launch-self-driving-software-but-with-a-catch.md",
+      "title": "Tesla gears up to launch self-driving software but with a catch",
+      "excerpt": "Tesla will monitor driving behaviors before allowing owners to take advantage of its Full Self-Driving software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/",
+      "originalUrl": "https://www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2021/09/Tesla-autopilot.jpg-image620x372.jpg",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/?amp=1",
+      "cdnAmpWebUrl": "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/?amp=1",
+      "publishedDateTime": "2021-10-05T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PropertyCasualty360",
+        "domain": "propertycasualty360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

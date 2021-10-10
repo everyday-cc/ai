@@ -2,50 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2021-09-28-aiml-innovations-tech2heal-readies-its-remote-patient-monitoring-platform-for-deployment.md",
-      "title": "AI/ML Innovations’ Tech2Heal Readies Its Remote Patient Monitoring Platform For Deployment",
-      "excerpt": "Product roll out and pilot studies planned for the fourth quarter 2021 TORONTO, ON / ACCESSWIRE / September 28, 2021 / AI/ML Innovations Inc. (CSE:AIML)(OTCQB:AIMLF)(FSE:42FB), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/Accesswire/business-lifestyle-technology-health-artificial-intelligence-3f41066c118695d81c863123926e8d81",
-      "originalUrl": "https://apnews.com/press-release/Accesswire/business-lifestyle-technology-health-artificial-intelligence-3f41066c118695d81c863123926e8d81",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-09-28-burro-raises-109m-for-autonomous-produce-field-transport.md",
       "title": "Burro raises $10.9M for autonomous produce field transport",
       "excerpt": "Burro first crossed our path during our 2020 robotics event, when the agtech company competed in our pitch off. The company (which used to go by the decidedly less fun name Augean) appears to be moving up in the world,",
@@ -1165,6 +1121,58 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-are-ai-and-robotics-good-investments.md",
+      "title": "Are AI and Robotics Good Investments?",
+      "excerpt": "It is expected that the robotics market will grow by over $150 billion US dollars by 2025, and that is not only down to growth in commercial use, but it is also anticipated that robotics will become a more integral part of our everyday lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ai-robotics-good-investments-james-sanders",
+      "originalUrl": "https://www.linkedin.com/pulse/ai-robotics-good-investments-james-sanders",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQH77ghKDP70-w/article-cover_image-shrink_600_2000/0/1632755863578?e=1638403200&v=beta&t=A58t5OOMkAvh-TmlkABJ27muW8H8czOLBQc8y627e_s",
+          "width": 739,
+          "height": 489,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

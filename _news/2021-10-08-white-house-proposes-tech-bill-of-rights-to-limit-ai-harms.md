@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/news/amp/White-House-proposes-tech-bill-of-rig
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/White-House-proposes-tech-bill-of-rights-to-16519406.php"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://www.wearecentralpa.com/wp-content/uploads/sites/69/2021/10/AP21281627613223.jpg?w=1280"
         width: 1280
         height: 853
+        isCached: true
+  - title: "White House science advisors propose AI “Bill of Rights”"
+    excerpt: "In a first of its kind move, the White House has seen its science advisors propose an AI \"Bill of Rights\" to limit the scope of"
+    publishedDateTime: 2021-10-10T21:15:00Z
+    webUrl: "https://techstory.in/white-house-science-advisors-propose-ai-bill-of-rights/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 37
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/10/images-95.jpeg"
+        width: 678
+        height: 452
         isCached: true
 
 secured: "7CUZXTzpW4xesRTHJw5o7JCX2W8oNlNijp4BCOuiXKWc9sHrJXIw3Y7xyr1QydtIgzrXJCwu5l48KO8qnx+rwGclOGlkrsJig4ND0xpj1rXS4RJ7+NwEReAqnlkqxuGZXU2BPmyTcPct+eJM1T3kE7IyiEGRz+RbxB6vtxfi7oBYe8kQvCFpreBkHMnoUkEFapXhzKe6Z7WfMPhcHy+qcRpn9D5QtC06cv4t4UawEi/CEqXqrzxMprTguWpvTXcoUIxi9X3O90WeQpazB2nuJa3Ss19i8MIGb4B89n4PKXH5gucXrBrt7yTfGMzCj8c+JGjR+CBMRxKIqwZ2dyIHMkJznLGfztQL+O6ZWNlZ3K8=;KKR3UwhpZMzr2NHQIBX6xA=="

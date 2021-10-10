@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Global Cloud Machine Learning Market 2021 Key Business Strategies, Technology Innovation and Regional Data Analysis to 2027"
-    excerpt: "The report named Global Cloud Machine Learning Market 2021 by Company, Regions, Type and Application, Forecast"
-    publishedDateTime: 2021-10-06T03:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cloud-machine-learning-market-2021-key-business-strategies-technology-innovation-and-regional-data-analysis-to-2027-2021-10-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Geospatial Analytics Artificial Intelligence Market 2021 Key Players Insights, Growth Challenges and Forecast to 2027"
     excerpt: "A recently uploaded report namely Global Geospatial Analytics Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2027 has provided unique insights about the market for the given period."
     publishedDateTime: 2021-10-07T00:08:00Z
@@ -49,20 +35,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Emotion Detection and Recognition Markets by Solution, Application, Technology, & End-User - Global Forecast to 2027 - ResearchAndMarkets.com"
-    excerpt: "The “Emotion Detection and Recognition Market 2021-2027” report has been added to ResearchAndMarkets.com’s offering. The Emotion Detection and Recognition Market is anticipated to grow at the rate of 11."
-    publishedDateTime: 2021-10-07T14:44:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-0ff909975c8c48178df310e92e8eadad"
+  - title: "Bot Services Market Insights by Leading Companies, Demand Analysis, Future Growth and Revenue Forecast to 2022"
+    excerpt: "The global bot services market size is expected to grow from USD 458.4 million in 2017 to USD 1,783.9 million by 2022, at a Compound Annual Growth Rate (CAGR) of 31.2%. The proliferation of millennial across social media channels and the use of Artificial Intelligence (AI),"
+    publishedDateTime: 2021-10-06T18:46:00Z
+    webUrl: "https://menafn.com/1102928698/Bot-Services-Market-Insights-by-Leading-Companies-Demand-Analysis-Future-Growth-and-Revenue-Forecast-to-2022"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 4
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?160760"
+        width: 374
+        height: 249
         isCached: true
+  - title: "Artificial Blood Market 2021 – 2028 | Industry Insight By Key Players Cerus Corporation and Baxter International"
+    excerpt: "The Global Artificial Blood Market has witnessed continuous growth in the past few years and is projected to grow even further during the forecast period (2021-2028). The research presents a complete assessment of the market and contains Future trend,"
+    publishedDateTime: 2021-10-08T11:47:00Z
+    webUrl: "https://www.medgadget.com/2021/10/artificial-blood-market-2021-2028-industry-insight-by-key-players-cerus-corporation-and-baxter-international.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
 secured: "OWM6XA4lFNQ2KEr/2Dr+JmSmsHwAw1Okb3/QYS5raA3xYywW44fE7WmZjknCPC0WmWAUCUYSxMOnha4j7CeNhEAV16xHyTvDAhtzA9Wwi76UtHCALjYUcYA3ODSUAvE3AZYt15yRFgFYUrQ4azh+25iFJQ1gV2A59zNq3QrruBq0EcH+MDncWVDC2BHlt2tTb9Ds3/Cb8qcLBhADwSLbnW+i13hH3xH1FqYdwziE1aXWrypwLbbtXxjXyB2DuZy8aJQCICjuHOqf1gp0jIpEXREJAPYKaq9Uh5P0xnIEWxWJh0gaK07l9ek3kEoS0ZIggDr+qT97x13lfz0t1/o0NdFxj7eFJhW8XFeHmw1j7BIkIhN70XyE+ZSthcuXCVajwaCqsjNPv48FhOsIu0REnQQtRePdjeR6GaW0FhsidihXuz9xwnZuUHHmaqKJZxCXE0xAdSVAxc+19P/mQyCP92/tw7gk9XMTSdOdts0dd6jD05X62cIq9x1AoLRbgW7+oPwbyRCrTEzRIut5vKFYLw==;7RK7KLpAxZCDxkn2gEVKdA=="
 ---

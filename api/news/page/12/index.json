@@ -2,50 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2021-09-29-beware-the-known-unknowns-when-finance-meets-ai.md",
-      "title": "Beware the known unknowns when finance meets AI",
-      "excerpt": "How can we act when dealing with known unknowns? That dilemma is facing regulators today as they try to assess the impact of artificial intelligence in the finance industry. As two recent reports from the Bank for International Settlements and the OECD make clear,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/01c366db-e1b8-49ff-9952-ef40403991ee",
-      "originalUrl": "https://www.ft.com/content/01c366db-e1b8-49ff-9952-ef40403991ee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcc5ef35b-6e79-4ffa-9960-e8cba82389e0.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/01c366db-e1b8-49ff-9952-ef40403991ee",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/01c366db-e1b8-49ff-9952-ef40403991ee",
-      "publishedDateTime": "2021-09-29T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2021-09-29-ai-driven-dynamic-face-mask-adapts-to-exercise-and-pollution-levels.md",
       "title": "AI-Driven Dynamic Face Mask Adapts To Exercise and Pollution Levels",
       "excerpt": "During the coronavirus pandemic, many people have grown accustomed to wearing face masks to protect themselves and others, but that doesn’t mean the masks are always comfortable — especially during exercise.",
@@ -1163,6 +1119,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-amazons-new-toys-from-999-robot-to-home-security-kids-entertainment-and-much-more.md",
+      "title": "Amazon’s new toys: From $999 robot to home security, kids entertainment and much more",
+      "excerpt": "Amazon shows off a handful of new Amazon-branded products, including an Echo device that hangs on the wall and acts as a digital whiteboard for the home, an interactive video chat portal for kids, and",
+      "sourceUrl": null,
+      "webUrl": "https://www.wraltechwire.com/2021/09/28/amazons-new-toys-from-999-robot-to-home-security-kids-entertainment-and-much-more/",
+      "originalUrl": "https://www.wraltechwire.com/2021/09/28/amazons-new-toys-from-999-robot-to-home-security-kids-entertainment-and-much-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wraltechwire.com/wp-content/uploads/2021/09/amazon-glow-e1632853917387-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wraltechwire.com/2021/09/28/amazons-new-toys-from-999-robot-to-home-security-kids-entertainment-and-much-more/?amp=1",
+      "cdnAmpWebUrl": "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/09/28/amazons-new-toys-from-999-robot-to-home-security-kids-entertainment-and-much-more/?amp=1",
+      "publishedDateTime": "2021-09-28T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
       ]
     }
   ],

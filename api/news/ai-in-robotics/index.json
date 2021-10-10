@@ -54,58 +54,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-09-2-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade.md",
-      "title": "2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
-      "excerpt": "AI is quickly becoming more useful in our world, and these two companies are perfectly positioned to benefit from it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/10/09/2-artificial-intelligence-stocks-you-can-buy-and-h/",
-      "originalUrl": "https://www.fool.com/investing/2021/10/09/2-artificial-intelligence-stocks-you-can-buy-and-h/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F645506%2Fai-button-on-a-circuit-board.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/10/09/2-artificial-intelligence-stocks-you-can-buy-and-h/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/10/09/2-artificial-intelligence-stocks-you-can-buy-and-h/",
-      "publishedDateTime": "2021-10-09T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-09-how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains.md",
       "title": "How to Move More Goods Through America’s Clogged Infrastructure? Robot Trains",
       "excerpt": "Self-driving trains could be greener, carry more stuff, and help unclog America’s congested supply chains. And making them a reality will likely be far easier than perfecting autonomous vehicles.",
@@ -696,7 +644,7 @@
       "originalUrl": "https://wtop.com/world/2021/10/singapore-patrol-robots-warn-people-of-undesirable-behavior/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -823,6 +771,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-china-publishes-code-of-ethics-to-regulate-artificial-intelligence-what-would-isaac-asimov-say.md",
+      "title": "China publishes code of ethics to regulate Artificial Intelligence, what would Isaac Asimov say?",
+      "excerpt": "Going ahead of Europe, China has already published a six-point code of ethics to regulate Artificial Intelligence, giving 'full decision-making power' to humans, very similar to Isaac Asimov's laws of robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/business/article/China-publishes-code-of-ethics-to-regulate-16510963.php",
+      "originalUrl": "https://www.chron.com/business/article/China-publishes-code-of-ethics-to-regulate-16510963.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/22/14/54/21547828/3/rawImage.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T17:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
       ]
     },
     {

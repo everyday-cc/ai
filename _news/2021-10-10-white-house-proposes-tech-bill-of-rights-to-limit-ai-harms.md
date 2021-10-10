@@ -58,6 +58,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "White House science advisors propose AI “Bill of Rights”"
+    excerpt: "In a first of its kind move, the White House has seen its science advisors propose an AI \"Bill of Rights\" to limit the scope of"
+    publishedDateTime: 2021-10-10T21:15:00Z
+    webUrl: "https://techstory.in/white-house-science-advisors-propose-ai-bill-of-rights/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 37
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/10/images-95.jpeg"
+        width: 678
+        height: 452
+        isCached: true
 
 secured: "l8QlUiVsKAO30N7SNFXV6/y2tVpLNE1/tw04vsnZxsmdR1Pku1TwMgd/IqWGzGlDvuqSB3W/qzm38rqF6f80X2heiLY0R4nJ2hdAWFApgttddCnID02vTv8bCDifBx0Y+8qtD/eI2fk7m1iFVuE4SROvdSk5ypbUmXsJ/OYa9tWF+wFsdZchOYfBcp52dCw89yxfMsjGaBeSTWVSwqwdo5NT77pQ1E9js6ZojEBd63p23Y87yQkNQZNW5Co56/hhYU3nxSw8PT6vf/0o3nuT+8h++zYP3BBocRAMiuhtN7BAIrYtuN+Eb1epUhxdveUkRf59gcECVW5XSsWyYAhRVZexYfcnTnjNWhfsTfDb+j0=;oTFNtWtIIPOWEFvNi7jDJw=="
 ---

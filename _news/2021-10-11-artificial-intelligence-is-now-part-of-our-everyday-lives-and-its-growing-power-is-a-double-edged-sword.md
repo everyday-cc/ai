@@ -1,29 +1,26 @@
 ---
 category: news
-title: "Artificial intelligence is now part of our everyday lives – and its growing power is a double-edged sword"
-excerpt: "As the perils and wonders of artificial intelligence begin to permeate our lives, the ‘IPCC report for AI’ calls for action from researchers and government to ensure a safe future."
-publishedDateTime: 2021-10-10T19:10:00Z
-originalUrl: "https://theconversation.com/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449"
-webUrl: "https://theconversation.com/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449"
-ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449"
+title: "Artificial intelligence is now part of our everyday lives and its growing power is a double-edged sword"
+excerpt: "A major new report on the state of artificial intelligence (AI) has just been released . Think of it as the AI equivalent of an Intergovernmental Pa"
+publishedDateTime: 2021-10-10T19:48:00Z
+originalUrl: "https://menafn.com/1102948378/Artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword"
+webUrl: "https://menafn.com/1102948378/Artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword"
 type: article
-quality: 42
-heat: 42
+quality: 21
+heat: -1
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/425394/original/file-20211008-21-1ottqx3.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=385&fit=crop"
-    width: 320
-    height: 385
+  - url: "https://menafn.com/updates/pr/2021-10/10/TC_45139image_story.jpg"
+    width: 1000
+    height: 1204
     isCached: true
 
 related:
@@ -42,6 +39,6 @@ related:
         height: 720
         isCached: true
 
-secured: "zjfMNqXOvOu3H/9eJ5GARsBaoitU27+PzK0hNIlYYH0TRJYzMue7PWibCaZm0t59Npl1GI35sVGbV5mHcQ+oxje0WL5kUcnCO0xNZpLwqBZ4CGbIlkDX+zAM6t4LR+aaIlwMLBrynl7PkavrhCNjSUD4R2kFqoDgSte0rUupSpzGUITHZFpGTRKZjZdT1RwE8GLS3RdGFYj5FTR2YI/epuQwbUh1KETtSRyZBdxHvtiNMqH0bHQOsdNPolE0iiE52anONXR94wl8b90o3jTb2Bdfhv4VWEZaq2VQWj22Fry919uQhaPimn76x5z0+iU0wmM9a7KtPMnEG4Jcr78nWon5RzNdJLRJIxfeipCjz+8=;bnCC9Z8r6ScDadqDqBAlVw=="
+secured: "c5XX+jzc8j1Av2dkRHAY5TRxiTVILMxDzWrDXGZmksdRajNYoRdJG6JC0EHkeywqhUtVzJYy5Bhf1Lok1Mb3KMczf1qHvz0sQ9NY6mFP1KTEpfXy7sPVDY+OtUNzTE2wcEkTJgrOHpLkTCHFpkdg1/XXLI3Vq26GmVd0w165UTo4Esq4tT8tFtA8M3ed8RV0z5JSE5JeX/5A8c15k3ULPCQDHsxiGxt2/n7FdcMEz4QBcPkzAcscbBk7WiNJg+Eq03RaVf9XW6FtHbOpnv7SKLb1BwzYtWAHDpq+pMuyXVSL+d3JKWIPinFhGvdtkDlc/zbg78fm9B2EKns+/xy82OAWjzXYqFan6Dl7mDWRweE=;DmQpFRDXNkpfawnVOzrzdg=="
 ---
 

@@ -47,38 +47,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "Robots Now Patrol Singapore Streets To Deter \"Undesirable Social Behaviour\""
-    excerpt: "Singapore has trialled patrol robots that blast warnings at people engaging in \"undesirable social behaviour\", adding to an arsenal of surveillance technology in the tightly controlled city-state that is fuelling privacy concerns."
-    publishedDateTime: 2021-10-06T03:02:00Z
-    webUrl: "https://www.ndtv.com/world-news/singapore-news-robots-patrol-singapore-streets-to-deter-undesirable-social-behaviour-2565301"
-    ampWebUrl: "https://www.ndtv.com/world-news/singapore-news-robots-patrol-singapore-streets-to-deter-undesirable-social-behaviour-2565301?amp=1&akamai-rum=off"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/singapore-news-robots-patrol-singapore-streets-to-deter-undesirable-social-behaviour-2565301?amp=1&akamai-rum=off"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 57
-    images:
-      - url: "https://c.ndtvimg.com/2021-10/7pf4sup4_singapore-robots-afp_625x300_06_October_21.jpg"
-        width: 650
-        height: 400
-        isCached: true
-  - title: "Robots to patrol Singapore streets to detect 'Undesirable Social Behaviour'"
-    excerpt: "Singapore is seeing an explosion of tools to track its inhabitants as it already has vast numbers of CCTV cameras to trials of lampposts kitted out with facial recognition tech"
-    publishedDateTime: 2021-10-06T04:54:00Z
-    webUrl: "https://english.jagran.com/world/robots-to-patrol-singapore-streets-to-detect-undesirable-social-behaviour-10033194"
-    ampWebUrl: "https://english.jagran.com/lite/world/robots-to-patrol-singapore-streets-to-detect-undesirable-social-behaviour-10033194"
-    cdnAmpWebUrl: "https://english-jagran-com.cdn.ampproject.org/c/s/english.jagran.com/lite/world/robots-to-patrol-singapore-streets-to-detect-undesirable-social-behaviour-10033194"
-    type: article
-    provider:
-      name: Jagran
-      domain: jagran.com
-    quality: 57
-    images:
-      - url: "https://imgeng.jagran.com/images/2021/oct/Singapore1633496465905.jpg"
-        width: 650
-        height: 540
-        isCached: true
   - title: "Singapore: Patrol robots seeking 'undesirable social behaviour' spark privacy concerns"
     excerpt: "The trial of patrol robots has sparked privacy concerns in Singapore. These robots are designed to blast warnings at people who are seen engaging in \"undesirable social behaviour\".   Singapore is seeing an explosion of tools to track inhabitants."
     publishedDateTime: 2021-10-06T09:18:00Z
@@ -94,22 +62,6 @@ related:
       - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/10/06/214716-singapore-patrol-robots.jpg"
         width: 918
         height: 506
-        isCached: true
-  - title: "Robots Patrol Singapore Streets to Police People Engaging in ‘Undesirable Social Behaviour’"
-    excerpt: "Officials have long pushed a vision of a hyper-efficient, tech-driven \"smart nation\", but activists say privacy is being sacrificed and people have little control over what happens to their data."
-    publishedDateTime: 2021-10-06T04:01:00Z
-    webUrl: "https://www.news18.com/news/buzz/robots-patrol-singapore-streets-to-police-people-engaging-in-undesirable-social-behaviour-4288970.html"
-    ampWebUrl: "https://www.news18.com/amp/news/buzz/robots-patrol-singapore-streets-to-police-people-engaging-in-undesirable-social-behaviour-4288970.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/buzz/robots-patrol-singapore-streets-to-police-people-engaging-in-undesirable-social-behaviour-4288970.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 49
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/10/robots-163349274416x9.png"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Xavier, the Robot Policing Undesirable Social Behavior, Is Raising Privacy Concerns"
     excerpt: "What if you prevent petty crime before it happened, or stop it in the early stages? That sounds like the premise of many dystopian novels and films, but for the people of Singapore, it’s reality – partly due to Xavier,"
