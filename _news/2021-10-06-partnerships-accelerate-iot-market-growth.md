@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mobileworldlive.com/partner-announcements/partnership-ac
 cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/partner-announcements/partnership-accelerate-iot-market-growth/amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1055
     height: 605
     isCached: true
-
-related:
-  - title: "Partnership Accelerate IoT Market Growth"
-    excerpt: "China Mobile International is building an ecosystem to help industry partners capitalize on the flourishing market for smart solutions, with an initial focus on elevating the smart home experience for consumers The Internet of Things (IoT) promises to improve the way we live and work,"
-    publishedDateTime: 2021-10-05T13:37:00Z
-    webUrl: "https://www.mobileworldlive.com/partner-announcements/partnership-accelerate-iot-market-growth"
-    ampWebUrl: "https://www.mobileworldlive.com/partner-announcements/partnership-accelerate-iot-market-growth/amp"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/partner-announcements/partnership-accelerate-iot-market-growth/amp"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 44
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2021/10/Image-4.png"
-        width: 1055
-        height: 605
-        isCached: true
 
 secured: "XcYFuZYgcPrkTdOlyxi4jF1VG8i9Kv5N73TKjejn3+ngQ7GfmisHfux2ywhcSuMLhcMA+uwI3rcRf2b+r9iDdFhY6/JPi7Cct+MG4WduBnFDXIYA45q104PPu4MoGaZOntlY96iUREux364GlRKcW3cVO88MIsXNkZgkFbJ9mLC5Qvcq6TJ5JpKTYDJjj8VwLPj1y53qDOYQIPrGBV8xtS+kkHlFetocw5csJTcG/Y0h09ibje2U/LBr20Zy9Mt5JQMAl6+ndw74Cy4vYst7Kh0gjA69q6T6MecnonaFE2WKfBvw5EN03eP9OVaVBMLTGF3hX2Swupl7//nPZmjaiNd+JMckb3wM/9DjZrj6A84=;1lIS+T6Qozb0qLFDKF/0wg=="
 ---

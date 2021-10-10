@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "CMU-Q panel: AI should augment human intelligence, not replace it"
+    excerpt: "Doha: An international panel discussion hosted by Carnegie Mellon University in Qatar (CMU-Q), a Qatar Foundation partner university, delved into th"
+    publishedDateTime: 2021-10-10T06:42:00Z
+    webUrl: "https://menafn.com/1102946110/CMU-Q-panel-AI-should-augment-human-intelligence-not-replace-it"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?654366"
+        width: 375
+        height: 250
+        isCached: true
   - title: "TruEra launches free AI Quality course for Data Scientists, led by Professor at Carnegie Mellon University"
     excerpt: "TruEra , a global provider of AI Quality solutions, has today announced the launch of its first free course for data science practitioners. The live, online course 'AI Quality: Driving ML Performance and Trustworthiness,"
     publishedDateTime: 2021-10-06T07:50:00Z

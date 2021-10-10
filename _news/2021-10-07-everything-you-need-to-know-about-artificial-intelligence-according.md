@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Top 10 companies that are using AI"
-    excerpt: "If you ask about the only technology that is emerging today, that is Artificial intelligence or maybe you can say that it is one of the technologies that today’s companies are adopting it rapidly. There are many companies that are using AI."
-    publishedDateTime: 2021-10-05T13:44:00Z
-    webUrl: "https://www.linkedin.com/pulse/top-10-companies-using-ai-rejwan-bin-sulaiman"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 43
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQH4A01QBfCQMA/article-cover_image-shrink_600_2000/0/1633440642620?e=1639008000&v=beta&t=5NRexVdZcF7GI2e93SuDLCKKyXiGpiS-sjLvn0q-vpw"
-        width: 864
-        height: 486
-        isCached: true
 
 secured: "F373dILXQsAOW+gUw4ZiKk/DtCX7Aeh1Syn9R14mrYyS5EcMJ5XQxqklhkJHx8pC+BCW1YLYoJTEBjX513Nfk/pNl3gMPlvZqYb8cL4rt2Zw0n1SinFUqxAesruwTHwFwTc35nuXJ9EK7fGH9dWqlkSKoUbl15Y1tZVybQXHdQuc5OasxC3mmKxRgHK7VElmjHVskgDQseP4hGOXaE3ezvsUvZdCBnk3w4Aw4agVazwlhpyEsASE7v7xVnoGzW3jwY5xNKnZcWkoIDW53RRLgl9Ba+ejOtrt3/gv85CEob2cmeMPQdB7lxXjtd8yfeO65QFToA9JhlgortvsMd900tV4BJQaBhwEEv1VgbUed6CuL/k9F+WyfBxrLLBlgXMnzetU4cYk29PbqbxaXO/+8qTf5oORNd4++wOOOTzDGrUTk1aIuUlh1iYF26rzMXm3ZR4nDkTdVSk2x2a9cuRrZ0XnDYtDAJ6gudzr3FEJl5iIsX+D0B3Wv6Slp6notaZBspFccBPbTVTCT28E3kCJqg==;iTAN+s3NEGMFsK2ngfyGEg=="
 ---

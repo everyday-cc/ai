@@ -41,6 +41,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Tatas have been promised 118 planes from AI's fleet"
+    excerpt: "As per a TOI report, apart from the purchase cost of the carrier, the conglomerate might have to spend Rs 3,000 crore over two years while they have been assured no more planes will be grounded until they take over."
+    publishedDateTime: 2021-10-10T06:48:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/tatas-have-been-promised-118-planes-from-ais-fleet/articleshow/86907215.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 37
+    images:
+      - url: "https://img.etimg.com/thumb/msid-86908643,width-1070,height-580,imgsize-44824,overlay-economictimes/photo.jpg"
+        width: 1070
+        height: 580
+        isCached: true
 
 secured: "McvItgVmvBxHWIBd76fh5zt5tV7MCKn+SC6YhxjJRiQj224Ct64iZ5O/LwYOECzzAw7Q06cUKkQk7xlN6OUPQpzNyGhpSWyVn1F0C81w3wDo6Gr3/I650WRSNOocvRzAgBtFLiZZm3/824xEbjyc8EmTN/tQ0YG1mshkqvHw7vYoPzRC5LULjXKUiTWlG+NRkMRzcYwIbD94HcvHb0L9kKm4JdZFxl4f0wZYBaFdnV1vuiunqcxSh1M/6X+WSU+P/mdE94t7p39T85jxz6kuQmoEEmkvLq0shmJdx6K/8shs73aHXShrHf/b3F0FLg94nbWNOBL5Z5iuwFigkOA1NrrWzmirvkDa2iZjB0xMbE+w7EgUax9Cc7dKATfPmaSdIfmo3nePUuHS3RLGiKeANP+7bctLiwlC9BYfd1AvXLuyNfMEub4QS6kDoe2rOfFIVFlXjEj2/DscZ5Ed1qDLioB1kCLNb5D6zJKADYrbdL8VU9PA93rGAI5zElRwzxbZqlrM8meJdhAPLFXyImCAew==;P0j8fN9e3GHwv3up2YMWxA=="
 ---

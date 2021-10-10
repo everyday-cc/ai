@@ -64,15 +64,6 @@ related:
       name: KPLC
       domain: kplctv.com
     quality: 19
-  - title: "Akridata Launches Edge Data Platform for ‘Data-Centric AI’"
-    excerpt: "Akridata, which calls itself a category-maker in Data-Centric AI, today announced the launch of the Akridata Edge Data Platform, which creates and manages smart data pipelines and AI workflows spanning Edge-Core-Cloud resources – an industry first."
-    publishedDateTime: 2021-10-05T13:42:00Z
-    webUrl: "https://insidehpc.com/2021/10/akridata-launches-edge-data-platform-for-data-centric-ai/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 17
 
 secured: "Rfm47fyTFoArzrzg2tP7j1FK4kPhoOi4fz9HK58k8Ja1mEjYNalqcYjgh0RyUYZtDuiQDINDJhu+OGBuqMfGCC9BbLN7Ex+olw5TxFual6Q+rxkcuWjsiIC4Lwc7rwie+nmN+oUd1CANA9xqbtJYOLzLLKH3lzSIOMKdPKZwJlw1F8Cfx8BRcq2qP+9ftCgTv116CDNgJd151YatQsjqRLY1YpiD52NN2ka79Nf5ZoLv9PnRnDNKiagMYl033zRKHO4YcqDypsuMs+WpDuvNGwJCWrcOV9ixBbGdhI1CFcrSxd0nrBjJFgcp6TpJwvcDap4NLBVxVKk8HUU5No2Hgrcw9kDNzbBfwRsREB6mz+I=;miyasTtHNPwnMq7bqMg3aQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/07/gretel-ai-a-platform-for-generati
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/gretel-ai-a-platform-for-generating-synthetic-and-privacy-preserving-data-raises-30m/amp/"
 type: article
 quality: 79
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rendered.ai Raises $6M, Expanding First-ever Developer Framework for Synthetic Data"
-    excerpt: "Rendered.ai, the leading platform provider for physics-based synthetic data, today announced the closing of a $6M seed round led by Space Capital. Participating investors include Tectonic Ventures, Congruent Ventures,"
-    publishedDateTime: 2021-10-05T14:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/rendered-ai-raises-6m-expanding-first-ever-developer-framework-for-synthetic-data-1030844215"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
-    images:
-      - url: "https://mma.prnewswire.com/media/1652913/Rendered_ai_aerial_image.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Gretel.ai Snags $50M For Privacy Efforts"
     excerpt: "San Diego-based Gretel.ai, a startup which is developing privacy technology, has raised $50M in a Series B funding, the company said today. The funding was led by Anthos Capital, and also included Section 32,"
     publishedDateTime: 2021-10-07T15:16:00Z

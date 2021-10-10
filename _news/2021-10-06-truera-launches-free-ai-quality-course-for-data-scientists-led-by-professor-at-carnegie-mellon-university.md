@@ -39,6 +39,20 @@ related:
         width: 620
         height: 355
         isCached: true
+  - title: "CMU-Q panel: AI should augment human intelligence, not replace it"
+    excerpt: "Doha: An international panel discussion hosted by Carnegie Mellon University in Qatar (CMU-Q), a Qatar Foundation partner university, delved into th"
+    publishedDateTime: 2021-10-10T06:42:00Z
+    webUrl: "https://menafn.com/1102946110/CMU-Q-panel-AI-should-augment-human-intelligence-not-replace-it"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?654366"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "KezzZpxv8UH/aulZK2+lDQQ2W6SKxyblPe9WIc5CeGKK3drD8+lGwXJ4bADlgQzIQdRjEhjSotdNhjfF4BiaRbOsAd10MlzMwgI2+qFwd+UTmJYBIGeZjCIZWDrI0hNhrFWTj3KOOCPAGxUsFN1qef7TtW3hxL7pG6Df4EoAoKASqcpIm+5OfwDr5hIpbhl11/6bHPB0Te5F6bkIxy6eAq+ecF2TCuAHo2OLoaYCqEx+smdCQXW8QYEVIlDdHvugoLkJ+1PIAZrGU00Ee73eI1JbvKxE753YswPSjxGG8AQT6iGf/9arusHyUvF9P7iGjZUiKnKbz2KecuU99BUHvjPlujKqRHOF3UpWOjmtSHc=;kLZXvw5V74ZqZfRpl/i3uA=="
 ---

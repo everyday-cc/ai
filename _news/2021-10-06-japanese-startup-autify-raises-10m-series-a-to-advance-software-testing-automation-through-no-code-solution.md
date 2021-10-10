@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "NVIDIA and VMware Deepen Collaboration to Simplify Enterprise AI Development and Application Management"
-    excerpt: "NVIDIA and VMware are collaborating to develop an AI-ready enterprise platform that brings the world's leading AI stack and optimized software to the infrastructure used by hundreds of thousands of enterprises worldwide."
-    publishedDateTime: 2021-10-05T13:33:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/NVIDIA-and-VMware-Deepen-Collaboration-to-Simplify-Enterprise-AI-Development-and-Application-Management-149346.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 21
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "S2RDjhczrEa9/DFDVGnlOcxbSWHxw1doUy7k935Q1MkLSTuvB8wCrYcua1BqKI2evXEY0zRonWkVpV9GVzhjR4d7xZ+nShHCdsX3bkH6F69R/tlT8Hj2ZrEN5YLrf5FJ3FZ2X6+Bsz9NXrVUyiP9LEHbG3aUT9WyE9Tmf1w4ae4rszb1fUn9e4yjdmZEnMVW9pnJ67s5nqrMenJ210o/+h/IAQIbMUNHStRIyegHlVdXz69TLxfNMsDd2Pv5tLulE85YLAJFA77sTuX5oJBSpT/4yq9ufNj/b6F3lsAjDpBIiNU8OANvGsMwymK2Y2qExqrA0c9JFvZkl7IlhFx9LB3N8jQpRoSpqnClxtpwE9I=;97qgYXjboW9jIBaQVDvd5Q=="
 ---

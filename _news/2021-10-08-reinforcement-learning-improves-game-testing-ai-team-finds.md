@@ -3,13 +3,13 @@ category: news
 title: "Reinforcement learning improves game testing, AI team finds"
 excerpt: "Recently, gaming companies have become interested in using reinforcement learning and other machine learning techniques in game development."
 publishedDateTime: 2021-10-08T04:20:00Z
-originalUrl: "https://venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/?via=indexdotco"
-webUrl: "https://venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/?via=indexdotco"
-ampWebUrl: "https://venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/?via=indexdotco&amp"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/?via=indexdotco&amp"
+originalUrl: "https://venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/"
+webUrl: "https://venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/"
+ampWebUrl: "https://venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -30,36 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Learn AI, including machine learning, for just $3 a course"
-    excerpt: "These 12 expert-led courses contain 79 hours of content covering concepts anyone interested in AI and machine learning needs to know, including Python, TensorFlow and R.."
-    publishedDateTime: 2021-10-05T14:58:00Z
-    webUrl: "https://www.engadget.com/premium-machine-learning-artificial-intelligence-super-bundle-deal-sale-145547107.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 84
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-09/7e229fc0-2163-11ec-a98d-f13f6593f430"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "A framework to enhance deep learning using first-spike times"
-    excerpt: "Researchers at Heidelberg University and University of Bern have recently devised a technique to achieve fast and energy-efficient computing using spiking neuromorphic substrates. This strategy, introduced in a paper published in Nature Machine Intelligence,"
-    publishedDateTime: 2021-10-05T13:30:00Z
-    webUrl: "https://techxplore.com/news/2021-10-framework-deep-first-spike.html"
-    ampWebUrl: "https://techxplore.com/news/2021-10-framework-deep-first-spike.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-framework-deep-first-spike.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/a-framework-to-enhance.jpg"
-        width: 732
-        height: 396
-        isCached: true
   - title: "Scientist looks to AI, lensing to find masses of free-floating planets"
     excerpt: "Exoplanet hunters have found thousands of planets, most orbiting close to their host stars, but relatively few alien worlds have been detected that float freely through the galaxy as so-called rogue planets,"
     publishedDateTime: 2021-10-06T10:57:00Z
@@ -91,6 +61,6 @@ related:
         height: 420
         isCached: true
 
-secured: "Fl2T/mhgzAp+C05JepG3COp6T8OcZFpE/ZZ0M6ooBWAV6doDy5W1aNax1TMCoGEI3vTHuPIxiJfAnQTQ4EfN0kZKxI3LsDFN9OKwsaI+2ZUgQwJ7lfTBiSmZK8elXq83JonzUHe6WVUk2oCJHPygaL7ao9KZxcIfhNN9IbWOP3NpL+ZlegSj3aiNiLaCbEpT6+ZxTYv/f+AxBAOFvnao4cVpQNKWi95jhXqZZiZoPal3VMp45DxKxj07Jb2GJL4U+HU4iWOHTQtgqvNRQMv0k4OW4pyV6N9S0ywHLaLYx1nnl0JIvbf/UnJGI3UeS8vxSQAHsPckCMO56l1ORECBBIUUzmZGmXlMCgtbit3hZOAOzmRNBN4Aoyh0DJ2YeVE5NtnKxMOzfL28s/Y9lIf0Lh+P40/ZZepkXsNm5sw+2Mkfm57mOE2DuBSiWV9zdKY0/fA+qQoOQwwcSLPVHhAKvOhlC753l3eifdVxEAhFXuZXpRVC6To9Z1IEkfe4Z45XozF1GPSukY2H4zh6wqv5iA==;lqdt06RhbLMLB3WXSFLXDg=="
+secured: "1DJZOcIbJmxfh2B7P0b4k+fNSDAetpNvNZKDWPUpmT2VgtfCpETVRnGicpVtd4YOCKKJjbY9u4XUHRIGYYTgbyXliZRPgUf5f8/W+yh/XD4S7heK9t8+xhO/eKAfs4BabnN1ekAMajWI2pZn1VWyyy+Fi9fKSa5QsVbmuVCAtQnwBEy3H+Ror5hFD45ckBMTuhYKxLqOhG7qmJqERxfq942bX2uHIpvnwtz9SwDNa71mkoLggsUfFreEYh3i82zD1rusAiisabd/tXbm8Ucc/55BTvYV2lXzaDJOk+sfUZR7u4kP9w3aChfos+ofe6m84YYumTeNkkEXMiDAzjAEKp9aBcDndL4k0qI/yu2Q2TM=;YREfUOm04+j53cXK7ZKNYA=="
 ---
 

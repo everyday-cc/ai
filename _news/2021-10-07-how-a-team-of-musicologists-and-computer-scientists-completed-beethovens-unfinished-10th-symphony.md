@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Beethoven's last symphony finished by AI"
+    excerpt: "Now, Ludwig van Beethoven's unfinished symphony has also been given the AI treatment. When the composer died in 1827, he left his last symphony, which would have been his 10th, incomplete. Only a few handwritten sketches of this work have survived."
+    publishedDateTime: 2021-10-10T07:05:00Z
+    webUrl: "https://tribune.com.pk/story/2324138/beethovens-last-symphony-finished-by-ai"
+    ampWebUrl: "https://tribune.com.pk/story/2324138/beethovens-last-symphony-finished-by-ai?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2324138/beethovens-last-symphony-finished-by-ai?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 57
+    images:
+      - url: " https://i.tribune.com.pk/media/images/ludwig_van_beethoven1633846240-0/ludwig_van_beethoven1633846240-0.jpg  "
+        width: 724
+        height: 543
+        isCached: true
   - title: "How AI helped complete Beethoven’s unfinished 10th Symphony"
     excerpt: "For the nearly two centuries since Ludwig van Beethoven's death, his 10th Symphony has sat unfinished and largely untouched. All the German composer left behind were a few sketches. But with a little help from modern technology,"
     publishedDateTime: 2021-10-08T21:17:00Z

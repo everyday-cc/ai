@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Blockchain Tech Could Be the Solution Against Hacked Drones or Self-Driving Cars"
+    excerpt: "A near future where robotaxis and autonomous trucks are safely sharing the roads with regular vehicles, while cargo drones up in the air are making most of our deliveries, sounds like a wonderful idea."
+    publishedDateTime: 2021-10-06T09:42:00Z
+    webUrl: "https://www.autoevolution.com/news/blockchain-tech-could-be-the-solution-against-hacked-drones-or-self-driving-cars-171057.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 34
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/blockchain-tech-could-be-the-solution-against-hacked-drones-or-self-driving-cars-171057-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
 
 secured: "1tYnkAmc7FOFwqHQMfB5CfNwG69LHzfWrNCYyKFeT0VSCkXAVosCAP5TLfofmDVU2M1Q/3nijSEALS9pjoCxdtzwNySQXfE7FI/0SEdeRxqCReKa3yUWvuBnNKRyOpzc/Oa3XAumqfhcXcau/N8dWNb+r77iMXweF/zRwoCKRnZ8Kyy/mEoD6NSaytZdCaOC14Q47zjSOytxF+CmsIErQye0ixbRbkVBxrQr54EWOmGHN7owPrNSvdnqzoeW68oCP/nCSYjbOe2oBVze9uKaHuvwzPJ90J5kPkajjNXI4HNDMvoP1uc15QxFd5zTSxUt9kpa7gfCJ7Fg85raYCBXD8HoatLi6CuKItD0h8oz5f22UZzwCf5lF4i+iulzCgUeE0WOnS8zitQUrE5ITRDOSkwgAl4iRmdQ2WgK79smvy+Ik4bhwYISr6G7aKTBI13/OnkxpaU7DRMKTY26qt1sw60mpVNdSdEABzLsAh3Gt7biOh2vahrclRRWSwlU6A4AaYL0tc1KcX4P6mHSxierVg==;sv8cNP/NFhvYqkWaJD2Zhg=="
 ---

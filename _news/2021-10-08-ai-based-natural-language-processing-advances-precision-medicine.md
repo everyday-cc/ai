@@ -7,8 +7,8 @@ originalUrl: "https://healthitanalytics.com/news/ai-based-natural-language-proce
 webUrl: "https://healthitanalytics.com/news/ai-based-natural-language-processing-advances-precision-medicine"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Analytics
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Advances Breast Cancer Detection"
+    excerpt: "With artificial intelligence technology, medical professionals can quickly and accurately sort through breast MRIs in patients with dense breast tissue to eliminate those without cancer. Mammography has assisted in reducing breast cancer-related deaths by providing early detection when cancer is still treatable."
+    publishedDateTime: 2021-10-07T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-advances-breast-cancer-detection"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2019-11-18-GettyImages-1047719428.png"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Informatics useful in advancing personalized medicine: Washington University"
     excerpt: "A representative from the school explains how tools like artificial intelligence and natural language processing can help elevate personalized medicine."
     publishedDateTime: 2021-10-05T16:05:00Z

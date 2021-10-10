@@ -91,20 +91,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Data Analytics, Artificial Intelligence Lower Hospital Infections"
-    excerpt: "By switching to a data analytics and AI-powered hygiene monitoring system, Novant Health decreased its number of hospital-acquired infections."
-    publishedDateTime: 2021-10-05T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/data-analytics-artificial-intelligence-lower-hospital-infections"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Code_data.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "Level Agency Welcomes New Vice President of Enterprise Data and Analytics"
     excerpt: "Level Agency, one of Pittsburgh's leading digital marketing agencies, has announced the addition of Eric Liu, Ph.D., MBA. Liu will serve as a member of the agency's Executive Team in the role of Vice President of Enterprise Data and Analytics."
     publishedDateTime: 2021-10-07T15:42:00Z
@@ -135,15 +121,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "getWizer Announces Partnership with Leading Text Analytics Platform, Canvs AI"
-    excerpt: "The addition of Canvs AI's automated deep text analysis within getWizer's end-to-end consumer insights platform will help expose new insights previously hidden in large amounts of open-ended text-based questions collected from Qual and Quant surveys."
-    publishedDateTime: 2021-10-05T13:29:00Z
-    webUrl: "https://www.nbc12.com/prnewswire/2021/10/05/getwizer-announces-partnership-with-leading-text-analytics-platform-canvs-ai/"
-    type: article
-    provider:
-      name: WWBT
-      domain: nbc12.com
-    quality: 14
 
 secured: "c5Rexj5r5EmNrd6+RZXxPGMCgD8YwNzx+G7/jQDCC2bQKDL8U61LjNh2C00959A5+Rv2pVZmxTz3D3VGqVQTKpS9WVJCJxdhyqE7nf6YfGrtRqqTmws3ccxyadwDb2J0pBlQfmZ8MMuTY5ELQCnB2IC7cR9Y6TBDjcXKxrnHgXzND0XxZYOGXMnAuO9eigqLkf/ulTm46KPW2HqALPo0CEzpa68jBTEo3tD2zzMcb6MwmfIOiwUXlpW35qfd/kffGIxNKb61BQv7/VBkkAnOEgiqIcCRAO6Q8OYl+sDmtYEITlbPMMDgIS6SnGVTQRfa+KeIZRmeRX7MmqvUc5hBNOidVUPy6GE2WHmvQGUnih4=;L+4CR1N2s1khKVv3SpKKog=="
 ---

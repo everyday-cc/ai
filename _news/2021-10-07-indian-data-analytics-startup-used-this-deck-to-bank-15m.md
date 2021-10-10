@@ -80,20 +80,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Data Analytics, Artificial Intelligence Lower Hospital Infections"
-    excerpt: "By switching to a data analytics and AI-powered hygiene monitoring system, Novant Health decreased its number of hospital-acquired infections."
-    publishedDateTime: 2021-10-05T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/data-analytics-artificial-intelligence-lower-hospital-infections"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Code_data.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "Level Agency Welcomes New Vice President of Enterprise Data and Analytics"
     excerpt: "Level Agency, one of Pittsburgh's leading digital marketing agencies, has announced the addition of Eric Liu, Ph.D., MBA. Liu will serve as a member of the agency's Executive Team in the role of Vice President of Enterprise Data and Analytics."
     publishedDateTime: 2021-10-07T15:42:00Z
@@ -124,15 +110,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "getWizer Announces Partnership with Leading Text Analytics Platform, Canvs AI"
-    excerpt: "The addition of Canvs AI's automated deep text analysis within getWizer's end-to-end consumer insights platform will help expose new insights previously hidden in large amounts of open-ended text-based questions collected from Qual and Quant surveys."
-    publishedDateTime: 2021-10-05T13:29:00Z
-    webUrl: "https://www.nbc12.com/prnewswire/2021/10/05/getwizer-announces-partnership-with-leading-text-analytics-platform-canvs-ai/"
-    type: article
-    provider:
-      name: WWBT
-      domain: nbc12.com
-    quality: 14
   - title: "Olea Edge Analytics Closes $35M Series C Round to Empower Cities with Artificial Intelligence to Recover Lost Water Revenue"
     excerpt: "Olea Edge Analytics, an intelligent edge computing platform for the water utility industry, today announced the closing of $35 million in Series C funding led by New York-based global private equity and venture capital firm Insight Partners."
     publishedDateTime: 2021-10-06T11:06:00Z

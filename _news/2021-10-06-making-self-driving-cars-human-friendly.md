@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/10/211004203419.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/10/211004203419.htm"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -23,50 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving cars have brain wave"
-    excerpt: "Self-driving supermarkets and autonomous electric taxis capable of slashing emissions in New York are some of the innovations driving the driverless revolution. The issue of safety is the recurring question though,"
-    publishedDateTime: 2021-10-05T14:28:00Z
-    webUrl: "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/"
-    ampWebUrl: "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/amp/"
-    cdnAmpWebUrl: "https://www-innovatorsmag-com.cdn.ampproject.org/c/s/www.innovatorsmag.com/self-driving-cars-have-brain-wave/amp/"
-    type: article
-    provider:
-      name: innovatorsmag.com
-      domain: innovatorsmag.com
-    quality: 59
-    images:
-      - url: "https://www.innovatorsmag.com/wp-content/uploads/2021/10/erik-mclean-ZWW2SDPaC54-unsplash-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Blockchain Tech Could Be the Solution Against Hacked Drones or Self-Driving Cars"
-    excerpt: "A near future where robotaxis and autonomous trucks are safely sharing the roads with regular vehicles, while cargo drones up in the air are making most of our deliveries, sounds like a wonderful idea."
-    publishedDateTime: 2021-10-06T09:42:00Z
-    webUrl: "https://www.autoevolution.com/news/blockchain-tech-could-be-the-solution-against-hacked-drones-or-self-driving-cars-171057.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 34
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/blockchain-tech-could-be-the-solution-against-hacked-drones-or-self-driving-cars-171057-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
-  - title: "Apple Seeking ‘Radar Test Engineer’ for its Self-Driving Car Project"
-    excerpt: "According to a new job listing, Apple is looking for a Radar Test Engineer for its self-driving car project, reaffirming the company’s commitment towards its autonomous, electric vehicle efforts. “Apple SPG is looking for a Radar Test Engineer to join our Sensors team,"
-    publishedDateTime: 2021-10-05T18:51:00Z
-    webUrl: "https://www.iphoneincanada.ca/news/apple-seeking-radar-test-engineer/"
-    type: article
-    provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
-    quality: 24
-    images:
-      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/10/apple-car.jpg"
-        width: 640
-        height: 335
-        isCached: true
   - title: "Geely has built satellites to guide its self-driving cars"
     excerpt: "After bang-for-your-buck crossovers and sedans, affordable electric vehicles, and high-end smartphones, Geely is now building satellites. Eighteen months after the start of construction of its satellite production and testing center in Taizhou,"
     publishedDateTime: 2021-10-06T04:30:00Z

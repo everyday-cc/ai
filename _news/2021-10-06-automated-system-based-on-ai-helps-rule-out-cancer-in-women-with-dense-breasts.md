@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI helps rule out cancer in dense breasts"
-    excerpt: "An automated system that uses artificial intelligence (AI) can quickly and accurately sift through breast MRIs in women with dense breasts to eliminate those without cancer, freeing up radiologists to focus on more complex cases,"
-    publishedDateTime: 2021-10-05T14:14:00Z
-    webUrl: "https://medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-helps-rule-out-canc.jpg"
-        width: 2400
-        height: 3747
-        isCached: true
   - title: "AI evaluation of MRI scan helps rule out cancer in women with dense breasts"
     excerpt: "While mammograms have reduced deaths by detecting breast cancers when they're small and easier to treat, it's less effective for women with dense breasts."
     publishedDateTime: 2021-10-07T05:05:00Z
@@ -58,22 +42,6 @@ related:
         width: 512
         height: 341
         isCached: true
-  - title: "Artificial Intelligence Can Quickly and Accurately Rule Out Cancer in Dense Breasts"
-    excerpt: "An automated system that uses artificial intelligence (AI) can quickly and accurately sift through breast MRIs in women with dense breasts to eliminate those without cancer, freeing up radiologists to focus on more complex cases,"
-    publishedDateTime: 2021-10-05T14:00:00Z
-    webUrl: "https://scitechdaily.com/artificial-intelligence-can-quickly-and-accurately-rule-out-cancer-in-dense-breasts/"
-    ampWebUrl: "https://scitechdaily.com/artificial-intelligence-can-quickly-and-accurately-rule-out-cancer-in-dense-breasts/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-can-quickly-and-accurately-rule-out-cancer-in-dense-breasts/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 51
-    images:
-      - url: "https://scitechdaily.com/images/AI-Cancer-in-Dense-Breasts-656x1024.jpg"
-        width: 656
-        height: 1024
-        isCached: true
   - title: "AI Helps Rule Out Cancer in Women With Dense Breasts"
     excerpt: "While mammograms have reduced deaths by detecting breast cancers when they're small and easier to treat, it's less effective for women with dense breasts. However, a new study finds that supplemental MRI screening can make a difference for these women,"
     publishedDateTime: 2021-10-06T13:17:00Z
@@ -83,20 +51,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
-  - title: "Artificial Intelligence Advances Breast Cancer Detection"
-    excerpt: "With artificial intelligence technology, medical professionals can quickly and accurately sort through breast MRIs in patients with dense breast tissue to eliminate those without cancer. Mammography has assisted in reducing breast cancer-related deaths by providing early detection when cancer is still treatable."
-    publishedDateTime: 2021-10-07T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-advances-breast-cancer-detection"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 37
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2019-11-18-GettyImages-1047719428.png"
-        width: 690
-        height: 400
-        isCached: true
 
 secured: "KsTkrXwJrkmd6fqA1lJ8lUxji3M0DxVSuthMjBcS1TQPLZp+bz0pe0GWFDn0TJPr4W02jHUtaaZOWZ/N0pZN6ArdRo2pDWCrUZJM7zROPba0xEf8meGHrY5VkiLrKGnS+Heq69Z0nMevu6YRKDE+TPxL1bQp623Ocush3F29a4pmAnObrlWRSSopct9BqIqFiUHLyOy6L7eQ3+/0Y+Osk56J0W3NzQzrlDxeoUE/zzawLLSv2zB4g4KISkFV2u7eqhvrk/4A6UQwPUoDl8muN+F+zhB0Q5xXLvGEyEOlA5iC1ABQ4A7KpiC6qeEhGwiVk+Ad9oa/wbQcmpbH5qvpQWQ3tv1NTQuF7FqDimC1mxZFTBfWrxJXBHPuxp6aOcWJkiSCAZPwZIjwub20c7NLu7L+xHB0Tinl/1fR3Bz+zD4VKKshJaEQjA6ssPlcHA3kK60bppS3viaQpbESFDE745OHBdQ5Kf0lgj063TCTlTIa4i6WZrIROGeKYejPrxbtzcf7J7DBM4ThWakTgmUQhA==;YLRjDt94vvtorYuIFZ5U6g=="
 ---

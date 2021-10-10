@@ -55,20 +55,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Dozens of Four-Wheeled Autonomous Robots Are Sorting Mail in Greece"
-    excerpt: "Robots supplementing the human workforce is no longer uncommon, as we’re now using machines in pretty much all industries. Today’s example is offered by the Hellenic Post in Greece, which now has a fleet of bots sorting the mail."
-    publishedDateTime: 2021-10-05T14:57:00Z
-    webUrl: "https://www.autoevolution.com/news/dozens-of-four-wheeled-autonomous-robots-are-sorting-mail-in-greece-170984.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 54
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/dozens-of-four-wheeled-autonomous-robots-are-sorting-mail-in-greece-170984_1.jpg"
-        width: 1921
-        height: 1080
-        isCached: true
 
 secured: "OYkzQpZZCXdSYX3lHZyAwZW5P8sXN6WT5v4b4CiRH2zQE7IvrTsLya9NN0kif2SKhC2xuanWBvzOK4AVsqzMqAmliu5jobsoRKlHTgTK+/t23ZIhsBNEKXfOQf3Mpc1yf51I9jWwys0ztNmR126izPw1o3gL3zs9qiQ8Jf2Yh7Ar+79D0UXSfKTQSSDwlDEs8sW/VAt8WhWU9akVwhhMIGZHF6LXB3RfEt3ESf9U0Uo09b44/tcc3N1zGWV6KesqCLV69MQoSOJrwnPsxPKfwWMMMYoYI/HFBhUls1NJg70JPm3FRPcDuln9QFe8x3Klp9iS5vShPu9DyIBfumYca/oiW2o59SwBqZhPCwcqmA0=;jUh3SzX+acSpW54JRG3MWQ=="
 ---

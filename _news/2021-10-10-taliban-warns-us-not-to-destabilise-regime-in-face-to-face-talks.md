@@ -52,15 +52,6 @@ related:
       name: Radio Free Europe/Radio Liberty
       domain: rferl.org
     quality: 24
-  - title: "Pak religious party demands recognition for Taliban govt in Afghanistan"
-    excerpt: "The Taliban takeover in Afghanistan, followed by their claims of being a transformed and enlightened face, is still taking it time to achieve recognition by the world. The Taliban-led government setup in Afghanistan is yet to get recognition by any country around the globe,"
-    publishedDateTime: 2021-10-05T13:56:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Asia/20211005/3831740.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
 
 secured: "zfhs0alhAMRPHL4XDNhRrE3uA+CsbYI/uPwbMk4QX35XTiAG7bPKah6fXZpTbz0HfJxzY4O1tQupepCn6QWemsljvHtpg29OEN1BX1jvOiMd+r+o/PjigLB2pktJHPZoINGZhIPWYai/7b8NxAml+F2RFVkWtTZvV2ioeXv85C+ozbZ8a9H2fPMDTNhL11IBH6xOpGGjp6YvcLpNNaA/pM1vqHBSNFd9JRh1w06cCgug4cim8pU/wzQXws7W9suB409h7+9JiiB4v7uY0+wo0rdifTdtAYvBEd7U7JRDgkYwxXwGTon7AajrSYGW/Ud5O3/hma3XQG07d3ifWATqb2QTlII35DJDW1RY9hJ2KHM=;xVkhzvzfAerQkTKqVo6D+A=="
 ---

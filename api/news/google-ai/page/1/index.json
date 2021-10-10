@@ -212,49 +212,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-06-deepmind-introduce-alphafold-multimer-to-predict-multi-chain-protein-complexes-with-better-accuracy.md",
-      "title": "DeepMind Introduce AlphaFold-Multimer to Predict Multi-Chain Protein Complexes with Better Accuracy",
-      "excerpt": "The London-based AI research firm DeepMind has introduced AlphaFold-Multimer, a model that can predict the structure of multi-chain protein complexes with increased accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2021/10/05/deepmind-introduce-alphafold-multimer-to-predict-multi-chain-protein-complexes-with-better-accuracy/",
-      "originalUrl": "https://syncedreview.com/2021/10/05/deepmind-introduce-alphafold-multimer-to-predict-multi-chain-protein-complexes-with-better-accuracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/syncedreview.com/wp-content/uploads/2021/10/DeepMind-AlphaFold.jpg?fit=950%2C633&ssl=1",
-          "width": 949,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2021/10/05/deepmind-introduce-alphafold-multimer-to-predict-multi-chain-protein-complexes-with-better-accuracy/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/10/05/deepmind-introduce-alphafold-multimer-to-predict-multi-chain-protein-complexes-with-better-accuracy/amp/",
-      "publishedDateTime": "2021-10-05T10:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-05-alphabets-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever.md",
       "title": "Alphabet’s DeepMind A.I. lab turns a profit for the first time ever",
       "excerpt": "DeepMind, one of the world's top artificial intelligence labs, has turned a profit for the first time, according to a filing with the U.K. company registry.",
@@ -1459,6 +1416,58 @@
       "topics": [
         "Google AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-01-this-googlers-team-is-making-shopping-more-inclusive.md",
+      "title": "This Googler’s team is making shopping more inclusive",
+      "excerpt": "There’s a lot to love about online shopping: It’s fast, it’s easy and there are a ton of options to choose from. But there’s one obvious challenge — you can’t try anything on. This is something Google product manager Debbie Biswas noticed, as a tech industry veteran and startup founder herself. “Historically,",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/this-googlers-team-is-making-shopping-more-inclusive/",
+      "originalUrl": "https://blog.google/technology/ai/this-googlers-team-is-making-shopping-more-inclusive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/debbie_biswas.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-01T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     }
   ],

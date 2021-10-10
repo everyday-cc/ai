@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tvtechnology.com/amp/news/ai-technologies-are-being-used
 cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/ai-technologies-are-being-used-to-localize-the-bob-ross-channel"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.tvbeurope.com/wp-content/uploads/2021/10/Bob-ross-3-950x534-1.jpeg"
         width: 950
         height: 534
-        isCached: true
-  - title: "How technology is supporting healthcare teams across the board"
-    excerpt: "Tim Weil, CEO, explains how Navenio technology can be employed to support healthcare teams. As the world continues to battle COVID-19, technology is being utilised to support heal"
-    publishedDateTime: 2021-10-05T13:59:00Z
-    webUrl: "https://www.openaccessgovernment.org/how-technology-is-supporting-healthcare-teams-across-the-board/121590/"
-    type: article
-    provider:
-      name: openaccessgovernment.org
-      domain: openaccessgovernment.org
-    quality: 39
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/10/dreamstime_xl_152084438-scaled.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Cinedigm uses AI to take Bob Ross to global streaming markets"
     excerpt: "Cinedigm, an independent streaming content provider, has turned to artificial intelligence-based startup Papercup to dub the iconic Bob Ross series, “The Joy of Painting,” for the international OTT marketplace."

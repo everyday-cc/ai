@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "ScaleOut Software Announces Machine Learning Capabilities for its ScaleOut Digital Twin Streaming Service"
-    excerpt: "ScaleOut Software today announced major extensions to its ScaleOut Digital Twin Streaming Service™ that enable real-time digital twin software to implement and host machine learning and statistical analysis algorithms that immediately identify unexpected behaviors exhibited by incoming telemetry."
-    publishedDateTime: 2021-10-05T14:00:00Z
-    webUrl: "https://www.financialbuzz.com/scaleout-software-announces-machine-learning-capabilities-for-its-scaleout-digital-twin-streaming-service/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 6
   - title: "ScaleOut Software Announces Machine Learning Capabilities for its ScaleOut Digital Twin Streaming Service™"
     excerpt: "ScaleOut Software today announced major extensions to its ScaleOut Digital Twin Streaming Service™ that enable real-time digital twin software to impl"
     publishedDateTime: 2021-10-05T18:00:00Z

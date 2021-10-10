@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/05/kore-ai-which-develops-workflow-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/05/kore-ai-which-develops-workflow-automation-technologies-raises-70m/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA and VMware Deepen Collaboration to Simplify Enterprise AI Development and Application Management"
-    excerpt: "NVIDIA and VMware are collaborating to develop an AI-ready enterprise platform that brings the world's leading AI stack and optimized software to the infrastructure used by hundreds of thousands of enterprises worldwide."
-    publishedDateTime: 2021-10-05T13:33:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/NVIDIA-and-VMware-Deepen-Collaboration-to-Simplify-Enterprise-AI-Development-and-Application-Management-149346.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 21
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Japanese Startup Autify Raises $10M Series A To Advance Software Testing Automation Through No-code Solution"
     excerpt: "Autify, a no-code AI-powered software testing automation platform, announced today that it has raised $10M in Series A funding. Leading the round is World Innovation Lab (WiL), a growth-stage venture capital firm based in Palo Alto and Tokyo."
     publishedDateTime: 2021-10-06T06:06:00Z

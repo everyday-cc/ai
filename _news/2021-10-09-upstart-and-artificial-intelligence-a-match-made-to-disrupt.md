@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Upstart and Artificial Intelligence: A Match Made to Disrupt"
-excerpt: "Upstart Holdings (NASDAQ: UPST) has caught Wall Street's attention in a big way. The stock price has skyrocketed over 940% since the company"
-publishedDateTime: 2021-10-08T20:22:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/upstart-and-artificial-intelligence--a-match-made-to-disrupt-10607695"
-webUrl: "https://markets.businessinsider.com/news/stocks/upstart-and-artificial-intelligence--a-match-made-to-disrupt-10607695"
+excerpt: "Upstart Holdings (NASDAQ: UPST) has caught Wall Street's attention in a big way. The stock price has skyrocketed over 940% since the company went public in December 2020. And the driving force behind those gains is Upstart's prospects for future growth."
+publishedDateTime: 2021-10-08T18:22:00Z
+originalUrl: "https://www.nasdaq.com/articles/upstart-and-artificial-intelligence%3A-a-match-made-to-disrupt-2021-10-08"
+webUrl: "https://www.nasdaq.com/articles/upstart-and-artificial-intelligence%3A-a-match-made-to-disrupt-2021-10-08"
+ampWebUrl: "https://www.nasdaq.com/articles/upstart-and-artificial-intelligence%3A-a-match-made-to-disrupt-2021-10-08?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/upstart-and-artificial-intelligence%3A-a-match-made-to-disrupt-2021-10-08?amp"
 type: article
-quality: 47
-heat: 47
+quality: 67
+heat: 67
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
 
-secured: "AnSefiZvNMHessomdtx+NCrnr7hbjfxcJpfhFLxO3cyWfFQZQGJCOGMfRjAk6afDzWoOe1GsiKCSUYzURTKxYyGkgmdnOcaCVPN/IjoaEzW6lzPHuUZPsBTz5hu1YzV51kM1NdY8ltG9JO76V2pXcW+h/NdeV9MD2+Jz5YGWRonx4vDnNXx1h/NhUVA9vIBsualNurXi26mR03zwWgcROG+dSY4p56VDdf5iuZhLbAFu3tLIYRyen7ZjfilRVBFb4rkbLNCNGaGtkPE6WCv2Vn06ZSLiuvfVrx/g73ovlH8WhDQ0VFjd2PoF+0+gIeeworWT2TFVLxz7lNgpZJp+rvaLeU18ZTuae3d6rxqG7mg=;XyEMPSUrZWV7uXrq6A/CCw=="
+secured: "DBFVi8SaW/ihUgWcXmFZAkdEDEMeJIlLHZp0L0u+U7nshlQig1sDVoW1e+suZv9/2yneWKnwgRi+qJCxWsCIKIxhs/TJN6WrQ2XgmBy6rwYXkI8yQWsODrYynZELeGfDj3yNh5Qte2b6wBpZnqbUWvMWRZtjf4EkcIXcaONkIEnohQeCl4fPCTMbr3UjY1lZl45WTxjG6StkaPVZmSZybL9uUV1XGQUwGJYQ0g5hhF7EG0q4ecwfIqI08y4tZxcKE4uYm9enPxUWZsriiLdTmnc28p5eFqj2J3UrN+DWsa53+i0+c05sR0Rn8LDCNg6gJjkrCLbatdQSrvAUOK8fAkp7aw0yNXGrp5uJ40bioJI=;xuqzS/Go6KZ1UPlTuBLvFw=="
 ---
 

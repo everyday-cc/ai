@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Rendered.ai Raises $6M, Expanding First-ever Developer Framework for Synthetic Data"
-    excerpt: "Rendered.ai, the leading platform provider for physics-based synthetic data, today announced the closing of a $6M seed round led by Space Capital. Participating investors include Tectonic Ventures, Congruent Ventures,"
-    publishedDateTime: 2021-10-05T14:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/rendered-ai-raises-6m-expanding-first-ever-developer-framework-for-synthetic-data-1030844215"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
-    images:
-      - url: "https://mma.prnewswire.com/media/1652913/Rendered_ai_aerial_image.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Neural Magic raises $30M to shift AI from hardware to software"
     excerpt: "Somerville AI startup Neural Magic, an AI company trying to replace machine learning hardware with software, has raised $30M in Series A funding."
     publishedDateTime: 2021-10-06T14:26:00Z

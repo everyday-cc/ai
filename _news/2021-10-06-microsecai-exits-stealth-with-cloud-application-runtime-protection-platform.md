@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsec.ai Launches First Solution to Deliver Agentless Runtime Protection for Multi-cloud Infrastructure as a Service"
-    excerpt: "Microsec.ai exited stealth today with the industry's first solution to deliver runtime protection for cloud-native applications that includes network traffic controls with self-healing micro segmentation,"
-    publishedDateTime: 2021-10-05T13:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-microsecai-launches-first-solution-deliver-agentless-runtime-protection-/2021/10/05/9462780.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
   - title: "Microsec.ai Launches Solution to Deliver Agentless Runtime Protection for Multi-cloud Infrastructure as a Service"
     excerpt: "Continuous monitoring of network traffic, data loss prevention, and responsive self-healing protection from threats to cloud-native applications."
     publishedDateTime: 2021-10-07T22:20:00Z

@@ -147,20 +147,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "CWU to host presentation on artificial intelligence"
-    excerpt: "Software developer and data journalist Meredith Broussard will be presenting the keynote address during a Central Washington University lecture series titled “Artificial Intelligence: The Future is Now” at 5:30 p."
-    publishedDateTime: 2021-10-05T15:00:00Z
-    webUrl: "https://www.dailyrecordnews.com/all_access/cwu-to-host-presentation-on-artificial-intelligence/article_e9a0bae0-e3cf-5e47-82b7-0de3dab5a689.html"
-    type: article
-    provider:
-      name: Ellensburg Daily Record
-      domain: dailyrecordnews.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/assets/v3/editorial/d/5e/d5e22581-a245-5a6b-9aa6-7fe0648c085f/615c5e9ebc411.image.jpg?resize=600%2C415"
-        width: 600
-        height: 415
-        isCached: true
   - title: "NLMK is testing innovations in the field of artificial intelligence"
     excerpt: "NLMK Group has signed a strategic partnership agreement with the Association of Laboratories for the Development of Artificial Intelligence."
     publishedDateTime: 2021-10-06T10:14:00Z
@@ -174,20 +160,6 @@ related:
       - url: "https://www.akm.ru/upload/iblock/ee5/NLMK_NLMK.jpg"
         width: 600
         height: 399
-        isCached: true
-  - title: "Standard AI Expands Executive Team with Seasoned AI, Retail and Operations Leaders"
-    excerpt: "Standard AI, the world’s leading computer vision platform for retail, today announced the addition of Jennifer Haroon as Chief Financial Officer (CFO) and Angie Westbrock as Chief Operating Officer (COO) to its executive team."
-    publishedDateTime: 2021-10-05T14:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-c6c83a11089a4620971a52f681355a7e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Artificial intelligence hiring levels in the power industry dropped in August 2021"
     excerpt: "The proportion of power industry operations and technologies companies hiring for artificial intelligence related positions dropped in August 2021, with 35.7% of the companies included in our analysis recruiting for at least one such position."

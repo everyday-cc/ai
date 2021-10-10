@@ -52,15 +52,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Pak religious party demands recognition for Taliban govt in Afghanistan"
-    excerpt: "The Taliban takeover in Afghanistan, followed by their claims of being a transformed and enlightened face, is still taking it time to achieve recognition by the world. The Taliban-led government setup in Afghanistan is yet to get recognition by any country around the globe,"
-    publishedDateTime: 2021-10-05T13:56:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Asia/20211005/3831740.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
 
 secured: "Hwaa2bvycia1NwPudbxH8y8MHRBDd2KjvzyBUWFYX8Ajdsp/j1qxheRVZLAcYqL4bOLzo6mju0rhK8mdcwVaOMHCqDqPDCS3I1n4FWUlfpm5Tgy/x+bhZPARXHq2olZnCVqsPHFNm3QmZammCVvzev7XFl/hNTOL+7lN34TZaXB6Luok60RjdWn6JV7StWDJC1EcgUbXMp5xIy90ck+UdxtZNDoie+BkHtMtFw3LZbteL8OCOei32aXrPHAowwqb+1BqiKXGH4x/hIbunvwSXH0leKLJxXPu5M8N4zr+C6chqg1XxqTUBkyC++Uq1h1GytF3yO/0DMlFkfqt3n6TpDUJqkFmhzK1V1gXAIuc4UmVB9f74zMpTl6rEa0wCFyROJmz3D15n/Z7y71FrNGj4+N1IYrv9tWwaDQ8u8gQklkmukDbrtfvc4z42vk+zu7D+VHDiubsJSB1K6U1nBAPZIdT6xCo63PAFLMEm1AGAWq/sH7df3Hz3FI6TPXfrRNJI87u0YMSUyhdtCMjHzZKNQ==;34PmmtzWfi6XAQquCfR4EA=="
 ---

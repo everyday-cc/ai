@@ -63,15 +63,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Akridata Launches Edge Data Platform for ‘Data-Centric AI’"
-    excerpt: "Akridata, which calls itself a category-maker in Data-Centric AI, today announced the launch of the Akridata Edge Data Platform, which creates and manages smart data pipelines and AI workflows spanning Edge-Core-Cloud resources – an industry first."
-    publishedDateTime: 2021-10-05T13:42:00Z
-    webUrl: "https://insidehpc.com/2021/10/akridata-launches-edge-data-platform-for-data-centric-ai/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 17
 
 secured: "Ov4pA8+ZP7DtKDYHx4N6v3ybyeuJuEFkqSRSXNLgOw9QHZrswVmqh01KQBVfNq6mkwfSCPEc0TX1MtYgNoKJsV/FSZFaw650EzRinPpGLLaOSUlhmE5jR9E6f7b+6X/zU4AwE7hOEzj8RL47cy32rum01ow+k0v7aeif1TjNis7xoPRVC7XAtF6fyRLH6pdsVajBOgJlo8deQGlfKUCWwEXgO50TJvWVCrOuXoMldjO5xG5FLnDF68L/EikZgnkynAgCxhJlFqgF8gvSPCj/tlvfJ/fe6bgv0wQODNA+K012AJTyHF1qB4Gam1gsj43TecgGZ1WX+kwTcqy+SCmIF72yZ6cgRrzSxMBMP/C2abk=;qCvdurv27SUeSPwK0gQPjA=="
 ---

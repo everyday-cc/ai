@@ -2,28 +2,32 @@
 category: news
 title: "China publishes code of ethics to regulate Artificial Intelligence, what would Isaac Asimov say?"
 excerpt: "Going ahead of Europe, China has already published a six-point code of ethics to regulate Artificial Intelligence, giving 'full decision-making power' to humans, very similar to Isaac Asimov's laws of robotics."
-publishedDateTime: 2021-10-06T00:07:00Z
-originalUrl: "https://www.chron.com/business/article/China-publishes-code-of-ethics-to-regulate-16510963.php"
-webUrl: "https://www.chron.com/business/article/China-publishes-code-of-ethics-to-regulate-16510963.php"
+publishedDateTime: 2021-10-05T17:22:00Z
+originalUrl: "https://www.entrepreneur.com/article/389467"
+webUrl: "https://www.entrepreneur.com/article/389467"
 type: article
-quality: 41
-heat: 41
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI Ethics
 
 images:
-  - url: "https://s.hdnux.com/photos/01/22/14/54/21547828/3/rawImage.jpg"
+  - url: "https://assets.entrepreneur.com/content/3x2/2000/1633454310-Oct5InteligenciaArtificialChinacdigoticoleyesIsaacAsimovrobotsrobtica.jpg"
     width: 2000
     height: 1333
     isCached: true
 
-secured: "7P7r8kwSqrRBCDcz/P44Hd98vAPR6tYzEFKW4hMTh6dOhqVcM/4ifoFv1SJ9uu/nBlOmxi3L5jAhzQLs+pI11ghxM4x/5Kwk9KbQKnVelCe0Dq32NCdAOVunlIpRR1/mpTMfGupVhrDScP/xXy2oiZIxWOv26nohTJ2//aZEAbUCb7pNnHejcXMvM274QmEmB/KqxLaV3B7tZPCBPqgnvQIVanbpsEGbTOQoKRZrC8lHxerrZUQN6stACL6FVXePCbsbgSUWAB+K/7eDtAqGGlpjwIXhqsNt4iRM51TDNhPBJgVk5DN1t2K6dWchq5jt+QlPtFK3dS5jKg166AHTZ393G3HOTcvN1Hr9y2yjlUU=;af2C85yuB3cO3eXdLr5sqQ=="
+secured: "O1el4SaQHdXmBKCfQVAxghngOS3EWfsmJm8tqShiz/C5D5jzlILBq0vh/UuBfHhMX8ebBM+uoRbQE+sDpg6QZPXZNhA+ZMiuqzIRTuoB0VZkhB/cdwruZ/dmAbWeYin9XmP5NY/WlEh1GxEU9ecW8pMYvHxhEFe/xASKKw8utGiG1Hxb57JJSryPma3/q0oXRFQ40/sZdQZXtB6HXfXsPwIhd+M6XlFcBpZP3hky0EA6owIpWC59BYQWQ74jm5vImRatjsrVgH2o6QHHKlCWXGXU3E9gTXp9lZYQhSSVnvJIi1WYMDqq5VfJp+MemMK6HKDMMYu1/C7WcM6GCiACB7qUQpbXMCBb4kZp4NZrV30=;NHJql0onp1/7nalXQNlX2A=="
 ---
 
