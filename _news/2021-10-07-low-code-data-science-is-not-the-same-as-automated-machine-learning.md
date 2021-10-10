@@ -24,6 +24,22 @@ images:
     height: 432
     isCached: true
 
+related:
+  - title: "Towards Automated Science Writing"
+    excerpt: "This morning, trawling the Computer Science sections of Arxiv, as I do most mornings, I came across a recent paper from the Federal University of Ceara in Brazil, offering a new Natural Language Processing framework to automate the summarization and extraction of core data from scientific papers."
+    publishedDateTime: 2021-10-10T08:55:00Z
+    webUrl: "https://www.unite.ai/towards-automated-science-writing/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 24
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-4nRVIPVP/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/10/automated-science-journalism.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+
 secured: "dAHUNZip11/YqHMMC4TpDsxAd4kZa87irfUyVVfVXT2ahGcmse1vaq6b13l4so1ROzsUJK+o/RYB+zjrKI/Rv9j6T0hiX97ubddlhkaqhL/lArzlenkU4+G24JDKS0ElsuHiYKOa5QrSbN4i80FdYPcySvDSLZwJ83o2Qhoikew3gmuKleFU1d8wILTA4y6MPqWhp+K7j47aABrMXS7e4yLu8Bv+H5K7h/hO6UB+OLNYeDObgtHqBTOLV01bkD3Mm783dTEqpnf0LTmkom/NnZxNVh7OOZxKAwHcUF3QYUWzglaeTm/0W1EAUjqAKZAsslxonGs4ziNGXbvl0cPDZeIsTvOUODK2vkaGSg0kryFW08DfHEhhJ3ArT6V/0voec+4vfmUVPn44anjnxPLuP///XTDEZCKGbguMhLqWPtdwSRT5UXuB34b42itSbt2Jkv3AuPtJIYwIMDglBBI+1ezpmYrJP5b0D8zKW1UVspIcPj5t+yPSGs3fNZoyRuzRHeHfyD8F8HcsoeWxgB/h5g==;sUAkqGPz8CDO7i1n3oKIBg=="
 ---
 

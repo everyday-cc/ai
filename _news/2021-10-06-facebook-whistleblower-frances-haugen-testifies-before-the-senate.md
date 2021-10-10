@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/10/05/facebook-whistleblower-frances-hau
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/facebook-whistleblower-frances-haugen-testifies-before-the-senate/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: TechCrunch
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook whistleblower testifies in Congress"
-    excerpt: "The Facebook whistleblower who released tens of thousands of pages of internal research and documents will testify today before a Senate subcommittee about the company's impact on kids. Follow here for the latest news."
-    publishedDateTime: 2021-10-05T15:37:00Z
-    webUrl: "https://www.cnn.com/business/live-news/facebook-senate-hearing-10-05-21/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/business/live-news/facebook-senate-hearing-10-05-21/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/business/live-news/facebook-senate-hearing-10-05-21/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 74
-    images:
-      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_506/1fa57818-51d7-476d-b66d-5dfcfe95abc3.jpg"
-        width: 900
-        height: 506
-        isCached: true
   - title: "The Facebook whistleblower says its algorithms are dangerous. Here’s why."
     excerpt: "Frances Haugen’s testimony at the Senate hearing today raised serious questions about how Facebook’s algorithms work—and echoes many findings from our previous investigation."
     publishedDateTime: 2021-10-05T20:16:00Z
@@ -76,20 +60,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "In Scathing Senate Testimony, Whistleblower Warns Facebook a Threat to Children and Democracy"
-    excerpt: "\"I'm here today because I believe Facebook's products harm children, stoke division, and weaken our democracy,\" whistleblower Frances Haugen tells U.S. senators."
-    publishedDateTime: 2021-10-05T16:41:00Z
-    webUrl: "https://www.commondreams.org/news/2021/10/05/scathing-senate-testimony-whistleblower-warns-facebook-threat-children-and-democracy"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 13
-    images:
-      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-10/Frances-Haugen-Getty-3600.jpg?h=ae7bd2d1&itok=qKZwWf8n"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "VvqNmDZuKQ1bNOW1RuHE8QGsARmtfCSvNWKg/8B2dnqXDdpqA/gQx5ieU2M1Rmk3E47hG9gQ/udz/Id2daJnFQR5jV1v5EsXmBhFGI3ETC+YoBw9E/STXWTZ88OrVGKlFwB4aRRbFExPLeX0BpYmbvefFP6ksDDVselcRvvr3v4WA8WrBFbIcoo1TVg+oGAhhQqwRtVbop7dOskpLzg7X6z9T17i3J6W2Gduy8b3cP54pjfed1zfOMP0eoHw4rHCNgAOBchOsNCmxL6BX3V4aLi1/6IUsuj1K4FXvrDPd2O3Knb/vzhZf1tV3EIjJnNZVmHKL8+iYpYPvzyv/WQIbbvcKWipQT99u/JJF3qSqQAM/djgGnFnb00a6mNkKqtFc1EUR0MDMltcWsXp/+N4jwvakdc69Vx5o3WPC7NByIBfOFoco2YrEjZ/lecuWCWJhSvNw+600pEf2AehM4Vornomo5+phwF+RG3o1E/mGmI9Uy0gAbqnP6vcwsB7LvWe+tqIN4TkukPYOUeVz3X1ug==;3DAL0iKK6MpYHF2nM/Zl6w=="

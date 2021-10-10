@@ -7,8 +7,8 @@ originalUrl: "https://www.allaboutcircuits.com/news/two-ai-processors-push-compu
 webUrl: "https://www.allaboutcircuits.com/news/two-ai-processors-push-computer-vision-to-the-next-level-for-iot-and-automotives/"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: All About Circuits
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How the Automotive Industry is Using AI"
-    excerpt: "Artificial intelligence (AI) in the automotive industry is making vehicles autonomous. Learn about driverless vehicles & AI now:"
-    publishedDateTime: 2021-10-05T20:09:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/ai-in-automotive/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 41
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/10/The-interior-of-an-autonomous-driverless-vehicle.jpeg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Artificial intelligence hiring levels in the automotive industry rose to a year-high in August 2021"
     excerpt: "The proportion of automotive manufacturing and supply companies hiring for artificial intelligence related positions rose to a year-high in August...Read"
     publishedDateTime: 2021-10-07T15:13:00Z

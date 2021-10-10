@@ -50,22 +50,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Gap Continues Tech-Buying Spree with AI Acquisition"
-    excerpt: "Based 4 Casting (CB4), a startup that uses AI and machine learning tools to transform retail operations, increase sales and improve the customer experience. Funded by investors including Sequoia Capital,"
-    publishedDateTime: 2021-10-05T16:44:00Z
-    webUrl: "https://retailtouchpoints.com/features/news-briefs/gap-continues-tech-buying-spree-with-ai-acquisition"
-    ampWebUrl: "https://retailtouchpoints.com/features/news-briefs/gap-continues-tech-buying-spree-with-ai-acquisition/amp"
-    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/news-briefs/gap-continues-tech-buying-spree-with-ai-acquisition/amp"
-    type: article
-    provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
-    quality: 57
-    images:
-      - url: "https://retailtouchpoints.com/wp-content/uploads/2021/02/Gap.jpg"
-        width: 2440
-        height: 1627
-        isCached: true
   - title: "AI incubator makes understanding practical applications as easy as P-ai"
     excerpt: "The only artificial intelligence club at the 5Cs, P-ai helps students of all computer science levels understand and work with AI."
     publishedDateTime: 2021-10-08T08:07:00Z

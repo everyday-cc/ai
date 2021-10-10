@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-10-artificial-intelligence-is-changing-the-condo-industry.md",
+      "title": "Artificial Intelligence Is Changing The Condo Industry",
+      "excerpt": "Technology has changed our lives for the better in many ways, from employment to retail services. Now, AI technology has started to make inroads in the real estate and housing markets due to more people being indoors due to the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/artificial-intelligence-is-changing-the-condo-industry/",
+      "originalUrl": "https://techbullion.com/artificial-intelligence-is-changing-the-condo-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2021/10/Depositphotos_212660524_S.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/artificial-intelligence-is-changing-the-condo-industry/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-is-changing-the-condo-industry/amp/",
+      "publishedDateTime": "2021-10-10T02:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-10-beethovens-last-symphony-finished-by-ai.md",
       "title": "Beethoven's last symphony finished by AI",
       "excerpt": "Now, Ludwig van Beethoven's unfinished symphony has also been given the AI treatment. When the composer died in 1827, he left his last symphony, which would have been his 10th, incomplete. Only a few handwritten sketches of this work have survived.",
@@ -84,6 +126,57 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-10-counting-down-to-our-ai-rapture.md",
+      "title": "Counting down to our AI rapture",
+      "excerpt": "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s inspired by what the weekday Exchange column digs into, but free, and made for your weekend reading. Want it in your inbox every Saturday?",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/09/counting-down-to-our-ai-rapture/",
+      "originalUrl": "https://techcrunch.com/2021/10/09/counting-down-to-our-ai-rapture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/NSussman_Techcrunch_Exchange-multicolor.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/09/counting-down-to-our-ai-rapture/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/09/counting-down-to-our-ai-rapture/amp/",
+      "publishedDateTime": "2021-10-09T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -855,50 +948,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-08-ai-based-natural-language-processing-advances-precision-medicine.md",
-      "title": "AI-Based Natural Language Processing Advances Precision Medicine",
-      "excerpt": "Washington University School of Medicine is improving precision medicine research with the adoption of artificial intelligence-based natural language processing tools.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/ai-based-natural-language-processing-advances-precision-medicine",
-      "originalUrl": "https://healthitanalytics.com/news/ai-based-natural-language-processing-advances-precision-medicine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1127125431.jpeg",
-          "width": 700,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-08T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2021-10-08-is-baidus-stock-cheap-at-150.md",
       "title": "Is Baidu’s Stock Cheap At 150?",
       "excerpt": "Baidu’s stock (NASDAQ: BIDU) has fallen by 30% from $216 to $150 since the end of 2020. In comparison, the broader S&P500 rose by 16% in the same period. Trefis analysis of Baidu’s Valuation is $224,",
@@ -1153,57 +1202,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-how-fiserv-improved-a-cumbersome-client-service-experience-with-a-watson-enabled-virtual-agent.md",
-      "title": "How Fiserv improved a cumbersome client service experience with a Watson-enabled virtual agent",
-      "excerpt": "The IT team at Fiserv uses AI to streamline customer and agent interactions Watson Assistant efficiently handling Fiserv’s unique acoustical challenges With an AI solution already in place, reacting to market disruption is a snap Promise and pitfalls Fiserv is an exciting example of AI’s power to increase",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/10/fiserv-client-service-watson-virtual-assistant/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/10/fiserv-client-service-watson-virtual-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/10/ACDC_140-WA-WD-Fiserv-Blog-Post_Large-1-copy-2.jpg",
-          "width": 2000,
-          "height": 1007,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-08T05:00:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

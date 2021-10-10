@@ -123,6 +123,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Xavier, the Robot Policing Undesirable Social Behavior, Is Raising Privacy Concerns"
+    excerpt: "What if you prevent petty crime before it happened, or stop it in the early stages? That sounds like the premise of many dystopian novels and films, but for the people of Singapore, it’s reality – partly due to Xavier,"
+    publishedDateTime: 2021-10-10T06:55:00Z
+    webUrl: "https://www.autoevolution.com/news/xavier-the-robot-policing-undesirable-social-behavior-is-raising-privacy-concerns-171378.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 48
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/xavier-the-robot-policing-undesirable-social-behavior-is-raising-privacy-concerns-171378_1.jpg"
+        width: 1358
+        height: 727
+        isCached: true
   - title: "Singapore patrol robots blast warnings at people engaging in ‘undesirable' behaviour, fuel privacy concerns"
     excerpt: "From vast numbers of CCTV cameras to trials of lampposts kitted out with facial recognition tech, Singapore is seeing an explosion of tools to track its inhabitants."
     publishedDateTime: 2021-10-06T10:09:00Z

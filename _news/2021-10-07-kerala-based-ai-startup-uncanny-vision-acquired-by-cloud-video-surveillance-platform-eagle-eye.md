@@ -40,20 +40,6 @@ related:
         width: 490
         height: 268
         isCached: true
-  - title: "Gap Inc. acquires artificial intelligence startup CB4"
-    excerpt: "As part of ongoing tech efforts, Gap Inc. on Monday announced that it acquired Context-Based 4 Casting for an undisclosed amount. CB4 is a retail technology startup th"
-    publishedDateTime: 2021-10-05T15:17:00Z
-    webUrl: "https://www.retaildive.com/news/gap-inc-acquires-artificial-intelligence-startup-cb4/607676/"
-    type: article
-    provider:
-      name: Retail Dive
-      domain: retaildive.com
-    quality: 37
-    images:
-      - url: "https://www.retaildive.com/user_media/cache/f4/1b/f41ba6ee5e2df1fa0b31acbcd47305d2.jpg"
-        width: 770
-        height: 364
-        isCached: true
   - title: "Aussie AI start-up acquired by US giant"
     excerpt: "Sydney-based start-up Hyper Anna has become the latest Aussie tech player to be bought by a large US firm, with NYSE-listed Alteryx swooping in."
     publishedDateTime: 2021-10-07T13:00:00Z

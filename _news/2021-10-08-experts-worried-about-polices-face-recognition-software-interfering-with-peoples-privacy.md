@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Face Recognition Software launched"
+    excerpt: "The Face Recognition Software (FRS) for use by city police personnel to aid in investigation was launched here on Wednesday. Commissioner of Police G. Karthikeyan explained the software features and t"
+    publishedDateTime: 2021-10-07T16:51:00Z
+    webUrl: "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece"
+    ampWebUrl: "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Xiaomi Face Recognition Smart Door Lock X Officially Announced"
+    excerpt: "Xiaomi has announced its smartest door lock, namely the Xiaomi Face Recognition Smart Door Lock X. The price is not known yet."
+    publishedDateTime: 2021-10-09T10:27:00Z
+    webUrl: "https://www.gizchina.com/2021/10/09/xiaomi-face-recognition-smart-door-lock-x-officially-announced/"
+    ampWebUrl: "https://www.gizchina.com/2021/10/09/xiaomi-face-recognition-smart-door-lock-x-officially-announced/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/10/09/xiaomi-face-recognition-smart-door-lock-x-officially-announced/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/10/xiaomi-serratura-smart-sblocco-riconoscimento-facciale-3d-prezzo-1024x575.jpg"
+        width: 1024
+        height: 575
+        isCached: true
   - title: "Tamil Nadu police's 'Face Recognition Software' has privacy experts worried"
     excerpt: "Tamil Nadu Chief Minister MK Stalin on October 4 announced a Face Recognition Software (FRS) to aid the state police in its investigations. The software, according to the government, would help compare the photos of suspects with a data resource of over 5."
     publishedDateTime: 2021-10-08T12:10:00Z
@@ -42,6 +74,50 @@ related:
       - url: "https://www.thenewsminute.com/sites/default/files/facial_recognition_illegal_1200_0.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "TDSi GARDiS software now features full integration with Hikvision’s face recognition terminals and ANPR cameras"
+    excerpt: "Integrated security manufacturer, TDSi is pleased to announce that its powerful GARDiS access management software now supports full integration with Hikvision’s face recognition terminals"
+    publishedDateTime: 2021-10-06T10:53:00Z
+    webUrl: "https://www.sourcesecurity.com/companies/hikvision/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 39
+    images:
+      - url: "https://www.sourcesecurity.com/img/news/612/tdsi-announces-full-integration-with-the-rotaone-time-attendance-solution-920x533.jpg"
+        width: 612
+        height: 355
+        isCached: true
+  - title: "Sensory Launches Speech Recognition Model for Children"
+    excerpt: "Sensory has released new speech recognition models that have been specifically trained to recognize children’s unique vocal patterns"
+    publishedDateTime: 2021-10-06T21:28:00Z
+    webUrl: "https://mobileidworld.com/sensory-launches-speech-recognition-model-children-7102103/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 39
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg"
+        width: 800
+        height: 560
+        isCached: true
+  - title: "The Pandemic is Testing the Limits of Face Recognition"
+    excerpt: "Government use of face ID systems exploded during the pandemic—but tying it to critical services has left some people locked out at the moment they needed help the most. At first glance, JB, an artist based in Los Angeles,"
+    publishedDateTime: 2021-10-07T12:16:00Z
+    webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/the-pandemic-is-testing-the-limits-of-face-recognition/12291/"
+    type: article
+    provider:
+      name: Predictive Analytics World
+      domain: predictiveanalyticsworld.com
+    quality: 39
+    images:
+      - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2021/09/270x270-Coursera-Banner-1.jpg"
+        width: 270
+        height: 270
         isCached: true
 
 secured: "19FuvJswkCATUZUvzQsyYSCWg/lv5cI6CbmTp0rFrnGWSLkVn2+68k0QNlTkwGMI2JV0JGf4ZhWrLHmTRY0tPN2Z8fi6eE5Wv9jBVCguTb0r1j5C9IwTFSlkq9EGupXrBy5WhmJ3cIMROWKIl2TLEKRF7tOh0CVscg+4DYNkRllXWvesvhiNmlJqWzZPeBLlFVSJMkX5uAipxmtPMChvYNj5xyTd4n4EXZIyRfOx0hqa3uWbTNyQN+GuzCZAVPKUtFQIYe6Q2D3Sn2TU52lJArHgrAkh95jcCQROAwLH4JWNjbp9JhhW0rceOmvBusUaWx8MtAEC0EbWj399BEv+Q9daeZ5WaAyQ0Z3Y19jJDXzLKeaMXHMlphO07Q0LYVh1quid84tAGD426Kl48qWY2CrMtGPN4MqRZ7K6JCSs0S/6zZZ0ziBu4le+Iku67Vg9iQ7cLIMU+CBW6Zd7VKLV0YTpLC2V0ctVQMjeoG4axAFE1f4BnAJydbf0CLdyytTn6LbbvlDPb411VKyJXMGKtQ==;kBzGTBO8Z2IRhf88eViCAQ=="

@@ -97,6 +97,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-07-face-recognition-software-launched.md",
+      "title": "Face Recognition Software launched",
+      "excerpt": "The Face Recognition Software (FRS) for use by city police personnel to aid in investigation was launched here on Wednesday. Commissioner of Police G. Karthikeyan explained the software features and t",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece",
+      "originalUrl": "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/",
+      "publishedDateTime": "2021-10-07T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-07-expansive-google-pixel-6-leak-confirms-facial-recognition-new-pixel-cases.md",
       "title": "Expansive Google Pixel 6 leak confirms facial recognition, new Pixel cases",
       "excerpt": "The Google Pixel 6 and Pixel 6 Pro have leaked once more before launch, revealing little details like support for face unlock, a new Pixel Stand, and more.",
@@ -149,50 +192,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-07-two-ai-processors-push-computer-vision-to-the-next-level-for-iot-and-automotives.md",
-      "title": "Two AI Processors Push Computer Vision to the Next Level for IoT and Automotives",
-      "excerpt": "Hoping to create more power-efficient and highly functional AI processors, Syntiant and Intuitive are both aiming to create the next step in computer vision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.allaboutcircuits.com/news/two-ai-processors-push-computer-vision-to-the-next-level-for-iot-and-automotives/",
-      "originalUrl": "https://www.allaboutcircuits.com/news/two-ai-processors-push-computer-vision-to-the-next-level-for-iot-and-automotives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.allaboutcircuits.com/uploads/thumbnails/computer_vision_intuitive_syntiant_thumbnail.png",
-          "width": 700,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "All About Circuits",
-        "domain": "allaboutcircuits.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2021-10-06-north-america-facial-recognition-market-covid-19-impact-in-depth-industry-analysis-2028.md",
       "title": "North America Facial Recognition Market Covid-19 Impact In-Depth Industry Analysis 2028",
       "excerpt": "According To Market Research, The North American Facial Recognition Market Is Anticipated To Rise With A Cagr Of 8.29% In The Estimated Years 2019-2028. The United States And Canada Together Shape The Market In This Region.",
@@ -225,6 +224,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks.md",
+      "title": "Uber faces legal action over ‘racially discriminatory’ facial recognition ID checks",
+      "excerpt": "Ride-hailing giant Uber is facing a legal challenge over its use of real-time facial recognition technology in a driver and courier identity check system that it uses in the UK. The App Drivers & Couriers Union (ADCU) announced the legal action Tuesday,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/",
+      "originalUrl": "https://techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1232204732.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/amp/",
+      "publishedDateTime": "2021-10-05T17:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -664,8 +715,8 @@
       "title": "Amid Rapid Adoption, Paravision Unveils New Computer Vision Capabilities, Making Face ...",
       "excerpt": "Paravision, the U.S.-based leader in mission-critical face recognition and computer vision, today announced an array of new and updated products that make face recognition solutions faster, more accurate and secure,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8",
+      "webUrl": "https://apnews.com/press-release/globe-newswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1370,59 +1421,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-android-adds-facial-gesture-controls-and-handwriting-recognition-accessibility-features.md",
-      "title": "Android adds facial gesture controls and handwriting recognition accessibility features",
-      "excerpt": "Google’s raft of new features coming to Android this fall includes some interesting new accessibility features. There are new facial gesture controls designed for people with motor impairments, as well as a new handwriting recognition feature for Lookout,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features",
-      "originalUrl": "https://www.theverge.com/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/sY-QLcLpUYEAsrQHxGaStgDRTx8=/0x0:1284x856/1400x933/filters:focal(540x326:744x530):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69898308/Untitled__2_.0.png",
-          "width": 1284,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features",
-      "publishedDateTime": "2021-09-23T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

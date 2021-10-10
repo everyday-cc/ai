@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-06-sony-unit-to-introduce-edge-ai-sensing-platform-service.md",
+      "title": "SONY Unit to Introduce Edge AI Sensing Platform Service",
+      "excerpt": "Sony Group Corp.’s SONY subsidiary, Sony Semiconductor Solutions, has announced that its AITRIOS edge artificial intelligence (AI) sensing platform will be launched in Japan, the United States, and Europe in late 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/sony-unit-to-introduce-edge-ai-sensing-platform-service-2021-10-06",
+      "originalUrl": "https://www.nasdaq.com/articles/sony-unit-to-introduce-edge-ai-sensing-platform-service-2021-10-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/sony-unit-to-introduce-edge-ai-sensing-platform-service-2021-10-06?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sony-unit-to-introduce-edge-ai-sensing-platform-service-2021-10-06?amp",
+      "publishedDateTime": "2021-10-06T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-marc-lore-backed-conversational-commerce-startup-wizard-raises-50m-series-a-from-nea.md",
       "title": "Marc Lore-backed ‘conversational commerce’ startup Wizard raises $50M Series A from NEA",
       "excerpt": "Marc Lore, who earlier this year stepped down from his role as Walmart’s head of U.S. e-commerce, is now backing a new startup in the e-commerce space called Wizard. Lore has taken on the roles of co-founder,",
@@ -164,7 +198,7 @@
       "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361135/alphabet-helps-deepmind-to-finally-turn-profit",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -267,7 +301,7 @@
       "originalUrl": "https://wtop.com/world/2021/10/singapore-patrol-robots-warn-people-of-undesirable-behavior/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -558,7 +592,7 @@
       "originalUrl": "https://www.openpr.com/news/2418361/mobile-artificial-intelligence-ai-market-size-is-expected",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -640,6 +674,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks.md",
+      "title": "Uber faces legal action over ‘racially discriminatory’ facial recognition ID checks",
+      "excerpt": "Ride-hailing giant Uber is facing a legal challenge over its use of real-time facial recognition technology in a driver and courier identity check system that it uses in the UK. The App Drivers & Couriers Union (ADCU) announced the legal action Tuesday,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/",
+      "originalUrl": "https://techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1232204732.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/amp/",
+      "publishedDateTime": "2021-10-05T17:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -843,6 +929,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-06-facebook-whistleblower-frances-haugen-testifies-before-the-senate.md",
+      "title": "Facebook whistleblower Frances Haugen testifies before the Senate",
+      "excerpt": "After revealing her identity on Sunday night, Frances Haugen — the whistleblower who leaked controversial Facebook documents to The Wall Street Journal — testified before the Senate Committee on Commerce,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/05/facebook-whistleblower-frances-haugen-testifies-before-the-senate/",
+      "originalUrl": "https://techcrunch.com/2021/10/05/facebook-whistleblower-frances-haugen-testifies-before-the-senate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1235713956.jpg?w=1024",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/05/facebook-whistleblower-frances-haugen-testifies-before-the-senate/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/facebook-whistleblower-frances-haugen-testifies-before-the-senate/amp/",
+      "publishedDateTime": "2021-10-05T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-robotics-pioneer-yoki-matsuoka-on-the-human-touch-in-her-new-personal-assistant-venture-yohana.md",
       "title": "Robotics pioneer Yoki Matsuoka on the human touch in her new personal assistant venture Yohana",
       "excerpt": "Yoki Matsuoka has served as head of innovation at Google and as chief technology officer at Nest, and she won a prestigious MacArthur “genius” award in 2007 while a professor at the University",
@@ -998,58 +1136,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-06-china-publishes-code-of-ethics-to-regulate-artificial-intelligence-what-would-isaac-asimov-say.md",
-      "title": "China publishes code of ethics to regulate Artificial Intelligence, what would Isaac Asimov say?",
-      "excerpt": "Going ahead of Europe, China has already published a six-point code of ethics to regulate Artificial Intelligence, giving 'full decision-making power' to humans, very similar to Isaac Asimov's laws of robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/389467",
-      "originalUrl": "https://www.entrepreneur.com/article/389467",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1633454310-Oct5InteligenciaArtificialChinacdigoticoleyesIsaacAsimovrobotsrobtica.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2021-10-05-ex-uber-driver-takes-legal-action-over-racist-face-recognition-software.md",
       "title": "Ex-Uber driver takes legal action over ‘racist’ face-recognition software",
       "excerpt": "UK driver alleges his account was illegally deactivated when Uber software decided he was not who he said he was",
@@ -1150,101 +1236,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-facebook-whistleblower-testifies-in-congress.md",
-      "title": "Facebook whistleblower testifies in Congress",
-      "excerpt": "The Facebook whistleblower who released tens of thousands of pages of internal research and documents will testify today before a Senate subcommittee about the company's impact on kids. Follow here for the latest news.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/business/live-news/facebook-senate-hearing-10-05-21/index.html",
-      "originalUrl": "https://www.cnn.com/business/live-news/facebook-senate-hearing-10-05-21/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_506/1fa57818-51d7-476d-b66d-5dfcfe95abc3.jpg",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/business/live-news/facebook-senate-hearing-10-05-21/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/business/live-news/facebook-senate-hearing-10-05-21/index.html",
-      "publishedDateTime": "2021-10-05T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-self-driving-cars-have-brain-wave.md",
-      "title": "Self-driving cars have brain wave",
-      "excerpt": "Self-driving supermarkets and autonomous electric taxis capable of slashing emissions in New York are some of the innovations driving the driverless revolution. The issue of safety is the recurring question though,",
-      "sourceUrl": null,
-      "webUrl": "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/",
-      "originalUrl": "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.innovatorsmag.com/wp-content/uploads/2021/10/erik-mclean-ZWW2SDPaC54-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/amp/",
-      "cdnAmpWebUrl": "https://www-innovatorsmag-com.cdn.ampproject.org/c/s/www.innovatorsmag.com/self-driving-cars-have-brain-wave/amp/",
-      "publishedDateTime": "2021-10-05T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "innovatorsmag.com",
-        "domain": "innovatorsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

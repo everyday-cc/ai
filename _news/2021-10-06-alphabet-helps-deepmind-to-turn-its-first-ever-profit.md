@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361135
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361135/alphabet-helps-deepmind-to-finally-turn-profit?amp"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://img2.s3wfg.com/web/img/images_uploaded/a/a/newspapers_media_papers.jpg"
         width: 1000
         height: 666
-        isCached: true
-  - title: "Google’s London-based AI lab DeepMind in profit for first time"
-    excerpt: "Google’s London-based artificial intelligence lab has moved into the black for the first time after the Silicon Valley giant used more of its discoveries in its"
-    publishedDateTime: 2021-10-05T17:00:00Z
-    webUrl: "https://www.thetimes.co.uk/article/googles-london-based-ai-lab-deepmind-in-profit-for-first-time-2p6wknmdx"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 54
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fcc5d6be0-25f3-11ec-9d7f-240ccd0a3a50.jpg?crop=1760%2C990%2C0%2C92&resize=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "New AI Model From DeepMind Can Predict Gene Expression With Greater Accuracy"
     excerpt: "The idea behind Enformer is to better understand variants in the non-coding genome and predict the effects of any variants on gene expression."

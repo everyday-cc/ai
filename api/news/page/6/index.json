@@ -2,6 +2,83 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-10-05-i-am-a-public-service-journalist-what-can-ai-do-for-me.md",
+      "title": "I am a public service journalist: what can AI do for me?",
+      "excerpt": "In this special series that focuses on journalism rather than algorithms, we look at how 10 European public service broadcasters overcome language barriers to share stories across the continent",
+      "sourceUrl": null,
+      "webUrl": "https://www.journalism.co.uk/news/i-am-a-public-service-journalist-what-can-ai-do-for-me-/s2/a864141/",
+      "originalUrl": "https://www.journalism.co.uk/news/i-am-a-public-service-journalist-what-can-ai-do-for-me-/s2/a864141/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.journalism.co.uk/assets/136/christian-lue-7dEyTJ7-8os-unsplash.jpg_resized_460_.jpeg",
+          "width": 459,
+          "height": 306,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.journalism.co.uk/ampnews/i-am-a-public-service-journalist-what-can-ai-do-for-me-/s435/a864141/",
+      "cdnAmpWebUrl": "https://www-journalism-co-uk.cdn.ampproject.org/c/s/www.journalism.co.uk/ampnews/i-am-a-public-service-journalist-what-can-ai-do-for-me-/s435/a864141/",
+      "publishedDateTime": "2021-10-04T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Journalism.co.uk",
+        "domain": "journalism.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-deepmind-technologies-sued-over-data-sharing.md",
+      "title": "DeepMind Technologies Sued Over Data Sharing",
+      "excerpt": "A law firm in the United Kingdom is suing Google's artificial intelligence (AI) subsidiary DeepMind Technologies over an alleged breach of data protection laws. Mishcon de Reya is bringing a representative suit against DeepMind pertaining to the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infosecurity-magazine.com/news/deepmind-sued-over-data-sharing/",
+      "originalUrl": "https://www.infosecurity-magazine.com/news/deepmind-sued-over-data-sharing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Infosecurity-magazine.com",
+        "domain": "infosecurity-magazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-04-amazon-mit-establish-science-hub-for-robotics-research.md",
       "title": "Amazon, MIT establish Science Hub for robotics research",
       "excerpt": "The Science Hub hopes to ensure the benefits of AI and robotics are shared broadly and to promote participation in research.",
@@ -1090,93 +1167,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-03-explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders.md",
-      "title": "Explained: Why Amazon’s Astro ‘robot on wheels’ has rankled privacy crusaders",
-      "excerpt": "The robot is designed to move around the home and keep a check on pets, and detect something unusual in the absence of the owner.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/explained/explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders-7549238/",
-      "originalUrl": "https://indianexpress.com/article/explained/explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders-7549238/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2021/10/227f04f9c0bc4cceaed880176ef570e9-227f04f9c0bc4cceaed880176ef570e9-2793bc1d66804cf08f75439792eebdc0.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/explained/explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders-7549238/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders-7549238/lite/",
-      "publishedDateTime": "2021-10-03T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-03-chinese-ai-gets-ethical-guidelines-for-the-first-time-aligning-with-beijings-goal-of-reining-in-big-tech.md",
-      "title": "Chinese AI gets ethical guidelines for the first time, aligning with Beijing’s goal of reining in Big Tech",
-      "excerpt": "China has revealed its first set of ethical ... Beijing's goals of reining in Big Tech's influence and becoming the global AI leader by 2030. Humans should have full decision-making power, the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3150789/chinese-ai-gets-ethical-guidelines-first-time-aligning-beijings-goal",
-      "originalUrl": "https://www.msn.com/en-xl/news/other/chinese-ai-gets-ethical-guidelines-for-the-first-time-aligning-with-beijing-s-goal-of-reining-in-big-tech/ar-AAP4O4N",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/09/30/a076ab7c-21ed-11ec-83d0-b8338c7f9150_image_hires_224915.jpg?itok=wPPO-EZd&v=1633013362",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3150789/chinese-ai-gets-ethical-guidelines-first-time-aligning-beijings-goal",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3150789/chinese-ai-gets-ethical-guidelines-first-time-aligning-beijings-goal",
-      "publishedDateTime": "2021-10-02T18:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com/tech/big-tech/article/3150789/chinese-ai-gets-ethical-guidelines-first-time-aligning-beijings-goal",
-        "domain": "scmp.com/tech/big-tech/article/3150789/chinese-ai-gets-ethical-guidelines-first-time-aligning-beijings-goal",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

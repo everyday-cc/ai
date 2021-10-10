@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ex-Uber driver takes legal action over ‘racist’ face-recognition software"
-    excerpt: "UK driver alleges his account was illegally deactivated when Uber software decided he was not who he said he was"
-    publishedDateTime: 2021-10-05T16:01:00Z
-    webUrl: "https://www.theguardian.com/technology/2021/oct/05/ex-uber-driver-takes-legal-action-over-racist-face-recognition-software"
-    ampWebUrl: "https://amp.theguardian.com/technology/2021/oct/05/ex-uber-driver-takes-legal-action-over-racist-face-recognition-software"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/oct/05/ex-uber-driver-takes-legal-action-over-racist-face-recognition-software"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 143
-    images:
-      - url: "https://i.guim.co.uk/img/media/55c54451224be3752e08c4b3ee40e9886df70ba7/0_217_6500_3900/master/6500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c819f6205781f6edad3b66bedd92282b"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Uber faces legal action over ‘racially discriminatory’ facial recognition ID checks"
     excerpt: "Ride-hailing giant Uber is facing a legal challenge over its use of real-time facial recognition technology in a driver and courier identity check system that it uses in the UK. The App Drivers & Couriers Union (ADCU) announced the legal action Tuesday,"
     publishedDateTime: 2021-10-06T00:40:00Z
@@ -90,22 +74,6 @@ related:
       - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F10%2FUber_Sued.jpg"
         width: 1200
         height: 619
-        isCached: true
-  - title: "Face Recognition Software launched"
-    excerpt: "The Face Recognition Software (FRS) for use by city police personnel to aid in investigation was launched here on Wednesday. Commissioner of Police G. Karthikeyan explained the software features and t"
-    publishedDateTime: 2021-10-07T16:51:00Z
-    webUrl: "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
         isCached: true
   - title: "Uber taken to court for ‘racist’ facial recognition software"
     excerpt: "Lawyers will argue facial recognition systems, including those operated by Uber, are faulty and generate poor accuracy results when used with people of colour. | ITV News London"

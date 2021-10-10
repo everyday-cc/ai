@@ -75,22 +75,6 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 49
-  - title: "HPE Converts Analytics, Storage, Data Protection To GreenLake"
-    excerpt: "Since launching GreenLake in 2018 and promising that all of its portfolio would be available as services by next year, Hewlett Packard Enterprise has been"
-    publishedDateTime: 2021-10-05T16:32:00Z
-    webUrl: "https://www.nextplatform.com/2021/10/05/hpe-converts-analytics-storage-data-protection-to-greenlake-services/"
-    ampWebUrl: "https://www.nextplatform.com/2021/10/05/hpe-converts-analytics-storage-data-protection-to-greenlake-services/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/10/05/hpe-converts-analytics-storage-data-protection-to-greenlake-services/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 44
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/hpe-lighthouse-greenlake-logo-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Google Analytics 4 updates include data-driven attribution, machine learning models to fill in measurement gaps and a Search Console integration"
     excerpt: "Google hasn’t said when it will deprecate Universal Analytics, but the updates and language in the announcement suggest that search marketers should prepare for the change."
     publishedDateTime: 2021-10-05T20:00:00Z

@@ -45,50 +45,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-08-ai-based-natural-language-processing-advances-precision-medicine.md",
-      "title": "AI-Based Natural Language Processing Advances Precision Medicine",
-      "excerpt": "Washington University School of Medicine is improving precision medicine research with the adoption of artificial intelligence-based natural language processing tools.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/ai-based-natural-language-processing-advances-precision-medicine",
-      "originalUrl": "https://healthitanalytics.com/news/ai-based-natural-language-processing-advances-precision-medicine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1127125431.jpeg",
-          "width": 700,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-08T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2021-10-08-white-house-proposes-tech-bill-of-rights-to-limit-ai-harms.md",
       "title": "White House proposes tech ‘bill of rights’ to limit AI harms",
       "excerpt": "Top science advisers to President Joe Biden are calling for a new \"bill of rights\" to guard against powerful new artificial intelligence technology. The",
@@ -1389,6 +1345,41 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-to-witness-huge-growth-by-2028-3m-minnesota.md",
+      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market to Witness Huge Growth by 2028 : 3M (Minnesota)",
+      "excerpt": "Supported by comprehensive primary as well as secondary research, the report Global Natural Language Processing (NLP) in Healthcare and Life Sciences Industry 2021 presents profitable market insights.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-to-witness-huge-growth-by-2028-3m-minnesota/",
+      "originalUrl": "https://manometcurrent.com/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-to-witness-huge-growth-by-2028-3m-minnesota/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-to-witness-huge-growth-by-2028-3m-minnesota/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-to-witness-huge-growth-by-2028-3m-minnesota/?amp=1",
+      "publishedDateTime": "2021-09-19T22:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI",
         "AI in Healthcare"
       ]

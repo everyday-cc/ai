@@ -2,50 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-09-23-nvidia-and-open-robotics-accelerate-ros-2-performance.md",
-      "title": "NVIDIA and Open Robotics accelerate ROS 2 performance",
-      "excerpt": "NVIDIA and Open Robotics have entered into an agreement to accelerate ROS 2 performance on NVIDIA’s Jetson edge AI platform and GPU-based systems. These in",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsweekly.com/news/business/nvidia-open-robotics-accelerate-ros-2-performance-2021-09/",
-      "originalUrl": "https://www.electronicsweekly.com/news/business/nvidia-open-robotics-accelerate-ros-2-performance-2021-09/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.electronicsweekly.com/wp-content/uploads/2021/09/23134602/2ED81732-16CA-40BF-8662-7758178B331D.jpeg",
-          "width": 960,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-23T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics Weekly",
-        "domain": "electronicsweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-09-23-in-the-latest-ai-benchmarks-nvidia-remains-the-champ-but-qualcomm-is-rising-fast.md",
       "title": "In The Latest AI Benchmarks, Nvidia Remains The Champ, But Qualcomm Is Rising Fast",
       "excerpt": "NVIDIA rules the performance roost, Qualcomm demonstrates exceptional power efficiency, and Intel demonstrates the power of software. Every three months, the not-for-profit group MLCommons publishes a slew of peer-reviewed MLPerf benchmark results for deep learning,",
@@ -1413,6 +1369,58 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-intel-ceo-believes-over-20-percent-of-premium-vehicles-bill-of-materials-will-be-dedicated-to-chips-by-2030.md",
+      "title": "Intel CEO believes over 20 percent of premium vehicles' bill of materials will be dedicated to chips by 2030",
+      "excerpt": "The predictions presented at IAA Mobility by Pat Gelsinger, Intel's CEO, represent 5x growth over 11 years. Besides the increase of semiconductors to manufacture premium vehicles,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/91152-intel-ceo-believes-over-20-percent-premium-vehicles.html",
+      "originalUrl": "https://www.techspot.com/news/91152-intel-ceo-believes-over-20-percent-premium-vehicles.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-08-image-24.jpg",
+          "width": 2093,
+          "height": 1308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/91152-intel-ceo-believes-over-20-percent-premium-vehicles.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91152-intel-ceo-believes-over-20-percent-premium-vehicles.html",
+      "publishedDateTime": "2021-09-08T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

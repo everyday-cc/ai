@@ -40,20 +40,6 @@ related:
         width: 490
         height: 268
         isCached: true
-  - title: "Gap Inc. acquires artificial intelligence startup CB4"
-    excerpt: "As part of ongoing tech efforts, Gap Inc. on Monday announced that it acquired Context-Based 4 Casting for an undisclosed amount. CB4 is a retail technology startup th"
-    publishedDateTime: 2021-10-05T15:17:00Z
-    webUrl: "https://www.retaildive.com/news/gap-inc-acquires-artificial-intelligence-startup-cb4/607676/"
-    type: article
-    provider:
-      name: Retail Dive
-      domain: retaildive.com
-    quality: 37
-    images:
-      - url: "https://www.retaildive.com/user_media/cache/f4/1b/f41ba6ee5e2df1fa0b31acbcd47305d2.jpg"
-        width: 770
-        height: 364
-        isCached: true
   - title: "Gap Inc. Acquires AI Startup CB4"
     excerpt: "Gap Inc. announced earlier this week that it's acquiring the New York- and Tel Aviv-based startup Context-Based 4 Casting (CB4), which uses artificial intelligence (AI) and machine learning to identify patterns in retail data and identify ways to improve in-store sales."
     publishedDateTime: 2021-10-07T22:36:00Z

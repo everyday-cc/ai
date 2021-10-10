@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thedailystar.net/news/world/news/robots-speed-greeces-po
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/news/world/news/robots-speed-greeces-postal-service-2192521?amp"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robots give Greece's postal service speed boost"
-    excerpt: "There's a new addition to Greece's postal service: a fleet of yellow robots sorting through the mail. Fifty-five small, four-wheeled autonomous mobile robots -- or AMR's -- powered by artificial intelligence,"
-    publishedDateTime: 2021-10-05T15:59:00Z
-    webUrl: "https://www.reuters.com/technology/robots-give-greeces-postal-service-speed-boost-2021-10-05/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/mw--lj5UsgWqAMr7Rax6sj6IVLk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R2WEQVYR3ZNKFC3PWJSIQACGEU.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Robots give Greece's postal service speed boost"
     excerpt: "There's a new addition to Greece's postal service: a fleet of yellow robots sorting through the mail. Fifty-five s"
     publishedDateTime: 2021-10-05T23:49:00Z

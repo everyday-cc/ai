@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-08-18-this-new-ai-system-can-translate-natural-language-to-computer-code.md",
-      "title": "This New AI System Can Translate Natural Language To Computer Code",
-      "excerpt": "Advertisement Do you feel like you have an amazing idea for an application but don’t know how to code? Thanks to an artificial intelligence research company named OpenAI, it’s now possible to translate natural English language into programming code!",
-      "sourceUrl": null,
-      "webUrl": "https://wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/",
-      "originalUrl": "https://wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/08/2020_10largeimg_1328966816.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/amp/",
-      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/amp/",
-      "publishedDateTime": "2021-08-18T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wonderful Engineering",
-        "domain": "wonderfulengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-18-natural-language-processing-market-2021-size-covid-19-impact-analysis-opportunities-demand-outlook.md",
       "title": "Natural Language Processing Market 2021: Size, COVID 19 Impact Analysis, Opportunities, Demand, Outlook",
       "excerpt": "Aug 17, 2021 (Heraldkeepers) -- The global Natural Language Processing (NLP) Market size to grow from USD XX billion in 2020 to USD 35.1 billion by 2027, at a Compound Annual Growth Rate (CAGR ...",
@@ -1343,6 +1300,59 @@
         "AI",
         "Facebook AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-make-your-audio-and-video-files-searchable-using-amazon-transcribe-and-amazon-kendra.md",
+      "title": "Make your audio and video files searchable using Amazon Transcribe and Amazon Kendra",
+      "excerpt": "The demand for audio and video media content is growing at an unprecedented rate. Organizations are using media to engage with their audiences like never before. Product documentation is increasingly published in video form, and podcasts are increasingly produced in place of blog posts. The recent explosion",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/make-your-audio-and-video-files-searchable-using-amazon-transcribe-and-amazon-kendra/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/make-your-audio-and-video-files-searchable-using-amazon-transcribe-and-amazon-kendra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/06/ML-4364-image001.png",
+          "width": 903,
+          "height": 571,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-06T12:06:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
       ]
     }
   ],

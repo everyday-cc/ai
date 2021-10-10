@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: The Hindu
@@ -27,141 +27,97 @@ images:
     isCached: true
 
 related:
-  - title: "Ex-Uber driver takes legal action over ‘racist’ face-recognition software"
-    excerpt: "UK driver alleges his account was illegally deactivated when Uber software decided he was not who he said he was"
-    publishedDateTime: 2021-10-05T16:01:00Z
-    webUrl: "https://www.theguardian.com/technology/2021/oct/05/ex-uber-driver-takes-legal-action-over-racist-face-recognition-software"
-    ampWebUrl: "https://amp.theguardian.com/technology/2021/oct/05/ex-uber-driver-takes-legal-action-over-racist-face-recognition-software"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/oct/05/ex-uber-driver-takes-legal-action-over-racist-face-recognition-software"
+  - title: "Xiaomi Face Recognition Smart Door Lock X Officially Announced"
+    excerpt: "Xiaomi has announced its smartest door lock, namely the Xiaomi Face Recognition Smart Door Lock X. The price is not known yet."
+    publishedDateTime: 2021-10-09T10:27:00Z
+    webUrl: "https://www.gizchina.com/2021/10/09/xiaomi-face-recognition-smart-door-lock-x-officially-announced/"
+    ampWebUrl: "https://www.gizchina.com/2021/10/09/xiaomi-face-recognition-smart-door-lock-x-officially-announced/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/10/09/xiaomi-face-recognition-smart-door-lock-x-officially-announced/amp/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 143
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
     images:
-      - url: "https://i.guim.co.uk/img/media/55c54451224be3752e08c4b3ee40e9886df70ba7/0_217_6500_3900/master/6500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c819f6205781f6edad3b66bedd92282b"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Uber faces legal action over ‘racially discriminatory’ facial recognition ID checks"
-    excerpt: "Ride-hailing giant Uber is facing a legal challenge over its use of real-time facial recognition technology in a driver and courier identity check system that it uses in the UK. The App Drivers & Couriers Union (ADCU) announced the legal action Tuesday,"
-    publishedDateTime: 2021-10-06T00:40:00Z
-    webUrl: "https://techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/"
-    ampWebUrl: "https://techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1232204732.jpg?w=1024"
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/10/xiaomi-serratura-smart-sblocco-riconoscimento-facciale-3d-prezzo-1024x575.jpg"
         width: 1024
-        height: 683
+        height: 575
         isCached: true
-  - title: "Uber's 'racist' facial recognition software is firing Black and Asian drivers, former driver claims"
-    excerpt: "Uber is facing legal action for alleged indirect racial discrimination against a driver who claims he was sacked after facial recognition software used by the company failed to recognise him. In an employment tribunal claim filed this week,"
-    publishedDateTime: 2021-10-06T15:37:00Z
-    webUrl: "https://www.euronews.com/next/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-"
-    ampWebUrl: "https://www.euronews.com/next/amp/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-"
-    cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-"
+  - title: "Tamil Nadu police's 'Face Recognition Software' has privacy experts worried"
+    excerpt: "Tamil Nadu Chief Minister MK Stalin on October 4 announced a Face Recognition Software (FRS) to aid the state police in its investigations. The software, according to the government, would help compare the photos of suspects with a data resource of over 5."
+    publishedDateTime: 2021-10-08T12:10:00Z
+    webUrl: "https://www.thenewsminute.com/article/tamil-nadu-polices-face-recognition-software-has-privacy-experts-worried-156283"
+    ampWebUrl: "https://www.thenewsminute.com/article/tamil-nadu-polices-face-recognition-software-has-privacy-experts-worried-156283?amp"
+    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/tamil-nadu-polices-face-recognition-software-has-privacy-experts-worried-156283?amp"
     type: article
     provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 60
+      name: The News Minute
+      domain: thenewsminute.com
+    quality: 57
     images:
-      - url: "https://static.euronews.com/articles/stories/06/13/14/64/1000x563_cmsv2_3a714556-0f52-5d73-a4d7-5352ed7a7c5c-6131464.jpg"
-        width: 1000
-        height: 563
+      - url: "https://www.thenewsminute.com/sites/default/files/facial_recognition_illegal_1200_0.jpg"
+        width: 750
+        height: 500
         isCached: true
-  - title: "Uber Being Sued Over ‘Racist’ Facial Recognition Algorithm"
-    excerpt: "Uber is being sued over a ‘racist’ facial recognition algorithm that is more likely to lock out drivers with darker skin. With this algorithm, drivers are required to scan their face intermittently before they can access the back-end of the ride-hailing app’s system."
-    publishedDateTime: 2021-10-06T14:53:00Z
-    webUrl: "https://www.unilad.co.uk/news/uber-being-sued-over-racist-facial-recognition-algorithm/"
-    ampWebUrl: "https://www.unilad.co.uk/news/uber-being-sued-over-racist-facial-recognition-algorithm/amp/"
-    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/news/uber-being-sued-over-racist-facial-recognition-algorithm/amp/"
+  - title: "Experts worried about police's 'face recognition software' interfering with people's privacy"
+    excerpt: "Tamil Nadu Chief Minister MK Stalin on October 4 announced a Face Recognition Software (FRS) to assist the state police in their investigati..|News Track"
+    publishedDateTime: 2021-10-08T12:32:00Z
+    webUrl: "https://english.newstracklive.com/news/experts-worried-about-polices-face-recognition-software-interfering-with-peoples-privacy-sc1-nu303-ta303-1186385-1.html"
+    ampWebUrl: "https://english.newstracklive.com/ampnews/experts-worried-about-polices-face-recognition-software-interfering-with-peoples-privacy-sc1-nu303-ta303-1186385-1.html"
+    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/experts-worried-about-polices-face-recognition-software-interfering-with-peoples-privacy-sc1-nu303-ta303-1186385-1.html"
     type: article
     provider:
-      name: UNILAD
-      domain: unilad.co.uk
-    quality: 59
+      name: News Track
+      domain: newstracklive.com
+    quality: 48
     images:
-      - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F10%2FUber_Sued.jpg"
-        width: 1200
-        height: 619
-        isCached: true
-  - title: "Uber Is Being Sued Over Its \"Racist\" Facial Recognition System"
-    excerpt: "Rideshare company Uber is back in headlines once again, and for the wrong reasons: the company has been accused of using a racially bias ed facial recognition algorithm. T he United Kingdom labor union,"
-    publishedDateTime: 2021-10-06T15:57:00Z
-    webUrl: "https://jalopnik.com/uber-is-being-sued-over-its-racist-facial-recognition-1847809686"
-    ampWebUrl: "https://jalopnik.com/uber-is-being-sued-over-its-racist-facial-recognition-1847809686/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/uber-is-being-sued-over-its-racist-facial-recognition-1847809686/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 59
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/03e8a0e44c23400109e531a7e13340b1.jpg"
-        width: 800
+      - url: "https://media.newstrack.in/uploads/latest-news/india-news/Oct/08/big_thumb/00_61603a0031bc0.jpg"
+        width: 804
         height: 450
         isCached: true
-  - title: "Uber taken to court for ‘racist’ facial recognition software"
-    excerpt: "Lawyers will argue facial recognition systems, including those operated by Uber, are faulty and generate poor accuracy results when used with people of colour. | ITV News London"
-    publishedDateTime: 2021-10-06T14:41:00Z
-    webUrl: "https://www.itv.com/news/london/2021-10-06/uber-taken-to-court-for-racist-facial-recognition-software"
+  - title: "TDSi GARDiS software now features full integration with Hikvision’s face recognition terminals and ANPR cameras"
+    excerpt: "Integrated security manufacturer, TDSi is pleased to announce that its powerful GARDiS access management software now supports full integration with Hikvision’s face recognition terminals"
+    publishedDateTime: 2021-10-06T10:53:00Z
+    webUrl: "https://www.sourcesecurity.com/companies/hikvision/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html"
     type: article
     provider:
-      name: ITV
-      domain: itv.com
+      name: SourceSecurity
+      domain: sourcesecurity.com
     quality: 39
     images:
-      - url: "https://images.ctfassets.net/pjshm78m9jt4/3z7E4ljmpMkSw3eDXBTZJz/92f93330b93942e73a381642640c4f21/uber.jpeg"
-        width: 1920
-        height: 1080
+      - url: "https://www.sourcesecurity.com/img/news/612/tdsi-announces-full-integration-with-the-rotaone-time-attendance-solution-920x533.jpg"
+        width: 612
+        height: 355
         isCached: true
-  - title: "Striking Uber drivers demand end to ‘racist’ facial recognition software"
-    excerpt: "Striking Uber drivers, supported by Black Lives Matter and Union IWGB, are protesting at Uber HQ over 'racist' facial recognition software"
-    publishedDateTime: 2021-10-06T12:42:00Z
-    webUrl: "https://www.bigissue.com/news/employment/uber-drivers-strike-racist-facial-recognition-software-higher-pay/"
+  - title: "Sensory Launches Speech Recognition Model for Children"
+    excerpt: "Sensory has released new speech recognition models that have been specifically trained to recognize children’s unique vocal patterns"
+    publishedDateTime: 2021-10-06T21:28:00Z
+    webUrl: "https://mobileidworld.com/sensory-launches-speech-recognition-model-children-7102103/"
     type: article
     provider:
-      name: The Big Issue
-      domain: bigissue.com
-    quality: 38
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 39
     images:
-      - url: "http://thebigissue581.wpengine.com/wp-content/uploads/2021/10/UberStrike1-768x440.png"
-        width: 768
-        height: 440
+      - url: "https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg"
+        width: 800
+        height: 560
         isCached: true
-  - title: "Uber sued over ‘racist’ facial recognition algorithm that locks out workers"
-    excerpt: "When you have an job that you think will help you to secure income and it’s taken away unfairly, it’s very difficult’ says a former driver"
-    publishedDateTime: 2021-10-06T10:42:00Z
-    webUrl: "https://www.independent.co.uk/news/business/news/uber-sued-facial-recognition-algorithm-racist-b1933275.html"
+  - title: "The Pandemic is Testing the Limits of Face Recognition"
+    excerpt: "Government use of face ID systems exploded during the pandemic—but tying it to critical services has left some people locked out at the moment they needed help the most. At first glance, JB, an artist based in Los Angeles,"
+    publishedDateTime: 2021-10-07T12:16:00Z
+    webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/the-pandemic-is-testing-the-limits-of-face-recognition/12291/"
     type: article
     provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 37
+      name: Predictive Analytics World
+      domain: predictiveanalyticsworld.com
+    quality: 39
     images:
-      - url: "https://static.independent.co.uk/2021/10/06/13/PRI203646116.jpg?width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Uber facial recognition software to be discriminating over people of colour"
-    excerpt: "A former Uber driver is taking legal action against the firm over its automated face-scanning software that he is claiming to be discriminating. Indeed, the black driver who worked with Uber from 2016 to April 2021 has filed an employment tribunal claim alleging his account was illegally deactivated after the facial verification software didn’t recognize him several times."
-    publishedDateTime: 2021-10-07T09:48:00Z
-    webUrl: "https://www.softwaretestingnews.co.uk/uber-facial-recognition-software-to-be-discriminating-over-people-of-colour/"
-    type: article
-    provider:
-      name: softwaretestingnews.co.uk
-      domain: softwaretestingnews.co.uk
-    quality: 37
-    images:
-      - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/10/Website-2-1024x585.jpg"
-        width: 1024
-        height: 585
+      - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2021/09/270x270-Coursera-Banner-1.jpg"
+        width: 270
+        height: 270
         isCached: true
 
 secured: "z6FMyixx3GFrYO3/qmh/CfmHicmrbLz4FF2Ove17ghH6wDyLVs/WhXzZlTgADlOYqsiWYRkuDXCLurHazoMDcBzWQScRTje+aY4Y5JYtB66GElhU05X43wsjqSK8OV8y4gC77S4ofURzxqL9SrnBIJy93HIP8anYmtRhZmbloceYRr7wHo8Chq9X4IC+NRW+l53GxDflTJbR9Cg4/Gq33JZrL9zlFPp3hNSil0BuI6Lvt5xWqX3S2IeG6lYRGTyrzo5DXBeJJzp/mEvl0pxSfVK3X467oz6G7prqC3XejVTHrKNLQP8KP6gxCDe6xBfF5inVt1Qb49r/hrY/m7C9FLOJSrX2LleGpPjtG1Ldy+g=;aVRiembU7/u+md70VumREg=="

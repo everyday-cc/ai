@@ -1,28 +1,29 @@
 ---
 category: news
 title: "The Future of Ai Will Take a Different, More General Approach"
-excerpt: "With this technology, ORBAI aims to develop Human AI, with fluent conversational speech on top of this AGI core, to provide AI professional services, all the way from customer service to legal, medical,"
-publishedDateTime: 2021-10-09T17:49:00Z
-originalUrl: "https://apnews.com/press-release/kisspr/technology-business-f9e6a3243ceeb63a104b4b459c9479e4"
-webUrl: "https://apnews.com/press-release/kisspr/technology-business-f9e6a3243ceeb63a104b4b459c9479e4"
+excerpt: "Today, if we browse the Internet for news on AI, we find that AI just accomplished something humans already do, yet far better. Still, it isn't easy to develop artificial general intelligence (AGI) through human-created algorithms."
+publishedDateTime: 2021-10-09T19:49:00Z
+originalUrl: "https://menafn.com/1102945074/The-Future-of-Ai-Will-Take-a-Different-More-General-Approach"
+webUrl: "https://menafn.com/1102945074/The-Future-of-Ai-Will-Take-a-Different-More-General-Approach"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?913703"
+    width: 354
+    height: 249
     isCached: true
 
-secured: "1xxKrn3KtjusAofBTQ1nbbBu069ZPV0GirHisavvmMhamLhYaf5NoT06NXQ8vmsohbGdOlVDboNBVzHXE1hbiPWohewxnKyhuUwgU9+7Wc/Hglpf3lgC6cS6UJSYk0eg/cG4yAXiQcmox9gMkzOT1f7/yGfebngIwiTDjsw+1Kpd3TghezV/TAzpehv0zPjdjmBY8L/wk6JMzCc3TrFJMtKQKO8SyUPM2mdJwKL6Tr52zGBIxFzCLa5zhMaLnUWK8/YC3K+ZxxaFBcW2g4xGCLjm95oyJtw/3OVmSYzaHwYxsD9gfjfsFnoIhxbc14QZlkkPZQZoK8aMEyQ7WFXYdOCfGrZVT5sfch0qpdtoS3o=;1Mxm+1Vo/7ZB9IyY5wjyCg=="
+secured: "B6lwHBNV9bCr/4DBM9Dk1qaqrVxeUIkm4C9p4Vst4EjRGdcPPiDz/uPgJ6RAq5fophSXnQGcSDMVBe4lYaKx9W8cnL2tyiAMncsnTKen40s93rQ1vP8Hgizv+eoDZKjcHqxORai5jsomSyfwEnQT+cs89xKMY32M38dOAxii3wzIEWHiE42gvCShaM5TlRPCV0JBsSmvP1+/ivuboakEQCAQhHyq83yIPKk8bro07QqS2sLUMD3CbnGyKoKkRS71yWmbFB+l6ipPyjlOT/RAGrTLHXznOzIjnLOuHhjkf5mU58TpO7QYOZiw+SwOYyUCYAzj7cnXyQ0xJ6MQu8pPXxAcATphXS0guFRLUzLqqUs=;gkChUqMe8gmVSPtieayArQ=="
 ---
 

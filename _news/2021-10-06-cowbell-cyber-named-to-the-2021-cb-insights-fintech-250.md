@@ -89,15 +89,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Fundbox Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
-    excerpt: "CB Insights today named Fundbox to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year’s list was unveiled on stage at CB Insights’ Future of Fintech conference in New York City."
-    publishedDateTime: 2021-10-05T15:30:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8368135/fundbox-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
   - title: "Onfido Named to 2021 CB Insights Fintech 250 List of Top Fintech Startups for Fourth Year Running"
     excerpt: "CB Insights today named Onfido to its fourth annual Fintech 250 for the fourth year running. Fintech 250 is a prestigious list of emerging private com"
     publishedDateTime: 2021-10-05T20:44:00Z

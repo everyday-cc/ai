@@ -7,7 +7,7 @@ originalUrl: "https://www.railway-technology.com/features/artificial-intelligenc
 webUrl: "https://www.railway-technology.com/features/artificial-intelligence-hiring-levels-in-the-railway-industry-for-august-2021/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -24,61 +24,49 @@ images:
     isCached: true
 
 related:
-  - title: "Beverages’ Artificial Intelligence hiring levels hold steady in August – data"
-    excerpt: "The proportion of beverage manufacturing and supply companies hiring for Artificial Intelligence-related positions in August was in line with the previous month, with 30% of the companies included in GlobalData's analysis recruiting for at least one such position."
-    publishedDateTime: 2021-10-07T11:58:00Z
-    webUrl: "https://www.just-drinks.com/features/beverages-artificial-intelligence-hiring-levels-hold-steady-in-august-data/"
+  - title: "Artificial Intelligence Is Changing The Condo Industry"
+    excerpt: "Technology has changed our lives for the better in many ways, from employment to retail services. Now, AI technology has started to make inroads in the real estate and housing markets due to more people being indoors due to the coronavirus pandemic."
+    publishedDateTime: 2021-10-10T09:43:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-is-changing-the-condo-industry/"
+    ampWebUrl: "https://techbullion.com/artificial-intelligence-is-changing-the-condo-industry/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-is-changing-the-condo-industry/amp/"
     type: article
     provider:
-      name: Drinks
-      domain: just-drinks.com
-    quality: 34
+      name: Impacts
+      domain: techbullion.com
+    quality: 57
     images:
-      - url: "https://www.just-drinks.com/wp-content/uploads/sites/36/2021/10/Artificial-Intelligence-scaled.jpg"
-        width: 2560
-        height: 1067
-        isCached: true
-  - title: "Glider AI wins SIA Shark Tank’s Most Innovative Technology in the Staffing Industry for 2021."
-    excerpt: "In the highly contested SIA Shark Tank competition, Glider AI took the top spot for the most innovative technology in the staffing industry. Serving full time and contingent hiring for tech and non-tech roles,"
-    publishedDateTime: 2021-10-05T17:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-sia-c508028a03133d8dcf4ba88262eb0da7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Artificial intelligence hiring levels in the apparel industry rose to a year-high in August 2021"
-    excerpt: "The proportion of apparel supply chain companies hiring for artificial intelligence related positions rose to a year-high in August 2021."
-    publishedDateTime: 2021-10-07T08:31:00Z
-    webUrl: "https://www.just-style.com/features/artificial-intelligence-hiring-levels-in-the-apparel-industry-rose-to-a-year-high-in-august-2021/"
-    type: article
-    provider:
-      name: Companies
-      domain: just-style.com
-    quality: 24
-    images:
-      - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/09/shutterstock_1058815598.jpg"
-        width: 500
-        height: 322
-        isCached: true
-  - title: "Artificial intelligence hiring levels in the clinical trial operations industry rose in August 2021"
-    excerpt: "The proportion of clinical trial operations companies hiring for artificial intelligence related positions rose in August 2021, with 24.9% of the companies included in our analysis recruiting for at least one such position."
-    publishedDateTime: 2021-10-08T16:55:00Z
-    webUrl: "https://www.clinicaltrialsarena.com/analysis/artificial-intelligence-hiring-levels-in-the-clinical-trial-operations-industry-rose-in-august-2021/"
-    type: article
-    provider:
-      name: Clinical Trials Arena
-      domain: clinicaltrialsarena.com
-    quality: 23
-    images:
-      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/33/2021/10/shutterstock_1590824851.jpg"
+      - url: "https://techbullion.com/wp-content/uploads/2021/10/Depositphotos_212660524_S.jpg"
         width: 1000
-        height: 563
+        height: 667
+        isCached: true
+  - title: "How the Automotive Industry is Using AI"
+    excerpt: "Artificial intelligence (AI) in the automotive industry is making vehicles autonomous. Learn about driverless vehicles & AI now:"
+    publishedDateTime: 2021-10-05T20:09:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/ai-in-automotive/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 41
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/10/The-interior-of-an-autonomous-driverless-vehicle.jpeg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "How AI will be the energy industry’s unexpected repairman"
+    excerpt: "Stephen Kwan, Director of Product Management at Beyond Limits, provides further insights on the applications for AI in the energy sector"
+    publishedDateTime: 2021-10-09T09:03:00Z
+    webUrl: "https://energydigital.com/technology-and-ai/how-ai-will-be-energy-industrys-unexpected-repairman"
+    type: article
+    provider:
+      name: energydigital.com
+      domain: energydigital.com
+    quality: 37
+    images:
+      - url: "https://energydigital.com/sites/default/files/styles/og_image/public/image/Steve%20pic.png?itok=6fDtVAjy"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "erDd2h5C5mgtq0K4XwJlqwXbrw98gU0AvEoAQa2ByfiCu3OH7h7T9zW1IpUGgf7X5lc0Zq4yBjV4KmEJgkEiwkMA08UkYp4cVX3h6k+5d52BHA6nRE5xjpS1Wg/Lshk2O0E2tqGFx7cI+XhqqIkFLFd3lNFKbGRUlPVdRe4nzrR8dmOtQPFmMONi4y1HEi2C9sTStld80vFhr6tikYwNPx1MWp5JelD22/522CG60tNFxeXk5Iy89cuQW58VNweIaTnUZOwDJ/7/53RQ37J4xDXu+Qyw7YXDLckl4F2QbN2Z8BEUK50LytH6VYat0iRBWsQ53w3JtBIA3GYS+52vCHrYZ/7Xv1JbY96IRjldMMpFZApDy9wXe+arSQbkVj3V/tPBDObwosOSCgUQw62oXlhWyYSDmaUbbdYYYh+1PdoTADFCAAV111dMWQu5yCDZeKL0ZTz1h565TOP86nYN72ZVb0GAuGJiZegyZH/WyQoMuoGHrXoBbgLwXHy09mx1uNeoGjJE3ercX7K1ssJJHw==;EF02LWh/VI02eCpEf3AVSg=="

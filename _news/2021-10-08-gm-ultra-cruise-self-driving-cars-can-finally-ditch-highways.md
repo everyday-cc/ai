@@ -69,6 +69,20 @@ related:
         width: 2560
         height: 1439
         isCached: true
+  - title: "Self-driving cars coming to Scottsdale"
+    excerpt: "A utonomous cars are coming to Scottsdale. General Motors will roll out its Cruise brand of electric, self-driving vehicles as part of a ride-hailing service in the coming months, according to Mayor David Ortega."
+    publishedDateTime: 2021-10-10T08:00:00Z
+    webUrl: "https://www.scottsdale.org/news/self-driving-cars-coming-to-scottsdale/article_95303ac2-293a-11ec-9e88-cb2088c6dac6.html"
+    type: article
+    provider:
+      name: scottsdale
+      domain: scottsdale.org
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/scottsdale.org/content/tncms/assets/v3/editorial/5/6c/56c93cb0-2940-11ec-a8b8-1bc46b9dbd0d/6161ffacd84fa.image.png?resize=759%2C630"
+        width: 759
+        height: 630
+        isCached: true
   - title: "GM's Ultra Cruise to enable hands-free driving for 95% of driving in 2023"
     excerpt: "GM's Ultra Cruise driver-assist system will arrive in 2023 to go beyond Super Cruise and provide hands-free driving on more than 2 million miles of road in the U.S. and Canada."
     publishedDateTime: 2021-10-06T16:00:00Z

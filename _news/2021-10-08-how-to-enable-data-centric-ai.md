@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/08/how-to-ena
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/08/how-to-enable-data-centric-ai/amp/"
 type: article
 quality: 89
-heat: 125
+heat: 105
 published: true
 
 provider:
@@ -45,29 +45,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Akridatatm Launches World's First Edge Data Platform for Data-Centric AI"
-    excerpt: "Akridata, a category-maker and pioneer in Data-Centric AI, today announced the launch of the Akridata Edge Data Platformtm, which creates and manages smart data pipelines and AI workflows spanning Edge-Core-Cloud resources ?"
-    publishedDateTime: 2021-10-05T16:22:00Z
-    webUrl: "https://www.lelezard.com/en/news-20031572.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 38
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Akridata™ Launches World's First Edge Data Platform for Data-Centric AI"
-    excerpt: "Decentralized Software Accelerates Access to Relevant AI Data, Handles Ingest, Catalog, and Exploration of Complex AI Data, and Enables Traceable AI Across Industries"
-    publishedDateTime: 2021-10-05T16:17:00Z
-    webUrl: "https://www.kplctv.com/prnewswire/2021/10/05/akridata-launches-worlds-first-edge-data-platform-data-centric-ai/"
-    type: article
-    provider:
-      name: KPLC
-      domain: kplctv.com
-    quality: 19
 
 secured: "MmiQ+qt5E9hl2Ij6W1fVnA5/t0nXblsp6/Cqcmr58gJYxFYLYq1bkF/jy7z+KhTNZfWtfaSdZWS3xKQXfDYaL6lVcgwOrMf20CT+SQvOi0NC3jawr3XN4+42F8VO+9iM7V3fdHRmWriC6lawAkyQpAxL6gp6sgsUBw2ksVzc6JB68mrezD1kRk5z5FnlW/C1Y/ofWqSF0ZbjPGuhGJBAV4iUu34VGIND+BImMrFL3E0FSxDyaAhCDJ2PPLTtuVsWnLDV2KdwpcC7d0oHA7NkXO3b+bhNNKXo/rlERDwTWIG9E8sGEYbHBXzCNL+N9MmTek4cVa9iOdNqpatGQhlZO4TMOmWtVvcFZgLtBtiK/w6EHDZdOcVaadj0aB54mfzcadt/VcLn1JMRTvhr1f/bQQ66EuEnjEwri8PA3MQky2CVWNUU+IP7VwYZjHDZLN9ifF78nTV+2NF2Pw70tgUEk9NueSNIHLQkEVVmGjaXSLkUl9/akdo30+nY02i0vw9Ur0iuPRxvu6n1nIEuYPuLhQ==;KarjSABxKo0H2HhP3L919g=="
 ---

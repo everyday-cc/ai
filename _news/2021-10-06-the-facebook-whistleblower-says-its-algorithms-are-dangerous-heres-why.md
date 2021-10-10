@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook whistleblower testifies in Congress"
-    excerpt: "The Facebook whistleblower who released tens of thousands of pages of internal research and documents will testify today before a Senate subcommittee about the company's impact on kids. Follow here for the latest news."
-    publishedDateTime: 2021-10-05T15:37:00Z
-    webUrl: "https://www.cnn.com/business/live-news/facebook-senate-hearing-10-05-21/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/business/live-news/facebook-senate-hearing-10-05-21/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/business/live-news/facebook-senate-hearing-10-05-21/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 74
-    images:
-      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_506/1fa57818-51d7-476d-b66d-5dfcfe95abc3.jpg"
-        width: 900
-        height: 506
-        isCached: true
   - title: "Facebook whistleblower Frances Haugen testifies before the Senate"
     excerpt: "After revealing her identity on Sunday night, Frances Haugen — the whistleblower who leaked controversial Facebook documents to The Wall Street Journal — testified before the Senate Committee on Commerce,"
     publishedDateTime: 2021-10-05T20:17:00Z
@@ -72,20 +56,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "In Scathing Senate Testimony, Whistleblower Warns Facebook a Threat to Children and Democracy"
-    excerpt: "\"I'm here today because I believe Facebook's products harm children, stoke division, and weaken our democracy,\" whistleblower Frances Haugen tells U.S. senators."
-    publishedDateTime: 2021-10-05T16:41:00Z
-    webUrl: "https://www.commondreams.org/news/2021/10/05/scathing-senate-testimony-whistleblower-warns-facebook-threat-children-and-democracy"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 13
-    images:
-      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-10/Frances-Haugen-Getty-3600.jpg?h=ae7bd2d1&itok=qKZwWf8n"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "7bIvYrsBvAJZ3GqcU31BnC5CImQfGx8gYCzdh5I48Hj1esS7lIcs5RnWtVgrwW4m+1F7NZJbKLZcsEXXiLzyOeOh106Fm+UeMiJxB44dSSPu+r/ugcFe6/MW/K/yGStLbLic3YKqRI76ULKsNk1SomyCX02t8DA1b7/CbNfAYky3zxbqOsq9VFndaB6al27uO1nUaR/WL/rBjKDjIxUGggjqLrcfF+ygUAqLlxbChFIB8Pzvq41sh5HfWYKrLfgZjgI1KGUtkFXtltwNl6cCA5JxprQgWiD0YgK49RNJTnNo7LBSc6DQd6IGl/dbWrIZsx2ALV2Fevb+nensm74hjVTBIdbYk3ln875rBdoIynqienuL3b+jzUXsvEXW4DWLXgrxNVFOvHYFCoWWrq3COlggYPq76XX4s0VD14FvDkUfti5XpjdO/bq+/gyGOVNgfze4wUr8WqH5ti5Q8+CdI6+cxEheJ+CI289LN/iJ6rbKDwsABM8dwKeasLu//F5r+8Bz4qcY3B6N2cxMgXdNiA==;XjLLqsYK1prAKu5kTzP7+A=="

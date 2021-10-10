@@ -51,6 +51,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "South African Entrepreneur Launches AI Solution Designed For Breast Cancer Identification"
+    excerpt: "Breast cancer remains the highest rate of mortality in South African women and those living in rural areas face multiple barriers in screening."
+    publishedDateTime: 2021-10-10T09:49:00Z
+    webUrl: "https://iafrica.com/south-african-entrepreneur-launches-ai-solution-designed-for-breast-cancer-identification/"
+    type: article
+    provider:
+      name: iafrica.com
+      domain: iafrica.com
+    quality: 28
+    images:
+      - url: "https://iafrica.com/wp-content/uploads/2021/10/Kathryn-Malherbe.jpg"
+        width: 453
+        height: 392
+        isCached: true
 
 secured: "KsTkrXwJrkmd6fqA1lJ8lUxji3M0DxVSuthMjBcS1TQPLZp+bz0pe0GWFDn0TJPr4W02jHUtaaZOWZ/N0pZN6ArdRo2pDWCrUZJM7zROPba0xEf8meGHrY5VkiLrKGnS+Heq69Z0nMevu6YRKDE+TPxL1bQp623Ocush3F29a4pmAnObrlWRSSopct9BqIqFiUHLyOy6L7eQ3+/0Y+Osk56J0W3NzQzrlDxeoUE/zzawLLSv2zB4g4KISkFV2u7eqhvrk/4A6UQwPUoDl8muN+F+zhB0Q5xXLvGEyEOlA5iC1ABQ4A7KpiC6qeEhGwiVk+Ad9oa/wbQcmpbH5qvpQWQ3tv1NTQuF7FqDimC1mxZFTBfWrxJXBHPuxp6aOcWJkiSCAZPwZIjwub20c7NLu7L+xHB0Tinl/1fR3Bz+zD4VKKshJaEQjA6ssPlcHA3kK60bppS3viaQpbESFDE745OHBdQ5Kf0lgj063TCTlTIa4i6WZrIROGeKYejPrxbtzcf7J7DBM4ThWakTgmUQhA==;YLRjDt94vvtorYuIFZ5U6g=="
 ---

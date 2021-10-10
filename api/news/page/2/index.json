@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-08-how-fiserv-improved-a-cumbersome-client-service-experience-with-a-watson-enabled-virtual-agent.md",
+      "title": "How Fiserv improved a cumbersome client service experience with a Watson-enabled virtual agent",
+      "excerpt": "The IT team at Fiserv uses AI to streamline customer and agent interactions Watson Assistant efficiently handling Fiserv’s unique acoustical challenges With an AI solution already in place, reacting to market disruption is a snap Promise and pitfalls Fiserv is an exciting example of AI’s power to increase",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/10/fiserv-client-service-watson-virtual-assistant/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/10/fiserv-client-service-watson-virtual-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/10/ACDC_140-WA-WD-Fiserv-Blog-Post_Large-1-copy-2.jpg",
+          "width": 2000,
+          "height": 1007,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-08T05:00:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-08-smart-robots-do-all-the-work-at-nissans-intelligent-plant.md",
       "title": "Smart robots do all the work at Nissan's 'intelligent' plant",
       "excerpt": "The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. “Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence,",
@@ -53,7 +104,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/08/how-to-enable-data-centric-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -613,6 +664,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-07-face-recognition-software-launched.md",
+      "title": "Face Recognition Software launched",
+      "excerpt": "The Face Recognition Software (FRS) for use by city police personnel to aid in investigation was launched here on Wednesday. Commissioner of Police G. Karthikeyan explained the software features and t",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece",
+      "originalUrl": "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/",
+      "publishedDateTime": "2021-10-07T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-07-gm-backed-cruise-targets-1-million-self-driving-vehicles-by-2030.md",
       "title": "GM-backed Cruise targets 1 million self-driving vehicles by 2030",
       "excerpt": "Cruise, General Motors' majority-owned autonomous vehicle subsidiary, is targeting a fleet of 1 million or more self-driving vehicles by 2030.",
@@ -1127,99 +1221,6 @@
         "AI",
         "Microsoft AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-ai-based-employee-wellness-platform-mhealth-raises-funding-from-india-accelerator.md",
-      "title": "AI-based Employee Wellness platform mHealth Raises Funding From India Accelerator",
-      "excerpt": "The company plans to utilize the funds to improve the platform, enhance customer experience and build a larger stack of wellness services on the platform",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/389851",
-      "originalUrl": "https://www.entrepreneur.com/article/389851",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1633602081-mHealthTeamv1.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-07T03:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-google-used-ai-to-recreate-gustav-klimt-paintings-burned-by-nazis.md",
-      "title": "Google used AI to recreate Gustav Klimt paintings burned by Nazis",
-      "excerpt": "Nazis used the castle as a repository for artwork, and historians believe that Nazis intentionally set the fire. Three of the paintings thought to have been destroyed were the \"Faculty Paintings,\" enormous works by Gustav Klimt,",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/gustav-klimt-ai-paintings-google-arts-and-culture",
-      "originalUrl": "https://mashable.com/video/gustav-klimt-ai-paintings-google-arts-and-culture",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/videos/024g7fr7Sij6KPunlz9XEUK/hero-image.fill.size_1200x675.v1633553711.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-07T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

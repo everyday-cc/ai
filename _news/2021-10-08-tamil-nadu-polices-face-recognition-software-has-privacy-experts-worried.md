@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thenewsminute.com/article/tamil-nadu-polices-face-recogn
 cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/tamil-nadu-polices-face-recognition-software-has-privacy-experts-worried-156283?amp"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Face Recognition Software launched"
+    excerpt: "The Face Recognition Software (FRS) for use by city police personnel to aid in investigation was launched here on Wednesday. Commissioner of Police G. Karthikeyan explained the software features and t"
+    publishedDateTime: 2021-10-07T16:51:00Z
+    webUrl: "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece"
+    ampWebUrl: "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Xiaomi Face Recognition Smart Door Lock X Officially Announced"
+    excerpt: "Xiaomi has announced its smartest door lock, namely the Xiaomi Face Recognition Smart Door Lock X. The price is not known yet."
+    publishedDateTime: 2021-10-09T10:27:00Z
+    webUrl: "https://www.gizchina.com/2021/10/09/xiaomi-face-recognition-smart-door-lock-x-officially-announced/"
+    ampWebUrl: "https://www.gizchina.com/2021/10/09/xiaomi-face-recognition-smart-door-lock-x-officially-announced/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/10/09/xiaomi-face-recognition-smart-door-lock-x-officially-announced/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/10/xiaomi-serratura-smart-sblocco-riconoscimento-facciale-3d-prezzo-1024x575.jpg"
+        width: 1024
+        height: 575
+        isCached: true
   - title: "Experts worried about police's 'face recognition software' interfering with people's privacy"
     excerpt: "Tamil Nadu Chief Minister MK Stalin on October 4 announced a Face Recognition Software (FRS) to assist the state police in their investigati..|News Track"
     publishedDateTime: 2021-10-08T12:32:00Z
@@ -42,6 +74,50 @@ related:
       - url: "https://media.newstrack.in/uploads/latest-news/india-news/Oct/08/big_thumb/00_61603a0031bc0.jpg"
         width: 804
         height: 450
+        isCached: true
+  - title: "TDSi GARDiS software now features full integration with Hikvision’s face recognition terminals and ANPR cameras"
+    excerpt: "Integrated security manufacturer, TDSi is pleased to announce that its powerful GARDiS access management software now supports full integration with Hikvision’s face recognition terminals"
+    publishedDateTime: 2021-10-06T10:53:00Z
+    webUrl: "https://www.sourcesecurity.com/companies/hikvision/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 39
+    images:
+      - url: "https://www.sourcesecurity.com/img/news/612/tdsi-announces-full-integration-with-the-rotaone-time-attendance-solution-920x533.jpg"
+        width: 612
+        height: 355
+        isCached: true
+  - title: "Sensory Launches Speech Recognition Model for Children"
+    excerpt: "Sensory has released new speech recognition models that have been specifically trained to recognize children’s unique vocal patterns"
+    publishedDateTime: 2021-10-06T21:28:00Z
+    webUrl: "https://mobileidworld.com/sensory-launches-speech-recognition-model-children-7102103/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 39
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg"
+        width: 800
+        height: 560
+        isCached: true
+  - title: "The Pandemic is Testing the Limits of Face Recognition"
+    excerpt: "Government use of face ID systems exploded during the pandemic—but tying it to critical services has left some people locked out at the moment they needed help the most. At first glance, JB, an artist based in Los Angeles,"
+    publishedDateTime: 2021-10-07T12:16:00Z
+    webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/the-pandemic-is-testing-the-limits-of-face-recognition/12291/"
+    type: article
+    provider:
+      name: Predictive Analytics World
+      domain: predictiveanalyticsworld.com
+    quality: 39
+    images:
+      - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2021/09/270x270-Coursera-Banner-1.jpg"
+        width: 270
+        height: 270
         isCached: true
 
 secured: "2yjyzFd87Bw5mIHHMsIXjG7LWGhOvVIjf9UUyCxyBvABC8oRQLM1K3152yC2ln2CyHvH/Dd4JNJBN1D3aGT66qjdlZqB7nJjFTj3O0SdT2pBvOZuDZFKf+42mQiFhOFHdp1zGuDNOu5CcLdnwTYnzeZM2hB5PvFIOFaf02l9GJWSOYJRz0LwfUbPGM+JKWNc3LIVC7kf1ZI4X6zUHgVjZxos1lWU98Ag/42amAko0FLckpqyxeTLvEUFTch3gAT7ttWwcNtRLdEhdaYeI0yOQfxptlFP9n/59c6Qnhcw35Ia11V2LcLoFTmsyfCBDMzFMCiZoSRlkk0n4zpS5o8LBxMGIxZvR3+Jb6NxnvtyNpc=;HCS31XNuUMmvdCL35+116Q=="

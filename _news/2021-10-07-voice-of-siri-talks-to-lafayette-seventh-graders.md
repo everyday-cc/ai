@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "West Lafayette City Council narrowly moves forward with ban on facial recognition technology"
-    excerpt: "In a 5-4 vote Monday, the West Lafayette City Council moved forward with an ordinance banning the use of facial recognition technology."
-    publishedDateTime: 2021-10-05T16:04:00Z
-    webUrl: "https://www.wbaa.org/post/west-lafayette-city-council-narrowly-moves-forward-ban-facial-recognition-technology"
-    type: article
-    provider:
-      name: WBAA
-      domain: wbaa.org
-    quality: 28
-    images:
-      - url: "https://www.wbaa.org/sites/wbaa/files/styles/medium/public/202110/8362638676_8c94070476_b.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Lafayette students meet voice of Siri: 'She's on the screen — staring at you, studying you'"
     excerpt: "If you've never given much thought to the person behind the voice of Siri, you're not alone. It's something Lafayette students Lilly St. German and Sadie Guillory didn't think about until tasked with creating a podcast about Apple's virtual assistant during their music class."
     publishedDateTime: 2021-10-06T09:00:00Z
