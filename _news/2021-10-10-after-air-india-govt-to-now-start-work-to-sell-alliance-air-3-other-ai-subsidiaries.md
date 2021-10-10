@@ -9,8 +9,8 @@ ampWebUrl: "https://www.india.com/business/after-air-india-govt-to-now-start-wor
 cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/business/after-air-india-govt-to-now-start-work-to-sell-alliance-air-3-other-ai-subsidiaries-5048275/amp/"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: India.com
@@ -26,37 +26,34 @@ images:
     isCached: true
 
 related:
-  - title: "After Air India privatisation, work to monetise Alliance Air, 3 other AI subsidiaries to start now: DIPAM Secy"
-    excerpt: "Air India Air Transport Services Ltd, Airline Allied Services Ltd, Air India Engineering Services Ltd and Hotel Corporation of India Ltd -- along with non-core assets, painting and artefacts, and other non-operational assets,"
-    publishedDateTime: 2021-10-10T09:23:00Z
-    webUrl: "https://www.livemint.com/news/india/after-air-india-privatisation-work-to-monetise-alliance-air-3-other-ai-subsidiaries-to-start-now-dipam-secy-11633855896028.html"
-    ampWebUrl: "https://www.livemint.com/news/india/after-air-india-privatisation-work-to-monetise-alliance-air-3-other-ai-subsidiaries-to-start-now-dipam-secy/amp-11633855896028.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/after-air-india-privatisation-work-to-monetise-alliance-air-3-other-ai-subsidiaries-to-start-now-dipam-secy/amp-11633855896028.html"
+  - title: "Intel imparts training in AI to over 2 lakh students in India"
+    excerpt: "As of today, the company has already trained over 2 lakh students between 8th standard and 12th standard in AI and has upskilled 5,000 government officials. “In July this year, Intel launched ‘AI for All’ programme with a target of enabling over one million citizens with knowledge and know-how of AI,"
+    publishedDateTime: 2021-10-10T12:33:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/intel-imparts-training-in-ai-to-over-2-lakh-students-in-india/article36927598.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/companies/intel-imparts-training-in-ai-to-over-2-lakh-students-in-india/article36927598.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/intel-imparts-training-in-ai-to-over-2-lakh-students-in-india/article36927598.ece/amp/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 37
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 59
     images:
-      - url: "https://images.livemint.com/img/2021/10/10/600x338/INDIA-AVIATION-PRIVATISATION-1_1633856112889_1633856123518.jpg"
-        width: 600
-        height: 337
+      - url: "https://www.thehindubusinessline.com/companies/60pd5t/article36927597.ece/ALTERNATES/LANDSCAPE_615/Nivruti-Rai"
+        width: 615
+        height: 384
         isCached: true
-  - title: "Work to monetise Alliance Air, 3 other AI subsidiaries to start: DIPAM Secy"
-    excerpt: "After AI privatisation, government will now start work on monetising its four other subsidiaries, including Alliance Air, and over Rs 14,700 crore worth non-core assets DIPAM Secy Tuhin Kanta Pandey"
-    publishedDateTime: 2021-10-10T08:28:00Z
-    webUrl: "https://www.business-standard.com/article/companies/work-to-monetise-alliance-air-3-other-ai-subsidiaries-to-start-dipam-secy-121101000373_1.html"
+  - title: "NITI Aayog, AWS, and Intel collaborate to accelerate digital innovation in India"
+    excerpt: "New Experience Studio at the NITI Aayog Cloud Innovation Centre to be hub for collaboration and experimentation."
+    publishedDateTime: 2021-10-10T10:35:00Z
+    webUrl: "https://www.manufacturingtodayindia.com/sectors/11672-niti-aayog-aws-and-intel-collaborate-to-accelerate-digital-innovation-in-india"
+    ampWebUrl: "https://www.manufacturingtodayindia.com/sectors/11672-niti-aayog-aws-and-intel-collaborate-to-accelerate-digital-innovation-in-india?amp"
+    cdnAmpWebUrl: "https://www-manufacturingtodayindia-com.cdn.ampproject.org/c/s/www.manufacturingtodayindia.com/sectors/11672-niti-aayog-aws-and-intel-collaborate-to-accelerate-digital-innovation-in-india?amp"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 35
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/30/full/1632946056-2472.jpg"
-        width: 620
-        height: 464
-        isCached: true
+      name: manufacturingtodayindia
+      domain: manufacturingtodayindia.com
+    quality: 34
 
-secured: "wH+G4zsJwe90kFGZWiLausq7zYK62TYlKDcumZGld/00FN2bWvtuUE2WNzt+dnFhoszwV1XCeVo6vO3UYt6fqKVVbJrOkzvQhwgLL1EFxAdiUpdSRvzKzyKxd2aGUoYLKNSenavfW2k+ccpojpUzSBlyg7PELLgE/qfmY/uT2opwLbDB+sQMuD7BL/kCvMA+ZxYZVW8xqbR8znUZMLl4dI7vNCu0VA+CHkPzQtmJAF8pL3t7Z7vj5HkGm7LyPiYcy5Xp16eN8/q8fQM+5mtjSqBVZ3bTwAzkjbWggOzXIXiLz8o7Kai5gsGJm/8yPFYrpKTRb48//bhUa/S/d0prpxG81VSS5BOW7fveIewZixQ=;qfl3SxY0bwAC1UItcqSBZw=="
+secured: "gpzAQea8LDb2+P6OSTBc7tnK2wfPuVWIIqByj3ez3/yZmWM5bxfrQNs/is3a7hILVtoKF4hWZdU9zVMTXMgvABczoMmzlwZ+IP3tPMjb28sBQEnp50Ue3Do3gzgtjrf8I+gRDOPqV2pFN07uePgnBJ6AZIDFovGPA6kMIDSNOoBt/ArDxQq6I1zzUwPkl/0+cDpqf8FIdUJuNWl32QDwcVHsG7ERsIJHut5xPHDInekL+vciiRVQYTUi11AoGgmX/eAJhgWXFIDkftibCQ1pDFyAXSztetTmffZkAb8qI6pYczWSDfNW9coq6RLstAgVZJ4WudZzeKv11r6nGXvrABUCdE0yjt9dQUbFZ6lJfiOizVG1sHcbPUICueAqeIQMbpMe9bosk3xe7imO3dO+dUs9xQM1vxkRc/a/RvYDv3+o1C2+/ijnRHpMa+mgMSsOdClngvwMVdgjyCVs9mmGs4Qnic/4R+iB6tl1qXDOjET91mW61MoIXB+eb9OdlLQk4ERirLUmwc33TMY0mG8qtA==;7UwMExHZScayikYHrGTr2Q=="
 ---
 

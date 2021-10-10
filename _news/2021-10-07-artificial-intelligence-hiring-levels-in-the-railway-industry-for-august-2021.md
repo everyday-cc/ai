@@ -40,20 +40,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "How the Automotive Industry is Using AI"
-    excerpt: "Artificial intelligence (AI) in the automotive industry is making vehicles autonomous. Learn about driverless vehicles & AI now:"
-    publishedDateTime: 2021-10-05T20:09:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/ai-in-automotive/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 41
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/10/The-interior-of-an-autonomous-driverless-vehicle.jpeg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "How AI will be the energy industry’s unexpected repairman"
     excerpt: "Stephen Kwan, Director of Product Management at Beyond Limits, provides further insights on the applications for AI in the energy sector"
     publishedDateTime: 2021-10-09T09:03:00Z

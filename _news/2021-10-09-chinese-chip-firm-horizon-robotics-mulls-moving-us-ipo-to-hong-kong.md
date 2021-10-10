@@ -9,7 +9,7 @@ ampWebUrl: "https://technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-m
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/"
 type: article
 quality: 91
-heat: 111
+heat: 112
 published: true
 
 provider:

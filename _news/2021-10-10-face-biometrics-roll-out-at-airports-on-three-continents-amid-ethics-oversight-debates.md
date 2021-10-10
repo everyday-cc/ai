@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Veridas sees strong voice biometrics adoption by call centers, Auraya accredited by AWS"
-    excerpt: "Veridas reports impressive adoption of its voice biometrics by call centers, AWS accreditation for Auraya voice biometrics."
-    publishedDateTime: 2021-10-05T19:59:00Z
-    webUrl: "https://www.biometricupdate.com/202110/veridas-sees-strong-voice-biometrics-adoption-by-call-centers-auraya-accredited-by-aws"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 31
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/30151221/shutterstock_478273420-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Delta partners with TSA on face biometrics, Emirates and SITA discuss aviation trends"
     excerpt: "Delta has recently partnered with the U.S. Transport Security Administration (TSA) to deploy face biometrics to streamline check-in and security in Atlanta."
     publishedDateTime: 2021-10-08T16:38:00Z

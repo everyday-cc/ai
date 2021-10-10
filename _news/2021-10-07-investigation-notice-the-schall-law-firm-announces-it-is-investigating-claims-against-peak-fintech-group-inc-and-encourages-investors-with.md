@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Glia named to the 2021 CB Insights Fintech 250 list of top Fintech Startups"
+    excerpt: "CB Insights today named Glia, a leading provider of Digital Customer Service, to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology."
+    publishedDateTime: 2021-10-07T20:24:00Z
+    webUrl: "https://www.cuinsight.com/press-release/glia-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 22
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
+        width: 792
+        height: 266
+        isCached: true
   - title: "INVESTIGATION ALERT: The Schall Law Firm Announces it is Investigating Claims Against Peak Fintech Group Inc. and Encourages Investors with Losses to"
     excerpt: "The Schall Law Firm, a national shareholder rights litigation firm, announces that it is investigating claims on behalf of investors of Peak Fintech Group Inc. (“Peak” or “the Company”) (NASDAQ: TNT) for violations of the securities laws."
     publishedDateTime: 2021-10-06T13:38:00Z
@@ -53,6 +67,15 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Stampli Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
+    excerpt: "CB Insights today named Stampli to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year’s list was unveiled on stage at CB Insights’ Future of Fintech conference in New York City."
+    publishedDateTime: 2021-10-07T14:00:00Z
+    webUrl: "https://www.financialbuzz.com/stampli-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "c37oPkjSHa1xDZHzEKmqQ+1yMnROUbjRVr6Q57OsM6H+yrVD28kRUUj682/6ZGGJ0rMeeumnuTbInExespXgadCo2klGIZFkOSVuDN9yf5qKPfs1rDtA5dU2teEAiD9jZTnOO5kPQPSvWlv0XANtFmvKVSaXcNBAymi5FE1n2227zA4RQ+noDsPC+0n4QWYt3TC9knvgeCJiXJXHEWOrUa0KibUWLkSPCoEcSUq4+hBtHzecbuEVR8T5RzpeFNnYqfH6Jw14aeymQ3NBzRpBTDVvX48gIaeENJcOFRBCdbU8aFa+BXSft8pqH9Vo6PNy/TH/m8lyUX10DPcQOcxlgjLgToneKAfxk2VCrnosNjY=;o1nkGwi4KPXNc6Lg2vRnYQ=="
 ---

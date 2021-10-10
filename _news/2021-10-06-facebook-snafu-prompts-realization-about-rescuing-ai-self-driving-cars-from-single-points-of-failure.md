@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/06/facebook-snafu-pr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/06/facebook-snafu-prompts-realization-about-rescuing-ai-self-driving-cars-from-single-points-of-failure/amp/"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615de07c94907055fb9bcce9%2F0x0.jpg"
         width: 997
         height: 555
-        isCached: true
-  - title: "Need for Rise of Ethical Contents. The Reasons. Today’s Facebook News is just an example. Role of AI"
-    excerpt: "Not just Facebook, any news application can intentionally or unintendedly spread mis-information or wrong content.  Even as in my previous article, there has been mention of foreign forces in playing with the news contents,"
-    publishedDateTime: 2021-10-05T19:46:00Z
-    webUrl: "https://www.linkedin.com/pulse/need-rise-ethical-contents-reasons-todays-facebook-news-nidhika-yadav"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 41
-    images:
-      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
-        width: 1400
-        height: 800
         isCached: true
   - title: "Facebook AI’s SOTA Speech Translation Models Go Against Grain"
     excerpt: "Now, Facebook AI and self-described “AI community” Hugging Face have announced the release of their joint state-of-the-art speech translation models. The models build on previ"

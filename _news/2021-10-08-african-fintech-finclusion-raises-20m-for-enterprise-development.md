@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/african-fintech-
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: pymnts.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Arkansas Leads the Way in Fintech"
-    excerpt: "Financial technology, or fintech, is booming in Arkansas. In recent years, Arkansas has become increasingly prominent in the fintech space, attracting some of the top talent in the field to our state."
-    publishedDateTime: 2021-10-05T19:37:00Z
-    webUrl: "https://www.linkedin.com/pulse/arkansas-leads-way-fintech-mike-preston"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQF45WR3VdIQow/article-cover_image-shrink_720_1280/0/1633462481396?e=1639008000&v=beta&t=ysiYf_jSRzsbyWyOsyPBTs3sgLZ89jkQtCBCyYGVL5M"
-        width: 1258
-        height: 720
-        isCached: true
   - title: "Recipe For A Successful Fintech Start-Up"
     excerpt: "\"You have to, to serve these markets, re-imagine how money can be managed and moved because there’s going to be more change in the next five years in financial services than happened in the past 30\"- Dan Schulman,"
     publishedDateTime: 2021-10-07T14:04:00Z

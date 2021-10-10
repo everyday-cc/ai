@@ -54,20 +54,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "How the Automotive Industry is Using AI"
-    excerpt: "Artificial intelligence (AI) in the automotive industry is making vehicles autonomous. Learn about driverless vehicles & AI now:"
-    publishedDateTime: 2021-10-05T20:09:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/ai-in-automotive/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 41
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/10/The-interior-of-an-autonomous-driverless-vehicle.jpeg"
-        width: 1400
-        height: 933
-        isCached: true
 
 secured: "wjPBRL9tx8EIDOIn7dIdasaz8k1d1urIALC+jdAtCGiNOt9UgCj2UZCImfh67/yXRqEQGWJhB/jylFndBSuQCIuIqc1dsE1aQNYdHegMc4Nvcd8EdlMUtgECcz+5YR2RHbFfcdxHfGzcwQ1LGFWp5YxnSTT9DOiyuQ4SUBkDFWZvRo2CLvQOPSedyBef4DrlbSNVapzPRnU723ZPuTWxyqzLqWhHjYk1Faet1mzO7AXCjYKfjva9FnNDFS9lPOoWNbqE+fqlh1tMkJP4KwWzcLdvhJbKwHihT9g/WT2xekk9K4YoD0cr/zAe+31HjHtuQkgZLuQuxQKi45NNGmloDa/Q5AhJvwTBHBSMFm+oDtCc8GYSy8zFxPxnxiDDNhkiyRxNRbRh4+Ovljdm7cNDCeWXRUOKRvD9Pif+OneGRfwpHk7IxMvfy+PiGPJxER+NeHB2ny7hBx9NsN6iQC8WBeLo+daM8qExLnr/+/o8HKDQlCENS6/IYhOCnWM/LP9yr24Je8hBEK7ozy/Wh36BEQ==;7SoOURPuxVEZlc88o3ay2w=="
 ---

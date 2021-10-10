@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Need for Rise of Ethical Contents. The Reasons. Today’s Facebook News is just an example. Role of AI"
-    excerpt: "Not just Facebook, any news application can intentionally or unintendedly spread mis-information or wrong content.  Even as in my previous article, there has been mention of foreign forces in playing with the news contents,"
-    publishedDateTime: 2021-10-05T19:46:00Z
-    webUrl: "https://www.linkedin.com/pulse/need-rise-ethical-contents-reasons-todays-facebook-news-nidhika-yadav"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 41
-    images:
-      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
-        width: 1400
-        height: 800
-        isCached: true
   - title: "Facebook AI’s SOTA Speech Translation Models Go Against Grain"
     excerpt: "Now, Facebook AI and self-described “AI community” Hugging Face have announced the release of their joint state-of-the-art speech translation models. The models build on previ"
     publishedDateTime: 2021-10-08T07:38:00Z

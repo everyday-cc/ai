@@ -89,22 +89,6 @@ related:
         width: 299
         height: 400
         isCached: true
-  - title: "Google Analytics 4 updates include data-driven attribution, machine learning models to fill in measurement gaps and a Search Console integration"
-    excerpt: "Google hasn’t said when it will deprecate Universal Analytics, but the updates and language in the announcement suggest that search marketers should prepare for the change."
-    publishedDateTime: 2021-10-05T20:00:00Z
-    webUrl: "https://searchengineland.com/google-analytics-4-updates-include-data-driven-attribution-machine-learning-models-to-fill-in-measurement-gaps-and-a-search-console-integration-374970"
-    ampWebUrl: "https://searchengineland.com/google-analytics-4-updates-include-data-driven-attribution-machine-learning-models-to-fill-in-measurement-gaps-and-a-search-console-integration-374970/amp"
-    cdnAmpWebUrl: "https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/google-analytics-4-updates-include-data-driven-attribution-machine-learning-models-to-fill-in-measurement-gaps-and-a-search-console-integration-374970/amp"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 22
-    images:
-      - url: "https://searchengineland.com/figz/wp-content/seloads/2021/05/google_1920.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "c5Rexj5r5EmNrd6+RZXxPGMCgD8YwNzx+G7/jQDCC2bQKDL8U61LjNh2C00959A5+Rv2pVZmxTz3D3VGqVQTKpS9WVJCJxdhyqE7nf6YfGrtRqqTmws3ccxyadwDb2J0pBlQfmZ8MMuTY5ELQCnB2IC7cR9Y6TBDjcXKxrnHgXzND0XxZYOGXMnAuO9eigqLkf/ulTm46KPW2HqALPo0CEzpa68jBTEo3tD2zzMcb6MwmfIOiwUXlpW35qfd/kffGIxNKb61BQv7/VBkkAnOEgiqIcCRAO6Q8OYl+sDmtYEITlbPMMDgIS6SnGVTQRfa+KeIZRmeRX7MmqvUc5hBNOidVUPy6GE2WHmvQGUnih4=;L+4CR1N2s1khKVv3SpKKog=="
 ---

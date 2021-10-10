@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-10-08-african-fintech-finclusion-raises-20m-for-enterprise-development.md",
-      "title": "African FinTech Finclusion Raises $20M for Enterprise Development",
-      "excerpt": "Finclusion Group, which works with online monetary and credit score providers across Africa, recently raised $20 million for enterprise development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/",
-      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/10/Finclusion-investment-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/amp/",
-      "publishedDateTime": "2021-10-08T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-08-finance-insurance-fintechs-future-is-now.md",
       "title": "Finance & Insurance: Fintech’s Future Is Now",
       "excerpt": "As the banks shut down during the pandemic, people largely relied on virtual financial services, fueling a dramatic growth in FinTech.",
@@ -53,7 +10,7 @@
       "originalUrl": "https://businessfacilities.com/2021/10/finance-insurance-fintechs-future-is-now/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1350,6 +1307,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-17-ai-in-fintech-market-is-likely-to-experience-a-tremendous-growth-in-near-future.md",
+      "title": "AI in Fintech Market Is Likely to Experience a Tremendous Growth in Near Future",
+      "excerpt": "Get free access to sample report @  AI in Fintech Market Overview: The study provides comprehensive outlook vital to keep market knowledge up to date segmented by Chatbots, Credit Scoring, Quantitative & Asset Management,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/ai-in-fintech-market-is-likely-to-experience-a-tremendous-growth-in-near-future/",
+      "originalUrl": "https://manometcurrent.com/ai-in-fintech-market-is-likely-to-experience-a-tremendous-growth-in-near-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/ai-in-fintech-market-is-likely-to-experience-a-tremendous-growth-in-near-future/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-fintech-market-is-likely-to-experience-a-tremendous-growth-in-near-future/?amp=1",
+      "publishedDateTime": "2021-09-16T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

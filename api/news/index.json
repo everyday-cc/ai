@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-10-intel-imparts-training-in-ai-to-over-2-lakh-students-in-india.md",
+      "title": "Intel imparts training in AI to over 2 lakh students in India",
+      "excerpt": "As of today, the company has already trained over 2 lakh students between 8th standard and 12th standard in AI and has upskilled 5,000 government officials. “In July this year, Intel launched ‘AI for All’ programme with a target of enabling over one million citizens with knowledge and know-how of AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/companies/intel-imparts-training-in-ai-to-over-2-lakh-students-in-india/article36927598.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/companies/intel-imparts-training-in-ai-to-over-2-lakh-students-in-india/article36927598.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/companies/60pd5t/article36927597.ece/ALTERNATES/LANDSCAPE_615/Nivruti-Rai",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/companies/intel-imparts-training-in-ai-to-over-2-lakh-students-in-india/article36927598.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/intel-imparts-training-in-ai-to-over-2-lakh-students-in-india/article36927598.ece/amp/",
+      "publishedDateTime": "2021-10-10T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-10-these-virtual-obstacle-courses-help-real-robots-learn-to-walk.md",
       "title": "These virtual obstacle courses help real robots learn to walk",
       "excerpt": "As a result, the researchers say they were able to train the robots in less than one-hundredth the time that’s normally required. Using the specialized chips also presented challenges. Nvidia’s chips excel at calculations that are crucial for rendering graphics and running neural networks,",
@@ -62,7 +105,7 @@
       "originalUrl": "https://techbullion.com/artificial-intelligence-is-changing-the-condo-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -83,48 +126,6 @@
       "provider": {
         "name": "Impacts",
         "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-10-after-air-india-govt-to-now-start-work-to-sell-alliance-air-3-other-ai-subsidiaries.md",
-      "title": "After Air India, Govt to Now Start Work to Sell Alliance Air, 3 Other AI Subsidiaries",
-      "excerpt": "As a precursor to Air India sale, the government in 2019 had set up a special purpose vehicle — Air India Assets Holding Ltd (AIAHL) — for holding debt and non-core assets of the Air India group.",
-      "sourceUrl": null,
-      "webUrl": "https://www.india.com/business/after-air-india-govt-to-now-start-work-to-sell-alliance-air-3-other-ai-subsidiaries-5048275/",
-      "originalUrl": "https://www.india.com/business/after-air-india-govt-to-now-start-work-to-sell-alliance-air-3-other-ai-subsidiaries-5048275/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.india.com/wp-content/uploads/2021/09/Air-India.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.india.com/business/after-air-india-govt-to-now-start-work-to-sell-alliance-air-3-other-ai-subsidiaries-5048275/amp/",
-      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/business/after-air-india-govt-to-now-start-work-to-sell-alliance-air-3-other-ai-subsidiaries-5048275/amp/",
-      "publishedDateTime": "2021-10-10T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -481,7 +482,7 @@
       "originalUrl": "https://technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -672,7 +673,7 @@
       "originalUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2021/10/08/thinking-about-ai-to-grow-your-fashion-or-design-brand-let-these-companies-inspire-you/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -854,21 +855,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-08-african-fintech-finclusion-raises-20m-for-enterprise-development.md",
-      "title": "African FinTech Finclusion Raises $20M for Enterprise Development",
-      "excerpt": "Finclusion Group, which works with online monetary and credit score providers across Africa, recently raised $20 million for enterprise development.",
+      "path": "_news/2021-10-08-smart-robots-do-all-the-work-at-nissans-intelligent-plant.md",
+      "title": "Smart robots do all the work at Nissan's 'intelligent' plant",
+      "excerpt": "Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence, analyzing collected data, are able to do it. The technology has developed to that level,",
       "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/",
-      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/",
+      "webUrl": "https://www.theintelligencer.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
+      "originalUrl": "https://www.theintelligencer.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/10/Finclusion-investment-457x274.jpg",
-          "width": 457,
-          "height": 274,
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -876,13 +877,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/amp/",
-      "publishedDateTime": "2021-10-08T09:07:00-07:00",
+      "ampWebUrl": "https://www.theintelligencer.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
+      "cdnAmpWebUrl": "https://www-theintelligencer-com.cdn.ampproject.org/c/s/www.theintelligencer.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
+      "publishedDateTime": "2021-10-08T08:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
+        "name": "Edwardsville Intelligencer",
+        "domain": "theintelligencer.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -892,7 +893,7 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "AI in Robotics",
         "AI"
       ]
     },

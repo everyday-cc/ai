@@ -75,22 +75,6 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 49
-  - title: "Google Analytics 4 updates include data-driven attribution, machine learning models to fill in measurement gaps and a Search Console integration"
-    excerpt: "Google hasn’t said when it will deprecate Universal Analytics, but the updates and language in the announcement suggest that search marketers should prepare for the change."
-    publishedDateTime: 2021-10-05T20:00:00Z
-    webUrl: "https://searchengineland.com/google-analytics-4-updates-include-data-driven-attribution-machine-learning-models-to-fill-in-measurement-gaps-and-a-search-console-integration-374970"
-    ampWebUrl: "https://searchengineland.com/google-analytics-4-updates-include-data-driven-attribution-machine-learning-models-to-fill-in-measurement-gaps-and-a-search-console-integration-374970/amp"
-    cdnAmpWebUrl: "https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/google-analytics-4-updates-include-data-driven-attribution-machine-learning-models-to-fill-in-measurement-gaps-and-a-search-console-integration-374970/amp"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 22
-    images:
-      - url: "https://searchengineland.com/figz/wp-content/seloads/2021/05/google_1920.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Olea Edge Analytics Closes $35M Series C Round to Empower Cities with Artificial Intelligence to Recover Lost Water Revenue"
     excerpt: "Olea Edge Analytics, an intelligent edge computing platform for the water utility industry, today announced the closing of $35 million in Series C funding led by New York-based global private equity and venture capital firm Insight Partners."
     publishedDateTime: 2021-10-06T11:06:00Z

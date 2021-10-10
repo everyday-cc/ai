@@ -72,20 +72,6 @@ related:
         width: 1260
         height: 542
         isCached: true
-  - title: "Build a system for catching adverse events in real-time using Amazon SageMaker and Amazon QuickSight"
-    excerpt: "Social media platforms provide a channel of communication for consumers to talk about various products, including the medications they take. For pharmaceutical companies, monitoring and effectively tracking product performance provides customer feedback about the product, which is vital to maintaining"
-    publishedDateTime: 2021-10-05T20:30:06Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-system-for-catching-adverse-events-in-real-time-using-amazon-sagemaker-and-amazon-quicksight/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 74
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/11/ML-3952-image004.png"
-        width: 864
-        height: 337
-        isCached: true
 
 secured: "eV94Z6xGV1FYDqPndeWTass/I0rmA+OfC+TqYmtrvMIHQLDxCuhGU5lvQV6RHZ4h0scatKwqNhJbnU1x88Pxcsw6adBXqUeYbNBini5fwVrwHlsSX1CCWysWfcAgUQdsgQYmTeCEgP9+A+btnJroL+TXKZF7bLF4O33lwbQBprAiwRASQWRYKQCxH8vZETZ1SgOatP0TF2OoaIP7Rq5LOaeNP85JJ69PXLQALUZpGEGagZpjGfvzdZLx2QE+ZK1PL7ESJ6v6GfQ3YzvodiJD71g3SkNKbMpRTRmu7+Q41g5nHo/iBJFuYXJMX5peI0WM4PVIyCNU919etXpeBv943r1g890ZIqj+cVyi5pDcMUk=;OxDpf+HIBxqOnh2Zj8k9PA=="
 ---
