@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rebeccasuhrawardi/2021/10/08/thinking-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccasuhrawardi/2021/10/08/thinking-about-ai-to-grow-your-fashion-or-design-brand-let-these-companies-inspire-you/amp/"
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Everything You Need to Know About Artificial Intelligence, According ..."
-    excerpt: "Chinmaya Madan of Toronto Explains the Ins and Outs of Artificial Intelligence TORONTO, ON / ACCESSWIRE / October 6, 2021 / Starting back in the 1950s, the fathers of the artificial intelligence (AI) field,"
-    publishedDateTime: 2021-10-06T18:15:00Z
-    webUrl: "https://www.pr-inside.com/everything-you-need-to-know-about-artificial-intelligence-according-r4849874.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 36
-    images:
-      - url: "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Embracing AI in the World of Auto Insurance"
     excerpt: "In this special guest feature, John Goodson, Senior Vice President Product Development and Technology for CCC Intelligent Solutions, discusses how in the world of auto insurance, AI provides unprecedented clarity to reduce risk and elevate the customer experience by enabling faster decision-making than ever before – helping to keep people’s lives moving forward when it matters most."
     publishedDateTime: 2021-10-10T13:00:00Z

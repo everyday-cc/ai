@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/10/07/elon-musk-releases-more-details-tesla
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/07/elon-musk-releases-more-details-tesla-full-self-driving-beta-wider-release/amp/"
 type: article
 quality: 97
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.cnet.com/a/img/HVaaHhjDY5Cu1wSngHfxbRUraKg=/2021/10/06/3836995a-9a1e-4556-896a-24436729ed73/ogi-gm.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Tesla delays full self-driving roll out citing last minute concerns"
+    excerpt: "Thousands of Tesla owners woke up to disappointment on Saturday following an early morning tweet from CEO Elon Musk. He cited last minute concerns that would"
+    publishedDateTime: 2021-10-10T13:56:00Z
+    webUrl: "https://www.techspot.com/news/91667-tesla-delays-full-self-driving-roll-out-citing.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/91667-tesla-delays-full-self-driving-roll-out-citing.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91667-tesla-delays-full-self-driving-roll-out-citing.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-09-image-9.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "Tesla Halts Rollout of Full Self-Driving Beta to Drivers With ‘Perfect’ Safety Scores"
     excerpt: "Tesla planned to release beta version 10.2 to roughly 1,000 drivers on Friday, but it didn't happen. Musk cited \"last-minute concerns about the build.\""

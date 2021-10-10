@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-20033512.html"
 webUrl: "https://www.lelezard.com/en/news-20033512.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 640
     height: 480
     isCached: true
-
-related:
-  - title: "MLOps platform Domino Data Lab nabs $100M"
-    excerpt: "Domino Data Lab, an MLOps platform aimed at enterprise customers, has raised $100 million in a funding round, with participation from Nvidia."
-    publishedDateTime: 2021-10-05T21:05:00Z
-    webUrl: "https://venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/"
-    ampWebUrl: "https://venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 172
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/cf29b39c-24c2-421b-b839-f590ce3123f7-e1591042839433.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "yowjmxo6iDfcNfxHhE9LXFQN3yie+2P5cgAm7RiAmm8bTIHuNQGgImQ0WLyG7Crs//g+qASiwNnnFoyibf19Qk1/tp3/I8wlo3g77Z8/N3nL2Fcp6o1oAa81Vr4ihcmYRNo2rTIpXYkv9HoLgzjxWDhOVcBOMYjxyaDz0+WPZsygvhJncxhQrQY0uk2comNQ8HtvsrSOnUYX2tsEq5f+PEruQSJ9/eKSdL6FuO9MqY78UvbY+i7w70aCTtx5AItoscQNcqWHiqxirlPV030uSAwY9jQ2nrWIoHCtu/c5rUQKm19KNCJWw1a72aWrFINGc8Ux47Xr2+Kf5kNZGkrYLRqIPNZ1PLwiAJXOUC9+a/E=;eLrNdB9iVuBCi3WexVLUEw=="
 ---

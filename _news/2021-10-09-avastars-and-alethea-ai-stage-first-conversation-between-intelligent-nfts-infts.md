@@ -2,23 +2,23 @@
 category: news
 title: "Avastars And Alethea AI Stage First Conversation Between Intelligent NFTs (iNFTs)"
 excerpt: "AI Collaboration Proves NFTs Aren't Just Capable of Communicating Directly with Humans, but Also with Each Other"
-publishedDateTime: 2021-10-08T19:39:00Z
-originalUrl: "https://www.kfvs12.com/prnewswire/2021/10/08/avastars-alethea-ai-stage-first-conversation-between-intelligent-nfts-infts/"
-webUrl: "https://www.kfvs12.com/prnewswire/2021/10/08/avastars-alethea-ai-stage-first-conversation-between-intelligent-nfts-infts/"
+publishedDateTime: 2021-10-08T20:39:00Z
+originalUrl: "https://www.1011now.com/prnewswire/2021/10/08/avastars-alethea-ai-stage-first-conversation-between-intelligent-nfts-infts/"
+webUrl: "https://www.1011now.com/prnewswire/2021/10/08/avastars-alethea-ai-stage-first-conversation-between-intelligent-nfts-infts/"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: KFVS12
-  domain: kfvs12.com
+  name: 1011 Now
+  domain: 1011now.com
 
 topics:
   - AI
 
 images:
-  - url: "https://gray-kfvs12-prod.cdn.arcpublishing.com/resizer/515raYnGYiAh_iZS8u752n1Xt8Y=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/BD6FTZLL7G45EDT4FOKUEZTYEQ.jpg"
+  - url: "https://gray-koln-prod.cdn.arcpublishing.com/resizer/515raYnGYiAh_iZS8u752n1Xt8Y=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/BD6FTZLL7G45EDT4FOKUEZTYEQ.jpg"
     width: 980
     height: 551
     isCached: true
@@ -39,6 +39,6 @@ related:
         height: 281
         isCached: true
 
-secured: "G1CWcq2ObPhBfuo4YTpgbj3XSjLCylC0H05ggX1cNzttd4BL0lm1r5ppqC2cee193zuL/AoljZOPBAejypvau9rQWgHvrZepuuhHojhAPRD8C9bU9sCXuI74u1VU2cBn+quZqgzZSQsBTpw/pA4FXsRXAzarJw4G0ledJGTDYXGVD/9X5iOJ2izTefgBrRlVGGqVqvzQC625yPCR4MZVrtJpgMnW356ZWSXChtVXjmeHXkbRTuJZtBuF9QhMjYeCtzTXVHj+lkliwP4iII7asBmaPQjo9vWkhBruLowUE+VzKxjUYPy4X2bj0sF9AXP5yZDNJ0m03kcmheyDQ6U5FXaizZAyc4VijDljZVzRwFE=;wISEtq7FqUaTswg6ygz74A=="
+secured: "GsupA80r8MOr8puKbXbY01LlD3URtRJlf1Z2aOk/8Tqlsv8HHI2MZwgumaJG6PKSLa0Gt6wz8YjvAYw1AsY59Lb4ppV34aq7mum8gsD2vT7kgztgx9gXkLKJc2eHAx7QXONhIErhlCPeQyplHkPs5fMOEXjEWklx8Q5U4Aa8JECOzlvNd0Yqalu8spFyAU1evu0Z8VnIkVloMs7+Ko30BgmAxjsOglS5ohL3iWJ9RxcsWyyj0gaD2mLZ/0bWB9s3Y7qOMlsiUAVQm4hoGuCj1Z84jat2srCx/culuF1srxoV8HV3XJ1s/1R1wpV9ObaiVoJMBNTltq2JFpXecICVtGi+kpdVgm1nnoUgSksiKQA=;IOLBQDEB+8E9/MEsAtHmKw=="
 ---
 

@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Everything You Need to Know About Artificial Intelligence, According ..."
-    excerpt: "Chinmaya Madan of Toronto Explains the Ins and Outs of Artificial Intelligence TORONTO, ON / ACCESSWIRE / October 6, 2021 / Starting back in the 1950s, the fathers of the artificial intelligence (AI) field,"
-    publishedDateTime: 2021-10-06T18:15:00Z
-    webUrl: "https://www.pr-inside.com/everything-you-need-to-know-about-artificial-intelligence-according-r4849874.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 36
-    images:
-      - url: "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "qlna3leBCBGsNzFnW9Pp9CbA6DaVwWntjv9WBLKy2fFtDr55bIsSMVHWld6urpYYQEIz8bZzJwJ2F6uxujdBT9B9hqnTqF9KbnwHRHmtAiCzd381VJx3dyfgJCeNhlDJB+w5b0bl41N3HEy/kVLQCLN1sXaVcVFWfvm6wpBmv+AOxf1q42CuNeruC1W1MXRo93s9jdinqoyD7VfmY8eS56bmKfpGfMXzm3/2tGuFvefpTXRyuhSIzG2Dpwry40Xyi8O5GAVh8m4/1Rtsfnw5zw5y4dStSJzSREd4DGfK4kFEk6MH3rTp9BpH92txc6XtR3sJjPWoj81jXea1ytLPcNKN6ZtHj2lRcbNPq7m8tUa5NMxftYjO1qowHL6f2s5Kqb3sx2Xto44AYuqy3I8b+XhmuWO387+HpN1MGebB2XkGzhMYx0vG7Xh2JdwMzK1G771EjjTOFAu75AInmf3RAvZ9bFInvT/RWGlv5UmYOSTB/6JVJGUP4QniMplIPadvRMcy9ktTZpw/j/QLZES9tQ==;Mor5fspYdHU8c3X7A02/kQ=="
 ---

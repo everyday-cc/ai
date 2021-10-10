@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/10/211004203419.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/10/211004203419.htm"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -23,19 +23,65 @@ topics:
   - AI
 
 related:
-  - title: "Geely has built satellites to guide its self-driving cars"
-    excerpt: "After bang-for-your-buck crossovers and sedans, affordable electric vehicles, and high-end smartphones, Geely is now building satellites. Eighteen months after the start of construction of its satellite production and testing center in Taizhou,"
-    publishedDateTime: 2021-10-06T04:30:00Z
-    webUrl: "https://www.topgear.com.ph/news/industry-news/geely-satellites-self-driving-vehicles-a4354-20211006"
+  - title: "Bothering And Even Spying On Your Neighbors Via An AI Self-Driving Car"
+    excerpt: "And these well-to-do neighbors have lobbed acrid accusations as to the other neighbor having either started the feud or carried the tit-for-tat extraordinarily overboard, as it were (overboard as in like a tiny ship!"
+    publishedDateTime: 2021-10-10T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/amp/"
     type: article
     provider:
-      name: Top Gear Philippines
-      domain: topgear.com.ph
-    quality: 24
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "http://images.summitmedia-digital.com/topgear/images/2021/10/06/geely-satellite-production-self-driving-cars-02-1633490695.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb1f6671031050167509541%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D285%26cropY2%3D3444"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Facebook Snafu Prompts Realization About Rescuing AI Self-Driving Cars From Single Points Of Failure"
+    excerpt: "Why singles points of failure are dangerous for self-driving cars and how redundancy is needed to aid in reducing risks."
+    publishedDateTime: 2021-10-06T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/06/facebook-snafu-prompts-realization-about-rescuing-ai-self-driving-cars-from-single-points-of-failure/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/06/facebook-snafu-prompts-realization-about-rescuing-ai-self-driving-cars-from-single-points-of-failure/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/06/facebook-snafu-prompts-realization-about-rescuing-ai-self-driving-cars-from-single-points-of-failure/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601893ecc2c4f9d38496d638%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2048%26cropY1%3D219%26cropY2%3D1371"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Federal Government Spending on AI is Accelerating"
+    excerpt: "The adoption of AI by the US federal government is accelerating, with defense agencies leading the way and services suppliers benefitting."
+    publishedDateTime: 2021-10-07T18:11:00Z
+    webUrl: "https://www.aitrends.com/ai-in-government/federal-government-spending-on-ai-is-accelerating/"
+    type: article
+    provider:
+      name: aitrends
+      domain: aitrends.com
+    quality: 39
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/10/10-8FederalAISpending-2.jpeg"
+        width: 550
+        height: 352
+        isCached: true
+  - title: "Everything You Need to Know About Artificial Intelligence, According ..."
+    excerpt: "Chinmaya Madan of Toronto Explains the Ins and Outs of Artificial Intelligence TORONTO, ON / ACCESSWIRE / October 6, 2021 / Starting back in the 1950s, the fathers of the artificial intelligence (AI) field,"
+    publishedDateTime: 2021-10-06T18:15:00Z
+    webUrl: "https://www.pr-inside.com/everything-you-need-to-know-about-artificial-intelligence-according-r4849874.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 36
+    images:
+      - url: "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Apple Admits It’s Working on Self-Driving Car Technology"
     excerpt: "It’s been a while since we last heard something about the Apple Car, but this doesn’t necessarily mean the Cupertino-based tech giant has abandoned plans for its own self-driving car."

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/06/facebook-snafu-pr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/06/facebook-snafu-prompts-realization-about-rescuing-ai-self-driving-cars-from-single-points-of-failure/amp/"
 type: article
 quality: 76
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -32,49 +32,72 @@ images:
     isCached: true
 
 related:
-  - title: "Most Self-Driving Demonstrations Are Theater, Here’s How To Make Them More Real"
-    excerpt: "Many self-driving teams have released videos of their cars driving without problems in order to impress. But cherry picked videos say little. By doing a random route at a random time and showing it live,"
-    publishedDateTime: 2021-10-06T17:46:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/amp/"
+  - title: "Bothering And Even Spying On Your Neighbors Via An AI Self-Driving Car"
+    excerpt: "And these well-to-do neighbors have lobbed acrid accusations as to the other neighbor having either started the feud or carried the tit-for-tat extraordinarily overboard, as it were (overboard as in like a tiny ship!"
+    publishedDateTime: 2021-10-10T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 70
+    quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615de07c94907055fb9bcce9%2F0x0.jpg"
-        width: 997
-        height: 555
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb1f6671031050167509541%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D285%26cropY2%3D3444"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Facebook AI’s SOTA Speech Translation Models Go Against Grain"
-    excerpt: "Now, Facebook AI and self-described “AI community” Hugging Face have announced the release of their joint state-of-the-art speech translation models. The models build on previ"
-    publishedDateTime: 2021-10-08T07:38:00Z
-    webUrl: "https://slator.com/facebook-ai-sota-speech-translation-models-go-against-grain/"
+  - title: "Federal Government Spending on AI is Accelerating"
+    excerpt: "The adoption of AI by the US federal government is accelerating, with defense agencies leading the way and services suppliers benefitting."
+    publishedDateTime: 2021-10-07T18:11:00Z
+    webUrl: "https://www.aitrends.com/ai-in-government/federal-government-spending-on-ai-is-accelerating/"
     type: article
     provider:
-      name: Slator
-      domain: slator.com
+      name: aitrends
+      domain: aitrends.com
     quality: 39
     images:
-      - url: "https://slator.com/assets/2021/10/Facebook-Speech-to-Speech-Machine-Translation.png"
-        width: 600
-        height: 400
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/10/10-8FederalAISpending-2.jpeg"
+        width: 550
+        height: 352
         isCached: true
-  - title: "Digital Brief: Facebook fallout, 2022 digital agenda, AI in law enforcement"
-    excerpt: "Welcome to EURACTIV’s Digital Brief, your weekly update on all things digital in the EU. You can subscribe to the newsletter here.  “The things I saw at Facebook over and over again was,"
-    publishedDateTime: 2021-10-08T14:15:00Z
-    webUrl: "https://www.euractiv.com/section/digital/news/digital-brief-facebook-fallout-2022-digital-agenda-ai-in-law-enforcement/"
+  - title: "Everything You Need to Know About Artificial Intelligence, According ..."
+    excerpt: "Chinmaya Madan of Toronto Explains the Ins and Outs of Artificial Intelligence TORONTO, ON / ACCESSWIRE / October 6, 2021 / Starting back in the 1950s, the fathers of the artificial intelligence (AI) field,"
+    publishedDateTime: 2021-10-06T18:15:00Z
+    webUrl: "https://www.pr-inside.com/everything-you-need-to-know-about-artificial-intelligence-according-r4849874.htm"
     type: article
     provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 37
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 36
     images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/10/1-1-800x450.png"
-        width: 800
-        height: 450
+      - url: "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Making self-driving cars human-friendly"
+    excerpt: "Automated vehicles could be made more pedestrian-friendly thanks to new research which could help them predict when people will cross the road. Scientists investigating how to better understand human behavior in traffic say that neuroscientific theories of how the brain makes decisions can be used in automated vehicle technology to improve safety and make them more human-friendly."
+    publishedDateTime: 2021-10-06T13:07:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/10/211004203419.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
+  - title: "Apple Admits It’s Working on Self-Driving Car Technology"
+    excerpt: "It’s been a while since we last heard something about the Apple Car, but this doesn’t necessarily mean the Cupertino-based tech giant has abandoned plans for its own self-driving car."
+    publishedDateTime: 2021-10-09T06:41:00Z
+    webUrl: "https://www.autoevolution.com/news/apple-admits-its-working-on-self-driving-car-technology-171342.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 24
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/apple-admits-its-working-on-self-driving-car-technology-171342-7.jpg"
+        width: 728
+        height: 300
         isCached: true
 
 secured: "6MLiAUwBQ0Jnu23xZgfJiXzUy6pju4lTobgcU324+/modfUjNF3rhApxPjqTNykTPXHVIaa5Cv15swg+xvX1aQQIWgHohjCWozumLjjM2wxh5JvaGOoP+09FRnUggDnkblFUJThXUMZo9NIBspWgVw6jcgczfbQNQuGW2IZx0RyQJbzStRSXKg5SZqaOX60i/1MJMfTjcPc3LM4s0lQDsSN8XCz8PfjrEEsHGierigNHsS/P22qjXpogE0c37IHPJ5aIrTRdQwaXyC457PusNJxpIdK8wu8ZGaHImaoEaq0ex7IRZrclLaePX0jbhdPTf+rCfUU8vWaBeL62thmpwj8YK60PbcLhoXYpa3pCx7F+YxGyKWAC3FrT48ypVmK9CzA+I1oTjITMD2boxRmhML0Coe2T+sjsyAt1g7aTwHxZfYs6q1Vj9FWjFdCu8q7RTz02qFI2mcuovVRQ+5oWIGuDpI4IBTqqNSw4YrHYen1Dxw8uNytiHTaVroJJoa26NgEjai8Gyc9Q0VuP2VwY/w==;6Bu/87rf8SVHSdHU6jsLkA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizchina.com/2021/10/08/realme-gt-neo-2t-is-coming-with-
 cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/10/08/realme-gt-neo-2t-is-coming-with-dimensity-1200-ai-customized-chip/amp/"
 type: article
 quality: 76
-heat: 77
+heat: 76
 published: true
 
 provider:

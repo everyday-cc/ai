@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla delays full self-driving roll out citing last minute concerns"
+    excerpt: "Thousands of Tesla owners woke up to disappointment on Saturday following an early morning tweet from CEO Elon Musk. He cited last minute concerns that would"
+    publishedDateTime: 2021-10-10T13:56:00Z
+    webUrl: "https://www.techspot.com/news/91667-tesla-delays-full-self-driving-roll-out-citing.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/91667-tesla-delays-full-self-driving-roll-out-citing.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91667-tesla-delays-full-self-driving-roll-out-citing.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-09-image-9.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Tesla wants to share ‘Full Self-Driving’ with other automakers when it has yet to deliver it to people who paid for it"
     excerpt: "Driving” software to other automakers, but the company has yet to deliver the feature to Tesla owners who paid for it. At Tesla’s shareholder’s meeting yesterday, CEO Elon Musk announced that Tesla is considering licensing its “Full Self-Driving” (FSD) software to other automakers: I think Tesla’s open"
     publishedDateTime: 2021-10-08T19:03:00Z

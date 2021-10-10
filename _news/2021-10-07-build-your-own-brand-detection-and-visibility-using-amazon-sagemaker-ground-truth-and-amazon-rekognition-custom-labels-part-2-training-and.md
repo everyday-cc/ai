@@ -58,20 +58,6 @@ related:
         width: 902
         height: 416
         isCached: true
-  - title: "Detect defects in automotive parts with Amazon Lookout for Vision and Amazon SageMaker"
-    excerpt: "According to a recent study, defective products cost industries over $2 billion from 2012–2017. Defect detection within manufacturing is an important business use case, especially in high-value product industries like the automotive industry. This allows for early diagnosis of anomalies to improve production"
-    publishedDateTime: 2021-10-05T22:10:33Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/detect-defects-in-automotive-parts-with-amazon-lookout-for-vision-and-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 81
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/04/ML-2758-archdiag-1260x542.png"
-        width: 1260
-        height: 542
-        isCached: true
 
 secured: "ANau+tmYjGxRIJcw1KchtHH/2KIlcm1YeBDKMVCQZ/YVjCOODslN5JKIJT/UmV64PbFIlKOGtwaJyGMUZCl6ZeOxapqwuIUb0MmI1sUDzUoJkPkHhUoJjZUx4QAT9SkugoAFqpZ0EIyX/9dSf7NYTYzdidJQDaPHbgFv1zqusmsDyfdJR6J7DHwmAqY/5vKvA3JxmzV5XPqLyDawzbOdkz8oMAcV7ONysX8qzZSfjwuS2YuQm77e5zeMZYis0BYepyPhQj3iHtlaY1VawMMYn07hBy8nWn0dxduOiJXfkJW6bVJD1cT/8uYtuDf3eG7iIaJTBPWYZthij4j/nb4Au/2kJgk4MPATHkBvHti8C2I=;WhFcaBuRbgq8vNsg8WW0vw=="
 ---

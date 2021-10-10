@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-06T00:07:00Z
 originalUrl: "https://www.chron.com/business/article/China-publishes-code-of-ethics-to-regulate-16510963.php"
 webUrl: "https://www.chron.com/business/article/China-publishes-code-of-ethics-to-regulate-16510963.php"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://s.hdnux.com/photos/01/22/14/54/21547828/3/rawImage.jpg"
@@ -24,6 +25,6 @@ images:
     height: 1333
     isCached: true
 
-secured: "hq4cbfDJqULxYbzot9XEjkayKoS0Yagiix5PGanX8bWhooc0pyW9JOmnD0YMoUAYQfHxZb/XBqAANpUsKc64jSARy152rUMeEcZ3o/JbNADLFGT2hHuwX5oMjAH8dnrr4EMX+tfDUcYdE4RA3zObSlCN0kZd3SABz0C/+VaDkDHd5rRcKvKDxyO+j8mZ1Ymnd7X24RzJko6e4Q2UM63beL+h6ZA1fdrWCvCFPZY7s1Sgfykc6tT7lEHmyvdy+m43C8HOYgxfGwkTo6ou9Hd00HcB39WhR0dr2LsdGgPWxV2E5ulMcyKs10WPZQkDr+kXcrj8upJEhpMHRMTzYQtJUq9YT4NNunSQCF052Cb8mkc=;27WPnwtIvx62eAwyvY/vVw=="
+secured: "6ssDvQJqoFzp4MQcsoXvDZFT2R3KPBkpzxkdRkZHZuIfjI3xNlXGhPx5MdNUfK5oOyQXbVjE37XVHpSNahV0AeIKOepG7//MD3VwNI1mL20TVb/OQMfSPEyClGWgLMmRQFmC9ICHpFgSiEL/8ZD+Y/TDaLMbbUKSKoP3zHN4tKLVmm8YlhQ3C1gBa/u3gOaDvnlS1yTRzJQKgZQB6AiRvW4Y83+1CmLuiYlWK1kG3HtLmPoq+ABYved9+TVN+fqx8EyTaqBv8stKReii4q/eX6nOOpL3iGAGWZlt8y/IaylaxpEes80S1qo3dxIEaIhblO0YXb5XcqKKNnIihzidO3v1L6Opu7Cn8UgjXDIy5FbllHaLBlShfpQyWQw6QteJtA8UV1YrJ34MYkCqF5ao0Y/doERCuhuvYrF2dL6AewPgXZtFsrC4Otus/KwwMcdaFcfDhe0mjb2hfjiDtxHyJ+N6tfG68+mZWy3kTMabkOQHCdeSVvB0++PMeAxT5CqblxsuB2yGsLMs9dXMsnEfbA==;zTf+M8HDTt+1ox1EbhE2rA=="
 ---
 

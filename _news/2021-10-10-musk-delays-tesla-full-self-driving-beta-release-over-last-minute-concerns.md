@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla delays full self-driving roll out citing last minute concerns"
+    excerpt: "Thousands of Tesla owners woke up to disappointment on Saturday following an early morning tweet from CEO Elon Musk. He cited last minute concerns that would"
+    publishedDateTime: 2021-10-10T13:56:00Z
+    webUrl: "https://www.techspot.com/news/91667-tesla-delays-full-self-driving-roll-out-citing.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/91667-tesla-delays-full-self-driving-roll-out-citing.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91667-tesla-delays-full-self-driving-roll-out-citing.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-09-image-9.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Tesla Halts Rollout of Full Self-Driving Beta to Drivers With ‘Perfect’ Safety Scores"
     excerpt: "Tesla planned to release beta version 10.2 to roughly 1,000 drivers on Friday, but it didn't happen. Musk cited \"last-minute concerns about the build.\""
     publishedDateTime: 2021-10-10T05:30:00Z
