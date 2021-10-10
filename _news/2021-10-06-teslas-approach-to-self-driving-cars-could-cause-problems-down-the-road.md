@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla gears up to launch self-driving software but with a catch"
-    excerpt: "Tesla will monitor driving behaviors before allowing owners to take advantage of its Full Self-Driving software."
-    publishedDateTime: 2021-10-05T10:03:00Z
-    webUrl: "https://www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/"
-    ampWebUrl: "https://www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/?amp=1"
-    cdnAmpWebUrl: "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/?amp=1"
-    type: article
-    provider:
-      name: PropertyCasualty360
-      domain: propertycasualty360.com
-    quality: 59
-    images:
-      - url: "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2021/09/Tesla-autopilot.jpg-image620x372.jpg"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Tesla insurance will change the way you think about driving"
     excerpt: "Elon Musk has revealed more information about Tesla’s car insurance product at the company’s shareholder meeting on Friday morning (Australia time), and it signals a potentially massive shift in driving behaviour."
     publishedDateTime: 2021-10-08T01:08:00Z
@@ -72,6 +56,20 @@ related:
       - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2020/10/Cadillac-CT4-V-with-SC-1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "GM’s Ultra Cruise Will Leapfrog Tesla Autopilot, Offer Full Hands-Free Driving Virtually Everywhere"
+    excerpt: "GM aims to take the lead in the race to develop autonomous driving with the new Ultra Cruise system. Set to debut in 2023 it will allow hands-free operation on 2 million miles of road - and that will grow to 3."
+    publishedDateTime: 2021-10-06T22:26:00Z
+    webUrl: "https://www.thedetroitbureau.com/2021/10/gms-ultra-cruise-will-leapfrog-tesla-autopilot-offer-full-hands-free-driving-virtually-everywhere/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 25
+    images:
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/10/GM-Ultra-Cruise-graphic-1.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "BTEFXdgObVsqz8gzeqSqd1slO/RDrqZZkxWqgC1tM2R4Zq/OsCovFynlyvL7HtlLBwks8UUZJ1O82IB6zaRYtqsNoWNQnLo3eWq38xcFJ0rSNHLG4Vs+ciwSPeuYbcoSYaGk3h/QJ5X+ZfQiOZucms0wgxerHzsfba3vt3Eu/yXf58TJvNuxp2nQ0aANNUSec7A99Vndl9A9XSx5mKL4U8iUtuFT0cvbttJfOCrM6ZWUl7izBrWWqVlbd7WhqHEFDB2mEVzlotJXolSO1Gt6csdoO5VpSHreJAMtpjQVaVC/BlBzeSt9U+h0hyHlAMztR+xzyvS78Q4gDIgbe92ZhWm3uPTULmJQeQZszVRfskQ/TV8VA353kkw9Du8hYNUzBSeCEaW4ykvrWer8OIxqryAjeYYyOvDE6VWopnnv6oVR39DIDWB/OuGSccvQYA09Tv6abWpgQz+RlsIOAQ+l4GAQnmy9tWR0UKbZj70IirlEXeVsjC1fVAbLLSHBrG2MH7/6Q2tfv9X12oedqHDTbQ==;BeKWsmNHCAo/YGETDwXw6Q=="

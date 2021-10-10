@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/canadians-asked-to-comment-on-
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/canadians-asked-to-comment-on-draft-guidance-for-police-use-of-facial-recognition/459786?amp=1"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "This is best practice for using facial recognition in law enforcement"
-    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Lofred Madzou, Project Lead, Artificial Intelligence and"
-    publishedDateTime: 2021-10-05T10:30:00Z
-    webUrl: "https://europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/"
-    ampWebUrl: "https://europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/amp/"
-    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/amp/"
-    type: article
-    provider:
-      name: europeansting.com
-      domain: europeansting.com
-    quality: 59
-    images:
-      - url: "https://europeansting.files.wordpress.com/2021/10/face.webp"
-        width: 687
-        height: 1031
-        isCached: true
   - title: "EPP refuse call to ban public facial recognition systems for policing"
     excerpt: "MEPs for the first time call for a moratorium on the deployment of facial recognition systems for law enforcement purposes"
     publishedDateTime: 2021-10-06T13:02:00Z

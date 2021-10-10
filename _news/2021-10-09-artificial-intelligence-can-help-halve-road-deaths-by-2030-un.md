@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-09T14:57:00Z
 originalUrl: "https://news.webindia123.com/news/articles/World/20211009/3834328.html"
 webUrl: "https://news.webindia123.com/news/articles/World/20211009/3834328.html"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 related:
   - title: "Artificial intelligence can help halve road deaths by 2030, say UN envoys"

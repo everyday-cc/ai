@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gap Inc. acquires AI startup CB4 to drive sales"
-    excerpt: "Gap has acquired AI startup CB4 to improve retail operations through predictive analytics and demand sensing. “We believe artificial intelligence and machine learning will shape the future of our industry."
-    publishedDateTime: 2021-10-05T10:26:00Z
-    webUrl: "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600"
-    ampWebUrl: "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600"
-    cdnAmpWebUrl: "https://fashionunited-com.cdn.ampproject.org/c/s/fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600"
-    type: article
-    provider:
-      name: fashionunited.com
-      domain: fashionunited.com
-    quality: 74
-    images:
-      - url: "https://fashionunited.com/UUP2jAnSbMTf2wCkU6WZm5VCOGW7PmAHjB96odlvT0E/resize:fill:1388:781:1/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvbWFzdGVyLzIwMjEvMTAvMDUvMTIwMHB4LWdhcC1sb2dvLXN2Zy1mMHdvaDQ5aC0yMDIxLTEwLTA1LmpwZWc"
-        width: 1388
-        height: 781
-        isCached: true
   - title: "US firm acquires Keralite's AI start-up"
     excerpt: "Kochi: Uncanny Vision, an artificial intelligence start-up registered in Kerala has been acquired by a US-based company, Eagle Eye Networks, having a global presence. Interestingly, the company has a curious’ triangular South Indian equation’."
     publishedDateTime: 2021-10-06T15:47:00Z
@@ -56,20 +40,6 @@ related:
         width: 490
         height: 268
         isCached: true
-  - title: "Gap buys artificial intelligence start-up Context-Based 4 Casting"
-    excerpt: "SoQ錫濛譙 / Flickr. US-based lifestyle retailer Gap has purchased artificial intelligence (AI) start-up Context-Based 4 Casting (CB4) for an undisclosed sum. Based in New York, CB4 uses advanced AI and machine learning tools to make predictive analytics and demand sensing to support sales and streamline the customer experience."
-    publishedDateTime: 2021-10-05T15:25:00Z
-    webUrl: "https://www.retail-insight-network.com/news/gap-cb4-acquisition/"
-    type: article
-    provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
-    quality: 37
-    images:
-      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/10/Gap.jpg"
-        width: 799
-        height: 532
-        isCached: true
   - title: "Gap Inc acquires AI start-up CB4"
     excerpt: "Gap Inc has acquired AI start-up Context-Based 4 Casting Ltd (CB4) that uses machine learning tools to transform retail operations."
     publishedDateTime: 2021-10-05T11:33:00Z
@@ -84,33 +54,19 @@ related:
         width: 1773
         height: 1182
         isCached: true
-  - title: "Gap Inc. Acquires US-Israeli Retail AI Startup CB4"
-    excerpt: "CB4’s technology makes recommendations that support new sales and more satisfied customers through the resolution of frequent in-store issues."
-    publishedDateTime: 2021-10-05T16:49:00Z
-    webUrl: "https://nocamels.com/2021/10/gap-inc-acquires-us-israeli-retailai-startup-cb4/"
+  - title: "Aussie AI start-up acquired by US giant"
+    excerpt: "Sydney-based start-up Hyper Anna has become the latest Aussie tech player to be bought by a large US firm, with NYSE-listed Alteryx swooping in."
+    publishedDateTime: 2021-10-07T13:00:00Z
+    webUrl: "https://www.afr.com/technology/aussie-ai-start-up-acquired-by-us-giant-20211007-p58y3u"
     type: article
     provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
+      name: The Australian Financial Review
+      domain: afr.com
     quality: 37
     images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/12/retail.jpg"
+      - url: "https://static.ffx.io/images/$zoom_2.1456%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_3008%2C$y_975/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/6a5ea304d71ea8dc641b4c87ece37d3d029442dc"
         width: 1200
-        height: 900
-        isCached: true
-  - title: "Global acquires AI text-to-audio startup Remixd"
-    excerpt: "UK-based Global has grabbed Remixd, a tech startup specializing in turning text to audio. Remixd technology is geared to text publishers wishing to enter the audio and audio advertising fields. Presumably the Remixd function,"
-    publishedDateTime: 2021-10-05T19:04:00Z
-    webUrl: "https://rainnews.com/global-acquires-ai-text-to-audio-startup-remixd/"
-    type: article
-    provider:
-      name: Radio & Internet News
-      domain: rainnews.com
-    quality: 37
-    images:
-      - url: "https://rainnews.com/wp-content/uploads/2018/07/RAINdailydigestslides.gif"
-        width: 300
-        height: 250
+        height: 628
         isCached: true
   - title: "Gap Inc. Acquires AI Startup CB4"
     excerpt: "Gap Inc. announced earlier this week that it's acquiring the New York- and Tel Aviv-based startup Context-Based 4 Casting (CB4), which uses artificial intelligence (AI) and machine learning to identify patterns in retail data and identify ways to improve in-store sales."
@@ -125,6 +81,20 @@ related:
       - url: "https://www.mytotalretail.com/wp-content/uploads/sites/14/2020/09/GettyImages-129169006.jpg"
         width: 1024
         height: 667
+        isCached: true
+  - title: "Kerala Based AI Startup Uncanny Vision Acquired by Cloud Video Surveillance Platform Eagle Eye"
+    excerpt: "All 60 Uncanny Vision employees will be retained, and Eagle Eye plans to expand the Bangalore office, current customers will be served same."
+    publishedDateTime: 2021-10-07T06:28:00Z
+    webUrl: "https://analyticsindiamag.com/kerala-based-ai-startup-uncanny-vision-acquired-by-cloud-video-surveillance-platform-eagle-eye/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 25
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/edited.jpeg"
+        width: 2500
+        height: 1305
         isCached: true
 
 secured: "/bIRJCIDlkKHn/goQRJyXCIUo83W5pvN4vbqqFSO1Acv7PTwSjwL/WWfsrh0mr1HKEOj62EGoND4fwO2GCznQRXjBY2BpHiMg4XKdBKCq0BhFE3qCzFusRUvfN6KeRw/a6uECha3fWJjbunGQnlrv19081j2FbPLctZ7n6Q7LF7O2VUyAsLD979iHAyZl3NAQ4DtnRp30G9M6WgwDvLvHuNheZ82JHstGqBIodHigZo6xWGTBCcHKfXJwUyZIX3Y32OiFNuC9qb0VcKgNNuD4wkRmdFekK9L5aJcd8rTwvibtEJffiOjcBbrDMoe2O3titNgt6N1+FV+g6SbNVF54ga9ct5dIR450z9O2aUGN/U=;RMaf6TxkGxWYDcfG1qeVVg=="

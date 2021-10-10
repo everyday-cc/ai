@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "This is best practice for using facial recognition in law enforcement"
-    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Lofred Madzou, Project Lead, Artificial Intelligence and"
-    publishedDateTime: 2021-10-05T10:30:00Z
-    webUrl: "https://europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/"
-    ampWebUrl: "https://europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/amp/"
-    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/amp/"
-    type: article
-    provider:
-      name: europeansting.com
-      domain: europeansting.com
-    quality: 59
-    images:
-      - url: "https://europeansting.files.wordpress.com/2021/10/face.webp"
-        width: 687
-        height: 1031
-        isCached: true
   - title: "Canadians asked to comment on draft guidance for police use of facial recognition"
     excerpt: "Canadian police departments and interested groups have 10 days to submit written opinions on the proposed privacy obligations of law enforcement agencies that want to use facial recognition technology."
     publishedDateTime: 2021-10-06T16:31:00Z

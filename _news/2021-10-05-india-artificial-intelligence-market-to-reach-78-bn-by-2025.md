@@ -50,47 +50,6 @@ related:
         width: 500
         height: 294
         isCached: true
-  - title: "India artificial intelligence market to reach USD 7.8 billion by 2025: IDC"
-    excerpt: "The businesses in India will accelerate the adoption of both AI-centric and AI non-centric applications for the next five years, IDC said in a statement."
-    publishedDateTime: 2021-10-05T10:17:00Z
-    webUrl: "https://www.newindianexpress.com/business/2021/oct/05/india-artificial-intelligence-market-to-reach-usd-78-billion-by-2025-idc-2367916.html"
-    ampWebUrl: "https://www.newindianexpress.com/business/2021/oct/05/india-artificial-intelligence-market-to-reach-usd-78-billion-by-2025-idc-2367916.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2021/oct/05/india-artificial-intelligence-market-to-reach-usd-78-billion-by-2025-idc-2367916.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 55
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/7/w600X390/Artificialintelligence.jpg"
-        width: 600
-        height: 390
-        isCached: true
-  - title: "Indian Artificial Intelligence Market To Reach $7.8 Billion By 2025: IDC"
-    excerpt: "International Data Corporation (IDC) expects the artificial intelligence market in India could grow at a five-year compound annual growth rate (CAGR) of 20.2 per cent and total revenue could scale up to $7."
-    publishedDateTime: 2021-10-05T10:07:00Z
-    webUrl: "https://www.outlookindia.com/website/story/business-news-indian-artificial-intelligence-market-to-reach-78-billion-by-2025-idc/396707"
-    ampWebUrl: "https://www.outlookindia.com/website/amp/business-news-indian-artificial-intelligence-market-to-reach-78-billion-by-2025-idc/396707"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/business-news-indian-artificial-intelligence-market-to-reach-78-billion-by-2025-idc/396707"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 36
-  - title: "India Artificial Intelligence Market to Reach US$7.8 Billion by 2025 Growing at a CAGR of 20.2%"
-    excerpt: "International Data Corporation (IDC ) has published a new report that provides comprehensive coverage of the state of artificial intelligence (AI) adoption in I"
-    publishedDateTime: 2021-10-05T10:00:00Z
-    webUrl: "https://technuter.com/breaking-news/india-artificial-intelligence-market-to-reach-us7-8-billion-by-2025-growing-at-a-cagr-of-20-2.html"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 25
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2021/02/IDC.jpg"
-        width: 426
-        height: 381
-        isCached: true
 
 secured: "v7bagKbCzDmQLIZixKdj7HBR5k4sTxsYhdxM6GGApTT+xh3YFsxKaAMoEHehA15YPw82saEVKSJXwGtN9u9FBv7E70RjRhnLqlyCrhe3kenK6TCLDptGnl8Srkx1ipwb1rrFf9pysmMNU1XyYKH5tOfaoErNCNxl9nPag5dXMJiE0HBInzBRGgec7mu6yuuE6aPBniG+m+9Os6QI3p807z8m/tZeR9ShVcNnNpsmCxwgeqhX0xAwZ0Q5wXGCeyiM6ExUb5QDzm7paCnaj2FuSj70qHgsrQ1h5lr9WPnxYD0BTP39kzCQMm1PWIVLnFOB+WxZ2qxzfLs04RjCFjTVhZiVMhhEfb1mmgWCPHgUypA=;as1oeI7oZvwv2mvrYKBuvA=="
 ---

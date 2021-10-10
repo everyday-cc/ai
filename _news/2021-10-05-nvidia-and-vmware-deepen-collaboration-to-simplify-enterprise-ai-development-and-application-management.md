@@ -24,75 +24,36 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia and VMware team up to help enterprises scale up AI development"
-    excerpt: "AI projects using VMware vSphere with Tanzu can now begin running trials with Nvidia AI Enterprises software suite."
-    publishedDateTime: 2021-10-05T11:00:00Z
-    webUrl: "https://www.zdnet.com/article/nvidia-and-vmware-team-up-to-help-enterprises-scale-up-ai-development/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-and-vmware-team-up-to-help-enterprises-scale-up-ai-development/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-and-vmware-team-up-to-help-enterprises-scale-up-ai-development/"
+  - title: "Kore.ai, which develops workflow automation technologies, raises $70M"
+    excerpt: "Kore.ai, a startup developing a platform for enterprise workflow automation, has raised $70 million in a venture funding round."
+    publishedDateTime: 2021-10-06T06:12:00Z
+    webUrl: "https://venturebeat.com/2021/10/05/kore-ai-which-develops-workflow-automation-technologies-raises-70m/"
+    ampWebUrl: "https://venturebeat.com/2021/10/05/kore-ai-which-develops-workflow-automation-technologies-raises-70m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/05/kore-ai-which-develops-workflow-automation-technologies-raises-70m/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/1c3ac227b0ce47b901cd7969bdb6a3035900d68e/2021/08/24/b3e8396b-756e-4968-b5ac-1fc5d9c07b53/nvidia-ai-enterprise-image.jpg?width=1200&fit=bounds&auto=webp"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1125283214-e1623872146321.jpg?w=1200&strip=all"
         width: 1200
-        height: 589
+        height: 600
         isCached: true
-  - title: "VMware Partners Its Way Deeper into Cloud, Edge, And AI"
-    excerpt: "Software maker VMware has always been about tight partnerships with other tech vendors. When you are middleware between hardware and operating systems,"
-    publishedDateTime: 2021-10-06T16:40:00Z
-    webUrl: "https://www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/"
-    ampWebUrl: "https://www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/amp/"
+  - title: "Japanese Startup Autify Raises $10M Series A To Advance Software Testing Automation Through No-code Solution"
+    excerpt: "Autify, a no-code AI-powered software testing automation platform, announced today that it has raised $10M in Series A funding. Leading the round is World Innovation Lab (WiL), a growth-stage venture capital firm based in Palo Alto and Tokyo."
+    publishedDateTime: 2021-10-06T06:06:00Z
+    webUrl: "https://www.uppermichiganssource.com/prnewswire/2021/10/06/japanese-startup-autify-raises-10m-series-advance-software-testing-automation-through-no-code-solution/"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 61
+      name: Upper
+      domain: uppermichiganssource.com
+    quality: 18
     images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/vmware-logo.jpg"
-        width: 776
-        height: 488
+      - url: "https://gray-wluc-prod.cdn.arcpublishing.com/resizer/eWPadbZLVdQD65T0SixB6Vk6gnM=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/UGZT4GNOUQYLYDBMSGKR4UJ4O4.jpg"
+        width: 980
+        height: 653
         isCached: true
-  - title: "VMware Extends Tanzu Support for Nvidia AI Enterprise"
-    excerpt: "Sphere with Tanzu has been upgraded for developers of AI applications, now including the Kubernetes operater, VMware and Nvidia announced on the first day of VMWorld."
-    publishedDateTime: 2021-10-05T19:34:00Z
-    webUrl: "https://thenewstack.io/vmware-extends-tanzu-support-for-nvidia-ai-enterprise/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 43
-    images:
-      - url: "https://cdn.thenewstack.io/media/2021/10/4b0d619d-screen-shot-2021-10-05-at-17.44.24.png"
-        width: 1242
-        height: 631
-        isCached: true
-  - title: "Here is an overview of how NVIDIA is using technology to meet the demands of AI workloads"
-    excerpt: "NVIDIA has evolved the GPU into a full-stack accelerated computing platform designed to meet the demands of machine learning and artificial intelligence workloads. At the exciting intersection of virtual reality,"
-    publishedDateTime: 2021-10-07T14:30:00Z
-    webUrl: "https://www.analyticsinsight.net/nvidia-strategically-meeting-demands-of-artificial-intelligence-workloads/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 30
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/NVIDIA-Strategically-Meeting-Demands-of-Artificial-Intelligence-Workloads.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "VMware and NVIDIA solutions deliver high performance in machine learning workloads"
-    excerpt: "VMware, with Dell, submitted its first machine learning benchmark results to MLCommons. The results-which show that high performance can be achieved on a VMware virtualized platform featuring NVIDIA GPU and AI technology-were accepted and published in the MLPerf 1."
-    publishedDateTime: 2021-10-09T19:28:00Z
-    webUrl: "https://www.publicnow.com/view/530C12E4A72128CCD3D7F067E79FFE493811054D"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 13
 
 secured: "Vlm0FcHGjCTEvVhR4fJpqUiaMyvmyw8JZU4yt+LHtUBEye04jimVLwiWg2HArZo2Z9vvt7fyiRf26hBsKWWzt83ZgYTzsOurLv4JjMMG5lXeszs/ZpYmzaLk7tKVtFjCucPKVOjHSlj0TkzFAcMxCrHM5jfciED6zNfkNkvUIyktNiRl680m9NyM+Cgho1mlc9YNXhs/W8lXTTCr4Hty0BM6BtC951sv0qA6bqwZotdJfxt+MwRg5RUMKKq1yUHsfIOzrw55AAMhHh1H4DZju0s+bX7bo3FvgHEo8NNNZZSeLRiPZ6tUiHGFxcWHoB2xsP2ALOtBO43fzE3zY2lHOoVAHV2lKMwizNn7/Yrs4Ks=;WngG7QUQ4/M8jRte7x1Z/A=="
 ---

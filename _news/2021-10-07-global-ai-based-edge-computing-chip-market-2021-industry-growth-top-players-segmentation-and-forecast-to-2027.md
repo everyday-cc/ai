@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-ai-based-edge-com
 webUrl: "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2021-industry-growth-top-players-segmentation-and-forecast-to-2027-2021-10-06"
 type: article
 quality: 64
-heat: 244
+heat: 234
 published: true
 
 provider:
@@ -80,20 +80,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning as a Service (MLaaS) Market Share 2021: Top Leading Players, Future Trends, Market Size, Growth Prospects and Forecast to 2026"
-    excerpt: "Get a Sample Copy of the Report -  Market Analysis and Insights: Global Machine Learning as a Service (MLaaS) Market The Machine Learning as a Service (MLaaS) market revenue was Million USD in 2016, grew to Million USD in 2021,"
-    publishedDateTime: 2021-10-05T09:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-share-2021-top-leading-players-future-trends-market-size-growth-prospects-and-forecast-to-2026-2021-10-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

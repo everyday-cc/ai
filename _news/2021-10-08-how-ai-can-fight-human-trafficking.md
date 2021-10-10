@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-traffickin
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://www.thehindu.com/entertainment/music/4yoo3m/article36876007.ece/ALTERNATES/LANDSCAPE_615/08frANILSRINIVASANfr21UV8SV6CSjpg"
         width: 615
         height: 384
-        isCached: true
-  - title: "Reboot AI with human values"
-    excerpt: "A former head of the European Research Council urges critical thinking about the algorithms that shape our lives and societies."
-    publishedDateTime: 2021-10-05T10:33:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-02693-2"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02693-2/d41586-021-02693-2_19704840.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Google tries to make traffic lights more efficient with artificial intelligence"
     excerpt: "Alphabet Inc's Google cut fuel use and traffic delays by 10% to 20% at four locations in Israel by using artificial intelligence to optimize signal lights and it next plans"

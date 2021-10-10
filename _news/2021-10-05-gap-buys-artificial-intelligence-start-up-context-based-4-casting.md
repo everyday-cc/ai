@@ -7,7 +7,7 @@ originalUrl: "https://www.retail-insight-network.com/news/gap-cb4-acquisition/"
 webUrl: "https://www.retail-insight-network.com/news/gap-cb4-acquisition/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,110 +22,6 @@ images:
     width: 799
     height: 532
     isCached: true
-
-related:
-  - title: "Gap Inc. acquires AI startup CB4 to drive sales"
-    excerpt: "Gap has acquired AI startup CB4 to improve retail operations through predictive analytics and demand sensing. “We believe artificial intelligence and machine learning will shape the future of our industry."
-    publishedDateTime: 2021-10-05T10:26:00Z
-    webUrl: "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600"
-    ampWebUrl: "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600"
-    cdnAmpWebUrl: "https://fashionunited-com.cdn.ampproject.org/c/s/fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600"
-    type: article
-    provider:
-      name: fashionunited.com
-      domain: fashionunited.com
-    quality: 74
-    images:
-      - url: "https://fashionunited.com/UUP2jAnSbMTf2wCkU6WZm5VCOGW7PmAHjB96odlvT0E/resize:fill:1388:781:1/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvbWFzdGVyLzIwMjEvMTAvMDUvMTIwMHB4LWdhcC1sb2dvLXN2Zy1mMHdvaDQ5aC0yMDIxLTEwLTA1LmpwZWc"
-        width: 1388
-        height: 781
-        isCached: true
-  - title: "US firm acquires Keralite's AI start-up"
-    excerpt: "Kochi: Uncanny Vision, an artificial intelligence start-up registered in Kerala has been acquired by a US-based company, Eagle Eye Networks, having a global presence. Interestingly, the company has a curious’ triangular South Indian equation’."
-    publishedDateTime: 2021-10-06T15:47:00Z
-    webUrl: "https://english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705"
-    ampWebUrl: "https://english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705"
-    cdnAmpWebUrl: "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705"
-    type: article
-    provider:
-      name: Mathrubhumi
-      domain: mathrubhumi.com
-    quality: 57
-    images:
-      - url: "https://english.mathrubhumi.com/polopoly_fs/1.783633.1452191436!/menu/standard/file/490.png"
-        width: 490
-        height: 268
-        isCached: true
-  - title: "Gap Inc acquires AI start-up CB4"
-    excerpt: "Gap Inc has acquired AI start-up Context-Based 4 Casting Ltd (CB4) that uses machine learning tools to transform retail operations."
-    publishedDateTime: 2021-10-05T11:33:00Z
-    webUrl: "https://www.just-style.com/news/gap-inc-acquires-ai-start-up-cb4/"
-    type: article
-    provider:
-      name: Companies
-      domain: just-style.com
-    quality: 37
-    images:
-      - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/10/Gap-Specialty-White-City-Store-Exterior.jpg"
-        width: 1773
-        height: 1182
-        isCached: true
-  - title: "Gap Inc. acquires artificial intelligence startup CB4"
-    excerpt: "As part of ongoing tech efforts, Gap Inc. on Monday announced that it acquired Context-Based 4 Casting for an undisclosed amount. CB4 is a retail technology startup th"
-    publishedDateTime: 2021-10-05T15:17:00Z
-    webUrl: "https://www.retaildive.com/news/gap-inc-acquires-artificial-intelligence-startup-cb4/607676/"
-    type: article
-    provider:
-      name: Retail Dive
-      domain: retaildive.com
-    quality: 37
-    images:
-      - url: "https://www.retaildive.com/user_media/cache/f4/1b/f41ba6ee5e2df1fa0b31acbcd47305d2.jpg"
-        width: 770
-        height: 364
-        isCached: true
-  - title: "Gap Inc. Acquires US-Israeli Retail AI Startup CB4"
-    excerpt: "CB4’s technology makes recommendations that support new sales and more satisfied customers through the resolution of frequent in-store issues."
-    publishedDateTime: 2021-10-05T16:49:00Z
-    webUrl: "https://nocamels.com/2021/10/gap-inc-acquires-us-israeli-retailai-startup-cb4/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/12/retail.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Global acquires AI text-to-audio startup Remixd"
-    excerpt: "UK-based Global has grabbed Remixd, a tech startup specializing in turning text to audio. Remixd technology is geared to text publishers wishing to enter the audio and audio advertising fields. Presumably the Remixd function,"
-    publishedDateTime: 2021-10-05T19:04:00Z
-    webUrl: "https://rainnews.com/global-acquires-ai-text-to-audio-startup-remixd/"
-    type: article
-    provider:
-      name: Radio & Internet News
-      domain: rainnews.com
-    quality: 37
-    images:
-      - url: "https://rainnews.com/wp-content/uploads/2018/07/RAINdailydigestslides.gif"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Gap Inc. Acquires AI Startup CB4"
-    excerpt: "Gap Inc. announced earlier this week that it's acquiring the New York- and Tel Aviv-based startup Context-Based 4 Casting (CB4), which uses artificial intelligence (AI) and machine learning to identify patterns in retail data and identify ways to improve in-store sales."
-    publishedDateTime: 2021-10-07T22:36:00Z
-    webUrl: "https://www.mytotalretail.com/article/gap-inc-acquires-ai-startup-cb4/"
-    type: article
-    provider:
-      name: Total Retail
-      domain: mytotalretail.com
-    quality: 37
-    images:
-      - url: "https://www.mytotalretail.com/wp-content/uploads/sites/14/2020/09/GettyImages-129169006.jpg"
-        width: 1024
-        height: 667
-        isCached: true
 
 secured: "IO3yGYJnppLwapiS9sidJOWD+sdXq6TNcLYwlISqYz/jW4WU+l5DoW7GsI6gH5ACL8cG9r6eQdI91pMNQoyL8Ms0IG816KRzImvW2EFtMloUhZlaSrul6NYs8VNrffF1dYqHb+cY4RsJICwpcVm21mggG/RlDuVcGrBwYGWT+ZpZYLXeZ/IVlImd0YGoB8J9i0CmN1QwBOfQQPpIal0J2kN68Ohe4wFJhsDHBoRJYf30HzlEws04C8xutyrPHci7QsNQgMDi/fIJpjWQbTTj1oaIG2rp0r9KMss6+nytXthP3a2btM0ySmJtc6E3CAvq9DBRzwPqWbfYcy/wxg4JQgfjgzcsSdDMDQegrkFBKZ+ya40Z5edmvxYvEGygNN5uD0AUjehmWnyw6gSAIdZZ4zwxAN6MCuAz69xENWUoduiP4hatW5/8QcIQ8Uytv4SzF/I00UJ1LVFdefT61SUPDocQ/l1bGmqmOGnnK8SlMFfFnIp/qDnPz5kU+3tumTxeFvpYMn03ifyUQUpaVzLXiQ==;77rRGxYY7hW1PMzsoUPObw=="
 ---

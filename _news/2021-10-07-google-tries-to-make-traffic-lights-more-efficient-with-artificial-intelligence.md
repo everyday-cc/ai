@@ -56,20 +56,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Reboot AI with human values"
-    excerpt: "A former head of the European Research Council urges critical thinking about the algorithms that shape our lives and societies."
-    publishedDateTime: 2021-10-05T10:33:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-02693-2"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02693-2/d41586-021-02693-2_19704840.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "We need concrete protections from artificial intelligence threatening human rights"
     excerpt: "Events over the past few years have revealed several human rights violations associated with increasing advances in artificial intelligence."
     publishedDateTime: 2021-10-07T09:34:00Z

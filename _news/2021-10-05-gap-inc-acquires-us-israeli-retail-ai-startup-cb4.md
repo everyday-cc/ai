@@ -7,7 +7,7 @@ originalUrl: "https://nocamels.com/2021/10/gap-inc-acquires-us-israeli-retailai-
 webUrl: "https://nocamels.com/2021/10/gap-inc-acquires-us-israeli-retailai-startup-cb4/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,107 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Gap Inc. acquires AI startup CB4 to drive sales"
-    excerpt: "Gap has acquired AI startup CB4 to improve retail operations through predictive analytics and demand sensing. “We believe artificial intelligence and machine learning will shape the future of our industry."
-    publishedDateTime: 2021-10-05T10:26:00Z
-    webUrl: "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600"
-    ampWebUrl: "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600"
-    cdnAmpWebUrl: "https://fashionunited-com.cdn.ampproject.org/c/s/fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600"
+  - title: "How Did The Israeli Startup Ecosystem Evolve During COVID-19?"
+    excerpt: "Israel experienced a less severe decline in its startup ecosystem than that by the EU and the United States in 2020."
+    publishedDateTime: 2021-10-05T11:09:00Z
+    webUrl: "https://nocamels.com/2021/10/israeli-startup-ecosystem-evolve-during-covid-19/"
     type: article
     provider:
-      name: fashionunited.com
-      domain: fashionunited.com
-    quality: 74
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 22
     images:
-      - url: "https://fashionunited.com/UUP2jAnSbMTf2wCkU6WZm5VCOGW7PmAHjB96odlvT0E/resize:fill:1388:781:1/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvbWFzdGVyLzIwMjEvMTAvMDUvMTIwMHB4LWdhcC1sb2dvLXN2Zy1mMHdvaDQ5aC0yMDIxLTEwLTA1LmpwZWc"
-        width: 1388
-        height: 781
-        isCached: true
-  - title: "US firm acquires Keralite's AI start-up"
-    excerpt: "Kochi: Uncanny Vision, an artificial intelligence start-up registered in Kerala has been acquired by a US-based company, Eagle Eye Networks, having a global presence. Interestingly, the company has a curious’ triangular South Indian equation’."
-    publishedDateTime: 2021-10-06T15:47:00Z
-    webUrl: "https://english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705"
-    ampWebUrl: "https://english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705"
-    cdnAmpWebUrl: "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705"
-    type: article
-    provider:
-      name: Mathrubhumi
-      domain: mathrubhumi.com
-    quality: 57
-    images:
-      - url: "https://english.mathrubhumi.com/polopoly_fs/1.783633.1452191436!/menu/standard/file/490.png"
-        width: 490
-        height: 268
-        isCached: true
-  - title: "Gap buys artificial intelligence start-up Context-Based 4 Casting"
-    excerpt: "SoQ錫濛譙 / Flickr. US-based lifestyle retailer Gap has purchased artificial intelligence (AI) start-up Context-Based 4 Casting (CB4) for an undisclosed sum. Based in New York, CB4 uses advanced AI and machine learning tools to make predictive analytics and demand sensing to support sales and streamline the customer experience."
-    publishedDateTime: 2021-10-05T15:25:00Z
-    webUrl: "https://www.retail-insight-network.com/news/gap-cb4-acquisition/"
-    type: article
-    provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
-    quality: 37
-    images:
-      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/10/Gap.jpg"
-        width: 799
-        height: 532
-        isCached: true
-  - title: "Gap Inc acquires AI start-up CB4"
-    excerpt: "Gap Inc has acquired AI start-up Context-Based 4 Casting Ltd (CB4) that uses machine learning tools to transform retail operations."
-    publishedDateTime: 2021-10-05T11:33:00Z
-    webUrl: "https://www.just-style.com/news/gap-inc-acquires-ai-start-up-cb4/"
-    type: article
-    provider:
-      name: Companies
-      domain: just-style.com
-    quality: 37
-    images:
-      - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/10/Gap-Specialty-White-City-Store-Exterior.jpg"
-        width: 1773
-        height: 1182
-        isCached: true
-  - title: "Gap Inc. acquires artificial intelligence startup CB4"
-    excerpt: "As part of ongoing tech efforts, Gap Inc. on Monday announced that it acquired Context-Based 4 Casting for an undisclosed amount. CB4 is a retail technology startup th"
-    publishedDateTime: 2021-10-05T15:17:00Z
-    webUrl: "https://www.retaildive.com/news/gap-inc-acquires-artificial-intelligence-startup-cb4/607676/"
-    type: article
-    provider:
-      name: Retail Dive
-      domain: retaildive.com
-    quality: 37
-    images:
-      - url: "https://www.retaildive.com/user_media/cache/f4/1b/f41ba6ee5e2df1fa0b31acbcd47305d2.jpg"
-        width: 770
-        height: 364
-        isCached: true
-  - title: "Global acquires AI text-to-audio startup Remixd"
-    excerpt: "UK-based Global has grabbed Remixd, a tech startup specializing in turning text to audio. Remixd technology is geared to text publishers wishing to enter the audio and audio advertising fields. Presumably the Remixd function,"
-    publishedDateTime: 2021-10-05T19:04:00Z
-    webUrl: "https://rainnews.com/global-acquires-ai-text-to-audio-startup-remixd/"
-    type: article
-    provider:
-      name: Radio & Internet News
-      domain: rainnews.com
-    quality: 37
-    images:
-      - url: "https://rainnews.com/wp-content/uploads/2018/07/RAINdailydigestslides.gif"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Gap Inc. Acquires AI Startup CB4"
-    excerpt: "Gap Inc. announced earlier this week that it's acquiring the New York- and Tel Aviv-based startup Context-Based 4 Casting (CB4), which uses artificial intelligence (AI) and machine learning to identify patterns in retail data and identify ways to improve in-store sales."
-    publishedDateTime: 2021-10-07T22:36:00Z
-    webUrl: "https://www.mytotalretail.com/article/gap-inc-acquires-ai-startup-cb4/"
-    type: article
-    provider:
-      name: Total Retail
-      domain: mytotalretail.com
-    quality: 37
-    images:
-      - url: "https://www.mytotalretail.com/wp-content/uploads/sites/14/2020/09/GettyImages-129169006.jpg"
-        width: 1024
-        height: 667
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/08/49791627258_b4629dc54a_k.jpg"
+        width: 2047
+        height: 1364
         isCached: true
 
 secured: "66m/A0VOkh8/gsof6/RfV77Mwg5pwjtmJkr8Ji4JfWZgkudiMK8hRFZOd5/+EkU1Q1t+4QOigRSQrsH///cXhukcmt8+2VkarcSKsT6m/4wTqMeYtoYLkFvKyEuR5TkuiA81hBAjhsxCBGr4P0ZOscBqNKHgxogtG1dnZd2aa/B5xKTzVLutBgY86jn07fOo0UYTNbAb23LW8QDG4UdlhbXGUPCDIYcGlBgSu5b4OoTLoyQMBPQastnP9gHHwB6LmDAJ/TfgX5GINiNJ6Kdf1tgLFFfx1osuRf7QtxoPFvsBkBdK2SES+O6R3RhrynUV2YHMQTIcPZrab3cPnZjP2sSDNzWuMoqt2TJ31xKcyBrVpvjRS+ZMd9lZVubt4EK043F/1cVisu15pNKlHKJgFLaOrdq6Mf+EE4G+kXlQdxz2lDGfNU5MyHm1HOyUvySl+UQZ7TfV0JpgTBMGx2qxM13DaXpNBizWFP5uUcLl6gUAAZDNio4GkkbQ+4Mn4Ku3qSeZjHRGnZkaXy9MdvyMnw==;HDKXtBTMjUP0FbxAf8FjXA=="
