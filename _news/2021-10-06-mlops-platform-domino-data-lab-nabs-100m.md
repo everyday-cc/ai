@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-na
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/amp/"
 type: article
 quality: 172
-heat: 192
+heat: 182
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
-        isCached: true
-  - title: "Nvidia joins $100M funding round for MLOps startup Domino Data Lab"
-    excerpt: "Artificial intelligence startup Domino Data Lab Inc. today disclosed that it has nabbed a $100 million investment from Great Hill Partners, Nvidia Corp. and existing backers. San Francisco-based Domino Data Labs said that it will work more closely with Nvidia following the funding round."
-    publishedDateTime: 2021-10-05T17:54:00Z
-    webUrl: "https://siliconangle.com/2021/10/05/nvidia-joins-100m-funding-round-mlops-startup-domino-data-lab/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 22
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/Image-1.png"
-        width: 800
-        height: 450
         isCached: true
 
 secured: "PnFod6AeyCViHMsOihdd0id7DJV+O4i2lR3xCv9qYwRSCzFB7O8iBWp7lFEOHazpo+JOLE5GXXfugVOosASvC9ju4BscbsPkzh7jOjqBNtNO0FjczS4RjMM9OHXakCAn+NeQhcqDTYPsWwMFNJj0gPJvts8hqtLbGlvostFfeMN9xCL+vla+GTCuTuz2/SVMoy5Gca7BcG8BUNgAV/uAt8w5l5ztytKcvCl0BeY9/4LjFe+v4lKGawuW6rBK078sGO5rImg9ujdVX9YYvNlhz4iEhmLwKnS427uOwO2d5k5fox1UN1ajSFWeqR5THbDXJGPwdcGClchU2K3iQX0YxfXQuiWPEZrmIWmiiN6KF/PpI3HwSXhTJ8kMAAjqKSCplX5Ii6GtJEs3BrNPRI27NCU2AqHQPGoK1VRyWPrXKwf0QWB4+AU0Ze+CFPYbOwifN2r7IYzNsQjyJEl9rQ/YqiJX33XAxMSMTPofRU4VETCda/wcrBJnyCXbIlf9RZU/42zbY8K5gwF1fX3mKqgaKXQw4EmB9oMz6wLnGwbwc2g=;2jKgwSw6x2Bfj924L7on0Q=="

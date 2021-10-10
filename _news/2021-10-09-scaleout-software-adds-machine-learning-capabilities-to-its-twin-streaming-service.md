@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "ScaleOut Software Announces Machine Learning Capabilities for its ScaleOut Digital Twin Streaming Service™"
-    excerpt: "ScaleOut Software today announced major extensions to its ScaleOut Digital Twin Streaming Service™ that enable real-time digital twin software to impl"
-    publishedDateTime: 2021-10-05T18:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211005005300/en/ScaleOut-Software-Announces-Machine-Learning-Capabilities-for-its-ScaleOut-Digital-Twin-Streaming-Service™"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 3
-
 secured: "/jyzc4w8CHCrOsGTI+ORddpQM+mY+PY8g++whTESP7XgZe79TLcHad6KxFKZsVB/yx2x+KRUnqVUxM2g2W5LwEiA254ZTeK+e/ppegcbsybkDqS+B3ltnaneaspG9WrzD05lmqK/5D3zxyMJ37uI+4lBYIcJMP5M77X1rwT9loIvJJx+/1zM/5eirftXcBdEFYIK9+d8mFmnjyRJAd80G3Ehf1Eg7y92ZfbnF+16fu8IeAUeR+zeUwdnbqFBCohzar2Q/l1y98BrkGSo9E8vEVBYYqHPlwxQmT2mCzjpM0juyppY+jfCUcKZNTXLCtBgQXIw8fq0atGvYMKX58LPNtbyRtj706VbK/hRFdxWfAY=;hpMd21CCVXBimAETR3YdZA=="
 ---
 

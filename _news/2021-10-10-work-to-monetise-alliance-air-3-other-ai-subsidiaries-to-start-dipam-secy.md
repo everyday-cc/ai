@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "After Air India, Govt to Now Start Work to Sell Alliance Air, 3 Other AI Subsidiaries"
+    excerpt: "As a precursor to Air India sale, the government in 2019 had set up a special purpose vehicle — Air India Assets Holding Ltd (AIAHL) — for holding debt and non-core assets of the Air India group."
+    publishedDateTime: 2021-10-10T09:33:00Z
+    webUrl: "https://www.india.com/business/after-air-india-govt-to-now-start-work-to-sell-alliance-air-3-other-ai-subsidiaries-5048275/"
+    ampWebUrl: "https://www.india.com/business/after-air-india-govt-to-now-start-work-to-sell-alliance-air-3-other-ai-subsidiaries-5048275/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/business/after-air-india-govt-to-now-start-work-to-sell-alliance-air-3-other-ai-subsidiaries-5048275/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 50
+    images:
+      - url: "https://s3.india.com/wp-content/uploads/2021/09/Air-India.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "After Air India privatisation, work to monetise Alliance Air, 3 other AI subsidiaries to start now: DIPAM Secy"
     excerpt: "Air India Air Transport Services Ltd, Airline Allied Services Ltd, Air India Engineering Services Ltd and Hotel Corporation of India Ltd -- along with non-core assets, painting and artefacts, and other non-operational assets,"
     publishedDateTime: 2021-10-10T09:23:00Z
@@ -41,6 +57,6 @@ related:
         height: 337
         isCached: true
 
-secured: "Qcu2IRdhdDeqZcCwyUeRC+cHA5q0lK7OCnxy0wUO2etuzUqrpLHcDR7c6eRe4+cEwiFZpxylzo/ob8ixCg/hHLhWxJrLgfIt3sqv1DwXsV7XBGt4PSc6DZ//Sdj+hg33ClJzNgO8Me2IQVdmRLRUQu10pzfhQkh7cmHN4YqFHdgHwzsm/xWD5fR+vPKcmrzLqS0mDsrzxUeQr8X0fWbZ7Q2KgEBaXnlEPtMxUJ+wHcGfCxJpORc7tulp/8YOrvGnr5gP0bFOi+2nFX/yQcxP0Bt5c6lu9qvIJ5zK8CjkB3sNB1bhdCqKKSrqBM9PbJGWTlTKY73iSAaTXYd1n6q4nXbABNMmHsYy+V1bfQa0Xsw=;nNIBiAtHj3IXjHnHNd77Kw=="
+secured: "oIlIrKfwPzAQ8sUlxZlrBef1fmFcYZbc/DipPyEyOBCpyF9lQD8AW8JamYdY/ZQxVqp0elG+oG69mWdsEjNaV7jqJf44rASUS+KZr9SmnOHv0mOzb0BJVKqFz9QNFiOf1AZWIgj+glXwqytqNdtW+8bxIL//zZyEV1rEwKWuhsC9w+vQVotkmrQQ2D3vVI6sssX/MaEtwzXLYMgR6QABRUbC89PVX8mo6qi2cfZcfh7arUORoIn9TWTRYf4FYIujbyVBZajyPqhRN8TG5j4Qu+wcsW3XfifZXhu8RnprJ0TMVFuoZZFBKlqlYS6bKHdqfYwBNYE1kCqHvjXUKMO8bBsxTuJageEpj159eygXgpEKY4QudMH+uFm2JI1aL/dbS7IJEIlWUv9IsSImgz3w9EwiSBVOBujI4rggOwciThJyQgskArgVpy0QS/6je0Rri4qJiCZZpMZW4ThrDXsx3Kun0Dac9ivmtLNdGHCulBmqK0EZ814QuQHwPYj0pR3xoduizWM1n5Asg6aNQJHmBA==;lyoNmdW9RmSQ49ecqJMe7A=="
 ---
 

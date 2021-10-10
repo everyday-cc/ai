@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2418361/mobile-artificial-intelligence-ai
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2418361/mobile-artificial-intelligence-ai-market-size-is-expected"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -84,20 +84,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "New Study from StrategyR Highlights a $3.5 Billion Global Market for Artificial Intelligence (AI) in Call Centers by 2026"
-    excerpt: "September 2021 Executive Pool: 73886 Companies: 110 - Players covered include Artificial Solutions; Avaamo; Avaya; AWS; Conversica; Creativ"
-    publishedDateTime: 2021-10-05T17:28:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/10/05/9463266.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 29
-    images:
-      - url: "https://mma.prnewswire.com/media/1651635/Global_Industry_Analysts_AI_call_centers.jpg"
-        width: 635
-        height: 400
         isCached: true
 
 secured: "ode1q0hrYsjFx3+rBNrffad3qP9rbrPzFZNiZOLB2CjRDPcYsTRLOrK/HHNjhoDchn331kuKN1N+SVPfiEyniEtNkn/h85/NPgZrpsOLl4tLYm4QL95xbCjyoFzqmaZXHMjxDZ5AZVkPmBWVE1Uzh3G7Bsvk6icJW+E76DpylO39Z/hj0igFZ4z/dP7vbvW7E44jO+bzCnWNRHqn2hhKXJoYYjA1qcWnL6VkRlQlCOphZHSrCu2bVT5hhGv1VZMSSLbQtbDJBme8ot9tFcBCdWYp8+iHhaYi2HG8RvxixaAFzs1nXjaOJWbiCQ5IKTlPeHtBmWjQQ2Pb76UL3PZKz7TK5WvOn0z0rK+oWb4K0VCMwaRmCqMkWy/aZ2U6C9C0fUi7Ve+EhwAsfmWJDPrYkDRtvqeTYg4O0g0uGQsusEc6W8pcakG6tYRJ+L/eYx2cvuiuNxc3F4JHad1q1AqW3PJaSuiTJqz4ARvAdiF6jUHpMAL4RjnaiDfUxql/tjd40xCBnDwQmR3h5vXoUGem6g==;O2hemSgiPnlvTVdRuSQFWg=="

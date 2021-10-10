@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/08/how-to-ena
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/08/how-to-enable-data-centric-ai/amp/"
 type: article
 quality: 89
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 826
     isCached: true
-
-related:
-  - title: "Akridata™ Launches World’s First Edge Data Platform for Data-Centric AI"
-    excerpt: "Akridata, a category-maker and pioneer in Data-Centric AI, today announced the launch of the Akridata Edge Data Platform™, which creates and manages smart data pipelines and AI workflows spanning Edge-Core-Cloud resources – an industry first."
-    publishedDateTime: 2021-10-05T18:05:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/science-technology-business-4c8ea10dce1301dbf506069ae700e519"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "MmiQ+qt5E9hl2Ij6W1fVnA5/t0nXblsp6/Cqcmr58gJYxFYLYq1bkF/jy7z+KhTNZfWtfaSdZWS3xKQXfDYaL6lVcgwOrMf20CT+SQvOi0NC3jawr3XN4+42F8VO+9iM7V3fdHRmWriC6lawAkyQpAxL6gp6sgsUBw2ksVzc6JB68mrezD1kRk5z5FnlW/C1Y/ofWqSF0ZbjPGuhGJBAV4iUu34VGIND+BImMrFL3E0FSxDyaAhCDJ2PPLTtuVsWnLDV2KdwpcC7d0oHA7NkXO3b+bhNNKXo/rlERDwTWIG9E8sGEYbHBXzCNL+N9MmTek4cVa9iOdNqpatGQhlZO4TMOmWtVvcFZgLtBtiK/w6EHDZdOcVaadj0aB54mfzcadt/VcLn1JMRTvhr1f/bQQ66EuEnjEwri8PA3MQky2CVWNUU+IP7VwYZjHDZLN9ifF78nTV+2NF2Pw70tgUEk9NueSNIHLQkEVVmGjaXSLkUl9/akdo30+nY02i0vw9Ur0iuPRxvu6n1nIEuYPuLhQ==;KarjSABxKo0H2HhP3L919g=="
 ---

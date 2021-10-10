@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New Study from StrategyR Highlights a $3.5 Billion Global Market for Artificial Intelligence (AI) in Call Centers by 2026"
-    excerpt: "September 2021 Executive Pool: 73886 Companies: 110 - Players covered include Artificial Solutions; Avaamo; Avaya; AWS; Conversica; Creativ"
-    publishedDateTime: 2021-10-05T17:28:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/10/05/9463266.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 29
-    images:
-      - url: "https://mma.prnewswire.com/media/1651635/Global_Industry_Analysts_AI_call_centers.jpg"
-        width: 635
-        height: 400
-        isCached: true
 
 secured: "kVZq5IxrRPkwptuhk00GoyhkfqhlWZzNC2zu0uPzew68isacYdDPTPV6FbBLJMH50yd5/RJvpO7x1sdabfCVjNFZ6n0kVzi/RQrJ3YpnV4xwdBeweI+GyWFr6SnjBpZGM5jBJxvTPFRcNTzoBlaVaNtifXP6zB+2lnxC7cQLXJntFBTIusb+yhgW3XYGEo72H19q9Cexpf5AtBuB8M9MfwucekPC8Yz9Yqo3940yacBTFWW0baAfSX9F8Cr3mADzv+ak7uDiZxPUzFmWWfWMnuRycjBXB33GiYAo5VLPyx5MJjnHNtTAFZlQVGut0VTJs/VsSJTszzNWFnEMtFs9o5FlDLnPnSvxD1aP9l92lgY=;caF/HUZonzTLqcjv/8/fAA=="
 ---

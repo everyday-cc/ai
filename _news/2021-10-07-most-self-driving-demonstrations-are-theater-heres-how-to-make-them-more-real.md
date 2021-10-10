@@ -61,20 +61,6 @@ related:
         width: 1400
         height: 800
         isCached: true
-  - title: "Delete Your Face Data on Facebook, Turn Off Facial Recognition"
-    excerpt: "If you want to prevent Facebook from doing it automatically, then follow this simple 2-minute read on \"How to Delete your Face Data on Facebook by Turning Off Facial Recognition\"."
-    publishedDateTime: 2021-10-05T17:31:00Z
-    webUrl: "https://gadgetstouse.com/blog/2021/10/05/delete-your-face-data-facebook-turn-off-facial-recognition/"
-    type: article
-    provider:
-      name: Gadgets To Use
-      domain: gadgetstouse.com
-    quality: 39
-    images:
-      - url: "https://media.gadgetstouse.com/wp-content/uploads/2021/10/featuredimage.jpg"
-        width: 1379
-        height: 776
-        isCached: true
   - title: "Facebook AI’s SOTA Speech Translation Models Go Against Grain"
     excerpt: "Now, Facebook AI and self-described “AI community” Hugging Face have announced the release of their joint state-of-the-art speech translation models. The models build on previ"
     publishedDateTime: 2021-10-08T07:38:00Z

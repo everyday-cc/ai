@@ -39,20 +39,6 @@ related:
         width: 650
         height: 450
         isCached: true
-  - title: "Eagle Eye Networks Acquires Surveillance AI Leader Uncanny Vision"
-    excerpt: "Tuesday 5 October 2021 [ AETOS Wire ] (BUSINESS WIRE )-- Eagle Eye Networks, the global leader in cloud video surveillance, today announced the acquisition of artificial intelligence leader Uncanny Vision,"
-    publishedDateTime: 2021-10-05T18:56:00Z
-    webUrl: "https://menafn.com/1102921196/Eagle-Eye-Networks-Acquires-Surveillance-AI-Leader-Uncanny-Vision"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?939722"
-        width: 253
-        height: 250
-        isCached: true
 
 secured: "INyxQSnAPTTjN9/rR3aSN4zcRUJmKCK1Ye8Umy0zc3pPbxwbwSocnWFaIVyO6S4fKx/TmOrVp+Z7F5xWavk5YbNrPAe+DfXGb1gP8I2CO8s3vJ8VQuvWHhwqoDSaYGW7y5kacULXLini97bcwsrtIEv2yF6f/8Z90PBqddVNnGfbn2bylO8xFUQ+V73XJyVQXZWhr5dhf33ul7SXIiAsNcVs9tA20aIra1lOjicd9j8nDxiG2jHQMs/vM6BzY9oV6U4N1F10s+HRssoLiy5e0/g/lClqXdOHYKtulZoZZztVeMEqicjYRtyl1bvmSjBLvp+qElKIkcSmByABH7+nnOJgU501uoPCob9urmPm8Eo=;qC5ECNexP+KeqSGDzwKAwA=="
 ---

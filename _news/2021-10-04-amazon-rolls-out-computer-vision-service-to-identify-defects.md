@@ -2,28 +2,25 @@
 category: news
 title: "Amazon Rolls Out Computer Vision Service to Identify Defects"
 excerpt: "Concept: Amazon has launched a cloud service named Lookout for Vision to detect anomalies and defects in manufactured products. Available in select Amazon Web Services (AWS) regions with the AWS console and supporting partners,"
-publishedDateTime: 2021-10-04T10:08:00Z
-originalUrl: "https://www.power-technology.com/research-reports/amazon-rolls-out-computer-vision-service-to-identify-defects/"
-webUrl: "https://www.power-technology.com/research-reports/amazon-rolls-out-computer-vision-service-to-identify-defects/"
+publishedDateTime: 2021-10-04T09:52:00Z
+originalUrl: "https://www.pharmaceutical-technology.com/research-reports/amazon-rolls-out-computer-vision-service-to-identify-defects/"
+webUrl: "https://www.pharmaceutical-technology.com/research-reports/amazon-rolls-out-computer-vision-service-to-identify-defects/"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Power Technology
-  domain: power-technology.com
+  name: Pharmaceutical Technology
+  domain: pharmaceutical-technology.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/10/shutterstock_1358359658.jpg"
+  - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/10/shutterstock_1358359658.jpg"
     width: 500
     height: 280
     isCached: true
 
-secured: "/SVfPrsHlHRyhIt4qjJQjTyt2VkKxbQSaPZDmVdG8VkMlutAjlZumqwOOI4JQOXYyegK8aeZO48+uXoWje08V2sAik/qZFrWrywWyjgN2FbO9uDIS2EwrQMKldlwvnl1+m3J6FA6/XN/AybC6HjQ+y1Ilbe774HopHYqR7oNi1onaIR7nv8OwgUKIAqyJ2t4jdXGqtzTtCRIKqKgCvibiei1AnUHpZdhh/cPVs6/Q0IGmnKDt/2DdNH93nQcnbbYVXzgabV1DY+l1JMAGx1QQNisSXbQRG9dzOl0fRD6/xhXSMkmY06SisI1JWa3C4/H65wX2Kkii6FLfDQh3EaPp5QZrWSNiDxkN7TbdB4Ppk372JONlszaClWZc4UB2SSZUmnLmtIK9o+nz0gbAtU9TAUs6NaalwlcJMLCitMiLDEiwKUq8hy5jslw+VY/G1J//q6KiXtRuoNmlCFq3LQwzIqpW3UMp6Hk1LND1Lw6Cc+dvwJduwMPXOm/3wXV+qXjESFAqRw2ZxieIt6wjQcixQ==;15xu+fdpndEepgfmbuBVsg=="
+secured: "EY9nltkvOGI7+CDRGpoA4ZWcYhkmtf6bRZC8+6uu5W3zmDt0zA5W9Qp68YdmuDKSjgIxF/Ixzp04S4y0Pz2XYRZzH0spjAwOXD6VsYwVW2Y06cQ4Xr9THnbDClLA/hkg2w1KIxToYOlVEnckbPiAIb666EXUF35Yj3e/+2+dArKPyQ9qlfQp4f32hp2JB3BYgcwPSM4npM5XOi/VTLvDASPSFtKN6ARunLnd0Mt6UrRro0ZdFbb4CSKKwohLZlv4T6fq8gO5K+wDPz3O6Ns5N77HC1OM4aLk2JFjcaNdcgfslayp+W+MiSodtPu2OScjsTJIIqpVvw07Jb8D8y4A6qzrB+Gylzm1j4tjRIJRDls=;gHq5AL3NlJ7kuMvYUPKUyw=="
 ---
 

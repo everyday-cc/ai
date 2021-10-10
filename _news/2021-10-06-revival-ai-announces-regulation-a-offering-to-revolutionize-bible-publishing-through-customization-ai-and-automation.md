@@ -90,20 +90,6 @@ related:
         width: 1199
         height: 729
         isCached: true
-  - title: "Has China beat the West to detailed AI governance rules?"
-    excerpt: "The guidelines are described as being among the more specific that have been enacted worldwide, but based on these descriptions, the rules still feel conceptual"
-    publishedDateTime: 2021-10-05T17:05:00Z
-    webUrl: "https://www.biometricupdate.com/202110/has-china-beat-the-west-to-detailed-ai-governance-rules"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Time Is Ripe For Responsible AI In Aviation"
     excerpt: "AI is here for over 60 years, advances in computing and access to data have allowed many industries to exploit the potential of ML algorithms."
     publishedDateTime: 2021-10-08T12:31:00Z
@@ -159,6 +145,20 @@ related:
       - url: "https://www.akm.ru/upload/iblock/ee5/NLMK_NLMK.jpg"
         width: 600
         height: 399
+        isCached: true
+  - title: "These strategies can help in driving innovation at the AI start-ups"
+    excerpt: "We all have heard about many big tech companies of AI and also take inspiration from them many times, right? For all the AI start-up’s looking for strategies to improve your business, here you go!"
+    publishedDateTime: 2021-10-10T11:30:00Z
+    webUrl: "https://www.analyticsinsight.net/10-strategies-ai-start-ups-should-follow-to-become-big-tech-companies/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/10-Strategies-AI-Startups-Should-Follow-to-Become-Big-Tech-Companies.jpg"
+        width: 900
+        height: 500
         isCached: true
   - title: "Artificial intelligence hiring levels in the power industry dropped in August 2021"
     excerpt: "The proportion of power industry operations and technologies companies hiring for artificial intelligence related positions dropped in August 2021, with 35.7% of the companies included in our analysis recruiting for at least one such position."

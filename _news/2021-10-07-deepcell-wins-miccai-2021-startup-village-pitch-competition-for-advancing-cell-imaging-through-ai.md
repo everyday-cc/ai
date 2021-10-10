@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Horizon3.ai Named a Winner of The Pitch 2021 By Constellation Research"
-    excerpt: "Horizon3.ai today announced it was named a first-place winner of The Pitch, a new competition for enterprise startups hosted by Constellation Research. The industry wide two-day event brought together startup founders,"
-    publishedDateTime: 2021-10-05T18:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/horizon3-ai-named-a-winner-of-the-pitch-2021-by-constellation-research-1030844893"
+  - title: "How Abbott is advancing coronary imaging through AI"
+    excerpt: "Abbott's (NYSE:ABT) combination of AI and OCT imaging could pave the future for the coronary stent placement space."
+    publishedDateTime: 2021-10-08T16:39:00Z
+    webUrl: "https://www.massdevice.com/how-abbott-is-advancing-coronary-imaging-through-ai/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: MassDevice
+      domain: massdevice.com
+    quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1652459/1st_place_winner.jpg"
-        width: 711
-        height: 400
+      - url: "https://www.massdevice.com/wp-content/uploads/2021/10/Picture31-1.jpg"
+        width: 770
+        height: 500
         isCached: true
 
 secured: "G2wjlyfp4l+CSbz4cKn9PiOI4RKFGQi6cNQ7Pnvirqlmw9xD/rdsm8LY0ZCrEqei4ken0I/OKDbC9O2qVWoFD8qunzE31+dNCDnWG6+0BcRuLrFca4hvJfJW7R2Y27xbqLAluNj1JOxqI/bOaNUsJCdDGWtx2KwMyvkZuTOMfdgaIc8OtAdXuuZ2sdjmcVforriY+CZ15z5gr5vavLdbMkiZrzvFDBBqL3i/sj4tMfly+PnMoOcuVJG15+Bc7uXygxQkZvSDB6MKCiRkocqkKc1QIGV7wfbfiHQBZsdxKYtaYSt8iGFFBDAbegnOcO9b4u1sWssu9pK+73vLB56PdLc9eRfM/562jWmOqM2QxBg=;5pLBiMIjhJ+twMgseioP7A=="

@@ -35,17 +35,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Cognitive Computing Market Size, Growth and Key Companies – Microsoft, Google, IBM, Numenta, SAS Institute, AWS"
-    excerpt: "The research study presented here is an intelligent take on the Cognitive Computing Market that explains important aspects such as competition, segmentation, and regional growth in great detail. Accuracy and preciseness are two of the key features of the report that reflect its authenticity."
-    publishedDateTime: 2021-10-05T18:39:00Z
-    webUrl: "https://www.globalbankingandfinance.com/cognitive-computing-market-size-growth-and-key-companies-microsoft-google-ibm-numenta-sas-institute-aws/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/cognitive-computing-market-size-growth-and-key-companies-microsoft-google-ibm-numenta-sas-institute-aws/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/cognitive-computing-market-size-growth-and-key-companies-microsoft-google-ibm-numenta-sas-institute-aws/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 36
   - title: "Cognitive Computing Market Size, Growth and Key Manufacturers – Microsoft, Google, IBM, Numenta, SAS Institute, AWS"
     excerpt: "The Cognitive Computing Market is expected to surge at a steady CAGR in the coming years, states the latest Verified Market Research® report. The publication offers an insightful take on the historical data of the market and the milestones it has achieved."
     publishedDateTime: 2021-10-07T22:09:00Z

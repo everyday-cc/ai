@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-Driving Startup Wayve Gets $13.6M Investment From Online Grocer Ocado"
+    excerpt: "British-based online grocer Ocado has invested £10 million ($13.6 million) in Wayve, a self-driving tech start-up that specializes in camera-based deep learning AI. Ocado and Way"
+    publishedDateTime: 2021-10-10T10:00:00Z
+    webUrl: "https://www.carscoops.com/2021/10/online-grocer-ocado-invests-13-6-million-in-self-driving-startup-wayve/"
+    ampWebUrl: "https://www.carscoops.com/2021/10/online-grocer-ocado-invests-13-6-million-in-self-driving-startup-wayve/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/10/online-grocer-ocado-invests-13-6-million-in-self-driving-startup-wayve/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 42
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/10/Ocado-Wayve-Investment-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Ocado invests in self-driving company"
     excerpt: "The tech firm’s $13.6 million investment in Wayve follows a similar funding announcement earlier this year as it looks to automate delivery for partner retailers like Kroger."
     publishedDateTime: 2021-10-07T15:47:00Z
