@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "White House proposes tech ‘bill of rights’ to limit AI harms"
-    excerpt: "Top science advisers to President Joe Biden are calling for a new \"bill of rights\" to guard against powerful new artificial intelligence technology. The"
-    publishedDateTime: 2021-10-08T05:12:00Z
-    webUrl: "https://mynorthwest.com/3182403/white-house-proposes-tech-bill-of-rights-to-limit-ai-harms/"
-    ampWebUrl: "https://mynorthwest.com/3182403/white-house-proposes-tech-bill-of-rights-to-limit-ai-harms/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3182403/white-house-proposes-tech-bill-of-rights-to-limit-ai-harms/amp/"
+  - title: "White House proposes tech 'bill of rights' to limit AI harms"
+    excerpt: "The White House's Office of Science and Policy on Friday launched a fact-finding mission to look at facial recognition and other biometric tools used to identify people or assess their emotional or mental states and character."
+    publishedDateTime: 2021-10-08T16:34:00Z
+    webUrl: "https://www.chron.com/news/article/White-House-proposes-tech-bill-of-rights-to-16519406.php"
+    ampWebUrl: "https://www.chron.com/news/amp/White-House-proposes-tech-bill-of-rights-to-16519406.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/White-House-proposes-tech-bill-of-rights-to-16519406.php"
     type: article
     provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 59
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 57
     images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2021/10/ap_b391a4af79a44970802d27dea6418bda.jpg"
-        width: 1280
-        height: 853
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "White House proposes tech ‘bill of rights’ to limit AI harms"
     excerpt: "Top science advisers to President Joe Biden are calling for a new “bill of rights” to guard against powerful new artificial intelligence technology. The White House’s Office of Science"

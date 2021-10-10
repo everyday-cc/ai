@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/artificial-intelligence-is-changing-the-cond
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-is-changing-the-condo-industry/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 79
 published: true
 
 provider:

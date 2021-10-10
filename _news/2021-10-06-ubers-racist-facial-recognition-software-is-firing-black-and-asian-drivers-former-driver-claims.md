@@ -9,8 +9,8 @@ ampWebUrl: "https://www.euronews.com/next/amp/2021/10/06/uber-s-racist-facial-re
 cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-"
 type: article
 quality: 60
-heat: -1
-published: false
+heat: 120
+published: true
 
 provider:
   name: Euronews
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Uber faces legal action over ‘racially discriminatory’ facial recognition ID checks"
-    excerpt: "Ride-hailing giant Uber is facing a legal challenge over its use of real-time facial recognition technology in a driver and courier identity check system that it uses in the UK. The App Drivers & Couriers Union (ADCU) announced the legal action Tuesday,"
-    publishedDateTime: 2021-10-06T00:40:00Z
-    webUrl: "https://techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/"
-    ampWebUrl: "https://techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1232204732.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Uber Being Sued Over ‘Racist’ Facial Recognition Algorithm"
     excerpt: "Uber is being sued over a ‘racist’ facial recognition algorithm that is more likely to lock out drivers with darker skin. With this algorithm, drivers are required to scan their face intermittently before they can access the back-end of the ride-hailing app’s system."
     publishedDateTime: 2021-10-06T14:53:00Z

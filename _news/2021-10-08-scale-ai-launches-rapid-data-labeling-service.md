@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/07/scale-rapid-promises-quality-data
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/scale-rapid-promises-quality-data-labeling-for-ai-in-as-little-as-an-hour/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 800
     height: 400
     isCached: true
-
-related:
-  - title: "Sony to Launch Edge AI Platform Service AITRIOS™"
-    excerpt: "Sony Semiconductor Solutions Corporation . Atsugi, Japan - Sony Semiconductor Solutions Corporation (\"Sony\") announced today that its AITRIOS™ edge AI sensing platform will laun"
-    publishedDateTime: 2021-10-06T00:40:00Z
-    webUrl: "https://www.publicnow.com/view/5E1665784AFAE9C98F12CC20FFF1B504178FEB4D"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 23
 
 secured: "D0T6yphQAHP4IbJanyY2tPmGwkDnGIv8q4r+P2lrV3Pk92V1YnaH5logHz50ksFsrp+/PyJB/SJBK9bd4kDFJSssAqPmDBdAuYe1QyAKgCweWJ1SHFH4l4b+jyMfzeGLZKIdkWsKF6FbHj8PbLCjEDCSz7PiNLv+6X1Dqo2BIOA9lOl6wf97plHGKu+oEn07g4beP/fnASJN6RPLHq+TSwB2mmaZxUbwVRSZtgIxisYMEm55Hv32lKg6OWwS/poMQpQDugTZnyuZvnXSZR1I7y+/CFPFMdix5BshxmS2SD9A4WcLRpi4V6HuYtMZHbx4YaUTHMNAG7Z4sG8I/Z0+ttQIzoX6U/6GGJb7KW+g2YY=;Qu1qvnr6Y0/vXCyoGI8CnQ=="
 ---

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Uber faces legal action over ‘racially discriminatory’ facial recognition ID checks"
-    excerpt: "Ride-hailing giant Uber is facing a legal challenge over its use of real-time facial recognition technology in a driver and courier identity check system that it uses in the UK. The App Drivers & Couriers Union (ADCU) announced the legal action Tuesday,"
-    publishedDateTime: 2021-10-06T00:40:00Z
-    webUrl: "https://techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/"
-    ampWebUrl: "https://techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1232204732.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Uber's 'racist' facial recognition software is firing Black and Asian drivers, former driver claims"
     excerpt: "Uber is facing legal action for alleged indirect racial discrimination against a driver who claims he was sacked after facial recognition software used by the company failed to recognise him. In an employment tribunal claim filed this week,"
     publishedDateTime: 2021-10-06T15:37:00Z

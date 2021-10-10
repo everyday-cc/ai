@@ -9,7 +9,7 @@ ampWebUrl: "https://businessfacilities.com/2021/10/finance-insurance-fintechs-fu
 cdnAmpWebUrl: "https://businessfacilities-com.cdn.ampproject.org/c/s/businessfacilities.com/2021/10/finance-insurance-fintechs-future-is-now/amp/"
 type: article
 quality: 59
-heat: 110
+heat: 109
 published: true
 
 provider:

@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Government to begin work on monetising AI subsidiaries"
+    excerpt: "The govt on October 8 had announced that salt-to-software conglomerate Tatas have won the bid to acquire Air India for ₹ 18,000 crore"
+    publishedDateTime: 2021-10-10T17:24:00Z
+    webUrl: "https://www.telegraphindia.com/business/government-to-begin-work-on-monetising-ai-subsidiaries/cid/1834157"
+    ampWebUrl: "https://www.telegraphindia.com/amp/business/government-to-begin-work-on-monetising-ai-subsidiaries/cid/1834157"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/government-to-begin-work-on-monetising-ai-subsidiaries/cid/1834157"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 57
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2021/Oct/1633121821_air-india.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "After Air India Privatisation, Work to Monetise Alliance Air, 3 Other AI subsidiaries to Start Now: DIPAM Secy"
     excerpt: "After the historic Air India privatisation, the government will now start work on monetising its four other subsidiaries, including Alliance Air, and over Rs 14,700 crore worth non-core assets like land and building,"
     publishedDateTime: 2021-10-10T13:09:00Z

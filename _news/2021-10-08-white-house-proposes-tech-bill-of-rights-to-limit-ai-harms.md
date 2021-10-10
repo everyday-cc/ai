@@ -1,29 +1,28 @@
 ---
 category: news
-title: "White House proposes tech ‘bill of rights’ to limit AI harms"
-excerpt: "Top science advisers to President Joe Biden are calling for a new \"bill of rights\" to guard against powerful new artificial intelligence technology. The"
-publishedDateTime: 2021-10-08T05:12:00Z
-originalUrl: "https://mynorthwest.com/3182403/white-house-proposes-tech-bill-of-rights-to-limit-ai-harms/"
-webUrl: "https://mynorthwest.com/3182403/white-house-proposes-tech-bill-of-rights-to-limit-ai-harms/"
-ampWebUrl: "https://mynorthwest.com/3182403/white-house-proposes-tech-bill-of-rights-to-limit-ai-harms/amp/"
-cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3182403/white-house-proposes-tech-bill-of-rights-to-limit-ai-harms/amp/"
+title: "White House proposes tech 'bill of rights' to limit AI harms"
+excerpt: "The White House's Office of Science and Policy on Friday launched a fact-finding mission to look at facial recognition and other biometric tools used to identify people or assess their emotional or mental states and character."
+publishedDateTime: 2021-10-08T16:34:00Z
+originalUrl: "https://www.chron.com/news/article/White-House-proposes-tech-bill-of-rights-to-16519406.php"
+webUrl: "https://www.chron.com/news/article/White-House-proposes-tech-bill-of-rights-to-16519406.php"
+ampWebUrl: "https://www.chron.com/news/amp/White-House-proposes-tech-bill-of-rights-to-16519406.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/White-House-proposes-tech-bill-of-rights-to-16519406.php"
 type: article
-quality: 59
-heat: 79
+quality: 57
+heat: 77
 published: true
 
 provider:
-  name: MyNorthwest.com
-  domain: mynorthwest.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mynorthwest.com/wp-content/uploads/2021/10/ap_b391a4af79a44970802d27dea6418bda.jpg"
-    width: 1280
-    height: 853
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -60,6 +59,6 @@ related:
         height: 853
         isCached: true
 
-secured: "fQbk8CwIriPW4y8kiK8b15s6Q79Q2xvNFVfHaK79JTfUEKGXULJSPNVU8/7r86VzQrk2cmt+9Ct5psQFTed9L09XeNXZhSIy4pnI2Rrp+RTzOGL9mO1YHd0PUyMsJKrSk4/Pwdq5GQ7FThRxXlIjjaOBIed5eqR/zOobE9BCtDzjUSlGnc2/4y1MJQ9Zm1T2iavF4iOhGcVrModNOaFo86cgWZ1i1X9WPesW9a0yjQIKVyETzFyai/W8JTVW5wtpWKqEydduT7REIpmEvzq3IrWf8M+vkw/kt1nSoAYsa8iQOwFLNDQCRqvv0pYhN6rkhflv9SSs5EKvPca5QmNy7ju2ZL5nMcsKsZRHr5zDAxE=;nwXi9t7QS8pYu9N8ClA+qQ=="
+secured: "7CUZXTzpW4xesRTHJw5o7JCX2W8oNlNijp4BCOuiXKWc9sHrJXIw3Y7xyr1QydtIgzrXJCwu5l48KO8qnx+rwGclOGlkrsJig4ND0xpj1rXS4RJ7+NwEReAqnlkqxuGZXU2BPmyTcPct+eJM1T3kE7IyiEGRz+RbxB6vtxfi7oBYe8kQvCFpreBkHMnoUkEFapXhzKe6Z7WfMPhcHy+qcRpn9D5QtC06cv4t4UawEi/CEqXqrzxMprTguWpvTXcoUIxi9X3O90WeQpazB2nuJa3Ss19i8MIGb4B89n4PKXH5gucXrBrt7yTfGMzCj8c+JGjR+CBMRxKIqwZ2dyIHMkJznLGfztQL+O6ZWNlZ3K8=;KKR3UwhpZMzr2NHQIBX6xA=="
 ---
 

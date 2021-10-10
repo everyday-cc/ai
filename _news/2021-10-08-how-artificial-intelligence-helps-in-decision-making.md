@@ -59,22 +59,6 @@ related:
         width: 3177
         height: 2037
         isCached: true
-  - title: "Coding and More to host 2nd edition of International Artificial Intelligence Competition"
-    excerpt: "From October 8 to October 11 2021, Coding and More will host India’s first virtual international hackathon for teen girls in AI. This is in collaboration with TeensinAI, France. As many as 22 countries are participating in this social initiative."
-    publishedDateTime: 2021-10-06T00:20:00Z
-    webUrl: "https://www.freepressjournal.in/lifestyle/coding-and-more-to-host-2nd-edition-of-international-artificial-intelligence-competition"
-    ampWebUrl: "https://www.freepressjournal.in/amp/lifestyle/coding-and-more-to-host-2nd-edition-of-international-artificial-intelligence-competition"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/lifestyle/coding-and-more-to-host-2nd-edition-of-international-artificial-intelligence-competition"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 50
-    images:
-      - url: "https://images.assettype.com/freepressjournal/2021-10/fea16da5-0437-419c-b283-32ca8a06a2ff/Info_Advetorial_Oct5.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1199
-        height: 729
-        isCached: true
   - title: "Time Is Ripe For Responsible AI In Aviation"
     excerpt: "AI is here for over 60 years, advances in computing and access to data have allowed many industries to exploit the potential of ML algorithms."
     publishedDateTime: 2021-10-08T12:31:00Z

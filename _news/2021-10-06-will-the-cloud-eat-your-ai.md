@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/will-the-cloud-eat-y
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/will-the-cloud-eat-your-ai/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Can We Prevent a Rogue Artificial Intelligence?"
-    excerpt: "Artificial superintelligence (ASI) has the potential to be incredibly powerful and poses many questions as to how we appropriately manage it."
-    publishedDateTime: 2021-10-05T23:44:00Z
-    webUrl: "https://www.bbntimes.com/science/can-we-prevent-a-rogue-artificial-intelligence"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 39
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Artificial_Super_Intelligence.jpeg"
-        width: 1030
-        height: 687
-        isCached: true
 
 secured: "iNoeNJF7ZH1sLlS2U6aETAl2cs8M6si935dL9eZ+tQ4+3JFx2UbK3XG4wHU7dTkBFRkvJC/uiaJJGeSvS3aJS64ZvwUS6ibL3PlTTxCmU21CUjrNEun6+QlGP8uxJ48DqLF9QKmIBqqu6WJHNFpHeMOLdN77jjP+YBaQshvW912nUr7/FkuDQYUPQE8ZNAX6C2yffZ+gnJx/ParAI/cYhLF7TcoRmjFmQClg7qMkzwnprJ2I2kHpId++TyZjIp/wDyPXkgZ7ZxJV62DQIXQTQl8d+Ks1tY6FkcwF6KDkatt5TlTP16//QS9ItJ9XiJfYpUvL4OVpsBf+J/gAZrk/2AAW75GSh1Q0kyHk3nhaMQE=;WDpVnKAWA25UP2RzBbTsoA=="
 ---
