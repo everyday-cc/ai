@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/home/roomba-j7-vs-samsung-jet-bot-ai/?
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/roomba-j7-vs-samsung-jet-bot-ai/?amp"
 type: article
 quality: 99
-heat: 99
+heat: 100
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://europeansting.com/2021/10/05/this-is-best-practice-for-using
 cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 684
         height: 400
         isCached: true
-  - title: "West Lafayett City Council Votes in Favor of Banning Government Use of Facial Recognition Technology"
-    excerpt: "The West Lafayette City Council took up a vote to ban Government use of Facial Recognition Surveillance technology. The council was split on its decision."
-    publishedDateTime: 2021-10-05T06:06:00Z
-    webUrl: "https://www.wlfi.com/content/news/West-Lafayett-City-Council-Votes-in-Favor-of-Banning-Government-Use-of-Facial-Recognition-Technology-575459661.html"
-    type: article
-    provider:
-      name: WLFI
-      domain: wlfi.com
-    quality: 4
 
 secured: "1qqAxVG//rxkOSwPbsw60rEzy/wnV4mYWaruHs4WDN08by6MMi9MfLQfP7YTtmnycAmRzOF3sjX51K2Lsmkzpwx+58e2vqgzRcjA13fE3ubDSHJnHjtO3VPQJ+3PefsqOFRm+aIohqk5xdVmZ8RNpK6SidMExq6gRkr5+IARJ+gjY8HcMUL3DV2k677s5lB06Vj/s59ftUIbSH19NcCHkWXcT+5KWWsOe342WV7eJpLIIsskKuLNSfMNsfLtGSRZ2JorNFN2SUu84QD8i/15gcIFKQnFybz5s4DNlTm1wZQ8DhlvtVGmbb/GRvnLzZef0nJYQeoMHzYxVjMIlcM06m/rwNHbX0toPbClEinRB6QemiR2wCg62sGBbMsJAAUHhtQQQPwuyO3e+NCENvTgZaX4R2qCTWQ2oHeQXJ3M4KUe9r2cUBZQddig51XxIWqalu5+CmbaZ1G5jHTa+UvpuUEypcXfFjGx5o2y+B04KKDGKBf5Qf/DmbQW1ljLOZCGfeaG+kBQPHBOfCxUSxCCjA==;1syRY9Ju/Uc/TFWmqj7kJg=="
 ---

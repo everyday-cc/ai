@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/applications-os/databricks-boosts-no-code
 webUrl: "https://www.crn.com/news/applications-os/databricks-boosts-no-code-data-analytics-ai-capabilities-with-acquisition"
 type: article
 quality: 135
-heat: 229
+heat: 225
 published: true
 
 provider:

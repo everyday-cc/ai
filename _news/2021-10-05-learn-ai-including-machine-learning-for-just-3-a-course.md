@@ -31,15 +31,15 @@ images:
 related:
   - title: "Reinforcement learning improves game testing, AI team finds"
     excerpt: "Recently, gaming companies have become interested in using reinforcement learning and other machine learning techniques in game development."
-    publishedDateTime: 2021-10-07T21:20:00Z
-    webUrl: "https://venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/"
-    ampWebUrl: "https://venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/amp/"
+    publishedDateTime: 2021-10-08T04:20:00Z
+    webUrl: "https://venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/?via=indexdotco"
+    ampWebUrl: "https://venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/?via=indexdotco&amp"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/?via=indexdotco&amp"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
+    quality: 87
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/10/adversarial-reinforcement-learning-for-procedural-content-generation-1.jpeg?w=1200&strip=all"
         width: 1200

@@ -2,14 +2,14 @@
 category: news
 title: "Reinforcement learning improves game testing, AI team finds"
 excerpt: "Recently, gaming companies have become interested in using reinforcement learning and other machine learning techniques in game development."
-publishedDateTime: 2021-10-07T21:20:00Z
-originalUrl: "https://venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/"
-webUrl: "https://venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/"
-ampWebUrl: "https://venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/amp/"
+publishedDateTime: 2021-10-08T04:20:00Z
+originalUrl: "https://venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/?via=indexdotco"
+webUrl: "https://venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/?via=indexdotco"
+ampWebUrl: "https://venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/?via=indexdotco&amp"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/?via=indexdotco&amp"
 type: article
-quality: 89
-heat: 129
+quality: 87
+heat: 127
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
   - AI
 
 images:
@@ -92,6 +91,6 @@ related:
         height: 420
         isCached: true
 
-secured: "jwFjadsqDaTqNt0Hywh+Yz3EyFAW+JiZUMsX8kS0eXy7CipTNI0Hb4TcU/9fukXxImvwTjWoJFwLHQlb3NpRLO5ATDQU5rG4ZCMDtcCbjQEjqlvOKtN1Rv6PsfIFTZw9+omV0Q6N+s7YhFTHwNubO3F9d6WpCybI357jI/FOQc/crUuPp6CFW/KbbtWHcfqH6jQpSFDjN2S9g6J0kF8TZLz6Kfm63wBMaDIEwAE7/ImjfoY/6WCkJPlLVmRaclEjP17COMNqHlWFjeAGDlxplocuVopZzV/RG6x/Sn1mrSbamFWIGr3Kz5VERCZ0UWorSgVoOai6zstcFv7mPoEj6jHZIFYGGf20zTf9OefwlCtMNN2oexRh72P9HE8LhNw/+UyGZnKlJaMcscwObphEakLtDvcA8DPcsyuXnhkmmW6FBphAZbOYTG+tfEJJhB+v1tdaK9uMmCa9XCYJoP993krzXxeDRUIu6FcLqr5quACI99rJrJwYdUTr+B6RnkBFr9QricmZFkq9UULPHnd6oA==;2It1Qj1MfKDIcgXmRz4OGQ=="
+secured: "uDBIhlrWOSNtMw44dxuOlwR83jINxyySKcG4g1BC0n3E8gPWdbmDNFCHm7MGEgdeAfAZc/4341ASsjEI55mR1SwpQDQQ8v9ri6tPmcPSx6WB7ntVDMWjsgCorcO+gYoQyLWCrXAPX4gzBb0tg+RVJnPsESjQKduvEejPnJqptIoAGpI/1lKEOZM0seDZDxEx8Tqy016Ce0xrl3/+kC29Eo/1mB48fdiPIgAUiv9JEdCSV66x6uQOhbdyqp7iU97FFCS/frMkuu0rBVkF1V8oVqqFzjxtJzcEFEMOzTRsiuuDRLJ+HffWX5hqs0Gwh2uIgXdvcMBXhtsZmqTL0q9zdyHcFmg2DFS3DufqsgTULH4=;8ljTqFM05fdp0ee74dOgXQ=="
 ---
 

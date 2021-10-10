@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 612
         isCached: true
-  - title: "Edge AI Chips Market Report 2021 Size with Segments Analysis, Competitive Landscape, Top Countries Data and Growth Opportunities to 2027"
-    excerpt: "Global “Edge AI Chips Market” Size, Status and Growth Forecast to 2027: The Edge AI Chips Market report has potential"
-    publishedDateTime: 2021-10-05T06:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-report-2021-size-with-segments-analysis-competitive-landscape-top-countries-data-and-growth-opportunities-to-2027-2021-10-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "lFD4lTPZ2XtFGbYBvXS9O3CV4JR5LITZ3U/HhH/ma4b668PN6Zb367MIm7FRewkWEz9730VYsXGkgezwYa6Gl3FYuaFf2dGs1T4W1nKQYNs7nzfxIi/PDU6glkHnLw4kaIig/69cw9HgiOL12PxJDLC9kiSQw5Hf/ebkJLkyeUVUVOZQov39DzBASnXifMlKyljJ/GUkgLTwR4YNUEp+wp++cKpDR8IGgfy3X1UR1AXwuT8IoCujUoGDV6Z8NhgXk0+pMZ5UUX9TLwbK0Leycfu5OfHbJy0XssSURFxu7i92lNiMvomBRoHhYDD0NWU5spYvDCh5OI3EhW2mO09VM6AriCyOvN9wJ2NXiHxfpkEd1tXxs8UsZT3DcokMYaer5RXdSyeLGFMcGAEmCiNoP8IKhoR66ROfKjL/PchHftECx1JlwLJss/eFNVy3oAU8h5mVLznTuTc8vHj70mObEjrVODzJd+2ZOucoAn9gr+Iz5xhYVm6S2gBg5FWvW6A7A0rTuI9AaBqZyVURlZiH5A==;k5PeBUdz1x7au6zR7VEreA=="
 ---

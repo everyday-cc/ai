@@ -57,15 +57,6 @@ related:
         width: 684
         height: 400
         isCached: true
-  - title: "West Lafayett City Council Votes in Favor of Banning Government Use of Facial Recognition Technology"
-    excerpt: "The West Lafayette City Council took up a vote to ban Government use of Facial Recognition Surveillance technology. The council was split on its decision."
-    publishedDateTime: 2021-10-05T06:06:00Z
-    webUrl: "https://www.wlfi.com/content/news/West-Lafayett-City-Council-Votes-in-Favor-of-Banning-Government-Use-of-Facial-Recognition-Technology-575459661.html"
-    type: article
-    provider:
-      name: WLFI
-      domain: wlfi.com
-    quality: 4
 
 secured: "KxF7n+OrLQghrUjV/DCGrvqyqcAG17s1vD1FUtyfttg4z17gCR3mDQuPGsE54+e38XCe6FGcEWkcrjdInIyjSOUoMMc28cyVcWUz5oIuvgblAXuj5M97L2JBOIOunDhDadXxtyt1HVRUKfRdFI2rsje+YuVOuZKQtbpfMOMVSa5jQorKWnruI7lmDIP9BQ9U/mfq+vaOAzy0nscGVUIL4zZA1Qs7Oazx4MGFYHK2TN5ybkeiaP/+M4hAt3+5oh4NHf1BM9YKouzFXp6bMhm43/xJCp+b811NDv5ZM38+32ItF5KdO7LRJT1YiSe6O50qhdEHURwmOvn8zZeRy/+FmkN4tqdKOwu3gaflOoWrvNwFODQ09C2Ky3X0Txsw1iuuEi9dhT//LHQSPaiFzuvMZyWNTbC+KRyq0n7tPGsrSVrMaOrav860vdLHs5+8bm+a6+4eljRD5lVqtk4Pw07P2R3eAEB4kx4CwffFm65TZCSr6BEnkHpW/bcWDwou5tt4dexxTudKZQM2mT7vmSlA4Q==;GdMGTZ3stzSCeU5feVrjTA=="
 ---

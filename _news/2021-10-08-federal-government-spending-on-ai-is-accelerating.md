@@ -7,7 +7,7 @@ originalUrl: "https://www.aitrends.com/ai-in-government/federal-government-spend
 webUrl: "https://www.aitrends.com/ai-in-government/federal-government-spending-on-ai-is-accelerating/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 550
     height: 352
     isCached: true
-
-related:
-  - title: "Pushing the Accelerator: Tesla and Legal AI"
-    excerpt: "By Hugo Seymour, COO, Della What can the legal world learn from the automotive industry’s journey to driverless cars? While everybody talks about it and many claim to be doing it, the reality is"
-    publishedDateTime: 2021-10-05T06:40:00Z
-    webUrl: "https://www.artificiallawyer.com/2021/10/05/pushing-the-accelerator-tesla-and-legal-ai/"
-    type: article
-    provider:
-      name: artificiallawyer.com
-      domain: artificiallawyer.com
-    quality: 54
-    images:
-      - url: "https://www.artificiallawyer.com/wp-content/uploads/2021/10/Screenshot-2021-10-05-at-07.11.58.png"
-        width: 2007
-        height: 1375
-        isCached: true
 
 secured: "EyYLXxlOhOKbVCVNokJTlcXcg2eeLb91i7BtjQStCKBvftVn8ftuN865j8afFMo9Omx1IdMgxX0JnRtzhpU4EOmRY9tDkLngRdcaSgflrBvWSZjl2SFfkA4W7DR7enFNVDfzIk5Dt1hMlZtdaV2RQDteFKFi+vii67fb9sUUUJVcrN9PEoEjMfcAbNkVcjTWsY5PW7H4H7vGvBSQtgdoxj8Rx6ihrUUOTuy7GASI2i/Rr/y6rLyAZqVZ7hiOtC/LWkY5fa0D3TOaUOeskssiuq+CT6IuEL3sLeRS5tz7iCcFiNMx6pi2IKx3Iz6/CoL7Y0Khjz7bjGO3IqOt3/vt5Q6cT09dkHOZxM9awXJWxalixOdnzF1PfXdQlowPLsajLwSMKEVAOk2EFfbd53y3XQksDfWqfLD949mQqKOqALpV/Vntq/cnfOTzwQJqfOhMmHEvV5hgQSZX34mbLfKqeiaaYirs6SxSPHvfT9YjFjp3Me+o+6p/aZTPo8XPatbdwLyaS681ewsz+IogLTd49Q==;OFIus+Woftug6vmBGwZM+Q=="
 ---

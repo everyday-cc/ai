@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-traffickin
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/amp/"
 type: article
 quality: 91
-heat: 133
+heat: 131
 published: true
 
 provider:

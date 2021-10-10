@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-data-and-ai-landscape-2
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Edge AI Chips Market Report 2021 Size with Segments Analysis, Competitive Landscape, Top Countries Data and Growth Opportunities to 2027"
-    excerpt: "Global “Edge AI Chips Market” Size, Status and Growth Forecast to 2027: The Edge AI Chips Market report has potential"
-    publishedDateTime: 2021-10-05T06:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-report-2021-size-with-segments-analysis-competitive-landscape-top-countries-data-and-growth-opportunities-to-2027-2021-10-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market 2021"
     excerpt: "The artificial intelligence (AI) market is driven by data-based AI & deep learning. Explore our overview of today's artificial intelligence market & forecast now."
     publishedDateTime: 2021-10-08T16:08:00Z
