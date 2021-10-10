@@ -39,20 +39,6 @@ related:
         width: 2048
         height: 1335
         isCached: true
-  - title: "Sensory Releases Speech Recognition for Children"
-    excerpt: "Sensory Inc., a recognized leader for Edge AI, announces the immediate availability of custom trained speech recognition models that"
-    publishedDateTime: 2021-10-05T12:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/sensory-releases-speech-recognition-for-children-301392648.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1529245/Sensory_Logo.jpg?p=facebook"
-        width: 1500
-        height: 785
-        isCached: true
 
 secured: "F9Dd6Gy0/KRVgoZf6YLVMPB2ASi9ar2ong3pOerXaNuvBpGQo9E8wzNVYVu/YZtY9V2URSIUVE5jiYT5LjnCo6+FNw0ysyAhRoMkRA2TTU0vfFFjE2AKPxM7QeWKNruP8huUR5zkceN4bR3B2UxveXfSgOzdTZaKgfIf+Dmq9DjCY8Aur3XgWXydZNHY7eLCqJNHG1/ROG1vFN5U8BYbvjh/VKU0HgeXGx3r+9VwDxNg5doM2kjBLtSxDSfZpxRD6deZaDE09zIh9w/BOqGUVDCs6UX9fRpHDPZu4f6VBSnvmpnXUD0lkfAO/3/AloFnpKJGYkqpBnCFw9Aa+65a2O2jRhlRsDdfqs4Tp1T5Tr63Uq7n0gllG2Q2pe6qXtxWlbKHfNMAcuUVSVQI1ioR1Anr8osRdMKMW3Hb2M2zvyb8EeoC4kP9Qm06RCJB95v60xzivNXELHLHMjd4VePL4jUdBMFrcfrXVo5fZj8YRkvoMtkLzPJ+vNQXrYe9T55yA04/bfSS8EgCb3DGLfCvzg==;0Wtc6WgjBJJi9okprkN3Jw=="
 ---

@@ -50,6 +50,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Baidu Inc. (BIDU) Stock Sinks As Market Gains: What You Should Know"
+    excerpt: "From self-driving cars to consumer data analysis ... Click to get this free report Baidu, Inc. (BIDU): Free Stock Analysis Report To read this article on Zacks.com click here."
+    publishedDateTime: 2021-10-08T04:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-inc--bidu-stock-sinks-as-market-gains--what-you-should-know-10601134"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "FwLKnvTsng7NDOo37n64hC5uQEMxZ4TKR5g/0q4lqYk8xWcpSMShZGB/+sQ3qWvB97QH4JLjo2hISaBWbfTfR2mwfLaG8GeX3X6YYj1CZ7lRF/r7jhF9msIES+OqKa/k89TqvWAS0TYNbLPYOrROCYgOZwKp3MRy9I3VXaxuj+pea/JqXOLFnD8DyXnCTlhukcKnjfJ+hhP1msRQt4YIumepZOLKKd/JSJ4MakSYcJga0KvVSpEL9gAaZoFDXLlW1Ryge4be2iRLKHqHzfi9C+iL0CioBXeapcMUtXTEkIx83q+i74oxjka5dGF80L82Q3h4Gb4Zmv/1HNOBvPoGfjyWcm8ROcA2/uvL8Snyx0U=;9d38xqIsxLauwaLtVZlfAQ=="
 ---

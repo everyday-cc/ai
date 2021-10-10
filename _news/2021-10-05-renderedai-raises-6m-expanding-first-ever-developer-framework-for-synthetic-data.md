@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rendered.ai raises $6M on the promise of ending data scarcity"
-    excerpt: "The availability of data can paralyze a company and its effort to bring software-centric products and services to market. To solve this issue, two-year-old data startup Rendered.ai is generating synthetic data for the satellite,"
-    publishedDateTime: 2021-10-05T13:00:00Z
-    webUrl: "https://techcrunch.com/2021/10/05/rendered-ai-raises-6m-to-scale-physics-based-synthetic-data-developer-platform/"
-    ampWebUrl: "https://techcrunch.com/2021/10/05/rendered-ai-raises-6m-to-scale-physics-based-synthetic-data-developer-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/rendered-ai-raises-6m-to-scale-physics-based-synthetic-data-developer-platform/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/10/Simulated-Crane-GAN-2.png?w=512"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Gretel.ai, a platform for generating synthetic and privacy-preserving data, raises $30M"
     excerpt: "Gretel.ai, a platform offering a suite of privacy-preserving data tools, has raised $50 million in a venture funding round."
     publishedDateTime: 2021-10-07T13:00:00Z
@@ -60,6 +44,29 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Gretel.ai Snags $50M For Privacy Efforts"
+    excerpt: "San Diego-based Gretel.ai, a startup which is developing privacy technology, has raised $50M in a Series B funding, the company said today. The funding was led by Anthos Capital, and also included Section 32,"
+    publishedDateTime: 2021-10-07T15:16:00Z
+    webUrl: "https://socaltech.com/gretel_ai_snags___m_for_privacy_efforts/s-0081789.html"
+    type: article
+    provider:
+      name: SocalTech
+      domain: socaltech.com
+    quality: 37
+    images:
+      - url: "https://www.socaltech.com/images/logos/gretelai21.png"
+        width: 440
+        height: 220
+        isCached: true
+  - title: "Neural Magic raises $30M to shift AI from hardware to software"
+    excerpt: "Somerville AI startup Neural Magic, an AI company trying to replace machine learning hardware with software, has raised $30M in Series A funding."
+    publishedDateTime: 2021-10-06T14:26:00Z
+    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2021/10/06/neural-magic-raises-30-million.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "ePpfj1IX0dlG94R9INY2ckyoK3xipOI7ybpWa7jpCA4MORgKk5Y3osIriDpl33LmXDisbvKOUsR7wHQc4/wyl37PoQsdaiBACchbu6Uc+O2/qGukFK+lJgXxxPcjLUb/mPJlUOppoighZ1G3z5oVLHw/IsWeHam5wcEtLfnzTsZfzncBtTa1+2AYC8C29GSmKXYV1PNKcMkKBVDfMsmS2+aMA26Kenmts0E7lO8aKPk3PFCGWnP8LNuIs0eTdnfe4YrWslB6H2/yT6oqPkXh7XAbB/j+O/CavHYEDqEZT0Bxh0iPDEAaFsOaXvzhAP537aXkZm7fgc/m2I++oCpLIFpXl0rBs9j1dukmaf93j4+VPRlYE5ukC+tAGZIfQ0gePs4JhsKpTO7oUjvbD149WFnLXWhdrdtPyFvuIQOPQYqIxoErE43Tiripg7R10NEdajV7lRHQ3WBw2ixKUOZLIB8vBgr0QWZeelnNSJA+wtfQlivwchDO1poj/pIROucWoaqmepGjUGvpTlAqsd1lfA==;yTRuKT9aaN3fDwaZx/1vqQ=="
 ---

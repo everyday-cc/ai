@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/08/how-to-ena
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/08/how-to-enable-data-centric-ai/amp/"
 type: article
 quality: 89
-heat: 143
+heat: 135
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
         width: 640
         height: 480
-        isCached: true
-  - title: "Centre for Excellence up in AI, Data Engineering to come up in Hubballi"
-    excerpt: "From Our Special CorrespondentDaijiworld Media Network Bengaluru, Oct 4: Higher Education Minister Dr C N Ashwath Narayan, who is also in charge IT, BT and Skills Development, on Tuesday announced the State Government’s decision to establish a Centre for Excellence in Artificial Engineering (AI) and Data"
-    publishedDateTime: 2021-10-05T11:40:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=880289"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 37
-    images:
-      - url: "https://www.daijiworld.in/images3/rayan_061921_Ashwath1.jpg"
-        width: 640
-        height: 427
         isCached: true
   - title: "Akridata™ Launches World's First Edge Data Platform for Data-Centric AI"
     excerpt: "Decentralized Software Accelerates Access to Relevant AI Data, Handles Ingest, Catalog, and Exploration of Complex AI Data, and Enables Traceable AI Across Industries"

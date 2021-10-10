@@ -9,7 +9,7 @@ ampWebUrl: "https://english.mathrubhumi.com/news/offbeat/us-firm-acquires-kerali
 cdnAmpWebUrl: "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705"
 type: article
 quality: 57
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gap Inc acquires AI start-up CB4"
-    excerpt: "Gap Inc has acquired AI start-up Context-Based 4 Casting Ltd (CB4) that uses machine learning tools to transform retail operations."
-    publishedDateTime: 2021-10-05T11:33:00Z
-    webUrl: "https://www.just-style.com/news/gap-inc-acquires-ai-start-up-cb4/"
-    type: article
-    provider:
-      name: Companies
-      domain: just-style.com
-    quality: 37
-    images:
-      - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/10/Gap-Specialty-White-City-Store-Exterior.jpg"
-        width: 1773
-        height: 1182
-        isCached: true
   - title: "Gap Inc. acquires artificial intelligence startup CB4"
     excerpt: "As part of ongoing tech efforts, Gap Inc. on Monday announced that it acquired Context-Based 4 Casting for an undisclosed amount. CB4 is a retail technology startup th"
     publishedDateTime: 2021-10-05T15:17:00Z

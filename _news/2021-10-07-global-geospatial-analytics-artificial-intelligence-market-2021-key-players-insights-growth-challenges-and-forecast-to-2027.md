@@ -140,22 +140,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition Market Analysis, Growth, Trends, Forecast by 2024 – TMR"
-    excerpt: "The presence of companies such as Google, Twitter, Facebook, International Business Machines (IBM) Corporation, Apple, etc., which are spearheading the global image recognition market, naturally makes North America the leading regional market for image recognition."
-    publishedDateTime: 2021-10-05T12:22:00Z
-    webUrl: "https://manometcurrent.com/image-recognition-market-analysis-growth-trends-forecast-by-2024-tmr/"
-    ampWebUrl: "https://manometcurrent.com/image-recognition-market-analysis-growth-trends-forecast-by-2024-tmr/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/image-recognition-market-analysis-growth-trends-forecast-by-2024-tmr/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 43
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Ultrafast-Lasers-Market-A-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
   - title: "Artificial Intelligence Chipsets Market By Component: Regional Analysis - Global Forecast by 2020 2030"
     excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 06, 2021, 00:24 /Comserve / -- The Artificial Intelligence Chipsets Market is expected to be around US$ 80.20 Billion by 2025 at a CAGR of 36% in the given forecast period."
     publishedDateTime: 2021-10-06T18:45:00Z

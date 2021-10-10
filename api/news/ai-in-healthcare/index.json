@@ -45,6 +45,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-08-white-house-proposes-tech-bill-of-rights-to-limit-ai-harms.md",
+      "title": "White House proposes tech ‘bill of rights’ to limit AI harms",
+      "excerpt": "Top science advisers to President Joe Biden are calling for a new \"bill of rights\" to guard against powerful new artificial intelligence technology. The",
+      "sourceUrl": null,
+      "webUrl": "https://mynorthwest.com/3182403/white-house-proposes-tech-bill-of-rights-to-limit-ai-harms/",
+      "originalUrl": "https://mynorthwest.com/3182403/white-house-proposes-tech-bill-of-rights-to-limit-ai-harms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mynorthwest.com/wp-content/uploads/2021/10/ap_b391a4af79a44970802d27dea6418bda.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mynorthwest.com/3182403/white-house-proposes-tech-bill-of-rights-to-limit-ai-harms/amp/",
+      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3182403/white-house-proposes-tech-bill-of-rights-to-limit-ai-harms/amp/",
+      "publishedDateTime": "2021-10-07T22:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyNorthwest.com",
+        "domain": "mynorthwest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-senate-bill-would-require-new-metrics-to-fuse-artificial-intelligence-across-the-us-defense-landscape.md",
       "title": "Senate Bill Would Require New Metrics to Fuse Artificial Intelligence Across the U.S. Defense Landscape",
       "excerpt": "S.D., recently introduced legislation that would require the Defense Department to institute performance objectives and metrics to incorporate artificial intelligence and digital readiness across all of its platforms,",
@@ -220,24 +263,33 @@
     {
       "path": "_news/2021-10-01-acclarent-launches-first-ent-navigation-technology-powered-by-artificial-intelligence.md",
       "title": "Acclarent Launches First ENT Navigation Technology Powered by Artificial Intelligence",
-      "excerpt": "Acclarent, Inc., part of the Johnson & Johnson Medical Devices Companies, * and a leader in developing minimally-invasive Ear, Nose & Throat (ENT) technologies, today announced the U.S. launch of its first-ever AI-powered ENT technology,",
+      "excerpt": "Acclarent, Inc., part of the Johnson & Johnson Medical Devices Companies,* and a leader in developing minimally-invasive Ear, Nose & Throat (ENT) technologies,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-acclarent-launches-first-ent-navigation-technology-powered-artificial-/2021/09/30/9460511.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-acclarent-launches-first-ent-navigation-technology-powered-artificial-/2021/09/30/9460511.htm",
+      "webUrl": "https://www.fltimes.com/business/national/acclarent-launches-first-ent-navigation-technology-powered-by-artificial-intelligence/article_00a57f13-c513-5218-a453-f1d972f3adc3.html",
+      "originalUrl": "https://www.fltimes.com/business/national/acclarent-launches-first-ent-navigation-technology-powered-by-artificial-intelligence/article_00a57f13-c513-5218-a453-f1d972f3adc3.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/eedition/c/b2/cb2d322a-d375-53fd-84ef-eb63cdc397d4/6160d0fde5942.preview-300.jpg?resize=300%2C600",
+          "width": 300,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T13:58:00-07:00",
+      "publishedDateTime": "2021-09-30T16:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Finger Lakes Times",
+        "domain": "fltimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1328,58 +1380,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-18-the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality.md",
-      "title": "The Social Impact Case For Artificial Intelligence’s Role In Achieving Global Financial And Health Equality",
-      "excerpt": "Equality Mural.. Technology can be used for a great many things: improving people’s lives is one of them. This is achievable through AI in many sectors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/09/17/the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/09/17/the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6144ea724d323ccd70477289%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1036%26cropY1%3D941%26cropY2%3D1524",
-          "width": 1036,
-          "height": 583,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/09/17/the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/17/the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality/amp/",
-      "publishedDateTime": "2021-09-17T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI in Healthcare"
       ]

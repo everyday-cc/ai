@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence market in India to reach $7.8 bn by 2025: IDC"
-    excerpt: "AI software segment is expected to dominate the market and grow from USD 2.8 billion in 2020 at a CAGR of 18.1 per cent by the end of 2025, IDC said."
-    publishedDateTime: 2021-10-05T11:14:00Z
-    webUrl: "https://www.financialexpress.com/industry/technology/artificial-intelligence-market-in-india-to-reach-7-8-bn-by-2025-idc/2344290/"
-    ampWebUrl: "https://www.financialexpress.com/industry/technology/artificial-intelligence-market-in-india-to-reach-7-8-bn-by-2025-idc/2344290/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-market-in-india-to-reach-7-8-bn-by-2025-idc/2344290/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 57
-    images:
-      - url: "https://images.financialexpress.com/2021/10/Artificial-intelligence.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Artificial intelligence market in India to reach $7.8 billion by 2025: IDC"
     excerpt: "The artificial intelligence (AI) market in India is expected to grow at a five-year compound annual growth rate (CAGR) of 20.2 per cent and touch USD 7.8 billion in total revenues by 2025, according to research firm IDC."
     publishedDateTime: 2021-10-05T15:27:00Z

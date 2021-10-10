@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sensory Releases Speech Recognition for Children"
-    excerpt: "Sensory Inc., a recognized leader for Edge AI, announces the immediate availability of custom trained speech recognition models that"
-    publishedDateTime: 2021-10-05T12:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/sensory-releases-speech-recognition-for-children-301392648.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1529245/Sensory_Logo.jpg?p=facebook"
-        width: 1500
-        height: 785
-        isCached: true
   - title: "Sensory Launches Speech Recognition Model for Children"
     excerpt: "Sensory has released new speech recognition models that have been specifically trained to recognize children’s unique vocal patterns"
     publishedDateTime: 2021-10-06T21:28:00Z

@@ -40,20 +40,6 @@ related:
         width: 490
         height: 268
         isCached: true
-  - title: "Gap Inc acquires AI start-up CB4"
-    excerpt: "Gap Inc has acquired AI start-up Context-Based 4 Casting Ltd (CB4) that uses machine learning tools to transform retail operations."
-    publishedDateTime: 2021-10-05T11:33:00Z
-    webUrl: "https://www.just-style.com/news/gap-inc-acquires-ai-start-up-cb4/"
-    type: article
-    provider:
-      name: Companies
-      domain: just-style.com
-    quality: 37
-    images:
-      - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/10/Gap-Specialty-White-City-Store-Exterior.jpg"
-        width: 1773
-        height: 1182
-        isCached: true
   - title: "Aussie AI start-up acquired by US giant"
     excerpt: "Sydney-based start-up Hyper Anna has become the latest Aussie tech player to be bought by a large US firm, with NYSE-listed Alteryx swooping in."
     publishedDateTime: 2021-10-07T13:00:00Z

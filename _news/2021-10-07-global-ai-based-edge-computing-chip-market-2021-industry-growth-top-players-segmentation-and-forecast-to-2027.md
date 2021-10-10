@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-ai-based-edge-com
 webUrl: "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2021-industry-growth-top-players-segmentation-and-forecast-to-2027-2021-10-06"
 type: article
 quality: 64
-heat: 234
+heat: 224
 published: true
 
 provider:
@@ -126,22 +126,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Image Recognition Market Analysis, Growth, Trends, Forecast by 2024 – TMR"
-    excerpt: "The presence of companies such as Google, Twitter, Facebook, International Business Machines (IBM) Corporation, Apple, etc., which are spearheading the global image recognition market, naturally makes North America the leading regional market for image recognition."
-    publishedDateTime: 2021-10-05T12:22:00Z
-    webUrl: "https://manometcurrent.com/image-recognition-market-analysis-growth-trends-forecast-by-2024-tmr/"
-    ampWebUrl: "https://manometcurrent.com/image-recognition-market-analysis-growth-trends-forecast-by-2024-tmr/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/image-recognition-market-analysis-growth-trends-forecast-by-2024-tmr/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 43
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Ultrafast-Lasers-Market-A-390x220.jpg"
-        width: 390
-        height: 220
         isCached: true
   - title: "Global Geospatial Analytics Artificial Intelligence Market 2021 Key Players Insights, Growth Challenges and Forecast to 2027"
     excerpt: "A recently uploaded report namely Global Geospatial Analytics Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2027 has provided unique insights about the market for the given period."

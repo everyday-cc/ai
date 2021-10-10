@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/10/07/gretel-ai-a-platform-for-generati
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/gretel-ai-a-platform-for-generating-synthetic-and-privacy-preserving-data-raises-30m/amp/"
 type: article
 quality: 79
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: VentureBeat
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rendered.ai raises $6M on the promise of ending data scarcity"
-    excerpt: "The availability of data can paralyze a company and its effort to bring software-centric products and services to market. To solve this issue, two-year-old data startup Rendered.ai is generating synthetic data for the satellite,"
-    publishedDateTime: 2021-10-05T13:00:00Z
-    webUrl: "https://techcrunch.com/2021/10/05/rendered-ai-raises-6m-to-scale-physics-based-synthetic-data-developer-platform/"
-    ampWebUrl: "https://techcrunch.com/2021/10/05/rendered-ai-raises-6m-to-scale-physics-based-synthetic-data-developer-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/rendered-ai-raises-6m-to-scale-physics-based-synthetic-data-developer-platform/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/10/Simulated-Crane-GAN-2.png?w=512"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Rendered.ai Raises $6M, Expanding First-ever Developer Framework for Synthetic Data"
     excerpt: "Rendered.ai, the leading platform provider for physics-based synthetic data, today announced the closing of a $6M seed round led by Space Capital. Participating investors include Tectonic Ventures, Congruent Ventures,"
     publishedDateTime: 2021-10-05T14:13:00Z
@@ -60,6 +44,29 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Gretel.ai Snags $50M For Privacy Efforts"
+    excerpt: "San Diego-based Gretel.ai, a startup which is developing privacy technology, has raised $50M in a Series B funding, the company said today. The funding was led by Anthos Capital, and also included Section 32,"
+    publishedDateTime: 2021-10-07T15:16:00Z
+    webUrl: "https://socaltech.com/gretel_ai_snags___m_for_privacy_efforts/s-0081789.html"
+    type: article
+    provider:
+      name: SocalTech
+      domain: socaltech.com
+    quality: 37
+    images:
+      - url: "https://www.socaltech.com/images/logos/gretelai21.png"
+        width: 440
+        height: 220
+        isCached: true
+  - title: "Neural Magic raises $30M to shift AI from hardware to software"
+    excerpt: "Somerville AI startup Neural Magic, an AI company trying to replace machine learning hardware with software, has raised $30M in Series A funding."
+    publishedDateTime: 2021-10-06T14:26:00Z
+    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2021/10/06/neural-magic-raises-30-million.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "A09KjOV2ch7hs+XkfeNTkJuzZVOqqzY9QPGnRMJFmDTgUPKvciY14vb0dr/Rwv8nGmArBciUE/93CWj/e4+U56o599QRcs9paaj2Btlqk/Fm/O716xPfn5fOBiHrekBXam4ef2dUUdjC/8fRFmhPTwE8IzJ8dGwCCtyoJBPDk4aYoh4ifXvIiM0VA7busXZa8VKNiKoX/RTdFganKHT49/BZZJVyO7igoAVCOnKKgnt57RLz0fWY3LZ6p4fRgtfOIGcCIApB7KXh+oEvXEFSCIJV2eOhXe4sanie2j9gJzaEYrUKhfK773/K/qD0RBDVxchZGTBGHZJ+dZ6lBp+1zF86IdDTaPo/k5M8Ps22/Yu71ExAnOZPO5FoEsSHzZkjMJUTz9rgqn7fKiVU+FA48fPBqii50SMIqdCiBbW4Bp1vp6HsaReQqQC2rt9aoz73HxRQafwsGrz1RpSTq85v49s0zedLdoRKXQXQ7wPjNCGX1qXifgWkuwTQlDzcNtHIMqmNujStskBsOS75hY34eA==;V0beTc1DrYv/1nQ3WcSC8w=="
 ---

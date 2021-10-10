@@ -3,8 +3,8 @@ category: news
 title: "Principal Components: Abhishek Gupta on Actionable AI Ethics"
 excerpt: "Abhishek Gupta, author of the forthcoming book Actionable AI Ethics, discusses how to move from discussing AI ethics in the abstract to putting them into practice."
 publishedDateTime: 2021-10-08T07:45:00Z
-originalUrl: "https://www.alteryx.com/input/blog/principal-components-abhishek-gupta-on-actionable-ai-ethics"
-webUrl: "https://www.alteryx.com/input/blog/principal-components-abhishek-gupta-on-actionable-ai-ethics"
+originalUrl: "https://www.alteryx.com/fr/input/blog/principal-components-abhishek-gupta-on-actionable-ai-ethics"
+webUrl: "https://www.alteryx.com/fr/input/blog/principal-components-abhishek-gupta-on-actionable-ai-ethics"
 type: article
 quality: 54
 heat: 54
@@ -19,11 +19,11 @@ topics:
   - AI
 
 images:
-  - url: "https://cdn.alteryx.com/-/jssmedia/project/alteryx/universal_input-media.jpg?h=432&iar=0&w=432&rev=6a0cf32f8aad4d9dbdac7b32f3d69fae&hash=87EC9039E5DB684E3ED1A08D8051261B"
+  - url: "https://cdn.alteryx.com/-/jssmedia/project/alteryx/universal_input-media.jpg?h=432&iar=0&w=432&rev=-1&hash=87EC9039E5DB684E3ED1A08D8051261B"
     width: 432
     height: 432
     isCached: true
 
-secured: "Wp/hNfQ6GWovdobNFaGlU/wdDw+HDM1WtBBYcz17tFytjbxg4+p9IZic6gN/EVcz8TcADmRkEMWZG1i64CqtgX/zzGcMMaM2ERUA1B0EwfjftLbVw45LtIRUXwtMjS5WPcyVTKyb6+JgrdrpBlnekf5yw2tA+LRY9zEis9I256wtw43BMBM6AX2E9hUWlLnvL8zOHQRlx+1Fc6rV38+rNTAcrag7GC0s0lIF+7p0cJmbj4fcIKvwnLeuAXkxwen8f1CkBt/CVcJ0a+dPAcbuIAzFY/pjRddfSdKn6c8Hyfz1wG7zxAu5zqU42sn1oh1ES75AzbsUhDIRICXD8uZU/+cmwHWjubEwEFjT4Q25l+E=;d/rOfzkYRQNriFl7srkLmQ=="
+secured: "+KqYSqDf3PiCp6SAs3DHFe+oUCiAkTZsoOOcRvrQFIlar43w8Kt2waYgRiGV1t5aAW7u0bNgjegPzUdS6REFH4rRSu7G6kWo83/7JUnmon4M7HABUnA/Lk8fXflAZdZX8fcPh+kNdhfY1WdJyAHAgVNSC6xBwOmMiOuPJRIGE3wB15iMx9nnraOBWHRUPnkEhOhWWuWE+OCR1CKKxeSi75xjf2yzx4gS6q22IkGCOnz+DV7ZpGfPgkVk6f+onO5m6rg3vVQqf7CgOMimUKZScZSu7narSH7OdwHJRaq7RxmT5OJm7N+wbCaEN9rbIS7+ZDbM0Nfh4yH6G08iLe7iK9Ir2cCSAuDNzNTepCpN2wE=;+IU+4YhoOj7MwuHRQ8CA4A=="
 ---
 

@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alphabet’s DeepMind A.I. lab turns a profit for the first time ever"
-    excerpt: "DeepMind, one of the world's top artificial intelligence labs, has turned a profit for the first time, according to a filing with the U.K. company registry."
-    publishedDateTime: 2021-10-05T12:03:29Z
-    webUrl: "https://www.cnbc.com/2021/10/05/alphabets-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/10/05/alphabets-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/05/alphabets-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever.html"
-    type: article
-    provider:
-      name: com/2021/10/05/alphabets-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever.html
-      domain: com/2021/10/05/alphabets-deepmind-ai-lab-turns-a-profit-for-the-first-time-ever.html
-    quality: 159
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105099255-DeepMind_Hassabis_WechatIMG253.jpg?v=1529477891"
-        width: 4189
-        height: 2792
-        isCached: true
   - title: "Alphabet helps DeepMind to turn its first ever profit"
     excerpt: "DeepMind, the London-based AI research firm, has turned a profit for the first time ever, reporting in £43.8 million in profits for 2020. The firm has posted multi-million-pound losses over the last several years and reportedly burned through $649 million in 2019."
     publishedDateTime: 2021-10-06T12:09:00Z
@@ -59,22 +43,6 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1633518860/itpro/DeepMind_magnifying_glass_shutterstock.jpg"
         width: 1260
         height: 710
-        isCached: true
-  - title: "Google’s AI unit DeepMind makes first-ever profit"
-    excerpt: "Google’s UK artificial intelligence unit DeepMind made its first-ever profit last year, after losing half a billion pounds in 2019, in the first sign that Google’s huge investment in the research outfit is starting to pay off."
-    publishedDateTime: 2021-10-05T11:15:00Z
-    webUrl: "https://www.ft.com/content/16bb7b92-b88e-4393-85c6-de1f94cdfecc"
-    ampWebUrl: "https://amp.ft.com/content/16bb7b92-b88e-4393-85c6-de1f94cdfecc"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/16bb7b92-b88e-4393-85c6-de1f94cdfecc"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 76
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6ba4db92-a215-4c98-a352-2c03bce1ce72.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
         isCached: true
   - title: "Wednesday newspaper round-up: Petrol prices, Amazon, DeepMind"
     excerpt: "Nearly two-thirds of UK manufacturers expect to raise their prices in the run-up to Christmas after being hit by mounting cost pressures, a leading employers’ group has said. The British Chambers of Commerce said inflation expectations had risen to their highest since its records began at the end of the 1980s,"
@@ -119,34 +87,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/New-AI-Model-From-DeepMind-Can-Predict-Gene-Expression-With-Greater-Accuracy.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "DeepMind Increases The Accuracy Of AlphaFold, With A New Release"
-    excerpt: "AlphaFold-Multimer analyzes multiple chains during both training and inference, supports both multi-chain featurization and symmetry handling."
-    publishedDateTime: 2021-10-05T13:33:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-increases-the-accuracy-of-alphafold-with-a-new-release/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Deep.png"
-        width: 1601
-        height: 915
-        isCached: true
-  - title: "Google’s DeepMind turns first profit as revenues soar"
-    excerpt: "DeepMind, the London artificial intelligence firm owned by Google, turned its first profit last year and saw revenues soar."
-    publishedDateTime: 2021-10-05T11:35:00Z
-    webUrl: "https://www.standard.co.uk/business/google-deepmind-profit-sales-demis-hassabis-b958879.html"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 39
-    images:
-      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2018/11/12/11/Demis-Hassabis253.jpg?width=1200&width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Alphabet Owned Intelligence Lab DeepMind Turns Its First Profit"
     excerpt: "DeepMind employs some of the world’s leading AI research scientists, who can command annual salaries of more than $1 million."

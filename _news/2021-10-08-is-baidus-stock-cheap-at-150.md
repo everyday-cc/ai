@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2021/10/08/is-baidus-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/10/08/is-baidus-stock-cheap-at-150/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
     excerpt: "Consequently, the shares of several top Chinese businesses, including Baidu (NASDAQ:BIDU) stock, are trading at rather low multiples. Source: Sundry Photography / Shutterstock.com Baidu has been ..."
     publishedDateTime: 2021-10-06T14:42:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/ignore-chinas-regulatory-crackdown-and-invest-in-bidu-stock-1030847488"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Baidu Inc. (BIDU) Stock Sinks As Market Gains: What You Should Know"
+    excerpt: "From self-driving cars to consumer data analysis ... Click to get this free report Baidu, Inc. (BIDU): Free Stock Analysis Report To read this article on Zacks.com click here."
+    publishedDateTime: 2021-10-08T04:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-inc--bidu-stock-sinks-as-market-gains--what-you-should-know-10601134"
     type: article
     provider:
       name: Business Insider

@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/technology/robots-give-greeces-postal-serv
 webUrl: "https://www.reuters.com/technology/robots-give-greeces-postal-service-speed-boost-2021-10-05/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Reuters
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "55 self-driving AI robots deployed to sort postal mails in Greece"
-    excerpt: "Hellenic Post in Athens, Greece, has deployed 55 small, four-wheeled autonomous mobile robots powered by artificial intelligence to sort mails at its centre. The robots scan the postal code, weigh the package and,"
-    publishedDateTime: 2021-10-05T11:33:00Z
-    webUrl: "https://inshorts.com/en/news/55-selfdriving-ai-robots-deployed-to-sort-postal-mails-in-greece-1633433596516"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/55-selfdriving-ai-robots-deployed-to-sort-postal-mails-in-greece-1633433596516"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/55-selfdriving-ai-robots-deployed-to-sort-postal-mails-in-greece-1633433596516"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 76
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/10_oct/5_tue/img_1633432635497_494.jpg?"
-        width: 960
-        height: 640
-        isCached: true
   - title: "Robots speed up Greece’s postal service"
     excerpt: "There's a new addition to Greece's postal service: a fleet of yellow robots sorting through the mail. Fifty-five small, four-wheeled autonomous mobile robots -- or AMR's -- powered by artificial intelligence,"
     publishedDateTime: 2021-10-06T19:41:00Z

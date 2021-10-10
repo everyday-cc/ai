@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-08-white-house-proposes-tech-bill-of-rights-to-limit-ai-harms.md",
+      "title": "White House proposes tech ‘bill of rights’ to limit AI harms",
+      "excerpt": "Top science advisers to President Joe Biden are calling for a new \"bill of rights\" to guard against powerful new artificial intelligence technology. The",
+      "sourceUrl": null,
+      "webUrl": "https://mynorthwest.com/3182403/white-house-proposes-tech-bill-of-rights-to-limit-ai-harms/",
+      "originalUrl": "https://mynorthwest.com/3182403/white-house-proposes-tech-bill-of-rights-to-limit-ai-harms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mynorthwest.com/wp-content/uploads/2021/10/ap_b391a4af79a44970802d27dea6418bda.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mynorthwest.com/3182403/white-house-proposes-tech-bill-of-rights-to-limit-ai-harms/amp/",
+      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3182403/white-house-proposes-tech-bill-of-rights-to-limit-ai-harms/amp/",
+      "publishedDateTime": "2021-10-07T22:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyNorthwest.com",
+        "domain": "mynorthwest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-08-reinforcement-learning-improves-game-testing-ai-team-finds.md",
       "title": "Reinforcement learning improves game testing, AI team finds",
       "excerpt": "Recently, gaming companies have become interested in using reinforcement learning and other machine learning techniques in game development.",
@@ -586,7 +629,7 @@
       "originalUrl": "https://electrek.co/2021/10/07/elon-musk-releases-more-details-tesla-full-self-driving-beta-wider-release/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -833,6 +876,57 @@
       "topics": [
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-10-07-gretelai-a-platform-for-generating-synthetic-and-privacy-preserving-data-raises-30m.md",
+      "title": "Gretel.ai, a platform for generating synthetic and privacy-preserving data, raises $30M",
+      "excerpt": "Gretel.ai, a platform offering a suite of privacy-preserving data tools, has raised $50 million in a venture funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/07/gretel-ai-a-platform-for-generating-synthetic-and-privacy-preserving-data-raises-30m/",
+      "originalUrl": "https://venturebeat.com/2021/10/07/gretel-ai-a-platform-for-generating-synthetic-and-privacy-preserving-data-raises-30m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/data_privacy2-e1623103310296.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/07/gretel-ai-a-platform-for-generating-synthetic-and-privacy-preserving-data-raises-30m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/gretel-ai-a-platform-for-generating-synthetic-and-privacy-preserving-data-raises-30m/amp/",
+      "publishedDateTime": "2021-10-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1085,7 +1179,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2021-industry-growth-top-players-segmentation-and-forecast-to-2027-2021-10-06",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -1126,103 +1220,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-two-ai-processors-push-computer-vision-to-the-next-level-for-iot-and-automotives.md",
-      "title": "Two AI Processors Push Computer Vision to the Next Level for IoT and Automotives",
-      "excerpt": "Hoping to create more power-efficient and highly functional AI processors, Syntiant and Intuitive are both aiming to create the next step in computer vision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.allaboutcircuits.com/news/two-ai-processors-push-computer-vision-to-the-next-level-for-iot-and-automotives/",
-      "originalUrl": "https://www.allaboutcircuits.com/news/two-ai-processors-push-computer-vision-to-the-next-level-for-iot-and-automotives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.allaboutcircuits.com/uploads/thumbnails/computer_vision_intuitive_syntiant_thumbnail.png",
-          "width": 700,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "All About Circuits",
-        "domain": "allaboutcircuits.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-bring-structure-to-diverse-documents-with-amazon-textract-and-transformer-based-models-on-amazon-sagemaker.md",
-      "title": "Bring structure to diverse documents with Amazon Textract and transformer-based models on Amazon SageMaker",
-      "excerpt": "From application forms, to identity documents, recent utility bills, and bank statements, many business processes today still rely on exchanging and analyzing human-readable documents—particularly in industries like financial services and law. In this post, we show how you can use Amazon SageMaker, an",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bring-structure-to-diverse-documents-with-amazon-textract-and-transformer-based-models-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bring-structure-to-diverse-documents-with-amazon-textract-and-transformer-based-models-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T15:52:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],
