@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Smart robots do all the work at Nissan’s ‘intelligent’ plant"
-excerpt: "Nissan’s “intelligent factory” hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs."
-publishedDateTime: 2021-10-08T17:34:00Z
-originalUrl: "https://nypost.com/2021/10/08/smart-robots-do-all-the-work-at-nissans-intelligent-plant/"
-webUrl: "https://nypost.com/2021/10/08/smart-robots-do-all-the-work-at-nissans-intelligent-plant/"
-ampWebUrl: "https://nypost.com/2021/10/08/smart-robots-do-all-the-work-at-nissans-intelligent-plant/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/10/08/smart-robots-do-all-the-work-at-nissans-intelligent-plant/amp/"
+excerpt: "Nissan’s “intelligent factory” hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. “Up to now, people had to make production adjustments through experience,"
+publishedDateTime: 2021-10-08T20:42:00Z
+originalUrl: "https://www.seattletimes.com/business/smart-robots-do-all-the-work-at-nissans-intelligent-plant/"
+webUrl: "https://www.seattletimes.com/business/smart-robots-do-all-the-work-at-nissans-intelligent-plant/"
+ampWebUrl: "https://www.seattletimes.com/business/smart-robots-do-all-the-work-at-nissans-intelligent-plant/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/smart-robots-do-all-the-work-at-nissans-intelligent-plant/?amp=1"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/10/Nissan-3.jpg?quality=90&strip=all&w=1024"
-    width: 1024
-    height: 682
-    isCached: true
 
 related:
   - title: "Is There Too Much Focus On ‘Intelligence’ In AI?"
@@ -58,6 +52,6 @@ related:
         height: 330
         isCached: true
 
-secured: "vHgVkTBJp3fV4CrnzoUwzyqTgc294CtKEJdouOUOx8SZWzrc79Ux2GQXG653Qt35SyCQlu0MON0vsNutm7PlhqP5Izi3LvB4QkuZVyn4WN6iHUy/JgU9+/8N3832Yt2G/1ZvynCvUAGa2AbnBoLoE15eqEDk6lC8g9YDg65uj+usA4XwXxV/zVZG3KeoEw1SrgEUe/Z34Llw034+DFfWqeklUePhEa5nQQr1uGLuAsoC6Y6l629nSUV20dHusA9nFA0LrzIK+4mc4J1ncUxrnNCRFi4BC9dCDjPOxhJp2NJ95xGQX55M7TuyGM72BYfCnrzylXIldoIq9yRmx2zdEHcK2MSqEaEhAoJOcOzFE2rR/wGxU+afqP2QnZzL1joiy2xiuxWYBycDAuqF2ZbV/bVZqttw7/goGgEwXk/OHKCX/aiexKse0LV9e80EvanVDjQmMB2YIwGqfdgRzI+qzYh4XCnWjd51Zp7mcmqihEzUr2uRaBVyRyXFNGIOzvNZ4h7c5WkSYOTFbggahjsO7w==;ihSd4np/SufAjjwcd+nklw=="
+secured: "nAC6ulmlnqA1pppWCUpv9B/VLpG2oEsKUZ7ERq2R4g3mpT9HbA47WpH48gboHXWiCqne1UIlclWKp16/efKHFaVIsOXMdDObU8bxbPDhACps5rvnrTfKPxuKH+zHw5fGP6K7SRyVMuudqEdC/xXYrTwQ5VRNLAtwY5u/KjYydJmBmCv4XLErz49OlvYc/m1ScGZxFNrIGgPIf3jrrvL4SBW3V9mOJyKUGZXh8biXIKNfK+ZsvKMtkZOMFyO6BWHR86GmsrSkD0ciCia94ecSt75Hw+BBE2w1KCVL+f3Ou10dr2TIffGAB4S+spbZthjP7sKLN4APhClRdTebdsb9MxTKW3jBeqNCM7hWxOF+DfnAnpKobCg6pZTC4EdvFi/jKoDgKsuq3Du18HAcgAEZkjE1T0inVO18atsz4Fuj/XalSgfrSVmEYxk2vZu3Bz2eyfZI78Yv+F7ia/STSe/zTVLUMYcgswf6m+uMMEZEFpkSCgrzpgNLVXOcLYr9C+ZkZQnE7rV2qJPlUVkrh4+lgw==;XlTaZWFBxeDw/qi0rDRP+Q=="
 ---
 

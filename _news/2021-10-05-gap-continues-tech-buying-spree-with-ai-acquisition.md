@@ -90,22 +90,6 @@ related:
         width: 1199
         height: 729
         isCached: true
-  - title: "Euralarm releases Position Paper on EC proposal for a regulation on artificial intelligence"
-    excerpt: "Euralarm recently released a Position Paper on the EC proposal for a Regulation on Artificial Intelligence.The Position Paper follows some informal discussions with DG CONNECT and contains"
-    publishedDateTime: 2021-10-05T07:56:00Z
-    webUrl: "https://www.sourcesecurity.com/news/euralarm-releases-position-paper-ec-proposal-co-645-ga.1633417585.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/euralarm-releases-position-paper-ec-proposal-co-645-ga.1633417585.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/euralarm-releases-position-paper-ec-proposal-co-645-ga.1633417585.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 47
-    images:
-      - url: "https://www.sourcesecurity.com/img/news/612/eusas-920x533.jpg"
-        width: 612
-        height: 355
-        isCached: true
   - title: "Has China beat the West to detailed AI governance rules?"
     excerpt: "The guidelines are described as being among the more specific that have been enacted worldwide, but based on these descriptions, the rules still feel conceptual"
     publishedDateTime: 2021-10-05T17:05:00Z
@@ -134,6 +118,20 @@ related:
         width: 1600
         height: 1064
         isCached: true
+  - title: "Artificial Intelligence and Automation 2021"
+    excerpt: "AI and automation are starting to take more of the human workload. Learn more about these technologies & which jobs will be affected in the future."
+    publishedDateTime: 2021-10-08T20:32:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-and-automation/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 39
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/10/DRL-ICA-82721-scaled.jpeg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Google AI Introduces FLAN, A Language Model with Instruction Fine-Tuning"
     excerpt: "Fine-tuned LAnguage Net (FLAN) explores a simple technique called instruction fine-tuning, or instruction tuning for short."
     publishedDateTime: 2021-10-08T10:24:00Z
@@ -147,20 +145,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/ai-in-search-5f88cc960a6ef.png"
         width: 1600
         height: 840
-        isCached: true
-  - title: "AI Has Launched a $200 Billion Revolution in Content Personalization"
-    excerpt: "Companies looking to make a step change in customer and consumer engagement should investigate this powerful new technology now."
-    publishedDateTime: 2021-10-05T08:45:00Z
-    webUrl: "https://www.bcg.com/publications/2021/ai-content-generation-is-a-2-billion-dollar-revolution-in-content-personalization"
-    type: article
-    provider:
-      name: BCG
-      domain: bcg.com
-    quality: 37
-    images:
-      - url: "https://web-assets.bcg.com/dims4/default/63feea2/2147483647/strip/true/crop/2480x1302+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fboston-consulting-group-brightspot.s3.amazonaws.com%2Fd6%2F22%2Fa38be81d459b84348fb8be76b99c%2Fai-has-launched-a-200-billion-revolution-in-content-personalization-half-cover.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "CWU to host presentation on artificial intelligence"
     excerpt: "Software developer and data journalist Meredith Broussard will be presenting the keynote address during a Central Washington University lecture series titled “Artificial Intelligence: The Future is Now” at 5:30 p."
@@ -189,20 +173,6 @@ related:
       - url: "https://www.akm.ru/upload/iblock/ee5/NLMK_NLMK.jpg"
         width: 600
         height: 399
-        isCached: true
-  - title: "Artificial Intelligence and Automation 2021"
-    excerpt: "AI and automation are starting to take more of the human workload. Learn more about these technologies & which jobs will be affected in the future."
-    publishedDateTime: 2021-10-08T20:32:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-and-automation/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 37
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/10/DRL-ICA-82721-scaled.jpeg"
-        width: 2560
-        height: 1707
         isCached: true
   - title: "Standard AI Expands Executive Team with Seasoned AI, Retail and Operations Leaders"
     excerpt: "Standard AI, the world’s leading computer vision platform for retail, today announced the addition of Jennifer Haroon as Chief Financial Officer (CFO) and Angie Westbrock as Chief Operating Officer (COO) to its executive team."

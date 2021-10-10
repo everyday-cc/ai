@@ -81,6 +81,34 @@ related:
         width: 445
         height: 250
         isCached: true
+  - title: "Artificial Intelligence Platform Market Size By Component: Market Analysis Report, Forecast 2020-2030"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 07, 2021, 07:30 /Comserve / -- The global Artificial Intelligence Platform market is expected to be around US$ 19.8 Billion by 2025, at a CAGR of more than 28% in the given forecast period."
+    publishedDateTime: 2021-10-07T19:45:00Z
+    webUrl: "https://menafn.com/1102935339/Artificial-Intelligence-Platform-Market-Size-By-Component-Market-Analysis-Report-Forecast-2020-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?228876"
+        width: 413
+        height: 250
+        isCached: true
+  - title: "Automotive Artificial Intelligence Market Size By Component: Market Analysis Report, Forecast 2020-2030"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 07, 2021, 07:32 /Comserve / -- The global Automotive Artificial Intelligence market is expected to be around US$ 13.5 Billion by 2025 at a CAGR of 35% in the given forecast period."
+    publishedDateTime: 2021-10-07T19:45:00Z
+    webUrl: "https://menafn.com/1102935337/Automotive-Artificial-Intelligence-Market-Size-By-Component-Market-Analysis-Report-Forecast-2020-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 23
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?982858"
+        width: 366
+        height: 250
+        isCached: true
 
 secured: "zgK94Qt6Tlg3oWInL5TmrfYAutIyPgV+VnjlTotre4W3JFWGZOB5/Yh9iaiBp4Ew3ujheY3WQcF0HUNwPABzuMynC6FqLHnT/OMcCgzziKAQA84GDDrMuODxuiMo0Bi0HzOW3XPKr+O2Uys29l1VQFSo3zGrKcZU51QmF5h5c9NRW/o7PDopI130EBjRTWHOa3IDwvK2cICEXVfx+/yzfEUJtlGJJPT1ra2iNXOXSLRmDid9MhWoxpkJ1vFLW3oX4nrXISgz+YgBcwE3/+y5gAILhYoOPebuD3yVKPD26PnDiiU47GDeompIFPMJq1SwAucu4+FxgpBwiu/Ke7aWdqtzfYFlI0mT1tWgXcU1nWQ=;kyClBCfQq+Jf6qgc6rYx4Q=="
 ---

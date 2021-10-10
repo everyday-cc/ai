@@ -25,31 +25,71 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market 2021-26: Size, Share, Trends, Analysis and Research Report"
-    excerpt: "The global artificial intelligence market reached a value of US$ 40.21 Billion in 2020. Looking forward, IMARC Group expects the market to exhibit robust growth during 2021-2026, according to the latest report by IMARC Group."
-    publishedDateTime: 2021-10-05T07:38:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-market-2021-26-size-share-trends-analysis-and-research-report/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-market-2021-26-size-share-trends-analysis-and-research-report/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-2021-26-size-share-trends-analysis-and-research-report/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 50
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/artifical-intelligence-market-30.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "AI Computing Hardware Market Valuable Growth Prospects, Size, Share, Demand and Current Trends Analysis"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 07, 2021, 02:35 /Comserve / -- AI Computing Hardware Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies,"
-    publishedDateTime: 2021-10-07T08:41:00Z
-    webUrl: "https://menafn.com/1102932014/AI-Computing-Hardware-Market-Valuable-Growth-Prospects-Size-Share-Demand-and-Current-Trends-Analysis"
+  - title: "Artificial Intelligence in Security Market By Application: Market Analysis & Forecasts up to 2030"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 06, 2021, 01:08 /Comserve / -- The Artificial Intelligence in Security Market is expected to be around US$ 45.80 Billion by 2025 at a CAGR of 31% in the given forecast period."
+    publishedDateTime: 2021-10-06T09:59:00Z
+    webUrl: "https://menafn.com/1102925127/Artificial-Intelligence-in-Security-Market-By-Application-Market-Analysis-Forecasts-up-to-2030"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 23
+    quality: 43
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?515093"
+        width: 444
+        height: 249
+        isCached: true
+  - title: "Artificial Intelligence Chipset Market Size By Component: Market Analysis - 2020-2030"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 07, 2021, 04:17 /Comserve / -- The global Artificial Intelligence Chipset market is expected to be around US$ 74.70 Billion by 2025 at a CAGR of 33.5% is the given forecast period."
+    publishedDateTime: 2021-10-07T08:46:00Z
+    webUrl: "https://menafn.com/1102931970/Artificial-Intelligence-Chipset-Market-Size-By-Component-Market-Analysis-2020-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?202236"
+        width: 444
+        height: 250
+        isCached: true
+  - title: "Deep Learning Market By Application: Regional Analysis - Global Forecast by 2020 - 2030"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 06, 2021, 00:11 /Comserve / -- The Deep Learning Market is expected to be around US$ 25.50 Billion by 2025 at a CAGR of 42% in the given forecast period. The dynamic nature of business environment in the current global economy is raising the need amongst business professionals to update themselves with current situations in the market."
+    publishedDateTime: 2021-10-06T18:42:00Z
+    webUrl: "https://menafn.com/1102928759/Deep-Learning-Market-By-Application-Regional-Analysis-Global-Forecast-by-2020-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 31
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?160760"
+        width: 374
+        height: 249
+        isCached: true
+  - title: "Self Driving Trucks Market By End-User Type: Regional Analysis - Global Forecast by 2020 - 2030"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 09, 2021, 07:32 /Comserve / -- The self-driving trucks market is expected to exceed more than US$ 1650 Million by 2025 at a CAGR of 10% in the given forecast period."
+    publishedDateTime: 2021-10-09T19:10:00Z
+    webUrl: "https://menafn.com/1102944950/Self-Driving-Trucks-Market-By-End-User-Type-Regional-Analysis-Global-Forecast-by-2020-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?509564"
+        width: 445
+        height: 250
+        isCached: true
+  - title: "Artificial Intelligence as a Service Market Size By Services: Market Analysis & Forecasts up to 2030"
+    excerpt: "Comserve / -- The global Artificial Intelligence as a Service market is expected to be around US$ 14.7 Billion by 2025 at a CAGR of 47% in the given forecast period. Artificial Intelligence as a Service (AIaaS) is basically third-party offering of AI outsourcing."
+    publishedDateTime: 2021-10-07T08:42:00Z
+    webUrl: "https://menafn.com/1102931774/Artificial-Intelligence-as-a-Service-Market-Size-By-Services-Market-Analysis-Forecasts-up-to-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?202236"
         width: 444

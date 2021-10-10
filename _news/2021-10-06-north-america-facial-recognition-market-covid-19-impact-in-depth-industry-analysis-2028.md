@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/north-america-facial-rec
 webUrl: "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-covid-19-impact-in-depth-industry-analysis-2028-2021-10-06"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Preciate Installs Face-Recognition Kiosks Amid COVID-19 Pandemic"
-    excerpt: "Concept: Israeli startup Preciate has installed face-recognition kiosks at the Azrieli Business Center in Holon, Tel Aviv to reduce the chances of contracting the COVID-19 infection through physical contact."
-    publishedDateTime: 2021-10-05T08:47:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/research-reports/preciate-installs-face-recognition-kiosks-amid-covid-19-pandemic/"
-    type: article
-    provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
-    quality: 24
-    images:
-      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/10/shutterstock_1621031059.jpg"
-        width: 500
-        height: 284
         isCached: true
 
 secured: "WCrkDtk8WfSYxzBVWbTUpCZLkDt4RJ+ugbnxYgUttAqJN/9unhh/q09rO24qW+c2jpU855Y9/cCoYM7qeIxayCpho4iZJ17zvfN77vatlxaGUxgTg3Rt6+h5e9jnmaNgY+LNZDXstZUVhDKCy/HLGfOVQT7F4i3FjnEi4yxvkhjqzMybX9/kJsmQaAEiOuJljCalAcyutL4snnZXz+hTi5AM4iff59PmikHHuxOmHt+J08oubKGGoDgXQckAL6DuWMr13aWjVypfi72a3CA6uqh1/2WTbbLFTgJ5i2yYmN/LkIb2FpmIGGkyK2uCx4LsdngdGw3XHJXs1/dxnkCWz6akwLqBcDNqQxAUKhnwUWM=;oijgeP6gaCZoCituCHKAvA=="

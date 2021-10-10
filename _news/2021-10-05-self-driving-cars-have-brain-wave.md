@@ -9,7 +9,7 @@ ampWebUrl: "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/amp/
 cdnAmpWebUrl: "https://www-innovatorsmag-com.cdn.ampproject.org/c/s/www.innovatorsmag.com/self-driving-cars-have-brain-wave/amp/"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Making self-driving cars human-friendly"
-    excerpt: "Automated vehicles could be made more pedestrian-friendly thanks to new research which could help them predict when people will cross the road."
-    publishedDateTime: 2021-10-05T08:07:00Z
-    webUrl: "https://techxplore.com/news/2021-10-self-driving-cars-human-friendly.html"
-    ampWebUrl: "https://techxplore.com/news/2021-10-self-driving-cars-human-friendly.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-self-driving-cars-human-friendly.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/making-self-driving-ca-1.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Blockchain Tech Could Be the Solution Against Hacked Drones or Self-Driving Cars"
     excerpt: "A near future where robotaxis and autonomous trucks are safely sharing the roads with regular vehicles, while cargo drones up in the air are making most of our deliveries, sounds like a wonderful idea."
     publishedDateTime: 2021-10-06T09:42:00Z

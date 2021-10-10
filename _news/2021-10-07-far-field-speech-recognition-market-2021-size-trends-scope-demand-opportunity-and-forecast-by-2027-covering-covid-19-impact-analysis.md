@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Preciate Installs Face-Recognition Kiosks Amid COVID-19 Pandemic"
-    excerpt: "Concept: Israeli startup Preciate has installed face-recognition kiosks at the Azrieli Business Center in Holon, Tel Aviv to reduce the chances of contracting the COVID-19 infection through physical contact."
-    publishedDateTime: 2021-10-05T08:47:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/research-reports/preciate-installs-face-recognition-kiosks-amid-covid-19-pandemic/"
-    type: article
-    provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
-    quality: 24
-    images:
-      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/10/shutterstock_1621031059.jpg"
-        width: 500
-        height: 284
-        isCached: true
 
 secured: "ys1Yt7DACKOlhirhLn6yEnxfWaWhpMAY/gBHZpGOP3DAf8hgqe+iW1aQuGNgGh55SrFIZpNf31RJUXKI1jvHlfsGW7Fg4Mgsj061JfxstbbwsBj3DhfVUYRXBBeM8nBFA21Ju5oViLj+HrOCw5GZuEsPkm7hCNJB7t2/btYiSmQlUjUSK5iA65jsG7kA20ydOXGL6lmUu6kENsTOSZFzXm0F429yrpq0Sjs0y2VZ7MVJoQQi963JZsTvhRUi4maMLlzhX27qB8e+KOUZs0lgWmuVzCGbIJWcEow7ewLUwnPVet5OHryccIZPfC7hVohfneVxEn+ErINXzw4hWm+n6Omfmj0+xUu81KdXnrLH9ZA=;P3o22lMxQEUa18cR1xMxzA=="
 ---

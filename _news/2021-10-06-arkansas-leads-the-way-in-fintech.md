@@ -45,6 +45,34 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Coastal Community Bank Chooses Finzly's Payment Hub to Power Fintech Partners"
+    excerpt: "Finzly, a fintech provider of modern banking solutions, announced today that Coastal Community Bank, a progressive community bank with assets of over $2 billion, has chosen Finzly's award-winning payment hub,"
+    publishedDateTime: 2021-10-05T10:11:00Z
+    webUrl: "https://www.lelezard.com/en/news-20029611.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 36
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Recipe For A Successful Fintech Start-Up"
+    excerpt: "\"You have to, to serve these markets, re-imagine how money can be managed and moved because there’s going to be more change in the next five years in financial services than happened in the past 30\"- Dan Schulman,"
+    publishedDateTime: 2021-10-07T14:04:00Z
+    webUrl: "https://www.linkedin.com/pulse/recipe-successful-fintech-start-up-piyali-guha"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHuK32d3bfxWg/article-cover_image-shrink_600_2000/0/1633614786911?e=1639008000&v=beta&t=KN-1Sph56-Qc6My7-x1N_clEJDJ2bFO9ECQz66tKqhw"
+        width: 750
+        height: 449
+        isCached: true
 
 secured: "nFvEyYv+/U6tBDtvnsMJj0PlgwZ3GO8fChDdANlzG0JixYjinmB7dHAkuPRSu1THlpREPIozSI7KFycR5wvohYQSYapJYdF7aUWKi1J9eAwBCMexEyhmfGWQ9GmQrtLCssf2taToVmw7RnBlJU3AKgr5TFr1uxodaOQ3bQ6im7dmG6QU2LXNBK9jrDr/Li6UdUmbN+dY72DRWJIWlwToS6xA6/EWLmx1f208IlSeiN6h5LQRt7XhuX3Gxm67ZaHZnWxJ5jUV4eHTb9z/Ip1gd5RzdbClhVni9LHTYWyF7CsPBM7izQ2DiHVUy/RBEDZD5xMvRTY9+nsrPfG1a5/wBTZZdtxQX2Qa1+wwLhgGIjxIjPtWpQwDEOf14qfjp7lEbNjbRnoPyI56GKv/BYei0vs9MDZ1LIAGy6r7YhcOn2zBv9arKTwJrkTCnVPaD4fZW6gQdIFmk7tB83DwVLWndweDCvrDtHHGt4UKQV287BcYXTW23aiO4/RBrYxtch4BhQ4+ws+Wo30Pf2SRTb7wlg==;uEF1D2gsB0JqTAQTB38RCw=="
 ---

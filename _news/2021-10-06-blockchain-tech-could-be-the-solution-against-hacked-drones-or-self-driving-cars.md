@@ -42,22 +42,6 @@ related:
         height: 1707
         isCached: true
   - title: "Making self-driving cars human-friendly"
-    excerpt: "Automated vehicles could be made more pedestrian-friendly thanks to new research which could help them predict when people will cross the road."
-    publishedDateTime: 2021-10-05T08:07:00Z
-    webUrl: "https://techxplore.com/news/2021-10-self-driving-cars-human-friendly.html"
-    ampWebUrl: "https://techxplore.com/news/2021-10-self-driving-cars-human-friendly.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-self-driving-cars-human-friendly.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/making-self-driving-ca-1.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Making self-driving cars human-friendly"
     excerpt: "Automated vehicles could be made more pedestrian-friendly thanks to new research which could help them predict when people will cross the road. Scientists investigating how to better understand human behavior in traffic say that neuroscientific theories of how the brain makes decisions can be used in automated vehicle technology to improve safety and make them more human-friendly."
     publishedDateTime: 2021-10-06T13:07:00Z
     webUrl: "https://www.sciencedaily.com/releases/2021/10/211004203419.htm"
