@@ -54,20 +54,6 @@ related:
         width: 1476
         height: 600
         isCached: true
-  - title: "AWS Artificial Intelligence (AI) Portfolio Review"
-    excerpt: "AWS reported $106.3 million in AI revenue in 2019, according to an 2020 report by IDC. See below to learn about the broad set of AWS’ ML and AI offerings: SageMaker Autopilot eliminates a portion of the heavy lifting that goes into building ML models and ..."
-    publishedDateTime: 2021-10-06T21:29:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/aws-artificial-intelligence-ai-portfolio/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 69
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/07/AWS-logo.png"
-        width: 1400
-        height: 840
-        isCached: true
   - title: "IBM Artificial Intelligence (AI) Portfolio Review"
     excerpt: "Watson Captioning Live uses a combination of ML, AI, and cognitive speech-to-text applications to deliver automated real-time captions for audio files. Watson Studio is IBM’s software platform for developers, data scientists, and analysts to develop ..."
     publishedDateTime: 2021-10-07T04:15:00Z

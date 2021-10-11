@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google DeepMind AI: Here's how it's better than regular weather forecast"
+    excerpt: "Google’s DeepMind AI has a brand new way to predict weather forecasts with the highest accuracy. Get ready to say goodbye to the regula"
+    publishedDateTime: 2021-10-11T14:04:00Z
+    webUrl: "https://menafn.com/1102951102/Google-DeepMind-AI-Heres-how-its-better-than-regular-weather-forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 53
+    images:
+      - url: "https://menafn.com/updates/pr/2021-10/11/B_c2127image_story.jpeg"
+        width: 2048
+        height: 1152
+        isCached: true
   - title: "Making Sense of DeepMind’s First-Ever Profit"
     excerpt: "DeepMind has developed breaking innovations, including AlphaFold, a solution to the 50-year-old protein folding problem. According to a corporate filing with the UK company registry published on Tuesday, Google-backed artificial intelligence research firm ..."
     publishedDateTime: 2021-10-08T07:30:00Z

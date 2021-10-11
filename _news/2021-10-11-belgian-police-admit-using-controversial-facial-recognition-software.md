@@ -1,23 +1,28 @@
 ---
 category: news
 title: "Belgian police admit using controversial facial recognition software"
-excerpt: "The Belgian police admitted using facial recognition software, according to media reports. Citing an internal investigation of the federal police, Belgian Interior Minister Annelies Verlinden told a parliamentary committee last week that the police had used the controversial software Clearview AI,"
-publishedDateTime: 2021-10-11T12:59:00Z
-originalUrl: "https://www.timeturk.com/en/belgian-police-admit-using-controversial-facial-recognition-software/news-45635"
-webUrl: "https://www.timeturk.com/en/belgian-police-admit-using-controversial-facial-recognition-software/news-45635"
+excerpt: "The Belgian police admitted using a facial recognition software, according to media reports. Citing an internal investigation of the federal police, Belgian Interior Minister Annelies Verlinden told a parliamentary committee last week that the police had used the controversial software Clearview AI,"
+publishedDateTime: 2021-10-11T13:34:00Z
+originalUrl: "https://www.yenisafak.com/en/world/belgian-police-admit-using-controversial-facial-recognition-software-3582007"
+webUrl: "https://www.yenisafak.com/en/world/belgian-police-admit-using-controversial-facial-recognition-software-3582007"
 type: article
-quality: 21
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Timeturk
-  domain: timeturk.com
+  name: Yeni Şafak
+  domain: yenisafak.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
+
+images:
+  - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2021/10/11/c9b7405b-i759szdhywva43rz2o83.jpeg"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Face Recognition Software launched"
@@ -84,20 +89,6 @@ related:
         width: 804
         height: 450
         isCached: true
-  - title: "Sensory Launches Speech Recognition Model for Children"
-    excerpt: "Sensory has released new speech recognition models that have been specifically trained to recognize children’s unique vocal patterns"
-    publishedDateTime: 2021-10-06T21:28:00Z
-    webUrl: "https://mobileidworld.com/sensory-launches-speech-recognition-model-children-7102103/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 39
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg"
-        width: 800
-        height: 560
-        isCached: true
   - title: "The Pandemic is Testing the Limits of Face Recognition"
     excerpt: "Government use of face ID systems exploded during the pandemic—but tying it to critical services has left some people locked out at the moment they needed help the most. At first glance, JB, an artist based in Los Angeles,"
     publishedDateTime: 2021-10-07T12:16:00Z
@@ -143,6 +134,6 @@ related:
         height: 585
         isCached: true
 
-secured: "5EWaps9WJ/VdFG+xYFbGL2O7PawI2ti7m2mrwfEkYdgbITtpzbeeBvmi7sk2cQNV8ahg/wrQNsgRNmkNecuzt6ufaiSi8j7SPyVANeHLPoDNmDyVzU4cKfUeOi9o/S350HDU3k81ZEedu+nRs5MfuaqLQAUAHYz/6H8dtgecZBtRkgax0zTV47VyqFupSoQMekh5KDR5DtzThxEExi0FOjZ56khy9L46Ms5lrtGgULWZ4fQzkKRCmJKzOJiC5q5seo1Az87cDzdx3N80M4hVkhGlbjEZlOckpt5sEjO/ESv8qJCWH37ZQf1clJoTngS/bZCDBeaghItvgiN/NWJo61T2E8A8zTWvUBgfMA4i7bENX/7K4StH1TzYJIX2EEGfI53GvMrzApd5o3cEnum7g3FEKiGD+C3Da3dE7q0DJANZyTHGVFxpH+3yauDdSTADNOesViQrFI3HmldW61aL3pzfP+apTkD5XpsNAf9VPDpYtx3ki1gTiVCW3mFL561jkG5455DSNNqPzxuC51AfSg==;N2D6k7IrScZZCAtmijb5GA=="
+secured: "rpynW1KkHTaDdx8LCAGh0TYMKCEdNPGRWdPpxR3IasX99pazrzvUcX2qn9EBQEWGr8my1mPIlkmUu58Ui9foTrsOl56r7YdWUBEZUmBNGhFebN7NMdlR47ApmW3fRW+bftFMOHdFaCWlGBlzNPfx4A8V3RiZBOxGIT7f1BIEyQB8CVFxpYpOsaa1nD5Z9joi7ovn8E3UihBUGznS4aaI7/dxchO+3KmqGLTczAJVSTDZx++jbVzG09MupnQgvxnjOgBmG24XqYxEml5UgXhrtgA10tvnDIf7aYr9N/rqb7zFpwrP+t6RQ3jB7g2jVTjgdN1SFwiFfqEHWQ2udViF77xai9BIA7nTGueceS9yoUY=;dVlnElJDxpQkP2b8a5kCTg=="
 ---
 

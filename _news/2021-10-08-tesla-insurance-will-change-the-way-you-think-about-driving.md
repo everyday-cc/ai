@@ -9,8 +9,8 @@ ampWebUrl: "https://thedriven.io/2021/10/08/tesla-insurance-will-change-the-way-
 cdnAmpWebUrl: "https://thedriven-io.cdn.ampproject.org/c/s/thedriven.io/2021/10/08/tesla-insurance-will-change-the-way-you-think-about-driving/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: thedriven
@@ -40,20 +40,6 @@ related:
       - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2020/10/Cadillac-CT4-V-with-SC-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "GM’s Ultra Cruise Will Leapfrog Tesla Autopilot, Offer Full Hands-Free Driving Virtually Everywhere"
-    excerpt: "GM aims to take the lead in the race to develop autonomous driving with the new Ultra Cruise system. Set to debut in 2023 it will allow hands-free operation on 2 million miles of road - and that will grow to 3."
-    publishedDateTime: 2021-10-06T22:26:00Z
-    webUrl: "https://www.thedetroitbureau.com/2021/10/gms-ultra-cruise-will-leapfrog-tesla-autopilot-offer-full-hands-free-driving-virtually-everywhere/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 25
-    images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/10/GM-Ultra-Cruise-graphic-1.jpg"
-        width: 1600
-        height: 900
         isCached: true
 
 secured: "gKPYPS+n+GGlgLR9kiqMv9N3LDJjaCN/j48VODSeMmVtKsaLzR78rFxtby4DQ6Ay+XcDBOURnnqG9E5v76Y3COB68mbwg04wTBzKE0JJyK37B+2nPwqw/ngnoegDhsRlhaT8HWJAjBgVmw5Z0mSM18WGdpz0B4RbkVcYxCI0WpTgUKmbhsiYHLbQjriYoFbo2oxv/xAHzXK1WsMLSNpAlhigWgSQlv3aqUufGyipMI00ls45EtZga6mnYSbQrjyKJWfPlQOYsd9i4DwIUsrFL5snrgk2HebtQVWKQBHTpt40hX/GeDyj/RNnh877guHqFCDbzxOpdPanb+3L7FZeAVorDZrA0Dzgf8dkNlCYwLA=;bc0RLhOh/OuEXCg+dHOkpQ=="

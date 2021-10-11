@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 612
         isCached: true
+  - title: "How Artificial Intelligence and Machine Learning is altering the marketing landscape?"
+    excerpt: "In this technological era new technologies are being introduced in the market now and then Businesses are no more using the traditional marketing methods to g"
+    publishedDateTime: 2021-10-11T15:47:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271458994/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 66
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1633964478.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Artificial Intelligence and Automation 2021"
     excerpt: "AI and automation are starting to take more of the human workload. Learn more about these technologies & which jobs will be affected in the future."
     publishedDateTime: 2021-10-08T20:32:00Z
@@ -55,6 +69,20 @@ related:
       - url: "https://www.datamation.com/wp-content/uploads/2021/10/DRL-ICA-82721-scaled.jpeg"
         width: 2560
         height: 1707
+        isCached: true
+  - title: "The Best AI Stocks to Buy for 2021 and Beyond"
+    excerpt: "In this article, we discuss the 10 best AI stocks to buy for 2021 and beyond. You can skip our detailed analysis of the AI industry, and go directly to see the 5 Best AI Stocks to Buy for 2021 and Beyond."
+    publishedDateTime: 2021-10-11T13:26:00Z
+    webUrl: "https://www.insidermonkey.com/blog/the-best-ai-stocks-to-buy-for-2021-and-beyond-983673/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 39
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/09/29220621/possessed-photography-JjGXjESMxOY-unsplash.jpg"
+        width: 4398
+        height: 3888
         isCached: true
 
 secured: "lFD4lTPZ2XtFGbYBvXS9O3CV4JR5LITZ3U/HhH/ma4b668PN6Zb367MIm7FRewkWEz9730VYsXGkgezwYa6Gl3FYuaFf2dGs1T4W1nKQYNs7nzfxIi/PDU6glkHnLw4kaIig/69cw9HgiOL12PxJDLC9kiSQw5Hf/ebkJLkyeUVUVOZQov39DzBASnXifMlKyljJ/GUkgLTwR4YNUEp+wp++cKpDR8IGgfy3X1UR1AXwuT8IoCujUoGDV6Z8NhgXk0+pMZ5UUX9TLwbK0Leycfu5OfHbJy0XssSURFxu7i92lNiMvomBRoHhYDD0NWU5spYvDCh5OI3EhW2mO09VM6AriCyOvN9wJ2NXiHxfpkEd1tXxs8UsZT3DcokMYaer5RXdSyeLGFMcGAEmCiNoP8IKhoR66ROfKjL/PchHftECx1JlwLJss/eFNVy3oAU8h5mVLznTuTc8vHj70mObEjrVODzJd+2ZOucoAn9gr+Iz5xhYVm6S2gBg5FWvW6A7A0rTuI9AaBqZyVURlZiH5A==;k5PeBUdz1x7au6zR7VEreA=="

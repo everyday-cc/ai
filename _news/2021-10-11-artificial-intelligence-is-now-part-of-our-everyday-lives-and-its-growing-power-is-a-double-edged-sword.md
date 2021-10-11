@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2021-10-artificial-intelligence-everyday-po
 ampWebUrl: "https://techxplore.com/news/2021-10-artificial-intelligence-everyday-power-double-edged.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-artificial-intelligence-everyday-power-double-edged.amp"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Natural Language Processing
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-38.jpg"
@@ -42,6 +43,6 @@ related:
         height: 362
         isCached: true
 
-secured: "aBQAxhPJ9Dgs0HgBhfrut8ultVABBHJbWvjL/myZYczzhTdpqY7joUYgcj6Qv+IqyX/OQ8JwBjPq2TtREvR9oMAMl3cTFKuI5jMi+CgW+mb/fi582XGMhvj6ybR5NCw6y2nGy6ZKUDJjbedw2QwtirINiNOkPDhIWZ+5r0J+zhk0c8NztzutpYqQNJwJk23ZkGQyHrAkXZco4jRWoCiTgR3LE5kbV0moEktyMiA7sd0QrJOFokva7sM9UV7MHCaP9zRIQ5UVtMDw4bEc39rh5a0K29q4WAZAG1zXOpBui5yrU1LSE9iA/5MJYkgPAUT6KtT/45UcIM7EYAlE+YlX74+o6hvqbRuThN59Dxj9svU=;fE56r1yaRtJc3nNtFDpwKA=="
+secured: "6cSAT7SL6Z3cVn4dszl65m4vqvpVq5ycurS2e0OcpC1LCZU0b9OmtL/l7/8fFank/mUYv19D9a1lmBLXJqKqPEL+0u3Weke4aCiULGqj04DUX9D0OrGUwe2NvA48pOBDkF2eANmtd9ijrS3eoh8XydrvDsXypW2jUDQMuHiLM/fEdxu4aEQJGEGOwZZS64JENhSIeckotP+rK3/yHYIOVUNIVFweCyA+UbStDpgiHU12oVur3ati5PTXyi1476S2sBe6lmp1whe7DmMVukEHXNQH0Cd8oxYWE8oyaRvzfVaM4rCsoNBwKTkGjsMJW2xUK0vNqMj0a1DNfpJ4Tx3KwW3+bqBRywPjloz0aiTBGFMcKO9cgUH1NyQbVxCuy40v9N7faxBH/Y2sCgdTBXVKTPy/ZH5HCWbIVlrqIUhr5w/iZwBlPmVpOo/WHEWXZjVF9Us9n2Sj8hO89Fdct5LbjLO+1ibOaiM4buDmhGz+D99YEQQ5j5aIfgd4epNpy81olvoQ6QpNT+FaZ0hzqr0JVw==;jzwjVZ+CzZHvSuO1G4LrSA=="
 ---
 

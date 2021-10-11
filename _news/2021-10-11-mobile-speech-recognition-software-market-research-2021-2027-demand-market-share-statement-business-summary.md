@@ -91,20 +91,6 @@ related:
         width: 804
         height: 450
         isCached: true
-  - title: "Sensory Launches Speech Recognition Model for Children"
-    excerpt: "Sensory has released new speech recognition models that have been specifically trained to recognize children’s unique vocal patterns"
-    publishedDateTime: 2021-10-06T21:28:00Z
-    webUrl: "https://mobileidworld.com/sensory-launches-speech-recognition-model-children-7102103/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 39
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg"
-        width: 800
-        height: 560
-        isCached: true
   - title: "The Pandemic is Testing the Limits of Face Recognition"
     excerpt: "Government use of face ID systems exploded during the pandemic—but tying it to critical services has left some people locked out at the moment they needed help the most. At first glance, JB, an artist based in Los Angeles,"
     publishedDateTime: 2021-10-07T12:16:00Z
@@ -118,6 +104,20 @@ related:
       - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2021/09/270x270-Coursera-Banner-1.jpg"
         width: 270
         height: 270
+        isCached: true
+  - title: "Belgian police admit using controversial facial recognition software"
+    excerpt: "The Belgian police admitted using a facial recognition software, according to media reports. Citing an internal investigation of the federal police, Belgian Interior Minister Annelies Verlinden told a parliamentary committee last week that the police had used the controversial software Clearview AI,"
+    publishedDateTime: 2021-10-11T13:34:00Z
+    webUrl: "https://www.yenisafak.com/en/world/belgian-police-admit-using-controversial-facial-recognition-software-3582007"
+    type: article
+    provider:
+      name: Yeni Şafak
+      domain: yenisafak.com
+    quality: 39
+    images:
+      - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2021/10/11/c9b7405b-i759szdhywva43rz2o83.jpeg"
+        width: 600
+        height: 336
         isCached: true
   - title: "Uber facial recognition software to be discriminating over people of colour"
     excerpt: "A former Uber driver is taking legal action against the firm over its automated face-scanning software that he is claiming to be discriminating. Indeed, the black driver who worked with Uber from 2016 to April 2021 has filed an employment tribunal claim alleging his account was illegally deactivated after the facial verification software didn’t recognize him several times."
@@ -133,16 +133,7 @@ related:
         width: 1024
         height: 585
         isCached: true
-  - title: "Belgian police admit using controversial facial recognition software"
-    excerpt: "The Belgian police admitted using facial recognition software, according to media reports. Citing an internal investigation of the federal police, Belgian Interior Minister Annelies Verlinden told a parliamentary committee last week that the police had used the controversial software Clearview AI,"
-    publishedDateTime: 2021-10-11T12:59:00Z
-    webUrl: "https://www.timeturk.com/en/belgian-police-admit-using-controversial-facial-recognition-software/news-45635"
-    type: article
-    provider:
-      name: Timeturk
-      domain: timeturk.com
-    quality: 21
 
-secured: "ghBuqwMCciZfHHMnXwhre/mNWujRJwv+ok0zecJZng+AWdriQwaSm43+s9rX0cv/AgO+iDmyHw9VUgIcXTnTDq40RWwEykRJsatOWzZKAfvM+yyuKb+cEsFZGkgs9zXSNrkAnp9eNvtpd1od0Z8MQgwjDIOGLMa3BcSa+UYlRSUTy+tk2gDPtJki/f/7Z6R24hPJxvRmL6KdoBc5t7v9M6OZhZcUqhctIro6GizM6+sKzNs1pA3/sUW64UvnE4PyxMnGRaL1zwqHXnceGOxa7+UZqPRTh/L6UT/B928jGPxl75yTevI17UTu04pmFp7lHDWYmvrRKHzFrENCEkgXNSTo62AA/Ev/Lw/khS9r+mw=;B1EwxX2Y0X9CcrlJ61yXYw=="
+secured: "bDvDjYDmgXGqdgnOkn4x7MtWYJsCS8uc/61NaDDVrUmnyPxPuwybagEPRJ3e7lLpHjEah9Ki3q5Tkps57e7b8ot6mdpa4ji0fJvC5yQzywVdnsa9r595Pn+5qawrPPzSqEzikxOd1Zhz37GGPDli/VvHWcwOKtzKGLPioh1AlwZ4++yvtXC4idd4l3OSKCQusqaa0Pf60oaRMEvQ/S3vIdahG2tLknPSWHUHxfT2ec8ZBkIUDlgEunr9fBskFqo0X3q7iu4Q0hbexF+7Ja3NsmXeUMGPnaYpTDAWFwRadA82WA3AYkzPJMhKUHQ5axCy5QhrgY5h/qRBBXPUqFwYOkc4eLaUhNlN4e12vfTrXK01crCBHu+5EfjKVacz365wu5A/cQzWjCiyac6i+qs1mCF+mdjQdT1ynSqhzYbKUYe5U33RtplqHF+WbruMdfh9PC6V9hEnjn8RHCFVrr47aNrlGOsTqH0Pz16fNvH4Ra+SasRA9pOJiZGwvhbMiBHQVmVPPHcVtn1Wgb4g1rpVWg==;SEdcxHKiUjG6FIYhTqatTQ=="
 ---
 

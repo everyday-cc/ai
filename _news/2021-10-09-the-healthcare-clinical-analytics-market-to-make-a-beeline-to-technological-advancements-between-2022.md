@@ -25,37 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Secure Messaging In Healthcare Market Development, Innovation, Opportunities And Growth"
-    excerpt: "The Secure Messaging In Healthcare Market is expected to be worth US 979 Million at a CAGR of 20 between 2019 to 2029 Healthcare is going the digital way In other words artificial intelligence AI enabled medical devices and telemedicine"
-    publishedDateTime: 2021-10-08T23:57:00Z
-    webUrl: "https://www.openpr.com/news/2423251/secure-messaging-in-healthcare-market-development"
-    ampWebUrl: "https://www.openpr.com/amp/2423251/secure-messaging-in-healthcare-market-development"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2423251/secure-messaging-in-healthcare-market-development"
+  - title: "Analytics Insight outlines the top most-asked Azure machine learning interview questions"
+    excerpt: "This article outlines the top most-asked Azure machine learning interview questions for aspiring machine learning and artificial intelligence job roles. Microsoft Azure is popular for offering cloud computing service to tech companies."
+    publishedDateTime: 2021-10-08T13:33:00Z
+    webUrl: "https://www.analyticsinsight.net/know-top-most-asked-azure-machine-learning-interview-questions/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 51
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 47
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua09944352_g.jpg"
-        width: 620
-        height: 381
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-most-asked-Azure-machine-learning-interview-questions.jpg"
+        width: 900
+        height: 500
         isCached: true
-  - title: "The Mitotane Market To Be Driven By Entrainment Of Innovative Practices In The Next 10 Years (US$ 22 Million)"
-    excerpt: "The Mitotane Market is expected to be worth US$ 22 Million at a CAGR of 5% between 2029. Healthcare is going the “digital” way. In other words, artificial intelligence (AI)-enabled medical devices and telemedicine are the concrete instances of the proliferation of the digital wave in the healthcare industry."
-    publishedDateTime: 2021-10-07T22:09:00Z
-    webUrl: "https://manometcurrent.com/the-mitotane-market-to-be-driven-by-entrainment-of-innovative-practices-in-the-next-10-years-us-22-million/"
-    ampWebUrl: "https://manometcurrent.com/the-mitotane-market-to-be-driven-by-entrainment-of-innovative-practices-in-the-next-10-years-us-22-million/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/the-mitotane-market-to-be-driven-by-entrainment-of-innovative-practices-in-the-next-10-years-us-22-million/?amp=1"
+  - title: "How advanced predictive analytics can transform capacity optimization in healthcare — 4 learnings"
+    excerpt: "With advanced predictive analytics and intelligence tools powered by artificial intelligence, Aurora-based University of Colorado Health has optimized capacity demands on beds, supplies and staff. During a virtual session sponsored by LeanTaaS at Becker's 6th Annual Health IT + Revenue Cycle Conference,"
+    publishedDateTime: 2021-10-07T19:27:00Z
+    webUrl: "https://www.beckershospitalreview.com/data-analytics/how-advanced-predictive-analytics-can-transform-capacity-optimization-in-healthcare-4-learnings.html"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 40
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 26
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Railcars-Leasing-Market-390x220.png"
-        width: 390
-        height: 220
+      - url: "https://www.beckershospitalreview.com/images/channels/data-analytics/5.jpg"
+        width: 400
+        height: 300
         isCached: true
 
 secured: "7Hwaz3AbXIFmGuXLStw9j1bl9vrNXE+eYKwzZuWJw4JwFc2AO9d8kwKg0U7CyMWI+sv4kslcNDWT+qRzBrQDZ55CKfhKZXuqetRKyNS0JYpnLXkv5WWMEUOIFs1BAarTcKCWFPu3tbhJQpMuKDbPBHD+oJ5ezeJIiEHWXy6lvMQMOGE03BMRPSpoHD8BDOQ3U4JNXjLiUEWsQIEzmzYknpHY2fpEJC603srx3GKpewHwU1vbulgZTIiLui82CHd8DajH2I8sLx9AmXHOUgQslStU6TO1wcuKTbP/daJsxEo15HXsLtj37jhDnbhD39OxYcUe/zb1OwK/u8wTtAn/3tu1Lr/UxIhq/Zkoy9MH03k=;yB2W0RE6wcugXWmadg1ZuA=="

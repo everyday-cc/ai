@@ -38,17 +38,6 @@ related:
         height: 800
         isCached: true
   - title: "Baidu Inc. (BIDU) Stock Sinks As Market Gains: What You Should Know"
-    excerpt: "I n the latest trading session, Baidu Inc. (BIDU) closed at $149.36, marking a -0.29% move from the previous day. This move lagged the S&P 500's daily gain of 0.41%. Prior to today's trading, shares of the web search company had lost 10."
-    publishedDateTime: 2021-10-06T21:50:00Z
-    webUrl: "https://www.nasdaq.com/articles/baidu-inc.-bidu-stock-sinks-as-market-gains%3A-what-you-should-know-2021-10-06"
-    ampWebUrl: "https://www.nasdaq.com/articles/baidu-inc.-bidu-stock-sinks-as-market-gains%3A-what-you-should-know-2021-10-06?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-inc.-bidu-stock-sinks-as-market-gains%3A-what-you-should-know-2021-10-06?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "Baidu Inc. (BIDU) Stock Sinks As Market Gains: What You Should Know"
     excerpt: "From self-driving cars to consumer data analysis ... Click to get this free report Baidu, Inc. (BIDU): Free Stock Analysis Report To read this article on Zacks.com click here."
     publishedDateTime: 2021-10-08T04:19:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/baidu-inc--bidu-stock-sinks-as-market-gains--what-you-should-know-10601134"

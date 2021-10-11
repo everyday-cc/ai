@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitabl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
 type: article
 quality: 103
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google DeepMind AI: Here's how it's better than regular weather forecast"
+    excerpt: "Google’s DeepMind AI has a brand new way to predict weather forecasts with the highest accuracy. Get ready to say goodbye to the regula"
+    publishedDateTime: 2021-10-11T14:04:00Z
+    webUrl: "https://menafn.com/1102951102/Google-DeepMind-AI-Heres-how-its-better-than-regular-weather-forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 53
+    images:
+      - url: "https://menafn.com/updates/pr/2021-10/11/B_c2127image_story.jpeg"
+        width: 2048
+        height: 1152
+        isCached: true
   - title: "Alphabet helps DeepMind to turn its first ever profit"
     excerpt: "DeepMind, the London-based AI research firm, has turned a profit for the first time ever, reporting in £43.8 million in profits for 2020. The firm has posted multi-million-pound losses over the last several years and reportedly burned through $649 million in 2019."
     publishedDateTime: 2021-10-07T08:11:00Z
@@ -60,6 +74,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "07P5k9/BXWzP8A4hFSmmxWIr2J2eoe8ZC8uxHo4BhLaD3ULEEc4DKh/Z9rGGRRVm56/j5cBS0B5scTUYNxw5SL0H9AWgIT7ZxCqicJZGiefa/+BxdZXicL9UdcxFCEUe3h8jMdJ9adj1zFn2Vawr1GNUgu8bgKaRAALGJZ0HTLONvh1Ay9cACnqHehHUBXoTdjVe5IHieNgAcITI69pZx4KN6BTevNRuEWyUBZLQYbSinSOnFzEVMm6uqJPfZ31iegwEESM2/wmT5Zv/wY5JTbSIfvfXGv9ZRj6nAIoufKThe72ASSNpbNL2EQvOhBz1DZhSG1x1yn26/wWSqZngAAv6Bp7usLfbRlQYpm/7nFY=;cAKxMvIX50QDOOZ+HP0t1w=="
+secured: "l4ljI4O5X20AyISSfwnKirHslKQNCZ7cfMF6mBnx+3wEFbZc6nBI3Tw+pNtJE4JIrWAL+hbyirROjqBD8btT9zcWRKg+zgaHozx3dEClnAH1ScWFug3fR0ZuOn0bOwW7qJpwgSwffPc17RMI0e63fv/YStF+MQwMsHyjXl/fG56/fUisQRatGsFxkwEpS6OnETj4x79LeskWxXcHEfgL0fAABdxw9H1LQmgsK0JlRV2TCBPPV06Pu8YmfEwB9Z+fgB0UFuUArlp7vYSxWGbbeSqcjlX0HYW1Z1AO458tq8P5FPOXfom2sGZSyEVIu4wfhJbzaVNiAA/4N0yZsCuJqv4rLiYfR4c0OgJu80XH8I4=;HLZang6raF4BDkT9zThTkw=="
 ---
 

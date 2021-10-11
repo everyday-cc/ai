@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/part-2-build-your-ow
 webUrl: "https://aws.amazon.com/blogs/machine-learning/part-2-build-your-own-brand-detection-and-visibility-using-amazon-sagemaker-ground-truth-and-amazon-rekognition-custom-labels-training-and-analysis-workflows/"
 type: article
 quality: 91
-heat: -1
-published: false
+heat: 101
+published: true
 
 provider:
   name: AWS
@@ -30,33 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Bring structure to diverse documents with Amazon Textract and transformer-based models on Amazon SageMaker"
-    excerpt: "From application forms, to identity documents, recent utility bills, and bank statements, many business processes today still rely on exchanging and analyzing human-readable documents—particularly in industries like financial services and law. In this post, we show how you can use Amazon SageMaker, an"
-    publishedDateTime: 2021-10-06T22:52:26Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-structure-to-diverse-documents-with-amazon-textract-and-transformer-based-models-on-amazon-sagemaker/"
+  - title: "Emotion Detection and Recognition Markets by Solution, Application, Technology, & End-User - Global Forecast to 2027 - ResearchAndMarkets.com"
+    excerpt: "The “Emotion Detection and Recognition Market 2021-2027” report has been added to ResearchAndMarkets.com’s offering. The Emotion Detection and Recognition Market is anticipated to grow at the rate of 11."
+    publishedDateTime: 2021-10-07T14:44:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-0ff909975c8c48178df310e92e8eadad"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 103
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
-        isCached: true
-  - title: "Run computer vision inference on large videos with Amazon SageMaker asynchronous endpoints"
-    excerpt: "AWS customers are increasingly using computer vision (CV) models on large input payloads that can take a few minutes of processing time. For example, space technology companies work with a stream of high-resolution satellite imagery to detect particular objects of interest. Similarly, healthcare companies"
-    publishedDateTime: 2021-10-06T21:28:48Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-computer-vision-inference-on-large-videos-with-amazon-sagemaker-asynchronous-endpoints/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 96
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/29/ML-5668-Architecture-1.png"
-        width: 902
-        height: 416
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "ANau+tmYjGxRIJcw1KchtHH/2KIlcm1YeBDKMVCQZ/YVjCOODslN5JKIJT/UmV64PbFIlKOGtwaJyGMUZCl6ZeOxapqwuIUb0MmI1sUDzUoJkPkHhUoJjZUx4QAT9SkugoAFqpZ0EIyX/9dSf7NYTYzdidJQDaPHbgFv1zqusmsDyfdJR6J7DHwmAqY/5vKvA3JxmzV5XPqLyDawzbOdkz8oMAcV7ONysX8qzZSfjwuS2YuQm77e5zeMZYis0BYepyPhQj3iHtlaY1VawMMYn07hBy8nWn0dxduOiJXfkJW6bVJD1cT/8uYtuDf3eG7iIaJTBPWYZthij4j/nb4Au/2kJgk4MPATHkBvHti8C2I=;WhFcaBuRbgq8vNsg8WW0vw=="

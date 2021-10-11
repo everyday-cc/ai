@@ -39,17 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Baidu Inc. (BIDU) Stock Sinks As Market Gains: What You Should Know"
-    excerpt: "I n the latest trading session, Baidu Inc. (BIDU) closed at $149.36, marking a -0.29% move from the previous day. This move lagged the S&P 500's daily gain of 0.41%. Prior to today's trading, shares of the web search company had lost 10."
-    publishedDateTime: 2021-10-06T21:50:00Z
-    webUrl: "https://www.nasdaq.com/articles/baidu-inc.-bidu-stock-sinks-as-market-gains%3A-what-you-should-know-2021-10-06"
-    ampWebUrl: "https://www.nasdaq.com/articles/baidu-inc.-bidu-stock-sinks-as-market-gains%3A-what-you-should-know-2021-10-06?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-inc.-bidu-stock-sinks-as-market-gains%3A-what-you-should-know-2021-10-06?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "Is Baidu's Stock Cheap At 150?"
     excerpt: "Updated 03/25/2021] Does Baidu’s Stock Have A Moderate Upside? Having grown 62% since the end of 2018, Baidu’s stock (NASDAQ: BIDU) has moderate upside potential. Baidu, China’s Google rival, saw its stock grow from $159 at the end of 2018 to near $257 now,"
     publishedDateTime: 2021-10-11T08:11:00Z

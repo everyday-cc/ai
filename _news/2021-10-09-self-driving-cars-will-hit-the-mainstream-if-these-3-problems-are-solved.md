@@ -24,6 +24,22 @@ images:
     height: 1080
     isCached: true
 
+related:
+  - title: "Tag \"Self-driving car trends\""
+    excerpt: "Top Self-Driving Car Trends that will Surely Rev Up in 2022. These self-driving car trends are going to change 2022 to a great extent The popularity of self-driving cars or autono"
+    publishedDateTime: 2021-10-11T15:40:00Z
+    webUrl: "https://www.analyticsinsight.net/tag/self-driving-car-trends/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 24
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/top-self-driving-car-trends-that-will-surly-rev-up-in-2022-1-817x404_c.jpg"
+        width: 817
+        height: 404
+        isCached: true
+
 secured: "rirIRCHj0eGWANhyOoXkV8Aga1eGDav2jRna9PqP2oJrBPoIr+RlMNch2zHoDtLS12th+SPvTO4/3CEtsM+Rr4wZccr4Ykk0/IVL37wi9Ga0qWGMIpuiO3Vdhz1ctfCreyscwIkk8bNDZYjFWwx5L1lunV73fhXtR/BUMN6NtvZ4Xx9hk+S0KN2E760Fh62kTBCtQvkiuAF/ghquBxxzEWgGB14ZMjsVRK3guFmQqVJS1kTDWRLkXoz4wUPk4kG/vxA0yc3ADEYjuy7RFg9LBsZyUg4rzl8uxP4312G77sUnx83NcH9Fwt0X1fhSD1SIJVZU5nCi47qyDYwO/eDB30iGLY0dFJL6y/uuiuod/GjB7X3vVUyH7o1cRqP28USEKNHIzyt/bpqHur+r8kPfw5Hx1eDoeBBkLR5uAzPjreWe7KYr/iISlzg0s7fkD/ZJyTAZw4gqzXgUlOQkxDsfYJaDftmOG7S5Im3f2FELeX2l6EjU27Mj/BAggmXto68d01ie7vHAyDLe7iWaD0KCEw==;quQDmbOOMrjPH8izoCN0RA=="
 ---
 

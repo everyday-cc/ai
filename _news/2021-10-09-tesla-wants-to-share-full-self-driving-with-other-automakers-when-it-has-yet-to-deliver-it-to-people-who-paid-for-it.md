@@ -157,6 +157,36 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Tesla's Full Self Driving Beta Rolling Out to More ‘Good Drivers'"
+    excerpt: "Tesla continues to expand access to the beta version of its new Full Self Driving (FSD) autonomous driving feature. Chief Executive Elon Musk confirmed a tweet early Monday that FSD version 10.2 is ready for download."
+    publishedDateTime: 2021-10-11T15:26:00Z
+    webUrl: "https://www.futurecar.com/4921/Tesla’s-Full-Self-Driving-Beta-Rolling-Out-to-More-‘Good-Drivers’"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 54
+    images:
+      - url: "https://img.futurecar.com/202110/11/l_616456935de63.jpeg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Tesla Has Halted Its Full Self-Driving Beta Rollout At The Last Moment – This Is Why"
+    excerpt: "Advertisement On Saturday, the most anticipated release of Tesla’s full self-driving beta 10.2 to approximately 1,000 Tesla owners with “perfect” safety scores was postponed. Elon Musk blamed the delay on “a few last-minute construction concerns."
+    publishedDateTime: 2021-10-11T13:38:00Z
+    webUrl: "https://wonderfulengineering.com/tesla-has-halted-its-full-self-driving-beta-rollout-at-the-last-moment-this-is-why/"
+    ampWebUrl: "https://wonderfulengineering.com/tesla-has-halted-its-full-self-driving-beta-rollout-at-the-last-moment-this-is-why/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/tesla-has-halted-its-full-self-driving-beta-rollout-at-the-last-moment-this-is-why/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 52
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/10/2_e2e40fb6-2cc5-4583-babd-758c14e96cae_1024x1024.jpg"
+        width: 1024
+        height: 575
+        isCached: true
   - title: "See how Tesla’s ‘full self-driving’ mode works"
     excerpt: "Despite concerns from regulators,Tesla is rolling out its autonomous driving feature to some owners who can prove they are safe drivers."
     publishedDateTime: 2021-10-08T00:52:00Z
@@ -170,6 +200,34 @@ related:
       - url: "https://kvia.b-cdn.net/2021/10/100721-HIKE-FORECAST-375x225.png"
         width: 375
         height: 225
+        isCached: true
+  - title: "Tesla begins rolling out 'full self-driving' software update: Musk"
+    excerpt: "Elon Musk on Monday said Tesla has finally started rolling out its Full Self-Driving (FSD) Beta 10.2 software.<"
+    publishedDateTime: 2021-10-11T14:05:00Z
+    webUrl: "https://menafn.com/1102951196/Tesla-begins-rolling-out-full-self-driving-software-update-Musk"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-10/11/I_d5aaaimage_story.jpg"
+        width: 400
+        height: 271
+        isCached: true
+  - title: "Tesla Rolls Out Full Self-Driving (FSD) Software Update"
+    excerpt: "Elon Musk on Monday said Tesla has finally started rolling out its Full Self-Driving (FSD) Beta 10.2 software."
+    publishedDateTime: 2021-10-11T15:35:00Z
+    webUrl: "https://www.techshout.com/tesla-rolls-out-full-self-driving-fsd-software-update/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 39
+    images:
+      - url: "https://www.techshout.com/wp-content/uploads/2021/08/tesla-logo.jpg"
+        width: 690
+        height: 758
         isCached: true
   - title: "Musk delays Tesla Full Self-Driving beta release over ‘last minute concerns’"
     excerpt: "Elon Musk took to Twitter to explain Tesla delayed Friday's limited release of the Full Self-Driving beta over \"last minute concerns.\""
@@ -193,15 +251,6 @@ related:
     provider:
       name: RealClearMarkets
       domain: realclearmarkets.com
-    quality: 19
-  - title: "Tesla begins rolling out 'full self-driving' software update: Musk"
-    excerpt: "San FRancisco, Oct 11 (IANS) Elon Musk on Monday said Tesla has finally started rolling out its Full Self-Driving (FSD) Beta 10.2 software. The software was slated for a roll out to about 1,000 Tesla owners last weekend but was delayed owing to \"last ..."
-    publishedDateTime: 2021-10-11T11:57:00Z
-    webUrl: "https://www.sify.com/news/tesla-begins-rolling-out-full-self-driving-software-update-musk-news-education-vkll59bceceia.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
     quality: 19
 
 secured: "0bmWEtm87udAFNdPPfOsGubL4yjpya6KSSOhvOR0ZRPbWjIIfatUsYaZhCfI5d8P7voQS7OEN2oKjfCyY29qQ1j2B4PlbcHckXLiDkq2R0Ow5F9P6PCvxUpQP4EXP8ZNCkbgjdGg7AiaHHR/Np1BHUX4kGxv8/EjBRnV1Gni3j42WgrFpGCH69PnvWtyN6z0E+OETiDOq++euE7BkcYfS3Kvb9HfDlJmWauAvhyri4WcyXr0u2NTk/SpiKT4yrj1tGd+x4oPwdlQVoz02R0o5JU0Ghk1VXRosC33gtxaClgp60zHpT9L1apENoGDTKkNnKGuVEKZI7jt3jOKGP4Gn2PYaZBYAP4HTaxk4mZSEkuFY/86D8eS8xiIGYnfdLexp+HK07QM5VVBGb8JOpCXwO1L3LIICoIOTrTlSo4OQVJajFL/t4H5D3f6+bueJqk3bXKZtaDvchjKc0uq6hWCl3/6ciT8kSVmXtQRqAMrkfpTFMFhuEP8s1OGCsnJ6ups2IaFc69n5NWcA1RJrcvWvQ==;8OEvk9jZpcV2hiyRUtRAtA=="

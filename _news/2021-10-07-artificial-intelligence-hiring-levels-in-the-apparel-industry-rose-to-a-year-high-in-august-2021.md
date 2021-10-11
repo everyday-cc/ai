@@ -38,6 +38,20 @@ related:
         width: 2560
         height: 1067
         isCached: true
+  - title: "Artificial intelligence hiring levels in the automotive industry rose to a year-high in August 2021"
+    excerpt: "The proportion of automotive manufacturing and supply companies hiring for artificial intelligence related positions rose to a year-high in August...Read"
+    publishedDateTime: 2021-10-07T15:13:00Z
+    webUrl: "https://www.just-auto.com/features/artificial-intelligence-hiring-levels-in-the-automotive-industry-rose-to-a-year-high-in-august-2021/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 23
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/10/shutterstock_1089540200.jpg"
+        width: 500
+        height: 275
+        isCached: true
 
 secured: "2qmREi8sgs1IGpGWPJlPnvISHcqzQGYzVWD0O+YczI+IULSGhJSejfg4OHpKlZdtLQOAowIaoGVFsiM00ZqH2gx64gnzPQBjDR2qbgcotWcnzBDsaCBhu/3PKFni0hOpxNY8C/UPLpj31iXu9vctCdDyl9QArR2Hi4dXhd5f9qlqPiKSPN/MCXgkZE5JpBMJIr7HmUD4rGyRylJgasTmE0b6hYi++Z6yPkI5RnzocjB+sK0I1VvQdqZeBqhzTHi/+c5uPXNVaOioqcS2zDFUWd31ho4zQs+zM+/IA0XpLDfb+bf0Dm6/nHsQhWDdFthKNi1bbquSzhBoy7OJeLlJ/z7EuKZWRLOnIKwD3ieuyU8=;Dp1VMk8ZQTsXZRT28/gXKA=="
 ---

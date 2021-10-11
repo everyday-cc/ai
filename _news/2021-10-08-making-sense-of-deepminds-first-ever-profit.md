@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google DeepMind AI: Here's how it's better than regular weather forecast"
+    excerpt: "Google’s DeepMind AI has a brand new way to predict weather forecasts with the highest accuracy. Get ready to say goodbye to the regula"
+    publishedDateTime: 2021-10-11T14:04:00Z
+    webUrl: "https://menafn.com/1102951102/Google-DeepMind-AI-Heres-how-its-better-than-regular-weather-forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 53
+    images:
+      - url: "https://menafn.com/updates/pr/2021-10/11/B_c2127image_story.jpeg"
+        width: 2048
+        height: 1152
+        isCached: true
   - title: "Alphabet helps DeepMind to turn its first ever profit"
     excerpt: "DeepMind, the London-based AI research firm, has turned a profit for the first time ever, reporting in £43.8 million in profits for 2020. The firm has posted multi-million-pound losses over the last several years and reportedly burned through $649 million in 2019."
     publishedDateTime: 2021-10-07T08:11:00Z

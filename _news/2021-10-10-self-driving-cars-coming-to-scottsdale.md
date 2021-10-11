@@ -25,49 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "GM Ultra Cruise pushes closer to door-to-door self-driving cars"
-    excerpt: "General Motors is officially dialing its self-driving program up from \"Super\" to \"Ultra.\" Set to launch in model year 2023, the all-new Ultra Cruise system promises a full hands-free driving experience in 95 percent of driving scenarios."
-    publishedDateTime: 2021-10-06T21:56:00Z
-    webUrl: "https://newatlas.com/automotive/gm-ultra-cruise/"
-    ampWebUrl: "https://newatlas.com/automotive/gm-ultra-cruise/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/gm-ultra-cruise/?amp=true"
+  - title: "Self-driving shuttle service poised to launch in Ann Arbor"
+    excerpt: "Ann Arbor residents will soon be able to be shuttled by self-driving vehicles. A2GO — a partnership between May Mobility, MCity and Ann Arbor SPARK, among other groups — will be launching an autonomous vehicle shuttle service available to the public on Monday,"
+    publishedDateTime: 2021-10-10T12:00:00Z
+    webUrl: "https://www.mlive.com/news/ann-arbor/2021/10/self-driving-shuttle-service-poised-to-launch-in-ann-arbor.html"
+    ampWebUrl: "https://www.mlive.com/news/ann-arbor/2021/10/self-driving-shuttle-service-poised-to-launch-in-ann-arbor.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2021/10/self-driving-shuttle-service-poised-to-launch-in-ann-arbor.html?outputType=amp"
     type: article
     provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 74
+      name: MLive
+      domain: mlive.com
+    quality: 44
     images:
-      - url: "https://assets.newatlas.com/dims4/default/156c86d/2147483647/strip/true/crop/1280x853+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F79%2Fc2%2F7037f0204f8b953292f2f8158a36%2F2021-cadillac-escalade-004.jpg"
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KRLCYQWESZB5LP5ICA6KZXTCNI.JPG"
         width: 1200
-        height: 800
-        isCached: true
-  - title: "General Motors unveils Ultra Cruise self driving tech"
-    excerpt: "General Motors has unveiled Ultra Cruise, a new, advanced driver assistance technology which, it said, is a significant next step...Read"
-    publishedDateTime: 2021-10-07T10:38:00Z
-    webUrl: "https://www.just-auto.com/news/general-motors-unveils-ultra-cruise-self-driving-tech/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/10/GM-UltraCruise-resize.jpg"
-        width: 682
-        height: 383
-        isCached: true
-  - title: "GM Ultra Cruise: Self-Driving Cars Can Finally Ditch Highways"
-    excerpt: "GM announced today its semiautonomous driving system called 'Ultra Cruise.' It aims to leapfrog Tesla in the race to self-driving cars."
-    publishedDateTime: 2021-10-07T18:30:00Z
-    webUrl: "https://gearjunkie.com/news/gm-ultra-cruise-self-driving-cars"
-    type: article
-    provider:
-      name: GearJunkie
-      domain: gearjunkie.com
-    quality: 24
-    images:
-      - url: "https://s3.amazonaws.com/images.gearjunkie.com/uploads/2021/10/GM-UltraCruise-1200x628.jpg"
-        width: 1200
-        height: 628
+        height: 799
         isCached: true
 
 secured: "cxe1GupECVbE80khbbq5R4Px5tRNUky5jRguy0/QY7bkj/RNo6UwYsWcwkOAkYJXS3aUlq7VbN9aimkvin1H7zq0259Uf9Ol6sZtTBFHJKXwy+bewwjhl1B83tNOLkBPohTb3xhrsaXFSPibsfu0DlV5R5IxjejsBBC3TyJ3FnqCYmmAXCOAslrT4rXad0uoyiiKSywJy8AmIBT/+MdA4EmjYaLZJ/sxxug3lB8IxO129vgPlsUJdnmT4g2mSxz+BGGKZumGYpxaVktVnLYsN8rfYGax8Jjjngfb7NSztt4VBBgMeocg3HzF9gwDma7Rdg0i/RHBIkUdHjTjVvffOovoVliIfrtKJMTvOZNqf8/7XKqos+7lxBWJmfXv+cz3G4J+C3uMmce+m3w2G2Bzv076Ce9W0qwmhE0o3HmfNHjb/rmNHfGNqymMjblpZRXhDDKV97eOxcSG1ophM3BtpPkg4HWIyumyslJlJO2JfNsSQyprL8aHm/FXdn9LjcJprmxY7gh1rhbXKO0A5WxdRg==;tcmvWPLmaE2Nj6oH5YpryA=="

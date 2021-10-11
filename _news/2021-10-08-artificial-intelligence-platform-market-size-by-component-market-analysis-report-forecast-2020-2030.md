@@ -50,6 +50,15 @@ related:
         width: 366
         height: 250
         isCached: true
+  - title: "Healthcare Artificial Intelligence Market Import-Export Ratio, Revenue, Share, Expansion Rate Forecasts to 2019-2025"
+    excerpt: "Healthcare Artificial Intelligence Market will exceed USD 13 billion by 2025; as per a new research report. Advancements in big data analytics is the key impact rendering factor that drives the healthcare artificial intelligence market growth."
+    publishedDateTime: 2021-10-07T19:30:00Z
+    webUrl: "https://www.xing.com/communities/posts/healthcare-artificial-intelligence-market-import-export-ratio-revenue-share-expansion-rate-forecasts-1016803978"
+    type: article
+    provider:
+      name: XING
+      domain: xing.com
+    quality: 15
 
 secured: "Blij5rxzuxqDZRErzISAAM+I1y2liIdQxs4rRqH6t5H5TaJ9WKxa7MZLcuUxJU9N8EK/iSdWotipWjoqApo5ML9rbhElKRwDrmCCI66GwCrkuZFlVLbMYIqZ53tZ9+lY5iHyop0f/CA2nI/EJUKO/pFqBRtOLcQQ0dgmAcuWytyJqnp36fNRhQGSB975dVra9WgWqW5gvk2ZERbqbUCZHAQIWn4gitg3z1nIKuQzFwo1jlodjNxmwyVrCCfb4Zm600oq0xFJK+vmQ1m+arkRx2w538zDCbqrXCcof+60kS4PZqA7Cr8+CdqkH8AoNUh3E3rICx5ptxqPbllRlZh3MtwKpckFV+IVG9MBUFTwS2I=;zqcRnXWKv68DP6FLB/KZDw=="
 ---

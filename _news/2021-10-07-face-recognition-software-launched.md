@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/"
 type: article
 quality: 59
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
         width: 804
         height: 450
         isCached: true
-  - title: "Sensory Launches Speech Recognition Model for Children"
-    excerpt: "Sensory has released new speech recognition models that have been specifically trained to recognize children’s unique vocal patterns"
-    publishedDateTime: 2021-10-06T21:28:00Z
-    webUrl: "https://mobileidworld.com/sensory-launches-speech-recognition-model-children-7102103/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 39
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg"
-        width: 800
-        height: 560
-        isCached: true
   - title: "The Pandemic is Testing the Limits of Face Recognition"
     excerpt: "Government use of face ID systems exploded during the pandemic—but tying it to critical services has left some people locked out at the moment they needed help the most. At first glance, JB, an artist based in Los Angeles,"
     publishedDateTime: 2021-10-07T12:16:00Z
@@ -102,6 +88,20 @@ related:
       - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2021/09/270x270-Coursera-Banner-1.jpg"
         width: 270
         height: 270
+        isCached: true
+  - title: "Belgian police admit using controversial facial recognition software"
+    excerpt: "The Belgian police admitted using a facial recognition software, according to media reports. Citing an internal investigation of the federal police, Belgian Interior Minister Annelies Verlinden told a parliamentary committee last week that the police had used the controversial software Clearview AI,"
+    publishedDateTime: 2021-10-11T13:34:00Z
+    webUrl: "https://www.yenisafak.com/en/world/belgian-police-admit-using-controversial-facial-recognition-software-3582007"
+    type: article
+    provider:
+      name: Yeni Şafak
+      domain: yenisafak.com
+    quality: 39
+    images:
+      - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2021/10/11/c9b7405b-i759szdhywva43rz2o83.jpeg"
+        width: 600
+        height: 336
         isCached: true
   - title: "Mobile Speech Recognition Software Market Research 2021-2027 Demand, Market Share, Statement, Business Summary"
     excerpt: "The constantly evolving landscape of the world economy along with emergence of new and promising technologies pertaining to manufacturing product development and design and packaging has created ample opportunities for the stakeholders in Global Mobile Speech Recognition Software Market Participants"
@@ -133,15 +133,6 @@ related:
         width: 1024
         height: 585
         isCached: true
-  - title: "Belgian police admit using controversial facial recognition software"
-    excerpt: "The Belgian police admitted using facial recognition software, according to media reports. Citing an internal investigation of the federal police, Belgian Interior Minister Annelies Verlinden told a parliamentary committee last week that the police had used the controversial software Clearview AI,"
-    publishedDateTime: 2021-10-11T12:59:00Z
-    webUrl: "https://www.timeturk.com/en/belgian-police-admit-using-controversial-facial-recognition-software/news-45635"
-    type: article
-    provider:
-      name: Timeturk
-      domain: timeturk.com
-    quality: 21
 
 secured: "z6FMyixx3GFrYO3/qmh/CfmHicmrbLz4FF2Ove17ghH6wDyLVs/WhXzZlTgADlOYqsiWYRkuDXCLurHazoMDcBzWQScRTje+aY4Y5JYtB66GElhU05X43wsjqSK8OV8y4gC77S4ofURzxqL9SrnBIJy93HIP8anYmtRhZmbloceYRr7wHo8Chq9X4IC+NRW+l53GxDflTJbR9Cg4/Gq33JZrL9zlFPp3hNSil0BuI6Lvt5xWqX3S2IeG6lYRGTyrzo5DXBeJJzp/mEvl0pxSfVK3X467oz6G7prqC3XejVTHrKNLQP8KP6gxCDe6xBfF5inVt1Qb49r/hrY/m7C9FLOJSrX2LleGpPjtG1Ldy+g=;aVRiembU7/u+md70VumREg=="
 ---

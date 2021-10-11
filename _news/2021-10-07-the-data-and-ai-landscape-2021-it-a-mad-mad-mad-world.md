@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-data-and-ai-landscape-2
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world/"
 type: article
 quality: 89
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence and Machine Learning is altering the marketing landscape?"
+    excerpt: "In this technological era new technologies are being introduced in the market now and then Businesses are no more using the traditional marketing methods to g"
+    publishedDateTime: 2021-10-11T15:47:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271458994/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 66
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1633964478.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Artificial Intelligence Market 2021"
     excerpt: "The artificial intelligence (AI) market is driven by data-based AI & deep learning. Explore our overview of today's artificial intelligence market & forecast now."
     publishedDateTime: 2021-10-08T16:08:00Z
@@ -58,6 +72,20 @@ related:
       - url: "https://www.datamation.com/wp-content/uploads/2021/10/DRL-ICA-82721-scaled.jpeg"
         width: 2560
         height: 1707
+        isCached: true
+  - title: "The Best AI Stocks to Buy for 2021 and Beyond"
+    excerpt: "In this article, we discuss the 10 best AI stocks to buy for 2021 and beyond. You can skip our detailed analysis of the AI industry, and go directly to see the 5 Best AI Stocks to Buy for 2021 and Beyond."
+    publishedDateTime: 2021-10-11T13:26:00Z
+    webUrl: "https://www.insidermonkey.com/blog/the-best-ai-stocks-to-buy-for-2021-and-beyond-983673/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 39
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/09/29220621/possessed-photography-JjGXjESMxOY-unsplash.jpg"
+        width: 4398
+        height: 3888
         isCached: true
 
 secured: "yHF1t3L3g3QljavSeCrE+kJPd880hFsJKoakwiN2+JnokBGnnWU5+J1j98zPxdkTavG2GDwBg09OackLMFGWETqEc/njNnzJDIZWsUfa8YSF0dzNOyUPzUrVdStRvfgLYPu+KTFwEKr2fh3MGzEDQ+H9jDGkF7dBYduOltNnVK6qj/3i99q65T0R07EjMl7zsC1KNaISY3gROI1HXc0nb9VT6ql3403mBKgGgOnYinWfx/uzvVpusVvwZQoLZutofLj9ExMgTE3Lnlg/K+fa43xB02YK3WPnOywNNmVSeeunEcxBFx/YSF7iTDo21ll/whsIU8d1TDOR20WmwNPvzvW7p7nbtS3B7e+mQiqYUwWjFNcq5plHxadAq5Q/tFzrX+xyiSji7LEmOtFDBuk8/rRgv5WQp4R/4HXRpKZ40HYMLWdBbrv9xJ5P0opCMjzi8XadVlmVKbO2E2Eq7EaPG1pE+7pxPbS5O7pV/q2xRpGtXrE4m5hWou/+6rRAAUJi+gRw6hVRxeHEAoM3mkrciA==;rnkZPmzDimFtwhFGfFgmdA=="
